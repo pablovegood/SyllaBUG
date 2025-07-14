@@ -1,0 +1,6 @@
+Temario de la asignatura
+Aprende a programar la nube, Amazon, 2015
+Cloud Computing Explained: Implementation Handbook for Enterprises, de John Rhoton. Recursive Press, 2013 Edition
+What is Domain Driven Design,Vladik Khononov, O'Reilly, 2019
+Infrastructure as Code (IAC) Cookbook, Stephane Jourdan and Pierre Pomes, Packt, 2017
+Cloud Computing, A Practical Approach, Toby Velte, Anthony Velte, Robert Elsenpeter. McGraw-Hill Osborne Media; 1 edition (September 22, 2009)

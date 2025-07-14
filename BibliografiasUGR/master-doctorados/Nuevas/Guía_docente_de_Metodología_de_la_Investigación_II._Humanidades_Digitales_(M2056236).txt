@@ -1,0 +1,22 @@
+Baxendale, C. & Buzai, G.D. (Ed.)(2010):Geografía y sistemas de información geográfica : aspectos conceptuales y aplicaciones. Buenos Aires. Universidad Nacional de Luján
+Carter, J.C. (2019).Introduction to Human Geography using ArcGis Online. Redlands, California. ESRI Press
+Corbin, T. (2020).Learning ArcGIS Pro 2-Second Edition.Packt Publishing.
+Forta, Ben (2018):Learning regular Expressions. Boston. Addison-Wesley
+Moreno Jiménez, A. (coord.) (2006).Sistemas y análisis de la información geográfica. Manual de autoaprendizaje con Arcgis. Madrid. RA-MA Editorial
+Moya Fuero, A., Temes Cordovez, R.R. (Coord)(2020).SIG revolution: ordenación del territorio, urbanismo y paisaje. Madrid. Síntesis
+Peña Llopis, J. (2008):Sistemas de información geográfica aplicados a la gestión del territorio: entrada, manejo, análisis y salida de datos espaciales.San Vicente, Alicante. Club Universitario
+Styler, Will (2019):Using Unix for Linguistic Research. Published in January 2019, and continuosly maintained athttp://savethevowels.org/unix/.
+Weisser, Martin (2016):Practical Corpus Linguistics. An introduction to Corpus-Based Language Analysis. Oxford. Wiley Blackwell
+Cascón-Katchadourian, J., López-Herrera, A. G., Ruiz-Rodríguez, A. Á., & Herrera-Viedma, E. (2019). Proyecto Histocarto: aplicación de SIGs (georreferenciación y geolocalización) para mejorar la recuperación de la documentación histórica gráfica.Profesional de la Información,28(4)
+De La Riva, J., Lamelas, M.T., Montoro, R., Pérez-Cabello, F. y Rodrigues, M. (2022).Actas del XIX Congreso de Tecnologías de la Información Geográfica. TIG al servicio de los ODS. Zaragoza: Universidad de Zaragoza, AGE.
+Friedl, Jeffrey E. F. (2006):Mastering Regular Expressions. Sebastopol, CA, O’Reilly Media, Inc.
+Froehlich, Heather (2018): "Análisis de corpus con AntConc", traducido por Carlos Manuel Varón Castañeda,The Programming Historian en español 2. URL: https://programminghistorian.org/es/lecciones/analisis-de-corpus-con-antconc
+Gries, Stefan Th. & Magali Paquot (2020): "Writing up a corpus-linguistic paper". In Magali Paquot & Stefan Th. Gries (eds.).A practical handbook of corpus linguistics. Berlin & New York: Springer.
+Gutiérrez De la Torre, Silvia (2019): "Análisis de corpus con Voyant Tools",The Programming Historian en español 3. URL: https://programminghistorian.org/es/lecciones/analisis-voyant-tools
+Kilgarriff, Adam et al. (2014): "The Sketch Engine: ten years on".Lexicography, 1: 7-36
+Law, M. & Collings, A. (2018).Getting to know ArcGIS desktop. Redlands, California: ESRI Press.
+Rojo, Guillermo. (2021):Introducción a la lingüística de corpus en español. London: Routledge.
+Santos Preciado, J. M. (2008).Los sistemas de información geográfica vectoriales: el funcionamiento de ArcGis. Madrid. Universidad Nacional de Educación a Distancia
+Sketch Engine. Quick Start Guide. URL:https://www.sketchengine.eu/quick-start-guide/
+Schmitt, Lothar R. et al. (2007): "Linguistic Computing with UNIX Tools". En Anne Kao & Stephen R. Pteet (eds):Natural Language Processing and Text Mining. Springer-Verlag London, pp. 221-258
+Yoes, Brad (2012): "Introducción a la manipulación de texto en sistemas basados en UNIX". IBM. DeveloperWorks

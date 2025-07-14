@@ -1,0 +1,6 @@
+Romero, J., García, J.A., García y Beltrán, A. Curso introductorio a la Óptica Fisiológica, Ed. Comares, 1996.
+Wandell, B. Foundations of vision. Ed. Sinauer. 1995.
+Borgo, M., Soranzo, A., Grassi, M. MATLAB for Psychologists. Ed. Springer. 2012.
+Lu, Z.L., Dosher, B. Visual psychophysics. From laboratory to theory. Ed. MIT press. 2013.
+Cuevas, E., Zaldívar, D., Pérez, M. Procesamiento digital de imágenes con MATLAB y Simulink. Ed. Ra-Ma. 2010.
+Voelz, D. G. Computational Fourier Optics.

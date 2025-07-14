@@ -1,0 +1,7 @@
+J. E. Gentle, Matrix Algebra. Theory, Computations, and Applications in Statistics. Springer (2008).
+L. Merino, E. Santos, Álgebra lineal con métodos elementales, Thomson (2007).
+E. Hernández, Álgebra y Geometría, Addison Wesley Iberoamericana, (1994).
+I. Ojeda Martínez de Castilla, J. Gago Vargas,Métodos Matemáticos para estadística, Colección manuales UEX - 58 (2008).
+Gilbert Strang, Linear Algebra and Its Applications 3ed., Thomson Learning (1988).
+Roger A. Horn, Matrix Analysis Cambridge University Press(1990).
+Ruriko Yoshida, Linear Algebra and Its Applications with R, Chapman and Hall/CRC (2021).

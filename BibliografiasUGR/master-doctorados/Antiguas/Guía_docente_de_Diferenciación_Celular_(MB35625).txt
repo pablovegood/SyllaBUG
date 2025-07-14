@@ -1,0 +1,21 @@
+Takahashi K, et al. (2007) Induction of pluripotent stem cells from adult human fibroblasts by defined factors. Cell 131:861-872.
+Yu J, et al. (2007) Induced pluripotent stem cell lines derived from human somatic cells. Science 318:1917-1920.
+Lowry WE, et al. (2008) Generation of human induced pluripotent stem cells from dermal fibroblasts. Proc Natl Acad Sci 105:2883-2888.
+Meissner A, Wernig M, Jaenisch R (2007) Direct reprogramming of genetically unmodified fibroblasts into pluripotent stem cells. Nat Biotechnol 25:1177-1181.
+Park IH, et al. (2008) Reprogramming of human somatic cells to pluripotency with defined factors. Nature 451:141-146.
+Daley GQ (2008) Common themes of dedifferentiation in somatic cell reprogramming and cancer. Cold Spring Harb Symp Quant Biol 73:171-174.
+Kim JB, et al. (2009) Direct reprogramming of human neural stem cells by OCT4. Nature 461:649-643.
+Panopoulos AD, et al. (2011) Rapid and highly efficient generation of induced pluripotent stem cells from human umbilical vein endothelial cells. Plos One 6:e19743.
+Ruiz S, et al. (2010) High efficient generation of induced pluripotent stem cells from astrocytes. Plos One 5:e15526.
+Aasen T, et al. (2008) Efficient and rapid generation of induced pluripotent stem cells from human keratinocytes. Nat Biotechnol 26:1276-128
+Kelaini S, et al (2014) Direct reprogramming of adult cells: avoiding the pluripotent state. Stem Cells Cloning. 7: 19-29.
+Guo J, et al. (2013) Reprogramming and transdifferentiation shift the landscape of regenerative medicine. DNA Cell Biol. 32: 565-72.
+Mali, P., Yang, L., Esvelt, K.M., Aach, J., Guell, M., DiCarlo, J.E., Norville, J.E. and Church, G.M. (2013) RNA-guided human genome engineering via Cas9. Science, 339: 823-6.
+Cong, L., Ran, F.A., Cox, D., Lin, S., Barretto, R., Habib, N., Hsu, P.D., Wu, X., Jiang, W., Marraffini, L.A. and Zhang, F. (2013) Multiplex genome engineering using CRISPR/Cas systems. Science, 339: 819-23.
+Wang, H., Yang, H., Shivalila, C.S., Dawlaty, M.M., Cheng, A.W., Zhang, F. and Jaenisch, R. (2013) One-step generation of mice carrying mutations in multiple genes by CRISPR/Cas-mediated genome engi-neering. Cell, 153: 910-8.
+Shalem, O., Sanjana, N.E., Hartenian, E., Shi, X., Scott, D.A., Mikkelsen, T.S., Heckl, D., Ebert, B.L., Root, D.E., Doench, J.G. and Zhang, F. (2014) Genome-scale CRISPR-Cas9 knockout screening in human cells. Science, 343: 84-7.
+Wang, T., Wei, J.J., Sabatini, D.M. and Lander, E.S. (2014) Genetic screens in human cells using the CRISPR-Cas9 system. Science 343: 80-4.
+Koike-Yusa, H., Li, Y., Tan, E-P., Velasco-Herrera, M. and Yusa, K. (2013) Genome-wide recessive ge-netic screening in mammalian cells with a lentiviral CRISPR-guide RNA library. Nature Biotechnology, 32: 267-73.
+Wissing S, Muñoz-Lopez M, Macia A, Yang Z, Montano M, Collins W, Garcia-Perez JL, Moran JV, Greene WC. Reprogramming somatic cells into iPS cells activates LINE-1 retroelement mobility. Hum Mol Genet. 2012 Jan 1;21(1):208-18. doi: 10.1093/hmg/ddr455. Epub 2011 Oct 11.
+Coufal NG, Garcia-Perez JL, Peng GE, Yeo GW, Mu Y, Lovci MT, Morell M, O'Shea KS, Moran JV, Gage FH. L1 retrotransposition in human neural progenitor cell. Nature. 2009 Aug 27;460(7259):1127-31. doi: 10.1038/nature08248. Epub 2009 Aug 5.
+Macia A, Blanco-Jimenez E, García-Pérez JL.Retrotransposons in pluripotent cells: Impact and new roles in cellular plasticity. Biochim Biophys Acta. 2015 Apr;1849(4):417-426. doi: 10.1016/j.bbagrm.2014.07.00

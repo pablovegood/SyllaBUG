@@ -1,0 +1,18 @@
+Buonocore, A., Nobile, A.G. y Ricciardi, L.M. (1987). A new integral equation for the evaluation of first-passage-time probability densities. Advances in Applied Probability 19, 784-800.
+Giorno, V., Nobile, A.G., Ricciardi, L. y Sato, S. (1989). On the evaluation of first-passage-time probability densities via non singular integral equations.Advances in Applied Probability, 21, 20-36.
+Gutiérrez, R., Ricciardi, L., Román, P. y Torres, F. (1997). First-passage-time densities for time-non-homogeneous diffusion processes.Journal of Applied Probability, 34 (3), 623-631.
+Gutiérrez, R., Rico, N., Román, P., Romero, D. y Torres, F. (2003). Obtención de procesos de difusión no homogéneos a partir de esquemas discretos.Actas del XXVII Congreso Nacional de Estadística e Investigación Operativa.
+Gutiérrez, R., Rico, N., Román, P., Romero, D. y Torres, F. (2003). Obtención de un proceso de difusión no homogéneo a partir de modelos de crecimiento. Actas del XXVII Congreso Nacional de Estadística e Investigación Operativa.
+Gutiérrez-Jáimez, R., Román, P., Romero, D., Serrano, J.J., Torres, F. (2007). A new Gompertz-type diffusion process with application to random growth.MathematicalBiosciences, 208, 147-165.
+Ricciardi L.M., Di Crescenzo A., Giorno V. y Nobile A.G. (1999). An outline of theoretical and algorithmic approaches to first passage time problems with applications to biological modeling.Scientiae Mathematicae Japonicae, 50, 247-322.
+Román, P., Serrano, J.J. y Torres, F. (2008). First-passage-time location function: Application to determine first-passage-time densities in diffusion processes.Computational Statistics and Data Analysis, 52, 4132-4146.
+Román-Román, P., Romero, D., Torres-Ruiz, F. (2010). A diffusion process to model generalizad von Bertalanffy growth patterns: Fitting to real data.Journal of Theoretical Biology, 263, 59-69.
+Román-Román, P. y Torres-Ruiz, F. (2012). Modeling logistic growth by a new diffusion process: application to biologycal systems.BioSystems,110, 8-21.
+Román-Román, P., Serrano Pérez, J.J. y Torres-Ruiz, F. (2012). An R package for an efficient approximation of first-passage-time densities for diffusion processes based on the FPTL function.Applied Mathematics and Computation, 218, 8408-8428.
+Román-Román, P., Serrano Pérez, J.J. y Torres-Ruiz, F. (2014). More general problems on first-passage times for diffusion processes: A new version of the fptdApprox R package.Applied Mathematics and Computation, 244, 432-446.
+Romero, D., Rico, N. y Arenas, M. (2013) A new diffusion process to epidemic data. Lecture notes in computer sciences 8111, 69-76.
+Albano, G., Giorno, V., Román-Román, P., Torres-Ruiz, F. (2011). Inferring the effect of therapy on tumors showing stochastic Gompertzian.Journal of Theoretical Biology, 276, 67-77.
+Da Luz Sant’Ana, I. Román-Román, P. y Torres-Ruiz, F. (2017). Modeling oil production and its peak by means of a stochastic diffusion process based on the Hubbert curve.Energy,133, 455-470.
+Gutiérrez-Jáimez, R., Román, P., Romero, D., Serrano, J.J., Torres, F. (2008). Some time random variables related to a Gompertz-type diffusion process.Cybernetics and Systems, 39(5), 467-479.
+Román-Román, P. y Torres-Ruiz, F. (2014). Forecasting fruit size and caliber by means of diffusion processes. Application to “Valencia late” oranges.Journal of Agricultural, Biological and Environmental Statistics,19 (2), 292-313.
+Román-Román, P. y Torres-Ruiz, F. (2015). A stochastic model related to the Richards-type growth curve. Estimation by means of Simulated Annealing and Variable Neighborhood Search.Applied Mathematics and Computation,266, 206-219.

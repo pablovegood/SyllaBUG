@@ -1,0 +1,55 @@
+Chmielewski K. Dental Photography: Portfolio Guidelines (Dental Photo Master). Chmielewski K, editor. Quintessenz Verlags GmbH, 2016
+D’haese J, Van de Velde T, Komiyama A, Hultin M, De Bruyn H. Accuracy and complications using computerdesigned stereolithographic surgical guides for oral rehabilitation by means of dental implants: a review of the literature. Clin Implant Dent Relat Res. 2012a; 14: 321– 335.
+Dings JP, Verhamme L, Merkx MA, Xi T, Meijer GJ, Maal TJ. Reliability and accuracy of cone beam computed tomography versus conventional multidetector computed tomography for image-guided craniofacial implant planning: An in vitro study. Int J Oral Maxillofac Implants. 2019; 34(3):665–672.
+Fan Y, Beare R, Matthews H, Schneider P, Kilpatrick N, Clement J, Claes P, Penington A, Adamson C. Marker-based watershed transform method for fully automatic mandibular segmentation from CBCT images. Dentomaxillofac Radiol. 2019; 48(2):20180261
+Fokas G, Vaughn VM, Scarfe WC, Bornstein MM. Accuracy of linear measurements on CBCT images related to presurgical implant treatment planning: A systematic review. Clin Oral Implants Res. 2018; 29 (Suppl)16:393-415.
+Galibourg A, Dumoncel J, Telmon N, Calvet A, Michetti J, Maret D. Assessment of automatic segmentation of teeth using a watershed-based method. Dentomaxillofac Radiol. 2018;47(1):20170220.
+Kim IH, Mupparapu M. Dental radiographic guidelines: a review. Quintessence Int. 2009; 40(5):389-98.
+Lechuga L, Weidlich GA. Cone Beam CT vs. Fan Beam CT: A Comparison of Image Quality and Dose Delivered Between Two Differing CT Imaging Modalities. Cureus. 2016;12. 8(9):e778.
+Vandenberghe B, Jacobs R, Bosmans H. Modern dental imaging: a review of the current technology and clinical applications in dental practice. Eur Radiol. 2010; 20(11):2637-55.
+Alghazzawi, T. F. Advancements in CAD/CAM technology: Options for practical implementation. Journal of Prosthodontic Research. 2016; 60 (2).
+Agnini, A., Coachman, C. Digital dental revolution: The learning curve. Capítulo 1: New Technologies. Quintesenza Edizioni. 2015.
+Park, J., Platt, J. American Dental Association Standards Committee on Dental Products, Subcommittee on CAD/CAM in Dentistry. ADA News. 2015; 40, No. 19.
+G Sannino, F Germano, L Arcuri, E Bigelli, C Arcuri, A Barlattani. CEREC CAD/CAM Chairside System. Oral Implantol (Rome). 2014;(3):57-70
+Davidowitz, G. and P. G. Kotick. The Use of CAD/CAM in Dentistry. Dent Clin North Am. 2011; 55(3): 559-570.
+Martinez-Rus F, Pradíes G, Suarez MJ. Cerámicas dentales: clasificación y criterios de selección. RCOE. 2007;12:253–63.
+Janda R. Cerámicas sin metal: composición, propiedades, aplicación, valoración. Quintessence Técnica. 2007;18(9).
+Mörmann W. Dental CAD/CAM systems. A 20-year success store. Journal of the California Dental Association. 2006;173(9(suppl): 7S-13S.
+Romeo M, Martínez J, Vallejo J. Introducción a los sistemas CAD/CAM de uso en clínica y laboratorio. Revista Internacional de Prótesis Estomatológica. 2005;7(5):524–34.
+Ender Andreas. Conocimientos básicos CEREC 4.0 Manual Clínico. 2011 Sirona Dental Systems GmbH
+Wismeijer D, Joda T, Flügge T, Fokas G, Tahmaseb A, Bechelli D, Bohner L, Bornstein M, Burgoyne A, Caram S, Carmichael R, Chen CY, Coucke W, Derksen W, Donos N, El Kholy K, Evans C, Fehmer V, Fickl S, Fragola G, Gimenez Gonzales B, Gholami H, Hashim D, Hui Y, Kökat A, Vazouras K, Kühl S, Lanis A, Leesungbok R, van der Meer J, Liu Z, Sato T, De Souza A, Scarfe WC, Tosta M, van Zyl P, Vach K, Vaughn V, Vucetic M, Wang P, Wen B, Wu V. Group 5 ITI Consensus Report: Digital technologies. Clin Oral Implants Res. 2018;29 (Suppl)16:436-442.
+Bohner L, Gamba DD, Hanisch M, Marcio BS, Tortamano Neto P, Laganá DC, Sesma N. Accuracy of digital technologies for the scanning of facial, skeletal, and intraoral tissues: A systematic review. J Prosthet Dent. 2019;121(2):246-251
+Alves de Carvalho IF, Santos Marques TM, Araújo FM, Azevedo LF, Donato H, Correia A. Clinical Performance of CAD/CAM Tooth-Supported Ceramic Restorations: A Systematic Review. Int J Periodontics Restorative Dent. 2018;38(4):e68-e78
+Guided endodontics. Niraj Kinariwala y Lakshman. Springer International Publishing. ISBN 978-3-030-55281-7. 2021.
+Dianat O, Gupta S, Price JB, Mostoufi B. Guided Endodontic Access in a Maxillary Molar Using a Dynamic Navigation System. J Endod. 2021;47(4):658-662.
+Llaquet Pujol M, Vidal C, Mercadé M, Muñoz M, Ortolani-Seltenerich S. Guided Endodontics for Managing Severely Calcified Canals. J Endod. 2021; 47(2):315-321
+Moreno-Rabié C, Torres A, Lambrechts P, Jacobs R. Clinical applications, accuracy and limitations of guided endodontics: a systematic review. Int Endod J. 2020;53(2):214-231.
+Hein S, Zangl M. The use of a standardized gray reference card in dental photography to correct the effects of five commonly used diffusers on the color of 40 extracted human teeth. Int J Esthet Dent. 2016; 11: 2-15
+Hein S, Tapia J, Bazos P. eLABor_aid: a new approach to digital shade management. Int J Esthet Dent. 2017; 12: 186-202
+Bazos P, Magne P. Bio-emulation: biomimetically emulating nature utizing a histoanatomic approach; visual synthesis. Int J Esthet Dent. 2014; 9: 330-352.
+Antila K, Lilja M, Kalke M. Segmentation of facial bone surfaces by patch growing from cone beam CT volumes. Dentomaxillofac Radiol. 2016; 45(8):20150435.
+De Oliveira MVL, Santos AC, Paulo G, Campos PSF, Santos J. Application of a newly developed software program for image quality assessment in cone-beam computed tomography. Imaging Sci Dent. 2017; 47(2):75-86.
+Demirturk Kocasarac H, Celenk P. Effectiveness of digital subtraction radiography in detecting artificially created osteophytes and erosions in the temporomandibular joint. Imaging Sci Dent. 2017; 47(2):99-107.
+Okano T, Harata Y, Sugihara Y, Sakaino R, Tsuchida R, Iwai K, Seki K, Araki K. Absorbed and effective doses from cone beam volumetric imaging for implant planning. Dentomaxillofac Radiol. 2009; 38(2):79-85.
+Park CW, Kim JH, Seo YK, Lee SR, Kang JH, Oh SH, Kim GT, Choi YS, Hwang EH. Volumetric accuracy of cone-beam computed tomography. Imaging Sci Dent. 2017; 47(3):165-174.
+Schneider D, Marquardt P, Zwahlen M, Jung RE. A systematic review on the accuracy and the clinical outcome of computer-guided template-based implant dentistry. Clin Oral Implants Res. 2009; 20 (Suppl) 4:73-86.
+Tahmaseb A, Wismeijer D, Coucke W, Derksen W. Computer technology applications in surgical implant dentistry: a systematic review. Int J Oral Maxillofac Implants. 2014; 29 Suppl:25-42
+Roperto R, Assaf H, Soares-Porto T, Lang L, Teich S. Are different generations of CAD/CAM milling machines capable to produce restorations with similar quality? .J Clin Exp Dent. 2016; 4:423–428
+Fernandes NA, Vally Zi, Sykes LM. The longevity of restorations -A literature review. S. Afr. Dent. J. 2015; 9:410-413
+Agnini, A., Agnini, A., Coachman, C. Digital dental revolution: The learning curve. Chapter 7: Lithium disilicate. Quintesenza Edizioni. 2015.
+Kohorst, P., et al. Different CAD/CAM-processing routes for zirconia restorations: influence on fitting accuracy." Clinical Oral Investigations.
+Fasbinder, D. J. and (2010). The CEREC system: 25 years of Chairside CAD/CAM Dentistry. J Am Dent Assoc. 2010; 141 (suppl-2): 3S-4S.
+Lee K-B, Park C-W, Kim K-H, Kwon T-Y. Marginal and internal fit of all-ceramic crowns fabricated with two different CAD/CAM systems. Dental materials journal. 2008; 27(3):422–6.
+Loong Tee Yong, P. K. M. Complications of Computer-Aided-Design/Computer-Aided-Machining-Guided (NobelGuide x 2122) Surgical Implant Placement: An Evaluation of Early Clinical Results. Clin Implant Dent Relat Res, 2008; 10(3).
+Sohmura, T., et al. (2009). CAD/CAM fabrication and clinical application of surgical template and bone model in oral implant surgery. Clin Oral Implants Res. 20(1).
+Suarez MJ, Gonzalez P, Pradíes G, Salido MP. Comparison of the Marginal Fit of Procera AllCeram Crowns with Two Finish Lines. The International journal of prosthodontics. 2003; 16(3):229–32.
+Duret, F., et al. Performance of CAD/CAM crown restorations." J Calif Dent Assoc. 1996; 24(9).
+Montagna, F., Barbesi M..Ceramicas, zirconio y CAD-CAM. Venezuela-Mexico, AMOLCA, 2012
+Boitelle P, Mawussi B, Tapie L, Fromentin O. A systematic review of CAD/CAM fit restoration evaluations. J Oral Rehabil. 2014; 41(11):853-74.
+Oberoi G, Nitsch S, Edelmayer M, Janjić K, Müller AS, Agis H. 3D Printing-Encompassing the Facets of Dentistry. Front Bioeng Biotechnol. 2018; 22 (6):172
+Joda T, Ferrari M, Gallucci GO, Wittneben JG, Brägger U. Digital technology in fixed implant prosthodontics. Periodontol 2000. 2017; 73(1):178-192.
+Miyazaki T, Hotta Y, Kunii J, Kuriyama S, Tamaki Y. A review of dental CAD/CAM: current status and future perspectives from 20 years of experience. Dent Mater J. 2009; 28(1):44-56
+Anderson J, Wealleans J, Ray J. Endodontic applications of 3D printing. Int Endod J. 2018; 51(9):1005-1018
+Ackerman S, Aguilera FC, Buie JM, Glickman GN, Umorin M, Wang Q, Jalali P. Accuracy of 3-dimensional-printed Endodontic Surgical Guide: A Human Cadaver Study. J Endod. 2019; 45(5):615-618.
+Hawkins TK, Wealleans JA, Pratt AM, Ray JJ. Targeted endodontic microsurgery and endodontic microsurgery: a surgical simulation comparison. Int Endod J. 2020; 53(5):715-722.
+Tavares WLF, Fonseca FO, Maia LM, de Carvalho Machado V, França Alves Silva NR, Junior GM, Ribeiro Sobrinho AP. 3D Apicoectomy Guidance: Optimizing Access for Apicoectomies. J Oral Maxillofac Surg. 2020; 78(3):357.e1-357.e8.

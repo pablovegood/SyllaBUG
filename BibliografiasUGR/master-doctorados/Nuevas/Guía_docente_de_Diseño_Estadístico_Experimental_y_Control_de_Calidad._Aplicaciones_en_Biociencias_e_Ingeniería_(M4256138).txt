@@ -1,0 +1,20 @@
+1. Brenton, R. C. (2008).Linear models: the theory and applications of analysis of
+variance. ISBN: 978-0-470-0566-6.
+2. Arnold, E. y Davis, Ch. S. (2002).Statistical methods for the analysis of repeated
+measurements. Springer.
+3. Dobson, A.J. y Barnett, A.G. (2008).An introduction to generalized linear models.
+Series: Chapman & Hall/CRC texts in Statistical Science.
+4. Fisher, R.A. (2003).Statistical methods, experimental design, and scientific
+inference. ISBN: 978-0-19-852229-4.
+5. Gutiérrez P.H. (2003).Análisis y diseño de experimentos. McGraw-Hill.
+6. Hocking, R. R. (2003).Methods and applications of linear models: regression and
+the analysis of variance. Wiley Series in Probability and Statistics. ISBN: 978-0-471-
+23222-3.
+7. Kish, L. (2004).Statistical design for research. Wiley Interscience.
+8. Lindman, H. R. (1992).Analysis of variance in experimental design. Springer-Verlag.
+9. Kuehl, R. O. (2001).Diseño de experimentos. Principios estadísticos del diseño y
+análisis de investigación.Thomson Learning.
+10. Peña, D. (2002).Regresión y diseño de experimentos.Alianza.
+Montgomery, D. C. (2002).Diseño y análisis de experimentos. Limusa-Wiley.
+Scheiner, S.M. (2001).Design and analysis of ecological experiments. Oxford University Press.
+Toutenburg, H. (2002).Statistical analysis of designed experiments. Springer.

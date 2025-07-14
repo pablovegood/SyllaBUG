@@ -1,0 +1,4 @@
+A. León-García, I. Widjaja: “Redes de Comunicación. Conceptos Fundamentales y Arquitecturas Básicas”. McGraw Hill, 2002. ISBN: 8448131975
+P. García, J. Díaz, J. López: “Transmisión de datos y redes de computadores”. Prentice-Hall, 2003. ISBN: 84-205-3919-8
+W. Stallings: “Comunicaciones y redes de computadores”. Prentice-Hall, 2007. ISBN: 84-205-4110-9
+A.S. Tanenbaum, Computer Networks, 4ª ed., Prentice Hall, 2003. ISBN: 970-26-01622

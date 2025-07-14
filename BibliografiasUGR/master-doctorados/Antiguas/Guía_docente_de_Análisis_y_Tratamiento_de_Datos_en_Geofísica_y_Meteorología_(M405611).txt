@@ -1,0 +1,13 @@
+Canovos, G., 1988. Probabilidad y estadística. Aplicaciones y métodos. McGraw-Hill.
+Marques de Sá, J.P., 2003. Applied Statistics using SPSS, Statistics and MATLAB. Springer-Verlag.
+Webster, R., 2004. Geostatistics for Environmental Scientists, Wiley.
+Von Storch, H. and Navarra, A., 1995. Analysis of climate variability. Springer-Verlag.
+Wilks, D., 1995. Statistical Methods in the Atmospheric Science. Academia Press.
+Verzani, J, 2005. Using R for introductory Statistics.
+Bormann, P. (Ed.) (2012). New Manual of Seismological Observatory Practice (NMSOP-2), IASPEI, GFZ German Research Centre for Geosciences, Potsdam; nmsop.gfz-potsdam.de.
+Gu, Y. J. (2010), Arrays and Array Methods in Global Seismology, Springer, 273 pp.
+Havskov, J. and L. Ottemöller (2010). Routine data processing in earthquake seismology. Springer, 347 pp.
+Meade, M.D. & Dillon, C.R. (1993): Señales y sistemas. Addison-Wesley Iberoamericana. U.S.A.
+Proakis, J. G and D. G. Manolakis (1992). Digital signal processing principles, algorithms and applications. Macmillan Pub. Co.
+Rost, S. & Thomas, C. (2002), Array Seismology: Methods and Applications, Rev. Geophys. 40, 1008, doi:10.1029/2000RG000100.
+Scherbaum, F. (2007). Of poles and zeros, fundamentals of digital seismology, revised second edition. Springer.

@@ -1,0 +1,12 @@
+Catena, A, Ramos, MM, Trujillo, H (2003). Análisis multivariado: Un manual para investigadores. Madrid: Biblioteca Nueva.
+Ramos, MM, Catena, A, y Trujillo, H (2004). Métodos y técnicas de investigación en ciencias del comportamiento. Madrid: Biblioteca Nueva.
+Manly, B. F. J. (2007) Randomization, Bootstrap, and Monte Carlo Methods in Biology (3rd ed.), London: Chapman & Hall.
+Gomez-Rubio, V. (2018). Generalized Additive Models: An Introduction with R.Journal of Statistical Software,86, 1-5.
+Pedersen, E. J., Miller, D. L., Simpson, G. L., & Ross, N. (2019). Hierarchical generalized additive models in ecology: an introduction with mgcv.PeerJ,7, e6876.
+Wood, S.N. (2017) Generalized Additive Models: An Introduction with R, Second Edition. Chapman & Hall/CRC
+Ranstam, J., & Cook, J. A. (2018). LASSO regression.Journal of British Surgery,105(10), 1348-1348.
+Arashi, M., Roozbeh, M., Hamzah, N. A., & Gasparini, M. (2021). Ridge regression and its applications in genetic studies.Plos one,16(4), e0245376.
+Tay, J. K., Narasimhan, B., & Hastie, T. (2021). Elastic Net Regularization Paths for All Generalized Linear Models.arXiv preprint arXiv:2103.03475.
+Morley, M. & Urai, A. The General Linear Model. Talks for dummies, by dummies. https://www.fil.ion.ucl.ac.uk/mfd_archive/2011/page1/mfd2011_GLM.pdf http://psych.colorado.edu/~carey/qmin/qminchapters/qmin09-glmintro.pdf.
+Jenkinson, M. & Chappell, M. (2018). Introduction to neuroimaging analysis. Oxford University Press. http://www.fmrib.ox.ac.uk/primers/appendices/glm.pdf
+Faraway, J. J. (2016). Extending the linear model with R : generalized linear, mixed effects and nonparametric regression models. Chapman and Hall/CRC.

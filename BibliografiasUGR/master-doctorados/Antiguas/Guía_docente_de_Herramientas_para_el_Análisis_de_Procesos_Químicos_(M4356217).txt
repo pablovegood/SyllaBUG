@@ -1,0 +1,25 @@
+Bakeev, K.A. Process Analytical Technology (2nd ed).  John Wiley & Sons. 2010.
+Peña, D.  Regresión y Diseño de Experimentos.  Alianza Editorial, 2010.
+Rosas Portugal, J.G. La Tecnología Analítica de Procesos (PAT) en la Industria Farmacéutica.  Publicia, 2013.
+DOCUMENTOS NORMATIVOS:
+ASTM D3764-13. Standard Practice for Validation of the Performance of Process Stream Analyzer Systems.
+ASTM D6122-13. Standard Practice for Validation of the Performance of Multivariate Online, At-Line, and Laboratory Infrared Spectrophotometer Based Analyzer Systems. American Society for Testing and Materials, 2013.
+ASTM E1325–02. Standard Terminology Relating to Design of Experiments. American Society for Testing and Materials, 2008.
+ASTM E1655-21. Standard Practices for Infrared Multivariate Quantitative Analysis. American Society for Testing and Materials, 2012.
+ASTM E2056-10. Practice for Qualifying Spectrometers and Spectrophotometers for Use in Multivariate Analyses, Calibrated Using Surrogate Mixtures. American Society for Testing and Materials, 2010.
+ASTM E2363-06A. Standard Terminology Relating to Process Analytical Technology in the Pharmaceutical Industry. American Society for Testing and Materials, 2006.
+ASTM E2629-20. Standard Guide for Verification of Process Analytical Technology (PAT) Enabled Control Systems. American Society for Testing and Materials, 2011.
+ASTM E2898-20a. Standard Guide for Risk-Based Validation of Analytical Methods for PAT Applications. American Society for Testing and Materials, 2013.
+FDA. Guidance for Industry PAT — A Framework for Innovative Pharmaceutical Development, Manufacturing, and Quality Assurance. Food and Drug Administration, 2004.
+ICH Q8(R2). Pharmaceutical Development. International Conference on Harmonisation, 2009.
+ISO 3534-3:2013. Statistics: Vocabulary and Symbols – Part 3: Design of Experiments. International Organization for Standardization, 2013.
+ISO 7870-7:2020. Control charts — Part 7: Multivariate control charts. . International Organization for Standardization, 2020.
+Antoni, J.  Design of Experiments for Engineers and Scientists.  Elsevier, 2003.
+Cavazzuti, M.  Optimization Methods: From Theory to Design Scientific and Technological Aspects in Mechanics.  Springer, 2012.
+Cinar, A.; Palazoglu, A.  Chemical Process Performance Evaluation.  CRC Press, 2007.
+Koch, K. H. Process Analytical Chemistry.  Springer, 1999.
+Koch, K. H. Micro Instrumentation for High Throughput Experimentation and Process Intensification – A Tool for PAT.  John Wiley & Sons. 2007.
+Lazic, Z.R.  Design of Experiments in Chemical Engineering.  WILEY-VCH Verlag, 2004.
+Naes, T.; Isaksson, T.; Fearn, T.; Davies, T.  A User-Friendly Guide to Multivariate Calibration and Classification.  NIR Publications, 2004.
+Schmitt, S.  Quality by Design: Putting Theory into Practice.  PDA / DHI, 2011.
+Undey, C.; Low, D.; Menezes, J.C.; Koch, M. PAT Applied in Biopharmaceutical Process Development and Manufacturing: An Enabling Tool for Quality-by-Design.  CRC Press, 2012.

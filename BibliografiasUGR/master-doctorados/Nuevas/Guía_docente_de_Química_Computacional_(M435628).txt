@@ -1,0 +1,12 @@
+Cálculos moleculares
+Jensen, F.;Introduction to Computational Chemistry; Wiley 3ª Ed (2016).
+Lewars, E.G.;Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics; Springer (2011).
+Cramer, C.J.Essentials of Computational Chemistry: Theories and Models; (2ª Ed.) Wiley (2004).
+Hehre, W.J.; Radon, L.; Schleyer, P.v.R.; Pople, J.A.;Ab initio Molecular Orbital Theory; Wiley (1986).
+Young, D.C.;Computational chemistry: a practical guide for applying techniques to real world problems; Wiley (2001).
+Leach, A.R.;Molecular Modelling. Principles and Applications; Longman (1996).
+Consulta / Enciclopedias
+Schleyer, P.v.R. (Ed);Encyclopedia of Computational Chemistry, vols. I-V; Wiley (1998).
+Leszczynski, J. (Ed.)Handbook of Computational Chemistry(2ª Ed.) Springer (2012).
+Andreoni, W.; Yip, S. (Eds.)Handbook of Materials Modeling. Methods: Theory and Modeling; (2ª Ed.) Springer (2020).
+Andreoni, W.; Yip, S. (Eds.)Handbook of Materials Modeling. Applications: Current and Emerging Materials; (2ª Ed.) Springer (2020).

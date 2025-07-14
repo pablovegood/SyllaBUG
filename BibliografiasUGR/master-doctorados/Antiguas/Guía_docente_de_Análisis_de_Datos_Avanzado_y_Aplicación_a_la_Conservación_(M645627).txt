@@ -1,0 +1,15 @@
+BORCARD, D., GILLET, F. & LEGENDRE, P. 2011. Numerical Ecology with R. Springer.
+BURNHAM, K. P.  & D. R. ANDERSON. 2002. Model Selection and Multimodel Inference. Second edition. Springer. 488 p.
+BURNHAM, K. P.  & D. R. ANDERSON. 2004. Multimodel Inference Understanding AIC and BIC in Model Selection. Sociological Methods & Research, 33: 261-304.
+BOLKER, B.M. 2008. Ecological Models and Data in R. Princeton University Press
+BOLKER, B.M. et al. 2008. Generalized linear mixed models: a practical guide for ecology and evolution. Trends in Ecology and Evolution, 24(3): 127-135..
+DE'ATH, G. 2002. Multivariate regression trees: a new technique for modeling species-environment relationships. Ecology. 83(4):1105-1117
+FARAWAY, J. J. (2016). Extending the linear model with R: generalized linear, mixed effects and nonparametric regression models (Vol. 124). CRC press.
+GELMAN, A., & HILL, J. (2006). Data analysis using regression and multilevel/hierarchical models. Cambridge University Press.
+JONGMAN, R.H.G., C.J.F. TER BRAAK & O.F.R. VAN TONGEREN (1995) Data analysis in community and landscape  ecology. Cambridge University Press.
+MAGURRAN, A. E. (2013). Measuring biological diversity. John Wiley & Sons.
+PINHEIRO, J., & BATES, D. (2006). Mixed-effects models in S and S-PLUS. Springer Science & Business Media.
+WOOD, S. (2006). Generalized additive models: an introduction with R. CRC press.
+PLA, L., CASANOVES, F., & DI RIENZO, J. (2011). Quantifying functional biodiversity. Springer Science & Business Media.
+BROOKS, D. R., & MCLENNAN, D. A. (1991). Phylogeny, ecology, and behavior: a research program in comparative biology. University of Chicago press.
+ZUUR, A. F., IENO, E. N., WALKER, N. J., SAVELIEV, A. A., & SMITH, G. M. (2009). Mixed effects models and extensions in ecology with R. Gail M, Krickeberg K, Samet JM, Tsiatis A, Wong W, editors. New York, NY: Spring Science and Business Media.

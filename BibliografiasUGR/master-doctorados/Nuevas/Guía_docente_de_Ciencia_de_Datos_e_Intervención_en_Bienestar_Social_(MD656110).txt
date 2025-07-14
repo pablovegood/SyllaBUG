@@ -1,0 +1,25 @@
+Bertoni, Eleonora, Fontana, Matteo, Gabrielli, Lorenzo et al. (eds.) (2023)Handbook of Computational Social Science for Policy.Springer.Disponible en:https://link.springer.com/book/10.1007/978-3-031-16624-2
+Del Pino, Eloísa & Rubio Lara, María Josefa (2024)Los Estados de Bienestar en la encrucijada. Políticas sociales en perspectiva comparada.Tercera edición. Madrid: Tecnos.
+Gualda, Estrella (2022) Social big data, sociología y ciencias sociales computacionales.Empiria.Revista de Metodología de Ciencias Sociales, (53), 147–177.https://doi.org/10.5944/empiria.53.2022.32631
+Subirats, Joan, Knoepfel, Peter, Larrue, Corinne et al. (2008).Análisis y gestión de políticas públicas. Madrid: Ariel.
+Bericat, Eduardo & Jiménez Rodrigo, María Luisa (2019)The quality of European societies: A compilation of composite indicators.Springer.
+Gualda, Estrella (Ed.). (2024). Teorías de la conspiración y discursos de odio en línea en la sociedad de las plataformas. Comparación de pautas en las narrativas y redes sociales sobre COVID-19, inmigrantes, refugiados, estudios de género y personas LGTBIQ+. Dykinson.https://doi.org/10.14679/2749
+Gualda, Estrella y Carolina Rebollo (2016) Refugee crisis in Twitter: Diversity of Discourses at a European Crossroads.Journal of Spatial and Organizational Dynamics4(3): 199– 212.https://www.jsod-cieo.net/journal/index.php/jsod/article/view/72/70
+Gualda, Estrella, Taboada, Alba y Rebollo, Carolina (2023) Big data y ciencias sociales: Una mirada comparativa a las publicaciones de antropología, sociología y trabajo social.Gazeta de Antropología, 39(1):1-22.https://digibug.ugr.es/handle/10481/79779.doi:10.30827/Digibug.79779
+Höchtl, Johann, Peter Parycek & Ralph Schöllhammer (2016). Big data in the policy cycle: Policy decision making in the digital era.Journal of Organizational Computing and Electronic Commerce, 26:1-2, 147-169,DOI: 10.1080/10919392.2015.1125187
+Hossin, Altab, Jie Du, Mu, Lei et al. (2023). Big Data-Driven Public Policy Decisions: Transformation Toward Smart Governance.Sage Open, 13(4).https://doi.org/10.1177/21582440231215123
+Marbán Gallego, Vicente y Rodríguez Cabrero, Gregorio (coords). 2018. Sistemas de bienestar y políticas sociales. Revista de Documentación Social, 186. Disponible en:https://www.caritas.es/main-files/uploads/2019/01/Documentacion_social_186.pdf
+Moreno, Luis (2009). Reformas de las políticas del bienestar en España. Madrid: Siglo XXI. Disponible en línea en la biblioteca UGR.
+Nelson, Kenneth, Rense Nieuwenhuis & Mara Yerkes (2022). Social Policy in Changing European Societies. Research Agendas for the 21st Century. Edward Elgar.
+Manuales y/o blogs (recomendados para las tareas de programación y estudio de casos)
+Ackland, et al. (2023, 26 de mayo). VOSON Lab Code Blog: Semantic network analysis with website text.https://vosonlab.github.io/posts/2023-04-27-semantic-network-analysis-with-website-text/
+Ackland, et al. (2023, 27 de abril). VOSON Lab Code Blog: Analysis of website text content using quanteda.https://vosonlab.github.io/posts/2023-04-13-website-text-analysis-with-quanteda/;https://quanteda.io/
+Benoit, Kenneth; Watanabe, Kohei; Wang, Haiyan; Nulty, Paul; Obeng, Adam; Müller, Stefan y Matsuo, Akitaka (2018). “quanteda: An R package for the quantitative analysis of textual data.”Journal of Open Source Software, 3(30), 774.http://www.doi.org/10.21105/joss.00774
+Digital Methods Initiative & OILab (2023).The 4cat Capture & Analysis toolkit.https://4cat.nl/; Open Intelligence Lab:https://oilab.eu;https://github.com/digitalmethodsinitiative/4cat
+Escobar, Modesto; Martinez-Uribe, Luis (2020). “Network Coincidence Analysis: The netCoin R Package.”Journal of Statistical Software, 93(11), 1-32.https://doi.org/10.18637/jss.v093.i11
+Fernández-Avilés, G. y Montero, J.M., eds (2024). Fundamentos de ciencia de datos con R. McGraw Hill.https://cdr-book.github.io/
+Gertzel, Bryan; Borquez, Francisca; Graham, Timothy and Ackland, Robert (2022). vosonSML: Collecting Social Media Data and Generating Networks for Analysis. VOSON Lab, Virtual Observatory for the Study of Online Networks. R package version 0.32.7,https://github.com/vosonlab/vosonSML;https://cran.r-project.org/web/packages/vosonSML/index.html
+Kuhn, Max y Silve, Julia (2022). Tidy Modeling with R.  O'Reilly Media, Inc.https://www.oreilly.com/library/view/tidy-modeling-with/9781492096474/
+Robles, José Manuel; Rodríguez, J. Tinguaro; Caballero, Rafael; Gómez, Daniel (2022). Big data para científicos sociales. Una introducción. Centro de Investigaciones Sociológicas.
+Virtual Observatory for the Study of Online Networks (VOSON).Voson Labo Code Blog.https://vosonlab.github.io/
+Wickham, Hadley y Grolemund, Garrett (2023).R for Data Science. O’Reilly.https://r4ds.had.co.nz/

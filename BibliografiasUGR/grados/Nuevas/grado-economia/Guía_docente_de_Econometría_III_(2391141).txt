@@ -1,0 +1,10 @@
+BIBLIOGRAFÍA FUNDAMENTAL:
+García, T., Montes, D., Salmerón, R. y Sánchez, C. (2016). Econometría III. Ed. Técnica AVICAM.
+Gujarati, D. (1992). Econometría. Ed. McGraw Hill.
+Johnston, J. (1987). Métodos de Econometría. Ed. Vicens-Vives.
+Enders W. (2015). Applied econometric time series. Wiley
+Shumway, R.S, Stoffer, D.S. (2017). Time series analysis and its applications. Springer
+BIBLIOGRAFÍA COMPLEMENTARIA:
+Davinson, R. and MacKinnon, J.G.. (2021). Econometric Theory and Methods. Oxford University Press
+Brockwell, P.J. and Davis R. A. (2016). Introduction to Time Series and Forecasting. Springer
+Dinesh, C.S. and Ram, M. (eds) (2024). Recent Advances in Time Series Forecasting. CRC press

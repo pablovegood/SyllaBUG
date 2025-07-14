@@ -1,0 +1,17 @@
+“Introduction to DigitalSpeech Processing”. L. Rabiner, R. Shafer. Foundations and Trends on Signal Processing. 2
+"Spoken language processing" de X. Huang, A. Acero y H. Hon, Prentice-Hall 2.
+"Automatic Speech Recognition, A Deep Learning Approach", Dong Yu and Li Deng, Signal and Communication Tecnology
+"Speech Tecnology, Theory and Applications",Fang ChengKristiina Jokinen, Springer
+"Speech Recognition Using Articulatory and Excitation Source Features",K. Sreenivasa Rao,Manjunath K E.SpringerBriefs in Speech Technology
+"Deep Learning for NLP and Speech Recognition",Uday Kamath,John Liu,James Whitaker. Springer
+Speech and Language Processing.
+STATISTICAL PATTERN RECOGNITION, Andrew R. WebbKeith D. Copsey, WILEY, 2011
+Jurafsky, D., & Martin, J. H. (2020). Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition. Cambridge University Press.
+Huang, X., Acero, A., & Hon, H. (2001). Spoken language processing: A guide to theory, algorithm, and system development. Prentice Hall PTR.
+Young, S., Hain, T., & Woodland, P. (2019). Speech recognition and synthesis. Springer.
+Lee, K.-F., & Hon, H.-W. (2015). Speaker recognition: Fundamentals and features. Springer.
+Rabiner, L. R., & Juang, B. H. (1993). Fundamentals of speech recognition. Prentice Hall PTR.
+Hinton, G., Deng, L., Yu, D., Dahl, G. E., Mohamed, A. R., Jaitly, N., ... & Kingsbury, B. (2012). Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups. IEEE Signal Processing Magazine, 29(6), 82-97.
+Renals, S. (2020). Neural network methods for speech and language processing. Cambridge University Press
+Zeiler, M. D., & Fergus, R. (2014). Visualizing and understanding convolutional networks. In European conference on computer vision (pp. 818-833). Springer.
+Hasegawa-Johnson, M., He, L., Liu, R., & Verhelst, W. (2019). Speech analysis for voice biometrics: Fundamentals and challenges. IEEE Signal Processing Magazine, 36(3),

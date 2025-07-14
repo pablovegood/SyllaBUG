@@ -1,0 +1,13 @@
+BIBLIOGRAFÍA FUNDAMENTAL:
+Adams, R. A. Sobolev spaces. Academic Press, 1975
+Alexandrov, A. D. Uniqueness theorems for surfaces in the large. Vestnik Leningrad Univ. Math. 11 (1956) 5-17.
+Ambrosetti, A., Arcoya, D. An Introduction to Nonlinear Functional Analysis and Elliptic Problems. Birkhäuser, 2011.
+Ambrosetti, A., Prodi, G. A primer of Nonlinear Analysis. Cambridge. U. Press 1995.
+Berger, M. Nonlinearity and Functional Analysis. Academic Press, 1977. -
+Blanchard, P., Brüning, E. Variational methods in Mathematical Physics. Springer-Verlag, 1.992.
+Brezis, H. Functional Analysis, Sobolev Spaces and Partial Differential Equations. SpringerVerlag, 2011.
+Mawhin, J., Willem, M. Critical Point Theory and Hamiltonian Systems. Springer-Verlag, 1989.
+J. Serrin. A symmetry problem in potential theory, Arch. Rational Mech. Anal. 43 (1971) 304-318.
+B. Sirakov. Overdetermined elliptic problems in physics. In: Nonlinear PDE's in Condensed Matter and Reactive Flows. Kluwer (2002) 273-295.
+Rabinowitz, P. Minimax methods in critical point theory with applications to differential equations. American Mathematical Society, 1.986.
+Struwe, M. Variational methods. Springer Verlag, 1.990.

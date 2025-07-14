@@ -1,0 +1,18 @@
+Crawley, M.J. (2012). The R book, 2nd ed. John Wiley & Sons Inc.
+Crawley - Statistics: An Introduction Using R, 2nd ed. (2015).
+de Vries, Meys (2016) . R For Dummies, 2nd ed. John Wiley & Sons Inc.
+Faraway, J.J. (2002). Practical Regression and Anova using R. Ed. el autor.
+Fischetti (2015).  Data Analysis with R. Packt Publishing
+Gillespie, Lovelace (2016).  Efficient R Programming. O'Reilly.
+Ren – Learning R Programming (2016), Packt Publishing
+Spector, P. (2008). Data Manipulation with R. Springer Science+Business Media, LLC.
+Tattar, Ramaiah, Manjunath (2016).  A Course in Statistics with R. Wiley
+Haslwanter, T. (2022). An Introduction to Statistics with Python. 2nd ed. Springer.
+McKinney, W. (2018). Python for Data Analysis. 2nd Edition. O'Reilly.
+Chambers – Extending R (2016), CRC Press
+Gentle, J.E. (2002). Elements of Computational Statistics. Springer-Verlag, New York, Inc.
+Deepayan, S. (2008). Lattice: Multivariate Data Visualization with R. Springer.
+Wickham, H. (2019). Advanced R. The R Series. Chapman & Hall/CRC.
+Wickham,H. (2016). ggplot2. Elegant Graphics for Data Analysis. Springer.
+Wickham, H. y Grolemund, G. (2016). R for Data Science: Import, Tidy, Transform,Visualize, and Model Data. O'Reilly Media. Canada.
+Zhang (2016). R for Programmers. Mastering the Tools. CRC Press

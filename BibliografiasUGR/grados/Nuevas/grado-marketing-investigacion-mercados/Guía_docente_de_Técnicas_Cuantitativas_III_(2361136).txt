@@ -1,0 +1,12 @@
+Escobar E.L., Zamudio E.B. y Muñoz, J.F. (2023). samplingVarEst: Sampling Variance Estimation. R package version 1.5.
+Lohr, S.L. (1999). Muestreo: Diseño y Análisis. International Thomson Editores.
+Lumley T (2024). “survey: analysis of complex survey samples.” R package version 4.4.
+Lumley T (2004). “Analysis of Complex Survey Samples.” Journal of Statistical Software,9(1), 1-19. R package verson 2.2.
+Scheaffer, Mendehall y Ott (2006). Elementos de Muestreo. International Thomson Editores.
+Valdés, T. y Pardo, L. (1987). Decisiones estratégicas. Ed. Díaz de Santos S.A.
+Venables, W.N., Smith, D.M. y “the R Development Core Team” (2011). An Introduction to R. R Development Core Team
+Escobar, M. y Fernández, E. (2012). Análisis de datos con STATA (2ª Edición). Ed. Centro de Investigaciones Sociológicas.
+French, S. (1998). Decision Theory: An Introduction to the Mathematics of Rationality. Ed. Ellis Horwood Limited.
+Fuller, W.A. (2009). Sampling Statistics. Wiley.
+Pardo, A. Ruiz, M.A. (2009). Gestión de datos con SPSS. Ed. Síntesis.
+Särndal, C.E., Swensson, B. y Wretman, J.H. (1992). Model Assisted Survey Sampling. Ed. Sringer-Verlag, New York.

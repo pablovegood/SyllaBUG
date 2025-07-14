@@ -1,0 +1,6 @@
+F. Berzal. Redes Neuronales & Deep Learning I, II. 2018.
+F. Chollet. Deep Learning with Python, 2nd Edition. Manning, 2021.
+J. Casas Roma, T. Lozano Bagén, A. Bosch Rué. Deep Learning: Principios y Fundamentos. UOC, 2020.
+S. Prince. Understanding Deep Learning. MIT Press, 2023.
+I. Goodfellow, Y. Bengio, A. Courville. Deep Learning. MIT Press, 2016.
+E. Stevens, L. Antiga, T. Viehmann. Deep Learning with PyTorch. Manning, 2020.

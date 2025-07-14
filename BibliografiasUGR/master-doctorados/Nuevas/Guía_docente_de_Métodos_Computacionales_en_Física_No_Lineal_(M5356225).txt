@@ -1,0 +1,38 @@
+PARTE A
+W. Feller, “An introduction to Probability Theory and its applications”, Wiley (1968).
+W. Feller, “An introduction to Probability Theory and its applications”, Wiley (1968).
+M. San Miguel and R. Toral, “Stochastic Effects in Physical Systems”, Wiley (2014).
+M. San Miguel and R. Toral, “Stochastic Effects in Physical Systems”, Wiley (2014).
+R.P. Feynman and A.R. Hibbs, “Quantum Mechanics and Path Integrals”, McGraw Hill, NY (1965).
+R.P. Feynman and A.R. Hibbs, “Quantum Mechanics and Path Integrals”, McGraw Hill, NY (1965).
+PARTE B
+Roger F. Harrington, “Field Computation by Moment Methods”,Wiley-IEEE Press (1993)
+Roger F. Harrington, “Field Computation by Moment Methods”,Wiley-IEEE Press (1993)
+A. Taflove and S. C. Hagness, “Computational Electrodynamics: The Finite-Difference Time-Domain Method”,Third Edition,Artech House (2005).
+A. Taflove and S. C. Hagness, “Computational Electrodynamics: The Finite-Difference Time-Domain Method”,Third Edition,Artech House (2005).
+P. P. Silvester and R. L. Ferrari,“Finite Elements for Electrical Engineers”,Cambridge University Press, New York (1983).
+P. P. Silvester and R. L. Ferrari,“Finite Elements for Electrical Engineers”,Cambridge University Press, New York (1983).
+A. Rubio Bretones, S. González García, et. al. “Time Domain Techniques in Computational Electromagnetics”, WIT Press (2003).
+A. Rubio Bretones, S. González García, et. al. “Time Domain Techniques in Computational Electromagnetics”, WIT Press (2003).
+PARTE A
+N.G. van Kampen, “Stochastic Processes in Physics and Chemistry”, Elsevier (2007).
+N.G. van Kampen, “Stochastic Processes in Physics and Chemistry”, Elsevier (2007).
+C.W. Gardiner, “Handbook of Stochastic Methods”, Springer (1985).
+C.W. Gardiner, “Handbook of Stochastic Methods”, Springer (1985).
+M. Creutz,Quarks, “Gluons and Lattices”, Cambridge University Press (1983).
+M. Creutz,Quarks, “Gluons and Lattices”, Cambridge University Press (1983).
+M. Creutz and B. Freedman, Ann. Phys. 132, 427 (1981).
+M. Creutz and B. Freedman, Ann. Phys. 132, 427 (1981).
+I. Montvay, G. Münster, “Quantum Fields on a Lattice”, Cambridge (1994).
+I. Montvay, G. Münster, “Quantum Fields on a Lattice”, Cambridge (1994).
+W.R. Gibbs, “Computation in Modern Physics”, World Scientific (1994).
+W.R. Gibbs, “Computation in Modern Physics”, World Scientific (1994).
+PARTE B
+R. Mitchell and D. F. Griffiths, "The Finite Difference Method in Partial Differential Equations", John Wiley and Sons (1980).
+R. Mitchell and D. F. Griffiths, "The Finite Difference Method in Partial Differential Equations", John Wiley and Sons (1980).
+G. D. Smith,"Numerical solution of partial differential equations. Finite difference methods", Clarendon Press (1985).
+G. D. Smith,"Numerical solution of partial differential equations. Finite difference methods", Clarendon Press (1985).
+Jianming Jin, “The Finite Element Method in Electromagnetics”, 2nd Edition, Wiley-IEEE Press (2002).
+Jianming Jin, “The Finite Element Method in Electromagnetics”, 2nd Edition, Wiley-IEEE Press (2002).
+Salvador G. García, A. Rubio Bretones, R. Godoy Rubio, B. García Olmedo, R. Gómez Martín, “New trends in FDTD methods in computational electrodynamics: Unconditionally stable schemes,” in Recent Res. Devel. Electronics, 2, Ed. Transworld Research Network, pp. 55–96 (2004).
+Salvador G. García, A. Rubio Bretones, R. Godoy Rubio, B. García Olmedo, R. Gómez Martín, “New trends in FDTD methods in computational electrodynamics: Unconditionally stable schemes,” in Recent Res. Devel. Electronics, 2, Ed. Transworld Research Network, pp. 55–96 (2004).

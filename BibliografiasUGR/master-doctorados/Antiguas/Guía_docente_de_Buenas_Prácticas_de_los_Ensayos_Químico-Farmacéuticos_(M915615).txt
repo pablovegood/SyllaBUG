@@ -1,0 +1,72 @@
+LEGISLACIÓN:
+LEY 29/2006 de garantías y uso racional de los medicamentos y productos sanitarios.
+REAL DECRETO 824/2010 por el que se regulan los laboratorios farmacéuticos, lo fabricantes de principios activos de uso farmacéutico y el comercio exterior de medicamentos y medicamentos en investigación.
+REAL DECRETO 2200/1995 por la que se aprueba el Reglamento de la infraestructura para la calidad y la seguridad industrial (modificado por REAL DECRETO 338/2010).
+REAL DECRETO 1369/2000, por el que se modifica el Real Decreto 822/1993, de 28 de mayo, por el que se establecen los principios de buenas prácticas de laboratorio y su aplicación en la realización de estudios no clínicos sobre sustancias y productos químicos.
+REAL DECRETO 175/2001 por el que se aprueban las normas de correcta elaboración y control de calidad de fórmulas magistrales y preparados oficinales (modificado por REAL DECRETO 905/2003).
+REAL DECRETO 379/2001 por el que se aprueba el Reglamento de almacenamiento de productos químicos.
+DIRECTIVA 2004/10/CE, sobre la aproximación de las disposiciones legales, reglamentarias y administrativas relativas a la aplicación de los principios de buenas prácticas de laboratorio y al control de su aplicación para las pruebas sobre sustancias químicas.
+REGLAMENTO (CE) 1907/2006 relativo al registro, la evaluación, la autorización y la restricción de las sustancias y preparados químicos (REACH).
+REAL DECRETO 1345/2007 por el que se regula el procedimiento de autorización, registro y condiciones de dispensación de los medicamentos de uso humano fabricados industrialmente.
+REGLAMENTO (CE) 1272/2008 sobre clasificación, envasado y etiquetado de sustancias y mezclas.
+REAL DECRETO 1246/2008 por el que se regula el procedimiento de autorización, registro y farmacovigilancia de los medicamentos veterinarios fabricados industrialmente.
+REAL DECRETO 824/2010 por el que se regulan los laboratorios farmacéuticos, los fabricantes de principios activos de uso farmacéutico y el comercio exterior de medicamentos y medicamentos en investigación.
+DOCUMENTOS NORMATIVOS:
+AEMPS (2010). Guía de normas de correcta fabricación de medicamentos de uso humano y veterinario (actualizado 2012).
+EURACHEM (2014). The Fitness for Purpose of Analytical Methods, 2nd ed. (Se ha publicado una versión traducida al español: La Adecuación al Uso de los Métodos Analíticos).
+FDA (2015). Analytical Procedures and Methods Validation for Drugs and Biologics.
+ICH M10 (draft 2019). Bioanalytical method validation.
+ICH Q1A(R2) (2003). Stability testing for new dosage forms.
+ICH Q1B (1996). Photostability testing of new drugs substances and products.
+ICH Q1C (1996). Stability testing of new drugs substances and products.
+ICH Q1E (2003). Evaluation of stability data.
+ICH Q2(R2) (2023). Validation of analytical procedures.
+ICH Q3A(R2) (2006). Impurities in new drug substances.
+ICH Q3B(R6) (2016). Impurities in new drug products.
+ICH Q3C(R2) (2009). Impurities: guideline for residual solvents.
+ICH Q3D (2014). Guideline for elemental impurities.
+ICH Q4B Annex7(R2) (2010). Dissolution test. General chapter.
+ICH Q5C (1995). Stability testing of biotechnological/biological products
+ICH Q6A (1999). Specifications. Test procedures and acceptance criteria for new drugs substances and new drug products:chemical products.
+ICH Q6B (1999). Specifications. Test procedures and acceptance criteria for biotechnological/biological products.
+ICH Q7A (2000). Good manufacturing practice guide for active pharmaceutical ingredients.
+ICH Q8-R2 (2009). Pharmaceutical development.
+ICH Q10 (2008). Pharmaceutical quality system.
+INSHT (2000). Guía técnica para la evaluación y prevención de los riesgos presentes en lugares de trabajo relacionados con gentes químicos.
+INSHT (2010). Límites de exposición profesional para agentes químicos en España.
+ISO 11014 (2019). Safety data sheet for chemical products – Content and order of sections.
+ISO 45001 (2018). Occupational health and safety management systems – Requirements with guidance for use.
+OCDE (1998). Principios de buenas prácticas de laboratorio de la OCDE.
+UNE-EN ISO 9000 (2015). Sistemas de gestión de la calidad. Fundamentos y vocabulario.
+UNE-EN ISO 9001 (2015). Sistemas de gestión de la calidad. Requisitos.
+UNE-EN ISO 17025 (2017). Requisitos generales para la competencia de los laboratorios de ensayo y de calibración.
+UNE-EN ISO 15189 (2013). Laboratorios clínicos. Requisitos particulares para la calidad y la competencia.
+UNE-EN ISO 22870 (2017). Análisis junto al paciente. Requisitos para la calidad y la competencia.
+UNE-ISO GUÍA 99-IN (2012). Vocabulario Internacional de Metrología. Conceptos fundamentales y generales, y términos asociados.
+UNE-EN ISO 17000 (2004). Evaluación de la conformidad. Vocabulario y principios generales.
+WHO Technical Report Series 902 (2002). Annex 3: Good practices for national pharmaceutical control laboratories.
+WHO Technical Report Series 929 (2005). Annex 4: Sampling of pharmaceutical products and related materials.
+WHO Technical Report Series 943 (2007).Annex 5: Prequalification of quality control laboratories. Procedure for assessing the acceptability, in principle, of quality control laboratories for use by United Nations agencies.
+WHO Technical Report Series 953 (2009). Annex 2: Stability testing of active pharmaceuticals ingredients and finished pharmaceutical products.
+WHO Technical Report Series 957 (2010). Annex 1: Good practices for pharmaceutical quality control laboratories (se ha publicado una versión traducida al español).
+WHO (2007). Quality assurance of pharmaceuticals. A compendium of guidelines and related materials. Vol 2: Good manufacturing practices and inspection.
+WHO (2010). Guidelines for indoor air quality; selected pollutants.
+BIBLIOGRAFÍA FUNDAMENTAL:
+P. Espinosa Hidalgo, MANUAL DE SEGURIDAD EN LOS LABORATORIOS QUÍMICOS. Universidad de Granada, 1999.
+J.M. Miller, J.B. Crowther (Eds), ANALYTICAL CHEMISTRY IN A GMP ENVIRONMENT: A PRACTICAL GUIDE. Wiley, 2000.
+L. Huber, GOOD LABORATORY PRACTICE AND CURRENT GOOD MANUFACTURING PRACTICE. A PRIMER. Agilent Technologies, 2002.
+T. Kowalski (Ed), CALIBRATION IN THE PHARMACEUTICAL LABORATORY. CRC Press, 2001.
+C.M. Rodríguez, J.L. Ravelo, J.M. Palazón, TÉCNICAS DE ORGANIZACIÓN Y SEGURIDAD EN EL LABORATORIO. Síntesis, 2005.
+J. Ermer, J.H.M. Miller, METHOD VALIDATION IN PHARMACEUTICAL ANALYSIS. A GUIDE TO BEST PRACTICE. Wiley-VCH, 2006.
+P.A. Carson, N. Dent, GOOD CLINICAL, LABORATORY AND MANUFACTURING PRACTICES: TECHNIQUES FOR THE QA PROFESSIONAL, RSC Publishing, 2007.
+T. Catalano, ESSENTIAL ELEMENTS FOR A GMP ANALYTICAL CHEMISTRY DEPARTMENT, Springer, 2013.
+S.I. Haider. VALIDATION STANDARD OPERATING PROCEDURES. A step-by-step guide for achieving compliance in the pharmaceutical, medical device, and biotech industries (2nd ed.). Taylor & Francis, 2006.
+R. Fernández García. REACH. LA NUEVA NORMATIVA DE LA UE EN MATERIA DE SUSTANCIAS Y PREPARADOS QUÍMICOS. Club Universitario, 2007.
+L. Huber, VALIDATION AND QUALIFICATION IN ANALYTICAL LABORATORIES (2nd ed). Informa Healthcare, 2007.
+A.D. Kanarek. GOOD LABORATORY PRACTICE (3rd ed.). D&MD Publications, 2007.
+P. Patnaik. A COMPREHENSIVE GUIDE TO THE HAZARDOUS PROPERTIES OF CHEMICAL SUBSTANCES (3rd ed.). Wiley, 2007.
+S. Weinberg. GOOD LABORATORY PRACTICE REGULATIONS (4th ed). Informa Healthcare, 2007.
+D.J. Sarker, QUALITY SYSTEMS AND CONTROL FOR PHARMACEUTICALS, Wiley, 2008.
+WHO/TDR Network of GLP Trainers, HANDBOOK GOOD LABORATORY PRACTICES (2dn ed.). WHO, 2009.
+Agencia Española del Medicamento y Productos Sanitarios. REAL FARMACOPEA ESPAÑOLA (5ª ed.). AEMPS, 2015.
+L. Cuadros Rodríguez, A. González Casado, C. Ruiz Samblás, M.G. Bagur González. EVOLUTION OF THE QUALITY CONCEPT IN ANALYTICAL LABORATORIES. Encyclopedia of Analytical Chemistry, Wiley, Online© 2006-2017.

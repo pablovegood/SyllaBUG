@@ -1,0 +1,12 @@
+B. Boiko. Content Management Bible, 2nd Edition, Wiley. 2004.
+M. V. Zelkowitz (Ed.). Social Networking and the Web. Advances in Computers Volume 76. Elsevier. 2009.
+R. Nakano. Web Content Management: A Collaborative Approach. Addison-Wesley Professional. 2002.
+D. Barker. Web Content Management. Systems, Features, and Best Practices. O'Reilly Media 2016.
+K. Tatroe, P. MacIntyre. Programming PHP: Creating Dynamic Web Pages, 4th Edition, O'Reilly. 2020.
+Martínez Rolán, X., & Tellado, F. (2019). Diseño de páginas web: WordPress para todos los públicos. Barcelona: Editorial UOC.
+Ratnayake, R. (2018). WordPress development quick start guide : build beautiful and dynamic websites for your domain from scratch . Birmingham ;: Packt.
+Williams, a. (2018). WordPress for beginners 2019 : a visual step-by-step guide to mastering WordPress : update october 19th, 2018 . S. l: [Independently published].
+Lefebvre, Y. (2022). WordPress Plugin development cookbook (3rd edition). Packt.
+Dumoulin, L. (2021). WordPress - Desarrolle con PHP : plugins, widgets y temas avanzados (teoría, TP, recursos) . Barcelona: ENI.
+Marzo, L. (2023). Joomla! 4 Masterclass.
+Glaman, M. & Quillen, K. (2023). Drupal 10 Development Cookbook: Practical recipes to harness the power of Drupal for building digital experiences and dynamic websites, 3rd Edition. Packt.

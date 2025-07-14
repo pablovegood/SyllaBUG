@@ -1,0 +1,19 @@
+Crawley, M. J. (2012). The R Book. Wiley.
+Canhos, S Souza, R Giovanni, DAL Canhos, 2004. Global Biodiversity Informatics: setting the scene for a “new world” of ecological modeling. Biodiversity Informatics, 1, pp 1-13.
+Cavender-Bares, J., Gamon, J. A., & Townsend, P. A. (Eds.). (2020). Remote Sensing of Plant Biodiversity. Springer International Publishing. https://doi.org/10.1007/978-3-030-33157-3
+Chapman, A. D. 2005. Principles of Data Quality, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. ISBN 87-92020-03-8. Available online athttp://www.gbif.org/orc/?doc_id=1229.
+British Ecology Society (2017). A Guide to Reproducible Code in Ecology and Evolution.https://www.britishecologicalsociety.org/wp-content/uploads/2017/12/guide-to-reproducible-code.pdf
+Hawkesworth, DL PM Kirk, SD Clarke. (eds) 1997. Biodiversity Information: Needs and Options. CAB International, Wallingford, UK.
+Hogeweg, P. 2007. From population dynamics to ecoinformatics: Ecosystems as multilevel information processing systems. Ecological Informatics 2 103-111.
+Michener, WK, Brunt, JW (eds) 2000. Ecological Data: Design, Management and Processing. Blackwell Science, Oxford.
+Michener, W. K., & Jones, M. B. (2012). Ecoinformatics: supporting ecology as a data-intensive science. Trends in Ecology & Evolution  27:2, 85–93
+Olaya, V. (2020). Sistemas de Información Geográfica.https://volaya.github.io/libro-sig/
+Perkel, J.M. Workflow systems turn raw data into scientific knowledge. Nature 573, 149-150 (2019). doi: 10.1038/d41586-019-02619-z
+R Development Core Team (2000). Introducción a R.https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf
+Bekker, R. M., van der Maarel, E., Bruelheide, H., & Woods, K. (2007). Long‐term datasets: From descriptive to predictive data using ecoinformatics. In Journal of Vegetation Science (Vol. 18, Issue 4, pp. 457–462). Wiley.https://doi.org/10.1111/j.1654-1103.2007.tb02559.x
+Cavender-Bares, J., Schneider, F.D., Santos, M.J. et al. Integrating remote sensing with ecology and evolution to advance biodiversity conservation. Nat Ecol Evol 6, 506–519 (2022).https://doi.org/10.1038/s41559-022-01702-5
+Cazorla, B.P., Cabello, J., Reyes, A., Guirado, E., Peñas, J., Pérez-Luque, A.J. & Alcaraz-Segura, D. A remote sensing-based dataset to characterize the ecosystem functioning and functional diversity in the Biosphere Reserve of Sierra Nevada (SE Spain). Earth System Science Data Discussions, 15 (4): 1871–1887.
+Chapman, A. D., and J. Wieczorek. 2006. Guide to best practices for geo-referencing. Report for the Global Biodiversity Information Facility, Copenhagen, Denmark. Website:http://www.gbif.org/resource/80536
+Chapman, A.D., 2005, Uses of Primary Species-Occurrence Data, version 1.0. Report for the Global Biodiversity Information Facility, Copenhagen. 100 pp. Available online athttp://www.gbif.org/orc/?doc_id=1300.
+Pérez-Luque, A.J. & Zamora, R. diveRpine: Diversification of pine plantations in Mediterranean mountains. An interactive R tool to help decision makers. Ecological Indicators, 147: 110021
+Roussel JR, Goodboy, T.RH., Tompalski, P. (2023). The lidR package.https://r-lidar.github.io/lidRbook/

@@ -1,0 +1,25 @@
+[PRI10] Prieto, A., Prieto, B.. Conceptos de Informática, Problemas, Serie Schaum, McGraw-Hill, 2010.
+[STA22] Stallings, W. Computer Organization and Architecture: Designing for Performance, 11ª Edición, Pearson Higher Education, 2022.
+[DIA09] Díaz Ruiz, S., Romero Ternero, M. C., Molina Cantero. A. J.. Estructura y Tecnología de Computadores. Teoría y problemas. McGraw-Hill, 2009.
+[FLO16] Floyd, T.L.. Fundamentos de Sistemas Digitales, 11ª Edición. Prentice-Hall, Madrid, España, 2016.
+[GAJ04] Gajski, D.. Principios de diseño digital. Prentice Hall, 2004.
+[MAN05] Mano, M. M., Kime, C. R.. Fundamentos de diseño lógico y de computadores. 3ª edición. Pearson Education, 2005.
+[ROTH04] Roth, Ch. Fundamentos de Diseño Lógico. 5ª edición. International Thomson, 2004.
+Bibliografía relacionada con los contenidos de los temas 1 y 2:
+[HAM03] Hamacher, C., Vranesic, S., Zaky, S..Organización de computadores. McGraw-Hill, 5ª Edición, 2003.
+[NOR04] Norton, P.. Introduction to Computers. 6ª Edición, McGraw-Hill, 2004.
+[NOR05] Norton, P.. Computing Fundamentals, 6ª Edición, McGraw-Hill, 2005.
+[PRI10] Prieto, A., Lloris, A., Torres, J. C.. Introducción a la Informática, 4ª Edición, McGraw-Hill, 2010.
+[TAN00] Tanenbaum, A. S.. Organización de computadoras. Un enfoque estructurado. 4ª Edición, Prentice-Hall. 2000.
+Bibliografía relacionada con los contenidos de los temas 3, 4 y 5:
+[ANG07] Angulo, J. M., Angulo, I., García-Zubia, I., Sistemas digitales y tecnología de computadores. 2ª Edición, Thomson, 2007.
+[CAP04] Capilano Computing Systems Ltd.. Logic Works 5. Addison Wesley. 2004.
+[DES17] Deschamps, J.P., Valderrama, E, ,Terés, L., Digital Systems. From Logic Gates to Processors. Springer. 2017. (http://dx.doi.org/10.1007/978-3-319-41198-9).
+[GAR04] García, J.. Problemas resueltos de electrónica digital. Thomson, 2004.
+[LLO03] Lloris, A.; Prieto, A., Parrilla, L.. Sistemas Digitales. McGraw-Hill, 2003.
+[GRE92] Green, D.. Modern Logic Design. Addison Wesley, 1992.
+[HAYE96] Hayes, J.P.. Introducción al Diseño Lógico Digital. Addison-Wesley Iberoamericana, 1996.
+[HILL90] Hill, F.J., Peterson, G.R., Teoría de Conmutación y Diseño Lógico, Limusa Noriega, 1990.
+[NEL96] Nelson, V.P., Nagle, H.T., Carroll, B.D.; Irwin, D.. Análisis y Diseño de Circuitos Lógicos Digitales, Prentice-Hall Hispanoamericana, 1996.
+[ROT04] Roth, C. H.. Fundamentos del diseño lógico. 5ª Edición, Thomson, 2004.
+[WAK06] Wakerly, J.F.. Digital Design: Principles and Practices, 4ª Edición, Prentice-Hall, Upper Saddle River, N.J., U.S.A., 2006.

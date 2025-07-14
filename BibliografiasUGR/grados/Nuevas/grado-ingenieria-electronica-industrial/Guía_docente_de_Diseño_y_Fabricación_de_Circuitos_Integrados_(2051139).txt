@@ -1,0 +1,7 @@
+May, Sze, “Fundamentals of Semiconductor fabrication”, John Wiley & Son, 2004
+Campbell, “Fabrication Engineering at the Micro- and Nanoscale”, Oxford University Press, 2013
+Nuevas tecnologías en los dispositivos electrónicos, Proyecto Innovación Docente UGR
+Rabaey, Chandrakasan, Nikolic, "Circuitos integrados digitales: una perspectiva de diseño", Pearson, 2004
+Baker, "CMOS Circuit Design, Layout and Simulation” 3rd Edition, IEEE Press / John Wiley & Son, 2011
+Kaeslin, "Digital Integrated Circuit Design". Cambridge University Press, 2008
+Chu, “RTL hardware design using VHDL”, Wiley, 2006

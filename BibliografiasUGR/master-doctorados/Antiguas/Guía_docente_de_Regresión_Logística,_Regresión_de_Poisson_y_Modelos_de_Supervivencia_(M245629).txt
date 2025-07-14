@@ -1,0 +1,29 @@
+Bioestadística+. Antonio Martín Andrés, Juan de Dios Luna del Castillo. Ed Norma-Capitel. 2010.
+Introduction to Linear Regression Analysis Fith Edition. Montgomery, Douglas C., Peck, Elizabeth A., and Vining, G. Geoffrey. Chicester, US: John Wiley & Sons, Incorporated, 2013.
+Statistics at Square Two : Understanding Modern Statistical Applications in Medicine (2). Campbell, Michael J..Chichester, GB: BMJ Books, 2008.
+Statistical Modeling for Biomedical Researchers : A Simple Introduction to the Analysis of Complex Data Second Edition. Dupont, William D., and Dupont, William D.. Cambridge, GB: Cambridge University Press, 2009.
+Estadística con R
+BioestadísticaR
+Chan, B (2015)Biostatistics for Epidemiology and Public Health Using R.Springer (Disponible en línea, Biblioteca UGR)
+Dalgaard, P (2008)Introductory Statistics with R. Springer (Disponible en línea, Biblioteca UGR)
+Le, CT and Eberly; LE (2016) Introductory Biostatistics. John Wiley & Sons (Disponible en línea, Biblioteca UGR)
+Sawitzki, G. (2009)Computational Statistics: an introduction to R. Boca Raton. CRC Press, (Disponible en línea, Biblioteca UGR)
+Schumacker & Tomek (2013)Understanding Statistics Using R. Springer (Disponible en línea, Biblioteca UGR)
+Stowell, S (2014)Using R for Statistics. Apress (Disponible en línea, Biblioteca UGR)
+Nedel, F. B. Moriña, D. y Utzet, M. (2016). Introducción a la estadística para ciencias de la salud con R-Commander. Universitat Autònoma de Barcelona. (Disponible en línea, Biblioteca UGR)
+Menard, S. (2002).Applied logistic regression analysis(No. 106). Sage.
+Agresti, Alan. (2002).Categorical Data Analysis. New York: Wiley-Interscience. ISBN 0-471-36093-7.
+Amemiya, T. (1985).Advanced Econometrics. Harvard University Press. ISBN 0-674-00560-0.
+Balakrishnan, N. (1991).Handbook of the Logistic Distribution. Marcel Dekker, Inc. ISBN 978- 0824785871.
+Green, William H. (2003).Econometric Analysis, fifth edition. Prentice Hall. ISBN 0-13-066189-9.
+Hosmer, David W.; Stanley Lemeshow (2000).Applied Logistic Regression, 2nd ed. New York; Chichester, Wiley. ISBN 0-471-35632-8.
+Cameron, A.C. and P.K. Trivedi (1998).Regression analysis of count data,Cambridge University Press. ISBN 0-521-63201-3
+Christensen, Ronald (1997).Log-linear models and logistic regression. Springer Texts in Statistics (Second edición). Nueva York: Springer-Verlag. pp. xvi+483. ISBN 0-387-98247- 7. MR 1633357.
+Hilbe, J.M. (2007).Negative Binomial Regression, Cambridge University Press. ISBN 978-0- 521-85772-7
+Bagdonavicius, V.; Levuliene, R.; Nikulin, M. (2010). "Goodness-of-fit Criteria for the Cox model from Left Truncated and Right Censored Data".Journal of Mathematical Sciences.167(4): 436– 443.doi:10.1007/s10958-010-9929-6.
+Cox, D. R.; Oakes, D. (1984). Analysis of Survival Data. New York: Chapman & Hall.ISBN 978- 0412244902.
+Collett, D. (2003). Modelling Survival Data in Medical Research (2nd ed.).Boca Raton: CRC.ISBN 978-1584883258.
+Gouriéroux, Christian (2000). "Duration Models". Econometrics of Qualitative Dependent Variables. New York:Cambridge University Press. pp. 284–362.ISBN 978-0-521-58985-7.
+Singer, Judith D.; Willett, John B. (2003)."Fitting Cox Regression Models". Applied Longitudinal Data Analysis: Modeling Change and Event Occurrence.New York: Oxford University Press. pp. 503–542.ISBN 978-0-19-515296-8.
+Therneau, T. M.;Grambsch, P. M.(2000). Modeling Survival Data: Extending the Cox Model.NewYork: Springer.ISBN 978-0387987842.
+Moore, D. F. (2016).Applied survival analysis using R(Vol. 473). Cham: Springer.

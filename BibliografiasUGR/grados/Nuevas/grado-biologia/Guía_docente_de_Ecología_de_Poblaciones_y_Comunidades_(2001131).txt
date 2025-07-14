@@ -1,0 +1,23 @@
+Teoría:Begon, M. y Townsend, C.R. 2021. Ecology. From individuals to ecosystems, 5ª ed. Wiley.Begon, M., Howarth, R.W. y Townsend, C. 2014. Essentials of Ecology. 4ª ed. Wiley.Krebs, C.J. 2008. Ecology. The experimental analysis of distribution and abundance, 6ª ed. Pearson.Krohne, D.T. 2001. General ecology. Brooks/Cole.Margalef, R. 1986. Ecología. Ediciones Omega.Mittelbach, G.G. y McGill, B.J. 2019. Community ecology, 2ª ed. Oxford University Press.Molles, M. 2013. Ecología. Conceptos y aplicaciones. 3ª ed. McGraw-Hill, Interamericana.Odum, E.P. y Barret, G.W. 2006. Fundamentos de Ecología. 5ª ed. Thomson.Piñol, J. y Martínez-Vilalta, J. 2006. Ecología con números. Lynx.Ricklefs, R. y Relyea, R. 2014. Ecology. The economy of nature. 7ª ed. W.H. Freeman and Co.Rockwood, L.L. 2015. Introduction to population ecology. 2ª ed. Wiley Blackwell.Rodríguez, J. 2016. Ecología. 4ª ed. Pirámide.Sher, A.A. y Molles, M. 2022. Ecology. Concepts and Applications. 9ª ed. McGraw-Hill.Smith, T.M. y Smith, R.L. 2015. Elements of Ecology. 9ª ed. Pearson.Stiling, P.D. 2012. Ecology. Global insights & applications. McGraw-Hill.Stiling, P.D. 2015. Ecology. Global insights & applications. 2nd ed. McGraw-Hill.
+Begon, M. y Townsend, C.R. 2021. Ecology. From individuals to ecosystems, 5ª ed. Wiley.
+Begon, M., Howarth, R.W. y Townsend, C. 2014. Essentials of Ecology. 4ª ed. Wiley.
+Krebs, C.J. 2008. Ecology. The experimental analysis of distribution and abundance, 6ª ed. Pearson.
+Krohne, D.T. 2001. General ecology. Brooks/Cole.
+Margalef, R. 1986. Ecología. Ediciones Omega.
+Mittelbach, G.G. y McGill, B.J. 2019. Community ecology, 2ª ed. Oxford University Press.
+Molles, M. 2013. Ecología. Conceptos y aplicaciones. 3ª ed. McGraw-Hill, Interamericana.
+Odum, E.P. y Barret, G.W. 2006. Fundamentos de Ecología. 5ª ed. Thomson.
+Piñol, J. y Martínez-Vilalta, J. 2006. Ecología con números. Lynx.
+Ricklefs, R. y Relyea, R. 2014. Ecology. The economy of nature. 7ª ed. W.H. Freeman and Co.
+Rockwood, L.L. 2015. Introduction to population ecology. 2ª ed. Wiley Blackwell.
+Rodríguez, J. 2016. Ecología. 4ª ed. Pirámide.
+Sher, A.A. y Molles, M. 2022. Ecology. Concepts and Applications. 9ª ed. McGraw-Hill.
+Smith, T.M. y Smith, R.L. 2015. Elements of Ecology. 9ª ed. Pearson.
+Stiling, P.D. 2012. Ecology. Global insights & applications. McGraw-Hill.
+Stiling, P.D. 2015. Ecology. Global insights & applications. 2nd ed. McGraw-Hill.
+Prácticas:Guisande, C., Vaamonde, A. y Barreiro, A. 2011. Tratamiento de datos con R, STATISTICA Y SPSS. Ediciones Díaz de Santos, S.A.Hawkins, D. 2014. Biomeasurement: A Student’s Guide to Biostatistics. 3ª ed. Oxford University Press.Holmes, D., Moody, P. y Dine, D. 2016. Research methods for the biosciences. 3ª ed. Oxford University Press.Quinn, G.P. y Keough, M.J. 2002. Experimental design and data analysis for biologists. Cambridge University Press.Sokal, R.R. y Rohlf, F.J. 2012. Biometry. 4ª ed. W.H. Freeman and Co.
+Guisande, C., Vaamonde, A. y Barreiro, A. 2011. Tratamiento de datos con R, STATISTICA Y SPSS. Ediciones Díaz de Santos, S.A.
+Hawkins, D. 2014. Biomeasurement: A Student’s Guide to Biostatistics. 3ª ed. Oxford University Press.
+Holmes, D., Moody, P. y Dine, D. 2016. Research methods for the biosciences. 3ª ed. Oxford University Press.
+Quinn, G.P. y Keough, M.J. 2002. Experimental design and data analysis for biologists. Cambridge University Press.
+Sokal, R.R. y Rohlf, F.J. 2012. Biometry. 4ª ed. W.H. Freeman and Co.

@@ -1,0 +1,7 @@
+Padilla de la Torre, José Luis, Medina Bailón, Cristina. Fundamentos de electrónica para diseño de sistemas electrónicos, Ed. Técnica Avicam, 2021.
+Pérez, M.A., Álvarez Antón, J.C., Campo Rodriguez, JC., y otros. Instrumentación Electrónica, Thomson Editores Spain - Paraninfo S.A., 2004
+Rabaey, Chandrakasan, Nikolic. Circuitos integrados digitales: una perspectiva de diseño, Pearson, 2004
+Weste, Eshragian, Smith. CMOS VLSI Design: a Circuits and Systems Perspective. Pearson, 2005
+Wang, Chang, Cheng. Electronic Design Automation: Synthesis, Verification, and Test, Morgan Kauffman, 2009
+Lam. Hardware Design Verification: Simulation and Formal Method-Based Approaches, Prentice Hall, 2005
+Kaeslin. Digital Integrated Circuit Design : From VLSI Architectures to CMOS Fabrication, CUP, 2008

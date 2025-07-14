@@ -1,0 +1,15 @@
+Aneesh V. Manohar,Introduction to Effective Field Theories,arXiv:1804.05863.
+Gino Isidori, Yosef Nir, Gilad Perez,Flavor Physics Constraints for Physics Beyond the Standard Model,arXiv:1002.0900
+M. Perelstein,Introduction to Collider Physics,arXiv:1002.0274.
+S.P. Martin,A Supersymmetry Primer,World Scientific,hep-ph/9709356
+C.P. Herzog,Supersymmetry and Conformal Field Theory.
+D. Tong,Lectures on String Theory.
+C. Csaki,“TASI Lectures on Non-Supersymmetric BSM Models”,arXiv:1811.04279
+P. Langacker,Introduction to the Standard Model and Electroweak Physics,arXiv:0901.0241.
+T. Cohen,As Scales Become Separated: Lectures on Effective Field Theory,arXiv:1903.03622.
+M. D. Schwartz,TASI Lectures on Collider Physics,arXiv:1709.04533.
+J. Wess, J. Bagger,Supersymmetry and Supergravity, Princeton University Press.
+S. Rychkov, EPFLLectures on Conformal Field Theory in D >=3 Dimensions,arXiv:1601.05000
+J. Polchinski,String Theory, Vol 1, Cambridge University Press.
+O. Aharony et al,Large N field theories, string theory and gravity,Phys.Rep. 323 (2000) 183,hep-th/9905111
+Giuliano Panico, Andrea Wulzer,The Composite Nambu-Goldstone Higgs,Lecture Notes in Physics (Volume 913), Springer.

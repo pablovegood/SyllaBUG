@@ -1,0 +1,15 @@
+· D. Sornette, Critical Phenomena in Natural Sciences, Springer 2009. · J. Sethna, Entropy, Order parameters and Complexity. Oxford 2015.
+·J.J. Binney et al. The theory of Critical Phenomena. Oxford. 1999.
+·S.H. Strogatz,“Non-linear dynamics and Chaos”, Addison Wisley 2012.
+. A. Fuchs, “Nonlinear dynamics in complex systems”, Springer 2013.
+. S. Thurner, R. Hanel, and P. Klimek. Introduction to the theory of complex systems. Oxford University Press, 2018.
+· K. Christensen and N.R. Moloney, “Complexity and Criticality”, Imperial College, London 2005.
+· R.J. Creswick et al., "Introduction to Renormalization Group Methods in Physics”, Wiley, NY 1992.
+· J. Marro and R. Dickman, "Nonequilibrium Phase Transitions in Lattice Systems". Cambridge 2005.
+·C.W. Gardiner, “Hanbdbook of stochastic methods”, Springer Verlag, 2000.
+· N.G. van Kampen, “Stochastic processes in Physics and Chemistry”, Springer, 2004.
+· M. Newman, “Networks: An introduction”, Oxford 2011.
+· A. Pikovsky et al. Synchronization: A universal concept in nonlinear sciences. Cambridge 2003.
+· E. Ott, Chaos and dynamical systems, Cambridge, 2012.
+· H. J. Jensen, "Self-Organized Criticality ", Cambridge Univ. Press 1998.
+· P. Krapivsky, S. Redner, E. Ben-Naim,”A kinetic view of Statistical Physics”, Cambridge 2010.

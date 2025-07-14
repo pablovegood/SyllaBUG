@@ -1,0 +1,12 @@
+Rick Parent, 2012. "Computer animation: algorithms and techniques".
+Bensky, 2016. "Exploring physics with computer animation and PhysGL".
+Alberto Rodríguez, 2010. "Proyectos de animación 3D".
+Richard Williams, 2019. "Técnicas de animación: dibujos animados, animación 3D y videojuegos".
+Tuur Stuyck, 2018. "Cloth simulation for computer graphics".
+Tony Mullen, 2007. "Animación de personajes con Blender".
+Watt. A.: “3D Computer graphics”. Ed. Addison-Wesley, 1993.
+Schwartz, L. y Schwartz, L.R.: “The computer Artist Handbook”. W.W. Norton & Company, 1992
+Watt, A. y Wat, M.: “Advanced animation and rendering techniques. Theory and practice”. Ed. Addison-Wesley. 1992
+White, T.: “The Animator’s Workbook”. Ed. Phaidon Press, 1986.
+BR. Smith, “Soft Computing: Art and Design”. Edt. Addison-Wesley, 1984.
+L. Candy, E. Edmonds; “Explorations in Art and Technology”. Edt. Springer, 2002

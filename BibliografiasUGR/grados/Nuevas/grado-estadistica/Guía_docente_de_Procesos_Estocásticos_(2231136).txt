@@ -1,0 +1,12 @@
+Kijima, M. (1997) Markov Processes for Stochastic Modeling. Chapman and Hall.
+Kulkarni, V. G. (1995) Modeling and Analysis of Stochastic Systems. Chapman and Hall.
+Kulkarni, V. G. (1999) Modeling, Analysis, Design, and Control of Stochastic Systems. Springer-Verlag New York, Inc.
+Cox, D. R. y Miller, H. D. (1970). The Theory of Stochastic Processes. Methuen. London.
+Dobrow, R. P. (2016). Introduction to Stochastic Processes with R. Wiley
+Gámiz Pérez, M.L. (2000). Introducción a los procesos estocásticos. Cadenas de Markov y procesos de renovación. Universidad de Granada
+Ochi, M. K. (1990) Applied Probability and Stochastic Processes. John Wiley & Sons, Inc.
+Parzen, E. (1972) Procesos Estocásticos. Paraninfo. Madrid.
+Pérez Ocón, R. (2000). Procesos de Markov. Introducción a los procesos estocásticos. Universidad de Granada
+Ross, S. M. (1983) Stochastic Processes. John Wiley & Sons, Inc.
+Taylor, H. M. and Karlin, S. (1994) An Introduction to Stochastic Modeling. Academic Press.
+Tijms, H. C. (2003) A First Course in Stochastic Models. John Wiley and Sons, Chichester.

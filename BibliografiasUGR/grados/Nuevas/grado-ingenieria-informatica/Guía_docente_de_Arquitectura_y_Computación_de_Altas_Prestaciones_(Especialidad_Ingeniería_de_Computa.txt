@@ -1,0 +1,7 @@
+Ortega, M. Anguita, A. Prieto. Arquitectura de Computadores. Thomson, 2005. ESIIT/C.1 ORT arq Laurence T. Yang, Minyi Guo. High-Performance Computing: Paradigm and Infrastructure. Wiley-Interscience, 2005.
+Georg Hager, Gerhard Wellein. Introduction to High Performance Computing for Scientistis and Engineers. CRC Press, A Chapman & Hall Book. ISBN: 978-1-4398-1192-4, 2011
+Timothy G. Mattson, Beverly A. Sanders, Berna L. Massingill. Patterns For Parallel Programming. Addison-Wesley. ISBN: 0-321-22811-1, June 2010
+John Levesque, High Performance Computing. Ahapman & Hall /CRC. ISBN: 978-1-4200-7705. 2011
+Jason Sanders and Edward Kandrot, CUDA by Example An Introduction to General-Purpose GPU Programming. Addison-Wesley ISBN-13: 978-0-13-138768-3
+P. Pacheco, M. Malensek. An Introduction to Parallel Programming (Second Edition). Morgan Kaufmann. 2018.
+P. Pacheco, M. Malensek. An Introduction to Parallel Programming (Second Edition). Morgan Kaufmann. 2018.

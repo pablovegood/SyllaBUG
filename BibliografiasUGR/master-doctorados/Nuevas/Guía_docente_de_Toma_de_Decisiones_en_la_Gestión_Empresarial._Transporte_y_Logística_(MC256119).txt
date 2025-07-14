@@ -1,0 +1,5 @@
+Baquela, E y Redchuk, A. (2013). Optimización Matemática con R. Volumen I
+Berkelaar, M. et al. (2019). lpSolve: Interface to 'Lp_solve' v.  5.5 to Solve Linear/ Integer Programs. R package version 5.6.13.3.   https://CRAN.R-project.org/package=lpSolve
+Hillier, F.S., Lieberman, G.J. (2010). Introducción a la Investigación de Operaciones, Stanford University, Ed: McGraw-Hill Interamericana.
+R Core Team (2019). R: A language and environment for statistical   computing. R Foundation for Statistical Computing, Vienna, Austria. URLhttps://www.R-project.org/.
+Taha, H.A. (2012). Investigación de Operaciones. Ediciones Pearson

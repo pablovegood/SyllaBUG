@@ -1,0 +1,19 @@
+K. Ogata. Ingeniería de Control Moderna. Prentice Hall.
+E. Mandado, J. Marcos, C. Fernández, J.I. Armesto: “Autómatas Programables y Sistemas de Automatización”. Marcombo S.A.
+Rodríguez: “Sistemas SCADA”, MARCOMBO.
+Rodríguez: “Comunicaciones industriales. Sistemas de regulación y control automáticos”. Marcombo.
+Perry Lea.. Internet of things for architects: architecting IoT solutions by implementing sensors, communication infrastructure, edge computing, analytics, and security.. Packt Publishing.
+Cristóbal Romero. Viviendas y edificios inteligentes. Ra-ma.
+J. Domingo, J. Gámiz, A. Grau, H. Martínez: “Diseño y aplicaciones con autómatas programables”. Ed. UOC.
+David Bailey, Edwin Wright. Practical SCADA for Industry (IDC Technology. Ed. Elsevier.
+Gordon Clarke. Deon Reynders. Practical Modern SCADA Protocols: DNP3, 60870.5 and Related Systems (IDC Technology . Elsevier.).
+Deon Reynders, Steve Mackay, Edwin Wright. Practical Industrial Data Communications. Best Practice Techniques. Elsevier.
+David Bailey. Practical Radio Engineering and Telemetry for Industry. Elsevier.
+W. Dargie, C. Poellabauer."Fundamentals of wireless sensor networks: theory and practice", Wiley.
+Domótica para ingenieros / J.M. Maestre (ed); Madrid: Paraninfo.
+Manuales:
+MATLAB 7 Getting User’s Guide, the MathWorks, Inc.
+Manual de Programación de Siemens Simatic S7-300
+Manuales de “TIA portal”
+Manual de Intouch de Wonderware
+Manual ETS5

@@ -1,0 +1,5 @@
+Ware, C. (2020).Information visualization: perception for design. 4th Edition. Elsevier.
+Wicckman, H.  (2016).ggplot2. Elegant Graphics for Data Analysis. Springer.
+Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data.  O'Reilly Media, Inc. En: https://r4ds.had.co.nz/
+Wilke, C. O. (2019). Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media.
+Escobar, M. (1999). Análisis Gráfico/Exploratorio. Madrid: La Muralla.

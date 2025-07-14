@@ -1,0 +1,10 @@
+“Bioinformatics”. Andrzei Polanski and Marek Kimmel. Springer. 1ª edición (2007).
+“Protein Bioinformatics: An Algorithmic Approach to Sequence and Structure Analysis”. Inqvar Eidhammer, Inge Jonassen and William R. Taylor. Wiley. 1ª edición (2004)
+“Structural Bioinformatics”. Jenny Gu (Editor), Philip E. Bourne (Editor) 2ª Ed. Wiley-Blackwell (2009)
+“Computational Structural Biology: Methods and Applications”. Torsten Schwede and Manuel C. Peitsch. World Scientific Publishing Company. 1ª edición (2008).
+“An Introduction to Bioinformatics Algorithms (Computational Molecular Biology)”.Neil C. Jones and Pavel A. Pevzner. The MIT Press (2004).
+“Structural Bioinformatics: An Algorithmic Approach”. Forbes J. Burkowski. Chapman and Hall/CRC Eds.; 1ª edición (2008).
+"Visual software tools for bioinformatics”. Timothy Arndt. Journal of Visual Languages and Computing & Computing, 19 (2008) 291–301
+“An Integrated Approach to the Analysis and Modeling of Protein Sequences and Structures. I. Protein Structural Alignment and a Quantitative Measure for Protein Structural Distance”. An-Suei Yang and Barry Honig. J. Mol. Biol. (2000) 301, 665-678.
+"Accurate structure prediction of biomolecular interactions with AlphaFold 3." Abramson, J., et al. (2024). Nature. 10.1038/s41586-024-07487-w.
+"Highly accurate protein structure prediction with AlphaFold." Jumper, J., et al. (2021). Nature 596 (7873): 583-589. 10.1038/s41586-021-03819-2.

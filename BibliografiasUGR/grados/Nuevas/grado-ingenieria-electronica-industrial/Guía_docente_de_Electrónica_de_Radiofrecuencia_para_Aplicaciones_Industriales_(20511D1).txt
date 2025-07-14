@@ -1,0 +1,5 @@
+Behzad Razavi. “RF Microelectronics” 2nd edition. Prentice Hall 2011.
+Thomas Lee; “The design of CMOS radiofrequency ICs”, 2nd edition, Cambridge University Press, 2004.
+David M. Pozar, Microwave Engineering, 4th Ed. Wiley, 2011.
+S. C. Cripps, RF Power Amplifiers for Wireless Communications, Adtech Book Co., 1999.
+F. Losee, RF Systems, Components and Circuits Handbook, Adtech Book Co., 1997.

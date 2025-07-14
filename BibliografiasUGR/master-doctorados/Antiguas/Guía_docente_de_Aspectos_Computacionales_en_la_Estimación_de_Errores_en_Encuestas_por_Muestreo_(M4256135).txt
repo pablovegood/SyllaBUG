@@ -1,0 +1,6 @@
+Wolter, K.M. (1985), Introduction to variance estimation, Springer-Verlag, New York
+Särndall, C.E., Swensson, B. and Wretman, J. (1992) Model Assisted Survey Sampling. New York: Springer-Verlag.
+Antal E, Tillé Y (2011) A direct bootstrap method for complex sampling designs from a finite population. J Am Stat Assoc 106:534–543
+Chambers, R.L., Skinner, C.J. (2004) Analysis of Survey Data. John Wiley and Sons,
+Tillé, Y and Matei, A, The R sampling package, CRAN, Software manual, 2006
+Rao, J.N.K., Wu, C.F.J., and Yue, K. (1992). Some Recent Work on Resampling Methods forComplex Surveys. Survey Methodology, 18, 209-217.

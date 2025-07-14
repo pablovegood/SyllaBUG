@@ -1,0 +1,11 @@
+J.G. Molina, F.M. Dato, et al., Una introducción a la Programación. Un enfoque algorítmico, Thompson, 2005.
+Traducción al español de la última versión del libro de Mark Pilgrim sobrePython 3, Dive Into Python 3 - Inmersión en Python 3, por José Miguel González Aguilera: https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf
+How to Think Like a Computer Scientist: Interactive Edition, Runestone Interactive Project at Luther College, led by Brad Miller and David Ranum. Based on the original work by J. Elkner, A.B. Downey and C. Meyers, How to Think Like a Computer Scientist: Learning with Python, 2nd Edition (Python 2.x), 2012: http://interactivepython.org/runestone/static/thinkcspy/index.html
+Al Sweigart, Automate the Boring Stuff with Python. Practical programming for total beginners. Free under a Creative Commons license: https://automatetheboringstuff.com/#toc (Python 3.3)
+Lahoz-Beltra, Rafael, Bioinformática: simulación, vida artificial e Inteligencia Artificial, López de Santos, 2004.
+Video “Curso Python desde 0” (Python 3.6) https://www.youtube.com/playlist?list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS
+E. Rich, K. Knight, Inteligencia Artificial, segunda edición, Mc Graw Hill Co. 1992.
+S. Russell, P. Norvig, Inteligencia Artificial: un Enfoque Moderno, 2ª Edición, Ed. Pearson-Prentice Hall, 2004.
+Pons O., Marín N., Medina J.M., Acid S., Vila M.A., Introducción a las Bases de Datos: El modelo Relacional, Thomson Paraninfo, 2005.
+James A. Goodrich; Jennifer F. Kugel, Binding and Kinetics for Molecular Biologists, Spiral bound, Cold Spring Harbor Laboratory Press
+Uri Alon , An Introduction to Systems Biology : Design Principles of Biological Circuits, CRC Press, 2006

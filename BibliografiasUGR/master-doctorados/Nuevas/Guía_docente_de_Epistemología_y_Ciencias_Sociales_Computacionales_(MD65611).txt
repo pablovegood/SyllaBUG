@@ -1,0 +1,38 @@
+Anderson, C. (2008). The end of theory: The data deluge makes the scientific method obsolete.Wired magazine, 16(7), 16-07.
+Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author).Statistical science, 16(3), 199-231.
+Bunge M. (2013) La ciencia. Su método y su filosofía, Pamplona: Laetoli
+Byrne, D., & Callaghan, G. (2022).Complexity theory and the social sciences: The state of the art. Routledge.
+Edelmann, A., Wolff, T., Montagne, D., & Bail, C. A. (2020). Computational social science and sociology.Annual Review of Sociology,46, 61-81.
+Finn, E. (2018).La búsqueda del algoritmo: imaginación en la era de la informática. Alpha Decay.
+Gerring, John (2014)Metodología de las ciencias sociales, Madrid: Alianza Editorial.
+Grimmer, J., Roberts, M. E., & Stewart, B. M. (2022).Text as data: A new framework for machine learning and the social sciences. Princeton University Press.
+Kitchin, R. (2014). Big Data, new epistemologies and paradigm shifts.Big data & society, 1(1), 2053951714528481.
+Lauro, N. C., Amaturo, E., Grassia, M. G., and M. Marino. (2017).Data Science and Social Research. Epistemology, Methods, Technology and Applications. London: Springer.
+Lindgren, S. (2020).Data theory: Interpretive sociology and computational methods. John Wiley & Sons.
+Pietsch, W. (2021).Big data. Cambridge: Cambridge University Press.
+Salganik, M. J. (2019).Bit by bit: Social research in the digital age. Princeton University Press.
+Aneshensel, C. S. (2012).Theory-based data analysis for the social sciences. Sage Publications.
+Airoldi, M. (2021).Machine habitus: Toward a sociology of algorithms. John Wiley & Sons.
+Blum, A., Hopcroft, J. y Kannan, R. (2020). Foundations of data science. Cambridge University Press.
+Breiman, L. (2001). Statistical modeling: The two cultures (with comments and a rejoinder by the author).Statistical science,16(3), 199-231.
+Breiman, L. (2001). Statistical modeling: The two cultures.Statistical science,16(3), 199-231.
+Carrero, V., Soriano, R. M., y Trinidad, A. (2012). Teoría fundamentada grounded theory (Vol. 37). CIS.
+Cukier, K., & Mayer-Schoenberger, V. (2014). The rise of big data: How it’s changing the way we think about the world.The best writing on mathematics, 20-32.
+Diaz-Bone, R., Horvath, K., & Cappel, V. (2020). Social research in times of big data. The challenges of new data worlds and the need for a sociology of social research.Historical Social Research/Historische Sozialforschung,45(3), 314-341.
+Elliott, A. (2019). The culture of AI: Everyday life and the digital revolution. Routledge.
+Elliott, A. (2021).Making sense of AI: Our algorithmic world. John Wiley & Sons.
+Elliott, A. (Ed.). (2021).The Routledge social science handbook of AI. Routledge.
+Flache, A., Mäs, M., & Keijzer, M. A. (2022). Computational approaches in rigorous sociology: agent-based computational modeling and computational social science. InHandbook of Sociological Science(pp. 57-72). Edward Elgar Publishing.
+Gilbert GN (2008). Agent-Based Models. Quantitative Applications in the Social Sciences. Sage, Los Angeles, CA.
+Goldthorpe, J. H. (2017). Las ciencias sociales como ciencias de la población. Madrid: Alianza Editorial.
+Gualda Caballero, E., Taboada Villamarín, A., & Rebollo Díaz, C. (2023). ‘Big data’y ciencias sociales. Una mirada comparativa a las publicaciones de antropología, sociología y trabajo social. Gaceta de Antropología 39 (1).
+Keuschnigg, M., Lovsjö, N. & Hedström, P. (2018) Analytical sociology and computational social science.J Comput Soc Sc1, 3–14.https://doi.org/10.1007/s42001-017-0006-5
+Maldonado, C. E. (2008) Complejidad y ciencias sociales desde el aporte de las matemáticas cualitativas.Cinta moebio, 33http://dx.doi.org/10.4067/S0717-554X2008000300001.
+Nelson, L. K. (2020). Computational Grounded Theory: A Methodological Framework. Sociological Methods & Research, 49(1), 3–42.https://doi.org/10.1177/0049124117729703
+Pietsch, W. (2022).On the epistemology of data science. Springer International Publishing.
+Robles, J. M., Rodríguez, J. T., Caballero, R., & Gómez, D. (2020). Big data para científicos sociales. Una introducción (Vol. 60). CIS.
+Rosati, G., Chazarreta, A., Domenech, L., Piñeyrúa, F., & Maguire, T. (2023). Ciencias Sociales Computacionales. Un estado de la cuestión y una agenda de investigación.Papeles de Trabajo,17(30), 59-69.
+Rudas, T., & Péli, G. (Eds.). (2021).Pathways between social science and computational social science: theories, methods, and interpretations. Springer Nature.
+Schwarz, O. (2021).Sociological theory for digital society: The codes that bind us together. John Wiley & Sons.
+Splichal, S. (2022). In data we (don't) trust: The public adrift in data-driven public opinion models.Big Data & Society,9(1), 20539517221097319.
+Turner JR, Baker RM (2019). Complexity Theory: An Overview with Potential Applications for the Social Sciences. Systems; 7(1):4.https://doi.org/10.3390/systems7010004

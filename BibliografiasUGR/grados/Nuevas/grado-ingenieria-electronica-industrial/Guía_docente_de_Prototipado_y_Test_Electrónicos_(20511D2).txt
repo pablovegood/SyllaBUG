@@ -1,0 +1,18 @@
+José M. Arroyo Ruiz, Iniciación al diseño de circuitos impresos con Altium Designer, Marcombo, 2022.
+José R. Garaja, Diseño de circuitos impresos con EAGLE, Marcombo, 2014.
+Joan Pere López Veraguas, Compatibilidad electromagnetica. Barcelona : Marcombo, 2006.
+R.S. Khandpur , “Printed Circuit Boards - Design, Fabrication, and Assembly” , Ed. McGraw-Hill.
+J.M. Rabaey, “Digital Integrated Circuits, a design perspective”, Prentice Hall.
+Printed circuit board design techniques for EMC compliance : a handbook for designers. Montrose, Mark I. New York, NY : IEEE Press, 2000
+C. Robertson. PCB Designer´s Reference. Prentice Hall, 2003
+C. Coombs, Printed Circuits Handbook, McGraw-Hill Professional, 6 edition, 2007
+V. Shukla, Signal Integrity for PCB Designers, Reference Designer, 2009
+Ángel Bueno, Desarrollo y construcción de prototipos electrónicos, 2005
+Jon Varteresian, Fabricating Printed Circuit Boards, Newnes, 2002
+Mark Madou, Fundamentals of Microfabrication, , CRC Press, ISBN: 0-8493-9451-1
+Elaine Rhodes, Developing Printed Circuit Assemblies: From Specifications to Mass Production, 2008
+D. Brooks, Signal Integrity Issues and Printed Circuit Board Design, Prentice Hall, 2003
+B. Archambeault, J. Dreuiawniak, PCB Design for Real-World EMI Control, Springer, 2002
+N.H.E. Weste, D. Harris, “CMOS VLSI Design, A circuits and systems perspective”, Pearson, Addison-Wesley Y.P. Tsividis, “Operation and modeling of the MOS transistor”, Oxford University Press.Production, 2008
+D. Brooks, Signal Integrity Issues and Printed Circuit Board Design, Prentice Hall, 2003
+B. Archambeault, J. Dreuiawniak, PCB Design for Real-World EMI Control, Springer, 2002

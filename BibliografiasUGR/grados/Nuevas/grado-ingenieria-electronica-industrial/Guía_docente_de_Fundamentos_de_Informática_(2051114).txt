@@ -1,0 +1,34 @@
+A. Prieto, A. Lloris, J.C. Torres, Introducción a la Informática, 4ª Edición, McGraw-Hill. 2006.
+A. Prieto, B. Prieto, Conceptos de Informática, Serie Schaum, McGraw-Hill, 2005.
+J. G. Brookshear, Computer Science, 12th Ed. Pearson, 2015.
+W. Stallings, Operating Systems. Internals and Design Principles, 8th Ed., Pearson, 2015.
+C. Hamacher, et al., Computer organization and embedded systems, 6th ed., Mc Graw-Hill, 2012.
+A. S. Tanenbaum, Structured computer organization, 5th Ed., Pearson, 2006.
+A.V. Aho, ... et al, Compiladores: Principios, técnicas y herramientas, 2ª edición, México : Pearson, 2008.
+L. Joyanes, Fundamentos de programación: Algoritmos, estructura de datos y objetos, 5ª edición, Madrid : McGraw-Hill, 2020.
+L. Joyanes, I. Zahonero, Programación en C, C++, JAVA y UML, McGraw-Hill, 2015, 2ª Edición.
+Ray, Deborah S. Unix and Linux San Francisco, CA : Peachpit Press, 2015.
+Sobell, Mark G. Practical guide to Ubuntu Linux. Fourth edition. Upper Saddle River, NJ : Prentice Hall, 2015.
+B. H. Hahn, D. T. Valentine, Essential MATLAB for engineers and scientists (Fifth Edition), Elsevier Ltd, 2013.
+H. Moore, MATLAB para ingenieros, Pearson Educación, 2007.
+A. Silberschatz, et al., Fundamentos de bases de datos (6ª Edición), Mc Graw Hill, 2014.
+A. Silberschatz, et al., Fundamentos de sistemas operativos (7ª Edición), McGraw-Hill, 2013
+Aldana Montes, J.A. ... [et al.], Introducción al big data, Madrid : García Maroto, 2016.
+Kelleher,J.D. and Tierney, B., Data science, Cambridge, Massachusetts : The MIT Press, 2018.
+Thomas, C. Editor, Data mining, London, England : IntechOpen, 2018.
+M.Barrio Andrés, Internet de las cosas, 2ª edición, Madrid : Reus, 2020.
+M. López i Seuba, Internet de las cosas, Rama Editorial, 2019.
+R.E. Bryan, D.R. O’Hallaron, Computer systems: a programmer’s perspective, 3rd ed., Pearson 2016.
+F. J. Carazo, Ubuntu Linux. Instalación y configuración básica en equipos y servidores, Ra-MA, 2009.
+C.J. Date, Introducción a los sistemas de bases de datos, 7ª Edición, Pearson Education , 2001.
+B. Forouzan , F. Mosharraf, Foundations of Computer Science, 2nd Ed, 2008.
+J. García de Jalón de la Fuente, et al., Aprenda lenguaje ANSI C como si estuviera en primero, Escuela Técnica Superior de Ingenieros Industriales Universidad Politécnica de Madrid, 1998.
+J. García de Jalón, J. I. Rodríguez y J.Vidal , Aprenda Matlab 7.0 como si estuviera en primero, Escuela Técnica Superior de Ingenieros Industriales Universidad Politécnica de Madrid, 2005.
+J. L. Hennessy y D. A. Patterson, Computer Architecture. A Quantitative Approach, 5th ed., Morgan Kaufmann, 2012.
+P. Norton, Introducción a la Computación. McGraw-Hill, 6ª edición, 2006.
+J. Ortega, M. Anguita, A. Prieto, Arquitectura de Computadores, Thomson, 2005.
+D. A. Patterson y J. L. Hennessy, Computer organization and design: the hardware/software interface, 5th ed., Elseiver, 2013.
+W. Stallings. Organización y Arquitectura de Computadores. Prentice-Hall, 4ª edición, 2003.
+A. S. Tanenbaum, Redes de Computadoras. Pearson, 5ª edición, 2012.
+Alpaydin, E., Machine learning, Revised and updated edition, Cambridge, Massachusetts : The MIT Press, 2021.
+Zhou, Z., Machine learning, Gateway East, Singapore : Springer, 2021.

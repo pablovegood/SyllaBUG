@@ -1,0 +1,9 @@
+Law y W. Kelton, Simulation Models and Analysis, Quinta edición, McGraw-Hill (2015).
+S.V. Hoover y R.F. Perry, Simulation. A Problem Solving Approach, Addison-Wesley (1989).
+D. Matko, R. Karba, B. Zupancic, Simulation and Modelling of Continuous Systems, Prentice-Hall (1992).
+H.J. Bungartz, S. Zimmer, M. Buchholz, D. Pfluger, Modeling and Simulation, An application-oriented introduction, Springer (2013).
+L.G. Birta, G. Arbez, Modelling and Simulation, Exploring Dynamic System Behaviour, Segunda edición, Springer (2013).
+J. Banks y J.S. Carson, Discrete-event System Simulation, Edición internacional, Pretince-Hall (2009).
+W. Kreutzer, System Simulation, Programming Styles and Languages, Addison-Wesley (1986).
+J. A. Payne, Introduction to Simulation. Programming Techniques and Methods of Analysis, McGraw-Hill (1982).
+M. Pidd, Computer simulation in Management Science, Quinta edicion, Wiley (2006).

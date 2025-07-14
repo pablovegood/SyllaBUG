@@ -1,0 +1,11 @@
+S. W. Smith. Digital Signal Processing: A Practical Guide for Engineers and Scientists. Newnes, 2003. ISBN: 075067444X.
+R. G. Lyons. Understanding Digital Signal Processing, 3rd Ed. Prentice Hall, 2011. ISBN:1-282-88877-3.
+A. V. Oppenheim, R. W. Schafer, J. R. Buck. Tratamiento de Señales en Tiempo Discreto, 3ª Ed. Prentice Hall, 2011. ISBN: 9788483227183 .
+R. C. González, R. E. Woods, Digital Image Processing, 4th Ed. Adison Wesley, 2018. ISBN: 9781292223049.
+V. K. Ingle, J. G. Proakis. Digital Signal Processing using MATLAB, 3rd Ed. Cengage Learning, 2012. ISBN: 9781111427382.
+J. G. Proakis, D. K. Manolakis. Tratamiento digital de señales, 4ª Ed.. Pearson educación, 2010. ISBN: 9788483223475.
+M.H. Hayes. Digital Signal Processing (Schaum's Outlines). McGraw Hill, 1999. SBN : 9780070273894.
+A. V. Oppenheim, A. S. Willsky, S. H. Nawab. Señales y sistemas, 2ª Ed.. Prentice Hall Internatinal, 1998. ISBN: 9789701701164.
+M. H. Hayes, Statistical digital signal processing and modeling. John Wiley and Sons, 1996. ISBN : 9780471594314.
+S. Haykin, Adaptive filter theory, 4th Ed. Prentice Hall, 1996. ISBN : 9780130901262.
+E. Soria, M. Martínez, J. V. Francés, G. Camps. Tratamiento digital de señales. Problemas y ejercicios resueltos. Prentice Hall, 2003. ISBN : 8420535591.

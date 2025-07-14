@@ -1,0 +1,12 @@
+Stephenson, B. The Python Workbook. Springer International Publishing Switzerland.
+Romano, F. 2015. Learning Python. Packt Publishing Ltd.
+Demers, M.N. Fundamentals of Geographic Information Systems. John Wiley&Sons
+Longley et al. Geographic Information Systems and Science. Ed. Wiley
+Cuevas Álvarez, A., 2018. Aplicaciones gráficas con Python 3. RaMa, Madrid.
+Devert, A., 2014. Matplotlib plotting cookbook. Packt Publishing, Birmingham.
+Trauth, M., 2015. MATLAB recipes for earth sciences. Springer-Verlag, Berlin.
+Clarke, K. C. et al., 2002. Geographic Information System and environmental Modelling. Prentice Hall
+Clarke, K. C., 2003. Getting Started with GIS. Prentice Hall, 2003
+Longley, P.A. et al., 2003. Geographic Information System and Science. Wiley
+Rojas, S., Christensen, E.A., Blanco-Silva, F.J., 2015. Learning SciPy for Numerical and Scientific Computing. Packt Publishing, Birmingham
+Skidmore, A., (Ed.), 2002. Environmental modelling with GIS and Remote sensing

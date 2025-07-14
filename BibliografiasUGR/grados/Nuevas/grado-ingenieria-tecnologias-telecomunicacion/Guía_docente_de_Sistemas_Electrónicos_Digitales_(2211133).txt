@@ -1,0 +1,7 @@
+Compilador C CCS y simulador Proteus para microcontroladores PIC. 2ª edición. Marcombo, 2009.
+Microcontroladores PIC ;José M. Angulo Usategui, Ignacio Angulo Martínez. Mc Graw-Hill, 2003.
+VHDL for Logic Synthesis ; A. RushtonJohn Wiley and Sons, 2011.
+VHDL Lenguaje para síntesis y modelado de circuitos. F. Pardo y J. A. Boluda, Ed. ra-ma, 1999.
+Rapid Prototyping of Digital Systems : SOPC Edition .J.O. Hamblen, T.S. Hall, y M.D. Furman ,Springer, 2008.
+Maxfield, C., FPGAs: Instant Access, Newnes 2008
+Standard IEEE Std 1076.

@@ -1,0 +1,49 @@
+Aki, K. and W. H. K. Lee, 1976. Determination of the three-dimensional velocity anomalies under a seismic array using first P arrival times from local earthquakes, Part. 1. A homogeneus initial model. J. Geophys. Res., 81, 4381-4399.
+Babuska, V. and M. Cara (1991). Seismic anisotropy in the Earth. Kluwer Academic,
+Boschi, L., G. Ekström, B. Kustowski; Multiple resolution surface wave tomography: the Mediterranean basin,Geophysical Journal International, Volume 157, Issue 1, 1 April 2004, Pages 293–304.
+Humphreys, E. and R.W. Clayton, 1988. Adaptation of back projection tomography to seismic travel time problems, J. Geophys. Res., 93, 1073-1085.
+Inoue, H., Y. Fukao, K. Tanabe and Y. Ogata, 1990. Whole mantle P-wave travel time tomography, Phy. Earth Planet. Inter., 59, 294-328.
+Grad, M., Timo Tiira and ESC Working Group. The Moho depth map of the European Plate. Geophys. J. Int. (2009), doi: 10.1111/j.1365-246X.2008.03919.x
+Levshin, A.L., M.H. Ritzwoller, M.P. Barmin, A. Villaseñor, and C.A. Padgett, New constraints on the Arctic crust and uppermost mantle: surface wave group velocities, Pn, and Sn,Phys. Earth Planet. Inter.,vol. 123, no. 2-4, pp. 185-204, 2001.
+Martí, J., A. Villaseñor, A. Geyer, C. López, and A. Tryggvason (2017), Stress barriers controlling lateral migration of magma revealed by seismic tomography, Scientific Reports, 7, 40757, doi: 10.1038/srep40757
+Martínez, M.D., Lana, X., Canas, J.A., Badal, J. and Pujades, L., 2000. Shear-wave velocity tomography of the lithosphere-asthenosphere system beneath the Mediterranean area, Phys. Earth Planet. Inter., 122, 33-54.
+Mitra, S., Priestley, K., Gaur, V.K., Rai, S.S. and Haines, J., 2006. Variation of Rayleigh wave group velocity dispersion and seismic heterogeneity of the Indian crust and uppermost mantle, Geophys. J. Int., 164, 88-98.
+Mishra, O.P., Zhao, D. and Singh, D.D., 2005. Northwest Pacific fundamental mode Rayleigh wave group velocity and its relationship with tectonic structures, Bull. Seism. Soc. Am., 95, 2125-2135.
+Moudnib, L. E., A. Villaseñor, M. Harnafi, J. Gallart, A. Pazos, I. Serrano, D. Córdoba, J. A Pulgar, P. Ibarra, M. M Himmi. Crustal structure of the Betic-Rif system, western Mediterranean, from local earthquake Tomography.Tectonophysics,Volume 643, 7 March 2015, Pages 94–105.
+Serrano, I., J. Morales, D. Zhao, F. Torcal y F. Vidal. P-wave tomographic images in the Central Betics-Alborán Sea (South Spain) using local earthquakes: contribution for a continental collision. Geophysical Research Letters, Vol. 25, No. 21, 4031-4034, November 1, 1998. , ISSN: 0094-8276, 1998.
+Serrano, I., D. Zhao y J. Morales. 3-D crustal structure of the extensional Granada Basin in the convergent boundary between the Eurasian and African plates. Tectonophysics, 344/1-2 (61-79), 2002, ISSN: 0040-1951, 2002.
+Serrano, I., Bohoyo, F., Galindo-Zaldívar, J., Morales, J. y Zhao, D. Geophysical signatures of a basic-body rock placed in the upper crust of the External Zones of the Betic Cordillera (Southern Spain). Geophysical Research Letter, Vol. 29, NO. 0, 10.1029/2001GL013487, 2002, ISSN: 0094-8276, 2002
+Serrano, Morales, J. Torcal, F., Vidal, F. and Mancilla, F. Imágenes tomográficas en el Sur de España y Norte de Marruecos. Física de la Tierra, 2003, 15, 145-162, ISSN: 0214-4557.
+Serrano, I., Zhao, D., Morales, J. and Torcal, F. Seismic tomography from local crustal earthquakes beneath eastern Rif mountains of Morocco. Tectonophysics, 6881(2003), 1-15, ISSN: 0040-1951, 2003.
+Serrano, I., Hearn, T. M., Morales, J. and Torcal, F. Seismic anisotropy and velocity structure beneath the southern half
+of the Iberian Peninsula. Physics of the Earth and Planetary Interior, 150, 317-330, June 2005, ISSN: 0031-9201, 2005.
+Serrano, I., Torcal, F. y Morales, J. Imágenes de velocidad sísmica en la región inferior del manto litosférico de la Península Ibérica. Libro Homenaje a Víctor García Dueñas. Revista de la Sociedad Geológica de España, 20(3-4), 2007.
+Serrano, Inmaculada, Federico Torcal and José Benito Martín. High Resolution Seismic Imaging of an active fault at the eastern Guadalquivir basin (Betic Cordillera, Southern Spain). Tectonophysics 660 (2015) 79-91.
+Spakman, W. and G. Nolet, 1988. Imaging algorithms, accuracy and resolution in delay time tomography. N. J. Vlaar, G. Nolet, M. J. R. Wortel and S. A. L. Cloetingh (Editors), Mathematical Geophysics: a Survey of Recent Developments in Seismology and Geodynamics. Reidel, Dordrecht, pp. 155-188.
+Savage, M. K. (1999). Seismic anisotropy and mantle deformation: What have we learned from wave splitting?. Reviews of Geophysics, 37, 1. Vinnik, L.P. Detection of waves converted from P to SV in the mantle, Phys. Earth Planet. Inter. 15 (1977), pp. 39–45.
+Villaseñor, A., Ritzwoller, M.H., Levshin, A.L., Barmin, M.P., Engdahl, E.R., Spakman, W. and Trampert, J., 2001. Shear velocity structure of central Eurasia from inversion of surface waves velocities, Phys. Earth Planet. Inter., 123, 169-184.
+Villaseñor, S. Chevrot, M. Harnafi, J. Gallart, A. Pazos, I. Serrano, D. Córdoba, J. A. Pulgar, P. Ibarra. Subduction and volcanism in the Iberia-North Africa collision zone from tomographic images of the upper mantle. Tectonophysics 663 (2015) 238–249.
+Zhao, D., A. Hasegawa, S. Horiuchi (1992) Tomographic imaging of P and S wave velocity structure beneath northeastern Japan.J. Geophys. Res. 97, 19909-19928.
+Zhao, D., A. Hasegawa, H. Kanamori (1994) Deep structure of Japan subduction zone as derived from local, regional, and teleseismic events.J. Geophys. Res. 99, 22313-22329.
+Zhao, D. (2001) Seismic structure and origin of hotspots and mantle plumes.Earth Planet. Sci. Lett. 192, 251-265. 237 Zhao, D. (2004) Global tomographic images of mantle plumes and subducting slabs: insight into deep Earth dynamics.Phys. Earth Planet. Inter. 146, 3-34.
+Zhao, D., H. Kanamori, H. Negishi, D. Wiens (1996) Tomography of the source area of the 1995 Kobe earthquake: Evidence for fluids at the hypocenter?Science274, 1891-1894.
+Zhao, D., O. Mishra, R. Sanda (2002) Influence of fluids and magma on earthquakes: seismological evidence.Phys. Earth Planet. Inter. 132, 249-267.
+Zhao, D., H. Negishi (1998) The 1995 Kobe earthquake: Seismic image of the source zone and its implications for the rupture nucleation.J. Geophys. Res. 103, 9967-9986.
+Zhao, D. (2009) Multiscale seismic tomography and mantle dynamics.Gondwana Res.15, 297-323.
+Zhao, D. (2007) Seismic images under 60 hotspots: Search for mantle plumes.Gondwana Res. 12, 335-355.
+Zhao, D., (2015). Multiscale Seismic Tomography. Springer Geophysics. ISBN 978-4-431-55359-5 ISBN 978-4-431-55360-1 (eBook). DOI 10.1007/978-4-431-55360-1.
+Aki, K. and B. Chouet (1975). Origin of coda waves: source, attenuation and scattering effects. J. Geophys. Res. 80, 3322-42.
+Ammon, C.J. The isolation of receiver function effects from teleseismic P waveforms, Bull. Seismol. Soc. Am. 81 (1991), pp. 2504–2510.
+Badal, J., Corchete, V., Payo, G., Pujades, L. and Canas, J.A., 1996. Imaging of shear wave velocity structure beneath Iberia, Geophys. J. Int., 124, 591-611.
+Bohoyo, F., J. Galindo-Zaldivar y I. Serrano. Main features of the basic rock bodies of the Archidona Region from geophysical data (External Zones, Betic Cordillera). C. R. Acad. Sci. Paris, 330, 1-8, 2000, ISSN: 1251-8050, 2000.
+Corchete, V., Badal, J., Serón, F.J. and Soria, A., 1995. Tomographic images of the Iberian subcrustal lithosphere and asthenosphere, J. Geophys. Res., 100, 24133-24146.
+Gaite, B., A. Villaseñor, A. Iglesias, M. Herraiz, and I. Jiménez-Munt (2015), A 3-D shear velocity model of the southern North American and Caribbean plates from ambient noise and earthquake tomography,Solid Earth,6(1), 271-284, doi: 10.5194/se-6-271-2015.
+Godey, S., R.K. Snieder, A. Villaseñor, and H.M. Benz, Surface wave tomography of North America and the Caribbean using global and regional broad-band networks: phase velocity maps and limitations of ray theory,Geophys. J. Int.,vol. 152, no. 3, pp. 620-632, 2003.
+Granet, M. and J. Trampert, 1989. Large-scale P-velocity structures in the Euro Mediterranean area. Geophys. J. Int., 99, 583-594.
+Pasyanos, M.E., and Walter, W.R., 2001. A surface wave dispersion study of the Middle East and North Africa for monitoring the comprehensive Nuclear-Test-Ban Treaty, Pure appl. Geophys., 158, 1445-1474.
+Ritzwoller, M.H., Levshin, A.L., Ratnikova, L.I., and Egorkin, A.A., 1998. Intermediate-period group-velocity maps across Central Asia, Western China and parts of the Middle East. Geophys. J. Int., 134, 315-328.
+Ritzwoller, M.H., Shapiro, N.M., Levshin, A.L. and Leahy, G.M., 2001. The structure of the crust and upper mantle beneath Antartica and the surrounding oceans. J. Geophys. Res., 106, 30645-30670.
+Vdovin, O.Y., Rial, J.A., Levshin, A.L. and Ritzwoller, M.H., 1999. Group-velocity tomography of South America and the surrounding oceans, Geophys. J. Int., 136,324-340.
+Vuan, A., Robertson Maurice, S.D., Wiens, D.A. and Panza, G.F., 2005. Crustal and upper mantle S-wave velocity structure beneath the Bransfield Strait (West Antactica) from regional surface wave tomography, Tectonophysics, 397, 241-259.
+Yanovskaya, T. B., Antonova, L.M. and Kozhevnikov, V.M., 2000. Lateral variations of the upper mantle structure in Eurasia from group velocity of surface waves, Phys. Earth Planet Inter., 122, 19-32.
+Yanovskaya, T. B. and Kozhevnikov, V. M., 2003. 3D S-wave velocity pattern in the upper mantle beneath the continent of Asia from Rayleigh wave data, Phys. Earth Planet Inter., 138, 263-278.

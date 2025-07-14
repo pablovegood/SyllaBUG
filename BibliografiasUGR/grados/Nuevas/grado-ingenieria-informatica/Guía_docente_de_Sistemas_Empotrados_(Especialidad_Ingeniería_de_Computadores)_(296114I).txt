@@ -1,0 +1,23 @@
+L. Edwards.Embedded Systems Design on a Shoestring: Achieving High Performance with a Limited Budget. Newnes, 2003.
+M. Barr, A. Massa.Programming Embedded Systems: With C and GNU Development Tools, 2nd ed. O'Reilly, 2006.
+M. Barr.Embedded C Coding Standard. Netrino Institute, 2013.
+J. Ganssle.The Firmware Handbook, Newnes, 2004.
+C. Walls.Embedded Software. The Works, 2nd ed. Newness, 2012.
+Q. Li, G. Yao.Real-Time Concepts for Embedded Systems, CMP Books, 2003.
+W. Hohl.ARM Assembly Language. Fundamentals and Techniques, 2nd ed. CRC Press, 2014.
+A. N. Sloss, D. Symes y C. Wright.ARM System Developer's Guide. Designing and Optimizing System Software. Morgan Kaufmann, 2004.
+S. Banik, V. Zimmer.System Firmware : An Essential Guide to Open Source and Embedded Solutions. Apress, 2022.
+J. Beningo.Reusable Firmware Development : A Practical Approach to APIs, HALs and Drivers. Apress, 2017
+J. Beningo.Embedded software design : a practical approach to architecture, processes, and coding techniques. Apress, 2022.
+D. Lacamera.Embedded systems architecture : discover software programming on embedded devices to build safe and secure connected systems, 2nd ed. Packt Publishing, 2023.
+Z. Lasiuk, P. Verma, J. R. Andrews.The insider's guide to Arm Cortex-M development : leverage embedded software development tools and examples to become an efficient Cortex-M developer. Packt Publishing, 2022
+A. Berger.Embedded Systems Design: An Introduction to Processes, Tools & Techniques. CRC Press, 2011.
+S. Heath.Embedded System Design. Newness, 2ª edición, 2003.
+P. Marwedel.Embedded System Design: Embedded Systems Foundations of Cyber-Physical Systems, 2nd ed. Springer, 2011.
+W. Wolf.Computers as Components: Principles of Embedded Computing System Design, 3rd ed. Morgan Kaufmann, 2012.
+F. Vahid y T. Givargis.Embedded System Design: A Unified Hardware/Software Introduction, 2nd ed. John Wiley & Sons, 2002.
+J. J. Labrosse, et al.Embedded Software: Know it All. Newnes, 2008.
+J. Ganssle, et al.Embedded Hardware: Know it All. Newnes, 2008.
+J. Ganssle (ed.).Embedded Systems: World Class Designs. Newnes, 2008.
+I. Lee, J. Y-T. Leung, S. H. Son.Handbook of Real-Time and Embedded Systems. Champman & Hall/CRC, 2008.
+K. E. Curtis.Embedded Multitasking, Newnes, 2006.

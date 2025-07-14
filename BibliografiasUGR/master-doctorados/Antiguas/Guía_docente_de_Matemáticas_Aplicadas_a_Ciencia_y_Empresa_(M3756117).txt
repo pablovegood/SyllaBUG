@@ -1,0 +1,12 @@
+Quantitative Modeling of Derivative Securities, M. Avellaneda & P. Laurence.
+Options, Futures and other Derivatives (7th Edition), John C. Hull
+Financial Calculus, Baxter & Rennie
+Finance, Z. Bodie y R.C. Merton
+Introduction to the Mathematics of Finance, R.J. Williams
+The elements of statistical learning. Data mining, inference, and prediction. T. Hastie, R. Tibshirani, J. Friedman. S
+Quantitative Risk Management, A. J. McNeil, R. Frey, P. Embrechts.
+Statistical and Probabilistic Methods in Actuarial Science, P. J. Boland
+Actuarial Theory for Dependent Risks, M. Denuit, J. Dhaene, M. Goovaerts, R. Kaas.
+Ghiani, G., Laporte, G., Musmanno, R. (2013). Introduction to Logistics Systems Management. Wiley.
+The Logic of Logistic: Theory, Algorithms, and Applications for Logistics Management. Springer, Simchi-Levi, D.,  Chen, X, Bramel, J. (2014).
+The Nature of Statistical Learning Theory. Springer-Verlag, 1995, Vapnik, V.

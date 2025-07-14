@@ -1,0 +1,5 @@
+James, G., Witten, D., Hastie, T., & Tibshirani, R. (2023). An introduction to statistical learning with applications in Python. Springer Science+Business Media, LLC (July, 25, 2023,https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html)
+Kane, F. (2017). Hands-On Data Science and Python Machine Learning. Packt Publishing Ltd.
+McKinney, Wesley (2022). Python for Data Analysis: Data Wrangling with Pandas, NumPy, and Jupyter 3rd Edition. O’Reilly Media, Sebatopol, 2022.
+Witten, I. H., Frank, E., Hall, M. A., & Pal, C. J. (2016). Data Mining: Practical machine learning tools and techniques. Morgan Kaufmann.
+Se irá proporcionando en el transcurso de las clases

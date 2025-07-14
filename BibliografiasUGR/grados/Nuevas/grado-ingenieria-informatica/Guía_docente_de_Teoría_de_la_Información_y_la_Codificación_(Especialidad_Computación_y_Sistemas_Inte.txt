@@ -1,0 +1,9 @@
+Adámek, J. Foundations of Coding. John Wiley & Sons, 1991.
+David J.C. MacKay, Information Theory, Inference, and Learning Algorithms, Cambridge University Press 2022.
+San Ling, Chaoping Xing, Coding Theory: A first course, Cambridge University Press 2004.
+Andre Neubauer, Coding theory: algorithms, architectures, and applications, John Wiley, 2008.
+Cover,T,m., Thomas,J.A. Elements of information Theory, Wiley-Interscience. Second edition. 2006.
+Gray,R.M. Entropy and Information Theory. Springer-Verlag. New-York. Second edition. 2013.
+Mackay, D. Information Theory, Inference, and Learning Algorithms. Cambridge University Press. 2003.
+Van lInt, J.H. Introduction to coding theory. Springer-Verlag. Third edition. 1999.
+Woungang,I., Misra, S., Misra,S.C. Selected topics in information and coding theory. Series on Coding Theory and Cryptology. 2010.

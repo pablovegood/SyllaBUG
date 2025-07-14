@@ -1,0 +1,37 @@
+Antunes LC, Ferreira RB, Buckner MM, Finlay BB. (2010) Quorum sensing in bacterial virulence. Microbiology. 156:2271-2282.
+Bange G., Brodersen DE, Liuzzi A, Steinchen W (2021) Two P or Not Two P: understanding regulation by the bacterial second messengers (p)ppGpp. Annu Rev Microbiol. 75:383-406.
+Beier D, Gross R. (2006) Regulation of bacterial virulence by two-component systems. Curr Opin Microbiol. 9:143-152.
+Bellinzoni M, Wehenkel AM, Durán R, Alzari PM (2019) Novel mechanistic insights into physiological signaling pathways mediated by mycobacterial Ser/Thr protein kinases. Genes Immun. 20:383-393.
+Biswas S, Chouhan OP, Bandekar D (2020) Diguanylate cyclases inVibrio cholerae: essential regulators of lifestyle switching. Front Cell Infect Microbiol. 10:582947
+Bridges, AA, Prentice JA, Wingreen NS, Bassler BL (2022) Signal transduction network principles underlying bacterial collective behaviors. Annu Rev Microbiol. 10.1146/annurev-micro-042922-122020.
+Buschiazzo, A,Trajtenberg, F (2019) Two-component sensing and regulation: how do histidine kinases talk with response regulators at the molecular level? Annu Rev Microbiol. 73:507-528.
+Casas-Pastor D; Müller RR; Jaenicke S; Brinkrolf K; Becker A; Buttner MJ; Gross CA; Mascher T; Goesmann A; Fritz G. (2021) Expansion and re-classification of the extracytoplasmic function (ECF) σ factor family. Nucleic Acids Res, 49, 986–1005.
+Cheung J, Hendrickson WA. (2010) Sensor domains of two-component regulatory systems. Curr Opin Microbiol. 13:116-123.
+Chevalier S, Bouffartigues E, Bazire A, Tahrioui A, Duchesne R, Tortuel D, Maillot O, Clamens T, Orange N, Feuilloley M, Lesouhaitier O, Dufour A, Cornelis P (2019) Extracytoplasmic function sigma factors inPseudomonas aeruginosa. Biochim Biophys Acta. Gene regulatory mechanisms. 1862:706-721.
+Commichau FM, Heidemann JL, Ficner R, Stülke J (2018) Making and breaking of an essential poison: the cyclases and phosphodiesterases that produce and degrade the essential second messenger cyclic di-AMP in bacteria. J Bacteriol. 201:e00462-18.
+Cuthbertson L, Nodwell JR (2013) The TetR family of regulators. Microbiol Mol Biol Rev 77: 440-475.
+Devaux, L., Kaminski, P. A., Trieu-Cuot, P., Firon, A. (2018). Cyclic di-AMP in host-pathogen interactions. Curr Opin Microbiol. 41:21-28.
+Dickschat JS. (2010) Quorum sensing and bacterial biofilms. Nat Prod Rep. 27:343-369.
+Francis VI, Porter SL (2019) Multikinase networks: two-component signaling networks integrating multiple stimuli. Annu Rev Microbiol 73: 199-213.
+Galperin MY. (2010) Diversity of structure and function of response regulator output domains. Curr Opin Microbiol. 13:150-159.
+Gao R, Bouillet S, Stock AM. (2019) Structural basis of response regulator function. Annu Rev Microbiol 73:175-197.
+Gomelsky M. (2011) cAMP, c-di-GMP, c-di-AMP and now cGMP: bacteria use them all! Mol Microbiol. 79:562-565.
+Hengge R, Gründling A, Jenal U, Ryan R, Yildiz F (2016). Bacterial signal transduction by cyclic di-GMP and other nucleotide second messengers. J Bacteriol. 198:15-26.
+Irving SE, Choudhury NR, Corrigan RM (2021) The stringent response and physiological roles of (pp)pGpp in bacteria. Nat Rev Microbiol, 19:256-271.
+Jacob-Dubuisson F, Mechaly A, Betton JM, Antoine R (2018) Structural insights into the signalling mechanisms of two- component systems. Nature Microbiol 16: 585-593.
+Johnson BK, Abramovitch RB (2017) Small molecules that sabotage bacterial virulence. Trends Pharmacol Sci 38: 339-362.
+Konovalova A, Petters T, Søgaard-Andersen L. (2010) Extracellular biology ofMyxococcus xanthus. FEMS Microbiol Rev. 34:89-106.
+Krell T, Lacal J, Busch A, Silva-Jiménez H, Guazzaroni ME, Ramos JL. (2010) Bacterial sensor kinases: diversity in the recognition of environmental signals. Annu Rev Microbiol. 64:539-559.
+Kroos L (2017) Highly signal-responsive gene regulatory network governingMyxococcusdevelopment. Trends Genet. 33:315.
+López D, Vlamakis H, Kolter R. (2010) Biofilms. Cold Spring Harb Perspect Biol. 2:a000398.
+Marcos-Torres FJ, Moraleda-Muñoz A, Contreras-Moreno FJ, Muñoz-Dorado J, Pérez J (2022) Mechanisms of action of non-canonical ECF sigma factors. Int J Mol Sci. 23:3601.
+Moraleda-Muñoz A, Marcos-Torres FJ, Pérez J, Muñoz-Dorado J. (2019) Metal-responsive RNA polymerase extracytoplasmic function (ECF) sigma factors. Mol Microbiol. 111:385-398.
+Muñoz-Dorado J, Marcos-Torres FJ, García-Bravo E, Moraleda-Muñoz A, Pérez J. (2016) Myxobacteria: Moving, killing, feeding, and surviving together. Front Microbiol. 7:781.
+Muñoz-Dorado J, Moraleda-Muñoz A, Marcos-Torres FJ, Contreras-Moreno FJ, Martin-Cuadrado AB, Schrader JM, Higgs PI, Pérez J. (2019) Transcriptome dynamics of theMyxococcus xanthusmulticellular developmental program. eLife:e50374
+Nagarajan SN, Lenoir C, Grangeasse C (2022) Recent advances in bacterial signaling by serine/threonine protein kinases. Trends Microbiol. 30:553-566.
+Pérez J, Castañeda-García A, Jenke-Kodama H, Müller R, Muñoz-Dorado J. (2008) Eukaryotic-like protein kinases in the prokaryotes and the myxobacterial kinome. Proc Natl Acad Sci U S A. 105:15950-15955.
+Pérez J, Muñoz-Dorado J, Moraleda-Muñoz A. (2018) The complex global response to copper in the multicellular bacteriumMyxococcus xanthus. Metallomics. 10:876-886.
+Striednig B, Hilbi H (2022) Bacterial quorum sensing and phenotypic heterogeneity: how the collective shapes the individual. Trends Microbiol. 30:379-389.
+Stülke J, Krüger L (2020) Cyclic di-AMP signaling in bacteria. Annu Rev Microbiol. 74:159-179.
+Sun G, Yang M, Jiang L, Huang M (2021). Regulation of pro-σK activation: a key checkpoint inBacillus subtilissporulation. Environ Microbiol 23:2366-2373.
+Yoon SH, Waters CM. (2021) The ever-expanding world of bacterial cyclic oligonucleotide second messengers. Curr Opin Microbio. 60:96-103.

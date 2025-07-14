@@ -1,0 +1,15 @@
+R. J. Leveque,Finite Difference Methods for Ordinary and Partial Differential Equations,SIAM, Philadelphia, 2007.
+J. C. Strikwerda,Finite Difference Schemes and Partial Differential Equations, SIAM Philadelphia, 2004.
+H. Brezis,Functional Analysis, Sobolev Spaces and Partial Differential Equations, Springer, 2011.
+P. A. Raviart, J. M. Thomas,Introduction a l’Analyse Numerique des Equations aux Derivees Partielles, Masson, París, 1988.
+C. Johnson, Numerical solutions of partial differential equations by the finite element method, Cambridge University Press, 1987.
+A. Quarteroni,Numerical Models for Differential Problems, Series: MSA, Vol 2, 2009.
+The Octave Project Developers,GNU Octave (version 7.1.0),consultado en Mayo 2022.
+A. Delgado, J.J. Nieto, A. M. Robles, O. Sánchez,Métodos Numéricos básicos con Octave, Ed. Técnica AVICAM (Fleming), Granada 2016.
+F. Hecht,FreeFem,version 4.11, consultado en Mayo 2022.
+G. D. Smith.Numerical solution of partial differential equations: finite difference methods,Clarendon Press, Oxford, 1985.
+A. Ern, J. L. Guermond,Theory and Practice of Finite Elements, Springer-Verlag, New York, 2004.
+S. Brenner, R. Scott,The mathematical theory of Finite Element Methods, Springer New York, New York, 2008
+B. Lucquin, O. Pironneau,Introduction au calcul scientifique, Masson, París, 1996.
+A. Quarteroni, R. Sacco, F. Saleri,Numerical Mathematics, Text in Applied Mathematics, V. 37, Springer-Verlag, New-York, 2007.
+W. Gautschi,Numerical Analysis,Birkhäuser-Boston, 2012.

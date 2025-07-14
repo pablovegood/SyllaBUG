@@ -1,0 +1,25 @@
+Parte 1:
+A Comprehensive Introduction to Differential Geometry, Vol. 1 al V, Publish or Perish; 3rd edition (1999), Spivak, M.
+Algebraic Topology, http://www.math.cornell.edu/~hatcher/#ATI , 2002.; Hatcher, A.
+Algebraic Topology, McGraw-Hill, 1966.; Spanier, E.H.
+Algebraic topology-homotopy and homology, Springer-Verlag, 1975, Switzer R.M.
+Characteristic Classes, Princeton University Press, 1974.; Milnor, J.W. and Stasheff, J.D.
+Fiber Bundles, Springer, 1994.; Husemoller, D.
+Foundation of differentiable manifolds and Lie groups, Springer, 1983.; Warner, F.
+Introduction to Symplectic Topology, Oxford Science Publications, Oxford (1997).; McDuff, D. y Salamon, D.
+Lectures on Symplectic Geometry (2001), http://www.math.ist.utl.pt/~acannas/Books/lsg.pdf , Cannas da Silva, A.3
+Parte 2:
+A. Aledo, A. Romero and R.M. Rubio, The classical Calabi–Bernstein theorem revisited, J. Math. Anal. Appl., 431 (2015), 1172-1177.
+L.J. Alías, A. Romero and M. Sánchez, Uniqueness of complete spacelike hypersurfaces of constant mean curvature in Generalized Robertson-Walker spacetimes, Gen. Relativ. Gravit., 27 (1995), 71-84 .
+J.K. Beem, P.E. Ehrlich and K.L. Easley:Global Lorentzian Geometry. Second Edition, Pure and Appl. Math. 202, Marcel Dekker, 1996.
+M. Caballero, A. Romero and R.M. Rubio, New Calabi-Bernstein results for some elliptic nonlinear equations, Analysis and Applications 11, 1350002, 18 pp. (2013).
+S.Y. Cheng, S.T. Yau, Maximal spacelike hypersurfaces in the Lorentz-Minkowski space, Ann. Math., 104, 407-419 (1976).
+M.A. Javaloyes, M. Sánchez:An Introduction to Lorentzian Geometry and its Applications. Sao Carlos: Rima 2010, ISBN: 978-85-7656-180-4.
+K. Landsman.Foundations of General Relativity: From Einstein to Black Holes. Nijmegen: Radboud University Press (2021). Publicación en acceso abierto DOI:https://doi.org/10.54195/EFVF4478
+E. Minguzzi, M. Sánchez:The causal hierarchy of spacetimes. Recent developments in pseudo-Riemannian geometry. ESI Lect. Math. Phys., (Eur. Math. Soc. Publ. House, Zurich, 2008), H. Baum and D. Alekseevsky (eds.) p. 299 -358, ISBN=978-3-03719-051-7, arxiv: 0609119.
+B. O'Neill,Semi-Riemannian Geometry with applications to Relativity, Academic Press, 1983.
+H. Ringström,The Cauchy problem in general relativity.ESI Lectures in Mathematics and Physics.European Mathematical Society (EMS), Zürich,2009.
+M. Sánchez, On the geometry of Generalized Robertson-Walker spacetimes: geodesics, Gen. Rel. Grav., 30, 914-932 (1998).
+M Sánchez, On the geometry of Generalized Robertson-Walker spacetimes: curvature and Killing fields, J. Geom. Phys., 31 (1999), 1-15.
+A.N. Bernal, M. Sánchez:Un paseo por las geometrías del espaciotiempo en el centenario de la Relatividad General, La Gaceta de la RSME Vol. 18 (2015), Núm. 3, Págs. 521–542.
+A.N. Bernal, M. Sánchez:Un paseo por las geometrías del espaciotiempo en el centenario de la Relatividad General, La Gaceta de la RSME Vol. 18 (2015), Núm. 3, Págs. 521–542.

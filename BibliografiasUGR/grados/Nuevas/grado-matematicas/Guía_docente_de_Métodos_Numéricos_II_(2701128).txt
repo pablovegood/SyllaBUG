@@ -1,0 +1,11 @@
+BIBLIOGRAFÍA FUNDAMENTAL:
+Atkinson, K., (1989). An introduction to numerical analysis. Second edition. John Wiley and Sons.
+Burden, R.L. y Faires, J.D. (2011). Análisis Numérico. Novena edición, Cengage Learning Editores, México.
+Gasca, M. (1996). Cálculo Numérico. U.N.E.D.
+Gautschi, W. (1997). Numerical analysis, an Introduction. Birkhauser Boston.
+Kincaid, D. y Cheney, W. (1994). Análisis numérico. Las matemáticas del cálculo científico. Addison-Wesley Iberoamericana.
+Ramírez, V., Barrera, D., Pasadas, M. y González, P. Cálculo Numérico con Mathematica. Ariel, 2001
+BIBLIOGRAFÍA COMPLEMENTARIA:
+Lambert, J.D. (1993). Numerical methods for ordinary differential systems: the initial value problem, John Wiley.
+Stoer, J. & Bulirsch, R (2000). Introduction to numerical analysis, 3ª Ed. Springer-Verlag.
+Sauer, T. (2013). Análisis Numérico, Pearson, México.

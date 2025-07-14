@@ -1,0 +1,47 @@
+LEGISLACIÓN:
+DECISIÓN No 768/2008/CE sobre un marco común para la comercialización de los productos.  DOUE L 218/82-128 (13 agosto 2008).
+ORDEN de 14 de abril de 2000 por la que se adaptan al progreso técnico los anexos del Real Decreto 2043/1994 sobre inspección y verificación de Buenas Prácticas de Laboratorio. BOE nº 103 (29 abril 2000).
+ORDEN PRE/3249/2007 por la que se designa el órgano de evaluación y certificación de las buenas prácticas de laboratorio en ensayos no clínicos de sustancias químicas industriales. BOE nº 269 (9 noviembre 2007).
+REAL DECRETO 2200/1995 por el que aprueba el Reglamento de la infraestructura para la calidad y la seguridad industrial. BOE (versión consolidada 20 junio 2020).
+REAL DECRETO 1369/2000. por el que se modifica el Real Decreto 822/1993, de 28 de mayo, por el que se establecen los principios de buenas prácticas de laboratorio y su aplicación en la realización de estudios no clínicos sobre sustancias y productos químicos. B.O.E. nº 173 (20 julio 2000).
+REGLAMENTO (CE) 1907/2006 relativo al registro, la evaluación, la autorización y la restricción de las sustancias y preparados químicos (REACH). DOUE L 396/1-852 (30 diciembre 2006). (corrección errores: DOUE L 136/3-280 (29 mayo 2007).
+REGLAMENTO (CE) Nº 440/2008 por el que se establecen métodos de ensayo de acuerdo con el Reglamento REACH.  DOUE L 142/1-739 (31 mayo 2008).
+REGLAMENTO (CE) Nº 765/2008 por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos.  DOUE L 218/30-47 (13 agosto 2008).
+REGLAMENTO (CE) Nº 1272/2008 sobre clasificación, etiquetado y envasado de sustancias y mezclas químicas.  DOUE L 353/1- 1355 (31 diciembre 2008).
+DOCUMENTOS TÉCNICOS (NORMAS, GUÍAS, …)
+ASTM E1601-12 (2020), Standard Practice for Conducting an Interlaboratory Study to Evaluate the Performance of an Analytical Method. American Society for Testing and Materials.
+ASTM E2554-07 (2015), Standard Practice for Estimating and Monitoring the Uncertainty of Test Results of a Test Method in a Single Laboratory Using a Control Sample Program. American Society for Testing and Materials.
+ASTM E2857-11 (2021), Standard Guide for Validating Analytical Methods. American Society for Testing and Materials.
+BIMP JCGM 200 (2008), Vocabulario Internacional de Metrología. Conceptos Fundamentales y Generales, y Términos Asociados (VIM). Bureau International de Poids and Mesures (equivale a la norma UNE-ISO GUÍA 99 IN:2012).
+CEN/TR 10345 (2013), Guideline for Statistical Data Treatment of Inter-laboratory Tests for Validation of Analytical Methods. European Committee for Standardization.
+ENV/MC/CHEM(98)17 (1998), Principios de Buenas Prácticas de Laboratorio de la OCDE. Organización para la Cooperación y el Desarrollo Económico (OCDE).
+ENV/JM/MONO(99)20 (1999), Aseguramiento de la Calidad y Buenas Prácticas de Laboratorio. Organización para la Cooperación y el Desarrollo Económico (OCDE).
+EURACHEM Guide (1998), The Fitness for Purpose of Analytical Methods – A Laboratory Guide to Method Validation and Related Topics. Eurachem: A Focus por Analytical Chemistry in Europe.
+EURACHEM/CITAC Guide (2003), Traceability in Chemical Measurement – A Guide to Achieving Comparable Results in Chemical Measurement. Eurachem: A Focus por Analytical Chemistry in Europe.
+EURACHEM/CITAC Guide (2007), Use of Uncertainty Information in Compliance Assessment. Eurachem: A Focus por Analytical Chemistry in Europe.
+EURACHEM/CITAC Guide CG-4 (2012), Quantifying Uncertainty in Analytical Measurement (3rd ed). Eurachem: A Focus por Analytical Chemistry in Europe.
+FDA (2012), Guidelines for the Validation of Chemical Methods for the FDA Foods Program, ver 1.0. The U.S. Food and Drug Administration.
+ISO/IEC 17025 (2017), Requisitos Generales para la Competencia de Laboratorios de Ensayo y Calibración. International Organization of Standardization.
+ISO/TS 13530 (2009), Water quality – Guidance on Analytical Quality Control for Chemical and Physicochemical Water Analysis. International Organization of Standardization.
+ISO 21748 (2017), Guidance for the Use of Repeatability, Reproducibility and Trueness Estimates in Measurement Uncertainty Estimation. International Organization of Standardization.
+ISO Guide 35 (2017), Reference Materials – General and Statistical Principles for Certification. International Organization of Standardization.
+IUPAC Technical Report (1995), Harmonized Guidelines for Internal Quality Control in Analytical Chemistry Laboratories. International Union of Pure and Applied Chemistry.
+IUPAC Technical Report (2002), Harmonized Guidelines for Single Laboratory Validation of Methods of Analysis. International Union of Pure and Applied Chemistry.
+IUPAC Technical Report (2011), Metrological Traceability of Measurement Results in Chemistry: Concepts and Implementation. International Union of Pure and Applied Chemistry.
+LGC/VAM/1998/088 (2000), Protocol for Uncertainty Evaluation from Validation Data (ver 5.1). LGC.
+LGC/VAM/Traceability Guide (2003), Meeting the Traceability Requirements of ISO 17025 – An Analyst's Guide (2nd ed). LGC.
+UNE 82009 (Partes 1-6) (1998-1999), Exactitud (Veracidad y Precisión) de Resultados y Métodos de Medición. Asociación Española de Normalización y Certificación (AENOR).
+UNE-EN ISO 17043 (2010), Evaluación de la Conformidad – Requisitos Generales para los Ensayos de Aptitud. Asociación Española de Normalización y Certificación (AENOR).
+BIBLIOGRAFÍA FUNDAMENTAL:
+Fernández García, R. (2007), REACH. La Nueva Normativa de la UE en Materia de Sustancias y Preparados Químicos.  Club Universitario.
+Huber, L. (2002), Good Laboratory Practice and Current Good Manufacturing Practice – A Primer.  Agilent Technologies.
+Huber, L. (2010), Validation of Analytical Methods – A Primer.  Agilent Technologies.
+Revoil, G. (2003), Calidad en los Laboratorios de Calibraciones y Ensayos. Mejora de Procesos.  Asociación Española de Normalización y Certificación (AENOR).
+BIBLIOGRAFÍA COMPLEMENTARIA:
+Ellison, S.L.R.; Barwick, V.J.; Duguid Farrant, T.J. (2009), Practical Statistics for the Analytical Scientist – A Bench Guide (2nd ed), The Royal Society of Chemistry.
+Funk, W.; Dammann, V.; Donnevert, G. (2007), Quality Assurance in Analytical Chemistry, Wiley-VCH Verlag.
+Hibbert, D.B. (2007), Quality Assurance for the Analytical Chemistry Laboratory, Oxford University Press.
+Konieczka, P.; Namiesnik, J. (2009), Quality Assurance and Quality Control in the Analytical Chemical Laboratory. A Practical Approach. CRC Press.
+Seiler, J.P. (2005), Good Laboratory Practice – The Why and the How. Springer.
+Thompson, M.; Lowthian, P.J. (2011), Notes on Statistics and Data Quality for Analytical Chemistry. Imperial College Press.
+Weinberg, S. (2007), Good Laboratory Practice Regulations (4th ed). Informa Healthcare.

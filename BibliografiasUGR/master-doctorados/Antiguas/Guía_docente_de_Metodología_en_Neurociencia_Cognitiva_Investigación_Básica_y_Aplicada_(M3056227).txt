@@ -1,0 +1,11 @@
+Block 1
+Mathôt, S., Schreij , D., & Theeuwes, J. (2012). OpenSesame: An open-source, graphical experiment builder for the social sciences.Behavior Research Methods, 44,314-324.
+Schneider, W., Eschman, A., & Zuccolotto, Z. (2002).E-Prime user’s guide (Version 1.1). Psychology Software Tools
+Block 2
+Cumming, G. (2012).Understanding the new statistics: Effect sizes, confidence intervals, and meta-analysis. Routledge.https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991006083639704990
+Field, A. (2016).An adventure in statistics.SAGE. https://granatensis.ugr.es/permalink/34CBUA_UGR/1egp27c/alma991009308549704990
+Kurt, W. (2019).Bayesian statistics the fun way. No Starch Press, Inc.https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014106019104990
+Dienes, Z. (2008).Understanding psychology as a science: An introduction to scientific and statistical inference. Macmillan International Higher Education.
+Field, A., Miles, J., & Field, Z. (2012).Discovering statistics using R.SAGE.
+Open Science Collaboration (2015).Estimating the reproducibility of psychological science.Science, 349, aac4716.
+Pownall, M. et al. (2021). Navigating open science as early career feminist researchers.Psychology of Women Quarterly,45, 526-539.

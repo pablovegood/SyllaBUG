@@ -1,0 +1,11 @@
+G. A. Baker and P. Graves-Morris.Padé Approximants, vol. I y II. Addison-Wesley. 1981.
+P. J. Davis.Interpolation and Approximation. Dover. Corrected Dover reprint 2014. 2014.
+G. E. Farin.Curves and surfaces for computer aided geometric design. A practical guide. Elsevier. 3rd Ed. 1993.
+G. E. Fasshauer.Meshfree approximation methods with MATLAB, World Scientific, 2007.
+P. Flach.Machine Learning: The Art and Science of Algorithms That Make Sense of Data. Cambridge University Press, 2012.
+W. Gautschi.Orthogonal Polynomials. Computation and Approximation. Oxford Science Publications. 2014.
+V. E. Ismailov.Ridge Functions and Applications in Neural Networks. AMS, Providence, RI, 2021.
+D. Kinkaid and W. Cheney.Análisis Numérico. Addison-Wesley Iberoamericana. 1994.
+E. M. Nikishin and V. N. Sorokin.Rational approximations and orthogonality. AMS. 1991.
+A. Quarteroni, F. Saler and P. Gervasio.Scientific computing with Matlab and Octave. Springer. 2014.
+L. N. Trefethen.Approximation theory and approximation practice. Extended edition. SIAM, Philadelphia, 2020.

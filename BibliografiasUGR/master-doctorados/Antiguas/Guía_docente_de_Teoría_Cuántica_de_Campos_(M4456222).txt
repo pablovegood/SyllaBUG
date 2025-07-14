@@ -1,0 +1,9 @@
+M.E. Peskin and D.V. Schroeder,An Introduction to Quantum Field Theory, Addison-Wesley (2010).
+M.D. Schwartz,Quantum Field Theory and the Standard Model,Cambridge University Press (2014).
+S. Weinberg,The Quantum Theory of Fields, vol. I y II, Cambridge University Press (1995).
+S. Pokorski,Gauge Field Theories, Cambridge University Press (1987).
+T. Banks,Modern Quantum Field Theory, Cambridge University Press (2008).
+T.P. Cheng and L.F. Li,Gauge theory of elementary particle physics, Oxford University Press (1984).
+C. Itzykson and J.B. Zuber,Quantum Field Theory, McGraw-Hill (1980).
+Aitchison and Hey,Gauge theories in particle physics,Taylor and Francis (2003).
+Srednicki,Quantum field theory,Cambridge University Press (2007).

@@ -1,0 +1,29 @@
+Libros:
+Albanna, M., & Holmes IV, J. H. (2016). Skin tissue engineering and regenerative medicine. Academic Press.
+Brown, R. Extreme Tissue Engineering, Concepts and Strategies for Tissue Fabrication. Wiley-Blackwell, London. 2013.
+Campos A. Cuerpo, histología y medicina. Discurso de ingreso. Real Academia Nacional de Medicina. Madrid. 2004.
+Lanza, R., Langer, R., Vacanti, J. P., & Atala, A. (Eds.). (2020). Principles of tissue engineering. Academic press.
+Phillips, J, Hercher, D., Hausner, T. (2021) Peripheral Nerve Tissue Engineering and Regeneration. Reference Series in Biomedical Engineering. Springer Cham.
+Santra, T. S., & Mohan, L. (Eds.). (2021). Nanomaterials and Their Biomedical Applications (Vol. 16). Springer Nature.
+Van Blitterswijk, C. de Boer, J. (2015) Tissue Engineering, Second Edition. Academic press, Elsevier.
+Vunjak-Novakovic, G., & Freshney, R. I. (Eds.). (2006). Culture of cells for tissue engineering (Vol. 7). John Wiley & Sons.
+Selección de artículos originales y de revisiones:
+Alaminos M, Sánchez-Quevedo MC, Muñoz-Avila JI, Serrano D, Medialdea S, Carreras I, Campos A. Construction of a complete rabbit cornea substitute using a fibrin-agarose scaffold. Invest. Ophthalmol. Vis. Sci. 2006. 47(8):3311-3317.
+Bonhome-Espinosa AB, Campos F, Durand-Herrera D, Sánchez-López JD, Schaub S, Durán JDG, Lopez-Lopez MT, Carriel V. In vitro characterization of a novel magnetic fibrin-agarose hydrogel for cartilage tissue engineering. J Mech Behav Biomed Mater. 2020. 104:103619.
+Campos F, Bonhome-Espinosa AB, Chato-Astrain J, Sánchez-Porras D, García-García ÓD, Carmona R, López-López MT, Alaminos M, Carriel V, Rodriguez IA. Evaluation of Fibrin-Agarose Tissue-Like Hydrogels Biocompatibility for Tissue Engineering Applications. Front Bioeng Biotechnol. 2020. 16;8:596.
+Campos F, Bonhome-Espinosa AB, Vizcaino G, Rodriguez IA, Duran-Herrera D, López- López MT, Sánchez-Montesinos I, Alaminos M, Sánchez-Quevedo MC, Carriel V. Generation of genipin cross-linked fibrin-agarose hydrogel tissue-like models for tissueengineering applications. Biomed Mater. 2018.13(2):025021.
+Campos, A. La célula y el tejido como medicamento. De la médula ósea al sistema nervioso. Discurso de apertura. Universidad de Granada. 2013.
+Carriel V, Alaminos M, Garzón I, Campos A, Cornelissen M. Tissue engineering of the peripheral nervous system. Expert Rev Neurother. 2014 Mar;14(3):301-18.
+Carriel V, Garzón I, Jiménez JM, Oliveira AC, Arias-Santiago S, Campos A, Sánchez- Quevedo MC, Alaminos M. Epithelial and stromal developmental patterns in a novel substitute of the human skin generated with fibrin-agarose biomaterials. Cells Tissues Organs 2012.196(1):1-12.
+Carriel V, Vizcaíno-López G, Chato-Astrain J, Durand-Herrera D, Alaminos M, Campos A, Sánchez-Montesinos I, Campos F. Scleral surgical repair through the use of nanostructured fibrin/agarose-based films in rabbits. Exp Eye Res. 2019. 186:107717.
+Chato-Astrain J, Campos F, Roda O, Miralles E, Durand-Herrera D, Sáez-Moreno JA, García-García S, Alaminos M, Campos A, Carriel V. In vivo Evaluation of Nanostructured Fibrin-Agarose Hydrogels With Mesenchymal Stem Cells for Peripheral Nerve Repair. Front Cell Neurosci. 2018. 18;12:501.
+Chato-Astrain J, Philips C, Campos F, Durand-Herrera D, García-García OD, Roosens A, Alaminos M, Campos A, Carriel V. Detergent-based decellularized peripheral nerve allografts: An in vivo preclinical study in the rat sciatic nerve injury model. J Tissue Eng Regen Med. 2020. 14(6):789-806.
+Fisher, JF, Mikos AG, Bronzino JD, Peterson DR. Tissue Engineering: Principles and Practices. CRC Press. New York. 2017.
+García-García ÓD, El Soury M, González-Quevedo D, Sánchez-Porras D, Chato-Astrain J, Campos F, Carriel V. Histological, Biomechanical, and Biological Properties of Genipin- Crosslinked Decellularized Peripheral Nerves. Int J Mol Sci. 2021 Jan 12;22(2):674.
+Liceras-Liceras E, Garzón I, España-López A, Oliveira AC, García-Gómez M, Martín- Piedra MÁ, Roda O, Alba-Tercedor J, Alaminos M, Fernández-Valadés R. Generation of a bioengineered autologous bone substitute for palate repair: an in vivo study in laboratory animals. J Tissue Eng Regen Med. 2017. 11(6):1907-1914.
+Philips C, Cornelissen M, Carriel V. Evaluation methods as quality control in the generation of decellularized peripheral nerve allografts. J Neural Eng. 2018
+Apr;15(2):021003. doi: 10.1088/1741-2552/aaa21a.
+Rico-Sánchez L, Garzón I, González-Andrades M, Ruíz-García A, Punzano M, Lizana- Moreno A, Muñoz-Ávila JI, Sánchez-Quevedo MDC, Martínez-Atienza J, Lopez-Navas L, Sanchez-Pernaute R, Oruezabal RI, Medialdea S, Gonzalez-Gallardo MDC, Carmona G, Sanbonmatsu-Gámez S, Perez M, Jimenez P, Cuende N, Campos A, Alaminos M. Successful development and clinical translation of a novel anterior lamellar artificial cornea. J Tissue Eng Regen Med. 2019 Dec;13(12):2142-2154. doi: 10.1002/term.2951. Epub 2019 Oct 25.
+Sánchez-Porras D, Durand-Herrera D, Paes AB, Chato-Astrain J, Verplancke R, Vanfleteren J, Sánchez-López JD, García-García ÓD, Campos F, Carriel V. Ex Vivo Generation and Characterization of Human Hyaline and Elastic Cartilaginous Microtissues for Tissue Engineering Applications. Biomedicines. 2021 Mar 12;9(3):292
+Santisteban-Espejo A, Campos F, Chato-Astrain J, Durand-Herrera D, García-García O, Campos A, Martin-Piedra MA, Moral-Munoz JA. Identification of Cognitive and Social Framework of Tissue Engineering by Science Mapping Analysis.Tissue Eng Part C Methods. 2019 25(1):37-48.
+Santisteban-Espejo A, Campos F, Martin-Piedra L, Durand-Herrera D, Moral-Munoz JA, Campos A, Martin-Piedra MA. Global Tissue Engineering Trends: A Scientometric and Evolutive Study. Tissue Eng Part A. 2018 24(19-20):1504-1517.

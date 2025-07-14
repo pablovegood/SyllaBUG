@@ -1,0 +1,11 @@
+Olsson, T.Arduino wearables. Apress. 2012.
+Faludi, R.Building wireless sensor networks, O'Reilly. 2011.
+Kooijman, M. .Building wireless sensor networks using Arduino : leverage the powerful Arduino and XBee platforms to monitor and control your surroundings. Packt Publishing. 2015.
+Karvinen, T., & Karvinen, K.Make a mind-controlled Arduino robot. Sebastopol, CA, O'Reilly. 2012.
+Igoe, T.Making things talk. Beijing, O'Reilly. Tercera edición. 2017.
+Barfield, W., Caudell, T, (Eds.).Fundamentals of Wearable Computers and Augmented Reality. Segunda edición. CRC Press, 2016.
+Enderle, J., Bronzino, J., Blanchard, S.Introduction to Biomedical Engineering. Elsevier, 2005.
+Akay, M.Handbook of Neural Engineering. Wiley, 2007.
+Hen, B.Neural Engineering. Kluwer Academic Press, Segunda edición. 2013.
+Eliasmith, C, Anderson, C.Neural Engineering, MIT Press, 2004.
+Wallisch, P. et al.Matlab for Neuroscientists. Associated Press, 2014.

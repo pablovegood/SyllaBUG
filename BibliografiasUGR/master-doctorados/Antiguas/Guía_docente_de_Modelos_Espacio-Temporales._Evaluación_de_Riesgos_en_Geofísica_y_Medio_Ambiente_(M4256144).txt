@@ -1,0 +1,20 @@
+1. Chilès, J.P., Delfiner, P. (1999) Geostatistics: Modeling Spatial Uncertainty. Wiley.
+2. Christakos G. (1992) Random Field Models in Earth Sciences. Academic Press.
+3. Christakos G. (2000) Modern Spatiotemporal Geostatistics. Oxford University Press.
+4. Coles, S. (2001) An Introduction to Statistical Modeling of Extreme Values. Springer.
+5. Cressie, N. (1993, 2ª ed.) Statistics for Spatial Data. Wiley.
+6. Cressie, N., Wikle, C.L. (2011) Statistics for Spatio-Temporal Data. Wiley.
+7. Diggle, P.J., Ribeiro, P.J. (2007). Model-Based Geostatistics. Springer.
+8. Finkenstädt, B., Held, L., Isham, V. (eds.) (2007) Statistical Methods for Spatio-Temporal Systems. Chapman & Hall/CRC.
+9. Hristopulos, D.T. (2020) Random Fields for Spatial Data Modeling. A Primer for Scientists and Engineers. Springer.
+10. Kent, J.T., Mardia, K.V. (2022) Spatial Analysis. Wiley
+11. Le, N.D., Zidek, J.V. (2006) Statistical Analysis of Environmental Space-Time Processes. Springer.
+12. Ripley, B. (2004) Spatial Statistics. Wiley.
+13. Sherman, M. (2010) Spatial Statistics and Spatio-Temporal Data: Covariance Functions and Directional Properties. Wiley.
+14. Stein, M.L. (1999) Interpolation of Spatial Data. Some Theory for Kriging. Springer.
+15. Webster, R. (2004) Geostatistics for Environmental Scientists. Wiley.
+16. Wikle, C.K., Zammit-Mangion, A., Cressie, N. (2019) Spatio-Temporal Statistics with R. Chapman & Hall/CRC.
+Bivand, R.S., Pebesma, E.J., Gómez-Rubio, V. (2008) Applied Spatial Data Analysis with R. Springer.
+Mateu, J., Müller, W.G. (eds.) (2013) Spatio-Temporal Design. Advances in Effiecient Data Acquisition. Wiley.
+Wackernagel, H. (1995) Multivariate Geostatistics. An Introduction with Applications. Springer.
+Yaglom, A.M. (1987) Correlation Theory of Stationary and Related Random Functions (I, II). Springer-Verlag.

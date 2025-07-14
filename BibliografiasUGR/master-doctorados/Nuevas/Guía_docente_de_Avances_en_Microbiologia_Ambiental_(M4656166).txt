@@ -1,0 +1,21 @@
+Lopez-Vazquez CM, Brdjanovic D, Volcke EIP, van Loosdrecht MCM, Wu D, Chen G, editores (2023). Biological wastewater treatment. Examples and exercises. IWA Publishing, London, UK.
+López-Vázquez CM, Henze M, editores (2017). Tratamiento biológico de aguas residuales: principios, modelación y diseño. IWA Publishing. London, UK.
+Madigan MT, Martinko JM, Bender K, Buckley D, Stahl D (2015) Brock. Biología de los Microorganismos (14 ed).. Pearson. Prentice Hall.
+Pepper IL, Gerba CP, Gentry T (2014) Environmental microbiology: A laboratory manual (3rd ed.) Elsevier.
+Seviour RJ, Nielsen PH (2010) Microbial ecology of activated sludge. IWA Publishing.
+Spencer JFT, Ragout de Spencer AL (eds.) (2004) Environmental Microbiology. Methods and Protocols. Humana Press.
+van Loosdrecht MCM, Nielsen PH, Lopez-Vazquez CM (2016) Experimental methods in wastewater treatment. IWA publishinghttps://experimentalmethods.org/
+Yates MV, Nakatsu CH, Miller RV, Pillai SD (eds.) (2016) Manual of Environmental Microbiology (4th ed.). ASM-Wiley.
+Aw TG, Rose JB (2012) Detection of pathogens in water: from phylochips to qPCR to pyrosequencing. Curr Opin Biotechnol 23:422-30.
+Azevedo NF, Almeida C (Eds.) (2021) Fluorescence in-situ hybridization (FISH) for microbial cells - methods and concepts. Springer Protocols (libro).
+Gawad C, Koh W, Quake SR (2016) Single-cell genome sequencing: current state of the science. Nat Rev Genet 17:175-188.
+Gerardi MH (2006) Wastewater Bacteria. Wiley-Interscience.
+Gilbride KA, Lee DY, Beaudette LA (2006) Molecular techniques in wastewater: Understanding microbial communities, detecting pathogens, and real-time process control. J Microbiol Methods 66:1-20.
+Goodwin S, McPherson JD, McCombie WR (2016) Coming of age: ten years of next-generation sequencing technologies. Nat Rev Genet 17:333-351
+Hong PY, Mantilla-Calderon D, Wang C (2020) Metagenomics as a tool to monitor reclaimed- water quality. Applied and Environmental Microbiology 86:e00724-20.
+Kim J, Lim J, Lee C (2013) Quantitative real-time PCR approaches for microbial community studies in wastewater treatment systems: applications and considerations. Biotechnol Adv 31:1358-1373.
+Kozińska A, Seweryn P, Sitkiewicz I (2019) A crash course in sequencing for a microbiologist. J Appl Genet 60:103-111.
+Metzker M (2010) Sequencing technologies-the next generation. Nature Rev Genetics 11:31-46
+Nielsen PH, Daims H, Lemmer H (2009) FISH Handbook for Biological Wastewater Treatment: Identification and Quantification of Microorganisms in Activated Sludge and Biofilms by FISH. IWA Publishing.
+Nikolaki S, Tsiamis G (2013) Microbial diversity in the era of omic technologies. Biomed Res Int. 2013; 2013: 958719.
+Smith CJ, Osborn AM (2009) Advantages and limitations of quantitative PCR (Q-PCR)-based approaches in microbial ecology. FEMS Microbiol Ecol 67:6-20.

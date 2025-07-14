@@ -1,0 +1,13 @@
+Agresti, A. (1996).An Introduction to Categorical Data Analysis. Wiley.
+Aguilera del Pino, A.M. (2001).Tablas de Contingencia Bidimensionales. Colección Cuadernos de Estadística (15). La muralla- Hespérides.
+Aguilera del Pino, A.M. (2005).Modelización de Tablas de Contingencia Multidimensionales. Colección Cuadernos de Estadística (33). La muralla- Hespérides.
+Ruiz-Maya, L., Martín Pliego, F.J., Montero, J.M. y Uriz Tomé, P. (1995).Análisis Estadístico de Encuestas: Datos Cualitativos. Ed. AC.
+Abad Montes, F. y Vargas Jiménez, M. (2002).Análisis de Datos para las Ciencias Sociales con SPSS. Urbano.
+Agresti, A. (1984).Analysis of Ordinal Categorical Data. Wiley.
+Agresti, A. (1990).Categorical Data Analysis. Wiley.
+Everitt, B.S. (1992).The Analysis of Contingency Tables. Chapman-Hall.
+Kateri, M. (2014).Contingency Table Analysis. Methods and Implementation Using R. Ed. Birkhaüser
+Thompson, L. (2007).S-PLUS (and R) Manual to Accompany Agresti’s (2002) Categorical Data Analysis (2ª edition) (https://home.comcast.net/~lthompson221/Splusdiscrete2.pdf).
+Pérez, C. (2008).Técnicas Estadísticas con SPSS. Pearson Educación.
+Power, D.A. y Xie, Y. (2000).Statistical Methods for Categorical Data Análisis. Academia Press.
+Selvin, S. (1996).Statistical Analysis of Epidemiological Data. Oxford University Press.

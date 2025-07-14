@@ -1,0 +1,17 @@
+D.G. Zill, M.R. Cullen, Ecuaciones diferenciales con problemas de valores en la frontera, Cengage Learning, 2009
+M. Abramowitz, I. A. Stegun, Handbook of mathematical functions, Dover, 1975.
+L. C. Andrews, Special functions of mathematics for engineers, Oxford Science Publications, 1998.
+W.E. Boyce, R.C. DiPrima, Ecuaciones diferenciales y problemas con valores en la frontera. Limusa Willey, 2010.
+L. C. Evans, Partial Differential Equations, AMS, 2002.
+V. Nikiforov, V. Uvarov, Special functions of mathematical physics(Birkhäuser Verlag, 1988).
+I. Peral, Primer curso de Ecuaciones en derivadas parciales. Addison-Wesley, Wilmington, 1995.
+C. Henry Edwards, David E. Penney, David T. Calvis, Differential Equations and BoundaryValue Problems: Computing and Modeling, Pearson Education 2015.
+C. Henry Edwards, David E. Penney, David Calvis, Differential Equations and LinearAlgebra, Pearson 2017.
+E. Rainville, Intermediate Differential Equations, MacMillan, 1964.
+G.F. Simmons, Ecuaciones diferenciales con aplicaciones y notas históricas. McGraw Hill, 1993.
+W. A. Strauss, Partial differential equations, an introduction, New York, John Wiley and Sons, 2008.
+F. Brauer y Nohel,Ordinary Differential Equations with Applications, Harper & Row, 1989.
+C. Carlson,Special Functions of Applied Mathematics, Academic Press.
+R. K. Nagle, E. B. Saff y A.D. Snider,Ecuaciones diferenciales y problemas con valores en la frontera, Pearson Educación, 2005.
+F.W. Olver, Asymptotics and Special functions, Academic Press, 1974.
+R.D. Richtmyer,Principles of Advanced Mathematical Physics, vol. 1, Springer-Verlag, 1978.

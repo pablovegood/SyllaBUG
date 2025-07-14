@@ -1,0 +1,13 @@
+Asmussen, S  and   Glynn, P. W. (2007). Stochastic Simulation: Algorithms and Analysis. Springer Science+Business Media, LLC.
+Balakrishnan,  N.,  Melas,  V. B.  y Ermakov, S. (2000).   Advances in Stochastic Simulation Methods. Springer Science+Business Media, LLC.
+Binder, K., Kinder, K. y Heermann, D.W. (2002). Monte Carlo Simulation in Statistical Physics: An Introduction. Springer.
+Cao Abad, R. (2002). Introducción a la Simulación y a la Teoría de Colas.  Netbiblio, S.L. A Coruña.
+Ripley, B.D. (2006). Stochastic Simulation. John Wiley.
+Ross, S.M. (1990). A Course in Simulation. Macmillan.
+Rubinstein, R.Y. y Melamed, B. (1998). Modern Simulation and Modeling. Wiley
+Shedler, G.S. (1993). Regenerative Stochastic Simulation. Academic Press
+Evans, M.J.  y Swartz, T. (2000).  Approximating Integrals via Monte Carlo and Deterministic Methods. University Press.
+Gentle, J.E. (2003). Random Number Generation and Monte Carlo methods. Springer.
+Koralov, L. y Sinai, Y.G. (2010). Theory of Probability and Random Processes. Springer
+Kay, S.M. (2019). Intuitive Probability and Random Processes using Matlab.  Springer
+Landriscina, F. (2013). Simulation and Learning. Springer

@@ -1,0 +1,80 @@
+Bloque 1
+(Q)SAR Studies to Design New Human Choline Kinase Inhibitors as Antiproliferative Drugs. J. M. Campos, R. M. Sánchez-Martín, A. Conejo-García, A. Entrena, M. A. Gallo, A. Espinosa.Curr. Med. Chem.2006,13, 1231-1248.
+QSAR-derived choline kinase inhibitors: How rational can antiproliferative drug design be? J. Campos, M. C. Núñez, A. Conejo-García, R. M. Sánchez-Martín, R. Hernández-Alcoceba, A. Rodríguez-González, J. C. Lacal, M. A. Gallo, A. Espinosa.Curr. Med. Chem.2003,10, 1095-1112.
+La inhibición del enzima colina quinasa como una nueva terapia anti-proliferativa,in“Avances en oncología básica y aplicada”. J. Campos, M. C. Núñez, Juan J. Díaz, Miguel A. Gallo, Antonio Espinosa. Universidad de Granada, 561-582, 2006, ISBN: 84-338-3907-1.
+"Benzo-fused seven- and six-membered derivatives linked to pyrimidines or purines induce apoptosis of human metastatic breast cancer MCF-7 cellsin vitro"in“Breast Cancer- Current and Alternative Therapeutic Modalities".(Editors: Esra Gunduz and Mehmet Gunduz). Joaquín M. Campos, María C. Núñez, Ana Conejo-García, Olga Cruz-López. InTech. Open Access Publisher. ISBN: 978-953-307-776-5,2011.
+Design, Synthesis and Anticancer Activity against the MCF-7 Cell Line of Benzo-Fused 1,4-Dihetero Seven- and Six-Membered Tethered Pyrimidines and Purines.M. C. Núñez, M. Díaz-Gavilán, A. Conejo-García, O. Cruz-López, M. A. Gallo, A. Espinosa, J. M. Campos.Curr. Med. Chem.2008,15, 2614-2631.
+Olga Cruz-López, María C. Núñez, Ana Conejo-García, María Kimatrai, Joaquín M. Campos. Syntheses of 2,3-Dihydro-1,4-Benzodioxins and Bioisosteres as Structural Motifs for Biologically Active Compounds.Curr. Org. Chem.2011,15, 869-887
+Olga Cruz-López, Ana Conejo-García, María C. Núñez, María Kimatrai, M. Eugenia García-Rubiño, Fátima Morales, Verónica Gómez-Pérez, Joaquín M. Campos. Novel Substituted Quinazolines for Potent EGFR Tyrosine Kinase Inhibitors.Curr. Med.Chem.2011,18, 943-963.
+M. C. Núñez, M. E. García-Rubiño, A. Conejo-García, O. Cruz-López, M. Kimatrai, M. A. Gallo, A. Espinosa, J. M. Campos. Homochiral Drugs: a Demanding Tendency of the Pharmaceutical Industry.Curr. Med.Chem.2009,16, 2064-2074.
+Bloque 2 y 3
+1.  Syed YY, McKeage K . Aflibercept: A Review in Metastatic Colorectal Cancer. Drugs. 2015 Aug;75(12):1435-45
+2.  Kümler I1, Tuxen MK, Nielsen DL. A systematic review of dual targeting in HER2-positive breast cancer. Cancer Treat Rev. 2014 Mar;40(2):259-70.
+3.  Feng QY, Wei Y, Chen JW, Chang WJ, Ye LC, Zhu DX, Xu JM. Anti-EGFR and anti-VEGF agents: important targeted therapies of colorectal liver metastases. World J Gastroenterol. 2014 Apr 21;20(15):4263-75
+4.  Heinemann V, von Weikersthal LF, Decker T, Kiani A, Vehling-Kaiser U, Al-Batran SE, Heintges T, Lerchenmüller C, Kahl C, Seipelt G, Kullmann F, Stauch M, Scheithauer W, Hielscher J, Scholz M, Müller S, Link H, Niederle N, Rost A, Höffkes HG, Moehler M, Lindig RU, Modest DP, Rossius L, Kirchner T, Jung A, Stintzing S.. FOLFIRI plus cetuximab versus FOLFIRI plus bevacizumab as first-line treatment for patients with metastatic colorectal cancer (FIRE-3): a randomised, open-label, phase 3 trial.Lancet Oncol. 2014 Sep;15(10):1065-75
+5.  Sotelo MJ, García-Paredes B, Aguado C, Sastre J, Díaz-Rubio E. Role of cetuximab in first-line treatment of metastatic colorectal cancer.  World J Gastroenterol. 2014 Apr 21;20(15):4208-19.
+6.  Schwartzberg LS, Rivera F, Karthaus M, Fasola G, Canon JL, Hecht JR, Yu H, Oliner KS, Go WY. PEAK: a randomized, multicenter phase II study of panitumumab plus modified fluorouracil, leucovorin, and oxaliplatin (mFOLFOX6) or bevacizumab plus mFOLFOX6 in patients with previously untreated, unresectable, wild-type KRAS exon 2 metastatic colorectal cancer.J Clin Oncol. 2014 Jul 20;32(21):2240-7
+7.  Douillard JY, Siena S, Cassidy J, Tabernero J, Burkes R, Barugel M, Humblet Y, Bodoky G, Cunningham D, Jassem J, Rivera F, Kocákova I, Ruff P, Błasińska-Morawiec M, Smakal M, Canon JL, Rother M, Oliner KS, Tian Y, Xu F, Sidhu R. Final results from PRIME: randomized phase III study of panitumumab with FOLFOX4 for first-line treatment of metastatic colorectal cancer. Ann Oncol. 2014 Jul;25(7):1346-55
+8.  Motzer RJ, Barrios CH, Kim TM, Falcon S, Cosgriff T, Harker WG, Srimuninnimit V, Pittman K, Sabbatini R, Rha SY, Flaig TW, Page R, Bavbek S, Beck JT, Patel P, Cheung FY, Yadav S, Schiff EM, Wang X, Niolat J, Sellami D, Anak O, Knox JJ. Phase II randomized trial comparing sequential first-line everolimus and second-line sunitinib versus first-line sunitinib and second-line everolimus in patients with metastatic renal cell carcinoma. J Clin Oncol. 2014 Sep 1;32(25):2765-72
+9.  Soria JC, Felip E, Cobo M, Lu S, Syrigos K, Lee KH, Göker E, Georgoulias V, Li W, Isla D, Guclu SZ, Morabito A, Min YJ, Ardizzoni A, Gadgeel SM, Wang B, Chand VK, Goss GD; LUX-Lung 8 Investigators. Afatinib versus erlotinib as second-line treatment of patients with advanced squamous cell carcinoma of the lung (LUX-Lung 8): an open-label randomised controlled phase 3 trial. Lancet Oncol. 2015 Aug
+10.            Bonner JA, Harari PM, Giralt J, Cohen RB, Jones CU, Sur RK, Raben D, Baselga J, Spencer SA, Zhu J, et al: Radiotherapy plus cetuximab for locoregionally advanced head and neck cancer: 5-year survival data from a phase 3 randomised trial, and relation between cetuximab-induced rash and survival. Lancet Oncol, 11:21-28.
+11.            Vermorken JB, Mesia R, Rivera F, Remenar E, Kawecki A, Rottey S, Erfan J, Zabolotnyy D, Kienzer HR, Cupissol D, et al: Platinum-based chemotherapy plus cetuximab in head and neck cancer. N Engl J Med 2008, 359:1116-1127
+12.            Yoshino T, Komatsu Y, Yamada Y, Yamazaki K, Tsuji A, Ura T, Grothey A, Van Cutsem E, Wagner A, Cihon F, Hamada Y, Ohtsu A. Randomized phase III trial of regorafenib in metastatic colorectal cancer: analysis of the CORRECT. Japanese and non-Japanese subpopulations. Invest New Drugs. 2015 Jun;33(3):740-50
+13.            Hauschild A, Grob JJ, Demidov LV, et al. Dabrafenib in BRAF-mutated metastatic melanoma: a multicentre, open-label, phase 3 randomised controlled trial. Lancet 2012; 380:358
+14.            Chapman PB, Hauschild A, Robert C, et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation. N Engl J Med 2011; 364:2507.
+15.            Ackerman A, Klein O, McDermott DF, et al. Outcomes of patients with metastatic melanoma treated with immunotherapy prior to or after BRAF inhibitors. Cancer 2014; 120:1695
+16.            Larkin J, Del Vecchio M, Ascierto PA, et al. Vemurafenib in patients with BRAF(V600) mutated metastatic melanoma: an open-label, multicentre, safety study. Lancet Oncol 2014; 15:436
+17.            Robert C, Karaszewska B, Schachter J, et al. Improved overall survival in melanoma with combined dabrafenib and trametinib. N Engl J Med 2015; 372:30.
+18.            Long GV, Stroyakovskiy D, Gogas H, et al. Combined BRAF and MEK inhibition versus BRAF inhibition alone in melanoma. N Engl J Med 2014; 371:1877.
+19.            Long GV, Stroyakovskiy D, Gogas H, et al. Dabrafenib and trametinib versus dabrafenib and placebo for Val600 BRAF-mutant melanoma: a multicentre, double-blind, phase 3 randomised controlled trial. Lancet 2015; 386:444
+20.            Goldstein D, El-Maraghi RH, Hammel P, Heinemann V, Kunzmann V, Sastre J, Scheithauer W, Siena S, Tabernero J, Teixeira L, Tortora G, Van Laethem JL, Young R, Penenberg DN, Lu B, Romano A, Von Hoff DD.  nab-Paclitaxel plus gemcitabine for metastatic pancreatic cancer: long-term survival from a phase III trial.  J Natl Cancer Inst. 2015 Jan 31;107(2).
+21.            Hidalgo M, Plaza C, Musteanu M, Illei P, Brachmann CB, Heise C, Pierce DW, Lopez-Casas PP, Menendez C, Tabernero J, Romano A, Wei X, Lopez-Rios F, Von Hoff DD. SPARC Expression Did Not Predict Efficacy of nab-Paclitaxel Plus Gemcitabine or Gemcitabine Alone for Metastatic Pancreatic Cancer in an Exploratory Analysis of the Phase III MPACT Trial. Clin Cancer Res. 2015 Jul 13
+Bloque 4
+Tumor immunology and immunotherapy
+Rees, Robert C. Firstedition. Oxford : Oxford UniversityPress, 2014.
+Romero I, Garrido C, Algarra I, Collado A, Garrido F, Garcia-Lora AM. T lymphocytes restrain spontaneous metastases in permanent dormancy. Cancer Res.2014 Apr 1;74(7):1958-68.
+Romero I, Garrido F, Garcia-Lora AM. Metastases in immune-mediateddormancy: a new opportunity for targeting  cancer. Cancer Res. 2014 Dec 1;74(23):6750-7
+Una serie de artículos en las revistas Nature Reviews Cancer y Nature Reviews Immunology, que abordan diferentes aspectos recientes de la inmunología tumoral e Inmunoterapia:
+Tumour immunotherapy — leukocytes take up the fight
+Gemma K. Alderton & Yvonne Bordon Nature Reviews Immunology12, 237 (2012)An introduction to the contents of the joint Focus on Tumour immunology & immunotherapy from Nature Reviews Cancer and Nature Reviews Immunology.
+Immunotherapy: Combinations that work
+Sarah Seton-Rogers. Nature Reviews Cancer12, 231 (2012). Two papers report preclinical data in support of combining targeted cancer therapies with immunestimulation mediated by CD137 activation
+Tumour immunology: A close-range dual hit for tumour immunity
+Olive Leavy. Nature Reviews Immunology12, 227 (2012). Engineering tumour cells to activate both TLRs and NLRs induces effective antitumour immunity.
+Tumour immunogenicity: Editorial selection demystified
+Darren J. Burgess. Nature Reviews Cancer12, 227 (2012). Two studies uncover details of theantigens and immune responses that are involved in the immunoediting of tumours.
+Tumour immunology: Suppressing tumorigenic inflammation
+Gemma K. Alderton Nature Reviews Cance r12, 228 (2012). A paperuncovers a RAS–RAL GEF signalling pathwayth atactivates AKT and RAL GTPases to promote survival and motility, and which isinhibited by the expression of the anti-inflammatory mediator TIPE2.
+Tumour immunology: Dendritic cells witch
+Sarah Seton-Rogers. Nature Reviews Cancer12, 230-231 (2012). Jose Conejo-Garcia and colleagues show that dendritic cells from mice in the early stages of ovarian tumorigenesis are immunocompetent and hinder tumour progression, but that they become immunosuppressive in advanced tumours and promote tumour progression.
+T cell memory: Skin-deep memory
+Lucy Bird Nature Reviews Immunology12, 227 (2012) Skin-resident effecttor memory CD8+ T cells provide long-lasting immuneprotection in the skin.
+The blockade of immune checkpoints in cancer immunotherapy
+Drew M. Pardoll. NatureReviewsCancer12, 252-264 (2012). Immune check points refer to the plethora of inhibitory pathways that are crucial to maintaining self-tolerance. Tumourcells induce immunecheckpointsto evade immunosurveillance. This Review discusses the progress in targeting immune checkpoints, the considerations for combinatorial therapy and the potential for additional immune-checkpoint targets.
+Combining immunotherapy and targeted therapies in cancer treatment
+Matthew Vanneman& Glenn Dranoff Nature Reviews Cancer12, 237-251 (2012)
+Targeted therapies can be used to successfully treat cancer patients, but what are their mechanisms of action? This Review discusses how targeted therapies modulate the immune system and how they can be rationally combined with immunotherapies.
+Targeting natural killer cells and natural killer T cells in cancer
+Eric Vivier, SophieUgolini, Didier Blaise, Christian Chabannon& Laurent Brossay Nature Reviews Immunology12, 239-252 (2012)
+In this Review article, the authors describe the mechanisms by which natural killer cells and natural killer T cells can promote tumour cell elimination. Furthermore, they discuss the new therapies that are being used to boost theantitumour properties of these cells in the clinic.
+Coordinated regulation of myeloid cells by tumours
+Dmitry I. Gabrilovich, Suzanne Ostrand-Rosenberg & Vincenzo Bronte Nature Reviews Immunology12, 253-268 (2012)
+Here, the authors discuss how the immune activities of myeloid cells, such as macrophages and dendritic cells, are affected by the immunosuppressive tumour environment. They propose that tumours can evade the immune system by promoting aberrant differentiation and function of the entire myeloid system.
+Adoptive immunotherapy for cancer: harnes sing the T cell response
+Nicholas P. Restifo, Mark E. Dudley& Steven A. Rosenberg Nature Reviews Immunology12, 269-281 (2012)
+Thisarticle discusses how T cells promote antitumour immunity in patients with cancer. In certain cancer types, T cell populations that are isolated from tumours and expandedin vitrocan promote cancerr emission when re-infused into patients. The authors explain the pros and cons of this type of immunotherapy.
+Cancer immunotherapy via dendritic cells
+Karolina Palucka & Jacques Banchereau Nature Reviews Cancer12, 265-277 (2012)
+Dendritic cells have far-reaching and important effects on the activation of the immune response; thus, they are used to vaccinate patients with cancer to induce long-term anti-tumour immunity. This Review discusses what we know — and need to know — about dendritic cells to improve how they are used therapeutically.
+Antibody therapy of cancer
+Andrew M. Scott, Jedd D. Wolchok& Lloyd J. Old Nature Reviews Cancer12, 278-287 (2012)
+The development of therapeutic antibodies requires a substantial understanding of cancer serology, protein-engineering techniques, mechanisms of action and resistance, and the interplay between the immune system and cancer cells. This Review outlines the fundamental strategies required to develop antibody therapies for cancer patients.
+Unmasking the immunerecognition of prostate cancer with CTLA4 blockade
+Serena S. Kwek, Edward Cha& Lawrence Fong Nature Reviews Cancer12, 289-297 (2012)
+Cytotoxic T lymphocyte-associated antigen 4 (CTLA4) represents a crucial immune checkpoint, the blockade of which can potentiate anti-tumourimmunity. This treatment in patients with advanced prostate cancer may provide insights into the targets that the immune system recognizes to drive tumour regression.
+The immune contexture in human tumours: impact on clinical outcome
+Wolf Herman Fridman, Franck Pagès, Catherine Sautès-Fridman & Jérôme Galon Nature Reviews Cancer12, 298-306 (2012)
+The infiltration of various types of immune cells is common to most tumour microenvironments. As discussed in this Opinion article, the pattern of immune cell infiltration varies between cancer type and individual tumours of the same type, and this pattern can be used to indicate prognosis and response to therapy.
+The determinants of tumour immunogenicity
+Thomas Blankenstein, Pierre G. Coulie, Eli Gilboa& Elizabeth M. Jaffee Nature Reviews Cancer12, 307-313 (2012)
+Four leading tumour immunologists provide their opinions on the determinants of immunogenicity and how we might therapeutically improve tumour immunogenicity in the future.

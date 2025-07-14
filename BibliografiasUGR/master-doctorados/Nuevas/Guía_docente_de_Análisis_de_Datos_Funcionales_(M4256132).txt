@@ -1,0 +1,19 @@
+Aguilera, A.M., Escabias, M. and Valderrama, M.J. (2008): Discussion of different logistic models with functional data. Application to Systemic Lupus Erythematosus. Computational Statistics and Data Analysis, 53(1), 151-163.
+Escabias, M., Aguilera, A.M. and Valderrama, M.J. (2004): Principal component estimation of functional logistic regression: discussion of two different. Journal of Nonparametric Statistics, 16 (3-4), 365-38.
+Escabias, M., Aguilera, A.M. and Valderrama, M.J. (2005): Modeling environmental data by functional principal component logistic regression. Environmetrics, 16 (1), 95-107.
+Escabias, M., Aguilera, A.M. and Aguilera-Morillo, M.J. (2014): Functional PCA and base-line logit models. Journal of classification, 31, 296-324.
+Ferraty, F. And Vieu, P. (2006): Nonparametric Functional Data Analysis. Theory and Practice. Springer-Verlag.
+Horváth, L. and Kokoszka, P. (2012): Inference for functional data with aplications. Springer-Verlag.
+Kokoszka, P., Reimherr, M. (2018).  Introduction to Functional Data Analysis. CRC Press.
+Ocaña, F.A., Aguilera, A.M. and Escabias, M. (2007): Computational considerations in functional principal component analysis. Computational Statistics, 22, 449-466.
+Ramsay J.O. y Silverman B.W. (1997, 2005): Functional Data Analysis. (First and Second editions). Springer-Verlag.
+Ramsay J.O. y Silverman B.W. (2002): Applied Functional Data Analysis. Springer-Verlag.
+Ramsay J.O., Hooker, G. and Graves, S. (2009). Functional data analysis with R and MATLAB. Springer-Verlag..
+Valderrama M.J., Aguilera A.M. y Ocaña F.A. (2000): Predicción Dinámica mediante Análisis de Datos Funcionales. La Muralla, Madrid.
+Aguilera, A.M., Aguilera-Morillo, M.C. and Preda, C. (2016): Penalized versions of functional PLS regression. Chemometrics and intelligent laboratory systems, 154, 80-92.
+Aguilera, A.M. and Aguilera-Morillo, M.C. (2013): Penalized PCA approaches for B-spline expansions of smooth functional data. Applied Mathematics and Computation, 219, 7805-7819.
+Aguilera, A.M., Escabias, M., Preda, C. and Saporta, G. (2010): Estimating PLS regression with functional data by using basis expansion methods. Chemometrics and intelligent laboratory systems, 104(2), 289-305.
+Aguilera-Morillo, M.C., Aguilera, A.M., Escabias, M. and Valderrama, M.J. (2013): Penalized spline approaches for functional logit regression. Test, 22(2), 251-277..
+Ratcliffe, S. J., Heller, G. Z. y Leader, L. (2002b): Functional data analysis with application to periodically stimulated foetal heart rate data. II: Functional logistic regression. Statistics in Medicine, 21, 1115-1127.
+Shi, J.Q. and Choi, T. (2011): Gaussian process regression analysis for functional data. CRC Press.
+Zhang, J-T. (2014): Analysis of Variance for functional data. CRC Press.

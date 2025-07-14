@@ -1,0 +1,11 @@
+Stallings, W. Comunicaciones y redes de computadores. Prentice Hall.
+Rodríguez, A. Comunicaciones industriales. Sistemas de regulación y control automáticos. Marcombo.
+Rodríguez, A. Sistemas SCADA (2a edición). Marcombo.
+Wilamowski, B., & Irwin, J. Industrial communication systems (2nd ed.). CRC Press.
+Zurawski, R. The Industrial communication technology handbook (2nd ed.). CRC Press.
+Bailey, D., & Wright, E. Practical SCADA for Industry. Elsevier.
+Clarke, G., & Reynders, D. Practical Modern SCADA Protocols: DNP3, 60870.5 and Related Systems. Elsevier.
+Bailey, D. Practical Radio Engineering and Telemetry for Industry. Elsevier.
+Reynders, D., & Wright, E. Practical Industrial Data Communications. Best Practice Techniques. Elsevier.
+Dargie, W., & Poellabauer, C. Fundamentals of wireless sensor networks: theory and practice. Wiley.
+Veneri, G., & Capasso, A. Hands-On Industrial Internet of Things: create a powerful industrial IoT infrastructure using industry 4.0. Birmingham: Packt Publishing.
