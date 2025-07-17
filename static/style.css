@@ -1,0 +1,108 @@
+/* Fondo general */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Contenedor principal */
+.container {
+    max-width: 960px;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Título principal */
+h1 {
+    text-align: center;
+    color: #002147; /* Azul oscuro institucional */
+    margin-bottom: 30px;
+}
+
+/* Select y botón */
+select, button {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+/* Botón principal */
+button {
+    background-color: #7a0019; /* Rojo borgoña */
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #8d1c2f;
+}
+
+/* Mensajes */
+.mensaje {
+    text-align: center;
+    font-weight: bold;
+    color: #004b23;
+    margin-top: 20px;
+}
+
+.no-resultados {
+    text-align: center;
+    color: #b00020;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+/* Tabla de resultados */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: #eeeeee;
+    color: #333;
+    padding: 12px;
+    text-align: left;
+}
+
+td {
+    padding: 10px;
+}
+
+a {
+    color: #00417a;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.contenido-comparativo pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    font-family: monospace;
+    background-color: #f8f8f8;
+    padding: 1em;
+    border-radius: 6px;
+    overflow-x: auto;
+}

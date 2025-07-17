@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Selector de Biblioteca UGR</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        .contenido-comparativo pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            max-width: 100%;
+            font-family: monospace;
+            background-color: #f8f8f8;
+            padding: 1em;
+            border-radius: 6px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>¿En qué biblioteca trabaja?</h1>
+
+    <!-- Formulario para seleccionar biblioteca -->
+    <form method="POST">
+        <select name="biblioteca" required>
+            {% for biblio in bibliotecas %}
+                <option value="{{ biblio }}" {% if biblio == seleccion %}selected{% endif %}>{{ biblio }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Aceptar</button>
+    </form>
+
+    {% if mensaje %}
+        <p class="mensaje">{{ mensaje }}</p>
+    {% endif %}
+
+    {% if grados is defined %}
+        {% if not grados.empty %}
+            <h2>Grados asociados:</h2>
+            <form method="POST">
+                <input type="hidden" name="biblioteca" value="{{ seleccion }}">
+                <input type="hidden" name="accion" value="confirmar_grados">
+                <table>
+                    <thead>
+                    <tr>
+                        <th></th>
+                        <th>Grado</th>
+                        <th>Centro</th>
+                        <th>URL</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    {% for g in grados.itertuples() %}
+                        <tr>
+                            <td><input type="checkbox" name="grados_seleccionados" value="{{ g.URL }}"></td>
+                            <td>{{ g.Grado }}</td>
+                            <td>{{ g.Centro }}</td>
+                            <td><a href="{{ g.URL }}" target="_blank">Ver</a></td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+                <button type="submit">Mostrar contenidos</button>
+            </form>
+        {% else %}
+            <p class="no-resultados">⚠️ No hay grados asociados a esta biblioteca.</p>
+        {% endif %}
+    {% endif %}
+
+    {% if feedback %}
+        <p class="mensaje">{{ feedback }}</p>
+    {% endif %}
+
+    {% if contenido %}
+        <div class="contenido-comparativo">
+            {{ contenido | safe }}
+        </div>
+    {% endif %}
+</div>
+</body>
+</html>
