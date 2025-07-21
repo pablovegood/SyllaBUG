@@ -1,0 +1,18 @@
+S.Egenfeldt, “Understanding Video Games: the essential introduction”, Rouledge 2016
+T.Fullerton, “Game design Workshop: a playcentric approach to creating innovative games”, CRC Press 2014
+M.McShaffry, “Game Coding Complete”, Course Technology PTR 2013
+C.Keith, “Agile game development with SCRUM”, Addison-Wesley 2010
+J.Gregory, “Game Engine Architecture”, CRC Press 2019
+R.Nystrom, “Game programming patterns”, Genever Benning 2014
+S.Madhav, “Game programming algorithms and techniques: a platform-agnostic approach”, Addison-Wesley 2013
+I.Millington, “Artificial Intelligence for Games”, Morgan Kaufmann 2018
+J.Glazer, “Multiplayer game programming: Architecting networked games”, Addison-Wesley 2015
+J.Smed, “Algorithms and networking for computer games”, Wiley 2006
+J.Schell, “The Art of Game Design: A book of lenses”.Morgan Kaufmann 2019
+S.Rogers, “Level Up!: the guide to great video game design”, Wiley 2014
+J.Juul, “Half-Real: Video games between real rules and fictional worlds”, MIT press 2005
+D.Sánchez-Crespo, “Core techniques and algorithms in game programming”, New Riders 2003
+I.Millington, “Game physics engine development”, Morgan kaufmann 2010
+C.Ericson, “Real-time collision detection”, Elsevier 2005
+D.Bourg, “AI for game developers”, O’reilly 2004
+G.Armitage, “Networking and online games: understanding and engineering multiplayer internet games”, Wiley 2006

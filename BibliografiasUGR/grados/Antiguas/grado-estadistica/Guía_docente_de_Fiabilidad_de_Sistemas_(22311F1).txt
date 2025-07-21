@@ -1,0 +1,10 @@
+Meeker, W., y Escobar, L. (1998), “Statistical methods for reliability data”
+Nelson, W. (2004), “Applied life data analysis”
+Rausand, M. y Hoyland, A.(2004), ”System Reliability Theory: Models, Statistical Methods, and Applications”,(2nd Edition)
+Modarres, M., & Groth, K. (2023).Reliability and risk analysis. CRC Press.
+Pham, H. (2022). Statistical Reliability Engineering: Methods, Models and Applications.
+Finkelstein, M. (2008) “Failure rate modelling for reliability and risk”
+Kulkarni, V. G. (2011). Introduction to modeling and analysis of stochastic systems (Vol. 1, No. 3.3). Springer New York.
+Lisnianski, A. y Frenkel, I. (2012), “Recent Advances in System Reliability”
+Xie, M., Day, Y.,Poh, K. (2004), “Computing System Reliability Models and Analysis”
+Zacks, S. (1992), “Introduction to Reliability Analysis”

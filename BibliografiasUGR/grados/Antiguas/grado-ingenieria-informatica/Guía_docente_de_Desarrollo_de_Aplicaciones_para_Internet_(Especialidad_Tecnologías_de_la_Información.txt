@@ -1,0 +1,2 @@
+Beginning Django: Web Application Development and Deployment with Python.Daniel Rubio. Apress. 2017
+Learn Web Development with Python. Fabrizio Romano, Gaston C. Hillar, Arun Ravindran. Packt Publishing, 2018

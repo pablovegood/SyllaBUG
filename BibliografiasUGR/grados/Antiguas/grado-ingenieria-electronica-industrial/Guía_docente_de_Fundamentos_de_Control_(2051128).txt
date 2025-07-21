@@ -1,0 +1,8 @@
+K. Ogata: "Ingeniería de Control Moderna". 4ª Edición, Pearson Educación, 2003
+B.C. Kuo: "Sistemas de Control Automático". 7ª Edición, Prentice Hall, 1996.
+J. Balcells, J. L. Romeral: “Autómatas Programables”, Marcombo, 1997.
+J.J. Gil Nobajas, "Control Automático" Eunsa, 2021
+C.E. Rohrs, J. L. Melsa, D. G. Schultz: "Sistemas de Control Lineal". McGraw-Hill, 1999.
+D'azzo-houpis: "Sistemas realimentados de control". Paraninfo, 1992.
+J. Distefano: "Retroalimentación y sistemas de control". McGraw-Hill.
+S. Bennet: "Real-Time Computer Control: An Introduction". Prentice-Hall, 1988.

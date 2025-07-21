@@ -1,0 +1,10 @@
+E. Cerami, Web Services Essentials. O’Reilly, 2002
+L. Igual. Introduction to Data Science: A Python Approach to Concepts, Techniques and Applications. Springer; Edición: 1st ed. 2017. ISBN-13: 978-3319500164.
+P. Johnson. Make Your Own Python Text Adventure. A Guide to Learning Programming. Apress 2018. ISBN: 978-1- 4842-3231-6.
+J. W. Krogh. MySQL Connector/Python Revealed. SQL and NoSQL Data Storage Using MySQL for Python Programmers. Apress, 2018. ISBN: 978-1-4842-3694-9.
+R. Mitchell. Web Scraping with Python. O'Reilly Media, 2nd ed. 2018. ISBN-13: 978-1491985571
+R. Nixon, Learning PHP, MySQL, JavaScript, and CSS, 2nd Ed. O’Reilly, 2012
+A. Ploetz, et al. Seven NoSQL Databases in a Week, Packt, 2018.
+Paper, D. Data Science Fundamentals for Python and MongoDB. Apress, 2018. ISBN-978-1-4842-3597-3.
+K. G. Srinivasa, Siddesh G. M., Srinidhi H. Network Data. Analytics. A Hands-On Approach for Application Development. Springer 2018. ISBN 978-3-319-77799-3.
+W. McKinney. Python for Data Analysis. O'Reilly Media, 2nd ed. 2017. ISBN-13: 978-1491957660.

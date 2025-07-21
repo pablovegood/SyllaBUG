@@ -1,33 +1,7 @@
-
 📊 Porcentaje estimado de cambio: 100% [██████████]
-
-📢 La bibliografía fue cambiada por completo.
-
-Total en antigua: 40
-Total en nueva: 20
-Recursos añadidos (20):
-Berg, B. (2010). El Juego de las habilidades sociales. Tea Ediciones.
-Branden, N. (2012). La psicología de la autoestima. Paidos.
-Calvete, E., y Orue, I. (2016). Violencia filio-parental: frecuencia y razones para las agresiones contra padres y madres. Psicología Conductual, 24(3), 481-495.
-Capano, Á., y Ubach, A. (2013). Estilos parentales, parentalidad positiva y formación de padres. Ciencias Psicológicas, 7(1), 83-95
-Florentino Morillo, B. (2022). Aportes de la investigación a los avances de la educación moral.Revista Historia de la Educación Latinoamericana,24(38).https://doi.org/10.19053/01227238.14694
-Flouri, E., y Midouhas, E. (2017). Environmental Adversity and Children's Early Trajectories of Problem Behavior: The Role of Harsh Parental Discipline. Journal of family psychology, 31(2), 234-243.
-Gallardo Vázquez, P., Gallardo Basile, F.J., y Gallardo López, J.A. (2021).Desarrollo de las habilidades socioemocionales y de los valores en Educación Infantil y Primaria. Octaedro Editorial
-Gill, A. M., Dishion, T. J., y Shaw, D. S. (2014). The Family Check-Up: A tailored approach to intervention with high risk families. En S. H. Landry, y C. L. Cooper (Eds.) Well being and children and families. Wiley-Blackwell.
-Godoy Rojas, I. A., y Moreno, M. S. (2021). Estudio sobre la inteligencia emocional en educación primaria.Revista Fuentes,23(2). https://doi.org/10.12795/revistafuentes.2021.12108
-Heinsen, M. (2012). Autoestima en edad temprana: orientaciones para educadores y familias. Narcea.
-Intriago, E., Intriago Macías , C., & Macías González , L. . (2023). La etapa crítica para el desarrollo de conductas éticas en los estudiantes.Revista Científica Arbitrada Multidisciplinaria PENTACIENCIAS,5(3), 685–694. https://doi.org/10.59169/pentaciencias.v5i3.594
-López, F. (2010). Necesidades en la infancia y en la adolescencia. Pirámide, Ojos Solares.
-Martín, J. (2010). La intervención ante el maltrato infantil. Una revisión del sistema de protección. Psicología Pirámide.
-Mora Miranda, N., Martínez-Otero, V., Santander, S. y Gaeta, M.L. (2022). Inteligencia emocional en la formación del profesorado de educación infantil y primaria. Perspectiva educacional, 61(1). http://dx.doi.org/10.4151/07189729-vol.61-iss.1-art.1234
-Perales Herrera, E. (2022). Aplicación de un Programa de Inteligencia emocional y desarrollo moral en los niños y niñas de educación primaria.Ciencia Latina Revista Científica Multidisciplinar,6(5), 3898-3931. https://doi.org/10.37811/cl_rcm.v6i5.3365
-Perpiñà Martí, G. Sidera Caballero. F., Serrat Sellabona, E. (2022). Rendimiento académico en educación primaria: relaciones con la Inteligencia Emocional y las Habilidades Sociales.Revista de Educación, 395.DOI: 10.4438/1988-592X-RE-2022-395-515
-Peña-Casares, M. J.; Aguaded-Ramírez, E. (2021). Inteligencia emocional, bienestar y acoso escolar en estudiantes de Educación Primaria y Secundaria.Journal of Sport and Health Research, 13(1), 79-92.
-Pinquart, M. (2017). Associations of parenting dimensions and styles with externalizing problems of children and adolescents: An updated meta-analysis. Developmental Psychology, 53(5), 873-932.
-Sporzon, G., y López-López, M. C. (2021). Evaluación de la inteligencia emocional y la conducta prosocial y su correlación en alumnado de Educación Primaria.Estudios sobre Educación, 40, 51-73. DOI: 10.15581/004.40.51-73
-Sánchez-Camacho, R. y Grané-Oro, M. (2022). Instrumentos de Evaluación de Inteligencia Emocional en Educación Primaria: Una Revisión Sistemática.Revista de Psicología y Educación, 17(1), 21-43, https://doi.org/10.23923/rpye2022.01.214
-
-Recursos eliminados (40):
+Total en antigua: 20
+Total en nueva: 40
+Recursos añadidos (40):
 ARQUERO, M. (1995). Educación de calle. Hacia un modelo de intervención en marginación juvenil. Madrid: Popular.
 AYERBE, P. (1996). Intervención educativa ante la desadaptación social. Hernani: PAX.
 Aierbe, A. (2005). Intervención psicopedagógica en los trastornos del desarrollo. Málaga: Aljibe.
@@ -68,3 +42,25 @@ Schalok, R. L., y Verdugo, M. A. (2003). Calidad de vida: Manual para profesiona
 Smith, D.D. (2003). Bases psicopedagógicas de la Educación Especial. Madrid: Pearson Educación.
 Verdugo, M.A. (2006). Cómo mejorar la calidad de vida de las personas con discapacidad: instrumentos y estrategias de evaluación. Salamanca: Amarú.
 Verdugo, M.A. (Dir.). (2005) Personas con discapacidad Perspectivas psicopedagógicas y rehabilitadoras. Madrid: siglo XX AMORÓS, P. y AYERBE, P. (Eds.). (2000). Intervención educativa en inadaptación social. Madrid: Síntesis.
+
+Recursos eliminados (20):
+Berg, B. (2010). El Juego de las habilidades sociales. Tea Ediciones.
+Branden, N. (2012). La psicología de la autoestima. Paidos.
+Calvete, E., y Orue, I. (2016). Violencia filio-parental: frecuencia y razones para las agresiones contra padres y madres. Psicología Conductual, 24(3), 481-495.
+Capano, Á., y Ubach, A. (2013). Estilos parentales, parentalidad positiva y formación de padres. Ciencias Psicológicas, 7(1), 83-95
+Florentino Morillo, B. (2022). Aportes de la investigación a los avances de la educación moral.Revista Historia de la Educación Latinoamericana,24(38).https://doi.org/10.19053/01227238.14694
+Flouri, E., y Midouhas, E. (2017). Environmental Adversity and Children's Early Trajectories of Problem Behavior: The Role of Harsh Parental Discipline. Journal of family psychology, 31(2), 234-243.
+Gallardo Vázquez, P., Gallardo Basile, F.J., y Gallardo López, J.A. (2021).Desarrollo de las habilidades socioemocionales y de los valores en Educación Infantil y Primaria. Octaedro Editorial
+Gill, A. M., Dishion, T. J., y Shaw, D. S. (2014). The Family Check-Up: A tailored approach to intervention with high risk families. En S. H. Landry, y C. L. Cooper (Eds.) Well being and children and families. Wiley-Blackwell.
+Godoy Rojas, I. A., y Moreno, M. S. (2021). Estudio sobre la inteligencia emocional en educación primaria.Revista Fuentes,23(2). https://doi.org/10.12795/revistafuentes.2021.12108
+Heinsen, M. (2012). Autoestima en edad temprana: orientaciones para educadores y familias. Narcea.
+Intriago, E., Intriago Macías , C., & Macías González , L. . (2023). La etapa crítica para el desarrollo de conductas éticas en los estudiantes.Revista Científica Arbitrada Multidisciplinaria PENTACIENCIAS,5(3), 685–694. https://doi.org/10.59169/pentaciencias.v5i3.594
+López, F. (2010). Necesidades en la infancia y en la adolescencia. Pirámide, Ojos Solares.
+Martín, J. (2010). La intervención ante el maltrato infantil. Una revisión del sistema de protección. Psicología Pirámide.
+Mora Miranda, N., Martínez-Otero, V., Santander, S. y Gaeta, M.L. (2022). Inteligencia emocional en la formación del profesorado de educación infantil y primaria. Perspectiva educacional, 61(1). http://dx.doi.org/10.4151/07189729-vol.61-iss.1-art.1234
+Perales Herrera, E. (2022). Aplicación de un Programa de Inteligencia emocional y desarrollo moral en los niños y niñas de educación primaria.Ciencia Latina Revista Científica Multidisciplinar,6(5), 3898-3931. https://doi.org/10.37811/cl_rcm.v6i5.3365
+Perpiñà Martí, G. Sidera Caballero. F., Serrat Sellabona, E. (2022). Rendimiento académico en educación primaria: relaciones con la Inteligencia Emocional y las Habilidades Sociales.Revista de Educación, 395.DOI: 10.4438/1988-592X-RE-2022-395-515
+Peña-Casares, M. J.; Aguaded-Ramírez, E. (2021). Inteligencia emocional, bienestar y acoso escolar en estudiantes de Educación Primaria y Secundaria.Journal of Sport and Health Research, 13(1), 79-92.
+Pinquart, M. (2017). Associations of parenting dimensions and styles with externalizing problems of children and adolescents: An updated meta-analysis. Developmental Psychology, 53(5), 873-932.
+Sporzon, G., y López-López, M. C. (2021). Evaluación de la inteligencia emocional y la conducta prosocial y su correlación en alumnado de Educación Primaria.Estudios sobre Educación, 40, 51-73. DOI: 10.15581/004.40.51-73
+Sánchez-Camacho, R. y Grané-Oro, M. (2022). Instrumentos de Evaluación de Inteligencia Emocional en Educación Primaria: Una Revisión Sistemática.Revista de Psicología y Educación, 17(1), 21-43, https://doi.org/10.23923/rpye2022.01.214

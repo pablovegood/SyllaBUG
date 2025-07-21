@@ -1,0 +1,9 @@
+Hans Delfs and Helmut Knebl. Introduction to Cryptography. Principles and Applications. Information Security and Cryptography. Springer, 3rd edition, 2015.
+Joseph Migga Kizza. Guide to Computer Network Security. Computer Communications and Networks. Springer, 5th. edition, 2015.
+Josef Pieprzyk, Thomas Hardjono, and Jennifer Seberry. Fundamentals of Computer Security. Springer, 2003.
+Ingemar J. Cox, Matthew L. Miller, Jeffrey A. Bloom, Jessica Fridrich, and Ton Kalker. Digital Watermarking and Steganography. The Morgan Kaufmann Series in Multimedia Information and Systems. Elsevier, 2nd edition, 2008.
+C. Adams, P. Cain, D. Pinkas, and R. Zuccherato. Internet X.509 Public Key Infrastructure Time-Stamp Protocol (TSP). IETF, August 2001.
+D. Cooper, S. Santesson, S. Farrell, S. Boeyen, R. Housley, and W. Polk. Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile. IETF, May 2008
+Kresimir Delac and Mislav Grgic. A survey of biometric recognition methods. In 46th International Symposium Electronics in Marine, ELMAR-2004, pages 184–193, 2004.
+T. Dierks and E. Rescorla. The Transport Layer Security (TLS) Protocol Version 1.2. IETF, August 2008
+Satoshi Nakamoto. Bitcoin: un sistema de dinero en efectivo electrónico peer-to-peer. Technical report, bitcoin.org. Traducido por @breathingdog.

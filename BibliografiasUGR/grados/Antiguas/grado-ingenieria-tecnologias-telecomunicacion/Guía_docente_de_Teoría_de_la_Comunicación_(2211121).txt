@@ -1,0 +1,12 @@
+A. León-García, ‘Probability and Random Processes for Electrical Engineering’, (2ª edición). Addison Wesley. 1994.
+S. Miller, D. Childers, ‘Probability and Random Processes: with applications to signal processing and communications’, (2ª edición), Amsterdam: Elsevier Academic Press, 2012.
+F. Artés, J. Pérez González, R. Cid, C. López, F. Mosquera, F. Pérez Cruz. ‘Comunicaciones Digitales’ Pearson Educación, 2007.
+S. Haykin, ‘Communication Systems’. (4ª edición), New York, Willey, 2001.
+J. G. Proakis, M. Salehi, ‘Communication Systems Engineering’, (2ª edición). Englewood Cliff, NJ, Prentice-Hill, 2002.
+N. Abramson. ''Teoría de la Información y Codificación''. Paraninfo, 1986.
+J. Stone, ‘Information Theory: a tutorial introduction’ (1ª edición), S. l.: Sebtel Press, 2015
+Jr. Peebles, Z. Peyton, ‘Probability, Random Variables and Random Signal Principles’, (4ª edición), Mc Graw-Hill. 2001.
+S. Kay, ‘Intuitive probability and random processes using matlab’. 2006. New York: Springer, 2006.
+A.B. Carlson, ‘Comunication Systems’, (2ª edición), New York, McGraw-Hill, 1986.
+S.M. Kay, ‘Fundamentals of Statistical Signal Processing: Estimation Theory’, Prentice-Hall. 1993
+T. Cover, J.Thomas, 'Elements of Information Theory’, John Wiley&Sons, 1991.

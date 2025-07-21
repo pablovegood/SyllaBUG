@@ -1,0 +1,25 @@
+C.F. Gerald y P.O. Wheatley. Análisis Numérico con Aplicaciones. Prentice Hall, 2000. ISBN: 968-444-393-5.
+S.C. Chapra y R.P. Canale. Métodos Numéricos para Ingenieros. McGraw-Hill, 1999. ISBN: 970-10-2008-1.
+R.E. Burden y J.D. Faires. Análisis Numérico. International Thomson Editores, 1998. ISBN: 968-7529-46-6.
+D. Kincaid y W. Cheney. Análisis Numérico. Addison- Wesley Iberoamericana, 1994. ISBN: 0-201-60130-3.
+F. Scheid y R.E. Constanzo. Métodos Numéricos. McGraw-Hill, serie Schaum, 1991. ISBN: 968-422-790-6.
+W. Allen Smith. Análisis Numérico. Prentice Hall, 1966. ISBN: 0-8359-1719-3.
+J.M. Ledanois, A. López de Ramos, J.A. Pimentel y F.F. Pironti. Métodos Numéricos aplicados en Ingeniería. McGraw-Hill, 2000. ISBN 980-373-025-8.
+J.H. Mathews y K.D. Fink. Métodos Numéricos con MATLAB. Prentice Hall, 2000. ISBN 84-8322-181-0.
+Ralston. Introducción al Análisis Numérico. Limusa-Wesley, 1970.
+F.B. Hildebrand. Introduction to Numerical Analysis. McGraw-Hilll, 1974. ISBN 0-486-65363-3.
+M. Gasca. Cálculo Numérico I. UNED, 1996. ISBN 84-362-2118-4.
+Guardiola, R., Higón, E., i Ros, J. Mètodes Numèrics per a la Física. Universitat de València, 1997. ISBN: 84-370-2917-1.
+Gould, H., Tobochnik, J., Christian, W. An Introduction to Computer Simulation Methods. Pearson Education- Addison Wesley, 2006. ISBN-10: 0805377581.
+Atkinson, K.E. An Introduction to Numerical Analysis. Wiley, London, 1988. ISBN: 0-471-62489-6.
+Buchanan, J.L., and Turner, P.R. Numerical Methods and Analysis. McGraw-Hill, New York, 1992. ISBN: 0-07-112922-7.
+Conte, S.D., and de Boor, C. Elementary Numerical Analysis. An Algorithmic Analysis. McGraw-Hill, New York, 1980. ISBN: 0-07-012447-7.
+Fernández, M., Rodríguez, R., Zorrilla, D., y Sánchez, J. Elementos de Programación Fortran para Científicos e Ingenieros. Real Sociedad Española de Física, Madrid, 2006. ISBN: 84-934738.
+García-Merayo, F. Lecciones Prácticas de Cálculo Numérico. Universidad Pontificia Comillas, Madrid, 1995. ISBN: 84-87840-68-X.
+García-Merayo, F., y Nevot-Luna, A. Métodos Numéricos. En Forma de Ejercicios Resueltos. Universidad Pontificia Comillas, Madrid, 1997. ISBN: 84-89708-07-X.
+Higham, N.J. Accuracy and Stability of Numerical Algorithms. SIAM, Philadelphia, 1996. ISBN: ISBN O-89871-355-2.
+Hoffman, J.D. Numerical Methods for Engineers and Scientists. Marcel Dekker, New York, 2001. ISBN: 0-8247-0443-6.
+Isaacson, E., and Bishop Kell, H. Analysis of Numerical Methods. Dover Publications, New York, 1994. ISBN: 0-486-68029-0.
+Johnston, R.L. Numerical Methods. A Software Approach. John Wiley, New York, 1982. ISBN-10: 0471093971, ISBN-13: 978-0471093978
+McCracken, D.D., y Dorn, W.S. Métodos Numéricos y Programación Fortran con Aplicaciones en Ingeniería y Ciencias. Limusa-Weley, México, 1973.
+Vazquez, L., Jiménez, S., Aguirre C., y Pascual P. J. Métodos Numéricos para la Física y la Ingeniería. Mc Graw Hill, Madrid, 2009. ISBN: 978-84-481-6602-1

@@ -1,0 +1,11 @@
+Albert-Laszlo Barabasi: “Network Science”. Cambridge University Press, 2016. ISBN: 9781107076266. Interactive Book Project,http://networksciencebook.com/
+Stanley Wasserman & Katherine Faust: “Social Network Analysis. Methods and Applications”, Cambridge University Press, 1994. ISBN 9780521387071.
+Reza Zafarani, Mohammad Ali Abbasi, Huan Liu: “Social Media Mining. An Introduction”. Cambridge University Press, 2014. ISBN: 9781107018853.http://www.socialmediamining.info/
+Bing Liu: “Sentiment Analysis. Mining Opinions, Sentiments, and Emotions”. Cambridge University Press, 2015. ISBN: 9781139084789.
+José Hernández Orallo, Mª. José Ramírez Quintana, César Ferri Ramírez: “Introducción a la Minería de Datos”. Pearson, 2004. ISBN: 8420540919.
+Mark Newman: “Networks: An introduction”, Oxford, 2010. ISBN: 0199206651.
+Chaomei Chen: “Information Visualization: Beyond the Horizon”, Springer, 2004. ISBN 9781852337896.
+David Easley & Jon Kleinberg: “Networks, Crowds, and Markets: Reasoning About a Highly Connected World”, Cambridge University Press, 2010. ISBN: 9780521195331
+Mark Newman, Albert-Laszlo Barabasi, Duncan J. Watts (Eds.): “The Structure and Dynamics of Networks”, Princeton University Press, 2006. ISBN: 9780691113579.
+Derek Hansen, Ben Shneiderman: “Analyzing Social Media Networks with NodeXL: Insights from a Connected World”, Morgan Kaufmann, 2010. ISBN: 9780123822291.
+Herbert Jones: “Ciencia de los datos: La guía definitiva sobre análisis de datos, minería de datos, almacenamiento de datos, visualización de datos, Big Data para empresas y aprendizaje automático para principiantes”. Independently published, 2019. ISBN: 9781090802965.

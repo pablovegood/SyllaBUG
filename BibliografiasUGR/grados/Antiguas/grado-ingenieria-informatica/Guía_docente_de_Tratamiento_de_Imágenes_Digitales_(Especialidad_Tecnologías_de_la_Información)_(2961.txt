@@ -1,0 +1,7 @@
+S. Dey, Hands-On Image Processing with Python, Packt Publishing, 2018.
+S. Dey, Python Image Processing Cookbook, Packt Publishing, 2020
+R. Chityala and S. Pudipeddi, Image Acquisition using Python, CRC Press, 2021
+C. Hill, Learning Scientific Programming with Python, Cambridge University Press, 2021
+E. Matthes, Python Crash Couse, No Starch Press, 2015
+S. PrinceComputer Vision: Models, Learning, and Inference, 2012
+R. SzeliskiComputer Vision: Algorithms and Applications, 2022

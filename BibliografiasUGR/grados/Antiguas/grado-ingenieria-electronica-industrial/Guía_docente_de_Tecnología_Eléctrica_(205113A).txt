@@ -1,0 +1,14 @@
+REBT; Reglamento Electrotécnico para Baja Tensión. Real Decreto 842/2002, de 2 agosto de 2002 e Instrucciones Técnicas Complementarias.
+RAT: Reglamento Alta Tensión Normas Particulares y Condiciones Técnicas y de Seguridad de la empresa distribuidora de energía Eléctrica. Endesa Distribución.
+Normas UNE.
+Apuntes del área de Ingeniería Eléctrica.
+Electrotecnia Básica para Ingenieros. Aznar, F. Ed. U. de Granada, 2013
+Introducción a las Instalaciones Eléctricas. Fraile, J. Ed. Colegio Oficial de Ingenieros de Caminos, Canales y Puertos. Madrid, 1996.
+Tecnología eléctrica. Edición: 2ª ed. Folch, J. Ed. Síntesis.
+Manual de instalaciones eléctricas. Edición: 3ª. Carmona, D. Ed. Abecedario.
+Cálculo de instalaciones y sistemas eléctricos: proyectos a través de supuestos prácticos. Edición: 2ª. Carmona, D. Ed. Abecedario, 2003.
+Manual de baja tensión: criterios de selección de aparatos de maniobra e indicaciones para el proyecto. Edición: 2ª ed. Ed. Siemens-Marcombo, 2000.
+Guía de diseño de instalaciones eléctricas: [según normas internacionales CEI]. Ed. Schneider Electric, 2005
+Instalaciones eléctricas. Casa, J. Ed. Universidad de Jaén. Servicio de Publicaciones e Intercambio Científico, 1998
+Puesta a tierra en edificios y en instalaciones eléctricas. Edición: 2ª. Martínez, J. J. Ed. Paraninfo, 1998.
+Problemas resueltos de Tecnología Eléctrica. Moreno, N. Ed. Thomson. Madrid, 2003.

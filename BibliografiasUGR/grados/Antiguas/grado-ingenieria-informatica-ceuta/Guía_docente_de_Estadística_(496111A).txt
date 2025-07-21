@@ -1,0 +1,21 @@
+Abad, F., Huete, M.D., Vargas, M. (2016) Estadística, Probabilidad e introducción al Análisis Demográfico (con aplicaciones en R-commander). Avicam, Granada.
+Canavos, G.C. (2003) Probabilidad y Estadística: Aplicaciones y Métodos. McGraw-Hill Interamericana, México.
+Gutiérrez, R., Martínez, A., Rodríguez, C. (1993) Curso básico de Probabilidad. Pirámide, Madrid.
+Martín Martín Q. (2003) Investigación Operativa. Prentice Hall.
+Martínez, A., Rodríguez, C., Gutiérrez, R. (1993) Inferencia Estadística. Un enfoque clásico. Pirámide, Madrid
+Martínez, F.; Martínez, C. (2013). Problemas de Estadística para Ingeniería y Ciencias. Copicentro, España.
+Milton, J.S., Arnold, J.C. (2004) Probabilidad y Estadística (con aplicaciones para Ingeniería y Ciencias Computacionales). McGraw-Hill Interamericana, México.
+Rohatgi, V.K., Saleh, A.K. (2008) An Introduction to Probability and Statistics. John Wiley and Sons.
+Arriaza, AJ., Fernández F, López MA., Muñoz M, Pérez S, Sánchez A. (2013) Estadística Básica con R y R–Commander. Servicio de Publicaciones Universidad de Cádiz.
+Cuadras, C.M. (1995) Problemas de Probabilidad y Estadística. Vol. 1: Probabilidades. PPU, Barcelona.
+Cuadras, C.M. (2000) Problemas de Probabilidades y Estadística. Vol. 2: Inferencia Estadística. EUB, Barcelona.
+De la Horra Navarro, J. (2003) Estadística Aplicada. Díaz de Santos.
+Devore, Jey L. Probabilidad y Estadística para Ingeniería y Ciencias. (2008) California Polytechnic State University, San Luis Obispo. México
+Fox J, Marquez MM, Bouchet-Valat M (2024). Rcmdr: R Commander. R package version 2.9-2,https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/.
+Rodríguez Huertas, R. y Gámez Mellado, A. (2002) Investigación Operativa, Ejercicios y prácticas con ordenador, Servicio de Publicaciones Universidad de Cádiz.
+Peña Sánchez de Rivera, D. (2000) Estadística. Modelos y métodos 1. Fundamentos. 2ª Edición revisada. Alianza Universidad Textos.
+R Core Team (2021). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
+Ruiz, JJ., Palomo Sánchez, JG., Sánchez Naranjo, MJ, Sánchez Morcillo, I. (2000) Problemas resueltos de Estadística. Editorial Síntesis.
+Sáez, AJ. Métodos Estadísticos con R y R–Commander (2010) Universidad de Jaén.
+Verdoy, P.J., Mahiques, J.M., Porcu, E. (2008) Introducción a la Estadística y Probabilidad: Manual de Ejercicios Resueltos. Tilde, Valencia
+Walpole RE, Myers RH, Myers SL, Ye K. (2012) Probabilidad y Estadística para Ingeniería y Ciencias. Pearson Educación, México.

@@ -1,0 +1,12 @@
+A. Delgado, J. Nieto, A. Robles, O. Sánchez,Métodos numéricos básicos con Octave, ISBN: 978-84-16535-79-82016(Librería Fleming, Granada 2016). Disponible online en:https://github.com/oscarsanchezromero/Calculo-Cientifico-Octave/
+M. Gasca, Cálculo Numérico I, Sexta Ed. Universidad Nacional de Educación a Distancia, Madrid, 1993.
+M. Gasca, Cálculo Numérico: Resolución de ecuaciones y sistemas, Mira Editores, 1999.
+W. Gautschi, Numerical analysis, second edition, Springer, New York, 2012.Disponible online en:https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991013963626804990
+D. Kincaid, W. Cheney, Análisis Numérico: Las Matemáticas del Cálculo Científico. Addison-Wesley Iberoamericana, 1994.
+A. Quarteroni, R. Sacco, F. Saleri, Numerical mathematics, second edition, Texts inApplied Mathematics 37 Springer-Verlag, Berlin, 2007.
+R. L. Burden, J. D. Faires, Analisis Numerico (9ª Ed), Paraninfo, 2011.
+J. W. Demmel,Applied numerical linear algebra, Philadelphia : SIAM, 1997.
+E. Issacson, H.B. Keller, Analysis of numericals methods, John Wiley and Sons, Chichester, 1966.
+J. Kiusalaas, Numerical Methods in Engineering with Python 3, (3rd Ed.) Cambridge University Press, 2013.
+J. Stoer, J., R. Bulirsch, Introduction to numerical analysis, 3rd edition, Springer-Verlag, New York, 2002.Disponible online en:https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991003673949704990
+L. N. Trefethen,Numerical linear algebra, Philadelphia : SIAM, 1997.

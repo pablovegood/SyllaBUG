@@ -1,0 +1,9 @@
+Michael Morrison.Beginning Game Programming. SAMS Publishing, 2005.
+Jeannie Novak.Game Development Essentials: An Introduction. 4th ed. Delmar Cengage Learning, 2022.
+Mike McShaffry.Game Coding Complete. 4th ed. Course Technology PTR, 2013.
+Chad Walker, Eric Walker.Game Modeling Using Low Polygon Techniques. Charles River Media, 2001.
+Dennis Summers.Texturing: Concepts and Techniques. Charles River Media, 2004.
+Schroeder, Ralph.Avatars at Work and Play: Collaboration and Interaction in Shared Virtual Environments[Recurso electrónico]. Dordrecht: Springer, 2006.
+David H. Eberly.3D Game Engine Design: A Practical Approach to Real-Time Computer Graphics. 3rd ed. CRC Press, 2023. ISBN: 978-0367645410
+Alan Watt, Fabio Policarpo.Advanced Game Development with Programmable Graphics Hardware. A K Peters, Ltd., 2005. ISBN: 156881240X
+David H. Eberly.Game Physics. 2nd ed. Elsevier, 2010. ISBN: 978-0-12-374903-1

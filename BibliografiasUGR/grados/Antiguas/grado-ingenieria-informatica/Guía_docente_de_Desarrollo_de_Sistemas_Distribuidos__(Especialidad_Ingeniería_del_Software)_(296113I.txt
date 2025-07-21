@@ -1,0 +1,12 @@
+Coulouris, G.F. et al: Distributed Systems: Concepts and Design (5th Edition), Addison-Wesley, 2012.
+Ghosh, R.K., Ghosh, H.: Distributed Systems: Theory and Applications. John Wiley & Sons, 2023.
+Czaja, L.: Introduction to Distributed Computer Systems: Principles and Features. Springer, 2018.
+Ghosh, S.: Distributed systems: an algorithmic approach (2nd edition). Chapman and Hall/CRC, 2014.
+Tanenbaum, A. S., van Steen, M.: Distributed Systems: Principles and Paradigms (2nd Edition), Prentice-Hall, 2014.
+K.P. Birman: Reliable Distributed Systems: Technologies, Web Services and Applications. Springer, 2005.
+Liu, M.L.: Computación Distribuida: Fundamentos y Aplicaciones. Pearson, 2004.
+Bacon, J.: Concurrent Systems (2/e). Addison-Wesley, 1998.
+Andrews, G.A.: Concurrent Programming - Principles and Practice. The Benjamin/Cummings Publishing Company, 1991.
+N.A. Lynch. Distributed Algorithms. Morgan Kaufmann. 1996.
+Oracle and/or its affiliates. An Overview of RMI Applications
+H. Balakrishnan, M. F. Kaashoek, D. Karger, R. Morris, I. Stoica: Looking up data in P2P systems. Communications of the ACM, Vol. 46, No. 2, Feb 2003, pp. 43-48.

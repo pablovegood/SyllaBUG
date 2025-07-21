@@ -1,0 +1,14 @@
+Apuntes de la asignatura (disponibles en la plataforma digital de la asignatura)
+ARTÉS, F. PÉREZ,Comunicaciones Digitales, Pearson Educación, 2007
+SKLAR,Digital Communications (2ª Ed.),Prentice Hall PTR, 2001
+J.G. PROAKIS,Digital Communications (4ª Ed.)Mc Graw Hill, 2000
+E.A. LEE, D.G. MESSERCHMITT,Digital Communications (3ª Ed.),Kulwer, 2004
+S. HAYKIN,Communications Systems (4ª Ed.),John Wiley & Sons, 2001
+Manuales
+Manual de Octave(versión 7.1.0)
+Manual de Octave Forge(paquetes)
+Manual de usuario del osciloscopio digital Promax OD-576*
+Manual de usuario del generador de funciones Promax GF-857*
+Manual de usuario del analizador de espectros Promax AE-766*
+Manual de usuario del entrenador de comunicaciones digitales Promax EC-796*
+* Disponibles en la plataforma PRADO de la asignatura.

@@ -1,0 +1,17 @@
+C. Brunsdon, L. Comber. An Introduction to R for Spatial Analysis and Mapping (Second Edition). SAGE Publications Ltd., 2018.
+A. Graser, G. N. Peterson, G. Sherman. QGIS Map Design (Second Edition). Locate Press, 2018.
+D. S. Jordan. Applied Geospatial Data Science with Python. Packt Publishing, 2023.
+R. O. Obe, L. S. Hsu. PostGIS in Action (Second Edition). Manning Publications, 2021.
+V. Olaya. Sistemas de Información Geográfica. CreateSpace Independent Publishing Platform, 2016.
+X. Zhu. GIS for Environmental Applications: A practical approach. Routledge, 2016.
+R. S. Bivand, E. J. Pebesma, V. Gómez. Applied Spatial Data Analysis with R (Second Edition). Springer, 2013.
+Y. Cabrero, A. García. Análisis estadístico de datos espaciales con QGIS y R. UNED, 2015.
+S. Lacovella. GeoServer Beginner's Guide (Second Edition). Packt Publishing Ltd., 2017.
+J. Lawhead. QGIS Python Programming Cookbook - Second Edition. Packt Publishing, 2017.
+B. P. McClain. Python for Geospatial Data Analysis. O'Reilly Media, Inc., 2022.
+B. Mearns. Expert GeoServer. Packt Publishing, 2018.
+M. Neteler, H. Mitasova. Open Source GIS a GRASS GIS Approach (Third Edition). Springer, 2008.
+R. E. Plant. Spatial Data Analysis in Ecology and Agriculture Using R (Second Edition). CRC Press, 2018.
+J. M. Santos. Sistemas de Información Geográfica. UNED, 2004.
+M. Wegmann, B. Leutner, S. Dech. Remote Sensing and GIS for Ecologists: Using Open Source Software. Pelagic Publishing, 2016.
+E. Westra. Python Geospatial Development (Third Edition). Packt Publishing Ltd., 2016.

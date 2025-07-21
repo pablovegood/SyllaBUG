@@ -1,0 +1,12 @@
+Wu-Ki Tung, “Group Theory in Physics”, World Scientific, 1985.
+Pierre Ramond, "Group Theory", CUP, 2010.
+L. Abellanas y A. Galindo, “Espacios de Hilbert”, Eudema, 1987.
+P. Roman, “Some Modern Mathematics for Physicists and other outsiders”, Vol. II, Pergamon, 1975.
+S. Sternberg, “Group Theory and Physics”, Cambridge University Press, 1994.
+R.Y. Rubinstein and D.P. Kroese, “Simulation and Monte Carlo Method”, Wiley, 2008
+P. Dirac, “The principles of Quantum Mechanics”, Oxford Univ. Press.
+N.I. Akhiezer and I.M. Glazman, “Theory of Linear Operators in Hilbert Spaces”, Dover, 1993.
+T. Pang, “An introduction to Computational Physics”, Cambridge, 1997.
+M. Hamermesh, “Group Theory and its Aplications to Physical Problems”, Dover, 1962.
+M.H. Kalos and P.A. Whitlock, ”Monte Carlo methods”, Wiley, 2008.
+H. Georgi, "Lie Algebras in Particle Physics: from Isospin to Unified Theories", CRC Press, 1999.

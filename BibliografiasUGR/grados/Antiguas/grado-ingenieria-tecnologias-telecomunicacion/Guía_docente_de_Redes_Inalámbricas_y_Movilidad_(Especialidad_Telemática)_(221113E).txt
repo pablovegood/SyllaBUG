@@ -1,0 +1,13 @@
+J. Kempf: “Wireless Internet security: architecture and protocols”. Cambridge Univerity Press, 2008.
+W. Stallings: Wireless communications and networks”. Ed. Prentice Hall, 2004.
+A.F. Molisch: “Wireless communications”. Ed. John Wiley & Sons, 2007
+Y. Lin, A. Pang: “Wireless and mobile All-IP networks”. Ed. John Wiley, 2005.
+Y. Kwok, V. Lau: “Wireless Internet an mobile computing: interoperatibility and performance”. Wiley-Interscience, 2007.
+H. Imai, M. Rahman, K. Kobara: “Wireless communications security”. Artech House, 2006.
+W. Lee: “Wireless and cellular telecommunications”. McGraw Hill, 2006.
+Y. Lin, I. Chlamtac: “Wireless and mobile network architectures”. Ed. John Wiley, 2001.
+B. Regis: “Wireless communications and mobile computing”. John Wiley & Sons.
+M. S. Gast: “802.11 wireless networks: the definitive guide”. Ed. O’Reilly, 2005.
+Estándares de IEEE (e.g. IEEE 802.11, IEEE 802.16, etc. http://standards.ieee.org/getieee802/).
+Estándares de 3GPP(e.g. HSPA, LTE, etc.).
+Estándares LPWAN(e.g. LoRaWAN).

@@ -1,0 +1,12 @@
+JEFF JOHNSON.”Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules” Morgan Kaufmann 2010
+MARIO RUBIALES GÓMEZ. “HTML5, CSS3 y Javascript”. Anaya Multimedia 2013
+CASEY REAS , BEN FRY: “Processing: A Programming Handbook for Visual Designers and Artists”. Mit Press 2007
+IRA GREENBERG, DIANNA XU, DEEPAK KUMAR. Processing: Creative Coding and Generative Art in Processing 2”. friendsofED, 2013
+ALFONSO JIMÉNEZ MARÍN, FRANCISCO MANUEL PÉREZ MONTES: “Aprende a programar con Java”. Paraninfo 2012
+FOLEY, J. D. et Al: “Introducción a la Graficación por computadora”. Addison Wesley. 1992
+GALER, M., Horvat, L.; “La Imagen Digital”. Anaya Multimedia. 2006.
+ALAN THORN. "Unity 4 fundamentals:get started at making games with Unity".1st edition. Focal Press, 2014
+DANIEL SHIFFMAN.”Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction”. Morgan Kauffman 2008
+Ivan Korotkin: "Godot 4: Introduction to GDScript: A practical guide to GDScript for Godot 4 with examples and tutorials". ‎ Independently published, 2023.
+Sander Vanhove: "Learning GDScript by Developing a Game with Godot 4: A fun introduction to programming in GDScript 2.0 and game development using the Godot Engine" ‎ Packt Publishing, 2024
+Al Sweigart, "Making Games with Python & Pygame". Disponible en Internet (https://inventwithpython.com/makinggames.pdf)

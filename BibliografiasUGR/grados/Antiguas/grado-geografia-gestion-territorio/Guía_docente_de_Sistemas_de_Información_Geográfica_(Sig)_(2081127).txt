@@ -1,0 +1,23 @@
+BOSQUE SENDRA, J. Sistemas de Información Geográfica. Madrid: Ed. Rialp, 2000.
+BOSQUE SENDRA, J. y MORENO JIMENEZ, A. (Coord.) Sistemas de Información Geográfica y localización de instalaciones y equipamientos. Madrid: Editorial Ra-Ma, 2012.
+COLLADO LATORRE, J.C. y NAVARRO JOVER, J.M. ArcGIS 10: prácticas paso a paso. Valencia: Editorial Universidad Politécnica de Valencia, 2013.
+COMAS, D. y RUIZ, E. Fundamentos de los Sistemas de Información Geográfica. Barcelona: Ed. Ariel Geografía, 1993.
+CORBIN, T.: Learning ArcGIS Pro. Second Edition". Packt Publishing. 2015.
+CORBIN, T.: ArcGIS Pro 3.x Cookbook: Create, Manage, Analyze, maintain, and Visualize Geospatial Data using ArcGIS Pro. Packt Publishing. 2024.ESCOLANO UTRILLA, S. Sistemas de información geográfica: una introducción para estudiantes de Geografía. Zaragoza: Univ. de Zaragoza, 2017.
+GUTIÉRREZ PUEBLA, J. y GOULD, M. SIG: Sistemas de información Geográfica. Madrid: Ed. Síntesis, 2000.
+LAW, M. y COLLINGS, A. Getting to know ArcGIS desktop. Redlands, California: ESRI Press, 2018.
+MOYA FUERO, A., TEMES CORDOVEZ, R.R. (Coord). SIG revolution: ordenación del territorio, urbanismo y paisaje. Madrid: Síntesis, 2020.
+MORENO JIMÉNEZ, A. (Coord). Sistemas y análisis de la información geográfica. Manual de autoaprendizaje con ArcGis. Ed. Madrid: Rama, 2005.
+ORTEGA PÉREZ, E. Sistemas de información geográfica: teoría y práctica. Madrid: Dextra, 2016.
+PEÑA LLOPIS, J. Sistemas de información geográfica aplicados a la gestión del territorio entrada, manejo, análisis y salida de datos espaciales. San Vicente Alicante: Club Universitario, 2010.
+PÉREZ NAVARRO, A. (Coord.). Introducción a los sistemas de información geográfica y geotelemática. Barcelona: Editorial UOC, 2011.
+SANTOS PRECIADO, J.M. Sistemas de Información Geográfica. Madrid: UNED, 2004.
+SANTOS PRECIADO, J.M. Los sistemas de información geográfica vectoriales: el funcionamiento de ArcGis. Madrid: UNED, 2008.
+BARREDO J.L. Sistemas de Información Geográfica y Evaluación Multicriterio en la ordenación del territorio. Madrid: Ed. Rama, 1996.
+BELTRÁN, G. Geolocalización online: la importancia del dónde. Barcelona: Universitat Oberta de Catalunya, 2016.
+BREWER, C.A. Designing better maps: a guide for GIS users. Redlands, CA.: ESRI Press, 2005.
+KRESSE, W. y DANKO, D. Springer Handbook of Geographic information. Suiza: Springer Nature Switzerland AG, 2022.
+JOHNSTON, C.A. Geographic Information Systems in Ecology. Blackwell Science, 1998.
+LONGLEY, P.A., GOODCHILD, M.F., MAGUIRE, D.J. & RHIND, D.W.: Geographic Information Systems and Science. John Wiley & Sons, ltd., 2002.
+MORENO JIMÉNEZ, A., BUZAI, G.D., BAXENDALE (Coord.). Sistemas de información geográfica: aplicaciones en diagnósticos territoriales y decisiones geoambientales. Madrid: Rama, 2017.
+WADE, T. y SOMMER, S. (Eds.). A to Z GIS: an illustrated dictionary of geographic information systems. Redlands, CA: ESRI Press, 2006.

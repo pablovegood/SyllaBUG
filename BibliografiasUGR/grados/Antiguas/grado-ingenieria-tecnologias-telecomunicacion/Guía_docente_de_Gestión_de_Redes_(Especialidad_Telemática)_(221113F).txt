@@ -1,0 +1,6 @@
+Templan, K.: “Communication Networks Management”. Prentice-Hall.
+Rose, M.T.: “The Simple Book: an Introduction to Networking Management”. Prentice-Hall.
+Mauro, Douglas R.:” Essential SNMP”. O'Reilly.
+Stallings, W.: “SNMP, SNMPv2 and CMIP. The Practical Guide to Network Management Standards”. Addison-Wesley.
+Stallings, W.” SNMP, SNMPv2, SNMPv3, and RMON 1 and 2”. Addison Wesley.
+Internet.

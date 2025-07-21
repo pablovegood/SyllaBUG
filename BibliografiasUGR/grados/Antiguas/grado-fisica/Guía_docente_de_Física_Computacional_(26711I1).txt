@@ -1,0 +1,7 @@
+N.J. Giordano y H. Nakanishi, Computational Physics, Prentice Hall (2006).
+T. Pang, An Introduction to Computational Physics, Cambridge University Press (2006).
+J.M. Thijssen, Computational Physics, Cambridge University Press (2000).
+Kinzel y Reents, Physics by Computer, Springer (1998).
+Kooning and Meredith, Computational Physics, Addison Wesley (1990).
+Gibbs, Computation in Modern Physics, World Scientific (1994).
+W.H. Press, S.A. Teukolsky, W.T. Vetterling y B.P. Flannery, Numerical recipes: The art of scientific computing, Cambridge University Press (2007).

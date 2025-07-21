@@ -1,0 +1,11 @@
+BIBLIOGRAFÍA FUNDAMENTAL:
+Cuaderno de Programación (5ª edición). Jose Luis Bernier Villamor y Luis Javier Herrera Maldonado. Editorial Técnica Avicam (Librería Fleming), 2024.
+Problemas de Programación (5ª edición). Jose Luis Bernier Villamor. Editorial Técnica Avicam (Librería Fleming), 2025.
+Fundamentos de la Programación con la STL. Antonio Garrido Carrillo. Editorial Universidad de Granada, 2016.
+Metodología de la Programación. Antonio Garrido Carrillo. Editorial Universidad de Granada, 2016.
+Programación en C++ para ingenieros (2ª edición). Fatps Xhafa, P. Vázquez Alcocer y otros. Thomson, 2006.
+Problemas resueltos de programación en lenguaje C++. J.D. García Sánchez, J.M. Pérez Menor y otros. Thomson, 2004.
+Programación en C++. Luis Joyanes Aguilar. McGraw- Hill Serie Schaum, 2006.
+Cálculo científico con MatLab y Octave. Alfio Qarteroni, Fausto Saleri. Springer Verlag, 2006.
+Fortran 90/95 for Scientists and Engineers. Stephen Chapman. McGraw-Hill, 2003.
+Introducción a la Informática (4a edición). A. Prieto, A. Lloris, J.C. Torres. McGraw-Hill, 2005

@@ -1,0 +1,21 @@
+Canavos, G. (2003). Probabilidad y Estadística: Aplicaciones y Métodos. McGraw-Hill Interamericana, México.
+Cristóbal Cristóbal, J.A. (2003). Lecciones de Inferencia Estadística. Servicio de Publicaciones, Universidad de Zaragoza.
+DeGroot, M.H., Schervish, M.J. (2002). Probability and Statistics. Addison-Wesley, Boston.
+Del Moral, M.J. (2006). Estadística Matemática. Grupo Editorial Universitario. Granada.
+Espejo Miranda, I. y otros. (2002). Inferencia Estadística. Servicio de publicaciones de la Universidad de Cádiz. Cádiz.
+Garthwaite, P.H., Jolliffe, I.T., Jones, B. (2002). Statistical Inference. Oxford University Press.
+Peña, D. (2001). Fundamentos de Estadística. Alianza Editorial S.A., Madrid.
+Quesada, V., Isidoro, A., López, L.A. (1989). Curso y Ejercicios de Estadística. Alhambra, Madrid.
+Rohatgi, V.K., Saleh, A.K. (2008). An Introduction to Probability and Statistics. John Wiley and Sons, New York.
+Ross, S. (2007). Introducción a la Estadística. Reverté S.A., Barcelona.
+Vélez, R. y García, A. (1993). Principios de Inferencia Estadística. UNED, Madrid.
+Cuadras, C.M. (2000). Problemas de Probabilidades y Estadística. Vol. 2: Inferencia Estadística. EUB, Barcelona.
+Del Moral, M.J. y Tapia, J.M. (2006). Técnicas Estadísticas Aplicadas. Grupo Editorial Universitario. Granada.
+Horgan, J.M. (2009). Probability with R. Wiley.
+Ivchenko, G.I., Medvedev, Y.I., Chistyakov, A.V. (1991) Problems in Mathematical Statistics. Mir Publishers, Moscú.
+Lehmann, E.L., Casella, G. (1998). Theory of Point Estimation. Springer-Verlag,New York.
+Lehmann, E.L., Romano, J.P. (2008). Testing Statistical Hypothesis. Springer-Verlag, New York.
+Peña, D. (2000). Estadística. Modelos y Métodos. Vol. 2: Modelos Lineales y Series Temporales. Alianza Editorial, Madrid.
+Shao, J. (2005). Mathematical Statistics: Exercices and Solutions. Springer-Verlag, New York.
+Ugarte, M.D., Militino, A.F., Arnholt, A.T. (2008). Probability and Statistics with R. CRC/Chapman and Hall.
+Verdoy, P.J., Mahiques, J.M., Porcu, E. (2008). Introducción a la Estadística y Probabilidad: Manual de Ejercicios Resueltos. Tilde, Valencia.

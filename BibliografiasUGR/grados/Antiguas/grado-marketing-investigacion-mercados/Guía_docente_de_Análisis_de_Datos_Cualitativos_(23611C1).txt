@@ -1,0 +1,13 @@
+Agresti, A. (1996). An Introduction to Categorical Data Analysis. Wiley.
+Aguilera del Pino, A.M. (2001). Tablas de Contingencia Bidimensionales. Colección Cuadernos de Estadística (15). La muralla- Hespérides.
+Aguilera del Pino, A. M. (2005). Modelización de Tablas de Contingencia Multidimensionales. Colección Cuadernos de Estadística (33). La muralla- Hespérides.
+Andersen, E.B. (1994). The Statistical Analysis of Categorical Data. Springer-Verlag.
+Christensen, R. (1997). Log-Linear Models and Logistic Regression. Springer-Verlag.
+Correa Piñero, A.D. (2002). Análisis Logarítmico Lineal. Colección Cuadernos de Estadística (21). La muralla- Hespérides.
+Everitt, B.S. (1992). The Analysis of Contingency Tables. Chapman-Hall.
+Ruiz-Maya, L., Martín Pliego, F.J., Montero, J.M. y Uriz Tomé, P. (1995). Análisis Estadístico de Encuestas: Datos Cualitativos. Ed. AC.
+Silva Aycaguer, L. y Barroso Utra, I. (2004). Regresión Logística. Hespérides-La Muralla.
+Agresti, A. (1984). Analysis of Ordinal Categorical Data. Wiley.
+Agresti, A. (1990). Categorical Data Analysis. Wiley.
+Bishop, Y.M.M., Fienberg, S.E. y Holland, P.W. (1975). Discrete Multivariate Analysis. MIT.
+Selvin, S. (1996). Statistical Analysis of Epidemiological Data. Oxford University Press.

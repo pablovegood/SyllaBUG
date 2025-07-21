@@ -1,0 +1,13 @@
+Vidal, Ivan, Soto, Ignacio, and Banchs, Albert.Multimedia Networking Technologies, Protocols, and Architectures. Norwood, MA: Artech House, 2019. ProQuest Ebook Central.
+Kuo , Franklin F.; Effelsberg, Wolfgang; Garcia Luna Aceves, J. J.: "Quality of Service in IP Multimedia communications : protocols and applications”, Upple Saddle River, New Jersey : Prentice Hall PTR, 2000.
+Todos los temas:
+C.-H. Wu and J. D. Irwin,Emerging multimedia computer communication technologies. Upper Saddle River, New Jersey: Prentice-Hall PTR, 1998.
+Tema 1:
+Zheng Wang. Internet QoS: Architectures and Mechanisms for Quality of Service (1st. ed.). Morgan Kaufmann Publishers Inc., San Francisco, CA, USA. 2001.
+Tema 2:
+G. Armitage,Quality of service in IP Networks : foundations for a multi-service internet. IN: Macmillan Technical Pub., Indianapolis, 2000.
+Tema 5:
+M. Poikselkä and G. Mayer,The IMS IP multimedia concepts and services, 3rd ed. Chichester, U.K: Wiley, 2009.
+G. Camarillo and M. A. Garcâia-Martâin,The 3G IP multimedia subsystem (IMS) : merging the Internet and the cellular worlds, 3rd ed. Chichester, West Sussex, U.K: Wiley, 2008.
+Práctica 2:
+J. V. Meggelen,Asterisk : the future of telephony. Sebastopol: O’Reilly, 2007.

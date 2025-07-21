@@ -1,0 +1,21 @@
+P. Bolstad: “GIS Fundamentals. A First Text on Geographic Information Systems”. Eider Press 2012.
+K.C. Clarke: “Getting Started with GIS”. Prentice Hall 2003.
+J. Conolly, M. Lake: "Geographical Information Systems in Archaeology". Cambridge Manuals in Archaeology. Cambridge University Press. 2006.
+T. Corbin: "Learning ArcGIS Pro. Second Edition". Packt Publishing. 2015.
+T. Corbin: "ArcGIS Pro 3.x Cookbook: Create, Manage, Analyze, maintain, and Visualize Geospatial Data using ArcGIS Pro. Packt Publishing. 2024.
+M. Gillings, P. Hacıgüzeller, G. Lock (ed.).: "Archaeological Spatial Analysis: A Methodological Guide". Taylor & Francis. 2020.
+M.C. Mínguez, E. Capdevilla Montes (Eds.): "Manual de Tecnologías de la Información Geográfica aplicadas a la Arqueología". Comunidad de Madrid, Museo Arqueológico Regional. Madrid. 2016.
+A. Moreno: "Sistemas y análisis de la información geográfica. Manual de autoaprendizaje con ArcGis". Ed. Rama. Madrid. 2005.
+V. Olaya: "Sistemas de Información Geográfica". ISBN: 978-1-71677-766-0. 2020.http://volaya.github.io/libro-sig/
+C. Ordoñez, R. Martínez: "Sistemas de Información Geográfica. Aplicaciones prácticas con Idrisi 32 al análisis de riesgos naturales y problemáticas medioambientales". Editorial Ra-Ma. Madrid. 2002.
+J. Peña Llopis: "Sistemas de Información Geográfica aplicados a la gestión del Territorio". Editorial Club Universitario. Alicante. 2006.
+J.M. Santos: "Sistemas de Información Geográfica". UNED. Madrid. 2004.
+M. Workboy, M. Duckham: “GIS. A computing perspective”. CRC Press 2004.
+J.L. Barredo: "Sistemas de Información Geográfica y Evaluación Multicriterio en la ordenación del territorio". Ed. Rama. Madrid. 1996.
+J. Bosque: "Sistemas de Información Geográfica". Ed. Rialp. Madrid. 1992
+J. Bosque, A. Moreno: "Sistemas de Información Geográfica y localización de instalaciones y equipamientos". Editorial Ra-Ma. Madrid. 2004.
+D. Comas, E. Ruiz: "Fundamentos de los Sistemas de Información Geográfica". Ed. Ariel Geografía. Barcelona. 1993.
+J. Guimet: "Introducción conceptual a los Sistemas de Información Geográfica". Estudio Gráfico. Madrid. 1992.
+J. Gutierrez, M. Gould: "SIG: Sistemas de información Geográfica". Ed. Síntesis. Madrid. 1994.
+M. Neteler, H. Mitasova: “Open Source GIS: A GRASS GIS Approach”. 2008. Kluwer Academic Publisher
+M. Gould, J. Gutierrez: “SIG: sistemas de información geográfica”. Editorial Síntesis. 2001

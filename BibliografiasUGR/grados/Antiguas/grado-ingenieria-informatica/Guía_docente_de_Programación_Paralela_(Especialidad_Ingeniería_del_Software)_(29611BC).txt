@@ -1,0 +1,8 @@
+G. Barlas. Multicore and GPU Programming. An Integrated Approach. Morgan Kaufmann. 2nd edition. 2022.
+Wen-mei W. Hwu, David B. Kirk, Izzat El Hajj . Programming Massively Parallel Processors, 4th Edition: A Hands-on Approach. Morgan Kaufmann. 2023.
+Thomas Rauber, Gudula Rünger. Parallel Programming: for Multicore and Cluster Systems. Springer Verlag. 3rd edition. 2023.
+John Cheng, Max Grossman, Ty McKercher. Professional CUDA C Programming. John Wiley & Sons, 2014.
+F. Almeida, D. Gimenez, J. M. Mantas, A.M. Vidal . Introduccion a la Programacion Paralela. Paraninfo Cengage Learning, 2008.
+V. Kumar , A. Grama, A. Gupta, G. Karypis. Introduction to Parallel Computing. Benjamin/Cummings Publishing Company, 2003.
+Nicholas Wilt . CUDA Handbook: A Comprehensive Guide to GPU Programming. Addison-Wesley, 2013.
+Tolga soyata. GPU Parallel Program Development Using CUDA. Chapman & Hall/CRC Computational Science. 2018.

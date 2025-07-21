@@ -1,0 +1,54 @@
+J. A. Bergou & M. Hillery, Introduction to the Theory of Quantum Information Processing (Springer, 2013).
+J. A. Bergou & M. Hillery, Introduction to the Theory of Quantum Information Processing (Springer, 2013).
+N. Nielsen & I. L. Chuang, Quantum Computation and Quantum Information (Cambridge UP, 2010).
+N. Nielsen & I. L. Chuang, Quantum Computation and Quantum Information (Cambridge UP, 2010).
+S. Barnett, Quantum Information (Oxford UP, 2009).
+S. Barnett, Quantum Information (Oxford UP, 2009).
+J. Audretsch, Entangled Systems: New Directions in Quantum Physics (Wiley-VCH, 2007)
+J. Audretsch, Entangled Systems: New Directions in Quantum Physics (Wiley-VCH, 2007)
+D. McMahon, Quantum Computing Explained (Wiley, 2008).
+D. McMahon, Quantum Computing Explained (Wiley, 2008).
+J. Preskill, Notas del curso (https://preskill.caltech.edu/ph229/)
+J. Preskill, Notas del curso (https://preskill.caltech.edu/ph229/)
+J. A. Bergou, M. Hillery & M. Saffman, Quantum Information Processing. Theory and Implementation (Springer, 2021).
+J. A. Bergou, M. Hillery & M. Saffman, Quantum Information Processing. Theory and Implementation (Springer, 2021).
+H. T. Williams, Discrete Quantum Mechanics (Morgan & Claypool Publishers, IOP, 2015).
+H. T. Williams, Discrete Quantum Mechanics (Morgan & Claypool Publishers, IOP, 2015).
+D. C. Marinescu, Classical and Quantum Information (Academic Press, 2011).
+D. C. Marinescu, Classical and Quantum Information (Academic Press, 2011).
+E. G. Rieffel, Quantum Computing: A Gentle Introduction (M.I.T. Press, 2011).
+E. G. Rieffel, Quantum Computing: A Gentle Introduction (M.I.T. Press, 2011).
+A. Zagoskin, Quantum Engineering: Theory and Design of Quantum Coherent Structures (Springer, 2011).
+A. Zagoskin, Quantum Engineering: Theory and Design of Quantum Coherent Structures (Springer, 2011).
+A. Renyi, Diary on information theory (Wiley, 1987).
+A. Renyi, Diary on information theory (Wiley, 1987).
+R. P. Feynman, Lectures on Computation (Addison-Wesley, 1996)
+R. P. Feynman, Lectures on Computation (Addison-Wesley, 1996)
+L. Brillouin, Science and Information Theory (Academic Press, 1962).
+L. Brillouin, Science and Information Theory (Academic Press, 1962).
+T. M. Cover, J. A. Thomas, Elements of Information Theory (Wiley, 1991).
+T. M. Cover, J. A. Thomas, Elements of Information Theory (Wiley, 1991).
+N. Abramson, Information Theory and Coding (McGraw-Hill, 1963).
+N. Abramson, Information Theory and Coding (McGraw-Hill, 1963).
+R. G. Gallager, Information Theory and reliable communication (Wiley, 1983).
+R. G. Gallager, Information Theory and reliable communication (Wiley, 1983).
+G. Benenti, G. Casati, & G. Strini, Principles of Quantum Computation and Information, vols. I y II (World Scientific, 2007).
+G. Benenti, G. Casati, & G. Strini, Principles of Quantum Computation and Information, vols. I y II (World Scientific, 2007).
+B. Schumacher & M. D. Westmoreland, Quantum Processes, Systems and Information (Cambridge UP, 2010).
+B. Schumacher & M. D. Westmoreland, Quantum Processes, Systems and Information (Cambridge UP, 2010).
+M. M. Wilde, Quantum Information Theory (Cambridge UP, 2013).
+M. M. Wilde, Quantum Information Theory (Cambridge UP, 2013).
+J. A. Jones & D. Jaksch, Quantum Information, Computation and Communication (Cambridge UP, 2012).
+J. A. Jones & D. Jaksch, Quantum Information, Computation and Communication (Cambridge UP, 2012).
+V. Vedral, Introduction to Quantum Information Science (Oxford UP, 2006).
+V. Vedral, Introduction to Quantum Information Science (Oxford UP, 2006).
+G. Jaeger, Quantum Information: An Overview (Springer, 2007).
+G. Jaeger, Quantum Information: An Overview (Springer, 2007).
+A. Albert et al, Quantum Information. An Introduction to Basic Theoretical Concepts and Experiments (Springer, 2001).
+A. Albert et al, Quantum Information. An Introduction to Basic Theoretical Concepts and Experiments (Springer, 2001).
+W. H. Steeb, Problems & Solutions in Quantum Computing & Quantum Information (World Scientific, 2004).
+W. H. Steeb, Problems & Solutions in Quantum Computing & Quantum Information (World Scientific, 2004).
+E. Desurvire, Classical and Quantum Information Theory: An Introduction for the Telecom Scientist (Cambridge UP, 2011).
+E. Desurvire, Classical and Quantum Information Theory: An Introduction for the Telecom Scientist (Cambridge UP, 2011).
+I. Bengtsson & C. Zyczkowski, Geometry of Quantum States: An Introduction to Quantum Entanglement (Cambridge UP, 2006).
+I. Bengtsson & C. Zyczkowski, Geometry of Quantum States: An Introduction to Quantum Entanglement (Cambridge UP, 2006).

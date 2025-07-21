@@ -1,0 +1,7 @@
+MARTÍN ANDRÉS, A. y LUNA DEL CASTILLO, J.D. "Bioestadística para las Ciencias de la Salud (+)". Ediciones Norma-Capitel. 1ª Edición (5ª). Madrid, 2004.
+1.AGRESTI, A. (2002). "Categorical Data Analysis". 2ª Edition. John Wiley and Sons.
+2.FLEISS, J.L. (2003). "Statistical Methods for Rates and Proportions". 3ª Edición. Wiley.
+3.SAHAI, H. and KHURSHID, A. (1996). "Statistics in Epidemiology (Methods, Techniques and Applications)". CRC Press.
+4.SHEING-CHUNG CHOW y JEN-PEI LIU. Design and Analysis of Bioavailability and Bioequivalence Studies. Ed. Marcel Dekker. INC (1992).
+5. DerSimonian R, Laird N. Meta-analysis in clinical trials. Control Clin Trials 1986; 7: 177-188.
+6. Chen, D. G. D., & Peace, K. E. (2010). "Clinical trial data analysis using R." CRC Press.

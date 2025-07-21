@@ -1,0 +1,10 @@
+M.A. Pérez García. “Instrumentación Electrónica” Paraninfo, 2014
+M.A. Pérez García. “Instrumentación Electrónica: 230 problemas resueltos” Ibergarceta, 2012
+Hojas características de amplificadores, filtros, convertidores y sensores
+M.A. Pérez García et al. “Instrumentación Electrónica” Thomson, 2004
+R.Pallás Areny. "Sensores y Acondicionadores de Señal", 2&ordf;Ed., Marcombo-Boixareu, 2001
+Pallàs Areny, R., "Instrumentos electrónicos básicos", Ed. Marcombo, Barcelona, 2006.
+S. Franco. “Design with operational amplifier and analog integrated circuits”, McGraw-Hill, 2005
+P.H.Sydenham, N.H.Hancock y R.Thorn. "Introduction to Measurement Science and Engineering", Wiley, 1989
+R. Pallás Areny, "Adquisición y Distribución de Señales", Marcombo-Boixareu, 2005
+A.J. Diefenderfer, “Principles of Electronic Instrumentation 3rd edition” Brooks/Cole 1997

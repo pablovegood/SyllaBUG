@@ -1,0 +1,13 @@
+KE-LIN DU, M.N.S. SWAMY “Wireless Communications Systems. From RF subsystems to 4G enabling Technologies”, Cambridge University Press, 2010
+GOLDSMITH, “Wireless Communications”, Cambridge University Press, 2005
+T.K. SARKAR, et al. “History of Wireless”, Whiley Interscience, 2006
+A.F. MOLISCH, “Wireless Communications”, 2nd Ed Whiley, 2011
+P.S. RAPPAPORT, “Wireless Communications. Principles and practice”, 2nd Ed. Prentice-Hall, 2002
+J.M. HERNANDO RÁBANOS, “Comunicaciones Móviles”, Centro de Estudios Ramón Areces, 2004.
+MANUALES
+MATLAB Getting User’s Guide, the MathWorks, Inc., 1984-2009
+SIGNAL PROCESSING TOOLBOX User’s Guide, the MathWorks, Inc., 1988-2009
+COMMUNICATIONS TOOLBOX User’s Guide, the MathWorks, Inc., 1996-2009
+SIMULINK 7 User’s Guide, the MathWorks, Inc., 1990-2009
+SIGNAL PROCESSING BLOCKSET User’s Guide, the MathWorks, Inc., 1995-2009
+COMMUNICATIONS BLOCKSET User’s Guide, the MathWorks, Inc., 2001-2009

@@ -1,0 +1,11 @@
+Duque-Calvache, R. y Torrado, J.M. (En prensa).Guía práctica para iniciarse en el análisis de datos en ciencias sociales.
+Ritchey, F. J. (2008).Estadística para las Ciencias Sociales.Madrid: Mc Graw Hill
+Torrado, J.M. (2024).Introducción a R para ciencias sociales (RStudio). Curso Youtube:https://www.youtube.com/watch?v=tVvkPSrGka8&list=PLT0Z2BsOrUDPRvMb0l089m4p9o6loOnvd
+Vela Torres, M., Rodríguez Monge, A. y Puertas Cañaveral, I. (2010).Introducción al Análisis de Datos.Proyecto Sur.
+Boccardo-Bosono, G. y Ruiz-Bruzzone, F. (2019).RStudio para Estadística Descriptiva en Ciencias Sociales.https://bookdown.org/gboccardo/manual-ED-UCH/
+Bolin, J. H. (2022).Regression Analysis in R. A Comprehensive View for the Social Sciences.New York: Champman and Hall/CRC.https://doi.org/10.1201/9780429295843
+Bouso-Freijo, J. (2018).El paquete estadístico R.Madrid: Centro de Investigaciones Sociológicas.https://libreria.cis.es/libros/el-paquete-estadistico-r/9788474767773/
+García-Pérez, A. (2013).Estadística básica con R.Madrid: Universidad Nacional de Educación a Distancia.
+Goh Ming Hui, E. (2019).Learn R for Applied Statistics.Singapur: Apress.https://doi.org/10.1007/978-1-4842-4200-1
+Paladino, M. (2018).R para Ciencias Sociales.https://martinpaladino.github.io/rsociales/
+Schumacker, R. y Tomek, S. (2013).Understanding Statistics Using R.London: Springer.https://link.springer.com/book/10.1007/978-1-4614-6227-9

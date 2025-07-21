@@ -1,0 +1,13 @@
+Anderson, T.W. (2003, 3ª ed.). An Introduction to Multivariate Statistical Analysis. John Wiley & Sons.
+Fujikoshi, Y., Ulyanov, V.V. y Shimizu, R. (2010). Multivariate Statistics. High-Dimensional and Large-Sample Approximations. John Wiley & Sons.
+Härdle, W.K., Simar, L. y Fengler, M.R. (2024, 6ª ed.). Applied Multivariate Statistical Analysis. Springer.
+Izenman, A.J. (2013). Modern Multivariate Statistical Techniques. Regression, Classification, and Manifold Learning. Springer.
+Johnson, R.A. y Wichern, D.W. (1988). Applied Multivariate Analysis. Prentice Hall International, Inc.
+Rencher, A.C. y Christensen, W.F. (2012, 3ª ed.). Methods of Multivariate Analysis. John Wiley & Sons.
+Timm, N.H. (2002). Applied Multivariate Analysis. Springer.
+Tong, Y.L. (1990). The Multivariate Normal Distribution. Springer.
+Baillo, A. y Grané, A. (2008). 100 Problemas Resueltos de Estadística Multivariante. Delta Publicaciones.
+Hair, J., Anderson, R., Tatham, R. y Black, W. (2000, 5ª ed.). Análisis Multivariante. Prentice Hall.
+Härdle, W.K. y Hlávka, Z. (2015, 2ª ed.). Multivariate Statistics. Exercises and Solutions. Springer.
+Tusell, F. (2016). Análisis Multivariante. (http://www.et.bs.ehu.es/~etptupaf/nuevo/ficheros/estad4/multi.pdf)
+Zelterman, D. (2015). Applied Multivariate Statistics with R. Springer.

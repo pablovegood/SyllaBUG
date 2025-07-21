@@ -1,0 +1,8 @@
+S. Russell, P. Norvig, Artificial intelligence: a modern approach, Fourth Edition, Pearson Series, 2022.
+N. Nilsson, Inteligencia Artificial: una nueva síntesis, McGraw-Hill Interamericana de España, 2005.
+J. Pearl, Heuristics, Addison-Wesley, 1985.
+Robin R. Murphy, Introduction to AI Robotics, The MIT Press 2000.
+Millington, Ian, John Funge, y John Funge. Artificial Intelligence for Games, CRC Press, 2018.
+Yannakakis, Georgios N., y Julian Togelius. Artificial Intelligence and Games. Cham, Springer, 2018.
+Krzysztof Apt, Nark Wallace, Constraint Logic Programming using ECLiPSe, Cambridge University Press, 2007.
+M. Ghallab, D. Nau, y P. Traverso. Automated Planning: Theory and Practice. Morgan Kaufmann, 2004.

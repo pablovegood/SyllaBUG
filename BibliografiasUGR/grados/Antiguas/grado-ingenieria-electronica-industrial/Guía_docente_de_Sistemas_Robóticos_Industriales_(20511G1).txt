@@ -1,0 +1,9 @@
+A. Barrientos, L.I. Peñin, C. Balaguer y R. Aracil. "Fundamentos de Robótica". McGraw Hill, 1997.
+J. Craig. "Robótica". Pearson Educación, 2006
+P. Corke. "Robotics, vision and control". Berlin: Springer, 2013
+K. M. Lynch, y F. C. Park, F. C. "Modern robotics". Cambridge University Press, 2017.
+B. Siciliano, O. Khatib y T. Kröger,(Eds.). "Springer handbook of robotics". Berlin: springer, 2008.
+A. Ollero. "Robótica. Manipuladores y robots móviles". Marcombo-Boixareu editores. 2001.
+J. Craig. "Introduction to Robotics. Mechanics and Control". Addison Wesley, 2003.
+F. Torres, J. Pomares, P. Gil, S.T. Puente y. R. Aracil "Robots y Sistemas Sensoriales". Prentice Hall. 2005.
+K.S. Fu, R.C. González y C.S.G. Lee. "Robótica, Control, Detección, Visión e Inteligencia". McGraw-Hill Interamericana, 1994.
