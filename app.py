@@ -8,7 +8,7 @@ app = Flask(__name__)
 BASE_PATH = os.path.join("BibliografiasUGR", "grados", "Comparativas")
 
 bibliotecas = [
-    "B. Filosofía y Letras A", "B. Hospital Real", "B. IACT", "B. IAG", "B. Informática y Telecom.",
+    "B. Filosofía y Letras A", "B. Informática y Telecom.",
     "B. Institutos", "B. Melilla", "B. PTS", "B. Políticas y Sociolog.", "B. Politécnica",
     "B. Psicología y Letras B", "B. S. Jerónimo", "B. Saramago", "B. Traductores e Intérpretes",
     "Depósito - Biblioteca Préstamo", "CBUA Servicios Centrales BUG", "B. Archivo",
@@ -74,4 +74,4 @@ def normalizar_nombre(url):
     return url.strip().split("/")[-1].lower().replace("_", "-").replace("–", "-").replace(" ", "-")
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", port=10000)
