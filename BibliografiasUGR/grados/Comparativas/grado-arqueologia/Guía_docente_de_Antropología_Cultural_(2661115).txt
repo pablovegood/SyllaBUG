@@ -1,6 +1,17 @@
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
-Total en antigua: 26
+📅 Comparativa entre: 2025-07-21 (antiguo) y 2025-07-21 (nuevo)
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]
+Total en antigua: 16
 Total en nueva: 26
-Recursos añadidos (0):
+Recursos añadidos (10):
+• Bourdieu, P. y Wacquant, L. 1995. Respuestas. Por una antropología reflexiva. México: Grijalbo.
+• Chalmers, A. F. 1984. ¿Qué es esa cosa llamada ciencia? Madrid: Siglo XXI.
+• Hacking, I. 2001. ¿La construcción social de qué? Barcelona: Ediciones Paidós.
+• Hammersley, M. 1992. “Deconstructing the qualitative-quantitative divide”. En Brannen, J. (Ed.). Mixing methods: qualitative and quantitative methods. Hants, UK: Avebury.
+• Harris, M. 1981. Introducción a la antropología general. Madrid: Alianza Universidad.
+• Miller, B. 2016. Antropología Cultural. Madrid: Pearson.
+• Prat, J, y Martínez, A. Eds. 1996. Ensayos de antropología cultural. Ariel: Barcelona.
+• Prat, J. Martínez, U. Contreras, J. y Moreno, I. 1991. Antropología de los pueblos de España. Madrid: Taurus.
+• Rossi, I & O'Higgins. 1981. Teorías de la cultura y Métodos Antropológicos. Barcelona: Anagrama.
+• Werner, O. y Schoepfle, G.M. 1987. Systematic Fieldwork: Foundations of Ethnography and Interviewing (vol. 1). London: Sage.
 
 Recursos eliminados (0):

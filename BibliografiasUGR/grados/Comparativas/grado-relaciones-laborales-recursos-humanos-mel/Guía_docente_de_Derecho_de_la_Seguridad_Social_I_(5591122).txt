@@ -1,8 +1,7 @@
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
-Total en antigua: 2
+📅 Comparativa entre: 2025-07-21 (antiguo) y 2025-07-21 (nuevo)
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+Total en antigua: 4
 Total en nueva: 4
-Recursos añadidos (2):
-En cada tema, se contiene una (elemental en este caso) referencia a textos normativos que resultan de aplicación. La referencia se limita por razones pedagógicas a los artículos correspondientes a textos de Ley o normas con fuerza de Ley. Durante las explicaciones se usarán y se hará referencia expresa a los textos reglamentarios que sean de necesaria utilización.
-HERNANDEZ, VILCHEZ PORRAS, ÁLVAREZ ALCOLEA, DE VAL TENA, GUTIÉRREZ PÉREZ: «Lecciones de Seguridad Social», edit. Tecnos, Madrid. Última edición.
+Recursos añadidos (0):
 
 Recursos eliminados (0):

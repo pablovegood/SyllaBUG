@@ -9,11 +9,10 @@ BASE_PATH = os.path.join("BibliografiasUGR", "grados", "Comparativas")
 
 bibliotecas = [
     "B. Filosofía y Letras A", "B. Informática y Telecom.",
-    "B. Institutos", "B. Melilla", "B. PTS", "B. Políticas y Sociolog.", "B. Politécnica",
+    "B. Melilla", "B. PTS", "B. Políticas y Sociolog.", "B. Politécnica",
     "B. Psicología y Letras B", "B. S. Jerónimo", "B. Saramago", "B. Traductores e Intérpretes",
-    "Depósito - Biblioteca Préstamo", "CBUA Servicios Centrales BUG", "B. Archivo",
-    "B. Arquitectura", "B. Bellas Artes", "B. CEAMA", "B. CLM", "B. Centro", "B. Ceuta",
-    "B. Ciencias", "B. Colegio Máximo", "B. Confucio", "B. Deporte", "B. Derecho",
+    "B. Arquitectura", "B. Bellas Artes", "B. Ceuta",
+    "B. Ciencias", "B. Colegio Máximo", "B. Deporte", "B. Derecho",
     "B. Económicas y Empres.", "B. Educación", "B. Farmacia"
 ]
 

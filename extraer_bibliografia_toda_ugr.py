@@ -99,7 +99,13 @@ def extraer_bibliografia_desde_html(html):
                         bibliografia.append(elem.get_text(strip=True))
     return bibliografia
 
-def comparar_bibliografias(antigua, nueva):
+def obtener_fecha_archivo(ruta):
+    if os.path.exists(ruta):
+        timestamp = os.path.getmtime(ruta)
+        return datetime.fromtimestamp(timestamp).strftime("%Y-%m-%d")
+    return "¿?"
+
+def comparar_bibliografias(antigua, nueva, fecha_antigua, fecha_nueva):
     set_antigua = set(sorted(antigua))
     set_nueva = set(sorted(nueva))
     añadidos = list(set_nueva - set_antigua)
@@ -109,13 +115,14 @@ def comparar_bibliografias(antigua, nueva):
     porcentaje_cambio = diferencias / total_union if total_union else 0
 
     resumen = [
+        f"📅 Comparativa entre: {fecha_antigua} (antiguo) y {fecha_nueva} (nuevo)",
         f"📊 Porcentaje estimado de cambio: {int(porcentaje_cambio * 100)}% [{'█' * int(porcentaje_cambio * 10)}{'░' * (10 - int(porcentaje_cambio * 10))}]",
         f"Total en antigua: {len(set_antigua)}",
         f"Total en nueva: {len(set_nueva)}",
         f"Recursos añadidos ({len(añadidos)}):"
-    ] + sorted(añadidos) + [
+    ] + [f"• {r}" for r in sorted(añadidos)] + [
         f"\nRecursos eliminados ({len(eliminados)}):"
-    ] + sorted(eliminados)
+    ] + [f"• {r}" for r in sorted(eliminados)]
 
     return "\n".join(resumen), porcentaje_cambio
 
@@ -210,7 +217,9 @@ async def procesar_url(session, base_url):
         if os.path.exists(ruta_antigua):
             with open(ruta_antigua, "r", encoding="utf-8") as f:
                 antigua = [line.strip() for line in f.readlines()]
-            comparativa, porcentaje_cambio = comparar_bibliografias(antigua, bibliografia)
+            fecha_antigua = obtener_fecha_archivo(ruta_antigua)
+            fecha_nueva = obtener_fecha_archivo(ruta_nueva)
+            comparativa, porcentaje_cambio = comparar_bibliografias(antigua, bibliografia, fecha_antigua, fecha_nueva)
 
             with open(ruta_comparativa, "w", encoding="utf-8") as f:
                 f.write(comparativa)
@@ -227,6 +236,7 @@ async def procesar_url(session, base_url):
     except Exception as e:
         print(f"⚠️ Error procesando {url}: {e}")
         return None
+
 
 async def guardar_asignaturas_cambiadas():
     if any(asignaturas_por_cambio.values()):
