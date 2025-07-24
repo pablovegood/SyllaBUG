@@ -64,7 +64,8 @@ def index():
 
         elif seleccion:
             mensaje = f"📚 Has seleccionado: {seleccion}"
-            grados_filtrados = df[df['Biblioteca'].fillna('').str.contains(rf'\b{seleccion}\b', case=False, na=False, regex=True)]
+            grados_filtrados = df[df['Biblioteca'].fillna('').str.split(r'\s*\+\s*').apply(lambda bibl_list: seleccion in bibl_list)]
+
 
     return render_template("index.html", bibliotecas=bibliotecas, mensaje=mensaje, feedback=feedback,
                            seleccion=seleccion, grados=grados_filtrados, contenido=contenido)
