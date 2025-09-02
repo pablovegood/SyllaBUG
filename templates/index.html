@@ -2,25 +2,30 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Selector de Biblioteca UGR</title>
+    <title>SyllaBUG: Comparador de Guías Docentes</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-    <style>
-        .contenido-comparativo pre {
-            white-space: pre-wrap;
-            word-wrap: break-word;
-            overflow-wrap: break-word;
-            max-width: 100%;
-            font-family: monospace;
-            background-color: #f8f8f8;
-            padding: 1em;
-            border-radius: 6px;
-            overflow-x: auto;
-        }
-    </style>
 </head>
 <body>
 <div class="container">
-    <h1>¿En qué biblioteca trabaja?</h1>
+
+    <!-- Fila superior: logo izquierda + info derecha -->
+    <div class="topbar">
+        <img class="logo-ugr" src="{{ url_for('static', filename='UGR.png') }}" alt="Universidad de Granada" loading="lazy">
+        <button type="button"
+                class="info-btn"
+                id="infoBtn"
+                aria-haspopup="dialog"
+                aria-controls="infoModal"
+                aria-label="Información de uso">i</button>
+    </div>
+
+    <!-- Cabecera principal centrada -->
+    <div class="header">
+        <h1>SyllaBUG: Comparador de Guías Docentes</h1>
+    </div>
+
+    <!-- Cabecera secundaria -->
+    <h2 class="subtitle">¿En qué biblioteca trabaja?</h2>
 
     <!-- Formulario para seleccionar biblioteca -->
     <form method="POST">
@@ -57,16 +62,15 @@
                             <td><input type="checkbox" name="grados_seleccionados" value="{{ g.URL }}"></td>
                             <td>{{ g.Grado }}</td>
                             <td>{{ g.Centro }}</td>
-                            <td><a href="{{ g.URL }}" target="_blank">Ver</a></td>
+                            <td><a href="{{ g.URL }}" target="_blank" rel="noopener noreferrer">Ver</a></td>
                         </tr>
                     {% endfor %}
                     </tbody>
                 </table>
                 <button type="submit">Mostrar contenidos</button>
             </form>
-        {% else %}
-            <p class="no-resultados">⚠️ No hay grados asociados a esta biblioteca.</p>
         {% endif %}
+        {# Nota: si no hay grados, NO mostramos mensaje aquí #}
     {% endif %}
 
     {% if feedback %}
@@ -79,5 +83,71 @@
         </div>
     {% endif %}
 </div>
+
+<!-- Backdrop y Modal de información -->
+<div class="modal-backdrop" id="modalBackdrop" aria-hidden="true"></div>
+<div class="modal" id="infoModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-header">
+            <h2 class="modal-title" id="modalTitle">Cómo usar esta herramienta</h2>
+            <button type="button" class="modal-close" id="modalClose" aria-label="Cerrar">Cerrar</button>
+        </div>
+        <div class="modal-body">
+            <p><strong>Nota:</strong> El programa que ven a continuación se encuentra en fase de prueba por lo que podrían darse errores o incongruencias. Para reportar cualquier incidencia pueden comunicarse con el siguiente correo: <a href="mailto:pablog.alvarado22@gmail.com">pablog.alvarado22@gmail.com</a>.</p>
+
+            <h3>Funcionamiento</h3>
+            <ol>
+                <li>Seleccione la biblioteca en la que trabaja.</li>
+                <li>El programa desplegará todos los grados impartidos en la facultad en la que se encuentra la biblioteca seleccionada.</li>
+                <li>Seleccione el grado o los grados de los que desee actualizar las guías docentes y haga click en “Mostrar contenidos”.</li>
+                <li>El programa mostrará una comparativa entre la guía docente del curso actual 2025-2026 y el anterior 2024-2025.</li>
+            </ol>
+
+            <h3>Qué muestran las comparativas</h3>
+            <ul>
+                <li>Aquellos recursos que fueron eliminados con respecto al año anterior.</li>
+                <li>Los recursos que siguen igual.</li>
+                <li>Los recursos que siguen igual, pero con una nueva edición.</li>
+                <li>Aquellos recursos que fueron añadidos con respecto al año anterior.</li>
+            </ul>
+
+            <p><strong>Importante:</strong> Debido a la diferencia de formatos entre las guías docentes del año anterior (extraídas de las guías docentes firmadas en formato PDF) y las guías docentes del año actual (extraídas directamente de los textos en formato HTML de la página web actual de las guías docentes), si hubiesen incongruencias, por favor notifíquelas al correo electrónico mencionado anteriormente.</p>
+        </div>
+    </div>
+</div>
+
+<!-- Script para abrir/cerrar el modal -->
+<script>
+(function () {
+    const btn = document.getElementById('infoBtn');
+    const modal = document.getElementById('infoModal');
+    const backdrop = document.getElementById('modalBackdrop');
+    const closeBtn = document.getElementById('modalClose');
+
+    function openModal() {
+        modal.setAttribute('aria-hidden', 'false');
+        backdrop.setAttribute('aria-hidden', 'false');
+        document.body.classList.add('modal-open');
+        closeBtn.focus();
+    }
+
+    function closeModal() {
+        modal.setAttribute('aria-hidden', 'true');
+        backdrop.setAttribute('aria-hidden', 'true');
+        document.body.classList.remove('modal-open');
+        btn.focus();
+    }
+
+    btn.addEventListener('click', openModal);
+    closeBtn.addEventListener('click', closeModal);
+    backdrop.addEventListener('click', closeModal);
+
+    document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' && modal.getAttribute('aria-hidden') === 'false') {
+            closeModal();
+        }
+    });
+})();
+</script>
 </body>
 </html>

@@ -3,14 +3,14 @@ import pandas as pd
 import os
 import re
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder="templates", static_folder="static")
 
 BASE_PATH = os.path.join("BibliografiasUGR", "grados", "Comparativas")
 
 bibliotecas = [
     "B. Filosofía y Letras A", "B. Informática y Telecom.",
     "B. Melilla", "B. PTS", "B. Políticas y Sociolog.", "B. Politécnica",
-    "B. Psicología y Letras B", "B. S. Jerónimo", "B. Saramago", "B. Traductores e Intérpretes",
+    "B. Psicología y Letras B", "B. S. Jerónimo", "B. Traductores e Intérpretes",
     "B. Arquitectura", "B. Bellas Artes", "B. Ceuta",
     "B. Ciencias", "B. Colegio Máximo", "B. Deporte", "B. Derecho",
     "B. Económicas y Empres.", "B. Educación", "B. Farmacia"
@@ -63,9 +63,10 @@ def index():
             feedback = f"✅ Se han cargado {len(nombres_carpetas)} grado(s)."
 
         elif seleccion:
-            mensaje = f"📚 Has seleccionado: {seleccion}"
-            grados_filtrados = df[df['Biblioteca'].fillna('').str.split(r'\s*\+\s*').apply(lambda bibl_list: seleccion in bibl_list)]
-
+            mensaje = f"📚 Ha seleccionado: {seleccion}"
+            grados_filtrados = df[
+                df['Biblioteca'].fillna('').str.split(r'\s*\+\s*').apply(lambda bibl_list: seleccion in bibl_list)
+            ]
 
     return render_template("index.html", bibliotecas=bibliotecas, mensaje=mensaje, feedback=feedback,
                            seleccion=seleccion, grados=grados_filtrados, contenido=contenido)
@@ -74,4 +75,4 @@ def normalizar_nombre(url):
     return url.strip().split("/")[-1].lower().replace("_", "-").replace("–", "-").replace(" ", "-")
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=10000)
+    app.run(host="0.0.0.0", port=10000, debug=True)
