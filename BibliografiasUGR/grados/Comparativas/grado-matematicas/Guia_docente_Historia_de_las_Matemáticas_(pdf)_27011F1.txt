@@ -1,0 +1,47 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Historia_de_las_Matemáticas_(pdf)_27011F1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Romero, Geometría y Relatividad: una introducción a la geometría básica de la teoría, Rev. Mat. Epsilon, 14 (1998), 305-320
+= B.L. van der Waerden, A History of Algebra, Springer-Verlag, 1985
+= C. B. Boyer, Historia de la matemática, Alianza Universidad Textos, 1986
+= C. Coello Coello. Breve historia de la computación y sus pioneros / Carlos A. Coello Coello. Fondo de Cultura Económica. 2003
+= D.J. Struik, A concise history of mathematics, fourth revised edition, Dover, 1987
+= E. J. Borowski y J.M. Borwein, Collins Dictionary Mathematics, Harper Collings, 2002
+= E. T. Bell, Men of mathematics, Pelican books, 1953
+= F. Brauer y C. Castillo-Chávez, Mathematical Models in Population Biology and Epidemiology, SpringerVerlag, 2001
+= F.N. David, Games, Gods and Gambling: A history of Probability and Statistical Ideas, Dover, 1998
+= I. Stewart, Historia de las matemáticas: en los últimos 10.000 años, Ed. Crítica, 2008
+= J.P. Tignol, Galois' Theory of Algebraic Equations, World Scientific, 2001
+= Jean-Paul Collette. Historia de Las Matematicas I y II. Ed. s. XXI 1985
+= K. Rúbnikov, Historia de la matemática, Editorial Mir, 1987
+= L. Corry, Modern Algebra and the Rise of Mathematical Structures, 2nd revised ed., Birkhäuser, 2004
+= M. Davis, The Undecidable: Basic Papers on Undecidable Propositions, Unsolvable Problems and Computable Functions, Dover, 2004
+= M. Kiernan, The development of Galois theory from Lagrange to Artin, Archive for History of Exact Sciences, 8, 40-154. 1971
+= M. Klein, El pensamiento matemático desde la antigüedad hasta los tiempos modernos, Editorial Alianza, 1992
+= M. Kline, Mathematical thought thought from ancient to modern times, Oxford University Press, 1972
+= N. Bourbaki. Elementos de Historia de las Matemática. Alianza Ed. 1976
+= P. Dombrowsky, 150 years after Gauss, “Disquisitiones generales circa superficies curvas”, Asterisque, 62, 1979
+= R. L. Faber, Foundations of Euclidean and non-Euclidean Geometry, Pure and Appl. Math., 73, Dekker, 1983
+= S. Russel y P. Norvig, Inteligencia Artificial: un enfoque moderno, Pearson, 2004
+= S. W. Hawking, Dios creó los números, Los descubrimientos matemáticos que cambiaron la Historia, Crítica, 2009
+= T. Mitchell, Machine Learning, McGraw Hill, 1997
+= W. R. Knorr, The Ancient Tradition of Geometric Problems, Dover, 1993
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ 16.F. Klein, Erlangen Program, http://math.ucr.edu/home/baez/erlangen/ 17.I. Kleiner, A history of abstract algebra, Birkhäuser 2007  →  F. Klein, Erlangen Program, http://math.ucr.edu/home/baez/erlangen/
+~ 12.R. L. Faber, Foundations of Euclidean and non-Euclidean Geometry, Pure and Appl  →  R. L. Faber, Foundations of Euclidean and non-Euclidean Geometry, Pure and Appl. Math., 73, Dekker, 1983
+~ 27.B.L. van der Waerden, Hamilton’s Discovery of Quaternions, Math. Mag. 49, 227-234  →  B.L. van der Waerden, Hamilton’s Discovery of Quaternions, Math. Mag. 49, 227-234. 1976
+~ 6.C. Coello Coello. Breve historia de la computación y sus pioneros / Carlos A. Coello Coello  →  C. Coello Coello. Breve historia de la computación y sus pioneros / Carlos A. Coello Coello. Fondo de Cultura Económica. 2003
+
+✅ Recursos añadidos:
+------------------------------
++ I. Kleiner, A history of abstract algebra, Birkhäuser 2007
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

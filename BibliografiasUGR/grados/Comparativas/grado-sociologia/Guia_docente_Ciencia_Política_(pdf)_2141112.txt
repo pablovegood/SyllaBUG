@@ -1,0 +1,33 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Ciencia_Política_(pdf)_2141112
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= BATLLE, Albert (Comp.): Diez textos básicos de Ciencia Política. Barcelona, Ariel, 1994. CPS/32 DIE die
+= MOLINA, Ignacio, y DELGADO Santiago: Conceptos fundamentales de Ciencia Política, Madrid, Alianza, 1998. CPS/32 MOL con
+= SODARO, Michael J.: Política y Ciencia Política. Una introducción. Madrid. McGraw-Hill 2006 CPS/32SOD pol
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ ALCÁNTARA SÁEZ, Manuel: El oficio de político. Madrid, Tecnos, 2012.CPS/328.18 ALC ofi BEAR, Mary. Mujeres y poder. Editorial Crítica 2018. CPS/396 BEA muj CANALES, José Manuel (Ed.): Introducción a la Ciencia Política. Madrid, Universitas, 2014 CPS/32 CAN int  →  BEAR, Mary. Mujeres y poder. Editorial Crítica 2018. CPS/396 BEA muj
+~ Madrid, Tecnos, 2012, CPS/321 NOH int PASQUINO, Gianfranco, y otros: Manual de Ciencia Política. Madrid, Alianza Universidad, 1996. CPS/32 MAN man  →  PASQUINO, Gianfranco, y otros: Manual de Ciencia Política. Madrid, Alianza Universidad, 1996. CPS/32 MAN man
+~ NOHLEN, Dieter, ¿Cómo estudiar Ciencia Política?: una introducción de trece lecciones  →  NOHLEN, Dieter, ¿Cómo estudiar Ciencia Política?: una introducción de trece lecciones. Madrid, Tecnos, 2012, CPS/321 NOH int
+~ URIARTE, Edurne: Introducción a la Ciencia Política. Madrid, Tecnos, 2002. CPS/321 URI VALLÈS, Josep María y MARTÍ, Salvador: Ciencia Política: un manual. Barcelona, Ariel, 2020. CPS/32 VAL cie ZAPATA-BARRERO, Ricard: Conceptos políticos en el contexto español. 2007 Síntesis CPS/32 ZAP ANDUIZA PEREA, Eva, Ismael CRESPO y Mónica MÉNDEZ LAGO: Metodología de la Ciencia Política. Madrid, CIS, 1999  →  VALLÈS, Josep María y MARTÍ, Salvador: Ciencia Política: un manual. Barcelona, Ariel, 2024. CPS/32 VAL cie 2024
+~ LOIS GONZÁLEZ, Marta y ALONSO, Alba (coords.): Ciencia Política con perspectiva de género. Madrid, Akal, 2014. CPS/396 LOI cie MACKENZIE, Ian: Political Concepts. Edinburgh University Press, 2005. CPS/ 32 MAC pol MARSCH, David y STOKER, Gerry: Teoría y métodos de la Ciencia Política. Madrid, Alianza Universidad, 1997. CPS/32 TEO teo  →  MARSCH, David y STOKER, Gerry: Teoría y métodos de la Ciencia Política. Madrid, Alianza Universidad, 1997. CPS/32 TEO teo
+
+✅ Recursos añadidos:
+------------------------------
++ ALCÁNTARA SÁEZ, Manuel: El oficio de político. Madrid, Tecnos, 2012.CPS/328.18 ALC ofi
++ ANDUIZA PEREA, Eva, Ismael CRESPO y Mónica MÉNDEZ LAGO: Metodología de la Ciencia Política. Madrid, CIS, 2009. CPS/32 AND met
++ CANALES, José Manuel (Ed.): Introducción a la Ciencia Política. Madrid, Universitas, 2014 CPS/32 CAN int
++ LOIS GONZÁLEZ, Marta y ALONSO, Alba (coords.): Ciencia Política con perspectiva de género. Madrid, Akal, 2014. CPS/396 LOI cie
++ MACKENZIE, Ian: Political Concepts. Edinburgh University Press, 2005. CPS/ 32 MAC pol
++ MAZZUCA, Sebastián: Latecomer State Formation. Political Geography and Capacity Failure in Latin America, 2021. Yale University Press 980 MAZ lat
++ URIARTE, Edurne: Introducción a la Ciencia Política. Madrid, Tecnos, 2002. CPS/321 URI int
++ ZAPATA-BARRERO, Ricard: Conceptos políticos en el contexto español. 2007 Síntesis CPS/32 ZAP
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

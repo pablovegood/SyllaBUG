@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Informática_Gráfica_(pdf)_2961133
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Michael E. Mortenson, "Mathematics for Computer Graphics Applications (second edition)".Ed. Industrial Press, 1999
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ OpenGL Architecture Review Board: “OpenGL programming guide, version 2, 5ª edicion” FL : CRC Press, 2012 Steven J. Gortler Cambridge; “Foundations of 3D computer graphics”. MA : MIT Press, De Vries, Joey. "Learn OpenGL - Graphics Programming." Licensed under CC BY 4 Hearn, D.D.; Baker, M.P.: “Gráficos por Computadora con OpenGL”. 3a edición, Pearson Educación, 2006 E. Angel: “Interactive Computer Graphics. A top down approach with Tomas Akenine-Möller, Eric Haines, Naty Hoffman; "Real-Time Rendering (fourth Edition)", Ed. CRC Press, 2018 Eric Lengyel, "Mathematics for 3D Game Programming and Computer Graphics (third edition)", Ed. Cengage Learning, 2011  →  Eric Lengyel, "Mathematics for 3D Game Programming and Computer Graphics (third edition)", Ed. Cengage Learning, 2011
+
+✅ Recursos añadidos:
+------------------------------
++ De Vries, Joey. "Learn OpenGL - Graphics Programming." Licensed under CC BY 4 (2015).https://learnopengl.com/book/book_pdf.pdf
++ E. Angel:“Interactive Computer Graphics. A top down approach with OpenGL”.2E..Addison-Wesley 1999
++ Hearn, D.D.; Baker, M.P.: “Gráficos por Computadora con OpenGL”. 3a edición, Pearson Educación, 2006
++ Hughes, J.F.; Van Dam, A.; McGuire, M.; Sklar, D.F.; Foley, J.D.; Feiner, S.K.; Akeley, K.: “Computer Graphics: Principles and Practice". 3a edición, Addison-Wesley, 2014
++ Ivan Korotkin: "Godot 4: Introduction to GDScript: A practical guide to GDScript for Godot 4 with examples and tutorials". ‎ Independently published, 2023
++ Mike Bailey, Steve Cunningham; ”Graphics shaders : theory and practice “. Boca Raton, FL : CRC Press, 2012
++ OpenGL Architecture Review Board: “OpenGL programming guide, version 2, 5ª edicion” Adisson-Wesley, 2006
++ Peter Shirley ; “Fundamentals of computer graphics “. New York : AK Peters, 2009
++ Sander Vanhove: "Learning GDScript by Developing a Game with Godot 4: A fun introduction to programming in GDScript 2.0 and game development using the Godot Engine" ‎ Packt Publishing, 2024
++ Steven J. Gortler Cambridge; “Foundations of 3D computer graphics”. MA : MIT Press, 2012
++ Tomas Akenine-Möller, Eric Haines, Naty Hoffman; "Real-Time Rendering (fourth Edition)", Ed. CRC Press, 2018
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Televisión_y_Radio_Digital(Especialidad_Sistemas_de_Telecomunicación)_(pdf)_2211143
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Alfonso Martin Marcos,Television Digital Vol. 1,Editorial Ciencia 3, 2006
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ F2008181Q 3.Lars-Ingemar Lundstrom , Understanding digital television : an introduction to DVB systems with satellite, cable, broadband and terrestrial TV, Elsevier/Focal Press, 2006 4.K. C. Pohlmann, Principles of Digital Audio. Mc Graw-Hill, 2005  →  Lars-Ingemar Lundstrom ,Understanding digital television : an introduction to DVB systems with satellite, cable, broadband and terrestrial TV, Elsevier/Focal Press, 2006
+~ 1.W. Fischer, Digital Video and Audio Broadcasting Technology. A Practical Engineering Guide, Springer, Fourth Edition, 2020 2.J. Song, Z. Yang, J. Wang Digital Terrestrial Television Broadcasting, IEEE, 2015 3.U. Reimers , DVB. The family of international standards for Digital Video Broadcasting, Springer, 2005  →  J. Song, Z. Yang, J. Wang Digital Terrestrial Television Broadcasting, IEEE, 2015
+~ 4.W. Hoeg, Digital Audio Broadcasting. Principles and Applications of DAB, DAB+ and DMB  →  W. Hoeg, Digital Audio Broadcasting. Principles and Applications of DAB, DAB+ and DMB. Wiley, 2009
+
+✅ Recursos añadidos:
+------------------------------
++ J. Arnold, Digital Television. Technology and Standards. Wiley,2007
++ K. C. Pohlmann, Principles of Digital Audio. Mc Graw-Hill, 2005
++ U. Reimers ,DVB. The family of international standards for Digital Video Broadcasting,Springer, 2005
++ W. Fischer, Digital Video and Audio Broadcasting Technology. A Practical Engineering Guide,Springer, Fourth Edition, 2020
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -1,0 +1,29 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Cinética_Química_Aplicada_(pdf)_2201131
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- 10.1002/14356007, Libro electrónico Sons, Inc. (2017). Disponible en BIBLIOTECA CIENCIAS (FCI/66 HEY che)
+- Ullmann's Encyclopedia of Industrial Chemistry, ISBN: 9783527306732, DOI
+
+📚 Recursos sin cambios:
+------------------------------
+= Green, & Southard, M. Z.Perry’s Chemical Engineers’ Handbook(9ª ed). McGraw-Hill. (2019). Biblioteca Politécnico:BPOL/66 PER 2019
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Levenspiel, O. INGENIERÍA DE LAS REACCIONES QUÍMICAS, traducción de la 2ª edición, Editorial Reverté, Barcelona, 1988. Disponible en BIBLIOTECA CIENCIAS (FCI/66 LEV ing). Hay una reimpresión posterior. También existe una tercera edición, no traducida al Disponible en BIBLIOTECA CIENCIAS (FCI/544 CIN cin)  →  Levenspiel, O.Ingeniería de las Reacciones Químicas. Editorial Reverté, Barcelona (1988). Biblioteca Ciencias:FCI/66 LEV ing
+~ 2ª Edición, Barcelona, 2019. Disponible en BIBLIOTECA CIENCIAS (FCI/66 IZQ cin 2019) Méjico, 1986. Disponible en BIBLIOTECA CIENCIAS (FCI/66 SMI ing) Froment, G.F., Bischoff, K.B. CHEMICAL REACTOR ANALYSIS AND DESIGN, 2ª Edición, Fogler, H.S. ELEMENTOS DE INGENIERÍA DE LAS REACCIONES QUÍMICAS, traducción de la 3ª edición, Pearson Educación, México, 2001. Disponible en BIBLIOTECA CIENCIAS (FCI/66 FOG ele)  →  Fogler, H.S.Elementos de Ingeniería de las Reacciones Químicas.Pearson Educación, México (2001). Biblioteca Ciencias:FCI/66 FOG ele
+
+✅ Recursos añadidos:
+------------------------------
++ González Velasco, J.R.Cinética Química Aplicada. Editorial Síntesis. Madrid (1999). Biblioteca Ciencias:FCI/544 CIN cin
++ Heys, J.J.Chemical and Biomedical Engineering Calculations Using Python. John Wiley & Sons, Inc. (2017). Biblioteca Ciencias:FCI/66 HEY che
++ Izquierdo Torres, J.F., Izquierdo Ramonet, M.Cinética de las Reacciones Químicas.2ª Edición, Barcelona, 2019. Biblioteca Ciencias:FCI/66 IZQ cin 2019
++ Para acceder a la documentación en formato electrónico es necesario estar conectado al campus virtual inalámbrico de la UGR (red eduroam) o usar conexión VPN
++ Smith, J.M.Ingeniería de la Cinética Química. Compañía Editorial Continental, México (1986). Biblioteca Ciencias:FCI/66 SMI ing
++ Vallance, C.An Introduction to Chemical Kinetics. Morgan & Claypool Publishers (2017). Biblioteca UGR:Doc. Electrónico
++ Weverka, & Wade, M.Office 365 all-in-one for Dummies. John Wiley & Sons, Inc. (2022). Biblioteca UGR:Doc. electrónico
++ Wiley-VCH. Ullmann's Encyclopedia of Industrial Chemistry. Weinheim, Alemania: Wiley-VCH (2002). Biblioteca UGR:Doc. electrónico
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Metodología_de_la_Programación_(pdf)_2961118
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Garrido y J. Martínez-Baena. "Introducción a la programación con C++: ejercicios". Editorial Universidad de Granada, 2016. Edición electrónica. ISBN 978-84-338-5924-2
+= A. Garrido. "Fundamentos de programación con la STL". Editorial Universidad de Granada, 2016. ISBN 978-84-338-5917-4
+= A. Garrido. "Metodología de la programación: de bits a objetos". Editorial Universidad de Granada, 2016. ISBN 978-84-338-5868-9
+= Deitel & Deitel. "C++: How to Program (10th Edition)”. Pearson, 2017
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ F2008181Q Pearson, 2019 A.Garrido. "Prácticas con C++: metodología de la programación (2ª ed.)". Editorial Universidad de Granada, 2017. Edición electrónica. ISBN 978-84-338-6032-3  →  A.Garrido. "Prácticas con C++: metodología de la programación (2ª ed.)". Editorial Universidad de Granada, 2017. Edición electrónica. ISBN 978-84-338-6032-3
+~ T. Gaddis, J. Walters, G. Muganda. “Starting Out with C++: Early Objects (10th Edition)”  →  T. Gaddis, J. Walters, G. Muganda. “Starting Out with C++: Early Objects (10th Edition)”. Pearson, 2019
+
+✅ Recursos añadidos:
+------------------------------
++ Bjarne Stroustrup. “Programming: Principles and Practice Using C++" Addison-Wesley, 2014
++ Bjarne Stroustrup. “The C++ Programming Language, 4th Edition”. Addison Wesley Professional, 2013
+
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

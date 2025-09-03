@@ -1,0 +1,43 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Biocombustibles_y_Energías_Alternativas_(pdf)_22011A2
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Alonso Abella, M. Sistemas fotovoltaicos. Introducción al diseño y dimensionado de Instalaciones de energía solar fotovoltaica, S.A.P.T. Publicaciones Técnicas, S.L., 2001
+= Camps, M., Marcos, F. Los Biocombustibles, Ediciones Mundi-Prensa, Madrid, 2002
+= Carta González, J.A. et col. Centrales de Energías renovables (2ª Edición). Ed. Pearson, 2013
+= Fernández Salgado, J.M. Guía completa de la biomasa y los biocombustibles, Madrid Vicente, 2010
+= Fullana, P; Puig, R. Análisis de ciclo de vida. Cuadernos de Medio Ambiente, Rubes Editorial, Barcelona, 1997
+= Martín-Lara, M.A., Calero, M. Energía de la Biomasa y Biocombustibles, Editorial Universidad de Granada, Granada, 2020
+= Pandey, A. (Ed.). Handbook of plant-based biofuels, CRC Press, Boca Raton, 2009
+= Sebastián Nogués, F., Daniel García-Galindo, D. y Rezeau, A. Energía de la biomasa, Universidad de Zaragoza, 2010
+= Sorensen, B. Renewable energy: its physics, engineering use, environmental impacts, economy and planning aspects. Ed. Academic Press, 2000
+= Velázquez Martí, B. Aprovechamiento de la biomasa para uso energético, Reverté, 2018
+= Villarrubia López, M. Ingeniería de la Energía Eólica. Ed. Marcombo, 2012
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Hill, 2001 Nocker, L.D.; Spirinckx, C.; Torfs, R. Comparison of LCA and external-cost analysis for biodiesel and diesel, 2nd International conference LCA in Agriculture, Agro-industry and Forestry, Brussels, 1998 Lechón, Y., Análisis de ciclo de vida de combustibles alternativos para el transporte, Ministerio de Medio Ambiente, Madrid, 2006  →  Lechón, Y., Análisis de ciclo de vida de combustibles alternativos para el transporte, Ministerio de Medio Ambiente, Madrid, 2006
+~ Kaltschmitt, M.; Streicher, W.; Wiese, A. (Ed.) Renewable energy: technology, economics and environment, Springer, Berlin, 2007 Knothe, G., Gerpen, J.V., Krahl, J. (Ed.).The Biodiesel Handbook, , AOCS Press, Illinois, Madrid, A. Energías Renovables, Ed. Mundi-Prensa, 2009  →  Madrid, A. Energías Renovables, Ed. Mundi-Prensa, 2009
+~ Domínguez Gómez, J.A., Energías alternativas (3a.ed.), Equipo Sirius, Madrid, 2008 Escudero López, J.M. Manual de energía eólica, Ed. Mundi-Prensa, 2004  →  Domínguez Gómez, J.A., Energías alternativas (3a.ed.), Equipo Sirius, Madrid, 2008
+~ González Velasco, J. Energías Renovables. Ed. Reverté, 2009 Hongzhang Chen, Lan Wang . Technologies for biochemical conversion of biomass, Metallurgical Industry Press, 2017  →  Hongzhang Chen, Lan Wang . Technologies for biochemical conversion of biomass, Metallurgical Industry Press, 2017
+
+✅ Recursos añadidos:
+------------------------------
++ Escudero López, J.M. Manual de energía eólica, Ed. Mundi-Prensa, 2004
++ García Ybarra, P.L. (CIEMAT). Tecnologías energéticas e Impacto Ambiental, Ed. McGraw-Hill, 2001
++ González Velasco, J. Energías Renovables. Ed. Reverté, 2009
++ Kaltschmitt, M.; Streicher, W.; Wiese, A. (Ed.) Renewable energy: technology, economics and environment, Springer, Berlin, 2007
++ Knothe, G., Gerpen, J.V., Krahl, J. (Ed.).The Biodiesel Handbook, , AOCS Press, Illinois, 2005
++ Madrid Vicente, A. La biomasa y sus aplicaciones energéticas, Madrid Vicente, 2012
++ Nocker, L.D.; Spirinckx, C.; Torfs, R. Comparison of LCA and external-cost analysis for biodiesel and diesel, 2nd International conference LCA in Agriculture, Agro-industry and Forestry, Brussels, 1998
++ San Miguel, G., Gutiérrez, F. Tecnologías para el uso y transformación de biomasa energética, Mundi-Prensa, 2015
++ Seoánez Calvo, M. Tratado de la biomasa: con especial incidencia sobre la biomasa como fuente energética, McGraw Hill, 2013
++ Vertés, A.A.; Qureshi, N.; Blaschek, H.P.; Yukawa, H. (Eds). Biomass to Biofuels: strategies for global industries. Ed. Wiley, 2010
++ Yebo Li, Samir Kumar Khanal. Bioenergy: principles and applications, John Wiley & Sons, Incorporated, 2017
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

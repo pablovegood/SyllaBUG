@@ -1,0 +1,24 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Cálculo_II_(pdf)_2701116
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- 3.M. SPIVAK. Cálculo Infinitesimal. 2a Edición. Reverté, Barcelona 1992
+
+📚 Recursos sin cambios:
+------------------------------
+= S. ABBOTT. Understanding Analysis. Springer-Verlag, New York, 2001
+= S.K. BERBERIAN. A First Course in Real Analysis. Springer-Verlag, New York, 1994
+= STEWART, J.: Cálculo diferencial e integral. Thomson, México 1999
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ 1.C. APARICIO DEL PRADO y R. PAYÁ ALBERT. Análisis Matemático. Sec. Publ. Univ  →  C. APARICIO DEL PRADO y R. PAYÁ ALBERT. Análisis Matemático. Sec. Publ. Univ. Granada, 1986
+
+✅ Recursos añadidos:
+------------------------------
++ D. BRESSOUD. A Radical Approach to Real Analysis. Math. Assoc. America, Washington, 2007
++ M. SPIVAK. Cálculo Infinitesimal. 2a Edición. Reverté, Barcelona 1992. COMPLEMENTARIA
++ PÉREZ GONZÁLEZ, J.: Cálculo Diferencial e Integral de Funciones de una variable. (http://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf)
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

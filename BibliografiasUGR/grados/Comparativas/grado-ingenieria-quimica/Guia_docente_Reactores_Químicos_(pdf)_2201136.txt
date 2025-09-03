@@ -1,0 +1,22 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Reactores_Químicos_(pdf)_2201136
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- BPOL/66.02 FOG ele ingea
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Santamaria y otros (1999). Ingeniería de Reactores. Ed. Síntesis. BPOL/66.02 SAN ing Fogler (2001). Elementos de Ingeniería de las Reacciones Químicas. Ed. Prentice-Hall  →  Santamaria y otros (1999). Ingeniería de Reactores. Ed. Síntesis. BPOL/66.02 SAN ing
+
+✅ Recursos añadidos:
+------------------------------
++ Fogler (2001). Elementos de Ingeniería de las Reacciones Químicas. Ed. Prentice-Hall. BPOL/66.02 FOG ele
++ Froment y otros (1999). Chemical Reactor Analysis and Design. Ed. Wiley. BPOL/66 FRO che
++ Levenspiel (2004). Ingeniería de las Reacciones Químicas. Ed. Wiley. BPOL/66.02 LEV ingea https://granatensis.ugr.es/permalink/34CBUA_UGR/qmbd75/alma991014244730704990
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

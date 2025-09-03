@@ -1,0 +1,27 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Sistemas_Multimedia_(Especialidadtecnologías_de_la_Información)_(pdf)_296113V
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Richard Mayer (2020). Multimedia Learning. Springer
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Nigel Chapman and Jenny Chapman (2009). Digital multimedia. Chichester, England Vic Costello (2017). Multimedia Foundations: Core Concepts for Digital Design Deitel,H.M., Deite,P.J. (2018). Java: How to program. Upper Saddle, New Jersey : Pearson Education Ralf Steinmetz, Klara Nahrstedt(2004) Multimedia applications. Berlin : Springer, Ralf Steinmetz, Klara Nahrstedt (2004) Multimedia systems. Berlin ; New York : Springer Stephen Weinstein (2005). The multimedia Internet. New York : Springer Science+Business Media Rafael Moreno (2009) Vídeo digital : edición 2009. Madrid : Anaya multimedia Zoe Plasencia López (2009). Fotografía digital : edición 2009. Madrid : Anaya Multimedia Jorge Ruiz Cantero, Víctor Vergara Luján (2009). Crear, editar y compartir música digital  →  Ralf Steinmetz, Klara Nahrstedt(2004) Multimedia applications. Berlin : Springer
+
+✅ Recursos añadidos:
+------------------------------
++ Deitel,H.M., Deite,P.J. (2018). Java: How to program. Upper Saddle, New Jersey : Pearson Education
++ Jorge Ruiz Cantero, Víctor Vergara Luján (2009). Crear, editar y compartir música digital. Madrid : Anaya Multimedia
++ Nigel Chapman and Jenny Chapman (2009). Digital multimedia. Chichester, England
++ Rafael Moreno (2009) Vídeo digital : edición 2009. Madrid : Anaya multimedia
++ Ralf Steinmetz, Klara Nahrstedt (2004) Multimedia systems. Berlin ; New York : Springer
++ Stephen Weinstein (2005). The multimedia Internet. New York : Springer Science+Business Media
++ Vic Costello (2017). Multimedia Foundations: Core Concepts for Digital Design
++ Zoe Plasencia López (2009). Fotografía digital : edición 2009. Madrid : Anaya Multimedia
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

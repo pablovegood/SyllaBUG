@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Redes_Multimedia_(Especialidad_Telemática)_(pdf)_2211145
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ A. Farrel, “The Internet and Its Protocols: A Comparative Approach" (The Morgan Kaufmann Series in Networking) Ed. 2004. ISBN: ISBN: 978-1-55860-913-6 2005. ISBN: 978-0-470-02528-4 ISBN: 0201634422 G. Armitage , Quality of Service in IP Networks, Macmillan Technical Pub., 2000. ISBN  →  A. Farrel, “The Internet and Its Protocols: A Comparative Approach" (The Morgan Kaufmann Series in Networking) Ed. 2004. ISBN: ISBN: 978-1-55860-913-6
+~ 1578701899 A. Ganz, Z. Ganz, K. Wongthavarawat Multimedia Wireless Networks: Technologies, Standards, and QoS, Prentice Hall, 2004. ISBN: 0130460990 W. Stallings, Redes e Internet de alta velocidad. Rendimiento y calidad de servicio, Pearson, 2004. ISBN: 842053921X Sanjay Jha Mahbub Hassan: “Engineering Internet QoS” Artech House  →  Sanjay Jha Mahbub Hassan: “Engineering Internet QoS” Artech House
+
+✅ Recursos añadidos:
+------------------------------
++ A. Ganz, Z. Ganz, K. Wongthavarawat Multimedia Wireless Networks: Technologies, Standards, and QoS, Prentice Hall, 2004. ISBN: 0130460990
++ G. Armitage , Quality of Service in IP Networks, Macmillan Technical Pub., 2000. ISBN: 1578701899
++ M. Welz: “Network Congestion Control. Managing Internet Traffic”. John Wiley & Sons, 2005. ISBN: 978-0-470-02528-4
++ S. Keshav: “An engineering approach to computer networking”. Addison-Wesley. 1997 ISBN: 0201634422
++ W. Stallings, Redes e Internet de alta velocidad. Rendimiento y calidad de servicio, Pearson, 2004. ISBN: 842053921X
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

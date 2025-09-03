@@ -1,0 +1,37 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Instrumentación_Optométrica_(pdf)_2871122
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A History of the Photographic Lens. R. Kingslake, Academic Press, Inc., 1989
+= Applied Optics and Optical Design.. A. E. Conrady, Dover Publications, Inc., New York, 1992
+= Applied Optics and Optical Engineering Vol.I, II, III, IV y V R. Kingslake, Academic Press, New York and London, 1965
+= Geometrical Optics. Hans-Georg Zimmer, Springer-Verlag Berlin Heidelberg New York, 1970
+= Geometrical Optics. Optical Instrumentation. W. T. Welford, North-Holland Publishing Company Amsterdam, 1962
+= Geometrical and Instrumental Optics. D. Malacara, Academic Press, Inc., 1988
+= Handbook of Optics Vol II. 2nd Edition, McGraw-Hill, Inc. 1995
+= Instrumentos Ópticos y Optométricos. Problemas. J. Arasa Martí, M. Arjona Carbonell y N. Tomás Corominas, Ediciones UPC, 1992
+= Instrumentos Ópticos y Optométricos. Teoría y Prácticas. M. Martínez Corral, Walter D. Furlan, Amparo Pons y Genaro Saavedra, Universidad de Valencia, 1998
+= Instrumentos Ópticos. J. Marcén, Escuela Universitaria de Óptica UCM, 1993
+= Introducción al Estudio de los Instrumentos Ópticos. P. Jiménez-Landi Martínez, Editorial de la Universidad Complutense, Madrid, 1985
+= Manual de Prácticas de Instrumentación Optométrica. José Juan Castro Torres y Francisco Pérez Ocón. Copicentro Granada: Granada, 2015 [http://hdl.handle.net/10481/61630]
+= Modern Optical Engineering. The Desing of Optical system. W. J. Smith
+= Optometric Instrumentation. David B. Henson. Butterworth-Heinemann Ltd. Linacre House, Jordan Hill, Oxford OX2 8DP, 1996
+= Teoría de Sistemas Ópticos. B. N. Begunov y N. P. Zakaznov, Editorial MIR Moscú, 1976
+= Óptica Instrumental. J. Antó Roca y N. Tomás Corominas, Ediciones UPC, 1996
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Instrumentos Ópticos y Optométricos. Problemas. J. Arasa Martí, M. Arjona Carbonell y N  →  Instrumentos Ópticos y Optométricos. Problemas. J. Arasa Martí, M. Arjona Carbonell y N. Tomás Corominas, Ediciones UPC, 1992
+~ Instrumentos Ópticos y Optométricos. Teoría y Prácticas. M. Martínez Corral, Walter D  →  Instrumentos Ópticos y Optométricos. Teoría y Prácticas. M. Martínez Corral, Walter D. Furlan, Amparo Pons y Genaro Saavedra, Universidad de Valencia, 1998
+~ Kascheke M, Donnerhacke KH, Rill MS. Optical Devices in Ophthalmology and Optometry  →  Kascheke M, Donnerhacke KH, Rill MS. Optical Devices in Ophthalmology and Optometry. WILEY-VCH Verlag, 2014
+
+✅ Recursos añadidos:
+------------------------------
++ Applied Physical Techniques. R. C. Stanley
+
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

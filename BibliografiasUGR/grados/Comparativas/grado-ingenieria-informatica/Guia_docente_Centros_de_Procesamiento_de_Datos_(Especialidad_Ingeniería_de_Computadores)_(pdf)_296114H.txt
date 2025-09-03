@@ -1,0 +1,26 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Centros_de_Procesamiento_de_Datos_(Especialidad_Ingeniería_de_Computadores)_(pdf)_296114H
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Data Center virtualization fundamentals.Gustavo Alessandro Andrade Santana. Cisco Press 2014
+= L. Alves and A. Vladishev,Zabbix performance tuning : tune and optimize Zabbix to maximize performance, 1st edition. Birmingham, England ;: Packt Publishing, 2015
+= The Green and Virtual Data Center. G. Schulz. Boca Raton: CRC Press, 2009
+= V. Benincosa,Kubernetes in the Data Center,1st edition. Cisco Press, 2019
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Cloud networking : understanding cloud-based data center networks. , Waltham, F2008181Q Massachusetts : Morgan Kaufmann, 2014 Making your Data Center Energy Efficient G. HELD, 1st edition. CRC Press, 2017  →  Cloud networking : understanding cloud-based data center networks., Waltham, Massachusetts : Morgan Kaufmann, 2014
+~ Inc., 2015 (disponible en línea) The art of data center. Douglas Alger. Prentice Hall, 2013  →  The art of data center. Douglas Alger. Prentice Hall, 2013
+
+✅ Recursos añadidos:
+------------------------------
++ Data center handbook. Geng, Hwaiyu, editor. Hoboken, New Jersey : John Wiley & Sons Inc., 2015 (disponible en línea)
++ Foundation of Green IT: Consolidation, Virtualization, Efficiency, and ROI in the Data Center. Marty Poniatowski. Prentice Hall PTR.2009
++ Making your Data Center Energy EfficientG. HELD, 1st edition. CRC Press, 2017
+
+📊 Porcentaje estimado de cambio: 83% [████████░░]

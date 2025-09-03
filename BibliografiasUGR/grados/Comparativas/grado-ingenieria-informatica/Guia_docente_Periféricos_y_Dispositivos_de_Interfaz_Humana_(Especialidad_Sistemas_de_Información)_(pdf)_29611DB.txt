@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Periféricos_y_Dispositivos_de_Interfaz_Humana_(Especialidad_Sistemas_de_Información)_(pdf)_29611DB
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Prieto Espinosa, Periféricos avanzados : memoria externa e interfaces persona-ordenador. Madrid: Garceta, 2012
+= F. Charte Ojeda and A. J. Rivera Rivas, Actualización y mantenimiento del ordenador y dispositivos digitales. Madrid: Anaya Multimedia, 2013
+= G. Beekman and B. Beekman, Tomorrow's technology and you, 9th ed ed. Upper Saddle River, N.J.: Prentice Hall, 2009
+= H. Hahn, El Gran libro del CD-ROM. Barcelona: Marcombo Boixareu, 1994
+= J. E. Herrerías Rey, PC y dispositivos móviles : hardware y componentes edición 2016. Madrid: Anaya Multimedia, 2016
+= M. Hobbs, Multifunction peripherals for PCs technology, troubleshooting, and repair. Boston [etc.]: Newnes, 2000
+= S. Monk and J. Pompa, 30 proyectos con Arduino. Madrid: Estribor, 2012
+= S. Mueller, Manual de actualización y reparación de PCs, 12* ed ed. México [etc.]: Pearson Educación, 2001
+= T. Vaughan, Multimedia : making it work, 8th ed ed. New York, (etc.): McGraw-Hill, 2011
+= W. L. Rosch, Hardware bible : your complete guide to all PCs and all peripherals, 6th ed ed. [S. l.]: Que, 2003
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ 3.M. Hobbs, Multifunction peripherals for PCs technology, troubleshooting, and repair  →  M. Hobbs, Multifunction peripherals for PCs technology, troubleshooting, and repair. Boston [etc.]: Newnes, 2000
+~ 4.J. R. Lajara Vizcaíno and J. Pelegrí Sebastià, Sistemas integrados con Arduino. Barcelona  →  J. R. Lajara Vizcaíno and J. Pelegrí Sebastià, Sistemas integrados con Arduino. Barcelona: Marcombo, 2014
+
+✅ Recursos añadidos:
+------------------------------
+No se añadieron recursos.
+
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

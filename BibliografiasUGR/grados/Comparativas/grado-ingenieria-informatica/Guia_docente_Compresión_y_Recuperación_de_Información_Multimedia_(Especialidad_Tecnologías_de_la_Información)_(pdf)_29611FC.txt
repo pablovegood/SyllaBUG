@@ -1,0 +1,38 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Compresión_y_Recuperación_de_Información_Multimedia_(Especialidad_Tecnologías_de_la_Información)_(pdf)_29611FC
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- 1.El algoritmo del código de Huffman 2.Códigos de Huffman de mínima varianza 3.Códigos de Huffman Canónicos 4.Códigos de Huffman de longitud limitada 5.Longitud del código de Huffman 6.Aplicaciones del código de Huffman 4.Codificación por longitud de ráfagas 1.Codificación RLE 2.Ejemplo: El formato Windows BMP 3.RLE utilizando PackBits 4.Codificación de datos binarios usando RLE 1.Introducción F2008181Q 1.Algoritmo de codificación 1.Algoritmo de asignación de etiqueta 2.Algoritmo de decodificación 3.Implementación en sistemas con precisión finita 3.Comparación del código de Huffman y el código aritmético 6.Aplicaciones
+- 1.El código JBIG 6.Codificación basada en diccionarios 1.Introducción 2.Diccionarios estáticos 1.Codificación Digrama 3.Diccionarios Adaptativos 1.Aproximación LZ77 2.Aproximación LZ78 3.Aproximación LZW 4.Implementaciones reales que usan LZW 7.Compresión sin pérdida de imágenes 1.Estándares y formatos de compresión de imágenes sin pérdida 1.CALIC 2.JPEG-LS (éstandar) 3.BMP 4.GIF 5.PNG 6.TIFF 7.Formatos Netpbm: PGM, PBM, PPM, PAM 8.Conceptos para la codificación con pérdida 1.Introducción 2.Criterios de distorsión 3.Teoría de la información revisitada 4.Teoría Tasa/Distorsión (Rate/Distortion) 5.Modelos para la fuente 9.Cuantización escalar 1.Introducción 1.Definición
+- 2.Bases de la Compresión Multimedia 1.¿Cómo medimos la información? 2.Breve introducción a la Teoría de la Información (Entropía) 1.Algunos ejemplos de cálculo de la entropía 3.Modelos para la compresión 1.Modelos probabilísticos simples 2.Modelos de Markov 3.Modelo de fuente compuesta 4.Más sobre Modelización 5.Codificación 1.Códigos de longitud fija y longitud variable 2.Códigos decodificables de modo único 3.Test para decodificación única 4.Códigos prefijo 5.Decodificación de una secuencia de palabras en código prefijo 6.Desigualdad de Kraft-McMillan 3.Codificación Huffman
+- 2.Cuantización de fuentes uniformemente distribuidas
+- 2.El problema de la cuantificación
+- 2.Formulación Matemática del problema de la cuantización 3.Cuantización uniforme 1.Introducción
+- 3.Cuantización de fuentes no uniformes 4.Cuantización no uniforme 1.Cuantización optimizada en pdf. Algoritmo de Max-Lloyd 2.Compansores 3.Cuantización codificada por entropía 10.Codificación Diferencial 1.Introducción 2.Algoritmo Básico de Codificación Diferencial F2008181Q 3.Modulación por impulsos codificados (MIC) diferencial (DPCM) 4.DPCM para imágenes 5.Errores de predicción 6.Compresores que utilizan DPCM 11.Codificación basada en transformaciones 1.Transformación por bloques 2.Transformaciones por bloques de interés 1.Transformada Coseno Discreta (DCT) 2.Transformada Seno Discreta 3.Transformada de Walsh-Hadamard Discreta 3.Transformación Wavelets 1.Transformada wavelet aplicada a imágenes 4.Aplicaciones 12.Estándares para la compresión de imágenes 1.El objetivo de la estandarización de la codificación de imágenes y vídeo 2.Estándar JPEG 1.Introducción 2.Pasos en la compresión JPEG 3.Tres modos JPEG usados frecuentemente 3.Estándar JPEG2000 4.JPEG-LS 5.Estándares de compresión de imágenes binarias
+- 6.Algunos formatos de almacenamiento de imágenes 13.Fundamentos de video 1.Conceptos básicos y terminología 2.Sistemas de Televisión Analógica 3.Conceptos básicos de Vídeo Digital 4.Conversión Analógica-Digital 5.Formatos y Estándares de Vídeo Digital 6.Técnicas y estándares de compresión de vídeo 7.Estándares de Compresión de Vídeo, Códecs y Contenedores 14.Técnicas básicas de compresión de vídeo 1.Compresión de vídeo basada en compensación de movimiento 2.Búsqueda de los vectores de movimiento 3.H.261 4.H.263 15.Codificación de Vídeo MPEG: MPEG-1, 2, 4 y 7 1.Introducción 2.MPEG-1 3.MPEG-2 4.MPEG-4 5.MPEG-7 16.Nuevos estándares de codificación de vídeo: H.264 y H.265 1.H.264 2.H.265 3.Comparación de la eficiencia de las técnicas de codificación de vídeo 17.Recuperación de información multimedia F2008181Q 1.Recuperación de información multimedia basada en metainformación
+- Realización de guiones de prácticas sobre 1.Técnicas de compresión sin pérdida. Implementación y aplicaciones 2.Técnicas de compresión con pérdida. Aplicaciones audiovisuales 3.Estándares de compresión multimedia. Comparación y Aplicabilidad 4.Recuperación de información multimedia. Recuperación de vídeos en bases de datos audiovisuales Seminarios 1.Aplicaciones de las técnicas de compresión sin pérdida 2.Formatos de almacenamiento de texto, imágenes, audio y vídeo 3.Algunos aspectos del codificador MPEG-4 Yun-Qing Shi y Huifang Sun Image and Video Compression for Multimedia Engineering
+
+📚 Recursos sin cambios:
+------------------------------
+= D. Salomon, "Data Compression: The Complete Reference", 4ª Edición, Springer, 2006
+= Yun-Qing Shi y Huifang Sun Image and Video Compression for Multimedia Engineering: Fundamentals, Algorithms, and Standards, CRC Press 2019
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ R. Baeza-Yates, B. Ribeiro-Neto Modern Information Retrieval: The Concepts and Technology behind Search (2nd Edition) (ACM Press Books), 2011 M. Nelson and J.-L. Gailly, "The Data Compression Book", 2ª Edicion, M&T Books, New York, NY 1995 M.Kr. Mandal, “Multimedia Signal and Systems”, Kluwer Academic Press, 2003 B. S. Manjunath, P Salembier, T. Sikora (Editores) “Introduction to MPEG-7: Multimedia J. Watknson, “The MPEG Handbook, Second Edition”. Focal Press 2004 S. Rueger, F. Marchionini , “Multimedia Information Retrieval”, Morgan & Claypool 2010 M. Lew, et al., “Content-based Multimedia Information Retrieval: State of the Art and Challenges”, ACM Transactions on Multimedia Computing, Communications, and Applications, pp. 1-19, 2006  →  S. Rueger, F. Marchionini , “Multimedia Information Retrieval”, Morgan & Claypool 2010
+~ Z.N Li, M.S. Drew y J. Liu Fundamentals of Multimedia, Springer 2014 K. Sayood, “Introduction to Data Compression”, 5ª Edición, Morgan and Kaufmann, 2018  →  K. Sayood, “Introduction to Data Compression”, 5ª Edición, Morgan and Kaufmann, 2018
+
+✅ Recursos añadidos:
+------------------------------
++ A.H. Sadka, “Compressed Video Communications”, John Wiley & Sons, 2002
++ B. S. Manjunath, P Salembier, T. Sikora (Editores) “Introduction to MPEG-7: Multimedia Content Description Interface”, Wiley, 2002
++ I. E.G. Richardson, “Video Codec Design”, John Wiley & Sons, 2002
++ J. Watknson, “The MPEG Handbook, Second Edition”. Focal Press 2004
++ M. Lew, et al., “Content-based Multimedia Information Retrieval: State of the Art and Challenges”, ACM Transactions on Multimedia Computing, Communications, and Applications, pp. 1-19, 2006
++ M. Nelson and J.-L. Gailly, "The Data Compression Book", 2ª Edicion, M&T Books, New York, NY 1995
++ M.Kr. Mandal, “Multimedia Signal and Systems”, Kluwer Academic Press, 2003
++ R. Baeza-Yates, B. Ribeiro-NetoModern Information Retrieval: The Concepts and Technology behind Search (2nd Edition) (ACM Press Books), 2011
++ Z.N Li, M.S. Drew y J. Liu Fundamentals of Multimedia, Springer 2014
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

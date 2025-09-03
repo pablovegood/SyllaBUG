@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Sistemas_de_Alimentación_(Especialidad_Sistemas_Electrónicos)_(pdf)_221113K
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Electrónica de Potencia, 1ª Edición – Daniel W. Hart, Prentice Hall 2001
+= Electrónica de Potencia, Daniel W. Hart, Prentice Hall 2001
+= Muhammad H. Rashid, “Power Electronic Handbook”, Academic Press (Series in Engineering), 2001
+= P. Horowitz, W. Hill: “The Art of Electronics”, Cambridge University Press, 1989
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ J.G. Kassakian, M.F. Schlecht, G.C. Verghese, “Principles of Power Electronics”, Addison R.W. Erikson “Fundamental of Power Electronics”, 2ºEd. Springer 2001  →  J.G. Kassakian, M.F. Schlecht, G.C. Verghese, “Principles of Power Electronics”, Addison Wesley, 1991
+~ “Handbook of photovoltaic science and engineering”, Antonio Luque, Steven Hegedus  →  “Handbook of photovoltaic science and engineering”, Antonio Luque, Steven Hegedus, John Wiley and Sons, 2003
+
+✅ Recursos añadidos:
+------------------------------
++ N. Mohan, T.M.Undeland, W.P.Robbins, “Power Electronics. Converters, Applications and Design” John Wiley&Sons, 2003
++ R.W. Erikson “Fundamental of Power Electronics”, 2ºEd. Springer 2001
+
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

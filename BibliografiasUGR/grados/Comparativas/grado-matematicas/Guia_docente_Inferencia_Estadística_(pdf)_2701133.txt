@@ -1,0 +1,37 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Inferencia_Estadística_(pdf)_2701133
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Canavos, G. (2003). Probabilidad y Estadística: Aplicaciones y Métodos. McGraw-Hill Interamericana, México
+= Cristóbal Cristóbal, J.A. (2003). Lecciones de Inferencia Estadística. Servicio de Publicaciones, Universidad de Zaragoza
+= Cuadras, C.M. (2000). Problemas de Probabilidades y Estadística. Vol. 2: Inferencia Estadística. EUB, Barcelona
+= Garthwaite, P.H., Jolliffe, I.T., Jones, B. (2002). Statistical Inference. Oxford University Press
+= Ivchenko, G.I., Medvedev, Y.I., Chistyakov, A.V. (1991) Problems in Mathematical Statistics. Mir Publishers, Moscú
+= Lehmann, E.L., Casella, G. (1998). Theory of Point Estimation. Springer-Verlag,New York
+= Lehmann, E.L., Romano, J.P. (2008). Testing Statistical Hypothesis. Springer-Verlag, New York
+= Mukhopadhyay, N. (2000). Probability and Statistical Inference. Marcel Dekker, New York
+= Peña, D. (2000). Estadística. Modelos y Métodos. Vol. 2: Modelos Lineales y Series Temporales. Alianza Editorial, Madrid
+= Peña, D. (2001). Fundamentos de Estadística. Alianza Editorial S.A., Madrid
+= Quesada, V., Isidoro, A., López, L.A. (1989). Curso y Ejercicios de Estadística. Alhambra, Madrid
+= Ross, S. (2007). Introducción a la Estadística. Reverté S.A., Barcelona
+= Roussas, G. (2007). An Introduction to Probability and Statistical Inference. Academic Press, San Diego
+= Shao, J. (2005). Mathematical Statistics: Exercices and Solutions. Springer-Verlag, New York
+= Ugarte, M.D., Militino, A., Arnholt, A. (2008). Probability and Statistics with R. Chapman and Hall/CRC Press, Boca Raton
+= Verdoy, P.J., Mahiques, J.M., Porcu, E. (2008). Introducción a la Estadística y Probabilidad: Manual de Ejercicios Resueltos. Tilde, Valencia
+= Vélez, R. y García, A. (1993). Principios de Inferencia Estadística. UNED, Madrid
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
++ DeGroot, M.H., Schervish, M.J. (2002). Probability and Statistics. Addison-Wesley, Boston
++ Rohatgi, V.K., Saleh, A.K. (2008). An Introduction to Probability and Statistics. John Wiley and Sons, New York
+
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

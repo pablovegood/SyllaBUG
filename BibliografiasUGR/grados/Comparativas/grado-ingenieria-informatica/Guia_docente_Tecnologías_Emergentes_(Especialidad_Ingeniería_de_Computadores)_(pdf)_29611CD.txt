@@ -1,0 +1,28 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Tecnologías_Emergentes_(Especialidad_Ingeniería_de_Computadores)_(pdf)_29611CD
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Barfield, W., Caudell, T, (Eds.).Fundamentals of Wearable Computers and Augmented Reality. Segunda edición. CRC Press, 2016
+= Eliasmith, C, Anderson, C.Neural Engineering, MIT Press, 2004
+= Enderle, J., Bronzino, J., Blanchard, S.Introduction to Biomedical Engineering. Elsevier, 2005
+= Faludi, R.Building wireless sensor networks, O'Reilly. 2011
+= Hen, B.Neural Engineering. Kluwer Academic Press, Segunda edición. 2013
+= Igoe, T.Making things talk. Beijing, O'Reilly. Tercera edición. 2017
+= Karvinen, T., & Karvinen, K.Make a mind-controlled Arduino robot. Sebastopol, CA, O'Reilly. 2012
+= Olsson, T.Arduino wearables. Apress. 2012
+= Wallisch, P. et al.Matlab for Neuroscientists. Associated Press, 2014
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Kooijman, M. . Building wireless sensor networks using Arduino : leverage the powerful Arduino and XBee platforms to monitor and control your surroundings. Packt Publishing  →  Kooijman, M. .Building wireless sensor networks using Arduino : leverage the powerful Arduino and XBee platforms to monitor and control your surroundings. Packt Publishing. 2015
+
+✅ Recursos añadidos:
+------------------------------
++ Akay, M.Handbook of Neural Engineering. Wiley, 2007
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

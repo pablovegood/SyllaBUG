@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Ingeniería_del_Conocimiento_(Especialidad_Computación_y_Sistemas_Inteligentes)_(pdf)_296113A
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Edition. Delhi : Cengage Learning, 2019 Brachman, Ronald; Levesque, Hector. Knowledge Representation and Reasoning. Morgan Kaufmann. 2008 Liebowitz, Jay. Knowledge Management. Learning from Kowledge Engineering. CRC Press. 2001  →  Liebowitz, Jay. Knowledge Management. Learning from Kowledge Engineering. CRC Press. 2001
+~ Akerkar, Rajendra; Sajja, Pritti. Knowledge-Based Systems. Jones and Bartlett. 2010 Kendal, S. y Creen, M. An Introduction to Knowledge Engineering, Springer-Verlag, 2007  →  Akerkar, Rajendra; Sajja, Pritti. Knowledge-Based Systems. Jones and Bartlett. 2010
+~ Gonzales, Avelino J.; Dankel, Douglas D. The Engineering of Knowledge based systems  →  Gonzales, Avelino J.; Dankel, Douglas D. The Engineering of Knowledge based systems. Prentice Hall. 1993
+~ Prentice Hall. 1993 Frank van Harmelen, Vladimir Lifschitz and Bruce Porter (Eds). Handbook of Knowledge Representation. Foundations of Artificial Intelligence, 2008  →  Frank van Harmelen, Vladimir Lifschitz and Bruce Porter (Eds). Handbook of Knowledge Representation. Foundations of Artificial Intelligence, 2008
+
+✅ Recursos añadidos:
+------------------------------
++ Brachman, Ronald; Levesque, Hector. Knowledge Representation and Reasoning. Morgan Kaufmann. 2008
++ Giarratano, Joseph C; Riley, Gary D. Expert Systems: Principles and Programming, 4th Edition. Delhi : Cengage Learning, 2019
++ Kendal, S. y Creen, M. An Introduction to Knowledge Engineering, Springer-Verlag, 2007
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

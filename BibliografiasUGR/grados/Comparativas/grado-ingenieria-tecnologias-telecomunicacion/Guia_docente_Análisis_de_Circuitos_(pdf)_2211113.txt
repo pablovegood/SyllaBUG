@@ -1,0 +1,22 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Análisis_de_Circuitos_(pdf)_2211113
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= C. K. Alexander, M. N. O. Sadiku "Fundamentos de circuitos eléctricos", 6a Ed. McGraw Hill, 2020
+= J. David Irwin. “Análisis básico de circuitos en Ingeniería”, 5a Ed., Prentice Hall, 1997
+= J.A. López Villanueva, J. A. Jiménez Tejada, "Fundamentos de Teoría de Circuitos para Electrónica", Departamento de Electrónica y Tecnología de Computadores, Universidad de Granada, 2008
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ F2008181Q J. W. Nilsson, S. A. Riedel. "Circuitos Eléctricos", 7a Ed., Pearson/Prentice-Hall, 2005 B. Carlson. “Circuitos Eléctricos” 7a Ed., Thomson, 2001  →  B. Carlson. “Circuitos Eléctricos” 7a Ed., Thomson, 2001
+
+✅ Recursos añadidos:
+------------------------------
++ J. W. Nilsson, S. A. Riedel. "Circuitos Eléctricos", 7a Ed., Pearson/Prentice-Hall, 2005
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

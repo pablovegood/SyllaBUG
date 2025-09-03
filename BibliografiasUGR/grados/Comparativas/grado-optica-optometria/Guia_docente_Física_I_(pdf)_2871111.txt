@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Física_I_(pdf)_2871111
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Fundamentos de física. D. Haliday, R. Resnick y J. Walker. Editorial Compañía Editorial Continental (2001)
+- Física Fundamental y Aplicada. M. Eisberg. Editorial McGraw-Hill (1999)
+- Física. R.P. Feynman. Editorial Fondo Educativo Interamericano (1987)
+
+📚 Recursos sin cambios:
+------------------------------
+= Física general. Burbano de Ercilla, Burbano García y Gracia Muñoz. Editorial Tébar, 32ª edición, (2003)
+= Física para la Ciencia y la Tecnología, vol. 1. Tipler y Mosca. Editorial Reverté, 6ª edición (2012)
+= Física. Prácticas de Laboratorio. Departamento de Óptica. Facultad de Ciencias. Universidad de Granada
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Lecciones de Física. M.R. Ortega y Ortega Girón. Ed. R. Ortega. Universidad de Córdoba  →  Lecciones de Física. M.R. Ortega Girón. Ed. M.R. Ortega Girón. Universidad de Córdoba, 10ª edición (2011)
+~ Física para ciencias e ingeniería, vol. 1. R.A. Serway y Jewett. Editorial Thomson (2001)  →  Física para ciencias e ingeniería, vol. 1. R.A. Serway y Jewett. Editorial Brooks/Cole, 10ª edición (2018)
+
+✅ Recursos añadidos:
+------------------------------
++ Fundamentos de física. D. Halliday, J.C. Merrill, R. Resnick y W.F. Edwards. Editorial Compañía Editorial Continental (1989)
++ Física universitaria. Sears-Zemansky, vol. 1. Young y Freedman. Editorial Pearson, Addison-Wesley, 12ª edición (2009)
++ Física. M. Alonso y E.J. Finn. Editorial Addison-Wesley Iberoamericana (1995)
++ Física. R.P. Feynman. Editorial Addison-Wesley Iberoamericana (1987)
++ Física: Fundamentos y Aplicaciones. R.M. Eisberg. Editorial McGraw-Hill (1990)
++ Physics: Concepts and Connections. A. Hobson. Editorial Pearson Education Limited (2014)
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -1,0 +1,34 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Electrotecnia_(pdf)_220112A
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- F2008181Q ISBN 978-84-169-9274-4. 2018
+
+📚 Recursos sin cambios:
+------------------------------
+= Electrotecnia básica para ingenieros. F. Aznar, A. Espín y F. Gil. Editorial UGR. ISBN 978-84-338-5442-1. 2012
+= Problemas de electrotecnia. X. Alabern. Ed. Paraninfo. ISBN 978-84-283-2023-8. 1994
+= Problemas de exámenes de electrotecnia. F. Alcalá, G. Calvache y A. Espín. Editorial UGR. ISBN 978-84-338-2683-2. 2000
+= Prácticas de electrotecnia. F. Aznar, O. Rabaza, E. Molero, D. Gómez. Editorial Técnica Avicam. ISBN 978-84-17628-34-5. 2019
+= Reglamento Electrotécnico de Baja Tensión. Ed. BOE. ISBN 978-84-340-2546-2. 2021
+= Reglamento de centrales eléctricas, subestaciones y centros de transformación
+= Reglamento de líneas eléctricas de alta tensión
+= Teoría de circuitos. E. Ras. Ed. Marcombo. ISBN 978-84-267-0673-7. 1988
+= Teoría de circuitos. V. Parra. Ed. UNED. ISBN 978-84-362-1960-0. 1991
+= Transformadores. E. Ras. Ed. Marcombo. ISBN 978-84-267-0231-9. 1978
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Problemas de Ingeniería Eléctrica. 3ª Ed. O. Rabaza y F. Aznar. Editorial Técnica Avicam  →  Manual de Ingeniería Eléctrica. 2ª Ed. O. Rabaza y F. Aznar. Editorial Técnica Avicam. ISBN 978-84-169-9274-4. 2018
+~ Problemas de exámenes de electrotecnia. F. Alcalá, G. Calvache y A. Espín. Editorial UGR  →  Problemas de exámenes de electrotecnia. F. Alcalá, G. Calvache y A. Espín. Editorial UGR. ISBN 978-84-338-2683-2. 2000
+~ ISBN 978-84-18792-60-1. 2022  →  Problemas de Ingeniería Eléctrica. 3ª Ed. O. Rabaza y F. Aznar. Editorial Técnica Avicam. ISBN 978-84-18792-60-1. 2022
+~ Circuitos eléctricos. J. Fraile Mora. Ed. Pearson. ISBN 978-84-832-2795-4. 2012 Máquinas eléctricas. J. Fraile Mora. Ed. Garceta. ISBN 978-84-16228-133. 2015 Problemas de circuitos eléctricos. J. Fraile Mora. Ed. Pearson. ISBN 978-84-903-5405-6  →  Problemas de circuitos eléctricos. J. Fraile Mora. Ed. Pearson. ISBN 978-84-903-5405-6. 2013
+~ Manual de Ingeniería Eléctrica. 2ª Ed. O. Rabaza y F. Aznar. Editorial Técnica Avicam  →  Manual de Ingeniería Eléctrica. 2ª Ed. O. Rabaza y F. Aznar. Editorial Técnica Avicam. ISBN 978-84-169-9274-4. 2018
+
+✅ Recursos añadidos:
+------------------------------
++ Circuitos eléctricos. J. Fraile Mora. Ed. Pearson. ISBN 978-84-832-2795-4. 2012
++ Máquinas eléctricas. J. Fraile Mora. Ed. Garceta. ISBN 978-84-16228-133. 2015
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

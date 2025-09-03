@@ -1,0 +1,28 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Fundamentos_de_Programación_(pdf)_2961115
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Garrido. Fundamentos de Programación en C++. Delta Publicaciones, 2005
+= A. Garrido. Fundamentos de programación con la STL. Editorial Universidad de Granada, 2016
+= A. Garrido. Metodología de la Programación: de bits a objetos. Editorial Universidad de Granada, 2016
+= R. Lafore. Object-oriented Programming in C++. Sams Publishing 2005
+= R. Martin. Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall, 2008
+= R. Mercer. Computing Fundamentals with C++. Franklin, Beedle and Associates, 2018
+= W. Savitch. Resolución de problemas con C++. Pearson, 2017
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ S. McConnell. Code Complete: A Practical Handbook of Software Construction. 2ª Edición  →  S. McConnell. Code Complete: A Practical Handbook of Software Construction. 2ª Edición. Microsoft Press, 2004
+~ Microsoft Press, 2004  →  S. McConnell. Code Complete: A Practical Handbook of Software Construction. 2ª Edición. Microsoft Press, 2004
+~ T. Gaddis, J. Walters, G. Muganda. Starting out with C++: early objects. 10ª Edición  →  T. Gaddis, J. Walters, G. Muganda. Starting out with C++: early objects. 10ª Edición. Pearson, 2019
+
+✅ Recursos añadidos:
+------------------------------
++ B. Stroustrup. The C++ Programming Language. 4ª Edición. Addison-Wesley, 2015
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

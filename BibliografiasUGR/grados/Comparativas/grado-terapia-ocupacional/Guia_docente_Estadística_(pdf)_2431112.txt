@@ -1,0 +1,27 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Estadística_(pdf)_2431112
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Forthofer, R., Lee, E., Hernandez, M. (2006). "Biostatistics. A guide to design, analysis and discovery". Academic Press
+= Martín Andrés, A. y Luna del Castillo, J.D. (1995). 50±10 horas de Bioestadística. Ed Norma
+= Martín Andrés, A. y Luna del Castillo, J.D. (2005). Bioestadística para las Ciencias de la Salud+. Ed Norma
+= Martín Andrés, A. y Luna del Castillo, J.D. (2013). 40±10 horas de Bioestadística. Ed Norma
+= Milton, J.S. (2007). "Estadística para Biología y Ciencias de la Salud". McGraw-Hill
+= Peña, D. (2002) Regresión y Diseño de Experimentos. Alianza Editorial
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Lepš, J., & Šmilauer, P. (2020). Biostatistics with R: An Introductory Guide for Field Biologists. Cambridge: Cambridge University Press. doi:10.1017/9781108616041 Batra, Neale, et al. (2021),The Epidemiologist R Handbook  →  Lepš, J., & Šmilauer, P. (2020). Biostatistics with R: An Introductory Guide for Field Biologists. Cambridge: Cambridge University Press. doi:10.1017/9781108616041
+
+✅ Recursos añadidos:
+------------------------------
++ Batra, Neale, et al. (2021),The Epidemiologist R Handbook. (https://epirhandbook.com/es/index.es.html)
++ Crawley, M.J. (2012). The R Book, 2nd Edition. ISBN: 978-1-118-44896-0
++ Le, C.T. Hoboken, (2016). Introductory Biostatistics. John Wiley & Sons
+
+📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

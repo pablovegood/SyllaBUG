@@ -1,0 +1,23 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Análisis_Matemático_(pdf)_2211111
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= El material necesario para el desarrollo de la asignatura estará disponible en la plataforma PRADO de la UGR
+= J. Alaminos, C. Aparicio, J. Extremera, P. Muñoz y A. Villena. Cálculo. Ediciones ELectoLibris. (disponible en PRADO)
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Stewart, Cálculo diferencial e integral, Internacional Thomson Editores, 1998 Stewart, Cálculo multivariable, Internacional Thomson Editores, 1999 Iberoamericana, 1987Ayres-Mendelson, Cálculo diferencial e integral  →  Stewart, Cálculo multivariable, Internacional Thomson Editores, 1999
+
+✅ Recursos añadidos:
+------------------------------
++ Stewart, Cálculo diferencial e integral, Internacional Thomson Editores, 1998
++ Thomas-Finley, Calculus con Geometría Analítica (2 volúmenes), Addison-Wesley Iberoamericana, 1987Ayres-Mendelson, Cálculo diferencial e integral
++ Thomas-Finley, Cálculo (una variable), Addison-Wesley Longman, 1998
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

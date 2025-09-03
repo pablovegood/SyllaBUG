@@ -1,0 +1,29 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Óptica_Aplicada_(pdf)_28711C1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= CALVO, M.L., Óptica avanzada, Editorial Ariel (2002)
+= GOODMAN, J.W., “Introduction to Fourier Optics”, Ed. Mc. Graw-Hill, 1968
+= HARIHARAN, P., Basics of Holography, Cambridge University Press, 2002
+= KOPEIKA, N.S., A system Engineering Approach to Imaging, SPIE Press 1998
+= NIEVES, J.L., HERNÁNDEZ ANDRÉS, J. y JIMÉNEZ, J.R., “Introducción a la teoría difraccional de la formación de imágenes”, Univ. Granada, 2002
+= REYNOLDS, G.O., DEVELIS, J.B., PARRENT JR., G.B. y THOMPSON, B.J., The New Physical Optics Notebook: Tutorials in Fourier Optics, SPIE Press 1989
+= VOELZ, D., Computational Fourier Optics, SPIE Press 2011
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
++ B.E.A. SALEH and M.C. TEICH, Fundamentals of Photonics.. Wiley 1990. Second edition 2007
++ CATHEY, W.T., “Optical Information Processing and Holography”, Ed. John Wiley & Sons, 1974
++ EASTON JR, R.L. Fourier Methods in Imaging, John Wiley & Sons, Ltd 2010
++ ERSOY, O.K., Diffraction, Fourier Optics and Imaging, John Wiley & Sons. Inc 2007
+
+📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

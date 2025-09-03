@@ -1,0 +1,27 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Instrumentación_Electrónica_(pdf)_2051136
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= S. Franco. “Design with operational amplifier and analog integrated circuits”, McGraw-Hill, 2005
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ M.A. Pérez García. “Instrumentación Electrónica” Paraninfo, 2014 M.A. Pérez García. “Instrumentación Electrónica: 230 problemas resueltos” Ibergarceta, Hojas características de amplificadores, filtros, convertidores y sensores M.A. Pérez García et al. “Instrumentación Electrónica” Thomson, 2004 R.Pallás Areny. "Sensores y Acondicionadores de Señal", 2&ordf;Ed., Marcombo- Boixareu, 2001 Pallàs Areny, R., "Instrumentos electrónicos básicos", Ed. Marcombo, Barcelona, 2006  →  Hojas características de amplificadores, filtros, convertidores y sensores
+
+✅ Recursos añadidos:
+------------------------------
++ A.J. Diefenderfer, “Principles of Electronic Instrumentation 3rd edition” Brooks/Cole 1997
++ M.A. Pérez García et al. “Instrumentación Electrónica” Thomson, 2004
++ M.A. Pérez García. “Instrumentación Electrónica: 230 problemas resueltos” Ibergarceta, 2012
++ M.A. Pérez García. “Instrumentación Electrónica” Paraninfo, 2014
++ P.H.Sydenham, N.H.Hancock y R.Thorn. "Introduction to Measurement Science and Engineering", Wiley, 1989
++ Pallàs Areny, R., "Instrumentos electrónicos básicos", Ed. Marcombo, Barcelona, 2006
++ R. Pallás Areny, "Adquisición y Distribución de Señales", Marcombo-Boixareu, 2005
++ R.Pallás Areny. "Sensores y Acondicionadores de Señal", 2&ordf;Ed., Marcombo-Boixareu, 2001
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

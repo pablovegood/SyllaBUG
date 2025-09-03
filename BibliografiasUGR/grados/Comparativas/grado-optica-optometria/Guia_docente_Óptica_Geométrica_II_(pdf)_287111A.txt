@@ -1,0 +1,28 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Óptica_Geométrica_II_(pdf)_287111A
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= C. Hernández, B. Domenech, C. Vázquez, C. Illueca. “Óptica Geométrica: Teoría y cuestiones”. Universidad de Alicante, 1999
+= F.A. Jenkins, H.E. Hecht. “Fundamentals of Optics”, 4th Ed. McGraw-Hill International Ed., 1981
+= J. Casas. “Óptica”, 7ª Edición. Universidad de Zaragoza, 1994
+= M. Melgosa, L. Jiménez del Barco, J. Romero, E. Hita. “Problemas de Óptica Geométrica”, 1990
+= Mª S. Millán, J. Escofet, E. Pérez. “Óptica Geométrica”. Ariel Ciencia, Barcelona, 2004
+= Mª S. Millán, J. Escofet, M. Lupón. “Óptica Geométrica. Problemas”. Ediciones UPC, nº 21, 1993
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ J. Romero, J.A. García, A. García. “Curso de introducción a la óptica fisiológica”. Ed  →  J. Romero, J.A. García, A. García. “Curso de introducción a la óptica fisiológica”. Ed. Comares, 1996
+~ A. Yebra, M. Melgosa. “Exámenes de Óptica Geométrica II (cursos 2010/11 a 2016/17)”  →  A. Yebra, M. Melgosa. “Exámenes de Óptica Geométrica II (cursos 2010/11 a 2016/17)”. Universidad de Granada. Godel Impresiones Digitales SL, 2018
+~ Universidad de Granada. Godel Impresiones Digitales SL, 2018  →  A. Yebra, M. Melgosa. “Exámenes de Óptica Geométrica II (cursos 2010/11 a 2016/17)”. Universidad de Granada. Godel Impresiones Digitales SL, 2018
+
+✅ Recursos añadidos:
+------------------------------
++ Artículos de divulgación científica
++ E. Hecht. “Optics”, 3rd. Ed. Addison-Wesley, 1998
+
+📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

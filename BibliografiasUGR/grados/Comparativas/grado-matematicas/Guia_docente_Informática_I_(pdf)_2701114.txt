@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Informática_I_(pdf)_2701114
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Deitel, P., Deitel, H., C++ How to Program. 10th edition. Pearson, 2017
+= Eckel, B., Thinking in C++. 2nd edition. Prentice-Hall, 2000
+= Garrido, A., Fdez-Valdivia, J., Abstracción y estructuras de datos en C++. Delta Publicaciones, 2006
+= Garrido, A., Fundamentos de programación con la STL. Editorial Universidad de Granada, 2016
+= Garrido, A., Fundamentos de programación en C++. Delta Publicaciones, 2005
+= Garrido, A., Prácticas con C++: metodología de la programación. Editorial Universidad de Granada, 2017
+= Garrido, A., y Martínez-Baena, J., Introducción a la programación con C++: ejercicios. Editorial Universidad de Granada, 2016
+= Savitch, W., Resolución de problemas en C++. 5º edición. Pearson, 2017
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
++ BIBLIOGRAFÍA COMPLEMENTARIA.Deitel, P., Deitel, H., C++ How to Program. 10th edition. Pearson, 2017.Eckel, B., Thinking in C++. 2nd edition. Prentice-Hall, 2000.Garrido, A., Fdez-Valdivia, J., Abstracción y estructuras de datos en C++. Delta Publicaciones, 2006.Sedgewick, R., Algorithms in C++. Addison-Wesley, 2002.Stroustrup, B., C++ Programming Language. 4th edition. Addison-Wesley, 2013
++ BIBLIOGRAFÍA FUNDAMENTAL.Garrido, A., Prácticas con C++: metodología de la programación. Editorial Universidad de Granada, 2017.Garrido, A., Fundamentos de programación con la STL. Editorial Universidad de Granada, 2016.Garrido, A., Fundamentos de programación en C++. Delta Publicaciones, 2005.Garrido, A., y Martínez-Baena, J., Introducción a la programación con C++: ejercicios. Editorial Universidad de Granada, 2016.Savitch, W., Resolución de problemas en C++. 5º edición. Pearson, 2017
++ Sedgewick, R., Algorithms in C++. Addison-Wesley, 2002
++ Stroustrup, B., C++ Programming Language. 4th edition. Addison-Wesley, 2013
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

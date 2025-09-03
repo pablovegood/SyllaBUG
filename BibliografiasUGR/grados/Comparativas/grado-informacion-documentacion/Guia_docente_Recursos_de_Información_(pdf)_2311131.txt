@@ -1,0 +1,32 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Recursos_de_Información_(pdf)_2311131
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Allen Cypher & Mira Dontcheva & Tessa Lau & Jeffrey Nichols. No code required: Giving Users Tools to Transform the Web. Morgan Kaufmann Publishers, 2010
+= Brent Chaters. Mastering Search Analytics, O'Reilly Media, 2011
+= Cid Leal, Pilar.; Perpiny ̉Morera, Remei.Cómo y dónde buscar fuentes de información.Bellaterra : Universitat Autṇoma de Barcelona. Servei de Publicacions, 2013
+= Gerald Reischl. El engaño Google: una potencia mundial incontrolada en Internet. Barcelona : MediaLive, 2008
+= Norman Paskin. Digital Object Identifier (DOI) System. Encyclopedia of Library and Information Sciences, Third Edition 2010
+= Peter Morville, Jeffery Callender. Search Patterns, O'Reilly Media, 2010
+= René König and Miriam Rasch (eds.) Society of the Query Reader: Reflections on Web Search. Amsterdam : Institute of Network Cultures, 2014
+= Stephan Spencer. Google Power Search, O'Reilly Media, 2011
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Gerald Reischl. El engaño Google: una potencia mundial incontrolada en Internet  →  Gerald Reischl. El engaño Google: una potencia mundial incontrolada en Internet. Barcelona : MediaLive, 2008
+~ Barcelona : Editorial UOC, 2017 Lopezosa, Carlos. Bing chat: hacia una nueva forma de entender las búsquedas. Anuario ThinkEPI Vol 17, 2023  →  Lopezosa, Carlos.Bing chat: hacia una nueva forma de entender las búsquedas. Anuario ThinkEPI Vol 17, 2023
+~ Cid Leal, Pilar.; Perpiny ̉Morera, Remei. Cómo y dónde buscar fuentes de información  →  Cid Leal, Pilar.; Perpiny ̉Morera, Remei.Cómo y dónde buscar fuentes de información.Bellaterra : Universitat Autṇoma de Barcelona. Servei de Publicacions, 2013
+~ Cordón García, José Antonio. Las nuevas fuentes de información : información y búsqueda documental en el contexto de la web 2.0. Madrid : Pirámide, 2012 López-Carreño, Rosana. Fuentes de información : guía básica y nueva clasificación  →  López-Carreño, Rosana.Fuentes de información : guía básica y nueva clasificación.Barcelona : Editorial UOC, 2017
+
+✅ Recursos añadidos:
+------------------------------
++ Cordón García, José Antonio.Las nuevas fuentes de información : información y búsqueda documental en el contexto de la web 2.0.Madrid : Pirámide, 2012
++ Dirk Lewandowsk,. Web search engine research. Bingley : Emerald, 2012
++ Mark Levene. An introduction to search engine and web navigation. New Jersey : Wiley, 2010
+
+📊 Porcentaje estimado de cambio: 58% [█████░░░░░]

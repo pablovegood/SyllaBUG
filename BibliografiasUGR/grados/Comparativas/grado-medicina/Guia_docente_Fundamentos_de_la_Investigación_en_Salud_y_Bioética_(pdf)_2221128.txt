@@ -1,0 +1,33 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Fundamentos_de_la_Investigación_en_Salud_y_Bioética_(pdf)_2221128
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Barcelona: Elsevier. 2012
+
+📚 Recursos sin cambios:
+------------------------------
+= 2. Ferreira-González I, Urrutia G, Alonso-Coello P. Revisiones sistemáticas y meta-análisis: bases conceptuales e interpretación. Rev Esp Cardiol 2011; 64:688-696
+= 3. Moher D, Tetzlaff J, Tricco AC, Sampson M, Altman DG. Epidemiology and reporting characteristics of systematic reviews. PLoSMed 2007; 4:e78
+= 4. Ramón y Cajal S. Reglas y consejos sobre investigación científica. Los tónicos de la voluntad. Barcelona: Planeta-Espasa, Colección Austral, 1991
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Parte I: Fundamentos de Investigación en Salud 1. Argimon Pallás JM, Jiménez Villa J. Métodos de investigación clínica y epidemiológica. 4ª ed  →  1. Argimon Pallás JM, Jiménez Villa J. Métodos de investigación clínica y epidemiológica. 4ª ed. Barcelona: Elsevier. 2012
+~ 4. Ramón y Cajal S. Reglas y consejos sobre investigación científica. Los tónicos de la voluntad  →  4. Ramón y Cajal S. Reglas y consejos sobre investigación científica. Los tónicos de la voluntad. Barcelona: Planeta-Espasa, Colección Austral, 1991
+~ 5. Iribar MC, Wolf FI, Torres JM, Salinero-Bachiller M, Peinado JM. Fundamentos de Investigación. Granada: Ed. Fleming, 2017. problemas. Madrid: Tecnos, 2005  →  5. Iribar MC, Wolf FI, Torres JM, Salinero-Bachiller M, Peinado JM. Fundamentos de Investigación. Granada: Ed. Fleming, 2017
+~ Salamanca, Ediciones Universidad de Salamanca, 2006. http://www.bbvaopenmind.com/static/4libro/valores_y_etica_esp.pdf bioquímicos y médicos. Santiago, Chile: CIEB, Universidad de Chile y Oficina Panamericana de la Salud, 2009 (ISBN: 978-956-16-056587). www.uchile.cl/documentos/version-en- pdf_76704_2_5937.pdf Se irá comunicando en cada uno de los bloques temáticos, y se difundirá a través de la plataforma Prado  →  Se irá comunicando en cada uno de los bloques temáticos, y se difundirá a través de la plataforma Prado
+
+✅ Recursos añadidos:
+------------------------------
++ 1. Feito L, Gracia D, Sánchez M (eds.). Bioética: El estado de La cuestión. Madrid: Triacastela, 2011
++ 2. García Gómez-Heras JM, Velayos Castelo C (eds). Bioética. Perspectivas emergentes y nuevos problemas. Madrid: Tecnos, 2005
++ 3. Gracia D, Júdez J. Ética en la práctica clínica. Madrid, Triacastela, 2007
++ 4. Jonsen AR, Siegler M, Winslade WJ. Ética clínica. Aproximación práctica a la toma de decisiones éticas en la medicina clínica. Barcelona: Ariel, 2005
++ 5. López de la Vieja MT et al. (eds.). Bioética y feminismo. Estudios multidisciplinares de género. Salamanca, Ediciones Universidad de Salamanca, 2006
++ 6. Valores y Ética para el siglo XXI. BBVeds. http://www.bbvaopenmind.com/static/4libro/valores_y_etica_esp.pdf
++ 7. Apag-Hagar M. Bioética: al encuentro de una conciencia. Bioética para farmacéuticos, bioquímicos y médicos. Santiago, Chile: CIEB, Universidad de Chile y Oficina Panamericana de la Salud, 2009 (ISBN: 978-956-16-056587). www.uchile.cl/documentos/version-en-pdf_76704_2_5937.pdf
++ Parte I: Fundamentos de Investigación en Salud
++ Parte II: Bioética
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Estadística_(pdf)_2311126
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Egghe, L. y R. Rousseau (1990). Introduction to Informetrics. Quantitative Methods in Library, Documentation and Information Science. Elsevier, Amsterdam
+= Pérez López, C. (2002) Estadística aplicada a través de Excel. Prentice Hall. Madrid
+= Sanz Casado, E. Manual de estudios de usuarios. Fundación Germán Sánchez Ruipérez y Ediciones Pirámide, 1994
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Marín, J. (1998). Métodos Estadísticos en Información y Documentación. ICE Universidad de Murcia, Murcia Marín, J. (1999). Estadística Aplicada a las Ciencias de la Documentación. Diego Marín Editor, Murcia  →  Marín, J. (1999). Estadística Aplicada a las Ciencias de la Documentación. Diego Marín Editor, Murcia
+~ Martín Andrés, A. y Luna, J.D. Bioestadística para las ciencias de la salud. Ed. Norma  →  Martín Andrés, A. y Luna, J.D. Bioestadística para las ciencias de la salud. Ed. Norma. 1994
+
+✅ Recursos añadidos:
+------------------------------
++ Haber, A. y Runyon, R.P. Estadística general. Ed. Addison Wesley Iberoamericana. 1986
++ Marín, J. (1998). Métodos Estadísticos en Información y Documentación. ICE Universidad de Murcia, Murcia
++ Simpson, I.S. Basic statistic for librarians. Ed. Clive Bingley. 1989
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

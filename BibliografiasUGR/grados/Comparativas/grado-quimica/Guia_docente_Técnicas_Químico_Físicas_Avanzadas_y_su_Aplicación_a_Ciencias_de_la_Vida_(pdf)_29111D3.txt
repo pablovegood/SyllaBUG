@@ -1,0 +1,32 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Técnicas_Químico_Físicas_Avanzadas_y_su_Aplicación_a_Ciencias_de_la_Vida_(pdf)_29111D3
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Canales, A. (2017) Biophysical Techniques in Drug Discovery. Royal Society of Chemistry
+= Cooper, A. (2011) Biophysical Chemistry. Royal Society of Chemistry
+= Cox, M.M., Phillips, G.N. (2007) Handbook of Proteins. Structure, Function and Methods. John Wiley & Sons
+= Klostermeier, D., Rudolph, M.G. (2017) Biophysical Chemistry. CRC Press, Taylor & Francis Group
+= Nolting, B. (2005) Methods in Modern Biophysics. Springer
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Karasek, B. (2015) Recent Advances in Biophysics. Callisto Reference. van Holde, K.E., Curtis Johnson, W., Shing Ho, P. (1998) Physical biochemistry. Prentice Hall  →  Karasek, B. (2015) Recent Advances in Biophysics. Callisto Reference
+~ Hoffman, E., Stroobant, V. (2007) Mass Spectrometry. Principles and Applications. John Gross, J.H. (2011) Mass Spectrometry. A Text Book. Springer Lakowicz, J.R. (2006) Principles of Fluorescence Spectroscopy. Springer  →  Gross, J.H. (2011) Mass Spectrometry. A Text Book. Springer
+
+✅ Recursos añadidos:
+------------------------------
++ Baró, A.M., Reifenberger, R. G. (2002) Atomic Force Microscopy in Liquid. Wiley-WCH
++ Buchner, J., Kiefhaber, T. (2005) Protein Folding Handbook. Wiley-WCH
++ Cole, R.B. (2010) Electrospray and MALDI Mass Spectrometry. John Wiley & Sons
++ Hoffman, E., Stroobant, V. (2007) Mass Spectrometry. Principles and Applications. John Wiley & Sons
++ Lakowicz, J.R. (2006) Principles of Fluorescence Spectroscopy. Springer
++ Walla, P.J. (2014) Modern Biophysical Chemistry. Wiley-WCH
++ Watson, J.T., Sparkman, O.D. (2007) Introduction to Mass Spectrometry. John Wiley & Sons
++ van Holde, K.E., Curtis Johnson, W., Shing Ho, P. (1998) Physical biochemistry. Prentice Hall
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -1,0 +1,23 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Electrónica_Analógica_(pdf)_2211129
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Sedra/Smith, “Microelectronic Circuits” 5th Ed. OUP Malik, “Circuitos Electrónicos. Análisis, simulación y diseño”, Prentice Hall Millman/Grabel, “Microelectrónica” 6ª Ed. Hispano Europea  →  Malik, “Circuitos Electrónicos. Análisis, simulación y diseño”, Prentice Hall
+
+✅ Recursos añadidos:
+------------------------------
++ Gray/Meyer, “Analysis and Design of Analog Integrated Circuits” 4th Ed. John Wiley and Sons
++ Hambley, “Electrónica”, 2ª Ed. Prentice Hall
++ Millman/Grabel, “Microelectrónica” 6ª Ed. Hispano Europea
++ Sedra/Smith, “Microelectronic Circuits” 5th Ed. OUP
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

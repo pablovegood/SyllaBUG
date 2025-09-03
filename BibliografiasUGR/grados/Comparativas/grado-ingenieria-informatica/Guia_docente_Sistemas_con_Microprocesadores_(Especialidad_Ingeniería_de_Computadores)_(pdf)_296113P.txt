@@ -1,0 +1,27 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Sistemas_con_Microprocesadores_(Especialidad_Ingeniería_de_Computadores)_(pdf)_296113P
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Paraninfo, 1999. (en biblioteca UGR)  →  Arduino. Curso práctico de formación. Óscar Torrente Artero. RC libros, 2013. (Disponible en biblioteca UGR)
+~ Arduino Projects Vol-I: With Proteus Simulation Files. Don't just read it, Try it... Manoj Thakur. 2016 Arduino cookbook. Michael Margolis, Brian Jepson, Nicholas Robert. O'Reilly, 2020 (en F2008181Q biblioteca UGR) Microbótica. José María Angulo Usategui, Susana Romero Yesa, Ignacio Angulo Martínez  →  Arduino Projects Vol-I: With Proteus Simulation Files. Don't just read it, Try it... Manoj Thakur. 2016
+~ Abarca Jiménez, Jesús Mares Carreño. Grupo Editorial Patria, 2014. (en biblioteca UGR) Proyectos Arduino con Tinkercad: Diseño y programación de proyectos electrónicos basados en Arduino con Tinkercad. M. Eng. Johannes Wild. 2022  →  Proyectos Arduino con Tinkercad: Diseño y programación de proyectos electrónicos basados en Arduino con Tinkercad. M. Eng. Johannes Wild. 2022
+~ AVR Programming: Learning to Write Software for Hardware. Elliot Williams. Maker Media, Inc., 2014. (en biblioteca UGR) Exploring Arduino: tools and techniques for engineering wizardry. Jeremy Blum. John El Microcontrolador ATMega328P de Microchip: Programación en Ensamblador, Lenguaje C y un enlace con Arduino. Felipe Santiago Espinosa. Universidad Tecnológica de la Mixteca, 2021. biblioteca UGR) Sensores y actuadores. Aplicaciones con Arduino. Leonel G. Corona Ramírez, Griselda S  →  AVR Programming: Learning to Write Software for Hardware. Elliot Williams. Maker Media, Inc., 2014. (Disponible en biblioteca UGR)
+
+✅ Recursos añadidos:
+------------------------------
++ Arduino cookbook. Michael Margolis, Brian Jepson, Nicholas Robert. O'Reilly, 2020 (Disponible en biblioteca UGR)
++ El Microcontrolador ATMega328P de Microchip: Programación en Ensamblador, Lenguaje C y un enlace con Arduino. Felipe Santiago Espinosa. Universidad Tecnológica de la Mixteca, 2021. (Disponible en línea en el repositorio de la Universidad Tecnológica de la Mixteca)
++ Exploring Arduino: tools and techniques for engineering wizardry. Jeremy Blum. John Wiley & Sons, 2019. (Disponible en biblioteca UGR)
++ Microbótica. José María Angulo Usategui, Susana Romero Yesa, Ignacio Angulo Martínez. Paraninfo, 1999. (Disponible en biblioteca UGR)
++ Sensores y actuadores. Aplicaciones con Arduino. Leonel G. Corona Ramírez, Griselda S. Abarca Jiménez, Jesús Mares Carreño. Grupo Editorial Patria, 2014. (Disponible en biblioteca UGR)
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

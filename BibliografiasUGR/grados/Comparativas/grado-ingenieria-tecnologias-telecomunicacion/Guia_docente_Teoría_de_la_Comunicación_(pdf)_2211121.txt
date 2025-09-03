@@ -1,0 +1,29 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Teoría_de_la_Comunicación_(pdf)_2211121
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A.B. Carlson, ‘Comunication Systems’, (2ª edición), New York, McGraw-Hill, 1986
+= F. Artés, J. Pérez González, R. Cid, C. López, F. Mosquera, F. Pérez Cruz. ‘Comunicaciones Digitales’ Pearson Educación, 2007
+= J. G. Proakis, M. Salehi, ‘Communication Systems Engineering’, (2ª edición). Englewood Cliff, NJ, Prentice-Hill, 2002
+= N. Abramson. ''Teoría de la Información y Codificación''. Paraninfo, 1986
+= S. Kay, ‘Intuitive probability and random processes using matlab’. 2006. New York: Springer, 2006
+= S. Miller, D. Childers, ‘Probability and Random Processes: with applications to signal processing and communications’, (2ª edición), Amsterdam: Elsevier Academic Press, 2012
+= S.M. Kay, ‘Fundamentals of Statistical Signal Processing: Estimation Theory’, Prentice-Hall. 1993
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ J. Stone, ‘Information Theory: a tutorial introduction’ (1ª edición), S. l.: Sebtel Press, 2015 Jr. Peebles, Z. Peyton, ‘Probability, Random Variables and Random Signal Principles’, (4ª edición), Mc Graw-Hill. 2001  →  J. Stone, ‘Information Theory: a tutorial introduction’ (1ª edición), S. l.: Sebtel Press, 2015
+
+✅ Recursos añadidos:
+------------------------------
++ A. León-García, ‘Probability and Random Processes for Electrical Engineering’, (2ª edición). Addison Wesley. 1994
++ Jr. Peebles, Z. Peyton, ‘Probability, Random Variables and Random Signal Principles’, (4ª edición), Mc Graw-Hill. 2001
++ S. Haykin, ‘Communication Systems’. (4ª edición), New York, Willey, 2001
++ T. Cover, J.Thomas, 'Elements of Information Theory’, John Wiley&Sons, 1991
+
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

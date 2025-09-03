@@ -1,0 +1,26 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Desarrollo_de_Aplicaciones_en_Red_(Especialidad_Telemática)_(pdf)_221113B
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Especificación CORBA
+= HartMut König: "Protocol Engineering". Springer Berlin Heidelberg, 2012. ISBN: 978-3-642-29145-6
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Prentice Hall, 2007 Liu. Computación Distribuida. Fundamentos y Aplicaciones. Pearson, 2004  →  Liu. Computación Distribuida. Fundamentos y Aplicaciones. Pearson, 2004
+~ 978-3-642-29145-6 P. García, J. Díaz, J. López: “Transmisión de datos y redes de computadores”. Prentice- Hall, 2003. ISBN: 84-205-3919-8 Rusty Harold, E. "Java Networking Programming, 3ª ed."; O'Reilly; 2004  →  Rusty Harold, E. "Java Networking Programming, 3ª ed."; O'Reilly; 2004
+~ Tanenbaum, A. S., van Steen, "M. Distributed systems: principles and paradigms"  →  Tanenbaum, A. S., van Steen, "M. Distributed systems: principles and paradigms". Prentice Hall, 2007
+
+✅ Recursos añadidos:
+------------------------------
++ Especificación SOAP
++ Especificación WSDL
++ J.D. Sprangins; J.L. Hammond ; K. Pawlikowski: "Telecommunications Protocols and Design". Adison Wesley; 1991
++ P. García, J. Díaz, J. López: “Transmisión de datos y redes de computadores”. Prentice-Hall, 2003. ISBN: 84-205-3919-8
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

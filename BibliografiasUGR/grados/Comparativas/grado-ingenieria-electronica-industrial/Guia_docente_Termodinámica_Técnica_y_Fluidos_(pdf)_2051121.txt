@@ -1,0 +1,40 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Termodinámica_Técnica_y_Fluidos_(pdf)_2051121
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Bailón-Moreno, R. y Bailón-Ruiz, R. Transmisión de calor en Electrónica. Teoría y problemas. Fleming. 2022
+= Banderas A. V. Problemas de flujo de fluidos. Limusa. 1998
+= Darby, R. Chemical engineering fluids mechanics. 2nd Ed., 2001
+= Douglas J. F. Problemas resueltos de Mecánica de Fluidos. Vols. 1 y 2. Librería Editorial Bellisco. 1991
+= Holman J.P. Transferencia de calor. Mac Graw-Hill. España. 1998
+= Holman, J.P. Thermodynamics. McGraw-Hill. 1990
+= Hvang F.F. Ingeniería Termodinámica: Fundamentos y Aplicaciones. Compañía Editorial Continental. 2003
+= Llopis R., Cabello R., Sánchez D. Torrella, E. Problemas resueltos de producción de frio y sicometría. Tablas y diagramas. A Madrid Vicente Ediciones. 2010
+= Llorens M., Miranda A.L. Ingeniería Térmica. Marcombo. 2009
+= Mott, R. L. Mecánica de fluidos. 6ª Ed. Pearson Educación. 2006
+= Ortega, M. R. Lecciones de Física. Mecánica. Vol. 3 (Mecánica de Fluidos). Edición del autor. 1992
+= Perry R.H., Green, D.H. Manual del Ingeniero Químico, Mac Graw- Hill España. 2001
+= White F. M. Mecánica de fluidos. McGraw-Hill. 2008
+= Çengel Y. A. y Boles M. A. Termodinámica. McGraw-Hill. 2009
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Prieve D.C. Advanced Fluid Mechanics with Vector Field Theory. 2016 González J. Energías renovables. Reverté. 2009  →  González J. Energías renovables. Reverté. 2009
+~ Incropera F. P., De Witt D.P., Bergman T. L., Lavine A. S. Fundamentals of heat and mass Morán M. J., Shapiro H.N. Fundamentos de termodinámica técnica. Reverté. Barcelona  →  Morán M. J., Shapiro H.N. Fundamentos de termodinámica técnica. Reverté. Barcelona. 2008
+
+✅ Recursos añadidos:
+------------------------------
++ Bejan A., Kraus A. D. Heat transfer handbook. John Wiley and Sons Inc. 2003
++ Incropera F. P., De Witt D.P., Bergman T. L., Lavine A. S. Fundamentals of heat and mass transfer, 6th Edition. John Wiley and Sons Inc. 2007
++ Kakac S., Liu H. Heat Exchangers. Selection, Rating and Thermal Design. CRC PRESS, 2002
++ Mecánica de fluidos
++ Prieve D.C. Advanced Fluid Mechanics with Vector Field Theory. 2016
++ Termotecnia
++ Çengel Y. A. Transferencia de calor y masa. Un enfoque práctico. McGraw-Hill. 2007
+
+📊 Porcentaje estimado de cambio: 56% [█████░░░░░]

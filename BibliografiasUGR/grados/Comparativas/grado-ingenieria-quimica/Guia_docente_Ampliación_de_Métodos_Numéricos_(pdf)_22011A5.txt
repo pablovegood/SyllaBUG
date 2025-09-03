@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Ampliación_de_Métodos_Numéricos_(pdf)_22011A5
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= BURDEN, R.L. y FAIRES, J.D.: Análisis Numérico. 6ª ed., International Thompson Editores, México, 1998
+= CHAPRA, S.C. y CANALE, R.P.: Métodos numéricos para ingenieros. 5ª ed., McGraw-Hill, Interamericana Editores, México, 2007
+= GROSSMAN, S.: Álgebra lineal con aplicaciones (4ª edición). McGraw-Hill, México, 1991
+= STARZAK, M.E.: "Mathematical Methods in Chemistry and Physics". Ed. Plenum Press, N.Y. and London. 1989
+= TURRELL G.: "Mathematics for Chemistry and Physics". Ed. Academic Press. 2002
+= ZILL, D.G.: "Ecuaciones Diferenciales con Aplicaciones (3ª ed.)". Grupo Editorial Iberoamérica. 1997
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ TWIZELL, E.H.: "Numerical Methods, whit Applications in the Biomedical Sciences". Ed  →  TWIZELL, E.H.: "Numerical Methods, with Applications in the Biomedical Sciences". Ed. John Wiley and Sons. 1988
+
+✅ Recursos añadidos:
+------------------------------
+No se añadieron recursos.
+
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

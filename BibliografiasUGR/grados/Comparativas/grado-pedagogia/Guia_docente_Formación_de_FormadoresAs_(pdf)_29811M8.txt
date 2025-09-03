@@ -1,0 +1,34 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Formación_de_FormadoresAs_(pdf)_29811M8
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- EV-C4 Asistencia a clase, seminarios, conferencias, tutorías, sesiones de grupo
+- Editorial Paraninfo
+
+📚 Recursos sin cambios:
+------------------------------
+= Alonso-García, S., Romero-Rodríguez, J. M., Marín, J. A., & Sadio-Ramos, F. J. (2021). Tecnología educativa para la agenda 2030: Objetivos de Desarrollo Sostenible (ODS) ante la pandemia. Texto Livre: Linguagem e Tecnologia, 14(2), e34883.https://periodicos.ufmg.br/index.php/textolivre/article/view/34883
+= Tejada, J. y Giménez, V. (2007). Formación de formadores. Escenario Aula. Madrid: Editorial Paraninfo
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Alonso-García, S., Aznar-Díaz, I., Cáceres-Reche, M. P., Trujillo-Torres, J. M., & Romero- Rodríguez, J. M. (2019). Systematic Review of Good Teaching Practices with ICT in Spanish Higher Education. Trends and Challenges for Sustainability. Sustainability, Acebedo, M. J., Aznar-Díaz, I., & Hinojo-Lucena, F. J. (2017). Instrumentos para la EV-C3 Grado de implicación y actitud del alumnado manifestada en su participación en las consultas, exposiciones y debates; así como en la elaboración de los trabajos, individuales o en equipo, y en las sesiones de puesta en común  →  Alonso-García, S., Aznar-Díaz, I., Cáceres-Reche, M. P., Trujillo-Torres, J. M., & Romero-Rodríguez, J. M. (2019). Systematic Review of Good Teaching Practices with ICT in Spanish Higher Education. Trends and Challenges for Sustainability. Sustainability, 11(24), 7150.https://doi.org/10.3390/su11247150
+
+✅ Recursos añadidos:
+------------------------------
++ Acebedo, M. J., Aznar-Díaz, I., & Hinojo-Lucena, F. J. (2017). Instrumentos para la evaluación del aprendizaje basado en competencias: Estudio de caso. Información tecnológica, 28(3), 107-118.https://doi.org/10.4067/s0718-07642017000300012
++ Aznar-Díaz, I., & Hinojo-Lucena, F. J. (2009). La integración social a través del empleo y la formación: origen y evolución histórica de la Formación Profesional Ocupacional. Revista Iberoamericana de Educación, 48, 1-10.https://doi.org/10.3916/c16-2001-24
++ Aznar-Díaz, I., Hinojo-Lucena, F. J., & Fernández-Martín, F. D. (2007). Competencia, competencias profesionales y perfil profesional: retrato del perfil del psicopedagogo. Publicaciones: Facultad de Educación y Humanidades del Campus de Melilla, 37, 2007, 109-116.https://doi.org/10.35622/j.rie.2019.02.012
++ Formichella, M. M., & London, S. (2013). Empleabilidad, educación y equidad social. Revista de Estudios Sociales, 47,79-91.https://doi.org/10.7440/res47.2013.06
++ Gijón, J., y Lizarte, E. J. (2021). Manual de Formación de formadores. Editorial Técnica Avicam
++ González Olivares, Á. (2014). Las competencias docentes de la formación para el empleo. International Journal of Developmental and Educational Psychology, 7(1) 179-184.https://doi.org/10.17060/ijodaep.2014.n1.v7.789
++ Hinojo-Lucena, F. J., Rodríguez-García, A. M., & Romero-Rodríguez, J. M. (2018). Universidades digitalizadas: los Entornos Virtuales de Aprendizaje (EVA) y su incidencia en el desarrollo de la competencia digital. En E. López-Meneses, D. Cobos-Sanchiz, A.H. Martín-Padilla, L. Molina-García y A. Jaén-Martínez (Eds.), Experiencias pedagógicas e innovación educativa. Aportaciones desde la praxis docente e investigadora (pp. 1343-1354). Octaedro
++ Lizarte Simón, E. J., & Gijón Puerta, J. (2021). Manual práctico de formación de formadores. Editorial Técnica Avicam
++ Medina Rivilla, A. (2014). Evaluación de programas de formación de formadores y docentes: estudio de caso. Revista de Evaluación de Programas y Políticas Públicas, (2), 111-153.https://doi.org/10.5944/reppp.2.2014.12055
++ Piñeyro, M. L. (2005). Las dinámicas grupales en el área educativa. Contexto educativo: revista digital de investigación y nuevas tecnologías, 36
++ Rubio, M. C. (2015). Formación de formadores. Manual teórico. Madrid: Editorial CEP
++ Tejada, J. (2013). Profesionalización docente en la universidad: implicaciones desde la formación. Revista de Universidad y Sociedad del Conocimiento (RUSC), 10(1), 170-184.https://doi.org/10.2307/j.ctv1dv0v33.9
++ Vezub, L. F. (2013). Hacia una pedagogía del desarrollo profesional docente: Modelos de formación continua y necesidades formativas de los profesores. Páginas de Educación, 6(1), 97-124.https://doi.org/10.21555/rpp.v33i33.2415
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

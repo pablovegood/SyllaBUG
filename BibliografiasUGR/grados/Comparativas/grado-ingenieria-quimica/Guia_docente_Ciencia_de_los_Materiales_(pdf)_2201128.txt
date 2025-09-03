@@ -1,0 +1,35 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Ciencia_de_los_Materiales_(pdf)_2201128
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Ciencia e Ingeniería de los Materiales. D.R. Askeland. Ed. Paraninfo, 2001
+= Ciencia e Ingeniería de los Materiales. J. M. Montes, F. G. Cuevas, J. Cintas. Ed. Paraninfo, 1ª Ed., 2014
+= Ciencia e ingeniería de los materiales. W. D. Callister Jr., D. G. Rethwisch. Ed. Reverté, 2ª Ed en español, 2016
+= Introducción a la Ciencia de Materiales para Ingenieros. J.F. Shackelford, Ed. Prentice Hall International, 7º Ed. 2010
+= Introducción a la Metalurgia Física 2. S. H. Avner. Ed. Mc Graw Hill. 1988
+= Introduction to Polymers. R. J. Young, P. A. Lovell. 3rd Edition. Ed. CRC Press, 2011
+= Physical Properties of Materials, Mary A. White, Ed. CRC Press, Third Edition, 2019
+= Polymer Chemistry. An Introduction. M. P. Stevens. 3rd Edition. Ed. Oxford University Press. 1999
+= Temas del 1 al 8
+= Temas del 9 al 15 y seminarios S1-S4
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Ciencia e Ingeniería de los Materiales. W.D. Callister, D.G. Rethwisch. Ed. Reverté, 2ª Ed  →  Ciencia e Ingeniería de los Materiales. W.D. Callister, D.G. Rethwisch. Ed. Reverté, 2ª Ed. 2016
+~ Fundamentos de la Ciencia e Ingeniería de los Materiales. W.F. Smith, J. Hashemi. Ed. Mc Graw Hill, 5º Ed. 2014  →  Fundamentos de la Ciencia e Ingeniería de los Materiales. W.F. Smith, J. Hashemi. Ed. Mc Graw Hill, 7º Ed. 2023
+~ Principles of Polymer Design and Synthesis. W. F. Su. Ed. Springer, 2013 Principles of Polymer Chemistry. A. Ravve, Ed. Springer, 2012 Introducción a la Química de los Polímeros. R. B. Seymour, C. E. Carraher, Jr. 2ª Edición en Español. Ed. Reverté. 2002  →  Principles of Polymer Design and Synthesis. W. F. Su. Ed. Springer, 2013
+
+✅ Recursos añadidos:
+------------------------------
++ Ciencia de materiales para ingenieros. A. Güemes Gordo, N. Martín Piris. Ed. Pearson, 2012
++ Introducción a la Química de los Polímeros. R. B. Seymour, C. E. Carraher, Jr. 2ª Edición en Español. Ed. Reverté. 2002
++ Principles of Polymer Chemistry. A. Ravve, Ed. Springer, 2012
++ Principles of Polymerization. G. Odian. 4th Edition. Ed. John Wiley & Sons. 2004
++ Temas del 9 al 15
+
+📊 Porcentaje estimado de cambio: 61% [██████░░░░]

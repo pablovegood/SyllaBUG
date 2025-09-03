@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Informática_II_(pdf)_2701119
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Garrido y J. Martínez-Baena, Introducción a la Programación con C++. Ejercicios. Editorial Universidad de Granada, 2016. Contiene ejercicios y explicaciones sobre todos los temas del curso. Es un libro digital que se ofrece gratuitamente a los estudiantes de la UGR
+= A. Garrido,Fundamentos de programación con la STL. Editorial Universidad de Granada, 2016
+= A. GarridoMetodología de la Programación: de bits a objetos. Editorial Universidad de Granada. 2016
+= Deitel, H. M., Deitel, P. J.,C++ How to Program. 4ª Edición. Prentice Hall. 2003
+= Savich, W., Resolución de problemas en C++, 2ª Edición, Prentice may, 2000
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Eckel, B., Thinking in C++. 2ª Edición. Prentice-Hall. 2000. Disponible en versión electrónica en http://www.bruceeckel.com/ Garrido, A., Fdez-Valdivia, J., Abstracción y Estructuras de datos en C++. Delta publicaciones, 2006  →  Eckel, B.,Thinking in C++. 2ª Edición. Prentice-Hall. 2000. Disponible en versión electrónica en http://www.bruceeckel.com/
+~ A. Garrido y J. Martínez-Baena, Introducción a la Programación con C++  →  A. Garrido y J. Martínez-Baena, Introducción a la Programación con C++. Ejercicios. Editorial Universidad de Granada, 2016. Contiene ejercicios y explicaciones sobre todos los temas del curso. Es un libro digital que se ofrece gratuitamente a los estudiantes de la UGR
+~ Mercer, R., Computing Fundamentals with C++. 2ª Edición. Franklin, Beedle & Associates  →  Mercer, R.,Computing Fundamentals with C++. 2ª Edición. Franklin, Beedle & Associates. 1999
+
+✅ Recursos añadidos:
+------------------------------
++ Garrido, A., Fdez-Valdivia, J.,Abstracción y Estructuras de datos en C++. Delta publicaciones, 2006
++ Prácticas:A. Garrido y J. Martínez-Baena, Introducción a la Programación con C++. Ejercicios. Editorial Universidad de Granada, 2016. Contiene ejercicios y explicaciones sobre todos los temas del curso. Es un libro digital que se ofrece gratuitamente a los estudiantes de la UGR
++ Sedgewick. R.,Algorithms in C++. Addison-Wesley, 2002
++ Stroustrup, B.,El lenguaje de Programación C++, 3ª Edición (Especial), Addison-Wesley, 2001
++ Teoría:A. Garrido,Fundamentos de programación con la STL. Editorial Universidad de Granada, 2016.A. GarridoMetodología de la Programación: de bits a objetos. Editorial Universidad de Granada. 2016
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

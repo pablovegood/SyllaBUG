@@ -1,0 +1,24 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Matemáticas_II_(pdf)_2871114
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= E. M. Ramos, R. Raya y D. Romero, Problemas de Estadística: Ingeniero en Informática, Ing.Tec. En Informática de Sistemas y Gestión, Copicentro Ed., 2010
+= J.E. Marsden y A.J. Tromba, Cálculo vectorial, México: Addison Wesley Longman de México,1998; y Madrid : Pearson Education, 2004
+= L. Merino y E. Santos, Álgebra Lineal con métodos elementales, Thomson, 2006
+= M.R. Spiegel y R.J. Stephan, Estadística, McGraw Hill, 2002 (3ª edición)
+= M.R. Spiegel, S. Lipschutz y D. Spellman, Análisis Vectorial, McGraw Hill, 2011
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ R.E. Larson, R.P. Hostetler y B.H. Edwards, Cálculo y Geometría Analítica, McGraw Hill, (8ª edición)  →  R.E. Larson, R.P. Hostetler y B.H. Edwards, Cálculo y Geometría Analítica, McGraw Hill, 2006(8ª edición)
+
+✅ Recursos añadidos:
+------------------------------
++ E. M. Ramos, R. Raya y D. Romero, Estadística: Ingeniero en Informática, Ing. Tec. EnInformática de Sistemas y Gestión, Copicentro Ed., 2010
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

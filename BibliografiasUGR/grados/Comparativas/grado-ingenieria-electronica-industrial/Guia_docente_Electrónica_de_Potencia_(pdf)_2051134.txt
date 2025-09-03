@@ -1,0 +1,24 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Electrónica_de_Potencia_(pdf)_2051134
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ R. W. Erickson y D. Maksimovic, “Fundamentals of Power Electronics”, 3ª Edición, Springer, 2020 F2008181Q D. W. Hart, “Electrónica de potencia”, Prentice-Hall, 2001 N. Mohan, T.M.Undeland, W.P.Robbins, “Power Electronics. Converters, Applications and J. G. Kassakian, M.F. Schlecht, G.C.Verghese, “Principles of Power Electronics”, Addison- M.H.Rashid,”Electrónica de Potencia. Circuitos, Dispositivos y Aplicaciones” 3ª Ed., Pearson, 2004  →  J. G. Kassakian, M.F. Schlecht, G.C.Verghese, “Principles of Power Electronics”, Addison-Wesley, 1991
+
+✅ Recursos añadidos:
+------------------------------
++ D. W. Hart, “Electrónica de potencia”, Prentice-Hall, 2001
++ M.H.Rashid,”Electrónica de Potencia. Circuitos, Dispositivos y Aplicaciones” 3ª Ed., Pearson, 2004
++ N. Mohan, T.M.Undeland, W.P.Robbins, “Power Electronics. Converters, Applications and Design”, Wiley, 2003
++ N. Mohan, “Power Electronics: A First Course”, Wiley, 2012
++ R. W. Erickson y D. Maksimovic, “Fundamentals of Power Electronics”, 3ª Edición, Springer, 2020
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

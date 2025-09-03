@@ -1,0 +1,35 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Sistemas_Informáticos_de_Soporte_a_la_Colaboración_y_Decisión_(pdf)_23611F2
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Ferrari, M. Russo: Introducing Microsoft Power BI. Microsoft Press (2016)
+= A. Kolokolov, M. Zelensky: Data Visualization with Microsoft Power BI. O'Reilly Media, Inc. (2024)
+= A. Macarthy: 500 Social Media Marketing Tips: Essential Advice, Hints and Strategy for Business: Facebook, Twitter, Pinterest, Google+, YouTube, Instagram, LinkedIn, and More! Createspace (2013)
+= A. de Miguel Castaño, M. Piattini Velthuis, E. Marcos Martínez: Diseño de bases de datos relacionales. RA-MA (1999)
+= A.M. Bisbé: Curso de Power BI. Anaya (2022)
+= C. Jensen, T. Pedersen, C. Thomsen: Multidimensional Databases and Data Warehousing. Morgan and Claypool Publishers (2010)
+= C. Pérez López: Minería de datos: técnicas y herramientas. Paraninfo (2007)
+= E. Sanagustín: Claves del Nuevo marketing: cómo sacarle partido a la Web 2.0. Gestión 2000 (2011)
+= G. Taylor: The Ultimate Guide to Building and Marketing your Business with Google. Amazon Distribution (2012)
+= J. Han, M. Kamber, J. Pei: Data Mining: Concepts and Techniques, 3rd Edition. Morgan Kaufmann (2011)
+= J. Torres: Empresas en la nube: ventajas y retos del "cloud computing". Libros de Cabecera (2011)
+= M. Hammarberg, J. Sunden: Kanban in Action. Manning Publications (2014)
+= M. Jarke, M. Lenzerini, Y. Vassiliou, P. Vassiliadis: Fundamentals of Data Warehouses (2nd Edition). Springer-Verlag (2003)
+= R. Kaplan, D. Norton: El Cuadro de Mando Integral: The Balanced Scoreboard. Gestión 2000 (2009)
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ C. Jensen, T. Pedersen, C. Thomsen: Multidimensional Databases and Data Warehousing  →  C. Jensen, T. Pedersen, C. Thomsen: Multidimensional Databases and Data Warehousing. Morgan and Claypool Publishers (2010)
+~ G. Taylor: The Ultimate Guide to Building and Marketing your Business with Google  →  G. Taylor: The Ultimate Guide to Building and Marketing your Business with Google. Amazon Distribution (2012)
+~ M. Golfarelli, S. Rizzi: Data Warehouse Design: Modern Principles and Methodologies  →  M. Golfarelli, S. Rizzi: Data Warehouse Design: Modern Principles and Methodologies. McGraw-Hill (2009)
+
+✅ Recursos añadidos:
+------------------------------
++ R. Kimball, M. Ross: The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. Wiley (2013)
+
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

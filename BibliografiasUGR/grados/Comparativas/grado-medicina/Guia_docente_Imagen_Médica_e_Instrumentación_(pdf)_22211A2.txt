@@ -1,0 +1,58 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Imagen_Médica_e_Instrumentación_(pdf)_22211A2
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Analizar la responsabilidad que implica el procesamiento de la información contenida en la imagen médica
+- Analizar las distintas densidades radiográficas corporales. distintas estructuras corporales
+- Bloque I.- Concepto de la imagen Médica. Imagen médica y topografía humana
+- Bloque II.- Bases técnicas y topográficas de la ecografía y la ultrasonografía, la termografía y la tomografía de fluorescencia
+- Bloque III.- Bases técnicas y topográficas de la radiografía simple (RX) y la tomografía computarizada (TC), la imagen gammagráfica y SPECT. Imagen molecular y PET. Bases Bloque IV.- Imagen medica en red. Imagen digitalizada. Sistemas de digitalización DICOM. Comunicación y distribución de archivos de imagen digital PACS
+- CG01 - Reconocer los elementos esenciales de la profesión médica, incluyendo los F2008181Q principios éticos, las responsabilidades legales y el ejercicio profesional centrado en el paciente
+- CG02 - Comprender la importancia de tales principios para el beneficio del paciente, de la sociedad y la profesión, con especial atención al secreto profesional
+- CG07 - Comprender y reconocer la estructura y función normal del cuerpo humano, a nivel molecular, celular, tisular, orgánico y de sistemas, en las distintas etapas de la vida y en los dos sexos
+- CG09 - Comprender y reconocer los efectos, mecanismos y manifestaciones de la enfermedad sobre la estructura y función del cuerpo humano
+- CG10 - Comprender y reconocer los agentes causantes y factores de riesgo que determinan los estados de salud y el desarrollo de la enfermedad
+- CG12 - Comprender los fundamentos de acción, indicaciones y eficacia de las intervenciones terapéuticas, basándose en la evidencia científica disponible. estrategia diagnóstica razonada
+- CG17 - Establecer el diagnóstico, pronóstico y tratamiento, aplicando los principios basados en la mejor información posible y en condiciones de seguridad clínica
+- CG20 - Adquirir experiencia clínica adecuada en instituciones hospitalarias, centros de salud u otras instituciones sanitarias, bajo supervisión, así como conocimientos básicos de gestión clínica centrada en el paciente y utilización adecuada de pruebas, CG22 - Redactar historias clínicas y otros registros médicos de forma comprensible a terceros
+- CG27 - Reconocer su papel en equipos multiprofesionales, asumiendo el liderazgo cuando sea apropiado, tanto para el suministro de cuidados de la salud, como en las intervenciones para la promoción de la salud
+- CG31 - Conocer, valorar críticamente y saber utilizar las fuentes de información clínica y biomédica para obtener, organizar, interpretar y comunicar la información científica y sanitaria
+- CG32 - Saber utilizar las tecnologías de la información y la comunicación en las actividades clínicas, terapéuticas, preventivas y de investigación
+- CG34 - Tener, en la actividad profesional, un punto de vista crítico, creativo, con escepticismo constructivo y orientado a la investigación
+- CG37 - Adquirir la formación básica para la actividad investigadora
+- Comprender los fundamentos físicos de la imagen médica
+- Comprender los procesos físicos de la obtención de imágenes en Medicina Nuclear
+- Conocer la importancia de la digitalización de imágenes y sus aplicaciones médicas
+- Conocer los fundamentos de formación de la imagen termografía y sus aplicaciones en Medicina
+- Entender la formación de imágenes ecográficas
+- Familiarización con los aspectos técnicos de los equipos más habituales para la adquisición de imágenes con propósito diagnóstico y/o terapéutico
+- Prácticas de laboratorio. Se realizarán tres prácticas de laboratorio, ver en apartado temario detallado de la asignatura
+- Reconocer las distintas técnicas de procesamiento de las imágenes médicas
+- Seminario/Taller. Se realizará un seminario/taller de ecografía para ver cómo se obtienen y procesan diferentes tipos de imágenes médicas utilizadas con fines diagnósticos (ver en apartado temario detallado de la asignatura)
+- aparece en este idioma
+
+📚 Recursos sin cambios:
+------------------------------
+= Medical effects of ionizing radiation. Mettler F, 3ª Ed., ISBN: 978072160, 2004
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ F2008181Q Radiologic science for technologist: physic, biology and protection. Carlyle, 9ª Ed., ISBN  →  Radiologic science for technologist: physic, biology and protection. Carlyle, 9ª Ed., ISBN: 9780323048378, 2004
+~ 9780323048378, 2004  →  Radiologic science for technologist: physic, biology and protection. Carlyle, 9ª Ed., ISBN: 9780323048378, 2004
+
+✅ Recursos añadidos:
+------------------------------
++ Atlas de ultrasonografía. Moreira, R, 1 Ed, ISBN: 9789588473468, 2010
++ Biosignal and biomedical image processing: MATLAB-based applications. John L. Semmlow., Semmlow, John L., ISBN:0-8247-4803-4, 2008. Fundamentals of medical imaging. Paul Suetens; with contributions from Bruno De Man ... [et al.], Suetens, Paul., 1st ed., 5th printing., ISBN:9780521803625, 2009
++ Diagnóstico por imágenes. Eleta F, 1 ª Ed., ISBN: 9789870550501, 2008
++ Digital Image processing using MATLAB. Rafael C. Gonzalez, Richard E. Woods, Steven L. Eddins., González, Rafael C., ISBN:0130085197, 2009
++ Essential medical imaging. Gibson R, 1ª Ed., ISBN: 9780521709118, 2009
++ Física e instrumentación médica. JR Zaragoza, 2ª Ed. ISBN: 84-458-0017-5, 1992
++ Imagen radiológica. Principios físicos e instrumentación. Cabrero Fraile, FJ, 1ª Ed. ISBN: 9788445814505, 2004
++ Introducción al diagnóstico por imagen. Thomas A. Farrell. Walters Kluwer. ISBN: 9788417949822, 2020
++ Medical Imaging Systems Technology. Editor, Cornelius T. Leondes., ISBN:9812563644, 2006
++ The essential physic of medical imaging. 3ª Ed. Lippincott Williams and Wilkins. Wolters Kluwer, 2012
++ The physic of diagnostic Imaging. Dowsett DJ, 2ª Ed., ISBN: 9780340808917, 2005
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

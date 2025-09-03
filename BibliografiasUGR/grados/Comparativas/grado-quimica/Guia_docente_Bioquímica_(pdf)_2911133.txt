@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Bioquímica_(pdf)_2911133
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- 1.Prácticas de laboratorio y exposición de trabajos (40% calificación final)
+- 2.Temas 1-9: Estructura y función de ácidos nucleicos y proteínas (1P+2P, 30% calificación final)
+- 3.Temas 10-18: Metabolismo energético e intermediario (3P+4P, 30% calificación final)
+- Para superar la asignatura por curso (calificación igual o superior a 5,0), la media ponderada de las calificaciones obtenidas en las pruebas parciales y actividades prácticas habrá de alcanzar el 4,0 en cada uno de los siguientes bloques
+
+📚 Recursos sin cambios:
+------------------------------
+= ALBERTS B, Bray D, Lewis J, Raff M, Roberts K, Watson JD: Biología Molecular de la Célula. 4ª ed., Ed. Omega, 2004
+= DEVLIN TM: Bioquímica: Libro de texto con aplicaciones clínicas. 4ª ed., Ed. Reverté, 2004
+= FEDUCHI E, Romero C, Yáñez E, García-Hoz C: Bioquímica: Conceptos esenciales. 3ª ed., Ed. Médica-Panamericana, 2020
+= McKEE T, McKee JR: Bioquímica. Las bases moleculares de la vida. 7ª ed., Ed. McGraw-Hill/ Interamericana, 2020
+= Nelson DL, Cox MM: LEHNINGER. Principios de Bioquímica. 7ª ed., Ed. Omega, 2018
+= VOET D, Voet JG, Pratt CW: Fundamentos de Bioquímica: La vida a nivel molecular. 4ª ed., Ed. Médica-Panamericana, 2016
+= VOET D, Voet JG: Bioquímica. 3ª ed., Ed. Panamericana, 2006
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ STRYER L, Berg JM, Tymoczko JL: Bioquímica con aplicaciones clínicas. 7ª ed., Ed  →  STRYER L, Berg JM, Tymoczko JL: Bioquímica con aplicaciones clínicas. 7ª ed., Ed. Reverté, 2013
+~ F2008181Q MATHEWS CK, Van Holde KE, Appling DR, Anthony-Cahill SJ: Bioquímica. 4ª ed., Ed  →  MATHEWS CK, Van Holde KE, Appling DR, Anthony-Cahill SJ: Bioquímica. 4ª ed., Ed. Pearson, 2013
+
+✅ Recursos añadidos:
+------------------------------
++ SÁNCHEZ DE MEDINA F, Vargas AM: Bioquímica estructural y metabólica. 2ª ed., Ed. Técnica Avicam, 2015
+
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

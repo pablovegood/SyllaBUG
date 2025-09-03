@@ -1,0 +1,36 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Análisis_de_Datos_Asistido_por_Ordenador_en_Sociología_(pdf)_21411A1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Algunos artículos cuantitativos de profesores de la facultad
+= García-Pérez, A. (2013).Estadística básica con R.Madrid: Universidad Nacional de Educación a Distancia
+= Goh Ming Hui, E. (2019).Learn R for Applied Statistics.Singapur: Apress.https://doi.org/10.1007/978-1-4842-4200-1
+= Gómez-Bueno, C.(2013). El efecto de las técnicas en los datos: el caso de la anticoncepción. EMPIRIA,25, 93:120. En:http://dialnet.unirioja.es/servlet/articulo?codigo=4118191
+= Schumacker, R. y Tomek, S. (2013).Understanding Statistics Using R.London: Springer.https://link.springer.com/book/10.1007/978-1-4614-6227-9
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Boccardo-Bosono, G. y Ruiz-Bruzzone, F. (2019). RStudio para Estadística Descriptiva en Bolin, J. H. (2022). Regression Analysis in R. A Comprehensive View for the Social Bouso-Freijo, J. (2018). El paquete estadístico R. Madrid: Centro de Investigaciones Duque-Calvache, R. y Torrado, J.M. (En prensa). Guía práctica para iniciarse en el análisis de datos en ciencias sociales  →  Boccardo-Bosono, G. y Ruiz-Bruzzone, F. (2019).RStudio para Estadística Descriptiva en Ciencias Sociales.https://bookdown.org/gboccardo/manual-ED-UCH/
+~ En:http://dialnet.unirioja.es/servlet/articulo?codigo=4118191 Martín-Criado, E. y Gómez-Bueno, C. (2017). Las expectativas parentales no explican el rendimiento escolar. Revista Española de Sociología,26 (1), 33-52.http://dx.doi.org/10.22325/fes/res.2016.2 Padilla-Pozo, A., Torrado, J.M., Palomares-Linares, I. y Duque-Calvache, R. (2023)  →  Martín-Criado, E. yGómez-Bueno, C.(2017). Las expectativas parentales no explican el rendimiento escolar. Revista Española de Sociología,26 (1), 33-52.http://dx.doi.org/10.22325/fes/res.2016.2
+~ Unique times, unequal mobilities: Daily mobility during the de-escalation of the Sobczyk, R., García de Diego, J.M. y Barros-Rodríguez, F. (2023). Protagonistas de su participación política: Formas actuales de participación convencional, no-convencional y activismo online de la juventud en Europa. Revista Internacional de Pensamiento F2008181Q Thomassen, J., Palomares-Linares, I., Venhorst, V. y Mulder, C. (2023). Local Ties as Self- Reported Constraints to Internal Migration in Spain. European Journal of Population, 39(1). http://dx.doi.org/10.1007/s10680-023-09661-8 Torrado, J.M., Duque-Calvache, R. y Nogueras Zondag, Roberto (2021). ¿Hacia una ciudad dual? Suburbanización y centralización en las principales ciudades españolas  →  Thomassen, J.,Palomares-Linares, I., Venhorst, V. y Mulder, C. (2023). Local Ties as Self-Reported Constraints to Internal Migration in Spain. European Journal of Population, 39(1).http://dx.doi.org/10.1007/s10680-023-09661-8
+~ Revista Española de Investigaciones Sociológicas, 176: 35-58. http://dx.doi.org/10.5477/cis/reis.176.35 Torrado, J.M., Duque-Calvache, R. y Mesa-Pedrazas, Á. (2022). The COVID-19 lockdown: effects of material conditions and social context on self-reported health during Torrado, J.M. y Duque-Calvache, R. (2023). Universidad y precariedad. Orígenes y consecuencias del modelo laboral de las universidades públicas españolas del siglo XXI  →  Torrado, J.M., Duque-Calvache, R. y Mesa-Pedrazas, Á.(2022). The COVID-19 lockdown: effects of material conditions and social context on self-reported health during confinement. Revista Española de Sociología.https://doi.org/10.22325/fes/res.2022.130
+~ Alvarez-Lourido, D., Paniza, J.L. y Álvarez-Sousa, A. (2023). Ageing, Leisure Time Physical Activity and Health in Europe. Healthcare, 11(9). http://dx.doi.org/10.3390/healthcare11091247 Becerril, D. y Jiménez-Cabello, J.M. (2022). Matrimonios y divorcios transnacionales entre Brasil y España Transnational Marriages and Divorces between Brazil and Spain  →  Alvarez-Lourido, D.,Paniza, J.L. y Álvarez-Sousa, A. (2023). Ageing, Leisure Time Physical Activity and Health in Europe. Healthcare, 11(9).http://dx.doi.org/10.3390/healthcare11091247
+
+✅ Recursos añadidos:
+------------------------------
++ Becerril, D. yJiménez-Cabello, J.M.(2022). Matrimonios y divorcios transnacionales entre Brasil y España Transnational Marriages and Divorces between Brazil and Spain. Migraciones, 56, 1-22.http://dx.doi.org/10.14422/mig.2022.023
++ Bolin, J. H. (2022).Regression Analysis in R. A Comprehensive View for the Social Sciences.New York: Champman and Hall/CRC.https://doi.org/10.1201/9780429295843
++ Bouso-Freijo, J. (2018).El paquete estadístico R.Madrid: Centro de Investigaciones Sociológicas.https://libreria.cis.es/libros/el-paquete-estadistico-r/9788474767773/
++ Duque-Calvache, R. y Torrado, J.M. (En prensa).Guía práctica para iniciarse en el análisis de datos en ciencias sociales
++ Padilla-Pozo, A.,Torrado, J.M., Palomares-Linares, I. y Duque-Calvache, R.(2023). Unique times, unequal mobilities: Daily mobility during the de-escalation of the COVID-19 pandemic. Population Space and Place.https://doi.org/10.1002/psp.2662
++ Paladino, M. (2018).R para Ciencias Sociales.https://martinpaladino.github.io/rsociales/
++ Sobczyk, R., García de Diego, J.M. y Barros-Rodríguez, F.(2023). Protagonistas de su participación política: Formas actuales de participación convencional, no-convencional y activismo online de la juventud en Europa. Revista Internacional de Pensamiento Político, , 17(1), 201-230.https://doi.org/10.46661/revintpensampolit.7500
++ Torrado, J.M. y Duque-Calvache, R. (2023). Universidad y precariedad. Orígenes y consecuencias del modelo laboral de las universidades públicas españolas del siglo XXI. Educación XX1, 26(1), 47-62.https://doi.org/10.5944/educxx1.33510
++ Torrado, J.M., Duque-Calvache, R.y Nogueras Zondag, Roberto (2021). ¿Hacia una ciudad dual? Suburbanización y centralización en las principales ciudades españolas. Revista Española de Investigaciones Sociológicas, 176: 35-58.http://dx.doi.org/10.5477/cis/reis.176.35
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

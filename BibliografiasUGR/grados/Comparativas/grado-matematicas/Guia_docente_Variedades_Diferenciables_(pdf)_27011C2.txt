@@ -1,0 +1,28 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Variedades_Diferenciables_(pdf)_27011C2
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= AMORES, A.M.: Integración y formas diferenciales: un curso de análisis vectorial, Ed. Sanz y Torres, Madrid, 2001
+= BACHMAN, D.: A Geometric Approach to Differential Forms, Birkhauser, 2012
+= GAMBOA J.M. y RUIZ SANCHO, J.M.: Iniciación al estudio de las variedades diferenciables, 2ª Edición, Sanz y Torres S. L., Madrid, 2006
+= GODBILLON, C.: Géométrie différentielle et Mécanique analytique, Collection Méthodes, Hermann, Paris, 1969
+= LEE, J.M.: Manifolds and Differential Geometry, Graduate Studies in Mathematics, vol. 107, American Matemátical Society, EE.UU., 2009
+= PÉREZ, J.: Apuntes de Geometría y Topología.http://www.ugr.es/~jperez/papers/GeometriaYTopologia.pdf
+= SPIVAK M.: A comprehensive introduction to Differential Geometry, Vol. I-V, Publish or Perish Inc. 1999
+= WARNER, F.: Foundations of differential manifolds and Lie groups, Scott Foresman and Co 1971
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ LEE, J.M.: Manifolds and Differential Geometry, Graduate Studies in Mathematics, vol  →  LEE, J.M.: Manifolds and Differential Geometry, Graduate Studies in Mathematics, vol. 107, American Matemátical Society, EE.UU., 2009
+~ AMORES, A.M.: Integración y formas diferenciales: un curso de análisis vectorial, Ed  →  AMORES, A.M.: Integración y formas diferenciales: un curso de análisis vectorial, Ed. Sanz y Torres, Madrid, 2001
+
+✅ Recursos añadidos:
+------------------------------
+No se añadieron recursos.
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

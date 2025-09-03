@@ -1,0 +1,37 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Fundamentos_de_Informática_(pdf)_2211114
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Prieto, B. Prieto, Conceptos de Informática, Serie Schaum, McGraw-Hill, 2005
+= A. S. Tanenbaum, Redes de Computadoras. Prentice-Hall, 4ª edición, 2003
+= A. S. Tanenbaum, Structured computer organization, 5th Ed., Pearson, 2006
+= A. Silberschatz, et al., Fundamentos de bases de datos (6ª Edición), Mc Graw Hill, 2014
+= B. Forouzan , F. Mosharraf, Foundations of Computer Science, 2nd Ed. 2008
+= B. H. Hahn, D. T. Valentine, Essential MATLAB for engineers and scientists (Fifth Edition), Elsevier Ltd, 2013
+= C. Hamacher, et al., Computer organization and embedded systems, 6th ed., Mc Graw-Hill, 2012
+= C.J. Date, Introducción a los sistemas de bases de datos, 7ª Edición, Pearson Education , 2001
+= D. A. Patterson y J. L. Hennessy, Computer organization and design: the hardware/software interface, 5th ed., Elseiver, 2013
+= F. J. Carazo, Ubuntu Linux. Instalación y configuración básica en equipos y servidores, Ra-MA, 2009
+= H. Moore, MATLAB para ingenieros, Pearson Educación, 2007
+= J. G. Brookshear, Computer Science, 12th Ed. Pearson, 2015
+= J. L. Hennessy y D. A. Patterson, Computer Architecture. A Quantitative Approach, 3ª ed., Morgan Kaufmann, 2003
+= J. Ortega, M. Anguita, A. Prieto, Arquitectura de Computadores, Thomson, 2005
+= M. Anguita, J. Ortega, Fundamentos y problemas de Arquitectura de Computadores, Fleming, 2021
+= W. Stallings, Operating Systems. Internals and Design Principles, 8th Ed., Pearson, 2015
+= W. Stallings. Organización y Arquitectura de Computadores. Prentice-Hall, 4ª edición, 2003
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ A. Prieto, A. Lloris, J.C. Torres, Introducción a la Informática, 4ª Edición, McGraw-Hill  →  A. Prieto, A. Lloris, J.C. Torres, Introducción a la Informática, 4ª Edición, McGraw-Hill. 2006
+~ J. García, J.I. Rodríguez, Jesús Vidal, “Aprenda Matlab 7.0 como si estuviera en primero”, Escuela Técnica Superior de Ingenieros Industriales de la Universidad Politécnica de Madrid, 2005 R.E. Bryan, D.R. O’Hallaron, Computer systems: a programmer’s perspective, 3rd ed., Pearson 2016  →  R.E. Bryan, D.R. O’Hallaron, Computer systems: a programmer’s perspective, 3rd ed., Pearson 2016
+
+✅ Recursos añadidos:
+------------------------------
++ J. García, J.I. Rodríguez, Jesús Vidal, “Aprenda Matlab 7.0 como si estuviera en primero”, Escuela Técnica Superior de Ingenieros Industriales de la Universidad Politécnica de Madrid, 2005
+
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

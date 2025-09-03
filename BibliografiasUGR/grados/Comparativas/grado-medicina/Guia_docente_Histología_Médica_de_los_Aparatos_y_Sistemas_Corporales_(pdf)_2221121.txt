@@ -1,0 +1,35 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Histología_Médica_de_los_Aparatos_y_Sistemas_Corporales_(pdf)_2221121
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Editorial Elsevier. 5º edición. Barcelona
+
+📚 Recursos sin cambios:
+------------------------------
+= BALDWIN, K.M.; YOUNG, J.K.; TADDESSE-HEATH, L.; HAKIM, R.S. (2010) Wheater’s Review of Histology and Basic Pathology Churchill Livingstone. Philadelphia
+= BOYA, J. (2011) Atlas de Histología y Organografía Microscópica. Editorial Médica panamericana. 3ª edición. Madrid
+= EYNARD, AR; VALENTICH, M. A.; ROVASIO, R.A. Histología y Embriología Humanas. Bases celulares y moleculares con orientación clínico-patológica. (2016). Ed. Panamericana. 5ª edición. Madrid.https://www.medicapanamericana.com/VisorEbookV2/Ebook/9789500694872?token=d41c5356-88d7-41a9-9200-c0d4f345b537
+= JUNQUEIRA, L.C. CARNEIRO, J (2022).Histología Básica. Texto y atlas. Editorial Médica Panamericana. 3ª edición. Madrid.https://www.medicapanamericana.com/VisorEbookV2/Ebook/9786079356682
+= KIERSZENBAUM, A.L. et al. (2020). Histología y Biología Celular. Editorial Elsevier 5ª edición. Barcelona.https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190044457
+= POIRIER, J.; COHEN,I.; BERNAUDIN, J.F. (1985) Cuadernos de Histología. Ed. Marcan. Madrid
+= WELSCH, U.; DELLER, T. (2014). SOBOTA-Histología. Ed. Panamericana. 3º edición. Madrid.https://www.medicapanamericana.com/VisorEbookV2/Ebook/9786079356187
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ DISPONIBLE EN LIBROS ELECTRÓNICOS DE LA UGR GARTNER, L.P. (2021) Texto de Histología. Atlas a color. Editorial Elsevier. 5ª edición  →  DISPONIBLE EN LIBROS ELECTRÓNICOS DE LA UGR
+~ Panamericana. 5ª edición. Madrid  →  VILLARO A.C. Histología para estudiantes (2021). Editorial Médica Panamericana. Madrid.https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498359282?mode=demo#{%22Pagina%22:%22Portada%22,%22Vista%22:%22Indice%22,%22Busqueda%22:%22%22}
+~ EYNARD, AR; VALENTICH, M. A.; ROVASIO, R.A. Histología y Embriología Humanas  →  EYNARD, AR; VALENTICH, M. A.; ROVASIO, R.A. Histología y Embriología Humanas. Bases celulares y moleculares con orientación clínico-patológica. (2016). Ed. Panamericana. 5ª edición. Madrid.https://www.medicapanamericana.com/VisorEbookV2/Ebook/9789500694872?token=d41c5356-88d7-41a9-9200-c0d4f345b537
+~ PAWLINA, W; ROSS, MH (2020) Histología: texto y atlas. Correlación con biología molecular y celular. Wolters Kluwer. 8ª edición. Barcelona F2008181Q ALBERTS B, JOHNSON A, LEWIS J, RAFF M, ROBERTS K, WALTER P. (2016) Biología Molecular de la Célula. 6ª ed. Ediciones Omega. Barcelona  →  PAWLINA, W; ROSS, MH (2020) Histología: texto y atlas. Correlación con biología molecular y celular. Wolters Kluwer. 8ª edición. Barcelona
+~ VILLARO A.C. Histología para estudiantes (2021). Editorial Médica Panamericana. Madrid. mo#{%22Pagina%22:%22Portada%22,%22Vista%22:%22Indice%22,%22Busqueda%2 2:%22%22} YOUNG, B; O’DOWD, G; WOODFRORD, P. (2014) Wheater. Histología Funcional. Texto y atlas en color. Editorial Elsevier. 6ª edición. Madrid  →  VILLARO A.C. Histología para estudiantes (2021). Editorial Médica Panamericana. Madrid.https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498359282?mode=demo#{%22Pagina%22:%22Portada%22,%22Vista%22:%22Indice%22,%22Busqueda%22:%22%22}
+~ DISPONIBLE EN LA BIBLIOTECA DE LA UNIVERSIDAD DE GRANADA BRÜEL, A.; CHRISTENSEN, EI; TRANUM-JENSEN, J.; QVORTRUP, K.; GENESER, F. (2015)  →  DISPONIBLE EN LA BIBLIOTECA DE LA UNIVERSIDAD DE GRANADA
+~ LOWE, JS; ANDERSON, PG; ANDERSON, SI. (2020) Stevens y Lowe. Histología humana  →  LOWE, JS; ANDERSON, PG; ANDERSON, SI. (2025) Stevens y Lowe. Histología humana. Editorial Elsevier. 6º edición. Barcelona.https://www.clinicalkey.com/student/content/toc/3-s2.0-C20240007606
+~ Geneser. Histología, Ed. Panamericana, 4ª edición. Madrid  →  BRÜEL, A.; CHRISTENSEN, EI; TRANUM-JENSEN, J.; QVORTRUP, K.; GENESER, F. (2015). Geneser. Histología, Ed. Panamericana, 4ª edición. Madrid
+
+✅ Recursos añadidos:
+------------------------------
++ ALBERTS B, JOHNSON A, LEWIS J, RAFF M, ROBERTS K, WALTER P. (2016) Biología Molecular de la Célula. 6ª ed. Ediciones Omega. Barcelona
++ GARTNER, L.P. (2021) Texto de Histología. Atlas a color. Editorial Elsevier. 5ª edición. Barcelona.https://www.clinicalkey.com/student/content/toc/3-s2.0-C20160020053
++ YOUNG, B; O’DOWD, G; WOODFRORD, P. (2014) Wheater. Histología Funcional. Texto y atlas en color. Editorial Elsevier. 6ª edición. Madrid.https://www.clinicalkey.com/student/content/toc/3-s2.0-C20130189611
+
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

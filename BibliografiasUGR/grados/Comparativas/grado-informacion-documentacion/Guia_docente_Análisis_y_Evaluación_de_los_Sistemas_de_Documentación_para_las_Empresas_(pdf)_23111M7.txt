@@ -1,0 +1,47 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Análisis_y_Evaluación_de_los_Sistemas_de_Documentación_para_las_Empresas_(pdf)_23111M7
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Deming, Edwards W. [1989]. - Calidad, productividad y competitividad. – Madrid : Díaz de Santos
+= Feigenbaum, Armand V. [1994]. - Control total de la calidad. – México, df : Compañía editorial continental
+= ISO (Organización Internacional de Normalización). [2015]. - ISO 9000:2015. Sistemas de gestión de la calidad. Fundamentos y vocabulario. –https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:es
+= Liker, Jeffrey K. [2010]. - Las claves del éxito de Toyota. – Barcelona : Planeta
+= Pirsig, Robert M. [2018]. - Zen y el arte del mantenimiento de la motocicleta. – Madrid : Sexto piso
+= Pérez Marques, María. [2015]. - Control de calidad: Técnicas y herramientas. – Madrid : Libros RC
+= Ríos, Sixto. [2007]. - Modelización / Modelization. – Madrid : Alianza editorial
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Franch León, Katia ; Guerra Bretaña, Rosa. [2016]. - La Norma ISO 9000: una mirada desde la gestión del conocimiento, la información, innovación y el aprendizaje organizacional. – Cofin, vol. 10, no.2, 29-54.- http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2073-60612016000200002 García, Rolando. [2006]. - Sistemas complejos. – Barcelona : Gesida  →  Franch León, Katia ; Guerra Bretaña, Rosa. [2016]. - La Norma ISO 9000: una mirada desde la gestión del conocimiento, la información, innovación y el aprendizaje organizacional. – Cofin, vol. 10, no.2, 29-54.-http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2073-60612016000200002
+~ Ishikawa, Kaoru. [1997]. - ¿Qué es el control total de calidad? – Madrid : Norma Lázaro Rodríguez, Pedro; López Gijón, Javier; Herrera Viedma, Enrique [2020]. metodologia Secaba-Rank per a noves necessitats al servei d'una societat canviant. - BiD: textos universitaris de biblioteconomia i documentació, no. 44  →  Ishikawa, Kaoru. [1997]. - ¿Qué es el control total de calidad? – Madrid : Norma
+
+✅ Recursos añadidos:
+------------------------------
++ Camp, R. C.(2021).Benchmarking: The Search for Industry Best Practices that Lead to Superior Performance. ASQ Quality Press.→ Método paso a paso para implementar benchmarking y evaluación comparativa
++ Choo, C. W.(2022).The Inquiring Organization: How organizations acquire knowledge and seek information. Oxford University Press.→ Reflexión aplicada sobre el uso estratégico de los sistemas documentales y de información
++ Complementarios y de cultura profesional
++ Documentación en las empresas y sistemas de información
++ Evaluación, calidad y sistemas de gestión
++ García, Rolando. [2006]. - Sistemas complejos. – Barcelona : Gesida
++ Goetsch, D. L. & Davis, S. B.(2020).Quality Management for Organizational Excellence: Introduction to Total Quality. Pearson.→ Manual actual, con aplicaciones reales, herramientas gráficas y estrategias de calidad empresarial
++ Harrington, H. J.(2018).Business Process Improvement: The Breakthrough Strategy for Total Quality, Productivity, and Competitiveness. McGraw-Hill.→ Expone herramientas para diagnosticar, auditar y mejorar procesos con estudios de caso
++ Harvey, G.(2023).Excel Data Analysis: Your visual blueprint for analyzing data, charts, and dashboards. Wiley.→ Manual visual con ejercicios paso a paso para análisis de datos e indicadores en Excel
++ Herramientas informáticas aplicadas (Excel, Power BI, etc.)
++ Hoyle, D.(2018).ISO 9000 Quality Systems Handbook – Updated for ISO 9001:2015. Routledge.→ Guía completa para aplicar y auditar sistemas ISO con ejemplos, formularios y matrices
++ Indicadores, benchmarking y evaluación
++ Jones, M.(2022).Power BI for the Excel Analyst. Holy Macro! Books.→ Introducción práctica a Power BI, útil para visualización y dashboards de indicadores
++ Liker, J. K.(2021).The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer. McGraw-Hill.→ Ideal para prácticas de mejora continua, indicadores y modelización de procesos
++ Lázaro Rodríguez, Pedro; López Gijón, Javier; Herrera Viedma, Enrique [2020]. Biblioteques i eEciència : adaptació de l'indicador de la potència del sistema de la metodologia Secaba-Rank per a noves necessitats al servei d'una societat canviant. - BiD: textos universitaris de biblioteconomia i documentació, no. 44,.-https://dx.doi.org/10.1344/BiD2020.44.3
++ López-Muñoz, R.(ed.) (2022).Evaluación y mejora de la calidad en las organizaciones: Indicadores, benchmarking y excelencia operativa. UOC.→ Libro práctico adaptado a contextos académicos y profesionales en documentación y evaluación
++ Parmenter, D.(2023).Key Performance Indicators for Government and Non Profit Agencies: Implementing Winning KPIs. Wiley.→ Manual completo para definir, medir e interpretar KPIs en contextos reales
++ Pirsig, R. M.(reeditado 2023).Zen y el arte del mantenimiento de la motocicleta. Sexto Piso.→ Útil como texto transversal para trabajar la dimensión filosófica de la calidad y el pensamiento sistémico
++ Rodríguez Bravo, B. (coord.)(2020).Evaluación de servicios de información: metodología, indicadores y resultados. Trea.→ Texto centrado en evaluación aplicada, con estudios reales y ejercicios
++ Sullivan, M.(2023).Statistics: Informed Decisions Using Data. Pearson.→ Incluye prácticas con software y problemas reales de análisis estadístico empresarial
++ Wiggins, B., & Sawyer, S.(2019).Information Systems for the Public Sector: IT and Documentation for Effective Service Delivery. Springer.→ Casos prácticos de uso de sistemas de documentación para toma de decisiones
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

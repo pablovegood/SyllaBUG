@@ -1,0 +1,45 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Resistencia_de_Materiales_y_Diseño_Mecánico_(pdf)_2201144
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Propiedades e Inspección de Materiales Jurado Alameda E., Vicaria Rivillas J.M. Diseño de Equipos e Instalaciones en Ingeniería Química. Ed. Técnica AVICAM (Fleming), Granada (2021) Smith W.F. Fundamentos de la Ciencia e Ingeniería de Materiales. McGraw-Hill, México (1992) Callister W.D. Introducción a la ciencia e ingeniería de los materiales. Ed. Reverté, Barcelona (2000) Resistencia de Materiales Gere, Timoshenko (Thomson). RESISTENCIA DE MATERIALES Ortiz Berrocal L., Resistencia de Materiales, 2ª Ed., Ed. McGraw-Hill, Madrid (2002) P. Beer, Mecánica de Materiales, 5ª Ed. Ed. McGraw-Hill Egor P. Popov (Pearson Educación) MECÁNICA DE SÓLIDOS Miroliubov (Mir) PROBLEMAS DE RESISTENCIA DE MATERIALES Garrido y Foces (Univ. Valladolid) RESISTENCIA DE MATERIALES, Granados y Museros.TEORÍA DE ESTRUCTURAS. RECOPILACIÓN DE APUNTES I y II  →  Miroliubov (Mir) PROBLEMAS DE RESISTENCIA DE MATERIALES
+~ Mott R.L., “Resistencia de Materiales Aplicada”, 5ª Ed., Ed. Prentice-Hall S.A., Nueva Cork ( 2009) Nash, W.A. Resistencia de Materiales. Serie Schaum. McGraw-Hill, Madrid (1991) Diseño Mecánico de Recipientes a Presión Jurado Alameda E., Vicaria Rivillas J.M. Diseño de Equipos e Instalaciones en Ingeniería Química. Ed. Técnica AVICAM (Fleming), Granada (2021) Baquero J., Llorente V. Equipos para la Industria Química y Alimentaria. Alhambra, Madrid (1985) Megyesy E.F. Pressure vessel handbook, 13ªEd., Ed. Pressure vessel publishing Inc. (2005) Moss D.R. Pressure Vessel Design Manual (libro electrónico), Elsevier, Amsterdam (2003) Fontana M.G. 3ª Edición. Corrosion Engineering. McGraw-Hill, Nueva York (1986) ANÁLISIS DE ESTRUCTURAS DE BARRAS. FUNDAMENTOS. R. Gallego y G. Rus (ETSICCP, ANÁLISIS DE ESTRUCTURAS: TEORÍA, PROBLEMAS Y PROGRAMAS, R. Argüelles (Fundación Conde del Valle de Salazar) ELASTICIDAD, L. Ortiz Berrocal (UPM) MECÁNICA VECTORIAL PARA INGENIEROS, Beer y Johnston (Mc Graw-Hill) PROBLEMAS DE RESISTENCIA DE MATERIALES, F. Rodríguez Avial (ETSII, UPM) RESISTENCIA DE MATERIALES, A. Samartín (Colegio de Ing. de Caminos C. y P.) RESISTENCIA DE MATERIALES, S. Timoshenko (Espasa-Calpe) TEORÍA DE LA ELASTICIDAD, S. Timoshenko F2008181Q  →  Moss D.R. Pressure Vessel Design Manual (libro electrónico), Elsevier, Amsterdam (2003)
+
+✅ Recursos añadidos:
+------------------------------
++ ANÁLISIS DE ESTRUCTURAS DE BARRAS. FUNDAMENTOS. R. Gallego y G. Rus (ETSICCP, UGR)
++ ANÁLISIS DE ESTRUCTURAS: TEORÍA, PROBLEMAS Y PROGRAMAS, R. Argüelles (Fundación Conde del Valle de Salazar)
++ Baquero J., Llorente V. Equipos para la Industria Química y Alimentaria. Alhambra, Madrid (1985)
++ Callister W.D. Introducción a la ciencia e ingeniería de los materiales. Ed. Reverté, Barcelona (2000)
++ Diseño Mecánico de Recipientes a Presión
++ ELASTICIDAD, L. Ortiz Berrocal (UPM)
++ Egor P. Popov (Pearson Educación) MECÁNICA DE SÓLIDOS
++ Fontana M.G. 3ª Edición. Corrosion Engineering. McGraw-Hill, Nueva York (1986)
++ Garrido y Foces (Univ. Valladolid) RESISTENCIA DE MATERIALES
++ Gere, Timoshenko (Thomson). RESISTENCIA DE MATERIALES
++ Granados y Museros.TEORÍA DE ESTRUCTURAS. RECOPILACIÓN DE APUNTES I y II
++ Jurado Alameda E., Vicaria Rivillas J.M. Diseño de Equipos e Instalaciones en Ingeniería Química. Ed. Técnica AVICAM (Fleming), Granada (2021)
++ MECÁNICA VECTORIAL PARA INGENIEROS, Beer y Johnston (Mc Graw-Hill)
++ Megyesy E.F. Pressure vessel handbook, 13ªEd., Ed. Pressure vessel publishing Inc. (2005)
++ Mott R.L., “Resistencia de Materiales Aplicada”, 5ª Ed., Ed. Prentice-Hall S.A., Nueva Cork ( 2009)
++ Nash, W.A. Resistencia de Materiales. Serie Schaum. McGraw-Hill, Madrid (1991)
++ Ortiz Berrocal L., Resistencia de Materiales, 2ª Ed., Ed. McGraw-Hill, Madrid (2002)
++ P. Beer, Mecánica de Materiales, 5ª Ed. Ed. McGraw-Hill
++ PROBLEMAS DE RESISTENCIA DE MATERIALES, F. Rodríguez Avial (ETSII, UPM)
++ Propiedades e Inspección de Materiales
++ RESISTENCIA DE MATERIALES, A. Samartín (Colegio de Ing. de Caminos C. y P.)
++ RESISTENCIA DE MATERIALES, S. Timoshenko (Espasa-Calpe)
++ Resistencia de Materiales
++ Smith W.F. Fundamentos de la Ciencia e Ingeniería de Materiales. McGraw-Hill, México (1992)
++ TEORÍA DE LA ELASTICIDAD, S. Timoshenko
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

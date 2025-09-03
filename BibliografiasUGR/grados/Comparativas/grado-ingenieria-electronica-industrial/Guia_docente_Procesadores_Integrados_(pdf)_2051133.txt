@@ -1,0 +1,29 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Procesadores_Integrados_(pdf)_2051133
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Computer systems: a programmer's perspective. R.E. Bryant, D.R. O'Hallaron; Pearson, 2011. ESIIT/C.1 BRY com
+= Libros de Arduino en la Universidad de Granada. Buscar Arduino y aparecen todos los libros relacionados, tanto los que están en las diversas Facultades y Escuelas, así como los que están disponibles de forma electrónica. (Acceso mediante VPN)
+= Null, L., & Lobur, J. (2018).Essentials of computer organization and architecture(Quinta edition.). Jones & Bartlett
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Boston: Elsevier, 2012  →  R. Oshana and R. Oshana,DSP for embedded and real-time systems expert guide, 1ª ed. Boston: Elsevier, 2012
+~ R. Oshana and R. Oshana, DSP for embedded and real-time systems expert guide , 1ª ed  →  R. Oshana and R. Oshana,DSP for embedded and real-time systems expert guide, 1ª ed. Boston: Elsevier, 2012
+~ F2008181Q Multimedia, 2014. ISBN 9788441534193 ISBN 9788494072505 12 proyectos Arduino + Android : controle Arduino con su teléfono inteligente o su tableta / Simon Monk Madrid : Estribor, 2013. ISBN 9788494003042 Arduino cookbook / Michael Margolis Sebastopol, CA : O'Reilly, 2012. ISBN 9781449313876 Fundamentals of Computer Architecture and Design; Bindal, Ahmet.; Springer, 2019 Organización y Arquitectura de Computadores. W.Stallings Pearson Educación, 2008  →  12 proyectos Arduino + Android : controle Arduino con su teléfono inteligente o su tableta / Simon Monk Madrid : Estribor, 2013. ISBN 9788494003042
+
+✅ Recursos añadidos:
+------------------------------
++ Arduino : curso práctico de formación / Óscar Torrente Artero Madrid : RC Libros, 2013. ISBN 9788494072505
++ Arduino cookbook / Michael Margolis Sebastopol, CA : O'Reilly, 2012. ISBN 9781449313876
++ D. A. Patterson and J. L. Hennessy,Computer organization and design the hardware/software interface, 3ª ed. rev. San Francisco, Calif: Morgan Kaufmann, 2007
++ Fundamentals of Computer Architecture and Design; Bindal, Ahmet.; Springer, 2019
++ Manual imprescindible de Arduino práctico / Joan Ribas Lequerica Madrid : Anaya Multimedia, 2014. ISBN 9788441534193
++ Organización y Arquitectura de Computadores. W.Stallings Pearson Educación, 2008. ESIIT/C.1 STA org
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

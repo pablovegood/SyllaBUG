@@ -1,0 +1,34 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Sistemas_de_Información_Basados_en_Web_(Especialidad_Ingeniería_del_Software)_(pdf)_296113J
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Paracuellos de Jarama, Madrid : Ra-Ma, 2014 Ajax, rich Internet applications, and web development for programmers / Paul J. Deitel
+
+📚 Recursos sin cambios:
+------------------------------
+= Beginning PHP5, Apache, and MySQL Web development / Timothy Boronczyk et al.: Wiley, 2009
+= Engineering Web Applications / Sven Casteleyn, Florian Daniel, Peter Dolog, Maristella Matera. Springer Verlag, 2009
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Sebastopol: O'Reilly, 2009 Foundation Website Creation with HTML5, CSS3, and JavaScript / by Jonathan Lane, Tom F2008181Q Barker, Joseph R. Lewis, Meitar Moscovitz. Apress : Imprint: Apress, 2012  →  Foundation Website Creation with HTML5, CSS3, and JavaScript / by Jonathan Lane, Tom Barker, Joseph R. Lewis, Meitar Moscovitz. Apress : Imprint: Apress, 2012
+~ Tejedor, Efrén Santos Pascual. Madrid : Fundación Confemetal, 2011 HTML 5 para desarrolladores / Joseph W. Lowery, Mark Fletcher : Anaya Multimedia, Beginning XML [Recurso electrónico] / Joe Fawcett, Liam R.E. Quin, Danny Ayers: John XML databases and the semantic web / Bahavani Thuraisingham: CRC, cop. 2002 Manual de derecho informático / Miguel Angel Davara Rodríguez: Aranzadi, 2015 Universidad Abierta de Cataluña, 2006 Responsive web design with HTML5 and CSS3 : build responsive and future-proof websites to meet the demands of modern web users / Ben Frain. Packt Publishing, 2015  →  Responsive web design with HTML5 and CSS3 : build responsive and future-proof websites to meet the demands of modern web users / Ben Frain.Packt Publishing, 2015
+~ Web data management / Serge Abiteboul... [et al.] New York, NY : Cambridge University Press, 2012 Programming the World Wide Web / Robert W. Sebesta. Boston : Pearson, 2011 Diseño de interfaces web / José Eduardo Córcoles Tendero, Francisco Montero Simarro  →  Web data management / Serge Abiteboul... [et al.] New York, NY : Cambridge University Press, 2012
+~ Learning Web design : a beginner's guide to HTML, CSS, Javascript, and web graphics / Jennifer Niederst Robbins: O'Reilly, 2018 Programming the semantic Web / Toby Segaran, Colin Evans, and Jamie Taylor  →  Programming the semantic Web / Toby Segaran, Colin Evans, and Jamie Taylor. Sebastopol: O'Reilly, 2009
+
+✅ Recursos añadidos:
+------------------------------
++ Ajax, rich Internet applications, and web development for programmers / Paul J. Deitel; Harvey M. Deitel: Anaya Multimedia, 2009
++ Beginning XML [Recurso electrónico] / Joe Fawcett, Liam R.E. Quin, Danny Ayers: John Wiley & Sons, 2012
++ Curso de SQL (Manual Imprescindible / Carmen Martinez Cruz, Carlos Porcel Gallego, J.M. Serrano Chica. Anaya Multimedia. 2022
++ Diseño de interfaces web / José Eduardo Córcoles Tendero, Francisco Montero Simarro. Paracuellos de Jarama, Madrid : Ra-Ma, 2014
++ HTML 5 para desarrolladores / Joseph W. Lowery, Mark Fletcher : Anaya Multimedia, 2012
++ La accesibilidad de los contenidos web / Pablo Lara Navarra, José Angel Martínez Usero: Universidad Abierta de Cataluña, 2006
++ Learning Web design : a beginner's guide to HTML, CSS, Javascript, and web graphics / Jennifer Niederst Robbins:O'Reilly, 2018
++ Manual de derecho informático / Miguel Angel Davara Rodríguez: Aranzadi, 2015
++ Programming the World Wide Web / Robert W. Sebesta. Boston : Pearson, 2011
++ Protección de datos personales : manual práctico para empresas / Iciar López-Vidriero Tejedor, Efrén Santos Pascual. Madrid : Fundación Confemetal, 2011
++ XML databases and the semantic web / Bahavani Thuraisingham: CRC, cop. 2002
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

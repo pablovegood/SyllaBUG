@@ -1,0 +1,26 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Fundamentos_de_Informática_(pdf)_2201115
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Pérez López, César. Matlab y sus aplicaciones en las ciencias y la ingeniería. Madrid, Pearson Educación, 2002
+
+📚 Recursos sin cambios:
+------------------------------
+= J. García Molina, F. Montoya Dato, et al. Una introducción a la programación. Un enfoque algorítmico, Thompson, 2005
+= Olga Pons Capote; Nicolás Marín Ruiz; Juan Miguel Medina Rodríguez; Silvia Acid Carrillo; Mª Amparo Vila Miranda. Introducción a las bases de datos. El modelo relacional. Paraninfo. 2005
+= Tanenbaum, Andrew S. Sistemas operativos modernos; traducción Alfonso Vidal Romero Elizondo; revisión técnica, José Ramón Ríos Sánchez, Aarón Jiménez Govea Mexico; Pearson Educación, 2009
+= Viescas, John L. Soluciones de bases de datos con Access / John L. Viescas; traducción Luis Héctor Esqueda Huerta, Claudia Fuentes Zárate México, McGraw-Hill, 2007
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Francisco J. Martín Martínez. Informática Básica. Editorial Ra-Ma. ISBN  →  Francisco J. Martín Martínez. Informática Básica. Editorial Ra-Ma. ISBN: 84-7897-593-4-2004
+~ Tanenbaum, Andrew S. Sistemas operativos modernos; traducción Alfonso Vidal Romero Elizondo; revisión técnica, José Ramón Ríos Sánchez, Aarón Jiménez Govea Mexico  →  Tanenbaum, Andrew S. Sistemas operativos modernos; traducción Alfonso Vidal Romero Elizondo; revisión técnica, José Ramón Ríos Sánchez, Aarón Jiménez Govea Mexico; Pearson Educación, 2009
+
+✅ Recursos añadidos:
+------------------------------
++ Andrés Marzal Varó, Isabel Gracia Luengo, Pedro García Sevilla.Introducción a la Programación con Python 3. Publicacions de la Universitat Jaume I, 2014
++ Hinojosa, A.P. 2016. Python. Paso A Paso. Ra-ma
++ Pilgrim, M. 2009. Inmersión en Python
+
+📊 Porcentaje estimado de cambio: 85% [████████░░]

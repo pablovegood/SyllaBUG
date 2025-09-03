@@ -1,0 +1,31 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Computación_Ubicua_e_Inteligencia_Ambiental_(Especialidadtecnologías_de_la_Información)_(pdf)_296113W
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Pervasive systems and ubiquitous computing. A. Genco, S. Sorce. WIT Press 2010 Ubiquitous computing fundamentals. John Krumm (ed.) CRC Press 2010 Paolo Remagnino, Ambient Intelligence : A Novel Paradigm, Springer;2004 W. Weber, J.M. Rabaey, E. Aarts, Ambient Intelligence, Springer 2005 F2008181Q Everyware: The Dawning Age of Ubiquitous Computing. Adam Greenfield. Peachpit Press Publications 2006 Think Python. Allen B. Downey. O’Reilly 2015  →  Ubiquitous computing fundamentals. John Krumm (ed.) CRC Press 2010
+~ Ubiquitous Computing: Smart Devices, Environments and Interactions. Stefan Posland  →  Ubiquitous Computing: Smart Devices, Environments and Interactions. Stefan Posland. Wiley 2009
+
+✅ Recursos añadidos:
+------------------------------
++ Computer Science and Ambient Intelligence. Wiley 2013
++ Everyware: The Dawning Age of Ubiquitous Computing. Adam Greenfield. Peachpit Press Publications 2006
++ Learning OpenCV 4 Computer Vision with Python 3. Packt 2020
++ Paolo Remagnino, Ambient Intelligence : A Novel Paradigm, Springer;2004
++ Pervasive systems and ubiquitous computing. A. Genco, S. Sorce. WIT Press 2010
++ Security for Ubiquitous Computing. Frank Stajano. Wiley 2002
++ Security of Ubiquitous Computing Systems. Springer 2021
++ The Internet of Things: Foundation for Smart Cities, eHealth, and Ubiquitous Computing. Chapman and Hall/CRC 2017
++ The Wiley Handbook of Human Computer Interaction. Wiley 2018
++ Think Python. Allen B. Downey. O’Reilly 2015
++ W. Weber, J.M. Rabaey, E. Aarts, Ambient Intelligence, Springer 2005
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

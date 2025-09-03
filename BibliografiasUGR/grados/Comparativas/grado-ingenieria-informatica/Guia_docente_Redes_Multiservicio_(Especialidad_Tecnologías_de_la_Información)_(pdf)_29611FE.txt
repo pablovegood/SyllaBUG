@@ -1,0 +1,33 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Redes_Multiservicio_(Especialidad_Tecnologías_de_la_Información)_(pdf)_29611FE
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= C.-H. Wu and J. D. Irwin,Emerging multimedia computer communication technologies. Upper Saddle River, New Jersey: Prentice-Hall PTR, 1998
+= G. Armitage,Quality of service in IP Networks : foundations for a multi-service internet. IN: Macmillan Technical Pub., Indianapolis, 2000
+= J. V. Meggelen,Asterisk : the future of telephony. Sebastopol: O’Reilly, 2007
+= Kuo , Franklin F.; Effelsberg, Wolfgang; Garcia Luna Aceves, J. J.: "Quality of Service in IP Multimedia communications : protocols and applications”, Upple Saddle River, New Jersey : Prentice Hall PTR, 2000
+= Zheng Wang. Internet QoS: Architectures and Mechanisms for Quality of Service (1st. ed.). Morgan Kaufmann Publishers Inc., San Francisco, CA, USA. 2001
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ M. Poikselkä and G. Mayer, The IMS IP multimedia concepts and services, 3rd ed  →  M. Poikselkä and G. Mayer,The IMS IP multimedia concepts and services, 3rd ed. Chichester, U.K: Wiley, 2009
+~ F2008181Q Zheng Wang. Internet QoS: Architectures and Mechanisms for Quality of Service (1st. ed.)  →  Zheng Wang. Internet QoS: Architectures and Mechanisms for Quality of Service (1st. ed.). Morgan Kaufmann Publishers Inc., San Francisco, CA, USA. 2001
+~ C.-H. Wu and J. D. Irwin, Emerging multimedia computer communication technologies  →  C.-H. Wu and J. D. Irwin,Emerging multimedia computer communication technologies. Upper Saddle River, New Jersey: Prentice-Hall PTR, 1998
+~ G. Camarillo and M. A. Garcâia-Martâin, The 3G IP multimedia subsystem (IMS)  →  G. Camarillo and M. A. Garcâia-Martâin,The 3G IP multimedia subsystem (IMS) : merging the Internet and the cellular worlds, 3rd ed. Chichester, West Sussex, U.K: Wiley, 2008
+~ G. Armitage, Quality of service in IP Networks : foundations for a multi-service internet  →  G. Armitage,Quality of service in IP Networks : foundations for a multi-service internet. IN: Macmillan Technical Pub., Indianapolis, 2000
+
+✅ Recursos añadidos:
+------------------------------
++ Práctica 2
++ Tema 1
++ Tema 2
++ Tema 5
++ Todos los temas
++ Vidal, Ivan, Soto, Ignacio, and Banchs, Albert.Multimedia Networking Technologies, Protocols, and Architectures. Norwood, MA: Artech House, 2019. ProQuest Ebook Central
+
+📊 Porcentaje estimado de cambio: 100% [██████████]
