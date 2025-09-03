@@ -7,7 +7,6 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
-= Alcaraz Varó, E. y Hughes, B. (2002).El español jurídico. Barcelona: Ariel
 = Feria García, M. (ed.) (1999).Traducir para la justicia. Granada: Comares
 = Gamero Pérez, Silvia (2001).La traducción de textos técnicos. Barcelona: Ariel
 = Gonzalo García, C. y García Yebra, V. (eds.) (2000).Documentación, terminología y traducción. Madrid: Síntesis
@@ -20,10 +19,11 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Mari Mutt, J. A. (2001). Manual de redacción científica. (4ª ed.) Caribbean Journal of Science, Special publication nº 3. [Disponible en: http://www.caribjsci.org/epub1/] Martín Martín, J. et al. (1996). Los lenguajes especiales. Granada: Comares  →  Martín Martín, J. et al. (1996).Los lenguajes especiales. Granada: Comares
+~ TREMÉDICA. Panace@, Asociación Internacional de Traductores y Redactores de Medicina y Ciencias Afines. [Disponible en http://www.tremedica.org] Alcaraz Varó, E. y Hughes, B. (2002). El español jurídico. Barcelona: Ariel  →  TREMÉDICA. Panace@, Asociación Internacional de Traductores y Redactores de Medicina y Ciencias Afines. [Disponible enhttp://www.tremedica.org]
 
 ✅ Recursos añadidos:
 ------------------------------
++ Alcaraz Varó, E. y Hughes, B. (2002).El español jurídico. Barcelona: Ariel
 + Mari Mutt, J. A. (2001).Manual de redacción científica. (4ª ed.) Caribbean Journal of Science, Special publication nº 3. [Disponible en:http://www.caribjsci.org/epub1/]
-+ TREMÉDICA. Panace@, Asociación Internacional de Traductores y Redactores de Medicina y Ciencias Afines. [Disponible enhttp://www.tremedica.org]
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

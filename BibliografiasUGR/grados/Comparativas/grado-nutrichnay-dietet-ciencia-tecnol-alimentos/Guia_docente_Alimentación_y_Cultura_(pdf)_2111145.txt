@@ -7,7 +7,7 @@
 
 📚 Recursos sin cambios:
 ------------------------------
-= BENDER, Arnold E., y BENDER, David. A dictionary of food and nutrition. Oxford University Press. 1995
+= CONTRERAS J. Alimentación y Cultura. Necesidades, gustos y costumbres. Universidad de Barcelona. 1995
 = CRUZ, J. Alimentación y Cultura. Antropología de la conducta alimentaria. Eunsa, Pamplona. 1991
 = CRUZ, J. Teoría elemental de la gastronomía. Ed Eunsa, 2002
 = DÍAZ MÉNDEZ,C; GÓMEZ BENITO C. Alimentación, consumo y salud. Ed, Fundación La Caixa. Barcelona, 2008
@@ -26,13 +26,13 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ KIPLE, Kenneth F. y ORNELLAS, Kriemhild C. The Cambridge World History of Food  →  KIPLE, Kenneth F. y ORNELLAS, Kriemhild C. The Cambridge World History of Food. Cambridge University Press. 2000
 ~ BELLO GUTIERREZ, J. Calidad de vida, alimentos y salud humana. Ed. Díaz de Santos  →  BELLO GUTIERREZ, J. Calidad de vida, alimentos y salud humana. Ed. Díaz de Santos. Madrid, 2005
+~ KIPLE, Kenneth F. y ORNELLAS, Kriemhild C. The Cambridge World History of Food  →  KIPLE, Kenneth F. y ORNELLAS, Kriemhild C. The Cambridge World History of Food. Cambridge University Press. 2000
 ~ CONTRERAS J.; García,M.. Alimentación y cultura : perspectivas antropológicas. Ariel, Barcelona. 2005 CONTRERAS J. Antropología de la alimentación. Eudema Universidad. Madrid, 1993  →  CONTRERAS J. Antropología de la alimentación. Eudema Universidad. Madrid, 1993
 
 ✅ Recursos añadidos:
 ------------------------------
-+ CONTRERAS J. Alimentación y Cultura. Necesidades, gustos y costumbres. Universidad de Barcelona. 1995
++ BENDER, Arnold E., y BENDER, David. A dictionary of food and nutrition. Oxford University Press. 1995
 + CONTRERAS J.; García,M.. Alimentación y cultura : perspectivas antropológicas. Ariel, Barcelona. 2005
 
 📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

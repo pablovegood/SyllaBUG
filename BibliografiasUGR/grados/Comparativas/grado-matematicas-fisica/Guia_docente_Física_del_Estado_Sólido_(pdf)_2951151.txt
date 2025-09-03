@@ -11,8 +11,8 @@ No hubo coincidencias exactas o equivalentes.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ *N.W. Ashcroft, N.D. Mermin, Solid State Physics, HRW Int. Eds., Philadelphia, 1981 *J.S. Blakemore, Solid State Physics, W.B. Saunders, Philadelphia, 1974 *G. Burns, Solid State Physics, Academic Press, Boston, 1990 *A.J. Dekker, Solid State Physics, Prentice Hall, Englewood Cliffs, 1965 *R.P. Huebener, Conductors, Semiconductors, Superconductors. An Introduction to Solid State Physics. Springer, Cham, 2016 *H. Ibach, H. Lüth, Solid-State Physics. An Introduction to Principles of Materials Science, Springer, Dordrecht, 2009 *C. Kittel, Introducción a la Física del Estado Sólido, Reverté, Barcelona, 1993 F2008181Q *H.M. Rosenberg, El estado sólido, Alianza Universidad, Madrid, 1991 *S.H. Simon, The Oxford Solid State Basics, Oxford University Press, Oxford, 2013 *H.J. Goldsmid, Problemas de física del estado sólido, Reverté, Barcelona, 1975 *F. Han, Problems in solid state physics with solutions, World Scientific, N. Jersey, 2012 * Meléndez Martínez, J.J., Problemas resueltos de física de los sólidos, Paraninfo, Madrid, 2017 *J. Piqueras, J.M. Rojo, Problemas de introducción a la física del estado sólido, Alhambra, Madrid  →  *H.M. Rosenberg, El estado sólido, Alianza Universidad, Madrid, 1991
-~ *W.A. Harrison, Solid State Theory, Dover, N. York, 1979 *W. Jones, N.H. March, Theoretical Solid State Physics, Dover, N. York, 1973 Textos de nivel intermedio  →  Textos de nivel intermedio
+~ *W.A. Harrison, Solid State Theory, Dover, N. York, 1979 *W. Jones, N.H. March, Theoretical Solid State Physics, Dover, N. York, 1973 Textos de nivel intermedio  →  *W.A. Harrison, Solid State Theory, Dover, N. York, 1979
+~ *N.W. Ashcroft, N.D. Mermin, Solid State Physics, HRW Int. Eds., Philadelphia, 1981 *J.S. Blakemore, Solid State Physics, W.B. Saunders, Philadelphia, 1974 *G. Burns, Solid State Physics, Academic Press, Boston, 1990 *A.J. Dekker, Solid State Physics, Prentice Hall, Englewood Cliffs, 1965 *R.P. Huebener, Conductors, Semiconductors, Superconductors. An Introduction to Solid State Physics. Springer, Cham, 2016 *H. Ibach, H. Lüth, Solid-State Physics. An Introduction to Principles of Materials Science, Springer, Dordrecht, 2009 *C. Kittel, Introducción a la Física del Estado Sólido, Reverté, Barcelona, 1993 F2008181Q *H.M. Rosenberg, El estado sólido, Alianza Universidad, Madrid, 1991 *S.H. Simon, The Oxford Solid State Basics, Oxford University Press, Oxford, 2013 *H.J. Goldsmid, Problemas de física del estado sólido, Reverté, Barcelona, 1975 *F. Han, Problems in solid state physics with solutions, World Scientific, N. Jersey, 2012 * Meléndez Martínez, J.J., Problemas resueltos de física de los sólidos, Paraninfo, Madrid, 2017 *J. Piqueras, J.M. Rojo, Problemas de introducción a la física del estado sólido, Alhambra, Madrid  →  *N.W. Ashcroft, N.D. Mermin, Solid State Physics, HRW Int. Eds., Philadelphia, 1981
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -25,14 +25,14 @@ No hubo coincidencias exactas o equivalentes.
 + *G. Burns, Solid State Physics, Academic Press, Boston, 1990
 + *H. Ibach, H. Lüth, Solid-State Physics. An Introduction to Principles of Materials Science, Springer, Dordrecht, 2009
 + *H.J. Goldsmid, Problemas de física del estado sólido, Reverté, Barcelona, 1975
++ *H.M. Rosenberg, El estado sólido, Alianza Universidad, Madrid, 1991
 + *J. Piqueras, J.M. Rojo, Problemas de introducción a la física del estado sólido, Alhambra, Madrid, 1980
 + *J.S. Blakemore, Solid State Physics, W.B. Saunders, Philadelphia, 1974
 + *L. Mihály, M.C. Martin, Solid state physics: problems and solutions, Wiley, N. York, 1996
-+ *N.W. Ashcroft, N.D. Mermin, Solid State Physics, HRW Int. Eds., Philadelphia, 1981
 + *R.P. Huebener, Conductors, Semiconductors, Superconductors. An Introduction to Solid State Physics. Springer, Cham, 2016
 + *S.H. Simon, The Oxford Solid State Basics, Oxford University Press, Oxford, 2013
 + *W. Jones, N.H. March, Theoretical Solid State Physics, Dover, N. York, 1973
-+ *W.A. Harrison, Solid State Theory, Dover, N. York, 1979
 + Textos avanzados
++ Textos de nivel intermedio
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

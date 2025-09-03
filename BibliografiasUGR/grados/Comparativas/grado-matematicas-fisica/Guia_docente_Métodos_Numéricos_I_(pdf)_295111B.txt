@@ -20,9 +20,9 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Disponible online en  →  J. Stoer, J., R. Bulirsch, Introduction to numerical analysis, 3rd edition, Springer-Verlag, New York, 2002.Disponible online en:https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991003673949704990
 ~ A. Delgado, J. Nieto, A. Robles, O. Sánchez, Métodos numéricos básicos con Octave, ISBN  →  A. Delgado, J. Nieto, A. Robles, O. Sánchez,Métodos numéricos básicos con Octave, ISBN: 978-84-16535-79-82016(Librería Fleming, Granada 2016). Disponible online en:https://github.com/oscarsanchezromero/Calculo-Cientifico-Octave/
 ~ D. Kincaid, W. Cheney, Análisis Numérico: Las Matemáticas del Cálculo Científico  →  D. Kincaid, W. Cheney, Análisis Numérico: Las Matemáticas del Cálculo Científico. Addison-Wesley Iberoamericana, 1994
-~ Disponible online en  →  J. Stoer, J., R. Bulirsch, Introduction to numerical analysis, 3rd edition, Springer-Verlag, New York, 2002.Disponible online en:https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991003673949704990
 
 ✅ Recursos añadidos:
 ------------------------------

@@ -11,7 +11,6 @@ No se eliminaron recursos.
 = Buscha, Joachim, Renate Freudenberg-Findeisen, Eike Forstreuter, Hermann Koch y Lutz Kuntzsch (1998). Grammatik in Feldern. Ismaning: Verlag für Deutsch
 = Cartagena, Nelson y Hans-Martin Gauger (1989). Vergleichende Grammatik Spanisch- Deutsch. Mannheim: Duden
 = Duden (1996). Deutsches Universal Wörterbuch A-Z. Mannheim: Duden
-= Hall, Karin y Barbara Scheiner (2001). Übungsgrammatik Deutsch als Fremdsprache für
 = Jin, Friederike; Voß, Ute (2017): Grammatik aktiv. Verstehen, üben, sprechen: B2-C1. Berlin: Cornelsen
 = Rug, Wolfgang y Andreas Tomaszewski (1999). Grammatik mit Sinn und Verstand. 20 Kapitel deutsche Grammatik für Fortgeschrittene. München: Klett
 = Schade, Günter (1993). Einführung in die deutsche Sprache der Wissenschaften. Berlin: Erich Schmidt Verlag
@@ -20,11 +19,11 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-No hubo cambios de edición/año.
+~ Hall, Karin y Barbara Scheiner (2001). Übungsgrammatik Deutsch als Fremdsprache für Fortgeschrittene. Ismaning: Verlag für Deutsch  →  Fortgeschrittene. Ismaning: Verlag für Deutsch
 
 ✅ Recursos añadidos:
 ------------------------------
 + BIBLIOGRAFÍA
-+ Fortgeschrittene. Ismaning: Verlag für Deutsch
++ Hall, Karin y Barbara Scheiner (2001). Übungsgrammatik Deutsch als Fremdsprache für
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

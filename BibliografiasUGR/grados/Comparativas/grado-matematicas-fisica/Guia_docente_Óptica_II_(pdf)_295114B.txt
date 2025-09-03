@@ -17,14 +17,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Akhamanov , S.A. and Nikitin S.Yu., “Physycal Optics” Clarendon Press Oxford (1997) Boyd, R.W., “Nonlinear Optics”, Academic Press (2003) Capmany J. et al. “Fundamentos de comunicaciones ópticas”, Ed. Síntesis(1998) Casas, J. “Óptica”. Librería Pons, Zaragoza (1983)  →  Capmany J. et al. “Fundamentos de comunicaciones ópticas”, Ed. Síntesis(1998)
 ~ Goodman, J.W., “Introduction to Fourier Optics”, Roberts and Company Eds (2005) Díaz Navas, J.A., Medina, J.M. “Ondas de Luz”, Copicentro Ed., (2006)  →  Goodman, J.W., “Introduction to Fourier Optics”, Roberts and Company Eds (2005)
-~ Akhamanov , S.A. and Nikitin S.Yu., “Physycal Optics” Clarendon Press Oxford (1997) Boyd, R.W., “Nonlinear Optics”, Academic Press (2003) Capmany J. et al. “Fundamentos de comunicaciones ópticas”, Ed. Síntesis(1998) Casas, J. “Óptica”. Librería Pons, Zaragoza (1983)  →  Casas, J. “Óptica”. Librería Pons, Zaragoza (1983)
 
 ✅ Recursos añadidos:
 ------------------------------
 + Akhamanov , S.A. and Nikitin S.Yu., “Physycal Optics” Clarendon Press Oxford (1997)
 + Boyd, R.W., “Nonlinear Optics”, Academic Press (2003)
-+ Capmany J. et al. “Fundamentos de comunicaciones ópticas”, Ed. Síntesis(1998)
++ Casas, J. “Óptica”. Librería Pons, Zaragoza (1983)
 + Díaz Navas, J.A., Medina, J.M. “Ondas de Luz”, Copicentro Ed., (2006)
 + Hecht, E. y Zajac, A., "Óptica", Addison-Wesley Iberoamericana (2000)
 + Klein, M.V., "Optics", John Wiley & Sons (1970)

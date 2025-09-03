@@ -26,6 +26,7 @@ No se eliminaron recursos.
 = Lannon, J. M. (1994). Technical writing (6th ed.). New York: HarperCollins College Publishers
 = Maillot, J. (1997). La traducción científica y técnica. Madrid: Gredos
 = Pearsall, T. E. (1997). The elements of technical writing. Boston: Allyn and Bacon
+= Schäffner, C. (2004). Developing competence in LSP-translation. In E. Fleischmann, P. A. Schmitt, & G. Wotjak (eds.), Translationskompetenz. Tagungsberichte der LICTRA 4.-6.10.2001 (pp. 679-689). Stauffenberg
 = Searl, D. (2003). You and the Law in Spain. Málaga: Santana
 = Soriano Barabino, G. (2016) Comparative Law for Legal Translators. Oxford, Bern, Frankfurt am Mein: Peter Lang
 = Suau Jiménez, F. (2010). La traducción especializada (en inglés y español en géneros de economía y empresa). Madrid: Arco
@@ -35,7 +36,6 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Schäffner, C. (2004). Developing competence in LSP-translation. In E. Fleischmann, P. A  →  Schäffner, C. (2004). Developing competence in LSP-translation. In E. Fleischmann, P. A. Schmitt, & G. Wotjak (eds.), Translationskompetenz. Tagungsberichte der LICTRA 4.-6.10.2001 (pp. 679-689). Stauffenberg
 ~ Barcelona: Ariel: 27-40 Rogers, M. (2015). Specialized Translating. Shedding the ‘non-Literary’ Tag. Londres: Palgrave Macmillan UK Šarcević, S. (1997) New Approach to Legal Translation. La Haya: Kluwer Law International  →  Rogers, M. (2015). Specialized Translating. Shedding the ‘non-Literary’ Tag. Londres: Palgrave Macmillan UK
 ~ Schmitt, & G. Wotjak (eds.), Translationskompetenz. Tagungsberichte der LICTRA 4.-6.10.2001 (pp. 679-689). Stauffenberg  →  Schäffner, C. (2004). Developing competence in LSP-translation. In E. Fleischmann, P. A. Schmitt, & G. Wotjak (eds.), Translationskompetenz. Tagungsberichte der LICTRA 4.-6.10.2001 (pp. 679-689). Stauffenberg
 
@@ -43,4 +43,4 @@ No se eliminaron recursos.
 ------------------------------
 + Šarcević, S. (1997) New Approach to Legal Translation. La Haya: Kluwer Law International
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

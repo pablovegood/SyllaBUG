@@ -16,6 +16,7 @@
 = Gile, D. (2009). Basic Concepts and Models for Interpreter and Translator Training. (Revised edition) Ámsterdam/Filadelfia: John Benjamins
 = Iglesias Fernández, E. (2007). La didáctica de la interpretación de conferencias: teoría y práctica. Granada: Comares
 = Jiménez Ivars, A. (2003). La traducción a vista. Un análisis descriptivo. Tesis doctoral. Universidad Jaume I. http://www.tdx.cesca.es/TDX-0519103-121513/
+= Jiménez Ivars, A. (2008). “Sight Translation and Written Translation. A Comparative Analysis of Causes of Problems, Strategies and Translation Errors within the PACTE Translation Competence Model.” Forum 6, 2, 79-104
 = Lambert, S. (2004). “Shared Attention during Sight Translation, Sight Interpretation and Simultaneous Interpretation.” Meta 49: 2, 294-306
 = Martin, A. (1993). “Teaching Sight Translation to Future interpreters.” En Picken, C. (ed.) La Traduction au Coeur de la Communication. Proceedings of the XIII FIT World Congress. Londres: Institute of Translation and Interpretation, 398-405
 = Rozan, J. F. (1956). La prise de notes en interprétation consécutive. Ginebra: Universidad de Ginebra
@@ -23,20 +24,19 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Amsterdam/Filadelfia: John Benjamins  →  Gile, D. (1995). Basic Concepts and Models for Interpreter and Translator Training. Amsterdam/Filadelfia: John Benjamins
-~ Universidad Jaume I. http://www.tdx.cesca.es/TDX-0519103-121513/ Jiménez Ivars, A. (2008). “Sight Translation and Written Translation. A Comparative Analysis of Causes of Problems, Strategies and Translation Errors within the PACTE Translation Competence Model.” Forum 6, 2, 79-104  →  Jiménez Ivars, A. (2009). “Sight Translation and Written Translation. A Comparative Analysis of Causes of Problems, Strategies and Translation Errors within the PACTE Translation Competence Model.” Forum 6, 2, 79-104
-~ Universidad Jaume I, Castellón de la Plana  →  Jiménez Ivars, A. (2000). La traducción a la vista. Un análisis descriptivo. Tesis doctoral. Universidad Jaume I, Castellón de la Plana
 ~ Jiménez Ivars, A. (2000). La traducción a la vista. Un análisis descriptivo. Tesis doctoral  →  Jiménez Ivars, A. (2003). La traducción a vista. Un análisis descriptivo. Tesis doctoral. Universidad Jaume I. http://www.tdx.cesca.es/TDX-0519103-121513/
+~ Amsterdam/Filadelfia: John Benjamins  →  Gile, D. (1995). Basic Concepts and Models for Interpreter and Translator Training. Amsterdam/Filadelfia: John Benjamins
+~ Universidad Jaume I, Castellón de la Plana  →  Jiménez Ivars, A. (2000). La traducción a la vista. Un análisis descriptivo. Tesis doctoral. Universidad Jaume I, Castellón de la Plana
 
 ✅ Recursos añadidos:
 ------------------------------
 + Albl-Mikasa, M. y Tiselius, E. (Eds.). (2021).The Routledge handbook of conference interpreting. Londres: Routledge
 + BIBLIOGRAFÍA FUNDAMENTAL Y COMPLEMENTARIA
 + Havnen, R. (2019). Multimodal and Interactional Aspects of Sight Translation – A Critical Review. FITISPos-International Journal 6(1):91-106
-+ Jiménez Ivars, A. (2008). “Sight Translation and Written Translation. A Comparative Analysis of Causes of Problems, Strategies and Translation Errors within the PACTE Translation Competence Model.” Forum 6, 2, 79-104
++ Jiménez Ivars, A. (2009). “Sight Translation and Written Translation. A Comparative Analysis of Causes of Problems, Strategies and Translation Errors within the PACTE Translation Competence Model.” Forum 6, 2, 79-104
 + Jiménez Ivars, A. y Hurtado Albir, A. (2003). Variedades de traducción a la vista. Trans: Revista de Traductología, 7, 47-57
 + Lee, J. (2012). What skills do student interpreters need to learn in sight translation training? Meta, 57, 694-714
 + Mikkelson, H., y Jourdenais, R. (Eds.). (2015). The Routledge handbook of interpreting. Londres: Routledge
 + Setton, R., & Motta, M. (2007). Syntacrobatics: Quality and reformulation in simultaneous with text.Interpreting, 9, 199-230
 
-📊 Porcentaje estimado de cambio: 72% [███████░░░]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

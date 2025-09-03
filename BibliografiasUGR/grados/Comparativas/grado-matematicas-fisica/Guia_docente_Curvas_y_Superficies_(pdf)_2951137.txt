@@ -15,11 +15,11 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ J. Pérez: Curvas y superficies. Granada, 2014. Disponible en A. F. Costa, M. Gamboa y A. M. Porto: Notas de geometría diferencial de curvas y superficies. Editorial Sanz y Torres, Madrid, 1977  →  A. F. Costa, M. Gamboa y A. M. Porto: Notas de geometría diferencial de curvas y superficies. Editorial Sanz y Torres, Madrid, 1977
+~ J. Pérez: Curvas y superficies. Granada, 2014. Disponible en A. F. Costa, M. Gamboa y A. M. Porto: Notas de geometría diferencial de curvas y superficies. Editorial Sanz y Torres, Madrid, 1977  →  J. Pérez: Curvas y superficies. Granada, 2014. Disponible enhttps://wpd.ugr.es/~jperez/wordpress/wp-content/uploads/raizCyS.pdf
 
 ✅ Recursos añadidos:
 ------------------------------
-+ J. Pérez: Curvas y superficies. Granada, 2014. Disponible enhttps://wpd.ugr.es/~jperez/wordpress/wp-content/uploads/raizCyS.pdf
++ A. F. Costa, M. Gamboa y A. M. Porto: Notas de geometría diferencial de curvas y superficies. Editorial Sanz y Torres, Madrid, 1977
 + L. A. Cordero, M. Fernández y A. Gray: Geometría diferencial de curvas y superficies (con Mathematica). Addison-Wesley Iberoamericana, Wilmington, 1995
 + M. Lipschutz: Geometría Diferencial, Serie Schaum, MacGraw-Hill, México 1971
 

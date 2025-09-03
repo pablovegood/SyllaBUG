@@ -24,14 +24,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ David W.Wall (2004). Fisicoquímica. 3ª edición. Ed. International Thomson Engel T., Reid P. (2006) Química Física. Pearson Educación S.A  →  David W.Wall (2004). Fisicoquímica. 3ª edición. Ed. International Thomson
-~ Tinoco, Sauer, Wang, Puglisi (2002) Physical Chemistry. Principles and Applications in Biological Sciences, 4ªed. Pearson Education. van Holde, Johnson, Ho (2006). Principles of physical Biochemistry, 2ªed. Pearson- Prentice Hall  →  Tinoco, Sauer, Wang, Puglisi (2002) Physical Chemistry. Principles and Applications in Biological Sciences, 4ªed. Pearson Education
+~ David W.Wall (2004). Fisicoquímica. 3ª edición. Ed. International Thomson Engel T., Reid P. (2006) Química Física. Pearson Educación S.A  →  Engel T., Reid P. (2006) Química Física. Pearson Educación S.A
+~ Tinoco, Sauer, Wang, Puglisi (2002) Physical Chemistry. Principles and Applications in Biological Sciences, 4ªed. Pearson Education. van Holde, Johnson, Ho (2006). Principles of physical Biochemistry, 2ªed. Pearson- Prentice Hall  →  van Holde, Johnson, Ho (2006). Principles of physical Biochemistry, 2ªed. Pearson-Prentice Hall
 
 ✅ Recursos añadidos:
 ------------------------------
 + Cambpell, G. (ed.) (2009) Food Science and Technology. Wiley-Blackwell
-+ Engel T., Reid P. (2006) Química Física. Pearson Educación S.A
++ David W.Wall (2004). Fisicoquímica. 3ª edición. Ed. International Thomson
 + Hamley (2007). Introduction to Soft Matter – Revised Edition: Synthetic and Biological Self-Assembling Materials. John Wiley & Sons
-+ van Holde, Johnson, Ho (2006). Principles of physical Biochemistry, 2ªed. Pearson-Prentice Hall
++ Tinoco, Sauer, Wang, Puglisi (2002) Physical Chemistry. Principles and Applications in Biological Sciences, 4ªed. Pearson Education
 
 📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

@@ -50,17 +50,17 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ 30.F. W. SEARS AND G. L. SALINGER, Thermodynamics, Kinetic Theory and Statistical 31.M. SPRACKLING, Thermal Physics,AIP (1992). ISBN: 0-88318-919-4 & Sons (1984)  →  M. SPRACKLING, Thermal Physics,AIP (1992). ISBN: 0-88318-919-4
-~ H.A. Bethe, Supernova Mechanicsms, Rev. of Modern Physics, 62, 801 (1990)  →  R.J. Tayler, Stellar Evolution, Rep. on Progr. in Physics,31, 167 (1968).H.A. Bethe, Supernova Mechanicsms, Rev. of Modern Physics,62, 801 (1990)
 ~ 3.C.N. Yang y T.D. Lee, Statistical Theory of Equations of State and Phase Transitions. I  →  C.N. Yang y T.D. Lee, Statistical Theory of Equations of State and Phase Transitions. I. Theory of Condensation.Phys. Rev.87, 404 (1952)
-~ 7.Elliot H. Lieb, Thomas-fermi and related theories of atoms and molecules. Rev. Mod  →  Elliot H. Lieb, Thomas-fermi and related theories of atoms and molecules. Rev. Mod. Physics,53, 603 (1981); ibid Rev. Mod. Physics,54311 (1982)
-~ 10.P.C. Hohenberg, Existence of Long Range Order in One and Two Dimensions Phys. Rev  →  P.C. Hohenberg, Existence of Long Range Order in One and Two Dimensions Phys. Rev.158, 383 (1967)
+~ 30.F. W. SEARS AND G. L. SALINGER, Thermodynamics, Kinetic Theory and Statistical 31.M. SPRACKLING, Thermal Physics,AIP (1992). ISBN: 0-88318-919-4 & Sons (1984)  →  M. SPRACKLING, Thermal Physics,AIP (1992). ISBN: 0-88318-919-4
+~ 24.G. MORANDI, E ERCOLESSI, AND F NAPOLI, Statistical Mechanics: An Intermediate F2008181Q Course,2nd Edition, World-Scientific (2001), 25.GEORGE PHILLIES, Elementary Lectures in Statistical Mechanics,Springer-Verlag (2000)  →  GEORGE PHILLIES, Elementary Lectures in Statistical Mechanics,Springer-Verlag (2000)
 ~ 4.T.D. Lee and C.N. Yang, Statistical Theory of Equations of State and Phase Transitions. II  →  T.D. Lee and C.N. Yang, Statistical Theory of Equations of State and Phase Transitions. II. Lattice Gas and Ising Model. Phys. Rev.87, 410 (1952)
+~ 10.P.C. Hohenberg, Existence of Long Range Order in One and Two Dimensions Phys. Rev  →  P.C. Hohenberg, Existence of Long Range Order in One and Two Dimensions Phys. Rev.158, 383 (1967)
+~ ARTICULOS DE INVESTIGACIÓN (para la preparación de seminarios) 1.J.G. Kirkwood, Quamtum Statistics of Almost Classical Assemblies. Phys. Rev. 44, 31 (1933)  →  ARTICULOS DE INVESTIGACIÓN (para la preparación de seminarios)
+~ 7.Elliot H. Lieb, Thomas-fermi and related theories of atoms and molecules. Rev. Mod  →  Elliot H. Lieb, Thomas-fermi and related theories of atoms and molecules. Rev. Mod. Physics,53, 603 (1981); ibid Rev. Mod. Physics,54311 (1982)
+~ H.A. Bethe, Supernova Mechanicsms, Rev. of Modern Physics, 62, 801 (1990)  →  R.J. Tayler, Stellar Evolution, Rep. on Progr. in Physics,31, 167 (1968).H.A. Bethe, Supernova Mechanicsms, Rev. of Modern Physics,62, 801 (1990)
 ~ 8.R.J. Tayler, Stellar Evolution, Rep. on Progr. in Physics, 31, 167 (1968)  →  R.J. Tayler, Stellar Evolution, Rep. on Progr. in Physics,31, 167 (1968).H.A. Bethe, Supernova Mechanicsms, Rev. of Modern Physics,62, 801 (1990)
 ~ Hardback: ISBN 0-521-59082-5; Paperback: ISBN 0-521-65838-1; Solutions Manual (for instructors): ISBN 0-521-65860-8  →  RALPH BAIERLEIN, Thermal Physics,Cambridge University Press, New York (1999). Hardback: ISBN 0-521-59082-5; Paperback: ISBN 0-521-65838-1; Solutions Manual (for instructors): ISBN 0-521-65860-8
-~ ARTICULOS DE INVESTIGACIÓN (para la preparación de seminarios) 1.J.G. Kirkwood, Quamtum Statistics of Almost Classical Assemblies. Phys. Rev. 44, 31 (1933)  →  ARTICULOS DE INVESTIGACIÓN (para la preparación de seminarios)
 ~ 5.RALPH BAIERLEIN, Atoms and Information Theory: An Introduction to Statistical Mechanics,Freeman (1971). (1993)  →  RALPH BAIERLEIN, Atoms and Information Theory: An Introduction to Statistical Mechanics,Freeman (1971)
-~ 24.G. MORANDI, E ERCOLESSI, AND F NAPOLI, Statistical Mechanics: An Intermediate F2008181Q Course,2nd Edition, World-Scientific (2001), 25.GEORGE PHILLIES, Elementary Lectures in Statistical Mechanics,Springer-Verlag (2000)  →  G. MORANDI, E ERCOLESSI, AND F NAPOLI,Statistical Mechanics: An Intermediate Course,2nd Edition, World-Scientific (2001)
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -73,7 +73,7 @@
 + F. MANDL, Statistical Physics,second edition, John Wiley & Sons (1988)
 + F. REIF, Statistical Physics, (Vol. 5 of Berkeley Physics Course),McGraw-Hill (1967)
 + F. W. SEARS AND G. L. SALINGER, Thermodynamics, Kinetic Theory and Statistical Thermodynamics,Addison-Wesley (1975)
-+ GEORGE PHILLIES, Elementary Lectures in Statistical Mechanics,Springer-Verlag (2000)
++ G. MORANDI, E ERCOLESSI, AND F NAPOLI,Statistical Mechanics: An Intermediate Course,2nd Edition, World-Scientific (2001)
 + GREINER,W. NEISE, L. y STÖCKER, H., Thermodynamics and Statistical Mechanics, Springer, Nueva York (1995)
 + HUANG, K., Statistical Mechanics 2nd edition, John Wiley & Sons, 1987, Nueva York
 + J.G. Kirkwood, Quamtum Statistics of Almost Classical Assemblies. Phys. Rev. 44, 31 (1933)

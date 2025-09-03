@@ -29,8 +29,8 @@ No se eliminaron recursos.
 ------------------------------
 ~ S.C. Chapra y R.P. Canale. Métodos Numéricos para Ingenieros. McGraw-Hill, 1999. ISBN  →  S.C. Chapra y R.P. Canale. Métodos Numéricos para Ingenieros. McGraw-Hill, 1999. ISBN: 970-10-2008-1
 ~ Gould, H., Tobochnik, J., Christian, W. An Introduction to Computer Simulation Methods  →  Gould, H., Tobochnik, J., Christian, W. An Introduction to Computer Simulation Methods. Pearson Education- Addison Wesley, 2006. ISBN-10: 0805377581
-~ ISBN: ISBN O-89871-355-2  →  Higham, N.J. Accuracy and Stability of Numerical Algorithms. SIAM, Philadelphia, 1996. ISBN: ISBN O-89871-355-2
 ~ Conte, S.D., and de Boor, C. Elementary Numerical Analysis. An Algorithmic Analysis  →  Conte, S.D., and de Boor, C. Elementary Numerical Analysis. An Algorithmic Analysis. McGraw-Hill, New York, 1980. ISBN: 0-07-012447-7
+~ ISBN: ISBN O-89871-355-2  →  Higham, N.J. Accuracy and Stability of Numerical Algorithms. SIAM, Philadelphia, 1996. ISBN: ISBN O-89871-355-2
 
 ✅ Recursos añadidos:
 ------------------------------

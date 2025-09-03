@@ -22,7 +22,6 @@ No se eliminaron recursos.
 = Hall JE. "Guyton & Hall Repaso de Fisiología". 3ª ed. Elsevier, 2016
 = Hall JE. "Guyton & Hall Tratado de Fisiología médica". 14ª ed. Elsevier, 2021
 = Hall S, Stephen J. Cursos CRASH. "Lo esencial en Anatomía y Fisiología". 5ª ed. Elsevier, 2020
-= Harper Collins Diccionario médico ilustrado de bolsillo. Marban, 2015
 = IUPS (International Union of Physiological Sciences. Commission on Teaching Physiology). A source book of practical experiments in physiology requiring minimal equipment. World Scientific, 1991
 = Junqueira LC, Cameiro J. "Histología básica. Texto y atlas". 12ª ed. Editorial Médica Panamericana, 2015
 = Koeppen BM, Stanton BA. "Berne y Levy Fisiología". 7ª ed. Elsevier-Mosby, 2018
@@ -45,11 +44,12 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Varios. Cuaderno de Prácticas de Fisiología Humana. Departamento de Fisiología  →  Varios. Cuaderno de Prácticas de Fisiología Humana. Departamento de Fisiología. Facultad de Farmacia. Universidad de Granada.2010
-~ Cengage Learning, 2013  →  Amitrano R, Tortora G. "Anatomy & Physiology Laboratory Manual". 8ª ed. revisada. Cengage Learning, 2013
+~ Diccionarios y atlas médicos Harper Collins Diccionario médico ilustrado de bolsillo. Marban, 2015  →  Diccionarios y atlas médicos
 ~ Marieb EN, Smith LA. "Human Anatomy and Physiology Laboratory Manual", 12ª ed  →  Marieb EN, Smith LA. "Human Anatomy and Physiology Laboratory Manual", 12ª ed. Pearson, 2019
-~ F2008181Q Publicaciones periódicas Manuales de prácticas Amitrano R, Tortora G. "Anatomy & Physiology Laboratory Manual". 8ª ed. revisada  →  Publicaciones periódicas
 ~ Libros de texto Cordova A. "Fisiología dinámica". Masson, 2014  →  Libros de texto
+~ Varios. Cuaderno de Prácticas de Fisiología Humana. Departamento de Fisiología  →  Varios. Cuaderno de Prácticas de Fisiología Humana. Departamento de Fisiología. Facultad de Farmacia. Universidad de Granada.2010
+~ F2008181Q Publicaciones periódicas Manuales de prácticas Amitrano R, Tortora G. "Anatomy & Physiology Laboratory Manual". 8ª ed. revisada  →  Publicaciones periódicas
+~ Cengage Learning, 2013  →  Amitrano R, Tortora G. "Anatomy & Physiology Laboratory Manual". 8ª ed. revisada. Cengage Learning, 2013
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -57,7 +57,7 @@ No se eliminaron recursos.
 + Cordova A. "Fisiología dinámica". Masson, 2014
 + Cursos CRASH. "Lo esencial en Sistema músculo-esquelético y piel". 2ª ed. Elsevier, 2004
 + Cursos CRASH. "Lo esencial en Sistema renal y urinario". 4ª ed. Elsevier, 2013
-+ Diccionarios y atlas médicos
++ Harper Collins Diccionario médico ilustrado de bolsillo. Marban, 2015
 + Libros de texto (bibliografía específica)
 + Manuales de prácticas
 + Ortiz JM. "Casos prácticos y problemas de Fisiología". Síntesis, 2000
@@ -66,4 +66,4 @@ No se eliminaron recursos.
 + Suckow M, Hankenson FC, Wilson R, Foley P. "The laboratory rat" 3ª ed. Academic Press, 2019
 + The Journal of Physiology- https://physoc.onlinelibrary.wiley.com/journal/14697793
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 45% [████░░░░░░]

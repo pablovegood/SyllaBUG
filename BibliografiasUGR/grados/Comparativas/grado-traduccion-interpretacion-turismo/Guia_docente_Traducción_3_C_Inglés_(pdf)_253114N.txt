@@ -7,6 +7,7 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
+= Conway, Kyle y Bassnet, Susan (2006).Translation in Global News. Coventry, RU: Centre for Translation and Comparative Cultural Studies, University of Warwick
 = Cortés Zaborras, Carmen; Hernández Guerrero, Mª. José; Bustos Girbert, José Manuel (coords.) (2005).La traducción periodística. Escuela de Traductores de Toledo: Universidad de Castilla-La Mancha
 = Durán Muñoz, Isabel. (2012). Caracterización de la traducción turística: problemas, dificultades y posibles soluciones. Revista de Lingüística y Lengua Aplicadas (7): 103-113 [Disponibleaquí]
 = Fuentes Luque, Adrián (ed.) (2005).La traducción en el sector turístico.Granada: Atrio
@@ -21,10 +22,9 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Baker, Mona (2011). In other words: a coursebook on translation. 2ª ed. Londres: Routledge Campbell, Stewart. (1998). Translation into the Second Language. London/New York: Longman  →  Baker, Mona (2011).In other words: a coursebook on translation. 2ª ed. Londres: Routledge
 ~ González-Davies, M. & Enríquez-Raído, V. (2016). Situated learning in translator and interpreter training: bridging research and good practice. The Interpreter and Translator Trainer, 10(1): 1-11, DOI: 10.1080/1750399X.2016.1154339 Grosman, Meta et al. (eds.) (2000). Translation into Non-Mother Tongues in Professional Practice and Training. Tübingen: Stauffenberg  →  González-Davies, M. & Enríquez-Raído, V. (2016). Situated learning in translator and interpreter training: bridging research and good practice. The Interpreter and Translator Trainer, 10(1): 1-11, DOI: 10.1080/1750399X.2016.1154339
 ~ Kiraly, D. (2012). Growing a Project-Based Translation Pedagogy: A Fractal Perspective. Meta, Kiraly, D. (2016). Towards authentic experiential learning in translator education. Göttingen: V & R Unipress Mainz University Press  →  Kiraly, D. (2016).Towards authentic experiential learning in translator education. Göttingen: V & R Unipress Mainz University Press
-~ Bourne, J, y Castillo Ortíz, P. 2024. ‘Set in stunning countryside’: Promoting the use of English tourist discourse patterns in students’ translations. En G.Policastro Ponce y M.Álvarez Jurado (eds). Traducción, discurso turístico y cultura. Granada: Comares Conway, Kyle y Bassnet, Susan (2006). Translation in Global News. Coventry, RU: Centre for Translation and Comparative Cultural Studies, University of Warwick  →  Conway, Kyle y Bassnet, Susan (2006).Translation in Global News. Coventry, RU: Centre for Translation and Comparative Cultural Studies, University of Warwick
+~ Baker, Mona (2011). In other words: a coursebook on translation. 2ª ed. Londres: Routledge Campbell, Stewart. (1998). Translation into the Second Language. London/New York: Longman  →  Baker, Mona (2011).In other words: a coursebook on translation. 2ª ed. Londres: Routledge
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -34,4 +34,4 @@ No se eliminaron recursos.
 + Kiraly, D. (2012). Growing a Project-Based Translation Pedagogy: A Fractal Perspective. Meta, 57(1), 82–95.https://doi.org/10.7202/1012742ar
 + Se proporcionará una bibliografía más específica cuando lo requiera la temática abordada a lo largo del curso
 
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]
