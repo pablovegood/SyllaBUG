@@ -1,0 +1,27 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Farmacología_I_(pdf)_2251132
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Edinburgh. 2020 F2008181Q Katzung, BG. Farmacología básica y clínica (14ª ed.) Ed. McGraw Hill, 2019
+- Flórez, J., Armijo, J.A., Mediavilla, A. Farmacología Humana. (6ª ed). Elsevier-Masson
+
+📚 Recursos sin cambios:
+------------------------------
+= Catálogo de medicamentos. Consejo General de Colegios de Farmaceúticos
+= Koda-Kimble, M.A.; Young, L.Y. Applied Therapeutics. The clinical use of drugs. Editorial Lippincott Williams and Wilkins. Philadelphia
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Lorenzo, P., Moreno, A., Leza, J.C., Lizasoain, I., Moro, M.A. Velázquez. Farmacología Básica y Clínica. 19ª Ed. Editorial Médica Panamericana. Madrid. 2017 Rang, H.P., Dale, M.M. Ritter, J.M. Pharmacology. (9ª ed). Churchill Livingstone  →  Rang, H.P., Dale, M.M. Ritter, J.M. Pharmacology. (10ª ed). Churchill Livingstone. Edinburgh. 2024
+~ Brunton, L.L., Hilal-Dandan R., Kollmann, B.C. Goodman and Gilman’s The Pharmacologic Basis of Therapeutics. 14ª Ed. McGraw-Hill Publishing Company, 2018  →  Brunton, L.L., Hilal-Dandan R., Kollmann, B.C. Goodman and Gilman’s The Pharmacologic Basis of Therapeutics. 14ª Ed. McGraw-Hill Publishing Company, 2023
+~ Dipiro JT et al. Pharmacotherapy. A pathophysiologic approach. 9ª Ed. McGraw-Hill, 2014  →  Dipiro JT et al. Pharmacotherapy. A pathophysiologic approach. 11ª Ed. McGraw-Hill, 2020
+
+✅ Recursos añadidos:
+------------------------------
++ Flórez J., Avendaño C and Mediavilla, A. Farmacología Humana. (7ª ed). Elsevier, Spain. 2025
++ Golan, D.E., Tashjian, A.H., Armstrong, E.J., Armstrong, A.W. Principios de Farmacología. Bases fisiopatológicas del tratamiento farmacológico (4ª ed.) Lippincott Williams & Wilkins, 2017
++ Katzung. Farmacología básica y clínica, 16.a Edición. McGraw Hill, 2024
++ Lorenzo, P., Moreno, A., Leza, J.C., Lizasoain, I., Moro, M.A. Pórtoles A. Velázquez. Farmacología Básica y Clínica. 20ª Ed. Editorial Médica Panamericana. Madrid. 2025
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

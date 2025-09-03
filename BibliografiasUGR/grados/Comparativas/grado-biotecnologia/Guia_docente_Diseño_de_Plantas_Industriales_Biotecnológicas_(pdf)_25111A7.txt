@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Diseño_de_Plantas_Industriales_Biotecnológicas_(pdf)_25111A7
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- ENCYCLOPEDIA OF CHEMICAL PROCESSING AND DESIGN. Mcketta J.J. (ed). M. Dekker REDES DE VAPOR. Ed. Ente Regional de Energía de Castilla y León, 2010
+
+📚 Recursos sin cambios:
+------------------------------
+= BIOCHEMICAL ENGINEERING AND BIOTECHNOLOGY. Najafpour, G.D. Editorial Elsevier (2007)
+= CHEMICAL ENGINEERING. Coulson, J.M. y Richardson, J.F., con Backhurst J.R. y Harker, J.H. Editorial Butterworth-Heinemann (2012)
+= CONTAMINACIÓN E INGENIERÍA AMBIENTAL. J.L. Bueno, H. Sastre y A.G. Lavin. Varios tomos. Edita FICYT
+= INGENIERÍA DE BIOPROCESOS. Díaz, M. Editorial Paraninfo (2012)
+= PRINCIPIOS DE INGENIERÍA DE LOS BIOPROCESOS. Doran, P.M. Editorial Acribia (1998)
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ PRINCIPIOS ELEMENTALES DE LOS PROCESOS QUÍMICOS. (Tercera edición). Felder, 2007  →  PRINCIPIOS ELEMENTALES DE LOS PROCESOS QUÍMICOS. (Tercera edición). Felder, R.M. y Rousseau, R.W. Editorial Limusa Wiley (2003)
+~ GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS. G. Tchobanoglous y col. Ed. McGraw Hill  →  GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS. G. Tchobanoglous y col. Ed. McGraw Hill. 1996
+
+✅ Recursos añadidos:
+------------------------------
++ BIBLIOGRAFÍA COMPLEMENTARIA
++ BIBLIOGRAFÍA FUNDAMENTAL
++ BIOCHEMICAL ENGINEERING: A TEXTBOOK FOR ENGINEERS, CHEMISTS AND BIOLOGISTS. Katoh S. y Yoshida F. Editorial Wiley-VCH (2009)
++ ENCYCLOPEDIA OF CHEMICAL PROCESSING AND DESIGN. Mcketta J.J. (ed). M. Dekker inc. 61 tomos. Ordenados alfabéticamente. Diferentes años
++ MANUAL TÉCNICO DE DISEÑO Y CÁLCULO DE REDES DE VAPOR. EFICIENCIA ENERGÉTICA EN REDES DE VAPOR. Ed. Ente Regional de Energía de Castilla y León, 2010
++ TECNOLOGÍA ENERGÉTICA DE INGENIERÍA QUÍMICA. M. Alarcón García. 1ª Edición. DM, 2007
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

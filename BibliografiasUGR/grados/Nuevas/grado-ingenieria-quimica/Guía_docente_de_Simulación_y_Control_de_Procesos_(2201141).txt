@@ -1,8 +1,0 @@
-Estrategias de modelado, simulación y optimización de procesos químicos (2006). Puigjaner y otros. Ed. Síntesis. BPOL/66.02 EST
-Process Simulations Essentials - Example Book(2016). Chemstations Inc.
-Chemical process control (1984). Stephanopoulos. Ed. Prentice Hall. BPOL/66.02 STE che
-Instrumentación y control de plantas químicas (2012). Ollero y otros. Ed. Síntesis. BPOL/66.02 OLL ins
-Process control (2013). Bequette. Ed. Prentice Hall.
-Ingeniería de Control Moderna (2010). Ogata. Ed. Pearson.
-Control automático con herramientas interactivas (2012). Guzmán y otros. Ed. Pearson.
-Introducción a los sistemas de control (2010). Hernández. Ed. Pearson.

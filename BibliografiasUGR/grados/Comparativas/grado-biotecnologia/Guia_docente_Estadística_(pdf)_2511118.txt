@@ -1,0 +1,29 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Estadística_(pdf)_2511118
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Interamericana de México Nueva York
+
+📚 Recursos sin cambios:
+------------------------------
+= Canavos, G.C., (1993). “Probabilidad y Estadística: Aplicaciones y Métodos”. Ed. McGraw Hill
+= Cuadras, C.M. (2000). "Problemas de Probabilidad y Estadística". (Vol. II) EUB, Barcelona
+= Lara Porras, A.M. (2010). “Estadística para Biología y Ciencias Ambientales: Tratamiento Informático mediante SPSS”. Ed. Proyecto Sur
+= Lara Porras, A.M. y Román Montoya, (2010). "Aprender Estadística analizando datos: Métodos Multimedia" (CD-ROM). Ed. Proyecto Sur. Granada
+= Lara Porras, A.M., Román Montoya, Y. y Pérez Bueno, Fernando (2012). "Guía Interactiva de Autoaprendizaje de SPSS. V.4.1" (CD-ROM). Ed. Proyecto Sur. Granada
+= MENDENHALL, W. Y SINCICH, T. (1997). “Probabilidad y Estadística para Ingeniería y Ciencias”. Prentice-Hall Iberoamericana
+= Martín Andrés, A. y Luna del Castillo, J. de D. (2004). "Bioestadística para las Ciencias de la Salud". Ed. Capitel. Madrid
+= Milton J.S. (2007). “Estadística para Biología y Ciencias de la Salud”. McGraw-Hill. Interamericana de España, S.A.U
+= Walpole, R. y Myers, R.H. (1992). "Probabilidad y Estadística". McGraw-Hill. Interamericana de México
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Interamericana de España, S.A.U  →  Milton J.S. (2007). “Estadística para Biología y Ciencias de la Salud”. McGraw-Hill. Interamericana de España, S.A.U
+~ Métodos Multimedia" (CD-ROM). Ed. Proyecto Sur. Granada  →  Lara Porras, A.M. y Román Montoya, (2010). "Aprender Estadística analizando datos: Métodos Multimedia" (CD-ROM). Ed. Proyecto Sur. Granada
+
+✅ Recursos añadidos:
+------------------------------
++ Agresti, A. (2002). "Categorical Data Analysis". 2ª Edición. Ed. John Wiley and Sons, Nueva York
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

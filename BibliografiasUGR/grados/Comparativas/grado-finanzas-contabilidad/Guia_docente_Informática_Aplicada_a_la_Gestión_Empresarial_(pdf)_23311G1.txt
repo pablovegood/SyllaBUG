@@ -1,0 +1,35 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Informática_Aplicada_a_la_Gestión_Empresarial_(pdf)_23311G1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Analítica Web para empresas: Arte, ingenio y anticipación. Maribel Morales Martínez. Editorial UOC
+= Beekman, G.: Introducción a la informática. Sexta edición. Pearson Educación, 2005
+= Criptoeconomía. Teodoro García Egea (Primera edición: febrero 2023). LID Editorial Empresarial (2023)
+= DAX para todos: Expresiones de análisis de datos y lenguaje de consulta para modelos tabulares. Vol I. Atehortúa Morales, D., & Tamayo Alfonso, C. (2022)
+= Desnudando a Google: La inquietante realidad que no quieren que conozcas. Alejandro Suárez Sánchez-Ocaña. Editorial Deusto
+= Diseñar cuadros de mando con Excel: utilizando tablas dinámicas. Luis Muñiz. Editorial Profit
+= El ADN de Power Pivot. Caballero, M
+= El ADN de Power query : Power BI Aplicado a Limpieza de Datos Inteligente. Caballero, & Torres Hernández, F. (2020)
+= Finanzas básicas con Excel: versiones 97 a 2010. Soft Group, Teaching. Editorial Ra-Ma, 2011
+= Fundamentos de Modelado en Estrella : enfoque práctico con Power BI #SigueElCaminoDeLaEstrella (Primera edición). Lulu. Jurado, A. (2022)
+= Google Apps: Como aprovechar al máximo las aplicaciones de Google. Rafael Chamorro Marín, Creaciones Copyright 2011
+= Inteligencia de negocios con Excel y Power BI: una guía exhaustiva para la preparación, análisis y visualización de Datos. Atehortúa Morales, D., Caballero Sierra, M., & Torres Hernández, F. (2018). Cámara colombiana del libro
+= Inteligencia de negocios y analítica de datos : una visión global de Business Inteligence & Analitics. Joyanes Aguilar, L. (2019). Marcombo
+= Power Pivot con Excel a su alcance para convertir sus datos en información eficaz. Luis Muñiz. Editorial Profit
+= Prieto Espinosa, A.; Prieto Campos, B.: Conceptos de Informática. McGrawHill, 2005
+= Sistemas de información: herramientas prácticas para la gestión empresarial. Álvaro Gómez Vieites, Carlos Suárez Rey. Editorial Ra-Ma
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
++ Arjonilla Domínguez, S. J.; Medina Garrido, J. A. La gestión de los sistemas de información en la empresa. Teoría y casos prácticos. Editorial Pirámide, 2009
+
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

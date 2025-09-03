@@ -1,0 +1,33 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Creatividad_e_Innovación_Audiovisual_(pdf)_22711A5
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Alberich, Jordi & Roig, Antoni (Coords.) (2005). Comunicación audiovisual digital. Nuevos medios, nuevos usos, nuevas formas. Barcelona: Editorial UOC
+= Casacuberta, David (2003). Creación colectiva. En Internet el creador es el público. Barcelona: Gedisa
+= Csikszentmihalyi, M. (1998). Creatividad: el fluir y la psicología del descubrimiento y la invención. Barcelona: Paidós
+= De Kerckhove, Derrick. (1999) La Piel de la Cultura. Investigando la nueva realidad electrónica. Barcelona: Editorial Gedisa
+= Lamata Cotanda, Rafael (2013). La actitud creativa : ejercicios para trabajar en grupo la creatividad. Madrid : Narcea Ediciones
+= Manovich, Lev. (2001). The Language of New Media. Massachussets Institute of Technology Press
+= Millner, Carol (2014) Digital Storytelling: A Creator's Guide to Interactive Storytelling. 3a ed. Focal Press, Elsevier 2014
+= Stepherson, Neal. (2003) En el principio, fue la linea de comandos. Madrid: Traficantes de Sueños
+= Tubella, I. et al. (2008). Internet y Televisión: la guerra de las pantallas, Barcelona: Ariel
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Lebowitz, J., Klug, Chris (2011) Interactive Storytelling for Video Games, Elsevier Lessig, Lawrence. (2002). The Future of Ideas. The Fate of the Commons in a Connected World, New York: Vintage Books  →  Lessig, Lawrence. (2002). The Future of Ideas. The Fate of the Commons in a Connected World, New York: Vintage Books
+~ Parra Pennefather, Patrick (2023) Creative Prototyping with Generative AI. Augmenting Creative Workflows with Generative AI, APress Stallman, R. (2002). Free Software, Free Society: Selected Essays by Richard M. Stallman, Boston: The GNU Press  →  Stallman, R. (2002). Free Software, Free Society: Selected Essays by Richard M. Stallman, Boston: The GNU Press
+~ Barcelona: Gedisa Crawford, Chris (2013) on Interactive Storytelling, 2nd Edition, New Riders [Traducción castellana: Cultura Visual Digital. Editorial Paidós. Barcelona. 2002.] Jenkings, Henry (2005). Convergence Culture. Massachussets Institute of Technology Press. Cambridge  →  Jenkings, Henry (2005). Convergence Culture. Massachussets Institute of Technology Press. Cambridge
+
+✅ Recursos añadidos:
+------------------------------
++ Crawford, Chris (2013) on Interactive Storytelling, 2nd Edition, New Riders
++ Darley, Andrew. (2000). Digital Visual Culture. Routledge & Paul Kegan. London. [Traducción castellana: Cultura Visual Digital. Editorial Paidós. Barcelona. 2002.]
++ Lebowitz, J., Klug, Chris (2011) Interactive Storytelling for Video Games, Elsevier
++ Parra Pennefather, Patrick (2023) Creative Prototyping with Generative AI. Augmenting Creative Workflows with Generative AI, APress
+
+📊 Porcentaje estimado de cambio: 58% [█████░░░░░]

@@ -1,9 +1,0 @@
-Jonathan Pevsner. Bioinformatics and Functional Genomics, 3rd Edition (2015)
-Xinkun Wang. Next-Generation Sequencing Data Analysis. (2016). CRC Press
-Vince Buffalo. Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools (2015)
-Arthur Lesk. Introduction to Bioinformatics 3rd Edition (2017)
-Tisdall, J. 2001. Beginning Perl for Bioinformatics. O'Reilly
-Lamprecht, Anna-Lena . User-Level Workflow Design (2013). Springer
-Moorhouse and Barry. Bioinformatics, Biocomputing and Perl: An Introduction to Bioinformatics Computing Skills and Practice. 2004. WILEY
-James Tisdall . Mastering Perl for Bioinformatics. Perl Programming for Bioinformatics. 2003. O'Reilly Media
-Jean-Michel Claverie, Cedric Notredame. Bioinformatics For Dummies, 2nd Edition 2006. WILEY

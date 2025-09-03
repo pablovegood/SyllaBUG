@@ -1,9 +1,0 @@
-BIBLIOGRAFÍA BÁSICA:
-Cañada, A. Series de Fourier y Aplicaciones. Ediciones Pirámide, Madrid, 2002.
-Peral, I.: Primer curso de Ecuaciones en derivadas parciales. Addison-Wesley, 1995. La 2ª edición, de 2004, está disponible (libre) enhttp://matematicas.uam.es/~ireneo.peral/libro.pdf
-Evans, L. C.: Partial Differential Equations, AMS, 2002.
-BIBLIOGRAFÍA COMPLEMENTARIA:
-Budak, B.M.; Samarski, A.A. y Tijonov, A.N.: Problemas de la Física Matemática. Volúmenes I y II. Mir, 1984.
-Gilbarg, D. y Trudinger, N.S.: Elliptic Partial Differential Equations of Second Order. Springer-Verlag, Berlin-Heidelberg, 1983.
-Strauss W.A: Partial differential equations an introduction. New York: John Wiley and Sons, 2008.
-Tijonov, A.N. y Samarsky, A.A. Ecuaciones de la Física Matemática. Mir, 1980.

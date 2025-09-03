@@ -1,6 +1,0 @@
-Documentación de Python.
-Andrés Marzal Varó, Isabel Gracia Luengo, Pedro García Sevilla.Introducción a la Programación con Python 3. Publicacions de la Universitat Jaume I, 2014.
-Al Sweigart.Automate the Boring Stuff with Python. Practical Programming for Total Beginners. No Starch Press, 2015.
-Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers.How to Think Like a Computer Scientist. Learning with Python 3(RLE).
-Sandeep Nagar. Introduction to Python for Engineers and Scientists: Open Source Solutions for Numerical Computation. Apress, 2017.
-David Amos, Dan Bader, Joanna Jablonski, Fletcher Heisler. Python Basics: A Practical Introduction to Python 3. Ed. Real Python, 2021

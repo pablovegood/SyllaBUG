@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Métodos_Avanzados_de_Bioestadística_(pdf)_22311D2
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Klein, J.P. y Moeschberger M.L. (2003) Survival Analysis. Techniques for censored and truncated data, Springer
+= Therneau, T. M. (2019). A package for survival analysis in R
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ 3.Moore, D.F. (2016) Applied Survival Analysis using R, Springer 4.Therneau, T. M. y Grambsch , P.M. (2000) Modeling survival data: extending the Cox model. Springer New Cork 2.Kleinbaum, D.G., Klein, M. (2020) Survival Analysis A Self-Learning Text Third Edition, Springer 3.Pepe, M.S. (2003). The statistical evaluation of medical tests for classification and prediction. Oxford University Press  →  Therneau, T. M. y Grambsch , P.M. (2000) Modeling survival data: extending the Cox model. Springer
+
+✅ Recursos añadidos:
+------------------------------
++ Hosmer, D.W., Lemeshow, S., Sturdivant, R.X. (2013). Applied Logistic Regression, Wiley: New Cork
++ Kleinbaum, D.G., Klein, M. (2020) Survival Analysis A Self-Learning Text Third Edition, Springer
++ Liu, X. (2012). Survival Analysis: Models and Applications. Wiley: New York
++ Moore, D.F. (2016) Applied Survival Analysis using R, Springer
++ Pepe, M.S. (2003). The statistical evaluation of medical tests for classification and prediction. Oxford University Press
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

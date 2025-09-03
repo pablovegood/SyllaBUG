@@ -1,6 +1,0 @@
-G. Vasilescu. "Electronic Noise and Interfering Signals: Principles and Applications", Ed, Springer 2005
-J.P. López. “Compatibilidad electromagnética” Marcombo 2006
-H.W. Ott. “Noise Reduction Techniques in Electronic Systems”, Ed. Wiley, 1988
-P. J. Fish. “Electronic Noise and Low Noise Design”, Macmillan, 1993
-T. Williams. "EMC for product designers", Ed. Oxford 2001
-R. Pallás Areny, "Adquisición y Distribución de Señales", Marcombo-Boixareu, 1993

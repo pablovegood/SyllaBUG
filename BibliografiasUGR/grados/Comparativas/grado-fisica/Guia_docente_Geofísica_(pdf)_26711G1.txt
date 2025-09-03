@@ -1,0 +1,44 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Geofísica_(pdf)_26711G1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Bolt, B.A. (1981). “Terremotos”, Editorial Reverte
+= Bufforn, E., Pro, C., Udías, A. (2010). “Problemas resueltos de Geofísica”, Pearson Educación
+= Fowler, C. M. R. (2005). "The Solid Earth” (2nd edition), Cambridge University Press
+= Garland, G. D. (1971). “Introduction to Geophysics: Mantle, Core, and Crust”, W. B. Saunders Company
+= Gubbins, D., Herrero-Bervera, E. (2007). “Encyclopedia of Geomagnetism and Paleomagnetism”, Springer
+= Herring, T. (2009). “Geodesy”, Treatise on Geophysics, vol. 3, Elsevier
+= Hofmann-Wellenhof, B., Moritz, H. (2006). “Physical Geodesy” (2nd edition), Springer
+= Jacobs, J. A. (1991). “Geomagnetism”, Academic Press
+= Jaupart, C., Mareschal, J. C. (2011). “Heat Generation and Transport in the Earth”, Cambridge University Press
+= Kanamori, H. (2009). “Earthquake Seismology”, Treatise on Geophysics, vol. 4, Elsevier
+= Lowrie, W. & Fichtner, A. (2020). “Fundamentals of Geophysics” (3rd edition), Cambridge University Press
+= Lowrie, W. (2011). “A student’s guide to Geophysical equations”, Cambridge University Press
+= Officer, C. B. (1974). “Introduction to Theoretical Geophysics”, Springer-Verlag
+= Shearer, P. M. (2009). “Introduction to Seismology” (2nd edition), Cambridge University Press
+= Turcotte, D. L., Schubert, G. (2002). “Geodynamics” (2nd edition), Cambridge University Press
+= Udías, A., Buforn, E. (2017). “Principles of Seismology” (2nd edition), Cambridge University Press
+= Yeats, R. S., Sieh, K. E., Allen, C. R. (1997). “Geology of earthquakes”, Oxford University Press
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Reynolds, J. M. (2011). “An Introduction to Applied and Environmental Geophysics”, John Romanowicz, B., Dziewonski, A. (2009). “Seismology and structure of the Earth”, Treatise on Geophysics, vol. 1, Elsevier  →  Romanowicz, B., Dziewonski, A. (2009). “Seismology and structure of the Earth”, Treatise on Geophysics, vol. 1, Elsevier
+~ Kearey, P., Brooks, M. & Hill, I. (2002) “An Introduction to Geophysical Exploration” (3rd Kono, M. (2009). “Geomagnetism”, Treatise on Geophysics, vol. 5, Elsevier  →  Kono, M. (2009). “Geomagnetism”, Treatise on Geophysics, vol. 5, Elsevier
+~ Stacey, F. D. & Davis, P. M. (2008). "Physics of the Earth" (4th edition), Cambridge University Press Udías, A., Mezcua, J. (1997). "Fundamentos de Geofísica", Alianza Editorial  →  Stacey, F. D. & Davis, P. M. (2008). "Physics of the Earth" (4th edition), Cambridge University Press
+~ Stein, S., Wysession, M. (2003). “An introduction to Seismology, earthquakes, and Earth Telford, W. M., Geldart, L. P., Sheriff, R. E. (1991). “Applied Geophysics” (2nd edition), Cambridge University Press  →  Telford, W. M., Geldart, L. P., Sheriff, R. E. (1991). “Applied Geophysics” (2nd edition), Cambridge University Press
+
+✅ Recursos añadidos:
+------------------------------
++ Kearey, P., Brooks, M. & Hill, I. (2002) “An Introduction to Geophysical Exploration” (3rd edition), Wiley
++ Milsom, J., Eriksen, A. (2011). “Field Geophysics” (4th edition), John Wiley & Sons
++ Reynolds, J. M. (2011). “An Introduction to Applied and Environmental Geophysics”, John Wiley & Sons
++ Sleep, N. H., Fujita, K. (1997). “Principles of Geophysics”, John Wiley & Sons
++ Stein, S., Wysession, M. (2003). “An introduction to Seismology, earthquakes, and Earth structure”, Wiley-Blackwell
++ Udías, A., Mezcua, J. (1997). "Fundamentos de Geofísica", Alianza Editorial
+
+📊 Porcentaje estimado de cambio: 47% [████░░░░░░]

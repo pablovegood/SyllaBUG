@@ -1,0 +1,28 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Álgebra_Lineal_y_Geometría_(pdf)_2481114
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Jeffrey, Matrix operations for engineers and scientists, An essential guide in linear algebra, Springer, Dordrecht, 2010
+= G. Landi, A. Zampini, Linear Algebra and Analytic Geometry for Physical Sciences, Undergraduate Lecture Notes in Physics, Springer, Cham, 2018
+= J. Angeles, D. Pasini, Fundamentals of Geometry Construction. The Math behind the CAD, Springer Tracts in Mechanical Engineering, Springer, Cham, 2020
+= L. M. Merino, E. Santos, Álgebra Lineal con métodos elementales, Thomson, Madrid, 2006
+= M. I. Berenguer, D. Gámez, Matemática Aplicada. Teoría y Problemas, segunda edición, Editorial Técnica Avicam, Granada, 2023
+= M. I. Berenguer, D. Gámez, Prácticas de Matemática Aplicada con Maxima, segunda edición, Editorial Técnica Avicam, Granada, 2023
+= P. J. Olver, C. Shakiban, Applied Linear Algebra, second edition, Undergraduate Texts in Mathematics, Springer, Cham, 2018
+= R. B. Larson, R. P. Hostetler, B. Edwards, Cálculo y Geometría Analítica. Vol. I y II, octava edición, McGraw-Hill, Madrid, 2005
+= T. S. Shores, Applied Linear Algebra and Matrix Analysis, second edition, Undergraduate Texts in Mathematics, Springer, Cham, 2018
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
++ H. Anton, C. Rorres, A. Kaul, Elementary Linear Algebra, Applications Version, 12th edition, Wiley, 2019
+
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

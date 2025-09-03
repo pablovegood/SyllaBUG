@@ -1,0 +1,39 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Métodos_Cuantitativos_(pdf)_533113A
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Barbolla, R., Cerdá, E., Sanz, P., Optimización. Cuestiones, ejercicios y aplicaciones a la economía. Prentice Hall, 2001
+= Barichard, V., Ehrgott, M., Gandibleux, X. y T'Kindt, V (2009). Multiobjective Programming and Goal Programming: Theoretical Results and Practical Applications. Springer Berlin Heidelberg
+= Bazaraa, M., Jarvis, J., Sherali,H., Programación y Flujo de Redes. Limusa, 1998
+= Doumpos, M. y Zopounidis, C. (2002). Multicriteria decision aid classification methods. Dordrecht : Kluwer Academic, 2002
+= Ehrgott, M. (2005). Multicriteria Optimization. Springer Berlin, Heidelberg
+= En general, se recordará al alumno que todo libro del catálogo de nuestra biblioteca, sobre Optimización, Decisión Multicriterio y Teoría de Juegos es un potencial libro complementario para consulta de diferentes tópicos, ejemplos y ejercicios sobre los contenidos de la asignatura. Dada la amplia colección de los mismos se omite una lista detallada de ellos
+= Friedman, J.W. (1991). Game theory with applications to economics, Oxford University Press
+= Hillier, F., Liberman, G. J., Introducción a la Investigación de Operaciones., Mc GrawHill, 1991
+= Martin Martin, Q. (2003). Investigación Operativa. Pearson, Prentice Hall
+= Martín Martín, Q., Investigación Operativa. Prentice Hall, 2003
+= Romero, C. (1993). Teoría de la decisión multicriterio: conceptos, técnicas y aplicaciones. Alianza Editorial
+= Ríos, S., Ríos-Insúa, MJ, Ríos-Insúa, S. (1989). Procesos de Decisión Multicriterio. EUDEMA
+= Ríos-Insua, S. Investigación Operativa. Programación lineal y aplicaciones. Centro de Estudios Ramón Areces, 1996
+= Ríos-Insua, S., Mateos, A., Bielza, M. C. y Jiménez, A. Investigación Operativa. Modelos determinísticos y estocásticos. Centro de Estudios Ramón Areces, 2004
+= Taha, H. A., Investigación de Operaciones. Prentice Hall, 2004
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Springer Berlin Heidelberg  →  Ehrgott, M. (2005). Multicriteria Optimization. Springer Berlin, Heidelberg
+~ Goberna, M.A., Jornet, V., Puente, R., Optimización lineal. Teoría, métodos y modelos  →  Goberna, M.A., Jornet, V., Puente, R., Optimización lineal. Teoría, métodos y modelos. Addison Wesley, 2004
+~ Aguado Franco, J.C. (2007). Teoría de la decisión y de los juegos. Madrid: Delta, 2007 práctica Pérez Navarro, J., Jimeno Pastor, J.L., Cerdá Tena, E. (2005). Teoría de juegos. Madrid  →  Aguado Franco, J.C. (2007). Teoría de la decisión y de los juegos. Madrid: Delta, 2007
+
+✅ Recursos añadidos:
+------------------------------
++ Barba-Romero, S. (1997).Decisiones multicriterio: fundamentos teóricos y utilización práctica
++ Bierman, H.S. (1993). Game theory with economic applications, Addison Wesley
++ Luenberger, D., Linear and nonlinear programming. Addison Wesley, 2005
++ Pérez Navarro, J., Jimeno Pastor, J.L., Cerdá Tena, E. (2005). Teoría de juegos. Madrid: Pearson Educación
+
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

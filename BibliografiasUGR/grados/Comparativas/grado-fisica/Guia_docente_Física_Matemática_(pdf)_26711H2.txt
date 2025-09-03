@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Física_Matemática_(pdf)_26711H2
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= H. Georgi, "Lie Algebras in Particle Physics: from Isospin to Unified Theories", CRC Press, 1999
+= L. Abellanas y A. Galindo, “Espacios de Hilbert”, Eudema, 1987
+= M. Hamermesh, “Group Theory and its Aplications to Physical Problems”, Dover, 1962
+= N.I. Akhiezer and I.M. Glazman, “Theory of Linear Operators in Hilbert Spaces”, Dover, 1993
+= P. Dirac, “The principles of Quantum Mechanics”, Oxford Univ. Press
+= P. Roman, “Some Modern Mathematics for Physicists and other outsiders”, Vol. II, Pergamon, 1975
+= Pierre Ramond, "Group Theory", CUP, 2010
+= S. Sternberg, “Group Theory and Physics”, Cambridge University Press, 1994
+= T. Pang, “An introduction to Computational Physics”, Cambridge, 1997
+= Wu-Ki Tung, “Group Theory in Physics”, World Scientific, 1985
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
++ M.H. Kalos and P.A. Whitlock, ”Monte Carlo methods”, Wiley, 2008
++ R.Y. Rubinstein and D.P. Kroese, “Simulation and Monte Carlo Method”, Wiley, 2008
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

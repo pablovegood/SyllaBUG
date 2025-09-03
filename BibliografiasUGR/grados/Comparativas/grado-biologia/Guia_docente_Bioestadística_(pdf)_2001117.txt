@@ -1,0 +1,41 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Bioestadística_(pdf)_2001117
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Principles and Applications for Engineering and the Computing Sciences. Ed. McGraw- MONTGOMERY, D. C. (2002). Diseño y Análisis de Experimentos. Segunda Edición. Ed
+
+📚 Recursos sin cambios:
+------------------------------
+= CUADRAS, C.M. (2016). Problemas de Probabilidad y Estadística. EUB, Barcelona
+= CÁNAVOS, G.C. (2003). Probabilidad y Estadística: Aplicaciones y Métodos. Ed. McGraw-Hill Interamericana, México
+= DANIEL, W.W. (1990). Applied Nonparametric Statistics. PWS-Kent Publishing Company, Boston
+= GUTIÉRREZ GONZÁLEZ, E. y VLADMIROVNA PANTELEEVA, O. (2016). Estadística Inferencial 1 para Ingeniería y Ciencias. Grupo Editorial Patricia, S.A. de C.V
+= LARA PORRAS, A.M. (2010). Estadística para Biología y Ciencias Ambientales: Tratamiento Informático mediante SPSS. Ed. Proyecto Sur
+= MARTÍN ANDRÉS, A. y LUNA DEL CASTILLO, J. de D. (2004). Bioestadística para las Ciencias de la Salud. Ed. Capitel. Madrid
+= MILTON, J. S. and ARNOLD, J. (1990). Introduction to Probability and Statistics: Principles and Applications for Engineering and the Computing Sciences. Ed. McGraw-Hill
+= MONTERO, J., PARDO, L., MORALES, D. y QUESADA, V. (1988). Ejercicios y Problemas de Cálculo de Probabilidades. Ed. Díaz de Santos
+= RIUS DÍAZ, F. y BARÓN LÓPEZ, F.J. (2005). Bioestadística. Ed. Thomson. Paraninfo S.L
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ MURRAY, R. SPIEGEL, LARRY J. STEPHENS (2008) Estadística. México, D.F. : McGraw- Hill/Intermaericana, 2008 QUESADA, V., GARCÍA, A. (1985). Curso básico de Cálculo de Probabilidades. Ediciones ICE, Madrid  →  QUESADA, V., GARCÍA, A. (1985). Curso básico de Cálculo de Probabilidades. Ediciones ICE, Madrid
+~ Interamericana de España, S.A.U  →  MILTON J.S. (2007). Estadística para Biología y Ciencias de la Salud. Ed. McGraw-Hill. Interamericana de España, S.A.U
+~ GÓMEZ VILLEGAS, M.A. (2005). Inferencia Estadística. Ediciones Días de Santos GONZÁLEZ MANTEIGA, M.T. (2021). 400 Problemas resueltos de Estadística Multidisciplinar. Ediciones Días de Santos MARTÍNEZ ÁLVAREZ, F. y MARTÍNEZ ÁLVAREZ M.C. (2013). Problemas de Estadística para Ingeniería y Ciencias. Ed. Godel Impresiones Digitales S.L  →  GONZÁLEZ MANTEIGA, M.T. (2021). 400 Problemas resueltos de Estadística Multidisciplinar. Ediciones Días de Santos
+~ MARTÍNEZ-GONZÁLEZ, M.A. et al (2014). Bioestadística Amigable. Ed. Elsevier MILTON J.S. (2007). Estadística para Biología y Ciencias de la Salud. Ed. McGraw-Hill  →  MARTÍNEZ-GONZÁLEZ, M.A. et al (2014). Bioestadística Amigable. Ed. Elsevier
+~ MUÑOR IBÁÑEZ, R. (2017) Estadística básica I. Introducción a la estadística Ed. Univ. de Alicante MUÑOR IBÁÑEZ, R. (2017) II. Probabilidad: variables aleatorias . Ed. Univ. de Alicante RIUS DÍAZ, F. (2014). Bioestadística. Ed. Paraninfo SPIEGEL, M.R. y STEPHENS, L.J. (2009). Estadística. Ed. McGraw-Hill. Interamericana editores, S.A. de C.V  →  MUÑOR IBÁÑEZ, R. (2017) Estadística básica I. Introducción a la estadística Ed. Univ. de Alicante
+~ Tratamiento Informático mediante SPSS. Ed. Proyecto Sur  →  LARA PORRAS, A.M. (2010). Estadística para Biología y Ciencias Ambientales: Tratamiento Informático mediante SPSS. Ed. Proyecto Sur
+
+✅ Recursos añadidos:
+------------------------------
++ AGRESTI, A. (2002). Categorical Data Analysis. 2ª Edición. Ed. John Wiley and Sons, Nueva York
++ GÓMEZ VILLEGAS, M.A. (2005). Inferencia Estadística. Ediciones Días de Santos
++ MARTÍNEZ ÁLVAREZ, F. y MARTÍNEZ ÁLVAREZ M.C. (2013). Problemas de Estadística para Ingeniería y Ciencias. Ed. Godel Impresiones Digitales S.L
++ MONTGOMERY, D. C. (2002). Diseño y Análisis de Experimentos. Segunda Edición. Ed. Limusa Wiley
++ MURRAY, R. SPIEGEL, LARRY J. STEPHENS (2008) Estadística. México, D.F. : McGraw-Hill/Intermaericana, 2008
++ MUÑOR IBÁÑEZ, R. (2017) II. Probabilidad: variables aleatorias . Ed. Univ. de Alicante
++ QUESADA RICO, J.A. (2025). Bioestadística básica y avanzada con R. Ed. Díaz Santos
++ RIUS DÍAZ, F. (2014). Bioestadística. Ed. Paraninfo
++ SPIEGEL, M.R. y STEPHENS, L.J. (2009). Estadística. Ed. McGraw-Hill. Interamericana editores, S.A. de C.V
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

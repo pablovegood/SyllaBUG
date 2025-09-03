@@ -1,0 +1,34 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Uso_de_las_Tecnologías_en_la_Investigación__Socio-Política_(pdf)_21211A1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Antonio Félix Vallejos Izquierdo, Yolanda Agudo Arroyo et al. Investigación social mediante encuestas. Centro de estudios Ramón Areces, 2011
+= Antonio Pardo Merino, Miguel Ángel Ruiz Díaz. Análisis de datos con SPSS 13 Base. Mc Graw Hill, 2013.Bernardo Cascales Salinas. El libro de Latex. Pearson Educación, 2011
+= César Pérez López. Técnicas estadísticas multivariantes con SPSS. Garceta, 2009
+= Francisco Javier Murillo Torrecilla, Cynthia Martínez-Garrido. Análisis de datos cuantitativos con SPSS en investigación socioeducativa. Universidad Autónoma de Madrid, 2012
+= Howard Lune, Enrique S. Pumar, Ross Koppel. Perspectives in social research methods and analysis: a reader for sociology. Sage, 2010
+= Igor Sádaba Millán Arroyo. Metodología de la investigación social: técnicas innovadoras y sus aplicaciones. Síntesis, 2012
+= Jaime Andreu Abela. Investigación aplicada de clásicos de la sociología: viejos y nuevos problemas de investigación social. Fundación Centro de Estudios Andaluces, 2004
+= Luis Camarero. Estadística para la investigación social. Garceta, 2010
+= Luis Navarro, Santiago Travería. Excel 2013, a fondo. Inforbook's, 2014
+= María Pérez Marqués. Excel 2013, en profundidad. RC Libros, 2013
+= Ocón Domingo, José. Sociología y técnicas de investigación social. Proyecto Sur de Ediciones, 2005
+= Rodríguez, C.; Gallardo, M.A.; Pozo, T. y Gutiérrez, J. Iniciación al análisis de datos cuantitativos en educación. Análisis descriptivo básico: teoría y práctica mediante SPSS. Granada: Grupo Editorial Universitario 2006
+= Stefan Kottwitz. LaTeX beginner's guide. Birmingham, UK. 2011
+= Vidal Díaz de Rada. Análisis de datos de encuesta: desarrollo de una investigación completa utilizando SPSS. Universidad Abierta de Cataluña, 2009
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Rodríguez, C.; Gallardo, M.A.; Pozo, T. y Gutiérrez, J. Iniciación al análisis de datos cuantitativos en educación. Análisis descriptivo básico: teoría y práctica mediante SPSS  →  Rodríguez, C.; Gallardo, M.A.; Pozo, T. y Gutiérrez, J. Iniciación al análisis de datos cuantitativos en educación. Análisis descriptivo básico: teoría y práctica mediante SPSS. Granada: Grupo Editorial Universitario 2006
+~ César Pérez López. IBM SPSS estadística aplicada: conceptos y ejercicios resueltos  →  César Pérez López. IBM SPSS estadística aplicada: conceptos y ejercicios resueltos. Ibergaceta, 2013
+
+✅ Recursos añadidos:
+------------------------------
++ Díaz de Rada Igúzquiza, Vidal. Técnicas de Análisis Multivariante para Investigación Social y Comercial: ejemplos prácticos utilizando SPSS versión 11. Ra-Ma, 2002
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

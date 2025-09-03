@@ -1,8 +1,0 @@
-Blokdyk, Geradus. Information retrieval a complete guide: Berlin: 5Starcooks, 2021.
-Büttcher, Stephan. Information retrieval: implementing and evaluating search engines. London: MIT Press, 2016.
-Aggarwal, Charu C. Recommender Systems: The Textbook. Cham :, Springer International Publishing ; Imprint Springer, 2016
-Shapira, Bracha.; Rokach, Lior.; Ricci, Francesco., 2nd ed.; 2nd ed., New York, NY :, Imprint Springer; Springer US , 2015.
-Baeza-Yates, R. & Ribeiro-Neto, B. Modern Information Retrieval: The Concepts and Technology Behind Search. London: Addison Wesley, 2011.
-Chaomei, C. Information Visualization: Beyond the Horizon. London: Springer-Verlag, 2006.
-Voorhees, E.M.; Harman, D.K. TREC: Experiment and Evaluation in Information Retrieval. MIT Press, 2005
-Croft, B.; Metzler, D.; Strohman,T. Search engines : information retrieval in practice. Pearson, 2010

@@ -1,0 +1,31 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Biotecnología_Microbiana_(pdf)_2511138
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= BIOTECHNOLOGY. A texbook of Industrail Microbiology. Second Edition. 1989. W. Crueger and A. Crueger. Sinatter Associated, Inc
+= BIOTECNOLOGIA. MANUAL DE MICROBIOLOGIA INDUSTRIAL. 1993. W. Crueger and A. Crueger. Ed. Acribia. S.A
+= INDUSTRIAL MICROBIOLOGY. AN INTRODUCTION. 2001. M. J. Waites, N. L. Morgan, J. S. Rockey, G. Hington. Blackwell Science, Oxford
+= MICROBIAL BIOTECNOLOGY. FUNDAMENTALS OF APPLIED MICROBIOLOGY. Second Edition, 2007. N. Glazer and H. Nikaido. Cambridge University Press, New York
+= MICROBIAL BIOTECNOLOGY. FUNDAMENTALS OF APPLIED MICROBIOLOGY.1995. N. Glazer and H. Nikaido. W. H. Freeman and Company
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Crueger. Ed. Acribia. S.A  →  BIOTECNOLOGIA. MANUAL DE MICROBIOLOGIA INDUSTRIAL. 1993. W. Crueger and A. Crueger. Ed. Acribia. S.A
+~ Crueger and A. Crueger. Sinatter Associated, Inc  →  BIOTECHNOLOGY. A texbook of Industrail Microbiology. Second Edition. 1989. W. Crueger and A. Crueger. Sinatter Associated, Inc
+~ Rockey, G. Hington. Blackwell Science, Oxford  →  INDUSTRIAL MICROBIOLOGY. AN INTRODUCTION. 2001. M. J. Waites, N. L. Morgan, J. S. Rockey, G. Hington. Blackwell Science, Oxford
+~ MOLECULAR BIOTECHNOLOGY. Principles and applications of recombinant DNA. Third edition, 2003. B. R. Glick, J. J. Pasternak. ASM Press  →  MICROBIAL BIOTECNOLOGY. PRINCIPLES AND APPLICATIONS. 2004. Lee Yuan Kun. World Scientific. New Jersey. MOLECULAR BIOTECHNOLOGY. Principles and applications of recombinant DNA. Third edition, 2003. B. R. Glick, J. J. Pasternak. ASM Press
+~ INTRODUCCION A LA BIOTECNOLOGIA DE LOS HONGOS. 1992. M. Wainwright. Acribia MANUAL OF INDUSTRIAL MICROBIOLOGY AND BIOTECHNOLOGY. 1999. A. L. Demain and J. E. Davies, eds. ASM Press, Washington DC  →  INTRODUCCION A LA BIOTECNOLOGIA DE LOS HONGOS. 1992. M. Wainwright. Acribia S.A
+~ World Scientific. New Jersey  →  MICROBIAL BIOTECNOLOGY. PRINCIPLES AND APPLICATIONS. 2004. Lee Yuan Kun. World Scientific. New Jersey. MOLECULAR BIOTECHNOLOGY. Principles and applications of recombinant DNA. Third edition, 2003. B. R. Glick, J. J. Pasternak. ASM Press
+~ MICROBIAL BIOTECNOLOGY. PRINCIPLES AND APPLICATIONS. 2004. Lee Yuan Kun  →  MICROBIAL BIOTECNOLOGY. PRINCIPLES AND APPLICATIONS. 2004. Lee Yuan Kun. World Scientific. New Jersey. MOLECULAR BIOTECHNOLOGY. Principles and applications of recombinant DNA. Third edition, 2003. B. R. Glick, J. J. Pasternak. ASM Press
+~ Glazer and H. Nikaido. W. H. Freeman and Company  →  MICROBIAL BIOTECNOLOGY. FUNDAMENTALS OF APPLIED MICROBIOLOGY.1995. N. Glazer and H. Nikaido. W. H. Freeman and Company
+
+✅ Recursos añadidos:
+------------------------------
++ MANUAL OF INDUSTRIAL MICROBIOLOGY AND BIOTECHNOLOGY. 1999. A. L. Demain and J. E. Davies, eds. ASM Press, Washington DC
+
+📊 Porcentaje estimado de cambio: 69% [██████░░░░]

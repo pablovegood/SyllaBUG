@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Álgebra_I_(pdf)_2951111
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= J. Gómez Torrecillas, Álgebra I, 2º Ed. Universidad de Granada, 2020. https://digibug.ugr.es/handle/10481/59620
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ N. Jacobson, Basic Algebra I, Freeman 1974 D. S. Dummit and R. M. Foote, Abstract Algebra 2nd ed., Prentice-Hall 1999 R. B. Allenby, Rings, Fields and Groups, Edward Arnold Pub. 1993 J. A. Beachy and N. D. Blair, Abstract algebra segunda edición, Waveland Press, Inc. 1996 S. Lang, Algebra, Aguilar 1971 • A. del Río Mateos y J.J. Simón Pinero, Álgebra Básica, Ed  →  R. B. Allenby, Rings, Fields and Groups, Edward Arnold Pub. 1993
+
+✅ Recursos añadidos:
+------------------------------
++ D. S. Dummit and R. M. Foote, Abstract Algebra 2nd ed., Prentice-Hall 1999
++ J. A. Beachy and N. D. Blair, Abstract algebra segunda edición, Waveland Press, Inc. 1996
++ J. B. Fraileigh, A first course in Abstract Algebra, Addison-Wesley 1967
++ N. Jacobson, Basic Algebra I, Freeman 1974
++ P. M. Cohn, Classic Algebra, Wiley and sons 2000
++ S. Lang, Algebra, Aguilar 1971 • A. del Río Mateos y J.J. Simón Pinero, Álgebra Básica, Ed. Diego Marín 2001
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

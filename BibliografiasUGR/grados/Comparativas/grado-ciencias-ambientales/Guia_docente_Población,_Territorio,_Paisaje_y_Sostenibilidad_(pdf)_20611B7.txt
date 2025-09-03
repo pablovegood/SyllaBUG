@@ -1,0 +1,39 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Población,_Territorio,_Paisaje_y_Sostenibilidad_(pdf)_20611B7
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- SANTOS PRECIADOS, J.M. 2008. Los sistemas de información geográfica vectoriales: el funcionamiento de ArcGis. Madrid: Universidad Nacional de Educación a Distancia. 293 p
+- _2.pd BENAVENT FERNANDEZ DE CÓRDOBA, M. (2022). Manual de Planificación Territorial
+
+📚 Recursos sin cambios:
+------------------------------
+= ARAMBURU MAQUA, M.P. Y ESCRIBANO BOMBÍN, R. 2014.Guía para la elaboración de estudios del medio físico (4ª edición).Ministerio de Medio Ambiente, 2014.https://oa.upm.es/55224/1/Guia_para_la_elaboracion_de_estudios_del_medio_fisico_2.pd
+= BUSQUETS FÀBREGAS, J.; CORTINA RAMOS, A. (coords.) 2009. Gestión del paisaje. Manual de protección, gestión y ordenación del paisaje. Ariel, Madrid
+= FARINÓS, J. Y OLCINA, J. Ordenación del territorio y Medio Ambiente. Tirant Humanidades, Valencia
+= LATOUCHE, S. 2008. La apuesta por el decrecimiento ¿Cómo salir del imaginario dominante?. Icaria Editorial, Barcelona
+= LE BRAS, H. 1997. Los límites del planeta. Mitos de la naturaleza y de la población. Ariel, Barcelona
+= MINISTERIO DE MEDIO AMBIENTE RURAL Y MARINO (2007) Libro Verde del medio ambiente urbano
+= MINISTERIO DE MEDIO AMBIENTE RURAL Y MARINO. MINISTERIO DE FOMENTO (2011). Estrategia Española de sostenibilidad urbana y local
+= ORTEGA PÉREZ, E. 2016. Sistemas de información geográfica: teoría y práctica. Madrid: Dextra. 197 p
+= PEÑA LLOPIS, J. 2006. Sistemas de información geográfica aplicados a la gestión del territorio : entrada, manejo, análisis y salida de datos espaciales : teoría general y práctica para ESRI ArcGIS 9. San Vicente, Alicante: Club Universitario. 310 p
+= PUYOL, R., ESTÉBANEZ, J. Y MÉNDEZ, R. 1992 Geografía humana. Cátedra, Madrid
+= REQUES VELASCO, P. 2001. Población, recursos y medio ambiente: ¿el final de los mitos?. Universidad de Cantabria, Santander
+= ROMERO, J. (coord.) 2008. Geografía Humana: procesos riesgos e incertidumbres en un mundo globalizado. Ariel, Barcelona
+= SANTOS, M. (2008). Manual de geografia urbana (Vol. 9). Edusp
+= SEGRELLES SERRANO, J.A. (dir.) 2002. Geografía Humana: fundamentos, métodos y conceptos. Club Universitario, Vicente de Raspeig, Alicante
+= ZOIDO NARANJO, F. 2013. Diccionario de urbanismo: Geografía Urbana y Ordenación del Territorio. Madrid: Cátedra. 421 p
+= ZÁRATE MARTÍN, M.A. Y RUBIO BENITO, M.T. 2005. Geografía humana: Sociedad, economía y territorio. Centro de Estudios Ramón Areces, Madrid
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Manual de protección, gestión y ordenación del paisaje. Ariel, Madrid  →  BUSQUETS FÀBREGAS, J.; CORTINA RAMOS, A. (coords.) 2009. Gestión del paisaje. Manual de protección, gestión y ordenación del paisaje. Ariel, Madrid
+~ ACERO CABALLERO, G., AGUIRRE SUCH, J., ARÉVALO MARTÍN, J., DÍAZ RODRÍGUEZ, P., ROMERO FERNÁNDEZ DE LARREA, I., HERÁNDEZ MARTÍNEZ, P. (2019). Planificación urbana integral, aprendiendo de Europa. Ed. Colección Herramientas. Diputación de Barcelona  →  ACERO CABALLERO, G., AGUIRRE SUCH, J., ARÉVALO MARTÍN, J., DÍAZ RODRÍGUEZ, P., ROMERO FERNÁNDEZ DE LARREA, I., HERNÁNDEZ MARTÍNEZ, P. 2019. Planificación urbana integral, aprendiendo de Europa. Ed. Colección Herramientas. Diputación de Barcelona
+~ Ordenación del Territorio y Urbanismo  →  BENAVENT FERNANDEZ DE CÓRDOBA, M. (2022). Manual de Planificación Territorial. Ordenación del Territorio y Urbanismo
+~ Universidad de Cantabria, Santander  →  REQUES VELASCO, P. 2001. Población, recursos y medio ambiente: ¿el final de los mitos?. Universidad de Cantabria, Santander
+
+✅ Recursos añadidos:
+------------------------------
++ SÁNCHEZ BARRICARTE, J.J. 2008. El crecimiento de la población mundial. Implicaciones socioeconómicas, ecológicas y éticas. Tirant lo Blanch, Valencia
+
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

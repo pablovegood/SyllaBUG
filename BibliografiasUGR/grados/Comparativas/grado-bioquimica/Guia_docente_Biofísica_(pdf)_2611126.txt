@@ -1,0 +1,29 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Biofísica_(pdf)_2611126
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= BIOFISICA. Vicente Cordoba, Legaz González. Editorial Síntesis. 1992
+= Biofísica: Principios Fundamentales. J. Vázquez. Ed. Eypasa. 1993
+= Física Biológica. P. Nelson. Reverté. 2004
+= Intermolecular and surface forces. 3rd Edition. Israelachvili,, Academic Press, 2011
+= Introducción a la Termodinámica de los procesos Biológicos. D. Jou y J.E. Llebot. Ed. Labor Universitaria. 1989
+= Temas de biofísica. Javier Buceta Fernández y Elka Koroutcheva. Ed. UNED - Universidad Nacional de Educación a Distancia 2006
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Nonequilibrium Thermodynamics in Biophysics. A. Katchalsky y P.F. Curran. Harvard University Press. 1975 Biofísica. M.K. Volkenshtein. Ed. Mir. 1985 F2008181Q Biophysics. R. Glaser. Springer. 2001  →  Biophysics. R. Glaser. Springer. 2001
+~ Introduction to Soft Matter – Revised Edition: Synthetic and Biological Self-Assembling The Physical Basis of Biochemistry; the foundations of Molecular Biophysics. Bergeton  →  The Physical Basis of Biochemistry; the foundations of Molecular Biophysics. Bergeton. Springer. 2000
+
+✅ Recursos añadidos:
+------------------------------
++ Biofísica. M.K. Volkenshtein. Ed. Mir. 1985
++ Biofísica. Procesos de autoorganización en biología. F Montero y F. Morán. Ed. Eudema. 1992
++ Introduction to Soft Matter – Revised Edition: Synthetic and Biological Self-Assembling Materials. Hamley. John Wiley & Sons. 2007
++ Nonequilibrium Thermodynamics in Biophysics. A. Katchalsky y P.F. Curran. Harvard University Press. 1975
+
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

@@ -1,9 +1,0 @@
-A. Lloris, A. Prieto, L. Parrilla. "Sistemas Digitales", McGraw-Hill, 2003
-Steve Kilts, “Advanced FPGA Design: Architecture, Implementation, and Optimization”. John Wiley and Sons, 2007.
-Maya B. Gokhale, Paul S. Graham, “Reconfigurable Computing: Accelerating Computation with Field-Programmable Gate Arrays”. Springer 2005.
-Pierzchala, E., Gulak, G., Chua, L., Rodríguez-Vázquez, A. (Eds.), “Field-Programmable Analog Arrays”. Springer, 1998.
-Alex Doboli,Edward H. Currie, “Introduction to Mixed-Signal, Embedded Design”. Springer 2011.
-Behrooz Parhami,. “Computer Arithmetic: Algorithms and Hardware Designs”. Oxford University Press, 2009.
-Jean-Pierre Deschamps, Gery J. A. Bioul, Gery, Gustavo D. Sutter: “Synthesis of Arithmetic Circuits: FPGA, ASIC and Embedded Systems”. March 2006. John Wiley & Sons.
-Uwe Meyer-Baese, “Digital Signal Processing with Field Programmable Gate Arrays (Signals and Communication Technology)” Third Edition, Springer 2007.
-A. Lloris, E. Castillo, L. Parrilla, A. García, M.J. Lloris, “Aithmetic and Algebraic Circuits”. Springer 2021.

@@ -1,5 +1,0 @@
-P. Oppenheimer: “Top-Down Network Design”. Cisco Press, 2011, 3ª ed. ISBN: 13: 978-1-58720-283-4
-M. Pióro, D. Medhi: “Routing, Flow and Capacity Design in Communication and Computer Networks”. Morgan Kaufmann, 2004. ISBN: 978-0-12-557189-0
-P. Pavón. “Optimization of Computer Networks: Modeling and Algorithms: A Hands-On Approach”, Wiley, 2016. ISBN: 978-1-119-01335-8.
-A. Nucci, K. Papagiannaki: “Design, Measurement and Management of Large-Scale IP Networks”. Cambridge Univ. Press, 2009. ISBN: 978-0-521-88069-5
-Bill Woodward, Andrew Oliviero: “Cabling: The Complete Guide to copper and Fiber-Optic Networking”. O’Reilly. ISBN: 9780470477076

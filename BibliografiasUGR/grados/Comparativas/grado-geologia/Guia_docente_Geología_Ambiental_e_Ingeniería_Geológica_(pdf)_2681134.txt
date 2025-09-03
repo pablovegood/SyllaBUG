@@ -1,0 +1,58 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Geología_Ambiental_e_Ingeniería_Geológica_(pdf)_2681134
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Anguita Virella, F. y Moreno Serrano, F. (1993). Procesos geológicos externos y geología ambiental. Ed. Rueda. Alcorcón (Madrid). FCI/551.3 ANG pro
+= Aswathanarayana, U. (1995). Geoenvironment. An introduction. Ed. Balkema. Rotterdam. FCI/504 ASW geo
+= Ayala, F. y Jordá, J.F. (coord.) (1988). Geología Ambiental. ITGE. Madrid
+= Ayala, F. y Olcina, J. (coord.) (2002). Riesgos naturales. E, 1512 p. Barcelona
+= Blatt, H. (1997). Our Geologic Environment. Ed. Prentice Hall. New Jersey
+= Botkin, D.B. & Keller, E.A. (1995). Environmental Science: earth as a living planet. Ed. Wiley & Sons. New York. FCI/504 BOT env
+= Centeno, J.D., Fraile, M.J., Otero, M.A. y Pividal, A.J. (1994). Geomorfología práctica: ejercicios de fotointerpretación y planificación geoambiental. Ed. Rueda. Madrid. FCI/551.4 GEO geo
+= Conesa, V. (1995). Auditorías medioambientales: guía metodológica. Ed. Mundi-Prensa. Madrid. FCI/504.1 CON aud
+= Craig, J.R., Vaughan, D.J. & Skinner, B.J. (1998). Resources of the Earth. Origin, Use and Environmental Impact. Ed. Prentice Hall. Upper Saddle River. FCI/504.1 CRA res
+= Dunn, I.S., Anderson, L.R. & Kiefer, F.W. (1980). Fundamentals of Geotechnical Analysis. John Wiley & Sons, New York, 414 p. FCI/624DUNfun
+= González de Vallejo, L.I., Ferrer, M., Ortuño, I. y Oteo, C. (2002). Ingeniería Geológica. Ed. Prentice Hall. Madrid
+= Keller, E.A. (2010). Environmental Geology. 9th edition. Ed. Prentice-Hall
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Bell, F.G. (1993). Engineering Geology. Blackwell Science, U:K:, 359 p. ETSIC/624BELeng Bennett, M.R. & Doyle, P. (1997). Environmental Geology. Geology and the Human Berner, E.K. & Berner, R.A. (1996). Global environment: water, air and geochemical cycles. Ed. Prentice-Hall. New Jersey. FCI/55 BEN env  →  Bell, F.G. (1993). Engineering Geology. Blackwell Science, U:K:, 359 p. ETSIC/624BELeng
+~ Prentice Hall. Madrid  →  Keller, E.A. (1999). Introduction to Environmental Geology. Ed. Prentice-Hall. FCI/55 KEL int
+
+✅ Recursos añadidos:
+------------------------------
++ Bennett, M.R. & Doyle, P. (1997). Environmental Geology. Geology and the Human Environment. Ed. John Wiley & Sons. Chichester. FCI/55 BEN env
++ Berner, E.K. & Berner, R.A. (1996). Global environment: water, air and geochemical cycles. Ed. Prentice-Hall. New Jersey. FCI/55 BEN env
++ Coates, D.R. (1981). Environmental Geology. Ed. Wiley. New York
++ Gómez Orea, D. (1999). Evaluación del impacto ambiental. Un instrumento preventivo para la gestión ambiental. Ed. Agrícola Española. Madrid. FCI/504 GOM eva
++ Henry, J. G. & Heinke, G. W. (1989). Environmental science and engineering. Ed. Prentice-Hall. Englewood Cliffs, New Jersey. FCI/504 HEN env
++ Hoek, E. & Bray, J.W. (1990). Rock slope engineering (3rd. Ed.). E & FN Spon, London, 358 p. ETSIC/624HOEroc
++ Instituto Tecnológico y Geominero de España (1987). Manual de Taludes. Instituto Geológico y Minero de España. Serie Geotecnia, Madrid, 456 p. FCI/624MANman
++ Instituto Tecnológico y Geominero de España (1988). Riesgos geológicos. Ed. Servicio de publicaciones del IGME. Serie Geología Ambiental. Madrid
++ Instituto Tecnológico y Geominero de España (1993). El patrimonio geológico. Ed. Servicio de publicaciones del ITGE. Serie Ingeniería Geoambiental. Madrid
++ Instituto Tecnológico y Geominero de España (1996). Manual de restauración de terrenos y evaluación de impactos ambientales en minería. Ed. Servicio de publicaciones del ITGE. Ministerio de Industria y Energía. Madrid
++ Jiménez Salas, J.A. y De Justo Alpañés, J.L. (1975). Geotecnia y Cimientos I: Propiedades de los suelos y de las rocas. Rueda, Madrid, 466 p. FCI/624GEOgeo1
++ Jiménez Salas, J.A., De Justo Alpañés, J.L. y Serrano González, A. (1981). Geotecnia y Cimientos II: Mecánica del suelo y de las rocas. Rueda, Madrid, 1188 p. FCI/624GEOgeo2
++ Johnson, R.B. & De Graff, J.V. (1988). Principles of Engineering Geology. John Wiley & Sons., London, 497 p. FCI/624JOHpri
++ KELLER, E. A. y BLODGETT, R. H. Riesgos naturales (2007). Pearson and Prentice Hall, 421 p. Madrid
++ Kraemer, C., Morilla, I. y Rocci, S. (1992). Explanaciones y drenaje. Ed. Univ. Politécnica de Madrid, Madrid, 285 p. ETSIC/625KRAexp
++ Lambe, T.W. & Whitman, R.V. (1998). Mecánica de Suelos (Segunda Edición). Ed. Limusa, México, 582 p. FCI/624LAMmec(2000)
++ Lundgren, L. (1986). Environmental Geology. Ed. Prentice Hall. New Jersey
++ Martín Vide, J. P. (1997). Ingeniería Fluvial. Edicions UPC, Barcelona
++ McLean, A.C., & Gribble, C.D. (1992). Geology for Civil Engineers (2nd. Ed.). Chapman and Hall, UK, 314 p. FCI/55HACgeo
++ Middleton, G. V. & Wilcock, P. R. (1996). Mechanics in the Earth and Environmental Sciences. Cambridge University Press. Cambridge. FCI/551.2 MID mec
++ Ministerio de Medio Ambiente (1996). Guía para la elaboración de estudios del medio físico. Contenido y metodología. Centro de Publicaciones de la Secretaría General de Medio Ambiente. Madrid. FCI/504 GUI gui
++ Ministerio de Obras Públicas, Transportes y Medio Ambiente (1996). El Patrimonio Geológico. Bases para su valoración, protección, conservación y utilización. Centro de Publicaciones de la Secretaría General Técnica del MOP-T-MA. Madrid. FCI/55 PAT pat
++ Montgomery, C.W. & Dathe, D. (1994). Earth: then and now. Dubuque, Iowa, Ed. Wm. C. Brown. FCI/55 MON ear
++ Montgomery, C.W. (1989). Environmental Geology. Ed. Wm. C. Brown. Dubuque
++ Rahn, P.H. (1986). Engineering Geology. An environmental approach. Elsevier, New York, 589 p. ETSIC/624RAHeng
++ Smith, G.N. & Smith, I.G.N. (1998). Elements of Soil Mechanics (Seventh Ed.). Blackwell Science, U.K., 494 p
++ Vink, A.P.A. (1983). Landscape Ecology and land use. Ed. Loyman. London
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

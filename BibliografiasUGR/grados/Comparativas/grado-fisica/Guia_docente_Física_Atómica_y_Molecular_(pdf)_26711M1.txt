@@ -1,0 +1,23 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Física_Atómica_y_Molecular_(pdf)_26711M1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= B.H. Bransden and C.J. Joachain. Physics of Atoms and Molecules. Segunda edición. Longmann, 2003
+= E.U. Condon and H. Odabasi, Atomic Structure. Cambridge University Press, 1980
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Introduction to experiments and theory. Springer, 2004. P. F. Benath, Spectra of atoms and molecules. Oxford University Press, 1995. H. Friedrich, Theoretical Atomic Physics, Springer-Verlag, 2006. M. Weissbluth, Atoms and Molecules, Academic Press, 1978  →  H. Friedrich, Theoretical Atomic Physics, Springer-Verlag, 2006
+
+✅ Recursos añadidos:
+------------------------------
++ H. Haken, H.C. Wolf & W.D. Brewer. Molecular Physics and Elements of Quantum Chemistry: Introduction to experiments and theory. Springer, 2004
++ M. Weissbluth, Atoms and Molecules, Academic Press, 1978
++ P. F. Benath, Spectra of atoms and molecules. Oxford University Press, 1995
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

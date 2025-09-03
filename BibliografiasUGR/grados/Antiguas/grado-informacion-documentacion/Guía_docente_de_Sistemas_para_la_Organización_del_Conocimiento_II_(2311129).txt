@@ -1,8 +1,0 @@
-Martínez Tamayo, A. M. & Mendes, P. V. (2015). Diseño y desarrollo de tesauros. Universidad Nacional de La Plata. Facultad de Humanidades y Ciencias de la Educación.
-Noy, N. F. & McGuinnes, D. L. (2005). Desarrollo de Ontologías 101: Guía para crear tu primera Ontología.http://ocw.uc3m.es/ingenieria-informatica/sistemas-avanzados-de-recuperacion-de-informacion/ejercicios/ontology101-es.pdf/view
-Sánchez, J. A. P., & Méndez, F. J. M. (2010). Manual de SKOS (simple knowledge organization system, sistema para la organización del conocimiento simple). Anales de Documentación (Vol. 13, pp. 285-320).
-Allemang, D., & Hendler, J. (2011). Semantic web for the working ontologist effective modeling in RDFS and OWL (2nd ed.). Elsevier.
-Berners-Lee, T. (2006). Linked Data Design Issues.https://www.w3.org/DesignIssues/LinkedData.html.
-Codina, L.(2009). Web semántica y sistemas de información documental. Trea.
-Morales del Castillo, J.M. (2011). Hacia la biblioteca digital semántica. Trea.
-W3C (2005). SKOS Core Vocabulary Specification: W3C Working Draft. Alistair Miles and Dan Brickley (eds.).https://www.w3.org/TR/swbp-skos-core-spec/

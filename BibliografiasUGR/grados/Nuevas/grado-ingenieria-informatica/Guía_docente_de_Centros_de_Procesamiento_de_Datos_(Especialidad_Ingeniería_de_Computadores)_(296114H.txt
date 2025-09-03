@@ -1,9 +1,0 @@
-Data center handbook. Geng, Hwaiyu, editor. Hoboken, New Jersey : John Wiley & Sons Inc., 2015 (disponible en línea)
-The art of data center. Douglas Alger. Prentice Hall, 2013.
-Data Center virtualization fundamentals.Gustavo Alessandro Andrade Santana. Cisco Press 2014.
-Cloud networking : understanding cloud-based data center networks., Waltham, Massachusetts : Morgan Kaufmann, 2014
-Making your Data Center Energy EfficientG. HELD, 1st edition. CRC Press, 2017.
-Foundation of Green IT: Consolidation, Virtualization, Efficiency, and ROI in the Data Center. Marty Poniatowski. Prentice Hall PTR.2009
-The Green and Virtual Data Center. G. Schulz. Boca Raton: CRC Press, 2009.
-V. Benincosa,Kubernetes in the Data Center,1st edition. Cisco Press, 2019.
-L. Alves and A. Vladishev,Zabbix performance tuning : tune and optimize Zabbix to maximize performance, 1st edition. Birmingham, England ;: Packt Publishing, 2015.

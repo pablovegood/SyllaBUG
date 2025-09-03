@@ -1,8 +1,0 @@
-Chris Bowick,RF Circuit Desing, Newnes 1997
-H. L. Krauss et al.,SolidStateRadio Engineering, Wiley, 1980.
-P. H. Young,Electronic Communication Techniques, Prentice Hall, 1994.
-D. Pederson, K. Mayaram,Analog Integrated Circuits for Communication: Principles, Simulation and Design, Kluwer Academic Publishers, 1991. BIBLIOGRAFÍA COMPLEMENTARIA:
-S. C. Cripps,RF Power Amplifiers for Wireless Communications, Adtech Book Co., 1999.
-F. Losee,RF Systems, Components and Circuits Handbook, Adtech Book Co., 1997.
-M. W. Medley, Jr. And M. W. Medley,Microwave and RF circuits: Análisis, Síntesis and Design, Artech House, 1993.
-A. B. Carlson et al.,Communication Systems: an Introduction to Signal and Noise in Electrical Communications, McGraw-Hill, 2002

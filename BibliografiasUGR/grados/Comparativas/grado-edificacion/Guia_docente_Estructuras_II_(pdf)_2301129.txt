@@ -1,0 +1,32 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Estructuras_II_(pdf)_2301129
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- F2008181Q habrán proporcionado durante las clases presenciales
+
+📚 Recursos sin cambios:
+------------------------------
+= Código técnico de la edificación. CTE SE-A. Acero
+= ESTRUCTURA METALICA HOY. Argüelles. Librería Téc. Bellisco, Madrid
+= Eurocódigo 3: proyecto de estructuras de acero. Parte 1-1: reglas generales y reglas para edificación
+= Instrucción de Acero Estructural EAE 2010
+= MECÁNICA DE MATERIALES. Gere-Timoshenko. 2ª Ed. Grupo Editorial Iberoamericana
+= PROBLEMAS DE ESTRUCTURAS METÁLICAS ADAPTADOS AL CÓDIGO TÉCNICO. José Monfort Lleonard
+= RESISTENCIA DE MATERIALES. Ortiz Berrocal. ETSII de Madrid
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Código Estructural (2021) RESISTENCIA DE MATERIALES, TEORÍA DE ESTRUCTURAS E INTRODUCCIÓN A LA ELASTICIDAD. Granados, J.J. Editorial Copicentro RESISTENCIA DE MATERIALES Y ESTRUCTURAS. J.Miguel Canet. Ediciones Cimne 2012 PROBLEMAS DE ESTRUCTURAS METÁLICAS. Adaptado a nueva EAE y al Eurocódigo EC3  →  RESISTENCIA DE MATERIALES, TEORÍA DE ESTRUCTURAS E INTRODUCCIÓN A LA ELASTICIDAD. Granados, J.J. Editorial Copicentro
+~ MECÁNICA DE MATERIALES. Ferdinand P. Beer, E. Russell Johnston, John T. Dewolf. 5ª Ed. Mc Graw-Hill PROBLEMAS DE ESTRUCTURAS ARQUITECTÓNICAS I-II F. Lazo Liñan y F. García Rodríguez. 2007  →  PROBLEMAS DE ESTRUCTURAS ARQUITECTÓNICAS I-II F. Lazo Liñan y F. García Rodríguez. 2007
+
+✅ Recursos añadidos:
+------------------------------
++ Código Estructural (2021)
++ Código técnico de la edificación. CTE AE. Acciones en la edificación
++ MECÁNICA DE MATERIALES. Ferdinand P. Beer, E. Russell Johnston, John T. Dewolf. 5ª Ed. Mc Graw-Hill
++ Normativa
++ PROBLEMAS DE ESTRUCTURAS METÁLICAS. Adaptado a nueva EAE y al Eurocódigo EC3 . Justo Carretero y Jose Luis Benito. Ed. Vision Libros
++ RESISTENCIA DE MATERIALES Y ESTRUCTURAS. J.Miguel Canet. Ediciones Cimne 2012
+
+📊 Porcentaje estimado de cambio: 90% [█████████░]

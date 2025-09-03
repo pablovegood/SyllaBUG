@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Cristalografía_(pdf)_2681113
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= BLOSS,F.D.(1994) - Crystallography and Cristal Chemistry - Mineralogical Society of America. Washington, D.C
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ BORCHARDT-OTT, W. (2011) - Crystallography - Springer-Verlag. Berlin KLEIN, C. & HULBURT, C.S. (2002) - Manual de Mineralogía de Dana (4ª ed.) - Reverté S.A. Barcelona PUTNIS, A. (1992) - Introduction to Mineral Sciences - Cambridge University Press AMOROS, J.L. (1990) - El Cristal - Atlas. Madrid PHILLIPS, F.C. (1978) - Introducción a la Cristalografía (2ª Ed.) - Paraninfo. Madrid RODRIGUEZ GALLEGO, M. 1982 - La Difracción de los Rayos X - Alhambra. Madrid WHITTAKER, E.J.W. (1981) - Crystallography - Pergamon Press. Oxford  →  KLEIN, C. & HULBURT, C.S. (2002) - Manual de Mineralogía de Dana (4ª ed.) - Reverté S.A. Barcelona
+
+✅ Recursos añadidos:
+------------------------------
++ AMOROS, J.L. (1990) - El Cristal - Atlas. Madrid
++ BORCHARDT-OTT, W. (2011) - Crystallography - Springer-Verlag. Berlin
++ PHILLIPS, F.C. (1978) - Introducción a la Cristalografía (2ª Ed.) - Paraninfo. Madrid
++ PUTNIS, A. (1992) - Introduction to Mineral Sciences - Cambridge University Press
++ RODRIGUEZ GALLEGO, M. 1982 - La Difracción de los Rayos X - Alhambra. Madrid
++ WHITTAKER, E.J.W. (1981) - Crystallography - Pergamon Press. Oxford
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

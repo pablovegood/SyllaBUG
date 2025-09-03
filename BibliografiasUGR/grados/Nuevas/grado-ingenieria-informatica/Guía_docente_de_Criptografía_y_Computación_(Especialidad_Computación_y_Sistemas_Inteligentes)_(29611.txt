@@ -1,5 +1,0 @@
-J. von zur Gathen & J. Gerhard. Modern Computer Algebra. Cambridge University Press, 2003.
-N. P. Smart. Cryptography Made Simple. Information Security and Cryptography. Springer International Publishing, 2016.
-O. Geddes, S. R. Czapor & G. Labahn, Algorithms for Computer Algebra, Springer, 1992.
-H. Delfs & H. Knebl. Introduction to Cryptography. Information Security and Cryptography. Springer-Verlag Berlin Heidelberg, 2015.
-J. von zur Gathen. CryptoSchool. Springer-Verlag Berlin Heidelberg, 2015.

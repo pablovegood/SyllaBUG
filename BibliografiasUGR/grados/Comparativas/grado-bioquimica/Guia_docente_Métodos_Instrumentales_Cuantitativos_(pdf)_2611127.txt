@@ -1,0 +1,32 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Métodos_Instrumentales_Cuantitativos_(pdf)_2611127
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Masson, 1995. informes sobre cuestiones planteadas durante el desarrollo del programa de la CE18
+
+📚 Recursos sin cambios:
+------------------------------
+= Analytical Biochemistry. 2nd edition. Holme DJ, Peck H. Ed. Longman Scientific & Technical, 1993
+= Bioquímica. Técnicas y métodos. Roca P, Oliver J, Rodríguez AM. Ed. Hélice, Madrid 2003
+= Electrophoresis. The basics. Hawcroft DM. Ed. IRL Press (Oxford University), 1997
+= Espectroscopía ultravioleta-visible de compuestos biológicos. Pineda M, Cárdenas J. Publicaciones CAJASUR, Córdoba, 1988
+= Fundamentos y técnicas de Análisis Bioquímico. Principios de análisis instrumental. MC D´Ocón Navaza y col. Ed. Paraninfo, 1999
+= Modern Experimental Biochemistry. 2ª ed. Boyer Rodney F. Ed. The Benjamin/Cummings Publishing Company, 1993
+= Principles and Techniques of Practical Biochemistry. Wilson K, Walker J (editores). Cambridge University Press, Edimburgo, UK, 2000
+= Técnicas de Bioquímica y Biología Molecular. Freifelder D. Ed. Reverté SA, 1991
+= Técnicas instrumentales de análisis en Bioquímica. García-Segura JM y col. Ed. Síntesis, Madrid 1999
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Ed. Norma, Madrid, 1999  →  Bioestadística para las Ciencias de la Salud. 4ª ed. Martín Andrés A, Luna del Castillo JD. Ed. Norma, Madrid, 1999
+~ Espectroscopía ultravioleta-visible de compuestos biológicos. Pineda M, Cárdenas J  →  Espectroscopía ultravioleta-visible de compuestos biológicos. Pineda M, Cárdenas J. Publicaciones CAJASUR, Córdoba, 1988
+~ Principles and Techniques of Practical Biochemistry. Wilson K, Walker J (editores)  →  Principles and Techniques of Practical Biochemistry. Wilson K, Walker J (editores). Cambridge University Press, Edimburgo, UK, 2000
+~ Bioestadística para las Ciencias de la Salud. 4ª ed. Martín Andrés A, Luna del Castillo JD  →  Bioestadística para las Ciencias de la Salud. 4ª ed. Martín Andrés A, Luna del Castillo JD. Ed. Norma, Madrid, 1999
+~ Chomatographie en Phase Liquide. Exercices et Problèmes. Rosset R, Kolodziejczyk H. Ed  →  Chomatographie en Phase Liquide. Exercices et Problèmes. Rosset R, Kolodziejczyk H. Ed. Masson, 1995
+
+✅ Recursos añadidos:
+------------------------------
++ Basic Biochemical Methods. Alexander RR, Griffiths M. Ed. Wiley-Liss, 1993
+
+📊 Porcentaje estimado de cambio: 46% [████░░░░░░]

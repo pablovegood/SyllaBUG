@@ -1,9 +1,0 @@
-AVR Programming: Learning to Write Software for Hardware. Elliot Williams. Maker Media, Inc., 2014. (Disponible en biblioteca UGR)
-Exploring Arduino: tools and techniques for engineering wizardry. Jeremy Blum. John Wiley & Sons, 2019. (Disponible en biblioteca UGR)
-El Microcontrolador ATMega328P de Microchip: Programación en Ensamblador, Lenguaje C y un enlace con Arduino. Felipe Santiago Espinosa. Universidad Tecnológica de la Mixteca, 2021. (Disponible en línea en el repositorio de la Universidad Tecnológica de la Mixteca)
-Arduino. Curso práctico de formación. Óscar Torrente Artero. RC libros, 2013. (Disponible en biblioteca UGR)
-Sensores y actuadores. Aplicaciones con Arduino. Leonel G. Corona Ramírez, Griselda S. Abarca Jiménez, Jesús Mares Carreño. Grupo Editorial Patria, 2014. (Disponible en biblioteca UGR)
-Proyectos Arduino con Tinkercad: Diseño y programación de proyectos electrónicos basados en Arduino con Tinkercad. M. Eng. Johannes Wild. 2022.
-Arduino Projects Vol-I: With Proteus Simulation Files. Don't just read it, Try it... Manoj Thakur. 2016
-Arduino cookbook. Michael Margolis, Brian Jepson, Nicholas Robert. O'Reilly, 2020 (Disponible en biblioteca UGR)
-Microbótica. José María Angulo Usategui, Susana Romero Yesa, Ignacio Angulo Martínez. Paraninfo, 1999. (Disponible en biblioteca UGR)

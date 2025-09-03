@@ -1,0 +1,37 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Microbiología_(pdf)_2511127
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Ed. Pearson. Madrid
+- Microorganismos, 14ª Ed. Pearson. Madrid. http://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&li bro=5850 edition. Pearson, Harlow, UK
+
+📚 Recursos sin cambios:
+------------------------------
+= Moselio Schaechter (ed.) . (2009). Encyclopedia of Microbiology. Elsevier Ltd. San Diego. CA
+= Tortora, G.J., Funkey, B.R. y C.L. Case. (2017). Introducción a la Microbiología. 12 ed. Médica Panamericana, Madrid, España
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Médica Panamericana, Madrid, España  →  Tortora, G.J., Funkey, B.R. y C.L. Case. (2017). Introducción a la Microbiología. 12 ed. Médica Panamericana, Madrid, España
+
+✅ Recursos añadidos:
+------------------------------
++ FEMS Microbiology Reviews
++ Hogg, S. (2013). Essential Microbiology, 2ª ed. Wiley, Chichester, UK
++ International Microbiology
++ Libros
++ Madigan, Aiyer, Buckle, Sattley, Sahl. 2021. Brock Biology of Microorganisms, Global Edition
++ Madigan, Bender, Buckley, Sattley, Stahl (2019). Brock Biology of microorganisms. 15th edition. Pearson, Harlow, UK
++ Madigan, Martinko, Bender, Buckley, (2015). Brock. Biología de los Microorganismos, 14ª Ed. Pearson. Madrid
++ Madigan, Martinko,Bender, Buckley, Stahl. (2015). Brock. Biología de los Microorganismos, 14ª Ed. Pearson. Madrid.http://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=5850
++ Martín, Béjar, Gutiérrez, Llagostera, Quesada. 2019. Microbiología Esencial. Editorial Panamerica. Madrid
++ Microbiology and Molecular Biology Reviews
++ Nature
++ Nature Reviews Microbiology
++ Revistas
++ Science
++ Trends in Microbiology
++ Willey, Sandman, Wood (2020). Prescott's Microbiology, 11ª ed. Mcgraw Hill
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

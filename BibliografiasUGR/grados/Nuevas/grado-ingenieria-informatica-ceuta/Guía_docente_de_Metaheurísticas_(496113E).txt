@@ -1,7 +1,0 @@
-E. Alba (ed.), “Parallel Metaheuristics”, John Wiley & Sons, 2005.
-P.M. Pardalos, M.G.C. Resende, “Handbook of Applied Optimization”, Oxford University Press, 2002.
-M. Dorigo, T. Stützle, “Ant Colony Optimization”. The MIT Press, 2004.
-A.E. Eiben, J.E. Smith, “Introduction to Evolutionary Computing”. Springer, Second edition, 2015.
-K-L Du, M.N.S. Swarry, Search and Optimization by Metaheuristics. Springer, 2016.
-B. Chopard, M. Tomassini, An Introduction to Metaheuristics for Optimization. Springer, 2018.
-El-Ghazali Talbi, “Metaheuristics: From Design to Implementation”, Wiley, 2009.

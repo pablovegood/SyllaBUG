@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Procesos_Estocásticos_(pdf)_2231136
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Cox, D. R. y Miller, H. D. (1970). The Theory of Stochastic Processes. Methuen. London
+= Kijima, M. (1997) Markov Processes for Stochastic Modeling. Chapman and Hall
+= Kulkarni, V. G. (1995) Modeling and Analysis of Stochastic Systems. Chapman and Hall
+= Kulkarni, V. G. (1999) Modeling, Analysis, Design, and Control of Stochastic Systems. Springer-Verlag New York, Inc
+= Pérez Ocón, R. (2000). Procesos de Markov. Introducción a los procesos estocásticos. Universidad de Granada
+= Taylor, H. M. and Karlin, S. (1994) An Introduction to Stochastic Modeling. Academic Press
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Springer-Verlag New York, Inc  →  Kulkarni, V. G. (1999) Modeling, Analysis, Design, and Control of Stochastic Systems. Springer-Verlag New York, Inc
+~ Gámiz Pérez, M.L. (2000). Introducción a los procesos estocásticos. Cadenas de Markov y procesos de renovación. Universidad de Granada Parzen, E. (1972) Procesos Estocásticos. Paraninfo. Madrid  →  Gámiz Pérez, M.L. (2000). Introducción a los procesos estocásticos. Cadenas de Markov y procesos de renovación. Universidad de Granada
+
+✅ Recursos añadidos:
+------------------------------
++ Dobrow, R. P. (2016). Introduction to Stochastic Processes with R. Wiley
++ Ochi, M. K. (1990) Applied Probability and Stochastic Processes. John Wiley & Sons, Inc
++ Parzen, E. (1972) Procesos Estocásticos. Paraninfo. Madrid
++ Ross, S. M. (1983) Stochastic Processes. John Wiley & Sons, Inc
++ Tijms, H. C. (2003) A First Course in Stochastic Models. John Wiley and Sons, Chichester
+
+📊 Porcentaje estimado de cambio: 87% [████████░░]

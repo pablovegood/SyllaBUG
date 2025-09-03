@@ -1,0 +1,28 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Fundamentos_de_Ingeniería_de_los_Alimentos_(pdf)_2111116
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- F2008181Q Marcombo, Barcelona
+
+📚 Recursos sin cambios:
+------------------------------
+= Calleja Pardo, G. (1999) Introducción a la Ingeniería Química. Editorial Síntesis, Madrid
+= Casp Vanaclocha, A. (2004) Diseño de industrias agroalimentarias. Mundi-Prensa, Madrid
+= Costa López, J. (1998) Curso de ingeniería química. Reverté, México
+= Hermida Bun, J. R. (2000) Fundamentos de ingeniería de procesos agroalimentarios. Mundi-Prensa, Madrid
+= Himmelblau. D. M. (1997) Principios básicos y cálculos en ingeniería química. Pearson, Londres
+= Ibarz Ribas, A. (2005) Operaciones unitarias en la ingeniería de alimentos. Mundi-Prensa, Madrid
+= Valiente Barderas, A. (2006) Problemas de balance de materia y energía en la industria alimentaria. Limusa, México
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Gris, M. (2019) Power Point: versions 2019 y Office 365. ENI, Cornellà de Llobregat (Barcelona) Huerta Cerezuela, A y Rodríguez-Ferrán, A. (2009) Métodos numéricos: introducción, aplicaciones y programación. Ediciones UPC, Barcelona  →  Gris, M. (2019) Power Point: versions 2019 y Office 365. ENI, Cornellà de Llobregat (Barcelona)
+~ Mundi-Prensa, Madrid  →  Hermida Bun, J. R. (2000) Fundamentos de ingeniería de procesos agroalimentarios. Mundi-Prensa, Madrid
+
+✅ Recursos añadidos:
+------------------------------
++ Huerta Cerezuela, A y Rodríguez-Ferrán, A. (2009) Métodos numéricos: introducción, aplicaciones y programación. Ediciones UPC, Barcelona
++ Llena Hurtado, S. (2020) Aprender Excel 365/2019 con 100 ejercicios prácticos. Marcombo, Barcelona
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

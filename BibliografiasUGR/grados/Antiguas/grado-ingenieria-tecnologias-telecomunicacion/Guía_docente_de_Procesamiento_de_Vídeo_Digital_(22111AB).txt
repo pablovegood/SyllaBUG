@@ -1,6 +1,0 @@
-R. Szieliski, Computer Vision: Algorithms and Applications, Springer, 2nd ed. 2022
-Y. Wang, J. Ostermann,Y.Zhang, Video Processing and Communications. Prentice Hall. 2002
-M. Tekalp, Digital Video Processing. Prentice Hall, 1995
-O. Marques, Practical Image and Video Processing Using MATLAB, Willey, 2011
-A. Bovik, Handbook of Image and Video Processing, Elsevier, 2005
-R. Gonzalez, R. Woods, Digital Image Processing. Prentice Hall, 2002

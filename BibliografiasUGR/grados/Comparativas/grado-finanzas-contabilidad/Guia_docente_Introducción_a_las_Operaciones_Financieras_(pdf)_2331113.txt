@@ -1,0 +1,37 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Introducción_a_las_Operaciones_Financieras_(pdf)_2331113
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= ALEGRE ESCOLANO, P. y otros. (1989): Ejercicios resueltos de matemática de las operaciones financieras. Ediciones AC
+= ALEGRE ESCOLANO, P. y otros. (1997): Curso interactivo de matemática financiera. Editorial McGrawHill
+= BONILLA, M.; IVARS, A.; MOYA, I. (2006): Matemática de las Operaciones Financieras: teoría y práctica. Editorial Thomson
+= CAPINSKI, M; ZASTAWNIAK, T. (2003). Mathematics for finance: An introduction to financial engineering (1st ed. 2003). Springer London
+= DE PABLO, A. (1994): Unidades didácticas de matemáticas de las operaciones financieras. UNED
+= GARCÍA BOZA, J. (2002): Problemas resueltos de matemática de las operaciones financieras, Ed. Pirámide, Madrid
+= GARCÍA BOZA, JUAN (2011). Matemáticas Financieras. Editorial: Pirámide
+= GIL PELAEZ, L. (1987): Matemática de las Operaciones Financieras. Editorial AC
+= GIL PELAEZ, L. (1987): Matemática de las Operaciones Financieras: problemas resueltos. Editorial AC
+= GONZÁLEZ CATALÁ, V. (1992): Análisis de las Operaciones Financieras, Bancarias y Bursátiles. Ciencias Sociales, Madrid
+= MENEU, V.M.; JORDÁ, M.P.; BARREIRA, M.T. (1994): Operaciones Financieras en el Mercado Español. Editorial Ariel Economía
+= PETTERS, A.O.; DONG, X. (2016). An introduction to Mathematical Finance with Applications: Understanding and Building Financial Intuitition. (1st ed. 2016). Springer New York
+= POLLARD, A.H. (1977). An Introduction to the Mathematics of Finance (sedond edition). Pergamon Press
+= RODRIGUEZ RODRÍGUEZ, A. (1984): Matemática de la financiación. Romagraf. S.A
+= TOVAR JIMENÉZ, JOSÉ (2ªedición): Operaciones Financieras (Teoría y Problemas Resueltos). Editorial CEF
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Editorial McGrawHill  →  ALEGRE ESCOLANO, P. y otros. (1997): Curso interactivo de matemática financiera. Editorial McGrawHill
+~ FRÍAS ACEITUNO, J.V. (2024): Apuntes de clase: Introducción a las operaciones financieras. Técnica Avicam  →  FRÍAS ACEITUNO, J.V. (2025). Introducción Operaciones Financieras. Editorial: Técnica Avicam
+~ GONZÁLEZ CATALÁ, V. (1999): Operaciones Financieras, Bancarias y Bursátiles. Curso LOVELOCK, D.; MENDEL, M.; WRIGHT, A.L. (2007). An introduction of the Mathematics of money. Saving and Investing (1st ed. 2000). Springer New York  →  LOVELOCK, D.; MENDEL, M.; WRIGHT, A.L. (2007). An introduction of the Mathematics of money. Saving and Investing (1st ed. 2000). Springer New York
+
+✅ Recursos añadidos:
+------------------------------
++ FRÍAS ACEITUNO, J.V. (2025). Introduction Financial Operations. Editorial: Técnica Avicam
++ GONZÁLEZ CATALÁ, V. (1999): Operaciones Financieras, Bancarias y Bursátiles. Curso práctico. Ciencias Sociales, Madrid
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

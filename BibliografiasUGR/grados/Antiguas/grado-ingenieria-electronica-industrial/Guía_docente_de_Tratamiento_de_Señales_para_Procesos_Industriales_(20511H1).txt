@@ -1,8 +1,0 @@
-J.S. Lim, A.V. Oppenheim (Eds.): "Advanced Topics in Signal Processing". Prentice-Hall 1988.
-G. Zelniker, F.J. Taylor: "Advanced Digital Signal Processing". Marcel Dekker, 1993.
-R.A. Haddad, T.W. Parsons: "Digital Signal Processing: Theory, Applications and Hardware". Computer Science Press, 1991.
-B. Widrow, S. Stearns: "Adaptive Signal Processing". Prentice-Hall, 1985.
-A.V. Oppenheim, R.W. Schafer: "Digital Signal Processing". Prentice Hall, 1975.
-PEEBLES, PEYTON Z.: Probability, Random Variables and Random Signal Principles. Cuarta Edición. Mc Graw-Hill. 2001.
-KAY, S.M.: Fundamentals of Statistical Signal Processing: Estimation Theory v.1 Prentice-Hall 1993.
-KAY, S.M.: Fundamentals of Statistical Signal Processing: Detection Theory v.2 Prentice-Hall 1998.

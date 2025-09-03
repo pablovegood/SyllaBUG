@@ -1,0 +1,34 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Petrogénesis_(pdf)_26811H2
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= BEST, M.G. (2002) 2ª ed. Igneous and Metamorphic Petrology. Blackwell, 756 págs
+= PARTE I: PETROGÉNESIS METAMÓRFICA
+= PHILPOTTS, A.R. y AGUE, J.J. (2009) Principles of Igneous and Metamorphic Petrology (2ª ed.).Cambridge Univ. Press, 667 págs
+= Roger Powell (1978). Equilibrium Thermodynamics in Petrology. Harper & Row.https://hpxeosandthermocalc.org/downloads/#textbook
+= SPEAR, F.S. et al., (1982) Characterization of metamorphism through the mineral equilibria.. Cap. 3 y 4. Reviews in Mineralogy nº 10 (J.M. Ferry ed.) (1982)
+= Using Equilibrium Thermodynamics to Understand Metamorphism and Metamorphic Rocks. Elements, Elements (2010) 6 (5): 309–314. (https://doi.org/10.2113/gselements.6.5.309)
+= WINTER, J.D. (2009) 2ª ed., Principles of Igneous and Metamorphic Petrology, International Edition. Pearson Prentice Hall, 702 págs
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ PARTE II: PETROGÉNESIS ÍGNEA HESS, P.C. (1988). Origins of Igneous Rocks. Harvard University Press, 335 págs  →  PARTE II: PETROGÉNESIS ÍGNEA
+~ Mineralogical Society of America. Monograph, 799 pp. (1993) PARTE II: PETROGÉNESIS ÍGNEA WILSON M. (1989). Igneous Petrogenesis: A Global Tectonic Approach. Unwin Hyman, 466 págs  →  PARTE II: PETROGÉNESIS ÍGNEA
+~ MCBIRNEY A.R. (1984). Igneous Petrology. Freeman, Cooper & Co., S.Francisco, 505 págs. (2ª ed.) EHLERS, E.C. (1972). The Interpretation of Geological Phase Diagrams. W.H. Freeman & Co., 280 págs ROLLINSON, H. R. (1993) Using Geochemical Data: evaluation, presentation, interpretation. Longman. 352 págs  →  ROLLINSON, H. R. (1993) Using Geochemical Data: evaluation, presentation, interpretation. Longman. 352 págs
+
+✅ Recursos añadidos:
+------------------------------
++ COMÚN
++ EHLERS, E.C. (1972). The Interpretation of Geological Phase Diagrams. W.H. Freeman & Co., 280 págs
++ GILL, R. (2010) Igneous Rocks and Processes: a Practical Handbook. Wiley, 440 págs
++ HESS, P.C. (1988). Origins of Igneous Rocks. Harvard University Press, 335 págs
++ MCBIRNEY A.R. (1984). Igneous Petrology. Freeman, Cooper & Co., S.Francisco, 505 págs. (2ª ed.)
++ SPEAR, F.S. Metamorphic Phase Equilibria and Pressure-Temperature-Time paths. Mineralogical Society of America. Monograph, 799 pp. (1993)
++ WILSON M. (1989). Igneous Petrogenesis: A Global Tectonic Approach. Unwin Hyman, 466 págs
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

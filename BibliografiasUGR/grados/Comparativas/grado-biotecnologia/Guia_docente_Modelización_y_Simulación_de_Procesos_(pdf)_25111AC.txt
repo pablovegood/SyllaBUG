@@ -1,0 +1,25 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Modelización_y_Simulación_de_Procesos_(pdf)_25111AC
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Intelligen, Inc, SuperPro Designer®. User Guide Intelligen, Inc Disponible en web Gil Chaves, I.D. y col., Process Analysis and Simulation in Chemical Engineering, Springer, 2016, Biblioteca Ciencias (Doc. Electrónico) Verma, Ashok K., Process modeling and simulation in chemical, biochemical, and environmental engineering, CRC Press, 2015, Biblioteca Ciencias (FCI/66 KUM pro) Bailie, R.C., Analysis, Synthesis, and Design of Chemical Processes, Pearson, 2018, Biblioteca Ciencias (Doc. Electrónico). Ver capítulo 13 (Synthesis of a Process Using a Simulator and Simulator Troubleshooting) 1972, Despacho del Profesor Doran, P.M., Principios de Ingeniería de los Bioprocesos, Acribia, 1998, Biblioteca Ciencias (FCI/66 DOR pri) (FCI/D 55 132)  →  Doran, P.M., Principios de Ingeniería de los Bioprocesos, Acribia, 1998, Biblioteca Ciencias (FCI/66 DOR pri)
+
+✅ Recursos añadidos:
+------------------------------
++ Bailie, R.C., Analysis, Synthesis, and Design of Chemical Processes, Pearson, 2018, Biblioteca Ciencias (Doc. Electrónico). Ver capítulo 13 (Synthesis of a Process Using a Simulator and Simulator Troubleshooting)
++ Dunn, I.J. y col., Biological Reaction Engineering, Wiley-VCH, 2003, Biblioteca Ciencias (FCI/D 55 132)
++ Franks, R.G.E., Modeling and Simulation in Chemical Engineering, Wiley-Interscience, 1972, Despacho del Profesor
++ Gil Chaves, I.D. y col., Process Analysis and Simulation in Chemical Engineering, Springer, 2016, Biblioteca Ciencias (Doc. Electrónico)
++ Intelligen, Inc, SuperPro Designer®. User Guide Intelligen, IncDisponible en web
++ Verma, Ashok K., Process modeling and simulation in chemical, biochemical, and environmental engineering, CRC Press, 2015, Biblioteca Ciencias (FCI/66 KUM pro)
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

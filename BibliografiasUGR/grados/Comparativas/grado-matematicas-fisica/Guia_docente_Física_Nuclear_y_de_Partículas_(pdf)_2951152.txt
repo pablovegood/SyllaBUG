@@ -1,0 +1,29 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Física_Nuclear_y_de_Partículas_(pdf)_2951152
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Ferrer Soria y E. Ros Martínez,. `Física de Partículas y Astropartículas''. Publi. de la Universidad de Valencia; ISBN: 84-370-6180-6
+= A. Rubbia, “Phenomenology of Particle Physics”. Cambridge University Press; ISBN: 9781316519349
+= Antonio Ferrer Soria, Maria Shaw Martos, Amalia Williart Torres, "Física Nuclear", UNED, 2002
+= D.H. Perkins, ``Introduction to High Energy Physics''. Cambridge University Press; ISBN: 0-521-62196-8
+= K. Heyde,"From Nucleons to the Atomic Nucleus", Springer, 1998
+= K.N. Mukhin, "Experimental Nuclear Physics", Mir Publishers 1987
+= R.C. Fernow, ``Introduction to Experimental Particle Physics''. Cambridge University Press; ISBN: 0-521-37940-7
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Press, 2000 F2008181Q S.S.M. Wong,"Introductory Nuclear Physics", Prentice Hall, 1990  →  S.S.M. Wong,"Introductory Nuclear Physics", Prentice Hall, 1990
+~ P. E. Hodgson, E. Gadioli y Egadioli Erba, "Introductory Nuclear Physics", Oxford Univ  →  P. E. Hodgson, E. Gadioli y Egadioli Erba, "Introductory Nuclear Physics", Oxford Univ. Press, 2000
+
+✅ Recursos añadidos:
+------------------------------
++ D. Griffiths, ``Introduction to Elementary Particles''. John Wiley & Sons; ISBN: 0-471-60386-4
++ F. Halzen A.D. Martin, ``Quarks & Leptons''. John Wiley & Sons; ISBN: 0-471-88741-2
++ K.S. Krane, “Introductory Nuclear Physics”, Wiley, 1987
+
+📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

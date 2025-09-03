@@ -1,0 +1,27 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Fundamentos_de_Astrofísica_(pdf)_26711B1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Battaner, E.: “Introducción a la Astrofísica”. Ciencia y Tecnología, Alianza Editorial
+= Lara, L.: “Introducción a la Física del Cosmos”. Editorial Universidad de Granada
+= Shu, F.H.: “The Physical Universe: An Introduction to Astronomy”. University Science Books
+= Zeilik, M.: “Astronomy. The Evolving Universe”. Cambridge University Press
+= Ünsold, A., Baschek, B: “The New Cosmos”. Springer-Verlag
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
++ Battaner, E., Florido, E.: “100 Problemas de Astrofísica”, Alianza Editorial
++ Carroll, B.W., Ostlie, D.A.: “An introduction to Modern Astrophysics”. Addison-Wesley Publising Company
++ Karttunen, H., Kroger, P., Oja, H., Poutanen, M., Donner, K.J.: “Fundamental Astronomy". Springer-Verlag
++ Seeds, M.A.: “Foundations of Astronomy”. Wadsworth Publishing Company
+
+📊 Porcentaje estimado de cambio: 80% [████████░░]

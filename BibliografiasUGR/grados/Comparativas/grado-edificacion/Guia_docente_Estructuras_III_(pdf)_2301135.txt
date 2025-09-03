@@ -1,0 +1,24 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Estructuras_III_(pdf)_2301135
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Calavera. Intemac, Madrid. (2 Tomos). habrán proporcionado durante las clases presenciales
+
+📚 Recursos sin cambios:
+------------------------------
+= CÁLCULO DE ESTRUCTURAS DE BARRAS. Gallego, R y Rus, G. (2003). Granada
+= PROYECTO Y CALCULO DE ESTRUCTURAS DE HORMIGÓN ARMADO PARA EDIFICIOS. Calavera. Intemac, Madrid. (2 Tomos)
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ CÓDIGO ESTRUCTURAL 2011 EUROCODIGO 2. Diseño de Estructuras de Hormigón  →  EUROCODIGO 2. Diseño de Estructuras de Hormigón
+
+✅ Recursos añadidos:
+------------------------------
++ CÓDIGO ESTRUCTURAL 2011
++ HORMIGÓN ARMADO 15ªEd. Meseguer y Morán. Ed. G. Gili, Madrid
++ Libros
++ Normativa
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

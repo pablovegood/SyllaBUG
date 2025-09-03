@@ -1,0 +1,34 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Mecánica_Analítica_y_de_los_Medios_Continuos_(pdf)_26711E1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= A. Molina Cuevas, Mecánica Teórica: Fundamentos de Mecánica Analítica y de los Medios Continuos, 2ª edición, Ed. Técnica Avicam, 2022 (*)
+= E.T. Whittaker, A treatise on the Analytical Dynamics of Particles and Rigid Bodies, Ed. Cambridge University Press, 1993
+= H. Goldstein, Mecánica Clásica, Ed. Reverté, 1994
+= I.S. Sokolnikoff, Análisis tensorial, Index-Prial, 1971
+= I.S. Sokolnikoff, Mathematical Theory of Elasticity, McGraw Hill, 1956
+= J. Martínez-Salas, Mecánica Analítica, Ed. Paraninfo, 1986
+= L.I. Sedov, A course in Continuum Mechanics, Ed. Walter/Noordhoff, 1971
+= L.N. Hand, J.D. Finch, Analytical Mechanics, Ed. Cambridge University Press, 1998
+= T.J. Chung, Continuum Mechanics, Rd. Prentice-Hall Inc., 1988
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ E.T. Whittaker, A treatise on the Analytical Dynamics of Particles and Rigid Bodies, Ed  →  E.T. Whittaker, A treatise on the Analytical Dynamics of Particles and Rigid Bodies, Ed. Cambridge University Press, 1993
+~ H. Heinbockel, Introduction to Tensor Calculus and Continuum Mechanics, Department of Mathematics and Statistics, Old Dominion University, 1996 (*) del curso E.A. Desloge, Classical Mechanics, Ed. Krieger Publishing Company, 1989  →  E.A. Desloge, Classical Mechanics, Ed. Krieger Publishing Company, 1989
+~ A. Moncho Jordá, 111 Problemas de Mecánica Analítica, Ed. Técnica Avicam, 2023 (*) F.R. Gantmájer, Mecánica Analítica, Ed. URSS, 1996  →  A. Moncho Jordá, 111 Problemas de Mecánica Analítica, Ed. Técnica Avicam, 2023 (*)
+
+✅ Recursos añadidos:
+------------------------------
++ E. Levy, Elementos de Mecánica del Medio Continuo, Ed. Limusa-Wiley, 1971
++ F.R. Gantmájer, Mecánica Analítica, Ed. URSS, 1996
++ H. Heinbockel, Introduction to Tensor Calculus and Continuum Mechanics, Department of Mathematics and Statistics, Old Dominion University, 1996 (*)
++ Los dos primeros libros, marcados con asterisco, se ajustan especialmente al contenido del curso
++ S.C. Hunter, Mechanics of Continuous Media, Ed. Ellis Horwood/John Wiley, 1983
+
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

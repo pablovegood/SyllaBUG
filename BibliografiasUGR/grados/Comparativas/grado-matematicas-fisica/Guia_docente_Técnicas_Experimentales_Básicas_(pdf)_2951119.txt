@@ -1,0 +1,43 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Técnicas_Experimentales_Básicas_(pdf)_2951119
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- Giamberardino, V. “Teoría de los errores”, Reverté, Caracas, Venezuela, 1986
+- Sánchez del Rio, C. “Análisis de Errores”, Eudema Universidad, 1989
+
+📚 Recursos sin cambios:
+------------------------------
+= Análisis Dimensional
+= Baird, D.C. ”Experimentation: An Introduction to Measurement Theory and Experiment Design”, Prentice Hall, Englewood Cliff, New Jersey, 1962
+= Barenblaat, G. I. “Scaling”, Cambridge, Cambridge University Press. 2003
+= Bevington, P.R., Robinson, D.K. “Data reduction and error analysis for the physical sciences”, McGraw-Hill, 2003
+= Bunge, M. ”La Investigación Científica”, Ariel, Barcelona, 1983
+= Calot, G.” Curso de estadística descriptiva”, Paraninfo, 1988
+= Feibleman, J. K. “Scientific Method”, Martinus Nijhoff, The Hague, 1972
+= General-Instrumentación
+= González Fernández, C. “Datos experimentales: Medida y error. Guía práctica”, Bellisco, Ediciones Técnicas y Científicas, 2015
+= Gorgas García J., Cardiel López, N., Zamorano Calvo, J. “Estadística Básica para Estudiantes de Ciencias”, Departamento de Astrofísica y Ciencias de la Atmósfera. Facultad de Ciencias Físicas Universidad Complutense de Madrid, 2009
+= Greenberg, L.H. ”Discoveries in Physics for Scientifics and Engineers”, W.B. Saunders Company, Philadelphia, 1975
+= Isaacson, E. St. Q. “Dimensional Methods in Engineering and Physics”, Arnold, London, 1975
+= Kirkup, L. “Experimental Method. An Introduction to the Analysis and Presentation of Data”, Wiley, Australia, 1994
+= Palacios, J., “Análisis Dimensional”, Espasa-Calpe, Madrid, 1964
+= Penny, R.K. ”The Experimental Methods”, Logman, London, 1974
+= Squires, G. L. “Física Práctica”, Mc Graw-Hill, 1972 (es la traducción en español de la primera edición)
+= Squires, G.L. ”Practical Physics”, Cambridge University Press (Cuarta Edición on line 2012)
+= Taylor J.R. “Introducción al análisis de errores”, Editorial Reverté, 2014
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Hernández Bastida, A. “ Curso elemental de estadística descriptiva”, Ediciones Pirámide, 2008, Sheldon R. “A first course in probability”, Pearson International Edition, 2006  →  Hernández Bastida, A. “ Curso elemental de estadística descriptiva”, Ediciones Pirámide, 2008
+~ Gorgas García J., Cardiel López, N., Zamorano Calvo, J. “Estadística Básica para Estudiantes de Ciencias”, Departamento de Astrofísica y Ciencias de la Atmósfera  →  Gorgas García J., Cardiel López, N., Zamorano Calvo, J. “Estadística Básica para Estudiantes de Ciencias”, Departamento de Astrofísica y Ciencias de la Atmósfera. Facultad de Ciencias Físicas Universidad Complutense de Madrid, 2009
+
+✅ Recursos añadidos:
+------------------------------
++ Box G, E.P., Hunter, W., Hunter, J. "Statistics for Experimenters", New York: John Wiley & Sons, 2006
++ Errores y estadística
++ Massimiliano Bonamente "Statistics and Analysis of Scientific Data", Graduate Texts in Physics , Springer, 2022
++ Para aspectos teóricos relacionados con los fundamentos de las prácticas se pueden consultar los libros de física general (para más información consulte las guías docentes de las asignaturas Física General I y Física Genera II del grado en Física)
++ Sheldon R. “A first course in probability”, Pearson International Edition, 2006
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

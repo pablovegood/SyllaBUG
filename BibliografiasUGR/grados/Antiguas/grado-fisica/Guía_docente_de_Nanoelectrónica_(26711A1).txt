@@ -1,7 +1,0 @@
-BIBLIOGRAFÍA FUNDAMENTAL:
-Marc Baldo. “Introduction to Nanoelectronics”, https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-701-introduction-to-nanoelectronics-spring-2010/readings/MIT6_701S10_textbook.pdf
-Electronics from the Bottom Up: A New Approach to Nanoelectronic Devices and Materialshttp://nanohub.org/topics/ElectronicsFromTheBottomUp
-Debdeep Jena. "Quantum Physics of Semiconductor Materials and Devices"; Oxford University Press (Mayo 2022) ISBN: 9780198856856
-BIBLIOGRAFÍA COMPLEMENTARIA:
-Supriyo Datta. “Quantum Transport: Atom to Transistor”, Cambridge University Press, 2005.
-Supriyo Datta. “Electronic Transport in Mesoscopic Systems”, Cambridge University Press, 1995.

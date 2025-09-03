@@ -1,0 +1,42 @@
+🆚 Comparativa de bibliografía para: Guia_docente_TIC_en_Cuidados_de_Salud_y_Metodología_de_la_Investigación_(pdf)_4071114
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Argimón Pallás JM, Jiménez Villa J. Métodos de investigación clínica y epidemiológica. 4ª ed. Madrid. Elsevier, 2019 (electrónico)
+= Burns N, Grove KS. Investigación en enfermería. 5ª ed. Barcelona. Elsevier, 2012
+= Castro, Ana Belén. El aeiou de la investigación en enfermería. Salamanca Editorial Fuden, 2018
+= FX Santos Heredero, CA Rodríguez Arias, R Rodríguez Ballesteros. Metodología Básica de Investigación en Enfermería. Editorial: Díaz do Santos, 2004
+= Fletcher WS, Fletcher WH. Clinical Epidemiology. The essentials. Lippincott Williams & Wilkins, USA, 2005
+= Fundamentos de metodología de la investigación / Roberto Hernández Sampieri, Carlos Fernández Collado, Pilar Baptista Lucio ; revisoras técnicas Isabel García Espejo, Susana Limón Cano. Madrid : McGraw-Hill, 2010
+= Hernández Sampieri. R. Fundamentos de Metodología de la Investigación. Editorial McGraw-Hill, 2007
+= Investigación en enfermería : desarrollo de la práctica enfermera basada en la evidencia / Susan K. Grove, Jennnifer R. Gray. 7ª ed. Madrid : Elsevier, 2019. Disponible en línea: ClinicalKey
+= Jorge Vasconcelos Santillán. Introducción a la computación / Ciudad de México: Grupo Editorial Patria, 2018
+= Juan Diego Pérez Villa. Introducción a la Informática, Anaya Multimedia, 2022
+= K. Gerrish. Investigación en Enfermería. Editorial: McGraw Hill, 2008
+= Milton Carlos Guevara Valtier, Velia Margarita Cárdenas Villarreal, Perla Lizeth Hernández Cortés. Protocolos de investigación en enfermería /México D.F. : Editorial El Manual Moderno, 2017
+= Polit & Hungler. Investigación científica en ciencias de la salud. Editorial McGraw-Hill, 2000
+= Pons O., Acid S., Introducción a los Sistemas de Bases de Datos. Paraninfo, 2008
+= Prados, M., Peña, M.C. Sistemas de Información Hospitalarios. Organización y Gestión de Proyectos. EASP, Granada, 2004
+= SEIS., De la Historia Clínica a la Historia de Salud Electrónica. Informes SEIS. Sociedad Española de Informática de la Salud, 2003
+= SEIS., El Sistema integrado de Información Clínica. Informes SEIS. Sociedad Española de Informática de la Salud. Pamplona, 2005
+= SEIS., La Gestión de Proyectos de Tecnologías de la Información y de la Comunicación en los Servicios de Salud. Informes SEIS. Sociedad Española de Informática de la Salud, 2002
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Manuel Jiménez Navarro. Investigación para la salud. Buenos Aires ; Madrid  →  Manuel Jiménez Navarro. Investigación para la salud. Buenos Aires ; Madrid : Panamericana, 2021
+~ O. Pons, N. Marin, J.M. Medina, S. Acid, M.A. Vila Introducción a las Bases de Datos: El modelo Relacional [1ª edición] Thomson Paraninfo, 2005. ISBN 84-9732-396-3 Prados, M., Peña, M.C. Tecnologías de la Información en la Gestión del Conocimiento en el ámbito hospitalario. EASP, Granada, 2004  →  Prados, M., Peña, M.C. Tecnologías de la Información en la Gestión del Conocimiento en el ámbito hospitalario. EASP, Granada, 2004
+~ [5ª edición] McGraw-Hill, 2006. ISBN 8448146441 AM García. Metodología de la investigación en ciencias de la salud: escritura y publicación de artículos científicos. Editorial. Gráficas Signo, 2006  →  AM García. Metodología de la investigación en ciencias de la salud: escritura y publicación de artículos científicos. Editorial. Gráficas Signo, 2006
+~ Abraham Silberschatz, Henry F. Korth & S. Sudarshan. Fundamentos de Bases de Datos  →  Abraham Silberschatz, Henry F. Korth & S. Sudarshan. Fundamentos de Bases de Datos. [5ª edición] McGraw-Hill, 2006. ISBN 8448146441
+
+✅ Recursos añadidos:
+------------------------------
++ John Paul Mueller, Luca Massron. Artificial Intelligence for Dummies, Wiley, Tercera edicion, 2024
++ O. Pons, N. Marin, J.M. Medina, S. Acid, M.A. Vila Introducción a las Bases de Datos: El modelo Relacional [1ª edición] Thomson Paraninfo, 2005. ISBN 84-9732-396-3
++ Roberto Hernández-Sampieri, Christian Paulina Mendoza Torres. Metodología de la investigación : las rutas cuantitativa, cualitativa y mixta / Ciudad de México : McGraw-Hill Interamericana, 2018.https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=8072
+
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

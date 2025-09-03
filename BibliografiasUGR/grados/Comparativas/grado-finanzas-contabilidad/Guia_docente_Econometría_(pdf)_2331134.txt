@@ -1,0 +1,45 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Econometría_(pdf)_2331134
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= ALONSO, A.; FERNÁNDEZ, J. y GALLASTEGUI, I. (2005).- Econometría. Ed. Prentice Hall
+= AZNAR, A.; GARCÍA, A. y MARTÍN, A. (1994).- Ejercicios de Econometría I. Ed. Pirámide
+= CARIDAD, J.M. (1998). Econometría: Modelos Econométricos uniecuacionales. Ed. Reverté S.A
+= FERNÁNDEZ, A.I. y otros (1995).- Ejercicios de Econometría. Ed. McGraw Hill
+= FERNÁNDEZ-SÁNCHEZ, P.; SALMERÓN-GÓMEZ, R Y BLANCO, V. (2016). Prácticas de Econometría con Excel, Gretl y RStudio. Ed. Fleming
+= GARCÍA, R.M.; HERRERIAS, J.M. y PALACIOS, F. (2017). Econometría. Ejercicios resueltos. Ediciones Pirámide
+= GONZÁLEZ, S. (Coordinadora) (2007). Ejercicios resueltos de Econometría. El modelo de regresión múltiple. Delta Publicaciones
+= GREENE , W (1999).- Análisis Econométrico. Ed. Prentice Hall
+= GUISAN, M.C. (1997).- Econometría. Ed. McGraw Hill
+= GUJARATI, D. (2010).- Econometría.- Ed. McGraw Hill
+= HERNÁNDEZ, J. (1989).- Ejercicios de Econometría. Ed. ESIC
+= JOHNSTON, J. y DINARDO, J (2001).- Métodos de Econometría.- Ed Vicens-Vives
+= JOHNSTON, J.(1987).- Econometría. Ed. McGraw Hill
+= MADDALA, G.S. (2001).- Econometría. Ed. McGraw Hill
+= MARTÍN, G. LABEAGA, J.M. y MOCHÓN, F. (1997).- Introducción a la Econometría. Prentice Hall
+= NOVALES, A. (2000).- Econometría. 2ª Edic. McGraw Hill
+= PALACIOS, F. GARCÍA, R.M. y HERRERIAS, J.M. (2011).- Ejercicios de Econometría 1. Ediciones Pirámide
+= PENA, J,B y otros (1999).- Cien Ejercicios de Econometría. Ed. Pirámide
+= PINDYCK, R.S. y RUBINFELD, D.L. (2001).- Econometría, modelos y pronósticos. Ed. McGraw Hill
+= PULIDO, A. y PÉREZ, J. (2001).- Modelos Econométricos.- Ed Pirámide
+= PÉREZ, T.; AMOROS, P. y RELLOSO, S. (1993).- Ejercicios de Econometría Empresarial. Ed. McGraw Hill
+= SCHMIDT, S.J. (2005).- Econometría. Ed. McGraw Hill
+= STEWART, M.B. y WALLIS, K.F. (1984).- Introducción a la Econometría. Alianza Universidad
+= STOCK, J.H. y WATSON, M.M. (2012) Introducción a la Econometría, 3ª ed. Pearson
+= SÁNCHEZ, C. (1999) Métodos Econométricos. Ariel Economía. Barcelona
+= WOOLDRIDGE, J.M. (2010).- Introducción a la Econometría. Un enfoque moderno. 2ª Edic. Thomson
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
++ URIEL, E.,CONTRERAS, D.,MOLTÓ, M.L. y PEIRÓ, A. (1997) Econometría. El modelo lineal. Editorial AC
+
+📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]

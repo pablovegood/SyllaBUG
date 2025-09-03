@@ -1,8 +1,0 @@
-I. Zahonero, L. Joyanes Aguilar. Programación en C, C++, JAVA y UML. MacGraw-Hill. 2015.
-T. Budd. An Introduction to Object-Oriented Programming. Addison-Wesley. 2002.
-D. Pilone, N. Pitman. UML 2.0 in a Nutshell. O'Reilly Media. 2005.
-J. Rumbaugh, I. Jacobson, G. Booch. The Unified Modeling Language Reference Manual. Addison-Wesley. 2004.
-F. Durán, F. Gutiérrez, E. Pimentel. Programación orientada a objetos con Java. Thomson. 2007.
-D. Thomas, C. Fowler, A. Hunt. Programming Ruby (Vol. 13). Pragmatic Bookshelf. 2004.
-G. Booch, R. Maksimchuk, M. Engle, B. Young, J. Conallen, K. Houston. Object-oriented analysis and design with applications, 3ª ed. Addison-Wesley Professional (ACM Online Book Program). 2007.
-C. Larman. Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development, 3ª ed. Prentice Hall. 2005.

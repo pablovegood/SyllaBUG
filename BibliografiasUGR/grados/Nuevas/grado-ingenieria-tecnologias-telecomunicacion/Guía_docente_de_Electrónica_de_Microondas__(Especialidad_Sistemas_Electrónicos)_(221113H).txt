@@ -1,7 +1,0 @@
-D. Pozar, Microwave Engineering, 4thed., Wiley, 2011. (Líneas de transmisión, parámetros S, adaptación, amplificadores)
-G. González, Microwave Transistor Amplifiers: Analysis and Design, 2/E, Prentice Hall, 1997. (Amplificadores)
-R. E. Collin, Foundations of Microwave Engineering, 2nd ed., Wiley, 2000. (Amplificadores, parámetros S, guías)
-P. A. Rizzi, Microwave Engineering: Passive Circuits, Prentice Hall, 1988. (Adaptación, parámetros S)
-M. W. Medley, Jr. And M. W. Medley, Microwave and RF circuits: Análisis, Síntesis and Design, Artech House, 1993.
-D. Pozar, Microwave and RF Wireless Systems, Wiley, 2000.
-I. Bahl, P. Bhartia, Microwave solid-state circuit design, 2nd ed., Wiley, 2003.

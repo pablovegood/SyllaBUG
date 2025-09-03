@@ -1,0 +1,54 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Biofísica_(pdf)_26711G2
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- 3. ORDENACIÓN EN EL TIEMPO: PROCESOS IRREVERSIBLES ALEJADOS DEL EQUILIBRIO
+- 5. CAOS EN SISTEMAS BIOLÓGICOS. Introducción. Atractores. Atractores extraños o caóticos
+- 7. ANÁLISIS BIOFÍSICO DEL TRANSPORTE A TRAVÉS DE MEMBRANAS: TRANSPORTE PASIVO. Ecuación de Nernst-Planck. Teoría del campo constante. Ecuación GHK en sistemas complejos. Teoría de la carga fija. Transmisión del potencial de acción. Análisis del transporte 8. TRANSPORTE FACILITADO. CANALES IÓNICOS. TRANSPORTADORES. Introducción
+- Análisis de la estabilidad en el modelo de Lotka-Volterra. Ordenación en el tiempo: relojes biológicos. Estabilidad estructural y bifurcaciones. Modelo de Brusselator. Clasificación de los 4.ORDENACIÓN EN EL ESPACIO: SISTEMAS CON DIFUSIÓN. Autoorganización espacio- temporal. Ecuaciones de reacción-difusión. Soluciones de estas ecuaciones. Ejemplos. Problemas
+- BIOFÍSICA CELULAR. Fenómenos de transporte y de membrana 6. BIOFÍSICA DEL POTENCIAL DE MEMBRANA. Introducción. Primera aproximación al potencial de membrana: potencial de Nernst. Potenciales de Gibbs-Donnan. Potenciales superficiales
+- BIOFÍSICA DE LOS SISTEMAS BIOLÓGICOS COMPLEJOS. Comportamiento de sistemas biológicos. Teoría no lineal 2. INTRODUCCIÓN A LA TERMODINÁMICA DE LOS PROCESOS IRREVERSIBLES. Generalización del Segundo Principio de la Termodinámica para sistemas abiertos. Función de disipación
+- Características del transporte facilitado mediante transportadores y canales iónicos. Modelo de transporte de oxígeno mediante hemoglobina basado en la Termodinámica de los procesos 9. TRANSPORTE ACTIVO: EFECTO DE REACCIONES QUÍMICAS SOBRE LOS PROCESOS DE TRANSPORTE. Reacciones químicas y gradientes de concentración en estado estacionario
+- Definición y propiedades del caos. Ubicuidad: caos en sistemas biológicos. Universalidad: Rutas hacia el caos. Estructura fractal. Fractales. Propiedades de los fractales: Dimensión fractal
+- Descripción fenomenológica del transporte activo. La bomba sodio-potasio. Fosforilación Prácticas de Laboratorio
+- F2008181Q Trayectorias: soluciones de los sistemas de ecuaciones diferenciales. Tipos de estabilidad
+- Procesos cinéticos considerados como ecuaciones diferenciales. Soluciones estacionarias. Modelo de Lotka-Volterra. Estabilidad de las soluciones estacionarias: Método de las perturbaciones
+- Práctica 1. Determinación del coeficiente de difusión de sales comunes en los sistemas biológicos
+- Práctica 2. Determinación del potencial de Nernst para el ión K+ y su aplicación en el estudio de Biomembranas
+- Práctica 3. Determinación de los números de transporte de los iones Cl- y Na+ : implicaciones en los fenómenos de transporte en biomembranas
+- Práctica 4. Estudio de un fenómeno de auto-organización: Dinámica de la reacción de Belousov- Zhabotinsky. Determinación del periodo de oscilación y análisis del comportamiento disipativo no-lineal
+- Práctica 5. Estudio de un fenómeno de auto-organización: Dinámica de la reacción Briggs- Rauscher. Determinación del periodo de oscilación y análisis del comportamiento disipativo no- lineal
+- Relaciones lineales entre flujos y fuerzas termodinámicos conjugados. Intervalo de validez de la Termodinámica Lineal. Propiedades de los coeficientes fenomenológicos. Las relaciones de Onsager. Teorema de mínima producción de entropía. Estabilidad de los estados estacionarios en las proximidades del equilibrio. Criterio de estabilidad. Procesos muy alejados del equilibrio
+
+📚 Recursos sin cambios:
+------------------------------
+= Artículos de investigación incluidos en el capítulo 1 actualizados cada curso
+= Horta Zubiaga, A. Macromoléculas, Ed. UNED, Madrid, 1991
+= Jou, D. Llebot, J.E. Introducción a la termodinámica de los procesos biológicos, Ed. Labor Universitaria. 1989
+= Laskowski, W., Pohlit, W. Biofísica, Ed. Omega. 1976
+= Montero, F. Morán, F. Biofísica. Procesos de autoorganización en Biología. Eudema Universidad, S.A., Madrid, 1992
+= Prigogine, I. Introduction to Thermodynamics of Irreversible Processes, Interscience Publishers, N.Y., 1967
+= Van Holde K.E., Bioquímica Física, Ed. Alhambra, Col. Exedra, Madrid, 1979
+= Vazquez, J. Biofísica: Principios fundamentales, EYPASA. 1993
+= Vicente Córdoba, C., Legaz González, M.E. Biofísica, Ed. Síntesis. 1992
+= Volkenshtein, M.K. Biofísica, Ed. Mir. 1985
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ DIVULGACIÓN Coveney, P., Highfield, R. La flecha del tiempo, Ed. Orbis. 1993 Heisemberg, W. La imagen de la naturaleza en la física actual, Ed. Orbis. 1985 F2008181Q Schrödinger, E. ¿Qué es la vida?, Ed. Orbis. 1984 Waddington, C.H. Hacia una biología teórica, Alianza Editorial. 1976  →  Coveney, P., Highfield, R. La flecha del tiempo, Ed. Orbis. 1993
+~ TEMODINÁMICA DE LOS PROCESOS IRREVERSIBLES Katchalsky, A., Curran, P.I. Nonequilibrium Thermodynamics in Biophysics. Harvard University Press, England, 1975  →  TEMODINÁMICA DE LOS PROCESOS IRREVERSIBLES
+
+✅ Recursos añadidos:
+------------------------------
++ BIBLIOGRAFÍA FUNDAMENTAL
++ BIOFÍSICA GENERAL
++ BIOFÍSICA MOLECULAR
++ DIVULGACIÓN
++ Heisemberg, W. La imagen de la naturaleza en la física actual, Ed. Orbis. 1985
++ Katchalsky, A., Curran, P.I. Nonequilibrium Thermodynamics in Biophysics. Harvard University Press, England, 1975
++ Prigogine, I. Las leyes del caos, Ed. Crítica, Grakontos. 1997
++ Schrödinger, E. ¿Qué es la vida?, Ed. Orbis. 1984
++ Waddington, C.H. Hacia una biología teórica, Alianza Editorial. 1976
+
+📊 Porcentaje estimado de cambio: 96% [█████████░]

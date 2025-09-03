@@ -1,7 +1,0 @@
-Aho, A. V., Lam, M. S., Sethi, R., Ullman, J. D. 2008. Compiladores. Principios, Técnicas y Herramientas. Segunda Edición. Addison Wesley..
-Cooper, K. D., Torczon, L. 2011. Engineering a Compiler. Second Edition. Morgan Kaufmann Publishers.
-Jeffery, C. L. 2021. Build Your Own Programming Language: A programmer’s guide to designing compilers, interpreters and DSLs for solving modern computing problems. Packt Publishing.
-Louden, K. C. 2004. Construcción de Compiladores. Thomson.
-Thain, D. 2020. Introduction to Compilers and Language Design. Second Edition.
-J.P. Tremblay, P.G. Sorenson. The Theory and Practice of Compiler Writing. McGraw-Hill 1985.
-M. Alfonseca, M. de la Cruz, A. Ortega, E. Pulido. Compiladores e Intérpretes: Teoría y Práctica. Pearson Ed. 2006.

@@ -1,6 +1,0 @@
-Hastie, Tibshirani & Friedman, The Elements of Statistical Learning, Springer, 2010
-Géron, Aurèlien, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems. O’Reilly, 2019.
-Ian Goodfellow, Yoshua Bengio, Aaron Courville: “Deep Learning”, MIT Press, 2016.http://www.deeplearningbook.org/
-Ethem Alpaydin. Introduction to Machine Learning, 4º Edition, MIT Press, 2020.
-Y.S. Abu-Mostafa, M.Magdom-Ismail, H. Lin (2012), Learning from data. AMLbook.com
-V. Cherkassky, F. Mulier, Learning form data. IEEE Press,2007

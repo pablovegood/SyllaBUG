@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Técnicas_de_Visualización_y_Presentación_Aplicadas_a_la_Arquitectura_(pdf)_20911A3
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Akenine-Moller, T., Haines, E., & Hoffman, N. (2019). Real-time rendering. AK Peters/crc Press
+= Dinur, E. (2021). The Complete Guide to Photorealism: For Visual Effects, Visualization and Games. Routledge
+= J.O'Shea; InDesign CS5 [Recurso electrónico] : basic : student manual. Edt. Axzo Press, 2011 (4)
+= Stemkoski, L., & Pascale, M. (2021). Developing Graphics Frameworks with Python and OpenGL (p. 344). Taylor & Francis
+= T. Boardman; 3ds Max 2013. Anaya Multimedia, 2013
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ F2008181Q 2nd Edt. Elsevier, Inc, 2010 (1) L. Snider; Photoshop CS6, the missing manual. O'Reilly, 2013  →  L. Snider; Photoshop CS6, the missing manual. O'Reilly, 2013
+~ M. Golding; Real world Adobe Illustrator CS5 [Recurso electrónico. Edt. Peachpit Press, 2011 (3) F. P. González. InDesign CS6; Anaya Multimedia, 2012  →  F. P. González. InDesign CS6; Anaya Multimedia, 2012
+~ C.Chavez; Real World Adobe® Photoshop® CS5 for Photographers. Edt. Peachpit Press, 2010 (2) F. P. González, J.M. Delgado Cabrera; Illustrator CS6. Anaya Multimedia, 2012  →  F. P. González, J.M. Delgado Cabrera; Illustrator CS6. Anaya Multimedia, 2012
+~ R.Cusson, J.Cardoso; Realistic architectural visualization with 3ds max and mental ray  →  R.Cusson, J.Cardoso; Realistic architectural visualization with 3ds max and mental ray. 2nd Edt. Elsevier, Inc, 2010 (1)
+
+✅ Recursos añadidos:
+------------------------------
++ C.Chavez; Real World Adobe® Photoshop® CS5 for Photographers. Edt. Peachpit Press, 2010 (2)
++ J. Burger; The Desktop Multimedia Bible. Edt. Addison-Wesley, 1992. Versión castellana: La biblia del multimedia. Edt. Addison-Wesley, 1994
++ M. Golding; Real world Adobe Illustrator CS5 [Recurso electrónico. Edt. Peachpit Press, 2011 (3)
++ Marschner, S., & Shirley, P. (2018). Fundamentals of computer graphics. CRC Press
+
+📊 Porcentaje estimado de cambio: 88% [████████░░]

@@ -1,0 +1,28 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Análisis_Matemático_II_(pdf)_2951128
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= BERBERIAN, S.K.: Fundamentals of Real Analysis. Springer, 1998
+= BRUCKNER, A. M., BRUCKNER, J. B., THOMSON, B.S.: Real analysis, Prentice-Hall International, Inc. 1997
+= GUZMAN, M. y RUBIO, B.: Integración: teoría y técnicas. Alhambra, 1979
+= KANNAN, R., KRUEGER, C. K.: Advanced Analysis on the real line, Springer, 1996
+= KUTTLER, K. L: Modern Analysis, Studies in advanced mathematics, CRC
+= LUKEŠ, J. Y MALÝ, J.: Measure and integral. Matfyzpress, Praga, 1995
+= STROMBERG, K.R.: An Introduction to Classical Real Analysis. American Mathematical Society, 2015
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ WHEEDEN R. L., ZYGMUND A., Measure and Integral. An Introduction to Real Analysis  →  WHEEDEN R. L., ZYGMUND A., Measure and Integral. An Introduction to Real Analysis. CRC Press, 2015
+~ FERNÁNDEZ, J.A. Y SÁNCHEZ, E.: Ejercicios y complementos de Análisis Matemático II  →  FERNÁNDEZ, J.A. Y SÁNCHEZ, E.: Ejercicios y complementos de Análisis Matemático II. Tecnos, 1986
+
+✅ Recursos añadidos:
+------------------------------
++ CABELLO, J.C.: Integral de Lebesgue, Godel, 2025
++ MARSDEN, J.E. Y HOFFMAN; M.J.: Análisis clásico elemental. Addison-Wesley, 1998
+
+📊 Porcentaje estimado de cambio: 44% [████░░░░░░]

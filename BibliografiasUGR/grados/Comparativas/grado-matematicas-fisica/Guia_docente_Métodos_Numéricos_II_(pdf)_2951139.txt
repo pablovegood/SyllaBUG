@@ -1,0 +1,28 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Métodos_Numéricos_II_(pdf)_2951139
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Burden, R.L. y Faires, J.D. (2011). Análisis Numérico. Novena edición, Cengage Learning Editores, México
+= Gasca, M. (1996). Cálculo Numérico. U.N.E.D
+= Gautschi, W. (1997). Numerical analysis, an Introduction. Birkhauser Boston
+= Sauer, T. (2013). Análisis Numérico, Pearson, México
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Kincaid, D. y Cheney, W. (1994). Análisis numérico. Las matemáticas del cálculo Ramírez, V., Barrera, D., Pasadas, M. y González, P. Cálculo Numérico con Mathematica  →  Ramírez, V., Barrera, D., Pasadas, M. y González, P. Cálculo Numérico con Mathematica. Ariel, 2001
+~ Ariel, 2001 Lambert, J.D. (1993). Numerical methods for ordinary differential systems: the initial Stoer, J. & Bulirsch, R (2000). Introduction to numerical analysis, 3ª Ed. Springer-Verlag  →  Stoer, J. & Bulirsch, R (2000). Introduction to numerical analysis, 3ª Ed. Springer-Verlag
+
+✅ Recursos añadidos:
+------------------------------
++ Atkinson, K., (1989). An introduction to numerical analysis. Second edition. John Wiley and Sons
++ BIBLIOGRAFÍA COMPLEMENTARIA
++ BIBLIOGRAFÍA FUNDAMENTAL
++ Kincaid, D. y Cheney, W. (1994). Análisis numérico. Las matemáticas del cálculo científico. Addison-Wesley Iberoamericana
++ Lambert, J.D. (1993). Numerical methods for ordinary differential systems: the initial value problem, John Wiley
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

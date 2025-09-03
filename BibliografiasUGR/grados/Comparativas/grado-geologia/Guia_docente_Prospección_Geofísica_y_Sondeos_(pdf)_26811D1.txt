@@ -1,0 +1,47 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Prospección_Geofísica_y_Sondeos_(pdf)_26811D1
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Bally, A.W., 1984. Seismic Expression of Structural Styles. Studies in Geology 15. Tulsa: American Association of Petrological Geology
+= Cantos Figuerola, J., 1987. Tratado de Geofísica Aplicada. I.G.M.E
+= Dobrin, M., y Savit, C.H. 1988. Geophysical Prospecting. McGraw Hill
+= Everett, M. E. (2013). Near-surface applied geophysics. Cambridge University Press
+= Lillie, R.J. (1988) Whole Earth Geophysics. Prentice Hall
+= Loke, M. H., 1999. Electrical imaging surveys for environmental and engineering studies. Ed. M.H. Loke, Penang
+= Lowrie, W. 2007. Fundamentals of Geophysics. Cambridge University Press, 354 pp
+= López Jimeno, C. (2006) Manual de Sondeos.ETS Minas. Madrid
+= Mari J.L., Arens G., Chapellier D., Gaudiani P.,1998. Géophysique de Gisement et de Génie Civil. Publications de l’Institut Français du Pétrole. Éditions Technip
+= Mechler, P., 1982. Les méthodes de la geophysique. Dunod Université
+= Meissner, R., 1986. The Continental Crust. A Geophysical Approach. Academic Press
+= Orellana, E., 1974. Prospección geoeléctrica por campos variables. Paraninfo
+= Orellana, E., 1982. Prospección geoeléctrica en corriente continua. 2- Ed. Paraninfo
+= Parasnis, D.S., 1970. Principios de Geofísica Aplicada. Paraninfo
+= Parasnis, D.S., 1971. Geofísica minera. Paraninfo
+= Poirier, J.P., 1991. Les profondeurs de la Terre. Masson
+= Sheriff, R.E., y Geldart, L.P., 1991. Exploración sismológica, Historia, teoría y obtención de datos. Ed. Limusa
+= Sheriff, R.E., y Geldart, L.P., 1991. Exploración sismológica, Procesamiento e interpretación de datos. Ed. Limusa
+= Telford, W.M., Geldart, L.P. y Sheriff, R.E., 1990. Applied Geophysics. 2nd. Ed. Cambridge University Press
+= Yilmaz,O., 1987. Seismic data processing. Society of exploration geophysicists. Investigations in Geophysics, 2
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Investigations in Geophysics, 2  →  Yilmaz,O., 1987. Seismic data processing. Society of exploration geophysicists. Investigations in Geophysics, 2
+~ American Association of Petrological Geology  →  Bally, A.W., 1984. Seismic Expression of Structural Styles. Studies in Geology 15. Tulsa: American Association of Petrological Geology
+~ Daniels, D. J. (Ed). 2004. Ground penetrating radar. Institution of Electrical Engineers, London Fowler, C.M.R., 1990. The solid Earth. An Introduction to Global Geophysics. Cambridge University Press  →  Daniels, D. J. (Ed). 2004. Ground penetrating radar. Institution of Electrical Engineers, London
+~ Turcotte, D.L. y Schubert, G., 1982. Geodynamics: Applications of continuum physics to Udías, A., 1997. Fundamentos de Geofísica, Alianza Universidad. 436 p  →  Udías, A., 1997. Fundamentos de Geofísica, Alianza Universidad. 436 p
+~ Ed. M.H. Loke, Penang  →  Loke, M. H., 1999. Electrical imaging surveys for environmental and engineering studies. Ed. M.H. Loke, Penang
+
+✅ Recursos añadidos:
+------------------------------
++ Fowler, C.M.R., 1990. The solid Earth. An Introduction to Global Geophysics. Cambridge University Press
++ Jones, E.J.W. (1999) Marine Geophysics. Wiley
++ Misstear, B., Banks, D., Clark, L. (2006) Water Wells and Boreholes. Wiley Interscience
++ Robinson, E.S., y Coruh, C., 1988. Basic exploration Geophysics. Ed. Wiley & Sons
++ Turcotte, D.L. y Schubert, G., 1982. Geodynamics: Applications of continuum physics to geological problems. John Wiley and Sons
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

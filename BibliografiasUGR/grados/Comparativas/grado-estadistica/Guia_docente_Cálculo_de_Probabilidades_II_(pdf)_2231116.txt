@@ -1,0 +1,36 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Cálculo_de_Probabilidades_II_(pdf)_2231116
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hubo coincidencias exactas o equivalentes.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ CRC/Chapman and Hall  →  Ugarte, M.D., Militino, A.F., Arnholt, A.T. (2008). Probability and Statistics with R. CRC/Chapman and Hall
+~ Aguilera, A.M. (2000). Curso y Ejercicios de Cálculo de Probabilidades. Ed. La autora. Ash, R.B. (2008). Basic Probability Theory. Dover Publications Inc. Canavos, G. (2003). Probabilidad y Estadística: Aplicaciones y Métodos. McGraw-Hill Interamericana, México. García-Ligero, M.J., Hermoso Carazo, A., Maldonado Jurado, J.A., Román Román, P., Torres Ruíz, F. (2007). Curso básico de Probabilidad con CDPYE (CD). Copicentro Editorial, Universidad de Granada. Gutiérrez, R., Martínez, A. y Rodríguez, C. (1993). Curso Básico de Probabilidad. Pirámide. Milton, J.S., Arnold, J.C. (2004). Probabilidad y Estadística (con aplicaciones para Ingeniería y Ciencias Computacionales). McGraw-Hill Interamericana. Ross, S. (2006). A First Course in Probability. Pearson Prentice Hall. Schay, G. (2007). Introduction to Probability with Statistical Applications. Birkhäuser. Fernández-Abascal, H., Guijarro, M., Rojo, J.L. y Sanz, J.A. (1995). Ejercicios de Cálculo de Probabilidades. Ariel Matemática. Montero, J., Pardo, L., Morales, D., Quesada, V. (1988). Ejercicios y Problemas de Cálculo de Probabilidades. Díaz de Santos. Pérez, C. (2002). Estadística Práctica con Statgraphics. Prentice-Hall. Sevastiánov, B.A., Chistiakov, V.P., Zubkov, A.M. (1985). Problemas de Cálculo de Probabilidades. Mir. Zolotariéskaia, D.I. (2006). Teoría de Probabilidades (problemas resueltos). URSS. Ugarte, M.D., Militino, A.F., Arnholt, A.T. (2008). Probability and Statistics with R  →  Fernández-Abascal, H., Guijarro, M., Rojo, J.L. y Sanz, J.A. (1995). Ejercicios de Cálculo de Probabilidades. Ariel Matemática
+
+✅ Recursos añadidos:
+------------------------------
++ Aguilera, A.M. (2000). Curso y Ejercicios de Cálculo de Probabilidades. Ed. La autora
++ Ash, R.B. (2008). Basic Probability Theory. Dover Publications Inc
++ BIBLIOGRAFÍA COMPLEMENTARIA DE PROBLEMAS
++ BIBLIOGRAFÍA COMPLEMENTARIA DE PRÁCTICAS DE ORDENADOR
++ Canavos, G. (2003). Probabilidad y Estadística: Aplicaciones y Métodos. McGraw-Hill Interamericana, México
++ DeGroot, M. (1988). Probabilidad y Estadística. Addison-Wesley
++ García-Ligero, M.J., Hermoso Carazo, A., Maldonado Jurado, J.A., Román Román, P., Torres Ruíz, F. (2007). Curso básico de Probabilidad con CDPYE (CD). Copicentro Editorial, Universidad de Granada
++ Gutiérrez, R., Martínez, A. y Rodríguez, C. (1993). Curso Básico de Probabilidad. Pirámide
++ Horgan, J.M. (2009). Probability with R. Wiley
++ Milton, J.S., Arnold, J.C. (2004). Probabilidad y Estadística (con aplicaciones para Ingeniería y Ciencias Computacionales). McGraw-Hill Interamericana
++ Montero, J., Pardo, L., Morales, D., Quesada, V. (1988). Ejercicios y Problemas de Cálculo de Probabilidades. Díaz de Santos
++ Pérez, C. (2002). Estadística Práctica con Statgraphics. Prentice-Hall
++ Ross, S. (2006). A First Course in Probability. Pearson Prentice Hall
++ Schay, G. (2007). Introduction to Probability with Statistical Applications. Birkhäuser
++ Sevastiánov, B.A., Chistiakov, V.P., Zubkov, A.M. (1985). Problemas de Cálculo de Probabilidades. Mir
++ Zolotariéskaia, D.I. (2006). Teoría de Probabilidades (problemas resueltos). URSS
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

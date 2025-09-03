@@ -1,0 +1,28 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Hidrogeología_(pdf)_2681137
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= CUSTODIO, E. y LLAMAS, M.R. (1983 ). Hidrología Subterránea. Ed. Omega, 2350 pp
+= DAVIE, T. (2003). Fundamentals of Hydrology. Routledge
+= FREEZE, A.R. y CHERRY, J.A. (1979). Groundwater. Prentice-Hall Inc., Englewood Cliff, 604 pp
+= MARTÍNEZ, P.E., MARTÍNEZ, P. y CASTAÑO, S. (2005). Fundamento de Hidrogeología. Ed. Mundiprensa, Madrid. 284 pp
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ HISCOCK, K. (2005). Hydrogeology. Blackwell PRICE, M. (1996) Introducing Groundwater. Chapman & Hall. (Traducido al castellano) CALVACHE, M.L. y DUQUE, C. (2010). Prácticas de Hidrogeología. Ed. Universidad de Granada  →  CALVACHE, M.L. y DUQUE, C. (2010). Prácticas de Hidrogeología. Ed. Universidad de Granada
+~ Ed. Mundiprensa, Madrid. 284 pp  →  MARTÍNEZ, P.E., MARTÍNEZ, P. y CASTAÑO, S. (2005). Fundamento de Hidrogeología. Ed. Mundiprensa, Madrid. 284 pp
+
+✅ Recursos añadidos:
+------------------------------
++ HISCOCK, K. (2005). Hydrogeology. Blackwell
++ PRICE, M. (1996) Introducing Groundwater. Chapman & Hall. (Traducido al castellano)
++ RAGHUNATH, H.M. Groundwater (2nd Ed.) Ed. John Wiley & Sons
++ SWARTZ, F.W. y ZHANG, H. (2003). Ground Water, Wiley and Sons
++ TODD, D.K. (1972). Groundwater Hydrology. Ed. John Wiley & Sons. (trad. Ed. Paraninfo)
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

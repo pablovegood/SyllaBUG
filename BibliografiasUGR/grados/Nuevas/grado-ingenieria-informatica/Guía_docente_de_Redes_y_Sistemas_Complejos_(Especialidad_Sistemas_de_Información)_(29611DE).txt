@@ -1,9 +1,0 @@
-Albert-Laszlo Barabasi: “Network Science”, Cambridge University Press, 2016. ISBN: 9781107076266. Interactive Book Project
-Stanley Wasserman & Katherine Faust: “Social Network Analysis. Methods and Applications”, Cambridge University Press, 1994. ISBN 9780521387071. Edición online de 2012. ISBN: 9780511815478.
-Mark Newman: “Networks: An introduction”, Second Edition. Oxford, 2018. ISBN 9780198805090.
-Chaomei Chen: “Information Visualization: Beyond the Horizon”, Springer, 2004. ISBN 9781852337896.
-David Easley & Jon Kleinberg: “Networks, Crowds, and Markets: Reasoning About a Highly Connected World”, Cambridge University Press, 2010. ISBN 9780521195331
-Mark Newman, Albert-Laszlo Barabasi & Duncan J. Watts (Eds.): “The Structure and Dynamics of Networks”, Princeton University Press, 2006. ISBN 9780691113579.
-Ted G. Lewis: “Network Science: Theory and Applications”, Wiley, 2009. ISBN 9780470331880.
-Derek Hansen, Ben Shneiderman: “Analyzing Social Media Networks with NodeXL: Insights from a Connected World”, Morgan Kaufmann, 2010. ISBN: 9780123822291.
-John R. Clymer: “Simulation-Based Engineering of Complex Systems”, Wiley-Interscience, 2009. ISBN 9780470401293.

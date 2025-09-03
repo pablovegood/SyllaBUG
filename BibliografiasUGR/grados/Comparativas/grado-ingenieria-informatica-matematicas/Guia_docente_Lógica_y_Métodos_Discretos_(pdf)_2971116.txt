@@ -1,0 +1,29 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Lógica_y_Métodos_Discretos_(pdf)_2971116
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Biggs, N. L. Matemática Discreta. Vicens Vives, 1998
+= Gunderson, D.S. Handbook of mathematical induction: theory and applications. CRC Press, 2016
+= Hortalá T; Martí, N; Palomino, M; Rodríguez, M; del Vado, R. Lógica Matemática para Informáticos. Ejercicios resueltos. Prentice Hall Pearson, 2008
+= Martínez Rey, M.A. Lógica formal y no formal. Ediciones CEF. 2023
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Paniagua, E; Sánchez González, J.L; Martín Rubio, F. Lógica computacional. Ed  →  Paniagua, E; Sánchez González, J.L; Martín Rubio, F. Lógica computacional. Ed. Paraninfo, 2003
+~ Academic Press, 1973 García Miranda, J. Lógica para informáticos y otras herramientas matemáticas  →  García Miranda, J. Lógica para informáticos y otras herramientas matemáticas. Flemming, 2017
+~ Paraninfo, 2003 Permingeat, N; Glaude, D. Álgebra de Boole: Teoría, Métodos de Cálculo y Aplicaciones  →  Permingeat, N; Glaude, D. Álgebra de Boole: Teoría, Métodos de Cálculo y Aplicaciones. Vicens Vives, 1992
+~ Jiménez Murillo, J.A. Matemáticas para informática. Marcombo. 2015 Lipschutz, S. 2000 problemas resueltos de matemática discreta. McGraw Hill, 2004 Rosen, K.H. Matemática Discreta y sus aplicaciones. McGraw Hill, 2003  →  Rosen, K.H. Matemática Discreta y sus aplicaciones. McGraw Hill, 2003
+
+✅ Recursos añadidos:
+------------------------------
++ Chin-Lliang, C; Char-Tung Lee, R. Symbolic Logic and Mechanicasl Theorem Proving. Academic Press, 1973
++ Grimaldi, R. P. Matemática Discreta y Combinatoria. Addison-Wesley, 1997
++ Jiménez Murillo, J.A. Matemáticas para informática. Marcombo. 2015
++ Lipschutz, S. 2000 problemas resueltos de matemática discreta. McGraw Hill, 2004
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -1,8 +1,0 @@
-Rabaey, Chandrakasan, Nikolic: "Circuitos integrados digitales: una perspectiva de diseño", Pearson, 2004
-Kaeslin: "Digital Integrated Circuit Design", Cambridge University Press, 2008
-Chu: “RTL Hardware Design using VHDL“, IEEE Press 2006
-Wang, Chang, Cheng: “Electronic Design Automation: Synthesis, Verification and Test”, Morgan Kauffman, 2009
-Carusone, Martin, Johns: "Analog Integrated Circuit Design (2nd Edition)", John Wiley, 2012
-Lloris, Prieto, Parrilla: "Sistemas digitales", McGraw Hill, 2003
-Short: "VHDL for engineers (New International Edition)", Pearson, 2013
-Lam: "Hardware Design Verification: Simulation and Formal Method-Based Approaches", Prentice Hall, 2005

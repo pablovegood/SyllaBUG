@@ -1,9 +1,0 @@
-Lloris, Prieto, Parrilla. "Sistemas Digitales", McGraw-Hill, 2003
-Roth. “Fundamentos de diseño lógico”, Thomson, 2004
-Malik. “Circuitos electrónicos: análisis, diseño y simulación”, Pearson, 2003
-Hayes, "Introduction to Digital Logic Design", Addison-Wesley, 1993
-Sedra, Smith, Carusone, Gaudet, "Microelectronic circuits", Oxford University Press, 2021
-Baena, Bellido, Molina, Parra, Valencia. "Problemas de Circuitos y Sistemas Digitales", McGraw-Hill, 2001
-Rabaey, Chandrakasan, Nikolic, "Circuitos integrados digitales: una perspectiva de diseño", Pearson, 2004
-Harris & Harris, "Digital design and computer architecture", Elsevier/Morgan Kaufmann 2012
-Tinder, "Engineering digital design", Academic Press 2000

@@ -1,5 +1,0 @@
-Pedro García Teodoro, Jesús Díaz Verdejo y Juan Manuel López Soler. TRANSMISIÓN DE DATOS Y REDES DE COMPUTADORES, Ed. Pearson, 2007, ISBN: 9788420539195.
-James F. Kurose y Keith W. Ross. COMPUTER NETWORKING. A TOP-DOWN APPROACH, 7ª Edition, Addison-Wesley, 2017, ISBN: 978-0-13-359414-0.
-William Stallings. COMUNICACIONES Y REDES DE COMPUTADORES, 7ª Edición, Prentice Hall International, 2006, ISBN: 84-205-4110-9.
-Andrew S. Tanenbaum. COMPUTER NETWORKS, 6ª Edition, Prentice Hall International, 2011. ISBN: 9781292374062.
-Douglas E. Comer y David L. Stevens. INTERNETWORKING WITH TCP/IP, VOL III: CLIENT-SERVER PROGRAMMING AND APPLICATIONS, LINUX/POSIX SOCKETS VERSION, Prentice Hall International, 2001. ISBN: 9780130320711.

@@ -1,0 +1,30 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Fisiología_Vegetal_(pdf)_2511128
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+- BUCHANAN, B. B., GRUISSEN, W. Y JONES, R.L. (2017): Biochemistry and Molecular JONEs, R., OUGHAM H., THOMAS H., WAALAND S. (20213). The Molecular life of Plants
+
+📚 Recursos sin cambios:
+------------------------------
+= AZCÓN-BIETO Y TALÓN (2008) Fundamentos De Fisiología Vegetal (2ª Ed). Interamericana-McGraw-Hill, UBe, Madrid
+= GARCÍA, F.J.; ROSELLO, J. y SANTAMARÍA, M.P. (2001). Iniciación a la Fisiología de las Plantas. Editorial Foro Europa
+= NICOLÁS RODRIGO, G.; SABATER GARCÍA, B. y SÁNCHEZ TAMÉS, R. (2001). Fisiología Vegetal. Ed. Pirámide, Madrid
+= SALISBURY, F.B. y ROSS, C.W. (2000). Fisiología de las Plantas. International Thompson Editores Spain- Paraninfo, S.A., Madrid
+= TAIZ, L., ZEIGER, E., Moller, i.A., Murphy, A.(2014). Plant Physiology and Development. Sinauer Associates, Sunderland, MA, USA
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ Sons, Inc. Hoboken, NJ, USA SLATER, A., SCOTT, N.W. y FOWLER, M.R. (2008): Plant Biotechnology: The Genetic Manipulation of Plants. (2ª ed.). Oxford University Press, 2008 TAIZ, L. y ZEIGER, E. (2010): Plant Physiology (5ª ed.). Sinauer Associates, Sunderland, MA, USA F2008181Q BOWSHER, C. , STEER, M., TOBIN, A. (2008) Plant Biochemistry. Garland Science. NY  →  BOWSHER, C. , STEER, M., TOBIN, A. (2008) Plant Biochemistry. Garland Science. NY, USA
+~ Interamericana-McGraw-Hill, UBe, Madrid AIZ, L. y ZEIGER, E. (2006). Fisiología Vegetal 2 volúmenes (Traducción de la 3ª Ed) (Universidad Jaume I. Servicio de Comunicación y Publicaciones) EPSTEIN, E. y BLOOM, A.J. (2005) Mineral nutrition of plants: principles and perspectivas. Editorial Sinauer Associates, Inc. Publishers  →  AIZ, L. y ZEIGER, E. (2006). Fisiología Vegetal 2 volúmenes (Traducción de la 3ª Ed) (Universidad Jaume I. Servicio de Comunicación y Publicaciones)
+~ Sinauer Associates, Sunderland, MA, USA  →  TAIZ, L. y ZEIGER, E. (2010): Plant Physiology (5ª ed.). Sinauer Associates, Sunderland, MA, USA
+
+✅ Recursos añadidos:
+------------------------------
++ BUCHANAN, B. B., GRUISSEN, W. Y JONES, R.L. (2017): Biochemistry and Molecular Biology of Plants. Second Edition. Am. Soc. of Plant Physiologists. Wiley BlackWiley
++ EPSTEIN, E. y BLOOM, A.J. (2005) Mineral nutrition of plants: principles and perspectivas. Editorial Sinauer Associates, Inc. Publishers
++ HOPKINS, W. G. y HÜNER, N. P. A. (2009): Introduction to Plant Physiology. Whiley & Sons, Inc. Hoboken, NJ, USA
++ JONEs, R., OUGHAM H., THOMAS H., WAALAND S. (20213). The Molecular life of Plants. Am. Soc. of Plant Biologist. Wiley-Blackwell
++ SLATER, A., SCOTT, N.W. y FOWLER, M.R. (2008): Plant Biotechnology: The Genetic Manipulation of Plants. (2ª ed.). Oxford University Press, 2008
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

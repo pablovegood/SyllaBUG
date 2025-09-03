@@ -1,0 +1,24 @@
+🆚 Comparativa de bibliografía para: Guia_docente_Análisis_Matemático_II_(pdf)_2231118
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No se eliminaron recursos.
+
+📚 Recursos sin cambios:
+------------------------------
+= Adams, Robert A., “Cálculo”. Pearson Educación,2009
+= Granero, F. “Cálculo integral y aplicaciones”. Pearson Educación, 2001
+= J. Alaminos. Apuntes de Cálculo. Dpto. Análisis Matemático, UGR, 2010
+= J. de Burgos, “Cálculo infinitesimal de varias variables”. McGraw-Hill,1995
+= Pita Ruiz, C., “Cálculo Vectorial”, Prentice-Hall Hispano Americano, S.A., 1995
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+~ 3.Stewart,J., “Cálculo Multivariable”.4 ªEd, International Thomson Editores 2002 1.Bombal,F, Rodríguez G. Vera,L.,“Problemas de Análisis Matemático”, Tomos 1 y 2, A.C.,1987  →  Stewart,J., “Cálculo Multivariable”.4 ªEd, International Thomson Editores 2002
+
+✅ Recursos añadidos:
+------------------------------
++ Bombal,F, Rodríguez G. Vera,L.,“Problemas de Análisis Matemático”, Tomos 1 y 2, A.C.,1987
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

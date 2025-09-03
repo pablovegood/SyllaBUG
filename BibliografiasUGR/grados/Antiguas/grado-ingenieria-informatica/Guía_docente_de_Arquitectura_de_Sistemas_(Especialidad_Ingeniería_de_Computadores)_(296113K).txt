@@ -1,6 +1,0 @@
-Andrew S. Tanenbaum, Herbert Bos. Modern operating systems. 4th ed, global ed.Boston : Pearson, 2015.
-Silberschatz, Abraham; Galvin, Peter Baer, autor;Gagne, Greg. Operating system concepts. Hoboken, New Jersey : Wiley, 2021.
-Tanenbaum. Operating Systems Design and Implementation (3rd Edition). Prentice Hall; 3 edition (January 14, 2006). ISBN-10: 0131429388. ISBN-13: 978-0131429383.
-Jonathan Corbet, Alessandro Rubini, and Greg Kroah-Hartman. Linux Device Drivers, 3rd Edition. O'Reilly Media; 3 edition (February 7, 2005). ISBN-10: 0596005903. ISBN-13: 978-0596005900.
-Richard Blum. Professional Assembly Language (Programmer to Programmer). Wrox; illustrated edition edition (February 11, 2005). ISBN-10: 0764579010. ISBN-13: 978-0764579011.
-Hans-Peter Messmer. The Indispensable PC Hardware Book (4th Edition). Addison-Wesley Professional; 4 edition (December 14, 2001). ISBN-10: 0201596164. ISBN-13: 978-0201596168.

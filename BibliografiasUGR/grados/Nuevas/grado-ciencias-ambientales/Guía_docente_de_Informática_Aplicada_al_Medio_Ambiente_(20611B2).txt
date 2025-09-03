@@ -1,7 +1,0 @@
-Kennedy, M. Introducing Geographic Information Systems with ArcGIS, John Wiley & Sons, 2013
-A.Graser, Learning QGIS: use QGIS to create map and perform all the processing tasks you need, Pack publishing 2014
-Chuviesco, E., Fundamentals of Satellite Remote Sensing, CRC Press, 2016
-Rigaux, P.; Scholl, M; Voisard, A.. Spatial Databases with Application to GIS. Morgan Kaufmann Publishers, 2002.
-Carmona, J.. Hojas de Cálculo. Conceptos Teóricos. Ejercicios Prácticos.Mad S.L. 1997
-González, R.; Woods, R.E.. Tratamiento digital de imágenes. Addison Wesley Iberoamericana, 1996.
-Fielding, A.H.. Cluster and Classification Techniques for the Biosciences. Kluwer Academic Publishers, 2007.

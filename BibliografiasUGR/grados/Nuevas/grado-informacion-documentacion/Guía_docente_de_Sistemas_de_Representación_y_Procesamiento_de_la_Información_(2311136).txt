@@ -1,7 +1,0 @@
-• Baeza-Yates, R.; Ribeiro-Neto, B. Modern information retrieval: the concepts and technology behind search. Harlow: Addison Wesley, 2011.
-• Cacheda, F., Fernández-Luna, J.M., Huete, J. (coords.) Recuperación de Información. Un enfoque práctico y multidisciplinar. Madrid: Ra-Ma, 2011.
-• Manning, C.D.; Raghavan, P.; Schütze, H. Introduction to Information Retrieval. Cambridge University Press, 2008.
-• Tolosa, G.H.; Bordignon F.R.A. Introducción a la Recuperación de Información. Conceptos, modelos y algoritmos básicos. Laboratorio de Redes de Datos. Universidad Nacional de Luján. (Bajo licencia Creative Commons), 2008.
-• Chowdhury, G.G. Introduction to Modern Information Retrieval. Neal-Schuman, 2003.
-• Croft, W.B.; Meltzer, D.; Strohman, T. Search Engines: Information Retrieval in Practice. Addison-Wesley, 2009.
-• Grossman, D.A,; Frieder, O. Information Retrieval: Algorithms and Heuristics. Springer, 2004.
