@@ -17,11 +17,11 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ 4.- Langman. Embriología Médica. 13ª edición. Wolters Kluwer. 2016 5.- Kierszenbaum AL. Histología y Biología Celular. 4ª edición. Elsevier. 2016  →  5.- Kierszenbaum AL. Histología y Biología Celular. 4ª edición. Elsevier. 2016
+~ 4.- Langman. Embriología Médica. 13ª edición. Wolters Kluwer. 2016 5.- Kierszenbaum AL. Histología y Biología Celular. 4ª edición. Elsevier. 2016  →  4.- Langman. Embriología Médica. 13ª edición. Wolters Kluwer. 2016
 
 ✅ Recursos añadidos:
 ------------------------------
 + * Ver bibliografía disponible electrónicamente en el apartado "Enlaces Recomendados"
-+ 4.- Langman. Embriología Médica. 13ª edición. Wolters Kluwer. 2016
++ 5.- Kierszenbaum AL. Histología y Biología Celular. 4ª edición. Elsevier. 2016
 
 📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

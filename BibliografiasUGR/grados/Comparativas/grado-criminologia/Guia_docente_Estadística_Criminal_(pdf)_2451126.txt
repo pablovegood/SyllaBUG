@@ -17,14 +17,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Pressat, R. (1983). El análisis demográfico. Ed. Fondo de Cultura Económica. Madrid Vinuesa, J. Puga, D. (2007). Técnicas y ejercicios de Demografía. Ed. INE. Madrid  →  Pressat, R. (1983). El análisis demográfico. Ed. Fondo de Cultura Económica. Madrid
-~ F2008181Q Arroyo, A. (2004). Tendencias Demográficas durante el siglo XX en España. Ed. INE Calot, G. Curso de estadística descriptiva. (1974). Ed. Paraninfo, Madrid, Peña, D.; Romo, J. (1997). Introducción a la estadística para las ciencias sociales. Ed. Mc Graw Hill. Madrid  →  Peña, D.; Romo, J. (1997). Introducción a la estadística para las ciencias sociales. Ed. Mc Graw Hill. Madrid
+~ F2008181Q Arroyo, A. (2004). Tendencias Demográficas durante el siglo XX en España. Ed. INE Calot, G. Curso de estadística descriptiva. (1974). Ed. Paraninfo, Madrid, Peña, D.; Romo, J. (1997). Introducción a la estadística para las ciencias sociales. Ed. Mc Graw Hill. Madrid  →  Arroyo, A. (2004). Tendencias Demográficas durante el siglo XX en España. Ed. INE
+~ Pressat, R. (1983). El análisis demográfico. Ed. Fondo de Cultura Económica. Madrid Vinuesa, J. Puga, D. (2007). Técnicas y ejercicios de Demografía. Ed. INE. Madrid  →  Vinuesa, J. Puga, D. (2007). Técnicas y ejercicios de Demografía. Ed. INE. Madrid
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Arroyo, A. (2004). Tendencias Demográficas durante el siglo XX en España. Ed. INE
 + Calot, G. Curso de estadística descriptiva. (1974). Ed. Paraninfo, Madrid
++ Peña, D.; Romo, J. (1997). Introducción a la estadística para las ciencias sociales. Ed. Mc Graw Hill. Madrid
++ Pressat, R. (1983). El análisis demográfico. Ed. Fondo de Cultura Económica. Madrid
 + Theodore W. Anderson, An Introduction to Multivariate Statistical Analysis, 3rd ed., Wiley-Interscience, 2003
-+ Vinuesa, J. Puga, D. (2007). Técnicas y ejercicios de Demografía. Ed. INE. Madrid
 
 📊 Porcentaje estimado de cambio: 66% [██████░░░░]

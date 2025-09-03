@@ -22,23 +22,23 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ DICKINSON,W.C. (2000): Integrative Plant Anatomy. Academic Press GREGORY, P.J. (2006): Plant roots: growth, activity and interaction with soils. Oxford  →  DICKINSON,W.C. (2000): Integrative Plant Anatomy. Academic Press
-~ VICENTE, C. y LEGAZ, M. (2000): Fisiología Vegetal Ambiental. Pirámide, Madrid Lymperopoulos P, Msanne J and Rabara R (2018) Phytochrome and Phytohormones  →  VICENTE, C. y LEGAZ, M. (2000): Fisiología Vegetal Ambiental. Pirámide, Madrid
-~ Working in Tandem for Plant Growth and Development. Front. Plant Sci. 9:1037. doi  →  Lymperopoulos P, Msanne J and Rabara R (2018) Phytochrome and Phytohormones: Working in Tandem for Plant Growth and Development. Front. Plant Sci. 9:1037. doi: 10.3389/fpls.2018.01037
-~ Freeman and Company Worth Pub. New York RIDGE, I. (2003): Plants. Hodder and Stoughton. The Open University, London SALISBURY, F.B. y ROSS, C.W. (2000). Fisiología de las plantas (3 volúmenes).Paraninfo, Madrid  →  SALISBURY, F.B. y ROSS, C.W. (2000). Fisiología de las plantas (3 volúmenes).Paraninfo, Madrid
 ~ Kluwer Acad. Pub., Netherlands  →  DAVIES, P.J. (2004): Plant Hormones. Biosynthesis, signal transduction and action. Kluwer Acad. Pub., Netherlands
+~ Freeman and Company Worth Pub. New York RIDGE, I. (2003): Plants. Hodder and Stoughton. The Open University, London SALISBURY, F.B. y ROSS, C.W. (2000). Fisiología de las plantas (3 volúmenes).Paraninfo, Madrid  →  SALISBURY, F.B. y ROSS, C.W. (2000). Fisiología de las plantas (3 volúmenes).Paraninfo, Madrid
+~ Working in Tandem for Plant Growth and Development. Front. Plant Sci. 9:1037. doi  →  Lymperopoulos P, Msanne J and Rabara R (2018) Phytochrome and Phytohormones: Working in Tandem for Plant Growth and Development. Front. Plant Sci. 9:1037. doi: 10.3389/fpls.2018.01037
+~ Springer, OSBORNE, D.J. Y MCMANUS., M.T. (2005): Hormones, signals and target cells in plant development. Cambridge : Cambridge University Press, ORTOLA, A.G. (2000): Apuntes básicos de Fisiología Vegetal. Ed. Universidad Politécnica de Valencia RAVEN, P.H., EVERT, R.F. and EICHHORN, S.E. (1999): Biology of Plants (sixth ed.). W.H  →  ORTOLA, A.G. (2000): Apuntes básicos de Fisiología Vegetal. Ed. Universidad Politécnica de Valencia
+~ VICENTE, C. y LEGAZ, M. (2000): Fisiología Vegetal Ambiental. Pirámide, Madrid Lymperopoulos P, Msanne J and Rabara R (2018) Phytochrome and Phytohormones  →  VICENTE, C. y LEGAZ, M. (2000): Fisiología Vegetal Ambiental. Pirámide, Madrid
 ~ AINSWORTH, C. (ed.) (2006): Flowering and its manipulation. Oxford : Blackwell ARSHAD, M. AND FRANENBERGER, W.T. (2002) Ethylene. Kluwer Ac. Pub  →  ARSHAD, M. AND FRANENBERGER, W.T. (2002) Ethylene. Kluwer Ac. Pub
-~ Springer, OSBORNE, D.J. Y MCMANUS., M.T. (2005): Hormones, signals and target cells in plant development. Cambridge : Cambridge University Press, ORTOLA, A.G. (2000): Apuntes básicos de Fisiología Vegetal. Ed. Universidad Politécnica de Valencia RAVEN, P.H., EVERT, R.F. and EICHHORN, S.E. (1999): Biology of Plants (sixth ed.). W.H  →  OSBORNE, D.J. YMCMANUS.,M.T. (2005): Hormones, signals and target cells in plant development. Cambridge : Cambridge University Press
 ~ 10.3389/fpls.2022.923136 Senescence Signalling and Control in Plants. Edited By Maryam Sarwat, Narendra Tuteja  →  Senescence Signalling and Control in Plants. Edited By Maryam Sarwat, Narendra Tuteja. Elsevier 2019.https://doi.org/10.1016/B978-0-12-813187-9.00016-0
 ~ Academic Press. doi: 10.1016/B978-0-12-381466-1.00026-2  →  Handa, A. K., Tiznado-Hernández, M. E., & Mattoo, A. K. (2012). Fruit development and ripening: a molecular perspective. Plant biotechnology and agriculture (pp. 405-424). Academic Press. doi: 10.1016/B978-0-12-381466-1.00026-2
+~ DICKINSON,W.C. (2000): Integrative Plant Anatomy. Academic Press GREGORY, P.J. (2006): Plant roots: growth, activity and interaction with soils. Oxford  →  GREGORY, P.J. (2006): Plant roots: growth, activity and interaction with soils. Oxford: Blackwell
 
 ✅ Recursos añadidos:
 ------------------------------
 + AINSWORTH, C. (ed.) (2006): Flowering and its manipulation. Oxford : Blackwell
 + BUCHANAN,B.B.; GRUISSEM, W. y JONES,R.L. (2015): Biochemistr & Molecular Biology of Plants. 2º Ed. American Society of Plant Physiologists. Wiley Blacwell
-+ GREGORY, P.J. (2006): Plant roots: growth, activity and interaction with soils. Oxford: Blackwell
++ DICKINSON,W.C. (2000): Integrative Plant Anatomy. Academic Press
 + HOPKINS W.G. y HÜNER, N.P.A. (2009): Introduction of Plant Physiology. John Wiley and Son, USA
-+ ORTOLA, A.G. (2000): Apuntes básicos de Fisiología Vegetal. Ed. Universidad Politécnica de Valencia
++ OSBORNE, D.J. YMCMANUS.,M.T. (2005): Hormones, signals and target cells in plant development. Cambridge : Cambridge University Press
 + RAVEN, P.H., EVERT, R.F. and EICHHORN, S.E. (1999): Biology of Plants (sixth ed.). W.H. Freeman and Company Worth Pub. New York
 + RIDGE, I. (2003): Plants. Hodder and Stoughton. The Open University, London
 

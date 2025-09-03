@@ -16,15 +16,15 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ F2008181Q 2nd Edt. Elsevier, Inc, 2010 (1) L. Snider; Photoshop CS6, the missing manual. O'Reilly, 2013  →  L. Snider; Photoshop CS6, the missing manual. O'Reilly, 2013
-~ M. Golding; Real world Adobe Illustrator CS5 [Recurso electrónico. Edt. Peachpit Press, 2011 (3) F. P. González. InDesign CS6; Anaya Multimedia, 2012  →  F. P. González. InDesign CS6; Anaya Multimedia, 2012
-~ C.Chavez; Real World Adobe® Photoshop® CS5 for Photographers. Edt. Peachpit Press, 2010 (2) F. P. González, J.M. Delgado Cabrera; Illustrator CS6. Anaya Multimedia, 2012  →  F. P. González, J.M. Delgado Cabrera; Illustrator CS6. Anaya Multimedia, 2012
+~ C.Chavez; Real World Adobe® Photoshop® CS5 for Photographers. Edt. Peachpit Press, 2010 (2) F. P. González, J.M. Delgado Cabrera; Illustrator CS6. Anaya Multimedia, 2012  →  C.Chavez; Real World Adobe® Photoshop® CS5 for Photographers. Edt. Peachpit Press, 2010 (2)
+~ M. Golding; Real world Adobe Illustrator CS5 [Recurso electrónico. Edt. Peachpit Press, 2011 (3) F. P. González. InDesign CS6; Anaya Multimedia, 2012  →  M. Golding; Real world Adobe Illustrator CS5 [Recurso electrónico. Edt. Peachpit Press, 2011 (3)
 ~ R.Cusson, J.Cardoso; Realistic architectural visualization with 3ds max and mental ray  →  R.Cusson, J.Cardoso; Realistic architectural visualization with 3ds max and mental ray. 2nd Edt. Elsevier, Inc, 2010 (1)
 
 ✅ Recursos añadidos:
 ------------------------------
-+ C.Chavez; Real World Adobe® Photoshop® CS5 for Photographers. Edt. Peachpit Press, 2010 (2)
++ F. P. González, J.M. Delgado Cabrera; Illustrator CS6. Anaya Multimedia, 2012
++ F. P. González. InDesign CS6; Anaya Multimedia, 2012
 + J. Burger; The Desktop Multimedia Bible. Edt. Addison-Wesley, 1992. Versión castellana: La biblia del multimedia. Edt. Addison-Wesley, 1994
-+ M. Golding; Real world Adobe Illustrator CS5 [Recurso electrónico. Edt. Peachpit Press, 2011 (3)
 + Marschner, S., & Shirley, P. (2018). Fundamentals of computer graphics. CRC Press
 
 📊 Porcentaje estimado de cambio: 88% [████████░░]

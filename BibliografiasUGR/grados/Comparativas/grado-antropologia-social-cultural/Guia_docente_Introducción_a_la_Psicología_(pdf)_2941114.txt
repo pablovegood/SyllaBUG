@@ -27,9 +27,9 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Huici, C. y Morales, J. F. (Dirs.) (2004): Psicología de grupos II. Métodos, técnica y aplicaciones. Madrid: UNED Morales, J.F. (Coord.) (2007). Psicología Social (3ª Ed.). Madrid: McGraw-Hill  →  Morales, J.F. (Coord.) (2007). Psicología Social (3ª Ed.). Madrid: McGraw-Hill
 ~ Myers, D.G. (2004). Exploraciones de la Psicología Social. Madrid: Mc Graw-Hill Olson, J.M. y Stone, J. (2005). The Influence of behaviour on attitudes. En D. Albarracín, B.T. Johnson, y M.P. Zanna (Eds.), The Handbook of Attitudes (pp.223-271). Mahwah, NJ  →  Myers, D.G. (2004). Exploraciones de la Psicología Social. Madrid: Mc Graw-Hill
 ~ Lawrence Erlbaum Associates, Inc  →  Olson, J.M. y Stone, J. (2005). The Influence of behaviour on attitudes. En D. Albarracín, B.T. Johnson, y M.P. Zanna (Eds.), The Handbook of Attitudes (pp.223-271). Mahwah, NJ: Lawrence Erlbaum Associates, Inc
-~ Huici, C. y Morales, J. F. (Dirs.) (2004): Psicología de grupos II. Métodos, técnica y aplicaciones. Madrid: UNED Morales, J.F. (Coord.) (2007). Psicología Social (3ª Ed.). Madrid: McGraw-Hill  →  Huici, C. y Morales, J. F. (Dirs.) (2004): Psicología de grupos II. Métodos, técnica y aplicaciones. Madrid: UNED
 ~ Pinker, S. (1995) El instinto del lenguaje: cómo crea el lenguaje la mente. Alianza Editorial Bloque II Aronson, E. (1978). El animal social. Introducción a la Psicología Social.Madrid, Alianza Expósito, F. y Moya, M. (Coords.) (2005). Aplicando la Psicología Social. Madrid  →  Bloque II
 
 ✅ Recursos añadidos:
@@ -37,7 +37,7 @@ No se eliminaron recursos.
 + Aronson, E. (1978). El animal social. Introducción a la Psicología Social.Madrid, Alianza
 + Bloque I
 + Expósito, F. y Moya, M. (Coords.) (2005). Aplicando la Psicología Social. Madrid: Pirámide
-+ Morales, J.F. (Coord.) (2007). Psicología Social (3ª Ed.). Madrid: McGraw-Hill
++ Huici, C. y Morales, J. F. (Dirs.) (2004): Psicología de grupos II. Métodos, técnica y aplicaciones. Madrid: UNED
 + Pinker, S. (1995) El instinto del lenguaje: cómo crea el lenguaje la mente. Alianza Editorial
 
 📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

@@ -61,16 +61,16 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ CRAI, Universidad Politécnica de Cartagena  →  BLANCAFLORT, J. & REUS, P. (2016): La participación en la construcción de la ciudad. Cartagena: CRAI, Universidad Politécnica de Cartagena
-~ BRANDIS, D., DEL RÍO, I. y MORALES, G. (2016): Estudios de geografía urbana en tiempos de crisis: Territorios inconclusos y sociedades rotas en España. Madrid. Biblioteca Nueva Universidad. Obras de Referencia. 316 pp BRICKER, DARRELL E IBBITSON, J. (2019). El planeta vacío: el shock del declive de la población mundial. Penguin Random House  →  BRICKER, DARRELL E IBBITSON, J. (2019). El planeta vacío: el shock del declive de la población mundial. Penguin Random House
-~ MACARRON LARUMBE, A. (2017). Suicidio demográfico en Occidente y medio mundo: ¿A la catástrofe por la baja natalidad? Editorial: Create Space Independent Publishing Platform MOLINERO, F. y ALARIO, M. (2022): Una mirada geográfica a la España rural. Madrid. Editorial REVIVES  →  MACARRON LARUMBE, A. (2017). Suicidio demográfico en Occidente y medio mundo: ¿A la catástrofe por la baja natalidad? Editorial: Create Space Independent Publishing Platform
-~ Population Reference Bureau  →  HAUPT, ARTHUR Y KANE, THOMAS T. (2001). Manual sobre la población. Washington: Population Reference Bureau
-~ 3. GEOGRAFÍA HUMANA BADAL, M. (2018): Vidas a la intemperie. Nostalgias y prejuicios sobre el mundo campesino  →  3. GEOGRAFÍA HUMANA
-~ Geografía física I. Universidad Nacional de Educación a Distancia  →  AGUILERA ARILLA, M. J. (2009). Orientaciones para la realización de ejercicios prácticos: Geografía física I. Universidad Nacional de Educación a Distancia
-~ Ediciones Nuestro Conocimiento  →  DEHGHAN, S., MARANI-BARZANI, M. Y GHOLAMI, H. (2024) Avances de la geomorfología. Ediciones Nuestro Conocimiento
-~ Santander: Ediciones Universidad de Cantabria  →  REQUES VELASCO, PEDRO (2011). Geodemografía. Fundamentos conceptuales y metodológicos. Santander: Ediciones Universidad de Cantabria
 ~ Logroño: Pepitas de calabaza  →  BADAL, M. (2018): Vidas a la intemperie. Nostalgias y prejuicios sobre el mundo campesino. Logroño: Pepitas de calabaza
+~ 3. GEOGRAFÍA HUMANA BADAL, M. (2018): Vidas a la intemperie. Nostalgias y prejuicios sobre el mundo campesino  →  3. GEOGRAFÍA HUMANA
+~ Ediciones Nuestro Conocimiento  →  DEHGHAN, S., MARANI-BARZANI, M. Y GHOLAMI, H. (2024) Avances de la geomorfología. Ediciones Nuestro Conocimiento
+~ CRAI, Universidad Politécnica de Cartagena  →  BLANCAFLORT, J. & REUS, P. (2016): La participación en la construcción de la ciudad. Cartagena: CRAI, Universidad Politécnica de Cartagena
 ~ 2. GEOGRAFÍA HUMANA BLANCAFLORT, J. & REUS, P. (2016): La participación en la construcción de la ciudad. Cartagena  →  2. GEOGRAFÍA HUMANA
+~ Geografía física I. Universidad Nacional de Educación a Distancia  →  AGUILERA ARILLA, M. J. (2009). Orientaciones para la realización de ejercicios prácticos: Geografía física I. Universidad Nacional de Educación a Distancia
+~ BRANDIS, D., DEL RÍO, I. y MORALES, G. (2016): Estudios de geografía urbana en tiempos de crisis: Territorios inconclusos y sociedades rotas en España. Madrid. Biblioteca Nueva Universidad. Obras de Referencia. 316 pp BRICKER, DARRELL E IBBITSON, J. (2019). El planeta vacío: el shock del declive de la población mundial. Penguin Random House  →  BRANDIS, D., DEL RÍO, I. y MORALES, G. (2016): Estudios de geografía urbana en tiempos de crisis: Territorios inconclusos y sociedades rotas en España. Madrid. Biblioteca Nueva Universidad. Obras de Referencia. 316 pp
+~ Population Reference Bureau  →  HAUPT, ARTHUR Y KANE, THOMAS T. (2001). Manual sobre la población. Washington: Population Reference Bureau
+~ MACARRON LARUMBE, A. (2017). Suicidio demográfico en Occidente y medio mundo: ¿A la catástrofe por la baja natalidad? Editorial: Create Space Independent Publishing Platform MOLINERO, F. y ALARIO, M. (2022): Una mirada geográfica a la España rural. Madrid. Editorial REVIVES  →  MACARRON LARUMBE, A. (2017). Suicidio demográfico en Occidente y medio mundo: ¿A la catástrofe por la baja natalidad? Editorial: Create Space Independent Publishing Platform
+~ Santander: Ediciones Universidad de Cantabria  →  REQUES VELASCO, PEDRO (2011). Geodemografía. Fundamentos conceptuales y metodológicos. Santander: Ediciones Universidad de Cantabria
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -78,7 +78,7 @@
 + 1. GEOGRAFÍA FÍSICA
 + AGUILERA ARILLA, M. J. (1997). Ejercicios prácticos de geografía física. Universidad Nacional de Educación a Distancia
 + AGUILÓ ALONSO, M. (2004). Guía para la elaboración de estudios del medio físico: contenido y metodología. Ministerio de Medio Ambiente
-+ BRANDIS, D., DEL RÍO, I. y MORALES, G. (2016): Estudios de geografía urbana en tiempos de crisis: Territorios inconclusos y sociedades rotas en España. Madrid. Biblioteca Nueva Universidad. Obras de Referencia. 316 pp
++ BRICKER, DARRELL E IBBITSON, J. (2019). El planeta vacío: el shock del declive de la población mundial. Penguin Random House
 + MOLINERO, F. y ALARIO, M. (2022): Una mirada geográfica a la España rural. Madrid. Editorial REVIVES
 
 📊 Porcentaje estimado de cambio: 32% [███░░░░░░░]

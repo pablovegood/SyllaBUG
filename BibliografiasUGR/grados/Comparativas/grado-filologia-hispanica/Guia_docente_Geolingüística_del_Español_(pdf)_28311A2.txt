@@ -10,7 +10,6 @@ No se eliminaron recursos.
 = ALVAR, M. (1973): Estructuralismo, geografía lingüística y dialectología actual, Madrid, Gredos
 = Alvar, M. et al.(1963-1973): Atlas Lingüístico y Etnográfico de Andalucía[ALEA], 6 vols., Granada
 = Atlas linguistique roman (ALiR), M. Contini(dir.), 1996-2001
-= Atlas lingüístico diátopico y diastrático del Uruguay -Norte:(Addu-Norte) (2000)
 = Becerra Hiraldo, J. M.:Lenguas especiales de Andalucía, Granada, Univ. de Granada, 1992
 = COSERIU, E.(1985): “La Geografía lingüística” en El hombre y su lenguaje, Madrid, Gredos
 = Caro Baroja, J. (1993): De etnología andaluza, Málaga, Diputación de Málaga
@@ -26,7 +25,6 @@ No se eliminaron recursos.
 = Lope Blanch, J. M. dir. (1990-1992):Atlas lingüístico de México, México D. F, El Colegio de México
 = Menéndez Pidal, R. (1920): “Sobre geografía folklórica”, RFE 7, pp. 229-338
 = Ortiz García, C. (1994): “Antropología y folklore”, RDTP 49, pp. 49-68
-= Portier, B. (1970): “Le domaine de l’Etnolinguistique”, Language18, 3-11
 = Rohlfs, G. (1966): Lengua y cultura, Madrid, Ed. Alcalá, [incluido en Estudios sobre el léxico románico, Madrid, Gredos]
 = Rosales Solis, Mª A. (2004): Atlas linguistico pluridimensional de Nicaragua(ALN)
 = Sechenda, R. (1994): “Folklore y cultura de masas”, RDTP 49, pp. 25-38
@@ -46,19 +44,21 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ MONDÉJAR, José. “Los atlas lingüísticos del área de iberorrománica (informe crítico), BF NAVARRO T., T. (1975):Capítulos de geografía lingüística de la Península Ibérica MONTES GIRALDO, J. J. (1970): Dialectología y geografía lingüística: notas de orientación, Bogotá, ICC  →  NAVARRO T., T. (1975):Capítulos de geografía lingüística de la Península Ibérica
+~ Portier, B. (1970): “Le domaine de l’Etnolinguistique”, Language18, 3-11 Rodríguez Becerra (ed.): Antropología cultural de Andalucía, Sevilla, Junta de Andalucía, 1984  →  Rodríguez Becerra (ed.): Antropología cultural de Andalucía, Sevilla, Junta de Andalucía, 1984
 ~ Quesada Pacheco, M. A. Atlas Lingüístico de América Central(ALAC) Sánchez Gómez, L. A. (1994): “Etnobotánica”, RDTP 49, pp. 205-222  →  Quesada Pacheco, M. A. Atlas Lingüístico de América Central(ALAC)
-~ Alvar, M. et alii, Estudios de la variación lingüística, Alcalá de Henares  →  ______________ (1990): “El estudio del léxico en los mapas lingüísticos”, en: Alvar, M. et alii, Estudios de la variación lingüística, Alcalá de Henares
+~ Atlas lingüístico diátopico y diastrático del Uruguay -Norte:(Addu-Norte) (2000) García, Constantino y Antón Santamarina (1990-2003): Atlas lingüístico galego, Instituto da Lingua Galega  →  García, Constantino y Antón Santamarina (1990-2003): Atlas lingüístico galego, Instituto da Lingua Galega
+~ Araya, G. (1973):: Atlas lingüístico-etnográfico del sur de Chile(ALESUCH), Valdivia Atlas Linguarum Europae(ALE) :introduction / sous la rédaction de A. Weijnen, rédacteur- en-chief (1975)  →  Atlas Linguarum Europae(ALE) :introduction / sous la rédaction de A. Weijnen, rédacteur-en-chief (1975)
 ~ ________ et al.(1999): Atlas lingüístico de Castilla y León ________ (1991) Atlas lingüístico de Hispanoamérica : cuestionario, Madrid  →  ________ et al.(1999): Atlas lingüístico de Castilla y León
-~ Araya, G. (1973):: Atlas lingüístico-etnográfico del sur de Chile(ALESUCH), Valdivia Atlas Linguarum Europae(ALE) :introduction / sous la rédaction de A. Weijnen, rédacteur- en-chief (1975)  →  Araya, G. (1973):: Atlas lingüístico-etnográfico del sur de Chile(ALESUCH), Valdivia
+~ Alvar, M. et alii, Estudios de la variación lingüística, Alcalá de Henares  →  ______________ (1990): “El estudio del léxico en los mapas lingüísticos”, en: Alvar, M. et alii, Estudios de la variación lingüística, Alcalá de Henares
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Atlas Linguarum Europae(ALE) :introduction / sous la rédaction de A. Weijnen, rédacteur-en-chief (1975)
-+ García, Constantino y Antón Santamarina (1990-2003): Atlas lingüístico galego, Instituto da Lingua Galega
++ Araya, G. (1973):: Atlas lingüístico-etnográfico del sur de Chile(ALESUCH), Valdivia
++ Atlas lingüístico diátopico y diastrático del Uruguay -Norte:(Addu-Norte) (2000)
 + MONDÉJAR, José. “Los atlas lingüísticos del área de iberorrománica (informe crítico), BF
 + MONTES GIRALDO, J. J. (1970): Dialectología y geografía lingüística: notas de orientación, Bogotá, ICC
-+ Rodríguez Becerra (ed.): Antropología cultural de Andalucía, Sevilla, Junta de Andalucía, 1984
++ Portier, B. (1970): “Le domaine de l’Etnolinguistique”, Language18, 3-11
 + Sánchez Gómez, L. A. (1994): “Etnobotánica”, RDTP 49, pp. 205-222
 + ________ (1991) Atlas lingüístico de Hispanoamérica : cuestionario, Madrid
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

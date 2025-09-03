@@ -13,10 +13,10 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ F. Durán, F. Gutiérrez, E. Pimentel. Programación orientada a objetos con Java. Thomson  →  F. Durán, F. Gutiérrez, E. Pimentel. Programación orientada a objetos con Java. Thomson. 2007
-~ J. Rumbaugh, I. Jacobson, G. Booch. The Unified Modeling Language Reference Manual  →  J. Rumbaugh, I. Jacobson, G. Booch. The Unified Modeling Language Reference Manual. Addison-Wesley. 2004
 ~ I. Zahonero, L. Joyanes Aguilar. Programación en C, C++, JAVA y UML. MacGraw-Hill  →  I. Zahonero, L. Joyanes Aguilar. Programación en C, C++, JAVA y UML. MacGraw-Hill. 2015
+~ F. Durán, F. Gutiérrez, E. Pimentel. Programación orientada a objetos con Java. Thomson  →  F. Durán, F. Gutiérrez, E. Pimentel. Programación orientada a objetos con Java. Thomson. 2007
 ~ G. Booch, R. Maksimchuk, M. Engle, B. Young, J. Conallen, K. Houston. Object-oriented Book Program). 2007  →  G. Booch, R. Maksimchuk, M. Engle, B. Young, J. Conallen, K. Houston. Object-oriented analysis and design with applications, 3ª ed. Addison-Wesley Professional (ACM Online Book Program). 2007
+~ J. Rumbaugh, I. Jacobson, G. Booch. The Unified Modeling Language Reference Manual  →  J. Rumbaugh, I. Jacobson, G. Booch. The Unified Modeling Language Reference Manual. Addison-Wesley. 2004
 
 ✅ Recursos añadidos:
 ------------------------------

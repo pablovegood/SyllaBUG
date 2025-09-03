@@ -17,7 +17,6 @@ No se eliminaron recursos.
 = MUÑOZ MACHADO, S.,Tratado de Derecho Administrativo y Derecho Público general, 4 tomos, Iustel, Madrid, (última edición)
 = PARADA VÁZQUEZ, R.,Derecho Administrativo I, II y III, Marcial Pons, Madrid, (última edición)
 = PAREJO ALFONSO, L.,Lecciones de Derecho administrativo, Tirant lo Blanch, (última edición)
-= SANTAMARÍA PASTOR, J.A.,Los Principios Jurídicos del Derecho Administrativo, La Ley, Madrid, (última edición)
 = SÁNCHEZ MORÓN, M.,Derecho administrativo, Tecnos, Madrid, (última edición)
 
 🔁 Misma obra con edición/año distinto:
@@ -28,5 +27,6 @@ No hubo cambios de edición/año.
 ------------------------------
 + GALLARDO CASTILLO, Mª J.,Casos prácticos de derecho administrativo adaptados al EEES, Ed. La Ley, (última edición)
 + MARTÍN REBOLLO, L.,Leyes administrativas, Ed. Thomson Aranzadi, (última edición)
++ SANTAMARÍA PASTOR, J.A.,Los Principios Jurídicos del Derecho Administrativo, La Ley, Madrid, (última edición)
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

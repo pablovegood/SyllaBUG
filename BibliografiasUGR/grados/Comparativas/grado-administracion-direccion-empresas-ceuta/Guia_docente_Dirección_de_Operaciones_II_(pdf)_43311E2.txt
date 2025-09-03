@@ -7,6 +7,7 @@
 
 📚 Recursos sin cambios:
 ------------------------------
+= ARIAS ARANDA D., MIGUELA RATA, B. Dirección de la producción y operaciones: Decisiones tácticas. Editorial Pirámide. 2018
 = CHASE, R.; JACOBS, F.R. Administración de operaciones: Producción y cadena de suministro. 13Ed. McGraw–Hill, 2014
 = DOMÍNGUEZ MACHUCA, J. A.; GARCÍA GONZÁLEZ, S.; DOMÍNGUEZ MACHUCA, M.A.; RUÍZ JIMÉNEZ, A.; ALVAREZ GIL, Mª. J. Dirección de operaciones: Aspectos estratégicos en la producción y en los servicios. McGraw Hill. Madrid. 2001
 = DOMÍNGUEZ MACHUCA, J. A.; GARCÍA GONZÁLEZ, S.; DOMÍNGUEZ MACHUCA, M.A.; RUÍZ JIMÉNEZ, A.; ALVAREZ GIL, Mª. J. Dirección de operaciones: Aspectos tácticos y operativos en la producción y en los servicios. McGraw Hill. Madrid. 2003
@@ -24,17 +25,16 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Routledge. New York, 2013  →  BROWN, S.; BESSANT, J.; LAMMING, R. Strategic operations management. 3Ed. Routledge. New York, 2013
-~ Decisiones estratégicas. Editorial Pirámide. 2018  →  ARIAS ARANDA D., MIGUELA RATA, B. Decisiones estratégicas de la dirección de la producción y operaciones. Editorial Pirámide. 2024
-~ ARIAS ARANDA D., MIGUELA RATA, B. Dirección de la producción y operaciones  →  ARIAS ARANDA D., MIGUELA RATA, B. Dirección de la producción y operaciones: Decisiones tácticas. Editorial Pirámide. 2018
-~ DOMÍNGUEZ MACHUCA, J. A.; GARCÍA GONZÁLEZ, S.; DOMÍNGUEZ MACHUCA, M.A  →  DOMÍNGUEZ MACHUCA, J. A.; GARCÍA GONZÁLEZ, S.; DOMÍNGUEZ MACHUCA, M.A.; RUÍZ JIMÉNEZ, A.; ALVAREZ GIL, Mª. J. Dirección de operaciones: Aspectos estratégicos en la producción y en los servicios. McGraw Hill. Madrid. 2001
-~ FERNÁNDEZ SÁNCHEZ, E.; AVELLA CAMARERO, L.; FERNÁNDEZ BARCALA, M  →  FERNÁNDEZ SÁNCHEZ, E.; AVELLA CAMARERO, L.; FERNÁNDEZ BARCALA, M. Administración de la producción. Enfoque estratégico. Pirámide. 2020
-~ Decisiones tácticas. Editorial Pirámide. 2018  →  ARIAS ARANDA D., MIGUELA RATA, B. Decisiones tácticas y operativas de la dirección de la producción y las operaciones. Editorial Pirámide. 2025
 ~ KRAJEWSKI, L.; RITZMAN, L. Administración de operaciones. Pearson Prentice Hall  →  KRAJEWSKI, L.; RITZMAN, L. Administración de operaciones. Pearson Prentice Hall. Madrid, 2004
+~ Decisiones estratégicas. Editorial Pirámide. 2018  →  ARIAS ARANDA D., MIGUELA RATA, B. Decisiones estratégicas de la dirección de la producción y operaciones. Editorial Pirámide. 2024
+~ Routledge. New York, 2013  →  BROWN, S.; BESSANT, J.; LAMMING, R. Strategic operations management. 3Ed. Routledge. New York, 2013
+~ FERNÁNDEZ SÁNCHEZ, E.; AVELLA CAMARERO, L.; FERNÁNDEZ BARCALA, M  →  FERNÁNDEZ SÁNCHEZ, E.; AVELLA CAMARERO, L.; FERNÁNDEZ BARCALA, M. Administración de la producción. Enfoque estratégico. Pirámide. 2020
+~ ARIAS ARANDA D., MIGUELA RATA, B. Dirección de la producción y operaciones  →  ARIAS ARANDA D., MIGUELA RATA, B. Dirección de la producción y operaciones: Decisiones tácticas. Editorial Pirámide. 2018
 ~ BROWN, S.; BESSANT, J.; LAMMING, R. Strategic operations management. 3Ed  →  BROWN, S.; BESSANT, J.; LAMMING, R. Strategic operations management. 3Ed. Routledge. New York, 2013
+~ DOMÍNGUEZ MACHUCA, J. A.; GARCÍA GONZÁLEZ, S.; DOMÍNGUEZ MACHUCA, M.A  →  DOMÍNGUEZ MACHUCA, J. A.; GARCÍA GONZÁLEZ, S.; DOMÍNGUEZ MACHUCA, M.A.; RUÍZ JIMÉNEZ, A.; ALVAREZ GIL, Mª. J. Dirección de operaciones: Aspectos estratégicos en la producción y en los servicios. McGraw Hill. Madrid. 2001
 
 ✅ Recursos añadidos:
 ------------------------------
-No se añadieron recursos.
++ ARIAS ARANDA D., MIGUELA RATA, B. Decisiones tácticas y operativas de la dirección de la producción y las operaciones. Editorial Pirámide. 2025
 
 📊 Porcentaje estimado de cambio: 39% [███░░░░░░░]

@@ -25,20 +25,20 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ *Rodríguez Pérez, D. et al. (2015): Cuestiones de teledetección. Universidad Nacional de Ruíz Fernández, L.A. (2003): Prácticas de Teledetección (Idrisi, Erdas, Envi). Universidad Politécnica de Valencia, Valencia  →  Ruíz Fernández, L.A. (2003): Prácticas de Teledetección (Idrisi, Erdas, Envi). Universidad Politécnica de Valencia, Valencia
-~ *Santos Preciado, J.M. y Cocero Matesanz, D. (2019): Los SIG raster en el campo medioambiental *Warner. T.A. and Campagna, D.J. (2009): Remote Sensing with IDRISI Taiga. A Beginner’s Guide.Geocarto International Centre, Hong Kong  →  *Warner. T.A. and Campagna, D.J. (2009): Remote Sensing with IDRISI Taiga. A Beginner’s Guide.Geocarto International Centre, Hong Kong
-~ *González Pavón, C. (2024): Introducción a QGIS [1ª edición]. Valencia: Tirant lo Blanch, 2024 Martínez Delgado, S. (2019): Introducción a Quantum GIS (QGIS): aplicaciones en ingeniería civil y territorial. Garceta  →  Martínez Delgado, S. (2019): Introducción a Quantum GIS (QGIS): aplicaciones en ingeniería civil y territorial. Garceta
 ~ Pardo Igúzquiza, E. (2022): Satélites artificiales y cambio climático : Una visión global del *Quirós Hernández, M. (2011): Tecnologías de la información geográfica (TIG), cartografía, fotointerpretación y SIG. Ediciones Universidad de Salamanca  →  *Quirós Hernández, M. (2011): Tecnologías de la información geográfica (TIG), cartografía, fotointerpretación y SIG. Ediciones Universidad de Salamanca
+~ *Rodríguez Pérez, D. et al. (2015): Cuestiones de teledetección. Universidad Nacional de Ruíz Fernández, L.A. (2003): Prácticas de Teledetección (Idrisi, Erdas, Envi). Universidad Politécnica de Valencia, Valencia  →  Ruíz Fernández, L.A. (2003): Prácticas de Teledetección (Idrisi, Erdas, Envi). Universidad Politécnica de Valencia, Valencia
+~ *González Pavón, C. (2024): Introducción a QGIS [1ª edición]. Valencia: Tirant lo Blanch, 2024 Martínez Delgado, S. (2019): Introducción a Quantum GIS (QGIS): aplicaciones en ingeniería civil y territorial. Garceta  →  *González Pavón, C. (2024):Introducción a QGIS[1ª edición]. Valencia: Tirant lo Blanch, 2024
+~ *Santos Preciado, J.M. y Cocero Matesanz, D. (2019): Los SIG raster en el campo medioambiental *Warner. T.A. and Campagna, D.J. (2009): Remote Sensing with IDRISI Taiga. A Beginner’s Guide.Geocarto International Centre, Hong Kong  →  *Warner. T.A. and Campagna, D.J. (2009): Remote Sensing with IDRISI Taiga. A Beginner’s Guide.Geocarto International Centre, Hong Kong
 
 ✅ Recursos añadidos:
 ------------------------------
-+ *González Pavón, C. (2024):Introducción a QGIS[1ª edición]. Valencia: Tirant lo Blanch, 2024
 + *Olaya, V. Disponible online:http://volaya.github.io/libro-sig/index.html
 + *Rodríguez Pérez, D. et al. (2015): Cuestiones de teledetección. Universidad Nacional de Educación a Distancia. Disponible online:https://elibro.net/es/ereader/ugr/48836
 + *Santos Preciado, J.M. y Cocero Matesanz, D. (2019): Los SIG raster en el campo medioambiental y territorial. Ejercicios prácticos con Idrisi y Miramón. UNED
 + Guo, H., Goodchild, M., & Annoni, A. (2020): Manual of Digital Earth (1st ed. 2020.). Springer Singapore. Disponible online:https://doi.org/10.1007/978-981-32-9915-3
 + Gómez Delgado, M. y Barredo Cano, J.I. (2005): Sistemas de Información Geográfica y evaluación multicriterio. Madrid, Ra-Ma
 + Kumar, P. (2021): Remote sensing and GIScience: challenges and future directions (1st ed. 2021.). Springer. Disponible online:https://doi.org/10.1007/978-3-030-55092-9
++ Martínez Delgado, S. (2019): Introducción a Quantum GIS (QGIS): aplicaciones en ingeniería civil y territorial. Garceta
 + Moya Fuero, A., & Temes Cordovez, R. (2020): SIG revolution : ordenación del territorio, urbanismo y paisaje. Síntesis
 + Ortega Pérez, E. (2016): Sistemas de información geográficia : teoría y práctica . Dextra
 + Pardo Igúzquiza, E. (2022):Satélites artificiales y cambio climático : Una visión global del complejo sistema climático desde el espacio.Sevilla: Punto Rojo Libros, 2022

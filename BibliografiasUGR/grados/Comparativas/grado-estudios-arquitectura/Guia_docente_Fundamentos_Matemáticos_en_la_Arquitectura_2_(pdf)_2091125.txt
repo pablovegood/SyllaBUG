@@ -20,19 +20,19 @@
 = López, A. y De la Villa, A. Geometría diferencial. Ed. CLAGSA. Madrid, 1997
 = Merino, L. y Santos, E. Álgebra lineal con métodos elementales. Ed. Thomson. Madrid, 2007
 = Quesada, J. J. Ecuaciones Diferenciales, Análisis Numérico y Métodos Matemáticos. Ed. Santa Rita. Granada, 1996
+= Ramírez, V.; González, P.; Pasadas, M. y Barrera, D. Matemáticas con Mathematica. Ed. Proyecto Sur. Granada, 1997
 = Zill, D. G. Ecuaciones diferenciales con aplicaciones de modelado. Ed. Thomson. México, 2007
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Ramírez, V.; González, P.; Pasadas, M. y Barrera, D. Matemáticas con Mathematica. Ed  →  Ramírez, V.; González, P.; Pasadas, M. y Barrera, D. Matemáticas con Mathematica. Ed. Proyecto Sur. Granada, 1997
-~ Alsina, C. y Trillas, E. Lecciones de Álgebra y Geometría. Editorial Gustavo Gili, S. A  →  Alsina, C. y Trillas, E. Lecciones de Álgebra y Geometría. Editorial Gustavo Gili, S. A. Barcelona, 1984
 ~ Tomeo, V., Uña, I. y San Martín, J. Problemas resueltos de cálculo en varias variables. Ed  →  Tomeo, V., Uña, I. y San Martín, J. Problemas resueltos de cálculo en varias variables. Ed. Thomson. Madrid, 2008
-~ Tomeo, V., Uña, I. y San Martín, J. Problemas resueltos de cálculo en una variable. Ed  →  Tomeo, V., Uña, I. y San Martín, J. Problemas resueltos de cálculo en una variable. Ed. Thomson. Madrid, 2005
-~ Castellano, J.; Gámez, D.; Garralda. A. I. y Ruiz, M. Matemáticas para la Arquitectura (II)  →  Castellano, J.; Gámez, D.; Garralda. A. I. y Ruiz, M. Matemáticas para la Arquitectura (II). Proyecto Sur de Ediciones. Granada, 2000
-~ Quesada, J. J. Ecuaciones Diferenciales, Análisis Numérico y Métodos Matemáticos. Ed  →  Quesada, J. J. Ecuaciones Diferenciales, Análisis Numérico y Métodos Matemáticos. Ed. Santa Rita. Granada, 1996
-~ Nortes, A. Estadística teórica y aplicada. Promociones y Publicaciones Universitarias  →  Nortes, A. Estadística teórica y aplicada. Promociones y Publicaciones Universitarias. Barcelona, 1993
+~ Ramírez, V.; González, P.; Pasadas, M. y Barrera, D. Matemáticas con Mathematica. Ed  →  Ramírez, V.; González, P.; Pasadas, M. y Barrera, D. Matemáticas con Mathematica. Ed. Proyecto Sur. Granada, 1997
 ~ Lastra Sedano, A. Geometría de curvas y superficies con aplicaciones en arquitectura. Ed  →  Lastra Sedano, A. Geometría de curvas y superficies con aplicaciones en arquitectura. Ed. Paraninfo, 2015
-~ Proyecto Sur. Granada, 1997  →  Castellano, J.; Gámez, D.; Garralda. A. I. y Ruiz, M. Matemáticas para la Arquitectura (II). Proyecto Sur de Ediciones. Granada, 2000
+~ Tomeo, V., Uña, I. y San Martín, J. Problemas resueltos de cálculo en una variable. Ed  →  Tomeo, V., Uña, I. y San Martín, J. Problemas resueltos de cálculo en una variable. Ed. Thomson. Madrid, 2005
+~ Nortes, A. Estadística teórica y aplicada. Promociones y Publicaciones Universitarias  →  Nortes, A. Estadística teórica y aplicada. Promociones y Publicaciones Universitarias. Barcelona, 1993
+~ Quesada, J. J. Ecuaciones Diferenciales, Análisis Numérico y Métodos Matemáticos. Ed  →  Quesada, J. J. Ecuaciones Diferenciales, Análisis Numérico y Métodos Matemáticos. Ed. Santa Rita. Granada, 1996
+~ Alsina, C. y Trillas, E. Lecciones de Álgebra y Geometría. Editorial Gustavo Gili, S. A  →  Alsina, C. y Trillas, E. Lecciones de Álgebra y Geometría. Editorial Gustavo Gili, S. A. Barcelona, 1984
+~ Castellano, J.; Gámez, D.; Garralda. A. I. y Ruiz, M. Matemáticas para la Arquitectura (II)  →  Castellano, J.; Gámez, D.; Garralda. A. I. y Ruiz, M. Matemáticas para la Arquitectura (II). Proyecto Sur de Ediciones. Granada, 2000
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -40,4 +40,4 @@
 + Bradley, G. y Smith, K. Cálculo de varias variables (Volumen 2). Prentice Hall Iberia Ed. Madrid, 1998
 + Morera, J. L. Cónicas y cuádricas: curso teórico-práctico. Universidad Politécnica de Valencia. Valencia, 1998
 
-📊 Porcentaje estimado de cambio: 75% [███████░░░]
+📊 Porcentaje estimado de cambio: 70% [███████░░░]

@@ -11,7 +11,6 @@ No se eliminaron recursos.
 = Beltrán Moner, Rafael. Ambientación musical: selección, montaje y sonorización. Madrid: Centro de Formación RTVE, 1991
 = Chion, Michel. La audiovisión: introducción a un análisis conjunto de la imagen y el sonido. Barcelona: Paidos, 2008
 = Chion, Michel. La música en el cine. Barcelona: Paidós, 1997
-= Cook, Nicholas. De Madonna al canto gregoriano: una muy breve introducción a la música. Madrid: Alianza, 2001
 = Gertrudix, M. Música y narración en los medios audiovisuales. Madrid: Ed. Laberinto, 2003
 = González Martínez, Juan Miguel. El sentido en la obra musical y literaria: aproximación semiótica. Murcia, Universidad de Murcia 1999
 = Pareja, E. Tecnología actual de Televisión. Madrid: RTVE, 2005
@@ -21,26 +20,27 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Rose. Jay. Producing great sound for Film and Video. Amsterdam: Elsevier, 2008 Santacreu Fernández, Óscar Antonio. La música en la publicidad. Alicante: biblioteca virtual Miguel de Cervantes, 2003  →  Rose. Jay. Producing great sound for Film and Video. Amsterdam: Elsevier, 2008
-~ Paraninfo, 2005 Delgado, M. Sistemas de Radio y TV. Madrid: Paraninfo, 2001  →  Delgado, M. Sistemas de Radio y TV. Madrid: Paraninfo, 2001
-~ Barcelona: Paidós, 2007 Larriba, Miguel Ángel. Sonorización. Ciudad Real: Ñaque, 1998  →  Larriba, Miguel Ángel. Sonorización. Ciudad Real: Ñaque, 1998
-~ Beltrán Moner, Rafael. Ambientación musical: selección, montaje y sonorización  →  Beltrán Moner, Rafael. Ambientación musical: selección, montaje y sonorización. Madrid: Centro de Formación RTVE, 1991
-~ Comunicación activa, 2012 Jullier, Laurent. El sonido en el cine: imagen y sonido un matrimonio de conveniencia  →  Jullier, Laurent. El sonido en el cine: imagen y sonido un matrimonio de conveniencia. Barcelona: Paidós, 2007
-~ Ávila Espada, Alejandro. El doblaje. Madrid: Cátedra, 1997 Balsebre, Beltrán. El lenguaje radiofónico. Madrid: Cátedra, 1994  →  Balsebre, Beltrán. El lenguaje radiofónico. Madrid: Cátedra, 1994
 ~ Amorós, Andrés y Díez Borque, José M. (Coord.) Historia de los espectáculos en España  →  Amorós, Andrés y Díez Borque, José M. (Coord.) Historia de los espectáculos en España. Madrid: Castalia, 1999
-~ Goodwin, Andrew. Dancing in the distraction factory: music televisión and popular culture. Minneapolis: University of Minnesota Press, 1992 Guarinos Galán, Virginia (edit). Manual de narrativa radiofónica. Madrid: Síntesis, 2009 Gustems Carnicer, (coord.). Música y sonido en los audiovisuales. Barcelona  →  Goodwin, Andrew. Dancing in the distraction factory: music televisión and popular culture. Minneapolis: University of Minnesota Press, 1992
+~ Barcelona: Paidós, 2007 Larriba, Miguel Ángel. Sonorización. Ciudad Real: Ñaque, 1998  →  Larriba, Miguel Ángel. Sonorización. Ciudad Real: Ñaque, 1998
+~ Rose. Jay. Producing great sound for Film and Video. Amsterdam: Elsevier, 2008 Santacreu Fernández, Óscar Antonio. La música en la publicidad. Alicante: biblioteca virtual Miguel de Cervantes, 2003  →  Santacreu Fernández, Óscar Antonio. La música en la publicidad. Alicante: biblioteca virtual Miguel de Cervantes, 2003
+~ Ávila Espada, Alejandro. El doblaje. Madrid: Cátedra, 1997 Balsebre, Beltrán. El lenguaje radiofónico. Madrid: Cátedra, 1994  →  Balsebre, Beltrán. El lenguaje radiofónico. Madrid: Cátedra, 1994
+~ Goodwin, Andrew. Dancing in the distraction factory: music televisión and popular culture. Minneapolis: University of Minnesota Press, 1992 Guarinos Galán, Virginia (edit). Manual de narrativa radiofónica. Madrid: Síntesis, 2009 Gustems Carnicer, (coord.). Música y sonido en los audiovisuales. Barcelona  →  Guarinos Galán, Virginia (edit). Manual de narrativa radiofónica. Madrid: Síntesis, 2009
+~ Cook, Nicholas. De Madonna al canto gregoriano: una muy breve introducción a la música. Madrid: Alianza, 2001 Cuenca David, Ignasi y Gómez Juan, Eduard. Tecnología básica del sonido. Madrid  →  Cuenca David, Ignasi y Gómez Juan, Eduard. Tecnología básica del sonido. Madrid: Paraninfo, 2005
+~ Comunicación activa, 2012 Jullier, Laurent. El sonido en el cine: imagen y sonido un matrimonio de conveniencia  →  Jullier, Laurent. El sonido en el cine: imagen y sonido un matrimonio de conveniencia. Barcelona: Paidós, 2007
+~ Paraninfo, 2005 Delgado, M. Sistemas de Radio y TV. Madrid: Paraninfo, 2001  →  Delgado, M. Sistemas de Radio y TV. Madrid: Paraninfo, 2001
+~ Beltrán Moner, Rafael. Ambientación musical: selección, montaje y sonorización  →  Beltrán Moner, Rafael. Ambientación musical: selección, montaje y sonorización. Madrid: Centro de Formación RTVE, 1991
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Cuenca David, Ignasi y Gómez Juan, Eduard. Tecnología básica del sonido. Madrid: Paraninfo, 2005
++ Cook, Nicholas. De Madonna al canto gregoriano: una muy breve introducción a la música. Madrid: Alianza, 2001
 + Digón, Albert y Ferrer, Josep. Configuración y ajustes de sistema de sonido.Tarragona: Editorial Altaria, 2015
 + Digón, Albert, Suárez, N Control de sonido en directo
 + Digón, Albert., Suárez, Nico y Martín, Daniel. Control de sonido en directo. Tarragona: Altaria, 2016
-+ Guarinos Galán, Virginia (edit). Manual de narrativa radiofónica. Madrid: Síntesis, 2009
++ Goodwin, Andrew. Dancing in the distraction factory: music televisión and popular culture. Minneapolis: University of Minnesota Press, 1992
 + Gustems Carnicer, (coord.). Música y sonido en los audiovisuales. Barcelona: Comunicación activa, 2012
 + Gómez, Alejandro, Morales, Francesc y Molero, José Luis. Grabación en estudio: preparación y técnicas. Tarragona: Altaria, 2021
 + Romera, José (ed.). Teatro y música en los inicios del siglo XXI. Madrid: Editorial Verbum, 2016
-+ Santacreu Fernández, Óscar Antonio. La música en la publicidad. Alicante: biblioteca virtual Miguel de Cervantes, 2003
++ Rose. Jay. Producing great sound for Film and Video. Amsterdam: Elsevier, 2008
 + Yewdall, David Lewis. Uso práctico del sonido en el cine. Amsterdam: Elsevier, 2008
 + Ávila Espada, Alejandro. El doblaje. Madrid: Cátedra, 1997
 

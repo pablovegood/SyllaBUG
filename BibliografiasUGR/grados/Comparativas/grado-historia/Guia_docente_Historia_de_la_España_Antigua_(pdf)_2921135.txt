@@ -17,6 +17,7 @@ No se eliminaron recursos.
 = ARANEGUI, C., Damas y caballeros en la ciudad ibérica: las cerámicas decoradas de Llíria (Valencia), Madrid, Cátedra, 1997
 = ARCE, J. et al., Hispania romana, Madrid, Electa, 1997
 = BARCELÓ, P. y FERRER MAESTRO, J. J., Historia de la Hispania romana, Madrid, Alianza editorial, 2007
+= BELTRÁN LLORIS, F. y MARCO SIMÓN, F., Atlas de Historia Antigua, Zaragoza, Pórtico, 1987
 = BENDALA GALÁN, M., Introducción al arte español. La Antigüedad: de la Prehistoria a los visigodos, Madrid, Sílex, 2004
 = BLÁZQUEZ , J. M. et. al., Historia de España dirigida por D. Ramón Menéndez Pidal, vols. II, 1 y II 2, Madrid, Espasa Calpe, 1982
 = BLÁZQUEZ MARTÍNEZ, J. M., Los pueblos de España y el Mediterráneo en la Antigüedad. Estudios de Arqueología, Historia y Arte, Madrid, Cátedra, 2000
@@ -27,6 +28,7 @@ No se eliminaron recursos.
 = CADIOU, F., Hibera in terra miles: les armées romaines et la conquête de l’Hispanie sous la République (218-45 av. J. C.), Madrid, Casa de Velázquez, 2008
 = CASTILLO MALDONADO, P., Los mártires hispanorromanos y su culto en la Hispania de la Antigüedad Tardía, Granada, Universidad de Granada, 1999
 = CASTILLO, C., NAVARRO, F. J. y MARTÍNEZ, R. (eds.), De Augusto a Trajano. Un siglo en la Historia de Hispania, Pamplona, EUNSA, 2001
+= CIL = Corpus Inscriptionum Latinarum (las inscripciones de Hispania están recogidas en el Volumen II (1869) y su suplemento (1892). Actualmente se encuentra en proceso de elaboración una segunda edición de la que se han publicado los fascículos V (Conventus Astigitanus), VII (Conventus Cordubensis), XIII.1 (Conventus Carthaginiensis) y XIV.1-4 (Conventus Tarraconensis)
 = CORZO SÁNCHEZ, R. y TOSCANO SAN GIL, M., Las vías romanas de Andalucía, Sevilla, Junta de Andalucía, 1992
 = CRUZ ANDREOTTI, G. y MORA SERRANO, B. (coords.), Identidades étnicas- identidades políticas en el mundo prerromano hispano, Málaga, Universidad de Málaga, 2004
 = Colecciones de ediciones críticas: Teubner (Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana), Loeb (Loeb Classical Library, con traducción al inglés) y Les Belles Lettres (con traducción al francés)
@@ -102,30 +104,28 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ 3. Atlas geográficos e históricos BELTRÁN LLORIS, F. y MARCO SIMÓN, F., Atlas de Historia Antigua, Zaragoza, Pórtico, 1987  →  3. Atlas geográficos e históricos
-~ 6. Epigrafía a) Inscripciones fenicias FUENTES ESTAÑOL, J. M., Corpus de las inscripciones fenicias, púnicas y neopúnicas de España, Barcelona, 1986. b) Inscripciones griegas DE HOZ, Mª. P., Inscripciones griegas de España y Portugal, Madrid, Real Academia de la Historia, 2014. c) Inscripciones paleohispánicas UNTERMANN, J., Monumenta Linguarum Hispanicarum, Wiesbaden, 1975-1997  →  FUENTES ESTAÑOL, J. M., Corpus de las inscripciones fenicias, púnicas y neopúnicas de España, Barcelona, 1986
-~ AA. VV. Historia de España. Vol. II, Colonizaciones y formación de los pueblos prerromanos. Vol  →  AA. VV. Historia de España. Vol. II, Colonizaciones y formación de los pueblos prerromanos. Vol. III, Hispania romana, Madrid, Gredos, 1989
-~ MARÍN DÍAZ, Mª. A., Emigración, colonización y municipalización en la Hispania republicana, Granada, Universidad de Granada, 1988. municipal, Córdoba, Instituto de Historia de Andalucía, 1994  →  MARÍN DÍAZ, Mª. A., Emigración, colonización y municipalización en la Hispania republicana, Granada, Universidad de Granada, 1988
-~ Banco de Datos Hesperia: http://hesperia.ucm.es/ d) Inscripciones latinas CIL = Corpus Inscriptionum Latinarum (las inscripciones de Hispania están recogidas en el Volumen II (1869) y su suplemento (1892). Actualmente se encuentra en proceso de elaboración una segunda edición de la que se han publicado los fascículos V (Conventus Astigitanus), VII (Conventus Cordubensis), XIII.1 (Conventus Carthaginiensis) y XIV.1-4 (Conventus Tarraconensis)  →  Banco de Datos Hesperia: http://hesperia.ucm.es/
+~ 6. Epigrafía a) Inscripciones fenicias FUENTES ESTAÑOL, J. M., Corpus de las inscripciones fenicias, púnicas y neopúnicas de España, Barcelona, 1986. b) Inscripciones griegas DE HOZ, Mª. P., Inscripciones griegas de España y Portugal, Madrid, Real Academia de la Historia, 2014. c) Inscripciones paleohispánicas UNTERMANN, J., Monumenta Linguarum Hispanicarum, Wiesbaden, 1975-1997  →  c) Inscripciones paleohispánicas
 ~ 5. Fuentes literarias griegas y romanas FHA = Fontes Hispaniae Antiquae I-VII. Publicados entre 1922-1987  →  5. Fuentes literarias griegas y romanas
+~ MARÍN DÍAZ, Mª. A., Emigración, colonización y municipalización en la Hispania republicana, Granada, Universidad de Granada, 1988. municipal, Córdoba, Instituto de Historia de Andalucía, 1994  →  MARÍN DÍAZ, Mª. A., Emigración, colonización y municipalización en la Hispania republicana, Granada, Universidad de Granada, 1988
+~ AA. VV. Historia de España. Vol. II, Colonizaciones y formación de los pueblos prerromanos. Vol  →  AA. VV. Historia de España. Vol. II, Colonizaciones y formación de los pueblos prerromanos. Vol. III, Hispania romana, Madrid, Gredos, 1989
 
 ✅ Recursos añadidos:
 ------------------------------
++ 3. Atlas geográficos e históricos
 + 4. Diccionarios y enciclopedias
 + 6. Epigrafía
 + 7. Numismática
-+ BELTRÁN LLORIS, F. y MARCO SIMÓN, F., Atlas de Historia Antigua, Zaragoza, Pórtico, 1987
-+ CIL = Corpus Inscriptionum Latinarum (las inscripciones de Hispania están recogidas en el Volumen II (1869) y su suplemento (1892). Actualmente se encuentra en proceso de elaboración una segunda edición de la que se han publicado los fascículos V (Conventus Astigitanus), VII (Conventus Cordubensis), XIII.1 (Conventus Carthaginiensis) y XIV.1-4 (Conventus Tarraconensis)
++ Banco de Datos Hesperia: http://hesperia.ucm.es/
 + DE HOZ, Mª. P., Inscripciones griegas de España y Portugal, Madrid, Real Academia de la Historia, 2014
 + FERNÁNDEZ UBIÑA, J., QUIROGA PUERTAS, A. J., y UBRIC RABANEDA, P. (eds.), La Iglesia como sistema de dominación en la Antigüedad Tardía, Granada, Universidad de Granada, 2015
 + FHA = Fontes Hispaniae Antiquae I-VII. Publicados entre 1922-1987
++ FUENTES ESTAÑOL, J. M., Corpus de las inscripciones fenicias, púnicas y neopúnicas de España, Barcelona, 1986
 + HIDALGO PRIETO, R. (coord.), Las villas romanas de la Bética, Sevilla, Universidad de Sevilla, 2016
 + MELCHOR GIL, E., El mecenazgo cívico en la Bética. La contribución de los evergetas a la vida municipal, Córdoba, Instituto de Historia de Andalucía, 1994
 + Moneda ibérica: https://monedaiberica.org/
 + UNTERMANN, J., Monumenta Linguarum Hispanicarum, Wiesbaden, 1975-1997
 + a) Inscripciones fenicias
 + b) Inscripciones griegas
-+ c) Inscripciones paleohispánicas
 + d) Inscripciones latinas
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

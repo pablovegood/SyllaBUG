@@ -28,12 +28,12 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ 10.1080/08982112.2010.481485  →  Hoerl R.W., y Snee, R. (2010). "Statistical Thinking and Methods in Quality Improvement: A Look to the Future". Quality Engineering, 22(3), 119-129, DOI: 10.1080/08982112.2010.481485
-~ Rohatgi, V.K., y Ehsanes Saleh, A,K. Md. (2015). An Introduction to Probability and Stephens, Larry J. y Spiegel, Murray R. (2020). Estadística. 6ª edición. Madrid: McGraw Hill. ISBN: 9786071514639  →  Stephens, Larry J. y Spiegel, Murray R. (2020). Estadística. 6ª edición. Madrid: McGraw Hill. ISBN: 9786071514639
-~ Amsterdam: Academic Press  →  Jarvis, B. (2016). Statistical Aspects of the Microbiological Examination of Foods (3ª Ed.). Amsterdam: Academic Press
 ~ A Look to the Future". Quality Engineering, 22(3), 119-129, DOI  →  Hoerl R.W., y Snee, R. (2010). "Statistical Thinking and Methods in Quality Improvement: A Look to the Future". Quality Engineering, 22(3), 119-129, DOI: 10.1080/08982112.2010.481485
+~ Rohatgi, V.K., y Ehsanes Saleh, A,K. Md. (2015). An Introduction to Probability and Stephens, Larry J. y Spiegel, Murray R. (2020). Estadística. 6ª edición. Madrid: McGraw Hill. ISBN: 9786071514639  →  Stephens, Larry J. y Spiegel, Murray R. (2020). Estadística. 6ª edición. Madrid: McGraw Hill. ISBN: 9786071514639
 ~ Inferencia Estadística. Un enfoque clásico. Madrid: Pirámide  →  Martínez Almécija, A., Rodríguez Torreblanca, C., y Gutiérrez Jáimez, R. (1993). Inferencia Estadística. Un enfoque clásico. Madrid: Pirámide
 ~ Estadística básica: Ciencias e Ingeniería. Madrid: Bubok Publishing  →  Juan González, Alicia M., Gálvez Rodríguez, José F. y Urbano Juan, María del Mar (2021). Estadística básica: Ciencias e Ingeniería. Madrid: Bubok Publishing
+~ 10.1080/08982112.2010.481485  →  Hoerl R.W., y Snee, R. (2010). "Statistical Thinking and Methods in Quality Improvement: A Look to the Future". Quality Engineering, 22(3), 119-129, DOI: 10.1080/08982112.2010.481485
+~ Amsterdam: Academic Press  →  Jarvis, B. (2016). Statistical Aspects of the Microbiological Examination of Foods (3ª Ed.). Amsterdam: Academic Press
 
 ✅ Recursos añadidos:
 ------------------------------

@@ -11,6 +11,7 @@ No se eliminaron recursos.
 = ALSINA, C., BURGUES, C., FORTUNY, J. M. (1988). Materiales para construir la geometría. Síntesis
 = ALSINA, Á. (2019). Itinerarios didácticos para la enseñanza de las matemáticas (6-12 años). Graó
 = BLANCO, L., CLIMENTE, N., GONZÁLEZ, M. T., MORENO, A., SÁNCHEZ-MATAMOROS, G., DE CASTRO, C. Y JIMÉNEZ, C. (Eds.) (2023), Aportaciones al desarrollo del currículo desde la investigación en educación matemática. Editorial Universidad de Granada
+= BOLOGNA, E. (2013). Estadística para psicología y educación. Editorial Brujas
 = BURGOS, M. (2023). Razonamiento algebraico elemental. Implicaciones en la formación de profesores. Servicio de publicaciones de la Universidad de Almería
 = CALVO, C., CARRILLO, A., DE LA FUENTE, A., DE LEÓN, M., GONZÁLEZ, M. J., GORDALIZA, A., GUEVARA, I., LÁZARO, C., MONZÓ, O., MORENO, A. J., RODRÍGUEZ, L. J., RODRÍGUEZ, J. Y SERRADÓ, A. (2021). Bases para la elaboración de un currículo de Matemáticas en Educación no Universitaria. Comité Español de Matemáticas
 = CARRILLO, J., CONTRERAS, L. C., CLIMENT, N., MONTES, M. A., ESCUDERO, D. I. Y FLORES, E. (2016). Didáctica de las Matemáticas para maestros de Educación Primaria. Paraninfo
@@ -34,9 +35,8 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ CHAPIN, S. H., & JOHNSON, A. (2006). Math Matters: Understanding the Math You Teach Grades K-8 (2nd Ed.). Math solutions publications  →  Grades K-8 (2nd Ed.). Math solutions publications
 ~ GODINO, J. D. (Dir.) (2004). Matemáticas para maestros. Departamento de Didáctica de la Matemática de la Universidad de Granada. (Disponible en http://www.ugr.es/local/jgodino LLINARES, S. Y SANCHEZ, V. (1988). Fracciones. Síntesis  →  GODINO, J. D. (Dir.) (2004). Matemáticas para maestros. Departamento de Didáctica de la Matemática de la Universidad de Granada. (Disponible en http://www.ugr.es/local/jgodino
-~ B4) Centrados en estadística y probabilidad BOLOGNA, E. (2013). Estadística para psicología y educación. Editorial Brujas  →  B4) Centrados en estadística y probabilidad
+~ CHAPIN, S. H., & JOHNSON, A. (2006). Math Matters: Understanding the Math You Teach Grades K-8 (2nd Ed.). Math solutions publications  →  Grades K-8 (2nd Ed.). Math solutions publications
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -44,10 +44,10 @@ No se eliminaron recursos.
 + B1) Centrados en números y álgebra
 + B2) Centrados en geometría
 + B3) Centrados en medida
-+ BOLOGNA, E. (2013). Estadística para psicología y educación. Editorial Brujas
++ B4) Centrados en estadística y probabilidad
 + CASTRO E., RICO L., CASTRO E. (1988) Números y operaciones. Fundamento para una aritmética escolar. Síntesis
 + CHAPIN, S. H., & JOHNSON, A. (2006). Math Matters: Understanding the Math You Teach
 + LLINARES, S. Y SANCHEZ, V. (1988). Fracciones. Síntesis
 + OTROS RECURSOS
 
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

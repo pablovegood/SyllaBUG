@@ -37,6 +37,7 @@
 = Muñoz Cidad, C. et al. 2010. Las Cuentas de la Nación II. Ejercicios. Civitas, Madrid
 = Muñoz Cidad, C., Iráizoz, B. y Rapún, M. 2016. Introducción a la economía aplicada, 5º ed. Civitas, Navarra
 = Requeijo, J. 2010. Anatomía de las Crisis Financieras, Mc Graw-Hill, Madrid
+= Requeijo, J. 2021. Economía Mundial, 6ª ed. revisada, Ed. Mc Graw-Hill, Madrid. Acceso a la edición online (2014) en https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014243248004990
 = Requeijo, J., Iranzo, J. y otros 2010. Indicadores de Estructura Económica, Delta Publicaciones, Madrid
 = Rodrik, D. 2012. La Paradoja de la Globalización, Antoni Bosch, Barcelona
 = Tamames, R. y Huerta, B. 2010. Estructura Económica Internacional. Alianza Editorial
@@ -47,17 +48,16 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Krugman, P. R. Obstfeld, M. y Melitz, M. J. 2016. Economía Internacional. Teoría y Krugman, P. R; Obstfeld, M. y Melitz, M. J. 2022. International Economics. Theory and Policy. 12 Edition. Pearson. Global Edtion  →  Krugman, P. R; Obstfeld, M. y Melitz, M. J. 2022. International Economics. Theory and Policy. 12 Edition. Pearson. Global Edtion
-~ Requeijo, J. 2021. Economía Mundial, 6ª ed. revisada, Ed. Mc Graw-Hill, Madrid. Acceso a la edición online (2014) en Sáez Lozano, J. L (coord.). 2010. La Primera Crisis en la Economía Global. Thomson Reuters Civitas  →  Sáez Lozano, J. L (coord.). 2010. La Primera Crisis en la Economía Global. Thomson Reuters Civitas
-~ Requeijo, J. et al. 2001. Ejercicios de Economía Mundial. Introducción y Técnicas Básicas  →  Requeijo, J. et al. 2001. Ejercicios de Economía Mundial. Introducción y Técnicas Básicas. 3ª edición, Editorial AC
-~ Pearson Prentice Hall  →  Cuenca García, E. 2009. Organización Económica Internacional. Pearson Education. Pearson Prentice Hall
 ~ 3ª edición, Editorial AC  →  Requeijo, J. et al. 2001. Ejercicios de Economía Mundial. Introducción y Técnicas Básicas. 3ª edición, Editorial AC
+~ Krugman, P. R. Obstfeld, M. y Melitz, M. J. 2016. Economía Internacional. Teoría y Krugman, P. R; Obstfeld, M. y Melitz, M. J. 2022. International Economics. Theory and Policy. 12 Edition. Pearson. Global Edtion  →  Krugman, P. R; Obstfeld, M. y Melitz, M. J. 2022. International Economics. Theory and Policy. 12 Edition. Pearson. Global Edtion
+~ Pearson Prentice Hall  →  Cuenca García, E. 2009. Organización Económica Internacional. Pearson Education. Pearson Prentice Hall
+~ Requeijo, J. et al. 2001. Ejercicios de Economía Mundial. Introducción y Técnicas Básicas  →  Requeijo, J. et al. 2001. Ejercicios de Economía Mundial. Introducción y Técnicas Básicas. 3ª edición, Editorial AC
 
 ✅ Recursos añadidos:
 ------------------------------
 + García de la Cruz, J. M. y Durán Romero, G. 2007. Sistema Económico Mundial. Thomson
 + Krugman, P. R. Obstfeld, M. y Melitz, M. J. 2016. Economía Internacional. Teoría y Política. Décima Edición. Pearson Addison Wesley
-+ Requeijo, J. 2021. Economía Mundial, 6ª ed. revisada, Ed. Mc Graw-Hill, Madrid. Acceso a la edición online (2014) en https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014243248004990
++ Sáez Lozano, J. L (coord.). 2010. La Primera Crisis en la Economía Global. Thomson Reuters Civitas
 + Wallerstein, I. 1979. El moderno sistema mundial I, la agricultura capitalista y los orígenes de la economía-mundo europea en el siglo XVI
 
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

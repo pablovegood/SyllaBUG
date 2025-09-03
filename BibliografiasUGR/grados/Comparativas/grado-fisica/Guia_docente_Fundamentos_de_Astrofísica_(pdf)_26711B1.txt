@@ -8,7 +8,7 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = Battaner, E.: “Introducción a la Astrofísica”. Ciencia y Tecnología, Alianza Editorial
-= Lara, L.: “Introducción a la Física del Cosmos”. Editorial Universidad de Granada
+= Karttunen, H., Kroger, P., Oja, H., Poutanen, M., Donner, K.J.: “Fundamental Astronomy". Springer-Verlag
 = Shu, F.H.: “The Physical Universe: An Introduction to Astronomy”. University Science Books
 = Zeilik, M.: “Astronomy. The Evolving Universe”. Cambridge University Press
 = Ünsold, A., Baschek, B: “The New Cosmos”. Springer-Verlag
@@ -21,7 +21,7 @@ No hubo cambios de edición/año.
 ------------------------------
 + Battaner, E., Florido, E.: “100 Problemas de Astrofísica”, Alianza Editorial
 + Carroll, B.W., Ostlie, D.A.: “An introduction to Modern Astrophysics”. Addison-Wesley Publising Company
-+ Karttunen, H., Kroger, P., Oja, H., Poutanen, M., Donner, K.J.: “Fundamental Astronomy". Springer-Verlag
++ Lara, L.: “Introducción a la Física del Cosmos”. Editorial Universidad de Granada
 + Seeds, M.A.: “Foundations of Astronomy”. Wadsworth Publishing Company
 
 📊 Porcentaje estimado de cambio: 80% [████████░░]

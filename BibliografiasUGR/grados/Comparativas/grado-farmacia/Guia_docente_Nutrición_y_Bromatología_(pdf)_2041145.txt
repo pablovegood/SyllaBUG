@@ -24,14 +24,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Editorial Acribia, S. A. Zaragoza  →  DAMODARAN S., PARKIN K. L., FENNEMA, O. R.(2008). Química de los alimentos, 3a Ed. Editorial Acribia, S. A. Zaragoza
-~ BROMATOLOGíA ARTACHO, RUIZ-LÓPEZ MD (2017). Tratado de Nutrición. TOMO III. Composición y Calidad Nutritiva. Ed. Panamericana. Madrid ASTIASARAN I, MARTÍNEZ J (2000). Alimentos: Composición y propiedades. Ed.McGraw- Hill. Interamericana. Madrid  →  ARTACHO, RUIZ-LÓPEZ MD (2025). Tratado de Nutrición. TOMO III. Composición y Calidad Nutritiva. Ed. Panamericana. Madrid
 ~ Springer-Verlag. Leipzig  →  BELITZ HD, GROSCH W, SCHIEBERLE P (2012). Química de los alimentos, 4th ed. Ed. Springer-Verlag. Leipzig
 ~ Netbiblo, S.L. La Coruña  →  RODRÍGUEZ RIVER VM, SIMÓN MAGRO E (2008). Bases de la alimentación humana. Ed. Netbiblo, S.L. La Coruña
-~ Nutrición y bromatología. Editorial Técnica Avicem. Granada  →  NAVARRO ALARCÓN M, OLIVERAS LÓPEZ MJ, LÓPEZ GARCÍA DE LA SERRANA, H (2018). Nutrición y bromatología. Editorial Técnica Avicem. Granada
+~ BROMATOLOGíA ARTACHO, RUIZ-LÓPEZ MD (2017). Tratado de Nutrición. TOMO III. Composición y Calidad Nutritiva. Ed. Panamericana. Madrid ASTIASARAN I, MARTÍNEZ J (2000). Alimentos: Composición y propiedades. Ed.McGraw- Hill. Interamericana. Madrid  →  BROMATOLOGíA
+~ Editorial Acribia, S. A. Zaragoza  →  DAMODARAN S., PARKIN K. L., FENNEMA, O. R.(2008). Química de los alimentos, 3a Ed. Editorial Acribia, S. A. Zaragoza
 
 ✅ Recursos añadidos:
 ------------------------------
++ ARTACHO, RUIZ-LÓPEZ MD (2025). Tratado de Nutrición. TOMO III. Composición y Calidad Nutritiva. Ed. Panamericana. Madrid
 + ASTIASARAN I, MARTÍNEZ J (2000). Alimentos: Composición y propiedades. Ed.McGraw-Hill. Interamericana. Madrid
 + GIL A (2025). Tratado de Nutrición (5 tomos). Ed. Panamericana. Madrid
 + NUTRICIÓN Y DIETÉTICA

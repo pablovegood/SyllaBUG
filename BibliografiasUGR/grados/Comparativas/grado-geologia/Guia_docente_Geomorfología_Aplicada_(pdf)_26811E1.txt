@@ -41,19 +41,19 @@
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Publicaciones del Instituto Geológico y Minero de España. Serie: Medio Ambiente Nº 4  →  AYALA-CARCEDO F.J., COROMINAS J. (coor.) (2003). Mapas de susceptibilidad a los movimientos de ladera con técnicas SIG. Fundamentos y aplicaciones en España. Publicaciones del Instituto Geológico y Minero de España. Serie: Medio Ambiente Nº 4
-~ FETTER, C.W. (1980). Applied Hydrogeology. Ed. Prentice-Hall, FREEZE, R.A., CHERRY, J.A. (1979). Groundwater. Ed. Prentice-Hall, New Jersey  →  FREEZE, R.A., CHERRY, J.A. (1979). Groundwater. Ed. Prentice-Hall, New Jersey
-~ MIRAGALIA, M. (2010). Manual de cartografía, teleobservación y sistemas de información geográfica. Universidad Nacional de General Sarmiento, Los Polvorines, 213 OLAYA, V. (2018). Introducción a los Sistemas de Información Geográfica. Creative RODRÍGUEZ LLORET, J., OLIVELLA, R. (2008). Introducción a los sistemas de información geográfica. Universitat Oberta de Catalunya, Barcelona, 82 p  →  MIRAGALIA, M. (2010). Manual de cartografía, teleobservación y sistemas de información geográfica. Universidad Nacional de General Sarmiento, Los Polvorines, 213 p
-~ Freeman, EEUU, 532 p  →  BIERMAN, P.R., MONTGOMERY, D.R. (2013). Key concepts in geomorphology. Ed. W.H. Freeman, EEUU, 532 p
-~ Ed. XanEdu, An Arbor, 764 p  →  BLOSTAD, P. (2016). GIS fundamentals: a first text on geographic information system. Ed. XanEdu, An Arbor, 764 p
 ~ Sociedad Española de Geomorfología, Zaragoza, 441 p  →  GARCÍA RUIZ, J.M., LÓPEZ BERMÚDEZ, F. (2009). La erosión del suelo en España. Sociedad Española de Geomorfología, Zaragoza, 441 p
+~ MIRAGALIA, M. (2010). Manual de cartografía, teleobservación y sistemas de información geográfica. Universidad Nacional de General Sarmiento, Los Polvorines, 213 OLAYA, V. (2018). Introducción a los Sistemas de Información Geográfica. Creative RODRÍGUEZ LLORET, J., OLIVELLA, R. (2008). Introducción a los sistemas de información geográfica. Universitat Oberta de Catalunya, Barcelona, 82 p  →  RODRÍGUEZ LLORET, J., OLIVELLA, R. (2008). Introducción a los sistemas de información geográfica. Universitat Oberta de Catalunya, Barcelona, 82 p
+~ Freeman, EEUU, 532 p  →  BIERMAN, P.R., MONTGOMERY, D.R. (2013). Key concepts in geomorphology. Ed. W.H. Freeman, EEUU, 532 p
+~ FETTER, C.W. (1980). Applied Hydrogeology. Ed. Prentice-Hall, FREEZE, R.A., CHERRY, J.A. (1979). Groundwater. Ed. Prentice-Hall, New Jersey  →  FETTER, C.W. (1980). Applied Hydrogeology. Ed. Prentice-Hall
+~ Ed. XanEdu, An Arbor, 764 p  →  BLOSTAD, P. (2016). GIS fundamentals: a first text on geographic information system. Ed. XanEdu, An Arbor, 764 p
 ~ Instituto Geológico y Minero de España. Serie Geotecnia, Madrid, 45 p  →  INSTITUTO TECNOLÓGICO Y GEOMINERO DE ESPAÑA (1987). Manual de Taludes. Ed. Instituto Geológico y Minero de España. Serie Geotecnia, Madrid, 45 p
 
 ✅ Recursos añadidos:
 ------------------------------
 + BENNETT M.R., DOYLE, P. (1997). Environmental Geology. Geology and the Human Environment. Ed. John Wiley & Sons, Chichester, 512p
-+ FETTER, C.W. (1980). Applied Hydrogeology. Ed. Prentice-Hall
++ FREEZE, R.A., CHERRY, J.A. (1979). Groundwater. Ed. Prentice-Hall, New Jersey
 + GOUDIE, A., ANDERSON, M., BURT, T., LEWIN, J., RICHARDS, K., WHALLEY, B., WORSLEY, P. (1990). Geomorphological Techniques. Ed. Routledge, 570 pp
++ MIRAGALIA, M. (2010). Manual de cartografía, teleobservación y sistemas de información geográfica. Universidad Nacional de General Sarmiento, Los Polvorines, 213 p
 + OLAYA, V. (2018). Introducción a los Sistemas de Información Geográfica. Creative Commons Attribution. Disponible en:https://volaya.github.io/gis-book/es/
-+ RODRÍGUEZ LLORET, J., OLIVELLA, R. (2008). Introducción a los sistemas de información geográfica. Universitat Oberta de Catalunya, Barcelona, 82 p
 
 📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]

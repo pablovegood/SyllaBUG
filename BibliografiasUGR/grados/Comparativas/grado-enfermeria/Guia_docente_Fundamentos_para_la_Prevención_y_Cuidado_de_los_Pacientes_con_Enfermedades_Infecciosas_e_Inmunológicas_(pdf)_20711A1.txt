@@ -10,7 +10,6 @@
 ------------------------------
 = Alergia. Cardona Vila R y Serrano Reyes C. Editorial Panamericana (2010)
 = Inmunología básica. Abbas AK, Lichtman AH, Pillai S (6º edición). Editorial Elservier (2020)
-= Inmunología clínica. Rich, Fleisher, Shearer, Schroeder, Frew & Weyand (5ª edición). Editorial Elservier (2019)
 = Inmunología. D. Male, J. Brostoff, D. B. Roth e I. Roitt. (8º edición) Editorial Elsevier (2013)
 = Inmunología: básica y clínica. Peakman M, Vergani D. (28º edición) Editorial Elservier (2011)
 = Microbiología basada en la resolución de problemas. S.k. Nath y S.G. Revankar. Editorial Elsevier, (2007)
@@ -19,14 +18,16 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Inmunología celular y molecular. Abbas AK, Lichtman AH, Pillai S. (9ª edición). Editorial Elservier (2018) Roit-Inmunología Fundamentos. DelvesP; Martin S; Burton D (12º edición) Editorial Panamericana (2014)  →  Roit-Inmunología Fundamentos. DelvesP; Martin S; Burton D (12º edición) Editorial Panamericana (2014)
+~ Inmunología celular y molecular. Abbas AK, Lichtman AH, Pillai S. (9ª edición). Editorial Elservier (2018) Roit-Inmunología Fundamentos. DelvesP; Martin S; Burton D (12º edición) Editorial Panamericana (2014)  →  Inmunología celular y molecular. Abbas AK, Lichtman AH, Pillai S. (9ª edición). Editorial Elservier (2018)
+~ Editorial Elservier (2019)  →  Inmunología celular y molecular. Abbas AK, Lichtman AH, Pillai S. (9ª edición). Editorial Elservier (2018)
 ~ Medical Microbiology, Ed., Murray P. R., Rosenthal, K. S., y Pfaller, M. A., Mosby (2009) Principles and practice of infectious disease. Mandell, G.L.; Bennett, J.E. y Dolin, R., Mandel, Douglas and Bennett`s 7ª ed., Churchill Livigstone, (2011)  →  Principles and practice of infectious disease. Mandell, G.L.; Bennett, J.E. y Dolin, R., Mandel, Douglas and Bennett`s 7ª ed., Churchill Livigstone, (2011)
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Inmunología celular y molecular. Abbas AK, Lichtman AH, Pillai S. (9ª edición). Editorial Elservier (2018)
++ Inmunología clínica. Rich, Fleisher, Shearer, Schroeder, Frew & Weyand (5ª edición). Editorial Elservier (2019)
 + Medical Microbiology, Ed., Murray P. R., Rosenthal, K. S., y Pfaller, M. A., Mosby (2009)
 + Microbiología en Ciencias de la Salud. Conceptos y aplicaciones. De la Rosa M. Prieto J. Navarro JM (3º edición) Editorial Elsevier (2011)
 + Microbiología médica. Patrick R. Murray, PhD, Ken S. Rosenthal, PhD and Michael A. Pfaller, MD (9ª ed) Editorial Elsevier(2021)
++ Roit-Inmunología Fundamentos. DelvesP; Martin S; Burton D (12º edición) Editorial Panamericana (2014)
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 83% [████████░░]

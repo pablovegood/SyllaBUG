@@ -7,6 +7,7 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
+= 1. EPIGRAFÍA
 = 2. NUMISMÁTICA
 = ALFARO ASINS, C. et alii, Diccionario de Numismática, Madrid, 2009
 = ANDREU PINTADO, J., Fundamentos de Epigrafía Latina, Madrid, 2009
@@ -30,7 +31,6 @@ No se eliminaron recursos.
 = CORBIER, P., Epigrafía latina, Granada, 2004
 = CRAWFORD, M.H., La moneta in Grecia e a Roma, Bari, 1982
 = Corpus Inscriptionum Hispaniae Mediaevalium, 2 vols., Turnhout – León, 1997-1998
-= EPIGRAFÍA Y NUMISMÁTICA ANTIGUAS
 = FAVREAU, R., Les Inscriptions médiévales, Turnhout, 1979
 = FAVREAU, R., Épigraphie médiévale, Turnhout, 1998
 = FAVREAU, R., Études d’épigraphie médiévale, 2 vols., Limoges, 1995
@@ -75,12 +75,12 @@ No se eliminaron recursos.
 
 ✅ Recursos añadidos:
 ------------------------------
-+ 1. EPIGRAFÍA
 + 1.1.- Fundamental
 + 1.2.- Auxiliar y específica
 + 2.- NUMISMÁTICA MEDIEVAL
 + BATLLE, P., Epigrafía latina, Barcelona, 1963
 + BIBLIOGRAFÍA COMPLEMENTARIA
++ EPIGRAFÍA Y NUMISMÁTICA ANTIGUAS
 + EPIGRAFÍA Y NUMISMÁTICA MEDIEVALES
 + La bibliografía complementaria (repertorios, corpora, monografías y artículos) se puede consultar y descargar en https://prado.ugr.es, dentro del apartado “Bibliografía” correspondiente a esta asignatura
 + Más orientaciones bibliográficas en https://pradogrado2425.ugr.es/ dentro de la pestaña “Asignatura” EPIGRAFÍA Y NUMISMÁTICA

@@ -17,7 +17,6 @@
 📚 Recursos sin cambios:
 ------------------------------
 = BAGNALL, R.S. et alii (eds.) (2012), The Encyclopedia of Ancient History, 13 vols. Oxford
-= BELTRÁN, F. y MARCO SIMÓN, F. (1987), Atlas de Historia Antigua, Zaragoza, Pórtico
 = BERARDINO A. di (ed.) (1991), Diccionario Patrístico y de la Antigüedad Cristiana, 2 vols., Salamanca, Institutum Patristicum Augustinianum
 = BRAVO, G., Roma antigua. Una historia realista, Madrid, Alianza, 2023
 = Beard M y Henderson J., El mundo clásico: una breve introducción, Madrid, Alianza, 2016
@@ -62,19 +61,20 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Roma, Madrid, Alianza  →  BRAVO, G., Roma antigua. Una historia realista, Madrid, Alianza, 2023
-~ Bleicken, J. et alii, Roma. El mundo romano, Madrid, 1985, 2 vols. (trad.) Erdkamp P. (ed.), The Cambridge Companion to Ancient Rome, CUP, 2013  →  Bleicken, J. et alii, Roma. El mundo romano, Madrid, 1985, 2 vols. (trad.)
+~ 2. Atlas geográficos e históricos BELTRÁN, F. y MARCO SIMÓN, F. (1987), Atlas de Historia Antigua, Zaragoza, Pórtico  →  2.Atlas geográficos e históricos
+~ Roma, Madrid, Alianza  →  GARCÍA MORENO, L. et al. (1999), Historia del mundo clásico a través de sus textos II: Roma, Madrid, Alianza
 ~ Berardino A. di (ed.), Diccionario Patrístico y de la Antigüedad Cristiana, 2 vols  →  Berardino A. di (ed.), Diccionario Patrístico y de la Antigüedad Cristiana, 2 vols. Salamanca 1991. Institutum Patristicum Augustinianum
+~ Bleicken, J. et alii, Roma. El mundo romano, Madrid, 1985, 2 vols. (trad.) Erdkamp P. (ed.), The Cambridge Companion to Ancient Rome, CUP, 2013  →  Erdkamp P. (ed.), The Cambridge Companion to Ancient Rome, CUP, 2013
 
 ✅ Recursos añadidos:
 ------------------------------
-+ 2.Atlas geográficos e históricos
 + 3. Diccionarios y enciclopedias
 + 4. Fuentes y textos. Antologías
++ BELTRÁN, F. y MARCO SIMÓN, F. (1987), Atlas de Historia Antigua, Zaragoza, Pórtico
++ Bleicken, J. et alii, Roma. El mundo romano, Madrid, 1985, 2 vols. (trad.)
 + Durante el curso los profesores proporcionarán fuentes y bibliografía adicionales para completar cada uno de los temas
-+ Erdkamp P. (ed.), The Cambridge Companion to Ancient Rome, CUP, 2013
 + GRANT, M. (2002), Atlas Akal de Historia Clásica. Del 1700 a.C. al 565 d.C., Madrid, Akal
 + Manuales de referencia para el estudio del contenido global del asignatura
 + SUÁREZ PIÑEIRO, Ana Mª (2019), Roma antigua. Historia de un imperio global, Akal
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 39% [███░░░░░░░]

@@ -30,19 +30,19 @@ No hubo coincidencias exactas o equivalentes.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Editorial. DIÉGUEZ, A. (2016), Transhumanismo. La búsqueda tecnológica del mejoramiento humano, Herder. LAFOLLETTE, H. (2005), The Oxford Handbook of Practical Ethics, Oxford University Press  →  -DIÉGUEZ, A. (2016), Transhumanismo. La búsqueda tecnológica del mejoramiento humano, Herder
-~ F2008181Q BOSTROM, N. Y SAVULESCU, J. (2009), Mejoramiento humano, TEELL, 2017. FREY, R.G. y WELLMAN, H. (2003), A Companion to Applied Ethics, Blackwell  →  -BOSTROM, N. Y SAVULESCU, J. (2009), Mejoramiento humano, TEELL, 2017
-~ LARA, F. y DECKERS, J. (Eds.) (2024). Ethics of Artificial Intelligence. Springer. LARA, F. y SAVULESCU, J. (2021), Más (que) humanos. Biotecnología, inteligencia artificial y PERSSON, I. Y SAVULESCU, J. (2012), ¿Preparados para el futuro?, TEELL, 2019  →  -PERSSON, I. Y SAVULESCU, J. (2012), ¿Preparados para el futuro?, TEELL, 2019
+~ F2008181Q BOSTROM, N. Y SAVULESCU, J. (2009), Mejoramiento humano, TEELL, 2017. FREY, R.G. y WELLMAN, H. (2003), A Companion to Applied Ethics, Blackwell  →  -FREY, R.G. y WELLMAN, H. (2003), A Companion to Applied Ethics, Blackwell
+~ LARA, F. y DECKERS, J. (Eds.) (2024). Ethics of Artificial Intelligence. Springer. LARA, F. y SAVULESCU, J. (2021), Más (que) humanos. Biotecnología, inteligencia artificial y PERSSON, I. Y SAVULESCU, J. (2012), ¿Preparados para el futuro?, TEELL, 2019  →  LARA, F. y DECKERS, J. (Eds.) (2024). Ethics of Artificial Intelligence. Springer
 
 ✅ Recursos añadidos:
 ------------------------------
++ -BOSTROM, N. Y SAVULESCU, J. (2009), Mejoramiento humano, TEELL, 2017
 + -COECKELBERGH, M. (2020), Ética de la inteligencia artificial, Cátedra, 2021
 + -DE LORA, P. (2003), Justicia para los animales. La ética más allá de la Humanidad, Alianza Editorial
-+ -FREY, R.G. y WELLMAN, H. (2003), A Companion to Applied Ethics, Blackwell
 + -LAFOLLETTE, H. (2005), The Oxford Handbook of Practical Ethics, Oxford University Press
 + -LARA, F. y SAVULESCU, J. (2021), Más (que) humanos. Biotecnología, inteligencia artificial y ética de la mejora, Tecnos
++ -PERSSON, I. Y SAVULESCU, J. (2012), ¿Preparados para el futuro?, TEELL, 2019
 + -SAVULESCU, J. (2012), ¿Decisiones peligrosas? Una bioética desafiante, Tecnos
 + -SINGER, P. (2002), Un solo mundo. La ética de la globalización, Paidós, 2003
 + -SINGER, P. (ed.) (1991), Compendio de Ética, Alianza, 1995
-+ LARA, F. y DECKERS, J. (Eds.) (2024). Ethics of Artificial Intelligence. Springer
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

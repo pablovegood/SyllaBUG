@@ -52,11 +52,11 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ [Assessment of nutritional status, and habits and food preferences in a child-youth population (7 to 16 years) of the Community of Madrid]. Nutricion Hospitalaria, 36(2), 394-404  →  Calderón García, A., Marrodán Serrano, M. D., Villarino Marín, A., & Martínez Álvarez, J. R. (2019). Assessment of nutritional status, and habits and food preferences in a child-youth population (7 to 16 years) of the Community of Madrid. *Nutrición Hospitalaria, 36*(2), 394–404. https://doi.org/10.20960/nh.2244
-~ Editorial Médica Panamericana  →  Aranceta Bartrina, J., & Gil, Á. (2010). *Alimentos funcionales y salud en la etapa infantil y juvenil*. Editorial Médica Panamericana
-~ Grande Covián, F. (1998). Nutrición y salud. Temas de Hoy  →  Grande Covián, F. (2001). *Nutrición y salud* (23.ª ed.). Temas de Hoy
 ~ F2008181Q Aktaç, Ş., Kızıltan, G. y Avcı, S. (2019). The effect of family participation in nutrition education intervention on the nutritional status of preschool age children. Egitim Ve Bilim, 44(199), 415-431. 10.15390/EB.2019.7819 Ania Palacio, J. M. (2007). Guía para el diseño y la mejora de proyectos pedagógicos de educación y promoción de la salud. Ministerio de Educación y Ciencia, Secretaria General Técnica  →  Aktaç, Ş., Kızıltan, G., & Avcı, S. (2019). The effect of family participation in nutrition education intervention on the nutritional status of preschool age children. *Egitim ve Bilim, 44*(199), 415–431. https://doi.org/10.15390/EB.2019.7819
-~ Isoldi, K. K., Dalton, S., Rodríguez, D. P. y Nestle M. (2012). Classroom “cupcake” celebrations: observations of foods offered and consumed. Journal Nutrition Education and Behavior, 44(1), Johnson S. L. (2016). Developmental and environmental influences on young children’s vegetable preferences and consumption. Advances in Nutrition, 7(1), 220S-31S  →  Johnson, S. L. (2016). Developmental and environmental influences on young children’s vegetable preferences and consumption. *Advances in Nutrition, 7*(1), 220S-231S. https://doi.org/10.3945/an.115.008706
+~ Grande Covián, F. (1998). Nutrición y salud. Temas de Hoy  →  Grande Covián, F. (2001). *Nutrición y salud* (23.ª ed.). Temas de Hoy
+~ Editorial Médica Panamericana  →  Gil, Á. (Ed.). (2024). *Tratado de nutrición. Tomo 4: Nutrición humana en el estado de salud* (4.ª ed.). Editorial Médica Panamericana
+~ Isoldi, K. K., Dalton, S., Rodríguez, D. P. y Nestle M. (2012). Classroom “cupcake” celebrations: observations of foods offered and consumed. Journal Nutrition Education and Behavior, 44(1), Johnson S. L. (2016). Developmental and environmental influences on young children’s vegetable preferences and consumption. Advances in Nutrition, 7(1), 220S-31S  →  Isoldi, K. K., Dalton, S., Rodríguez, D. P., & Nestle, M. (2012). Classroom “cupcake” celebrations: observations of foods offered and consumed. *Journal of Nutrition Education and Behavior, 44*(1), 71‐75. https://doi.org/10.1016/j.jneb.2011.03.144
+~ [Assessment of nutritional status, and habits and food preferences in a child-youth population (7 to 16 years) of the Community of Madrid]. Nutricion Hospitalaria, 36(2), 394-404  →  Calderón García, A., Marrodán Serrano, M. D., Villarino Marín, A., & Martínez Álvarez, J. R. (2019). Assessment of nutritional status, and habits and food preferences in a child-youth population (7 to 16 years) of the Community of Madrid. *Nutrición Hospitalaria, 36*(2), 394–404. https://doi.org/10.20960/nh.2244
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -65,10 +65,9 @@
 + Castellar Cárdenas, M., Romero López, M. del C., & Jiménez Tejada, M. del P. (2023). What do clean and dirty hands of primary school pupils look like? *Journal of Biological Education, 58*(5), 1168–1185. https://doi.org/10.1080/00219266.2023.2174159
 + Gil, Á. (Ed.). (2024). *Tratado de nutrición. Tomo 1: Bases fisiológicas y bioquímicas de la nutrición* (4.ª ed.). Editorial Médica Panamericana
 + Gil, Á. (Ed.). (2024). *Tratado de nutrición. Tomo 3: Composición y calidad nutritiva de los alimentos* (4.ª ed.). Editorial Médica Panamericana
-+ Gil, Á. (Ed.). (2024). *Tratado de nutrición. Tomo 4: Nutrición humana en el estado de salud* (4.ª ed.). Editorial Médica Panamericana
 + Gobierno de España. (2025, 15 de abril). Real Decreto 315/2025, de 15 de abril, por el que se establecen normas de desarrollo de la Ley 17/2011, de 5 de julio, de seguridad alimentaria y nutrición, para el fomento de una alimentación saludable y sostenible en centros educativos. *Boletín Oficial del Estado*. https://www.boe.es/eli/es/rd/2025/04/15/315
 + Grande Covián, F. (1998). *Nutrición y salud*. Temas de Hoy
-+ Isoldi, K. K., Dalton, S., Rodríguez, D. P., & Nestle, M. (2012). Classroom “cupcake” celebrations: observations of foods offered and consumed. *Journal of Nutrition Education and Behavior, 44*(1), 71‐75. https://doi.org/10.1016/j.jneb.2011.03.144
++ Johnson, S. L. (2016). Developmental and environmental influences on young children’s vegetable preferences and consumption. *Advances in Nutrition, 7*(1), 220S-231S. https://doi.org/10.3945/an.115.008706
 + Romero, M. C., Jiménez, M. P., & González, F. (2021). ¿Mensajes publicitarios o nutricionales? Esa es la cuestión. En Cebrián, D. [et al.] (Coords.), *Enseñanza de las ciencias y problemas relevantes de la ciudadanía. Transferencia al aula* (pp. 239–252). Graó
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 64% [██████░░░░]

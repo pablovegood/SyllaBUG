@@ -8,9 +8,11 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = AENOR. (1998). EN-ENV 1998-5. Eurocódigo 8.Disposiciones para el proyecto de estructuras sismorresistentes. Parte 5: Cimentaciones, Estructuras de contención de tierras y aspectos geotécnicos. Eurocódigos . Madrid: Aenor
+= AENOR. (Marzo de 1999). EN-ENV 1997-1. Eurocódigo 7. Proyecto Geotécnico. Parte 1: Reglas Generales. Eurocódigos . Madrid: Aenor
 = BERRY, P.L. & REID, D. Mecánica de suelos. McGraw Hill. Traducción al español en Colombia por Caicedo y Arrieta. 1993. Bogotá
 = CLAYTON, C. R. I., MATTHEWS, M. C. y SIMON, N. E. (1995). Site investigation. Ed. BlackWell Science
 = COSTET, J. & SANGLERAT, G. Curso práctico de mecánica de suelos. Editorial Omega. Barcelona.1975. GONZÁLEZ DE VALLEJO, L. I., FERRER, M., ORTUÑO, L., & OTEO, C. (2002). Ingeniería Geológica. Madrid: Prentice Hall
+= DIRECCIÓN GENERAL PARA LA VIVIENDA Y ARQUITECTURA. MOPU. (1989). Norma Tecnológica de la
 = DÍAZ RODRÍGUEZ, A. (2006). Dinámica de Suelos. Mexico: limusa
 = FERRER, M. Y GONZÁLEZ DE VALLEJO, L. Editores 1999). Manual de campo para la descripción y caracterización de macizos rocosos en afloramientos. ITGME, Madrid
 = HUNT, R. E. (2005). Geotechnical Engineering Investigation Handbook. London: Taylor and Francis Group. HUNT, R. E. (1984). Geotechnical engineering investigation manual. McGraw-HIll
@@ -29,28 +31,27 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Reglas Generales. Eurocódigos . Madrid: Aenor  →  AENOR. (Marzo de 1999). EN-ENV 1997-1. Eurocódigo 7. Proyecto Geotécnico. Parte 1: Reglas Generales. Eurocódigos . Madrid: Aenor
-~ U.S. DEPARTMENT OF THE INTERIOR. BUREAU OF RECLAMATION. Manual de Tierras  →  U.S. DEPARTMENT OF THE INTERIOR. BUREAU OF RECLAMATION. Manual de Tierras. Washington, D.C.1974
-~ Normativas AENOR. (Marzo de 1999). EN-ENV 1997-1. Eurocódigo 7. Proyecto Geotécnico. Parte 1  →  Normativas
-~ DIRECCIÓN GENERAL PARA LA VIVIENDA Y ARQUITECTURA. MOPU. (1989). Norma Tecnológica de la Edificación (N.T.E.). Acondicionamiento del terreno-Cimentaciones. Madrid: Ministerio de Fomento  →  Edificación (N.T.E.). Acondicionamiento del terreno-Cimentaciones. Madrid: Ministerio de Fomento
-~ Madrid, Entorno Gráfico. LÓPEZ MARINAS, J. L. (2000). Geología Aplicada a la Ingeniería civil. Madrid, Ciedossat LOGEAIS, L. Patología de las cimentaciones. (1984). Editorial GG. Barcelona  →  LOGEAIS, L. Patología de las cimentaciones. (1984). Editorial GG. Barcelona
-~ MOPU. “Pliego de Prescripciones Técnicas Generales para obras de Carreteras y Puentes de la Dirección General de Carreteras y Caminos Vecinales”. (PG-4). Ed. MOPU. Madrid, O.M. de 21 de Enero de 1988  →  MOPU. “Pliego de Prescripciones Técnicas Generales para obras de Carreteras y Puentes de la Dirección
-~ ISRM (1981). Rock characterization. Testing and monitoring. International Society for rocks mechanics JIMENEZ SALAS, J. A., JUSTO ALPAÑÉS, J.L. y SERRANO GONZÁLEZ, A. (1976). Geotecnia y Cimientos II. Madrid, Rueda  →  JIMENEZ SALAS, J. A., JUSTO ALPAÑÉS, J.L. y SERRANO GONZÁLEZ, A. (1976). Geotecnia y Cimientos II. Madrid, Rueda
 ~ LÓPEZ JIMENO, C. ed. Varios Autores (1999). Manual de estabilización de Taludes  →  LÓPEZ JIMENO, C. ed. Varios Autores (1999). Manual de estabilización de Taludes. Madrid, Entorno Gráfico. LÓPEZ MARINAS, J. L. (2000). Geología Aplicada a la Ingeniería civil. Madrid, Ciedossat
 ~ BOWLES, J. E. (1982). Foundation. Analysis and Design. McGraw-Hill  →  BIENIAWSKI, Z.T. (1989). Engineering rock mass classification. Ed. John Wiley & Sons. BOWLES, J. E. (1982). Foundation. Analysis and Design. McGraw-Hill
-~ NCSE (2002). Norma de Construción Sismorresistente, Ministerio de Fomento, Real Revistas científicas Canadian Geotechnique Electronic journal of geotechnical engineering Geotechnical and geological engineering Geotechnique Journal of Engineering Geology Journal of geotechnical engineering Journal of geotechnical and geoenvironmental engineering F2008181Q Bulleting of Engineering Geology and the Environment  →  Journal of geotechnical engineering
+~ NCSE (2002). Norma de Construción Sismorresistente, Ministerio de Fomento, Real Revistas científicas Canadian Geotechnique Electronic journal of geotechnical engineering Geotechnical and geological engineering Geotechnique Journal of Engineering Geology Journal of geotechnical engineering Journal of geotechnical and geoenvironmental engineering F2008181Q Bulleting of Engineering Geology and the Environment  →  Canadian Geotechnique
+~ ISRM (1981). Rock characterization. Testing and monitoring. International Society for rocks mechanics JIMENEZ SALAS, J. A., JUSTO ALPAÑÉS, J.L. y SERRANO GONZÁLEZ, A. (1976). Geotecnia y Cimientos II. Madrid, Rueda  →  JIMENEZ SALAS, J. A., JUSTO ALPAÑÉS, J.L. y SERRANO GONZÁLEZ, A. (1976). Geotecnia y Cimientos II. Madrid, Rueda
+~ Madrid, Entorno Gráfico. LÓPEZ MARINAS, J. L. (2000). Geología Aplicada a la Ingeniería civil. Madrid, Ciedossat LOGEAIS, L. Patología de las cimentaciones. (1984). Editorial GG. Barcelona  →  LOGEAIS, L. Patología de las cimentaciones. (1984). Editorial GG. Barcelona
+~ MOPU. “Pliego de Prescripciones Técnicas Generales para obras de Carreteras y Puentes de la Dirección General de Carreteras y Caminos Vecinales”. (PG-4). Ed. MOPU. Madrid, O.M. de 21 de Enero de 1988  →  MOPU. “Pliego de Prescripciones Técnicas Generales para obras de Carreteras y Puentes de la Dirección
+~ U.S. DEPARTMENT OF THE INTERIOR. BUREAU OF RECLAMATION. Manual de Tierras  →  U.S. DEPARTMENT OF THE INTERIOR. BUREAU OF RECLAMATION. Manual de Tierras. Washington, D.C.1974
+~ Reglas Generales. Eurocódigos . Madrid: Aenor  →  AENOR. (Marzo de 1999). EN-ENV 1997-1. Eurocódigo 7. Proyecto Geotécnico. Parte 1: Reglas Generales. Eurocódigos . Madrid: Aenor
 
 ✅ Recursos añadidos:
 ------------------------------
 + Bulleting of Engineering Geology and the Environment
-+ Canadian Geotechnique
-+ DIRECCIÓN GENERAL PARA LA VIVIENDA Y ARQUITECTURA. MOPU. (1989). Norma Tecnológica de la
++ Edificación (N.T.E.). Acondicionamiento del terreno-Cimentaciones. Madrid: Ministerio de Fomento
 + Electronic journal of geotechnical engineering Geotechnical and geological engineering Geotechnique
 + General de Carreteras y Caminos Vecinales”. (PG-4). Ed. MOPU. Madrid, O.M. de 21 de Enero de 1988
 + ISRM (1981). Rock characterization. Testing and monitoring. International Society for rocks mechanics
 + Journal of Engineering Geology
 + Journal of geotechnical and geoenvironmental engineering
++ Journal of geotechnical engineering
 + NCSE (2002). Norma de Construción Sismorresistente, Ministerio de Fomento, Real Decreto 997/2002 de 27 de septiembre, BOE 244, 11 de octubre de 2002,35898-35967
++ Normativas
 + Revistas científicas
 
-📊 Porcentaje estimado de cambio: 68% [██████░░░░]
+📊 Porcentaje estimado de cambio: 65% [██████░░░░]

@@ -14,8 +14,8 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ “Introducción a las Bases de Datos: El modelo relacional”. Paraninfo, 2005. ISBN 8497323963 Gary B. Shelly & Harry J. Rosenblatt: “Systems Analysis and Design”. Course Technology, 8th edition, 2009. ISBN 0324597665 Methods”. McGraw-Hill, 5th edition, 2000. ISBN 0072315393  →  Gary B. Shelly & Harry J. Rosenblatt: “Systems Analysis and Design”. Course Technology, 8th edition, 2009. ISBN 0324597665
 ~ Olga Pons, Nicolás Marín, Juan Miguel Medina, Silvia Acid y Mª Amparo Vila  →  Olga Pons, Nicolás Marín, Juan Miguel Medina, Silvia Acid y Mª Amparo Vila: “Introducción a las Bases de Datos: El modelo relacional”. Paraninfo, 2005. ISBN 8497323963
+~ “Introducción a las Bases de Datos: El modelo relacional”. Paraninfo, 2005. ISBN 8497323963 Gary B. Shelly & Harry J. Rosenblatt: “Systems Analysis and Design”. Course Technology, 8th edition, 2009. ISBN 0324597665 Methods”. McGraw-Hill, 5th edition, 2000. ISBN 0072315393  →  Gary B. Shelly & Harry J. Rosenblatt: “Systems Analysis and Design”. Course Technology, 8th edition, 2009. ISBN 0324597665
 
 ✅ Recursos añadidos:
 ------------------------------

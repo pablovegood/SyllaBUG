@@ -8,20 +8,19 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = Cabello Píñar, J. C., Métodos Matemáticos. Editorial Godel, 2016
-= Mulero Díaz, A. y Ojeda Martínez de Castilla, I.Matemáticas para Primero de Ciencias:http://matematicas.unex.es/~ojedamc/doc/500219/matematicas_para_primero_de_ciencias.pdf
 = Solá Conde, L. E., Introducción a los métodos matemáticos en Biología y Ciencias Ambientales, Paraninfo, 2016
 = Stewart,Cálculo diferencial e integral. Internacional Thomson Editores, 1998
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-No hubo cambios de edición/año.
+~ Kuttler, C.Mathematical Models in Biology, Springer Mulero Díaz, A. y Ojeda Martínez de Castilla, I.Matemáticas para Primero de Ciencias: http://matematicas.unex.es/~ojedamc/doc/500219/matematicas_para_primero_de_ci encias.pdf J.D. Murray,Mathematical Biology I. An Introduction:http://www.ift.unesp.br/users/mmenezes/mathbio.pdf Pérez González, F.J.Cálculo Diferencial e Integral de Funciones de Una Variable: http://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf  →  Kuttler, C.Mathematical Models in Biology, Springer 2015,https://link.springer.com/book/10.1007/978-3-642-27251-6
 
 ✅ Recursos añadidos:
 ------------------------------
 + Apuntes de la asignaturaMatemáticas Aplicadas a la Biologíade la Universidad de Sevilla:http://departamento.us.es/edan/php/asig/GRABIO/GBM/ApuntesBIOMAB.pdf
 + Apuntes de la asignaturaModelos Matemáticos en Biologíadel Prof. Juan Navas Ureña:http://ucua.ujaen.es/jnavas/web_modelos/pdf_mmb08_09/texto%20completo.pdf
 + J.D. Murray,Mathematical Biology I. An Introduction:http://www.ift.unesp.br/users/mmenezes/mathbio.pdf
-+ Kuttler, C.Mathematical Models in Biology, Springer 2015,https://link.springer.com/book/10.1007/978-3-642-27251-6
++ Mulero Díaz, A. y Ojeda Martínez de Castilla, I.Matemáticas para Primero de Ciencias:http://matematicas.unex.es/~ojedamc/doc/500219/matematicas_para_primero_de_ciencias.pdf
 + Pérez González, F.J.Cálculo Diferencial e Integral de Funciones de Una Variable:http://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

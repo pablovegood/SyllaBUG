@@ -68,11 +68,11 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ GOUDINEAU, Ch., Fouilles de l’Ecole Française de Rome à Bolsena (Poggio Moscini) 1962-1967  →  GOUDINEAU, Ch., Fouilles de l’Ecole Française de Rome à Bolsena (Poggio Moscini) 1962-1967. La ceramique aretine lisse, Paris, 1968
-~ CHADZI-VALLIANOU, D., Phaistos, Athènes, 1998 CHADWICK, J., El enigma micénico, Madrid, 1973  →  CHADWICK, J., El enigma micénico, Madrid, 1973
-~ WALTER-KAPYDH, E. La casa helenística [en griego], Atenas, 2000 ZAPHIROPOULOU, Ph., Délos, Athènes, 2003  →  ZAPHIROPOULOU, Ph., Délos, Athènes, 2003
 ~ GINOUVES, R., MARTIN, R., Dictionnaire méthodique de l'Architecture grecque et romaine. I  →  GINOUVES, R., MARTIN, R., Dictionnaire méthodique de l'Architecture grecque et romaine. I. Matériaux, techniques de construction, techniques et formes du décor, Paris, 1985
-~ AA.VV., Terra Sigillata. Pasado, presente y futuro cerámico, XII N.A.C.E., Navarrete, 2022 ABAD CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss  →  ABAD CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss
 ~ La ceramique aretine lisse, Paris, 1968  →  GOUDINEAU, Ch., Fouilles de l’Ecole Française de Rome à Bolsena (Poggio Moscini) 1962-1967. La ceramique aretine lisse, Paris, 1968
+~ AA.VV., Terra Sigillata. Pasado, presente y futuro cerámico, XII N.A.C.E., Navarrete, 2022 ABAD CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss  →  ABAD CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss
+~ CHADZI-VALLIANOU, D., Phaistos, Athènes, 1998 CHADWICK, J., El enigma micénico, Madrid, 1973  →  CHADWICK, J., El enigma micénico, Madrid, 1973
+~ WALTER-KAPYDH, E. La casa helenística [en griego], Atenas, 2000 ZAPHIROPOULOU, Ph., Délos, Athènes, 2003  →  WALTER-KAPYDH, E. La casa helenística [en griego], Atenas, 2000
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -84,6 +84,6 @@ No se eliminaron recursos.
 + ROLLEY, C., La Sculture Grecque 2. La période classique, París, 1999
 + ROLLEY, C., La sculpture grecque.I, Paris, 1994
 + Se facilitará una bibliografía más específica cuando se solicite
-+ WALTER-KAPYDH, E. La casa helenística [en griego], Atenas, 2000
++ ZAPHIROPOULOU, Ph., Délos, Athènes, 2003
 
 📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

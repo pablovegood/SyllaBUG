@@ -17,12 +17,12 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Ed. Ariel, 592 pp. Madrid  →  CHUVIECO, E. (2008) Teledetección espacial: la observación de la Tierra desde el espacio. Ed. Ariel, 592 pp. Madrid
-~ LILLESAND, , T.M. y KIEFER, R.W. (1994): Remote Sensing and Image Interpretation, 3ª PINILLA, C. (1995): Elementos de Teledetección, RAMA, Madrid CAMPBELL, J. B. (1996): Introduction to Remote Sensing, New York, The Guilford Press, 2nd Edition  →  CAMPBELL, J. B. (1996): Introduction to Remote Sensing, New York, The Guilford Press, 2nd Edition
+~ LILLESAND, , T.M. y KIEFER, R.W. (1994): Remote Sensing and Image Interpretation, 3ª PINILLA, C. (1995): Elementos de Teledetección, RAMA, Madrid CAMPBELL, J. B. (1996): Introduction to Remote Sensing, New York, The Guilford Press, 2nd Edition  →  PINILLA, C. (1995): Elementos de Teledetección, RAMA, Madrid
 
 ✅ Recursos añadidos:
 ------------------------------
++ CAMPBELL, J. B. (1996): Introduction to Remote Sensing, New York, The Guilford Press, 2nd Edition
 + LILLESAND, , T.M. y KIEFER, R.W. (1994): Remote Sensing and Image Interpretation, 3ª Ed., New York, John Wiley and Sons
 + MATHER. P. (1999): Computer Processing of Remotely Sensed Data, London, John Wiley and Sons, 2nd. Ed
-+ PINILLA, C. (1995): Elementos de Teledetección, RAMA, Madrid
 
 📊 Porcentaje estimado de cambio: 62% [██████░░░░]

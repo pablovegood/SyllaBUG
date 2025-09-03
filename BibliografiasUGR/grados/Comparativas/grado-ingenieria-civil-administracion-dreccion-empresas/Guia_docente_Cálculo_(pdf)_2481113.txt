@@ -11,16 +11,16 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Stewart, Cálculo diferencial e integral, Internacional Thomson Editores, 1998 Juan de Burgos. Cálculo infiinitésimal de varias variables. McGraw-Hill, 1995  →  Juan de Burgos. Cálculo infiinitésimal de varias variables. McGraw-Hill, 1995
-~ Stewart, Cálculo multivariable, Internacional Thomson Editores, 1999 Iberoamericana, 1987 Cálculo. Apuntes Departamento de Análisis Matemático. J. Alaminos. 2016  →  Cálculo. Apuntes Departamento de Análisis Matemático. J. Alaminos. 2016
+~ Stewart, Cálculo diferencial e integral, Internacional Thomson Editores, 1998 Juan de Burgos. Cálculo infiinitésimal de varias variables. McGraw-Hill, 1995  →  Stewart, Cálculo diferencial e integral, Internacional Thomson Editores, 1998
+~ Stewart, Cálculo multivariable, Internacional Thomson Editores, 1999 Iberoamericana, 1987 Cálculo. Apuntes Departamento de Análisis Matemático. J. Alaminos. 2016  →  Stewart, Cálculo multivariable, Internacional Thomson Editores, 1999
 
 ✅ Recursos añadidos:
 ------------------------------
 + Bradley-Smith, Cálculo de una variable (Tomo 1), Prentice Hall, 1998
 + Bradley-Smith, Cálculo de varias variables (Tomo 2), Prentice Hall, 1998
++ Cálculo. Apuntes Departamento de Análisis Matemático. J. Alaminos. 2016
++ Juan de Burgos. Cálculo infiinitésimal de varias variables. McGraw-Hill, 1995
 + Marsden-Tromba. Cálculo Vectorial. Addison-Wesley Iberoamericana, 1991
-+ Stewart, Cálculo diferencial e integral, Internacional Thomson Editores, 1998
-+ Stewart, Cálculo multivariable, Internacional Thomson Editores, 1999
 + Thomas-Finley, Calculus con Geometría Analítica (2 volúmenes), Addison-Wesley Iberoamericana, 1987
 + Thomas-Finley, Cálculo (una variable), Addison-Wesley Longman, 1998
 

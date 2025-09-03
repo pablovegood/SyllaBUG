@@ -17,13 +17,12 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Jocelyn E. Krebs, Elliott S. Goldstein And Stephen T. Kilpatrick, Gene Essentials Lewin 2ª Edicion Panamericana 2012 Revistas Nature Science Nature Reviews Genetics Current Opinion in Genetics Trends in Genetics eLife  →  Current Opinion in Genetics
 ~ Oxford Univ Press, Oxford  →  Elliot, W.C. Elliot, D.C. 2005. Biochemistry and Molecular Biology, W.H. Elliot, D.C. Elliot. Oxford Univ Press, Oxford
-~ Jocelyn E. Krebs, Elliott S. Goldstein And Stephen T. Kilpatrick, Gene Essentials Lewin 2ª Edicion Panamericana 2012 Revistas Nature Science Nature Reviews Genetics Current Opinion in Genetics Trends in Genetics eLife  →  Science
 
 ✅ Recursos añadidos:
 ------------------------------
 + Cell
-+ Current Opinion in Genetics
 + Doudna J and Sternberg SH. 2017. A Crack in Creation: Gene Editing and the Unthinkable Power to Control Evolution. HOUGHTON MIFFLIN
 + Isaacson W. 2021. The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race. Simon & Schuster UK
 + Izquierdo, M. 2002. Ingeniería genética y transferencia génica. 3ª Ed. Ediciones Pirámide, S.A. Madrid
@@ -34,6 +33,7 @@
 + Nature Reviews Genetics
 + Pevsner, J. 2009. Bioinformatics and Functional Genomics, 2nd edition. John Wiley & Sons, Inc
 + Revistas
++ Science
 + Trends in Genetics
 + eLife
 + Ángel Herráez Sánchez. Biología Molecular E Ingeniería Genética, Elsevier, 2ª Edición 2012

@@ -24,7 +24,6 @@
 📚 Recursos sin cambios:
 ------------------------------
 = Artículos de investigación incluidos en el capítulo 1 actualizados cada curso
-= Horta Zubiaga, A. Macromoléculas, Ed. UNED, Madrid, 1991
 = Jou, D. Llebot, J.E. Introducción a la termodinámica de los procesos biológicos, Ed. Labor Universitaria. 1989
 = Laskowski, W., Pohlit, W. Biofísica, Ed. Omega. 1976
 = Montero, F. Morán, F. Biofísica. Procesos de autoorganización en Biología. Eudema Universidad, S.A., Madrid, 1992
@@ -36,19 +35,20 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ DIVULGACIÓN Coveney, P., Highfield, R. La flecha del tiempo, Ed. Orbis. 1993 Heisemberg, W. La imagen de la naturaleza en la física actual, Ed. Orbis. 1985 F2008181Q Schrödinger, E. ¿Qué es la vida?, Ed. Orbis. 1984 Waddington, C.H. Hacia una biología teórica, Alianza Editorial. 1976  →  Coveney, P., Highfield, R. La flecha del tiempo, Ed. Orbis. 1993
+~ DIVULGACIÓN Coveney, P., Highfield, R. La flecha del tiempo, Ed. Orbis. 1993 Heisemberg, W. La imagen de la naturaleza en la física actual, Ed. Orbis. 1985 F2008181Q Schrödinger, E. ¿Qué es la vida?, Ed. Orbis. 1984 Waddington, C.H. Hacia una biología teórica, Alianza Editorial. 1976  →  Waddington, C.H. Hacia una biología teórica, Alianza Editorial. 1976
 ~ TEMODINÁMICA DE LOS PROCESOS IRREVERSIBLES Katchalsky, A., Curran, P.I. Nonequilibrium Thermodynamics in Biophysics. Harvard University Press, England, 1975  →  TEMODINÁMICA DE LOS PROCESOS IRREVERSIBLES
+~ BIOFÍSICA MOLECULAR Horta Zubiaga, A. Macromoléculas, Ed. UNED, Madrid, 1991  →  BIOFÍSICA MOLECULAR
 
 ✅ Recursos añadidos:
 ------------------------------
 + BIBLIOGRAFÍA FUNDAMENTAL
 + BIOFÍSICA GENERAL
-+ BIOFÍSICA MOLECULAR
++ Coveney, P., Highfield, R. La flecha del tiempo, Ed. Orbis. 1993
 + DIVULGACIÓN
 + Heisemberg, W. La imagen de la naturaleza en la física actual, Ed. Orbis. 1985
++ Horta Zubiaga, A. Macromoléculas, Ed. UNED, Madrid, 1991
 + Katchalsky, A., Curran, P.I. Nonequilibrium Thermodynamics in Biophysics. Harvard University Press, England, 1975
 + Prigogine, I. Las leyes del caos, Ed. Crítica, Grakontos. 1997
 + Schrödinger, E. ¿Qué es la vida?, Ed. Orbis. 1984
-+ Waddington, C.H. Hacia una biología teórica, Alianza Editorial. 1976
 
-📊 Porcentaje estimado de cambio: 96% [█████████░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -28,13 +28,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Cambridge: Cambridge University Press  →  VanPatten, B., Smith, M., & Benati, A. (2019). Key Questions in Second Language Acquisition: An Introduction. Cambridge: Cambridge University Press
+~ Cambridge: Cambridge University Press  →  Saville-Troike, M. & Barto, K. (2017). Introducing Second Language Acquisition (3rd ed.). Cambridge: Cambridge University Press
 ~ Emerald Group Publishing Limited  →  Ritchie, W. C. & Bhatia, T.K. (2009). The New Handbook of Second Language Acquisition. Emerald Group Publishing Limited
-~ Cook, V. (2008). Second Language Learning and Language Teaching (4th ed.). Hodder Arnold. de Bot, K., Lowie, W. & Verspoor, M. (2005). Second Language Acquisition. New York  →  de Bot, K., Lowie, W. & Verspoor, M. (2005). Second Language Acquisition. New York: Routledge
 ~ Oxford University Press  →  Lightbown, P. M. & Spada, N. (2013). How Languages are Learned (4th Ed.). Oxford: Oxford University Press
+~ Cook, V. (2008). Second Language Learning and Language Teaching (4th ed.). Hodder Arnold. de Bot, K., Lowie, W. & Verspoor, M. (2005). Second Language Acquisition. New York  →  Cook, V. (2008). Second Language Learning and Language Teaching (4th ed.). Hodder Arnold
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Cook, V. (2008). Second Language Learning and Language Teaching (4th ed.). Hodder Arnold
++ VanPatten, B., Smith, M., & Benati, A. (2019). Key Questions in Second Language Acquisition: An Introduction. Cambridge: Cambridge University Press
++ de Bot, K., Lowie, W. & Verspoor, M. (2005). Second Language Acquisition. New York: Routledge
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

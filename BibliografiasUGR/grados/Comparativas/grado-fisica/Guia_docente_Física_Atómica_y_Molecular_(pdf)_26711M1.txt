@@ -12,12 +12,12 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Introduction to experiments and theory. Springer, 2004. P. F. Benath, Spectra of atoms and molecules. Oxford University Press, 1995. H. Friedrich, Theoretical Atomic Physics, Springer-Verlag, 2006. M. Weissbluth, Atoms and Molecules, Academic Press, 1978  →  H. Friedrich, Theoretical Atomic Physics, Springer-Verlag, 2006
+~ Introduction to experiments and theory. Springer, 2004. P. F. Benath, Spectra of atoms and molecules. Oxford University Press, 1995. H. Friedrich, Theoretical Atomic Physics, Springer-Verlag, 2006. M. Weissbluth, Atoms and Molecules, Academic Press, 1978  →  P. F. Benath, Spectra of atoms and molecules. Oxford University Press, 1995
 
 ✅ Recursos añadidos:
 ------------------------------
++ H. Friedrich, Theoretical Atomic Physics, Springer-Verlag, 2006
 + H. Haken, H.C. Wolf & W.D. Brewer. Molecular Physics and Elements of Quantum Chemistry: Introduction to experiments and theory. Springer, 2004
 + M. Weissbluth, Atoms and Molecules, Academic Press, 1978
-+ P. F. Benath, Spectra of atoms and molecules. Oxford University Press, 1995
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

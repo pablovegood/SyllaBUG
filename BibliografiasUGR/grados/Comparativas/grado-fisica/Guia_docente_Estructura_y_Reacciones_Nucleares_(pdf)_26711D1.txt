@@ -22,14 +22,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ K.L.G. Heyde, Nuclear Shell Model, Springer-Verlag 1990 E, Segré, Núcleos y Partículas. Reverté 1972  →  K.L.G. Heyde, Nuclear Shell Model, Springer-Verlag 1990
 ~ K. Grotz and H.V. Klapdor. The weak interaction in nuclear, particle and astrophysics  →  K. Grotz and H.V. Klapdor. The weak interaction in nuclear, particle and astrophysics. Adam Hilger 1990
-~ K.L.G. Heyde, Nuclear Shell Model, Springer-Verlag 1990 E, Segré, Núcleos y Partículas. Reverté 1972  →  E, Segré, Núcleos y Partículas. Reverté 1972
 
 ✅ Recursos añadidos:
 ------------------------------
 + A. deShalit and H. Feshback, Theoretical Nuclear Physics: Nuclear Structure. J Wiley and Sons, 1974
++ E, Segré, Núcleos y Partículas. Reverté 1972
 + K. S. Krane, Introductory Nuclear Physcis, John Wiley and Sons, 1988
-+ K.L.G. Heyde, Nuclear Shell Model, Springer-Verlag 1990
 + M. A. Preston and R. K Bhaduri, Structure of the Nucleus. Addison Wesley, 1993
 
 📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

@@ -36,16 +36,16 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Del Teso Martín, Enrique (2002): Compendio y ejercicios de semántica. Madrid: Arco Libros García Murga, Fernando (2014): Semántica. Madrid: Síntesis Goded Rambaud, Margarita (2012): Basic Semantics. Madrid: UNED  →  García Murga, Fernando (2014): Semántica. Madrid: Síntesis
-~ Löbner, Sebastian (2002): Understanding Semantics. London: Routledge Lyons, John (1980): Semántica. Barcelona: Teide  →  Löbner, Sebastian (2002): Understanding Semantics. London: Routledge
 ~ Murphy, M. Lynne (2010): Lexical meaning. Cambridge: Cambridge University Press Otaola Olano, Concepción (2004): Lexicología y semántica léxica. Teoría y aplicación a la lengua española. Madrid: Ediciones Académicas  →  Murphy, M. Lynne (2010): Lexical meaning. Cambridge: Cambridge University Press
-~ Oxford: Oxford University Press  →  Cruse, Alan (2000): Meaning in Language. An Introduction to Semantics and Pragmatics. Oxford: Oxford University Press
+~ Oxford: Oxford University Press  →  Murphy, M. Lynne (2010): Lexical meaning. Cambridge: Cambridge University Press
+~ Del Teso Martín, Enrique (2002): Compendio y ejercicios de semántica. Madrid: Arco Libros García Murga, Fernando (2014): Semántica. Madrid: Síntesis Goded Rambaud, Margarita (2012): Basic Semantics. Madrid: UNED  →  Goded Rambaud, Margarita (2012): Basic Semantics. Madrid: UNED
+~ Löbner, Sebastian (2002): Understanding Semantics. London: Routledge Lyons, John (1980): Semántica. Barcelona: Teide  →  Löbner, Sebastian (2002): Understanding Semantics. London: Routledge
 ~ Enciclopedia de Lingüística Hispánica. Londres: Routledge  →  De Miguel Aparicio, E. (2016): "Lexicología". En Javier Gutiérrez-Rexach (dir.): Enciclopedia de Lingüística Hispánica. Londres: Routledge
 
 ✅ Recursos añadidos:
 ------------------------------
 + Del Teso Martín, Enrique (2002): Compendio y ejercicios de semántica. Madrid: Arco Libros
-+ Goded Rambaud, Margarita (2012): Basic Semantics. Madrid: UNED
++ García Murga, Fernando (2014): Semántica. Madrid: Síntesis
 + Lyons, John (1980): Semántica. Barcelona: Teide
 + Otaola Olano, Concepción (2004): Lexicología y semántica léxica. Teoría y aplicación a la lengua española. Madrid: Ediciones Académicas
 

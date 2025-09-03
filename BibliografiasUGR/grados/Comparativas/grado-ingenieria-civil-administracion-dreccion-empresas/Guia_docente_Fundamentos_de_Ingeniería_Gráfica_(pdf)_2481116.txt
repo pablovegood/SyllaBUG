@@ -9,9 +9,8 @@
 ------------------------------
 = Curso de Geometría Métrica. Puig Adam, P
 = Dibujo Normalizado. Company, P.; Gomis, J.M.; Ferrer, I.; Contero, M
-= Dibujo Técnico. Villoría San Miguel, V.; Azofra Márquez, A. Editorial Universidad de Granada
+= Dibujo Normalizado. Company, P.; Gomis, J.M.; Ferrer, l.; Contero, M
 = Dibujo geométrico y de croquización. Rodríguez Abajo, F.; Álvarez de Abengoa, V
-= Diseño asistido por ordenadorLibros a determinar por el profesor de CAD
 = Diseño asistido por ordenadorTutoriales de los propios programas utilizados
 = Fundamentos geométricos del diseño en ingeniería. Prieto Alberca, Manuel
 = Fundamentos geométricos. Villoria San Miguel, Víctor
@@ -23,7 +22,10 @@
 = Geometría Métrica y Descriptiva. Nagore, F
 = Geometría Métrica. Blazquez García, I.; Palancar Penella, M
 = Geometría Métrica. Blázquez García, l.; Palancar Penella, M
+= Geometría métricaCurso de Geometría Métrica. Puig Adam, P.Fundamentos geométricos. Villoria San Miguel, Víctor.Geometría Aplicada. Gil Sauri, M.A.Geometría Métrica. Blázquez García, l.; Palancar Penella, M.Dibujo Técnico. Villoría San Miguel, V.; Azofra Márquez, A. Ed. Universidad de GranadaGeometría Métrica y Descriptiva. Nagore, F
 = Grupo A
+= Grupos B, C y Doble Grado
+= Libros a determinar por el profesor de CAD
 = Normalización en el dibujo técnico con aplicaciones a la ingeniería civil. Cruzado, J.M
 = NormalizaciónDibujo geométrico y de croquización. Rodríguez Abajo, F.; Álvarez de Abengoa, V.Normas básicas de dibujo técnico. Leiceaga, X.Dibujo Técnico. Villoría San Miguel, V.; Azofra Márquez, A. Ed. Universidad de GranadaDibujo Normalizado. Company, P.; Gomis, J.M.; Ferrer, l.; Contero, M
 = Normas básicas de dibujo técnico. Leiceaga, X
@@ -36,15 +38,13 @@ No hubo cambios de edición/año.
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Dibujo Normalizado. Company, P.; Gomis, J.M.; Ferrer, l.; Contero, M
 + Dibujo Técnico. Villoría San Miguel, V.; Azofra Márquez, A. Ed. Universidad de Granada
++ Dibujo Técnico. Villoría San Miguel, V.; Azofra Márquez, A. Editorial Universidad de Granada
++ Diseño asistido por ordenadorLibros a determinar por el profesor de CAD
 + Ejercicios resueltos de Geometría Descriptiva. Gómez Vargas, J.C. Editorial AVICAM
 + Geometría Descriptiva. Tomo 1. Sistema Diédrico. Rodríguez Abajo, F
 + Geometría Descriptiva. Tomo I. Sistema Diédrico. Rodríguez Abajo, F
-+ Geometría métricaCurso de Geometría Métrica. Puig Adam, P.Fundamentos geométricos. Villoria San Miguel, Víctor.Geometría Aplicada. Gil Sauri, M.A.Geometría Métrica. Blázquez García, l.; Palancar Penella, M.Dibujo Técnico. Villoría San Miguel, V.; Azofra Márquez, A. Ed. Universidad de GranadaGeometría Métrica y Descriptiva. Nagore, F
 + Geometría métricaFundamentos geométricos del diseño en ingeniería. Prieto Alberca, Manuel.Dibujo geométrico y de croquización. Rodríguez Abajo, F.; Álvarez de Abengoa, V
-+ Grupos B, C y Doble Grado
-+ Libros a determinar por el profesor de CAD
 + NormalizaciónNormalización en el dibujo técnico con aplicaciones a la ingeniería civil. Cruzado, J.M
 + Sistema diédrico. Raya Moral, B
 + Sistema diédricoGeometría Descriptiva. Izquierdo Asensi, F.Geometría Descriptiva. Tomo 1. Sistema Diédrico. Rodríguez Abajo, F
@@ -52,4 +52,4 @@ No hubo cambios de edición/año.
 + Sistemas de representación y dibujo técnico. Gancedo, Enrique; Suárez, Jesús
 + Tutoriales de los propios programas utilizados
 
-📊 Porcentaje estimado de cambio: 59% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 51% [█████░░░░░]

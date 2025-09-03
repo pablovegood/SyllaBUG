@@ -7,7 +7,6 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
-= Barrett KE. “Ganong Fisiología Médica”. 26a ed. McGraw-Hill, 2020
 = Cordova A. “Fisiología dinámica”. Masson, 2014
 = Costanzo, L. S. "Fisiología". 7a edición. Barcelona: Elsevier Saunders, 2023
 = Cursos CRASH. “Lo esencial en aparato digestivo”. Mosby, 2004
@@ -35,11 +34,12 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ William D.McArdle, Frank I Katch, Victor L. Katch. Fisiología del ejercicio: Nutrición, F2008181Q rendimiento y salud. 8th Ed, LWW-Wolters Kluwer-Wolters Kluwer,2015 Cursos CRASH. “Lo esencial en aparato cardiovascular”. Mosby, 2004  →  Cursos CRASH. “Lo esencial en aparato cardiovascular”. Mosby, 2004
+~ William D.McArdle, Frank I Katch, Victor L. Katch. Fisiología del ejercicio: Nutrición, F2008181Q rendimiento y salud. 8th Ed, LWW-Wolters Kluwer-Wolters Kluwer,2015 Cursos CRASH. “Lo esencial en aparato cardiovascular”. Mosby, 2004  →  William D.McArdle, Frank I Katch, Victor L. Katch. Fisiología del ejercicio: Nutrición, rendimiento y salud. 8th Ed, LWW-Wolters Kluwer-Wolters Kluwer,2015
+~ Libros de texto Barrett KE. “Ganong Fisiología Médica”. 26a ed. McGraw-Hill, 2020  →  Libros de texto
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Libros de texto
-+ William D.McArdle, Frank I Katch, Victor L. Katch. Fisiología del ejercicio: Nutrición, rendimiento y salud. 8th Ed, LWW-Wolters Kluwer-Wolters Kluwer,2015
++ Barrett KE. “Ganong Fisiología Médica”. 26a ed. McGraw-Hill, 2020
++ Cursos CRASH. “Lo esencial en aparato cardiovascular”. Mosby, 2004
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

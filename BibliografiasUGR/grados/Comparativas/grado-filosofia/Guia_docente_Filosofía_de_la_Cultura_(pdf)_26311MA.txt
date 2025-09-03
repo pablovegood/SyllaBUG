@@ -92,12 +92,12 @@
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Pérez Tapias, J.A., “Crítica a la colonialidad y propuestas antineocolonialistas en ‘diálogos de Sur a Sur’”, en Pérez Tapias, J.A, García Fernández, J. y Grosfoguel, R  →  Pérez Tapias, J.A., “Crítica a la colonialidad y propuestas antineocolonialistas en ‘diálogos de Sur a Sur’”, en Pérez Tapias, J.A, García Fernández, J. y Grosfoguel, R. (coords.), Descolonizar las ciencias sociales y las humanidades. Perspectivas desde Andalucía y el sur de Europa, Ed. Universidad de Granada, Granada, 2021, pp. 11-32
+~ Pérez Tapias, J.A, Ser humano. Cuestión de dignidad en todas las culturas, Trotta, Madrid, 2019, caps. 3,4, 5, 6 y 8 Bloque temático 3 Girard, R., La violencia y lo sagrado [1972], Anagrama, Barcelona, 1998  →  Bloque temático 4
+~ Lévinas, E., De otro modo que ser o más allá de la esencia [1974], Sígueme, Salamanca, Marx, K., Manuscritos; Economía y filosofía [1844], Alianza, Madrid, 1870  →  Marx, K., Manuscritos; Economía y filosofía [1844], Alianza, Madrid, 1870
+~ Pérez Tapias, J.A., Universidad y humana dignidad. Las verdades de las Letras frente al mercado de la posverdad, Universidad de Granada, 2018, caps. 3, 4 y 6 Ramírez, M.T.: Filosofía culturalista, Secretaría de Cultura de Michoacán, Morelia, 2005  →  Pérez Tapias, J.A., Universidad y humana dignidad. Las verdades de las Letras frente al mercado de la posverdad, Universidad de Granada, 2018, caps. 3, 4 y 6
+~ Fromm, E., Anatomía de la destructividad humana [1973], Siglo XXI, Madrid, 1980. tecnológica [1979], Círculo de Lectores, Barcelona, 1994  →  Fromm, E., Anatomía de la destructividad humana [1973], Siglo XXI, Madrid, 1980
 ~ Bloque temático 4 F2008181Q Anzaldúa, G., Borderlands/La frontera. La nueva mestiza, Capitán Swing, Madrid, 2016  →  Bloque temático 4
 ~ Habermas, J.: La inclusión del otro [1996], Paidós, Barcelona, 1999 Habermas, J., Mundo de la vida, política y religión [2012], Trotta, Madrid, 2015  →  Habermas, J.: La inclusión del otro [1996], Paidós, Barcelona, 1999
-~ Pérez Tapias, J.A., Universidad y humana dignidad. Las verdades de las Letras frente al mercado de la posverdad, Universidad de Granada, 2018, caps. 3, 4 y 6 Ramírez, M.T.: Filosofía culturalista, Secretaría de Cultura de Michoacán, Morelia, 2005  →  Ramírez, M.T.: Filosofía culturalista, Secretaría de Cultura de Michoacán, Morelia, 2005
-~ Fromm, E., Anatomía de la destructividad humana [1973], Siglo XXI, Madrid, 1980. tecnológica [1979], Círculo de Lectores, Barcelona, 1994  →  Fromm, E., Anatomía de la destructividad humana [1973], Siglo XXI, Madrid, 1980
-~ Lévinas, E., De otro modo que ser o más allá de la esencia [1974], Sígueme, Salamanca, Marx, K., Manuscritos; Economía y filosofía [1844], Alianza, Madrid, 1870  →  Lévinas, E., De otro modo que ser o más allá de la esencia [1974], Sígueme, Salamanca, 1995
-~ Pérez Tapias, J.A, Ser humano. Cuestión de dignidad en todas las culturas, Trotta, Madrid, 2019, caps. 3,4, 5, 6 y 8 Bloque temático 3 Girard, R., La violencia y lo sagrado [1972], Anagrama, Barcelona, 1998  →  Girard, R., La violencia y lo sagrado [1972], Anagrama, Barcelona, 1998
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -107,11 +107,12 @@
 + Bloque temático 1
 + Bloque temático 2
 + Bloque temático 3
++ Girard, R., La violencia y lo sagrado [1972], Anagrama, Barcelona, 1998
 + Habermas, J., Mundo de la vida, política y religión [2012], Trotta, Madrid, 2015
 + Jonas, H., El principio de responsabilidad. Ensayo de una ética para la civilización tecnológica [1979], Círculo de Lectores, Barcelona, 1994
-+ Marx, K., Manuscritos; Economía y filosofía [1844], Alianza, Madrid, 1870
++ Lévinas, E., De otro modo que ser o más allá de la esencia [1974], Sígueme, Salamanca, 1995
 + Olivé, L. (comp.), Ética y diversidad cultural, FCE, México, 2004
 + Pérez Tapias, J.A, Ser humano. Cuestión de dignidad en todas las culturas, Trotta, Madrid, 2019, caps. 3,4, 5, 6 y 8
-+ Pérez Tapias, J.A., Universidad y humana dignidad. Las verdades de las Letras frente al mercado de la posverdad, Universidad de Granada, 2018, caps. 3, 4 y 6
++ Ramírez, M.T.: Filosofía culturalista, Secretaría de Cultura de Michoacán, Morelia, 2005
 
-📊 Porcentaje estimado de cambio: 39% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

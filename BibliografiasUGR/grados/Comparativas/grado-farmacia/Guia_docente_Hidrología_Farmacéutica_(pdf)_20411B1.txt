@@ -28,14 +28,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Lewis Publishers. Boca Raton, Florida  →  Van der Leeden, F., Troise, F.L. y Todd, D.K. (1990). The Water Encyclopedia (2 Edition). Lewis Publishers. Boca Raton, Florida
 ~ Chapman and Hall. Londres  →  Albu, M., Banks, D. Nash, H. (1997). Mineral and Thermal Groundwater Resources. Chapman and Hall. Londres
+~ Llamas, J (1993). Hidrología General. Servicio Editorial de la Universidad del Pais Vasco, Bilbao F2008181Q Martínez, E. (2001). Hidrología Práctica. Servicio de Publicaciones de Colegio de Ingenieros de Caminos, Canales y Puertos, Madrid  →  Llamas, J (1993). Hidrología General. Servicio Editorial de la Universidad del Pais Vasco, Bilbao
+~ Lewis Publishers. Boca Raton, Florida  →  Van der Leeden, F., Troise, F.L. y Todd, D.K. (1990). The Water Encyclopedia (2 Edition). Lewis Publishers. Boca Raton, Florida
 ~ Edic. Omega, S.A., Barcelona  →  Custodio, E. y Llamas, M. R. (Eds.) (2001). Hidrología subterránea, Tomo I y II, 2ª edición. Edic. Omega, S.A., Barcelona
-~ Llamas, J (1993). Hidrología General. Servicio Editorial de la Universidad del Pais Vasco, Bilbao F2008181Q Martínez, E. (2001). Hidrología Práctica. Servicio de Publicaciones de Colegio de Ingenieros de Caminos, Canales y Puertos, Madrid  →  Martínez, E. (2001). Hidrología Práctica. Servicio de Publicaciones de Colegio de Ingenieros de Caminos, Canales y Puertos, Madrid
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Llamas, J (1993). Hidrología General. Servicio Editorial de la Universidad del Pais Vasco, Bilbao
++ Martínez, E. (2001). Hidrología Práctica. Servicio de Publicaciones de Colegio de Ingenieros de Caminos, Canales y Puertos, Madrid
 + Millero, F.J. (2001). The Physical Chemistry of Natural Waters. Wiley & Sons, New York
 + Stumm, W. y Morgan, J.M. (1996). Aquatic Chemistry. Willey & Sons, New York
 

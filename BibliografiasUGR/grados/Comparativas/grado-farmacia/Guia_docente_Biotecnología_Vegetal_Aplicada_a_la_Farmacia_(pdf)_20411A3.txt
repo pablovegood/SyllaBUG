@@ -17,18 +17,18 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Hall R.D. (1999) Plant Cell Culture Protocols. Ed. Humana Press. (link) Kole Ch., Michler Ch.H., Abbott A.G. y Hall T.C. (2010) Transgenic Crop Plants (Principles and Development). Ed. Springer. (link) Kumar S, Barone P y Smith M. (2019) Transgenic Plants: Methods and Protocols. Springer New York. (link) Neumann K.H., Kumar A. e Imani J. (2009) Plant Cell and Tissue Culture, a Tool in Biotechnology. Ed. Springer. (link) Oksman-Caldentey K.M. y Barz W.H. (2002) Plant Biotechnology and Transgenic Plants  →  Neumann K.H., Kumar A. e Imani J. (2009) Plant Cell and Tissue Culture, a Tool in Biotechnology. Ed. Springer. (link)
-~ Dunwell J.M. y Wetten A.. (2012) Transgenic Plants: Methods and Protocols. Ed. Humana Press. (link) Faye L. y Gomord V. (2009) Recombinant Proteins from Plants. Ed. Humana Press  →  Faye L. y Gomord V. (2009) Recombinant Proteins from Plants. Ed. Humana Press
 ~ Fett-Neto A.G. (2010) Plant Secondary Metabolism Engineering. Ed. Humana Press. (link) García del Moral L.F. (2021) Biotecnología vegetal. Fundamentos y Aplicaciones. Ed. EUG  →  García del Moral L.F. (2021) Biotecnología vegetal. Fundamentos y Aplicaciones. Ed. EUG
 ~ Ed. Marcel Dekker, Inc  →  Oksman-Caldentey K.M. y Barz W.H. (2002) Plant Biotechnology and Transgenic Plants. Ed. Marcel Dekker, Inc
+~ Hall R.D. (1999) Plant Cell Culture Protocols. Ed. Humana Press. (link) Kole Ch., Michler Ch.H., Abbott A.G. y Hall T.C. (2010) Transgenic Crop Plants (Principles and Development). Ed. Springer. (link) Kumar S, Barone P y Smith M. (2019) Transgenic Plants: Methods and Protocols. Springer New York. (link) Neumann K.H., Kumar A. e Imani J. (2009) Plant Cell and Tissue Culture, a Tool in Biotechnology. Ed. Springer. (link) Oksman-Caldentey K.M. y Barz W.H. (2002) Plant Biotechnology and Transgenic Plants  →  Kumar S, Barone P y Smith M. (2019) Transgenic Plants: Methods and Protocols. Springer New York. (link)
+~ Dunwell J.M. y Wetten A.. (2012) Transgenic Plants: Methods and Protocols. Ed. Humana Press. (link) Faye L. y Gomord V. (2009) Recombinant Proteins from Plants. Ed. Humana Press  →  Dunwell J.M. y Wetten A.. (2012) Transgenic Plants: Methods and Protocols. Ed. Humana Press. (link)
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Dunwell J.M. y Wetten A.. (2012) Transgenic Plants: Methods and Protocols. Ed. Humana Press. (link)
++ Faye L. y Gomord V. (2009) Recombinant Proteins from Plants. Ed. Humana Press
 + Fett-Neto A.G. (2010) Plant Secondary Metabolism Engineering. Ed. Humana Press. (link)
 + Hall R.D. (1999) Plant Cell Culture Protocols. Ed. Humana Press. (link)
 + Izquierdo M. (2001) Ingeniería Genética y Transferencia Génica. Ed. Pirámide
 + Kole Ch., Michler Ch.H., Abbott A.G. y Hall T.C. (2010) Transgenic Crop Plants (Principles and Development). Ed. Springer. (link)
-+ Kumar S, Barone P y Smith M. (2019) Transgenic Plants: Methods and Protocols. Springer New York. (link)
++ Neumann K.H., Kumar A. e Imani J. (2009) Plant Cell and Tissue Culture, a Tool in Biotechnology. Ed. Springer. (link)
 
 📊 Porcentaje estimado de cambio: 90% [█████████░]

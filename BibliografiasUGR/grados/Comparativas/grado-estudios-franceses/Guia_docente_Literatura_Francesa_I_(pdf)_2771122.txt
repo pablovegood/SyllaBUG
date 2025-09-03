@@ -8,7 +8,6 @@
 
 📚 Recursos sin cambios:
 ------------------------------
-= ADAM, A.,Littérature française I. Des origines à la fin du XVIIIesiècle,Paris, Larousse, 1971
 = ANGLARD, V.,Le commentaire composé,Paris, Armand Colin, coll. Cursus lettres, 2006
 = ARMAND, A.,Histoire de la littérature française. Moyen Age et XVIesiècle, Paris, Hatier, 1991
 = ARMAND, A.,Itinéraires littéraires. Moyen Âge - XVIesiècle, coll. dirigée par G. Décote, Paris, Hatier, 1988
@@ -51,19 +50,20 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Colin, coll. Cursus, 1994  →  ANGLARD, V.,Le commentaire composé,Paris, Armand Colin, coll. Cursus lettres, 2006
-~ PREISS, A., et AUBRIT, J.-P., L’explication littéraire et le commentaire composé, Paris, A  →  PREISS, A., et AUBRIT, J.-P.,L’explication littéraire et le commentaire composé,Paris, A. Colin, coll. Cursus, 1994
 ~ BOSSUAT, R., PICHARD, L. ET RAYNAUD DE LAGE, G.,Dictionnaire des lettres françaises  →  BOSSUAT, R., PICHARD, L. ET RAYNAUD DE LAGE, G.,Dictionnaire des lettres françaises. Le Moyen Âge,(édition revue et mise à jour par G. Hasenhor et M. Zink), Paris, Fayard, 1992
+~ PREISS, A., et AUBRIT, J.-P., L’explication littéraire et le commentaire composé, Paris, A  →  PREISS, A., et AUBRIT, J.-P.,L’explication littéraire et le commentaire composé,Paris, A. Colin, coll. Cursus, 1994
+~ Colin, coll. Cursus, 1994  →  ANGLARD, V.,Le commentaire composé,Paris, Armand Colin, coll. Cursus lettres, 2006
+~ 2. Anthologies ADAM, A.,Littérature française I. Des origines à la fin du XVIIIe siècle,Paris, Larousse, 1971  →  2. Anthologies
 
 ✅ Recursos añadidos:
 ------------------------------
 + 1. Histoire de la littérature, dictionnaires, études
 + 1.Le Roman de Renard
-+ 2. Anthologies
 + 2.Perceval ou le Conte du Graal(Chrétien de Troyes)
 + 3. Techniques d’analyse littéraire
 + 3.Le roman de Mélusine(Coudrette)
 + 4.Tristan et Iseut(Béroul)
 + 5.La Cité des Dames(Christine de Pizan)
++ ADAM, A.,Littérature française I. Des origines à la fin du XVIIIesiècle,Paris, Larousse, 1971
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

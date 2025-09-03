@@ -25,10 +25,10 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ GUIMET PEREÑA, J. Introducción conceptual a los Sistemas de Información Geográfica  →  GUIMET PEREÑA, J. Introducción conceptual a los Sistemas de Información Geográfica. Estudio Gráfico. Madrid, 1992
-~ DE LA RIVA, J., LAMELAS, M.T., MONTORIO, R., PÉREZ-CABELLO, F. y RODRIGUES, M  →  DE LA RIVA, J., LAMELAS, M.T., MONTORIO, R., PÉREZ-CABELLO, F. y RODRIGUES, M. Actas del XIX Congreso de Tecnologías de la Información Geográfica. TIG al servicio de los ODS. Zaragoza: Universidad de Zaragoza, AGE, 2022
 ~ CORBIN, T.: ArcGIS Pro 3.x Cookbook: Create, Manage, Analyze, maintain, and Visualize Geospatial Data using ArcGIS Pro. Packt Publishing. 2024 CORBIN, T.: Learning ArcGIS Pro. Second Edition". Packt Publishing. 2015  →  CORBIN, T.: Learning ArcGIS Pro. Second Edition". Packt Publishing. 2015
+~ DE LA RIVA, J., LAMELAS, M.T., MONTORIO, R., PÉREZ-CABELLO, F. y RODRIGUES, M  →  DE LA RIVA, J., LAMELAS, M.T., MONTORIO, R., PÉREZ-CABELLO, F. y RODRIGUES, M. Actas del XIX Congreso de Tecnologías de la Información Geográfica. TIG al servicio de los ODS. Zaragoza: Universidad de Zaragoza, AGE, 2022
 ~ MORENO JIMÉNEZ, A. (Dir.). Geomarketing con sistemas de información geográfica  →  MORENO JIMÉNEZ, A. (Dir.). Geomarketing con sistemas de información geográfica. Madrid: Universidad Autónoma de Madrid, Departamento de Geografía General, 2001
+~ GUIMET PEREÑA, J. Introducción conceptual a los Sistemas de Información Geográfica  →  GUIMET PEREÑA, J. Introducción conceptual a los Sistemas de Información Geográfica. Estudio Gráfico. Madrid, 1992
 
 ✅ Recursos añadidos:
 ------------------------------

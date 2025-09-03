@@ -40,23 +40,23 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Developments in Sedimentology 25A, Elsevier, Amsterdam, 579pp  →  Larsen, G. y Chilingar, G.V. eds.(1979). Diagenesis in sediments and sedimentary rocks. Developments in Sedimentology 25A, Elsevier, Amsterdam, 579pp
-~ Developments in Sedimentology 25B, Elsevier, Amsterdam, 572pp  →  Larsen, G. y Chilingar, G.V. eds, (1983). Diagenesis in sediments and sedimentary rocks. Developments in Sedimentology 25B, Elsevier, Amsterdam, 572pp
-~ Ricci-Lucchi, F. (1980).Sedimentologia. C.L.U.E.B. 3vol., 226, 222 y 545pp Scholle, P.A. y Spearing, D. eds. (1982). Sanstone Depositional Environments. AAPG Memoir 31, 410pp  →  Ricci-Lucchi, F. (1980).Sedimentologia. C.L.U.E.B. 3vol., 226, 222 y 545pp
-~ Tessier, B., Renaud, J-Y. (2016) Contributions to modern and ancient tidal sedimentology: proceedings of the Tidalites 2012 Conference, Special Publication IAS, 47, 627 pp Tucker, M.E. (1985). Sedimentary Petrology: An introduction. Blackwell, Oxford, 252pp  →  Tessier, B., Renaud, J-Y. (2016) Contributions to modern and ancient tidal sedimentology: proceedings of the Tidalites 2012 Conference, Special Publication IAS, 47, 627 pp
-~ Complutense, Madrid, 382pp  →  Dabrio, C.J. y Hernando, S. (2003). Estratigrafía. Colección Geociencias. Univ. Complutense, Madrid, 382pp
+~ Ricci-Lucchi, F. (1980).Sedimentologia. C.L.U.E.B. 3vol., 226, 222 y 545pp Scholle, P.A. y Spearing, D. eds. (1982). Sanstone Depositional Environments. AAPG Memoir 31, 410pp  →  Scholle, P.A. y Spearing, D. eds. (1982). Sanstone Depositional Environments. AAPG Memoir 31, 410pp
 ~ Blackwell Sci. Publ., Amsterdam, 688pp  →  Reading, H.G. ed. (1996). Sedimentary Environments: Processes, Facies and Stratigraphy. Blackwell Sci. Publ., Amsterdam, 688pp
+~ Complutense, Madrid, 382pp  →  Dabrio, C.J. y Hernando, S. (2003). Estratigrafía. Colección Geociencias. Univ. Complutense, Madrid, 382pp
 ~ Larsen, G. y Chilingar, G.V. eds.(1979). Diagenesis in sediments and sedimentary rocks  →  Larsen, G. y Chilingar, G.V. eds, (1983). Diagenesis in sediments and sedimentary rocks. Developments in Sedimentology 25B, Elsevier, Amsterdam, 572pp
+~ Developments in Sedimentology 25B, Elsevier, Amsterdam, 572pp  →  Larsen, G. y Chilingar, G.V. eds, (1983). Diagenesis in sediments and sedimentary rocks. Developments in Sedimentology 25B, Elsevier, Amsterdam, 572pp
+~ Tessier, B., Renaud, J-Y. (2016) Contributions to modern and ancient tidal sedimentology: proceedings of the Tidalites 2012 Conference, Special Publication IAS, 47, 627 pp Tucker, M.E. (1985). Sedimentary Petrology: An introduction. Blackwell, Oxford, 252pp  →  Tucker, M.E. (1985). Sedimentary Petrology: An introduction. Blackwell, Oxford, 252pp
+~ Developments in Sedimentology 25A, Elsevier, Amsterdam, 579pp  →  Larsen, G. y Chilingar, G.V. eds.(1979). Diagenesis in sediments and sedimentary rocks. Developments in Sedimentology 25A, Elsevier, Amsterdam, 579pp
 
 ✅ Recursos añadidos:
 ------------------------------
 + Brencheley, P.J. y Williams, B.P.J. (1985). Sedimentology. Recent Developments and Applied Aspects. Blackwell, Oxford, 342pp
 + Friedman, G.M. y Sanders, J.E. (1978). Principles of Sedimentology. John Willey and Sons, New York, 792pp
-+ Scholle, P.A. y Spearing, D. eds. (1982). Sanstone Depositional Environments. AAPG Memoir 31, 410pp
++ Ricci-Lucchi, F. (1980).Sedimentologia. C.L.U.E.B. 3vol., 226, 222 y 545pp
 + Selley, R.C. (1976). An introduction to Sedimentology. Academic Press, New York, 408pp
 + Selley, R.C. (1985). Ancient Sedimentary Environments. Chapman and Hall, London, 317pp
 + Selley, R.C. (2000). Applied Sedimentology. Academic Press, London, 523pp
-+ Tucker, M.E. (1985). Sedimentary Petrology: An introduction. Blackwell, Oxford, 252pp
++ Tessier, B., Renaud, J-Y. (2016) Contributions to modern and ancient tidal sedimentology: proceedings of the Tidalites 2012 Conference, Special Publication IAS, 47, 627 pp
 + Tulsa, 196pp
 
 📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

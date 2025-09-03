@@ -17,6 +17,7 @@
 📚 Recursos sin cambios:
 ------------------------------
 = Benjamin, Walter. La obra de arte en la época de su reproducción mecánica. Madrid: Casimiro, 2010
+= Bozal Valeriano (ed.).Historia de las ideas estéticas y de las teorías artísticas contemporáneas. Madrid: Visor, 2004
 = Carroll, Noël. Una filosofía del arte de masas. Madrid: Antonio Machado, 2004
 = Danto, Arthur Coleman. “El final del arte”. El paseante, 1995 (22-23), pp. 30-54
 = Gadamer, Hans-Georg. Verdad y método. Salamanca: Sígueme, 1977
@@ -38,21 +39,20 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Villacañas, José Luis. La quiebra de la razón ilustrada: Idealismo y Romanticismo. Madrid  →  Villacañas, José Luis. La quiebra de la razón ilustrada: Idealismo y Romanticismo. Madrid: Ediciones Pedagógicas, 1994
-~ Barcelona: Paidós,1992  →  Gadamer, Hans-Georg. La actualidad de lo bello: el arte como juego, símbolo y fiesta. Barcelona: Paidós, 1991
+~ Barcelona: Paidós,1992  →  Goodman, Nelson. Los lenguajes del arte: aproximación a la teoría de los símbolos. Barcelona: Paidós, 2010
+~ Goodman, Nelson. Los lenguajes del arte: aproximación a la teoría de los símbolos. Barcelona  →  Goodman, Nelson. Los lenguajes del arte: aproximación a la teoría de los símbolos. Barcelona: Paidós, 2010
 ~ Gadamer, Hans-Georg. La actualidad de lo bello: el arte como juego, símbolo y fiesta. Barcelona  →  Gadamer, Hans-Georg. La actualidad de lo bello: el arte como juego, símbolo y fiesta. Barcelona: Paidós, 1991
 ~ Barcelona: Destino, 2011)  →  Azúa, Félix de. Diccionario de las artes. Barcelona: Planeta, 1995 (3ª edición revisada y ampliada: Barcelona: Destino, 2011)
-~ Danto, Arthur Coleman. Después del fin del arte: el arte contemporáneo y el linde de la historia  →  Danto, Arthur Coleman. Después del fin del arte: el arte contemporáneo y el linde de la historia. Barcelona: Paidós, 2002
 ~ 96, 1989, págs 57-79  →  Gómez de Liaño, Ignacio. "La deshumanización del arte, 1925-1989". Revista de Occidente, núm. 96, 1989, págs 57-79
-~ Madrid: Visor, 2004  →  Bowie, Andrew. Estética y subjetividad: la filosofía alemana de Kant a Nietzsche y la teoría estética actual. Madrid: Visor, 1999
-~ Barcelona: Paidós, 2002  →  Gadamer, Hans-Georg. La actualidad de lo bello: el arte como juego, símbolo y fiesta. Barcelona: Paidós, 1991
+~ Danto, Arthur Coleman. Después del fin del arte: el arte contemporáneo y el linde de la historia  →  Danto, Arthur Coleman. Después del fin del arte: el arte contemporáneo y el linde de la historia. Barcelona: Paidós, 2002
+~ Barcelona: Paidós, 2002  →  Goodman, Nelson. Los lenguajes del arte: aproximación a la teoría de los símbolos. Barcelona: Paidós, 2010
 ~ Azúa, Félix de. Diccionario de las artes. Barcelona: Planeta, 1995 (3ª edición revisada y ampliada  →  Azúa, Félix de. Diccionario de las artes. Barcelona: Planeta, 1995 (3ª edición revisada y ampliada: Barcelona: Destino, 2011)
-~ Goodman, Nelson. Los lenguajes del arte: aproximación a la teoría de los símbolos. Barcelona  →  Goodman, Nelson. Los lenguajes del arte: aproximación a la teoría de los símbolos. Barcelona: Paidós, 2010
+~ Villacañas, José Luis. La quiebra de la razón ilustrada: Idealismo y Romanticismo. Madrid  →  Villacañas, José Luis. La quiebra de la razón ilustrada: Idealismo y Romanticismo. Madrid: Ediciones Pedagógicas, 1994
 
 ✅ Recursos añadidos:
 ------------------------------
 + Adorno, Theodor W. Teoría Estética. Madrid: Akal, 2004
-+ Bozal Valeriano (ed.).Historia de las ideas estéticas y de las teorías artísticas contemporáneas. Madrid: Visor, 2004
++ Bowie, Andrew. Estética y subjetividad: la filosofía alemana de Kant a Nietzsche y la teoría estética actual. Madrid: Visor, 1999
 + Cascales, Raquel. El fin del arte. Hegel y Danto cara a cara. Valencia: Universidad de Valencia, 2020
 + Danto, Arthur Coleman. El abuso de la belleza: la estética y el concepto del arte. Barcelona: Paidós, 2005
 + Hegel, Georg Wilhelm Friedrich. Lecciones sobre la estética. Torrejón de Ardoz: Akal, 2007
@@ -60,4 +60,4 @@
 + Wittgenstein, Ludwig. Lecciones y conversaciones sobre estética, psicología y creencia religiosa. Barcelona: Paidós,1992
 + Zúñiga, José F. Estética y hermenéutica. Fundamentos de filosofía del arte. Granada: Comares, 2019
 
-📊 Porcentaje estimado de cambio: 71% [███████░░░]
+📊 Porcentaje estimado de cambio: 69% [██████░░░░]

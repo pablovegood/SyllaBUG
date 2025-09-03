@@ -20,9 +20,9 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Narayanaswamy, O.S. Wolfbeis. Springer. 2004 Optical sensor systems in biotechnology. T . Scheper (ed.). Ed., Springer. 2009 Principles of Chemical Sensors, Jiri Janata. 2ª Ed., Springer. 2009  →  Principles of Chemical Sensors, Jiri Janata. 2ª Ed., Springer. 2009
 ~ Optical Sensors: Industrial, Environmental and Diagnostic Applications. R  →  Optical Sensors: Industrial, Environmental and Diagnostic Applications. R. Narayanaswamy, O.S. Wolfbeis. Springer. 2004
 ~ Chemical sensors and biosensors for medical and biological applications. U.E  →  Chemical sensors and biosensors for medical and biological applications. U.E. Spichiger‐Keller. Wiley‐VCHCRC. 1998
-~ Narayanaswamy, O.S. Wolfbeis. Springer. 2004 Optical sensor systems in biotechnology. T . Scheper (ed.). Ed., Springer. 2009 Principles of Chemical Sensors, Jiri Janata. 2ª Ed., Springer. 2009  →  Optical sensor systems in biotechnology. T . Scheper (ed.). Ed., Springer. 2009
 ~ F2008181Q Encyclopedia of Sensors, Editores Craig A. Grimes, Elizabeth C. Dickey, Michael V. Pishko  →  Encyclopedia of Sensors, Editores Craig A. Grimes, Elizabeth C. Dickey, Michael V. Pishko. 1ª ed. 10 vol. American Scientific 6 Publishers. 2005
 
 ✅ Recursos añadidos:
@@ -30,6 +30,6 @@ No se eliminaron recursos.
 + BIBLIOGRAFÍA COMPLEMENTARIA
 + BIBLIOGRAFÍA FUNDAMENTAL
 + Chemical sensors and biosensors. B.R. Eggins, John Wiley & Sons. 2002
-+ Principles of Chemical Sensors, Jiri Janata. 2ª Ed., Springer. 2009
++ Optical sensor systems in biotechnology. T . Scheper (ed.). Ed., Springer. 2009
 
 📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

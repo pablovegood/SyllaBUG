@@ -40,8 +40,8 @@
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Prentice Hall, 1999. ISBN 0138613370  →  Ullman J.D., J. Widom. Introducción a los Sistemas de Bases de Datos[ 1ª edición]. Prentice Hall, 1999. ISBN 0138613370
-~ Ullman J.D., J. Widom. Introducción a los Sistemas de Bases de Datos[ 1ª edición]  →  Ullman J.D., J. Widom. Introducción a los Sistemas de Bases de Datos[ 1ª edición]. Prentice Hall, 1999. ISBN 0138613370
 ~ Abraham Silberschatz, Henry F. Korth & S. Sudarshan. Fundamentos de Bases de Datos  →  Abraham Silberschatz, Henry F. Korth & S. Sudarshan. Fundamentos de Bases de Datos. [6ª edición] McGraw-Hill, 2014. ISBN 8448190335
+~ Ullman J.D., J. Widom. Introducción a los Sistemas de Bases de Datos[ 1ª edición]  →  Ullman J.D., J. Widom. Introducción a los Sistemas de Bases de Datos[ 1ª edición]. Prentice Hall, 1999. ISBN 0138613370
 
 ✅ Recursos añadidos:
 ------------------------------

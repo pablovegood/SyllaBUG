@@ -8,6 +8,7 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = AA.VV. , La ciudad en el mundo romano, 2 vols., Tarragona, 1994
+= AA.VV., El mundo micénico. Cinco siglos de la primera civilización europea (1600-1100 a.C.), Madrid, 1992
 = AA.VV., Las peintures de Pompei, 1993
 = ADAM,J.P., La construction romaine. Materiaux et techniques, París, 1984
 = ANDRONICOS, M., Vergina II. The Tomb of Persephone, Athens, 1994
@@ -32,7 +33,6 @@ No se eliminaron recursos.
 = GRABAR, A., El primer arte cristiano, Madrid, 1967
 = GRECO, E. (Ed.), Architettura, urbanistica, società nel mondo antico. Giornata di studi in ricordo di Roland Martin (Paestum, 1998), Salerno, 2001
 = GRECO, E. (Ed.), La città greca antica. Istituzioni, società e forme urbana, Roma, 1999
-= GRECO, E., TORELLI, M., Storia dell'urbanistica. II. Il mondo greco, Roma, 1983. (II ed. 1994)
 = GROS, P., Architecture et societé à Rome et en Italie centro-méridionale aux deux derniers siècles de la République, Bruxelles, 1978
 = GROS, P., L'architecture romaine du debut du IIIe. siècle av. J.-C. à la fin du Haut-Empire. 2. Maisons, palais, villas et tombeaux, Ed. Picard, Paris, 2001
 = GROS, P., L’architecture romaine du début du IIIe siècle av. J.C. à la fin du Hault-Empire 1. Les monuments publics, Paris, 1996
@@ -70,29 +70,29 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ CAHILL, N., "Olynthus and Greek Town Planning", The Classical World , Vol. 93, No. 5, The Organization of Space in Antiquity (May - Jun., 2000), pp. 497-515 CORRALES ÁLVAREZ, A. (Ed), The language of the urbandomestic architectureas an expression of identityin the Roman world, MYTRA, Monografías y Trabajos de Arqueología, 11, Mérida, 2022 FERNANDEZ GARCIA, Mª I.(Coord), Una aproximación a Isturgi romana: el complejo alfarero de Los Villares de Andújar, Jaén, España, ed. Quasar, Roma, 2013  →  FERNANDEZ GARCIA, Mª I.(Coord), Una aproximación a Isturgi romana: el complejo alfarero de Los Villares de Andújar, Jaén, España, ed. Quasar, Roma, 2013
-~ AA.VV., L'instrumentum domesticum di Ercolano e Pompei nella prima etá imperiale, Roma, AA.VV., El mundo micénico. Cinco siglos de la primera civilización europea (1600-1100 a.C.), Madrid, 1992  →  AA.VV., L'instrumentum domesticum di Ercolano e Pompei nella prima etá imperiale, Roma, 1977
-~ La ceramique aretine lisse, Paris, 1968  →  GOUDINEAU, Ch., Fouilles de l’Ecole Française de Rome à Bolsena (Poggio Moscini) 1962-1967. La ceramique aretine lisse, Paris, 1968
-~ SCHAAD, D. Dir., La Graufesenque (Millau, Aveyron), Condatomagos. Une aglomeration de confluent en territoire ruttene II s.aC.- III s. p.C., Aquitania, 2008 SNODGRASS, A. M., Arqueología de Grecia, Barcelona, 1990  →  SCHAAD, D. Dir., La Graufesenque (Millau, Aveyron), Condatomagos. Une aglomeration de confluent en territoire ruttene II s.aC.- III s. p.C., Aquitania, 2008
-~ AA.VV., Terra Sigillata. Pasado, presente y futuro cerámico, XII N.A.C.E., Navarrete, 2022 ABAD CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss  →  ABAD CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss
-~ CHADZI-VALLIANOU, D., Phaistos, Athènes, 1998 CHADWICK, J., El enigma micénico, Madrid, 1973  →  CHADZI-VALLIANOU, D., Phaistos, Athènes, 1998
 ~ ZANKER, P., Augusto y el poder de las imágenes, Madrid, 1992 AA.VV., La Villa Romana del Casale di Piazza Armerina, Cronache di Archeologia, 23 1984 AA.VV. (DROUGOU, S. Ed.), Hellenistic pottery from Macedonia, Thessaloniki, 1991  →  ZANKER, P., Augusto y el poder de las imágenes, Madrid, 1992
-~ GINOUVES, R., MARTIN, R., Dictionnaire méthodique de l'Architecture grecque et romaine. I  →  GINOUVES, R., MARTIN, R., Dictionnaire méthodique de l'Architecture grecque et romaine. I. Matériaux, techniques de construction, techniques et formes du décor, Paris, 1985
 ~ GOUDINEAU, Ch., Fouilles de l’Ecole Française de Rome à Bolsena (Poggio Moscini) 1962-1967  →  GOUDINEAU, Ch., Fouilles de l’Ecole Française de Rome à Bolsena (Poggio Moscini) 1962-1967. La ceramique aretine lisse, Paris, 1968
+~ AA.VV., Terra Sigillata. Pasado, presente y futuro cerámico, XII N.A.C.E., Navarrete, 2022 ABAD CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss  →  ABAD CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss
+~ CAHILL, N., "Olynthus and Greek Town Planning", The Classical World , Vol. 93, No. 5, The Organization of Space in Antiquity (May - Jun., 2000), pp. 497-515 CORRALES ÁLVAREZ, A. (Ed), The language of the urbandomestic architectureas an expression of identityin the Roman world, MYTRA, Monografías y Trabajos de Arqueología, 11, Mérida, 2022 FERNANDEZ GARCIA, Mª I.(Coord), Una aproximación a Isturgi romana: el complejo alfarero de Los Villares de Andújar, Jaén, España, ed. Quasar, Roma, 2013  →  CAHILL, N., "Olynthus and Greek Town Planning", The Classical World , Vol. 93, No. 5, The Organization of Space in Antiquity (May - Jun., 2000), pp. 497-515
+~ SCHAAD, D. Dir., La Graufesenque (Millau, Aveyron), Condatomagos. Une aglomeration de confluent en territoire ruttene II s.aC.- III s. p.C., Aquitania, 2008 SNODGRASS, A. M., Arqueología de Grecia, Barcelona, 1990  →  SCHAAD, D. Dir., La Graufesenque (Millau, Aveyron), Condatomagos. Une aglomeration de confluent en territoire ruttene II s.aC.- III s. p.C., Aquitania, 2008
+~ GINOUVES, R., MARTIN, R., Dictionnaire méthodique de l'Architecture grecque et romaine. I  →  GINOUVES, R., MARTIN, R., Dictionnaire méthodique de l'Architecture grecque et romaine. I. Matériaux, techniques de construction, techniques et formes du décor, Paris, 1985
+~ GRECO, E., TORELLI, M., Storia dell'urbanistica. II. Il mondo greco, Roma, 1983. (II ed. 1994) GROS, P., TORELLI, M., Storia dell’urbanistica. Il mondo romano, Roma-Bari, 1994  →  GROS, P., TORELLI, M., Storia dell’urbanistica. Il mondo romano, Roma-Bari, 1994
+~ La ceramique aretine lisse, Paris, 1968  →  GOUDINEAU, Ch., Fouilles de l’Ecole Française de Rome à Bolsena (Poggio Moscini) 1962-1967. La ceramique aretine lisse, Paris, 1968
+~ CHADZI-VALLIANOU, D., Phaistos, Athènes, 1998 CHADWICK, J., El enigma micénico, Madrid, 1973  →  CHADWICK, J., El enigma micénico, Madrid, 1973
 
 ✅ Recursos añadidos:
 ------------------------------
 + AA.VV. (DROUGOU, S. Ed.), Hellenistic pottery from Macedonia, Thessaloniki, 1991
-+ AA.VV., El mundo micénico. Cinco siglos de la primera civilización europea (1600-1100 a.C.), Madrid, 1992
++ AA.VV., L'instrumentum domesticum di Ercolano e Pompei nella prima etá imperiale, Roma, 1977
 + AA.VV., La Villa Romana del Casale di Piazza Armerina, Cronache di Archeologia, 23 1984
 + AA.VV., Terra Sigillata. Pasado, presente y futuro cerámico, XII N.A.C.E., Navarrete, 2022
 + ALCOCK, Susan E. y OSBORNE, Robin (eds.): Classical Archaeology. Oxford: Wiley-Blackwell, 2012
-+ CAHILL, N., "Olynthus and Greek Town Planning", The Classical World , Vol. 93, No. 5, The Organization of Space in Antiquity (May - Jun., 2000), pp. 497-515
-+ CHADWICK, J., El enigma micénico, Madrid, 1973
++ CHADZI-VALLIANOU, D., Phaistos, Athènes, 1998
 + CORRALES ÁLVAREZ, A. (Ed), The language of the urbandomestic architectureas an expression of identityin the Roman world, MYTRA, Monografías y Trabajos de Arqueología, 11, Mérida, 2022
 + Disponible también en App https://play.google.com/store/apps/details?id=com.zuinqstudio.sigillahispaniae
++ FERNANDEZ GARCIA, Mª I.(Coord), Una aproximación a Isturgi romana: el complejo alfarero de Los Villares de Andújar, Jaén, España, ed. Quasar, Roma, 2013
 + FERNÁNDEZ GARCÍA, Mª I. et alii): CORPVS SIGILLA HISPANIE en https://www.sigillahispaniae.es 2023. Presentación, mediante metodología de alta tecnología, de lasdiferentes officinae que conforman los centros productores de terra sigillata hispánica
-+ GROS, P., TORELLI, M., Storia dell’urbanistica. Il mondo romano, Roma-Bari, 1994
++ GRECO, E., TORELLI, M., Storia dell'urbanistica. II. Il mondo greco, Roma, 1983. (II ed. 1994)
 + ROLLEY, C., La Sculture Grecque 2. La période classique, París, 1999
 + ROLLEY, C., La sculpture grecque.I, Paris, 1994
 + SNODGRASS, A. M., Arqueología de Grecia, Barcelona, 1990

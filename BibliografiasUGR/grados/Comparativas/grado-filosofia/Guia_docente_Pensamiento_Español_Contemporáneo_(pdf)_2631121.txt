@@ -7,8 +7,6 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
-= - J. Ortega y Gasset,Obras completas, Ed. Taurus, Madrid, 2004-2010
-= - M. de Unamuno,Obras completas, Madrid, Biblioteca Castro, 1990ss
 = Abel Sánchez(1917), en Obras Completas, vol. II, Escélicer, Madrid, 1966-1971, pp. 685-759; en Cátedra, Madrid, 1995
 = Brito, M., Ignacio Ellacuría. Fraternidad solidaria, Barcelona, Herder, 2023
 = Castro-Gómez, S., Grosfoguel, R., (eds.), El giro decolonial. Reflexiones para una diversidad epistémica más allá del capitalismo global, Bogotá, Universidad Javeriana/Siglo del hombre, 2007
@@ -40,6 +38,7 @@ No se eliminaron recursos.
 = Marías, J., Ortega, Madrid, Alianza, 1983
 = Meditaciones del Quijote, en Obras Completas, I, Taurus, Madrid, 2004
 = Mignolo, W.Local histories-global designs: Coloniality, subaltern knowledges, and border thinking, Princeton University Press, 2000
+= Miguel de Unamuno
 = Nicol, E., El problema de la filosofía hispana, Ciudad de México, Fondo de Cultura Económica, 1998 (1961)
 = Nicol, E., La idea del hombre, Ciudad de México, Fondo de Cultura Económica, 2003
 = Nicolás, J.A., Espinoza, R.(eds.), Zubiri ante Heidegger, Barcelona, Herder, 2008
@@ -62,18 +61,21 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ 685-759; en Cátedra, Madrid, 1995  →  Abel Sánchez(1917), en Obras Completas, vol. II, Escélicer, Madrid, 1966-1971, pp. 685-759; en Cátedra, Madrid, 1995
-~ Claros del bosque, Cátedra, Madrid, 2011 Filosofía y poesía, FCE, México, 2005 El hombre y lo divino, en Obras Completas, vol. 1, Galaxia Gutenberg, Madrid, 2011; FCE, México, 2007  →  Claros del bosque, Cátedra, Madrid, 2011
-~ Walsh, C., Schiwy, F., Castro-Gómez, S., (eds.), Indisciplinar las ciencias sociales  →  Walsh, C., Schiwy, F., Castro-Gómez, S., (eds.), Indisciplinar las ciencias sociales. Geopolíticas del conocimiento y colonialidad del poder. Perspectivas desde lo Andino, Quito, UASB/Abya Yala, 2002
 ~ 1039-1112; en Cátedra, Madrid, 1997; en Obras Completas, Turner, Madrid, 1995, pp  →  La tía Tula(1921), en Obras Completas, vol. II, Escélicer, Madrid, 1966-1971, pp. 1039-1112; en Cátedra, Madrid, 1997; en Obras Completas, Turner, Madrid, 1995, pp. 793-903
-~ El espectador I-VIII, en Obras Completas, II, Taurus, Madrid, 2004 España invertebrada, en Obras Completas, III, Taurus, Madrid, 2005 La deshumanización del arte, en Obras Completas, III, Taurus, Madrid, 2005 La rebelión de las masas, en Obras Completas, IV, Taurus, Madrid, 2005 Ideas y creencias, en Obras Completas, V, Taurus, Madrid, 2006, 657-685 ¿Qué es filosofía?, en Obras Completas, VIII, Taurus, Madrid, 2008 Principios de metafísica según la razón vital, VIII, Taurus, Madrid, 2008 ¿Qué es conocimiento?, Revista de Occidente en Alianza Editorial, Madrid, 1984 Lecciones de metafísica, Revista de Occidente en Alianza Editorial, Madrid, 1999 Xavier Zubiri Naturaleza, historia, Dios, Alianza, Madrid, 2006 Sobre la esencia, Alianza, Madrid, 2008 Sobre el hombre, Alianza, Madrid, 1998 El hombre y la verdad, Alianza, Madrid, 1999 Sobre la realidad, Madrid, Alianza, 2001 El hombre y Dios, Alianza, Madrid, 2013 Inteligencia sentiente. Inteligencia y realidad, Alianza, Madrid, 1980 Inteligencia y logos, Alianza, Madrid, 1982 Inteligencia y razón, Alianza, Madrid, 1983 María Zambrano F2008181Q M. Zambrano, Obras completas, J. Moreno Sanz (ed.), Barcelona, Galaxia Gutenberg, 2011ss  →  Sobre la realidad, Madrid, Alianza, 2001
+~ El espectador I-VIII, en Obras Completas, II, Taurus, Madrid, 2004 España invertebrada, en Obras Completas, III, Taurus, Madrid, 2005 La deshumanización del arte, en Obras Completas, III, Taurus, Madrid, 2005 La rebelión de las masas, en Obras Completas, IV, Taurus, Madrid, 2005 Ideas y creencias, en Obras Completas, V, Taurus, Madrid, 2006, 657-685 ¿Qué es filosofía?, en Obras Completas, VIII, Taurus, Madrid, 2008 Principios de metafísica según la razón vital, VIII, Taurus, Madrid, 2008 ¿Qué es conocimiento?, Revista de Occidente en Alianza Editorial, Madrid, 1984 Lecciones de metafísica, Revista de Occidente en Alianza Editorial, Madrid, 1999 Xavier Zubiri Naturaleza, historia, Dios, Alianza, Madrid, 2006 Sobre la esencia, Alianza, Madrid, 2008 Sobre el hombre, Alianza, Madrid, 1998 El hombre y la verdad, Alianza, Madrid, 1999 Sobre la realidad, Madrid, Alianza, 2001 El hombre y Dios, Alianza, Madrid, 2013 Inteligencia sentiente. Inteligencia y realidad, Alianza, Madrid, 1980 Inteligencia y logos, Alianza, Madrid, 1982 Inteligencia y razón, Alianza, Madrid, 1983 María Zambrano F2008181Q M. Zambrano, Obras completas, J. Moreno Sanz (ed.), Barcelona, Galaxia Gutenberg, 2011ss  →  El hombre y la verdad, Alianza, Madrid, 1999
+~ 685-759; en Cátedra, Madrid, 1995  →  Abel Sánchez(1917), en Obras Completas, vol. II, Escélicer, Madrid, 1966-1971, pp. 685-759; en Cátedra, Madrid, 1995
+~ III. Historias de la Filosofía española y Diccionarios Abellán, J.L., Historia crítica de la filosofía española, Madrid, Alianza, 1979-89 Ferrater Mora, J., Diccionario de Filosofía, Alianza, Madrid, 1979 Fornet Betancourt, R., Beorlegui, C. (eds.), Guía Comares de filosofía latinoamericana, Granada, Comares, 2014 Fraile, G., Historia de la filosofía española, Madrid, 1971 Garagorri, P., La filosofía española en el siglo XX, Madrid, 1985 Guy, A., Historia de la filosofía española, Barcelona, Anthropos, 1985 Krings, H., Baumgartner, H.M., Wild, Ch. (eds.), Conceptos fundamentales de Filosofía, Herder, Barcelona, 1977 Mora, J.L., Heredia, A. (eds.) Guía Comares de historia de la filosofía española, Granada, Comares, 2022 Marías, J., La filosofía española actual. Unamuno, Ortega, Morente, Zubiri, Madrid, Espasa-Calpe, 1973. Nicolás, J. A. (ed.), Guía Comares de Zubiri, Comares, Granada, 2011 Savignano, A., Panorama de la filosofía española del s. XX, Granada, Comares, 2008 Zamora Bonilla, J., Guía Comares de Ortega y Gasset, Ed. Comares, Granada, 2013  →  -Marías, J., La filosofía española actual. Unamuno, Ortega, Morente, Zubiri, Madrid, Espasa-Calpe, 1973
+~ Hacia un saber sobre el alma, Alianza, Madrid, 2000 Pensamiento y poesía en la vida española, Colegio de México, México, 2008 Horizonte del liberalismo, Ediciones Morata, Madrid, 1996 Filosofía hispano-americana Dussel, E. Filosofía de la liberación. Una antología. Madrid: Akal, 2021  →  Horizonte del liberalismo, Ediciones Morata, Madrid, 1996
 ~ Fornet-Betancourt, R., Crítica intercultural de la filosofía latinoamericana actual  →  Fornet-Betancourt, R., Crítica intercultural de la filosofía latinoamericana actual. Madrid: Trotta, 2004
-~ Hacia un saber sobre el alma, Alianza, Madrid, 2000 Pensamiento y poesía en la vida española, Colegio de México, México, 2008 Horizonte del liberalismo, Ediciones Morata, Madrid, 1996 Filosofía hispano-americana Dussel, E. Filosofía de la liberación. Una antología. Madrid: Akal, 2021  →  Dussel, E. Filosofía de la liberación. Una antología. Madrid: Akal, 2021
-~ III. Historias de la Filosofía española y Diccionarios Abellán, J.L., Historia crítica de la filosofía española, Madrid, Alianza, 1979-89 Ferrater Mora, J., Diccionario de Filosofía, Alianza, Madrid, 1979 Fornet Betancourt, R., Beorlegui, C. (eds.), Guía Comares de filosofía latinoamericana, Granada, Comares, 2014 Fraile, G., Historia de la filosofía española, Madrid, 1971 Garagorri, P., La filosofía española en el siglo XX, Madrid, 1985 Guy, A., Historia de la filosofía española, Barcelona, Anthropos, 1985 Krings, H., Baumgartner, H.M., Wild, Ch. (eds.), Conceptos fundamentales de Filosofía, Herder, Barcelona, 1977 Mora, J.L., Heredia, A. (eds.) Guía Comares de historia de la filosofía española, Granada, Comares, 2022 Marías, J., La filosofía española actual. Unamuno, Ortega, Morente, Zubiri, Madrid, Espasa-Calpe, 1973. Nicolás, J. A. (ed.), Guía Comares de Zubiri, Comares, Granada, 2011 Savignano, A., Panorama de la filosofía española del s. XX, Granada, Comares, 2008 Zamora Bonilla, J., Guía Comares de Ortega y Gasset, Ed. Comares, Granada, 2013  →  -Nicolás, J. A. (ed.), Guía Comares de Zubiri, Comares, Granada, 2011
+~ Walsh, C., Schiwy, F., Castro-Gómez, S., (eds.), Indisciplinar las ciencias sociales  →  Walsh, C., Schiwy, F., Castro-Gómez, S., (eds.), Indisciplinar las ciencias sociales. Geopolíticas del conocimiento y colonialidad del poder. Perspectivas desde lo Andino, Quito, UASB/Abya Yala, 2002
+~ José Ortega y Gasset J. Ortega y Gasset, Obras completas, Ed. Taurus, Madrid, 2004-2010  →  José Ortega y Gasset
+~ Claros del bosque, Cátedra, Madrid, 2011 Filosofía y poesía, FCE, México, 2005 El hombre y lo divino, en Obras Completas, vol. 1, Galaxia Gutenberg, Madrid, 2011; FCE, México, 2007  →  Filosofía y poesía, FCE, México, 2005
 
 ✅ Recursos añadidos:
 ------------------------------
++ - J. Ortega y Gasset,Obras completas, Ed. Taurus, Madrid, 2004-2010
 + - M. Zambrano,Obras completas, J. Moreno Sanz (ed.), Barcelona, Galaxia Gutenberg, 2011ss
++ - M. de Unamuno,Obras completas, Madrid, Biblioteca Castro, 1990ss
 + -Abellán, J.L.,Historia crítica de la filosofía española, Madrid, Alianza, 1979-89
 + -Ferrater Mora, J., Diccionario de Filosofía, Alianza, Madrid, 1979
 + -Fornet Betancourt, R., Beorlegui, C. (eds.), Guía Comares de filosofía latinoamericana, Granada, Comares, 2014
@@ -81,22 +83,21 @@ No se eliminaron recursos.
 + -Garagorri, P., La filosofía española en el siglo XX, Madrid, 1985
 + -Guy, A., Historia de la filosofía española, Barcelona, Anthropos, 1985
 + -Krings, H., Baumgartner, H.M., Wild, Ch.(eds.), Conceptos fundamentales de Filosofía, Herder, Barcelona, 1977
-+ -Marías, J., La filosofía española actual. Unamuno, Ortega, Morente, Zubiri, Madrid, Espasa-Calpe, 1973
 + -Mora, J.L.,Heredia, A. (eds.) Guía Comares de historia de la filosofía española, Granada, Comares, 2022
++ -Nicolás, J. A. (ed.), Guía Comares de Zubiri, Comares, Granada, 2011
 + -Savignano, A., Panorama de la filosofía española del s. XX, Granada, Comares, 2008
 + -Zamora Bonilla, J.,Guía Comares de Ortega y Gasset, Ed. Comares, Granada, 2013
 + Cerezo, P., María Zambrano. Razón poética y esperanza, Madrid, Sindéresis, 2024
++ Claros del bosque, Cátedra, Madrid, 2011
++ Dussel, E. Filosofía de la liberación. Una antología. Madrid: Akal, 2021
 + El espectadorI-VIII, en Obras Completas, II, Taurus, Madrid, 2004
 + El hombre y Dios, Alianza, Madrid, 2013
-+ El hombre y la verdad, Alianza, Madrid, 1999
 + El hombre y lo divino, en Obras Completas, vol. 1, Galaxia Gutenberg, Madrid, 2011; FCE, México, 2007
 + El tema de nuestro tiempo, en Obras Completas, III, Taurus, Madrid, 2005
 + España invertebrada, en Obras Completas, III, Taurus, Madrid, 2005
 + Filosofía hispano-americana
-+ Filosofía y poesía, FCE, México, 2005
 + Gracia, D., El poder de lo real. Leyendo a Zubiri, Madrid, Triacastela, 2016
 + Hacia un saber sobre el alma, Alianza, Madrid, 2000
-+ Horizonte del liberalismo, Ediciones Morata, Madrid, 1996
 + I. Fuentes
 + II. Bibliografía secundaria
 + III.Historias de la Filosofía española y Diccionarios
@@ -104,21 +105,20 @@ No se eliminaron recursos.
 + Inteligencia sentiente. Inteligencia y realidad, Alianza, Madrid, 1980
 + Inteligencia y logos, Alianza, Madrid, 1982
 + Inteligencia y razón, Alianza, Madrid, 1983
-+ José Ortega y Gasset
 + La deshumanización del arte, en Obras Completas, III, Taurus, Madrid, 2005
 + La rebelión de las masas, en Obras Completas, IV, Taurus, Madrid, 2005
 + Lecciones de metafísica, Revista de Occidente en Alianza Editorial, Madrid, 1999
 + María Zambrano
-+ Miguel de Unamuno
 + Naturaleza, historia, Dios, Alianza, Madrid, 2006
 + Nicolás, J.A., Samour, H.(eds.), Historia, ética y ciencia. El impulso crítico de la filosofía de Zubiri, Granada, Comares, 2007
 + Pensamiento y poesía en la vida española, Colegio de México, México, 2008
 + Principios de metafísica según la razón vital, VIII, Taurus, Madrid, 2008
 + Sobre el hombre, Alianza, Madrid, 1998
 + Sobre la esencia, Alianza, Madrid, 2008
++ Sobre la realidad, Madrid, Alianza, 2001
 + Sánchez Vázquez, A., Las ideas estéticas de Marx, Ciudad de México, ERA, 1965
 + Xavier Zubiri
 + ¿Qué es conocimiento?, Revista de Occidente en Alianza Editorial, Madrid, 1984
 + ¿Qué es filosofía?, en Obras Completas, VIII, Taurus, Madrid, 2008
 
-📊 Porcentaje estimado de cambio: 91% [█████████░]
+📊 Porcentaje estimado de cambio: 93% [█████████░]

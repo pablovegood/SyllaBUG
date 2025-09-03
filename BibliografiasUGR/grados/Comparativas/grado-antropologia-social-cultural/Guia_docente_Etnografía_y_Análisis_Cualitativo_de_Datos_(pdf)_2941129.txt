@@ -27,6 +27,7 @@ No se eliminaron recursos.
 = Dicks, Bella, Mason, Bruce, Coffey, Amanda y Paul Atkinson. 2005. Qualitative research and hypermedia. Thousand Oaks, California: Sage
 = Emerson, Robert M., Fretz, Rachel I. y Linda L. Shaw. 1995. Writing Ethnographic Fieldnotes. Chicago: University of Chicago Press
 = Flick, Uwe. 2012. Introducción a la investigación cualitativa. 3ª ed. Madrid: Morata
+= Fradejas Rueda, J.M. (2023). Cuentapalabras. Estilometría y análisis de texto con R para filólogos. https://www.aic.uva.es/cuentapalabras/
 = Friese, S. 2019. Qualitative Data Analysis with ATLAS.ti (3rd ed.). Thousand Oaks, CA: Sage
 = Garson, D. 2021. Data analytics for the Social Sciences. Applications in R. New York: Routledge
 = Gibbs, Graham. 2012 [2007]. El análisis de datos cualitativos en investigación cualitativa. Madrid: Morata
@@ -58,23 +59,22 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Fradejas Rueda, J.M. (2023). Cuentapalabras. Estilometría y análisis de texto con R para F2008181Q García Ferrando, M. et al. 1986. El análisis de la realidad social. Métodos y técnicas de investigación. Madrid: Alianza Universidad Textos  →  García Ferrando, M. et al. 1986. El análisis de la realidad social. Métodos y técnicas de investigación. Madrid: Alianza Universidad Textos
-~ La inferencia científica en los estudios cualitativos. Madrid: Alianza Editorial  →  King, Gary, Keohane, Robert O. y Sidney Verba. 2000. El diseño de la investigación social: La inferencia científica en los estudios cualitativos. Madrid: Alianza Editorial
-~ Princeton University Press  →  Salganik, Matthew J. 2018. Bit by bit. Social research in the digital age. Princeton, NJ: Princeton University Press
 ~ Alicante: Servicio de Publicaciones de la Universidad de Alicante  →  Morse, Janice. M. 2005. Asuntos críticos en los métodos de investigación cualitativa. Alicante: Servicio de Publicaciones de la Universidad de Alicante
+~ Oaks, California: Sage  →  Bazeley, Patricia. 2013. Qualitative Data Analysis: Practical Strategies. Thousand Oaks, California: Sage
+~ Princeton University Press  →  Salganik, Matthew J. 2018. Bit by bit. Social research in the digital age. Princeton, NJ: Princeton University Press
+~ Madrid: Editorial Síntesis  →  Cea, M.A. 1996. Metodología cualitativa. Estrategias y técnicas de investigación social. Madrid: Editorial Síntesis
+~ From Research Design to Final Report. Thousand Oaks, CA: Sage  →  Daniels, L., & Minot, N. (2019). Introduction to Statistics and Data Analysis Using Stata. From Research Design to Final Report. Thousand Oaks, CA: Sage
+~ La inferencia científica en los estudios cualitativos. Madrid: Alianza Editorial  →  King, Gary, Keohane, Robert O. y Sidney Verba. 2000. El diseño de la investigación social: La inferencia científica en los estudios cualitativos. Madrid: Alianza Editorial
 ~ New York: Basic Books  →  Page, S. (2018). The model thinker: What you need to know to make data work for you. New York: Basic Books
 ~ Paradigmas y perspectivas en disputa. Barcelona: Gedisa  →  Denzin, N. y Lincoln, Y. 2012. Manual de Investigación Cualitativa, Volumen II: Paradigmas y perspectivas en disputa. Barcelona: Gedisa
-~ From Research Design to Final Report. Thousand Oaks, CA: Sage  →  Daniels, L., & Minot, N. (2019). Introduction to Statistics and Data Analysis Using Stata. From Research Design to Final Report. Thousand Oaks, CA: Sage
-~ Madrid: Editorial Síntesis  →  Cea, M.A. 1996. Metodología cualitativa. Estrategias y técnicas de investigación social. Madrid: Editorial Síntesis
-~ Oaks, California: Sage  →  Bazeley, Patricia y Kristi Jackson. 2013. Qualitative data analysis with NVivo. Thousand Oaks, California: Sage
 
 ✅ Recursos añadidos:
 ------------------------------
 + Bardin, Laurence. 2002. Análisis de contenido. Madrid: Akal
-+ Bazeley, Patricia. 2013. Qualitative Data Analysis: Practical Strategies. Thousand Oaks, California: Sage
-+ Fradejas Rueda, J.M. (2023). Cuentapalabras. Estilometría y análisis de texto con R para filólogos. https://www.aic.uva.es/cuentapalabras/
++ Bazeley, Patricia y Kristi Jackson. 2013. Qualitative data analysis with NVivo. Thousand Oaks, California: Sage
++ García Ferrando, M. et al. 1986. El análisis de la realidad social. Métodos y técnicas de investigación. Madrid: Alianza Universidad Textos
 + Guest, Greg, Kathleen M. MacQueen, y Emily E. Namey. 2011. Applied thematic analysis. Sage Publications
 + Hammersley, M. 1988. Reading Ethnographic Research. London and New York: Longman
 + Krippendorff, K. 2002. Metodología de análisis de contenido. Teoría y práctica. Buenos Aires: Paidós
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

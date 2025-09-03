@@ -7,7 +7,7 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
-= -Levine MM. New generation of vaccines. CRC Press
+= -Modjarrad K. Human Vaccines. Academic Press
 = -Rappuoli R, Bottomley MJ, D'Oro U, Finco O, De Gregorio E. Reverse vaccinology 2.0: Human immunology instructs vaccine antigen design. J Exp Med. 2016 4;213):469-81. doi: 10.1084/jem.20151960
 = -Sheerin D, Openshaw JM , Pollard AJ. Issues in Vaccinology: Present Challenges and Future Directions. Eur J Immunol. 2017 Dec;47(12):2017-2025. doi: 10.1002/eji.201746942
 
@@ -19,7 +19,7 @@ No hubo cambios de edición/año.
 ------------------------------
 + -Abbas AK, Lichtman AH, y Pober JS. Inmunología Celular y Molecular. McGraw-Hill- Interamericana
 + -Delves PJ, Martin SJ, Burton DR, Roitt IM. Roitt’s Essential Immunology. Wiley
-+ -Modjarrad K. Human Vaccines. Academic Press
++ -Levine MM. New generation of vaccines. CRC Press
 + -Murphy K, Janeway CA, Travers P and Walport M. Janeway’s Immunobiology,Garland Science
 + -Parham P The Immune System. Ed. W. W. Norton
 + -Rich RR, Fleisher TA, Shearer WY, Schroeder H, Frew AJ, Weyand CM. Clinical Immunology. Ed. Elsevier

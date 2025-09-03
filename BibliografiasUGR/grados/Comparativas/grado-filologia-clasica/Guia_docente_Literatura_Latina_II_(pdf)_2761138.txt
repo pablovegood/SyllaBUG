@@ -3,7 +3,7 @@
 
 ❌ Recursos eliminados:
 ------------------------------
-- F2008181Q Les Belles Lettres)
+- Les Belles Lettres)
 
 📚 Recursos sin cambios:
 ------------------------------
@@ -27,7 +27,6 @@
 = Kenney, E. J. – Clausen, W. V., eds. (1989): Historia de la literatura clásica, vol. II: Literatura latina, trad. esp. E. Bombín (Madrid: Gredos)
 = Moralejo, J. L. (2007): Horacio, Odas, Canto Secular, Epodos (Madrid: Gredos)
 = Paratore, E. (1970): La letteratura latina dell’età imperiale (Firenze: Sansone / Milano: Accademia) [reimpr. Milano: BUR, 1992]
-= Pérez González, M. (1989): Tito Livio, Los orígenes de Roma (libros I-V) (Madrid: Akal)
 = Pérez Gómez, L. (2012): Séneca, Tragedias Completas (Madrid: Cátedra)
 = Ramírez de Verger, A. – Navarro Antolín, F. (1995): Ovidio, Metamorfosis (Madrid: Alianza Editorial)
 = Rodríguez Santidrián, P. (1987): Petronius, Satiricón (Madrid: Alianza Editorial)
@@ -39,21 +38,22 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Literatura latina, trad. esp. E. Bombín (Madrid: Gredos)  →  Kenney, E. J. – Clausen, W. V., eds. (1989): Historia de la literatura clásica, vol. II: Literatura latina, trad. esp. E. Bombín (Madrid: Gredos)
-~ K. Sallmann – F. Heim, eds., L’âge de transition: De la littérature romaine à la littérature chrétienne de 117 à 284 après J.-C. (Tournhout: Brepols)  →  Herzog, R. – Schmidt, P. L., eds. (2000): Nouvelle histoire de la littérature latine, vol. IV: K. Sallmann – F. Heim, eds., L’âge de transition: De la littérature romaine à la littérature chrétienne de 117 à 284 après J.-C. (Tournhout: Brepols)
+~ Ovidio, Metamorfosis Álvarez Morán, M. C. – Iglesias Montiel, R. M. (1995): Ovidio, Metamorfosis (Madrid  →  Ovidio, Metamorfosis
+~ Blackwell Publishing) [reimpr. 2008]  →  Harrison, S., ed. (2005): A companion to Latin literature (Malden / Oxford / Carlton: Blackwell Publishing) [reimpr. 2008]
 ~ Séneca, Tragedias Luque Moreno, J. (1979-1980): Séneca, Tragedias, I-II (Madrid: Gredos)  →  Séneca, Tragedias
 ~ Petronio, Satiricón Rubio Fernández, L. (1977): Petronio, El Satiricón (Madrid: Gredos)  →  Petronio, Satiricón
+~ Literatura latina, trad. esp. E. Bombín (Madrid: Gredos)  →  Kenney, E. J. – Clausen, W. V., eds. (1989): Historia de la literatura clásica, vol. II: Literatura latina, trad. esp. E. Bombín (Madrid: Gredos)
 ~ Accademia) [reimpr. Milano: BUR, 1992]  →  Paratore, E. (1970): La letteratura latina dell’età imperiale (Firenze: Sansone / Milano: Accademia) [reimpr. Milano: BUR, 1992]
-~ Blackwell Publishing) [reimpr. 2008]  →  Harrison, S., ed. (2005): A companion to Latin literature (Malden / Oxford / Carlton: Blackwell Publishing) [reimpr. 2008]
-~ Ovidio, Metamorfosis Álvarez Morán, M. C. – Iglesias Montiel, R. M. (1995): Ovidio, Metamorfosis (Madrid  →  Ovidio, Metamorfosis
+~ K. Sallmann – F. Heim, eds., L’âge de transition: De la littérature romaine à la littérature chrétienne de 117 à 284 après J.-C. (Tournhout: Brepols)  →  Herzog, R. – Schmidt, P. L., eds. (2000): Nouvelle histoire de la littérature latine, vol. IV: K. Sallmann – F. Heim, eds., L’âge de transition: De la littérature romaine à la littérature chrétienne de 117 à 284 après J.-C. (Tournhout: Brepols)
+~ Tito Livio, Historia de Roma, Libro I Pérez González, M. (1989): Tito Livio, Los orígenes de Roma (libros I-V) (Madrid: Akal)  →  Tito Livio, Historia de Roma, Libro I
 
 ✅ Recursos añadidos:
 ------------------------------
 + Horacio, Odas
 + Luque Moreno, J. (1979-1980): Séneca, Tragedias, I-II (Madrid: Gredos)
++ Pérez González, M. (1989): Tito Livio, Los orígenes de Roma (libros I-V) (Madrid: Akal)
 + Rubio Fernández, L. (1977): Petronio, El Satiricón (Madrid: Gredos)
-+ Tito Livio, Historia de Roma, Libro I
 + Virgilio, Eneida
 + Álvarez Morán, M. C. – Iglesias Montiel, R. M. (1995): Ovidio, Metamorfosis (Madrid: Cátedra)
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

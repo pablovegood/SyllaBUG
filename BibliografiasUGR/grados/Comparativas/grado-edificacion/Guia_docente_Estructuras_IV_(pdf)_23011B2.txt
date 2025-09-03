@@ -8,7 +8,6 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = CALCULO DE ESTRUCTUTAS DE CIMENTACION. José Calavera. INTEMAC
-= CALCULO MATRICIAL DE ESTRUCTURAS. Ramón Argüelles. Bellisco ETC 2005
 = EUROCODIGO 2. Diseño de Estructuras de Hormigón
 = HORMIGÓN ARMADO 15ª Ed. Meseguer y Morán. Ed. G. Gili, Madrid
 = NORMA DE CONSTRUCCIÓN SISMORRESISTENTE NCSE-02
@@ -16,12 +15,12 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-No hubo cambios de edición/año.
+~ CALCULO MATRICIAL DE ESTRUCTURAS. Ramón Argüelles. Bellisco ETC 2005 DINÁMICA DE ESTRUCTURAS. Anil K. Chopra  →  DINÁMICA DE ESTRUCTURAS. Anil K. Chopra
 
 ✅ Recursos añadidos:
 ------------------------------
-+ DINÁMICA DE ESTRUCTURAS. Anil K. Chopra
++ CALCULO MATRICIAL DE ESTRUCTURAS. Ramón Argüelles. Bellisco ETC 2005
 + EUROCÓDIGO 8: Diseño Sísmico de Estructuras
 + NORMATIVA
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

@@ -10,9 +10,7 @@
 
 📚 Recursos sin cambios:
 ------------------------------
-= -, "The search for American character in the early literary manifestations".Actas de las III Jornadas de Literatura y Estudios Culturales. Universidad de Jaén 2000: 215-221
 = Ashcroft, B., G. Griffiths y Tiffin, H.The Empire Writes Back.London, New York: Routledge, 2002 (1989). 37-71
-= Elliott, E (ed)The Columbia Literary History of the United States,Columbia: Columbia University Press, 1988
 = Innes, C.L.Comparing Postcolonial Literatures: Dislocations. Eds. A. Bery y P. Murray. London: Macmillan Press, 2000. 21-30
 = Poplawski, Paul.English Literature in Context. Cambridge University Press, 2017
 = Radin. P.The Trickster. A Study in American Indian Mythology,Schocken Books, NY, 1972
@@ -20,18 +18,20 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Williams, R. “Base and Superstructure in Marxist Cultural Theory”. New Left Review I/82. Nov-Dec 1973.3-14 Zinn, H. A People’s History of the United States. 1492-Present. New York: Harper, 1995. y Arnove, A. Voices of a People’s History of the United States. New York: Seven Stories Press. alumnado  →  Williams, R. “Base and Superstructure in Marxist Cultural Theory”.New Left ReviewI/82. Nov-Dec 1973.3-14
-~ Innes, C.L. Comparing Postcolonial Literatures: Dislocations. Eds. A. Bery y P. Murray  →  Innes, C.L.Comparing Postcolonial Literatures: Dislocations. Eds. A. Bery y P. Murray. London: Macmillan Press, 2000. 21-30
+~ Morillas Sánchez, R. "Literatura ‘dominante’ vs. literatura ‘dominada’: situación de la literatura nativo-americana a finales del siglo XX. English Studies: Past, Present and Future. Universidad de Almería. (CD ROM) , "The search for American character in the early literary manifestations". Actas de las III Jornadas de Literatura y Estudios Culturales. Universidad de Jaén 2000: 215-221  →  Morillas Sánchez, R. "Literatura ‘dominante’ vs. literatura ‘dominada’: situación de la literatura nativo-americana a finales del siglo XX.English Studies: Past, Present and Future.Universidad de Almería. (CD ROM)
 ~ Ashcroft, B., G. Griffiths y Tiffin, H. The Empire Writes Back. London, New York  →  Ashcroft, B., G. Griffiths y Tiffin, H.The Empire Writes Back.London, New York: Routledge, 2002 (1989). 37-71
+~ Innes, C.L. Comparing Postcolonial Literatures: Dislocations. Eds. A. Bery y P. Murray  →  Innes, C.L.Comparing Postcolonial Literatures: Dislocations. Eds. A. Bery y P. Murray. London: Macmillan Press, 2000. 21-30
+~ Williams, R. “Base and Superstructure in Marxist Cultural Theory”. New Left Review I/82. Nov-Dec 1973.3-14 Zinn, H. A People’s History of the United States. 1492-Present. New York: Harper, 1995. y Arnove, A. Voices of a People’s History of the United States. New York: Seven Stories Press. alumnado  →  - y Arnove, A.Voices of a People’s History of the United States. New York: Seven Stories Press
+~ Baym, N. et al. The Norton Anthology of American Literature. Shorter 6th edition Elliott, E (ed) The Columbia Literary History of the United States, Columbia: Columbia University Press, 1988  →  Baym, N. et al.The Norton Anthology of American Literature. Shorter 6th edition
 
 ✅ Recursos añadidos:
 ------------------------------
-+ - y Arnove, A.Voices of a People’s History of the United States. New York: Seven Stories Press
-+ Baym, N. et al.The Norton Anthology of American Literature. Shorter 6th edition
++ -, "The search for American character in the early literary manifestations".Actas de las III Jornadas de Literatura y Estudios Culturales. Universidad de Jaén 2000: 215-221
++ Elliott, E (ed)The Columbia Literary History of the United States,Columbia: Columbia University Press, 1988
 + Esta bibliografía será actualizada periódicamente según la disponibilidad y las necesidades del alumnado
-+ Morillas Sánchez, R. "Literatura ‘dominante’ vs. literatura ‘dominada’: situación de la literatura nativo-americana a finales del siglo XX.English Studies: Past, Present and Future.Universidad de Almería. (CD ROM)
 + Nayar, Pramod K.Postcolonialism: A Guide for the Perplexed. Continuum, 2010
 + S. Greenblatt et al.The Norton Anthology of English Literature: The Twentieth and Twenty-first centuries. Vol. F. New York & London: W.W. Norton & Co., 2022. Eleventh edition
++ Williams, R. “Base and Superstructure in Marxist Cultural Theory”.New Left ReviewI/82. Nov-Dec 1973.3-14
 + Zinn, H.A People’s History of the United States.1492-Present. New York: Harper, 1995
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

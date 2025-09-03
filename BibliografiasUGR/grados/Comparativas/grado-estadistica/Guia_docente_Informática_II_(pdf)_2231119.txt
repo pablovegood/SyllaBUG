@@ -38,9 +38,9 @@ No hubo coincidencias exactas o equivalentes.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ O. Pons, N. Marin, J.M. Medina, S. Acid, M.A. Vila Introducción a las Bases de Datos: El modelo Relacional [1ª edición] Thomson Paraninfo, 2005. ISBN 84-9732-396-3 Abraham Silberschatz, Henry F. Korth & S. Sudarshan Fundamentos de Bases de Datos [5ª edición] McGraw-Hill, 2006. ISBN 8448146441 Ullman J.D., J. Widom Introducción a los Sistemas de Bases de Datos [1ª edición] Prentice Hall, 1999. ISBN 0138613370 8478290753 F2008181Q de Datos Desde el Modelo Conceptual Hasta el Modelo Relacional con Esta Guía Práctica con Ejemplos: Independently Published; 2019  →  Abraham Silberschatz, Henry F. Korth & S. Sudarshan Fundamentos de Bases de Datos [5ª edición] McGraw-Hill, 2006. ISBN 8448146441
-~ ELMASRI, RAMEZ Fundamentos de sistemas de bases de datos / Ramez Elmasri, Shamkant B. Navathe Madrid Pearson, D.L. 2007 (5ª ed.) Date C.J. Introducción a los Sistemas de Bases de Datos. [7ª edición] Prentice Hall, 2001 Santos, 1994 Michael Alexander, Richard Kusleika. Access 2019 Bible ISBN: 978-1-119-51474-9 Septiembre 2018  →  ELMASRI, RAMEZ Fundamentos de sistemas de bases de datos / Ramez Elmasri, Shamkant B. Navathe Madrid Pearson, D.L. 2007 (5ª ed.)
+~ ELMASRI, RAMEZ Fundamentos de sistemas de bases de datos / Ramez Elmasri, Shamkant B. Navathe Madrid Pearson, D.L. 2007 (5ª ed.) Date C.J. Introducción a los Sistemas de Bases de Datos. [7ª edición] Prentice Hall, 2001 Santos, 1994 Michael Alexander, Richard Kusleika. Access 2019 Bible ISBN: 978-1-119-51474-9 Septiembre 2018  →  Michael Alexander, Richard Kusleika. Access 2019 Bible ISBN: 978-1-119-51474-9 Septiembre 2018
 ~ Silberschatz A, Korth HF, Sudarshan S, Pérez FS. Fundamentos de bases de datos  →  Silberschatz A, Korth HF, Sudarshan S, Pérez FS. Fundamentos de bases de datos: McGraw-Hill; 2006
+~ O. Pons, N. Marin, J.M. Medina, S. Acid, M.A. Vila Introducción a las Bases de Datos: El modelo Relacional [1ª edición] Thomson Paraninfo, 2005. ISBN 84-9732-396-3 Abraham Silberschatz, Henry F. Korth & S. Sudarshan Fundamentos de Bases de Datos [5ª edición] McGraw-Hill, 2006. ISBN 8448146441 Ullman J.D., J. Widom Introducción a los Sistemas de Bases de Datos [1ª edición] Prentice Hall, 1999. ISBN 0138613370 8478290753 F2008181Q de Datos Desde el Modelo Conceptual Hasta el Modelo Relacional con Esta Guía Práctica con Ejemplos: Independently Published; 2019  →  Abraham Silberschatz, Henry F. Korth & S. Sudarshan Fundamentos de Bases de Datos [5ª edición] McGraw-Hill, 2006. ISBN 8448146441
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -50,7 +50,7 @@ No hubo coincidencias exactas o equivalentes.
 + Barrientos SG. Diseño de Bases de Datos - un Enfoque Práctico: Aprende a Diseñar Bases de Datos Desde el Modelo Conceptual Hasta el Modelo Relacional con Esta Guía Práctica con Ejemplos: Independently Published; 2019
 + Connolly T, C. Begg Sistemas de Bases de Datos [4ª edición] Addison-Wesley, 2005. ISBN 8478290753
 + Date C.J. Introducción a los Sistemas de Bases de Datos. [7ª edición] Prentice Hall, 2001
-+ Michael Alexander, Richard Kusleika. Access 2019 Bible ISBN: 978-1-119-51474-9 Septiembre 2018
++ ELMASRI, RAMEZ Fundamentos de sistemas de bases de datos / Ramez Elmasri, Shamkant B. Navathe Madrid Pearson, D.L. 2007 (5ª ed.)
 + O. Pons, N. Marin, J.M. Medina, S. Acid, M.A. Vila Introducción a las Bases de Datos: El modelo Relacional [1ª edición] Thomson Paraninfo, 2005. ISBN 84-9732-396-3
 + Ullman J.D., J. Widom Introducción a los Sistemas de Bases de Datos [1ª edición] Prentice Hall, 1999. ISBN 0138613370
 

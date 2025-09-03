@@ -16,6 +16,7 @@
 = 6. La construcción de la memoria
 = 7. El arquitecto y la técnica
 = AALTO, Alvar, La humanización de la arquitectura, ed. Xavier Sust, Tusquets, Barcelona, 1977
+= ARAVENA, Alejandro. Material de Arquitectura. Universidad Católica de Chile, 2003
 = ARAVENA, Alejandro; IACOBELLI, Andrés. Elemental, manual de vivienda incremental y diseño participativo. Hatje Cantz, Berlín, 2012
 = ARGAN, Giulio Carlo, El concepto del espacio arquitectónico desde el Barroco a nuestros días, Nueva Visión, Buenos Aires, 1973
 = AUGÉ, Marc, Los no lugares: espacios del anonimato. Una antropología de la sobremodernidad, Gedisa, Barcelona, 2006 (ed. original de 1992)
@@ -47,6 +48,7 @@
 = MONTANER, Josep María, Arquitectura y crítica, Gustavo Gili, Barcelona, 1999
 = MONTANER, Josep María, Arquitectura y política, Gustavo Gili, Barcelona, 2011
 = MONTANER, Josep María, “Espacio y antiespacio, lugar y no lugar en la arquitectura moderna”, La modernidad superada. Arquitectura, arte y pensamiento del siglo XX, Gustavo Gili, Barcelona, 2002, pp. 25-58
+= MORETTI, Luigi, Espacios - luz en la arquitectura religiosa, Madrid, Lampreave, 2012
 = MUNTAÑOLA I THORNBERG, Josep, Arquitectura y contexto, UPC, Barcelona, 2004
 = NAVARRO BALDEWEG, Juan, Una caja de resonancia, Valencia, Pre-textos, 2007
 = NORBERG-SCHULZ, Christian, Genius loci: towards a phenomenology of architecture, Academy Editions, Londres, 1980
@@ -71,22 +73,20 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ ASPLUND, Erik Gunnar, “Nuestro concepto arquitectónico del espacio”, Escritos 1931)  →  ASPLUND, Erik Gunnar, “Nuestro concepto arquitectónico del espacio”, Escritos 1906/1940. Cuaderno de Viaje 1913, El Croquis, Madrid, 2002, pp. 170-184 (ed. original de 1931)
 ~ CAMPO BAEZA, Alberto, Estereotómico y tectónico, Nobuko, Buenos Aires, 2008. arquitectura de los siglos XIX y XX, Akal, Madrid, 1999  →  CAMPO BAEZA, Alberto, Estereotómico y tectónico, Nobuko, Buenos Aires, 2008
-~ 9. La construcción de lo social, 2 COLOMINA, Beatriz, Privacidad y publicidad. La arquitectura moderna como medio de comunicación de masas, CENDEAC, Murcia, 2010. (ed. original de 1957)  →  9. La construcción de lo social, 2
-~ 11. La arquitectura de la espiritualidad MORETTI, Luigi, Espacios - luz en la arquitectura religiosa, Madrid, Lampreave, 2012  →  11. La arquitectura de la espiritualidad
-~ JODIDIO, Philip. Shigeru Ban, Taschen Benedikt, Colonia, 2012. , Elemental. Alejandro Aravena, A&V Monografías, nº 185, Madrid, 2016  →  JODIDIO, Philip. Shigeru Ban, Taschen Benedikt, Colonia, 2012
-~ 10. La construcción de lo social, 3 ARAVENA, Alejandro. Material de Arquitectura. Universidad Católica de Chile, 2003  →  10. La construcción de lo social, 3
+~ JODIDIO, Philip. Shigeru Ban, Taschen Benedikt, Colonia, 2012. , Elemental. Alejandro Aravena, A&V Monografías, nº 185, Madrid, 2016  →  -, Elemental. Alejandro Aravena, A&V Monografías, nº 185, Madrid, 2016
+~ ASPLUND, Erik Gunnar, “Nuestro concepto arquitectónico del espacio”, Escritos 1931)  →  ASPLUND, Erik Gunnar, “Nuestro concepto arquitectónico del espacio”, Escritos 1906/1940. Cuaderno de Viaje 1913, El Croquis, Madrid, 2002, pp. 170-184 (ed. original de 1931)
+~ 9. La construcción de lo social, 2 COLOMINA, Beatriz, Privacidad y publicidad. La arquitectura moderna como medio de comunicación de masas, CENDEAC, Murcia, 2010. (ed. original de 1957)  →  COLOMINA, Beatriz, Privacidad y publicidad. La arquitectura moderna como medio de comunicación de masas, CENDEAC, Murcia, 2010
 
 ✅ Recursos añadidos:
 ------------------------------
-+ -, Elemental. Alejandro Aravena, A&V Monografías, nº 185, Madrid, 2016
++ 10. La construcción de lo social, 3
++ 11. La arquitectura de la espiritualidad
 + 8. La construcción de lo social, 1
-+ ARAVENA, Alejandro. Material de Arquitectura. Universidad Católica de Chile, 2003
++ 9. La construcción de lo social, 2
 + BACHELARD, Gaston, La poética del espacio, Fondo de Cultura Económica, México, 2006 (ed. original de 1957)
-+ COLOMINA, Beatriz, Privacidad y publicidad. La arquitectura moderna como medio de comunicación de masas, CENDEAC, Murcia, 2010
 + FRAMPTON, Kenneth, Estudios sobre cultura tectónica. Poéticas de la construcción en la arquitectura de los siglos XIX y XX, Akal, Madrid, 1999
++ JODIDIO, Philip. Shigeru Ban, Taschen Benedikt, Colonia, 2012
 + KÉRÉ, Francis. Estética práctica, A&V Monografías, nº 201, Madrid, 2018
-+ MORETTI, Luigi, Espacios - luz en la arquitectura religiosa, Madrid, Lampreave, 2012
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]

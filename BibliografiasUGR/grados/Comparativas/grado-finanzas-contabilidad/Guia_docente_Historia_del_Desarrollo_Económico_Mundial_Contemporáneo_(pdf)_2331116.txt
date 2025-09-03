@@ -44,14 +44,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Ed. Ariel, 2ª edición revisada. Barcelona  →  FONTANA, J. (1975): Cambio económico y actitudes políticas en la España del siglo XIX. Ed. Ariel, 2ª edición revisada. Barcelona
-~ NORTH, D. (1993): Instituciones, cambio institucional y desempeño económico. México, PIKETTY, T. (2014): El capital en el siglo XXI. FCC. Madrid  →  NORTH, D. (1993): Instituciones, cambio institucional y desempeño económico. México, FCC
-~ Universidad de Valencia. Valencia  →  FELIU, G. y SUDRIA, C. (2007): Introducción a la Historia Económica Mundial. Universidad de Valencia. Valencia
-~ Ed. Crítica. Barcelona  →  VILAR, P. y otros (1981): La industrialización europea. Estadios y tipos. Ed. Crítica. Barcelona
-~ Princeton University Press. N. J  →  CLARK, G. (2008): A farewell to the Alms. A Brief Economic History of the World. Princeton University Press. N. J
-~ Prensas Universitarias de Zaragoza. Zaragoza  →  POLLARD, S. (1991): La conquista pacífica. La industrialización de Europa, 1760-1970. Prensas Universitarias de Zaragoza. Zaragoza
-~ CARUANA, L. (Coord.); CASTRO, M.; CUÉLLAR, D.; GARRIDO, L; GÓMEZ D.; MATÉS, J.M  →  CARUANA, L. (Coord.); CASTRO, M.; CUÉLLAR, D.; GARRIDO, L; GÓMEZ D.; MATÉS, J.M.; DE PRADO, M.L.; SÁNCHEZ PICÓN, A.; (2015); Cambio y crecimiento económico. Editorial Pirámide
 ~ KOYAMA, M., & RUBIN, J. (2022). How the world became rich: The historical origins of ALLEN, R.C. (2013): Historia Económica Mundial: Una breve introducción. Alianza Editorial. Madrid  →  ALLEN, R.C. (2013): Historia Económica Mundial: Una breve introducción. Alianza Editorial. Madrid
+~ NORTH, D. (1993): Instituciones, cambio institucional y desempeño económico. México, PIKETTY, T. (2014): El capital en el siglo XXI. FCC. Madrid  →  PIKETTY, T. (2014): El capital en el siglo XXI. FCC. Madrid
+~ Ed. Crítica. Barcelona  →  CARRERAS, A. y TAFUNELL, X. (2004): Historia económica de la España contemporánea. Ed. Crítica. Barcelona
+~ Ed. Ariel, 2ª edición revisada. Barcelona  →  FONTANA, J. (1975): Cambio económico y actitudes políticas en la España del siglo XIX. Ed. Ariel, 2ª edición revisada. Barcelona
+~ CARUANA, L. (Coord.); CASTRO, M.; CUÉLLAR, D.; GARRIDO, L; GÓMEZ D.; MATÉS, J.M  →  CARUANA, L. (Coord.); CASTRO, M.; CUÉLLAR, D.; GARRIDO, L; GÓMEZ D.; MATÉS, J.M.; DE PRADO, M.L.; SÁNCHEZ PICÓN, A.; (2015); Cambio y crecimiento económico. Editorial Pirámide
+~ Universidad de Valencia. Valencia  →  FELIU, G. y SUDRIA, C. (2007): Introducción a la Historia Económica Mundial. Universidad de Valencia. Valencia
+~ Prensas Universitarias de Zaragoza. Zaragoza  →  POLLARD, S. (1991): La conquista pacífica. La industrialización de Europa, 1760-1970. Prensas Universitarias de Zaragoza. Zaragoza
+~ Princeton University Press. N. J  →  CLARK, G. (2008): A farewell to the Alms. A Brief Economic History of the World. Princeton University Press. N. J
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -59,6 +59,6 @@ No se eliminaron recursos.
 + Bibliografía fundamental
 + En cada sesión de clase teórica y/o práctica se recomendarán algunos artículos y/o capítulos de libros relacionados con el tema o caso práctico analizado. Las reseñas de dichas lecturas junto a las prácticas realizadas en clase se computarán en la evaluación del componente práctico
 + KOYAMA, M., & RUBIN, J. (2022). How the world became rich: The historical origins of economic growth. John Wiley & Sons
-+ PIKETTY, T. (2014): El capital en el siglo XXI. FCC. Madrid
++ NORTH, D. (1993): Instituciones, cambio institucional y desempeño económico. México, FCC
 
 📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

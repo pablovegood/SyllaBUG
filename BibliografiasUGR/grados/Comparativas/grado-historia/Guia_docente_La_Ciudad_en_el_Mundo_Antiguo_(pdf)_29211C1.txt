@@ -12,7 +12,6 @@
 = Ampolo, C. (ed.), La città antica. Guida storica e critica, Bari, Laterza, 1980
 = Aubet Semmler, M. E., Tiro y las colonias fenicias de Occidente, Barcelona, Crítica, 1994
 = Bagnall, R. S. et al. (eds.), The Encyclopedia of Ancient History, 13 vols. Oxford, 2012
-= Beltrán Lloris, F. y Marco Simón, F., Atlas de Historia Antigua, Zaragoza, Pórtico, 1987
 = Bonnefroy, Y., Dictionnaire des mythologies et des religions, des sociétés traditionnelles et du monde Antique, Paris, Flammarion, 1981
 = Braudel, F. (dir.), El Mediterráneo, Madrid, Espasa-Calpe, 1989 (trad.)
 = Bryce, T. y Birkett-Rees, J., Atlas of the Ancient Near East: from Prehistoric Times to the Roman Imperial Period, New York, Routledge, 2016
@@ -50,13 +49,14 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Clavel-Levêque, M. y Levêque, P., Villes et structures urbaines dans l'Occident romain, Paris, A  →  Clavel-Levêque, M. y Levêque, P., Villes et structures urbaines dans l'Occident romain, Paris, A. Collin, 1971
 ~ 2. Diccionarios y enciclopedias AA.VV., Enciclopedia dell’antichità classica, Milano, Garzanti, 2000  →  2. Diccionarios y enciclopedias
+~ 1. Atlas geográficos e históricos Beltrán Lloris, F. y Marco Simón, F., Atlas de Historia Antigua, Zaragoza, Pórtico, 1987  →  1. Atlas geográficos e históricos
+~ Clavel-Levêque, M. y Levêque, P., Villes et structures urbaines dans l'Occident romain, Paris, A  →  Clavel-Levêque, M. y Levêque, P., Villes et structures urbaines dans l'Occident romain, Paris, A. Collin, 1971
 
 ✅ Recursos añadidos:
 ------------------------------
-+ 1. Atlas geográficos e históricos
 + AA.VV., Enciclopedia dell’antichità classica, Milano, Garzanti, 2000
++ Beltrán Lloris, F. y Marco Simón, F., Atlas de Historia Antigua, Zaragoza, Pórtico, 1987
 + Morales Rodríguez, E. Mª., Los municipios flavios de la provincia Bética, Granada, Universidad de Granada, 2003
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

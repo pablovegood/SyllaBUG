@@ -7,14 +7,14 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
+= Agustí, J. Antes de Lucy.Tusquets
 = Boyd y Silo. Como evolucionaron los humanos. Ariel
 = Coppens, L. y Picq, P.: Los orígenes de la humanidad. EspasaForum
 = Ember, Ember y Peregrine. Antropología. Pearson
-= Johanson D. Edgar, B. From Lucy to Language. Simon and Schuster
+= Jones, Martin y Pilbeam. The Cambridge Encyclopedia of Human Evolution. Cambridge University Press
 = Jordan P. Neanderthal. Sutton Publishing
 = Rebato, Susanne, Chiarelli: Para comprender la Antropología Biológica. Verbo divino
 = Relethford, J.: The human species. An introduction to Biological Anthropology. Mayfield
-= Science
 = Turbón, D. La evolución humana. Ariel
 
 🔁 Misma obra con edición/año distinto:
@@ -23,7 +23,6 @@ No hubo cambios de edición/año.
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Agustí, J. Antes de Lucy.Tusquets
 + Aiello L, Dean C. Human Evolutionary Anatomy. Academic Press
 + Algunas revistas disponibles en UGRAmerican Journal of Physical Anthropology Human BiologyJournal of Human Evolution NatureScience
 + American Journal of Physical Anthropology Human Biology
@@ -36,13 +35,14 @@ No hubo cambios de edición/año.
 + Fossey, D. Gorilas en la niebla. Salvat
 + Goodall, J. En la senda del hombre. Salvat
 + Hawley y Murillo. Ecología humana. Tecnos
-+ Jones, Martin y Pilbeam. The Cambridge Encyclopedia of Human Evolution. Cambridge University Press
++ Johanson D. Edgar, B. From Lucy to Language. Simon and Schuster
 + Journal of Human Evolution Nature
 + Klug WS y Cummings MR. Conceptos de Genética Prentice Hall
 + Lewin R. Human evolution. Oxford: Blackwell
 + Mellars P, Stringer C. The human revolution. Edinburgh University Press
 + Relethford J. Genetics and the search for Modern Human origins. WileyLiss
 + Schwartz J, Tattersall I. The human fossil record. WileyLiss
++ Science
 + Stinson S, Bogin B, O’Rourke D. Human Biology. An evolutionary and biocultural perspective. WileyBlackwell
 + Stringer C, Andrews, P. The complete World of Human Evolution. Thames and Hudson
 + Sykes. Las siete hijas de Eva. Debate

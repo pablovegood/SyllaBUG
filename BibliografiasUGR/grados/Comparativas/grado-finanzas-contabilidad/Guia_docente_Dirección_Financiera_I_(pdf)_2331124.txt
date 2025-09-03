@@ -20,12 +20,11 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ McGraw-Hill, México (13ª edición)  →  ROSS, S.A., WESTERFIELD, R.W., JAFFE, J. y JORDAN, B.D. (2016). Finanzas Corporativas (11ª edición). McGraw Hill, México, D.F
 ~ DAMODARAN, A. (2012). Investment Valuation: Tools and Techniques for Determining DURBÁN, S. (1994). Introducción a las Finanzas Empresariales. Publicaciones de la Universidad de Sevilla, Sevilla  →  DURBÁN, S. (1994). Introducción a las Finanzas Empresariales. Publicaciones de la Universidad de Sevilla, Sevilla
+~ McGraw-Hill, México (13ª edición)  →  BREALEY, R.A., MYERS, S.C. y ALLEN, F. (2020). Principios de Finanzas Corporativas. McGraw-Hill, México (13ª edición)
 
 ✅ Recursos añadidos:
 ------------------------------
-+ BREALEY, R.A., MYERS, S.C. y ALLEN, F. (2020). Principios de Finanzas Corporativas. McGraw-Hill, México (13ª edición)
 + DAMODARAN, A. (2012). Investment Valuation: Tools and Techniques for Determining the Value of any Asset, University Edition. Wiley Finance Series
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

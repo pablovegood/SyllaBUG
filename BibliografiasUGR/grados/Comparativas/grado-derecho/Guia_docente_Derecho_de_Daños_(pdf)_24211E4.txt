@@ -11,39 +11,39 @@
 📚 Recursos sin cambios:
 ------------------------------
 = Aspectos jurídico-dogmáticos y jurisprudenciales en torno a la responsabilidad civil ex delicto. Rodríguez Almirón, F. Dykinson, 2022
-= Colex
+= Curso de Derecho civil II
+= DIÉZ-PICAZO y GIMÉNEZ ARANA DE LA FUENTE
+= DIÉZ-PICAZO y GULLÓN
 = Derecho de Daños. Textos y materiales. Roca Trias, E / Navarro Michel, M. Tirant, 2020
-= LASARTE ÁLVAREZ, C
-= Lecciones de responsabilidad civil
 = Principios de Derecho civil II
 = Rodríguez Almirón, F. "Debate actual en torno a la participación a título lucrativo y el decomiso a terceros". En Cuadernos de Política Criminal, Dykinson, 2022
-= “Lecciones de Derecho Penal. Parte General”. Moreno-Torres Herrera (Dir.). Tirant lo Blanch. 6ª edición. Valencia, 2022
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Curso de Derecho civil II Ed. Edisofer, Madrid BERCOVITZ Comentarios al Código Civil, art. 1902 y ss Aranzadi  →  BERCOVITZ
 ~ Rodríguez Almirón, F. "La determinación y cuantificación del daño moral dentro del procedimiento penal". En Estudios en homenaje al Prof. Dr. D. Jesús Martínez Ruiz  →  Rodríguez Almirón, F."La determinación y cuantificación del daño moral dentro del procedimiento penal". EnEstudios en homenaje al Prof. Dr. D. Jesús Martínez Ruiz. Dykinson, 2022
+~ Curso de Derecho civil II Ed. Edisofer, Madrid BERCOVITZ Comentarios al Código Civil, art. 1902 y ss Aranzadi  →  Curso de Derecho civil II
+~ OSSORIO SERRANO Lecciones de Derecho de daños “Lecciones de Derecho Penal. Parte General”. Moreno-Torres Herrera (Dir.). Tirant lo Blanch. 6ª edición. Valencia, 2022  →  Derecho de Daños
 
 ✅ Recursos añadidos:
 ------------------------------
 + ALABALADEJO GARCÍA, M
 + AUTOR/ES
 + Aranzadi
++ BERCOVITZ
 + BIBLIOGRAFÍA RECOMENDADA PARA LA PARTE PENAL
 + Civitas
++ Colex
 + Comentarios al Código Civil, art. 1902 y ss
-+ Curso de Derecho civil II
 + DATOS DE LA EDICIÓN
-+ DIÉZ-PICAZO y GIMÉNEZ ARANA DE LA FUENTE
-+ DIÉZ-PICAZO y GULLÓN
-+ Derecho de Daños
 + DÍEZ- PICAZO
 + Ed. Edisofer, Madrid
 + Ed. Marcial Pons
 + Ed. Tecnos
 + El desbordamiento del Derecho de Daños
++ LASARTE ÁLVAREZ, C
 + La ley
 + Lecciones de Derecho de daños
++ Lecciones de responsabilidad civil
 + Martínez de Aguirre
 + Morillas Cueva, Lorenzo, Sistema de Derecho Penal. Parte General, Dykinson, Madrid, 2021
 + OSSORIO SERRANO
@@ -52,5 +52,6 @@
 + Sistema de Derecho civil (vol. II)
 + Tirant lo Blanch
 + TÍTULO
++ “Lecciones de Derecho Penal. Parte General”. Moreno-Torres Herrera (Dir.). Tirant lo Blanch. 6ª edición. Valencia, 2022
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

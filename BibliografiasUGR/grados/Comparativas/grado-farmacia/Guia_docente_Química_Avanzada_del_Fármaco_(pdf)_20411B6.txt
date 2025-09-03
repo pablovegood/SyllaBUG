@@ -14,9 +14,9 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Vardanyan, R. S.; Hruby, V. J. Synthesis of essential drugs. Editorial Elsevier, 2006 Paul Lloyd-Williams, Fernando Albericio, Ernest Giralt. Chemical Approaches to the Synthesis of Peptides and Proteins. CRC Press 1997  →  Vardanyan, R. S.; Hruby, V. J. Synthesis of essential drugs. Editorial Elsevier, 2006
 ~ A. Delgado, C. Minguillón, J. Joglar. Introducción a la Síntesis de Fármacos. Editorial Síntesis, 2003 Sons, 2008  →  A. Delgado, C. Minguillón, J. Joglar. Introducción a la Síntesis de Fármacos. Editorial Síntesis, 2003
-~ S. Warren, P. Wyatt. Organic Synthesis. The disconnection Approach. 2ª Ed. Editorial Steven A. Kates, Fernando Albericio. Solid-Phase Synthesis: A practical guide. Dekker, 2000  →  S. Warren, P. Wyatt. Organic Synthesis. The disconnection Approach. 2ª Ed. Editorial Wiley, 2008
+~ Vardanyan, R. S.; Hruby, V. J. Synthesis of essential drugs. Editorial Elsevier, 2006 Paul Lloyd-Williams, Fernando Albericio, Ernest Giralt. Chemical Approaches to the Synthesis of Peptides and Proteins. CRC Press 1997  →  Paul Lloyd-Williams, Fernando Albericio, Ernest Giralt. Chemical Approaches to the Synthesis of Peptides and Proteins. CRC Press 1997
+~ S. Warren, P. Wyatt. Organic Synthesis. The disconnection Approach. 2ª Ed. Editorial Steven A. Kates, Fernando Albericio. Solid-Phase Synthesis: A practical guide. Dekker, 2000  →  Steven A. Kates, Fernando Albericio. Solid-Phase Synthesis: A practical guide. Dekker, 2000
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -25,9 +25,9 @@ No se eliminaron recursos.
 + Lednicer, D. The organic chemistry of drug synthesis (Vol. 7). Editorial John Wiley & Sons, 2008
 + Li, J. J.; Johnson, D. S. Modern drug synthesis. Editorial Wiley, 2010
 + Lin, G.; You, Q.; Cheng, J. Chiral drugs: Chemistry and Biological action. Editorial Wiley, 2011
-+ Paul Lloyd-Williams, Fernando Albericio, Ernest Giralt. Chemical Approaches to the Synthesis of Peptides and Proteins. CRC Press 1997
 + R. Mannhold, H. Kubinyi, Timmerman, H. Combinatorial Chemistry. Wiley-VCH 2000
-+ Steven A. Kates, Fernando Albericio. Solid-Phase Synthesis: A practical guide. Dekker, 2000
++ S. Warren, P. Wyatt. Organic Synthesis. The disconnection Approach. 2ª Ed. Editorial Wiley, 2008
++ Vardanyan, R. S.; Hruby, V. J. Synthesis of essential drugs. Editorial Elsevier, 2006
 + Wyatt, P.; Warren, S. Organic synthesis: strategy and control. John Wiley & Sons, 2007
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

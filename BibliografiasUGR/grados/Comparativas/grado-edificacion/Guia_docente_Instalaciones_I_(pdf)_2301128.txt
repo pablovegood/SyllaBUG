@@ -8,7 +8,6 @@
 
 📚 Recursos sin cambios:
 ------------------------------
-= Arizmendi, J.L. Cálculo y normativa básica de las instalaciones en los edificios (3 tomos). Pamplona: EUNSA, 1995
 = Arizmendi, J.L. Instalaciones Urbanas. Madrid: Librería Editorial Bellisco, 1991
 = Candela Gómez, C., López Davó, J., García-Quismondo Cartes, A. Instalaciones de salubridad para la Arquitectura Técnica: U.D. 1 Instalaciones de Abastecimiento, Fontanería Interior y de Protección Contra Incendios. Alicante: Universidad de Alicante, 2018
 = Candela Gómez, C., López Davó, J., García-Quismondo Cartes, A. Instalaciones de salubridad para la Arquitectura Técnica: U.D. 2 Instalaciones de Saneamiento, Evacuación y Ventilación en Edificación. Alicante: Universidad de Alicante, 2018
@@ -17,6 +16,7 @@
 = Diversos autores. Curso sobre edificios inteligentes. Madrid: COAM, 1989
 = Fernández Salgado, José Mª. Guía completa de la energía solar térmica y termoeléctrica. Madrid: AMV Ediciones, 2008
 = Fernández, J. Climatización: Cálculo e instalaciones. Barcelona: CEAC, 1980
+= García Valcarce, Antonio. Manual de Evacuación: Evacuación de aguas de los edificios. Pamplona: EUNSA, 1998
 = González Lezcano, R.; Echeverría Trueba, J.B.; Sancho Alambillaga, R.; Abecé de las instalaciones de agua – Abastecimiento y evacuación de aguas. Madrid: Munilla-Lería, 2014
 = González Sierra, Carlos. Cálculo de Instalaciones de suministro de agua en los edificios. Murcia: Cano Pina SL, 2018
 = Hernández Muñoz, A. Abastecimiento y distribución de agua. Madrid: Servicio de Publicaciones de la Escuela de Ingenieros de Caminos de Madrid (U.P.M.), 2000
@@ -41,21 +41,21 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ García Martin, Pedro Francisco. Energía solar fotovoltaica para todos (Nuevas Energías)  →  García Martin, Pedro Francisco. Energía solar fotovoltaica para todos (Nuevas Energías). 2ª ed. Madrid: Marcombo, 2022
+~ Jutglar, L., Miranda, Angel Luís, Villarubia, Miguel. Manual de Calefacción. Barcelona  →  Jutglar, L., Miranda, Angel Luís, Villarubia, Miguel. Manual de Calefacción. Barcelona: Marcombo, 2011
 ~ Soriano Rull, Albert. Instalaciones de fontanería, domésticas y comerciales. Barcelona  →  Soriano Rull, Albert. Instalaciones de fontanería, domésticas y comerciales. Barcelona: Marcombo, 2006
 ~ Ruíz Gómez, Abraham. Energía solar fotovoltaica. Autoconsumo. Energía solar térmica  →  Ruíz Gómez, Abraham. Energía solar fotovoltaica. Autoconsumo. Energía solar térmica. Madrid: Centro de Estudios Financieros, 2019
-~ 2ª ed. Madrid: Marcombo, 2022  →  Soriano Rull, Albert. Instalaciones de fontanería, domésticas y comerciales. Barcelona: Marcombo, 2006
+~ Rubio, P., Tovar, J., Martínez Alcalá, F.L. Curso de instalaciones de calefacción. Madrid  →  Rubio, P., Tovar, J., Martínez Alcalá, F.L. Curso de instalaciones de calefacción. Madrid: COAM, 1984
+~ Arizmendi, J.L. Cálculo y normativa básica de las instalaciones en los edificios (3 tomos)  →  Arizmendi, J.L. Cálculo y normativa básica de las instalaciones en los edificios (3 tomos). Pamplona: EUNSA, 1995
 ~ García Valcarce, Antonio. Manual de Evacuación: Evacuación de aguas de los edificios  →  García Valcarce, Antonio. Manual de Evacuación: Evacuación de aguas de los edificios. Pamplona: EUNSA, 1998
 ~ Catalana de gas y electricidad, SA. Manual de gas: Aplicaciones en la Edificación  →  Catalana de gas y electricidad, SA. Manual de gas: Aplicaciones en la Edificación. Barcelona: Catalana de gas y electricidad, SA., 1982
-~ Martín Sánchez, F. Manual de instalaciones de calefacción por agua caliente. Madrid  →  Martín Sánchez, F. Manual de instalaciones de calefacción por agua caliente. Madrid: AMV Ediciones, 2008
-~ Pamplona: EUNSA, 1998  →  Arizmendi, J.L. Cálculo y normativa básica de las instalaciones en los edificios (3 tomos). Pamplona: EUNSA, 1995
-~ Rey Martínez, Fco. Javier et al. DTIE 9.09 Sistemas de climatización radiante. Madrid  →  Rey Martínez, Fco. Javier et al. DTIE 9.09 Sistemas de climatización radiante. Madrid: Atecyr, 2019
 ~ Fernández Salgado, José Mª. Guía completa de la energía solar térmica y termoeléctrica  →  Fernández Salgado, José Mª. Guía completa de la energía solar térmica y termoeléctrica. Madrid: AMV Ediciones, 2008
 ~ González Sierra, Carlos. Cálculo de Instalaciones de suministro de agua en los edificios  →  González Sierra, Carlos. Cálculo de Instalaciones de suministro de agua en los edificios. Murcia: Cano Pina SL, 2018
-~ Rubio, P., Tovar, J., Martínez Alcalá, F.L. Curso de instalaciones de calefacción. Madrid  →  Rubio, P., Tovar, J., Martínez Alcalá, F.L. Curso de instalaciones de calefacción. Madrid: COAM, 1984
+~ 2ª ed. Madrid: Marcombo, 2022  →  Jutglar, L., Miranda, Angel Luís, Villarubia, Miguel. Manual de Calefacción. Barcelona: Marcombo, 2011
 ~ Cantos Serrano, Julián. Configuración de instalaciones solares fotovoltaicas. 2ª ed  →  Cantos Serrano, Julián. Configuración de instalaciones solares fotovoltaicas. 2ª ed. Madrid: Paraninfo, 2020
-~ Jutglar, L., Miranda, Angel Luís, Villarubia, Miguel. Manual de Calefacción. Barcelona  →  Jutglar, L., Miranda, Angel Luís, Villarubia, Miguel. Manual de Calefacción. Barcelona: Marcombo, 2011
-~ Arizmendi, J.L. Cálculo y normativa básica de las instalaciones en los edificios (3 tomos)  →  Arizmendi, J.L. Cálculo y normativa básica de las instalaciones en los edificios (3 tomos). Pamplona: EUNSA, 1995
+~ García Martin, Pedro Francisco. Energía solar fotovoltaica para todos (Nuevas Energías)  →  García Martin, Pedro Francisco. Energía solar fotovoltaica para todos (Nuevas Energías). 2ª ed. Madrid: Marcombo, 2022
+~ Pamplona: EUNSA, 1995  →  García Valcarce, Antonio. Manual de Evacuación: Evacuación de aguas de los edificios. Pamplona: EUNSA, 1998
+~ Martín Sánchez, F. Manual de instalaciones de calefacción por agua caliente. Madrid  →  Martín Sánchez, F. Manual de instalaciones de calefacción por agua caliente. Madrid: AMV Ediciones, 2008
+~ Rey Martínez, Fco. Javier et al. DTIE 9.09 Sistemas de climatización radiante. Madrid  →  Rey Martínez, Fco. Javier et al. DTIE 9.09 Sistemas de climatización radiante. Madrid: Atecyr, 2019
 
 ✅ Recursos añadidos:
 ------------------------------

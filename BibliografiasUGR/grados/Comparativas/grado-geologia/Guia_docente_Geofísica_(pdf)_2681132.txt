@@ -16,18 +16,18 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Kearey, P.,Brooks, M. y Hill, H. 2002. An Introduction to Geophysical Exploration. 272 pp Lillie, R.J. 1999. geophysigeofisica: an introductory textbook for geologist and geophysicists. Prentice-Hall Inc, 361 pp Lowrie, W. 2007. Fundamentals of Geophysics. Cambridge University Press, 354 pp  →  Lowrie, W. 2007. Fundamentals of Geophysics. Cambridge University Press, 354 pp
+~ Cambridge University Press. 728 pp  →  Fowler, C.M.R., 2004. The solid Earth. An Introduction to Global Geophysics. 2º edition. Cambridge University Press. 728 pp
 ~ Shearer, P.M.,1999. Introduction to Seismology. Cambridge Univ. Press Telford, W.M., Geldart, L.P. y Sheriff, R.E., 1990. Applied Geophysics. 2nd. Ed. Cambridge University Press  →  Shearer, P.M.,1999. Introduction to Seismology. Cambridge Univ. Press
 ~ Musset, A.E. & Khan, M.A. 2000. Looking into the Earth – An introduction to geological Geophysics Orellana, E., 1974. Prospección geoeléctrica por campos variables. Paraninfo  →  Orellana, E., 1974. Prospección geoeléctrica por campos variables. Paraninfo
 ~ American Association of Petrological Geology  →  Bally, A.W., 1984. Seismic Expression of Structural Styles. Studies in Geology 15. Tulsa: American Association of Petrological Geology
-~ Kearey, P.,Brooks, M. y Hill, H. 2002. An Introduction to Geophysical Exploration. 272 pp Lillie, R.J. 1999. geophysigeofisica: an introductory textbook for geologist and geophysicists. Prentice-Hall Inc, 361 pp Lowrie, W. 2007. Fundamentals of Geophysics. Cambridge University Press, 354 pp  →  Kearey, P.,Brooks, M. y Hill, H. 2002. An Introduction to Geophysical Exploration. 272 pp
-~ Cambridge University Press. 728 pp  →  Fowler, C.M.R., 2004. The solid Earth. An Introduction to Global Geophysics. 2º edition. Cambridge University Press. 728 pp
 
 ✅ Recursos añadidos:
 ------------------------------
 + Jones, E.J.W. (1999) Marine Geophysics. Wiley
++ Kearey, P.,Brooks, M. y Hill, H. 2002. An Introduction to Geophysical Exploration. 272 pp
 + Lillie, R.J. 1999. geophysigeofisica: an introductory textbook for geologist and geophysicists. Prentice-Hall Inc, 361 pp
 + Limusa
-+ Lowrie, W. 2007. Fundamentals of Geophysics. Cambridge University Press, 354 pp
 + Musset, A.E. & Khan, M.A. 2000. Looking into the Earth – An introduction to geological Geophysics
 + Robinson, E.S., y Coruh, C., 1988. Basic exploration Geophysics. Ed. Wiley & Sons
 + Telford, W.M., Geldart, L.P. y Sheriff, R.E., 1990. Applied Geophysics. 2nd. Ed. Cambridge University Press

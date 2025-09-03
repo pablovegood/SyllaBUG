@@ -27,16 +27,16 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Cooper, A. “Biophysical Chemistry”. The Royal Society of Chemistry, Cambridge, UK (2004) Díaz Peña, M.; Roig Muntaner, A. “Química física”. Ed. Alhambra (1989)  →  Cooper, A. “Biophysical Chemistry”. The Royal Society of Chemistry, Cambridge, UK (2004)
-~ Adamson, Arthur W. “Problemas de química física” Ed. Reverté (1979) Atkins, P. W. “Student's solutions manual to acompany Atkins' physical chemistry 9th edition” Oxford University Press (2010)  →  Atkins, P. W. “Student's solutions manual to acompany Atkins' physical chemistry 9th edition” Oxford University Press (2010)
-~ Requena Rodríguez, Alberto y Bastida Pascual, Adolfo. “Química física: problemas de F2008181Q  →  Requena Rodríguez, Alberto y Bastida Pascual, Adolfo. “Química física: problemas de termodinámica, cinética y electroquímica”. Ed. Garceta, Madrid (2009)
 ~ (1997) Atkins P.W.; de Paula J. “Elements of Physical Chemistry” (5ª Ed.) Oxford University Press (2009)  →  Atkins P.W.; de Paula J. “Elements of Physical Chemistry” (5ª Ed.) Oxford University Press (2009)
+~ Requena Rodríguez, Alberto y Bastida Pascual, Adolfo. “Química física: problemas de F2008181Q  →  Requena Rodríguez, Alberto y Bastida Pascual, Adolfo. “Química física: problemas de termodinámica, cinética y electroquímica”. Ed. Garceta, Madrid (2009)
+~ Cooper, A. “Biophysical Chemistry”. The Royal Society of Chemistry, Cambridge, UK (2004) Díaz Peña, M.; Roig Muntaner, A. “Química física”. Ed. Alhambra (1989)  →  Díaz Peña, M.; Roig Muntaner, A. “Química física”. Ed. Alhambra (1989)
+~ Adamson, Arthur W. “Problemas de química física” Ed. Reverté (1979) Atkins, P. W. “Student's solutions manual to acompany Atkins' physical chemistry 9th edition” Oxford University Press (2010)  →  Adamson, Arthur W. “Problemas de química física” Ed. Reverté (1979)
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Adamson, Arthur W. “Problemas de química física” Ed. Reverté (1979)
 + Adamson, Arthur W.; Gast, Alice P. “Physical Chemistry of Surfaces” (6th Edt.) Wiley (1997)
-+ Díaz Peña, M.; Roig Muntaner, A. “Química física”. Ed. Alhambra (1989)
++ Atkins, P. W. “Student's solutions manual to acompany Atkins' physical chemistry 9th edition” Oxford University Press (2010)
++ Cooper, A. “Biophysical Chemistry”. The Royal Society of Chemistry, Cambridge, UK (2004)
 + Hammes, Gordon G. “Physical Chemistry for Biological Sciences” Wiley (2015)
 + Hammes, Gordon G. “Spectroscopy for the Biological Sciences” Wiley (2005)
 + Physical Chemistry for Biochemists” (3rd edt.) Oxford (2009)

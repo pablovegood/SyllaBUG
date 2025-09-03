@@ -9,7 +9,7 @@
 ------------------------------
 = BAERT, P. & F. CARREIRA DA SILVA (2011)La teoría social contemporánea. Alianza
 = BELTRÁN, M. (2001 [1979])Ciencia y sociología. Siglo XXI
-= BERIAIN, J. & J. L. ITURRATE (eds.) (2008)Para comprender la teoría sociológica. EVD
+= BERGER, Peter L. (2013 [1963])Introducción a la sociología. Limusa
 = BOTTOMORE, T. & R. NISBET (eds.) (1988 [1979])Historia del análisis sociológico. Amorrortu
 = BUENO DE MESQUITA, E. & A. FOWLER (2021)Thinking Clearly with Data. A Guide to Quantitative Reasoning and Analysis. Princeton University Press
 = ELIAS, N. (2008 [1970])Sociología fundamental. Gedisa
@@ -33,46 +33,46 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Además, el estudiantado elegirá para las sesiones prácticas una opción entre las siguientes: a) HARVEY, D. (2019) Marx, 'El capital' y la locura de la razón económica. Akal. b) ELSTER, J. (2007) Tuercas y tornillos: una introducción a los conceptos básicos de las ciencias sociales. Gedisa. c) BHAMBRA, G. K. & J. HOLMWOOD (2021) Colonialism and Modern Social Theory. Polity Press. d) NOELLE-NEUMANN, E. (2010) La espiral del silencio. Opinión pública: nuestra piel social  →  c) BHAMBRA, G. K. & J. HOLMWOOD (2021) Colonialism and Modern Social Theory. Polity Press
-~ Se emplearán como referencias básicas: ARON, R. (2015 [1967])Las etapas del pensamiento sociológico. Tecnos. BOURDIEU, P. (2020 [2015])Curso de sociología general I. Conceptos fundamentales. Siglo XXI. ELSTER, J. (2010) La explicación del comportamiento social. Más tuercas y tornillos para las ciencias sociales. Gedisa. GOLDTHORPE, J. H. (2017) La sociología como ciencia de la población. Alianza. JOAS, H. & W. KNÖBL (2016)Teoría social: veinte lecciones introductorias. Akal. PABLOS RAMÍREZ, J. C. de (2022)Un mapa de la realidad social. Categorías centrales de la teoría sociológica. Centro de Estudios Andaluces. ZEITLIN, I. (2006 [1968)]Ideología y teoría sociológica. Amorrortu  →  - JOAS, H. & W. KNÖBL (2016)Teoría social: veinte lecciones introductorias. Akal
-~ 1. Introducciones BERGER, Peter L. (2013 [1963])Introducción a la sociología. Limusa  →  1. Introducciones
-~ 4. Investigación social BECKER, H. (2011 [1998])Trucos del oficio. Siglo XXI  →  4. Investigación social
-~ F2008181Q “Sobre la sociología de la filosofía en general y la española en particular”, en J. L. MORENO PESTAÑA (2013)La norma de la filosofía. Siglo XXI, pp. 17-44. “Towards a revival of the normative in the sociology of knowledge”, en S. FULLER (2002)Social Epistemology, pp. 263-275  →  - “Sobre la sociología de la filosofía en general y la española en particular”, en J. L. MORENO PESTAÑA (2013)La norma de la filosofía. Siglo XXI, pp. 17-44
-~ Amorrortu. g) Cuatro lecturas de entre las siguientes: “¿Qué es un hecho social?”, en E. DURKHEIM (1997 [1895])Las reglas del método sociológico  →  g) Cuatro lecturas de entre las siguientes
-~ Akal, pp. 56-68, y “La obligación social” (Hegel,Fenomenología del Espíritu), en M. C. IGLESIAS, J. RODRÍGUEZ ARAMBERRI & L. RODRÍGUEZ ZÚÑIGA (eds.) (2006)Los orígenes de la teoría sociológica. Akal, pp. 192-198. El espíritu corporativo, G. PALANTE (2014 [1899]). Piedra Papel Libros, pp. 9-19. “Algunas escuelas de teoría social y filosofía”, en A. GIDDENS (1987 [1976])Las nuevas reglas del método sociológico. Amorrortu, pp. 25-68. “La sociabilidad”, en G. SIMMEL (2002 [1917])Cuestiones fundamentales de sociología. Gedisa, pp. 77-101. “El individualismo” (Tocqueville,La democracia en América), “Concepto de la sociología y del significado en la acción social” (Max Weber,Economía y sociedad), “Racionalidad y sociología” (Jürgen Habermas,Teoría de la acción comunicativa), en J. BERIAIN & J. L. ITURRATE (eds.) (2008)Para comprender la teoría sociológica. EVD, pp. 164-167, 363-371, 711-713. “La política de la investigación sociológica”, en L. BOLTANSKI (2016)Enigmas y complots. FCE, pp. 266-313. pp. 85-105. “Nuevas clases globales” en S. SASSEN (2007)Una sociología de la globalización. Katz, pp  →  - “La política de la investigación sociológica”, en L. BOLTANSKI (2016)Enigmas y complots. FCE, pp. 266-313
 ~ Paidós. e) WEBER, M. (2023) Sociología del poder: los tipos de dominación. Alianza. f) GOFFMAN, E. (2013) Internados: ensayo sobre la situación social de los enfermos mentales  →  e) WEBER, M. (2023) Sociología del poder: los tipos de dominación. Alianza
+~ 7. Antologías de textos BERIAIN, J. & J. L. ITURRATE (eds.) (2008)Para comprender la teoría sociológica. EVD  →  7. Antologías de textos
+~ 4. Investigación social BECKER, H. (2011 [1998])Trucos del oficio. Siglo XXI  →  4. Investigación social
+~ Akal, pp. 56-68, y “La obligación social” (Hegel,Fenomenología del Espíritu), en M. C. IGLESIAS, J. RODRÍGUEZ ARAMBERRI & L. RODRÍGUEZ ZÚÑIGA (eds.) (2006)Los orígenes de la teoría sociológica. Akal, pp. 192-198. El espíritu corporativo, G. PALANTE (2014 [1899]). Piedra Papel Libros, pp. 9-19. “Algunas escuelas de teoría social y filosofía”, en A. GIDDENS (1987 [1976])Las nuevas reglas del método sociológico. Amorrortu, pp. 25-68. “La sociabilidad”, en G. SIMMEL (2002 [1917])Cuestiones fundamentales de sociología. Gedisa, pp. 77-101. “El individualismo” (Tocqueville,La democracia en América), “Concepto de la sociología y del significado en la acción social” (Max Weber,Economía y sociedad), “Racionalidad y sociología” (Jürgen Habermas,Teoría de la acción comunicativa), en J. BERIAIN & J. L. ITURRATE (eds.) (2008)Para comprender la teoría sociológica. EVD, pp. 164-167, 363-371, 711-713. “La política de la investigación sociológica”, en L. BOLTANSKI (2016)Enigmas y complots. FCE, pp. 266-313. pp. 85-105. “Nuevas clases globales” en S. SASSEN (2007)Una sociología de la globalización. Katz, pp  →  - “Algunas escuelas de teoría social y filosofía”, en A. GIDDENS (1987 [1976])Las nuevas reglas del método sociológico. Amorrortu, pp. 25-68
+~ Se emplearán como referencias básicas: ARON, R. (2015 [1967])Las etapas del pensamiento sociológico. Tecnos. BOURDIEU, P. (2020 [2015])Curso de sociología general I. Conceptos fundamentales. Siglo XXI. ELSTER, J. (2010) La explicación del comportamiento social. Más tuercas y tornillos para las ciencias sociales. Gedisa. GOLDTHORPE, J. H. (2017) La sociología como ciencia de la población. Alianza. JOAS, H. & W. KNÖBL (2016)Teoría social: veinte lecciones introductorias. Akal. PABLOS RAMÍREZ, J. C. de (2022)Un mapa de la realidad social. Categorías centrales de la teoría sociológica. Centro de Estudios Andaluces. ZEITLIN, I. (2006 [1968)]Ideología y teoría sociológica. Amorrortu  →  - ARON, R. (2015 [1967])Las etapas del pensamiento sociológico. Tecnos
+~ Amorrortu. g) Cuatro lecturas de entre las siguientes: “¿Qué es un hecho social?”, en E. DURKHEIM (1997 [1895])Las reglas del método sociológico  →  g) Cuatro lecturas de entre las siguientes
+~ Además, el estudiantado elegirá para las sesiones prácticas una opción entre las siguientes: a) HARVEY, D. (2019) Marx, 'El capital' y la locura de la razón económica. Akal. b) ELSTER, J. (2007) Tuercas y tornillos: una introducción a los conceptos básicos de las ciencias sociales. Gedisa. c) BHAMBRA, G. K. & J. HOLMWOOD (2021) Colonialism and Modern Social Theory. Polity Press. d) NOELLE-NEUMANN, E. (2010) La espiral del silencio. Opinión pública: nuestra piel social  →  Además, el estudiantado elegirá para las sesiones prácticas una opción entre las siguientes
+~ F2008181Q “Sobre la sociología de la filosofía en general y la española en particular”, en J. L. MORENO PESTAÑA (2013)La norma de la filosofía. Siglo XXI, pp. 17-44. “Towards a revival of the normative in the sociology of knowledge”, en S. FULLER (2002)Social Epistemology, pp. 263-275  →  - “Towards a revival of the normative in the sociology of knowledge”, en S. FULLER (2002)Social Epistemology, pp. 263-275
 ~ 6. Diccionarios GINER, S., E. LAMO DE ESPINOSA & C. TORRES ALBERO (eds.) (2013)Diccionario de sociología  →  6. Diccionarios
 
 ✅ Recursos añadidos:
 ------------------------------
-+ - ARON, R. (2015 [1967])Las etapas del pensamiento sociológico. Tecnos
 + - ELSTER, J. (2010) La explicación del comportamiento social. Más tuercas y tornillos para las ciencias sociales. Gedisa
 + - GOLDTHORPE, J. H. (2017) La sociología como ciencia de la población. Alianza
++ - JOAS, H. & W. KNÖBL (2016)Teoría social: veinte lecciones introductorias. Akal
 + - PABLOS RAMÍREZ, J. C. de (2022)Un mapa de la realidad social. Categorías centrales de la teoría sociológica. Centro de Estudios Andaluces
 + - ZEITLIN, I. (2006 [1968)] Ideología y teoría sociológica. Amorrortu
-+ - “Algunas escuelas de teoría social y filosofía”, en A. GIDDENS (1987 [1976])Las nuevas reglas del método sociológico. Amorrortu, pp. 25-68
 + - “El individualismo” (Tocqueville,La democracia en América), “Concepto de la sociología y del significado en la acción social” (Max Weber,Economía y sociedad), “Racionalidad y sociología” (Jürgen Habermas,Teoría de la acción comunicativa), en J. BERIAIN & J. L. ITURRATE (eds.) (2008)Para comprender la teoría sociológica. EVD, pp. 164-167, 363-371, 711-713
 + - “Estructuras, hábitus, prácticas”, en P. BOURDIEU (2007 [1980])El sentido práctico. Siglo XXI, pp. 85-105
++ - “La política de la investigación sociológica”, en L. BOLTANSKI (2016)Enigmas y complots. FCE, pp. 266-313
 + - “La sociabilidad”, en G. SIMMEL (2002 [1917])Cuestiones fundamentales de sociología. Gedisa, pp. 77-101
 + - “Nuevas clases globales” en S. SASSEN (2007)Una sociología de la globalización. Katz, pp. 205-234
-+ - “Towards a revival of the normative in the sociology of knowledge”, en S. FULLER (2002)Social Epistemology, pp. 263-275
++ - “Sobre la sociología de la filosofía en general y la española en particular”, en J. L. MORENO PESTAÑA (2013)La norma de la filosofía. Siglo XXI, pp. 17-44
 + - “¿Qué es un hecho social?”, en E. DURKHEIM (1997 [1895])Las reglas del método sociológico. Akal, pp. 56-68, y “La obligación social” (Hegel,Fenomenología del Espíritu), en M. C. IGLESIAS, J. RODRÍGUEZ ARAMBERRI & L. RODRÍGUEZ ZÚÑIGA (eds.) (2006)Los orígenes de la teoría sociológica. Akal, pp. 192-198
 + -El espíritu corporativo, G. PALANTE (2014 [1899]). Piedra Papel Libros, pp. 9-19
++ 1. Introducciones
 + 2. Manuales
 + 3. Historias
 + 5. Filosofía y metodología
-+ 7. Antologías de textos
 + AZOFRA, M. J. (2000)Cuestionarios. CIS
-+ Además, el estudiantado elegirá para las sesiones prácticas una opción entre las siguientes
 + BECKER, H. (2011 [1998])Trucos del oficio. Siglo XXI
 + BENZECRY, C. E., M. KRAUSE & I. A. REED (2019)La teoría social, ahora. Nuevas corrientes, nuevas discusiones. Siglo XXI
-+ BERGER, Peter L. (2013 [1963])Introducción a la sociología. Limusa
++ BERIAIN, J. & J. L. ITURRATE (eds.) (2008)Para comprender la teoría sociológica. EVD
 + CALHOUN, C. et al. (eds.) (2012)Contemporary Sociological Theory. Wiley-Blackwell
 + DE LA GARZA, E. & G. LEYVA (eds.) (2012)Tratado de metodología de las ciencias sociales: perspectivas actuales. FCE
 + GINER, S., E. LAMO DE ESPINOSA & C. TORRES ALBERO (eds.) (2013)Diccionario de sociología. Alianza
 + Se emplearán como referencias básicas
 + a) HARVEY, D. (2019) Marx, 'El capital' y la locura de la razón económica. Akal
 + b) NASSEHI, A. (2024) Patterns: theory of the digital society. Polity Press
++ c) BHAMBRA, G. K. & J. HOLMWOOD (2021) Colonialism and Modern Social Theory. Polity Press
 + d) NOELLE-NEUMANN, E. (2010) La espiral del silencio. Opinión pública: nuestra piel social. Paidós
 + f) BECKER, HOWARD (2013) Outsiders: hacia una sociología de la desviación. Siglo XXI
 

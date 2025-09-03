@@ -17,16 +17,16 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Electroforesis capilar: Aproximación según la técnica de detección, A. Segura, A  →  Electroforesis capilar: Aproximación según la técnica de detección, A. Segura, A. Fernández, Universidad de Granada, 2005
-~ Crouch, ed. Thomson, 2005  →  Fundamentos de Química Analítica (8ª Edición) D.A. Skoog, D.M. West, F.J. Holler, S.R. Crouch, ed. Thomson, 2005
-~ Analytical Chemistry (2.0 electronic version), D. Harvey, 2010. Descargable en: http://www.asdlib.org/onlineArticles/ecourseware/Analytical Chemistry 2.0/Welcome.html Problems of Instrumental Analytical Chemistry. A Hands-On Guide. JM Andrade-Garda et al., ed. World Scientific, 2017  →  Problems of Instrumental Analytical Chemistry. A Hands-On Guide. JM Andrade-Garda et al., ed. World Scientific, 2017
 ~ Bioanalytical chemistry, 2nd Edition. A. Manz, P.S Dittrich, N. Pamme, D. Iossifidis, ed  →  Bioanalytical chemistry, 2nd Edition. A. Manz, P.S Dittrich, N. Pamme, D. Iossifidis, ed. World Scientific, 2015
-~ Técnicas de separación en Química Analítica. R. Cela, R.A. Lorenzo, M.C. Casais, ed  →  Técnicas de separación en Química Analítica. R. Cela, R.A. Lorenzo, M.C. Casais, ed. Síntesis, Madrid 2002
+~ Crouch, ed. Thomson, 2005  →  Fundamentos de Química Analítica (8ª Edición) D.A. Skoog, D.M. West, F.J. Holler, S.R. Crouch, ed. Thomson, 2005
 ~ Fundamentos de Química Analítica (8ª Edición) D.A. Skoog, D.M. West, F.J. Holler, S.R  →  Fundamentos de Química Analítica (8ª Edición) D.A. Skoog, D.M. West, F.J. Holler, S.R. Crouch, ed. Thomson, 2005
+~ Técnicas de separación en Química Analítica. R. Cela, R.A. Lorenzo, M.C. Casais, ed  →  Técnicas de separación en Química Analítica. R. Cela, R.A. Lorenzo, M.C. Casais, ed. Síntesis, Madrid 2002
+~ Analytical Chemistry (2.0 electronic version), D. Harvey, 2010. Descargable en: http://www.asdlib.org/onlineArticles/ecourseware/Analytical Chemistry 2.0/Welcome.html Problems of Instrumental Analytical Chemistry. A Hands-On Guide. JM Andrade-Garda et al., ed. World Scientific, 2017  →  Analytical Chemistry (2.0 electronic version), D. Harvey, 2010. Descargable en: http://www.asdlib.org/onlineArticles/ecourseware/Analytical Chemistry 2.0/Welcome.html
+~ Electroforesis capilar: Aproximación según la técnica de detección, A. Segura, A  →  Electroforesis capilar: Aproximación según la técnica de detección, A. Segura, A. Fernández, Universidad de Granada, 2005
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Analytical Chemistry (2.0 electronic version), D. Harvey, 2010. Descargable en: http://www.asdlib.org/onlineArticles/ecourseware/Analytical Chemistry 2.0/Welcome.html
 + Analytical Chemistry (7ª Edición) G.D. Christian, P. Dasgupta, K. Schug, ed. Wiley, 2013
++ Problems of Instrumental Analytical Chemistry. A Hands-On Guide. JM Andrade-Garda et al., ed. World Scientific, 2017
 
 📊 Porcentaje estimado de cambio: 61% [██████░░░░]

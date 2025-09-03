@@ -21,17 +21,17 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Manual de autoaprendizaje con Arcgis”. Madrid. RA-MA Editorial  →  MORENO JIMENEZ, A. coordinador (2006): “Sistemas y análisis de la información geográfica. Manual de autoaprendizaje con Arcgis”. Madrid. RA-MA Editorial
-~ BERTIN, JACQUES (2011): “Semiology of grafics: diagrams, networks, maps”. Esri Pres LORENZO, R. M. (2001): “Cartografía: Urbanismo y desarrollo inmobiliario” CIE. Inversiones Editoriales Dossat 2000 NIETO, A y GARCIA, M.C (2016): "SIG y Patrimonio: El caso de estudio de la Ribera del Marco de Extremadura". Universidad de Extremadura  →  LORENZO, R. M. (2001): “Cartografía: Urbanismo y desarrollo inmobiliario” CIE. Inversiones Editoriales Dossat 2000
 ~ IGN:Atlas Nacional de España MAC EACHREN, A. (1995): “How maps work: representatión, visualization and desing Alan M  →  IGN:Atlas Nacional de España
-~ PEREZ. B. y Otros (2020): "El programa Copernicus para la monitorización del territorio y los VELASCO Y OTROS (2018):"Visualizadores de cartografía temática colaborativa del Instituto Geográfico Nacional". Revista MAPPING Vol 27, 192 pag. 30-36 VARIOS AUTORES (2021):"Infraestructuras de Datos Espaciales" IGN F2008181Q  →  VELASCO Y OTROS (2018):"Visualizadores de cartografía temática colaborativa del Instituto Geográfico Nacional". Revista MAPPING Vol 27, 192 pag. 30-36
+~ BERTIN, JACQUES (2011): “Semiology of grafics: diagrams, networks, maps”. Esri Pres LORENZO, R. M. (2001): “Cartografía: Urbanismo y desarrollo inmobiliario” CIE. Inversiones Editoriales Dossat 2000 NIETO, A y GARCIA, M.C (2016): "SIG y Patrimonio: El caso de estudio de la Ribera del Marco de Extremadura". Universidad de Extremadura  →  BERTIN, JACQUES (2011): “Semiology of grafics: diagrams, networks, maps”. Esri Pres
+~ PEREZ. B. y Otros (2020): "El programa Copernicus para la monitorización del territorio y los VELASCO Y OTROS (2018):"Visualizadores de cartografía temática colaborativa del Instituto Geográfico Nacional". Revista MAPPING Vol 27, 192 pag. 30-36 VARIOS AUTORES (2021):"Infraestructuras de Datos Espaciales" IGN F2008181Q  →  VARIOS AUTORES (2021):"Infraestructuras de Datos Espaciales" IGN
+~ Manual de autoaprendizaje con Arcgis”. Madrid. RA-MA Editorial  →  MORENO JIMENEZ, A. coordinador (2006): “Sistemas y análisis de la información geográfica. Manual de autoaprendizaje con Arcgis”. Madrid. RA-MA Editorial
 
 ✅ Recursos añadidos:
 ------------------------------
-+ BERTIN, JACQUES (2011): “Semiology of grafics: diagrams, networks, maps”. Esri Pres
++ LORENZO, R. M. (2001): “Cartografía: Urbanismo y desarrollo inmobiliario” CIE. Inversiones Editoriales Dossat 2000
 + MAC EACHREN, A. (1995): “How maps work: representatión, visualization and desing Alan M. MacEachren. New York. Guilford Press
 + NIETO, A y GARCIA, M.C (2016): "SIG y Patrimonio: El caso de estudio de la Ribera del Marco de Extremadura". Universidad de Extremadura
 + PEREZ. B. y Otros (2020): "El programa Copernicus para la monitorización del territorio y los Objetivos del Desarrollo Sostenible" IGN
-+ VARIOS AUTORES (2021):"Infraestructuras de Datos Espaciales" IGN
++ VELASCO Y OTROS (2018):"Visualizadores de cartografía temática colaborativa del Instituto Geográfico Nacional". Revista MAPPING Vol 27, 192 pag. 30-36
 
 📊 Porcentaje estimado de cambio: 62% [██████░░░░]

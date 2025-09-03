@@ -8,10 +8,9 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = Análisis Instrumental. K.A. Rubinson- J.F. Rubinson. Editorial Prentice Hall
-= Aplicación de las Nuevas Tecnologías a la Enseñanza Práctica de Técnicas Instrumentales (2ª parte). Proyecto de Innovación Docente con Código Nº 08-22 subvencionado por la UGR Ref. MVG/PI2008
+= Aplicación de las Nuevas Tecnologías a la Enseñanza Práctica de Técnicas Instrumentales. Proyecto de Innovación Docente 07-02-08 subvencionado por la UGR Ref. MVGPI2007
 = Cromatografía de gases. I, Dabrio, Ed. Alhambra
 = Cromatografía en papel y placa delgada, J.A. Domínguez, OEA
-= Espectroscopia. Requena, Federico M. Pearson Publications Company (2005)
 = Fisicoquímica. (Vol. 2). Ira N. Levine. 5ª Ed. Editorial Mc. Graw Hill
 = Fisicoquímica: Problemas y Soluciones. L. Labowitz. Editorial Paraninfo
 = Fluorescente Spectroscopy. A.J. Pesce. Marcel Dekker. New Cork
@@ -29,17 +28,18 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Reverté 2005. ISBN: 8429175199 ISBN-13: 9788429175196 Espectroscopia Atómica y Molecular. J. Zúñiga Román. Pearson Educación  →  Espectroscopia Atómica y Molecular. J. Zúñiga Román. Pearson Educación
-~ Técnicas de separación en química analítica. Rafael Cela, Rosa Antonia Lorenzo, Ma del Carmen Casais. Ed. Síntesis, 2003 “Análisis instrumental” Kenneth A. Rubinson, Judith F. Rubinson - 2001 Pearson Educación Process Analytical Technology: Spectroscopic Tools and Implementation Strategies for 2010  →  “Análisis instrumental” Kenneth A. Rubinson, Judith F. Rubinson - 2001 Pearson Educación
+~ Emil W. Ciurczak, Benoit Igne. CRC Press, 2014 Espectroscopia. Requena, Federico M. Pearson Publications Company (2005) Espectroscopia ultravioleta y visible. C.N. Rao. Ed. Alambra  →  Espectroscopia ultravioleta y visible. C.N. Rao. Ed. Alambra
 ~ Técnicas Instrumentales de Análisis en Bioquímica. Gavilanes Franco, José Gregorio  →  Técnicas Instrumentales de Análisis en Bioquímica. Gavilanes Franco, José Gregorio. Editorial Síntesis.1999
-~ Métodos espectroscópicos en Química Orgánica Hesse, Manfred · Meier, Herbert · Zeeh, Bernd.ISBN: 9788477385226. Ed. Síntesis 2005 Técnicas espectroscópicas en química analítica . Ríos Castro, Ángel ; Cruz Moreno Bondi, María , Simonet Suau, Bartolomé M. (coords.) Ed. Síntesis 2012 Pharmaceutical and Medical Applications of Near-Infrared Spectroscopy, Second Edition  →  Métodos espectroscópicos en Química Orgánica Hesse, Manfred · Meier, Herbert · Zeeh, Bernd.ISBN: 9788477385226. Ed. Síntesis 2005
+~ Técnicas de separación en química analítica. Rafael Cela, Rosa Antonia Lorenzo, Ma del Carmen Casais. Ed. Síntesis, 2003 “Análisis instrumental” Kenneth A. Rubinson, Judith F. Rubinson - 2001 Pearson Educación Process Analytical Technology: Spectroscopic Tools and Implementation Strategies for 2010  →  “Análisis instrumental” Kenneth A. Rubinson, Judith F. Rubinson - 2001 Pearson Educación
 ~ Análisis químico e instrumental moderno. Frederic Walton Harnold; Jorge Reyes. Ed  →  Análisis químico e instrumental moderno. Frederic Walton Harnold; Jorge Reyes. Ed. Reverté 2005. ISBN: 8429175199 ISBN-13: 9788429175196
+~ Métodos espectroscópicos en Química Orgánica Hesse, Manfred · Meier, Herbert · Zeeh, Bernd.ISBN: 9788477385226. Ed. Síntesis 2005 Técnicas espectroscópicas en química analítica . Ríos Castro, Ángel ; Cruz Moreno Bondi, María , Simonet Suau, Bartolomé M. (coords.) Ed. Síntesis 2012 Pharmaceutical and Medical Applications of Near-Infrared Spectroscopy, Second Edition  →  Métodos espectroscópicos en Química Orgánica Hesse, Manfred · Meier, Herbert · Zeeh, Bernd.ISBN: 9788477385226. Ed. Síntesis 2005
+~ Reverté 2005. ISBN: 8429175199 ISBN-13: 9788429175196 Espectroscopia Atómica y Molecular. J. Zúñiga Román. Pearson Educación  →  Espectroscopia Atómica y Molecular. J. Zúñiga Román. Pearson Educación
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Aplicación de las Nuevas Tecnologías a la Enseñanza Práctica de Técnicas Instrumentales. Proyecto de Innovación Docente 07-02-08 subvencionado por la UGR Ref. MVGPI2007
++ Aplicación de las Nuevas Tecnologías a la Enseñanza Práctica de Técnicas Instrumentales (2ª parte). Proyecto de Innovación Docente con Código Nº 08-22 subvencionado por la UGR Ref. MVG/PI2008
 + Espectroscopia de Resonancia Magnética. F. J. López. Addison Wesley Iberoamericana S.A
-+ Espectroscopia ultravioleta y visible. C.N. Rao. Ed. Alambra
++ Espectroscopia. Requena, Federico M. Pearson Publications Company (2005)
 + Espectroscopía Infrarroja. Robert Conley. Editorial Alambra
 + Pharmaceutical and Medical Applications of Near-Infrared Spectroscopy, Second Edition. Emil W. Ciurczak, Benoit Igne. CRC Press, 2014
 + Process Analytical Technology: Spectroscopic Tools and Implementation Strategies for the Chemical and Pharmaceutical Industries. Ed. Katherine A. Bakeev. John Wiley & Sons, 2010
@@ -47,4 +47,4 @@ No se eliminaron recursos.
 + Técnicas de separación en química analítica. Rafael Cela, Rosa Antonia Lorenzo, Ma del Carmen Casais. Ed. Síntesis, 2003
 + Técnicas espectroscópicas en química analítica . Ríos Castro, Ángel ; Cruz Moreno Bondi, María , Simonet Suau, Bartolomé M. (coords.) Ed. Síntesis 2012
 
-📊 Porcentaje estimado de cambio: 58% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

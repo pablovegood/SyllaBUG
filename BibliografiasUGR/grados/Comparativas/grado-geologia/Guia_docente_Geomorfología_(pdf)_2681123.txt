@@ -38,10 +38,10 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ SPARKS, B.W. (1972). “Geomorphology”. Ed. Longman. castellano Ed. Omega) SUMMERFIELD, M.A. (1991). “Global Geomorphology”, Ed. Prentice Hill  →  SUMMERFIELD, M.A. (1991). “Global Geomorphology”, Ed. Prentice Hill
+~ GUTIÉRREZ ELORZA, M. (ed.) (1994). “Geomorfología de España”. Ed. Rueda HAILS, J.R. (ed.) (1977). “Applied Geomorphology”. Elsevier  →  GUTIÉRREZ ELORZA, M. (ed.) (1994). “Geomorfología de España”. Ed. Rueda
 ~ Freeman and Company Publishers  →  BIERMAN, P. R., & MONTGOMERY, D. R. (2014). “Key concepts in geomorphology”. W. H. Freeman and Company Publishers
 ~ GUTIÉRREZ ELORZA, M. (2008). “Geomorfología”. Ed. Pearson GUTIÉRREZ, F., & GUTIÉRREZ, M. (2016). “Landforms of the earth: an illustrated guide”  →  GUTIÉRREZ, F., & GUTIÉRREZ, M. (2016). “Landforms of the earth: an illustrated guide”. Springer
-~ GUTIÉRREZ ELORZA, M. (ed.) (1994). “Geomorfología de España”. Ed. Rueda HAILS, J.R. (ed.) (1977). “Applied Geomorphology”. Elsevier  →  HAILS, J.R. (ed.) (1977). “Applied Geomorphology”. Elsevier
-~ SPARKS, B.W. (1972). “Geomorphology”. Ed. Longman. castellano Ed. Omega) SUMMERFIELD, M.A. (1991). “Global Geomorphology”, Ed. Prentice Hill  →  SUMMERFIELD, M.A. (1991). “Global Geomorphology”, Ed. Prentice Hill
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -50,7 +50,7 @@ No se eliminaron recursos.
 + BURBANK, D. W., & ANDERSON, R. S. (2012). “Tectonic geomorphology”. J. Wiley & Sons
 + FRENCH, H. M. (2018). “The periglacial environment”. John Wiley & Sons
 + GUTIÉRREZ ELORZA, M. (2008). “Geomorfología”. Ed. Pearson
-+ GUTIÉRREZ ELORZA, M. (ed.) (1994). “Geomorfología de España”. Ed. Rueda
++ HAILS, J.R. (ed.) (1977). “Applied Geomorphology”. Elsevier
 + SPARKS, B.W. (1972). “Geomorphology”. Ed. Longman
 + STRAHLER, A. (1951). “Physical Geography”. John Wiley and Sons (traducción en castellano Ed. Omega)
 + TWIDALE, C.R. (1976). “Analysis of Landforms”. Ed. John Wiley and Sons

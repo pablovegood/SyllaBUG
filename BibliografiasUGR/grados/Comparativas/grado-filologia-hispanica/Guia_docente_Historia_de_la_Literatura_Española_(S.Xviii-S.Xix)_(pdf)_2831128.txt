@@ -25,7 +25,7 @@ No se eliminaron recursos.
 = GILMAN, S.,Galdós y el arte de la novela europea: 1867-1887, Madrid, Taurus, 1985
 = GULLÓN, G.,El jardín interior de la burguesía: la novela moderna en España (1885-1902), Madrid, Biblioteca Nueva, 2003
 = GULLÓN, R.,Galdós, novelista moderno, Madrid, Gredos, 1986
-= Los tomos correspondientes a la literatura española de los siglos XVIII y XIX de los siguientes manuales:Canavaggio, J. (dir.),Historia de la literatura española,Barcelona, ArielJones, R. O. (Editor),Historia de la literatura española, Barcelona, Ariel.Mainer, José-Carlos (coord.),Historia de la literatura española, Barcelona, CríticaMenéndez Peláez, Jesús et al.,Historia de la Literatura Española, Madrid, Everest, 2005.Pedraza Jiménez, Felipe y Rodríguez Cáceres, Milagros,Manual de literatura española,Estella, Cenlit.Rico, Francisco (ed.),Historia y crítica de la literatura española, Barcelona, Crítica.Valbuena Prat, A.,Historia de la literatura española. Edición ampliada por Antonio Prieto, Barcelona, Gustavo Gili
+= Jones, R. O. (Editor),Historia de la literatura española, Barcelona, Ariel
 = LÓPEZ JIMÉNEZ L.,El naturalismo y España, Madrid, Alhambra
 = MAESTRE, A. (ed.),¿Qué es Ilustración?, Madrid, Tecnos, 1999
 = MARAVALL, J. A., Estudios de historia del pensamiento español. Siglo XVIII, Madrid, Centro de Estudios políticos y constitucionales, 1999
@@ -47,6 +47,7 @@ No se eliminaron recursos.
 = VAN HORN MELTON, J.,La aparición del público durante la Ilustración europea, Universidad de Valencia, 2009
 = Valbuena Prat, A.,Historia de la literatura española. Edición ampliada por Antonio Prieto, Barcelona, Gustavo Gili
 = ÁLVAREZ DE MIRANDA, P.,Palabras e ideas. El léxico de la Ilustración Temprana en España, Madrid, Real Academia de la Lengua, 1992
+= ——— (ed.),El ensayo español 2. El siglo XVIII, Barcelona, Crítica, 1997
 = ——— La España del Absolutismo ilustrado, Madrid, Espasa-Calpe, 2005
 = ———Galdós(3 volúmenes), Madrid, Castalia, 1980
 = ———Historia literaria de España en el siglo XVIII, Madrid, Trotta, 1996
@@ -54,22 +55,19 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Mainer, José-Carlos (coord.), Historia de la literatura española, Barcelona, Crítica Menéndez Peláez, Jesús et al., Historia de la Literatura Española, Madrid, Everest, 2005  →  Mainer, José-Carlos (coord.),Historia de la literatura española, Barcelona, Crítica
 ~ ———, El ensayo en los siglos XIX y XX, Madrid: Playor. vol. I, Madrid, Visor, 1996  →  ———,El ensayo en los siglos XIX y XX, Madrid: Playor
-~ SÁNCHEZ-BLANCO, F., Europa y el pensamiento español del siglo XVIII, Madrid, Alianza, ——— (ed.), El ensayo español 2. El siglo XVIII, Barcelona, Crítica, 1997  →  SÁNCHEZ-BLANCO, F.,Europa y el pensamiento español del siglo XVIII, Madrid, Alianza, 1991
-~ Canavaggio, J. (dir.), Historia de la literatura española, Barcelona, Ariel Jones, R. O. (Editor), Historia de la literatura española, Barcelona, Ariel  →  Los tomos correspondientes a la literatura española de los siglos XVIII y XIX de los siguientes manuales:Canavaggio, J. (dir.),Historia de la literatura española,Barcelona, ArielJones, R. O. (Editor),Historia de la literatura española, Barcelona, Ariel.Mainer, José-Carlos (coord.),Historia de la literatura española, Barcelona, CríticaMenéndez Peláez, Jesús et al.,Historia de la Literatura Española, Madrid, Everest, 2005.Pedraza Jiménez, Felipe y Rodríguez Cáceres, Milagros,Manual de literatura española,Estella, Cenlit.Rico, Francisco (ed.),Historia y crítica de la literatura española, Barcelona, Crítica.Valbuena Prat, A.,Historia de la literatura española. Edición ampliada por Antonio Prieto, Barcelona, Gustavo Gili
 ~ Los tomos correspondientes a la literatura española de los siglos XVIII y XIX de los siguientes manuales  →  Los tomos correspondientes a la literatura española de los siglos XVIII y XIX de los siguientes manuales:Canavaggio, J. (dir.),Historia de la literatura española,Barcelona, ArielJones, R. O. (Editor),Historia de la literatura española, Barcelona, Ariel.Mainer, José-Carlos (coord.),Historia de la literatura española, Barcelona, CríticaMenéndez Peláez, Jesús et al.,Historia de la Literatura Española, Madrid, Everest, 2005.Pedraza Jiménez, Felipe y Rodríguez Cáceres, Milagros,Manual de literatura española,Estella, Cenlit.Rico, Francisco (ed.),Historia y crítica de la literatura española, Barcelona, Crítica.Valbuena Prat, A.,Historia de la literatura española. Edición ampliada por Antonio Prieto, Barcelona, Gustavo Gili
-~ Madrid, Gredos, 2003  →  CASALDUERO, J.,Vida y obra de Galdós (1843-1920), Madrid, Gredos, 1974
 ~ HUERTA CALVO, J., Historia del teatro español. II. Del siglo XVIII a la época actual  →  HUERTA CALVO, J.,Historia del teatro español. II. Del siglo XVIII a la época actual. Madrid, Gredos, 2003
 ~ FERNÁNDEZ MONTESINOS, J., Introducción a la historia de la novela en España en el s  →  FERNÁNDEZ MONTESINOS, J.,Introducción a la historia de la novela en España en el s. XIX, Madrid, Castalia, 1973
+~ Madrid, Gredos, 2003  →  GULLÓN, R.,Galdós, novelista moderno, Madrid, Gredos, 1986
 
 ✅ Recursos añadidos:
 ------------------------------
 + BOZAL, V. (ed),Historia de las ideas estéticas y de las teorías artísticas contemporáneas, vol. I, Madrid, Visor, 1996
 + Canavaggio, J. (dir.),Historia de la literatura española,Barcelona, Ariel
-+ Jones, R. O. (Editor),Historia de la literatura española, Barcelona, Ariel
-+ Mainer, José-Carlos (coord.),Historia de la literatura española, Barcelona, Crítica
 + Menéndez Peláez, Jesús et al.,Historia de la Literatura Española, Madrid, Everest, 2005
-+ ——— (ed.),El ensayo español 2. El siglo XVIII, Barcelona, Crítica, 1997
++ SÁNCHEZ-BLANCO, F.,Europa y el pensamiento español del siglo XVIII, Madrid, Alianza, 1991
 + ———El rapto de la mente. Poética y poesía dieciochescas, Anthropos, 1989
 
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

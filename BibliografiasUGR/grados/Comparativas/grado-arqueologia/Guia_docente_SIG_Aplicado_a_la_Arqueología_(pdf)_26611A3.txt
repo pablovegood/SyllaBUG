@@ -8,6 +8,7 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = A. Moreno: "Sistemas y análisis de la información geográfica. Manual de autoaprendizaje con ArcGis". Ed. Rama. Madrid. 2005
+= C. Ordoñez, R. Martínez: "Sistemas de Información Geográfica. Aplicaciones prácticas con Idrisi 32 al análisis de riesgos naturales y problemáticas medioambientales". Editorial Ra-Ma. Madrid. 2002
 = J. Conolly, M. Lake: "Geographical Information Systems in Archaeology". Cambridge Manuals in Archaeology. Cambridge University Press. 2006
 = J. Peña Llopis: "Sistemas de Información Geográfica aplicados a la gestión del Territorio". Editorial Club Universitario. Alicante. 2006
 = J.M. Santos: "Sistemas de Información Geográfica". UNED. Madrid. 2004
@@ -21,12 +22,12 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Editorial Ra-Ma. Madrid. 2002  →  J. Bosque, A. Moreno: "Sistemas de Información Geográfica y localización de instalaciones y equipamientos". Editorial Ra-Ma. Madrid. 2004
 ~ V. Olaya: "Sistemas de Información Geográfica". ISBN: 978-1-71677-766-0. 2020. http://volaya.github.io/libro-sig/ C. Ordoñez, R. Martínez: "Sistemas de Información Geográfica. Aplicaciones prácticas con Idrisi 32 al análisis de riesgos naturales y problemáticas medioambientales"  →  C. Ordoñez, R. Martínez: "Sistemas de Información Geográfica. Aplicaciones prácticas con Idrisi 32 al análisis de riesgos naturales y problemáticas medioambientales". Editorial Ra-Ma. Madrid. 2002
 
 ✅ Recursos añadidos:
 ------------------------------
 + D. Comas, E. Ruiz: "Fundamentos de los Sistemas de Información Geográfica". Ed. Ariel Geografía. Barcelona. 1993
++ J. Bosque, A. Moreno: "Sistemas de Información Geográfica y localización de instalaciones y equipamientos". Editorial Ra-Ma. Madrid. 2004
 + J. Bosque: "Sistemas de Información Geográfica". Ed. Rialp. Madrid. 1992
 + J. Guimet: "Introducción conceptual a los Sistemas de Información Geográfica". Estudio Gráfico. Madrid. 1992
 + J. Gutierrez, M. Gould: "SIG: Sistemas de información Geográfica". Ed. Síntesis. Madrid. 1994

@@ -18,10 +18,10 @@ No se eliminaron recursos.
 = BARRIOS J., VALVERDE I. : Hormigón.Ed. CSV. Granada (2001)
 = BENITO J.: Causas abióticas de la destrucción de la madera.Boletín de información técnica de AITIM, nº 133, pp. 42-45 (1.988)
 = BENITO SORIA A. et alt. C.S.C.I.M.E., LOEMCO, Manual de rocas ornamentales.Ed. C. López Jimeno. Madrid (1996)
+= Bulletin D'Information ( del CEB)
 = C.I.T.A.V.: Manual del vidrio. Editado por el Centro de información Técnica de Aplicaciones del Vidrio (1.989)
 = CAMUÑAS A. : Materiales de Construcción.8ª edición. Guadiana de Publicaciones, Madrid (1.974)
 = CASTRO E., GARCÍA CASTAN J., GARCÍA W. y LALOUMET E.: Manual de la pintura en construcción. Editado por la A.S.I.C
-= Cemento-Hormigón
 = CÓDIGO TÉCNICO DE LA EDIFICACIÓN, CTE, R.D. 314/2006 de 17 de Marzo de 2006. Deroga a la NBE. Consta de los siguientes documentos Básicos, DB: SE, SE-AE, SE-C, SE-A, SE-F, SE-M, SI, SU, HS, HE
 = DREUX G.: Guía práctica del hormigón.E.T.A. Barcelona (1.981)
 = Diario Oficial de las Comunidades Europeas de 11. 2. 89.Directiva 89/106/CEE sobre los productos de construcción
@@ -32,7 +32,7 @@ No se eliminaron recursos.
 = FERNÁNDEZ DEL CAMPO J.A. : Pavimentos bituminosos en frío. Editores Técnicos Asociados, Barcelona (1.983)
 = GARATE ROJAS I.: Artes de la Cal. Ed. Ministerio de Cultura, Dirección General de Bellas Artes y Archivos. Instituto de Conservación y Restauración de Bienes Culturales. 1º Edición. Madrid (1993)
 = GOMA F. : El cemento portland y otros aglomerantes.Editores Técnicos Asociados S.A. Barcelona (1.979)
-= GORCHAKOV G.I. : Materiales de Construcción.Ed. Mir, Moscú (1.984)
+= GORCHAKOV G.I. : Materiales de construcción.Ed. Mir. Moscú (1.984)
 = GRIGORIEF M.A. : Estudio de materiales.Ed Mir, Moscú (1.985)
 = Hasta ahora pueden encontrarse las siguientes disposiciones de la Administración española relacionadas con el proceso constructivo
 = J.L. PORCAR y otros: Manual-guía técnica de los revestimientos y pavimentos cerámicos. Editado por el Instituto de Tecnología Cerámica. Diputación de Castellón, (1.987)
@@ -68,8 +68,8 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ BENITO SORIA A. et alt. C.S.C.I.M.E., LOEMCO, Manual de rocas ornamentales. Ed. C  →  BENITO SORIA A. et alt. C.S.C.I.M.E., LOEMCO, Manual de rocas ornamentales.Ed. C. López Jimeno. Madrid (1996)
 ~ Deroga a la NBE. Consta de los siguientes documentos Básicos, DB: SE, SE-AE, SE-C, SE- A, SE-F, SE-M, SI, SU, HS, HE  →  CÓDIGO TÉCNICO DE LA EDIFICACIÓN, CTE, R.D. 314/2006 de 17 de Marzo de 2006. Deroga a la NBE. Consta de los siguientes documentos Básicos, DB: SE, SE-AE, SE-C, SE-A, SE-F, SE-M, SI, SU, HS, HE
+~ BENITO SORIA A. et alt. C.S.C.I.M.E., LOEMCO, Manual de rocas ornamentales. Ed. C  →  BENITO SORIA A. et alt. C.S.C.I.M.E., LOEMCO, Manual de rocas ornamentales.Ed. C. López Jimeno. Madrid (1996)
 ~ SMITH W.F. : Fundamentos de la Ciencia e Ingeniería de Materiales. Ed.McGraw-Hill, Madrid (1992) SOROKA I. : Portland cement paste & concrete. Ed. por The Macmillan Press Ltd. London (1.979)  →  SOROKA I. : Portland cement paste & concrete. Ed. por The Macmillan Press Ltd. London (1.979)
 
 ✅ Recursos añadidos:
@@ -77,10 +77,10 @@ No se eliminaron recursos.
 + AENOR. Normas UNE
 + ANDREU X. : La madera.Biblioteca Atrium de la madera. Tomo I. Ed. Atrium, Barcelona
 + Annales de L'Institut Technique du Batimen et des Travaux Publics (del ITBTP)
-+ Bulletin D'Information ( del CEB)
 + Cement and concrte researh
++ Cemento-Hormigón
 + Construction and Buildings materials
-+ GORCHAKOV G.I. : Materiales de construcción.Ed. Mir. Moscú (1.984)
++ GORCHAKOV G.I. : Materiales de Construcción.Ed. Mir, Moscú (1.984)
 + Hormigón y Acero (de la ATEP y el ICCET)
 + Informes de la Construcción(del ICCET)
 + Instrucciones

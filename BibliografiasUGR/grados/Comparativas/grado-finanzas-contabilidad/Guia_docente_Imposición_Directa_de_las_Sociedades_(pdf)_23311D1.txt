@@ -8,12 +8,13 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = Agencia Estatal del Boletín Oficial del Estado:Colección de Códigos Electrónicos de Legislación
-= Editorial Tirant Lo Blanch: Impuesto sobre Sociedades
+= Colección de Códigos Electrónicos de Legislación
 = El Derecho Financiero y Tributario forma parte del Derecho positivo y sus normas, por razones muy diversas, se modifican con bastante frecuencia.Por ello, se recomienda encarecidamente utilizar la última edición publicada
 = El nuevo Impuesto sobre Sociedades: aplicación práctica. Manuel Gutierrez Viguera. CISS
+= Impuesto sobre Sociedades. Todo Sociedades.Pallarés Rodríguez, R.; García-Torres Fernández, M.J.; Crespo, M.; Editorial Godel
 = Manual de Derecho Tributario. Parte Especial. Juan Martin Queralt. Aranzadi
 = Memento Fiscal. Francis Lefebvre
-= Memento Impuesto sobre Sociedades Francis Lefebvre
+= Régimen fiscal de la empresa. Malvárez Pascual, Luis / Martínez Gálvez, J. Pablo / Ramírez Gómez, Salvador . Tecnos
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
@@ -22,26 +23,25 @@ No hubo cambios de edición/año.
 ✅ Recursos añadidos:
 ------------------------------
 + Bibliografía recomendada
-+ Colección de Códigos Electrónicos de Legislación
 + Curso de Derecho Tributario Parte Especial. Fernando Pérez Royo. Tecnos
 + Editorial Aranzadi: Código Tributario
 + Editorial La Ley: Código Tributario
 + Editorial Tecnos: Legislación Básica del Sistema Tributario Español
++ Editorial Tirant Lo Blanch: Impuesto sobre Sociedades
 + Guía del Impuesto sobre Sociedades. Francisco Mellado Benavente. CISS
 + Guía fiscal. CEF
 + Impuesto Sobre Sociedades 1. Régimen General Comentarios y casos prácticos. Fernando Borrás. CEF
 + Impuesto Sobre Sociedades Régimen General y Empresas de Reducida Dimensión. Ángeles Pla Vall. Tirant lo Blanch
-+ Impuesto sobre Sociedades. Todo Sociedades.Pallarés Rodríguez, R.; García-Torres Fernández, M.J.; Crespo, M.; Editorial Godel
 + La consulta de la legislación positiva vigente resulta imprescindible para el estudio de la Asignatura. Existen numerosas colecciones de legislación financiera y tributaria en el mercado y cualquiera de ellas sirve para preparar la Asignatura.Ésta debe estar actualizada
 + Legislación
 + Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades
 + Manuales prácticos AEAT
++ Memento Impuesto sobre Sociedades Francis Lefebvre
 + Ministerio de Hacienda: Leyes Tributarias. Recopilación Normativa
 + Normativa Básica
 + Real Decreto 1776/2004 ,de 30 de julio, por el que se aprueba el Reglamento del Impuesto sobre la Renta de No Residentes
 + Real Decreto 1777/2004, de 30 de julio, por el que se aprueba el Reglamento del Impuesto sobre Sociedades
 + Real Decreto Legislativo 5/2004, de 5 de marzo, por el que se aprueba el Texto Refundido de la Ley del Impuesto sobre la Renta de No Residentes
-+ Régimen fiscal de la empresa. Malvárez Pascual, Luis / Martínez Gálvez, J. Pablo / Ramírez Gómez, Salvador . Tecnos
 + TODO Fiscal. Francisco M. Mellado Benavente. CISS
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

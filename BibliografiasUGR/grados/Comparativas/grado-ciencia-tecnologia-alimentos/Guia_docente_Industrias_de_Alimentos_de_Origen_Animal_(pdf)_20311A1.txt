@@ -7,36 +7,36 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
+= AOAC. Official Methods of analysis of the Association of Official Analytical Chemists, 17ª ed. Ed. Helrich, K.; Arlington, VA. USA. 2000
 = Bartholami, A. Fábricas de alimentos. Acribia. Zaragoza. 2001
 = Belitz HD, Grosch W. Schieberle, P. Química de los alimentos. Acribia. Zaragoza, 2011
 = Early R. Tecnología de los productos lácteos. Acribia, Zaragoza, 2000
+= European Food Safety Authority (EFSA)
 = Feiner, G. Manual de produtos carnicos. Ciencia práctica y tecnológica. Ed. Acribia, 2018
 = Manaus M. Introducción a la tecnología quesera. Acribia. Zaragoza, 2003
 = Mazza G. Alimentos funcionales: aspectos bioquímicos y de procesado. Acribia, Zaragoza, 2000
 = Moutney GJ Parkhurst CR. Tecnología de productos avicolas. K. Acribia. Zaragoza. 2002
 = Ordoñez JA (Editor). Tecnología de los alimentos. Vol. I: Componentes de alimentos y procesos. Vol. II: Alimentos de origen animal. Síntesis, Madrid, 1998
 = Ordoñez Sánchez, J. I. Guía de identificación de filetes y rodajas de pescado de consumo en España. Díaz de Santos. Madrid. 2012
-= Organismos Nacionales e Internacionales
 = Tanime AY, Robinson, RK. Yogur. ciencia y Tecnología. Acribia. Zaragoza. 1991
 = Timm F. Fabricación de helados. Acribia. Zaragoza., 1989
-= Varnam, A.M and Sutherland, J.A. Carne y productos cárnicos, Acribia. Zaragoza. 1998
+= Veisseyre R. Lactología técnica. Acribia, Zaragoza, 1998
 = Walstra P, Geurts TJ, Normen A, Jellema A, Van Voekel M. Dairy technology. Marcel Dekker. New York, 1999
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ AOAC. Official Methods of analysis of the Association of Official Analytical Chemists, 17ª ed. Ed. Helrich, K.; Arlington, VA. USA. 2000 Barbut, S. The science of poultry and meat processing. University of Guelph. Canada  →  Association of Official Analytical Chemists - AOAC
-~ Madrid Vicente, A. La carne y los productos cárnicos. AMV ediciones, Madrid , 2014 Madrid Antonio. Formación profesional en industrias lácteas. AMV Ediciones. Madrid, 2017  →  Madrid Antonio. Formación profesional en industrias lácteas. AMV Ediciones. Madrid, 2017
-~ Alais CH. Ciencia de la leche. Principios de técnica lechera. Reverté, Madrid, 1985 Amiot J. Ciencia y tecnología de la leche: principios y aplicaciones. Acribia. Zaragoza, 1991  →  Amiot J. Ciencia y tecnología de la leche: principios y aplicaciones. Acribia. Zaragoza, 1991
 ~ Gil A (Editor). Tratado de Nutrición. Tomo III: Composición y calidad nutritiva de los alimentos. Panamericana, Madrid, 2017  →  Gil A (Editor). Tratado de Nutrición. Tomo III: Composición y calidad nutritiva de los alimentos. 4ª Ed. Panamericana, Madrid, 2025
-~ HALL, G.M. Tecnología del procesado del pescado. Ed. Acribia. Zaragoza. 2001 Hui, Y.H. Handbook of Meat and Meat processing. Ed. Taylor and Francis.2012 Luquet FM. Leche y productos lácteos: vaca, oveja, cabra. Vol. 1: La leche, de la mama a la lechería. Vol. 2. Productos lácteos, transformación y tecnología. Acribia, Zaragoza, 1991  →  HALL, G.M. Tecnología del procesado del pescado. Ed. Acribia. Zaragoza. 2001
 ~ Ceballos, R. Manipulación de alimentos en las carnes y derivados, aves y caza. 2009 Durand P. Tecnología de los productos de charcutería y salazones. Acribia, Zaragoza, 2002  →  Durand P. Tecnología de los productos de charcutería y salazones. Acribia, Zaragoza, 2002
 ~ Ranken M.D.. Manual de industrias de la carne. AM Vicente ediciones. Madrid. 2003 Ruiter A. El pescado y los derivados de la pesca: composición, propiedades nutritivas y estabilidad. Acribia, Zaragoza, 1999  →  Ranken M.D.. Manual de industrias de la carne. AM Vicente ediciones. Madrid. 2003
+~ Alais CH. Ciencia de la leche. Principios de técnica lechera. Reverté, Madrid, 1985 Amiot J. Ciencia y tecnología de la leche: principios y aplicaciones. Acribia. Zaragoza, 1991  →  Amiot J. Ciencia y tecnología de la leche: principios y aplicaciones. Acribia. Zaragoza, 1991
+~ HALL, G.M. Tecnología del procesado del pescado. Ed. Acribia. Zaragoza. 2001 Hui, Y.H. Handbook of Meat and Meat processing. Ed. Taylor and Francis.2012 Luquet FM. Leche y productos lácteos: vaca, oveja, cabra. Vol. 1: La leche, de la mama a la lechería. Vol. 2. Productos lácteos, transformación y tecnología. Acribia, Zaragoza, 1991  →  HALL, G.M. Tecnología del procesado del pescado. Ed. Acribia. Zaragoza. 2001
+~ Madrid Vicente, A. La carne y los productos cárnicos. AMV ediciones, Madrid , 2014 Madrid Antonio. Formación profesional en industrias lácteas. AMV Ediciones. Madrid, 2017  →  Madrid Vicente, A. La carne y los productos cárnicos. AMV ediciones, Madrid , 2014
 
 ✅ Recursos añadidos:
 ------------------------------
-+ AOAC. Official Methods of analysis of the Association of Official Analytical Chemists, 17ª ed. Ed. Helrich, K.; Arlington, VA. USA. 2000
 + Agencia Española de Seguridad Alimentaria y Nutrición - AESAN
 + Alais CH. Ciencia de la leche. Principios de técnica lechera. Reverté, Madrid, 1985
++ Association of Official Analytical Chemists - AOAC
 + Barbut, S. The science of poultry and meat processing. University of Guelph. Canada . 2015
 + Boletín Oficial de la Junta de Andalucía
 + Boletín Oficial del Estado
@@ -44,7 +44,6 @@ No se eliminaron recursos.
 + Codex Alimentarius
 + Critical Reviews in Food Science and Nutrition
 + Diario Oficial de la Unión Europea
-+ European Food Safety Authority (EFSA)
 + Food Chemistry
 + Hui, Y.H. Handbook of Meat and Meat processing. Ed. Taylor and Francis.2012
 + International Dairy Journal
@@ -54,12 +53,13 @@ No se eliminaron recursos.
 + Journal of the Society of Dairy Technology
 + Legislación alimentaria
 + Luquet FM. Leche y productos lácteos: vaca, oveja, cabra. Vol. 1: La leche, de la mama a la lechería. Vol. 2. Productos lácteos, transformación y tecnología. Acribia, Zaragoza, 1991
-+ Madrid Vicente, A. La carne y los productos cárnicos. AMV ediciones, Madrid , 2014
++ Madrid Antonio. Formación profesional en industrias lácteas. AMV Ediciones. Madrid, 2017
 + Meat science
++ Organismos Nacionales e Internacionales
 + Revistas de interés
 + Ruiter A. El pescado y los derivados de la pesca: composición, propiedades nutritivas y estabilidad. Acribia, Zaragoza, 1999
 + Toldrá, F. Lawrie’s Meat Science, 9ª Ed, Woodhead Publishing (Elsevier), UK, 2023
 + Trends in Food Science & Technology
-+ Veisseyre R. Lactología técnica. Acribia, Zaragoza, 1998
++ Varnam, A.M and Sutherland, J.A. Carne y productos cárnicos, Acribia. Zaragoza. 1998
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

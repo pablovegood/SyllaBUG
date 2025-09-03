@@ -17,8 +17,8 @@
 📚 Recursos sin cambios:
 ------------------------------
 = Agencia Estatal del Boletín Oficial del Estado:Colección de Códigos Electrónicos de Legislación
+= Colección de Códigos Electrónicos de Legislación
 = Curso de Derecho Tributario Parte Especial. Fernando Pérez Royo. Edit.Tecnos
-= Editorial Aranzadi: Código Tributario
 = El Derecho Financiero y Tributario forma parte del Derecho positivo y sus normas, por razones muy diversas, se modifican con bastante frecuencia. Por ello, se recomienda encarecidamente utilizar la última edición publicada
 = El nuevo Impuesto sobre Sociedades: aplicación práctica. Manuel Gutierrez Viguera. Edit.CISS
 = Fiscalidad práctica. Teodoro Arnáiz Arnáiz. Edit. Lex Nova
@@ -38,12 +38,12 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Impuesto sobre la Renta de las Personas Físicas  →  Real Decreto 439/2007, de 30 de marzo, por el que se aprueba el Reglamento del Impuesto sobre la Renta de las Personas Físicas
 ~ Orden HAC/1155/2020, de 25 de noviembre, por la que se desarrollan, para el año 2021, el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido. sobre Sociedades. condiciones de las actividades empresariales y profesionales y de las participaciones en entidades para la aplicación de las exenciones correspondientes en el IP, Impuesto sobre Sucesiones y Donaciones, sobre la Renta de No Residentes, y se modifica el RD 1041/1990, de 27 de julio; el RD 338/1990, de 9 de marzo; el RD Documentados, sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, F2008181Q  →  Orden HAC/1155/2020, de 25 de noviembre, por la que se desarrollan, para el año 2021, el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido
-~ Impuesto sobre la Renta de las Personas Físicas  →  Ley 35/2006, de 28 de noviembre, de la Ley del Impuesto sobre la Renta de las Personas Físicas
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Colección de Códigos Electrónicos de Legislación
++ Editorial Aranzadi: Código Tributario
 + Editorial La Ley: Código Tributario
 + Editorial Tecnos: Legislación Básica del Sistema Tributario Español
 + Editorial Tirant Lo Blanch: Impuesto sobre el Valor Añadido
@@ -52,6 +52,7 @@
 + Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio
 + Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades
 + Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones
++ Ley 35/2006, de 28 de noviembre, de la Ley del Impuesto sobre la Renta de las Personas Físicas
 + Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido
 + Manuales prácticos. AEAT
 + Memento Práctico IVA. Varios Autores. Edit. Francis Lefebvre
@@ -62,7 +63,6 @@
 + Real Decreto 1704/1999, de 5 de noviembre, por el que se determinan los requisitos y condiciones de las actividades empresariales y profesionales y de las participaciones en entidades para la aplicación de las exenciones correspondientes en el IP
 + Real Decreto 1776/2004, de 30 de julio, por el que se aprueba el Reglamento del Impuesto sobre la Renta de No Residentes
 + Real Decreto 1777/2004, de 30 de julio, por el que se aprueba el Reglamento del Impuesto sobre Sociedades
-+ Real Decreto 439/2007, de 30 de marzo, por el que se aprueba el Reglamento del Impuesto sobre la Renta de las Personas Físicas
 + Real Decreto 828/1995, de 29 de mayo, por el que se aprueba el Reglamento del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados
 + Real Decreto Legislativo 1/1993, de 24 de septiembre, por el que se aprueba el Texto Refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados
 + Real Decreto Legislativo 5/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley del Impuesto sobre la Renta de No Residentes

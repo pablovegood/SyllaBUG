@@ -53,6 +53,7 @@
 = Guthrie,W.K.C., Historia de la Filosofía Griega, vol.III; cfr. "Los Seguidores Inmediatos de Sócrates", págs.461-477
 = Hoyos Sánchez, I. Sobre el amor y el miedo. Tópicos antiguos y enfoques modernos. Avarigani, Madrid, 2016
 = I
+= I. Aristóteles
 = I.Düring, Aristóteles. Exposición e interpretación de su Pensamiento, ed. U.N.A.M., México, 1990
 = II Filosofía Helenística
 = J.L.Calvo Martínez, Aristóteles, Física, ed. Alma mater, Madrid, 1996
@@ -84,14 +85,13 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ E. Berti, La Filosofia del Primo Aristotele, Padua, 1962. , Aristotele, dalla dialettica alla filosofia prima con saggi integrativi, ed.Bompiani, Milán, 2004  →  E. Berti, La Filosofia del Primo Aristotele, Padua, 1962
+~ E. Berti, La Filosofia del Primo Aristotele, Padua, 1962. , Aristotele, dalla dialettica alla filosofia prima con saggi integrativi, ed.Bompiani, Milán, 2004  →  -, Aristotele, dalla dialettica alla filosofia prima con saggi integrativi, ed.Bompiani, Milán, 2004
 
 ✅ Recursos añadidos:
 ------------------------------
-+ -, Aristotele, dalla dialettica alla filosofia prima con saggi integrativi, ed.Bompiani, Milán, 2004
++ E. Berti, La Filosofia del Primo Aristotele, Padua, 1962
 + García Gual, C., Acosta Mendez, E., Ética de Epicuro, (texto bilingüe), Barcelona, 1974
-+ I. Aristóteles
 + II
 + Long, A.A.-Sedley, D.N., The Hellenistic Philosophers, 2 vols., Cambridge, 1987
 
-📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

@@ -13,6 +13,7 @@ No se eliminaron recursos.
 = CAZA, M. La serigrafía. R. Torres, Barcelona, 1975
 = CAZA, M. Técnicas de serigrafía. Blume, Barcelona, 1981
 = ECO, Umberto, La copia come arte, en 80’s, Gianni Castagnoli (cat.), Milán, 1979
+= IVINS, W.M. Imagen impresa y conocimiento. Análisis de la imagen pre fotográfica. Gustavo Gili, Barcelona, 1975
 = KUSPID, Donald. Arte Digital y Video Arte: Transgrediendo los límites de la representación. Círculo de Lectores. Madrid, 2006
 = MUNARI, Bruno, Xerografie Originali, Bologna, Nicola Zanichelli Editore, 1977
 = PASTOR BRAVO, Jesús, Electrografía y Grabado. Aportaciones plásticas a través de un nuevo medio, Editorial BBK, 1989
@@ -20,20 +21,19 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ IVINS, W.M. Imagen impresa y conocimiento. Análisis de la imagen pre fotográfica  →  IVINS, W.M. Imagen impresa y conocimiento. Análisis de la imagen pre fotográfica. Gustavo Gili, Barcelona, 1975
+~ MANOVICH, Lev. El lenguaje de los nuevos medios de comunicación. La imagen en la era digital. Paidós Comunicación. Madrid. 2005 NIELSEN, G.R. Serigrafía industrial y en las artes gráficas. LEDA, Barcelona, 1975  →  MANOVICH, Lev. El lenguaje de los nuevos medios de comunicación. La imagen en la era digital. Paidós Comunicación. Madrid. 2005
 ~ PASTOR, Jesús y R. ALCALÁ José. “Procedimientos de transferencias en la creación artística”. Servicios de publicaciones de la Diputación provincial de Pontevedra. 1997 RUSS, S. Tratado de serigrafía artística. Blume, Barcelona, 1974. AICHER, Otl: Analógico y digital. Barcelona: Gustavo Gili. 2001  →  RUSS, S. Tratado de serigrafía artística. Blume, Barcelona, 1974. AICHER, Otl: Analógico y digital. Barcelona: Gustavo Gili. 2001
 ~ VELA MARTÍNEZ, Manuel. La serigrafía. De la pantalla de seda a la estampa. Sevilla, point de lunettes, 2013 ALCALA Mellado, José Ramón, Ars & Machina: Electrografía artística en la Colección del Museo Internacional de Electrografía (cat.), Fundación Marcelo Botín, 1998  →  ALCALA Mellado, José Ramón, Ars & Machina: Electrografía artística en la Colección del Museo Internacional de Electrografía (cat.), Fundación Marcelo Botín, 1998
-~ MANOVICH, Lev. El lenguaje de los nuevos medios de comunicación. La imagen en la era digital. Paidós Comunicación. Madrid. 2005 NIELSEN, G.R. Serigrafía industrial y en las artes gráficas. LEDA, Barcelona, 1975  →  NIELSEN, G.R. Serigrafía industrial y en las artes gráficas. LEDA, Barcelona, 1975
+~ ARIZA, Javier. (Coord.) ALCALA, J.R... Explorando el laberinto: creación e investigación en torno a la gráficadigital a comienzos del siglo 21. Universidad de Castilla-La Mancha, Ediciones de la Universidad de Castilla-La Mancha, 2000 BENJAMIN, Walter: La obra de arte en la era de su reproductibilidad técnica. Discursos interrumpidos. Madrid: Taurus Ediciones. 1973.4  →  ARIZA, Javier. (Coord.) ALCALA, J.R... Explorando el laberinto: creación e investigación en torno a la gráficadigital a comienzos del siglo 21. Universidad de Castilla-La Mancha, Ediciones de la Universidad de Castilla-La Mancha, 2000
 ~ L'Angelot, Barcelona, 2002 GIANNETTI, Claudia (Ed): El discreto encanto de la tecnología. Artes en España. Madrid: Ministerio de Cultura: SEACEX; Badajoz: MEIAC  →  GIANNETTI, Claudia. Estética digital. Sintopía del arte, la ciencia y la tecnología. Edit. L'Angelot, Barcelona, 2002 GIANNETTI, Claudia (Ed): El discreto encanto de la tecnología. Artes en España. Madrid: Ministerio de Cultura: SEACEX; Badajoz: MEIAC. 2008
-~ IVINS, W.M. Imagen impresa y conocimiento. Análisis de la imagen pre fotográfica  →  IVINS, W.M. Imagen impresa y conocimiento. Análisis de la imagen pre fotográfica. Gustavo Gili, Barcelona, 1975
-~ Gustavo Gili, Barcelona, 1975  →  RUSS, S. Tratado de serigrafía artística. Blume, Barcelona, 1974. AICHER, Otl: Analógico y digital. Barcelona: Gustavo Gili. 2001
-~ ARIZA, Javier. (Coord.) ALCALA, J.R... Explorando el laberinto: creación e investigación en torno a la gráficadigital a comienzos del siglo 21. Universidad de Castilla-La Mancha, Ediciones de la Universidad de Castilla-La Mancha, 2000 BENJAMIN, Walter: La obra de arte en la era de su reproductibilidad técnica. Discursos interrumpidos. Madrid: Taurus Ediciones. 1973.4  →  BENJAMIN, Walter: La obra de arte en la era de su reproductibilidad técnica. Discursos interrumpidos. Madrid: Taurus Ediciones. 1973.4
 
 ✅ Recursos añadidos:
 ------------------------------
-+ ARIZA, Javier. (Coord.) ALCALA, J.R... Explorando el laberinto: creación e investigación en torno a la gráficadigital a comienzos del siglo 21. Universidad de Castilla-La Mancha, Ediciones de la Universidad de Castilla-La Mancha, 2000
++ BENJAMIN, Walter: La obra de arte en la era de su reproductibilidad técnica. Discursos interrumpidos. Madrid: Taurus Ediciones. 1973.4
 + DARLEY, Andrew. Cultura visual digital. Paidós, Barcelona 2002
-+ MANOVICH, Lev. El lenguaje de los nuevos medios de comunicación. La imagen en la era digital. Paidós Comunicación. Madrid. 2005
++ NIELSEN, G.R. Serigrafía industrial y en las artes gráficas. LEDA, Barcelona, 1975
 + PASTOR, Jesús y R. ALCALÁ José. “Procedimientos de transferencias en la creación artística”. Servicios de publicaciones de la Diputación provincial de Pontevedra. 1997
 + VELA MARTÍNEZ, Manuel. La serigrafía. De la pantalla de seda a la estampa. Sevilla, point de lunettes, 2013
 
-📊 Porcentaje estimado de cambio: 70% [███████░░░]
+📊 Porcentaje estimado de cambio: 64% [██████░░░░]

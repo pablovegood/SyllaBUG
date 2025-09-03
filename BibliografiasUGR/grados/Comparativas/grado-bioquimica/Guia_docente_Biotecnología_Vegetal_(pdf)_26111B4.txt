@@ -25,15 +25,15 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Editorial Universidad de Granada, 400 p  →  GARCIA DEL MORAL GARRIDO, L.F. 2021. Biotecnología Vegetal. Fundamentos y aplicaciones. Editorial Universidad de Granada, 400 p
+~ RICROCH, A., CHOPRA, S., FLEISCHER, S.J. (eds.), 2014. Plant Biotechnology, Springer, New York F2008181Q RANABHATT, H., KAPOR, R. 2018. Plant Biotechnology ,WPI Publishing, India, 526 p TAIZ L., ZEIGER, E., MOLLER, I.M.;MURPHY, A. (2015): Plant Physiology and Development. Sixth edition. Sinauer Associates., New York  →  RICROCH, A., CHOPRA, S., FLEISCHER, S.J. (eds.), 2014. Plant Biotechnology, Springer, New York
 ~ Chischester, England  →  CHRISTOU P., KLEE H. (eds.). 2004. Handbook of Plant Biotechnology. 2 vols. John Wiley & Sons, Chischester, England
-~ RICROCH, A., CHOPRA, S., FLEISCHER, S.J. (eds.), 2014. Plant Biotechnology, Springer, New York F2008181Q RANABHATT, H., KAPOR, R. 2018. Plant Biotechnology ,WPI Publishing, India, 526 p TAIZ L., ZEIGER, E., MOLLER, I.M.;MURPHY, A. (2015): Plant Physiology and Development. Sixth edition. Sinauer Associates., New York  →  RANABHATT, H., KAPOR, R. 2018. Plant Biotechnology ,WPI Publishing, India, 526 p
 ~ GELVIN, S.B., SCILPEROORT, R. (EDS). 2000. Plant Molecular Biology Manual. 2nd ed., Kluwer Academic Pub., Dordrecht, The Hague GARCIA DEL MORAL GARRIDO, L.F. 2021. Biotecnología Vegetal. Fundamentos y aplicaciones  →  GELVIN, S.B., SCILPEROORT, R. (EDS). 2000. Plant Molecular Biology Manual. 2nd ed., Kluwer Academic Pub., Dordrecht, The Hague
+~ Editorial Universidad de Granada, 400 p  →  GARCIA DEL MORAL GARRIDO, L.F. 2021. Biotecnología Vegetal. Fundamentos y aplicaciones. Editorial Universidad de Granada, 400 p
 
 ✅ Recursos añadidos:
 ------------------------------
 + JAMILENA, M.; DÍEZ, M. J.; PICÓ, M. B.; MARTÍNEZ-MORENO, F. 2024. Mejora genética vegetal. Editorial Síntesis, Madrid
-+ RICROCH, A., CHOPRA, S., FLEISCHER, S.J. (eds.), 2014. Plant Biotechnology, Springer, New York
++ RANABHATT, H., KAPOR, R. 2018. Plant Biotechnology ,WPI Publishing, India, 526 p
 + TAIZ L., ZEIGER, E., MOLLER, I.M.;MURPHY, A. (2015): Plant Physiology and Development. Sixth edition. Sinauer Associates., New York
 
 📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

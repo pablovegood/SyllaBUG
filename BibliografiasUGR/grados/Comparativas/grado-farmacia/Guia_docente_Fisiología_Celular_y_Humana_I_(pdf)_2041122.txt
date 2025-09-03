@@ -30,22 +30,22 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ TÓRTORA, G.J. and DERRICKSON, B. Principios de Anatomía y Fisiología. 15ª edición  →  TÓRTORA, G.J. and DERRICKSON, B. Principios de Anatomía y Fisiología. 15ª edición. Méjico: Ed. Médica Panamericana. 2018
-~ GUYTON, A.C. and HALL, J.E. Tratado de Fisiología Médica. 14ª edición. Madrid: Ed  →  GUYTON, A.C. and HALL, J.E. Tratado de Fisiología Médica. 14ª edición. Madrid: Ed. Elsevier, 2021
-~ 1ª Edición. Editorial Médica Panamericana, 2013  →  ALBERTS B. Introducción a la Biología Celular. 3ª Edición. Editorial Médica Panamericana, 2011
-~ Fernández, G.N. Manual de laboratorio de Fisiología. 5ª ed. McGraw-Hill Interamericana  →  Fernández, G.N. Manual de laboratorio de Fisiología. 5ª ed. McGraw-Hill Interamericana. Madrid, 2011
-~ IRIARTE FRANCO J., ARTIEDA GONZÁLEZ-GRANDA J. Manual de Neurofisiología Clínica  →  IRIARTE FRANCO J., ARTIEDA GONZÁLEZ-GRANDA J. Manual de Neurofisiología Clínica. 1ª Edición. Editorial Médica Panamericana, 2013
-~ PRESTON R.B., WILSON T.E. Fisiología. Series Editor: Harvey Richard A. Lippincott’s Illustrated Reviews. Barcelona: Lippincott Williams & Wilkins. 2013 RHOADES, R. and ROTNY, A. Fisiología Médica. 5ª edición. Méjico DF Ed. Wolters Kluwer, 2018  →  PRESTON R.B., WILSON T.E. Fisiología. Series Editor: Harvey Richard A. Lippincott’s Illustrated Reviews. Barcelona: Lippincott Williams & Wilkins. 2013
 ~ A source book of practical experiments in physiology requiring minimal equipment  →  The International Union of Physiological Sciences. Commission on teaching Physiology. A source book of practical experiments in physiology requiring minimal equipment. World Scientific, 1991
-~ PATTON, H.D.; FUCHS, A.F.; HILLE, B.; SCHER, A.M.; STEINER, R. Textbook of Physiology, vol. 1, Excitable cells and Neurophysiology. 21st ed., Saunders, Philadelphia, 1989. músculo esquelético (1999)/ Metabolismo y nutrición (1998). Madrid: Elsevier España  →  PATTON, H.D.; FUCHS, A.F.; HILLE, B.; SCHER, A.M.; STEINER, R. Textbook of Physiology, vol. 1, Excitable cells and Neurophysiology. 21st ed., Saunders, Philadelphia, 1989
-~ Donelli, A. Laboratory manual for anatomy and physiology. Harper Collins Academic  →  Donelli, A. Laboratory manual for anatomy and physiology. Harper Collins Academic. Londres, 1990
 ~ Méjico: Ed. Médica Panamericana. 2018  →  TÓRTORA, G.J. and DERRICKSON, B. Principios de Anatomía y Fisiología. 15ª edición. Méjico: Ed. Médica Panamericana. 2018
+~ Donelli, A. Laboratory manual for anatomy and physiology. Harper Collins Academic  →  Donelli, A. Laboratory manual for anatomy and physiology. Harper Collins Academic. Londres, 1990
 ~ The International Union of Physiological Sciences. Commission on teaching Physiology  →  The International Union of Physiological Sciences. Commission on teaching Physiology. A source book of practical experiments in physiology requiring minimal equipment. World Scientific, 1991
+~ Fernández, G.N. Manual de laboratorio de Fisiología. 5ª ed. McGraw-Hill Interamericana  →  Fernández, G.N. Manual de laboratorio de Fisiología. 5ª ed. McGraw-Hill Interamericana. Madrid, 2011
+~ PRESTON R.B., WILSON T.E. Fisiología. Series Editor: Harvey Richard A. Lippincott’s Illustrated Reviews. Barcelona: Lippincott Williams & Wilkins. 2013 RHOADES, R. and ROTNY, A. Fisiología Médica. 5ª edición. Méjico DF Ed. Wolters Kluwer, 2018  →  RHOADES, R. and ROTNY, A. Fisiología Médica. 5ª edición. Méjico DF Ed. Wolters Kluwer, 2018
+~ 1ª Edición. Editorial Médica Panamericana, 2013  →  TÓRTORA, G.J. and DERRICKSON, B. Principios de Anatomía y Fisiología. 15ª edición. Méjico: Ed. Médica Panamericana. 2018
+~ PATTON, H.D.; FUCHS, A.F.; HILLE, B.; SCHER, A.M.; STEINER, R. Textbook of Physiology, vol. 1, Excitable cells and Neurophysiology. 21st ed., Saunders, Philadelphia, 1989. músculo esquelético (1999)/ Metabolismo y nutrición (1998). Madrid: Elsevier España  →  PATTON, H.D.; FUCHS, A.F.; HILLE, B.; SCHER, A.M.; STEINER, R. Textbook of Physiology, vol. 1, Excitable cells and Neurophysiology. 21st ed., Saunders, Philadelphia, 1989
+~ TÓRTORA, G.J. and DERRICKSON, B. Principios de Anatomía y Fisiología. 15ª edición  →  TÓRTORA, G.J. and DERRICKSON, B. Principios de Anatomía y Fisiología. 15ª edición. Méjico: Ed. Médica Panamericana. 2018
+~ IRIARTE FRANCO J., ARTIEDA GONZÁLEZ-GRANDA J. Manual de Neurofisiología Clínica  →  IRIARTE FRANCO J., ARTIEDA GONZÁLEZ-GRANDA J. Manual de Neurofisiología Clínica. 1ª Edición. Editorial Médica Panamericana, 2013
+~ GUYTON, A.C. and HALL, J.E. Tratado de Fisiología Médica. 14ª edición. Madrid: Ed  →  GUYTON, A.C. and HALL, J.E. Tratado de Fisiología Médica. 14ª edición. Madrid: Ed. Elsevier, 2021
 
 ✅ Recursos añadidos:
 ------------------------------
 + Bibliografía específica
 + CURSOS "CRASH” de MOSBY. Distintos autores. “Lo esencial en”: Sistema nervioso y sentidos especiales (1998)/ Sistema endocrino y aparato reproductor (1998)/ Sistema músculo esquelético (1999)/ Metabolismo y nutrición (1998). Madrid: Elsevier España
-+ RHOADES, R. and ROTNY, A. Fisiología Médica. 5ª edición. Méjico DF Ed. Wolters Kluwer, 2018
++ PRESTON R.B., WILSON T.E. Fisiología. Series Editor: Harvey Richard A. Lippincott’s Illustrated Reviews. Barcelona: Lippincott Williams & Wilkins. 2013
 
 📊 Porcentaje estimado de cambio: 45% [████░░░░░░]

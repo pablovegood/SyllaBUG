@@ -41,11 +41,11 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Estudios Ramón Areces  →  Campo, M.E. (1997).Casos prácticos de dificultades de aprendizaje y N.E.E. Centro de Estudios Ramón Areces
 ~ Numerical cognition. Cognition, 44, 75-106  →  Ashcraft, M.H. (1992). Cognitive arithmetic: a review of data and theory. Special Isuue: Numerical cognition. Cognition, 44, 75-106
 ~ Visor Distribuciones  →  Huerta, E., y Matamala, A. (1995).Tratamiento y prevención de las dificultades lectoras. Visor Distribuciones
-~ Universidad de Madrid  →  Wirth García, C. (2002). Dificultades de Aprendizaje: contenidos teóricos y actividades. Edit. Universidad de Barcelona
-~ Estudios Ramón Areces  →  Campo, M.E. (1997).Casos prácticos de dificultades de aprendizaje y N.E.E. Centro de Estudios Ramón Areces
 ~ Michelson, L., Sugai, D.P., Wood. R.P., & Kazdin, A.E. (1987). Las habilidades sociales en la A.P.A. (1995). Manual diagnóstico y estadístico de los trastornos mentales. 4a edición (DSM-IV). Masson  →  A.P.A. (1995). Manual diagnóstico y estadístico de los trastornos mentales. 4a edición (DSM-IV). Masson
+~ Universidad de Madrid  →  Mateos, R. (2009). Dificultades de Aprendizaje. Psicología Educativa (pp.13-19). Universidad de Madrid
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -96,5 +96,6 @@
 + Tárraga Minguez, R. (2008). Relación entre rendimiento en solución de problemas y factores afectivo-motivacionales en alumnos con y sin dificultades de aprendizaje. Apuntes de Psicología, 26(1), 143-148. https://apuntesdepsicologia.es/index.php/revista/article/view/257
 + Vallés Arándiga, A. (1998). Dificultades de aprendizaje e intervención psicopedagógica. Editorial Promolibro
 + Vaughn, S., Elbaum, B.E., & Schumm, J.S. (1996). The effects of inclusion on the social functioning of students with learning disabilities. Journal of Learning Disabilities, 29(6), 598- 608.https://doi.org/10.1177/00222194960290060
++ Wirth García, C. (2002). Dificultades de Aprendizaje: contenidos teóricos y actividades. Edit. Universidad de Barcelona
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

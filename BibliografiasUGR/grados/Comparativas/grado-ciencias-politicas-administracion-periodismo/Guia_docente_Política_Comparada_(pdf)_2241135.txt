@@ -23,7 +23,6 @@
 = CARAMANI. D. (2023): Comparative Politics. Oxford: Oxford University Press
 = DABÈNE, O., GEISSER, V. y MASSARDIER, G. (Dirs), (2008): Autoritarismes démocratiques et démocraties autoritaires au XXIe siècle : convergences Nord/Sud. París: La Découverte
 = DURAN CENIT, M. y SZMOLKA VIDA, I. (Ed.) (2015): Política Comparada y Sistemas Políticos: operando con datos e indicadores. Granada: Editorial de la Universidad de Granada
-= Democratization
 = En las respectivas Guías Didácticas de cada grupo se concretan las lecturas específicas para el seguimiento de cada tema. Asímismo, todo el alumnado podrá utilizar los siguientes manuales y revistas especializadas
 = GAZIBO, M. y J. JENSON, J. (2004): La politique comparée fondements, enjeux et approches théoriques. Montréal: Presses de l'Université de Montréal
 = KEMAN, H. (Ed.), (2002): Comparative democratic politics: a guide to contemporary theory and research. Londres: Thousands oaks
@@ -38,12 +37,12 @@
 = MAHLER, G.S. (2003): Comparative politics: an institutional and cross-national approach. Upper Saddle River, Nueva York: Prentice Hall
 = MEDINA, I. et al. (2017): Análisis Cualitativo Comparado (QCA). Madrid: Centro de Investigaciones Sociológicas
 = MORLINO, L. (2010): Introducción a la investigación comparada. Madrid: Alianza
-= MUNCK, G. L. y SNYDER, R. O. (2007): Passion, craft, and method in comparative politics. Baltimore: Johns Hopkins University Press
 = Manuales recomendados
 = McCORMICK, J., HAGUE, R. & HARROP, M. (2022): Comparative Government and Politics (12th ed.). Hampshire: Palgrave Macmillan
 = NOHLEN, D. (2007): Ciencia Política. Teoría institucional y relevancia del contexto. Bogotá: Editorial de la Universidad del Rosario
 = NOHLEN, D. (2013) Ciencia Política Comparada. En enfoque histórico-empírico. Granada: Universidad de Granada
 = ROHLFING, I. (2012): Case Studies and Causal Inference. An Integrative Framework. London: Palgrave Macmillan
+= Revista de Estudios Internacionales Mediterráneos
 = Revistas especializadas
 = SARTORI, G. y MORLINO, L. (1994): La comparación en ciencias sociales. Madrid: Alianza
 = SODARO, M. (2006): Política y Ciencia Política. Una introducción. Madrid: Mc Graw Hill
@@ -54,22 +53,23 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ BOIX, C. y STOKES, S. C. (2007): The Oxford Handbook of Comparative Politcs. Oxford  →  BOIX, C. y STOKES, S. C. (2009): The Oxford Handbook of Comparative Politcs. Oxford: Oxford University Press
-~ Bogotá: Editorial de la Universidad del Rosario  →  NOHLEN, D. (2007): Ciencia Política. Teoría institucional y relevancia del contexto. Bogotá: Editorial de la Universidad del Rosario
-~ Baltimore: Johns Hopkins University Press  →  MUNCK, G. L. y SNYDER, R. O. (2007): Passion, craft, and method in comparative politics. Baltimore: Johns Hopkins University Press
-~ NEWTON, K. y VAN DETH, J.W. (2010): Foundations of Comparative Politics. Cambridge  →  Comparative Politics
 ~ DOGAN, M. y PÉLASSY, D. (1981): Sociologie politique comparative. París: Económica  →  DOGAN, M. y PÉLASSY, D. (1984): Sociologie politique comparative. París: Económica. Alianza editorial
-~ LANDMAN, T. (2000): Issues and methods in Comparative Politics. An Introduction  →  Comparative Politics
-~ HAGUE, R., HARROP, M. y BRESLIN, S. (2004): Comparative government and politics: an introduction. Hampshire: McMillan  →  Comparative Politics
-~ Oxford University Press  →  BOIX, C. y STOKES, S. C. (2009): The Oxford Handbook of Comparative Politcs. Oxford: Oxford University Press
-~ POWELL, G.B., DALTON, R.J. y STROM, K. (2012): Comparative politics today: a world view. New York: Pearson/Longman  →  POWELL, G.B., DALTON, R.J. y STROM, K. (2018):Comparative politics today: a world view. (11th ed.). New York: Pearson/Longman
 ~ SANCHEZ DE DIOS, M. (2012): Política comparada. Madrid: Síntesis  →  O’NEIL, P.H. (2022):Fundamentos de Política Comparada.(7ª ed.). Madrid: Alianza Editorial. SANCHEZ DE DIOS, M. (2012): Política comparada. Madrid: Síntesis
-~ Granada: Editorial de la Universidad de Granada  →  SZMOLKA VIDA, I. y DE CUETO, C. (2025): Fundamentos de Política Comparada. Granada: Editorial de la Universidad de Granada
 ~ DETH, J. W. (Ed.) (2013): Comparative politics: the problem of equivalence. Colchester  →  Comparative Politics
 ~ Cambridge University Press  →  NEWTON, K. y VAN DETH, J.W. (2010): Foundations of Comparative Politics. Cambridge: Cambridge University Press
-~ Universidad de Granada  →  SZMOLKA VIDA, I. y DE CUETO, C. (2025): Fundamentos de Política Comparada. Granada: Editorial de la Universidad de Granada
-~ London: Palgrave Macmillan  →  ROHLFING, I. (2012): Case Studies and Causal Inference. An Integrative Framework. London: Palgrave Macmillan
+~ BOIX, C. y STOKES, S. C. (2007): The Oxford Handbook of Comparative Politcs. Oxford  →  BOIX, C. y STOKES, S. C. (2009): The Oxford Handbook of Comparative Politcs. Oxford: Oxford University Press
+~ Universidad de Granada  →  NOHLEN, D. (2007): Ciencia Política. Teoría institucional y relevancia del contexto. Bogotá: Editorial de la Universidad del Rosario
+~ MUNCK, G. L. y SNYDER, R. O. (2007): Passion, craft, and method in comparative politics  →  Comparative Politics
 ~ Buenos Aires: Paidós  →  ALMOND, G. A. y POWELL, G. B. (1978): Política comparada: una concepción evolutiva. Buenos Aires: Paidós
+~ NEWTON, K. y VAN DETH, J.W. (2010): Foundations of Comparative Politics. Cambridge  →  Comparative Politics
+~ POWELL, G.B., DALTON, R.J. y STROM, K. (2012): Comparative politics today: a world view. New York: Pearson/Longman  →  POWELL, G.B., DALTON, R.J. y STROM, K. (2018):Comparative politics today: a world view. (11th ed.). New York: Pearson/Longman
+~ London: Palgrave Macmillan  →  ROHLFING, I. (2012): Case Studies and Causal Inference. An Integrative Framework. London: Palgrave Macmillan
+~ Oxford University Press  →  NEWTON, K. y VAN DETH, J.W. (2010): Foundations of Comparative Politics. Cambridge: Cambridge University Press
+~ LANDMAN, T. (2000): Issues and methods in Comparative Politics. An Introduction  →  Comparative Politics
+~ HAGUE, R., HARROP, M. y BRESLIN, S. (2004): Comparative government and politics: an introduction. Hampshire: McMillan  →  Comparative Politics
+~ Bogotá: Editorial de la Universidad del Rosario  →  NOHLEN, D. (2007): Ciencia Política. Teoría institucional y relevancia del contexto. Bogotá: Editorial de la Universidad del Rosario
+~ Baltimore: Johns Hopkins University Press  →  MUNCK, G. L. y SNYDER, R. O. (2007): Passion, craft, and method in comparative politics. Baltimore: Johns Hopkins University Press
+~ Granada: Editorial de la Universidad de Granada  →  NOHLEN, D. (2007): Ciencia Política. Teoría institucional y relevancia del contexto. Bogotá: Editorial de la Universidad del Rosario
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -78,6 +78,7 @@
 + Comparative Political Studies
 + Comparative Studies of South Asia, Africa and the Middle East
 + DICKOVICK, J.T., EASTWOOD, J., LeBLANC, R.M. y PONCE DE LEÓN, Z. (2023) (4th ed.):Comparative Politics. Integrating Theories, Methods, and Cases. Oxford: Oxford University Press. HAGUE, R., HARROP, M. y BRESLIN, S. (2004): Comparative government and politics: an introduction. Hampshire: McMillan
++ Democratization
 + Francés
 + Government and Opposition
 + Inglés
@@ -87,9 +88,9 @@
 + O’NEIL, P. (2021):Essentials of Comparative Politics(7th ed.). New York: W.W. Norton y Company.POWELL, G.B., DALTON, R.J. y STROM, K. (2012): Comparative politics today: a world view. New York: Pearson/Longman
 + Revista Cidob d’Afers Internacionals
 + Revista Latinoamericana de Política Comparada
-+ Revista de Estudios Internacionales Mediterráneos
 + Revue Internationale de Politique Comparé
++ SZMOLKA VIDA, I. y DE CUETO, C. (2025): Fundamentos de Política Comparada. Granada: Editorial de la Universidad de Granada
 + VIGOUR, C. (2016).La comparaison dans les sciences sociales. La Découverte
 + World Politics
 
-📊 Porcentaje estimado de cambio: 70% [███████░░░]
+📊 Porcentaje estimado de cambio: 73% [███████░░░]

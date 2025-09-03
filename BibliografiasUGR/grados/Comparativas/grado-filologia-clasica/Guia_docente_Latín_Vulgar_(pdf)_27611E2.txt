@@ -8,7 +8,6 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = Diehl, E. (1910): Vulgärlateinische Inschriften, Bonn
-= Díaz y Díaz, M. C. (1962): Antología del latín vulgar, Madrid
 = Grandgent, C. H. (1970): Introducción al latín vulgar, trad. de B. MOLL, Madrid
 = Haadsma, R. A. - Nuchelmans, J. (1963): Précis de latin vulgaire suivi d'une anthologie annotée, Groninga
 = Herman, H. (1997): El latín vulgar, edición española reelaborada y ampliada con la colaboración de Carmen Arias Abellán, Barcelona, ed. Ariel
@@ -29,11 +28,12 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ MANUALES Y ESTUDIOS GENERALES Battisti, C. (1949): Avviamento allo studio del latino vulgare, Bari  →  MANUALES Y ESTUDIOS GENERALES
+~ F2008181Q ANTOLOGÍAS DE TEXTOS Díaz y Díaz, M. C. (1962): Antología del latín vulgar, Madrid  →  ANTOLOGÍAS DE TEXTOS
 
 ✅ Recursos añadidos:
 ------------------------------
-+ ANTOLOGÍAS DE TEXTOS
 + Battisti, C. (1949): Avviamento allo studio del latino volgare, Bari
++ Díaz y Díaz, M. C. (1962): Antología del latín vulgar, Madrid
 + La bibliografía complementaria puede verse en
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

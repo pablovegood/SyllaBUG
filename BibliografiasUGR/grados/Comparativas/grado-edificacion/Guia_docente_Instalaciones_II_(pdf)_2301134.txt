@@ -18,6 +18,7 @@
 = EDWDARD, Allen. Cómo funciona un edificio. Principios fundamentales. Editorial Gustavo Gili S.A
 = ENCICLOPEDIA CEAC ELECTRICIDAD. Luminotecnia. 7ª edición, Ediciones CEAC
 = GINES GIBERT, Francesc. Transmisión, combustión, calderas, quemadores, sistemas de calefacción, preparación de agua caliente sanitaria. Edit. Termoclub S.A
+= Guía Técnica de Accesibilidad en la Edificación de CEAPAT (Centro Estatal de Autonomía y Ayudas Técnicas)
 = HAINES, Roger. W. Sistemas de control para calefacción, ventilación y aire acondicionado. AMV ediciones
 = INSTITUTO PARA LA DIVERSIFICACIÓN Y AHORRO DE LA ENERGÍA.Comentarios al R.I.T.E. del IDAE
 = J. FERNÁNDEZ. Climatización: Cálculo e instalaciones. CEAC, Barcelona, 1980
@@ -30,7 +31,6 @@
 = L. VILLEGAS. Apuntes de instalaciones en los edificios. Universidad de Cantabria, 1982
 = Norma europea EN-1838 Requisitos Fotométricos de los Sistemas de Alumbrado de Emergencia
 = Normas UNE indicadas en las distintas Normas y Reglamentos
-= Normativa de las Viviendas de Protección Oficial
 = PHILIPS. Manual alumbrado. Editorial Paraninfo
 = PIZZETTI, Carlo. Acondicionamiento del aire y refrigeración. (Teoría y cálculo de instalaciones).AMV ediciones
 = PORGES, F. Prontuario de calefacción, ventilación y aire acondicionado. Editorial Marcombo Boixareu Editores
@@ -42,19 +42,19 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ COMITÉ ESPAÑOL DE ILUMINACIÓN (CEI) INSTITUTO PARA LA DIVERSIFICACIÓN Y AHORRO DE LA ENERGÍA (IDAE). 1996. Aplicaciones eficientes de lámparas.Cuadernos de COSCOLLANO, José. Ahorro energético en la construcción y rehabilitación de edificios  →  COSCOLLANO, José. Ahorro energético en la construcción y rehabilitación de edificios. Editorial Paraninfo
-~ MARTÍN SÁNCHEZ,F.Manual de instalaciones de calefacción por agua caliente.AMV Ediciones y MUNDI PRENSA NEILA, J. y BEDOYA, C. 1997. Técnicas arquitectónicas y de acondicionamiento ambiental  →  MARTÍN SÁNCHEZ,F.Manual de instalaciones de calefacción por agua caliente.AMV Ediciones y MUNDI PRENSA
 ~ Editorial Munilla Leira. Madrid  →  NEILA, J. y BEDOYA, C. 1997. Técnicas arquitectónicas y de acondicionamiento ambiental. Editorial Munilla Leira. Madrid
+~ MARTÍN SÁNCHEZ,F.Manual de instalaciones de calefacción por agua caliente.AMV Ediciones y MUNDI PRENSA NEILA, J. y BEDOYA, C. 1997. Técnicas arquitectónicas y de acondicionamiento ambiental  →  MARTÍN SÁNCHEZ,F.Manual de instalaciones de calefacción por agua caliente.AMV Ediciones y MUNDI PRENSA
+~ COMITÉ ESPAÑOL DE ILUMINACIÓN (CEI) INSTITUTO PARA LA DIVERSIFICACIÓN Y AHORRO DE LA ENERGÍA (IDAE). 1996. Aplicaciones eficientes de lámparas.Cuadernos de COSCOLLANO, José. Ahorro energético en la construcción y rehabilitación de edificios  →  COSCOLLANO, José. Ahorro energético en la construcción y rehabilitación de edificios. Editorial Paraninfo
 ~ Reglamento Electrotécnico para Baja Tensión RBT y sus Instrucciones Técnicas R.D. 2949/82 de 15-10-1982 “Reglamento sobre Acometidas Eléctricas” Normas Técnicas de la Compañía suministradora de Electricidad, Sevillana/Endesa  →  Normas Técnicas de la Compañía suministradora de Electricidad, Sevillana/Endesa
 
 ✅ Recursos añadidos:
 ------------------------------
 + COMITÉ ESPAÑOL DE ILUMINACIÓN (CEI) INSTITUTO PARA LA DIVERSIFICACIÓN Y AHORRO DE LA ENERGÍA (IDAE). 1996. Aplicaciones eficientes de lámparas.Cuadernos de eficiencia energética, nº 1 y nº 2
 + Código Técnico de la Edificación. (Real Decreto 314/2006 de 17 de marzo)
-+ Guía Técnica de Accesibilidad en la Edificación de CEAPAT (Centro Estatal de Autonomía y Ayudas Técnicas)
 + MANUAL PRÁCTICO DE INDALUX .2002. Luminotecnia
 + NTEInstalaciones
 + Normas CEI 529 y EN 60529
++ Normativa de las Viviendas de Protección Oficial
 + Normativas
 + R.D. 2949/82 de 15-10-1982 “Reglamento sobre Acometidas Eléctricas”
 + Real Decreto 235/2013, sobre Eficiencia Energética en Edificios y versiones posteriores

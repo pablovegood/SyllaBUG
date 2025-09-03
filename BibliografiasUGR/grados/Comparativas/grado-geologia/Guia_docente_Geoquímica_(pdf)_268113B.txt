@@ -41,17 +41,17 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Wilson, M. (1989). Igneous Petrogenesis. Springer Winter, J. D. (2014). Principles of Igneous and Metamorphic Petrology. Pearson Education Limited  →  Winter, J. D. (2014). Principles of Igneous and Metamorphic Petrology. Pearson Education Limited
-~ Albarède, F. (1996). Introduction to geochemical modeling. Cambridge University Press Allègre, C. J. (2008). Isotope Geology. Cambridge University Press  →  Allègre, C. J. (2008). Isotope Geology. Cambridge University Press
 ~ Sons, Ltd, Publication  →  Kearey, P., K. A. Klepeis & F. J. Vine (2008), Global Tectonics (3thd edit). A John Wiley & Sons, Ltd, Publication
 ~ Mineralogical Society of America Monograph  →  Spear, F. S. (1993). Metamorphic phase equilibria and pressure-temperature-time paths. Mineralogical Society of America Monograph
+~ Cambridge University Press  →  Albarède, F. (1996). Introduction to geochemical modeling. Cambridge University Press
 ~ Le Maitre R. W. (1982).Numerical Petrology. Statistical Interpretation of Geochemical Data. Developments in Petrology vol 8. Elsevier Marshall C. P. & Fairbridge, R. W. (eds.) (1999). Encyclopedia of Geochemistry. Kluwer Academic Publishers  →  Marshall C. P. & Fairbridge, R. W. (eds.) (1999). Encyclopedia of Geochemistry. Kluwer Academic Publishers
-~ Cambridge University Press  →  Allègre, C. J. (2008). Isotope Geology. Cambridge University Press
+~ Albarède, F. (1996). Introduction to geochemical modeling. Cambridge University Press Allègre, C. J. (2008). Isotope Geology. Cambridge University Press  →  Albarède, F. (1996). Introduction to geochemical modeling. Cambridge University Press
 ~ George Allen & Unwin  →  Cox, K. G., Bell, J. D. & Pankhurst, R. J. (1979). The interpretation of Igneous Rocks. George Allen & Unwin
+~ Wilson, M. (1989). Igneous Petrogenesis. Springer Winter, J. D. (2014). Principles of Igneous and Metamorphic Petrology. Pearson Education Limited  →  Winter, J. D. (2014). Principles of Igneous and Metamorphic Petrology. Pearson Education Limited
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Albarède, F. (1996). Introduction to geochemical modeling. Cambridge University Press
++ Allègre, C. J. (2008). Isotope Geology. Cambridge University Press
 + Faure, G., Mensing, T. M. (2004). Isotopes: Principles and Applications. John Wiley & Sons
 + Kondepudi, D. & Prigogine, I. (1998). Modern Thermodynamics. John Wiley & Sons
 + Le Maitre R. W. (1982).Numerical Petrology. Statistical Interpretation of Geochemical Data. Developments in Petrology vol 8. Elsevier

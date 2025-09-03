@@ -67,14 +67,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Chiss, J.-L., Filliolet, J., Maingueneau, D.: Introduction à la linguistique française I et II, Paris, Hachette, (« Les Fondamentaux »), 2001 Charaudeau, P.: Grammaire du sens et de l’expression, Paris, Hachette, Collection « Communication », 1993  →  Chiss, J.-L., Filliolet, J., Maingueneau, D.: Introduction à la linguistique française I et II, Paris, Hachette, (« Les Fondamentaux »), 2001
 ~ Moirand, S., (éd.), « Le discours : enjeux et perspectives », Le français dans le monde  →  Moirand, S., (éd.), « Le discours : enjeux et perspectives », Le français dans le monde. Recherches et applications, nº spécial, Paris, Hachette, 1996
-~ Maingueneau, D., « La cohérence du texte », Linguistique pour le texte littéraire, Paris, Armand Colin, Collection « Lettres Sup », 20074 (1986, 2003), p.175-224 Monneret, P., Rioul, R.: Questions de syntaxe française, Paris, PUF, Collection « F2008181Q Linguistique nouvelle », 1999  →  Monneret, P., Rioul, R.: Questions de syntaxe française, Paris, PUF, Collection « Linguistique nouvelle », 1999
+~ Chiss, J.-L., Filliolet, J., Maingueneau, D.: Introduction à la linguistique française I et II, Paris, Hachette, (« Les Fondamentaux »), 2001 Charaudeau, P.: Grammaire du sens et de l’expression, Paris, Hachette, Collection « Communication », 1993  →  Charaudeau, P.: Grammaire du sens et de l’expression, Paris, Hachette, Collection « Communication », 1993
+~ Maingueneau, D., « La cohérence du texte », Linguistique pour le texte littéraire, Paris, Armand Colin, Collection « Lettres Sup », 20074 (1986, 2003), p.175-224 Monneret, P., Rioul, R.: Questions de syntaxe française, Paris, PUF, Collection « F2008181Q Linguistique nouvelle », 1999  →  Maingueneau, D., « La cohérence du texte », Linguistique pour le texte littéraire, Paris, Armand Colin, Collection « Lettres Sup », 20074 (1986, 2003), p.175-224
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Charaudeau, P.: Grammaire du sens et de l’expression, Paris, Hachette, Collection « Communication », 1993
++ Chiss, J.-L., Filliolet, J., Maingueneau, D.: Introduction à la linguistique française I et II, Paris, Hachette, (« Les Fondamentaux »), 2001
 + Kristeva, J., « Le texte et sa science », Séméiotiké. Recherches pour une sémanalyse, Paris, Seuil, Collection « Points », p.9-28
-+ Maingueneau, D., « La cohérence du texte », Linguistique pour le texte littéraire, Paris, Armand Colin, Collection « Lettres Sup », 20074 (1986, 2003), p.175-224
++ Monneret, P., Rioul, R.: Questions de syntaxe française, Paris, PUF, Collection « Linguistique nouvelle », 1999
 
 📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

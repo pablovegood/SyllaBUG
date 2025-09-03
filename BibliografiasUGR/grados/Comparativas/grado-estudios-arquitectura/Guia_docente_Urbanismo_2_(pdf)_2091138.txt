@@ -17,13 +17,13 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ BERGER, Alan. Drosscape. Wasting land in Urban America. Princeton Architectural Press  →  BERGER, Alan. Drosscape. Wasting land in Urban America. Princeton Architectural Press. New York. 2006
-~ DE SOLÀ-MORALES, Manuel. LUB. De cosas urbanas. Ediciones UPC, Barcelona, 2008 Proyecto urbano “Las siedlungen alemanas de los años XX” José Luis Sáinz Guerra “Diseño de barrios residenciales”, “Vivienda y espacio público” J. C Kirschenman “Un urbanismo de cosas” Manuel de Solá-Morales “Housing in Europa” "Vinex Atlas" Mensink y Boeijenga  →  “Diseño de barrios residenciales”, “Vivienda y espacio público” J. C Kirschenman
-~ “¡El tiempo construye!”. F. García-Huidobro. GG “Atlas of Ducht Urban Block”. AAVV. Thoth “Ecourbanismo. Entornos humanos sostenibles: 60 proyectos”. M. Ruano GG “Megaestructuras”. R. Banham GG “Internationale Bauausstellung Berlin 1987. Project Report”. AAVV Ed. IBA 1987 “Nuevos espacios urbanos” Gehl, Jan y Gemzoe, Lars “S,M,L,XL”. - R. Koolhaas. Jenifer Sigler “De la gare a la ville”. AAVV Silvana Editorriale “El crecimiento de las ciudades” Lewis,David  →  “Atlas of Ducht Urban Block”. AAVV. Thoth
-~ “El diseño de vías urbanas” Maccluskey “La calle, problemas de diseño y estructura”. Anderson F2008181Q “Streets and patterns”. S Marshall “Ciudades: X formas”, BUSQUETS, J. (2006), Rovereto: Nicolodi  →  “La calle, problemas de diseño y estructura”. Anderson
-~ “The American City”. A. Garvin. McGrawHill “The seduction of place” J. Rikwert “Ciudades del mañana” Peter Hall “Nuevas ciudades” E. Galantay Teoría “El proyecto de la calle sin nombre”. J Sabaté “La urbanización marginal”. BUSQUETS, Joan (1999) Barcelona: Ed. UPC  →  “The seduction of place” J. Rikwert
+~ DE SOLÀ-MORALES, Manuel. LUB. De cosas urbanas. Ediciones UPC, Barcelona, 2008 Proyecto urbano “Las siedlungen alemanas de los años XX” José Luis Sáinz Guerra “Diseño de barrios residenciales”, “Vivienda y espacio público” J. C Kirschenman “Un urbanismo de cosas” Manuel de Solá-Morales “Housing in Europa” "Vinex Atlas" Mensink y Boeijenga  →  “Un urbanismo de cosas” Manuel de Solá-Morales
+~ “El diseño de vías urbanas” Maccluskey “La calle, problemas de diseño y estructura”. Anderson F2008181Q “Streets and patterns”. S Marshall “Ciudades: X formas”, BUSQUETS, J. (2006), Rovereto: Nicolodi  →  “El diseño de vías urbanas” Maccluskey
 ~ Historia “The new urbanism” P. Katz “Los ensanches”. M de Solá Morales “Historia de la Arquitectura Moderna”. L. Benevolo GG “La metrópolis como ciudad jardín Hilberseimer y Mies”. LLOBET, X. (2007). Barna  →  Historia
-~ “El espacio público: ciudad y ciudadanía”. Jordi Borja y Aida Muxí. Electa “Lo urbano en 20 autores contemporáneos”. A. Martín Ramos. UPC “Acupuntura urbana”. J. Lerner. IAAC “La transformación de la ciudad” K. Powel “Ciudades para un pequeño planeta”. R. Rogers. GG “La libertad de habitar”. J. Robert. Habitat Internacional Coalition “El espacio público: ciudad y ciudadanía” Borja, Jordi y Muxi, Zaida “Rehacer paisajes” Rosell, Quim y otros “Compendio de arquitectura urbana”, Spreiregen AUGÉ, Marc (1995) Los no lugares, espacios del anonimato, una antropología de la sobremodernidad, Barcelona: Gedisa  →  “Acupuntura urbana”. J. Lerner. IAAC
+~ “The American City”. A. Garvin. McGrawHill “The seduction of place” J. Rikwert “Ciudades del mañana” Peter Hall “Nuevas ciudades” E. Galantay Teoría “El proyecto de la calle sin nombre”. J Sabaté “La urbanización marginal”. BUSQUETS, Joan (1999) Barcelona: Ed. UPC  →  “El proyecto de la calle sin nombre”. J Sabaté
+~ “El espacio público: ciudad y ciudadanía”. Jordi Borja y Aida Muxí. Electa “Lo urbano en 20 autores contemporáneos”. A. Martín Ramos. UPC “Acupuntura urbana”. J. Lerner. IAAC “La transformación de la ciudad” K. Powel “Ciudades para un pequeño planeta”. R. Rogers. GG “La libertad de habitar”. J. Robert. Habitat Internacional Coalition “El espacio público: ciudad y ciudadanía” Borja, Jordi y Muxi, Zaida “Rehacer paisajes” Rosell, Quim y otros “Compendio de arquitectura urbana”, Spreiregen AUGÉ, Marc (1995) Los no lugares, espacios del anonimato, una antropología de la sobremodernidad, Barcelona: Gedisa  →  “Ciudades para un pequeño planeta”. R. Rogers. GG
+~ “¡El tiempo construye!”. F. García-Huidobro. GG “Atlas of Ducht Urban Block”. AAVV. Thoth “Ecourbanismo. Entornos humanos sostenibles: 60 proyectos”. M. Ruano GG “Megaestructuras”. R. Banham GG “Internationale Bauausstellung Berlin 1987. Project Report”. AAVV Ed. IBA 1987 “Nuevos espacios urbanos” Gehl, Jan y Gemzoe, Lars “S,M,L,XL”. - R. Koolhaas. Jenifer Sigler “De la gare a la ville”. AAVV Silvana Editorriale “El crecimiento de las ciudades” Lewis,David  →  “S,M,L,XL”. - R. Koolhaas. Jenifer Sigler
+~ BERGER, Alan. Drosscape. Wasting land in Urban America. Princeton Architectural Press  →  BERGER, Alan. Drosscape. Wasting land in Urban America. Princeton Architectural Press. New York. 2006
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -32,20 +32,21 @@
 + DE SOLÀ-MORALES, Manuel. LUB. De cosas urbanas. Ediciones UPC, Barcelona, 2008
 + Proyecto urbano
 + Teoría
++ “Acupuntura urbana”. J. Lerner. IAAC
++ “Atlas of Ducht Urban Block”. AAVV. Thoth
 + “Ciudades del mañana” Peter Hall
-+ “Ciudades para un pequeño planeta”. R. Rogers. GG
 + “Ciudades: X formas”, BUSQUETS, J. (2006), Rovereto: Nicolodi
 + “Compendio de arquitectura urbana”, Spreiregen
 + “De la gare a la ville”. AAVV Silvana Editorriale
++ “Diseño de barrios residenciales”, “Vivienda y espacio público” J. C Kirschenman
 + “Ecourbanismo. Entornos humanos sostenibles: 60 proyectos”. M. Ruano GG
 + “El crecimiento de las ciudades” Lewis,David
-+ “El diseño de vías urbanas” Maccluskey
 + “El espacio público: ciudad y ciudadanía” Borja, Jordi y Muxi, Zaida
 + “El espacio público: ciudad y ciudadanía”. Jordi Borja y Aida Muxí. Electa
-+ “El proyecto de la calle sin nombre”. J Sabaté
 + “Historia de la Arquitectura Moderna”. L. Benevolo GG
 + “Housing in Europa”
 + “Internationale Bauausstellung Berlin 1987. Project Report”. AAVV Ed. IBA 1987
++ “La calle, problemas de diseño y estructura”. Anderson
 + “La libertad de habitar”. J. Robert. Habitat Internacional Coalition
 + “La metrópolis como ciudad jardín Hilberseimer y Mies”. LLOBET, X. (2007). Barna
 + “La transformación de la ciudad” K. Powel
@@ -57,11 +58,10 @@
 + “Nuevas ciudades” E. Galantay
 + “Nuevos espacios urbanos” Gehl, Jan y Gemzoe, Lars
 + “Rehacer paisajes” Rosell, Quim y otros
-+ “S,M,L,XL”. - R. Koolhaas. Jenifer Sigler
 + “Streets and patterns”. S Marshall
 + “The American City”. A. Garvin. McGrawHill
 + “The new urbanism” P. Katz
-+ “Un urbanismo de cosas” Manuel de Solá-Morales
++ “The seduction of place” J. Rikwert
 + “¡El tiempo construye!”. F. García-Huidobro. GG
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

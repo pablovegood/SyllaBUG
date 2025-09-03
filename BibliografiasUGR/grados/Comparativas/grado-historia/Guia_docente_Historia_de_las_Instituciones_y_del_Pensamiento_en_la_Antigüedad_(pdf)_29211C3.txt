@@ -273,7 +273,6 @@
 ------------------------------
 = ABBAGNANO, N. (1978): Historia de la filosofía. Vol. I. Montaner y Simón. Barcelona
 = ALEXANDER, C. (2015): La guerra que mató a Aquiles. La verdadera historia de la “Ilíada”. Acantilado. Barcelona
-= ALFÖLDY, G. (1987): Historia social de Roma. Alianza. Madrid
 = ASSMANN, J. (1995): Egipto a la luz de una teoría pluralista de la cultura. Madrid
 = ASSMANN, J. (1995): Egyptian Solar Religion in the New Kingdom. Re, Amun and the Crisis of Polytheism. Kegan Paul. Londres-Nueva York
 = ASSMANN, J. (2003): Moisés el egipcio. Grupo Anaya. Madrid
@@ -392,20 +391,21 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Storia di Roma. Arnaldo Momigliano y Aldo Schiavone dir. Vol. 1. Roma in Italia. Einaudi. Turín  →  CASSOLA, F. (1988): Lo scontro fra patrizi e plebei e la formazione della nobilitas. Storia di Roma. Arnaldo Momigliano y Aldo Schiavone dir. Vol. 1. Roma in Italia. Einaudi. Turín. Pp. 451-481
-~ Alianza Editorial. Madrid  →  ALFÖLDY, G. (1987): Historia social de Roma. Alianza. Madrid
-~ Storia, Cultura, Arte, Società. Einaudi. 2. Una storia greca. I. Formazione. Einaudi. Turín, pp  →  AMPOLO, C. (1996): Il sistema della polis. Elementi constitutivi e origini della città greca. I Greci. Storia, Cultura, Arte, Società. Einaudi. 2. Una storia greca. I. Formazione. Einaudi. Turín, pp. 297-342
 ~ GRIMAL, P. (1972): La formación del Imperio romano. El mundo mediterráneo en la edad antigua III. Historia Universal Siglo XXI. Bilbao  →  EL MUNDO ROMANO
-~ Bellaterra. Barcelona  →  LIVERANI, M. (2003): Relaciones internacionales en el Próximo Oriente antiguo, 1600-1000 a.C. Bellaterra. Barcelona
-~ Einaudi. 2. Una storia greca. I. Formazione. Einaudi. Turín, pp. 1325-1335  →  MOSSÉ, C. (1996): Due miti politici: Licurgo e Solone. I Greci. Storia, Cultura, Arte, Società. Einaudi. 2. Una storia greca. I. Formazione. Einaudi. Turín, pp. 1325-1335
-~ Acantilado. Barcelona  →  ALEXANDER, C. (2015): La guerra que mató a Aquiles. La verdadera historia de la “Ilíada”. Acantilado. Barcelona
-~ Teoría y praxis. Trotta. Madrid  →  BARCELÓ, P. - HERNÁNDEZ DE LA FUENTE, D. (2014): Historia del pensamiento político griego. Teoría y praxis. Trotta. Madrid
-~ HORNBLOWER, S. (1985): El mundo griego 479-323 A.C. Crítica. Barcelona  →  EL MUNDO GRIEGO
+~ Alianza Editorial. Madrid  →  ALFÖLDY, G. (1987): Historia social de Roma. Alianza. Madrid
+~ Storia di Roma. Arnaldo Momigliano y Aldo Schiavone dir. Vol. 1. Roma in Italia. Einaudi. Turín  →  CASSOLA, F. (1988): Lo scontro fra patrizi e plebei e la formazione della nobilitas. Storia di Roma. Arnaldo Momigliano y Aldo Schiavone dir. Vol. 1. Roma in Italia. Einaudi. Turín. Pp. 451-481
 ~ Universitat de Barcelona. Barcelona  →  MARTÍNEZ-PINNA NIETO, J. (2011): Las leyendas de fundación de Roma. De Eneas a Rómulo. Universitat de Barcelona. Barcelona
 ~ Arnaldo Momigliano y Aldo Schiavone dir. Vol. 1. Roma in Italia. Einaudi. Turín. Pp. 451-481  →  CASSOLA, F. (1988): Lo scontro fra patrizi e plebei e la formazione della nobilitas. Storia di Roma. Arnaldo Momigliano y Aldo Schiavone dir. Vol. 1. Roma in Italia. Einaudi. Turín. Pp. 451-481
-~ Trotta-Universidad de Granada  →  SANMARTÍN, J. (1999): Códigos legales de tradición babilónica. Trotta-Universidad de Barcelona. Valladolid
+~ HORNBLOWER, S. (1985): El mundo griego 479-323 A.C. Crítica. Barcelona  →  EL MUNDO GRIEGO
+~ Acantilado. Barcelona  →  ALEXANDER, C. (2015): La guerra que mató a Aquiles. La verdadera historia de la “Ilíada”. Acantilado. Barcelona
+~ EL MUNDO ROMANO ALFÖLDY, G. (1987): Historia social de Roma. Alianza. Madrid  →  EL MUNDO ROMANO
+~ Einaudi. 2. Una storia greca. I. Formazione. Einaudi. Turín, pp. 1325-1335  →  MOSSÉ, C. (1996): Due miti politici: Licurgo e Solone. I Greci. Storia, Cultura, Arte, Società. Einaudi. 2. Una storia greca. I. Formazione. Einaudi. Turín, pp. 1325-1335
 ~ Península. Barcelona  →  VIDAL-NAQUET, P. (1983): Formas de pensamiento y formas de sociedad en el mundo griego. Península. Barcelona
+~ Bellaterra. Barcelona  →  LIVERANI, M. (2003): Relaciones internacionales en el Próximo Oriente antiguo, 1600-1000 a.C. Bellaterra. Barcelona
 ~ La crisis de la polis. Historia, literatura, filosofía. R. Bianchi Bandinelli (dir). Icaria. Barcelona. Pp  →  BARIGAZZI, A. (1982): Características culturales del siglo IV. Historia y civilización de los griegos. La crisis de la polis. Historia, literatura, filosofía. R. Bianchi Bandinelli (dir). Icaria. Barcelona. Pp. 11-47
+~ Teoría y praxis. Trotta. Madrid  →  BARCELÓ, P. - HERNÁNDEZ DE LA FUENTE, D. (2014): Historia del pensamiento político griego. Teoría y praxis. Trotta. Madrid
+~ Trotta-Universidad de Granada  →  SANMARTÍN, J. (1999): Códigos legales de tradición babilónica. Trotta-Universidad de Barcelona. Valladolid
+~ Storia, Cultura, Arte, Società. Einaudi. 2. Una storia greca. I. Formazione. Einaudi. Turín, pp  →  AMPOLO, C. (1996): Il sistema della polis. Elementi constitutivi e origini della città greca. I Greci. Storia, Cultura, Arte, Società. Einaudi. 2. Una storia greca. I. Formazione. Einaudi. Turín, pp. 297-342
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -413,4 +413,4 @@
 + FINLEY, M. I. (1980): El mundo de Odiseo. Fondo de Cultura Económica. México
 + ROSENSTEIN, N.- MORSTEIN-MARX, R. (ed.) (2010): A Companion of the Roman Republic. Wiley-Blackwell
 
-📊 Porcentaje estimado de cambio: 70% [███████░░░]
+📊 Porcentaje estimado de cambio: 71% [███████░░░]

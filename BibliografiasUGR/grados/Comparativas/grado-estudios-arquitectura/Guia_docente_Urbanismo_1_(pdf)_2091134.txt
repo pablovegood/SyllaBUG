@@ -9,8 +9,9 @@ No se eliminaron recursos.
 ------------------------------
 = AMENDOLA, G. (2000): La ciudad postmoderna. Madrid: Celeste ediciones
 = ASCHER, F. (2004), Los nuevos principios del urbanismo: el fin de las ciudades no está a la orden del día. Versión española de María Hernández Díaz. Madrid: Alianza
+= Artículos y otros
 = BACON, E. N. (1978), Design of cities, Londres: Thames and Hudson
-= BARBA CASANOVA, R. “Los ejes en el Proyecto de la Ciudad”
+= BENEVOLO, L. (1982) Colección El diseño de la ciudad, 5 vols. Barcelona: Gustavo Gili
 = BENÉVOLO, L. (1978). “La proyectación de la ciudad moderna”. Barcelona: Gustavo Gili
 = CAPEL, H. (2002). La morfología de las ciudades. Barcelona: Serbal
 = CHOAY, F. (1983). El urbanismo. Utopías y realidades. Barcelona: Lumen
@@ -48,17 +49,16 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Londres: Thames and Hudson  →  KOSTOF, S. (1992). The City Shaped. Urban Patterns and Meanings Through History. Londres: Thames and Hudson
 ~ Barcelona: Gustavo Gili, (Edición original en inglés: 1977); -(2002) The nature of order, California: The center for environmental structure  →  ALEXANDER, C. (1980), Un lenguaje de patrones. Ciudades, edificios, construcciones. Barcelona: Gustavo Gili, (Edición original en inglés: 1977); -(2002) The nature of order, California: The center for environmental structure
+~ Barcelona: Gustavo Gili. (1983) El significado de las ciudades. Madrid: Hermann Blume  →  AYMONINO, C. (1976). La vivienda racional: ponencias de los congresos CIAM 1929-1930. Barcelona: Gustavo Gili. (1983) El significado de las ciudades. Madrid: Hermann Blume
 ~ Quebec: Canadian Centre for Architecture  →  ZARDINI, M. (ed.). (2005). Sense of the city. An alternative approach to urbanism. Quebec: Canadian Centre for Architecture
-~ Historia del urbanismo BENEVOLO, L. (1982) Colección El diseño de la ciudad, 5 vols. Barcelona: Gustavo Gili  →  Historia del urbanismo
 ~ ALEXANDER, C. (1980), Un lenguaje de patrones. Ciudades, edificios, construcciones  →  ALEXANDER, C. (1980), Un lenguaje de patrones. Ciudades, edificios, construcciones. Barcelona: Gustavo Gili, (Edición original en inglés: 1977); -(2002) The nature of order, California: The center for environmental structure
 ~ F2008181Q AYMONINO, C. (1976). La vivienda racional: ponencias de los congresos CIAM 1929-1930  →  AYMONINO, C. (1976). La vivienda racional: ponencias de los congresos CIAM 1929-1930. Barcelona: Gustavo Gili. (1983) El significado de las ciudades. Madrid: Hermann Blume
-~ Londres: Thames and Hudson  →  KOSTOF, S. (1992). The City Shaped. Urban Patterns and Meanings Through History. Londres: Thames and Hudson
-~ Barcelona: Gustavo Gili. (1983) El significado de las ciudades. Madrid: Hermann Blume  →  AYMONINO, C. (1976). La vivienda racional: ponencias de los congresos CIAM 1929-1930. Barcelona: Gustavo Gili. (1983) El significado de las ciudades. Madrid: Hermann Blume
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Artículos y otros
-+ BENEVOLO, L. (1982) Colección El diseño de la ciudad, 5 vols. Barcelona: Gustavo Gili
++ BARBA CASANOVA, R. “Los ejes en el Proyecto de la Ciudad”
++ Historia del urbanismo
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

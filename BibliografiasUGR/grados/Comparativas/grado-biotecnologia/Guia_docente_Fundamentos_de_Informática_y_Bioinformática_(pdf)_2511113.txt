@@ -15,9 +15,9 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Bioinformatics for Biologists. Pavel Pevzner, Ron Shamir. Cambridge University Press  →  Bioinformatics for Biologists. Pavel Pevzner, Ron Shamir. Cambridge University Press. 2011
 ~ Developing Bioinformatics Computer Skills. Cynthia Gibas, Per Jambeck. O'Reilly Media  →  Developing Bioinformatics Computer Skills. Cynthia Gibas, Per Jambeck. O'Reilly Media. 2001
 ~ Bioinformatics for Dummies, 2nd Edition. By Jean-Michel Claverie, Cedric Notredame  →  Bioinformatics for Dummies, 2nd Edition. By Jean-Michel Claverie, Cedric Notredame. Wiley. 2006
+~ Bioinformatics for Biologists. Pavel Pevzner, Ron Shamir. Cambridge University Press  →  Bioinformatics for Biologists. Pavel Pevzner, Ron Shamir. Cambridge University Press. 2011
 
 ✅ Recursos añadidos:
 ------------------------------

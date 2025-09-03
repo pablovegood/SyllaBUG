@@ -32,12 +32,12 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ R.P. Feynman, R.B. Leighton and M. Sands, “The Feynman Lectures on Physics. Vol. III  →  R.P. Feynman, R.B. Leighton and M. Sands, “The Feynman Lectures on Physics. Vol. III. Mecánica Cuántica” (edic. bilingüe inglés-español); Fondo Educativo Interamericano; 1971
 ~ B. Thaller, “Visual Quantum Mechanics”; Springer; 2000 A. I. M. Rae, “Quantum Mechanics”; 5th. ed., Taylor & Francis; 2007  →  A. I. M. Rae, “Quantum Mechanics”; 5th. ed., Taylor & Francis; 2007
-~ D.J. Griffiths, “Introduction to Quantum Mechanics”; 2nd ed., Pearson Prentice Hall  →  D.J. Griffiths, “Introduction to Quantum Mechanics”; 2nd ed., Pearson Prentice Hall; 2004
 ~ F. Constantinescu & E. Magyari, “Problems in Quantum Mechanics”; Pergamon Press  →  F. Constantinescu & E. Magyari, “Problems in Quantum Mechanics”; Pergamon Press; 1971
-~ G. L. Squires, “Problems in Quantum Mechanics with solutions”; Bangalore Univ. Press  →  G. L. Squires, “Problems in Quantum Mechanics with solutions”; Bangalore Univ. Press; 1997
+~ R.P. Feynman, R.B. Leighton and M. Sands, “The Feynman Lectures on Physics. Vol. III  →  R.P. Feynman, R.B. Leighton and M. Sands, “The Feynman Lectures on Physics. Vol. III. Mecánica Cuántica” (edic. bilingüe inglés-español); Fondo Educativo Interamericano; 1971
 ~ Mecánica Cuántica” (edic. bilingüe inglés-español); Fondo Educativo Interamericano  →  R.P. Feynman, R.B. Leighton and M. Sands, “The Feynman Lectures on Physics. Vol. III. Mecánica Cuántica” (edic. bilingüe inglés-español); Fondo Educativo Interamericano; 1971
+~ G. L. Squires, “Problems in Quantum Mechanics with solutions”; Bangalore Univ. Press  →  G. L. Squires, “Problems in Quantum Mechanics with solutions”; Bangalore Univ. Press; 1997
+~ D.J. Griffiths, “Introduction to Quantum Mechanics”; 2nd ed., Pearson Prentice Hall  →  D.J. Griffiths, “Introduction to Quantum Mechanics”; 2nd ed., Pearson Prentice Hall; 2004
 
 ✅ Recursos añadidos:
 ------------------------------

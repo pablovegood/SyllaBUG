@@ -17,11 +17,11 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Raymond Chang. (2007) Química. 9ª ed. Mc. Graw Hill López Román. (1999). Prevención de riesgos laborales en la investigación e intervención en Patrimonio Histórico. Comares  →  López Román. (1999). Prevención de riesgos laborales en la investigación e intervención en Patrimonio Histórico. Comares
-~ MAY, E Y JONES, M. (2006). Conservation Science. The Royal Society of Chemistry PETRUCCI R.H., HARWOOD, W. S. (1998). Química General. Principios y aplicaciones modernas, 7ª ed., Prentice Hall  →  MAY, E Y JONES, M.(2006).Conservation Science. The Royal Society of Chemistry
+~ MAY, E Y JONES, M. (2006). Conservation Science. The Royal Society of Chemistry PETRUCCI R.H., HARWOOD, W. S. (1998). Química General. Principios y aplicaciones modernas, 7ª ed., Prentice Hall  →  PETRUCCI R.H., HARWOOD, W. S. (1998). Química General. Principios y aplicaciones modernas, 7ª ed., Prentice Hall
 
 ✅ Recursos añadidos:
 ------------------------------
-+ PETRUCCI R.H., HARWOOD, W. S. (1998). Química General. Principios y aplicaciones modernas, 7ª ed., Prentice Hall
++ MAY, E Y JONES, M.(2006).Conservation Science. The Royal Society of Chemistry
 + Raymond Chang. (2007) Química. 9ª ed. Mc. Graw Hill
 
 📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

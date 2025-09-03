@@ -26,12 +26,13 @@
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ F2008181Q Benton, M.J., 1997. Vertebrate palaeontology. Cambridge Univ. Press, London  →  Benton, M.J. (2024). Vertebrate palaeontology. Cambridge Univ. Press, London
-~ Evolution. Chapman & Hall, Londres  →  Brenchley, P. J. y Harper, D. A. T. (1998). Palaeoecology: Ecosystems, Environments and Evolution. Chapman & Hall, Londres
 ~ Boardman R.S., Cheethan A.H. & Rowell A.J. (eds.), (1987). Fossil Invertebrates. Blackwell Publishing, Oxford Cowen, R. (1995). History of life. Blackwell, Oxford  →  Boardman R.S., Cheethan A.H. & Rowell A.J. (eds.), (1987). Fossil Invertebrates. Blackwell Publishing, Oxford
-~ Martínez-Chacón, M.L. & Rivas, P. (2009). Paleontología de Invertebrados. Sociedad Española de Paleontología, Universidad de Oviedo, Universidad de Granada e Instituto Geológico y Minero de España, Gijón Armstrong, H. A. & Brasier, M. D. (2004). Microfossils. Blackwell Publishing, Oxford  →  Armstrong, H. A. & Brasier, M. D. (2004). Microfossils. Blackwell Publishing, Oxford
+~ Martínez-Chacón, M.L. & Rivas, P. (2009). Paleontología de Invertebrados. Sociedad Española de Paleontología, Universidad de Oviedo, Universidad de Granada e Instituto Geológico y Minero de España, Gijón Armstrong, H. A. & Brasier, M. D. (2004). Microfossils. Blackwell Publishing, Oxford  →  Martínez-Chacón, M.L. & Rivas, P. (2009). Paleontología de Invertebrados. Sociedad Española de Paleontología, Universidad de Oviedo, Universidad de Granada e Instituto Geológico y Minero de España, Gijón
+~ Evolution. Chapman & Hall, Londres  →  Brenchley, P. J. y Harper, D. A. T. (1998). Palaeoecology: Ecosystems, Environments and Evolution. Chapman & Hall, Londres
 
 ✅ Recursos añadidos:
 ------------------------------
++ Armstrong, H. A. & Brasier, M. D. (2004). Microfossils. Blackwell Publishing, Oxford
 + Benton, M.J. & Harper, D.A.T (2009). Introduction to Paleobiology and the Fossil Record. Wiley-Blackwell, Oxford
 + Brunton, C.H.C., Cocks, L.R.M y Long, S.L. (2001) Brachiopods. Past and Present, Taylor and Francis. Londres
 + Cowen, R. (1995). History of life. Blackwell, Oxford
@@ -40,7 +41,6 @@
 + Giribert, G. y Edgecombe, G.D. (2020) The Invertebrate Tree of Life. Princenton University Press, Princenton & Oxford
 + Hedges, S.B. y Kumar, S. (2009). The Timetree of Life. Oxford University Press, Oxford
 + Jones, R.W. (2014). Foraminifera and their Applications. Cambridge University Press, Cambridge
-+ Martínez-Chacón, M.L. & Rivas, P. (2009). Paleontología de Invertebrados. Sociedad Española de Paleontología, Universidad de Oviedo, Universidad de Granada e Instituto Geológico y Minero de España, Gijón
 + McGowran, B. (2005). Biostratigraphy. Microfossils and Geological Time. Cambridge University Press. Cambridge
 + McNamara, K. H. y Long, J. (1999). The Evolution Revolution. Wiley, Chichester
 + Stanley, S. M. (1999). Earth System History. Freeman and Co., San Francisco

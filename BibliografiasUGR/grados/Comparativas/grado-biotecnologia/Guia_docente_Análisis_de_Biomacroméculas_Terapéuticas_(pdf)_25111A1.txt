@@ -9,7 +9,6 @@ No se eliminaron recursos.
 ------------------------------
 = Biopharmaceuticals: Biochemistry and Biotechnology, Gary Walsh, Editorial : Wiley-Blackwell; N.º 2 edición (2009)
 = Biosimilars. Regulatory, Clinical, and Biopharmaceutical Development, H. Gutka, H. Yang, S. Kakar (Eds), Springer (2018)
-= High-performance Liquid Chromatography (HPLC): Principles, Practices and Procedures, Y. Zuo Ed., Nova Publishers (2014)
 = Introduction to Protein Mass Spectrometry, 1st Edition, P.K. Ghosh, Elsevier (2015)
 = Monoclonal Antibodies: Physicochemical Analysis, Editado por Harleen Kaus y Dietmar Reusch, Academic Press (2021)
 = Quality by Design for Biopharmaceutical Drug Product Development, F. Jameel, S. A. Hershenson, M. A. Khan, S. Martin-Moe (Eds), Springer (2015)
@@ -19,12 +18,13 @@ No se eliminaron recursos.
 ~ Biophysical Characterization of Proteins in Developing Biopharmaceuticals, D.J. Houde, S.A. Berkowitz (Eds), Elsevier (2014) Biopharmaceuticals Challenges and Opportunities, Basanta Kumara Behera, Published CRC Press (2020)  →  Biopharmaceuticals Challenges and Opportunities, Basanta Kumara Behera, Published CRC Press (2020)
 ~ Quality by Design for Biopharmaceutical Drug Product Development, F. Jameel, S. A  →  Quality by Design for Biopharmaceutical Drug Product Development, F. Jameel, S. A. Hershenson, M. A. Khan, S. Martin-Moe (Eds), Springer (2015)
 ~ Biosimilars. Regulatory, Clinical, and Biopharmaceutical Development, H. Gutka, H  →  Biosimilars. Regulatory, Clinical, and Biopharmaceutical Development, H. Gutka, H. Yang, S. Kakar (Eds), Springer (2018)
+~ F2008181Q Mass Spectrometry: Principles and Applications, 3rd Edition, E. Hoffmann, V. Stroobant, Biotechnology and Biopharmaceuticals: Transforming Proteins and Genes into Drugs, High-performance Liquid Chromatography (HPLC): Principles, Practices and Procedures, Y. Zuo Ed., Nova Publishers (2014)  →  Mass Spectrometry: Principles and Applications, 3rd Edition, E. Hoffmann, V. Stroobant, Wiley (2007)
 
 ✅ Recursos añadidos:
 ------------------------------
 + Biophysical Characterization of Proteins in Developing Biopharmaceuticals, D.J. Houde, S.A. Berkowitz (Eds), Elsevier (2014)
 + Biotechnology and Biopharmaceuticals: Transforming Proteins and Genes into Drugs, J.Y. Rodney, Milo Gibaldi, First edition John Wiley & Sons, Inc. (2013)
 + Chromatography: Principles and Instrumentation, M.F. Vitha, Wiley (2016)
-+ Mass Spectrometry: Principles and Applications, 3rd Edition, E. Hoffmann, V. Stroobant, Wiley (2007)
++ High-performance Liquid Chromatography (HPLC): Principles, Practices and Procedures, Y. Zuo Ed., Nova Publishers (2014)
 
-📊 Porcentaje estimado de cambio: 77% [███████░░░]
+📊 Porcentaje estimado de cambio: 88% [████████░░]

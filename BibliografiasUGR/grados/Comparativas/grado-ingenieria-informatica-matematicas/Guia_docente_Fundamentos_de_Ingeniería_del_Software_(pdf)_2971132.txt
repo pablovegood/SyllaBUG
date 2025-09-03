@@ -18,14 +18,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ S. Sanchez, M. Sicilia, D. Rodriguez, Ingeniería del Sofware. Un enfoque desde la guía SWEBOK. Garceta, 2011 C. Larman. UML y patrones: una introducción al análisis y diseño orientado a objetos y al proceso unificado. Pearson, 2006  →  C. Larman. UML y patrones: una introducción al análisis y diseño orientado a objetos y al proceso unificado. Pearson, 2006
+~ G. Booch, J. Rumbaugh, I. Jacobson. El Lenguaje Unificado de Modelado. Guía de Usuario  →  G. Booch, J. Rumbaugh, I. Jacobson. El Lenguaje Unificado de Modelado. Guía de Usuario. Pearson Educación, 2006
 ~ Carmen Lasa Gómez, Alonso Álvarez García, Rafael de las Heras del Dedo. Métodos Ágiles  →  Carmen Lasa Gómez, Alonso Álvarez García, Rafael de las Heras del Dedo. Métodos Ágiles. Scrum, Kanban, Lean. Anaya Multimedia, 2017
 ~ Kent Beck. Una explicacion de la Programacion Extrema: Aceptar el cambio. Addison- F2008181Q  →  Kent Beck. Una explicacion de la Programacion Extrema: Aceptar el cambio. Addison-Wesley, 2002
-~ G. Booch, J. Rumbaugh, I. Jacobson. El Lenguaje Unificado de Modelado. Guía de Usuario  →  G. Booch, J. Rumbaugh, I. Jacobson. El Lenguaje Unificado de Modelado. Guía de Usuario. Pearson Educación, 2006
-~ S. Sanchez, M. Sicilia, D. Rodriguez, Ingeniería del Sofware. Un enfoque desde la guía SWEBOK. Garceta, 2011 C. Larman. UML y patrones: una introducción al análisis y diseño orientado a objetos y al proceso unificado. Pearson, 2006  →  S. Sanchez, M. Sicilia, D. Rodriguez, Ingeniería del Sofware. Un enfoque desde la guía SWEBOK. Garceta, 2011
 
 ✅ Recursos añadidos:
 ------------------------------
-+ C. Larman. UML y patrones: una introducción al análisis y diseño orientado a objetos y al proceso unificado. Pearson, 2006
 + D. Farley. Modern Software Engineering: Doing What Works to Build Better Software Faster. Addison Wesley, 2022
++ S. Sanchez, M. Sicilia, D. Rodriguez, Ingeniería del Sofware. Un enfoque desde la guía SWEBOK. Garceta, 2011
 
 📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

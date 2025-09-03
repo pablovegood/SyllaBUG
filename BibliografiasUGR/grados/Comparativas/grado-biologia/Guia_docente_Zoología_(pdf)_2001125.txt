@@ -122,11 +122,11 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Sunderland, Massachusetts  →  Brusca, R.C.; Moore, W. y Shuster, S.M. (2016). Invertebrates. Third Edition. Sinauer Associates. Sunderland, Massachusetts
-~ Granada Tudge, C. (2001). La variedad de la vida. Ed. Crítica, Barcelona Tellería, J.L. (1987) Zoología evolutiva de los vertebrados. Síntesis, Madrid  →  Tudge, C. (2001). La variedad de la vida. Ed. Crítica, Barcelona
+~ Granada Tudge, C. (2001). La variedad de la vida. Ed. Crítica, Barcelona Tellería, J.L. (1987) Zoología evolutiva de los vertebrados. Síntesis, Madrid  →  Tellería, J.L. (1987) Zoología evolutiva de los vertebrados. Síntesis, Madrid
 ~ Ediciones Temas de Hoy, Madrid  →  Ayala, F.J. (1999) La teoría de la evolución. De Darwin a los últimos avances de la genética. Ediciones Temas de Hoy, Madrid
-~ Ed. Omega. Barcelona  →  Arnold, E.N. y J.A. Burton. (1982). Guía de campo de los reptiles y anfibios de España y de Europa. Ed. Omega. Barcelona
+~ Ed. Omega. Barcelona  →  Bang, P. y Dahlström, P. (1992). Huellas y señales de los animales de Europa. Ed. Omega. Barcelona
 ~ Pleguezuelos, J.M. (1997). Distribución y Biogeografía de los Anfibios y Reptiles en España y Portugal. Ed. Universidad de Granada y Asociación Herpetológica Española, Granada Purroy, F.J. y Varela, J.M. (2016). Guía de los mamíferos de España. Península, Baleares y Canarias. Lynx Edicions. Barcelona  →  Purroy, F.J. y Varela, J.M. (2016). Guía de los mamíferos de España. Península, Baleares y Canarias. Lynx Edicions. Barcelona
+~ Sunderland, Massachusetts  →  Brusca, R.C.; Moore, W. y Shuster, S.M. (2016). Invertebrates. Third Edition. Sinauer Associates. Sunderland, Massachusetts
 ~ Sociedad Entomológica Aragonesa, Zaragoza  →  Melic, A., de Haro, J.J., Méndez, M. y Ribera, L. (eds.) (1999). Evolución y filogenia de Arthropoda. Sociedad Entomológica Aragonesa, Zaragoza
 
 ✅ Recursos añadidos:
@@ -135,6 +135,6 @@
 + DIVULGACIÓN CIENTÍFICA
 + GUÍAS DE CAMPO
 + Pleguezuelos, J.M. (1997). Distribución y Biogeografía de los Anfibios y Reptiles en España y Portugal. Ed. Universidad de Granada y Asociación Herpetológica Española, Granada
-+ Tellería, J.L. (1987) Zoología evolutiva de los vertebrados. Síntesis, Madrid
++ Tudge, C. (2001). La variedad de la vida. Ed. Crítica, Barcelona
 
 📊 Porcentaje estimado de cambio: 63% [██████░░░░]

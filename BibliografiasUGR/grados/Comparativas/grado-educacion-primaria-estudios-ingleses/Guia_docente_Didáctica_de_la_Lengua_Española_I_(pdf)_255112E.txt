@@ -33,9 +33,9 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ F2008181Q Salvador, Gregorio y Lodares, Juan (2001). Historia de las letras. Espasa-Minor Tusón Vals, Amparo (1993). Aportaciones de la sociolingüística a la enseñanza de la lengua. En Lomas y Osoro (Eds.), El enfoque comunicativo en la enseñanza de la lengua(pp. 55-68). Paidós  →  Tusón Vals, Amparo (1993). Aportaciones de la sociolingüística a la enseñanza de la lengua. En Lomas y Osoro (Eds.), El enfoque comunicativo en la enseñanza de la lengua(pp. 55-68). Paidós
-~ Consejo de Europa (2001). Marco de referencia europeo para las lenguas. Recuperado de Escandell, M.ª Victoria (2013). Introducción a la Pragmática. Madrid: UNED  →  Consejo de Europa (2001). Marco de referencia europeo para las lenguas. Recuperado dehttps://cvc.cervantes.es/ensenanza/biblioteca_ele/marco/cvc_mer.pdf
 ~ Lomas, Carlos, Osoro, Andrés y Tusón, Amparo (1992). Ciencias del lenguaje, Miquel, Lourdes y Sans, Neus (2004). El componente cultural: un ingrediente más en las Núñez, M.ª Pilar (ed.) y Alonso, Irene (comp.) (2015). Innovación docente en didáctica de la lengua y la literatura: teoría e investigación. Octaedro  →  Núñez, M.ª Pilar (ed.) y Alonso, Irene (comp.) (2015). Innovación docente en didáctica de la lengua y la literatura: teoría e investigación. Octaedro
+~ F2008181Q Salvador, Gregorio y Lodares, Juan (2001). Historia de las letras. Espasa-Minor Tusón Vals, Amparo (1993). Aportaciones de la sociolingüística a la enseñanza de la lengua. En Lomas y Osoro (Eds.), El enfoque comunicativo en la enseñanza de la lengua(pp. 55-68). Paidós  →  Salvador, Gregorio y Lodares, Juan (2001). Historia de las letras. Espasa-Minor
+~ Consejo de Europa (2001). Marco de referencia europeo para las lenguas. Recuperado de Escandell, M.ª Victoria (2013). Introducción a la Pragmática. Madrid: UNED  →  Consejo de Europa (2001). Marco de referencia europeo para las lenguas. Recuperado dehttps://cvc.cervantes.es/ensenanza/biblioteca_ele/marco/cvc_mer.pdf
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -46,6 +46,6 @@ No se eliminaron recursos.
 + Meana Suárez, Teresa (2002).Porque las palabras no se las lleva el viento. Por un uso no sexista de la lengua. Ayuntamiento de Quart de Poblet.https://www.observatoriodelainfancia.es/oia/esp/documentos_ficha.aspx?id=1089
 + Miquel, Lourdes y Sans, Neus (2004). El componente cultural: un ingrediente más en las clases de lengua. RedELE, 0.Recuperado dehttps://bit.ly/2TnQXfv
 + Resa Ocio, Ainhoa (2021). La formación en igualdad de género en los grados de Educación Primaria.Revista Electrónica Interuniversitaria de Formación del Profesorado, 24(1).https://doi.org/10.6018/reifop.390951
-+ Salvador, Gregorio y Lodares, Juan (2001). Historia de las letras. Espasa-Minor
++ Tusón Vals, Amparo (1993). Aportaciones de la sociolingüística a la enseñanza de la lengua. En Lomas y Osoro (Eds.), El enfoque comunicativo en la enseñanza de la lengua(pp. 55-68). Paidós
 
 📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

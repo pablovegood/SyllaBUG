@@ -35,10 +35,10 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Prentice Hall, San Francisco  →  Hatcher, R.D., Jr. y Hooper, R.J. (1990). Laboratory Manual for Structural Geology. Prentice Hall, San Francisco
-~ Folds and fractures. Academic Press, London  →  Ramsay, J.G. y Huber, M.I. (1987). The techniques of Modern Structural Geology. Vol. II: Folds and fractures. Academic Press, London
 ~ Ramsay, J.G. y Huber, M.I. (1983). The techniques of Modern Structural Geology. Vol. I  →  Ramsay, J.G. y Huber, M.I. (1987). The techniques of Modern Structural Geology. Vol. II: Folds and fractures. Academic Press, London
+~ Prentice Hall, San Francisco  →  Hatcher, R.D., Jr. y Hooper, R.J. (1990). Laboratory Manual for Structural Geology. Prentice Hall, San Francisco
 ~ Strain analysis. Academic Press, London  →  Ramsay, J.G. y Huber, M.I. (1983). The techniques of Modern Structural Geology. Vol. I: Strain analysis. Academic Press, London
+~ Folds and fractures. Academic Press, London  →  Ramsay, J.G. y Huber, M.I. (1987). The techniques of Modern Structural Geology. Vol. II: Folds and fractures. Academic Press, London
 
 ✅ Recursos añadidos:
 ------------------------------

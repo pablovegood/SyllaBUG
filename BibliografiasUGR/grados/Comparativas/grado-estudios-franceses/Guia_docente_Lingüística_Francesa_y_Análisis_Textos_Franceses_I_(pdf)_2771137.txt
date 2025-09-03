@@ -26,6 +26,7 @@
 = GARDES-TAMINE, J., La Grammaire I, II, Paris, Armand Colin, Collection « Cursus », 1990
 = GARY-PRIEUR, M.N., De la grammaire à la linguistique. L’étude de la phrase, Paris, Armand Colin, 1985
 = GREVISSSE, M. & GOOSSE, A., Le bon usage, 14e édition, Bruxelles, De Boeck & Larcier, 2008
+= JEANDILLOU, J-F., L’analyse textuelle, Paris, Armand Colin, 2006 (1997)
 = LE GOFFIC, P., Les Formes conjuguées du verbe français, Orphys, 1997
 = LEEMAN, D., La phrase complexe. Les subordinations, Bruxelles, De Boeck & Larcier, Éditions Duculot, 2002
 = MAINGUENEAU, D., L'analyse du discours,Paris, Hachette, 1991
@@ -38,6 +39,7 @@
 = MONNERET, P./ RIOUL, R., Questions de syntaxe française, Paris, PUF, Collection « Linguistique nouvelle », 1999
 = POPIN, J., Précis de grammaire fonctionnelle du français, II, Paris, Nathan, Collection « 128 », nº 24, 1993
 = POTTIER, B., Linguistique générale, Paris, Klincksieck, 1974
+= RIEGEL, M. et al., Grammaire méthodique du français, Paris: Presses Universitaires de France. Collection « Quadrige », 2004
 = SOUTET, O., La syntaxe du français, Quatrième édition mise à jour, Paris, PUF, Collection « Que sais-je ? », 2004 (1989)
 = SOUTET, O., Linguistique, Paris, PUF, Collection « Quadrige », 2005 (1995)
 = TOURATIER, C., Analyse et théorie syntaxiques, Aix-en-Provence, Publications de l’Université de Provence, Collection « Langues et Langage », 2005
@@ -48,16 +50,13 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ CHARAUDEAU, P. et MAINGUENEAU, D. (éd.), Dictionnaire d’analyse du discours, Paris, Le Seuil, 2002. - FEUILLET, J.: Introduction à l’analyse morphosyntaxique, Paris, PUF, Collection « Linguistique nouvelle », 1988  →  CHARAUDEAU, P., et MAINGUENEAU, D. (éd.), Dictionnaire d’analyse du discours, Paris, Le Seuil, 2002
-~ DENIS, D./ SANCIER-CHATEAU, A. : Grammaire du français, Paris, Librairie Générale Française, 1994. - DUBOIS, J.: Grammaire Structurale du français I, II et III, Paris, Larousse, 1965, 1967 et 1969  →  DENIS, D. & SANCIER-CHATEAU, A., Grammaire du français, Paris, Librairie Générale Française, 1994
-~ Collection « Quadrige », 2004  →  SOUTET, O., Linguistique, Paris, PUF, Collection « Quadrige », 2005 (1995)
-~ JEANDILLOU, J-F., L’analyse textuelle, Paris, Armand Colin, 2006 (1997) LE GOFFIC, P..: Grammaire de la phrase française, Paris, Hachette, 1994  →  LE GOFFIC, P., Grammaire de la phrase française, Paris, Hachette, 1994
+~ DENIS, D./ SANCIER-CHATEAU, A. : Grammaire du français, Paris, Librairie Générale Française, 1994. - DUBOIS, J.: Grammaire Structurale du français I, II et III, Paris, Larousse, 1965, 1967 et 1969  →  DUBOIS, J., Grammaire Structurale du français I, II et III, Paris, Larousse, 1965, 1967 et 1969
+~ CHARAUDEAU, P. et MAINGUENEAU, D. (éd.), Dictionnaire d’analyse du discours, Paris, Le Seuil, 2002. - FEUILLET, J.: Introduction à l’analyse morphosyntaxique, Paris, PUF, Collection « Linguistique nouvelle », 1988  →  FEUILLET, J., Introduction à l’analyse morphosyntaxique, Paris, PUF, Collection « Linguistique nouvelle », 1988
 
 ✅ Recursos añadidos:
 ------------------------------
-+ DUBOIS, J., Grammaire Structurale du français I, II et III, Paris, Larousse, 1965, 1967 et 1969
-+ FEUILLET, J., Introduction à l’analyse morphosyntaxique, Paris, PUF, Collection « Linguistique nouvelle », 1988
-+ JEANDILLOU, J-F., L’analyse textuelle, Paris, Armand Colin, 2006 (1997)
-+ RIEGEL, M. et al., Grammaire méthodique du français, Paris: Presses Universitaires de France. Collection « Quadrige », 2004
++ CHARAUDEAU, P., et MAINGUENEAU, D. (éd.), Dictionnaire d’analyse du discours, Paris, Le Seuil, 2002
++ DENIS, D. & SANCIER-CHATEAU, A., Grammaire du français, Paris, Librairie Générale Française, 1994
++ LE GOFFIC, P., Grammaire de la phrase française, Paris, Hachette, 1994
 
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

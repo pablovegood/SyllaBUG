@@ -18,13 +18,13 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Birkhaüser Thompson, L. (2007). S-PLUS (and R) Manual to Accompany Agresti’s (2002) Categorical Data Analysis (2ª edition) Pérez, C. (2008). Técnicas Estadísticas con SPSS. Pearson Educación  →  Pérez, C. (2008).Técnicas Estadísticas con SPSS. Pearson Educación
+~ Birkhaüser Thompson, L. (2007). S-PLUS (and R) Manual to Accompany Agresti’s (2002) Categorical Data Analysis (2ª edition) Pérez, C. (2008). Técnicas Estadísticas con SPSS. Pearson Educación  →  Thompson, L. (2007).S-PLUS (and R) Manual to Accompany Agresti’s (2002) Categorical Data Analysis (2ª edition) (https://home.comcast.net/~lthompson221/Splusdiscrete2.pdf)
 
 ✅ Recursos añadidos:
 ------------------------------
 + Agresti, A. (1984).Analysis of Ordinal Categorical Data. Wiley
 + Agresti, A. (1990).Categorical Data Analysis. Wiley
 + Agresti, A. (1996).An Introduction to Categorical Data Analysis. Wiley
-+ Thompson, L. (2007).S-PLUS (and R) Manual to Accompany Agresti’s (2002) Categorical Data Analysis (2ª edition) (https://home.comcast.net/~lthompson221/Splusdiscrete2.pdf)
++ Pérez, C. (2008).Técnicas Estadísticas con SPSS. Pearson Educación
 
 📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

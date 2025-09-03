@@ -18,7 +18,6 @@ No se eliminaron recursos.
 = Fernández-Sánchez. M.P. y Hernández-Bastida, A. (2023). Cuaderno de Estadística. Editorial Técnica AVICAM
 = García Ramos, J.A., Ramos González, C.D., y Ruiz Garzón, G. (2007). Estadística empresarial Cádiz. Universidad de Cádiz, 2007
 = Grobner, D.F., Shannon, P.W., Fry, P.C., Smith, K.D. (2011). Business Statistics, 8/e. Ed. Prentice Hall
-= Gómez Villegas, M. (2007). Inferencia estadística. Madrid: Ediciones Díaz de Santos
 = Herrerías, R., Palacios F., y Callejón, J. (2012). Técnicas Cuantitativas para la Inferencia. Delta ediciones
 = Herrerías, R., Palacios, F., Pérez, E., Chica, J., Callejón, J., Cano, R., Herrerías, J.M., y Muñoz, J.F. (2012). Ejercicios resueltos de Técnicas Cuantitativas para la Inferencia. Delta ediciones
 = Lind, D. A., Marchal, W. G., Wathen, S. A., Obón León, M. D. P., & León Cárdenas, J. (2012). Estadística aplicada a los negocios y la economía. México: McGraw-Hill/Interamericana Editores
@@ -31,13 +30,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Editorial Técnica AVICAM  →  Fernández-Sánchez. M.P. y Hernández-Bastida, A. (2023). Cuaderno de Estadística. Editorial Técnica AVICAM
-~ Grupo Editorial Universitario  →  Amor Pulido, R., Aguilar Peña, C., y Morales Luque, A. (2009). Inferencia Estadística. Grupo Editorial Universitario
+~ F2008181Q Disponibles en línea UGR Gómez Villegas, M. (2007). Inferencia estadística. Madrid: Ediciones Díaz de Santos  →  Disponibles en línea UGR
 ~ Estadística aplicada a los negocios y la economía. México: McGraw-Hill/Interamericana Editores  →  Lind, D. A., Marchal, W. G., Wathen, S. A., Obón León, M. D. P., & León Cárdenas, J. (2012). Estadística aplicada a los negocios y la economía. México: McGraw-Hill/Interamericana Editores
 ~ Indianapolis, Indiana: Alpha, a member of Penguin Random House LLC  →  Donnelly, R., & Abdel-Raouf, F. (2016). Statistics (Third edition, First American edition.). Indianapolis, Indiana: Alpha, a member of Penguin Random House LLC
+~ Editorial Técnica AVICAM  →  Fernández-Sánchez. M.P. y Hernández-Bastida, A. (2023). Cuaderno de Estadística. Editorial Técnica AVICAM
+~ Grupo Editorial Universitario  →  Amor Pulido, R., Aguilar Peña, C., y Morales Luque, A. (2009). Inferencia Estadística. Grupo Editorial Universitario
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Disponibles en línea UGR
++ Gómez Villegas, M. (2007). Inferencia estadística. Madrid: Ediciones Díaz de Santos
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

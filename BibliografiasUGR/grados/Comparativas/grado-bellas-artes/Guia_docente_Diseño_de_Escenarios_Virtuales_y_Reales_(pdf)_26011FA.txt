@@ -22,11 +22,9 @@ No se eliminaron recursos.
 = BACHER, hans P. Composition studies for Film. Laurence King Publishing. London. 2015
 = BROTHERTON, Philip. The Art of Boxtroll. Chronicle Books. San Francisco, CA. 2014
 = BURNS, Matt. The Art of Overwatch. Panini Cómics. Barcelona. 2018
-= Dreamworks
 = FALCONER, Daniel. Weta workshop. The Art of District 9. Harper Collins Publishers. Auckland, New Zealand. 2010
 = GIBSON, JON M. & MCDONNELL, Chris. Unfiltered. The complete Ralph Bakshi. Universo Publishing. NY. 2008
 = LAPOINTE, Tanya. The art and soul of Blade Runner 2049. Alcon Entertainment, los Ángeles, CA. 2017
-= MATEU-MESTRE, Marcos. Framed Ink. Drawing and composition for visual storytellers. Design Studio Press. Culver City, CA. 2010
 = MATEU-MESTRE, Marcos. Framed Ink. Perspective 2. Technical drawing for shadows, volumen and characters. Design Studio Press. Culver City, CA. 2016
 = MATTINGLY, David B. VFX y postproducción para cine y publicidad. Ediciones Anaya Multimedia. Madrid. 2013
 = MCDONNELL, Chris. Steven Universe. Art and Origins. Abrams. Broadway, NY. 2017
@@ -38,6 +36,8 @@ No se eliminaron recursos.
 = PRIEBE, Ken A. The Art of Stop Motion Animation. Thomson Course Technology. Boston, MA. 2007
 = RINZLER, J. W. Star Wars the blueprints. Titan Books. Bellevue, Washington. 2016
 = Se recomiendan todos los libros de arte de películas y videojuegos
+= Star Wars
+= TONGE, Gary. Bold Visions The Digital Painting Bible. David & Charles Book. Cincinnati, OH. 2008
 = WEIYE, YIN. Impeccable Scene Design For Game, Animation And Films. CYPI Press, Middelesex, UK. 2011
 = WIGAN, Mark. Pensar Visualmente: Lenguaje, ideas y técnicas para el ilustrador. Barcelona: Gustavo Gili, 2007
 = Walt Disney Animation Studios. Layout and Background. The archive series. NY: Disney Editions, 2011
@@ -45,15 +45,15 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ MATEU-MESTRE, Marcos. Framed Ink. Drawing Techniques. Design Studio Press. Culver City, CA. 2019 MATEU-MESTRE, Marcos. Framed Ink. Perspective 1. Technical perspective and visual storytelling. Design Studio Press. Culver City, CA. 2016  →  MATEU-MESTRE, Marcos. Framed Ink. Perspective 1. Technical perspective and visual storytelling. Design Studio Press. Culver City, CA. 2016
 ~ FALCONER, Daniel. Weta workshop. The Art of District 9. Harper Collins Publishers  →  FALCONER, Daniel. Weta workshop. The Art of District 9. Harper Collins Publishers. Auckland, New Zealand. 2010
+~ MATEU-MESTRE, Marcos. Framed Ink. Drawing Techniques. Design Studio Press. Culver City, CA. 2019 MATEU-MESTRE, Marcos. Framed Ink. Perspective 1. Technical perspective and visual storytelling. Design Studio Press. Culver City, CA. 2016  →  MATEU-MESTRE, Marcos. Framed Ink. Drawing Techniques. Design Studio Press. Culver City, CA. 2019
+~ MATEU-MESTRE, Marcos. Framed Ink. Drawing and composition for visual storytellers  →  MATEU-MESTRE, Marcos. Framed Ink. Drawing and composition for visual storytellers. Design Studio Press. Culver City, CA. 2010
 ~ BELOEIL, Gilles; RIABOVITCHEV, Andrei; CASTRO, Roberto F. Art Fundamentals: Color, Light, Composition, Anatomy, Perspective, and Depth. 3dTOTAL publishing. UK. 2013 BENNET, Tara. The Art of Ferdinand. Titan Books. London. 2017  →  BENNET, Tara. The Art of Ferdinand. Titan Books. London. 2017
 ~ WIGAN, Mark. Pensar Visualmente: Lenguaje, ideas y técnicas para el ilustrador  →  WIGAN, Mark. Pensar Visualmente: Lenguaje, ideas y técnicas para el ilustrador. Barcelona: Gustavo Gili, 2007
-~ SCHMITZ, Jerry. The Art of trollhunters, tales of Arcadia. Dark Horse Books. Milwakie, OR. 2019 SICILIANO, James. The Art of Rick & Morty. Dark Horse Books. Milwaukie, OR. 2017 SOLARSKI, Chris. Racing Basics and Video Game Art. Watson-Guptill. New York. 2012 STEPHEN, Jones. Coraline. A visual Companion. Titan Books. London. 2009  →  SOLARSKI, Chris. Racing Basics and Video Game Art. Watson-Guptill. New York. 2012
-~ TONGE, Gary. Bold Visions The Digital Painting Bible. David & Charles Book. Cincinnati, OH. 2008 WALLACE, Daniel. Cristal Oscuro, la era de la resistencia. Norma editorial, Barcelona  →  WALLACE, Daniel. Cristal Oscuro, la era de la resistencia. Norma editorial, Barcelona. 2019
-~ BACHER, hans P. & SURYAVANSHI, Sanatan. VISION, Color and Composition for Film  →  BACHER, hans P. & SURYAVANSHI, Sanatan. VISION, Color and Composition for Film. Talisman Publishing. City Road, London. 2018
-~ MATEU-MESTRE, Marcos. Framed Ink. Drawing and composition for visual storytellers  →  MATEU-MESTRE, Marcos. Framed Ink. Drawing and composition for visual storytellers. Design Studio Press. Culver City, CA. 2010
 ~ HAYNES, Emily. The Art of Kubo and the two strings. Chronicle Books. San Francisco, CA  →  HAYNES, Emily. The Art of Kubo and the two strings. Chronicle Books. San Francisco, CA. 2016
+~ BACHER, hans P. & SURYAVANSHI, Sanatan. VISION, Color and Composition for Film  →  BACHER, hans P. & SURYAVANSHI, Sanatan. VISION, Color and Composition for Film. Talisman Publishing. City Road, London. 2018
+~ Design Studio Press. Culver City, CA. 2010  →  MATEU-MESTRE, Marcos. Framed Ink. Drawing Techniques. Design Studio Press. Culver City, CA. 2019
+~ SCHMITZ, Jerry. The Art of trollhunters, tales of Arcadia. Dark Horse Books. Milwakie, OR. 2019 SICILIANO, James. The Art of Rick & Morty. Dark Horse Books. Milwaukie, OR. 2017 SOLARSKI, Chris. Racing Basics and Video Game Art. Watson-Guptill. New York. 2012 STEPHEN, Jones. Coraline. A visual Companion. Titan Books. London. 2009  →  STEPHEN, Jones. Coraline. A visual Companion. Titan Books. London. 2009
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -61,18 +61,18 @@ No se eliminaron recursos.
 + Blue Sky
 + CANEMAKER, John. Paperdreams. The Art and Artists of Disney Storyboards. NY: Hyperion, 1999
 + Disney
++ Dreamworks
 + Ilustraciones de las colecciones: Spectrum y sketching from the imagination. Etc
 + KENNEDY, Sam R. How to Become a Video Game Artist. New Riders. Berkeley, CA. 2012
 + Laika
-+ MATEU-MESTRE, Marcos. Framed Ink. Drawing Techniques. Design Studio Press. Culver City, CA. 2019
++ MATEU-MESTRE, Marcos. Framed Ink. Perspective 1. Technical perspective and visual storytelling. Design Studio Press. Culver City, CA. 2016
 + MEAD, Syd & HODGETS, Craig. The movie art of Syd Mead, visual futurist. Titan Books, London. 2017
 + Marvel/DC
 + Pixar
 + SCHMITZ, Jerry. The Art of trollhunters, tales of Arcadia. Dark Horse Books. Milwakie, OR. 2019
 + SICILIANO, James. The Art of Rick & Morty. Dark Horse Books. Milwaukie, OR. 2017
-+ STEPHEN, Jones. Coraline. A visual Companion. Titan Books. London. 2009
-+ Star Wars
-+ TONGE, Gary. Bold Visions The Digital Painting Bible. David & Charles Book. Cincinnati, OH. 2008
++ SOLARSKI, Chris. Racing Basics and Video Game Art. Watson-Guptill. New York. 2012
++ WALLACE, Daniel. Cristal Oscuro, la era de la resistencia. Norma editorial, Barcelona. 2019
 + Weta workshop
 
 📊 Porcentaje estimado de cambio: 59% [█████░░░░░]

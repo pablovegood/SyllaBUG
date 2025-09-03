@@ -51,7 +51,6 @@
 = Exercices de grammaire
 = FRONTIER, A.,La grammaire du français, Paris, Belin, Collection « Sujets », 1997
 = GARDES-TAMINE, J.,La Grammaire I, II, Paris, Armand Colin, Collection « Cursus », 1990
-= GERBOIN P. et LEROY, C.,Grammaire d’usage de l’espagnol contemporain, Paris, Hachette, 1992
 = GREVISSSE, M. et GOOSSE, A.,Le bon usage, 14e édition, Bruxelles, De Boeck & Larcier, 2008
 = GUIJARRO GARCIA, R.,Le thème grammatical espagnol-français III.Les circonstancielles, Granada, Editorial Comares, 2008
 = Grammaires espagnoles
@@ -77,14 +76,15 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ RODRÍGUEZ RAMALLE, T.M., Manual de sintaxis del español, Madrid, Editorial Castalia, GERBOIN P. et LEROY, C., Grammaire d’usage de l’espagnol contemporain, Paris, Hachette, 1992  →  RODRÍGUEZ RAMALLE, T.M.,Manual de sintaxis del español, Madrid, Editorial Castalia, 2005
 ~ SECO, M.; ANDRÉS, O.; RAMOS, G., Diccionario del español actual, Madrid, Aguilar, 1999. (2 vol.) MOLINER, M., Diccionario del uso del español, Madrid, Gredos, 1983. (2 vol.) CASARES, J., Diccionario ideológico de la lengua española, Barcelona, Gustavo Gili, 1959  →  CASARES, J.,Diccionario ideológico de la lengua española, Barcelona, Gustavo Gili, 1959
 
 ✅ Recursos añadidos:
 ------------------------------
 + Dictionnaires unilingues français
++ GERBOIN P. et LEROY, C.,Grammaire d’usage de l’espagnol contemporain, Paris, Hachette, 1992
 + LE GOFFIC, P.,Grammaire de la phrase française, Paris, Hachette, 1994
 + MOLINER, M.,Diccionario del uso del español, Madrid, Gredos, 1983. (2 vol.)
-+ RODRÍGUEZ RAMALLE, T.M.,Manual de sintaxis del español, Madrid, Editorial Castalia, 2005
 + SECO, M.; ANDRÉS, O.; RAMOS, G.,Diccionario del español actual, Madrid, Aguilar, 1999. (2 vol.)
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 43% [████░░░░░░]

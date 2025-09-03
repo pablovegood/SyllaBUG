@@ -36,7 +36,6 @@ No se eliminaron recursos.
 = GÓMEZ ZOTANO, J. (dir.) (2009): Dunas litorales y fondos marinos del Saladillo-Matas Verdes (Estepona, Málaga). Estudio integrado para su declaración como reserva marítimo-terrestre. Asociación Grupo de Trabajo Valle del Genal – Servicio de Publicaciones de la Universidad de Málaga (SPICUM). Málaga, 285 p
 = GÓMEZ ZOTANO, J. y RIESCO CHUECA, P. (2010): Marco conceptual y metodológico para los paisajes españoles. Aplicación a tres escalas espaciales. Consejería de Obras Públicas y Vivienda. Junta de Andalucía. Centro de Estudios Paisaje y Territorio. Ministerio de Medio Ambiente, Medio Rural y Marino, Sevilla. 467 p
 = GÓMEZ ZOTANO, J., ARIAS GARCÍA, J., OLMEDO COBO, J.A. y SERRANO MONTES, J.L. (eds.) (2016): Avances en Biogeografía. Áreas de distribución: entre puentes y barreras. Editorial Universidad de Granada-Tundra Ediciones. Granada, 631 p
-= GÓMEZ ZOTANO, J., HIDALGO TRIANA, N., MARTOS MARTÍN, J., NAVARRO LUEGO, I., PÉREZ LATORRE, A.V., ROMÁN REQUENA, F. (Eds.) (2023): Sierra Bermeja. Biodiversidad y valores de conservación de los ecosistemas serpentínicos. Estudio para su inclusión íntegra en la Red de Parques Nacionales de España. Editorial La Serranía
 = GÓMEZ ZOTANO, J., OLMEDO COBO, J.A. (Coords.) (2021): Los bosques de la Serranía de Ronda. Editorial La Serranía
 = GÓMEZ ZOTANO, J., OLMEDO COBO, J.A. y MARTÍNEZ IBARRA, E. (2017): “Propuesta de creación de una microrreserva en el Peñón de Salobreña para la protección de los hábitats del litoral de Granada (España)”. Investigaciones Geográficas 67, 143-154
 = GÓMEZ ZOTANO, J., OLMEDO COBO, J.A., CUNILL ARTIGAS, R. y MARTÍNEZ IBARRA, E. (2017): “Descubrimiento y caracterización geográfica de una depresión ultramáfica en Sierra Bermeja: nuevos datos geomorfoedáficos, fitogeográficos y paleoecológicos”. Pirineos 172, e026. doi: http://dx.doi.org/10.3989/Pirineos.2017.172001
@@ -77,12 +76,13 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Blackwell (décima edición)  →  BARRY, C. y MOORE, P. (2020): Biogeography. An ecological and evolutionary approach. Blackwell (décima edición)
-~ Pirineos 172, e026. doi: http://dx.doi.org/10.3989/Pirineos.2017.172001  →  GÓMEZ ZOTANO, J., OLMEDO COBO, J.A., CUNILL ARTIGAS, R. y MARTÍNEZ IBARRA, E. (2017): “Descubrimiento y caracterización geográfica de una depresión ultramáfica en Sierra Bermeja: nuevos datos geomorfoedáficos, fitogeográficos y paleoecológicos”. Pirineos 172, e026. doi: http://dx.doi.org/10.3989/Pirineos.2017.172001
+~ Anagrama, Barcelona  →  TRICART, J. y KILIAN, J. (1982): La ecogeografía y la ordenación del medio natural. Anagrama, Barcelona
 ~ Fondo de Cultura Económica. México  →  ZUNINO, M y ZULLINI, A. (2003): Biogeografía. La dimensión espacial de la evolución. Fondo de Cultura Económica. México
+~ Consejería de Vivienda y Ordenación del Territorio. Instituto de Cartografía de Andalucía  →  DÍAZ QUIDIELLO, J. (dir.) (2009): Atlas de la historia del territorio de Andalucía. Consejería de Vivienda y Ordenación del Territorio. Instituto de Cartografía de Andalucía. Junta de Andalucía. Sevilla
+~ SERRANÍA DE RONDA 1.GÓMEZ ZOTANO, J., HIDALGO TRIANA, N., MARTOS MARTÍN, J., NAVARRO LUEGO, I., F2008181Q PÉREZ LATORRE, A.V., ROMÁN REQUENA, F. (Eds.) (2023): Sierra Bermeja. Biodiversidad y valores de conservación de los ecosistemas serpentínicos. Estudio para su inclusión íntegra en la Red de Parques Nacionales de España. Editorial La Serranía  →  SERRANÍA DE RONDA
+~ Pirineos 172, e026. doi: http://dx.doi.org/10.3989/Pirineos.2017.172001  →  GÓMEZ ZOTANO, J., OLMEDO COBO, J.A., CUNILL ARTIGAS, R. y MARTÍNEZ IBARRA, E. (2017): “Descubrimiento y caracterización geográfica de una depresión ultramáfica en Sierra Bermeja: nuevos datos geomorfoedáficos, fitogeográficos y paleoecológicos”. Pirineos 172, e026. doi: http://dx.doi.org/10.3989/Pirineos.2017.172001
 ~ Junta de Andalucía. Sevilla  →  DÍAZ QUIDIELLO, J. (dir.) (2009): Atlas de la historia del territorio de Andalucía. Consejería de Vivienda y Ordenación del Territorio. Instituto de Cartografía de Andalucía. Junta de Andalucía. Sevilla
 ~ Editorial Universidad de Granada-Tundra Ediciones. Granada, 631 p  →  GÓMEZ ZOTANO, J., ARIAS GARCÍA, J., OLMEDO COBO, J.A. y SERRANO MONTES, J.L. (eds.) (2016): Avances en Biogeografía. Áreas de distribución: entre puentes y barreras. Editorial Universidad de Granada-Tundra Ediciones. Granada, 631 p
-~ Anagrama, Barcelona  →  TRICART, J. y KILIAN, J. (1982): La ecogeografía y la ordenación del medio natural. Anagrama, Barcelona
-~ Consejería de Vivienda y Ordenación del Territorio. Instituto de Cartografía de Andalucía  →  DÍAZ QUIDIELLO, J. (dir.) (2009): Atlas de la historia del territorio de Andalucía. Consejería de Vivienda y Ordenación del Territorio. Instituto de Cartografía de Andalucía. Junta de Andalucía. Sevilla
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -91,9 +91,9 @@ No se eliminaron recursos.
 + DICCIONARIOS
 + GUÍAS
 + GÓMEZ ZOTANO, J. y ORTEGA ALBA, F. (eds.) (2009): El Sector Central de las Béticas: una visión desde la Geografía Física. Editorial Universidad de Granada. Asociación de Geógrafos Españoles (AGE). Granada, 355 p
++ GÓMEZ ZOTANO, J., HIDALGO TRIANA, N., MARTOS MARTÍN, J., NAVARRO LUEGO, I., PÉREZ LATORRE, A.V., ROMÁN REQUENA, F. (Eds.) (2023): Sierra Bermeja. Biodiversidad y valores de conservación de los ecosistemas serpentínicos. Estudio para su inclusión íntegra en la Red de Parques Nacionales de España. Editorial La Serranía
 + LITORAL MEDITERRÁNEO
 + MAPAS
-+ SERRANÍA DE RONDA
 + SIERRA NEVADA
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

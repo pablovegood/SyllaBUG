@@ -8,7 +8,7 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = Bescherelle, La conjugaison pour tous. Paris, Hatier (2008)
-= CHARLIAC, L. et al. (2009) Phonétique progressive du Français. Niveau intermédiaire. Paris, Clé International
+= CHOLLET, I. et al. (2009) Les Expressions idiomatiques. Paris, Clé International
 = COLIN, J.P. (2006) Grand dictionnaire, Argot et français populaire. Paris, Larousse
 = DELATOUR, Y. et al (2005) Nouvelle grammaire du français, Paris, Hachette
 = DESCOTTES, CH. et al (2005) L’exercisier, l’expression française pour niveau intermédiaire, Grenoble, Presses universitaires
@@ -32,7 +32,7 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Paris, Clé International  →  PARIZET, M.L. et al. (2009) Activités pour le cadre européen commun de référence. Niveau B2. Paris, Clé International
+~ Paris, Clé International  →  CHOLLET, I. et al. (2009) Les Expressions idiomatiques. Paris, Clé International
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -41,8 +41,8 @@ No se eliminaron recursos.
 + BOULARÈS, M. et al. (2009) Conjugaison progressive du Français. Paris, Clé International
 + BOULARÈS, M. et al. (2009) Grammaire progressive du Français. Niveau avancé. Paris, Clé International
 + CHARLIAC, L. et al. (2009) Phonétique progressive du Français. Niveau avancé. Paris, Clé International
++ CHARLIAC, L. et al. (2009) Phonétique progressive du Français. Niveau intermédiaire. Paris, Clé International
 + CHOLLET, I. et al. (2009) Grammaire. Paris, Clé International
-+ CHOLLET, I. et al. (2009) Les Expressions idiomatiques. Paris, Clé International
 + CHOLLET, I. et al. (2009) Les verbes et leurs prépositions. Paris, Clé International
 
 📊 Porcentaje estimado de cambio: 39% [███░░░░░░░]

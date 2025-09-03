@@ -7,23 +7,23 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
+= Miller, A. An introduction to contemporary Metaethics. Oxford: Blackwell (2003)
 = Pölzler, T., & Wright, J. C. (2019). Empirical research on folk moral objectivism. Philosophy Compass, 14(5), e12589
 = Se ofrecerá con la impartición de cada tema
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Philosophy compass, 14(5), e12589  →  Pölzler, T., & Wright, J. C. (2019). Empirical research on folk moral objectivism. Philosophy Compass, 14(5), e12589
-~ Miller, A. An introduction to contemporary Metaethics. Oxford: Blackwell (2003) Introducción a la filosofía experimental Cátedra  →  Introducción a la filosofía experimental
 ~ Cognición moral: diversidad y universalidad Rozin, P., Lowery, L., Imada, S., & Haidt, J. (1999). The CAD triad hypothesis: a mapping between three moral emotions (contempt, anger, disgust) and three moral codes (community, autonomy, divinity). Journal of personality and social psychology, 76(4), Awad, E., Dsouza, S., Shariff, A., Rahwan, I., & Bonnefon, J. F. (2020). Universals and variations in moral decisions made in 42 countries by 70,000 participants. Proceedings of the National Academy of Sciences, 117(5), 2332-2337  →  Rozin, P., Lowery, L., Imada, S., & Haidt, J. (1999). The CAD triad hypothesis: a mapping between three moral emotions (contempt, anger, disgust) and three moral codes (community, autonomy, divinity). Journal of personality and social psychology, 76(4), 574
 
 ✅ Recursos añadidos:
 ------------------------------
 + Aguiar, F., Gaitán, A., & Viciana, H. (2020). Una introducción a la ética experimental, Cátedra
 + Awad, E., Dsouza, S., Shariff, A., Rahwan, I., & Bonnefon, J. F. (2020). Universals and variations in moral decisions made in 42 countries by 70,000 participants. Proceedings of the National Academy of Sciences, 117(5), 2332-2337
++ Introducción a la filosofía experimental
 + Introducción a la metaética
 + Metaética experimental
 + Metodología de la filosofía experimental
-+ Miller, A. An introduction to contemporary Metaethics. Oxford: Blackwell (2003)
 + Sytsma, J., & Livengood, J. (2015).The theory and practice of experimental philosophy. Broadview Press
 + Ética experimental y cognición moral
 

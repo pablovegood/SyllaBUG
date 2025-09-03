@@ -21,18 +21,18 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Navarro Cordón, J.M., y Calvo Martínez T., Historia de la filosofía, Madrid, Anaya, 1998 F2008181Q Sáez Rueda, L., Movimientos filosóficos actuales, Madrid, Trotta, 2003  →  Sáez Rueda, L., Movimientos filosóficos actuales, Madrid, Trotta, 2003
-~ Nietzsche, F., El gay saber o gaya ciencia, Madrid, Espasa, 2001 Ortega y Gasset, J., En torno a Galileo, Revista de Occidente en Alianza editorial, Madrid, 1994  →  Ortega y Gasset, J., En torno a Galileo, Revista de Occidente en Alianza editorial, Madrid, 1994
-~ Descartes, R., Discurso del método, Madrid, Alfaguara, 1981 Freud, S., Obras completas, XVII (1917-1919), Buenos Aires, Amorrortu, 1976  →  Descartes, R., Discurso del método, Madrid, Alfaguara, 1981
+~ Descartes, R., Discurso del método, Madrid, Alfaguara, 1981 Freud, S., Obras completas, XVII (1917-1919), Buenos Aires, Amorrortu, 1976  →  Freud, S., Obras completas, XVII (1917-1919), Buenos Aires, Amorrortu, 1976
+~ Navarro Cordón, J.M., y Calvo Martínez T., Historia de la filosofía, Madrid, Anaya, 1998 F2008181Q Sáez Rueda, L., Movimientos filosóficos actuales, Madrid, Trotta, 2003  →  Navarro Cordón, J.M., y Calvo Martínez T., Historia de la filosofía, Madrid, Anaya, 1998
+~ Nietzsche, F., El gay saber o gaya ciencia, Madrid, Espasa, 2001 Ortega y Gasset, J., En torno a Galileo, Revista de Occidente en Alianza editorial, Madrid, 1994  →  Nietzsche, F., El gay saber o gaya ciencia, Madrid, Espasa, 2001
 
 ✅ Recursos añadidos:
 ------------------------------
 + Cantón, M., La razón hechizada, Barcelona, Ariel, 2009
 + De Pizán, C., La ciudad de las damas, Madrid, Siruela, 2020
-+ Freud, S., Obras completas, XVII (1917-1919), Buenos Aires, Amorrortu, 1976
++ Descartes, R., Discurso del método, Madrid, Alfaguara, 1981
 + Lyotard, J.-F., Qué es lo posmoderno, Zona erógena, nº 12, 1992
 + Moreno Fernández, A., "Descripción y fases del mecanismo del chivo expiatorio", Éndoxa, nº 32, pp. 191-206
-+ Navarro Cordón, J.M., y Calvo Martínez T., Historia de la filosofía, Madrid, Anaya, 1998
-+ Nietzsche, F., El gay saber o gaya ciencia, Madrid, Espasa, 2001
++ Ortega y Gasset, J., En torno a Galileo, Revista de Occidente en Alianza editorial, Madrid, 1994
++ Sáez Rueda, L., Movimientos filosóficos actuales, Madrid, Trotta, 2003
 
 📊 Porcentaje estimado de cambio: 71% [███████░░░]

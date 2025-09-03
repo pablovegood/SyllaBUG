@@ -11,16 +11,16 @@ No hubo coincidencias exactas o equivalentes.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Apuntes de la asignatura en las páginas: http://www.ugr.es/~rortega/Ecuaciones1.htm y (Pinchando sobre las referencias se puede acceder siempre que la conexión sea vía VPN) S. Ahmad, A. Ambrosetti, A textbook on Ordinary Differential Equations, Springer 2014 R.K. Nagle, E.B. Saff, A.D. Snide, Ecuaciones diferenciales y problemas con valores en la G.F. Simmons, S.G. Krantz, Ecuaciones diferenciales: teoría, técnica y práctica, Mc Graw Hill 2014 D. G. Zill, Ecuaciones diferenciales con aplicaciones de modelado, Brooks Cole 2012  →  http://www.ugr.es/~rortega/Ecuaciones1.htm y
+~ Apuntes de la asignatura en las páginas: http://www.ugr.es/~rortega/Ecuaciones1.htm y (Pinchando sobre las referencias se puede acceder siempre que la conexión sea vía VPN) S. Ahmad, A. Ambrosetti, A textbook on Ordinary Differential Equations, Springer 2014 R.K. Nagle, E.B. Saff, A.D. Snide, Ecuaciones diferenciales y problemas con valores en la G.F. Simmons, S.G. Krantz, Ecuaciones diferenciales: teoría, técnica y práctica, Mc Graw Hill 2014 D. G. Zill, Ecuaciones diferenciales con aplicaciones de modelado, Brooks Cole 2012  →  D. G. Zill, Ecuaciones diferenciales con aplicaciones de modelado, Brooks Cole 2012
 
 ✅ Recursos añadidos:
 ------------------------------
 + (Pinchando sobre las referencias se puede acceder siempre que la conexión sea vía VPN)
 + Apuntes de la asignatura en las páginas
-+ D. G. Zill, Ecuaciones diferenciales con aplicaciones de modelado, Brooks Cole 2012
 + G.F. Simmons, S.G. Krantz, Ecuaciones diferenciales: teoría, técnica y práctica, Mc Graw Hill 2014
 + R.K. Nagle, E.B. Saff, A.D. Snide, Ecuaciones diferenciales y problemas con valores en la frontera, Addison-Wesley 2012
 + S. Ahmad, A. Ambrosetti, A textbook on Ordinary Differential Equations, Springer 2014
++ http://www.ugr.es/~rortega/Ecuaciones1.htm y
 + https://www.ugr.es/~caceresg/docencia/index.htm
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

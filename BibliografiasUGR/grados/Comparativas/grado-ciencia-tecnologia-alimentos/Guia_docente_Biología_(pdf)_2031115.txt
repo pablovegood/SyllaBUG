@@ -23,10 +23,10 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ TAIZ, L. y ZEIGER, E. (2006). Plant Physiology (4a Ed.). Sinauer Associates, Sunderland, MA, USA. Material adicional consultable en http://www.plantphys.net TAIZ, L. y ZEIGER, E. (2010). Plant Physiology (5a Ed.). Sinauer Associates, Sunderland, MA, USA. de Granada  →  TAIZ, L. y ZEIGER, E. (2006). Plant Physiology (4a Ed.). Sinauer Associates, Sunderland, MA, USA. Material adicional consultable enhttp://www.plantphys.net
-~ Benjamin-Cummings Pub Co  →  KLUG, W. S., CUMMINGS, M. R., SPENCER, C. A. (2008). Conceptos de Genética. (8a Ed.) Benjamin-Cummings Pub Co
 ~ Interamericana-McGraw-Hill, UBe, Madrid  →  AZCÓN-BIETO Y TALÓN (2008) Fundamentos De Fisiología Vegetal (2a Ed). Interamericana-McGraw-Hill, UBe, Madrid
 ~ McGraw-Hill, México  →  KARP, G. (2009) Biología Celular y Molecular: Conceptos y experimentos. (5a ed). McGraw-Hill, México
+~ TAIZ, L. y ZEIGER, E. (2006). Plant Physiology (4a Ed.). Sinauer Associates, Sunderland, MA, USA. Material adicional consultable en http://www.plantphys.net TAIZ, L. y ZEIGER, E. (2010). Plant Physiology (5a Ed.). Sinauer Associates, Sunderland, MA, USA. de Granada  →  TAIZ, L. y ZEIGER, E. (2010). Plant Physiology (5a Ed.). Sinauer Associates, Sunderland, MA, USA
+~ Benjamin-Cummings Pub Co  →  KLUG, W. S., CUMMINGS, M. R., SPENCER, C. A. (2008). Conceptos de Genética. (8a Ed.) Benjamin-Cummings Pub Co
 ~ Editorial Médica Panamericana. Madrid  →  ALBERTS, B., BRAY, D., JOHNSON, A. (2006) Introducción a la Biología Celular. (2a ed.). Editorial Médica Panamericana. Madrid
 
 ✅ Recursos añadidos:
@@ -34,7 +34,7 @@
 + GRIFFITHS, A y COAUT, J. F. (2008). Genética. (9a ed.). McGraw-Hill
 + HARVEY L (2010) Biología Celular y Molecular. (5a ed.). Editorial Médica Panamericana. Buenos Aires
 + STRACHAN, T.; READ, A.P. (2004). Genética Humana. (3a ed.) Mc Graw Hill
-+ TAIZ, L. y ZEIGER, E. (2010). Plant Physiology (5a Ed.). Sinauer Associates, Sunderland, MA, USA
++ TAIZ, L. y ZEIGER, E. (2006). Plant Physiology (4a Ed.). Sinauer Associates, Sunderland, MA, USA. Material adicional consultable enhttp://www.plantphys.net
 + VISERAS ALARCÓN, E. (2008) Cuestiones y problemas resueltos de Genética. Universidad de Granada
 
 📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

@@ -10,7 +10,6 @@ No se eliminaron recursos.
 = BOSQUE SENDRA, J. Sistemas de Información Geográfica. Madrid: Ed. Rialp, 2000
 = BOSQUE SENDRA, J. y MORENO JIMENEZ, A. (Coord.) Sistemas de Información Geográfica y localización de instalaciones y equipamientos. Madrid: Editorial Ra-Ma, 2012
 = COLLADO LATORRE, J.C. y NAVARRO JOVER, J.M. ArcGIS 10: prácticas paso a paso. Valencia: Editorial Universidad Politécnica de Valencia, 2013
-= COMAS, D. y RUIZ, E. Fundamentos de los Sistemas de Información Geográfica. Barcelona: Ed. Ariel Geografía, 1993
 = CORBIN, T.: Learning ArcGIS Pro. Second Edition". Packt Publishing. 2015
 = LAW, M. y COLLINGS, A. Getting to know ArcGIS desktop. Redlands, California: ESRI Press, 2018
 = MORENO JIMÉNEZ, A. (Coord). Sistemas y análisis de la información geográfica. Manual de autoaprendizaje con ArcGis. Ed. Madrid: Rama, 2005
@@ -24,9 +23,10 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ COMAS, D. y RUIZ, E. Fundamentos de los Sistemas de Información Geográfica  →  COMAS, D. y RUIZ, E. Fundamentos de los Sistemas de Información Geográfica. Barcelona: Ed. Ariel Geografía, 1993
+~ Barcelona: Ed. Ariel Geografía, 1993  →  CORBIN, T.: ArcGIS Pro 3.x Cookbook: Create, Manage, Analyze, maintain, and Visualize Geospatial Data using ArcGIS Pro. Packt Publishing. 2024.ESCOLANO UTRILLA, S. Sistemas de información geográfica: una introducción para estudiantes de Geografía. Zaragoza: Univ. de Zaragoza, 2017
 ~ GUTIÉRREZ PUEBLA, J. y GOULD, M. SIG: Sistemas de información Geográfica. Madrid  →  GUTIÉRREZ PUEBLA, J. y GOULD, M. SIG: Sistemas de información Geográfica. Madrid: Ed. Síntesis, 2000
-~ ESCOLANO UTRILLA, S. Sistemas de información geográfica: una introducción para estudiantes de Geografía. Zaragoza: Univ. de Zaragoza, 2017  →  CORBIN, T.: ArcGIS Pro 3.x Cookbook: Create, Manage, Analyze, maintain, and Visualize Geospatial Data using ArcGIS Pro. Packt Publishing. 2024.ESCOLANO UTRILLA, S. Sistemas de información geográfica: una introducción para estudiantes de Geografía. Zaragoza: Univ. de Zaragoza, 2017
 ~ CORBIN, T.: ArcGIS Pro 3.x Cookbook: Create, Manage, Analyze, maintain, and Visualize Geospatial Data using ArcGIS Pro. Packt Publishing. 2024  →  CORBIN, T.: ArcGIS Pro 3.x Cookbook: Create, Manage, Analyze, maintain, and Visualize Geospatial Data using ArcGIS Pro. Packt Publishing. 2024.ESCOLANO UTRILLA, S. Sistemas de información geográfica: una introducción para estudiantes de Geografía. Zaragoza: Univ. de Zaragoza, 2017
+~ ESCOLANO UTRILLA, S. Sistemas de información geográfica: una introducción para estudiantes de Geografía. Zaragoza: Univ. de Zaragoza, 2017  →  CORBIN, T.: ArcGIS Pro 3.x Cookbook: Create, Manage, Analyze, maintain, and Visualize Geospatial Data using ArcGIS Pro. Packt Publishing. 2024.ESCOLANO UTRILLA, S. Sistemas de información geográfica: una introducción para estudiantes de Geografía. Zaragoza: Univ. de Zaragoza, 2017
 ~ COLLADO LATORRE, J.C. y NAVARRO JOVER, J.M. ArcGIS 10: prácticas paso a paso  →  COLLADO LATORRE, J.C. y NAVARRO JOVER, J.M. ArcGIS 10: prácticas paso a paso. Valencia: Editorial Universidad Politécnica de Valencia, 2013
 
 ✅ Recursos añadidos:
@@ -40,4 +40,4 @@ No se eliminaron recursos.
 + MORENO JIMÉNEZ, A., BUZAI, G.D., BAXENDALE (Coord.). Sistemas de información geográfica: aplicaciones en diagnósticos territoriales y decisiones geoambientales. Madrid: Rama, 2017
 + WADE, T. y SOMMER, S. (Eds.). A to Z GIS: an illustrated dictionary of geographic information systems. Redlands, CA: ESRI Press, 2006
 
-📊 Porcentaje estimado de cambio: 72% [███████░░░]
+📊 Porcentaje estimado de cambio: 77% [███████░░░]

@@ -9,7 +9,6 @@
 ------------------------------
 = "Acústica arquitectónica y urbanística", J. Llinares, A. Llopis y J. Sancho. Servicio de publicaciones de la Universidad Politécnica de Valencia, 1991
 = "Física: Mecánica de la partícula", J.D. Catalá y col. Editorial Tébar Flores, Madrid, 2021
-= "Mecánica para ingeniería: Dinámica", A. Bedford, y W. Fowler. Edt. Addison-Wesley Iberoamericana, USA, 2014
 = "Mecánica vectorial para ingenieros. Dinámica", F.B. Beer y E.R. Johnston. Edt. McGraw Hill, Madrid, 2013
 = Textos de problemas y aplicaciones
 = “Electromagnetismo y circuitos eléctricos”. J. Fraile Mora. Servicio de publicaciones de la Universidad politécnica de Madrid, Madrid, 1990
@@ -34,16 +33,17 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ “Problemas y Cuestiones de Física”. A. Lleó, B. Betete, J. Galeano, L Lleó y I. Ruiz- Tapiador. Mundi Prensa Madrid 2002 F2008181Q “Mecánica. Problemas de exámenes resueltos”. J.M. de Juana Sardón y .A. Herrero García  →  “Mecánica. Problemas de exámenes resueltos”. J.M. de Juana Sardón y .A. Herrero García. Editorial Paraninfo, Madrid, 1993
+~ Iberoamericana, USA, 2014  →  “Fundamentos de Mecánica de Fluidos”, P. Gerhart, R. Gross, y J. Hochstein, Addison-Wesley Iberoamericana,USA, 1995
+~ “Problemas de Física general”. F.A. González y M. Martínez Hernández. Tebar Flores  →  “Problemas de Física general”. F.A. González y M. Martínez Hernández. Tebar Flores. Albacete 1978
 ~ “Física General. Problemas. Burbano de Ercilla, Burbano Garcia., Ed. Librería General  →  “Física General. Problemas. Burbano de Ercilla, Burbano Garcia., Ed. Librería General. Zaragoza, 1986
-~ Albacete 1978 “Problemas de Física” E. Gullón de Senespeneda y M. López Rodríguez. Ed. Romo, Madrid, 1984 “Problemas de electrotecnia: teoría de circuitos", X. Alabern, L. Humet, J. M. Nadal, A. L  →  “Problemas de Física” E. Gullón de Senespeneda y M. López Rodríguez. Ed. Romo, Madrid, 1984
 ~ “Física Universitaria. Vol. 1 “. F.W. Sears, M.W. Zemansky, H.D. Young y R.A. Freedman  →  “Física Universitaria. Vol. 1 “. F.W. Sears, M.W. Zemansky, H.D. Young y R.A. Freedman. Ed. Pearson Educación, México, 2004
 ~ “Física para Ciencias e Ingeniería. Tomo I”. E.W. Gettys, F.J., Keller y M.J. Skove. Ed  →  “Física para Ciencias e Ingeniería. Tomo I”. E.W. Gettys, F.J., Keller y M.J. Skove. Ed. McGraw Hill Interamericana, México, 2005
-~ “Problemas de Física general”. F.A. González y M. Martínez Hernández. Tebar Flores  →  “Problemas de Física general”. F.A. González y M. Martínez Hernández. Tebar Flores. Albacete 1978
+~ Albacete 1978 “Problemas de Física” E. Gullón de Senespeneda y M. López Rodríguez. Ed. Romo, Madrid, 1984 “Problemas de electrotecnia: teoría de circuitos", X. Alabern, L. Humet, J. M. Nadal, A. L  →  “Problemas de Física” E. Gullón de Senespeneda y M. López Rodríguez. Ed. Romo, Madrid, 1984
+~ “Problemas y Cuestiones de Física”. A. Lleó, B. Betete, J. Galeano, L Lleó y I. Ruiz- Tapiador. Mundi Prensa Madrid 2002 F2008181Q “Mecánica. Problemas de exámenes resueltos”. J.M. de Juana Sardón y .A. Herrero García  →  “Mecánica. Problemas de exámenes resueltos”. J.M. de Juana Sardón y .A. Herrero García. Editorial Paraninfo, Madrid, 1993
 
 ✅ Recursos añadidos:
 ------------------------------
-+ “Fundamentos de Mecánica de Fluidos”, P. Gerhart, R. Gross, y J. Hochstein, Addison-Wesley Iberoamericana,USA, 1995
++ "Mecánica para ingeniería: Dinámica", A. Bedford, y W. Fowler. Edt. Addison-Wesley Iberoamericana, USA, 2014
 + “Problemas y Cuestiones de Física”. A. Lleó, B. Betete, J. Galeano, L Lleó y I. Ruiz-Tapiador. Mundi Prensa Madrid 2002
 
-📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 32% [███░░░░░░░]

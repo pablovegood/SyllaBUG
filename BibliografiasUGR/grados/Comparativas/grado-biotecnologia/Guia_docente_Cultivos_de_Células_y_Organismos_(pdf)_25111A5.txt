@@ -8,7 +8,7 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = Animal Cell Culture Techniques. Martin Clynes, 2012. Editorial Springer
-= Methods and Techniques in virology P Payement & Trudel Dekker Press
+= Animal Cell Culture a practical approach RI Freshney IRL Press
 = Técnicas en Histología y Biología Celular. Luis Montuenga, Francisco J Esteban y Alfonso Calvo, 2014. Editorial Elsevier Masson. 2ª Edición
 
 🔁 Misma obra con edición/año distinto:
@@ -17,9 +17,9 @@ No hubo cambios de edición/año.
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Animal Cell Culture a practical approach RI Freshney IRL Press
 + Culture of Animal Cells: A Manual of Basic Technique and Specialized Applications, Seventh Edition. R. Ian Freshney, 2015. Editorial Wiley
 + In vitro methods for parasite cultivation. Taylor and Baker Academic Press
++ Methods and Techniques in virology P Payement & Trudel Dekker Press
 + Methods of cultivating parasites in vitro Angela Tayor and John R Baker Academic Press
 + PubMed NCBI (cultivos celulares, líneas celulares, cultivo virus)
 + The cultivation of Parasites in vitro Taylor and Baker. Blackwell

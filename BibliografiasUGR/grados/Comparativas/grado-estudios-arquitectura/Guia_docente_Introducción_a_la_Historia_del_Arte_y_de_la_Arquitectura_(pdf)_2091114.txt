@@ -7,7 +7,10 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
+= Adam, Jean-Pierre, La construcción romana. Materiales y técnicas, León, Editorial de los Oficios, 2002
+= Baridon, Michel, Los jardines. Paisajistas, jardineros, poetas (3 vols.), Madrid, Abada, 2004
 = Barral i Altet, Xavier, El románico. Ciudades, catedrales y monasterios, Madrid, Taschen, 1999
+= Barrucand, Marianne y Bednorz, Achim, Arquitectura islámica en Andalucía, Colonia, Taschen, 2002 (primera edición 1992)
 = Benévolo, Leonardo, El diseño de la ciudad, (5 vols.), Madrid, Gustavo Gili, 1982
 = Benévolo, Leonardo, Introducción a la Arquitectura, Madrid, Herman Blume, 1994
 = Bianchi Bandinelli, Ranuccio y Paribeni, Enrico, El arte de la Antigüedad clásica. Grecia, Madrid, Akal, 1998
@@ -108,19 +111,15 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Arquitectura y ciudad en la Edad Media Barral i Altet, Xavier, La alta Edad Media. De la Antigüedad tardía al año mil, Köln, Taschen, 1998  →  Arquitectura y ciudad en la Antigüedad
-~ Obras de carácter general Baridon, Michel, Los jardines. Paisajistas, jardineros, poetas (3 vols.), Madrid, Abada, 2004  →  Obras de carácter general
-~ Arquitectura y ciudad en la Antigüedad Adam, Jean-Pierre, La construcción romana. Materiales y técnicas, León, Editorial de los Oficios, 2002  →  Arquitectura y ciudad en la Antigüedad
-~ Arquitectura y ciudad en el mundo islámico Barrucand, Marianne y Bednorz, Achim, Arquitectura islámica en Andalucía, Colonia, Taschen, 2002 (primera edición 1992)  →  Arquitectura y ciudad en el mundo islámico
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Adam, Jean-Pierre, La construcción romana. Materiales y técnicas, León, Editorial de los Oficios, 2002
++ Arquitectura y ciudad en el mundo islámico
 + Arquitectura y ciudad en la Edad Media
-+ Baridon, Michel, Los jardines. Paisajistas, jardineros, poetas (3 vols.), Madrid, Abada, 2004
 + Barral i Altet, Xavier, La alta Edad Media. De la Antigüedad tardía al año mil, Köln, Taschen, 1998
-+ Barrucand, Marianne y Bednorz, Achim, Arquitectura islámica en Andalucía, Colonia, Taschen, 2002 (primera edición 1992)
 + Diccionarios
 + Giedion, Sigfried, El presente eterno: los comienzos de la arquitectura. Una aportación al tema de la constancia y el cambio, Madrid, Alianza Editorial, 1993
 + Metodología e historiografía
++ Obras de carácter general
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

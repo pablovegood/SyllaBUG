@@ -15,13 +15,13 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Bert Janssen, Relatividad General, Universidad de Granada, 2020 R. D'Inverno, Introducing Einstein's Relativity, Oxford University Press, 1992  →  Bert Janssen, Relatividad General, Universidad de Granada, 2020
 ~ F2008181Q C. Misner, K. Thorn, A. Wheeler, Gravitation, Freeman, 1973 R. Wald, General Relativity, Chicago University Press, 1984  →  C. Misner, K. Thorn, A. Wheeler, Gravitation, Freeman, 1973
+~ Bert Janssen, Relatividad General, Universidad de Granada, 2020 R. D'Inverno, Introducing Einstein's Relativity, Oxford University Press, 1992  →  R. D'Inverno, Introducing Einstein's Relativity, Oxford University Press, 1992
 
 ✅ Recursos añadidos:
 ------------------------------
++ Bert Janssen, Relatividad General, Universidad de Granada, 2020
 + J. Hartle, Gravity, Addison-Wesley, 2003
-+ R. D'Inverno, Introducing Einstein's Relativity, Oxford University Press, 1992
 + R. Wald, General Relativity, Chicago University Press, 1984
 + S. Carroll, Spacetime and Geometry, Addison-Wesley, 2004
 + S. Weinberg, Gravitation and cosmology, Wiley, 1972

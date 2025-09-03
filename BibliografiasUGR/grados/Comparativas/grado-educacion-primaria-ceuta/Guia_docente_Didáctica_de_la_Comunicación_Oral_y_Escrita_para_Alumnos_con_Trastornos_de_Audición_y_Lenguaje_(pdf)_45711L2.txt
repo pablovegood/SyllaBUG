@@ -7,7 +7,7 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
-= Acosta-Rodríguez, Víctor Manuel y Moreno-Santana, Ana Mª (2003). Dificultades del lenguaje: una perspectiva educativa. Bordón, 55(1), 51-60
+= Acosta Rodríguez, Víctor Manuel (2003). El tratamiento de las dificultades del lenguaje desde la acción educativa. En V. M. Acosta Rodríguez y A. M. Moreno Santana (Eds.), Dificultades del lenguaje, colaboración e inclusión educativa. Manual para logopedas, psicopedagogos y profesores (pp.117 -138). Barcelona: Grupo Ars XXI de Comunicación, S.A
 = Acosta-Rodríguez, Víctor Manuel. (1996). La evaluación del lenguaje: teoría y práctica del proceso de evaluación de la conducta lingüística infantil. Málaga: Aljibe
 = Badia, Dolors Y Vilà, Montserrat (1994). Juegos de expresión oral y escrita. Barcelona: Graó
 = Bigas, Montserrat (2008). El lenguaje oral en la escuela infantil. Revista electrónica internacional, 17, 33-39
@@ -31,14 +31,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Madrid: Arco Libros  →  Reyes, Graciela, Baena, Elisa y Urios, Eduardo (2000). Ejercicios de pragmática I y II. Madrid: Arco Libros
-~ Almería: Grupo Editorial Universitario  →  Galera, Francisco (2009). La enseñanza de la lectura y la escritura: Teoría y práctica. Almería: Grupo Editorial Universitario
-~ Dirección General de Participación e Innovación Educativa de la Consejería de Educación de la Junta de Andalucía (ed.) (2008): Manual de atención al alumnado con necesidades Ferreiro, Emilia (1986). Proceso de alfabetización. Alfabetización en proceso. Buenos Aires: Centro Editor de América Latina  →  Ferreiro, Emilia (1986). Proceso de alfabetización. Alfabetización en proceso. Buenos Aires: Centro Editor de América Latina
 ~ Cuadernos de Audición y Lenguaje, 1, 1-41  →  Cervera, José Francisco e Ygual, Amparo (2001). Evaluación e intervención en niños con trastornos fonológicos y riesgo de dificultad de aprendizaje de la lectura y escritura. Cuadernos de Audición y Lenguaje, 1, 1-41
+~ Almería: Grupo Editorial Universitario  →  Galera, Francisco (2009). La enseñanza de la lectura y la escritura: Teoría y práctica. Almería: Grupo Editorial Universitario
+~ Madrid: Arco Libros  →  Reyes, Graciela, Baena, Elisa y Urios, Eduardo (2000). Ejercicios de pragmática I y II. Madrid: Arco Libros
+~ Dirección General de Participación e Innovación Educativa de la Consejería de Educación de la Junta de Andalucía (ed.) (2008): Manual de atención al alumnado con necesidades Ferreiro, Emilia (1986). Proceso de alfabetización. Alfabetización en proceso. Buenos Aires: Centro Editor de América Latina  →  Ferreiro, Emilia (1986). Proceso de alfabetización. Alfabetización en proceso. Buenos Aires: Centro Editor de América Latina
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Acosta Rodríguez, Víctor Manuel (2003). El tratamiento de las dificultades del lenguaje desde la acción educativa. En V. M. Acosta Rodríguez y A. M. Moreno Santana (Eds.), Dificultades del lenguaje, colaboración e inclusión educativa. Manual para logopedas, psicopedagogos y profesores (pp.117 -138). Barcelona: Grupo Ars XXI de Comunicación, S.A
++ Acosta-Rodríguez, Víctor Manuel y Moreno-Santana, Ana Mª (2003). Dificultades del lenguaje: una perspectiva educativa. Bordón, 55(1), 51-60
 + Dirección General de Participación e Innovación Educativa de la Consejería de Educación de la Junta de Andalucía (ed.) (2008): Manual de atención al alumnado con necesidades específicas de apoyo educativo derivadas de discapacidad auditiva
 
 📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

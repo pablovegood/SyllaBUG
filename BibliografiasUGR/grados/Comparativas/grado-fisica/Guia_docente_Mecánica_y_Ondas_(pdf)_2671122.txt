@@ -14,9 +14,9 @@ No se eliminaron recursos.
 = Mechanics [electronic resource]. L.D. Landau and E.M. Lifshitz ; translated from the Russian by J.B. Sykes and J.S. Bell
 = Mecánica newtoniana. A. P. French
 = Physics. Marcelo Alonso, Edward J. Finn
+= Teoría y problemas de dinámica de Lagrange : con un estudio de ecuaciones del movimiento de Euler, principio y ecuaciones de Hamilton- Dare A. Wells; traducción y adaptación Francisco Gnecco Calvo
 = The Feynman lectures on physics. Feynman, Leighton, Sands
 = The classical theory of fields. L. D. Landau and E. M. Lifshitz ; translated from the Russian by Morton Hamermesh
-= VIBRACIONES Y ONDAS: Curso de física del M.I.T. A. P. French
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
@@ -35,8 +35,8 @@ No hubo cambios de edición/año.
 + Problemas resueltos de mecánica del punto y de sistemas de puntos. Hubert Lumbroso
 + Schaum's outline of theory and problems of theoretical mechanics with an introduction to Lagrange's equations and Hamiltonian theory. Murray R. Spiegel
 + Special relativity. A. P. French
-+ Teoría y problemas de dinámica de Lagrange : con un estudio de ecuaciones del movimiento de Euler, principio y ecuaciones de Hamilton- Dare A. Wells; traducción y adaptación Francisco Gnecco Calvo
 + Teoría y problemas de física moderna. Ronald Gautreau, William Savin
 + The physics of vibrations and waves. H. J. Pain
++ VIBRACIONES Y ONDAS: Curso de física del M.I.T. A. P. French
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -18,11 +18,11 @@
 = De Rus, G. (1999): “Regulación de precios en infraestructuras y servicios de transporte”. Papeles de Economía Española, nº 82
 = Fujita, M., Krugman, P. y Venables, A.J. (2000): Economía espacial. Ariel
 = García Montalvo J; La vivienda en España: Desgravaciones, burbujas y otras historias
+= García-Vaquero V. y Martinez Jorge: Fiscalidad de la Vivienda en España. (2005) Documentos Ocasionales. Banco de España
 = Krugman, P.R. (1997): Desarrollo, geografía y teoría económica. Antoni Bosch
 = Lopez Casasnovas G, Los nuevos instrumentos de la gestión pública, (2003) La Caixa
 = López García, M.A. (1993): “Imposición, subsidios a la vivienda y control de alquileres”. Revista de Economía Aplicada, nº 3
 = Matas, A. (1991): “La demanda de transporte urbano: un análisis de las elasticidades y valoraciones del tiempo”. Investigaciones Económicas, vol.15 nº2
-= Pérez Garcia Javier J.: Los determinantes del gasto de las familias: análisis y evidencia regional. Centro de Estudios andaluces.(2005)
 = Richardson, H.W.(1986): Economía regional y urbana. Alianza Editorial. vol.15 nº2
 = Trilla Carmen; La política de vivienda en una perspectiva europea comparada. (2005) La Caixa
 = Vera- Toscano E. Satisfacción con la vivienda en Andalucía, (2009) Centro de Estudios Andaluces
@@ -36,6 +36,6 @@
 ------------------------------
 + Bibliografía complementaria
 + Bibliografía prácticas
-+ García-Vaquero V. y Martinez Jorge: Fiscalidad de la Vivienda en España. (2005) Documentos Ocasionales. Banco de España
++ Pérez Garcia Javier J.: Los determinantes del gasto de las familias: análisis y evidencia regional. Centro de Estudios andaluces.(2005)
 
 📊 Porcentaje estimado de cambio: 54% [█████░░░░░]

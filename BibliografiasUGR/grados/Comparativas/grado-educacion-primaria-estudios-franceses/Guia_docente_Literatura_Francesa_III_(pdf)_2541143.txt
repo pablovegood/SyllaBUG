@@ -10,7 +10,6 @@
 📚 Recursos sin cambios:
 ------------------------------
 = Anglard, V.,Le commentaire composé,Paris, Armand Colin, coll. Cursus lettres, 2006
-= Ansel I. et Y. (2000)Le Romantisme.Paris : Ellipses
 = Auffret, S. et Auffret H.,Le commentaire composé,Paris, Hachette, coll. Hachette Université, 2006
 = Auraix-Jonchière, P. et Volpilhac-Auger C. (2000)Isis, Narcisse, Psyché, entre Lumières et Romantisme. Mythes et écriture, écritures du mythe(Actes du colloque du Centre de Recherches Révolutionnaires et Romantiques, 17-19 mai 1999). Clermont-Ferrand : Presses Universitaires Blaise-Pascal
 = Baude, M. et Münch, Marc-Mathieu,Romantisme et religion. Théologie des théologiens et Théologie des écrivains.Actes du Colloque interdisciplinaire organisé à Metz , du 20-22 octobre 1978. Paris : PUF
@@ -38,6 +37,7 @@
 = Muray, Ph. (1984)Le XIXe siècle à travers les âges, Paris : Denoël, coll. L’Infini
 = Peylet, G. (1994)La littérature fin de siècle de 1884 à 1898. Entre décadentisme et modernité, Paris : Librairie Vuibert, coll. Thémathèque/Lettres
 = Praz, M. (1977)La chair, la mort et le diable dans la littérature du XIXe siècle. Le romantisme noir.(trad. Constance Thompson Pasquali). Paris : Denoël
+= Preiss, A. et Aubrit, J.-P.,L’explication littéraire et le commentaire composé,Paris, A. Colin, coll. Cursus, 1994
 = Raymond, M. (1978)Romantisme et rêverie. Paris : Librairie José Corti
 = Richard, J.P. (1970)Etudes sur le romantisme.Paris : Edit. du Seuil
 = Vaillant, A. (2016)L’art de la littérature. Romantisme et modernité. Paris : Classiques Garnier, coll. Etudes classiques et dix-neuvièmistes
@@ -48,22 +48,22 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Colin, coll. Cursus, 1994  →  Anglard, V.,Le commentaire composé,Paris, Armand Colin, coll. Cursus lettres, 2006
-~ Preiss, A. et Aubrit, J.-P., L’explication littéraire et le commentaire composé, Paris, A  →  Preiss, A. et Aubrit, J.-P.,L’explication littéraire et le commentaire composé,Paris, A. Colin, coll. Cursus, 1994
-~ Presses Universitaires Blaise-Pascal  →  Auraix-Jonchière, P. et Volpilhac-Auger C. (2000)Isis, Narcisse, Psyché, entre Lumières et Romantisme. Mythes et écriture, écritures du mythe(Actes du colloque du Centre de Recherches Révolutionnaires et Romantiques, 17-19 mai 1999). Clermont-Ferrand : Presses Universitaires Blaise-Pascal
-~ Milner, M. (1960) Le Diable dans la littérature française: De Cazotte à Baudelaire (1772-1861). Paris : Corti, 2 vols Montoro Araque, M. (2018) Gautier, au carrefour de l’âme romantique et décadente. New York : Peter Lang  →  Montoro Araque, M. (2018)Gautier, au carrefour de l’âme romantique et décadente.New York : Peter Lang
-~ Romantisme, Réalisme. Paris : Flammarion  →  Huyghe, R. (1976)La Peinture française au XIXe siècle. La Relève de l’imaginaire. Romantisme, Réalisme.Paris : Flammarion
 ~ La plupart de ces ouvrages peuvent être consultés en ligne sur : http://gallica.bnf.fr/ 1. Dictionnaires Bonnefoy, Y., Dictionnaire des mythologies, Paris, Flammarion, 1999, 2 vol  →  1. Dictionnaires
+~ Preiss, A. et Aubrit, J.-P., L’explication littéraire et le commentaire composé, Paris, A  →  Preiss, A. et Aubrit, J.-P.,L’explication littéraire et le commentaire composé,Paris, A. Colin, coll. Cursus, 1994
+~ Romantisme, Réalisme. Paris : Flammarion  →  Huyghe, R. (1976)La Peinture française au XIXe siècle. La Relève de l’imaginaire. Romantisme, Réalisme.Paris : Flammarion
+~ 3. Histoire littéraire, études générales Ansel I. et Y. (2000) Le Romantisme. Paris : Ellipses  →  3. Histoire littéraire, études générales
+~ Presses Universitaires Blaise-Pascal  →  Auraix-Jonchière, P. et Volpilhac-Auger C. (2000)Isis, Narcisse, Psyché, entre Lumières et Romantisme. Mythes et écriture, écritures du mythe(Actes du colloque du Centre de Recherches Révolutionnaires et Romantiques, 17-19 mai 1999). Clermont-Ferrand : Presses Universitaires Blaise-Pascal
+~ Milner, M. (1960) Le Diable dans la littérature française: De Cazotte à Baudelaire (1772-1861). Paris : Corti, 2 vols Montoro Araque, M. (2018) Gautier, au carrefour de l’âme romantique et décadente. New York : Peter Lang  →  Milner, M. (1960)Le Diable dans la littérature française: De Cazotte à Baudelaire (1772-1861). Paris : Corti, 2 vols
 ~ Vaillant, A. (2012) Dictionnaire du Romantisme. Paris : CNRS éditions Vaillant, A. (2016) Qu’est-ce que le Romantisme ? Paris : CNRS, coll. Biblis  →  Vaillant, A. (2012)Dictionnaire du Romantisme. Paris : CNRS éditions
 
 ✅ Recursos añadidos:
 ------------------------------
 + 2. Techniques d’analyse littéraire
-+ 3. Histoire littéraire, études générales
++ Ansel I. et Y. (2000)Le Romantisme.Paris : Ellipses
 + Bonnefoy, Y.,Dictionnaire des mythologies,Paris, Flammarion, 1999, 2 vol
 + La plupart de ces ouvrages peuvent être consultés en ligne sur :http://gallica.bnf.fr/
 + Livres de lecture obligatoire (voir programme)
-+ Milner, M. (1960)Le Diable dans la littérature française: De Cazotte à Baudelaire (1772-1861). Paris : Corti, 2 vols
++ Montoro Araque, M. (2018)Gautier, au carrefour de l’âme romantique et décadente.New York : Peter Lang
 + Vaillant, A. (2016)Qu’est-ce que le Romantisme ?Paris : CNRS, coll. Biblis
 
 📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

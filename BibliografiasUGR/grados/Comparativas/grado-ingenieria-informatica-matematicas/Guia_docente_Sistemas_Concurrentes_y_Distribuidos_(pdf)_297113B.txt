@@ -7,6 +7,7 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
+= A. Wiliams. C++ Concurrency in Action, 2nd Edition. Manning Publications. 2019
 = F. Almeida, D. Gimenez, J. M. Mantas, A.M. Vidal . Introduccion a la Programacion Paralela. Paraninfo Cengage Learning, 2008
 = J. T. Palma, C. Garrido, F. Sánchez, A. Quesada. Programación Concurrente. Thomson-Paranifo. 2003
 = N.A. Lynch. Distributed Algorithms. Morgan Kaufmann. 1996
@@ -14,15 +15,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ G. R. Andrews. Foundations of Multithreaded, Parallel, and Distributed Programming  →  G. R. Andrews. Foundations of Multithreaded, Parallel, and Distributed Programming. Addison Wesley, 2000
 ~ V. Kumar , A. Grama, A. Gupta, G. Karypis. Introduction to Parallel Computing  →  V. Kumar , A. Grama, A. Gupta, G. Karypis. Introduction to Parallel Computing. Benjamin/Cummings Publishing Company, 2003
 ~ Garceta grupo editorial, 2022 C. Breshears. The Art of Concurrency: A Thread Monkey's Guide to Writing Parallel Applications. O'Reilly Media. 2009  →  C. Breshears. The Art of Concurrency: A Thread Monkey's Guide to Writing Parallel Applications. O'Reilly Media. 2009
-~ A. Burns, A. Wellings. Sistemas de Tiempo Real y Lenguajes de Programación (3ª A. Wiliams. C++ Concurrency in Action, 2nd Edition. Manning Publications. 2019 M. Capel. Programación Concurrente y en Tiempo Real. Fundamentos y aplicaciones  →  M. Capel. Programación Concurrente y en Tiempo Real. Fundamentos y aplicaciones. Garceta grupo editorial, 2022
 ~ George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair. Distributed Systems  →  George Coulouris, Jean Dollimore, Tim Kindberg, Gordon Blair. Distributed Systems: Concepts and Design (5ª Edición). Addison-Wesley, 2011
-~ G. R. Andrews. Foundations of Multithreaded, Parallel, and Distributed Programming  →  G. R. Andrews. Foundations of Multithreaded, Parallel, and Distributed Programming. Addison Wesley, 2000
 
 ✅ Recursos añadidos:
 ------------------------------
 + A. Burns, A. Wellings. Sistemas de Tiempo Real y Lenguajes de Programación (3ª Edición). Addison Wesley, 2003
-+ A. Wiliams. C++ Concurrency in Action, 2nd Edition. Manning Publications. 2019
++ M. Capel. Programación Concurrente y en Tiempo Real. Fundamentos y aplicaciones. Garceta grupo editorial, 2022
 
-📊 Porcentaje estimado de cambio: 77% [███████░░░]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

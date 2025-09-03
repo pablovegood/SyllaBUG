@@ -7,27 +7,27 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
+= Annual Reviews Immunology
 = C. Janeway, K.P. Murphy, P. Travers and M. Walport. Janeway’s Immunobiology, 10th ed
-= Journal of Experimental Medicine
 = Revistas de Inmunologia
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Garland Science, 2019 condiciones de salud y enfermedad. Masson, Barcelona, 4ª edición en castellano,2011 A.K. Abbas, A.H. Lichtman, J.S. Pober. Inmunología Celular y Molecular. 10ª edición, McGraw- Hill- Interamericana, 2021 H. Chapel, M. Haeney, S. Misbah and N. Snowden. Essentials of Clinical Immunology, 5th ed.Blackwell Publishing, Oxford, 2019  →  Garland Science, 2022
 ~ P. Parham. The Immune System, 3rd ed. Garland Science, 2009  →  P. Parham. The Immune System, 5th. Garland Science, 2021
-~ Garland Science, 2019 condiciones de salud y enfermedad. Masson, Barcelona, 4ª edición en castellano,2011 A.K. Abbas, A.H. Lichtman, J.S. Pober. Inmunología Celular y Molecular. 10ª edición, McGraw- Hill- Interamericana, 2021 H. Chapel, M. Haeney, S. Misbah and N. Snowden. Essentials of Clinical Immunology, 5th ed.Blackwell Publishing, Oxford, 2019  →  Science Immunology
 ~ J.M. Cruse and R.E. Lewis, Illustrated Dictionary of Immunology, 3rd ed. CRC Press, 2018 T.J. Kindt, R.A. Goldsby and B.A. Osborne. Kuby Immunology, 6th ed. W.H. Freeman and Co.,New York, 2007  →  T.J. Kindt, R.A. Goldsby and B.A. Osborne. Kuby Immunology, 8th ed. W.H.Freeman and Co.,New York, 2018
 
 ✅ Recursos añadidos:
 ------------------------------
 + A.K. Abbas, A.H. Lichtman, J.S. Pober. Inmunología Celular y Molecular. 10ªedición, McGraw-
-+ Annual Reviews Immunology
 + Current Opinion in Immunology
-+ Garland Science, 2022
 + Hill- Interamericana, 2021
 + Immunity
 + Immunological Reviews
 + J.M. Cruse and R.E. Lewis, Illustrated Dictionary of Immunology, 4rd ed. CRCPress, 2024
++ Journal of Experimental Medicine
 + Nature Immunology
++ Science Immunology
 + The Journal of Immunology
 + Trends in Immunology
 

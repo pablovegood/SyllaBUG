@@ -23,18 +23,19 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Springer-Verlag. Barcelona, España  →  Ibáñez F., Barcina Y. 2001. Análisis sensorial de alimentos: métodos y aplicaciones. Ed. Springer-Verlag. Barcelona, España
 ~ AENOR. Madrid, España  →  AENOR. 1997. Análisis sensorial. Tomo 1. Alimentación: Recopilación de Normas UNE. AENOR. Madrid, España
-~ Ed. Acribia, S.A. Zaragoza, España  →  Ducauze, Ch. J. 2006 Fraudes alimentarios. indicaciones reglamentarias y metodología analítica. Ed. Acribia, S.A. Zaragoza, España
+~ Springer-Verlag. Barcelona, España  →  Ibáñez F., Barcina Y. 2001. Análisis sensorial de alimentos: métodos y aplicaciones. Ed. Springer-Verlag. Barcelona, España
+~ Ed. Acribia, S.A. Zaragoza, España  →  Adrian, J., Potus, J., Poiffait, A., Dauvillier, P. 2000. Análisis Nutricional de los Alimentos. Ed. Acribia, S.A. Zaragoza, España
 
 ✅ Recursos añadidos:
 ------------------------------
 + Anzaldua-Morales A. 1994. La evaluación sensorial de los alimentos en la teoría y la práctica. Ed. Acribia, S.A. Zaragoza, España
 + Chamorro M.C., Losada M.M. 2002. El análisis sensorial de los quesos. Ed. Mundi-Prensa. Madrid, España
++ Ducauze, Ch. J. 2006 Fraudes alimentarios. indicaciones reglamentarias y metodología analítica. Ed. Acribia, S.A. Zaragoza, España
 + Mijares M.I., Saez Illobre J.A. 1995. El vino: de la cepa a la copa. CDN-Ciencias de la Dirección. Madrid, España
 + Nielsen, S.S., Boff, J.M., Bradley, R.L., Bridges, A.R., BeMiller, J.M. 2008. Análisis de los alimentos. Ed. Acribia, S.A. Zaragoza, España
 + Rosenthal, A.J. 2001. Textura de los alimentos. Medida y percepción. Ed. Acribia, S.A. Zaragoza, España
 + Sancho J., Bota E., De Castro J.J. 1999. Introducción al análisis sensorial de los alimentos. Edicions Universitat de Barcelona. Barcelona, España
 + Stone H., Sidel J.L. 1993. Sensory evaluation practices. Academic Press. California, USA
 
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+📊 Porcentaje estimado de cambio: 68% [██████░░░░]

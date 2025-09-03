@@ -7,6 +7,7 @@ No se eliminaron recursos.
 
 📚 Recursos sin cambios:
 ------------------------------
+= E.J. Tarbuck, F.H. Lutgens (2005). Ciencias de la Tierra. Una Introducción a la Geología Física. 8ª edición. Ed. Pearson, ISBN: 84-205-4400-0
 = J. Grotzinger, T. H. Jordan (2014). Understanding Earth, seventh edition. Ed. Macmillan Learning, ISBN: 978-1-4641-3874-4
 = J. Monroe, R. Wicander, M. Pozo (2008). Geología. Dinámica y evolución de la Tierra. Ed. Paraninfo, ISBN: 978-84-9732-459-5
 = J.P. Grotzinger, T.H. Jordan, F. Press, R. Siever (2006). Student Study Guide for Understanding Earth. Ed. W. H. Freeman, 2006, ISBN: 071673981X
@@ -16,11 +17,10 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ E.J. Tarbuck, F.H. Lutgens (2005). Ciencias de la Tierra. Una Introducción a la Geología Física. 8ª F2008181Q edición. Ed. Pearson, ISBN: 84-205-4400-0 9780340809563  →  E.J. Tarbuck, F.H. Lutgens (2005). Ciencias de la Tierra. Una Introducción a la Geología Física. 8ª edición. Ed. Pearson, ISBN: 84-205-4400-0
 ~ Paraninfo, ISBN: 978-84-9732-459-5  →  J. Monroe, R. Wicander, M. Pozo (2008). Geología. Dinámica y evolución de la Tierra. Ed. Paraninfo, ISBN: 978-84-9732-459-5
 
 ✅ Recursos añadidos:
 ------------------------------
 + G.M. Bennison, K. Moseley (2003). Geological structures and maps. Ed. Modder Arnold, ISBN: 9780340809563
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

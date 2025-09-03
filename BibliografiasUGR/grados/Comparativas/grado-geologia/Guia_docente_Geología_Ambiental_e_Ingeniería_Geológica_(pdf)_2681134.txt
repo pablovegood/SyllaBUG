@@ -23,7 +23,7 @@ No se eliminaron recursos.
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Bell, F.G. (1993). Engineering Geology. Blackwell Science, U:K:, 359 p. ETSIC/624BELeng Bennett, M.R. & Doyle, P. (1997). Environmental Geology. Geology and the Human Berner, E.K. & Berner, R.A. (1996). Global environment: water, air and geochemical cycles. Ed. Prentice-Hall. New Jersey. FCI/55 BEN env  →  Bell, F.G. (1993). Engineering Geology. Blackwell Science, U:K:, 359 p. ETSIC/624BELeng
-~ Prentice Hall. Madrid  →  Keller, E.A. (1999). Introduction to Environmental Geology. Ed. Prentice-Hall. FCI/55 KEL int
+~ Prentice Hall. Madrid  →  KELLER, E. A. y BLODGETT, R. H. Riesgos naturales (2007). Pearson and Prentice Hall, 421 p. Madrid
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -40,7 +40,7 @@ No se eliminaron recursos.
 + Jiménez Salas, J.A. y De Justo Alpañés, J.L. (1975). Geotecnia y Cimientos I: Propiedades de los suelos y de las rocas. Rueda, Madrid, 466 p. FCI/624GEOgeo1
 + Jiménez Salas, J.A., De Justo Alpañés, J.L. y Serrano González, A. (1981). Geotecnia y Cimientos II: Mecánica del suelo y de las rocas. Rueda, Madrid, 1188 p. FCI/624GEOgeo2
 + Johnson, R.B. & De Graff, J.V. (1988). Principles of Engineering Geology. John Wiley & Sons., London, 497 p. FCI/624JOHpri
-+ KELLER, E. A. y BLODGETT, R. H. Riesgos naturales (2007). Pearson and Prentice Hall, 421 p. Madrid
++ Keller, E.A. (1999). Introduction to Environmental Geology. Ed. Prentice-Hall. FCI/55 KEL int
 + Kraemer, C., Morilla, I. y Rocci, S. (1992). Explanaciones y drenaje. Ed. Univ. Politécnica de Madrid, Madrid, 285 p. ETSIC/625KRAexp
 + Lambe, T.W. & Whitman, R.V. (1998). Mecánica de Suelos (Segunda Edición). Ed. Limusa, México, 582 p. FCI/624LAMmec(2000)
 + Lundgren, L. (1986). Environmental Geology. Ed. Prentice Hall. New Jersey

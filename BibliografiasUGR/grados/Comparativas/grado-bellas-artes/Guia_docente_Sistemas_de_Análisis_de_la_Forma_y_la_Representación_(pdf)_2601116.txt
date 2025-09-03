@@ -26,16 +26,16 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Gustavo Gili, Barcelona  →  Thorspecken, T. (2015) Urban sketching _ guía completa de técnicas de dibujo urban. ED. Gustavo Gili, Barcelona
+~ MARTÍNEZ-VELA, Manuel (2017). La Alhambra con regla y compás: El trazado paso a paso de alicatados y yeserías. Granada: Almizate NAVARRO DE ZUVILLAGA, J. (2008). Forma y Representación. Un análisis geométrico. Ed  →  NAVARRO DE ZUVILLAGA, J. (2008). Forma y Representación. Un análisis geométrico. Ed. Akal. Madrid
+~ Gustavo Gili, Barcelona  →  MAIER, M. (1982) Procesos elementales de proyectación y configuración. 4 tomos. Ed. Gustavo Gili. Barna
 ~ Gustavo Gili. Barna  →  MAIER, M. (1982) Procesos elementales de proyectación y configuración. 4 tomos. Ed. Gustavo Gili. Barna
-~ Método en el espacio real. Universidad de Granada  →  BELTRÁN CHICA, J. y BELTRÁN POLAINA, J. M. (2008). Sistema Diédrico y Perspectivas. Método en el espacio real. Universidad de Granada
-~ MARTÍNEZ-VELA, Manuel (2017). La Alhambra con regla y compás: El trazado paso a paso de alicatados y yeserías. Granada: Almizate NAVARRO DE ZUVILLAGA, J. (2008). Forma y Representación. Un análisis geométrico. Ed  →  MARTÍNEZ-VELA, Manuel (2017). La Alhambra con regla y compás: El trazado paso a paso de alicatados y yeserías. Granada: Almizate
 ~ GIMÉNEZ ARRIBAS, Julián. Estudio de los sistemas de representación. Madrid, 1980 KEMP, M. (2000). La ciencia del arte. Ed. Akal  →  GIMÉNEZ ARRIBAS, Julián. Estudio de los sistemas de representación. Madrid, 1980
+~ Método en el espacio real. Universidad de Granada  →  BELTRÁN CHICA, J. y BELTRÁN POLAINA, J. M. (2008). Sistema Diédrico y Perspectivas. Método en el espacio real. Universidad de Granada
 
 ✅ Recursos añadidos:
 ------------------------------
 + KEMP, M. (2000). La ciencia del arte. Ed. Akal
++ MARTÍNEZ-VELA, Manuel (2017). La Alhambra con regla y compás: El trazado paso a paso de alicatados y yeserías. Granada: Almizate
 + Manuales de usuario de CAD
-+ NAVARRO DE ZUVILLAGA, J. (2008). Forma y Representación. Un análisis geométrico. Ed. Akal. Madrid
 
 📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

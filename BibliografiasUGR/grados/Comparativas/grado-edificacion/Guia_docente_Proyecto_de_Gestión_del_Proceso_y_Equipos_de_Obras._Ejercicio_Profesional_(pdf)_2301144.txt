@@ -22,24 +22,24 @@
 = AENOR. Asociación Española de Normalización y Certificación. (2008). UNE-EN 500-6-2008+A1. Maquinaria móvil para construcción de carreteras. Requisitos específicos para extendedoras. Madrid: AENOR
 = AENOR. Asociación Española de Normalización y Certificación. (2009). UNE-EN 12649:2009+A1. Máquinas para compactar y enlucir el hormigón. Requisitos de seguridad. Madrid: AENOR
 = AENOR. Asociación Española de Normalización y Certificación. (2013). UNE-ISO 18651-1-2013 Vibradores de hormigón. Madrid: AENOR
-= AENOR. Asociación Española de Normalización y Certificación. (2014). UNE-ISO 7134. Maquinaria para movimiento de tierras. Motoniveladoras. Madrid: AENOR
 = AENOR. Asociación Española de Normalización y Certificación. (2015). UNE-EN ISO 14001. Sistemas de gestión ambiental. Requisitos con orientación para su uso. Madrid: AENOR
 = AENOR. Asociación Española de Normalización y Certificación. (Diciembre de 2012). UNE-EN ISO 6165. Maquinaria para movimiento de tierras. Tipos básicos. Identificación, términos y definiciones. Madrid, España
 = AENOR. Asociación Española de Normalización y Certificación. (Marzo de 2003). UNE 115443. Maquinaria para movimiento de tierras. Excavadoras hidráulicas. Terminología y especificaciones comerciales. Madrid, España: AENOR
 = AENOR. Asociación Española de Normalización y Certificación. (Noviembre de 2004). Maquinaria para movimiento de tierras. Retrocargadoras. Terminología y especificaciones comerciales. Madrid, España: AENOR
 = AENOR. Asociación de Normalización y Certificación. (2008). UNE-EN 500-2-2007+A1. Maquinaria móvil para construcción de carreteras. Requisitos específicos para fresadoras de firmes. Madrid: AENOR
-= AENOR. Asociación de Normalización y Certificación. (2012). UNE-EN ISO 6165. Maquinaria para movimiento de tierras. Tipos básicos. Madrid: AENOR
 = AETESS. Asociación de Empresas de Tecnología del Suelo y Subsuelo. (2006). Guía de Micropilotes y Anclajes
 = AETESS. Asociación de Empresas de la Tecnología del Suelo y Subsuelo. (2006). Pilotes in situ. Madrid
 = AETSS. Asociación de Empresas de Tecnología del Suelo y Subsuelo. (2006). Muros Pantalla
+= ANAPATAsociación Nacional de Alquiladores de Plataformas Aéreas de TrabajoCreada en 1993 engloba a los alquiladores de plataformas elevadoras de trabajo representando a más 25.000 plataformas elevadoras y a 43 empresas en todo el territorio nacional
 = ANMOPYC. Asociación de fabricantes de maquinaria de Construcción, Obras Públicas y Minería. (2007). Estudio de Tendencias Tecnológicas en el Sector de Maquinaria de Obras Públicas, Construcción y Minería
 = Aenor. Asociación Española de Normalización y Certificación. (2012). UNE 192002. Procedimiento para la inspección reglamentaria. Grúas. Grúas torre u otras aplicaciones. Madrid: AENOR
 = Aguila García, A. (1992). Las tecnologías de la industrialización de los edificios para vivienda. Madrid: COAM
 = Amendola, L. (2004). Estrategias y tácticas en la Dirección y Gestión de Proyectos. Valencia: Editorial de la UPV
-= Asociación Nacional de Fabricantes de Bienes de Equipo
+= Asociación Nacional de Distribuidores e Importadores de Maquinaria de Obras Públicas, Minería y Construcción
+= Avintia. Grupo. (2020). Libro blanco sobre la industrialización en la construcción. Avintia Industrial
+= BAUMA CHINA
 = Ballestero Hernández, J., Boza Vela, P., Fernández Echevarri, C., Galdón Navarro, M., & Martínez Panal, I. (2010). Estabilización de fachadas
 = Barrio Tarazona, P. (2018). Estabilizadores de fachada. Valencia: Universitat Politècnica de València. ETS de Ingeniería de Edificación
-= CONEXPO CON/AGGFeria Internacional de Equipos y Maquinaria para Construcción y tratamiento de Áridos
 = Cardwell, D. (1996). Historia de la Tecnología. Madrid: Ed. Alianza Universidad
 = Centro de estudios y Experimentación de Obras Públicas. Ministerio de Medio Ambiente. (2010). Técnicas Geofísicas. Madrid: Ministerio de Fomento - Ministerio de Agricultura, Alimentación y Medio Ambiente
 = Coronel Toro, J. F. (s.f.). Tipología y Clasificación de Compresores. Sevilla: Universidad de Sevilla
@@ -50,7 +50,6 @@
 = ESPAÑA. DIRECCIÓN GENERAL DE ARQUITECTURA, VIVIENDA Y SUELO. MINISTERIO DE FOMENTO. (2009). Código Técnico de Edificación. D SE-C. Seguridad estructural Cimientos. Madrid: Ministerio de Fomento. España
 = Esteban, J. (2020). Caballos más rápidos. En A. Grupo, Libro blanco sobre la industrialización de la construcción. Avintia Industrial
 = FUNDEC A.C. (1990). Maquinaria para construcción. México: Departamento Construcción. UNAM
-= Ferias del sector
 = Fundación Laboral de la Construcción. (2010). Criterios preventivos para trabajos con riesgo eléctrico en obras de construcción. Fundación Laboral de la Construcción
 = González González, J. (2020). La digitalización de los procesos en Industrialización de la construcción: una revolución que ya no espera. En A. Grupo, Libro blanco sobre la Industrialización de la Construcción
 = Gubany Hinrichsen, H. (1970). Prontuario de maquinaria de construcción. Barcelona: Editorial Blume
@@ -58,6 +57,7 @@
 = Heras, S. d. (2011). Fluidos, bombas e instalaciones hidráulicas. Barcelona: Oficina de Publicacions Acadèmiques Digitals de la UPC
 = López Vidal, A. (2017). Construcción modular en hormigón: una tendencia al alza. Revista Técnica CEMENTO HORMIGÓN, 48-54
 = Marote Ramos, G. (2008). Aplicación de la Tecnología de hidrofresa a grandes excavaciones urbanas. Informes de la Construcción, 69-71
+= Minería
 = Ministerio de Agricultura, Pesca y Alimentación. Gobierno de España. (2018). Observatorio de tecnologías probadas. Plataforma de conocimiento del medio rural y pesquero. Obtenido de https://www.mapama.gob.es/es/ministerio/servicios/informacion/plataforma-de-conocimiento-para-el-medio-rural-y-pesquero/observatorio-de-tecnologias-probadas/maquinaria-agricola/palas-cargadoras.aspx
 = Ministerio de Ciencia y Tecnología. (s.f.). ITC-BT-24. Protección contra los contactos directos e indirectos. Ministerio de Ciencia y Tecnología
 = Ministerio de Fomento. Dirección General de Carreteras. (2005). Guía para el proyecto y la ejecución de micropilotes en obras de carretera. Madrid
@@ -67,7 +67,6 @@
 = Oliver Faubel, I. (2010). Documentos y procedimiento para la instalación de un apeo/apuntalamiento. Valencia: Universidad Politécnica de Valencia
 = Rubio Moreno, J. C. (2015). Manual para la formación de nivel superior en Prevención de Riesgos Laborales. Ediciones Díaz de Santos S.A
 = Ruiz Franco, G. (2015). Manual de costes para una empresa de movimiento de tierras. Oviedo: Escuela Politécnica de Ingeniería de Minas y Energía
-= SALÓN DE MÁQUINAS DE CARRETERAS Y OBRAS
 = Serrano, P. (2021). Construcción industrializada ¿qué es qué beneficios tiene? Construcción sostenible
 = Sánchez, F. (2022). El papel del agente rehabilitador en la rehabilitación de edificios
 = Talleres Segovia S.L. (2018). Fundaciones y Pilotes. Herramientas de perforación. Obtenido de https://www.talleresegovia.com/es
@@ -76,7 +75,6 @@
 = Universidad de Oviedo. Área de Mecánica de Fluidos. (2005). Instalación de aire comprimido. Oviedo
 = Unión Europea. (2016). REGLAMENTO (UE) 2016/1628 DEL PARLAMENTO EUROPEO Y DEL CONSEJO. Diario Oficial de la Unión Europea
 = Valverder Orenes, F. (2011). La Gestión Medioambiental en Obras de Construcción. Cartagena: Urbanizadora e Inmobiliaria Cartagenera, S.A
-= Vaquero, M. (02 de 12 de 2019). El blog ACH. Obtenido de https://www.panelesach.com/blog/
 = Yepes Piqueras, V. (2015). Coste, producción y mantenimiento de maquinaria para construcción (Vol. 1). Valencia: Universidad Politécnica de Valencia
 = Yepes Piqueras, V. (2018). Pilotes perforados con barrena continua: Pilotes CPI-8. Valencia
 = Yepes, V. (2014). Maquinaria para sondeos y perforaciones. Valencia: Universitat Politècnica de València
@@ -86,35 +84,37 @@
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ Conductores. Boletín Oficial del Stado  →  España. (8 de 05 de 2009). Real Decreto Ley 888/2009 Reglamento General de Conductores. Boletín Oficial del Stado
-~ Plataforma Edificación Passivhaus. (02 de 12 de 2019). PEP. Hacia un consumo nulo de energía. Otra forma de construir. Obtenido de http://www.plataforma-pep.org/ Project Management Institute, PMI . (2004). PMBOK Project Management Base Of Knowledge. PMI. 4ª Edición  →  Plataforma Edificación Passivhaus. (02 de 12 de 2019). PEP. Hacia un consumo nulo de energía. Otra forma de construir. Obtenido de http://www.plataforma-pep.org/
-~ Edificación. BOE núm. 266. Madrid: Ministerio de Hacienda y Administraciones Públicas  →  Jefatura del Estado. Gobierno de España. (1999). Ley 38/1999 de Ordenación de la Edificación. BOE núm. 266. Madrid: Ministerio de Hacienda y Administraciones Públicas
-~ AFEMMA Agrupa empresas que representan el 90% de la producción nacional y el 96% de la exportación total del sector de la madera. Máquinas, equipos, herramientas y productos para trabajar y procesar la madera ANAPAT Asociación Nacional de Alquiladores de Plataformas Aéreas de Trabajo Creada en 1993 engloba a los alquiladores de plataformas elevadoras de trabajo representando a más 25.000 plataformas elevadoras y a 43 empresas en todo el territorio nacional  →  AFEMMAAgrupa empresas que representan el 90% de la producción nacional y el 96% de la exportación total del sector de la madera. Máquinas, equipos, herramientas y productos para trabajar y procesar la madera
-~ Oviedo: Escuela Politécnica de Ingeniería de Minas y Energía  →  Ruiz Franco, G. (2015). Manual de costes para una empresa de movimiento de tierras. Oviedo: Escuela Politécnica de Ingeniería de Minas y Energía
-~ Salas, J., & Oteiza, I. (2009). Estrategias divergentes de industrialización abierta para una edificación pretenciosamente sostenible. Informes de la Construcción, 61(513), 11-31. doi:10.3989/ic.08.050 Sánchez del Río y Sierra, C. (s.f.). La civilización de las máquinas. Tres invenciones en tres siglos  →  Sánchez del Río y Sierra, C. (s.f.). La civilización de las máquinas. Tres invenciones en tres siglos
-~ Facultad de Ingeniería de Mérida-Venezuela  →  Ucar Navarro, R. (2002). Manual de Anclajes en Obras de Tierra. Mérida (Venezuela): Facultad de Ingeniería de Mérida-Venezuela
-~ Maquinaria para movimiento de tierras. Maquinaria de compactación. Madrid: AENOR  →  AENOR. Asociación Español de Normalización y Certificación. (2011). UNE-ISO 8811-2011. Maquinaria para movimiento de tierras. Maquinaria de compactación. Madrid: AENOR
-~ Madrid: Boletín Oficial del Estado. para la utilización por los trabajadores de los equipos de trabajo. (274). Madrid: Boletín F2008181Q Oficial del Estado  →  España. (2004). Real Decreto Ley 2177/2004. disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo. (274). Madrid: Boletín Oficial del Estado
-~ Maquinaria para movimiento de tierras. Traíllas. Terminología y especificaciones comerciales. Madrid, España: AENOR  →  AENOR. Asociación Española de Normalización y Certificación. (Noviembre de 2004). Maquinaria para movimiento de tierras. Retrocargadoras. Terminología y especificaciones comerciales. Madrid, España: AENOR
-~ Barelles Vicente, Emma. Calidad en la Edificación y Su Control. Valencia: Universidad Politécnica de Valencia, 2007. ISBN 9788483631935 Burstein, David. Project management: manual de gestión de proyectos para arquitectos, ingenieros e interioristas / David Burstein, Frank Stasiowski. Barcelona: Gustavo Gili, 2011. ISBN 9788425217012 documentos / J. Eduardo Caamaño. Málaga: Vértice, 2012. ISBN 9788499311371 Fernández Romero, Francisco José. El contrato de project management en la construcción pública y privada / Francisco José Fernández Romero. Sevilla: Hispalex, 2011  →  Fernández Romero, Francisco José. (2011).El contrato de Project Management en la construcción pública y privada |. Hispalex. http://www.marcialpons.es/libros/el-contrato-de-project-management-en-la-construccion-publica-y-privada/9788461500796/
-~ Valencia: Universidad Politécnica de Valencia  →  Oliver Faubel, I. (2010). Documentos y procedimiento para la instalación de un apeo/apuntalamiento. Valencia: Universidad Politécnica de Valencia
-~ Maquinaria para movimiento de tierras. Retrocargadoras. Terminología y especificaciones comerciales. Madrid, España: AENOR  →  AENOR. Asociación Española de Normalización y Certificación. (Noviembre de 2004). Maquinaria para movimiento de tierras. Retrocargadoras. Terminología y especificaciones comerciales. Madrid, España: AENOR
-~ F2008181Q para la utilización por los trabajadores de los equipos de trabajo. (188). Madrid: Boletín Oficial del Estado  →  España. (18 de Julio de 1997). Real Decreto Ley 1215/97. disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo. (188). Madrid: Boletín Oficial del Estado
-~ Comisión Europea de Empresa e Industria. (2010). Guía para la aplicación de la Directiva Comunidad de Madrid. Consejería de Empleo, Turismo y Cultura. (2012). Derribos (desarme y derribo manual). Madrid: Comunida de Madrid  →  Comunidad de Madrid. Consejería de Empleo, Turismo y Cultura. (2012). Derribos (desarme y derribo manual). Madrid: Comunida de Madrid
-~ Atayo S.A. (Octubre de 2018). PREOC Base de precios. Obtenido de http://www.preoc.es/#!1645200007 Avintia. Grupo. (2020). Libro blanco sobre la industrialización en la construcción. Avintia Industrial  →  Atayo S.A. (Octubre de 2018). PREOC Base de precios. Obtenido de http://www.preoc.es/#!1645200007
-~ Procedimiento para la inspección reglamentaria. Grúas. Grúas torre u otras aplicaciones  →  Aenor. Asociación Española de Normalización y Certificación. (2012). UNE 192002. Procedimiento para la inspección reglamentaria. Grúas. Grúas torre u otras aplicaciones. Madrid: AENOR
-~ Maquinaria móvil para construcción de carreteras. Requisitos específicos para fresadoras de firmes. Madrid: AENOR  →  AENOR. Asociación de Normalización y Certificación. (2008). UNE-EN 500-2-2007+A1. Maquinaria móvil para construcción de carreteras. Requisitos específicos para fresadoras de firmes. Madrid: AENOR
-~ Maquinaria para movimiento de tierras. Dúmperes. Terminología y especificaciones comerciales. Madrid, España: AENOR  →  AENOR. Asociación Española de Normalización y Certificación. (Noviembre de 2004). Maquinaria para movimiento de tierras. Retrocargadoras. Terminología y especificaciones comerciales. Madrid, España: AENOR
-~ Cartagena: Urbanizadora e Inmobiliaria Cartagenera, S.A  →  Valverder Orenes, F. (2011). La Gestión Medioambiental en Obras de Construcción. Cartagena: Urbanizadora e Inmobiliaria Cartagenera, S.A
-~ Maquinaria para movimiento de tierras. Tipos básicos. Madrid: AENOR  →  AENOR. Asociación de Normalización y Certificación. (2012). UNE-EN ISO 6165. Maquinaria para movimiento de tierras. Tipos básicos. Madrid: AENOR
 ~ Maquinaria para movimiento de tierras. Motoniveladoras. Madrid: AENOR  →  AENOR. Asociación Española de Normalización y Certificación. (2014). UNE-ISO 7134. Maquinaria para movimiento de tierras. Motoniveladoras. Madrid: AENOR
-~ Madrid: Boletín Oficial del Estado  →  España. (18 de Julio de 1997). Real Decreto Ley 1215/97. disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo. (188). Madrid: Boletín Oficial del Estado
+~ Barelles Vicente, Emma. Calidad en la Edificación y Su Control. Valencia: Universidad Politécnica de Valencia, 2007. ISBN 9788483631935 Burstein, David. Project management: manual de gestión de proyectos para arquitectos, ingenieros e interioristas / David Burstein, Frank Stasiowski. Barcelona: Gustavo Gili, 2011. ISBN 9788425217012 documentos / J. Eduardo Caamaño. Málaga: Vértice, 2012. ISBN 9788499311371 Fernández Romero, Francisco José. El contrato de project management en la construcción pública y privada / Francisco José Fernández Romero. Sevilla: Hispalex, 2011  →  Fernández Romero, Francisco José. (2011).El contrato de Project Management en la construcción pública y privada |. Hispalex. http://www.marcialpons.es/libros/el-contrato-de-project-management-en-la-construccion-publica-y-privada/9788461500796/
+~ F2008181Q para la utilización por los trabajadores de los equipos de trabajo. (188). Madrid: Boletín Oficial del Estado  →  España. (2004). Real Decreto Ley 2177/2004. disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo. (188). Madrid: Boletín Oficial del Estado
+~ Maquinaria para movimiento de tierras. Retrocargadoras. Terminología y especificaciones comerciales. Madrid, España: AENOR  →  AENOR. Agencia Española de la Normalización y la Certificación. (Diciembre de 2003). UNE 115401. Maquinaria para movimiento de tierras. Tractores. Terminología y especificaciones comerciales. Madrid, España: AENOR
 ~ Hill, D. (Julio de 1991). Ingeniería mecánica en el Islam medieval. Investigación y Ciencia, INTEREMPRESAS. (Septiembre de 2022). Canales sectoriales Interempresas. OBRAS Bomag-propone-una-mayor-movilidad-con-gas.html KÖMMERLING. (2021). Construcción industrializada. La guía definitiva  →  Hill, D. (Julio de 1991). Ingeniería mecánica en el Islam medieval. Investigación y Ciencia, 178
+~ Cartagena: Urbanizadora e Inmobiliaria Cartagenera, S.A  →  Valverder Orenes, F. (2011). La Gestión Medioambiental en Obras de Construcción. Cartagena: Urbanizadora e Inmobiliaria Cartagenera, S.A
+~ Maquinaria para movimiento de tierras. Dúmperes. Terminología y especificaciones comerciales. Madrid, España: AENOR  →  AENOR. Agencia Española de la Normalización y la Certificación. (Diciembre de 2003). UNE 115401. Maquinaria para movimiento de tierras. Tractores. Terminología y especificaciones comerciales. Madrid, España: AENOR
+~ Comisión Europea de Empresa e Industria. (2010). Guía para la aplicación de la Directiva Comunidad de Madrid. Consejería de Empleo, Turismo y Cultura. (2012). Derribos (desarme y derribo manual). Madrid: Comunida de Madrid  →  Comunidad de Madrid. Consejería de Empleo, Turismo y Cultura. (2012). Derribos (desarme y derribo manual). Madrid: Comunida de Madrid
+~ AENOR. Asociación de Normalización y Certificación. (2012). UNE-EN ISO 6165  →  AENOR. Asociación Española de Normalización y Certificación. (Diciembre de 2012). UNE-EN ISO 6165. Maquinaria para movimiento de tierras. Tipos básicos. Identificación, términos y definiciones. Madrid, España
+~ Facultad de Ingeniería de Mérida-Venezuela  →  Ucar Navarro, R. (2002). Manual de Anclajes en Obras de Tierra. Mérida (Venezuela): Facultad de Ingeniería de Mérida-Venezuela
+~ Maquinaria para movimiento de tierras. Tipos básicos. Madrid: AENOR  →  AENOR. Asociación Española de Normalización y Certificación. (Diciembre de 2012). UNE-EN ISO 6165. Maquinaria para movimiento de tierras. Tipos básicos. Identificación, términos y definiciones. Madrid, España
+~ Procedimiento para la inspección reglamentaria. Grúas. Grúas torre u otras aplicaciones  →  Aenor. Asociación Española de Normalización y Certificación. (2012). UNE 192002. Procedimiento para la inspección reglamentaria. Grúas. Grúas torre u otras aplicaciones. Madrid: AENOR
+~ Plataforma Edificación Passivhaus. (02 de 12 de 2019). PEP. Hacia un consumo nulo de energía. Otra forma de construir. Obtenido de http://www.plataforma-pep.org/ Project Management Institute, PMI . (2004). PMBOK Project Management Base Of Knowledge. PMI. 4ª Edición  →  Plataforma Edificación Passivhaus. (02 de 12 de 2019). PEP. Hacia un consumo nulo de energía. Otra forma de construir. Obtenido de http://www.plataforma-pep.org/
+~ Vaquero, M. (02 de 12 de 2019). El blog ACH. Obtenido de Asociaciones del sector Asociación Española de Manutención Engloba a todas las empresas relacionadas con el sector de la Manutención Industrial y representa en España a la Federación Europea de la Manutención (FEM)  →  Engloba a todas las empresas relacionadas con el sector de la Manutención Industrial y representa en España a la Federación Europea de la Manutención (FEM)
+~ Madrid: Boletín Oficial del Estado. para la utilización por los trabajadores de los equipos de trabajo. (274). Madrid: Boletín F2008181Q Oficial del Estado  →  España. (2004). Real Decreto Ley 2177/2004. disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo. (274). Madrid: Boletín Oficial del Estado
+~ Salas, J., & Oteiza, I. (2009). Estrategias divergentes de industrialización abierta para una edificación pretenciosamente sostenible. Informes de la Construcción, 61(513), 11-31. doi:10.3989/ic.08.050 Sánchez del Río y Sierra, C. (s.f.). La civilización de las máquinas. Tres invenciones en tres siglos  →  Sánchez del Río y Sierra, C. (s.f.). La civilización de las máquinas. Tres invenciones en tres siglos
+~ Maquinaria móvil para construcción de carreteras. Requisitos específicos para fresadoras de firmes. Madrid: AENOR  →  AENOR. Asociación de Normalización y Certificación. (2008). UNE-EN 500-2-2007+A1. Maquinaria móvil para construcción de carreteras. Requisitos específicos para fresadoras de firmes. Madrid: AENOR
+~ Madrid: Boletín Oficial del Estado  →  España. (2004). Real Decreto Ley 2177/2004. disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo. (188). Madrid: Boletín Oficial del Estado
 ~ UNE 115401. Maquinaria para movimiento de tierras. Tractores. Terminología y especificaciones comerciales. Madrid, España: AENOR  →  AENOR. Agencia Española de la Normalización y la Certificación. (Diciembre de 2003). UNE 115401. Maquinaria para movimiento de tierras. Tractores. Terminología y especificaciones comerciales. Madrid, España: AENOR
+~ Maquinaria para movimiento de tierras. Traíllas. Terminología y especificaciones comerciales. Madrid, España: AENOR  →  AENOR. Agencia Española de la Normalización y la Certificación. (Diciembre de 2003). UNE 115401. Maquinaria para movimiento de tierras. Tractores. Terminología y especificaciones comerciales. Madrid, España: AENOR
+~ Oviedo: Escuela Politécnica de Ingeniería de Minas y Energía  →  Ruiz Franco, G. (2015). Manual de costes para una empresa de movimiento de tierras. Oviedo: Escuela Politécnica de Ingeniería de Minas y Energía
+~ AENOR. Asociación Española de Normalización y Certificación. (2014). UNE-ISO 7134  →  AENOR. Asociación Española de Normalización y Certificación. (Diciembre de 2012). UNE-EN ISO 6165. Maquinaria para movimiento de tierras. Tipos básicos. Identificación, términos y definiciones. Madrid, España
+~ Maquinaria para movimiento de tierras. Maquinaria de compactación. Madrid: AENOR  →  AENOR. Asociación Español de Normalización y Certificación. (2011). UNE-ISO 8811-2011. Maquinaria para movimiento de tierras. Maquinaria de compactación. Madrid: AENOR
+~ Valencia: Universidad Politécnica de Valencia  →  Yepes Piqueras, V. (2024).Estructuras auxiliares en la construcción: Andamios, apeos, entibaciones, encofrados y cimbras. edUPV, Universidad Politécnica de Valencia
+~ Edificación. BOE núm. 266. Madrid: Ministerio de Hacienda y Administraciones Públicas  →  Jefatura del Estado. Gobierno de España. (1999). Ley 38/1999 de Ordenación de la Edificación. BOE núm. 266. Madrid: Ministerio de Hacienda y Administraciones Públicas
 
 ✅ Recursos añadidos:
 ------------------------------
 + AEM.Asociación Española de ManutenciónEngloba a todas las empresas relacionadas con el sector de la Manutención Industrial y representa en España a la Federación Europea de la Manutención (FEM)
-+ ANAPATAsociación Nacional de Alquiladores de Plataformas Aéreas de TrabajoCreada en 1993 engloba a los alquiladores de plataformas elevadoras de trabajo representando a más 25.000 plataformas elevadoras y a 43 empresas en todo el territorio nacional
++ AENOR. Asociación de Normalización y Certificación. (2012). UNE-EN ISO 6165. Maquinaria para movimiento de tierras. Tipos básicos. Madrid: AENOR
++ AFEMMAAgrupa empresas que representan el 90% de la producción nacional y el 96% de la exportación total del sector de la madera. Máquinas, equipos, herramientas y productos para trabajar y procesar la madera
 + ANDICOPAsociación Nacional de Distribuidores e Importadores de Maquinaria de Obras Públicas, Minería y Construcción
 + ANMOPYCAsociación Española de Fabricantes Exportadores de Maquinaria para Construcción, Obras Públicas yMineríaRepresenta a 94 asociados, el equivalente al 80% del total de la industria de fabricantes de equipamiento de construcción y obra pública en España
 + ASEAMACAsociación Española de Alquiladores de Maquinaria para la Construcción e Industria sin OperadorIntegra a las principales empresas de alquiler de maquinaria auxiliar para la construcción, industria y servicios sin operador. Esta asociación representa el 74 % del parque de maquinaria auxiliar y representa en España a la Asociación Europea de Alquiladores (ERA)
@@ -125,11 +125,10 @@
 + Asociación Española de Fabricantes Exportadores de Maquinaria para Construcción, Obras Públicas y
 + Asociación Española de Manutención
 + Asociación Nacional de Alquiladores de Plataformas Aéreas de Trabajo
-+ Asociación Nacional de Distribuidores e Importadores de Maquinaria de Obras Públicas, Minería y Construcción
++ Asociación Nacional de Fabricantes de Bienes de Equipo
 + Asociación de Empresas Constructoras y Concesionarias de Infraestructuras
-+ Avintia. Grupo. (2020). Libro blanco sobre la industrialización en la construcción. Avintia Industrial
++ Atayo S.A. (Octubre de 2018). PREOC Base de precios. Obtenido de http://www.preoc.es/#!1645200007
 + BATIMATFeria Internacional de Edificación
-+ BAUMA CHINA
 + BAUMAFeria Internacional de Maquinaria para Construcción, Materiales de Construcción, Minería, Vehículos y Equipos
 + Ballester, L. V. G., Vicente, E. B., Ochoa, E. V., & Ibáñez, R. G. (2007).CALIDAD EN LA EDIFICACIÓN Y SU CONTROL. Universitat Politècnica de València
 + Barber Lloret, P. (2000).Maquinaria de obras públicas: Máquinas y equipos, movimientos de tierras. Club universitario
@@ -138,6 +137,7 @@
 + Barber Lloret, P. (2009).Maquinaria de obras públicas II: Maquinaria y equipos(4a ed.). Club universitario
 + CEMAT ASIA
 + CEMATFeria Mundial de Logística
++ CONEXPO CON/AGGFeria Internacional de Equipos y Maquinaria para Construcción y tratamiento de Áridos
 + CONSTRUMATSalón Internacional de la Construcción
 + CTT
 + Caamaño, J. Eduardo. (2013).Project Management Práctico: Técnicas, Herramientas y Documentos. Círculo Rojo-Docencia
@@ -150,14 +150,14 @@
 + Creada en 1993 engloba a los alquiladores de plataformas elevadoras de trabajo representando a más 25.000 plataformas elevadoras y a 43 empresas en todo el territorio nacional
 + Cusa, J. de. (2002).Derribos y demoliciones. Ceac
 + En esta asociación están los fabricantes de equipos y servicios para los sectores de energía eléctrica, química y petroquímica, petróleo, gas y minería, construcción y obra civil, agricultura, pesca y alimentación, siderurgia y metalurgia, telecomunicaciones, transporte, agua y medio ambiente, educación y sanidad, industria manufacturera. En total representa a 140 empresas individuales y a siete asociaciones sectoriales
-+ Engloba a todas las empresas relacionadas con el sector de la Manutención Industrial y representa en España a la Federación Europea de la Manutención (FEM)
 + Escudero Serrano, M. J. (2022).Manipulación de cargas con carretillas elevadoras(2a ed.). Paraninfo
-+ España. (2004). Real Decreto Ley 2177/2004. disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo. (188). Madrid: Boletín Oficial del Estado
++ España. (18 de Julio de 1997). Real Decreto Ley 1215/97. disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo. (188). Madrid: Boletín Oficial del Estado
 + Feria Internacional de Edificación
 + Feria Internacional de Equipos y Maquinaria para Construcción y tratamiento de Áridos
 + Feria Internacional de Equipos, Maquinaria y Tecnología para la Industria de la Construcción y de los Materiales de Construcción
 + Feria Internacional de Maquinaria para Construcción, Materiales de Construcción, Minería, Vehículos y Equipos
 + Feria Mundial de Logística
++ Ferias del sector
 + Fernández Concellón, P. J. (2020).Elementos de máquimas. Síntesis
 + Fundación Laboral de la Construcción. (2023a).Operaciones con grúa torre(2o edición, marzo 2023). Tornapunta Ediciones
 + Fundación Laboral de la Construcción. (2023b).Operaciones de grúas móviles autopropulsadas(1a edición, enero 2023). Tornapunta Ediciones
@@ -174,7 +174,6 @@
 + KÖMMERLING. (2021). Construcción industrializada. La guía definitiva
 + Liebherr-International Deutschland GmbH. (5 de Octubre de 2018). Liebherr. Obtenido de https://www.liebherr.com/es/esp/inicio/p%C3%A1gina-de-inicio.html
 + Lock, D., & Asti, L. (2003).Fundamentos de la gestión de proyectos. Aenor. Asociación Española de Normalización y Certificación
-+ Minería
 + Moreno Monsalve, N. A. (with Diez-Silva, M.). (2020).Modelos, metodologías y sistemas de gestión de proyectos. Universidad EAN
 + Morlanes López, M. Á., Santamaría Villascuerna, M., Orna Carmona, M., Andrés Lacasta, J. A., & Fundación Laboral de la Construcción. (2023).Maquinaria de movimiento de tierras: Procedimientos y técnicas operativas(3a edición, octubre 2023). Tornapunta Ediciones
 + Organización Internacional de Normalización. (2015). Sistema de Gestión Ambiental ISO 14001
@@ -182,6 +181,7 @@
 + Project Management Institute, PMI . (2004). PMBOK Project Management Base Of Knowledge. PMI. 4ª Edición
 + Representa a 94 asociados, el equivalente al 80% del total de la industria de fabricantes de equipamiento de construcción y obra pública en España
 + SAIE
++ SALÓN DE MÁQUINAS DE CARRETERAS Y OBRAS
 + SEOPANAsociación de Empresas Constructoras y Concesionarias de Infraestructuras
 + SERCOBEAsociación Nacional de Fabricantes de Bienes de EquipoEn esta asociación están los fabricantes de equipos y servicios para los sectores de energía eléctrica, química y petroquímica, petróleo, gas y minería, construcción y obra civil, agricultura, pesca y alimentación, siderurgia y metalurgia, telecomunicaciones, transporte, agua y medio ambiente, educación y sanidad, industria manufacturera. En total representa a 140 empresas individuales y a siete asociaciones sectoriales
 + SMOPYCSalón Internacional de Maquinaria para Obras Públicas, Construcción y Minería
@@ -197,10 +197,10 @@
 + TEMA 1
 + TEMA 2
 + Trujillo Cebrián, J. J. (with Trujillo Cebrián, J. J.). (2023).Proceso y preparación de equipos y medios en trabajos de albañilería. EOCB0109.(1st ed.). Bookwire GmbH
++ Vaquero, M. (02 de 12 de 2019). El blog ACH. Obtenido de https://www.panelesach.com/blog/
 + WORLD OF CONCRETE
 + Yepes Piqueras, V. (2015).Coste, producción y mantenimiento de maquinaria para construcción /. Universitat Politècnica de València
 + Yepes Piqueras, V. (2022).Gestión de costes y producción de maquinaria de construcción. Universidad Politécnica de Valencia
-+ Yepes Piqueras, V. (2024).Estructuras auxiliares en la construcción: Andamios, apeos, entibaciones, encofrados y cimbras. edUPV, Universidad Politécnica de Valencia
 + Yepes Piqueras, V. (with Editorial Universitat Politècnica de València). (2023).Maquinaria y procedimientos de construcción: Problemas resueltos. edUPV
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

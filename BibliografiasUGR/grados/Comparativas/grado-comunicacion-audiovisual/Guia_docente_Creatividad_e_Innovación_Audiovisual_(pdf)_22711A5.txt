@@ -19,15 +19,15 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Parra Pennefather, Patrick (2023) Creative Prototyping with Generative AI. Augmenting Creative Workflows with Generative AI, APress Stallman, R. (2002). Free Software, Free Society: Selected Essays by Richard M. Stallman, Boston: The GNU Press  →  Parra Pennefather, Patrick (2023) Creative Prototyping with Generative AI. Augmenting Creative Workflows with Generative AI, APress
+~ Barcelona: Gedisa Crawford, Chris (2013) on Interactive Storytelling, 2nd Edition, New Riders [Traducción castellana: Cultura Visual Digital. Editorial Paidós. Barcelona. 2002.] Jenkings, Henry (2005). Convergence Culture. Massachussets Institute of Technology Press. Cambridge  →  Crawford, Chris (2013) on Interactive Storytelling, 2nd Edition, New Riders
 ~ Lebowitz, J., Klug, Chris (2011) Interactive Storytelling for Video Games, Elsevier Lessig, Lawrence. (2002). The Future of Ideas. The Fate of the Commons in a Connected World, New York: Vintage Books  →  Lessig, Lawrence. (2002). The Future of Ideas. The Fate of the Commons in a Connected World, New York: Vintage Books
-~ Parra Pennefather, Patrick (2023) Creative Prototyping with Generative AI. Augmenting Creative Workflows with Generative AI, APress Stallman, R. (2002). Free Software, Free Society: Selected Essays by Richard M. Stallman, Boston: The GNU Press  →  Stallman, R. (2002). Free Software, Free Society: Selected Essays by Richard M. Stallman, Boston: The GNU Press
-~ Barcelona: Gedisa Crawford, Chris (2013) on Interactive Storytelling, 2nd Edition, New Riders [Traducción castellana: Cultura Visual Digital. Editorial Paidós. Barcelona. 2002.] Jenkings, Henry (2005). Convergence Culture. Massachussets Institute of Technology Press. Cambridge  →  Jenkings, Henry (2005). Convergence Culture. Massachussets Institute of Technology Press. Cambridge
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Crawford, Chris (2013) on Interactive Storytelling, 2nd Edition, New Riders
 + Darley, Andrew. (2000). Digital Visual Culture. Routledge & Paul Kegan. London. [Traducción castellana: Cultura Visual Digital. Editorial Paidós. Barcelona. 2002.]
++ Jenkings, Henry (2005). Convergence Culture. Massachussets Institute of Technology Press. Cambridge
 + Lebowitz, J., Klug, Chris (2011) Interactive Storytelling for Video Games, Elsevier
-+ Parra Pennefather, Patrick (2023) Creative Prototyping with Generative AI. Augmenting Creative Workflows with Generative AI, APress
++ Stallman, R. (2002). Free Software, Free Society: Selected Essays by Richard M. Stallman, Boston: The GNU Press
 
 📊 Porcentaje estimado de cambio: 58% [█████░░░░░]

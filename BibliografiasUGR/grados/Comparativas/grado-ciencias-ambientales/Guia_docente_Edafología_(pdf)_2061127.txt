@@ -23,15 +23,15 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Porta, L.; López Acevedo M.; Roquero, C. (2003). Edafología para la agricultura y el medio ambiente. ed. Mundi-Prensa Schaetzl, R.J. y Anderson, S. (2009). Soils. Genesis and geomorphology. Cambridge University Press, Cambridge. 8817 pp  →  Schaetzl, R.J. y Anderson, S. (2009). Soils. Genesis and geomorphology. Cambridge University Press, Cambridge. 8817 pp
-~ Prentice Hall. Boston. 614 pp  →  Brady, N. C. y Weil R.R. (2010) Elements of the nature and properties of soils. 3ª Ed. Prentice Hall. Boston. 614 pp
+~ FAO (1977). Guía de descripción de perfiles de suelos. FAO, Roma FAO (2009). Guía de descripción de perfiles de suelos. Ed. Digital. FAO, Rome (Italy). 111 Gisbert, J.M. y Ibáñez, S. (2002). Génesis de suelos. Ed. Univ Politécnica de Valencia. 221 Porta et al (2008). Introducción a la edafología. Uso y protección del suelo, Ed. Mundi- prensa Madrid  →  Gisbert, J.M. y Ibáñez, S. (2002). Génesis de suelos. Ed. Univ Politécnica de Valencia. 221 pp
 ~ metodología. Ministerio Medio Ambiente. Serie Monografías. 3ª ed. Madrid  →  Aguiló M. et al (2007). Guía para la elaboración de estudios del medio físico. Contenido y metodología. Ministerio Medio Ambiente. Serie Monografías. 3ª ed. Madrid
-~ FAO (1977). Guía de descripción de perfiles de suelos. FAO, Roma FAO (2009). Guía de descripción de perfiles de suelos. Ed. Digital. FAO, Rome (Italy). 111 Gisbert, J.M. y Ibáñez, S. (2002). Génesis de suelos. Ed. Univ Politécnica de Valencia. 221 Porta et al (2008). Introducción a la edafología. Uso y protección del suelo, Ed. Mundi- prensa Madrid  →  FAO (1977). Guía de descripción de perfiles de suelos. FAO, Roma
+~ Prentice Hall. Boston. 614 pp  →  Brady, N. C. y Weil R.R. (2010) Elements of the nature and properties of soils. 3ª Ed. Prentice Hall. Boston. 614 pp
+~ Porta, L.; López Acevedo M.; Roquero, C. (2003). Edafología para la agricultura y el medio ambiente. ed. Mundi-Prensa Schaetzl, R.J. y Anderson, S. (2009). Soils. Genesis and geomorphology. Cambridge University Press, Cambridge. 8817 pp  →  Schaetzl, R.J. y Anderson, S. (2009). Soils. Genesis and geomorphology. Cambridge University Press, Cambridge. 8817 pp
 
 ✅ Recursos añadidos:
 ------------------------------
++ FAO (1977). Guía de descripción de perfiles de suelos. FAO, Roma
 + FAO (2009). Guía de descripción de perfiles de suelos. Ed. Digital. FAO, Rome (Italy). 111 pp
-+ Gisbert, J.M. y Ibáñez, S. (2002). Génesis de suelos. Ed. Univ Politécnica de Valencia. 221 pp
 + Porta, L.; López Acevedo M.; Roquero, C. (2003). Edafología para la agricultura y el medio ambiente. ed. Mundi-Prensa
 
 📊 Porcentaje estimado de cambio: 44% [████░░░░░░]

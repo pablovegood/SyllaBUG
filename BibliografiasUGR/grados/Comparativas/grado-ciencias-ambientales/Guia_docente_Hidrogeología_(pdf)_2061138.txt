@@ -29,14 +29,14 @@ No se eliminaron recursos.
 ------------------------------
 ~ GARCIA SANCHEZ, E., ANDREU RODES, J.M., PULIDO BOSCH, A. , JORDÁN VIDAL, M.M., AYANZ LÓPEZ-CUERVO, J.J. (2001). Prácticas de hidrogeología para estudiantes de Ciencias Ambientales. Editorial de Universidad Miguel Hernández-Elche (Alicante) HUDAK, P.F. (2000).- “Principles of Hydrogeology”. Lewis Pub., 204 pg  →  HUDAK, P.F. (2000).- “Principles of Hydrogeology”. Lewis Pub., 204 pg
 ~ SANDERS, L.L. (1998).- “A manual of Field Hydrogeology” Prentice-Hall SCHOELLER, H. (1962).- "Les Eaux souterraines". Ed. Masson  →  SANDERS, L.L. (1998).- “A manual of Field Hydrogeology” Prentice-Hall
+~ FETTER, C.W.J.R. (1980).- "Applied Hydrogeology". Charles E. Merrill. Pub. Co. (3ª ed., Prentice-Hall, 1994, 691 pg, nueva edición en 2001) FETTER, C.W.J.R. (1999).- “Contaminant Hydrogeology” Prentice-Hall Inc., 500 pg  →  FETTER, C.W.J.R. (1999).- “Contaminant Hydrogeology” Prentice-Hall Inc., 500 pg
 ~ Universidad de Almería  →  PULIDO BOSCH, A. (2007) . Nociones de hidrogeología para ambientólogos. Ed. Universidad de Almería
-~ FETTER, C.W.J.R. (1980).- "Applied Hydrogeology". Charles E. Merrill. Pub. Co. (3ª ed., Prentice-Hall, 1994, 691 pg, nueva edición en 2001) FETTER, C.W.J.R. (1999).- “Contaminant Hydrogeology” Prentice-Hall Inc., 500 pg  →  FETTER, C.W.J.R. (1980).- "Applied Hydrogeology". Charles E. Merrill. Pub. Co. (3ª ed., Prentice-Hall, 1994, 691 pg, nueva edición en 2001)
 
 ✅ Recursos añadidos:
 ------------------------------
 + BRASSINGTON, R. (1988).- "Field Hydrogeology". Open University Press, John Wiley & Sons
 + DAVIS, S.N. y DE WIEST, R.J.M. (1966).- "Hydrogeology". Ed. John Wiley and Sons, (trad. castellana: Ed. Ariel)
-+ FETTER, C.W.J.R. (1999).- “Contaminant Hydrogeology” Prentice-Hall Inc., 500 pg
++ FETTER, C.W.J.R. (1980).- "Applied Hydrogeology". Charles E. Merrill. Pub. Co. (3ª ed., Prentice-Hall, 1994, 691 pg, nueva edición en 2001)
 + GARCIA SANCHEZ, E., ANDREU RODES, J.M., PULIDO BOSCH, A. , JORDÁN VIDAL, M.M., AYANZ LÓPEZ-CUERVO, J.J. (2001). Prácticas de hidrogeología para estudiantes de Ciencias Ambientales. Editorial de Universidad Miguel Hernández-Elche (Alicante)
 + SCHOELLER, H. (1962).- "Les Eaux souterraines". Ed. Masson
 + TODD, D.K. (1972).- "Groundwater Hydrology". John Wiley and Sons, Inc. (trad. Ed. Paraninfo)

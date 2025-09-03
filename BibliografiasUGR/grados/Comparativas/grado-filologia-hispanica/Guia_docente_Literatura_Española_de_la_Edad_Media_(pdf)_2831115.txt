@@ -10,6 +10,7 @@ No se eliminaron recursos.
 = Antonio Bosch, Barcelona, 1980. López Estrada, F., Introducción a la literatura medieval española, Gredos, Madrid, 1974
 = Boletín Bibliográfico de la Asociación Hispánica de Literatura Medieval. Crespillo, M. (Ed)., Lara Garrido, J. (comp.)
 = Comentario de textos literarios, Universidad de Málaga, 1997
+= Curtius, E. R., Literatura europea y Edad media latina, 2 vols., FCE, Madrid, 1976
 = Deyermond, A., Historia de la literatura española 1: La Edad Media, Ariel, Barcelona, 1994
 = Dronke, P., La lírica en la Edad Media, Barcelona, Ariel, 1995
 = Duby, G., Los tres órdenes o lo imaginario del feudalismo, Taurus, Madrid, 1992
@@ -41,12 +42,11 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Auerbach, E. ,Figura, Trotta, Madrid, 11988 Curtius, E. R., Literatura europea y Edad media latina, 2 vols., FCE, Madrid, 1976  →  Auerbach, E. ,Figura, Trotta, Madrid, 11988
-~ Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981 Gómez Redondo, F., Historia de la prosa medieval, 4 vols., Madrid, Cátedra, 2002  →  Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981
+~ Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981 Gómez Redondo, F., Historia de la prosa medieval, 4 vols., Madrid, Cátedra, 2002  →  Gómez Redondo, F., Historia de la prosa medieval, 4 vols., Madrid, Cátedra, 2002
 
 ✅ Recursos añadidos:
 ------------------------------
-+ Curtius, E. R., Literatura europea y Edad media latina, 2 vols., FCE, Madrid, 1976
-+ Gómez Redondo, F., Historia de la prosa medieval, 4 vols., Madrid, Cátedra, 2002
++ Auerbach, E. ,Figura, Trotta, Madrid, 11988
++ Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

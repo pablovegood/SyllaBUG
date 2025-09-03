@@ -14,11 +14,11 @@ No se eliminaron recursos.
 = DOBSON, S. 2004. Introduction to Limnology. McGraw-Hill
 = DODDS, W.K. & WHILES, M.R. 2019. Freshwater Ecology: concepts and environmental applications of Limnology. 3rd edition. Academic Press
 = GARCÍA DE JALÓN, D. & GONZÁLEZ DEL TÁNAGO, M. 2007. Restauración de ríos: Guía Metodológica para la elaboración de proyectos. Ministerio de Medio Ambiente y Medio Rural y Marino
-= HAUER, F.R. & LAMBERTI, G.A. (Eds.). 2017. Methods in stream ecology: Volume 1: Ecosystem structure. Academic Press
 = HILDREW, A. & GILLER, P. 2023. The biology and ecology of streams and rivers. Oxford University Press
 = HORNE, A.J. & GOLDMAN, C.R. 1994. Limnology. 2nd edition. McGraw-Hill
 = JORGENSEN, S.E. 1993. Guidelines of lake management. Vol. 5. Management of lake acidification. ILEC & UNEP
 = KALFF, J. 2004. Limnology. Pearson
+= LAMBERTI, G.A. & HAUER, F.R. (Eds.). 2017. Methods in stream ecology: Volume 2: Ecosystem function. Academic Press
 = LAMPERT, W. & SOMMER, U. 2007. Limnoecology. The ecology of lakes and streams. 2nd edition. Oxford University Press
 = MAGDALENO MAS, F. 2011. Manual de técnicas de restauración fluvial. Centro de Estudios y Experimentación de Obras Públicas
 = MALLIN, M.A. 2023. River Ecology: Science and Management for a Changing World. Oxford University Press
@@ -32,12 +32,12 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ O'SULLIVAN, P. & REYNOLDS, C.S. (Eds.). 2008. The lakes handbook: limnology and PETTS, G. & CALOW, P. 1996. River restoration. Blackwell Science  →  PETTS, G. & CALOW, P. 1996. River restoration. Blackwell Science
-~ CALOW, P.P. & PETTS, G.E. (Eds.). 2009. The rivers handbook: hydrological and ecological CHAPRA, S.C. 2008. Surface water-quality modelling. Waveland Press, Inc  →  CHAPRA, S.C. 2008. Surface water-quality modelling. Waveland Press, Inc
-~ HARPER, D.M. & FERGUSON, A. 1994. The ecological basis for river management. John HARPER, D. 1992. Eutrophication of freshwaters. Principles, problems and restoration  →  HARPER, D. 1992. Eutrophication of freshwaters. Principles, problems and restoration. Springer
-~ Oxford University Press  →  MALLIN, M.A. 2023. River Ecology: Science and Management for a Changing World. Oxford University Press
-~ Ecosystem structure. Academic Press  →  HAUER, F.R. & LAMBERTI, G.A. (Eds.). 2017. Methods in stream ecology: Volume 1: Ecosystem structure. Academic Press
 ~ Ecosystem function. Academic Press  →  LAMBERTI, G.A. & HAUER, F.R. (Eds.). 2017. Methods in stream ecology: Volume 2: Ecosystem function. Academic Press
+~ HARPER, D.M. & FERGUSON, A. 1994. The ecological basis for river management. John HARPER, D. 1992. Eutrophication of freshwaters. Principles, problems and restoration  →  HARPER, D. 1992. Eutrophication of freshwaters. Principles, problems and restoration. Springer
+~ CALOW, P.P. & PETTS, G.E. (Eds.). 2009. The rivers handbook: hydrological and ecological CHAPRA, S.C. 2008. Surface water-quality modelling. Waveland Press, Inc  →  CHAPRA, S.C. 2008. Surface water-quality modelling. Waveland Press, Inc
+~ Ecosystem structure. Academic Press  →  HAUER, F.R. & LAMBERTI, G.A. (Eds.). 2017. Methods in stream ecology: Volume 1: Ecosystem structure. Academic Press
+~ O'SULLIVAN, P. & REYNOLDS, C.S. (Eds.). 2008. The lakes handbook: limnology and PETTS, G. & CALOW, P. 1996. River restoration. Blackwell Science  →  PETTS, G. & CALOW, P. 1996. River restoration. Blackwell Science
+~ Oxford University Press  →  MALLIN, M.A. 2023. River Ecology: Science and Management for a Changing World. Oxford University Press
 
 ✅ Recursos añadidos:
 ------------------------------

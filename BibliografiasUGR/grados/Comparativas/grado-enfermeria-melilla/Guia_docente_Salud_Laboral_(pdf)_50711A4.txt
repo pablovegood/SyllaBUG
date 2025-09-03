@@ -15,13 +15,13 @@
 = José Manuel García Martín.Enfermería del Trabajo. Manual CTO de Enfermería, 6.ª ed. Madrid: CTO Editorial, 2013
 = Ministerio de Sanidad.Actualización n.º 604. Enfermedad por el coronavirus (COVID-19). Madrid: Centro de Coordinación de Alertas y Emergencias Sanitarias, s.f
 = Ministerio de Sanidad.Orden SAS/1348/2009, de 6 de mayo, por la que se aprueba y publica el programa formativo de la especialidad de Enfermería del Trabajo
+= Rafael Jesús López Suárez.Manual didáctico de Salud Laboral para Enfermería. Andalucía: Sindicato de Enfermería, 2008
 = Teresa Sánchez Moñino et al.Guía para la prevención de las agresiones a profesionales sanitarios. Murcia: Sindicato de Enfermería, 2009
 = Teresa Sánchez Moñino et al.Guía sobre consecuencias del trabajo nocturno y a turnos sobre la salud, el bienestar y la actividad laboral. Murcia: Sindicato de Enfermería, 2010
 = ​​​​José Antonio Peña Bayo y María Sanz Laina.Manual de salud laboral. Madrid: Fundación para el Desarrollo de la Enfermería; Olalla Ediciones S.L., 1996
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Sindicato de Enfermería, 2008  →  Teresa Sánchez Moñino et al.Guía para la prevención de las agresiones a profesionales sanitarios. Murcia: Sindicato de Enfermería, 2009
 ~ CTO Editorial. Madrid, 2013  →  José Manuel García Martín.Enfermería del Trabajo. Manual CTO de Enfermería, 6.ª ed. Madrid: CTO Editorial, 2013
 ~ McGraw-Hill. Interamericana, 2003  →  Juan José Gestal Otero.Riesgos laborales del personal sanitario. 3.ª ed. Madrid: McGraw-Hill Interamericana, 2003
 
@@ -30,6 +30,5 @@
 + BIBLIOGRAFÍA COMPLEMENTARIA
 + BIBLIOGRAFÍA FUNDAMENTAL
 + Boletín Oficial del Estado.Código Laboral y de la Seguridad Social. Madrid, 2015
-+ Rafael Jesús López Suárez.Manual didáctico de Salud Laboral para Enfermería. Andalucía: Sindicato de Enfermería, 2008
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

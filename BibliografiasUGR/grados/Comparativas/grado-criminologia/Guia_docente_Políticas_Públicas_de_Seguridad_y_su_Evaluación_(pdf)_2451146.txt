@@ -12,11 +12,11 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ _______ 1996, Problemas Públicos y Agenda de Gobierno. Miguel Ángel Porrúa. Grupo Editorial, México  →  _______ (1996). Problemas Públicos y Agenda de Gobierno. México, Miguel Ángel Porrúa
-~ Pérez, M. (Ed.) 2005, El Análisis de las Políticas Públicas. Universidad de Granada, Granada  →  Pérez, M. (ed.) (2005). El Análisis de las Políticas Públicas. Granada, Universidad de Granada
-~ AGRA Cândido da [et. al.] (eds.), La seguridad en la sociedad del riesgo: un debate abierto, (Barcelona : Atelier, 2003) Aguilar, L. (Ed.). 1996, El estudio de las Políticas Públicas. Miguel Ángel Porrúa. Grupo Editorial, México  →  Aguilar, L. (ed.) (1996). El estudio de las Políticas Públicas. México, Miguel Ángel Porrúa
 ~ _______ 1996, La Hechura de las Políticas Públicas. Miguel Ángel Porrúa. Grupo Editorial, México  →  _______ (1996). La Hechura de las Políticas Públicas. México, Miguel Ángel Porrúa
+~ Pérez, M. (Ed.) 2005, El Análisis de las Políticas Públicas. Universidad de Granada, Granada  →  Pérez, M. (ed.) (2005). El Análisis de las Políticas Públicas. Universidad de Granada, Granada
+~ _______ 1996, Problemas Públicos y Agenda de Gobierno. Miguel Ángel Porrúa. Grupo Editorial, México  →  _______ (1996). Problemas Públicos y Agenda de Gobierno. México, Miguel Ángel Porrúa
 ~ _______ 1996, La implementación de las Políticas. Miguel Ángel Porrúa. Grupo Editorial, México  →  _______ (1996). La implementación de las Políticas. México, Miguel Ángel Porrúa
+~ AGRA Cândido da [et. al.] (eds.), La seguridad en la sociedad del riesgo: un debate abierto, (Barcelona : Atelier, 2003) Aguilar, L. (Ed.). 1996, El estudio de las Políticas Públicas. Miguel Ángel Porrúa. Grupo Editorial, México  →  Aguilar, L. (ed.) (1996). El estudio de las Políticas Públicas. México, Miguel Ángel Porrúa
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -46,7 +46,7 @@ No se eliminaron recursos.
 + Monnier, E. (1995). Evaluación de la acción de los poderes públicos. Madrid, Instituto de Estudios Fiscales
 + Parsons, W. (2007). Políticas públicas. Una introducción a la teoría y la práctica del análisis de políticas públicas. México, FLACSO
 + Pérez Sánchez, M. y Trinidad, A. (2010). Análisis y evaluación de políticas sociales. Madrid, Tecnos
-+ Pérez, M. (ed.) (2005). El Análisis de las Políticas Públicas. Universidad de Granada, Granada
++ Pérez, M. (ed.) (2005). El Análisis de las Políticas Públicas. Granada, Universidad de Granada
 + Reinares, F. (1998) Terrorismo y antiterrorismo. Barcelona, Paidós
 + Subirats, J. (1989). Análisis de políticas públicas y eficacia de la administración. Madrid, Ministerio para las Administraciones Públicas
 + Subirats, J., Knoepfel, P., Larrue, C. y Varone, F. (2008). Análisis y gestión de políticas públicas. Barcelona, Ariel

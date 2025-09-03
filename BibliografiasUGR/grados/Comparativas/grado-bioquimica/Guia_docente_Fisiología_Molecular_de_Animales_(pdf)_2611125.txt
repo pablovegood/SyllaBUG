@@ -46,11 +46,11 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Cengage Learning, 2013  →  Amitrano R, Tortora G. "Anatomy & Physiology laboratory manual", 8ª ed. revisada. Cengage Learning, 2013
-~ Publicaciones periódicas Annual Review of Physiology F2008181Q Physiological Reviews The Journal of Physiology Manuales de prácticas Amitrano R, Tortora G. "Anatomy & Physiology laboratory manual", 8ª ed. revisada  →  Manuales de prácticas
-~ Marieb EN, Smith LA. "Human Anatomy and Physiology laboratory manual", 12ª ed  →  Marieb EN, Smith LA. "Human Anatomy and Physiology laboratory manual", 12ª ed. Pearson, 2021
-~ Wolters Kluwer, 2020  →  Preston RR, Wilson TE. "Fisiología", 2ª ed. Lippincott's Illustrated Reviews Series. Wolters Kluwer, 2020
+~ Publicaciones periódicas Annual Review of Physiology F2008181Q Physiological Reviews The Journal of Physiology Manuales de prácticas Amitrano R, Tortora G. "Anatomy & Physiology laboratory manual", 8ª ed. revisada  →  Publicaciones periódicas
 ~ Simulaciones informáticas Zao P. y otros. PhysioEx 10.0: Laboratory simulations in Physiology. Pearson, 2021  →  Simulaciones informáticas
+~ Wolters Kluwer, 2020  →  Preston RR, Wilson TE. "Fisiología", 2ª ed. Lippincott's Illustrated Reviews Series. Wolters Kluwer, 2020
+~ Cengage Learning, 2013  →  Amitrano R, Tortora G. "Anatomy & Physiology laboratory manual", 8ª ed. revisada. Cengage Learning, 2013
+~ Marieb EN, Smith LA. "Human Anatomy and Physiology laboratory manual", 12ª ed  →  Marieb EN, Smith LA. "Human Anatomy and Physiology laboratory manual", 12ª ed. Pearson, 2021
 ~ Diccionarios y atlas médicos Harper Collins "Diccionario médico ilustrado". Marban, 2017  →  Diccionarios y atlas médicos
 ~ Preston RR, Wilson TE. "Fisiología", 2ª ed. Lippincott's Illustrated Reviews Series  →  Preston RR, Wilson TE. "Fisiología", 2ª ed. Lippincott's Illustrated Reviews Series. Wolters Kluwer, 2020
 
@@ -61,9 +61,9 @@ No se eliminaron recursos.
 + Harper Collins "Diccionario médico ilustrado". Marban, 2017
 + Libros de texto (bibliografía específica)
 + Libros de texto (bibliografía general)
++ Manuales de prácticas
 + Ortiz JM. "Casos prácticos y problemas de Fisiología". Síntesis, 2000
 + Physiological Reviews
-+ Publicaciones periódicas
 + Suckow M, Hankenson FC, Wilson R, Foley P. "The laboratory rat", 3ª ed. Academic Press, 2019
 + The Journal of Physiology
 + Zao P. y otros. PhysioEx 10.0: Laboratory simulations in Physiology. Pearson, 2021

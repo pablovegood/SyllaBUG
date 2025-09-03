@@ -19,10 +19,10 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Edwards, R. y Atkinson, K. (1986) ‑ Ore deposit Geology ‑ Chapman & Hall, London Evans, A.M. (1996) ‑Ore Geology and Industrial Minerals. An Introduction ‑ Elsevier, New York García-Guinea, J. y Martínez-Frías, J. (eds). (1992) - Recursos minerales de España  →  Evans, A.M. (1996) ‑Ore Geology and Industrial Minerals. An Introduction ‑ Elsevier, New York
 ~ Colección Textos universitarios, nº 15. Consejo Superior de Investigaciones Científicas, Madrid  →  García-Guinea, J. y Martínez-Frías, J. (eds). (1992) - Recursos minerales de España. Colección Textos universitarios, nº 15. Consejo Superior de Investigaciones Científicas, Madrid
+~ Harben, O.W. y Bates, R.L. (1984) ‑ Geology of the Nonmetallics‑ Metal Bulletin Inc., New York LeFond, S.J. (1975) - Industrial Minerals and Rocks (nonmetallics other than Fuels). 4ª de. Amer. Inst. Metall. Petrol. Engineers. New York  →  LeFond, S.J. (1975) - Industrial Minerals and Rocks (nonmetallics other than Fuels). 4ª de. Amer. Inst. Metall. Petrol. Engineers. New York
 ~ Park, C.F. Jr. Y MacDiarmid, R.A. (1981) ‑ Yacimientos Minerales ‑ Omega, Barcelona Robb, L. (2005) - Introduction to ore-forming processes. Blackwell Science Ltd  →  Park, C.F. Jr. Y MacDiarmid, R.A. (1981) ‑ Yacimientos Minerales ‑ Omega, Barcelona
-~ Harben, O.W. y Bates, R.L. (1984) ‑ Geology of the Nonmetallics‑ Metal Bulletin Inc., New York LeFond, S.J. (1975) - Industrial Minerals and Rocks (nonmetallics other than Fuels). 4ª de. Amer. Inst. Metall. Petrol. Engineers. New York  →  Harben, O.W. y Bates, R.L. (1984) ‑ Geology of the Nonmetallics‑ Metal Bulletin Inc., New York
+~ Edwards, R. y Atkinson, K. (1986) ‑ Ore deposit Geology ‑ Chapman & Hall, London Evans, A.M. (1996) ‑Ore Geology and Industrial Minerals. An Introduction ‑ Elsevier, New York García-Guinea, J. y Martínez-Frías, J. (eds). (1992) - Recursos minerales de España  →  Evans, A.M. (1996) ‑Ore Geology and Industrial Minerals. An Introduction ‑ Elsevier, New York
 
 ✅ Recursos añadidos:
 ------------------------------
@@ -31,11 +31,11 @@
 + Craig, J.R. y Vaugham, D.J. (1981) - Ore microscopy and ore petrography. John Wiley & Sons. New York
 + Dixon, C.J. (1979) ‑ Atlas of Economic Deposits ‑ Chapman & Hall, London
 + Edwards, R. y Atkinson, K. (1986) ‑ Ore deposit Geology ‑ Chapman & Hall, London
++ Harben, O.W. y Bates, R.L. (1984) ‑ Geology of the Nonmetallics‑ Metal Bulletin Inc., New York
 + Hutchison, Ch.S. (1983) ‑ Economic Deposits and their Tectonic Setting ‑ John Wiley & Sons, New York
 + Jensen, M.L. y Bateman, A.M. (1979) ‑ Economic Mineral Deposits, 3a Ed. ‑ John Wiley & Sons, New York
 + Kuzvart, M. (1984) ‑ Industrial Minerals and Rocks. Developments in Economic Geology. 18 ‑ Elsevier, Amsterdam‑New York
 + Laznicka, P. (1985) ‑ Empirical Metallogeny, vol. 1 A y B ‑ Academic Press
-+ LeFond, S.J. (1975) - Industrial Minerals and Rocks (nonmetallics other than Fuels). 4ª de. Amer. Inst. Metall. Petrol. Engineers. New York
 + Maynard, J.B. (1983) ‑ Geochemistry of Sedimentary Ore Deposits ‑ Springer‑Verlag, Berlin‑Heidelberg‑New York
 + Mitchell, A.H.G. y Garson, M.S. (1981) ‑ Mineral Deposits and Global Tectonic Setting ‑ Academic Press, London‑New York
 + Pohl, W.L. (2011).- Economic Geology: Principles and Practique. Wiley-Blackwell

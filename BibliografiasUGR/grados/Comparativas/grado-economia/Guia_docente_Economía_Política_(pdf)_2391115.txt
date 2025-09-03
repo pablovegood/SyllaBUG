@@ -26,15 +26,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ Sowell, T. (2013): Economía Básica. Deusto, Barcelona Stiglitz J. (1993): Economía. Editorial Ariel Stiglitz, J.E., Rosengard, J.K. (2016): La Economía del Sector Público. Antoni Bosch editor, Barcelona  →  Stiglitz J. (1993): Economía. Editorial Ariel
 ~ Hall, R. y Lieberman M. (2003): Economía, Principios y aplicaciones. 2ªed., Thomson, Kishtainy, Niall (2019): Breve historia de la Economía. Biblioteca Nueva  →  Hall, R. y Lieberman M. (2003): Economía, Principios y aplicaciones. 2ªed., Thomson
+~ Krugman, P., Wells, R. y Graddy, K. (2015): Fundamentos de Economía. 3ª ed., Editorial Reverté, Barcelona Blanco, J. M. (2008): Economía: Teoría y Práctica. 5ª ed., McGraw-Hill, Madrid  →  Blanco, J. M. (2008): Economía: Teoría y Práctica. 5ª ed., McGraw-Hill, Madrid
+~ Sowell, T. (2013): Economía Básica. Deusto, Barcelona Stiglitz J. (1993): Economía. Editorial Ariel Stiglitz, J.E., Rosengard, J.K. (2016): La Economía del Sector Público. Antoni Bosch editor, Barcelona  →  Stiglitz J. (1993): Economía. Editorial Ariel
 ~ Schiller B. (2008): Principios de Economía. McGraw-Hill Sloman, J. (1997): Introducción a la Macroeconomía. 3ª ed. Prentice Hall  →  Schiller B. (2008): Principios de Economía. McGraw-Hill
-~ Krugman, P., Wells, R. y Graddy, K. (2015): Fundamentos de Economía. 3ª ed., Editorial Reverté, Barcelona Blanco, J. M. (2008): Economía: Teoría y Práctica. 5ª ed., McGraw-Hill, Madrid  →  Krugman, P., Wells, R. y Graddy, K. (2015): Fundamentos de Economía. 3ª ed., Editorial Reverté, Barcelona
 
 ✅ Recursos añadidos:
 ------------------------------
 + BIBLIOGRAFÍA DE PRÁCTICAS
-+ Blanco, J. M. (2008): Economía: Teoría y Práctica. 5ª ed., McGraw-Hill, Madrid
 + Carrasco, A. y otros (2004): Cuestiones tipo test de introducción a la economía. Pearson, Prentice Hall. México
 + Castejón, R. y otros. (2001): Libro de prácticas. Economía Teoría y Política. McGraw-Hill, Madrid
 + De Juan, R. (2006): Economía. Teoría y Política. Libro de problemas. McGraw-Hill, Madrid
@@ -44,6 +43,7 @@ No se eliminaron recursos.
 + Gimeno, J.A. y otros (2005): Principios de Economía. Libro de ejercicios. McGraw-Hill, Madrid
 + Jiménez Aguilera J.D. y Sánchez Campillo, J. (1993): Cuestiones y ejercicios de Teoría Económica. Pirámide, Madrid
 + Kishtainy, Niall (2019): Breve historia de la Economía. Biblioteca Nueva
++ Krugman, P., Wells, R. y Graddy, K. (2015): Fundamentos de Economía. 3ª ed., Editorial Reverté, Barcelona
 + Martín-Cobos, M. y Salas Velasco, M. (2008): Prácticas de Economía Positiva. Ed. Comares, Granada
 + Mochón, A. y De Juan, R. (2006): Principios de Economía. Libro de problemas 3ª ed., McGraw-Hill, Madrid
 + Mochón, F. y otros (1994): Economía. Teoría y Política. Libro de problemas. McGraw-Hill

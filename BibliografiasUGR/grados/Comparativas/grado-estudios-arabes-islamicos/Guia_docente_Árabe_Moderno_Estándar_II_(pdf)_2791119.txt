@@ -16,14 +16,14 @@ No se eliminaron recursos.
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
-~ AGUILAR COBOS, J. D., GARCÍA CASTILLO, A. y PALAS SÁNCHEZ, S. As-saqiya A1, Lengua árabe. Albujayra, Almeria, 2015 BRUSTAD, K., AL- BATAL, M. y TONSI, A. Al-Kitab fi Ta`allum al-`Arabiyya. 3ª ed. vol. I (3 vols). Georgetown University Press, Washington, D.C. 2011 (MANUAL DE CLASE) CORTÉS, J. Diccionario de árabe culto moderno. Madrid: Gredos.1996 PARADELA ALONSO, N. Manual de sintaxis árabe. Madrid, 1998  →  AGUILAR COBOS, J. D., GARCÍA CASTILLO, A. y PALAS SÁNCHEZ, S. As-saqiya A1, Lengua árabe. Albujayra, Almeria, 2015
-~ RYDING, K. C. A Reference Grammar of Modern Standard Arabic. Cambridge: Cambridge University Press. 2005 SCHULZ, E., A Student Grammar of Modern Standard Arabic. Cambridge: University Press, 2000  →  RYDING, K. C. A Reference Grammar of Modern Standard Arabic. Cambridge: Cambridge University Press. 2005
+~ AGUILAR COBOS, J. D., GARCÍA CASTILLO, A. y PALAS SÁNCHEZ, S. As-saqiya A1, Lengua árabe. Albujayra, Almeria, 2015 BRUSTAD, K., AL- BATAL, M. y TONSI, A. Al-Kitab fi Ta`allum al-`Arabiyya. 3ª ed. vol. I (3 vols). Georgetown University Press, Washington, D.C. 2011 (MANUAL DE CLASE) CORTÉS, J. Diccionario de árabe culto moderno. Madrid: Gredos.1996 PARADELA ALONSO, N. Manual de sintaxis árabe. Madrid, 1998  →  BRUSTAD, K., AL- BATAL, M. y TONSI, A. Al-Kitab fi Ta`allum al-`Arabiyya. 3ª ed. vol. I (3 vols). Georgetown University Press, Washington, D.C. 2011 (MANUAL DE CLASE)
+~ RYDING, K. C. A Reference Grammar of Modern Standard Arabic. Cambridge: Cambridge University Press. 2005 SCHULZ, E., A Student Grammar of Modern Standard Arabic. Cambridge: University Press, 2000  →  SCHULZ, E., A Student Grammar of Modern Standard Arabic. Cambridge: University Press, 2000
 
 ✅ Recursos añadidos:
 ------------------------------
-+ BRUSTAD, K., AL- BATAL, M. y TONSI, A. Al-Kitab fi Ta`allum al-`Arabiyya. 3ª ed. vol. I (3 vols). Georgetown University Press, Washington, D.C. 2011 (MANUAL DE CLASE)
++ AGUILAR COBOS, J. D., GARCÍA CASTILLO, A. y PALAS SÁNCHEZ, S. As-saqiya A1, Lengua árabe. Albujayra, Almeria, 2015
 + CORTÉS, J. Diccionario de árabe culto moderno. Madrid: Gredos.1996
 + PARADELA ALONSO, N. Manual de sintaxis árabe. Madrid, 1998
-+ SCHULZ, E., A Student Grammar of Modern Standard Arabic. Cambridge: University Press, 2000
++ RYDING, K. C. A Reference Grammar of Modern Standard Arabic. Cambridge: Cambridge University Press. 2005
 
 📊 Porcentaje estimado de cambio: 75% [███████░░░]

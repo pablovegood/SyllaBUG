@@ -8,10 +8,10 @@ No se eliminaron recursos.
 📚 Recursos sin cambios:
 ------------------------------
 = BRONTE ABAURREA, R y LÓPEZ MARTÍNEZ, J: Resistencia de Materiales y Cross
-= GALLEGO, R. y RUS, G. Análisis de Estructuras de Barras. (ETSICCP, UGr)
 = ORTIZ BERROCAL, L. Resistencia de Materiales. 3ª edición. Mc Graw Hill
-= ORTIZ BERROCAL. L. Elasticidad, (UPM)
 = RODRÍGUEZ AVIAL. Problemas de Resistencia de Materiales, (ETSII, UPM)
+= SUAREZ, J. y RODRÍGUEZ, G. Ejercicios de FUNDAMENTOS DE ESTRUCTURAS
+= TIMOSHENKO Resistencia de Materiales. (Espasa-Calpe)
 = TIMOSHENKO, S.P y YOUNG, D.H: Teoría de las Estructuras
 = TIMOSHENKO-JAMES M. GERE Resistencia de Materiales
 
@@ -21,9 +21,9 @@ No hubo cambios de edición/año.
 
 ✅ Recursos añadidos:
 ------------------------------
++ GALLEGO, R. y RUS, G. Análisis de Estructuras de Barras. (ETSICCP, UGr)
 + GRANADOS ROMERA, JJ. Teoría de Estructuras. (ETSICCP, UGr)
-+ SUAREZ, J. y RODRÍGUEZ, G. Ejercicios de FUNDAMENTOS DE ESTRUCTURAS
-+ TIMOSHENKO Resistencia de Materiales. (Espasa-Calpe)
++ ORTIZ BERROCAL. L. Elasticidad, (UPM)
 + TIMOSHENKO Teoría de la Elasticidad
 
 📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

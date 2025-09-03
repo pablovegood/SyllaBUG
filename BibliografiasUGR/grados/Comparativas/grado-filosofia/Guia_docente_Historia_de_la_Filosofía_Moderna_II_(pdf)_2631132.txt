@@ -22,13 +22,13 @@
 = Allison, Henry A, Kant’s Groundwork for the Metaphysics of Morals: A Commentary. New York: Cambridge University Press 2011
 = Allison, Henry A., El idealismo trascendental de Kant: una interpretación y defensa, Barcelona: Anthropos 1992
 = Altman, Matthew C. (ed.). The Palgrave Kant Handbook. London: Palgrave & Springer, 2017
-= Altman, Matthew C. The Palgrave Handbook of German Idealism. London & New York: Palgrave & Springer, 2014
 = Cassirer, Ernst, Kant, vida y doctrina. México: Fondo de Cultura Económica 1993
 = Cerezo Galán, P. Comentario de la Fenomenología del Espíritu de Hegel, Madrid & Granada: Trotta & EUG 2022
 = Cruz Cruz, J., Conciencia y absoluto en Fichte, Pamplona: Universidad de Navarra, 1994
 = Domingo Centeno, M., El derecho a la libertad en Johann Gottlieb Fichte, Madrid: Universidad Complutense de Madrid, 1993
 = Duque, Félix. Historia de la filosofía moderna: la era de la crítica, Madrid: Akal 1998
 = Duque, Félix. Historia de la filosofía moderna: la era de la crítica, Madrid: Akal, 1998
+= Fichte
 = Fichte, Johann Gottleib, Fundamentación de toda la Doctrina de la Ciencia, ed. Juan Cruz Cruz, Pamplona: Universidad de Navarra 2005
 = Fichte, Johann Gottlieb, Primera y Segunda Introducción. Doctrina de la Ciencia nova methodo, ed. Jacinto Rivera de Rosales, Madrid: Ediciones Xorki 2016
 = García Morente, Manuel. La filosofía de Kant. Madrid: Espasa-Calpe 1975
@@ -52,10 +52,10 @@
 = Lukács, G., El joven Hegel y los problemas de la sociedad capitalista, Barcelona: Grijalbo 1972
 = Marcuse, H., La ontología de Hegel, Barcelona: Ediciones Martínez Roca 1970
 = Rovira, Rogelio. «Invitación al estudio de la aetas kantiana. La filosofía trascendental de Kant a la luz de la crítica de sus coetáneos alemanes», Revista de Estudios Kantianos 3, nº 2 (2018): 149‒74
-= Schelling
 = Sánchez Rodríguez, Manuel.Sentimiento y reflexión en la filosofía de Kant. Estudio histórico sobre el problema estético. Hildesheim, etc.: Olms Verlag 2010
 = Sánchez-Rodríguez, Manuel: "Kant and his Philosophical Context. The Reception and Critical Transformation of the Leibniz-Wolffian Philosophy", en M. Altman (ed.), The Palgrave Kant Handbook, London & New York: Palgrave Macmillan 2017
 = Sánchez-Rodríguez, Manuel:"El significado de conocimiento trascendental en la Crítica de la razón pura de Kant", en Anales del Seminario de Historia de la Filosofía 40, 2 (2023): 307–319
+= Taylor, Ch., Hegel, Barcelona: Anthropos, 2010
 = Timmermann, J. Kant’s Groundwork of the Metaphysics of Morals: A Commentary. New York: Cambridge University Press, 2007
 = Villacañas, José Luis. La filosofía del idealimo alemán, 2 vols., Madrid: Síntesis, 2001
 = Von Schelling, Friedrich Wilhelm Joseph, Cartas sobre dogmatismo y criticismo, ed. Virginia Careaga, Madrid: Tecnos, 2013
@@ -68,20 +68,17 @@
 
 🔁 Misma obra con edición/año distinto:
 ------------------------------
+~ Palgrave & Springer, 2014  →  Altman, Matthew C. (ed.). The Palgrave Kant Handbook. London: Palgrave & Springer, 2017
 ~ Von Schelling, Friedrich Wilhelm Joseph, Investigaciones filosóficas sobre el problema de la Anthropos, 1989  →  Schelling
-~ Álvarez, E., El saber del hombre. Una introducción al pensamiento de Hegel, Madrid  →  Álvarez, E., El saber del hombre. Una introducción al pensamiento de Hegel, Madrid: Trotta 2001
 ~ Maybee, Julie E. «Hegel’s Dialectics.” Stanford Encyclopedia of Philosophy, Moran, Kate A., Kant’s Ethics. Cambridge: Cambridge University Press, 2022  →  Kant
-~ Bowie, A. «Friedrich Wilhelm Joseph von Schelling», Stanford Encyclopedia of Philosophy 2016: http://plato.stanford.edu/archives/fall2016/entries/schelling Brandon, R. A Spirit of Trust: A Reading of Hegel's Phenomenology, Harvard University Press 2019  →  Schelling
 ~ Altman, Matthew C. The Palgrave Handbook of German Idealism. London & New York  →  Altman, Matthew C. The Palgrave Handbook of German Idealism. London & New York: Palgrave & Springer, 2014
-~ Sánchez-Rodríguez, Manuel: "Las raíces filosóficas de Kant: Rousseau, Hume, Leibniz", Taylor, Ch., Hegel, Barcelona: Anthropos, 2010  →  Kant
-~ Domingo Centeno, M., El derecho a la libertad en Johann Gottlieb Fichte, Madrid  →  Domingo Centeno, M., El derecho a la libertad en Johann Gottlieb Fichte, Madrid: Universidad Complutense de Madrid, 1993
+~ Bowie, A. «Friedrich Wilhelm Joseph von Schelling», Stanford Encyclopedia of Philosophy 2016: http://plato.stanford.edu/archives/fall2016/entries/schelling Brandon, R. A Spirit of Trust: A Reading of Hegel's Phenomenology, Harvard University Press 2019  →  Brandon, R. A Spirit of Trust: A Reading of Hegel's Phenomenology, Harvard University Press 2019
+~ Álvarez, E., El saber del hombre. Una introducción al pensamiento de Hegel, Madrid  →  Álvarez, E., El saber del hombre. Una introducción al pensamiento de Hegel, Madrid: Trotta 2001
 
 ✅ Recursos añadidos:
 ------------------------------
 + Bibliografía específica
 + Bowie, A. «Friedrich Wilhelm Joseph von Schelling», Stanford Encyclopedia of Philosophy 2016:http://plato.stanford.edu/archives/fall2016/entries/schelling
-+ Brandon, R. A Spirit of Trust: A Reading of Hegel's Phenomenology, Harvard University Press 2019
-+ Fichte
 + Hegel
 + Leyva, Gustavo (ed.). Guía Comares de Kant. Comares, Granada, 2023
 + Manuales
@@ -89,7 +86,6 @@
 + Moran, Kate A., Kant’s Ethics. Cambridge: Cambridge University Press, 2022
 + Pérez- Borbujo Álvarez, F., Schelling: el sistema de la libertad, Barcelona: Herder 2004
 + Sánchez-Rodríguez, Manuel: "Las raíces filosóficas de Kant: Rousseau, Hume, Leibniz", en G. Leyva (ed.), Guía Comares de Kant, Granada, Comares 2023, 21–37
-+ Taylor, Ch., Hegel, Barcelona: Anthropos, 2010
 + Von Schelling, Friedrich Wilhelm Joseph, Investigaciones filosóficas sobre el problema de la libertad humana y los objetos con ella relacionados, dd. Arturo Leyte y Helena Cortés, Barcelona: Anthropos, 1989
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 43% [████░░░░░░]

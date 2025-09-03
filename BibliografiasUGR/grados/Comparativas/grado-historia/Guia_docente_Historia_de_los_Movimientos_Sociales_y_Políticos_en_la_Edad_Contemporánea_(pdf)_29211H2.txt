@@ -12,6 +12,7 @@
 = CASQUETTE, J.: Política, cultura y movimientos sociales. Bilbao, Bakeaz, 1998
 = CASTELLS, M.: La era de la Información. Economía, sociedad y cultura. Vol. 2 El poder de la identidad. Madrid, Alianza Editorial, 1997
 = CASTRO-GÓMEZ, S.: Decolonizar la universidad: la hybris del punto cero y el diálogo de saberes. Siglo del Hombre Editores, 2005
+= CRUZ, R. y PÉREZ LEDESMA, M. (eds.): Cultura y movilización en la España Contemporánea. Madrid, Alianza, 1997
 = DALTON, Russel J. y KUECHLER, M. (comp.): Los nuevos movimientos sociales: un reto al orden político, Valencia, Alfons el Magnànim, 1992
 = EVANS, R.: Las Feministas. Madrid, siglo XXI, 1980
 = FAGOAGA, C.: La voz y el voto de la mujer; editorial Icaria, 1985
@@ -36,6 +37,7 @@
 = MOSSE, G. L.: La cultura europea del siglo XIX y La cultura europea del siglo XX, Ed. Ariel, Barcelona, 1997
 = MUDDE, Cas: La Ultraderecha Hoy, Barcelona, Paidós, 2021
 = NASH, M. y TAVERA, S.: Experiencias desiguales: conflictos sociales y respuestas colectivas. Madrid, Síntesis, 1994
+= OFFE, C.: Partidos políticos y nuevos Movimientos Sociales; editorial Sistema, 1992
 = PANIAGUA, J.: Libertarios y sindicalistas, Anaya, Biblioteca básica de Historia, Madrid, 1989
 = PÉREZ GARZÓN, J. S.: Contra el poder. Conflictos y movimientos sociales en la Historia de España. De la prehistoria al tiempo presente. Granada, Comares, 2015
 = QUIJANO, A. (2000). Colonialidad del poder y clasificación social. Journal of World-Systems Research, 2(2), 342-386
@@ -50,7 +52,6 @@
 = SEWELL, W. J.: Trabajo y revolución en Francia. El lenguaje del movimiento obrero desde el Antiguo Régimen hasta 1848. Madrid, Taurus, 1992
 = STERNHELL, Z.: El nacimiento de la ideología fascista. Madrid, siglo XXI, 1994
 = Sociales; editorial Síntesis, 1993
-= TARROW, S.: El poder en movimiento. Los movimientos sociales, la acción colectiva y la política. Madrid, Alianza, 1997
 = THOMPSON, E. P.: Tradición, revuelta y conciencia de clase, Crítica, Barcelona, 1979
 = THOMPSON, E. P.: “La economía 'moral' de la multitud en la Inglaterra del siglo XVIII”, en E.P. Thompson: Costumbres en Común.Barcelona, Crítica, 1995, pp. 213-293
 = TOURAINE, A.: Movimientos sociales de hoy. Actores y analistas; editorial Hacer, Barcelona, 1990
@@ -64,15 +65,14 @@
 🔁 Misma obra con edición/año distinto:
 ------------------------------
 ~ RUDÉ, G.: La multitud en la historia. Los disturbios populares en Francia e Inglaterra  →  RUDÉ, G.: La multitud en la historia. Los disturbios populares en Francia e Inglaterra. 1730-1848.Madrid, siglo XXI, 1978
-~ TARROW, S.: El poder en movimiento. Los movimientos sociales, la acción colectiva y la política  →  TARROW, S.: El poder en movimiento. Los movimientos sociales, la acción colectiva y la política. Madrid, Alianza, 1997
-~ NÚÑEZ FLORENCIO, R.: Sociedad y política en el siglo XX. Viejos y nuevos Movimientos OFFE, C.: Partidos políticos y nuevos Movimientos Sociales; editorial Sistema, 1992  →  NÚÑEZ FLORENCIO, R.: Sociedad y política en el siglo XX. Viejos y nuevos Movimientos
 ~ THOMPSON, E. P.: “La economía 'moral' de la multitud en la Inglaterra del siglo XVIII”, en E.P  →  THOMPSON, E. P.: “La economía 'moral' de la multitud en la Inglaterra del siglo XVIII”, en E.P. Thompson: Costumbres en Común.Barcelona, Crítica, 1995, pp. 213-293
+~ PÉREZ GARZÓN, J. S.: Contra el poder. Conflictos y movimientos sociales en la Historia de España  →  PÉREZ GARZÓN, J. S.: Contra el poder. Conflictos y movimientos sociales en la Historia de España. De la prehistoria al tiempo presente. Granada, Comares, 2015
+~ TARROW, S.: El poder en movimiento. Los movimientos sociales, la acción colectiva y la política  →  TARROW, S.: El poder en movimiento. Los movimientos sociales, la acción colectiva y la política. Madrid, Alianza, 1997
 ~ CASTRO-GÓMEZ, S.: Decolonizar la universidad: la hybris del punto cero y el diálogo de saberes  →  CASTRO-GÓMEZ, S.: Decolonizar la universidad: la hybris del punto cero y el diálogo de saberes. Siglo del Hombre Editores, 2005
 ~ CRUZ, R. y PÉREZ LEDESMA, M. (eds.): Cultura y movilización en la España Contemporánea  →  CRUZ, R. y PÉREZ LEDESMA, M. (eds.): Cultura y movilización en la España Contemporánea. Madrid, Alianza, 1997
-~ PÉREZ GARZÓN, J. S.: Contra el poder. Conflictos y movimientos sociales en la Historia de España  →  PÉREZ GARZÓN, J. S.: Contra el poder. Conflictos y movimientos sociales en la Historia de España. De la prehistoria al tiempo presente. Granada, Comares, 2015
 
 ✅ Recursos añadidos:
 ------------------------------
-+ OFFE, C.: Partidos políticos y nuevos Movimientos Sociales; editorial Sistema, 1992
++ NÚÑEZ FLORENCIO, R.: Sociedad y política en el siglo XX. Viejos y nuevos Movimientos
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
