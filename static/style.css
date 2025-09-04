@@ -1,27 +1,25 @@
+/* =========================
+   Base
+   ========================= */
 /* =========================================
-   Altura completa del viewport (añadidos)
+   Ajuste de altura para fondo en móviles
    ========================================= */
 html, body {
   height: 100%;
 }
 
-body {
-  /* Fallback y solución moderna para móviles */
-  min-height: 100vh;   /* fallback */
-  min-height: 100dvh;  /* viewport dinámico en iOS/Android */
-}
-
+/* Compatibilidad con nuevas unidades */
 @supports (min-height: 100svh) {
-  body { min-height: 100svh; } /* small viewport height */
+  body { min-height: 100svh; }
 }
 @supports (min-height: 100lvh) {
-  body { min-height: 100lvh; } /* large viewport height */
+  body { min-height: 100lvh; }
 }
 
-/* =========================
-   Base
-   ========================= */
+
 body {
+    min-height: 100vh;
+    min-height: 100dvh;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
@@ -33,7 +31,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed;  /* En escritorio, fijo */
+    background-attachment: fixed;
     background-color: #f4f6f8; /* respaldo */
 }
 
