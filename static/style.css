@@ -364,13 +364,26 @@ a:hover { text-decoration: underline; }
 body.modal-open { overflow: hidden; }
 
 
-/* Ajuste del modal en móviles: que no tape la parte superior */
+
+
+/* --- Modal: bajar en móviles y evitar que quede bajo la barra del navegador --- */
 @media (max-width: 768px) {
   .modal {
-    align-items: flex-start; /* coloca el modal al inicio en vertical */
+    align-items: flex-start;                         /* que no se centre verticalmente */
+    padding-top: calc(env(safe-area-inset-top, 0px)  /* notch / barra iOS si existe */
+                    + 76px);                         /* separa de la barra del navegador */
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
   }
+
   .modal-dialog {
-    margin-top: 60px; /* baja un poco la ventana (ajusta px según veas) */
-    border-radius: 12px 12px 0 0; /* opcional: bordes redondeados solo arriba */
+    margin-top: 0;                                   /* lo controla el padding del contenedor */
+    width: 100%;
+    max-height: calc(100dvh                          /* alto real del viewport en móvil */
+                     - (env(safe-area-inset-top, 0px) + 76px)
+                     - 24px);                        /* margen inferior de respiro */
+    overflow: auto;                                  /* scroll interno si hay mucho contenido */
+    border-radius: 12px;                             /* mantiene estética */
   }
 }
