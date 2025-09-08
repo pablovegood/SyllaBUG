@@ -43,10 +43,20 @@ body {
     background-color: #f4f6f8; /* respaldo */
 }
 
-/* Evitar fixed en móviles por rendimiento y overscroll */
+/* Evitar fixed en móviles por rendimiento y overscroll
+   y repetir la imagen verticalmente para que no aparezca franja */
 @media (max-width: 768px) {
-    body { background-attachment: scroll; }
+  body {
+    background-attachment: scroll;
+
+    /* 2 capas: [0]=gradiente, [1]=imagen */
+    /* El gradiente puede repetir; la imagen se repite en Y y ocupa el ancho */
+    background-size: auto, 100% auto;
+    background-position: center top, center top;
+    background-repeat: repeat, repeat-y;
+  }
 }
+
 
 
 /* Contenedor principal */
