@@ -362,3 +362,15 @@ a:hover { text-decoration: underline; }
 .modal-body p { margin: .5rem 0; }
 
 body.modal-open { overflow: hidden; }
+
+
+/* Ajuste del modal en móviles: que no tape la parte superior */
+@media (max-width: 768px) {
+  .modal {
+    align-items: flex-start; /* coloca el modal al inicio en vertical */
+  }
+  .modal-dialog {
+    margin-top: 60px; /* baja un poco la ventana (ajusta px según veas) */
+    border-radius: 12px 12px 0 0; /* opcional: bordes redondeados solo arriba */
+  }
+}
