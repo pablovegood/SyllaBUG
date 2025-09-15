@@ -1,0 +1,73 @@
+🆚 Comparativa de bibliografía: Guia_docente_Econometría (2351133)
+Grado: administracion-direccion-empresas (235)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Alonso, A.; Fernández, J. y Gallastegui, I. (2005).- Econometría. Ed. Prentice Hall
+
+Aznar, A.; García, A. y Martín, A. (1994).- Ejercicios de Econometría I. Ed. Pirámide
+
+Fernández, A.I. y otros (1995).- Ejercicios de Econometría. Ed. McGraw Hill
+
+García,   R.M.;   Herrerías,   J.M.  y  Palacios,  F.  (2017).  Econometría.  Ejercicios  resueltos.  Ediciones
+Pirámide
+
+González,   S.   (Coordinadora)   (2007).   Ejercicios   resueltos  de  Econometría.  El  modelo  de  regresión
+múltiple. Delta Publicaciones
+
+Greene, W (1999).- Análisis Econométrico. Ed. Prentice Hall
+
+Guisan, M.C. (1997).- Econometría. Ed. McGraw Hill
+
+Gujarati, D. (2010).- Econometría. Ed. McGraw Hill
+
+Hernández, J. (1989).- Ejercicios de Econometría. Ed. ESIC
+
+Johnston J. y Dinardo, J (2001).- Métodos de Econometría.- Ed Vicens-Vives
+
+Johnston, J.(1987).- Econometría. Ed. McGraw Hill
+
+Maddala, G.S. (2001).- Econometría. Ed. McGraw Hill
+
+Martín, G. Labeaga, J.M. y Mochón, F. (1997).- Introducción a la Econometría. Prentice Hall
+
+Novales, A. (2000).- Econometría. 2ª Edic. McGraw Hill
+
+Palacios,   F.,   García,   R.M.   y   Herrerias,   J.M.   (2011).-   Ejercicios  de  Econometría  1.  Ediciones
+Pirámide
+
+Pena, J,B y otros (1999).- Cien Ejercicios de Econometría. Ed. Pirámide
+
+Pindyck, R.S. y Rubinfeld, D.L. (2001).- Econometría, modelos y pronósticos. Ed. McGraw Hill
+
+Pulido, A. y Pérez, J. (2001).- Modelos Econométricos.- Ed Pirámide
+
+Pérez, T.; Amoros, P. y Relloso, S. (1993).- Ejercicios de Econometría Empresarial. Ed. McGraw Hill
+
+Schmidt, S.J. (2005).- Econometría. Ed. McGraw Hill
+
+Stewart, M.B. y Wallis, K.F. (1984).- Introducción a la Econometría. Alianza Universidad
+
+Stock, J.H. y Watson, M.M. (2012) Introducción a la Econometría, 3ª ed. Pearson
+
+Sánchez, C. (1999) Métodos Econométricos. Ariel Economía. Barcelona
+
+Wooldridge, J.M. (2010).- Introducción a la Econometría. Un enfoque moderno. 2ª Edic. Thomson
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Caridad,   J.M.   (1998).   Econometría:   Modelos  Econométricos  uniecuacionales.  Ed.  Reverté  Fernández-
+Sánchez,   P.;   Salmerón-Gómez   R   y   Blanco,   V.  (2016).  Prácticas  de  Econometría  con  Excel,  Gretl  y
+RStudio.   Ed.   Fleming   →   Fernández-Sánchez,  P.;  Salmerón-Gómez  R  y  Blanco,  V.  (2016).  Prácticas  de
+Econometría con Excel, Gretl y RStudio. Ed. Fleming
+
+✅ Recursos añadidos:
+------------------------------
+Caridad, J.M. (1998). Econometría: Modelos Econométricos uniecuacionales. Ed. Reverté S.A
+
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

@@ -1,0 +1,56 @@
+🆚 Comparativa de bibliografía: Guia_docente_Sistemas_de_Control_(Especialidad_Sistemas_Electrónicos (2211148)
+Grado: ingenieria-tecnologias-telecomunicacion (221)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+David Bailey, Edwin Wright. Practical SCADA for Industry (IDC Technology. Ed. Elsevier
+
+David Bailey. Practical Radio Engineering and Telemetry for Industry. Elsevier
+
+Deon   Reynders,   Steve  Mackay,  Edwin  Wright.  Practical  Industrial  Data  Communications.  Best  Practice
+Techniques. Elsevier
+
+E.   Mandado,   J.   Marcos,   C.   Fernández,   J.I.   Armesto:   “Autómatas   Programables   y   Sistemas   de
+Automatización”. Marcombo S.A
+
+Gordon   Clarke.   Deon   Reynders.  Practical  Modern  SCADA  Protocols:  DNP3,  60870.5  and  Related  Systems
+(IDC Technology . Elsevier.)
+
+J.   Domingo,  J.  Gámiz,  A.  Grau,  H.  Martínez:  “Diseño  y  aplicaciones  con  autómatas  programables”.  Ed.
+UOC
+
+W. Dargie, C. Poellabauer."Fundamentals of wireless sensor networks: theory and practice", Wiley
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+Cristóbal Romero. Viviendas y edificios inteligentes. Ra-ma
+
+Domótica para ingenieros / J.M. Maestre (ed); Madrid: Paraninfo
+
+K. Ogata. Ingeniería de Control Moderna. Prentice Hall
+
+MATLAB 7 Getting User’s Guide, the MathWorks, Inc
+
+Manual de Intouch de Wonderware
+
+Manual de Programación de Siemens Simatic S7-300
+
+Manuales de “TIA portal”
+
+Perry   Lea..   Internet  of  things  for  architects:  architecting  IoT  solutions  by  implementing  sensors,
+communication infrastructure, edge computing, analytics, and security.. Packt Publishing
+
+Rodríguez: “Comunicaciones industriales. Sistemas de regulación y control automáticos”. Marcombo
+
+Rodríguez: “Sistemas SCADA”, MARCOMBO
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

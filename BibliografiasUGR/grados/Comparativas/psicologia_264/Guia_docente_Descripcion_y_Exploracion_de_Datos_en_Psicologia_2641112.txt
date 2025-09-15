@@ -1,0 +1,68 @@
+🆚 Comparativa de bibliografía: Guia_docente_Descripción_y_Exploración_de_Datos_en_Psicología (2641112)
+Grado: psicologia (264)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Amón, J. (2000). Estadística para psicólogos I. Estadística descriptiva (15ª ed.). Pirámide
+
+Amón,   J.   (2000).   Estadística   para  psicólogos  II.  Probabilidad.  Estadística  Inferencial  (9ª  ed.).
+Pirámide
+
+Bologna, E. (2010). Estadística en psicología. Editorial Brujas
+
+Botella,   J.,  León,  O.,  San  Martín,  R.,  y  Barriopedro,  M.  I.  (2001).  Análisis  de  datos  en  psicología
+I. Teoría y ejercicios. Pirámide
+
+Botella, J., Suero, M. y Ximénez, C. (2012). Análisis de datos en psicología I . Pirámide
+
+Davis,   C.   (2019).   Statistical   testing  with  Jamovi  and  Jasp  Open  Source  Software  :  Psychology.Vor
+Press
+
+Everitt, B. S. (1996). Making sense of statistics in psychology.Oxford Science Publications
+
+Field, A. (2016). An adventure in statistics: The reality enigma. SAGE Publications
+
+Garriga   Trillo,   A.J.,   Lubin   Pigouche,   P.,   Merino  Merino,  J.M.  y  otros  (2009).  Introducción  al
+análisis de datos . UNED
+
+Guardia, J., Freixa, M., Pero, M. y Turbany, J. (2008). Análisis de datos en psicología . Delta
+
+Howell, D. C. (2010). Statistical Methods for Psychology. Thomson Wadsworth
+
+Montero, J. M. (2007). Estadística descriptiva.Thompson Paraninfo
+
+Tomeo, V. (2009). Estadística descriptiva. Garceta Grupo Editorial
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Martín Tamayo, I., Díaz-Piedra, C. y Porras Chavarino, C. (2022). Descripción y exploración de datos
+en   Psicología.   Editorial   Técnica   Avicam.  FSI/2240  MAR  des  Navarro  D.  J.  y  Foxcroft  D.  R.  (2019).
+Learning   statistics   with   jamovi:   a   tutorial   for   psychology  students  and  other  beginners.  DOI:
+10.24384/hgc3-7p15 Suarez Falcón, J. C., Recio Saboya, P., San Luis Costas, M. C. y Pozo Cabanillas,
+M.   P.   (2019).  Introducción  al  análisis  de  datos.  Aplicaciones  en  psicología  y  ciencias  de  la  salud
+→   Navarro  D.  J.  y  Foxcroft  D.  R.  (2019).  Learning  statistics  with  jamovi:  a  tutorial  for  psychology
+students and other beginners . DOI: 10.24384/hgc3-7p15
+
+Ritchey   (2008).   Estadística  para  las  ciencias  sociales(2ªEd.).  Mc  Graw-Hill  Pérez,  F.  J.,  Manzano,
+V.   y   Fazeli,   H.   (1999).   Análisis  de  datos  en  psicología.  Pirámide  →  Pérez,  F.  J.,  Manzano,  V.  y
+Fazeli, H. (1999). Análisis de datos en psicología. Pirámide
+
+✅ Recursos añadidos:
+------------------------------
+Cannon,A.;   Starnes,   D.   y   Tabo,  J.(2023)  Introductory  Statistics:  A  Student-Centered  Approach.Ed:
+Freeman
+
+Martín Tamayo, I., Díaz-Piedra, C. y Porras Chavarino, C. (2022). Descripción y exploración de datos
+en Psicología . Editorial Técnica Avicam. FSI/2240 MAR des
+
+Ritchey (2008). Estadística para las ciencias sociales(2ªEd.). Mc Graw-Hill
+
+Suarez   Falcón,   J.   C.,   Recio   Saboya,  P.,  San  Luis  Costas,  M.  C.  y  Pozo  Cabanillas,  M.  P.  (2019).
+Introducción al análisis de datos. Aplicaciones en psicología y ciencias de la salud . Sanz y Torres
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

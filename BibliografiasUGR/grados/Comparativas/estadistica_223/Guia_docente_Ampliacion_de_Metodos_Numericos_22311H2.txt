@@ -1,0 +1,41 @@
+🆚 Comparativa de bibliografía: Guia_docente_Ampliación_de_Métodos_Numéricos (22311H2)
+Grado: estadistica (223)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+A. M. Delgado, J. Nieto, A. M. Robles, O. Sánchez, Métodos Numéricos básicos con Octave, Ed. Técnica
+AVICAM (Fleming), 2016
+
+D.   Kincaid,   W.   Cheney:  Análisis  Numérico,  las  matemáticas  del  cálculo  científico,  Addison  Wesley,
+1994
+
+H. Benalcázar Gómez, Análisis Numérico, Serie Matemática Universitaria, 2007
+
+J.   Howard:  Computational  Methods  for  Numerical  Analysis  with  R,  CRC  Press.  Chapman  and  Hall.  Taylor
+& Francis Group, 2017
+
+K. Atkinson: An introduction to numerical analysis, 2nd. edition, John Wiley, 1989
+
+Q.   Kong,   T.   Siaux,   A.  Bayen:  Python  Programming  And  Numerical  Methods:  A  Guide  For  Engineers  and
+Scientists, Berkeley Python Numerical Methods, 2020
+
+R. L. Burden, D. Faires: Análisis numérico, Thomson-Learning, 2011
+
+V. A. Bloomfield, Using R for Numerical Analysis in Science and Engineering, CRC Press, 2014
+
+W. Gautschi: Numerical analysis, 2nd. edition, Springer Science+Business Media, 2012
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

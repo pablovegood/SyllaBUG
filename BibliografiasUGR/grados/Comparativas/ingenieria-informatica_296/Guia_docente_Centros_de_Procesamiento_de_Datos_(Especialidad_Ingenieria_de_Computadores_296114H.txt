@@ -1,0 +1,44 @@
+🆚 Comparativa de bibliografía: Guia_docente_Centros_de_Procesamiento_de_Datos_(Especialidad_Ingeniería_de_Computadores (296114H)
+Grado: ingenieria-informatica (296)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+L.   Alves   and   A.   Vladishev,   Zabbix   performance   tuning   :   tune  and  optimize  Zabbix  to  maximize
+performance, 1st edition. Birmingham, England ;: Packt Publishing, 2015
+
+V. Benincosa, Kubernetes in the Data Center, 1st edition. Cisco Press, 2019
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Data Center virtualization fundamentals. Gustavo Alessandro Andrade Santana. Cisco Press 2014. Cloud
+networking   :   understanding   cloud-based   data   center   networks.  ,  Waltham,  Massachusetts  :  Morgan
+Kaufmann,   2014   Making   your   Data   Center   Energy  Efficient  G.  HELD,  1st  edition.  CRC  Press,  2017.
+Foundation of Green IT: Consolidation, Virtualization, Efficiency, and ROI in the Data Center. Marty
+Poniatowski.   Prentice   Hall   PTR.2009  The  Green  and  Virtual  Data  Center.  G.  Schulz.  Boca  Raton:  CRC
+Press,   2009   →   Foundation   of   Green  IT:  Consolidation,  Virtualization,  Efficiency,  and  ROI  in  the
+Data Center . Marty Poniatowski. Prentice Hall PTR.2009
+
+Data   center   handbook.   Geng,   Hwaiyu,   editor.   Hoboken,  New  Jersey  :  John  Wiley  &  Sons  Inc.,  2015
+(disponible   en   línea)   The   art   of   data  center.  Douglas  Alger.  Prentice  Hall,  2013  →  Data  center
+handbook   .   Geng,  Hwaiyu,  editor.  Hoboken,  New  Jersey  :  John  Wiley  &  Sons  Inc.,  2015  (disponible  en
+línea)
+
+✅ Recursos añadidos:
+------------------------------
+Cloud   networking  :  understanding  cloud-based  data  center  networks.,  Waltham,  Massachusetts  :  Morgan
+Kaufmann, 2014
+
+Data Center virtualization fundamentals. Gustavo Alessandro Andrade Santana. Cisco Press 2014
+
+Making your Data Center Energy Efficient G. HELD, 1st edition. CRC Press, 2017
+
+The Green and Virtual Data Center . G. Schulz. Boca Raton: CRC Press, 2009
+
+The art of data center. Douglas Alger. Prentice Hall, 2013
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

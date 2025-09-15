@@ -1,0 +1,36 @@
+🆚 Comparativa de bibliografía: Guia_docente_Investigación_Operativa_II (2231129)
+Grado: estadistica (223)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Cao Abad, R. (2002) Introducción a la simulación y a la teoría de colas. A Coruña: Netbiblo
+
+Denardo,   E.   V.  (2003)  Dynamic  Programming:  Models  and  App:  Models  and  Applications.  Dover  Books  on
+Computer Science
+
+Martín Martín, Q. (2003) Investigación Operativa. Pearson Prentice Hall
+
+Martín Martín, Q.; Santos Martín, M.T. y Paz Santana, Y.R. (2005) Investigación Operativa: problemas
+y ejercicios resueltos. Pearson Prentice Hall
+
+Ríos Insúa, S. (1993) Investigación Operativa: optimización. Centro de Estudios Ramón Areces
+
+Ríos   Insúa,   S.;   Ríos   Insúa,   D.;   Mateos   Caballero,   A.;  Martín  Jiménez,  J.  (2006)  Problemas  de
+Investigación Operativa. Ra-ma
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Sniedovich,   M.   (2010)   Dynamic   Programming:  Foundations  and  Principles,  Second  Edition.  CRC  Press
+Tijms,   H.C.   (2003)   A   First  Course  in  Stochastic  Models.  John  Wiley  and  Sons,  Chichester  →  Tijms,
+H.C. (2003) A First Course in Stochastic Models. John Wiley and Sons, Chichester
+
+✅ Recursos añadidos:
+------------------------------
+Sniedovich, M. (2010) Dynamic Programming: Foundations and Principles, Second Edition. CRC Press
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

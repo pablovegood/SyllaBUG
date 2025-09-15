@@ -1,0 +1,42 @@
+🆚 Comparativa de bibliografía: Guia_docente_Animación_por_Ordenador_(Especialidad_Ingeniería_del_Software (29611BE)
+Grado: ingenieria-informatica (296)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Alberto Rodríguez, 2010. "Proyectos de animación 3D"
+
+BR. Smith, “ Soft Computing: Art and Design ”. Edt. Addison-Wesley, 1984
+
+Bensky, 2016. "Exploring physics with computer animation and PhysGL"
+
+L. Candy, E. Edmonds; “ Explorations in Art and Technology ”. Edt. Springer, 2002
+
+Richard Williams, 2019. "Técnicas de animación: dibujos animados, animación 3D y videojuegos"
+
+Rick Parent, 2012. " Computer animation: algorithms and techniques "
+
+Tony Mullen, 2007. "Animación de personajes con Blender"
+
+Tuur Stuyck, 2018. "Cloth simulation for computer graphics"
+
+Watt. A.: “ 3D Computer graphics ”. Ed. Addison-Wesley, 1993
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Schwartz,   L.  y  Schwartz,  L.R.:  “The  computer  Artist  Handbook”.  W.W.  Norton  &  Company,  1992  Watt,  A.
+y   Wat,   M.:  “Advanced  animation  and  rendering  techniques.  Theory  and  practice”.  Ed.  Addison-Wesley.
+1992   White,   T.:   “The   Animator’s   Workbook”.   Ed.   Phaidon   Press,   1986   →  Watt,  A.  y  Wat,  M.:  “
+Advanced animation and rendering techniques. Theory and practice ”. Ed. Addison-Wesley. 1992
+
+✅ Recursos añadidos:
+------------------------------
+S chwartz, L. y Schwartz, L.R.: “ The computer Artist Handbook ”. W.W. Norton & Company, 1992
+
+White, T.: “ The Animator’s Workbook ”. Ed. Phaidon Press, 1986
+
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

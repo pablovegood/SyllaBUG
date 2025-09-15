@@ -1,0 +1,133 @@
+🆚 Comparativa de bibliografía: Guia_docente_Inteligencia_Artificial_en_la_Investigación_Operativa (2231137)
+Grado: estadistica (223)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Cao Abad, R., Introducción a la Simulación y a la Teoría de Colas. Netbiblo, 2002
+
+Gentle, J.E., Random Number Generation and Monte Carlo methods. Springer, 2003
+
+Martín Martín, Q., Investigación Operativa. Prentice Hall, 2003
+
+Parte   I:  Simulación  e  Introducción  a  Teoría  de  Grafos  Braun,  W.  J.  &  Murdoch,  D.  J.,  A  first  course
+in   statistical   programming  with  R.  Cambridge,  2007.  Cao  Abad,  R.,  Introducción  a  la  Simulación  y  a
+la   Teoría  de  Colas.  Netbiblo,  2002.  Gentle,  J.E.,  Random  Number  Generation  and  Monte  Carlo  methods.
+Springer,   2003.   Martín   Martín,   Q.,  Investigación  Operativa.  Prentice  Hall,  2003.  Ríos  Insua,  S.,
+Mateos,   A.,   Bielza,   M.   C.   y   Jiménez,   A.   Investigación   Operativa.   Modelos  determínisticos  y
+estocásticos.   Centro   de   Estudios   Ramón   Areces,   2004.  Ripley,  B.D.,  Stochastic  Simulation.  John
+Wiley,   2006.   Rizzo,  M.L.,  Statistical  Computing  with  R.  Chapman  and  Hall/CRC,  2007.  Rubinstens,  R.
+Y.   and   Krose,   D.P.,   Simulation   and   the  Monte  Carlo  method.  John  Wiley&Sons,  2017.  Taha,  H.  A.,
+Investigación de Operaciones. Prentice Hall, 2004
+
+Parte   II:   Métodos   y   técnicas   de   la   Inteligencia   Artificial   Nils   J.  Nilsson:  “The  Quest  for
+Artificial    Intelligence,”    Cambridge    University    Press,   2009   Melanie   Mitchell:   "Artificial
+Intelligence: A guide for thinking humans", Picador Press, 2020 Stuart Rusell: "Human Compatible: AI
+and   the   problem   of   control",  Penguin  Books,  2020  Russell  C.  Eberhart  &  Yuhui  Sui:  “Computational
+Intelligence:   Concepts   to   Implementation,”   Morgan   Kaufmann,   2007   George  F.  Luger:  “Artificial
+Intelligence:   Structures   and  strategies  for  complex  problem  solving”,  6th  edition,  Addison  Wesley,
+2008.   E.  Baquela,  A.  Redchuk.  “Optimización  Matemática  con  R.  Volumen  I:  Introducción  al  modelado  y
+resolución de problemas”. CRAN (Open Book) 2013
+
+Ripley, B.D., Stochastic Simulation. John Wiley, 2006
+
+Rizzo, M.L., Statistical Computing with R. Chapman and Hall/CRC, 2007
+
+Rubinstein, R.Y. and Melamed, B., Modern Simulation and Modeling. Wiley, 1998
+
+Rubinstens, R. Y. and Krose, D.P., Simulation and the Monte Carlo method. John Wiley&Sons, 2017
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Introducción   al   modelado   y   resolución  de  problemas”.  CRAN  (Open  Book)  2013  →  Parte  II:  Métodos  y
+técnicas   de   la   Inteligencia   Artificial  Nils  J.  Nilsson:  “The  Quest  for  Artificial  Intelligence,”
+Cambridge   University   Press,   2009  Melanie  Mitchell:  "Artificial  Intelligence:  A  guide  for  thinking
+humans",   Picador   Press,   2020   Stuart   Rusell:   "Human  Compatible:  AI  and  the  problem  of  control",
+Penguin   Books,   2020   Russell   C.   Eberhart   &   Yuhui  Sui:  “Computational  Intelligence:  Concepts  to
+Implementation,”   Morgan   Kaufmann,   2007   George  F.  Luger:  “Artificial  Intelligence:  Structures  and
+strategies   for  complex  problem  solving”,  6th  edition,  Addison  Wesley,  2008.  E.  Baquela,  A.  Redchuk.
+“Optimización Matemática con R. Volumen I: Introducción al modelado y resolución de problemas”. CRAN
+(Open Book) 2013
+
+Modelos   determínisticos   y   estocásticos.   Centro   de   Estudios   Ramón   Areces,   2004   →   Parte   I:
+Simulación   e   Introducción   a   Teoría   de   Grafos   Braun,  W.  J.  &  Murdoch,  D.  J.,  A  first  course  in
+statistical   programming   with  R.  Cambridge,  2007.  Cao  Abad,  R.,  Introducción  a  la  Simulación  y  a  la
+Teoría   de   Colas.   Netbiblo,   2002.  Gentle,  J.E.,  Random  Number  Generation  and  Monte  Carlo  methods.
+Springer,   2003.   Martín   Martín,   Q.,  Investigación  Operativa.  Prentice  Hall,  2003.  Ríos  Insua,  S.,
+Mateos,   A.,   Bielza,   M.   C.   y   Jiménez,   A.   Investigación   Operativa.   Modelos  determínisticos  y
+estocásticos.   Centro   de   Estudios   Ramón   Areces,   2004.  Ripley,  B.D.,  Stochastic  Simulation.  John
+Wiley,   2006.   Rizzo,  M.L.,  Statistical  Computing  with  R.  Chapman  and  Hall/CRC,  2007.  Rubinstens,  R.
+Y.   and   Krose,   D.P.,   Simulation   and   the  Monte  Carlo  method.  John  Wiley&Sons,  2017.  Taha,  H.  A.,
+Investigación de Operaciones. Prentice Hall, 2004
+
+Winston,   W.  L.,  Investigación  de  Operaciones.  Aplicaciones  y  algoritmos.  Grupo  Editorial  Americana,
+1994.   Parte   II:   Métodos   y  técnicas  de  la  Inteligencia  Artificial  Nils  J.  Nilsson:  “The  Quest  for
+Artificial    Intelligence,”    Cambridge    University    Press,   2009   Melanie   Mitchell:   "Artificial
+Intelligence: A guide for thinking humans", Picador Press, 2020 Stuart Rusell: "Human Compatible: AI
+and   the   problem   of   control",  Penguin  Books,  2020  Russell  C.  Eberhart  &  Yuhui  Sui:  “Computational
+Intelligence:   Concepts   to   Implementation,”   Morgan   Kaufmann,   2007   George  F.  Luger:  “Artificial
+Intelligence:   Structures   and  strategies  for  complex  problem  solving”,  6th  edition,  Addison  Wesley,
+2008   →   Winston,   W.   L.,   Investigación  de  Operaciones.  Aplicaciones  y  algoritmos.  Grupo  Editorial
+Americana, 1994
+
+Taha,   H.   A.,  Investigación  de  Operaciones.  Prentice  Hall,  2004.  Parte  II:  Métodos  y  técnicas  de  la
+Inteligencia   Artificial   Stuart   J.   Russell   &   Peter   Norvig:   “Artificial  Intelligence,  A  Modern
+Approach,”   4th   edition,   Prentice   Hall,   2020   →   Stuart   J.   Russell  &  Peter  Norvig:  “Artificial
+Intelligence,       A      Modern      Approach,”      4th      edition,      Prentice      Hall,      2020.
+https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=2864
+
+00193&libro=2864   A.   Duarte  Muñoz,  J.J.  Pantrigo  Fernández,  M.  Gallego  Carrillo:  "Metaheurísticas",
+P.   Cortez,   “Modern   Optimization   with   R”.   Springer   2014   E.D.   Taillard,   "Design  of  Heuristic
+Algorithms   for   Hard   Optimization".  Springer  Parte  I:  Simulación  e  Introducción  a  Teoría  de  Grafos
+Ross,   S.M.,   A   Course   in   Simulation.   Macmillan,   1990   →   Ross,   S.M.,   A  Course  in  Simulation.
+Macmillan, 1990
+
+✅ Recursos añadidos:
+------------------------------
+A.   Duarte   Muñoz,   J.J.   Pantrigo   Fernández,   M.   Gallego  Carrillo:  "Metaheurísticas",  1ª  edición,
+Dykinson, 2007. https://elibro.net/es/ereader/ugr/35696
+
+Braun, W. J. & Murdoch, D. J., A first course in statistical programming with R. Cambridge, 2007
+
+E.   Baquela,   A.   Redchuk.   “Optimización   Matemática   con   R.  Volumen  I:  Introducción  al  modelado  y
+resolución de problemas”. CRAN (Open Book) 2013
+
+E.D.    Taillard,    "Design    of    Heuristic    Algorithms   for   Hard   Optimization".   Springer   2022.
+https://link.springer.com/book/10.1007/978-3-031-13714-3
+
+George   F.   Luger:  “Artificial  Intelligence:  Structures  and  strategies  for  complex  problem  solving”,
+6th edition, Addison Wesley, 2008
+
+Melanie Mitchell: "Artificial Intelligence: A guide for thinking humans", Picador Press, 2020
+
+Nils J. Nilsson: “The Quest for Artificial Intelligence,” Cambridge University Press, 2009
+
+P. Cortez, “Modern Optimization with R”. Springer 2014
+
+Parte I: Simulación e Introducción a Teoría de Grafos Ross, S.M., A Course in Simulation. Macmillan,
+1990. Rubinstein, R.Y. and Melamed, B., Modern Simulation and Modeling. Wiley, 1998. Winston, W. L.,
+Investigación de Operaciones. Aplicaciones y algoritmos. Grupo Editorial Americana, 1994
+
+Parte   II:   Métodos   y   técnicas   de   la   Inteligencia   Artificial  Stuart  J.  Russell  &  Peter  Norvig:
+“Artificial     Intelligence,     A     Modern    Approach,”    4th    edition,    Prentice    Hall,    2020.
+https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=2864   A.  Duarte
+Muñoz,   J.J.  Pantrigo  Fernández,  M.  Gallego  Carrillo:  "Metaheurísticas",  1ª  edición,  Dykinson,  2007.
+https://elibro.net/es/ereader/ugr/35696   P.  Cortez,  “Modern  Optimization  with  R”.  Springer  2014  E.D.
+Taillard,     "Design     of    Heuristic    Algorithms    for    Hard    Optimization".    Springer    2022.
+https://link.springer.com/book/10.1007/978-3-031-13714-3
+
+Russell   C.   Eberhart   &  Yuhui  Sui:  “Computational  Intelligence:  Concepts  to  Implementation,”  Morgan
+Kaufmann, 2007
+
+Ríos   Insua,   S.,   Mateos,   A.,   Bielza,   M.   C.   y   Jiménez,   A.   Investigación   Operativa.  Modelos
+determínisticos y estocásticos. Centro de Estudios Ramón Areces, 2004
+
+Stuart Rusell: "Human Compatible: AI and the problem of control", Penguin Books, 2020
+
+Taha, H. A., Investigación de Operaciones. Prentice Hall, 2004
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

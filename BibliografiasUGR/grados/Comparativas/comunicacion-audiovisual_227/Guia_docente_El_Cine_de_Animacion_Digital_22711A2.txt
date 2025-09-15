@@ -1,0 +1,59 @@
+🆚 Comparativa de bibliografía: Guia_docente_El_Cine_de_Animación_Digital (22711A2)
+Grado: comunicacion-audiovisual (227)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Anima Mundi. (2004) Animation now. Ed. Taschen. Suiza
+
+Bendazzi, G. (2003): Cartoons: 110 años de cine de animación. Madrid: Ocho y Medio
+
+Chong, A. (2007). Basic Animation: digital animation. AVA Publishing
+
+Laybourne, Kit. The animation book. (1998) Tree rivers press. New York
+
+Marx, C. (2007) Writing for animation, comics and games. Focal Press. USA
+
+Mattinglyd, D. (2013): VFX y Postproducción para cine y publicidad. Curso de Digital Matte Painting.
+Madrid: Anaya Multimedia
+
+Mendoza Guevara, E. Modeling and Animation using blender. StandardApress. 2020
+
+Okun, J. A., Zwerman, S. & Visual Effects Society. (2015). The VES Handbook of Visual Effects
+
+Taylor, R. (2000) Enciclopedia de las técnicas de animación. Ed. Acanto. Barcelona
+
+Thomas F. & Johnston, O. (1981): The Illusion of Life: Disney Animation. Disney Editions
+
+Voronov, L. Blender. Cycles render. Luz, cámara, render y acción. Russian Monkey 2017
+
+Wells, P. (2007) Fundamentos de la animación. Parramón. Barcelona
+
+Wyatt,   A.  (2010).  The  complete  digital  animation  course:  The  principles,  practice  and  techniques  of
+successful digital animation. Thames & Hudson
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Wigan,   M.   (2008).   Imágenes  en  secuencia.  Animación,  storyboards,  videojuegos,  títulos  de  crédito,
+cinematografía,   mash-ups...   Gustavo   Gili.   Barcelona   Withrow,   S.   (2009).   Secrets   of   digital
+animation:   a   master   class   in   innovate   tools   and  techniques.  rRotovision  →  Withrow,  S.  (2009).
+Secrets of digital animation: a master class in innovate tools and techniques. rRotovision
+
+Corsaro,   S.   &   Parrott,  C.  (2004).  Hollywood  2D  digital  animation.  Thomson  Course  Technology  Doval
+Sanchez,   G.   (2007).   Fanstasmagorias.   Dibujo   en   movimiento.   Fundación   ICO  →  Doval  Sanchez,  G.
+(2007). Fanstasmagorias. Dibujo en movimiento. Fundación ICO. Madrid
+
+✅ Recursos añadidos:
+------------------------------
+Corsaro, S. & Parrott, C. (2004). Hollywood 2D digital animation. Thomson Course Technology
+
+San, Hirako. Eevee rendering engine. Blender
+
+Wigan,   M.   (2008).   Imágenes  en  secuencia.  Animación,  storyboards,  videojuegos,  títulos  de  crédito,
+cinematografía, mash-ups... Gustavo Gili. Barcelona
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

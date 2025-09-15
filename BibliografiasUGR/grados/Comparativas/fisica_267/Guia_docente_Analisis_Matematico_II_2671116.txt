@@ -1,0 +1,38 @@
+🆚 Comparativa de bibliografía: Guia_docente_Análisis_Matemático_II (2671116)
+Grado: fisica (267)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+BRADLEY, G.L. Y SMITH, K. J.: Cálculo de varias variables (volumen 2). Prentice Hall, 1998
+
+CABELLO, J.C.: Métodos matemáticos. Editorial Goel, 2020
+
+MARSDEN, J. Y TROMBA, A.: Cálculo Vectorial. Pearson. Addison Wesly. Quinta edición 2004
+
+STEWART, J.: Cálculo multivariable. Tercera edición. International Thomson Editores, 1999
+
+UÑA   JIMÉNEZ,   I.,   SAN  MARTÍN  MORENO,  J.  Y  TOMEO  PERUCHA,  V.:  Problemas  resueltos  de  Cálculo  en  una
+variable. Colección Paso a Paso. Thomson, 2005
+
+UÑA JIMÉNEZ, I., SAN MARTÍN MORENO, J. Y TOMEO PERUCHA, V.: Problemas resueltos de Cálculo en varias
+variables. Colección Paso a Paso. Thomson, 2007
+
+WEBB, J.R.L.: Functions of several real variables. Ellis Horwod, 1991
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+Apuntes                   del                   profesor                  Javier                  Pérez:
+http://www.ugr.es/~fjperez/textos/Calculo_Diferencial_Varias_Variables.pdf
+
+Apuntes del profesor Rafael Payá: https://www.ugr.es/~rpaya/cursosanteriores.htm
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

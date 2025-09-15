@@ -1,0 +1,52 @@
+🆚 Comparativa de bibliografía: Guia_docente_Hidráulica_Litoral_(Especialidad_Hidrología (2371146)
+Grado: ingenieria-civil (237)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Puertos del Estado. Ministerio de Fomento. personal del alumno
+
+📚 Recursos sin cambios:
+------------------------------
+Baquerizo, Losada y López. Fundamentos del movimiento oscilatorio. Universidad de Granada. 2005
+
+Dean y Dalrymple. Coastal processes with engineering applications. Cambridge University Press. 2004
+
+Goda. Random seas and design of maritime structures. University of Tokyo Press, 1985
+
+Holthuijsen, L. H. Waves in oceanic and coastal waters. Cambridge university press, 2010
+
+Komar. Beach processes and sedimentation. Prentice Hall. 1976
+
+Losada.   Recent   development   in   the   design  of  mound  breakwaters.  Chapter  21  in:  Handbook  of  Ocean
+Engineering, Volume I. Ed.: J. Herbich, 1990
+
+Masselink y Hughes. An introduction to coastal processes and geomorphology. Hodder Arnold. 2003
+
+Moñino, Clavero, Díez Minguito, y Ortega. Apuntes. Universidad de Granada
+
+ROM 0.0-01. Procedimiento general y bases de cálculo en el proyecto de obras marítimas y portuarias.
+Puertos del Estado. Ministerio de Fomento
+
+ROM   1.0-09.   Recomendaciones   del   diseño   y   ejecución  de  las  Obras  de  Abrigo.  Puertos  del  Estado.
+Ministerio de Fomento
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Park   D.  (2008)  Waves,  tides,  and  shallow-water  processes.  Butterworth-Heinemann,  Elsevier  Pugh  D.T.
+(1987)   Tides,   surges,   and   mean   sea   level.   John-Wiley&Sons  Svendsen.  Introduction  to  nearshore
+hydrodynamics.   World   Scientific.   2005   →  Svendsen.  Introduction  to  nearshore  hydrodynamics.  World
+Scientific. 2005
+
+✅ Recursos añadidos:
+------------------------------
+Dean y Dalrymple. Water wave mechanics for engineers and scientists. World Scientific. 1984
+
+Park D. (2008) Waves, tides, and shallow-water processes. Butterworth-Heinemann, Elsevier
+
+Pugh D.T. (1987) Tides, surges, and mean sea level. John-Wiley&Sons
+
+ROM   1.1-18.   Recomendaciones   para   el   Proyecto   de   Construcción  de  Diques  de  Abrigo.  Puertos  del
+Estado. Ministerio de Fomento
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

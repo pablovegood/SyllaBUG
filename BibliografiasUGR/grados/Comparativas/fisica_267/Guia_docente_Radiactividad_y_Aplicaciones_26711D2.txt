@@ -1,0 +1,46 @@
+🆚 Comparativa de bibliografía: Guia_docente_Radiactividad_y_Aplicaciones (26711D2)
+Grado: fisica (267)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+G.F. Knoll, Radiation detection and measurement (John Wiley and Sons, New York, 2000) 3rd edition
+
+J.E. Turner, Atoms, radiation and radiation protection (John Wiley and Sons, 1995)
+
+K.S. Krane, Introductory nuclear physics (JohnWiley and Sons, 1987)
+
+W.R. Leo, Techniques for nuclear and particle physics experiments (Springer, Berlin, 1994)
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+F.   Salvat.   PENELOPE   -   A  code  system  for  Monte  Carlo  simulation  of  electron  and  photon  transport.
+(OECD   Nuclear   Energy   Agency,   2019)   A.H.W.  Nias,  An  introduction  to  radiobiology  (John  Wiley  and
+Sons,   Chichester,   1998)  P.  Metcalfe,  T.  Kron  and  P.  Hoban,  The  physics  of  radiotherapy  X–rays  from
+linear   accelerators   (Medical   Physics   Publishing,   Madison,  1997)  J.  Van  Dyk  (editor),  The  modern
+technology   of   radiation   oncology   (Medical   Physics  Publishing,  Madison,  1999)  H.N.  Wagner  Jr,  Z.
+Szabo   and   J.W.   Buchanan   (editors),   Principles   of   nuclear   medicine   (W.B.   Saunders   Company,
+Philadelphia,   1995)   S.   Webb   (editor),   The   Physics   of   medical   imaging   (Institute  of  Physics
+Publishing,   Bristol,   1998)  →  P.  Metcalfe,  T.  Kron  and  P.  Hoban,  The  physics  of  radiotherapy  X–rays
+from linear accelerators (Medical Physics Publishing, Madison, 1997)
+
+✅ Recursos añadidos:
+------------------------------
+A.H.W. Nias, An introduction to radiobiology (John Wiley and Sons, Chichester, 1998)
+
+F.   Salvat.   PENELOPE   -   A  code  system  for  Monte  Carlo  simulation  of  electron  and  photon  transport.
+(OECD Nuclear Energy Agency, 2019)
+
+H.N.   Wagner  Jr,  Z.  Szabo  and  J.W.  Buchanan  (editors),  Principles  of  nuclear  medicine  (W.B.  Saunders
+Company, Philadelphia, 1995)
+
+J.   Van   Dyk   (editor),   The   modern   technology   of  radiation  oncology  (Medical  Physics  Publishing,
+Madison, 1999)
+
+S. Webb (editor), The Physics of medical imaging (Institute of Physics Publishing, Bristol, 1998)
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

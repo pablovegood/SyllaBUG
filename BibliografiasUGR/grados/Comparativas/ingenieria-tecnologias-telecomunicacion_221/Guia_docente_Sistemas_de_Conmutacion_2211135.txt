@@ -1,0 +1,54 @@
+🆚 Comparativa de bibliografía: Guia_docente_Sistemas_de_Conmutación (2211135)
+Grado: ingenieria-tecnologias-telecomunicacion (221)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Abdul   Kasim,  Prasanna  Adhikari,  Delivering  Carrier  Ethernet:  Extending  Ethernet  Beyond  the  LAN,  Ed.
+McGraw-Hill Education, 2007
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Tema   3:   K.   Clark   &  K.  Hamilton:  Cisco  LAN  Switching,  Cisco  Press,  2001  Tema  4:  L.  De  Ghein:  MPLS
+Fundamentals.   A   Comprehensive   Introduction  to  MPLS  Theory  and  Practice,  Cisco  Press,  2007  Tema  5:
+Mehmet   Toy,   Networks   and   Services:   Carrier   Ethernet,  PBT,  MPLS-TP,  and  VPLS,  Ed.  Wiley,  2012  →
+Tema 5: Mehmet Toy, Networks and Services: Carrier Ethernet, PBT, MPLS-TP, and VPLS, Ed. Wiley, 2012
+
+Tema   1:   Bertsekas,   D:   Data  networks,  Prentice  Hall,  2a.  ed.,  1992  Tema  2:  L.  J.  Bellamy:  Digital
+Telephony,   John  Wiley  &  Sons,  2000  Tema  2:  J.  Chao  y  B.  Liu:  High  Performance  Switches  and  Routers,
+John Wiley & Sons, 2007  →  Tema 1: Bertsekas, D: Data networks, Prentice Hall, 2a. ed., 1992
+
+M.   Schwartz:  Redes  de  Telecomunicaciones.  Protocolos,  Modelado  y  Análisis,  Addison-  Wesley,  1994  G.
+Giambene:   Queueing   Theory   and   Telecommunications,   Springer,  2005  J.E.  Flood:  Telecommunications
+Switching,   Traffic   and   Networks,  Pearson  Education,  J.  Evans  &  C.  FilsFils:  Deploying  IP  and  MPLS
+QoS   for   Multiservice   Networks,  Elsevier,  2007  →  J.  Evans  &  C.  FilsFils:  Deploying  IP  and  MPLS  QoS
+for Multiservice Networks, Elsevier, 2007
+
+William   Stallings:   Foundations   of   Modern   Networking:   SDN,   NFV,   QoE,   IoT,  and  Cloud,  Pearson
+Education,   2016   Kleinrock:   Queueing   Systems,  Theory,  Volume  1,  Wiley,  1975  →  Kleinrock:  Queueing
+Systems, Theory, Volume 1, Wiley, 1975
+
+✅ Recursos añadidos:
+------------------------------
+G. Giambene: Queueing Theory and Telecommunications, Springer, 2005
+
+J.E. Flood: Telecommunications Switching, Traffic and Networks, Pearson Education, 1999
+
+M. Schwartz: Redes de Telecomunicaciones. Protocolos, Modelado y Análisis, Addison-Wesley, 1994
+
+Tema   2:   J.   Aweya:   Designing   Switch/Routers.  Fundamental  Concepts  and  Design  Methods,  CRC  Press,
+2023. ISBN: 978-1-032-31582-9
+
+Tema   2:  William  Stallings,  et  al.:  Foundations  of  modern  networking:  SDN,  NFV,  QoE,  IoT,  and  Cloud,
+Pearson Education, 2016
+
+Tema 3: K. Clark & K. Hamilton: Cisco LAN Switching, Cisco Press, 2001
+
+Tema   4:   L.   De  Ghein:  MPLS  Fundamentals.  A  Comprehensive  Introduction  to  MPLS  Theory  and  Practice,
+Cisco Press, 2007
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

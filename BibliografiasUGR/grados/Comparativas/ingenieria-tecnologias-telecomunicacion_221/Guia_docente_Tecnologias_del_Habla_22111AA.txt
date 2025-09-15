@@ -1,0 +1,69 @@
+🆚 Comparativa de bibliografía: Guia_docente_Tecnologías_del_Habla (22111AA)
+Grado: ingenieria-tecnologias-telecomunicacion (221)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+"Speech Communications: Human and Machine", de D. O'Shaughnessy, IEEE Press 2002
+
+Cambridge   University   Press   Zeiler,   M.   D.,   &   Fergus,   R.  (2014).  Visualizing  and  understanding
+convolutional networks
+
+📚 Recursos sin cambios:
+------------------------------
+Hasegawa-Johnson,   M.,  He,  L.,  Liu,  R.,  &  Verhelst,  W.  (2019).  Speech  analysis  for  voice  biometrics:
+Fundamentals and challenges. IEEE Signal Processing Magazine, 36(3)
+
+Huang,   X.,   Acero,   A.,  &  Hon,  H.  (2001).  Spoken  language  processing:  A  guide  to  theory,  algorithm,
+and system development. Prentice Hall PTR
+
+Jurafsky,   D.,   &   Martin,   J.  H.  (2020).  Speech  and  Language  Processing:  An  Introduction  to  Natural
+Language Processing, Computational Linguistics, and Speech Recognition. Cambridge University Press
+
+Lee, K.-F., & Hon, H.-W. (2015). Speaker recognition: Fundamentals and features. Springer
+
+Renals,   S.   (2020).  Neural  network  methods  for  speech  and  language  processing.  Cambridge  University
+Press
+
+Young, S., Hain, T., & Woodland, P. (2019). Speech recognition and synthesis. Springer
+
+Zeiler,   M.   D.,   &   Fergus,   R.   (2014).   Visualizing   and  understanding  convolutional  networks.  In
+European conference on computer vision (pp. 818-833). Springer
+
+“Introduction   to  DigitalSpeech  Processing”.  L.  Rabiner,  R.  Shafer.  Foundations  and  Trends  on  Signal
+Processing. 2 "Spoken language processing" de X. Huang, A. Acero y H. Hon, Prentice-Hall 2
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+STATISTICAL   PATTERN  RECOGNITION,  Andrew  R.  WebbKeith  D.  Copsey,  WILEY,  2011  Jurafsky,  D.,  &  Martin,
+J.   H.   (2020).   Speech   and   Language   Processing:   An  Introduction  to  Natural  Language  Processing,
+Computational   Linguistics,   and   Speech   Recognition   →   STATISTICAL  PATTERN  RECOGNITION,  Andrew  R.
+WebbKeith D. Copsey, WILEY, 2011
+
+Rabiner, L. R., & Juang, B. H. (1993). Fundamentals of speech recognition. Prentice Hall Hinton, G.,
+Deng,   L.,   Yu,  D.,  Dahl,  G.  E.,  Mohamed,  A.  R.,  Jaitly,  N.,  ...  &  Kingsbury,  B.  (2012).  Deep  neural
+networks for acoustic modeling in speech recognition: The shared views of four research groups. IEEE
+Signal   Processing   Magazine,   29(6),  82-97  →  Rabiner,  L.  R.,  &  Juang,  B.  H.  (1993).  Fundamentals  of
+speech recognition. Prentice Hall PTR
+
+✅ Recursos añadidos:
+------------------------------
+"Automatic   Speech   Recognition,   A   Deep   Learning   Approach",   Dong   Yu   and   Li   Deng,  Signal  and
+Communication Tecnology
+
+"Deep Learning for NLP and Speech Recognition", Uday Kamath, John Liu, James Whitaker . Springer
+
+"Speech Recognition Using Articulatory and Excitation Source Features", K. Sreenivasa Rao, Manjunath
+K E . SpringerBriefs in Speech Technology
+
+"Speech Tecnology, Theory and Applications", Fang Che ng Kristiina Jokinen, Springer
+
+"Spoken language processing" de X. Huang, A. Acero y H. Hon, Prentice-Hall 2
+
+Hinton,   G.,   Deng,  L.,  Yu,  D.,  Dahl,  G.  E.,  Mohamed,  A.  R.,  Jaitly,  N.,  ...  &  Kingsbury,  B.  (2012).
+Deep   neural  networks  for  acoustic  modeling  in  speech  recognition:  The  shared  views  of  four  research
+groups. IEEE Signal Processing Magazine, 29(6), 82-97
+
+Speech and Language Processing
+
+📊 Porcentaje estimado de cambio: 91% [█████████░]

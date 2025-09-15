@@ -1,0 +1,49 @@
+🆚 Comparativa de bibliografía: Guia_docente_Geología_y_Paleontología_del_Cuaternario (26611C3)
+Grado: arqueologia (266)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Andersen,   B.G.  and  Borns  Jr.,  H.W.  (1997):  The  Ice  Age  World:  An  Introduction  to  Quaternary  History
+and   Research   with  Emphasis  on  North  America  and  Northern  Europe  During  the  Last  2.5  Million  Years.
+Scandinavian Univ. Press, 208 pp
+
+Anderson,   D.E.,   Goudie,   A.S.  and  Parker,  A.G.  (2007):  Global  Environments  Through  the  Quaternary:
+Exploring Environmental Change. Oxford Univ. Press, 392 pp
+
+Lowe, J.J. y Walker, M.J.C. (1997): Reconstructing Quaternary Environments (2a Ed), Longman, 446 pp.
+Disponible en línea en la biblioteca de la UGR (https://granatensis.ugr.es/discovery/search?
+
+Lowe,   J.J.,  Walker,  M.J.C.  (2014)  Reconstructing  Quaternary  Environments  (3a  Ed),  Taylor  &  Francis,
+Routledge Editorial, 568 pp
+
+Ruddiman, W.F. (2007). Earth's Climate: Past and Future (2a Ed), Freeman, W.H. & Company, 465 pp
+
+Walker, M. (2005). Quaternary Dating Methods. John Wiley & Sons, Ltd. 286 pp
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Bradley,   R.S.   (1999):  Paleoclimatology:  Reconstructing  Climates  of  the  Quaternary.  Academic  Press,
+San     Diego.     610     pp.     Disponible     en     línea     en     la     biblioteca     de     la    UGR
+leoclimatology&tab=Granada&search_scope=MyInstitution&sortby=date_d&vid=34CBUA_UGR
+:VU1&facet=frbrgroupid,include,9024688319620748191&lang=es&offset=0)   Dawson,   A.G.   (1992):  Ice  Age
+Earth.   Late   Quaternary   Geology   and   Climate.   Routledge,   London   &  N.Y.,  293  pp  →  Bradley,  R.S.
+(1999):   Paleoclimatology:  Reconstructing  Climates  of  the  Quaternary.  Academic  Press,  San  Diego.  610
+pp. Disponible en línea en la biblioteca de la UGR (https://granatensis.ugr.es/discovery/search?
+
+✅ Recursos añadidos:
+------------------------------
+Dawson,   A.G.   (1992):  Ice  Age  Earth.  Late  Quaternary  Geology  and  Climate.  Routledge,  London  &  N.Y.,
+293 pp
+
+query=any,contains,Bradley,%20Quaternary%20paleoclimatology&tab=Granada&search_scope=MyInstitution&s
+ortby=date_d&vid=34CBUA_UGR:VU1&facet=frbrgroupid,include,9024688319620748191&lang=es&offset=0)
+
+query=any,contains,Lowe,%20Reconstructing%20Quaternary%20Environments&tab=Granada&search_scope=MyIns
+titution&vid=34CBUA_UGR:VU1&lang=es&offset=0)
+
+📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

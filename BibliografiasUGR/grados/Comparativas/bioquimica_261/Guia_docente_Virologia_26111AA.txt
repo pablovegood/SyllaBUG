@@ -1,0 +1,64 @@
+🆚 Comparativa de bibliografía: Guia_docente_Virología (26111AA)
+Grado: bioquimica (261)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Basic Virology 4th ed., M.J. Hewlett, D. Camerini, D.C. Bloom. Wiley Blackwell, 2021
+
+Fields Virology 7th ed., P.M. Howley, D.M. Knipe (eds). Lippincott Williams and Wilkins, 2021
+
+Human Virology 4th ed., L. Collier, J. Oxford, P. Kellam. Oxford University Press, 2011
+
+Introduction to Modern Virology 7th ed., N. Dimmock, A. Easton, K. Leppard. Wiley Blackwell, 2016
+
+Molecular   Biology   of   the  Gene  7th  ed.,  J.D.  Watson,  T.A.  Baker,  S.P.  Bell,  A.  Gann,  M.  Levine,  R.
+Losick. Benjamin Cummings, 2013
+
+Molecular Genetics of Bacteria 5th ed., J.E. Peters, T.M. Henkin. American Society for Microbiology,
+2020
+
+Principles of Molecular Virology 7th ed., E. Rybicki. Academic Press, 2023
+
+Virology.   Molecular  Biology  and  Pathogenesis  L.C.  Norkin.  American  Society  for  Microbiology  (United
+States), 2009
+
+Virology: Principles and Applications 2nd ed., J. Carter, V. Saunders (eds). John Wiley Publ., 2013
+
+Virus   Taxonomy:   9th   Report   of   the   ICTV  A.M.Q.  King,  M.J.  Adams,  E.B.  Carstens,  E.J.  Lefkowitz.
+Academic Press, 2011
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Fundamentals   of   Molecular  Virology  2nd  ed.,  N.H.  Acheson.  John  Wiley  Publ.,  2011  →  Fundamentals  of
+Molecular Virology 3rd ed., N.H. Acheson, C. Richardson. John Wiley Publ., 2025
+
+Virus.   Estudio   molecular   con   orientación   clínica  T.  Shors.  Ed.  Panamericana,  2009  Bacterial  and
+Bacteriophage   Genetics   5th  ed.,  E.A.  Birge.  Springer,  2006.  DNA  viruses:  a  practical  approach  A.J.
+Cann.   Oxford   University   Press,   2000   →  Bacterial  and  Bacteriophage  Genetics  5th  ed.,  E.A.  Birge.
+Springer, 2006
+
+Brock,   Biology  of  microorganisms  16th  ed.,  M.T.  Madigan,  K.S.,  Bender,  D.H.  Buckley,  W.M.  Sattley  y
+D.A. Stalhl, D.A. Pearson, 2020 Prescott’s Microbiology 12th ed., J. Willey, K. Sandman y D.L. Wood.
+McGraw   Hill,   2022   →   Brock,   Biology  of  microorganisms  16th  ed.,  M.T.  Madigan,  K.S.,  Bender,  D.H.
+Buckley, W.M. Sattley y D.A. Stalhl, D.A. Pearson, 2020
+
+Encyclopedia   of   Virology   4th   ed.   D.   Bamford,   M.   Zuckerman  (eds).  Academic  Press,  2020.  Virus
+Taxonomy:   9th   Report  of  the  ICTV  A.M.Q.  King,  M.J.  Adams,  E.B.  Carstens,  E.J  →  Virus  Taxonomy:  9th
+Report of the ICTV A.M.Q. King, M.J. Adams, E.B. Carstens, E.J. Lefkowitz. Academic Press, 2011
+
+✅ Recursos añadidos:
+------------------------------
+DNA viruses: a practical approach A.J. Cann. Oxford University Press, 2000
+
+Encyclopedia of Virology 4th ed. D. Bamford, M. Zuckerman (eds). Academic Press, 2021
+
+Prescott’s Microbiology 12th ed., J. Willey, K. Sandman y D.L. Wood. McGraw Hill, 2022
+
+Virus. Estudio molecular con orientación clínica T. Shors. Ed. Panamericana, 2009
+
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

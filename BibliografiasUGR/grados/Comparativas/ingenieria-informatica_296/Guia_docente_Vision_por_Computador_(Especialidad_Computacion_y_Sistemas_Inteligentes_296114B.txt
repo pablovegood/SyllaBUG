@@ -1,0 +1,45 @@
+🆚 Comparativa de bibliografía: Guia_docente_Visión_por_Computador_(Especialidad_Computación_y_Sistemas_Inteligentes (296114B)
+Grado: ingenieria-informatica (296)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Bishop, C.M. & Bishop, H. (2024). Deep Learning. Foundations and Concepts. Springer
+
+Forsyth, D. A., & Ponce, J. (2012). Computer vision: a modern approach. 2nd Edition. Pearson
+
+Gonzalez, R.C. & Woods, R.E. (2018). Digital Image Processing. Global Edition. 4th Edition. Pearson
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press
+
+Hartley,   R.,   &   Zisserman,   A.   (2011).   Multiple   view   geometry  in  computer  vision.  2nd  Edition.
+Cambridge university press
+
+Molnar,   C.  (2022).  Interpretable  Machine  Learning:  A  Guide  for  Making  Black  Box  Models  Explainable.
+2nd Edition
+
+Sonka,   M.,   Hlavac,   V.,   &   Boyle,   R.  (2015).  Image  processing,  analysis,  and  machine  vision.  4th
+Edition. Cengage Learning
+
+Szeliski, R. (2022). Computer vision: algorithms and applications. Springer Nature
+
+Torralba, A., Isola, P., & Freeman, W.T. (2024). Foundations of Computer Vision. MIT Press
+
+Zhang,   A.,   Lipton,   Z.   C.,   Li,   M.,   &   Smola,   A.  J.  (2023).  Dive  into  deep  learning.  Cambridge
+University Press
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+Birchfield, S. (2018). Image processing and analysis. Cengage Learning
+
+Deep Learning for Computer Vision ( http://cs231n.stanford.edu/ )
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

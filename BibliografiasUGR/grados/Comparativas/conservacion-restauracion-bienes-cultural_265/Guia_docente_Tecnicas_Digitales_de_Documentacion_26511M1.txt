@@ -1,0 +1,76 @@
+🆚 Comparativa de bibliografía: Guia_docente_Técnicas_Digitales_de_Documentación (26511M1)
+Grado: conservacion-restauracion-bienes-cultural (265)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+ADOBE (2022) Guía del usuario de Illustrator. https://helpx.adobe.com/es/illustrator/user-guide.html
+
+BAYOD LUCINI, C. (2017) Tecnología digital 3D aplicada a la documentación, reconstrucción y difusión
+del   patrimonio   cultural.   En   Bueso,   M.   (Ed.)  La  ciencia  y  el  arte  VI.  Ciencias  experimentales  y
+conservación   del   patrimonio   (pp.   53-67).   Madrid:  Ministerio  de  Cultura  y  Deportes,  Instituto  de
+Antropología e Historia y Asociación Tikal
+
+BELLIDO GANT, M. L. (2001) Arte, museos y nuevas tecnologías. Barcelona: Trea
+
+BLATNER, D. [et al.] 2004. El escáner en el diseño gráfico. Madrid: Anaya
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+CALERO CASTILLO, A., et all. (2020). Documentación y reconstrucción virtual en restauración de obras
+pictóricas   de   gran   formato:   el  lienzo  mural  de  la  farmacia  Zambrano.  Virtual  Archaeology  Review,
+11(23):   141-152,   2020   FREEMAN,   M.   (2009).  Guía  completa  de  fotografía  digital.  Barcelona:  Blume
+MALDONADO   RUIZ,   A.  (2020)  La  aplicación  de  la  fotogrametría  (SFM)  y  las  nuevas  tecnologías  para  la
+mejora   de  la  documentación,  difusión  y  divulgación  del  patrimonio  arqueológico.  Tesis  de  doctorado.
+Granada:   Universidad  de  Granada  BARLOW,  G.,  Eccles,  S.;  “Type  setting  and  composition”,  2ª  Edition.
+Edt.   Blueprint   (Chapman   &   Hall).   1992   FOLEY,   J.  D.  et  all:  “Introducción  a  la  Graficación  por
+computadora”.   Addison   Wesley  →  BARLOW,  G.,  Eccles,  S.;  “Type  setting  and  composition”,  2ª  Edition.
+Edt. Blueprint (Chapman & Hall). 1992
+
+Addison   Wesley.   2000   APARICIO   RESCO,   P.,  FIGUEIREDO,  C.  (2017)  El  grado  de  evidencia  histórico-
+arqueológica   de  las  reconstrucciones  virtuales:  hacia  una  escala  de  representación  gráfica.  Revista
+Otarq   Otras   arqueologías,   Vol.   1   2016,   pp.   235-247,  ISSN  2530-4933.  doi  →  APARICIO  RESCO,  P.,
+FIGUEIREDO,   C.   (2017)   El   grado   de   evidencia   histórico-arqueológica   de   las   reconstrucciones
+virtuales:   hacia   una   escala   de   representación  gráfica.  Revista  Otarq  Otras  arqueologías,  Vol.  1
+2016, pp. 235-247, ISSN 2530-4933. doi: http://dx.doi.org/10.23914/otarq.v0i1.96
+
+MONTERO   RUIZ,  I.,  et  all.  (2010)  Técnicas  digitales  para  la  elaboración  de  calcos  de  arte  rupestre.
+Trabajos    de    Prehistoria.    55(1),    pp.    155-169.    ISSN    1988-3218.    eISSN   1988-3218.   doi:
+10.3989/tp.1998.v55.i1.323    PEREIRA    UZAL,    J.M.    (2014)   Gestión   del   color   en   proyectos   de
+digitalización.    Barcelona   →   MONTERO   RUIZ,   I.,   et   all.   (2010)   Técnicas   digitales   para   la
+elaboración de calcos de arte rupestre. Trabajos de Prehistoria. 55(1), pp. 155-169. ISSN 1988-3218.
+eISSN 1988-3218. doi: 10.3989/tp.1998.v55.i1.323
+
+AUTODESK   (2019).   Guía   rápida   básica  de  AutoCAD  →  AUTODESK  (2019).  Guía  rápida  básica  de  AutoCAD.
+https://help.autodesk.com/view/ACD/2020/ESP/?guid=GUID-2AA12FC5-FBB2-4ABE-9024-90D41FEB1AC3
+
+AGISOFT   (2021)   Agisoft   Metashape   User   Manual.   Proffesional   Edition,  v.  1.7  ALMAGRO  GORBEA,  A.
+(2004).   Levantamiento   arquitectónico.   Granada:   Universidad   de   Granada  →  AGISOFT  (2021)  Agisoft
+Metashape    User    Manual.    Proffesional   Edition,   v.   1.7   https://www.agisoft.com/pdf/metashape-
+pro_1_7_en.pdf
+
+✅ Recursos añadidos:
+------------------------------
+ALMAGRO GORBEA, A. (2004). Levantamiento arquitectónico. Granada: Universidad de Granada
+
+CALERO CASTILLO, A., et all. (2020). Documentación y reconstrucción virtual en restauración de obras
+pictóricas   de   gran   formato:   el  lienzo  mural  de  la  farmacia  Zambrano.  Virtual  Archaeology  Review,
+11(23): 141-152, 2020 https://doi.org/10.4995/var.2020.13343
+
+FOLEY, J. D. et all: “Introducción a la Graficación por computadora”. Addison Wesley. 1992
+
+FREEMAN, M. (2009). Guía completa de fotografía digital. Barcelona: Blume
+
+MALDONADO   RUIZ,   A.  (2020)  La  aplicación  de  la  fotogrametría  (SFM)  y  las  nuevas  tecnologías  para  la
+mejora   de  la  documentación,  difusión  y  divulgación  del  patrimonio  arqueológico.  Tesis  de  doctorado.
+Granada: Universidad de Granada http://hdl.handle.net/10481/62261
+
+PEREIRA UZAL, J.M. (2014) Gestión del color en proyectos de digitalización. Barcelona: Marcombo
+
+WATT, A.H.; “Fundamentals of Three-dimensional Computer Graphics”. 3ª Edition. Addison Wesley. 2000
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

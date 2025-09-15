@@ -1,0 +1,33 @@
+🆚 Comparativa de bibliografía: Guia_docente_Tratamiento_de_Imágenes_Digitales_(Especialidad_Tecnologías_de_la_Información (29611FA)
+Grado: ingenieria-informatica (296)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+S. Dey, Hands-On Image Processing with Python, Packt Publishing, 2018
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+S. Dey, Python Image Processing Cookbook, Packt Publishing, 2020 R. Chityala and S. Pudipeddi, Image
+Acquisition   using   Python,   CRC   Press,   2021  C.  Hill,  Learning  Scientific  Programming  with  Python,
+Cambridge   University   Press,   2021   E.  Matthes,  Python  Crash  Couse,  No  Starch  Press,  2015  S.  Prince
+Computer   Vision:  Models,  Learning,  and  Inference  ,  2012  R.  Szeliski  Computer  Vision:  Algorithms  and
+Applications, 2022  →  E. Matthes, Python Crash Couse, No Starch Press, 2015
+
+✅ Recursos añadidos:
+------------------------------
+C. Hill, Learning Scientific Programming with Python, Cambridge University Press, 2021
+
+R. Chityala and S. Pudipeddi, Image Acquisition using Python, CRC Press, 2021
+
+R. Szeliski Computer Vision: Algorithms and Applications, 2022
+
+S. Dey, Python Image Processing Cookbook, Packt Publishing, 2020
+
+S. Prince Computer Vision: Models, Learning, and Inference, 2012
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

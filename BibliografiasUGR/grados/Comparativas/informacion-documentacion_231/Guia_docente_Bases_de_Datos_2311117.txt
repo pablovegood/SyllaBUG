@@ -1,0 +1,32 @@
+🆚 Comparativa de bibliografía: Guia_docente_Bases_de_Datos (2311117)
+Grado: informacion-documentacion (231)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+O.   Pons,   N.   Marín,  J.M.  Medina,  S.  Acid,  M.A.  Vila.  Introducción  a  los  sistemas  de  Bases  de  Datos
+2023. ISBN 9788497325158
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+O.   Pons,   N.   Marín,   J.M.  Medina,  S.  Acid,  M.A.  Vila.  Introducción  a  las  Bases  de  Datos:  El  modelo
+Relacional   Thomson   Paraninfo,   2005.  ISBN  8497323963  Abraham  Silberschatz.  Fundamentos  de  Bases  de
+Datos   McGraw-Hill,   2015.   ISBN  9788448190330  Ullman  J.D.,  J.  Widom.  Introducción  a  los  Sistemas  de
+Bases   de   Datos   Prentice   Hall,  1999  →  Abraham  Silberschatz.  Fundamentos  de  Bases  de  Datos  McGraw-
+Hill, 2015. ISBN 9788448190330
+
+✅ Recursos añadidos:
+------------------------------
+(Ordenada de mayor a menor por intersección de contenidos con la asignatura)
+
+O.   Pons,   N.   Marín,   J.M.  Medina,  S.  Acid,  M.A.  Vila.  Introducción  a  las  Bases  de  Datos:  El  modelo
+Relacional Thomson Paraninfo, 2005. ISBN 8497323963
+
+Ullman   J.D.,   J.   Widom.   Introducción   a   los  Sistemas  de  Bases  de  Datos  Prentice  Hall,  1999.  ISBN
+0138613370
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

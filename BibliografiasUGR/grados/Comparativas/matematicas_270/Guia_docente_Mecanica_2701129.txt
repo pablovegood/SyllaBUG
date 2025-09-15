@@ -1,0 +1,54 @@
+🆚 Comparativa de bibliografía: Guia_docente_Mecánica (2701129)
+Grado: matematicas (270)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+A. Fernández-Rañada, Mecánica Clásica, Alhambra Universidad, 1995
+
+D. A. Wells, Dinámica de Lagrange, McGraw-Hill
+
+F. R. Gantmájer, Mecánica Analítica, Ed. URSS, 1996
+
+H. Goldstein, Mecánica Clásica, Reverté, 1994
+
+J. B. Marion, Dinámica clásica de partículas y sistemas, Reverté, 1985
+
+K.   R.   Symon,   Mecánica,   Aguilar   J.   V.   José   and   E.   H.  Saletan,  Classical  Dynamics,  Cambridge
+University Press E. Levy, Elementos de mecánica del medio continuo, Ed. Limusa-Wiley, 1971
+
+L. I. Sedov, A course in continuum mechanics, Ed. Walter/Noordhoff, 1971
+
+L. N. Hand y J. D. Finch, Analytical mechanics, Cambridge University Press, 1998
+
+M. Spiegel, Mecánica Teórica, McGraw-Hill
+
+S. C. Hunter, Mechanics of Continuos Media, Ed. Ellis Horwood/John Wiley, 1983
+
+T. W. Kibble and F. H. Berkshire, Classical Mechanics, Imperial College Press, 2004
+
+V. I. Arnold, Mathematica methods of Classical Mechanics, Springer-Verlag, 1989
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+A. P. French, Vibraciones y Ondas, Reverté
+
+E. Levy, Elementos de mecánica del medio continuo, Ed. Limusa-Wiley, 1971
+
+G. L. Kotkin y V. G. Serbo, problemas de Mecánica Clásica, Mir
+
+J. V. José and E. H. Saletan, Classical Dynamics, Cambridge University Press
+
+L. Landau y Lifshitz, Mecánica (Curso de Física Teórica, Vol. I), Reverté
+
+L. Landau y Lifshitz, Teoría Clásica de Campos, Reverté
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

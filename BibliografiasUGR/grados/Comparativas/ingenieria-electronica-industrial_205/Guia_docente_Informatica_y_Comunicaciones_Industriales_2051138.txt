@@ -1,0 +1,44 @@
+🆚 Comparativa de bibliografía: Guia_docente_Informática_y_Comunicaciones_Industriales (2051138)
+Grado: ingenieria-electronica-industrial (205)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Bailey, D. Practical Radio Engineering and Telemetry for Industry. Elsevier
+
+Bailey, D., & Wright, E. Practical SCADA for Industry. Elsevier
+
+Clarke,   G.,   &   Reynders,   D.   Practical  Modern  SCADA  Protocols:  DNP3,  60870.5  and  Related  Systems.
+Elsevier
+
+Dargie, W., & Poellabauer, C. Fundamentals of wireless sensor networks: theory and practice. Wiley
+
+Reynders,   D.,   &   Wright,   E.   Practical   Industrial  Data  Communications.  Best  Practice  Techniques.
+Elsevier
+
+Rodríguez, A. Comunicaciones industriales. Sistemas de regulación y control automáticos. Marcombo
+
+Rodríguez, A. Sistemas SCADA (2a edición). Marcombo
+
+Stallings, W. Comunicaciones y redes de computadores. Prentice Hall
+
+Veneri,   G.,   &  Capasso,  A.  Hands-On  Industrial  Internet  of  Things:  create  a  powerful  industrial  IoT
+infrastructure using industry 4.0. Birmingham: Packt Publishing. personal del alumno
+
+Wilamowski, B., & Irwin, J. Industrial communication systems (2nd ed.). CRC Press
+
+Zurawski, R. The Industrial communication technology handbook (2nd ed.). CRC Press
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

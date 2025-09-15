@@ -1,0 +1,38 @@
+🆚 Comparativa de bibliografía: Guia_docente_Fundamentos_de_Bases_de_Datos (2971131)
+Grado: ingenieria-informatica-matematicas (297)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Abraham   Silberschatz,   Henry   F.   Korth  &  S.  Sudarshan.  Fundamentos  de  Bases  de  Datos.  [6ª  edición]
+McGraw-Hill, 2014. ISBN 8448190335
+
+Batini, Ceri, Navathe. Diseño Conceptual de Bases de Datos. Addison-WesleyDiaz de Santos, 1994
+
+Connolly T, C. Begg. Sistemas de Bases de Datos [4ª edición]. Addison-Wesley, 2005. ISBN 8478290753
+
+Date C.J. Introducción a los Sistemas de Bases de Datos. [7ª edición] Prentice Hall, 2001
+
+Elmasri,   Ramez.   Fundamentos   de   sistemas   de   bases  de  datos  /  Ramez  Elmasri,  Shamkant  B.  Navathe
+Madrid Pearson, D.L. 2007 (5ª ed.)
+
+O.   Pons,   N.   Marin,   J.M.   Medina,  S.  Acid,  M.A.  Vila  Introducción  a  las  Bases  de  Datos:  El  modelo
+Relacional [1ª edición] Thomson Paraninfo, 2005. ISBN 84-9732-396-3
+
+Ullman   J.D.,   J.   Widom.  Introducción  a  los  Sistemas  de  Bases  de  Datos[  1ª  edición].  Prentice  Hall,
+1999. ISBN 0138613370
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+Oracle         21C.        Oracle        Database        SQL        Language        Reference.        2025.
+https://docs.oracle.com/en/database/oracle/oracle-database/21/sqlrf/index.html
+
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

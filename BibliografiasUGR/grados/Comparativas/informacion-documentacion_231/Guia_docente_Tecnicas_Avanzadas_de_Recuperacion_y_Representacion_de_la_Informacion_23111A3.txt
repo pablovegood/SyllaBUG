@@ -1,0 +1,56 @@
+🆚 Comparativa de bibliografía: Guia_docente_Técnicas_Avanzadas_de_Recuperación_y_Representación_de_la_Información (23111A3)
+Grado: informacion-documentacion (231)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Kantor, P et al. Recommender Systems Handbook . Springer, 2010
+
+Zhang,   Jin.   Título   Visualization   for   Information   Retrieval.  Heidelberg:  Springer-Verlag  Berlin
+Heidelberg, 2008
+
+📚 Recursos sin cambios:
+------------------------------
+Peters, C. et al. (eds.): Evaluating Systems for Multilingual and Multimodal Information Access, 9th
+Workshop   of  the  Cross-Language  Evaluation  Forum,  CLEF  2008,  Aarhus,  Denmark,  September  17-19,  2008,
+Revised Selected Papers. Lecture Notes in Computer Science 5706 Springer 2009
+
+Ware, Colin. Information visualization: perception for design. Berlin: Elsevier, 2019
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Elayeb,   B.,   Romdhane,   W.B.  &  Saoud,  N.B.B.  Towards  a  new  possibilistic  query  translation  tool  for
+cross-language   information   retrieval.  Multimed  Tools  Appl  77,  2423–2465  Gregory  Grefenstette  (ed).
+Cross-Language   Information   Retrieval.   Kluwer   Academic   Pub.,  1998  →  Elayeb,  B.,  Romdhane,  W.B.  &
+Saoud,   N.B.B.   Towards   a   new   possibilistic  query  translation  tool  for  cross-language  information
+retrieval. Multimed Tools Appl 77, 2423–2465 (2018). https://doi.org/10.1007/s11042-017-4398-2
+
+Neumann,   A.W.   Recommender   systems   for  information  providers:  designing  customer  centric  paths  to
+information.   Physica   Verlag,  2009  Vargas-Quesada,  B.;  Moya-Anegón,  F.de.  Visualizing  the  Structure
+of   Science,   Springer,   Aggarwal   C.C.   (2016)   Content-Based   Recommender  Systems.  In:  Recommender
+Systems   →   Neumann,   A.W.  Recommender  systems  for  information  providers:  designing  customer  centric
+paths to information. Physica Verlag, 2009
+
+✅ Recursos añadidos:
+------------------------------
+Aggarwal   C.C.   (2016)   Content-Based   Recommender  Systems.  In:  Recommender  Systems.  Springer,  Cham.
+https://doi.org/10.1007/978-3-319-29659-3_4
+
+Borgatti,   S.   (2008).  What  is  social  network  analysis?  (Recuperado  17  de  junio  de  2025).  Disponible
+en: http://www.analytictech.com/networks/whatis.htm
+
+Igbinovia, M. O., & Mensah Danquah, M. (2025). Artificial intelligence algorithm bias in information
+retrieval   systems   and  its  implication  for  library  and  information  science  professionals:  A  scoping
+review. Technical Services Quarterly, p. 1-27. https://doi.org/10.1080/07317131.2025.2512282
+
+Tsimara,   I.  &  Oikonomou,  A.  (2023).  Applications  of  Artificial  Intelligence  Technology  in  the  Field
+of Scientific Information. Qualitative & Quantitative Methods in Libraries, 12,1, p. 153-166
+
+Vargas-Quesada, B.; Moya-Anegón, F.de. Visualizing the Structure of Science, Springer, 2007
+
+de, Nooy, Wouter, et al. Exploratory Social Network Analysis with Pajek, Cambridge University Press,
+2011.   ProQuest  Ebook  Central,  https://ebookcentral.proquest.com/lib/ugr/detail.action?docID=802936.
+Disponible          Online          desde          la         Biblioteca         de         la         UGR:
+https://ebookcentral.proquest.com/lib/ugr/detail.action?docID=802936#
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

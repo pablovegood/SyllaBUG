@@ -1,0 +1,36 @@
+🆚 Comparativa de bibliografía: Guia_docente_Ecuaciones_en_Derivadas_Parciales (27011B2)
+Grado: matematicas (270)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Budak,   B.M.;   Samarski,   A.A.  y  Tijonov,  A.N.:  Problemas  de  la  Física  Matemática.  Volúmenes  I  y  II.
+Mir, 1984
+
+Cañada, A. Series de Fourier y Aplicaciones. Ediciones Pirámide, Madrid, 2002
+
+Gilbarg,   D.   y   Trudinger,  N.S.:  Elliptic  Partial  Differential  Equations  of  Second  Order.  Springer-
+Verlag, Berlin-Heidelberg, 1983
+
+Strauss W.A: Partial differential equations an introduction. New York: John Wiley and Sons, 2008
+
+Tijonov, A.N. y Samarsky, A.A. Ecuaciones de la Física Matemática. Mir, 1980
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Peral,   I.:   Primer  curso  de  Ecuaciones  en  derivadas  parciales.  Addison-Wesley,  1995.  La  2ª  edición,
+de   2004,   está   disponible   (libre)   en   Evans,   L.  C.:  Partial  Differential  Equations,  AMS,  2002  →
+Peral,   I.:   Primer  curso  de  Ecuaciones  en  derivadas  parciales.  Addison-Wesley,  1995.  La  2ª  edición,
+de 2004, está disponible (libre) en http://matematicas.uam.es/~ireneo.peral/libro.pdf
+
+✅ Recursos añadidos:
+------------------------------
+BIBLIOGRAFÍA BÁSICA
+
+Evans, L. C.: Partial Differential Equations, AMS, 2002
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

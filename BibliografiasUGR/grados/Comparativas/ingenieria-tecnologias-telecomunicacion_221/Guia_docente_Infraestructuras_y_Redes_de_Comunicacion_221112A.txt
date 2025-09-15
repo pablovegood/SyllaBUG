@@ -1,0 +1,56 @@
+🆚 Comparativa de bibliografía: Guia_docente_Infraestructuras_y_Redes_de_Comunicación (221112A)
+Grado: ingenieria-tecnologias-telecomunicacion (221)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+ADSL   :  standards,  implementation,  and  architecture,  Charles  K.  Summers.  Boca  Raton,  Fla.  CRC  Press,
+1999
+
+Ley 32/2003 General de Telecomunicaciones
+
+Normativa de las Infraestructuras Comunes de Telecomunicaciones, José Manuel Huidobro, Ed. del 2011
+
+R.D. Ley 1/1998 de 27 de Febrero, R. D. 346/2011 de 11 de Marzo y Orden ITC 1644/2011 de 10 de Junio
+
+Redes   de   Telecomunicaciones.   Protocolos,   Modelado   y  Análisis,  M.  Schwartz,  Ed.  Addison-  Wesley,
+1994.   Tema   4:   Bucle   de   Abonado   CMT.  Informes  varios,  entre  ellos:  Oferta  de  Acceso  al  Bucle  de
+Abonado (OBA)
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Redes   e   Infraestructuras   de   Telecomunicación.  Padilla  et  al.  Ed.  Pearson  2014  Infraestructuras  y
+Redes    de    Comunicación.    Padilla    et   al.   Ed.   Godel.   2012   →   Redes   e   Infraestructuras   de
+Telecomunicación. Padilla et al. Ed. Pearson 2014
+
+✅ Recursos añadidos:
+------------------------------
+CMT. Informes varios, entre ellos: Oferta de Acceso al Bucle de Abonado (OBA)
+
+Comunicaciones móviles, José María Hernando Rábanos, Ed. Centro de Estudios Ramón Areces
+
+ITU G.732, G.742 G.745 y G.751 (PDH) e ITU G.707/Y.1322 (SDH)
+
+Infraestructuras y Redes de Comunicación. Padilla et al. Ed. Godel. 2012
+
+Redes de Acceso de Banda Ancha. Arquitectura, Prestaciones, Servicios y Evolución. Julio Berrocal
+
+Redes de Telecomunicaciones. Protocolos, Modelado y Análisis, M. Schwartz, Ed. Addison-Wesley, 1994
+
+Servicios Avanzados de Telecomunicación, Carmen España Boquera
+
+Tema 2: Infraestructuras Comunes de Telecomunicación
+
+Tema 3: Dimensionamiento de red
+
+Tema 5: Redes de acceso
+
+Tema 6: Redes de Transmisión y transporte
+
+Understanding Sonet/SDH and ATM, Stamatios V. Kartalopoulos
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

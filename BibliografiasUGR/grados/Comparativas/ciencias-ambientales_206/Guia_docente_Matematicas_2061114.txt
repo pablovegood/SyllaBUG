@@ -1,0 +1,41 @@
+🆚 Comparativa de bibliografía: Guia_docente_Matemáticas (2061114)
+Grado: ciencias-ambientales (206)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Apuntes de la asignatura Matemáticas Aplicadas a la Biologíade la Universidad de Sevilla
+
+📚 Recursos sin cambios:
+------------------------------
+A.   Alarcón,   M.   Caballero,   J.   M.   Espinar,   J.   A.   Gálvez,   M.  Ortega,  M.  C.  Rosales  y  D.  Ruiz.
+Fundamentos Matemáticos para el estudio del medio ambiente. Copicentro Granada, 2009
+
+E. Larson et al. Cálculo y Geometría analítica. Volumen 1 y 2, McGraw-Hill, 1995
+
+Mulero   Díaz,   A.   y  Ojeda  Martínez  de  Castilla,  I.  Matemáticas  para  Primero  de  Ciencias:  encias.pdf
+m6.ma.tum.de/~kuttler/script1.pdf   A.  Alarcón,  M.  Caballero,  J.  M.  Espinar,  J.  A.  Gálvez,  M.  Ortega,
+M. C. Rosales, D. Ruiz
+
+N. Piskunov. Cáculo Diferencial e Integral. Volumen 1. Editorial Mir, Moscú, 1987
+
+S.I. Grossman. Álgebra Lineal. McGraw-Hill, 1996
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+B.P.   Demidovich.  5000  problemas  de  Análisis  Matemático.  Ed.  Paraninfo,  1999  F.  Ayres,  E.  Mendelson:
+Cálculo   diferencial  e  integral  McGraw-Hill,  2001  I.  Bello:  Álgebra  elemental,  International  Thomson
+Editores,   1999   G.  L.  Bradley,  K.  J.  Smith:  Cálculo  de  una  variable.  Vol.  1  y  2  Prentice-Hall,  1996
+→  G. L. Bradley, K. J. Smith: Cálculo de una variable. Vol. 1 y 2 Prentice-Hall, 1996
+
+✅ Recursos añadidos:
+------------------------------
+B.P. Demidovich. 5000 problemas de Análisis Matemático. Ed. Paraninfo, 1999
+
+C. Kuttler y J. Muller. Methods and models in mathematical Models in Biology . Springer
+
+F. Ayres, E. Mendelson: Cálculo diferencial e integral McGraw-Hill, 2001
+
+I. Bello: Álgebra elemental, International Thomson Editores, 1999
+
+📊 Porcentaje estimado de cambio: 85% [████████░░]

@@ -1,0 +1,54 @@
+🆚 Comparativa de bibliografía: Guia_docente_Estadística_Descriptiva (2231111)
+Grado: estadistica (223)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Rosales Moreno, M.J. (2016). Estadística Básica. Introducción a la Programación Lineal
+
+📚 Recursos sin cambios:
+------------------------------
+Casas   Sánchez,   J.M.   y   Santos   Peña,   J.   (1995).   Introducción   a  la  Estadística  para  Economía  y
+Administración de Empresas. Ed. Centro de Estudios Ramón Areces S.A
+
+Hermoso   Gutiérrez,   J.A.   y  Hernández  Bastida,  A.  (2000).  Curso  básico  de  Estadística  Descriptiva  y
+Probabilidad. Némesis
+
+Milton,   J.S.,   Arnold,   J.C.  (2004).  Probabilidad  y  Estadística  (con  aplicaciones  para  Ingeniería  y
+Ciencias Computacionales). McGraw-Hill Interamericana, México
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Abad, F. y Vargas, M. (1992). Estadística, Júfer Calot, G. (1988). Curso de Estadística Descriptiva.
+Paraninfo. Madrid  →  Calot, G. (1988). Curso de Estadística Descriptiva. Paraninfo. Madrid
+
+Tomeo,   V.   y   Uña.   I.   (2009).  Estadística  Descriptiva,  Garceta  Douglas  A.  Wolfe  &  Grand  Schneider
+(2017).   Intuitive   Introductory   Statistics.   Springer   →   Tomeo,   V.  y  Uña.  I.  (2009).  Estadística
+Descriptiva, Garceta
+
+Casa,   E.   (1994).   200   problemas   de   Estadística   Descriptiva.  Vicens-Vives.  Madrid  Cuadras,  C.M.
+(1995).   Problemas   de   Probabilidad  y  Estadística.  Vol.1:  Probabilidades.  PPU,  Barcelona  →  Casa,  E.
+(1994). 200 problemas de Estadística Descriptiva. Vicens-Vives. Madrid
+
+Mann,   P.S.   (2005).   Introductory   statistics:   using   technology,   John  Wiley  &  Sons  (2005)  Martín
+Guzmán,   M.P.   y   Martín  Pliego,  F.J.  (1989).  Curso  básico  de  Estadística  Económica  →  Martín  Guzmán,
+M.P. y Martín Pliego, F.J. (1989). Curso básico de Estadística Económica. AC. Madrid
+
+✅ Recursos añadidos:
+------------------------------
+Abad, F. y Vargas, M. (1992). Estadística, Júfer
+
+Cuadras, C.M. (1995). Problemas de Probabilidad y Estadística. Vol.1: Probabilidades. PPU, Barcelona
+
+Mann, P.S. (2005). Introductory statistics: using technology, John Wiley & Sons (2005)
+
+Martínez Álvarez, C. y Martínez Álvarez, F. (2014). Apuntes de Estadística y Optimización. Ed. Godel
+impresiones digitales S.L
+
+Martínez   Álvarez,   F.   y   Martínez  Álvarez,  M.C.  (2013).  Problemas  de  Estadística  para  Ingeniería  y
+Ciencias. Ed. Godel impresiones digitales
+
+Weinberg,   S.,   Harel,   D   and   Abramowitz,  S.K.  2021.  Statistics  using  R.  An  integrative  approach  .
+Cambridge University Press
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

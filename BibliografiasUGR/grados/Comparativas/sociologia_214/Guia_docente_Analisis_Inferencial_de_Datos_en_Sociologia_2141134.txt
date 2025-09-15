@@ -1,0 +1,46 @@
+🆚 Comparativa de bibliografía: Guia_docente_Análisis_Inferencial_de_Datos_en_Sociología (2141134)
+Grado: sociologia (214)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Bouso-Freijo,   J.  (2018).  El  paquete  estadístico  R.  Madrid:  Centro  de  Investigaciones  Cuadras,  C.  M.
+(2000). Problemas de probabilidades y estadística. Barcelona: Universidad de Barcelona
+
+García Ferrando, y otros (comp) (2007). El análisis de la realidad social. Madrid: Alianza Editorial
+
+📚 Recursos sin cambios:
+------------------------------
+Berihuete   Macias,   Ángel  .,  García  Ramos,  Juan  Antonio  y  Ramos  González,  Carmen  (2018).  Estadística
+descriptiva y probabilidad para criminólogos. Universidad de Cádiz UCA
+
+Díaz   Chávez,   Luis   Alberto   Rosado  Vega,  Jairo  Rafael  (2019).  Tratamiento  Estadístico  de  Datos  con
+Aplicaciones en R. Colombia: Editorial Gente Nueva
+
+Liviano Solís, Daniel. y Pujol Jover, María. (2019). Análisis de datos y estadística descriptiva con
+R y R-Commander. FUOC. Barcelona
+
+López Moreno, Walter. (2021). Estadística práctica. El Cid Editor
+
+Vela   Torres,   Manuel.  y  Rodríguez  Monge,  Ángel.  (2011).  Introducción  al  Análisis  de  Datos.  Proyecto
+Sur. Granada
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+Aristondo   Echeberria,  Oihana.  Núñez  González,  José  David  y  Porlán  Ferrando,  Lucía  (2025)  Matemática
+estadística.                      Manuales                      universitarios                     UPV.
+https://addi.ehu.es/bitstream/handle/10810/71811/UMAPD259479.pdf?sequence=1&isAllowed=y
+
+Bouso-Freijo,    Jesús    (2018).    El   paquete   estadístico   R.   Madrid:   Centro   de   Investigaciones
+Sociológicas. https://libreria.cis.es/libros/el-paquete-estadistico-r/9788474767773/
+
+Moreno   Díaz   Arminda   y   Rodríguez   Galiano,   María   Isabel   (2016).   Fundamentos   de  estadística  y
+probabilidad . Centro de Estudios Financieros
+
+Paladino, Martín (2018). R para Ciencias Sociales. https://martinpaladino.github.io/rsociales/
+
+📊 Porcentaje estimado de cambio: 85% [████████░░]

@@ -1,0 +1,54 @@
+🆚 Comparativa de bibliografía: Guia_docente_Industrias_Químicas (29111B1)
+Grado: quimica (291)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+A. Vian Ortuño (1993). Introducción a la Química Industrial. Editorial Reverté. ISBN: 9788429179330
+
+Encyclopedia   of   Chemical   Processing   and   Desgin.   J.J.   Mcketta,   M.  Dekker.  61  tomos.  Ordenados
+alfabéticamente. Diferentes años
+
+K. Weissermel, H.J. Arpe (1981). Química orgánica Industrial. Editorial Reverté. ISBN: 9788429179897
+
+ULLMANN'S Encyclopedia of Industrial Chemistry (2003). Wiley VCH. ISBN: 9783527306732
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+M.A.   Ramos   Carpio   (1997).   Refino   de   Petróleo,  Gas  natural  y  Petroquímica.  Fundación  Innovación
+Industrial.   ISBN:  9788460567554  W.  Büchner,  R.  Schliébs,  G.  Winter,  K.  H.  Bücjel  (1989).  Industrial
+Inorganic   Chemistry.  VCH.  ISBN:  978-0895736109  M.  Martín  Martín  (2016).  Industrial  Chemical  Process
+Analysis   and  Design.  Elsevier.  ISBN:  9780081010938  J.A.  Kent,  T.V.  Bommaraju,  S.D.  Barnicki  (2017).
+Handbook   of   Industrial   Chemistry   and   Biotechnology.   Springer.   ISBN:  9783319522876  J.A.  Tyrrel
+(2014).   Fundamentals  of  Industrial  Chemistry:  Pharmaceuticals,  Polymers,  and  Business.  Wiley.  ISBN:
+978-1118617564   →   M.A.   Ramos   Carpio   (1997).   Refino   de   Petróleo,   Gas   natural  y  Petroquímica.
+Fundación Innovación Industrial. ISBN: 9788460567554
+
+9788429179897   E.  Primo  Yufera  (1981).  Química  Agrícola.  Suelos  y  fertilizantes.  Editorial  Alhambra.
+ISBN:   9788420504483   M.   Grau   Ríos,   E.   Muñoz  Camacho  (2012).  Ingeniería  Química.  UNED.  ISBN  →  E.
+Primo    Yufera    (1981).   Química   Agrícola.   Suelos   y   fertilizantes.   Editorial   Alhambra.   ISBN:
+9788420504483
+
+✅ Recursos añadidos:
+------------------------------
+Enciclopedias
+
+J.A. Kent, T.V. Bommaraju, S.D. Barnicki (2017). Handbook of Industrial Chemistry and Biotechnology.
+Springer. ISBN: 9783319522876
+
+J.A.   Tyrrel   (2014).  Fundamentals  of  Industrial  Chemistry:  Pharmaceuticals,  Polymers,  and  Business.
+Wiley. ISBN: 978-1118617564
+
+M. Grau Ríos, E. Muñoz Camacho (2012). Ingeniería Química. UNED. ISBN: 978843626418
+
+M.   Martín   Martín   (2016).   Industrial   Chemical   Process   Analysis   and   Design.   Elsevier.   ISBN:
+9780081010938
+
+W.   Büchner,  R.  Schliébs,  G.  Winter,  K.  H.  Bücjel  (1989).  Industrial  Inorganic  Chemistry.  VCH.  ISBN:
+978-0895736109
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

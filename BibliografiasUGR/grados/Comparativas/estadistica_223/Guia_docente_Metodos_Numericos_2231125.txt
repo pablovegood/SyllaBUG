@@ -1,0 +1,46 @@
+🆚 Comparativa de bibliografía: Guia_docente_Métodos_Numéricos (2231125)
+Grado: estadistica (223)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Gasca, M. (1991). Cálculo Numérico I. Sexta edición. U.N.E.D
+
+Gasca,   M.   (1999).   Cálculo   Numérico:   Resolución   de  ecuaciones  y  sistemas.  Segunda  edición.  Mira
+Editores S.A
+
+Kincaid, D. y Cheney, W. (1994). Análisis numérico. Las matemáticas del cálculo científico. Addison-
+Wesley Iberoamericana
+
+Martínez,   A.  y  Moreno,  J.J.  (1999).  Métodos  Numéricos:  Aproximación  en  R.  Servicio  de  Publicaciones
+de la Universidad de Almería
+
+Pérez, F.J. (1998). Métodos numéricos básicos para la resolución de sistemas de ecuaciones lineales.
+Servicio de Publicaciones de la Universidad de Cádiz
+
+Sanz-Serna,   J.M.   (2010).   Diez   lecciones   de   Cálculo   Numérico.   Segunda  edición.  Universidad  de
+Valladolid
+
+Serrano   Pérez,   M.C.   (2022).   Métodos  Numéricos.  Segundo  curso  del  Grado  en  Estadística.  Editorial
+Técnica AVICAM
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Editorial   Técnica   AVICAM  Serrano  Pérez,  M.C.  (2022).  Prácticas  de  Métodos  Numéricos.  Segundo  curso
+del   Grado  en  Estadística.  Editorial  Técnica  AVICAM  Burden,  R.L.,  Faires,  J.D.  y  Burden  A.M.  (2017).
+Análisis   Numérico.   Décima  edición,  Cengage  Learning  Editores,  México  →  Serrano  Pérez,  M.C.  (2022).
+Métodos Numéricos. Segundo curso del Grado en Estadística. Editorial Técnica AVICAM
+
+✅ Recursos añadidos:
+------------------------------
+Burden, R.L., Faires, J.D. y Burden A.M. (2017). Análisis Numérico. Décima edición, Cengage Learning
+Editores, México
+
+Serrano   Pérez,  M.C.  (2022).  Prácticas  de  Métodos  Numéricos.  Segundo  curso  del  Grado  en  Estadística.
+Editorial Técnica AVICAM
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

@@ -1,0 +1,50 @@
+🆚 Comparativa de bibliografía: Guia_docente_Administración_de_Bases_de_Datos_(Especialidad_Sistemas_de_Información (296113T)
+Grado: ingenieria-informatica (296)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hay elementos.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Pons   O.,   Marín   N.,  Medina  J.M.,  Acid  S.,  Vila  M.A.  Introducción  a  los  Sistemas  de  Bases  de  Datos.
+Paraninfo-Cengage   Learning   (2008)   Hector   Garcia-Molina,   Jeffrey   D.   Ullman,  Jennifer  D.  Widom.
+Database   Systems:   The   Complete  Book,  segunda  edición,  Prentice  Hall.  (2009)  Abraham  Silberschatz,
+Henry   F.   Korth,  S.  Sudarshan.  Database  Systems  Concepts  (séptima  edición)  McGraw-Hill.  (2020)  J.D.
+Ullman,   J.  Widom,  Introducción  a  los  Sistemas  de  Bases  de  Datos,  Prentice  Hall.  (1999)  CONNOLLY  T.,
+BEGG   C.   (cuarta   edición)   Database  Systems,  Addison-Wesley  (2005)  Pons  O.,  Marín  N.,  Medina  J.M.,
+Vila   M.A.  Introducción  a  las  Bases  de  Datos.  Thomson-  Paraninfo.  (2005)  C.  J.  Date.  An  Introduction
+to Database Systems, 8a edición, Addison-Wesley. (2003) Hansen, Gary, Hames, Diseño y Administración
+de   Bases   de  Datos,  (segunda  edición),  Prentice  Hall.  (2000)  Elmasri  R.A.,  Navathe  S.B.  Fundamentos
+de   Sistemas   de   Bases   de   Datos   (quinta  edición),  Addison-Wesley.  (2007)  →  Elmasri  R.A.,  Navathe
+S.B. Fundamentos de Sistemas de Bases de Datos (quinta edición), Addison-Wesley. (2007)
+
+✅ Recursos añadidos:
+------------------------------
+Abraham   Silberschatz,   Henry   F.   Korth,   S.  Sudarshan.  Database  Systems  Concepts  (séptima  edición)
+McGraw-Hill. (2020)
+
+C. J. Date. An Introduction to Database Systems, 8a edición, Addison-Wesley. (2003)
+
+CONNOLLY T., BEGG C. (cuarta edición) Database Systems, Addison-Wesley (2005)
+
+Hansen,   Gary,   Hames,   Diseño  y  Administración  de  Bases  de  Datos,  (segunda  edición),  Prentice  Hall.
+(2000)
+
+Hector   Garcia-Molina,   Jeffrey   D.   Ullman,  Jennifer  D.  Widom.  Database  Systems:  The  Complete  Book,
+segunda edición, Prentice Hall. (2009)
+
+J.D. Ullman, J. Widom, Introducción a los Sistemas de Bases de Datos, Prentice Hall. (1999)
+
+Pons   O.,   Marín   N.,  Medina  J.M.,  Acid  S.,  Vila  M.A.  Introducción  a  los  Sistemas  de  Bases  de  Datos.
+Paraninfo-Cengage Learning (2008)
+
+Pons   O.,   Marín   N.,   Medina   J.M.,  Vila  M.A.  Introducción  a  las  Bases  de  Datos.  Thomson-Paraninfo.
+(2005)
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

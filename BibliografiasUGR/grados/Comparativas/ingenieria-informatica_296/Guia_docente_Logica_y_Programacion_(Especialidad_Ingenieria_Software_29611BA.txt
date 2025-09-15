@@ -1,0 +1,56 @@
+🆚 Comparativa de bibliografía: Guia_docente_Lógica_y_Programación_(Especialidad_Ingeniería_Software (29611BA)
+Grado: ingenieria-informatica (296)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Barendregt, H.P. The Lambda Calculus. Its Syntax and Semantics. North-Holland, 1984
+
+Bird, R. Introducción a la Programación Funcional con Haskell. Prentice Hall, 2000
+
+Chin-Liang   Chang;  Chart-Tung  Lee,  R.  Symbolic  Logic  and  Mechanical  Theorem  Proving.  Academic  Press,
+1973
+
+Clocksin, W.F.; Mellish, C.S. Programming in Prolog, 5th Edition. Springer Verlag
+
+Delahaye, J.P. Formal Methods in Artificial Intelligence. Willey, 1987
+
+Hankin,   C.;   An   Introduction  to  Lambda  Calculi  for  Computer  Scientists.  Kings  College  Publications
+(28 febrero 2004)
+
+Hindley,   J.R.;  Seldin,  J.P.  Lambda-Calculus  and  Combinators.  And  Introduction.  Cambridge  University
+Press, 2008
+
+Hortalá   T.;   Martí,  N.  y  otros.  Lógica  Matemática  para  Informáticos.  Ejercicios  Resueltos.  Prentice
+Hall Pearson, 2008
+
+Lipovaca, M. Learn you a Haskell for Great Good! A beginner’s Guide. No Starch Press, 2011
+
+Mendelson, E. Introduction to Mathematical Logic, Chapman and Hall, 1997
+
+Ruiz, B.C., Gutiérrez, F. y otros. Razonando con Haskell. Thomson, 2004
+
+Sterling L.; Shapiro, E. The Art of Prolog: Advanced Programming Techniques. MIT Press, 1986
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+Abdali, S. K.; A Simple Lambda-Calculus Model of Programming Languages. Sothis Press, 2023
+
+Di   Piero,   A.;   From  Lambda  Calculus  to  Cybersecurity  Through  Program  Analysis:  Essays  Dedicated  to
+Chris   Hankin   on   the   Occasion   of  His  Retirement:  12065  (Theoretical  Computer  Science  and  General
+Issues), Springer 2020
+
+Selinger, P.; Lecture Notes on the Lambda Calculus. Lulu.com, 2018
+
+Zerpa,   L;   The   Logic,   Philosophy,   and   History   of   the  Lambda-Calculus:  Theory  and  Applications
+(History of Analytic Philosophy). ‎ Springer-Verlag GmbH, 2025
+
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

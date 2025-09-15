@@ -1,0 +1,65 @@
+🆚 Comparativa de bibliografía: Guia_docente_Creación_Multimedia_Interactiva (2601127)
+Grado: bellas-artes (260)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+A. Wilhelm; “La Biblia de Godot (Nivel 1)”. Independently published, 2023
+
+A.M. Spalter; “The Computer in the Visual Arts”. Addison-Wesley, 1999
+
+B. Furht; “Encyclopedia of Multimedia”. Springer, 2008
+
+C. Paul; “Digital Art: World of Art Series, 3rd Edition”. Thames & Hudson, 2015
+
+D. Seegmiller; “Digital Character Painting Using Photoshop”. Charles River Media, 2007
+
+H. Rodríguez Alonso; “Guía completa de la imagen digital, 5ª edición”. Marcombo, 2020
+
+J. Dean, “Web Programming with HTML5, CSS, and JavaScript”. Jones & Bartlett Learning, 2019
+
+J.F.   Hughes,   A.   Van   Dam,   M.   McGuire,   D.   Sklar,  J.D.  Foley,  S.K.  Feiner,  K.  Akeley;  “Computer
+Graphics: Principles and Practice”. Addison-Wesley, 2014
+
+M. Galer, L. Horvat; “La imagen digital”. Anaya Multimedia, 2006
+
+M. Marquis; “JavaScript for Web Designers, 1st Edition”. A Book Apart, 2016
+
+N. Chapman, J. Chapman; “Digital Multimedia”. Wiley, 2009
+
+S. Fulton, J. Fulton; “HTML5 Canvas: Native Interactivity and Animation for the Web”. O’Reilly, 2013
+
+T. Sylvester; “Designing Games: A Guide to Engineering Experiences”. O'Reilly Media, Inc, 2013
+
+Z.N. Li, M.S. Drew, J. Liu; “Fundamentals of Multimedia, 3rd. Edition”. Springer, 2021
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+J.   Schell;   “The  Art  of  Game  Design,  3rd  Edition”.  A  K  Peters/CRC  Press,  2019  →  J.  Schell;  “The  Art
+of   Game   Design,   3rd   Edition”.  A  K  Peters/CRC  Press,  2019  (Traducido  al  español  en:  J.  Shell;  “El
+arte de diseñar juegos: un libro de prismas”. Sugaar Editorial 2024)
+
+E.   Burchard;   “The   Web   Game   Developer's   Cookbook:  Using  JavaScript  and  HTML5  to  Develop  Games”.
+Addison-Wesley,   2013   L.   Candy,   E.  Edmonds,  F.  Poltronieri;  “Explorations  in  Art  and  Technology”.
+Springer,   2018   →   E.   Burchard;   “The  Web  Game  Developer's  Cookbook:  Using  JavaScript  and  HTML5  to
+Develop Games”. Addison-Wesley, 2013
+
+Edition”.   CRC   Press,   2020   →   J.   Schell;   “The   Art  of  Game  Design,  3rd  Edition”.  A  K  Peters/CRC
+Press,   2019   (Traducido   al  español  en:  J.  Shell;  “El  arte  de  diseñar  juegos:  un  libro  de  prismas”.
+Sugaar Editorial 2024)
+
+✅ Recursos añadidos:
+------------------------------
+C. Millner; “Digital Storytelling: A Creator's Guide to Interactive Storytelling, 4rd. Edition”. CRC
+Press, 2020
+
+D.   Saffer;   “Designing   for  Interaction:  Creating  Innovative  Applications  and  Devices”.  New  Riders,
+2010
+
+L. Candy, E. Edmonds, F. Poltronieri; “Explorations in Art and Technology”. Springer, 2018
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

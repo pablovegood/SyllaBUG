@@ -1,0 +1,130 @@
+🆚 Comparativa de bibliografía: Guia_docente_Técnicas_de_Análisis_en_la_Investigación_Psicológica (2641117)
+Grado: psicologia (264)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Amón,   J.   (2000).   Estadística   para  Psicólogos  II.  Probabilidad.  Estadística  Inferencial  (9ª  Ed.).
+Ediciones Pirámide
+
+Anderson, T.W. (1984). An introduction to multivariate statistical analysis. John Wiley
+
+Ato, M. y Vallejo, G. (2007). Diseños experimentales en psicología. Pirámide
+
+Balluerka,   N.   y  Vergara,  A.I.  (1997)  Diseños  De  Investigación  Experimental  En  Psicología.  Prentice
+Hall
+
+Brook, R.J. y Arnolf, G.C. (1985) Applied Regression Analysis and Experimental Design. Marcel Dekker
+
+Cohen,   J.   y   Cohen   P.  (1983)  Applied  Multiple  Regression/Correlation  Analysis  for  the  Behavioural
+Sciences. Lawrence Erlbaum Associates
+
+Conover, W.J. (1980) Practical Nonparametric Statistics. John Wiley. New York
+
+Cox, D.R. y Hinkley, D.V. (1974) Theoretical Statistics. Chapman Hall. Londres
+
+Draper, N. Y Smith, H. (1981) Applied Regression Analysis. John Wiley
+
+Fisz, M. (1963) Probability Theory and Mathematical Statistics. John Wiley. New York
+
+Fox, J. (1984) Linear Statistical Models and Related Methods. John Wiley
+
+Gibbons, J.D. (1985) Nonparametric Statistical Inference. Marcel Dekker
+
+Graybill, F.A. (1961) An Introduction to Linear Statistical Models. McGraw-Hill
+
+Green,   D.M.   y  Swets,  J.A.  (1974)  Signal  Detection  Theory  and  Psychophysics.  Robert  E.  Krieger  Pub.
+Co
+
+Guàrdia,   J.,   Freixa,  M.,  Peiró,  M.,  y  Turbany,  J.  (2007).  Análisis  de  datos  en  Psicología:  Madrid:
+Delta
+
+Hair,   J.F.,   Anderson,   R.E.,   Tatham,   R.L   y  Black,  W.C.  (2000).  Análisis  Multivariante  (5ª  Ed.).
+Prentice Hall
+
+Hopkins,   K.D.   Hopkins,   B.R.  y  Glass,  G.V.  (1997).  Estadística  Básica  para  las  Ciencias  Sociales  y
+del Comportamiento. Prentice Hall
+
+Horst, P. (1963) Matrix Algebra for Social Scientists. Holt, Rinehart and Winston
+
+Kendall, M. y Stuart, A. (1979) The Advanced Theory of Statistics Vol. 2. Charles Griffin
+
+Kirk, R.E. (1995) Experimental Design. Procedures for the Behavioural Sciences. Brooks Cole
+
+Kline,   R.   (2004).   Beyond   Significance   Testing:   Reforming   data  Analysis  Methods  in  Behavioural
+Research. American Psychological Association
+
+Kshizsgar, A.M. (1983) A course in Linear Models. Marcel Dekker
+
+Lancaster, H.O. (1969) The Chi Squared Distribution. John Wiley. New York
+
+Lehmann, E.L. (1959) Testing Statistical Hypotheses. John Wiley. New York
+
+Marascuilo,   L.   y   McSweeney   (1977)   Nonparametric   and   Distribution.  Free  Methods  for  the  Social
+Sciences. Brooks Cole
+
+Maritz, J.S. (1981) Distribution-Free Statistical Methods. Chapman Hall
+
+Martínez,   R.,   Castellanos,  M.A.  y  Chacón  J.C  (2014).  Análisis  de  datos  en  Psicología  y  Ciencias  de
+la Salud. II Inferencia estadística. Madrid: Eos
+
+Maxwell, S.E. y Delaney, H.D. (1990) Designing Experiments and Analyzing Data. Brooks Cole
+
+McCullogh, P y Nelder, J.A. (1983) Generalized Linear Models. Chapman Hall
+
+Pagano, R. (1999). Estadística para las Ciencias del Comportamiento. Thomson Paraninfo
+
+Pardo, A. y san martín, R. (1998). Análisis de Datos en Psicología II (2ª Ed.). Pirámide
+
+Pratt, J.W. y Gibbons, J.D. (1981) Concepts of Nonparametric Theory. Springer-Verlag
+
+Puri, M.L. y Sen, P.K. (1971) Nonparametric methods in Multivariate Analysis. John Wiley. New York
+
+Pérez, C. (2009). Técnicas Estadísticas Multivariantes con SPSS. Garceta Grupo Editorial
+
+Rao, C.R. (1973) Linear Statistical Inference. John Wiley. New York
+
+Rios, S. (1977) Métodos Estadísticos. Ediciones del Castillo. Madrid
+
+Sachs, L. (1978) Estadística Aplicada. Labor
+
+Searle,   S.R.   Miller,   R.G.   Watson,   G.S.  Hunter,  J.S.  Bradley,  R.A.  y  Kendall,  D.G.  (1982)  Matrix
+Algebra useful for Statistics. John Wiley
+
+Snedecor, G.W. y Cochran, W.G. (1980) Statistical Methods. Iowa University Press
+
+Visauta   Vinacua,   B.   (2003).   Análisis   Estadístico   con   SPSS   Para   Windows   Vol   II  Estadística
+Multivariante. Mc Graw Hill
+
+Wald, A. (1971) Statistical Decision Functions. Chelsea Pub. Co
+
+Weisberg, S. (1985) Applied Linear Regression. John Wiley
+
+Wilks, S. (1962) Mathematical Statistics. John Wiley. New York
+
+Zacs, S. (1971) The Theory of Statistical Inference. John Wiley. New York
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Navarro   DJ   and   Foxcroft   DR   (2019).   learning   statistics  with  jamovi:  a  tutorial  for  psychology
+students   and   other  beginners.  (Version  0.70).  DOI:  10.24384/hgc3-7p15  Pardo,  A.,  Ruiz,  M.A.,  y  San
+Martín   ,   R.   (2009).   Análisis   de   datos  en  Ciencias  Sociales  y  de  la  Salud  I.  Madrid:  Síntesis  →
+Navarro   DJ   and   Foxcroft   DR   (2019).   learning   statistics  with  jamovi:  a  tutorial  for  psychology
+students and other beginners. (Version 0.70). DOI: 10.24384/hgc3-7p15
+
+Seber,   G.A.   (1977)   Linear   Regression   Analysis.   John   Wiley   Siegel,   S.   (1983)  Estadística  no
+paramétrica   aplicada   a   las   ciencias   de   la  conducta.  Trillas  →  Siegel,  S.  (1983)  Estadística  no
+paramétrica aplicada a las ciencias de la conducta. Trillas
+
+✅ Recursos añadidos:
+------------------------------
+Pardo, A., Ruiz, M.A., y San Martín, R. (2009). Análisis de datos en Ciencias Sociales y de la Salud
+I. Madrid: Síntesis
+
+Seber, G.A. (1977) Linear Regression Analysis. John Wiley
+
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

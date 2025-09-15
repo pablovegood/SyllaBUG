@@ -1,0 +1,61 @@
+🆚 Comparativa de bibliografía: Guia_docente_Termodinámica (2671123)
+Grado: fisica (267)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Andrews, F. C., Thermodynamics, Pergamon Press, London, 1964
+
+Biel Gayé, J. Formalismo y métodos de la Termodinámica, Vol. 1 Y 2, Reverté, Barcelona, 1998
+
+Callen, H.B. Termodinámica, Editorial AC, Madrid, 1981
+
+Forland,   K.  S.,  Forland,  T.,  y  Ralkje,  S.  K.,  Irreversible  Thermodynamics.  Theory  and  Applications,
+John Wiley & Sons, New York, 1988
+
+Kondepudi,D, y Prigogine, I., Modern Thermodynamics. John Wiley & Sons, New York, 2006
+
+Kubo, R., Thermodynamics, North- Holland Pub. Co., Amsterdam, 1968
+
+Landsberg, P. T., Thermodynamics, Interscience Pub., New York, 1961
+
+Münster, A., Classical Thermodynamics, Wiley-Interscience, London, 1970
+
+Pellicer, J., y Mafé, S., Cuestiones de Termodinámica, Alhambra, Madrid, 1989
+
+Pérez Cruz, J.R., Problemas Razonados de Termodinámica, Ed. García-Maroto, 2021
+
+Stanley,   M.   E.,   Introduction   to   Phase   Transitions   and  Critical  Phenomena,  Oxford  Univ.  Press,
+Oxford, 1971
+
+Tejerina, A. F., Termodinámica, Paraninfo, Madrid, 1976
+
+Zemansky, M.W. y Dittman, R.H., Calor y Termodinamica, McGraw-Hill, Madrid, 1984
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Guggeheim,   E.   A.,   Thermodynamics,   North-Holland   Pub.   Co.   Amsterdam,   1967.   ter   Haar,  D.  and
+Wergeland,   H.   N.   S.,   Thermodynamics,   Addison-Wesley   Pub.  Co.,  Reading,  1966  →  ter  Haar,  D.  and
+Wergeland, H. N. S., Thermodynamics, Addison-Wesley Pub. Co., Reading, 1966
+
+Adkins,   C.J.,  Termodinámica  del  Equilibrio,  Reverté,  Barcelona,  1997.  de  Groot,  S.  R.  and  Mazur,  P.
+Non-equilibrium   Thermodynamics,   North-Holland   Pub,   Amsterdam,  1962  →  Adkins,  C.J.,  Termodinámica
+del Equilibrio, Reverté, Barcelona, 1997
+
+Hsieh,   J.   S.,   Principles   of  Thermodynamics,  Mc  Graw-Hill,  New  Cork,  1975  Kestin,  J.,  A  Course  in
+Thermodynamics,   Blaisdell   Pub.   Co.,   Amsterdam,   1968   →   Kestin,  J.,  A  Course  in  Thermodynamics,
+Blaisdell Pub. Co., Amsterdam, 1968
+
+✅ Recursos añadidos:
+------------------------------
+Guggeheim, E. A., Thermodynamics, North-Holland Pub. Co. Amsterdam, 1967
+
+Hsieh, J. S., Principles of Thermodynamics, Mc Graw-Hill, New Cork, 1975
+
+de Groot, S. R. and Mazur, P. Non-equilibrium Thermodynamics, North-Holland Pub, Amsterdam, 1962
+
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

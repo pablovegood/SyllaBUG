@@ -1,0 +1,70 @@
+🆚 Comparativa de bibliografía: Guia_docente_Ingenieria_de_Proteínas (25111A9)
+Grado: biotecnologia (251)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Protein   Structural   Alignment  and  a  Quantitative  Measure  for  Protein  Structural  Distance”.  An-  Suei
+Yang   and   Barry   Honig.   J.   Mol.   Biol.   (2000)   301,   665-678.  numéricos,  interpretado  resultados
+experimentales,   empleado   programas   de   ordenador   y  recursos  Web,  elaborado  estrategias  de  diseño
+estructural   de   proteínas,   implementado   algoritmos   predictivos   y   redactado   informes   breves  o
+revisiones   bibliográficas  sobre  aspectos  puntuales  de  la  asignatura.  La  elaboración,  con  todo  ello,
+del correspondiente cuaderno de
+
+📚 Recursos sin cambios:
+------------------------------
+“An   Introduction   to  Bioinformatics  Algorithms  (Computational  Molecular  Biology)”.Neil  C.  Jones  and
+Pavel A. Pevzner. The MIT Press (2004)
+
+“Bioinformatics:   Sequence  and  Genome  Analysis,  Second  Edition”.  David.  W.  Mount.  Cold  Spring  Harbor
+Laboratory Press; 2ª edición (2004)
+
+“Bioinformatics”. Andrzei Polanski and Marek Kimmel. Springer. 1ª edición (2007)
+
+“Computational Structural Biology: Methods and Applications”. Torsten Schwede and Manuel C. Peitsch.
+World Scientific Publishing Company. 1ª edición (2008)
+
+“Protein   Bioinformatics:   An   Algorithmic   Approach   to   Sequence   and   Structure  Analysis”.  Inqvar
+Eidhammer, Inge Jonassen and William R. Taylor. Wiley. 1ª edición (2004)
+
+“Protein Engineering and Design”. Sheldon Park and Jennifer Cochran. CRC Press. 1ª edición (2009)
+
+“Protein   Geometry:   Volumes,   Areas,   and  Distances”.  M  Gerstein,  F  M  Richards  (2001)  International
+Tables for Crystallography (Volume F, Chapter 22.1.1, pages 531-539; M Rossmann & E Arnold, editors)
+
+“Protein Structure: A Practical Approach”. T. E. Creighton. 2nd edition. Oxford University Press. 2ª
+ed. (1997)
+
+“Protein   families   and  their  evolution.  A  structural  perspective”.  Christine  A.  Orengo  and  Janet  M.
+Thornton Annu. Rev. Biochem. 2005. 74:867–900
+
+“Quantifying   the   Similarities   within   Fold   Space”.  Andrew  Harrison,  Frances  Pearl,  Richard  Mott,
+Janet Thornton, and Christine Orengo. J. Mol. Biol. (2002) 323, 909–926
+
+“Structural   Bioinformatics:   An   Algorithmic   Approach”.   Forbes  J.  Burkowski.  Chapman  and  Hall/CRC
+Eds.; 1ª edición (2008)
+
+“Structural   Bioinformatics”.   Jenny   Gu   (Editor),  Philip  E.  Bourne  (Editor)  2ª  Ed.  Wiley-Blackwell
+(2009)
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+“Visual software tools for bioinformatics”. Timothy Arndt. Journal of Visual Languages and Computing
+&   Computing,   19   (2008)   291–301   “Recognizing  the  fold  of  a  protein  structure”.  Andrew  Harrison1,
+Frances   Pearl,   Ian   Sillitoe,   Tim   Slidel,   Richard   Mott,   Janet  Thornton,  and  Christine  Orengo.
+Bioinformatics,   19:14   (2003),   1748–1759   →   “Visual   software   tools  for  bioinformatics”.  Timothy
+Arndt. Journal of Visual Languages and Computing & Computing, 19 (2008) 291–301
+
+✅ Recursos añadidos:
+------------------------------
+Protein   families   and   their   evolution:  A  structural  perspective.  Christine  A.  Orengo  and  Janet  M.
+Thornton. Annu. Rev. Biochem. 2005. 74:867–900
+
+“An Integrated Approach to the Analysis and Modeling of Protein Sequences and Structures. I. Protein
+Structural   Alignment   and  a  Quantitative  Measure  for  Protein  Structural  Distance”.  An-Suei  Yang  and
+Barry Honig. J. Mol. Biol. (2000) 301, 665-678
+
+“Recognizing   the   fold   of  a  protein  structure”.  Andrew  Harrison1,  Frances  Pearl,  Ian  Sillitoe,  Tim
+Slidel, Richard Mott, Janet Thornton, and Christine Orengo. Bioinformatics, 19:14 (2003), 1748–1759
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

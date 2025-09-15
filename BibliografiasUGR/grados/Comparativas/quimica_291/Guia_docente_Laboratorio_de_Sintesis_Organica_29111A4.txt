@@ -1,0 +1,48 @@
+🆚 Comparativa de bibliografía: Guia_docente_Laboratorio_de_Síntesis_Orgánica (29111A4)
+Grado: quimica (291)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Bell,   C.   E.;  Taber,  D.  F.;  Clark,  A.  K.  Organic  Chemistry  Laboratory.  Hartcourt  College  Publisher,
+2001
+
+Durst, H. D.; Gokel, G. W. Química Orgánica Experimental. Reverté, 2007
+
+Isac   Garcia,   J.;   Dobado,  J.  A.;  García  Calvo-Flores,  F.;  Martínez  García,  H.  Experimental  Organic
+Chemistry: Laboratory Manual. Ed. Academic Press 2015
+
+Isac   García,   J.;   Dobado   Jiménez,   J.  A.;  García  Calvo-Flores,  F.;  Martínez  García,  H.  Tratado  de
+Química Orgánica Experimental. Ibergarceta publicaciones, 2013
+
+Lopez-Ruiz,   A.;   Ortega-Muñoz,   M.;  Santoyo-Gonzalez,  F.;  Megia-Fernandez,  A.  Chemical  Papers  2023,
+77, 5227-5236
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Fieser,L.F.;   Willianson   K.L.   Organic  Experiments.  Heath  &  Company,  1987  Harwood,  L.  M.;  Moody,  C.
+J.;   Percy,   J.   M.   Experimental  Organic  Chemistry.  Blacwell  Science,  1999  →  Harwood,  L.  M.;  Moody,
+C. J.; Percy, J. M. Experimental Organic Chemistry. Blacwell Science, 1999
+
+Martínez   Grau,   M.A.;  Csákÿ,  A.  G.  Técnicas  Experimentales  en  Síntesis  Orgánica.  Editorial  Sintesis
+1998   Vogel,   A.I.   Vogel's   textbook  of  practical  organic  chemistry.  Longman,  1989  →  Martínez  Grau,
+M.A.; Csákÿ, A. G. Técnicas Experimentales en Síntesis Orgánica. Editorial Sintesis 1998
+
+Zubrick,   J.W.   "The  Organic  Chem  Lab  Survival  Manual".  A  sudent's  guide  to  techniques,  (5ª  ed.),  J.
+Willey   &   Sons,   2001  Lehman,  J.  W.  Operational  Organic  Chemistry.  Prentice  Hall,  2002  →  Lehman,  J.
+W. Operational Organic Chemistry. Prentice Hall, 2002
+
+✅ Recursos añadidos:
+------------------------------
+Fieser,L.F.; Willianson K.L. Organic Experiments. Heath & Company, 1987
+
+Vogel, A.I. Vogel's textbook of practical organic chemistry. Longman, 1989
+
+Zubrick,   J.W.   "The  Organic  Chem  Lab  Survival  Manual".  A  sudent's  guide  to  techniques,  (5ª  ed.),  J.
+Willey & Sons, 2001
+
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

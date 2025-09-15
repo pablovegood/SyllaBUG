@@ -1,0 +1,80 @@
+🆚 Comparativa de bibliografía: Guia_docente_Análisis_Exploratorio_de_Datos (22311C1)
+Grado: estadistica (223)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+BORG, I., GROENEN, P (2005). Modern Multidimensional Scaling. Second Edition. Springer
+
+Carrie, A. (1988): Simulation of Manufacturing Systems. Ed. John Wiley & Sons
+
+Chambers J.M. y otros (1983): Graphical Methods for Data Analysis. Ed. Chapman-Hall
+
+ESCOBAR, M.(1999).- Análisis Gráfico/Esploratorio. Cuadernos de Estadística. La Muralla. Hespérides
+
+HARTWIG, F & DEARING, B.E.(1979).-Exploratory Data Analysis. Beverly Hills. Sage
+
+HOAGLIN,   D.,  MOSTELLER,  F.  &  TUKEY,  J.W.(1983).-Understanding  robust  and  Exploratory  Data  Analysis.
+New York. John Wiley & Sons
+
+Hair,   J.F.;   Anderson,   R.E.;   Tatham,  R.L.;  Black,  W.C.  (1999):  Análisis  Multivariante,  5a  ed.  Ed.
+Prentice Hall
+
+Kelton, W.D.; Sadowski, R.P.; Sadowski, D.A. (2002): Simulation with Arena
+
+LUNN, A. D. & McNEIL, D.R.(1991).-Computer Interactive Data Analysis. John Wiley & Sons
+
+Martínez-Arias,   R.   (1999):El   Análisis   Multivariante   en   la   Investigación  Científica.  Colección
+Cuadernos de Estadística. Ed. La Muralla-Hespérides
+
+McGraw-Hill.   Law,   A.M.;   Kelton,   W.D.   (2000):  Simulation  Modeling  and  Analysis,  3rd  edition.  Ed.
+McGraw-Hill
+
+Middleton M. R. (1995): Data Analysis Using Excel 5.0. Ed. Duxbury
+
+Naylor   T.H.   (1982):  Experimentos  de  Simulación  en  computadoras  con  modelos  de  Sistemas  Económicos.
+Ed. Limusa
+
+Olson, D.L. (2002): Introduction to Simulation and Risk Analysis. Ed. Prentice-Hall
+
+Pardo   L.   Y   Valdés  T.  (1987):  Simulación.  Aplicaciones  prácticas  en  la  Empresa.  Ed.  Díaz  de  Santos
+S.A
+
+Pérez, C. (2001): Técnicas Estadísticas con SPSS. Ed. Pearson Educación
+
+ROBERT, C. P. & CASELLA, G. (2004).-Monte Carlo Statistical Methods. 2nd ed. Springer. New York
+
+Rial,   A.;   Varela,  J.;  Rojas,  A.J.  (2001):  Depuración  y  Análisis  Preliminares  de  Datos  en  SPSS.  Ed.
+Ra-Ma
+
+Ríos-Insúa D.; Ríos-Insúa S.; Martín J. (1997): Simulación. Métodos y Aplicaciones. Ed. Rama
+
+TUKEY, J.W.(1977).-Exploratory Data Analysis. Reading Mass. Addison & Wesley
+
+Visauta B.(1997): Análisis Estadístico con SPSS para Windows. Ed. McGraw-Hill
+
+Waters, D.(1998): Essential Quantitative Methods. Ed. Addison Wesley Longman
+
+Winston W.(2000): Financial Models using Simulation and Optimization. Ed. Palisade
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+8.YOUNG,   F.   W.   VALERO-MORA,   P.   and   FRIENDLY  M.  (2006)  Visual  Statistics:  Seeing  your  data  with
+Dynamic   Interactive   Graphics.   Wiley   1.Abranovic,   W.   A.   (1997):   Statistical  Thinking  and  Data
+Analysis   Methods   for   Managers   →   YOUNG,   F.   W.   VALERO-MORA,   P.   and  FRIENDLY  M.  (2006)  Visual
+Statistics: Seeing your data with Dynamic Interactive Graphics . Wiley
+
+Ed.   Addison-Wesley.   Aguarón   J.  y  otros  (1993):  Simulación.  Colección  Textos  Docentes,  Servicio  de
+Publicaciones   de   la   Universidad   de   Zaragoza  →  Abranovic,  W.  A.  (1997):  Statistical  Thinking  and
+Data   Analysis   Methods   for   Managers.   Ed.   Addison-Wesley.  Aguarón  J.  y  otros  (1993):  Simulación.
+Colección Textos Docentes, Servicio de Publicaciones de la Universidad de Zaragoza
+
+✅ Recursos añadidos:
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

@@ -1,0 +1,67 @@
+🆚 Comparativa de bibliografía: Guia_docente_Probabilidad (2971136)
+Grado: ingenieria-informatica-matematicas (297)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Ash, R.B. (2008). Basic Probability Theory. Dover Publications Inc., New York
+
+Canavos,   G.  (2003).  Probabilidad  y  Estadística:  Aplicaciones  y  Métodos.  McGraw-Hill  Interamericana,
+México
+
+Casas   Sánchez,   J.M.   (2000).   Estadística  I.  Probabilidad  y  Distribuciones.  Ed.  Centro  de  estudios
+Ramón Areces, S.A
+
+Chung,   K.L.,   AitSahlia,   F.  (2003).  Elementary  Probability  Theory  with  Stochastic  Processes  and  an
+Introduction to Mathematical Finance. Springer-Verlag, New York
+
+Cuadras, C.M. (1995). Problemas de Probabilidad y Estadística. Vol.1: Probabilidades. PPU, Barcelona
+
+DeGroot, M.H., Schervish, M.J. (2002). Probability and Statistics. Addison-Wesley, Boston
+
+Fernández-Abascal,   H.,   Guijarro,   M.,   Rojo,   J.L.   y   Sanz,  J.A.  (1995).  Ejercicios  de  cálculo  de
+probabilidades. Ed. Ariel, S.A
+
+García-Ligero,   M.J.,   Hermoso   Carazo,  A.,  Maldonado  Jurado,  J.A.,  Román  Román,  P.,  Torres  Ruíz,  F.
+(2007). Curso Básico de Probabilidad con CDPYE (CD). Copicentro Editorial, Universidad de Granada
+
+Haigh, J. (2002). Probability Models. Springer-Verlag, London
+
+Horgan, J.M. (2009). Probability with R. John Wiley and Sons
+
+Montero,   J.,   Pardo,   L.,   Morales,   D.,   Quesada,   V.  (1988).  Ejercicios  y  Problemas  de  Cálculo  de
+Probabilidades. Díaz de Santos, Madrid
+
+Mukhopadhyay, N. (2000). Probability and Statistical Inference. Marcel Dekker, New York
+
+Petrov, V., Mordecki, E. (2003). Teoría de Probabilidades. URSS, Moscú
+
+Rohatgi,   V.K.,   Saleh,   A.K.   (2008).  An  Introduction  to  Probability  and  Statistics.  John  Wiley  and
+Sons, New York
+
+Ruiz-Camacho, M., Morcillo-Aixelá, M.C., García Galisteo, J., Del Castillo Vázquez, C. (2000). Curso
+de Probabilidad y Estadística. Universidad de Málaga/Manuales
+
+Sevastiánov,   B.A.,   Chistiakov,   V.P.,  Zubkov,  A.M.  (1985).  Problemas  de  Cálculo  de  Probabilidades.
+Mir, Moscú
+
+Ugarte,   M.D.,   Militino,  A.F.,  Arnholt,  A.T.  (2008).  Probability  and  Statistics  with  R.  CRC/Chapman
+and Hall
+
+Vélez, R., Hernández, V. (1995). Cálculo de Probabilidades 1. UNED, Madrid
+
+Zolotariéskaia, D.I. (2006). Teoría de Probabilidades (problemas resueltos). URSS, Moscú
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -1,0 +1,46 @@
+🆚 Comparativa de bibliografía: Guia_docente_Documentación_Digital (2311138)
+Grado: informacion-documentacion (231)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Library   of   Congress,   &   PREMIS  Editorial  Committee.  (2015).  PREMIS  data  dictionary  for  Loshin,  D.
+(2012). Metadata. En Business Intelligence: The savvy manager's guide (pp
+
+📚 Recursos sin cambios:
+------------------------------
+Buckland, M. (1998). What is a digital document? Document Numerique, 2(2), 221-230
+
+Codina   Bonilla,   L.,   Marcos,   M.   C.,   Pedraza,   R.   (Coords.)  (2009).  Web  semántica  y  sistemas  de
+información documental. TREA
+
+Cone, M. (2023). Markdown Cheat Sheet. Markdown Guide. https://www.markdownguide.org/cheat-sheet/
+
+Dillon,   M.   (2000).   Metadata   for   Web   Resources:   How   Metadata  Works  on  the  Web  [Comunicación  a
+congreso].   Bicentennial  Conference  on  Bibliographic  Control  for  the  New  Millenium,  Washington  D.C.,
+Estados Unidos
+
+Greenberg,   J.   (2002).   Metadata   and   the   World  Wide  Web.  Encyclopedia  of  Library  and  Information
+Science (Vol. 72, Supplement 35, pp.244-261). Marcel Dekker
+
+Loshin,   D.   (2012).   Metadata.   En   Business  Intelligence:  The  savvy  manager's  guide  (pp.  119-130).
+Elsevier Science & Technology. http://ebookcentral.proquest.com/lib/ugr/detail.action?docID=1034439
+
+Méndez, E. (2002). Metadatos y recuperación de información: estándares, problemas y aplicabilidad en
+bibliotecas digitales. TREA
+
+Tramullas Sanz, J. (Coord.). (2006). Tendencias en Documentación Digital. TREA
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+Library   of   Congress,  &  PREMIS  Editorial  Committee.  (2015).  PREMIS  data  dictionary  for  preservation
+metadata (Versión 3.0). https://www.loc.gov/standards/premis/v3/
+
+Safari,    M.    (2004).    Metadata    and   the   Web.   Webology,   1(2).   https://www.webology.org/data-
+cms/articles/20200515033455pma7.pdf
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

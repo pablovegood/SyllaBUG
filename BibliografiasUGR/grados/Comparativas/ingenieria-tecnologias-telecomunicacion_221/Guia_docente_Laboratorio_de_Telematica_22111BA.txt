@@ -1,0 +1,71 @@
+🆚 Comparativa de bibliografía: Guia_docente_Laboratorio_de_Telemática (22111BA)
+Grado: ingenieria-tecnologias-telecomunicacion (221)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Mc   Graw   Hill   2007.   ISBN  978-84-481-5617-6  Diane  Teare,  Bob  Vachon,  Rick  Graziani,  Richard  Froom,
+Erum Frahim, Amir Ranjbar
+
+📚 Recursos sin cambios:
+------------------------------
+CCNP   BCMSN   Official  Exam  Certification  Guide,  4th  Edition,  David  Hucaby,  2006  by  Cisco  Press.  Part
+of the Official Cert Guide series., ISBN-10: 1-58720-171-2 ISBN-13: 978-1-58720-171-4
+
+Diane   Teare,  Bob  Vachon,  Rick  Graziani,  Richard  Froom,  Erum  Frahim,  Amir  Ranjbar.  “CCNP  Routing  and
+Switching Foundation Learning Guide” ISBN-10: 1-58714-439-5. Cisco Press
+
+Marwan   Al-shawi,   Andre   Laurent   .   “Designing   for   Cisco   Network   Service   Architectures  (ARCH)
+Foundation Learning Guide: CCDP ARCH 300-320, 4th Edition”. ISBN-10: 1-58714-462-X. Cisco press
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+David Hanes, “IoT Fundamentals: Networking Technologies, Protocols and Use Cases for the Internet of
+Things”, Cisco Press, 2017, ISBN-13: 978-1-58714-456-1 Brandon Rhodes and John Goerzen, “Foundations
+of   Python   Network   Programming”,   Apress,   2º   Ed.  ISBN-13  (electronic):  978-1-4302-3004-5,  Duran,
+Benoit,   “Administering  CISCO  QoS  in  IP  Networks”,  Syngress  Publishing,  Inc,  Davidson,  J.  “Deploying
+CISCO   over   IP   Solutions”.   Cisco  Press,  2002  Behrouz  A.  Forouzan.  Transmisión  de  datos  y  redes  de
+Comunicaciones,    4º   Edición.   Ed   →   David   Hanes,   “IoT   Fundamentals:   Networking   Technologies,
+Protocols and Use Cases for the Internet of Things”, Cisco Press, 2017, ISBN-13: 978-1-58714-456-1
+
+Thomas   Plevyak,  Veli  Sahin,  “Next  Generation  Telecommunications  Networks,  services  and  management”,
+John   Wiley   &   Sons,   IEEE   Press,   2010,   ISBN   978-0-470-57528-4  Eds.  Qiang  Duan,  Shangguang  Wang
+“Network    as    a    Service   for   Next   Generation   Internet   (Telecommunications)”   2017,   ISBN-13:
+978-1785611766,   ISBN-10:   1785611763,   Olivier  Hersent,  “IP  Telephony:  Deploying  VoIP  Protocols  and
+IMS   Infrastructure”,   2nd   Edition,  Wiley,  2011,  ISBN:  978-1-119-95733-1  Eds.  Suliman  Mohamed  Fati,
+Saiful   Azad,   Al-Sakib  Khan  Pathan,  “IPTV  Delivery  Networks:  Next  Generation  Architectures  for  Live
+and Video-on-Demand Services 1st Edition”, ISBN-13: 978-1119397915, ISBN-10: 111939791X., 2018, John
+Wiley   &   Sons   Ltd   →   Thomas   Plevyak,   Veli   Sahin,  “Next  Generation  Telecommunications  Networks,
+services and management”, John Wiley & Sons, IEEE Press, 2010, ISBN 978-0-470-57528-4
+
+978-1-58720-171-4   Oliva   Alonso,  Nuria,  “Sistemas  de  cableado  estructurado  “,  Ed.  Ra-Ma,  2006,  ISBN
+9788478977147   Dep.   Legal   M   20546-2006   GPON  Special  Topic.  Issue  02  Date  2018-06-15.  Copyright  ©
+Huawei   Technologies   Co.,   Ltd.   2018   →   GPON  Special  Topic.  Issue  02  Date  2018-06-15.  Copyright  ©
+Huawei Technologies Co., Ltd. 2018
+
+✅ Recursos añadidos:
+------------------------------
+Behrouz   A.   Forouzan.   Transmisión  de  datos  y  redes  de  Comunicaciones,  4º  Edición.  Ed.  Mc  Graw  Hill
+2007. ISBN 978-84-481-5617-6
+
+Brandon Rhodes and John Goerzen, “Foundations of Python Network Programming”, Apress, 2º Ed. ISBN-13
+(electronic): 978-1-4302-3004-5
+
+Davidson, J. “Deploying CISCO over IP Solutions”. Cisco Press, 2002
+
+Duran, Benoit, “Administering CISCO QoS in IP Networks”, Syngress Publishing, Inc, 2001
+
+Eds.    Qiang    Duan,    Shangguang    Wang    “Network   as   a   Service   for   Next   Generation   Internet
+(Telecommunications)” 2017, ISBN-13: 978-1785611766, ISBN-10: 1785611763, http://www.theiet.org
+
+Eds.   Suliman   Mohamed   Fati,   Saiful   Azad,   Al-Sakib   Khan   Pathan,   “IPTV  Delivery  Networks:  Next
+Generation    Architectures    for    Live    and    Video-on-Demand    Services   1st   Edition”,   ISBN-13:
+978-1119397915, ISBN-10: 111939791X., 2018, John Wiley & Sons Ltd
+
+Oliva   Alonso,  Nuria,  “Sistemas  de  cableado  estructurado  “,  Ed.  Ra-Ma,  2006,  ISBN  9788478977147  Dep.
+Legal M 20546-2006
+
+Olivier   Hersent,   “IP   Telephony:   Deploying   VoIP   Protocols  and  IMS  Infrastructure”,  2nd  Edition,
+Wiley, 2011, ISBN: 978-1-119-95733-1
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

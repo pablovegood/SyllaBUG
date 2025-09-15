@@ -1,0 +1,54 @@
+🆚 Comparativa de bibliografía: Guia_docente_Estadística_Computacional (27011E2)
+Grado: matematicas (270)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Chambers, J.M. (2008). Software for Data Analysis: Programming with R. Springer
+
+Davison,   A.C.   and   Hinkely,   D.V.   (1997).   Bootstrap   Methods   and   Their  Applications.  Cambridge
+University Press
+
+Deepayan, S. (2008). Lattice: Multivariate Data Visualization with R. Springer
+
+Gentle, J.E. (2009). Computational Statistics. Statistics & Computing. Springer
+
+Heineman,   G.,   Pollice,   G.  y  Selkow,  S.  (2016).  Algorithms  in  a  Nutshell.  Second  Edition.  O’Reilly
+Media Inc
+
+Lafaye   de   Micheaux,   P.,   Drouilhet,   R.   y   Liquet,   B.   (2014).   The  R  Software.  Fundamentals  of
+Programming and Statistical Analysis. Springer
+
+Robert, C.P. y G. Casella (2010). Introducing Monte Carlo Methods with R. Springer
+
+Templ, M. (2016). Simulation for Data Science with R. Packt Publishing
+
+Wand, M.P. y Jones, M.C. (1995). Kernel Smoothing. Volume 60 of Monographs on Statistics and Applied
+Probability. Chapman & Hall, Ltd., London
+
+Wasserman,   L.   (2006).   All   of   Nonparametric   Statistics.  Springer  Texts  in  Statistics.  Springer-
+Verlag, New York
+
+Wickham, H. (2019). Advanced R. The R Series. Chapman & Hall/CRC
+
+Wickham,   H.   y   Grolemund,   G.   (2016).  R  for  Data  Science:  Import,  Tidy,  Transform,  Visualize,  and
+Model Data. O'Reilly Media. Canada
+
+Wickham,H. (2016). ggplot2. Elegant Graphics for Data Analysis. Springer
+
+Xie, Y. (2015). Dynamic Documents with R and knitr. Second Edition. Chapman & Hall. CRC Press
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Crawley   -  The  R  Book,  2nd  ed  (2012)  Crawley  -  Statistics:  An  Introduction  Using  R,  2nd  ed.  (2015)  →
+Crawley - The R Book, 2nd ed (2012)
+
+✅ Recursos añadidos:
+------------------------------
+Crawley - Statistics: An Introduction Using R, 2nd ed. (2015)
+
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

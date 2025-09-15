@@ -1,0 +1,81 @@
+🆚 Comparativa de bibliografía: Guia_docente_Métodos_Matemáticos_I (2951124)
+Grado: matematicas-fisica (295)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+A. D. Wunsch, Variable compleja con aplicaciones. Addison-Wesley Iberoamericana, 1997
+
+A. Silverman, Complex Analysis with Applications. Dover Publications Inc. N.Y., 1984
+
+A.A. Hauser, Variable compleja. Fondo Educativo Interamericano, 1973
+
+A.K. Boiarchuk, Variable compleja: funciones de variable compleja. Moscú, 2002
+
+A.K. Boiarchuk, Variable compleja: integración y series. Moscú, 2002
+
+A.K. Boiarchuk, Variable compleja: residuos y temas especiales. Moscú, 2002
+
+D. Sánchez, Métodos de variable compleja, Ediciones UIB 2015
+
+D.C.Ullrich. Complex made simple. Graduate Studies in Mathematicas, Volume 97. American Mathematical
+Society. 2008
+
+E.Hille. Analytic Function Theory Vol. I AMS Chelsea Publishing Company. 1987
+
+H.F. Davis, Fourier Series and Orthogonal Functions. Dover Publications Inc. N.Y., 1989
+
+I.B.Chabat. Introduction à l'analyse complexe. Tome I. Editions Mir. Moscou. 1990
+
+I.S. Gradshteyn, I.M. Ryzhik, Table of integrals, series, and products. Academix Press
+
+J. Bak, D.J. Newman, Complex analysis. Springer-Verlag, 1997
+
+J.C. Angulo, Variable compleja: resolución de problemas y aplicaciones. Paraninfo, 2012
+
+J.E. Marsden, M.J. Hoffman, Basic Complex Analysis, W.H. Freeman and Company, 1999
+
+J.R. Hanna, J.H. Rowland, Fourier Series, Transforms, and Boundary Value Problems. John Wiley Ed
+
+J.W. Brown, R.V. Churchill, Variable Compleja y Aplicaciones. McGraw-Hill, 2004
+
+J.W. Dettman, Applied Complex Variables. McMillan Company N.Y., 1984
+
+M.J.   Ablowitz,   A.S.   Fokas,   Complex  Variable:  Introduction  and  Applications.  Cambridge  University
+Press, 2003
+
+M.R. Spiegel, Transformadas de Laplace, Serie Schaum, McGraw-Hill, 1991
+
+N. Levinson, R.M. Redheffer, Curso de Variable Compleja. Reverté, 1990
+
+R. Spiegel, Variable Compleja. Serie Schaum, McGraw-Hill, 2011
+
+R.E. Greene, S.G. Krantz, Function theory of one complex variable. American Math. Society, 2002
+
+W.Rudin. Real and complex analysis. McGraw-Hill and Co. 1966
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+J.C.   Cabello,   Una   introducción   a  la  variable  compleja.  Aplicaciones,  Godel  Impresiones  Digitales
+(2018)   B.   Conway.   Functions   of   Complex   Variable   I.  Springer  Verlag.  Graduate  Texts.  1973  →  B.
+Conway. Functions of Complex Variable I. Springer Verlag. Graduate Texts. 1973
+
+✅ Recursos añadidos:
+------------------------------
+E.T. Whittaker, G.N. Watson, A Course of Modern Analysis. Cambridge University Press, 1996
+
+J.C.   Cabello,   Una   introducción   a  la  variable  compleja.  Aplicaciones,  Godel  Impresiones  Digitales
+(2018)
+
+J.L. Galán García et al, Formulario técnico de variable compleja con ejercicios resueltos. Bellisco,
+2005
+
+R.V. Churchill, Series de Fourier y problemas de contorno. McGraw-Hill
+
+W.R. Derrick, Complex Analysis and Applications. Wadsworth International Group
+
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

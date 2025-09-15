@@ -1,0 +1,44 @@
+🆚 Comparativa de bibliografía: Guia_docente_Matemáticas_II (2051112)
+Grado: ingenieria-electronica-industrial (205)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Ayres-Mendelson, Cálculo diferencial e integral, McGraw-Hill, 1990
+
+Isaías Uña Jiménez-Jesús San Martín Moreno-Venancio Tomeo Perucha. Problemas resueltos de Cálculo en
+varias variables. Colección Paso a Paso. Thomson, 2007
+
+Rogaswski, Jon. Cálculo (Una variable. Varias variables). Editorial Reverte. 2012
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Bradley-Smith,   Cálculo   de   una   variable   (Tomo   1),  Prentice  Hall,  1998  Bradley-Smith,  Cálculo  de
+varias   variables   (Tomo   2),  Prentice  may,  1998  Isaías  Uña  Jiménez-Jesús  San  Martín  Moreno-Venancio
+Tomeo   Perucha.  Problemas  resueltos  de  Cálculo  en  una  variable.  Colección  Paso  a  Paso.  Thomson,  2005
+→   Isaías  Uña  Jiménez-Jesús  San  Martín  Moreno-Venancio  Tomeo  Perucha.  Problemas  resueltos  de  Cálculo
+en una variable. Colección Paso a Paso. Thomson, 2005
+
+Stewart,   Cálculo   diferencial   e   integral,   Internacional   Thomson  Editores,  1998  Stewart,  Cálculo
+multivariable,   Internacional  Thomson  Editores,  1999  Thomas-Finley,  Cálculo  (una  variable),  Addison-
+Wesley   Longman,   1998  Thomas-Finley,  Calculus  con  Geometría  Analítica  (2  volúmenes),  Addison-Wesley
+Iberoamericana,   1987   personal   del   alumno   →   Thomas-Finley,   Calculus  con  Geometría  Analítica  (2
+volúmenes), Addison-Wesley Iberoamericana, 1987
+
+✅ Recursos añadidos:
+------------------------------
+Bradley-Smith, Cálculo de una variable (Tomo 1), Prentice Hall, 1998
+
+Bradley-Smith, Cálculo de varias variables (Tomo 2), Prentice may, 1998
+
+Stewart, Cálculo diferencial e integral, Internacional Thomson Editores, 1998
+
+Stewart, Cálculo multivariable, Internacional Thomson Editores, 1999
+
+Thomas-Finley, Cálculo (una variable), Addison-Wesley Longman, 1998
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

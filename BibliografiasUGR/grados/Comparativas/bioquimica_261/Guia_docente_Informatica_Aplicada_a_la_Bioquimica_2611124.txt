@@ -1,0 +1,59 @@
+🆚 Comparativa de bibliografía: Guia_docente_Informática_Aplicada_a_la_Bioquímica (2611124)
+Grado: bioquimica (261)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Traducción   al   español   de   la   última   versión   del   libro   de   Mark   Pilgrim  sobre  Python  3,  Dive
+e.googleapis.com/google-code-archive-
+downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf   How   to   Think   Like   a
+Computer   Scientist:   Interactive   Edition,   Runestone  Interactive  Project  at  Luther  College,  led  by
+Brad Miller and David Ranum. Based on the original work by J. Elkner, A.B. Downey and C. Meyers, How
+to Think Like a Computer Scientist
+
+📚 Recursos sin cambios:
+------------------------------
+How to Think Like a Computer Scientist: Interactive Edition, Runestone Interactive Project at Luther
+College,   led   by   Brad  Miller  and  David  Ranum.  Based  on  the  original  work  by  J.  Elkner,  A.B.  Downey
+and   C.   Meyers,   How   to  Think  Like  a  Computer  Scientist:  Learning  with  Python,  2nd  Edition  (Python
+2.x), 2012: http://interactivepython.org/runestone/static/thinkcspy/index.html
+
+J.G.   Molina,   F.M.   Dato,   et   al.,   Una   introducción   a   la  Programación.  Un  enfoque  algorítmico,
+Thompson, 2005
+
+James   A.   Goodrich;  Jennifer  F.  Kugel,  Binding  and  Kinetics  for  Molecular  Biologists,  Spiral  bound,
+Cold   Spring   Harbor   Laboratory   Press   Uri   Alon   ,   An   Introduction   to  Systems  Biology  :  Design
+Principles of Biological Circuits, CRC Press, 2006
+
+Lahoz-Beltra,   Rafael,   Bioinformática:  simulación,  vida  artificial  e  Inteligencia  Artificial,  López
+de Santos, 2004
+
+Pons   O.,   Marín   N.,   Medina  J.M.,  Acid  S.,  Vila  M.A.,  Introducción  a  las  Bases  de  Datos:  El  modelo
+Relacional, Thomson Paraninfo, 2005
+
+S. Russell, P. Norvig, Inteligencia Artificial: un Enfoque Moderno, 2ª Edición, Ed. Pearson-Prentice
+Hall, 2004
+
+Video   “Curso   Python   desde   0”   (Python   3.6)  E.  Rich,  K.  Knight,  Inteligencia  Artificial,  segunda
+edición, Mc Graw Hill Co. 1992
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+Al   Sweigart,  Automate  the  Boring  Stuff  with  Python.  Practical  programming  for  total  beginners.  Free
+under a Creative Commons license: https://automatetheboringstuff.com/#toc (Python 3.3)
+
+E. Rich, K. Knight, Inteligencia Artificial, segunda edición, Mc Graw Hill Co. 1992
+
+Traducción   al   español   de   la   última   versión  del  libro  de  Mark  Pilgrim  sobre  Python  3,  Dive  Into
+Python     3     -     Inmersión     en     Python     3,     por     José     Miguel     González    Aguilera:
+https://storage.googleapis.com/google-code-archive-
+downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf
+
+Uri   Alon,  An  Introduction  to  Systems  Biology  :  Design  Principles  of  Biological  Circuits,  CRC  Press,
+2006
+
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

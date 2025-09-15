@@ -1,0 +1,43 @@
+🆚 Comparativa de bibliografía: Guia_docente_Fundamentos_de_Informática_y_Bioinformática (2511113)
+Grado: biotecnologia (251)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Beekman, G. 2006. Introducción a la informática. Pearson educación
+
+Bioinformatics for Biologists. Pavel Pevzner, Ron Shamir. Cambridge University Press. 2011
+
+Bioinformatics.   The   Machine   Learning   Approach.  P.  Baldi  &  S.  Brunak,  2nd  edition,  The  MIT  Press.
+2001
+
+Data Mining –Concepts and Techniques. J. Han & M. Kamber, Morgan Kaufmann Publishers, 2001
+
+J.G.   Molina,   F.M.   Dato,   et   al.,   Una   introducción   a   la  Programación.  Un  enfoque  algorítmico,
+Thompson, 2005
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Hinojosa, A.P. 2016. Python. Paso A Paso. Ra-ma. Matlab : An introduction with applications.Gilat,A.
+Wiley. 2008  →  Hinojosa, A.P. Python. Paso A Paso. Ra-ma. 2016
+
+✅ Recursos añadidos:
+------------------------------
+Al   Sweigart,  Automate  the  Boring  Stuff  with  Python.  Practical  programming  for  total  beginners.  Free
+under a Creative Commons license: https://automatetheboringstuff.com/#toc (Python 3.3)
+
+Bioinformatics for Dummies, 2nd Edition. By Jean-Michel Claverie, Cedric Notredame. Wiley. 2006
+
+Developing Bioinformatics Computer Skills. Cynthia Gibas, Per Jambeck. O'Reilly Media. 2001
+
+Llena, S. 2019. Aprender Office 365/2019 con 100 ejercicios prácticos. Marcombo
+
+M. Buttu. El gran libro de Python. Marcombo. 2020
+
+M. Galar, I Triguero. Análisis de datos a gran escala con Python y Spark. Anaya. 2025
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

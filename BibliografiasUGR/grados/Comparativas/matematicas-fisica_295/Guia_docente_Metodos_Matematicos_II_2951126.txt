@@ -1,0 +1,56 @@
+🆚 Comparativa de bibliografía: Guia_docente_Métodos_Matemáticos_II (2951126)
+Grado: matematicas-fisica (295)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+C. Carlson,Special Functions of Applied Mathematics, Academic Press
+
+C.   Henry  Edwards,  David  E.  Penney,  David  Calvis,  Differential  Equations  and  Linear  Algebra,  Pearson
+2017
+
+C.   Henry   Edwards,   David   E.   Penney,   David   T.  Calvis,  Differential  Equations  and  Boundary  Value
+Problems: Computing and Modeling, Pearson Education 2015
+
+E. Rainville, Intermediate Differential Equations, MacMillan, 1964
+
+F. Brauer y Nohel,Ordinary Differential Equations with Applications, Harper & Row, 1989
+
+F.W. Olver, Asymptotics and Special functions, Academic Press, 1974
+
+G.F. Simmons, Ecuaciones diferenciales con aplicaciones y notas históricas. McGraw Hill, 1993
+
+I. Peral, Primer curso de Ecuaciones en derivadas parciales. Addison-Wesley, Wilmington, 1995
+
+L. C. Andrews, Special functions of mathematics for engineers, Oxford Science Publications, 1998
+
+L. C. Evans, Partial Differential Equations, AMS, 2002
+
+R.   K.   Nagle,   E.   B.   Saff   y   A.D.   Snider,Ecuaciones  diferenciales  y  problemas  con  valores  en  la
+frontera, Pearson Educación, 2005
+
+R.D. Richtmyer,Principles of Advanced Mathematical Physics, vol. 1, Springer-Verlag, 1978
+
+V. Nikiforov, V. Uvarov, Special functions of mathematical physics(Birkhäuser Verlag, 1988)
+
+W. A. Strauss, Partial differential equations, an introduction, New York, John Wiley and Sons, 2008
+
+W.E.   Boyce,   R.C.   DiPrima,  Ecuaciones  diferenciales  y  problemas  con  valores  en  la  frontera.  Limusa
+Willey, 2010
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+D.G.   Zill,   M.R.   Cullen,  Ecuaciones  diferenciales  con  problemas  de  valores  en  la  frontera,  Cengage
+Learning,   2009   M.  Abramowitz,  I.  A.  Stegun,  Handbook  of  mathematical  functions,  Dover,  1975  →  D.G.
+Zill,   M.R.   Cullen,   Ecuaciones   diferenciales   con   problemas   de   valores  en  la  frontera,  Cengage
+Learning, 2009
+
+✅ Recursos añadidos:
+------------------------------
+M. Abramowitz, I. A. Stegun, Handbook of mathematical functions, Dover, 1975
+
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

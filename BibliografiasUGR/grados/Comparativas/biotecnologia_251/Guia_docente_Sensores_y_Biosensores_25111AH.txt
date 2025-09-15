@@ -1,0 +1,53 @@
+🆚 Comparativa de bibliografía: Guia_docente_Sensores_y_Biosensores (25111AH)
+Grado: biotecnologia (251)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Chemical   sensors   and   biosensors   for   medical  and  biological  applications.  U.E.  Spichiger‐Keller.
+Wiley‐VCHCRC. 1998
+
+Chemical sensors and biosensors. B.R. Eggins, John Wiley & Sons. 2002
+
+Chemical sensors: fundamentals of sensing materials, Ghenadii Korotcenkov (ed.). New York : Momentum
+Press. 2010‐2012
+
+Chin,   C.   D.;   Linder,   V.;   Sia,   S.  K.  Commercialization  of  microfluidic  point‐of‐care  diagnostic
+devices. Lab Chip 2012, 12 (12), 2118‐2134
+
+Encyclopedia of Microfluidics and Nanofluidics, Li, Dongqing (ed.). New York, Springer, 2015
+
+Encyclopedia of Sensors, Editores Craig A. Grimes, Elizabeth C. Dickey, Michael V. Pishko. 1ª ed. 10
+vol. American Scientific 6 Publishers. 2005
+
+Fiber optic chemical sensors and biosensors. O.S. Wolfbeis. CRC Press. 1991
+
+Flow‐through (Bio)chemical Sensors M. Valcárcel y M.D. Luque de Castro., Elsevier, 1994
+
+Handbook of Optical Chemical Sensors. A. Lobnik, B. Mizaikoff. Springer. 2006
+
+Sensors an Introductory Course, Kalantar‐Zadeh, Kourosh. Boston, MA, USA. Springer, 2013
+
+Sensors. A comprehensive survey. W. Göpel, J. Hesse y J.N. Zemel. VCH. 1991
+
+Tomazelli   Coltro,   W.   K.;   Cheng,   C.   M.;   Carrilho,  E.;  Jesus,  D.  P.  Recent  advances  in  low‐cost
+microfluidic platforms for diagnostic applications. Electrophoresis 2014, 35 (16), 2309‐2324
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Narayanaswamy,   O.S.   Wolfbeis.   Springer.  2004  Optical  sensor  systems  in  biotechnology.  T  .  Scheper
+(ed.).   Ed.,   Springer.   2009   Principles  of  Chemical  Sensors,  Jiri  Janata.  2ª  Ed.,  Springer.  2009  →
+Optical sensor systems in biotechnology. T . Scheper (ed.). Ed., Springer. 2009
+
+✅ Recursos añadidos:
+------------------------------
+Optical   Sensors:   Industrial,   Environmental   and   Diagnostic   Applications.  R.  Narayanaswamy,  O.S.
+Wolfbeis. Springer. 2004
+
+Principles of Chemical Sensors, Jiri Janata. 2ª Ed., Springer. 2009
+
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

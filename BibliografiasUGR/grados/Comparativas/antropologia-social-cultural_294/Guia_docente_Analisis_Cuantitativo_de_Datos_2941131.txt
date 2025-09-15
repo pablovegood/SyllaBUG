@@ -1,0 +1,50 @@
+🆚 Comparativa de bibliografía: Guia_docente_Análisis_Cuantitativo_de_Datos (2941131)
+Grado: antropologia-social-cultural (294)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Abad,   F.;   Huete.  M.D.  y  Vargas,  M.  (2001).  Estadística  para  las  Ciencias  Sociales  y  Laborales.  Ed.
+Urbano. Granada
+
+Abad,   F.;   Huete.   M.D.   y   Vargas,  M.  (2016).  Estadística,  probabilidad  e  introducción  al  análisis
+demográfico (con aplicaciones en R-commander). Ed. Avicam. Granada
+
+Abad,   F.;   Vargas,   M.   (2002).   Análisis  de  datos  para  las  Ciencias  Sociales  con  SPPS.  Ed.  Urbano.
+Granada
+
+Caro   Carretero,   R.   y   Reneses   Guillén,  J.  (2013)  Estadística:  no  soy  mala...me  han  dibujado  así.
+Aranzadi. Pamplona
+
+Carrascal, U. (2007) Estadística descriptiva con Microsoft Excel 2007. Ra-Ma, Madrid
+
+Gonick, L. y Smith, W. (2006) La estadística en cómic. Zendrera Zariquiey. Barcelona
+
+Mafokozi, J (2009) Introducción a la Estadística para gente de letras. Editorial CCS. Madrid
+
+Pozo   Cuevas,   F.   et   al.   (2013)   Introducción  al  análisis  de  datos  cuantitativos  en  Criminología.
+Editorial Tecnos. Madrid
+
+Sarrión Gavilán, Mª D. (coord.) (2013) Estadística Descriptiva. Mc Graw-Hill. Madrid
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Agreste,   A.   (2002)   Categorical   data   análisis.   Ed.  Wiley  and  Sons.  New  Cork  Welham,  S.L.  el  al.
+(2015)   Statistics   methods   in   biology.   CRC  Press.  Taylor  and  Francis  group  →  Welham,  S.L.  el  al.
+(2015) Statistics methods in biology. CRC Press. Taylor and Francis group
+
+Martín   Andrés,  A.  y  Luna,  J.  D.  (1994)  Bioestadística  para  las  Ciencias  de  la  Salud  Pérez  López,  C.
+(2002)   Estadística   aplicada   a   través  de  Excel.  Prentice  Hall.  Madrid  →  Martín  Andrés,  A.  y  Luna,
+J. D. (1994) Bioestadística para las Ciencias de la Salud
+
+✅ Recursos añadidos:
+------------------------------
+Agreste, A. (2002) Categorical data análisis. Ed. Wiley and Sons. New Cork
+
+Pérez López, C. (2002) Estadística aplicada a través de Excel. Prentice Hall. Madrid
+
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

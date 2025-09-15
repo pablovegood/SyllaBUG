@@ -1,0 +1,50 @@
+🆚 Comparativa de bibliografía: Guia_docente_Cálculo_de_Sistemas_Ópticos (28711A1)
+Grado: optica-optometria (287)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+A History of the Photographic Lens. R. Kingslake, Academic Press, Inc., 1989
+
+Aberrations in Optical Systems. W.T. Weltford, Adam Hilger, Bristol, 1986
+
+Applied   Optics   and   Optical   Engineering  Vol.I,  II,  III,  IV  y  V,  R.  Kingslake,  Academic  Press,  New
+York and London,1965
+
+Handbook of Lens Design, D. Malacara, Marcel Dekker, 2004
+
+Handbook of Optics Vol I. 2nd Edition, McGraw-Hill, Inc. 1995
+
+Lens Design Fundamentals. R. Kingslake, Academic Press, Inc., 1978
+
+Lens Design, M. Laikin, Marcel Dekker, 2001
+
+Optical Engineering Fundamentals, B. Walker, SPIE Press, 1998
+
+Optical Shop Testing, D. Malacara (ed.), John Wiley & Sons, 2002
+
+Practical Optical System Layout. W. J. Smith, McGraw-Hill, 1997
+
+The Art and Science of Optical Design, R.R. Shannon, Cambridge, 2002
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Modern   Optical   Engineering.   The  Design  of  Optical  System.  W.  J.  Smith,  McGraw-Hill,  1992.  Optical
+Imaging   and   Aberrations:   Part   I  y  II,  V.  Mahajan,  SPIE  Press,  1997  →  Modern  Optical  Engineering.
+The Design of Optical System. W. J. Smith, McGraw-Hill, 1992
+
+Teoría   Sencilla   de   las   Aberraciones,   Virendra   N.  Mahajan,  Godel  S.L.,  2012.  Applied  Optics  and
+Optical   Design:   I   y   II.  A.  E.  Conrady,  Dover  Publications,  Inc.,  New  York,  1992  →  Applied  Optics
+and Optical Design: I y II. A. E. Conrady, Dover Publications, Inc., New York, 1992
+
+✅ Recursos añadidos:
+------------------------------
+Optical Imaging and Aberrations: Part I y II, V. Mahajan, SPIE Press, 1997
+
+Teoría Sencilla de las Aberraciones, Virendra N. Mahajan, Godel S.L., 2012
+
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

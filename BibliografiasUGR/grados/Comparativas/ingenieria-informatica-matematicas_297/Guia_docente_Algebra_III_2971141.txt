@@ -1,0 +1,40 @@
+🆚 Comparativa de bibliografía: Guia_docente_Álgebra_III (2971141)
+Grado: ingenieria-informatica-matematicas (297)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hay elementos.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Bastida,   J.,   Field  extensions  and  Galois  theory,  Addison–Wesley,  (1984)  Cohn,  P.  M.,  Algebra,  vol.
+2, Wiley 2nd Edition (1989) Cohn, P. M., Classic Algebra, Wiley (2000) Dummit, D. S. y Foote, R. M.,
+Abstract   Algebra,   Prentice-Hall   (1991)   Fraleigh  J.  B.,  First  Course  in  Abstract  Algebra  7th  ed.,
+Addison Wesley (en español  →  Cohn, P. M., Classic Algebra, Wiley (2000)
+
+Algebra   1ª   edición,   Aguilar   (1971))   →   Lang,   S.,   Algebra,   Addison-Wesley  3rd  Edition  (1993),
+Springer (2002) (en español: Algebra 1ª edición, Aguilar (1971))
+
+Álgebra   abstracta,  3ª  ed.,  (1987))  Jacobson,  N.,  Basic  Algebra  I,  Freeman  (1985)  Lang,  S.,  Algebra,
+Addison-Wesley   3rd   Edition   (1993),   Springer   (2002)  (en  español  →  Jacobson,  N.,  Basic  Algebra  I,
+Freeman (1985)
+
+✅ Recursos añadidos:
+------------------------------
+Bastida, J., Field extensions and Galois theory, Addison–Wesley, (1984)
+
+Cohn, P. M., Algebra, vol. 2, Wiley 2nd Edition (1989)
+
+Dummit, D. S. y Foote, R. M., Abstract Algebra, Prentice-Hall (1991)
+
+Fraleigh   J.   B.,   First   Course   in   Abstract   Algebra  7th  ed.,  Addison  Wesley  (en  español:  Álgebra
+abstracta, 3ª ed., (1987))
+
+Gómez-Torrecillas, J., Álgebra III, disponible en https://digibug.ugr.es
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

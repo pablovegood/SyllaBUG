@@ -1,0 +1,67 @@
+🆚 Comparativa de bibliografía: Guia_docente_Sistemas_Operativos (2961123)
+Grado: ingenieria-informatica (296)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+A.   J.  León,  P.  Paderewski,  J.A.  Gómez,  M.A.  Sánchez,  J.L.  Garrido  y  K.  Benghazi,  “Guía  de  Prácticas
+de Sistemas Operativos”, 2015 (Disponible en la plataforma docente)
+
+A.   Silberschatz,   P.   B.  Galvin,  y  G.  Gagne,  Fundamentos  de  Sistemas  Operativos  (7/e),  McGraw-Hill,
+2006
+
+A.S. Tanenbaum, Sistemas Operativos Modernos (3/e), Pearson Prentice Hall, 2009
+
+D. Dhamdhere, Operating Systems. A Concept-Based Approach, McGraw-Hill Science, 2008
+
+E.   Nemeth,  G.  Snyder,  T.  R.  Hein,  y  B.  Whaley,  Unix  and  Linux  System  Administration  Handbook  (4/e),
+Prentice Hall, 2010
+
+E. Siever et al., Linux, O'Reilly, 2010
+
+Eleen Frisch, Essential System Administration (3/e), O'Reilly Media, 2002
+
+G.   Kroah-Hartman,   Linux   Kernel   in   a   Nutshell,   O'Reilly,   2006.P.   J.  Salzman,  M.  Burian,  y  O.
+Pomerantz, The Linux Kernel Module Programming Guide, CreateSpace, 2009
+
+J. Carretero y otros, Sistemas Operativos. Una Visión Aplicada (2 ed.), McGraw-Hill, 2007
+
+M. Bach,The Design of the Unix Operating Systems, Prentice Hall, 1986
+
+M. Kerrisk, The Linux Programming Interface, No Starch Press, 2010
+
+Michael   Kerrish,   The  Linux  Programming  Interface.  A  Linux  and  Unix  System  Programming  Handbook,  No
+Starch Press, 2010
+
+R. Love, Linux Kernel Development (3/e), Addison-Wesley Professional, 2010
+
+R. Love, Linux System Programming, O'Reilly, 2007
+
+Ramez   Elmasri,   A.   Gil  Carrick,  y  David  Levine,  Sistemas  Operativos.  Un  enfoque  en  espiral,  McGraw
+Hill. 2010
+
+U. Vahalia, Unix Internals. The New Frontiers, Prentice Hall, 1996
+
+W. Mauerer, Professional Linux Kernel Architecture, Wiley, 2008
+
+W.   R.   Stevens,   y   S.   A.  Rago,  Advanced  Programming  in  the  UNIX  Environment  (2/e),  Addison-Wesley
+Professional, 2005
+
+W. Stallings, Internals and Design Principles (9/e), Pearson Education, 2018
+
+W.   Stallings,   Sistemas   Operativos.  Aspectos  Internos  y  Principios  de  Diseño  (5/e),  Prentice  Hall,
+2005
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

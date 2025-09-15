@@ -10,16 +10,15 @@
 <div class="container">
 
     <!-- Fila superior: logo izquierda + info derecha -->
-<div class="topbar">
-  <img class="logo-ugr" src="{{ url_for('static', filename='UGR.png') }}" alt="Universidad de Granada" loading="lazy">
-  <button type="button"
-          class="info-btn"
-          id="infoBtn"
-          aria-haspopup="dialog"
-          aria-controls="infoModal"
-          aria-label="Información de uso">i</button>
-</div>
-
+    <div class="topbar">
+      <img class="logo-ugr" src="{{ url_for('static', filename='UGR.png') }}" alt="Universidad de Granada" loading="lazy">
+      <button type="button"
+              class="info-btn"
+              id="infoBtn"
+              aria-haspopup="dialog"
+              aria-controls="infoModal"
+              aria-label="Información de uso">i</button>
+    </div>
 
     <!-- Cabecera principal centrada -->
     <div class="header">
@@ -55,16 +54,27 @@
                         <th></th>
                         <th>Grado</th>
                         <th>Centro</th>
+                        <th>CÓDIGO</th>
                         <th>URL</th>
                     </tr>
                     </thead>
                     <tbody>
                     {% for g in grados.itertuples() %}
+                        {% set row = g._asdict() %}
                         <tr>
-                            <td><input type="checkbox" name="grados_seleccionados" value="{{ g.URL }}"></td>
-                            <td>{{ g.Grado }}</td>
-                            <td>{{ g.Centro }}</td>
-                            <td><a href="{{ g.URL }}" target="_blank" rel="noopener noreferrer">Ver</a></td>
+                            <td>
+                                <input type="checkbox" name="grados_seleccionados" value="{{ row.get('URL','') }}">
+                            </td>
+                            <td>{{ row.get('Grado','') }}</td>
+                            <td>{{ row.get('Centro','') }}</td>
+                            <td>{{ row.get('CÓDIGO','') }}</td>
+                            <td>
+                                {% if row.get('URL') %}
+                                    <a href="{{ row.get('URL') }}" target="_blank" rel="noopener noreferrer">Ver</a>
+                                {% else %}
+                                    —
+                                {% endif %}
+                            </td>
                         </tr>
                     {% endfor %}
                     </tbody>
@@ -72,7 +82,7 @@
                 <button type="submit">Mostrar contenidos</button>
             </form>
         {% endif %}
-        {# Nota: si no hay grados, NO mostramos mensaje aquí #}
+        {# si no hay grados, no mostramos nada #}
     {% endif %}
 
     {% if feedback %}
@@ -81,6 +91,7 @@
 
     {% if contenido %}
         <div class="contenido-comparativo">
+            {# El HTML de los <details> con el título "Asignatura (CODIGO)" viene ya generado por app.py #}
             {{ contenido | safe }}
         </div>
     {% endif %}
@@ -107,13 +118,13 @@
 
             <h3>Qué muestran las comparativas</h3>
             <ul>
-                <li>Aquellos recursos que fueron eliminados con respecto al año anterior.</li>
-                <li>Los recursos que siguen igual.</li>
-                <li>Los recursos que siguen igual, pero con una nueva edición.</li>
-                <li>Aquellos recursos que fueron añadidos con respecto al año anterior.</li>
+                <li>Recursos eliminados respecto al año anterior.</li>
+                <li>Recursos que siguen igual.</li>
+                <li>Recursos iguales con nueva edición.</li>
+                <li>Recursos añadidos respecto al año anterior.</li>
             </ul>
 
-            <p><strong>Importante:</strong> Debido a la diferencia de formatos entre las guías docentes del año anterior (extraídas de las guías docentes firmadas en formato PDF) y las guías docentes del año actual (extraídas directamente de los textos en formato HTML de la página web actual de las guías docentes), podrían darse errores, en caso de darse dichos errores, por favor notifíquelas al correo electrónico mencionado anteriormente.</p>
+            <p><strong>Importante:</strong> Debido a la diferencia de formatos entre las guías docentes del año anterior (PDF firmadas) y las actuales (HTML en la web), pueden darse errores; por favor notifíquelas al correo indicado.</p>
         </div>
     </div>
 </div>

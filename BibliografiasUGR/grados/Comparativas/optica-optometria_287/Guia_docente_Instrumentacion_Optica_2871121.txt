@@ -1,0 +1,55 @@
+🆚 Comparativa de bibliografía: Guia_docente_Instrumentación_Óptica (2871121)
+Grado: optica-optometria (287)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Geometrical   Optics.   Hans-Georg   Zimmer,  Springer-Verlag  Berlin  Heidelberg  New  York,  Applied  Optics
+and Optical Engineering Vol.I, II, III, IV y V R. Kingslake, Academic Press, New York and London
+
+Geometrical   and   Instrumental   Optics.   D.   Malacara,   Academic   Press,   Inc.,   A   History   of   the
+Photographic   Lens.  R.  Kingslake,  Academic  Press,  Inc.,  Geometrical  Optics.  Optical  Instrumentation.
+W. T. Welford, North-Holland Publishing Company Amsterdam, Applied Optics and Optical Design.. A. E.
+Conrady, Dover Publications, Inc., New York, 1992
+
+Handbook of Optics Vol II . 2nd Edition, McGraw-Hill, Inc
+
+Instrumentos   Ópticos   y   Optométricos.   Problemas.   J.   Arasa  Martí,  M.  Arjona  Carbonell  y  N.  Tomás
+Corominas, Ediciones UPC, 1992
+
+Instrumentos   Ópticos   y   Optométricos.   Teoría   y   Prácticas.  M.  Martínez  Corral,  Walter  D.  Furlan,
+Amparo Pons y Genaro Saavedra, Universidad de Valencia, 1998
+
+Optometric   Instrumentation.  David  B.  Henson.  Butterworth-Heinemann  Ltd.  Linacre  House,  Jordan  Hill,
+Oxford OX2 8DP, 1993
+
+Óptica Instrumental. J. Antó Roca y N. Tomás Corominas, Ediciones UPC, 1996
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Tomás   Corominas,   Ediciones   UPC,   1992   →   Óptica  Instrumental.  J.  Antó  Roca  y  N.  Tomás  Corominas,
+Ediciones UPC, 1996
+
+✅ Recursos añadidos:
+------------------------------
+Applied Optics and Optical Design.. A. E. Conrady, Dover Publications, Inc., New York, 1992
+
+Applied Optics and Optical Engineering Vol.I, II, III, IV y V R. Kingslake, Academic Press, New York
+and London
+
+Applied Physical Techniques. R. C. Stanley
+
+Geometrical   Optics.   Optical   Instrumentation.   W.   T.   Welford,   North-Holland   Publishing  Company
+Amsterdam
+
+Geometrical and Instrumental Optics. D. Malacara, Academic Press, Inc
+
+Modern Optical Engineering. The Desing of Optical system. W. J. Smith
+
+Óptica. J. Casas
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

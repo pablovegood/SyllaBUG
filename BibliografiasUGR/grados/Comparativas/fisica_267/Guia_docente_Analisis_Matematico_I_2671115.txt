@@ -1,0 +1,40 @@
+🆚 Comparativa de bibliografía: Guia_docente_Análisis_Matemático_I (2671115)
+Grado: fisica (267)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Ediciones Pirámide, 2002
+
+📚 Recursos sin cambios:
+------------------------------
+ALAMINOS,   J.,   APARICIO,   C.,   EXTREMERA,   J.,   MUÑOZ,   P.,   y   VILLENA,   A.  R.  Cálculo..  Ediciones
+Electrolibris. 2014
+
+LARSON,   R.,   HOSTELER   R.P.   Y   EDWARDS,   B.H.:   Cálculo(2   volúmenes).   Séptima  edición.  Ediciones
+Pirámide, 2002
+
+M. SPIVAK. Cálculo Infinitesimal. 2ª Edición. Reverté, Barcelona 1992
+
+MIGUEL DE GUZMÁN y BALDOMERO RUBIO. Análisis Matemático 1 y 2. Ediciones Pirámide. 1990
+
+S.K. BERBERIAN. A First Course in Real Analysis. Springer-Verlag, New York, 1994
+
+ZILL,   D.G.,   WRIGHT,   W.S.   y  IBARRA,  J.  Matemáticas  1.  Cálculo  Diferencial.  McGraw  Hill  Education,
+2015
+
+ZILL, D.G., WRIGHT, W.S. y IBARRA, J. Matemáticas 2. Cálculo Integral. McGraw Hill Education, 2015
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+ALAMINOS, J.: Cálculo, Texto que puede descargarse en: https://analisismatematico.ugr.es/sites/dpto/
+analisismatematico/public/ficheros/Calculo_una_varias_variables_Jeronimo%20(1).pdf
+
+PÉREZ   GONZÁLEZ,   J.:   Cálculo   Diferencial  e  Integral  de  Funciones  de  una  variable.  Texto  que  puede
+descargarse en: http://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

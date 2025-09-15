@@ -1,0 +1,73 @@
+🆚 Comparativa de bibliografía: Guia_docente_Redes_de_Acceso_y_Corporativas_(Especialidad_Telemática (2211144)
+Grado: ingenieria-tecnologias-telecomunicacion (221)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+EDELMAN,   J.,   2016.   Network   Automation  with  Ansible.  1st  edition.  S.l.:  O’Reilly  Media,  Inc.  ISBN
+1-4920-4238-2
+
+FOROUZAN,   B.A.   y   FEGAN,  S.C.,  2003.  Local  area  networks.  1st  ed.  Boston:  McGraw-Hill.  McGraw-Hill
+Forouzan networking series, ISBN 978-0-07-233605-4. TK5105.7 .F66 2003
+
+GEIER,   J.,  2015.  Designing  and  deploying  802.11  wireless  networks  a  practical  guide  to  implementing
+802.11n    and    802.11ac   wireless   networks   for   enterprise-based   applications.   Second   edition.
+Indianapolis: Cisco Press. ISBN 978-0-13-389139-3
+
+KASIM,   A.,   2008.  Delivering  carrier  Ethernet:  extending  Ethernet  beyond  the  LAN.  New  York:  McGraw-
+Hill. McGraw-Hill communications, ISBN 978-0-07-148747-4. TK5105.8.E83 D45 2008
+
+ODOM,   W.,   2016.   CCENT/CCNA  ICND1  100-105  official  Cert  guide.  Indianapolis,  IN:  Cisco  Press.  ISBN
+978-0-13-444098-9
+
+ODOM,   W.,   2017.   CCNA   routing   and  switching  ICND2  200-105  official  cert  guide.  Indianapolis,  IN:
+Cisco Press. ISBN 978-1-58720-579-8
+
+OPPENHEIMER,   P.,   2011.   Top-down   network   design.   3rd   ed.  Indianapolis,  Ind.:  Cisco  Press.  ISBN
+978-1-58714-005-1
+
+SEDAYAO,    J.,    2001.   Cisco   IOS   access   lists.   Sebastopol,   CA:   O’Reilly   &   Associates.   ISBN
+978-1-56592-385-0
+
+TADIMETY,   P.R.,   2015.  OSPF:  a  network  routing  protocol.  New  York:  Apress,  SpringerScience+Business
+Media. The expert’s voice in networking, ISBN 978-1-4842-1410-7
+
+ZWICKY,   E.D.,   COOPER,   S.   y   CHAPMAN,   D.B.,   2000.  Building  Internet  Firewalls:  Internet  and  Web
+security. 2nd ed. Beijing; Cambridge, Mass: O’Reilly. ISBN 978-1-56592-871-8
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+TK5105.8.E83   D45   2008   CHESWICK,   W.R.,  BELLOVIN,  S.M.  y  RUBIN,  A.D.,  2003.  Firewalls  and  Internet
+security:   repelling   the   wily   hacker.  2nd  ed.  Boston:  Addison-Wesley.  Addison-Wesley  professional
+computing   series,   ISBN   978-0-201-63466-2   →   CHESWICK,   W.R.,  BELLOVIN,  S.M.  y  RUBIN,  A.D.,  2003.
+Firewalls and Internet security: repelling the wily hacker. 2nd ed. Boston: Addison-Wesley. Addison-
+Wesley professional computing series, ISBN 978-0-201-63466-2
+
+STEWART, K. y ADAMS, E.A., 2008. Designing and supporting computer networks: CCNA discovery learning
+guide.   Indianapolis,   Ind:   Cisco   Press.   Cisco  Networking  Academy  series,  ISBN  978-1-58713-212-4.
+TK5105.5   .S747   2008  BEJTLICH,  R.,  2013.  The  practice  of  network  security  monitoring:  understanding
+incident   detection   and   response.   San  Francisco,  Calif:  No  Starch  Press.  ISBN  978-1-59327-509-9  →
+STEWART, K. y ADAMS, E.A., 2008. Designing and supporting computer networks: CCNA discovery learning
+guide.   Indianapolis,   Ind:   Cisco   Press.   Cisco  Networking  Academy  series,  ISBN  978-1-58713-212-4.
+TK5105.5 .S747 2008
+
+✅ Recursos añadidos:
+------------------------------
+BEJTLICH,   R.,   2013.   The  practice  of  network  security  monitoring:  understanding  incident  detection
+and response. San Francisco, Calif: No Starch Press. ISBN 978-1-59327-509-9
+
+Bloque I: Protocolos, mecanismos y métodos en redes corporativas
+
+Bloque II: Diseño y gestión de redes corporativas
+
+OWALT,   M.,   ADELL,  C.,  LOEW,  S.S.,  EDELMAN,  J.  Network  Programmability  and  Automation,  2nd  Edition.
+Published by O'Reilly Media, Inc., 2023
+
+RICHARD,   F.,   ERUM,   F.,  2015.  Implementing  Cisco  IP  Switched  Networks  (SWITCH)  Foundation  Learning
+Guide. Indianapolis: Cisco Press. ISBN 978-1-58720-664-1
+
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

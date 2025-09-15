@@ -1,0 +1,51 @@
+🆚 Comparativa de bibliografía: Guia_docente_Estadística_Computacional_II (2231138)
+Grado: estadistica (223)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+No hay elementos.
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+1.Albert,   Rizzo   -   R   by  Example  (2012)  2.Bali  -  R  Machine  Learning  By  Example  (2016)  3.Bühlmann  -
+Handbook   of   Big   Data   (2016)   4.Gillespie,   Lovelace  -  Efficient  R  Programming  (2016)  5.Heineman,
+Pollice,   Selkow   -   Algorithms   in   a   Nutshell,   2nd  ed  (2016)  6.Lafaye  de  Micheaux  et  al.  -  The  R
+Software.   Fundamentals  of  Programming  and  Statistical  Analysis  (2014)  7.Maxwell  -  R  Bootcamp.  Learn
+The   Basics   of  R  Programming  (2016)  8.Wickham  -  ggplot2.  Elegant  Graphics  for  Data  Analysis,  2nd  ed
+(2016)   9.Williams   -   Data  Science  with  R.  Documenting  with  KnitR  (2014)  10.Xie  -  Dynamic  Documents
+with   R   and   knitr,  2nd  ed  (2015)  11.Zumel,  Mount  -  Practical  Data  Science  with  R  (2014)  →  Bühlmann
+- Handbook of Big Data (2016)
+
+✅ Recursos añadidos:
+------------------------------
+Albert, Rizzo - R by Example (2012)
+
+Bali - R Machine Learning By Example (2016)
+
+Crawley - The R Book, 2nd ed (2012)
+
+Gillespie, Lovelace - Efficient R Programming (2016)
+
+Heineman, Pollice, Selkow - Algorithms in a Nutshell, 2nd ed (2016)
+
+Lafaye   de   Micheaux   et   al.  -  The  R  Software.  Fundamentals  of  Programming  and  Statistical  Analysis
+(2014)
+
+Maxwell - R Bootcamp. Learn The Basics of R Programming (2016)
+
+The R Project for Statistical Computing. http://www.r-project.org
+
+Wickham - ggplot2. Elegant Graphics for Data Analysis, 2nd ed (2016)
+
+Williams - Data Science with R. Documenting with KnitR (2014)
+
+Xie - Dynamic Documents with R and knitr, 2nd ed (2015)
+
+Zumel, Mount - Practical Data Science with R (2014)
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

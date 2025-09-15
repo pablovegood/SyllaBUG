@@ -1,0 +1,39 @@
+🆚 Comparativa de bibliografía: Guia_docente_Señales_Digitales (2211127)
+Grado: ingenieria-tecnologias-telecomunicacion (221)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+A.M.   Abad,  APRENDA  MATLAB  7.0  COMO  SI  ESTUVIERA  EN  PRIMERO,  Universidad  Politécnica  de  Madrid,  2009
+(Gratuito y disponible online)
+
+Alan V. Oppenheim, Alan S. Willsky, SEÑALES Y SISTEMAS, Prentice-Hall, 2ª Ed., 1994
+
+Alan   V.   Oppenheim,  Ronald  W.  Schafer,  TRATAMIENTO  DE  SEÑALES  EN  TIEMPO  DISCRETO,  Prentice-Hall,  3ª
+Ed., 2011
+
+C.S.   Burrus,  J.H.  McClellan,  A.V.  Oppenheim,  J.H.  Parks,  R.W.  Schafer,  H.W.  Schuessler,  TRATAMIENTO
+DE LA SEÑAL UTILIZANDO MATLAB, Prentice Hall, 1998
+
+E.O. Brigham, THE FAST FOURIER TRANSFORM AND ITS APPLICATIONS, Prentice-Hall, 1988
+
+J.G. Proakis, D.G. Manolakis, TRATAMIENTO DIGITAL DE SEÑALES, Pearson, 4º Ed., 2007
+
+L.R. Rabiner, B. Gold, THEORY AND APPLICATION OF DIGITAL SIGNAL PROCESSING, Prentice-Hall, 1975
+
+Pablo Padilla, Ángel M. Gómez, José M. Mateos, Conrado García, Mª Carmen Benítez, SEÑALES DIGITALES,
+Ed. Técnica AVICAM, 2ª Ed., 2019
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

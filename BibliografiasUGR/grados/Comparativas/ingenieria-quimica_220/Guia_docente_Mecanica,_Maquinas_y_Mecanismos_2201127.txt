@@ -1,0 +1,47 @@
+🆚 Comparativa de bibliografía: Guia_docente_Mecánica,_Máquinas_y_Mecanismos (2201127)
+Grado: ingenieria-quimica (220)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+Beer F.P., Johnston E.R. Mecánica Vectorial para Ingenieros. McGraw-Hill
+
+Meriam J.L. Dinámica. Editorial Reverté A. Hernández, Cinemática para ingenieros, Ed. Síntesis, 2004
+Bastero J.M, Casellas J. Curso de Mecánica. Editorial EUNSA
+
+Meriam J.L. Estática. Editorial Reverté
+
+Rafael Muñoz. Mecánica y Teoría Básica de Máquinas y Mecanismos Planos para Ingenieros no Mecánicos,
+Editorial Técnica Avicam - Fleming
+
+Scala   JJ.   Física   I   y   II.  Publicaciones  de  la  ETSI  Industriales  de  la  Universidad  Politécnica  de
+Madrid Scala JJ. Análisis Vectorial. Volumen 1: Vectores. Sociedad de Amigos de la ETSI Industriales
+de   la   Universidad  Politécnica  de  Madrid  Mecánica  I  y  II.  Díaz  de  la  Cruz  J.M.  ,  Sánchez  Pérez  A.M.
+Publicaciones de la ETSI Industriales de la Universidad Politécnica de Madrid
+
+Vázquez   M.,   López  E.  Mecánica  para  Ingenieros:  Estática  y  Dinámica.  Editorial  Noela  Prieto  Alberca
+M. Curso de Mecánica Racional. Editorial Prefijo Editorial Común
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+A. Hernández, Cinemática para ingenieros, Ed. Síntesis, 2004
+
+Bastero J.M, Casellas J. Curso de Mecánica. Editorial EUNSA
+
+Scala   JJ.  Análisis  Vectorial.  Volumen  1:  Vectores.  Sociedad  de  Amigos  de  la  ETSI  Industriales  de  la
+Universidad Politécnica de Madrid
+
+Scala   JJ.   Física   I   y   II.  Publicaciones  de  la  ETSI  Industriales  de  la  Universidad  Politécnica  de
+Madrid
+
+Vázquez M., López E. Mecánica para Ingenieros: Estática y Dinámica. Editorial Noela
+
+📊 Porcentaje estimado de cambio: 83% [████████░░]

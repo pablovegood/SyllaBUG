@@ -1,0 +1,40 @@
+🆚 Comparativa de bibliografía: Guia_docente_Organografía_Microscópica (20011B5)
+Grado: biologia (200)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Ed. Elsevier, 5ª ed., 2020
+
+📚 Recursos sin cambios:
+------------------------------
+GARTNER LP. Histología: Atlas en Color y Texto. Ed. Wolters Kluwer. 8ª ed. 2023
+
+GENESER F. Histología. Ed. Panamericana, 4ª ed., 2015
+
+KERR JB. Functional histology. Ed. Elsevier, 2ª ed., 2010
+
+O`DOWD, G., BELL, S., WRIGHT, S. Wheater`s Functional Histology. Ed. Elsevier, 7ª ed., 2023
+
+PAWLINA W. Ross Histología: Texto y Atlas, Correlación con Biología Celular y Molecular. Ed. Wolters
+Kluwer, 9ª ed., 2024
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Panamericana,   1ª   ed.,   2012   WELSCH  U.  Sobotta  Histología.  Ed.  Panamericana,  3ª  ed.,  2014  →  WELSCH
+U. Sobotta Histología. Ed. Panamericana, 3ª ed., 2014
+
+BOYA   VEGUE,   J.   Atlas   de   Histología   y  Organografía  Microscópica.  Ed.  Panamericana,  3ª  ed.,  2010
+KIERSZENBAUM    AL.    Histología   y   biología   celular.   Introducción   a   la   Anatomía   Patológica   →
+KIERSZENBAUM AL. Histología y biología celular. Introducción a la Anatomía Patológica. Ed. Elsevier,
+5ª ed., 2020
+
+✅ Recursos añadidos:
+------------------------------
+BOYA VEGUE, J. Atlas de Histología y Organografía Microscópica. Ed. Panamericana, 3ª ed., 2010
+
+JUNQUEIRA, CARNEIRO, J. Histología Básica. Texto y Atlas. Ed. Panamericana, 3ª ed. 2022
+
+ROSS, MH., PAWLINA, W., BARNASH, TA. Atlas de histología descriptiva. Ed. Panamericana, 1ª ed., 2012
+
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

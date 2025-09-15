@@ -1,0 +1,94 @@
+🆚 Comparativa de bibliografía: Guia_docente_Normalización_para_la_Organización_de_la_Información (231112A)
+Grado: informacion-documentacion (231)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+Joint   Steering   Committee   for   Development   of  RDA.  Resource  description  and  access  Zapico  Alonso,
+Felipe (Coord.) Recursos informativos : Creación, descripción y
+
+📚 Recursos sin cambios:
+------------------------------
+Aalberg,   Trond   ;   Žumer,  Maja.  The  value  of  MARC  data,  or,  challenges  of  fribrisation",  Journal  of
+Documentation, vol. 69 nº 6, 2013 pp. 851 – 872
+
+Angelozzi,   Silvina  M.  y  Martín,  Sandra  G.  Metadatos  para  la  descripción  de  recursos  electrónicos  en
+línea : análisis y comparación. Buenos Aires : Alfagrama, 2010
+
+FRBR.   Requisitos   funcionales  de  los  registros  bibliográficos  :  informe  final  /  Grupo  de  estudio  de
+la   IFLA   sobre   los  Requisitos  Funcionales  de  los  Registros  Bibliográficos  ;  aprobado  por  el  Comité
+Permanente   de   la   Sección   de   Catalogación  de  la  IFLA  ;  Traducción  de  Xavier  Agenjo  y  María  Luisa
+Martínez-Conde. Madrid : Ministerio de Cultura, 2004
+
+Formato   MARC   21   para   registros   bibliográficos   [documento   electrónico].   Edición   en   español.
+Traducción   realizada   por  la  Biblioteca  Nacional  de  España.  Madrid  :  Biblioteca  Nacional  de  España,
+2010. Disponible en: http://www.bne.es/es/Micrositios/Guias/Marc21/resources/Docs/Marc21.pdf
+
+Froeger,   Angela.  The  Road  to  BIBFRAME:  The  Evolution  of  the  Idea  of  Bibliographic  Transition  into  a
+Post-MARC   Future,   Cataloging   &   Classification   Quarterly,   vol.   51   nº8,  2013,  pp  873-890,  DOI:
+10.1080/01639374.2013.823584
+
+Gartner,   Richard.   Metadata  for  digital  libraries:  state  of  the  art  and  future  directions.  Bristol,
+UK : JISC, 2008
+
+Gorman,   Michael   From   card   catalogues   to   WebPACS   [documento   electrónico]  2000.  Disponible  en:
+http://lcweb.loc.gov/catdir/bibcontrol/gorman_paper.html
+
+ISO   2709   2008   :   Information  and  Documentation  :  format  for  information  exchange  =  Information  et
+Documentation : format pour l'échange d'information. Genève : ISO, 2008
+
+Library   of   Congress.   Bibliographic   Framework   as  a  Web  of  Data:  Linked  Data  Model  and  Supporting
+Services, 2012
+
+MARC   21  concise  format  for  bibliographic  data.  –  Washington  :  Library  of  Congress,  2001.  Disponible
+en: http://www.loc.gov/marc/bibliographic/ecbdhome.html
+
+UNE-ISO 15836. Información y documentación. Conjunto de elementos de metadatos Dublin Core. Madrid :
+AENOR, 2011
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+Haynes,   David.   Metadata   for  information  management  and  retrieval.  London  :Facet  publishing,  2004.
+ISO   15836:2009   Information  and  documentation  -  The  Dublin  Core  metadata  element  set.  Genève  :  ISO,
+2009   →   Haynes,  David.  Metadata  for  information  management  and  retrieval.  London  :Facet  publishing,
+2004
+
+MARC   to   Dublin   core   crosswalk.   –   Washington   :   Library   of   Congress,  2008.  Disponible  Méndez
+Rodríguez,    Eva    María.   Metadatos   y   recuperación   de   información   :   estándares,   problemas   y
+aplicabilidad   en   bibliotecas   digitales.   Gijón   :   Trea,   2002.   Madrid   :   Arco/Libros,   2012   →
+Disponible en: http://www.loc.gov/bibframe/pdf/marcld-report-11-21-2012.pdf
+
+Caplan,   Priscila.  Metadata  fundamentals  for  all  librarians.  Chicago  :  American  Library  Association,
+2003.   Cataloging   the  web  :Metadata,  AACR,  and  MARC  21.  Wayne  Jones,  Judith  R.  Ahronheim,  Josephine
+Crawford.   -   Lanham,   MD   :Scarecrow   Press   ,   2002  Foulonneau,  Muriel  ;  Riley,  Jenn.  Metadata  for
+digital   resources   :   implementation,  systems  design  and  interoperability.  Oxford  :  Chandos,  2007  →
+Cataloging   the   web   :Metadata,   AACR,   and   MARC   21.   Wayne  Jones,  Judith  R.  Ahronheim,  Josephine
+Crawford. - Lanham, MD :Scarecrow Press, 2002
+
+✅ Recursos añadidos:
+------------------------------
+Caplan,   Priscila.  Metadata  fundamentals  for  all  librarians.  Chicago  :  American  Library  Association,
+2003
+
+Foulonneau,   Muriel   ;   Riley,  Jenn.  Metadata  for  digital  resources  :  implementation,  systems  design
+and interoperability. Oxford : Chandos, 2007
+
+ISO   15836:2009   Information  and  documentation  -  The  Dublin  Core  metadata  element  set.  Genève  :  ISO,
+2009
+
+Joint   Steering   Committee   for   Development   of   RDA.   Resource   description   and   access   [recurso
+electrónico]. Disponible en: http://www.rda-jsc.org/rda.html
+
+MARC   to   Dublin   core   crosswalk.   –   Washington   :   Library   of   Congress,   2008.   Disponible   en:
+http://www.loc.gov/marc/marc2dc.htm l
+
+Méndez   Rodríguez,   Eva   María.   Metadatos   y   recuperación  de  información  :  estándares,  problemas  y
+aplicabilidad en bibliotecas digitales. Gijón : Trea, 2002
+
+Olaran   Múgica,   María.   ISBD  consolidada  y  MARC  21  :  manual  práctico  para  catalogadores.  –  Madrid  :
+Arco/Libros, 2012
+
+Zapico Alonso, Felipe (Coord.) Recursos informativos : Creación, descripción y evaluación. Badajoz :
+Junta de Extramadura, Consejería de Ciencia, educación y tecnología, 2003
+
+📊 Porcentaje estimado de cambio: 80% [████████░░]

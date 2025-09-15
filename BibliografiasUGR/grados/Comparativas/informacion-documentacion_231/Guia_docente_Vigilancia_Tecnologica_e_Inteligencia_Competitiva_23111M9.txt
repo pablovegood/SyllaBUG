@@ -1,0 +1,44 @@
+🆚 Comparativa de bibliografía: Guia_docente_Vigilancia_Tecnológica_e_Inteligencia_Competitiva (23111M9)
+Grado: informacion-documentacion (231)
+==================================================
+
+❌ Recursos eliminados:
+------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios:
+------------------------------
+García-Santiago,   L.   Manual   básico   de  literatura  gris.  El  lado  oscuro  de  la  documentación.  Gijón:
+Trea, 1999
+
+García-Santiago,   L.   “Actualidad   y   futuro   de   los   informes   técnicos”.   AABADOM:   Boletín  de  la
+Asociación   Asturiana   de   Bibliotecarios,   Archiveros,   Documentalistas  y  Museólogos,  vol  15,  nº  2,
+junio-diciembre 2004, págs. 21-27
+
+Jürgens,   Björn   y   Herrero-Solana,   Victor.   Espacenet,   Patentscope   and   Depatisnet:  a  comparison
+approach. World Patent Information, 42:4-12, 2015. https://doi.org/10.1016/j.wpi.2015.05.004
+
+Jürgens,   Björn  y  Herrero-Solana,  Victor.  Monitoring  nanotechnology  using  patent  classifications:  An
+overview and comparison of nanotechnology classifications schemes. Journal of Nanoparticle Research,
+19(151), 2017. https://doi.org/10.1007/s11051-017-3838-2
+
+Palop,   Fernando;   Vicente,   José  M.  Vigilancia  tecnológica  e  inteligencia  competitiva.  Su  potencial
+para la empresa española. Madrid : COTEC, 1999
+
+Zaby, Alexandra. The decisión to patent. Tübingen : Physica-Verlag, 2010
+
+🔁 Misma obra con edición/año distinto:
+------------------------------
+No hubo cambios de edición/año.
+
+✅ Recursos añadidos:
+------------------------------
+Jürgens,   Björn  y  Herrero-Solana,  Victor.  Los  Estudios  Sectoriales  de  Vigilancia  Tecnológica  para  la
+comunidad empresarial e investigadora de Andalucía. El Profesional de la Información, 20(5):533-541,
+2011. http://dx.doi.org/10.3145/epi.2011.sep.07
+
+Jürgens,   Björn  y  Herrero-Solana,  Victor.  Patents  from  Latin  America  and  Spain  with  Latipat:  country
+coverage   and   ability   to   search  for  emerging  topics  like  Nanotechnology.  World  Patent  Information
+46:1-8, 2016. https://doi.org/10.1016/j.wpi.2016.05.003
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
