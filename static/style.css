@@ -4,11 +4,13 @@
 /* =========================================
    Ajuste de altura para fondo en móviles
    ========================================= */
-/* =========================================
-   Ajuste de altura para fondo en móviles
-   ========================================= */
 html, body {
   height: 100%;
+}
+
+:root {
+  /* Tamaño por defecto para comparativas (editable por JS) */
+  --cmp-font-size: 14px;
 }
 
 body {
@@ -48,51 +50,49 @@ body {
 @media (max-width: 768px) {
   body {
     background-attachment: scroll;
-
     /* 2 capas: [0]=gradiente, [1]=imagen */
-    /* El gradiente puede repetir; la imagen se repite en Y y ocupa el ancho */
     background-size: auto, 100% auto;
     background-position: center top, center top;
     background-repeat: repeat, repeat-y;
   }
 }
 
-
-
 /* Contenedor principal */
 .container {
-    position: relative;            /* Posicionar el botón info respecto al contenedor */
-    max-width: 960px;
-    margin: 50px auto;
+    position: relative;
+    width: 95%;           /* ocupa casi todo el ancho */
+    max-width: 1400px;    /* ancho máximo en pantallas muy grandes */
+    margin: 20px auto;    /* menos margen superior/inferior */
     padding: 40px;
-    background-color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.65);
     border-radius: 12px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
+
 
 /* =========================
    Encabezados y barra superior
    ========================= */
 
-/* Fila superior: solo logo a la izquierda */
+/* Fila superior: logo izq + info der */
 .topbar {
     display: flex;
     align-items: center;
-    justify-content: space-between; /* logo izq, info der */
+    justify-content: space-between;
     margin-bottom: 12px;
 }
 
 /* Logo UGR */
 .logo-ugr {
-    height: 80px; /* pequeño */
+    height: 80px;
     width: auto;
 }
 
-/* Cabecera principal centrada de forma robusta */
+/* Cabecera principal centrada */
 .header {
     display: flex;
     align-items: center;
-    justify-content: center;  /* centra el h1 */
+    justify-content: center;
     text-align: center;
 }
 
@@ -101,7 +101,7 @@ body {
 h1 {
     margin: 0 0 20px 0;
     text-align: center;
-    color: #002147; /* Azul oscuro institucional */
+    color: #002147;
 }
 
 /* Subtítulo */
@@ -116,7 +116,7 @@ h2.subtitle {
    Formularios y botones
    ========================= */
 select,
-button:not(.info-btn) {          /* no afectar al botón de info */
+button:not(.info-btn) {
     display: block;
     width: 100%;
     max-width: 400px;
@@ -130,7 +130,7 @@ button:not(.info-btn) {          /* no afectar al botón de info */
 
 /* Botón principal */
 button:not(.info-btn) {
-    background-color: #D32A23; /* borgoña */
+    background-color: #D32A23;
     color: #ffffff;
     border: none;
     cursor: pointer;
@@ -141,11 +141,10 @@ button:not(.info-btn):hover {
 }
 
 /* =========================
-   Botón de información (esquina superior derecha)
+   Botón de información
    ========================= */
 .info-btn {
-    /* quita la posición absoluta */
-    position: static;      /* o unset */
+    position: static;
     top: auto;
     right: auto;
     display: inline-flex;
@@ -164,7 +163,7 @@ button:not(.info-btn):hover {
     line-height: 1;
     cursor: pointer;
     transition: background-color .2s ease, color .2s ease, transform .1s ease;
-    z-index: 1; /* no hace falta, pero no molesta */
+    z-index: 1;
 }
 .info-btn:hover { background-color: #D32A23; color: #fff; }
 .info-btn:active { transform: scale(0.97); }
@@ -212,7 +211,32 @@ a:hover { text-decoration: underline; }
 /* =========================
    Acordeón de comparativas
    ========================= */
-.contenido-comparativo { margin-top: 24px; }
+.contenido-comparativo {
+  margin-top: 24px;
+}
+
+/* Controles de fuente */
+.font-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .75rem;
+  margin: 0 0 1rem 0;
+  flex-wrap: wrap;
+}
+.font-controls label {
+  font-weight: 600;
+  color: #002147;
+}
+.font-controls input[type="range"] {
+  width: min(420px, 90%);
+}
+.font-controls .font-preview {
+  min-width: 48px;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  color: #333;
+}
 
 .cmp {
     border: 1px solid #e5e7eb;
@@ -242,17 +266,30 @@ a:hover { text-decoration: underline; }
 }
 .cmp[open] summary::after { transform: rotate(90deg); }
 
+/* Cuerpo de comparativa */
 .cmp pre {
     margin: 0;
     border-top: 1px solid #e5e7eb;
     padding: 16px;
     background: #ffffff;
-    white-space: pre-wrap;
+
+    /* IMPORTANTE:
+       - pre-line hace que \n se muestren como salto,
+         pero colapsa espacios como un párrafo normal.
+       - Con el JS normalizamos para que solo queden \n\n entre recursos. */
+    white-space: pre-line;
+
     word-wrap: break-word;
     overflow-wrap: break-word;
+
     overflow-x: auto;
     max-width: 100%;
     font-family: monospace;
+
+    /* Justificado + tamaño ajustable por usuario */
+    text-align: justify;
+    font-size: var(--cmp-font-size);
+    line-height: 1.5;
 }
 
 /* ===== Alineado tipo índice (línea y porcentaje derecha) ===== */
@@ -363,27 +400,21 @@ a:hover { text-decoration: underline; }
 
 body.modal-open { overflow: hidden; }
 
-
-
-
 /* --- Modal: bajar en móviles y evitar que quede bajo la barra del navegador --- */
 @media (max-width: 768px) {
   .modal {
-    align-items: flex-start;                         /* que no se centre verticalmente */
-    padding-top: calc(env(safe-area-inset-top, 0px)  /* notch / barra iOS si existe */
-                    + 76px);                         /* separa de la barra del navegador */
+    align-items: flex-start; /* que no se centre verticalmente */
+    padding-top: calc(env(safe-area-inset-top, 0px) + 76px);
     padding-left: 16px;
     padding-right: 16px;
     padding-bottom: 16px;
   }
 
   .modal-dialog {
-    margin-top: 0;                                   /* lo controla el padding del contenedor */
+    margin-top: 0;
     width: 100%;
-    max-height: calc(100dvh                          /* alto real del viewport en móvil */
-                     - (env(safe-area-inset-top, 0px) + 76px)
-                     - 24px);                        /* margen inferior de respiro */
-    overflow: auto;                                  /* scroll interno si hay mucho contenido */
-    border-radius: 12px;                             /* mantiene estética */
+    max-height: calc(100dvh - (env(safe-area-inset-top, 0px) + 76px) - 24px);
+    overflow: auto;
+    border-radius: 12px;
   }
 }

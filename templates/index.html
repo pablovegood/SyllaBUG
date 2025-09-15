@@ -90,7 +90,14 @@
     {% endif %}
 
     {% if contenido %}
-        <div class="contenido-comparativo">
+        <!-- Controles de tamaño de letra para comparativas -->
+        <div class="font-controls" role="group" aria-label="Controles de tamaño de letra">
+          <label for="fontSizeRange">Tamaño de letra:</label>
+          <input type="range" id="fontSizeRange" min="10" max="24" value="14" step="1" aria-labelledby="fontSizeRange">
+          <span class="font-preview" id="fontSizeValue" aria-live="polite">14px</span>
+        </div>
+
+        <div class="contenido-comparativo" id="comparativas">
             {# El HTML de los <details> con el título "Asignatura (CODIGO)" viene ya generado por app.py #}
             {{ contenido | safe }}
         </div>
@@ -129,9 +136,10 @@
     </div>
 </div>
 
-<!-- Script para abrir/cerrar el modal -->
+<!-- Script para abrir/cerrar el modal, control de fuente y normalización -->
 <script>
 (function () {
+    // --- Modal ---
     const btn = document.getElementById('infoBtn');
     const modal = document.getElementById('infoModal');
     const backdrop = document.getElementById('modalBackdrop');
@@ -141,25 +149,83 @@
         modal.setAttribute('aria-hidden', 'false');
         backdrop.setAttribute('aria-hidden', 'false');
         document.body.classList.add('modal-open');
-        closeBtn.focus();
+        closeBtn && closeBtn.focus();
     }
 
     function closeModal() {
         modal.setAttribute('aria-hidden', 'true');
         backdrop.setAttribute('aria-hidden', 'true');
         document.body.classList.remove('modal-open');
-        btn.focus();
+        btn && btn.focus();
     }
 
-    btn.addEventListener('click', openModal);
-    closeBtn.addEventListener('click', closeModal);
-    backdrop.addEventListener('click', closeModal);
+    btn && btn.addEventListener('click', openModal);
+    closeBtn && closeBtn.addEventListener('click', closeModal);
+    backdrop && backdrop.addEventListener('click', closeModal);
 
     document.addEventListener('keydown', function (e) {
         if (e.key === 'Escape' && modal.getAttribute('aria-hidden') === 'false') {
             closeModal();
         }
     });
+
+    // --- Control de tamaño de fuente (con persistencia) ---
+    const fontSizeRange = document.getElementById('fontSizeRange');
+    const fontSizeValue = document.getElementById('fontSizeValue');
+    const STORAGE_KEY = 'cmpFontSizePx';
+
+    function applyFontSize(pxStr) {
+        if (!pxStr) return;
+        document.documentElement.style.setProperty('--cmp-font-size', pxStr);
+        fontSizeValue && (fontSizeValue.textContent = pxStr);
+        fontSizeRange && (fontSizeRange.value = parseInt(pxStr, 10));
+    }
+
+    try {
+        const saved = localStorage.getItem(STORAGE_KEY);
+        if (saved) applyFontSize(saved);
+    } catch (e) { /* ignorar */ }
+
+    fontSizeRange && fontSizeRange.addEventListener('input', function () {
+        const size = this.value + 'px';
+        document.documentElement.style.setProperty('--cmp-font-size', size);
+        fontSizeValue && (fontSizeValue.textContent = size);
+        try { localStorage.setItem(STORAGE_KEY, size); } catch (e) {}
+    });
+
+    // --- Normalización de saltos de línea en comparativas ---
+    // Mantiene líneas en blanco (separadores de recursos) como \n\n,
+    // pero elimina saltos manuales dentro de un recurso (convirtiéndolos en espacios).
+    function normalizeComparatives() {
+        const PRESERVE = '<<PARA_BREAK>>';
+        const pres = document.querySelectorAll('.contenido-comparativo pre');
+
+        pres.forEach(el => {
+            // 1) Tomamos el texto llano del <pre>
+            let t = el.textContent;
+
+            // 2) Normalizamos saltos tipo Windows
+            t = t.replace(/\r\n/g, '\n');
+
+            // 3) Preservamos bloques de 2+ saltos como marcador
+            t = t.replace(/\n{2,}/g, PRESERVE);
+
+            // 4) Convertimos los saltos simples en espacios
+            t = t.replace(/\n/g, ' ');
+
+            // 5) Restauramos los separadores como doble salto de línea
+            t = t.replace(new RegExp(PRESERVE, 'g'), '\n\n');
+
+            // 6) Asignamos el texto normalizado de vuelta
+            el.textContent = t;
+        });
+    }
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', normalizeComparatives);
+    } else {
+        normalizeComparatives();
+    }
 })();
 </script>
 </body>
