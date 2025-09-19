@@ -2,11 +2,12 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+David   W.Wall   (2004).  Fisicoquímica.  3ª  edición.  Ed.  International  Thomson  Engel  T.,  Reid  P.  (2006)
+Química Física. Pearson Educación S.A
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 Atkins P., de Paula J. (2008). Química Física. Ed. Med. Panamericana
 
@@ -39,28 +40,21 @@ Raymond Chang (2008). Fisicoquímica. 3ª edición. Ed. Mc Graw Hill
 Sanz   Pedrero,   P.   (1996).   Fisicoquímica   para   Farmacia   y   Biología.  Ed.  Ediciones  Científicas  y
 Técnicas,S.A
 
+Tinoco,   Sauer,   Wang,   Puglisi  (2002)  Physical  Chemistry.  Principles  and  Applications  in  Biological
+Sciences, 4ªed. Pearson Education
+
+van Holde, Johnson, Ho (2006). Principles of physical Biochemistry, 2ªed. Pearson-Prentice Hall
+
 Álvarez   Pez,   J.M.,   Talavera   Rodríguez,  E.  M.,  Crovetto,  L.,  Orte,  A.,  Ruedas-Ramas,  M.J.  (2014).
 Física y Fisicoquímica aplicadas a la Farmacia. Ed. Técnica AVICAM
 
 Álvarez   Pez,   J.M.,  Talavera  Rodríguez,  E.  M.,  Crovetto,  L.,  Orte,  A.,  Ruedas-Ramas,  M.J.,  Paredes,
 J.M (2017). Fisicoquímica. Ed. Técnica AVICAM
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Tinoco,   Sauer,   Wang,   Puglisi  (2002)  Physical  Chemistry.  Principles  and  Applications  in  Biological
-Sciences,    4ªed.   Pearson   Education.   van   Holde,   Johnson,   Ho   (2006).   Principles   of   physical
-Biochemistry,   2ªed.   Pearson-  Prentice  Hall  →  van  Holde,  Johnson,  Ho  (2006).  Principles  of  physical
-Biochemistry, 2ªed. Pearson-Prentice Hall
+David W.Wall (2004). Fisicoquímica. 3ª edición. Ed. International Thomson
 
-David   W.Wall   (2004).  Fisicoquímica.  3ª  edición.  Ed.  International  Thomson  Engel  T.,  Reid  P.  (2006)
-Química   Física.   Pearson   Educación   S.A   →   David   W.Wall   (2004).   Fisicoquímica.  3ª  edición.  Ed.
-International Thomson
-
-✅ Recursos añadidos:
-------------------------------
 Engel T., Reid P. (2006) Química Física. Pearson Educación S.A
 
-Tinoco,   Sauer,   Wang,   Puglisi  (2002)  Physical  Chemistry.  Principles  and  Applications  in  Biological
-Sciences, 4ªed. Pearson Education
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

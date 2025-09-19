@@ -2,11 +2,22 @@
 Grado: administracion-direccion-empresas (235)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Wild,   C.J.   (2000).  Chance  encounters:  a  first  course  in  data  analysis  and  inference.Ed.  John  Wiley
+and   Sons.   New   York.   En   general,  todo  libro  del  catálogo  de  nuestra  biblioteca,  sobre  inferencia
+estadística,   estadística   empresarial,  estadística  para  los  negocios  y  la  economía,  es  un  potencial
+libro complementario para consulta de diferentes tópicos, ejemplos y ejercicios sobre los contenidos
+de   la   asignatura.   Dada   la   amplia  colección  de  los  mismos  se  omite  una  lista  detallada  de  ellos.
+Disponibles   en   línea  UGR  Gómez  Villegas,  M.  (2007).  Inferencia  estadística.  Madrid:  Ediciones  Díaz
+de   Santos.   Espejo   Miranda,   I.   (2016).   Inferencia  estadística  :  teoría  y  problemas  (2a.  edición
+revisada.).   Cádiz:  Servicio  de  Publicaciones  de  la  Universidad  de  Cádiz.  Osuna  Guerrero,  R.,  Levin,
+R.,   Rubin,   D.,   &   Bohon   Devars,   J.   (2010).   Estadística  para  administración  y  economía  Edición
+revisada   (7ed.   ed.).   Pearson.   Donnelly,  R.,  &  Abdel-Raouf,  F.  (2016).  Statistics  (Third  edition,
+First   American   edition.).   Indianapolis,   Indiana:   Alpha,   a   member  of  Penguin  Random  House  LLC.
+Sabine, P., & Plumpton, C. (1985). Statistics
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 Amor Pulido, R. (2016). Técnicas Cuantitativas II. Editorial Técnica AVICAM
 
@@ -20,15 +31,6 @@ Canavos, G.C. (1987). Probabilidad y estadística aplicaciones y métodos. McGra
 
 Casas,   J.M,   García,  C.,  Rivera  L.F.,  y  Zamora,  A.I.  (2006).  Ejercicios  de  Inferencia  Estadística  y
 muestreo para economía y administración de empresas. Ed. Pirámide
-
-Disponibles   en   línea  UGR  Gómez  Villegas,  M.  (2007).  Inferencia  estadística.  Madrid:  Ediciones  Díaz
-de Santos
-
-Donnelly,   R.,   &   Abdel-Raouf,   F.   (2016).   Statistics   (Third   edition,  First  American  edition.).
-Indianapolis, Indiana: Alpha, a member of Penguin Random House LLC
-
-Espejo   Miranda,   I.   (2016).   Inferencia   estadística  :  teoría  y  problemas  (2a.  edición  revisada.).
-Cádiz: Servicio de Publicaciones de la Universidad de Cádiz
 
 Fernández-Sánchez.   M.P.   y  Hernández-Bastida,  A.  (2023).  Cuaderno  de  Estadística.  Editorial  Técnica
 AVICAM
@@ -50,30 +52,34 @@ Estadística aplicada a los negocios y la economía. México: McGraw-Hill/Intera
 
 Newbold, P. (1997). Estadística para los negocios y la economía. Prentice Hall
 
-Osuna Guerrero, R., Levin, R., Rubin, D., & Bohon Devars, J. (2010). Estadística para administración
-y economía Edición revisada (7ed. ed.). Pearson
-
 Ropero   Moriones  (coordinadora);  María  Eleftheriou,  et  al.  (2009).  Manual  de  Estadística  Empresarial
 con ejercicios resueltos. Delta Publicaciones Universitarias, 2009
 
-Sabine, P., & Plumpton, C. (1985). Statistics
-
 Utts, Jessica M. (2005). Seeing through statistics. Ed. Belmont, CA: Thomson
 
-Wild,   C.J.   (2000).  Chance  encounters:  a  first  course  in  data  analysis  and  inference.Ed.  John  Wiley
-and Sons. New York
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-No hubo cambios de edición/año.
+Disponibles en línea UGR
 
-✅ Recursos añadidos:
-------------------------------
+Donnelly,   R.,   &   Abdel-Raouf,   F.   (2016).   Statistics   (Third   edition,  First  American  edition.).
+Indianapolis, Indiana: Alpha, a member of Penguin Random House LLC
+
 En general, todo libro del catálogo de nuestra biblioteca, sobre inferencia estadística, estadística
 empresarial,   estadística  para  los  negocios  y  la  economía,  es  un  potencial  libro  complementario  para
 consulta de diferentes tópicos, ejemplos y ejercicios sobre los contenidos de la asignatura. Dada la
 amplia colección de los mismos se omite una lista detallada de ellos
 
+Espejo   Miranda,   I.   (2016).   Inferencia   estadística  :  teoría  y  problemas  (2a.  edición  revisada.).
+Cádiz: Servicio de Publicaciones de la Universidad de Cádiz
+
 Gómez Villegas, M. (2007). Inferencia estadística. Madrid: Ediciones Díaz de Santos
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+Osuna Guerrero, R., Levin, R., Rubin, D., & Bohon Devars, J. (2010). Estadística para administración
+y economía Edición revisada (7ed. ed.). Pearson
+
+Sabine, P., & Plumpton, C. (1985). Statistics
+
+Wild,   C.J.   (2000).  Chance  encounters:  a  first  course  in  data  analysis  and  inference.Ed.  John  Wiley
+and Sons. New York
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

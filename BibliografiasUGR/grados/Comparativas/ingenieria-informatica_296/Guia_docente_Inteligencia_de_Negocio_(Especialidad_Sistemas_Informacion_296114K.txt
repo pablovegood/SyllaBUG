@@ -2,11 +2,17 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Albert   Bifet,  Ricard  Gavaldà,  Geoff  Holmes,  Bernhard  Pfahringer.  Machine  Learning  for  Data  Streams.
+MIT   Press,  2018  Michael  Minelli,  Michele  Chambers,  Ambiga  Dhiraj.  Big  Data,  Big  Analytics:  Emerging
+Business Intelligence and Analytic Trends for Today's Businesses. John Wiley & Sons, 2013
 
-📚 Recursos sin cambios:
+Ian   H.   Witten,   Eibe   Frank,   Mark   A.Hall.   Data   Mining:   Practical   Machine   Learning  Tools  and
+Techniques.   Morgan   Kaufmann,   2016   José   Hernández   Orallo,  M.  José  Ramírez  Quintana,  Cèsar  Ferri
+Ramírez. Introducción a la Minería de Datos. Pearson Educación, 2004
+
+📚 Recursos sin cambios (10):
 ------------------------------
 Charu C. Aggarwal. Data Mining: The Textbook. Springer, 2015
 
@@ -14,6 +20,8 @@ Gordon   S.   Linoff,   Michael   J.   Berry.   Data   Mining  Techniques:  for 
 Relationship Management. John Wiley & Sons, 2011
 
 Ian Goodfellow, Yoshua Bengio, Aaron Courville. Deep Learning. MIT Press, 2016
+
+Jake VanderPlas. Python Data Science Handbook: Essential Tools for Working with Data. O'Reilly, 2016
 
 Jiawei Han, Micheline Kamber, Jian Pei. Data Mining: Concepts and Techniques. Morgan Kaufmann, 2012
 
@@ -25,25 +33,18 @@ Nathan Yau. Data Points: Visualization that Means Something. Wiley, 2013
 Ramesh   Sharda,   Dursun   Delen,  Efraim  Turban.  Business  Intelligence,  Analytics,  and  Data  Science:  A
 Managerial Perspective. Pearson, 2017
 
+Salvador García, Julián Luengo, Francisco Herrera. Data Preprocessing in Data Mining. Springer, 2015
+
 Wayne W. Eckerson. Performance Dashboards: Measuring, Monitoring, and Managing Your Business. Wiley,
 2011
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Ian   H.   Witten,   Eibe   Frank,   Mark   A.Hall.   Data   Mining:   Practical   Machine   Learning  Tools  and
-Techniques.   Morgan   Kaufmann,   2016   José   Hernández   Orallo,  M.  José  Ramírez  Quintana,  Cèsar  Ferri
-Ramírez.   Introducción   a   la  Minería  de  Datos.  Pearson  Educación,  2004  →  Ian  H.  Witten,  Eibe  Frank,
-Mark A.Hall. Data Mining: Practical Machine Learning Tools and Techniques. Morgan Kaufmann, 2016
-
 Albert   Bifet,  Ricard  Gavaldà,  Geoff  Holmes,  Bernhard  Pfahringer.  Machine  Learning  for  Data  Streams.
-MIT   Press,  2018  Michael  Minelli,  Michele  Chambers,  Ambiga  Dhiraj.  Big  Data,  Big  Analytics:  Emerging
-Business   Intelligence   and  Analytic  Trends  for  Today's  Businesses.  John  Wiley  &  Sons,  2013  →  Albert
-Bifet,   Ricard   Gavaldà,   Geoff   Holmes,  Bernhard  Pfahringer.  Machine  Learning  for  Data  Streams.  MIT
-Press, 2018
+MIT Press, 2018
 
-✅ Recursos añadidos:
-------------------------------
-Jake VanderPlas. Python Data Science Handbook: Essential Tools for Working with Data. O'Reilly, 2016
+Ian   H.   Witten,   Eibe   Frank,   Mark   A.Hall.   Data   Mining:   Practical   Machine   Learning  Tools  and
+Techniques. Morgan Kaufmann, 2016
 
 José   Hernández   Orallo,  M.  José  Ramírez  Quintana,  Cèsar  Ferri  Ramírez.  Introducción  a  la  Minería  de
 Datos. Pearson Educación, 2004
@@ -51,6 +52,4 @@ Datos. Pearson Educación, 2004
 Michael   Minelli,   Michele   Chambers,   Ambiga   Dhiraj.   Big   Data,   Big  Analytics:  Emerging  Business
 Intelligence and Analytic Trends for Today's Businesses. John Wiley & Sons, 2013
 
-Salvador García, Julián Luengo, Francisco Herrera. Data Preprocessing in Data Mining. Springer, 2015
-
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

@@ -2,10 +2,14 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (51):
 ------------------------------
 Arte   griego   y  romano:  las  raíces  de  occidente  (Vol.  VIII).  Barcelona:  Alphabetum,  1999  [Archivo  de
 ordenador] Historia Universal del Arte: Grecia y Roma (Vol. II). Madrid: Espasa-Calpe, 2002
+
+BOARDMAN,   John.  El  arte  griego.  Barcelona:  Ediciones  Destino,  1991  BOARDMAN,  John.  Escultura  griega
+del periodo clásico tardío y la escultura en las colonias de ultramar. Barcelona, Ediciones Destino,
+2001
 
 BURCKHARDT, T. El arte del Islam. Barcelona: J. Olañeta Editor, 1988
 
@@ -14,7 +18,11 @@ Arte. Madrid, Cátedra, 1980
 
 CINOTTI, M. Arte de la Edad Media. Barcelona: Teide, 1968
 
+CONANT, K.J. Arquitectura carolingia y románica, 800/1200. Madrid: Cátedra, 1987
+
 DUBY, G. Europa en la Edad Media: arte románico y arte gótico. Barcelona: Blume, 1981
+
+DUBY, G. San Bernardo y el arte cisterciense. El nacimiento del arte gótico. Madrid: Cátedra, 1983
 
 DURLIAT,   M.   El   arte   románico.   Madrid:   Akal,  1992.  -  DURLIAT,  M.  Introducción  al  arte  medieval.
 Madrid: Cátedra, 1979
@@ -36,6 +44,10 @@ GARCÍA GUINEA, Miguel Ángel. Altamira y otras cuevas de Cantabria. Madrid: Sí
 
 GARCÍA GUINEA, Miguel Ángel. La pintura prehistórica. Barcelona: Vicens-Vives, 1989
 
+GONZÁLEZ ECHEGARAY, Joaquín. Altamira y sus pinturas rupestres. Madrid: Ministerio de Cultura, 1995.
+- Historia Universal del Arte: Prehistoria y primeras civilizaciones (Vol. I). Madrid: Espasa-Calpe,
+2002
+
 GRABAR, A. El primer arte cristiano, en El Universo de las Formas. Madrid: Aguilar, 1967
 
 GRABAR, A. La edad de oro de Justiniano, en El Universo de las Formas. Madrid: Aguilar, 1966
@@ -46,17 +58,28 @@ GRABAR, O. La formación del arte islámico. Madrid: Alianza, 1979
 
 GUERRA, M. Simbología románica. Madrid: Fundación Universitaria Española, 1986
 
+Granada:   Port-Royal,   1998   BENDALA   GALÁN,   M.   La   Antigüedad:  de  la  prehistoria  a  los  visigodos.
+Madrid: Sílex, 1990
+
 HARTT, F. Arte. Historia de la pintura, escultura y arquitectura. Madrid: Akal, 1989
 
 HUBERT, J. y otros. El imperio carolingio, en El Universo de las Formas. Madrid: Aguilar, 1968
 
+HUBERT, J. y otros. La Europa de las Invasiones, en El Universo de las Formas. Madrid: Aguilar, 1968
+
 JIMÉNEZ MARTÍN, Alfonso. Las claves del arte etrusco y romano. Barcelona: Airín, 1987
 
+KONANT, K. J. Arquitectura carolingia y románica (800/1200). Madrid: Cátedra, 1987
+
 KOSTOF, S. Historia de la arquitectura. 3 Vols. Madrid: Alianza, 1988
+
+KRAUTHEIMER, R. Arquitectura paleocristiana y bizantina. Madrid: Cátedra, 1984
 
 LEROI-GOURHAN, André. Arte y grafismo en la Europa prehistórica. Madrid: Istmo, 1984
 
 MARTIN, Roland. Arquitectura griega. Madrid: Aguilar, 1989
+
+MENÉNDEZ PIDAL, R. (dir.) Historia de España. Madrid: España Calpe
 
 MICHELL, G. La arquitectura del mundo islámico. Madrid: Aguilar, 1988
 
@@ -64,15 +87,23 @@ MORALES, A. Las claves del arte islámico. Madrid: Ariel, 1987
 
 MORENO, Paolo. Pintura griega: de Polignoto a Apeles. Madrid: Mondadori, 1988
 
+MOSCATI,   Sabatino.   Cómo   reconocer  el  arte  mesopotámico.  Barcelona:  Edunsa,  1993.  Oriente  Próximo:
+Historia y Arqueología. Colonia: Könemann, 2000
+
 MOYA BLANCO, L. y otros. Arquitectura prerromana, romana, prerrománica y románica, en Historia de la
 Arquitectura Española, 1. Zaragoza: Planeta, 1985
 
 MÂLE, E. El gótico. La iconografía de la Edad Media y sus fuentes. Madrid: Encuentro, 1986
 
+NIETO ALCAIDE, V. La luz, símbolo y sistema visual. Madrid: Cátedra, 1978. - NÚÑEZ RODRÍGUEZ, M. Las
+claves del arte bizantino y prerrománico. Barcelona: Ariel, 1991
+
 PALOL, P. y RIPOLL, G. Los Godos en el Occidente europeo. Madrid: Encuentro, 1988
 
 PAREJA   LÓPEZ,   E.   El   arte  en  el  Sur  de  Al-Andalus,  en  Historia  del  Arte  en  Andalucía,  2.  Sevilla:
 Gever, 1989
+
+POLLIT, J. J. El arte helenístico. Madrid: Nerea, 1984
 
 RAMALLO, G. Las claves del arte románico. Madrid: Ariel, 1986
 
@@ -85,9 +116,11 @@ SIMSON, O. von. La catedral gótica. Madrid: Alianza, 1988
 
 WARD PERKINS, J. B. Arquitectura romana. Madrid: Aguilar, 1989
 
+YARZA LUACES, J. Arte y arquitectura en España, 500/1250. Madrid: Cátedra, 1984
+
 YARZA LUACES, J. La Edad Media, en Historia del Arte Hispánico, 2. Madrid: Alhambra, 1980
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (61):
 ------------------------------
 AA. VV. Historia Universal del Arte, “Ars Magna”. Barcelona: Planeta, 2006
 
@@ -107,17 +140,16 @@ AA. VV. Historia del Arte. Madrid: Espasa-Calpe, 2001
 
 AAVV. El Románico. Arquitectura, escultura, pintura. Colonia: Köneman, 1996
 
-AAVV. El gótico. Arquitectura, escultura, pintura.Colonia: Köneman, 1998
-
-ALDRED, Cyril. Arte Egipcio. Barcelona: Ediciones Destino, 1993
+ARMESTO   SÁNCHEZ,  J.  y  otros.  Historia  del  Arte.  Comentarios  de  obras  maestras.  Granada:  Port-Royal,
+1998
 
 AZCÁRATE, J. M. Arte Gótico en España. Madrid: Cátedra, 1990
+
+Arte musulmán: BANGO, I, y BORRÁS, G. Arte bizantino y arte del Islam. Madrid: Historia 16, 1996
 
 BAINES, John. Egipto: dioses, templos y faraones. Madrid: Ediciones del Prado, 1992
 
 BANGO TORVISO, I. El Románico en España. Madrid: Espasa-Calpe, 1992
-
-BANGO, I, y BORRÁS, G. Arte bizantino y arte del Islam. Madrid: Historia 16, 1996
 
 BANGO, I. y BORRÁS, G. Arte bizantino y del Islam. Madrid: Historia 16, 1996
 
@@ -125,10 +157,6 @@ BARRAL,   X   y  SUREDA,  J.  La  época  de  los  monasterios.  La  plenitud  d
 Español, 4. Barcelona: Planeta, 1995-96
 
 BARRUCAND, M. y BEDNORZ, A. Arquitectura islámica en Andalucía. Colonia: Taschen, 1992
-
-BATAILLE, Georges. Lascaux el nacimiento del arte. Córdoba (Argentina): Alción Editora, 2005
-
-BENDALA GALÁN, Manuel. El arte romano.Madrid: Anaya, 1990
 
 BIANCHI   BANDINELLI,   Ranuccio  y  PARIBENI,  Enrico.  El  arte  de  la  Antigüedad  clásica.  Grecia.  Madrid:
 Akal, 1998
@@ -147,6 +175,10 @@ del Arte Español, 3. Barcelona: Planeta, 1995-96
 
 BUSSAGLI, Marco (ed.). Roma. Colonia: Könemann, 2000
 
+CORNELL,   Tim.   Enciclopedia   multimedia   de  arte  universal:  Arte  antiguo  y  medieval  (Tomo  II).  Arte
+griego   y   romano:   las   raíces   de   occidente   (Vol.  VIII).  Barcelona:  Alphabetum,  1999  [Archivo  de
+ordenador]
+
 CORNELL, Tim. Roma: el legado de un imperio.Barcelona: Folio, 1989
 
 CURATOLA,   Giovanni   et   alii.   El   arte   en  Irak,  de  los  sumerios  a  los  califas.  Barcelona:  Lunwerg
@@ -154,22 +186,30 @@ Editores, 2006
 
 DUBY, G. Tiempo de catedrales: el arte y la sociedad (980-1420). Barcelona: Argot, 1983
 
+El   arte   de  las  primeras  civilizaciones  agrarias:  ALDRED,  Cyril.  Arte  Egipcio.  Barcelona:  Ediciones
+Destino, 1993
+
+El   legado   cultural   del   Cristianismo   en  la  Edad  Media:  AAVV.  El  gótico.  Arquitectura,  escultura,
+pintura.Colonia: Köneman, 1998
+
 GOMBRICH, E. H. Historia del Arte. Madrid: Alianza, 1999
-
-GONZÁLEZ ECHEGARAY, Joaquín. Altamira y sus pinturas rupestres. Madrid: Ministerio de Cultura, 1995
-
-GONZÁLEZ   ECHEGARAY,   Joaquín.   Historia   Universal   del  Arte:  Prehistoria  y  primeras  civilizaciones
-(Vol. I). Madrid: Espasa-Calpe, 2002
 
 GONZÁLEZ   SAINZ,   César  et  alii.  Arte  paleolítico  en  la  región  cantábrica.  Santander:  Universidad  de
 Cantabria, 2003
 
 GRABAR, A. Las vías de creación en la iconografía cristiana. Madrid: Alianza, 1998
 
+HAGEN, Rose-Marie y HAGEN, Rainer. Egipto: hombres, dioses, faraones. Barcelona: Taschen, 2005
+
 LASHERAS   CORRUCHAGA,   José   Antonio   y   GONZÁLEZ  ECHEGARAY,  Joaquín  (eds.).  El  significado  del  arte
 paleolítico. Madrid: Ministerio de Cultura, 2005
 
 LEVI, Peter. Grecia: la cuna de Occidente. Madrid: Ediciones del Prado, 1992
+
+La cultura clásica: BENDALA GALÁN, Manuel. El arte romano.Madrid: Anaya, 1990
+
+Las   primeras   manifestaciones   del  arte:  BATAILLE,  Georges.  Lascaux  el  nacimiento  del  arte.  Córdoba
+(Argentina): Alción Editora, 2005
 
 MALEK, Jaromir. Egipto: 4000 años de arte. Londres: Phaidon, 2003
 
@@ -201,6 +241,9 @@ SANCHIDRIÁN, José Luis. Manual de arte prehistórico. Barcelona: Ariel Prehist
 
 SCARCIA, Gianroberto y CURATOLA, Giovanni. Irán: el arte persa. Barcelona: Lunwerg Editores, 2004
 
+SCHULZ,   Nicholas   y   SEIDEL,   Matthias  (eds.).  Egipto:  el  mundo  de  los  faraones.  Colonia:  Könemann,
+1997
+
 SMITH, William Stevenson. Arte y arquitectura del Antiguo Egipto. Madrid: Cátedra, 2000
 
 STACCIOLI, Romolo A. Cómo reconocer el arte etrusco. Barcelona: Edunsa, 1993
@@ -219,52 +262,24 @@ WEEKS, Kent R. El Valle de los Reyes. Barcelona: Librería Universitaria de Barc
 
 WHEELER, Mortimer. El arte y la arquitectura de Roma. Barcelona: Ediciones Destino, 1995
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (24):
 ------------------------------
-ARMESTO   SÁNCHEZ,  J.  y  otros.  Historia  del  Arte.  Comentarios  de  obras  maestras.  Granada:  Port-Royal,
-1998   BENDALA   GALÁN,   M.   La   Antigüedad:   de  la  prehistoria  a  los  visigodos.  Madrid:  Sílex,  1990  →
+Arte musulmán
+
+BATAILLE, Georges. Lascaux el nacimiento del arte. Córdoba (Argentina): Alción Editora, 2005
+
 BENDALA GALÁN, M. La Antigüedad: de la prehistoria a los visigodos. Madrid: Sílex, 1990
 
-POLLIT,   J.   J.   El   arte   helenístico.   Madrid:   Nerea,   1984   →  POLLIT,  J.  J.  El  arte  helenístico.
-Madrid: Nerea, 1998 (2ª edición)
+BENDALA GALÁN, Manuel. El arte romano.Madrid: Anaya, 1990
 
-YARZA   LUACES,   J.  Arte  y  arquitectura  en  España,  500/1250.  Madrid:  Cátedra,  1984  →  YARZA  LUACES,  J.
-Arte y arquitectura en España, 500/1250. Madrid: Cátedra, 2004
-
-MOSCATI,   Sabatino.  Cómo  reconocer  el  arte  mesopotámico.  Barcelona:  Edunsa,  1993.  -  Oriente  Próximo:
-Historia   y   Arqueología.   Colonia:   Könemann,  2000  →  MOSCATI,  Sabatino.  Oriente  Próximo:  Historia  y
-Arqueología. Colonia: Könemann, 2000
-
-BOARDMAN,   John.  El  arte  griego.  Barcelona:  Ediciones  Destino,  1991  BOARDMAN,  John.  Escultura  griega
-del periodo clásico tardío y la escultura en las colonias de ultramar. Barcelona, Ediciones Destino,
-2001  →  BOARDMAN, John. El arte griego. Barcelona: Ediciones Destino, 1991
-
-CONANT,   K.J.   Arquitectura   carolingia   y   románica,  800/1200.  Madrid:  Cátedra,  1987  →  CONANT,  K.J.
-Arquitectura carolingia y románica, 800/1200. Madrid: Cátedra, 2007
-
-KONANT,   K.   J.   Arquitectura  carolingia  y  románica  (800/1200).  Madrid:  Cátedra,  1987  →  CONANT,  K.J.
-Arquitectura carolingia y románica, 800/1200. Madrid: Cátedra, 2007
-
-NIETO ALCAIDE, V. La luz, símbolo y sistema visual. Madrid: Cátedra, 1978. - NÚÑEZ RODRÍGUEZ, M. Las
-claves   del   arte   bizantino  y  prerrománico.  Barcelona:  Ariel,  1991  →  NÚÑEZ  RODRÍGUEZ,  M.  Las  claves
-del arte bizantino y prerrománico. Barcelona: Ariel, 1991
-
-KRAUTHEIMER,   R.   Arquitectura   paleocristiana   y  bizantina.  Madrid:  Cátedra,  1984  →  KRAUTHEIMER,  R.
-Arquitectura paleocristiana y bizantina. Madrid: Cátedra, 2005 (3ªed.)
-
-✅ Recursos añadidos:
-------------------------------
-ARMESTO   SÁNCHEZ,  J.  y  otros.  Historia  del  Arte.  Comentarios  de  obras  maestras.  Granada:  Port-Royal,
-1998
-
-Arte musulmán
+BOARDMAN, John. El arte griego. Barcelona: Ediciones Destino, 1991
 
 BOARDMAN,   John.   Escultura   griega   del   periodo   clásico   tardío  y  la  escultura  en  las  colonias  de
 ultramar. Barcelona, Ediciones Destino, 2001
 
-CORNELL,   Tim.   Enciclopedia   multimedia   de  arte  universal:  Arte  antiguo  y  medieval  (Tomo  II).  Arte
-griego   y   romano:   las   raíces   de   occidente   (Vol.  VIII).  Barcelona:  Alphabetum,  1999  [Archivo  de
-ordenador]
+CONANT, K.J. Arquitectura carolingia y románica, 800/1200. Madrid: Cátedra, 2007
+
+CONANT, K.J. Arquitectura carolingia y románica, 800/1200. Madrid: Cátedra, 2007
 
 CORNELL, Tim. Historia Universal del Arte: Grecia y Roma (Vol. II). Madrid: Espasa-Calpe, 2002
 
@@ -272,27 +287,33 @@ El arte de las primeras civilizaciones agrarias
 
 El legado cultural del Cristianismo en la Edad Media
 
-HAGEN, Rose-Marie y HAGEN, Rainer. Egipto: hombres, dioses, faraones. Barcelona: Taschen, 2005
+GONZÁLEZ ECHEGARAY, Joaquín. Altamira y sus pinturas rupestres. Madrid: Ministerio de Cultura, 1995
+
+GONZÁLEZ   ECHEGARAY,   Joaquín.   Historia   Universal   del  Arte:  Prehistoria  y  primeras  civilizaciones
+(Vol. I). Madrid: Espasa-Calpe, 2002
+
+KRAUTHEIMER, R. Arquitectura paleocristiana y bizantina. Madrid: Cátedra, 2005 (3ªed.)
 
 LAHOZ, L. La imagen y su contexto cultural. La iconografía medieval. Madrid: Síntesis, 2022
-
-La cultura clásica
-
-Las primeras manifestaciones del arte
 
 MENÉNDEZ, Mario (coord.). El arte en la Prehistoria. Madrid: Uned, 2009
 
 MOSCATI, Sabatino. Cómo reconocer el arte mesopotámico. Barcelona: Edunsa, 1993
 
+MOSCATI, Sabatino. Oriente Próximo: Historia y Arqueología. Colonia: Könemann, 2000
+
 NIETO ALCAIDE, V. La luz, símbolo y sistema visual. Madrid: Cuadernos Arte Cátedra, 2006
+
+NÚÑEZ RODRÍGUEZ, M. Las claves del arte bizantino y prerrománico. Barcelona: Ariel, 1991
+
+POLLIT, J. J. El arte helenístico. Madrid: Nerea, 1998 (2ª edición)
 
 PUERTA   VÍCHEZ,   J.M.   Historia   del   pensamiento   estético  árabe,  Granada:  Editorial  Universidad  de
 Granada, 2018
 
-SCHULZ,   Nicholas   y   SEIDEL,   Matthias  (eds.).  Egipto:  el  mundo  de  los  faraones.  Colonia:  Könemann,
-1997
+YARZA LUACES, J. Arte y arquitectura en España, 500/1250. Madrid: Cátedra, 2004
 
 ÁLVAREZ-FERNÁNDEZ,   Esteban,   et   alii   (2020)   Prehistoria   de   la   Península   ibérica.   Salamanca:
 Universidad de Salamanca
 
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 89% [████████░░]

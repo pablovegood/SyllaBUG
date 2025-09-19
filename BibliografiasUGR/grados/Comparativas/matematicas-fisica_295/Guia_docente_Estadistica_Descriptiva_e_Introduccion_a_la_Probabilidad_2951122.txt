@@ -2,11 +2,11 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 Calot, G. (1988). Curso de Estadística Descriptiva. Paraninfo. Madrid
 
@@ -38,11 +38,7 @@ Schay, G. (2007). Introduction to Probability with Statistical Applications. Bir
 Spiegel,   M.R.,   Schiller,   J.,  Srinivasan,  R.V.  (2002).  Probability  and  Statistics.  McGraw-Hill  New
 York
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

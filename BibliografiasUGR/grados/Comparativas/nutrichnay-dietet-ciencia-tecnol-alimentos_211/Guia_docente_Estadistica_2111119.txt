@@ -2,13 +2,14 @@
 Grado: nutrichnay-dietet-ciencia-tecnol-alimentos (211)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
-Canavos G. C. (1984): Applied Probability and Statistical Methods, Little, Brown and Company,US
+Canavos   G.   C.   (1984):   Applied   Probability  and  Statistical  Methods,  Little,  Brown  and  Company,US
+Milton J.S. (1984): Statistical Methods in the Biological and Health Sciences. McGraw-Hill Inc.,US
 
 Canavos G. C. (2003): Probabilidad y Estadística. Aplicaciones y Métodos. McGraw-Hill, Madrid
 
@@ -27,12 +28,8 @@ Interamericana, México DF
 
 Valderrama M.J. (2015): Biometría. Ediciones Avicam, Granada. (Capítulo VI)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Milton J.S. (1984): Statistical Methods in the Biological and Health Sciences. McGraw-Hill Inc.,US
+Canavos G. C. (1984): Applied Probability and Statistical Methods, Little, Brown and Company,US
 
 📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

@@ -2,34 +2,16 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Tema   2.   a.  Lectura,  análisis,  comprensión  y  comentario  de  los  textos  de  la  lección  10  de  Al-Kitaab
-fii Ta´allum al-Arabiyya II, 3ª Edición
+No hay elementos.
 
-Tema 3. a. Lectura, análisis, comprensión y comentario de los textos de la lección 4 de Al-Kitaab ii
-Ta´allum al-Arabiyya II, 2ª Edición
-
-Tema 4. a. Lectura, análisis, comprensión y comentario de los textos de la lección 5 de Al-Kitaab ii
-Ta´allum al-Arabiyya II, 2ª Edición
-
-ﺀﻼﻣﺇ   ـ   ﺓﺰﻤﻬﻟﺍ   ﻦﻣ   ﻩﺁ:   Curso:   Guías   2024  /  Docentes  ﻦﻜﻤﻣـ  ؟  ﺎﻳﺭﺎﻣ  ﺎﻳ  ﻲﻧﺎﺒﺳﺃ  ﻲﻨﻴﻤﻠﻜﺗﻭ  ﻲﺑﺮﻋ  ﻚﻤﻠﻛﺃ
-ﺔﻌﺟﺍﺮﻣـ ﻲﺑﺮﻌﻟﺍ ﻮﺤﻨﻟﺍ ﺮﺻﺎﻨﻋ ﻢﻫﻷ ﺔﻣﺎﻋ ــــــــــــــــــــــــــــــ a. Lectura, análisis, comprensión
-y   comentario   de   los   textos   de  la  lección  9  de  Al-Kitaab  fii  Ta´allum  al-Arabiyya  II,  3ª  Edición
-ﻊﺳﺎﺘﻟﺍ ﺱﺭﺪﻟﺍ ﻡﻼﻋﺇﻭ ﺔﻓﺎﺤﺻ
-
-ﺓءﺍﺮﻘﻟﺍ Curso: Guías 2024 / Docentes ﺔﻴﺑﺮﻌﻟﺍ ﺓﺮﻳﺰﺠﻟﺍ ﺦﻳﺭﺎﺗ ﻦﻋ ﺔﻴﻤﻟﺎﻋ ﺓﻭﺪﻧ
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 ABBOUD,   P.   y   McCARUS,   E.   (1983):  Elementary  Modern  Standard  Arabic.  Part  II:  Arabic  Grammar  and
 Vocabulary. Cambridge University Press
 
-ABUMALHAM, M. (1986). Antología de Textos árabes con glosario. Madrid
-
 AL- MUNYID fi l-luga wa- l-aclam (1992). 3ª ed. Beirut: Dar al- Mašriq
-
-AL-MONGUED arabe - français, français- arabe (1972). Beirut: Dar al- Machreq
 
 ATTAR,   S.   (1998).   Modern   Arabic:   an   Advanced   Course   for   Foreign  Students.  The  Arab-European
 Encounter. Beirut: Librairie du Liban
@@ -50,10 +32,17 @@ CORRIENTE, F. (1988). Nuevo diccionario español - árabe. Madrid: IHAC
 
 CORTÉS, J. (1996). Diccionario de árabe culto moderno. Madrid: Gredos
 
+DICCIONARIOS: AL-MONGUED arabe - français, français- arabe (1972). Beirut: Dar al- Machreq
+
 DICKINS,   J.   y  WATSON,  J.  (1998):  Standard  Arabic:  An  Avanced  Course.  Teacher’s  Handbook.  Cambridge
 University Press
 
+FUENTES   PRIMARIAS,   TEXTOS  Y  MATERIAL  DE  APOYO  ABUMALHAM,  M.  (1986).  Antología  de  Textos  árabes  con
+glosario. Madrid
+
 HAYWOOD J. A. y NAHMAD, H. M. (1992). Nueva gramática árabe. Madrid: Coloquio
+
+Manual de sintaxis árabe. Dalīl al-Tullab fi-l-icirab. Rabat
 
 PARADELA ALONSO, N. (1998). Manual de sintaxis árabe. Madrid: Universidad Autónoma
 
@@ -80,16 +69,10 @@ Liban
 WIGHTWICK,   J.   y   GAAFAR,  M.  (1991).  Mastering  Arabic.  Macmillan  Master  Series.  Londres:  Macmillan.
 (+2 casetes)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 DICCIONARIOS
 
 FUENTES PRIMARIAS, TEXTOS Y MATERIAL DE APOYO
 
-Manual de sintaxis árabe. Dalīl al-Tullab fi-l-icirab. Rabat
-
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

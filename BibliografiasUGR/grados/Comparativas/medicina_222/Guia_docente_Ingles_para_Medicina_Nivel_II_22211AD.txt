@@ -2,11 +2,13 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+McCarter,   Sam.   Medicine   2.   Oxford   :   Oxford   University   Press,   cop.  2010.  (Manual  asignatura)
+Glendinning,   Eric   H.   and   Beverly   A.   S.  Holmström.  English  in  Medicine.  3rd  Ed.  Cambridge:  CUP,
+(Recomendado)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Jones, D. et al., Cambridge English Pronouncing Dictionary, 16th ed. Cambridge: CUP, 2003
 
@@ -17,16 +19,11 @@ McCarter, S. Medicine (1). Oxford English for Careers. Oxford: OUP, 2010
 
 Rogers, Glenn T., Medical Dictionary. 3rd Ed. New York: Mc-Graw Hill, 1992
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-McCarter,   Sam.   Medicine   2.   Oxford   :   Oxford   University   Press,   cop.  2010.  (Manual  asignatura)
-Glendinning, Eric H. and Beverly A. S. Holmström. English in Medicine. 3rd Ed. Cambridge: CUP, 2005.
-(Recomendado)   →   McCarter,   Sam.   Medicine   2.  Oxford  :  Oxford  University  Press,  cop.  2010.  (Manual
-asignatura)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Glendinning, Eric H. and Beverly A. S. Holmström. English in Medicine. 3rd Ed. Cambridge: CUP, 2005.
 (Recomendado)
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+McCarter, Sam. Medicine 2. Oxford : Oxford University Press, cop. 2010. (Manual asignatura)
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

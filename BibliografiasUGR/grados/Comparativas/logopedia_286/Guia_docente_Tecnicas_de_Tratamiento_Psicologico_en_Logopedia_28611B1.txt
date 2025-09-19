@@ -2,11 +2,13 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Kazdin,   A.   E.  (2002).  Modificación  de  la  conducta  y  sus  aplicaciones  prácticas  (5ª  ed.).  El  Manual
+Moderno Martin, G. y Pear, J. (2003). Behavior modification. What it is and how to do it? (7th ed.).
+Prentice Hall
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 Beck, J. S. (2000). T erapia cognitiva: Conceptos básicos y profundización . Gedisa
 
@@ -28,6 +30,11 @@ Guilford Press
 D´Zurilla, T. J. (1993). Terapia de resolución de conflictos . Desclée de Brouwer
 
 Ellis, A. y Grieger, R. (1990). Manual de Terapia Racional-Emotiva. Desclée de Brouwer
+
+Foa, E. (2004). Tratamiento del estrés postraumático . Ariel
+
+Freeman, C. y Power, M. (2007). Handbook of evidence-based psychotherapies. A guide for research and
+practice . Wiley & Sons
 
 Goodheart,   C.   D.,   Kazdin,   A.   E.,   y  Stenberg,  R.  J.  (2006).  Evidence-based  psychotherapy:  Where
 practice and research meet . American Psychological Association
@@ -59,23 +66,12 @@ Vázquez, C. (2003). Técnicas cognitivas de intervención clínica . Síntesis
 
 Vázquez, I. (2001). Técnicas de relajación y respiración . Síntesis
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Foa,   E.   (2004).   Tratamiento   del   estrés   postraumático.   Ariel.   Freeman,  C.  y  Power,  M.  (2007).
-Handbook   of   evidence-based   psychotherapies.   A   guide   for   research  and  practice.  Wiley  &  Sons  →
-Freeman, C. y Power, M. (2007). Handbook of evidence-based psychotherapies. A guide for research and
-practice . Wiley & Sons
-
 Kazdin,   A.   E.  (2002).  Modificación  de  la  conducta  y  sus  aplicaciones  prácticas  (5ª  ed.).  El  Manual
-Moderno   Martin,  G.  y  Pear,  J.  (2003).  Behavior  modification.  What  it  is  and  how  to  do  it?  (7th  ed.)
-→   Kazdin,   A.   E.   (2002).   Modificación   de   la  conducta  y  sus  aplicaciones  prácticas  (5ª  ed.).  El
-Manual Moderno
-
-✅ Recursos añadidos:
-------------------------------
-Foa, E. (2004). Tratamiento del estrés postraumático . Ariel
+Moderno
 
 Martin,   G.   y   Pear,   J.   (2003).   Behavior   modification.   What  it  is  and  how  to  do  it?  (7th  ed.).
 Prentice Hall
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

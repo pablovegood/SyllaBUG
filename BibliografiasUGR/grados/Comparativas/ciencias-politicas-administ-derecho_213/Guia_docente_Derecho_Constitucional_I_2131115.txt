@@ -2,12 +2,11 @@
 Grado: ciencias-politicas-administ-derecho (213)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Conocer el marco jurídico-político de la Transición española y del proceso constituyente de 1978. el
-concepto de norma jurídica
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 ALZAGA VILLAAMIL, O.; GUTIÉRREZ GUTIÉRREZ, I.; RODRÍGUEZ ZAPATA, J.: Derecho Político Español (según
 la constitución de 1978), Centro de Estudios Ramón Areces, Madrid, últ. ed
@@ -15,52 +14,42 @@ la constitución de 1978), Centro de Estudios Ramón Areces, Madrid, últ. ed
 APARICIO   PÉREZ,  M.  A.  (dir.)  y  otros:  Temas  de  Derecho  Constitucional,  Cedecs  Editorial,  Barcelona,
 últ. ed
 
-BALAGUER   CALLEJÓN,   F.   (Dir.);   ORTEGA,   L.;   CÁMARA   VILLAR,  G.;  MONTILLA  MARTOS,  J.  A.:  (Coord.)
-Reformas   estatutarias   y  distribución  de  competencias,  Instituto  Andaluz  de  Administración  Pública,
-Sevilla, 2007
-
-BALAGUER   CALLEJÓN,   F.;   CÁMARA   VILLAR,   G.;   MONTILLA   MARTOS,  J.  A.;  RODRÍGUEZ  VERGARA,  A.;  RUIZ
-ROBLEDO, A: El Nuevo Estatuto de Andalucía, Tecnos, Madrid, 2007
-
-ESTEBAN,   J.   y   GONZÁLEZ   TREVIJANO,   P.:   Curso   de   Derecho   Constitucional   Español,  Servicio  de
-Publicaciones de la Facultad Complutense, Madrid, última edición
-
-FERNÁNDEZ SEGADO, F.: El sistema constitucional español, Dykinson, Madrid, última edición
-
-LÓPEZ   GUERRA,   L.,   ESPÍN,   E.,   GARCÍA   MORILLO,   J.,   PÉREZ  TREMPS,  P.  Y  SATRÚSTEGUI,  M.:  Derecho
-Constitucional, dos vols., Tirant lo Blanch, Valencia, última edición
-
-PÉREZ ROYO, J.: Curso de Derecho Constitucional, Marcial Pons, Madrid, última edición
-
-TORRES   DEL  MORAL,  A.:  Principios  de  Derecho  Constitucional  Español,  Servicio  de  Publicaciones  de  la
-Facultad de Derecho de la Universidad Complutense, Madrid, última edición. temas del Programa
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-BALAGUER   CALLEJÓN,   F.  (Coord.);  CÁMARA  VILLAR,  G.,  BALAGUER  CALLEJÓN,  M.  L.,  y  MONTILLA  MARTOS,  J.
-A.: Introducción al Derecho Constitucional, última Ed., Tecnos, Madrid
-
 BALAGUER   CALLEJÓN,   F.   (Coord.);  CÁMARA  VILLAR,  G.,  MONTILLA  MARTOS,  J.  A.;  PORRAS  RAMIREZ,  J.  M.;
 RUIZ ROBLEDO, A.: Manual de Derecho Autonómico de Andalucía, Tecnos, Madrid, últ. ed
 
 BALAGUER   CALLEJÓN,   F.  (Coord.);  CÁMARA  VILLAR,  G.;  LÓPEZ  AGUILAR,  J.  F.;  BALAGUER  CALLEJÓN,  M.  L.;
 MONTILLA MARTOS, J. A.: Manual de Derecho Constitucional, última Ed. Tecnos, Madrid
 
+BALAGUER   CALLEJÓN,   F.   (Dir.);   ORTEGA,   L.;   CÁMARA   VILLAR,  G.;  MONTILLA  MARTOS,  J.  A.:  (Coord.)
+Reformas   estatutarias   y  distribución  de  competencias,  Instituto  Andaluz  de  Administración  Pública,
+Sevilla, 2007
+
 BALAGUER CALLEJÓN, F.: Fuentes del Derecho, Tecnos, Madrid, últ. ed
+
+BALAGUER   CALLEJÓN,   F.;   CÁMARA   VILLAR,   G.;   MONTILLA   MARTOS,  J.  A.;  RODRÍGUEZ  VERGARA,  A.;  RUIZ
+ROBLEDO, A: El Nuevo Estatuto de Andalucía, Tecnos, Madrid, 2007
 
 CANO,   J.;   BALAGUER,  F.;  CÁMARA,  G.;;  RODRÍGUEZ,  A.  y  RUIZ  ROBLEDO,  A.:  Curso  de  Derecho  Público  de
 Andalucía, Tecnos, últ. ed
 
-El Departamento recomienda asimismo estos otros manuales
+ESTEBAN,   J.   y   GONZÁLEZ   TREVIJANO,   P.:   Curso   de   Derecho   Constitucional   Español,  Servicio  de
+Publicaciones de la Facultad Complutense, Madrid, última edición
+
+El   Departamento   recomienda   asimismo   estos  otros  manuales:  BALAGUER  CALLEJÓN,  F.  (Coord.);  CÁMARA
+VILLAR,   G.,   BALAGUER   CALLEJÓN,   M.   L.,   y   MONTILLA   MARTOS,   J.   A.:   Introducción   al   Derecho
+Constitucional, última Ed., Tecnos, Madrid
+
+FERNÁNDEZ SEGADO, F.: El sistema constitucional español, Dykinson, Madrid, última edición
 
 GÓMEZ   SÁNCHEZ,   Y.:  Introducción  al  régimen  constitucional  español,  ed.  Sanz  y  Torres,  Madrid,  últ.
 ed
 
+LÓPEZ   GUERRA,   L.,   ESPÍN,   E.,   GARCÍA   MORILLO,   J.,   PÉREZ  TREMPS,  P.  Y  SATRÚSTEGUI,  M.:  Derecho
+Constitucional, dos vols., Tirant lo Blanch, Valencia, última edición
+
 MOLAS, I.: Derecho Constitucional, Tecnos, Madrid, últ. ed
+
+PÉREZ ROYO, J.: Curso de Derecho Constitucional, Marcial Pons, Madrid, última edición
 
 RUIZ   ROBLEDO,   A.:   Compendio   de   Derecho   Constitucional   Español,   última  Ed.,  Tirant  lo  Blanch,
 Valencia
@@ -68,6 +57,13 @@ Valencia
 Se   remite   a   la   bibliografía   de  referencia  recogida  por  el  manual  recomendado  en  cada  uno  de  los
 temas del Programa
 
+TORRES   DEL  MORAL,  A.:  Principios  de  Derecho  Constitucional  Español,  Servicio  de  Publicaciones  de  la
+Facultad de Derecho de la Universidad Complutense, Madrid, última edición
+
 ÁLVAREZ CONDE, E.: Curso de Derecho Constitucional, Tecnos, Madrid, última ed
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+El Departamento recomienda asimismo estos otros manuales
+
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

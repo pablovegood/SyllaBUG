@@ -2,29 +2,28 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-García   Trevijano,   C.   (1993)   El   arte   de  la  lógica.  Madrid.  Tecnos  Garrido,  M.  (1995  3ª  edición)
-Lógica   simbólica.   Madrid.   Tecnos   →   García   Trevijano,   C.   (1993)  El  arte  de  la  lógica.  Madrid.
-Tecnos
-
 Badesa,   C.   Jané,   I.   y   Jansana,  R.  (1988)  Elementos  de  lógica  formal.  Barcelona.  Ariel  Deaño,  A.
 (1974)   Introducción   a  la  lógica  formal.  Madrid.  Alianza  Díez  Calzada,  J.  A.  (2002)  Iniciación  a  la
-lógica. Barcelona: Ariel  →  Díez Calzada, J. A. (2002) Iniciación a la lógica. Barcelona: Ariel
+lógica. Barcelona: Ariel
 
-✅ Recursos añadidos:
+García   Trevijano,   C.   (1993)   El   arte   de  la  lógica.  Madrid.  Tecnos  Garrido,  M.  (1995  3ª  edición)
+Lógica simbólica. Madrid. Tecnos
+
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (5):
 ------------------------------
 Badesa, C. Jané, I. y Jansana, R. (1988) Elementos de lógica formal. Barcelona. Ariel
 
 Deaño, A. (1974) Introducción a la lógica formal. Madrid. Alianza
+
+Díez Calzada, J. A. (2002) Iniciación a la lógica. Barcelona: Ariel
+
+García Trevijano, C. (1993) El arte de la lógica. Madrid. Tecnos
 
 Garrido, M. (1995 3ª edición) Lógica simbólica. Madrid. Tecnos
 

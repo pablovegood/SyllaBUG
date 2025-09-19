@@ -2,25 +2,33 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 AA.VV.   (2008).   Grande   Dizionario   Tecnico  Spagnolo.  Spagnolo-Italiano,  Italiano-Spagnolo.  Milano:
 Hoepli
 
 Beccaria, G.L. (1987). I linguaggi settoriali in Italia. Milano: Bompiani
 
+Casadei,   F.   (1994).  “Il  lessico  nelle  strategie  di  presentazione  dell’informazione  scientifica:  il
+caso   della   fisica”  in  T.  De  Mauro  (a  cura  di),  Studi  sul  trattamento  linguistico  dell’informazione
+scientifica. Roma: Bulzoni, pp.47-69
+
 Cernetti,   A.,   Pietrobono,   A.,   Ricci  Kholousi,  P.  (1986).  Il  linguaggio  delle  scienze  biologiche.
 Perugia: Guerra
 
 Cortelazzo, M.A. (1990). Lingue speciali. La dimensione verticale. Padova: Unipress
 
-Gualdo, R. y Telve, S. (2021). Linguaggi specialistici dell'italiano. Roma: Carocci
+De   Mauro,   T.   Dizionario  della  lengua  italiana:  https://dizionario.internazionale.it/  Gualdo,  R.  y
+Telve, S. (2021). Linguaggi specialistici dell'italiano. Roma: Carocci
 
 Miglioli, E. (1990). Dizionario tecnico italiano-spagnolo. Milano: Tecniche Nuove
+
+NB.   Se   recomienda  el  uso  de  fuentes  terminológicas  especializadas  en  soporte  electrónico,  así  como
+textos paralelos
 
 Pellizzari Demesse, P. (1990). Dizionario tecnico-commerciale italiano-spagnolo e spagnolo-italiano,
 2 vols. Padova: Tradutec [2ª ed. 1991, Firenze: Sansoni]
@@ -32,28 +40,17 @@ strumenti. Hoepli
 Sobrero,   A.A.   (1993).   “Lingue   speciali”   in   A.A.  Sobrero  (a  cura  di),  Introduzione  all’italiano
 contemporaneo. La variazione e gli usi. Roma-Bari: Laterza, pp.237-277
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Zingarelli,   N.   (2012).   Vocabolario  della  Lingua  Italiana.  Bologna:  Zanichelli  Casadei,  F.  (1994).
-“Il lessico nelle strategie di presentazione dell’informazione scientifica: il caso della fisica” in
-T.   De   Mauro   (a   cura   di),  Studi  sul  trattamento  linguistico  dell’informazione  scientifica.  Roma:
-Bulzoni, pp.47-69  →  Zingarelli, N. (2012). Vocabolario della Lingua Italiana. Bologna: Zanichelli
+Zingarelli,   N.   (2012).   Vocabolario  della  Lingua  Italiana.  Bologna:  Zanichelli  NB.  Se  podrá  añadir
+nueva bibliografía durante el curso
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
-Casadei,   F.   (1994).  “Il  lessico  nelle  strategie  di  presentazione  dell’informazione  scientifica:  il
-caso   della   fisica”  in  T.  De  Mauro  (a  cura  di),  Studi  sul  trattamento  linguistico  dell’informazione
-scientifica. Roma: Bulzoni, pp.47-69
-
 De Mauro, T. Dizionario della lengua italiana: https://dizionario.internazionale.it/
 
 Dizionario Panhispánico de Dudas (DPD). RAE
 
-NB. Se podrá añadir nueva bibliografía durante el curso
-
-NB.   Se   recomienda  el  uso  de  fuentes  terminológicas  especializadas  en  soporte  electrónico,  así  como
-textos paralelos
-
 Treccani. Il portale del sapere. [treccani.it]
 
-📊 Porcentaje estimado de cambio: 70% [███████░░░]
+Zingarelli, N. (2012). Vocabolario della Lingua Italiana. Bologna: Zanichelli
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

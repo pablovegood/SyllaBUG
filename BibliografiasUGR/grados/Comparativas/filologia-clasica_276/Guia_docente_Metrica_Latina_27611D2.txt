@@ -2,11 +2,13 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+LUQUE   MORENO,   Jesús:  Horacio  lírico.  Notas  de  clase,  Granada,  2012,  Editorial  LUQUE  MORENO,  Jesús:
+C.   Valerius   Catullus.   Praelectiones  Granatenses,  Granada,  2020,  MOORE,  Timothy  J.:  Music  in  Roman
+Comedy, Cambridge, 2012, Cambridge University Press
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 CECCARELLI,   Lucio:   Prosodia  y  métrica  del  latín  clásico.  Con  una  introducción  a  la  métrica  griega,
 Traducción:   Rocío   Carande,   Sevilla,   1999,   Publicaciones   de  la  Universidad  de  Sevilla,  Manuales
@@ -18,22 +20,12 @@ Javier de Echave-Sustaeta, Barcelona, 1981, Bosch, Casa Editorial, S. A
 GARCÍA   CALVO,   Agustín:   Tratado   de  Rítmica  y  Prosodia  y  de  Métrica  y  Versificación,  Zamora,  2006,
 Editorial Lucina, S. L
 
-LUQUE   MORENO,   Jesús:   C.   Valerius   Catullus.   Praelectiones  Granatenses,  Granada,  2020,  Editorial
-Universidad de Granada (= EUG)
-
-LUQUE   MORENO,   Jesús:   Conspectus   Metrorum.   Guía   práctica   de  los  versos  latinos,  Granada,  2018,
-Editorial Universidad de Granada (= EUG)
+LUQUE   MORENO,   Jesús:   Conspectus   Metrorum.  Guía  práctica  de  los  versos  latinos,  NOUGARET,  Louis  :
+Traité   de   Métrique   Latine   classique,   Paris,  1977  [=  1956,  Quatrième  édition  corrigée],  Éditions
+Klincksieck, Nouvelle Collectión à l’usage des classes, n.º XXXVI
 
 LUQUE   MORENO,   Jesús:   El   dístico   elegíaco.   Lecciones  de  métrica  latina,  Madrid,  1994,  Ediciones
 Clásicas, S. A
-
-LUQUE MORENO, Jesús: Horacio lírico. Notas de clase, Granada, 2012, Editorial Universidad de Granada
-(= EUG)
-
-MOORE, Timothy J.: Music in Roman Comedy, Cambridge, 2012, Cambridge University Press
-
-NOUGARET,   Louis   :   Traité   de   Métrique   Latine   classique,  Paris,  1977  [=  1956,  Quatrième  édition
-corrigée], Éditions Klincksieck, Nouvelle Collectión à l’usage des classes, n.º XXXVI
 
 QUESTA,   Cesare:   La  metrica  di  Plauto  e  di  Terenzio,  Urbino,  2007,  Quattroventi,  Ludus  philologiae,
 vol. 16
@@ -47,12 +39,17 @@ Jouvence
 SOUBIRAN,   Jean:   Essai   sur  la  versification  dramatique  des  Romains:  sénaire  iambique  et  septénaire
 trochaique, Paris, 1988, Éditions du Centre national de la recherche scientifique
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-No hubo cambios de edición/año.
+LUQUE   MORENO,   Jesús:   C.   Valerius   Catullus.   Praelectiones  Granatenses,  Granada,  2020,  Editorial
+Universidad de Granada (= EUG)
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+LUQUE   MORENO,   Jesús:   Conspectus   Metrorum.   Guía   práctica   de  los  versos  latinos,  Granada,  2018,
+Editorial Universidad de Granada (= EUG)
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+LUQUE MORENO, Jesús: Horacio lírico. Notas de clase, Granada, 2012, Editorial Universidad de Granada
+(= EUG)
+
+MOORE, Timothy J.: Music in Roman Comedy, Cambridge, 2012, Cambridge University Press
+
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

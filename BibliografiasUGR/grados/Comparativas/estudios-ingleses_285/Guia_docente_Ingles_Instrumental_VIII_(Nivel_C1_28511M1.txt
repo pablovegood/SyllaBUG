@@ -2,22 +2,24 @@
 Grado: estudios-ingleses (285)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
-Baker, M. (2000). In Other Words. A Coursebook on Translation. Oxford
+Bibliografía   Adicional   /   Further   reading   Iglesias   Rábade   &  Doval  Suárez,  S.  (2002)  Studies  in
+Contrastive   Linguistics.  U.  Santiago  de  Compostela  Otros  recursos  /  Other  resources  Spanish-English
+Parallel Texts (Penguin)
+
+Bibliografía   Obligatoria   /   Compulsory   Reading   Baker,  M.  (2000).  In  Other  Words.  A  Coursebook  on
+Translation. Oxford. Bibliografía Básica / Recommended reading
 
 Brinton, E. et al. (1981). Translation Strategies / Estrategias para Traducción. Macmillan
 
 Hatim, B. and Mason, I. (1990). Discourse and the Translator. Longman
 
 Hervey, S. et al. (1992) Thinking Spanish Translation. Routledge
-
-Iglesias   Rábade   &   Doval   Suárez,   S.   (2002)   Studies   in  Contrastive  Linguistics.  U.  Santiago  de
-Compostela Otros recursos / Other resources Spanish-English Parallel Texts (Penguin)
 
 James, C. (2000). Contrastive Analysis. Longman
 
@@ -29,14 +31,8 @@ Shuttleworth, M. and Cowie, M. (2014). Dictionary of Translation Studies. Routle
 
 Whitley, S. (1986). Spanish-English contrasts. Georgetown UP. Washington
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Bibliografía Adicional / Further reading
-
 Bibliografía Básica / Recommended reading
 
 Bibliografía Obligatoria / Compulsory Reading
@@ -44,6 +40,8 @@ Bibliografía Obligatoria / Compulsory Reading
 Iglesias   Rábade   &   Doval   Suárez,   S.   (2002)   Studies   in  Contrastive  Linguistics.  U.  Santiago  de
 Compostela
 
+Otros recursos / Other resources
+
 Spanish-English Parallel Texts (Penguin)
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

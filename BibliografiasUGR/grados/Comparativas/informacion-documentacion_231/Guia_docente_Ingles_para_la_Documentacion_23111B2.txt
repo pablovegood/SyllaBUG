@@ -2,11 +2,12 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Collins-Cobuild (1990). English grammar. London: Collins Montoro Araque, m. (edit.) (2009). El mundo
+profesional y las lenguas: enseñar según el mcre. Granada: Comares. pp. 105-121
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 Alexander, l.g.(1996). Longman english grammar. London: Longman
 
@@ -15,15 +16,11 @@ Montoro   Araque,  m.  (coord.)  (2009).  Lenguas  extranjeras  aplicadas:  El  
 
 Quirk, r., Greenbaum, s. (1996). A student’s grammar of the english language. London: Longman
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Collins-Cobuild (1990). English grammar. London: Collins Montoro Araque, m. (edit.) (2009). El mundo
-profesional   y   las   lenguas:  enseñar  según  el  mcre.  Granada:  Comares.  pp.  105-121  →  Collins-Cobuild
-(1990). English grammar. London: Collins
+Collins-Cobuild (1990). English grammar. London: Collins
 
-✅ Recursos añadidos:
-------------------------------
 Montoro   Araque,   m.   (edit.)   (2009).   El   mundo   profesional  y  las  lenguas:  enseñar  según  el  mcre.
 Granada: Comares. pp. 105-121
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 60% [██████░░░░]

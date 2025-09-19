@@ -2,12 +2,14 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
+Alonso Schókel, Luis (1959): Estética y estilística del ritmo poético Barcelona, J. Flors
+
 Baker,   D.   (ed.)   (1996):   Meter   in   English:   A   Critical  Engagement.  Fayetteville:  University  of
 Arkansas Press
 
@@ -18,6 +20,8 @@ Brogan, T. V. (1981): English Versification, 1570-1980. Baltimore: John Hopkins 
 Bělič,   Oldřrich   (1969):   Verso  español  y  verso  europeo.  Bototá:  Publicaciones  del  Instituto  Caro  y
 Cuervo
 
+Carvajal, Antonio: Metáfora de las huellas. Estudios de métrica. Granada: Método
+
 Chatman, Seymour (1965): A Theory of Meter. The Hague: Mouton
 
 Crusius, Federico (1987): Iniciación a la métrica latina. Barcelona: Bosch
@@ -25,6 +29,9 @@ Crusius, Federico (1987): Iniciación a la métrica latina. Barcelona: Bosch
 Deloffre, Frédéric (1986): Le vers français. Paris. Sedes
 
 Domínguez Caparrós, José (1985): Diccionario de métrica española. Madrid: Alianza Editorial
+
+Domínguez Caparrós, José (1988): Métrica y poética. Bases para la fundamentación de la métrica en la
+moderna teoría literaria. Madrid: UNED
 
 Domínguez Caparrós, José (2000): Métrica española. Madrid: Síntesis
 
@@ -54,17 +61,8 @@ University Press
 
 Wimsatt, W. K. (ed.) (1972): Versification: Major Language Types. Nueva York: NY University Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Alonso Schókel, Luis (1959): Estética y estilística del ritmo poético Barcelona, J. Flors
-
-Carvajal, Antonio: Metáfora de las huellas. Estudios de métrica. Granada: Método
-
-Domínguez Caparrós, José (1988): Métrica y poética. Bases para la fundamentación de la métrica en la
-moderna teoría literaria. Madrid: UNED
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

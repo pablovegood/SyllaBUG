@@ -2,19 +2,19 @@
 Grado: estudios-ingleses-filologia-hispanica (215)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 Baldi, Ph., The Foundations of Latin, Berlin-New York, 1999
 
-Baudiffier, E.; Gason, J.; Thomas, A., Initiation aux lettres latines 3e, Paris, 1996
+Baudiffier, E. - Gason, J. - Thomas, A., 1996: Initiation aux lettres latines 3e, Paris
 
-Baudiffier, E.; Gason, J.; Thomas, A., Initiation aux lettres latines 4e, Paris, 1996
+Baudiffier, E. - Gason, J. - Thomas, A., 1996: Initiation aux lettres latines 4e, Paris
 
-Boekhorst, G.; Reiff, A., Ars Latina 1, Paderborn, 1983 (=1965)
+Boekhorst, G.- Reiff, A., 1983 (=1965): Ars Latina 1, Paderborn
 
 Castillo Herrera, M. del, Vocabulario latino. Ascendencia, frecuencia, trascendencia, Madrid, 2014
 
@@ -22,33 +22,29 @@ Herman, J., El latín vulgar, tr. esp., Barcelona, 1997
 
 Janson, T., A Natural History of Latin, Oxford, 2004
 
-Mariner Bigorra, S., Lengua y literatura latinas I. Filología, Madrid, 1990
+Mariner Bigorra, S., 1990: Lengua y literatura latinas I. Filología, Madrid
 
-Oerberg, H.H., Lingua Latina per se illustrata, Haunia, 1983
+Oerberg, H.H., 1983: Lengua Latina per se illustrata, Hauniae
 
-Palmer, L. R., Introducción al latín, trad. J.J. Moralejo y J.L. Moralejo, Barcelona, 1974
+Palmer, L. R., 1974: Introducción al latín, trad. J.J. Moralejo y J.L. Moralejo, Barcelona
 
-Rubio Fernández, L.; González Rolán, T., Nueva gramática latina, Madrid, 1985
+Rubio Fernández, L.- González Rolán, T., 1985: Nueva gramática latina, Madrid
 
-Segura Munguía, S., Gramática latina, Bilbao, 2004
+Segura Munguía, S., 2004: Gramática latina, Bilbao
 
 Solokov,   J.B.,   Latin  Alive:  the  Survival  of  Latin  in  English  and  the  Romance  Languages,  Cambridge-
 New York, 2010
 
-Stroh, W., El latín ha muerto. ¡Viva el latín!, Barcelona, 2012
+Stroh, W.: El latín ha muerto. ¡Viva el latín!, Barcelona, 2012
 
 Tagliavini, C., Orígenes de las lenguas neolatinas. Introducción a la Filología Romance, trad. esp.,
 Madrid, 1993
 
-Valentí Fiol, E., Gramática latina, Barcelona, 1974
+Valentí Fiol, E., 1974: Gramática latina, Barcelona
 
-Villar, F., Los indoeuropeos y los orígenes de Europa: lenguaje e historia, Madrid, 1991
+Villar, F., 1991: Los indoeuropeos y los orígenes de Europa: lenguaje e historia, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Aguilar, M. L.; Tárrega, J., Via Latina. De lingua et vita Romanorum, Granada, 2022
 
@@ -57,4 +53,4 @@ Lectiones Latinitatis Vivae, Jerusalén, 2017
 
 Lloyd, M. E.; Hunt, S., Communicative Approaches for Ancient Languages, London, 2021
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

@@ -2,13 +2,20 @@
 Grado: educacion-social-melilla (514)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Carr,   W.   (1996):   Una  teoría  para  la  educación.  Hacia  una  investigación  educativa  crítica.  Madrid.
+Morata   Colom   Cañellas,  A.  (coord.)  (1997):  Teorías  e  instituciones  contemporáneas  de  la  educación,
+Barcelona, Ariel
 
-📚 Recursos sin cambios:
+Gervilla,   E.   (2010)   Educar   en   la   Postmodernidad,   Madrid.   Dykinson,  Imbernon,  F.  (2002)  Cinco
+ciudadanías para una nueva educación. Barcelona. Graó Naval Durán, C. (2008) Teoría de la educación.
+Un análisis epistemológico, Pamplona, EUNSA
+
+📚 Recursos sin cambios (15):
 ------------------------------
-Annaut, L. (2002) Valores escolares y educación para la ciudadanía . Barcelona. Graó
+Annaut,   L.  (2002)  Valores  escolares  y  educación  para  la  ciudadanía.  Barcelona.  Graó  Casares  García,
+P. M. (2002): Ancianos. Problemática y propuesta educativa, Madrid, San Pablo
 
 Aznar,   P.  (coord.)  (1999):  Teoría  de  la  Educación.  Un  enfoque  constructivista  .  Valencia.  Tirant  lo
 Blanch
@@ -49,29 +56,23 @@ Sarramona, J., Vázquez, G. y Colom, A. (1998): Educación no formal, Barcelona,
 Trilla,   J.   (1998):   La   educación   fuera   de   la   escuela.  Ámbitos  no  formales  y  educación  social,
 Barcelona, Ariel
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Gervilla,   E.   (2010)   Educar   en   la   Postmodernidad,   Madrid.   Dykinson,  Imbernon,  F.  (2002)  Cinco
-ciudadanías para una nueva educación. Barcelona. Graó Naval Durán, C. (2008) Teoría de la educación.
-Un   análisis   epistemológico,  Pamplona,  EUNSA  →  Imbernon,  F.  (2002)  Cinco  ciudadanías  para  una  nueva
-educación. Barcelona. Graó
+Annaut, L. (2002) Valores escolares y educación para la ciudadanía . Barcelona. Graó
 
-Carr,   W.   (1996):   Una  teoría  para  la  educación.  Hacia  una  investigación  educativa  crítica.  Madrid.
-Morata   Colom   Cañellas,  A.  (coord.)  (1997):  Teorías  e  instituciones  contemporáneas  de  la  educación,
-Barcelona,   Ariel   →   Colom   Cañellas,  A.  (coord.)  (1997):  Teorías  e  instituciones  contemporáneas  de
-la educación, Barcelona, Ariel
-
-✅ Recursos añadidos:
-------------------------------
 Carr,   W.   (1996):   Una  teoría  para  la  educación.  Hacia  una  investigación  educativa  crítica.  Madrid.
 Morata
 
-Casares García, P. M. (2002): Ancianos. Problemática y propuesta educativa, Madrid, San Pablo
+Colom   Cañellas,   A.   (coord.)   (1997):   Teorías   e   instituciones   contemporáneas   de  la  educación,
+Barcelona, Ariel
 
 Gervilla, E. (2010) Educar en la Postmodernidad, Madrid. Dykinson
 
+Imbernon, F. (2002) Cinco ciudadanías para una nueva educación. Barcelona. Graó
+
 Naval Durán, C. (2008) Teoría de la educación. Un análisis epistemológico, Pamplona, EUNSA
 
-Núñez Cubero, L. y Romero Pérez, C. (2003): Pensar la educación: Conceptos y opciones fundamentales
+Pascual   Cortes,   Alejandra,   Implicaciones   psicopedagógicas   de   un   desarrollo   moral  integro:  la
+educación holística . Zaragoza. Universidad de Zaragoza
 
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

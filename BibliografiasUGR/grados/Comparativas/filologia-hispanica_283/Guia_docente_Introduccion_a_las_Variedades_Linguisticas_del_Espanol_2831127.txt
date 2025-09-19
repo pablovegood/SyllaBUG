@@ -2,16 +2,41 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+COMPANY   COMPANY,   C.   (2016).  «La  lengua  española  en  América».  Revista  de  la  Universidad  de  México,
+febrero,   144,   34-39   DÍAZ-CAMPOS,   M.   (2014).   Introducción  a  la  sociolingüística  hispánica.
+Oxford: Wiley Blackwell
 
-📚 Recursos sin cambios:
+FONTANELLA   DE   WEINBERG,   M.   B.:   (1992)El  español  de  América,  Madrid,  Mapfre  GARCÍA  MOUTON,  P.
+(1994): Lenguas y dialectos de España, Madrid, Arco–libros
+
+LLEAL GALCERAN, C. (2004): «El judeoespañol» en Rafael Cano Aguilar (coord.), Historia de la lengua,
+1139-1157   LOPE   BLANCH,  J.  M.  (1992):  «La  falsa  imagen  del  español  americano»,  RFE,  LXXII,  313-335
+MONTES   GIRALDO,   J.   J.   (1987):   Dialectología   general  e  hispanoamericana:  orientación  teórica,
+metodológica y bibliográfica. Bogotá, ICC
+
+NARBONA,   A.   CANO,   R.   MORILLO,  R.  (2011).  El  español  hablado  en  Andalucía.  Universidad  de  Sevilla
+SÁNCHEZ MÉNDEZ, J. P. (2003) Historia del Español de América. Tirant lo Blanch
+
+RAMÍREZ LUENGO, J. L. (2007) Breve historia del español de América. Arco Libros ROJO, G. (2004): «El
+español   de   Galicia»,   en   R.   Cano  Aguilar  (coord..),  Historia  de  la  lengua  española,  Barcelona,
+Ariel, 1087-1103
+
+📚 Recursos sin cambios (39):
 ------------------------------
+ALEZA   IZQUIERDO,   M.   (2013).   «La   unidad   de   la   lengua   en  la  pluralidad  de  normas»  en  M.  Aleza
+Izquierdo   (Coord.),   Normas  y  usos  correctos  en  el  español  actual(II,  pp.  56-74).  Valencia:  Tirant
+Humanidades
+
 ALEZA IZQUIERDO, M. y ENGUITA UTRILLA J. M. (Coords.) (2010). «La lengua española en América. Norma
 y usos actuales». Universitat de València
 
 ALVAR LÓPEZ, M. (1978): «La dialectología», en Dialectología Hispánica, Madrid: UNED, 23-26
+
+ALVAR LÓPEZ, M. (1996a): Manual de dialectología hispánica. El español de España, Barcelona: Ariel
+
+ALVAR LÓPEZ, M. (1996b): Manual de dialectología hispánica. El español de América, Barcelona: Ariel
 
 ARIZA, M (1994): Comentario de textos dialectales, Madrid, Arco–libros
 
@@ -67,6 +92,9 @@ Castilla y León
 
 HUALDE, J. I. (2013). Los sonidos del español: Spanish Language edition. Cambridge University Press
 
+Iberoamericana-   Vervuert   MEDINA   LÓPEZ,   J.   (1995)   El   español   de   América  y  Canarias  desde  una
+perspectiva histórica. Verbum Editorial
+
 LAPESA, R. (2014): Historia de la lengua española,Madrid, Gredos, [última ed.]
 
 LIPSKI, J. M.: (1996), El español de América, Madrid, Cátedra
@@ -76,9 +104,6 @@ LÓPEZ MORALES H. (2004): Sociolingüística. Biblioteca románica hispánica, G
 LÜDKE,   J.   (2013)   Los   orígenes  de  la  lengua  española  en  América.Los  primeros  cambios  en  las  Islas
 Canarias,   las   Antillas   y   Castilla   del  Oro.  Lingüística  iberoamericana.  Vol.  54.  Iberoamericana-
 Vervuert
-
-MEDINA   LÓPEZ,   J.   (1995)   El  español  de  América  y  Canarias  desde  una  perspectiva  histórica.  Verbum
-Editorial
 
 MORENO DE ALBA, J. G. (1988): El español en América,México: Fondo de Cultura Económica
 
@@ -108,41 +133,10 @@ VILLENA    PONSODA,   J.   A.:   (2006)   «Andaluz   oriental   y   andaluz   o
 planificación   en   ¿una   o   dos  comunidades  de  habla?»,  Estudios  sociolingüísticos  del  español  de
 España y América, Madrid, Arco-libros
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (15):
 ------------------------------
-FONTANELLA   DE   WEINBERG,   M.   B.:   (1992)El  español  de  América,  Madrid,  Mapfre  GARCÍA  MOUTON,  P.
-(1994):   Lenguas   y  dialectos  de  España,  Madrid,  Arco–libros  →  GARCÍA  MOUTON,  P.  (1994):  Lenguas  y
-dialectos de España, Madrid, Arco–libros
-
-NARBONA,   A.   CANO,   R.   MORILLO,  R.  (2011).  El  español  hablado  en  Andalucía.  Universidad  de  Sevilla
-SÁNCHEZ   MÉNDEZ,   J.  P.  (2003)  Historia  del  Español  de  América.  Tirant  lo  Blanch  ALEZA  IZQUIERDO,  M.
-(2013).   «La   unidad   de   la  lengua  en  la  pluralidad  de  normas»  en  M  →  NARBONA,  A.  CANO,  R.  MORILLO,
-R. (2011). El español hablado en Andalucía. Universidad de Sevilla
-
-LLEAL GALCERAN, C. (2004): «El judeoespañol» en Rafael Cano Aguilar (coord.), Historia de la lengua,
-1139-1157   LOPE   BLANCH,  J.  M.  (1992):  «La  falsa  imagen  del  español  americano»,  RFE,  LXXII,  313-335
-MONTES   GIRALDO,   J.   J.   (1987):   Dialectología   general  e  hispanoamericana:  orientación  teórica,
-metodológica   y   bibliográfica.   Bogotá,  ICC  →  MONTES  GIRALDO,  J.  J.  (1987):  Dialectología  general
-e hispanoamericana: orientación teórica, metodológica y bibliográfica. Bogotá, ICC
-
 COMPANY   COMPANY,   C.   (2016).  «La  lengua  española  en  América».  Revista  de  la  Universidad  de  México,
-febrero,   144,   34-39   DÍAZ-CAMPOS,   M.   (2014).   Introducción  a  la  sociolingüística  hispánica.
-Oxford:   Wiley   Blackwell   →  COMPANY  COMPANY,  C.  (2016).  «La  lengua  española  en  América».  Revista  de
-la Universidad de México, febrero, 144, 34-39
-
-RAMÍREZ LUENGO, J. L. (2007) Breve historia del español de América. Arco Libros ROJO, G. (2004): «El
-español   de   Galicia»,   en   R.   Cano  Aguilar  (coord..),  Historia  de  la  lengua  española,  Barcelona,
-Ariel, 1087-1103  →  RAMÍREZ LUENGO, J. L. (2007) Breve historia del español de América. Arco Libros
-
-✅ Recursos añadidos:
-------------------------------
-ALEZA   IZQUIERDO,   M.   (2013).   «La   unidad   de   la   lengua   en  la  pluralidad  de  normas»  en  M.  Aleza
-Izquierdo   (Coord.),   Normas  y  usos  correctos  en  el  español  actual(II,  pp.  56-74).  Valencia:  Tirant
-Humanidades
-
-ALVAR LÓPEZ, M. (1996a): Manual de dialectología hispánica. El español de España, Barcelona: Ariel
-
-ALVAR LÓPEZ, M. (1996b): Manual de dialectología hispánica. El español de América, Barcelona: Ariel
+febrero, 144, 34-39
 
 DÍAZ-CAMPOS, M. (2014). Introducción a la sociolingüística hispánica. Oxford: Wiley Blackwell
 
@@ -151,10 +145,19 @@ FONTANELLA DE WEINBERG, M. B.: (1992). El español de América, Madrid, Mapfre
 GARCÍA   MOUTON,   P.   (1983):   «Sustrato   y   superestrato   en   las   lenguas   románicas»,  Revista  de
 Filología Española, 63 (1-2), 150-152
 
+GARCÍA MOUTON, P. (1994): Lenguas y dialectos de España, Madrid, Arco–libros
+
 LLEAL GALCERAN, C. (2004): «El judeoespañol» en Rafael Cano Aguilar (coord.), Historia de la lengua,
 1139-1157
 
 LOPE BLANCH, J. M. (1992): «La falsa imagen del español americano», RFE, LXXII, 313-335
+
+MONTES   GIRALDO,   J.   J.   (1987):   Dialectología   general  e  hispanoamericana:  orientación  teórica,
+metodológica y bibliográfica. Bogotá, ICC
+
+NARBONA, A. CANO, R. MORILLO, R. (2011). El español hablado en Andalucía. Universidad de Sevilla
+
+RAMÍREZ LUENGO, J. L. (2007) Breve historia del español de América. Arco Libros
 
 ROJO,   G.   (2004):   «El   español   de   Galicia»,  en  R.  Cano  Aguilar  (coord..),  Historia  de  la  lengua
 española, Barcelona, Ariel, 1087-1103
@@ -168,4 +171,4 @@ TRUDGILL, P. (1986): Dialects in contact, Oxford, Basil Blackwell, 1986
 
 VILLENA PONSODA (2001): La continuidad del cambio lingüístico, Granada, Universidad de Granada
 
-📊 Porcentaje estimado de cambio: 43% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

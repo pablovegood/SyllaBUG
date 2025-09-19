@@ -2,11 +2,11 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (36):
 ------------------------------
 APEL,   Willi.   The   Notation   of   Polyphonic  Music  900-1600  .  Cambridge,  MA:  The  Medieval  Academy  of
 America, 1953
@@ -19,6 +19,9 @@ ATKINSON,   Charles  M.  "The  Critical  Nexus:  Tone-System,  Mode,  and  Notat
 
 Asensio Palacios, Juan Carlos y Josemi Lorenzo Arribas. El Códice de las Huelgas . Madrid: Fundación
 Especial Caja Madrid, 2001
+
+Asensio   Palacios,   Juan   Carlos.  El  Códice  de  Madrid.  Polifonías  del  siglo  XIII  .  Madrid:  Alpuerto,
+1997
 
 BERGER, Anna Maria Busse. Mensuration and Proportion Signs. Origin and Evolution . Oxford: Clarendon
 Press, 1993
@@ -42,6 +45,9 @@ Caldwell, John. Editing Early Music . Oxford: Clarendon Press, 1987
 
 Colk Santosuoso, Alma. Letter Notations in the Middle Ages . Otawa: The Institute of Medieval Music,
 1989
+
+DIEZ   BORQUE,   José   María.   El   libro,   de   la   tradición   oral   a   la  cultura  impresa  .  Barcelona:
+Montesinos, 1985
 
 ESCOLAR   SOBRINO,   Hipólito   ed.   Historia  Ilustrada  del  Libro  Español.  I.  Los  Manuscritos  .  Madrid:
 F.G.S.R. 1993
@@ -102,16 +108,8 @@ ______.   “Oral,   Written,   and   Literate  Process  in  the  Music  of  the
 Pen:   Coming   to  Know  Medieval  Song  and  How  It  Was  Made  (Oxford:  Oxford  University  Press,  2003),  pp.
 230-251
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Asensio   Palacios,   Juan   Carlos.  El  Códice  de  Madrid.  Polifonías  del  siglo  XIII  .  Madrid:  Alpuerto,
-1997
-
-DIEZ   BORQUE,   José   María.   El   libro,   de   la   tradición   oral   a   la  cultura  impresa  .  Barcelona:
-Montesinos, 1985
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

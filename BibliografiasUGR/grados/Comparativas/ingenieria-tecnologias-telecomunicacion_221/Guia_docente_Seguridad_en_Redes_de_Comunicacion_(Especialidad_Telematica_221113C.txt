@@ -2,11 +2,11 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Houston Carr, Charles Snyder, Bliss Bailey: “Management of Network Security”. Prentice Hall, 1ª Ed.,
 2010
@@ -26,11 +26,7 @@ Robin P. Bryant (Editor): “Investigating Digital Crime”. John Wiley & Sons, 
 William Stallings: “Network Security Essentials: Applications and Standards”. Prentice Hall, 4ª Ed.,
 2011
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

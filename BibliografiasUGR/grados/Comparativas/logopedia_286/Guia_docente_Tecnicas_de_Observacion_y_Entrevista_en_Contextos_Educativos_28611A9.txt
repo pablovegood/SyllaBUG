@@ -2,45 +2,40 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-Fuertes, T. (2011). La observación de las prácticas educativas como elemento de Grado de implicación
-y   actitud   del  alumnado  manifestada  en  su  participación  en  las  prácticas,  consultas,  exposiciones  y
-debates,   así  como  en  la  elaboración  de  los  trabajos,  individuales  o  en  equipo,  y  en  las  sesiones  de
-puesta en común (20%)
-
-📚 Recursos sin cambios:
-------------------------------
-Acuña, B. P. (2015). La observación como herramienta científica. ACCI
-
-Anaya, D. (2002). Diagnóstico en educación. Sanz y Torres
-
-Anaya,   D.  (2003).  Diseño  y  uso  de  registros  observacionales.  En  D.  ANAYA,  Diagnóstico  en  Educación:
-Diseño y uso de instrumentos. Sanz y Torres
-
-Angrosino, M. (2012). Etnografía y observación participante en investigación cualitativa. Morata
-
-Dorio,   I.,   Sabariego,   M.   y   Massot,   I.   (2009).   Características   generales   de   la  metodología
-cualtativa; en Bisquerra, R. (Coord). Metodología de la investigación educativa. (Págs. 275-292). La
-Muralla
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Buendía,   L.   y   Berrocal,   E.   (2010).   La   observación.   En  Nieto,  S.  (ed.).  Principios,  métodos  y
 técnicas para la investigación educativa(pp. 129-144). Madrid: Dikinson Calvo, C. (2007). Técnicas e
-instrumentos    de   diagnóstico   en   educación.   Málaga:   Aljibe   →   Calvo,   C.   (2007).   Técnicas   e
-instrumentos de diagnóstico en educación. Aljibe
+instrumentos de diagnóstico en educación. Málaga: Aljibe
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (6):
+------------------------------
+Acuña, B. P. (2015). La observación como herramienta científica. Madrid: ACCI
+
+Anaya, D. (2002). Diagnóstico en educación. Madrid: Sanz y Torres
+
+Anaya,   D.  (2003).  Diseño  y  uso  de  registros  observacionales.  En  D.  ANAYA,  Diagnóstico  en  Educación:
+Diseño y uso de instrumentos. Madrid: Sanz y Torres
+
+Angrosino,   M.   (2012).   Etnografía  y  observación  participante  en  investigación  cualitativa.  Morata:
+Madrid
+
+Dorio,   I.,   Sabariego,   M.   y   Massot,   I.   (2009).   Características   generales   de   la  metodología
+cualtativa;   en   Bisquerra,   R.  (Coord).  Metodología  de  la  investigación  educativa.  (Págs.  275-292).
+Madrid: La Muralla
+
+Fuertes,   T.   (2011).   La   observación   de  las  prácticas  educativas  como  elemento  de  evaluación  y  de
+mejora   de   la  calidad  en  la  formación  inicial  y  continua  del  profesorado.  REDU:  Revista  de  Docencia
+Universitaria, 9(3), 237-258
+
+✅ Recursos añadidos (15):
 ------------------------------
 Bradford, H. (2014).Observación infantil y planificación educativa. Madrid: Narcea
 
 Buendía,   L.   y   Berrocal,   E.   (2010).   La   observación.   En  Nieto,  S.  (ed.).  Principios,  métodos  y
 técnicas para la investigación educativa(pp. 129-144). Dikinson
 
-Fuertes,   T.   (2011).   La   observación   de  las  prácticas  educativas  como  elemento  de  evaluación  y  de
-mejora   de   la  calidad  en  la  formación  inicial  y  continua  del  profesorado.  REDU:  Revista  de  Docencia
-Universitaria, 9(3), 237-258
+Calvo, C. (2007). Técnicas e instrumentos de diagnóstico en educación. Aljibe
 
 Hernández,   R.  M.  (2014).  La  investigación  cualitativa  a  través  de  entrevistas:  su  análisis  mediante
 la teoría fundamentada. Cuestiones Pedagógicas. Revista de Ciencias de la Educación, 23, 187-210
@@ -78,4 +73,4 @@ Tójar, J. C. (2006). Investigación cualitativa: comprender y actuar. La Murall
 Zabalza,   M.A.   (2004).   Diario   de  clase:  un  instrumento  de  investigación  y  desarrollo  profesional.
 Madrid. Narcea
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 76% [███████░░░]

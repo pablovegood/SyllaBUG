@@ -2,64 +2,60 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
 Fernández, Alfredo (1997). Medios de comunicación social. San Sebastián: Domostierra
 
-Fernández, Carlos (2000). La comunicación humana en el mundo contemporáneo. 2da. Edición
+Hesmondhalgh,   D.  (2002).  The  cultural  industries.  Sage:  London  Manovich,  Lev  (2005).  El  lenguaje  de
+los nuevos medios de comunicación. La imagen en la era digital. Barcelona: Editorial Paidós
 
-Power, D. y Scott, A. (Ed.) (2004). Cultural industries and the production of culture. London
+McDonald,   P.   y   Wasko,   J.   (2008).  The  Contemporary  Hollywood  Film  Industry.  Blackwell  Publishing
+Rodrigo   Alsina,   Miguel   (2001).   Teorías   de   la   comunicación.   Ámbitos,   métodos  y  perspectivas,
+Barcelona: Universitat Autònoma de Barcelona
 
-Rueda,José   Carlos;   Galán,   Elena  y  Rubio,  Ángel  L.  (2014).  Historia  de  los  medios  de  comunicación.
-Madrid:   Alianza   Editorial   Wolf,   Mauro   (1996).   La   investigación   de   la  comunicación  de  masas.
-Barcelona: Editorial Paidós
+Rueda,José Carlos; Galán, Elena y Rubio, Ángel L. (2014). Historia de los medios de comunicación
 
 Torres,   Antonio   (2012).   Los   primeros   ojos  de  Andalucía.  Génesis  y  evolución  de  la  televisión  en
-Andalucía. Granada: Editorial Universidad de Granada
+Ballesta, Javier (1997). Medios de comunicación y nuevas tecnologías. Murcia: Diego Marin
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
-Ballesta, J. (1997). Medios de comunicación y nuevas tecnologías . Diego Marín
+Biagi, Shirley (1999). Impacto de los medios: Una introducción a los medios masivos de comunicación.
+International Thompson Editores. México
 
-Biagi,   S.   (1999).   Impacto   de  los  medios:  Una  introducción  a  los  medios  masivos  de  comunicación  .
-International Thompson Editores
-
-Cardoso,   G.  (2008).  Los  medios  de  comunicación  en  la  sociedad  en  red  .  Editorial  Universitat  Oberta
-de Catalunya
+Cardoso,   Gustavo   (2008).   Los   medios   de  comunicación  en  la  sociedad  en  red.  Barcelona:  Editorial
+Universitat Oberta de Catalunya
 
 Castells, M. (1998). La era de la información (Vols. 1–3). Alianza Editorial
 
 Castells, M. (2001). La galaxia Internet . Plaza & Janés-Areté
 
-Fernández,   C.   (2000).   La   comunicación   humana   en   el  mundo  contemporáneo  (2.ª  ed.).  McGraw-Hill
-Interamericana
+Fernández,   Carlos   (2000).   La   comunicación  humana  en  el  mundo  contemporáneo.  2da.  Edición.  McGraw
+Interamericana,
 
-Gubern, R. (2001). La mirada opulenta: Una exploración de la iconosfera contemporánea . Gustavo Gili
+Gubern,   Romà  (2001).  La  mirada  opulenta.  Una  exploración  de  la  iconosfera  contemporánea.  Barcelona:
+Editorial Gustavo Gili
 
 Hampshire,   S.,   &   Pérez   Montoro,   M.   (Eds.).   (2004).  Fundamentos  de  teoría  de  la  comunicación  .
 Promociones y Publicaciones Universitarias (PPU)
 
-Laffond,   J.,   Fajardo,   E.,   &   Moraga,  Á.  (2014).  Historia  de  los  medios  de  comunicación  .  Alianza
-Editorial
+Laffond,   J.,   Fajardo,   E.,   &   Moraga,   Á.  (2014).  Historia  de  los  medios  de  comunicación.  Madrid:
+Alianza Editorial
 
-McLuhan, M. (1996). Comprender los medios de comunicación: Las extensiones del ser humano . Paidós
+McLuhan,   Marshall   (1996).   Comprender   los  medios  de  comunicación.  Las  extensiones  del  ser  humano.
+Barcelona: Editorial Paidós
 
-McQuail, D. (1991). Introducción a la teoría de la comunicación de masas . Paidós
+McQuail, Dennis (1991). Introducción a la teoría de la comunicación de masas. Barcelona: Paidós
 
-🔁 Misma obra con edición/año distinto:
+Power,   D.   y   Scott,   A.   (Ed.)   (2004).  Cultural  industries  and  the  production  of  culture.  London:
+Routledge
+
+Wolf, M. (1996). La investigación de la comunicación de masas . Paidós
+
+✅ Recursos añadidos (9):
 ------------------------------
-Hesmondhalgh,   D.  (2002).  The  cultural  industries.  Sage:  London  Manovich,  Lev  (2005).  El  lenguaje  de
-los   nuevos   medios   de   comunicación.   La   imagen   en  la  era  digital.  Barcelona:  Editorial  Paidós  →
-Manovich, L. (2005). El lenguaje de los nuevos medios de comunicación: La imagen en la era digital .
-Paidós
+Ballesta, J. (1997). Medios de comunicación y nuevas tecnologías . Diego Marín
 
-McDonald,   P.   y   Wasko,   J.   (2008).  The  Contemporary  Hollywood  Film  Industry.  Blackwell  Publishing
-Rodrigo   Alsina,   Miguel   (2001).   Teorías   de   la   comunicación.   Ámbitos,   métodos  y  perspectivas,
-Barcelona:   Universitat   Autònoma   de   Barcelona   →   McDonald,   P.,   &  Wasko,  J.  (Eds.).  (2008).  The
-contemporary Hollywood film industry . Blackwell Publishing
-
-✅ Recursos añadidos:
-------------------------------
 Fang, I. (1997). A history of mass communication: Six information revolutions . Routledge
 
 Fernández, A. (1997). Medios de comunicación social . Domostierra
@@ -69,7 +65,11 @@ Hesmondhalgh, D. (2002). The cultural industries . Sage
 Kovarik,   B.  (2015).  Revolutions  in  communication:  Media  history  from  Gutenberg  to  the  digital  age  .
 Bloomsbury Publishing USA
 
-Power, D., & Scott, A. (Eds.). (2004). Cultural industries and the production of culture . Routledge
+Manovich, L. (2005). El lenguaje de los nuevos medios de comunicación: La imagen en la era digital .
+Paidós
+
+McDonald,   P.,   &   Wasko,   J.   (Eds.).   (2008).  The  contemporary  Hollywood  film  industry  .  Blackwell
+Publishing
 
 Rodrigo Alsina, M. (2001). Teorías de la comunicación: Ámbitos, métodos y perspectivas . Universitat
 Autònoma de Barcelona
@@ -77,6 +77,4 @@ Autònoma de Barcelona
 Rueda,   J.   C.,   Galán,   E.,  &  Rubio,  Á.  L.  (2014).  Historia  de  los  medios  de  comunicación  .  Alianza
 Editorial
 
-Wolf, M. (1996). La investigación de la comunicación de masas . Paidós
-
-📊 Porcentaje estimado de cambio: 83% [████████░░]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

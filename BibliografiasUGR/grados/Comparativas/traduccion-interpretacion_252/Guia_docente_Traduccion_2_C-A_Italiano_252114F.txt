@@ -2,13 +2,19 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+HATIM,   B   y   I.  MASON  (1990).  Discourse  and  the  translator.  Londres:  Longman.  [Trad.  española  de  S.
+Peña   (1995).   Teoría   de   la   traducción.  Barcelona:  Ariel.]  HURTADO  ALBIR,  A.  (2011).  Traducción  y
+traductología.   Madrid:   Cátedra   MENDUNI,   E.   (2006).  I  linguaggi  della  radio  e  della  televisione.
+Roma-Bari: Laterza
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 AA.VV. (2014). Libro de Estilo, El País. Madrid: Aguilar
+
+AA.VV.   Dizionario   La  Repubblica:  http://dizionari.repubblica.it/italiano.php  MARTÍNEZ  DE  SOUSA,  J.
+(2000). Manual de estilo de la lengua española. Gijón: Ediciones Trea
 
 CARRISCONDO   ESQUIVEL,   F.M.  (2014)  (ed.  y  coord.),  La  lengua  en  el  candelero.  Repercusión  mediática
 de asuntos lingüísticos, Vigo, Editorial Academia del Hispanismo
@@ -19,8 +25,6 @@ análisis descriptivo. Salamanca: Almar
 GOTTI, M. (1991). I linguaggi specialistici. Firenze: La Nuova Italia
 
 GUALDO, R. e TELVE, S. (2012). Linguaggi specialistici dell'italiano. Roma: Carocci
-
-MARTÍNEZ DE SOUSA, J. (2000). Manual de estilo de la lengua española. Gijón: Ediciones Trea
 
 MARTÍNEZ DE SOUSA, J. (2003). Ortotipografía del español actual. Gijón: Trea
 
@@ -35,10 +39,11 @@ de una misma moneda". Sendebar, nº 12: 373-86
 
 RAE. (1999). Ortografía de la lengua española. Madrid: Espasa
 
-RAE. (2009). Nueva gramática de la lengua española. Madrid: Espasa
+RAE.   Diccionario   Panhispánico  de  dudas:  http://buscon.rae.es/dpdI/  RAE.  (2009).  Nueva  gramática  de
+la lengua española. Madrid: Espasa
 
 RONDOLINO,   G.   y   D.   TOMASSI  (2007).  Manuale  del  film.  Linguaggio,  racconto,  analisi.  Torino:  UTET
-Libreria
+Librería
 
 SECO, M. (2000). Diccionario de dudas y dificultades de la lengua española. Madrid: Espasa
 
@@ -48,25 +53,22 @@ Laterza, pp.237-277
 TAM,     L.     (2011).     Dizionario     spagnolo-italiano,     italiano-español.     Milano:     Hoepli.
 http://dizionari.hoepli.it/
 
-ZINGARELLI,   N.   (2013).   Vocabolario   della   Lingua  Italiana.  Bologna:  Zanichelli  [se  recomienda  la
-utilización de las ediciones más actualizadas en soporte electrónico]
+http://dizionari.hoepli.it/   TRECCANI:   https://www.treccani.it/vocabolario/   ZINGARELLI,  N.  (2013).
+Vocabolario   della   Lingua   Italiana.   Bologna:   Zanichelli   [se   recomienda   la   utilización  de  las
+ediciones   más   actualizadas   en   soporte   electrónico]   NOTA:   Se  facilitará  bibliografía  adicional
+durante las clases
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-HATIM,   B   y   I.  MASON  (1990).  Discourse  and  the  translator.  Londres:  Longman.  [Trad.  española  de  S.
-Peña   (1995).   Teoría   de   la   traducción.  Barcelona:  Ariel.]  HURTADO  ALBIR,  A.  (2011).  Traducción  y
-traductología.   Madrid:   Cátedra   MENDUNI,   E.   (2006).  I  linguaggi  della  radio  e  della  televisione.
-Roma-Bari: Laterza  →  HURTADO ALBIR, A. (2011). Traducción y traductología. Madrid: Cátedra
-
-✅ Recursos añadidos:
-------------------------------
-AA.VV. Dizionario La Repubblica: http://dizionari.repubblica.it/italiano.php
-
 HATIM,   B   y   I.  MASON  (1990).  Discourse  and  the  translator.  Londres:  Longman.  [Trad.  española  de  S.
 Peña (1995). Teoría de la traducción. Barcelona: Ariel.]
 
+HURTADO ALBIR, A. (2011). Traducción y traductología. Madrid: Cátedra
+
 IGAREDA, P. (2011). Categorización temática del análisis cultural: una propuesta para la traducción.
 Íkala, revista de lenguaje y cultura, vol.16, n, 27, 11-32
+
+MARTÍNEZ DE SOUSA, J. (2000). Manual de estilo de la lengua española. Gijón: Ediciones Trea
 
 MENDUNI, E. (2006). I linguaggi della radio e della televisione. Roma-Bari: Laterza
 
@@ -74,6 +76,7 @@ NOTA: Se facilitará bibliografía adicional y específica durante las clases
 
 RAE. Diccionario Panhispánico de dudas: http://buscon.rae.es/dpdI/
 
-TRECCANI: https://www.treccani.it/vocabolario/
+ZINGARELLI,   N.   (2013).   Vocabolario   della   Lingua  Italiana.  Bologna:  Zanichelli  [se  recomienda  la
+utilización de las ediciones más actualizadas en soporte electrónico]
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]

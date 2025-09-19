@@ -2,8 +2,11 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
+CARA,   L.   (ed.):   Ciudad   y  territorio  en  al-Andalus.  Granada,  2000  CRESSIER,  P.,  GARCÍA  ARENAL,  M.
+(eds.): Genése de la ville islamique au al-Andalus et au Magreb Occidental. Madrid, 1998
+
 MAZZOLI   GUINTARD,   C:  Ciudades  de  al-Andalus.  España  y  Portugal  en  la  época  musulmana  (s.  VIII-XV).
 Granada, 2000
 
@@ -11,10 +14,15 @@ NAVARRO PALAZÓN, J.: Las ciudades de Alandalús. Nuevas perspectivas. Zaragoza,
 
 PASSINI, J.: La ciudad medieval: de la casa al tejido urbano. Cuenca, 2001
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 ACIÉN   ALMANSA,  M.:  “Poblamiento  y  fortificación  en  el  sur  de  al-Andalus.  La  formación  de  un  país  de
 husun”, en III Congreso de Arqueología Medieval Española. Oviedo, 1989, I, pp. 137-150
+
+Archivo   Español   de   Arqueología   Boletín   de   Arqueología  Medieval  Debates  de  Arqueología  Medieval
+(http://www.arqueologiamedievaldebates.com)   Estudios   de  Historia  y  Arqueología  Medievales  Historia
+Medieval   Medieval   Archaeology   Miscelánea   Medieval   Murciana   Studia  Historica.  Historia  Medieval
+Territorio, Sociedad y Poder. Revista de Estudios Medievales
 
 BARCELÓ, M.: Arqueología medieval. En las afueras del medievalismo. Barcelona, 1988
 
@@ -25,6 +33,8 @@ BAZZANA,   A.:   Maison   d’al-Andalus.   Habitat   medieval   et   structures
 orientale. Madrid, 1992
 
 BERMÚDEZ, J., BAZZANA, A.: La casa hispanomusulmana. Aportaciones de la arqueología. Granada, 1990
+
+GLICK, T.: Paisajes de conquista. Cambio cultural y geográfico en la España medieval. Valencia, 2007
 
 JIMÉNEZ   PUERTAS,  M.  (ed.):  El  paisaje  y  el  análisis  del  territorio.  Reflexiones  sobre  el  sur  de  al-
 Andalus. Palma de Mallorca, 2014
@@ -45,6 +55,8 @@ MALPICA CUELLO, A. (ed.): Castillos y territorio en al-Andalus. Granada, 1998
 MALPICA   CUELLO,   A.:   Las   últimas  tierras  de  al-Andalus.  Paisaje  y  poblamiento  del  reino  nazarí  de
 Granada. Granada, 2014
 
+MALPICA CUELLO, A.: Los castillos en al-Andalus y la organización del territorio. Cáceres, 2003
+
 MARTÍN CIVANTOS, J. Mª (ed.): Medio ambiente y arqueología medieval. Granada, 2008
 
 TRILLO   SAN   JOSÉ,  C.:  Agua,  tierra  y  hombres  en  al-Andalus.  La  dimension  agrícola  del  mundo  nazarí.
@@ -52,27 +64,18 @@ Granada, 2004
 
 TRILLO SAN JOSÉ, C.: El agua en al-Andalus. Málaga, 2009
 
+TRILLO, C (ed.): Asentamientos rurales y territorio en el Mediterráneo medieval. Granada, 2002
+
 VALOR, M., GUTIÉRREZ, A.: The archaeology of medieval Spain. 1100-1500. Sheffield-Bristol, 2014
 
 VILLAR   MAÑAS,   S.   (ed.):   Sal,  agricultura  y  ganadería.  La  formación  de  los  paisajes  rurales  en  la
 Edad   Media.   Palma   de  Mallorca,  2013  Revistas  disponibles  desde  UGR  Acta  Historica  et  Archaelogica
 Medievalia Archeologia Medievale Archeologie Medievale Arqueologia Medieval Arqueología y Territorio
-Medieval   Arqueología   de   la   Arquitectura   Archivo   Español   de  Arqueología  Boletín  de  Arqueología
-Medieval   Estudios   de   Historia   y   Arqueología   Medievales   Historia  Medieval  Medieval  Archaeology
-Miscelánea   Medieval   Murciana   Studia   Historica.   Historia   Medieval  Territorio,  Sociedad  y  Poder.
-Revista de Estudios Medievales
+Medieval Arqueología de la Arquitectura
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CARA,   L.   (ed.):   Ciudad   y  territorio  en  al-Andalus.  Granada,  2000  CRESSIER,  P.,  GARCÍA  ARENAL,  M.
-(eds.):   Genése   de   la   ville  islamique  au  al-Andalus  et  au  Magreb  Occidental.  Madrid,  1998  →  CARA,
-L. (ed.): Ciudad y territorio en al-Andalus. Granada, 2000
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (16):
 ------------------------------
 Acta Historica et Archaelogica Medievalia
-
-Archeologia Medievale
 
 Archeologie Medievale
 
@@ -84,19 +87,17 @@ Arqueología de la Arquitectura
 
 Arqueología y Territorio Medieval
 
+Boletín de Arqueología Medieval
+
+CARA, L. (ed.): Ciudad y territorio en al-Andalus. Granada, 2000
+
 Debates de Arqueología Medieval (http://www.arqueologiamedievaldebates.com)
 
 Estudios de Historia y Arqueología Medievales
 
-GLICK, T.: Paisajes de conquista. Cambio cultural y geográfico en la España medieval. Valencia, 2007
-
 Historia Medieval
 
-MALPICA CUELLO, A.: Los castillos en al-Andalus y la organización del territorio. Cáceres, 2003
-
 Medieval Archaeology
-
-Miscelánea Medieval Murciana
 
 Revistas   disponibles   desde   UGR   Acta   Historica   et  Archaelogica  Medievalia  Archeologia  Medievale
 Archeologie   Medievale   Arqueologia   Medieval   Arqueología   y   Territorio  Medieval  Arqueología  de  la
@@ -107,11 +108,9 @@ Medieval Territorio, Sociedad y Poder. Revista de Estudios Medievales
 
 Studia Historica. Historia Medieval
 
-TRILLO, C (ed.): Asentamientos rurales y territorio en el Mediterráneo medieval. Granada, 2002
-
 Territorio, Sociedad y Poder. Revista de Estudios Medievales
 
 VILLAR   MAÑAS,   S.   (ed.):   Sal,  agricultura  y  ganadería.  La  formación  de  los  paisajes  rurales  en  la
 Edad Media. Palma de Mallorca, 2013
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 54% [█████░░░░░]

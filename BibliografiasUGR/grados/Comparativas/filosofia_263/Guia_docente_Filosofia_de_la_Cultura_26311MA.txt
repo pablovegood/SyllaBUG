@@ -2,37 +2,60 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Aportaciones   desde   Gadamer”,  en  Acero,  J.J.  y  otros  (eds.),  El  legado  de  Gadamer,  Pérez  tapias,  J.
+A., “¿Es posible el diálogo intercultural tras siglos de injusticia?
 
-📚 Recursos sin cambios:
+Habermas,   J.:  La  inclusión  del  otro  [1996],  Paidós,  Barcelona,  1999  Habermas,  J.,  Mundo  de  la  vida,
+política y religión [2012], Trotta, Madrid, 2015
+
+Lévinas,   E.,   De   otro   modo  que  ser  o  más  allá  de  la  esencia  [1974],  Sígueme,  Salamanca,  Marx,  K.,
+Manuscritos; Economía y filosofía [1844], Alianza, Madrid, 1870
+
+Pérez   Tapias,   J.A,   Ser   humano.  Cuestión  de  dignidad  en  todas  las  culturas,  Trotta,  Madrid,  2019,
+caps.   3,4,   5,   6   y   8   Bloque   temático  3  Girard,  R.,  La  violencia  y  lo  sagrado  [1972],  Anagrama,
+Barcelona, 1998
+
+📚 Recursos sin cambios (73):
 ------------------------------
-Adorno, T.W., Minima moralia. Reflexiones desde la vida dañada [1951],Taurus, Madrid, 1987
+(coords.),   Descolonizar  las  ciencias  sociales  y  las  humanidades.  Perspectivas  desde  Todorov,  T.,  El
+miedo a los bárbaros [2008], Galaxia Gutenberg, Barcelona, 2008
 
 Agamben, G., Homo Sacer. El poder soberano y la nuda vida [1995], Pre-Textos, Valencia, 2003
 
 Anzaldúa, G., Borderlands/La frontera. La nueva mestiza, Capitán Swing, Madrid, 2016
 
-Apel, K.-O., La transformación de la filosofía I, Taurus, Madrid, 1985, pp. 191 ss
+Appiah, K.A., Cosmopolitismo. La ética en un mundo de extraños [2006], Katz, Buenos Aires, 2007
 
 Arendt, H., Eichmann en Jerusalén [1963], Lumen, Barcelona, 1999
 
 Balibar,   E.,   Ciudadano   sujeto.   Ensayos   de  Antropología  filosófica,  vols.  1  y  2  [2011],  Prometeo
 Libros, Buenos Aires, 2014
 
-Bauman, Z.: La cultura como praxis [1999], Paidós, Barcelona, 2002
-
 Benjamin,   W.,   “Tesis  de  filosofía  de  la  historia”,  Id.,  Discursos  interrumpidos  I,  Taurus,  Madrid,
 1989
+
+Bloque temático 1 Bauman, Z.: La cultura como praxis [1999], Paidós, Barcelona, 2002
+
+Bloque   temático   1   De  Sousa  Santos,  B.  y  Meneses,  P.  (eds.),  Epistemologías  del  Sur,  Akal,  Madrid,
+2014
+
+Bloque temático 2 Apel, K.-O., La transformación de la filosofía I, Taurus, Madrid, 1985, pp. 191 ss
+
+Bloque temático 2 Aranguren, J.L.L., Ética [1958], en Obras completas, 2, Trotta, Madrid, 1994
+
+Bloque   temático   3   Adorno,   T.W.,   Minima  moralia.  Reflexiones  desde  la  vida  dañada  [1951],Taurus,
+Madrid, 1987
+
+Bloque   temático   4   Fornet-Betancourt,   R.,   Crítica   intercultural  de  la  filosofía  latinoamericana
+actual, Trotta, Madrid, 2004
 
 Braidotti, R., Lo Posthumano [2013], Gedisa, Barcelona, 2015
 
 Carrasco-Conde, A., Decir el mal. Comprender no es justificar, Galaxia Gutenberg, Barcelona, 2021
 
 Cassirer, E., Antropología filosófica [1944], FCE, México, 1945
-
-De Sousa Santos, B. y Meneses, P. (eds.), Epistemologías del Sur, Akal, Madrid, 2014
 
 De   Sousa   Santos,   B.,   El   fin   del  imperio  cognitivo.  La  afirmación  de  las  epistemologías  del  Sur
 [2018], Trotta, Madrid, 2019
@@ -49,10 +72,9 @@ Fornari, E., Líneas de frontera. Filosofía y postcolonialismo [2011], Gedisa, 
 Fornet-Betancourt,   R.  (ed.):  Culturas  y  poder.  Interacción  y  asimetría  entre  las  culturas,  Desclée,
 Bilbao, 2003
 
-Fornet-Betancourt, R., Crítica intercultural de la filosofía latinoamericana actual, Trotta, Madrid,
-2004
-
 Freud, S., El malestar en la cultura [1930], Alianza, Madrid, 1978
+
+Fromm, E., Anatomía de la destructividad humana [1973], Siglo XXI, Madrid, 1980
 
 Fromm, E., El miedo a la libertad [1941], Paidós, Barcelona, 1987, Apéndice
 
@@ -80,6 +102,9 @@ Horkheimer, M. – Adorno, T. W., Dialéctica de la Ilustración [1944], Trotta,
 Huntington, S.P., El choque de civilizaciones y la reconfiguración del orden mundial [1996], Paidós,
 Barcelona, 1997
 
+Jonas,   H.,   El   principio   de  responsabilidad.  Ensayo  de  una  ética  para  la  civilización  tecnológica
+[1979], Círculo de Lectores, Barcelona, 1994
+
 Kaldor,   M.,   Las  nuevas  guerras.  Violencia  organizada  en  la  era  global  [1999],  Tusquets,  Barcelona,
 2001
 
@@ -102,6 +127,8 @@ Madrid, 2005
 
 Ochoa,   K.   (coord.),   Miradas   en  torno  al  problema  colonial.  Pensamiento  anticolonial  y  feminismos
 descoloniales en los sures globales, Akal, México, 2019
+
+Olivé, L. (comp.), Ética y diversidad cultural, FCE, México, 2004
 
 París,   C.,   El  animal  cultural.  Biología  y  cultura  en  la  realidad  humana,  Crítica,  Barcelona,  1994,
 pp. 168 ss
@@ -127,7 +154,10 @@ Pérez   Tapias,   J.A.,   Ser  humano.  Cuestión  de  dignidad  en  todas  las
 caps. 1, 2, 7, 9 y 11
 
 Pérez   Tapias,   J.A.,   Ser  humano.  Cuestión  de  dignidad  en  todas  las  culturas,  Trotta,  Madrid,  2019,
-caps. 8,11 y Epílogo
+caps. 8 ,11 y Epílogo
+
+Pérez   Tapias,   J.A.,   Universidad   y  humana  dignidad.  Las  verdades  de  las  Letras  frente  al  Ramírez,
+M.T.: Filosofía culturalista, Secretaría de Cultura de Michoacán, Morelia, 2005
 
 Pérez Tapias, J.A., “ De la «muerte del Hombre» al transhumanismo. La parrhesía foucaultiana ante la
 pretensión de Homo Deus ”, Pensamiento, vol. 76, nº 290 (2020), 657-677
@@ -161,46 +191,17 @@ Sloterdijk, P.: Crítica de la razón cínica [1983], Siruela, Madrid, 2006
 
 Sobrevilla, D.(ed.): Filosofía de la cultura, Trotta, Madrid, 1998
 
-Todorov, T., El miedo a los bárbaros [2008], Galaxia Gutenberg, Barcelona, 2008
-
 Walsh, C., “Estudios (inter)culturales en clave des-colonial, Tábula Rasa, 12 (2010), 209-227
 
 Welzer,   H.,   Guerras   climáticas.   Por   qué  mataremos  (y  nos  matarán)  en  el  siglo  XXI  [2008],  Katz,
-Buenos Aires, 2010
+Buenos Aires, 2010. Bloque temático 4
 
 Águila, R. del, La senda del mal. Política y razón de Estado, Taurus, Madrid, 2000
 
 Žižek, S., El sublime objeto de la ideología [1989], Siglo XXI, Madrid, 2010
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (11):
 ------------------------------
-Habermas,   J.:  La  inclusión  del  otro  [1996],  Paidós,  Barcelona,  1999  Habermas,  J.,  Mundo  de  la  vida,
-política   y   religión   [2012],   Trotta,   Madrid,   2015  →  Habermas,  J.:  La  inclusión  del  otro  [1996],
-Paidós, Barcelona, 1999
-
-Fromm, E., Anatomía de la destructividad humana [1973], Siglo XXI, Madrid, 1980. tecnológica [1979],
-Círculo   de   Lectores,   Barcelona,   1994   →   Fromm,  E.,  Anatomía  de  la  destructividad  humana  [1973],
-Siglo XXI, Madrid, 1980
-
-Pérez   Tapias,   J.A,   Ser   humano.  Cuestión  de  dignidad  en  todas  las  culturas,  Trotta,  Madrid,  2019,
-caps.   3,4,   5,   6   y   8   Girard,   R.,  La  violencia  y  lo  sagrado  [1972],  Anagrama,  Barcelona,  1998  →
-Girard, R., La violencia y lo sagrado [1972], Anagrama, Barcelona, 1998
-
-Pérez   Tapias,   J.A.,  Universidad  y  humana  dignidad.  Las  verdades  de  las  Letras  frente  al  mercado  de
-la   posverdad,   Universidad   de  Granada,  2018,  caps.  3,  4  y  6  Ramírez,  M.T.:  Filosofía  culturalista,
-Secretaría   de   Cultura   de   Michoacán,   Morelia,   2005   →   Ramírez,   M.T.:   Filosofía  culturalista,
-Secretaría de Cultura de Michoacán, Morelia, 2005
-
-Lévinas,   E.,   De   otro   modo  que  ser  o  más  allá  de  la  esencia  [1974],  Sígueme,  Salamanca,  Marx,  K.,
-Manuscritos;   Economía   y   filosofía   [1844],   Alianza,  Madrid,  1870  →  Lévinas,  E.,  De  otro  modo  que
-ser o más allá de la esencia [1974], Sígueme, Salamanca, 1995
-
-✅ Recursos añadidos:
-------------------------------
-Appiah, K.A., Cosmopolitismo. La ética en un mundo de extraños [2006], Katz, Buenos Aires, 2007
-
-Aranguren, J.L.L., Ética [1958], en Obras completas, 2, Trotta, Madrid, 1994
-
 Bloque temático 1
 
 Bloque temático 2
@@ -209,14 +210,15 @@ Bloque temático 3
 
 Bloque temático 4
 
+Girard, R., La violencia y lo sagrado [1972], Anagrama, Barcelona, 1998
+
 Habermas, J., Mundo de la vida, política y religión [2012], Trotta, Madrid, 2015
 
-Jonas,   H.,   El   principio   de  responsabilidad.  Ensayo  de  una  ética  para  la  civilización  tecnológica
-[1979], Círculo de Lectores, Barcelona, 1994
+Habermas, J.: La inclusión del otro [1996], Paidós, Barcelona, 1999
+
+Lévinas, E., De otro modo que ser o más allá de la esencia [1974], Sígueme, Salamanca, 1995
 
 Marx, K., Manuscritos; Economía y filosofía [1844], Alianza, Madrid, 1870
-
-Olivé, L. (comp.), Ética y diversidad cultural, FCE, México, 2004
 
 Pérez   Tapias,   J.A,   Ser   humano.  Cuestión  de  dignidad  en  todas  las  culturas,  Trotta,  Madrid,  2019,
 caps. 3,4, 5, 6 y 8
@@ -224,4 +226,4 @@ caps. 3,4, 5, 6 y 8
 Pérez   Tapias,   J.A.,  Universidad  y  humana  dignidad.  Las  verdades  de  las  Letras  frente  al  mercado  de
 la posverdad, Universidad de Granada, 2018, caps. 3, 4 y 6
 
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

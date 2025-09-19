@@ -2,11 +2,21 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Casares, P. M. (2002). Ancianos. Problemática y propuesta educativa. San Pablo
 
-📚 Recursos sin cambios:
+Casares, P.M. (2019). En busca de un modelo de educación integral, en C. Romero y T
+
+Gervilla,   E.   (2010).  Educar  en  la  Postmodernidad.  Madrid  Gervilla,  E.,  Jiménez,  F.  J.  y  Santos,  M.
+(2011). La educación nos hace libres. La lucha contra nuevas alienaciones. Biblioteca Nueva
+
+Romero,   J.   Mª   y   Castelló,   A.  (2016).  Redefiniendo  los  campos  de  inserción  laboral  del  pedagogo,
+Revista                          Qurriculum,                         29,                         21-34.
+http://qurriculum.webs.ull.es/wpcontent/uploads/2016/07/29-Jos_-M.-Romero-y-Amparo-Castell%C3%B3.pdf
+Sarramona, J. (2008). Teoría de la Educación. Reflexión y normativa pedagógica. Ariel
+
+📚 Recursos sin cambios (24):
 ------------------------------
 Aznar, P. (coord.) (1999). Teoría de la Educación. Un enfoque constructivista. Tirant lo Blanch
 
@@ -17,7 +27,9 @@ Teoría       de       la       Educación.       Revista       Interuniversitar
 https://doi.org/10.14201/teri.27524
 https://revistas.usal.es/index.php/1130-3743/article/view/27524/28004
 
-Bueno, D. (2017). Neurociencia para educadores. Octaedro
+Casares,   P.   M.   (2002).   Ancianos.   Problemática   y   propuesta  educativa.  San  Pablo.  Casares,  P.M.
+(2019).   En   busca   de   un   modelo   de   educación  integral,  en  C.  Romero  y  T.  Mateos.  Redescubrir  lo
+educativo: nuevas miradas. Octaedro (pp. 97-111)
 
 Casares, P. y Soriano, A. (coords.) (2014). Teoría de la educación. Educación infantil. Pirámide
 
@@ -66,34 +78,27 @@ Touriñán, J. M. (2016a). Pedagogía mesoaxiológica y concepto de educación. 
 Touriñán,   J.   M.   (2016b).   Pedagogía  general.  Principios  de  educación  y  principios  de  intervención
 pedagógica. BelloyMartínez
 
-Touriñán,   J.M.   (2012).  Teoría  de  la  educación,  metodología  y  focalizaciones.  La  mirada  pedagógica.
-Netbiblo
-
 Trilla, J. (1998). La educación fuera de la escuela. Ámbitos no formales y educación social. Ariel
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Casares,   P.M.   (2019).   En  busca  de  un  modelo  de  educación  integral,  en  C.  Romero  y  T  →  Casares,  P.
-M.   (2002).   Ancianos.  Problemática  y  propuesta  educativa.  San  Pablo.  Casares,  P.M.  (2019).  En  busca
-de   un   modelo   de   educación   integral,   en  C.  Romero  y  T.  Mateos.  Redescubrir  lo  educativo:  nuevas
-miradas. Octaedro (pp. 97-111)
+https://doi.org/10.14201/teri.27524
+https://revistas.usal.es/index.php/1130-3743/article/view/27524/28004 Bueno, D. (2017). Neurociencia
+para educadores. Octaedro
 
-Gervilla,   E.   (2010).  Educar  en  la  Postmodernidad.  Madrid  Gervilla,  E.,  Jiménez,  F.  J.  y  Santos,  M.
-(2011).   La   educación   nos   hace   libres.   La   lucha  contra  nuevas  alienaciones.  Biblioteca  Nueva  →
+https://www.revistaestudioshemisfericosypolares.cl/ojs/index.php/rehp/article/view/52 Touriñán, J.M.
+(2012). Teoría de la educación, metodología y focalizaciones. La mirada pedagógica. Netbiblo
+
+✅ Recursos añadidos (6):
+------------------------------
+Casares,   P.   M.   (2002).   Ancianos.   Problemática   y   propuesta  educativa.  San  Pablo.  Casares,  P.M.
+(2019).   En   busca   de   un   modelo   de   educación  integral,  en  C.  Romero  y  T.  Mateos.  Redescubrir  lo
+educativo: nuevas miradas. Octaedro (pp. 97-111)
+
+Casares,   P.   M.   (2002).   Ancianos.   Problemática   y   propuesta  educativa.  San  Pablo.  Casares,  P.M.
+(2019).   En   busca   de   un   modelo   de   educación  integral,  en  C.  Romero  y  T.  Mateos.  Redescubrir  lo
+educativo: nuevas miradas. Octaedro (pp. 97-111)
+
 Gervilla, E. (2010). Educar en la Postmodernidad. Madrid
 
-Casares,   P.   M.   (2002).   Ancianos.   Problemática  y  propuesta  educativa.  San  Pablo  →  Casares,  P.  M.
-(2002).   Ancianos.   Problemática  y  propuesta  educativa.  San  Pablo.  Casares,  P.M.  (2019).  En  busca  de
-un modelo de educación integral, en C. Romero y T. Mateos. Redescubrir lo educativo: nuevas miradas.
-Octaedro (pp. 97-111)
-
-Romero,    J.    Mª   y   Castelló,   A.   (2016).   Redefiniendo   los   campos   de   inserción   laboral   del
-content/uploads/2016/07/29-Jos_-M.-Romero-y-Amparo-Castell%C3%B3.pdf Sarramona, J. (2008). Teoría de
-la   Educación.   Reflexión   y   normativa   pedagógica.   Ariel   →   Sarramona,   J.   (2008).  Teoría  de  la
-Educación. Reflexión y normativa pedagógica. Ariel
-
-✅ Recursos añadidos:
-------------------------------
 Gervilla,   E.,   Jiménez,   F.   J.   y  Santos,  M.  (2011).  La  educación  nos  hace  libres.  La  lucha  contra
 nuevas alienaciones. Biblioteca Nueva
 
@@ -101,4 +106,6 @@ Romero,   J.   Mª   y   Castelló,   A.  (2016).  Redefiniendo  los  campos  de
 Revista           Qurriculum,           29,           21-34.           http://qurriculum.webs.ull.es/wp-
 content/uploads/2016/07/29-Jos_-M.-Romero-y-Amparo-Castell%C3%B3.pdf
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+Sarramona, J. (2008). Teoría de la Educación. Reflexión y normativa pedagógica. Ariel
+
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Burden, R. y Faires, J., Análisis numérico, Ed. Iberoamericana, México, 1.985
 
@@ -45,19 +45,15 @@ Ross S. L., Ecuaciones Diferenciales, Ed. Reverté, Barcelona, 1979
 
 Simmons, M., George, F., Ecuaciones Diferenciales, Ed. Mc Graw-Hill, Madrid, 1993
 
+Vanderbei,   Robert   J.   Linear   programming—foundations  and  extensions.  Fifth  edition.  International
+Series in Operations Research & Management Science, 285. Springer, Cham, 2020
+
 Vega López Antonio, Un curso de geometría diferencial: curvas y superficies, Murcia, 1993
 
 Zill, D., Ecuaciones diferenciales con aplicaciones, Iberoamericana, México, 1.988
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-International   Series   in   Operations   Research   &   Management   Science,  285.  Springer,  Cham,  2020  →
-Luenberger,   David   G.;   Ye,   Yinyu   Linear  and  nonlinear  programming.  Fifth  edition.  For  the  fourth
-edition. International Series in Operations Research & Management Science, 228. Springer, Cham, 2021
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Vanderbei,   Robert   J.   Linear   programming—foundations  and  extensions.  Fifth  edition.  International
-Series in Operations Research & Management Science, 285. Springer, Cham, 2020
-
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,13 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Reklaitis, G.V.; Introduction to Material and Energy Balances, Wiley, Nueva Cork, 1983
 
-📚 Recursos sin cambios:
+Traducción al castellano: Interamericana, México, 1986
+
+📚 Recursos sin cambios (10):
 ------------------------------
 Blázquez,   G.;   Calero,   M.   y   Martín-Lara,   M.A.;   Fundamentos  de  la  Ingeniería  Química,  Editorial
 Técnica AVICAM, Granada, 2021
@@ -39,15 +41,12 @@ Patria, Mexico, 2015. Disponible en línea:https://elibro.net/es/lc/ugr/titulos/
 Peiró   Pérez,   J.J.;   Balances   de   Materia.  Problemas  Resueltos  y  Comentados  (Volumen  I),  Ed.  Univ.
 Politécnica de Valencia, Valencia, 1997
 
+✅ Recursos añadidos (2):
+------------------------------
 Reklaitis,   G.V.;   Introduction  to  Material  and  Energy  Balances,  Wiley,  Nueva  Cork,  1983.  Traducción
 al castellano: Interamericana, México, 1986
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Reklaitis,   G.V.;   Introduction  to  Material  and  Energy  Balances,  Wiley,  Nueva  Cork,  1983.  Traducción
+al castellano: Interamericana, México, 1986
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

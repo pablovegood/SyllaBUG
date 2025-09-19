@@ -2,27 +2,72 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-Nuevas   aportaciones   al   estudio   métrico  y  geo-métrico  del  dolmen  de  Viera  (Antequera,  Andalucía).
-Menga:   Re-vista   de  prehistoria  de  Andalucía,  (6),  201-208  BENAVIDES  LOPEZ,  J.,  ARANDA  JIMENEZ,  G.,
-SANCHEZ   ROMERO,   M.,   ALARCON   GARCIA,   E.,   FERNANDEZ   MARTIN,  S.  ,  LOZANO  ME-DINA,  A.,  &  ESQUIVEL
-GUERRENRO, J. (2016)
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (10):
 ------------------------------
 "Metamorfosis   fotogramétrica",   en   Revista  de  Expresión  Gráfica  Arquitectónica,  año  2001,  pp  88-94
 no6,   Valencia.   SIN   1133-6137   “Propuesta   de   gestión   integrada   de  documentación  del  patrimonio
 arquitectónico”,   en   Actas   del   Convegno   Il   rilievo  dei  Beni  Architettonici  per  la  Conservazione
 “ARVE:    Arquitectura    religiosa   en   vias   de   extinción”   en   “Restaurar   la   memoria”,   Congreso
-internacional Valladolid ARPA 2000 Actas. pp. 575-592, Valladolid 2001, ISBN
+internacional Valladolid ARPA 2000 Actas. pp. 575-592, Valladolid 2001, ISBN: 84-931163-8-6
+
+BENAVIDES   LOPEZ,   J.A.  (2017).  Tesis  doctoral.  “Nuevas  tecnologías  aplicadas  a  la  documentación  del
+patrimonio.   La   alcazaba   de   Guadix  y  el  castillo  de  Píñar”  CABALLERO  ZOREDA,  L.  (2006).  El  dibujo
+arqueológico1
+
+Nuevas   aportaciones   al   estudio   métrico  y  geo-métrico  del  dolmen  de  Viera  (Antequera,  Andalucía).
+Menga:   Re-vista   de  prehistoria  de  Andalucía,  (6),  201-208  BENAVIDES  LOPEZ,  J.,  ARANDA  JIMENEZ,  G.,
+SANCHEZ   ROMERO,   M.,   ALARCON   GARCIA,   E.,   FERNANDEZ   MARTIN,  S.  ,  LOZANO  ME-DINA,  A.,  &  ESQUIVEL
+GUERRENRO, J. (2016)
+
+ORTEGA   VIDAL,   J,   MARTINEZ   DIAZ,  Á.,  &  MUÑOZ  DE  PABLO,  M.  J.  (2011).  El  dibujo  y  las  vidas  de  los
+edificios.   Revista   EGA   PEREIRA   UZAL,   J.   M.   (2013).  Modelado  3D  en  patrimonio  por  técni-cas  de
+structure   from   motion.  Ph  investigación,  79  PEREIRA,  J  M.  (2016)  3D  modelling  in  cultural  heritage
+using   struc-ture   from   motion  techniques.  PH  Investigación:  revista  del  IAPH  para  la  investigación
+del patrimonio cultural, no 6, p. 49-60
+
+PEREZ   GARCÍA,  J.  L.,  MOZAS  CALVACHE,  A.  T.,  CARDENAS  ESCAR-CENA,  F.  J.  ,  &  LOPEZ  ARENAS,  A.  (2011).
+Fotogrametría   de   bajo   coste   para   la   modelización  de  edificios  históricos.  Virtual  Archaeol-ogy
+Review,   2(3),   121-125   RODRIGUEZ   JORDANA,   J.;   NUÑEZ   ANDRÉS,   M   A  Núñez.  (2008)  Fo-togrametría
+arquitectónica. Universitat Politécnica de Catalunya. Iniciativa Digital Politecnica
+
+PERNAMBUCO. BRASIL Octubre 1999 “Fotogrametría e informática como recursos analíticos. La iglesia de
+Santa   María   en   Valdedios”  Actas  del  IX  Congreso  EGA.  Barcelona  2000  El  sistema  de  información  del
+patrimonio SIP. Apuntes sobre la gestión y el soporte de datos” Actas del IX Congreso EGA. Barcelona
+2000, pp. 311-316. ISBN: 84-7653-743-3
+
+Resumen   de   las  II  Jornadas  de  fotogrametría  arquitectónica.  Valladolid  1998  J.I.  I.S.B.N  84-922407
+(Libro   agotado  existen  ejemplares  en  el  Departamento,  Laboratorio  y  Biblioteca)  FURUKAWA,  Y,  et  al.
+(2009)   Reconstructing  building  interiors  from  images.  En  2009  IEEE  12th  International  Conference  on
+Computer Vision. IEEE, p. 80-87
+
+SLAMA,   C.  et  al.  (1980)  Manual  of  photogrammetry.  American  So-ciety  of  photogrammetry,  SOUTO-VIDAL,
+M.;   ORTIZ-SANZ,   J.;  GIL-DOCAMPO,  M.  (2015)  Im-plementación  del  levantamiento  eficiente  de  fachadas
+mediante   fotogrametría   digital   automatizada   y   el   uso   de   software   gra-tuito.   Informes  de  la
+Construcción, vol. 67, no 539, p. 107
+
+VALLE   MELON,   J.M.,  2006.  Reflexiones  sobre  la  Documentación  Geométrica  del  Patrimonio.  Papeles  del
+partal,   (3),   pp.   161-187   WALDHÄUSL-OUGLEBY;   CIPA-ICOMOS.   (1994)   3X3   RULES   WESTOBY,   M.   J.,
+BRASINGTON, J., GLASSER, N. F., HAMBREY, M. J., & REYNOLDS, J. M
+
+“La   fotogrametría   arquitectónica   como   técnica   de   documentación   y  análisis  del  patrimonio”,  en
+Patrimonio   histórico   de   Castilla  y  León,  año  II,  no  7,  Valladolid  2001,  pp.23-34.  Deposito  Legal:
+VA-392/2000   Atti   del   simposio   internazionale  di  fotogrammetria  dei  monumenti,  Fotogrammetria  dei
+monumenti,   Florencia   1976   ALMAGRO   GORBEA.  A.  (1991).  La  torre  de  Romilla.  Una  torre  nazarí  en  la
+Vega de
+
+📚 Recursos sin cambios (39):
+------------------------------
+ACKERMANN,    F.    (1984)   Digital   image   correlation:   performance   and   potential   application   in
+photogrammetry.   The   Photogrammetric  Record,  1984,  vol.  11,  no  64,  p.  429-439  ALVAREZ  GONZALEZ,  I.,
+LOPETEGI   GALARRAGA,   A.  L.,  MESANZA  MORAZA,  A.,  RODRÍGUEZ  MIRANDA,  Á.,  VALLE  MELÓN,  J.  M.,  VI-CENTE
+ESPINA,   I.  (2003).  Diferentes  propuestas  para  la  representación  geométrica  de  edificios  históricos.
+Arqueología de la Arquitectura, (2), 9-12
+
+ALMAGRO   GORBEA.  A.  (1991).  La  torre  de  Romilla.  Una  torre  nazarí  en  la  Vega  de  Granada.  Al-Qantara,
+12(1), 225
 
 ALMAGRO,   A.,   et   al.   (1999)   Verso   la"   Carta   del  Rilievo  Architettonico”:  testo  di  base  per  la
 definizione dei temi
-
-ALVAREZ   GONZALEZ,   I.,   LOPETEGI  GALARRAGA,  A.  L.,  MESANZA  MORAZA,  A.,  RODRÍGUEZ  MIRANDA,  Á.,  VALLE
-MELÓN, J. M., VI-CENTE ESPINA, I. (2003). Diferentes propuestas para la representación geométrica de
-edificios históricos. Arqueología de la Arquitectura, (2), 9-12
 
 ANGÁS   PAJAS,   J   A;   SERRETA   OLIVÁN,  A.(2012)  Métodos,  técnicas  y  estándares  para  la  documentación
 geométrica del patrimonio cultural. Virtual Archaeology Review, 2012, vol. 3, no 5, p. 38-42
@@ -34,6 +79,11 @@ BENAVIDES LOPEZ, J. A., ESQUIVEL JIMENEZ, F., & ESQUIVEL GUE-RRERO,J. A. (2015).
 al   estudio   métrico   y   geo-métrico   del  dolmen  de  Viera  (Antequera,  Andalucía).  Menga:  Re-vista  de
 prehistoria de Andalucía, (6), 201-208
 
+BENAVIDES   LOPEZ,   J.,  ARANDA  JIMENEZ,  G.,  SANCHEZ  ROMERO,  M.,  ALARCON  GARCIA,  E.,  FERNANDEZ  MARTIN,
+S.,   LOZANO   ME-DINA,   A.,   &   ESQUIVEL   GUERRENRO,   J.   (2016).   3D   modelling  in  ar-chaeology:  The
+application   of   Structure   from  Motion  methods  to  the  study  of  the  megalithic  necropolis  of  Panoria
+(Granada, Spain). Journal of Archaeological Science: Reports, 10, 495-506
+
 BENAVIDES   LÓPEZ,   José   Antonio;   CIVANTOS,   José   Mª   Martín;   COLLAZO,  Jorge  Rouco.  Levantamiento
 arquitectónico   y   análisis   arqueológico   del   Castillo   de   Píñar   como   punto   de  partida  para  su
 conservación. Revisión de arqueología virtual, 2020, vol. 11, nº 22, pág. 95-115
@@ -41,6 +91,12 @@ conservación. Revisión de arqueología virtual, 2020, vol. 11, nº 22, pág. 9
 CABALLERO   ZOREDA,   Luis.   (1996)   El   análisis   estratigráfico   de   cons-trucciones   históricas.  En
 Arqueología   de   la   arquitectura:   el   método   arqueológico   aplicado   al   proceso   de  estudio  y  de
 intervención en edificios históricos: actas. Consejería de Educación y Cultura, p. 55-74
+
+CUNDARE,   Cesare;  CARNEVALI,  Laura.  (2000)  Il  rilievo  dei  beni  ar-chitettonici  per  la  conservazione.
+Edizioni Kappa, 2000
+
+DALLAS,    R.    W.    A.    (1996).   Architectural   and   archaeological   photo-grammetry.   Close   range
+photogrammetry and machine vision, 283-303
 
 DOCCI Y MAESTRI (2010), Manuale di rilevamento architettonico e urbano. Nuova edizione ampliata.220
 
@@ -58,7 +114,8 @@ Multime-dia (VSMM), 2012 18th International Conference on (pp. 369-376). IEEE
 
 EL-HABROUK, H.; LI, X.P. Y FAIG, W. (1996). Determination of geo-metric characteristics of a Digital
 Camera   by   Self-Calibration.   Inter-national   Archives   of   the   Photogrammetry,  Remote  Sensing  and
-Spatial Information Sciences, XXXI (B1), 60-64
+Spatial    Information   Sciences,   XXXI   (B1),   60-64   FERNÁNDEZ   MARTÍN   J.J:   Y   SAN   JOSÉ   ALONSO.
+Fotogrametría aplicada a la arquitectura
 
 GENTIL   BALDRICH,   J.M.  (1992)  Una  relectura  de  la  Carta  sobre  la  Arquitectura  a  León  X.  En  Dibujo  y
 Arquitectura.   Investigación   Aplicada.   Actas   del   IV   Congreso  Internacional  de  Expresión  Gráfica
@@ -104,6 +161,9 @@ mediterranean, p 321
 SAINZ, J., & AVIA, J. S. (2005). El dibujo de arquitectura: teoría e historia de un lenguaje gráfico
 (Vol. 6). Reverté
 
+SANTA   CRUZ  ASTORQUI  JAIME  .  La  fotogrametria  digital  su  aplicación  en  el  levantamiento  de  planos  de
+edificios
+
 STANCO,   F;   BATTIATO,   S;   GALLO,   G.   (2011)   Digital  imaging  for  cul-tural  heritage  preservation:
 Analysis, restoration, and reconstruc-tion of ancient artworks. CRC Press
 
@@ -115,106 +175,37 @@ hispano-árabe de cultura
 VALLE   MELÓN,   J.M.   (2006)   La   medida  y  representación  del  patrimonio:  alternativas  y  criterios  de
 selección. Berceo, 2006, no 151, p. 63-85
 
+WESTOBY,   M.   J.,   BRASINGTON,   J.,   GLASSER,   N.   F.,   HAMBREY,   M.   J.,   &  REYNOLDS,  J.  M.  (2012).
+‘Structurefrom-   Motion’photogramme-try:   A   low-cost,   effective   tool  for  geoscience  applications.
+Geomor-phology, 179, p 300-314
+
 WU,   C,   et   al.  (2011)  Multicore  bundle  adjustment.  Computer  Vision  and  Pattern  Recognition  (CVPR),
 2011 IEEE Conference on. IEEE, 2011. p. 3057-3064
 
 WULFF,   R;   KOCH,   R,   (2011)   Image-Based   3D  Documentation  of  Ar-chaeological  Trenches  Considering
 Spatial, Temporal and Semantic Aspects
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-SLAMA,   C.  et  al.  (1980)  Manual  of  photogrammetry.  American  So-ciety  of  photogrammetry,  SOUTO-VIDAL,
-M.;   ORTIZ-SANZ,   J.;  GIL-DOCAMPO,  M.  (2015)  Im-plementación  del  levantamiento  eficiente  de  fachadas
-mediante   fotogrametría   digital   automatizada   y   el   uso   de   software   gra-tuito.   Informes  de  la
-Construcción,   vol.   67,  no  539,  p.  107  →  SLAMA,  C.  et  al.  (1980)  Manual  of  photogrammetry.  American
-So-ciety of photogrammetry
+“Study,   analysis   and   evaluation   of   several  photogrammetric  methods  applied  to  the  portal  of  the
+Cathedral   of   Palencia  (Spain).”  XVII  SYMPOSIUM  CIPA  (International  Committee  for  Documentation  and
+Architectural Photogrammetry) RECIFE-OLINDA. PERNAMBUCO. BRASIL Octubre 1999
 
-BENAVIDES   LOPEZ,   J.A.  (2017).  Tesis  doctoral.  “Nuevas  tecnologías  aplicadas  a  la  documentación  del
-patrimonio.   La   alcazaba   de   Guadix  y  el  castillo  de  Píñar”  CABALLERO  ZOREDA,  L.  (2006).  El  dibujo
-arqueológico1   →   BENAVIDES   LOPEZ,   J.A.  (2017).  Tesis  doctoral.  “Nuevas  tecnologías  aplicadas  a  la
-documentación del patrimonio. La alcazaba de Guadix y el castillo de Píñar”
-
-ACKERMANN,    F.    (1984)   Digital   image   correlation:   performance   and   potential   application   in
-photogrammetry.   The   Photogrammetric   Record,   1984,   vol.  11,  no  64,  p.  429-439  ALMAGRO  GORBEA,  A.
-(2004).   Levantamiento   arquitectónico.   Universidad  de  Granada  →  ACKERMANN,  F.  (1984)  Digital  image
-correlation:   performance   and   potential  application  in  photogrammetry.  The  Photogrammetric  Record,
-1984, vol. 11, no 64, p. 429-439
-
-“La   fotogrametría   arquitectónica   como   técnica   de   documentación   y  análisis  del  patrimonio”,  en
-Patrimonio   histórico   de   Castilla  y  León,  año  II,  no  7,  Valladolid  2001,  pp.23-34.  Deposito  Legal:
-VA-392/2000   Atti   del   simposio   internazionale  di  fotogrammetria  dei  monumenti,  Fotogrammetria  dei
-monumenti,   Florencia   1976   ALMAGRO   GORBEA.  A.  (1991).  La  torre  de  Romilla.  Una  torre  nazarí  en  la
-Vega   de   Granada.   Al-Qantara,   12(1),   225   →   “La   fotogrametría   arquitectónica   como  técnica  de
-documentación   y  análisis  del  patrimonio”,  en  Patrimonio  histórico  de  Castilla  y  León,  año  II,  no  7,
-Valladolid 2001, pp.23-34. Deposito Legal: VA-392/2000
-
-Resumen   de   las  II  Jornadas  de  fotogrametría  arquitectónica.  Valladolid  1998  J.I.  I.S.B.N  84-922407
-(Libro   agotado  existen  ejemplares  en  el  Departamento,  Laboratorio  y  Biblioteca)  FURUKAWA,  Y,  et  al.
-(2009)   Reconstructing  building  interiors  from  images.  En  2009  IEEE  12th  International  Conference  on
-Computer   Vision.   IEEE,   p.   80-87   →   FURUKAWA,  Y,  et  al.  (2009)  Reconstructing  building  interiors
-from images. En 2009 IEEE 12th International Conference on Computer Vision. IEEE, p. 80-87
-
-ORTEGA   VIDAL,   J,   MARTINEZ   DIAZ,  Á.,  &  MUÑOZ  DE  PABLO,  M.  J.  (2011).  El  dibujo  y  las  vidas  de  los
-edificios.   Revista   EGA   PEREIRA   UZAL,   J.   M.   (2013).  Modelado  3D  en  patrimonio  por  técni-cas  de
-structure   from   motion.  Ph  investigación,  79  PEREIRA,  J  M.  (2016)  3D  modelling  in  cultural  heritage
-using   struc-ture   from   motion  techniques.  PH  Investigación:  revista  del  IAPH  para  la  investigación
-del   patrimonio   cultural,  no  6,  p.  49-60  →  ORTEGA  VIDAL,  J,  MARTINEZ  DIAZ,  Á.,  &  MUÑOZ  DE  PABLO,  M.
-J. (2011). El dibujo y las vidas de los edificios. Revista EGA
-
-CUNDARE,   Cesare;  CARNEVALI,  Laura.  (2000)  Il  rilievo  dei  beni  ar-chitettonici  per  la  conservazione.
-Edizioni   Kappa,   2000   DALLAS,   R.   W.  A.  (1996).  Architectural  and  archaeological  photo-grammetry.
-Close   range   photogrammetry  and  machine  vision,  283-303  →  CUNDARE,  Cesare;  CARNEVALI,  Laura.  (2000)
-Il rilievo dei beni ar-chitettonici per la conservazione. Edizioni Kappa, 2000
-
-VALLE   MELON,   J.M.,  2006.  Reflexiones  sobre  la  Documentación  Geométrica  del  Patrimonio.  Papeles  del
-partal,   (3),   pp.   161-187   WALDHÄUSL-OUGLEBY;   CIPA-ICOMOS.   (1994)   3X3   RULES   WESTOBY,   M.   J.,
-BRASINGTON,   J.,   GLASSER,   N.   F.,   HAMBREY,   M.   J.,   &   REYNOLDS,   J.   M.  (2012).  ‘Structurefrom-
-Motion’photogramme-try: A low-cost, effective tool for geoscience applications. Geomor-phology, 179,
-p   300-314   →  VALLE  MELON,  J.M.,  2006.  Reflexiones  sobre  la  Documentación  Geométrica  del  Patrimonio.
-Papeles del partal, (3), pp. 161-187
-
-SANTA   MARÍA   DE   VALBUENA”   IN   SAN   BERNARDO   The   combined   application   of   image  rectification,
-photogrammetric restitution and classic surveying, as an effective basis to architecural documentary
-methods.an example of their application: the monastery of “- Valladolid, Spain.” XVII SYMPOSIUM CIPA
-(International    Committee    for    Documentation    “Study,    analysis    and   evaluation   of   several
-photogrammetric   methods  applied  to  the  portal  of  the  Cathedral  of  Palencia  (Spain).”  XVII  SYMPOSIUM
-CIPA   (International   PERNAMBUCO.   BRASIL   Octubre   1999   “Fotogrametría  e  informática  como  recursos
-analíticos.   La   iglesia   de   Santa  María  en  Valdedios”  Actas  del  IX  Congreso  EGA.  Barcelona  2000  El
-sistema de información del patrimonio SIP. Apuntes sobre la gestión y el soporte de datos” Actas del
-IX   Congreso   EGA.   Barcelona   2000,  pp.  311-316.  ISBN:  84-7653-743-3  →  “Fotogrametría  e  informática
-como   recursos   analíticos.   La   iglesia   de   Santa   María   en  Valdedios”  Actas  del  IX  Congreso  EGA.
-Barcelona 2000
-
-PEREZ   GARCÍA,  J.  L.,  MOZAS  CALVACHE,  A.  T.,  CARDENAS  ESCAR-CENA,  F.  J.  ,  &  LOPEZ  ARENAS,  A.  (2011).
-Fotogrametría   de   bajo   coste   para   la   modelización  de  edificios  históricos.  Virtual  Archaeol-ogy
-Review,   2(3),   121-125   RODRIGUEZ   JORDANA,   J.;   NUÑEZ   ANDRÉS,   M   A  Núñez.  (2008)  Fo-togrametría
-arquitectónica.   Universitat   Politécnica   de   Catalunya.   Iniciativa   Digital   Politecnica   →  PEREZ
-GARCÍA,   J.   L.,   MOZAS   CALVACHE,   A.   T.,   CARDENAS   ESCAR-CENA,  F.  J.,  &  LOPEZ  ARENAS,  A.  (2011).
-Fotogrametría   de   bajo   coste   para   la   modelización  de  edificios  históricos.  Virtual  Archaeol-ogy
-Review, 2(3), 121-125
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (24):
 ------------------------------
 "Metamorfosis   fotogramétrica",   en   Revista  de  Expresión  Gráfica  Arquitectónica,  año  2001,  pp  88-94
 no6, Valencia. SIN 1133-6137
 
-ALMAGRO GORBEA, A. (2004). Levantamiento arquitectónico. Universidad de Granada
+ACKERMANN,    F.    (1984)   Digital   image   correlation:   performance   and   potential   application   in
+photogrammetry. The Photogrammetric Record, 1984, vol. 11, no 64, p. 429-439
 
-ALMAGRO   GORBEA.  A.  (1991).  La  torre  de  Romilla.  Una  torre  nazarí  en  la  Vega  de  Granada.  Al-Qantara,
-12(1), 225
+ALMAGRO GORBEA, A. (2004). Levantamiento arquitectónico. Universidad de Granada
 
 Atti   del   simposio   internazionale   di   fotogrammetria  dei  monumenti,  Fotogrammetria  dei  monumenti,
 Florencia 1976
 
-BENAVIDES   LOPEZ,   J.,  ARANDA  JIMENEZ,  G.,  SANCHEZ  ROMERO,  M.,  ALARCON  GARCIA,  E.,  FERNANDEZ  MARTIN,
-S.,   LOZANO   ME-DINA,   A.,   &   ESQUIVEL   GUERRENRO,   J.   (2016).   3D   modelling  in  ar-chaeology:  The
-application   of   Structure   from  Motion  methods  to  the  study  of  the  megalithic  necropolis  of  Panoria
-(Granada, Spain). Journal of Archaeological Science: Reports, 10, 495-506
+BENAVIDES   LOPEZ,   J.A.  (2017).  Tesis  doctoral.  “Nuevas  tecnologías  aplicadas  a  la  documentación  del
+patrimonio. La alcazaba de Guadix y el castillo de Píñar”
 
 CABALLERO ZOREDA, L. (2006). El dibujo arqueológico1
-
-DALLAS,    R.    W.    A.    (1996).   Architectural   and   archaeological   photo-grammetry.   Close   range
-photogrammetry and machine vision, 283-303
 
 El   sistema  de  información  del  patrimonio  SIP.  Apuntes  sobre  la  gestión  y  el  soporte  de  datos”  Actas
 del IX Congreso EGA. Barcelona 2000, pp. 311-316. ISBN: 84-7653-743-3
@@ -223,17 +214,24 @@ FERNÁNDEZ MARTÍN J.J: Y SAN JOSÉ ALONSO. Fotogrametría aplicada a la arquite
 Jornadas   de   fotogrametría   arquitectónica.   Valladolid   1998  J.I.  I.S.B.N  84-922407  (Libro  agotado
 existen ejemplares en el Departamento, Laboratorio y Biblioteca)
 
+FURUKAWA,   Y,   et   al.   (2009)   Reconstructing   building   interiors   from   images.  En  2009  IEEE  12th
+International Conference on Computer Vision. IEEE, p. 80-87
+
+ORTEGA   VIDAL,   J,   MARTINEZ   DIAZ,  Á.,  &  MUÑOZ  DE  PABLO,  M.  J.  (2011).  El  dibujo  y  las  vidas  de  los
+edificios. Revista EGA
+
 PEREIRA   UZAL,   J.   M.   (2013).  Modelado  3D  en  patrimonio  por  técni-cas  de  structure  from  motion.  Ph
 investigación, 79
 
 PEREIRA,   J   M.  (2016)  3D  modelling  in  cultural  heritage  using  struc-ture  from  motion  techniques.  PH
 Investigación: revista del IAPH para la investigación del patrimonio cultural, no 6, p. 49-60
 
+PEREZ   GARCÍA,   J.  L.,  MOZAS  CALVACHE,  A.  T.,  CARDENAS  ESCAR-CENA,  F.  J.,  &  LOPEZ  ARENAS,  A.  (2011).
+Fotogrametría   de   bajo   coste   para   la   modelización  de  edificios  históricos.  Virtual  Archaeol-ogy
+Review, 2(3), 121-125
+
 RODRIGUEZ   JORDANA,   J.;   NUÑEZ  ANDRÉS,  M  A  Núñez.  (2008)  Fo-togrametría  arquitectónica.  Universitat
 Politécnica de Catalunya. Iniciativa Digital Politecnica
-
-SANTA   CRUZ  ASTORQUI  JAIME  .  La  fotogrametria  digital  su  aplicación  en  el  levantamiento  de  planos  de
-edificios
 
 SANTA   MARÍA   DE   VALBUENA”   IN   SAN   BERNARDO   The   combined   application   of   image  rectification,
 photogrammetric restitution and classic surveying, as an effective basis to architecural documentary
@@ -241,24 +239,31 @@ methods.an example of their application: the monastery of “- Valladolid, Spain
 (International    Committee    for   Documentation   and   Architectural   Photogrammetry)   RECIFE-OLINDA.
 PERNAMBUCO. BRASIL Octubre 1999
 
+SLAMA, C. et al. (1980) Manual of photogrammetry. American So-ciety of photogrammetry
+
 SOUTO-VIDAL,   M.;  ORTIZ-SANZ,  J.;  GIL-DOCAMPO,  M.  (2015)  Im-plementación  del  levantamiento  eficiente
 de   fachadas  mediante  fotogrametría  digital  automatizada  y  el  uso  de  software  gra-tuito.  Informes  de
 la Construcción, vol. 67, no 539, p. 107
+
+VALLE   MELON,   J.M.,  2006.  Reflexiones  sobre  la  Documentación  Geométrica  del  Patrimonio.  Papeles  del
+partal, (3), pp. 161-187
 
 VALLE   MELÓN,   J.   M.,   VI-CENTE   ESPINA,   I.   (2003).   Diferentes  propuestas  para  la  representación
 geométrica de edificios históricos. Arqueología de la Arquitectura, (2), 9-12
 
 WALDHÄUSL-OUGLEBY; CIPA-ICOMOS. (1994) 3X3 RULES
 
-WESTOBY,   M.   J.,   BRASINGTON,   J.,   GLASSER,   N.   F.,   HAMBREY,   M.   J.,   &  REYNOLDS,  J.  M.  (2012).
-‘Structurefrom-   Motion’photogramme-try:   A   low-cost,   effective   tool  for  geoscience  applications.
-Geomor-phology, 179, p 300-314
-
 “ARVE:    Arquitectura    religiosa   en   vias   de   extinción”   en   “Restaurar   la   memoria”,   Congreso
 internacional Valladolid ARPA 2000 Actas. pp. 575-592, Valladolid 2001, ISBN: 84-931163-8-6
 
-“Study,   analysis   and   evaluation   of   several  photogrammetric  methods  applied  to  the  portal  of  the
-Cathedral   of   Palencia  (Spain).”  XVII  SYMPOSIUM  CIPA  (International  Committee  for  Documentation  and
-Architectural Photogrammetry) RECIFE-OLINDA. PERNAMBUCO. BRASIL Octubre 1999
+“Fotogrametría e informática como recursos analíticos. La iglesia de Santa María en Valdedios” Actas
+del IX Congreso EGA. Barcelona 2000
 
-📊 Porcentaje estimado de cambio: 70% [███████░░░]
+“La   fotogrametría   arquitectónica   como   técnica   de   documentación   y  análisis  del  patrimonio”,  en
+Patrimonio   histórico   de   Castilla  y  León,  año  II,  no  7,  Valladolid  2001,  pp.23-34.  Deposito  Legal:
+VA-392/2000
+
+“Propuesta   de   gestión   integrada   de   documentación   del   patrimonio  arquitectónico”,  en  Actas  del
+Convegno Il rilievo dei Beni Architettonici per la Conservazione
+
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

@@ -2,12 +2,14 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
+" Antenna Engineering Handbook",3 edition, Richard C. Johnson,Mc Graw-Hill, 1993
+
 "Advanced Engineering Electromagnetic” (2nd Ed.), C. A. Balanis, Ed. Wiley, 2012
 
 "Antenas”, A. Cardama y otros autores, Ed UPC, 2002
@@ -15,18 +17,14 @@ No hay elementos.
 "Campo   electromagnético   para   físicos   e  ingeniero.  Radiación  y  propagación",  R.  Gómez  Martín,  Ed.
 Universidad de Granada, 2021
 
+"Propagation of Radiowaves", L. Barclay, IET Press, 2013
+
 “Antenna Theory: Analysis and design”, C. A. Balanis, Ed. Wiley, 4 edition, 2016
 
 “Transmisión por Radio”, J. M. Hernando Rábanos, Ed. Centro de Estudios Ramón Areces, 5 Ed., 2006
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-3." Antenna Engineering Handbook",3 edition, Richard C. Johnson,Mc Graw-Hill, 1993 4."Propagation of
-Radiowaves",   L.   Barclay,   IET   Press,   2013   →  "Propagation  of  Radiowaves",  L.  Barclay,  IET  Press,
-2013
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-" Antenna Engineering Handbook",3 edition, Richard C. Johnson,Mc Graw-Hill, 1993
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

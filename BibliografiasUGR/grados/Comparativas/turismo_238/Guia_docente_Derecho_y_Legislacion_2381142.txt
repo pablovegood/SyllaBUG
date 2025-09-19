@@ -2,20 +2,16 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (29):
 ------------------------------
 A.   Calvo  Caravaca  y  J.  Carrascosa  González,  Derecho  internacional  privado,  Granada,  Comares,  última
 edición
 
 A. Rodríguez Benot y otros, Manual de Derecho internacional privado, Madrid, Tecnos, última edición
-
-Autores varios, Lecciones de Derecho del Turismo, Valencia, Tirant lo Blanch, última edición
-
-Autores varios, Legislación de Derecho internacional privado, Granada, Comares, última edición
 
 Autores varios, Legislación de los negocios internacionales, Madrid, Tecnos, última edición
 
@@ -32,6 +28,25 @@ Valencia, Tirant lo Blanch, última edición
 
 C. Fernández Rodríguez, Derecho administrativo del turismo, Madrid, Marcial Pons, última edición
 
+C.   Ruiz   Sutil   y   B.   J.  Imbroda  Ortíz  (dirs.),  Mementos  en  Experto  de  Extranjería,  Edit.  Lefevre,
+última   edición.   Esta   bibliografía   se  encuentra  online  a  través  de  acceso  a  biblioteca  UGR  (  hace
+falta             conexión            VPN):            Memento            Experto            Extranjería:
+https://granatensis.ugr.es/permalink/34CBUA_UGR/138nfak/alma991014625422104990
+
+Compendios   de   legislación:   Autores  varios,  Legislación  de  Derecho  internacional  privado,  Granada,
+Comares, última edición
+
+Consejería   de  Turismo,  Comercio  y  Deporte,  Legislación  turística  de  Andalucía,  Junta  de  Andalucía  -
+Normas      de      Establecimientos      y      Servicios     Turísticos.     Descarga     gratuita     en:
+http://www.juntadeandalucia.es/turismoycomercio/documentacion/143320796.pdf    P.   González   Saquero,
+Código de Extranjería, Cizur Menor, Aranzadi, última edición
+
+Código   de   Extranjería   (Código   electrónico),   BOE   (versión   consolidada).   Descarga  gratuita  en:
+https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=070_Codigo_de_Extra        njeria&modo=2
+Durante   el   curso   se   facilitará  asimismo  a  los  alumnos  material  adicional  de  estudio,  consistente
+fundamentalmente   en   esquemas,   casos   prácticos,   así   como  materiales  legales  y  jurisprudenciales
+novedosos
+
 D.   Carrizo   Aguado,  Régimen  jurídico  de  las  operaciones  internacionales  de  consumo  en  los  servicios
 turísticos digitales, Madrid, Dykinson, 2018
 
@@ -42,10 +57,6 @@ perspectiva   jurídica   europea   ¿Déficit  traspositivo",  Revista  Aranzad
 D.   Carrizo   Aguado,   “Aspectos  jurídicos  del  contrato  de  aprovechamiento  por  turno  de  bienes  de  uso
 turístico   ante   su   comercialización  en  la  esfera  internacional”,  International  Journal  of  World  of
 Tourism, vol. 3, nº 5, 2016, pp. 2-19
-
-D.   Carrizo   Aguado,   “El   turista   internacional   en  calidad  de  consumidor  de  servicios  turísticos:
-especial   atención   al   «  time  sharing  inmobiliario»  ”,  Impulso  al  desarrollo  económico  a  través  del
-turismo: VIII Jornadas de Investigación en Turismo, Sevilla, Iris Copy, 2015, pp. 295-324
 
 D.   Vallespín   Pérez,  “La  protección  de  consumidores  y  usuarios  en  el  sector  turístico”,  en  Litigios
 de   consumo:   especialidades   procesales   y   acciones   colectivas,  Madrid,  Walters  Kluwer,  2018,  pp.
@@ -69,12 +80,20 @@ internacionales, Madrid, Iustel, última edición
 J.M.   Sánchez   Bartolomé,   “La   protección   al   viajero  frente  a  los  daños  sufridos  durante  un  viaje
 combinado, Revista Internacional de Derecho del Turismo. RIDETUR, vol. 2, nº 1, 2018, pp. 91-127
 
-M. Sabido Rodríguez, Régimen jurídico de los contratos turísticos internacionales. La protección del
-turista-consumidor, Pamplona, Aranzadi, 2020
+Lefevre, última edición. Esta bibliografía se encuentra online a través de acceso a biblioteca UGR (
+hace          falta          conexión          VPN):          Memento         Experto         Extranjería:
+https://granatensis.ugr.es/permalink/34CBUA_UGR/138nfak/alma991014625422104990   D.   Carrizo   Aguado,
+“El   turista   internacional   en   calidad  de  consumidor  de  servicios  turísticos:  especial  atención  al
+«time   sharing  inmobiliario»”,Impulso  al  desarrollo  económico  a  través  del  turismo:  VIII  Jornadas  de
+Investigación en Turismo, Sevilla, Iris Copy, 2015, pp. 295-324
+
+M. Sabido Rodríguez, Régimen jurídico de los contratos turísticos internacionales: la protección del
+turista-consumidor, Cizur Menor, Thomson Reuters – Aranzadi, 2020
 
 M. Soto Moya y C. Ruiz Sutil, Código de Extranjería y Nacionalidad, Granada, Fleming, 2016
 
-P. González Saquero, Código de Extranjería, Cizur Menor, Aranzadi, última edición
+Manuales:   Autores   varios,   Lecciones   de   Derecho   del  Turismo,  Valencia,  Tirant  lo  Blanch,  última
+edición
 
 R.   Rueda   Valdivia,   “El  pasajero  ante  las  incidencias  en  el  transporte  y  su  protección  en  la  Unión
 Europea”,   en   F.   ESTEBAN   DE   LA   ROSA   (editor),   La  protección  del  consumidor  en  dos  espacios  de
@@ -88,28 +107,16 @@ servicios   de   viaje   vinculados”,  Revista  Electrónica  de  Estudios  In
 S. Feliú Álvarez de Sotomayor, “La resolución de litigios en línea aplicada a la comercialización de
 servicios turísticos”, La Ley Unión Europea, nº 42, 30 de noviembre de 2016
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-C.   Ruiz   Sutil   y   B.   J.  Imbroda  Ortíz  (dirs.),  Mementos  en  Experto  de  Extranjería,  Edit.  Lefevre,
-última   edición.   Esta   bibliografía   se  encuentra  online  a  través  de  acceso  a  biblioteca  UGR  (  hace
-falta             conexión            VPN):            Memento            Experto            Extranjería:
-https://granatensis.ugr.es/permalink/34CBUA_UGR/138nfak/alma991014625422104990
-
 Compendios de legislación
 
 Consejería   de  Turismo,  Comercio  y  Deporte,  Legislación  turística  de  Andalucía,  Junta  de  Andalucía  -
 Normas      de      Establecimientos      y      Servicios     Turísticos.     Descarga     gratuita     en:
 http://www.juntadeandalucia.es/turismoycomercio/documentacion/143320796.pdf
 
-Código   de   Extranjería   (Código   electrónico),   BOE   (versión   consolidada).   Descarga  gratuita  en:
-https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=070_Codigo_de_Extranjeria&modo=2
-
 Durante   el   curso   se   facilitará  asimismo  a  los  alumnos  material  adicional  de  estudio,  consistente
 fundamentalmente   en   esquemas,   casos   prácticos,   así   como  materiales  legales  y  jurisprudenciales
 novedosos
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

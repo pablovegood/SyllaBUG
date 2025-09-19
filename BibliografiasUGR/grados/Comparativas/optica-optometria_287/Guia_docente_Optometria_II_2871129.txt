@@ -2,11 +2,11 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 AMOS JF. Diagnosis and management in vision care. Boston. Butterworth. 1987
 
@@ -43,17 +43,15 @@ MONTÉS-MICÓ R. Optometría. Principios básicos y aplicación clínica. 1º Ed
 
 ROSENFIELD M, GILMARTIN B. Myopia & Nearwork. Butterworth-Heinemann, 1998
 
+RUTSTEIN RP, DAUM KM. Anomalies of Binocular Vision: Diagnosis & Management. Mosby, 1998
+
 SCHEIMAN MH, ROUSE M. Optometric Management of Learning Related Vision Problems. Mosby, 1994
 
 SCHEIMAN   MH,   WICK   B.   Tratamiento   Clínico   de   la   Visión  Binocular,  Disfunciones  Heterofóricas,
 Acomodativas y Oculomotoras. Ciagami, Barcelona, 1996
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-RUTSTEIN RP, DAUM KM. Anomalies of Binocular Vision: Diagnosis & Management. Mosby, 1998
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

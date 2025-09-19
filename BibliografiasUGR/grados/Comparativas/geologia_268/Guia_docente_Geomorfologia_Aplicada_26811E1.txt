@@ -2,11 +2,17 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+FETTER,   C.W.   (1980).   Applied   Hydrogeology.  Ed.  Prentice-Hall,  FREEZE,  R.A.,  CHERRY,  J.A.  (1979).
+Groundwater. Ed. Prentice-Hall, New Jersey
 
-📚 Recursos sin cambios:
+OLAYA,   V.   (2018).   Introducción   a   los   Sistemas   de   Información   Geográfica.   Creative   Commons
+Attribution. Disponible en: https://volaya.github.io/gis-book/es/ RODRÍGUEZ LLORET, J., OLIVELLA, R.
+(2008).   Introducción   a   los   sistemas   de  información  geográfica.  Universitat  Oberta  de  Catalunya,
+Barcelona, 82 p
+
+📚 Recursos sin cambios (34):
 ------------------------------
 ALMOROX,   J.,  DE  ANTONIO,  R.,  CRUZ  DÍAZ,  M.,  GASCO,  J.M.  (1994).  Métodos  de  estimación  de  la  erosión
 hídrica. Ed. Agrícola Española, Madrid, 152 p
@@ -66,6 +72,9 @@ MARSILY, G. de (1981). Hydrogéologie quantitative. Ed. Masson, Paris
 MARTÍN   VIDE,   J.P.   (1997).   Ingeniería   Fluvial.   Ed.   Edc.   Universidat  Politécnica  de  Catalunya,
 Barcelona
 
+MIRAGALIA,   M.   (2010).  Manual  de  cartografía,  teleobservación  y  sistemas  de  información  geográfica.
+Universidad Nacional de General Sarmiento, Los Polvorines, 213 p
+
 MITCHELL,   C.W.   (1991).   Terrain   Evaluation.  2nd.  Edition.  Ed.  Longman  Scientific  &  Technical,  New
 York
 
@@ -91,22 +100,11 @@ Sons, New York, 512 p
 
 ​ABBOTT, P.L. (1996). Natural disasters. Ed. Wm. C. Brown Publishers
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MIRAGALIA,   M.   (2010).  Manual  de  cartografía,  teleobservación  y  sistemas  de  información  geográfica.
-Universidad   Nacional  de  General  Sarmiento,  Los  Polvorines,  213  OLAYA,  V.  (2018).  Introducción  a  los
-Sistemas de Información Geográfica. Creative RODRÍGUEZ LLORET, J., OLIVELLA, R. (2008). Introducción
-a   los   sistemas   de   información   geográfica.   Universitat   Oberta   de  Catalunya,  Barcelona,  82  p  →
-MIRAGALIA,   M.   (2010).  Manual  de  cartografía,  teleobservación  y  sistemas  de  información  geográfica.
-Universidad Nacional de General Sarmiento, Los Polvorines, 213 p
-
-FETTER,   C.W.   (1980).   Applied   Hydrogeology.  Ed.  Prentice-Hall,  FREEZE,  R.A.,  CHERRY,  J.A.  (1979).
-Groundwater.   Ed.   Prentice-Hall,   New   Jersey  →  FREEZE,  R.A.,  CHERRY,  J.A.  (1979).  Groundwater.  Ed.
-Prentice-Hall, New Jersey
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 FETTER, C.W. (1980). Applied Hydrogeology. Ed. Prentice-Hall
+
+FREEZE, R.A., CHERRY, J.A. (1979). Groundwater. Ed. Prentice-Hall, New Jersey
 
 OLAYA,   V.   (2018).   Introducción   a   los   Sistemas   de   Información   Geográfica.   Creative   Commons
 Attribution. Disponible en: https://volaya.github.io/gis-book/es/
@@ -114,4 +112,4 @@ Attribution. Disponible en: https://volaya.github.io/gis-book/es/
 RODRÍGUEZ   LLORET,   J.,   OLIVELLA,  R.  (2008).  Introducción  a  los  sistemas  de  información  geográfica.
 Universitat Oberta de Catalunya, Barcelona, 82 p
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

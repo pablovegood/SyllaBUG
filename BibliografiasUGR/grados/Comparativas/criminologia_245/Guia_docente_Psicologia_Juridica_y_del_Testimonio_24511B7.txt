@@ -2,26 +2,15 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
 Ainsworth,   P.B.   (2002).   Psychology,   Law   and  Eyewitness  Testimony.  Chichester,  West  Sussex.  John
 Wiley & Sons
 
-De la Fuente, J. (2015). "La memoria de los testigos". Barcelona. Editorial UOC
-
-González,   J.L.  y  Manzanero,  A.L.  (2018).  Obtención  y  Valoración  del  Testimonio:  Protocolo  holístico
-de evaluación de la prueba testifical (HELPT). Madrid. Editorial Pirámide
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Alonso   Quecuty,  M.L.  (1999).  Evaluación  de  la  credibilidad  de  las  declaraciones  de  menores  víctimas
 de delitos contra la libertad sexual. Papeles del psicólogo, 73, 36 – 40
 
@@ -29,12 +18,17 @@ Bruck,   M.,   Ceci,   S.J.,   Francouer,   E.,   y   Renick,  A.  (1995).  Anat
 facilitate   preschooler`s   reports  of  a  pediatric  examination  involving  genital  touching.  Journal  of
 Experimental Psychology: Applied, 1, 95 – 109
 
+De la Fuente, J. (2015). "La memoria de los testigos". Barcelona. Editorial UOC
+
 Diges, M. y Alonso-Quecuty, M.L. (1993): Psicología Forense Experimental. Valencia: Promolibro
 
 Fariña,   F.,   Arce,   R.  y  Real,  S.  (1994).  Ruedas  de  identificación:  De  la  simulación  y  la  realidad.
 Psicothema, 7(1), 395-402
 
 Garrido, E., Masip, J. y Herrero, C. (Eds.)(2006): Psicología Jurídica. Madrid: Pearson
+
+González,   J.L.  y  Manzanero,  A.L.  (2018).  Obtención  y  Valoración  del  Testimonio:  Protocolo  holístico
+de evaluación de la prueba testifical (HELPT). Madrid. Editorial Pirámide
 
 Lindsay,   D.   S.,   Wade,   K.  A.,  Hunter,  M.  A.,  &  Read,  J.  D.  (2003).  Adults’  memories  of  childhood:
 Affect, knowing, and remembering. Memory, 12, 27-43
@@ -82,4 +76,8 @@ Applied, 10, 139–147
 Westcott,    H.L.,   Davies,   G.M.   y   Bull,   R.H.C.   (2002).   Children´s   Testimony:   A   handbook   of
 Psychological Research and Forensic Practice. Chichester. John Wiley & Sons
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

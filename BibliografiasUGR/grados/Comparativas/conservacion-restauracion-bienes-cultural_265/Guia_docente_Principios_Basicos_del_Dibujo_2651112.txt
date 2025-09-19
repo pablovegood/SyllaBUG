@@ -2,11 +2,12 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Da Vinci, L. (2004). Tratado de pintura (Vol. 108). Ediciones Akal.* Gómez Molina, J. J., Cabezas G.
+L, M. (2002). Máquinas y herramientas de dibujo. Ediciones Catedra
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 Arnheim, R., & Masera, R. (1971). Arte y percepción visual: psicología de la visión creadora. Eudeba
 
@@ -28,6 +29,12 @@ en el siglo XX
 Ching, F. D., & Juroszek, S. P. (2012). Dibujo y proyecto (No. 720.222). Gustavo Gili
 
 Civardi, G. (2017). Drawing Statues (Thea Art of Drawing). Search Press
+
+García Pedraza, J. (2011). El dibujo de estatua. Materiales, proceso y técnica. Granada, GEU
+
+Goldman,   K.   (2020).  Success  in  Art:  Drawing  Hands  &  Feet:  Techniques  for  mastering  realistic  hands
+and   feet   in   graphite,   charcoal,   and  Conte  -  50+  Professional  Artist  Tips  and  Techniques.  Walter
+Foster Publishing
 
 Gómez Molina, J. J. (1995). Las lecciones del dibujo. Cátedra
 
@@ -53,23 +60,10 @@ Arte Cátedra. Madrid
 Universidad Complutense de Madrid, Facultad de Bellas Artes & Piqueras, R. G. (1990). Los dibujos de
 la Academia. Universidad Complutense de Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-García Pedraza, J. (2011). El dibujo de estatua. Materiales, proceso y técnica. Granada, Goldman, K.
-(2020).   Success   in  Art:  Drawing  Hands  &  Feet:  Techniques  for  mastering  realistic  hands  and  feet  in
-graphite,   charcoal,   and   Conte   -   50+   Professional   Artist   Tips   and   Techniques.  Walter  Foster
-Publishing   →   Goldman,   K.   (2020).   Success  in  Art:  Drawing  Hands  &  Feet:  Techniques  for  mastering
-realistic   hands   and   feet   in   graphite,   charcoal,   and   Conte  -  50+  Professional  Artist  Tips  and
-Techniques. Walter Foster Publishing
-
-Da Vinci, L. (2004). Tratado de pintura (Vol. 108). Ediciones Akal.* Gómez Molina, J. J., Cabezas G.
-L,   M.   (2002).   Máquinas   y   herramientas  de  dibujo  →  Da  Vinci,  L.  (2004).  Tratado  de  pintura  (Vol.
-108). Ediciones Akal.*
-
-✅ Recursos añadidos:
-------------------------------
-García Pedraza, J. (2011). El dibujo de estatua. Materiales, proceso y técnica. Granada, GEU
+Da Vinci, L. (2004). Tratado de pintura (Vol. 108). Ediciones Akal.*
 
 Gómez Molina, J. J., Cabezas G. L, M. (2002). Máquinas y herramientas de dibujo. Ediciones Catedra
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

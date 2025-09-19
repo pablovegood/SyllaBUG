@@ -2,11 +2,14 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Coriat,   M.   (2010).   Educación   matemática   infantil.  Granada:  Departamento  Didáctica  de  la  García-
+Pérez,   M.   T.,   y   Adamuz-Povedano,   N.   (2019).Del   número  al  sentido  numérico  y  de  las  cuentas  al
+cálculo   táctico.   Fundamentos,   recursos   y   actividades   para   iniciar   el  aprendizaje.  Barcelona:
+Octaedro
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 Aguilar,   B.,   Ciudad,   A.,   Láiñez   M.   C.  y  Tobaruela,  A.  (2010).  Construir,  jugar  y  compartir:  un
 enfoque constructivista de las matemáticas en educación infantil. Jaén, España: Enfoques educativos
@@ -19,6 +22,9 @@ Alsina, A. (2022). Itinerarios didácticos para la enseñanza de las matemática
 
 Baroody,   A.   J.   (1988).  El  pensamiento  matemático  de  los  niños.  Madrid,  España:  Aprendizaje  Visor.
 MEC
+
+Bermejo,   V.   (1990).   El   niño  y  la  aritmética.  Instrucción  y  construcción  de  las  primeras  nociones
+aritméticas. Barcelona, España: Paidós Educador
 
 Boule,   F.   (1995).  Manipular,  organizar,  representar:  iniciación  a  las  matemáticas.  Madrid,  España:
 Narcea
@@ -39,11 +45,24 @@ de Haro (Dir.). Enciclopedia de Educación Infantil. Málaga, España: Aljibe
 Castro,   E.,   Olmo,   M.   A.   y   Castro,   E.   (2002).  Desarrollo  del  pensamiento  matemático  infantil.
 Granada: Departamento de Didáctica de la Matemática de la Universidad de Granada
 
-Cañizares,   M.   J.  y  Castro,  E.  (2003).  Educación  lógico-matemática.  En  J.  L.  Gallego  y  E.  Fernández
-de Haro (Dir.). Enciclopedia de Educación Infantil. Málaga, España: Aljibe
-
 Chamorro,   M.   C.   (2006).   Didáctica   de   la  matemática  para  la  educación  infantil.  Madrid,  España:
 Pearson Educación
+
+Kamii, C. (1981). La teoría de Piaget y la educación preescolar. Madrid, España: Pablo del Río
+
+Martinez,   J.   (1991).   El   curriculum   matemático  en  la  educación  infantil.  Madrid,  España:  Escuela
+Española
+
+Roás,   T.   (2000).   Experiencias   de   trabajo  a  partir  de  centros  de  interés.  Pautas  transferibles  a
+otros contextos educativos. Aula de Innovación Educativa, 93-94
+
+Saá,   M.   D.   (2000).   Los   cuentos   y   las  canciones:  un  recurso  para  la  matemática  en  la  educación
+infantil. Epsilon, 46-47, 97-106
+
+✅ Recursos añadidos (3):
+------------------------------
+Cañizares,   M.   J.  y  Castro,  E.  (2003).  Educación  lógico-matemática.  En  J.  L.  Gallego  y  E.  Fernández
+de Haro (Dir.). Enciclopedia de Educación Infantil. Málaga, España: Aljibe
 
 Coriat,   M.   (2010).  Educación  matemática  infantil.  Granada:  Departamento  Didáctica  de  la  Matemática
 de la Universidad de Granada
@@ -52,25 +71,4 @@ García-Pérez, M. T., y Adamuz-Povedano, N. (2019).Del número al sentido numé
 cálculo   táctico.   Fundamentos,   recursos   y   actividades   para   iniciar   el  aprendizaje.  Barcelona:
 Octaedro
 
-Martinez,   J.   (1991).   El   curriculum   matemático  en  la  educación  infantil.  Madrid,  España:  Escuela
-Española
-
-Saá,   M.   D.   (2000).   Los   cuentos   y   las  canciones:  un  recurso  para  la  matemática  en  la  educación
-infantil. Epsilon, 46-47, 97-106
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Kamii,   C.  (1981).  La  teoría  de  Piaget  y  la  educación  preescolar.  Madrid,  España:  Pablo  del  Roás,  T.
-(2000).   Experiencias   de   trabajo   a   partir   de   centros   de  interés.  Pautas  transferibles  a  otros
-contextos   educativos.   Aula   de   Innovación   Educativa,   93-94   →   Roás,  T.  (2000).  Experiencias  de
-trabajo   a   partir  de  centros  de  interés.  Pautas  transferibles  a  otros  contextos  educativos.  Aula  de
-Innovación Educativa, 93-94
-
-✅ Recursos añadidos:
-------------------------------
-Bermejo,   V.   (1990).   El   niño  y  la  aritmética.  Instrucción  y  construcción  de  las  primeras  nociones
-aritméticas. Barcelona, España: Paidós Educador
-
-Kamii, C. (1981). La teoría de Piaget y la educación preescolar. Madrid, España: Pablo del Río
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

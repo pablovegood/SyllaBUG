@@ -2,16 +2,16 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (29):
 ------------------------------
-Director/a   de   Departamento   38FB5C8FEFE5A3622242B6F922D3EA06   Pág.   5   de   11   Página  6    POPESCU-
-SIRETEANU,   Ion   (coord.);   NIMIGEAN,   Gina;   STERPU,  Iolanda;  ŢĂRANU,  Ecaterina,  Dicţionar  de  verbe
-româneşti,   cu   traducere   în   limbile   engleză,  franceză,  spaniolă,  greacă  modernă,  Casa  Editorială
-Demiurg, Iaşi, 2007
+Firma     (1):     VICTORIANO     PEÑA     SÁNCHEZ    En    calidad    de:    Director/a    de    Departamento
+38FB5C8FEFE5A3622242B6F922D3EA06   23/07/2020   Página   6    POPESCU-SIRETEANU,  Ion  (coord.);  NIMIGEAN,
+Gina;   STERPU,   Iolanda;   ŢĂRANU,   Ecaterina,   Dicţionar  de  verbe  româneşti,  cu  traducere  în  limbile
+engleză, franceză, spaniolă, greacă modernă, Casa Editorială Demiurg, Iaşi, 2007
 
  *** Dictionar enciclopedic: 98.000 definitii, Editura Cartier, 2001
 
@@ -90,11 +90,7 @@ Vasiliana '98, Iasi, 2003
    VRĂJITORU,   Ana,  Curs  practic  de  limba  română  pentru  străini,  vol.  III  -  Texte,  Editura  Vasiliana
 '98, Iasi, 2003
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (11):
 ------------------------------
 23/07/2020
 
@@ -123,4 +119,4 @@ MIRTON Timişoara, 2008
 verbe   româneşti,   cu   traducere   în   limbile   engleză,   franceză,   spaniolă,   greacă   modernă,  Casa
 Editorială Demiurg, Iaşi, 2007
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

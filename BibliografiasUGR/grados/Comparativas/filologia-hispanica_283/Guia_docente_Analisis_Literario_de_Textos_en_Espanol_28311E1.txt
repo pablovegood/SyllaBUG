@@ -2,11 +2,11 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (29):
 ------------------------------
 Aullón de Haro, P. (ed.), Introducción a la crítica literaria actual, Madrid, Playor, 1984
 
@@ -54,6 +54,8 @@ Jara, R. et al, Diccionario de términos e “ismos” literarios, Madrid, Porr�
 Marchese,   A.,   y   Forradellas,   J.,   Diccionario   de   retórica,   crítica   y  terminología  literaria,
 Barcelona, Ariel, 1986
 
+Moral, Rafael del, Diccionario práctico del comentario de textos literarios, Madrid, Verbum, 2004
+
 Navarro Durán, R., La mirada al texto. Comentario de textos literarios, Barcelona, Ariel, 1995
 
 Olmo   Iturriarte,   Almudena,   Comentario   de   textos   poéticos   medievales,  Universitat  de  les  Illes
@@ -81,14 +83,10 @@ Villanueva,   Darío,  El  comentario  de  textos  narrativos:  la  novela  (198
 ed
 
 _____,   Entre   el   saber   y   el   conocer.  Moradas  del  estudio  literario,  Valladolid,  Fundación  Jorge
-Guillén, 2001
+Guillén, 2001. _ _ _ _ _
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Moral, Rafael del, Diccionario práctico del comentario de textos literarios, Madrid, Verbum, 2004
-
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

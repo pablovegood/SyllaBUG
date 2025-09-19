@@ -2,11 +2,11 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 Berzosa Martínez A. y Otros (2001): Estructura Económica Mundial, 2" Edición actualizada y ampliada.
 Síntesis
@@ -21,12 +21,8 @@ Palazuelos E. P. y Vara M.J. (coord.) (2002): Grandes Áreas de la Economía Mun
 Tugores   Ques  J.  (2002):  Economía  Internacional.  Globalización  e  Integración  Regional.  5"  Edición  Mc
 Graw Hill
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 Sevilla Duro, M.Á. (2024). Las integraciones económicas: Concepto, taxonomía y efectos . Atelier
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

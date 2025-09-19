@@ -2,11 +2,13 @@
 Grado: educacion-social (244)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Carta     de     la     Tierra.    (2000).    Carta    de    la    Tierra    Internacional.    Recuperado    de
+https://cartadelatierra.org/   Martínez-Rodríguez,  F.  M.  (2013).  ¿Por  qué  se  sigue  negando  la  ‘crisis
+sistémica del modelo capitalista neoliberal’? Perspectiva histórica e intereses ocultos. En F. M
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (43):
 ------------------------------
 Abbott,   A.   (2015).   Teaching   Social  Entrepreneurship:  Business  Concepts  within  Cultural  Contexts.
 Cuadernos de ALDEEU, 28(1), 139-154
@@ -146,17 +148,7 @@ Epistemología y valores (pp. 81-99). Madrid: Narcea
 SPRI   (2004).   Emprender.   Manual   Básico   para   Emprender.   Bilbao:   SPRI,   UPV/EHU,  Universidad  de
 Mondragón, Universidad de Deusto
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Carta   de   la  Tierra.  (2000).  Carta  de  la  Tierra  Internacional.  Recuperado  de  Martínez-Rodríguez,  F.
-M.   (2013).   ¿Por   qué   se   sigue   negando   la  ‘crisis  sistémica  del  modelo  capitalista  neoliberal’?
-Perspectiva   histórica   e  intereses  ocultos.  En  F.  M  →  Martínez-Rodríguez,  F.  M.  (2013).  ¿Por  qué  se
-sigue   negando   la   ‘crisis   sistémica   del   modelo  capitalista  neoliberal’?  Perspectiva  histórica  e
-intereses   ocultos.   En  F.  M.  Martínez-Rodríguez  (Ed.),  Educación,  neoliberalismo  y  justicia  social:
-Un   revisión   crítica   del   desarrollo   humano  desde  La  Carta  de  la  Tierra  y  la  Economía  Social  (pp.
-25-54). Madrid: Pirámide
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (15):
 ------------------------------
 Carta     de     la     Tierra.    (2000).    Carta    de    la    Tierra    Internacional.    Recuperado    de
 https://cartadelatierra.org/
@@ -203,4 +195,4 @@ Taibo, C. (2016). Colapso: Capitalismo terminal, transición ecosocial, ecofasci
 
 Varoufakis, Y. (2015). Economía sin corbata: conversaciones con mi hija. Barcelona: Destino
 
-📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

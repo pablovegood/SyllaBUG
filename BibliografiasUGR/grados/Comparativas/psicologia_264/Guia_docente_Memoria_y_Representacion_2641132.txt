@@ -2,11 +2,40 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (8):
 ------------------------------
-No hay elementos.
+Chase,   W.G.,  y  Ericsson,  K.A.  (1982).  Skill  and  working  memory.  En  G.H.  Bower  (Eds),  The  Psychology
+of Learning and Motivation (vol. 6, pp. 1–58). New York: Academic Press D’Esposito, M., Detre, J.A.,
+Alsop, D.C., Shin, R.K., Atlas, S., y Grossman, M. (1995). The neural basis of the central executive
+system of working memory. Nature, 388, 279–281
 
-📚 Recursos sin cambios:
+En   Español:   Baddeley,   A.,   Eysenck,   M.W.   y   Anderson.   M.  C.  (2020).  Memoria.  Alianza  Editorial
+Baddeley,   A  (1999).  Memoria  humana:  Teoría  y  práctica.  McGraw  Hill  Ruiz-Vargas,  J.M.  (2010).  Manual
+de Psicología de la Memoria. Editorial Síntesis
+
+En Inglés: Radvansky (2021). Human memory (3rd Edition). Pearson Neath, I y Surprenant, A.M. (2003).
+Human   Memory   (2º   Edición).   Thomson   Wadsworth   Tulving   and  Craik  (2000).  The  Oxford  Handbook  of
+Memory.   Oxford   University   Press   Church,  B.A.,  y  Scachter,  D.L.  (1994).  Perceptual  specificity  of
+auditory   priming:   Implicit   memory   for   voice   intonation   and   fundamental  Frequency.  Journal  of
+Experimental Psychology: Learning, Memory and Cognition, 20, 521–533
+
+Kosslyn,   S.M.  (1975).  Information  representation  in  visual  images.  Cognitive  Psychology,  7,  341–370
+Kosslyn,   S.M.,   Cave,   C.B.,   Provost,   D.A.,   y  Gierke,  S.M.  (1988).  Sequential  processes  in  image
+generation. Cognitive Psychology, 20, 319–343
+
+Medin, D. L., Lynch, E. B., y Solomon, K. O. (2000). Kinds of concepts. Annual Review of Psychology,
+51,   121–   147   Murphy,  G.  L.,  y  Lassaline,  M.  E.  (1997).  Hierarchical  structure  in  concepts  and  the
+basic   level   of   categorization.   En   K.   Lamberts   y  Shanks,  D.  R.  (Eds.),  Knowledge,  concepts  and
+categories (pp. 93–131). Cambridge, MA.: MIT Press
+
+Psychological, Crime and Law, 5, 197–202
+
+Ruiz-Vargas   (2002).  Memoria  y  Olvido.  Editorial  Trotta  Schacter,  D.  (1999).  En  busca  de  la  memoria.
+Ediciones Grupo Z
+
+strategy: Effective and portable. Psychological Science, 20, 516-522
+
+📚 Recursos sin cambios (43):
 ------------------------------
 Ayanna,   K.T.  &  Loftus,  E.F.  (2002).  Creating  bizarre  false  memories  through  imagination.  M  e  m  or  y
 & Cogn ition, 30, 423-431
@@ -142,46 +171,16 @@ Yonelinas,   A.   P.   (1994)   Receiver   operating   characteristics  in  reco
 dual–process   model.   Journal   of   Experimental   Psychology:   Learning,   Memory   and   Cognition,  20,
 1341–1354
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (22):
 ------------------------------
-Chase,   W.G.,  y  Ericsson,  K.A.  (1982).  Skill  and  working  memory.  En  G.H.  Bower  (Eds),  The  Psychology
-of Learning and Motivation (vol. 6, pp. 1–58). New York: Academic Press D’Esposito, M., Detre, J.A.,
-Alsop, D.C., Shin, R.K., Atlas, S., y Grossman, M. (1995). The neural basis of the central executive
-system   of   working   memory.  Nature,  388,  279–281  →  Chase,  W.G.,  y  Ericsson,  K.A.  (1982).  Sk  ill  and
-working   memory.   En  G.H.  Bower  (Eds),  The  Psychology  of  Learning  and  Motivation  (vol.  6,  pp.  1–58).
-New York: Academic Press
+Baddeley, A (1999). Memoria humana: Teoría y práctica. McGraw Hill
 
-Radvansky   (2021).   Human   memory   (3rd   Edition).  Pearson  Neath,  I  y  Surprenant,  A.M.  (2003).  Human
-Memory   (2º   Edición).   Thomson   Wadsworth   Tulving  and  Craik  (2000).  The  Oxford  Handbook  of  Memory.
-Oxford   University  Press  Tema  1.  Introducción:  Concepto,  Historia,  Organización  y  Metodología  memory
-for voice intonation and fundamental Frequency. Journal of Experimental Psychology: Learning, Memory
-and   Cognition,   20,   521–533   →   Tulving   and   Craik   (2000).  The  Oxford  Handbook  of  Memory.  Oxford
-University Press
-
-Ruiz-Vargas   (2002).  Memoria  y  Olvido.  Editorial  Trotta  Schacter,  D.  (1999).  En  busca  de  la  memoria.
-Ediciones Grupo Z  →  Schacter, D. (1999). En busca de la memoria. Ediciones Grupo Z
-
-Medin, D. L., Lynch, E. B., y Solomon, K. O. (2000). Kinds of concepts. Annual Review of Psychology,
-51,   121–   147   Murphy,  G.  L.,  y  Lassaline,  M.  E.  (1997).  Hierarchical  structure  in  concepts  and  the
-basic   level   of   categorization.   En   K.   Lamberts   y  Shanks,  D.  R.  (Eds.),  Knowledge,  concepts  and
-categories   (pp.   93–131).   Cambridge,   MA.:   MIT   Press  →  Murphy,  G.  L.,  y  Lassaline,  M.  E.  (1997).
-Hierarchical   structure   in  concepts  and  the  basic  level  of  categorization.  En  K.  Lamberts  y  Shanks,
-D. R. (Eds.), Knowledge, concepts and categories (pp. 93–131). Cambridge, MA.: MIT Press
-
-Kosslyn,   S.M.  (1975).  Information  representation  in  visual  images.  Cognitive  Psychology,  7,  341–370
-Kosslyn,   S.M.,   Cave,   C.B.,   Provost,   D.A.,   y  Gierke,  S.M.  (1988).  Sequential  processes  in  image
-generation.   Cognitive   Psychology,   20,   319–343   →   Kosslyn,   S.M.,   Cave,   C.B.,  Provost,  D.A.,  y
-Gierke, S.M. (1988). Sequential processes in image generation. Cogn itive Psychology, 20, 319–343
-
-Baddeley, A., Eysenck, M.W. y Anderson. M. C. (2020). Memoria. Alianza Editorial Baddeley, A (1999).
-Memoria   humana:  Teoría  y  práctica.  McGraw  Hill  Ruiz-Vargas,  J.M.  (2010).  Manual  de  Psicología  de  la
-Memoria. Editorial Síntesis  →  Baddeley, A (1999). Memoria humana: Teoría y práctica. McGraw Hill
-
-✅ Recursos añadidos:
-------------------------------
 Baddeley, A., Eysenck, M. W., & Anderson, M. C. (2025). Memory. Taylor & Francis
 
 Baddeley, A., Eysenck, M.W. y Anderson. M. C. (2020). Memoria. Alianza Editorial
+
+Chase, W.G., y Ericsson, K.A. (1982). Sk ill and working memory. En G.H. Bower (Eds), The Psychology
+of Learning and Motivation (vol. 6, pp. 1–58). New York: Academic Press
 
 Church,   B.A.,   y  Scachter,  D.L.  (1994).  Perceptual  specificity  of  auditory  priming:  Implicit  memory
 for voice intonation and fundamental Frequency. Journal of Experimental Psychology: Learning, Memory
@@ -195,8 +194,15 @@ applications. Oxford Academic
 
 Kosslyn, S.M. (1975). Information representation in visual images. Cognitive Psychology, 7, 341–370
 
+Kosslyn,   S.M.,   Cave,   C.B.,   Provost,   D.A.,   y  Gierke,  S.M.  (1988).  Sequential  processes  in  image
+generation. Cogn itive Psychology, 20, 319–343
+
 Medin, D. L., Lynch, E. B., y Solomon, K. O. (2000). Kinds of concepts. Annual Review of Psychology,
 51, 121– 147
+
+Murphy,   G.  L.,  y  Lassaline,  M.  E.  (1997).  Hierarchical  structure  in  concepts  and  the  basic  level  of
+categorization.   En   K.   Lamberts   y   Shanks,   D.  R.  (Eds.),  Knowledge,  concepts  and  categories  (pp.
+93–131). Cambridge, MA.: MIT Press
 
 Neath, I y Surprenant, A.M. (2003). Human Memory (2º Edición). Thomson Wadsworth
 
@@ -205,6 +211,8 @@ Radvansky (2021). Human memory (3rd Edition). Pearson
 Ruiz-Vargas (2002). Memoria y Olvido. Editorial Trotta
 
 Ruiz-Vargas, J.M. (2010). Manual de Psicología de la Memoria. Editorial Síntesis
+
+Schacter, D. (1999). En busca de la memoria. Ediciones Grupo Z
 
 Tema 1. Introducción: Concepto, Historia, Organización y Metodología
 
@@ -216,4 +224,6 @@ Tema 4. Procesos de Codificación en M.L.P
 
 Tema 5. Procesos de Recuperación y Olvido en M.L.P
 
-📊 Porcentaje estimado de cambio: 43% [████░░░░░░]
+Tulving and Craik (2000). The Oxford Handbook of Memory. Oxford University Press
+
+📊 Porcentaje estimado de cambio: 46% [████░░░░░░]

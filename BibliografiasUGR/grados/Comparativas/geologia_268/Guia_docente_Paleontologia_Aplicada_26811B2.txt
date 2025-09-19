@@ -2,11 +2,11 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Bosence,   D.W.J.   &  Allison,  P.A.  1995.  Marine  Palaeoenvironmental  Analysis  from  Fossils.  Geological
 Society, Special Publication 83, London
@@ -51,11 +51,7 @@ Riding, R. 1991. Calcareous Algae and Stromatolites. Springer, Berlin
 
 Wood, R. 1999. Reef Evolution, Oxford University Press, Oxford
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

@@ -2,14 +2,22 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-BLASCO,   Javier.   Cervantes,  raro  inventor.  Alcalá  de  Henares:  Centro  de  Estudios  Cervantinos,  2005.
-de la Mancha, 2 vols. ed. Francisco Rico, Barcelona, Instituto Cervantes – Crítica, 1998
+Henares: Centro de Estudios Cervantinos. 2010
+
+Homenaje   a   José   Mª   Casasayas,   Felipe   B.  Pedraza  y  Rafael  González  Cañal  (Eds.),  2008  FOUCAULT,
+Michel. Las palabras y las cosas. México: Siglo Veintiuno, 1968
+
+RIQUER,   Martín   de.   Aproximación   al   Quijote,   Barcelona:   Salvat,   1970   ________.   Cervantes  en
+Barcelona, Barcelona: Acantilado, 2005
+
+RODRÍGUEZ,   Juan   Carlos.  La  literatura  del  pobre.  Granada,  Comares,  1994  ROSALES,  Luis.  Cervantes  y
+la libertad, Madrid: Sociedad de Estudios y Publicaciones, 1960
 
 ________. ed. A. Hermenegildo, M., Madrid: Castalia
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (64):
 ------------------------------
 ALVAR, Carlos (dir.). Gran Enciclopedia Cervantina . Madrid: Castalia, 2005
 
@@ -18,11 +26,10 @@ Gredos, 1971
 
 AVALLE ARCE, Juan Bautista. Suma cervantina, London: Tamesis Books Limited, 1973
 
-Alianza   Editorial,   2008   ________.   Don   Quijote   de  la  Mancha.  Índice.  Edición  crítica  y  anotada.
-Centro Virtual ________. Entremeses. Edición de Micholas Spadaccini. Madrid: Cátedra. 1998
-
 BARRIO   MARCO,   Juan   Manuel   y   CRESPO   ALLUÉ,   Mª  José.  La  huella  de  Cervantes  y  del  Quijote  en  la
 literatura anglosajona . Valladolid: Universidad de Valladolid, 2007
+
+BLASCO, Javier. Cervantes, raro invento r. Alcalá de Henares: Centro de Estudios Cervantinos, 2005
 
 CANAVAGGIO, Jean (dir.), Historia de la literatura española . Barcelona: Ariel, 1995, vols. II y III
 
@@ -38,6 +45,8 @@ Henares: Centro de Estudios Cervantinos, 1993-1995
 
 CLOSE,   Anthony   y   otros.  Cervantes,  Pról.  Claudio  Guillén,  Madrid:  Centro  de  Estudios  Cervantinos,
 1995
+
+DE RIQUER, Martín. Para leer a Cervantes. Barcelona: Acantilado, 2003
 
 FUENTES, Carlos. Cervantes o la crítica de la lectura, México, 1976
 
@@ -75,11 +84,14 @@ NAVARRO DURÁN, Rosa. Cervantes, Madrid: Síntesis, 2003
 PEÑA MARTÍN, J. Francisco. Cervantes y la libertad de las mujeres. Alcalá de Henares: Universidad de
 Alcalá, 2017
 
+REY   HAZAS,  Antonio.  Cervantes:  literatura  y  vida.  Madrid:  Alianza  Editorial,  2005  ________.  Poética
+de la libertad y otras claves cervantinas. Madrid: Eneida, 2005
+
+RICO, Francisco. El texto del Quijote . Barcelona: Destino, 2006
+
 RILEY, Edward, Teoría de la novela de Cervantes, Madrid: Taurus, 1966
 
 RILEY, Edward. Introducción al Quijote, Barcelona: Crítica, 1991
-
-RIQUER, Martín de. Para leer a Cervantes. Barcelona: Acantilado, 2003
 
 RODRÍGUEZ,   Juan   Carlos.   El   escritor   que   compró  su  propio  libro:  para  leer  el  Quijote.  Granada:
 Comares, 2013
@@ -105,10 +117,18 @@ EstudiosCervantinos, 2007
 
 ________. Comedias y tragedias, ed. Luis Gómez Canseco, varios editores, Madrid, RAE, 2015
 
+________.   Con   los   pies   en  la  tierra.  Don  Quijote  en  su  marco  geográfico  e  histórico  .  Homenaje  a
+José Mª Casasayas, Felipe B. Pedraza y Rafael González Cañal (Eds.), 2008
+
 ________.   Don   Quijote  de  la  Mancha,  eds.  Sevilla  Arroyo,  Florencio  y  Rey  Hazas,  Antonio,  Alcalá  de
 Henares: Centro de Estudios Cervantinos, 1993
 
 ________. Ed. de Alfredo Baras Escolá. Madrid: Galaxia Gutenberg. 2013
+
+________. Entremeses. Edición de Micholas Spadaccini. Madrid: Cátedra. 1998
+
+________.   La   Galatea,   ed.   F.   Sevilla   y   A.  Rey  Hazas,  Alianza  ________.  ed.  de  Francisco  López
+Estrada y M.ª Teresa López García-Berdoy. Madrid: Cátedra. 1999
 
 ________. La rara invención: estudios sobre Cervantes y su posteridad literaria, Barcelona: Crítica,
 2001
@@ -126,7 +146,11 @@ ________. Personajes y temas del “Quijote ”. Taurus: Madrid, 1975
 ________.   Poesías   I.  La  poesía  de  La  Galatea  .  Edición  de  José  Luis  Fernández  de  la  Torre.  Madrid:
 Clásicos Hispánicos. Musa a las 9. 2013
 
+________. Poesías completas, ed. Vicente Gaos, Madrid: Castalia
+
 ________. Poesías, ed. Adrián J. Sáez, Madrid: Cátedra, 2016
+
+________. Teatro Completo, ed. F. Sevilla y A. Rey Hazas
 
 ________.   Viaje   del   Parnaso,  ed.  José  Montero  Reguera  y  Fernando  Romo  Prieto,  en  colaboración  con
 Macarena Cuiñas Gómez, Madrid, RAE, 2016
@@ -145,58 +169,36 @@ ________. ed. Martín de Riquer, Barcelona: Planeta, 1962
 
 ________. ed. de Carlos Romero Muñoz. Madrid: Cátedra. 2002
 
+________.   ed.   de   Florencio  Sevilla.  Introducción  de  Antonio  Rey  Hazas.  Madrid:  Alianza  Editorial,
+2008 ________. Don Quijote de la Mancha. Índice. Edición crítica y anotada. Centro Virtual Cervantes
+(http://cvc.cervantes.es/obref/quijote/indice.htm)
+
 ________. ed., notas y anexos de Francisco Rico, Madrid: Punto de lectura, 2007
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-RIQUER,   Martín   de.   Aproximación   al   Quijote,   Barcelona:   Salvat,   1970   ________.   Cervantes  en
-Barcelona,   Barcelona:   Acantilado,   2005   →   RIQUER,  Martín  de.  Aproximación  al  Quijote,  Barcelona:
-Salvat, 1970
+«Bibliografía   y  abreviaturas»  pp.  997-1212  en  Volumen  complementario  de  Don  Quijote  de  la  Mancha,  2
+vols. ed. Francisco Rico, Barcelona, Instituto Cervantes – Crítica, 1998
 
-RODRÍGUEZ,   Juan   Carlos.  La  literatura  del  pobre.  Granada,  Comares,  1994  ROSALES,  Luis.  Cervantes  y
-la   libertad,   Madrid:   Sociedad   de   Estudios   y   Publicaciones,   1960  →  RODRÍGUEZ,  Juan  Carlos.  La
-literatura del pobre . Granada, Comares, 1994
-
-Homenaje   a   José   Mª   Casasayas,   Felipe   B.  Pedraza  y  Rafael  González  Cañal  (Eds.),  2008  FOUCAULT,
-Michel.   Las   palabras  y  las  cosas.  México:  Siglo  Veintiuno,  1968  →  FOUCAULT,  Michel.  Las  palabras  y
-las cosas . México: Siglo Veintiuno, 1968
-
-REY   HAZAS,   Antonio.  Cervantes:  literatura  y  vida.  Madrid:  Alianza  Editorial,  2005  RICO,  Francisco.
-El   texto   del   Quijote.   Barcelona:   Destino,   2006   →   RICO,   Francisco.   El   texto   del  Quijote  .
-Barcelona: Destino, 2006
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (10):
 ------------------------------
 BLASCO, Javier. Cervantes, raro invento r. Alcalá de Henares: Centro de Estudios Cervantinos, 2005
 
+FOUCAULT, Michel. Las palabras y las cosas . México: Siglo Veintiuno, 1968
+
 REY HAZAS, Antonio. Cervantes: literatura y vida . Madrid: Alianza Editorial, 2005
+
+RIQUER, Martín de. Aproximación al Quijote, Barcelona: Salvat, 1970
+
+RODRÍGUEZ, Juan Carlos. La literatura del pobre . Granada, Comares, 1994
 
 ROSALES, Luis. Cervantes y la libertad, Madrid: Sociedad de Estudios y Publicaciones, 1960
 
+________. 2 vols. ed. de Florencio Sevilla y Antonio Rey Hazas. Madrid: Espasa Calpe
+
 ________. Cervantes en Barcelona, Barcelona: Acantilado, 2005
-
-________.   Con   los   pies   en  la  tierra.  Don  Quijote  en  su  marco  geográfico  e  histórico  .  Homenaje  a
-José Mª Casasayas, Felipe B. Pedraza y Rafael González Cañal (Eds.), 2008
-
-________. Entremeses. Edición de Micholas Spadaccini. Madrid: Cátedra. 1998
-
-________. La Galatea, ed. F. Sevilla y A. Rey Hazas, Alianza
-
-________.   Novelas  ejemplares  .  Selección,  edición  de  Florencio  Sevilla  y  Antonio  Rey  Hazas.  Madrid:
-Espasa Calpe, 2011
-
-________. Poesías completas, ed. Vicente Gaos, Madrid: Castalia
-
-________. Poética de la libertad y otras claves cervantinas . Madrid: Eneida, 2005
-
-________. Teatro Completo, ed. F. Sevilla y A. Rey Hazas
 
 ________.   ed.   de   Florencio  Sevilla.  Introducción  de  Antonio  Rey  Hazas.  Madrid:  Alianza  Editorial,
 2008
 
 ________. ed. de Francisco López Estrada y M.ª Teresa López García-Berdoy. Madrid: Cátedra. 1999
 
-«Bibliografía   y  abreviaturas»  pp.  997-1212  en  Volumen  complementario  de  Don  Quijote  de  la  Mancha,  2
-vols. ed. Francisco Rico, Barcelona, Instituto Cervantes – Crítica, 1998
-
-📊 Porcentaje estimado de cambio: 32% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

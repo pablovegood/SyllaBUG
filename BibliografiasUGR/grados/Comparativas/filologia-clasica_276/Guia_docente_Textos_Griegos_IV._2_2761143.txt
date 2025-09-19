@@ -2,11 +2,11 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (51):
 ------------------------------
 A. Bowie, Aristophanes. Myth, ritual and comedy, Cambridge, Cambridge University Press, 1993
 
@@ -83,8 +83,6 @@ J. Henderson, Aristophanes Lysistrata, Oxford, Clarendon Press, 1987
 J.   Sanchis   Llopis-R.   Montañés   Gómez-J.   Pérez   Asensio,   Fragmentos  de  la  comedia  media,  Madrid,
 Biblioteca Clásica Gredos, 2007
 
-J.L. Calvo Martínez, Griego para universitarios, Granada, Universidad de Granada, 2016
-
 K.J. Dover, Aristophanes Cloud’s, Oxford, Clarendon Press, 1968
 
 L. Gil Fernández, Aristófanes, Madrid, Gredos, 1996
@@ -100,6 +98,8 @@ L.   Gil,   “Comedia   ática  y  sociedad  ateniense  III,  Los  profesionale
 nueva”, EClás.18 (1975), 72, 151-86
 
 L. Gil, “Menandro y la religiosidad de su época”, CFC 1 (1971), 109-178
+
+M. Fernández Galiano, Manual práctico de morfología verbal griega, Madrid, Gredos, 1981
 
 M.C. Farmer y J. B. Lefkowitz, A Companion to Aristophanes, Hoboken (NJ), Wiley-Blackwell, 2024
 
@@ -122,16 +122,12 @@ R.L. Hunter, The new comedy of Greece and Rome, Cambridge, Cambridge University 
 
 V. Coulon-H. Van Daele, Aristophane, Paris, Les Belles Lettres, 2002
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-A. Bailly, Dictionnaire grec-franҫais, París, Hachette, 1963
-
 Ediciones y traducciones
 
-M. Fernández Galiano, Manual práctico de morfología verbal griega, Madrid, Gredos, 1981
+Instrumentos filológicos
+
+J.L. Calvo Martínez, Griego para universitarios, Granada, Universidad de Granada, 2016
 
 📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 AENOR (1997). Calidad del Agua. (Recopilación Normas UNE) Medio Ambiente, Tomo 1. AENOR
 
@@ -27,13 +27,19 @@ Omega, S.A., Barcelona
 Domenico, P.A. Y Schwartz F.W. (1998). Physical and Chemical Hydrogeology (2 edition). Wiley & Sons,
 New York
 
-Fetter C.W. (2001). Applied Hydrogeology (4 Edition). Prentice Hall, New Jersey
+Fetter   C.W.  (2001).  Applied  Hydrogeology  (4  Edition).  Prentice  Hall,  New  Jersey,  Gámiz,  E.,  Martín-
+García J.M., Fernández-González, M.V., Delgado, G. and Delgado, R
 
 Gámiz,   E.,   Martín-García   J.M.,  Fernández-González,  M.V.,  Delgado,  G.  and  Delgado,  R.  Influence  of
 water   type   and  maturation  time  on  the  properties  of  kaolinite-saponite  peloids,  2009.  Applied  Clay
 Science, vol. 46, p. 117-123
 
 Instituto de Salud Carlos III (2003). Vademécum de aguas mineromedicinales españolas
+
+Llamas, J (1993). Hidrología General. Servicio Editorial de la Universidad del Pais Vasco, Bilbao
+
+Martínez,   E.   (2001).   Hidrología   Práctica.   Servicio  de  Publicaciones  de  Colegio  de  Ingenieros  de
+Caminos, Canales y Puertos, Madrid
 
 Millero, F.J. (2001). The Physical Chemistry of Natural Waters. Wiley & Sons, New York
 
@@ -61,16 +67,8 @@ Stumm, W. y Morgan, J.M. (1996). Aquatic Chemistry. Willey & Sons, New York
 Van   der   Leeden,   F.,   Troise,   F.L.  y  Todd,  D.K.  (1990).  The  Water  Encyclopedia  (2  Edition).  Lewis
 Publishers. Boca Raton, Florida
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Llamas,   J   (1993).   Hidrología  General.  Servicio  Editorial  de  la  Universidad  del  Pais  Vasco,  Bilbao
-Martínez,   E.   (2001).   Hidrología   Práctica.   Servicio  de  Publicaciones  de  Colegio  de  Ingenieros  de
-Caminos,   Canales   y   Puertos,   Madrid  →  Llamas,  J  (1993).  Hidrología  General.  Servicio  Editorial  de
-la Universidad del Pais Vasco, Bilbao
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Martínez,   E.   (2001).   Hidrología   Práctica.   Servicio  de  Publicaciones  de  Colegio  de  Ingenieros  de
-Caminos, Canales y Puertos, Madrid
-
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

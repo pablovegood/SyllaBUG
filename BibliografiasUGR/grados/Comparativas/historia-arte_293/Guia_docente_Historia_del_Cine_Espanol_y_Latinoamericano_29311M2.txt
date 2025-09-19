@@ -2,11 +2,12 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+GETINO,   Octavio:   Cine   latinoamericano.   Economía  y  nuevas  tecnologías.  México  D.F.:  Trillas,  1990
+GUMUCIO, Dagrón: Cine, censura y exilio en América Latina. Barcelona: Ediciones Film/Historia, 1979
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (43):
 ------------------------------
 AA.VV.: El cine y la transición política española. Valencia, Filmoteca de la Generalitat, 1989
 
@@ -121,15 +122,11 @@ VILLEGAS LÓPEZ, Manuel: Aquel llamado Nuevo Cine Español, Madrid, JC, 1991
 ZURIAN,   Francisco   A.   (coord.):   Construyendo   una   mirada   propia  :  mujeres  directoras  en  el  cine
 español : de los orígenes al año 2000. Madrid : Síntesis, D.L. 2015
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Trillas,   1990   GUMUCIO,   Dagrón:   Cine,   censura   y   exilio  en  América  Latina.  Barcelona:  Ediciones
-Film/Historia,   1979   →   GUMUCIO,   Dagrón:   Cine,   censura   y   exilio   en  América  Latina.  Barcelona:
-Ediciones Film/Historia, 1979
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 GETINO, Octavio: Cine latinoamericano. Economía y nuevas tecnologías. México D.F.: Trillas, 1990
+
+GUMUCIO, Dagrón: Cine, censura y exilio en América Latina. Barcelona: Ediciones Film/Historia, 1979
 
 MCCAUSLAND, Elisa y SALGADO Diego (coords.): Clásicas, modernas y extrañas. Historias feministas del
 cine. San Sebastián, Donostia Kultura, 2024
@@ -137,4 +134,4 @@ cine. San Sebastián, Donostia Kultura, 2024
 RAYA   BRAVO,   Irene.  Mujeres  en  lucha.  50  películas  para  conocer  el  movimiento  feminista.  Barcelona,
 Editorial UOC, 2025
 
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

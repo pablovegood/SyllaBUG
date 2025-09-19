@@ -2,11 +2,11 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Alan H. Cromer, Física para las Ciencias de la Vida, Editorial Reverté, 1983
 
@@ -18,6 +18,8 @@ los procesos biológicos, Ed. Labor Universitaria. 1989
 
 M. Eisberg and Y. Lerner Física: Fundamentos y Aplicaciones (2 Vol.), McGraw-Hill. 1983
 
+M.R. Ortega, Lecciones de Física (3 vol.) Univ.A. Barcelona
+
 Van Holde K.E., Bioquímica Física, Ed. Alhambra, Col. Exedra, Madrid, 1979
 
 Vazquez, J. Biofísica: Principios fundamentales, EYPASA. 1993
@@ -26,15 +28,8 @@ Vicente Córdoba, C., Legaz González, M.E. Biofísica, Ed. Síntesis. 1992
 
 Volkenshtein, M.K. Biofísica, Ed. Mir. 1985
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
+J.D. Murray, Mathematical Biology, Springer
 
-✅ Recursos añadidos:
-------------------------------
-Jou,   D.   Llebot,   J.E.   Introducción   a   la   termodinámica   de   los   procesos  biológicos,  Ed.  Labor
-Universitaria. 1989
-
-M.R. Ortega, Lecciones de Física (3 vol.) Univ.A. Barcelona
-
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

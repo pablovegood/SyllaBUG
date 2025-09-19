@@ -2,11 +2,12 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+J.   L.   López,   J.   Soler,   Modelos  Matemáticos  II:  Cálculo  de  variaciones  y  ecuaciones  en  derivadas
+parciales con aplicaciones en Mecánica y Biología. AVICAM, 2023
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 A. Tijonov, A. Samarsky, Ecuaciones de la Física Matemática. Mir, 1980
 
@@ -30,15 +31,9 @@ New York, 1987
 
 V. Brunt, The Calculus of variations. Springer, 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
 J.   L.   López,   J.   Soler,   Modelos  Matemáticos  II:  Cálculo  de  variaciones  y  ecuaciones  en  derivadas
-parciales   con   aplicaciones   en   Mecánica  y  Biología.  AVICAM,  2023  →  J.  L.  López,  J.  Soler,  Modelos
-Matemáticos   II:   Cálculo   de   variaciones   y   ecuaciones  en  derivadas  parciales  con  aplicaciones  en
-Mecánica y Biología (2ª ed). AVICAM, 2025
+parciales con aplicaciones en Mecánica y Biología (2ª ed). AVICAM, 2025
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

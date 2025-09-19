@@ -2,11 +2,11 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 CHEMICAL   SENSORS   AND   BIOSENSORS   FOR  MEDICAL  AND  BIOLOGICAL  APPLICATIONS  .  U.E.  Spichiger-Keller.
 Wiley-VCH. Weinheim. (1998)
@@ -14,8 +14,13 @@ Wiley-VCH. Weinheim. (1998)
 CHEMICAL   SENSORS  PROPERTIES,  PERFORMANCE  AND  APPLICATIONS.  Ronald  V  Harrison  (editor).  Nova  Science
 Publishers. New York. (2010)
 
+CHEMICAL   SENSORS:  FUNDAMENTALS  OF  SENSING  MATERIALS.  Ghenadii  Korotcenkov  (editor).  Momentum  Press,
+New York. (2010-2012)
+
 ELECTROCHEMICAL   METHODS.   FUNDAMENTALS   AND   APPLICATIONS  .  A.J.  Bard  and  L.R.  Faulkner,  Wiley.  New
 York. (1980)
+
+ELECTROQUÍMICA ANALÍTICA . B.H. Vassos y G.W. Ewing. Limusa S.A. México. (1987)
 
 ELECTROQUÍMICA MODERNA. J.O. Bockris, A.K.N. Reddy. Ed. Reverté. (2006)
 
@@ -40,7 +45,8 @@ ed.). (2008)
 PRINCIPLES   OF   ELECTROANALYTICAL   METHODS   .   T.   Riley  and  A.  Watson,  Analytical  Chemistry  by  Open
 Learning, John Wiley & Sons. Chichester, England. (1987)
 
-QUÍMICA ANALÍTICA . J. L. Vílchez Quero. Editorial Técnica Avicam (2023)
+QUÍMICA   ANALÍTICA.   J.   L.   Vílchez   Quero.   Editorial  Técnica  Avicam  (2023)  PRINCIPIOS  DE  ANÁLISIS
+INSTRUMENTAL. D.A. Skoog, F.J. Holler y S.R. Crouch
 
 QUÍMICA ELECTROANALÍTICA. FUNDAMENTOS Y APLICACIONES. J.M. Pingarrón Carrazón y P. Sánchez Batanero.
 Ed. Síntesis. (1999)
@@ -50,15 +56,8 @@ de Publicaciones de la Universidad Autónoma de Barcelona. Barcelona. (2004)
 
 SENSORS. A COMPRENSIVE SURVEY. W. Göpel, J. Hesse and J.N. Zemel. VCH. Weinheim. (1991)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-ELECTROQUÍMICA   ANALÍTICA.   B.H.   Vassos  y  G.W.  Ewing.  Limusa  S.A.  México.  (1987).  CHEMICAL  SENSORS:
-FUNDAMENTALS   OF   SENSING   MATERIALS.   Ghenadii   Korotcenkov   (editor).   Momentum   Press,   New  York.
-(2010-2012)  →  ELECTROQUÍMICA ANALÍTICA . B.H. Vassos y G.W. Ewing. Limusa S.A. México. (1987)
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-CHEMICAL   SENSORS:  FUNDAMENTALS  OF  SENSING  MATERIALS.  Ghenadii  Korotcenkov  (editor).  Momentum  Press,
-New York. (2010-2012)
-
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

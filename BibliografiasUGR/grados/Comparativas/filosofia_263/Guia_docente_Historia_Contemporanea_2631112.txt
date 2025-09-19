@@ -2,11 +2,13 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+ZORGBIBE, Ch., Historia de las relaciones internacionales. vol. 1, De 1945 a 1962; vol. 2, De 1962 a
+nuestros   días.   Madrid,   Alianza   Editorial,   1997   AGUIRRE,   Mariano,  China:  capitalismo  rojo,  los
+desafíos del viaje a la riqueza Barcelona Flor del viento, 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (45):
 ------------------------------
 ALEKSIEVICH, Svetlana, El fin del "Homo sovieticus", Barcelona, El Acantilado, 2015
 
@@ -31,8 +33,11 @@ CASANOVA, Julián, Europa contra Europa, 1914-1945, Barcelona, Crítica, 2011
 
 CHOMSKY, Noam, El nuevo orden mundial (y el viejo) Barcelona, Ed. Crítica, 2002
 
-COBO,   Francisco,   ¿Fascismo   o   democracia?   Campesinado   y   política   en  la  crisis  del  liberalismo
-europeo, 1870-1939, Granada, Universidad de Granada, 2012
+COBO,   Francisco,  ¿Fascismo  o  democracia?  Campesinado  y  política  en  la  crisis  del  ELEY,  Geoffrey,  Un
+mundo que ganar. Historia de la izquierda en Europa, 1850-2000, Barcelona, Crítica, 2003
+
+FERNÁNDEZ   LERMA,   Fernando,   Algo   más   que   belleza.   Influencia  de  la  estética  nazi  en  la  cultura
+contemporánea, Madrid, Biblioteca Nueva, 2015
 
 FONTANA,   Josep,   El   siglo  de  la  Revolución.  Una  historia  del  mundo  desde  1914,  Barcelona,  Crítica,
 2017
@@ -64,6 +69,11 @@ KERSAW, Ian, Descenso a los infiernos. Europa, 1914-1949, Barcelona, Crítica, 2
 LOWE,   Keith,   Continente   salvaje.   Europa  después  de  la  Segunda  Guerra  Mundial,  Galaxia  Gutenberg,
 2012
 
+MARTIN,   José   Luis,   MARTINEZ   SHAW,  Carlos  y  TUSELL,  Javier,  Historia  de  España.  Vol.  2.  La  España
+Contemporánea. Madrid, Taurus. 2001
+
+MARTINEZ CARRERAS, J. U. Introducción a la Historia Contemporánea. Ed. Istmo. 2 vols
+
 MOLINERO,   Carmen,   YSÀS,   Pere,   La   anatomía   del   franquismo.  De  la  supervivencia  a  la  agonía  del
 régimen franquista, 1945-1977, Barcelona, Crítica, 2008
 
@@ -91,6 +101,8 @@ SOTO, Álvaro, Transición y cambio en España, 1975-1996, Madrid, Alianza, 2005
 
 STIGLITZ, Joseph, El malestar en la globalización, Madrid, Taurus. 2002
 
+TAIBO, Carlos, Historia de la Unión Soviética (1917-1991), Madrid, Alianza, 2010
+
 TEMIME,   E.,   BRODER,   A.   y  CHASTAGNARET,  G.,  Historia  de  la  España  Contemporánea.  Desde  1808  hasta
 nuestros días, Barcelona, Ariel, 2001
 
@@ -109,30 +121,15 @@ VILLARES, Ramón y BAHAMONDE, Ángel, El mundo contemporáneo. Siglos XIX y XX, 
 
 VV. AA., La Segunda República Española, Barcelona, Pasado & Presente, 2015
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-ELEY,   Geoffrey,   Un   mundo   que   ganar.   Historia   de  la  izquierda  en  Europa,  1850-2000,  Barcelona,
-Crítica,   2003.   cultura   contemporánea,   Madrid,   Biblioteca  Nueva,  2015  →  ELEY,  Geoffrey,  Un  mundo
-que ganar. Historia de la izquierda en Europa, 1850-2000, Barcelona, Crítica, 2003
+AGUIRRE,   Mariano,   China:   capitalismo  rojo,  los  desafíos  del  viaje  a  la  riqueza  Barcelona  Flor  del
+viento, 2002
 
-ZORGBIBE, Ch., Historia de las relaciones internacionales. vol. 1, De 1945 a 1962; vol. 2, De 1962 a
-nuestros   días.   Madrid,   Alianza   Editorial,   1997   AGUIRRE,   Mariano,  China:  capitalismo  rojo,  los
-desafíos   del   viaje   a   la   riqueza   Barcelona   Flor   del   viento,   2002  →  AGUIRRE,  Mariano,  China:
-capitalismo rojo, los desafíos del viaje a la riqueza Barcelona Flor del viento, 2002
-
-✅ Recursos añadidos:
-------------------------------
-FERNÁNDEZ   LERMA,   Fernando,   Algo   más   que   belleza.   Influencia  de  la  estética  nazi  en  la  cultura
-contemporánea, Madrid, Biblioteca Nueva, 2015
-
-MARTIN,   José   Luis,   MARTINEZ   SHAW,  Carlos  y  TUSELL,  Javier,  Historia  de  España.  Vol.  2.  La  España
-Contemporánea. Madrid, Taurus. 2001
-
-MARTINEZ CARRERAS, J. U. Introducción a la Historia Contemporánea. Ed. Istmo. 2 vols
-
-TAIBO, Carlos, Historia de la Unión Soviética (1917-1991), Madrid, Alianza, 2010
+COBO,   Francisco,   ¿Fascismo   o   democracia?   Campesinado   y   política   en  la  crisis  del  liberalismo
+europeo, 1870-1939, Granada, Universidad de Granada, 2012
 
 ZORGBIBE, Ch., Historia de las relaciones internacionales. vol. 1, De 1945 a 1962; vol. 2, De 1962 a
 nuestros días. Madrid, Alianza Editorial, 1997
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

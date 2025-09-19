@@ -2,11 +2,14 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Council   of   Europe  (2018).Common  European  Framework  of  Reference  for  Languages:  Learning,  Teaching,
+Assessment    .    Companion   Volume   with   New   Descriptors.   Council   of   Europe,   Education   Policy
+Division.https://rm.coe.int/cefr-companion-volume-with-newdescriptors-2018/1680787989 García, Ofelia
+(2009).Bilingual Education in the 21st Century: a Global Perspective. WileyBlackwell
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Appel, René y Muysken, Pieter (1996).Bilingüismo y contacto de lenguas. Ariel
 
@@ -15,7 +18,7 @@ Baetens Beardsmore, Hugo (Ed.) (1993).European Models of Bilingual Education. Mu
 Baker,   Colin   (2006).Foundations   of   Bilingual   Education   and  Bilingualism(4th  ed.).  Multilingual
 Matters
 
-Bernaus,   Mercè   (Coordra.)   (2008).Plurilingual   and   pluricultural   awareness   in  language  teacher
+Bernaus,   Mercá   (Coordra.)   (2008).Plurilingual   and   pluricultural   awareness   in  language  teacher
 education. Council of Europe
 
 Canale, Michael (2014). From Communicative competence to communicative language pedagogy. En Jack C.
@@ -23,10 +26,6 @@ Richards & Richards W. Schmidt (Eds.).Language and communication.Routledge
 
 Council    of    Europe    (2006).Plurilingual    Education    in    Europe:   50   Years   of   International
 Cooperation.Council of Europe, Language Policy Division
-
-Council   of   Europe  (2018).Common  European  Framework  of  Reference  for  Languages:  Learning,  Teaching,
-Assessment   .   Companion   Volume  with  New  Descriptors.  Council  of  Europe,  Education  Policy  Division.
-https://rm.coe.int/cefr-companion-volume-with-new-descriptors-2018/1680787989
 
 Cummins, Jim & Swain, Merrill (1998).Bilingualism in education. Longman
 
@@ -50,18 +49,17 @@ Roldán Tapia, Antonio R. (2007).Glosario de términos para el plurilingüismo. 
 Ruiz Bikandi, Uri (2000). La adquisición de la segunda lengua en Uri Ruiz Bikandi (Ed.),Didáctica de
 la segunda lengua en educación infantil y primaria(pp. 67- 100).Síntesis
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Learning, Teaching, Assessment . Companion Volume with New Descriptors. Council of Europe, Education
-Policy   descriptors-2018/1680787989  García,  Ofelia  (2009).Bilingual  Education  in  the  21st  Century:  a
-Global   Perspective.   Wiley-   Blackwell   →   García,   Ofelia   (2009).Bilingual   Education  in  the  21st
-Century: a Global Perspective. Wiley-Blackwell
-
-✅ Recursos añadidos:
-------------------------------
 Vilà,   Ruth   (2002):   “El   desarrollo   de   la  competencia  comunicativa  intercultural  en  una  sociedad
 multicultural   y   plurilingüe:   Una   propuesta  de  instrumentos  para  su  evaluación”.  Disponible  en  el
 espacio       de       Internet:Portaling:       Una       porta       oberta      a      les      llengües:
 http://www.ub.es/ice/portaling/seminari/seminari-pdf/45vila.pdf
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+✅ Recursos añadidos (2):
+------------------------------
+Council   of   Europe  (2018).Common  European  Framework  of  Reference  for  Languages:  Learning,  Teaching,
+Assessment   .   Companion   Volume  with  New  Descriptors.  Council  of  Europe,  Education  Policy  Division.
+https://rm.coe.int/cefr-companion-volume-with-new-descriptors-2018/1680787989
+
+García, Ofelia (2009).Bilingual Education in the 21st Century: a Global Perspective. Wiley-Blackwell
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

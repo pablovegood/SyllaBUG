@@ -2,11 +2,13 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Neifert,   Agustín.  Del  papel  al  celuloide.  Escritores  argentinos  en  el  cine.  Buenos  Aires,  La  Crujía
+Ediciones.   2003   Palacios   Moré,   René.   Cine   latinoamericano,   una  estética  de  ferocidad,  magia  y
+violencia. Madrid: Ediciones Sedmay, 1976
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 AAVV. Antología del cine latinoamericano. Valladolid, 36 Semana de Cine, 1991
 
@@ -20,6 +22,8 @@ Getino,   Octavio   y  Velleggia,  Susana.El  Cine.  De  las  historias  de  la 
 teorías   y   prácticas   del   cine   político   en  América  latina  (1967-1977).Buenos  Aires,  Grupo  Editor
 Altamira. 2002
 
+Getino, Octavio. Cine latinoamericano. Economía y nuevas tecnologías. México D.F.: Trillas, 1990
+
 Getino,   Octavio.  Cine  y  Televisión  en  América  Latina.  Producción  y  Mercados.  Santiago  de  Chile:  DOM
 Ediciones, 1998
 
@@ -31,6 +35,8 @@ Mundo Editores, 1995
 
 Martínez Torres, Augusto y Pérez Estremera, Manuel. Nuevo cine latinoamericano. Barcelona, Editorial
 Anagrama. 1973
+
+Martínez. Torres, Augusto. Buñuel y sus discípulos. Madrid. Huerga &Fierro Editores. 2005
 
 Méndez-Leite,   Fernando.   Argentina   en  el  cine  español.  Madrid:  Instituto  de  la  Cinematografía  y  de
 las Artes Audiovisuales, 1993
@@ -63,33 +69,24 @@ Soberón Torchia, Édgar. Un siglo de cine. México. Cine Memoria. 1995
 Solanas,   Fernando   y   Getino,  Octavio.  Cine,  Cultura  y  Descolonización.  México.  Siglo  XXI  editores,
 1973
 
+Spotorno,   Radomiro.  50  años  de  Soledad.  De  los  olvidados  (1950)  a  la  Virgen  de  los  sicarios  (2000).
+Huelva. Edita: Fundación Cultural de Cine Iberoamericano de Huelva. 2001
+
 Trelles Toledo, Teresa. Diez años del nuevo cine latinoamericano. Madrid: Verdoux, 1990
 
 Vargas, Juan Carlos (ed.).Tendencias del cine iberoamericano en el nuevo milenio: Argentina, Brasil,
 España   y   México.   Universidad   de   Guadalajara,   Centro   Universitario   de   Ciencias   Sociales  y
 Humanidades. 2012
 
-🔁 Misma obra con edición/año distinto:
+Vassallo   de  Lopes,  Maria  Immacolata,  y  Orozco  Gómez,  Guillermo.  Una  década  de  ficción  televisiva  en
+Iberoamérica
+
+✅ Recursos añadidos (2):
 ------------------------------
 Neifert,   Agustín.  Del  papel  al  celuloide.  Escritores  argentinos  en  el  cine.  Buenos  Aires,  La  Crujía
-Ediciones.   2003   Madrid:   Ediciones   Sedmay,   1976   →   Neifert,   Agustín.   Del   papel  al  celuloide.
-Escritores argentinos en el cine. Buenos Aires, La Crujía Ediciones. 2003
-
-Spotorno,   Radomiro.  50  años  de  Soledad.  De  los  olvidados  (1950)  a  la  Virgen  de  los  sicarios  (2000).
-Huelva.   Edita:   Fundación   Cultural   de  Cine  Iberoamericano  de  Huelva  →  Spotorno,  Radomiro.  50  años
-de   Soledad.   De   los   olvidados  (1950)  a  la  Virgen  de  los  sicarios  (2000).  Huelva.  Edita:  Fundación
-Cultural de Cine Iberoamericano de Huelva. 2001
-
-✅ Recursos añadidos:
-------------------------------
-Getino, Octavio. Cine latinoamericano. Economía y nuevas tecnologías. México D.F.: Trillas, 1990
-
-Martínez. Torres, Augusto. Buñuel y sus discípulos. Madrid. Huerga &Fierro Editores. 2005
+Ediciones. 2003
 
 Palacios   Moré,   René.   Cine   latinoamericano,  una  estética  de  ferocidad,  magia  y  violencia.  Madrid:
 Ediciones Sedmay, 1976
 
-Vassallo   de  Lopes,  Maria  Immacolata,  y  Orozco  Gómez,  Guillermo.  Una  década  de  ficción  televisiva  en
-Iberoamérica
-
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

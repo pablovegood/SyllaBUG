@@ -2,11 +2,11 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 Aranceta J. Nutrición comunitaria. Ed. Masson. Barcelona, 2001
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Araluce   Letamendía   MM.  Empresas  de  Restauración  Alimentaria.  Un  sistema  de  gestión  global.  Díaz  de
 Santos, Madrid, 2001
@@ -21,27 +21,22 @@ Muñoz Calvo MT, Suárez Cortina L. “Nutrición en pediatría”. 3ª ed. Ed. 
 Muñoz   Hornillos   M,   Aranceta   Bartrina  J,  Guijarro  García,  JL.  "El  libro  blanco  de  la  alimentación
 escolar". Ed. McGraw- Hill Interamericana, 2007
 
+Organización   Panamericana  de  la  salud  oficina  regional  de  la  OMS.  Valoración  nutricional  del  adulto
+mayor
+
 Piédrola Gil et al. Medicina Preventiva y Salud Pública. 12ª Ed. Elsevier-Masson. Barcelona, 2015
 
 Ribera   JM,   Cruz  AJ.  Geriatría  en  Atención  Primaria.  Editorial  Aula  Médica:  Madrid  Rubio  Herrera  MA
 (2002) “Manual de alimentación y nutrición en el anciano”. Ed. Masson, 2008
 
-Williams   T,   Moon  A,  Williamd  M.  Alimentos,  medio  ambiente  y  salud.  Guía  para  maestros  de  enseñanza
-primaria. Ginebra: OMS; 1991
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Elsevier-Masson.   Barcelona,   2006   →   Piédrola   Gil  et  al.  Medicina  Preventiva  y  Salud  Pública.  12ª
-Ed. Elsevier-Masson. Barcelona, 2015
-
-✅ Recursos añadidos:
-------------------------------
-Aranceta J. Nutrición comunitaria. Elsevier Health Sciences, 2023
-
-Organización   Panamericana  de  la  salud  oficina  regional  de  la  OMS.  Valoración  nutricional  del  adulto
-mayor
-
 Serra   Majem   L,   Aranceta   Batrina   J,  Mataix  Verdú  FJ.  Nutrición  y  Salud  Pública.  2ª  Ed.  Elsevier-
 Masson. Barcelona, 2006
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+Williams   T,   Moon  A,  Williamd  M.  Alimentos,  medio  ambiente  y  salud.  Guía  para  maestros  de  enseñanza
+primaria. Ginebra: OMS; 1991
+
+✅ Recursos añadidos (1):
+------------------------------
+Aranceta J. Nutrición comunitaria. Elsevier Health Sciences, 2023
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

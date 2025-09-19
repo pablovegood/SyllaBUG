@@ -2,15 +2,7 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (2):
 ------------------------------
 F.   Cussó,   C.   López   y  R.  Villar.  Física  de  los  procesos  biológicos,  Ed.  Ariel,  S.A.,  2004  Alan  H.
 Cromer.   Física   para   las   Ciencias   de  la  Vida,  Editorial  Reverté,  1983  D.G.  Giancoli.  Física  para
@@ -25,14 +17,21 @@ partícula.   Editorial   Tébar   Flores,  2021  M.J.  Lewis.  Propiedades  fí
 sistemas   de   procesado.   Acribia,   O.F.   Ludger,   A.A.  Teixeira.  Food  Physics:  Physical  Properties-
 Measurement   and   Applications.   Springer,   2007   H.G.   Muller.   Introducción   a   la  reología  de  los
 alimentos.   Acribia,   1973   S.   Mochrie,   C.   De   Grandi.  Introductory  Physics  for  the  Life  Sciences
-[electronic   resource]   (1st   ed.   2023.).   Springer   International   Publishing,  2023  →  D.  Jou,  J.E.
-Llebot y C. Pérez. Física para ciencias de la vida, Ed. McGraw-Hill, 1999
+[electronic resource] (1st ed. 2023.). Springer International Publishing, 2023
 
-✅ Recursos añadidos:
+https://doi.org/10.1007/978-3-031-05808-0
+
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (15):
 ------------------------------
 Alan H. Cromer. Física para las Ciencias de la Vida, Editorial Reverté, 1983
 
 C. Vicente Córdoba, M.E. Legaz González. Biofísica, Ed. Síntesis. 1992
+
+D. Jou, J.E. Llebot y C. Pérez. Física para ciencias de la vida, Ed. McGraw-Hill, 1999
 
 D.G.   Giancoli.  Física  para  universitarios,  volumen  1  y  2.  Tercera  edición.  Editorial  Prentice  Hall,
 2002

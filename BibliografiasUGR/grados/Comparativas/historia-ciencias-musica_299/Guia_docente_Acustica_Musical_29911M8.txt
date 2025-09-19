@@ -2,11 +2,12 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Núñez,   Adolfo.   Informática   y   Electrónica  Musical.  Madrid:  Paraninfo,  1992  Recuero  López,  Manuel.
+Acústica de estudios para grabación sonora. Madrid: Instituto Oficial de Radio y Televisión, 1993
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 Agulló, Joaquín. Acústica Musical. Barcelona: Prensa Científica, 1989
 
@@ -49,15 +50,11 @@ Tapia Ruiz, Isabel. Fundamentos de acústica musical. Granada: Albaida, 2001
 Taylor,   Charles.  Exploring  Music:  The  Science  and  Technology  of  Tones  and  Tunes.  Bristol:  Institute
 of Physics, 1994
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Núñez,   Adolfo.   Informática   y   Electrónica  Musical.  Madrid:  Paraninfo,  1992  Recuero  López,  Manuel.
-Acústica   de  estudios  para  grabación  sonora.  Madrid:  Instituto  Oficial  de  Radio  y  Televisión,  1993  →
-Recuero   López,   Manuel.   Acústica   de   estudios  para  grabación  sonora.  Madrid:  Instituto  Oficial  de
-Radio y Televisión, 1993
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Núñez, Adolfo. Informática y Electrónica Musical. Madrid: Paraninfo, 1992
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+Recuero   López,   Manuel.   Acústica   de   estudios  para  grabación  sonora.  Madrid:  Instituto  Oficial  de
+Radio y Televisión, 1993
+
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

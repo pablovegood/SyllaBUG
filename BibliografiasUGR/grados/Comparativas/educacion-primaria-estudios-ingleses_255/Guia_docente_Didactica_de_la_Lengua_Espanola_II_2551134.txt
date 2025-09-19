@@ -2,13 +2,20 @@
 Grado: educacion-primaria-estudios-ingleses (255)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-Solé,   Isabel.   (1992).Estrategias   de   lectura.Graó.  participación  en  las  consultas,  exposiciones  y
-debates;   así  como  en  la  elaboración  de  los  trabajos,  individuales  o  en  equipo,  y  en  las  sesiones  de
-puesta en común
+Consejo    de    Europa    (2001).Marco    de    referencia    europeo    para    las   lenguas.   Estrasburgo
+(www.cervantes.es) González Fernández, Antonio (2004).Estrategias de comprensión lectora.Síntesis
 
-📚 Recursos sin cambios:
+Escandell   Vidal,   M.ª  Victoria  (2018).  Tejer  (y  reciclar)  párrafos.  Claves  para  la  organización  del
+texto   escrito.Regroc,   1(1)  /1.  doi.org/10.5565/rev/regroc.16  Guerrero  Ruiz,  Pedro  &  Caro  Valverde,
+María Teresa (2015).Didáctica de la lengua y educación literaria. Pirámide
+
+RAE-ASALE (2009).Nueva Gramática de la lengua española. Espasa
+
+Solé, Isabel. (1992).Estrategias de lectura.Graó
+
+📚 Recursos sin cambios (23):
 ------------------------------
 Bigas,   Montserrat   y  Correig,  Montserrat.  (2001).  Didáctica  de  la  lengua  en  la  educación  infantil  .
 Síntesis
@@ -35,11 +42,11 @@ primaria. Nuevos enfoques desde la enseñanza del español como lengua extranjer
 
 Martín Vegas, Rosa Ana (2009). Manual de didáctica de la lengua y la literatura . Síntesis
 
-Mata,   Juan,   Núñez,   María   Pilar   y   Rienda,  José  (2015).  Didáctica  de  la  lengua  y  la  literatura  .
-Pirámide
+Mata, Juan, Núñez, María Pilar & Rienda, José (2015).Didáctica de la lengua y la literatura. Madrid:
+Pirámides
 
-Mendoza   Fillola,   Antonio,   Briz   Villanueva,   Ezequiel   et  al.  (2012).  Didáctica  de  la  lengua  y  la
-literatura para Primaria . Prentice Hall
+Mendoza   Fillola,   Antonio,   Briz   Villanueva,   Ezequiel   et   al.  (2012).Didáctica  de  la  lengua  y  la
+literatura para Primaria. Nueva Jersey, Prentice Hall
 
 Mendoza   Fillola,   Antonio,   López   Valero,   Amando   et   al.   (1996).  Didáctica  de  la  lengua  para  la
 enseñanza primaria y secundaria . Akal
@@ -71,22 +78,7 @@ Tena Tena, Pedro (2013). Ortografía divertida . Edinumen
 
 Álvarez de Miranda, Pedro. (2016). Más que palabras . Galaxia Gutenberg
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Escandell   Vidal,   M.ª  Victoria  (2018).  Tejer  (y  reciclar)  párrafos.  Claves  para  la  organización  del
-texto   escrito.Regroc,   1(1)  /1.  doi.org/10.5565/rev/regroc.16  Guerrero  Ruiz,  Pedro  &  Caro  Valverde,
-María   Teresa   (2015).Didáctica   de  la  lengua  y  educación  literaria.  Pirámide  →  Escandell  Vidal,  M.ª
-Victoria (2018). Tejer (y reciclar) párrafos. Claves para la organización del texto escrito. Regroc,
-1 (1) /1. doi.org/10.5565/rev/regroc.16
-
-RAE-ASALE   (2009).Nueva   Gramática  de  la  lengua  española.  Espasa  →  RAE-ASALE  (2024).  Nueva  Gramática
-de la lengua española (NGLE). Espasa. Segunda edición revisada y ampliada
-
-Consejo    de    Europa    (2001).Marco    de    referencia    europeo    para    las   lenguas.   Estrasburgo
-(www.cervantes.es)   González  Fernández,  Antonio  (2004).Estrategias  de  comprensión  lectora.Síntesis  →
-González Fernández, Antonio (2004). Estrategias de comprensión lectora . Síntesis
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Consejo    de   Europa   (2001).   M   arco   de   referencia   europeo   para   las   lenguas   .   Estrasburgo.
 https://cvc.cervantes.es/ensenanza/biblioteca_ele/marco/cvc_mer.pdf
@@ -95,12 +87,20 @@ Consejo   de   Europa   (2001).  M  arco  de  referencia  europeo  para  las  le
 Estrasburgo.     https://cvc.cervantes.es/ensenanza/biblioteca_ele/marco_complementario/mcer_volumen-
 complementario.pdf
 
+Escandell   Vidal,   M.ª  Victoria  (2018).  Tejer  (y  reciclar)  párrafos.  Claves  para  la  organización  del
+texto escrito. Regroc, 1 (1) /1. doi.org/10.5565/rev/regroc.16
+
 Fábregat,   Santiago,  Sánchez,  Carmen  María  y  Jódar,  Rocío  (Coords.)  (2023).  Didáctica  de  la  lengua  y
 la literatura: diez temas actuales . Graó
+
+González Fernández, Antonio (2004). Estrategias de comprensión lectora . Síntesis
 
 Guerrero   Ruiz,   Pedro   y   Caro   Valverde,   María   Teresa  (2015).  Didáctica  de  la  lengua  y  educación
 literaria . Pirámide
 
+RAE-ASALE   (2024).   Nueva  Gramática  de  la  lengua  española  (NGLE).  Espasa.  Segunda  edición  revisada  y
+ampliada
+
 Solé, Isabel. (1992). E strategias de lectura .Graó
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

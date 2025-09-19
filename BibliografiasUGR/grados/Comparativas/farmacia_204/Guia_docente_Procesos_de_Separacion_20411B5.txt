@@ -2,11 +2,11 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Editorial Síntesis. 2002 (Primera Edición). ISBN: 9788497560283
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 "Análisis   instrumental".   Kenneth   A.  Rubinson,  Judith  F.  Rubinson.  Pearson  Educación.  2001  .  ISBN:
 84-205-2988-5
@@ -35,16 +35,12 @@ ISBN: 9789706868299
 Síntesis. 2002 (Primera Edición). ISBN: 9788497560283
 
 "Técnicas   de   separación   en   química   analítica".  Rafael  Cela,  Rosa  Antonia  Lorenzo,  Ma  del  Carmen
+Casais.   Editorial   Síntesis,   2003   (Primera  Edición).  ISBN:  9788497560283  "Análisis  instrumental".
+Kenneth A. Rubinson, Judith F. Rubinson. Pearson Educación
+
+✅ Recursos añadidos (1):
+------------------------------
+"Técnicas   de   separación   en   química   analítica".  Rafael  Cela,  Rosa  Antonia  Lorenzo,  Ma  del  Carmen
 Casais. Editorial Síntesis, 2003 (Primera Edición). ISBN: 9788497560283
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Editorial   Síntesis.   2002   (Primera   Edición).   ISBN:   9788497560283   →   "Técnicas  de  separación  en
-química   analítica".   Rafael   Cela,   Rosa  Antonia  Lorenzo,  Ma  del  Carmen  Casais.  Editorial  Síntesis,
-2003 (Primera Edición). ISBN: 9788497560283
-
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

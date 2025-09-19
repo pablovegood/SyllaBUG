@@ -2,12 +2,14 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+https://www.fdiworlddental.org/sites/default/files/media/documents/book_spreads_oh2_span ish.pdf
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
+Atlas de la Salud oral FDi
+
 Holm-Pedersen,   Angus  Walls,  Jonathan  Ship.  Textbook  of  Geriatric  Dentistry,  3rd  Edition.  Ed:  Wiley-
 Blackwell   Cuenca  Sala  E,  Baça  Garcia  P,  editores.  Odontología  preventiva  y  comunitaria.  Principios,
 métodos y aplicaciones. 4ª ed. Barcelona: Masson; 2015
@@ -15,14 +17,8 @@ métodos y aplicaciones. 4ª ed. Barcelona: Masson; 2015
 M   MacEntee,  F  Müller,  Chris  Wyatt.  Oral  Healthcare  and  the  Frail  Elder:  A  Clinical  Perspective.  Nov
 2010, Wiley-Blackwell
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Atlas de la Salud oral FDi
-
 Boca seca: actitud terapéutica. Guía clínica
 
 Cuenca   Sala  E,  Baça  Garcia  P,  editores.  Odontología  preventiva  y  comunitaria.  Principios,  métodos  y
@@ -32,4 +28,4 @@ https://seger.es/boca-seca-guia-clinica/
 
 https://www.fdiworlddental.org/sites/default/files/media/documents/book_spreads_oh2_spanish.pdf
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 71% [███████░░░]

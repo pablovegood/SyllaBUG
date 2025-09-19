@@ -2,31 +2,39 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (3):
 ------------------------------
 Fundamental   Medicina   interna.   Farreras/Rozman.   Ed.18ª.   Elsevier.  ISBN:  978-84-9022-996-5  (2016)
 Harrison.   Principios   de   medicina   interna.   Ed.   19ª.  Mc  Graw-Hill.  ISBN  978-607-15-1335-9  (2016)
 Tratado   de   medicina   interna.  Cecil-Goldman.  Ed.  24ª.  Elsevier.  ISBN:  :  9788480869713  Neurología  y
 neurocirugía   ilustrada   de   Lindsay,   Kenneth   W.   1993   Manual   de   Neurocirugía   M   Jouma  Katati.
-Coordinador   y   editor:   2018   Editorial   Avicam   ,  ISBN  978-84-17628-08-6  →  Harrison.  Principios  de
-medicina interna. Ed. 19ª. Mc Graw-Hill. ISBN 978-607-15-1335-9 (2016)
+Coordinador   y   editor:  2018  Editorial  Avicam  ,  ISBN  978-84-17628-08-6  Manual  de  Evaluación  Continua
+Neurocirugía   M   Jouma   Katati.  Coordinador  y  editor:  Editorial  Avicaml  2018,  ISBN  978-84-17628-32-1
+Neurología.   Zarranz,   J.   J.   Ed.   7ª.   Elservier.  ISBN:  9788413822792  (2024)  Tratado  de  neurología
+clínica. J. Pascual. Ars medica. ISBN: : 978-84-9751-395-1 Manual de Patología del Sistema Nervioso.
+Geriatría. Editorial Técnica Avicam, Granada
 
-✅ Recursos añadidos:
+Handbook   of  Neurosurgery  Greenberg,  M.,  Mayo  2016  .Edición  8ª  Historia  clínica  y  exploración  física
+en   medicina.   Luis   Aliaga.   Editorial   Técnica   Avicam   2024  Granada:  ISBN  9788410081024  Bradley's
+Neurology   in  Clinical  Practice(  BradleBy  Joseph  Jankovic,  John  C  Mazziotta,  MD,  PhD,  Scott  Pomeroy,
+MD, PhD and Nancy J. Newman, MD. Ed. Elservier. Ed.8ª 2022
+
+ISBN:   978-84-942242-4-9  Infecciones  del  Sistema  Nervioso  Central.  Editorial  Técnica  Avicam,  Granada
+ISBN:   978-84-18792-78-6   Brocklehurst's.   Geriatría.   Marbán.   2007   Vaquero   Crespo   J.   Patología
+quirúrgica del Sistema Nervioso. Ed. Universitaria Ramon Areces. Madrid.2006
+
+📚 Recursos sin cambios (1):
 ------------------------------
 Bradley's   Neurology   in   Clinical   Practice.   By   Joseph  Jankovic,  John  C  Mazziotta,  MD,  PhD,  Scott
 Pomeroy, MD, PhD and Nancy J. Newman, MD. Ed. Elservier. Ed.8ª 2022. ISBN: 9788413822259
 
+✅ Recursos añadidos (15):
+------------------------------
 Brocklehurst's. Geriatría. Marbán. 2007
 
 Handbook of Neurosurgery Greenberg, M., Mayo 2016 .Edición 8ª
+
+Harrison. Principios de medicina interna. Ed. 19ª. Mc Graw-Hill. ISBN 978-607-15-1335-9 (2016)
 
 Historia   clínica   y   exploración   física   en   medicina.   Luis  Aliaga.  Editorial  Técnica  Avicam  2024
 Granada: ISBN 9788410081024

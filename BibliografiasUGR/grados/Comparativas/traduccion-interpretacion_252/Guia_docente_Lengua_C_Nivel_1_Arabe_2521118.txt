@@ -2,19 +2,21 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 ABBOUD, P.F. y McCARUS, E. N., Elementary modern Standard Arabic, Cambridge: University Press.1983
 
 ABU-CHAKRA, F. Arabic: an essential grammar. New York: Routledge, 2007
 
+AGUILAR, V, et al. Paso a paso. Recurso electrónico
+
 ALI, Syed. Arabic for beginners. New York: Hippocrene Books, 2003
 
-ALOSH,   M.   Ahlan   wa-sahlan:   Functional   modern   standard   Arabic   for   beginners.  New  Haven,  Yale
+ALOSH,   M.   Ahlan   wa-sahlan:   Functional   modern   standard   Arabic   for  beginners.  New  Haven  ,  Yale
 University, 2000
 
 BRUSTAD,   K.,   AL-BATAL,  M.  y  AL-TONSI,  A.  Al-Kitaab  fii  Ta`allum  al-`Arabiyya  with  DVDs.  A  Textbook
@@ -34,12 +36,8 @@ Hispano Árabe,1991
 
 WEBER, N. La escritura árabe es fácil. Barcelona: Sirpus, 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-AGUILAR, V, et al. Paso a paso. Recurso electrónico
-
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

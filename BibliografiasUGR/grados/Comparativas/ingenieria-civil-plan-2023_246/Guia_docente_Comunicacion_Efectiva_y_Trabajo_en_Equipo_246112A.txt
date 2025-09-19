@@ -2,18 +2,25 @@
 Grado: ingenieria-civil-plan-2023 (246)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Recuperado   de  https://www.un.org/sustainabledevelopment/es/2015/09/  Compromiso  con  los  objetivos  de
+desarrollo sostenible, Barcelona: Bosch Editor, 2021
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
+Ballenato, G. (2011). Comunicación efectiva y trabajo en equipo. Paraninfo
+
+Ballenato, G. (2011). Trabajo en equipo: dinámica y participación en los grupos. Pirámide
+
 Bou Bauzá, G. (2004). Liderazgo estratégico para directivos, directores y dirigentes. Pirámide
 
 Carlos,   O.  C.  (2019).  Manual  de  comunicación.  Guía  para  gestionar  el  conocimiento,  la  información  y
 las relaciones humanos entre empresas y organizaciones. Madrid: Dykinson
 
 DuBrin, A. J. (2007). Relaciones humanas comportamiento humano en el trabajo. Pearson
+
+Fernández, M. (2015). Comunicación efectiva y trabajo en equipo. Paraninfo
 
 HARARI, A. 2015. Introducción a la comunicación oral. Ediciones del Aula Taller. Disponible en línea
 en   la   Biblioteca  de  la  Universidad  de  Granada  a  través  del  siguiente  enlace  [previa  conexión  VPN]:
@@ -22,12 +29,12 @@ https://elibro.net/es/lc/ugr/titulos/76258
 Hayes,   N.,   Alonso,   T.,   García-Tenorio   Ronda,   J.,  &  Pérez  Rodríguez,  M.  J.  (2002).  Dirección  de
 equipos de trabajo: una estrategia para el éxito. Thomson-Paraninfo
 
-Hillier-Fry,   C.  (2013):  “¿Globalización  o  localización?  La  perspectiva  del  capital  Humano”,  Harvard
-Deusto Business Review, nº 226, pp. 42-55
-
 LABORDA   GIL,  X.  2019.  Claves  de  comunicación  oral:  prácticas  para  el  orador  afable.  UOC.  Disponible
 en   línea   en   la   Biblioteca   de   la   Universidad   de  Granada  a  través  del  siguiente  enlace  [previa
 conexión VPN]: https://elibro.net/es/lc/ugr/titulos/120284
+
+ONU   Organización   Naciones   Unidas   (2015).   Objetivos   de   Desarrollo   Sostenible.   Recuperado   de
+https://www.un.org/sustainabledevelopment/es/2015/09/
 
 Peña, A. y Batalla, P. (2016). Dirección de comunicación y habilidades directivas. Madrid: Dykinson
 
@@ -44,21 +51,12 @@ y de innovación. McGraw-Hill/Interamericana
 
 Whetten, D. A., & Cameron, K. S. (2016). DESARROLLO DE HABILIDADES DIRECTIVAS (9a edición). Pearson
 
-🔁 Misma obra con edición/año distinto:
+enlace   [previa   conexión   VPN]:  https://elibro.net/es/lc/ugr/titulos/120284  Hillier-Fry,  C.  (2013):
+“¿Globalización   o  localización?  La  perspectiva  del  capital  Humano”,  Harvard  Deusto  Business  Review,
+nº 226, pp. 42-55
+
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Ballenato, G. (2011). Comunicación efectiva y trabajo en equipo. Paraninfo
-
-Ballenato, G. (2011). Trabajo en equipo: dinámica y participación en los grupos. Pirámide
-
 Compromiso con los objetivos de desarrollo sostenible, Barcelona: Bosch Editor, 2021
 
-Fernández, M. (2015). Comunicación efectiva y trabajo en equipo. Paraninfo
-
-ONU   Organización   Naciones   Unidas   (2015).   Objetivos   de   Desarrollo   Sostenible.   Recuperado   de
-https://www.un.org/sustainabledevelopment/es/2015/09/
-
-📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

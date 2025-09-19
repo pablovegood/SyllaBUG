@@ -2,11 +2,11 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Aliseda,   A.   (2014).   La   Lógica   como   Herramienta   de   la   Razón.   Razonamiento   Ampliativo  en  la
 Creatividad, la Cognición y la Inferencia. College Publications
@@ -28,6 +28,9 @@ Díez Calzada, J.A. (2002). Iniciación a la Lógica. Barcelona: Ariel
 
 Etchemendy, J. (1983). "The Doctrine of Logic as Form". En Linguistics and Philosophy 6: 319-334
 
+Frege,   G.   (1972).   Conceptografía.   Los   Fundamentos  de  la  Aritmética  y  Otros  Ensayos  Filosóficos.
+México: UNAM
+
 Frápolli,   M.J.   (2012).   "Qué   son   las   constantes  lógicas".  En  Crítica.  Revista  Iberoamericana  de
 Filosofía. Vol. 44, No. 132: 65-99
 
@@ -41,6 +44,9 @@ Kneale, W. & Kneale, M. (1971/1985). The development of logic. Oxford, Clarendon
 Mosterín, J. y Torretti, R. (2002). Diccionario de lógica y filosofía de la ciencia. Madrid: Alianza
 Universidad
 
+Peirce,   C.S.   (1877).   "The   Fixation   of   Belief".  En  Popular  Science  Monthly,  12,  pp.  1-15.  [Aquí
+podréis encontrar una traducción al español: http://www.unav.es/gep/Peirce-esp.html ]
+
 Sperber,   D.,   Cara,   F.,   Girotto,   V.   (1995).   "Relevance  theory  explains  the  selection  task".  En
 Cognition, 57, pp. 31-95
 
@@ -49,19 +55,12 @@ Toulmin, S. (1958). The Uses of Argument. Cambridge University Press
 Vega   Reñón,   L.   y   Olmos   Gómez,   P.  (eds.)  (2012).  Compendio  de  Lógica,  Argumentación  y  Retórica.
 Madrid: Trotta
 
-🔁 Misma obra con edición/año distinto:
+[Aquí podréis encontrar una traducción al español: http://www.unav.es/gep/Peirceesp.html] Tarski, A.
+y   Corcoran,   J.   (ed.)(1986).   "What   are   logical  notions?"  En  History  and  Philosophy  of  Logic,  7:
+143-54
+
+✅ Recursos añadidos (0):
 ------------------------------
-Peirce,   C.S.   (1877).  "The  Fixation  of  Belief".  En  Popular  Science  Monthly,  12,  pp.  1-15.  esp.html]
-Tarski,   A.   y   Corcoran,   J.   (ed.)(1986).  "What  are  logical  notions?"  En  History  and  Philosophy  of
-Logic,   7:   143-54   →   Tarski,  A.  y  Corcoran,  J.  (ed.)(1986).  "What  are  logical  notions?"  En  History
-and Philosophy of Logic, 7: 143-54
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Frege,   G.   (1972).   Conceptografía.   Los   Fundamentos  de  la  Aritmética  y  Otros  Ensayos  Filosóficos.
-México: UNAM
-
-Peirce,   C.S.   (1877).   "The   Fixation   of   Belief".  En  Popular  Science  Monthly,  12,  pp.  1-15.  [Aquí
-podréis encontrar una traducción al español: http://www.unav.es/gep/Peirce-esp.html ]
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

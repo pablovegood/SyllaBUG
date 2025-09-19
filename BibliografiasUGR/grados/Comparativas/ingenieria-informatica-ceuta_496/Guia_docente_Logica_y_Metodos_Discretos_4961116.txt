@@ -2,13 +2,26 @@
 Grado: ingenieria-informatica-ceuta (496)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Academic   Press,   1973  García  Miranda,  J.  Lógica  para  informáticos  y  otras  herramientas  matemáticas.
+Flemming, 2017
 
-📚 Recursos sin cambios:
+Grimaldi,   R.   P.   Matemática   Discreta   y   Combinatoria.   Addison-Wesley,  1997  Hortalá  T;  Martí,  N;
+Palomino,   M;   Rodríguez,  M;  del  Vado,  R.  Lógica  Matemática  para  Informáticos.  Ejercicios  resueltos.
+Prentice Hall Pearson, 2008
+
+Jiménez   Murillo,   J.A.   Matemáticas   para   informática.  Marcombo.  2015  Lipschutz,  S.  2000  problemas
+resueltos   de   matemática   discreta.   McGraw   Hill,   2004   Rosen,   K.H.   Matemática   Discreta   y  sus
+aplicaciones. McGraw Hill, 2003
+
+Paraninfo,   2003   Permingeat,   N;   Glaude,   D.   Álgebra   de   Boole:   Teoría,   Métodos   de   Cálculo  y
+Aplicaciones. Vicens Vives, 1992
+
+📚 Recursos sin cambios (4):
 ------------------------------
-Biggs, N. L. Matemática Discreta. Vicens Vives, 1998
+Biggs,   N.   L.   Matemática   Discreta.   Vicens  Vives,  1998  Chin-Lliang,  C;  Char-Tung  Lee,  R.  Symbolic
+Logic and Mechanicasl Theorem Proving
 
 Gunderson, D.S. Handbook of mathematical induction: theory and applications. CRC Press, 2016
 
@@ -16,34 +29,24 @@ Martínez Rey, M.A. Lógica formal y no formal. Ediciones CEF. 2023
 
 Paniagua, E; Sánchez González, J.L; Martín Rubio, F. Lógica computacional. Ed. Paraninfo, 2003
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Paraninfo,   2003   Permingeat,   N;   Glaude,   D.   Álgebra   de   Boole:   Teoría,   Métodos   de   Cálculo  y
-Aplicaciones   →   Permingeat,   N;   Glaude,   D.   Álgebra   de   Boole:   Teoría,   Métodos   de   Cálculo   y
-Aplicaciones. Vicens Vives, 1992
-
-Grimaldi,   R.   P.   Matemática   Discreta   y   Combinatoria.   Addison-Wesley,  1997  Hortalá  T;  Martí,  N;
-Palomino,   M;   Rodríguez,  M;  del  Vado,  R.  Lógica  Matemática  para  Informáticos.  Ejercicios  resueltos.
-Prentice   Hall   Pearson,   2008  →  Grimaldi,  R.  P.  Matemática  Discreta  y  Combinatoria.  Addison-Wesley,
-1997
-
-Jiménez   Murillo,   J.A.   Matemáticas   para   informática.  Marcombo.  2015  Lipschutz,  S.  2000  problemas
-resueltos   de   matemática   discreta.   McGraw   Hill,   2004   Rosen,   K.H.   Matemática   Discreta   y  sus
-aplicaciones.   McGraw   Hill,   2003   →  Lipschutz,  S.  2000  problemas  resueltos  de  matemática  discreta.
-McGraw Hill, 2004
-
-Academic   Press,  1973  García  Miranda,  J.  Lógica  para  informáticos  y  otras  herramientas  matemáticas  →
-García Miranda, J. Lógica para informáticos y otras herramientas matemáticas. Flemming, 2017
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Chin-Lliang,   C;   Char-Tung   Lee,  R.  Symbolic  Logic  and  Mechanicasl  Theorem  Proving.  Academic  Press,
 1973
+
+García Miranda, J. Lógica para informáticos y otras herramientas matemáticas. Flemming, 2017
+
+Grimaldi, R. P. Matemática Discreta y Combinatoria. Addison-Wesley, 1997
 
 Hortalá   T;   Martí,   N;  Palomino,  M;  Rodríguez,  M;  del  Vado,  R.  Lógica  Matemática  para  Informáticos.
 Ejercicios resueltos. Prentice Hall Pearson, 2008
 
 Jiménez Murillo, J.A. Matemáticas para informática. Marcombo. 2015
+
+Lipschutz, S. 2000 problemas resueltos de matemática discreta. McGraw Hill, 2004
+
+Permingeat, N; Glaude, D. Álgebra de Boole: Teoría, Métodos de Cálculo y Aplicaciones. Vicens Vives,
+1992
 
 Rosen, K.H. Matemática Discreta y sus aplicaciones. McGraw Hill, 2003
 

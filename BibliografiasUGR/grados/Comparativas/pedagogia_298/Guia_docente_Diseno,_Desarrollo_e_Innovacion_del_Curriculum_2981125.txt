@@ -2,11 +2,29 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Coll,   C.;   Marchesi,  A.  y  Martin,  E.  (2022).  Nuevo  currículo,  nuevos  desafíos  educativos.  Editorial
+SM.   https://thrivu.grupo-sm.com/s/nuevo-curriculo?language=es   Connell,   R.   W.   (1997).  Escuelas  y
+justicia social. Morata
 
-📚 Recursos sin cambios:
+Pareja,   J.A,   Fernández,   M.  y  Fuentes,  J.  (2019).  Innovación  metodológica  en  posgrado:  aprendizaje
+basado en proyectos desde la interdisciplinariedad.Profesorado. Revista de Currículum y Formación de
+Profesorado,   23(3),   113-128.   DOI:   10.30827/profesorado.v23i3.9697   Pérez  Gómez,  J.  I.  (1994).  La
+cultura escolar en la sociedad posmoderna. Cuadernos de Pedagogía. Vol. 225
+
+Profesorado.    Revista    de    currículum    y    formación    de   profesorado.   VOL.   13,   Nº   3,   2009
+(http://www.ugr.es/~recfpro/rev133COL3.pdf) Pareja, J.A. (2011). Las comunidades de aprendizaje, una
+herramienta   contra   la   exclusión  social  del  alumnado  y  sus  familias.  En  M.  Lorenzo  et  al.  (Coord.)
+Las instituciones educativas ante la crisis económica. (pp.179-194). DaVinci
+
+http://www.ciees.edu.mx/ciees/documentos/publicaciones/seriedemateriales/serie24.pdf    Bolívar,    A.
+(2020).   Rediseñar  el  currículum  de  secundaria  desde  las  competencias  clave  para  la  vida.  Debates  em
+Educação,   12(Esp),  297-320.  Doi:  https://doi.org/10.28998/2175-6600.2020v12nEspp297-320  Bolivar,  A.
+(2021).   La   reforma  del  curriculum:  Capacitar  a  todos  con  las  competencias  clave  para  los  retos  del
+siglo XXI. En Indicadores del Sistema Educativo Español, 2021 (pp. 192-196)
+
+📚 Recursos sin cambios (43):
 ------------------------------
 Apple,   M.   (1995).   La   política  del  saber  oficial  ¿tiene  sentido  un  currículum  nacional?  En  AA.VV.
 Volver a pensar la educación. Política, educación y sociedad. Vol. 1. Morata
@@ -15,7 +33,14 @@ Apple, M. (2002). Educar “como Dios manda” Mercados, niveles, religión y de
 
 Apple, M. y Bean, J. (2022). Escuelas democráticas. Morata
 
+Arenas, M. (2011) De la Enseñanza al Aprendizaje Un nuevo paradigma para la educación
+
 Bernstein, B. (1993). La estructura del discurso pedagógico. Morata
+
+Bolivar, A. (2021). La reforma del curriculum: Capacitar a todos con las competencias clave para los
+retos   del   siglo   XXI.   En   Indicadores   del  Sistema  Educativo  Español,  2021  (pp.  192-196).  Madrid:
+Fundación       Ramón       Areces       y       Fundación      Europea      Sociedad      y      Educación.
+https://www.fundacionareces.es/fundacionareces/es/publicaciones/monografias-sobre-educacion/
 
 Bolivar,   A.  (2022).  Referentes  y  discursos  internacionales  presentes  en  el  currículum  de  la  LOMLOE.
 2022. 74-79
@@ -112,56 +137,39 @@ Escuela, 15
 Trillo   Alonso,  F.  (1994).  El  profesorado  y  el  desarrollo  curricular:  tres  estilos  de  hacer  escuela.
 Cuadernos de Pedagogía, Vol. 228
 
-🔁 Misma obra con edición/año distinto:
+Webinar:   Qué   currículo.   Un   debate   necesario.   D.   Francisco   Luna   Arcos.   Exdirector  ISEI-IVE.
+https://www.youtube.com/watch?v=1iQhtXTH6fs
+
+http://www.ciees.edu.mx/ciees/documentos/publicaciones/seriedemateriales/serie24.pdf
+
+https://www.fundacionareces.es/fundacionareces/es/publicaciones/monografias-sobreeducacion/ Bolívar,
+A.   (2022).   Referentes   y   discursos  internacionales  presentes  en  el  currículum  de  la  LOMLOE.  2022.
+Cuadernos de Pedagogía, 537, 74-79
+
+✅ Recursos añadidos (12):
 ------------------------------
-Arenas, M. (2011) De la Enseñanza al Aprendizaje Un nuevo paradigma para la educación. vida. Debates
-em   Educação,   12(Esp),   297-320.  Doi:  los  retos  del  siglo  XXI.  En  Indicadores  del  Sistema  Educativo
-Español,   2021   (pp.   192-196).   Madrid:   Fundación   Ramón   Areces   y   Fundación   Europea  Sociedad  y
-Educación.   educacion/   Bolívar,   A.   (2022).  Referentes  y  discursos  internacionales  presentes  en  el
-currículum   de   la  LOMLOE.  2022.  Cuadernos  de  Pedagogía,  537,  74-79  →  Bolívar,  A.  (2022).  Referentes
-y   discursos   internacionales  presentes  en  el  currículum  de  la  LOMLOE.  2022.  Cuadernos  de  Pedagogía,
-537, 74-79
-
-Profesorado.   Revista   de   currículum   y   formación  de  profesorado.  VOL.  13,  Nº  3,  2009  Pareja,  J.A.
-(2011).   Las   comunidades   de  aprendizaje,  una  herramienta  contra  la  exclusión  social  del  alumnado  y
-sus   familias.   En  M.  Lorenzo  et  al.  (Coord.)  Las  instituciones  educativas  ante  la  crisis  económica.
-(pp.179-194).   DaVinci   →   Pareja,   J.A.   (2011).   Las   comunidades   de  aprendizaje,  una  herramienta
-contra   la   exclusión   social   del   alumnado   y   sus   familias.   En   M.   Lorenzo  et  al.  (Coord.)  Las
-instituciones educativas ante la crisis económica. (pp.179-194). DaVinci
-
-Coll,   C.;   Marchesi,  A.  y  Martin,  E.  (2022).  Nuevo  currículo,  nuevos  desafíos  educativos.  Editorial
-Connell,   R.   W.   (1997).   Escuelas   y  justicia  social.  Morata  →  Coll,  C.;  Marchesi,  A.  y  Martin,  E.
-(2022).    Nuevo    currículo,    nuevos    desafíos   educativos.   Editorial   SM.   https://thrivu.grupo-
-sm.com/s/nuevo-curriculo?language=es
-
-Pareja,   J.A,   Fernández,   M.  y  Fuentes,  J.  (2019).  Innovación  metodológica  en  posgrado:  aprendizaje
-basado en proyectos desde la interdisciplinariedad.Profesorado. Revista de Currículum y Formación de
-Profesorado,   23(3),   113-128.   DOI:   10.30827/profesorado.v23i3.9697   Pérez  Gómez,  J.  I.  (1994).  La
-cultura   escolar   en   la   sociedad  posmoderna.  Cuadernos  de  Pedagogía  →  Pareja,  J.A,  Fernández,  M.  y
-Fuentes,   J.   (2019).   Innovación  metodológica  en  posgrado:  aprendizaje  basado  en  proyectos  desde  la
-interdisciplinariedad.Profesorado. Revista de Currículum y Formación de Profesorado, 23(3), 113-128.
-DOI: 10.30827/profesorado.v23i3.9697
-
-✅ Recursos añadidos:
-------------------------------
-Arenas, M. (2011) De la Enseñanza al Aprendizaje Un nuevo paradigma para la educación
-
-Bolivar, A. (2021). La reforma del curriculum: Capacitar a todos con las competencias clave para los
-retos   del   siglo   XXI.   En   Indicadores   del  Sistema  Educativo  Español,  2021  (pp.  192-196).  Madrid:
-Fundación       Ramón       Areces       y       Fundación      Europea      Sociedad      y      Educación.
-https://www.fundacionareces.es/fundacionareces/es/publicaciones/monografias-sobre-educacion/
-
 Bolívar, A. (2020). Rediseñar el currículum de secundaria desde las competencias clave para la vida.
 Debates em Educação, 12(Esp), 297-320. Doi: https://doi.org/10.28998/2175-6600.2020v12nEspp297-320
 
 Castan,   J.L.,  Luengo,  F.,  Barea,  C.  y  Moya,  J.  (2024).  Guía  para  el  desarrollo  del  &nuevo  currículo
 en los centros. Proyecto Atlántida, USIE y ADIDE
 
+Coll,   C.;   Marchesi,  A.  y  Martin,  E.  (2022).  Nuevo  currículo,  nuevos  desafíos  educativos.  Editorial
+SM. https://thrivu.grupo-sm.com/s/nuevo-curriculo?language=es
+
 Connell, R. W. (1997). Escuelas y justicia social. Morata
 
 Moya, J. & Luengo, F. (2021). Educar para el siglo XXI. Reformas y mejoras. Grupo Anaya
 
 Moya, J. & Luengo, F. (2023). Desarrollo curricular LOMLOE. Teoría y práctica. Grupo Anaya
+
+Pareja,   J.A,   Fernández,   M.  y  Fuentes,  J.  (2019).  Innovación  metodológica  en  posgrado:  aprendizaje
+basado en proyectos desde la interdisciplinariedad.Profesorado. Revista de Currículum y Formación de
+Profesorado, 23(3), 113-128. DOI: 10.30827/profesorado.v23i3.9697
+
+Pareja,   J.A.  (2011).  Las  comunidades  de  aprendizaje,  una  herramienta  contra  la  exclusión  social  del
+alumnado   y   sus  familias.  En  M.  Lorenzo  et  al.  (Coord.)  Las  instituciones  educativas  ante  la  crisis
+económica. (pp.179-194). DaVinci
 
 Posner, G.J. (2005). Análisis del currículo. McGraw-Hill Interamericana
 
@@ -172,9 +180,4 @@ Ramírez, M.S & Valenzuela, J.R. (2017). Innovación educativa. Editorial Sínte
 
 Tejada, J. (1998). Los agentes de la innovación en los centros educativos. Aljibe
 
-Webinar:   Qué   currículo.   Un   debate   necesario.   D.   Francisco   Luna   Arcos.   Exdirector  ISEI-IVE.
-https://www.youtube.com/watch?v=1iQhtXTH6fs
-
-http://www.ciees.edu.mx/ciees/documentos/publicaciones/seriedemateriales/serie24.pdf
-
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]

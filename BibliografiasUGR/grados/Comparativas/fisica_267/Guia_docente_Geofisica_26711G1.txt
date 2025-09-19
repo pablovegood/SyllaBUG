@@ -2,11 +2,12 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Stacey,   F.   D.   &   Davis,   P.  M.  (2008).  "Physics  of  the  Earth"  (4th  edition),  Cambridge  University
+Press Udías, A., Mezcua, J. (1997). "Fundamentos de Geofísica", Alianza Editorial
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Bolt, B.A. (1981). “Terremotos”, Editorial Reverte
 
@@ -64,15 +65,11 @@ Udías, A., Buforn, E. (2017). “Principles of Seismology” (2nd edition), Cam
 
 Yeats, R. S., Sieh, K. E., Allen, C. R. (1997). “Geology of earthquakes”, Oxford University Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Stacey,   F.   D.   &   Davis,   P.  M.  (2008).  "Physics  of  the  Earth"  (4th  edition),  Cambridge  University
-Press   Udías,   A.,   Mezcua,   J.   (1997).   "Fundamentos  de  Geofísica",  Alianza  Editorial  →  Udías,  A.,
-Mezcua, J. (1997). "Fundamentos de Geofísica", Alianza Editorial
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Stacey,   F.   D.   &   Davis,   P.  M.  (2008).  "Physics  of  the  Earth"  (4th  edition),  Cambridge  University
 Press
 
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+Udías, A., Mezcua, J. (1997). "Fundamentos de Geofísica", Alianza Editorial
+
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

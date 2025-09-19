@@ -2,25 +2,63 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-10.5351/kjas.2010.23.6.1217   Consalvo,  M.  (2009).  There  is  No  Magic  Circle.  Games  and  Culture,  4(4),
-408-417. doi
+Ang,   C.   S.,   Zaphiris,  P.,  &  Wilson,  S.  (2010).  Computer  Games  and  Sociocultural  Play:  An  Activity
+Theoretical Perspective. Games and Culture, 5(4), 354-380. doi: 10.1177/1555412009360411 Bantulá, J.
+(2009). Juegos motrices cooperativos. Barcelona: Paidotribo
 
-Fernández-Revelles,   A.   B.,   Viciana-Garófano,  V.,  Espejo-Garcés,  T.,  &  González-Valero,  G.  (2017).
-Methdology   for   planning   and   time   management   in   Motor   Games.   Sports  Filho,  E.,  Bertollo,  M.,
-Tamburro, G., Schinaia, L., Chatel-Goldman, J., di Fronso, S., . .
+Engeström,    Y.    (2001).    Expansive    Learning    at    Work:    Toward    an    activity    theoretical
+reconceptualization.   Journal   of  Education  and  Work,  14(1),  133-156.  doi:  10.1080/13639080020028747
+Retrieved 30/06/2020 Retrieved 30/06/2020 Mecanismos generales. Retrieved 30/06/2020 Socializadores.
+Retrieved    30/06/2020   Triunfador.   Retrieved   30/06/2020   Libre.   Retrieved   30/06/2020   Retrieved
+30/06/2020
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
-10.3389/fpsyg.2016.01654   Bravo,  R.,  Fernández,  E.,  &  Merino,  R.  (1999).  El  juego:  medio  educativo  y
-de aplicación a Brueghel, P. (1560). Juego de niños. Netherlands: Wien, Kunsth.Mus.,Neue Galerie
+Bedwell, W. L., Pavlas, D., Heyne, K., Lazzara, E. H., & Salas, E. (2012). Toward a Taxonomy Linking
+Game Attributes to Learning. Simulation & Gaming, 43(6), 729-760. doi: 10.1177/1046878112439444
+
+Fernández-Revelles, A. B. (2020). Juegos Motores - La lógica del Juego Motor. Zenodo
+
+Retrieved   30/06/2020   Disruptor.   Retrieved  30/06/2020  Fernández-Revelles,  A.  B.  (2020).  Cómo  hacer
+índice o tabla de contenido en Google Docs
+
+Retrieved 30/06/2020 Fernández-Revelles, A. B. (2020). Guia docente de Juegos Motores. Zenodo
+
+Retrieved   30/06/2020   Retrieved   30/06/2020   Retrieved   30/06/2020   Retrieved   30/06/2020  Retrieved
+30/06/2020   Retrieved   30/06/2020   Juegos   Motores.   Retrieved   30/06/2020  Juegos  Motores.  Retrieved
+30/06/2020   Juegos  Motores.  Retrieved  30/06/2020  Retrieved  30/06/2020  Retrieved  30/06/2020  Retrieved
+30/06/2020 Motores. Retrieved 30/06/2020 Motores. Retrieved 30/06/2020 Motores. Retrieved 30/06/2020
+calificaciones   de   los   Juegos   Motores.  Retrieved  30/06/2020  calificaciones  de  los  Juegos  Motores.
+Retrieved    30/06/2020,    calificaciones    de    los    Juegos   Motores.   Retrieved   30/06/2020,   from
+https://youtu.be/wdPQe4TXyg4        Juegos        Motores.        Retrieved        30/06/2020,       from
+https://youtu.be/3biEbYT2QG0?t=860       Juegos       Motores.       Retrieved      30/06/2020,      from
+https://youtu.be/UuxLlPUjZhY?t=455       Juegos       Motores.       Retrieved      30/06/2020,      from
+https://youtu.be/vG1EKKB55Jk?t=1069 Fernández-Revelles, A. B. (2020). Presentación de Juegos Motores
+19-20.   Retrieved   30/06/2020,   from   https://youtu.be/Vb9zMuFcahA  Fernández-Revelles,  A.  B.,  Cueto-
+Martín, B., & García-Ramos, A. (2020). Adenda a la
+
+doi:   10.1177/1046878112439444   Blázquez,  D.  (1986).  Iniciación  a  los  deportes  de  equipo.  Barcelona:
+Martínez Roca
+
+✅ Recursos añadidos (294):
+------------------------------
+Abt, C. C. (1970). Serious Games. NY:New York: The Viking Press, Inc
 
 Agudo,   D.,   Mínguez,  R.,  Rojas,  C.,  Ruíz,  M.,  Salvador,  R.,  &  Tomás,  J.  (2002).  Juegos  de  todas  las
 culturas. Juegos, danzas, música… desde una perspectiva intercultural. Barcelona: INDE
 
 Aldred,   J.,   &  Greenspan,  B.  (2011).  A  Man  Chooses,  A  Slave  Obeys:  BioShock  and  the  Dystopian  Logic
 of Convergence. Games and Culture, 6(5), 479-496. doi: 10.1177/1555412011402674
+
+Andersen,   K.   T.,   Zeng,   Y.   F.,   Christensen,   D.   D.,  &  Tran,  D.  (2009).  Experiments  with  online
+reinforcement learning in real-time strategy games. Applied Artificial Intelligence, 23(9), 855-871.
+doi: 10.1080/08839510903246526
+
+Andújar,   I.,  &  Brasó,  J.  (2017).  La  lógica  interna  en  Los  Juegos  de  niños  (1560)  de  Peter  Brueghel.
+RICYDE.     Revista     internacional     de     ciencias     del     deporte,    13(50),    426-441.    doi:
+https://dialnet.unirioja.es/descarga/articulo/6152877.pdf
 
 Ang,   C.   S.,   Zaphiris,  P.,  &  Wilson,  S.  (2010).  Computer  Games  and  Sociocultural  Play:  An  Activity
 Theoretical Perspective. Games and Culture, 5(4), 354-380. doi: 10.1177/1555412009360411
@@ -30,6 +68,8 @@ Arráez, J. M. (1997). ¿Puedo jugar yo? Granada: Proyecto Sur
 Ash,   J.   (2013).   Technologies   of   Captivation:   Videogames   and   the  Attunement  of  Affect.  Body  &
 Society, 19(1), 27-51. doi: 10.1177/1357034x11411737
 
+Bantula, J. (2007). Juegos motrices cooperativos. Barcelona: Paidotribo
+
 Bantulá, J. (2009). Juegos motrices cooperativos. Barcelona: Paidotribo
 
 Bantulá, J., & Mora, J. (2002). Juegos multiculturales. Barcelona: Paidotribo
@@ -37,7 +77,11 @@ Bantulá, J., & Mora, J. (2002). Juegos multiculturales. Barcelona: Paidotribo
 Baroja,   V.,   &   Sebastiani,  E.  (1996).  Unidades  didácticas  para  Secundaria  IV.  Jugar,  jugar,  jugar.
 Barcelona: INDE
 
-Blázquez, D. (1986). Iniciación a los deportes de equipo. Barcelona: Martínez Roca
+Bell,   H.  C.,  Pellis,  S.  M.,  &  Kolb,  B.  (2010).  Juvenile  peer  play  experience  and  the  development  of
+the   orbitofrontal   and   medial   prefrontal  cortices.  Behavioural  Brain  Research,  207(1),  7-13.  doi:
+10.1016/j.bbr.2009.09.029
+
+Blández, J. (1996). La investigación-acción: un reto para el profesorado. Barcelona: INDE
 
 Bogost, I. (2009). Videogames are a mess. Paper presented at the DiGRA 2009, Brunel University, West
 London, UK
@@ -45,6 +89,11 @@ London, UK
 Bonaiuto,    M.,   Mao,   Y.   H.,   Roberts,   S.,   Psalti,   A.,   Ariccio,   S.,   Cancellieri,   U.   G.,   &
 Csikszentmihalyi,   M.   (2016).  Optimal  Experience  and  Personal  Growth:  Flow  and  the  Consolidation  of
 Place Identity. Frontiers in Psychology, 7, 12. doi: 10.3389/fpsyg.2016.01654
+
+Bravo,   R.,   Fernández,   E.,   &   Merino,   R.  (1999).  El  juego:  medio  educativo  y  de  aplicación  a  los
+bloques de contenido. Málaga: Aljibe
+
+Brueghel, P. (1560). Juego de niños. Netherlands: Wien, Kunsth.Mus.,Neue Galerie
 
 Bustos,   M.  A.,  Carrión,  M.  E.,  García  Marugán,  J.  C.,  Guzmán,  J.  F.,  Irigoyen,  A.,  Larraya,  I.,  .  .
 .   Zoroza,   A.   (1999).   Juegos   populares.  Una  propuesta  práctica  para  la  Educación  Física.  Madrid:
@@ -57,6 +106,9 @@ Cho,   D.   (2010).   Decision   Making   through  the  Game  of  Scissors-Paper
 Journal of Applied Statistics, 23(6), 1217-1224. doi: 10.5351/kjas.2010.23.6.1217
 
 Chávez, R. (1964). El juego en la Educación Física. Madrid: Doncel
+
+Consalvo,    M.    (2009).   There   is   No   Magic   Circle.   Games   and   Culture,   4(4),   408-417.   doi:
+10.1177/1555412009343575
 
 Cordovil,   R.,   Lopes,   F.,  Quiterio,  A.,  Sandseter,  E.,  &  Hagen,  T.  (2019).  Can  We  Go  Out  and  Play?
 Parental   Barriers   to  Children's  Play  Outside  in  5  Different  Countries.  Journal  of  Sport  &  Exercise
@@ -82,6 +134,12 @@ aspects (material). Sports Science 3.0, 3(2), 256-295
 
 Cueto-Martín, B., & Fernández-Revelles, A. B. (2019). Compilation of Motor Games according to formal
 aspects (number of participants). Sports Science 3.0, 3(1), 189-223
+
+Cueto-Martín,   B.,   &   Fernández-Revelles,   A.   B.   (2019).   Compilation  of  Motor  Games  according  to
+mechanical aspects. Sports Science 3.0, 3(2), 381-402
+
+Cueto-Martín,   B.,   &   Fernández-Revelles,   A.   B.   (2019).   Selection   of   Motor  Games  according  to
+competitive content. Sports Science 3.0, 3(1), 21-41
 
 Cueto-Martín,   B.,   &   Fernández-Revelles,   A.   B.   (2019).   Selection   of   Motor  Games  according  to
 emotional content. Sports Science 3.0, 3(1), 115-138. doi: http://hdl.handle.net/10481/59915
@@ -115,7 +173,17 @@ Devis,   J.,   &   Sánchez,  R.  (1996).  La  enseñanza  alternativa  de  los 
 modelos   actuales   de   iniciación   y   reflexiones  finales.  In  J.  A.  Moreno  &  P.  L.  Rodríguez  (Eds.),
 Aprendizaje deportivo. Murcia: Universidad de Murcia
 
+Dyson,   B.   J.,   Wilbiks,   J.   M.   P.,   Sandhu,   R.,  Papanicolaou,  G.,  &  Lintag,  J.  (2016).  Negative
+outcomes   evoke  cyclic  irrational  decisions  in  Rock,  Paper,  Scissors.  Scientific  Reports,  6,  6.  doi:
+10.1038/srep20479
+
+Elloumi,   A.,   &   Parlebas,  P.  (2009).  Análisis  sociocultural  de  los  juegos  deportivos  tradicionales
+tunecinos. Acciónmotriz(3), 54-67
+
 Engeser, S. (2012). Advances in Flow Research. London: Springer
+
+Engeser,   S.,   &   Rheinberg,  F.  (2008).  Flow,  performance  and  moderators  of  challenge-skill  balance.
+Motivation and Emotion, 32(3), 158-172. doi: 10.1007/s11031-008-9102-4
 
 Engeström,    Y.    (2001).    Expansive    Learning    at    Work:    Toward    an    activity    theoretical
 reconceptualization. Journal of Education and Work, 14(1), 133-156. doi: 10.1080/13639080020028747
@@ -131,21 +199,85 @@ marbles. Personal and Ubiquitous Computing, 16(4), 391-404. doi: 10.1007/s00779-
 Feezell,   R.   (2010).   A   Pluralist   Conception   of  Play.  Journal  of  the  Philosophy  of  Sport,  37(2),
 147-165
 
+Fernandez-Revelles,   A.   B.,   Cueto-Martín,   B.,   &   Fernandez-Ortega,  J.  (2025).  Tabla  Periódica  de
+Mecanismos y Dinámicas de Juegos Motores - 3D . https://doi.org/10.5281/zenodo.15002810
+
+Fernandez-Revelles,   A.   B.,   Cueto-Martín,   B.,   &   Fernandez-Ortega,  J.  (2025).  Tabla  Periódica  de
+Mecanismos y Dinámicas de Juegos Motores - Básica . https://doi.org/10.5281/zenodo.15002684
+
+Fernandez-Revelles,   A.   B.,   Cueto-Martín,   B.,   &   Fernandez-Ortega,  J.  (2025).  Tabla  Periódica  de
+Mecanismos y Dinámicas de Juegos Motores - Clásica . https://doi.org/10.5281/zenodo.15002383
+
 Fernández-Revelles, A. B. (1991). Fichas de Juegos Motores curso 1990-91. Unpublished. INEF. Granada
 
 Fernández-Revelles,   A.   B.  (2003).  Efectos  del  conocimiento  de  resultados  de  los  índices  temporales
 de   eficacia   sobre   la   competencia   docente   Tiempo.  (Ph.D.  Thesis  Tesis),  Universidad  de  Granada,
 Granada
 
+Fernández-Revelles, A. B. (2006). YouTube: Canal personal de Andrés B. Fernández Revelles. Retrieved
+1/09/2019, from https://www.youtube.com/user/andresbfernandez
+
+Fernández-Revelles,   A.   B.   (2008).   Arena:   simbología   específica  para  diseño  de  tareas  motrices.
+Granada: Fernández Revelles, Andrés B
+
+Fernández-Revelles,   A.   B.   (2008).   Arena:   simbología   específica  para  diseño  de  tareas  motrices.
+Retrieved 10/2017, from www.ugr.es/local/abfr/arena
+
+Fernández-Revelles, A. B. (2008). Competencia docente tiempo en educación física. Granada: Fernández
+Revelles, Andrés Bernardo
+
 Fernández-Revelles, A. B. (2008). Conocimiento de resultados en educación física. Granada: Fernández
 Revelles, Andrés Bernardo
+
+Fernández-Revelles,   A.   B.  (2008).  Descripción  de  una  tarea.  Granada:  Fernández  Revelles,  Andrés  B.
+Retrieved from https://www.ugr.es/local/abfr/tarea/
+
+Fernández-Revelles,    A.    B.    (2008).    Descripción    de    una    tarea.   Retrieved   10/2017,   from
+http://www.ugr.es/local/abfr/tarea/
+
+Fernández-Revelles,   A.  B.  (2008).  El  tiempo  en  la  clase  de  educación  física:  la  competencia  docente
+tiempo. Deporte y actividad física para todos, 4, 102-120
+
+Fernández-Revelles,    A.    B.    (2008).   Tiempo   de   Educación   Física,   Competencia   Docente.   from
+www.ugr.es/local/abfr/TESIS_Andres_B_Fdez_Revelles/index_abierto2.html
+
+Fernández-Revelles,   A.   B.   (2008).   Tiempo   en   Educación   Física,   Competencia   Docente.  Granada:
+Fernández Revelles, Andrés Bernardo
 
 Fernández-Revelles,   A.   B.   (2012).   ABFR-Index:   correlación   entre  producción  científica  y  Juegos
 Olímpicos 2008. Habilidad Motriz, 38, 51-57. doi: http://hdl.handle.net/10481/29520
 
+Fernández-Revelles,   A.   B.  (2013).  YouTube:  Juegos  Motores  -  Motor  Games.  Retrieved  1/09/2017,  from
+https://www.youtube.com/user/juegosmotores
+
+Fernández-Revelles,   A.   B.   (2013,   12/07/2013).   Tiempo   de  Educación  Física,  Competencia  Docente.
+Retrieved 12/07/2013, from http://www.ugr.es/local/abfr/tiempo.html
+
+Fernández-Revelles, A. B. (2014). ABFR-Index: Correlation between "Soccer" scientific production and
+ranking.   Revista  Internacional  De  Medicina  Y  Ciencias  De  La  Actividad  Fisica  Y  Del  Deporte,  14(56),
+705-718
+
+Fernández-Revelles,   A.   B.   (2014).   Juegos  Motores  -  Vídeos  (Blog  -  Blogger).  Retrieved  1/09/2019,
+from http://juegosmotores2.blogspot.com.es/
+
+Fernández-Revelles, A. B. (2015). Descripción de un Juego Motor. Granada: Fernández Revelles, Andrés
+B. Retrieved from https://www.ugr.es/local/abfr/DJM/
+
+Fernández-Revelles,   A.   B.   (2015).   Sports  Science  -  Póster  (Blog  -  Blogger).  Retrieved  1/09/2019,
+from http://juegosmotores2.blogspot.com.es/
+
+Fernández-Revelles,   A.   B.   (2016).   Juego   Motor-Modelo   Conceptual  orientado  a  la  experiencia  del
+Jugador
+
 Fernández-Revelles,   A.   B.   (2017).   Correlation  between  phases  and  final  result  in  Men's  triathlon
 competition at the Olympic Games in Sydney 2000. Retos-Nuevas Tendencias En Educacion Fisica Deporte
 Y Recreacion(32), 167-171
+
+Fernández-Revelles,   A.   B.   (2017).   Diagrams   in   Motor   Games   to   indicate   their   structure  and
+classification. Sports Science 3.0, 1(1), 71-110. doi: http://hdl.handle.net/10481/51087
+
+Fernández-Revelles,   A.   B.   (2017).   Diagrams   in   Motor   Games   to   represent   tracks,   fields  and
+facilities. Sports Science 3.0, 1(1), 286-306. doi: http://hdl.handle.net/10481/51095
 
 Fernández-Revelles, A. B. (2017). Diagrams in Motor Games to symbolize reduced situations of game in
 attack. Sports Science 3.0, 1(1), 122-247. doi: http://hdl.handle.net/10481/51093
@@ -159,11 +291,26 @@ Fernández-Revelles,   A.   B.  (2017).  Diagrams  in  Motor  Games  to  symboli
 Fernández-Revelles,   A.   B.   (2017).  Diagrams  to  represent  sports  material  of  Physical  Education  and
 Motor Games. Sports Science 3.0, 1(1), 307-324. doi: http://hdl.handle.net/10481/51096
 
+Fernández-Revelles,   A.   B.   (2017).   Juegos   Motores   (Blog   -   Tumblr).   Retrieved  1/09/2017,  from
+https://www.pinterest.es/juegosmotores/
+
 Fernández-Revelles,    A.    B.    (2017).    Juegos   Motores   (Pinterest).   Retrieved   1/09/2017,   from
 https://juegosmotores.tumblr.com/
 
+Fernández-Revelles,    A.    B.    (2017).    Juegos    Motores    (Twitter).   Retrieved   1/09/2017,   from
+https://twitter.com/juegosmotores
+
+Fernández-Revelles,   A.  B.  (2017).  Sports  Science  3.0  (Revista)  (http://digibug.ugr.es/handle/10481/
+ed.). Granada: Digibug. Universidad de Granada
+
+Fernández-Revelles,   A.   B.  (2017).  Time  in  Motor  Games  (Tiempo  en  Juegos  Motores).  RRID:SCR_015819.
+http://www.ugr.es/local/abfr/tiempojm
+
 Fernández-Revelles,   A.   B.   (2018).   Training   and   progression  juggle  3  balls  active  bounce  on  the
 floor. Sports Science 3.0, 2(2), 94-110. doi: http://hdl.handle.net/10481/55626
+
+Fernández-Revelles, A. B. (2018). Training and progression juggle 3 balls bounce on the floor active
+supination. Sports Science 3.0, 2(2), 143-160. doi: http://hdl.handle.net/10481/55629
 
 Fernández-Revelles,   A.  B.  (2018).  Training  and  progression  juggle  3  balls  with  imperative  bounce  on
 the floor. Sports Science 3.0, 2(2), 127-142. doi: http://hdl.handle.net/10481/55628
@@ -182,6 +329,9 @@ Fernández-Revelles,   A.  B.  (2018).  Training  and  progression  of  juggling
 cycles     with     two     balls     in    each    hand.    Sports    Science    3.0,    2(1),    1-13.    doi:
 http://hdl.handle.net/10481/55620
 
+Fernández-Revelles,   A.   B.   (2018).   Training   and  progression  of  juggling  with  3  balls  in  columns.
+Sports Science 3.0, 2(1), 32-48. doi: http://hdl.handle.net/10481/55622
+
 Fernández-Revelles,   A.   B.   (2018).   Training  and  progression  of  juggling  with  3  balls  in  shower  or
 wheel    (ACD)    in    the    anti-clockwise    direction.    Sports    Science   3.0,   2(1),   64-78.   doi:
 http://hdl.handle.net/10481/55624
@@ -199,19 +349,95 @@ bounce on the table. Sports Science 3.0, 2(2), 161-178. doi: http://hdl.handle.n
 Fernández-Revelles,       A.       B.       (2019).       Malabares.      Retrieved      09/2019,      from
 https://sites.google.com/go.ugr.es/arena-pizarra/
 
+Fernández-Revelles,   A.   B.   (2019).   Tema   2-1   Logica   del  Juego  Elementos  Estructurales  Retrieved
+30/06/2020
+
+Fernández-Revelles,   A.   B.   (2019).   Tema   2-1   Lógica   del  Juego  Elementos  Estructurales  Retrieved
+30/06/2020, from https://youtu.be/t6IrdoatI5I
+
+Fernández-Revelles,   A.   B.   (2019).   Tema   2-2  JM  Logica  Elementos  Funcionales  y  sociales  Retrieved
+30/06/2020
+
+Fernández-Revelles,   A.   B.   (2019).   Tema   2-2  JM  Lógica  Elementos  Funcionales  y  sociales  Retrieved
+30/06/2020, from https://youtu.be/9HcwABCXpqo
+
+Fernández-Revelles,   A.   B.   (2019).   Tema  2-3  JM  Juegos  Motores  Recompensas  y  Mecanismos  generales.
+Retrieved 30/06/2020
+
+Fernández-Revelles,   A.   B.   (2019).   Tema  2-3  JM  Juegos  Motores  Recompensas  y  Mecanismos  generales.
+Retrieved 30/06/2020, from https://youtu.be/Ohxr3n6JLdY
+
+Fernández-Revelles,   A.   B.   (2019).  Tema  2-4  JM  Juegos  Motores  Mecanismos  Socializadores.  Retrieved
+30/06/2020
+
+Fernández-Revelles,   A.   B.   (2019).  Tema  2-4  JM  Juegos  Motores  Mecanismos  Socializadores.  Retrieved
+30/06/2020, from https://youtu.be/SNg9sqROTG0
+
+Fernández-Revelles,   A.   B.   (2019).  Tema  2-5  JM  Juegos  Motores  Mecanismos  del  Triunfador.  Retrieved
+30/06/2020
+
+Fernández-Revelles,   A.   B.   (2019).  Tema  2-5  JM  Juegos  Motores  Mecanismos  del  Triunfador.  Retrieved
+30/06/2020, from https://youtu.be/m4BegqsFRQU
+
+Fernández-Revelles,   A.   B.   (2019).   Tema   2-6   JM   Juegos   Motores   Mecanismos  del  Espiritu  Libre.
+Retrieved 30/06/2020
+
 Fernández-Revelles,   A.   B.   (2019).   Tema   2-6   JM   Juegos   Motores   Mecanismos  del  Espíritu  Libre.
 Retrieved 30/06/2020, from https://youtu.be/l6tHoK5AMrM
+
+Fernández-Revelles,   A.   B.   (2019).   Tema  2-7  JM  Juegos  Motores  Mecanismos  del  Altruista.  Retrieved
+30/06/2020
+
+Fernández-Revelles,   A.   B.   (2019).   Tema  2-7  JM  Juegos  Motores  Mecanismos  del  Altruista.  Retrieved
+30/06/2020, from https://youtu.be/l4GZxTUDDWA
 
 Fernández-Revelles,   A.   B.   (2019).   Tema   2-8   JM  Juegos  Motores  Mecanismos  del  Jugador.  Retrieved
 30/06/2020
 
-Fernández-Revelles, A. B. (2020). Juegos Motores - La lógica del Juego Motor. Zenodo
+Fernández-Revelles,   A.   B.   (2019).   Tema   2-8   JM  Juegos  Motores  Mecanismos  del  Jugador.  Retrieved
+30/06/2020, from https://youtu.be/kuuZoUAajm0
+
+Fernández-Revelles,   A.   B.   (2019).   Tema  2-9  JM  Juegos  Motores  Mecanismos  del  Disruptor.  Retrieved
+30/06/2020
+
+Fernández-Revelles,   A.   B.   (2019).   Tema  2-9  JM  Juegos  Motores  Mecanismos  del  Disruptor.  Retrieved
+30/06/2020, from https://youtu.be/y9mvo4JS8eU
 
 Fernández-Revelles,   A.   B.   (2020).  Juegos  Motores:  Tema  3.  Diseño  de  Juegos  Motores  1/2.  Retrieved
 30/06/2020
 
 Fernández-Revelles,   A.   B.   (2020).  Juegos  Motores:  Tema  3.  Diseño  de  Juegos  Motores  2/2.  Retrieved
 30/06/2020
+
+Fernández-Revelles,   A.   B.   (2020).   Juegos   Motores:   Tema   4.  Evaluación  y  Análisis  de  los  Juegos
+Motores. Retrieved 30/06/2020
+
+Fernández-Revelles,   A.   B.  (2020).  Juegos  Motores:  Tema  5.  El  Juego  Motor  y  su  didáctica.  Retrieved
+30/06/2020
+
+Fernández-Revelles, A. B. (2020). Juegos Motores: Tema 6. Evolución de los Juegos Motores. Retrieved
+30/06/2020
+
+Fernández-Revelles,   A.   B.   (2020).  Juegos  Motores:  Tema  7.  Clasificaciones  y  calificaciones  de  los
+Juegos Motores. Retrieved 30/06/2020
+
+Fernández-Revelles,   A.   B.   (2020).  Juegos  Motores:  Tema  7.  Clasificaciones  y  calificaciones  de  los
+Juegos Motores. Retrieved 30/06/2020, from https://youtu.be/wdPQe4TXyg4
+
+Fernández-Revelles,   A.   B.   (2020).   Juegos   Motores:   Tema  8.  Aplicaciones  prácticas  de  los  Juegos
+Motores. Retrieved 30/06/2020, from https://youtu.be/3biEbYT2QG0?t=860
+
+Fernández-Revelles,   A.   B.   (2020).   Juegos   Motores:   Tema  8.  Aplicaciones  prácticas  de  los  Juegos
+Motores. Retrieved 30/06/2020, from https://youtu.be/UuxLlPUjZhY?t=455
+
+Fernández-Revelles,   A.   B.   (2020).   Juegos   Motores:   Tema  8.  Aplicaciones  prácticas  de  los  Juegos
+Motores. Retrieved 30/06/2020, from https://youtu.be/vG1EKKB55Jk?t=1069
+
+Fernández-Revelles, A. B. (Producer). (2015, January 21). Instagram: juegos_motores. juegos_motores.
+[Video file] Retrieved from https://www.instagram.com/juegos_motores/
+
+Fernández-Revelles,   A.   B.   (Producer).   (2016,   Septiembre   2017).  3  en  raya  00154  Juegos  Motores.
+juegos_motores. [Video file] Retrieved from https://youtu.be/lONuwPd8Wn8
 
 Fernández-Revelles,   A.   B.,   &   Cueto-Martín,   B.   (2019).   Compilation  of  Motor  Games  according  to
 according      to      expressive     aspect.     Sports     Science     3.0,     3(2),     403-424.     doi:
@@ -267,310 +493,19 @@ children in physical education classes. Gaceta Sanitaria, 23, 107-107
 Fernández-Revelles,   A.   B.,   &   Delgado-Noguera,   M.  A.  (2009).  Physical  activity  among  children  of
 different culture and gender. Gaceta Sanitaria, 23, 107-108
 
-Fernández-Revelles,   A.   B.,  &  Fernández-Ortega,  A.  (2019).  Definición  aleatoria  de  Juego.  Retrieved
-26/08/2019, from https://sites.google.com/site/juegosmotores/definiciones
-
-Fernández-Revelles, A. B., Padial-Ruz, R., Sánchez-Zafra, M., & Zurita-Ortega, F. (2017). Revisión y
-progresión    de    malabares,    cascada    con   tres   bolas   Sports   Science   3.0,   1(1),   6-23.   doi:
-http://hdl.handle.net/10481/49795
-
-Frick,   T.   W.,   Chadha,   R.,   Watson,   C.,  &  Zlatkovska,  E.  (2010).  Improving  course  evaluations  to
-improve   instruction  and  complex  learning  in  higher  education.  Etr&D-Educational  Technology  Research
-and Development, 58(2), 115-136. doi: 10.1007/s11423-009-9131-z
-
-Fusté, X. (1996). Juegos de iniciación a los deportes colectivos. Barcelona: Paidotribo
-
-Galera, A. (1999). Juego motor y educación física: bases para una reforma. Barcelona: CIMS
-
-Garaigordobil, M. (1990). Juego y desarrollo infantil. Madrid: Seco-Olea
-
-Garaigordobil, M. (1992). Juego cooperativo y socialización en el aula. Madrid: Seco-Olea
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Retrieved   30/06/2020   Abt,   C.   C.  (1970).  Serious  Games.  NY:New  York:  The  Viking  Press,  Inc  →  Abt,
-C. C. (1970). Serious Games. NY:New York: The Viking Press, Inc
-
-Fernández-Revelles,   A.   B.   (2019).   Tema  2-8  JM  Juegos  Motores  Mecanismos  del  Jugador  →  Fernández-
-Revelles, A. B. (2019). Tema 2-8 JM Juegos Motores Mecanismos del Jugador. Retrieved 30/06/2020
-
-Fernández-Revelles, A. B. (2006). YouTube: Canal personal de Andrés B. Fernández Fernández-Revelles,
-A.   B.   (2008).  Arena:  simbología  específica  para  diseño  de  tareas  motrices.  Retrieved  10/2017,  from
-www.ugr.es/local/abfr/arena   Fernández-Revelles,   A.   B.   (2008).   Arena:  simbología  específica  para
-diseño   de   tareas   motrices.   Granada:   Fernández   Revelles,  Andrés  B.  Granada:  Fernández  Revelles,
-Andrés   Bernardo   →   Fernández-Revelles,   A.   B.  (2008).  Arena:  simbología  específica  para  diseño  de
-tareas motrices. Retrieved 10/2017, from www.ugr.es/local/abfr/arena
-
-Fernández-Revelles,   A.  B.  (2008).  Descripción  de  una  tarea.  Granada:  Fernández  Revelles,  Fernández-
-Revelles,   A.  B.  (2008).  Descripción  de  una  tarea.  Retrieved  10/2017,  from  Fernández-Revelles,  A.  B.
-(2008).       El       tiempo      en      la      clase      de      educación      física:      la      from
-www.ugr.es/local/abfr/TESIS_Andres_B_Fdez_Revelles/index_abierto2.html   Granada:  Fernández  Revelles,
-Andrés   Bernardo   →   Fernández-Revelles,   A.   B.   (2008).   Tiempo   de   Educación  Física,  Competencia
-Docente. from www.ugr.es/local/abfr/TESIS_Andres_B_Fdez_Revelles/index_abierto2.html
-
-Comani,   S.  (2016).  Hyperbrain  features  of  team  mental  models  within  a  juggling  paradigm:  a  proof  of
-concept.   Peerj,   4,   38.  doi:  10.7717/peerj.2457  Forder,  L.,  &  Dyson,  B.  J.  (2016).  Behavioural  and
-neural   modulation  of  win-stay  but  not  lose-shift  strategies  as  a  function  of  outcome  value  in  Rock,
-Paper,   Scissors.   Scientific   Reports,   6,   8.   doi:  10.1038/srep33809  Fraile,  A.  (2001).  Actividad
-física   jugada.   Una  propuesta  educativa  para  el  deporte  escolar.  Madrid:  Editorial  Marfil  →  Fraile,
-A.   (2001).   Actividad   física   jugada.   Una   propuesta   educativa   para  el  deporte  escolar.  Madrid:
-Editorial Marfil
-
-Fernández-Revelles,   A.   B.   (2013).   YouTube:   Juegos   Motores   -  Motor  Games.  Retrieved  Fernández-
-Revelles,   A.  B.  (2014).  ABFR-Index:  Correlation  between  "Soccer"  scientific  production  and  ranking.
-Revista   Internacional   De  Medicina  Y  Ciencias  De  La  Actividad  Fisica  Y  Del  Deporte,  14(56),  705-718
-→   Fernández-Revelles,   A.  B.  (2014).  ABFR-Index:  Correlation  between  "Soccer"  scientific  production
-and   ranking.   Revista   Internacional   De   Medicina  Y  Ciencias  De  La  Actividad  Fisica  Y  Del  Deporte,
-14(56), 705-718
-
-Fernández-Revelles,   A.   B.  (2019).  Tema  2-9  JM  Juegos  Motores  Mecanismos  del  Fernández-Revelles,  A.
-B., Catañeda-Vázquez, C., Ramírez-Granizo, I. A., & Castro- Sánchez, M. (2017). Reglas de los juegos
-motores   y   juego   justo.   Sports   Science  3.0,  1(1),  Fernández-Revelles,  A.  B.,  Chacón-Cuberos,  R.,
-Puertas-Molero,   P.,   &   Pérez-Cortés,   A.   J.   (2017).  Diagramas  en  Juegos  Motores  con  simbología  y
-terminología   específica.   Sports   Science   3.0,   1(1),   34-43   →  Fernández-Revelles,  A.  B.,  Chacón-
-Cuberos,   R.,   Puertas-Molero,   P.,   &   Pérez-Cortés,   A.  J.  (2017).  Diagramas  en  Juegos  Motores  con
-simbología y terminología específica. Sports Science 3.0, 1(1), 34-43
-
-Engeser,   S.,   &  Rheinberg,  F.  (2008).  Flow,  performance  and  moderators  of  challenge-  skill  balance.
-Motivation   and   Emotion,   32(3),   158-172.   doi:   10.1007/s11031-008-9102-4   Engeström,   Y.  (2001).
-Expansive Learning at Work: Toward an activity theoretical reconceptualization. Journal of Education
-and   Work,   14(1),   133-156.   doi   →   Engeser,   S.,   &   Rheinberg,   F.  (2008).  Flow,  performance  and
-moderators    of    challenge-skill    balance.    Motivation    and    Emotion,    32(3),    158-172.   doi:
-10.1007/s11031-008-9102-4
-
-Retrieved   30/06/2020   Fernández-Revelles,   A.   B.  (2019).  Tema  2-9  JM  Juegos  Motores  Mecanismos  del
-Disruptor.   Retrieved  30/06/2020  Retrieved  30/06/2020  Fernández-Revelles,  A.  B.  (2020).  Guia  docente
-de   Juegos   Motores.   Zenodo   →   Fernández-Revelles,   A.   B.  (2020).  Guia  docente  de  Juegos  Motores.
-Zenodo
-
-Bedwell, W. L., Pavlas, D., Heyne, K., Lazzara, E. H., & Salas, E. (2012). Toward a Taxonomy Linking
-Game   Attributes   to   Learning.   Simulation   &  Gaming,  43(6),  729-760.  doi:  10.1177/1046878112439444
-Bell,   H.  C.,  Pellis,  S.  M.,  &  Kolb,  B.  (2010).  Juvenile  peer  play  experience  and  the  development  of
-the   orbitofrontal   and   medial   prefrontal  cortices.  Behavioural  Brain  Research,  207(1),  7-13.  doi:
-10.1016/j.bbr.2009.09.029   Blández,  J.  (1996).  La  investigación-acción:  un  reto  para  el  profesorado.
-Barcelona:   INDE   →   Blández,   J.   (1996).   La   investigación-acción:   un   reto  para  el  profesorado.
-Barcelona: INDE
-
-Body   &   Society,   19(1),   27-51.   doi:  10.1177/1357034x11411737  Bantula,  J.  (2007).  Juegos  motrices
-cooperativos.   Barcelona:   Paidotribo  →  Bantulá,  J.  (2009).  Juegos  motrices  cooperativos.  Barcelona:
-Paidotribo
-
-10.1177/1555412011402674   Andersen,   K.   T.,   Zeng,   Y.   F.,   Christensen,  D.  D.,  &  Tran,  D.  (2009).
-Experiments   with   online   reinforcement   learning   in   real-time  strategy  games.  Applied  Artificial
-Intelligence,   23(9),   855-871.   doi:   10.1080/08839510903246526  Andújar,  I.,  &  Brasó,  J.  (2017).  La
-lógica   interna   en   Los   Juegos  de  niños  (1560)  de  Peter  Brueghel.  RICYDE.  Revista  internacional  de
-ciencias   del   deporte,  13(50),  426-441.  doi  →  Andújar,  I.,  &  Brasó,  J.  (2017).  La  lógica  interna  en
-Los Juegos de niños (1560) de Peter Brueghel. RICYDE. Revista internacional de ciencias del deporte,
-13(50), 426-441. doi: https://dialnet.unirioja.es/descarga/articulo/6152877.pdf
-
-Bedwell, W. L., Pavlas, D., Heyne, K., Lazzara, E. H., & Salas, E. (2012). Toward a Taxonomy Linking
-Game   Attributes   to   Learning.   Simulation   &  Gaming,  43(6),  729-760.  doi:  10.1177/1046878112439444
-Blázquez,   D.   (1986).   Iniciación   a  los  deportes  de  equipo.  Barcelona:  Martínez  Roca  →  Bedwell,  W.
-L.,   Pavlas,   D.,   Heyne,   K.,   Lazzara,   E.   H.,  &  Salas,  E.  (2012).  Toward  a  Taxonomy  Linking  Game
-Attributes to Learning. Simulation & Gaming, 43(6), 729-760. doi: 10.1177/1046878112439444
-
-Dyson,   B.   J.,   Wilbiks,   J.   M.   P.,   Sandhu,   R.,  Papanicolaou,  G.,  &  Lintag,  J.  (2016).  Negative
-outcomes evoke cyclic irrational decisions in Rock, Paper, Scissors. Scientific Reports, 6, Elloumi,
-A.,   &  Parlebas,  P.  (2009).  Análisis  sociocultural  de  los  juegos  deportivos  tradicionales  tunecinos.
-Acciónmotriz(3),   54-67   →   Elloumi,  A.,  &  Parlebas,  P.  (2009).  Análisis  sociocultural  de  los  juegos
-deportivos tradicionales tunecinos. Acciónmotriz(3), 54-67
-
-Fernández-Revelles,   A.   B.   (2014).   Juegos  Motores  -  Vídeos  (Blog  -  Blogger).  Retrieved  Fernández-
-Revelles,   A.  B.  (2015).  Descripción  de  un  Juego  Motor.  Granada:  Fernández  Fernández-Revelles,  A.  B.
-(Producer).   (2015,   January   21).  Instagram:  juegos_motores.  juegos_motores.  [Video  file]  Retrieved
-from   Fernández-Revelles,   A.   B.   (2015).   Sports   Science   -   Póster   (Blog   -  Blogger).  Retrieved
-Fernández-Revelles,   A.   B.   (Producer).   (2016,  Septiembre  2017).  3  en  raya  00154  Juegos  Fernández-
-Revelles,   A.   B.   (2016).   Juego   Motor-Modelo   Conceptual  orientado  a  la  experiencia  del  Jugador  →
-Fernández-Revelles, A. B. (Producer). (2015, January 21). Instagram: juegos_motores. juegos_motores.
-[Video file] Retrieved from https://www.instagram.com/juegos_motores/
-
-✅ Recursos añadidos:
-------------------------------
-Andersen,   K.   T.,   Zeng,   Y.   F.,   Christensen,   D.   D.,  &  Tran,  D.  (2009).  Experiments  with  online
-reinforcement learning in real-time strategy games. Applied Artificial Intelligence, 23(9), 855-871.
-doi: 10.1080/08839510903246526
-
-Bantula, J. (2007). Juegos motrices cooperativos. Barcelona: Paidotribo
-
-Bell,   H.  C.,  Pellis,  S.  M.,  &  Kolb,  B.  (2010).  Juvenile  peer  play  experience  and  the  development  of
-the   orbitofrontal   and   medial   prefrontal  cortices.  Behavioural  Brain  Research,  207(1),  7-13.  doi:
-10.1016/j.bbr.2009.09.029
-
-Bravo,   R.,   Fernández,   E.,   &   Merino,   R.  (1999).  El  juego:  medio  educativo  y  de  aplicación  a  los
-bloques de contenido. Málaga: Aljibe
-
-Consalvo,    M.    (2009).   There   is   No   Magic   Circle.   Games   and   Culture,   4(4),   408-417.   doi:
-10.1177/1555412009343575
-
-Cueto-Martín,   B.,   &   Fernández-Revelles,   A.   B.   (2019).   Compilation  of  Motor  Games  according  to
-mechanical aspects. Sports Science 3.0, 3(2), 381-402
-
-Cueto-Martín,   B.,   &   Fernández-Revelles,   A.   B.   (2019).   Selection   of   Motor  Games  according  to
-competitive content. Sports Science 3.0, 3(1), 21-41
-
-Dyson,   B.   J.,   Wilbiks,   J.   M.   P.,   Sandhu,   R.,  Papanicolaou,  G.,  &  Lintag,  J.  (2016).  Negative
-outcomes   evoke  cyclic  irrational  decisions  in  Rock,  Paper,  Scissors.  Scientific  Reports,  6,  6.  doi:
-10.1038/srep20479
-
-Fernandez-Revelles,   A.   B.,   Cueto-Martín,   B.,   &   Fernandez-Ortega,  J.  (2025).  Tabla  Periódica  de
-Mecanismos y Dinámicas de Juegos Motores - 3D . https://doi.org/10.5281/zenodo.15002810
-
-Fernandez-Revelles,   A.   B.,   Cueto-Martín,   B.,   &   Fernandez-Ortega,  J.  (2025).  Tabla  Periódica  de
-Mecanismos y Dinámicas de Juegos Motores - Básica . https://doi.org/10.5281/zenodo.15002684
-
-Fernandez-Revelles,   A.   B.,   Cueto-Martín,   B.,   &   Fernandez-Ortega,  J.  (2025).  Tabla  Periódica  de
-Mecanismos y Dinámicas de Juegos Motores - Clásica . https://doi.org/10.5281/zenodo.15002383
-
-Fernández-Revelles, A. B. (2006). YouTube: Canal personal de Andrés B. Fernández Revelles. Retrieved
-1/09/2019, from https://www.youtube.com/user/andresbfernandez
-
-Fernández-Revelles,   A.   B.   (2008).   Arena:   simbología   específica  para  diseño  de  tareas  motrices.
-Granada: Fernández Revelles, Andrés B
-
-Fernández-Revelles, A. B. (2008). Competencia docente tiempo en educación física. Granada: Fernández
-Revelles, Andrés Bernardo
-
-Fernández-Revelles,   A.   B.  (2008).  Descripción  de  una  tarea.  Granada:  Fernández  Revelles,  Andrés  B.
-Retrieved from https://www.ugr.es/local/abfr/tarea/
-
-Fernández-Revelles,    A.    B.    (2008).    Descripción    de    una    tarea.   Retrieved   10/2017,   from
-http://www.ugr.es/local/abfr/tarea/
-
-Fernández-Revelles,   A.  B.  (2008).  El  tiempo  en  la  clase  de  educación  física:  la  competencia  docente
-tiempo. Deporte y actividad física para todos, 4, 102-120
-
-Fernández-Revelles,   A.   B.   (2008).   Tiempo   en   Educación   Física,   Competencia   Docente.  Granada:
-Fernández Revelles, Andrés Bernardo
-
-Fernández-Revelles,   A.   B.  (2013).  YouTube:  Juegos  Motores  -  Motor  Games.  Retrieved  1/09/2017,  from
-https://www.youtube.com/user/juegosmotores
-
-Fernández-Revelles,   A.   B.   (2013,   12/07/2013).   Tiempo   de  Educación  Física,  Competencia  Docente.
-Retrieved 12/07/2013, from http://www.ugr.es/local/abfr/tiempo.html
-
-Fernández-Revelles,   A.   B.   (2014).   Juegos  Motores  -  Vídeos  (Blog  -  Blogger).  Retrieved  1/09/2019,
-from http://juegosmotores2.blogspot.com.es/
-
-Fernández-Revelles, A. B. (2015). Descripción de un Juego Motor. Granada: Fernández Revelles, Andrés
-B. Retrieved from https://www.ugr.es/local/abfr/DJM/
-
-Fernández-Revelles,   A.   B.   (2015).   Sports  Science  -  Póster  (Blog  -  Blogger).  Retrieved  1/09/2019,
-from http://juegosmotores2.blogspot.com.es/
-
-Fernández-Revelles,   A.   B.   (2016).   Juego   Motor-Modelo   Conceptual  orientado  a  la  experiencia  del
-Jugador
-
-Fernández-Revelles,   A.   B.   (2017).   Diagrams   in   Motor   Games   to   indicate   their   structure  and
-classification. Sports Science 3.0, 1(1), 71-110. doi: http://hdl.handle.net/10481/51087
-
-Fernández-Revelles,   A.   B.   (2017).   Diagrams   in   Motor   Games   to   represent   tracks,   fields  and
-facilities. Sports Science 3.0, 1(1), 286-306. doi: http://hdl.handle.net/10481/51095
-
-Fernández-Revelles,   A.   B.   (2017).   Juegos   Motores   (Blog   -   Tumblr).   Retrieved  1/09/2017,  from
-https://www.pinterest.es/juegosmotores/
-
-Fernández-Revelles,    A.    B.    (2017).    Juegos    Motores    (Twitter).   Retrieved   1/09/2017,   from
-https://twitter.com/juegosmotores
-
-Fernández-Revelles,   A.  B.  (2017).  Sports  Science  3.0  (Revista)  (http://digibug.ugr.es/handle/10481/
-ed.). Granada: Digibug. Universidad de Granada
-
-Fernández-Revelles,   A.   B.  (2017).  Time  in  Motor  Games  (Tiempo  en  Juegos  Motores).  RRID:SCR_015819.
-http://www.ugr.es/local/abfr/tiempojm
-
-Fernández-Revelles, A. B. (2018). Training and progression juggle 3 balls bounce on the floor active
-supination. Sports Science 3.0, 2(2), 143-160. doi: http://hdl.handle.net/10481/55629
-
-Fernández-Revelles,   A.   B.   (2018).   Training   and  progression  of  juggling  with  3  balls  in  columns.
-Sports Science 3.0, 2(1), 32-48. doi: http://hdl.handle.net/10481/55622
-
-Fernández-Revelles,   A.   B.   (2019).   Tema   2-1   Logica   del  Juego  Elementos  Estructurales  Retrieved
-30/06/2020
-
-Fernández-Revelles,   A.   B.   (2019).   Tema   2-1   Lógica   del  Juego  Elementos  Estructurales  Retrieved
-30/06/2020, from https://youtu.be/t6IrdoatI5I
-
-Fernández-Revelles,   A.   B.   (2019).   Tema   2-2  JM  Logica  Elementos  Funcionales  y  sociales  Retrieved
-30/06/2020
-
-Fernández-Revelles,   A.   B.   (2019).   Tema   2-2  JM  Lógica  Elementos  Funcionales  y  sociales  Retrieved
-30/06/2020, from https://youtu.be/9HcwABCXpqo
-
-Fernández-Revelles,   A.   B.   (2019).   Tema  2-3  JM  Juegos  Motores  Recompensas  y  Mecanismos  generales.
-Retrieved 30/06/2020
-
-Fernández-Revelles,   A.   B.   (2019).   Tema  2-3  JM  Juegos  Motores  Recompensas  y  Mecanismos  generales.
-Retrieved 30/06/2020, from https://youtu.be/Ohxr3n6JLdY
-
-Fernández-Revelles,   A.   B.   (2019).  Tema  2-4  JM  Juegos  Motores  Mecanismos  Socializadores.  Retrieved
-30/06/2020
-
-Fernández-Revelles,   A.   B.   (2019).  Tema  2-4  JM  Juegos  Motores  Mecanismos  Socializadores.  Retrieved
-30/06/2020, from https://youtu.be/SNg9sqROTG0
-
-Fernández-Revelles,   A.   B.   (2019).  Tema  2-5  JM  Juegos  Motores  Mecanismos  del  Triunfador.  Retrieved
-30/06/2020
-
-Fernández-Revelles,   A.   B.   (2019).  Tema  2-5  JM  Juegos  Motores  Mecanismos  del  Triunfador.  Retrieved
-30/06/2020, from https://youtu.be/m4BegqsFRQU
-
-Fernández-Revelles,   A.   B.   (2019).   Tema   2-6   JM   Juegos   Motores   Mecanismos  del  Espiritu  Libre.
-Retrieved 30/06/2020
-
-Fernández-Revelles,   A.   B.   (2019).   Tema  2-7  JM  Juegos  Motores  Mecanismos  del  Altruista.  Retrieved
-30/06/2020
-
-Fernández-Revelles,   A.   B.   (2019).   Tema  2-7  JM  Juegos  Motores  Mecanismos  del  Altruista.  Retrieved
-30/06/2020, from https://youtu.be/l4GZxTUDDWA
-
-Fernández-Revelles,   A.   B.   (2019).   Tema   2-8   JM  Juegos  Motores  Mecanismos  del  Jugador.  Retrieved
-30/06/2020, from https://youtu.be/kuuZoUAajm0
-
-Fernández-Revelles,   A.   B.   (2019).   Tema  2-9  JM  Juegos  Motores  Mecanismos  del  Disruptor.  Retrieved
-30/06/2020
-
-Fernández-Revelles,   A.   B.   (2019).   Tema  2-9  JM  Juegos  Motores  Mecanismos  del  Disruptor.  Retrieved
-30/06/2020, from https://youtu.be/y9mvo4JS8eU
-
-Fernández-Revelles,   A.   B.  (2020).  Cómo  hacer  índice  o  tabla  de  contenido  en  Google  Docs.  Retrieved
-30/06/2020
-
-Fernández-Revelles,   A.   B.   (2020).   Juegos   Motores:   Tema   4.  Evaluación  y  Análisis  de  los  Juegos
-Motores. Retrieved 30/06/2020
-
-Fernández-Revelles,   A.   B.  (2020).  Juegos  Motores:  Tema  5.  El  Juego  Motor  y  su  didáctica.  Retrieved
-30/06/2020
-
-Fernández-Revelles, A. B. (2020). Juegos Motores: Tema 6. Evolución de los Juegos Motores. Retrieved
-30/06/2020
-
-Fernández-Revelles,   A.   B.   (2020).  Juegos  Motores:  Tema  7.  Clasificaciones  y  calificaciones  de  los
-Juegos Motores. Retrieved 30/06/2020
-
-Fernández-Revelles,   A.   B.   (2020).  Juegos  Motores:  Tema  7.  Clasificaciones  y  calificaciones  de  los
-Juegos Motores. Retrieved 30/06/2020, from https://youtu.be/wdPQe4TXyg4
-
-Fernández-Revelles,   A.   B.   (2020).   Juegos   Motores:   Tema  8.  Aplicaciones  prácticas  de  los  Juegos
-Motores. Retrieved 30/06/2020, from https://youtu.be/3biEbYT2QG0?t=860
-
-Fernández-Revelles,   A.   B.   (2020).   Juegos   Motores:   Tema  8.  Aplicaciones  prácticas  de  los  Juegos
-Motores. Retrieved 30/06/2020, from https://youtu.be/UuxLlPUjZhY?t=455
-
-Fernández-Revelles,   A.   B.   (2020).   Juegos   Motores:   Tema  8.  Aplicaciones  prácticas  de  los  Juegos
-Motores. Retrieved 30/06/2020, from https://youtu.be/vG1EKKB55Jk?t=1069
-
-Fernández-Revelles,   A.   B.  (2020).  Presentación  de  Juegos  Motores  19-20.  Retrieved  30/06/2020,  from
-https://youtu.be/Vb9zMuFcahA
-
-Fernández-Revelles,   A.   B.   (Producer).   (2016,   Septiembre   2017).  3  en  raya  00154  Juegos  Motores.
-juegos_motores. [Video file] Retrieved from https://youtu.be/lONuwPd8Wn8
-
 Fernández-Revelles,   A.  B.,  &  Fernández-Ortega,  A.  (2019).  Aplicación  móvil  para  el  registro  directo
 del Tiempo de Actividad Física. Retrieved 26/08/2019
+
+Fernández-Revelles,   A.   B.,  &  Fernández-Ortega,  A.  (2019).  Definición  aleatoria  de  Juego.  Retrieved
+26/08/2019, from https://sites.google.com/site/juegosmotores/definiciones
 
 Fernández-Revelles,   A.   B.,   Catañeda-Vázquez,   C.,   Ramírez-Granizo,   I.   A.,  &  Castro-Sánchez,  M.
 (2017).   Reglas   de   los   juegos   motores   y   juego   justo.   Sports   Science   3.0,  1(1),  24-33.  doi:
 http://hdl.handle.net/10481/49796
+
+Fernández-Revelles,   A.   B.,   Chacón-Cuberos,   R.,  Puertas-Molero,  P.,  &  Pérez-Cortés,  A.  J.  (2017).
+Diagramas   en   Juegos   Motores   con   simbología  y  terminología  específica.  Sports  Science  3.0,  1(1),
+34-43
 
 Fernández-Revelles,   A.  B.,  Cueto-Martín,  B.,  &  García-Ramos,  A.  (2020).  Adenda  a  la  Guía  docente  de
 Juegos Motores. Zenodo. doi: http://doi.org/10.5281/zenodo.3778565
@@ -608,6 +543,10 @@ http://doi.org/10.5281/zenodo.3898814
 Fernández-Revelles,   A.   B.,  Cueto-Martín,  B.,  &  García-Ramos,  A.  (2020).  Rúbrica  para  la  evaluación
 final de Juegos Malabares. Zenodo. doi: http://doi.org/10.5281/zenodo.3835353
 
+Fernández-Revelles, A. B., Padial-Ruz, R., Sánchez-Zafra, M., & Zurita-Ortega, F. (2017). Revisión y
+progresión    de    malabares,    cascada    con   tres   bolas   Sports   Science   3.0,   1(1),   6-23.   doi:
+http://hdl.handle.net/10481/49795
+
 Fernández-Revelles,   A.   B.,   Viciana-Garófano,  V.,  Espejo-Garcés,  T.,  &  González-Valero,  G.  (2017).
 Methdology   for   planning   and  time  management  in  Motor  Games.  Sports  Science  3.0,  1(1),  44-70.  doi:
 http://hdl.handle.net/10481/50754
@@ -620,7 +559,22 @@ Forder,   L.,  &  Dyson,  B.  J.  (2016).  Behavioural  and  neural  modulation 
 strategies   as   a  function  of  outcome  value  in  Rock,  Paper,  Scissors.  Scientific  Reports,  6,  8.  doi:
 10.1038/srep33809
 
+Fraile, A. (2001). Actividad física jugada. Una propuesta educativa para el deporte escolar. Madrid:
+Editorial Marfil
+
+Frick,   T.   W.,   Chadha,   R.,   Watson,   C.,  &  Zlatkovska,  E.  (2010).  Improving  course  evaluations  to
+improve   instruction  and  complex  learning  in  higher  education.  Etr&D-Educational  Technology  Research
+and Development, 58(2), 115-136. doi: 10.1007/s11423-009-9131-z
+
+Fusté, X. (1996). Juegos de iniciación a los deportes colectivos. Barcelona: Paidotribo
+
+Galera, A. (1999). Juego motor y educación física: bases para una reforma. Barcelona: CIMS
+
 Galera, A. (1999). Juegos tácticos. Barcelona: CIMS
+
+Garaigordobil, M. (1990). Juego y desarrollo infantil. Madrid: Seco-Olea
+
+Garaigordobil, M. (1992). Juego cooperativo y socialización en el aula. Madrid: Seco-Olea
 
 Garaigordobil,   M.   (2005).   Diseño   y  evaluación  de  un  programa  de  intervención  socioemocional  para
 promover   la   conducta   prosocial   y   prevenir   la   violencia.   Madrid:   Centro   de   Investigación  y
@@ -994,4 +948,4 @@ Zago,   M.,   Pacifici,   I.,   Lovecchio,   N.,   Galli,  M.,  Federolf,  P.  A
 segmental movement patterns reflect juggling complexity and skill level. Human Movement Science, 54,
 144-153. doi: 10.1016/j.humov.2017.04.013
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 98% [█████████░]

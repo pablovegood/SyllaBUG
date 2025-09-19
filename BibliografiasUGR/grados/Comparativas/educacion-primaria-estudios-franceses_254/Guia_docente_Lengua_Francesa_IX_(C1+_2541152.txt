@@ -2,20 +2,17 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Exercices   de   grammaire   :   Beaujeu,   C.-M.,  et  al.,  350  exercices.  Niveau  supérieur  II  (Grammaire.
+Cours de Civilisation française de la Sorbonne), Paris, Hachette, Collection « Exerçonsnous », 1991.
+(nivel   C1/C2)   Boularès,   M.  ;  Frérot,  J.-L.,  Grammaire  progressive  du  français  avec  400  exercices,
+Paris,   CLE  International,  1997  (nivel  C1/C2)  Chevalier-Wixler,  D.,  et  alii,  Réussir  le  DALF,  Paris,
+Didier, 2007
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
-Arrivé,   M.   ;   Blanche-Benveniste,   C.   ;   Chevalier,   J-C.   &   Peytard,   J.,  Grammaire  du  français
-contemporain, Paris, Larousse, Collection « Références », 2002
-
 Aslanides, S., Grammaire du français. Du mot au texte, Paris, Honoré Champion, 2001
-
-Barrière, I. & Parizet, M.-L. (2015). ABC DALF. C1-C2. 150 exercices. Paris, Didier
-
-Belot, A., Dictionnaire d’usage d’espagnol contemporain. Français-Espagnol, Paris, Ellipses, 1996
 
 Bonnard, H., Code du français courant, Paris, Magnard, 1981
 
@@ -24,17 +21,32 @@ Chapiro, L. et al. (2017). Le DALF. 100% de réussite. Paris, Didier
 Charaudeau, P., Grammaire du sens et de l’expression, Paris, Hachette, Collection « Communication »,
 1993
 
+Chevalier-Wixler,   D.  ;  Dupleix,  D.  ;  Jouette,  I.  ;  et  al.  (2007).  Réussir  le  DALF:  Niveaux  C1  et  C2
+(2 CD audio inclus). Paris, Didier
+
 Denis   S.;   Maravall,  M.  &  Pompidou,  L.,  Dictionnaire  Espagnol-Français  et  Français-Espagnol,  Paris,
 Masson, 1986
 
 Denis, D. & Sancier-Chateau, A., Grammaire du français, Paris, Librairie Générale Française, 1997
 
+Dictionnaires   bilingues   :   Belot,   A.,   Dictionnaire   d’usage   d’espagnol   contemporain.  Français-
+Espagnol, Paris, Ellipses, 1996
+
+Dictionnaires unilingues français : Petit Robert, Dictionnaire de la langue française, directeurs A.
+Rey et J. ReyDebove, Paris, Dictionnaires Le Robert (Rééditions fréquentes)
+
+Dubois,   I.   &   Saintes,   M.   (2016).   DALF   C1.   Tests   complets   corrigés   :   Compréhension  orale,
+compréhension   écrite,   production   écrite.   Éditeur   :   CreateSpace  Independent  Publishing  Platform
 Dubois,   I.   &   Saintes,   M.   (2016).   DALF   C2.  Tests  complets  avec  corrigés.  Éditeur  :  CreateSpace
-Independent Publishing Platform
+Independent   Publishing   Platform   Loukou,   V.  (2016).  Préparation  DALF  C1.  Textes  d'argumentation  :
+Pour les candidats et les enseignants - avec corrigés
 
 Frontier, A., La grammaire du français, Paris, Belin, Collection « Sujets », 1997
 
 Gardes-Tamine, J., La Grammaire I, II, Paris, Armand Colin, Collection « Cursus », 1990
+
+Grammaires   du   français   :   Arrivé,   M.   ;   Blanche-Benveniste,  C.  ;  Chevalier,  J-C.  &  Peytard,  J.,
+Grammaire du français contemporain, Paris, Larousse, Collection « Références », 2002
 
 Grand   Dictionnaire   Espagnol-Français   /   Français-Espagnol,   Raphaëlle   Ros   Mas   (Direction  de  la
 publication), Paris, Larousse, 2007
@@ -59,6 +71,8 @@ Loukou,   V.   (2016).   Compréhension  de  l’oral,  Livre  de  l’élève  
 
 Loukou, V. (2016). Préparation de l'écrit. DALF C2. Livre de l'élève. Français plus édition
 
+Manuels : Barrière, I. & Parizet, M.-L. (2015). ABC DALF. C1-C2. 150 exercices. Paris, Didier
+
 Poisson-Quinton,   S.  ;  Mimran,  R.  &  Mahéo-Le  Coadic,  M.,  Grammaire  expliquée  du  français,  Paris,  CLE
 International, 2002
 
@@ -68,7 +82,8 @@ Collection « Quadrige », nº337, 2014
 Siréjols, É.; Claude, P., Grammaire niveau avancé. 450 nouveaux exercices, Paris, CLE International,
 2002. (nivel C1/C2)
 
-Vidal, J-P., Hispano-Bordas-Dictionnaire. Français-Espagnol / Espagnol-Français, Paris, Bordas, 1989
+Vidal, J-P., Hispano-Bordas-Dictionnaire. Français-Espagnol / EspagnolFrançais, Paris, Bordas, 1989.
+Grammaires françaises
 
 Wagner, R.L. & Pinchon, J., Grammaire du français classique et moderne, Paris, Hachette, 1999
 
@@ -76,67 +91,13 @@ Weinrich, H., Grammaire textuelle du français, Paris, Didier/Hatier, 1989
 
 Wilmet, M., Grammaire critique du français, Paris / Louvain-la-Neuve, Hachette / Duculot, 1997
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Dubois,   I.   &   Saintes,   M.   (2016).   DALF   C1.   Tests  complets  corrigés  →  Manuels  :  Barrière,  I.  &
-Parizet,   M.-L.  (2015).  ABC  DALF.  C1-C2.  150  exercices.  Paris,  Didier.  Chapiro,  L.  et  al.  (2017).  Le
-DALF.   100%   de   réussite.   Paris,  Didier.  Chevalier-Wixler,  D.  ;  Dupleix,  D.  ;  Jouette,  I.  ;  et  al.
-(2007).   Réussir  le  DALF:  Niveaux  C1  et  C2  (2  CD  audio  inclus).  Paris,  Didier.  Dubois,  I.  &  Saintes,
-M.   (2016).  DALF  C1.  Tests  complets  corrigés  :  Compréhension  orale,  compréhension  écrite,  production
-écrite.   Éditeur  :  CreateSpace  Independent  Publishing  Platform  Dubois,  I.  &  Saintes,  M.  (2016).  DALF
-C2.   Tests   complets  avec  corrigés.  Éditeur  :  CreateSpace  Independent  Publishing  Platform  Loukou,  V.
-(2016).   Préparation   DALF  C1.  Textes  d'argumentation  :  Pour  les  candidats  et  les  enseignants  -  avec
-corrigés.   Loukou,   V.   (2016).   Compréhension   de   l’oral,   Livre  de  l’élève  /  Livre  du  professeur.
-Français   plus   édition.   Loukou,   V.   (2016).   Préparation   de   l'écrit.  DALF  C2.  Livre  de  l'élève.
-Français plus édition
-
-CreateSpace   Independent   Publishing   Platform   Loukou,   V.   (2016).   Préparation   DALF   C1.   Textes
-d'argumentation   :   Pour  les  candidats  et  les  enseignants  -  avec  corrigés  →  Manuels  :  Barrière,  I.  &
-Parizet,   M.-L.  (2015).  ABC  DALF.  C1-C2.  150  exercices.  Paris,  Didier.  Chapiro,  L.  et  al.  (2017).  Le
-DALF.   100%   de   réussite.   Paris,  Didier.  Chevalier-Wixler,  D.  ;  Dupleix,  D.  ;  Jouette,  I.  ;  et  al.
-(2007).   Réussir  le  DALF:  Niveaux  C1  et  C2  (2  CD  audio  inclus).  Paris,  Didier.  Dubois,  I.  &  Saintes,
-M.   (2016).  DALF  C1.  Tests  complets  corrigés  :  Compréhension  orale,  compréhension  écrite,  production
-écrite.   Éditeur  :  CreateSpace  Independent  Publishing  Platform  Dubois,  I.  &  Saintes,  M.  (2016).  DALF
-C2.   Tests   complets  avec  corrigés.  Éditeur  :  CreateSpace  Independent  Publishing  Platform  Loukou,  V.
-(2016).   Préparation   DALF  C1.  Textes  d'argumentation  :  Pour  les  candidats  et  les  enseignants  -  avec
-corrigés.   Loukou,   V.   (2016).   Compréhension   de   l’oral,   Livre  de  l’élève  /  Livre  du  professeur.
-Français   plus   édition.   Loukou,   V.   (2016).   Préparation   de   l'écrit.  DALF  C2.  Livre  de  l'élève.
-Français plus édition
-
-Chevalier-Wixler,   D.   ;   Dupleix,   D.   ;   Jouette,   I.  ;  et  al.  (2007).  Réussir  le  DALF  →  Manuels  :
-Barrière,   I.  &  Parizet,  M.-L.  (2015).  ABC  DALF.  C1-C2.  150  exercices.  Paris,  Didier.  Chapiro,  L.  et
-al.   (2017).  Le  DALF.  100%  de  réussite.  Paris,  Didier.  Chevalier-Wixler,  D.  ;  Dupleix,  D.  ;  Jouette,
-I. ; et al. (2007). Réussir le DALF: Niveaux C1 et C2 (2 CD audio inclus). Paris, Didier. Dubois, I.
-&   Saintes,  M.  (2016).  DALF  C1.  Tests  complets  corrigés  :  Compréhension  orale,  compréhension  écrite,
-production   écrite.   Éditeur   :  CreateSpace  Independent  Publishing  Platform  Dubois,  I.  &  Saintes,  M.
-(2016). DALF C2. Tests complets avec corrigés. Éditeur : CreateSpace Independent Publishing Platform
-Loukou,   V.   (2016).   Préparation   DALF   C1.   Textes   d'argumentation   :   Pour   les  candidats  et  les
-enseignants - avec corrigés. Loukou, V. (2016). Compréhension de l’oral, Livre de l’élève / Livre du
-professeur.   Français   plus   édition.   Loukou,   V.  (2016).  Préparation  de  l'écrit.  DALF  C2.  Livre  de
-l'élève. Français plus édition
-
-Beaujeu,   C.-M.,   et   al.,   350   exercices.   Niveau   supérieur   II  (Grammaire.  Cours  de  Civilisation
-française   de   la   Sorbonne),   Paris,   Hachette,   Collection  «  Exerçons-  nous  »,  1991.  (nivel  C1/C2)
-Boularès,   M.   ;   Frérot,   J.-L.,   Grammaire   progressive  du  français  avec  400  exercices,  Paris,  CLE
-International,   1997   (nivel   C1/C2)   Chevalier-Wixler,  D.,  et  alii,  Réussir  le  DALF,  Paris,  Didier,
-2007   →   Exercices   de   grammaire   :   Beaujeu,   C.-M.,   et   al.,   350  exercices.  Niveau  supérieur  II
-(Grammaire. Cours de Civilisation française de la Sorbonne), Paris, Hachette, Collection « Exerçons-
-nous », 1991. (nivel C1/C2) Boularès, M. ; Frérot, J.-L., Grammaire progressive du français avec 400
-exercices,   Paris,   CLE   International,  1997  (nivel  C1/C2)  Chevalier-Wixler,  D.,  et  alii,  Réussir  le
-DALF,    Paris,   Didier,   2007.   Lescure,   R.,   et   alii,   DALF   C1/C2.   250   activités,   Paris,   CLE
-International,   2007.   Siréjols,   É.;   Claude,   P.,  Grammaire  niveau  avancé.  450  nouveaux  exercices,
-Paris, CLE International, 2002. (nivel C1/C2)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (11):
 ------------------------------
 Beaujeu,   C.-M.,   et   al.,   350   exercices.   Niveau   supérieur   II  (Grammaire.  Cours  de  Civilisation
 française de la Sorbonne), Paris, Hachette, Collection « Exerçons-nous », 1991. (nivel C1/C2)
 
 Boularès,   M.   ;   Frérot,   J.-L.,   Grammaire   progressive  du  français  avec  400  exercices,  Paris,  CLE
 International, 1997 (nivel C1/C2)
-
-Chevalier-Wixler,   D.  ;  Dupleix,  D.  ;  Jouette,  I.  ;  et  al.  (2007).  Réussir  le  DALF:  Niveaux  C1  et  C2
-(2 CD audio inclus). Paris, Didier
 
 Chevalier-Wixler, D., et alii, Réussir le DALF, Paris, Didier, 2007
 
@@ -152,8 +113,16 @@ langue   française,   directeur   A.   Rey,   Paris,  Dictionnaires  Le  Robert
 Hanse,   J.,  Nouveau  dictionnaire  des  difficultés  du  français  moderne,  Paris-Gembloux,  Duculot,  1987,
 nouvelle édition mise à jour et enrichie
 
-Dubois,   I.   &   Saintes,   M.   (2016).   DALF   C1.   Tests   complets   corrigés   :   Compréhension  orale,
-compréhension écrite, production écrite. Éditeur : CreateSpace Independent Publishing Platform
+Dubois,   I.   &   Saintes,   M.   (2016).   DALF   C2.  Tests  complets  avec  corrigés.  Éditeur  :  CreateSpace
+Independent Publishing Platform
+
+Exercices   de   grammaire   :   Beaujeu,   C.-M.,  et  al.,  350  exercices.  Niveau  supérieur  II  (Grammaire.
+Cours   de   Civilisation   française   de   la  Sorbonne),  Paris,  Hachette,  Collection  «  Exerçons-nous  »,
+1991.   (nivel   C1/C2)   Boularès,   M.   ;   Frérot,   J.-L.,   Grammaire  progressive  du  français  avec  400
+exercices,   Paris,   CLE   International,  1997  (nivel  C1/C2)  Chevalier-Wixler,  D.,  et  alii,  Réussir  le
+DALF,    Paris,   Didier,   2007.   Lescure,   R.,   et   alii,   DALF   C1/C2.   250   activités,   Paris,   CLE
+International,   2007.   Siréjols,   É.;   Claude,   P.,  Grammaire  niveau  avancé.  450  nouveaux  exercices,
+Paris, CLE International, 2002. (nivel C1/C2)
 
 Grammaires   du   français   :   Arrivé,   M.   ;   Blanche-Benveniste,  C.  ;  Chevalier,  J-C.  &  Peytard,  J.,
 Grammaire   du  français  contemporain,  Paris,  Larousse,  Collection  «  Références  »,  2002.  Grevissse,  M.
@@ -177,7 +146,15 @@ textuelle du français, Paris, Didier/Hatier, 1989
 Loukou,   V.   (2016).   Préparation   DALF   C1.   Textes   d'argumentation   :   Pour   les  candidats  et  les
 enseignants - avec corrigés
 
-Petit   Robert,   Dictionnaire   de   la   langue   française,   directeurs  A.  Rey  et  J.  Rey-Debove,  Paris,
-Dictionnaires Le Robert (Rééditions fréquentes)
+Manuels   :   Barrière,   I.   &   Parizet,   M.-L.  (2015).  ABC  DALF.  C1-C2.  150  exercices.  Paris,  Didier.
+Chapiro, L. et al. (2017). Le DALF. 100% de réussite. Paris, Didier. Chevalier-Wixler, D. ; Dupleix,
+D.   ;   Jouette,   I.   ;   et  al.  (2007).  Réussir  le  DALF:  Niveaux  C1  et  C2  (2  CD  audio  inclus).  Paris,
+Didier.   Dubois,   I.   &   Saintes,  M.  (2016).  DALF  C1.  Tests  complets  corrigés  :  Compréhension  orale,
+compréhension   écrite,   production   écrite.   Éditeur   :   CreateSpace  Independent  Publishing  Platform
+Dubois,   I.   &   Saintes,   M.   (2016).   DALF   C2.  Tests  complets  avec  corrigés.  Éditeur  :  CreateSpace
+Independent   Publishing   Platform   Loukou,   V.  (2016).  Préparation  DALF  C1.  Textes  d'argumentation  :
+Pour   les   candidats  et  les  enseignants  -  avec  corrigés.  Loukou,  V.  (2016).  Compréhension  de  l’oral,
+Livre   de   l’élève   /   Livre  du  professeur.  Français  plus  édition.  Loukou,  V.  (2016).  Préparation  de
+l'écrit. DALF C2. Livre de l'élève. Français plus édition
 
-📊 Porcentaje estimado de cambio: 46% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]

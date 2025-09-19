@@ -2,18 +2,20 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Preucel,   V.  R.  (ed.)  (1991).  Processual  and  Postprocessual  Archaeologies.  Multiples  ways  of  knowing
+the   past.   Centre   for   Archaeological   Investigations.   Occasional   Paper  No  10  (Southern  Illinois
+University,   Carbondale)   Sahlins,   M.   (1977).   Economía   de  la  Edad  de  Piedra.  Akal  editor,  Madrid
+Trigger,   B.   G.   (1982).  La  revolución  arqueológica.  El  pensamiento  de  Gordon  Chiide.  Ed.  Fontamara
+S.A., Barcelona
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 Alcina Franch, J. (1989). Arqueología antropológica. Akal, Madrid
 
 Almagro,   M.   (1973).   Introducción   al   estudio   de   la   Prehistoria   y  de  la  arqueología  de  campo.
 Ediciones Guadarrama, S.A., Madrid
-
-Binford, L. (1983). En busca del pasado. Editorial Crítica, Barcelona
 
 Bordes, F. (1961). Typologie du Paléolithique Ancien et Moyen. Burdeos
 
@@ -22,6 +24,12 @@ Childe, G. (1964). Evolución social. UNAM, México
 Clarke, D. L. (1984). Arqueología analítica. Bellaterra, Barcelona
 
 Daniel, G. E. 1973. El concepto de Prehistoria. Labor, Buenos Aires
+
+Ediciones   Guadarrama,   S.A.,   Madrid   Binford,   L.   (1983).  En  busca  del  pasado.  Editorial  Crítica,
+Barcelona
+
+Fernández   Martínez,   V.   M.   (2006).   Una   arqueología   crítica:   ciencia,   ética   y  política  en  la
+construcción del pasado. Ed. Crítica, Barcelona
 
 Hodder, I. (1988). Interpretación en arqueología. Coprrientes actuales. Editorial Crítica, Barcelona
 
@@ -37,24 +45,15 @@ Trigger, B. G. (1992). Historia del pensamiento arqueológico. Editorial Crític
 Watson,   P.  J.,  LeBlanc,  S.  A.  y  Redman,  Ch.  L.  (1974).  El  método  científico  en  arqueología.  Alianza
 Editorial, Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
 Preucel,   V.  R.  (ed.)  (1991).  Processual  and  Postprocessual  Archaeologies.  Multiples  ways  of  knowing
 the   past.   Centre   for   Archaeological   Investigations.   Occasional   Paper  No  10  (Southern  Illinois
-University,   Carbondale)   Sahlins,   M.   (1977).   Economía   de  la  Edad  de  Piedra.  Akal  editor,  Madrid
-Trigger,   B.   G.   (1982).  La  revolución  arqueológica.  El  pensamiento  de  Gordon  Chiide.  Ed  →  Preucel,
-V. R. (ed.) (1991). Processual and Postprocessual Archaeologies. Multiples ways of knowing the past.
-Centre   for   Archaeological   Investigations.   Occasional   Paper  No  10  (Southern  Illinois  University,
-Carbondale)
-
-✅ Recursos añadidos:
-------------------------------
-Fernández   Martínez,   V.   M.   (2006).   Una   arqueología   crítica:   ciencia,   ética   y  política  en  la
-construcción del pasado. Ed. Crítica, Barcelona
+University, Carbondale)
 
 Sahlins, M. (1977). Economía de la Edad de Piedra. Akal editor, Madrid
 
 Trigger,   B.   G.   (1982).  La  revolución  arqueológica.  El  pensamiento  de  Gordon  Chiide.  Ed.  Fontamara
 S.A., Barcelona
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

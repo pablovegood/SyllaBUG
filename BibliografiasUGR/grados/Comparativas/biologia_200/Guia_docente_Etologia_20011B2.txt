@@ -2,11 +2,11 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Soler, M. 2009. Adaptación del comportamiento: comprendiendo al animal humano. Síntesis, Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Alcock, J. 2009. Animal Behavior. Sinauer Associates, Sunderland
 
@@ -25,14 +25,9 @@ Ridley. M. 2004. ¿Qué nos hace humanos? Taurus. Madrid
 Thornhill,   R.   y   Gangestad,   S.W.  2008.  The  evolutionary  biology  of  human  female  sexuality.  Oxford
 University Press, New York
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Soler,   M.   2009.   Adaptación   del   comportamiento:  comprendiendo  al  animal  humano  →  Soler,  M.  2024.
-Adaptación del comportamiento: comprendiendo al animal humano. 2ª Edición. Editorial Técnica Avicam,
-Granada
+Soler, M. 2024. Adaptación del comportamiento: comprendiendo al animal humano. 2ª Edición. Editorial
+Técnica Avicam, Granada
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

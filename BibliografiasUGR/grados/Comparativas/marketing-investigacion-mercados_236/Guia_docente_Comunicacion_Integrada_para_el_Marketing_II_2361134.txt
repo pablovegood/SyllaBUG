@@ -2,17 +2,16 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Rodríguez   Ardua,   I.   (2007).   Estrategias   y   Técnicas  de  Comunicación:  Una  visión  integrada  en  el
+marketing.   UOC  Editorial  Rodríguez  Ardura,  I.  (2014).  Marketing  Digital  y  Comercio  Electrónico.  UOC
+Editorial Sicilia M, Palazón M, López I, López M. (2021). Marketing en Redes Sociales. ESIC Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Belch, G.E., y Belch, M.A. (2021). Advertising and Promotion. An Integrated Marketing Communications
 Perspective, 12th edition (International Student Edition, ISE), McGraw Hill
-
-Calvo,   S.   y  Reinares,  P.  (2001).  Comunicación  en  Internet.  Estrategias  de  marketing  y  comunicación
-interactivas, Editorial Paraninfo
 
 Capriotti, P. (1999). Planificación estratégica de la imagen corporativa. Ariel, Barcelona
 
@@ -25,6 +24,11 @@ Martin-Santana,   J.   Olarte,   C.,   Reinares-Lara,   E.,   Reinares-Lara,  P.
 Gestión de la comunicación. Un enfoque integral. ESIC Madrid
 
 Ortega, E. (2004). La comunicación publicitaria. Editorial Pirámide
+
+Percepción.      Revista      Semestral      de     Comunicación     Alterna,     10,     enero,     pp.7-19
+[http://www.comunicacionalterna.com.mx/pdf/revista/revista_percepcion_10.zip]   Calvo,  S.  y  Reinares,
+P. (2001). Comunicación en Internet. Estrategias de marketing y comunicación interactivas, Editorial
+Paraninfo
 
 Pickton,   D.   Y  Broderick,  A.  (2001).  Integrated  marketing  communications.  Financial  Times-Prentice-
 Hall, Londres
@@ -61,18 +65,13 @@ tácticas. Madrid: Pearson Educación (Addison Wesley)
 Revista        Semestral        de        Comunicación        Alterna,       10,       enero,       pp.7-19
 [http://www.comunicacionalterna.com.mx/pdf/revista/revista_percepcion_10.zip]
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Rodríguez   Ardua,   I.   (2007).   Estrategias   y   Técnicas  de  Comunicación:  Una  visión  integrada  en  el
-marketing.   UOC  Editorial  Rodríguez  Ardura,  I.  (2014).  Marketing  Digital  y  Comercio  Electrónico.  UOC
-Editorial   Sicilia   M,  Palazón  M,  López  I,  López  M.  (2021).  Marketing  en  Redes  Sociales.  ESIC  Madrid
-→  Sicilia M, Palazón M, López I, López M. (2021). Marketing en Redes Sociales. ESIC Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Rodríguez   Ardua,   I.   (2007).   Estrategias   y   Técnicas  de  Comunicación:  Una  visión  integrada  en  el
 marketing. UOC Editorial
 
 Rodríguez Ardura, I. (2014). Marketing Digital y Comercio Electrónico. UOC Editorial
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+Sicilia M, Palazón M, López I, López M. (2021). Marketing en Redes Sociales. ESIC Madrid
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

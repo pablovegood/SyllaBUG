@@ -2,12 +2,25 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Madrid:   ONCE   Arráez,   J.M.   (1982).   Integración  social  de  inadaptados  y  marginados  a  través  de  la
+Arráez, J.M. (1996). ¿Puedo jugar yo?. Granada: Proyectos Sur. Arráez, J.M
 
-📚 Recursos sin cambios:
+Ortega,   E.   y  Blázquez,  D  (1982).  La  actividad  motriz:  en  el  niño  de  6  a  8  años.  Madrid:  Ramsey,  C.
+(1990). Juegos adaptados para niños con necesidades especiales. Madrid: IMSERSO
+
+Toro,   S.   y   Zarco,   J.A.(1995).   Educación   física   para   niños  y  niñas  con  necesidades  educativas
+especiales.   Málaga:   Aljibe   Aucouturier,   B.,   Darrault,   I.,   y  Empinet,  J.L.  (1985).  La  práctica
+psicomotriz. Reeducación y terapia. Barcelona: CientificoMédica
+
+📚 Recursos sin cambios (14):
 ------------------------------
+(1998)Teoría y praxis de las adaptaciones curriculares en la educación física. Madrid: Gymnos
+
+Almonacid, V., y Carrasco, M.J. (1989). El juego en los niños ciegos y deficientes visuales. Madrid:
+ONCE
+
 García de Mingo, J.A. (1992). Actividades físicas y Deporte para Minusválidos. Madrid: Campomanes
 
 García,   J.A.   (1987).   Educación  e  Integración  Escolar  del  Niño  con  Deficiencias  Motóricas.  Madrid:
@@ -31,43 +44,30 @@ Martín,   F.   y   Martín,   F.   (1988a).   Actividades  deportivas  y  de  o
 Madrid:   INSERSO.   Martín,   F.   y   Martín,  F.  (1988b).  Educación  Física  y  Deportes  para  Minusválidos
 Psíquicos. Madrid: Gymnos
 
-Ortega, E. y Blázquez, D (1982). La actividad motriz: en el niño de 6 a 8 años. Madrid
-
 Oña,   A.   (1987).   Desarrollo   y  Motricidad.  Fundamentos  evolutivos  de  la  educación  física.  Granada:
 C.D. INEF
 
-Ramsey, C. (1990). Juegos adaptados para niños con necesidades especiales. Madrid: IMSERSO
+Rios, M y Blanco, A. (2007) El juego y los alumnos con discapacidad. Editorial Paidotribo
 
 Sanz, C (2004). Aqui Jugamos todos. Madrid: PilaTeleña
 
 Sánchez Asín, A. (1993). Necesidades Educativas e intervención psicopedagógica. Barcelona: PPU, S.A
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Almonacid, V., y Carrasco, M.J. (1989). El juego en los niños ciegos y deficientes visuales. Madrid:
-ONCE   Arráez,   J.M.   (1982).  Integración  social  de  inadaptados  y  marginados  a  través  de  la  educación
-física   y   deportiva.  Granada:  Universidad  de  Granada:  ICE  →  Almonacid,  V.,  y  Carrasco,  M.J.  (1989).
-El juego en los niños ciegos y deficientes visuales. Madrid: ONCE
-
-Toro,   S.   y   Zarco,   J.A.(1995).   Educación   física   para   niños  y  niñas  con  necesidades  educativas
-especiales.   Málaga:   Aljibe   Aucouturier,   B.,   Darrault,   I.,   y  Empinet,  J.L.  (1985).  La  práctica
-psicomotriz.   Reeducación   y  terapia.  Barcelona:  CientificoMédica  →  Aucouturier,  B.,  Darrault,  I.,  y
-Empinet, J.L. (1985). La práctica psicomotriz. Reeducación y terapia. Barcelona: CientificoMédica
-
-Arráez, J.M. (1996). ¿Puedo jugar yo?. Granada: Proyectos Sur. Arráez, J.M. (1998)Teoría y praxis de
-las   adaptaciones   curriculares   en   la  educación  física.  Madrid  →  Arráez,  J.M.  (1996).  ¿Puedo  jugar
-yo?. Granada: Proyectos Sur. Arráez, J.M
-
-✅ Recursos añadidos:
-------------------------------
-(1998)Teoría y praxis de las adaptaciones curriculares en la educación física. Madrid: Gymnos
-
 Arráez,   J.M.  (1982).  Integración  social  de  inadaptados  y  marginados  a  través  de  la  educación  física
 y deportiva. Granada: Universidad de Granada: ICE
 
-Rios, M y Blanco, A. (2007) El juego y los alumnos con discapacidad. Editorial Paidotribo
+Arráez, J.M. (1996). ¿Puedo jugar yo?. Granada: Proyectos Sur. Arráez, J.M
+
+Aucouturier,   B.,   Darrault,   I.,   y   Empinet,   J.L.   (1985).  La  práctica  psicomotriz.  Reeducación  y
+terapia. Barcelona: CientificoMédica
+
+Ortega, E. y Blázquez, D (1982). La actividad motriz: en el niño de 6 a 8 años. Madrid
+
+Ramsey, C. (1990). Juegos adaptados para niños con necesidades especiales. Madrid: IMSERSO
 
 Toro,   S.   y   Zarco,   J.A.(1995).   Educación   física   para   niños  y  niñas  con  necesidades  educativas
 especiales. Málaga: Aljibe
 
-📊 Porcentaje estimado de cambio: 43% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 45% [████░░░░░░]

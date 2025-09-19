@@ -2,11 +2,11 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 LÓPEZ   GANDÍA,   BLASCO   LAHOZ,  Curso  de  Prevención  de  Riesgos  Laborales,  Tirant  lo  Blanch,  Valencia.
 (última edición)
@@ -19,11 +19,7 @@ Valencia. (última edición)
 VIDA   SORIA   J.   (Dir.):   Manual   Básico   de   Prevención   de   Riesgos  Laborales,  Editorial  Lex  Nova,
 Valladolid (última edición)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

@@ -2,11 +2,18 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Gil, A. (2010). Tratado de nutrición (Tomos II y III). Ed. Panamericana, Madrid
 
-📚 Recursos sin cambios:
+Martínez   Hernández,   A.,   Portillo   Baquedano,   Mª   del   P.  (2011).  Fundamentos  teóricoprácticos  de
+nutrición   y   dietética.   Ed.   Panamericana,  Madrid  Melvin,  H.W.  (2005).  Nutrición  para  la  salud,  la
+condición   física  y  el  deporte.  McGrawHill,  México  Muñoz,  M.,  Aranceta,  J.,  García-Jalón,  I.  (2004).
+Nutrición aplicada y dietoterapia. 2ª ed. Ed. EUNSA, Pamplona
+
+SENC (2001). Guías alimentarias para la población española. IM & C, S.A. Madrid
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Bellido   Guerrero,   D.,   De   Luís   Román,   D.A.   (Coordinadores).   (2006).   Manual   de   nutrición   y
 metabolismo. Ed. Díaz de Santos, Madrid
@@ -30,37 +37,6 @@ alimentarias ¿Y ahora qué? 2ª ed. Ed. International Marketing & Communication
 
 Prieto Gómez, Mª I. Dieta mediterránea (2019). Universidad de Jaén
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gil,   A.   (2010).   Tratado  de  nutrición  (Tomos  II  y  III).  Ed.  Panamericana,  Madrid  →  Gil,  A.  (2024).
-Tratado de nutrición (Tomos II y III). Ed. Panamericana, Madrid
-
-Vázquez,   C.,   De   Cós,   A.I.,  López  Nomdedeu,  C.  (2005).  Alimentación  y  nutrición.  Manual  Zuveldia,
-J.M.,   Baeza,   M.L.,   Jáuregui,   I.,   Sennet,   C.  (Coordinadores).  (2012).  Libro  de  las  enfermedades
-alérgicas   de   la   Fundación   BBVA.   Ed.   Nerea   S.A.   San   Sebastián  →  Zuveldia,  J.M.,  Baeza,  M.L.,
-Jáuregui,   I.,   Sennet,   C.   (Coordinadores).   (2012).   Libro   de   las   enfermedades  alérgicas  de  la
-Fundación BBVA. Ed. Nerea S.A. San Sebastián
-
-Melvin, H.W. (2005). Nutrición para la salud, la condición física y el deporte. McGraw- Hill, México
-Muñoz,   M.,   Aranceta,   J.,   García-Jalón,   I.   (2004).   Nutrición   aplicada  y  dietoterapia.  2ª  ed  →
-Melvin, H.W. (2005). Nutrición para la salud, la condición física y el deporte. McGraw-Hill, México
-
-Salas-Salvadó, J., Bonada, A., Tralleró, R., Saló, M.E., Burgos, R. (2008). Nutrición y SENC (2001).
-Guías   alimentarias   para   la   población   española.   IM   &   C,   S.A.   Madrid   →   SENC   (2015).  Guías
-alimentarias para la población española. IM & C, S.A. Madrid
-
-✅ Recursos añadidos:
-------------------------------
-Informe   del   Comité   Científico  de  la  Agencia  Española  de  Seguridad  Alimentaria  y  Nutrición  (AESAN)
-sobre recomendaciones dietéticas sostenibles y recomendaciones de actividad física para la población
-española (2022). Madrid
-
-Martínez   Hernández,   A.,   Portillo   Baquedano,   Mª   del  P.  (2011).  Fundamentos  teórico-prácticos  de
-nutrición y dietética. Ed. Panamericana, Madrid
-
-Muñoz,   M.,   Aranceta,   J.,   García-Jalón,   I.  (2004).  Nutrición  aplicada  y  dietoterapia.  2ª  ed.  Ed.
-EUNSA, Pamplona
-
 Rivero,   M.,   Riba,   M.,   Vila,   LL.   (2003).   Nuevo  manual  de  dietética  y  nutrición.  Ed.  A.  Madrid-
 Vicente, Madrid
 
@@ -72,4 +48,25 @@ clínica. 2ª ed. Ed. Masson, Barcelona
 Vázquez,   C.,   De   Cós,   A.I.,   López  Nomdedeu,  C.  (2005).  Alimentación  y  nutrición.  Manual  teórico-
 práctico, 2ª ed. Ed. Díaz de Santos, Madrid
 
-📊 Porcentaje estimado de cambio: 84% [████████░░]
+Zuveldia,   J.M.,   Baeza,   M.L.,   Jáuregui,   I.,   Sennet,   C.   (Coordinadores).   (2012).  Libro  de  las
+enfermedades alérgicas de la Fundación BBVA. Ed. Nerea S.A. San Sebastián
+
+✅ Recursos añadidos (6):
+------------------------------
+Gil, A. (2024). Tratado de nutrición (Tomos II y III). Ed. Panamericana, Madrid
+
+Informe   del   Comité   Científico  de  la  Agencia  Española  de  Seguridad  Alimentaria  y  Nutrición  (AESAN)
+sobre recomendaciones dietéticas sostenibles y recomendaciones de actividad física para la población
+española (2022). Madrid
+
+Martínez   Hernández,   A.,   Portillo   Baquedano,   Mª   del  P.  (2011).  Fundamentos  teórico-prácticos  de
+nutrición y dietética. Ed. Panamericana, Madrid
+
+Melvin, H.W. (2005). Nutrición para la salud, la condición física y el deporte. McGraw-Hill, México
+
+Muñoz,   M.,   Aranceta,   J.,   García-Jalón,   I.  (2004).  Nutrición  aplicada  y  dietoterapia.  2ª  ed.  Ed.
+EUNSA, Pamplona
+
+SENC (2015). Guías alimentarias para la población española. IM & C, S.A. Madrid
+
+📊 Porcentaje estimado de cambio: 47% [████░░░░░░]

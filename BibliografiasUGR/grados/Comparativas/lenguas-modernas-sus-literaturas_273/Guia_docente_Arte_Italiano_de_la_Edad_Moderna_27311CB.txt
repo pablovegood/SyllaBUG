@@ -2,12 +2,11 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-VARRIANO,   J.  Arquitectura  italiana  del  Barroco  al  Rococó.  Madrid,  Alianza,  1990.  el  seguimiento  del
-trabajo personal del alumno
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
 ANCESCHI, L. La idea del Barroco. Estudios sobre un problema estético .Madrid, Tecnos, 1991
 
@@ -34,6 +33,9 @@ BOTTINEAU, Y. El arte barroco . Madrid, Akal, 1991
 BURCKHARDT, J. La cultura del Renacimiento en Italia . Madrid: Akal, 2004
 
 BURKE, P. El Renacimiento italiano: cultura y sociedad en Italia . Madrid, Alianza, 2001
+
+CASTEX, J. Renacimiento, Barroco y Clasicismo: historia de la arquitectura, 1420-1720. Madrid, Akal,
+1994
 
 CHASTEL, A. E l Renacimiento italiano, 1460-1500 . Madrid, Akal, 2005
 
@@ -67,23 +69,16 @@ PACCIAROTTI, G. La pintura barroca en Italia . Madrid, Istmo, 2000
 
 PAOLETTI, J.T. y RADKE, G.M. El arte en la Italia del Renacimiento . Madrid, Akal, 2002
 
+VARRIANO, J. Arquitectura italiana del Barroco al Rococ ó. Madrid, Alianza, 1990
+
 WITTKOWER, R. Arte y arquitectura en Italia, 1600-1750. Madrid, Cátedra, 2007
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-CASTEX, J. Renacimiento, Barroco y Clasicismo: historia de la arquitectura, 1420-1720. Madrid, Akal,
-1994
-
 CÁMARA   MUÑOZ,   A.   y   CARRIÒ-INVERNIZZI,   D.   Historia  del  Arte  de  los  Siglos  XVII  y  XVIII:  Redes  y
 circulación de modelos artísticos . Madrid, Editorial Universitaria Ramón Areces, 2015
 
 URQUÍZAR HERRERA, A. y CÁMARA MUÑOZ, A. Renacimiento . Madrid, Editorial Universitaria Ramón Areces,
 2017
 
-VARRIANO, J. Arquitectura italiana del Barroco al Rococ ó. Madrid, Alianza, 1990
-
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

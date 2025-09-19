@@ -2,21 +2,11 @@
 Grado: administracion-direccion-empresas-dcho-melilla (528)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Dijusa.   Madrid   SÁNCHEZ  CALERO,  F.  J.  (Coord.):  Curso  de  Derecho  civil  II,  Derecho  de  obligaciones,
-Contratos y Responsabilidad por hechos ilícitos. Ed. Tirant lo Blanch. Valencia 2020 SÁNCHEZ CALERO,
-F.J. (Coord.): Derecho civil II. Cuaderno de Actividades, Ed. Técnica Avicam. Granada
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (11):
 ------------------------------
 ALABALADEJO GARCÍA, M.: Curso de Derecho civil II, Ed. Edisofer. Madrid
 
@@ -29,6 +19,10 @@ Manual de Derecho civil. Contratos. Ed. Bercal. Madrid
 
 CARRASCO   PERERA,   A.   (Dir.):   Lecciones   de   Derecho  civil.  Derecho  de  obligaciones  y  contratos  en
 general. Ed. Tecnos
+
+Dijusa.   Madrid   SÁNCHEZ  CALERO,  F.  J.  (Coord.):  Curso  de  Derecho  civil  II,  Derecho  de  obligaciones,
+Contratos y Responsabilidad por hechos ilícitos. Ed. Tirant lo Blanch. Valencia 2020 SÁNCHEZ CALERO,
+F.J. (Coord.): Derecho civil II. Cuaderno de Actividades, Ed. Técnica Avicam. Granada
 
 DÍEZ-PICAZO,   L.   y   GULLÓN,   A.:  Sistema  de  Derecho  civil,  Vol.  II.  Ed.  Tecnos.  Tomo  1.  El  contrato
 general.   La   relación   obligatoria.   Ed.   Tecnos.   Tomo   2.   Contratos  en  especial.  Cuasicontratos.
@@ -46,7 +40,12 @@ responsabilidad civil
 
 O’CALLAGHAN, X.: Compendio de Derecho civil. Tomo II. Derecho de obligaciones. Ed. Dijusa. Madrid
 
+SÁNCHEZ   CALERO,   F.J.   (Coord.):   Derecho   civil   II.   Cuaderno  de  Actividades,  Ed.  Técnica  Avicam.
+Granada
+
+✅ Recursos añadidos (1):
+------------------------------
 SÁNCHEZ   CALERO,   F.   J.   (Coord.):   Curso  de  Derecho  civil  II,  Derecho  de  obligaciones,  Contratos  y
 Responsabilidad por hechos ilícitos. Ed. Tirant lo Blanch. Valencia 2020
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

@@ -2,11 +2,13 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Muñiz,   J.,   (2002).   Teoría  Clásica  de  los  Test.  Madrid.  Pirámide,  Barbero,  M.  I.,  Suárez,  J.  C.,  y
+Vila,   E.   (2003).   Psicometría.   Madrid.   UNED,   Muñiz,   J.   (1991).   Introducción   a   los   métodos
+psicofísicos. Barcelona. PPU
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 Pérez, F. J., Manzano, V., y Fazeli, H. (1999). Análisis de datos en Psicología. Madrid. Pirámide
 
@@ -16,17 +18,12 @@ y R. REVISTA PERSPECTIVA, 20(1), 112-114
 Şahin,   M.   D.,   &   Aybek,   E.  C.  (2019).  Jamovi:  an  easy  to  use  statistical  software  for  the  social
 scientists.International Journal of Assessment Tools in Education,6(4), 670-692
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Muñiz,   J.,   (2002).   Teoría  Clásica  de  los  Test.  Madrid.  Pirámide,  Barbero,  M.  I.,  Suárez,  J.  C.,  y
-Vila,   E.   (2003).   Psicometría.   Madrid.   UNED,   Muñiz,   J.   (1991).   Introducción   a   los   métodos
-psicofísicos.   Barcelona.   PPU   →   Muñiz,   J.   (1991).   Introducción   a   los   métodos   psicofísicos.
-Barcelona. PPU
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Barbero, M. I., Suárez, J. C., y Vila, E. (2003). Psicometría. Madrid. UNED
 
+Muñiz, J. (1991). Introducción a los métodos psicofísicos. Barcelona. PPU
+
 Muñiz, J., (2002). Teoría Clásica de los Test. Madrid. Pirámide
 
-📊 Porcentaje estimado de cambio: 75% [███████░░░]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

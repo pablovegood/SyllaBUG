@@ -2,11 +2,12 @@
 Grado: administracion-direccion-empresas-ceuta (433)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Sánchez,   G.,   Barrales,   V.,   Casado,   M.A.,  De  la  Torre,  J.M.  (2017):  Organización  de  empresas  (3ª
+edición). Granada: Editorial Técnica Avicam
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Bueno Campos, E. (1996). Organización de empresas. Madrid: Pirámide
 
@@ -35,14 +36,9 @@ Hall
 Stoner,   J.  A.  F.;  Freeman,  R.  E.  y  Gilbert,  D.  R.  (1996).  Administración  (6ª  ed.).  México:  Prentice
 Hall Hispanoamericana
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Sánchez,   G.,   Barrales,   V.,   Casado,   M.A.,  De  la  Torre,  J.M.  (2017):  Organización  de  empresas  (3ª
-edición).   Granada:   Editorial   Técnica   Avicam   →   Sánchez,   G.,   Casado,   M.A.,  De  la  Torre,  J.M.,
-Martín, R. (2025): Organización de empresas (4ª edición). Granada: Editorial Técnica Avicam
+Sánchez,   G.,   Casado,   M.A.,   De   la   Torre,   J.M.,  Martín,  R.  (2025):  Organización  de  empresas  (4ª
+edición). Granada: Editorial Técnica Avicam
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

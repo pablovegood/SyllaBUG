@@ -2,11 +2,11 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
 ALLAN,   J.D.,   CASTILLO,   M.M.  &  CAPPS,  K.A.  2021.  Stream  ecology:  structure  and  function  of  running
 waters. Springer Nature
@@ -84,11 +84,7 @@ WETZEL, R.G. 1981. Limnología. Omega
 
 WETZEL, R.G. 2001. Limnology. Lake and river ecosystems. 3rd edition. Academic Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

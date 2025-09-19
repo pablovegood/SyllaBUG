@@ -2,12 +2,15 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
+A.   Yebra,   M.   Melgosa.  “Exámenes  de  Óptica  Geométrica  II  (cursos  2010/11  a  2016/17)”.  Artículos  de
+divulgación científica
+
 C.   Hernández,   B.   Domenech,   C.   Vázquez,   C.   Illueca.   “Óptica  Geométrica:  Teoría  y  cuestiones”.
 Universidad de Alicante, 1999
 
@@ -26,18 +29,9 @@ Mª S. Millán, J. Escofet, E. Pérez. “Óptica Geométrica”. Ariel Ciencia,
 
 Mª S. Millán, J. Escofet, M. Lupón. “Óptica Geométrica. Problemas”. Ediciones UPC, nº 21, 1993
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Universidad   de   Granada.   Godel  Impresiones  Digitales  SL,  2018  →  A.  Yebra,  M.  Melgosa.  “Exámenes  de
-Óptica   Geométrica   II   (cursos   2010/11   a   2016/17)”.   Universidad   de   Granada.  Godel  Impresiones
-Digitales SL, 2018
+A.   Yebra,  M.  Melgosa.  “Exámenes  de  Óptica  Geométrica  II  (cursos  2010/11  a  2016/17)”.  Universidad  de
+Granada. Godel Impresiones Digitales SL, 2018
 
-A.   Yebra,   M.  Melgosa.  “Exámenes  de  Óptica  Geométrica  II  (cursos  2010/11  a  2016/17)”  →  A.  Yebra,  M.
-Melgosa.   “Exámenes   de   Óptica   Geométrica   II  (cursos  2010/11  a  2016/17)”.  Universidad  de  Granada.
-Godel Impresiones Digitales SL, 2018
-
-✅ Recursos añadidos:
-------------------------------
-Artículos de divulgación científica
-
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

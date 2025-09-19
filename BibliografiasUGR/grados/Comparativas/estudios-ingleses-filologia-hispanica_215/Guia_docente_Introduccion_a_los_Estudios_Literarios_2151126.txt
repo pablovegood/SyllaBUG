@@ -2,11 +2,13 @@
 Grado: estudios-ingleses-filologia-hispanica (215)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+WAHNÓN, S. (1991), Introducción a la historia de las teorías literarias, Granada, WAHNÓN, S. (2008),
+Teoría   de  la  literatura  y  de  la  interpretación  literaria.  Ensayos  y  reflexiones,  Vigo,  Academia  del
+Hispanismo
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 ASENSI,   M.   (1998),   Historia  de  la  teoría  de  la  literatura  (desde  los  inicios  hasta  el  siglo  XIX),
 Valencia, Tirant lo Blanch
@@ -16,7 +18,7 @@ Valencia, Tirant lo Blanch
 
 AULLÓN DE HARO, P. (ed.) (1994), Teoría de la crítica literaria, Madrid, Trotta
 
-CESARINI, R. (2003), Introducción a los estudios literarios, Barcelona, Crítica
+CESARINI, Remo (2003), Introducción a los estudios literarios, Barcelona, Crítica
 
 CULLER, J. (2000), Breve introducción a la teoría literaria, Barcelona, Crítica
 
@@ -31,18 +33,12 @@ LLOVET, J. (ed.) (2005), Teoría literaria y literatura comparada, Barcelona, Ar
 
 VIÑAS PIQUER, D. (2002), Historia de la crítica literaria, Barcelona, Ariel
 
+✅ Recursos añadidos (2):
+------------------------------
 WAHNÓN,   S.   (1991),   Introducción   a  la  historia  de  las  teorías  literarias,  Granada,  Universidad  de
 Granada
 
 WAHNÓN,   S.  (2008),  Teoría  de  la  literatura  y  de  la  interpretación  literaria.  Ensayos  y  reflexiones,
 Vigo, Academia del Hispanismo
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

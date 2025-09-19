@@ -2,22 +2,23 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+(2004).Reboiras,   M.D."   Problemas   resueltos   de   química.   La  ciencia  básica".  Editorial  Paraninfo
+(2007)
 
-📚 Recursos sin cambios:
+Domínguez Reboiras, M.A. "Química. La Ciencia Básica". Ed. Thomson (2006)
+
+📚 Recursos sin cambios (14):
 ------------------------------
-Atkins,   P.W.  y  Jones,L.  “Problemas  de  Química  General”  (Sólo  versión  electrónica).  Panamericana,  5ª
-edición (2012)
-
 Brown   T.L.,   LeMay   H.E.   y   Bursten  B.E.  "Química:  La  Ciencia  Central”.  Prentice-Hall,  7ª  edición,
 (1998)
 
 Brown   T.L.,   LeMay   H.E.,   Bursten   B.E.,   Murphy  C.,  Woodward  P.  y  Stoltzfus  M.E.  “  Chemistry:  The
-Central Science". Prentice Hall, 15ª Edition (2023)
+Central Science". Prentice Hall. 15ª Edition (2023)
 
-Chang R., Overby J. "Chemistry". Mc-Graw-Hill Education, 14ª Edition (2021)
+Chang   R.,  Overby  J.  "Chemistry".  Mc-Graw-Hill  Education,  14ª  Edition  (2021)  Atkins  P.W.  y  Jones  L.,
+“Principios de Química. Los Caminos del Descubrimiento”, 5ª edición, Panamericana (2021)
 
 Chang R., Overby J. “Química General". Mac-Graw Hill Interamericana de España, 13ª Edición (2020)
 
@@ -31,34 +32,32 @@ Fernández, M.R. y Hidalgo, J.A.. “1000 Problemas de Química General”. Ed. 
 
 Latorre Ariño M, "Química Inorgánica" Nomenclatura y formulación". Grupo Editorial Luis Vives (2019)
 
+Libros de formulación: W. R. Peterson, “Nomenclatura de las sustancias químicas”. Editorial Reverté,
+5ª edición. 2020
+
+Libros   de   problemas:   Atkins,   P.W.   y   Jones,L.   “Problemas   de   Química   General”   (Sólo  versión
+electrónica). 5ª edición Panamericana (2012)
+
+Libros de teoría: Petrucci, Ralph. H., Herring, F.G., Madura J.D. y Bissonnette, C. “Química General
+
+Navarrete, A. Rodríguez. "La resolución de Problemas de Química". Anaya (2004)
+
 Petrucci, Ralph. H., Herring, F.G., Madura J.D. y Bissonnette, C. “General Chemistry. Principles and
 Modern Applications”. Prentice Hall, 12ª Edition (2023)
 
 Petrucci,   Ralph.   H.,   Herring,   F.G.,  Madura  J.D.  y  Bissonnette,  C.  “Química  General.  Principios  y
 Aplicaciones Modernas”. Pearson Educación, 11ª Edición (2017)
 
-W. R. Peterson, “Nomenclatura de las sustancias químicas”. Editorial Reverté, 5ª edición (2020)
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Navarrete,   A.   Rodríguez.   "La   resolución   de   Problemas  de  Química".  Anaya  (2004).Reboiras,  M.D."
-Problemas   resueltos   de   química.   La  ciencia  básica".  Editorial  Paraninfo  (2007)  →  Reboiras,  M.D."
-Problemas resueltos de química. La ciencia básica". Editorial Paraninfo (2007)
+Chang R., Overby J. "Chemistry". Mc-Graw-Hill Education, 14ª Edition (2021)
 
-Domínguez   Reboiras,   M.A.   "Química.   La   Ciencia  Básica".  Ed.  Thomson  (2006)  →  Domínguez  Reboiras,
-M.A. "Química. La Ciencia Básica". Ed. Thomson (2008)
-
-✅ Recursos añadidos:
-------------------------------
-Atkins   P.W.   y   Jones  L.,  “Principios  de  Química.  Los  Caminos  del  Descubrimiento”.  Panamericana,  5ª
-edición (2021)
+Domínguez Reboiras, M.A. "Química. La Ciencia Básica". Ed. Thomson (2008)
 
 Libros de formulación
 
 Libros de problemas
 
-Libros de teoría
+Reboiras, M.D." Problemas resueltos de química. La ciencia básica". Editorial Paraninfo (2007)
 
-Navarrete, A. Rodríguez. "La resolución de Problemas de Química". Anaya (2004)
-
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

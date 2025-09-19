@@ -2,14 +2,28 @@
 Grado: ingenieria-informatica-matematicas (297)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+Brooks/Cole. 2001 N.M. Josuttis, The C++ Standard Library: A Tutorial and Reference. Addison-Wesley.
+2012
 
-📚 Recursos sin cambios:
+Dale,   Nell.  C++  Plus  Data  Structures.  Jones  &  Bartlett  Learning;  6a  edición.  2016  Varsha  H.  Patil  .
+Data Structures using C++ . New Delhi, India: Oxford University Press, .2018
+
+Pearson.   2017   Elliot   B.   Koffman   and  Paul  AT  Wolfgang.  Objects,  Abstraction,  Data  Structures  and
+Design: Using C++. Wiley. 2006 A. Garrido. Metodología de Programación: de bits a objetos. Editorial
+Universidad   de  Granada,  2016  H.Deitel  and  P.  Deitel.  C++  How  to  program  (Early  Objects  Version)  9/E
+(2013) Pearson Gilberg, R.F., Forouzan, B.A. . Data structures: A pseudocode approach with C++
+
+Robson,   R.   Using   the   STL   (2nd   ed.)   Springer  Verlag.  2013  Frank  M.  Carrano.  Data  Abstraction  &
+Problem Solving with C++: Walls and Mirrors. 7ed
+
+Rosa   Rodriguez-Sánchez,   J.   Fdez-Valdivia,   J.A.   García,   Estructuras  de  Datos  en  C++.  Un  enfoque
+práctico..   2020   A.   Garrido,   J.   Fdez-Valdivia,   Abstracción  y  Estructuras  de  Datos  en  C++.  Delta
+public
+
+📚 Recursos sin cambios (5):
 ------------------------------
-A. Garrido, J. Fdez-Valdivia, Abstracción y Estructuras de Datos en C++. Delta public.. 2006
-
 A.   Garrido,  Programación  genérica  en  C++:  L  a  biblioteca  estándar.  Editorial  Universidad  de  Granada
 2017
 
@@ -21,34 +35,21 @@ Design. Addison-Wesley. 2000
 
 Bjarne Stroustrup. “The C++ Programming Language, 4th Edition”. Addison Wesley Professional, 2013
 
-Robson, R. Using the STL (2nd ed.) Springer Verlag. 2013
+R.   Musser,  J.  Derge  y  A.  Saini.  STL  Tutorial  and  Reference  Guide:  C++  Programming  with  the  Standard
+Template Library. 3 Edicicion. Adisson-Wesley 2009
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (12):
 ------------------------------
-Pearson.   2017   Elliot   B.   Koffman   and  Paul  AT  Wolfgang.  Objects,  Abstraction,  Data  Structures  and
-Design: Using C++. Wiley. 2006 A. Garrido. Metodología de Programación: de bits a objetos. Editorial
-Universidad   de  Granada,  2016  H.Deitel  and  P.  Deitel.  C++  How  to  program  (Early  Objects  Version)  9/E
-(2013)   Pearson   Gilberg,   R.F.,   Forouzan,  B.A.  .  Data  structures:  A  pseudocode  approach  with  C++  →
-Elliot B. Koffman and Paul AT Wolfgang. Objects, Abstraction, Data Structures and Design: Using C++.
-Wiley. 2006
+A. Garrido, J. Fdez-Valdivia, Abstracción y Estructuras de Datos en C++. Delta public.. 2006
 
-Brooks/Cole.   2001  N.M.  Josuttis,  The  C++  Standard  Library:  A  Tutorial  and  Reference.  Addison-Wesley
-→  N.M. Josuttis, The C++ Standard Library: A Tutorial and Reference. Addison-Wesley. 2012
+A. Garrido. Fundamentos de Programación con la STL. Editorial Universidad de Granada, 2016
 
-A.   Garrido.  Fundamentos  de  Programación  con  la  STL.  Editorial  Universidad  de  Granada,  R.  Musser,  J.
-Derge   y   A.   Saini.   STL   Tutorial   and  Reference  Guide:  C++  Programming  with  the  Standard  Template
-Library.   3   Edicicion.   Adisson-Wesley   2009   →  A.  Garrido.  Fundamentos  de  Programación  con  la  STL.
-Editorial Universidad de Granada, 2016
-
-Dale,   Nell.  C++  Plus  Data  Structures.  Jones  &  Bartlett  Learning;  6a  edición.  2016  Varsha  H.  Patil  .
-Data   Structures   using   C++   .  New  Delhi,  India:  Oxford  University  Press,  .2018  →  Varsha  H.  Patil  .
-Data Structures using C++ . New Delhi, India: Oxford University Press, .2018
-
-✅ Recursos añadidos:
-------------------------------
 A. Garrido. Metodología de Programación: de bits a objetos. Editorial Universidad de Granada, 2016
 
 Dale, Nell. C++ Plus Data Structures. Jones & Bartlett Learning; 6a edición. 2016
+
+Elliot B. Koffman and Paul AT Wolfgang. Objects, Abstraction, Data Structures and Design: Using C++.
+Wiley. 2006
 
 Frank M. Carrano. Data Abstraction & Problem Solving with C++: Walls and Mirrors. 7ed. Pearson. 2017
 
@@ -56,10 +57,13 @@ Gilberg, R.F., Forouzan, B.A. . Data structures: A pseudocode approach with C++.
 
 H.Deitel and P. Deitel. C++ How to program (Early Objects Version) 9/E (2013) Pearson
 
-R.   Musser,  J.  Derge  y  A.  Saini.  STL  Tutorial  and  Reference  Guide:  C++  Programming  with  the  Standard
-Template Library. 3 Edicicion. Adisson-Wesley 2009
+N.M. Josuttis, The C++ Standard Library: A Tutorial and Reference. Addison-Wesley. 2012
+
+Robson, R. Using the STL (2nd ed.) Springer Verlag. 2013
 
 Rosa   Rodriguez-Sánchez,   J.   Fdez-Valdivia,   J.A.   García,   Estructuras  de  Datos  en  C++.  Un  enfoque
 práctico.. 2020
+
+Varsha H. Patil . Data Structures using C++ . New Delhi, India: Oxford University Press, .2018
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

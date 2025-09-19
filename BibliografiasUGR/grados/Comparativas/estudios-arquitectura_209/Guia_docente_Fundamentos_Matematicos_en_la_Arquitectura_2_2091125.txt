@@ -2,15 +2,11 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Thomson. Madrid, 2005
+No hay elementos.
 
-Thomson. Madrid, 2008
-
-Valencia. Valencia, 1998
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 Alsina,   C.  y  Trillas,  E.  Lecciones  de  Álgebra  y  Geometría.  Editorial  Gustavo  Gili,  S.  A.  Barcelona,
 1984
@@ -39,6 +35,9 @@ López, A. y De la Villa, A. Geometría diferencial. Ed. CLAGSA. Madrid, 1997
 
 Merino, L. y Santos, E. Álgebra lineal con métodos elementales. Ed. Thomson. Madrid, 2007
 
+Morera,   J.   L.   Cónicas   y   cuádricas:  curso  teórico-práctico.  Universidad  Politécnica  de  Valencia.
+Valencia, 1998
+
 Nortes,   A.   Estadística   teórica  y  aplicada.  Promociones  y  Publicaciones  Universitarias.  Barcelona,
 1993
 
@@ -56,13 +55,8 @@ Madrid, 2008
 
 Zill, D. G. Ecuaciones diferenciales con aplicaciones de modelado. Ed. Thomson. México, 2007
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Morera,   J.   L.   Cónicas   y   cuádricas:  curso  teórico-práctico.  Universidad  Politécnica  de  Valencia.
-Valencia, 1998
-
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

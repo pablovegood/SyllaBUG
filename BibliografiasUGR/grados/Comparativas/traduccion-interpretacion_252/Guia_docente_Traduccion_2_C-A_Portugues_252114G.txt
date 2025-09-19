@@ -2,22 +2,18 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+ALVES, Fernando Ferreira ; FERNANDES, Paulo ; MONTEIRO, Sérgio (2006). "Quase tudo o que eu (sempre)
+quis   saber   sobre   tradução   :   kit   de   sobrevivência"   [Em   linha].   [Braga]   :  Centro  de  Estudos
+Humanísticos          da          Universidade          do          Minho,          Disponible         en:
+http://repositorium.sdum.uminho.pt/bitstream/1822/5890/5/GuiaTraducaoPortugal%2 6Anexo.pdf CARLUCCI,
+Laura/DÍAZ   Ferrero,   Ana   M.ª.   (2007).   “Falsas   equivalencias   en  la  traducción  de  lenguas  afines
+propuesta taxonómica”. Sendebar, n.º 18, pp. 159-190
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Academia das Ciências de Lisboa (2001). Dicionário da Língua Portuguesa Contemporânea. Lisboa: Verbo
-
-CARLUCCI,   Laura/DÍAZ   Ferrero,   Ana   M.ª.  (2007).  “Falsas  equivalencias  en  la  traducción  de  lenguas
-afines        propuesta        taxonómica”.        Sendebar,        n.º        18,       pp.       159-190.
-https://revistaseug.ugr.es/index.php/sendebar/article/view/689
-
-COMELLAS   Casanova,   Pere,  (2005).  "Línguas  próximas,  culturas  longínquas:  a  tradução  de  Mayombe,  de
-Pepetela, do português para o espanhol". Revista Galega de Filoloxia, 6, pp. 159-168
-
-DÍAZ FERRERO, Ana M. Falsos amigos, (2018). Lisboa: Lidel, 3ª ed. 2018
 
 DÍAZ   Ferrero,   A.  M./SABIO  Pinilla,  J.  A.  (2017).  “Aplicaciones  a  la  enseñanza  de  la  traducción  del
 Mínimo paremiológico del portugués”, Revista Caracol, n. 14, pp. 104-129
@@ -52,7 +48,8 @@ Trea
 
 MARZANO, Fabio (2001). Dicionário Espanhol-Português de Falsas Semelhanças . Rio de Janeiro: Campus
 
-Real Academia Española (2010). Ortografía de la lengua española . Madrid: Espasa
+Real   Academia   Española.  Banco  de  datos  (CREA)  [en  línea].  Corpus  de  referencia  del  español  actual.
+<http://www.rae.es> Real Academia Española (2010). Ortografía de la lengua española. Madrid: Espasa
 
 SABIO   Pinilla,   José   Antonio   (1996).  Traducir  del  portugués  al  español:  la  engañosa  facilidad.  En
 Actas   I   Congreso  Internacional  de  Traducción  (Universitat  Autònoma  de  Barcelona).  Edició  a  cura  de
@@ -70,17 +67,24 @@ Estudios de Traducción e Interpretación . Granada 12-14 de Febrero de 2003. Gr
 1,     pp.     533-544.     ISBN     84-933360-0-9.     Disponible     en     la     web     de    la    AIETI:
 <http://www.aieti.eu/pubs/actas/I/AIETI_1_HT_Autotraducao.pdf>
 
-🔁 Misma obra con edición/año distinto:
+https://cvc.cervantes.es/lengua/biblioteca_fraseologica/m4_diaz/ DÍAZ FERRERO, Ana M. Falsos amigos,
+(2018). Lisboa: Lidel, 3ª ed. 2018
+
+https://revistaseug.ugr.es/index.php/sendebar/article/view/689    COMELLAS   Casanova,   Pere,   (2005).
+"Línguas   próximas,   culturas   longínquas:   a   tradução  de  Mayombe,  de  Pepetela,  do  português  para  o
+espanhol". Revista Galega de Filoloxia, 6, pp. 159-168
+
+✅ Recursos añadidos (6):
 ------------------------------
 ALVES, Fernando Ferreira ; FERNANDES, Paulo ; MONTEIRO, Sérgio (2006). "Quase tudo o que eu (sempre)
-quis   saber   sobre  tradução  :  kit  de  sobrevivência"  [Em  linha].  [Braga]  →  ALVES,  Fernando  Ferreira  ;
-FERNANDES,   Paulo  ;  MONTEIRO,  Sérgio  (2006).  "Quase  tudo  o  que  eu  (sempre)  quis  saber  sobre  tradução
-:   kit   de   sobrevivência"   [Em   linha].  [Braga]  :  Centro  de  Estudos  Humanísticos  da  Universidade  do
-Minho,                                          Disponible                                         en:
+quis   saber   sobre   tradução   :   kit   de   sobrevivência"   [Em   linha].   [Braga]   :  Centro  de  Estudos
+Humanísticos          da          Universidade          do          Minho,          Disponible         en:
 http://repositorium.sdum.uminho.pt/bitstream/1822/5890/5/GuiaTraducaoPortugal%26Anexo.pdf
 
-✅ Recursos añadidos:
-------------------------------
+CARLUCCI,   Laura/DÍAZ   Ferrero,   Ana   M.ª.  (2007).  “Falsas  equivalencias  en  la  traducción  de  lenguas
+afines        propuesta        taxonómica”.        Sendebar,        n.º        18,       pp.       159-190.
+https://revistaseug.ugr.es/index.php/sendebar/article/view/689
+
 DÍAZ   Ferrero,   A.   M.   (2023)   "Convencionalidade   e   Fixação   Fraseológica.   Detalhes   que  Fazem  a
 Diferença",   En   Pamies,   A.   Structural  Fi  Xedness  and  Conceptual  Idiomaticity.  Elena  Arsentieva  in
 Memoriam, pp.189-201
@@ -94,4 +98,4 @@ Real   Academia   Española.  Banco  de  datos  (CREA)  [en  línea].  Corpus  d
 TAGNIN,   S.   E.   O.  (2013).  O  jeito  que  a  gente  diz  -  combinações  consagradas  em  inglês  e  português,
 São Paulo: Disal
 
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

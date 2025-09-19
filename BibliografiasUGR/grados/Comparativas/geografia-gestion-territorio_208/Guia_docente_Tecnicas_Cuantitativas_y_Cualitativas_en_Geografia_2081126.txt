@@ -2,17 +2,19 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 BURT, J. E. et al. (2009): Elementary statistics for geographers. New York. GuilfordPress
 
 CLIFFORD, N. et al. (2010): Key Methods in Geography. London. SAGE
 
 CORTIZO ÁLVAREZ, T. (1998): Los gráficos en Geografía. Gijón. Tria-Ka
+
+DICCIONARIOS GEORGE, P.: Diccionario de Geografía. Akal, Madrid, 1991
 
 DÍAZ DE RADA, V. (2005): Manual de trabajo de campo en la encuesta. Cuadernos del CIS, no 36
 
@@ -24,8 +26,6 @@ FISCHER,   M.   M.   y   GETIS,   A.   (2010):  Handbook  of  Applied  Spatial  
 London-New York. Springer
 
 GARCIA BALLESTEROS, A. (1998): Métodos y técnicas cualitativas en Geografía Social. Oikos-Tau
-
-GEORGE, P.: Diccionario de Geografía. Akal, Madrid, 1991
 
 GOMEZ, B. y JONES III, J. P. (2010): Research Methods in Geography. Blackwell
 
@@ -69,12 +69,8 @@ búsqueda de significados. Barcelona. Paidós
 VALLES,   M.   S.  (2014).  Entrevistas  cualitativas.  2a.  edición  revisada  y  ampliada.  Madrid:  Centro  de
 Investigaciones Sociológicas (CIS)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-DICCIONARIOS
+GEORGE, P.: Diccionario de Geografía. Akal, Madrid, 1991
 
 📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

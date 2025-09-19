@@ -2,16 +2,16 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 Abril,   D.,   Delgado,   C.I.,   &   Vigara,   A.   (2009).Comunicación  aumentativa  y  alternativa:  guía  de
 referencia.Madrid: CEAPAT
 
-Alcantud,    F.,    &    Soto,    F.J    (2003).Tecnologías   de   ayuda   en   personas   con   trastornos   de
+Alcantud,    F.    ,    &   Soto,   F.J   (2003).Tecnologías   de   ayuda   en   personas   con   trastornos   de
 comunicación.Valencia: Nau Llibres
 
 Attermeier, S. (2013). Augmentative Communication: Clinical Issues.Routledge
@@ -19,8 +19,13 @@ Attermeier, S. (2013). Augmentative Communication: Clinical Issues.Routledge
 Basil,   C.,  Soro,  E.,  &  Rosell,  C.  (2004).  Sistemas  de  signos  y  ayudas  técnicas  para  la  comunicación
 aumentativa y la escritura. Barcelona: Masson
 
+Baumgart,   D.,   Johnson,   J.   &   Helmstetter,   E.   (1996).Sistemas  alternativos  de  comunicación  para
+personas con discapacidad.Ed. Alianza Psicología
+
 Beukelman, D., & Mirenda, P. (2012). Augmentative and alternative communication: Supporting children
 and adults with complex communication needs.Paul H. Brookes Pub
+
+Díaz Carcelén, M.L. (2004). Las voces del silencio.Murcia: Consejería de Educación y Cultura
 
 Figueredo Sánchez, J.M. (2020). Sistemas aumentativos y alternativos de comunicación. Paraninfo, S.A
 
@@ -40,15 +45,8 @@ Van   Berckelaer-Onnes,   I.,   Herrera  Gutiérrez,  G.,  Noens,  I  &  Verpoor
 Precursores   de   la   Comunicación.   Pruebas   para   la   evaluación   de   las   necesidades   de  sistemas
 aumentativos de comunicación. Autismo Avila
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Baumgart,   D.,   Johnson,   J.   &   Helmstetter,  E.  (1996).Sistemas  alternativos  de  Díaz  Carcelén,  M.L.
-(2004).   Las   voces   del   silencio.Murcia:   Consejería   de  Educación  y  Cultura  →  Díaz  Carcelén,  M.L.
-(2004). Las voces del silencio.Murcia: Consejería de Educación y Cultura
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Baumgart,   D.,   Johnson,   J.   &   Helmstetter,   E.   (1996).Sistemas  alternativos  de  comunicación  para
-personas con discapacidad.Ed. Alianza Psicología
-
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

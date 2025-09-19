@@ -2,14 +2,24 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+HOPKINS,   W.   G.   y   HÜNER,   N.   P.  A.  (2009):  Introduction  to  Plant  Physiology.  Whiley  &  Sons,  Inc.
+Hoboken,   NJ,   USA   SLATER,   A.,  SCOTT,  N.W.  y  FOWLER,  M.R.  (2008):  Plant  Biotechnology:  The  Genetic
+Manipulation   of  Plants.  (2ª  ed.).  Oxford  University  Press,  2008  TAIZ,  L.  y  ZEIGER,  E.  (2010):  Plant
+Physiology (5ª ed.). Sinauer Associates, Sunderland, MA, USA
 
-📚 Recursos sin cambios:
+Interamericana-McGraw-Hill,   UBe,  Madrid  AIZ,  L.  y  ZEIGER,  E.  (2006).  Fisiología  Vegetal  2  volúmenes
+(Traducción de la 3ª Ed) (Universidad Jaume I. Servicio de Comunicación y Publicaciones) EPSTEIN, E.
+y   BLOOM,   A.J.   (2005)   Mineral  nutrition  of  plants:  principles  and  perspectivas.  Editorial  Sinauer
+Associates, Inc. Publishers
+
+📚 Recursos sin cambios (8):
 ------------------------------
 AZCÓN-BIETO   Y   TALÓN   (2008)  Fundamentos  De  Fisiología  Vegetal  (2ª  Ed).  Interamericana-McGraw-Hill,
 UBe, Madrid
+
+BOWSHER, C. , STEER, M., TOBIN, A. (2008) Plant Biochemistry. Garland Science. NY, USA
 
 BUCHANAN,   B.   B.,   GRUISSEN,  W.  Y  JONES,  R.L.  (2017):  Biochemistry  and  Molecular  Biology  of  Plants.
 Second Edition. Am. Soc. of Plant Physiologists. Wiley BlackWiley
@@ -29,31 +39,20 @@ Spain- Paraninfo, S.A., Madrid
 TAIZ,   L.,   ZEIGER,   E.,   Moller,   i.A.,  Murphy,  A.(2014).  Plant  Physiology  and  Development.  Sinauer
 Associates, Sunderland, MA, USA
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-HOPKINS,   W.   G.   y   HÜNER,   N.   P.  A.  (2009):  Introduction  to  Plant  Physiology.  Whiley  &  Sons,  Inc.
-Hoboken,   NJ,   USA   SLATER,   A.,  SCOTT,  N.W.  y  FOWLER,  M.R.  (2008):  Plant  Biotechnology:  The  Genetic
-Manipulation   of  Plants.  (2ª  ed.).  Oxford  University  Press,  2008  TAIZ,  L.  y  ZEIGER,  E.  (2010):  Plant
-Physiology   (5ª   ed.).   Sinauer   Associates,   Sunderland,  MA,  USA  BOWSHER,  C.  ,  STEER,  M.,  TOBIN,  A.
-(2008)   Plant   Biochemistry.   Garland   Science.   NY   →   HOPKINS,   W.   G.   y   HÜNER,  N.  P.  A.  (2009):
-Introduction to Plant Physiology. Whiley & Sons, Inc. Hoboken, NJ, USA
-
-Interamericana-McGraw-Hill,   UBe,  Madrid  AIZ,  L.  y  ZEIGER,  E.  (2006).  Fisiología  Vegetal  2  volúmenes
-(Traducción de la 3ª Ed) (Universidad Jaume I. Servicio de Comunicación y Publicaciones) EPSTEIN, E.
-y   BLOOM,   A.J.   (2005)   Mineral  nutrition  of  plants:  principles  and  perspectivas.  Editorial  Sinauer
-Associates,   Inc.   Publishers   →   EPSTEIN,   E.   y   BLOOM,   A.J.   (2005)  Mineral  nutrition  of  plants:
-principles and perspectivas. Editorial Sinauer Associates, Inc. Publishers
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 AIZ,   L.   y   ZEIGER,  E.  (2006).  Fisiología  Vegetal  2  volúmenes  (Traducción  de  la  3ª  Ed)  (Universidad
 Jaume I. Servicio de Comunicación y Publicaciones)
 
-BOWSHER, C., STEER, M., TOBIN, A. (2008) Plant Biochemistry. Garland Science. NY, USA
+EPSTEIN, E. y BLOOM, A.J. (2005) Mineral nutrition of plants: principles and perspectivas. Editorial
+Sinauer Associates, Inc. Publishers
+
+HOPKINS,   W.   G.   y   HÜNER,   N.   P.  A.  (2009):  Introduction  to  Plant  Physiology.  Whiley  &  Sons,  Inc.
+Hoboken, NJ, USA
 
 SLATER,   A.,   SCOTT,   N.W.   y   FOWLER,  M.R.  (2008):  Plant  Biotechnology:  The  Genetic  Manipulation  of
 Plants. (2ª ed.). Oxford University Press, 2008
 
 TAIZ, L. y ZEIGER, E. (2010): Plant Physiology (5ª ed.). Sinauer Associates, Sunderland, MA, USA
 
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

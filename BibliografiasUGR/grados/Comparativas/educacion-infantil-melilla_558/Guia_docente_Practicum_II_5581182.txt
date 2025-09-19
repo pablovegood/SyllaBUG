@@ -2,13 +2,16 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-MEC (1992). Propuesta de secuencia Educación Infantil. Madrid: MEC- Escuela Española, pp
+Díez, C. (2011). Los pendientes de la maestra. Barcelona: Graó Gallego, J.L. & Fernández de Haro, E.
+(2003). (Dirs). Enciclopedia de Educación Infantil. Málaga: Aljibe, vol I, II
 
-📚 Recursos sin cambios:
+MEC (1992). Propuesta de secuencia Educación Infantil. Madrid: MEC- Escuela Española, pp. 22-25
+
+📚 Recursos sin cambios (8):
 ------------------------------
-Bondioli, A & Nigito, G. (2011). Tiempos, espacios y grupos.Graó
+Bondioli, A & Nigito, G. (2011). Tiempos, espacios y grupos. Barcelona: Graó
 
 Cámara, A., Campos, ML., Chica, E., Cotrina, M., Martín, D., Montes, S., Munilla, A.E., Perales, R.,
 Pérez,M.   P.,   Ramírez,  S.,  Rodríguez,  A.,  Rodríguez,  I.,  Rosales,  C.,  Sánchez.,  E.,  Sánchez.,  C.,  &
@@ -22,8 +25,8 @@ Diccionario enciclopédico de Didáctica. Aljibel, vol II, pp. 268-283
 González, A. P. (2001). Sistema metodológico en el proceso de enseñanza-aprendizaje. En F. Sepúlveda
 y N.Rjadell (coords). Didáctica general para Psicopedagogos. UNED, pp. 281-315
 
-Ibánez,   C.   (2009).   El   proyecto   de   educación  infantil  y  su  práctica  en  el  aula.  La  Muralla,  17ª
-Edición
+Ibánez,   C.   (2009).  El  proyecto  de  educación  infantil  y  su  práctica  en  el  aula.  Madrid:  La  Muralla,
+17ª Edición
 
 Imbernón,   F.   (2003).   La   programación   de   aula.   En   J.L.  Gallego  y  E.  Fernández  de  Haro  (dirs).
 Enciclopedia de Educación Infantil. Aljibe, Vol. I, pp. 625-646
@@ -31,16 +34,12 @@ Enciclopedia de Educación Infantil. Aljibe, Vol. I, pp. 625-646
 Sepúlveda,   M.   P.  (2005).  Las  prácticas  de  enseñanza  en  el  proceso  de  construcción  del  conocimiento
 profesional. Educar, 36, 71-93
 
-Shores, E.F. & Grace, C. (2004). El portafolio paso a paso. Infantil y Primaria. Graó
+Shores, E.F. & Grace, C. (2004). El portafolio paso a paso. Infantil y Primaria. Barcelona: Graó
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Díez, C. (2011). Los pendientes de la maestra. Barcelona: Graó Gallego, J.L. & Fernández de Haro, E.
-(2003).   (Dirs).   Enciclopedia  de  Educación  Infantil.  Málaga  →  Díez,  C.  (2011).  Los  pendientes  de  la
-maestra. Graó
+Díez, C. (2011). Los pendientes de la maestra. Graó
 
-✅ Recursos añadidos:
-------------------------------
 Gallego,   J.L.   &   Fernández  de  Haro,  E.  (2003).  (Dirs).  Enciclopedia  de  Educación  Infantil.  Aljibe,
 vol I, II
 
@@ -53,4 +52,4 @@ formación del profesorado. Síntesis
 Rodríguez,   J.,  Area,  M.  y  San  Martín,  Á.  (2024).  Infancia  y  transformación  digital  de  la  educación.
 Miradas diversas. Dykinson
 
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

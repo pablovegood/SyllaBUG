@@ -2,14 +2,32 @@
 Grado: farmacia-nutricion-humana-dietetica (225)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (6):
 ------------------------------
 Ciencia   bromatológiga:  principios  generales  de  los  alimentos.  Bello  Gutiérrez,  J.  Editorial  Díaz  de
-Santos, S. A. Madrid 2000
+Santos, S. A. Madrid 2000Food chemistry, 4th revised and extended revision. H. D. Belitz, W. Grosch,
+P. Schieberle. Springer-Verlag, Leipzig, 2009
+
+Química   de   los   alimentos,  2ª  Edición.  Belitz,  H.  D.;  Grosch,  W.  Editorial  Acribia,  S.  A.  Zaragoza
+1997
+
+Química   de   los  alimentos,  2ª  Edición.  Fennema,  O.  R.  Editorial  Acribia,  S.  A.  Zaragoza  Toxicología
+alimentaria. Camean, A.M.; Repetto, M. Editorial Díaz de Santos, Madrid, 2006
+
+Química de los alimentos, 4ª edición. Baduí Dergal, S. Editorial Pearson, México, 2006
+
+Tratado   de   nutrición,  2ª  edición:  tomo  I  (Bases  fisiológicas  y  bioquímicas  de  la  nutrición)  y  tomo
+II   (Composición   y   calidad   nutritiva   de   los   alimentos).  GIL,  A.  Editorial  Médica  panamericana.
+Madrid, 2010
+
+Tratado   de   nutrición,  3ª  edición:  tomo  I  (Bases  fisiológicas  y  bioquímicas  de  la  nutrición)  y  tomo
+II   (Composición   y   calidad   nutritiva   de   los   alimentos).  GIL,  A.  Editorial  Médica  panamericana.
+Madrid, 2017
+
+📚 Recursos sin cambios (7):
+------------------------------
+Alimentos:   composición   y   propiedades.   Astiasarán   anchía,  I;  Martínez  HernándeZ,  J.  A.  Editorial
+McGraw-Hill Interamericana. Madrid 2000
 
 Nutrición y alimentación. Mataix, J. Editorial Ergon. Majadahonda (Madrid), 2009
 
@@ -18,50 +36,41 @@ Nutrición   y   bromatología.   Navarro   Alarcón   M,   Oliveras   López  M
 
 Química de los alimentos 4ª edn. S. Damodaran, K. L. Parkin . Acribia, S. A.. Zaragoza, 2019
 
-Química   de   los   alimentos,  3ª  Edición.  Belitz,  H.  D.;  Grosch,  W.  Editorial  Acribia,  S.  A.  Zaragoza
-2012
-
 Química   de  los  alimentos,  3ª  Edición.  Damodaran  S.,  Parkin  K.  L.,  Fennema,  O.  R.  Editorial  Acribia,
 S. A. Zaragoza 2008
 
-Química de los alimentos, 5ª edición. Baduí Dergal, S. Editorial Pearson, México, 2012
+Química   de   los   alimentos,  5ª  edición.  Baduí  Dergal,  S.  Editorial  Pearson,  México,  2012  Química  de
+los alimentos
 
 Química de los alimentos. 4th Ed.Belitz HD, Grosch W, Schieberle P. Springer Verlag, Leipzig 2012
 
-Toxicología alimentaria. Camean, A.M.; Repetto, M. Editorial Díaz de Santos, Madrid, 2006
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (9):
 ------------------------------
-Química   de   los   alimentos,   4ª  edición.  Baduí  Dergal,  S.  Editorial  Pearson,  México,  2006  →  Química
-de los alimentos, 5ª edición. Baduí Dergal, S. Editorial Pearson, México, 2012
-
-Tratado   de   nutrición,  2ª  edición:  tomo  I  (Bases  fisiológicas  y  bioquímicas  de  la  nutrición)  y  tomo
-II   (Composición   y   calidad   nutritiva   de   los   alimentos).  GIL,  A.  Editorial  Médica  panamericana.
-Madrid,   2010   →   Tratado   de   nutrición,  4ª  edición:  tomo  I  (Bases  fisiológicas  y  bioquímicas  de  la
-nutrición)   y   tomo   II  (Composición  y  calidad  nutritiva  de  los  alimentos).  Gil,  A.  Editorial  Médica
-panamericana. Madrid, 2024
-
-Springer-Verlag,   Leipzig,   2009   →  Química  de  los  alimentos.  4th  Ed.Belitz  HD,  Grosch  W,  Schieberle
-P. Springer Verlag, Leipzig 2012
-
-Tratado   de   nutrición,  3ª  edición:  tomo  I  (Bases  fisiológicas  y  bioquímicas  de  la  nutrición)  y  tomo
-II   (Composición   y   calidad   nutritiva   de   los   alimentos).  GIL,  A.  Editorial  Médica  panamericana.
-Madrid,   2017   →   Tratado   de   nutrición,  4ª  edición:  tomo  I  (Bases  fisiológicas  y  bioquímicas  de  la
-nutrición)   y   tomo   II  (Composición  y  calidad  nutritiva  de  los  alimentos).  Gil,  A.  Editorial  Médica
-panamericana. Madrid, 2024
-
-✅ Recursos añadidos:
-------------------------------
-Alimentos:   composición   y   propiedades.   Astiasarán   anchía,  I;  Martínez  HernándeZ,  J.  A.  Editorial
-McGraw-Hill Interamericana. Madrid 2000
+Ciencia   bromatológiga:  principios  generales  de  los  alimentos.  Bello  Gutiérrez,  J.  Editorial  Díaz  de
+Santos, S. A. Madrid 2000
 
 Food chemistry, 4th revised and extended revision. H. D. Belitz, W. Grosch, P. Schieberle. Springer-
 Verlag, Leipzig, 2012
 
 Química de los alimentos, 2ª Edición. Fennema, O. R. Editorial Acribia, S. A. Zaragoza 2000
 
+Química   de   los   alimentos,  3ª  Edición.  Belitz,  H.  D.;  Grosch,  W.  Editorial  Acribia,  S.  A.  Zaragoza
+2012
+
+Química de los alimentos, 5ª edición. Baduí Dergal, S. Editorial Pearson, México, 2012
+
+Toxicología alimentaria. Camean, A.M.; Repetto, M. Editorial Díaz de Santos, Madrid, 2006
+
 Tratado   de   nutrición,  3ª  edición:  tomo  I  (Bases  fisiológicas  y  bioquímicas  de  la  nutrición)  y  tomo
 II   (Composición   y   calidad   nutritiva   de   los   alimentos).  Gil,  A.  Editorial  Médica  panamericana.
 Madrid, 2019
 
-📊 Porcentaje estimado de cambio: 61% [██████░░░░]
+Tratado   de   nutrición,  3ª  edición:  tomo  I  (Bases  fisiológicas  y  bioquímicas  de  la  nutrición)  y  tomo
+II   (Composición   y   calidad   nutritiva   de   los   alimentos).  Gil,  A.  Editorial  Médica  panamericana.
+Madrid, 2019
+
+Tratado   de   nutrición,  4ª  edición:  tomo  I  (Bases  fisiológicas  y  bioquímicas  de  la  nutrición)  y  tomo
+II   (Composición   y   calidad   nutritiva   de   los   alimentos).  Gil,  A.  Editorial  Médica  panamericana.
+Madrid, 2024
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

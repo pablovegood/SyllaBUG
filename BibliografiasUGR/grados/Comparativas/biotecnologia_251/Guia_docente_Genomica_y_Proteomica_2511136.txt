@@ -2,12 +2,18 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
+From   genes   to  genomes:  concepts  and  applications  of  DNA  technology.  Jeremy  W.  Dale  and  Malcolm  von
+Schantz. 2007. ISBN: 978-0-470-01734-0
+
+Genetics   and   genomics  in  medicine.  Tom  Strachan,  Judith  Goodship  and  Patrick  Chinnery.  2015.  ISBN:
+978-0-8153-4480-3
+
 Genomic   and   Personalized   Medicine.   Volumes   I  &  II.  Edited  by:  Huntington  F.  Willard,  Ph.D.,  and
 Geoffrey S. Ginsburg, M.D., Ph.D. ISBN: 978-0-12-369420-1. Elsevier. 2009
 
@@ -22,16 +28,8 @@ Press. New York. 2004
 
 Twyman, R. Principles of proteomics.Segunda ed. Garland Science. New York. 2013
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Genetics   and   genomics  in  medicine.  Tom  Strachan,  Judith  Goodship  and  Patrick  Chinnery.  2015.  ISBN:
-978-0-8153-4480-3.   From   genes   to   genomes:  concepts  and  applications  of  DNA  technology.  Jeremy  W.
-Dale   and   Malcolm   von   Schantz.  2007.  ISBN:  978-0-470-01734-0  →  Genetics  and  genomics  in  medicine.
-Tom Strachan, Judith Goodship and Patrick Chinnery. 2015. ISBN: 978-0-8153-4480-3
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-From   genes   to  genomes:  concepts  and  applications  of  DNA  technology.  Jeremy  W.  Dale  and  Malcolm  von
-Schantz. 2007. ISBN: 978-0-470-01734-0
-
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

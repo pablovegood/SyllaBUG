@@ -2,11 +2,11 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 NOGUE, Joan (ed.), La construcción social del paisaje, Madrid, Biblioteca Nueva, 2007
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 AA.VV.,   Arquitectura   y   paisaje.   Transferencias   históricas,   retos  contemporáneos,  Madrid,  Abada
 Editores, 2022
@@ -70,11 +70,7 @@ SCHLÖGEL, Karl, En el espacio leemos el tiempo, Madrid, Siruela, 2007
 SENNETT,   Richard,   Carne   y   piedra.   El   cuerpo  y  la  ciudad  en  la  civilización  occidental,  Madrid,
 Alianza Editorial, 1994
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 CALATRAVA,   Juan,   Representar   edificios,  construir  cuadros.  La  arquitectura  en  la  pintura,  Madrid,
 Abada Editores-Museo del Prado, 2025

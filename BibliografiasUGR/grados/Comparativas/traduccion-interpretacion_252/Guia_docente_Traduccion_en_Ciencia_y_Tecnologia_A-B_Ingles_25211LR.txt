@@ -2,11 +2,14 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+127-40.   Madrid:   Ariel   Navarro,   F.   (2021).   Libro   rojo.   Diccionario  de  dudas  y  dificultades  de
+traducción        del        inglés        médico        (3.ª       edición).       Accesible       Online:
+https://www.cosnautas.com/es/catalogo/diccionario-medico-librorojo   Alley,  Michael  (1996).  The  Craft
+of Scientific Writing. 3rd edition. Nueva York: Springer
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Alcaraz   Varó,   Enrique,   Mateo   Martínez,   José   y   Yus  Ramos,  Francisco  (eds.)  (2007).  Las  lenguas
 profesionales y académicas. Madrid: Ariel
@@ -14,11 +17,9 @@ profesionales y académicas. Madrid: Ariel
 Alcina   Caudet,   Amparo   y  Gamero  Pérez,  Silvia  (eds.)  (2002).  La  traducción  científico-técnica  y  la
 terminología en la sociedad de la información. Alicante: Publicacions de la Universitat Jaume I
 
-Alley,   Michael   (1996).   The   Craft   of   Scientific   Writing.   3rd   edition.   Nueva  York:  Springer.
-Ejercicios de redacción y puntuación
-
-Byrne,    Jody    (2006).   Technical   Translation.   Usability   Strategies   for   Translating   Technical
-Documentation. Dordrecht: Springer
+Ejercicios         de         redacción         y         puntuación         disponibles        en        :
+http://quantum.phys.unm.edu/400-18/AlleyTheCraft.pdf   Byrne,   Jody   (2006).   Technical   Translation.
+Usability Strategies for Translating Technical Documentation. Dordrecht: Springer
 
 Gamero Pérez, Silvia (2001). La traducción de textos técnicos. Barcelona: Ariel
 
@@ -34,18 +35,16 @@ Marimón   Llorca,  Carmen  y  Santamaría  Pérez,  Isabel  (2007).  Los  géne
 (II):   el   contexto   científico-técnico.   En   Las   lenguas  profesionales  y  académicas,  Alcaraz  Varó,
 Enrique, Mateo Martínez, José y Yus Ramos, Francisco (eds.). 127-40. Madrid: Ariel
 
+Perelman,   Leslie,   Paradis,   James   y   Barrett,   Edward   (2001).  The  Mayfield  Handbook  of  Technical
+Scientific        Writing.        Nueva        York:        McGraw        Hill.        Disponible       en:
+https://www.mit.edu/course/21/21.guide/wt.htm
+
+✅ Recursos añadidos (2):
+------------------------------
+Alley,   Michael   (1996).   The   Craft   of   Scientific   Writing.   3rd   edition.   Nueva  York:  Springer.
+Ejercicios de redacción y puntuación
+
 Navarro,   F.  (2021).  Libro  rojo.  Diccionario  de  dudas  y  dificultades  de  traducción  del  inglés  médico
 (3.ª edición). Accesible aquí
 
-Perelman,   Leslie,   Paradis,   James   y   Barrett,   Edward   (2001).  The  Mayfield  Handbook  of  Technical
-Scientific Writing. Nueva York: McGraw Hill. Disponible en aquí
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

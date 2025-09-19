@@ -2,15 +2,16 @@
 Grado: educacion-social-melilla (514)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-2.1.   Seminarios   (nº   de   estudiantes   a  determinar  por  la  Universidad)  Sesiones  monográficas  sobre
-temáticas   a   analizar   en   el   contexto  de  la  materia  previamente  seleccionadas  y  propuestas  por  el
-profesorado.   de   elaboración   y   de   exposición  en  clase  por  parte  de  grupos  de  alumnos/as,  para  su
-posterior   debate.   Asimismo,   el   profesorado   orientará,   tutelará   y   supervisará   el   proceso  de
-elaboración del trabajo
+Giddens,   A.   (2000):   Un  mundo  desbocado:  los  efectos  de  la  globalización  en  nuestras  vidas,  Taurus
+González, J.J. y Requena, M (2005) Tres décadas de cambio social en España, Alianza, Madrid
 
-📚 Recursos sin cambios:
+Navarro,   V   ,   coord.   (2004)   El   Estado   de   Bienestar   en  España,  Tecnos,  UPF,  Barcelona  Ordóñez
+Gutierrez,   A.   Luisa   (2006):   Feminismo   y   prostitución.  Fundamentos  del  debate  actual  en  España.
+Trabe. Oviedo
+
+📚 Recursos sin cambios (37):
 ------------------------------
 Alberdi I. Rojas Marcos, L. (2002) “Violencia: tolerancia cero”. Fundación La Caixa. Barcelona
 
@@ -21,13 +22,24 @@ postmodernismo laboral”, La Catarata, Madrid
 
 Alvarez-Uría, F. y Varela, J. (2004), “Sociología, capitalismo y democracia”, Morata, Madrid
 
+Amin, S. (2009), “La crisis. Salir de la crisis del capitalismo o salir del capitalismo en crisis”
+
+B Bauman, Z. (1994), Pensando sociológicamente, Nueva Visión, Buenos Aires
+
 BERGER, P. (1991): Introducción a La sociología, Limusa, México
+
+Bauman, Z, (2005) “Vidas desperdiciadas. La modernidad y sus parias”. Paidós, Barcelona
 
 Bauman, Z. (2001) “La sociedad individualizada”, Cátedra, Madrid
 
 Bauman, Z. (2002), “Modernidad líquida”, FCE, Buenos Aires
 
 Bauman, Z. (2003), “Comunidad”, Siglo XXI, Madrid
+
+Bourdieu, P. (1999), La miseria del mundo, Akal
+
+Camacho,   Javier   y  Elías  Trabada,  La  infraclase  urbana:  algunos  perfiles  de  la  exclusión  social,  en
+Documentación Social nº 119, Abril-Junio de 2000
 
 Cardus,   S   (Coordin.)   2003)  La  mirada  del  sociólogo:  Qué  es,  qué  hace,  qué  dice  la  sociología  UOC,
 Barcelona
@@ -40,8 +52,6 @@ nº 21, pg. 27-36
 Castells,   M.   (1999)   La   era   de   la   información,   Alianza,   Madrid.   3  vol.  Hay  nuevas  ediciones
 posteriores.   Colectivo   IOE   (2008),   Barómetro   Social   de  España.  Análisis  del  período  1994-2006,
 Editorial Traficantes de Sueños y CIP ecosocial, Madrid
-
-Documentación Social nº 119, Abril-Junio de 2000
 
 Dubet, F. y Martucelli, D (2000), ¿En qué sociedad vivimos?, Losada, Buenos Aires
 
@@ -91,35 +101,17 @@ VI Informe Foessa (2008). Estudio completo (www.foessa.org)
 Álvarez-Uría,   F.  y  Varela,  J.  (  2009)  “Sociología  de  las  instituciones.  Bases  sociales  y  culturales
 de la conducta”
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Bauman, Z, (2005) “Vidas desperdiciadas. La modernidad y sus parias”. Paidós, Barcelona Bourdieu, P.
-(1999),   La   miseria   del  mundo,  Akal  →  Bauman,  Z,  (2005)  “Vidas  desperdiciadas.  La  modernidad  y  sus
-parias”. Paidós, Barcelona
+Documentación Social nº 119, Abril-Junio de 2000
 
-Navarro,   V   ,   coord.   (2004)   El   Estado   de   Bienestar   en  España,  Tecnos,  UPF,  Barcelona  Ordóñez
-Gutierrez,   A.   Luisa   (2006):   Feminismo   y   prostitución.  Fundamentos  del  debate  actual  en  España.
-Trabe. Oviedo  →  Navarro, V, coord. (2004) El Estado de Bienestar en España, Tecnos, UPF, Barcelona
-
-Giddens,   A.   (2000):   Un  mundo  desbocado:  los  efectos  de  la  globalización  en  nuestras  vidas,  Taurus
-González,   J.J.   y   Requena,   M   (2005)   Tres   décadas  de  cambio  social  en  España,  Alianza,  Madrid  →
 Giddens, A. (2000): Un mundo desbocado: los efectos de la globalización en nuestras vidas, Taurus
 
-Amin,   S.  (2009),  “La  crisis.  Salir  de  la  crisis  del  capitalismo  o  salir  del  capitalismo  en  crisis”.
-B   Bauman,   Z.   (1994),  Pensando  sociológicamente,  Nueva  Visión,  Buenos  Aires  →  Amin,  S.  (2009),  “La
-crisis. Salir de la crisis del capitalismo o salir del capitalismo en crisis”
-
-✅ Recursos añadidos:
-------------------------------
-B Bauman, Z. (1994), Pensando sociológicamente, Nueva Visión, Buenos Aires
-
-Bourdieu, P. (1999), La miseria del mundo, Akal
-
-Camacho, Javier y Elías Trabada, La infraclase urbana: algunos perfiles de la exclusión social, en
-
 González, J.J. y Requena, M (2005) Tres décadas de cambio social en España, Alianza, Madrid
+
+Navarro, V, coord. (2004) El Estado de Bienestar en España, Tecnos, UPF, Barcelona
 
 Ordóñez   Gutierrez,   A.   Luisa   (2006):   Feminismo   y  prostitución.  Fundamentos  del  debate  actual  en
 España. Trabe. Oviedo
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

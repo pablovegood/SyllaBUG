@@ -2,18 +2,24 @@
 Grado: cc-politicas-admon-sociologia (219)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
 Introducción   a  la  Psicología  Social.  Una  perspectiva  europea  (pp.  73-95).  Ariel  Rodríguez–Bailón,
 R. (2011). La investigación en psicología social. En M. Moya y R
 
-📚 Recursos sin cambios:
+Kahneman,   D.,   Slovic,   P.   y   Tversky,  A.  (Eds.)(1982).  Judgment  under  incertainty:  heuristics  and
+biases.   Cambridge:   Cambridge   Univ.   Press.  Levine,  J.  M.,  Resnick,  L.  B.  y  Higgins,  E.  T.  (1993).
+Social foundations of cognition. Annual Review of Psychology, 44, 585-612
+
+Rodríguez-Bailón,   R.   y   Martínez,  R.  (2011).  La  percepción  de  personas  y  la  comprensión  de  su
+comportamiento. En M. Moya y R. Rodríguez-Bailón (Coords.). Fundamentos de Psicología Social (pp.
+91-116).   Madrid:   Pirámide   Ross,   L.   (1977).   The   intuitive   psychologist  and  his  shortcomings:
+Distortions   in   the   attribution   process.   In   L.  Berkowitz  (Ed.),  Advances  in  experimental  social
+psychology (Vol. 10, pp. 173-220). Academic Press
+
+📚 Recursos sin cambios (26):
 ------------------------------
-Asch, S. (1964). Psicología Social (pp. 211-244). Eudeba
-
 Baron, R.A. y Byrne, D. (2005). Psicología Social (10ª ed.). Prentice-Hall
-
-Blanco, A. (1988). Cinco tradiciones en la psicología social. Morata
 
 Briñol,   P.,  Falces,  C.  y  Becerra,  A.  (2007).  Actitudes.  En  J.F.  Morales,  M.C.  Moya,  E.  Gaviria  e  I.
 Cuadrado (Coords.), Psicología Social (3ª ed.). McGraw-Hill
@@ -22,10 +28,6 @@ Cantó, J. M. (1995). Percepción social. En: Gómez, L. y Cantó, J. (1995). Ps
 pp. 15-23
 
 Clemente, M. (Coord.) (1992). Psicología Social. Métodos y técnicas de investigación. Eudema
-
-Cognition.   En   R.  S.  Wyer,  T.K.  Srull  (eds.).  Handbook  of  Social  Cognition.  Vol  1:  Basic  Processes.
-Hillsdale:   Lawrence   Erlbaum.   Fiske,   S.T.   y  Taylor,  S.E.  (1991).  Social  Cognition.  (2ª  edición).
-McGraw-Hill
 
 Crano,   W.D.   y  Brewer,  M.B.  (2002).  Principles  and  methods  of  social  research.  (2nd.  Ed.).  Lawrence
 Erlbaum Associates
@@ -73,7 +75,15 @@ Psicología Social, (pp.137-184). Editorial Sanz y Torres
 Palacios,   M.S.   (2011).   Las   actitudes:  estructura  y  funciones.  En  M.  Moya  y  R.  Rodríguez-Bailón
 (Coords.). Fundamentos de Psicología Social (pp. 245-261). Pirámide
 
+Rodríguez-Bailón (Coords.). Fundamentos de Psicología Social (pp. 47-64). Madrid Cognition. En R.
+S.   Wyer,   T.K.   Srull   (eds.).   Handbook   of   Social   Cognition.  Vol  1:  Basic  Processes.  Hillsdale:
+Lawrence Erlbaum. Fiske, S.T. y Taylor, S.E. (1991). Social Cognition. (2ª edición). McGraw-Hill
+
 Sutton, R. y Douglas, K. (2019). Social Psychology. Red Globe Press
+
+TEMAS 1 y 2 Blanco, A. (1988). Cinco tradiciones en la psicología social. Morata
+
+TEMAS 4 Y 5 Asch, S. (1964). Psicología Social (pp. 211-244). Eudeba
 
 West,   S.G.,   Gun,   S.P.   y  Chernicky,  P.  (1984).  Omnipresente  Watergate:  un  análisis  atributivo.  En
 J.F. Morales y C. Huici: Lecturas de Psicología Social. UNED (lectura 3)
@@ -86,26 +96,17 @@ Psicología Social, Thomson Herder, pp. 143- 194
 
 Zebrowitz, L. A. (1990). Social perception. Brooks/Cole Pub. Co
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Rodríguez-Bailón,   R.   y   Martínez,  R.  (2011).  La  percepción  de  personas  y  la  comprensión  de  su
-comportamiento. En M. Moya y R. Rodríguez-Bailón (Coords.). Fundamentos de Psicología Social (pp.
-91-116).   Madrid:   Pirámide   Ross,   L.   (1977).   The   intuitive   psychologist  and  his  shortcomings:
-Distortions   in   the   attribution   process.   In   L.  Berkowitz  (Ed.),  Advances  in  experimental  social
-psychology   (Vol.   10,  pp.  173-220).  Academic  Press  →  Rodríguez-Bailón,  R.  y  Martínez,  R.  (2011).
-La   percepción   de   personas   y   la   comprensión  de  su  comportamiento.  En  M.  Moya  y  R.  Rodríguez-
-Bailón (Coords.). Fundamentos de Psicología Social (pp. 91-116). Madrid: Pirámide
-
 Kahneman,   D.,   Slovic,   P.   y   Tversky,  A.  (Eds.)(1982).  Judgment  under  incertainty:  heuristics  and
-biases.   Cambridge:   Cambridge   Univ.   Press.  Levine,  J.  M.,  Resnick,  L.  B.  y  Higgins,  E.  T.  (1993).
-Social   foundations   of   cognition.  Annual  Review  of  Psychology,  44,  585-612  →  Kahneman,  D.,  Slovic,
-P.   y   Tversky,   A.   (Eds.)(1982).   Judgment   under   incertainty:   heuristics  and  biases.  Cambridge:
-Cambridge Univ. Press. Levine, J. M
+biases. Cambridge: Cambridge Univ. Press. Levine, J. M
 
-✅ Recursos añadidos:
-------------------------------
 Resnick,   L.   B.   y   Higgins,   E.   T.   (1993).   Social   foundations   of   cognition.  Annual  Review  of
 Psychology, 44, 585-612
+
+Rodríguez-Bailón,   R.   y   Martínez,  R.  (2011).  La  percepción  de  personas  y  la  comprensión  de  su
+comportamiento. En M. Moya y R. Rodríguez-Bailón (Coords.). Fundamentos de Psicología Social (pp.
+91-116). Madrid: Pirámide
 
 Rodríguez–Bailón,   R.  (2011).  La  investigación  en  psicología  social.  En  M.  Moya  y  R.  Rodríguez-
 Bailón (Coords.). Fundamentos de Psicología Social (pp. 47-64). Madrid
@@ -114,4 +115,4 @@ Ross,   L.   (1977).   The   intuitive  psychologist  and  his  shortcomings:  D
 process.   In   L.  Berkowitz  (Ed.),  Advances  in  experimental  social  psychology  (Vol.  10,  pp.  173-220).
 Academic Press
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

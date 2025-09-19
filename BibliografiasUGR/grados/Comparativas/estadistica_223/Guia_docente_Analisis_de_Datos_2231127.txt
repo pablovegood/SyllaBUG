@@ -2,18 +2,12 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
-8.Kruskal,   J.   B.   (1964a).   Multidimensional   scaling  by  optimizing  goodness  of  fit  to  a  nonmetric
-hypothesis. Psychometrika, 29, 1–27
-
-9.Kruskal, J. B. (1964b). Nonmetric multidimensional scaling: A numerical method. Psychometrika, 29,
-115–129
-
 BORG, I. & GROENEN, P.J.F. (2005).- Modern Multidimensional Scaling. Theory and Applications. Second
 Edition.Springer Series in Statistics. Springer
 
@@ -55,6 +49,12 @@ Journal of Classification, 3, 5–48
 HOAGLIN,   D.,  MOSTELLER,  F.  &  TUKEY,  J.W.(1983).-Understanding  robust  and  Exploratory  Data  Analysis.
 New York. John Wiley & Sons
 
+Kruskal,   J.   B.   (1964a).   Multidimensional   scaling   by   optimizing  goodness  of  fit  to  a  nonmetric
+hypothesis. Psychometrika, 29, 1–27
+
+Kruskal,   J.   B.  (1964b).  Nonmetric  multidimensional  scaling:  A  numerical  method.  Psychometrika,  29,
+115–129
+
 LEBART-MORINEAU-FENELON, L. (1985). Tratamiento estadístico de Datos. Marcombo
 
 MARDIA K.V. & BIBBY, K.J.M. (1997). Multivariate Analysis. London: Academic Press
@@ -77,11 +77,7 @@ VOLLE, M. (1989). Analyse des données. Economica
 Vera,   J.F.,   Macías,   R.,  Heiser,  W.J.  (2009).  A  dual  latent  class  unfolding  model  for  two-way  two-
 mode preference rating data. Computational Statistics and Data Analysis 53 (8), pp. 3231-3244
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

@@ -2,15 +2,17 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Martelli,   A.,   Python  in  a  nutshell.  A  desktop  quick  reference  (4ªed),  O'Really,  2023  Martelli,  A.,
+Martelli,   A.,   Ascher,   D.,   Python   Cookbook,   O'Really,   2013   Rossant,   C.,  Learning  IPython  for
+interactive   computing   and   data   visualization  :  learn  IPython  for  interactive  Python  programming,
+high-performance   numerical   computing,   and  data  visualization,  Packt  Publishing,  2013  Danaila,  I.,
+Joly,   P.,   Kaber,   S.M.  y  Postel,  M.,  An  Introduction  to  Scientific  Computing:  Twelve  Computational
+Projects Solved with MATLAB, Springer, 2006
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
-Danaila,   I.,   Joly,   P.,   Kaber,  S.M.  y  Postel,  M.,  An  Introduction  to  Scientific  Computing:  Twelve
-Computational Projects Solved with MATLAB, Springer, 2006
-
 Kaplan, D., Introduction to Scientific Computation and Programming, CL-Engineering, 2004
 
 Kiusalaas, J., Numerical Methods in Engineering with Python, Cambridge University Press, 2013
@@ -24,21 +26,17 @@ Scientific Computing, Cambridge University Press, 2007
 
 Strang, G., Computational Science and Engineering, Wellesley-Cambridge Press, 2007
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Martelli,   A.,   Python  in  a  nutshell.  A  desktop  quick  reference  (4ªed),  O'Really,  2023  Martelli,  A.,
-Martelli,   A.,   Ascher,   D.,   Python   Cookbook,   O'Really,   2013   Rossant,   C.,  Learning  IPython  for
-interactive   computing   and   data   visualization  :  learn  IPython  for  interactive  Python  programming,
-high-performance   numerical   computing,   and  data  visualization,  Packt  Publishing,  2013  Danaila,  I.,
-Joly,   P.,   Kaber,   S.M.   y   Postel,   M.,   An   Introduction   to   Scientific  Computing  →  Rossant,  C.,
-Learning   IPython   for   interactive  computing  and  data  visualization  :  learn  IPython  for  interactive
-Python   programming,  high-performance  numerical  computing,  and  data  visualization,  Packt  Publishing,
-2013
+Danaila,   I.,   Joly,   P.,   Kaber,  S.M.  y  Postel,  M.,  An  Introduction  to  Scientific  Computing:  Twelve
+Computational Projects Solved with MATLAB, Springer, 2006
 
-✅ Recursos añadidos:
-------------------------------
 Martelli, A., Martelli, A., Ascher, D., Python Cookbook, O'Really, 2013
 
 Martelli, A., Python in a nutshell. A desktop quick reference (4ªed), O'Really, 2023
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+Rossant,   C.,   Learning  IPython  for  interactive  computing  and  data  visualization  :  learn  IPython  for
+interactive   Python  programming,  high-performance  numerical  computing,  and  data  visualization,  Packt
+Publishing, 2013
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

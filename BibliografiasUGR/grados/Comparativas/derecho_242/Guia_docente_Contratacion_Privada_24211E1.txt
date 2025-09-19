@@ -2,11 +2,11 @@
 Grado: derecho (242)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Además de los manuales de la asignatura Derecho Civil II y de Derecho mercantil I(ver guías docentes
 correspondientes), así como las lecturas que cada profesor considere más adecuadas para complementar
@@ -26,13 +26,10 @@ obligatorias. Civitas, Madrid, 2007
 Jiménez Sánchez, Derecho mercantil II, parte cuarta, Títulos valores. Contratos mercantiles, Madrid,
 2010
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
+Además de los manuales de la asignatura Derecho Civil II y de Derecho mercantil I(ver guías docentes
+correspondientes), así como las lecturas que cada profesor considere más adecuadas para complementar
+las clases
 
-✅ Recursos añadidos:
-------------------------------
-Albiez   Dorhmann   y  Castillo  Parrilla,  Teoría  general  de  obligaciones  y  contratos.  Derecho  civil  II,
-Granada, Fleming, 2015
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

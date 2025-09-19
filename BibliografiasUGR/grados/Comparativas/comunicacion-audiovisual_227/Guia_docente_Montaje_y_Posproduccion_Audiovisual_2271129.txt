@@ -2,12 +2,34 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Aumont, J., Bergala, A. & Michel, M. (2002): Estética del cine. Espacio fílmico, montaje, narración,
+lenguaje.   Barcelona:   Paidos   Bourriaud,   N.  (2009).  Postproducción  (1.ed).  Madrid:  Adriana  Hidalgo
+editora   Chong,   A.   (2007).   Basic  Animation:  digital  animation.  AVA  Publishing  Del  Amo,  A.  (1972):
+Estética del montaje. Cine, TV, Vídeo. Madrid: Artes Gráficas
 
-📚 Recursos sin cambios:
+Madrid:   Blur   Ediciones,   S.L   Fernández   Sánchez,  M.  (1997).  Influencia  del  montaje  en  el  lenguaje
+audiovisual
+
+Textos   y   Manifiestos  del  Cine.  Madrid:  Cátedra  Freire  Sánchez,  A  y  Vidal  Mestre,  M.  (2015).  Manual
+de   Montaje   y   Composición  Audiovisual.  Barcelona:  Altaria  Martin,  M.  (2002):  El  lenguaje  del  cine.
+Barcelona: Gedisa
+
+Utray,   F.,   Armenteros,   M.   y   Benítez,   A.  (Ed.).  (2015).  Postproducción  digital.  Una  perspectiva
+contemporánea.   Madrid:   Editorial   Dykinson   S.L   Contreras,  F.  R.  y  San  Nicolás,  C.  (2001).  Diseño
+gráfico, creatividad y comunicación
+
+📚 Recursos sin cambios (12):
 ------------------------------
+Amiel, V. (2005). Estética del montaje. Madrid: Editorial Abadía
+
+Eisenstein,   S.   (1929):   “Métodos   de   montaje”.   En:   Alsina,   H.  &  Romaguera,  J.  (1989).  Textos  y
+Manifiestos del Cine. Madrid: Cátedra
+
+Fernández   Sánchez,   M.  (1997).  Influencia  del  montaje  en  el  lenguaje  audiovisual.  Barcelona:  Centre
+d'Investigació de la Comunicació
+
 Gómez   Tarín,   F.J.   (2006).  Discursos  de  la  ausencia.  Elipsis  y  fuera  de  campo  en  el  texto  fílmico.
 Valencia: Ediciones de la Filmoteca
 
@@ -31,45 +53,26 @@ Sánchez Biosca, V. (2001). El montaje cinematográfico: teoría y análisis. Ba
 Thompson,   Roy   (2001).   Manual   de   montaje.   Gramática   del   montaje  cinematográfico.  Madrid:  Plot
 ediciones
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-narración,   lenguaje.  Barcelona:  Paidos  Bourriaud,  N.  (2009).  Postproducción  (1.ed).  Madrid:  Adriana
-Hidalgo   editora  Chong,  A.  (2007).  Basic  Animation:  digital  animation.  AVA  Publishing  Eisenstein,  S.
-(1929):   “Métodos   de   montaje”.   En:   Alsina,   H.   &  Romaguera,  J.  (1989)  →  Chong,  A.  (2007).  Basic
-Animation: digital animation. AVA Publishing
-
-Textos   y   Manifiestos  del  Cine.  Madrid:  Cátedra  Freire  Sánchez,  A  y  Vidal  Mestre,  M.  (2015).  Manual
-de   Montaje   y   Composición  Audiovisual.  Barcelona:  Altaria  Martin,  M.  (2002):  El  lenguaje  del  cine.
-Barcelona:   Gedisa   →   Freire   Sánchez,  A  y  Vidal  Mestre,  M.  (2015).  Manual  de  Montaje  y  Composición
-Audiovisual. Barcelona: Altaria
-
-Utray,   F.,   Armenteros,   M.   y   Benítez,   A.  (Ed.).  (2015).  Postproducción  digital.  Una  perspectiva
-contemporánea.   Madrid:   Editorial   Dykinson   S.L   Contreras,  F.  R.  y  San  Nicolás,  C.  (2001).  Diseño
-gráfico,   creatividad   y   comunicación.   Madrid:   Blur   Ediciones,  S.L  Fernández  Sánchez,  M.  (1997).
-Influencia   del   montaje   en   el   lenguaje   audiovisual.   Barcelona:   Centre   d'Investigació   de   la
-Comunicació   →   Utray,   F.,   Armenteros,  M.  y  Benítez,  A.  (Ed.).  (2015).  Postproducción  digital.  Una
-perspectiva contemporánea. Madrid: Editorial Dykinson S.L
-
-✅ Recursos añadidos:
-------------------------------
-Amiel, V. (2005). Estética del montaje. Madrid: Editorial Abadía
-
 Aumont, J., Bergala, A. & Michel, M. (2002): Estética del cine. Espacio fílmico, montaje, narración,
 lenguaje. Barcelona: Paidos
 
 Bourriaud, N. (2009). Postproducción (1.ed). Madrid: Adriana Hidalgo editora
+
+Chong, A. (2007). Basic Animation: digital animation. AVA Publishing
 
 Contreras,   F.  R.  y  San  Nicolás,  C.  (2001).  Diseño  gráfico,  creatividad  y  comunicación.  Madrid:  Blur
 Ediciones, S.L
 
 Del Amo, A. (1972): Estética del montaje. Cine, TV, Vídeo. Madrid: Artes Gráficas
 
-Eisenstein,   S.   (1929):   “Métodos   de   montaje”.   En:   Alsina,   H.  &  Romaguera,  J.  (1989).  Textos  y
-Manifiestos del Cine. Madrid: Cátedra
-
-Fernández   Sánchez,   M.  (1997).  Influencia  del  montaje  en  el  lenguaje  audiovisual.  Barcelona:  Centre
-d'Investigació de la Comunicació
+Freire Sánchez, A y Vidal Mestre, M. (2015). Manual de Montaje y Composición Audiovisual. Barcelona:
+Altaria
 
 Martin, M. (2002): El lenguaje del cine. Barcelona: Gedisa
 
-📊 Porcentaje estimado de cambio: 91% [█████████░]
+Utray,   F.,   Armenteros,   M.   y   Benítez,   A.  (Ed.).  (2015).  Postproducción  digital.  Una  perspectiva
+contemporánea. Madrid: Editorial Dykinson S.L
+
+📊 Porcentaje estimado de cambio: 60% [██████░░░░]

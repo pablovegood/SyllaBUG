@@ -2,11 +2,22 @@
 Grado: fisioterapia (241)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Ediciones Luciernaga. Colección Coaching. 2012
 
-📚 Recursos sin cambios:
+Elsevier España, SA. Barcelona, 2018
+
+Martínez   González,   MA.   Conceptos  de  Salud  Pública  y  estrategias  preventivas.  Elsevier  España,  SA.
+Barcelona, 2013
+
+Rubia Vila, FJ [et al.] Libro Blanco sobre el Sistema Sanitario Español. Madrid: Academia Europea de
+Ciencias                  y                  Artes,                  2011.Para                 descargar
+http://sid.usal.es/idocs/F8/FDO25873/Libro_Blanco_Sistema_Sanitario_Espanol.pdf   Félix  Torán.  Misión
+y    Visión.   Emprendiendo   con   sentido   y   rumbo.   Málaga.   Ediciones   Corona   Borealis.   Colección
+Coaching.2012
+
+📚 Recursos sin cambios (7):
 ------------------------------
 Argimón    Pallás,    Josep    María;    Jiménez   Villa,   Josep.   Métodos   de   investigación   clínica   y
 epidemiológica. 4º edición. Elsevier España, SA. Barcelona, 2012
@@ -15,8 +26,8 @@ Fernández-Crehuet   Navajas,   Joaquín;   Gestal   Otero,  Juan  Jesús;  Delg
 Montrull,   Francisco;   Herruzo   Cabrera   Rafael   and  Serra  Majem,  Lluís:  Medicina  Preventiva  y  Salud
 Pública 12ª ed. Barcelona: Elsevier-Masson 2012
 
-Martínez   González,   Miguel   Ángel.   Conceptos   de  Salud  Pública  y  estrategias  preventivas.  Elsevier
-España, SA. Barcelona, 2013
+Martínez   González,   Miguel  Ángel.  Conceptos  de  Salud  Pública  y  estrategias  preventivas.  2ª  Edición.
+Elsevier España, SA. Barcelona, 2018
 
 Piédrola Gil et al. Medicina Preventiva y Salud Pública. 12ª Ed. Elsevier-Masson. Barcelona, 2015
 
@@ -27,23 +38,24 @@ Luciernaga. Colección Coaching. 2012
 
 Torán, Félix . “Atrévete a ser un líder”. Ediciones Luciernaga. Colección Coaching. 2013
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Elsevier   España,   SA.   Barcelona,  2018  →  Argimón  Pallás,  Josep  María;  Jiménez  Villa,  Josep.  Métodos
-de investigación clínica y epidemiológica. 4º edición. Elsevier España, SA. Barcelona, 2012
+Argimón    Pallás,    Josep    María;    Jiménez   Villa,   Josep.   Métodos   de   investigación   clínica   y
+epidemiológica. 4º edición. Elsevier España, SA. Barcelona, 2012
 
-Rubia Vila, FJ [et al.] Libro Blanco sobre el Sistema Sanitario Español. Madrid: Academia Europea de
-Ciencias   y   Artes,   2011.Para   descargar   Félix   Torán.  Misión  y  Visión.  Emprendiendo  con  sentido  y
-rumbo.   Málaga.   Ediciones   Corona   Borealis.   Colección  Coaching.2012  →  Rubia  Vila,  Francisco  J  [et
-al.]   Libro  Blanco  sobre  el  Sistema  Sanitario  Español.  Madrid:  Academia  Europea  de  Ciencias  y  Artes,
-2011.Para descargar http://sid.usal.es/idocs/F8/FDO25873/Libro_Blanco_Sistema_Sanitario_Espanol.pdf
-
-✅ Recursos añadidos:
-------------------------------
 Martínez   González,   Miguel  Ángel.  Conceptos  de  Salud  Pública  y  estrategias  preventivas.  2ª  Edición.
 Elsevier España, SA. Barcelona, 2018
+
+Martínez   González,   Miguel   Ángel.   Conceptos   de  Salud  Pública  y  estrategias  preventivas.  Elsevier
+España, SA. Barcelona, 2013
+
+Rubia   Vila,   Francisco  J  [et  al.]  Libro  Blanco  sobre  el  Sistema  Sanitario  Español.  Madrid:  Academia
+Europea           de           Ciencias           y           Artes,          2011.Para          descargar
+http://sid.usal.es/idocs/F8/FDO25873/Libro_Blanco_Sistema_Sanitario_Espanol.pdf
 
 Torán, Félix . Misión y Visión. Emprendiendo con sentido y rumbo. Málaga. Ediciones Corona Borealis.
 Colección Coaching.2012
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+Torán, Félix . “Atrévete a ser un líder”. Ediciones Luciernaga. Colección Coaching. 2013
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

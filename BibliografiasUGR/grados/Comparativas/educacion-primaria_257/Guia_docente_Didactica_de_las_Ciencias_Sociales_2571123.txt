@@ -2,12 +2,13 @@
 Grado: educacion-primaria (257)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Graó.   consultas,  exposiciones  y  debates;  así  como  en  la  elaboración  de  los  trabajos,  individuales  o
-en equipo, y en las sesiones de puesta en común
+GARCÍA   RUIZ,   A.L.  Y  JIMÉNEZ,  J.A.  (2006):  Los  principios  científico-didácticos  (PCD).  Nuevo  GARCÍA
+RUIZ,   A.L.  y  JIMÉNEZ  LÓPEZ,  J.A.  (2007):  La  implementación  de  los  principios  científicoGARCÍA,  A.L.
+y JIMÉNEZ, J.A. (2010): El valor formativo y la enseñanza de la Historia. Granada
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 BENEJÁM, P. Y PAGÈS, J. (coords.) (1997): Enseñar y aprender Ciencias Sociales, Geografía e Historia
 en Educación Secundaria. I.C.E. Universidad de Barcelona. Horsori
@@ -20,11 +21,9 @@ FELIU, M. y Hernández, F. X. (2011): 12 ideas clave. Enseñar y aprender histor
 GARCÍA   RUIZ,   A.L.   (2013):   Las   Ciencias  Sociales  y  su  enseñanza  práctica  en  Educación  Primaria  y
 Secundaria. Natívola
 
-GARCÍA   RUIZ,   A.L.  Y  JIMÉNEZ,  J.A.  (2006):  Los  principios  científico-didácticos  (PCD).  Nuevo  modelo
-para la enseñanza de la Geografía y de la Historia. Universidad de Granada
-
-GARCÍA   RUIZ,   A.L.   y   JIMÉNEZ   LÓPEZ,  J.A.  (2007):  La  implementación  de  los  principios  científico-
-didácticos (P.C.D.) en el aprendizaje de la Geografía y de la Historia. . Universidad de Granada
+GARCÍA,   A.L.   y   JIMÉNEZ,   J.A.   (2010):  El  valor  formativo  y  la  enseñanza  de  la  Historia.  Granada.
+Universidad   de   Granada.GARCÍA  RUIZ,  A.L.  (2003):  El  conocimiento  del  medio  y  su  enseñanza  práctica
+en la formación del profesorado de educación primaria. Natívola
 
 HERNÁNDEZ CARDONA, F. X. (2002): Didáctica de las ciencias sociales, geografía e historia. Graó
 
@@ -49,22 +48,15 @@ en la educación primaria. Ciencias Sociales para aprender, pensar y actuar. Sí
 
 TREPAT, C. Y COMES, P. (1998): El tiempo y el espacio en la didáctica de las Ciencias Sociales. Graó
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Universidad   de   Granada.GARCÍA  RUIZ,  A.L.  (2003):  El  conocimiento  del  medio  y  su  enseñanza  práctica
-en   la   formación   del   profesorado   de   educación  primaria.  Natívola  →  GARCÍA,  A.L.  y  JIMÉNEZ,  J.A.
-(2010):   El   valor   formativo   y  la  enseñanza  de  la  Historia.  Granada.  Universidad  de  Granada.GARCÍA
-RUIZ, A.L. (2003): El conocimiento del medio y su enseñanza práctica en la formación del profesorado
-de educación primaria. Natívola
-
-GARCÍA,   A.L.   y   JIMÉNEZ,   J.A.  (2010):  El  valor  formativo  y  la  enseñanza  de  la  Historia.  Granada  →
-GARCÍA,   A.L.   y   JIMÉNEZ,   J.A.   (2010):  El  valor  formativo  y  la  enseñanza  de  la  Historia.  Granada.
-Universidad   de   Granada.GARCÍA  RUIZ,  A.L.  (2003):  El  conocimiento  del  medio  y  su  enseñanza  práctica
-en la formación del profesorado de educación primaria. Natívola
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 CAMBIL   HERNANDEZ,   M.E   (Coord)   (2024)   :Itinerarios   en   femenino.Educar  en  igualdad  a  través  del
 patrimonio granadino.Eug
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+GARCÍA   RUIZ,   A.L.  Y  JIMÉNEZ,  J.A.  (2006):  Los  principios  científico-didácticos  (PCD).  Nuevo  modelo
+para la enseñanza de la Geografía y de la Historia. Universidad de Granada
+
+GARCÍA   RUIZ,   A.L.   y   JIMÉNEZ   LÓPEZ,  J.A.  (2007):  La  implementación  de  los  principios  científico-
+didácticos (P.C.D.) en el aprendizaje de la Geografía y de la Historia. . Universidad de Granada
+
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

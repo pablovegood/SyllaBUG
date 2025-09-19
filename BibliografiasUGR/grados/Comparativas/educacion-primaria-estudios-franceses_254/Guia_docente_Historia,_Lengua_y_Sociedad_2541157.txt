@@ -2,19 +2,39 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+LEGER,   Jean-Marc   (1987).   La   Francophonie   :   grand   dessein,   grande  ambiguïté.  QuébecParis.  Ed.
+Hurtubise-Ed.   Nathan.   241   p.   Les   Assimil   Collection  Évasion  (créoles,  français  de  Belgique,  de
+Suisse,   …)   LUTHI,   J.-J.,   A.  Viatte,  G.  Zananiri  (1986).  Dictionnaire  général  de  la  francophonie,
+Paris : Latouzey et Ané, 391 p
 
-📚 Recursos sin cambios:
+NEVEUX,   Fr.   «  David  BATES  ,  William  the  Conqueror  »,  Cahiers  de  civilisation  médiévale  [En  ligne],
+240   bis   |  2017,  mis  en  ligne  le  01  décembre  2019.  URL  :  http://journals.openedition.org/ccm/5450  ;
+DOI   :   https://doi.org/10.4000/ccm.5450   RIDEL,   E.   (2009).   Les   Vikings  et  les  mots.  L’apport  de
+l’ancien scandinave à la langue française. Paris, Éditions Errance
+
+VALANTIN,   C.,  (2010).  Une  histoire  de  la  Francophonie.  Paris,  Belin  littérature  et  revues  VALDMANN,
+Albert dir. (1979). Le français hors de France. Paris, Champion
+
+YAGUELLO,   M.  (1988).  Catalogue  des  idées  reçues  sur  la  langue.  Paris,  Seuil  -(2003).  Le  Grand  livre
+de   la  langue  française.  Paris,  Seuil  ZÉVACO,  C.  (1999).  Guide  du  français  pour  tous.  Le  livre  de  la
+francophonie, Paris, L’Harmattan
+
+📚 Recursos sin cambios (63):
 ------------------------------
-ALLIÈRES,   Jacques  (1982).  La  formation  de  la  langue  française,  Paris,  P.U.F.,  coll.  «Que  sais-je?»,
-n° 1907, 128 p
+(1965). Patois et dialectes français . Paris, PUF, Que sais-je? Réed. 1973
+
+(1995). Les Politiques linguistiques . Paris, PUF (Que sais-je?)
+
+(1996). Le Français, histoire d’un combat . Paris, éd. Cl. Hagège
+
+(2001).   "L'invention   du   français",  Sciences  et  Avenir,  Hors  série  No  125,  déc  2000/janv  2001,  pp.
+62-67
+
+(2021). Parler comme jamais : la langue : ce qu'on croit et ce qu'on en sait . Paris : Le Robert
 
 AUPELF (1989). Francophonie scientifique. Le tournant. Paris. AUPELF. Ed. John Libbey. 169 p
-
-Association   Permis   de  vivre  la  ville  et  jeunes  d’Évry  ;  REY,  A.  &  Disiz  La  Peste  (dialogue),  Lexik
-des cités illustré, Fleuve Noir, Paris, 2007
 
 BALIBAR, Renée et Dominique LAPORTE (1974). Le français national, Paris, Hachette, 224 p
 
@@ -72,6 +92,8 @@ Paris, 306 p
 CHIKH,   Slimane,  Madhi  Elmandjra  et  Baccar  Touzani  (1988).  Maghreb  et  Francophonie,  Paris,  Economica
 (coll "coopération" Ndeg.2), 1988, 84 p
 
+COHEN, Marcel (1967). Histoire d’une langue: le français. Paris, Éd. Sociales
+
 DEPECKER,   Loïc  (1990).  Les  Mots  de  la  francophonie  .  Paris.  Ed.  Belin  (Coll.  "Le  français  retrouvé"
 Ndeg.19) 2e édition. 398 p
 
@@ -85,22 +107,36 @@ Nord, Librairie Gandini
 
 FANON, F. (1971). Peau noire, masques blancs, Paris, Seuil, Point essais
 
+Francophonie   Association   Permis   de   vivre   la   ville   et  jeunes  d’Évry  ;  REY,  A.  &  Disiz  La  Peste
+(dialogue), Lexik des cités illustré, Fleuve Noir, Paris, 2007
+
 GIUSTI. Ada (1997). La langue française, Paris, Flammarion, coll. Dominos
+
+GOUGES, O. de (1791). Déclaration des droits de la femme et de la citoyenne
 
 GUILLOU, Michel (1993). La Francophonie, nouvel enjeu mondial . Paris. Ed. Hatier. 156 p
 
+GUIRAUD, Pierre (1958). L’argot. Paris, PUF, Que sais-je?
+
 HADDAD,   Raphaël   (2019).  Manuel  d'écriture  inclusive.  Faites  progresser  l'égalité  femmes-hommes  par
 votre manière d'écrire
+
+HAGÈGE, Claude (1987): Le français et les siècles . Paris, Odile Jacob
 
 KROP,   P.,   (1995).   Tu   fais   l’avion   par  terre,  Dico  franco-africain,  Paris,  Éditions  Jean-Claude
 Lattès
 
 LECHERBONNIER, Bernard (2005). Pourquoi veulent-ils tuer le français?, Paris, Albin Michel, 250 p
 
+LECLERC, Jacques (1989). Qu'est-ce que la langue? Laval (Québec), Mondia Éditeur, 460 p
+
 LESSARD,   Michaël,   ZACCOUR,   Suzanne   (2018)   .   Manuel   de   grammaire  non  sexiste  et  inclusive:  Le
 masculin ne l'emporte plus ! Paris: Syllepse
 
 LODGE, R.A. (1997). Le français, histoire d’un dialecte devenu langue . Paris, Fayard
+
+Langue   ALLIÈRES,   Jacques   (1982).   La   formation  de  la  langue  française,  Paris,  P.U.F.,  coll.  «Que
+sais-je?», n° 1907, 128 p
 
 MAURIN,   E.   (2004).   Le   ghetto   français   :   Enquête   sur   le  séparatisme  social,  Paris,  Seuil,  la
 république des idées
@@ -114,11 +150,10 @@ de recherche sur la culture. 143 p
 REY,   Alain,   Gilles  SIOUFFI  et  Frédéric  DUVAL  (2007).  Mille  ans  de  langue  française:  histoire  d'une
 passion, Paris, Éditions Perrin, 1465 p
 
-RIDEL,   E.   (2009).   Les  Vikings  et  les  mots.  L’apport  de  l’ancien  scandinave  à  la  langue  française.
-Paris, Éditions Errance
-
 ROY,   Jean-Louis   (1989).   La  Francophonie,  émergence  d'une  alliance  .  Québec.  Paris.  Ed.  Hurtubise.
 Ed. Hatier. 131 p
+
+ROY, Jean-Louis (1989). La Francophonie, émergence d'une alliance. Québec. Paris. Ed
 
 Revue française d’histoire d’outre-mer (1986). Paris, Société Française d’Histoire d’Outre-Mer, Tome
 LXXII, nº 266, 1er trimestre 1985 (paru en 1986)
@@ -126,19 +161,17 @@ LXXII, nº 266, 1er trimestre 1985 (paru en 1986)
 STÉBÉ,   J.-M.   (2007).   La   crise  des  banlieues  :  Sociologie  des  quartiers  sensibles,  Paris,  Presses
 Universitaires de France, Collection Que sais-je
 
-SUSO   LÓPEZ,   J.,  LÓPEZ  CARRILLO,  R.  (2004).  Le  français  face  aux  défis  actuels:  histoire,  langue  et
-culture.   Universidad  de  Granada,  Editorial  Universidad  de  Granada  TÉTU,  M.  (1997).  Qu’est-ce  que  la
-francophonie ? Paris, Hachette
+SUSO   LÓPEZ,   J.,   LÓPEZ  CARRILLO,  R.  (2004).  Le  français  face  aux  défis  actuels:  histoire,  TÉTU,  M.
+(1997). Qu’est-ce que la francophonie ? Paris, Hachette
 
 TRAISNEL,   C.  ;  WADE,  A.  (préface).  (2005).  Le  français  en  partage  :  les  50  plus  belles  histoires  de
 la Francophonie, Timée Éditions, Collection Les 50 plus belles histoires
 
-VALANTIN,   C.,  (2010).  Une  histoire  de  la  Francophonie.  Paris,  Belin  littérature  et  revues  VALDMANN,
-Albert dir. (1979). Le français hors de France. Paris, Champion
-
 VIATTE, Auguste (1969). La francophonie . Paris, Larousse
 
 WALTER, Henriette (1988). Le Français dans tous les sens . Paris, Robert Laffont
+
+WALTER, Henriette (1988). Le Français dans tous les sens . Paris. Ed. Robert Laffont. 1988. 384 p
 
 WALTER,   Henriette  (1994).  L’aventure  des  langues  en  Occident,  Paris,  Éditions  Robert  Laffont,  coll.
 "Le livre de poche", 595 p
@@ -152,64 +185,23 @@ WARTBURG, W.C. (1962). Evolution et structure de la langue française . Bern, Fr
 
 YAGUELLO, Marina (2003). Le grand livre de la langue française . Paris, Seuil
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (11):
 ------------------------------
-HAGÈGE, Claude (1987): Le français et les siècles. Paris, Odile Jacob. (1996). Le Français, histoire
-d’un   combat.   Paris,   éd.   Cl.   Hagège  →  HAGÈGE,  Claude  (1987):  Le  français  et  les  siècles  .  Paris,
-Odile Jacob
-
-CANDEA,   Maria   &  VÉRON,  Lélia  (2019).  Le  français  est  à  nous.  Paris  :  La  Découverte.  (2021).  Parler
-comme   jamais   :   la  langue  :  ce  qu'on  croit  et  ce  qu'on  en  sait.  Paris  :  Le  Robert  →  (2021).  Parler
-comme jamais : la langue : ce qu'on croit et ce qu'on en sait . Paris : Le Robert
-
-WALTER,   Henriette   (1988).   Le   Français   dans   tous   les   sens.   Paris,   Robert   Laffont.   (2001).
-"L'invention   du   français",   Sciences  et  Avenir,  Hors  série  No  125,  déc  2000/janv  2001,  pp.  62-67  →
-WALTER, Henriette (1988). Le Français dans tous les sens . Paris, Robert Laffont
-
-Paris,   Payot.  (1995).  Les  Politiques  linguistiques.  Paris,  PUF  (Que  sais-je?)  COHEN,  Marcel  (1967).
-Histoire   d’une   langue:   le   français.   Paris,   Éd.  Sociales  →  COHEN,  Marcel  (1967).  Histoire  d’une
-langue: le français. Paris, Éd. Sociales
-
-GUIRAUD,   Pierre   (1958).   L’argot.   Paris,   PUF,  Que  sais-je?  (1965).  Patois  et  dialectes  français.
-Paris, PUF, Que sais-je? Réed. 1973  →  GUIRAUD, Pierre (1958). L’argot. Paris, PUF, Que sais-je?
-
-LECLERC,   Jacques  (1989).  Qu'est-ce  que  la  langue?  Laval  (Québec),  Mondia  Éditeur,  460  NEVEUX,  Fr.  «
-David BATES , William the Conqueror », Cahiers de civilisation médiévale [En ligne], 240 bis | 2017,
-mis   en   ligne   le   01   décembre   2019.   URL   →   NEVEUX,  Fr.  «  David  BATES,  William  the  Conqueror  »,
-Cahiers   de  civilisation  médiévale  [En  ligne],  240  bis  |  2017,  mis  en  ligne  le  01  décembre  2019.  URL
-: http://journals.openedition.org/ccm/5450 ; DOI : https://doi.org/10.4000/ccm.5450
-
-YAGUELLO,   M.   (1988).  Catalogue  des  idées  reçues  sur  la  langue.  Paris,  Seuil  (2003).  Le  Grand  livre
-de   la  langue  française.  Paris,  Seuil  ZÉVACO,  C.  (1999).  Guide  du  français  pour  tous.  Le  livre  de  la
-francophonie,   Paris,   L’Harmattan  →  YAGUELLO,  M.  (1988).  Catalogue  des  idées  reçues  sur  la  langue  .
-Paris, Seuil
-
-LEGER,   Jean-Marc   (1987).   La   Francophonie   :   grand  dessein,  grande  ambiguïté.  Québec-  Paris.  Ed.
-Hurtubise-Ed.   Nathan.   241   p.   Les   Assimil   Collection  Évasion  (créoles,  français  de  Belgique,  de
-Suisse,   …)   LUTHI,   J.-J.,   A.  Viatte,  G.  Zananiri  (1986).  Dictionnaire  général  de  la  francophonie,
-Paris   →   LEGER,   Jean-Marc  (1987).  La  Francophonie  :  grand  dessein,  grande  ambiguïté.  Québec-Paris.
-Ed.   Hurtubise-Ed.   Nathan.  241  p.  Les  Assimil  Collection  Évasion  (créoles,  français  de  Belgique,  de
-Suisse, …)
-
-✅ Recursos añadidos:
-------------------------------
-(1965). Patois et dialectes français . Paris, PUF, Que sais-je? Réed. 1973
-
-(1995). Les Politiques linguistiques . Paris, PUF (Que sais-je?)
-
-(1996). Le Français, histoire d’un combat . Paris, éd. Cl. Hagège
-
-(2001).   "L'invention   du   français",  Sciences  et  Avenir,  Hors  série  No  125,  déc  2000/janv  2001,  pp.
-62-67
-
 (2003). Le Grand livre de la langue française . Paris, Seuil
 
-GOUGES, O. de (1791). Déclaration des droits de la femme et de la citoyenne
-
-LECLERC, Jacques (1989). Qu'est-ce que la langue? Laval (Québec), Mondia Éditeur, 460 p
+LEGER,   Jean-Marc   (1987).   La   Francophonie   :   grand   dessein,  grande  ambiguïté.  Québec-Paris.  Ed.
+Hurtubise-Ed.   Nathan.   241   p.   Les   Assimil   Collection  Évasion  (créoles,  français  de  Belgique,  de
+Suisse, …)
 
 LUTHI,   J.-J.,   A.   Viatte,   G.   Zananiri   (1986).   Dictionnaire  général  de  la  francophonie,  Paris  :
 Latouzey et Ané, 391 p
+
+NEVEUX,   Fr.   «   David  BATES,  William  the  Conqueror  »,  Cahiers  de  civilisation  médiévale  [En  ligne],
+240   bis   |  2017,  mis  en  ligne  le  01  décembre  2019.  URL  :  http://journals.openedition.org/ccm/5450  ;
+DOI : https://doi.org/10.4000/ccm.5450
+
+RIDEL,   E.   (2009).   Les  Vikings  et  les  mots.  L’apport  de  l’ancien  scandinave  à  la  langue  française.
+Paris, Éditions Errance
 
 SUSO   LÓPEZ,   J.,  LÓPEZ  CARRILLO,  R.  (2004).  Le  français  face  aux  défis  actuels:  histoire,  langue  et
 culture. Universidad de Granada, Editorial Universidad de Granada
@@ -220,8 +212,8 @@ VALANTIN, C., (2010). Une histoire de la Francophonie . Paris, Belin littératur
 
 VALDMANN, Albert dir. (1979). Le français hors de France . Paris, Champion
 
-WALTER, Henriette (1988). Le Français dans tous les sens . Paris. Ed. Robert Laffont. 1988. 384 p
+YAGUELLO, M. (1988). Catalogue des idées reçues sur la langue . Paris, Seuil
 
 ZÉVACO, C. (1999). Guide du français pour tous . Le livre de la francophonie, Paris, L’Harmattan
 
-📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

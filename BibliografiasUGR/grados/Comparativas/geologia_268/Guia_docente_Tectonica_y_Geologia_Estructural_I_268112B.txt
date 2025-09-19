@@ -2,15 +2,22 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+(Traducción española: Plegamiento y Fracturación de rocas. 1977. H. Blume, Madrid)
 
-📚 Recursos sin cambios:
+Leyson,   R.P.   y   Lisle,   R.J.   (1996).   Stereographic   projection  techniques  in  Structural  Geology.
+Butterworth-Heinemann Ltd, Oxford Marshak, S. y Mitra, G. (Ed.). (1988). Basic methods of Structural
+Geology. Prentice-Hall, New Jersey
+
+Parte   1:   TECTÓNICA   DE   PLACAS   Frisch,   W.,   Meschede,   M.,   Blakey,   R.   (2011)  Plate  Tectonics:
+Continental   drift   and   Mountain   Building   Moores,  E.M.  y  Twiss,  J.  (1995):  Tectonics.  Freeman  and
+Company, New York
+
+Ramsay, J.G. (1967). Folding and fracturing of rocks. McGraw-Hill, New York
+
+📚 Recursos sin cambios (23):
 ------------------------------
-Bastida   F.   (2005).   Geología.  Una  visión  moderna  de  las  ciencias  de  la  Tierra.  Ediciones  Trea  S.L.
-Gijón
-
 Condie, K. (1997) Plate tectonics (4th edition). Butterworth-Heinemann
 
 Davis,   G.H.   y  Reynolds,  S.J.  (1995).  Structural  Geology  of  rocks  and  regions.  (2ª  Ed.).  Wiley,  New
@@ -36,15 +43,18 @@ Parte   1:   TECTÓNICA   DE  PLACAS  (Teoría)  Boillot,  G.  (1984):  Geologí
 Masson, Barcelona
 
 Parte   2:   GEOLOGÍA   ESTRUCTURAL   I  (Prácticas)  Hatcher,  R.D.,  Jr.  y  Hooper,  R.J.  (1990).  Laboratory
-Manual for Structural Geology
+Manual for Structural Geology. Prentice Hall, San Francisco
+
+Parte   2:   GEOLOGÍA   ESTRUCTURAL   I   (Teoría)  Bastida  F.  (2005).  Geología.  Una  visión  moderna  de  las
+ciencias de la Tierra. Ediciones Trea S.L. Gijón
+
+Parte   2:   GEOLOGÍA   ESTRUCTURAL   I   Fossen,  H.  (2010,  segunda  edición  en  2016).  Structural  Geology.
+Cambridge University Press
 
 Passchier, C.W. y Trouw, R.A.J. (1995). Microtectonics. Springer-Verlag, New York
 
 Ragan J.G. (1980). Geología Estructural: Introducción a las técnicas geométricas. (Trad., Domingo de
 Miró, M.).Omega, Barcelona
-
-Ramsay,   J.G.   (1967).  Folding  and  fracturing  of  rocks.  McGraw-Hill,  New  York.  (Traducción  española:
-Plegamiento y Fracturación de rocas. 1977. H. Blume, Madrid)
 
 Ramsay,   J.G.   y   Huber,   M.I.   (1983).   The  techniques  of  Modern  Structural  Geology.  Vol.  I:  Strain
 analysis. Academic Press, London
@@ -67,33 +77,14 @@ Twiss, R.J. y Moores, E.M. (2007). Structural Geology (2ª Ed.). W.H. Freeman & 
 
 Twiss, R.J. y Moores, E.M. (2007): Structural Geology (2ª Ed.). W.H. Freeman & Co., New York
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (12):
 ------------------------------
-Ramsay,   J.G.   y   Huber,   M.I.  (1983).  The  techniques  of  Modern  Structural  Geology.  Vol.  I  →  Ramsay,
-J.G.   y   Huber,   M.I.   (1987).   The   techniques   of   Modern   Structural   Geology.  Vol.  II:  Folds  and
-fractures. Academic Press, London
-
-Parte   1:   TECTÓNICA   DE   PLACAS   Frisch,   W.,   Meschede,   M.,   Blakey,   R.   (2011)  Plate  Tectonics:
-Continental   drift   and   Mountain   Building   Moores,  E.M.  y  Twiss,  J.  (1995):  Tectonics.  Freeman  and
-Company,   New   York.   Parte   2:   GEOLOGÍA   ESTRUCTURAL  I  Fossen,  H.  (2010,  segunda  edición  en  2016).
-Structural   Geology.   Cambridge  University  Press  →  Frisch,  W.,  Meschede,  M.,  Blakey,  R.  (2011)  Plate
-Tectonics: Continental drift and Mountain Building
-
-Leyson,   R.P.   y   Lisle,   R.J.   (1996).   Stereographic   projection  techniques  in  Structural  Geology.
-Butterworth-Heinemann Ltd, Oxford Marshak, S. y Mitra, G. (Ed.). (1988). Basic methods of Structural
-Geology.   Prentice-Hall,   New   Jersey   →  Leyson,  R.P.  y  Lisle,  R.J.  (1996).  Stereographic  projection
-techniques in Structural Geology. Butterworth-Heinemann Ltd, Oxford
-
-✅ Recursos añadidos:
-------------------------------
-Boillot, G. (1984): Geología de los márgenes continentales. Masson, Barcelona
-
-Fossen, H. (2010, segunda edición en 2016). Structural Geology. Cambridge University Press
-
 Fossen, H. y Teyssier, C. (2025) Plate Tectonics. Cambridge University Press
 
-Hatcher,   R.D.,   Jr.  y  Hooper,  R.J.  (1990).  Laboratory  Manual  for  Structural  Geology.  Prentice  Hall,
-San Francisco
+Frisch, W., Meschede, M., Blakey, R. (2011) Plate Tectonics: Continental drift and Mountain Building
+
+Leyson,   R.P.   y   Lisle,   R.J.   (1996).   Stereographic   projection  techniques  in  Structural  Geology.
+Butterworth-Heinemann Ltd, Oxford
 
 Marshak,   S.   y   Mitra,   G.   (Ed.).   (1988).  Basic  methods  of  Structural  Geology.  Prentice-Hall,  New
 Jersey
@@ -102,8 +93,18 @@ Moores, E.M. y Twiss, J. (1995): Tectonics. Freeman and Company, New York
 
 Parte 1: TECTÓNICA DE PLACAS
 
+Parte 1: TECTÓNICA DE PLACAS (Teoría)
+
+Parte 2: GEOLOGÍA ESTRUCTURAL I
+
 Parte 2: GEOLOGÍA ESTRUCTURAL I (Prácticas)
 
 Parte 2: GEOLOGÍA ESTRUCTURAL I (Teoría)
 
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+Ramsay,   J.G.   (1967).  Folding  and  fracturing  of  rocks.  McGraw-Hill,  New  York.  (Traducción  española:
+Plegamiento y Fracturación de rocas. 1977. H. Blume, Madrid)
+
+Ramsay,   J.G.   (1967).  Folding  and  fracturing  of  rocks.  McGraw-Hill,  New  York.  (Traducción  española:
+Plegamiento y Fracturación de rocas. 1977. H. Blume, Madrid)
+
+📊 Porcentaje estimado de cambio: 47% [████░░░░░░]

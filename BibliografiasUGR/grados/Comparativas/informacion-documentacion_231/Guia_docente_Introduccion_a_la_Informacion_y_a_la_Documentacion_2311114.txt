@@ -2,16 +2,26 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Abadal,    E.    La    Documentación    en    España.    Madrid:    CINDOC-FESABID,   1994.   Disponible   en:
+https://digital.csic.es/handle/10261/36885.   Consultado:   09/06/2023  Abadal,  Ernest;  Ollé,  Candela;
+López-Borrull,   Alexandre  (2021).  “Biblioteconomía  y  Documentación  en  España:  balance  de  40  años  de
+estudios      universitarios”.      Profesional      de     la     información,     v.     30,     n.     2.
+https://doi.org/10.3145/epi.2021.mar.15   Buckland,   M.   K.   Information  and  information  systems.  New
+York: Greenwood Press, 1991
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Aliprandi,   S.,   &   Piana,  C.  Creative  commons:  guía  del  usuario.  Milán:  Ledizioni,  2012.  Disponible
 en: https://books.openedition.org/ledizioni/185?lang=es
 
-Le Coadic, Y. F. La science de l’information. Paris: Presses Universitaires de France, 1994
+Disponible   en:   https://books.openedition.org/ledizioni/185?lang=es   Le  Coadic,  Y.  F.  La  science  de
+l’information. Paris: Presses Universitaires de France, 1994
+
+Guinchat,   C.   &   Menou,  M.  Introducción  general  a  las  ciencias  y  técnicas  de  la  información  y  de  la
+documentación.       2ª       ed.       Madrid:       CINDOC-UNESCO,       1992.       Disponible       en:
+https://unesdoc.unesco.org/ark:/48223/pf0000184243 . Consultado: 09/06/2023
 
 López Yepes, J. (Coord.). Manual de ciencias de la documentación. Madrid. Pirámide, 2011
 
@@ -40,33 +50,11 @@ news. Lérida: Milenio, 2020
 Vickery,   B.C.   &  Vickery,  A.  Information  science  in  theory  and  practice:  Third  revised  and  enlarged
 edition. Múnich: K.G. Saur, 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Guinchat,   C.   &   Menou,  M.  Introducción  general  a  las  ciencias  y  técnicas  de  la  información  y  de  la
-documentación.   2ª   ed.   Madrid:   CINDOC-UNESCO,   1992.   Disponible   en   →   Guinchat,  C.  &  Menou,  M.
-Introducción   general   a   las   ciencias   y   técnicas  de  la  información  y  de  la  documentación.  2ª  ed.
-Madrid:   CINDOC-UNESCO,   1992.   Disponible   en:  https://unesdoc.unesco.org/ark:/48223/pf0000184243  .
-Consultado: 09/06/2023
-
-Abadal,   E.   La  Documentación  en  España.  Madrid:  CINDOC-FESABID,  1994.  Disponible  en  →  Abadal,  E.  La
-Documentación       en       España.       Madrid:      CINDOC-FESABID,      1994.      Disponible      en:
+Abadal,    E.    La    Documentación    en    España.    Madrid:    CINDOC-FESABID,   1994.   Disponible   en:
 https://digital.csic.es/handle/10261/36885 . Consultado: 09/06/2023
 
-Universidad   de   Murcia,   1996)   →   Otlet,   P.  El  tratado  de  documentación.  El  libro  sobre  el  libro.
-Teoría   y   práctica.   Bruselas:  Ediciones  Mundaneum;  Palais  Mondial,  1934  (Versión  española  de  M.  D.
-Ayuso. Murcia: Universidad de Murcia, 1996)
-
-Ediciones   Mundaneum;   Palais   Mondial,  1934  (Versión  española  de  M.  D.  Ayuso.  Murcia  →  Otlet,  P.  El
-tratado de documentación. El libro sobre el libro. Teoría y práctica. Bruselas: Ediciones Mundaneum;
-Palais Mondial, 1934 (Versión española de M. D. Ayuso. Murcia: Universidad de Murcia, 1996)
-
-Abadal,   Ernest;   Ollé,  Candela;  López-Borrull,  Alexandre  (2021).  “Biblioteconomía  y  Documentación
-en   España:   balance  de  40  años  de  estudios  universitarios”.  Profesional  Buckland,  M.  K.  Information
-and   information   systems.   New   York:   Greenwood   Press,   1991   →   Buckland,   M.  K.  Information  and
-information systems. New York: Greenwood Press, 1991
-
-✅ Recursos añadidos:
-------------------------------
 Abadal,   Ernest;   Ollé,  Candela;  López-Borrull,  Alexandre  (2021).  “Biblioteconomía  y  Documentación
 en España: balance de 40 años de estudios universitarios”. Profesional de la información, v. 30, n.
 2. https://doi.org/10.3145/epi.2021.mar.15
@@ -75,8 +63,10 @@ Alonso-Arévalo,   J.   (2024).   Formas   en   que   la  Inteligencia  Artifici
 Universo   Abierto.   https://universoabierto.org/2024/01/12/formas-en-que-la-inteligencia-artificial-
 impacta-a-las-bibliotecas/
 
+Buckland, M. K. Information and information systems. New York: Greenwood Press, 1991
+
 Plaza-Navas,   M.   Àngel  (2024).  Bibliotecas,  archivos  e  Inteligencia  Artificial:  de  nuevo,  ¿ante  una
 encrucijada?.   Enredadera:   Revista   de   la   Red   de   Bibliotecas   Y  Archivos  del  CSIC,  (40),  47–58.
 https://doi.org/10.20350/digitalCSIC/16285
 
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

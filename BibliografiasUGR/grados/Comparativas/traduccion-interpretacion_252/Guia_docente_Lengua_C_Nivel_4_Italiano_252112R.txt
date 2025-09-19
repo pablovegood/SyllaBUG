@@ -2,29 +2,26 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+M.   CARRERA   DÍAZ,   Manual   de   gramática   italiana.   Barcelona,  Ariel,  1998  M.  DARDANO,  P.  TRIFONE,
+Grammatica italiana. Milano, Zanichelli, 1999 F. DÍAZ PADILLA, Gramática analítico descriptiva de la
+lengua   italiana.   Oviedo,   Universidad   de   Oviedo,  1999  G.  PATOTA,  Grammatica  di  riferimento  della
+lingua   italiana   per  stranieri.  Firenze,  Le  Monnier,  2003  L.  SERIANNI,  Grammatica  italiana.  Torino,
+Utet,   1997   L.   TAM,   Grande   dizionario   di  spagnolo.  Spagnolo-Italiano  Italiano  Spagnolo.  Torino,
+Hoepli, 2004
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
 T.Marín,   "Nuovissimo   Progetto   italiano  2A"  Corso  di  Lingua  e  Civiltà  italiana,  Livello  Intermedio
 B1-B2,   Edilingua   T.Marín,   "Nuovissimo   Progetto   italiano  2B"  Corso  di  Lingua  e  Civiltà  italiana,
 Livello    Intermedio    B1-B2,    Edilingua    A.Petri,   M.Laneri,   A.Bernardoni,   Grammatica   di   base
 dell'italiano,   Ed.Casa  delle  Lingue,  D.Troncarelli,  M.La  Grassa,  "GrammaticAvanzata.  Esprimersi  con
-le   frasi,   funzioni,   forme  e  attività".  Roma,  Edilingua,  2017  M.  CARRERA  DÍAZ,  Manual  de  gramática
-italiana.   Barcelona,   Ariel,   1998  M.  DARDANO,  P.  TRIFONE,  Grammatica  italiana.  Milano,  Zanichelli,
-1999   F.  DÍAZ  PADILLA,  Gramática  analítico  descriptiva  de  la  lengua  italiana.  Oviedo,  Universidad  de
-Oviedo,   1999   G.  PATOTA,  Grammatica  di  riferimento  della  lingua  italiana  per  stranieri.  Firenze,  Le
-Monnier,   2003   L.   SERIANNI,   Grammatica   italiana.  Torino,  Utet,  1997  L.  TAM,  Grande  dizionario  di
-spagnolo.   Spagnolo-Italiano   Italiano  Spagnolo.  Torino,  Hoepli,  2004  →  TAM,  L.  Dizionario  spagnolo-
-italiano, italiano-spagnolo, Milano, Hoepli, 2017
+le frasi, funzioni, forme e attività". Roma, Edilingua, 2017
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (8):
 ------------------------------
 ALBANO LEONI, F., MATURI, P. Manuale di fonetica, Roma, Carocci, 2018
 
@@ -38,6 +35,8 @@ PATOTA, G. Grammatica di riferimento dell’italiano contemporaneo, Milano, Garz
 
 RENZI,   L.,   SALVI,   G.,   CARDINALETTI,   A.  (a  cura  di),  Grande  grammatica  italiana  di  consultazione
 (nuova edizione), Bologna, il Mulino, 2001, volumi 3
+
+TAM, L. Dizionario spagnolo-italiano, italiano-spagnolo, Milano, Hoepli, 2017
 
 TARTAGLIONE,   R.,  BENINCASA,  A.  Grammatica  della  lingua  italiana  per  stranieri,  B1/B2.  Firenze,  Alma
 Edizioni, 2016

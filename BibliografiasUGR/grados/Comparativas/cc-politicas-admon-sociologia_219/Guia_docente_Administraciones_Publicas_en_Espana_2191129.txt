@@ -2,11 +2,11 @@
 Grado: cc-politicas-admon-sociologia (219)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (63):
 ------------------------------
 AGRANOFF, R. y BAÑÓN, R. (comps.) (1998). El Estado de las Autonomías . Oñate, Editorial IVAP
 
@@ -20,10 +20,14 @@ ALCÁNTARA, M. y MARTÍNEZ, A. (2001). Política y Gobierno en España . Madrid,
 ARENILLA   SÁEZ,   M.   (2014).   Administración  2032.  Teclas  para  transformar  la  Administración  Pública
 Española . Madrid, INAP
 
-ARENILLA,   M.  (2021).  La  Administración  digital.  Los  riesgos  de  la  desintermediación,  las  escisiones
+ARENILLA, M. (2003). La reforma administrativa desde el ciudadano . Madrid, INAP
+
+ARENILLA,   M.  (2021),  La  Administración  digital.  Los  riesgos  de  la  desintermediación,  las  escisiones
 y las centralizaciones. Madrid, INAP
 
 ARENILLA, M. (dir.) (2011). Crisis y reforma de la Administración Pública . La Coruña, Netbiblo
+
+ARENILLA, M. y CANALES ALIENDE, J. M. (eds.) (1999). Gobierno y Pacto Local . Madrid, MAP
 
 BAENA DEL ALCÁZAR, M. (2010). Manual de Ciencia de la Administración . Madrid, Síntesis
 
@@ -32,7 +36,7 @@ BAENA DEL ALCÁZAR, M. (2014). La reforma del Estado y de la Administración esp
 BALLART,   RICO   y   RIPOLL   (2016).  La  motivación  en  los  servicios  públicos.  Análisis  empírico  de  sus
 antecedentes y sus efectos . Madrid, INAP
 
-BALLART, X. y RAMIÓ, C. (2000). Ciencia de la Administración, Valencia, Tirant lo Blanch
+BALLART, X. y RAMIÓ, C. (2000), Ciencia de la Administración, Valencia, Tirant lo Blanch
 
 BASSOLS COMA, M. (2004). La Administración Pública de las Comunidades Autónomas . Madrid, INAP
 
@@ -56,7 +60,7 @@ gobernanza multinivel . Madrid, INAP
 
 CRESPO MONTES, L. F. (2003). Mitos y ritos de la Administración española . Madrid, INAP
 
-CRESPO,   J.   y  PASTOR,  G.  (coords.)  (2002).  Administraciones  Públicas  Españolas.  Madrid,  Ed.  MacGraw
+CRESPO,   J.   y  PASTOR,  G.  (coords.)  (2002),  Administraciones  Públicas  Españolas.  Madrid,  Ed.  MacGraw
 Hill
 
 CRIADO,   J.I.   (2009).  Entre  sueños  utópicos  y  visiones  pesimistas:  internet  y  las  tecnologías  de  la
@@ -68,7 +72,7 @@ Madrid, INAP
 FEMP   (2004).   De   la  Ley  de  Grandes  Ciudades  a  la  Ley  de  Modernización  del  Gobierno  Local  .  Madrid,
 FEMP
 
-FERRI   DURÁ,   J.   (2006).   “Los   Códigos   de   Buen   Gobierno   en   las  Administraciones  Públicas”,  en
+FERRI   DURÁ,   J.   (2006),   “Los   Códigos   de   Buen   Gobierno   en   las  Administraciones  Públicas”,  en
 Administración y Ciudadanía, Revista da Escola Galega de Administración Pública, nº 2
 
 FERRI   DURÁ,   J.   (2013)   (dir.).   Política  y  Gobierno  en  el  Estado  Autonómico  .  Valencia,  Tirant  lo
@@ -92,18 +96,18 @@ MÁRQUEZ CRUZ, G. (2007). Política y Gobierno Local . Madrid, CEPC
 OLMEDA,   J.A.,   PARRADO,  S.  y  COLINO,  C.  (2017).  Las  Administraciones  Públicas  en  España  .  Valencia.
 Tirant lo Blanch
 
-OLÍAS DE LIMA, B. (2006). Manual de Organización Administrativa del Estado. Madrid, Síntesis
+OLÍAS DE LIMA, B. (2006), Manual de Organización Administrativa del Estado. Madrid, Síntesis
 
 PALOMAR   OLMEDA,   A.   (2015).   Planificación   del  empleo  público  e  instrumentos  de  flexibilización  y
 racionalización . Madrid, Thomson Reuters
 
-PALOMAR,   A.  y  DE  MIGUEL,  F.  (2004).  El  nuevo  papel  de  la  Administración  General  del  Estado.  Madrid,
+PALOMAR,   A.  y  DE  MIGUEL,  F.  (2004),  El  nuevo  papel  de  la  Administración  General  del  Estado.  Madrid,
 Dykinson
 
 PANIAGUA,   J.L.   (coord.)   (2000).   Gobierno  y  Administración  en  las  Comunidades  Autónomas  .  Madrid,
 Tecnos
 
-PARRADO,   S.,  COLINO,  C.  y  OLMEDA,  J.A.  (2013).  Gobiernos  y  Administraciones  Públicas  en  perspectiva
+PARRADO,   S.,  COLINO,  C.  y  OLMEDA,  J.A.  (2013):  Gobiernos  y  Administraciones  Públicas  en  perspectiva
 comparada. Valencia, Tirant lo Blanch
 
 PINO,   E.   del   (2004).   Los   ciudadanos   y   el   Estado:   las   actitudes   de  los  españoles  hacia  las
@@ -127,7 +131,7 @@ mercado y sociedad de la información . Madrid, Tecnos
 RAMIÓ, C. (2019). Inteligencia artificial y Administración Pública: robots y humanos compartiendo el
 servicio público . Madrid, Ediciones La Catarata
 
-RAMIÓ, C. (2021). Repensando la Administración Pública: Administración digital e Innovación Pública.
+RAMIÓ, C. (2021), Repensando la Administración Pública: Administración digital e Innovación Pública.
 Madrid, INAP
 
 RENIÚ,   J.M.   (editor)   (2014).   Los  gobiernos  de  coalición  en  las  Comunidades  Autónomas  españolas  .
@@ -159,10 +163,13 @@ Madrid: Instituto Nacional de Administración Pública
 VIDAL   PRADO,   C.   y   DELGADO,   D.  (eds.)  (2017).  Crisis  económica  y  reforma  de  las  Administraciones
 Públicas. Un estudio comparado . Madrid, INAP
 
+VILLORIA   MENDIETA,  M.  y  IZQUIERDO  SÁNCHEZ,  A.  (2016).  Ética  pública  y  buen  gobierno.  Regenerando  la
+democracia y luchando contra la corrupción desde el servicio público . Madrid: Editorial Tecnos
+
 VILLORIA,   M.  y  DEL  PINO,  E.  (2009).  Dirección  y  Gestión  de  Recursos  Humanos  en  las  Administraciones
 Públicas . Madrid, Tecnos
 
-VV.   AA.   (1997).   La   Administración   del   Estado   en  las  Comunidades  Autónomas  (Jornadas  de  debate
+VV.   AA.   (1997),   La   Administración   del   Estado   en  las  Comunidades  Autónomas  (Jornadas  de  debate
 organizadas por el Institut d’ Estudis Autonòmics en Barcelona los días 24 y 25 de octubre de 1996).
 Barcelona, Institut d’ Estudis Autonòmics
 
@@ -176,24 +183,13 @@ VV.AA. (2014). Panorama de las Administraciones Públicas 2013 . Madrid, INAP-OC
 VV.AA.   (2022).   El  teletrabajo  en  las  Administraciones  Públicas.  Presente  y  claves  para  el  futuro  .
 Madrid, INAP
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-ARENILLA,   M.   y   CANALES  ALIENDE,  J.  M.  (eds.)  (1999),  Gobierno  y  Pacto  Local.  Madrid,  ARENILLA,  M.
-(2003),   La   reforma   administrativa   desde   el   ciudadano.   Madrid,   INAP   →  ARENILLA,  M.  y  CANALES
-ALIENDE, J. M. (eds.) (1999). Gobierno y Pacto Local . Madrid, MAP
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 ALDEGUER,    B.    y   PASTOR,   G.   (dirs.)   (2021).   Democracia,   Gobierno   y   Administración   Pública
 Contemporánea . Madrid, Tecnos
-
-ARENILLA, M. (2003). La reforma administrativa desde el ciudadano . Madrid, INAP
 
 BRUGUÉ, Q. (2022). Organizaciones que saben, organizaciones que aprenden. Madrid, INAP
 
 SÁNCHEZ MORÓN, M. (2018). Las Administraciones Españolas. Madrid, Tecnos
 
-VILLORIA   MENDIETA,  M.  y  IZQUIERDO  SÁNCHEZ,  A.  (2016).  Ética  pública  y  buen  gobierno.  Regenerando  la
-democracia y luchando contra la corrupción desde el servicio público . Madrid: Editorial Tecnos
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

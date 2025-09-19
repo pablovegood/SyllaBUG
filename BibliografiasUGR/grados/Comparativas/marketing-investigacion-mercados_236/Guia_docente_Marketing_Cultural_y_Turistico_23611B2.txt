@@ -2,12 +2,20 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
+ERRA,   A.   (2011).   Marketing   Turístico.   2ª   Ed.   Esic,   Madrid  REY,  M.  (coord.)  (2020):  Marketing
+turístico. Fundamentos y dirección. 2 ª Ed. Pirámide
+
+INSTITUTO NACIONAL DE ESTADÍSTICA (2024). Encuesta de ocupación e índice de precios
+
 KOTLER,   P,   BOWEN,   J.C.,   GARCÍA   DE   MADARIAGA,  J.  FLORES,  J.  (2011).  Marketing  turístico.  5ª  Ed.
 Pearson, Madrid
 
-📚 Recursos sin cambios:
+MINISTERIO DE INDUSTRIA, ENERGÍA Y TURISMO (2019). Directrices Generales de la Estrategia de Turismo
+Sostenible de España 2030 OJEDA, C.D. (2016). Marketing turístico, 2ª edición. Paraninfo, Madrid
+
+📚 Recursos sin cambios (13):
 ------------------------------
 CAMARERO, C. y GARRIDO, M.J. (2004). Marketing del Patrimonio Cultural. Esic, Madrid
 
@@ -37,26 +45,19 @@ MINISTERIO DE INDUSTRIA, ENERGÍA Y TURISMO (2007). Plan Del Turismo Español Ho
 
 REINA, M. (2009). La práctica de marketing en el sector turístico. Sanz y Torres, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MINISTERIO DE INDUSTRIA, ENERGÍA Y TURISMO (2019). Directrices Generales de la Estrategia de Turismo
-Sostenible   de   España  2030  OJEDA,  C.D.  (2016).  Marketing  turístico,  2ª  edición.  Paraninfo,  Madrid  →
-MINISTERIO DE INDUSTRIA, ENERGÍA Y TURISMO (2019). Directrices Generales de la Estrategia de Turismo
-Sostenible de España 2030
-
-ERRA,   A.   (2011).   Marketing   Turístico.   2ª   Ed.   Esic,   Madrid  REY,  M.  (coord.)  (2020):  Marketing
-turístico.   Fundamentos   y   dirección.   2   ª   Ed.   Pirámide   →   REY,   M.   (coord.)  (2020):  Marketing
-turístico. Fundamentos y dirección. 2 ª Ed. Pirámide
-
-INSTITUTO   NACIONAL   DE   ESTADÍSTICA   (2024).   Encuesta  de  ocupación  e  índice  de  precios  →  INSTITUTO
-NACIONAL DE ESTADÍSTICA (2025). Encuesta de ocupación e índice de precios
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 ERRA, A. (2011). Marketing Turístico. 2ª Ed. Esic, Madrid
 
+INSTITUTO NACIONAL DE ESTADÍSTICA (2025). Encuesta de ocupación e índice de precios
+
 KOTLER, P, BOWEN, J.C., MAKENS, J. (2015). Marketing turístico. 6ª Ed. Pearson, Madrid
+
+MINISTERIO DE INDUSTRIA, ENERGÍA Y TURISMO (2019). Directrices Generales de la Estrategia de Turismo
+Sostenible de España 2030
 
 OJEDA, C.D. (2020). Marketing turístico, 3ª edición. Paraninfo, Madrid
 
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+REY, M. (coord.) (2020): Marketing turístico. Fundamentos y dirección. 2 ª Ed. Pirámide
+
+📊 Porcentaje estimado de cambio: 52% [█████░░░░░]

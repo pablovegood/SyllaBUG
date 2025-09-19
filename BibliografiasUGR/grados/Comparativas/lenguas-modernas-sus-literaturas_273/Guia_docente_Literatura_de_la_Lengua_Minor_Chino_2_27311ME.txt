@@ -2,23 +2,30 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+Bibliografía   sobre   obras  literarias  traducidas  al  español:  PERIODO  TARDÍO  DINASTÍA  QING  Narrativa:
+Liu E (2004): Los viajes del buen doctor Can. Madrid: Cátedra
 
-📚 Recursos sin cambios:
+PERIODO 1918-1949 Narrativa: Ba Jin (2019): Noches frías. Barcelona: Lamolapress
+
+PERIODO   1949-1976   Narrativa:   Yang   Mo   (1978):   The   song   of   youth.  Beijing:  Edición  en  Lenguas
+Extranjeras
+
+PERIODO    1978-ACTUALIDAD   Narrativa:   Bi   Feiyu   (2015):   La   Ópera   de   la   Luna.   Beijing:   China
+Intercontinental Press
+
+Zhang   Ailing   (2017):  Un  amor  que  destruye  ciudades.  Barcelona:  Libros  del  Asteroide  Poesía  /  prosa
+poética: Dai Wangshu (2006): Mis recuerdos. Barcelona: La Poesía, señor hidalgo
+
+📚 Recursos sin cambios (95):
 ------------------------------
 Ba Jin (1982): Noche helada. Beijing: Ediciones en Lenguas Extranjeras
 
 Ba Jin (2014): Familia. Barcelona: Libros del Asteroide
 
-Ba Jin (2019): Noches frías. Barcelona: Lamolapress
-
-Bei Dao (2001): Paisaje sobre cero. Madrid: Editorial Visor
-
-Bi Feiyu (2015): La Ópera de la Luna. Beijing: China Intercontinental Press
-
-Cao Yu (1984): La tempestad. Beijing: Edición en Lenguas Extranjeras
+Bibliografía de estudios sobre literatura china moderna y contemporánea: Martín Ríos, Javier (2013):
+Estudios de literatura china moderna. Granada: Editorial Comares
 
 Chi Li (2007): Triste vida. Barcelona: Editorial Belacqua
 
@@ -26,9 +33,11 @@ Chi Zijian (2014): A la orilla derecha del río Argún. Beijing: China Intercont
 
 Chun Sue (2003): La muñeca de Pekín. Barcelona: El Aleph Editores
 
-Dai Wangshu (2016): Prosas selectas de Dai Wangshu. Granada: Editorial Comares
-
 Ding Ling (2014): El diario de la señorita Sofía. En el hospital. Barcelona: Editorial Bellaterra
+
+Ensayo: Dai Wangshu (2016): Prosas selectas de Dai Wangshu. Granada: Editorial Comares
+
+Ensayo: Gao Xingjian (2007: Contra los ismos. Barcelona: El Cobre Ediciones
 
 Feng Zhi (2022): Sonetos. Madrid: Hiperión
 
@@ -39,10 +48,6 @@ Gao Xingjian (2002): El libro de un hombre solo. Barcelona: Ediciones del Bronce
 Gao Xingjian (2002): Una caña de pescar para el abuelo. Barcelona: Ediciones del Bronce
 
 Gao Xingjian (2003): En torno a la literatura. Barcelona: El Cobre Ediciones
-
-Gao Xingjian (2007: Contra los ismos. Barcelona: El Cobre Ediciones
-
-Gao Xingjian (2008): Teatro y pensamiento. Barcelona: El Cobre Ediciones
 
 Gu Cheng (2014): Poemas oscuros. Beijing: China Intercontinental Press
 
@@ -60,8 +65,6 @@ Jin Yong (2021): El nacimiento de un héroe. Barcelona: Salamandra
 
 Lao She (2005): Historia de mi vida. Madrid: Editorial Amaranto
 
-Lao She (2009): La casa de té. Granada: Editorial Comares
-
 Lao She (2011): El camello Xiangzi. La Coruña: Ediciones del Viento
 
 Lao She (2021): Luna Creciente. Barcelona: Lamolapress
@@ -73,8 +76,6 @@ Liu Cixin (2016): El problema de los tres cuerpos. Barcelona: Ediciones B
 Liu Cixin (2017): El bosque oscuro. Barcelona: Nova
 
 Liu Cixin (2018): El fin de la muerte. Barcelona: Nova
-
-Liu E (2004): Los viajes del buen doctor Can. Madrid: Cátedra
 
 Liu Xiaobo (2011): No tengo enemigos, no conozco el odio. Barcelona: RBA
 
@@ -99,8 +100,6 @@ Extranjeras
 
 Mao Dun (1982): Medianoche. Beijing: Ediciones en Lenguas Extranjeras
 
-Martín Ríos, Javier (2013): Estudios de literatura china moderna. Granada: Editorial Comares
-
 Mian Mian (2010): Caramelos. Madrid: La factoría de las ideas
 
 Mo Yan (2002): Sorgo rojo. Barcelona: El Aleph Editores
@@ -115,7 +114,7 @@ Mo Yan (2011): Rana. Madrid: Editorial Kailás
 
 Mo Yan (2016): El clan del sorgo rojo. Madrid: Editorial Kailás
 
-PERIODO 1949-1976
+Poesía: Bei Dao (2001): Paisaje sobre cero. Madrid: Editorial Visor
 
 Prado Fonts, Carles (2019). Regresar a China. Madrid: Trotta
 
@@ -139,6 +138,12 @@ Su Tong (2018): Otra vida para las mujeres / Las tres lámparas. Madrid: Editori
 
 Tang   Tao   ed.   (1989):   Historia   de   la   literatura   china   moderna.  Beijing:  Ediciones  en  Lenguas
 Extranjeras
+
+Teatro: Cao Yu (1984): La tempestad. Beijing: Edición en Lenguas Extranjeras
+
+Teatro: Gao Xingjian (2008): Teatro y pensamiento. Barcelona: El Cobre Ediciones
+
+Teatro: Lao She (2009): La casa de té. Granada: Editorial Comares
 
 VV. AA (2013): El cielo a mis pies. Antología de poesía china moderna (1918-1949). Madrid: Editorial
 Hiperión
@@ -177,6 +182,8 @@ Wen Yiduo (2006): Aguas muertas. Vitoria, Bassarai Ediciones
 
 Xi Chuan (2017): Murciélagos al atardecer. Buenos Aires: Bajo La Luna
 
+Xi Chuan (2020): Entierro mi cola. Antología poética. Madrid: Huerga & Fierro
+
 Xiao Hong (2018): Campos de vida y muerte, y otros relatos. Barcelona: Bellaterra
 
 Xue Xinran (2003): Nacer mujer en China. Barcelona: Círculo de Lectores
@@ -184,8 +191,6 @@ Xue Xinran (2003): Nacer mujer en China. Barcelona: Círculo de Lectores
 Yan Lianke (2013): El sueño de la aldea Ding. Madrid: Automática Editorial
 
 Yan Lianke (2016): Los besos de Lenin. Madrid: Automática Editorial
-
-Yang Mo (1978): The song of youth. Beijing: Edición en Lenguas Extranjeras
 
 Yao Dan (2013): Literatura china. Madrid: Editorial Popular. Págs. 181-264
 
@@ -213,19 +218,11 @@ Zhang Xianliang (1992): La mitad del hombre es la mujer. Madrid: Editorial Sirue
 
 Zhao Shuli (1979): Cambios en la aldea de Li. Beijing: Edición en Lenguas Extranjeras
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (20):
 ------------------------------
-PERIODO 1918-1949 Narrativa  →  PERIODO 1949-1976
+Ba Jin (2019): Noches frías. Barcelona: Lamolapress
 
-Zhang   Ailing   (2017):   Un   amor   que  destruye  ciudades.  Barcelona:  Libros  del  Asteroide  Dai  Wangshu
-(2006):   Mis   recuerdos.   Barcelona:   La   Poesía,  señor  hidalgo  →  Dai  Wangshu  (2006):  Mis  recuerdos.
-Barcelona: La Poesía, señor hidalgo
-
-PERIODO 1978-ACTUALIDAD Narrativa  →  PERIODO 1949-1976
-
-✅ Recursos añadidos:
-------------------------------
-Bibliografía de estudios sobre literatura china moderna y contemporánea
+Bi Feiyu (2015): La Ópera de la Luna. Beijing: China Intercontinental Press
 
 Bibliografía sobre obras literarias traducidas al español
 
@@ -235,14 +232,22 @@ Can Xue (2022): Nubes flotantes ya envejecidas. Madrid: Hermida Editores
 
 Can Xue (2025): La calle de los cinco aromas. Madrid: Hermida Editores
 
+Dai Wangshu (2006): Mis recuerdos. Barcelona: La Poesía, señor hidalgo
+
 Hai Zi (2024): Delante del mar brota la primavera. Arica: Cinosargo Ediciones
 
 Li Jieren (2023): Ondas en el agua estancada (Volumen II). Barcelona: Lamolapress
+
+Liu E (2004): Los viajes del buen doctor Can. Madrid: Cátedra
+
+Martín Ríos, Javier (2013): Estudios de literatura china moderna. Granada: Editorial Comares
 
 Moreno-Arrones   Delgado,  Juan  Carlos  (2024):  Aproximación  a  la  dramaturgia  china.  Granada:  Editorial
 Comares
 
 PERIODO 1918-1949
+
+PERIODO 1949-1976
 
 PERIODO 1978-ACTUALIDAD
 
@@ -250,10 +255,10 @@ PERIODO TARDÍO DINASTÍA QING
 
 Poesía / prosa poética
 
-Xi Chuan (2020): Entierro mi cola. Antología poética. Madrid: Huerga & Fierro
-
 Yang Lian (2024): Círculos concéntricos. Madrid: Visor
+
+Yang Mo (1978): The song of youth. Beijing: Edición en Lenguas Extranjeras
 
 Zhang Ailing (2017): Un amor que destruye ciudades. Barcelona: Libros del Asteroide
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

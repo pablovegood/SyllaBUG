@@ -2,17 +2,20 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-VUYK-BOSDRIESZ,   J.B.   (e.a.)   Van   Dale   Pocketwoordenboek   Nederlands-Spaans  &  Spaans-  Nederlands.
+VUYK-BOSDRIESZ,   J.B.   (e.a.)   Van   Dale   Pocketwoordenboek   Nederlands-Spaans   &   SpaansNederlands.
 Utrecht/Antwerpen: Van Dale, 2003. (2 vols.)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 ANÓNIMO. 99 Nederlandse uitspraakoefeningen. Wommelgem: Van In, 2009
 
 DEEN,   JEANINE   y   CHRIS   VAN   VEEN,.   Taalriedels:   oefeningen  met  routineformuleringen/  Een  cursus
 spreekvaardigheid Nederlands als tweede taal. Groningen: Wolters-Noordhoff, 1994. (+ CD)
+
+DICCIONARIOS:   Diccionario   electrónico:  http://www.mijnwoordenboek.nl  SATTLER,  JOHANNA.  Diccionario
+POCKET Neerlandés: Nederlands-Spaans / EspañolNeerlandés. Ed. Herder
 
 GOOSENS, M. y A. WOUTERS. Instroom 1 - Nederlands voor jonge anderstaligen. Berchem: de boeck, 2013
 
@@ -25,33 +28,30 @@ Stichting Ons Erfdeel vzw., 1990
 LEYSEN,   JAN  y  ANN  DE  SCHRIJVER  (e.  a.)  Riedel  en  ritme:  Vlaamse  Taalriedels  (Cursistenboek).  Leuven
 / Voorburg: Acco, 2005 (+ CD)
 
+Más bibliografía (comentada) en: http://neerlandesparatodos.com/bibliografia-selecta-del-neerlandes-
+comentada/
+
+SCHOLTENS, N. y J. ROOS. Aprenda holandés de camino. (2 cds). Amsterdam/ Antwerpen: Intertaal, 2007
+
+SPAANS,   YOLANDA   y   MIREIA   BARTOLOMÉ-SANZ.   Gramática   Práctica   de  Neerlandés.  Pdf  descargable  de
+Internet:   http://es.slideshare.net/kellyshoney/dutch-grammarversion-11-es-30262606   VANDEPUTTE,  O.,
+J.A.S.   TROMP  y  J.I.  CADIÑANOS.  El  Neerlandés:  la  lengua  de  20  millones  de  Neerlandeses  y  Flamencos,
+Rekkem: Stichting Ons Erfdeel vzw., 1994
+
 VAN   HELSDINGEN,   PATRICIA   y   EMILIE   LENS-FASTING.   Curso   de   Neerlandés   para  Hispanohablantes  .
 Oegstgeest: Unitxt, 2012
 
 VAN KAMPEN, HINKE y RUUD STUMPEL. Neerlandés para autoestudio. Houten: Het Spectrum, 2011 (+ 2 cds)
 
-VANDEPUTTE,   O.,   J.A.S.   TROMP   y   J.I.   CADIÑANOS.   El   Neerlandés:   la   lengua   de  20  millones  de
-Neerlandeses y Flamencos, Rekkem: Stichting Ons Erfdeel vzw., 1994
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-DICCIONARIOS
-
 Diccionario electrónico: http://www.mijnwoordenboek.nl
 
-Más bibliografía (comentada) en
-
-SCHOLTENS, N. y J. ROOS. Aprenda holandés de camino. (2 cds). Amsterdam/ Antwerpen: Intertaal, 2007
-
-SPAANS,   YOLANDA   y   MIREIA   BARTOLOMÉ-SANZ.   Gramática   Práctica   de  Neerlandés.  Pdf  descargable  de
-Internet: http://es.slideshare.net/kellyshoney/dutch-grammar-version-11-es-30262606
+VANDEPUTTE,   O.,   J.A.S.   TROMP   y   J.I.   CADIÑANOS.   El   Neerlandés:   la   lengua   de  20  millones  de
+Neerlandeses y Flamencos, Rekkem: Stichting Ons Erfdeel vzw., 1994
 
 http://neerlandesparatodos.com/bibliografia-selecta-del-neerlandes-comentada/
 
 https://context.reverso.net/traduccion/espanol-neerlandes/
 
-📊 Porcentaje estimado de cambio: 80% [████████░░]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

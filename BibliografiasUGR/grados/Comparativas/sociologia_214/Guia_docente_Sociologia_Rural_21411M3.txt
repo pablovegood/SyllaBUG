@@ -2,12 +2,11 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-45.Entrena Durán, Francisco (1998), Cambios en la construcción social de lo rural. De la autarquía a
-la globalización, Ed. Tecnos, Madrid
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (125):
 ------------------------------
 (*) Apter, David E. (1970), Estudio sobre la modernización, Amorrortu, Buenos Aires
 
@@ -28,10 +27,6 @@ Península, Barcelona
 (*)Tezanos, José Félix (1984), "Estratificación social: jerarquización y desigualdad" y "Principales
 teorías   sobre   la   estratificación   social",   en   Tratado  de  Sociología,  editado  por  Salustiano  del
 Campo, Taurus, Madrid
-
-125.Wolf,   Eric   R.   (1979),   Las   luchas  campesinas  del  siglo  XX,  Siglo  XXI  editores,  México.  (*)Se
-trata   de   una   obra   recomendada,  no  por  su  relación  directa  con  el  tema,  sino  porque  su  aportación
-teórica se considera pertinente como herramienta sociológica de análisis en la Sociología rural
 
 Agricultura   y   Sociedad   (1978),   nº   7,   abril-junio,  Mº  de  Agricultura,  Madrid.  Monográfico  sobre
 reforma agraria
@@ -117,6 +112,9 @@ Agricultura y Sociedad, nº 52
 Durán, Mª Ángeles (1988) "Mujeres y hombres en el campo español", BOLETÍN DE INFORMACIÓN AGRARIA, Nº
 107,   monográfico   dedicado   a   "La  mujer  y  la  agricultura",  Edita  Servicio  de  Estudios  del  Banco  de
 Bilbao, Bilbao
+
+Duvignaud,   Jean   (1974),   "Rural   (Sociología)"   en   La   Sociología.  Guía  Alfabética,  Ed.  Anagrama,
+Barcelona
 
 Díaz   del   Moral,   J.   (1973),   Historia  de  las  agitaciones  campesinas  andaluzas,  Madrid,  Revista  de
 Derecho Privado, 1929 (Reeditado en Ed. Alianza)
@@ -290,6 +288,9 @@ Pérez Yruela, M. (1985), "La reforma agraria en España" Cuadernos de Historia 
 
 Pérez Yruela, Manuel; y Giner, Salvador (1988), El corporatismo en España, Ariel, Barcelona
 
+Pérez-Díaz,   V.  (1994)  "Aguante  y  elasticidad.  Observaciones  sobre  la  capacidad  de  adaptación  de  los
+campesinos castellanos de este final de siglo", Papeles de Economía Española, Nº 60-61, Madrid
+
 Ramos   Real,   Eduardo;   y  Caldentey  del  Pozo,  Pedro  (1993)  El  desarrollo  rural  andaluz  a  las  puertas
 del siglo XXI, Edita. Consejería de Agricultura y Pesca de la Junta de Andalucía, Sevilla
 
@@ -339,7 +340,7 @@ Sumpsi,   J.   M.;   y   Pérez   Yruela,   M.   (1988),   "La   reforma  agrari
 Constitucionales, Madrid
 
 Sumpsi,    José    Mª    (1985),    "Estructuras   agrarias   y   políticas   de   reforma",   en   Pensamiento
-Iberoamericano, nº 8 (juliodiciembre), I.C.I
+Iberoamericano, nº 8 (juliodiciembre), I.C.I
 
 Sánchez Jiménez, José (1985), Del campo a la ciudad, Salvat, Barcelona
 
@@ -353,21 +354,15 @@ Pirámide, Madrid
 
 Wolf, Eric R. (1971), Los campesinos, Labor, Barcelona
 
+Wolf, Eric R. (1979), Las luchas campesinas del siglo XX, Siglo XXI editores, México. (*)Se trata de
+una   obra   recomendada,  no  por  su  relación  directa  con  el  tema,  sino  porque  su  aportación  teórica  se
+considera pertinente como herramienta sociológica de análisis en la Sociología rural
+
 Álvarez Junco, José (1976), La ideología política del anarquismo español (1868-1910), Siglo XXI ed.,
 Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Duvignaud,   Jean   (1974),   "Rural   (Sociología)"   en   La   Sociología.  Guía  Alfabética,  Ed.  Anagrama,
-Barcelona
-
-Pérez-Díaz,   V.  (1994)  "Aguante  y  elasticidad.  Observaciones  sobre  la  capacidad  de  adaptación  de  los
-campesinos castellanos de este final de siglo", Papeles de Economía Española, Nº 60-61, Madrid
-
 Wolf, Eric R. (1979), Las luchas campesinas del siglo XX, Siglo XXI editores, México
 
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

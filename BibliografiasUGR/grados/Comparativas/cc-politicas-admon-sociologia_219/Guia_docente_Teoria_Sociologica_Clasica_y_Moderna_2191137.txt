@@ -2,11 +2,11 @@
 Grado: cc-politicas-admon-sociologia (219)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (44):
 ------------------------------
 Alexander, J. (1989), Las teorías sociológicas desde la segunda guerra mundial. Barcelona, Gedisa
 
@@ -28,6 +28,13 @@ Duncan Mitchell, G. (1973), Historia de la sociología. Barcelona, Guadarrama
 Durán, M.A. (ED.) (1996), Mujeres y hombres en la formación de la teoría sociológica. Madrid, C.I.S
 
 Entrena Duran, F. (2001), Modernidad y Cambio Social. Madrid, Trotta
+
+Entrena   Durán,   F.  (1998),  "La  modernización:  del  etnocentrismo  occidentalista  a  la  globalización",
+Revista de Fomento Social, Volumen 53, Nº 210, pp. 177-202, ETEA, Córdoba
+
+Entrena   Durán,   F.   (2007),   “De  la  modernización  occidentalista  al  torbellino  de  la  globalidad.  La
+globalización   cómo   contexto   y  objeto  de  la  Sociología  en  la  modernidad  avanzada”.  En  Lo  que  hacen
+los sociólogos. Homenaje a Carlos Moya Valgañon. Madrid, CIS
 
 Entrena   Durán,   F.  (2010),  "Dinámicas  de  los  territorios  locales  en  las  presentes  circunstancias  de
 la globalización", Estudios Sociológicos, Volumen 28, Número. 84 (sept.-dic.), pp. 691-728
@@ -90,10 +97,10 @@ estudios políticos y constitucionales
 
 Ritzer G. (2001), Teoría sociológica moderna. Madrid, McGraw-Hill/Interamericana de España
 
-Ritzer   G.   (cualquier   edición),  Teoría  sociológica  clásica.  Madrid,  McGraw-  Hill/Interamericana  de
+Ritzer   G.   (cualquier   edición),   Teoría  sociológica  clásica.  Madrid,  McGraw-Hill/Interamericana  de
 España
 
-Ritzer G. (cualquier edición), Teoría sociológica contemporánea. Madrid, McGraw- Hill/Interamericana
+Ritzer   G.  (cualquier  edición),  Teoría  sociológica  contemporánea.  Madrid,  McGraw-Hill/Interamericana
 de España
 
 Rodríguez Ibáñez, J.E. (1992), La perspectiva sociológica: historia, teoría y método. Madrid, Taurus
@@ -108,20 +115,8 @@ Therborn, G. (2022), "El mundo y la izquierda", New Left Review,137, pp.25-82
 
 Zeitlin I. (2004), Ideología y teoría sociológica. Ed Amorrortu
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Entrena   Durán,   F.   (2007),   “De  la  modernización  occidentalista  al  torbellino  de  la  globalidad.  La
-globalización   cómo   contexto   y  objeto  de  la  Sociología  en  la  modernidad  avanzada”.  En  Lo  que  hacen
-los    sociólogos.    Homenaje   a   Carlos   Moya   Valgañon.   Madrid,   Entrena   Durán,   F.   (1998),   "La
-modernización:   del   etnocentrismo   occidentalista   a   la  globalización",  Revista  de  Fomento  Social,
-Volumen   53,   Nº   210,   pp.   177-202,  ETEA,  Córdoba  →  Entrena  Durán,  F.  (2007),  “De  la  modernización
-occidentalista   al   torbellino   de   la   globalidad.   La   globalización   cómo  contexto  y  objeto  de  la
-Sociología   en   la   modernidad   avanzada”.   En   Lo   que  hacen  los  sociólogos.  Homenaje  a  Carlos  Moya
-Valgañon. Madrid, CIS
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Entrena   Durán,   F.  (1998),  "La  modernización:  del  etnocentrismo  occidentalista  a  la  globalización",
-Revista de Fomento Social, Volumen 53, Nº 210, pp. 177-202, ETEA, Córdoba
-
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

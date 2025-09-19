@@ -2,16 +2,20 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-12.Vélez, R. y García, A. (1993). Principios de Inferencia Estadística. UNED, Madrid
-
-2.Ivchenko,   G.I.,   Medvedev,  Y.I.,  Chistyakov,  A.V.  (1991)  Problems  in  Mathematical  Statistics.  Mir
+Ivchenko,   G.I.,   Medvedev,   Y.I.,   Chistyakov,  A.V.  (1991)  Problems  in  Mathematical  Statistics.  Mir
 Publishers, Moscú
 
-3.Lehmann, E.L., Casella, G. (1998). Theory of Point Estimation. Springer-Verlag,New York
+Lehmann, E.L., Casella, G. (1998). Theory of Point Estimation. Springer-Verlag,New York
 
-📚 Recursos sin cambios:
+Quesada, V., Isidoro, A., López, L.A. (1989). Curso y Ejercicios de Estadística. Alhambra, Madrid
+
+Vélez,   R.   y   García,   A.   (1993).  Principios  de  Inferencia  Estadística.  UNED,  Madrid.  BIBLIOGRAFÍA
+COMPLEMENTARIA   DE   PRÁCTICAS   DE  ORDENADOR:  Horgan,  J.M.  (2009).  Probability  with  R.  Wiley.  Ugarte,
+M.D., Militino, A.F., Arnholt, A.T. (2008). Probability and Statistics with R. CRC/Chapman and Hall
+
+📚 Recursos sin cambios (15):
 ------------------------------
 Canavos,   G.  (2003).  Probabilidad  y  Estadística:  Aplicaciones  y  Métodos.  McGraw-Hill  Interamericana,
 México
@@ -34,8 +38,6 @@ Universidad de Cádiz. Cádiz
 
 Garthwaite, P.H., Jolliffe, I.T., Jones, B. (2002). Statistical Inference. Oxford University Press
 
-Horgan, J.M. (2009). Probability with R. Wiley
-
 Lehmann, E.L., Romano, J.P. (2008). Testing Statistical Hypothesis. Springer-Verlag, New York
 
 Peña,   D.   (2000).   Estadística.   Modelos   y   Métodos.  Vol.  2:  Modelos  Lineales  y  Series  Temporales.
@@ -43,25 +45,23 @@ Alianza Editorial, Madrid
 
 Peña, D. (2001). Fundamentos de Estadística. Alianza Editorial S.A., Madrid
 
+Rohatgi,   V.K.,   Saleh,   A.K.   (2008).  An  Introduction  to  Probability  and  Statistics.  John  Wiley  and
+Sons, New York
+
 Ross, S. (2007). Introducción a la Estadística. Reverté S.A., Barcelona
 
 Shao, J. (2005). Mathematical Statistics: Exercices and Solutions. Springer-Verlag, New York
 
-Ugarte,   M.D.,   Militino,  A.F.,  Arnholt,  A.T.  (2008).  Probability  and  Statistics  with  R.  CRC/Chapman
-and Hall
-
 Verdoy, P.J., Mahiques, J.M., Porcu, E. (2008). Introducción a la Estadística y Probabilidad: Manual
 de Ejercicios Resueltos. Tilde, Valencia
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-9.Quesada,   V.,  Isidoro,  A.,  López,  L.A.  (1989).  Curso  y  Ejercicios  de  Estadística.  Alhambra,  Madrid
-10.Rohatgi,   V.K.,  Saleh,  A.K.  (2008).  An  Introduction  to  Probability  and  Statistics.  John  Wiley  and
-Sons,   New   York  →  Rohatgi,  V.K.,  Saleh,  A.K.  (2008).  An  Introduction  to  Probability  and  Statistics.
-John Wiley and Sons, New York
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 BIBLIOGRAFÍA COMPLEMENTARIA DE PRÁCTICAS DE ORDENADOR
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+Horgan, J.M. (2009). Probability with R. Wiley
+
+Ugarte,   M.D.,   Militino,  A.F.,  Arnholt,  A.T.  (2008).  Probability  and  Statistics  with  R.  CRC/Chapman
+and Hall
+
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

@@ -2,27 +2,25 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Manual   de   Diagnóstico   y   Terapeútico  Médica.  (8ª  edición).  Editores  D.  Suarez  Pita,  and  et.  Edita
-Hospital Universitario 12 de Octubre. 2018
-
-Tratado de Medicina de Urgencias. Pascual Piñera Salmerón, Manuel Moya Mir, Miguel Mariné Blanco. 2ª
-Edición. Editorial ERGON. 2021. ISBN: 978-84-16732-85
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (4):
 ------------------------------
 European Resuscitation Council Guidelines 2021: Executive summary
+
+Manual   de   Diagnóstico   y   Terapeútico  Médica.  (8ª  edición).  Editores  D.  Suarez  Pita,  and  et.  Edita
+Hospital Universitario 12 de Octubre. 2018
 
 Medicina   de   Urgencias   y   Emergencias.  Luis  Jiménez  Murillo,  FJ.  Montero  Pérez.  6º  Edición.  Edita:
 Elsevier. 2018
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Tratado de Medicina de Urgencias. Pascual Piñera Salmerón, Manuel Moya Mir, Miguel Mariné Blanco. 2ª
+Edición. Editorial ERGON. 2021. ISBN: 978-84-16732-85
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

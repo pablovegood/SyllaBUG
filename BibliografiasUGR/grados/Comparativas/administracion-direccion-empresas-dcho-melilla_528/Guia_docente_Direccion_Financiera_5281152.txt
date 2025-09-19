@@ -2,11 +2,13 @@
 Grado: administracion-direccion-empresas-dcho-melilla (528)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-McGraw-Hill, Madrid
+CONTRERAS,   DURBÁN,   PALACÍN,   RUÍZ.   (1995):  Casos  Prácticos  de  Finanzas  Corporativas.  McGraw-Hill,
+Madrid   DOMÍNGUEZ,   DURBÁN,  MARTÍN.  (1987):  El  Subsistema  de  Inversión  y  Financiación  en  la  Empresa,
+Pirámide, Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 BACHILLER, LAFUENTE, SALAS (1987): Gestión Económico-Financiera del Circulante. Ed. Pirámide
 
@@ -21,9 +23,6 @@ Hill, Madrid
 BREALEY, R., MYERS, S., MARCUS, A.J. y MATEOS, P. (2010): Finanzas Corporativas. McGraw-Hill, Madrid
 
 BREALEY-MYERS-MARCUS (1996): Principios de Dirección Financiera, McGraw-Hill, Madrid
-
-DOMÍNGUEZ,   DURBÁN,   MARTÍN.   (1987):   El   Subsistema   de   Inversión   y   Financiación  en  la  Empresa,
-Pirámide, Madrid
 
 DURBAN OLIVA, S. (2008): Dirección Financiera. McGraw-Hill, Madrid
 
@@ -42,13 +41,12 @@ MASCAREÑAS, J. (ed.) (2010): Finanzas para Directivos. Pearson, Madrid
 ROSS,   S.A.;  WESTERFIELD,  R.W.;  JAFFE,  J.F.  Y  JORDAN  B.D.  (2022):  Finanzas  Corporativas,  9ª  edición.
 McGraw-Hill, España
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 CONTRERAS,   DURBÁN,   PALACÍN,   RUÍZ.   (1995):  Casos  Prácticos  de  Finanzas  Corporativas.  McGraw-Hill,
 Madrid
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+DOMÍNGUEZ,   DURBÁN,   MARTÍN.   (1987):   El   Subsistema   de   Inversión   y   Financiación  en  la  Empresa,
+Pirámide, Madrid
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

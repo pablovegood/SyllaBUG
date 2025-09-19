@@ -2,11 +2,18 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+SAAED, Abdullah. Islamic Thought. An Introduction. Abingdon: Routledge, 2007 (reimp
 
-📚 Recursos sin cambios:
+WAINES,   David.   El  Islam.  Cambridge:  Cambridge  University  Press,  1998;  nueva  ed.  con  revisión  de  la
+traducción   y   edición   española   a   cargo   de  Maribel  Fierro;  traducción  de  Consuelo  Pérez-Benítez.
+Madrid:   Akal,   2008   WATT,   W.   Montgomery.   The   formative   period   of  islamic  thought.  Edimburgo:
+University Press, 1973
+
+de la 1ª ed. de 2006). Nota: incluye un glosario al final
+
+📚 Recursos sin cambios (42):
 ------------------------------
 ABUMALHAM,   Montserrat.   El   islam.  De  religión  de  los  árabes  a  religión  universal.  Madrid;  Granada:
 Editorial Trotta; Universidad de Granada, 2007
@@ -32,16 +39,24 @@ CRUZ   HERNÁNDEZ,   Miguel.   Historia  del  pensamiento  en  el  mundo  islám
 hasta   el   siglo   XII   en  Oriente.  Vol.  II:  El  pensamiento  de  al-Ándalus  (siglo  IX-XIV).  Vol  III:  El
 pensamiento islámico desde Ibn Jaldun hasta nuestros días. Madrid: Alianza Editorial,1996
 
+DUPRET, Baudouin. La sharía. Orígenes, desarrollo y usos contemporáneos. Barcelona: Bellaterra, 2015
+
 EL   CORÁN   /al-Qur'an   al-Karim.   Ed.   Bilingüe   árabe/español.  Trad.  y  ed.  Julio  Cortés.  Barcelona:
 Herder, 1999
 
 ESPOSITO,   John   L.   Islam,  pasado  y  presente  de  las  comunidades  musulmanas.  Barcelona-etc.:  Paidós,
 2006
 
+Encyclopaedia   of   Islam   /  Enciclopédie  de  l´Islam.  Leiden:  E.J.  Brill.  Encyclopedia  of  Renaissance
+Philosophy
+
 Encyclopaedia of the Qur`an. Leiden: Brill, 2001
 
 FAKHRY,   Majid.   A  History  of  Islamic  Philosophy.  London-New  York:  Longman-ColumbiaUniversity  Press,
 1983, 2ª ed
+
+FLÜGEL,   Gustav.   Concordantiae   Corani  Arabicae:  ad  literarum  ordinem  et  verborum  radices.  Lipsiae:
+Sumtibus et typis Caroli Tauchnitii, 1842
 
 GARCÍA   CRUZ,   José   Fernando.   Un   análisis  del  derecho  islámico.  La  escuela  duodecimana  o  YA`FARÎ.
 Historia   del   pensamiento   y   la   doctrina   jurídica  y  teoría  general  de  la  ley  islámica.  Cáceres  :
@@ -49,6 +64,8 @@ Universidad de Extremadura, 2004
 
 GOLDZIHER,   Ignac.   Le  dogme  et  la  loi  de  l'islam:  histoire  du  développement  dogmatique  et  juridique
 de la religion musulmane. París: Paul Geuthner, 1973
+
+GONZÁLEZ FERRÍN, Emilio. La palabra descendida: un acercamiento al Corán. Oviedo: Nobel, 2002
 
 GUARDI,   Jolanda  y  BEDENDO,  Renata.  Teólogas,  musulmanas,  feministas.  Ed.  y  trad.  Mª  Dolores  Ramírez
 Almazán. Narcea, 2012
@@ -58,6 +75,8 @@ GÓMEZ GARCÍA, Luz. Diccionario de islam e islamismo. Madrid: Espasa, 2009
 LAOUST,   Henri.   Les   schismes   dans   l'islam:   introduction   à   une  étude  de  la  religion  musulmane.
 París:Payot,1977
 
+LEAMAN, Oliver (ed.). Biographical encyclopaedia of Islamic philosophy. Londres: Continuum, 2006
+
 LEWIS, Bernard. El lenguaje político del islam. Madrid: Taurus, 2004, 2ª ed
 
 MARTOS QUESADA, Juan. Conocer el islam (argumentos para el siglo XXI). Digital Reasons, 2018
@@ -65,8 +84,16 @@ MARTOS QUESADA, Juan. Conocer el islam (argumentos para el siglo XXI). Digital R
 MEIJER,   Roel   &   BAKKER,   Edwin  (Ed.).  The  Muslim  Brotherhood  in  Europe.  Londres:  Hurst  Publishers,
 2012
 
+NETTON,   Ian   Richard   (ed.).  Encyclopedia  of  Islamic  civilisation  and  religion.  Londres:  Routledge,
+2008. Stanford Encyclopedia of Philosophy
+
 NEWMAN,   Andrew  J.  Twelver  Shiism.  Unity  and  diversity  in  the  life  of  Islam,  632  to  1722.  Edimburgo:
 EUP, 2013
+
+PAREJA, Félix Mª. Islamología. Madrid: Razón y Fe, 2 vols
+
+PLANHOL,   Xavier   de.   Minorías   en  el  islam.  Una  geografía  de  la  pluralidad.  Barcelona:  Bellaterra,
+2002
 
 RAMADAN,   Tariq.  El  reformismo  musulmán  desde  sus  orígenes  hasta  los  Hermanos  Musulmanes.  Barcelona:
 Bellaterra, 2000
@@ -81,11 +108,10 @@ Revista de Occidente, 1967
 ROSER   NEBOT,   Nicolás.   Religión  y  política:  la  concepción  islámica.  Madrid:  Fundación  Sapere  Aude,
 2002
 
-SAAED, Abdullah. Islamic Thought. An Introduction. Abingdon: Routledge, 2007 (reimp. de la 1ª ed. de
-2006). Nota: incluye un glosario al final
-
 TAMAYO,   Juan   José.   Islam,  cultura,  religión  y  política.  Madrid:  Trotta,  2009  [Recurso  electronico
 BUG]
+
+The Internet Encyclopedia of Philosophy . Eds. James Fieser y Bradley Dowden
 
 VAN   ESS,   Josef.   Theology  and  Society  in  the  Second  and  Third  Centuries  of  the  Hijra.  A  History  of
 Religious Thought in Early Islam. Leiden-Boston: Brill, 2016-2020, 5 vols. [Recurso electronico BUG]
@@ -99,42 +125,22 @@ VERNET, Juan. Mahoma. Madrid: Espasa Calpe, 2006
 WENSINCK,   A.J.,   y   otros.   Concordance   et   indices  de  la  tradition  musulmane.  Leiden:  E.J.  Brill,
 1936-1969, 7 vols
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-WAINES,   David.   El  Islam.  Cambridge:  Cambridge  University  Press,  1998;  nueva  ed.  con  revisión  de  la
-traducción   y   edición   española   a   cargo   de  Maribel  Fierro;  traducción  de  Consuelo  Pérez-Benítez.
-Madrid:   Akal,   2008   WATT,   W.   Montgomery.   The   formative   period   of  islamic  thought.  Edimburgo:
-University   Press,   1973   →   WAINES,   David.   El  Islam.  Cambridge:  Cambridge  University  Press,  1998;
-nueva   ed.  con  revisión  de  la  traducción  y  edición  española  a  cargo  de  Maribel  Fierro;  traducción  de
-Consuelo Pérez-Benítez. Madrid: Akal, 2008
-
-✅ Recursos añadidos:
-------------------------------
-DUPRET, Baudouin. La sharía. Orígenes, desarrollo y usos contemporáneos. Barcelona: Bellaterra, 2015
-
-Encyclopaedia of Islam / Enciclopédie de l´Islam. Leiden: E.J. Brill
-
 Encyclopedia of Renaissance Philosophy
 
-FLÜGEL,   Gustav.   Concordantiae   Corani  Arabicae:  ad  literarum  ordinem  et  verborum  radices.  Lipsiae:
-Sumtibus et typis Caroli Tauchnitii, 1842
+SAAED, Abdullah. Islamic Thought. An Introduction. Abingdon: Routledge, 2007 (reimp. de la 1ª ed. de
+2006). Nota: incluye un glosario al final
 
-GONZÁLEZ FERRÍN, Emilio. La palabra descendida: un acercamiento al Corán. Oviedo: Nobel, 2002
-
-LEAMAN, Oliver (ed.). Biographical encyclopaedia of Islamic philosophy. Londres: Continuum, 2006
-
-NETTON,   Ian   Richard   (ed.).  Encyclopedia  of  Islamic  civilisation  and  religion.  Londres:  Routledge,
-2008
-
-PAREJA, Félix Mª. Islamología. Madrid: Razón y Fe, 2 vols
-
-PLANHOL,   Xavier   de.   Minorías   en  el  islam.  Una  geografía  de  la  pluralidad.  Barcelona:  Bellaterra,
-2002
+SAAED, Abdullah. Islamic Thought. An Introduction. Abingdon: Routledge, 2007 (reimp. de la 1ª ed. de
+2006). Nota: incluye un glosario al final
 
 Stanford Encyclopedia of Philosophy
 
-The Internet Encyclopedia of Philosophy . Eds. James Fieser y Bradley Dowden
+WAINES,   David.   El  Islam.  Cambridge:  Cambridge  University  Press,  1998;  nueva  ed.  con  revisión  de  la
+traducción   y   edición   española   a   cargo   de  Maribel  Fierro;  traducción  de  Consuelo  Pérez-Benítez.
+Madrid: Akal, 2008
 
 WATT, W. Montgomery. The formative period of islamic thought. Edimburgo: University Press, 1973
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]

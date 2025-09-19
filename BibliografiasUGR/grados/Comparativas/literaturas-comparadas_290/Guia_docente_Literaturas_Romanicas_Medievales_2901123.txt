@@ -2,11 +2,11 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Cirlot, V., La novela artúrica, Barcelona, Montesinos, 1987
 
@@ -14,6 +14,8 @@ García   Gual,  C.,  Historia  del  rey  Arturo  y  de  los  nobles  y  errante
 Madrid, Alianza, 1983
 
 I. Literatura épica Riquer, M., Los cantares de gesta franceses, Madrid, Gredos, 2009
+
+Los alumnos recibirán bibliografía y DATA complementaria a lo largo del curso
 
 Los trovadores, Riquer, M., Los trovadores, Barcelona, Ariel, 2012
 
@@ -23,25 +25,19 @@ Madrid, Síntesis, 2003
 Recursos WEB www.Google.com www.Google academic.com Riquer, M. de y José María Valverde, Historia de
 la literatura universal, Madrid, Gredos, 2007, vol
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Alianza, 1983
 
-Aragón Fernández, Mª A., Literatura del Grial. Siglos XII y XIII, Madrid, Síntesis, 2003
-
-Los alumnos recibirán bibliografía y DATA complementaria a lo largo del curso
-
-Los cantares de gesta franceses, Madrid, Gredos, 2009
+Mitología y novela artúricas
 
 Recursos WEB
+
+Riquer, M
 
 Riquer, M. de y José María Valverde, Historia de la literatura universal, Madrid, Gredos, 2007, vol.
 I. Literatura épica
 
-www.Google academic.com
+www.Google.com
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 46% [████░░░░░░]

@@ -2,43 +2,22 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Antonio   Guevara   (Coord.),   Andrés   Aguayo,   Iván  Gómez,  José  Luis  Caro,  José  Luis  Leiva,  Miguel  J.
-Hornos,   Ramón   A.   Carrasco,   Mª   del   Rosario   Caballero,   Manuel  Fernández:  Sistemas  informáticos
-aplicados al turismo. Ediciones Pirámide (2009)
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Miguel   J.  Hornos  Barranco,  Tomás  Ruiz  López,  Mª  del  Mar  Abad  Grau:  Ejercicios  Javier  Gosende  Grela,
-Luis   Alberto   Martínez:   Internet  para  todos.  Anaya  Multimedia  (2013)  Óscar  Rodrigo  González  López:
-Manual   imprescindible   de   Internet   para   la   empresa   →   Óscar   Rodrigo   González   López:   Manual
-imprescindible de Internet para la empresa: Edición 2009. Anaya Multimedia (2009)
-
-Webmarketing - Definir, implementar y optimizar su estrategia digital. Ediciones ENI (2019) Fernando
-Maciá   Domene:   Marketing  online  2.0:  Cómo  atraer  y  fidelizar  clientes  en  Internet.  Anaya  Multimedia
-(2013)   Ronan   Chardonneau:   Google   Analytics:   Analice  el  tráfico  de  su  sitio  web  para  mejorar  sus
-Ronan   Chardonneau,  Maxime  Coutant,  Pierre  Soul:  Google  Analytics  -  Analice  el  tráfico  para  orientar
-sus   acciones   de  marketing  web  (3ª  edición).  Ediciones  ENI  (2017)  Fernando  Tellado:  WordPress  5.  La
-guía   completa.   Anaya   Multimedia   (2019)  Mª  Amor  Fernández  Menéndez:  WordPress:  Crea,  administra  y
-promociona   tu   blog.   RC  Libros  (2013)  →  Fernando  Maciá  Domene:  Marketing  online  2.0:  Cómo  atraer  y
-fidelizar clientes en Internet. Anaya Multimedia (2013)
-
-Sistemas   informáticos   aplicados   al   turismo.   Ediciones  Pirámide  (2009)  Christophe  Aubry:  Cree  su
-primer sitio web: Del diseño a la realización. Ediciones ENI (2012) Eduardo Liberos (Coord.), Rafael
-García   del   Poyo,   Juan   Gil   Rabadán,   Juan   Antonio  Merino,  Ignacio  Somato:  El  libro  del  comercio
-electrónico.   ESIC   (2010)   Marie   Prat:   SEO   -   Posicionamiento   de  su  sitio  web  en  Google  y  otros
-buscadores   (2ª  edición).  Ediciones  ENI  (2012)  Marie  Prat:  SEO:  cómo  posicionar  su  sitio  en  Google  -
-Mobile First, búsqueda por voz, posición 0... (5ª edición). Ediciones ENI (2020) José Manuel Giménez
-Guzmán,   M.   Teresa   López   Merayo,  Manuel  Moreno  Martín  →  Marie  Prat:  SEO:  cómo  posicionar  su  sitio
-en Google - Mobile First, búsqueda por voz, posición 0... (5ª edición). Ediciones ENI (2020)
-
-Aplicaciones   de   Internet.   Universidad   de  Alcalá,  Servicio  de  Publicaciones  (2012)  Patricia  Scott
-Peña:   Manual   imprescindible   de   Internet:   edición   2013.   Anaya   Multimedia  (2012)  Ryan  Bernard:
+Miguel   J.   Hornos   Barranco,   Tomás   Ruiz   López,   Mª  del  Mar  Abad  Grau:  Ejercicios  Prácticos  sobre
+Sistemas   de   Información   Basados   en   Internet.   Godel   (2018)   Javier  Gosende  Grela,  Luis  Alberto
+Martínez:   Internet   para   todos.   Anaya   Multimedia   (2013)   Óscar   Rodrigo   González  López:  Manual
+imprescindible   de   Internet   para  la  empresa:  Edición  2009.  Anaya  Multimedia  (2009)  Antonio  Guevara
+(Coord.),   Andrés   Aguayo,   Iván   Gómez,  José  Luis  Caro,  José  Luis  Leiva,  Miguel  J.  Hornos,  Ramón  A.
+Carrasco,   Mª   del   Rosario  Caballero,  Manuel  Fernández:  Sistemas  informáticos  aplicados  al  turismo.
+Ediciones   Pirámide   (2009)  Christophe  Aubry:  Cree  su  primer  sitio  web:  Del  diseño  a  la  realización.
+Ediciones   ENI   (2012)   Eduardo   Liberos   (Coord.),   Rafael   García  del  Poyo,  Juan  Gil  Rabadán,  Juan
+Antonio   Merino,   Ignacio   Somato:   El  libro  del  comercio  electrónico.  ESIC  (2010)  Marie  Prat:  SEO  -
+Posicionamiento   de   su   sitio   web   en  Google  y  otros  buscadores  (2ª  edición).  Ediciones  ENI  (2012)
+Marie   Prat:  SEO:  cómo  posicionar  su  sitio  en  Google  -  Mobile  First,  búsqueda  por  voz,  posición  0...
+(5ª edición). Ediciones ENI (2020) José Manuel Giménez Guzmán, M. Teresa López Merayo, Manuel Moreno
+Martín:   Aplicaciones   de  Internet.  Universidad  de  Alcalá,  Servicio  de  Publicaciones  (2012)  Patricia
+Scott   Peña:   Manual  imprescindible  de  Internet:  edición  2013.  Anaya  Multimedia  (2012)  Ryan  Bernard:
 Corporate   Intranet   (2nd   edition).   John   Wiley   &   Sons  (1997)  Álvaro  Gómez  Vieites,  Carlos  Otero
 Barros: Redes de ordenadores e Internet: servicios y aplicaciones. Ra-Ma (2011) Fréderic Alin, Denis
 Lafont,   Jean-François  Macary:  El  proyecto  intranet:  del  análisis  de  las  necesidades  de  la  empresa  a
@@ -51,19 +30,34 @@ empresarial   y   profesional.   Ra-Ma   (2011)   Dave   Kerpen:  Me  gusta.  Co
 sociales.   Anaya   Multimedia   (2012)   Marina   Rogard:   LinkedIn  -  Resalte  el  valor  de  su  perfil  para
 dinamizar   su   imagen,   su  comunicación  y  su  red.  Ediciones  ENI  (2021)  Matthew  MacDonald:  Creación  y
 diseño   web.   Anaya   Multimedia   (2012)   Mark   Bell:   Crea   y   diseña  tu  página  web,  ¡gratis!.  Anaya
-Multimedia   (2013)   Clint   Eccher:  Diseño  web  profesional.  Anaya  Multimedia  (2011)  Steve  Krug:  No  me
-hagas pensar: Una aproximación a la usabilidad en la Web (Segunda edición). Pearson Educación (2006)
-Jaime   Neilson:   Comercio   electrónico.   El   Cid  Editor  (2009)  José  Orlando  Morera  Cruz:  El  reto  del
-comercio   electrónico.   El   Cid  Editor  (2009)  Pau  Roig:  La  PYME  y  el  comercio  electrónico.  Infonomía
-(2009)   María  Pedrós  Piñón,  Gonzalo  Arrabal,  José  Panzano:  Manual  SEO.  Posicionamiento  web  en  Google
-para un marketing más eficaz. Bubok Publishing (2013) Sico de Andrés: Quiero que mi empresa salga en
-Google:   Secretismo   y   realidad   del  posicionamiento  en  buscadores  (3ª  edición).  Starbook  Editorial
-(2012)   Guillaume   Eouzan,  Charlotte  Michalon,  Kévin  Bridier,  Arnaud  Guissani,  Jérémie  Dupuis  →  Sico
-de   Andrés:   Quiero   que   mi   empresa   salga  en  Google:  Secretismo  y  realidad  del  posicionamiento  en
-buscadores (3ª edición). Starbook Editorial (2012)
+Multimedia (2013) Clint Eccher: Diseño web profesional. Anaya Multimedia (2011)
 
-✅ Recursos añadidos:
+Steve   Krug:   No   me   hagas   pensar:   Una   aproximación  a  la  usabilidad  en  la  Web  (Segunda  edición).
+Pearson   Educación   (2006)   Jaime   Neilson:   Comercio  electrónico.  El  Cid  Editor  (2009)  José  Orlando
+Morera   Cruz:  El  reto  del  comercio  electrónico.  El  Cid  Editor  (2009)  Pau  Roig:  La  PYME  y  el  comercio
+electrónico.   Infonomía   (2009)   María   Pedrós   Piñón,   Gonzalo   Arrabal,   José  Panzano:  Manual  SEO.
+Posicionamiento   web  en  Google  para  un  marketing  más  eficaz.  Bubok  Publishing  (2013)  Sico  de  Andrés:
+Quiero   que   mi  empresa  salga  en  Google:  Secretismo  y  realidad  del  posicionamiento  en  buscadores  (3ª
+edición).   Starbook   Editorial   (2012)   Guillaume   Eouzan,  Charlotte  Michalon,  Kévin  Bridier,  Arnaud
+Guissani,   Jérémie   Dupuis:   Webmarketing   -  Definir,  implementar  y  optimizar  su  estrategia  digital.
+Ediciones   ENI   (2019)  Fernando  Maciá  Domene:  Marketing  online  2.0:  Cómo  atraer  y  fidelizar  clientes
+en   Internet.   Anaya  Multimedia  (2013)  Ronan  Chardonneau:  Google  Analytics:  Analice  el  tráfico  de  su
+sitio   web   para   mejorar   sus   resultados.   Ediciones  ENI  (2012)  Ronan  Chardonneau,  Maxime  Coutant,
+Pierre   Soul:   Google  Analytics  -  Analice  el  tráfico  para  orientar  sus  acciones  de  marketing  web  (3ª
+edición).   Ediciones   ENI   (2017)   Fernando  Tellado:  WordPress  5.  La  guía  completa.  Anaya  Multimedia
+(2019)   Mª   Amor   Fernández   Menéndez:   WordPress:   Crea,  administra  y  promociona  tu  blog.  RC  Libros
+(2013)
+
+📚 Recursos sin cambios (0):
 ------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (34):
+------------------------------
+Antonio   Guevara   (Coord.),   Andrés   Aguayo,   Iván  Gómez,  José  Luis  Caro,  José  Luis  Leiva,  Miguel  J.
+Hornos,   Ramón   A.   Carrasco,   Mª   del   Rosario   Caballero,   Manuel  Fernández:  Sistemas  informáticos
+aplicados al turismo. Ediciones Pirámide (2009)
+
 Christophe Aubry: Cree su primer sitio web: Del diseño a la realización. Ediciones ENI (2012)
 
 Clint Eccher: Diseño web profesional. Anaya Multimedia (2011)
@@ -72,6 +66,9 @@ Dave Kerpen: Me gusta. Conseguir el éxito en las redes sociales. Anaya Multimed
 
 Eduardo   Liberos   (Coord.),   Rafael   García  del  Poyo,  Juan  Gil  Rabadán,  Juan  Antonio  Merino,  Ignacio
 Somato: El libro del comercio electrónico. ESIC (2010)
+
+Fernando   Maciá   Domene:   Marketing   online  2.0:  Cómo  atraer  y  fidelizar  clientes  en  Internet.  Anaya
+Multimedia (2013)
 
 Fernando Tellado: WordPress 5. La guía completa. Anaya Multimedia (2019)
 
@@ -95,6 +92,9 @@ John Wiley & Sons (1997)
 
 Marie   Prat:   SEO   -   Posicionamiento   de   su   sitio   web  en  Google  y  otros  buscadores  (2ª  edición).
 Ediciones ENI (2012)
+
+Marie   Prat:  SEO:  cómo  posicionar  su  sitio  en  Google  -  Mobile  First,  búsqueda  por  voz,  posición  0...
+(5ª edición). Ediciones ENI (2020)
 
 Marina   Rogard:  LinkedIn  -  Resalte  el  valor  de  su  perfil  para  dinamizar  su  imagen,  su  comunicación  y
 su red. Ediciones ENI (2021)
@@ -128,6 +128,9 @@ Ryan Bernard: Corporate Intranet (2nd edition). John Wiley & Sons (1997)
 
 Shel Holtz: Intranet como ventaja competitiva. Anaya Multimedia (1997)
 
+Sico   de  Andrés:  Quiero  que  mi  empresa  salga  en  Google:  Secretismo  y  realidad  del  posicionamiento  en
+buscadores (3ª edición). Starbook Editorial (2012)
+
 Steve   Krug:   No   me   hagas   pensar:   Una   aproximación  a  la  usabilidad  en  la  Web  (Segunda  edición).
 Pearson Educación (2006)
 
@@ -136,5 +139,8 @@ aplicaciones. Ra-Ma (2011)
 
 Álvaro   Gómez   Vieites,  Carlos  Otero  Barros:  Redes  sociales  en  la  empresa:  La  revolución  e  impacto  a
 nivel empresarial y profesional. Ra-Ma (2011)
+
+Óscar Rodrigo González López: Manual imprescindible de Internet para la empresa: Edición 2009. Anaya
+Multimedia (2009)
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

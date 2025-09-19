@@ -2,14 +2,17 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Domingo,   I.,  Burke,  H.  y  Smith,  C.:  Manual  de  campo  del  arqueólogo,  Ariel.  Barcelona,  Edgeworth,  M.
+(ed.):   Ethographies   of   archaeological   practice:   cultural   encounters,  material  transformations.
+Altamira Press. Lanham, 2006 Gamble, C.: Archaeology: the Basics, Routledge. Londres, 2001
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
-Carmichael,   D.   L.;   Lafferty   III,  R.  H.  y  Molyneaux,  B.  L.:  Excavation,  Archaeologist  ’s  Toolkit,
-vol. 3. Altamira Press. Walnut Creek, 2003
+Bradley,   R.:   «Seeing  Things.  Perception,  experience  and  the  constraints  of  excavation»,  Journal  of
+social   archaeology   3  (2):  151-168,  2003  Carmichael,  D.  L.;  Lafferty  III,  R.  H.  y  Molyneaux,  B.  L.:
+Excavation, Archaeologist ’s Toolkit, vol. 3. Altamira Press. Walnut Creek, 2003
 
 Carver,   G.   (ed.):   Digging   in   the  Dirt.  Excavation  in  a  new  millennium,  BAR  International  Series
 1256, Oxford, 2004
@@ -45,21 +48,16 @@ Editore. Roma, 2006
 Zubrow,   E.   B.   W.:  «Why  excavate?  Triaging  the  excavation  of  archaeological  sites»,  Archaeological
 Dialogues 18 (1): 46-48, 2011
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Domingo,   I.,  Burke,  H.  y  Smith,  C.:  Manual  de  campo  del  arqueólogo,  Ariel.  Barcelona,  Edgeworth,  M.
-(ed.):   Ethographies   of   archaeological   practice:   cultural   encounters,  material  transformations.
-Altamira   Press.   Lanham,   2006   Gamble,   C.:   Archaeology:   the   Basics,  Routledge.  Londres,  2001  →
-Domingo, I., Burke, H. y Smith, C.: Manual de campo del arqueólogo, Ariel. Barcelona, 2007
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Bradley,   R.:   «Seeing  Things.  Perception,  experience  and  the  constraints  of  excavation»,  Journal  of
 social archaeology 3 (2): 151-168, 2003
+
+Domingo, I., Burke, H. y Smith, C.: Manual de campo del arqueólogo, Ariel. Barcelona, 2007
 
 Edgeworth,   M.   (ed.):   Ethographies   of   archaeological   practice:   cultural   encounters,   material
 transformations. Altamira Press. Lanham, 2006
 
 Gamble, C.: Archaeology: the Basics, Routledge. Londres, 2001
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

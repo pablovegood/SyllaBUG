@@ -2,12 +2,18 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
 Mattelart,   A.   y   Mattelart,  M.  (1997).  Historia  de  las  teorías  de  la  comunicación.  Paidós  Ibérica,
 S.A McQuail, D. (2010). McQuail’s Mass Communication Theory (6th ed.). Sage
 
-📚 Recursos sin cambios:
+Oliver,   M.   B.,   Raney,   A.  A.,  &  Bryant,  J.  (2019).  Media  Effects:  Advances  in  Theory  and  Research
+(4th ed.). Routledge. https://www.routledge.com/Media-Effects-Advances-inTheory-and-Research/Oliver-
+Raney-Bryant/p/book/9781138590229   West,   R.,   &   Turner,   J.   H.   (2010).  Introducing  communication
+theory. Analysis and application (4th ed.). McGraw-Hill. [Existe edición en español fechada en 2005]
+Wolton, D. (2010). Informar no es comunicar. Gedisa
+
+📚 Recursos sin cambios (5):
 ------------------------------
 Griffin, Em, Ledbetter, Anderew, Sparks, Glenn, Cooper, K. R., & Hill, T. E. (2023). A First Look at
 Communication Theory (11.a ed.). McGraw Hill
@@ -23,17 +29,7 @@ Price, Vincent. 1994. La opinión pública . Ediciones Paidós
 Thompson,   John   B.   (1998).   Los   media   y  la  modernidad.  Una  teoría  de  los  medios  de  comunicación.
 Paidós Comunicación
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Oliver,   M.  B.,  Raney,  A.  A.,  &  Bryant,  J.  (2019).  Media  Effects:  Advances  in  Theory  and  Theory-and-
-Research/Oliver-Raney-Bryant/p/book/9781138590229   West,   R.,   &   Turner,   J.  H.  (2010).  Introducing
-communication   theory.   Analysis   and  application  (4th  ed.).  McGraw-Hill.  [Existe  edición  en  español
-fechada   en   2005]   Wolton,   D.   (2010).  Informar  no  es  comunicar.  Gedisa  →  Oliver,  M.  B.,  Raney,  A.
-A.,   &   Bryant,   J.   (2019).   Media   Effects:   Advances  in  Theory  and  Research  (4th  ed.).  Routledge.
-https://www.routledge.com/Media-Effects-Advances-in-Theory-and-Research/Oliver-Raney-
-Bryant/p/book/9781138590229
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (20):
 ------------------------------
 Bourdieu, Pierre. 1968. «La opinión pública no existe *»
 
@@ -78,6 +74,10 @@ McQuail, Dennis (2010). McQuail’s Mass Communication Theory (6th ed.). Sage
 Noelle-Neumann,   Elisabeth.   2010.   La   espiral   de   silencio.  Opinión  pública:  nuestra  piel  social.
 Versión limitada. Paidós Ibérica
 
+Oliver,   M.   B.,   Raney,   A.  A.,  &  Bryant,  J.  (2019).  Media  Effects:  Advances  in  Theory  and  Research
+(4th       ed.).       Routledge.       https://www.routledge.com/Media-Effects-Advances-in-Theory-and-
+Research/Oliver-Raney-Bryant/p/book/9781138590229
+
 Risquete   Sánchez,   Jaume.  2014.  Elisabeth  Noelle-Neumann:  la  vigencia  de  la  Espiral  del  Silencio  en
 la «sociedad red» . Editorial UOC
 
@@ -89,4 +89,4 @@ West,   Richard.,   &  Turner,  J.  H.  (2010).  Introducing  communication  the
 
 Wolton, Dominique (2010). Informar no es comunicar. Gedisa
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 88% [████████░░]

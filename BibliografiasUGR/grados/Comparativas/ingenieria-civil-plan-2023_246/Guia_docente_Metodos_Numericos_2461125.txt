@@ -2,11 +2,13 @@
 Grado: ingenieria-civil-plan-2023 (246)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
+Barcelona, Addison Wesley Iberoamericana, 1999
+
 Pérez, V. M. y Torres, P. Problemas de Ecuaciones Diferenciales. Granada, Ariel, 2001
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 Barrera, D., González, P. et al. Cálculo numérico con Mathematica. Granada, Ariel, 2001
 
@@ -37,13 +39,9 @@ Stoer, J. y Bulirsch, R. Introduction to numerical analysis. New York, Springer 
 
 Zill, D. G. Ecuaciones diferenciales con aplicaciones. Thomson Learning, 2002
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Barcelona,   Addison   Wesley   Iberoamericana,   1999   →   Nagle,   R.   K.   y   Saff,  E.  B.  Fundamentos  de
-ecuaciones diferenciales. Madrid, Addison-Wesley Iberoamericana, 1992
+Nagle,   R.   K.   y   Saff,   E.   B.   Fundamentos   de   ecuaciones   diferenciales.  Madrid,  Addison-Wesley
+Iberoamericana, 1992
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

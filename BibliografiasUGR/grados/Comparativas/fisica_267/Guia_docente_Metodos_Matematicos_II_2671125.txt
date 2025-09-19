@@ -2,11 +2,12 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+D.G.   Zill,   M.R.   Cullen,  Ecuaciones  diferenciales  con  problemas  de  valores  en  la  frontera,  Cengage
+Learning, 2009 M. Abramowitz, I. A. Stegun, Handbook of mathematical functions, Dover, 1975
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 C. Carlson,Special Functions of Applied Mathematics, Academic Press
 
@@ -42,15 +43,11 @@ W. A. Strauss, Partial differential equations, an introduction, New York, John W
 W.E.   Boyce,   R.C.   DiPrima,  Ecuaciones  diferenciales  y  problemas  con  valores  en  la  frontera.  Limusa
 Willey, 2010
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 D.G.   Zill,   M.R.   Cullen,  Ecuaciones  diferenciales  con  problemas  de  valores  en  la  frontera,  Cengage
-Learning,   2009   M.  Abramowitz,  I.  A.  Stegun,  Handbook  of  mathematical  functions,  Dover,  1975  →  D.G.
-Zill,   M.R.   Cullen,   Ecuaciones   diferenciales   con   problemas   de   valores  en  la  frontera,  Cengage
 Learning, 2009
 
-✅ Recursos añadidos:
-------------------------------
 M. Abramowitz, I. A. Stegun, Handbook of mathematical functions, Dover, 1975
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

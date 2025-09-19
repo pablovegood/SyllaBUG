@@ -2,11 +2,19 @@
 Grado: estudios-franceses (277)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Deniau,   X.   La   francophonie,   Paris,   PUF,   1983   AA.VV.,   Alphabet   des   lettres  belges  de  langue
+française, Bruxelles, Ass. Prom. Lettres Belges, 1982
 
-📚 Recursos sin cambios:
+Durand,   Ch.,   La   Langue   française,   atout   ou   obstacle   ?,  Toulouse,  PUM,  1999  Gérin-Lajoie,  D.,
+Processus   identitaires  des  jeunes  francophones  en  milieu  minoritaire,  Nouvel  Ontario  (Canada),  Eds.
+Prise de la parole, 2003
+
+Senghor,   L.-S.,   Liberté   I   :  Négritude  et  humanisme,  Paris,  Seuil,  1964  Confiant,  R.,  Éloge  de  la
+créolité, Paris, Gallimard, 1989
+
+📚 Recursos sin cambios (16):
 ------------------------------
 Barrucand, M. Histoire de la littérature canadienne, Paris, Ellipses Marketing, 2008
 
@@ -45,27 +53,19 @@ VV.AA., Exterritorialité : discours, L’Harmattan, 2010
 
 Veldwatcher, N. dir. Littérature francophone et mondialisation. Karthala. 2012
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Deniau,   X.   La   francophonie,   Paris,   PUF,   1983   AA.VV.,   Alphabet   des   lettres  belges  de  langue
-française,   Bruxelles,   Ass.   Prom.   Lettres   Belges,  1982  →  Deniau,  X.  La  francophonie,  Paris,  PUF,
-1983
-
-Durand,   Ch.,   La   Langue   française,   atout   ou   obstacle   ?,  Toulouse,  PUM,  1999  Gérin-Lajoie,  D.,
-Processus   identitaires  des  jeunes  francophones  en  milieu  minoritaire,  Nouvel  Ontario  (Canada),  Eds.
-Prise   de   la   parole,   2003   →   Gérin-Lajoie,  D.,  Processus  identitaires  des  jeunes  francophones  en
-milieu minoritaire, Nouvel Ontario (Canada), Eds. Prise de la parole, 2003
-
-Senghor,   L.-S.,   Liberté   I   :  Négritude  et  humanisme,  Paris,  Seuil,  1964  Confiant,  R.,  Éloge  de  la
-créolité,   Paris,   Gallimard,   1989   →   Senghor,   L.-S.,   Liberté  I  :  Négritude  et  humanisme,  Paris,
-Seuil, 1964
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 AA.VV., Alphabet des lettres belges de langue française, Bruxelles, Ass. Prom. Lettres Belges, 1982
 
 Confiant, R., Éloge de la créolité, Paris, Gallimard, 1989
 
+Deniau, X. La francophonie, Paris, PUF, 1983
+
 Durand, Ch., La Langue française, atout ou obstacle ?, Toulouse, PUM, 1999
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+Gérin-Lajoie,   D.,   Processus   identitaires   des   jeunes   francophones  en  milieu  minoritaire,  Nouvel
+Ontario (Canada), Eds. Prise de la parole, 2003
+
+Senghor, L.-S., Liberté I : Négritude et humanisme, Paris, Seuil, 1964
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

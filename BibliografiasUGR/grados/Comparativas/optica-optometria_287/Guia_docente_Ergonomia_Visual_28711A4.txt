@@ -2,32 +2,20 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Anshel   J.   Visual   ergonomics   in   the   workplace.   Boston.   CRC   Press.   1998  Karwowski,  W.  (Ed.).
+International Encyclopedia of Ergonomics and Human Factors, -3 Volume Set. Crc Press. 2006
 
-📚 Recursos sin cambios:
-------------------------------
-North RV. Trabajo y ojo. Barcelona. Masson. 1996
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (17):
 ------------------------------
 Anshel J. Visual ergonomics handbook. Boston. Taylor & Francis. 2005
-
-Anshel J. Visual ergonomics in the workplace. Boston. CRC Press. 1998
 
 Gowan, N. J. (2014). Setting visual pre-placement testing in a technology manufacturing environment.
 Work, 47(3), 371-379
 
 Karanikas,   Nektarios,   and   Sara   Pazell,   eds.   Ergonomic  Insights:  Successes  and  Failures  of  Work
 Design. CRC Press, 2022
-
-Karwowski,   W.  (Ed.).  International  Encyclopedia  of  Ergonomics  and  Human  Factors,  -3  Volume  Set.  Crc
-Press. 2006
 
 Kroemer   KH,   Grandjean   E.   Fitting   the   Task  to  the  Human:  A  Textbook  of  Occupational  Ergonomics.
 Boston. Taylor & Francis. 1997
@@ -44,6 +32,8 @@ España. 2000
 
 Long, J., Toomingas, A., Forsman, M., Glimne, S., Helland, M., Hemphälä, H., & Osterhaus, W. (2014).
 A definition of visual ergonomics. Applied ergonomics, 45(126), 3e1264
+
+North RV. Trabajo y ojo. Barcelona. Masson. 1996
 
 Omar,   R.,   Anan,   N.   S.,  Azri,  I.  A.,  Majumder,  C.,  &  Knight,  V.  F.  (2022).  Characteristics  of  eye
 injuries,   medical   cost   and  return-to-work  status  among  industrial  workers:  a  retrospective  study.
@@ -73,4 +63,11 @@ Wilson,   J.  R.  (2014).  Fundamentals  of  systems  of  ergonomics/human  fact
 van   Bommel,   W.   (2006,   September).   Dynamic   lighting  at  work–both  in  level  and  colour.  In2nd  CIE
 Expert Symposium on" Lighting and Health(pp. 62-67)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Anshel J. Visual ergonomics in the workplace. Boston. CRC Press. 1998
+
+Karwowski,   W.  (Ed.).  International  Encyclopedia  of  Ergonomics  and  Human  Factors,  -3  Volume  Set.  Crc
+Press. 2006
+
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

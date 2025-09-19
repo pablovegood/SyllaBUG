@@ -2,11 +2,20 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Mamadouh, V., y Wageningen, A. van (Eds.). (2016). Urban Europe : fifty tales of the city (1st ed.).
+Amsterdam   University   Press.   https://doi.org/10.1515/9789048535811   Sassen,   S.   (2001)   La  ciudad
+global. Buenos Aires: Eudeba
 
-📚 Recursos sin cambios:
+Martín   Ramos,   A.   (Comp).   (2004).   Lo  urbano  en  20  autores  contemporáneos.  Barcelona:  Universidad
+Politécnica   de   Cataluña   Mumford,   L.   (1979)   La   ciudad   en  la  historia.  Buenos  Aires:  Ediciones
+infinito
+
+Sassen, S. (2001). Elementos teóricos y metodológicos para el estudio de la ciudad global. La ciudad
+construida, 177
+
+📚 Recursos sin cambios (11):
 ------------------------------
 Conde,   F.  (1999).  Urbanismo  y  ciudad  en  la  aglomeración  de  Granada:  Culturas  e  identidades  urbanas.
 Sevilla: Consejería de Obras Públicas y Transportes
@@ -31,11 +40,6 @@ Hita Alonso, C. (1999). La ciudad, una aproximación sociológica. Granada: Edic
 
 Jacobs, J. (2011) Muerte y vida de las grandes ciudades. Capitán Swing: Salamanca
 
-Martín   Ramos,   A.   (Comp).   (2004).   Lo  urbano  en  20  autores  contemporáneos.  Barcelona:  Universidad
-Politécnica de Cataluña
-
-Mumford, L. (1979) La ciudad en la historia. Buenos Aires: Ediciones infinito
-
 Simmel,   G.   (1988)   La   metrópolis   y  la  vida  mental.  En  VV.AA.  Antología  de  Sociología  Urbana,  pp.
 47-61. UNAM: México D.F
 
@@ -44,15 +48,16 @@ Madrid: Centro de Investigaciones Sociológicas
 
 Urrutia, V. (2006). Para comprender qué es la ciudad. Navarra: Verbo Divino
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Mamadouh, V., y Wageningen, A. van (Eds.). (2016). Urban Europe : fifty tales of the city Sassen, S.
-(2001)   La   ciudad   global.  Buenos  Aires:  Eudeba  →  Sassen,  S.  (2001)  La  ciudad  global.  Buenos  Aires:
-Eudeba
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Mamadouh, V., y Wageningen, A. van (Eds.). (2016). Urban Europe : fifty tales of the city (1st ed.).
 Amsterdam University Press. https://doi.org/10.1515/9789048535811
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+Martín   Ramos,   A.   (Comp).   (2004).   Lo  urbano  en  20  autores  contemporáneos.  Barcelona:  Universidad
+Politécnica de Cataluña
+
+Mumford, L. (1979) La ciudad en la historia. Buenos Aires: Ediciones infinito
+
+Sassen, S. (2001) La ciudad global. Buenos Aires: Eudeba
+
+📊 Porcentaje estimado de cambio: 46% [████░░░░░░]

@@ -2,11 +2,11 @@
 Grado: educacion-infantil (258)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (44):
 ------------------------------
 Acosta,   V.M.   y   Moreno,   A.Mª  (1999).  Dificultades  de  lenguaje  en  ambientes  educativos.  Barcelona:
 Masson
@@ -17,15 +17,6 @@ Aguado, G. (1999). Trastorno específico del lenguaje. Retraso de lenguaje y dis
 
 Arias, C. y Estapé, M. (2005). Disfonía infantil. Diagnóstico y tratamiento. Barcelona: Ars Médica
 
-Gallego,   J.L.   (2021).   Dificultades   de   lenguaje   oral.   Atención   psicoeducativa   en   la  escuela
-infantil(3ª ed. revisada). Granada: Editorial Técnica Avicam
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Bosch, L. (2004). Evaluación fonológica del habla infantil. Barcelona: Masson
 
 Bruner, J. (1990). El habla del niño. Barcelona: Paidós
@@ -56,6 +47,9 @@ infantil. Granada: Editorial Técnica Avicam
 
 Gallego,   J.L.  (2019).Nuevo  Manual  de  Logopedia  Escolar.  Los  problemas  de  comunicación  y  lenguaje  en
 el niño. Málaga: Aljibe
+
+Gallego,   J.L.   (2021).   Dificultades   de   lenguaje   oral.   Atención   psicoeducativa   en   la  escuela
+infantil(3ª ed. revisada). Granada: Editorial Técnica Avicam
 
 Gallego, J.L. (dir.) (2006).Enciclopedia Temática de Logopedia(2 Vol.). Málaga: Aljibe
 
@@ -113,4 +107,8 @@ Vila, J.M. (2009). Guía de intervención logopédica en la disfonía infantil. 
 
 Zuccherini, R. (1992). Cómo educar la comunicación oral. Barcelona: Ceac
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

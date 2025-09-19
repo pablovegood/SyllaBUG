@@ -2,11 +2,19 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Porta, L.; López Acevedo M.; Roquero, C. (2003). Edafología para la agricultura y el medio ambiente.
+ed.   Mundi-Prensa   Singer   MJ  and  Munns  DN.  (2006).  Soils  an  introduction.  Pearson  Prentice  Hall.  6ª
+Ed. New Jersey
 
-📚 Recursos sin cambios:
+USDA. (1975). Soil taxonomy: A basic system of soil classification for making and
+
+interpreting   soil   surveys.   Washington:   U.S.   Soil   Conservation  Service  Agriculture  Handbook  No.
+436.Wild   Alan.   Soils   and   the   Environment.   Cambridge   University  Press.1994  White,  R.E..(1979).
+Introduction to the principles and practice of Soil Science. Blackell Sci. Pub. Oxford
+
+📚 Recursos sin cambios (12):
 ------------------------------
 Ashman   MR   and   Puri   G.   2001.   Essential   Soil   Science.  A  clear  and  concise  introduction  to  Soil
 Science. Blackwell Publishing. USA. 197 pp
@@ -25,7 +33,8 @@ Jersey. 960 pp
 Buol,   s.   W.;   Hole,   F.   D.;   McCracken,  R.  J.  (1981).  Génesis  y  clasificación  de  suelos.  Trillas.
 México
 
-Duchaufour PH.(1984). Edafología 1. Génesis y clasificación de suelos. Ed Masson
+Ed   Masson.   Barcelona   Duchaufour   PH.(1984).   Edafología   1.  Génesis  y  clasificación  de  suelos.  Ed
+Masson
 
 FAO. 1998. Guia para la descripción de perfiles de suelos
 
@@ -40,25 +49,18 @@ Essex, England
 Wild,   A.   1992.   Condiciones  del  suelo  y  desarrollo  de  las  plantas  según  Russell.  Ed.  Mundi-Prensa.
 1045 p
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-USDA.   (1975).  Soil  taxonomy:  A  basic  system  of  soil  classification  for  making  and  interpreting  soil
-surveys.   Washington:   U.S.   Soil  Conservation  Service  Agriculture  Handbook  No.  436.Wild  Alan.  Soils
-and   the   Environment.   Cambridge   University   Press.1994   White,   R.E..(1979).   Introduction  to  the
-principles   and   practice   of   Soil   Science.  Blackell  Sci  →  White,  R.E..(1979).  Introduction  to  the
-principles and practice of Soil Science. Blackell Sci. Pub. Oxford
-
 Porta, L.; López Acevedo M.; Roquero, C. (2003). Edafología para la agricultura y el medio ambiente.
-ed. Mundi-Prensa Singer MJ and Munns DN. (2006). Soils an introduction. Pearson Prentice Hall. 6ª Ed
-→   Porta,   L.;   López   Acevedo   M.;   Roquero,   C.   (2003).  Edafología  para  la  agricultura  y  el  medio
-ambiente. ed. Mundi-Prensa
+ed. Mundi-Prensa
 
-✅ Recursos añadidos:
-------------------------------
 Singer MJ and Munns DN. (2006). Soils an introduction. Pearson Prentice Hall. 6ª Ed. New Jersey
 
 USDA.   (1975).  Soil  taxonomy:  A  basic  system  of  soil  classification  for  making  and  interpreting  soil
 surveys.   Washington:   U.S.   Soil  Conservation  Service  Agriculture  Handbook  No.  436.Wild  Alan.  Soils
 and the Environment. Cambridge University Press.1994
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+White,   R.E..(1979).  Introduction  to  the  principles  and  practice  of  Soil  Science.  Blackell  Sci.  Pub.
+Oxford
+
+📊 Porcentaje estimado de cambio: 43% [████░░░░░░]

@@ -2,12 +2,17 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
+Díez   Picazo  y  Gullón  Instituciones  de  Derecho  civil,  vol.  I  y  II  Tecnos,  Lacruz  Nociones  de  Derecho
+civil   patrimonial  e  introducción  al  Derecho  Dykinson,  última  edición  Lasarte  Curso  de  Derecho  civil
+Patrimonial.   Introducción   al   Derecho   Tecnos,   última   edición   Sánchez  Calero,  F.,  Principios  de
+Derecho Mercantil, ThomsonAranzadi, Cizur Menor (Navarra), última edición
+
 Jiménez Sánchez, G. J. (coord.), Nociones de Derecho Mercantil, Marcial Pons, Madrid, última edición
 
 Moreno   Quesada   y   otros   Derecho   civil  patrimonial.  Conceptos  y  normativa  básica  Comares,  Beltrán
@@ -15,41 +20,32 @@ Sánchez/Orduña   Moreno  (dir.)  Curso  de  Derecho  privado  Tirant  lo  Blan
 Ejercicios   y  Materiales  de  Derecho  civil  patrimonial  Tecnos,  Capilla  Roncero,  López  López,  Revuelta
 García   y   Valpuesta   Introducción   al   Derecho   Patrimonial   Privado   Tirant   lo   Blanch,  Bercovitz
 Rodríguez-Cano,   A.,   Apuntes   de   Derecho  Mercantil,  ThomsonAranzadi,  Cizur  Menor  (Navarra),  última
-edición   Moreno   del  Valle,  A,  Elementos  de  Derecho  Privado,  Programa,  Temario,  Test,  Preguntas  Díez
-Picazo y Gullón Instituciones de Derecho civil, vol. I y II Tecnos, Lacruz Nociones de Derecho civil
-patrimonial   e   introducción   al   Derecho   Dykinson,   última   edición  Lasarte  Curso  de  Derecho  civil
-Patrimonial.   Introducción   al   Derecho   Tecnos,   última   edición   Sánchez  Calero,  F.,  Principios  de
-Derecho Mercantil, ThomsonAranzadi, Cizur Menor (Navarra), última edición
+edición Jiménez Linares, M.J, Elementos de Derecho Privado, Material docente básico teóricopráctico,
+Relaciones Laborales, última edición, editorial técnica Avicam, Fleming
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Moreno   del  Valle,  A,  Elementos  de  Derecho  Privado,  Programa,  Temario,  Test,  Preguntas  de  relación  y
+Supuestos prácticos, última edición
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 Beltrán Sánchez/Orduña Moreno (dir.) Curso de Derecho privado Tirant lo Blanch
 
 Bercovitz Rodríguez-Cano, A., Apuntes de Derecho Mercantil, ThomsonAranzadi
-
-Bergel/Espada/Martín/Santos Ejercicios y Materiales de Derecho civil patrimonial Tecnos
 
 Capilla   Roncero,   López   López,   Revuelta   García   y   Valpuesta  Introducción  al  Derecho  Patrimonial
 Privado Tirant lo Blanch
 
 Cizur Menor (Navarra), última edición
 
+Díez Picazo y Gullón Instituciones de Derecho civil, vol. I y II Tecnos
+
 Jiménez   Linares,   M.J,   Elementos   de   Derecho   Privado,   Material  docente  básico  teórico-práctico,
 Relaciones Laborales, última edición, editorial técnica Avicam, Fleming
-
-Lacruz Nociones de Derecho civil patrimonial e introducción al Derecho Dykinson, última edición
 
 Lasarte Curso de Derecho civil Patrimonial. Introducción al Derecho Tecnos, última edición
 
 Moreno Quesada y otros Derecho civil patrimonial. Conceptos y normativa básica Comares
 
-Moreno   del  Valle,  A,  Elementos  de  Derecho  Privado,  Programa,  Temario,  Test,  Preguntas  de  relación  y
-Supuestos prácticos, última edición
-
 Sánchez Calero, F., Principios de Derecho Mercantil, ThomsonAranzadi
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 69% [██████░░░░]

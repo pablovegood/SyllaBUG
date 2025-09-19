@@ -2,12 +2,14 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
+Ciudad y Territorio: Estudios Territoriales, nº 107-108, Ed. Ministerio de Fomento, Madrid, 1996
+
 Conjuntos   residenciales   en   zonas   centrales,   suburbanas   y  periféricas,  Harald  Deilmann,  Gerhard
 Bickenbach, y Herbert Pfeiffer, Ed. Gustavo Gili, Barcelona, 1980
 
@@ -16,36 +18,6 @@ Christian Muschalek, Ed. Gustavo Gili, Barcelona, 1980
 
 La comunidad de Arquitectos. Van Den Broek & Bakena. Ed. Gustavo Gili, Barcelona, 1978
 
-Ley de impulso para la sostenibilidad del territorio de Andalucía (Ley 7/2021)
-
-Plan General de Ordenación Urbana de Granada, Ayuntamiento de Granada, Granada, 2001
-
-Plan de Ordenación del Territorio de Andalucía (D. 206/2006)
-
-Reglamento   General   de  la  Ley  7/2021,  de  impulso  para  la  sostenibilidad  del  territorio  de  Andalucía
-(D. 550/2022)
-
-T.R. Ley del Suelo y Rehabilitación Urbana (R.D. 7/2015)
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Planes   muy   especiales.   Miquel   Colominas,  Joaquín  Sabaté  y  Adolf  Sotoca,  C.A.C.,  Barcelona,  2007.
-Ciudad   y   Territorio:  Estudios  Territoriales,  nº  107-108,  Ed.  Ministerio  de  Fomento,  Madrid,  1996  →
-Ciudad y Territorio: Estudios Territoriales, nº 107-108, Ed. Ministerio de Fomento, Madrid, 1996
-
-Orígenes   del   urbanismo   moderno.   Benevolo,   L.,   Celeste   Ediciones,   Madrid,   1992.   Sustainable
-communities:   a   new   design   synthesis   for   cities,   suburbs   and   towns,   Sim  Van  der  Ryn  y  Peter
-Calthorpe,   Ed.   Sierra   Club  Books,  San  Francisco,  1986  →  Orígenes  del  urbanismo  moderno.  Benevolo,
-L., Celeste Ediciones, Madrid, 1992
-
-Alianza   Editorial,   Madrid,   1982   →   Planeamiento   urbano   en  la  España  contemporánea  (1900-1980),
-Fernando de Terán. Alianza Editorial, Madrid, 1982
-
-Planeamiento   urbano   en   la   España   contemporánea   (1900-1980),   Fernando   de  Terán  →  Planeamiento
-urbano en la España contemporánea (1900-1980), Fernando de Terán. Alianza Editorial, Madrid, 1982
-
-✅ Recursos añadidos:
-------------------------------
 Ley Reguladora del Derecho a la Vivienda en Andalucía (Ley 1/2010)
 
 Ley de Gestión Integrada de la Calidad Ambiental (Ley 7/2007)
@@ -55,11 +27,25 @@ diciembre 2021)
 
 Ley de Ordenación del Territorio de la Comunidad Autónoma de Andalucía (Ley 1/1994)
 
+Ley de impulso para la sostenibilidad del territorio de Andalucía (Ley 7/2021)
+
+Orígenes del urbanismo moderno. Benevolo, L., Celeste Ediciones, Madrid, 1992
+
+Plan General de Ordenación Urbana de Granada, Ayuntamiento de Granada, Granada, 2001
+
+Plan de Ordenación del Territorio de Andalucía (D. 206/2006)
+
+Planeamiento   urbano   en   la  España  contemporánea  (1900-1980),  Fernando  de  Terán.  Alianza  Editorial,
+Madrid, 1982
+
 Planes Subregionales de Andalucía. Junta de Andalucía
 
 Planes muy especiales. Miquel Colominas, Joaquín Sabaté y Adolf Sotoca, C.A.C., Barcelona, 2007
 
 Procedimiento de la Evaluación del Impacto en la Salud (D. 169/2014)
+
+Reglamento   General   de  la  Ley  7/2021,  de  impulso  para  la  sostenibilidad  del  territorio  de  Andalucía
+(D. 550/2022)
 
 Reglamento   de  Disciplina  Urbanística  de  la  Comunidad  Autónoma  de  Andalucía  (D.  60/2010)  -  (Derogado
 en diciembre 2022)
@@ -70,4 +56,10 @@ Ordenación Urbana (R.D. 2159/1978) - (Derogado en diciembre 2022)
 Sustainable   communities:   a   new   design  synthesis  for  cities,  suburbs  and  towns,  Sim  Van  der  Ryn  y
 Peter Calthorpe, Ed. Sierra Club Books, San Francisco, 1986
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+T.R. Ley del Suelo y Rehabilitación Urbana (R.D. 7/2015)
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

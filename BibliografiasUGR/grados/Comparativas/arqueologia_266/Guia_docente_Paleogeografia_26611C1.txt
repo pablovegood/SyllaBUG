@@ -2,13 +2,24 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Annu.   Rev.   Ecol.   Evol.  Syst.  34,  Zench,  W.  2016.  Geology  and  Soils.  Springer-Verlag.Karkanas,  P.,
-Goldberg, P. 2019
+BIBLIOGRAFÍA   PALEOBIOGEOGRÁFICA   Crisci,   J.V.   (2009)   Historical   Biogeography:   An  Introduction.
+Harvard   University   Press,   262   pp   Ebach,  C.M.,  y  Tangney,  R.S.  (2006)  Biogeography  in  a  Changing
+World.   CRC   press,   232pp   Lieberman,   B.S.  (2000)  Paleobiogeography:  Using  Fossils  to  Study  Global
+Change, Plate Tectonics, and Evolution. Springer, 208 pp
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
+BIBLIOGRAFÍA    SEDIMENTOLÓGICA-ESTRATIGRÁFICA   Lowe,   J.J.,   Walker,   M.J.C.   (2014)   Reconstructing
+Quaternary   Environments   (3a   edición)   Taylor  and  Francis,  Routledge  editorial,  568  pp  (disponible
+también   en  línea  la  2ª  edición  a  través  de  acceso  online  biblioteca  UGR)  BIBLIOGRAFÍA  EDAFOLÓGICA  Y
+DE   MODELADO   DE  RELIEVE  Birkeland,  P.W.  1999.  Soils  and  Geomorphology.  Oxford  University  Press;  3rd
+edition
+
+Birkeland,   P.W.   1999.   Soils   and   Geomorphology.   Oxford   University   Press;   3rd   edition.  ISBN:
+0195078861
+
 Goldberg, P., Macphail, R.I. 2006. Practical and theoretical geoarchaeology. Blackwell Science. ISBN
 0-632-06044-1
 
@@ -18,8 +29,10 @@ Evol. Syst. 34, 51–69. https://doi.org/10.1146/annurev.ecolsys.34.121101.15354
 Nicosia,   C.,   Stoops,  G.  2017.  Archaeological  soil  and  sediment  micromorphology.  John  Wiley  &  Sons.
 ISBN 9781118941058
 
-Reed,   S.,   Bailey,  N.,  Onokpise,  O.  2000.  Soil  science  for  archaeologists.  Florida  Agricultural  and
-Mechanical University and Southeast Archeological Center, National Park Service, US
+Reconstructing   archaeological  sites.  Understanding  the  geoarchaeological  matrix.  John  Wiley  &  Sons.
+ISBN:   9781119016403   Reed,   S.,   Bailey,   N.,   Onokpise,   O.  2000.  Soil  science  for  archaeologists.
+Florida   Agricultural   and   Mechanical   University  and  Southeast  Archeological  Center,  National  Park
+Service, US
 
 Torsvik,   T.,  &  Cocks,  L.  (2016).  Earth  History  and  Palaeogeography.  Cambridge  University  Press,  317
 pp
@@ -27,42 +40,28 @@ pp
 Walkington,   H.   2010.   Soil   science   applications   in   archaeological   contexts:   A   review  of  key
 challenges. Earth-Science Reviews, 103: 122-134
 
+Zench,   W.   2016.  Geology  and  Soils.  Springer-Verlag.Karkanas,  P.,  Goldberg,  P.  2019.  Reconstructing
+archaeological   sites.   Understanding   the   geoarchaeological   matrix.   John   Wiley   &   Sons.   ISBN:
+9781119016403
+
 Zinck,   J.A.,   Metternicht,   G.,   Bocco,   G.,   Del   Valle,  H.F.  2016.  Geopedology.  An  integration  of
 geomorphology and pedology for soil and ladscape studies. Springer. ISBN: 978-3-319-19158-4
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Lowe,   J.J.,   Walker,   M.J.C.   (2014)  Reconstructing  Quaternary  Environments  (3a  edición)  Taylor  and
-Francis,   Routledge   editorial,  568  pp  (disponible  también  en  línea  la  2ª  edición  a  través  de  acceso
-online   biblioteca   UGR)  Birkeland,  P.W.  1999.  Soils  and  Geomorphology.  Oxford  University  Press;  3rd
-edition.    ISBN:    0195078861    →   Lowe,   J.J.,   Walker,   M.J.C.   (2014)   Reconstructing   Quaternary
-Environments   (3a   edición)   Taylor   and  Francis,  Routledge  editorial,  568  pp  (disponible  también  en
-línea la 2ª edición a través de acceso online biblioteca UGR)
-
-Crisci,   J.V.   (2009)   Historical   Biogeography:   An   Introduction.  Harvard  University  Press,  262  pp
-Ebach,   C.M.,   y   Tangney,  R.S.  (2006)  Biogeography  in  a  Changing  World.  CRC  press,  232pp  Lieberman,
-B.S. (2000) Paleobiogeography: Using Fossils to Study Global Change, Plate Tectonics, and Evolution.
-Springer,    208   pp   →   Crisci,   J.V.   (2009)   Historical   Biogeography:   An   Introduction.   Harvard
-University Press, 262 pp
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 BIBLIOGRAFÍA EDAFOLÓGICA Y DE MODELADO DE RELIEVE
 
 BIBLIOGRAFÍA PALEOBIOGEOGRÁFICA
 
-BIBLIOGRAFÍA SEDIMENTOLÓGICA-ESTRATIGRÁFICA
-
-Birkeland,   P.W.   1999.   Soils   and   Geomorphology.   Oxford   University   Press;   3rd   edition.  ISBN:
-0195078861
+Crisci, J.V. (2009) Historical Biogeography: An Introduction. Harvard University Press, 262 pp
 
 Ebach, C.M., y Tangney, R.S. (2006) Biogeography in a Changing World. CRC press, 232pp
 
 Lieberman, B.S. (2000) Paleobiogeography: Using Fossils to Study Global Change, Plate Tectonics, and
 Evolution. Springer, 208 pp
 
-Zench,   W.   2016.  Geology  and  Soils.  Springer-Verlag.Karkanas,  P.,  Goldberg,  P.  2019.  Reconstructing
-archaeological   sites.   Understanding   the   geoarchaeological   matrix.   John   Wiley   &   Sons.   ISBN:
-9781119016403
+Lowe,   J.J.,   Walker,   M.J.C.   (2014)  Reconstructing  Quaternary  Environments  (3a  edición)  Taylor  and
+Francis,   Routledge   editorial,  568  pp  (disponible  también  en  línea  la  2ª  edición  a  través  de  acceso
+online biblioteca UGR)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 43% [████░░░░░░]

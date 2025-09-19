@@ -2,14 +2,19 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Barcelona,   1992   Andrade  J.M.,  1999.  CONCEPTO  DE  CALIDAD  EN  LA  INDUSTRIA  Y  LABORATORIOS  DE  ANÁLISIS
+QUÍMICO. Universidad de La Coruña. A Coruña
 
-📚 Recursos sin cambios:
+Madrid, 2002 LA CALIDAD EN LOS LABORATORIOS ANALÍTICOS. M. Valcárcel y A. Rios (Editores). Reverté
+
+📚 Recursos sin cambios (4):
 ------------------------------
 Cela R., 1994. AVANCES EN QUIMIOMETRÍA PRÁCTICA.. Universidad de Santiago de Compostela. Universidad
 de Santiago de Compostela
+
+GARANTÍA DE LA CALIDAD EN LOS LABORATORIOS ANALITICOS. R. Compañó y A. Ríos. Síntesis. Madrid, 2002
 
 Garfield, F.M., 1991. PRINCIPIOS DE GARANTÍA DE CALIDAD PARA LABORATORIOS ANALÍTICOS. Association of
 Official Analytical Chemist (USA)
@@ -17,21 +22,15 @@ Official Analytical Chemist (USA)
 Revoil,   G.,   1998.   ASEGURAMIENTO   DE   LA   CALIDAD   EN   LOS   LABORATORIOS  DE  ANÁLISIS  Y  DE  ENSAYOS.
 ASOCIACIÓN ESPAÑOLA DE NORMALIZACIÓN Y CERTIFICACIÓN (AENOR), Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Barcelona,   1992   Andrade  J.M.,  1999.  CONCEPTO  DE  CALIDAD  EN  LA  INDUSTRIA  Y  LABORATORIOS  DE  ANÁLISIS
-QUÍMICO.   Universidad   de   La   Coruña.   A   Coruña   →   Andrade   J.M.,  1999.  CONCEPTO  DE  CALIDAD  EN  LA
-INDUSTRIA Y LABORATORIOS DE ANÁLISIS QUÍMICO. Universidad de La Coruña. A Coruña
+Andrade   J.M.,   1999.   CONCEPTO   DE   CALIDAD   EN   LA   INDUSTRIA   Y  LABORATORIOS  DE  ANÁLISIS  QUÍMICO.
+Universidad de La Coruña. A Coruña
 
-Madrid,   2002   LA  CALIDAD  EN  LOS  LABORATORIOS  ANALÍTICOS.  M.  Valcárcel  y  A.  Rios  (Editores).  Reverté
-→   LA  CALIDAD  EN  LOS  LABORATORIOS  ANALÍTICOS.  M.  Valcárcel  y  A.  Rios  (Editores).  Reverté.  Barcelona,
+LA   CALIDAD   EN   LOS  LABORATORIOS  ANALÍTICOS.  M.  Valcárcel  y  A.  Rios  (Editores).  Reverté.  Barcelona,
 1992
-
-✅ Recursos añadidos:
-------------------------------
-GARANTÍA DE LA CALIDAD EN LOS LABORATORIOS ANALITICOS. R. Compañó y A. Ríos. Síntesis. Madrid, 2002
 
 MANUAL   PRÁCTICO   DE   CALIDAD  EN  LOS  LABORATORIOS.  ENFOQUE  ISO  17025.  Salvador  Sagrado,  Emilio  Bonet
 Domingo, María José Medina Hernández, Yolanda Martín Biosca. AENOR 2005
 
-📊 Porcentaje estimado de cambio: 57% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 71% [███████░░░]

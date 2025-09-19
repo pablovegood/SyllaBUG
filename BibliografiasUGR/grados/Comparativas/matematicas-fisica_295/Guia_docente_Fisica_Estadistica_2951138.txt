@@ -2,25 +2,22 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Physics, 53, 603 (1981); ibid Rev. Mod. Physics, 54311 (1982)
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (59):
 ------------------------------
 A.Widom, Superfluid Phase Transition in One and Two Dimensions, Phys. Rev. 176, 254 (1968)
 
 ANATOLY I. BURSHTEIN, Introduction to Thermodynamics and Kinetic Theory of Matter,Wiley (1996)
-
-ARTICULOS   DE   INVESTIGACIÓN  (para  la  preparación  de  seminarios)  1.J.G.  Kirkwood,  Quamtum  Statistics
-of Almost Classical Assemblies. Phys. Rev. 44, 31 (1933)
 
 ASHLEY H. CARTER, Classical and Statistical Thermodynamics,Prentice Hall (2001). ISBN: 0-13-779208-5
 
 BALESCU, R., Equilibrium and Non-equilibrium Statistical Mechanics,Wiley & Sons, New York (1975)
 
 BREY   ABALO,   J.J.,   DE   LA  RUBIA  PACHECO,  J.  y  DE  LA  RUBIA  SÁNCHEZ,  J.,  Mecánica  Estadística,  UNED,
-Madrid (2001)
+Madrid (2001). Libros de problemas
 
 C. B. P. FINN, Thermal Physics,second edition, Chapman & Hall (1993)
 
@@ -49,6 +46,9 @@ E. ATLEE JACKSON, Equilibrium Statistical Thermodynamics(1968)
 
 Elliot H. Lieb, The stability of matter, Rev. of Mod. Phys. 48, 553 (1976)
 
+Elliot H. Lieb, Thomas-fermi and related theories of atoms and molecules. Rev. Mod. Physics, 53, 603
+(1981); ibid Rev. Mod. Physics, 54 311 (1982)
+
 F. MANDL, Statistical Physics,second edition, John Wiley & Sons (1988)
 
 F. REIF, Fundamentals of Statistical and Thermal Physics,McGraw-Hill (1965)
@@ -64,7 +64,12 @@ Madrid (1996)
 FERNÁNDEZ   TEJERO,   C.,   y   BAUS,   M.,   Física  Estadística  del  equilibrio.  Fases  de  la  materia,  Aula
 documental de investigación. Madrid (2000)
 
+G.   MORANDI,   E   ERCOLESSI,  AND  F  NAPOLI,  Statistical  Mechanics:  An  Intermediate  Course,2nd  Edition,
+World-Scientific (2001)
+
 GARROD, C., Statistical Mechanics and Thermodynamics, Oxford University Press, Nueva York (1995)
+
+GEORGE PHILLIES, Elementary Lectures in Statistical Mechanics,Springer-Verlag (2000)
 
 GREINER,W.   NEISE,   L.  y  STÖCKER,  H.,  Thermodynamics  and  Statistical  Mechanics,  Springer,  Nueva  York
 (1995)
@@ -79,6 +84,10 @@ J. S. DUGDALE, Entropy and its Physical Meaning,Taylor & Francis (1996)
 
 J. Wilks, The Theory of Liquid He, Rep. on Progr. in Physics 20, 38 (1957)
 
+J.G. Kirkwood, Quamtum Statistics of Almost Classical Assemblies. Phys. Rev. 44, 31 (1933)
+
+KEITH S. STOWE, Introduction to Statistical Mechanics and Thermodynamics,John Wiley & Sons (1984)
+
 KUBO, R., Statistical Mechanics: an Advanced Course with Problems and solutions, 2ND edition, North-
 Holland, Amsterdam (1999)
 
@@ -87,14 +96,21 @@ LANDAU L.D. y LIFSHITZ, E.M., Física Estadística, Reverté S.A., Madrid (1975)
 LE   BELLAC,   M.,   MORTESSAGNE,   F.   y   BATROUNI,   G.G.,   Equilibrium  and  non-equilibrium  statistical
 thermodynamics, Cambridge University Press, Cambridge (2004)
 
+M. SPRACKLING, Thermal Physics,AIP (1992). ISBN: 0-88318-919-4
+
 McQUARRIE, D.A., Statistical Mechanics, Harper & Row, New York (1976)
 
 P. W. ATKINS, The Second Law,W. H. Freeman (1984)
+
+P.C. Hohenberg, Existence of Long Range Order in One and Two Dimensions Phys. Rev. 158, 383 (1967)
 
 PATHRIA, R.K., Statistical Mechanics(2nd edition), Butterworth-Heinemann, Oxford (1996)
 
 R.   BOWLEY   AND   M.   SANCHEZ,   Introductory  Statistical  Mechanics,  second  edition,  Oxford  University
 Press (2000). ISBN: 0-19-850576-0
+
+R.J.   Tayler,   Stellar   Evolution,   Rep.  on  Progr.  in  Physics,  31,  167  (1968).  H.A.  Bethe,  Supernova
+Mechanicsms, Rev. of Modern Physics, 62, 801 (1990)
 
 RALPH   BAIERLEIN,   Atoms   and   Information   Theory:  An  Introduction  to  Statistical  Mechanics,Freeman
 (1971)
@@ -103,6 +119,8 @@ RALPH   BAIERLEIN,   Thermal   Physics,Cambridge   University   Press,   New   Y
 0-521-59082-5; Paperback: ISBN 0-521-65838-1; Solutions Manual (for instructors): ISBN 0-521-65860-8
 
 ROBERT P. H. GASSER AND W. GRAHAM RICHARDS, Statistical Thermodynamics,World Scientific (1995)
+
+T. Guenault, Statistical Physics,second edition, Chapman & Hall (1995)
 
 T.D.   Lee  and  C.N.  Yang,  Statistical  Theory  of  Equations  of  State  and  Phase  Transitions.  II.  Lattice
 Gas and Ising Model. Phys. Rev. 87, 410 (1952)
@@ -115,7 +133,8 @@ TEUNIS C. DORLAS, Statistical Mechanics, IOP Publishing (1999). ISBN: 0-7503-054
 THOMAS   A.  MOORE,  Six  Ideas  That  Shaped  Physics:  Unit  T:  Some  Processes  Are  Irreversible,WCB/McGraw-
 Hill Paperback (July 1999). ISBN: 007043056X
 
-THOMPSON, C.J., Mathematical Statistical Mechanics, Princeton University Press, New Jersey (1972)
+THOMPSON,   C.J.,   Mathematical  Statistical  Mechanics,  Princeton  University  Press,  New  Jersey  (1972).
+ARTICULOS DE INVESTIGACIÓN (para la preparación de seminarios)
 
 TODA,   M.,   KUBO,   R.   y   SAITO,   N.,   Statistical  Physics  I.  Equilibrium  Statistical  Mechanics,  2nd
 edition, Springer-Verlag, Nueva York (1995)
@@ -130,43 +149,12 @@ W.E. Lamb and A. Nordsieck, On the Einstein Condensation Phenomenon. Phys. Rev. 
 YUNG-KUO,   L.,   Problems  and  Solutions  on  Thermodynamics  and  Statistical  Mechanics,  World  Scientific
 Publishing, Singapur (1990)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-H.A.   Bethe,   Supernova   Mechanicsms,   Rev.  of  Modern  Physics,  62,  801  (1990)  →  R.J.  Tayler,  Stellar
-Evolution,   Rep.   on   Progr.   in  Physics,  31,  167  (1968).  H.A.  Bethe,  Supernova  Mechanicsms,  Rev.  of
-Modern Physics, 62, 801 (1990)
-
-8.R.J.   Tayler,   Stellar  Evolution,  Rep.  on  Progr.  in  Physics,  31,  167  (1968)  →  R.J.  Tayler,  Stellar
-Evolution,   Rep.   on   Progr.   in  Physics,  31,  167  (1968).  H.A.  Bethe,  Supernova  Mechanicsms,  Rev.  of
-Modern Physics, 62, 801 (1990)
-
-24.G. MORANDI, E ERCOLESSI, AND F NAPOLI, Statistical Mechanics: An Intermediate Course,2nd Edition,
-World-Scientific   (2001),  25.GEORGE  PHILLIES,  Elementary  Lectures  in  Statistical  Mechanics,Springer-
-Verlag   (2000)   →   GEORGE   PHILLIES,   Elementary   Lectures   in  Statistical  Mechanics,Springer-Verlag
-(2000)
-
-31.M. SPRACKLING, Thermal Physics,AIP (1992). ISBN: 0-88318-919-4 32.KEITH S. STOWE, Introduction to
-Statistical   Mechanics   and   Thermodynamics,John   Wiley   &   Sons   (1984)   →   M.   SPRACKLING,  Thermal
-Physics,AIP (1992). ISBN: 0-88318-919-4
-
-✅ Recursos añadidos:
-------------------------------
-Elliot H. Lieb, Thomas-fermi and related theories of atoms and molecules. Rev. Mod. Physics, 53, 603
-(1981); ibid Rev. Mod. Physics, 54 311 (1982)
-
-G.   MORANDI,   E   ERCOLESSI,  AND  F  NAPOLI,  Statistical  Mechanics:  An  Intermediate  Course,2nd  Edition,
-World-Scientific (2001)
-
-J.G. Kirkwood, Quamtum Statistics of Almost Classical Assemblies. Phys. Rev. 44, 31 (1933)
-
-KEITH S. STOWE, Introduction to Statistical Mechanics and Thermodynamics,John Wiley & Sons (1984)
-
 Libros de problemas
 
 Libros de teoría
 
-P.C. Hohenberg, Existence of Long Range Order in One and Two Dimensions Phys. Rev. 158, 383 (1967)
+THOMPSON, C.J., Mathematical Statistical Mechanics, Princeton University Press, New Jersey (1972)
 
-T. Guenault, Statistical Physics,second edition, Chapman & Hall (1995)
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

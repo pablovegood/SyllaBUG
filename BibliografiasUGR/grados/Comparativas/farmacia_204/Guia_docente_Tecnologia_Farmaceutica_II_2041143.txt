@@ -2,11 +2,13 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Lieberman, H.A. Pharmaceutical Dosage Forms. Vol. 1-3: Tablets. 1980, 1981, 1983
 
-📚 Recursos sin cambios:
+Pharmaceutical Dosage Forms. Vol. 1 y 2: Disperse Systems. 1996, 1989. Marcel Dekker, Inc. New York
+
+📚 Recursos sin cambios (35):
 ------------------------------
 Agencia Española de Medicamentos y Productos Sanitarios. 5ª edición, 2015 (edición electrónica)
 
@@ -107,18 +109,12 @@ Dekker, Inc. New York and Basel, 1988-2005
 
 Vila, J.L. Tecnología Farmacéutica. Vol. 1 y 2. Ed. Síntesis. Madrid, 1997
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Pharmaceutical   Dosage  Forms.  Vol.  1  y  2:  Disperse  Systems.  1996,  1989.  Marcel  Dekker,  Inc.  New  York
-→   Lieberman,   H.A.  Pharmaceutical  Dosage  Forms.  Vol.  1-3:  Tablets.  1980,  1981,  1983.  Pharmaceutical
+Lieberman,   H.A.   Pharmaceutical   Dosage   Forms.  Vol.  1-3:  Tablets.  1980,  1981,  1983.  Pharmaceutical
 Dosage Forms. Vol. 1 y 2: Disperse Systems. 1996, 1989. Marcel Dekker, Inc. New York
 
-Lieberman,   H.A.   Pharmaceutical  Dosage  Forms.  Vol.  1-3:  Tablets.  1980,  1981,  1983  →  Lieberman,  H.A.
-Pharmaceutical   Dosage  Forms.  Vol.  1-3:  Tablets.  1980,  1981,  1983.  Pharmaceutical  Dosage  Forms.  Vol.
-1 y 2: Disperse Systems. 1996, 1989. Marcel Dekker, Inc. New York
+Lieberman,   H.A.   Pharmaceutical   Dosage   Forms.  Vol.  1-3:  Tablets.  1980,  1981,  1983.  Pharmaceutical
+Dosage Forms. Vol. 1 y 2: Disperse Systems. 1996, 1989. Marcel Dekker, Inc. New York
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

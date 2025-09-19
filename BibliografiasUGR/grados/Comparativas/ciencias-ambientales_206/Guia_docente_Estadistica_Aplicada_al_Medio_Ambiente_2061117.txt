@@ -2,11 +2,12 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ramos-Ábalos,   E.M.   ,   Raya-Miranda,   R.  y  Romero-Molina,  D.  “Problemas  de  Estadística”.  Copicentro
+Editorial. 2010 Selvin, S. “Practical Biostatistics Methods”. Editorial: Duxbury Press. 1995
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Crawley,    M.J.    “Methods   in   Ecology.   GLIM   for   ecologists”.   Editorial:   Blackwell   Scientific
 Publications, Oxford. 1993
@@ -30,7 +31,7 @@ Salud". Ed. Capitel. Madrid
 Milton   J.S.  (2007).  “Estadística  para  Biología  y  Ciencias  de  la  Salud”.  McGraw-Hill.  Interamericana
 de España, S.A.U
 
-Ramos-Ábalos, E.M., Raya-Miranda, R. y Romero-Molina, D. “Estadística”. Copicentro Editorial. 2010
+Ramos-Ábalos, E.M. , Raya-Miranda, R. y Romero-Molina, D. “Estadística”. Copicentro Editorial. 2010
 
 Ruíz Díaz, F. Barón López, F. J. “Bioestadística”. Editorial Thomson-Paraninfo, 2005
 
@@ -42,15 +43,11 @@ Avicam, 2022
 
 Álvarez, R. “Estadística aplicada a las ciencias de la salud”, Díaz de Santos, Madrid, 2007
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ramos-Ábalos,   E.M.   ,   Raya-Miranda,   R.  y  Romero-Molina,  D.  “Problemas  de  Estadística”.  Copicentro
-Editorial.   2010   Selvin,   S.   “Practical   Biostatistics   Methods”.  Editorial:  Duxbury  Press.  1995  →
-Selvin, S. “Practical Biostatistics Methods”. Editorial: Duxbury Press. 1995
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Ramos-Ábalos,   E.M.,   Raya-Miranda,   R.   y   Romero-Molina,  D.  “Problemas  de  Estadística”.  Copicentro
 Editorial. 2010
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+Selvin, S. “Practical Biostatistics Methods”. Editorial: Duxbury Press. 1995
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 Advanced Inorganic Chemistry. 6ª Ed. F.A. Cotton, G. Wilkinson, G. Murillo y M. Bochmann. 1999
 
@@ -23,16 +23,10 @@ Química Inorgánica. Glen E. Rodgers. Ed. McGrawHill. 1995
 
 Química Inorgánica. Lothar Beyer y V. Fernández. Ed. Ariel Ciencia. 2000
 
-Química Inorgánica.- D. F. Shriver, P. W. Atkins, 4ª Ed. McGraw Hill, 2008
+Química Inorgánica.- D. F. Shriver , P. W. Atkins, 4ª Ed. McGraw Hill, 2008
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-2012.   Materials   Science  and  Engineering:  An  Introduction.  10th  Edition.  W.  D.  Callister  and  D.  G  →
-Materials   Science   and   Engineering:   An   Introduction.   10th   Edition.   W.   D.  Callister  and  D.  G.
-Rethwisch. Ed. Wiley. 2018
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,29 +2,27 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+E.    Salinelli,    F.    Tomarelli,   Discrete   Dynamical   Models,   Springer   International   Publishing
+Switzerland,   2014   F.   Brauer,   C.   Castillo-Chávez,   Mathematical  Models  in  Population  Biology  and
+Epidemiology, Second Ed., Springer-Verlag, New York, 2012
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (2):
 ------------------------------
 P.   Cull,  M.  Flahive,  R.  Robson,  Difference  Equations:  From  Rabbits  to  Chaos,  Undergraduate  Texts  in
 Mathematics, Springer Verlag, New York, 2005
 
-R. Ortega, Modelos matemáticos, Universidad de Granada, 2013
-
 S. Elaydi, An Introduction to Difference Equations, Springer-Verlag, New York, 2005
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
 E.    Salinelli,    F.    Tomarelli,   Discrete   Dynamical   Models,   Springer   International   Publishing
-Switzerland,   2014   F.   Brauer,   C.   Castillo-Chávez,   Mathematical  Models  in  Population  Biology  and
-Epidemiology,   Second   Ed.,   Springer-Verlag,   New  York,  2012  →  E.  Salinelli,  F.  Tomarelli,  Discrete
-Dynamical Models, Springer International Publishing Switzerland, 2014
+Switzerland, 2014
 
-✅ Recursos añadidos:
-------------------------------
 F.   Brauer,   C.   Castillo-Chávez,  Mathematical  Models  in  Population  Biology  and  Epidemiology,  Second
 Ed., Springer-Verlag, New York, 2012
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+R. Ortega, Modelos matemáticos, Universidad de Granada, 2013
+
+📊 Porcentaje estimado de cambio: 80% [████████░░]

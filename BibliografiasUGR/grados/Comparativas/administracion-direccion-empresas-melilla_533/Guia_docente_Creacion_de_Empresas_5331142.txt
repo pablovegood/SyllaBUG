@@ -2,14 +2,20 @@
 Grado: administracion-direccion-empresas-melilla (533)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-McGraw   Hill.   temas   en   la  presente  guía.  Las  transparencias  y  demás  materiales  que  los  profesores
-puedan hacer llegar a los estudiantes se corresponden con las actividades realizadas con temas en la
-presente   guía.   Las   transparencias  y  demás  materiales  que  los  profesores  puedan  hacer  llegar  a  los
-estudiantes se corresponden con las actividades realizadas con
+(Biblioteca   virtual   UGR   con   acceso   VPN)   Enrique  Ribeiro-Soriano,  D.,  ET  AL  (2014):  Creación  de
+empresas   y   emprendimiento  de  estudiante  a  empresario.  México:  Pearson.  (Biblioteca  virtual  UGR  con
+acceso   VPN)   Rajadell  Carreras,  M.  (2009).  Creación  de  Empresas.  Barcelona:  Universitat  Politècnica
+de    Catalunya   (Biblioteca   virtual   UGR   con   acceso   VPN)   LIBROS   REFERENCIADOS   EN:   10   libros
+imprescindibles en la biblioteca de un emprendedor
 
-📚 Recursos sin cambios:
+GIL   ESTALLO,   MARÍA   DE   LOS   ÁNGELES   (2003).  Cómo  crear  y  hacer  funcionar  una  empresa  conceptos  e
+instrumentos,   Madrid,   ESIC   GÓMEZ   GRAS,   J.M.;   GALIANA  LAPERA,  D.,  MIRA  SOLVES,  I.;  LEÓN  SPÍ,  D.
+(2002):   Manual   para   la   Creación   de  Empresas  por  Universitarios.  Universidad  Miguel  Hernández  de
+Elche
+
+📚 Recursos sin cambios (23):
 ------------------------------
 ANDERSON, C. (2013). Makers: La nueva revolución industrial (Nuevos Paradigmas). Empresa Activa
 
@@ -27,6 +33,9 @@ CASILLAS, T. Y MARTÍ, J.M. (2006): Guía para la creación de empresas. 3ª ed.
 CELAYA, J. (2011). La Empresa en la Web 2.0. Centro Libros PAPF
 
 GONZÁLEZ, F. J.: Creación de empresas: PIRÁMIDE
+
+GÓMEZ   GRAS,  J.M.;  GALIANA  LAPERA,  D.,  MIRA  SOLVES,  I.;  LEÓN  SPÍ,  D.  (2002):  Manual  para  la  Creación
+de Empresas por Universitarios. Universidad Miguel Hernández de Elche
 
 GÓMEZ   GRAS,   JOSÉ  MARÍA  ET  AL  (2012).  Manual  de  casos  sobre  creación  de  empresas  en  España.  McGraw-
 Hill, Madrid
@@ -65,35 +74,21 @@ THOMPSON, A.A. y STRICKLAND, A.J.(2004): Dirección y administración estratégi
 
 TODOLÍ CERVERA, FERRÁN (2008). Creación de empresas paso a paso. Ciss, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-GÓMEZ   GRAS,  J.M.;  GALIANA  LAPERA,  D.,  MIRA  SOLVES,  I.;  LEÓN  SPÍ,  D.  (2002):  Manual  para  la  Creación
-de   Empresas   por  Universitarios.  Universidad  Miguel  Hernández  de  Elche.  (Biblioteca  virtual  UGR  con
-acceso   VPN)   Enrique   Ribeiro-Soriano,   D.,   ET  AL  (2014):  Creación  de  empresas  y  emprendimiento  de
-estudiante a empresario. México: Pearson. (Biblioteca virtual UGR con acceso VPN) Rajadell Carreras,
-M. (2009). Creación de Empresas. Barcelona: Universitat Politècnica de Catalunya (Biblioteca virtual
-UGR   con   acceso   VPN)   LIBROS   REFERENCIADOS   EN:   10  libros  imprescindibles  en  la  biblioteca  de  un
-emprendedor   →   GÓMEZ   GRAS,   J.M.;  GALIANA  LAPERA,  D.,  MIRA  SOLVES,  I.;  LEÓN  SPÍ,  D.  (2002):  Manual
-para   la  Creación  de  Empresas  por  Universitarios.  Universidad  Miguel  Hernández  de  Elche.  (Biblioteca
-virtual UGR con acceso VPN)
-
-GIL   ESTALLO,   MARÍA   DE   LOS   ÁNGELES   (2003).  Cómo  crear  y  hacer  funcionar  una  empresa  conceptos  e
-instrumentos,   Madrid,   ESIC   GÓMEZ   GRAS,   J.M.;   GALIANA  LAPERA,  D.,  MIRA  SOLVES,  I.;  LEÓN  SPÍ,  D.
-(2002):   Manual   para   la   Creación   de  Empresas  por  Universitarios.  Universidad  Miguel  Hernández  de
-Elche   →   GIL   ESTALLO,   MARÍA   DE   LOS   ÁNGELES   (2003).   Cómo   crear  y  hacer  funcionar  una  empresa
-conceptos e instrumentos, Madrid, ESIC
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Enrique   Ribeiro-Soriano,   D.,   ET   AL  (2014):  Creación  de  empresas  y  emprendimiento  de  estudiante  a
 empresario. México: Pearson. (Biblioteca virtual UGR con acceso VPN)
 
+GIL   ESTALLO,   MARÍA   DE   LOS   ÁNGELES   (2003).  Cómo  crear  y  hacer  funcionar  una  empresa  conceptos  e
+instrumentos, Madrid, ESIC
+
 GÓMEZ   GRAS,  J.M.;  GALIANA  LAPERA,  D.,  MIRA  SOLVES,  I.;  LEÓN  SPÍ,  D.  (2002):  Manual  para  la  Creación
-de Empresas por Universitarios. Universidad Miguel Hernández de Elche
+de   Empresas   por  Universitarios.  Universidad  Miguel  Hernández  de  Elche.  (Biblioteca  virtual  UGR  con
+acceso VPN)
 
 LIBROS REFERENCIADOS EN: 10 libros imprescindibles en la biblioteca de un emprendedor
 
 Rajadell   Carreras,  M.  (2009).  Creación  de  Empresas.  Barcelona:  Universitat  Politècnica  de  Catalunya
 (Biblioteca virtual UGR con acceso VPN)
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

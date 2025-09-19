@@ -2,16 +2,20 @@
 Grado: estudios-franceses (277)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
+ALLIÈRES, J. (1982), Formation de la langue française, Paris, PUF, Que sais-je?
+
 BLANCHE-BENVENISTE, Cl., et CHERVEL, A. (1969), L’orthographe, Paris, Maspéro. Rééd. 1978
 
 BLANCPAIN,   M.,   et   REBOULLET,   A.   dir.  (1976),  Une  langue:  le  français  aujourd’hui  dans  le  monde,
 Paris, Hachette
+
+BRUNOT, F. (1966), Histoire de la langue française, Paris, A. Colin
 
 CATACH, N. (1978), L’orthographe, Paris, PUF, Que sais-je? Réed. 1982
 
@@ -32,13 +36,21 @@ COHEN, M. (1967), Histoire d’une langue: le français, Paris, Éd. Sociales
 
 DELOFFRE, F., et HELLEGOUARC’H, J. (1983), Éléments de linguistique française, Paris, SEDES
 
-GREIMAS, A.J. (1968), Dictionnaire de l’ancien français, Paris, Larousse
+DICTIONNAIRE: GREIMAS, A.J. (1968), Dictionnaire de l’ancien français, Paris, Larousse
+
+GUIRAUD, P. (1958), L’argot, Paris, PUF, Que sais-je?
+
+GUIRAUD, P. (1963), Le Moyen Français, Paris, PUF, Que sais-je?
+
+GUIRAUD, P. (1965), Patois et dialectes français, Paris, PUF, Que sais-je? Réed. 1973
 
 HAGÈGE, Cl. (1987), Le français et les siècles, Paris, Odile Jacob
 
 HAGÈGE, Cl. (1998), Le Français, histoire d’un combat, Paris, Le Livre de Poche
 
 JOLY, G. (2003), Précis de phonétique historique du français, Paris, A. Colin
+
+LANLY, A. (1971), Fiches de philologie française, Paris, Bordas
 
 LEONARD, M. (2019), Exercices de phonétique historique, Paris, A. Colin
 
@@ -60,28 +72,8 @@ ZINK, G. (1986), Phonétique historique du français, Paris, PUF
 
 ZINK, G. (1989), Morphologie du français médiéval, Paris, PUF
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-GUIRAUD,   P.   (1958),   L’argot,   Paris,   PUF,   Que   sais-je?  GUIRAUD,  P.  (1965),  Patois  et  dialectes
-français,   Paris,   PUF,  Que  sais-je?  Réed.  1973  →  GUIRAUD,  P.  (1958),  L’argot,  Paris,  PUF,  Que  sais-
-je?
-
-GUIRAUD,   P.   (1963),   Le   Moyen   Français,   Paris,   PUF,   Que   sais-je?  LANLY,  A.  (1971),  Fiches  de
-philologie   française,   Paris,  Bordas  →  GUIRAUD,  P.  (1963),  Le  Moyen  Français,  Paris,  PUF,  Que  sais-
-je?
-
-ALLIÈRES,   J.   (1982),  Formation  de  la  langue  française,  Paris,  PUF,  Que  sais-je?  BRUNOT,  F.  (1966),
-Histoire   de   la   langue   française,   Paris,   A.   Colin   →   BRUNOT,  F.  (1966),  Histoire  de  la  langue
-française, Paris, A. Colin
-
-✅ Recursos añadidos:
-------------------------------
-ALLIÈRES, J. (1982), Formation de la langue française, Paris, PUF, Que sais-je?
-
 DICTIONNAIRE
 
-GUIRAUD, P. (1965), Patois et dialectes français, Paris, PUF, Que sais-je? Réed. 1973
-
-LANLY, A. (1971), Fiches de philologie française, Paris, Bordas
-
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]

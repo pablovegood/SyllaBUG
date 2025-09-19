@@ -2,20 +2,11 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Libros   de   Texto  Triviño,  M.,  Arnedo,  M.,  Bembibre,  J.  (coord.)  (2020).  Neuropsicología  a  través  de
-casos
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (51):
 ------------------------------
 Arango-Lasprilla, J. C. (2017). Neuropsicología infantil. Mexico: Manual Moderno
 
@@ -40,7 +31,7 @@ Diamond, M. C., Scheibel, A. B., & Elson, L. M. (1996). El cerebro humano. Ariel
 
 Diéguez-Vide, F. y Peña-Casanova, J. (2012). Cerebro y Lenguaje. Madrid: Panamericana
 
-Forn Frias, C. (2020). Manual de neuropsicología. Ediciones Pirámide
+Forn Frias, C. (2020). Manual de neuropsicología. Ediciones Pirámide. Trastornos del Neurodesarrollo
 
 Forn Frías, C. (2020). Manual de Neuropsicología. Editorial Pirámide
 
@@ -74,13 +65,13 @@ Kolb, B. y Whishaw, I. Q. (2015). Neuropsicología Humana (7ª ed.). Madrid: Mé
 Kolb,   Bryan,   Whishaw,  Ian  Q.  (2017).  Neuropsicología  humana.  (7ª  edició).  Madrid:  Editorial  Médica
 Panamericana
 
-Lecturas   obligatorias  para  el  Tema  8:  Neuropsicología  infantil:  Daño  cerebral  temprano  y  Trastornos
-del Neurodesarrollo
-
 Lezak M. D., Howieson D. B., Bigler E., Tranel D. (2012). Neuropsychological Assessment. Nueva York:
 Oxford University Press
 
 León Carrión, J. (2015). Fundamentos de neuropsicología humana
+
+Libros   de   Texto  Triviño,  M.,  Arnedo,  M.,  Bembibre,  J.  (coord.)  (2020).  Neuropsicología  a  través  de
+casos clínicos. Evaluación y rehabilitación (2ª ed.). Madrid: Médica-Panamericana
 
 López,   L.  A.  P.,  López,  A.  T.,  &  del  Ángel,  J.  G.  (2016).  Diccionario  de  neuropsicología.  Editorial
 El Manual Moderno
@@ -91,8 +82,6 @@ Montes   Lozano,   A.,   Bembibre   Serrano,   J.,   Triviño  Mosquera,  M.  y 
 clínica   del   daño   cerebral   temprano.   En:   Arnedo,   M.,   Montes,   A.,   Bembibre,   J.,  Triviño,  M.
 Neuropsicología   infantil.  A  través  de  casos  clínicos.  Madrid:  Médica-Panamericana,  2015.  Cap.  3,  p.
 39-50
-
-Muñiz Landeros, C.E. (2015). Neurologia clínica de Rangel Guerra. Ed. Manual Moderno
 
 Navarro,   I.   Síndrome   del  cromosoma  X  frágil.  En  Arnedo,  M.,  Montes,  A.,  Bembibre,  J.,  Triviño,  M.
 Neuropsicología   infantil.   A  través  de  casos  clínicos.  Madrid:  Médica-Panamericana,  2015.  Cap.  13.,
@@ -114,9 +103,6 @@ Pérez García, M. (2009). Manual de Neuropsicología Clínica. Editorial Pirám
 
 Pérez,   J.   A.   P.   (2014).   Neuropsicología   de  la  atención,  las  funciones  ejecutivas  y  la  memoria.
 Editorial síntesis
-
-Redolar   D,  Blázquez  JL,  González  B,  Muñoz  E,  Periañez  JA,  Viejo  R.  Neuropsicología  (2013).  Editoral
-UOC
 
 Sacks, O. (2005). Despertares. Barcelona: Anagrama
 
@@ -144,9 +130,6 @@ corteza prefrontal y las funciones ejecutivas. Barcelona: Viguera
 Tirapu-Ustárroz,   J.,   Ríos-Lago,   M.   y   Maestú-Unturbe,   F.   (2008).   Manual   de   Neuropsicología.
 Barcelona: Viguera
 
-Triviño,   M.,   Arnedo,  M.,  Bembibre,  J.  (coord.)  (2020).  Neuropsicología  a  través  de  casos  clínicos.
-Evaluación y rehabilitación (2ª ed.). Madrid: Médica-Panamericana
-
 Triviño.   Mosquera,   M.,   Bembibre   Serrano,   J.   y  Arnedo  Montoro,  M.  (2018).  Neuropsicología  de  la
 percepción. Madrid: Síntesis
 
@@ -156,4 +139,16 @@ clínica hospitalaria. Editorial Manual Moderno
 Weiner,   M.   y   Lipton,   A.   (2010).   Manual   de   Enfermedad  de  Alzheimer  y  otras  Demencias.  Madrid:
 Panamericana
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (4):
+------------------------------
+Lecturas   obligatorias  para  el  Tema  8:  Neuropsicología  infantil:  Daño  cerebral  temprano  y  Trastornos
+del Neurodesarrollo
+
+Libros de Texto
+
+Muñiz Landeros, C.E. (2015). Neurologia clínica de Rangel Guerra. Ed. Manual Moderno
+
+Redolar   D,  Blázquez  JL,  González  B,  Muñoz  E,  Periañez  JA,  Viejo  R.  Neuropsicología  (2013).  Editoral
+UOC
+
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

@@ -2,14 +2,13 @@
 Grado: cc-politicas-admon-sociologia (219)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+RICHARDSON, J., European Union: power and decision-making, Routlegde, Londres, • SMITH, A., Politics
+and the European Comission: actors, interdependence, legitimacy. Routledge, Londres, 2004
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (42):
 ------------------------------
-ALCANTARA, M., Los Sistemas Políticos de la Unión Europea, Tirant Lo Blanc, Valencia, 2000
-
 ALMOND, G.A., DALTON, R.J., POWELL, G.B., JR, European Politics Today, Longman, 2002
 
 BALE, T., European politics: a comparative introduction, Palgrave, Houndmills (England), 2005
@@ -34,6 +33,11 @@ los temas de este Manual dedicados a la Unión Europea)
 
 EILSTRUP-SANGIOVANI, M., Debates on European Integration, Palgrave MacMillan, 2006
 
+El   material   fundamental   de   estudio   y   trabajo  se  compondrá  por  aquel  que  dejen  los  profesores  a
+disposición   de   los/las   estudiantes   por  medio  de  las  diversas  plataformas  al  efecto,  así  como  que
+aquel   que   se   pueda   señalar   dependiendo   de   la   materia   a   tratar.  Para  alguna  de  las  materias
+estudiadas en clase, se remitirá a una bibliografía complementaria en concreto
+
 GOWER, J. ed., The European Union Handbook, Fitzroy Dearborn Publishers, Chicago, 2005
 
 HANCOCK, M. D. ed., Politics in Europe, CQ Press, Washington D.C., 2006
@@ -53,6 +57,9 @@ KESSELMAN, M. et al., European politics in Transition, Houghton Mifflin, 2002
 LANE, J-E. and ERSSON, S., European Politics. An introduction, Sage Publications, 1996
 
 LANE, J-E. and ERSSON, S., Politics and society in Western Europe, Sage Publications, 1999
+
+Los   profesores   especificarán   en   clase   que   bibliografía   concreta   hay   que   consultar  para  los
+diferentes temas del programa de la asignatura
 
 MAGONE, J.M., Contemporary Spanish politics, Routledge, Nueva York, 2004
 
@@ -79,11 +86,17 @@ Oxford, 2004
 
 PHINNEMORE, D., A dictionary of the European Union, Europa, London, 2002
 
+Parte 1ª: ALCANTARA, M., Los Sistemas Políticos de la Unión Europea, Tirant Lo Blanc, Valencia, 2000
+
+Parte 1ª: Sistema Político de la Unión Europea
+
+Parte   2ª:   En   las   obras   recomendadas   viene   detallada,   al   final   de   cada  capítulo,  abundante
+bibliografía correspondiente a cada uno de los temas correspondientes a esta parte de la asignatura
+
+Parte 2ª: Sistema Jurídico de la Unión Europea
+
 QUERMONNE,   J-L.,  Le  Système  politique  de  l’Union  Européenne,  Montchrestien,  Clefs-Politique,  París,
 1998
-
-RICHARDSON,   J.,   European   Union:  power  and  decision-making,  Routlegde,  Londres,  2001.  •  SMITH,  A.,
-Politics and the European Comission: actors, interdependence, legitimacy. Routledge, Londres, 2004
 
 SMITH, K.E., European Union Foreign Policy in a Changing World, Polity, Cambridge, 2008
 
@@ -96,11 +109,7 @@ Tratado   de   la   Unión   Europea,  Tratado  de  Funcionamiento  y  otros  ac
 WALLACE,   H.   and   WILLIAM   WALLACE,   Policy   making  in  the  European  Union,  Oxford  University  Press,
 Oxford, 2005
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (13):
 ------------------------------
 BARNARD,   C.:   The   Substantive   Law  of  the  EU  –  The  Four  Freedoms,  7th  ed,  Oxford  University  Press,
 Oxford, 2022
@@ -122,23 +131,11 @@ CRAIG, P.; DE BURCA, G.: The Evolution of EU Law, 3rd ed, Oxford University Pres
 DE   CUETO,   C.   y   J.  MONTABES  (ed),  Sistema  Político  de  la  Unión  Europea  -  Instituciones,Políticas,
 Procesos y Actitudes-, Comares, Granada, 2025
 
-El   material   fundamental   de   estudio   y   trabajo  se  compondrá  por  aquel  que  dejen  los  profesores  a
-disposición   de   los/las   estudiantes   por  medio  de  las  diversas  plataformas  al  efecto,  así  como  que
-aquel   que   se   pueda   señalar   dependiendo   de   la   materia   a   tratar.  Para  alguna  de  las  materias
-estudiadas en clase, se remitirá a una bibliografía complementaria en concreto
-
-En   las   obras   recomendadas   viene   detallada,   al   final   de  cada  capítulo,  abundante  bibliografía
-correspondiente a cada uno de los temas correspondientes a esta parte de la asignatura
-
 KENEALY,   D.   et   al  (eds):  The  European  Union  –  How  does  it  work?,  6th  ed,  Oxford  University  Press,
 Oxford, 2022
 
-Los   profesores   especificarán   en   clase   que   bibliografía   concreta   hay   que   consultar  para  los
-diferentes temas del programa de la asignatura
-
-Parte 1ª: Sistema Político de la Unión Europea
-
-Parte 2ª: Sistema Jurídico de la Unión Europea
+RICHARDSON,   J.,   European   Union:  power  and  decision-making,  Routlegde,  Londres,  2001.  •  SMITH,  A.,
+Politics and the European Comission: actors, interdependence, legitimacy. Routledge, Londres, 2004
 
 SARMIENTO, D.: Curso de Derecho de la Unión Europea, 1ª ed., Marcial Pons, Madri, 2024
 
@@ -146,4 +143,4 @@ SARMIENTO, D.: Derecho de la Unión Europea, 4th ed, Marcial Pons, Madrid, 2022
 
 SCHÜTZE, R.: An Introduction to European Law, 4th ed, Oxford University Press, Oxford, 2023
 
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

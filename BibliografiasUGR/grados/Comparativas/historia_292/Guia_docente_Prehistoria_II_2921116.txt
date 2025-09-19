@@ -2,11 +2,17 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Collis,   J.:   La  Edad  del  Hierro  en  Europa,  Ed.  Labor,  Barcelona,  1989  Ruiz  Gálvez,  Mª.L.:  La  Europa
+Atlántica   en   la   Edad   del  Bronce.  Un  viaje  a  las  raíces  de  la  Europa  occidental,  Crítica,  Madrid,
+1998
 
-📚 Recursos sin cambios:
+Fernández   Martínez,   V.:   Prehistoria.   El  largo  camino  de  la  humanidad,  Alianza  Editorial,  Madrid,
+2007   Fullola,   J.   y   Nadal,   J.:   Introducción  a  la  Prehistoria  La  evolución  de  la  cultura  humana,
+Editorial UOC, Barcelona, 2005
+
+📚 Recursos sin cambios (29):
 ------------------------------
 AA.VV.: Los Celtas en la Península Ibérica, Revista de Arqueología, Madrid, 1991
 
@@ -18,9 +24,6 @@ Aranegui, C. et al.: Los Iberos. Príncipes de Occidente, Barcelona, 1997
 
 Aubet,   Mª.E.   et   al.:   Orígenes   del   hombre   y   de  la  civilización,  Historia  Universal  Planeta  1,
 Editorial Planeta, Barcelona 1992
-
-Aurenche,   O.   y   Kozlowski,  S.K.:  El  origen  del  Neolítico  en  el  Próximo  Oriente,  Ariel  Prehistoria,
-Barcelona 2003
 
 Belén, M. y Chapa, T.: La Edad del Hierro, Ed. Síntesis, Madrid, 1997
 
@@ -35,9 +38,6 @@ Blasco, C.: El Bronce Final, Ed. Síntesis, Madrid, 1993
 Cabrera, V. et al.: Prehistoria. Manual de Historia Universal, Historia 16, Madrid, 1992
 
 Champion, T. et al.: Prehistoria de Europa, Ed. Crítica, Barcelona, 1988
-
-Contreras   et   al.:   Hace   4000  años...  Vida  y  muerte  en  dos  poblados  de  la  Alta  Andalucía,  Granada,
-1997
 
 Cunliffe, B.: Prehistoria de Europa, Ed. Crítica, Barcelona, 1988
 
@@ -68,10 +68,16 @@ Zephyrus XLVI: 123-142, 1994
 Molina,   F.   y  Cámara,  J.A.:  “Guía  del  yacimiento  arqueológico  de  Los  Millares”,  Junta  de  Andalucía,
 Sevilla, 2005
 
+Producción   de   alimentos:   Aurenche,   O.   y   Kozlowski,  S.K.:  El  origen  del  Neolítico  en  el  Próximo
+Oriente, Ariel Prehistoria, Barcelona 2003
+
 Redman, Ch.: Los orígenes de la civilización, Ed. Crítica, Barcelona, 1990
 
 Ruiz-Galvez,   M.:   “La   Edad   del   Bronce   ¿Primera   Edad   de   Oro  de  España?”,  Crítica  Arqueología,
-Barcelona, 2001
+Barcelona, 2001. Sociedades aristocráticas
+
+Sociedades   complejas   jerarquizadas:   Contreras   et   al.:   Hace   4000   años...  Vida  y  muerte  en  dos
+poblados de la Alta Andalucía, Granada, 1997
 
 Treuil,   R.   et   al.:   Las   civilizaciones   egeas  del  neolítico  y  de  la  edad  del  bronce,  Nueva  Clío,
 Barcelona, 1992
@@ -79,33 +85,23 @@ Barcelona, 1992
 Wells,   P.S.:   Granjas,   aldeas   y   ciudades.   Comercio  y  orígenes  del  urbanismo  en  la  protohistoria
 europea, Labor, Barcelona, 1988
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Collis,   J.:   La  Edad  del  Hierro  en  Europa,  Ed.  Labor,  Barcelona,  1989  Ruiz  Gálvez,  Mª.L.:  La  Europa
-Atlántica   en   la   Edad   del  Bronce.  Un  viaje  a  las  raíces  de  la  Europa  occidental,  Crítica,  Madrid,
-1998   →   Ruiz   Gálvez,  Mª.L.:  La  Europa  Atlántica  en  la  Edad  del  Bronce.  Un  viaje  a  las  raíces  de  la
-Europa occidental, Crítica, Madrid, 1998
-
-Síntesis,   Madrid,   1993   →  Delibes,  G.  y  Fernández-Miranda,  M.:  Los  orígenes  de  la  civilización.  El
-Calcolítico   en   el   Viejo   Delibes,   G.  et  al.:  El  Calcolítico  en  la  Península  Ibérica,  Rassegna  di
-Archeologia 7: 211-253, 1987.Mundo, Ed. Síntesis, Madrid, 1993
-
-Fernández   Martínez,   V.:   Prehistoria.   El  largo  camino  de  la  humanidad,  Alianza  Editorial,  Madrid,
-2007   Fullola,   J.   y   Nadal,   J.:   Introducción  a  la  Prehistoria  La  evolución  de  la  cultura  humana,
-Editorial   UOC,   Barcelona,   2005   →   Fullola,   J.   y   Nadal,   J.:   Introducción  a  la  Prehistoria  La
-evolución de la cultura humana, Editorial UOC, Barcelona, 2005
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 Collis, J.: La Edad del Hierro en Europa, Ed. Labor, Barcelona, 1989
 
 Fernández   Martínez,   V.:   Prehistoria.   El  largo  camino  de  la  humanidad,  Alianza  Editorial,  Madrid,
 2007
 
+Fullola,   J.  y  Nadal,  J.:  Introducción  a  la  Prehistoria  La  evolución  de  la  cultura  humana,  Editorial
+UOC, Barcelona, 2005
+
 Producción de alimentos
+
+Ruiz   Gálvez,   Mª.L.:   La  Europa  Atlántica  en  la  Edad  del  Bronce.  Un  viaje  a  las  raíces  de  la  Europa
+occidental, Crítica, Madrid, 1998
 
 Sociedades aristocráticas
 
 Sociedades complejas jerarquizadas
 
-📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

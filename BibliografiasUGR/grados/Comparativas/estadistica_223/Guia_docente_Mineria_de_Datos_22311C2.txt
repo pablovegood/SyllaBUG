@@ -2,11 +2,11 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 An Introduction to Statistical Learning with Applications in R. Gareth James, Daniela Witten, Trevor
 Hastie, Robert Tibshirani. Springer, 2nd ed. 2021
@@ -14,37 +14,32 @@ Hastie, Robert Tibshirani. Springer, 2nd ed. 2021
 Applied   Data   Mining:   Statistical  Methods  for  Business  and  Industry.  P.  Guidici,  S.  Figini.  Wiley,
 2nd ed. 2009
 
+Data Mining, Second Edition: Concepts and Techniques. Jiawei Han, Micheline Kamber, Jian Pei. Morgan
+Kaufmann, 2006
+
+Data   Mining:   Practical   Machine   Learning   Tools  and  Techniques.  Ian  H.  Witten,  Eibe  Frank.  Morgan
+Kaufmann, 2005
+
 Handbook   of   Computational   Statistics.   Concepts   and   Methods.   Gentle,  J.E.,  Härdle,  W.,  Mori,  Y
 Editors. Springer, 2nd ed. 2012
 
 Handbook   of   Statistical   Analysis  and  Data  Mining  Applications.  Robert  Nisbet,  John  Elder  IV,  Gary
 Miner. Academic Press; 2009
 
-The   Elements  of  Statistical  Learning:  Data  Mining,  Inference,  and  Prediction.  Trevor  Hastie,  Robert
-Tibshirani, Jerome Friedman. Springer; 2nd ed. 2009
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Wiley,   2nd   ed.   2009   7.Introducción   a  la  Minería  de  Datos.  José  Hernández  Orallo,  M.José  Ramírez
-Quintana,   Cèsar   Ferri   Ramírez.  Pearson,  2004  →  Introducción  a  la  Minería  de  Datos.  José  Hernández
-Orallo, M.José Ramírez Quintana, Cèsar Ferri Ramírez. Pearson, 2004
-
-2.Data   Mining:   Practical   Machine  Learning  Tools  and  Techniques.  Ian  H.  Witten,  Eibe  Frank.  Morgan
-Kaufmann, 2005 3.Data Mining, Second Edition: Concepts and Techniques. Jiawei Han, Micheline Kamber,
-Jian   Pei.   Morgan   Kaufmann,   2006   →   Data  Mining,  Second  Edition:  Concepts  and  Techniques.  Jiawei
-Han, Micheline Kamber, Jian Pei. Morgan Kaufmann, 2006
-
-3.Python Data Science Handbook: Essential Tools for Working with Data 2nd Edición. Jake Vanderplass.
-Editorial:   O'Reilly   2023   4.Introduction   to   Data  Mining.  Pang-Ning  Tan,  Michael  Steinbach,  Vipin
-Kumar.   Addison   Wesley,   2nd   ed.   2019  →  Python  Data  Science  Handbook:  Essential  Tools  for  Working
-with Data 2nd Edición. Jake Vanderplass. Editorial: O'Reilly 2023
-
-✅ Recursos añadidos:
-------------------------------
-Data   Mining:   Practical   Machine   Learning   Tools  and  Techniques.  Ian  H.  Witten,  Eibe  Frank.  Morgan
-Kaufmann, 2005
+Introducción   a   la   Minería   de   Datos.  José  Hernández  Orallo,  M.José  Ramírez  Quintana,  Cèsar  Ferri
+Ramírez. Pearson, 2004
 
 Introduction   to  Data  Mining.  Pang-Ning  Tan,  Michael  Steinbach,  Vipin  Kumar.  Addison  Wesley,  2nd  ed.
 2019
 
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+Python   Data   Science  Handbook:  Essential  Tools  for  Working  with  Data  2nd  Edición.  Jake  Vanderplass.
+Editorial: O'Reilly 2023
+
+The   Elements  of  Statistical  Learning:  Data  Mining,  Inference,  and  Prediction.  Trevor  Hastie,  Robert
+Tibshirani, Jerome Friedman. Springer; 2nd ed. 2009
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

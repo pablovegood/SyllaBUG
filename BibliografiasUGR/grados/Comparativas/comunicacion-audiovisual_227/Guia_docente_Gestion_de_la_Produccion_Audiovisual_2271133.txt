@@ -2,12 +2,17 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Jacoste   Quesada,  José.  El  productor  cinematográfico.  Síntesis.  Madrid.  1996  Linares  Palomar,  Rafael
+y   Fernández   Manzano,  Eva  (Coords).  Principios  básicos  de  la  producción  audiovisual  cinematográfica
+(4ª edición). Omnipress Comunicación, 2019
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
+AA.VV.   El  libro  blanco  del  audiovisual.  Cómo  producir,  distribuir  y  financiar  una  obra  audiovisual.
+Madrid. Écija & Abogados Asociados
+
 Alberich,   Jordi   &   Roig,  Antoni  (Coords.).  Comunicación  audiovisual  digital.  Nuevos  medios,  nuevos
 usos, nuevas formas. Editorial UOC. Barcelona. 2005
 
@@ -47,11 +52,18 @@ Editorial Paidós. Barcelona. 1994
 Marzal   Felici,   Javier   &   López   Cantos,   Francisco   (Coord).   Teoría   y   técnica  de  la  producción
 audiovisual. Editorial Tirant lo Blanch. Valencia. 2008
 
+Millerson, Gérad. Técnicas de producción y realización en televisión. IORTV. Madrid. 2001
+
 Morden, E. Los estudios de Hollywood. Editorial Ultramar. Barcelona. 1988
 
 Neira, Elena. Streaming Wars. La nueva televisión. Libros Cúpula. 2020
 
 Pham, A & Watson, N. The Film Marketing HandBook. Media Business School. Madrid. 1993
+
+Rabiger, Michael. Dirección de cine y video. Técnica y estética. IORTV. Madrid. 2000
+
+Rea,   Peter   W.   &  Irving,  David  K.  Producción  y  dirección  de  cortometrajes  y  videos.  Iortv.  Madrid.
+2000
 
 Sainz, Miguel. El productor audiovisual. Editorial Síntesis. Madrid. 2002
 
@@ -60,29 +72,14 @@ Sainz, Miguel. Manual básico de Producción en Televisión. Iortv. Madrid. 1995
 Wolf,   M.   J.   The   Entertainment  Economy.  How  Mega-Media  Forces  Are  Transforming  Our  Lives.  Penguin
 Books. London. 2000
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Jacoste   Quesada,  José.  El  productor  cinematográfico.  Síntesis.  Madrid.  1996  Linares  Palomar,  Rafael
-y   Fernández   Manzano,  Eva  (Coords).  Principios  básicos  de  la  producción  audiovisual  cinematográfica
-(4ª   edición).   Omnipress   Comunicación,  2019  →  Jacoste  Quesada,  José.  El  productor  cinematográfico.
-Síntesis. Madrid. 1996
+Zettl,   Herbert:   El  manual  de  producción  para  video  y  televisión.  Escuela  de  Cine  y  Vídeo.  Andoain,
+1996
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
-AA.VV.   El  libro  blanco  del  audiovisual.  Cómo  producir,  distribuir  y  financiar  una  obra  audiovisual.
-Madrid. Écija & Abogados Asociados
+Jacoste Quesada, José. El productor cinematográfico. Síntesis. Madrid. 1996
 
 Linares   Palomar,   Rafael   y   Fernández   Manzano,   Eva  (Coords).  Principios  básicos  de  la  producción
 audiovisual cinematográfica (5ª edición). Omnipress Comunicación, 2021
 
-Millerson, Gérad. Técnicas de producción y realización en televisión. IORTV. Madrid. 2001
-
-Rabiger, Michael. Dirección de cine y video. Técnica y estética. IORTV. Madrid. 2000
-
-Rea,   Peter   W.   &  Irving,  David  K.  Producción  y  dirección  de  cortometrajes  y  videos.  Iortv.  Madrid.
-2000
-
-Zettl,   Herbert:   El  manual  de  producción  para  video  y  televisión.  Escuela  de  Cine  y  Vídeo.  Andoain,
-1996
-
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

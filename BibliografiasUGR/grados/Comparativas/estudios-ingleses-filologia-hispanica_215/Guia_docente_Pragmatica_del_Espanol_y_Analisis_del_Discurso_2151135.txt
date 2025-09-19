@@ -2,12 +2,15 @@
 Grado: estudios-ingleses-filologia-hispanica (215)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (41):
 ------------------------------
+Barcelona:   Akal  Martín  Zorraquino,  M.ª  A.  &  Montolío  Durán,  E.  (coords.)  (1998).  Los  marcadores  del
+discurso. Madrid: Arco/Libros
+
 Beaugrande,   R.   A.  de  &  Dressler,  W.  U.  (1997).  Introducción  a  la  lingüística  del  texto.  Barcelona:
 Ariel
 
@@ -37,7 +40,7 @@ foro. Madrid: Arco Libros
 
 Dijk, T. A. van (1996). La ciencia del texto. Barcelona: Paidós
 
-Escandell Vidal, M.ª V. (1996). Introducción a la pragmática. Barcelona: Ariel
+Escandell Vidal, M.ª V. (1996). Introducción a la Pragmática. Barcelona: Ariel
 
 Escandell Vidal, M.ª V. (2005). La comunicación. Madrid: Gredos
 
@@ -61,6 +64,9 @@ Haverkate, H. (1994). La cortesía verbal. Madrid: Gredos
 
 Herrero   Cecilia,   J.   (2006).   Teorías   de   pragmática,   de   lingüística   textual  y  de  análisis  del
 discurso. Cuenca: Universidad de Castilla la Mancha
+
+Kathleen   Ahern,  A.;  Amenós  Pons,  J.  &  Escandell  Vidal,  M.ª  V.  (eds.)  (2021).  Pragmática.  Barcelona:
+Akal
 
 Leech, G. N. (1983). Principles of Pragmatics Londres: Longman
 
@@ -90,7 +96,7 @@ Reyes, G. (1990). La pragmática lingüística. Barcelona: Montesinos
 
 Reyes, G. (1995). El abecé de la pragmática. Madrid: Arco Libros
 
-Sperber, D. & Wilson, D. (1994). La relevancia. Madrid: Visor
+Sperber, D. & Wilson, D. (1994). La relevancia. Madrid. Visor
 
 Tusón Valls, A. (1997). Análisis de la conversación. Barcelona: Ariel
 
@@ -98,24 +104,14 @@ Verschueren, J. (2002). Para entender la pragmática. Madrid: Gredos
 
 Yus Ramos, F. (2001): Ciberpragmática. El uso del lenguaje en Internet. Barcelona: Ariel
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Kathleen   Ahern,  A.;  Amenós  Pons,  J.  &  Escandell  Vidal,  M.ª  V.  (eds.)  (2021).  Pragmática.  Barcelona:
-Akal   Martín   Zorraquino,  M.ª  A.  &  Montolío  Durán,  E.  (coords.)  (1998).  Los  marcadores  del  discurso.
-Madrid:   Arco/Libros   →   Martín   Zorraquino,   M.ª   A.   &   Montolío   Durán,   E.  (coords.)  (1998).  Los
-marcadores del discurso. Madrid: Arco/Libros
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Culpeper,   J.  (2011).  Impoliteness:  Using  Language  to  Cause  Offence.  Cambridge:  Cambridge  University
 Press
-
-Kathleen   Ahern,  A.;  Amenós  Pons,  J.  &  Escandell  Vidal,  M.ª  V.  (eds.)  (2021).  Pragmática.  Barcelona:
-Akal
 
 Reyes,   G.   (2018).   Palabras   en  contexto.  Pragmática  y  otras  teorías  del  significado.  Madrid:  Arco
 Libros
 
 Ruiz Gurillo, L. (2012). La lingüística del humor en español. Madrid: Arco Libros
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

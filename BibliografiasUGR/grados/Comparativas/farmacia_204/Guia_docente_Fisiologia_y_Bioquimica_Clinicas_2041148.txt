@@ -2,30 +2,34 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-MUNDT,   L.   A.   y   SHANAHAN,   K.   GRAFF,  Análisis  de  orina  y  de  los  líquidos  corporales.  2"  Edición.
-Editorial Médica Panamericana, 2015
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (2):
 ------------------------------
 BIOQUÍMICA   CLÍNICA  Gaw,  Cowan  &  O´Reilly.  "Bioquímica  Clínica".  Ed  Harcourt.  5ª  Ed.  2015  Ruiz  Reyes
 &   Ruiz   Argüelles.   "Fundamentos   de   interpretación   clínica   de  los  exámenes  de  laboratorio".  Ed.
 Panamericana.   3ª   Ed.   2017  González  de  Buitrago  JM,  Arila  Ferreiro  A,  Rodríguez-Segade  M  &  Sánchez
 Pozo   A   "Bioquímica   Clínica".   McGraw-Hill   /   Interamericana   de   España.   2002  Sánchez  de  Medina
-Contreras F, Sánchez Pozo A & Suárez Ortega MD. "Apuntes de Bioquímica Clínica". ICE, Universidad de
-Granada. 1994
+Contreras   F,   Sánchez   Pozo  A  &  Suárez  Ortega  MD.  "Apuntes  de  González  A.  "Principios  de  Bioquímica
+Clínica   y   Patología   Molecular".   Elsevier   España   3ª  Ed.  2019  Marshall  WJ,  Bauyert  S  &Lapsley  M.
+"Bioquímica   Clínica".Elsevier  Moshy,  7ª  Edición,  Bishop  ML,  Fody  EP  y  Schoeff  LE.  "Química  Clínica.
+Principios técnicas y correlaciones" Wolters Kluwer. 8ª Edición. 2019 Gil A. Tratado de Nutrición. 4
+edición,   Editorial   Panamericana.   Tomo   I,   II   y   V   ALTHOF,  S,  KINDLER  J,  HEINTZ  R.  El  sedimento
+urinario: atlas, técnicas de estudio, valoración. 6ª Edición. Editorial Panamericana, 2003
 
+MUNDT,   L.   A.   y   SHANAHAN,   K.   GRAFF,  Análisis  de  orina  y  de  los  líquidos  corporales.  2"  Edición.
+Editorial Médica Panamericana, 2015
+
+📚 Recursos sin cambios (14):
+------------------------------
 CARR   J.  H.  y  RODAK  B.  F.  Atlas  de  Hematología  Clínica.  6  ª  Edición  Ed.  Médica  Panamericana,  Madrid,
 2023
 
 DICCIONARIO   TÉRMINOS   MÉDICOS.   Real  Academia  Nacional  de  Medicina.  Editorial  Panamericana.  España,
 2021
 
-GIL, J. L. Hematología sin microscopio: el hemograma en la práctica clínica, 1ª ed., Masson, 2003
+FISIOLOGÍA   CLÍNICA   KAUSHANSKY  K,  LICHTMAN  MA,  PRCHAL  J,  LEVI  MM,  PRESS  OV,  BURNS  LJ,  CATIGLURI  MA.
+Williams, Manual de Hematología. 9ª Edición. Editorial MC Graw-Hill. Interamericana. 2016
 
-KAUSHANSKY   K,  LICHTMAN  MA,  PRCHAL  J,  LEVI  MM,  PRESS  OV,  BURNS  LJ,  CATIGLURI  MA.  Williams,  Manual  de
-Hematología. 9ª Edición. Editorial MC Graw-Hill. Interamericana. 2016
+GIL, J. L. Hematología sin microscopio: el hemograma en la práctica clínica, 1ª ed., Masson, 2003
 
 LICHTMAN   MA,   KAUSHANSKY   K,   KIPPS   TJ,   PRCHAL   JT,   LEVI  MM.  Williams,  Manual  de  Hematología.  8ª
 Edición. Editorial MC Graw-Hill. Interamericana. 2014
@@ -56,26 +60,12 @@ Elsevier España. Barcelona, 2014
 WEKSLER   BB,   SCHECHTER   GP,   ELY   S.   Wintrobe's   Atlas  of  Clinical  Hematology.  2ª  edition.  Wolters
 Kluwer, 2017
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Editorial   Elsevier   España.  Barcelona,  2014  →  González  de  Buitrago  JM,  Arila  Ferreiro  A,  Rodríguez-
-Segade M & Sánchez Pozo A "Bioquímica Clínica". McGraw-Hill / Interamericana de España. 2002
-
-González   A.   "Principios   de  Bioquímica  Clínica  y  Patología  Molecular".  Elsevier  España  3ª  Ed.  2019
-Marshall   WJ,  Bauyert  S  &Lapsley  M.  "Bioquímica  Clínica".Elsevier  Moshy,  7ª  Edición,  Bishop  ML,  Fody
-EP   y  Schoeff  LE.  "Química  Clínica.  Principios  técnicas  y  correlaciones"  Wolters  Kluwer.  8ª  Edición.
-2019   Gil   A.   Tratado   de   Nutrición.   4  edición,  Editorial  Panamericana.  Tomo  I,  II  y  V  ALTHOF,  S,
-KINDLER   J,   HEINTZ   R.   El   sedimento  urinario:  atlas,  técnicas  de  estudio,  valoración.  6ª  Edición.
-Editorial   Panamericana,   2003   →   Marshall   WJ,  Bauyert  S  &Lapsley  M.  "Bioquímica  Clínica".Elsevier
-Moshy, 7ª Edición, 2013
-
-Interamericana.   2016   →   González   de   Buitrago   JM,  Arila  Ferreiro  A,  Rodríguez-Segade  M  &  Sánchez
-Pozo A "Bioquímica Clínica". McGraw-Hill / Interamericana de España. 2002
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (12):
 ------------------------------
 ALTHOF,   S,   KINDLER   J,  HEINTZ  R.  El  sedimento  urinario:  atlas,  técnicas  de  estudio,  valoración.  6ª
 Edición. Editorial Panamericana, 2003
+
+BIOQUÍMICA CLÍNICA
 
 Bishop   ML,   Fody   EP   y   Schoeff  LE.  "Química  Clínica.  Principios  técnicas  y  correlaciones"  Wolters
 Kluwer. 8ª Edición. 2019
@@ -88,8 +78,13 @@ Gil A. Tratado de Nutrición. 4 edición, Editorial Panamericana. Tomo I, II y V
 
 González A. "Principios de Bioquímica Clínica y Patología Molecular". Elsevier España 3ª Ed. 2019
 
+González de Buitrago JM, Arila Ferreiro A, Rodríguez-Segade M & Sánchez Pozo A "Bioquímica Clínica".
+McGraw-Hill / Interamericana de España. 2002
+
 KING   STRASINGER  SM  SCHAUB  DI  LORENZO  M.  "Análisis  de  orina  y  de  los  líquidos  corporales"  de  Mundt  y
 Shanahan: 7ª Edición. Editorial Médica Panamericana, 2023
+
+Marshall WJ, Bauyert S &Lapsley M. "Bioquímica Clínica".Elsevier Moshy, 7ª Edición, 2013
 
 Ruiz Reyes & Ruiz Argüelles. "Fundamentos de interpretación clínica de los exámenes de laboratorio".
 Ed. Panamericana. 3ª Ed. 2017
@@ -97,4 +92,4 @@ Ed. Panamericana. 3ª Ed. 2017
 Sánchez   de   Medina  Contreras  F,  Sánchez  Pozo  A  &  Suárez  Ortega  MD.  "Apuntes  de  Bioquímica  Clínica".
 ICE, Universidad de Granada. 1994
 
-📊 Porcentaje estimado de cambio: 61% [██████░░░░]
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

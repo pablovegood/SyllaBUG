@@ -2,11 +2,14 @@
 Grado: trabajo-social (249)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Iglesias   de   Ussel,  J.,  Trinidad  Requena,  A.  y  Soriano  Miras,  R.  (Coord.)  (2018).  La  sociedad  desde
+la         Sociología        (2ª        edición).        Tecnos.        Enlace        formato        ebook:
+http://www.tecnos.es/ficha.php?id=5730238&id_clase=219190   Marqués   Perales,  I.  (2015).  La  movilidad
+de clases en España. Los libros de la catarata. (CPS/316.44 MAR mov)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
 Ayala   Cañón,  L.  y  Ruiz  Huerta  Carbonell,  J.  (Dirs.)  (2015).  Segundo  Informe  sobre  la  desigualdad  en
 España: 2015. Fundación Alternativas. (ETS/ R22 INF inf)
@@ -22,6 +25,10 @@ Campo, S. del y Tezanos, J.F. (Dirs) (2008). España, Siglo XXI. Biblioteca Nuev
 Carabaña,   J.  (Coord.)  (1995).  Desigualdad  y  estructura  de  clases.  Un  seminario  en  torno  a  Erik  Olin
 Wright. Visor
 
+Contreras-Montero,   B.   (2020).   Una   revisión  del  concepto  de  exclusión  social  y  su  aplicación  a  la
+sociedad   española   tras   la  crisis  económica  mundial.  Una  visión  de  proceso.  Trabajo  Social  Global-
+Global Social Work, 10(19), 3-24. https://doi.org/10.30827/tsg-gsw.v10i19.13582
+
 Dahrendorf, R. (1990). El conflicto social moderno. Mondadori
 
 Esping Andersen, G. (2000). Fundamentos sociales de las economías postindustriales. Ariel
@@ -31,10 +38,11 @@ Feito, R. (1995). Mujeres y análisis de clase. REIS, 69:149-171
 Fundación   FOESSA   (2014).   VII   Informe   sobre   exclusión   y   desarrollo   social  en  España.  Cáritas
 española. (CPS/308 INF foe)
 
+Fundación   FOESSA   (2019).  VIII  Informe  sobre  exclusión  y  desarrollo  social  en  España:  2019.  Cáritas
+española. (CPS/308 INF foe 2019)
+
 García   Ferrando,   M.   (Coord.)   (2010).   Pensar   nuestra   sociedad  globalizada:  una  invitación  a  la
 sociología. Tirant lo Blanch. http://biblioteca.nubedelectura.com/cloudLibrary/login/auth
-
-Giddens, A. y Sutton, P. W. (2018). Sociología (8ª edición). Alianza
 
 Giner,   S.,   Lamo   De   Espinosa,   E.  y  Torres,  C.  (Eds.)  (1998).  Diccionario  de  Sociología.  Alianza.
 (CPS/D 316 DIC soc)
@@ -42,15 +50,8 @@ Giner,   S.,   Lamo   De   Espinosa,   E.  y  Torres,  C.  (Eds.)  (1998).  Dicc
 González,   J.   J.   y   Requena,   M.   (Eds.)  (2005).  Tres  décadas  de  cambio  social  en  España.  Alianza.
 (CPS/316,4 GON tre)
 
-Iglesias   de   Ussel,  J.,  Trinidad  Requena,  A.  y  Soriano  Miras,  R.  (Coord.)  (2018).  La  sociedad  desde
-la         Sociología        (2ª        edición).        Tecnos.        Enlace        formato        ebook:
-http://www.tecnos.es/ficha.php?id=5730238&id_clase=219190
-
 Lucas   Marín,   A.   (Ed.)  (2010).  La  realidad  social:  transformaciones  recientes  en  España.  Ediciones
 Universidad de Navarra. (CPS/316 34 MAR est)
-
-Marqués Perales, I. (2015). La movilidad de clases en España. Los libros de la catarata. (CPS/316.44
-MAR mov)
 
 Martínez García, J. S. (2013). Estructura social y desigualdad en España. Los libros de la catarata.
 (CPS/316 MAR est)
@@ -81,34 +82,25 @@ sobre Tendencias Sociales. Ed. Sistema. (CPS/364 TEZ ten)
 
 Therborn, G. (2015). La desigualdad mata. Alianza editorial. (CPS/364 THE des)
 
+Trabajo Social Global-Global Social Work, 10(19), 3-24. https://doi.org/10.30827/tsggsw.v10i19.13582
+Kerbo,   H.R.   (2004).   Estratificación   Social   y   Desigualdad.   Conflicto   de   clase  en  perspectiva
+histórica, comparada y global (5ª Edición). Madrid: Mc Graw Hill. (CPS/316.34 KER est)
+
 Wacquant,   Loïc   (2010).   Castigar   a   los   pobres:  el  gobierno  neoliberal  de  la  inseguridad  social.
 Gedisa. (CPS/329.12 WAC cas)
 
 Wright, E. O. (2018). Comprender las clases sociales. Akal. (CPS/316/34 WRI com)
 
-🔁 Misma obra con edición/año distinto:
+http://biblioteca.nubedelectura.com/cloudLibrary/login/auth   Giddens,   A.   y   Sutton,   P.  W.  (2018).
+Sociología (8ª edición). Alianza
+
+✅ Recursos añadidos (2):
 ------------------------------
-Fundación   FOESSA   (2019).   VIII   Informe   sobre  exclusión  y  desarrollo  social  en  España  →  Fundación
-FOESSA (2014). VII Informe sobre exclusión y desarrollo social en España. Cáritas española. (CPS/308
-INF foe)
+Iglesias   de   Ussel,  J.,  Trinidad  Requena,  A.  y  Soriano  Miras,  R.  (Coord.)  (2018).  La  sociedad  desde
+la         Sociología        (2ª        edición).        Tecnos.        Enlace        formato        ebook:
+http://www.tecnos.es/ficha.php?id=5730238&id_clase=219190
 
-2019.   Cáritas   española.   (CPS/308   INF   foe   2019)   →   Fundación   FOESSA  (2014).  VII  Informe  sobre
-exclusión y desarrollo social en España. Cáritas española. (CPS/308 INF foe)
+Marqués Perales, I. (2015). La movilidad de clases en España. Los libros de la catarata. (CPS/316.44
+MAR mov)
 
-Contreras-Montero,   B.   (2020).   Una   revisión  del  concepto  de  exclusión  social  y  su  aplicación  a  la
-sociedad   española   tras  la  crisis  económica  mundial.  Una  visión  de  proceso.  gsw.v10i19.13582  Kerbo,
-H.R.   (2004).   Estratificación   Social   y   Desigualdad.  Conflicto  de  clase  en  perspectiva  histórica,
-comparada   y   global   (5ª  Edición).  Madrid:  Mc  Graw  Hill.  (CPS/316.34  KER  est)  →  Kerbo,  H.R.  (2004).
-Estratificación   Social   y   Desigualdad.   Conflicto   de   clase  en  perspectiva  histórica,  comparada  y
-global (5ª Edición). Madrid: Mc Graw Hill. (CPS/316.34 KER est)
-
-✅ Recursos añadidos:
-------------------------------
-Contreras-Montero,   B.   (2020).   Una   revisión  del  concepto  de  exclusión  social  y  su  aplicación  a  la
-sociedad   española   tras   la  crisis  económica  mundial.  Una  visión  de  proceso.  Trabajo  Social  Global-
-Global Social Work, 10(19), 3-24. https://doi.org/10.30827/tsg-gsw.v10i19.13582
-
-Fundación   FOESSA   (2019).  VIII  Informe  sobre  exclusión  y  desarrollo  social  en  España:  2019.  Cáritas
-española. (CPS/308 INF foe 2019)
-
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

@@ -2,14 +2,29 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-Editorial Paraninfo, Madrid, 1993
+McGraw   Hill,   2019  Mecánica  para  ingeniería.  Estática,  A.  Bedford,  y  W.  Fowler.  Edt.  Addison-Wesley
+Iberoamericana,   USA,  1996  Curso  de  física  aplicada.  Estática,  F.  Belmar,  A.  Garmendia,  J.  Llinares.
+Publicación de la Universidad Politécnica de Valencia
 
-📚 Recursos sin cambios:
+Mundi Prensa Madrid 2002 Mecánica. Problemas de Exámenes Resueltos. J.M. de Juana Sardón, A. Herrero
+García. Editorial Paraninfo, Madrid, 1993
+
+Portí,   Editorial  Técnica  Avicam-Fleming,  Granada,  España,  2016  Mecánica  para  ingenieros.  Estática  y
+Dinámica,   M.   Vázquez,   E.  López.  Edt.  Noela,  Madrid,  Vector  Mechanics  for  Engineers:  Statics,  12th
+Edition., F.B. Beer, E.R. Johnston. Edt
+
+📚 Recursos sin cambios (16):
 ------------------------------
 Curso   de   Física   Aplicada:  Problemas  de  Estática,  H.  Estellés,  M.  Mart,  J.L.  Montalvá,  J.  Pascual.
 Publicación de la Universidad Politécnica de Valencia, 1989
+
+Engineering   Statics:  Open  and  Interactive.  D.  W.  Baker,  Colorado  State  University,  2020.  Publisher:
+Daniel Baker and William Haynes
+
+Estática   para   Arquitectos   e   Ingenieros   (incluye   ejemplos   resueltos   con   WxMAxima),  J.  Portí,
+Editorial Técnica Avicam-Fleming, Granada, España, 2016
 
 Fundamentos físicos de la construcciones arquitectónicas. Volumen I: Vectores deslizantes, geometría
 de   masas  y  estática,  A.  Durá  Domenech,  J.  Vera  Guarinos.  Publicación  de  la  Universidad  de  Alicante,
@@ -28,6 +43,9 @@ Interamericana, México, 2005
 
 Física para Ciencias e Ingenierías. Vol. I. R.A. Serway y J.W. Jewett. Ed. Thomson, México, 1996
 
+Física   para   la   Ciencia  y  la  Tecnología  (Vol.  I  y  II).  P.A.  Tipler  y  G.  Mosca,  Reverté,  Barcelona,
+2004
+
 La Física en Problemas. F.A. González. Ed. Tébar Flores, Albacete, 1995
 
 Lecciones de Física. Mecánica. Vols. I-IV. M.R. Ortega. Editor: M.R. Ortega Girón, Córdoba, 2006
@@ -36,50 +54,28 @@ Problemas de Física (Resueltos). M.R. Ortega. Editor: M.R. Ortega Girón, Córd
 
 Problemas de Física general. F.A. González, M. Martínez Hernández. Ed. Tebar Flores. Albacete, 1978
 
-Problemas de Física. J. Aguilar, J. Casanova, Ed. Alhambra, Madrid, 1985
-
 Problemas   y   Cuestiones   de  Física.  A.  Lleó,  B.  Betete,  J.  Galeano,  L  Lleó,  I.  Ruiz-Tapiador.  Mundi
 Prensa Madrid 2002
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Física   para   la   Ciencia  y  la  Tecnología  (Vol.  I  y  II).  P.A.  Tipler  y  G.  Mosca,  Reverté,  Barcelona,
-2004.   Engineering   Statics:   Open   and   Interactive.   D.  W.  Baker,  Colorado  State  University,  2020.
-Publisher:   Daniel   Baker   and   William   Haynes   Textos   de   problemas   y  aplicaciones  →  Engineering
-Statics: Open and Interactive. D. W. Baker, Colorado State University, 2020. Publisher: Daniel Baker
-and William Haynes
+Publisher:   Daniel  Baker  and  William  Haynes  Textos  de  problemas  y  aplicaciones:  Problemas  de  Física.
+J. Aguilar, J. Casanova, Ed. Alhambra, Madrid, 1985
 
-Tébar.   Madrid,   2004.   Curso   de  Física  Aplicada:  Problemas  de  Estática,  H.  Estellés,  M.  Mart,  J.L.
-Montalvá,   J   →   Curso   de   Física   Aplicada:   Problemas   de   Estática,   H.   Estellés,  M.  Mart,  J.L.
-Montalvá, J. Pascual. Publicación de la Universidad Politécnica de Valencia, 1989
-
-Mundi Prensa Madrid 2002 Mecánica. Problemas de Exámenes Resueltos. J.M. de Juana Sardón, A. Herrero
-García   →   Mecánica.   Problemas   de   Exámenes   Resueltos.   J.M.   de  Juana  Sardón,  A.  Herrero  García.
-Editorial Paraninfo, Madrid, 1993
-
-Portí,   Editorial  Técnica  Avicam-Fleming,  Granada,  España,  2016  Mecánica  para  ingenieros.  Estática  y
-Dinámica,   M.   Vázquez,   E.  López.  Edt.  Noela,  Madrid,  Vector  Mechanics  for  Engineers:  Statics,  12th
-Edition.,   F.B.   Beer,   E.R.  Johnston.  Edt  →  Vector  Mechanics  for  Engineers:  Statics,  12th  Edition.,
-F.B. Beer, E.R. Johnston. Edt. McGraw Hill, 2019
-
-McGraw   Hill,   2019  Mecánica  para  ingeniería.  Estática,  A.  Bedford,  y  W.  Fowler.  Edt.  Addison-Wesley
-Iberoamericana,   USA,  1996  Curso  de  física  aplicada.  Estática,  F.  Belmar,  A.  Garmendia,  J.  Llinares.
-Publicación   de   la   Universidad   Politécnica   de   Valencia  →  Mecánica  para  ingeniería.  Estática,  A.
-Bedford, y W. Fowler. Edt. Addison-Wesley Iberoamericana, USA, 1996
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Curso   de   física   aplicada.   Estática,   F.   Belmar,   A.   Garmendia,   J.  Llinares.  Publicación  de  la
 Universidad Politécnica de Valencia
 
-Estática   para   Arquitectos   e   Ingenieros   (incluye   ejemplos   resueltos   con   WxMAxima),  J.  Portí,
-Editorial Técnica Avicam-Fleming, Granada, España, 2016
-
-Física   para   la   Ciencia  y  la  Tecnología  (Vol.  I  y  II).  P.A.  Tipler  y  G.  Mosca,  Reverté,  Barcelona,
-2004
-
 Mecánica para ingenieros. Estática y Dinámica, M. Vázquez, E. López. Edt. Noela, Madrid, 1995
 
-Textos de problemas y aplicaciones
+Mecánica   para   ingeniería.   Estática,   A.  Bedford,  y  W.  Fowler.  Edt.  Addison-Wesley  Iberoamericana,
+USA, 1996
 
-📊 Porcentaje estimado de cambio: 52% [█████░░░░░]
+Mecánica.   Problemas   de   Exámenes   Resueltos.   J.M.   de   Juana  Sardón,  A.  Herrero  García.  Editorial
+Paraninfo, Madrid, 1993
+
+Problemas de Física. J. Aguilar, J. Casanova, Ed. Alhambra, Madrid, 1985
+
+Vector   Mechanics  for  Engineers:  Statics,  12th  Edition.,  F.B.  Beer,  E.R.  Johnston.  Edt.  McGraw  Hill,
+2019
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

@@ -2,22 +2,27 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-2019.   Examen   sobre   la   parte   práctica   de   la   asignatura:   40%.  Consistirá  en  la  realización  de
-comentarios   escritos   sobre  algunos  de  los  textos  trabajados  durante  el  curso  y/o  de  un  examen  oral
-sobre esos mismos textos
+http://www.antorcha.net/biblioteca_virtual/filosofia/schiller/presentacion.html
 
-Tema 5 Torrejón de Ardoz: Akal, 2007
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (77):
 ------------------------------
+Addison,   Joseph.   Los  placeres  de  la  imaginación  y  otros  ensayos  de  "The  Spectator".  Madrid:  Visor,
+1991
+
 Adorno, Theodor W. Sobre la música. Introducción de Gerard Vilar. Barcelona: Paidós, 2004
+
+Adorno, Theodor W. Teoría estética. Tres Cantos: Akal, 2004
 
 Aranda   Torres,   Cayetano.   Guía   para  el  estudio  de  la  estética  contemporánea.  Almería:  Servicio  de
 Publicaciones de la Universidad de Almería, 2000
 
+Aristóteles. Poética. Madrid: Editora Nacional, 1984
+
 Azúa, Félix de. Diccionario de las Artes. Planeta: Barcelona, 1995
+
+Barcelona: José J. de Olañeta, 2000
 
 Baudelaire,   Charles.   El   pintor   de   la   vida   moderna.   Murcia:  Colegio  Oficial  de  Aparejadores  y
 Arquitectos Técnicos, 1995
@@ -29,36 +34,60 @@ Benjamin, Walter. Baudelaire / Walter Benjamin. Madrid: Abada, 2014
 
 Benjamin, Walter. Discursos interrumpidos. Madrid: Taurus, 1990
 
+Bowie,   Andrew.   Estética   y   subjetividad.   La   filosofía   alemana   de  Kant  a  Nietzsche  y  la  teoría
+estética actual. Madrid: Visor, 1990
+
 Burckhardt, Jacob. Del paganismo al cristianismo. México, D.F.: FCE, 1982
 
-Burckhardt,   Titus.   “Fundamentos   del   arte   musulmán”.   En:  Principios  y  métodos  del  arte  sagrado.
-Barcelona: José J. de Olañeta, 2000
+Burckhardt, Titus. “Fundamentos del arte musulmán”. En: Principios y métodos del arte sagrado
+
+Burke,   Edmund.  Indagación  filosófica  sobre  el  origen  de  nuestras  ideas  acerca  de  lo  sublime  y  de  lo
+bello. Madrid: Alianza Editorial, 2014
 
 Byung-Chul   Han,   Shanzhai.   El  arte  de  la  falsificación  y  la  deconstrucción  en  China,  Buenos  Aires:
 Caja Negra Editora, 2016
 
 Calabrese, Omar. La era neobarroca. Madrid: Cátedra, 2008
 
+Calvo Martínez, Tomás. De los sofistas a Platón: política y pensamiento. Madrid: Cincel, 1986
+
 Colli, Giorgio. El nacimiento de la filosofía. Barcelona: Tusquets, 1994
 
 Danto,   Arthur   Coleman.   Después  del  fin  del  arte:  el  arte  contemporáneo  y  el  linde  de  la  historia.
 Barcelona: Paidós, 2002
 
+Danto,   Arthur   Coleman.   El   abuso   de   la   belleza:  la  estética  y  el  concepto  del  arte.  Barcelona:
+Paidós, 2005
+
 Danto, Arthur Coleman. “El final del arte”. En: El paseante, 1995 (22-23), pp. 30-54
+
+De   la   Calle,  Román.  Gusto,  Belleza  y  Arte.  Doce  ensayos  de  Historia  de  la  estética  y  teoría  de  las
+artes. Salamanca: Universidad, 2006
 
 Deleuze, Gilles. El pliegue. Leibniz y el Barroco. Barcelona: Paidós Ibérica, 1989
 
 Descartes, René. Discurso del método y Meditaciones metafísicas. Madrid: Tecnos, 2008
 
+Estrada Herrero, David. Estética. Barcelona: Herder, 1988
+
 Fernández   Arenas,   Arsenio.   “La  imagen  espiritual  de  la  catedral  gótica”.  En:  Tierras  de  León  1964
 (4), núm. 5, p. 83-98
 
+Gadamer,   Hans-Georg.   La   actualidad   de  lo  bello:  el  arte  como  juego,  símbolo  y  fiesta.  Barcelona:
+Paidós, 1991
+
 García, Víctor. La sabiduría oriental: taoísmo, budismo, confucianismo. Madrid: Cincel, 1988
+
+Goodman,   Nelson.   Los   lenguajes   del   arte:   aproximación   a  la  teoría  de  los  símbolos.  Barcelona:
+Paidós, 2010
 
 Gracián, Baltasar. El arte de la prudencia. Madrid: Ediciones Planeta, 2010
 
 Hadot,   Pierre.   La   filosofía   como   forma   de  vida.  Conversaciones  con  Jeannie  Carlier  y  Arnold  I.
 Davidson. Barcelona: Alpha Decay, 2009, pp. 151-182)
+
+Hegel,   Georg   Wilhelm   Friedrich,   Lecciones   sobre  la  estética.  Traducción,  Alfredo  Brotóns  Muñoz.
+Torrejón de Ardoz: Akal, 2007
 
 Heidegger, Martin. Caminos del bosque. Madrid: Alianza, 1984
 
@@ -83,6 +112,13 @@ Kristeller, Paul Oskar. Ocho filósofos del Renacimiento italiano. México, D.F.
 
 López Castellón, Enrique. Simbolismo y bohemia, la Francia de Baudelaire. Madrid: Akal, 1999
 
+Maillard,   Chantal,   La   sabiduría   como   estética.  China:  confucianismo,  taoísmo  y  budismo,  Madrid:
+Akal, 2000
+
+Maquiavelo. El príncipe. Madrid: Cátedra
+
+Maravall, José Antonio. La cultura del Barroco
+
 Marx, Karl. Manuscritos: economía y filosofía. Madrid: Alianza Editorial, 1995
 
 Meenee, Harita. Neopaganismo. El renacimiento de la antigua religión. Castellón: Ellago, 2010
@@ -99,8 +135,6 @@ Editorial, 2011
 Nietzsche,   Friedrich.   El   nacimiento   de  la  tragedia  o  Grecia.  Introducción,  traducción  y  notas  de
 Andrés Sánchez Pascual. Madrid: Alianza Editorial, 2011
 
-Orozco Díaz, Emilio. Introducción al Barroco. Granada: Universidad de Granada, 1988
-
 Ortega y Gasset, José, La deshumanización del arte, Madrid: Alianza Editorial, 1981
 
 Pardo,   José  Luis,  La  regla  del  juego.  Sobre  la  dificultad  de  aprender  filosofía,  Barcelona,  Círculo
@@ -113,18 +147,33 @@ Platón. Diálogos. Madrid: Gredos, 1999
 
 Plotino. Sobre la belleza. Barcelona: José J. de Olañeta, 2007
 
+Pérez Agüero, Carlos. “El románico y el gótico: reflejo de la ciudad cristiana”
+
 Reale,   Giovanni   y   Antiseri,   Dario.   Historia   de  la  filosofía.  De  la  Antigüedad  a  la  Edad  Media.
 Filosofía antigua-pagana. Barcelona: Herder, 2010
 
 Reale,   Giovanni   y   Antiseri,   Dario.   Historia   de  la  filosofía.  De  la  Antigüedad  a  la  Edad  Media.
 Patrística y Escolástica. Barcelona: Herder, 2010
 
+Reale,   Giovanni   y  Antiseri,  Dario.  Historia  de  la  filosofía.  Del  Humanismo  a  Descartes.  Barcelona:
+Herder, 2010
+
 Rubia,   Leopoldo  La.  La  aventura  de  la  abstracción.  Fenomenología  de  la  abstracción  en  el  arte  desde
 el Paleolítico a las Neovanguardias. Granada: Comares, 2015
+
+Schiller,   Friedrich.   Cartas   sobre   la   educación   estética   del   hombre.   Madrid:   Aguilar,  1969.
+http://www.antorcha.net/biblioteca_virtual/filosofia/schiller/presentacion.html
+
+Tatarkiewicz, Wladyslaw. Historia de la estética. 3 vols. Madrid, Akal, 2007
+
+Tatarkiewicz, Wladyslaw. Historia de la estética. III. La estética moderna (1400-1700). Madrid: Akal
+, 2004
 
 Trías, Eugenio. El artista y la ciudad. Barcelona: Anagrama, 1983
 
 Trías, Eugenio. Lo bello y lo siniestro. Barcelona: Ariel, 2011
+
+Valverde, José María. Breve historia y antología de la estética. Barcelona: Ariel, 2009
 
 Valverde,    José    María.    Vida    y    muerte    de   las   ideas.   Pequeña   historia   del   pensamiento
 occidental.Barcelona: Ariel, 2008
@@ -144,72 +193,12 @@ Madrid: Gredos, 2009
 
 Wölfflin, Heinrich. Conceptos fundamentales de la historia del arte. Madrid: Austral, 2009
 
-🔁 Misma obra con edición/año distinto:
+Zúñiga, José F. Estética y hermenéutica. Fundamentos de filosofía del arte. Granada: Comares, 2019
+
+✅ Recursos añadidos (2):
 ------------------------------
-Burke,   Edmund.  Indagación  filosófica  sobre  el  origen  de  nuestras  ideas  acerca  de  lo  sublime  y  de  lo
-bello.   Madrid:   Alianza   Editorial,   2014.   artes.   Salamanca:   Universidad,   2006  →  Burke,  Edmund.
-Indagación   filosófica  sobre  el  origen  de  nuestras  ideas  acerca  de  lo  sublime  y  de  lo  bello.  Madrid:
-Alianza Editorial, 2014
-
-Calvo   Martínez,   Tomás.   De   los   sofistas   a  Platón:  política  y  pensamiento.  Madrid:  Cincel,  1986.
-Madrid:   Akal,   2000   →   Calvo   Martínez,   Tomás.   De  los  sofistas  a  Platón:  política  y  pensamiento.
-Madrid: Cincel, 1986
-
-✅ Recursos añadidos:
-------------------------------
-Addison,   Joseph.   Los  placeres  de  la  imaginación  y  otros  ensayos  de  "The  Spectator".  Madrid:  Visor,
-1991
-
-Adorno, Theodor W. Teoría estética. Tres Cantos: Akal, 2004
-
-Aristóteles. Poética. Madrid: Editora Nacional, 1984
-
-Barcelona: José J. de Olañeta, 2000
-
-Bowie,   Andrew.   Estética   y   subjetividad.   La   filosofía   alemana   de  Kant  a  Nietzsche  y  la  teoría
-estética actual. Madrid: Visor, 1990
-
-Danto,   Arthur   Coleman.   El   abuso   de   la   belleza:  la  estética  y  el  concepto  del  arte.  Barcelona:
-Paidós, 2005
-
-De   la   Calle,  Román.  Gusto,  Belleza  y  Arte.  Doce  ensayos  de  Historia  de  la  estética  y  teoría  de  las
-artes. Salamanca: Universidad, 2006
-
-Estrada Herrero, David. Estética. Barcelona: Herder, 1988
-
-Gadamer,   Hans-Georg.   La   actualidad   de  lo  bello:  el  arte  como  juego,  símbolo  y  fiesta.  Barcelona:
-Paidós, 1991
-
-Goodman,   Nelson.   Los   lenguajes   del   arte:   aproximación   a  la  teoría  de  los  símbolos.  Barcelona:
-Paidós, 2010
-
-Hegel,   Georg   Wilhelm   Friedrich,   Lecciones   sobre  la  estética.  Traducción,  Alfredo  Brotóns  Muñoz.
-Torrejón de Ardoz: Akal, 2007
-
-Maillard,   Chantal,   La   sabiduría   como   estética.  China:  confucianismo,  taoísmo  y  budismo,  Madrid:
-Akal, 2000
-
-Maquiavelo. El príncipe. Madrid: Cátedra
-
-Maravall, José Antonio. La cultura del Barroco
-
-Pérez Agüero, Carlos. “El románico y el gótico: reflejo de la ciudad cristiana”
-
-Reale,   Giovanni   y  Antiseri,  Dario.  Historia  de  la  filosofía.  Del  Humanismo  a  Descartes.  Barcelona:
-Herder, 2010
-
-Schiller,   Friedrich.   Cartas   sobre   la   educación   estética   del   hombre.   Madrid:   Aguilar,  1969.
-http://www.antorcha.net/biblioteca_virtual/filosofia/schiller/presentacion.html
+Orozco Díaz, Emilio. Introducción al Barroco. Granada: Universidad de Granada, 1988
 
 Sánchez Pascual. Madrid: Alianza Editorial, 2011
 
-Tatarkiewicz, Wladyslaw. Historia de la estética. 3 vols. Madrid, Akal, 2007
-
-Tatarkiewicz,   Wladyslaw.   Historia   de   la   estética.  III.  La  estética  moderna  (1400-1700).  Madrid:
-Akal, 2004
-
-Valverde, José María. Breve historia y antología de la estética. Barcelona: Ariel, 2009
-
-Zúñiga, José F. Estética y hermenéutica. Fundamentos de filosofía del arte. Granada: Comares, 2019
-
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]

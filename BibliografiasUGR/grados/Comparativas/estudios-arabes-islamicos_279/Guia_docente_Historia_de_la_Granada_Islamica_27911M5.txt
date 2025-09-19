@@ -2,16 +2,24 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+MORAL   MOLINA,   Celia   del   y   VELÁZQUEZ  BASANTA,  Fernando  Nicolás  (eds.).  Ibn  al-Jaṭīb  y  su  tiempo.
+Granada:   Universidad,   2012   O’CALLAGHAN,   Joseph   F.  The  Last  Crusade  in  the  West.  Castile  and  the
+Conquest of Granada. Filadelfia: University of Pennsylvania Press, 2014
 
-📚 Recursos sin cambios:
+Reconquista.   Málaga:   Diputación,   1987  MARCOS  COBALEDA,  María.  Los  Almorávides:  arquitectura  de  un
+imperio. Granada: Universidad, 2015
+
+📚 Recursos sin cambios (41):
 ------------------------------
 ARIÉ, Rachel. El reino nasri de Granada (1232-1492). Madrid: Mapfre, 1992
 
-BARRIOS AGUILERA, Manuel y PEINADO SANTAELLA, Rafael Gerardo (dirs.), Historia del Reino de Granada.
-Granada: Universidad de Granada, 2000
+BARRIOS   AGUILERA,  Manuel  y  PEINADO  SANTAELLA,  Rafael  Gerardo  (dirs.),  Historia  del  BOLOIX  GALLARDO,
+Bárbara. De la Taifa de Arjona al Reino Nazarí de Granada (1232-1246). En torno a los orígenes de un
+estado y de una dinastía. Jaén: Instituto de Estudios Giennenses, 2006
+
+BOLOIX GALLARDO, Bárbara (ed.). A Companion to Islamic Granada. Leiden-Boston: Brill, 2021
 
 BOLOIX   GALLARDO,   Bárbara   y  ROBINSON,  Cynthia  (coords.),  El  palacio  nazarí  de  Daralhorra.  Granada:
 Universidad - Patronato de la Alhambra y Generalife, 2019
@@ -23,9 +31,6 @@ pp. 269-300
 BOLOIX GALLARDO, Bárbara. "The Genealogical Legitimization of the Naṣrid Dynasty: The Alleged Anṣārī
 Origins of the Banū Naṣr", en A. K. Bennison (ed.), The Articulation of Power in Medieval Iberia and
 the Maghrib. Oxford: Oxford University Press – The British Academy, 2014, pp. 61.85
-
-BOLOIX   GALLARDO,   Bárbara.  De  la  Taifa  de  Arjona  al  Reino  Nazarí  de  Granada  (1232-1246).  En  torno  a
-los orígenes de un estado y de una dinastía. Jaén: Instituto de Estudios Giennenses, 2006
 
 BOLOIX   GALLARDO,   Bárbara.   Ibn   al-Aḥmar.  Vida  y  reinado  del  primer  sultán  de  Granada  (1195-1273).
 Granada: Universidad - Patronato de la Alhambra yy Generalife, 2017
@@ -44,8 +49,6 @@ Built   the  Fourteenth-Century  Alhambra:  Ismā'īl  I,  Yūsuf  I,  Muḥamma
 of the Royal Asiatic Society, 7/1 (Apr., 1997), pp. 1-25
 
 GALÁN SÁNCHEZ, Ángel. Los mudéjares del Reino de Granada. Granada: Universidad de Granada, 1991
-
-GARCÍA ARENAL, Mercedes. Los Moriscos. Granada: Universidad de Granada, 1996
 
 GARI,   Blanca  y  SALICRÚ,  Roser.  “Las  ciudades  del  triángulo:  Granada,  Málaga,  Almería,  y  el  comercio
 mediterráneo en la Edad Media”. Las costas del Mediterráneo occidental. Las ciudades de la Península
@@ -89,8 +92,15 @@ Diputación de Málaga, 2008
 PUERTA VÍLCHEZ, José Miguel. "La Alhambra como lugar paradisiaco en el imaginario árabe", Boletín de
 Arte, 38 (2017), pp. 45-60
 
+RODRÍGUEZ   GÓMEZ,   Mª   Dolores.   Las   riberas   nazarí   y   del   Magreb  (siglos  XIII-XV).  Intercambios
+económicos y culturales. Granada: Universidad de Granada
+
 SALICRÚ,   Roser.   El   sultanat  de  Granada  i  la  corona  d'Aragó,  1410-1458.  Barcelona:  CSIC-Institució
 Milà i Fontanals, 1998
+
+SALICRÚ,   Roser.   “Sultanas   emergentes.   Visualizaciones   de   la   mujer   musulmana   en   las  fuentes
+cristianas”,   en   En   Francisco   Toro   Ceballos  y  José  Rodríguez  Molina  (eds.),  Mujeres  y  fronteras:
+homenaje a Cristina Segura Graíño (Estudios de Frontera, 8). Jaén: 2011, pp. 477-483
 
 SARR MARROCO, Bilal. La Granada zirí. Granada: Alhulia, 2011
 
@@ -106,6 +116,9 @@ Cambridge, MA: Harvard University Press, 2007
 
 TORRES   BALBÁS,   Leopoldo.   "La  Alhambra  de  Granada  antes  del  siglo  XIII",  Al-Andalus,  5  (1940),  pp.
 155-174
+
+The   Encyclopaedia   of   Islam  /  Encyclopédie  de  l’Islam.  2ª  y  3ª  ed.  Leiden:  E.J.  Brill  (versión  on-
+line)
 
 VIGUERA   MOLINS,   Mª   Jesús.   “La   cultura   nazarí   y   sus  registros  históricos,  biobibliográficos  y
 geográficos”,   en   C.   Castillo   Castillo   (ed.),  Estudios  nazaríes.  Granada:  Universidad,  1997,  pp.
@@ -123,20 +136,17 @@ Islámicos en Madrid, 1973
 García   Gómez.  Las  Memorias  de  ‘Abd  Allāh,  último  Rey  Zīrí  de  Granada  destronado  por  los  Almorávides
 (1090). Madrid: Alianza Editorial, 1980
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (9):
 ------------------------------
+BARRIOS AGUILERA, Manuel y PEINADO SANTAELLA, Rafael Gerardo (dirs.), Historia del Reino de Granada.
+Granada: Universidad de Granada, 2000
+
+GARCÍA ARENAL, Mercedes. Los Moriscos. Granada: Universidad de Granada, 1996
+
+MARCOS COBALEDA, María. Los Almorávides: arquitectura de un imperio. Granada: Universidad, 2015
+
 MORAL   MOLINA,   Celia   del   y   VELÁZQUEZ  BASANTA,  Fernando  Nicolás  (eds.).  Ibn  al-Jaṭīb  y  su  tiempo.
-Granada:   Universidad,   2012   O’CALLAGHAN,   Joseph   F.  The  Last  Crusade  in  the  West.  Castile  and  the
-Conquest   of   Granada.   Filadelfia:  University  of  Pennsylvania  Press,  2014  →  MORAL  MOLINA,  Celia  del
-y VELÁZQUEZ BASANTA, Fernando Nicolás (eds.). Ibn al-Jaṭīb y su tiempo. Granada: Universidad, 2012
-
-Reconquista.   Málaga:   Diputación,   1987  MARCOS  COBALEDA,  María.  Los  Almorávides:  arquitectura  de  un
-imperio.   Granada   →   MARCOS   COBALEDA,  María.  Los  Almorávides:  arquitectura  de  un  imperio.  Granada:
-Universidad, 2015
-
-✅ Recursos añadidos:
-------------------------------
-BOLOIX GALLARDO, Bárbara (ed.). A Companion to Islamic Granada. Leiden-Boston: Brill, 2021
+Granada: Universidad, 2012
 
 O’CALLAGHAN,   Joseph   F.   The   Last   Crusade   in   the   West.   Castile   and   the  Conquest  of  Granada.
 Filadelfia: University of Pennsylvania Press, 2014
@@ -154,14 +164,4 @@ al-Riyāḍ   (s.   XV)”,   Miscelánea   de   Estudios   Árabes   y  Hebraic
 PELÁEZ   ROVIRA,   ANTONIO.   “Political   structures”,  en  A.  Fábregas  García  (ed.).  The  nasrid  Kingdom,
 between East and West (13th-15th). Leiden: Brill, 2020, 73-99
 
-RODRÍGUEZ   GÓMEZ,   Mª   Dolores.   Las   riberas   nazarí   y   del   Magreb  (siglos  XIII-XV).  Intercambios
-económicos y culturales. Granada: Universidad de Granada
-
-SALICRÚ,   Roser.   “Sultanas   emergentes.   Visualizaciones   de   la   mujer   musulmana   en   las  fuentes
-cristianas”,   en   En   Francisco   Toro   Ceballos  y  José  Rodríguez  Molina  (eds.),  Mujeres  y  fronteras:
-homenaje a Cristina Segura Graíño (Estudios de Frontera, 8). Jaén: 2011, pp. 477-483
-
-The   Encyclopaedia   of   Islam  /  Encyclopédie  de  l’Islam.  2ª  y  3ª  ed.  Leiden:  E.J.  Brill  (versión  on-
-line)
-
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

@@ -2,11 +2,27 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Decreto   155/1998,   de  21  de  Julio  que  aprueba  el  Reglamento  de  Vías  Pecuarias.  BOJA  87,  de  04-08-98
+Ley 1/1994, de 11 de enero, de Ordenación del Territorio de la Comunidad Autónoma de Andalucía. BOJA
+8,   de   22-01-94  (Corrección  de  errores  en  BOJA  54,  de  23-04-94).  [3]  [1]  Parcialmente  derogados  por
+Real Decreto 304/1993, de 26 de febrero
 
-📚 Recursos sin cambios:
+Decreto-ley   3/2019,   de   24   de   septiembre,   de   medidas   urgentes   para  la  adecuación  ambiental  y
+territorial   de   las   edificaciones   irregulares   en  la  Comunidad  Autónoma  de  Andalucía.  BOJA  23,  de
+25-09-2019. [4] Decreto-Ley 5/2012, de 27 de noviembre, de medidas urgentes en materia urbanística y
+para   la   Protección   del   Litoral   de   Andalucía.  BOJA  233,  de  28-11-2012.  [3]  Ley  2/2012,  de  30  de
+enero, de modificación de la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía.
+BOJA 26, de 08-02-2012. [3] Decreto 60/2010, de 16 de marzo. Reglamento de Disciplina Urbanística de
+la   Comunidad   Autónoma  de  Andalucía.  BOJA  66,  de  7-4-2010.  [4]  Ley  14/2007,  de  26  de  noviembre,  del
+Patrimonio Histórico de Andalucía. Boja 248, de 19-12-2007
+
+Ley   7/2002,   de   17  de  diciembre,  de  Ordenación  Urbanística  de  Andalucía.  BOE  12,  de  14-1-2003.  [3]
+Decreto   244/2000,  de  27  de  Diciembre,  por  el  que  se  aprueba  el  Plan  de  Ordenación  del  Territorio  de
+la Aglomeración de Granada. BOJA 37, de 28-03-2000
+
+📚 Recursos sin cambios (20):
 ------------------------------
 Benevolo, L., Orígenes del urbanismo moderno. Celeste Ediciones, Madrid, 1992
 
@@ -37,6 +53,9 @@ Gustavo Gili, Barcelona, 1984
 Moya   González,   Luis,   La   Práctica   del  Planeamiento  Urbanístico,  Editorial  Síntesis,  Serie  Mayor,
 Espacios Y Sociedades. Madrid, 1994
 
+Normativa   Estatal  Real  Decreto  Legislativo  7/2015,  de  30  de  octubre,  por  el  que  se  aprueba  el  texto
+refundido de la Ley de Suelo y Rehabilitación Urbana, BOE 261, de 31-10-2015
+
 Normativa   de   la   Comunidad  Autónoma  de  Andalucía  Ley  7/2021,  de  1  de  diciembre,  de  impulso  para  la
 sostenibilidad   del   territorio   de   Andalucía.   BOJA   núm.   233,   de   03/12/2021,   BOE  núm.  303,  de
 20/12/2021
@@ -48,9 +67,6 @@ desarrollo   y   aplicación   de   la   Ley   sobre   el  Régimen  del  Suelo 
 Real   Decreto  3288/1978,  de  25  de  agosto,  por  el  que  se  aprueba  el  Reglamento  de  Gestión  Urbanística
 para   el   desarrollo   y  aplicación  de  la  Ley  sobre  Régimen  del  Suelo  y  Ordenación  Urbana,  BOE  27,  de
 31-1-1979 [2]
-
-Real   Decreto   Legislativo   7/2015,  de  30  de  octubre,  por  el  que  se  aprueba  el  texto  refundido  de  la
-Ley de Suelo y Rehabilitación Urbana, BOE 261, de 31-10-2015
 
 Santos   Diez,   R.,   Castelao   Rodríguez,   J.,   Derecho  urbanístico.  Manual  para  juristas  y  técnicos,
 Publicaciones Abella, “El consultor de los Ayuntamientos". Wolters Kluwers. Madrid, 2020
@@ -65,38 +81,18 @@ VV.AA., Plan General de Ordenación Urbana de Granada, Ayuntamiento de Granada, 
 
 [4] Derogado por el Decreto 550/2022, de 29 de noviembre
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ley   7/2002,   de   17  de  diciembre,  de  Ordenación  Urbanística  de  Andalucía.  BOE  12,  de  14-1-2003.  [3]
-Decreto   244/2000,  de  27  de  Diciembre,  por  el  que  se  aprueba  el  Plan  de  Ordenación  del  Territorio  de
-la   Aglomeración   de   Granada.  BOJA  37,  de  28-03-2000  →  Decreto  244/2000,  de  27  de  Diciembre,  por  el
-que   se   aprueba   el   Plan   de   Ordenación  del  Territorio  de  la  Aglomeración  de  Granada.  BOJA  37,  de
-28-03-2000
-
-Decreto-ley   3/2019,   de   24   de   septiembre,   de   medidas   urgentes   para  la  adecuación  ambiental  y
-territorial   de   las   edificaciones   irregulares   en  la  Comunidad  Autónoma  de  Andalucía.  BOJA  23,  de
-25-09-2019. [4] Decreto-Ley 5/2012, de 27 de noviembre, de medidas urgentes en materia urbanística y
-para   la   Protección   del   Litoral   de   Andalucía.  BOJA  233,  de  28-11-2012.  [3]  Ley  2/2012,  de  30  de
-enero, de modificación de la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía.
-BOJA 26, de 08-02-2012. [3] Decreto 60/2010, de 16 de marzo. Reglamento de Disciplina Urbanística de
-la   Comunidad   Autónoma  de  Andalucía.  BOJA  66,  de  7-4-2010.  [4]  Ley  14/2007,  de  26  de  noviembre,  del
-Patrimonio   Histórico   de   Andalucía.   Boja   248,   de   19-12-2007  →  Decreto  60/2010,  de  16  de  marzo.
-Reglamento   de   Disciplina   Urbanística  de  la  Comunidad  Autónoma  de  Andalucía.  BOJA  66,  de  7-4-2010.
-[4]
-
-Decreto   155/1998,   de  21  de  Julio  que  aprueba  el  Reglamento  de  Vías  Pecuarias.  BOJA  87,  de  04-08-98
-Ley 1/1994, de 11 de enero, de Ordenación del Territorio de la Comunidad Autónoma de Andalucía. BOJA
-8,   de   22-01-94  (Corrección  de  errores  en  BOJA  54,  de  23-04-94).  [3]  [1]  Parcialmente  derogados  por
-Real   Decreto   304/1993,  de  26  de  febrero  →  Ley  1/1994,  de  11  de  enero,  de  Ordenación  del  Territorio
-de   la   Comunidad   Autónoma   de  Andalucía.  BOJA  8,  de  22-01-94  (Corrección  de  errores  en  BOJA  54,  de
-23-04-94). [3]
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (14):
 ------------------------------
 Decreto 155/1998, de 21 de Julio que aprueba el Reglamento de Vías Pecuarias. BOJA 87, de 04-08-98
 
+Decreto   244/2000,  de  27  de  Diciembre,  por  el  que  se  aprueba  el  Plan  de  Ordenación  del  Territorio  de
+la Aglomeración de Granada. BOJA 37, de 28-03-2000
+
 Decreto   550/2022,  de  29  de  noviembre,  por  el  que  se  aprueba  el  Reglamento  General  de  la  Ley  7/2021,
 de 1 de diciembre, de impulso para la sostenibilidad
+
+Decreto   60/2010,   de   16  de  marzo.  Reglamento  de  Disciplina  Urbanística  de  la  Comunidad  Autónoma  de
+Andalucía. BOJA 66, de 7-4-2010. [4]
 
 Decreto-Ley   5/2012,   de   27   de   noviembre,   de   medidas   urgentes  en  materia  urbanística  y  para  la
 Protección del Litoral de Andalucía. BOJA 233, de 28-11-2012. [3]
@@ -105,6 +101,9 @@ Decreto-ley   3/2019,   de   24   de   septiembre,   de   medidas   urgentes   p
 territorial   de   las   edificaciones   irregulares   en  la  Comunidad  Autónoma  de  Andalucía.  BOJA  23,  de
 25-09-2019. [4]
 
+Ley 1/1994, de 11 de enero, de Ordenación del Territorio de la Comunidad Autónoma de Andalucía. BOJA
+8, de 22-01-94 (Corrección de errores en BOJA 54, de 23-04-94). [3]
+
 Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía. Boja 248, de 19-12-2007
 
 Ley   2/2012,   de   30   de   enero,  de  modificación  de  la  Ley  7/2002,  de  17  de  diciembre,  de  Ordenación
@@ -112,13 +111,12 @@ Urbanística de Andalucía. BOJA 26, de 08-02-2012. [3]
 
 Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía. BOE 12, de 14-1-2003. [3]
 
-Ley   7/2021,   de  1  de  diciembre,  de  impulso  para  la  sostenibilidad  del  territorio  de  Andalucía.  BOJA
-núm. 233, de 03/12/2021, BOE núm. 303, de 20/12/2021
-
 Normativa Estatal
+
+Normativa de la Comunidad Autónoma de Andalucía
 
 [1] Parcialmente derogados por Real Decreto 304/1993, de 26 de febrero
 
 del territorio de Andalucía. BOJA núm. 232, de 02/12/2022
 
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

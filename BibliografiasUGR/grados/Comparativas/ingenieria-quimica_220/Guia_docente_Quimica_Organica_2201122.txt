@@ -2,11 +2,16 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Klein,   D.   "Organic   Chemistry"  4ª  Ed.,  Ed.  Wiley,  2021  Wade,  L.  G.  "Química  Orgánica"  Ed.  Prentice
+Hall, 1993
 
-📚 Recursos sin cambios:
+Quiñoa,   E.   y   Riguera,  R.  "Nomenclatura  y  representación  de  los  compuestos  orgánicos  "  Ed.  Mc  Graw
+Hill   Interamericana   de   España,  1996  Ejercicios  y  Problemas:  Klein,  D.  "Organic  Chemistry"  4ª  Ed.,
+Ed. Wiley, 2021
+
+📚 Recursos sin cambios (15):
 ------------------------------
 Allinger y otros "Química Orgánica" (2' edición). Ed. Reverté S.A., Barcelona, 1983
 
@@ -17,12 +22,13 @@ Ege, S. "Química Orgánica" (3ª edición). Ed. Reverté S.A., Barcelona, 1997
 Fernández-Alvárez,   E.   y   Fariña  Pérez,  F.  (editores)  "Nomenclatura  de  la  Química  Orgánica"  IUPAC).
 CSIC-RSEQ, Madrid, 1987
 
+Formulación   y   Nomenclatura:   Peterson,   W.R.  "Formulación  y  Nomenclatura  en  Química  Orgánica"  (161
+edición). Ed. Eunibar, Barcelona, 1990
+
 Hart,   H.,   Hart,   D.   J.   y   Craine,   L.   E,   "Química   Orgánica   "   (12ª   edición),   Mc   Graw  Hill
 Interamericana, Madrid, 2007
 
 Kemp, D. S. y Vellacio, F. "Química Orgánica " Ed. Omega, Barcelona, 1986
-
-Klein, D. "Organic Chemistry" 4ª Ed., Ed. Wiley, 2021
 
 Latorre, M. "Formulación y Nomenclatura de Química Orgánica" Ed. Edelvives, Zaragoza, 1992
 
@@ -38,12 +44,6 @@ Argentina, 1990
 Morrison,   R.T.   y   Boyd,   R.N.  "Química  Orgánica.  Problemas  resueltos"  (5ª  edición),  Addison-Wesley
 Iberoamericana, Argentina, 1990
 
-Peterson,   W.R.   "Formulación   y   Nomenclatura   en   Química   Orgánica"   (161   edición).  Ed.  Eunibar,
-Barcelona, 1990
-
-Quiñoa,   E.   y   Riguera,  R.  "Nomenclatura  y  representación  de  los  compuestos  orgánicos  "  Ed.  Mc  Graw
-Hill Interamericana de España, 1996
-
 Quiñoá,   E.   y   Riguera,   R.   "Cuestiones   y   ejercicios   de   Química   Orgánica"   Ed.   Mc   Graw  Hill
 Interamericana de España, 2005
 
@@ -52,15 +52,20 @@ Madrid, 1987
 
 Volhardt, K.P.C, y Shore, N.E. "Química Orgánica" 5ª Ed., Ed. Omega, Barcelona, 2007
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Klein,   D.   "Organic   Chemistry"  4ª  Ed.,  Ed.  Wiley,  2021  Wade,  L.  G.  "Química  Orgánica"  Ed.  Prentice
-Hall, 1993  →  Wade, L. G. "Química Orgánica" Ed. Prentice Hall, 1993
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Ejercicios y Problemas
 
-Formulación y Nomenclatura
+Klein, D. "Organic Chemistry" 4ª Ed., Ed. Wiley, 2021
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+Klein, D. "Organic Chemistry" 4ª Ed., Ed. Wiley, 2021
+
+Peterson,   W.R.   "Formulación   y   Nomenclatura   en   Química   Orgánica"   (161   edición).  Ed.  Eunibar,
+Barcelona, 1990
+
+Quiñoa,   E.   y   Riguera,  R.  "Nomenclatura  y  representación  de  los  compuestos  orgánicos  "  Ed.  Mc  Graw
+Hill Interamericana de España, 1996
+
+Wade, L. G. "Química Orgánica" Ed. Prentice Hall, 1993
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

@@ -2,11 +2,13 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Lowe,   J.J.,   Walker,   M.J.C.   (2014)  Reconstructing  Quaternary  Environments  (3a  edición)  Taylor  and
+Francis, Routledge editorial, 568 pp Bradley, R.S. (2015): Paleoclimatology: Reconstructing Climates
+of the Quaternary
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Anderson,   D.E.,   Goudie,   A.S.  and  Parker,  A.G.  (2007):  Global  Environments  Through  the  Quaternary:
 Exploring Environmental Change. Oxford Univ. Press, 392pp
@@ -17,6 +19,12 @@ San Diego. 610 pp
 Dawson,   A.G.   (1992):  Ice  Age  Earth.  Late  Quaternary  Geology  and  Climate.  Routledge,  London  &  N.Y.,
 293 pp
 
+Elsevier,    Amsterdam,    675    pp.    Disponible   en   línea   vía   biblioteca-UGR:   https://ebookcentr
+al.proquest.com/lib/ugr/detail.action?pq-origsite=primo&docID=5754525   Andersen,  B.G.  and  Borns  Jr.,
+H.W.   (1997):  The  Ice  Age  World:  An  Introduction  to  Quaternary  History  and  Research  with  Emphasis  on
+North   America   and  Northern  Europe  During  the  Last  2.5  Million  Years.  Scandinavian  Univ.  Press,  208
+pp
+
 Lowe,   J.J.   y   Walker,  M.J.C.  (1997):  Reconstructing  Quaternary  Environments  (2a  Ed.).  Longman.  446
 pp.              Disponible              en             línea             vía             biblioteca-UGR:
 https://ebookcentral.proquest.com/lib/ugr/detail.action?pq-origsite=primo&docID=1733929
@@ -26,24 +34,13 @@ Company
 
 Walker, M. (2005). Quaternary Dating Methods. John Wiley & Sons, Ltd. 286 pp
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Lowe,   J.J.,   Walker,   M.J.C.   (2014)  Reconstructing  Quaternary  Environments  (3a  edición)  Taylor  and
-Francis, Routledge editorial, 568 pp Bradley, R.S. (2015): Paleoclimatology: Reconstructing Climates
-of   the   Quaternary.  al.proquest.com/lib/ugr/detail.action?pq-origsite=primo&docID=5754525  Andersen,
-B.G.   and   Borns   Jr.,   H.W.   (1997):   The   Ice  Age  World:  An  Introduction  to  Quaternary  History  and
-Research   with   Emphasis   on   North   America   and  Northern  Europe  During  the  Last  2.5  Million  Years.
-Scandinavian   Univ.   Press,   208   pp   →   Lowe,  J.J.,  Walker,  M.J.C.  (2014)  Reconstructing  Quaternary
-Environments (3a edición) Taylor and Francis, Routledge editorial, 568 pp
-
-✅ Recursos añadidos:
-------------------------------
-Andersen,   B.G.  and  Borns  Jr.,  H.W.  (1997):  The  Ice  Age  World:  An  Introduction  to  Quaternary  History
-and   Research   with  Emphasis  on  North  America  and  Northern  Europe  During  the  Last  2.5  Million  Years.
-Scandinavian Univ. Press, 208 pp
-
 Bradley,   R.S.   (2015):   Paleoclimatology:   Reconstructing   Climates   of   the   Quaternary.  Elsevier,
 Amsterdam,        675        pp.        Disponible        en        línea        vía        biblioteca-UGR:
 https://ebookcentral.proquest.com/lib/ugr/detail.action?pq-origsite=primo&docID=5754525
+
+Lowe,   J.J.,   Walker,   M.J.C.   (2014)  Reconstructing  Quaternary  Environments  (3a  edición)  Taylor  and
+Francis, Routledge editorial, 568 pp
 
 📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

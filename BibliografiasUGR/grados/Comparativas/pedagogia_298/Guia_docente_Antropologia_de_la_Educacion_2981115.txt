@@ -2,14 +2,18 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-García   Castaño,   F.   J.  (1996).  Sobre  algunas  intenciones  del  concepto  antropológico  de  fundamental
-relacionada   directamente   con   el   temario  de  la  asignatura,  así  como  en  los  textos  y  materiales  de
-estudio facilitados por el profesorado a través de PRADO por cada uno de los temas
+Soto   Marata,   P.  (2021).  Crecer  y  aprender,  mientras  tanto.  El  dominio  teórico  y  etnográfico  de  una
+Antropología   Sociocultural   de   la   Educación.   Bellatera  Velasco,  H.  y  Díaz  de  Rada,  A.  (2006).  La
+lógica de la investigación etnográfica. Un modelo de trabajo para etnógrafos de escuela. Trotta
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
+Al   inicio   de  curso  se  facilitará  al  alumnado  la  guía  didáctica  completa  con  lecturas  para  cada  uno
+de   los   temas   que   estarán   disponibles   en   PRADO  y  que  se  inspiran  en  los  siguientes  materiales:
+Álvarez Álvarez, C. (2008). La etnografía como modelo de investigación en educación
+
 Alegre,   M.A   y  Subirats,  J.  (Eds.)  (2008).  Educación  e  inmigración:  nuevos  retos  para  España  en  una
 perspectiva comparada. CIS
 
@@ -25,39 +29,11 @@ Antropología cultural (pp.1-18). Prentice Hall
 Franzé   Mudano,   A.   (2002).   Lo   que   sabía   no   valía.   Escuela,  diversidad  e  inmigración.  Consejo
 Económico y social
 
-García Castaño, F. J. y Pulido, R. (1994). Antropología de la educación. Eudema
-
-Guilherme,   M.   y   Dietz,   G.   (2014).   Diferencia   en   la   diversidad:   perspectivas   múltiples   de
-complejidades    conceptuales    multi,    inter    y   trans-culturales.   Estudios   sobre   las   Culturas
-Contemporáneas, XX (40), 13-36
-
-Jociles   Rubio,   M.  I.  (2007).  Panorámica  de  la  Antropología  de  la  Educación  en  España:  estado  de  la
-cuestión y recursos bibliográficos. Revista de Antropología Social, 16, 67-116
-
-Jociles   Rubio,   M.I   y   Franzé   Mudanó,  A.  (Eds.)  (2008).  ¿Es  la  escuela  el  problema?:  perspectivas
-socio-antropológicas de etnografía y educación. Trotta
-
-Walsh,   C.   (2007).   Interculturalidad,  colonialidad  y  educación.  Revista  Educación  y  Pedagogía,  XIX
-(48), 26-36
-
-Álvarez   Álvarez,   C.   (2008).   La   etnografía   como  modelo  de  investigación  en  educación.  Gazeta  de
-Antropología, 24, 10
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Kottak,   C.   P.   (2011).   Antropología   Cultural.   Mc   GrawHill.   etnográfico   de   una   Antropología
-Sociocultural   de   la   Educación.   Bellatera   Velasco,  H.  y  Díaz  de  Rada,  A.  (2006).  La  lógica  de  la
-investigación   etnográfica.   Un  modelo  de  trabajo  para  etnógrafos  de  escuela.  Trotta  →  Kottak,  C.  P.
-(2011). Antropología Cultural. Mc GrawHill
-
-✅ Recursos añadidos:
-------------------------------
-Al   inicio   de  curso  se  facilitará  al  alumnado  la  guía  didáctica  completa  con  lecturas  para  cada  uno
-de los temas que estarán disponibles en PRADO y que se inspiran en los siguientes materiales
-
 García   Castaño,   F.   J.  (1996).  Sobre  algunas  intenciones  del  concepto  antropológico  de  cultura.  En
 AA.VV.,   Las   prácticas   culturales   en   el   aula:   metodologías   y  evaluación  (pp.13-29).  Centro  de
 Profesores de Granada
+
+García Castaño, F. J. y Pulido, R. (1994). Antropología de la educación. Eudema
 
 García   Castaño,   F.J.,   Rubio   Gómez,   M.   y  Bouachra,  O.  (2008).  Población  inmigrante  y  escuela  en
 España: Un balance de investigación. Revista de Educación, 345, 23-60
@@ -69,6 +45,10 @@ desarrollado en la Universidad Internacional de Andalucía (Sede Antonio Machado
 García   Segura,   S.   (2004).   De   la   educación   indígena   a  la  educación  bilingüe  intercultural:  la
 comunidad p’urhepecha, Michoacán, México. Revista mexicana de investigación educativa, 9, 61-81
 
+Guilherme,   M.   y   Dietz,   G.   (2014).   Diferencia   en   la   diversidad:   perspectivas   múltiples   de
+complejidades    conceptuales    multi,    inter    y   trans-culturales.   Estudios   sobre   las   Culturas
+Contemporáneas, XX (40), 13-36
+
 Hammersley,   M.   y   Atkinson,   P.   (1994).   ¿Qué   es   la  etnografía?  En  M.  Hammersley  y  P.  Atkinson,
 Etnografía Métodos de investigación (pp.15-41). Paidós
 
@@ -76,8 +56,16 @@ Hymes,   D.  (2005).  ¿Qué  es  la  etnografía?  (175-192).  En  H.  Velasco,
 Rada   (Eds.).  Lecturas  de  antropología  para  educadores.  El  ámbito  de  la  educación  y  de  la  etnografía
 escolar (pp.175-192). Trotta
 
+Jociles   Rubio,   M.  I.  (2007).  Panorámica  de  la  Antropología  de  la  Educación  en  España:  estado  de  la
+cuestión y recursos bibliográficos. Revista de Antropología Social, 16, 67-116
+
+Jociles   Rubio,   M.I   y   Franzé   Mudanó,  A.  (Eds.)  (2008).  ¿Es  la  escuela  el  problema?:  perspectivas
+socio-antropológicas de etnografía y educación. Trotta
+
 Keesing,   R.   (2010).  Teorías  de  la  cultura.  En  H.  Velasco  (Comp.)  Lecturas  de  Antropología  social  y
 cultural. La Cultura y las Culturas (pp. 15-51). Universidad a Distancia UNED
+
+Kottak, C. P. (2011). Antropología Cultural. Mc GrawHill
 
 Ogbu,   J.   (2005).  Etnografía  escolar.  Una  aproximación  a  nivel  múltiple.  En  H.  Velasco,  F.J.  García
 Castaño   y   A.   Díaz   de   Rada   (Eds.).   Lecturas   de   antropología  para  educadores.  El  ámbito  de  la
@@ -92,10 +80,18 @@ Cultura y las Culturas (pp. 109-160). Universidad a Distancia UNED
 Santamaría,   E.   (2003).   La   educación   escolar,  es  como  es.  En  E.  Santamaría,  E.  y  F.  González,  F.
 (Coord.), Contra el fundamentalismo escolar (pp. 13-24). Virus Editorial
 
+Walsh,   C.   (2007).   Interculturalidad,  colonialidad  y  educación.  Revista  Educación  y  Pedagogía,  XIX
+(48), 26-36
+
+Álvarez   Álvarez,   C.   (2008).   La   etnografía   como  modelo  de  investigación  en  educación.  Gazeta  de
+Antropología, 24, 10
+
+✅ Recursos añadidos (2):
+------------------------------
 Soto   Marata,   P.  (2021).  Crecer  y  aprender,  mientras  tanto.  El  dominio  teórico  y  etnográfico  de  una
 Antropología Sociocultural de la Educación. Bellatera
 
 Velasco,   H.   y   Díaz   de   Rada,   A.  (2006).  La  lógica  de  la  investigación  etnográfica.  Un  modelo  de
 trabajo para etnógrafos de escuela. Trotta
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

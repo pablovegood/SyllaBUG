@@ -2,11 +2,12 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+GUTIÉRREZ-GONZÁLEZ-TORRES-GALLARDO   (1994).   Técnicas   de  Análisis  de  datos  Hair,  Anderson,  Tathamj,
+Black. (2000). Análisis Multivariante. Prentice Hall
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 BORG, I. & GROENEN, P.J.F. (2005).- Modern Multidimensional Scaling. Theory and Applications. Second
 Edition. Springer Series in Statistics. Springer
@@ -26,15 +27,10 @@ GREENACRE, M. (1984). Theory and Applications of Correspondence Analysis. Academ
 
 GREENACRE, M. (1993). Correspondence Analysis in Practice. Academic Press
 
-GUTIÉRREZ-GONZÁLEZ-TORRES-GALLARDO   (1994).  Técnicas  de  Análisis  de  datos  multivariable.  Tratamiento
-Computacional. Universidad de Granada
-
 Gower,   J.  C.,  &  Legendre,  P.  (1986).  Metric  and  Euclidean  properties  of  dissimilarity  coefficients.
 Journal of Classification, 3, 5–48
 
 Gower, J.C. Hand, D.J. (1996). Biplots. Chapman & Hall
-
-Hair, Anderson, Tathamj, Black. (2000). Análisis Multivariante. Prentice Hall
 
 John Braun, W. & Duncan, J. (2007). A first Course in Statistical Programming with R. Cambridge
 
@@ -55,12 +51,11 @@ Erlbaum
 
 Özgur, E. (2013). Guide to Programming and Algorithms using R. Springer
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+GUTIÉRREZ-GONZÁLEZ-TORRES-GALLARDO   (1994).  Técnicas  de  Análisis  de  datos  multivariable.  Tratamiento
+Computacional. Universidad de Granada
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+Hair, Anderson, Tathamj, Black. (2000). Análisis Multivariante. Prentice Hall
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

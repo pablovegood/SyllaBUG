@@ -2,13 +2,20 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+BRUSTAD,   K.,   AL-BATAL,  M.  y  AL-TONSI,  A.  Al-Kitaab  fii  Ta`allum  al-`Arabiyya  with  DVDs.  A  Textbook
+for   Beginning   Arabic   (Part   One.   3rd  Edition).Washington:  Georgetown  University  Press,  2011-2013
+CORTÉS, J. Diccionario de árabe culto moderno. Madrid: Gredos, 1996
 
-📚 Recursos sin cambios:
+YOUNES,   M.   et   al.   ʻArabiyyat   al-naas  (Part  One).  London-N.  York:  Routledge,  2014  ABU  CHAKRA,  F.
+Arabic: An Essential Grammar. New York: Routledge, 2007
+
+📚 Recursos sin cambios (12):
 ------------------------------
 AGUILAR COBOS, J. D. et al. An-nahr A2, Lengua árabe - Guía. Almería: Albujayra, 2015
+
+AGUILAR COBOS, J. D. et al. An-nahr A2, Lengua árabe - Libro del alumno. Almería: Albujayra, 2015
 
 AGUILAR, V. et al. Paso a paso (online). 2006
 
@@ -32,24 +39,15 @@ MACE, J. Arabic Grammar: A Reference Guide. Edinburgh: Edinburgh University Pres
 
 PARADELA ALONSO, N. Manual de sintaxis árabe. Madrid: UAM, 1998
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-BRUSTAD,   K.,   AL-BATAL,  M.  y  AL-TONSI,  A.  Al-Kitaab  fii  Ta`allum  al-`Arabiyya  with  DVDs.  A  Textbook
-for   Beginning   Arabic   (Part   One.   3rd  Edition).Washington:  Georgetown  University  Press,  2011-2013
-CORTÉS,   J.   Diccionario   de  árabe  culto  moderno.  Madrid:  Gredos,  1996  →  BRUSTAD,  K.,  AL-BATAL,  M.  y
-AL-TONSI,   A.   Al-Kitaab   fii  Ta`allum  al-`Arabiyya  with  DVDs.  A  Textbook  for  Beginning  Arabic  (Part
-One. 3rd Edition).Washington: Georgetown University Press, 2011-2013
-
-YOUNES,   M.   et   al.   ʻArabiyyat   al-naas  (Part  One).  London-N.  York:  Routledge,  2014  ABU  CHAKRA,  F.
-Arabic:   An   Essential   Grammar.   New   York:   Routledge,  2007  →  YOUNES,  M.  et  al.  ʻArabiyyat  al-naas
-(Part One). London-N. York: Routledge, 2014
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 ABU CHAKRA, F. Arabic: An Essential Grammar. New York: Routledge, 2007
 
-AGUILAR COBOS, J. D. et al. An-nahr A2, Lengua árabe - Libro del alumno. Almería: Albujayra, 2015
+BRUSTAD,   K.,   AL-BATAL,  M.  y  AL-TONSI,  A.  Al-Kitaab  fii  Ta`allum  al-`Arabiyya  with  DVDs.  A  Textbook
+for Beginning Arabic (Part One. 3rd Edition).Washington: Georgetown University Press, 2011-2013
 
 CORTÉS, J. Diccionario de árabe culto moderno. Madrid: Gredos, 1996
 
-📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]
+YOUNES, M. et al. ʻArabiyyat al-naas (Part One). London-N. York: Routledge, 2014
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

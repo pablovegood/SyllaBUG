@@ -2,15 +2,24 @@
 Grado: ingenieria-civil (237)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Calvo,   F.   y   Lorente,   J.  (2018)  FERROCARRILES  para  la  Ingeniería  Civil.  Editorial  Técnica  AVICAM-
+Fleming
 
-📚 Recursos sin cambios:
+Harris,   N.   y   Schmid,   F.  (Editores)  (2003).  Planning  Freight  Railways.  Published  by  A  &  N  Harris,
+London (United Kingdom: LOZANO, P. (2004). El libro del tren. Madrid: OBERON Grupo Anaya, S.A
+
+Ingenieros de Caminos, Canales y Puertos. Universidad Politécnica de Madrid Calvo F. J., Lorente, J.
+y   de   Oña,   J.   FERROCARRILES.   Instalaciones   Fijas,   Material   Móvil   y   Servicios   de  Transporte
+Ferroviario.   Granada,   Mayo   2004   GARCÍA,  J-M.  (1999).  Ferrocarriles.  Apuntes  de  Clase.  Cátedra  de
+Ferrocarriles de la E.T.S.I. de Caminos, Canales y Puertos de la Universidad de Cantabria
+
+📚 Recursos sin cambios (12):
 ------------------------------
-Calvo,   F.   J.   (2003).   La   interoperabilidad   como   herramienta   de  optimización  de  la  red  de  alta
-velocidad española. Madrid: Gestor de Infraestructuras Ferroviarias – Fundación de los Ferrocarriles
-Españoles
+ADIF.   Declaración   sobre  la  red  (Network  Statement).  Actualización.  http://www.adif.es  Calvo,  F.  J.
+(2003).   La  interoperabilidad  como  herramienta  de  optimización  de  la  red  de  alta  velocidad  española.
+Madrid: Gestor de Infraestructuras Ferroviarias – Fundación de los Ferrocarriles Españoles
 
 Calvo,   F.   J.,   Jurado,   R.,   Lorente,   J.   y   de   Oña,   J.   (2011)  FERROCARRILES.  Editorial:  Godei
 Impresiones Digitales, S.L
@@ -29,11 +38,6 @@ de prescripciones técnicas tipo para los proyectos de plataforma
 
 García, J-M. y Rodríguez, M. (1995). Desvíos ferroviarios. Santander: Ingeniería Cántabra, S.A
 
-Harris,   N.   y   Schmid,   F.  (Editores)  (2003).  Planning  Freight  Railways.  Published  by  A  &  N  Harris,
-London (United Kingdom
-
-LOZANO, P. (2004). El libro del tren. Madrid: OBERON Grupo Anaya, S.A
-
 Losada,   M.   y   otros.   CURSO   DE   FERROCARRILES.  Cuadernos  I,  II,  III,  IV  y  V.  E.T.S.  Ingenieros  de
 Caminos, Canales y Puertos. Universidad Politécnica de Madrid
 
@@ -42,27 +46,25 @@ en ferrocarriles
 
 Profillidis, V. (2006). Railway Management and Engineering. Published by Ashgate, Surrey
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Calvo,   F.   y   Lorente,   J.  (2018)  FERROCARRILES  para  la  Ingeniería  Civil.  Editorial  Técnica  AVICAM-
-Fleming   →   Calvo,   F.   y   Lorente,   J.   (2025)   FERROCARRILES   para   la   Ingeniería   Civil.  Edición
-actualizada 2025. Editorial Técnica AVICAM-Fleming
-
-Ingenieros de Caminos, Canales y Puertos. Universidad Politécnica de Madrid Calvo F. J., Lorente, J.
-y   de   Oña,   J.   FERROCARRILES.   Instalaciones   Fijas,   Material   Móvil   y   Servicios   de  Transporte
-Ferroviario.   Granada,   Mayo   2004   GARCÍA,  J-M.  (1999).  Ferrocarriles.  Apuntes  de  Clase.  Cátedra  de
-Ferrocarriles   de   la   E.T.S.I.   de   Caminos,   Canales   y   Puertos   de  la  Universidad  de  Cantabria  →
-GARCÍA,   J-M.   (1999).   Ferrocarriles.   Apuntes  de  Clase.  Cátedra  de  Ferrocarriles  de  la  E.T.S.I.  de
-Caminos, Canales y Puertos de la Universidad de Cantabria
-
-✅ Recursos añadidos:
-------------------------------
-ADIF. Declaración sobre la red (Network Statement). Actualización. http://www.adif.es
-
-RENFE. Datos estadísticos. www.renfe.es
-
-RENFE. Informe Anual
+RENFE. Datos estadísticos. www.renfe.es RENFE. Informe Anual
 
 RENFE. UN Mantenimiento de Infraestructura. Normas N.R.V
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+✅ Recursos añadidos (6):
+------------------------------
+ADIF. Declaración sobre la red (Network Statement). Actualización. http://www.adif.es
+
+Calvo,   F.   y   Lorente,   J.  (2025)  FERROCARRILES  para  la  Ingeniería  Civil.  Edición  actualizada  2025.
+Editorial Técnica AVICAM-Fleming
+
+GARCÍA,   J-M.   (1999).   Ferrocarriles.   Apuntes  de  Clase.  Cátedra  de  Ferrocarriles  de  la  E.T.S.I.  de
+Caminos, Canales y Puertos de la Universidad de Cantabria
+
+Harris,   N.   y   Schmid,   F.  (Editores)  (2003).  Planning  Freight  Railways.  Published  by  A  &  N  Harris,
+London (United Kingdom
+
+LOZANO, P. (2004). El libro del tren. Madrid: OBERON Grupo Anaya, S.A
+
+RENFE. Informe Anual
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

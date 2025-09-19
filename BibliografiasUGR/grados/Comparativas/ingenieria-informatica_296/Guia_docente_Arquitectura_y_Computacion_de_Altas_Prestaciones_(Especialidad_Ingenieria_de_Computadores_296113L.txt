@@ -2,35 +2,36 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-978-1-4200-7705.   2011  Jason  Sanders  and  Edward  Kandrot,  CUDA  by  Example  An  Introduction  to  General-
-Purpose   GPU   Programming.   Addison-Wesley   ISBN-13:   978-0-13-138768-3   P.  Pacheco,  M.  Malensek.  An
-Introduction to Parallel Programming (Second Edition)
-
 Georg   Hager,   Gerhard   Wellein.   Introduction   to   High   Performance   Computing  for  Scientistis  and
-Engineers. CRC Press, A Chapman & Hall Book. ISBN: 978-1-4398-1192-4, 2011
+Engineers.   CRC   Press,   A   Chapman   &   Hall  Book.  ISBN:  978-1-4398-1192-4,  2011  Timothy  G.  Mattson,
+Beverly   A.   Sanders,   Berna  L.  Massingill.  Patterns  For  Parallel  Programming.  Addison-Wesley.  ISBN:
+0-321-22811-1,   June   2010   John   Levesque,   High   Performance  Computing.  Ahapman  &  Hall  /CRC.  ISBN:
+978-1-4200-7705.   2011   Jason   Sanders   and   Edward   Kandrot,   CUDA   by   Example   An  Introduction  to
+GeneralPurpose   GPU   Programming.  Addison-Wesley  ISBN-13:  978-0-13-138768-3  P.  Pacheco,  M.  Malensek.
+An Introduction to Parallel Programming (Second Edition). Morgan Kaufmann. 2018
 
+📚 Recursos sin cambios (1):
+------------------------------
 Ortega,   M.   Anguita,   A.   Prieto.   Arquitectura   de   Computadores.  Thomson,  2005.  ESIIT/C.1  ORT  arq
 Laurence   T.   Yang,   Minyi   Guo.   High-Performance   Computing:   Paradigm   and  Infrastructure.  Wiley-
 Interscience, 2005
 
+✅ Recursos añadidos (5):
+------------------------------
+Georg   Hager,   Gerhard   Wellein.   Introduction   to   High   Performance   Computing  for  Scientistis  and
+Engineers. CRC Press, A Chapman & Hall Book. ISBN: 978-1-4398-1192-4, 2011
+
+Jason   Sanders   and   Edward   Kandrot,   CUDA   by   Example   An   Introduction   to   General-Purpose   GPU
+Programming. Addison-Wesley ISBN-13: 978-0-13-138768-3
+
+John Levesque, High Performance Computing. Ahapman & Hall /CRC. ISBN: 978-1-4200-7705. 2011
+
 P.   Pacheco,  M.  Malensek.  An  Introduction  to  Parallel  Programming  (Second  Edition).  Morgan  Kaufmann.
 2018
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-978-1-4398-1192-4,   2011   Timothy   G.  Mattson,  Beverly  A.  Sanders,  Berna  L.  Massingill.  Patterns  For
-Parallel Programming. Addison-Wesley. ISBN: 0-321-22811-1, June 2010 John Levesque, High Performance
-Computing.   Ahapman   &   Hall   /CRC.   ISBN   →   Timothy   G.   Mattson,   Beverly   A.   Sanders,   Berna  L.
-Massingill. Patterns For Parallel Programming. Addison-Wesley. ISBN: 0-321-22811-1, June 2010
+Timothy   G.   Mattson,   Beverly   A.   Sanders,  Berna  L.  Massingill.  Patterns  For  Parallel  Programming.
+Addison-Wesley. ISBN: 0-321-22811-1, June 2010
 
-✅ Recursos añadidos:
-------------------------------
-John Levesque, High Performance Computing. Ahapman & Hall /CRC. ISBN: 978-1-4200-7705. 2011
-
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

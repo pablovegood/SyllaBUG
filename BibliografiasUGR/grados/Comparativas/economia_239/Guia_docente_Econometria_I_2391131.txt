@@ -2,11 +2,15 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Guisán,   MC   (1997).   Econometría.   Ed   McGraw  Hill  Intriligator  y  otros  (1996):  Econometric  Models,
+Tecniques and Applications. Prentice Hall
 
-📚 Recursos sin cambios:
+Novales,   A.   (1988).   Econometría.  Ed.  McGraw  Hill  Kmenta.  J.  (1987):  Elementos  de  Econometria-  Ed-
+Vicens Vives
+
+📚 Recursos sin cambios (11):
 ------------------------------
 Greene (1999): Análisis Econométrico. Ed. Prentice Hall
 
@@ -31,19 +35,14 @@ Uriel, y otros (1990). Econometría. El Modelo Lineal. Ed. A. C
 Wooldridge,   J.,   (2015).   Introducción   a   la  econometría:  un  enfoque  moderno  (5a  ed.).  Ed.  Cengage
 Learning
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Novales,   A.   (1988).   Econometría.  Ed.  McGraw  Hill  Kmenta.  J.  (1987):  Elementos  de  Econometria-  Ed-
-Vicens Vives  →  Kmenta. J. (1987): Elementos de Econometria- Ed- Vicens Vives
-
-Guisán,   MC   (1997).   Econometría.   Ed   McGraw  Hill  Intriligator  y  otros  (1996):  Econometric  Models,
-Tecniques   and   Applications.   Prentice   Hall   →   Intriligator   y   otros  (1996):  Econometric  Models,
-Tecniques and Applications. Prentice Hall
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Guisán, MC (1997). Econometría. Ed McGraw Hill
 
+Intriligator y otros (1996): Econometric Models, Tecniques and Applications. Prentice Hall
+
+Kmenta. J. (1987): Elementos de Econometria- Ed- Vicens Vives
+
 Novales, A. (1988). Econometría. Ed. McGraw Hill
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

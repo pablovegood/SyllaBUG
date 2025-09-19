@@ -2,11 +2,13 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Sánchez   Moreno,  Eduardo  (coord.):  Protohistoria  y  antigüedad  en  la  península  ibérica:  la  Iberia
+prerromana   y   la   Romanidad,   Madrid,   2007  Santos  Velasco,  J.  A.:  Cambios  sociales  y  culturales  en
+época ibérica: el caso del sureste, Madrid, 1994
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (41):
 ------------------------------
 AA. VV.: Imagen y culto en la Iberia Prerromana II, Editorial Universidad de Sevilla, 2014
 
@@ -120,16 +122,12 @@ Complutense, Madrid, 2014
 Wulff   Alonso,   F.   y   Álvarez   Martí-Aguilar   (eds.):   Identidades,   culturas  y  territorios  en  la
 Andalucía Prerromana, Universidad de Sevilla, 2009
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Sánchez   Moreno,  Eduardo  (coord.):  Protohistoria  y  antigüedad  en  la  península  ibérica:  la  Iberia
-prerromana   y   la   Romanidad,   Madrid,   2007  Santos  Velasco,  J.  A.:  Cambios  sociales  y  culturales  en
-época   ibérica:   el   caso   del   sureste,   Madrid,  1994  →  Santos  Velasco,  J.  A.:  Cambios  sociales  y
-culturales en época ibérica: el caso del sureste, Madrid, 1994
+Santos   Velasco,   J.   A.:   Cambios   sociales   y   culturales  en  época  ibérica:  el  caso  del  sureste,
+Madrid, 1994
 
-✅ Recursos añadidos:
-------------------------------
 Sánchez   Moreno,  Eduardo  (coord.):  Protohistoria  y  antigüedad  en  la  península  ibérica:  la  Iberia
 prerromana y la Romanidad, Madrid, 2007
 
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

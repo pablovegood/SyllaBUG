@@ -2,13 +2,16 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Dificultades   principales   del   seminario   Las   inherentes  a  la  corrección  y  cálculo  de  puntuaciones
-típicas,   interpretación   de   los   Pérez,   Mª.   N.,   Mata   J.L.,   López,  F.  (2019)  Introducción  a  la
-Psicología de la Personalidad
+Cervone,   D.,   Lawrence   A.   Pervin,   L.A.   (2015).   Personality:   Theory  and  Research,  13th  Edition
+Personality: Theory and Research, 13th Edition. Hoboken, United States: John Wiley & Sons Domínguez-
+Prieto,   X.M.   (2011).   Psicología   de  la  persona.  Madrid,  España:  Ediciones  Palabra,  S.A  Moreno,  B.
+(2007).   Psicología   de   la  Personalidad:  procesos.  Madrid,  España:  Editorial  Paraninfo  Otero-Lopez,
+J.M.   (2013).  Psicología  de  la  personalidad:  Manual  de  prácticas,  Edicciones  Ariel  Serrais  –Oteo,  F.
+(2012). Personalidad. EUNSA. Navarra, España: Ediciones Universidad de Navarra
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Larsen, R.J. Y Buss, D.M. (2005). Psicología de la Personalidad. (2ª ED.) McGraw-Hill Interamericana
 
@@ -20,17 +23,7 @@ Pervin, L. A. (1998). La ciencia de la personalidad. Madrid: McGraw-Hill
 Pérez, Mª. N., Mata J.L., López, F. (2019) Introducción a la Psicología de la Personalidad. Granada,
 España: Universidad de Granada
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Cervone,   D.,   Lawrence   A.   Pervin,   L.A.   (2015).   Personality:   Theory  and  Research,  13th  Edition
-Personality: Theory and Research, 13th Edition. Hoboken, United States: John Wiley & Sons Domínguez-
-Prieto,   X.M.   (2011).   Psicología   de  la  persona.  Madrid,  España:  Ediciones  Palabra,  S.A  Moreno,  B.
-(2007).   Psicología   de   la  Personalidad:  procesos.  Madrid,  España:  Editorial  Paraninfo  Otero-Lopez,
-J.M.   (2013).  Psicología  de  la  personalidad:  Manual  de  prácticas,  Edicciones  Ariel  Serrais  –Oteo,  F.
-(2012).   Personalidad.   EUNSA.  Navarra,  España:  Ediciones  Universidad  de  Navarra  →  Serrais  –Oteo,  F.
-(2012). Personalidad. EUNSA. Navarra, España: Ediciones Universidad de Navarra
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Cervone,   D.,   Lawrence   A.   Pervin,   L.A.   (2015).   Personality:   Theory  and  Research,  13th  Edition
 Personality: Theory and Research, 13th Edition. Hoboken, United States: John Wiley & Sons
@@ -41,4 +34,6 @@ Moreno, B. (2007). Psicología de la Personalidad: procesos. Madrid, España: Ed
 
 Otero-Lopez, J.M. (2013). Psicología de la personalidad: Manual de prácticas, Edicciones Ariel
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Serrais –Oteo, F. (2012). Personalidad. EUNSA. Navarra, España: Ediciones Universidad de Navarra
+
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

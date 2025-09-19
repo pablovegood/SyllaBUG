@@ -2,31 +2,27 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
+"Das   Leben   –   Deutsch  als  Fremdsprache  A1"  (Ed.  Cornelsen)  Reimann,  Monika:  Gramática  esencial  del
+alemán. Ismaning 1999
+
 Fandrych,   Christian   und   Ulrike   Tallowitz:   Klipp   und   Klar.  Gramática  práctica  de  alemán  A1-B1.
 München 2014
-
-Reimann, Monika: Gramática esencial del alemán. Ismaning 1999
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Luscher,    Renate:    Deutsch    als    Fremdsprache.   Übungsgrammatik   für   Anfänger.   Ismaning   2002.
-Langenscheidt:   Handwörterbuch  Spanisch.  Spanisch-Deutsch.  Deutsch  Spanisch.  250  000  Stichwörter  und
-Wendungen.   Berlin,   München   u.a.  2006  →  Luscher,  Renate:  Deutsch  als  Fremdsprache.  Übungsgrammatik
-für Anfänger. Ismaning 2002
-
-✅ Recursos añadidos:
-------------------------------
-"Das Leben – Deutsch als Fremdsprache A1" (Ed. Cornelsen)
 
 Langenscheidt:   Handwörterbuch  Spanisch.  Spanisch-Deutsch.  Deutsch  Spanisch.  250  000  Stichwörter  und
 Wendungen. Berlin, München u.a. 2006
 
+Luscher, Renate: Deutsch als Fremdsprache. Übungsgrammatik für Anfänger. Ismaning 2002
+
 Manual impreso
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+Reimann, Monika: Gramática esencial del alemán. Ismaning 1999
+
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

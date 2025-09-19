@@ -2,11 +2,19 @@
 Grado: educacion-primaria (257)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Zamorano,   T.,   García,   Y.,  &  Reyes,  D.  (2018).  Educación  para  el  sujeto  del  siglo  XXI:  principales
+características   del  enfoque  STEAM  desde  la  mirada  educacional.  Contextos:  Estudios  de  Humanidades  y
+Ciencias    Sociales,   41.http://revistas.umce.cl/index.php/contextos/article/view/1395   Zollman,   A.
+(2012).   Learning   for   STEM   literacy:   STEM  literacy  for  learning.  School  Science  and  Mathematics,
+112(1), 12-19. https://doi.org/10.1111/j.1949- 8594.2012.00101.x -
 
-📚 Recursos sin cambios:
+https://doi:   10.1080/03057267.2020.1755802   Yakman,   G.,   &  Lee,  H.  (2012).  Exploring  the  exemplary
+STEAM   education   in   the   US   as  a  practical  educational  framework  for  Korea.  Journal  of  the  Korean
+Association for Science Education, 32(6), 1072-1086
+
+📚 Recursos sin cambios (16):
 ------------------------------
 ANIA,   J.M.  (2007)  Guía  para  el  diseño  y  mejora  de  proyectos  pedagógicos  de  educación  y  promoción  de
 la salud. MEC
@@ -19,10 +27,8 @@ Calvo, S. y Gutiérrez, J. (2007). El espejismo de la Educación Ambiental. Ed. 
 Estrategia   Andaluza  de  Educación  Ambiental  (2003).  Consejería  de  Medio  Ambiente.  Junta  de  Andalucía
 (disponible en www.cma.junta-andalucia.es/eadea)
 
-Estudios   de   Humanidades   y  Ciencias  Sociales,  Zollman,  A.  (2012).  Learning  for  STEM  literacy:  STEM
-literacy   for   learning.   School  Revistas  en  español  que  publican  materiales  de  Educación  Ambiental,
-Educación   para   la   Salud   y   Consumo:   Cuadernos   de   Pedagogía,   Bordón,  Aula,  Alambique,  Ciclos,
-Investigación en la Escuela
+Gutiérrez,   J.  (2011).  La  Educación  Ambiental.  Fundamentos  teóricos,  propuestas  de  transversalidad  y
+orientaciones extracurriculares. Ed. La Muralla
 
 Ojeda,   F.,  Gutiérrez,  J.  y  Perales,  FJ.  (2009)  ¿Qué  herramientas  proporcionan  las  tecnologías  de  la
 información   y   la   comunicación   a  la  educación?  Revista  Eureka  Enseñanza  y  Divulgación  Científica,
@@ -31,6 +37,12 @@ información   y   la   comunicación   a  la  educación?  Revista  Eureka  Ens
 Pérez,   V.,   Fernández,   A.   Carrillo-Rosúa,  J.  (2014).  Integración  de  las  Tecnologías  Geoespaciales
 como   herramientas   docentes  en  Ciencias  de  la  Tierra.  Enseñanza  de  las  Ciencias  de  la  Tierra  22(3),
 277-288
+
+Revistas   en   español   que   publican   materiales   de   Educación  Ambiental,  Educación  para  la  Salud  y
+Consumo: Cuadernos de Pedagogía, Bordón, Aula, Alambique, Ciclos, Investigación en la Escuela
+
+Revistas que publican investigación en Didáctica de las Ciencias (en castellano): Eureka , Enseñanza
+de las Ciencias, Enseñanza de las Ciencias de la Tierra
 
 Rodrigo-Vega,   M.,  y  Ejeda-Manzanera,  J.  (2008).  Concepciones  erróneas  sobre  alimentación  en  futuros
 profesores. Construcción de conocimiento pedagógico. Teoría de la Educación, (20), 225 -247
@@ -53,6 +65,8 @@ Takeuchi,   M.A.,  Sengupta,  P.,  Shanahan,  M-C.,  Adams,  J.D.,  &  Hachem,  
 in    STEM    education:    A    critical    review.    Studies    in    Science    Education.    https://doi:
 10.1080/03057267.2020.1755802
 
+✅ Recursos añadidos (3):
+------------------------------
 Yakman,   G.,   &   Lee,   H.   (2012).   Exploring  the  exemplary  STEAM  education  in  the  US  as  a  practical
 educational   framework   for   Korea.   Journal  of  the  Korean  Association  for  Science  Education,  32(6),
 1072-1086
@@ -61,19 +75,7 @@ Zamorano,   T.,   García,   Y.,  &  Reyes,  D.  (2018).  Educación  para  el  
 características   del  enfoque  STEAM  desde  la  mirada  educacional.  Contextos:  Estudios  de  Humanidades  y
 Ciencias Sociales, 41.http://revistas.umce.cl/index.php/contextos/article/view/1395
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Gutiérrez,   J.  (2011).  La  Educación  Ambiental.  Fundamentos  teóricos,  propuestas  de  transversalidad  y
-orientaciones extracurriculares. Ed. La Muralla
-
-Revistas   que  publican  investigación  en  Didáctica  de  las  Ciencias  (en  castellano):  Eureka,  Enseñanza
-de las Ciencias, Enseñanza de las Ciencias de la Tierra
-
 Zollman,   A.   (2012).   Learning   for   STEM   literacy:  STEM  literacy  for  learning.  School  Science  and
 Mathematics, 112(1), 12-19. https://doi.org/10.1111/j.1949- 8594.2012.00101.x
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

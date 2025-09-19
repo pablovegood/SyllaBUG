@@ -2,11 +2,13 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Tellis,   G.   J.   &  Redondeo,  I.  (2002).  Estrategias  de  Publicidad  y  Promoción.  Madrid:  Prentice  Hall
+Watzlawick,   P.,   Beavin,   J.  I.,  y  Jackson,  D.  (1993).  Teoría  de  la  Comunicación  Humana.  Barcelona:
+Herder
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (55):
 ------------------------------
 Arrondo,   E.,   Berné,   C.,   Múgica,   J.  M.,  &  Rivera,  P.,  (2002).  Modelling  of  customer  retention  in
 multi-format   retailing.   The   International   Review   of  Retail,  Distribution  and  Consumer  Research,
@@ -31,6 +33,9 @@ markets: a research note. Journal of Business Research, 64(8), 823-829
 
 Clemente, M. (1992). Psicología Social: métodos y técnicas de investigación. Madrid: Eudema
 
+Clemente,   M.   y   Santalla,   Z.  (1991).  El  documento  persuasivo:  análisis  de  contenido  y  publicidad.
+Bilbao: Deusto
+
 Córdoba y Torres. (1991). Técnicas de mercado. Bilbao. Deusto
 
 Davis,   S.,   &   Meyer,   C.   (1998).  Blur:  The  Speed  of  Change  In  the  Connected  Economy.  New  York,NY:
@@ -43,7 +48,8 @@ Del   Pozo,   M.   (1997).   Cultura   empresarial   y   comunicación   interna
 estratégica. Madrid: Fragua
 
 Del   Pozo,   M.   (2000).   Gestión  de  la  comunicación  interna  en  las  organizaciones.  Casos  de  empresa.
-Pamplona: Eunsa
+Pamplona:   Eunsa   Durán,   A.  (2000).  Psicología  de  la  Publicidad  y  de  la  Venta.  Barcelona:  Ediciones
+CEAC
 
 F Expósito, F. y Moya, M. (Coors.).(2005). Aplicando la Psicología Social. Madrid: Pirámide
 
@@ -140,22 +146,15 @@ Soler, P. (1991). La investigación motivacional en Marketing y Publicidad. Bilb
 
 Solé, M.L. (1999). Los consumidores del siglo XXI. Madrid: Esic
 
+Williams, K. (1981). Behavioral Aspects of Marketing. London: Heinemann
+
+✅ Recursos añadidos (3):
+------------------------------
+Durán, A. (2000). Psicología de la Publicidad y de la Venta. Barcelona: Ediciones CEAC
+
 Tellis, G. J. & Redondeo, I. (2002). Estrategias de Publicidad y Promoción. Madrid: Prentice Hall
 
 Watzlawick,   P.,   Beavin,   J.  I.,  y  Jackson,  D.  (1993).  Teoría  de  la  Comunicación  Humana.  Barcelona:
 Herder
 
-Williams, K. (1981). Behavioral Aspects of Marketing. London: Heinemann
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Clemente,   M.   y   Santalla,   Z.  (1991).  El  documento  persuasivo:  análisis  de  contenido  y  publicidad.
-Bilbao: Deusto
-
-Durán, A. (2000). Psicología de la Publicidad y de la Venta. Barcelona: Ediciones CEAC
-
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

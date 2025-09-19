@@ -2,30 +2,27 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Algebra Lineal con métodos elementales. Merino-Santos. Libr. GEOS 2005
 
 Calculus Early Transcendentals. James Stewart. 6 Edition, Thomson 2009.
 
-Introducción al Calculo. James Stewart. Thomson 2005
+Cálculo y Geometría analítica. Larson-Hosteler. MacGraw-Hill Introducción al Calculo. James Stewart.
+Thomson 2005
 
 Introduction to Linear Algebra in Geology. Ferguson J., Chapman & Hall, Londres 1994
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Mathématiques   pour  les  sciences  de  la  vie.  Grolier  J.-  Riss  J.  Mansson,  1992.  Mathematics:  a  simple
-tool   for   geologits.   Waltham   D.  Chapman  6  Hall,  Londres  1994  →  Mathématiques  pour  les  sciences  de
-la vie. Grolier J.- Riss J. Mansson, 1992
+Mathematics: a simple tool for geologits. Waltham D. Chapman 6 Hall, Londres 1994
 
-✅ Recursos añadidos:
+Mathématiques pour les sciences de la vie. Grolier J.- Riss J. Mansson, 1992
+
+✅ Recursos añadidos (1):
 ------------------------------
 Cálculo y Geometría analítica. Larson-Hosteler. MacGraw-Hill
 
-Mathematics: a simple tool for geologits. Waltham D. Chapman 6 Hall, Londres 1994
-
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

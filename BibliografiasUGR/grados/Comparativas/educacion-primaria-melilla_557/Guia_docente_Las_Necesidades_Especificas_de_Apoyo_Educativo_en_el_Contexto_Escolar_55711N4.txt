@@ -2,11 +2,13 @@
 Grado: educacion-primaria-melilla (557)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+González,   A.   (2004).   Evaluación   del   clima   escolar   como   factor  de  calidad.  La  Muralla:  Madrid
+Fernández,    A.   (2006).   Análisis   de   la   accesibilidad   mediática   de   personas   con   deprivación
+sociocultural. GEU: Granada
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Alcantud,   F.   (2003).   Intervención   psicoeducativa   en   niños   con   trastornos   generalizados   del
 desarrollo. Madrid: Pirámide
@@ -16,25 +18,27 @@ especiales. Dikynson: Madrid
 
 Fernández, A. (2012). La actitud: Un indicador para evaluar la escuela inclusiva. Dikynson: Madrid
 
+Llena,   A.,   Parcerisa,   A.,   y   Borison,   A.   (2008).   La   acción   socioeducativa  en  medio  abierto:
+fundamentos para la reflexión y elementos para la práctica. Barcelona: Graó
+
 Loizaga,   F.   (coord.)   (2009).   Intervención   psicoeducativa  con  familias:  programa  para  mejorar  la
 salud de los hijos. Madrid: CCS
 
 Repetto,   E.   (Dir.)   (2002).   Modelos   de  orientación  e  intervención  psicopedagógica  (Vol.  I  y  II).
 Madrid. Universidad Nacional de Educación a Distancia
 
+Rodrigo, M.J. y Palacios, J. (1998). Familia y desarrollo humano. Madrid: Alianza Editorial Vila, I.
+(1998).   Familia,   escuela   y   comunidad.   Cuadernos   de  Educación  nº  26.  Barcelona:  ICE  Universitat
+Barcelona – Editorial Horsori
+
 Rodríguez, M.L. (1995). Orientación e intervención psicopedagógica. Barcelona: CEAC
 
-Vila,   I.   (1998).   Familia,   escuela   y   comunidad.   Cuadernos   de   Educación  nº  26.  Barcelona:  ICE
-Universitat Barcelona – Editorial Horsori
+Solana, F., Díaz de Cossío, R. [et al.] (2005). Educación y desigualdad. Méjico: Siglo XXI
 
 Wainstein,   M.   (2000).   Intervenciones   con   individuos,  parejas,  familias  y  organizaciones.  Buenos
 Aires: Eudeba
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Elizondo,   C.  (2023).  Neuroeducación  y  diseño  universal  para  el  aprendizaje  :  una  propuesta  práctica
 para el aula inclusiva. Barcelona: Octaedro
@@ -44,16 +48,11 @@ sociocultural. GEU: Granada
 
 González, A. (2004). Evaluación del clima escolar como factor de calidad. La Muralla: Madrid
 
-Llena,   A.,   Parcerisa,   A.,   y   Borison,   A.   (2008).   La   acción   socioeducativa  en  medio  abierto:
-fundamentos para la reflexión y elementos para la práctica. Barcelona: Graó
-
 Miñán, A. (2025) 2ª Ed. Atención a la diversidad en el aula de Educación Infantil. Granada: Avicam
 
 Rodrigo, M.J. y Palacios, J. (1998). Familia y desarrollo humano. Madrid: Alianza Editorial
 
-Solana, F., Díaz de Cossío, R. [et al.] (2005). Educación y desigualdad. Méjico: Siglo XXI
-
 Susinos,   T.,   y   Rojas,   S.   (coords.).   (2024)   Mapa   para  no  perderse  en  la  Inclusión  Educativa  :
 prioridades emergentes según sus protagonistas. Barcelona : Octaedro
 
-📊 Porcentaje estimado de cambio: 88% [████████░░]
+📊 Porcentaje estimado de cambio: 43% [████░░░░░░]

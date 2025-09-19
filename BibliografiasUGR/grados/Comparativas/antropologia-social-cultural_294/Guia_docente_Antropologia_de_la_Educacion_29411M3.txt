@@ -2,11 +2,11 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (64):
 ------------------------------
 Alegre,   M.A.  y  Subirats,  J.  (Eds.)  (2008).  Educación  e  inmigración:  nuevos  retos  para  España  en  una
 perspectiva comparada. Madrid: CIS
@@ -29,15 +29,30 @@ Castellsagué,   A.   &   Carrasco,   S.   (2021).   Development,   education   
 empowerment   rhetoric   from   an  ethnographic  study  in  rural  Nepal.  Ethnography  and  Education,  16(1),
 92-108
 
+DOI:   10.5281/zenodo.3666178  Olmos  Alcaraz,  A.,  Rubio  Gómez,  M.  y  Bouachra,  O.  (2017).  From  Tattoos,
+veils   and   notebooks:   representations   of   otherness   and  identity  construction  processes  in  young
+students with migrants backgrounds in Spain. Ambivalências, 9(5), 61-86
+
 Dietz,   G.  (2008).  La  educación  religiosa  en  España:  ¿Contribución  al  diálogo  intercultural  o  factor
 de   conflicto  entre  religiones?.  Estudios  sobre  las  Culturas  Contemporáneas,  Época  II.  Vol.  XIV,  28,
 11-46
+
+Dietz,   G.   (2012).   Los   discursos   de   los   actores   étnicos:   la  semántica  en  la  etnografía  de  lo
+intercultural   (175-188).   En   G.   Dietz,   Multiculturalismo,   Interculturalidad   y   Educación:   Una
+aproximación   Antropológica.  México  DF:  FCE.  (Lectura  recomendada  para  alumnado  modalidad  presencial
+y obligatoria para alumnado modalidad evaluación final única)
 
 Dietz,   G.  (2012).  Multiculturalismo,  Interculturalidad  y  Educación:  Una  aproximación  Antropológica.
 Mexico DF: FCE
 
 Díaz   de   Rada,   A.   (2003).   Las   formas   del   holismo.   La  construcción  teórica  de  la  totalidad  en
 etnografía, RDTP, LVIII, 1, 237-262
+
+Díaz   de   Rada,   Á.   (2008).   ¿Qué   obstáculos   encuentra   la   etnografía   cuando  se  practica  en  las
+instituciones   escolares?  (24-48).  En  M.I.  Jociles  Rubio  y  A.  Franzé  Mudano  (Coord.),  ¿Es  la  escuela
+el   problema?:  perspectivas  socio-antropológicas  de  etnografía  y  educación.  Madrid:  Trotta.  (Lectura
+recomendada   para   alumnado   modalidad   presencial   y  obligatoria  para  alumnado  modalidad  evaluación
+final única)
 
 Eisenhart,   M.   (2021).   The  Anthropology  of  Learning  Revisited.  Anthropology  &  Education  Quarterly,
 52(2), 209-221
@@ -50,6 +65,11 @@ Económico y social
 
 Franzé   Mudano,  A.  (2008).  Diversidad  cultural  en  la  escuela:  algunas  contribuciones  antropológicas.
 Revista de educación, 345, pp. 111-132
+
+García   Castaño,   F.  J.  y  Pulido  Moyano,  R.  (2008).  Desarrollo  de  la  Antropología  de  la  Educación  en
+España:   razones   que  explican  la  casi  monográfica  mirada  a  las  llamadas  minorías  étnicas  (152-180).
+En   M.I.  Jociles  Rubio  y  A.  Franzé  Mudano  (Coord.),  ¿Es  la  escuela  el  problema?:  perspectivas  socio-
+antropológicas de etnografía y educación. Madrid: Trotta
 
 García   Castaño,   F.J.  y  Carrasco,  S.  (Eds.)  (2011).  Población  inmigrante  y  escuela.  Conocimientos  y
 saberes   de   investigación.   Textos  reunidos  en  homenaje  a  Eduardo  Terrén  Lalana.  Colección  Estudios
@@ -71,8 +91,19 @@ Madrid: Editorial Complutense
 Herskovits,   M.   (1943).   Education   and   cultural   dynamics.   American  Journal  of  Sociology,  48(6),
 737-749
 
+Jociles   Rubio,   M.  I.  (2007).  Panorámica  de  la  Antropología  de  la  Educación  en  España:  estado  de  la
+cuestión y recursos bibliográficos. Revista de Antropología Social, 16, 67-116. (Lectura recomendada
+para alumnado modalidad presencial y obligatoria para alumnado modalidad evaluación final única)
+
 Jociles   Rubio,  M.  I.  y  Franzé  Mudanó,  A.  (Coord.)  (2008).  ¿Es  la  escuela  el  problema?:  perspectivas
 socio-antropológicas de etnografía y educación. Madrid: Trotta
+
+Lewontin,   R.,   Rose,   R.  y  Kamin,  L.J.  (2009).  No  está  en  los  genes:  racismo,  genética  e  ideología.
+Barcelona: Crítica
+
+Mateos, L. y Dietz, G. (2015). ¿Qué de intercultural tiene la universidad intercultural?: Del debate
+político-pedagógico   a   un  estudio  de  caso  veracruzano.  Relaciones:  Estudios  de  historia  y  sociedad,
+36 (141), 13-45
 
 Mayoral, D., Molina, J. F. y Samper, L. (2012). ¿Islamofobia o currículo nulo? La representación del
 Islam,   las   culturas   musulmanas   y   los  inmigrantes  musulmanes  en  los  libros  de  texto  de  Cataluña.
@@ -83,9 +114,17 @@ Dilemmas in the Anthropology. Anthropology and Education Quaterly, 43(1), 1–12
 
 Mead, M. (1972). Educación y cultura. Buenos Aires: Paidós
 
+Mead,   M.  (1975).  La  educación  del  niño  samoano  (41-55).  En  M.  Mead,  Adolescencia,  sexo  y  cultura  en
+Samoa.   Barcelona:   Editorial   Laia.   (Lectura   recomendada   para   alumnado   modalidad   presencial  y
+obligatoria para alumnado modalidad evaluación final única)
+
 Máquez   Lepe,   E.   y   García-Cano   Torrico,   M.   (2012).   Educación   intercultural   y  comunidades  de
 aprendizaje: alianzas, compromisos y resistencias en el escenario escolar andaluz. Madrid: Libros de
 la Catarata
+
+Narciso   Pedro,   L.   (2014).   Las   ‘excesivas’  chicas  negras.  Trayectorias,  experiencias  escolares  e
+identidades   (17-24).  En  P.  Cucalón  (Ed.),  Etnografía  de  la  escuela  y  la  interseccionalidad.  Madrid:
+Traficantes de Sueños
 
 Navia,   D.,   Henderson,   R.I.  y  First,  L.  (2018).  Uncovering  Colonial  Legacies:  Voices  of  Indigenous
 Youth on Child Welfare (Dis)Placements. Anthropology & Education Quarterly,49, 146-164
@@ -99,6 +138,10 @@ prácticas   escolares   (374-426).   En   A.   Olmos   Alcaraz,   La   poblaci�
 construcción   de   la   diferencia.   Discursos   de  alteridad  en  el  sistema  educativo  andaluz.  Granada:
 Universidad de Granada
 
+Olmos   Alcaraz,   A.   (2016).   Algunas  reflexiones  sobre  etnografía  escolar:  holismo,  extrañamiento  y
+diversidad   cultural.   Revista   Investigación   en   la   Escuela,   89,  1-16.  (Lectura  recomendada  para
+alumnado modalidad presencial y obligatoria para alumnado modalidad evaluación final única)
+
 Olmos   Alcaraz,   A.   (2017).  “Los  malos  a  mí  no  me  llaman  por  mi  nombre,  me  dicen  moro  todo  el  día”:
 una   aproximación   etnográfica  sobre  alteridad  e  identidad  en  alumnado  inmigrante  musulmán.  Empiria.
 Revista de Metodología de Ciencias Sociales, 38, 85-107
@@ -108,9 +151,10 @@ funcionamiento   del   racismo:   Etnografía   virtual  sobre  representaciones
 identidad.     Madrid.     Centro    Reina    Sofía    Sobre    Adolescencia    y    Juventud,    Fad.    DOI:
 10.5281/zenodo.3666178
 
-Olmos   Alcaraz,   A.,   Rubio   Gómez,   M.   y   Bouachra,   O.  (2017).  From  Tattoos,  veils  and  notebooks:
-representations   of   otherness   and   identity  construction  processes  in  young  students  with  migrants
-backgrounds in Spain. Ambivalências, 9(5), 61-86
+Olmos   Alcaraz,   A.   y   Rubio   Gómez,   M.  (2014).  Imaginarios  sociales  sobre  “la/el  buen  y  la/el  mal
+estudiante”:   sobre   la   necesidad   de   un   análisis   interseccional   para   entender   las  lógicas  de
+construcción de la diferencia hacia el alumnado “inmigrante” (9-15). En P. Cucalón (Ed.), Etnografía
+de la escuela y la interseccionalidad. Madrid: Traficantes de Sueños
 
 Pàmies,   J.   (2011).   Las   identidades   escolares   y   sociales  de  los  jóvenes  marroquíes  en  Cataluña
 (España). Psicoperspectivas, 10, 1, 144-168
@@ -140,6 +184,10 @@ Nueva York: Holt, Rinehart and Winston
 Tordjman-Nebe,   T.   (2010).   Gender   and  ethnocentrism  in  borderland:  how  southern  Spanish  girls  and
 boys represent the moroccan "other". Convergencia: Revista de ciencias sociales, 53, 17-48
 
+Velasco,   H.   y   Díaz   de  Rada,  Á.  (2006).  Dos  ejemplos  de  etnografía  de  la  escuela.  Lo  que  hicieron
+Harry   y   John   (137-171).   En   H.   Velasco   y   A.  Díaz  de  Rada  (Ed.),  La  lógica  de  la  investigación
+etnográfica. Un modelo de trabajo para etnógrafos de escuela. Madrid: Trotta
+
 Velasco,   H.   y   Díaz   de   Rada,   Á.  (2006).  La  Lógica  de  la  Investigación  Etnográfica.  Un  modelo  de
 trabajo para etnógrafos de la escuela. Madrid: Trotta
 
@@ -148,6 +196,9 @@ and Intersections. Anthropology and Education Quaterly, 38(4), 419–425
 
 Walsh,   C.   (2007).  Interculturalidad,  colonialidad  y  educación.  Revista  Educación  y  Pedagogía,  XIX,
 48, 26-36
+
+Walsh,   C.  (2009).  Interculturalidad  crítica  y  pedagogía  de-colonial:  apuestas  (des)de  el  in-surgir,
+re-existir y re-vivir. Revista Entre Palabras, 3-4, 129-156
 
 Walsh,   C.   (2017).   Entretejiendo   lo   pedagógico   y   lo   decolonial:  luchas,  caminos  y  siembras  de
 reflexión-acción para resistir, (re)existir y (re)vivir. Ohio: Alter/nativas
@@ -180,61 +231,8 @@ Wolcott, H. (2007). Etnografía sin remordimientos. Revista de Antropología Soc
 European   Countries.   Pedagogical   Concepts  and  Empirical  Findings.  Munster/New  York/Munchen/Berlin:
 Waxmann
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Dietz,   G.   (2012).   Los   discursos   de   los   actores   étnicos:   la  semántica  en  la  etnografía  de  lo
-intercultural   (175-188).   En   G.   Dietz,   Multiculturalismo,   Interculturalidad   y   Educación:   Una
-aproximación   Antropológica.  México  DF:  FCE.  (Lectura  recomendada  para  alumnado  modalidad  presencial
-y obligatoria para alumnado modalidad evaluación final única)
-
-Díaz   de   Rada,   Á.   (2008).   ¿Qué   obstáculos   encuentra   la   etnografía   cuando  se  practica  en  las
-instituciones   escolares?  (24-48).  En  M.I.  Jociles  Rubio  y  A.  Franzé  Mudano  (Coord.),  ¿Es  la  escuela
-el   problema?:  perspectivas  socio-antropológicas  de  etnografía  y  educación.  Madrid:  Trotta.  (Lectura
-recomendada   para   alumnado   modalidad   presencial   y  obligatoria  para  alumnado  modalidad  evaluación
-final única)
-
-García   Castaño,   F.  J.  y  Pulido  Moyano,  R.  (2008).  Desarrollo  de  la  Antropología  de  la  Educación  en
-España:   razones   que  explican  la  casi  monográfica  mirada  a  las  llamadas  minorías  étnicas  (152-180).
-En   M.I.  Jociles  Rubio  y  A.  Franzé  Mudano  (Coord.),  ¿Es  la  escuela  el  problema?:  perspectivas  socio-
-antropológicas de etnografía y educación. Madrid: Trotta
-
-Jociles   Rubio,   M.  I.  (2007).  Panorámica  de  la  Antropología  de  la  Educación  en  España:  estado  de  la
-cuestión y recursos bibliográficos. Revista de Antropología Social, 16, 67-116. (Lectura recomendada
-para alumnado modalidad presencial y obligatoria para alumnado modalidad evaluación final única)
-
-Lewontin,   R.,   Rose,   R.  y  Kamin,  L.J.  (2009).  No  está  en  los  genes:  racismo,  genética  e  ideología.
-Barcelona: Crítica
-
-Mateos, L. y Dietz, G. (2015). ¿Qué de intercultural tiene la universidad intercultural?: Del debate
-político-pedagógico   a   un  estudio  de  caso  veracruzano.  Relaciones:  Estudios  de  historia  y  sociedad,
-36 (141), 13-45
-
-Mead,   M.  (1975).  La  educación  del  niño  samoano  (41-55).  En  M.  Mead,  Adolescencia,  sexo  y  cultura  en
-Samoa.   Barcelona:   Editorial   Laia.   (Lectura   recomendada   para   alumnado   modalidad   presencial  y
-obligatoria para alumnado modalidad evaluación final única)
-
-Narciso   Pedro,   L.   (2014).   Las   ‘excesivas’  chicas  negras.  Trayectorias,  experiencias  escolares  e
-identidades   (17-24).  En  P.  Cucalón  (Ed.),  Etnografía  de  la  escuela  y  la  interseccionalidad.  Madrid:
-Traficantes de Sueños
-
-Olmos   Alcaraz,   A.   (2016).   Algunas  reflexiones  sobre  etnografía  escolar:  holismo,  extrañamiento  y
-diversidad   cultural.   Revista   Investigación   en   la   Escuela,   89,  1-16.  (Lectura  recomendada  para
-alumnado modalidad presencial y obligatoria para alumnado modalidad evaluación final única)
-
-Olmos   Alcaraz,   A.   y   Rubio   Gómez,   M.  (2014).  Imaginarios  sociales  sobre  “la/el  buen  y  la/el  mal
-estudiante”:   sobre   la   necesidad   de   un   análisis   interseccional   para   entender   las  lógicas  de
-construcción de la diferencia hacia el alumnado “inmigrante” (9-15). En P. Cucalón (Ed.), Etnografía
-de la escuela y la interseccionalidad. Madrid: Traficantes de Sueños
-
-Velasco,   H.   y   Díaz   de  Rada,  Á.  (2006).  Dos  ejemplos  de  etnografía  de  la  escuela.  Lo  que  hicieron
-Harry   y   John   (137-171).   En   H.   Velasco   y   A.  Díaz  de  Rada  (Ed.),  La  lógica  de  la  investigación
-etnográfica. Un modelo de trabajo para etnógrafos de escuela. Madrid: Trotta
-
-Walsh,   C.  (2009).  Interculturalidad  crítica  y  pedagogía  de-colonial:  apuestas  (des)de  el  in-surgir,
-re-existir y re-vivir. Revista Entre Palabras, 3-4, 129-156
-
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

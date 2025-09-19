@@ -2,11 +2,11 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (48):
 ------------------------------
 AMAT, J-P., DORIZE, L. & LE COEUR, C. (2002). Eléments de géographie physique. Bréal
 
@@ -31,7 +31,7 @@ CASTIGLIONI, G.B. (1986). Geomorfología. UTET, Torino. 436 págs
 
 CHAPUT, J-L. (2006). Initiation à la géomorphologie. Ellipses, París. 176 págs
 
-CHARLTON,   R.   (2009).   Fundamentals  of  Fluvial  Geomorphology.  Routledge,  Abingdon  and  New  York.  234
+CHARLTON,   R.   (2009).  Fundamentals  of  Fluvial  Geomorphology.  Routledge  ,  Abingdon  and  New  York.  234
 págs
 
 CHORLEY, R.J., SCHUMM, S.A. & SUDGEN, D.E. (1984). Geomorphology. Methuen, London. 605 págs
@@ -117,11 +117,7 @@ VIERS, G. (1973). Geomorfología. Oikos Tau, Barcelona. 320 págs
 
 WHITTOW, J.B. (1988). Diccionario de Geografía Física. Alianza, Madrid, Barcelona. 178 págs
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

@@ -2,24 +2,20 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+BERTRAND,   C.  y  BERTRAND,  G.  (2006):  Geografía  del  Medio  Ambiente.  El  Sistema  GTP:  BIROT,  P.  (1970):
+Les régions naturelles du globe. Masson, París
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 AGUILERA, M.J. et al. (2009): Geografía General I: Geografía Física. UNED, Madrid
 
 AGUILÓ,   M.   ET   AL.   (2014):   Guía   para  la  elaboración  de  estudios  del  medio  físico.  Ministerio  de
 Agricultura, Alimentación y Medio Ambiente, Madrid
 
-BERTRAND,   C.   y   BERTRAND,   G.   (2006):   Geografía   del  Medio  Ambiente.  El  Sistema  GTP:  Geosistema,
-Territorio y Paisaje. Universidad de Granada, Granada. 403 p
-
 BERTRAND,   G.   (1968):   Paysage   et   Géographie   physique   globale.   Esquisse   méthodologique.  Revue
 Géographique des Pyrénées et du Soud-Ouest, 39-3, pp 249-272
-
-BIROT, P. (1970): Les régions naturelles du globe. Masson, París
 
 CHRISTOPHERSON, R. (1994): Geosystems: an introduction to physical geography. Mc Millan, New Yersey
 
@@ -52,6 +48,10 @@ SALA, M. & BATALLA, R.J. (1999): Teoría y Métodos en Geografía Física. Ed. S
 
 STRAHLER, ARTHUR & STRAHLER, ALAN (1994): Geografía Física. Ed. Omega, Barcelona
 
+Se   recomienda   considerar   también  toda  la  bibliografía,  tanto  fundamental  como  complementaria,  que
+aparece   en   las   distintas   guías   docentes   de   las   asignaturas   de  Geografía  Física  del  Grado  en
+Geografía y Gestión del Territorio de la UGR
+
 TARBUCK, E. y LUTGENS, F. (2005): Ciencias de la Tierra. Una introducción a la geografía física. Ed.
 Prentice Hall, Madrid
 
@@ -60,14 +60,11 @@ Geografía e Historia. Núm. 32
 
 WILLAR, E. (1985): Physical Geography: Earth Systems and Human Interactions. Ed. Merrill, Londres
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+BERTRAND,   C.   y   BERTRAND,   G.   (2006):   Geografía   del  Medio  Ambiente.  El  Sistema  GTP:  Geosistema,
+Territorio y Paisaje. Universidad de Granada, Granada. 403 p
 
-✅ Recursos añadidos:
-------------------------------
-Se   recomienda   considerar   también  toda  la  bibliografía,  tanto  fundamental  como  complementaria,  que
-aparece   en   las   distintas   guías   docentes   de   las   asignaturas   de  Geografía  Física  del  Grado  en
-Geografía y Gestión del Territorio de la UGR
+BIROT, P. (1970): Les régions naturelles du globe. Masson, París
 
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

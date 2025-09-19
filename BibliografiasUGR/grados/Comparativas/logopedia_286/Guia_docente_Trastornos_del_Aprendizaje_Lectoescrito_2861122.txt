@@ -2,11 +2,28 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+DOI:   https://doi.org/10.1080/15248372.2018.1545656   Geary,   D.C.  (2010).  Mathematical  disabilities:
+Reflections   on   cognitive,   neuropsychological,   and   genetic   components.   Learning  and  Individual
+Differences, 20 (2), 130-133
 
-📚 Recursos sin cambios:
+Diuk,   B.,   Barreyro,   J.   P.,   Ferroni,  M.,  Mena,  M.,  &  Serrano,  F.  (2019).  Reading  Difficulties  in
+LowSES Children: A Study of Cognitive Profiles. Journal of Cognition and Development, 20(1), 75-95
+
+Journal of Research in Reading, 35 (2), 169-182. doi: 10.1111/j.1467-9817.2010.01454.x Serrano, F. &
+Defior,   S.   (2014).   Written   Spelling   in   Spanish-   Speaking  Children  with  Dyslexia.  En  Arfé,  B.,
+Dockrell,   J.,  &  Berninger,  V.  (eds.),  Writing  development  and  instruction  in  children  with  hearing,
+speech and oral language difficulties (pp.214-227). London: Oxford University Press
+
+Serrano, F. & Defior, S. (2012). Spanish dyslexic spelling abilities: the case of consonant clusters
+
+y   Serrano   Chica,   F.   D.   (2006).   LEE.   Test  de  Lectura  y  Escritura  en  Español.  Paidós  Mata,  S.  &
+Serrano,   F.  (2019).  Test  EPALE.  Test  de  Evaluación  del  potencial  de  Aprendizaje  para  la  Ramos,  J.L.
+y   Cuetos,   F   (1999).   PROLEC-SE   Evaluación   de   los   procesos  lectores  en  alumnos  de  3er  ciclo  de
+primaria y secundaria. Madrid: TEA
+
+📚 Recursos sin cambios (42):
 ------------------------------
 Adrian,   J.A.,   Rodríguez-Parra,   M.J.,   Buiza,   J.J.   y  Giménez  de  la  Peña,  A.  (2010).  Lengua  oral,
 dificultades   en   el   aprendizaje  de  la  lengua  escrita  e  inmigración.  En  A  B.  Domínguez  y  M  Carrillo
@@ -18,6 +35,9 @@ Domínguez y M Carrillo (Eds.), Dislexia y Sordera. (pp. 133-152). Archidona: Al
 American   Psychiatric   Association   (2013).   Diagnostic   and  Statistical  Manual  of  Mental  Disorders.
 Fifth Edition (DSM-5). Arlington, VA (USA): American Psychiatric Publishing
 
+BIBLIOGRAFÍA   ESPECÍFICA:  American  Psychiatric  Association  (2013).  Diagnostic  and  Statistical  Manual
+of Mental Disorders
+
 Carrillo,   M.  y  Domínguez,  A.  B.  (coords.)  (2010).  Dislexia  y  sordera:  Líneas  actuales  en  el  estudio
 de la lengua escrita y sus dificultades. Archidona: Aljibe
 
@@ -25,24 +45,6 @@ Cuetos, F. (2010). Psicología de la lectura. Madrid: Escuela española (reedici
 
 Cuetos,   F.   (2012).   Neurociencia   del   Lenguaje.   Bases   neurológicas   e   implicaciones   clínicas.
 Barcelona: Editorial Médica Panamericana
-
-Manual   guía  de  la  asignatura  (grupo  grande):  Defior,  S.,  Serrano,  F.,  &  Gutiérrez-Palma,  N.  (2015).
-Dificultades Específicas de Aprendizaje. Síntesis
-
-Manual   para   trabajo   en   pequeño   grupo   –  Análisis  de  casos  de  DEA  (grupo  pequeño):  Serrano,  F.  &
-Monte-Tablada, I. (2018). Análisis de casos de dificultades de aprendizaje. Cuaderno de Actividades.
-Editorial Técnica Avicam
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-BIBLIOGRAFÍA ESPECÍFICA
-
-Cuetos   Vega,   F.,   Ramos   Sánchez,   J.   L.,  &  Ruano  Hernández,  E.  (2004).  PROESC:  Evaluación  de  los
-procesos de escritura. TEA
 
 Cuetos,   F.,   Arribas,   D.,   Suárez-Coalla,  P.  y  Martínez-García,  C.  (2020).  PROLEXIA.  Diagnóstico  y
 Detección Temprana de la Dislexia. TEA Ediciones
@@ -79,13 +81,6 @@ AELFA, 1. Sección de casos, 24-26. ISSN 1137-8174
 
 Dehaene, S. (2009). Reading in the brain. New York: Penguin Viking
 
-Diuk, B., Barreyro, J. P., Ferroni, M., Mena, M., & Serrano, F. (2019). Reading Difficulties in Low-
-SES   Children:   A   Study   of  Cognitive  Profiles.  Journal  of  Cognition  and  Development,  20(1),  75-95.
-DOI: https://doi.org/10.1080/15248372.2018.1545656
-
-Geary,   D.C.   (2010).   Mathematical   disabilities:  Reflections  on  cognitive,  neuropsychological,  and
-genetic components. Learning and Individual Differences, 20 (2), 130-133
-
 González Fernández, A. (2010). Estrategias de comprensión lectora. Madrid: Síntesis
 
 Immordino-Yang,   M.   H.,   y   Fischer,  K.  W.  (2010).  Neuroscience  bases  of  learning.  En  V.  G.  Aukrust
@@ -100,8 +95,12 @@ Jiménez-Fernández,   G.,  Defior,  S.  &  Serrano,  F.  (2010).  Adquisición 
 palabras:   modelos   y   metodología   de   estudio.   En  A  B.  Domínguez  y  M.  Carrillo  (Eds.),  Dislexia  y
 Sordera. (pp. 75-97). Archidona: Aljibe. ISBN: 9788497006415
 
-Mata,   S.   &  Serrano,  F.  (2019).  Test  EPALE.  Test  de  Evaluación  del  potencial  de  Aprendizaje  para  la
-Lectoescritura. Editorial Universidad de Granada (EUG)
+Manual   guía  de  la  asignatura  (grupo  grande):  Defior,  S.,  Serrano,  F.,  &  Gutiérrez-Palma,  N.  (2015).
+Dificultades Específicas de Aprendizaje. Síntesis
+
+Manual   para   trabajo   en   pequeño   grupo   –  Análisis  de  casos  de  DEA  (grupo  pequeño):  Serrano,  F.  &
+Monte-Tablada, I. (2018). Análisis de casos de dificultades de aprendizaje. Cuaderno de Actividades.
+Editorial Técnica Avicam
 
 Matute,   E.  y  Guajardo,  S.  (coors.)  (2012).  Dislexia.  Definición  e  intervención  en  hispanohablantes,
 (pp. 35-70). Guadalajara, México: Universidad de Guadalajara. ISBN 978-970-764-360-4
@@ -122,10 +121,8 @@ Nieder,   A.  y  Dehaene,  S.  (2009).  Representation  of  number  in  the  bra
 Orrantia, J. (2005). Diferencias individuales en aritmética cognitiva. Influencia de los procesos de
 recuperación de hechos numéricos. Cognitiva, 17, 71-84
 
-PRUEBAS DE EVALUACIÓN
-
-Ramos,   J.L.   y   Cuetos,   F   (1999).  PROLEC-SE  Evaluación  de  los  procesos  lectores  en  alumnos  de  3er
-ciclo de primaria y secundaria. Madrid: TEA
+PRUEBAS   DE  EVALUACIÓN:  Cuetos  Vega,  F.,  Ramos  Sánchez,  J.  L.,  &  Ruano  Hernández,  E.  (2004).  PROESC:
+Evaluación de los procesos de escritura. TEA
 
 Riddick, B. (2010). Living with dyslexia: the social and emotional consequences of specific learning
 difficulties-disabilities. London: Routledge
@@ -137,24 +134,9 @@ entre disciplinas (pp. 1025-1032). Madrid: UNED
 Serrano,   F.  &  Defior,  S.  (2008).  Speed  problems  in  dyslexia  in  a  transparent  orthography.  Annals  of
 Dyslexia, 58, 81-95. DOI: 10.1007/s11881-008-0013-6
 
-Serrano,   F.   &   Defior,   S.   (2012).   Spanish   dyslexic   spelling   abilities:  the  case  of  consonant
-clusters. Journal of Research in Reading, 35 (2), 169-182. doi: 10.1111/j.1467-9817.2010.01454.x
-
-Serrano,   F.   &   Defior,  S.  (2014).  Written  Spelling  in  Spanish-  Speaking  Children  with  Dyslexia.  En
-Arfé, B., Dockrell, J., & Berninger, V. (eds.), Writing development and instruction in children with
-hearing, speech and oral language difficulties (pp.214-227). London: Oxford University Press
-
 Serrano, F. (2019). The emotional profile in children with dyslexia and learning disabilities. En E.
 Witruk   &   D.   S.   Utami,   Studies   on  Educational  and  Rehabilitation  Psychology  (Vol.  8):  Traumatic
 Experiences and Dyslexia (pp.205-214). Frankfurt am Main: Peter Lang
-
-Serrano,   F.  y  Defior,  S.  (2006)  Lectura  en  dislexia  superficial  vs.  dislexia  fonológica.  Estudio  de
-dos   casos.   AELFA   y  Universidad  de  Granada.  En  AA.  VV.  (Eds.),  25  Congreso  Internacional  de  AELFA,
-327-332
-
-Serrano,   F.  y  Defior,  S.  (2006)  Palabras  inventadas  y  palabras  reales  ¿Cómo  ayuda  el  tipo  de  ítem  a
-identificar un niño con problemas de lectura? En AA. VV. (Eds.), 25 Congreso Internacional de AELFA,
-783-787. Granada: Editorial Universidad de Granada
 
 Serrano,   F.  y  Defior,  S.  (2010).  Intervención  en  dislexia:  diferenciando  soluciones  reales  y  mitos.
 En   A   B.  Domínguez  y  M  Carrillo  (Eds.),  Dislexia  y  Sordera.  (pp.  133-152).  Archidona:  Aljibe.  ISBN:
@@ -171,10 +153,44 @@ Soto,   P.   Maldonado,   A.   &   Sebastián,   E.   (1992).   Prueba   de   ev
 Twardosz,   S.   (2012).   Effects   of   Experience   on   the   Brain:   The   Role  of  Neuroscience  in  Early
 Development and Education. Early Education & Development, 23 (1), 96-119
 
+Witruk   &   D.   S.   Utami,   Studies   on  Educational  and  Rehabilitation  Psychology  (Vol.  8):  Traumatic
+Experiences and Dyslexia (pp.205-214). Frankfurt am Main: Peter Lang Serrano, F. y Defior, S. (2006)
+Palabras   inventadas   y   palabras   reales   ¿Cómo   ayuda   el   tipo   de  ítem  a  identificar  un  niño  con
+problemas   de   lectura?   En   AA.   VV.   (Eds.),  25  Congreso  Internacional  de  Serrano,  F.  y  Defior,  S.
+(2006) Lectura en dislexia superficial vs. dislexia fonológica. Estudio de AELFA, 327-332
+
 Wolf, M. (2008). Cómo aprendemos a leer. Barcelona: Ediciones B
 
 Zuppardo,   L.,   Rodríguez   Fuentes,   A.,   Pirrone,   C.  y  Serrano,  F.  (2020).  Las  repercusiones  de  la
 dislexia   en   la   autoestima,   en   el   comportamiento   socioemocional  y  en  la  ansiedad  en  escolares.
 Psicología Educativa, 26(2), 175-183. https://doi.org/10.5093/psed2020a4
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (8):
+------------------------------
+Diuk, B., Barreyro, J. P., Ferroni, M., Mena, M., & Serrano, F. (2019). Reading Difficulties in Low-
+SES   Children:   A   Study   of  Cognitive  Profiles.  Journal  of  Cognition  and  Development,  20(1),  75-95.
+DOI: https://doi.org/10.1080/15248372.2018.1545656
+
+Geary,   D.C.   (2010).   Mathematical   disabilities:  Reflections  on  cognitive,  neuropsychological,  and
+genetic components. Learning and Individual Differences, 20 (2), 130-133
+
+Mata,   S.   &  Serrano,  F.  (2019).  Test  EPALE.  Test  de  Evaluación  del  potencial  de  Aprendizaje  para  la
+Lectoescritura. Editorial Universidad de Granada (EUG)
+
+PRUEBAS DE EVALUACIÓN
+
+Ramos,   J.L.   y   Cuetos,   F   (1999).  PROLEC-SE  Evaluación  de  los  procesos  lectores  en  alumnos  de  3er
+ciclo de primaria y secundaria. Madrid: TEA
+
+Serrano,   F.   &   Defior,   S.   (2012).   Spanish   dyslexic   spelling   abilities:  the  case  of  consonant
+clusters. Journal of Research in Reading, 35 (2), 169-182. doi: 10.1111/j.1467-9817.2010.01454.x
+
+Serrano,   F.   &   Defior,  S.  (2014).  Written  Spelling  in  Spanish-  Speaking  Children  with  Dyslexia.  En
+Arfé, B., Dockrell, J., & Berninger, V. (eds.), Writing development and instruction in children with
+hearing, speech and oral language difficulties (pp.214-227). London: Oxford University Press
+
+Serrano,   F.  y  Defior,  S.  (2006)  Lectura  en  dislexia  superficial  vs.  dislexia  fonológica.  Estudio  de
+dos   casos.   AELFA   y  Universidad  de  Granada.  En  AA.  VV.  (Eds.),  25  Congreso  Internacional  de  AELFA,
+327-332
+
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

@@ -2,14 +2,15 @@
 Grado: cc-politicas-admon-sociologia (219)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Bouso-Freijo,   J.  (2018).  El  paquete  estadístico  R.  Madrid:  Centro  de  Investigaciones  Cuadras,  C.  M.
-(2000). Problemas de probabilidades y estadística. Barcelona: Universidad de Barcelona
+Bouso-Freijo,   J.   (2018).  El  paquete  estadístico  R.  Madrid:  Centro  de  Investigaciones  Sociológicas.
+https://libreria.cis.es/libros/el-paquete-estadistico-r/9788474767773/    Cuadras,    C.    M.   (2000).
+Problemas de probabilidades y estadística. Barcelona: Universidad de Barcelona
 
 García Ferrando, y otros (comp) (2007). El análisis de la realidad social. Madrid: Alianza Editorial
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Berihuete   Macias,   Ángel  .,  García  Ramos,  Juan  Antonio  y  Ramos  González,  Carmen  (2018).  Estadística
 descriptiva y probabilidad para criminólogos. Universidad de Cádiz UCA
@@ -22,14 +23,12 @@ R y R-Commander. FUOC. Barcelona
 
 López Moreno, Walter. (2021). Estadística práctica. El Cid Editor
 
+Paladino, Martín (2018). R para Ciencias Sociales. https://martinpaladino.github.io/rsociales/
+
 Vela   Torres,   Manuel.  y  Rodríguez  Monge,  Ángel.  (2011).  Introducción  al  Análisis  de  Datos.  Proyecto
 Sur. Granada
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Aristondo   Echeberria,  Oihana.  Núñez  González,  José  David  y  Porlán  Ferrando,  Lucía  (2025)  Matemática
 estadística.                      Manuales                      universitarios                     UPV.
@@ -41,6 +40,4 @@ Sociológicas. https://libreria.cis.es/libros/el-paquete-estadistico-r/978847476
 Moreno   Díaz   Arminda   y   Rodríguez   Galiano,   María   Isabel   (2016).   Fundamentos   de  estadística  y
 probabilidad . Centro de Estudios Financieros
 
-Paladino, Martín (2018). R para Ciencias Sociales. https://martinpaladino.github.io/rsociales/
-
-📊 Porcentaje estimado de cambio: 85% [████████░░]
+📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

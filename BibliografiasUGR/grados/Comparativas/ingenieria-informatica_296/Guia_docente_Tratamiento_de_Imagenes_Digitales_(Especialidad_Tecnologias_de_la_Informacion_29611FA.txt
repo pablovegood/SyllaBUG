@@ -2,25 +2,24 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+E.   Matthes,   Python  Crash  Couse,  No  Starch  Press,  2015  S.  Prince  Computer  Vision:  Models,  Learning,
+and Inference , 2012 R. Szeliski Computer Vision: Algorithms and Applications, 2022
 
-📚 Recursos sin cambios:
+S. Dey, Python Image Processing Cookbook, Packt Publishing, 2020 R. Chityala and S. Pudipeddi, Image
+Acquisition   using   Python,   CRC   Press,   2021  C.  Hill,  Learning  Scientific  Programming  with  Python,
+Cambridge University Press, 2021
+
+📚 Recursos sin cambios (1):
 ------------------------------
 S. Dey, Hands-On Image Processing with Python, Packt Publishing, 2018
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-S. Dey, Python Image Processing Cookbook, Packt Publishing, 2020 R. Chityala and S. Pudipeddi, Image
-Acquisition   using   Python,   CRC   Press,   2021  C.  Hill,  Learning  Scientific  Programming  with  Python,
-Cambridge   University   Press,   2021   E.  Matthes,  Python  Crash  Couse,  No  Starch  Press,  2015  S.  Prince
-Computer   Vision:  Models,  Learning,  and  Inference  ,  2012  R.  Szeliski  Computer  Vision:  Algorithms  and
-Applications, 2022  →  E. Matthes, Python Crash Couse, No Starch Press, 2015
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 C. Hill, Learning Scientific Programming with Python, Cambridge University Press, 2021
+
+E. Matthes, Python Crash Couse, No Starch Press, 2015
 
 R. Chityala and S. Pudipeddi, Image Acquisition using Python, CRC Press, 2021
 

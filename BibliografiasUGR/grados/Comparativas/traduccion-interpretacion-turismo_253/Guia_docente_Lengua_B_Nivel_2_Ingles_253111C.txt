@@ -2,11 +2,11 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (27):
 ------------------------------
 Advanced Learner’s English Dictionary. New Edition (2003). Collins Cobuild
 
@@ -14,6 +14,8 @@ COE,   N.,   R.   RYCROFT   and   P.  ERNEST  (  1983)  Writing  Skills.  A  pro
 University Press
 
 Collins Master Dictionary Español-Inglés, English-Spanish (2002). Grijalbo
+
+DICTIONARIES The New Oxford Dictionary of English (1998). Oxford
 
 Diccionario Oxford de Phrasal Verbs. Inglés-Español (2001). Oxford
 
@@ -35,6 +37,8 @@ KELLER,   E.   &   S.   T.  WARNER  (1988),  Conversation  Gambits.  Real  Engli
 Language
 
 Learner’s Dictionary (1996). Collins Cobuild
+
+Lectura complementaria a especificar al comienzo del curso
 
 Longman Dictionary of Contemporary English. New Edition (2003). Longman
 
@@ -61,16 +65,8 @@ SCARBROUGH, D. (1984), Reasons for Listening. Cambridge University Press
 The BBI Dictionary of English Word Combinations (1997). John Benjamins Publishing Company. Amsterdam
 / Philadelphia
 
+✅ Recursos añadidos (1):
+------------------------------
 The New Oxford Dictionary of English (1998). Oxford
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-DICTIONARIES
-
-Lectura complementaria a especificar al comienzo del curso
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]

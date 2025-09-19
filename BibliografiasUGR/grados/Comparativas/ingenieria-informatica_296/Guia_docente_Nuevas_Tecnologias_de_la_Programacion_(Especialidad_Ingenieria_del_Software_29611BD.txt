@@ -2,13 +2,14 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Chapman & Hall, 2017. Head First Design Patterns: a brain-friendly guide. E. Freeman, E. Freeman, B.
-Bates, K
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
+Big Java: Early objects. C. Horstman. Wiley, 2019
+
 Design Patterns Explained. A. Shalloway, J.R. Trott. Addison-Wesley, 2004
 
 Functional Programming in Java. P.Y. Saumont. Manning, 2017
@@ -23,6 +24,12 @@ Get programming with Scala. D. Sfregola. Manning, 2021
 Head   First   Design   Patterns:   a  brain-friendly  guide.  E.  Freeman,  E.  Freeman,  B.  Bates,  K.  Sierra.
 O’Reilly Media, 2020
 
+Introduction to Java Programming and Data Structures. Y.D. Liang. Pearson, 2021
+
+Introduction to the art of programming using Scala. M. C. Lewis. Chapman & Hall, 2012
+
+Learning Scala: practical functional programming for the JVM. J. Swartz. O'Reilly Media, 2015
+
 Object   orientation,  abstraction  and  data  structures  using  Scala.  M.C.  Lewis,  L.L.  Lacher.  Chapman  &
 Hall, 2017
 
@@ -31,20 +38,8 @@ Media, 2021
 
 Programming in Scala, M. Odersky, L. Spoon, B. Venners. Artima, 2021
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Introduction   to   the   art   of   programming  using  Scala.  M.  C.  Lewis.  Chapman  &  Hall,  2012.  Learning
-Scala:    practical    functional   programming   for   the   JVM.   J.   Swartz.   O'Reilly   Media,   2015   →
-Introduction to the art of programming using Scala. M. C. Lewis. Chapman & Hall, 2012
+No hay elementos.
 
-Introduction   to   Java   Programming   and  Data  Structures.  Y.D.  Liang.  Pearson,  2021.  Big  Java:  Early
-objects.   C.   Horstman.   Wiley,   2019   →   Introduction  to  Java  Programming  and  Data  Structures.  Y.D.
-Liang. Pearson, 2021
-
-✅ Recursos añadidos:
-------------------------------
-Big Java: Early objects. C. Horstman. Wiley, 2019
-
-Learning Scala: practical functional programming for the JVM. J. Swartz. O'Reilly Media, 2015
-
-📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

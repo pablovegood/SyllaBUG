@@ -2,14 +2,20 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
+Kaplan, D. y Manners, R. A. 1972. Introducción crítica a la teoría antropológica. México
+
 Nueva   Imagen.1985  Kottak,  C.P.  1994.  Antropología.  Una  exploración  de  la  diversidad  humana.  Madrid:
 Mc GrawHill
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
-Azcona, J. 1991. Para comprender la Antropología. Navarra: Verbo Divino
+Bloque   temático   I  Bohannan,  P.  1992.  Para  raros  nosotros.  Introducción  a  la  Antropología  Cultural.
+Madrid: Akal
+
+Bloque   temático  II  Para  este  bloque  se  manejarán,  como  mínimo  -además  de  la  bibliografía  específica
+de
 
 Bohannan, P. 1992. Para raros nosotros. Introducción a la Antropología Cultural. Madrid: Akal
 
@@ -64,19 +70,16 @@ Wolcott,   H.  F.  1993.  "Sobre  la  intención  etnográfica".  Velasco  Maíl
 Díaz   de   Rada,  A.  (Eds.).  Lecturas  de  antropología  para  educadores:  el  ámbito  de  la  antropología  de
 la educación y de la etnografía escolar. Madrid: Trotta. Pp. 127-144
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Kaplan,   D.   y  Manners,  R.  A.  1972.  Introducción  crítica  a  la  teoría  antropológica.  México  →  Kaplan,
-D. y Manners, R. A. 1972. Introducción crítica a la teoría antropológica. México. Nueva Imagen.1985
+asignatura-,   los   siguientes   manuales   básicos:   Azcona,  J.  1991.  Para  comprender  la  Antropología.
+Navarra: Verbo Divino
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
-Bloque temático I
-
-Bloque temático II
+Kaplan,   D.   y   Manners,   R.   A.  1972.  Introducción  crítica  a  la  teoría  antropológica.  México.  Nueva
+Imagen.1985
 
 Para   este  bloque  se  manejarán,  como  mínimo  -además  de  la  bibliografía  específica  de  cada  uno  de  los
 apartados   del   tema   5   que   se   proporcionará   al   comienzo   de   esta  parte  de  la  asignatura-,  los
 siguientes manuales básicos
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

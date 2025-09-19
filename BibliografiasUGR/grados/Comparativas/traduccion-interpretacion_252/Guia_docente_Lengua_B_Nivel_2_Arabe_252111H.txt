@@ -2,17 +2,15 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+PARADELA   ALONSO,   N.   (1998).   Manual   de  sintaxis  árabe.  Madrid:  Universidad  Autónoma  ABBOUD,  P.  y
+McCARUS,   E.   (1983):   Elementary   Modern   Standard   Arabic.  Part  II:  Arabic  Grammar  and  Vocabulary.
+Cambridge University Press
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
-ABUMALHAM, M. (1986). Antología de Textos árabes con glosario. Madrid
-
 AL- MUNYID fi l-luga wa- l-ac lam (1992). 3ª ed. Beirut: Dar al- Masriq
-
-AL-MONGUED arabe - français, français- arabe (1972). Beirut: Dar al- Machreq
 
 ATTAR,   S.   (1998).   Modern   Arabic:   an   Advanced   Course   for  Foreign  Students.  The  Arab-  European
 Encounter. Beirut: Librairie du Liban
@@ -35,8 +33,13 @@ CORTÉS, J. (1996). Diccionario de árabe culto moderno. Madrid: Gredos
 
 COWAN, David (1998). Gramática de la lengua árabe. Madrid: Cátedra
 
+DICCIONARIOS: AL-MONGUED arabe - français, français- arabe (1972). Beirut: Dar al- Machreq
+
 DICKINS,   J.   y  WATSON,  J.  (1998):  Standard  Arabic:  An  Avanced  Course.  Teacher’s  Handbook.  Cambridge
 University Press
+
+FUENTES   PRIMARIAS,  TEXTOS  Y  MATERIAL  DE  APOYO:  ABUMALHAM,  M.  (1986).  Antología  de  Textos  árabes  con
+glosario. Madrid
 
 HAYWOOD J. A. y NAHMAD, H. M. (1992). Nueva gramática árabe. Madrid: Coloquio
 
@@ -63,15 +66,11 @@ Liban
 WIGHTWICK,   J.   y   GAAFAR,  M.  (1991).  Mastering  Arabic.  Macmillan  Master  Series.  Londres:  Macmillan.
 (+2 casetes)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-PARADELA   ALONSO,   N.   (1998).   Manual   de  sintaxis  árabe.  Madrid:  Universidad  Autónoma  ABBOUD,  P.  y
-McCARUS,   E.   (1983):   Elementary   Modern   Standard   Arabic.  Part  II:  Arabic  Grammar  and  Vocabulary.
-Cambridge   University   Press   →   ABBOUD,  P.  y  McCARUS,  E.  (1983):  Elementary  Modern  Standard  Arabic.
-Part II: Arabic Grammar and Vocabulary. Cambridge University Press
+ABBOUD,   P.   y   McCARUS,   E.   (1983):  Elementary  Modern  Standard  Arabic.  Part  II:  Arabic  Grammar  and
+Vocabulary. Cambridge University Press
 
-✅ Recursos añadidos:
-------------------------------
 CARANDELL, J., Texiti, A. y Sánchez, J. (1994). Árabe de prensa. Un método para la comprensión
 
 DICCIONARIOS
@@ -80,4 +79,4 @@ FUENTES PRIMARIAS, TEXTOS Y MATERIAL DE APOYO
 
 PARADELA ALONSO, N. (1998). Manual de sintaxis árabe. Madrid: Universidad Autónoma
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 AMADOR BLANCO, A.J.: Estudio del derecho sobre la ordenación territorial y urbanística en Andalucía.
 IAP. 2016
@@ -22,14 +22,16 @@ MUÑOZ MACHADO, S.: ”Diccionario de Derecho Administrativo” Madrid. (última
 
 PARADA R.: Derecho Administrativo I. Parte General. Marcial Pons. Madrid. (última edición)
 
+RAZQUÍN LIZÁRRAGA, M.Mª: Nueva contratación pública: Mercado y medioambiente. Aranzadi. 2017
+
+ROSELLÓ VILA, A.: Las licencias urbanísticas en el ámbito municipal. Tirant lo Blanch. 2017
+
 TOMÁS   RAMÓN   FERNÁNDEZ.:  Manual  de  derecho  urbanístico.  Publicaciones  Abella.  El  Consultor.  Madrid.
 (última edición)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+VAQUER CABALLERÍA, M: La eficacia y efectividad del derecho a la vivienda en España. Iustel. 2011
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 GARCÍA   LOZANO,   L.  M.  La  defensa  del  patrimonio  cultural  a  través  de  las  Administraciones  Públicas:
 análisis de los distintos niveles territoriales intervinientes, Thomson Reuters Aranzadi, 2019
@@ -38,10 +40,4 @@ GARCÍA   LOZANO,   L.  M.  La  noción  de  bosque  en  la  regulación  españ
 un   concepto  jurídico,  en  Revista  Digital  de  Derecho  Administrativo,  ISSN-e  2145-2946,  Nº.  26,  2021,
 págs. 229-261
 
-RAZQUÍN LIZÁRRAGA, M.Mª: Nueva contratación pública: Mercado y medioambiente. Aranzadi. 2017
-
-ROSELLÓ VILA, A.: Las licencias urbanísticas en el ámbito municipal. Tirant lo Blanch. 2017
-
-VAQUER CABALLERÍA, M: La eficacia y efectividad del derecho a la vivienda en España. Iustel. 2011
-
-📊 Porcentaje estimado de cambio: 71% [███████░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

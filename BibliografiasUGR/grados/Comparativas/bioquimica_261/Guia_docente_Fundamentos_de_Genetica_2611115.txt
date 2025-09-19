@@ -2,34 +2,24 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Brown, T.A. 2008. Genomas. Editorial Médica Panamericana
-
 Klug,   W.S.,  M.R.  Cummings,  Spencer,  C.A.,  Palladino,  M.A.  2014.  Concepts  of  Genetics.  11th  Edition.
-Pearson Education
+Pearson   Education   Klug,   W.S.,   M.R.   Cummings,   Spencer,  C.A.,  Palladino,  M.A.  2013.  Conceptos  de
+Genética. 10ª Edición. Pearson Educación
 
-Lewin, B. 2008. Genes IX. McGraw-Hill/Interamericana
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (10):
 ------------------------------
 Benito Jiménez, C. 1997. 360 Problemas de Genética resueltos paso a paso. Editorial Síntesis
+
+Brown, T.A. 2008. Genomas. Editorial Médica Panamericana
 
 Griffiths,   A.J.F,   S.R.   Wessler,   R.C.   Lewontin  S.B.  Carroll.  2008.  Genética.  9ª  Edición.  McGraw-
 Hill/Interamericana
 
 Jiménez Sánchez, A. 1997. Problemas de Genética para un curso general. Univ. de Extremadura. España
 
-Klug,   W.S.,  M.R.  Cummings,  Spencer,  C.A.,  Palladino,  M.A.  2013.  Conceptos  de  Genética.  10ª  Edición.
-Pearson Educación
+Lewin, B. 2008. Genes IX. McGraw-Hill/Interamericana
 
 Ménsua, J.L. 2003. Genética, problemas y ejercicios resueltos. Pearson/Prentice Hall
 
@@ -43,4 +33,12 @@ Stanfield, W .D. 1992. Teoría y Problemas de Genética. 3ª Edición. McGraw-Hi
 Viseras,    E.   2008.   Cuestiones   y   problemas   resueltos   de   Genética.   2ª   Edición.   Servicio   de
 Publicaciones UGR
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Klug,   W.S.,  M.R.  Cummings,  Spencer,  C.A.,  Palladino,  M.A.  2013.  Conceptos  de  Genética.  10ª  Edición.
+Pearson Educación
+
+Klug,   W.S.,  M.R.  Cummings,  Spencer,  C.A.,  Palladino,  M.A.  2014.  Concepts  of  Genetics.  11th  Edition.
+Pearson Education
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

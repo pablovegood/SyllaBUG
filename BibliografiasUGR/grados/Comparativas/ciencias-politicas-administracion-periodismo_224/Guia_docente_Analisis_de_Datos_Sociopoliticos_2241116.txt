@@ -2,20 +2,19 @@
 Grado: ciencias-politicas-administracion-periodismo (224)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-Coll, S. y Guijarro, M. (1998). Estadística aplicada a la historia y a las ciencias sociales
-
 Duque-Calvache, R. y Torrado, J.M. (En prensa). Guía práctica para iniciarse en el análisis de datos
 en ciencias sociales
 
 Latiesa, M. (1991). El pluralismo metodológico en la investigación social: ensayos típicos
 
-Pardo Merino, A. y Ruíz Díaz, M. A. (2005). Análisis de datos con SPSS 13 Base
+Pardo Merino, A. y Ruíz Díaz, M. A. (2005). Análisis de datos con SPSS 13 Base. McGrawHill
 
-Servicio de Publicaciones de la Universidad de Granada
+https://bookdown.org/gboccardo/manual-ED-UCH/uso-basico-de-rstudio.html   Coll,   S.   y   Guijarro,   M.
+(1998). Estadística aplicada a la historia y a las ciencias sociales. Ediciones Pirámide
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Berihuete   Macias,   A.,   García   Ramos,  J.  A.  y  Ramos  González,  C.  (2018).  Estadística  descriptiva  y
 probabilidad para criminólogos . Universidad de Cádiz
@@ -37,18 +36,15 @@ Universitat Autònoma de Barcelona
 Pérez   López,   C.  (2013).  IBM  SPSS.  Estadística  Aplicada.  Conceptos  y  Ejercicios  Resueltos  .  Garceta
 Grupo Editorial
 
-Ritchey, F. J. (2008). Estadística para las Ciencias Sociales . Mc Graw Hill
-
 Rodríguez Osuna, J. (2001). Métodos de muestreo . Centro de Investigaciones Sociológicas
 
 Vela   Torres,   M.,   Rodríguez   Monge,  A.  y  Puertas  Cañaveral,  I.  (2010).  Introducción  al  Análisis  de
 Datos . Proyecto Sur
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+https://pagines.uab.cat/plopez/content/manual-misc   Ritchey,   F.   J.   (2008).   Estadística   para  las
+Ciencias Sociales. Mc Graw Hill. Madrid
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Clark, T., Foster, L., Sloan, L. y Bryman, A. (2021). Bryman's Social Research Methods . Oxford
 

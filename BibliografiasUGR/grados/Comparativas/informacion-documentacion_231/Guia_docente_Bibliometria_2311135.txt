@@ -2,11 +2,13 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Moed,   H.   (2005).   Citation  analysis.  Springer  Wolfgang  Glänzel,  Henk  F.  Moed,  Ulrich  Schmoch,  Mike
+Thelwall   (2019).  Springer  Handbook  of  Science  and  Technology  Indicators.  Spinger  Wouters,  P.  (1999)
+The citation culture. U Amsterdam
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 Ball R. (2021) Handbook of Bibliometrics. De Gruyter, Berlin
 
@@ -17,22 +19,17 @@ Maltrás, Bruno (2003). Los indicadores bibliométricos. Trea, Gijón
 Marín,   J.   (1998).   Métodos  estadísticos  en  información  y  documentación.  ICE  Universidad  de  Murcia,
 Murcia
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Moed,   H.   (2005).   Citation  analysis.  Springer  Wolfgang  Glänzel,  Henk  F.  Moed,  Ulrich  Schmoch,  Mike
-Thelwall   (2019).  Springer  Handbook  of  Science  and  Technology  Indicators.  Spinger  Wouters,  P.  (1999)
-The   citation   culture.   U   Amsterdam.   aplicación  Prado  de  la  UGR  →  Wolfgang  Glänzel,  Henk  F.  Moed,
-Ulrich   Schmoch,   Mike   Thelwall   (2019).   Springer   Handbook   of  Science  and  Technology  Indicators.
-Spinger
+https://pure.uva.nl/ws/files/3164289/8218_thesis.pdf La bibliografía complementaria se entrega junto
+con los materiales docentes a través de la aplicación Prado de la UGR
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
-La   bibliografía   complementaria   se   entrega   junto   con   los   materiales   docentes   a  través  de  la
-aplicación Prado de la UGR
-
 Moed, H. (2005). Citation analysis. Springer
+
+Wolfgang   Glänzel,   Henk  F.  Moed,  Ulrich  Schmoch,  Mike  Thelwall  (2019).  Springer  Handbook  of  Science
+and Technology Indicators. Spinger
 
 Wouters,         P.         (1999)         The         citation         culture.        U        Amsterdam.
 https://pure.uva.nl/ws/files/3164289/8218_thesis.pdf
 
-📊 Porcentaje estimado de cambio: 80% [████████░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

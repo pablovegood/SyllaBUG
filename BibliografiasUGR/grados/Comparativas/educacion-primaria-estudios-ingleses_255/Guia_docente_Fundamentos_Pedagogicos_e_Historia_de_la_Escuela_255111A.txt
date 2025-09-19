@@ -2,11 +2,12 @@
 Grado: educacion-primaria-estudios-ingleses (255)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Bermejo,   R.   (2017).  Ser  maestro.  Plataforma  editorial  De  Puelles,  M.  (2010).  Educación  e  ideología
+en la España contemporánea. Tecnos
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Del val, J. (1990). Los fines de la educación. Siglo XXI
 
@@ -50,14 +51,10 @@ Savater, F. (1997). El valor de educar. Ariel
 
 Trilla, J, (coord.) (2001). El legado pedagógico del siglo XX para la escuela del siglo XXI. Graó
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Bermejo,   R.   (2017).  Ser  maestro.  Plataforma  editorial  De  Puelles,  M.  (2010).  Educación  e  ideología
-en   la   España   contemporánea.   Tecnos   →   De  Puelles,  M.  (2010).  Educación  e  ideología  en  la  España
-contemporánea. Tecnos
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Bermejo, R. (2017). Ser maestro. Plataforma editorial
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+De Puelles, M. (2010). Educación e ideología en la España contemporánea. Tecnos
+
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

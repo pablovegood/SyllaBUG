@@ -2,11 +2,11 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 ESTEBAN   TALAYA,   A.;   GARCÍA   DE   MADARIAGA  MIRANDA,  J.;  NARROS  GONZÁLEZ,  Mª  J;  OLARTE  PASCUAL,  C.;
 REINARES LARA, E. y SACO VÁZQUEZ, M. (2008). Principios de marketing, ESIC, Madrid
@@ -25,11 +25,7 @@ organizaciones. Esic Editorial, Madrid
 SANTESMASES,   M.,   MERINO,   M.J.,   SÁNCHEZ,   J.   Y  PINTADO,  T.  (2018):  Fundamentos  de  Marketing.  Ed.
 Pirámide, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

@@ -2,11 +2,11 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 Abubakar   M.,   Saeed  A.,  Kul  O.  (2015)  The  role  of  biotechnology  in  improvement  of  livestock.  Animal
 health and biotechnology. Springer. 147 p
@@ -21,9 +21,14 @@ intensification and agroecology converge for a better future? Animal 12:S2, s210
 
 García-Yuste S. (2020) Sustainable and environmentally friendly dairy farms. Springer. 112 p
 
+Gasco   L.,  Gai.  F.,  Maricchiolo  G.,  Genovese  L.,  Ragonese  S.,  Bottari  T.,  Caruso  G.  (2018)  Feeds  for
+the aquaculture sector. Current situation and alternative sources. Springer. 103 p
+
 Herrick   J.   R.   (2019)   Assisted   reproductive   technologies   for   endangered  species  conservation:
 developing   sophisticated   protocols   with   limited   access   to   animals   with   unique   reproductive
 mechanisms. Biol. Reprod. 100(5), 1158–1170
+
+Kumar V. (2017) Biological timekeeping: clocks, rhythms and behavior. Springer. 662 p
 
 Lakra   W.S.,   Goswami   M.   and   Trudeau  V.L.  (2023)  Frontiers  in  Aquaculture  Biotechnology.  Academic
 Press. 286 p
@@ -67,21 +72,13 @@ Singh B., Mal G., Gautam S. K., Mukesh M. (2019) Advances in animal biotechnolog
 Singh   R.   M.,   Mondal   S.  (2018)  Biotechnology  for  sustainable  agriculture.  Emerging  approaches  and
 strategies. Woodhead Publishing, Elsevier. 425 p
 
+Todas las referencias están disponibles en línea en la Biblioteca Electrónica
+
 Verma   A.   S.,   Singh   A.   (2020)   Animal  biotechnology.  Models  in  discovery  and  translation.  Second
 edition. Elsevier. 304 p
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Gasco   L.,  Gai.  F.,  Maricchiolo  G.,  Genovese  L.,  Ragonese  S.,  Bottari  T.,  Caruso  G.  (2018)  Feeds  for
-the   aquaculture   sector.   Current   situation  and  alternative  sources.  Springer.  103  Kumar  V.  (2017)
-Biological   timekeeping:   clocks,   rhythms   and   behavior.   Springer.   662   p   →   Gasco  L.,  Gai.  F.,
-Maricchiolo   G.,   Genovese   L.,   Ragonese  S.,  Bottari  T.,  Caruso  G.  (2018)  Feeds  for  the  aquaculture
-sector. Current situation and alternative sources. Springer. 103 p
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Kumar V. (2017) Biological timekeeping: clocks, rhythms and behavior. Springer. 662 p
-
-Todas las referencias están disponibles en línea en la Biblioteca Electrónica
-
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

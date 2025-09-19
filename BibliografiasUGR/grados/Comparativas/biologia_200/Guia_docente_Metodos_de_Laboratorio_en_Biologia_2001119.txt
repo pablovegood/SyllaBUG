@@ -2,11 +2,14 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+BiologÍa   de  los  microorganismos”,  14ª  Edición.  Pearson  Educación,  S.A.  2015.  ISBN  978-84-9035-279-3
+WILLEY   J,   SHERWOOD   L   y  WOOLVERTON  C.  2009.  Microbiología  de  Prescott,Harley  y  Klein,  7ª  edición.
+McGraw   Hill   Interamericana   de   España,   S.A.U.   ISBN   978-84-481-6827-8  NELSON  DL  y  COX  MM.  2009.
+Lehninger. Principios de Bioquímica, 5ª Edición. Ediciones Omega S.A. Barcelona
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 ALBERTS B, BRAY D, JOHNSON A, LEWIS J, RAFF, M, RIBERTS K, WATSON JD. 2004. Biología Molecular de la
 Célula, 4ª edición. Ediciones Omega
@@ -33,18 +36,12 @@ Panamericana. Buenos Aires
 WISTREICHGA.   2007.   Microbiology   Perspectives:   A   Photographic   Survey  of  the  Microbial  World,  2ª
 Edición.Prentice Hall. UpperSaddleRiver. New Jersey
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-BiologÍa   de  los  microorganismos”,  14ª  Edición.  Pearson  Educación,  S.A.  2015.  ISBN  978-84-9035-279-3
-WILLEY   J,   SHERWOOD   L   y  WOOLVERTON  C.  2009.  Microbiología  de  Prescott,Harley  y  Klein,  7ª  edición.
-McGraw   Hill   Interamericana   de   España,   S.A.U.   ISBN   978-84-481-6827-8  NELSON  DL  y  COX  MM.  2009.
-Lehninger.   Principios   de   Bioquímica,   5ª   Edición.   Ediciones   Omega   S.A.   Barcelona  →  WILLEY  J,
-SHERWOOD   L   y  WOOLVERTON  C.  2009.  Microbiología  de  Prescott,Harley  y  Klein,  7ª  edición.  McGraw  Hill
-Interamericana de España, S.A.U. ISBN 978-84-481-6827-8
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 NELSON   DL   y   COX   MM.   2009.  Lehninger.  Principios  de  Bioquímica,  5ª  Edición.  Ediciones  Omega  S.A.
 Barcelona
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+WILLEY   J,   SHERWOOD   L   y  WOOLVERTON  C.  2009.  Microbiología  de  Prescott,Harley  y  Klein,  7ª  edición.
+McGraw Hill Interamericana de España, S.A.U. ISBN 978-84-481-6827-8
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

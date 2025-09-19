@@ -2,35 +2,132 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
+------------------------------
+I.-   CITOLOGÍA   Alberts   B,   Heald   R,   Johnson   A,  Morgan  D,  Raff  M,  Roberts  K,  Walter  P.  Molecular
+Biology   of  the  Cell.  7  ed.  Nueva  York  :  WW  Norton  &  Company;  2022.  Alberts  B,  Hopkin  K,  Johnson  AD,
+Morgan   D,   Raff  M,  Roberts  K,  Walter  P.  Introducción  a  la  Biología  Celular.  5  ed.  Madrid:  Editorial
+Médica     Panamericana;     2021.    https://mieureka.medicapanamericana.com/viewer/introduccion-a-la-
+biologiacelular-1/portada   (*)   Bradshaw   RA,   Hart   GW,   Stahl   PD  (Editores).  Encyclopedia  of  Cell
+Biology.               2               ed.               Academic               Press;              2023.
+https://www.sciencedirect.com/referencework/9780128216248/encyclopedia-of-cellbiology-second-edition
+(*)   Bosolver   SR.   Cell   Biology:   A   Short  Course.  4  ed.  Willey-Blackwell;  2022.  Calvo  A.  Biología
+Celular           Biomédica.          2          ed.          Barcelona:          Elsevier;          2022.
+https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200039770   (*)   Cooper   GM,   Adams  KW.  The
+Cell.   9   ed.   OUP;   2023.   De  Juan  J,  Fernández  E,  Iborra  FJ,  Ribera  J.  Biología  Celular.  Conceptos
+esenciales.           Madrid:           Editorial           Médica           Panamericana;          2022.
+https://mieureka.medicapanamericana.com/viewer/biologia-celular/portada   (*)   Goodman,  SR.  Goodman’s
+Medical   Cell   Biology.   4  ed.  Londres:  Academic  Press;  2021.  Hardin  J,  Bertoni  G.  Becker’s  World  of
+the   Cell.   10   ed.  Harlow:  Pearson  Education  Limited;  2021.  Iwasa  J,  Marshall  W.  Cell  and  Molecular
+Biology.   Concepts   and  Experiments.  9  ed.  Hoboken:  John  Wiley  &  Sons,  Inc.;  2020.  Lodish  H,  Berk  A,
+Kaiser   CA,   Krieger   M,   Bretscher   A,   Ploegh   H,   Martin   KC,Yaffe  MB,  Amon  A.  Biología  Celular  y
+Molecular. 9 ed. Madrid: Editorial Médica Panamericana
+
+https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788411061902   (*)   Montuenga   L,   Esteban  FJ,
+Calvo   A.   Técnicas   en   histología   y   biología   celular,   2   ed.  Barcelona:  Elsevier  España;  2014.
+https://www.clinicalkey.com/student/content/toc/3-s2.0-C20130138470   (*)  Paniagua  R,  Nistal  M,  Sesma
+P,   Álvarez-Uría   M,   Fraile   B,   Anadón   R,   Sáez   FJ.   Biología  Celular  y  Molecular.  5  ed.  McGraw-
+Hill/Interamericana            de            España,            S.L.:            Madrid;            2024.
+https://accessmedicina.mhmedical.com/content.aspx?bookid=3467   (*)  Plattner  H,  Hentschel  J.  Biología
+Celular.   4   ed.  Madrid:  Editorial  Médica  Panamericana;  2014.  Plopper  G,  Ivankovic  DB.  Principles  of
+Cell   Biology.   3   ed.   Jones   &   Bartlett  Publishers;  2020.  Plopper  G,  Sharp  D,  Sikorski  E.  Lewin's
+Cells.   3   ed.   Burlington:   Jones   &   Bartlett  Learning;  2015.  Pollard  TD,  Earnshaw  WC,  Lippincott-
+Schwartz   J,   Johnson   G.   Cell   Biology.   4   ed.   Philadelphia:  Elsevier;  2022.  II.-HERENCIA  Humana
+Griffiths   AJF,  Wessler  SR,  Lewontin  RC,  Carrolly  SB.  Genética.  9ª  ed.  McGraw.Hill/Interamericana  de
+España,   S.L.:   Madrid;   2008.  Jorde  LB,  Bamshad  MJ,  Carey  JC.  Genética  Médica.  6ª  ed.  Philadelphia:
+Elsevier;    2021.   https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190053186(*)   Klug   WS,
+Cummings MR, Spencer ChA, Palladino MA. Conceptos de Genética. 10ª ed. Londres: Pearson; 2010. Krebs
+JE,   Goldstein   ES,  Kilpatrick  ST.  Lewin's  Genes  XI.  11ª  ed.  Burlington  (MA,  EEUU):  Jones  &  Bartlett
+Pub;   2013.   Oliva   R,   Ballesta  F,  Oriola  J,  Claria  J.  Genética  Médica.  1ª  ed.  Madrid:  Díaz  Santos;
+2008.   Pierce   BA.   Genética.   Un   Enfoque   Conceptual.   5ª   ed.   Madrid:   Ed.   Panamericana;   2016.
+https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498357332(*)    Pritchard    DJ,    Korf   BR.
+Genética    Médica:    Lo    esencial    de    un    vistazo.3ª    ed.    Madrid:   Ed.   Panamericana;   2015.
+https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498359633(*)   Solari   AJ.  Genética  Humana.
+Fundamentos     y     Aplicaciones    en    Medicina.    4ª    ed.    Madrid:    Ed.    Panamericana;    2011.
+https://www.medicapanamericana.com/VisorEbookV2/Ebook/9789500605687(*)    Turnpenny    PD,   Ellard   S.
+Emery.     Elementos     de     Genética     Médica.     16ª     ed.     Philadelphia:     Elsevier;    20122
+https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210009603    (*)    III.-DESARROLLO    Humano
+Carlson    BM.    Embriología    Humana    y    Biología   del   Desarrollo.   Elsevier   6ª   edición,   2019.
+https://www.clinicalkey.com/meded/content/toc/3-s2.0-C20130139608(*) Moore KL, Persaud TVN y Torchia
+MG.          Embriología          Clínica.          Elsevier,          11ª          edición,         2020.
+https://www.clinicalkey.com/meded/content/toc/3-s2.0-C20150016070(*)   Sadler  TW.  Langman  Embriología
+Médica.   Lippincott   Williams   &   Wilkins,   14ª  edición,  2019.  Webster  S,  Safont  MS.  Embriología.  Lo
+esencial de un vistazo. Panamericana, 1ª edición
+
+https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498357813   (*)   desde   una   IP   de   UGR   y
+usuario   registrado   I.-   CITOLOGÍA   Alberts   B,   Johnson   A,   Lewis  J,  Raff  M,  Roberts  K,  Walter  P.
+Biología   Molecular   de  la  Célula.  6  ed.  Barcelona:  Ediciones  Omega;  2016.  Cooper  GM,  Hausman  RE.  La
+Célula. 8 ed. Madrid: Marbán; 2022. Kierszenbaum, AL, Tres, LL. Histología y Biología Celular. 5 ed.
+Elsevier;   2020.   https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190044457   (*)   Iwasa  J,
+Marshall   W.   Biología  Celular  y  Molecular.  8  ed.  México:  McGraw-Hill  Interamericana  Editores;  2019.
+https://accessmedicina.mhmedical.com/book.aspx?bookid=2817   (*)  Lodish  H,  Berk  A,  Kaiser  CA,  Krieger
+M,   Bretscher   A,   Ploegh  H,  Amon  A,  Scott  MP.  Biología  Celular  y  Molecular.  7  ed.  Madrid:  Editorial
+Médica   Panamericana;   2016.  https://www.medicapanamericana.com/VisorEbookV2/Ebook/9789500694841  (*)
+Maillet   M.   Biología  Celular.  8  ed.  Barcelona:  Masson;  2002.  Maillet  M.  Biologie  cellulaire.  10  ed.
+Issy-les-Molineaux:   Elsevier   Masson   S.A.S.;   2006.   II.-HERENCIA   Humana  Nussbaum  RL,  McInnes  RR,
+Willard     HF.    Thompson    &    Thompson    Genética    en    Medicina.    8ª    ed.    París:    Elsevier;
+2016.https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150020123(*)   Rimoin   DL,  Pyeritz  RE,
+Korf   B.   Emery   and   Rimoin's   Principles   and   Practice   of  Medical  Genetics.  6ª  ed.  Philadelphia:
+Elsevier;   2013.   Strachan   T,   Read   AP.  Genética  Molecular  Humana.  3ª  ed.  Nueva  York:  McGraw-Hill;
+2006.   Viseras   E.   Cuestiones   y   problemas   resueltos  de  genética.  3ª  ed.  Granada:  Editorial  de  la
+III.-DESARROLLO   Humano   Gilbert   SF,   Barresi   MJF.  Developmental  Biology,  Sinauer  Associates,  11th
+Edition,   2016.   Webster   S,   Morris  G,  Kevelighan  E.  Essential  Human  Development  (Essentials),  John
+Wiley & Sons Ltd, 1ª Edition, 2018. Wolpert L, Tickle C, Marinez Arias A. Principles of Development,
+Oxford univeristy Press, 5th Edition, 2015. (*) desde una IP de UGR y usuario registrado
+
+📚 Recursos sin cambios (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+✅ Recursos añadidos (48):
 ------------------------------
+(*) desde una IP de UGR y usuario registrado
+
 Alberts   B,  Heald  R,  Johnson  A,  Morgan  D,  Raff  M,  Roberts  K,  Walter  P.  Molecular  Biology  of  the  Cell
 . 7 ed. Nueva York : WW Norton & Company; 2022
+
+Alberts   B,   Hopkin  K,  Johnson  AD,  Morgan  D,  Raff  M,  Roberts  K,  Walter  P.  Introducción  a  la  Biología
+Celular       .       5       ed.       Madrid:       Editorial       Médica       Panamericana;       2021.
+https://mieureka.medicapanamericana.com/viewer/introduccion-a-la-biologia-celular-1/portada (*)
+
+Alberts   B,  Johnson  A,  Lewis  J,  Raff  M,  Roberts  K,  Walter  P.  Biología  Molecular  de  la  Célula  .  6  ed.
+Barcelona: Ediciones Omega; 2016
+
+Bosolver SR. Cell Biology: A Short Course. 4 ed. Willey-Blackwell; 2022
+
+Bradshaw   RA,   Hart   GW,   Stahl   PD  (Editores).  Encyclopedia  of  Cell  Biology  .  2  ed.  Academic  Press;
+2023. https://www.sciencedirect.com/referencework/9780128216248/encyclopedia-of-cell-biology-second-
+edition (*)
 
 Calvo     A.     Biología     Celular     Biomédica     .     2     ed.     Barcelona:     Elsevier;     2022.
 https://www.clinicalkey.com/student/content/toc/3-s2.0-C20200039770 (*)
 
+Carlson    BM.    Embriología    Humana   y   Biología   del   Desarrollo   .   Elsevier   6ª   edición,   2019.
+https://www.clinicalkey.com/meded/content/toc/3-s2.0-C20130139608 (*)
+
 Cooper GM, Adams KW. The Cell. 9 ed. OUP; 2023
 
 Cooper GM, Hausman RE. La Célula. 8 ed. Madrid: Marbán; 2022
+
+De   Juan   J,   Fernández   E,   Iborra   FJ,   Ribera  J.  Biología  Celular.  Conceptos  esenciales  .  Madrid:
+Editorial    Médica    Panamericana;    2022.   https://mieureka.medicapanamericana.com/viewer/biologia-
+celular/portada (*)
 
 Gilbert SF, Barresi MJF. Developmental Biology, Sinauer Associates, 11th Edition, 2016
 
 Goodman,    SR.    Goodman’s    Medical    Cell    Biology    .   4   ed.   Londres:   Academic   Press;   2021.
 https://www.sciencedirect.com/book/9780128179277/goodmans-medical-cell-biology (*)
 
+Griffiths AJF, Wessler SR, Lewontin RC, Carrolly SB. Genética . 9ª ed. McGraw.Hill/Interamericana de
+España, S.L.: Madrid; 2008
+
 Hardin J, Bertoni G. Becker’s World of the Cell . 10 ed. Harlow: Pearson Education Limited; 2021
 
-II.-HERENCIA Humana McGraw.Hill/Interamericana de España, S.L.: Madrid; 2008
+I.- CITOLOGÍA
 
-II.-HERENCIA Humana Medicina. 8ª ed. París: Elsevier
+II.-HERENCIA Humana
 
-III.-DESARROLLO   Humano   Carlson   BM.   Embriología   Humana   y   Biología   del  Desarrollo.  Elsevier  6ª
-edición, 2019
+III.-DESARROLLO Humano
 
 Iwasa   J,   Marshall   W.   Biología   Celular   y   Molecular   .  8  ed.  México:  McGraw-Hill  Interamericana
 Editores; 2019. https://accessmedicina.mhmedical.com/book.aspx?bookid=2817 (*)
@@ -38,8 +135,14 @@ Editores; 2019. https://accessmedicina.mhmedical.com/book.aspx?bookid=2817 (*)
 Iwasa J, Marshall W. Cell and Molecular Biology. Concepts and Experiments. 9 ed. Hoboken: John Wiley
 & Sons, Inc.; 2020
 
+Jorde    LB,   Bamshad   MJ,   Carey   JC.   Genética   Médica   .   6ª   ed.   Philadelphia:   Elsevier;   2021.
+https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190053186 (*)
+
 Kierszenbaum,    AL,    Tres,    LL.    Histología    y    Biología    Celular.    5    ed.   Elsevier;   2020.
 https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190044457 (*)
+
+Klug   WS,   Cummings  MR,  Spencer  ChA,  Palladino  MA.  Conceptos  de  Genética  .  10ª  ed.  Londres:  Pearson;
+2010
 
 Krebs   JE,   Goldstein   ES,   Kilpatrick  ST.  Lewin's  Genes  XI  .  11ª  ed.  Burlington  (MA,  EEUU):  Jones  &
 Bartlett Pub; 2013
@@ -56,98 +159,25 @@ Maillet M. Biologie cellulaire . 10 ed. Issy-les-Molineaux: Elsevier Masson S.A.
 
 Maillet M. Biología Celular . 8 ed. Barcelona: Masson; 2002
 
-Moore    KL,   Persaud   TVN   y   Torchia   MG.   Embriología   Clínica   .   Elsevier,   11ª   edición,   2020.
-https://www.clinicalkey.com/meded/content/toc/3-s2.0-C20150016070 (*)
-
-Paniagua   R,   Nistal   M,   Sesma   P,   Álvarez-Uría  M,  Fraile  B,  Anadón  R,  Sáez  FJ.  Biología  Celular  y
-Molecular     .     5     ed.     McGraw-Hill/Interamericana     de     España,     S.L.:    Madrid;    2024.
-https://accessmedicina.mhmedical.com/content.aspx?bookid=3467 (*)
-
-Philadelphia: Elsevier; 2022
-
-Plattner H, Hentschel J. Biología Celular . 4 ed. Madrid: Editorial Médica Panamericana; 2014
-
-Rimoin   DL,   Pyeritz  RE,  Korf  B.  Emery  and  Rimoin's  Principles  and  Practice  of  Medical  Genetics  .  6ª
-ed. Philadelphia: Elsevier; 2013
-
-Sadler TW. Langman Embriología Médica . Lippincott Williams & Wilkins, 14ª edición, 2019
-
-Viseras E. Cuestiones y problemas resueltos de genética. 3ª ed. Granada: Editorial de la Universidad
-de Granada; 2008
-
-Webster S, Morris G, Kevelighan E. E ssential Human Development (Essentials), John Wiley & Sons Ltd,
-1ª Edition, 2018
-
-Wolpert   L,   Tickle   C,   Marinez   Arias   A.   Principles  of  Development,  Oxford  univeristy  Press,  5th
-Edition, 2015
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Madrid:   Editorial   Médica   Panamericana;  2022  →  Pritchard  DJ,  Korf  BR.  Genética  Médica:  Lo  esencial
-de        un        vistazo.        3ª        ed.        Madrid:        Ed.        Panamericana;       2015.
-https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498359633 (*)
-
-Alberts   B,   Hopkin  K,  Johnson  AD,  Morgan  D,  Raff  M,  Roberts  K,  Walter  P.  Introducción  a  la  Biología
-Celular.   5  ed.  Madrid:  Editorial  Médica  Panamericana;  2021.  celular-1/portada  (*)  Bradshaw  RA,  Hart
-GW,   Stahl   PD  (Editores).  Encyclopedia  of  Cell  Biology.  2  ed.  Academic  Press;  2023.  biology-second-
-edition   (*)   Bosolver   SR.   Cell  Biology:  A  Short  Course.  4  ed.  Willey-Blackwell;  2022  →  Alberts  B,
-Hopkin   K,  Johnson  AD,  Morgan  D,  Raff  M,  Roberts  K,  Walter  P.  Introducción  a  la  Biología  Celular  .  5
-ed.             Madrid:             Editorial            Médica            Panamericana;            2021.
-https://mieureka.medicapanamericana.com/viewer/introduccion-a-la-biologia-celular-1/portada (*)
-
-Londres:   Pearson;   2010   →   Goodman,   SR.   Goodman’s  Medical  Cell  Biology  .  4  ed.  Londres:  Academic
-Press; 2021. https://www.sciencedirect.com/book/9780128179277/goodmans-medical-cell-biology (*)
-
-Webster   S,   Safont   MS.  Embriología.  Lo  esencial  de  un  vistazo.  Panamericana,  1ª  edición,  (*)  desde
-una   IP   de  UGR  y  usuario  registrado  I.-  CITOLOGÍA  Alberts  B,  Johnson  A,  Lewis  J,  Raff  M,  Roberts  K,
-Walter   P.   Biología   Molecular   de   la   Célula.  6  ed.  Barcelona:  Ediciones  Omega;  2016  →  Webster  S,
-Safont    MS.    Embriología.    Lo    esencial    de   un   vistazo   .   Panamericana,   1ª   edición,   2013.
-https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498357813
-
-Ed.   Panamericana;   2011   →   Webster   S,   Safont   MS.   Embriología.   Lo   esencial   de   un   vistazo  .
-Panamericana, 1ª edición, 2013. https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498357813
-
-Barcelona:   Elsevier   España;  2014  →  Griffiths  AJF,  Wessler  SR,  Lewontin  RC,  Carrolly  SB.  Genética  .
-9ª ed. McGraw.Hill/Interamericana de España, S.L.: Madrid; 2008
-
-✅ Recursos añadidos:
-------------------------------
-(*) desde una IP de UGR y usuario registrado
-
-Alberts   B,  Johnson  A,  Lewis  J,  Raff  M,  Roberts  K,  Walter  P.  Biología  Molecular  de  la  Célula  .  6  ed.
-Barcelona: Ediciones Omega; 2016
-
-Bosolver SR. Cell Biology: A Short Course. 4 ed. Willey-Blackwell; 2022
-
-Bradshaw   RA,   Hart   GW,   Stahl   PD  (Editores).  Encyclopedia  of  Cell  Biology  .  2  ed.  Academic  Press;
-2023. https://www.sciencedirect.com/referencework/9780128216248/encyclopedia-of-cell-biology-second-
-edition (*)
-
-Carlson    BM.    Embriología    Humana   y   Biología   del   Desarrollo   .   Elsevier   6ª   edición,   2019.
-https://www.clinicalkey.com/meded/content/toc/3-s2.0-C20130139608 (*)
-
-De   Juan   J,   Fernández   E,   Iborra   FJ,   Ribera  J.  Biología  Celular.  Conceptos  esenciales  .  Madrid:
-Editorial    Médica    Panamericana;    2022.   https://mieureka.medicapanamericana.com/viewer/biologia-
-celular/portada (*)
-
-I.- CITOLOGÍA
-
-Jorde    LB,   Bamshad   MJ,   Carey   JC.   Genética   Médica   .   6ª   ed.   Philadelphia:   Elsevier;   2021.
-https://www.clinicalkey.com/student/content/toc/3-s2.0-C20190053186 (*)
-
-Klug   WS,   Cummings  MR,  Spencer  ChA,  Palladino  MA.  Conceptos  de  Genética  .  10ª  ed.  Londres:  Pearson;
-2010
-
 Montuenga   L,   Esteban   FJ,   Calvo   A.   Técnicas   en  histología  y  biología  celular,  2  ed.  Barcelona:
 Elsevier España; 2014. https://www.clinicalkey.com/student/content/toc/3-s2.0-C20130138470 (*)
+
+Moore    KL,   Persaud   TVN   y   Torchia   MG.   Embriología   Clínica   .   Elsevier,   11ª   edición,   2020.
+https://www.clinicalkey.com/meded/content/toc/3-s2.0-C20150016070 (*)
 
 Nussbaum   RL,   McInnes   RR,   Willard   HF.   Thompson   &   Thompson  Genética  en  Medicina.  8ª  ed.  París:
 Elsevier; 2016. https://www.clinicalkey.com/student/content/toc/3-s2.0-C20150020123 (*)
 
 Oliva R, Ballesta F, Oriola J, Claria J. Genética Médica . 1ª ed. Madrid: Díaz Santos; 2008
 
+Paniagua   R,   Nistal   M,   Sesma   P,   Álvarez-Uría  M,  Fraile  B,  Anadón  R,  Sáez  FJ.  Biología  Celular  y
+Molecular     .     5     ed.     McGraw-Hill/Interamericana     de     España,     S.L.:    Madrid;    2024.
+https://accessmedicina.mhmedical.com/content.aspx?bookid=3467 (*)
+
 Pierce    BA.    Genética.    Un    Enfoque    Conceptual   .   5ª   ed.   Madrid:   Ed.   Panamericana;   2016.
 https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498357332 (*)
+
+Plattner H, Hentschel J. Biología Celular . 4 ed. Madrid: Editorial Médica Panamericana; 2014
 
 Plopper G, Ivankovic DB. Principles of Cell Biology . 3 ed. Jones & Bartlett Publishers; 2020
 
@@ -156,9 +186,32 @@ Plopper G, Sharp D, Sikorski E. Lewin's Cells . 3 ed. Burlington: Jones & Bartle
 Pollard   TD,   Earnshaw   WC,   Lippincott-Schwartz   J,   Johnson   G.  Cell  Biology  .  4  ed.  Philadelphia:
 Elsevier; 2022
 
+Pritchard   DJ,  Korf  BR.  Genética  Médica:  Lo  esencial  de  un  vistazo.  3ª  ed.  Madrid:  Ed.  Panamericana;
+2015. https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498359633 (*)
+
+Rimoin   DL,   Pyeritz  RE,  Korf  B.  Emery  and  Rimoin's  Principles  and  Practice  of  Medical  Genetics  .  6ª
+ed. Philadelphia: Elsevier; 2013
+
+Sadler TW. Langman Embriología Médica . Lippincott Williams & Wilkins, 14ª edición, 2019
+
 Solari   AJ.   Genética   Humana.   Fundamentos   y   Aplicaciones   en   Medicina   .   4ª   ed.   Madrid:   Ed.
 Panamericana; 2011. https://www.medicapanamericana.com/VisorEbookV2/Ebook/9789500605687 (*)
 
 Strachan T, Read AP. Genética Molecular Humana . 3ª ed. Nueva York: McGraw-Hill; 2006
 
-📊 Porcentaje estimado de cambio: 72% [███████░░░]
+Turnpenny   PD,  Ellard  S.  Emery.  Elementos  de  Genética  Médica  .  16ª  ed.  Philadelphia:  Elsevier;  20122
+https://www.clinicalkey.com/student/content/toc/3-s2.0-C20210009603 (*)
+
+Viseras E. Cuestiones y problemas resueltos de genética. 3ª ed. Granada: Editorial de la Universidad
+de Granada; 2008
+
+Webster S, Morris G, Kevelighan E. E ssential Human Development (Essentials), John Wiley & Sons Ltd,
+1ª Edition, 2018
+
+Webster   S,   Safont   MS.   Embriología.   Lo   esencial  de  un  vistazo  .  Panamericana,  1ª  edición,  2013.
+https://www.medicapanamericana.com/VisorEbookV2/Ebook/9788498357813
+
+Wolpert   L,   Tickle   C,   Marinez   Arias   A.   Principles  of  Development,  Oxford  univeristy  Press,  5th
+Edition, 2015
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

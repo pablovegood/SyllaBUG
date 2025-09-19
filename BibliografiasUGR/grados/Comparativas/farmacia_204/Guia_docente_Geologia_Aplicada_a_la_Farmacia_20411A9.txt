@@ -2,20 +2,59 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
+Abrahams   PW   (2002).   Soils:   their  implications  to  human  health.  The  Science  of  Total  Environment,
+291:1-32
+
 Abrahams   PW   (2006).   Soil,   geography   and   human   disease:  a  critical  review  of  the  importance  of
 medical cartography. Progress in Physical Geography, 30: 490-512
 
 Bunnell   JE,   Finkelman   RB,   Centeno   JA,   Selinus   O   (2007).  Medical  Geology:  a  globally  emerging
 discipline. Geologica Acta, 5: 273-281
 
+Delgado,   R.,   Delgado,   G.,   Ruiz,   A.,   Gallardo,  V.,  Gámiz,  E.  1994.  The  crystallinity  of  several
+Spanish kaolins: correlations with sodium amylobarbitone release. Clay Miner. 29, 785 – 797
+
+Fundamentals   of   Crystallography   Autores:   C.   Giacovazzo,   H.L.   Monaco,   D.  Viterbo:  F.  Scordari
+G.Gilli.   G.Zanotti.   M.   Catti.   Año   de   publicación:   2002  Editorial:  Oxford  Science  Publications
+Crystal Growth. Principles and Progress Autor: A. W. Vere Año de publicación: 1998 Editorial: Plenum
+Press   Métodos   de   Difracción  de  Rayos-X.  Principios  y  Aplicaciones  Autor:  Joaquín  Bermúdez  Polonio
+Año   de   publicación:   1981   Editorial:   Pirámide  Manual  de  Mineralogía  de  DANA  Autore:  Comelius.  S.
+Hulburt   Jr.   :   Cornelis   Klein   Año   de   publicación:  2003  Editorial:  Reverte,  S.A.  Mineralogy  for
+Students   Autor:   M.   H.   Battey   Año  de  publicación:  1997  Editorial:  Longman  Scientific  &  Technical
+Mineralogie des Argiles. 1, Structure et Propriétés Physico-chimiques Autores: S. Cailllère S. Hénin
+M.   Rautureau   Año   de   publicación:   1997   Editorial:  INRA  Actualités  Scientifiques  et  Agronomiques
+Modern   Crystallography.   I.  Symmetry  of  Crystals,  Methods  of  Structural  Crystallography  Autor:  B.K.
+Vainshtein Año de publicación: 1994 Editorial: Springer Verlag. Modern Crystallography II. Structure
+of   Crystals   Autores:   S.K.   Vainshtein:   V.M.   Fridkin:   V.L.   Indenbomm   Año  de  publicación:  2000
+Editorial:   Springer   Verlag.   An  introduction  to  the  rock  forming  minerals  Autores:  W.A.  Deer,  R.A.
+Howie,   J.   Zussman   Año   de  publicación:  1992  Editorial:  Longman  Scientific  &  Technical  Mineralogía
+Aplicada.   Salud   y   Medio   Ambiente   Autores:   M.I.   Carretero,   M.   Pozo   Año  de  publicación:  2007
+Editorial:   Thomson   Geomedicine   Autores:  Låg  J  Año  de  publicación:  1990  Editorial:  CRC  Press,  USA.
+Medical   Mineralogy   and  Geochemistry.  Autores:  Nita  S,  Schoonen  MAA  (Eds.)  Año  de  publicación:  2006
+Editorial:   Reviews   in  Mineralogy  and  Geochemistry  Volume  64.  Geochemical  Society  and  Mineralogical
+Society, USA Essentials of Medical Geology Autores: Sellinus O, Alloway B, Centeno JA, Finkelman RB,
+Fuge   R,   Lindh   U,   Smedley   P  Año  de  publicación:  2007  Editorial:  Elsevier  Academic  Press.  Medical
+Geology   :   Effects   of   Geological   Environments   on   Human   Health   Autores:   Komatina   MM   Año  de
+publicación: 2004 Editorial: Developments in Earth and Environmental Sciences, 2. Elsevier
+
 Gamiz,   E.,Delgado,   G.,  Delgado,  R.,  1988  b.  Characterization  of  Spanish  kaolins  for  pharmaceutical
 use. II. Assays according British Pharmacopoeia. Bolletino Chim. Farm. 127(6), 138 – 143
+
+Gámiz,   E.,  Caballero,  E.,  Delgado,  M.,  Delgado,  R.,  1988  a.  Characterization  of  Spanish  kaolins  for
+pharmaceutical use. I.Chemical and mineralogical composition, physico-chemical properties. Bolletino
+Chim. Farm.127(5), 114-120
+
+Hiramatsu,   Y.,   Suzuki,  H.,  Kuchiki,  A.,  Nakagawa,  H.,  Fuji,  S.  1996.  X  –  ray  structural  studies  of
+Lomeridine Dihydrochloride polymorphs. J. Pharm. Sci. 85, 761- 766
+
+Låg   J   (1994).   Geomedicine,   an   expanded  application  of  soil  science.  15th  World  Congress  of  Soil
+Science (Acapulco, Mexico), vol 3A: 557-567
 
 Oliver MA (1997). Soil and human health: a review. European Journal of Soil Science, 48: 573-592
 
@@ -30,58 +69,8 @@ mineralogical composition on color for commercial talcs. Color Res. Appl. 27, 43
 
 Steinness E (2009). Soils and geomedicine. Environmental Geochemistry Health, 31: 523-535
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (50):
 ------------------------------
-7.Hiramatsu, Y., Suzuki, H., Kuchiki, A., Nakagawa, H., Fuji, S. 1996. X – ray structural studies of
-Lomeridine   Dihydrochloride   polymorphs.  J.  Pharm.  Sci.  85,  761-  766  8.Låg  J  (1994).  Geomedicine,  an
-expanded   application   of   soil  science.  15th  World  Congress  of  Soil  Science  (Acapulco,  Mexico),  vol
-3A:   557-567   →   Hiramatsu,   Y.,   Suzuki,   H.,   Kuchiki,   A.,   Nakagawa,   H.,  Fuji,  S.  1996.  X  –  ray
-structural studies of Lomeridine Dihydrochloride polymorphs. J. Pharm. Sci. 85, 761- 766
-
-Mineralogy for Students Autor: M. H. Battey Año de publicación: 1997 Editorial: Longman Scientific &
-Technical   Mineralogie   des   Argiles.   1,   Structure   et   Propriétés   Physico-chimiques   Autores:  S.
-Cailllère S. Hénin M. Rautureau Año de publicación: 1997 Editorial: INRA Actualités Scientifiques et
-Agronomiques   Modern  Crystallography.  I.  Symmetry  of  Crystals,  Methods  of  Structural  Crystallography
-Autor:   B.K.   Vainshtein   Año   de  publicación:  1994  Editorial:  Springer  Verlag  →  Año  de  publicación:
-1992
-
-4.Delgado,   R.,   Delgado,   G.,   Ruiz,  A.,  Gallardo,  V.,  Gámiz,  E.  1994.  The  crystallinity  of  several
-Spanish kaolins: correlations with sodium amylobarbitone release. Clay Miner. 29, 785 – 5.Gámiz, E.,
-Caballero,   E.,   Delgado,   M.,   Delgado,   R.,   1988   a.   Characterization   of   Spanish   kaolins   for
-pharmaceutical    use.   I.Chemical   and   mineralogical   composition,   physico-   chemical   properties.
-Bolletino   Chim.   Farm.127(5),  114-120  →  Delgado,  R.,  Delgado,  G.,  Ruiz,  A.,  Gallardo,  V.,  Gámiz,  E.
-1994. The crystallinity of several Spanish kaolins: correlations with sodium amylobarbitone release.
-Clay Miner. 29, 785 – 797
-
-Fundamentals   of   Crystallography   Autores:   C.   Giacovazzo,   H.L.   Monaco,   D.  Viterbo:  F.  Scordari
-G.Gilli.   G.Zanotti.   M.   Catti.   Año   de   publicación:   2002  Editorial:  Oxford  Science  Publications
-Crystal Growth. Principles and Progress Autor: A. W. Vere Año de publicación: 1998 Editorial: Plenum
-Press   Métodos   de   Difracción  de  Rayos-X.  Principios  y  Aplicaciones  Autor:  Joaquín  Bermúdez  Polonio
-Año   de   publicación:   1981   Editorial:   Pirámide  Manual  de  Mineralogía  de  DANA  Autore:  Comelius.  S.
-Hulburt   Jr.   :   Cornelis   Klein   Año   de   publicación:   2003   Editorial:   Reverte,   S.A   →   Año   de
-publicación: 1992
-
-Autores:   Nita   S,  Schoonen  MAA  (Eds.)  Año  de  publicación:  2006  Editorial:  Reviews  in  Mineralogy  and
-Geochemistry   Volume   64.   Geochemical   Society  and  Mineralogical  Society,  USA  Essentials  of  Medical
-Geology   Autores:  Sellinus  O,  Alloway  B,  Centeno  JA,  Finkelman  RB,  Fuge  R,  Lindh  U,  Smedley  P  Año  de
-publicación:   2007   Editorial:   Elsevier   Academic   Press.   Medical   Geology  :  Effects  of  Geological
-Environments   on   Human  Health  Autores:  Komatina  MM  Año  de  publicación:  2004  Editorial:  Developments
-in   Earth  and  Environmental  Sciences,  2.  Elsevier  1.Abrahams  PW  (2002).  Soils:  their  implications  to
-human health. The Science of Total Environment, 291:1-32  →  Año de publicación: 1992
-
-An   introduction   to   the   rock   forming   minerals  Autores:  W.A.  Deer,  R.A.  Howie,  J.  Zussman  Año  de
-publicación:   1992   Editorial:   Longman   Scientific   &  Technical  Mineralogía  Aplicada.  Salud  y  Medio
-Ambiente   Autores:   M.I.   Carretero,  M.  Pozo  Año  de  publicación:  2007  Editorial:  Thomson  Geomedicine
-Autores: Låg J Año de publicación: 1990 Editorial: CRC Press, USA  →  Año de publicación: 1992
-
-Modern   Crystallography   II.   Structure   of   Crystals   Autores:   S.K.  Vainshtein:  V.M.  Fridkin:  V.L.
-Indenbomm Año de publicación: 2000 Editorial: Springer Verlag  →  Año de publicación: 1992
-
-✅ Recursos añadidos:
-------------------------------
-Abrahams   PW   (2002).   Soils:   their  implications  to  human  health.  The  Science  of  Total  Environment,
-291:1-32
-
 An introduction to the rock forming minerals
 
 Autor: A. W. Vere
@@ -116,6 +105,8 @@ Año de publicación: 1981
 
 Año de publicación: 1990
 
+Año de publicación: 1992
+
 Año de publicación: 1994
 
 Año de publicación: 1997
@@ -137,8 +128,6 @@ Año de publicación: 2007
 Crystal Growth. Principles and Progress
 
 Editorial: CRC Press, USA
-
-Editorial: Developments in Earth and Environmental Sciences, 2. Elsevier
 
 Editorial: Elsevier Academic Press
 
@@ -165,13 +154,6 @@ Essentials of Medical Geology
 
 Fundamentals of Crystallography
 
-Gámiz,   E.,  Caballero,  E.,  Delgado,  M.,  Delgado,  R.,  1988  a.  Characterization  of  Spanish  kaolins  for
-pharmaceutical use. I.Chemical and mineralogical composition, physico-chemical properties. Bolletino
-Chim. Farm.127(5), 114-120
-
-Låg   J   (1994).   Geomedicine,   an   expanded  application  of  soil  science.  15th  World  Congress  of  Soil
-Science (Acapulco, Mexico), vol 3A: 557-567
-
 Manual de Mineralogía de DANA
 
 Medical Geology : Effects of Geological Environments on Human Health
@@ -190,4 +172,4 @@ Modern Crystallography. I. Symmetry of Crystals, Methods of Structural Crystallo
 
 Métodos de Difracción de Rayos-X. Principios y Aplicaciones
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 78% [███████░░░]

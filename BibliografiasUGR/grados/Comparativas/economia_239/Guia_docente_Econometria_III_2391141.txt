@@ -2,7 +2,7 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (9):
 ------------------------------
 Greene (1999): Análisis Econométrico. Ed. Prentice Hall
 
@@ -24,7 +24,7 @@ Uriel y otros (1990): Econometría. El Modelo Lineal. Ed. A. C
 
 X Kmenta. J. (1987): Elementos de Econometria- Ed- Vicens Vives
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 García, T., Montes, D., Salmerón, R. y Sánchez, C. (2016). Econometría III. Ed. Técnica AVICAM
 
@@ -32,11 +32,7 @@ Gujarati, D. (1992). Econometría. Ed. McGraw Hill
 
 Johnston, J. (1987). Métodos de Econometría. Ed. Vicens-Vives
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Brockwell, P.J. and Davis R. A. (2016). Introduction to Time Series and Forecasting. Springer
 

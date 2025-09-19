@@ -2,21 +2,81 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Limusa   Wiley.   ISBN:   9789681861698   Flujo   de   fluidos:   O.   Levenspiel  (1993).  Flujo  de  fluidos  e
+intercambio   de   calor.   Editorial   Reverté   (Barcelona).   ISBN:   9788429179682   J.M.   Coulson,  J.F.
+Richardson,   J.R.   Backhurst,   J.H.   Harker   (1999).  Chemical  Engineering  Volume  1:  Fluid  Flow,  Heat
+Transfer   and   Mass   Transfer.   Elsevier.   ISBN:  9780750644440  R.L.  Mott  (2006).  Mecánica  de  Fluidos
+Aplicada.   Pearson   Education.   ISBN:  9702608058  R.  Darby,  R.P.  Chhabra  (2016).  Chemical  Engineering
+Fluid   Mechanics.   CRC   Press.   ISBN:   Transmisión   de  calor:  E.  Costa  Novella,  G.  Calleja  Pardo,  G.
+Ovejero   Escudero,   A.   de  Lucas  Martínez,  J.  Aguado  Alonso,  M.A.  Uguina  Zamorano  (1986).  Ingeniería
+Química 4: Transmisión del calor
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
-9789684225336 D.M. Himmelblau (1998). Balances de materia y energía. Prentice Hall Hispanoamericana.
+Balances   de   materia   y   energía.   Editorial   Reverté.  ISBN:  9788429140514  R.M.  Felder  R.W.  Rosseau
+(2009). Principios elementales de los procesos químicos
+
+Editorial   Alhambra   (Madrid).   ISBN:  842051408X  J.P.  Holman  (1998).  Transferencia  de  Calor.  Mc  Graw
+Hill (Madrid). ISBN: W.H. McAdams (1970). Transmisión de calor. Ediciones del Castillo
+
+Editorial   Síntesis.   ISBN:   9788477386650   Manuales   enciclopédicos:  R.H.  Perry,  D.W.  Green  (2001).
+Manual   del   ingeniero  químico  7  ed.  McGraw  Hill.  ISBN:  9788448130084  (Vol.  I)  &  9788448130084  (Vol.
+II)
+
+Introducción   a   la   ingeniería   química.   Problemas   resueltos   de   balances   de  materia  y  energía.
+Editorial   Reverté.   ISBN:  9788429171167  O.A.  Hougen,  K.M.  Watson,  R.A.  Ragatz  (1982).  Principios  de
+los procesos químicos I
+
+J.H.   Herranz   Arribas   (1979).   Procesos  de  transmisión  de  calor.  Exposición  y  problemas  resueltos.
+Ediciones   del   Castillo.  SIBN:  8421901656  A.J.  Chapman  (1977).  Transmisión  del  calor.  Interciencia.
+ISBN:   8472430170   Transferencia   de  materia:  A.  Marcilla,  A.  Gómez,  A.N.  García,  M.I.  Beltrán,  M.M.
+Olaya, J.A. Labarta (2022)
+
+McGraw   Hill   Interamericana   (México).   ISBN:   0072848235   J.   Ocón,   G.   Tojo  (1980).  Problemas  de
+Ingeniería   Química.   Operaciones   básicas.   Tomo  I.  Aguilar  ediciones  (Madrid).  ISBN:  8403201052  J.
+Ocón,   G.   Tojo   (1980).   Problemas   de   Ingeniería   Química.   Operaciones  básicas.  Tomo  II.  Aguilar
+ediciones (Madrid). ISBN: 8403202202 J. Costa López, S. Cervera March, F. Cunill García, S. Esplugas
+Vidal,   J.   Mata   Álvarez   (1984).   Curso   de   ingeniería   química.  Introducción  a  los  procesos,  las
+operaciones unitarias y los fenómenos de transporte. Editorial Reverté. ISBN: 9788429171266 Balances
+de   materia  y  energía:  G.V.  Reklaitis,  D.R.  Scheneider  (1989).  Balances  de  materia  y  energía.  McGraw
+Hill.   ISBN:   D.M.  Himmelblau  (1998).  Balances  de  materia  y  energía.  Prentice  Hall  Hispanoamericana.
 ISBN:   9789688801208   J.F.   Izquierdo,   J.   Costa,  E.  Martínez  de  la  Osa,  J.  Rodríguez,  M.  Izquierdo
 (2015)
 
+Mcketta,   M.   Dekker.   Enclyclopedia   of   chemical   processing   and   design.   CRC  Press.  61  tomos  de
+diferentes años
+
+Operaciones   básicas  en  general:  G.  Calleja  Pardo,  F.  García  Herruzo,  A.  de  Lucas  Martínez,  D.  Prats
+Rico,   J.M.   Rodríguez   Maroto   (1999).   Introducción   a   la   Ingeniería  Química.  Editorial  Síntesis
+(Madrid).   ISBN:   W.L.   McCabe,   J.C.   Smith,  P.  Harriot  (2007).  Operaciones  unitarias  en  Ingeniería
+Química
+
+Operaciones de separación de transferencia de materia. Editorial Síntesis. ISBN: P.J. Martínez de la
+Cuesta,   E.   Rus   Martínez  (2004).  Operaciones  de  separación  en  ingeniería.  Pearson  Educación.  ISBN:
+9788420542508   F.J.   Richardson,   J.H.  Harker,  J.R.  Barkhurst  (2002).  Chemical  Engineering  Volume  2:
+Particle   technology   and   separation   processes.   Butterworth  Heinemann.  ISBN:  E.  Henley,  J.  Seader
+(1987). Operaciones de separación por etapas de equilibrio en ingeniería química. Editorial Reverté.
+ISBN:    9788429179088   A.L.   Hines,   R.N.   Maddox   (1987).   Transferencia   de   masa:   fundamentos   y
+aplicaciones
+
+Prentice-Hall    Hispanoamericana.    ISBN:   9688801127   Reactores   químicos:   O.   Levenspiel   (2010).
+Ingeniería   de   las   reacciones   químicas.   Editorial   Reverté  (Barcelona).  ISBN:  9788429191820  J.M.
+Santamaría, J. Herguido, M.A. Menéndez, A. Monzón (1999). Ingeniería de reactores
+
+✅ Recursos añadidos (28):
+------------------------------
 A.   Marcilla,   A.   Gómez,  A.N.  García,  M.I.  Beltrán,  M.M.  Olaya,  J.A.  Labarta  (2022).  Operaciones  de
 separación de transferencia de materia. Editorial Síntesis. ISBN: 9788413571775
 
-Balances   de   materia   y   energía.   Editorial   Reverté.  ISBN:  9788429140514  R.M.  Felder  R.W.  Rosseau
-(2009). Principios elementales de los procesos químicos
+A.J. Chapman (1977). Transmisión del calor . Interciencia. ISBN: 8472430170
+
+A.L.   Hines,   R.N.   Maddox  (1987).  Transferencia  de  masa:  fundamentos  y  aplicaciones  .  Prentice-Hall
+Hispanoamericana. ISBN: 9688801127
+
+D.M.   Himmelblau   (1998).   Balances   de   materia   y   energía.   Prentice  Hall  Hispanoamericana.  ISBN:
+9789688801208
 
 E.   Costa   Novella,   G.   Calleja  Pardo,  G.  Ovejero  Escudero,  A.  de  Lucas  Martínez,  J.  Aguado  Alonso,
 M.A.   Uguina   Zamorano   (1986).   Ingeniería   Química   4:   Transmisión   del  calor.  Editorial  Alhambra
@@ -25,10 +85,10 @@ M.A.   Uguina   Zamorano   (1986).   Ingeniería   Química   4:   Transmisión 
 E.   Henley,   J.   Seader   (1987).   Operaciones   de   separación  por  etapas  de  equilibrio  en  ingeniería
 química. Editorial Reverté. ISBN: 9788429179088
 
-Editorial Síntesis. ISBN: 9788477386650 Manuales enciclopédicos
-
 F.J.   Richardson,   J.H.   Harker,   J.R.   Barkhurst   (2002).   Chemical   Engineering  Volume  2:  Particle
 technology and separation processes. Butterworth Heinemann. ISBN: 0750644451
+
+Flujo de fluidos
 
 G.   Calleja   Pardo,   F.   García   Herruzo,  A.  de  Lucas  Martínez,  D.  Prats  Rico,  J.M.  Rodríguez  Maroto
 (1999). Introducción a la Ingeniería Química. Editorial Síntesis (Madrid). ISBN: 8477386641
@@ -36,70 +96,9 @@ G.   Calleja   Pardo,   F.   García   Herruzo,  A.  de  Lucas  Martínez,  D.  
 G.V.   Reklaitis,   D.R.   Scheneider   (1989).   Balances   de   materia   y   energía.   McGraw   Hill.  ISBN:
 9789684225336
 
-J.H.   Herranz   Arribas   (1979).   Procesos  de  transmisión  de  calor.  Exposición  y  problemas  resueltos.
-Ediciones   del   Castillo.  SIBN:  8421901656  A.J.  Chapman  (1977).  Transmisión  del  calor.  Interciencia.
-ISBN: 8472430170 Transferencia de materia
-
-J.P. Holman (1998). Transferencia de Calor. Mc Graw Hill (Madrid). ISBN: 9788448120405
-
-Limusa Wiley. ISBN: 9789681861698 Flujo de fluidos
-
-Mcketta,   M.   Dekker.   Enclyclopedia   of   chemical   processing   and   design.   CRC  Press.  61  tomos  de
-diferentes años
-
-O.A.   Hougen,   K.M.   Watson,   R.A.  Ragatz  (1982).  Principios  de  los  procesos  químicos  I.  Balances  de
-materia y energía. Editorial Reverté. ISBN: 9788429140514
-
-Operaciones de separación de transferencia de materia. Editorial Síntesis. ISBN
-
-Prentice-Hall Hispanoamericana. ISBN: 9688801127 Reactores químicos
-
-R.H.   Perry,   D.W.  Green  (2001).  Manual  del  ingeniero  químico  7  ed.  McGraw  Hill.  ISBN:  9788448130084
-(Vol. I) & 9788448130084 (Vol. II)
-
-W.H. McAdams (1970). Transmisión de calor. Ediciones del Castillo
-
-W.L. McCabe, J.C. Smith, P. Harriot (2007). Operaciones unitarias en Ingeniería Química. McGraw Hill
-Interamericana (México). ISBN: 0072848235
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-McGraw   Hill   Interamericana   (México).   ISBN:   0072848235   J.   Ocón,   G.   Tojo  (1980).  Problemas  de
-Ingeniería   Química.   Operaciones   básicas.   Tomo  I.  Aguilar  ediciones  (Madrid).  ISBN:  8403201052  J.
-Ocón,   G.   Tojo   (1980).   Problemas   de   Ingeniería   Química.   Operaciones  básicas.  Tomo  II.  Aguilar
-ediciones (Madrid). ISBN: 8403202202 J. Costa López, S. Cervera March, F. Cunill García, S. Esplugas
-Vidal,   J.   Mata   Álvarez   (1984).   Curso   de   ingeniería   química.  Introducción  a  los  procesos,  las
-operaciones unitarias y los fenómenos de transporte. Editorial Reverté. ISBN: 9788429171266 Balances
-de   materia   y   energía   →  J.  Costa  López,  S.  Cervera  March,  F.  Cunill  García,  S.  Esplugas  Vidal,  J.
-Mata   Álvarez   (1984).   Curso   de   ingeniería   química.  Introducción  a  los  procesos,  las  operaciones
-unitarias y los fenómenos de transporte . Editorial Reverté. ISBN: 9788429171266
-
-O.   Levenspiel  (1993).  Flujo  de  fluidos  e  intercambio  de  calor.  Editorial  Reverté  (Barcelona).  ISBN:
-9788429179682    J.M.   Coulson,   J.F.   Richardson,   J.R.   Backhurst,   J.H.   Harker   (1999).   Chemical
-Engineering   Volume   1:   Fluid   Flow,  Heat  Transfer  and  Mass  Transfer.  Elsevier.  ISBN:  9780750644440
-R.L.   Mott   (2006).  Mecánica  de  Fluidos  Aplicada.  Pearson  Education.  ISBN:  9702608058  R.  Darby,  R.P.
-Chhabra   (2016).   Chemical  Engineering  Fluid  Mechanics.  CRC  Press.  ISBN  →  R.L.  Mott  (2006).  Mecánica
-de Fluidos Aplicada. Pearson Education. ISBN: 9702608058
-
-O.   Levenspiel   (2010).   Ingeniería  de  las  reacciones  químicas.  Editorial  Reverté  (Barcelona).  ISBN:
-9788429191820 J.M. Santamaría, J. Herguido, M.A. Menéndez, A. Monzón (1999). Ingeniería de reactores
-→   O.  Levenspiel  (2010).  Ingeniería  de  las  reacciones  químicas.  Editorial  Reverté  (Barcelona).  ISBN:
-9788429191820
-
-9788413571775   P.J.   Martínez   de   la   Cuesta,   E.  Rus  Martínez  (2004).  Operaciones  de  separación  en
-ingeniería.   Pearson   Educación.   ISBN:   9788420542508   F.J.  Richardson,  J.H.  Harker,  J.R.  Barkhurst
-(2002).   Chemical   Engineering   Volume   2   →   P.J.   Martínez   de   la  Cuesta,  E.  Rus  Martínez  (2004).
-Operaciones de separación en ingeniería. Pearson Educación. ISBN: 9788420542508
-
-✅ Recursos añadidos:
-------------------------------
-A.J. Chapman (1977). Transmisión del calor . Interciencia. ISBN: 8472430170
-
-A.L.   Hines,   R.N.   Maddox  (1987).  Transferencia  de  masa:  fundamentos  y  aplicaciones  .  Prentice-Hall
-Hispanoamericana. ISBN: 9688801127
-
-D.M.   Himmelblau   (1998).   Balances   de   materia   y   energía.   Prentice  Hall  Hispanoamericana.  ISBN:
-9789688801208
+J. Costa López, S. Cervera March, F. Cunill García, S. Esplugas Vidal, J. Mata Álvarez (1984). Curso
+de   ingeniería   química.   Introducción   a  los  procesos,  las  operaciones  unitarias  y  los  fenómenos  de
+transporte . Editorial Reverté. ISBN: 9788429171266
 
 J.   Ocón,   G.   Tojo   (1980).   Problemas   de  Ingeniería  Química.  Operaciones  básicas.  Tomo  I.  Aguilar
 ediciones (Madrid). ISBN: 8403201052
@@ -120,14 +119,32 @@ Fluid Flow, Heat Transfer and Mass Transfer. Elsevier. ISBN: 9780750644440
 J.M.   Santamaría,   J.   Herguido,  M.A.  Menéndez,  A.  Monzón  (1999).  Ingeniería  de  reactores.  Editorial
 Síntesis. ISBN: 9788477386650
 
+J.P. Holman (1998). Transferencia de Calor. Mc Graw Hill (Madrid). ISBN: 9788448120405
+
+Manuales enciclopédicos
+
 O.   Levenspiel  (1993).  Flujo  de  fluidos  e  intercambio  de  calor.  Editorial  Reverté  (Barcelona).  ISBN:
 9788429179682
 
-Operaciones básicas en general
+O.   Levenspiel   (2010).   Ingeniería  de  las  reacciones  químicas.  Editorial  Reverté  (Barcelona).  ISBN:
+9788429191820
+
+O.A.   Hougen,   K.M.   Watson,   R.A.  Ragatz  (1982).  Principios  de  los  procesos  químicos  I.  Balances  de
+materia y energía. Editorial Reverté. ISBN: 9788429140514
+
+P.J. Martínez de la Cuesta, E. Rus Martínez (2004). Operaciones de separación en ingeniería. Pearson
+Educación. ISBN: 9788420542508
 
 R. Darby, R.P. Chhabra (2016). Chemical Engineering Fluid Mechanics. CRC Press. ISBN: 9781315370675
+
+R.L. Mott (2006). Mecánica de Fluidos Aplicada. Pearson Education. ISBN: 9702608058
 
 R.M.   Felder   R.W.   Rosseau   (2009).   Principios  elementales  de  los  procesos  químicos.  Limusa  Wiley.
 ISBN: 9789681861698
 
-📊 Porcentaje estimado de cambio: 73% [███████░░░]
+W.H. McAdams (1970). Transmisión de calor. Ediciones del Castillo
+
+W.L. McCabe, J.C. Smith, P. Harriot (2007). Operaciones unitarias en Ingeniería Química. McGraw Hill
+Interamericana (México). ISBN: 0072848235
+
+📊 Porcentaje estimado de cambio: 82% [████████░░]

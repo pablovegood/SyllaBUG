@@ -2,11 +2,11 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 AA. VV. Computer music journal. Cambridge, Mass.: MIT Press, [Disponible en Biblioteca Digital UGR]
 
@@ -35,22 +35,20 @@ KATZ, BOB. La masterización de audio. Guipúzcoa: Escuela de Cine y Vídeo de A
 
 NUÑEZ, Adolfo. Informática y electrónica musical. Madrid: Paraninfo, 1992
 
+PENFOLD, Robert A. MIDI: proyectos prácticos de música electrónica. Madrid: Paraninfo, 1996
+
 PRIETO,   Alberto;   LLORIS,   Antonio;   TORRES,   Juan   Carlos.   Introducción  a  la  Informática.  Madrid:
 McGraw-Hill,1995
 
+RODRÍGUEZ VEGA, Jorge. Introducción a la informática. Madrid: Anaya Multimedia, 1998
+
 RUIZ ANTÓN, Vicente J. Convierte tu PC en un estudio de música. Madrid: Anaya Multimedia, 2004
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-RODRÍGUEZ   VEGA,   Jorge.   Introducción   a   la  informática.  Madrid:  Anaya  Multimedia,  1998.  sistemas.
-Madrid:   Alianza   Editorial,   2004   →   RODRÍGUEZ  VEGA,  Jorge.  Introducción  a  la  informática.  Madrid:
-Anaya Multimedia, 1998
-
-✅ Recursos añadidos:
-------------------------------
-PENFOLD, Robert A. MIDI: proyectos prácticos de música electrónica. Madrid: Paraninfo, 1996
 
 SUPPER,   Martin.   Música   electrónica  y  música  con  ordenador.  Historia,  estética,  métodos,  sistemas.
 Madrid: Alianza Editorial, 2004
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

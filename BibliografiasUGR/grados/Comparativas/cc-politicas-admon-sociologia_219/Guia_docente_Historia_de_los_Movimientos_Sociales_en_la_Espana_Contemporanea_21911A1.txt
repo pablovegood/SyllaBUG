@@ -2,11 +2,11 @@
 Grado: cc-politicas-admon-sociologia (219)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 ADELL,   R.   y   MARTÍNEZ,  M.  (Coord)  (2004)  ¿Dónde  están  las  llaves?  El  movimiento  ocupa:  prácticas  y
 contextos sociales. Madrid, Los Libros de la Catarata
@@ -39,8 +39,6 @@ LARAÑA, E. (1999) La construcción de los movimientos sociales. Madrid: Alianza
 LÓPEZ   MARTÍNEZ,   M.   (2017)   ¿Noviolencia   o   barbarie?  El  arte  de  no  dejarse  deshumanizar.  Madrid,
 Dykinson
 
-LÓPEZ, Mario (2004) Enciclopedia de paz y conflictos, Granada, Universidad de Granada
-
 ORTIZ   HERAS,   M.  (et  alii)  (2001)  Movimientos  sociales  y  Estado  en  la  España  contemporánea,  Cuenca,
 Universidad de Castilla-La Mancha
 
@@ -72,11 +70,7 @@ VARELA, N. (2013) Feminismo para principiantes, Barcelona, Edicionesb
 ÁLVAREZ,   J.   (1995)   Movimientos   sociales   en  España:  del  modelo  tradicional  a  la  modernidad  post-
 franquista. Madrid, Instituto Universitario Ortega y Gasset
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 BRITO-DIAZ, J.C. (2023) “Protestas ecologistas urbanas en la transición española: Las Palmas de Gran
 Canaria,      1977-      1983”,      Hispania      Nova,      21      (2023):      286     a     324.     DOI:
@@ -90,4 +84,6 @@ HERRERA GONZÁLEZ DE MOLINA, A., GONZÁLEZ DE MOLINA, M., SOTO FERNÁNDEZ, D. (2
 por   la   Naturaleza»   (1985).   La   confluencia   del  movimiento  campesino  y  el  movimiento  ecologista.
 Historia Agraria, 50
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+LÓPEZ, Mario (2004) Enciclopedia de paz y conflictos, Granada, Universidad de Granada
+
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

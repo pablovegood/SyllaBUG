@@ -2,11 +2,17 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+G.   Brassard   y   P.   Bratley:   Fundamentos   de   Algoritmia.   Prentice   Hall,   1997  T.H.  Cormen,  C.E.
+Leiserson, R. L. Rivest y C. Stein: Introduction to Algorithms. Fourth Edition. MIT Press, 2022
 
-📚 Recursos sin cambios:
+G.   Heineman,  G  Pollice,  S.  Selkow.  Algorithms  in  a  Nutshell:  A  Practical  Guide.  O'Reilly  Media  2016
+R.   Sedgewick.   Algorithms   in   C.   Addison-Wesley,   3rd  edition,  2001  J.  Erickson.  Algorithms  Univ.
+Illinois   (2019)  https://jeffe.cs.illinois.edu/teaching/algorithms/  (pdf)  T.  Roughgarden.  Algorithms
+Illuminated: Omnibus edition. Soundlikeyourself Publishing LLC 2022
+
+📚 Recursos sin cambios (4):
 ------------------------------
 E. Horowitz, S. Sahni, S. Rajasekaran: Computer Algorithms. Comp Science Press, 2007
 
@@ -16,20 +22,10 @@ J.L. Verdegay: Lecciones de Algorítmica. Editorial Técnica AVICAM, 2017
 
 S. Skiena. The Algorithm Design Manual. Springer, 2020 (3 edición)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-G.   Heineman,  G  Pollice,  S.  Selkow.  Algorithms  in  a  Nutshell:  A  Practical  Guide.  O'Reilly  Media  2016
-R.   Sedgewick.   Algorithms   in   C.   Addison-Wesley,   3rd  edition,  2001  J.  Erickson.  Algorithms  Univ.
-Illinois    (2019)    T.   Roughgarden.   Algorithms   Illuminated:   Omnibus   edition.   Soundlikeyourself
-Publishing   LLC   2022   →  T  .  Roughgarden.  Algorithms  Illuminated:  Omnibus  edition.  Soundlikeyourself
-Publishing LLC 2022
-
-G.   Brassard   y   P.   Bratley:   Fundamentos   de   Algoritmia.   Prentice   Hall,   1997  T.H.  Cormen,  C.E.
-Leiserson,   R.   L.   Rivest  y  C.  Stein:  Introduction  to  Algorithms.  Fourth  Edition.  MIT  Press,  2022  →
 G. Brassard y P. Bratley: Fundamentos de Algoritmia. Prentice Hall, 1997
 
-✅ Recursos añadidos:
-------------------------------
 G. Heineman, G Pollice, S. Selkow. Algorithms in a Nutshell: A Practical Guide. O'Reilly Media 2016
 
 J.   Erickson.   Algorithms   Univ.   Illinois  (2019)  https://jeffe.cs.illinois.edu/teaching/algorithms/
@@ -37,7 +33,9 @@ J.   Erickson.   Algorithms   Univ.   Illinois  (2019)  https://jeffe.cs.illinoi
 
 R. Sedgewick. Algorithms in C. Addison-Wesley, 3rd edition, 2001
 
+T . Roughgarden. Algorithms Illuminated: Omnibus edition. Soundlikeyourself Publishing LLC 2022
+
 T.H.   Cormen,   C.E.   Leiserson,  R.  L.  Rivest  y  C.  Stein:  Introduction  to  Algorithms.  Fourth  Edition.
 MIT Press, 2022
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 80% [████████░░]

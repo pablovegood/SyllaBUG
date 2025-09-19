@@ -2,16 +2,16 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Barcelona,   Ariel,   2010  fragmentos  de  textos  de  otros  autores,  salvo  que  sean  citados  correctamente
-podrán   confeccionar   a   base   de   una   sucesión   de   citas,   sino   que  se  valorará  especialmente  la
-aportación   de  un  esquema  de  análisis  original  y  la  elaboración  personal  de  las  fuentes  consultadas.
-El   alumnado   ya   desde   el   primer   curso   del   Grado   debe   concienciarse   de   que   cortar  y  pegar
-literalmente,   sin   citar   la   fuente,   es   plagiar.   El  plagio  implica  copiar  una  y  que  vulnera  los
-derechos de autor, es un delito tipificado en el código penal. Por todas
+Barcelona.   2001   MORADIELLOS,  Enrique,  Historia  del  mundo  contemporáneo  en  sus  documentos,  Granada,
+Comares, 2019 MARTIN, José Luis; MARTINEZ SHAW, Carlos y TUSELL, Javier, Historia de España. Vol. 2.
+La España Contemporánea. Madrid, Taurus. 2001
 
-📚 Recursos sin cambios:
+contemporáneo   a  la  Primera  Guerra  Mundial,  Madrid:  Alianza  Editorial,  2010  MAZOWER,  Mark.  La  Europa
+negra: desde la Gran Guerra a la caída del comunismo. Ediciones B
+
+📚 Recursos sin cambios (25):
 ------------------------------
 ALTRICHTER, Helmut y BERNECKER, Walther L.: Historia de Europa en el siglo XX, Madrid, Marcial Pons,
 2014
@@ -49,6 +49,8 @@ JUDT, Tony, Postguerra. Una historia de Europa, Madrid, Taurus, 2006
 LARIO, Ángeles. (coord.), Historia contemporánea universal. Del surgimiento del Estado contemporáneo
 a la Primera Guerra Mundial, Madrid: Alianza Editorial, 2010
 
+MARTINEZ CARRERAS, J. U. Introducción a la Historia Contemporánea. Ed. Istmo. 2 vols
+
 PALMER, R. y COLTON, J., Historia Contemporánea, Madrid, Akal, 1982
 
 PAREDES, Javier (Coordinador), Historia Contemporánea de España, Barcelona, Ariel, 1998, 2 vols., I,
@@ -69,27 +71,20 @@ Ramón Areces, 1988
 
 VILLARES, Ramón y BAHAMONDE, Angel, El mundo contemporáneo. Siglos XIX y XX, Madrid, Taurus, 2001
 
+WASSERSTEIN,   Bernard:   Barbarie   y   civilización   :   una   historia   de  la  Europa  de  nuestro  tiempo.
+Barcelona, Ariel, 2010
+
 ZORGBIBE,   Ch.,   Historia  de  las  relaciones  internacionales.  vol.  1,  De  1945  a  1962;  vol  2,De  1962  a
 nuestros días.Madrid, Alianza Editorial, 1997
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Barcelona.   2001   MORADIELLOS,  Enrique,  Historia  del  mundo  contemporáneo  en  sus  documentos,  Granada,
-Comares, 2019 MARTIN, José Luis; MARTINEZ SHAW, Carlos y TUSELL, Javier, Historia de España. Vol. 2.
-La    España   Contemporánea.   Madrid,   Taurus.   2001   →   MORADIELLOS,   Enrique,   Historia   del   mundo
-contemporáneo en sus documentos, Granada, Comares, 2019
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 MARTIN,   José   Luis;   MARTINEZ   SHAW,  Carlos  y  TUSELL,  Javier,  Historia  de  España.  Vol.  2.  La  España
 Contemporánea. Madrid, Taurus. 2001
 
-MARTINEZ CARRERAS, J. U. Introducción a la Historia Contemporánea. Ed. Istmo. 2 vols
-
 MAZOWER,   Mark.   La   Europa   negra:   desde   la   Gran   Guerra   a  la  caída  del  comunismo.  Ediciones  B.
 Barcelona. 2001
 
-WASSERSTEIN,   Bernard:   Barbarie   y   civilización   :   una   historia   de  la  Europa  de  nuestro  tiempo.
-Barcelona, Ariel, 2010
+MORADIELLOS, Enrique, Historia del mundo contemporáneo en sus documentos, Granada, Comares, 2019
 
-📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

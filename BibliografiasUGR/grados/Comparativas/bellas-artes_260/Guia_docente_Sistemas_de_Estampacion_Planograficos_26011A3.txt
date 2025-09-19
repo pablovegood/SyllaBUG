@@ -2,11 +2,11 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Entorno Gráfico Ediciones. Granada. 2015 VICARY, Richard. Litografía. Hermann Blume, Madrid, 1986
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 ANTREASIAN,   G.   y   ADAMS,   Clinton.   The   Tamarind   book  of  lithography.  Art  &  Techniques.  Harry  N,
 ABRAMS, Inc. NewYork, 1970
@@ -42,10 +42,15 @@ Colección Cornunicación Visual, Barcelona, 1975
 
 KREJCA, Ales. Las Técnicas del Grabado. Ed. Libsa. Madrid. 1990
 
+MARTÍNEZ MORO, Juan. Un ensayo sobre grabado (A fínales del siglo XX). Ed. Creática. Santander, 1998
+
 MELOT, GRIFFITHS, FIELD, BEGIN. El grabado. Skira. Carragio. Barcelona, 1981
 
 PIQUER, Alfredo. Litografía. Historia y técnica. Ed. Asociación Cultural y Científica Iberoamericana
 (ACCI), 2019
+
+RAMOS   GUADIX,  Juan  Carlos.  En  torno  al  grabado.  La  estampa  y  su  práctica  reflexiva.  Entorno  Gráfico
+Ediciones. Granada. 2015
 
 ROSS,   John   y   ROMANO,   Clare,.  The  Complete  Printmaker,  Techniques,  Traditions,  Innovations.  Nueva
 York, Roundtable Press, The Free Press. 1990
@@ -60,16 +65,8 @@ SOUSA. J. La mémorie Lithographique. Ed. Arte & Métiers du Livre.Paris, 1998
 
 ZAPATER Y JAREÑO, J. y GARCIA ALCARAZ, J. Manual de litografía. Clan. Madrid 1993
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Entorno   Gráfico  Ediciones.  Granada.  2015  VICARY,  Richard.  Litografía.  Hermann  Blume,  Madrid,  1986  →
 VICARY, Richard. Litografía. Hermann Blume, Madrid, 1986
 
-✅ Recursos añadidos:
-------------------------------
-MARTÍNEZ MORO, Juan. Un ensayo sobre grabado (A fínales del siglo XX). Ed. Creática. Santander, 1998
-
-RAMOS   GUADIX,  Juan  Carlos.  En  torno  al  grabado.  La  estampa  y  su  práctica  reflexiva.  Entorno  Gráfico
-Ediciones. Granada. 2015
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

@@ -2,11 +2,13 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Karp   G.   “Biología   Celular   y  Molecular”,  8ª  ed.  Editorial  McGraw-Hill,  2019  Paniagua  R,  Nistal  M,
+Sesma   P,   Alvarez-Uria   M,  Fraile  B,  Anandón  R,  Sáez  FJ,  ¨  Biología  Celular  (Citología  e  Histología
+Vegetal y Animal, vol. 1) ¨, 4ª edición, McGraw-HillInteramericana, 2017
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Alberts   B,   Johnson  A,  Lewis  J,  Raff,  M,  Roberts  K,  Walter  P.  “Biología  Molecular  de  la  Célula”,  6ª
 ed. Ediciones Omega, 2016
@@ -31,16 +33,11 @@ Plattner H, Hentschel J. “Biología celular”, 4ª ed. Editorial Médica Pana
 
 Pollard TD, Earnshaw WC. “Cell Biology”, 2nd ed. Elsevier/Saunders, 2007
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Karp   G.   “Biología   Celular   y  Molecular”,  8ª  ed.  Editorial  McGraw-Hill,  2019  Paniagua  R,  Nistal  M,
-Sesma   P,   Alvarez-Uria   M,  Fraile  B,  Anandón  R,  Sáez  FJ,  ¨  Biología  Celular  (Citología  e  Histología
-Vegetal   y   Animal,  vol.  1)  ¨,  4ª  edición,  McGraw-Hill-  Interamericana,  2017  →  Paniagua  R,  Nistal  M,
-Sesma   P,   Alvarez-Uria   M,  Fraile  B,  Anandón  R,  Sáez  FJ,  ¨  Biología  Celular  (Citología  e  Histología
-Vegetal y Animal, vol. 1) ¨, 4ª edición, McGraw-Hill-Interamericana, 2017
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Karp G. “Biología Celular y Molecular”, 8ª ed. Editorial McGraw-Hill, 2019
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+Paniagua   R,   Nistal   M,   Sesma   P,  Alvarez-Uria  M,  Fraile  B,  Anandón  R,  Sáez  FJ,  ¨  Biología  Celular
+(Citología e Histología Vegetal y Animal, vol. 1) ¨, 4ª edición, McGraw-Hill-Interamericana, 2017
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

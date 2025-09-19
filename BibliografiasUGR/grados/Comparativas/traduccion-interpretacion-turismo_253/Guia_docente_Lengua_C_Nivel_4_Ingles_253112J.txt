@@ -2,11 +2,11 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Advanced Learner’s English Dictionary. New Edition (2003). Collins Cobuild
 
@@ -14,6 +14,8 @@ Collins Master Dictionary Español-Inglés, English-Spanish (2002). Grijalbo
 
 DAY,   J,.   PRICE   E.,   and  K.  DONAGHY  (2021),  Macmillan  English  Hub  EOI  B2+  Student´s  Book&Workbook.
 Macmillan Education
+
+Dictionaries Macmillan English Dictionary for Advanced Learners (2002)
 
 EASTWOOD, J. (1990), A Basic English Grammar. New edition. Oxford: Oxford University Press
 
@@ -35,9 +37,9 @@ Gran Diccionario Oxford Español-Inglés, Inglés-Español (2003). Oxford
 
 JONES, D. (1917, 1980), Everyman’s English Pronouncing Dictionary. Revised by A.C. GIMSON
 
-Longman Dictionary of Contemporary English. New Edition (2003). Longman
+Lecturas complementarias, que se especificarán al comienzo del curso
 
-Macmillan English Dictionary for Advanced Learners (2002)
+Longman Dictionary of Contemporary English. New Edition (2003). Longman
 
 Phrasal Verbs plus dictionary (2005). Macmillan
 
@@ -48,16 +50,10 @@ SWAN, M. (1980, 1995), Practical English Usage. New edition. Oxford: Oxford Univ
 VINCE,   M.   (1998,   2003),   Intermediate   Language  Practice.  English  grammar  and  vocabulary.  Oxford:
 Macmillan
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Dictionaries
 
 HURTADO ALBIR, A. (2001), Traducción y Traductología. Cátedra
 
-Lecturas complementarias, que se especificarán al comienzo del curso
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

@@ -2,11 +2,15 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Giannotti,   G.  F.  –  Pennacini,  A.,  Le  Lettere  e  la  società  di  Roma  antica,  Torino,  1982  Harrison,  S.
+(ed.), A companion to Latin literature, Malden, 2007
 
-📚 Recursos sin cambios:
+Martin,   R.,   –  Gaillard,  J.  Les  genres  littéraires  a  Rome,  T  I  y  II,  París,  1981  Morton  Braund,  S.,
+Latin Literature, Londres, 2001
+
+📚 Recursos sin cambios (20):
 ------------------------------
 Albrecht, M. von, Historia de la Literatura romana, trad. esp., 2 vols., Barcelona, 1997-1999
 
@@ -52,23 +56,19 @@ Schanz,   M.   –   Hosius,   C.  –  Krüger,  G.,  Römische  Literaturgesch
 reim., 1959-1967
 
 Suerbaum,   W.,  Nouvelle  histoire  de  la  littérature  latine  :  Tome  1,  des  origines  à  la  mort  de  Sylla,
-Bruselas, 2017
+Bruselas, 2017 Se facilitará bibliografía específica para cada uno de los temas
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Martin,   R.,   –  Gaillard,  J.  Les  genres  littéraires  a  Rome,  T  I  y  II,  París,  1981  Morton  Braund,  S.,
-Latin Literature, Londres, 2001  →  Morton Braund, S., Latin Literature, Londres, 2001
-
-Giannotti,   G.  F.  –  Pennacini,  A.,  Le  Lettere  e  la  società  di  Roma  antica,  Torino,  1982  Harrison,  S.
-(ed.),   A   companion   to   Latin   literature,  Malden,  2007  →  Harrison,  S.  (ed.),  A  companion  to  Latin
-literature, Malden, 2007
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Giannotti, G. F. – Pennacini, A., Le Lettere e la società di Roma antica, Torino, 1982
 
+Harrison, S. (ed.), A companion to Latin literature, Malden, 2007
+
 Martin, R., – Gaillard, J. Les genres littéraires a Rome, T I y II, París, 1981
 
-Se facilitará bibliografía específica para cada uno de los temas
+Morton Braund, S., Latin Literature, Londres, 2001
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+Suerbaum,   W.,  Nouvelle  histoire  de  la  littérature  latine  :  Tome  1,  des  origines  à  la  mort  de  Sylla,
+Bruselas, 2017
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

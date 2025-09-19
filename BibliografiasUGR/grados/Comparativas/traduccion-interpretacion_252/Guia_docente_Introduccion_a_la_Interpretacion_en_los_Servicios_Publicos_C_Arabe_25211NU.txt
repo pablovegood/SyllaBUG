@@ -2,36 +2,24 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Problèmes de langage et de communication. Lettres Modernes Minard. Paris Seleskovitch, D. & Lederer,
+M. (1984): Interpréter pour traduire, París, Didier Erudition, Publications de la Sorbonne Al-Didawi
+Mohamed   (2000),   al-tarŷama   wa   al-tawasul=   (Traducción  y  comunicación)  Casablanca.  Al-markaz  al-
+taqafi al-`arabi
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
-Al-Didawi   Mohamed   (2000),   al-tarŷama   wa   al-tawasul=  (Traducción  y  comunicación)  Casablanca.  Al-
-markaz al-taqafi al-`arabi
-
 Baigorri,   J.   (2000).  La  interpretación  de  conferencias:  el  nacimiento  de  una  profesión.  De  París  a
 Nuremberg. Comares. Granada
+
+Collados Aís, A, Prada Macías, E. M., Stévaux, E. & García Becerra, O. (eds). 2007
 
 Collados   Aís,   A.   &  Fernández  Sánchez,  Mª.  M.  (coords.)  (2001)  Manual  de  interpretación  bilateral.
 Granada: Comares
 
 Collados, A., Fernández Sánchez, Mª M., Pradas Macías, M. Sánchez Adam, C., Stévaux, E.(eds.)(2003)
-
-Taibi,   Mustapha   (2011),Taryamat  aljadamat  al'aamma  =  (Traducción  e  interpretación  en  los  servicios
-públicos) Rabat : Dar Assalam
-
-´Aŷina,   Mohamed   (1989).   Nadariyat   al-tarŷama=   (Perspectivas   sobre   traducción)  Tunis:  Institut
-Bourguiba des Langues Vivantes
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Collados Aís, A, Prada Macías, E. M., Stévaux, E. & García Becerra, O. (eds). 2007
 
 Gile,   D.   (1995):   Regards   sur   la   recherche   en   interprétation   de   conférence.  Lille  :  Presses
 universitaires de Lille (Presses du Septentrion)
@@ -47,6 +35,29 @@ Castelló de la Plana: Publicacions de la Universitat Jaume I
 
 Kelly, D. (Ed.) (2000). La traducción y la interpretación en España hoy: perspectivas profesionales.
 Comares, Colección «Interlingua» 13. Granada
+
+La   evaluación   de   la   calidad   en   interpretación   simultánea:   parámetros  de  incidencia.  Granada:
+Editorial Comares
+
+La evaluación de la calidad en interpretación: docencia y profesión. Granada: Comares
+
+Lederer, M. (1981): La traduction simultanée. París, Minard
+
+Rozan,   J.-F.   (1956).   La   prise   de  notes  en  interprétation  consécutive.  Librairie  de  l´Université
+Georg. Ginebra
+
+Seleskovitch, D. (1968). L´interprète dans les conférences internationales
+
+Taibi,   Mustapha   (2011),Taryamat  aljadamat  al'aamma  =  (Traducción  e  interpretación  en  los  servicios
+públicos) Rabat : Dar Assalam
+
+´Aŷina,   Mohamed   (1989).   Nadariyat   al-tarŷama=   (Perspectivas   sobre   traducción)  Tunis:  Institut
+Bourguiba des Langues Vivantes
+
+✅ Recursos añadidos (8):
+------------------------------
+Al-Didawi   Mohamed   (2000),   al-tarŷama   wa   al-tawasul=  (Traducción  y  comunicación)  Casablanca.  Al-
+markaz al-taqafi al-`arabi
 
 Kissami   (2021)   “Acerca  de  la  interpretación  en  los  servicios  públicos:  enfoque  docente  a  partir  de
 una experiencia personal”. Publicación: Innovación docente e investigación en educación avanzando en
@@ -65,21 +76,9 @@ Kissami   2020   “Alcances   y   perspectivas   de   la  traducción  espacial
 Publicación:   innovación   docente  e  investigación  en  educación  avanzando  en  el  proceso  de  enseñanza-
 aprendizaje
 
-La   evaluación   de   la   calidad   en   interpretación   simultánea:   parámetros  de  incidencia.  Granada:
-Editorial Comares
-
-La evaluación de la calidad en interpretación: docencia y profesión. Granada: Comares
-
-Lederer, M. (1981): La traduction simultanée. París, Minard
-
 Problèmes de langage et de communication. Lettres Modernes Minard. Paris
-
-Rozan,   J.-F.   (1956).   La   prise   de  notes  en  interprétation  consécutive.  Librairie  de  l´Université
-Georg. Ginebra
 
 Seleskovitch,   D.   &   Lederer,   M.   (1984):   Interpréter   pour   traduire,   París,   Didier  Erudition,
 Publications de la Sorbonne
 
-Seleskovitch, D. (1968). L´interprète dans les conférences internationales
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

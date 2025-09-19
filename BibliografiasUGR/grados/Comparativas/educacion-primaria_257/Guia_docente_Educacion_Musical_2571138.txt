@@ -2,11 +2,15 @@
 Grado: educacion-primaria (257)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Benett,   R.   (2007).  Investigando  los  estilos  musicales.Akal.  (Libro  +  2  CDs)  Bozzini,  F.  (2000).  El
+juego y la música: juegos musicales en la escuela. Novedades Educativas
 
-📚 Recursos sin cambios:
+Díaz   Mohedo,   M.   T.,   Vicente   Bújez,  A.  y  Vicente  Bújez,  M.  R.  (2012).  Actividades  musicales  Díaz
+Mohedo, M. T. y Vicente Bújez, A. (2015). Fundamentos de la expresión musical.Ediciones Artsyntax
+
+📚 Recursos sin cambios (25):
 ------------------------------
 Alsina, P. (1997). El área de Educación Musical. Propuestas para aplicar en el aula. Graó
 
@@ -26,12 +30,6 @@ Elementary Grades. Cengage Learning
 
 Cremades, R. (Coord.) (2017). Didáctica de la Educación Musical en Primaria. Paraninfo Universidad
 
-Díaz   Mohedo,   M.   T.   y   Vicente   Bújez,   A.   (2015).  Fundamentos  de  la  expresión  musical.Ediciones
-Artsyntax
-
-Díaz   Mohedo,   M.   T.,   Vicente   Bújez,  A.  y  Vicente  Bújez,  M.  R.  (2012).  Actividades  musicales  para
-Primaria.Universidad de Granada
-
 Díaz,   M.   y   Giráldez,   A.   (Coords.)  (2007).  A  portaciones  teóricas  y  metodológicas  a  la  educación
 Musical. Graó
 
@@ -48,6 +46,12 @@ Maneveau, G. (1993). Música y educación. Rialp
 
 Ocaña, A. (2020). La experiencia musical como mediación educativa. Octaedro
 
+Olvera-Fernández,   J.,  Ocaña-Fernández,  A.  y  Montes-Rodríguez,  R.  (2023).  Escuchando  al  estudiantado
+a   través   de   sus   preferencias  musicales:  Tertulias  dialógicas,  una  oportunidad  para  una  educación
+musical        crítica.        Revista        Electrónica        de        Léeme,        52,       178-195.
+https://ojs.uv.es/index.php/LEEME/article/view/27382   Orff,   C.   (1969).  Orff-Schulwerk:  música  para
+niños. Introducción.Unión Musical Española
+
 Palacios, F y Riveiro, L. (1990). Artilugios e instrumentos para hacer música. Ópera Tres
 
 Pascual, P. (2002). Didáctica de la Música para Primaria. Pearson Educación
@@ -63,39 +67,40 @@ Swanwick, K. (1991). Música, pensamiento y educación.Morata
 Vicente   Bújez,   A.   y  Peláez  Molina,  L.  (2015).  Los  Alux  viajan  a  la  Edad  Media.  Proyecto  educativo
 musical Alua. Ediciones Artsyntax
 
-Vicente   Bújez,   A.;   Díaz   Mohedo,   M.T.   &   Vicente   Bújez,   M.R.   (2015).   Actividades   musicales
-paraPrimaria.Secretariado de Innovación Docente. Universidad de Granada
+Vicente   Bújez,   A.;   Díaz   Mohedo,  M.T.  &  Vicente  Bújez,  M.R.  (2015).  Actividades  musicales  Revista
+Eufonía.   Didáctica   de   la  Música  (https://www.grao.com/revistas/revista-eufonia/)  Revista  Música  y
+Educación (http://www.musicalis.es/)
 
 Vicente   Bújez,   M.   R.   (2014).   Lenguaje   Musical.   En   Aróstegui  J.L.  (Ed)  La  Música  en  educación
 primaria. Dairea
 
 Willems, E. (1994). El valor humano de la educación musical. Labor
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Olvera-Fernández,   J.,  Ocaña-Fernández,  A.  y  Montes-Rodríguez,  R.  (2023).  Escuchando  al  estudiantado
-a   través   de   sus   preferencias  musicales:  Tertulias  dialógicas,  una  oportunidad  para  una  educación
-musical   crítica.   Revista   Electrónica   de   Léeme,  52,  Orff,  C.  (1969).  Orff-Schulwerk:  música  para
-niños.   Introducción.Unión   Musical   Española   →  Olvera-Fernández,  J.,  Ocaña-Fernández,  A.  y  Montes-
-Rodríguez,   R.   (2023).  Escuchando  al  estudiantado  a  través  de  sus  preferencias  musicales:  Tertulias
-dialógicas,   una   oportunidad   para  una  educación  musical  crítica.  Revista  Electrónica  de  Léeme,  52,
-178-195. https://ojs.uv.es/index.php/LEEME/article/view/27382
-
-Benett,   R.   (2007).  Investigando  los  estilos  musicales.Akal.  (Libro  +  2  CDs)  Bozzini,  F.  (2000).  El
-juego   y   la   música:   juegos   musicales   en   la   escuela.  Novedades  Educativas  →  Benett,  R.  (2007).
-Investigando los estilos musicales.Akal. (Libro + 2 CDs)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 Aróstegui,   J.   L.,  Christophersen,  C.,  Nichols,  J.,  y  Matsunobu,  K.  (Ed.)  (2024).  The  Sage  Handbook
 of School Music Education. Sage
 
+Benett, R. (2007). Investigando los estilos musicales.Akal. (Libro + 2 CDs)
+
 Bozzini, F. (2000). El juego y la música: juegos musicales en la escuela. Novedades Educativas
+
+Díaz   Mohedo,   M.   T.   y   Vicente   Bújez,   A.   (2015).  Fundamentos  de  la  expresión  musical.Ediciones
+Artsyntax
+
+Díaz   Mohedo,   M.   T.,   Vicente   Bújez,  A.  y  Vicente  Bújez,  M.  R.  (2012).  Actividades  musicales  para
+Primaria.Universidad de Granada
+
+Olvera-Fernández,   J.,  Ocaña-Fernández,  A.  y  Montes-Rodríguez,  R.  (2023).  Escuchando  al  estudiantado
+a   través   de   sus   preferencias  musicales:  Tertulias  dialógicas,  una  oportunidad  para  una  educación
+musical        crítica.        Revista        Electrónica        de        Léeme,        52,       178-195.
+https://ojs.uv.es/index.php/LEEME/article/view/27382
 
 Orff, C. (1969). Orff-Schulwerk: música para niños. Introducción.Unión Musical Española
 
 Revista Eufonía. Didáctica de la Música (https://www.grao.com/revistas/revista-eufonia/)
 
-Revista Música y Educación (http://www.musicalis.es/)
+Vicente   Bújez,   A.;   Díaz   Mohedo,   M.T.   &   Vicente   Bújez,   M.R.   (2015).   Actividades   musicales
+paraPrimaria.Secretariado de Innovación Docente. Universidad de Granada
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

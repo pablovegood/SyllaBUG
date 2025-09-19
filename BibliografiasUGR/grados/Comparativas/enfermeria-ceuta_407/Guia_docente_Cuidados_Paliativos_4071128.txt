@@ -2,49 +2,34 @@
 Grado: enfermeria-ceuta (407)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-Col.   SOS  Psicología  Útil.  Pirámide.  Madrid,  2007  Connor,  SR  &  Sepulveda  Bermedo,  MC  [eds.]  Atlas  of
-Palliative Care at the End of Life
-
-📚 Recursos sin cambios:
-------------------------------
-Martínez   Cruz   B   et  al.  Enfermería  en  cuidados  paliativos  y  al  final  de  la  vida.  Ed  Elsevier.  ISBN
-9788480867542. Madrid, 2012
-
-SOS.   Dejadme   morir.   Ayudando   a   aceptar   la  muerte.  Cruz  Quintana,  F;  García  Caro,  M.P.  Col.  SOS
-Psicología Útil. Pirámide. Madrid, 2007
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Worldwide   Palliative   Care   Alliance   (WPCA).   2014   Guerra   de   Hoyos  J  A  &  Sanz  Amores  R.  Guía  de
-información   sobre   uso   seguro   de  opioides  en  pacientes  en  situación  terminal.  Consejería  de  Salud
-III. SerieQV 89. Sevilla. Junta de Andalucía. Consejería de Salud. 2012 Benito E, Barbero J, Dones M
-[eds]   Monografías   SECPAL:   Espiritualidad   en   Clínica.  Una  →  Guerra  de  Hoyos  J  A  &  Sanz  Amores  R.
-Guía   de   información  sobre  uso  seguro  de  opioides  en  pacientes  en  situación  terminal.  Consejería  de
-Salud III. SerieQV 89. Sevilla. Junta de Andalucía. Consejería de Salud. 2012
-
-Médica   Panamericana.  2007  Intervención  emocional  en  cuidados  paliativos:  modelo  y  protocolos.  Pilar
-Arranz   et   al.   Barcelona:   Ariel,   2003   →  Intervención  emocional  en  cuidados  paliativos:  modelo  y
-protocolos. Pilar Arranz et al. Barcelona: Ariel, 2003
-
-Obra   Social   “La  Caixa”.  2016  Vallés  Martínez,  M  P  et  al  [Coords]  Planes  de  cuidados  estandarizados
-de   Enfermería   dirigidos   a   paciente   y  familia  en  procesos  avanzados  y  terminales.  2ª  ed.  AECPAL-
-SECPAL.   Madrid:   Saned.   2014   Cómo   dar  las  malas  noticias  en  medicina.  Marcos  Gómez  Sancho.  Arán.
-Madrid. 2006  →  Cómo dar las malas noticias en medicina. Marcos Gómez Sancho. Arán. Madrid. 2006
-
-✅ Recursos añadidos:
+❌ Recursos eliminados (6):
 ------------------------------
 Barbero   Gutiérrez   J  et  al  [Coords]  Manual  para  la  atención  psicosocial  y  espiritual  a  personas  con
 enfermedades   avanzadas.   Intervención   psicológica  y  espiritual.  Barcelona:  Obra  Social  “La  Caixa”.
-2016
+2016 Vallés Martínez, M P et al [Coords] Planes de cuidados estandarizados de Enfermería dirigidos a
+paciente y familia en procesos avanzados y terminales. 2ª ed. AECPALSECPAL. Madrid: Saned. 2014 Cómo
+dar las malas noticias en medicina. Marcos Gómez Sancho. Arán. Madrid. 2006
 
-Benito   E,   Barbero  J,  Dones  M  [eds]  Monografías  SECPAL:  Espiritualidad  en  Clínica.  Una  Propuesta  de
-Evaluación y acompañamiento Espiritual en Cuidados Paliativos. Madrid. SECPAL, 2014
+Col.   SOS  Psicología  Útil.  Pirámide.  Madrid,  2007  Connor,  SR  &  Sepulveda  Bermedo,  MC  [eds.]  Atlas  of
+Palliative Care at the End of Life
 
-Connor,   SR   &   Sepulveda   Bermedo,  MC  [eds.]  Atlas  of  Palliative  Care  at  the  End  of  Life.  Worldwide
-Palliative Care Alliance (WPCA). 2014
+Médica   Panamericana.  2007  Intervención  emocional  en  cuidados  paliativos:  modelo  y  protocolos.  Pilar
+Arranz et al. Barcelona: Ariel, 2003
 
+SECPAL,   2014   Ley  2/2010,  de  8  de  abril,  de  Derechos  y  Garantías  de  la  Dignidad  de  la  Persona  en  el
+Proceso de la Muerte
+
+Worldwide   Palliative   Care   Alliance   (WPCA).   2014   Guerra   de   Hoyos  J  A  &  Sanz  Amores  R.  Guía  de
+información   sobre   uso   seguro   de  opioides  en  pacientes  en  situación  terminal.  Consejería  de  Salud
+III. SerieQV 89. Sevilla. Junta de Andalucía. Consejería de Salud. 2012 Benito E, Barbero J, Dones M
+[eds]   Monografías   SECPAL:   Espiritualidad  en  Clínica.  Una  Propuesta  de  Evaluación  y  acompañamiento
+Espiritual en Cuidados Paliativos. Madrid
+
+http://www.atresplayer.com/television/programas/salvados/temporada-12/capitulo-2buena-
+muerte_2016102200103.html
+
+📚 Recursos sin cambios (12):
+------------------------------
 Cuidados   Paliativos   Domiciliarios:  Atención  Integral  al  Paciente  y  su  Familia.  Sevilla:  Consejería
 de             Salud            de            la            Junta            de            Andalucía.2003.
 https://www.repositoriosalud.es/bitstream/10668/1349/5/CuidadosPaliativosDomiciliarios_2003.pdf
@@ -58,13 +43,11 @@ Publicaciones, 2008. http://www.guiasalud.es/GPC/GPC_428_Paliativos_Osteba_compl
 Guía para familiares en duelo. http://ico.gencat.cat/web/.content/minisite/ico/lico/documents/arxius
 /treballsocial_familiars_en_dol.pdf
 
-Guías   médicas   de   la   SECPAL.   Cuidados  paliativos  no  oncológicos.  Enfermedad  terminal:  concepto  y
-factores pronóstico
+Health   care   Guideline   Palliative   Care.  ICSI.  November  2013.  Fifth  Edition  Évole,  J.  SALVADOS:  La
+Buena Muerte
 
-Health care Guideline Palliative Care. ICSI. November 2013. Fifth Edition
-
-Ley   2/2010,  de  8  de  abril,  de  Derechos  y  Garantías  de  la  Dignidad  de  la  Persona  en  el  Proceso  de  la
-Muerte
+Martínez   Cruz   B   et  al.  Enfermería  en  cuidados  paliativos  y  al  final  de  la  vida.  Ed  Elsevier.  ISBN
+9788480867542. Madrid, 2012
 
 Plan   Andaluz   de   Atención   a   las   Personas  con  Dolor.  Sevilla:  Consejería  de  Salud  de  la  Junta  de
 Andalucía. 2010-2013. http://www.juntadeandalucia.es/export/drupaljda/plan_atencion_dolor-1_0.pdf
@@ -75,8 +58,39 @@ Andalucía.2008
 Protocolo   para   el   seguimiento   del   tratamiento   farmacológico   individualizado   en  pacientes  con
 sedación paliativa. Sevilla : Consejería de Salud y Bienestar Social, 2012
 
+SOS.   Dejadme   morir.   Ayudando   a   aceptar   la  muerte.  Cruz  Quintana,  F;  García  Caro,  M.P.  Col.  SOS
+Psicología Útil. Pirámide. Madrid, 2007
+
 Tratado   de   Medicina   Paliativa.   M.   Gónzalez   Barón   et   al.   2ª  ed.  Buenos  Aires;  Madrid.  Médica
 Panamericana. 2007
+
+http://ico.gencat.cat/web/.content/minisite/ico/lico/documents/arxius/treballsocial_fa
+miliars_en_dol.pdf   Guías   médicas   de   la   SECPAL.   Cuidados   paliativos  no  oncológicos.  Enfermedad
+terminal: concepto y factores pronóstico
+
+✅ Recursos añadidos (9):
+------------------------------
+Barbero   Gutiérrez   J  et  al  [Coords]  Manual  para  la  atención  psicosocial  y  espiritual  a  personas  con
+enfermedades   avanzadas.   Intervención   psicológica  y  espiritual.  Barcelona:  Obra  Social  “La  Caixa”.
+2016
+
+Benito   E,   Barbero  J,  Dones  M  [eds]  Monografías  SECPAL:  Espiritualidad  en  Clínica.  Una  Propuesta  de
+Evaluación y acompañamiento Espiritual en Cuidados Paliativos. Madrid. SECPAL, 2014
+
+Connor,   SR   &   Sepulveda   Bermedo,  MC  [eds.]  Atlas  of  Palliative  Care  at  the  End  of  Life.  Worldwide
+Palliative Care Alliance (WPCA). 2014
+
+Cómo dar las malas noticias en medicina. Marcos Gómez Sancho. Arán. Madrid. 2006
+
+Guerra   de   Hoyos  J  A  &  Sanz  Amores  R.  Guía  de  información  sobre  uso  seguro  de  opioides  en  pacientes
+en   situación  terminal.  Consejería  de  Salud  III.  SerieQV  89.  Sevilla.  Junta  de  Andalucía.  Consejería
+de Salud. 2012
+
+Intervención   emocional   en  cuidados  paliativos:  modelo  y  protocolos.  Pilar  Arranz  et  al.  Barcelona:
+Ariel, 2003
+
+Ley   2/2010,  de  8  de  abril,  de  Derechos  y  Garantías  de  la  Dignidad  de  la  Persona  en  el  Proceso  de  la
+Muerte
 
 Vallés   Martínez,   M   P   et   al  [Coords]  Planes  de  cuidados  estandarizados  de  Enfermería  dirigidos  a
 paciente y familia en procesos avanzados y terminales. 2ª ed. AECPAL-SECPAL. Madrid: Saned. 2014
@@ -85,4 +99,4 @@ paciente y familia en procesos avanzados y terminales. 2ª ed. AECPAL-SECPAL. Ma
 http://www.atresplayer.com/television/programas/salvados/temporada-12/capitulo-2-buena-
 muerte_2016102200103.html
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 71% [███████░░░]

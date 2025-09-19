@@ -2,11 +2,13 @@
 Grado: administracion-direccion-empresas-melilla (533)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+MARTÍN   MARÍN,   José  L.;  RUIZ  MARTÍNEZ,  Ramón  J.  (1999):  El  inversor  y  los  mercados  financieros.  Ed.
+Ariel   Economía,  Barcelona  MARTÍN  MARÍN,  José  L.;  TRUJILLO  PONCE,  Antonio  (2010):  Manual  de  mercados
+financieros. Ed. Paraninfo. Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 BONILLA,   M.;   IVARS,   A.;   MOYA,   I.   (2006):   Matemática   de  las  Operaciones  Financieras:  teoría  y
 práctica. Editorial Thomson
@@ -34,16 +36,12 @@ Santos
 
 NUENO, P.; PREGEL, G. (1997): Instrumentos financieros al servicio de la empresa. Deusto, 3ª edición
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MARTÍN   MARÍN,   José  L.;  RUIZ  MARTÍNEZ,  Ramón  J.  (1999):  El  inversor  y  los  mercados  financieros.  Ed.
-Ariel   Economía,  Barcelona  MARTÍN  MARÍN,  José  L.;  TRUJILLO  PONCE,  Antonio  (2010):  Manual  de  mercados
-financieros.   Ed.   Paraninfo.  Madrid  →  MARTÍN  MARÍN,  José  L.;  TRUJILLO  PONCE,  Antonio  (2010):  Manual
-de mercados financieros. Ed. Paraninfo. Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 MARTÍN   MARÍN,   José  L.;  RUIZ  MARTÍNEZ,  Ramón  J.  (1999):  El  inversor  y  los  mercados  financieros.  Ed.
 Ariel Economía, Barcelona
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+MARTÍN   MARÍN,   José   L.;   TRUJILLO   PONCE,   Antonio   (2010):   Manual   de   mercados  financieros.  Ed.
+Paraninfo. Madrid
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

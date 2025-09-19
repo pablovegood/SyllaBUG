@@ -2,16 +2,29 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
+ANGEL,   R.   (2018).  Controversias  entre  la  teoría  curricular  y  la  práctica  educativa  en  la  educación
+musical.   Revista   Electrónica   Complutense   de   Investigación   en   Educación   Musical,   15,   83-95.
+https://doi.org/10.5209/RECIEM.58530   BARRETT,   J.   R.   (2007).   Currents   of   change   in   the  music
+curriculum. In L. Bresler (Ed.), International handbook of research in arts education (pp. 153-168).
+Springer
+
+Aprendiendo a enseñar. Manual práctico de didáctica (pp. 21-34). Pirámide
+
 BOLÍVAR, A. (2015). Didáctica y currículum. En J. DOMINGO y M. PÉREZ (Coords.)
+
+KRATUS,   J.  (1990).  Structuring  the  Music  Curriculum  for  Creative  Learning.  Music  Educators  Journal,
+76   (9),   33-37.   https://doi.org/10.2307/3401075   MARÍN,  P.,  BLASCO,  J.  S.  y  BOTELLA,  A.  M.  (2021).
+Hacia   una   conceptualización   de   la   educación   musical   crítica:   aplicación   de   los   paradigmas
+científicos, las teorías curriculares y los modelos didácticos. Márgenes, 2 (2), 3-24
 
 VICENTE,   A.   y  DÍAZ,  Mª  T.  (2017).  La  Educación  Musical  Superior  como  objeto  de  investigación  en  al
 última   década:   revisión   de  las  publicaciones  indexadas  en  la  Web  of  Science  entre  2007  y  2016.  En
 AA.VV   (Comps.)   Temas   actuales   de   investigación   en   las   áreas   de  la  Salud  y  la  Educación  (pp.
 215-222). Scinfoper
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 ABBAGNANO, N. y VISALBERGHI, A. (1970). Historia de la Pedagogía . Fondo de Cultura Económica
 
@@ -19,8 +32,14 @@ BARRETT,   J.   R.   &   VEBLEN,  K.  K.  (2018).  Meaningful  connections  in  
 music curriculum. Music learning and teaching in infancy, childhood, and adolescence (pp. 141-159.).
 In G. McPherson & G. Welsh (Eds.), An Oxford handbook of music education, 2. Oxford University Press
 
+BARRIOS,   C.   (2008).   Fundamentos   epistemológicos   de  la  educación  musical  basada  en  competencias.
+NEUMA, 1, 102-116
+
 CARPENTER, N. C. (1955). Music in the Medieval Universities. Journal of Research in Music Education,
 3 (2),136–144
+
+DURKHEIM,   E.   (2020).   Historia   de   la   educación   y   de   las   doctrinas  pedagógicas:  la  evolución
+pedagógica en Francia. Morata
 
 FLETCHER, P. (1987). Education and music. Oxford University Press
 
@@ -33,13 +52,7 @@ Gia publications
 
 HEMSY DE GAYNZA, V. (1990). Nuevas perspectivas de la educación musical . Guadalupe
 
-JORQUERA,   C.   (2005).   Educación   musical:   Aportes   para   su  comprensión  a  partir  del  origen  de  la
-disciplina. Investigación en la escuela, 58, 69-78
-
 LUNDGREN, U. P. (1992). Teoría del curriculum y escolarización. Morata
-
-MARTIN,   A.   (2004).  Trascendencia  de  la  educación  musical:  una  breve  panorámica  histórica.  Eufonía,
-30, 10-22
 
 MARTÍN,   C.   (2003).   Las   propuestas   curriculares   para  el  área  de  educación  musical  en  la  reforma
 LOGSE.    Antecedentes   y   estudio   comparativo   en   Educación   Primaria.   En   M.   LORENZO   (Coord.),
@@ -54,36 +67,20 @@ VV.AA. (2007). Aportaciones teóricas y Metodológicas a la Educación Musical. 
 YOURN,   B.  R.  (2000).  Learning  to  Teach:  Perspectives  from  Beginning  Music  Teachers.  Music  Education
 Research, II (2), 181-192
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-BARRIOS,   C.   (2008).   Fundamentos   epistemológicos   de   la  educación  musical  basada  en  DURKHEIM,  E.
-(2020). Historia de la educación y de las doctrinas pedagógicas: la evolución pedagógica en Francia.
-Morata   →   DURKHEIM,   E.   (2020).   Historia   de   la   educación   y   de   las  doctrinas  pedagógicas:  la
-evolución pedagógica en Francia. Morata
+https://doi.org/10.1017/S0265051712000575   JORQUERA,   C.   (2005).  Educación  musical:  Aportes  para  su
+comprensión a partir del origen de la disciplina. Investigación en la escuela, 58, 69-78
 
-KRATUS,   J.  (1990).  Structuring  the  Music  Curriculum  for  Creative  Learning.  Music  MARÍN,  P.,  BLASCO,
-J.   S.   y   BOTELLA,   A.   M.   (2021).   Hacia   una   conceptualización  de  la  educación  musical  crítica:
-aplicación   de   los   paradigmas   científicos,   las   teorías   curriculares   y  los  modelos  didácticos.
-Márgenes,    2   (2),   3-24   →   MARÍN,   P.,   BLASCO,   J.   S.   y   BOTELLA,   A.   M.   (2021).   Hacia   una
-conceptualización   de   la   educación   musical  crítica:  aplicación  de  los  paradigmas  científicos,  las
-teorías      curriculares      y      los      modelos     didácticos.     Márgenes,     2     (2),     3-24.
-https://doi.org/10.24310/ngnmar.vzi2.10016
+https://doi.org/10.24310/ngnmar.vzi2.10016 MARTIN, A. (2004). Trascendencia de la educación musical:
+una breve panorámica histórica. Eufonía, 30, 10-22
 
-ANGEL,   R.   (2018).  Controversias  entre  la  teoría  curricular  y  la  práctica  educativa  en  la  educación
-musical.   Revista   Electrónica   Complutense   de   Investigación   en   Educación  BARRETT,  J.  R.  (2007).
-Currents   of  change  in  the  music  curriculum.  In  L.  Bresler  (Ed.),  International  handbook  of  research
-in   arts   education  (pp.  153-168).  Springer  →  BARRETT,  J.  R.  (2007).  Currents  of  change  in  the  music
-curriculum. In L. Bresler (Ed.), International handbook of research in arts education (pp. 153-168).
-Springer
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 ANGEL,   R.   (2018).  Controversias  entre  la  teoría  curricular  y  la  práctica  educativa  en  la  educación
 musical.   Revista   Electrónica   Complutense   de   Investigación   en   Educación   Musical,   15,   83-95.
 https://doi.org/10.5209/RECIEM.58530
 
-BARRIOS,   C.   (2008).   Fundamentos   epistemológicos   de  la  educación  musical  basada  en  competencias.
-NEUMA, 1, 102-116
+BARRETT,   J.   R.   (2007).   Currents   of   change   in   the   music   curriculum.   In   L.   Bresler  (Ed.),
+International handbook of research in arts education (pp. 153-168). Springer
 
 CAMPBEL,   P.S.   Y   SCOTT-KASSNER,   C.  (2018)  Music  in  Childhood  Enhanced:  From  Preschool  through  the
 Elementary Grades. Cengage Learning
@@ -96,4 +93,8 @@ KRATUS,   J.  (1990).  Structuring  the  Music  Curriculum  for  Creative  Learn
 
 MARK, M. (2013). Music Education: Source Readings from Ancient Greece to Today. Routledge
 
-📊 Porcentaje estimado de cambio: 52% [█████░░░░░]
+MARÍN,   P.,   BLASCO,   J.   S.   y   BOTELLA,   A.  M.  (2021).  Hacia  una  conceptualización  de  la  educación
+musical   crítica:   aplicación   de  los  paradigmas  científicos,  las  teorías  curriculares  y  los  modelos
+didácticos. Márgenes, 2 (2), 3-24. https://doi.org/10.24310/ngnmar.vzi2.10016
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

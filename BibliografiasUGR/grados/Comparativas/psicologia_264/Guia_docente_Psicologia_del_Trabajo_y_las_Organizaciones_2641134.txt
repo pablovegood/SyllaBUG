@@ -2,11 +2,13 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Gil   Monte,   P.R.   y   Prado   Gasco,  V.  J.  (2022).  Manual  de  Psicología  del  Trabajo.  Madrid:  Pirámide
+Osca,   A.,   Palací,   F.J.,   Topa,   G.,   Moriano,   J.A.   y   Lisbona,   A.   (2012).   Psicología   de  las
+organizaciones. Madrid: Ed. Sainz y Torres/ UNED
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 Clegg, S.R., Nord, W.R. y Ardi, C. (1996). Handbook of organization studies. London: Sage
 
@@ -16,12 +18,16 @@ Drenth,   P.J.,   Thierrey,  P.J.  y  Wolff,  C.J.  (1998).  Handbook  of  Work 
 GIL,   F.   y   ALCOVER,   C.   Mª.  (Coords.)  (2003).  Introducción  a  la  Psicología  de  las  Organizaciones.
 Madrid: Alianza Editorial
 
-Gil Monte, P.R. y Prado Gasco, V. J. (2022). Manual de Psicología del Trabajo. Madrid: Pirámide
-
 Huici, C., y Morales, J. M. (2004). Psicología de grupos I. Estructura y procesos. Madrid: UNED
 
 Jex,   J.   M.   y   Britt,   T.  W.  (2008).  Organizational  Psychology:  A  Scientist  Practitioner  Approach.
 Nueva Yersey: Wiley
+
+Madrid:   UNED  Anderson,  N.,  Ones,  D.  S.,  Sinagil  K.,y  Viswesvaran,  C.  (2002)  Handbook  of  Industrial,
+Work, and Organizational Psychology. London: Sage
+
+Molero, F., Lois, D., García-Ael, C. y Gómez, A. (Coords.) (2017). Psicología de los Grupos. Madrid:
+UNED
 
 Muchinsky, P. M. (2001). Psicología aplicada al trabajo. Madrid: Paraninfo
 
@@ -34,21 +40,11 @@ Rodríguez, A. (coord.) (2004): Psicología de las organizaciones. Barcelona: Ed
 
 Zarco, V. y Rodríguez, A. (2008). Psicología de los grupos y de las organizaciones. Madrid: Pirámide
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Pirámide   Osca,   A.,   Palací,   F.J.,  Topa,  G.,  Moriano,  J.A.  y  Lisbona,  A.  (2012).  Psicología  de  las
-organizaciones.   Madrid:   Ed.   Sainz  y  Torres/  UNED  Molero,  F.,  Lois,  D.,  García-Ael,  C.  y  Gómez,  A.
-(Coords.)   (2017).   Psicología   de   los  Grupos.  Madrid:  UNED  Anderson,  N.,  Ones,  D.  S.,  Sinagil  K.,y
-Viswesvaran,   C.   (2002)  Handbook  of  Industrial,  Work,  and  Organizational  Psychology.  London:  Sage  →
-Molero, F., Lois, D., García-Ael, C. y Gómez, A. (Coords.) (2017). Psicología de los Grupos. Madrid:
-UNED
-
-✅ Recursos añadidos:
-------------------------------
-Anderson,   N.,   Ones,   D.   S.,  Sinagil  K.,y  Viswesvaran,  C.  (2002)  Handbook  of  Industrial,  Work,  and
-Organizational Psychology. London: Sage
+Gil Monte, P.R. y Prado Gasco, V. J. (2022). Manual de Psicología del Trabajo. Madrid: Pirámide
 
 Osca,   A.,   Palací,   F.J.,   Topa,   G.,   Moriano,   J.A.   y   Lisbona,   A.   (2012).   Psicología   de  las
 organizaciones. Madrid: Ed. Sainz y Torres/ UNED
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

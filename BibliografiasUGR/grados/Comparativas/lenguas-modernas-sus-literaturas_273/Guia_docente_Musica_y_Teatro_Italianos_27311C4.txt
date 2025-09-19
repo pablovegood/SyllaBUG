@@ -2,12 +2,11 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Yale   University   Press,   1990.  querella  de  los  bufones.  València:  Publicacions  de  la  Univertitat  de
-València, 2013
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (40):
 ------------------------------
 ABBATE, Carolyn and PARKER, Roger (eds.). Analyzing Opera: Verdi and Wagner. Berkeley: University of
 California Press, 1989
@@ -37,6 +36,12 @@ DEAN, Winton. Essays of Opera. Oxford: Clarendon Press, 1993
 
 DI   PROFIO,   Alessandro.   La   révolution   des   bouffons:   l'opéra   italien   au   Théâtre  de  Monsieur,
 1789-1792. Paris: CNRS, 2003
+
+DONINGTON,   Robert.   Opera   and   its  symbols.  The  unity  of  words,  music  and  staging.  New  Haven:  Yale
+University Press, 1990
+
+FERRER, Anacleto (ed.). Estética, política y música en los tiempos de la “Encyclopédie”: la querella
+de los bufones. València: Publicacions de la Univertitat de València, 2013
 
 FORNEY, Kristine; MACHLIS, Joseph. Disfrutar de la música. Madrid: Akal, 2011
 
@@ -104,16 +109,8 @@ SÁNCHEZ SÁNCHEZ, Víctor. Verdi y España. Madrid: Akal, 2014
 TOMLINSON, Gary. «Italian romanticism and Italian opera. An essay in their affinities», 19th century
 Music, vol. 10, n. 1 (Summer, 1986), pp 43-60
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-DONINGTON,   Robert.   Opera   and   its  symbols.  The  unity  of  words,  music  and  staging.  New  Haven:  Yale
-University Press, 1990
-
-FERRER, Anacleto (ed.). Estética, política y música en los tiempos de la “Encyclopédie”: la querella
-de los bufones. València: Publicacions de la Univertitat de València, 2013
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

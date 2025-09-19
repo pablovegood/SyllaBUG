@@ -2,12 +2,11 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-GÓMEZ   DELGADO,   M.;   BARREDO   CANO,   J.I.   (2005):   Sistemas  de  información  geográfica  y  teórica  se
-califica de 0 a 10 puntos. Ponderación: 40% de la calificación final
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 AGUILÓ,   M.   et   al.   (2006):   Guía   para   la   elaboración  de  estudios  del  medio  físico:  contenido  y
 metodología. Madrid. Ministerio de Medio Ambiente
@@ -15,22 +14,22 @@ metodología. Madrid. Ministerio de Medio Ambiente
 BENABENT   FERNÁNDEZ   DE   CÓRDOBA   M   (2022):   Manual   de   Planificación   Territorial.  Ordenación  del
 Territorio y Urbanismo.. Tirant Humanidades. Valencia
 
-BIELZA   DE   ORY,   V.   (2008):   Introducción   a   la  ordenación  del  territorio.  Un  enfoque  geográfico.
-Prensas Universitarias de Zaragoza. Zaragoza
-
 FARINÓS   DASI,   J.,   OLCINA   CANTOS,   J.  (Edits.  y  Coords.,  2022):  Ordenación  del  Territorio  y  Medio
 Ambiente. Ed. Tirant Humanidades, Valencia
 
 GALIANA,   L.;   VINUESA,   J.   (Coords.,   2010):   Teoría   y   práctica  para  una  ordenación  racional  del
 territorio. Ed. Síntesis. Madrid
 
+GÓMEZ   DELGADO,   M.;   BARREDO   CANO,   J.I.   (2005):   Sistemas  de  información  geográfica  y  evaluación
+multicriterio en la ordenación del territorio. Ed. Ra-Ma, Madrid
+
 GÓMEZ OREA, D. (2001): Ordenación territorial. Editorial Agrícola Española/Mundi Prensa, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Ordenación   del   Territorio   y   Urbanismo..   Tirant   Humanidades.  Valencia  BIELZA  DE  ORY,  V.  (2008):
+Introducción   a   la   ordenación   del   territorio.   Un   enfoque  geográfico.  Prensas  Universitarias  de
+Zaragoza. Zaragoza
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (20):
 ------------------------------
 ACOSTA,   G.;   BURRACO,   M.  (1998):  Glosario  básico  de  la  ordenación  urbanística  y  territorial.  IAAP.
 Junta de Andalucía. Sevilla
@@ -60,9 +59,6 @@ Electa. Diputació de Barcelona
 
 FERNÁNDEZ,   J.   (2009):   La   evaluación   ambiental   estratégica   de  planes  y  programas  urbanísticos.
 Aranzadi. Cizur Menor (Navarra)FERNÁNDEZ TABALES, A.; SANTOS PAVÓN, E
-
-GÓMEZ   DELGADO,   M.;   BARREDO   CANO,   J.I.   (2005):   Sistemas  de  información  geográfica  y  evaluación
-multicriterio en la ordenación del territorio. Ed. Ra-Ma, Madrid
 
 HERBÁS,   J.   (2009):   “Ordenación   del   territorio,   urbanismo   y   protección   del   paisaje”.  Bosch,
 Barcelona.   La  ordenación  del  territorio  europeo,  Urban,  nº  monográfico,  Revista  del  Departamento  de
@@ -104,4 +100,4 @@ TROITIÑO   VINUESA,  M  .A.  (2000):  "El  diagnóstico  y  la  valoración  de
 Godeneau.   D.   Febles,  M.  F.:  Instrumentos  parael  desarrollo  local.  Ayto.  de  Santa  Cruz  de  Tenerife.
 pp. 51-77
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 74% [███████░░░]

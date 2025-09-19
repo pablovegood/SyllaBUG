@@ -2,11 +2,11 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 E.   F.   HAEUSSLER  y  R.  S.  PAUL,  Matemáticas  para  la  administración,  economía,  ciencias  sociales  y  de
 la vida, Ed. Prentice Hall (2008)
@@ -38,11 +38,7 @@ Prentice Hall (2006)
 
 R.E.LARSON y otros, Cálculo y Geometría Analítica, Volumen 2, Ed. Mc Graw Hill (1994)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

@@ -2,12 +2,15 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (27):
 ------------------------------
+3177-3194   MARTÍNEZ   JUSTICIA,   M.   J.;   SÁNCHEZ-MESA   MARTÍNEZ,   D.  &  SÁNCHEZ-MESA  MARTÍNEZ,  L.  J.,
+Historia y Teoría de la Conservación y Restauración Artística (3ª edición), Tecnos, Madrid, 2008
+
 ALEGRE   ÁVILA,   J.   M.,   Evolución   y   régimen   jurídico   del  Patrimonio  Histórico.  La  configuración
 dogmática   de   la   propiedad   histórica   en  la  Ley  16/1985,  de  25  de  junio,  del  Patrimonio  Histórico
 Español, Ministerio de Cultura, Madrid, 1994
@@ -37,9 +40,6 @@ Mateo, Tirant lo Blanc, Valencia, 2000, pp. 3177-3194
 MARTÍNEZ JUSTICIA, M. J. & SÁNCHEZ-MESA MARTÍNEZ, L. J., La restauración de bienes culturales en los
 textos normativos, Comares, Granada, 2009
 
-MARTÍNEZ   JUSTICIA,   M.   J.;   SÁNCHEZ-MESA   MARTÍNEZ,   D.  &  SÁNCHEZ-MESA  MARTÍNEZ,  L.  J.,  Historia  y
-Teoría de la Conservación y Restauración Artística (3ª edición), Tecnos, Madrid, 2008
-
 MUÑOZ MACHADO, S., La resurrección de las ruinas, (Col. Cuadernos Civitas), Civitas, Madrid, 2002
 
 PORTACELLI,   M.,   “El   teatro   de   Sagunto   de   lo   absurdo”,   Restauración  &  Rehabilitación,  n.  79,
@@ -49,8 +49,10 @@ RIVERA   BLANCO,  J.,  “Sagunto  y  la  protección  del  Patrimonio  español
 Rehabilitación, n. 79, septiembre 2003, pp. 38-39
 
 SÁNCHEZ-MESA   MARTÍNEZ,   L.  J.  “Una  palabra  más  sobre  el  teatro  romano  de  Sagunto:  Los  límites  de  la
-discrecionalidad   técnica   en   la   intervención   sobre  bienes  culturales”,  Revista  de  la  Facultad  de
-Derecho de la Universidad de Granada, n. 10, 2007, pp. 351-413
+discrecionalidad   técnica  en  la  intervención  sobre  bienes  culturales”,  SÁNCHEZ-MESA  MARTÍNEZ,  L.  J.,
+“El   ciudadano   ante   el   Patrimonio  cultural:  algunas  reflexiones  entorno  al  alcance  de  su  posición
+jurídica activa a la luz del régimen jurídico previsto para su protección”, Periférica: Revista para
+el análisis de la cultura y el territorio, n. 15, 2014, pp. 359-380
 
 SÁNCHEZ-MESA   MARTÍNEZ,   L.   J.,   "El   Tratamiento   de  las  Catástrofes  Naturales  y  sus  Efectos  en  la
 Normativa   del  Patrimonio  Cultural:  Análisis  del  Marco  Legal  Trazado  y  su  Idoneidad  Efectiva  para  la
@@ -77,11 +79,6 @@ Culturale, nº 19, 2019, pp. 53-81
 
 SÁNCHEZ-MESA   MARTÍNEZ,   L.   J.,   La   restauración   inmobiliaria   en   la   regulación   del  Patrimonio
 Histórico, Thomson-Aranzadi, Cizur Menor, 2004
-
-SÁNCHEZ-MESA MARTÍNEZ, L. J., “El ciudadano ante el Patrimonio cultural: algunas reflexiones entorno
-al   alcance   de   su   posición   jurídica   activa   a   la   luz   del   régimen   jurídico  previsto  para  su
-protección”,   Periférica:   Revista   para  el  análisis  de  la  cultura  y  el  territorio,  n.  15,  2014,  pp.
-359-380
 
 SÁNCHEZ-MESA   MARTÍNEZ,   L.   J.,   “El   derecho   de   los   ciudadanos   a  una  adecuada  conservación  del
 Patrimonio Cultural”, en AA.VV., Diálogos de Arte. Homenaje al Profesor Domingo Sánchez-Mesa Martín,
@@ -114,12 +111,10 @@ dedicado al caso del Teatro Romano de Sagunto
 
 ÁLVAREZ ÁLVAREZ, J. L., Estudios sobre el Patrimonio Cultural de España, Marcial Pons, Madrid, 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
+SÁNCHEZ-MESA   MARTÍNEZ,   L.  J.  “Una  palabra  más  sobre  el  teatro  romano  de  Sagunto:  Los  límites  de  la
+discrecionalidad   técnica   en   la   intervención   sobre  bienes  culturales”,  Revista  de  la  Facultad  de
+Derecho de la Universidad de Granada, n. 10, 2007, pp. 351-413
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]

@@ -2,16 +2,25 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+DÍAZ   MARTÍNEZ,   J.A.   (1995).   Sobre   el  estudio:  Análisis  de  la  estructura  del  tiempo  libre  de  los
+españoles en 1990-91. CIS DUMAZEDIER (1968). Hacia una civilización del ocio. Estela. Barcelona
 
-📚 Recursos sin cambios:
+MARTOS   FERNÁNDEZ,   P.   (1999)   El   Sistema   turístico-deportivo   de   las  Estaciones  de  MIRANDA,  J.,
+OLIVERA,   J.,  MORA,  A.  (1995)  "Análisis  del  ámbito  empresarial  y  de  la  difusión  sociocultural  de  las
+actividades   físicas   de  aventura  en  la  naturaleza".  En  Revista  Apunts.  Educación  Física  y  Deportes.
+Nº41
+
+📚 Recursos sin cambios (30):
 ------------------------------
 BOUCHET,   P.,   LEBRUN,   A.   M.   &   AUVERGNE,   S.   (2004).   Sport   Tourism   Consumer   Experiences:   A
 Comprehensive Model. Journal of Sport Tourism, 9(2), 127-140
 
 COLLINS-KREINER, N. (2010). Annals of Tourism Research
+
+Comunicación   presentada   en  el  VII  Congreso  Español  de  Sociología.  Grupo  de  trabajo  nº  10:  Turismo,
+Ocio y Deporte. Salamanca, 2001
 
 DE   KNOP,   P.   (1992)   "Nuevas   tendencias   en   el  turismo  deportivo".  Actas  del  Congreso  Científico
 Olímpico. Instituto Andaluz del Deporte. Málaga
@@ -54,13 +63,6 @@ Sociales. Alianza Editorial. Madrid
 LATIESA   RODRÍGUEZ,   M.;   MARTOS   FERNÁNDEZ,   P.;  PANIZA  PRADOS,  J.L.  (comps)(2001)  Deporte  y  cambio
 social en el umbral del Siglo XXI. AEISAD. Nº5. Librerías Deportivas Esteban Sanz. Madrid
 
-MARTOS   FERNÁNDEZ,   P.   (1999)   El   Sistema  turístico-deportivo  de  las  Estaciones  de  Esquí  y  Montaña
-españolas. Tesis doctoral. Universidad de Granada
-
-MIRANDA,   J.,   OLIVERA,   J.,   MORA,   A.   (1995)   "Análisis   del   ámbito  empresarial  y  de  la  difusión
-sociocultural de las actividades físicas de aventura en la naturaleza". En Revista Apunts. Educación
-Física y Deportes. Nº41
-
 MOSQUERA   GONZÁLEZ,   M.J.   (1998).   Deporte,   medio   ambiente   y  calidad  de  vida.  La  necesidad  de  la
 educación   ambiental.   En  Martínez  del  Castillo,  J.  (comp.)  Deporte  y  Calidad  de  vida.  Ed.  Librerías
 Deportivas Esteban Sanz, S.L., Madrid
@@ -100,7 +102,7 @@ cambio social en el umbral del Siglo XXI. AEISAD. Nº5. Librerías Deportivas Es
 
 Standeven, J. & De Knop, P. (1999). Sport Tourism. Champain, IL: Human Kinetics
 
-TORRES,   E.   (2001).   "El   perfil   del   turista   deportivo  en  Granada"  en  Latiesa,  M.,  Martos,  P.,  y
+TORRES,   E.   (2001).   "El   perfil   del   turista  deportivo  en  Granada"  en  Latiesa,  M.,  Martos  ,  P.,  y
 Paniza,   J.L:  Deporte  y  Cambio  Social  en  el  Umbral  del  s.  XXI.  Granada:  Librerías  Deportivas  Esteban
 Sanz, S.L
 
@@ -109,18 +111,18 @@ medio ambiente. Madrid: Civitas Ediciones
 
 VILLALVILLA, H. (1994). El Impacto de las actividades deportivas en la naturaleza. Aedenat. Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-DÍAZ   MARTÍNEZ,   J.A.   (1995).   Sobre   el  estudio:  Análisis  de  la  estructura  del  tiempo  libre  de  los
-españoles   en   1990-91.   CIS  DUMAZEDIER  (1968).  Hacia  una  civilización  del  ocio.  Estela.  Barcelona  →
-DÍAZ   MARTÍNEZ,   J.A.   (1995).   Sobre   el  estudio:  Análisis  de  la  estructura  del  tiempo  libre  de  los
-españoles en 1990-91. CIS
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 DUMAZEDIER (1968). Hacia una civilización del ocio. Estela. Barcelona
 
-el   VII   Congreso  Español  de  Sociología.  Grupo  de  trabajo  nº  10:  Turismo,  Ocio  y  Deporte.  Salamanca,
-2001
+DÍAZ   MARTÍNEZ,   J.A.   (1995).   Sobre   el  estudio:  Análisis  de  la  estructura  del  tiempo  libre  de  los
+españoles en 1990-91. CIS
 
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+MARTOS   FERNÁNDEZ,   P.   (1999)   El   Sistema  turístico-deportivo  de  las  Estaciones  de  Esquí  y  Montaña
+españolas. Tesis doctoral. Universidad de Granada
+
+MIRANDA,   J.,   OLIVERA,   J.,   MORA,   A.   (1995)   "Análisis   del   ámbito  empresarial  y  de  la  difusión
+sociocultural de las actividades físicas de aventura en la naturaleza". En Revista Apunts. Educación
+Física y Deportes. Nº41
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

@@ -2,40 +2,36 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
+Animal Cell Culture Techniques. Martin Clynes, 2012. Editorial Springer
+
 Animal Cell Culture a practical approach RI Freshney IRL Press The cultivation of Parasites in vitro
 Taylor   and  Baker.  Blackwell  Methods  of  cultivating  parasites  in  vitro  Angela  Tayor  and  John  R  Baker
 Academic   Press   In   vitro  methods  for  parasite  cultivation.  Taylor  and  Baker  Academic  Press  Methods
 and   Techniques  in  virology  P  Payement  &  Trudel  Dekker  Press  PubMed  NCBI  (cultivos  celulares,  líneas
 celulares, cultivo virus)
 
+Culture   of  Animal  Cells:  A  Manual  of  Basic  Technique  and  Specialized  Applications,  Seventh  Edition.
+R. Ian Freshney, 2015. Editorial Wiley
+
 Técnicas   en   Histología   y   Biología   Celular.  Luis  Montuenga,  Francisco  J  Esteban  y  Alfonso  Calvo,
 2014. Editorial Elsevier Masson. 2ª Edición
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Animal   Cell  Culture  Techniques.  Martin  Clynes,  2012.  Editorial  Springer.  Culture  of  Animal  Cells:  A
-Manual   of   Basic   Technique   and   Specialized  Applications,  Seventh  Edition.  R.  Ian  Freshney,  2015.
-Editorial Wiley  →  Animal Cell Culture Techniques. Martin Clynes, 2012. Editorial Springer
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Animal Cell Culture a practical approach RI Freshney IRL Press
-
-Culture   of  Animal  Cells:  A  Manual  of  Basic  Technique  and  Specialized  Applications,  Seventh  Edition.
-R. Ian Freshney, 2015. Editorial Wiley
 
 In vitro methods for parasite cultivation. Taylor and Baker Academic Press
 
 Methods and Techniques in virology P Payement & Trudel Dekker Press
 
-Methods of cultivating parasites in vitro Angela Tayor and John R Baker Academic Press
+PubMed NCBI (cultivos celulares, líneas celulares, cultivo virus)
 
 The cultivation of Parasites in vitro Taylor and Baker. Blackwell
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

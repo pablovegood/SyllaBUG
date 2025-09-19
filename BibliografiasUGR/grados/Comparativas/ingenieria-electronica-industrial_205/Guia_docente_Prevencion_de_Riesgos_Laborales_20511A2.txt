@@ -2,26 +2,24 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Derecho   del   Trabajo   y   de   la   Seguridad  Social  Vida  Soria  (Dir.):  Manual  Básico  de  Prevención  de
-Riesgos Laborales, Editorial Lex Nova, Valladolid (última edición)
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Psicología   social   Moreno-Jiménez,   B.   y   Garrosa-Hernández,   E.   (2013).   Salud   laboral.  Riesgos
 laborales psicosociales y bienestar laboral. Madrid: Pirámide PÉREZ ALONSO, Mª.A.: Un riesgo para la
 salud   de   los   trabajadores:   campos   electromagnéticos,   electrosensibilidad.  Revista  de  Seguridad
-Social,   9,   2016.   personal   del   alumno  →  Moreno-Jiménez,  B.  y  Garrosa-Hernández,  E.  (2013).  Salud
-laboral. Riesgos laborales psicosociales y bienestar laboral. Madrid: Pirámide
+Social, 9, 2016
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (2):
 ------------------------------
+Derecho   del   Trabajo   y   de   la   Seguridad  Social  Vida  Soria  (Dir.):  Manual  Básico  de  Prevención  de
+Riesgos Laborales, Editorial Lex Nova, Valladolid (última edición)
+
 Guía técnica para la evaluación y prevención del riesgo eléctrico
+
+✅ Recursos añadidos (4):
+------------------------------
+Moreno-Jiménez,   B.  y  Garrosa-Hernández,  E.  (2013).  Salud  laboral.  Riesgos  laborales  psicosociales  y
+bienestar laboral. Madrid: Pirámide
 
 Psicología   social   Moreno-Jiménez,   B.   y   Garrosa-Hernández,   E.   (2013).   Salud   laboral.  Riesgos
 laborales psicosociales y bienestar laboral. Madrid: Pirámide
@@ -32,4 +30,4 @@ electrosensibilidad. Revista de Seguridad Social, 9, 2016
 Vida   Soria  (Dir.):  Manual  Básico  de  Prevención  de  Riesgos  Laborales,  Editorial  Lex  Nova,  Valladolid
 (última edición)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 83% [████████░░]

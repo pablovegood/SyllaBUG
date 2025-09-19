@@ -2,19 +2,23 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+BREALEY,   R.;   MYERS,   S.;  ALLEN,  F.  (2010):  Principios  de  finanzas  corporativas.  McGrawHill,  Madrid
+BRIGHAM,   E.F.;   HOUSTON,   J.F.  (2005):  Fundamentos  de  Administración  Financiera.  Décima  edición  Ed.
+Thomson
 
-📚 Recursos sin cambios:
+DÍAZ, J. R.; SÁNCHEZ, Mª.; TRINIDAD, J. (2006): Supuestos prácticos de Dirección
+
+Financiera. Ed. Pirámide. DURBÁN OLIVA, S. (2008): Dirección Financiera. McGraw-Hill
+
+📚 Recursos sin cambios (48):
 ------------------------------
 AECA (2013): Marco conceptual del turismo. Documento nº 1, serie Turismo. Documento elaborado por E.
 Bustos
 
 ALBERT   PIÑOLE,   I.   (1999):   Gestión   de  productos  y  servicios  de  las  Agencias  de  Viajes.  Ed.  Ramón
 Areces
-
-AMAT SALAS, O. (1992): Contabilidad y Finanzas de Hoteles. EADA Gestión. Ed. Gestión 2000
 
 ANTICH   CORGOS,  J.;  MOYA  CLARAMUNT,  M.  (1995):  Gestión  Financiera.  Edición  para  técnicos  en  empresas
 turísticas. 2ª edición. Gestión Turística. Ed. Síntesis
@@ -36,8 +40,8 @@ práctica. Ed. Thomson
 
 BOTE, V.; SUCH, M.J.; ESCOT, L. (2005): Curso de Financiación del Sector Turístico. McGraw Hill
 
-BRIGHAM,   E.F.;   HOUSTON,   J.F.  (2005):  Fundamentos  de  Administración  Financiera.  Décima  edición  Ed.
-Thomson
+CANTALAPIEDRA   ARENAS,   M.   (2005):   Manual   de   Gestión  Financiera  para  PYMES.  Ed.  Cie-Dossat  2000.
+CONTRERAS-DURBÁN-PALACÍN-RUIZ (1995): Casos prácticos de Finanzas Corporativas. McGraw Hill
 
 CASTEJÓN MONTIJANO, R.; MÉNDEZ PÉREZ, E.; et al (2002): Introducción a la Economía para Turismo. Ed.
 Prentice Hall
@@ -77,6 +81,9 @@ JIMÉNEZ, J.L.; PÉREZ, C.; DE LA TORRE, A. (2003): Gestión financiera de la em
 LASSALA-MEDAL-NAVARRO-SANCHIS-SOLER    (2006):    Dirección   Financiera   II.   Medios   de   financiación
 empresarial. Ed. Pirámide
 
+LÓPEZ LUBIÁN, F.J.; GARÍA ESTÉVEZ, P. (2005): Finanzas en el mundo corporativo. Un enfoque práctico.
+Mc Graw Hill
+
 López   Herrera,   D.;   Orta   Pérez,  M.;  Sierra  Molina,  G.  (2008):  Introducción  a  la  contabilidad  y  al
 análisis financiero: especial referencia a las empresas turísticas. Editorial Pirámide
 
@@ -90,6 +97,8 @@ Ed. Aranzadi. Thomson Reuters. Incluye libro electrónico
 MARTÍN ROJO, I. (2000): Dirección y gestión de empresas del sector turístico. Ed. Pirámide
 
 MARTÍNEZ ABASCAL, E. (2005): Finanzas para directivos. McGraw Hill
+
+MARÍN, J.M.; RUBIO, G. (2011): Economía Financiera. Ed. Antoni Bosch
 
 MINER ARANZÁBAL, J. (2005): Matemática Financiera. McGraw Hill. Colección Schaum de problemas
 
@@ -114,6 +123,9 @@ Prácticas Bancarias (ISTP). Madrid
 RUIZ   MARTÍNEZ,   R.J.;   GIL   CORRAL,   A.M.  (2014):  Complementos  de  Gestión  financiera.  Ed.  Síntesis.
 Madrid
 
+Ramón   Areces   AMAT   SALAS,  O.  (1992):  Contabilidad  y  Finanzas  de  Hoteles.  EADA  Gestión.  Ed.  Gestión
+2000
+
 SESTO PEDREIRA, M. (2006): Manual de teoría de la financiación. Editorial universitaria Ramón Areces
 
 SHIM, J.K.; SIEGEL, J.G. (2004): Dirección Financiera. McGraw Hill. Colección Schaum de problemas
@@ -127,28 +139,17 @@ VEGAS, Avelino A. (2006): Manual de Finanzas para empresas turísticas. Ed. Sín
 
 VÁZQUEZ, Mª José (1993): Curso de Matemática Financiera. Pirámide, Madrid, 1993
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-LÓPEZ   LUBIÁN,   F.J.;   GARÍA   ESTÉVEZ,   P.  (2005):  Finanzas  en  el  mundo  corporativo.  Un  MARÍN,  J.M.;
-RUBIO,   G.   (2011):   Economía  Financiera.  Ed.  Antoni  Bosch  →  MARÍN,  J.M.;  RUBIO,  G.  (2011):  Economía
-Financiera. Ed. Antoni Bosch
+BREALEY, R.; MYERS, S.; ALLEN, F. (2010): Principios de finanzas corporativas. McGraw-Hill, Madrid
 
-CANTALAPIEDRA   ARENAS,   M.   (2005):   Manual  de  Gestión  Financiera  para  PYMES.  Ed.  Cie-  Corporativas.
-McGraw   Hill   →   CANTALAPIEDRA   ARENAS,  M.  (2005):  Manual  de  Gestión  Financiera  para  PYMES.  Ed.  Cie-
-Dossat   2000.  CONTRERAS-DURBÁN-PALACÍN-RUIZ  (1995):  Casos  prácticos  de  Finanzas  Corporativas.  McGraw
-Hill
+BRIGHAM,   E.F.;   HOUSTON,   J.F.  (2005):  Fundamentos  de  Administración  Financiera.  Décima  edición  Ed.
+Thomson
 
-BREALEY,   R.;  MYERS,  S.;  ALLEN,  F.  (2010):  Principios  de  finanzas  corporativas.  McGraw-  Hill,  Madrid
-BRIGHAM,   E.F.;   HOUSTON,   J.F.   (2005):   Fundamentos   de   Administración   Financiera  →  BREALEY,  R.;
-MYERS, S.; ALLEN, F. (2010): Principios de finanzas corporativas. McGraw-Hill, Madrid
+DÍAZ,   J.   R.;   SÁNCHEZ,   Mª.;  TRINIDAD,  J.  (2006):  Supuestos  prácticos  de  Dirección  Financiera.  Ed.
+Pirámide. DURBÁN OLIVA, S. (2008): Dirección Financiera. McGraw-Hill
 
-Financiera.   Ed.   Pirámide.   DURBÁN   OLIVA,   S.  (2008):  Dirección  Financiera.  McGraw-Hill  →  DÍAZ,  J.
-R.;   SÁNCHEZ,   Mª.;   TRINIDAD,  J.  (2006):  Supuestos  prácticos  de  Dirección  Financiera.  Ed.  Pirámide.
-DURBÁN OLIVA, S. (2008): Dirección Financiera. McGraw-Hill
+DÍAZ,   J.   R.;   SÁNCHEZ,   Mª.;  TRINIDAD,  J.  (2006):  Supuestos  prácticos  de  Dirección  Financiera.  Ed.
+Pirámide. DURBÁN OLIVA, S. (2008): Dirección Financiera. McGraw-Hill
 
-✅ Recursos añadidos:
-------------------------------
-LÓPEZ LUBIÁN, F.J.; GARÍA ESTÉVEZ, P. (2005): Finanzas en el mundo corporativo. Un enfoque práctico.
-Mc Graw Hill
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

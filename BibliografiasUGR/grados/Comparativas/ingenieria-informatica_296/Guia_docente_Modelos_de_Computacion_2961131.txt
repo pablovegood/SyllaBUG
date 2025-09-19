@@ -2,16 +2,24 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 Aho, A. V., & Ullman, J. D. (1992). Foundations of computer science. Computer Science Press
 
 Alfonseca   Cubero,   E.,  Alfonseca,  M.,  &  Moriyón  Salomón,  R.  (2007).  Teoría  de  autómatas  y  lenguajes
 formales / Enrique Alfonseca Cubero, Manuel Alfonseca Moreno, Roberto Moriyón Salomón. McGraw-Hill
+
+Beckmann, A., Mitrana, V., & Soskova, M. (2015). Evolving Computability [electronic resource] : 11th
+Conference   on   Computability   in   Europe,   CiE   2015,   Bucharest,   Romania,   June   29-July  3,  2015.
+Proceedings / edited by Arnold Beckmann, Victor Mitrana, Mariya Soskova. (A. Beckmann, V. Mitrana, &
+M.      Soskova,      Eds.;      1st      ed.      2015.).      Springer      International      Publishing.
+https://doi.org/10.1007/978-3-319-20028-6
+
+Book, R.V., Otto, F. (1993). String rewriting systems. Springer-Verlag, Nueva York
 
 Brookshear,   J.   G.,   &   Morales   Peake,   E.   (1993).  Teoría  de  la  computación  :  lenguajes  formales,
 autómatas y complejidad. Addison Wesley Iberoamericana
@@ -34,8 +42,6 @@ Grune, D., & Jacobs, C. J. H. (2008). Parsing Techniques [electronic resource] :
 by     Dick     Grune,     Ceriel     J.H.     Jacobs.     (2nd     ed.     2008.).    Springer    New    York.
 https://doi.org/10.1007/978-0-387-68954-8
 
-Harrison, M. A. (1978). Introduction to formal language theory. Addison Wesley
-
 Hopcroft,   J.   E.,   Motwani,   R.,   &   Ullman,   J.   D.  (2010).  Introducción  a  la  teoría  de  autómatas,
 lenguajes y computación / John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman (3a ed.). Pearson
 
@@ -51,33 +57,20 @@ databases theory. World Scientific
 
 Revesz, G. E. (1991). Introduction to formal languages / György E. Révész. Dover
 
-Weber, R. (2012). Computability Theory. American Mathematical Soc
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Beckmann, A., Mitrana, V., & Soskova, M. (2015). Evolving Computability [electronic resource] : 11th
-Conference   on   Computability   in   Europe,   CiE   2015,   Bucharest,   Romania,   June   29-July  3,  2015.
-Proceedings / edited by Arnold Beckmann, Victor Mitrana, Mariya Soskova. (A. Beckmann, V. Mitrana, &
-M.   Soskova,   Eds.;   1st  ed.  2015.).  Springer  Book,  R.V.,  Otto,  F.  (1993).  String  rewriting  systems.
-Springer-Verlag,    Nueva   York   →   Beckmann,   A.,   Mitrana,   V.,   &   Soskova,   M.   (2015).   Evolving
-Computability   [electronic   resource]   :   11th   Conference   on   Computability   in   Europe,  CiE  2015,
-Bucharest,   Romania,   June  29-July  3,  2015.  Proceedings  /  edited  by  Arnold  Beckmann,  Victor  Mitrana,
-Mariya Soskova. (A. Beckmann, V. Mitrana, & M. Soskova, Eds.; 1st ed. 2015.). Springer International
-Publishing. https://doi.org/10.1007/978-3-319-20028-6
-
-Sommaruga,   G.,   &   Strahm,  T.  (2015).  Turing’s  Revolution  [electronic  resource]  :  The  Impact  of  His
-Ideas   about  Computability  /  edited  by  Giovanni  Sommaruga,  Thomas  Strahm.  (G.  Sommaruga  &  T.  Strahm,
-Eds.;   1st   ed.   2015.).   Springer   International  Sudkamp,  T.  A.  (2007).  Languages  and  machines  :  an
-introduction   to   the  theory  of  computer  science  /  Thomas  A.  Sudkamp  (3rd.  ed.).  Pearson  Education  →
 Sommaruga,   G.,   &   Strahm,  T.  (2015).  Turing’s  Revolution  [electronic  resource]  :  The  Impact  of  His
 Ideas   about  Computability  /  edited  by  Giovanni  Sommaruga,  Thomas  Strahm.  (G.  Sommaruga  &  T.  Strahm,
 Eds.; 1st ed. 2015.). Springer International Publishing. https://doi.org/10.1007/978-3-319-22156-4
 
-✅ Recursos añadidos:
-------------------------------
-Book, R.V., Otto, F. (1993). String rewriting systems. Springer-Verlag, Nueva York
-
 Sudkamp,   T.  A.  (2007).  Languages  and  machines  :  an  introduction  to  the  theory  of  computer  science  /
 Thomas A. Sudkamp (3rd. ed.). Pearson Education
 
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+Weber, R. (2012). Computability Theory. American Mathematical Soc
+
+https://doi.org/10.1007/978-0-387-68954-8   Harrison,   M.   A.  (1978).  Introduction  to  formal  language
+theory. Addison Wesley
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,12 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Matarán   Ruiz,  A.  y  López  Castellano,  F.  (eds.):  “La  Tierra  no  es  muda.  Diálogos  entre  el  Naredo,  J.
+M. y Gutiérrez, L. (eds.) (2005): "La incidencia de la especie humana sobre la Granada
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (33):
 ------------------------------
 Braungart,   M.;   McDonough,   W.   (2005):   “Rediseñando   la  forma  en  que  hacemos  las  cosas:  Cradle  to
 cradle (de la cuna a la cuna)”, McGraw-Hill, Madrid
@@ -45,20 +46,16 @@ México D. F
 Linz,   M.;   Riechmann,   J.;   Sempere,   J.  (2007):  “Vivir  (bien)  con  menos:  sobre  la  suficiencia  y  la
 sostenibilidad”, Icaria Editorial, Barcelona
 
-Matarán   Ruiz,   A.   y   López  Castellano,  F.  (eds.).  (2011).  “La  Tierra  no  es  muda.  Diálogos  entre  el
-desarrollo sostenible y el postdesarrollo”, Ed. Universidad de Granada, Granada
-
 Morin, E. (2006a): "El método. La naturaleza de la naturaleza", Cátedra, Madrid
 
 Morin, E. (2006b): "El método (II)."La vida de la vida", Cátedra, Madrid
 
 Morin, E. (2006c): "El método (III). "El conocimiento del Conocimiento", Cátedra, Madrid
 
+Morin, E. (2006d): "El método (VI). "Ética", Cátedra, Madrid
+
 Naredo,   J.  M.  (2006):  “Raíces  económicas  del  deterioro  ecológico  y  social.  Más  allá  de  los  dogmas”,
 Siglo XXI, Madrid
-
-Naredo,   J.  M.  y  Gutiérrez,  L.  (eds.)  (2005):  "La  incidencia  de  la  especie  humana  sobre  la  faz  de  la
-Tierra (1955-2005), Fundación César Manrique, Universidad de Granada, Granada
 
 Novo, M. (2006): "El desarrollo sostenible. Su dimensión ambiental y educativa", Pearson, Madrid
 
@@ -71,6 +68,9 @@ and Assessment, PNUMA, Nairobi, Kenya
 PNUMA   (2007):   "Perspectivas  del  Medio  Ambiente  Mundial.  Geo-4.  Medio  ambiente  para  el  desarrollo",
 Ediciones Mundi-Prensa, Madrid
 
+Riechmann,   J.   (2005):   “Un   mundo   vulnerable:   ensayos  sobre  ecología,  ética  y  tecnociencia”,  Los
+Libros de la Catarata, Madrid
+
 Riechmann,   J.   (2006):   “Biomímesis.   Ensayos   sobre   imitación   de   la  naturaleza,  ecosocialismo  y
 autocontención”, Los Libros de la Catarata, Madrid
 
@@ -82,8 +82,8 @@ Icaria Editorial, Barcelona
 Sempere,   J.   (2009):   "Mejor   con   menos.   Necesidades,   explosión   consumista  y  crisis  ecológica".
 Barcelona
 
-Serrano   Bernardo,   F.   y   Bruzzi,   L.   (eds.)  (2012):  “Gestión  sostenible  del  ambiente:  principios,
-contexto y métodos”, Universidad de Granada, Granada
+Serrano   Bernardo,   F.   y   Bruzzi,   L.   (eds.)   (2012):  “Gestión  sostenible  del  ambiente:  Worldwatch
+Institute (2009.2010,2011,2012,2013,2014): "La situación del mundo ", Icaria editorial, Barcelona
 
 Terradas, J. (2001): “Ecología urbana”, Rubes, Barcelona
 
@@ -99,14 +99,7 @@ naturales: Informe al Club de Roma", Galaxia Gutenberg, Barcelona
 Welzer,   H.   (2010):   “Guerras  climáticas.  Por  qué  mataremos  (y  nos  matarán)  en  el  siglo  XXI”,  Katz,
 Madrid
 
-Worldwatch   Institute   (2009.2010,2011,2012,2013,2014):  "La  situación  del  mundo  ",  Icaria  editorial,
-Barcelona
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Arias   Domínguez,   A.   (2018).   La   economía   política   del  desastre:  efectos  de  la  crisis  ecológica
 global. Los libros de la Catarata. https://granatensis.ugr.es/discovery/fulldisplay?docid=alma991007
@@ -130,14 +123,18 @@ los estudios ambientales. Siglo del Hombre Editores, Universidad de los Andes, B
 tensis.ugr.es/discovery/fulldisplay?docid=alma991014498223004990&context=L&vid=34CBUA_UGR:VU1&lang=e
 s&search_scope=MyInstitution&adaptor=Local%20Search%20Engine
 
-Morin, E. (2006d): "El método (VI). "Ética", Cátedra, Madrid
+Matarán   Ruiz,   A.   y   López  Castellano,  F.  (eds.).  (2011).  “La  Tierra  no  es  muda.  Diálogos  entre  el
+desarrollo sostenible y el postdesarrollo”, Ed. Universidad de Granada, Granada
+
+Naredo,   J.  M.  y  Gutiérrez,  L.  (eds.)  (2005):  "La  incidencia  de  la  especie  humana  sobre  la  faz  de  la
+Tierra (1955-2005), Fundación César Manrique, Universidad de Granada, Granada
 
 Richter-Boix,   A.   (2022).  El  primate  que  cambió  el  miundo:  nuestra  relación  con  la  naturaleza  desde
 las cavernas hasta hoy. GoePlaneta, Barcelona. https://granatensis.ugr.es/discovery/fulldisplay?doci
 d=alma991014479149504990&context=L&vid=34CBUA_UGR:VU1&lang=es&search_scope=MyInstitution&adaptor=Loc
 al%20Search%20Engine&tab=Granada&query=any,contains,crisis%20ecol%C3%B3gica&sortby=date_d&offset=50
 
-Riechmann,   J.   (2005):   “Un   mundo   vulnerable:   ensayos  sobre  ecología,  ética  y  tecnociencia”,  Los
-Libros de la Catarata, Madrid
+Serrano   Bernardo,   F.   y   Bruzzi,   L.   (eds.)  (2012):  “Gestión  sostenible  del  ambiente:  principios,
+contexto y métodos”, Universidad de Granada, Granada
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

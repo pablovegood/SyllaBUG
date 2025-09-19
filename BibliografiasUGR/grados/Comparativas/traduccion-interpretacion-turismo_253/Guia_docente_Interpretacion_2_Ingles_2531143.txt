@@ -2,16 +2,21 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Jiménez Ivars, A. (2000). La traducción a la vista. Un análisis descriptivo. Tesis doctoral
 
-📚 Recursos sin cambios:
+Lambert, S. (2004). “Shared Attention during Sight Translation, Sight Interpretation and
+
+Simultaneous Interpretation.” Meta 49: 2, 294-306
+
+📚 Recursos sin cambios (15):
 ------------------------------
 Agrifoglio,   M.   (2004).   “Sight  translation  and  interpreting:  A  comparative  analysis  of  constraints
 and failures” Interpreting 6,1, 43-67
 
-Alexieva, B. (1997). “A typology of Interpreter-Mediated Events.” The Translator 3, 2, 153-174
+BIBLIOGRAFÍA   FUNDAMENTAL  Y  COMPLEMENTARIA:  Alexieva,  B.  (1997).  “A  typology  of  Interpreter-Mediated
+Events.” The Translator 3, 2, 153-174
 
 Collados   Aís,   A.   &   Fernández   Sánchez,   M.  M.  (eds.)  (2001).  Manual  de  interpretación  bilateral.
 Granada: Comares
@@ -35,10 +40,6 @@ Universidad Jaume I, Castellón de la Plana
 Jiménez   Ivars,   A.   (2003).   La   traducción   a   vista.   Un   análisis   descriptivo.   Tesis  doctoral.
 Universidad Jaume I. http://www.tdx.cesca.es/TDX-0519103-121513/
 
-Jiménez   Ivars,   A.   (2008).   “Sight   Translation  and  Written  Translation.  A  Comparative  Analysis  of
-Causes   of   Problems,   Strategies   and   Translation   Errors   within  the  PACTE  Translation  Competence
-Model.” Forum 6, 2, 79-104
-
 Lambert,    S.    (2004).   “Shared   Attention   during   Sight   Translation,   Sight   Interpretation   and
 Simultaneous Interpretation.” Meta 49: 2, 294-306
 
@@ -49,16 +50,14 @@ Institute of Translation and Interpretation, 398-405
 Rozan,   J.   F.   (1956).   La   prise   de   notes  en  interprétation  consécutive.  Ginebra:  Universidad  de
 Ginebra
 
+Universidad   Jaume   I.   http://www.tdx.cesca.es/TDX-0519103-121513/  Jiménez  Ivars,  A.  (2008).  “Sight
+Translation   and   Written   Translation.  A  Comparative  Analysis  of  Causes  of  Problems,  Strategies  and
+Translation Errors within the PACTE Translation Competence Model.” Forum 6, 2, 79-104
+
 Viaggio,   S.  (1995).  “The  praise  of  Sight  Translation  (And  Squeezing  the  Last  Drop  There  it  of.”  The
 Interpreters’ Newsletter 6, 33-42
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Jiménez   Ivars,   A.   (2000).   La   traducción   a   la  vista.  Un  análisis  descriptivo.  Tesis  doctoral  →
-Jiménez   Ivars,   A.   (2003).   La   traducción   a   vista.   Un   análisis   descriptivo.   Tesis  doctoral.
-Universidad Jaume I. http://www.tdx.cesca.es/TDX-0519103-121513/
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 Albl-Mikasa,   M.   y  Tiselius,  E.  (Eds.).  (2021).  The  Routledge  handbook  of  conference  interpreting  .
 Londres: Routledge
@@ -67,6 +66,9 @@ BIBLIOGRAFÍA FUNDAMENTAL Y COMPLEMENTARIA
 
 Havnen,   R.   (2019).   Multimodal  and  Interactional  Aspects  of  Sight  Translation  –  A  Critical  Review.
 FITISPos-International Journal 6(1):91-106
+
+Jiménez   Ivars,   A.   (2003).   La   traducción   a   vista.   Un   análisis   descriptivo.   Tesis  doctoral.
+Universidad Jaume I. http://www.tdx.cesca.es/TDX-0519103-121513/
 
 Jiménez   Ivars,   A.   (2009).   “Sight   Translation  and  Written  Translation.  A  Comparative  Analysis  of
 Causes   of   Problems,   Strategies   and   Translation   Errors   within  the  PACTE  Translation  Competence
@@ -84,4 +86,4 @@ Routledge
 Setton, R., & Motta, M. (2007). Syntacrobatics: Quality and reformulation in simultaneous with text.
 Interpreting, 9, 199-230
 
-📊 Porcentaje estimado de cambio: 56% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 52% [█████░░░░░]

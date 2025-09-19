@@ -2,11 +2,11 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Aguado Alonso, J., & Rodríguez Somolinos, F. (1999). Ingeniería de la industria alimentaria. Volumen
 1. Conceptos básicos (J. Aguado Alonso, Ed.; Vol. 1). Síntesis
@@ -23,7 +23,12 @@ Acribia
 
 Cheftel, J.-C. (1999). Introducción a la Bioquímica y Tecnología de los Alimentos. Acribia
 
+Fito   Maupoey,   P.,   Andrés   Grau,   A.,  &  Martínez  Navarrete,  N.  (1998).  Termodinámica  y  cinética  de
+sistemas alimento entorno (1st ed.)
+
 Levine, I. N. (2004). Fisicoquímica (5th ed.). Mc Graw Hill
+
+Lewis, M. J. (1993). Propiedades físicas de los alimentos y de los sistemas de procesado. Acribia
 
 Ordónez,   J.  A.  (2014).  Tecnología  de  los  alimentos.  Vol.  I:  Componentes  de  los  alimentos  y  procesos
 (J. A. Ordónez, Ed.; Vol. 1). Sintesis
@@ -36,15 +41,8 @@ CRC Press
 Walstra,   P.   (2002).   Physical   Chemistry   of   Foods   (O.  R.  Fennema,  M.  Karel,  G.  W.  Sanderson,  P.
 Walstra, & J. R. Whitaker, Eds.; 1st ed.). CRC Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Fito   Maupoey,   P.,   Andrés   Grau,  A.,  &  Martínez  Navarrete,  N.  (1998).  Termodinámica  y  Lewis,  M.  J.
-(1993).   Propiedades   físicas  de  los  alimentos  y  de  los  sistemas  de  procesado  →  Lewis,  M.  J.  (1993).
-Propiedades físicas de los alimentos y de los sistemas de procesado. Acribia
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Fito   Maupoey,   P.,   Andrés   Grau,   A.,  &  Martínez  Navarrete,  N.  (1998).  Termodinámica  y  cinética  de
-sistemas alimento entorno (1st ed.)
-
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,23 +2,17 @@
 Grado: educacion-social-ceuta (414)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Barraca,   J.   (2014).   Técnicas   de   modificación   de  conducta:  una  guía  para  su  puesta  en  práctica.
-Madrid: Editorial Síntesis
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (24):
 ------------------------------
 Bados,   A.   y  García,  E.  (2010).  La  técnica  de  la  reestructuración  cognitiva.  Barcelona:  Universidad
 de Barcelona
+
+Barraca,   J.   (2014).   Técnicas   de   modificación   de  conducta:  una  guía  para  su  puesta  en  práctica.
+Madrid: Editorial Síntesis
 
 Beck, J. S. (2009). Terapia cognitiva: Conceptos básicos y profundización. Madrid: Gedisa
 
@@ -77,4 +71,8 @@ Vila, J. y Guerra, P.M. (2009). Introducción a la psicofisiología clínica (2a
 
 Wolpe, J. (1977). Práctica de la terapia de la conducta. México: Trillas
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

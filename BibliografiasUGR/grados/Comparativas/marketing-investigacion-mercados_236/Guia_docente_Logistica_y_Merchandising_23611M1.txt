@@ -2,11 +2,11 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Bort,   M.   A.   (2004).   Merchandising.   Cómo  Mejorar  la  Imagen  de  un  Establecimiento  Comercial.  ESIC
 Editorial, Madrid
@@ -19,6 +19,12 @@ Díez de Castro, E.; Navarro, A. (2003). “Disposición del Punto de Venta”. 
 
 Gutiérrez,   G.;   Prida,   B.   (1998).   Logística   y  Distribución  Física.  Evolución,  Situación  Actual,
 Análisis Comparativo y Tendencias. McGraw Hill, Madrid
+
+Gómez,    M.;    García,    C.    (2012).   “Marketing   Sensorial.   Cómo   Desarrollar   la   Atmósfera   del
+Establecimiento Comercial”. Distribución y Consumo, 22 (122; mar.-abr.), pp. 30-40
+
+IDEAL    (2007).    “Compradores    Vendidos”.    Noticia   preparada   por   Fco.   Muñoz.   Disponible   en:
+http://webcim.ugr.es/L&M/Noticias/Merchandising_Ideal_Nov07.pdf
 
 IDEAL (2008). “Compras en Blanco. El Éxito de las Marcas Blancas en la Crisis”. 08.12.08. Entrevista
 a:      Fco.      Muñoz.      Disponible      online     en:     http://www.ideal.es/granada/20081208/mas-
@@ -50,17 +56,8 @@ Soret, I. (1996). Logística y Marketing para la Distribución Comercial. ESIC E
 Zorrilla,   P.   (2002).   “Nuevas   Tendencias   en   Merchandising.   Generar   Experiencias   para  Generar
 Emociones y Fidelizar Clientes”. Distribución y Consumo, 65 (sep.-oct.), pp. 13-20
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-IDEAL   (2007).   “Compradores   Vendidos”.   Noticia   preparada   por   Fco.  Muñoz.  Disponible  Gómez,  M.;
-García,   C.   (2012).   “Marketing   Sensorial.   Cómo   Desarrollar   la   Atmósfera   del   Establecimiento
-Comercial”.   Distribución   y   Consumo,   22   (122;  mar.-abr.),  pp.  30-40  →  IDEAL  (2007).  “Compradores
-Vendidos”.        Noticia        preparada        por        Fco.        Muñoz.        Disponible       en:
-http://webcim.ugr.es/L&M/Noticias/Merchandising_Ideal_Nov07.pdf
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Gómez,    M.;    García,    C.    (2012).   “Marketing   Sensorial.   Cómo   Desarrollar   la   Atmósfera   del
-Establecimiento Comercial”. Distribución y Consumo, 22 (122; mar.-abr.), pp. 30-40
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

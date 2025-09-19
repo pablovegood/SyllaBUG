@@ -2,11 +2,16 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+A.A.V.V.   Espacios   públicos,  sueños  privados.  Edic.  comunidad  de  Madrid.  Madrid.1994  ALBRECHT,  Hans
+Joachim:   La   escultura   en   el   siglo   XX.   Conciencia   del  espacio  configuración  artística,  Blume,
+Barcelona, 1981
 
-📚 Recursos sin cambios:
+GORMLEY,   A.   y   GAYFOR,   M.:  Shaping  the  World:  Sculpture  from  Prehistory  to  Now,  Thames  and  Hudson
+Ltd, 2020 JACKSON, Albert / DAY David: Manual de modelismo, Hermann Blume. Madrid,1990, (4º edición)
+
+📚 Recursos sin cambios (19):
 ------------------------------
 AA.VV.: Sculpture: From Antiquity to the Present Day, Taschen, 2002
 
@@ -51,25 +56,18 @@ Ed. Servicio de publicaciones Universidad Jaume I. Castellón de la Plana, 2005
 
 SERRA, R. y FOSTER, H.: Conversations about Sculpture, Yale University Press, 2018
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-A.A.V.V.   Espacios   públicos,  sueños  privados.  Edic.  comunidad  de  Madrid.  Madrid.1994  ALBRECHT,  Hans
-Joachim:   La   escultura   en   el   siglo   XX.   Conciencia   del  espacio  configuración  artística,  Blume,
-Barcelona,   1981   →   A.A.V.V.   Espacios   públicos,   sueños   privados.   Edic.   comunidad   de   Madrid.
-Madrid.1994
+SOBRINO MANZANARES, María Luisa: Escultura contemporánea en el espacio, 1999
 
-GORMLEY,   A.   y   GAYFOR,   M.:  Shaping  the  World:  Sculpture  from  Prehistory  to  Now,  Thames  and  Hudson
-Ltd, 2020 JACKSON, Albert / DAY David: Manual de modelismo, Hermann Blume. Madrid,1990, (4º edición)
-→   GORMLEY,   A.  y  GAYFOR,  M.:  Shaping  the  World:  Sculpture  from  Prehistory  to  Now,  Thames  and  Hudson
-Ltd, 2020
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
+A.A.V.V. Espacios públicos, sueños privados. Edic. comunidad de Madrid. Madrid.1994
+
 ALBRECHT, Hans Joachim: La escultura en el siglo XX. Conciencia del espacio configuración artística,
 Blume, Barcelona, 1981
 
+GORMLEY,   A.   y   GAYFOR,   M.:  Shaping  the  World:  Sculpture  from  Prehistory  to  Now,  Thames  and  Hudson
+Ltd, 2020
+
 JACKSON, Albert / DAY David: Manual de modelismo, Hermann Blume. Madrid,1990, (4º edición)
 
-SOBRINO MANZANARES, María Luisa: Escultura contemporánea en el espacio, 1999
-
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

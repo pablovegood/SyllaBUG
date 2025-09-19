@@ -2,11 +2,11 @@
 Grado: ingenieria-informatica-ceuta (496)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-McGraw-Hill. Madrid
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Anderson, C. (2013): La nueva revolución industrial (Nuevos paradigmas). Empresa Activa
 
@@ -20,17 +20,20 @@ Esic
 
 González, F.J. (2012): Creación de empresas. Editorial pirámide
 
+Gómez   Gras  ,  J.M.  et  al.  (2012):  Manual  de  casos  sobre  creación  de  empresas  en  España.  McGraw-Hill.
+Madrid
+
 Gómez   Gras,  J.M.  et  al.  (2002):  Manual  para  la  creación  de  empresas  por  universitarios.  Universidad
 Miguel Hernández de Elche
-
-Gómez   Gras,   J.M.  et  al.  (2012):  Manual  de  casos  sobre  creación  de  empresas  en  España.  McGraw-Hill.
-Madrid
 
 Hisrich,   R.D.;   Peters,   M.P.   y   Shepherd,   D.A.   (2020):   Entrepreneurship  (emprendedores).  Curso
 Creación de Empresas. McGraw-Hill Educación
 
 Jiménez   Quintero,   J.A.   (Coord.)   (2012):  Creación  de  empresas.  Tipología  de  empresas  y  viabilidad
 estratégica. Ed. Pirámide. Madrid
+
+Muñiz,   L.   (2010):   Planes   de   negocio   y   estudios   de   viabilidad:  software  en  casos  prácticos  y
+herramientas para elaborar DAFO y evaluar un plan de viabilidad. Profit Editorial. Barcelona
 
 Priede Bergamini, T. et al. (2010): Creación y desarrollo de empresas. Ed. Pirámide. Madrid
 
@@ -39,13 +42,8 @@ elaboración y negociación. Profit Editorial
 
 Todolí Cervera, F. (2013): Creación de empresas paso a paso. CISS. Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Muñiz,   L.   (2010):   Planes   de   negocio   y   estudios   de   viabilidad:  software  en  casos  prácticos  y
-herramientas para elaborar DAFO y evaluar un plan de viabilidad. Profit Editorial. Barcelona
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

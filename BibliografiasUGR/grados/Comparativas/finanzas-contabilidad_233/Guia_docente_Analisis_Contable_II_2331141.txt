@@ -2,11 +2,11 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 ALEXANDER,   D;   BRITTON,  A.  Y  JORISSEN,  A.  (2007):  International  financial  reporting  and  analysis.  3
 edición. Thomson:London
@@ -20,8 +20,13 @@ Irwin, México
 ESTEO   SÁNCHEZ,   F.  (2003):  Análisis  de  estados  financieros.  Planificación  y  control.  (Comentarios  y
 Casos Prácticos). (4ª edición). Ed. Centro de Estudios Financieros, Madrid
 
+Ejercicios prácticos y otra documentación disponible en la plataforma PRADO
+
 GONZÁLEZ PASCUAL, J. (2010): Análisis de la empresa a través de su información económico-financiera.
 Aplicaciones prácticas. (2ª edición). Ed. Pirámide, Madrid
+
+GONZÁLEZ PASCUAL, J. (2010): Análisis de la empresa a través de su información económico-financiera.
+Fundamentos teóricos y aplicaciones. (2ª edición). Ed. Pirámide, Madrid
 
 MARTÍNEZ GARCÍA, F.J. Y SOMOHANO RODRÍGUEZ, F.M (2004): Análisis de Estados Contables. Comentarios y
 ejercicios. Ed. Pirámide, Madrid
@@ -47,15 +52,8 @@ del equilibrio de la empresa. Editorial Técnica Avicam: Granada
 WILD,   J.J.,   SUBRAMANYAM,   K.R.   HALSEY,   R.F.   (2007):   Financial   statement  analysis,  McGraw-Hill
 International, Singapore
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Ejercicios prácticos y otra documentación disponible en la plataforma PRADO
-
-GONZÁLEZ PASCUAL, J. (2010): Análisis de la empresa a través de su información económico-financiera.
-Fundamentos teóricos y aplicaciones. (2ª edición). Ed. Pirámide, Madrid
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

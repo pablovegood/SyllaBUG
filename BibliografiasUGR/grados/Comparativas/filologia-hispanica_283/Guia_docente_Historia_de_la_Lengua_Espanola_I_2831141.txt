@@ -2,11 +2,11 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 Azofra,   Mª.   Elena  (2009).  Morfosintaxis  histórica  del  español.  De  la  teoría  a  la  práctica.  Madrid:
 UNED
@@ -47,6 +47,9 @@ Enciclopedia de lingüística hispánica, vol. 2, London, Routledge, 547-563
 Pharies,   David   A.  (2014).  Breve  historia  de  la  lengua  española,  Chicago,  The  University  of  Chicago
 Press
 
+Pons   Rodríguez,   Lola   (2010).   La  lengua  de  ayer.  Manual  práctico  de  historia  del  español,  Madrid,
+Arco / Libros
+
 Pountain, Christopher J. (2001), A History of the Spanish Language through texts, London & New York,
 Routledge
 
@@ -59,13 +62,8 @@ Introduction, Cambridge, CUP
 
 Torrens Álvarez, Mª. Jesús (2018). Evolución e historia de la lengua española, Madrid, Arco/Libros
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Pons   Rodríguez,   Lola   (2010).   La  lengua  de  ayer.  Manual  práctico  de  historia  del  español,  Madrid,
-Arco / Libros
-
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

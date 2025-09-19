@@ -2,54 +2,53 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
+Barañain   (Navarra):   EUNSA   (2010)   FUNDAMENTOS   DE   NUTRICIÓN   Y   DIETÉTICA.  BASES  METODOLÓGICAS  Y
+APLICACIONES. Martínez y Portillo Editorial Panamericana (2010) Nutrición y Bromatología NUTRICIÓN Y
+ALIMENTACIÓN   HUMANA   (Tomos   I  y  II).  J.  Mataix  (EDITOR).  Ergon,  Madrid  (2009)  TRATADO  DE  NUTRICIÓN
+(Tomos I-V). A. Gil (EDITOR). Editorial Panamericana, Madrid (2017) QUÍMICA DE LOS ALIMENTOS. Belitz
+HD, Grosch W., Schieberle, P. 3º ed. Ed. Acribia
 
-📚 Recursos sin cambios:
+Dawn   E.Anderson   y   Eric   S.   Rawson.   Pidotribio,   España,   (2015)  NUTRICIÓN  EN  EL  DEPORTE:  AYUDAS
+ERGOGÉNICAS   Y   DOPAJE.   Javier   González  Gallego,  Pilar  Sánchez  Collado,  José  Mataix  Verdu,  Díaz  de
+Santos: Fundación Universitaria Iberoamericana, (2006)
+
+Editorial   Panamericana   (2021)   Nutrición  NUTRICIÓN  Y  DIETOTERAPIA  DE  KRAUSE  .  Mahan,  L.K.,  Escott-
+Stump, S. Raymond. J.L., 13ª Ed. Editorial Elsevier. Barcelona (2012) NUTRICIÓN: Texto y Atlas. Hans
+Biesalski   y   Peter   Grimm,   Editorial   Médica   Panamericana,   Madrid   (2009)  INGESTAS  DIETÉTICAS  DE
+REFERENCIA (IDR) PARA LA POBLACIÓN ESPAÑOLA
+
+Human   Kinetics,   USA,  (2011)  GUÍA  PRÁCTICA  DE  NUTRICIÓN  DEPORTIVA.  Asker  Jeukendrup.  Tutor,  Madrid,
+(2011)   NUTRICION  DEPORTIVA.  Asier  Jeukendrup  and  Michael  Gleeson.  Editorial  Tutor,  (2019)  NUTRICION
+DEPORTIVA. Desde la fisiología a la práctica. Ed. Marcela González-Gross
+
+IL, (2004) NUTRICIÓN PARA LA SALUD, LA CONDICIÓN FÍSICA Y EL DEPORTE. Melvin H. Williams
+
+SPORTS   NUTRITION   (fats   and   proteins).  Judy  A.  Driskell,  CRC  Press,  Boca  Raton,  (2007)  SPORTS  AND
+EXERCICE   NUTRITION.   W.   D.   McArdle,   F.I.   Katch  and  V.L.  Katch.  Tercera  Edición.  Wolters  Kluwer,
+Philadelphia   (2009)   NUTRICIÓN   EN   EL  DEPORTE:  Un  enfoque  práctico.  Louise  Burke.  Editorial  Médica
+Panamericana,   Madrid  (2010)  NSCA´s  GUIDE  TO  SPORT  AND  EXERCICE  NUTRITION.  Bill  I.  Campbel  and  Marie
+A. Spano
+
+📚 Recursos sin cambios (4):
 ------------------------------
 ESSENTIALS   OF   SPORTS   NUTRITION   AND   SUPPLEMENTS.   Edited  by  José  Antonio...  [et  al.]  Totowa,  NJ:
 Humana Press, (2008)
+
+INGESTAS   DIETÉTICAS   DE   REFERENCIA   (IDR)   PARA   LA   POBLACIÓN   ESPAÑOLA.   Federación   Española  de
+Sociedades de Nutrición, Alimentación y Dietética (FESNAD). Barañain (Navarra): EUNSA (2010)
 
 SPORT NUTRITION. Asier Jeukendrup and Michael Gleeson. Human Kinetics. Champaign, IL, (2004)
 
 Zaragoza (2012) Bases de datos SPORT DISCUS
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-SPORTS   NUTRITION   (fats   and   proteins).  Judy  A.  Driskell,  CRC  Press,  Boca  Raton,  (2007)  SPORTS  AND
-EXERCICE   NUTRITION.   W.   D.   McArdle,   F.I.   Katch  and  V.L.  Katch.  Tercera  Edición.  Wolters  Kluwer,
-Philadelphia   (2009)   Panamericana,  Madrid  (2010)  NSCA´s  GUIDE  TO  SPORT  AND  EXERCICE  NUTRITION.  Bill
-I.   Campbel   and   Marie  A.  Spano  →  SPORTS  AND  EXERCICE  NUTRITION.  W.  D.  McArdle,  F.I.  Katch  and  V.L.
-Katch. Tercera Edición. Wolters Kluwer, Philadelphia (2009)
-
-Editorial   Panamericana   (2021)   Nutrición  NUTRICIÓN  Y  DIETOTERAPIA  DE  KRAUSE  .  Mahan,  L.K.,  Escott-
-Stump, S. Raymond. J.L., 13ª Ed. Editorial Elsevier. Barcelona (2012) NUTRICIÓN: Texto y Atlas. Hans
-Biesalski   y   Peter   Grimm,   Editorial   Médica  Panamericana,  Madrid  (2009)  Barañain  (Navarra):  EUNSA
-(2010)   APLICACIONES.   Martínez   y   Portillo   Editorial  Panamericana  (2010)  Nutrición  y  Bromatología
-NUTRICIÓN   Y  ALIMENTACIÓN  HUMANA  (Tomos  I  y  II).  J.  Mataix  (EDITOR).  Ergon,  Madrid  (2009)  TRATADO  DE
-NUTRICIÓN   (Tomos   I-V).   A.   Gil   (EDITOR).   Editorial   Panamericana,   Madrid  (2017)  QUÍMICA  DE  LOS
-ALIMENTOS.   Belitz   HD,   Grosch   W.,   Schieberle,   P.   3º  ed.  Ed.  Acribia  →  NUTRICIÓN  Y  ALIMENTACIÓN
-HUMANA (Tomos I y II). J. Mataix (EDITOR). Ergon, Madrid (2009)
-
-Dawn   E.Anderson   y   Eric   S.   Rawson.   Pidotribio,   España,   (2015)  NUTRICIÓN  EN  EL  DEPORTE:  AYUDAS
-ERGOGÉNICAS   Y   DOPAJE.   Javier   González  Gallego,  Pilar  Sánchez  Collado,  José  Mataix  Verdu,  Díaz  de
-Santos:    Fundación    Universitaria   Iberoamericana,   (2006)   →   NUTRICIÓN   EN   EL   DEPORTE:   AYUDAS
-ERGOGÉNICAS   Y   DOPAJE.   Javier   González  Gallego,  Pilar  Sánchez  Collado,  José  Mataix  Verdu,  Díaz  de
-Santos: Fundación Universitaria Iberoamericana, (2006)
-
-Human   Kinetics,   USA,  (2011)  GUÍA  PRÁCTICA  DE  NUTRICIÓN  DEPORTIVA.  Asker  Jeukendrup.  Tutor,  Madrid,
-(2011)   NUTRICION  DEPORTIVA.  Asier  Jeukendrup  and  Michael  Gleeson.  Editorial  Tutor,  (2019)  NUTRICION
-DEPORTIVA.   Desde   la   fisiología   a   la   práctica.   Ed.   Marcela   González-Gross  →  GUÍA  PRÁCTICA  DE
-NUTRICIÓN DEPORTIVA. Asker Jeukendrup. Tutor, Madrid, (2011)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (17):
 ------------------------------
 FUNDAMENTOS   DE   NUTRICIÓN   Y   DIETÉTICA.   BASES   METODOLÓGICAS   Y  APLICACIONES.  Martínez  y  Portillo
 Editorial Panamericana (2010)
 
-INGESTAS   DIETÉTICAS   DE   REFERENCIA   (IDR)   PARA   LA   POBLACIÓN   ESPAÑOLA.   Federación   Española  de
-Sociedades de Nutrición, Alimentación y Dietética (FESNAD). Barañain (Navarra): EUNSA (2010)
+GUÍA PRÁCTICA DE NUTRICIÓN DEPORTIVA. Asker Jeukendrup. Tutor, Madrid, (2011)
 
 NSCA´s   GUIDE   TO   SPORT  AND  EXERCICE  NUTRITION.  Bill  I.  Campbel  and  Marie  A.  Spano.  Human  Kinetics,
 USA, (2011)
@@ -59,11 +58,16 @@ NUTRICION DEPORTIVA. Asier Jeukendrup and Michael Gleeson. Editorial Tutor, (201
 NUTRICION   DEPORTIVA.   Desde   la   fisiología   a   la   práctica.  Ed.  Marcela  González-Gross.  Editorial
 Panamericana (2021)
 
+NUTRICIÓN   EN   EL   DEPORTE:   AYUDAS   ERGOGÉNICAS   Y   DOPAJE.   Javier  González  Gallego,  Pilar  Sánchez
+Collado, José Mataix Verdu, Díaz de Santos: Fundación Universitaria Iberoamericana, (2006)
+
 NUTRICIÓN   EN   EL   DEPORTE:  Un  enfoque  práctico.  Louise  Burke.  Editorial  Médica  Panamericana,  Madrid
 (2010)
 
 NUTRICIÓN   PARA   LA   SALUD,   LA  CONDICIÓN  FÍSICA  Y  EL  DEPORTE.  Melvin  H.  Williams.  Dawn  E.Anderson  y
 Eric S. Rawson. Pidotribio, España, (2015)
+
+NUTRICIÓN Y ALIMENTACIÓN HUMANA (Tomos I y II). J. Mataix (EDITOR). Ergon, Madrid (2009)
 
 NUTRICIÓN   Y  DIETOTERAPIA  DE  KRAUSE  .  Mahan,  L.K.,  Escott-Stump,  S.  Raymond.  J.L.,  13ª  Ed.  Editorial
 Elsevier. Barcelona (2012)
@@ -75,6 +79,9 @@ Nutrición y Bromatología
 QUÍMICA DE LOS ALIMENTOS. Belitz HD, Grosch W., Schieberle, P. 3º ed. Ed. Acribia. Zaragoza (2012)
 
 SPORT DISCUS
+
+SPORTS   AND   EXERCICE   NUTRITION.  W.  D.  McArdle,  F.I.  Katch  and  V.L.  Katch.  Tercera  Edición.  Wolters
+Kluwer, Philadelphia (2009)
 
 SPORTS NUTRITION (fats and proteins). Judy A. Driskell, CRC Press, Boca Raton, (2007)
 

@@ -2,11 +2,11 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Carreras,   A.   y   Tafunell,  X.  (2018):  Entre  el  imperio  y  la  globalización.  Historia  Económica  de  la
 España Contemporánea. Planeta, Barcelona
@@ -53,11 +53,7 @@ Barcelona
 Tortella,   G.   y  Núñez,  C.E.  (2011):  El  desarrollo  de  la  España  contemporánea.  Historia  económica  de
 los siglos XIX y XX. Alianza Editorial, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

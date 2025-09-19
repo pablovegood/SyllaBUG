@@ -2,11 +2,13 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Fellows P., Tecnología del procesado de los alimentos: Principios y práctica, Ed. Acribia S.A., 2000
 
-📚 Recursos sin cambios:
+Singh R.P., Heldman D.R. Introduction to Food Engineering, Elsevier, 2009
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Ahmed, J. y Rahman, M. S. Handbook of food process design, Wiley-Blackwell, 2012
 
@@ -39,18 +41,12 @@ Saravacos, George,Kostaropoulos, Athanasios E. Handbook of Food Processing Equip
 
 Tucker, G.S y cols., Fundamentos del procesamiento térmico de alimentos. Ed. Madrid Vicente, 2020
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Fellows P., Tecnología del procesado de los alimentos: Principios y práctica, Ed. Acribia S.A., 2000
-→   Singh  R.P.,  Heldman  D.R.  Introduction  to  Food  Engineering,  Elsevier,  2009.  Fellows  P.,  Tecnología
+Singh   R.P.,   Heldman   D.R.  Introduction  to  Food  Engineering,  Elsevier,  2009.  Fellows  P.,  Tecnología
 del procesado de los alimentos: Principios y práctica, Ed. Acribia S.A., 2000
 
-Singh   R.P.,   Heldman   D.R.   Introduction   to  Food  Engineering,  Elsevier,  2009  →  Singh  R.P.,  Heldman
-D.R.   Introduction   to  Food  Engineering,  Elsevier,  2009.  Fellows  P.,  Tecnología  del  procesado  de  los
-alimentos: Principios y práctica, Ed. Acribia S.A., 2000
+Singh   R.P.,   Heldman   D.R.  Introduction  to  Food  Engineering,  Elsevier,  2009.  Fellows  P.,  Tecnología
+del procesado de los alimentos: Principios y práctica, Ed. Acribia S.A., 2000
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

@@ -2,11 +2,13 @@
 Grado: ciencias-politicas-administracion-periodismo (224)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+COTARELO, Ramón (Comp.) (1992). Transición política y consolidación democrática
 
-📚 Recursos sin cambios:
+España (1975-1986). Madrid: Centro de Investigaciones Sociológicas
+
+📚 Recursos sin cambios (19):
 ------------------------------
 AGUILAR, Paloma (2008). Políticas de la memoria y memorias de la política. Madrid: Alianza Editorial
 
@@ -56,18 +58,12 @@ RENIU, Josep María (Ed.) (2018). Sistema político español (2ª edición). Bar
 
 ÁLVAREZ JUNCO, José (2004). Mater dolorosa: la idea de España en el siglo XIX. Madrid: Taurus
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-COTARELO,   Ramón   (Comp.)   (1992).  Transición  política  y  consolidación  democrática  →  COTARELO,  Ramón
-(Comp.)   (1992).  Transición  política  y  consolidación  democrática.  España  (1975-1986).  Madrid:  Centro
-de Investigaciones Sociológicas
+COTARELO, Ramón (Comp.) (1992). Transición política y consolidación democrática. España (1975-1986).
+Madrid: Centro de Investigaciones Sociológicas
 
-España   (1975-1986).   Madrid:   Centro   de   Investigaciones   Sociológicas   →   COTARELO,  Ramón  (Comp.)
-(1992).   Transición   política   y   consolidación   democrática.   España  (1975-1986).  Madrid:  Centro  de
-Investigaciones Sociológicas
+COTARELO, Ramón (Comp.) (1992). Transición política y consolidación democrática. España (1975-1986).
+Madrid: Centro de Investigaciones Sociológicas
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 E. BUJALANCE, J. TARRÉS. Problemas de Topología. UNED, 1989
 
@@ -30,11 +30,7 @@ R. LOPEZ. Topología. Editorial Técnica Avicam, Granada 2023
 
 S. WILLARD. General Topology. Addison-Wesley, 1970
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

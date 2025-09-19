@@ -2,11 +2,15 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+ICD.10.   The   ICD-10   classification   of   Mental   and   behabiour   disorders.  Diagnostic  criteria  for
+research,   World   Health  Organisation,  Geneva,  1993  Rodes  Llorent  F.  Enfermedades  Mentales:  aspectos
+médico-forenses. Ed. Diaz de Santos, Fuertes Rocañin, JC y cols. Curso de Especialista Universitario
+en   Psiquiatría   Forense:   cuaderno   de   trabajo   Arán,   Madrid,2007   Cobo   Abreu   AR.  La  peritación
+psiquiátrica en medicina forense: preguntas y respuestas
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Cervilla Ballesteros J. Compendio de Psiquiatría. Granada: AVICAM Ediciones, 2017
 
@@ -25,23 +29,16 @@ Simms A. Sintomas mentales. Madrid: editorial Tricastela, 2008
 Vallejo   Ruilova   J.   Introducción   a   la   psicopatología   y   psiquiatría.  7ª  edición.  2011.  Masson.
 Barcelona
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-ICD.10.   The   ICD-10   classification   of   Mental   and   behabiour   disorders.  Diagnostic  criteria  for
-research,   World   Health  Organisation,  Geneva,  1993  Rodes  Llorent  F.  Enfermedades  Mentales:  aspectos
-médico-forenses. Ed. Diaz de Santos, Fuertes Rocañin, JC y cols. Curso de Especialista Universitario
-en   Psiquiatría   Forense:   cuaderno   de   trabajo   Arán,   Madrid,2007   Cobo   Abreu   AR.  La  peritación
-psiquiátrica   en   medicina   forense:   preguntas   y  respuestas  →  ICD.10.  The  ICD-10  classification  of
-Mental and behabiour disorders. Diagnostic criteria for research, World Health Organisation, Geneva,
-1993
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Cobo Abreu AR. La peritación psiquiátrica en medicina forense: preguntas y respuestas
 
 Fuertes   Rocañin,  JC  y  cols.  Curso  de  Especialista  Universitario  en  Psiquiatría  Forense:  cuaderno  de
 trabajo Arán, Madrid,2007
 
+ICD.10.   The   ICD-10   classification   of   Mental   and   behabiour   disorders.  Diagnostic  criteria  for
+research, World Health Organisation, Geneva, 1993
+
 Rodes Llorent F. Enfermedades Mentales: aspectos médico-forenses. Ed. Diaz de Santos, 2006
 
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 45% [████░░░░░░]

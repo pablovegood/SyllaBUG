@@ -2,11 +2,12 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Barcelona   :   Editorial  UOC,  2017  Lopezosa,  Carlos.  Bing  chat:  hacia  una  nueva  forma  de  entender  las
+búsquedas. Anuario ThinkEPI Vol 17, 2023
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 Allen Cypher & Mira Dontcheva & Tessa Lau & Jeffrey Nichols. No code required: Giving Users Tools to
 Transform the Web. Morgan Kaufmann Publishers, 2010
@@ -15,6 +16,10 @@ Brent Chaters. Mastering Search Analytics, O'Reilly Media, 2011
 
 Cid   Leal,   Pilar.;  Perpiny  ̉Morera,  Remei.  Cómo  y  dónde  buscar  fuentes  de  información.  Bellaterra  :
 Universitat Autṇoma de Barcelona. Servei de Publicacions, 2013
+
+Cordón   García,   José  Antonio.  Las  nuevas  fuentes  de  información  :  información  y  búsqueda  documental
+en   el  contexto  de  la  web  2.0.  Madrid  :  Pirámide,  2012  López-Carreño,  Rosana.  Fuentes  de  información
+: guía básica y nueva clasificación
 
 Dirk Lewandowsk,. Web search engine research. Bingley : Emerald, 2012
 
@@ -33,16 +38,7 @@ René König and Miriam Rasch (eds.) Society of the Query Reader: Reflections on
 
 Stephan Spencer. Google Power Search, O'Reilly Media, 2011
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Cordón   García,   José  Antonio.  Las  nuevas  fuentes  de  información  :  información  y  búsqueda  documental
-en   el  contexto  de  la  web  2.0.  Madrid  :  Pirámide,  2012  López-Carreño,  Rosana.  Fuentes  de  información
-:   guía   básica   y  nueva  clasificación.  Barcelona  :  Editorial  UOC,  2017  Lopezosa,  Carlos.  Bing  chat:
-hacia   una   nueva   forma   de   entender  las  búsquedas.  Anuario  ThinkEPI  Vol  17,  2023  →  Cordón  García,
-José   Antonio.   Las  nuevas  fuentes  de  información  :  información  y  búsqueda  documental  en  el  contexto
-de la web 2.0. Madrid : Pirámide, 2012
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Lopezosa,   Carlos.  Bing  chat:  hacia  una  nueva  forma  de  entender  las  búsquedas  .  Anuario  ThinkEPI  Vol
 17, 2023
@@ -50,4 +46,4 @@ Lopezosa,   Carlos.  Bing  chat:  hacia  una  nueva  forma  de  entender  las  b
 López-Carreño,   Rosana.   Fuentes   de   información   :   guía  básica  y  nueva  clasificación.  Barcelona  :
 Editorial UOC, 2017
 
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

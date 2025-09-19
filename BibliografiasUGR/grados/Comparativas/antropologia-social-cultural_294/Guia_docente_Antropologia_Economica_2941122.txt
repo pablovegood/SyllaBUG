@@ -2,11 +2,13 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+KORSBAEK, Leif; BARRIOS Luna, Marcela, 2004, La antropología y la economía. Ciencia Ergo Sum, 11(3):
+225-236.   Universidad   Autónoma   del   Estado  de  México,  Toluca,  México  MARTÍNEZ  Veiga,  Ubaldo,  1989,
+Antropología económica. Conceptos, teorías, debates. Icaria, Barcelona
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (28):
 ------------------------------
 APPADURAI,   Arjun,   1991  [1986],  La  vida  social  de  las  cosas.  Perspectiva  cultural  de  la  mercancías.
 Ediciones Grijalbo, Barcelona
@@ -79,16 +81,11 @@ EUDEBA, Buenos Aires
 
 WOLF, Eric R., 2005, Europa y la gente sin historia. F.C.E., México
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-KORSBAEK, Leif; BARRIOS Luna, Marcela, 2004, La antropología y la economía. Ciencia Ergo Sum, 11(3):
-225-236.   Universidad   Autónoma   del   Estado  de  México,  Toluca,  México  MARTÍNEZ  Veiga,  Ubaldo,  1989,
-Antropología   económica.   Conceptos,  teorías,  debates  →  KORSBAEK,  Leif;  BARRIOS  Luna,  Marcela,  2004,
-La antropología y la economía . Ciencia Ergo Sum, 11(3): 225-236. Universidad Autónoma del Estado de
-México, Toluca, México
+KORSBAEK,   Leif;   BARRIOS   Luna,   Marcela,   2004,   La  antropología  y  la  economía  .  Ciencia  Ergo  Sum,
+11(3): 225-236. Universidad Autónoma del Estado de México, Toluca, México
 
-✅ Recursos añadidos:
-------------------------------
 MARTÍNEZ Veiga, Ubaldo, 1989, Antropología económica. Conceptos, teorías, debates. Icaria, Barcelona
 
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

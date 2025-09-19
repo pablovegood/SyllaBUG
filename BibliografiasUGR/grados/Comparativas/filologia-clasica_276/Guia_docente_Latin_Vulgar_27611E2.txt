@@ -2,13 +2,16 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 ANTOLOGÍAS DE TEXTOS Díaz y Díaz, M. C. (1962): Antología del latín vulgar, Madrid
+
+Bibliografía complementaria puede verse en: Väänänen, V. (1995): Introducción al latín vulgar, trad.
+esp. de Manuel Carrión, 3ª ed., Madrid, Gredos, pp. 17-26
 
 Diehl, E. (1910): Vulgärlateinische Inschriften, Bonn
 
@@ -47,22 +50,15 @@ Slotty, Fr. (1960): Vulgärlateinisches Übungsbuch, Berlín, [Bonn, 1918]
 Tagliavini,   C.   (1973):   Orígenes   de   las   lenguas   neolatinas,   trad.   esp.,  México  [1949,  1ª  ed.
 italiana]
 
-Väänänen,   V.   (1995):   Introducción   al  latín  vulgar,  trad.  esp.  de  Manuel  Carrión,  3ª  ed.,  Madrid,
-Gredos, pp. 17-26
-
 ­­Väänänen,   V.   (1995):   Introducción   al   latín   vulgar,  trad.  esp.  de  Manuel  Carrión,  Madrid,  ed.
 Gredos, 1988, reimpr
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-No hubo cambios de edición/año.
+ANTOLOGÍAS DE TEXTOS
 
-✅ Recursos añadidos:
-------------------------------
 Battisti, C. (1949): Avviamento allo studio del latino volgare, Bari
-
-Díaz y Díaz, M. C. (1962): Antología del latín vulgar, Madrid
 
 La bibliografía complementaria puede verse en
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

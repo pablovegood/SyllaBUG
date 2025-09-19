@@ -2,7 +2,7 @@
 Grado: fisioterapia-melilla (541)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (8):
 ------------------------------
 Borsarello, J. Manual Clínico de Acupuntura Tradicional. Barcelona: Masson. 1984
 
@@ -13,11 +13,20 @@ I y II. Barcelona: Springer. 1999
 
 Fernández de Castro A. Tai-chi. Madrid: Ediciones Tao. 2005
 
-Maciocia, G. La Práctica de la Medicina China. Barcelona: Elsevier. 2009
+Lee   IS,   Lee   SH,   Kim   SY,   Lee   H,  Park  HJ,  Chae  Y.  Visualization  of  the  Meridian  System  Based  on
+Biomedical   Information   about   Acupuncture   Treatment.   Evid   Based   Complement  Alternat  Med.  2013;
+2013:872142
 
 OMS. Directrices sobre capacitación básica y seguridad en la acupuntura. 2002. [Disponible en]
 
-📚 Recursos sin cambios:
+OMS. Medicina Tradicional. 2008 [Disponible en]: http://www.who.int/mediacentre/factsheets/fs134/es/
+Townsend   JS.   Temari   Reiki:   a  new  hands-off  approach  to  traditional  Reiki.  Int  J  Nurs  Pract.  2013
+Apr;19 Suppl 2:34-8
+
+http://www.who.int/medicinedocs/collect/edmweb/pdf/s4932s/s4932s.pdf   Maciocia,  G.  La  Práctica  de  la
+Medicina China. Barcelona: Elsevier. 2009
+
+📚 Recursos sin cambios (3):
 ------------------------------
 Furlan   AD,   Yazdi   F,   Tsertsvadze   A,   Gross   A,  Van  Tulder  M,  Santaguida  L,  Cherkin  D,  Gagnier  J,
 Ammendolia   C,   Ansari  MT,  Ostermann  T,  Dryden  T,  Doucette  S,  Skidmore  B,  Daniel  R,  Tsouros  S,  Weeks
@@ -25,30 +34,25 @@ L,   Galipeau   J.   Complementary  and  alternative  therapies  for  back  pain
 (Full Rep). 2010 Oct;(194):1-764. PMID: 23126534; PMCID: PMC4781408
 
 Ministerio   de   Sanidad   Politica   Social   e   igualdad.  Nota  resumen  informe  terapias  manuales.  2011
-NCCAM.   Complementary   and   alternative   medicine.  [Disponible  en]:  organizations-database/national-
-center-complementary-and-alternative-medicine-nccam    Wright,    J.    Reflexología   y   digitopuntura.
-Barcelona: Parragón. 2002
-
-Townsend   JS.   T  emari  Reiki:  a  new  hands-off  approach  to  traditional  Reiki  .  Int  J  Nurs  Pract.  2013
-Apr;19 Suppl 2:34-8
+[Disponible   en]:   http://   http://www.msssi.gob.es/novedades/docs/analisisSituacionTNatu.pdf  NCCAM.
+Complementary   and   alternative   medicine.  [Disponible  en]:  https://www.nei.nih.gov/learn-about-eye-
+health/eye-conditions-and-diseases/eye-healthorganizations-database/national-center-complementary-
+and-alternative-medicine-nccam Wright, J. Reflexología y digitopuntura. Barcelona: Parragón. 2002
 
 Wang SM, Fortier MA, Cheng DY, Perret D, Hata J, Tan ET, Kain ZN. The impact of major life events on
 the   use   of   complementary   and   alternative  medicine  among  individuals  with  chronic  pain:  a  cross-
 sectional study . Adv Mind Body Med. 2013 Summer;27(3):7-13. PMID: 23784605
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-OMS.   Medicina   Tradicional.   2008  [Disponible  en]  →  Estrategia  de  la  OMS  sobre  medicina  tradicional
-2014-2023                                       [Disponible                                       en]:
-https://iris.who.int/bitstream/handle/10665/95008/9789243506098_spa.pdf?sequence=1
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (10):
 ------------------------------
 2008-2025 Todos derechos reservados © Apuntes-de-Acupuntura.com
 
 Bauer   BA,   Tilburt  JC,  Sood  A,  Li  GX,  Wang  SH.  Complementary  and  alternative  medicine  therapies  for
 chronic   pain.   Chin   J  Integr  Med.  2016  Jun;22(6):403-11.  doi:  10.1007/s11655-016-2258-y.  Epub  2016
 May 26. PMID: 27339090
+
+Estrategia     de     la     OMS     sobre     medicina     tradicional     2014-2023     [Disponible    en]:
+https://iris.who.int/bitstream/handle/10665/95008/9789243506098_spa.pdf?sequence=1
 
 Ministerio   de   Sanidad   Politica   Social  e  igualdad.  Nota  resumen  informe  terapias  naturales  .  2011
 [Disponible en]: https://www.sanidad.gob.es/novedades/docs/analisisSituacionTNatu.pdf
@@ -67,6 +71,9 @@ Altern Ther Health Med. 2025 Mar;31(2):30-37. PMID: 39715572
 
 Terry Oleson. Auriculoterapia. Sistemas Chino y Occidental de acupuntura auricular. Editorial Médica
 Panamericana, España, 2008
+
+Townsend   JS.   T  emari  Reiki:  a  new  hands-off  approach  to  traditional  Reiki  .  Int  J  Nurs  Pract.  2013
+Apr;19 Suppl 2:34-8
 
 Zhou   W,   Benharash   P.  Effects  and  mechanisms  of  acupuncture  based  on  the  principle  of  meridians.  J
 Acupunct   Meridian   Stud.   2014   Aug;7(4):190-3.   doi:  10.1016/j.jams.2014.02.007.  Epub  2014  Jun  24.

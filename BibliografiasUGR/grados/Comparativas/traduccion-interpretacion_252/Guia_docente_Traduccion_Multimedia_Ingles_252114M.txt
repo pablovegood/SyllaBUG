@@ -2,11 +2,11 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (34):
 ------------------------------
 Alonso, F. (dir. y coord.) 2003. Libro Blanco por un nuevo paradigma, el diseño para todos, hacia la
 plena   igualdad   de  oportunidades.  Institut  Universitari  d'Estudis  Europeus,  Ministerio  de  Trabajo  y
@@ -63,7 +63,11 @@ práctica de la audiodescripción. Granada: Ediciones Tragacanto
 
 Kress, G. y T. Van Leeuwen. 1996. Reading images: The grammar of visual design. London: Routledge
 
-López   Rodríguez,   C.   I.   y   M.   Tercedor-Sánchez.   2020.   El  sonido  de  las  emociones:  aproximación
+López   Rodríguez,   C.   I.  2022.  La  expresión  de  las  emociones  en  los  videojuegos:  lengua,  sentidos  e
+inclusión.   En   R.   Arroyo   González   y   E.   Fernández-Lancho   (eds.),  Investigación  en  Comunicación
+inclusiva y multilingüe. Granada: Comares , pp. 195-204
+
+López   Rodríguez,   C.   I.   y   M.   Tercedor   Sánchez.   2020.  El  sonido  de  las  emociones:  aproximación
 intersemiótica   al   subtitulado   accesible.   En   S.   Martínez   Martínez   (ed.),  Nuevas  tendencias  en
 traducción   e   interpretación.   Enseñar,   aprender   e   investigar  en  la  Revolución  digital.  Granada:
 Editorial Comares, pp. 29-49
@@ -71,10 +75,6 @@ Editorial Comares, pp. 29-49
 López Rodríguez, C. I. y M. Tercedor-Sánchez. 2022. La accesibilidad como eje transversal en el aula
 de   Traducción   Multimedia.   En  M.  M.  Sánchez-Ramos  (ed.),  Investigaciones  recientes  en  traducción  y
 accesibilidad digital. Berlín/Berna: Peter Lang, pp. 101-124
-
-López-Rodríguez,   C.   I.   2022.  La  expresión  de  las  emociones  en  los  videojuegos:  lengua,  sentidos  e
-inclusión.   En   R.   Arroyo   González   y   E.   Fernández-Lancho   (eds.),  Investigación  en  Comunicación
-inclusiva y multilingüe. Granada: Comares, pp. 195-204
 
 López-Rodríguez, C. I. 2023. Localización para lingüistas y traductores. Granada: Comares
 
@@ -111,11 +111,7 @@ Berlín/Berna: Peter Lang
 
 Tercedor, M. 2009. Materiales multimedia para todos: inclusión y accesibilidad en educación. Granada
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 López-Rodríguez,   C.   I.   2024.   Traducción   accesible   para   el  teatro.  Emociones  y  multimodalidad.
 Granada: Comares

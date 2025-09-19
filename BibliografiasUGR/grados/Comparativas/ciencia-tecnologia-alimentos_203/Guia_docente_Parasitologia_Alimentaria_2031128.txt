@@ -2,11 +2,11 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (27):
 ------------------------------
 Adroher,   F.J.;   Campos,   M.;   Hueli,  L.  (coord.).  2004.  Guía  Práctica  de  Parasitología.  Facultad  de
 Farmacia. Universidad de Granada
@@ -22,6 +22,8 @@ Cordero del Campillo, M. et al. 2007. Parasitología General. MacGraw-Hill Inter
 
 Cordero   del  Campillo,  M.,  Rojo  Vázquez,  F.A.  (coord.)  2000.  Parasitología  Veterinaria.  MacGraw-Hill
 Interamericana de España. Madrid
+
+De utilidad para todos los temas del programa y fácil acceso/ disponibilidad para los alumnos
 
 Doyle,   M.P.,   Beuchat,  L.R.  (eds).  2007.  Food  Microbiology:  Fundamentals  and  Frontiers.  3er  ed.  ASM
 Press, Washington, D.C
@@ -67,6 +69,10 @@ and Hall. Londres
 Romero Cabello, R. 2007. Microbiología y Parasitología Humana. Bases etiológicas de las enfermedades
 infecciosas y parasitarias. Editorial Médica Panamericana., 3ª Edic. México, DF
 
+Se   recomienda   el   uso   de  los  recursos  electrónicos  que  facilita  la  UGR,  tanto  en  formato  de  libro
+electrónico   como   de   revistas   científicas   electrónica   o   en  papel:  https://biblioteca.ugr.es  Se
+recomendará a los alumnos según el trabajo autónomo que tengan que desarrollar
+
 Sharma, R.; Thompson, Peter C. et al. 2020. Hiding in plain sight: discovery and phylogeography of a
 cryptic   species   of   Trichinella   (Nematoda:   Trichinellidae)   in   wolverine   (Gulo   gulo).Int.   J.
 Parasitol. 50: 277-287
@@ -77,17 +83,9 @@ Marcel Dekker. New York-Dekker
 Zarlenga,   D.S.;  Trout,  J.M.  2004.  Concentrating,  purifying  and  detecting  waterborne  parasites.  Vet.
 Parasitol. 126 (1-2): 195-217
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-De utilidad para todos los temas del programa y fácil acceso/ disponibilidad para los alumnos
-
-Se recomendará a los alumnos según el trabajo autónomo que tengan que desarrollar
-
 Se   recomienda   el   uso   de  los  recursos  electrónicos  que  facilita  la  UGR,  tanto  en  formato  de  libro
 electrónico como de revistas científicas electrónica o en papel: https://biblioteca.ugr.es
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]

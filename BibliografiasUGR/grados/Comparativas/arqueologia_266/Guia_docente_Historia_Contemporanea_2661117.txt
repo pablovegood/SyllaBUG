@@ -2,18 +2,37 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (10):
 ------------------------------
+"Environnment   et   histoire",  en  Annales  29(1974):  573-647  Gligo,  N.  et  al.  "Notas  sobre  la  historia
+ecológica   de   América   Latina",   in  Sunkel  y  Gligo  (eds.),  Medio  ambiente  y  estilo  de  desarrollo  en
+América   Latina,   FCE,   México   1980   Hughes,   J.D.   (2001):   Environmental   history   of  the  world  :
+humankind's changing role in the community of life. Routledge Press
+
 Arnold,   D.   La   naturaleza   como  problema  histórico:  el  medio,  la  cultura  y  la  expansión  de  Europa,
 FCE,   México   2000   Berkes,   F.   y   Folke,   C.   (1998):   “Linking   Social  and  Ecological  Systems  for
 resilience   and   sustainability”   en   Berkes,   F.   y  Folke,  C.  (eds.):  Linking  Social  and  Ecological
 Systems.   Management   Practices   and  Social  Mechanisms  for  Building  Resilience.  Cambridge  University
 Press
 
+Bevilacqua,   P.   "Las   políticas   ambientales:   qué   pasado?  Algunas  reflexiones",  en  Ayer  11(1993):
+Historia   y   ecología,   pp.   147-170   García,   E.  (2004):  Medio  Ambiente  y  Sociedad.  La  Civilización
+Industrial y los límites del Planeta. Alianza Ensayo
+
 Briblecombe,   P.   Y   Pfister,   Ch.   (1990):   The   Silent  Countdown.  Essays  in  European  Environmental
 History. Berlin, Springer-Verlag
 
+Castro   Herrera,   G.   "The   Environmental   Crisis   and   the   Tasks   of  History  in  Latin  America",  en
+Environment   and   History   3(1997):   1-18   Cronon,   W.   "The   uses   of   environmental   history",   en
+Environmental   History  Review  17  (1993),  n.3:  1-22  Crosby,  A.  "The  past  and  present  of  environmental
+history",   en   American   Historical   Review   100(1995):   1177-89   Deleage,  P.  (1993):  Historia  de  la
+Ecología. Barcelona, Ed. Icaria
+
 Martínez Alier, J. (1991): La Ecología y la Economía. México. Fondo de Cultura Económica
+
+Martínez Carrera, J. U. (1991): El mundo Arabe e Israel. El próximo oriente en el siglo XX. Madrid,,
+Istmo.   MARTÍN   DE   LA   GUARDIA   Y  PÉREZ  SÁNCHEZ,  G  (coord):  La  integración  europea,  Barcelona,  2002
+Moreno Juste, A. y Núñez Peñas, V.: Historia de la construcción europea desde 1945, Madrid 2017
 
 Norgaard,   R.   (1995):   Development  Betrayed.  The  end  of  profess  and  a  coevolutionary  revisioning  of
 the future. Rotuledge Press
@@ -21,7 +40,10 @@ the future. Rotuledge Press
 RIifkin,   J.   (1995)  El  fin  del  trabajo.  Nuevas  tecnologías  contra  puestos  de  trabajo:  el  nacimiento
 de una nueva era. Ed. Paidos
 
-📚 Recursos sin cambios:
+Stiglitz, J. (2002) El malestar en la globalización, Madrid, Ed. Taurus., Taibo, C. (1995): Crisis y
+cambio en la Europa del Este . Madrid, Alianza
+
+📚 Recursos sin cambios (61):
 ------------------------------
 AAVV (1990): “Europa Oriental. El año de la crisis”, Debats nº 31, Edicions Alfons el Magnanim
 
@@ -32,6 +54,9 @@ Alcántara, M. (1990): Sistemas Políticos de América Latina. Madrid, Ed. Tecno
 
 Altvater, E. (1992): El precio del bienestar: expolio del medio ambiente y nuevo (des)orden mundial.
 Ed. Alfons el Magnanim
+
+Alvarez-Osorio,   I.   (2001):  El  Miedo  a  la  Paz.  De  la  guerra  de  los  seis  días  a  la  segunda  Intifada.
+Madrid, Ed. La Catarara
 
 Amin,   S.  (2001):  El  hegemonismo  de  Estados  Unidos  y  el  desvanecimiento  del  proyecto  europeo:  frente
 a la OTAN, el combate por un mundo multipolar y democrático [Barcelona] : El Viejo Topo
@@ -124,25 +149,29 @@ Offe, C. (1991): Las contradicciones del Estado del Bienestar. Madrid, Alianza e
 
 Palazuelos, E. (1996): Las Economías Postcomunistas de Europa del Este. Madrid, Abacus
 
-Patrimonio   Biocultural.   Diálogo   Arqueología  e  Historia  Contemporánea  Ávila  Romero,  Agustín  (comp.
-2012):    Patrimonio   biocultural,   saberes   y   derechos   de   los   pueblos   originarios.   Universidad
-Intercultural de Chiapas
+Patrimonio Biocultural. Diálogo Arqueología e Historia Contemporánea
 
 Pereira, J.C. (1997): Los orígenes de la guerra fría. Madrid, Arco Libro S.L
 
 Pereira,   J.C.   (coord.  2001):  Historia  de  las  Relaciones  Internacionales  Contemporáneas.  Barcelona,
 Ed. Ariel
 
-Peñas   Esteban,   F.J.   (2000):  Africa  en  el  sistema  internacional:  cinco  siglos  de  frontera,  Madrid,
+Peñas   Esteban,   F.J.  (2000):  Africa  en  el  sistema  internacional:  cinco  siglos  de  frontera  ,  Madrid,
 Libros de la Catarata
+
+Powaski, R.E. (2000): La Guerra Fría: Estados Unidos y la Unión Soviética, 1917-1991. Ed. Crítica
 
 Radkau,   J.   "Que   es   la   Historia   del   Medio  Ambiente  ?",  en  Historia  y  Ecologia,  Ayer  11  (1993):
 119-146   Worster,   D.  "The  Vulnerable  Earth:  toward  a  planetary  history",  in  Worster  (ed.),  The  Ends
 of   the   Earth   Worster,   D.  "Transformations  of  the  Earth:  Toward  and  Agroecological  Perspective  in
-History", en Journal of American History 76(1990): A Roundtable
+History",   en   Journal   of   American   History   76(1990):   A   Roundtable:   Environmental  History,  pp.
+1087-1106   Worster,   D.   "Appendix:   Doing  environmental  history",  in  Worster  (ed.),  The  Ends  of  the
+Earth: Perspectives on Modern Environmental History, Cambridge University Press 1988
 
 Relaciones   Historia-Arqueología   y  Medio  Ambiente  Acot,  P.  (1990):  Historia  de  la  Ecología.  Madrid,
 Ed. Taurus
+
+Revolución Industrial e Historia Contemporánea
 
 Riechmann,   J.   y   Fernández-Buey,   F.   (1995):   Redes   que   dan  libertad.  Introducción  a  los  nuevos
 movimientos sociales. Barcelona, Ed. Paidós
@@ -173,78 +202,24 @@ sabidurías tradicionales, Col. Perspectivas Agroecológicas 3, Ed. Icaria
 
 Toledo,   V.   “Del   “diálogo   de   fantasmas”   al  “diálogo  de  saberes”:  conocimiento  y  sustentabilidad
 comunitaria”   en   Argueta   Villamar,   A.   et   al  (coord.)  Saberes  Colectivos  y  Diálogo  de  saberes  en
-México.   Universidad   Autónoma   Nacional   de   México/Universidad  Iberoamericana  Puebla,  pp.  469-485.
-personal   del   alumno.   motivando  al  alumnado  a  la  reflexión,  facilitándole  el  descubrimiento  de  las
-relaciones   entre   diversos   conceptos   y   tratando   de  formarle  una  mentalidad  crítica  2)  Clases  de
-aspectos   concretos  relacionados  con  la  materia.  Se  tratará  de  que  sean  participativos,  motivando  al
-alumno   a   la  reflexión  y  al  debate.  grupo:  1)  En  aula/laboratorio/aula  de  informática:  contacto  con
-el registro arqueológico a través de su conocimiento directo o bien a través de medios audiovisuales
-o   programas   materia.  2)  En  el  campo:  se  podrán  realizar  visitas  en  grupo  a  yacimientos  y  conjuntos
-arqueológicos,   Museos,   centros   de   investigación,   así   como   entrar   en  contacto  con  la  práctica
-arqueológica   a   través   de   la   prospección   y   la  excavación  con  el  fin  de  desarrollar  la  registro
-arqueológico.   individualmente   o   en   grupo.   Los   alumnos  presentarán  en  público  los  resultados  de
-algunos de estos trabajos, desarrollando las habilidades y destrezas propias de la materia, trabajos
-no   presenciales   desarrollados   en   grupo.   Las  exposiciones  podrán  ser:  1)  De  cuestiones  prácticas
-realizadas en casa o 2) De trabajos dirigidos
+México. Universidad Autónoma Nacional de México/Universidad Iberoamericana Puebla, pp. 469-485
 
-Vence,   X.   y   Outes,   J.L.  (1998):  La  Unión  Europea  y  la  crisis  del  estado  de  bienestar:  una  visión
+Vence,   X.   y   Outes,  J.L.  (1998):  La  Unión  Europea  y  la  crisis  del  estado  de  bienestar  :  una  visión
 crítica del neoliberalismo económico. Ed. Síntesis
 
-Warchawski,   M.   (2002):   Israel-Palestina:   la   alternativa   de  la  convivencia  binacional,  Madrid  :
+Warchawski,   M.   (2002):   Israel-Palestina:   la   alternativa  de  la  convivencia  binacional  ,  Madrid  :
 Catarata
 
 Worster,   D.   (1988):  The  Ends  of  the  Earth.  Perspectives  on  Modern  Environmental  History.  Cambridge
 University Press
 
 Worster,   D.   (1994,   2ªed.):   Nature´s  Economy.  A  History  of  Ecological  Ideas.  Cambridge  University
-Press
+Press. Bibliografía Ampliada Bloque B
 
-Álvarez-Osorio,   I.   (2001):  El  Miedo  a  la  Paz.  De  la  guerra  de  los  seis  días  a  la  segunda  Intifada.
-Madrid, Ed. La Catarara
+Ávila   Romero,   Agustín   (comp.   2012):   Patrimonio   biocultural,   saberes  y  derechos  de  los  pueblos
+originarios . Universidad Intercultural de Chiapas
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-La   integración   europea,   Barcelona,   2002   Moreno   Juste,   A.   y   Núñez   Peñas,  V.:  Historia  de  la
-construcción   europea   desde  1945,  Madrid  2017  →  Moreno  Juste,  A.  y  Núñez  Peñas,  V.  (2017):  Historia
-de la construcción europea desde 1945, Madrid
-
-Martínez Carrera, J. U. (1991): El mundo Arabe e Israel. El próximo oriente en el siglo XX. Madrid,,
-Istmo.   MARTÍN   DE   LA  GUARDIA  Y  PÉREZ  SÁNCHEZ,  G  (coord)  →  Martínez  Carrera,  J.  U.  (1991):  El  mundo
-Árabe   e   Israel.   El   próximo   oriente  en  el  siglo  XX.  Madrid,,  Istmo.  MARTÍN  DE  LA  GUARDIA  Y  PÉREZ
-SÁNCHEZ, G (coord): La integración europea, Barcelona, 2002
-
-Environmental History, pp. 1087-1106 Worster, D. "Appendix: Doing environmental history", in Worster
-(ed.),   The   Ends   of   the  Earth:  Perspectives  on  Modern  Environmental  History,  Cambridge  University
-Press   1988   Worster,   D.   (1994,  2ªed.):  Nature´s  Economy.  A  History  of  Ecological  Ideas  →  Worster,
-D. (1994, 2ªed.): Nature´s Economy. A History of Ecological Ideas. Cambridge University Press
-
-1917-1991.   Ed.   Crítica   →   Powaski,   R.E.   (2000):   La   Guerra   Fría:   Estados   Unidos   y  la  Unión
-Soviética, 1917-1991. Ed. Crítica
-
-Bevilacqua,   P.   "Las   políticas   ambientales:   qué   pasado?  Algunas  reflexiones",  en  Ayer  11(1993):
-Historia   y   ecología,   pp.   147-170   García,   E.  (2004):  Medio  Ambiente  y  Sociedad.  La  Civilización
-Industrial   y   los   límites  del  Planeta.  Alianza  Ensayo  →  Bevilacqua,  P.  "Las  políticas  ambientales:
-qué pasado? Algunas reflexiones", en Ayer 11(1993): Historia y ecología, pp. 147-170
-
-Castro   Herrera,   G.   "The   Environmental   Crisis   and   the   Tasks   of  History  in  Latin  America",  en
-Environment   and   History   3(1997):   1-18   Cronon,   W.   "The   uses   of   environmental   history",   en
-Environmental   History  Review  17  (1993),  n.3:  1-22  Crosby,  A.  "The  past  and  present  of  environmental
-history",   en   American   Historical   Review   100(1995):   1177-89   Deleage,  P.  (1993):  Historia  de  la
-Ecología.   Barcelona,   Ed.   Icaria   →   Deleage,   P.   (1993):  Historia  de  la  Ecología.  Barcelona,  Ed.
-Icaria
-
-"Environnment   et   histoire",  en  Annales  29(1974):  573-647  Gligo,  N.  et  al.  "Notas  sobre  la  historia
-ecológica   de   América   Latina",   in  Sunkel  y  Gligo  (eds.),  Medio  ambiente  y  estilo  de  desarrollo  en
-América   Latina,   FCE,   México   1980   Hughes,   J.D.   (2001):   Environmental   history   of  the  world  :
-humankind's   changing   role   in   the   community   of   life.   Routledge   Press   →  Hughes,  J.D.  (2001):
-Environmental   history   of  the  world  :  humankind's  changing  role  in  the  community  of  life.  Routledge
-Press
-
-Stiglitz, J. (2002) El malestar en la globalización, Madrid, Ed. Taurus., Taibo, C. (1995): Crisis y
-cambio   en   la   Europa   del   Este   .   Madrid,   Alianza   →   Stiglitz,   J.   (2002)   El   malestar  en  la
-globalización, Madrid, Ed. Taurus
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (55):
 ------------------------------
 "Environnment et histoire", en Annales 29(1974): 573-647
 
@@ -264,6 +239,9 @@ BRIGGS, A. y CLAVIN, P., Historia contemporánea de Europa, 1789-1989, Crítica,
 BURBANK,   J.   y  COOPER,  F.,  Imperios.  Una  nueva  visión  de  la  Historia  universal,  Barcelona,  Crítica,
 2011
 
+Bevilacqua,   P.   "Las   políticas   ambientales:   qué   pasado?  Algunas  reflexiones",  en  Ayer  11(1993):
+Historia y ecología, pp. 147-170
+
 CASANOVA, J., Europa contra Europa, 1914-1945 . Barcelona: Crítica, 2011
 
 CASASSAS,   J.   (ed.),   La  construcción  del  presente.  El  mundo  desde  1848  hasta  nuestros  días,  Ariel,
@@ -274,6 +252,8 @@ Pasado y Presente, 2013
 
 DUBY,   Georges   y   PERROT,   Michelle,   Historia   de   las  mujeres.  5  .  El  siglo  XX,  Editorial  Taurus.
 Barcelona, 2018
+
+Deleage, P. (1993): Historia de la Ecología. Barcelona, Ed. Icaria
 
 FAULKNER, N., Una historia radical del mundo, Barcelona, Pasado y Presente, 2018
 
@@ -306,6 +286,9 @@ HOBSBAWM, E, La era de la Revolución (1789-1848). La era del Capital (1848-1875
 
 HOBSBAWM, Eric J. (1917-2012), Historia del siglo XX, Editorial Crítica. Barcelona, 2012
 
+Hughes, J.D. (2001): Environmental history of the world : humankind's changing role in the community
+of life. Routledge Press
+
 JUDT, T., Postguerra. Una historia de Europa desde 1975 . Madrid: Taurus, 2006
 
 KERSHAW,   Ian,  Ascenso  y  crisis.  Europa  1950-2017:  un  camino  incierto,  Editorial  Crítica.  Barcelona,
@@ -328,6 +311,11 @@ MORADIELLOS, E.: Historia del Mundo Contemporáneo en sus documentos, Granada, C
 
 Manuales y obras de referencia de Historia Contemporánea Universal
 
+Martínez Carrera, J. U. (1991): El mundo Árabe e Israel. El próximo oriente en el siglo XX. Madrid,,
+Istmo. MARTÍN DE LA GUARDIA Y PÉREZ SÁNCHEZ, G (coord): La integración europea, Barcelona, 2002
+
+Moreno Juste, A. y Núñez Peñas, V. (2017): Historia de la construcción europea desde 1945, Madrid
+
 NOUSCHI, M., Historia del siglo XX. Todos los mundos, el Mundo, Madrid, Cátedra, 1996
 
 OSTERHAMMEL, J., La transformación del mundo. Una historia global del siglo XIX. Una historia global
@@ -338,9 +326,9 @@ PAREDES, Javier (Coordinador), Historia Universal Contemporánea, Barcelona, Ari
 Radkau,   J.   "Que   es   la   Historia   del   Medio  Ambiente  ?",  en  Historia  y  Ecologia,  Ayer  11  (1993):
 119-146
 
-Revolución Industrial e Historia Contemporánea
-
 SALVADORI, Massimo L., Breve Historia del Siglo XX, Alianza Editorial. Madrid, 2013
+
+Stiglitz, J. (2002) El malestar en la globalización, Madrid, Ed. Taurus
 
 Taibo, C. (1995): Crisis y cambio en la Europa del Este . Madrid, Alianza
 
@@ -372,7 +360,4 @@ caridad internacional, Queimada, 2015
 
 ÁLVAREZ JUNCO, José, Dioses útiles. Naciones y Nacionalismos . Editorial Galaxia Gutemberg, 2016
 
-Ávila   Romero,   Agustín   (comp.   2012):   Patrimonio   biocultural,   saberes  y  derechos  de  los  pueblos
-originarios . Universidad Intercultural de Chiapas
-
-📊 Porcentaje estimado de cambio: 88% [████████░░]
+📊 Porcentaje estimado de cambio: 56% [█████░░░░░]

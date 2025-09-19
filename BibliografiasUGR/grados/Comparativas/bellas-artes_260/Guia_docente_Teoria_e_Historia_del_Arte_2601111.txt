@@ -2,12 +2,15 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+BARASCH,   M.,   Teorías  del  arte,  Madrid,  Alianza  Editoral,  1999  BEARDSLEY,  Monroe  C.,  HOSPERS,  John,
+Estética. Historia y fundamentos, Cátedra, Madrid, 1984
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (43):
 ------------------------------
+ADORNO, Th. W. Teoría estética, Madrid, Akal, 2004
+
 BARASCH, Moshe. Teorías del arte. De Platón a Winckelmann. Madrid, Alianza, 1991
 
 BENEVOLO, L. El diseño de la ciudad. Barcelona, Gustavo Gili, 1977, 5 vols
@@ -18,9 +21,14 @@ BERGER, John. Modos de ver, Gustavo Gili, Barcelona, 2016
 
 CARROLL, N., Una filosofía del arte de masas, Madrid, Antonio Machado, 2004
 
+CASTRO, S., En teoría es arte: una introducción a la estética, Salamanca, San Esteban, 2005
+
 DANTO, A. C., La Transfiguración del lugar común. Una filosofía del arte, Barcelona, Paidós, 2002
 
 DELEUZE, Gilles. ¿Qué es la filosofía?, Barcelona, Anagrama, 1993
+
+DICKIE,   G.,   El   círculo   del   arte.  Una  teoría  del  arte,  trad.  por  Sixto  Castro,  Barcelona,  Paidós
+Estética, 2005
 
 Diccionario universal de arquitectos. Barcelona, Gustavo Gili, 1970
 
@@ -45,6 +53,8 @@ GOMBRICH, E.H. Historia del Arte. Madrid, Debate, 2006
 HALL, J. Diccionario de temas y símbolos artísticos. Madrid, 1987
 
 HATJE, U. Historia de los estilos artísticos. Madrid, Istmo, 1985, 2 vols
+
+HENCKMANN, Wolfhart H., LOTTER, Konrad (eds.), Diccionario de estética, Crítica, Barcelona, 1998
 
 Historia de La pintura. Madrid, Espasa, 2005
 
@@ -71,6 +81,8 @@ PIJOAN, José (dir.) Summa Artis, Historia General del Arte. Madrid, Espasa Calp
 
 RAMÍREZ, Juan Antonio (dir.) Historia Universal del Arte. Madrid: Alianza, 1997, 4 vols
 
+RANCIÈRE, Jacques. El reparto de lo sensible. Estética y política, Buenos Aires, Prometeo, 2014
+
 RUSKIN, John. La naturaleza del gótico, Madrid, Casimiro, 2019
 
 SHINER, L., La invención del Arte, Barcelona, Paidós, 2004
@@ -86,24 +98,10 @@ Trotta, Madrid, 1999
 
 WOOLF, Virginia. Una habitación propia, Madrid, Austral, 2016
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-BARASCH,   M.,   Teorías   del  arte,  Madrid,  Alianza  Editoral,  1999  Madrid,  1984  →  BARASCH,  M.,  Teorías
-del arte, Madrid, Alianza Editoral, 1999
-
-✅ Recursos añadidos:
-------------------------------
-ADORNO, Th. W. Teoría estética, Madrid, Akal, 2004
+BARASCH, M., Teorías del arte, Madrid, Alianza Editoral, 1999
 
 BEARDSLEY, Monroe C., HOSPERS, John, Estética. Historia y fundamentos, Cátedra, Madrid, 1984
 
-CASTRO, S., En teoría es arte: una introducción a la estética, Salamanca, San Esteban, 2005
-
-DICKIE,   G.,   El   círculo   del   arte.  Una  teoría  del  arte,  trad.  por  Sixto  Castro,  Barcelona,  Paidós
-Estética, 2005
-
-HENCKMANN, Wolfhart H., LOTTER, Konrad (eds.), Diccionario de estética, Crítica, Barcelona, 1998
-
-RANCIÈRE, Jacques. El reparto de lo sensible. Estética y política, Buenos Aires, Prometeo, 2014
-
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+https://www.rtve.es/television/20140114/alma-dormida-cristina-garciarodero/848601.shtml
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 AA.   VV.   (   2011).   Contactos.   Los   mejores   fotógrafos   revelan   el   secreto  de  su  profesión.  Dvd
 Intermedia (3 dvds)
@@ -33,6 +33,9 @@ Fontcuberta,   J.   (2009).   Santa   Inocencia   =   Holly   Innocence.  Albarr
 Hedgecoe,   J.   (1982).   Manual   de   técnica  fotográfica.  Guía  completa  de  métodos,  equipos  y  estilos
 fotográficos. Madrid: Blume
 
+Kodak   (1982).   Técnicas   de  positivado  en  blanco  y  negro.  Kodak,  Cuadernos  prácticos  de  fotografía.
+Barcelona: Ed. Folio
+
 Langford, M. (1991). Fotografía básica. Barcelona: OMEGA
 
 Lowe, P. (2017). Maestros de la Fotografía. Técnicas creativas de 100 grandes fotógrafos. Barcelona:
@@ -42,9 +45,15 @@ Mellado, J. M. (2017). Los fundamentos de la fotografía. Madrid: ANAYA
 
 Molina, O. (1981). “Photolatente”. Rev. Photovision, nº 31. Madrid
 
+Momeñe,   E.   (2011)  La  visión  fotográfica.  Curso  de  fotografía  para  jóvenes  fotógrafos  (3  unidades).
+E. Momeñe (autor-editor)
+
 Neshat, S. (2011). Women without men. Catálogo y Dvd. Milán: Charta Edizione
 
 Pradera, A. (1990). El libro de la fotografía. Madrid: Alianza
+
+RTVE.      La      mitad      invisible:      El      alma      dormida.      Cristina     Garcia     Rodero.
+https://www.rtve.es/television/20140114/alma-dormida-cristina-garcia-rodero/848601.shtml
 
 Rivas, R. (2019.). Fotografía con móviles. Visión y técnica fotográfica. Madrid: ANAYA
 
@@ -55,29 +64,17 @@ Sontag, S. (1989). On Photography. Penguin
 Spector,   N.   (1996):   Félix   González   –   Torres.   Santiago   de   Compostela:   Centro  Galego  de  Arte
 Contemporánea
 
+Taylor-Wood, S. (2006). Still Lives. Göttingen: Steidl
+
 Tisseron,   S.   (2000).   El   misterio   de   la   cámara   lúcida.   Fotografía  e  insconciente.  Salamanca:
 Universidad de Salamanca
 
 Vázquez, R. I. (2017). El proyecto fotográfico personal. Madrid: JDEJ Editores
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Momeñe, E. (2011) La visión fotográfica. Curso de fotografía para jóvenes fotógrafos (3 Taylor-Wood,
-S. (2006). Still Lives. Göttingen: Steidl  →  Taylor-Wood, S. (2006). Still Lives. Göttingen: Steidl
-
-✅ Recursos añadidos:
-------------------------------
-Kodak   (1982).   Técnicas   de  positivado  en  blanco  y  negro.  Kodak,  Cuadernos  prácticos  de  fotografía.
-Barcelona: Ed. Folio
-
 Llovet, A. (2020). Las fotos que nunca hice. Autoedición
-
-Momeñe,   E.   (2011)  La  visión  fotográfica.  Curso  de  fotografía  para  jóvenes  fotógrafos  (3  unidades).
-E. Momeñe (autor-editor)
-
-RTVE.      La      mitad      invisible:      El      alma      dormida.      Cristina     Garcia     Rodero.
-https://www.rtve.es/television/20140114/alma-dormida-cristina-garcia-rodero/848601.shtml
 
 Warw C. (2008). Visual Thinking. San Francisco, California: Morgan Kaufmann
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

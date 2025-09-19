@@ -2,11 +2,16 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+MARTÍNEZ   YÁÑEZ,   Celia   (2006).   El   Patrimonio   Cultural:  los  nuevos  valores,  tipos,  finalidades  y
+POULOT, D. (2011) Museos y museología. Madrid, Abada
 
-📚 Recursos sin cambios:
+SANTANA TALAVERA, A. (1997) Antropología y turismo: ¿nuevas hordas, viejas culturas?Barcelona, Ariel
+TILDEN, F. (2006) La interpretación de nuestro patrimonio.Sevilla, Asociación para la interpretación
+del Patrimonio
+
+📚 Recursos sin cambios (46):
 ------------------------------
 AAVV (2003) Antropología y patrimonio: investigación, documentación e intervención. Granada, Comares
 
@@ -101,15 +106,10 @@ LISÓN TOLOSANA, C. (ed.) (2012) Antropología: horizontes patrimoniales. Valenc
 
 LOWENTHAL, D. (1993) El pasado es un país extraño. Madrid, Akal
 
-MARTÍNEZ   YÁÑEZ,   Celia   (2006).   El   Patrimonio   Cultural:  los  nuevos  valores,  tipos,  finalidades  y
-formas de organización.Granada: Universidad de Granada
-
 MORALES   MIRANDA,   J.  (1998)  Guía  práctica  para  la  interpretación  del  Patrimonio:  el  arte  de  acercar
 el legado natural y cultural al público visitante. Sevilla, Junta de Andalucía
 
 NEYRET, R. (ed.): Le patrimoine atout du developpement.Lyon, Presses Universitaires de Lyon, 1992
-
-POULOT, D. (2011) Museos y museología. Madrid, Abada
 
 PRATS, L. (1997) Antropología y patrimonio, Barcelona, Ariel
 
@@ -130,15 +130,16 @@ UNED: 219-241
 
 VV.AA.:Annals of Tourism Research. Special Issue: Heritage and Tourism 23-2, 1996
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
+MARTÍNEZ   YÁÑEZ,   Celia   (2006).   El   Patrimonio   Cultural:  los  nuevos  valores,  tipos,  finalidades  y
+formas de organización.Granada: Universidad de Granada
+
+POULOT, D. (2011) Museos y museología. Madrid, Abada
+
 SANTANA TALAVERA, A. (1997) Antropología y turismo: ¿nuevas hordas, viejas culturas?Barcelona, Ariel
+
 TILDEN, F. (2006) La interpretación de nuestro patrimonio.Sevilla, Asociación para la interpretación
-del   Patrimonio   →   TILDEN,   F.   (2006)   La  interpretación  de  nuestro  patrimonio.Sevilla,  Asociación
-para la interpretación del Patrimonio
+del Patrimonio
 
-✅ Recursos añadidos:
-------------------------------
-SANTANA TALAVERA, A. (1997) Antropología y turismo: ¿nuevas hordas, viejas culturas?Barcelona, Ariel
-
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

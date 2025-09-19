@@ -2,11 +2,20 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Alban        Alentar,        A.       (2007)       Manual       de       oratoria.       Disponible       en
+http://www.eumed.net/libros/2007b/302/indice.htm   Alexieva,   B.   (1997).  “A  typology  of  Interpreter-
+Mediated Events.” The Translator 3, 2, 153-174
 
-📚 Recursos sin cambios:
+Jiménez Ivars, A. (2000). La traducción a la vista. Un análisis descriptivo. Tesis doctoral
+
+Jiménez   Ivars,   A.   (2003).   La   traducción   a   vista.   Un   análisis   descriptivo.   Tesis  doctoral.
+Unviersitat   Jaume   I.   http://www.tdx.cesca.es/TDX-0519103-121513/  Jiménez  Ivars,  A.  (2008).  “Sight
+Translation   and   Written   Translation.  A  Comparative  Analysis  of  Causes  of  Problems,  Strategies  and
+Translation Errors within the PACTE Translation Competence Model.” Forum 6, 2, 79-104
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Agrifoglio,   M.   (2004).   “Sight  translation  and  interpreting:  A  comparative  analysis  of  constraints
 and failures.” Interpreting 6, 1, 43-67
@@ -44,25 +53,18 @@ Interpreters’ Newsletter 6, 33-42
 
 Walter, H. (1998) Le français dans tous les sens. París: Laffont
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Jiménez   Ivars,   A.   (2000).   La   traducción   a   la  vista.  Un  análisis  descriptivo.  Tesis  doctoral  →
+Alban        Alentar,        A.       (2007)       Manual       de       oratoria.       Disponible       en
+http://www.eumed.net/libros/2007b/302/indice.htm
+
+Alexieva, B. (1997). “A typology of Interpreter-Mediated Events.” The Translator 3, 2, 153-174
+
 Jiménez   Ivars,   A.   (2003).   La   traducción   a   vista.   Un   análisis   descriptivo.   Tesis  doctoral.
 Unviersitat Jaume I. http://www.tdx.cesca.es/TDX-0519103-121513/
 
-Jiménez   Ivars,   A.   (2003).   La   traducción   a   vista.   Un   análisis   descriptivo.   Tesis  doctoral.
-Unviersitat   Jiménez   Ivars,   A.   (2008).   “Sight  Translation  and  Written  Translation.  A  Comparative
-Analysis   of   Causes   of   Problems,   Strategies   and  Translation  Errors  within  the  PACTE  Translation
-Competence   Model.”   Forum   6,   2,  79-104  →  Jiménez  Ivars,  A.  (2008).  “Sight  Translation  and  Written
-Translation.   A  Comparative  Analysis  of  Causes  of  Problems,  Strategies  and  Translation  Errors  within
-the PACTE Translation Competence Model.” Forum 6, 2, 79-104
+Jiménez   Ivars,   A.   (2008).   “Sight   Translation  and  Written  Translation.  A  Comparative  Analysis  of
+Causes   of   Problems,   Strategies   and   Translation   Errors   within  the  PACTE  Translation  Competence
+Model.” Forum 6, 2, 79-104
 
-Alban   Alentar,   A.   (2007)   Manual   de   oratoria.  Disponible  en  Alexieva,  B.  (1997).  “A  typology  of
-Interpreter-Mediated   Events.”   The   Translator   3,   2,  153-174  →  Alban  Alentar,  A.  (2007)  Manual  de
-oratoria. Disponible en http://www.eumed.net/libros/2007b/302/indice.htm
-
-✅ Recursos añadidos:
-------------------------------
-Alexieva, B. (1997). “A typology of Interpreter-Mediated Events.” The Translator 3, 2, 153-174
-
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

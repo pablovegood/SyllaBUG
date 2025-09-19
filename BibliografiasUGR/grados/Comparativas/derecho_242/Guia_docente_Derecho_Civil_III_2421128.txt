@@ -2,18 +2,24 @@
 Grado: derecho (242)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
+BERCOVITZ RODRIGUEZ-CANO: Manual de Derecho civil. Derechos reales Ed. Bercal, última edición
+
 DE   PABLO   CONTRERAS:   (Coordinador)   Curso   de  Derecho  civil  III.  Derechos  reales  Ed.  Colex,  última
 edición
 
+DE   VERDA   Y   BEAMONTE  (Coord.):  Derecho  civil  III.  Derechos  reales.  Ed.  Tirant  lo  Blanch.  Valencia,
+última edición
+
 O’CALLAGHAN   MUÑOZ,   X:   Compendio   de   Derecho   civil,  Tomo  III,  Derechos  reales  e  hipotecario,  Ed.
-Universitaria   Ramón   Areces,   Madrid,   última  edición.  PÉREZ  CÁNOVAS:  Derecho  civil  III  Ed.  Técnica
-Avicam, Granada, última edición
+Universitaria Ramón Areces, Madrid, última edición
+
+PÉREZ CÁNOVAS: Derecho civil III Ed. Técnica Avicam, Granada, última edición
 
 SANCHEZ   CALERO   (Coord.):   Curso  de  Derecho  civil  III.  Derechos  reales  y  registral  inmobiliario  Ed.
 Tirant lo Blanch, Valencia, última edición
@@ -24,19 +30,8 @@ Granada, última edición
 Valencia,   última  edición  LASARTE  ALVAREZ  C.  (Coord.):  Principios  de  Derecho  civil,  Tomo  IV  Derechos
 reales, Marcial Pons Ediciones Jurídicas y Sociales, Madrid, última edicicón
 
-información   y   en  la  comunicación  de  datos.  histórica  y  en  su  realidad  actual.  BERCOVITZ  RODRIGUEZ-
-CANO: Manual de Derecho civil. Derechos reales Ed. Bercal, última edición
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-DE   VERDA   Y   BEAMONTE  (Coord.):  Derecho  civil  III.  Derechos  reales.  Ed.  Tirant  lo  Blanch.  Valencia,
-última edición
-
-O’CALLAGHAN   MUÑOZ,   X:   Compendio   de   Derecho   civil,  Tomo  III,  Derechos  reales  e  hipotecario,  Ed.
-Universitaria Ramón Areces, Madrid, última edición
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

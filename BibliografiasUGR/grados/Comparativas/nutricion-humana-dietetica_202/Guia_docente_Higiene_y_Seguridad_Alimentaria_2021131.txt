@@ -2,15 +2,18 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Acribia,1995   FORSYTHE   SJ,   HAYES   PR.   Higiene   de   los   alimentos,  microbiología  y  HACCP,  2.ª  ed.
+Zaragoza. Ed. Acribia, 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 DE LAS CUEVAS INSÚA V. APPCC aplicado a la restauración colectiva. Madrid: Ideas Propias, 2006
 
 ELEY R. Intoxicaciones alimentarias de etiología microbiana. Zaragoza. Ed. Acribia, 1996
+
+FEHLHABER K, JANETSCHKE P. Higiene veterinaria de los alimentos. Zaragoza. Ed. Acribia,1995
 
 FRAZIERWC, WESTHOFF DC. Microbiología de los alimentos. Zaragoza. Ed. Acribia, 2003
 
@@ -21,6 +24,8 @@ LARRAÑAGA   IJ,   CARBALLO  JM,  RODRÍGUEZ  MM,  FERNÁNDEZ  JA.  Control  e  
 Ed. McGraw-Hill, 1999
 
 MARTÍNEZ A, ASTIASARÁN I. Alimentación y salud pública, 2.ª Edición. Madrid. Ed. McGraw-Hill, 2001
+
+MATAIX VERDÚ J. Nutrición y alimentación humana. I Nutrientes y alimentos. Madrid. Ed. Ergón, 2009
 
 MATAS   PABLO   E,   VILA  BRUGALLA  M.  Restauración  colectiva.  APPCC.  Manual  del  usuario.  Barcelona.  Ed.
 Masson-Elsevier, 2006
@@ -44,27 +49,18 @@ Unión   Europea.   Libro   Blanco   sobre   Seguridad   Alimentaria.  Comisión
 Bruselas, 2000
 
 VILLALON   MIR   M.   Tratado   de   Higiene   y   Seguridad  Alimentaria  en  restauración.  Editorial  Técnica
-Avicam. Granada (España) 2016
+Avicam. Granada ( España) 2016 World Health Organization Foodborne disease outbreaks: guidelines for
+investigation and control World Health Organization
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Acribia,1995   FORSYTHE   SJ,   HAYES   PR.   Higiene   de   los  alimentos,  microbiología  y  HACCP,  2.ª  ed  →
 FORSYTHE   SJ,   HAYES   PR.   Higiene   de   los   alimentos,  microbiología  y  HACCP,  2.ª  ed.  Zaragoza.  Ed.
 Acribia, 2002
-
-Zaragoza.   Ed.   Acribia,   2002   →   ICMSF.   Microorganismos   de  los  alimentos.  Características  de  los
-patógenos microbianos. Zaragoza. Ed. Acribia, 1998
-
-✅ Recursos añadidos:
-------------------------------
-FEHLHABER K, JANETSCHKE P. Higiene veterinaria de los alimentos. Zaragoza. Ed. Acribia,1995
 
 J,   DÍAZ   RÍO   JM.   Guía  de  implantación  de  sistemas  de  autocontrol  en  la  restauración  hospitalaria.
 Ministerio de Sanidad y Consumo y Agencia Española de Seguridad Alimentaria. 2003
 
-MATAIX VERDÚ J. Nutrición y alimentación humana. I Nutrientes y alimentos. Madrid. Ed. Ergón, 2009
-
 World   Health   Organization   Foodborne   disease   outbreaks:  guidelines  for  investigation  and  control
 World Health Organization
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

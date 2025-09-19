@@ -2,11 +2,13 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+STONE,   P.,   MacKENZIE,   R.   (Eds.)   (1990):   The  excluded  past.  Archaeology  in  education,  One  World
+Archaeology   17,   Unwin   Hyman,   London   TILDEN,  F.  (2006):  La  interpretación  de  nuestro  patrimonio,
+Asociación para la interpretación del Patrimonio, Sevilla
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 ALONSO   IBÁÑEZ,   M.R.   (1992):   El   patrimonio  histórico.  Destino  público  y  valor  cultural,  Civitas,
 Madrid
@@ -42,16 +44,12 @@ Routledge, London
 SØRENSEN,   M.L.S.,   CARMAN,   J.   (Eds.)  (2009):  Heritage  Studies:  Methods  and  Approaches,  Routledge,
 London
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-STONE,   P.,   MacKENZIE,   R.   (Eds.)   (1990):   The  excluded  past.  Archaeology  in  education,  One  World
-Archaeology   17,   Unwin   Hyman,   London   TILDEN,  F.  (2006):  La  interpretación  de  nuestro  patrimonio,
-Asociación   para   la   interpretación   del  Patrimonio,  Sevilla  →  TILDEN,  F.  (2006):  La  interpretación
-de nuestro patrimonio, Asociación para la interpretación del Patrimonio, Sevilla
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 STONE,   P.,   MacKENZIE,   R.   (Eds.)   (1990):   The  excluded  past.  Archaeology  in  education,  One  World
 Archaeology 17, Unwin Hyman, London
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+TILDEN,   F.   (2006):   La  interpretación  de  nuestro  patrimonio,  Asociación  para  la  interpretación  del
+Patrimonio, Sevilla
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

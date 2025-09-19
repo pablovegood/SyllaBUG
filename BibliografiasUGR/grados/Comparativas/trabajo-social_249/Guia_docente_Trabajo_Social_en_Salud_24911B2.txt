@@ -2,11 +2,17 @@
 Grado: trabajo-social (249)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Colom   Masfret,   D.  (2008).  El  Trabajo  Social  Sanitario.  Atención  primaria  y  atención  especializada.
+Teoría   y   práctica.   Madrid.   Siglo   XXI  Colom  Masfret,  D.  (2011).  El  Trabajo  Social  Sanitario.  Los
+procedimientos, los protocolos y los procesos. Barcelona, España: Editorial UOC
 
-📚 Recursos sin cambios:
+Ituarte   Tellaeche,   A.   (coord.)  (2017).  Práticas  de  Trabajo  Social  Clínico.  Ed.  Nau  Llibres  Keefe,
+R.H.   y   Jurkowski,   E.T.   (eds.).   (2013).   Handbook  for  Public  Health  Social  Work.  The  Social  Work
+Section of American Public Health Association. New York: Springer Publishing Company
+
+📚 Recursos sin cambios (22):
 ------------------------------
 Abreu   Velázquez,  M.C.  y  Mahtani,  V.(2018).  Las  funciones  de  los  trabajadores  sociales  sanitarios  en
 atención   primaria   de   salud:   evolución,  redefinición  y  desafíos  del  rol  profesional.  Cuadernos  de
@@ -64,6 +70,12 @@ y sugerencias. La Coruña: Netbiblo
 Hidalgo   Lavié,   A.  (coord.).  (2012).  Salud  Pública,  Dependencia  y  Trabajo  Social.  Madrid:  Ediciones
 Académicas
 
+Hidalgo   Lavié,   A.   y   Lima   Fernández,   A.   (2017).  Trabajo  Social  Sociosanitario.  Claves  de  Salud
+Pública, Dependencia y Trabajo Social. UNED Ediciones Académicas
+
+Idareta   Goldaracena,   F.   (2018).  Trabajo  Social  Psiquiátrico:  reivindicación  ética  de  la  dimensión
+social en salud mental. Valencia: Nau Llibres
+
 McCoyd,   J.L.M.   y   Kerson,   T.S.   (2016).   Social   Work   in  Health  Settings  Practice  in  Context  (4º
 edition). New York: Routledge Taylor & Francis Group
 
@@ -77,26 +89,17 @@ Moreno Vida, M.N. y Díaz Aznarte, M.T. (dirs.) y Gijón Sánchez, M.T. (coord.)
 social   de   la   salud   en  el  marco  del  Estado  del  Bienestar.  Una  visión  nacional  y  europea.  Granada:
 Comares
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Hidalgo   Lavié,   A.   y   Lima   Fernández,   A.   (2017).  Trabajo  Social  Sociosanitario.  Claves  de  Salud
-Pública,   Dependencia  y  Trabajo  Social.  UNED  Ediciones  Académicas.  dimensión  social  en  salud  mental.
-Valencia:   Nau   Llibres   →   Hidalgo  Lavié,  A.  (coord.).  (2012).  Salud  Pública,  Dependencia  y  Trabajo
-Social. Madrid: Ediciones Académicas
+Trabajo   Social   y   Salud   Agathos:   Atención   Sociosanitaria  y  Bienestar  Alternativas:  Cuadernos  de
+Trabajo Social Cuadernos de Trabajo Social Trabajo Social Global Acciones e Investigaciones Sociales
+Azarbe:   Revista   Internacional   de  Trabajo  Social  y  Bienestar  Comunitaria:  Revista  Internacional  de
+Trabajo Social y Ciencias Sociales Documentación Social Documentos de Trabajo Social Margen: Revista
+de trabajo social y ciencias sociales Zerbitzuan. Revista de Servicios Sociales Revista de Servicios
+Sociales   y   Política   Social   Revista  Trabajo  Social  Difusión  RTS.  Revista  de  Trabajo  Social  Gaceta
+Sanitaria Revista Española de Salud Pública Health and Social Work Social Work in Health Care Social
+Work   in   Public  Health  Clinical  Social  Work  Journal  Journal  of  Evidence-Based  Social  Work  Evidence-
+Based Practice for Social Work Evidence-Based Practice
 
-Ituarte   Tellaeche,   A.   (coord.)  (2017).  Práticas  de  Trabajo  Social  Clínico.  Ed.  Nau  Llibres  Keefe,
-R.H.   y   Jurkowski,   E.T.   (eds.).   (2013).   Handbook  for  Public  Health  Social  Work.  The  Social  Work
-Section   of   American  Public  Health  Association.  New  York:  Springer  Publishing  Company  →  Keefe,  R.H.
-y Jurkowski, E.T. (eds.). (2013). Handbook for Public Health Social Work. The Social Work Section of
-American Public Health Association. New York: Springer Publishing Company
-
-Colom   Masfret,   D.  (2008).  El  Trabajo  Social  Sanitario.  Atención  primaria  y  atención  especializada.
-Teoría   y   práctica.   Madrid.   Siglo   XXI  Colom  Masfret,  D.  (2011).  El  Trabajo  Social  Sanitario.  Los
-procedimientos,   los   protocolos   y   los  procesos.  Barcelona,  España:  Editorial  UOC  →  Colom  Masfret,
-D.   (2011).   El   Trabajo   Social   Sanitario.   Los   procedimientos,   los   protocolos   y  los  procesos.
-Barcelona, España: Editorial UOC
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (29):
 ------------------------------
 Acciones e Investigaciones Sociales
 
@@ -111,6 +114,9 @@ Clinical Social Work Journal
 Colom   Masfret,   D.  (2008).  El  Trabajo  Social  Sanitario.  Atención  primaria  y  atención  especializada.
 Teoría y práctica. Madrid. Siglo XXI
 
+Colom   Masfret,   D.   (2011).   El   Trabajo  Social  Sanitario.  Los  procedimientos,  los  protocolos  y  los
+procesos. Barcelona, España: Editorial UOC
+
 Comunitaria: Revista Internacional de Trabajo Social y Ciencias Sociales
 
 Cuadernos de Trabajo Social
@@ -120,8 +126,6 @@ Documentación Social
 Documentos de Trabajo Social
 
 Evidence-Based Practice
-
-Evidence-Based Practice for Social Work
 
 Gaceta Sanitaria
 
@@ -136,15 +140,12 @@ Alternativas. Cuadernos de Trabajo Social, 31(2), 237-259. https://doi.org/10.14
 
 Health and Social Work
 
-Hidalgo   Lavié,   A.   y   Lima   Fernández,   A.   (2017).  Trabajo  Social  Sociosanitario.  Claves  de  Salud
-Pública, Dependencia y Trabajo Social. UNED Ediciones Académicas
-
-Idareta   Goldaracena,   F.   (2018).  Trabajo  Social  Psiquiátrico:  reivindicación  ética  de  la  dimensión
-social en salud mental. Valencia: Nau Llibres
-
 Ituarte Tellaeche, A. (coord.) (2017). Práticas de Trabajo Social Clínico. Ed. Nau Llibres
 
 Journal of Evidence-Based Social Work
+
+Keefe,   R.H.   y   Jurkowski,   E.T.  (eds.).  (2013).  Handbook  for  Public  Health  Social  Work.  The  Social
+Work Section of American Public Health Association. New York: Springer Publishing Company
 
 Margen: Revista de trabajo social y ciencias sociales
 
@@ -166,4 +167,4 @@ Trabajo Social y Salud
 
 Zerbitzuan. Revista de Servicios Sociales
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 60% [██████░░░░]

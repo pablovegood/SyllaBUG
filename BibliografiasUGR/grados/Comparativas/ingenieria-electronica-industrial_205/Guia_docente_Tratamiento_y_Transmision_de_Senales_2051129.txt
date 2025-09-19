@@ -2,11 +2,13 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Prentice-Hall, 2001 [Proakis, 2001]J.G. Proakis , “Digital Communications, 4ª Ed.”. McGraw-Hill,2001
+[Haykin, 1988] S. Haykin, “Digital Communications”. Willey & Sons, 1988 [Gorriz, 2023] JM Górriz. On
+the Fibonacci Sequence and the Linear Time Invariant Systems. arXiv:2306.05293
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 [Carlson,   2002]   Carlson,   A.B.   and   Crilly,   P.B.   and  Rutledge,  J.C.  ''Communication  Systems.  An
 Introduction to Signals and Noise in Electrical Communication'', 4th Edition. McGraw-Hill, (2002)
@@ -26,32 +28,22 @@ Processing, Prentice Hall, 1999
 
 [Oppenheim 1998] Oppenheim, Alan.V., Willsky, Alan S.: Señales y sistemas, Pearson Education, 1998
 
+[Proakis   1996]   Proakis,   John   G.,   Manolakis,  Dimitris  G.:  Digital  Signal  Processing:  Principles,
+algorithms and applications, Prentice Hall, 1995
+
 [Proakis   2002]   Proakis,   J.G.,   Rader,  C.  M.,  Ling,  F.,  Nikias,  C.  L.,  Moonen,  M.,  Proudler,  I.K.:
 Algorithms for statistical signal processing, Prentice-Hall, 2002
 
 [Sklar,   2001],   B.  Sklar,  “Digital  Communications:  Fundamentals  and  applications,  2ª  Ed”.  Prentice-
 Hall, 2001
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Principles,   algorithms   and   applications,   Prentice   Hall,  1995  →  [Proakis  1996]  Proakis,  John  G.,
-Manolakis, Dimitris G.: Digital Signal Processing: Principles, algorithms and applications, Prentice
-Hall, 1995
-
-Prentice-Hall, 2001 [Proakis, 2001]J.G. Proakis , “Digital Communications, 4ª Ed.”. McGraw-Hill,2001
-[Haykin, 1988] S. Haykin, “Digital Communications”. Willey & Sons, 1988 [Gorriz, 2023] JM Górriz. On
-the   Fibonacci  Sequence  and  the  Linear  Time  Invariant  Systems.  arXiv:2306.05293.  personal  del  alumno
-→   [Gorriz,   2023]   JM   Górriz.   On   the   Fibonacci   Sequence  and  the  Linear  Time  Invariant  Systems.
+[Gorriz,   2023]   JM   Górriz.   On   the   Fibonacci   Sequence   and   the   Linear  Time  Invariant  Systems.
 arXiv:2306.05293
 
-[Proakis   1996]   Proakis,   John   G.,   Manolakis,   Dimitris   G.:  Digital  Signal  Processing  →  [Proakis
-1996]   Proakis,   John   G.,  Manolakis,  Dimitris  G.:  Digital  Signal  Processing:  Principles,  algorithms
-and applications, Prentice Hall, 1995
-
-✅ Recursos añadidos:
-------------------------------
 [Haykin, 1988] S. Haykin, “Digital Communications”. Willey & Sons, 1988
 
 [Proakis, 2001]J.G. Proakis, “Digital Communications, 4ª Ed.”. McGraw-Hill,2001
 
-📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

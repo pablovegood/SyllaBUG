@@ -2,13 +2,16 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
-De la Calle, M.C. y Ortiz, M. (2018): Fundamentos de Recursos Humanos, Pearson, Madrid, 3ª ed
+Ariza Montes, J.A. y Morales Fernández, E.J. (2014). Gestión estratégica de personas y competencias.
+Mc Graw Hill, 1ª edición
+
+De la Calle , M.C. y Ortiz, M. (2018): Fundamentos de Recursos Humanos, Pearson, Madrid, 3ª ed
 
 Dolan,   S.,   Valle,   R.   y  López,  A.  (2014):  La  gestión  de  personas  y  del  talento:  la  gestión  de  los
 recursos humanos en el S. XXI, McGraw-Hill, Madrid
@@ -19,13 +22,8 @@ Valle, R. (Coord) (2003) La gestión estratégica de los recursos humanos, Prent
 
 Werther, W. y Davis J. (2014): Administración de Recursos Humanos, 7ª Edición, McGraw-Hill, Méjico
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Ariza Montes, J.A. y Morales Fernández, E.J. (2014). Gestión estratégica de personas y competencias.
-Mc Graw Hill, 1ª edición
-
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

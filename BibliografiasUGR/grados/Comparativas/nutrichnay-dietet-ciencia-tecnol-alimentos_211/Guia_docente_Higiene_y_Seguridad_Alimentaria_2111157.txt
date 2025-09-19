@@ -2,11 +2,11 @@
 Grado: nutrichnay-dietet-ciencia-tecnol-alimentos (211)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 ASQ Food Drug and Comestic División (2003). HACCP. Manual del auditor de calidad. Editorial Acribia
 
@@ -48,14 +48,12 @@ residuales de las industrias agroalimentarias. Ed. Mundi-Prensa, Madrid, España
 Serra Majem, L., Aranceta Bartrina, J. (2006). Nutrición y Salud Pública. Métodos, bases científicas
 y aplicaciones. Mason- Elsevier. 2ª ed. Barcelona
 
-Wildbrett, G. (2000). Limpieza y desinfección en la industria alimentaria. Ed. Acribia. Zaragoza
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Wallace, C.; Mortimore, S. (2018). HACCP. Enfoque práctico. Editorial Acribia
 
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+Wildbrett, G. (2000). Limpieza y desinfección en la industria alimentaria. Ed. Acribia. Zaragoza
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

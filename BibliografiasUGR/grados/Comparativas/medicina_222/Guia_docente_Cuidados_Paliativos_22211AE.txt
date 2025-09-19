@@ -2,21 +2,13 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ley   Andaluza   2/2010,   de   8   de   abril,  de  Derechos  y  Garantías  de  la  Dignidad  de  la  Persona  en  el
+Proceso   de   la   Muerte   -Ley   Andaluza   5/2003,   de   9  de  octubre,  de  declaración  de  voluntad  vital
+anticipada
 
-📚 Recursos sin cambios:
-------------------------------
-Gómez-Batiste   Alentorn,   X.,   Roca   Casas,   J.,   Pladevall  Casellas,  C.,  Gorchs  Font,  N.,  Guinovart
-Garriga,   C.  Atención  Domiciliaria,  Monografías  Clínicas  en  Atención  Primaria.  Ed.  DOYMA,  Barcelona,
-R M López y N Maymo (Editores), 1991: 131-149
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (15):
 ------------------------------
 Astudillo   et   al.   Paliativos   sin   fronteras.   Como   ayudar   al   enfermo  en  situacion  terminal.  Ed
 Paliativos sin Fronteras.2017
@@ -33,12 +25,11 @@ Consejería de Salud. Proceso Asistencial Integrado: Cuidados Paliativos. Junta 
 Gonzalez   Otero   Joaquin.  Cuidados  Paliativos.  Recomendaciones  terapeuticas.  Ed  Medica  Panamericana.
 2014
 
+Gómez-Batiste   Alentorn,   X.,   Roca   Casas,   J.,   Pladevall  Casellas,  C.,  Gorchs  Font,  N.,  Guinovart
+Garriga,   C.  Atención  Domiciliaria,  Monografías  Clínicas  en  Atención  Primaria.  Ed.  DOYMA,  Barcelona,
+R M López y N Maymo (Editores), 1991: 131-149
+
 Gómez-Sancho, M., Ojeda Martin. Cuidados Paliativos. Control de síntomas. 2003
-
-Ley   Andaluza   2/2010,   de   8   de   abril,  de  Derechos  y  Garantías  de  la  Dignidad  de  la  Persona  en  el
-Proceso de la Muerte
-
-Ley Andaluza 5/2003, de 9 de octubre, de declaración de voluntad vital anticipada
 
 Medicina Paliativa y Cuidados Continuos. Univ Chile. 2010
 
@@ -57,4 +48,11 @@ Sanz Ortiz, J. La comunicación en Medicina Paliativa (Editorial) Medicina Clín
 
 Sociedad Española de Cuidados Paliativos (SECPAL). Guía de Cuidados Paliativos. SECPAL, 2010
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Ley   Andaluza   2/2010,   de   8   de   abril,  de  Derechos  y  Garantías  de  la  Dignidad  de  la  Persona  en  el
+Proceso de la Muerte
+
+Ley Andaluza 5/2003, de 9 de octubre, de declaración de voluntad vital anticipada
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

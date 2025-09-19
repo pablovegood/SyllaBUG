@@ -2,11 +2,11 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 Auerbach, E., Mimesis. La representación de la realidad en la literatura occidental, México, 1979
 
@@ -17,6 +17,10 @@ Canfora,L., Ideologías de los estudios clásicos, Madrid, 1991
 Curtius, E.R., Literatura europea y Edad Media Latina, 2 vols. México. Madrid, 1955
 
 Finley, M.I., El legado de Grecia. Una nueva valoración, Barcelona, 1983
+
+Frenzel. E., Diccionario de argumentos de la literatura universal, Madrid, 1979
+
+Frenzel. E., Diccionario de motivos de la literatura universal, Madrid, 1980
 
 Gallardo López, M. D., Manual de mitología clásica, Madrid, 1995
 
@@ -36,17 +40,9 @@ Madrid, 1995
 Signes   Codoñer   et  al.  (coord.),  Antiquae  lectiones.  El  legado  clásico  desde  la  antigüedad  hasta  la
 Revolución Francesa, Madrid, 2005
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Frenzel.   E.,  Diccionario  de  argumentos  de  la  literatura  universal,  Madrid,  1979.  id.  Diccionario  de
-motivos   de   la   literatura   universal,   Madrid,  1980  →  Frenzel.  E.,  Diccionario  de  argumentos  de  la
-literatura universal, Madrid, 1979
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Butler, S. (ed.), Deep Classics: Rethinking Classical Reception, London, 2016
-
-Frenzel. E., Diccionario de motivos de la literatura universal, Madrid, 1980
 
 Hardwick, L; Stray, C. (ed.), A Companion to Classical Receptions, London, 2007
 
@@ -57,4 +53,4 @@ Martindale, C.; Thomas, R. F., Classics and the Uses of Reception, London, 2006
 Moog-Grünewald,   M.   (ed.),  Mythenrezeption.  Die  antike  Mythologie  in  Literatur,  Musik  und  Kunst  von
 den Anfängen bis zur Gegenwart, Heidelberg, 2008
 
-📊 Porcentaje estimado de cambio: 53% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

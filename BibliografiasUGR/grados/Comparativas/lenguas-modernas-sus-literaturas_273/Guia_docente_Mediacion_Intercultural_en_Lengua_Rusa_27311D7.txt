@@ -2,8 +2,14 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (8):
 ------------------------------
+Carreras   i  Goicoechea,  María;  Pérez  Vázquez,  M.  Enriqueta,  La  mediación  lingüística  y  cultural  y  su
+didáctica.   Un   nuevo  reto  para  la  universidad  ,,  Bolonia  University  Press,  De  Arriba  García,  Clara;
+Cantero   Serena,  Francisco  José,  La  mediación  lingüística  en  la  enseñanza  de  lenguas,  Universidad  de
+Barcelona, en Didáctica (lengua y literatura), 2004, vol. 116, 9-21 Derrida J. Speech and phenomena.
+- Evanston, 1973
+
 Eco U. A theory of semiotics. - Bloomington etc., 1976
 
 Eco   U.,   Sebeok   T.A.   (eds.).  The  sign  of  three.  Dupin,  Holmes,  Peirce.  -  Bloomington  etc.,  García
@@ -20,7 +26,7 @@ Vezhbitskaya, A. Yazyk. Kultura. Poznanie. Moscú. 1996
 
 Wierzbicka, Anna. Semantics, Culture, and Cognition. – Oxford University Press, 1992
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 Eco,   U.   (1979).   The  role  of  the  reader:  Explorations  in  the  semiotics  of  texts  .  Bloomington,  IN:
 Indiana University Press
@@ -30,19 +36,13 @@ Eco, U. (1986). Art and beauty in the Middle Ages . New Haven, CT: Yale Universi
 Mejnartowicz,   A.   (2007).  Mediación  lingüística  y  cultural  en  los  servicios  personales  .  Barcelona:
 Universidad de Barcelona, Asociación Ibérica de Estudios de Traducción e Interpretación
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Carreras   i  Goicoechea,  María;  Pérez  Vázquez,  M.  Enriqueta,  La  mediación  lingüística  y  cultural  y  su
-didáctica.   Un   nuevo  reto  para  la  universidad  ,,  Bolonia  University  Press,  De  Arriba  García,  Clara;
-Cantero   Serena,  Francisco  José,  La  mediación  lingüística  en  la  enseñanza  de  lenguas,  Universidad  de
-Barcelona, en Didáctica (lengua y literatura), 2004, vol. 116, 9-21 Derrida J. Speech and phenomena.
--   Evanston,   1973   →  De  Arriba  García,  C.,  &  Cantero  Serena,  F.  J.  (2004).  La  mediación  lingüística
-en la enseñanza de lenguas. Didáctica (Lengua y Literatura), 116, 9–21. Universidad de Barcelona
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (12):
 ------------------------------
 Carreras   i   Goicoechea,  M.,  &  Pérez  Vázquez,  M.  E.  (2009).  La  mediación  lingüística  y  cultural  y  su
 didáctica: Un nuevo reto para la universidad . Bolonia: Bolonia University Press
+
+De   Arriba   García,   C.,  &  Cantero  Serena,  F.  J.  (2004).  La  mediación  lingüística  en  la  enseñanza  de
+lenguas. Didáctica (Lengua y Literatura), 116, 9–21. Universidad de Barcelona
 
 Derrida, J. (1973). Speech and phenomena . Evanston, IL: Northwestern University Press
 

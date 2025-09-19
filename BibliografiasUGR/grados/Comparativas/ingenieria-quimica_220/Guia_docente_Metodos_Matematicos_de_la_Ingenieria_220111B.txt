@@ -2,11 +2,11 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 Bradley, G. L. y Smith, K. J.: Cálculo de varias variables (Tomo 2). Prentice-Hall, 1998
 
@@ -19,7 +19,9 @@ Dunod, 1978
 
 Pita Ruiz, C.: Cálculo vectorial. Prentice-Hall Hispanoamericana, 1995
 
-Spivak, M.: Calculus. Cálculo Infinitesimal (Tomo II y suplemento). Reverté. Barcelona, 1970-74
+Spivak , M.: Calculus. Cálculo Infinitesimal (Tomo II y suplemento). Reverté. Barcelona, 1970-74
+
+Spivak , M.: Calculus. Cálculo Infinitesimal (Tomos I, II y suplemento) Reverté. Barcelona, 1970-74
 
 Stewart, J.: Cálculo diferencial e integral. Internacional Thomson Editores, 1998
 
@@ -38,12 +40,8 @@ variables. Colección Paso a Paso. Thomson, 2007
 Valderrama   Bonnet,   M.   J.:   Métodos  matemáticos  aplicados  a  las  ciencias  experimentales.  Pirámide,
 1989
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Spivak, M.: Calculus. Cálculo Infinitesimal (Tomos I, II y suplemento) Reverté. Barcelona, 1970-74
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

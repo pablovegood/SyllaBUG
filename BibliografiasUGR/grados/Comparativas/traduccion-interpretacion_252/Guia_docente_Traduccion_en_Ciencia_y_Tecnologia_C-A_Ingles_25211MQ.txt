@@ -2,23 +2,27 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
+<http://ecolexicon.ugr.es/visual/index_en.html> IATE [Inter-Active Terminology for Europe]
+
 Alcina   Caudet,   M.   A.   y  Gamero  Pérez,  S.  (eds.)  (2002).  La  traducción  científico-técnica  y  la
 terminología en la sociedad de la información. Alicante: Publicacions de la Universitat Jaume I
 
 Beigbeder   Fernández-Puente,   José   Miguel   y   Beigbeder   Atienza,   Federico   (2009).   Diccionario
 politécnico   de   las   lenguas   española   e  inglesa  /  Polytechnic  dictionary  of  Spanish  and  English
-languages. Madrid: Díaz de Santos
+languages . Madrid: Díaz de Santos
 
 Bueno García, A. (2001). Publicidad y traducción. Soria: Diputación Provincial de Soria
 
 Cortés   Gabaudan,   Francisco   (coord.).   Dicciomed:   Diccionario   médico-biológico,   histórico  y
-etimológico. Universidad de Salamanca
+etimológico. Universidad de Salamanca. Cosnautas
+
+EcoLexicon (Terminological Knowledge Base on the Environment)
 
 Gamero Pérez, Silvia (2001). La traducción de textos técnicos. Barcelona: Ariel
 
@@ -41,13 +45,17 @@ McGraw-Hill e Interamericana
 Puerta   López-Cózar,   José   Luis   y   Mauri   Más,   Assumpta   (1995).   Manual   para  la  redacción,
 traducción y publicación de textos médicos . Barcelona: Mason
 
+RECURSOS   LEXICOGRÁFICOS   Y  TERMINOGRÁFICOS:  Beigbeder  Fernández-Puente,  José  Miguel  y  Beigbeder
+Atienza, Federico (2009)
+
 Real Academia Nacional de Medicina (2011). Diccionario de términos médicos. Madrid: Panamericana
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Translation Practices explained. Manchester: St. Jerome Publishing
 
-✅ Recursos añadidos:
+Tremédica   (Asociación   Internacional   de  Traductores  y  Redactores  de  Medicina  y  Ciencias  Afines).
+Panace@ Varimed (Recurso sobre variación denominativa en Medicina)
+
+✅ Recursos añadidos (17):
 ------------------------------
 <http://ecolexicon.ugr.es/visual/index_en.html>
 
@@ -56,14 +64,12 @@ terminología en la sociedad de la información . Alicante: Publicacions de la
 
 Beigbeder   Fernández-Puente,   José   Miguel   y   Beigbeder   Atienza,   Federico   (2009).   Diccionario
 politécnico   de   las   lenguas   española   e  inglesa  /  Polytechnic  dictionary  of  Spanish  and  English
-languages . Madrid: Díaz de Santos
+languages. Madrid: Díaz de Santos
 
 Bueno García, A. (2001). Publicidad y traducción . Soria: Diputación Provincial de Soria
 
 Cortés   Gabaudan,   Francisco   (coord.).   Dicciomed:   Diccionario   médico-biológico,   histórico  y
-etimológico . Universidad de Salamanca
-
-EcoLexicon (Terminological Knowledge Base on the Environment)
+etimológico. Universidad de Salamanca
 
 EcoLexicon         (Terminological         Knowledge        Base        on        the        Environment).
 <http://ecolexicon.ugr.es/visual/index_en.html>
@@ -72,8 +78,6 @@ Gamero Pérez, Silvia (2001). La traducción de textos técnicos . Barcelona:
 
 Gutiérrez   Rodilla,   Bertha   (1998).   La   ciencia   empieza   en  la  palabra.  Análisis  e  historia  del
 lenguaje científico . Barcelona: Ediciones Península
-
-IATE [Inter-Active Terminology for Europe]
 
 Jiménez Serrano, Óscar (2002). La traducción técnica (inglés-español) . Granada: Comares
 
@@ -92,17 +96,10 @@ McGraw-Hill e Interamericana
 Puerta   López-Cózar,   José   Luis   y   Mauri   Más,   Assumpta   (1995).   Manual   para  la  redacción,
 traducción y
 
-RECURSOS LEXICOGRÁFICOS Y TERMINOGRÁFICOS
-
 Real Academia Nacional de Medicina (2011). Diccionario de términos médicos . Madrid: Panamericana
-
-Translation Practices explained. Manchester: St. Jerome Publishing
-
-Tremédica   (Asociación   Internacional   de  Traductores  y  Redactores  de  Medicina  y  Ciencias  Afines).
-Panace@
 
 Varimed (Recurso sobre variación denominativa en Medicina)
 
 publicación de textos médicos. Barcelona: Mason
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 48% [████░░░░░░]

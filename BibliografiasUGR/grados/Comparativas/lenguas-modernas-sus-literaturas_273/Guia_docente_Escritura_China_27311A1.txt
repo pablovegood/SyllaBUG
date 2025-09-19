@@ -2,18 +2,7 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Billeter, Jean François, L art chinois de l ecriture, Skira,1989. Cervera, Isabel, Arte y Cultura en
-China. Conceptos, materiales y términos, Ediciones del Serbal, Barcelona
-
-VV.AA. Introduction a la calligraphie chinoise, Editions du centenaire, Paris 1983
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Chiang   Yee,  Chinese  calligraphy.  An  introduction  to  its  aesthetic  and  technique,  Harvard  University
 Press,   1973.   Ping   Chen,  Modern  Chinese.  History  and  sociolinguistics.  Cambridge  University  Press.
@@ -22,12 +11,21 @@ Binyong,   Modern   Chinese   Characters,  Sinolingua,  Beijing,  1994  Gao,  Mo
 introduction,   Oxford   University   Press,   2000   Gelb,   Ignace  J.,  Historia  de  la  escritura,  Alianza
 Editorial,1952   Goody,   Jack,   La   lógica   de  la  escritura  y  la  organización  de  la  sociedad,  Alianza
 editorial,   Madrid   Li   Xiuqin,   Évolution  de  l`é?criture  chinoise,  Shangwu  Yinshuguan,  Beijing  1990
-VV.AA.    Chinese    Characters,   Foreign   languages   Press,   Beijing,   1989   →   Chiang   Yee,   Chinese
-calligraphy.   An   introduction   to  its  aesthetic  and  technique,  Harvard  University  Press,  1973.  Ping
-Chen, Modern Chinese. History and sociolinguistics. Cambridge University Press. 1999
+VV.AA. Chinese Characters, Foreign languages Press, Beijing, 1989
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (2):
 ------------------------------
+Billeter, Jean François, L art chinois de l ecriture, Skira,1989. Cervera, Isabel, Arte y Cultura en
+China. Conceptos, materiales y términos, Ediciones del Serbal, Barcelona
+
+VV.AA. Introduction a la calligraphie chinoise, Editions du centenaire, Paris 1983
+
+✅ Recursos añadidos (7):
+------------------------------
+Chiang   Yee,  Chinese  calligraphy.  An  introduction  to  its  aesthetic  and  technique,  Harvard  University
+Press,   1973.   Ping   Chen,  Modern  Chinese.  History  and  sociolinguistics.  Cambridge  University  Press.
+1999
+
 Gao, Mobo C.F., Mandarin Chinese An introduction, Oxford University Press, 2000
 
 Gelb, Ignace J., Historia de la escritura, Alianza Editorial,1952
@@ -42,4 +40,4 @@ Binyong, Modern Chinese Characters, Sinolingua, Beijing, 1994
 
 VV.AA. Chinese Characters, Foreign languages Press, Beijing, 1989
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 88% [████████░░]

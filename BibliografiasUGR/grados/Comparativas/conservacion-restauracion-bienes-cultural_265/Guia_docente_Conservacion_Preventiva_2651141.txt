@@ -2,11 +2,26 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+FERNANDEZ,   Ch.;   ARECHAVALA,   F.;   MUÑOZ-CAMPOS,   P.;   DE  TAPOL,  B.;  2008;  Conservación  preventiva.
+Exposiciones   Temporales,   procedimientos.   Ed.   Grupo   Español   del   IIC.   GARCÍA.   I.M.;   1999.  La
+conservación    preventiva   y   exposición   de   objetos   y   obras   de   arte.   Ed.   KR.   ROTAECHE,   M.;
+2007;Transporte,   depósito   y  manipulación  de  obras  de  arte.  Ed.  Sintesis.  VAILLANT,  M;  DOMÉNECH,  T;
+VALENTIN,   N   ;   2003   ;   Una   mirada   hacia  la  conservación  preventiva  del  patrimonio  cultural.  Ed.
+Universidad Politécnica de Valencia
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
+------------------------------
+AAVV: Criterios para la elaboración del Plan Museológico. 2005; Ministerio de Cultura
+
+AAVV: Exposiciones temporales. Organización, gestión, coordinación 2006; Ministerio de Cultura
+
+AAVV: Guía para un plan de protección de colecciones ante emergencias. 2009; Ministerio de Cultura
+
+Otros en: http://www.re-org.info/es/bibliografia/lecturas-adicionales
+
+✅ Recursos añadidos (4):
 ------------------------------
 FERNANDEZ,   Ch.;   ARECHAVALA,   F.;   MUÑOZ-CAMPOS,   P.;   DE  TAPOL,  B.;  2008;  Conservación  preventiva.
 Exposiciones Temporales, procedimientos. Ed. Grupo Español del IIC
@@ -15,24 +30,7 @@ GARCÍA. I.M.; 1999. La conservación preventiva y exposición de objetos y obra
 
 ROTAECHE, M.; 2007;Transporte, depósito y manipulación de obras de arte. Ed. Sintesis
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-VAILLANT,   M;   DOMÉNECH,   T;   VALENTIN,   N   ;  2003  ;  Una  mirada  hacia  la  conservación  preventiva  del
-patrimonio cultural. Ed. Universidad Politécnica de Valencia AAVV: Criterios para la elaboración del
-Plan   Museológico.  2005;  Ministerio  de  Cultura  AAVV:  Exposiciones  temporales.  Organización,  gestión,
-coordinación   2006;   Ministerio  de  Cultura  AAVV:  Guía  para  un  plan  de  protección  de  colecciones  ante
-emergencias.   2009;   Ministerio   de   Cultura  →  AAVV:  Exposiciones  temporales.  Organización,  gestión,
-coordinación 2006; Ministerio de Cultura
-
-✅ Recursos añadidos:
-------------------------------
-AAVV: Criterios para la elaboración del Plan Museológico. 2005; Ministerio de Cultura
-
-AAVV: Guía para un plan de protección de colecciones ante emergencias. 2009; Ministerio de Cultura
-
-Otros en: http://www.re-org.info/es/bibliografia/lecturas-adicionales
-
 VAILLANT,   M;   DOMÉNECH,   T;   VALENTIN,   N   ;  2003  ;  Una  mirada  hacia  la  conservación  preventiva  del
 patrimonio cultural. Ed. Universidad Politécnica de Valencia
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

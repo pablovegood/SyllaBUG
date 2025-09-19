@@ -2,11 +2,11 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 ALONSO   IBÁÑEZ,   M.R.   (1992):   El   patrimonio  histórico.  Destino  público  y  valor  cultural,  Civitas,
 Madrid
@@ -39,19 +39,17 @@ SMITH, L. (2006): Uses of Heritage, Routledge, Oxford
 STONE,   P.,   MOLYNEAUX,   B.   (Eds.)   (1994):   The   Presented   Past:  heritage,  museums  and  education,
 Routledge, London
 
-SØRENSEN,   M.L.S.,   CARMAN,   J.   (Eds.)  (2009):  Heritage  Studies:  Methods  and  Approaches,  Routledge,
-London
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-STONE,   P.,   MacKENZIE,   R.   (Eds.)   (1990):   The  excluded  past.  Archaeology  in  education,  One  World
-Archaeology   17,   Unwin   Hyman,   London   TILDEN,  F.  (2006):  La  interpretación  de  nuestro  patrimonio,
-Asociación   para   la   interpretación   del  Patrimonio,  Sevilla  →  TILDEN,  F.  (2006):  La  interpretación
-de nuestro patrimonio, Asociación para la interpretación del Patrimonio, Sevilla
-
-✅ Recursos añadidos:
-------------------------------
 STONE,   P.,   MacKENZIE,   R.   (Eds.)   (1990):   The  excluded  past.  Archaeology  in  education,  One  World
 Archaeology 17, Unwin Hyman, London
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+SØRENSEN,   M.L.S.,   CARMAN,   J.   (Eds.)  (2009):  Heritage  Studies:  Methods  and  Approaches,  Routledge,
+London
+
+TILDEN,   F.   (2006):   La  interpretación  de  nuestro  patrimonio,  Asociación  para  la  interpretación  del
+Patrimonio, Sevilla
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

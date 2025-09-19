@@ -2,12 +2,15 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (39):
 ------------------------------
+Accesible   en  www.elcobre.com  Fernández,  J.  Climatización:  Cálculo  e  instalaciones.  Barcelona:  CEAC,
+1980
+
 Arizmendi,   J.L.   Cálculo   y   normativa   básica   de   las   instalaciones   en  los  edificios  (3  tomos).
 Pamplona: EUNSA, 1995
 
@@ -27,6 +30,9 @@ Paraninfo, 2020
 Catalana   de   gas   y   electricidad,   SA.   Manual   de  gas:  Aplicaciones  en  la  Edificación.  Barcelona:
 Catalana de gas y electricidad, SA., 1982
 
+Centro   Español  de  Información  del  Cobre  (CEDIC).  Manual  de  tubo  y  accesorios  de  cobre.  Accesible  en
+www.elcobre.com
+
 Código   Técnico   de   la   Edificación.   Documentos   básicos  HE0,  HE1,  HE-2  y  HE-5;  HS-4  y  HS-5.  (Real
 Decreto 314/2006 de 17 de marzo)
 
@@ -35,7 +41,8 @@ Diversos autores. Curso sobre edificios inteligentes. Madrid: COAM, 1989
 Fernández   Salgado,  José  Mª.  Guía  completa  de  la  energía  solar  térmica  y  termoeléctrica.  Madrid:  AMV
 Ediciones, 2008
 
-Fernández, J. Climatización: Cálculo e instalaciones. Barcelona: CEAC, 1980
+García   Martin,   Pedro   Francisco.   Energía   solar  fotovoltaica  para  todos  (Nuevas  Energías).  2ª  ed.
+Madrid: Marcombo, 2022
 
 García   Valcarce,   Antonio.   Manual   de   Evacuación:  Evacuación  de  aguas  de  los  edificios.  Pamplona:
 EUNSA, 1998
@@ -81,6 +88,15 @@ Madrid: ea! Ediciones de Arquitectura, 2006
 Ponce   García,  Javier  y  Fuentes  Sánchez,  Tomás.  Aspectos  clave  en  el  diseño  de  una  instalación  solar
 térmica. [Albacete: Formatec, 2019]
 
+Reglamento de Instalaciones Térmicas en los edificios. (RITE)
+
+Reglamento   electrotécnico   para   Baja   Tensión   (REBT)  y  sus  Instrucciones  Técnicas  Complementarias
+(ITC)
+
+Resto Normas UNE indicadas en las distintas Normas y Reglamentos de la materia
+
+Rey Martínez, Fco. Javier et al. DTIE 9.09 Sistemas de climatización radiante. Madrid: Atecyr, 2019
+
 Romero,   E.  Mecánica  de  fluidos,  fontanería  y  saneamiento.  5ª  ed.  Madrid:  Escuela  de  la  Edificación.
 UNED, 1995
 
@@ -89,6 +105,9 @@ Rubio,   P.,   Tovar,   J.,   Martínez  Alcalá,  F.L.  Curso  de  instalacione
 
 Ruíz   Gómez,  Abraham.  Energía  solar  fotovoltaica.  Autoconsumo.  Energía  solar  térmica.  Madrid:  Centro
 de Estudios Financieros, 2019
+
+Soriano   Rull,   Albert.   Instalaciones  de  fontanería,  domésticas  y  comerciales.  Barcelona:  Marcombo,
+2006
 
 Soriano   Rull,  Albert;  Pancorbo  Floristán,  F.  Javier.  Suministro,  distribución  y  evacuación  interior
 de agua sanitaria. Barcelona: Marcombo, 2012
@@ -99,26 +118,8 @@ solar en edificación. Cartagena: UPC, 2011
 Vázquez    Moreno,    Javier;   Herranz   Aguilar,   Juan   Carlos.   Números   Gordos   en   el   proyecto   de
 instalaciones. Madrid: Cinter Divulgación Técnica, 2012
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-2ª   ed.   Madrid:   Marcombo,   2022   →  Soriano  Rull,  Albert.  Instalaciones  de  fontanería,  domésticas  y
-comerciales. Barcelona: Marcombo, 2006
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Centro   Español  de  Información  del  Cobre  (CEDIC).  Manual  de  tubo  y  accesorios  de  cobre.  Accesible  en
-www.elcobre.com
-
-García   Martin,   Pedro   Francisco.   Energía   solar  fotovoltaica  para  todos  (Nuevas  Energías).  2ª  ed.
-Madrid: Marcombo, 2022
-
-Reglamento de Instalaciones Térmicas en los edificios. (RITE)
-
-Reglamento   electrotécnico   para   Baja   Tensión   (REBT)  y  sus  Instrucciones  Técnicas  Complementarias
-(ITC)
-
-Resto Normas UNE indicadas en las distintas Normas y Reglamentos de la materia
-
-Rey Martínez, Fco. Javier et al. DTIE 9.09 Sistemas de climatización radiante. Madrid: Atecyr, 2019
-
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

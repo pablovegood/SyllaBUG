@@ -2,24 +2,20 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (2):
 ------------------------------
-No hay elementos.
+Garland,   C.W.,   Nibler,  J.W.  y  Shoemaker,  D.P.  (2008)  "Experiments  in  Physical  chemistry",  8ªa  Ed.,
+McGraw-Hill, Nueva York
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Halpern,   A.M.   y   McBane,   G.C.  (2006)  "Experimental  Physical  Chemistry:  A  Laboratory  Textbook",  3ª
-Ed.,   Freeman,   Nueva   York.   Garland,   C.W.,   Nibler,  J.W.  y  Shoemaker,  D.P.  (2008)  "Experiments  in
-Physical   chemistry",   8ªa   Ed.,   McGraw-Hill,  Nueva  York  →  Garland,  C.W.,  Nibler,  J.W.  y  Shoemaker,
-D.P. (2008) "Experiments in Physical chemistry", 8ªa Ed., McGraw-Hill, Nueva York
-
-✅ Recursos añadidos:
-------------------------------
 Halpern,   A.M.   y   McBane,   G.C.  (2006)  "Experimental  Physical  Chemistry:  A  Laboratory  Textbook",  3ª
 Ed., Freeman, Nueva York
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

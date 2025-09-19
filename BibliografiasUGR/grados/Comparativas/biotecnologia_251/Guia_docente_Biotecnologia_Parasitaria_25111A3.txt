@@ -2,11 +2,15 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-9th Edition. Wiley Blackwell. y actitud crítica
+Pybus,   S.,   Kocan,   A.  2001.  Parasitic  diseases  of  wild  mammals.  Iowa  State  Press  Richard,  L  et  al.
+2011. Parasitología General. Acribia, S.A
 
-📚 Recursos sin cambios:
+Werner   Apt,   B.   2013.  Parasitología  Humana.  McGraw-Hill  Interamericana  de  España  S.L  Webster,  J.P.
+2009. Natural history of host-parasite interactions. Academic Press
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Arora, D.R. 2020. Medical Parasitology. 5th Edition. CBS Publishers and Distributors
 
@@ -38,20 +42,14 @@ Thomas, J., Petri, W.A., Markell, E., Voge, M., Thomas, D. 2006. Diagnostic Para
 Zajac,   A.M.,   Conboy,   G.A.,   Reichard,   M.,  Little,  S.  2021.  Veterinary  Clinical  Parasitology.  9th
 Edition. Wiley Blackwell
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Pybus,   S.,   Kocan,   A.  2001.  Parasitic  diseases  of  wild  mammals.  Iowa  State  Press  Richard,  L  et  al.
-2011.   Parasitología   General.   Acribia,   S.A   →   Richard,   L   et   al.   2011.  Parasitología  General.
-Acribia, S.A
-
-Werner   Apt,   B.   2013.  Parasitología  Humana.  McGraw-Hill  Interamericana  de  España  S.L  Webster,  J.P.
-2009.   Natural   history   of  host-parasite  interactions.  Academic  Press  →  Webster,  J.P.  2009.  Natural
-history of host-parasite interactions. Academic Press
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Pybus, S., Kocan, A. 2001. Parasitic diseases of wild mammals. Iowa State Press
 
+Richard, L et al. 2011. Parasitología General. Acribia, S.A
+
+Webster, J.P. 2009. Natural history of host-parasite interactions. Academic Press
+
 Werner Apt, B. 2013. Parasitología Humana. McGraw-Hill Interamericana de España S.L
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

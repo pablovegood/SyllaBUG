@@ -2,12 +2,14 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
+Gilat, Amos. Matlab: Una introducción con ejemplos prácticos. Barcelona, Reverté, 2006
+
 Pérez   López,   César.   Matlab   y   sus   aplicaciones  en  las  ciencias  y  la  ingeniería.  Madrid,  Pearson
 Educación, 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 Francisco J. Martín Martínez. Informática Básica. Editorial Ra-Ma. ISBN: 84-7897-593-4-2004
 
@@ -23,11 +25,7 @@ revisión técnica, José Ramón Ríos Sánchez, Aarón Jiménez Govea Mexico; P
 Viescas,   John   L.  Soluciones  de  bases  de  datos  con  Access  /  John  L.  Viescas;  traducción  Luis  Héctor
 Esqueda Huerta, Claudia Fuentes Zárate México, McGraw-Hill, 2007
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Andrés   Marzal   Varó,  Isabel  Gracia  Luengo,  Pedro  García  Sevilla.  Introducción  a  la  Programación  con
 Python 3 . Publicacions de la Universitat Jaume I, 2014
@@ -36,4 +34,4 @@ Hinojosa, A.P. 2016. Python. Paso A Paso. Ra-ma
 
 Pilgrim, M. 2009. Inmersión en Python
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

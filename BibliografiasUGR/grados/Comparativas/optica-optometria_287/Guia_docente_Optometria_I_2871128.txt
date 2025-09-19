@@ -2,11 +2,11 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 AMOS JF. Diagnosis and management in vision care. Boston. Butterworth. 1987
 
@@ -33,6 +33,9 @@ Universidad de Valencia, 2000
 
 GROSVENOR T. Optometría de atención primaria. Masson, 2004
 
+HARRINGTON   DO,   DRAKE   MV.   Los  Campos  Visuales:  Texto  y  Atlas  de  Perimetría  Clínica.  Masson-Salvat
+1993
+
 HENSON DB. Visual Fields. Oxford University Press 1993
 
 MARTIN R, VECILLA G. Manual de Optometría. Ed. Médica Panamericana. Madrid 2018
@@ -44,23 +47,19 @@ Barcelona 2012
 
 MONTÉS-MICÓ R. Optometría. Principios básicos y aplicación clínica. 1º Ed. Elservier, Barcelona 2011
 
-SCHEIMAN MH, ROUSE M. Optometric Management of Learning Related Vision Problems. Mosby, 1994
-
-SCHEIMAN   MH,   WICK   B.   Tratamiento   Clínico   de   la   Visión  Binocular,  Disfunciones  Heterofóricas,
-Acomodativas y Oculomotoras. Ciagami, Barcelona, 1996
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Butterworth,   2009   ROSENFIELD   M,   GILMARTIN   B.   Myopia   &  Nearwork.  Butterworth-Heinemann,  1998  →
 ROSENFIELD M, GILMARTIN B. Myopia & Nearwork. Butterworth-Heinemann, 1998
-
-✅ Recursos añadidos:
-------------------------------
-HARRINGTON   DO,   DRAKE   MV.   Los  Campos  Visuales:  Texto  y  Atlas  de  Perimetría  Clínica.  Masson-Salvat
-1993
 
 ROSENFIELD M, LOGAN N. Optometry. Science, techniques and clinical management. Butterworth, 2009
 
 RUTSTEIN RP, DAUM KM. Anomalies of Binocular Vision: Diagnosis & Management. Mosby, 1998
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+SCHEIMAN MH, ROUSE M. Optometric Management of Learning Related Vision Problems. Mosby, 1994
+
+SCHEIMAN   MH,   WICK   B.   Tratamiento   Clínico   de   la   Visión  Binocular,  Disfunciones  Heterofóricas,
+Acomodativas y Oculomotoras. Ciagami, Barcelona, 1996
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

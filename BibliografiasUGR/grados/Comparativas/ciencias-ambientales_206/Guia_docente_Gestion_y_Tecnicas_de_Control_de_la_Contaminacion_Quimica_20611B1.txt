@@ -2,45 +2,42 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Bases   químicas  del  medio  ambiente.  M.P.  Cabildo  Miranda,  M.P.  Cornago  Ramírez,  C.  Escolástico  León,
-S. Esteban Santos, C. López García y D. Sanz del Castillo. UNED, 2004
-
-Reciclado y tratamiento de residuos. M.P. Cabildo Miranda y R.M. Claramunt Vallespí. UNED, 2016
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Popek,   Academis   Press,  2003  Analytical  Techniques  for  Atmospheric  Measurement.  D.  Heard.  Blackwell
 Publishing,   Water   Quality  Control  Handbook.  E.  Roberts  Alley.  McGraw  Hill,  2007  Persistent  Organic
 Pollutants. S.Harrad. Wiley, 2010 Técnicas de prevención de la generación de suelos contaminados. La
 gestión de residuos peligrosos (Tomos I y II). Consejería de Medio Ambiente de la Junta de Andalucía
-Gestión   de   Residuos   Tóxicos.   Tratamiento,  eliminación  y  recuperación  de  suelos.  M.D  →  Persistent
-Organic Pollutants. S.Harrad. Wiley, 2010
+Gestión de Residuos Tóxicos. Tratamiento, eliminación y recuperación de suelos. M.D
+
+📚 Recursos sin cambios (4):
+------------------------------
+Bases   químicas  del  medio  ambiente.  M.P.  Cabildo  Miranda,  M.P.  Cornago  Ramírez,  C.  Escolástico  León,
+S. Esteban Santos, C. López García y D. Sanz del Castillo. UNED, 2004
 
 Escolástico   León,   S.   Esteban   Santos,   C.   López   García   y   D.   Sanz   del   Castillo.   UNED,  2004
 Contaminación   Ambiental.  Una  visión  desde  la  Química.  C.  Orozco  Barrenetxea,  A.  Pérez  Serrano,  M.N.
 González   Delgado,   F.J.   Rodríguez   Vidal   y   J.M.  Alfayate  Blanco.  Thomson,  Problemas  resueltos  de
 contaminación   ambiental.   C.   Orozco   Barrenetxea,   M.N.  González  Delgado,  J.M.  Alfayate  Blanco,  A.
-Pérez Serrano y F.J. Rodríguez Vidal. Thomson, 2003 Contaminación Atmosférica. A. Gallego Picó, I.A.
-González   Fernández,   B.   Sánchez  Gimeno,  P.  Fernández  Hernando,  R.M.  Garcinuño  Martínez,  J.C.  Bravo
-Yagüe,   J.A.   Pradana   Pérez,   M.A.   García   Mayor   y   J.S.  Durand  Alegría.  UNED,  2015  Química  de  la
-Contaminación.   X.   Domenech,  Miraguano,  1999  Handbook  of  Air  Pollution  Prevention  and  Control.  M.P.
-Cheremisinoff.   Butterworth   Heinemann.   Elsevier   Science.  2002  Handbook  of  Environmental  Analysis.
-Chemical   Pollutants   in   Air,   Water,   Soil   and  Solid  Wastes.  Pradyot  Patnaik.  CRC  Press,  2010  Los
-residuos    peligrosos.   Caracterización   y   tratamiento.   J.J.   Rodríguez   y   A.   Irabien,   Síntesis
-Environmental   Science   and   Engineering.  J.G.  Henry,  G.W.  Heinke.  Prentice  Hall,  1996  Environmental
-Analysis.   R.N.   Reeve.   Wiley,   2002  Environmental  Analytical  Chemistry.  F.W.  Fifield,  P.J.  Haines.
-Blackie Academic & Professional Handbook of Chemical Technology and Pollution Control. M.B. Hocking.
-Academic   Press,   2005  Sampling  and  Analysis  of  Environmental  Chemical  Pollutants.  A  Complete  Guide.
-E.P   →   Problemas   resueltos   de   contaminación   ambiental.   C.   Orozco   Barrenetxea,   M.N.  González
-Delgado, J.M. Alfayate Blanco, A. Pérez Serrano y F.J. Rodríguez Vidal. Thomson, 2003
+Pérez   Serrano   y   F.J.   Rodríguez  Vidal.  Thomson,  2003  Riesgos  ambientales  en  la  industria.  M.  Grau
+Ríos y M. Grau Sáez. UNED, 2006 Contaminación Atmosférica. A. Gallego Picó, I.A. González Fernández,
+B.   Sánchez   Gimeno,   P.  Fernández  Hernando,  R.M.  Garcinuño  Martínez,  J.C.  Bravo  Yagüe,  J.A.  Pradana
+Pérez, M.A. García Mayor y J.S. Durand Alegría. UNED, 2015 Química de la Contaminación. X. Domenech,
+Miraguano,   1999   Handbook   of  Air  Pollution  Prevention  and  Control.  M.P.  Cheremisinoff.  Butterworth
+Heinemann.   Elsevier   Science.   2002  Handbook  of  Environmental  Analysis.  Chemical  Pollutants  in  Air,
+Water,    Soil   and   Solid   Wastes.   Pradyot   Patnaik.   CRC   Press,   2010   Los   residuos   peligrosos.
+Caracterización   y   tratamiento.   J.J.   Rodríguez   y   A.  Irabien,  Síntesis  Environmental  Science  and
+Engineering. J.G. Henry, G.W. Heinke. Prentice Hall, 1996 Environmental Analysis. R.N. Reeve. Wiley,
+2002   Environmental  Analytical  Chemistry.  F.W.  Fifield,  P.J.  Haines.  Blackie  Academic  &  Professional
+Handbook   of   Chemical  Technology  and  Pollution  Control.  M.B.  Hocking.  Academic  Press,  2005  Sampling
+and Analysis of Environmental Chemical Pollutants. A Complete Guide. E.P
 
-✅ Recursos añadidos:
+Gestión   de   Residuos  Tóxicos.  Tratamiento,  eliminación  y  recuperación  de  suelos.  M.D.  Lagrega,  P.L.
+Buckingham, J.C. Evans Ed. McGraw Hill
+
+Reciclado y tratamiento de residuos. M.P. Cabildo Miranda y R.M. Claramunt Vallespí. UNED, 2016
+
+✅ Recursos añadidos (16):
 ------------------------------
 Analytical Techniques for Atmospheric Measurement. D. Heard. Blackwell Publishing, 2006
 
@@ -53,12 +50,7 @@ y J.S. Durand Alegría. UNED, 2015
 
 Environmental Analysis. R.N. Reeve. Wiley, 2002
 
-Environmental Analytical Chemistry. F.W. Fifield, P.J. Haines. Blackie Academic & Professional
-
 Environmental Science and Engineering. J.G. Henry, G.W. Heinke. Prentice Hall, 1996
-
-Gestión   de   Residuos  Tóxicos.  Tratamiento,  eliminación  y  recuperación  de  suelos.  M.D.  Lagrega,  P.L.
-Buckingham, J.C. Evans Ed. McGraw Hill
 
 Handbook   of   Air   Pollution   Prevention   and   Control.   M.P.   Cheremisinoff.  Butterworth  Heinemann.
 Elsevier Science. 2002
@@ -69,6 +61,11 @@ Handbook   of   Environmental   Analysis.   Chemical   Pollutants   in  Air,  Wa
 Pradyot Patnaik. CRC Press, 2010
 
 Los residuos peligrosos. Caracterización y tratamiento. J.J. Rodríguez y A. Irabien, Síntesis
+
+Persistent Organic Pollutants. S.Harrad. Wiley, 2010
+
+Problemas   resueltos   de  contaminación  ambiental.  C.  Orozco  Barrenetxea,  M.N.  González  Delgado,  J.M.
+Alfayate Blanco, A. Pérez Serrano y F.J. Rodríguez Vidal. Thomson, 2003
 
 Química de la Contaminación. X. Domenech, Miraguano, 1999
 
@@ -82,4 +79,4 @@ Técnicas   de   prevención   de  la  generación  de  suelos  contaminados.  L
 
 Water Quality Control Handbook. E. Roberts Alley. McGraw Hill, 2007
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 85% [████████░░]

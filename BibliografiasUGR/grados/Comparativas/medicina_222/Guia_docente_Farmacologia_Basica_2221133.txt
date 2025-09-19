@@ -2,41 +2,38 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-Brunton, L.L. Goodman and Gilman. Las bases farmacológicas de la terapéutica (13ª ed)
-
-Elsevier Churchil & Livingstone, 2020
+Brunton,   L.L.   Goodman  and  Gilman.  Las  bases  farmacológicas  de  la  terapéutica  (13ª  ed).  McGraw-Hill
+Publishing Company, 2019
 
 Flórez J, Armijo JA, Mediavilla A.Farmacología Humana(6ª edición). Masson, 2014
 
-Rang HP, Ritter JM, Flower RJ, Henderson G.Rang y Dale: Farmacología(9ª edición)
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-McGraw-Hill   Publishing   Company,   2019  →  Brunton,  L.L.,  Hilal-Dandan  R.,  Kollmann,  B.C.  Goodman  and
-Gilman’s The Pharmacologic Basis of Therapeutics . 14a Ed. McGraw-Hill Publishing Company, 2023
-
 Lorenzo   P,   Moreno   A,   Leza   JC,  Lizasoain  I,  Moro  MA,  Portolés  A.Velázquez:  Farmacología  Básica  y
-Clínica(19ª   ed.).   Editorial   Médica   Panamericana,   2018   →   Lorenzo,   P.,  Moreno,  A.,  Leza,  J.C.,
-Lizasoain,   I.,   Moro,  M.A.  Pórtoles  A.  Velázquez.  Farmacología  Básica  y  Clínica  .  20a  Ed.  Editorial
-Médica Panamericana. Madrid. 2025
+Clínica(19ª ed.). Editorial Médica Panamericana, 2018
 
-✅ Recursos añadidos:
+Rang   HP,  Ritter  JM,  Flower  RJ,  Henderson  G.Rang  y  Dale:  Farmacología(9ª  edición).  Elsevier  Churchil
+& Livingstone, 2020
+
+📚 Recursos sin cambios (2):
 ------------------------------
 Dipiro JT et al. Dipiro´s Pharmacotherapy. A pathophysiologic approach . 12th Ed. McGraw-Hill, 2023
+
+Se especificará en los temas que lo requieran
+
+✅ Recursos añadidos (5):
+------------------------------
+Brunton,   L.L.,   Hilal-Dandan   R.,   Kollmann,   B.C.   Goodman  and  Gilman’s  The  Pharmacologic  Basis  of
+Therapeutics . 14a Ed. McGraw-Hill Publishing Company, 2023
 
 Flórez J., Avendaño C and Mediavilla, A. Farmacología Humana . (7a ed). Elsevier, Spain. 2025
 
 Golan,   D.E.,   Tashjian,   A.H.,   Armstrong,   E.J.,  Armstrong,  A.W.  Principios  de  Farmacología.  Bases
 fisiopatológicas del tratamiento farmacológico (4a ed.) Lippincott Williams & Wilkins, 2017
 
-Rang, H.P., Dale, M.M. Ritter, J.M. Pharmacology. (10a ed). Churchill Livingstone. Edinburgh. 2024
+Lorenzo,   P.,   Moreno,  A.,  Leza,  J.C.,  Lizasoain,  I.,  Moro,  M.A.  Pórtoles  A.  Velázquez.  Farmacología
+Básica y Clínica . 20a Ed. Editorial Médica Panamericana. Madrid. 2025
 
-Se especificará en los temas que lo requieran
+Rang, H.P., Dale, M.M. Ritter, J.M. Pharmacology. (10a ed). Churchill Livingstone. Edinburgh. 2024
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

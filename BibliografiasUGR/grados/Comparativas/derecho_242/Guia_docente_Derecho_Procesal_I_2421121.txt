@@ -2,18 +2,13 @@
 Grado: derecho (242)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Montero Aroca, J., Gómez Colomer, J.L., Barona Vilar, S., Calderón Cuadrado, Mª P
+Montero   Aroca,   J.,   Gómez   Colomer,   J.L.,   Barona   Vilar,   S.,   Calderón  Cuadrado,  Mª  P.:  Derecho
+Jurisdiccional II, Proceso Civil, última ed., Tirant lo Blanch [Ed.], Valencia
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
-Armenta   Deu,   T:   Lecciones   de   Derecho  Procesal  Civil,  Marcial  Pons  [Ed.],  Madrid.  Última  edición
-Asencio   Mellado,   JM.   :   Derecho  Procesal  Civil,  Tirant  lo  Blanch,  Valencia.  Última  edición  Cortés
-Domínguez, V., Moreno Catena, V.: Derecho Procesal Civil. Parte General, Tirant Lo Blanch, Valencia.
-Última   edición  Cortés  Domínguez,  V.,  Moreno  Catena,  V.:  Introducción  al  Derecho  Procesal,  Valencia,
-Última edición Gimeno Sendra, J.V.: Introducción al Derecho Procesal, Castillo de Luna (ED), Madrid
-
 De   la   Oliva  Santos,  A.,  Diez-Picazo  Giménez,  I.,  Vegas  Torres,  J.:  Curso  de  Derecho  Procesal  Civil
 I. Parte general, última edición, Centro de Estudios Ramón Areces [Ed], Madrid
 
@@ -27,18 +22,21 @@ Blanch [Ed.], Valencia. Última edición
 Ormazabal Sánchez, G.: Introducción al Derecho Procesal, Marcial Pons [Ed], Madrid. Última edición
 
 Robles   Garzón,   J.A.,   y  otros.  Conceptos  básicos  de  Derecho  Procesal  Civil,  [Ed.].  Tecnos,  Madrid.
-Varios, Materiales para el estudio del Derecho. “iustel.com”. Última edición temas de la asignatura
+Varios,   Materiales   para   el   estudio   del   Derecho.   “iustel.com”.   Última  edición  Cada  profesor/a
+indicará   en   su   guía   didáctica   la   bibliografía   complementaria   de   cada  uno  de  los  temas  de  la
+asignatura
 
 Última   edición   Ortells   Ramos,   M.,   Cámara   Ruiz,   J.,  Cucarella  Galiana:  Derecho  Procesal  Civil,
 Aranzadi [Ed.], Pamplona. Última ed
 
-Última edición de los siguientes manuales
+Última   edición   de   los   siguientes   manuales:  Armenta  Deu,  T:  Lecciones  de  Derecho  Procesal  Civil,
+Marcial   Pons  [Ed.],  Madrid.  Última  edición  Asencio  Mellado,  JM.  :  Derecho  Procesal  Civil,  Tirant  lo
+Blanch,   Valencia.   Última   edición  Cortés  Domínguez,  V.,  Moreno  Catena,  V.:  Derecho  Procesal  Civil.
+Parte   General,   Tirant  Lo  Blanch,  Valencia.  Última  edición  Cortés  Domínguez,  V.,  Moreno  Catena,  V.:
+Introducción   al   Derecho   Procesal,   Valencia,   Última  edición  Gimeno  Sendra,  J.V.:  Introducción  al
+Derecho Procesal, Castillo de Luna (ED), Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 Armenta Deu, T: Lecciones de Derecho Procesal Civil, Marcial Pons [Ed.], Madrid. Última edición
 
@@ -52,13 +50,15 @@ Barona Vilar, S., Esparza Leibar, I., Etxebarría Guridi, J.F., Gómez Colomer, 
 E., Planchadell Gargallo, A., Proceso Civil. Derecho Procesal II, Tirant Lo Blanch, Valencia. Última
 edición
 
-Cada   profesor/a   indicará   en   su   guía  didáctica  la  bibliografía  complementaria  de  cada  uno  de  los
-temas de la asignatura
-
 Cortés Domínguez, V., Moreno Catena, V.: Introducción al Derecho Procesal, Valencia, Última edición
 
 Nieva Fenoll, J., Derecho procesal I, Tirant lo Blanch, Valencia. Última edición
 
 Nieva Fenoll, J., Derecho procesal II, Tirant lo Blanch, Valencia. Última edición
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Robles   Garzón,   J.A.,   y  otros.  Conceptos  básicos  de  Derecho  Procesal  Civil,  [Ed.].  Tecnos,  Madrid.
+Varios, Materiales para el estudio del Derecho. “iustel.com”. Última edición
+
+Última edición de los siguientes manuales
+
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

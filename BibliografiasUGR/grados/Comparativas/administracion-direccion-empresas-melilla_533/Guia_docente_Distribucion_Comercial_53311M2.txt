@@ -2,11 +2,11 @@
 Grado: administracion-direccion-empresas-melilla (533)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (41):
 ------------------------------
 AGUDO   PEREGRINA,   A.   (2014).   Análisis   de   los   factores   de   adopción  de  comercio  electrónico  en
 segmentos   de   consumidores  finales.  Aplicación  al  caso  español  .  Universidad  Politécnica  de  Madrid.
@@ -78,7 +78,7 @@ de Madrid. Departamento de Geografía General
 MPAC Mesa Participación Asociaciones de Consumidores. (2017). Encuesta de hábitos de consumo
 
 OUBIÑA   BARBOLLA,   J.   y   RUBIO   BENITO,  N.  (2009).  Comercio  Minorista:  Formas  comerciales.  En  F.  J.
-Martínez López, y G. Maraver Tarifa, Distribución Comercial, Delta Publicaciones, 306-307
+Martínez López, y G. Maraver Tarifa, Distribución Comercial , Delta Publicaciones, 306-307
 
 PELTON,   L.,   STRUTTON,   D.   y   LUMPKIN,   J.   (1999).  Canales  de  Marketing  y  distribución  comercial,
 Editorial McGraw-Hill
@@ -119,11 +119,7 @@ en Proquest)
 VÁZQUEZ,   R.   Y   TRESPALACIOS,  J.  (2006).  Estrategias  de  Distribución  Comercial:  Diseño  del  canal  de
 distribución y relación entre fabricantes y detallistas, Editorial Thomson
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

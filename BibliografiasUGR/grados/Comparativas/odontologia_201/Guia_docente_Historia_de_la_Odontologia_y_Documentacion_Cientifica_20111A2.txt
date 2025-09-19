@@ -2,11 +2,13 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+MALLO-PÉREZ,   Luciano;   SANZ-SERRULLA,   Javier   Progreso   en   el   arte  y  ciencia  dental  y  bucal:  Del
+ingenio   a   la  tecnología.  RCOE,  2004,  9  (6),  667-681.  Accesible  en:  http://wwwscielo.isciii.es/cgi-
+bin/wxis.exe/iah/ RING, Melvin E. Historia ilustrada de la Odontología. Barcelona, Doyma, 1989
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 BARONA, José Luis. Introducción a la medicina. Valencia, Universidad de Valencia, 1991
 
@@ -31,26 +33,22 @@ LÓPEZ PIÑERO, José María. La medicina en la historia. Madrid, La esfera de l
 LÓPEZ   PIÑERO,  José  María.  Lecciones  de  Historia  de  la  Odontología.  Valencia,  Facultad  de  Medicina  y
 Odontología, 1989
 
+SANZ, Javier. Historia general de la odontología española. Barcelona: Masson, 1998
+
+SANZ,    Javier.    Odontología    versus    Estomatología   (o   Monarquía   versus   República):   un   caso
+excepcionalmente   singular  en  la  España  científica  del  siglo  XX.  Medicina  e  Historia,  2002;  (4)  1-15
+Con   el   Programa  del  curso  se  entrega  una  relación  pormenorizada  de  sugerencias  bibliográficas  para
+cada tema además de la lectura específica para análisis y comentario
+
+✅ Recursos añadidos (3):
+------------------------------
+Con   el   Programa  del  curso  se  entrega  una  relación  pormenorizada  de  sugerencias  bibliográficas  para
+cada tema además de la lectura específica para análisis y comentario
+
 MALLO-PÉREZ,   Luciano;   SANZ-SERRULLA,   Javier   Progreso   en   el   arte  y  ciencia  dental  y  bucal:  Del
 ingenio   a   la  tecnología.  RCOE,  2004,  9  (6),  667-681.  Accesible  en:  http://wwwscielo.isciii.es/cgi-
 bin/wxis.exe/iah/
 
 RING, Melvin E. Historia ilustrada de la Odontología. Barcelona, Doyma, 1989
 
-SANZ, Javier. Historia general de la odontología española. Barcelona: Masson, 1998
-
-SANZ,    Javier.    Odontología    versus    Estomatología   (o   Monarquía   versus   República):   un   caso
-excepcionalmente   singular   en  la  España  científica  del  siglo  XX.  Medicina  e  Historia,  2002;  (4)  Con
-el   Programa  del  curso  se  entrega  una  relación  pormenorizada  de  sugerencias  bibliográficas  para  cada
-tema además de la lectura específica para análisis y comentario
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-SANZ,    Javier.    Odontología    versus    Estomatología   (o   Monarquía   versus   República):   un   caso
-excepcionalmente singular en la España científica del siglo XX. Medicina e Historia, 2002; (4) 1-15
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

@@ -2,12 +2,15 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
+AECA   (2014b).   Diferencias   de   cambio   y   conversión   de  estados  financieros  en  moneda  extranjera.
+Documentos AECA. Principios y Normas de Contabilidad. AECA. Madrid
+
 Archel   Domench,   P.,   Lizárraga   Dallo,   F.   y   Sánchez   Alegría,   S.   (2022).   Estados   contables.
 Elaboración, análisis e interpretación. Pirámide
 
@@ -33,22 +36,15 @@ Pirámide
 Íñiguez,   R.,   y   Garrido   Miralles,   P.   (2021).   Análisis   de   estados   contables:   elaboración   e
 interpretación de la información financiera. Pirámide
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-AECA   (2014b).   Diferencias   de   cambio   y   conversión   de  estados  financieros  en  moneda  extranjera.
-Documentos AECA. Principios y Normas de Contabilidad. AECA. Madrid
+AECA (2014a). El estado de flujos de efectivo. Documentos AECA. Principios y Normas de Contabilidad.
+AECA
 
 Carrasco Gallego, A., Donoso Anes, J.A., Fresneda Fuentes, S., Hernández Borreguero, J.J., Larrinaga
 González, C. y López Gavira, M.R. (2016). Estados financieros: teoría y casos prácticos. Pirámide
 
 Cordobés, M., de Vicente, M. y Molina, H. (2020). Manual de preparación de estados financieros, AECA
-
-PLAN   GENERAL   DE  CONTABILIDAD  DE  PYMES.  Real  Decreto  1515/2007  de  16  de  noviembre  (BOE  nº  279  de  21
-de noviembre de 2007)
 
 PLAN   GENERAL   DE   CONTABILIDAD.   Real   Decreto   1514/2007   de   16  de  noviembre  (BOE  nº  278  de  20  de
 noviembre de 2007)
@@ -57,4 +53,4 @@ Resoluciones   del   Instituto   de   Contabilidad   y   Auditoría  de  Cuentas
 inversiones   inmobiliarias,   inmovilizado  intangible,  deterioro,  coste  de  producción,  impuesto  sobre
 beneficios, presentación e instrumentos financieros e ingresos
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

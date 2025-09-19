@@ -2,12 +2,20 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
 Editorial   Rueda   S.L.   Madrid.   I.S.B.N.:   978-84-7207-198-8.   P   IMENTEL,   I.M.   (2006).   Recursos
 Forestales de la provincia de Córdoba. Copicentro Granada S.L
 
-📚 Recursos sin cambios:
+RIVERA,   D.,   OBON   DE   CASTRO,   C.   (1991)   Guía   de  Incafo  de  las  plantas  útiles  y  venenosas  de  la
+Península   Ibérica   y   Baleares   (excluidas  medicinales).  Ediciones  INCAFO.  Madrid  -Romo,  A.M.  1996.
+Frutos silvestres de la Península Ibérica. Ed. Planeta. Barcelona
+
+SALAZAR; C. & VALLE, F. (Coord.). (2004). Series de vegetación edafohigrófila de Andalucía. Junta de
+Andalucía, Consejería de Medio Ambiente. Sevilla. 179 pags. I.S.B.N.: 84-95785-96-X VALLE, F. & DIAZ
+DE LA GUARDIA, C. (1987). "La Alfaguara y su entorno vegetal", 79 pag
+
+📚 Recursos sin cambios (40):
 ------------------------------
 ALÍA,   R.,   ALBA,   N.,   AGÚNDEZ,   D.,   IGLESIAS,  S.  (coord.)  2005.  Manual  para  la  comercialización  y
 producción   de   semillas  y  plantas  forestales.  Materiales  de  base  y  de  reproducción.  Serie  Forestal.
@@ -26,104 +34,15 @@ ATAURI   MEZQUIDA   J.A.  (coord.).  2020.  Bosques  maduros  mediterráneos:  c
 gestión   en   áreas   protegidas.   Manual   14  Serie  de  manuales  EUROPARCEspaña.  Ed.  Fundación  Fernando
 González Bernáldez, Madrid
 
-GARCIA   GUARDIA,   G.;   VALLE,   F.;   ASENSI,   A;   DIAZ  DE  LA  GUARDIA,  C.  &  DIEZ,  GARRETAS,  B.  (1991).
-"Historia Natural de Andalucía". Editorial RUEDA. Madrid. I.S.B.N. 84-7207-064-6. L
-
-KEENLEYSIDE,   K.A.,  N.  DUDLEY,  S.  CAIRNS,  C.M.  HALL  Y  S.  STOLTON  (2014).  Restauración  Ecológica  para
-Áreas Protegidas: Principios, directrices y buenas prácticas. Gland, Suiza: UICN. 118pp
-
-L.   MUÑOZ,   J.;  TENORIO,  H.  &  VALLE,  F.  (2001).  “El  Medio  Natural  del  Poniente  Granadino”.  Editorial
-RUEDA. ISBN: 84-7207-127-8
-
-MOLERO   MESA,   J.;   PEREZ   RAYA,   F.   &  VALLE,  F.  (1992).  "Parque  Natural  de  Sierra  Nevada:  Paisaje,
-Fauna, Flora e Itinerarios". Editorial RUEDA. Madrid. I.S.B.N. 84-7207-067-0. L
-
-MOTA,   J.F.  &  VALLE,  F.  (1987).  "Estudio  botánico  de  las  cuencas  altas  de  los  ríos  Bayarcal,  Paterna
-y   Andarax   (Sierra   Nevada   Almeriense)",   189   pag.   Diputación   Provincial   de   Almería.  I.S.B.N.
-84‑505‑7129‑4. España
-
-PASTOR,   J.   &   VALLE,   F.   (Ed.)   (2010).   Guia  de  la  Flora  Vascular  de  la  Cuenca  del  Guadalquivir.
-Editorial Rueda S.L. Madrid. I.S.B.N.: 978-84-7207-198-8. P
-
-TARDÍO,   J.,   PARDO  DE  SANTAYANA,  M.,  MORALES,  R.,  MOLINA,  M.,  ACEITUNO,  L.  2018.  Inventario  español
-de   los   conocimientos   tradicionales   relativos   a  la  biodiversidad  agrícola.  Vol.  1.  Ministerio  de
-Agricultura, Alimentación y Medio Ambiente. Madrid. 420 pp
-
-VALLE,   F.  &  DIAZ  DE  LA  GUARDIA,  C.  (1987).  "La  Alfaguara  y  su  entorno  vegetal",  79  pag.  Servicio  de
-Publicaciones de la Universidad de Granada. I.S.B.N. 84‑338‑0500‑2. España. L
-
-VALLE,   F.   &   LORITE,   J.  (Coord.)  (2004).  Datos  botánicos  aplicados  a  la  gestión  del  medio  natural
-andaluz   III:  Modelos  de  gestión  de  la  vegetación.  Junta  de  Andalucía,  Consejería  de  Medio  Ambiente.
-Sevilla. 512 pags. I.S.B.N.: 84-95785-99-4
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-SALAZAR; C. & VALLE, F. (Coord.). (2004). Series de vegetación edafohigrófila de Andalucía. Junta de
-Andalucía, Consejería de Medio Ambiente. Sevilla. 179 pags. I.S.B.N.: 84-95785-96-X VALLE, F. & DIAZ
-DE   LA   GUARDIA,   C.   (1987).   "La  Alfaguara  y  su  entorno  vegetal",  79  pag  →  SALAZAR;  C.  &  VALLE,  F.
-(Coord.).   (2004).   Series  de  vegetación  edafohigrófila  de  Andalucía.  Junta  de  Andalucía,  Consejería
-de Medio Ambiente. Sevilla. 179 pags. I.S.B.N.: 84-95785-96-X
-
-118pp.   LÓPEZ,  G.  2004  (2ª  ed.).  Guía  de  los  árboles  y  arbustos  de  la  Península  Ibérica  y  Baleares,2
-tomos.   Edita   MundiPrensa.   Madrid.   826   pp.   MENDIOLA  UBILIS,  M.A.  1989.  Plantas  aromáticas  de  la
-España   Peninsular.   Ediciones   MundiPrensa.   Madrid.   MORENO,  B.,  GÓMEZ,  J.,  PULIDO,  E.  2001.  Setas
-comestibles   de   Andalucía.   Consejería  de  Medio  Ambiente  y  Ordenación  del  Territorio.  NAVARRO,  J.A.
-(COORD.),   GOBERNA,  M.,  GONZÁLEZ  BARBERÁ,  G.,  CASTILLO,  V.M.,  VERDÚ  DEL  CAMPO,  M.  2017.  Restauración
-ecológica    en   ambientes   semiáridos:   recuperar   las   interacciones   biológicas   y   las   funciones
-ecosistémicas.   Ministerio   de  Economía,  Industria  y  Competitividad  →  MORENO,  B.,  GÓMEZ,  J.,  PULIDO,
-E. 2001. Setas comestibles de Andalucía. Consejería de Medio Ambiente y Ordenación del Territorio
-
-Horizonte   2030.  FERNÁNDEZ  CASTAÑO,  N.  2010.  Plantas  de  Biomasa  en  Andalucía.  Renovetec.  FUENTES,  C.
-2008.   La   encina   en   el   Centro   y   Suroeste   de   España   (Su  aprovechamiento  y  el  de  su  entorno).
-Consejería   de  Medio  Ambiente  y  Organización  Territorial  de  la  Junta  de  Castilla  y  León.  GAGNON,  D.,
-TRUAX,   B.   2019.   Hardwood   Reforestation   and  Restoration.  MDPI,  Switzerland.  194  GARCÍA,  J.  2018.
-Plantas   medicinales   y   aromáticas  de  la  Sierra  de  la  Sagra  y  su  entorno.  Edita  Gráficas  La  Madraz,
-S.L.   Granada.   GONZÁLEZ   DE   TÁNAGO,   M.,   GARCÍA   JALÓN,   D.  1998.  Restauración  de  Ríos  y  Riveras.
-Fundación   del   Valle   de  Salazar.  Ed.  Mundi-Prensa.  Madrid.  IUCN  (2014).  Assessing  forest  landscape
-restoration opportunities at the national level: A guide to the Restoration Opportunities Assessment
-Methodology   (ROAM).   Gland,   Switzerland:   IUCN   →   GONZÁLEZ   DE  TÁNAGO,  M.,  GARCÍA  JALÓN,  D.  1998.
-Restauración de Ríos y Riveras. Fundación del Valle de Salazar. Ed. Mundi-Prensa. Madrid
-
-GÓMEZ,   F.;   MOTA,   J.;   PEÑAS,   J;  CABELLO,  J.  &  VALLE,  F.  (2000).  Vegetación  in  JUNTA  DE  ANDALUCÍA
-(ed.), “Reconocimiento Biofísico de Espacios Naturales Protegidos. P. N. Sierras GOMEZ‑MERCADO, F. &
-VALLE,   F.  (1989).  "Mapa  de  vegetación  de  la  Sierra  de  Baza",  237  pag.,  1  mapa  en  color.  Servicio  de
-Publicaciones   de   la  Universidad  de  Granada.  I.S.B.N.  84‑338‑0830‑3  →  GOMEZ‑MERCADO,  F.  &  VALLE,  F.
-(1989).   "Mapa   de   vegetación   de   la   Sierra   de   Baza",   237   pag.,   1  mapa  en  color.  Servicio  de
-Publicaciones de la Universidad de Granada. I.S.B.N. 84‑338‑0830‑3. España
-
-CSIC.   162   pp.   PARDO  DE  SANTAYANA,  M.,  MORALES,  R.,  ACEITUNO-MATA,  L.,  MOLINA,  M.  2014.  Inventario
-español   de   los   conocimientos   tradicionales   relativos   a  la  biodiversidad.  Vol.  2.  Ministerio  de
-Agricultura, Alimentación y Medio Ambiente. Madrid. 411 pp. PASTOR, N., MOLERO, J. 2015. Las plantas
-de   uso   medicinal   en   Lanjarón.  Editorial  Universidad  de  Granada.  Granada.  PEMÁN,  J.,  IRIARTE,  I.,
-LARIO,   F.J.   2017.   La   restauración   forestal   en   España:   75   años  de  una  ilusión.  Ministerio  de
-Agricultura   y   Pesca,  Alimentación  y  Medio  Ambiente.  Madrid.  414  pp.  RIVERA,  D.,  OBON  DE  CASTRO,  C.
-(1991)   Guía   de   Incafo   de   las   plantas   útiles   y   venenosas   de  la  Península  Ibérica  y  Baleares
-(excluidas medicinales). Ediciones INCAFO. Madrid Romo, A.M. 1996. Frutos silvestres de la Península
-Ibérica.   Ed.   Planeta.   Barcelona.   TARDÍO,   J.,   PARDO   DE  SANTAYANA,  M.,  MORALES,  R.,  MOLINA,  M.,
-ACEITUNO,   L.   2018   →   TARDÍO,   J.,   PARDO   DE  SANTAYANA,  M.,  MORALES,  R.,  MOLINA,  M.,  ACEITUNO,  L.
-2018.   Inventario   español  de  los  conocimientos  tradicionales  relativos  a  la  biodiversidad  agrícola.
-Vol. 1. Ministerio de Agricultura, Alimentación y Medio Ambiente. Madrid. 420 pp
-
-Fundación   Fernando   González   Bernáldez,   Madrid.  BAUTISTA,  J.,  STÜBING,  G.,  ROMO,  Á.  2001.  Plantas
-medicinales   de   la   Península   Ibérica  e  Islas  Baleares.  Ediciones  Jaguar,  S.A.  Madrid.  BLANCA,  G.,
-CABEZUDO   B.,   CUETO,   M.,   FERNÁNDEZ   LÓPEZ,   C.,  MORALES  TORRES,  C.  (2009,  eds).  Flora  Vascular  de
-Andalucía   Oriental,   4   vols.  Consejería  de  Medio  Ambiente,  Junta  de  Andalucía,  Sevilla.  BRAVO,  F.,
-GUIJARRO,   M.,   CÁMARA,  A.,  DÍAZ  BALTEIRO,  L.,  FERNÁNDEZ,  P.,  PAJARES,  J.A.,  PEMÁN,  J.,  RUIZPEINADO,
-R.   2017.   La  situación  de  los  bosques  y  el  sector  forestal  en  España  –  ISFE  2017.  Sociedad  Española
-de   Ciencias   Forestales.  CASTROVIEJO,  S.  (coord.  gen.)  1986-2021.  Flora  Iberica.  Plantas  Vasculares
-de la Península Ibérica e Islas Baleares, 21 vols. Real Jardín Botánico, C.S.I.C. Madrid. CONSEJERÍA
-DE   MEDIO   AMBIENTE   DE   ANDALUCÍA.   Adecuación  del  Plan  Forestal  Andaluz  →  BRAVO,  F.,  GUIJARRO,  M.,
-CÁMARA,   A.,   DÍAZ   BALTEIRO,   L.,  FERNÁNDEZ,  P.,  PAJARES,  J.A.,  PEMÁN,  J.,  RUIZPEINADO,  R.  2017.  La
-situación   de   los  bosques  y  el  sector  forestal  en  España  –  ISFE  2017.  Sociedad  Española  de  Ciencias
-Forestales
-
-✅ Recursos añadidos:
-------------------------------
 BAUTISTA,   J.,   STÜBING,   G.,   ROMO,   Á.   2001.   Plantas  medicinales  de  la  Península  Ibérica  e  Islas
 Baleares. Ediciones Jaguar, S.A. Madrid
 
 BLANCA,   G.,   CABEZUDO   B.,   CUETO,   M.,   FERNÁNDEZ  LÓPEZ,  C.,  MORALES  TORRES,  C.  (2009,  eds).  Flora
 Vascular de Andalucía Oriental, 4 vols. Consejería de Medio Ambiente, Junta de Andalucía, Sevilla
+
+BRAVO,   F.,   GUIJARRO,   M.,   CÁMARA,  A.,  DÍAZ  BALTEIRO,  L.,  FERNÁNDEZ,  P.,  PAJARES,  J.A.,  PEMÁN,  J.,
+RUIZPEINADO,   R.   2017.   La   situación   de   los   bosques  y  el  sector  forestal  en  España  –  ISFE  2017.
+Sociedad Española de Ciencias Forestales
 
 CASTROVIEJO, S. (coord. gen.) 1986-2021. Flora Iberica. Plantas Vasculares de la Península Ibérica e
 Islas Baleares, 21 vols. Real Jardín Botánico, C.S.I.C. Madrid
@@ -137,12 +56,25 @@ entorno). Consejería de Medio Ambiente y Organización Territorial de la Junta 
 
 GAGNON, D., TRUAX, B. 2019. Hardwood Reforestation and Restoration. MDPI, Switzerland. 194 pp
 
+GARCIA   GUARDIA,   G.;   VALLE,   F.;   ASENSI,   A;   DIAZ  DE  LA  GUARDIA,  C.  &  DIEZ,  GARRETAS,  B.  (1991).
+"Historia Natural de Andalucía". Editorial RUEDA. Madrid. I.S.B.N. 84-7207-064-6. L
+
 GARCÍA,   J.   2018.   Plantas   medicinales   y   aromáticas  de  la  Sierra  de  la  Sagra  y  su  entorno.  Edita
 Gráficas La Madraz, S.L. Granada
+
+GOMEZ‑MERCADO, F. & VALLE, F. (1989). "Mapa de vegetación de la Sierra de Baza", 237 pag., 1 mapa en
+color. Servicio de Publicaciones de la Universidad de Granada. I.S.B.N. 84‑338‑0830‑3. España
+
+GONZÁLEZ   DE   TÁNAGO,  M.,  GARCÍA  JALÓN,  D.  1998.  Restauración  de  Ríos  y  Riveras.  Fundación  del  Valle
+de Salazar. Ed. Mundi-Prensa. Madrid
 
 GÓMEZ,   F.;   MOTA,   J.;   PEÑAS,   J;  CABELLO,  J.  &  VALLE,  F.  (2000).  Vegetación  in  JUNTA  DE  ANDALUCÍA
 (ed.),   “Reconocimiento   Biofísico   de   Espacios   Naturales   Protegidos.   P.   N.  Sierras  Subbéticas.
 Consejería de Medio Ambiente: 197-311. ISBN: 84-89650-68-3
+
+I.S.B.N.:84-95785-98-6   VALLE,   F.  (Coord.).  (2007).  Identificación  y  evaluación  de  la  vegetación  de
+ribera   de   la   cuenca   hidrográfica  del  Guadalquivir.  Confederación  Hidrográfica  del  Guadalquivir  y
+Universidad de Granada. Formato Digital. I.S.B.N. 84-935058-4-6
 
 IMENTEL,   I.M.   (2006).   Recursos   Forestales   de   la   provincia  de  Córdoba.  Copicentro  Granada  S.L.
 Facultad de Ciencias. I.S.B.N. 84-935058-5-4
@@ -150,11 +82,27 @@ Facultad de Ciencias. I.S.B.N. 84-935058-5-4
 IUCN   (2014).  Assessing  forest  landscape  restoration  opportunities  at  the  national  level:  A  guide  to
 the Restoration Opportunities Assessment Methodology (ROAM). Gland, Switzerland: IUCN. 123pp
 
+KEENLEYSIDE,   K.A.,  N.  DUDLEY,  S.  CAIRNS,  C.M.  HALL  Y  S.  STOLTON  (2014).  Restauración  Ecológica  para
+Áreas Protegidas: Principios, directrices y buenas prácticas. Gland, Suiza: UICN. 118pp
+
+L.   MUÑOZ,   J.;  TENORIO,  H.  &  VALLE,  F.  (2001).  “El  Medio  Natural  del  Poniente  Granadino”.  Editorial
+RUEDA. ISBN: 84-7207-127-8
+
 LÓPEZ,   G.  2004  (2ª  ed.).  Guía  de  los  árboles  y  arbustos  de  la  Península  Ibérica  y  Baleares,2  tomos.
 Edita MundiPrensa. Madrid. 826 pp
 
 MENDIOLA   UBILIS,   M.A.   1989.   Plantas   aromáticas   de  la  España  Peninsular.  Ediciones  MundiPrensa.
 Madrid
+
+MOLERO   MESA,   J.;   PEREZ   RAYA,   F.   &  VALLE,  F.  (1992).  "Parque  Natural  de  Sierra  Nevada:  Paisaje,
+Fauna, Flora e Itinerarios". Editorial RUEDA. Madrid. I.S.B.N. 84-7207-067-0. L
+
+MORENO, B., GÓMEZ, J., PULIDO, E. 2001. Setas comestibles de Andalucía. Consejería de Medio Ambiente
+y Ordenación del Territorio
+
+MOTA,   J.F.  &  VALLE,  F.  (1987).  "Estudio  botánico  de  las  cuencas  altas  de  los  ríos  Bayarcal,  Paterna
+y   Andarax   (Sierra   Nevada   Almeriense)",   189   pag.   Diputación   Provincial   de   Almería.  I.S.B.N.
+84‑505‑7129‑4. España
 
 NAVARRO, J.A. (COORD.), GOBERNA, M., GONZÁLEZ BARBERÁ, G., CASTILLO, V.M., VERDÚ DEL CAMPO, M. 2017.
 Restauración   ecológica   en   ambientes   semiáridos:   recuperar   las   interacciones   biológicas  y  las
@@ -164,24 +112,24 @@ PARDO   DE   SANTAYANA,  M.,  MORALES,  R.,  ACEITUNO-MATA,  L.,  MOLINA,  M.  2
 conocimientos   tradicionales   relativos   a   la   biodiversidad.   Vol.   2.   Ministerio  de  Agricultura,
 Alimentación y Medio Ambiente. Madrid. 411 pp
 
+PASTOR,   J.   &   VALLE,   F.   (Ed.)   (2010).   Guia  de  la  Flora  Vascular  de  la  Cuenca  del  Guadalquivir.
+Editorial Rueda S.L. Madrid. I.S.B.N.: 978-84-7207-198-8. P
+
 PASTOR,   N.,   MOLERO,   J.   2015.   Las  plantas  de  uso  medicinal  en  Lanjarón.  Editorial  Universidad  de
 Granada. Granada
 
 PEMÁN,   J.,   IRIARTE,   I.,   LARIO,   F.J.   2017.   La   restauración  forestal  en  España:  75  años  de  una
 ilusión. Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente. Madrid. 414 pp
 
-RIVERA,   D.,   OBON   DE   CASTRO,   C.   (1991)   Guía   de  Incafo  de  las  plantas  útiles  y  venenosas  de  la
-Península Ibérica y Baleares (excluidas medicinales). Ediciones INCAFO. Madrid
+TARDÍO,   J.,   PARDO  DE  SANTAYANA,  M.,  MORALES,  R.,  MOLINA,  M.,  ACEITUNO,  L.  2018.  Inventario  español
+de   los   conocimientos   tradicionales   relativos   a  la  biodiversidad  agrícola.  Vol.  1.  Ministerio  de
+Agricultura, Alimentación y Medio Ambiente. Madrid. 420 pp
 
-Romo, A.M. 1996. Frutos silvestres de la Península Ibérica. Ed. Planeta. Barcelona
-
-VALLE,   F.   (Coord.)   (2004).   Datos   botánicos  aplicados  a  la  gestión  del  medio  natural  andaluz  II:
-Series   de   vegetación.   Junta   de   Andalucía,   Consejería   de   Medio   Ambiente.   Sevilla.  347  pags.
-I.S.B.N.:84-95785-98-6
-
-VALLE,   F.   (Coord.).   (2007).   Identificación   y  evaluación  de  la  vegetación  de  ribera  de  la  cuenca
-hidrográfica del Guadalquivir. Confederación Hidrográfica del Guadalquivir y Universidad de Granada.
-Formato Digital. I.S.B.N. 84-935058-4-6
+VALLE,   F.   &   LORITE,   J.  (Coord.)  (2004).  Datos  botánicos  aplicados  a  la  gestión  del  medio  natural
+andaluz   III:  Modelos  de  gestión  de  la  vegetación.  Junta  de  Andalucía,  Consejería  de  Medio  Ambiente.
+Sevilla. 512 pags. I.S.B.N.: 84-95785-99-4 VALLE, F. (Coord.) (2004). Datos botánicos aplicados a la
+gestión   del  medio  natural  andaluz  II:  Series  de  vegetación.  Junta  de  Andalucía,  Consejería  de  Medio
+Ambiente. Sevilla. 347 pags
 
 VALLE,   F.   (Ed.)   (2003).   “Mapa   de   Series   de   Vegetación   de  Andalucía”.  Editorial  RUEDA.  ISBN:
 84-7207-137-5
@@ -202,4 +150,21 @@ VALLE,   F.;   NAVARRO,   F.B.  &  JIMÉNEZ,  M.N.  (Coord.).  (2004).  Datos  b
 del medio natural andaluz I: Bioclimatología y Biogeografía. Junta de Andalucía, Consejería de Medio
 Ambiente. Sevilla. I.S.B.N.:84-95785-97-8
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (5):
+------------------------------
+RIVERA,   D.,   OBON   DE   CASTRO,   C.   (1991)   Guía   de  Incafo  de  las  plantas  útiles  y  venenosas  de  la
+Península Ibérica y Baleares (excluidas medicinales). Ediciones INCAFO. Madrid
+
+Romo, A.M. 1996. Frutos silvestres de la Península Ibérica. Ed. Planeta. Barcelona
+
+SALAZAR; C. & VALLE, F. (Coord.). (2004). Series de vegetación edafohigrófila de Andalucía. Junta de
+Andalucía, Consejería de Medio Ambiente. Sevilla. 179 pags. I.S.B.N.: 84-95785-96-X
+
+VALLE,   F.  &  DIAZ  DE  LA  GUARDIA,  C.  (1987).  "La  Alfaguara  y  su  entorno  vegetal",  79  pag.  Servicio  de
+Publicaciones de la Universidad de Granada. I.S.B.N. 84‑338‑0500‑2. España. L
+
+VALLE,   F.   (Coord.)   (2004).   Datos   botánicos  aplicados  a  la  gestión  del  medio  natural  andaluz  II:
+Series   de   vegetación.   Junta   de   Andalucía,   Consejería   de   Medio   Ambiente.   Sevilla.  347  pags.
+I.S.B.N.:84-95785-98-6
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

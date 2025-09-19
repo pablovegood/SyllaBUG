@@ -2,11 +2,11 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+R/D: 783/2001 (BOE 26/Julio/01) RD 1029/2022 (BOE 20 /12/2022)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 Atoms, Radiation, and Radiation Protection. James E. Turner, Second Edition. John Wiley & Sons, Inc.
 New York. 1995
@@ -25,17 +25,14 @@ Library Cataloguing in Publication Data. 1996
 Radiochemistry   and  Nuclear  Methods  of  Analysis.  William  D.  Ehmann  and  Diane  E.  Vance  Ed.  John  Wiley
 & Sons, Inc. New York. 1991
 
+Revistas especializadas: Nuclear España (Sociedad Nuclear Española)
+
 VI Plan General de Residuos Radiactivos. ENRESA. 2009
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-R/D:   783/2001   (BOE   26/Julio/01)  RD  1029/2022  (BOE  20  /12/2022)  relacionados  con  esta  materia  →  RD
-1029/2022 (BOE 20 /12/2022)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 R/D: 783/2001 (BOE 26/Julio/01)
 
-Revistas especializadas: Nuclear España (Sociedad Nuclear Española)
+RD 1029/2022 (BOE 20 /12/2022)
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

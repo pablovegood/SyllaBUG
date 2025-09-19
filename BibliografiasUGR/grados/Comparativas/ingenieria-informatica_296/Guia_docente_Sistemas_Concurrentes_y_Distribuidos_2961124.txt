@@ -2,14 +2,18 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Garceta   grupo   editorial,   2022   C.   Breshears.   The  Art  of  Concurrency:  A  Thread  Monkey's  Guide  to
+Writing Parallel Applications. O'Reilly Media. 2009
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 A.   Burns,   A.   Wellings.   Sistemas  de  Tiempo  Real  y  Lenguajes  de  Programación  (3ª  Edición).  Addison
 Wesley, 2003
+
+A.   Wiliams.   C++   Concurrency   in   Action,   2nd   Edition.   Manning   Publications.   2019   M.   Capel.
+Programación Concurrente y en Tiempo Real. Fundamentos y aplicaciones
 
 F.   Almeida,   D.   Gimenez,   J.   M.   Mantas,   A.M.   Vidal   .  Introduccion  a  la  Programacion  Paralela.
 Paraninfo Cengage Learning, 2008
@@ -27,18 +31,12 @@ N.A. Lynch. Distributed Algorithms. Morgan Kaufmann. 1996
 V.   Kumar,   A.   Grama,   A.   Gupta,  G.  Karypis.  Introduction  to  Parallel  Computing.  Benjamin/Cummings
 Publishing Company, 2003
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-A.   Wiliams.   C++   Concurrency   in   Action,   2nd   Edition.   Manning   Publications.   2019   M.   Capel.
-Programación   Concurrente   y   en   Tiempo   Real.   Fundamentos  y  aplicaciones  →  M.  Capel.  Programación
-Concurrente y en Tiempo Real. Fundamentos y aplicaciones. Garceta grupo editorial, 2022
+C.   Breshears.   The   Art   of   Concurrency:  A  Thread  Monkey's  Guide  to  Writing  Parallel  Applications.
+O'Reilly Media. 2009
 
-Garceta   grupo   editorial,   2022   C.   Breshears.   The  Art  of  Concurrency:  A  Thread  Monkey's  Guide  to
-Writing   Parallel   Applications.   O'Reilly   Media.   2009   →   C.  Breshears.  The  Art  of  Concurrency:  A
-Thread Monkey's Guide to Writing Parallel Applications. O'Reilly Media. 2009
-
-✅ Recursos añadidos:
-------------------------------
-A. Wiliams. C++ Concurrency in Action, 2nd Edition. Manning Publications. 2019
+M.   Capel.   Programación   Concurrente   y   en   Tiempo  Real.  Fundamentos  y  aplicaciones.  Garceta  grupo
+editorial, 2022
 
 📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

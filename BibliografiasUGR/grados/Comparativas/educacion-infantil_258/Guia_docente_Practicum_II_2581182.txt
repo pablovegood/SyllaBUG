@@ -2,11 +2,15 @@
 Grado: educacion-infantil (258)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Pérez-García, P., Domingo Segovia, J., Hernández Ríos, M. L., Latorre-Medina, M. J., López López, M.
+D.   C.,   Molina  Ruiz,  E.,  y  Montes  Moreno,  S.  (2013).  Tutorización  académica  durante  el  prácticum  de
+la    titulación    de    grado   de   educación   infantil   para   la   ética   profesional.   Recuperado   de
+http://hdl.handle.net/10481/28428   Martínez-Figueira,   E.   y   Raposo-Rivas,  M.  (Eds.)  (2019).  Kit  de
+supervivencia para el Prácticum de Educación Infantil y Primaria. Madrid: Universitas
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Bondioli, A. y Nigito, G. (2011). Tiempos, espacios y grupos. Barcelona: Graó
 
@@ -38,20 +42,14 @@ profesional. Educar, 36, 71-93
 Shores,   E.F.   y   Grace,   C.   (2004).   El   portafolio   paso   a  paso.  Infantil  y  Primaria.  Barcelona:
 Graó,90-103
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Pérez-García, P., Domingo Segovia, J., Hernández Ríos, M. L., Latorre-Medina, M. J., López López, M.
-D.   C.,   Molina  Ruiz,  E.,  y  Montes  Moreno,  S.  (2013).  Tutorización  académica  durante  el  prácticum  de
-la titulación de grado de educación infantil para la Martínez-Figueira, E. y Raposo-Rivas, M. (Eds.)
-(2019). Kit de supervivencia para el Prácticum de Educación Infantil y Primaria. Madrid: Universitas
-→   Martínez-Figueira,  E.  y  Raposo-Rivas,  M.  (Eds.)  (2019).  Kit  de  supervivencia  para  el  Prácticum  de
+Martínez-Figueira,   E.   y   Raposo-Rivas,  M.  (Eds.)  (2019).  Kit  de  supervivencia  para  el  Prácticum  de
 Educación Infantil y Primaria. Madrid: Universitas
 
-✅ Recursos añadidos:
-------------------------------
 Pérez-García, P., Domingo Segovia, J., Hernández Ríos, M. L., Latorre-Medina, M. J., López López, M.
 D.   C.,   Molina  Ruiz,  E.,  y  Montes  Moreno,  S.  (2013).  Tutorización  académica  durante  el  prácticum  de
 la    titulación    de    grado   de   educación   infantil   para   la   ética   profesional.   Recuperado   de
 http://hdl.handle.net/10481/28428
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

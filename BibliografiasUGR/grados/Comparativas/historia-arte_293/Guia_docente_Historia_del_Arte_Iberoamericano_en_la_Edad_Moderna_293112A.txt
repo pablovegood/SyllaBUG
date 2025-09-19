@@ -2,11 +2,13 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+ALCALÁ, Luisa Elena y BROWN, Jonathan (Eds.) Pintura en Hispanoamérica, 1550-1820
 
-📚 Recursos sin cambios:
+Madrid, Ediciones El Viso, 2014
+
+📚 Recursos sin cambios (26):
 ------------------------------
 AA.VV. Escultura en el Perú. Lima, Banco de Crédito del Perú, 1991
 
@@ -74,14 +76,15 @@ ROMERO SÁNCHEZ, Guadalupe. Los pueblos de indios en Nueva Granada. Granada, Atr
 RUIZ GUTIÉRREZ, Ana. El galeón de Manila. Intercambios culturales. Granada, Editorial Universidad de
 Granada, 2016
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Madrid,   Ediciones   El   Viso,   2014   →   ALCALÁ,   Luisa   Elena   y   BROWN,   Jonathan  (Eds.)  Pintura  en
-Hispanoamérica, 1550-1820. Madrid, Ediciones El Viso, 2014
+ALCALÁ, Luisa Elena y BROWN, Jonathan (Eds.) Pintura en Hispanoamérica, 1550-1820. Madrid, Ediciones
+El Viso, 2014
 
-✅ Recursos añadidos:
-------------------------------
+ALCALÁ, Luisa Elena y BROWN, Jonathan (Eds.) Pintura en Hispanoamérica, 1550-1820. Madrid, Ediciones
+El Viso, 2014
+
 LÓPEZ   GUZMÁN,   Rafael   (Ed.).  Tornaviaje.  Arte  iberoamericano  en  España.  Madrid,  Museo  Nacional  del
 Prado, 2021
 
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

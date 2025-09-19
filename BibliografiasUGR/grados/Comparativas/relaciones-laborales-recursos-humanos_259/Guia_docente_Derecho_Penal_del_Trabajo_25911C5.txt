@@ -2,44 +2,33 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Lecciones. Editorial Bomarzo, Albacete, 2017. Muñoz Conde, Francisco. Derecho penal: Parte Especial.
-Tirant   lo   Blanch,   Valencia,   2023.   Pérez  Alonso,  Esteban  (Coord.).  Derecho  Penal.  Parte  General.
-BdeF,   Montevideo-Buenos   Aires,   2022.   Morillas   Cuevas,   Lorenzo,  Sistema  de  Derecho  Penal.  Parte
-General, Dykinson, 2019. Cuadrado Ruiz ( dir).Cuestiones penales. A propósito de la Reforma penal de
-2015.   Dylinson,   2016.   De   Vicente   Martínez,   Rosario,   Los   delitos   contra  los  derechos  de  los
-trabajadores,   Tirant   lo   Blanch,   Valencia,   2008.   Mir   Puig,  Santiago/  Corcoy  Bidasolo,  Mirentxu
-(Dres.),   Protección   penal   de   los  derechos  de  los  trabajadores,  Edisofer,  2009.  docente.  Su  valor
-será   el  100%  de  la  nota  final  y  se  realizará  en  la  misma  fecha  y  hora  fijada  en  la  convocatoria  del
-examen   de   la   asignatura  →  Mir  Puig,  Santiago/  Corcoy  Bidasolo,  Mirentxu  (Dres.),  Protección  penal
-de los derechos de los trabajadores, Edisofer, 2009
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (7):
 ------------------------------
 Cuadrado Ruiz ( dir).Cuestiones penales. A propósito de la Reforma penal de 2015. Dylinson, 2016
-
-Código penal actualizado
 
 De   Vicente   Martínez,   Rosario,   Los   delitos   contra   los  derechos  de  los  trabajadores,  Tirant  lo
 Blanch, Valencia, 2008
 
-Morillas Cuevas, Lorenzo, Sistema de Derecho Penal. Parte General, Dykinson, 2019
+Mir   Puig,   Santiago/   Corcoy   Bidasolo,   Mirentxu   (Dres.),  Protección  penal  de  los  derechos  de  los
+trabajadores, Edisofer, 2009
 
-Muñoz Conde, F. Derecho penal. Parte General.Tirant lo Blanch, Valencia. última edición
+Morillas Cuevas, Lorenzo, Sistema de Derecho Penal. Parte General, Dykinson, 2019
 
 Muñoz Conde, Francisco. Derecho penal: Parte Especial. Tirant lo Blanch, Valencia, 2023
 
 Pérez Alonso, Esteban (Coord.). Derecho Penal. Parte General. BdeF, Montevideo-Buenos Aires, 2022
 
-Terradillos Basoco/Boza Martínez, El Derecho penal aplicable a las relaciones laborales
+Terradillos Basoco/Boza Martínez, El Derecho penal aplicable a las relaciones laborales. Lecciones.
+Editorial Bomarzo, Albacete, 2017
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Código penal actualizado
+
+Muñoz Conde, F. Derecho penal. Parte General.Tirant lo Blanch, Valencia. última edición
+
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

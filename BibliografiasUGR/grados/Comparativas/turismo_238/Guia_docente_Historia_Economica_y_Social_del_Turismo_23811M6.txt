@@ -2,11 +2,11 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Lickorish, L. J. & Jenkins, C. L. (1997). An Introduction to Tourism. Butterwort- Heinemann
+Lickorish, L. J. & Jenkins, C. L. (1997). An Introduction to Tourism. ButterwortHeinemann
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (32):
 ------------------------------
 100 años de administración turística española, 1905-2005 . (2005). Estudios Turísticos, Num. 163-164
 
@@ -93,12 +93,8 @@ Rousseau, the Age of Enlightenment, and Their Legacies . Princeton University Pr
 Zuelow,   E.   G.   E.   &   James,   K.   (Eds.)   (2021).   The  Oxford  Handbook  of  Tourism  History  .  Oxford
 University Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 Zuelow, E. G. E. (2015). The History of Modern Tourism . Red Globe Press
 
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

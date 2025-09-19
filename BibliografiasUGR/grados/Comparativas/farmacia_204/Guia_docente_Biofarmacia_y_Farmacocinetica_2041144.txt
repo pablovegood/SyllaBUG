@@ -2,20 +2,23 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Aguilar   Ros,   A.  Biofarmacia  y  Farmacocinetica  (2ª  ed.):  Ejercicios  y  problemas  resueltos.  Elsevier
+España, 2014
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
-Aguilar   Ros,   A.   Biofarmacia   y  Farmacocinetica:  Ejercicios  y  problemas  resueltos.  3ª  ed.  Elsevier
-España, 2025
-
 Alan    Talevi    (Editor).    The    ADME   Encyclopedia:   A   Comprehensive   Guide   on   Biopharmacy   and
 Pharmacokinetics. Springer Nature Switzerland AG, 2022
 
 Curry   S.H.,   Whelpton   R.   Drug   Disposition  and  Pharmacokinetics:  from  principles  to  applications.
 Wiley Blackwell, John Wiley & Sons Ltd., 2011
+
+Domenech   J.,   Martinez   Lanao   J.,   Peraire  C.  Tratado  general  de  biofarmacia  y  farmacocinética  II.
+Editorial Síntesis, 2013
+
+Domenech J., Peraire C. Tratado general de biofarmacia y farmacocinética I. Editorial Síntesis, 2013
 
 Dressman   J.B.,   Reppas   CH.   Oral  Drug  Absorption:  Prediction  and  Assessment,  2a  ed.  (Drugs  and  the
 Pharmaceutical Sciences, Vol. 193) CRC Press, 2010
@@ -40,9 +43,8 @@ Revista International Journal of Pharmaceutics. Editorial Elsevier
 
 Revista Journal of Drug Delivery Science and Technology. Editorial Elsevier
 
-Revista Pharmaceutical Development and Technology. Editorial Taylor & Francis
-
-Revista Pharmaceutics. Editorial MDPI
+Revista    Pharmaceutical    Development    and    Technology.    Editorial   Taylor   &   Francis.   Revista
+Pharmaceutics. Editorial MDPI
 
 Ritschel   W.,   Kearns,   G.L.   Handbook  of  Basic  Pharmacokinetics.  Clinical  Applications.  7ª  ed.  APHA
 American Pharmacists Association, 2009
@@ -57,21 +59,17 @@ Shargel L.,Yu A. Applied Biopharmaceutics & Pharmacokinetics, 7a ed. McGraw Hill
 
 Talevi   A,   Quiroga   PAM   (ed).   ADME   Processes   in   Pharmaceutical   Sciences   Dosage,   Design,  and
 Pharmacotherapy         Success.         Springer,        2018.        Acceso        alumnos        (VPN):
-https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014087121204990
+https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014087121204990     Hannah    Batchelor
+(Editor). Biopharmaceutics: From Fundamentals to Industrial Practice
 
 Waterbeemd   H.   VAN  DE.  Drug  bioavailability:  estimation  of  solubility,  permeability,  absorption  and
 bioavailability. Verlag Chemie, Gmbh, 2008
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Elsevier   España,   2014   →   Aguilar   Ros,   A.   Biofarmacia  y  Farmacocinetica:  Ejercicios  y  problemas
-resueltos. 3ª ed. Elsevier España, 2025
+Aguilar   Ros,   A.   Biofarmacia   y  Farmacocinetica:  Ejercicios  y  problemas  resueltos.  3ª  ed.  Elsevier
+España, 2025
 
-✅ Recursos añadidos:
-------------------------------
-Domenech   J.,   Martinez   Lanao   J.,   Peraire  C.  Tratado  general  de  biofarmacia  y  farmacocinética  II.
-Editorial Síntesis, 2013
+Revista Pharmaceutical Development and Technology. Editorial Taylor & Francis
 
-Domenech J., Peraire C. Tratado general de biofarmacia y farmacocinética I. Editorial Síntesis, 2013
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

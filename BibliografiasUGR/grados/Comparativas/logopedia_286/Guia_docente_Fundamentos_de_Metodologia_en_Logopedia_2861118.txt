@@ -2,14 +2,19 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Fontes   de  Gracia,  S.,  García  Gallego,  C.,  Quintanilla  Cobián,  L.,  Rodríguez  Fernández,  R.,  Rubio  de
+Lemus,   P.   y   Sarriá   Sánchez,   E.  (2019).  Fundamentos  de  investigación  en  Psicología.  Madrid:  UNED
+León,   O.   G.   &   Montero,   I.   (2015).   Métodos   de   investigación   en   Psicología  y  Educación:  las
+tradiciones cuantitativa y cualitativa. Madrid: McGraw-Hill
 
-📚 Recursos sin cambios:
+Navarro   D.J.   y   Foxcroft   D.R.   (2019).  Learning  statistics  with  jamovi:  a  tutorial  for  psychology
+students   and   other   beginners.   (Version   0.70).  DOI:  10.24384/hgc3-7p15  FUNDAMENTAL:  Ahlbom,  A.  &
+Norell, S. (1992). Fundamentos de epidemiología. Madrid: Siglo XXI
+
+📚 Recursos sin cambios (30):
 ------------------------------
-Ahlbom, A. & Norell, S. (1992). Fundamentos de epidemiología. Madrid: Siglo XXI
-
 Anguera, M. T. (1991). Metodología observacional en la investigación psicológica. Barcelona: PPU
 
 Anguera,   M.T.,   Arnau,   J.,   Ato,   M.,   Martínez,   R.,   Pascual,  J.,  Vallejo,  G.  (1995).  Métodos  de
@@ -33,11 +38,11 @@ Brown, H. I. (1984). La nueva filosofía de la ciencia. Madrid: Tecnos
 Burgos,   R.  (1998).  Metodología  de  investigación  y  escritura  científica  en  clínica.  Granada:  Escuela
 Andaluza de Salud Pública
 
+BÁSICA:   Castellanos   López,   M.   A.,   Pérez   Moreno,   E.   y   Simón   López,   T.   (2018).   Métodos  de
+investigación en logopedia. Madrid: Editorial Síntesis
+
 Campbell,   D.T.   &   Stanley,   J.C.   (1982).   Diseños   experimentales   y   cuasi-experimentales   en  la
 investigación social. Buenos Aires: Amorrortu
-
-Castellanos   López,   M.   A.,   Pérez  Moreno,  E.  y  Simón  López,  T.  (2018).  Métodos  de  investigación  en
-logopedia. Madrid: Editorial Síntesis
 
 Cepa,   J.   M.   (1996).   Metodología   observacional  en  entornos  educativos:  concepto,  planificación  y
 límites. Psicología educativa, 11(1), 35-54
@@ -62,9 +67,6 @@ Losada, J. L. (1999). Metodología observacional. A Coruña: Penta
 Moreno,   R.,   Martínez,   R.   &  Chacón,  S.  (2000).  Fundamentos  metodológicos  en  Psicología  y  ciencias
 afines. Madrid: Pirámide
 
-Navarro   D.J.   y   Foxcroft   D.R.   (2019).  Learning  statistics  with  jamovi:  a  tutorial  for  psychology
-students and other beginners. (Version 0.70). DOI: 10.24384/hgc3-7p15
-
 Palmer, A. (1995). El análisis exploratorio de datos. Madrid: Eudema
 
 Pelegrina,   M.   &   Beltrán,   F.   S.   (1999).  La  investigación  experimental  en  Psicología.  Archidona:
@@ -82,23 +84,22 @@ Walker, M (1997). Cómo escribir trabajos de investigación. Barcelona: Gedisa
 
 Wartofsky, M. W. (1976). Introducción a la filosofía de la ciencia. Madrid: Alianza
 
+http://ebookcentral.proquest.com/lib/ugr/detail.action?docID=4569980
+
 Álvarez,   M.   R.   &   Ruiz,  A.  (2006).  La  imagen  del  sistema  sanitario  en  España  (1995-2004).  Madrid:
 Centro de Investigaciones Sociológicas
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Fontes   de  Gracia,  S.,  García  Gallego,  C.,  Quintanilla  Cobián,  L.,  Rodríguez  Fernández,  R.,  Rubio  de
-Lemus,   P.   y   Sarriá   Sánchez,   E.  (2019).  Fundamentos  de  investigación  en  Psicología.  Madrid:  UNED
-León,   O.   G.   &   Montero,   I.   (2015).   Métodos   de   investigación   en   Psicología  y  Educación:  las
-tradiciones   cuantitativa   y   cualitativa.   Madrid:   McGraw-Hill  →  León,  O.  G.  &  Montero,  I.  (2015).
-Métodos   de   investigación   en   Psicología   y  Educación:  las  tradiciones  cuantitativa  y  cualitativa.
-Madrid: McGraw-Hill
+Ahlbom, A. & Norell, S. (1992). Fundamentos de epidemiología. Madrid: Siglo XXI
 
-✅ Recursos añadidos:
-------------------------------
 Fontes   de  Gracia,  S.,  García  Gallego,  C.,  Quintanilla  Cobián,  L.,  Rodríguez  Fernández,  R.,  Rubio  de
 Lemus, P. y Sarriá Sánchez, E. (2019). Fundamentos de investigación en Psicología. Madrid: UNED
 
-http://ebookcentral.proquest.com/lib/ugr/detail.action?docID=4569980
+León,   O.   G.   &   Montero,   I.   (2015).   Métodos   de   investigación   en   Psicología  y  Educación:  las
+tradiciones cuantitativa y cualitativa. Madrid: McGraw-Hill
 
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+Navarro   D.J.   y   Foxcroft   D.R.   (2019).  Learning  statistics  with  jamovi:  a  tutorial  for  psychology
+students and other beginners. (Version 0.70). DOI: 10.24384/hgc3-7p15
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

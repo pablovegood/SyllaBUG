@@ -2,13 +2,16 @@
 Grado: matematicas (270)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 C. ALSINA, R. PEREZ y C. RUIZ, Simetría Dinámica, Síntesis 1989
+
+D.   HILBERT   y  S.  COHN-VOSSEN,  Geometry  and  the  imagination,  Nueva  York:  Chelsea  Publishing  Co.  1952
+(AMS Chelsea Publishing 1999)
 
 EUCLID.   The   Thirteen   Books  of  Euclid’s  Elements  Translated  from  the  Text  of  Heiberg.  Introduction
 and   Books   I,  II.Translated  by  Thomas  L.  Heath.  Vol.  I.  3  vols.  Dover  Publications,  Inc.,  New  York.
@@ -33,6 +36,8 @@ M. BERGER. Geometry, vol. 1 y 2, Springer-Verlag 1987
 M.   J.  GREENBERG.  Euclidean  and  Non-Euclidean  Geometries:  Development  and  History.  3rd  ed.  New  York:
 W.H. Freeman 1993
 
+M. KLEIN, Mathematical Thought From Ancient to Modern Times, Volume 3. Oxford University Press 1972
+
 O.   BYRNE.   The  First  Six  Books  of  the  Elements  of  Euclid  in  Which  Coloured  Diagrams  and  Symbols  Are
 Used Instead of Letters for the Greater Ease of Learners. Taschen GmbH, Cologne 2010
 
@@ -48,15 +53,8 @@ W. BARKER, H. ROGER. Continuous Symmetry. American Mathematical Society, Provide
 
 W. P. THURSTON. “The Geometry and Topology of Three-Manifolds.” Princeton, N.J. 1980
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-14.D.   HILBERT   y   S.   COHN-VOSSEN,  Geometry  and  the  imagination,  Nueva  York:  Chelsea  Publishing  Co.
-1952   (AMS   Chelsea  Publishing  1999)  15.M.  KLEIN,  Mathematical  Thought  From  Ancient  to  Modern  Times,
-Volume   3.   Oxford   University   Press   1972   →   D.   HILBERT   y   S.   COHN-VOSSEN,   Geometry   and   the
-imagination, Nueva York: Chelsea Publishing Co. 1952 (AMS Chelsea Publishing 1999)
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-M. KLEIN, Mathematical Thought From Ancient to Modern Times, Volume 3. Oxford University Press 1972
-
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

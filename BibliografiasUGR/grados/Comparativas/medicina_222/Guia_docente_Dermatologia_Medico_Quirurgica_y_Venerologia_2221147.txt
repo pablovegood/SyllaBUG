@@ -2,28 +2,26 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Atlas y Sinopsis de Dermatología Clínica de Fitzpatrick. Panamericana,2014
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
+Bibliografía   Adicional   Dermatología:  Principales  diagnósticos  y  tratamientos.  Bolognia  JL,  et  al  .
+Elsevier-2018
+
+Cada   profesor   recomendará   la   bibliografía   necesaria   para   la   Unidad  Temática  correspondiente.
+Bibliografía General
+
 Manual de Dermatología. Conejo-Mir, Moreno, Camacho. Aula Médica,2018
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Atlas    y    Sinopsis   de   Dermatología   Clínica   de   Fitzpatrick.   Panamericana,2014.   Dermatología:
-Principales   diagnósticos   y   tratamientos.  Bolognia  JL,  et  al  .  Elsevier-2018  →  Atlas  y  Sinopsis  de
-Dermatología Clínica de Fitzpatrick. Panamericana,2024
-
-✅ Recursos añadidos:
-------------------------------
-Bibliografía Adicional
+Atlas y Sinopsis de Dermatología Clínica de Fitzpatrick. Panamericana,2024
 
 Bibliografía General
 
-Cada profesor recomendará la bibliografía necesaria para la Unidad Temática correspondiente
-
 Dermatología: Principales diagnósticos y tratamientos. Bolognia JL, et al . Elsevier-2024
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

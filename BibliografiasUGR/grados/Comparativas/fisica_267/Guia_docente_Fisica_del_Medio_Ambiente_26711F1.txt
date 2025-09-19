@@ -2,11 +2,21 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+G.   Boyle.“RENEWABLE   ENERGY  –  Power  for  a  sustainable  future”.  Oxford  University  Press  and  The  Open
+University, 1996 J.B. Jones and R.E. Dugan, Ingeniería Termodinámica. Prentice Hall. 1997
 
-📚 Recursos sin cambios:
+Miguel   Villarubia,  “Energía  eólica”  CEAC,  2004  J.L.  Rodríguez  Amenedo,  J.C.  Burgos  Díaz,  S.  Arnalte
+Gómez,   “Sistemas   eólicos   de   producción  de  energía  eléctrica”,  Rueda  S.L.,  2003  M.  Alonso  Abella,
+“Sistemas fotovoltaicos: introducción al diseño y dimensionado de
+
+instalaciones   de  energía  solar  fotovoltaica”  ,  SAPT  Publicaciones  técnicas,  2005  Fernández  Salgado,
+José   María   “Compendio   de   energía   solar   :  fotovoltaica,  térmica  y  termoeléctrica  :  (adaptado  al
+Código   Técnico   de  la  edificación)”  ,  Mundi-Prensa,  2008  Narciso  Moreno  Alfonso,  Lorena  García  Díaz
+“Instalaciones de energía Fotovoltaica” , Garceta
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Baró Casanovas, J. y otros. Origen y gestión de residuos radiactivos. Edita: Ilustre Colegio Oficial
 de Físicos. Patrocina esta edición: ENRESA. Madrid. 2000. 215 páginas
@@ -14,6 +24,9 @@ de Físicos. Patrocina esta edición: ENRESA. Madrid. 2000. 215 páginas
 E. Boeker y R. van Grodelle. “Environmental Physics”. Wiley, Chichester, Reino Unido, 1995
 
 E. Boeker y R. van Grodelle. “Environmental Science”. Wiley, Chichester, Reino Unido, 2001
+
+Esta   bibliografía   se   complementa  con  los  recursos  docentes  y  la  bibliografía  adicional  que  estará
+disponible en PRADO
 
 González Velasco, J. Energías renovables. Reverté. Madrid. 2010
 
@@ -34,31 +47,18 @@ Ristinen, R. A.; J. J. Kraushaar. Energy and the Environment. Wiley. Nueva York.
 
 Russel y Adebiyi, Termodinámica clásica. Addison-Wesley Iberoamericana, S.A. 1997
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Miguel   Villarubia,  “Energía  eólica”  CEAC,  2004  J.L.  Rodríguez  Amenedo,  J.C.  Burgos  Díaz,  S.  Arnalte
-Gómez,   “Sistemas   eólicos   de   producción  de  energía  eléctrica”,  Rueda  S.L.,  2003  M.  Alonso  Abella,
-“Sistemas   fotovoltaicos:   introducción   al   diseño  y  dimensionado  de  instalaciones  de  energía  solar
-fotovoltaica”   ,   SAPT   Publicaciones   técnicas,   2005   Fernández   Salgado,  José  María  “Compendio  de
-energía   solar   :   fotovoltaica,   térmica   y   termoeléctrica   :   (adaptado   al   Código  Técnico  de  la
-edificación)”   ,   Mundi-Prensa,   2008   Narciso   Moreno  Alfonso,  Lorena  García  Díaz  “Instalaciones  de
-energía   Fotovoltaica”   ,   Garceta   →   J.L.   Rodríguez   Amenedo,  J.C.  Burgos  Díaz,  S.  Arnalte  Gómez,
-“Sistemas eólicos de producción de energía eléctrica”, Rueda S.L., 2003
-
-G.   Boyle.“RENEWABLE   ENERGY  –  Power  for  a  sustainable  future”.  Oxford  University  Press  and  The  Open
-University,   1996   J.B.   Jones   and  R.E.  Dugan,  Ingeniería  Termodinámica.  Prentice  Hall.  1997  →  J.B.
-Jones and R.E. Dugan, Ingeniería Termodinámica. Prentice Hall. 1997
-
-✅ Recursos añadidos:
-------------------------------
-Esta   bibliografía   se   complementa  con  los  recursos  docentes  y  la  bibliografía  adicional  que  estará
-disponible en PRADO
-
 Fernández Salgado, José María “Compendio de energía solar : fotovoltaica, térmica y termoeléctrica :
 (adaptado al Código Técnico de la edificación)”, Mundi-Prensa, 2008
 
 G.   Boyle.“RENEWABLE   ENERGY  –  Power  for  a  sustainable  future”.  Oxford  University  Press  and  The  Open
 University, 1996
+
+J.B. Jones and R.E. Dugan, Ingeniería Termodinámica. Prentice Hall. 1997
+
+J.L.   Rodríguez   Amenedo,   J.C.   Burgos   Díaz,   S.  Arnalte  Gómez,  “Sistemas  eólicos  de  producción  de
+energía eléctrica”, Rueda S.L., 2003
 
 M. Alonso Abella, “Sistemas fotovoltaicos: introducción al diseño y dimensionado de instalaciones de
 energía solar fotovoltaica”, SAPT Publicaciones técnicas, 2005
@@ -67,4 +67,4 @@ Miguel Villarubia, “Energía eólica” CEAC, 2004
 
 Narciso Moreno Alfonso, Lorena García Díaz “Instalaciones de energía Fotovoltaica”, Garceta, 2010
 
-📊 Porcentaje estimado de cambio: 57% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

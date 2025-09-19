@@ -2,11 +2,14 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+(1985) A Comprehensive Grammar of the English Language. Longman, Harcourt
 
-📚 Recursos sin cambios:
+CRYSTAL,   D.   (1995)   The   Cambridge   Encyclopedia   of   the   English   language.  Cambridge:  Cambridge
+University Press. JONES, L. and ALEXANDER, R. (1996) New international business English
+
+📚 Recursos sin cambios (9):
 ------------------------------
 BEARD, A. (2000) The Language of Politics. London and New York: Routledge
 
@@ -33,12 +36,18 @@ University Press
 
 WODAK, R. (1998) Language, power and ideology. Amsterdam: John Benjamins
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-No hubo cambios de edición/año.
+CRYSTAL,   D.   (1995)   The   Cambridge   Encyclopedia   of   the   English   language.  Cambridge:  Cambridge
+University   Press.  JONES,  L.  and  ALEXANDER,  R.  (1996)  New  international  business  English.  Cambridge:
+Cambridge   University   Press.   QUIRK,   R.,   GREENBAUM   S.,   LEECH   G.,   and   SVARTVIK   J.   (1985)   A
+Comprehensive Grammar of the English Language. Longman, Harcourt
 
-✅ Recursos añadidos:
-------------------------------
+CRYSTAL,   D.   (1995)   The   Cambridge   Encyclopedia   of   the   English   language.  Cambridge:  Cambridge
+University   Press.  JONES,  L.  and  ALEXANDER,  R.  (1996)  New  international  business  English.  Cambridge:
+Cambridge   University   Press.   QUIRK,   R.,   GREENBAUM   S.,   LEECH   G.,   and   SVARTVIK   J.   (1985)   A
+Comprehensive Grammar of the English Language. Longman, Harcourt
+
 HURTADO ALBIR, A. (2001). Traducción y Traductología. Cátedra
 
 HURTADO   ALBIR,   A.;   A.   KUZNIK   &   P.   RODRÍGUEZ-INÉS.   (2022).   "La   competencia   traductora  y  su
@@ -53,4 +62,4 @@ NORD,   C.   (1991).   Text   Analysis  in  Translation.  Theory,  Mehodology,  
 model   for   Translation-Orientes   Text   Analysis,   traducción   del   alemán   de  C.  Nord  y  P.  Sparrow,
 Amsterdam, Rodoppi, 1991, ISBN 90-5183-311-3
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 61% [██████░░░░]

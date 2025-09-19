@@ -2,11 +2,13 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Jaworek-Lopes,   C,   Morse,   C.   (2012),   Chemistry   of   Art.  Learning  Science  Through  the  Fine  Arts.
+Academic   Press   Matteini,  M.,  &  Moles,  A.  (2001),  La  química  en  la  restauración:  los  materiales  del
+arte pictórico (Vol. 7). Nerea
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Artioli,   G.  (2010),  Scientific  methods  and  cultural  heritage:  an  introduction  to  the  application  of
 materials science to archaeometry and conservation science. OUP Oxford
@@ -36,16 +38,12 @@ Stuart, B. H. (2007), Analytical techniques in materials conservation. John Wile
 Varella,   E.   (2012),   Conservation   Science  for  the  Cultural  Heritage:  Applications  of  Instrumental
 Analysis. Springer
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Jaworek-Lopes,   C,   Morse,   C.   (2012),   Chemistry   of   Art.  Learning  Science  Through  the  Fine  Arts.
-Academic   Press   Matteini,  M.,  &  Moles,  A.  (2001),  La  química  en  la  restauración:  los  materiales  del
-arte   pictórico   (Vol.   7).  Nerea  →  Matteini,  M.,  &  Moles,  A.  (2001),  La  química  en  la  restauración:
-los materiales del arte pictórico (Vol. 7). Nerea
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Jaworek-Lopes,   C,   Morse,   C.   (2012),   Chemistry   of   Art.  Learning  Science  Through  the  Fine  Arts.
 Academic Press
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+Matteini,   M.,   &  Moles,  A.  (2001),  La  química  en  la  restauración:  los  materiales  del  arte  pictórico
+(Vol. 7). Nerea
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

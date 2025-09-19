@@ -2,11 +2,11 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 Aguilar   Alcaraz,   R.   (2018).  Intervención  en  trastornos  del  lenguaje:  Teoría  y  práctica.  Editorial
 Síntesis
@@ -14,17 +14,18 @@ Síntesis
 Asociación Psiquiátrica Americana. (2014). DSM-5. Manual diagnóstico y estadístico de los trastornos
 mentales (5ª Ed.). Madrid: Panamericana
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Bosch, L. (2011). Evaluación fonológica del habla infantil. Barcelona. Massón
 
-✅ Recursos añadidos:
+Cuetos, F. (2009). Psicología de la escritura. Madrid: Wolters Kluwer España
+
+Martínez-Ferreiro,   S.   (2019).   Trastornos   del  desarrollo  del  lenguaje:  Intervención  y  evaluación.
+Alianza Editorial
+
+✅ Recursos añadidos (17):
 ------------------------------
 Adrián,    J.A.   y   Rodríguez-Parra,   M.J.   (2015).   Evaluación   del   tratamiento   logopédico   en   la
 rehabilitación   de   la  disfonía  en  adultos:  seguimiento  de  los  efectos  grupales  y  de  las  variaciones
 individuales. Revista de Logopedia, Foniatría y Audiología, 35, 17-29
-
-Bosch, L. (2011). Evaluación fonológica del habla infantil. Barcelona. Massón
 
 Buiza,   JJ,  Rodríguez-Parra,  M.J.  y  Adrián,  J.A.  (2016).  Trastorno  específico  del  lenguaje:  subtipos
 de una patología compleja. Revista de Logopedia, Foniatría y Audiología, 36, 36-52
@@ -38,8 +39,6 @@ Casado,   JC,   Rodríguez-Parra,   M.J.   y   Adrián,   JA.   (2017).   Voice 
 transgendered   clients  after  Wendler’s  glottoplasty  with  vs.  without  voice  therapy  support.  European
 Archives of Oto-RhinoLaryngology and Head & Neck, 274 (4), 2049-2058 DOI 10.1007/s00405-016-4420-8
 
-Cuetos, F. (2009). Psicología de la escritura. Madrid: Wolters Kluwer España
-
 González-Villegas,   A.,   y   Pérez-González,   R.  (2019).  "Intervención  temprana  en  los  trastornos  del
 lenguaje: Una revisión sistemática". Revista de Logopedia, Foniatría y Audiología, 39(1), 25-34
 
@@ -48,9 +47,6 @@ Nuevas perspectivas". Revista Española de Lingüística Aplicada, 34(2), 189-20
 
 López-Ornat,   S.,   y   Sebastián-Gallés,   N.   (2020).   "Desarrollo   y   trastornos   del  lenguaje  en  la
 infancia". Psicothema, 32(2), 159-165
-
-Martínez-Ferreiro,   S.   (2019).   Trastornos   del  desarrollo  del  lenguaje:  Intervención  y  evaluación.
-Alianza Editorial
 
 Mendoza, E. (2010). “Trastorno Específico del Lenguaje (TEL). Madrid: Ediciones Pirámide
 
@@ -79,4 +75,4 @@ Salgado, A. (2014). Manual práctico de tartamudez. Madrid: Síntesis
 Shipley,   K.  G.,  y  McAfee,  J.  G.  (2019).  Assessment  in  Speech-Language  Pathology:  A  Resource  Manual.
 Cengage Learning
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 77% [███████░░░]

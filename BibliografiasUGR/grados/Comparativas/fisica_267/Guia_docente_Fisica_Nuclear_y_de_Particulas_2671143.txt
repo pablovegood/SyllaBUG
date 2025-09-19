@@ -2,11 +2,11 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 A.   Ferrer   Soria   y   E.   Ros   Martínez,.   `Física   de   Partículas  y  Astropartículas''.  Publi.  de  la
 Universidad de Valencia; ISBN: 84-370-6180-6
@@ -26,6 +26,8 @@ K. Heyde,"From Nucleons to the Atomic Nucleus", Springer, 1998
 
 K.N. Mukhin, "Experimental Nuclear Physics", Mir Publishers 1987
 
+K.S. Krane, “Introductory Nuclear Physics”, Wiley, 1987
+
 P. E. Hodgson, E. Gadioli y Egadioli Erba, "Introductory Nuclear Physics", Oxford Univ. Press, 2000
 
 R.C.   Fernow,   ``Introduction   to  Experimental  Particle  Physics''.  Cambridge  University  Press;  ISBN:
@@ -33,13 +35,8 @@ R.C.   Fernow,   ``Introduction   to  Experimental  Particle  Physics''.  Cambri
 
 S.S.M. Wong,"Introductory Nuclear Physics", Prentice Hall, 1990
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Press,   2000   K.S.   Krane,   “Introductory   Nuclear  Physics”,  Wiley,  1987  →  K.S.  Krane,  “Introductory
-Nuclear Physics”, Wiley, 1987
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

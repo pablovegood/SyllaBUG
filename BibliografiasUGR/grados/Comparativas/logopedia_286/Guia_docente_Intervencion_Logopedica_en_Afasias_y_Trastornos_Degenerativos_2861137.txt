@@ -2,11 +2,16 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+González   Maldonado,   R.   (1997).   El   extraño   caso   del   Dr.   Parkinson.   Granada:  Grupo  Editorial
+Universitario,   González   Maldonado,   R.  (2000).  El  extraño  caso  del  Dr.  Alzheimer.  (Del  olvido  a  la
+demencia). Granada: Grupo Editorial Universitario
 
-📚 Recursos sin cambios:
+Heilman,   K.M.   y  Valenstein,  E.  (2003).  Clinical  Neuropsychology  (4ª  ed.).  OUP  Helm-Estabrooks,  N  y
+Martin, L.A. (1994). Manual de la Terapia de la afasia. Madrid: Editorial Médica Panamericana
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Alberca-Serrano,   R.   y   Lopez-Pousa,   S.   (2010).  Enfermedad  de  Alzheimer  y  otras  demencias.  Buenos
 Aires: Editorial Médica Panamericana
@@ -18,9 +23,6 @@ Panamericana: Madrid
 
 Helm-Estabrooks, A. (2005). Manual de la Afasia y Terapia de la Afasia. Médica Panamericana: Madrid.
 (Pags. 183-449)
-
-Helm-Estabrooks,   N   y   Martin,   L.A.   (1994).   Manual  de  la  Terapia  de  la  afasia.  Madrid:  Editorial
-Médica Panamericana
 
 Juncos Rabadán, O. (1998). Lenguaje y envejecimiento. Bases para la intervención. España: Ed. Masson
 
@@ -46,20 +48,17 @@ Webb, W. y Ader, R.K. (2010). Neurología para el logopeda. Elsevier
 Zurita,   A.   (2009).   Guía  técnica  de  intervención  logopédica  en  la  enfermedad  de  Parkinson.  Madrid:
 Síntesis
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Heilman,   K.M.   y  Valenstein,  E.  (2003).  Clinical  Neuropsychology  (4ª  ed.).  OUP  Helm-Estabrooks,  N  y
-Martin,   L.A.   (1994).   Manual   de   la  Terapia  de  la  afasia.  Madrid  →  Heilman,  K.M.  y  Valenstein,  E.
-(2003). Clinical Neuropsychology (4ª ed.). OUP
-
 González   Maldonado,   R.   (1997).   El   extraño   caso   del   Dr.   Parkinson.   Granada:  Grupo  Editorial
-Universitario,   González   Maldonado,   R.  (2000).  El  extraño  caso  del  Dr.  Alzheimer.  (Del  olvido  a  la
-demencia).   Granada:   Grupo  Editorial  Universitario  →  González  Maldonado,  R.  (1997).  El  extraño  caso
-del Dr. Parkinson. Granada: Grupo Editorial Universitario
+Universitario
 
-✅ Recursos añadidos:
-------------------------------
 González   Maldonado,   R.   (2000).   El   extraño   caso   del  Dr.  Alzheimer.  (Del  olvido  a  la  demencia).
 Granada: Grupo Editorial Universitario
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+Heilman, K.M. y Valenstein, E. (2003). Clinical Neuropsychology (4ª ed.). OUP
+
+Helm-Estabrooks,   N   y   Martin,   L.A.   (1994).   Manual  de  la  Terapia  de  la  afasia.  Madrid:  Editorial
+Médica Panamericana
+
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

@@ -2,11 +2,15 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+GRICE,   H.P.,   «   Logique  et  conversation  »,  Communications,  30,  1979  (1975),  p.  57-72.  «  HENRY,  A.,
+Métonymie et métaphore, Gembloux, Duculot, 1984
 
-📚 Recursos sin cambios:
+SPERBER, D. et WILSON, D., La Pertinence. Communication et cognition, Paris, Les Éditions de Minuit,
+1989 (1986). « ULLMANN, S., Précis de sémantique française, Berne, Francke, 1952
+
+📚 Recursos sin cambios (52):
 ------------------------------
 ANSCOMBRE,   J.-C.   et   DUCROT,   O.,   L’argumentation   dans   la   langue,  Paris,  Mardaga,  Collection  «
 Philosophie et Langage », 1988
@@ -116,6 +120,9 @@ l’interprétation du discours, Paris, Armand Colin, Collection « U Linguistiq
 RECANATI,   F.,  Les  énoncés  performatifs,  Paris,  Les  Éditions  de  Minuit,  Collection  «  Propositions  »,
 1981
 
+REVUES:   Cahiers   de   linguistique   française   Les  Cahiers  de  lexicologie  L'Information  grammaticale
+Langages Langue française La Linguistique
+
 REY, A., Le Lexique : images et modèles, du dictionnaire à la lexicologie, Paris, Colin, 1977
 
 ROSIER,    L.,   Le   discours   rapporté.   Histoire,   théories,   pratiques,   Paris-Bruxelles,   Duculot,
@@ -134,25 +141,15 @@ Gallimard, 1961
 
 ZUFFEREY, S., Introduction à la linguistique de corpus, Londres, ISTE, 2020
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-GRICE,   H.P.,   «   Logique  et  conversation  »,  Communications,  30,  1979  (1975),  p.  57-72.  «  HENRY,  A.,
-Métonymie   et   métaphore,   Gembloux,   Duculot,   1984   →   GRICE,   H.P.,   «  Logique  et  conversation  »,
-Communications, 30, 1979 (1975), p. 57-72. «
-
-SPERBER, D. et WILSON, D., La Pertinence. Communication et cognition, Paris, Les Éditions de Minuit,
-1989   (1986).   «   ULLMANN,   S.,   Précis  de  sémantique  française,  Berne,  Francke,  1952  →  ULLMANN,  S.,
-Précis de sémantique française, Berne, Francke, 1952
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Cahiers de linguistique française
+
+GRICE, H.P., « Logique et conversation », Communications, 30, 1979 (1975), p. 57-72. «
 
 HENRY, A., Métonymie et métaphore, Gembloux, Duculot, 1984
 
 L'Information grammaticale
-
-La Linguistique
 
 Langue française
 
@@ -160,5 +157,7 @@ Les Cahiers de lexicologie
 
 SPERBER, D. et WILSON, D., La Pertinence. Communication et cognition, Paris, Les Éditions de Minuit,
 1989 (1986). «
+
+ULLMANN, S., Précis de sémantique française, Berne, Francke, 1952
 
 📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

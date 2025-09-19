@@ -2,11 +2,13 @@
 Grado: educacion-infantil-ceuta (458)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+RIVILLAS   ARIAS,   I   (2019).  Didáctica  de  la  Educación  Física  en  Educación  Infantil  y  Primaria.  Unir
+editorial.Logroño   CACHON   ZAGALAZ,   J   y   ARAUFE   GIRALDEZ,   V   (2022).   Educación  Física  infantil.
+Aplicación práctica desde la evidencia científica. Ediciones Morata SL. Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 ARNAIZ,   P.;  RABADÁN,  MARTA  y  VIVES,  YOLANDA  (2001).  “La  Psicomotricidad  en  la  escuela:  una  práctica
 preventiva y educativa”. Archidona: Ediciones Aljibe
@@ -41,22 +43,17 @@ SANCHEZ R.J. Y LLORCA, LL. M. (2009): Recursos y estrategias en psicomotricidad.
 
 SUGRAÑES, E Y ÁNGEL, Mª.A. (2007): La educación psicomotriz (3-8 años). Graó. Barcelona
 
-VACA, M. y VARELA, Mª S. (2008): Motricidad y aprendizaje. Graó. Barcelona
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-RIVILLAS   ARIAS,   I   (2019).  Didáctica  de  la  Educación  Física  en  Educación  Infantil  y  Primaria.  Unir
-editorial.Logroño   CACHON   ZAGALAZ,   J   y   ARAUFE   GIRALDEZ,   V   (2022).   Educación  Física  infantil.
-Aplicación   práctica   desde  la  evidencia  científica.  Ediciones  Morata  SL.  Madrid  →  CACHON  ZAGALAZ,  J
-y   ARAUFE   GIRALDEZ,   V   (2022).   Educación   Física  infantil.  Aplicación  práctica  desde  la  evidencia
-científica. Ediciones Morata SL. Madrid
-
-✅ Recursos añadidos:
-------------------------------
-RIVILLAS   ARIAS,   I   (2019).  Didáctica  de  la  Educación  Física  en  Educación  Infantil  y  Primaria.  Unir
-editorial.Logroño
-
 SUGRAÑES, E.; ÀNGEL, M.A. (coords.) (2007). La educación psicomotriz (3-8 años). Cuerpo, movimiento,
 percepción, afectividad: una propuesta teórico-práctica. Graó. Barcelona
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+VACA, M. y VARELA, Mª S. (2008): Motricidad y aprendizaje. Graó. Barcelona
+
+✅ Recursos añadidos (2):
+------------------------------
+CACHON   ZAGALAZ,  J  y  ARAUFE  GIRALDEZ,  V  (2022).  Educación  Física  infantil.  Aplicación  práctica  desde
+la evidencia científica. Ediciones Morata SL. Madrid
+
+RIVILLAS   ARIAS,   I   (2019).  Didáctica  de  la  Educación  Física  en  Educación  Infantil  y  Primaria.  Unir
+editorial.Logroño
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

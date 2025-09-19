@@ -2,18 +2,11 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Tim Wright. Learning JavaScript. Addison Wesley. 2013 Nicholas C. Zakas. Understanding ECMAScript 6.
-No Starch Press. 2016  →  Tim Wright. Learning JavaScript. Addison Wesley. 2013
+APress.   2016   Larry   Ullman.   PHP   and  MySQL  for  dynamic  web  sites  (4ed).  Peachpit  Press.  2012  Josh
+Lockhart.   Modern  PHP.  New  features  and  good  practices.  O’Reilly.  2015  Marc  Rochkind.  Expert  PHP  and
+MySQL. Application design and development. APress
 
 Jennifer   Niederst  Robins.  Learning  web  design.  O’Reilly.  2016  Kevin  Tatroe,  Peter  MacIntyre,  Rasmus
 Lerdorf.   Programming   PHP.   O’Reilly.   2013  Antonio  López.  Learning  PHP  7.  Packt.  2016  Robin  Nixon.
@@ -21,16 +14,19 @@ Learning   PHP,   MySQL   &  JavaScript  (4ed).  O’Reilly.  2014  David  Flana
 guide   (6ed).   O’Reilly.   2011  David  Gourley,  Brian  Totty.  HTTP  the  definitive  guide.  O’Reilly.  2002
 Leslie   F.   Sikos.   Web   standards.   Mastering   HTML5,   CSS3  and  XML  (2ed).  APress.  2014  Joel  Sklar.
 Principles   of   web   design.   Cengage   Learning.   2015  Andy  Budd,  Emil  Björklund.  CSS  Mastery  (3ed).
-Advanced   web   standards   solutions   →   Andy   Budd,   Emil  Björklund.  CSS  Mastery  (3ed).  Advanced  web
-standards solutions. APress. 2016
+Advanced web standards solutions
 
-APress.   2016   Larry   Ullman.   PHP   and  MySQL  for  dynamic  web  sites  (4ed).  Peachpit  Press.  2012  Josh
-Lockhart.   Modern  PHP.  New  features  and  good  practices.  O’Reilly.  2015  Marc  Rochkind.  Expert  PHP  and
-MySQL.   Application   design   and   development.   APress  →  Larry  Ullman.  PHP  and  MySQL  for  dynamic  web
-sites (4ed). Peachpit Press. 2012
+Tim Wright. Learning JavaScript. Addison Wesley. 2013 Nicholas C. Zakas. Understanding ECMAScript 6.
+No Starch Press. 2016
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
 ------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (14):
+------------------------------
+Andy Budd, Emil Björklund. CSS Mastery (3ed). Advanced web standards solutions. APress. 2016
+
 Antonio López. Learning PHP 7. Packt. 2016
 
 David Flanagan. JavaScript: the definitive guide (6ed). O’Reilly. 2011
@@ -45,6 +41,8 @@ Josh Lockhart. Modern PHP. New features and good practices. O’Reilly. 2015
 
 Kevin Tatroe, Peter MacIntyre, Rasmus Lerdorf. Programming PHP. O’Reilly. 2013
 
+Larry Ullman. PHP and MySQL for dynamic web sites (4ed). Peachpit Press. 2012
+
 Leslie F. Sikos. Web standards. Mastering HTML5, CSS3 and XML (2ed). APress. 2014
 
 Marc Rochkind. Expert PHP and MySQL. Application design and development. APress. 2014
@@ -52,5 +50,7 @@ Marc Rochkind. Expert PHP and MySQL. Application design and development. APress.
 Nicholas C. Zakas. Understanding ECMAScript 6. No Starch Press. 2016
 
 Robin Nixon. Learning PHP, MySQL & JavaScript (4ed). O’Reilly. 2014
+
+Tim Wright. Learning JavaScript. Addison Wesley. 2013
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

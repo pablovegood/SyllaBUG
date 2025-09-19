@@ -2,11 +2,19 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Casas,   F.   (2006).   Infancia   y   representaciones  sociales.  Política  y  Sociedad,  vol.  43,  nº  1  (pp.
+27-42)   Dávila,   O.  (2004).  Adolescencia  y  juventud:  de  las  nociones  a  los  abordajes.  Última  Década,
+nº 21 (pp. 83-104) Fernández Enguita, M. (1988). El rechazo escolar: ¿alternativa o trampa escolar?.
+Política y Sociedad, nº 1 (pp. 23-35)
 
-📚 Recursos sin cambios:
+Venegas   Medina,   M.  (2010).  La  maldición  de  ser  niña.  Estructuralismo,  postestructuralismo  y  teoría
+de   la   práctica   en   género   y   sexualidad.  Papers.  Revista  de  Sociología.  95/1  139-156,  2010,  ISSN
+0210-2862, http://www.raco.cat/index.php/Papers Vila, I. y Casares, R. (2009). Educación y sociedad.
+Una perspectiva sobre las relaciones entre la escuela y el entorno social: ICE-Horsori
+
+📚 Recursos sin cambios (53):
 ------------------------------
 Apple M. W. y Beane J. A. (1997). Escuelas democráticas: Morata
 
@@ -72,8 +80,14 @@ Guerrero, A. (2011): Enseñanza y sociedad. El conocimiento sociológico de la e
 Gómez,   J.   M.   (2005).   Los   niños   en   la   publicidad.   Una   propuesta   de   categorización   de  las
 representaciones sociales sobre la infancia en los anuncios televisivos. Zer, nº 19 (pp. 53-76)
 
+IPF.   Instituto   de   Política   Familiar   (2010).   Informe   Evolución   de   la  Familia  en  España  2010.
+http://www.ipfe.org
+
 Iglesias   de   Ussel,   J.   y   Trinidad,   A.   (coord.)  (2010).  Leer  la  sociedad:  una  introducción  a  la
 sociología general: Tecnos
+
+Jiménez,   M.   (2004).   Reformas   educativas  y  profesionalización  del  profesorado.  Papers,  nº  72  (pp.
+189-212)
 
 Krichesky, M. (Coord.) (2006). Escuela y comunidad: desafíos para la inclusión educativa: Ministerio
 de Educación, Ciencia y Tecnología de la Nación
@@ -138,26 +152,7 @@ sociología. Comunidad, familia y escuela: Tecnos
 
 Zeichner, K. M. (2010). La formación del profesorado y la lucha por la justicia social: Morata
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Venegas   Medina,   M.  (2010).  La  maldición  de  ser  niña.  Estructuralismo,  postestructuralismo  y  teoría
-de la práctica en género y sexualidad. Papers. Revista de Vila, I. y Casares, R. (2009). Educación y
-sociedad.   Una   perspectiva  sobre  las  relaciones  entre  la  escuela  y  el  entorno  social:  ICE-Horsori  →
-Vila,   I.   y  Casares,  R.  (2009).  Educación  y  sociedad.  Una  perspectiva  sobre  las  relaciones  entre  la
-escuela y el entorno social: ICE-Horsori
-
-Casas,   F.   (2006).   Infancia   y   representaciones  sociales.  Política  y  Sociedad,  vol.  43,  nº  1  (pp.
-27-42)   Dávila,   O.  (2004).  Adolescencia  y  juventud:  de  las  nociones  a  los  abordajes.  Última  Década,
-nº 21 (pp. 83-104) Fernández Enguita, M. (1988). El rechazo escolar: ¿alternativa o trampa escolar?.
-Política   y   Sociedad,   nº   1   (pp.   23-35)   →   Fernández   Enguita,   M.   (1988).  El  rechazo  escolar:
-¿alternativa o trampa escolar?. Política y Sociedad, nº 1 (pp. 23-35)
-
-IPF.   Instituto   de   Política  Familiar  (2010).  Informe  Evolución  de  la  Familia  en  España  Jiménez,  M.
-(2004).   Reformas   educativas   y   profesionalización   del  profesorado.  Papers,  nº  72  (pp.  189-212)  →
-IPF.   Instituto   de   Política   Familiar   (2010).   Informe   Evolución   de   la  Familia  en  España  2010.
-http://www.ipfe.org
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Casas,   F.   (2006).   Infancia   y   representaciones  sociales.  Política  y  Sociedad,  vol.  43,  nº  1  (pp.
 27-42)
@@ -165,11 +160,14 @@ Casas,   F.   (2006).   Infancia   y   representaciones  sociales.  Política  y
 Dávila,   O.   (2004).   Adolescencia  y  juventud:  de  las  nociones  a  los  abordajes.  Última  Década,  nº  21
 (pp. 83-104)
 
-Jiménez,   M.   (2004).   Reformas   educativas  y  profesionalización  del  profesorado.  Papers,  nº  72  (pp.
-189-212)
+Fernández   Enguita,   M.   (1988).   El   rechazo   escolar:   ¿alternativa   o  trampa  escolar?.  Política  y
+Sociedad, nº 1 (pp. 23-35)
 
 Venegas   Medina,   M.  (2010).  La  maldición  de  ser  niña.  Estructuralismo,  postestructuralismo  y  teoría
 de   la   práctica   en   género   y   sexualidad.  Papers.  Revista  de  Sociología.  95/1  139-156,  2010,  ISSN
 0210-2862, http://www.raco.cat/index.php/Papers
+
+Vila,   I.   y  Casares,  R.  (2009).  Educación  y  sociedad.  Una  perspectiva  sobre  las  relaciones  entre  la
+escuela y el entorno social: ICE-Horsori
 
 📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

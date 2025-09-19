@@ -2,11 +2,13 @@
 Grado: matematicas (270)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+García-Ligero,   M.J.,   Hermoso   Carazo,  A.,  Maldonado  Jurado,  J.A.,  Román  Román,  P.,  Torres  Ruíz,  F.
+(2007).   Curso   Básico   de   Probabilidad   con   CDPYE   (CD).  Copicentro  Haigh,  J.  (2002).  Probability
+Models. Springer-Verlag, London
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 Ash, R.B. (2008). Basic Probability Theory. Dover Publications Inc., New York
 
@@ -25,11 +27,6 @@ DeGroot, M.H., Schervish, M.J. (2002). Probability and Statistics. Addison-Wesle
 
 Fernández-Abascal,   H.,   Guijarro,   M.,   Rojo,   J.L.   y   Sanz,  J.A.  (1995).  Ejercicios  de  cálculo  de
 probabilidades. Ed. Ariel, S.A
-
-García-Ligero,   M.J.,   Hermoso   Carazo,  A.,  Maldonado  Jurado,  J.A.,  Román  Román,  P.,  Torres  Ruíz,  F.
-(2007). Curso Básico de Probabilidad con CDPYE (CD). Copicentro Editorial, Universidad de Granada
-
-Haigh, J. (2002). Probability Models. Springer-Verlag, London
 
 Horgan, J.M. (2009). Probability with R. John Wiley and Sons
 
@@ -56,12 +53,11 @@ Vélez, R., Hernández, V. (1995). Cálculo de Probabilidades 1. UNED, Madrid
 
 Zolotariéskaia, D.I. (2006). Teoría de Probabilidades (problemas resueltos). URSS, Moscú
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+García-Ligero,   M.J.,   Hermoso   Carazo,  A.,  Maldonado  Jurado,  J.A.,  Román  Román,  P.,  Torres  Ruíz,  F.
+(2007). Curso Básico de Probabilidad con CDPYE (CD). Copicentro Editorial, Universidad de Granada
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+Haigh, J. (2002). Probability Models. Springer-Verlag, London
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

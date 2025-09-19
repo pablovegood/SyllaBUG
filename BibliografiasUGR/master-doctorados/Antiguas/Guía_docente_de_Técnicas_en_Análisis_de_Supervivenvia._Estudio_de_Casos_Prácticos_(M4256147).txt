@@ -1,9 +1,0 @@
-Hosmer, D.W., Lemeshow, S. y May, S. (2008), Applied survival analysis: regression modeling of time to event data. John Wiley and Sons.
-Klein, J.P. y Moeschberger, M. (2003). Survival Analysis: techniques for censored and truncated data. Springer-Verlag.
-Lawless, J.F. (2003) Statistical Models and Methods for Lifetime Data. John Wiley & Sons.
-Therneau, T.M. y Grambsch, P.M. (2000). Modeling Survival Data. Extending the Cox Model. Springer.
-The survival Package en http://www.r-project.org/
-Hoyland, A. y Rausand, M. (1994). System reliability theory. Models and statistical methods. John Wiley & Sons, Inc.
-Meeker, W. y Escobar, L. (1998). Statistical methods for reliability data. John Wiley & Sons.
-Pallant, J. (2001). SPSS survival manual: a step by step guide to data analysis using SPSS. Buckingham Open University Press
-Pérez Ocón, R., Gámiz Pérez, M.L. y Ruiz Castro, J.E. (1998). Métodos estocásticos en Teoría de la Fiabilidad. Proyecto Sur de Ediciones, S.L.

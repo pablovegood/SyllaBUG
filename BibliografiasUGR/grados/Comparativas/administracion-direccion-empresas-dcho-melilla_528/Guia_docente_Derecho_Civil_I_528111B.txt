@@ -2,11 +2,11 @@
 Grado: administracion-direccion-empresas-dcho-melilla (528)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 DÍEZ   PICAZO  y  GULLÓN,  Sistema  de  Derecho  Civil  (Vol.  I,  Vol.  IV  Tomo  I),  Ed.  Tecnos,  Madrid,  última
 edición   LASARTE   ALVAREZ,   Principios   de  Derecho  Civil.  Parte  General  y  Derecho  de  la  persona,  Ed.
@@ -18,16 +18,12 @@ O’CALLAGHAN   MUÑOZ,   X.,  Compendio  de  Derecho  civil,  Tomo  I,  Ed.  Un
 SÁNCHEZ CALERO (Coord.), Curso de Derecho civil I. Parte General y Derecho de la persona, Ed. Tirant
 lo Blanch, Valencia, última edición
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+SÁNCHEZ   CALERO,   F.J.  (Coordinador),  Derecho  civil  IV,  Cuaderno  de  Actividades,  Ed.  Técnica  Avicam,
+Granada
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 LASARTE   ALVAREZ,   Principios   de   Derecho  Civil.  Parte  General  y  Derecho  de  la  persona,  Ed.  Marcial
 Pons, Madrid, última edición
 
-SÁNCHEZ   CALERO,   F.J.  (Coordinador),  Derecho  civil  IV,  Cuaderno  de  Actividades,  Ed.  Técnica  Avicam,
-Granada
-
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

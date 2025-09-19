@@ -2,34 +2,24 @@
 Grado: educacion-primaria-melilla (557)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Real   Decreto   157/2022,   de   1   de   marzo,   por  el  que  se  establecen  la  ordenación  y  las  enseñanzas
-mínimas   de   la   Educación  Primaria,  nº  52,  2  de  Marzo  de  2022.  Arraez,  J.M.;  Martínez,  J.M.;  Ortíz,
-MªM.   (2008)   Aspectos   básicos   de   la  educación  física  en  primaria.  manual  del  maestro.  Wanceulen.
-Sevilla.   Blández,   J.   (1995).   La   utilización   del   material  y  el  espacio  en  la  educación  física.
-Barcelona.   Inde.   Blandez,   J.   (2000)   Programación   de   unidades   didácticas   según   ambientes  de
-aprendizaje.   INDE   →   Blandez,   J.   (2000)   Programación   de  unidades  didácticas  según  ambientes  de
-aprendizaje. INDE. Barcelona
-
-Barcelona. Blazquez, D. (1996). Evaluar en Educación Física. INDE. Barcelona. Blazquez, D. (2006) La
-Educación   Física.   INDE.   Barcelona   →   Blazquez,   D.   (1996).   Evaluar   en  Educación  Física.  INDE.
-Barcelona
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (18):
 ------------------------------
 Arraez,   J.M.;   Martínez,   J.M.;   Ortíz,   MªM.   (2008)   Aspectos   básicos   de  la  educación  física  en
 primaria. manual del maestro. Wanceulen. Sevilla
 
-BASE DE DATOS GOOGLE ACADÉMICO: DIDÁCTICA DE LA EDUCACIÓN FÍSICA
+BASE      DE      DATOS      GOOGLE      ACADÉMICO:      DIDÁCTICA      DE      LA      EDUCACIÓN     FÍSICA.
+https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=did%C3%A1ctica+de+la+educaci%C
+3%B3n+f%C3%ADsica&btnG= Material bibliográfico específico por temas en bases de datos SCOPUS y SPORT
+DISCUS
+
+Blandez,   J.   (2000)   Programación   de   unidades   didácticas   según   ambientes  de  aprendizaje.  INDE.
+Barcelona
+
+Blazquez, D. (1996). Evaluar en Educación Física. INDE. Barcelona
 
 Blazquez, D. (2006) La Educación Física. INDE. Barcelona
 
@@ -43,8 +33,6 @@ Hernández,   J.L.   y   otros   (2004)  La  evaluacion  en  educacion  fisica. 
 
 Manzón,   V.  Sánchez,  Mª  J.;  Santamarta,  J.E.;  Uriel,  J.R.  (2001)  Programación  de  la  Educación  Física
 en Primaria. INDE. Barcelona
-
-Material bibliográfico específico por temas en bases de datos SCOPUS
 
 Mosston,   M.;   Ashworth,  S.  (2001)  La  enseñanza  de  la  Educación  Física.  La  reforma  de  los  estilos  de
 enseñanza. Hispano Europea. Barcelona
@@ -68,7 +56,11 @@ Seners, P. (2001) La lección de Educación Física. INDE. Barcelona
 
 Viciana, J. (2002) Planificar en Educación Física. INDE. Barcelona
 
+✅ Recursos añadidos (2):
+------------------------------
+Material bibliográfico específico por temas en bases de datos SCOPUS
+
 https://scholar.google.es/scholar?hl=es&as_sdt=0%2C5&q=did%C3%A1ctica+de+la+educaci%C3%B3n+f%C3%ADsi
 ca&btnG=
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

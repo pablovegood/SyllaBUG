@@ -2,14 +2,18 @@
 Grado: nutrichnay-dietet-ciencia-tecnol-alimentos (211)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+CONTRERAS   J.;   García,M..   Alimentación   y  cultura  :  perspectivas  antropológicas.  Ariel,  Barcelona.
+2005 CONTRERAS J. Antropología de la alimentación. Eudema Universidad. Madrid, 1993
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
-CONTRERAS   J.   Alimentación   y   Cultura.  Necesidades,  gustos  y  costumbres.  Universidad  de  Barcelona.
-1995
+BELLO GUTIERREZ, J. Calidad de vida, alimentos y salud humana. Ed. Díaz de Santos. Madrid, 2005
+
+BENDER,   Arnold   E.,   y   BENDER,  David.  A  dictionary  of  food  and  nutrition.  Oxford  University  Press.
+1995   CONTRERAS   J.   Alimentación   y   Cultura.   Necesidades,   gustos   y   costumbres.   Universidad  de
+Barcelona. 1995
 
 CRUZ, J. Alimentación y Cultura. Antropología de la conducta alimentaria. Eunsa, Pamplona. 1991
 
@@ -49,19 +53,14 @@ SALAS-SALVADÓ,   J;   GARCIA   LORDA,   P.  y  SANCHEZ,  J.M.  La  alimentació
 historia.   Ed.   Glosa,   Barcelona   2005.      SASSON   A.   La   alimentación   del   hombre   del   mañana.
 Unesco/Reverté. 1993
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-CONTRERAS   J.;   García,M..   Alimentación   y  cultura  :  perspectivas  antropológicas.  Ariel,  Barcelona.
-2005   CONTRERAS   J.   Antropología   de   la  alimentación.  Eudema  Universidad.  Madrid,  1993  →  CONTRERAS
-J.; García,M.. Alimentación y cultura : perspectivas antropológicas. Ariel, Barcelona. 2005
-
-✅ Recursos añadidos:
-------------------------------
-BELLO GUTIERREZ, J. Calidad de vida, alimentos y salud humana. Ed. Díaz de Santos. Madrid, 2005
-
-BENDER,   Arnold   E.,   y   BENDER,  David.  A  dictionary  of  food  and  nutrition.  Oxford  University  Press.
+CONTRERAS   J.   Alimentación   y   Cultura.  Necesidades,  gustos  y  costumbres.  Universidad  de  Barcelona.
 1995
 
 CONTRERAS J. Antropología de la alimentación. Eudema Universidad. Madrid, 1993
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+CONTRERAS   J.;   García,M..   Alimentación   y  cultura  :  perspectivas  antropológicas.  Ariel,  Barcelona.
+2005
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

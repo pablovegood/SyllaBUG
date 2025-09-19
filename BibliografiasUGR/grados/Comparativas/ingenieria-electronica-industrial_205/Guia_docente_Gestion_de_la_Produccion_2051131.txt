@@ -2,30 +2,26 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+ARIAS   ARANDA   D.,   MIGUELA   RATA,  B.  Dirección  de  la  Producción  y  Operaciones:  Decisiones  tácticas.
+Editorial   Pirámide.   2018   HEIZER   J.,   RENDER   B.  Dirección  de  la  producción.  Decisiones  tácticas.
+Prentice   Hall   Iberia.   Madrid,   2.007   HEIZER  J.,  RENDER  B.  Dirección  De  La  Producción.  Decisiones
+Estratégicas.   Prentice   Hall   Iberia.   Madrid,  2.007  DOMÍNGUEZ  MACHUCA,  J.  A.;  GARCÍA  GONZÁLEZ,  S.;
+DOMÍNGUEZ   MACHUCA,   M.A.;   RUÍZ  JIMÉNEZ,  A.;  ALVAREZ  GIL,  Mª.  J.  Dirección  de  Operaciones:  Aspectos
+tácticos y operativos en la producción y en los servicios. McGraw Hill. Madrid. 2003
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
-ARIAS ARANDA D., MIGUELA RATA, B. Dirección de la Producción y Operaciones: Decisiones estratégicas.
-Editorial Pirámide. 2018
+Básica   ARIAS   ARANDA   D.,   MIGUELA   RATA,   B.   Dirección  de  la  Producción  y  Operaciones:  Decisiones
+estratégicas. Editorial Pirámide. 2018
+
+CHASE,   R.;   AQUILANO,   N;  JACOBS,  F.R.  Administración  De  La  Producción  Y  Operaciones.  Mcgraw  –  Hill
+2000
 
 DOMÍNGUEZ   MACHUCA,   J.   A.;  GARCÍA  GONZÁLEZ,  S.;  DOMÍNGUEZ  MACHUCA,  M.A.;  RUÍZ  JIMÉNEZ,  A.;  ALVAREZ
 GIL,   Mª.   J.   Dirección   de  Operaciones:  Aspectos  estratégicos  en  la  producción  y  en  los  servicios.
 McGraw Hill. Madrid. 2001
-
-DOMÍNGUEZ   MACHUCA,   J.   A.;  GARCÍA  GONZÁLEZ,  S.;  DOMÍNGUEZ  MACHUCA,  M.A.;  RUÍZ  JIMÉNEZ,  A.;  ALVAREZ
-GIL,   Mª.   J.   Dirección   de   Operaciones:   Aspectos  tácticos  y  operativos  en  la  producción  y  en  los
-servicios. McGraw Hill. Madrid. 2003
-
-Decisiones   tácticas.   Editorial   Pirámide.   2018   HEIZER   J.,  RENDER  B.  Dirección  de  la  producción.
-Decisiones   tácticas.   Prentice   Hall   Iberia.   Madrid,   2.007   HEIZER  J.,  RENDER  B.  Dirección  De  La
-Producción.   Decisiones   Estratégicas.  Prentice  Hall  Iberia.  Madrid,  2.007  DOMÍNGUEZ  MACHUCA,  J.  A.;
-GARCÍA GONZÁLEZ, S.; DOMÍNGUEZ MACHUCA, M.A
-
-Decisión   Making  in  the  Operations  Function,  3ª  edición  McGraw  –  Hill;  New  York,  1.992  STEVENSON,  W.
-J. Production Operations Management, 6ª edición, McGraw – Hill 1.999. personal del alumno
 
 ERNÁNDEZ   SÁNCHEZ,   ESTEBAN,   AVELLA   CAMARERO,   LUCÍA,   FERNÁNDEZ   BARCALA,  MARTA.  Estrategia  De  La
 Producción. McGraw-Hill, 2003
@@ -51,22 +47,26 @@ Mcgraw – Hill 2.001 HILL, T Manufacturing Strategy: Text and Cases, 2ª edici�
 1.994   NAHMIAS,   S.  Análisis  De  La  Producción  Y  Las  Operaciones.,  Mcgraw  –  Hill  2000  SCHROEDER  R.  J.
 ;KNOD,   E.M.JR  Operations  Management  –  Custome  r-  Focused  Principles,  McGraw  -  Hill,  1.997  SCHROEDER
 R. G. Administración de operaciones: Toma de Decisiones en la Función de Operaciones, McGraw – Hill,
-México (Versión Original 1989): Operations Management
+México   (Versión   Original  1989):  Operations  Management:  Decisión  Making  in  the  Operations  Function,
+3ª   edición   McGraw   –   Hill;   New  York,  1.992  STEVENSON,  W.  J.  Production  Operations  Management,  6ª
+edición, McGraw – Hill 1.999
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (10):
 ------------------------------
 ARIAS   ARANDA   D.,   MIGUELA   RATA,  B.  Dirección  de  la  Producción  y  Operaciones:  Decisiones  tácticas.
 Editorial Pirámide. 2018
 
-CHASE,   R.;   AQUILANO,   N;  JACOBS,  F.R.  Administración  De  La  Producción  Y  Operaciones.  Mcgraw  –  Hill
-2000
-
 DAVIS,   M.;   AQUILANO,   N.  ;  CHASE,  R.  Fundamentos  De  Dirección  De  Operaciones,  3ª  edición,  Mcgraw  –
 Hill 2.001
+
+DOMÍNGUEZ   MACHUCA,   J.   A.;  GARCÍA  GONZÁLEZ,  S.;  DOMÍNGUEZ  MACHUCA,  M.A.;  RUÍZ  JIMÉNEZ,  A.;  ALVAREZ
+GIL,   Mª.   J.   Dirección   de   Operaciones:   Aspectos  tácticos  y  operativos  en  la  producción  y  en  los
+servicios. McGraw Hill. Madrid. 2003
+
+FITZSIMMONS, J.A.; FITZSIMMONS, M.J. Informations Technology, Irwin- McGraw – Hill 1.998
+
+HEIZER   J.,   RENDER   B.   Dirección   De  La  Producción.  Decisiones  Estratégicas.  Prentice  Hall  Iberia.
+Madrid, 2.007
 
 HEIZER   J.,  RENDER  B.  Dirección  de  la  producción.  Decisiones  tácticas.  Prentice  Hall  Iberia.  Madrid,
 2.007
@@ -82,4 +82,4 @@ Operations Function, 3ª edición McGraw – Hill; New York, 1.992
 SCHROEDER   R.  J.  ;KNOD,  E.M.JR  Operations  Management  –  Custome  r-  Focused  Principles,  McGraw  -  Hill,
 1.997
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

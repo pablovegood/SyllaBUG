@@ -2,51 +2,11 @@
 Grado: farmacia-nutricion-humana-dietetica (225)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Mahan L.D. and Escott-Stump, S. (2009). "Nutrición y Dietoterapia de Krause". (12ª Edición). McGraw-
-Hill Interamericana, Ed. Elsevier, SL Barcelona
-
-Muñoz   M,   Aranceta   J,   Garcia-Jalon  I  (2004).  Nutrición  aplicada  y  dietoterapia,  2ª  ed.  Ed.  Eunsa.
-Pamplona
-
-Pamplona.   Novartis.Tablas   de   composición  de  los  alimentos.  (Ultima  ed.  5º).  Siempre  disponible  en
-fotocopiadora.   Requejo   A,   Ortega   Rm   (2000).   Nutriguia.  Manual  de  Nutrición  clínica  en  atención
-primaria. Ed
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Hill.   Madrid,   España.  Mataix  Verdu  J  (2009).  Nutrición  y  alimentación  humana  (2  tomos).  Ed.  Ergen.
-Madrid.   Ministerio   De  Sanidad  y  Consumo  (1995).  Tablas  de  composición  de  alimentos  españoles.  Ed  →
-Mataix Verdu J (2009). Nutrición y alimentación humana (2 tomos). Ed. Ergen. Madrid
-
-Astiasaran I, Laceras B, Ariño A, Martínez A (2003). Alimentos y nutrición en la práctica sanitaria.
-Díaz   de   Santos.   Madrid.   Cameron   ME,   Van   Staveren   WA   (1988)   Manual   on  Methodology  for  food
-consumption    studies,   Oxford   Medical   Publications   Cervera   P,   Clapés   J,   Rigolfas   R   (2004).
-Alimentación   y   dietoterapia   (Nutrición   aplicada   en   la   salud  y  la  enfermedad).  4ª  edición,  Ed.
-Interamericana   McGraw-Hill.   México.   CESNID  (2008).  Tablas  de  composición  de  alimentos  por  medidas
-caseras   de   consumo   habitual   en   España.   Ed  McGraw-Hill,  Madrid.  Frayn  KN  (1998).  Regulación  del
-metabolismo,   Una   perspectiva   humana   Ed.   Omega  Gil  A  (2010).  Tratado  de  Nutrición  (4  tomos).  Ed.
-Panamericana.   Madrid.  Groff  JL,  Gropper  SS,  Hunt  SM  (1995)  .Advanced  Nutrition  and  Human  Metabolism
-Linder,    M.C.    (1992).   "Nutrición.   Aspectos   Bioquímicos,   Metabólicos   y   Clínicos".   Ediciones
-Universidad de Navarra (Eunsa), Pamplona, España. Mahan L.D. and Escott-Stump, S. (2009). "Nutrición
-y   Dietoterapia   de   Krause".   (12ª   Edición)   →   Frayn   KN   (1998).  Regulación  del  metabolismo,  Una
-perspectiva humana Ed. Omega
-
-2ª   ed.   Ed.   Masson.   Barcelona.   SENC   (2004).   Guías  de  la  alimentación  saludable.  Edita  Sociedad
-Española   de   Nutrición   Comunitaria.   Madrid.   Serra   Majen  L,  Aranceta  J  (2006).  Nutrición  y  salud
-pública:   métodos,   bases   científicas  y  aplicaciones,  2ª  ed.  Ed.  Masson,  Madrid  Shils  Me,  Olson  Ja,
-Shike   M   (2002).  Nutrición  en  Salud  y  Enfermedad.  9ª  ed.  (2  tomos).  McGraw-  Hill.  México.  Shils  ME,
-Olson   JA,   Shike   M,   Ross   C.  (1999)  Nutrición  en  Salud  y  Enfermedad.  Ed.  Mc  Graw  Hill.  Willet,  W.
-(1993).    Nutritional    epidemiology    Oxford    University    Press    Son    recomendables   todas   las
-correspondientes   a   Organismos   oficiales   y   profesionales   →   Shils  Me,  Olson  Ja,  Shike  M  (2002).
-Nutrición en Salud y Enfermedad. 9ª ed. (2 tomos). McGraw-Hill. México
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (20):
 ------------------------------
 Astiasaran I, Laceras B, Ariño A, Martínez A (2003). Alimentos y nutrición en la práctica sanitaria.
 Díaz de Santos. Madrid
@@ -60,6 +20,8 @@ Medical Publications
 Cervera   P,  Clapés  J,  Rigolfas  R  (2004).  Alimentación  y  dietoterapia  (Nutrición  aplicada  en  la  salud
 y la enfermedad). 4ª edición, Ed. Interamericana McGraw-Hill. México
 
+Frayn KN (1998). Regulación del metabolismo, Una perspectiva humana Ed. Omega
+
 Gil A (2010). Tratado de Nutrición (4 tomos). Ed. Panamericana. Madrid
 
 Groff JL, Gropper SS, Hunt SM (1995) .Advanced Nutrition and Human Metabolism
@@ -67,11 +29,20 @@ Groff JL, Gropper SS, Hunt SM (1995) .Advanced Nutrition and Human Metabolism
 Linder,    M.C.    (1992).   "Nutrición.   Aspectos   Bioquímicos,   Metabólicos   y   Clínicos".   Ediciones
 Universidad de Navarra (Eunsa), Pamplona, España
 
+Mahan L.D. and Escott-Stump, S. (2009). "Nutrición y Dietoterapia de Krause". (12ª Edición). McGraw-
+Hill Interamericana, Ed. Elsevier, SL Barcelona
+
 Martínez,   J.A.   (2000).   "Fundamentos   Teórico-Prácticos   de   Nutrición   y  Dietética",  McGraw-Hill.
 Madrid, España
 
+Mataix Verdu J (2009). Nutrición y alimentación humana (2 tomos). Ed. Ergen. Madrid
+
 Ministerio De Sanidad y Consumo (1995). Tablas de composición de alimentos españoles. Ed. Ministerio
 de Sanidad y Consumo. Secretaría General Técnica. Centro de Publicaciones, Madrid
+
+Muñoz   M,   Aranceta   J,   Garcia-Jalon  I  (2004).  Nutrición  aplicada  y  dietoterapia,  2ª  ed.  Ed.  Eunsa.
+Pamplona.   •Novartis.Tablas   de  composición  de  los  alimentos.  (Ultima  ed.  5º).  Siempre  disponible  en
+fotocopiadora
 
 Requejo   A,   Ortega   Rm   (2000).   Nutriguia.   Manual   de  Nutrición  clínica  en  atención  primaria.  Ed.
 Complutense. Madrid
@@ -87,8 +58,18 @@ aplicaciones, 2ª ed. Ed. Masson, Madrid
 
 Shils ME, Olson JA, Shike M, Ross C. (1999) Nutrición en Salud y Enfermedad. Ed. Mc Graw Hill
 
-Son recomendables todas las correspondientes a Organismos oficiales y profesionales
+Shils   Me,  Olson  Ja,  Shike  M  (2002).  Nutrición  en  Salud  y  Enfermedad.  9ª  ed.  (2  tomos).  McGraw-Hill.
+México
+
+Willet,   W.   (1993).   Nutritional   epidemiology   Oxford  University  Press  Son  recomendables  todas  las
+correspondientes    a   Organismos   oficiales   y   profesionales.   http://www2.uned.es/pea-nutricion-y-
+dietetica-I/guia/
+
+✅ Recursos añadidos (2):
+------------------------------
+Muñoz   M,   Aranceta   J,   Garcia-Jalon  I  (2004).  Nutrición  aplicada  y  dietoterapia,  2ª  ed.  Ed.  Eunsa.
+Pamplona
 
 Willet, W. (1993). Nutritional epidemiology Oxford University Press
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

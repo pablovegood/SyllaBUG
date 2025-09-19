@@ -2,11 +2,13 @@
 Grado: ingenieria-informatica-matematicas (297)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+J.       Pérez:       Curvas       y       superficies.       Granada,       2014.       Disponible       en
+https://wpd.ugr.es/~jperez/wordpress/wp-content/uploads/raizCyS.pdf   A.   F.  Costa,  M.  Gamboa  y  A.  M.
+Porto: Notas de geometría diferencial de curvas y superficies. Editorial Sanz y Torres, Madrid, 1977
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 A. M. Amores Lázaro: Curso básico de curvas y superficies. Editorial Sanz y Torres, Madrid, 2001
 
@@ -24,18 +26,14 @@ S.   Montiel   y   A.   Ros:   Curves   and   surfaces.   American  Mathematical
 Mathematics,   69  (2005).  Versión  en  inglés  de  la  edición  en  castellano  publicada  por  Proyecto  Sur  de
 Ediciones, Granada, 1997
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-J.   Pérez:   Curvas  y  superficies.  Granada,  2014.  Disponible  en  A.  F.  Costa,  M.  Gamboa  y  A.  M.  Porto:
-Notas   de   geometría  diferencial  de  curvas  y  superficies.  Editorial  Sanz  y  Torres,  Madrid,  1977  →  J.
-Pérez:   Curvas   y  superficies.  Granada,  2014.  Disponible  en  https://wpd.ugr.es/~jperez/wordpress/wp-
-content/uploads/raizCyS.pdf
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 A.   F.   Costa,   M.   Gamboa   y   A.   M.  Porto:  Notas  de  geometría  diferencial  de  curvas  y  superficies.
 Editorial Sanz y Torres, Madrid, 1977
 
+J.       Pérez:       Curvas       y       superficies.       Granada,       2014.       Disponible       en
+https://wpd.ugr.es/~jperez/wordpress/wp-content/uploads/raizCyS.pdf
+
 M. Lipschutz: Geometría Diferencial, Serie Schaum, MacGraw-Hill, México 1971
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 44% [████░░░░░░]

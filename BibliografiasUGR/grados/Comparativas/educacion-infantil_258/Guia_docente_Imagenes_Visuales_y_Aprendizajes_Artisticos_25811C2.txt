@@ -2,11 +2,24 @@
 Grado: educacion-infantil (258)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Ground,   I.   (2008).   ¿Arte   o   chorrada?   PUV   Jenkins,  H.  (2009).  Fans,  bloggers  y  videojuegos:  la
+cultura de la colaboración. Paidós
 
-📚 Recursos sin cambios:
+Marín   Viadel,   R.  y  Roldán,  J.  (Eds).  (2017).  Ideas  visuales.  Investigación  Basada  en  Artes  e  Marín
+Viadel,   R.,   Roldán,  J.  y  Caeiro  Rodríguez,  M.  (Eds.)  (2020).  Aprendiendo  a  enseñar  artes  visuales:
+un   enfoque   A/R/Tográfico.   Tirant   Humanidades   Mesías-Lema,   J.   M.   (2019).   Educación  artística
+sensible.   Cartografía   contemporánea   para  arteducadores.  Graó  Moreno  Gómez,  F.M.  (2018).  Arte  para
+maestros del siglo XXI. Torres Editores
+
+Álvarez-Rodríguez,   D.,   Marfil-Carmona,  R.  y  Báez  García,  C.  (2019).  Investigación  de  impacto  sobre
+la   formación   en   mediación   y   educación  en  museos:  análisis  de  la  Web  of  Science.  REIFOP.  Revista
+Electrónica      interuniversitaria      de      Formación     del     Profesorado,     22(1),     121-144.
+http://dx.doi.org/10.6018/reifop.22.1.357731   Aguirre,   I.   (2000).  Teorías  y  Prácticas  en  Educación
+Artística. Servicio de publicaciones de la Universidad Pública de Navarra
+
+📚 Recursos sin cambios (28):
 ------------------------------
 Alderoqui, S. (Comp.). (2006). Museos y escuelas: socios para educar . Paidós
 
@@ -50,20 +63,14 @@ conectarse a través de VPN]
 
 Lancaster, (1991). Las artes en la Educación Primaria . Morata
 
+Lowenfeld, V. y Brittain, L. (1980). Desarrollo de la capacidad creadora . Kapelusz
+
 López   Fernández-Cao,   M.   (2015).   Para  qué  el  arte:  reflexiones  en  torno  al  arte  y  su  educación  en
 tiempos de crisis . Fundamentos
 
 Marfil-Carmona, R. (2018a). La era postdigital en la enseñanza de las artes visuales. Transformación
 educativa      y      propuestas      para      el     debate.     Saber     &     Educar,     (24),     1-13.
 http://dx.doi.org/10.17346/se.vol24.326
-
-Marfil-Carmona,   R.   (2018b).   Educación   Artística   y   transformación   social  en  el  contexto  de  las
-Humanidades Digitales. Teknokultura, 15 (1), 139-150. http://dx.doi.org/10.5209/TEKN.57592
-
-Marín Viadel, R. (Coord.) (2003). Didáctica de la Educación Artística para Primaria . Pearson
-
-Marín   Viadel,   R.   y   Roldán,   J.   (Eds).   (2017).   Ideas  visuales.  Investigación  Basada  en  Artes  e
-investigación artística . Universidad de Granada
 
 Marín Viadel, R. y Roldán, J. (coord.) (2010). Infancia y Mercado . Aljibe
 
@@ -75,42 +82,37 @@ Rodulfo, M. (1998). El niño del dibujo . Paidós
 
 Roldán, J. y Marín Viadel, R. (2012). Metodologías artísticas de investigación en educación. Aljibe
 
-🔁 Misma obra con edición/año distinto:
+Se   aportarán  referencias  y  lecturas  complementarias  a  los  temas  a  abordar,  pero  con  la  bibliografía
+básica es más que suficiente para el desarrollo de los fundamentos de la materia
+
+http://dx.doi.org/10.17346/se.vol24.326    Marfil-Carmona,    R.    (2018b).    Educación    Artística   y
+transformación social en el contexto de las Humanidades Digitales. Teknokultura, 15(1), 139-150
+
+http://dx.doi.org/10.5209/TEKN.57592   Marín   Viadel,   R.   (Coord.)  (2003).  Didáctica  de  la  Educación
+Artística para Primaria. Pearson
+
+✅ Recursos añadidos (9):
 ------------------------------
-Ground,   I.   (2008).   ¿Arte   o   chorrada?   PUV   Jenkins,  H.  (2009).  Fans,  bloggers  y  videojuegos:  la
-cultura   de   la   colaboración.  Paidós  →  Jenkins,  H.  (2009).  Fans,  bloggers  y  videojuegos:  la  cultura
-de la colaboración . Paidós
+Aguirre,   I.   (2000).   Teorías   y  Prácticas  en  Educación  Artística  .  Servicio  de  publicaciones  de  la
+Universidad Pública de Navarra
 
-Álvarez-Rodríguez,   D.,   Marfil-Carmona,  R.  y  Báez  García,  C.  (2019).  Investigación  de  impacto  sobre
-la   formación   en   mediación   y   educación  en  museos:  análisis  de  la  Web  of  Science.  REIFOP.  Revista
-Electrónica interuniversitaria de Formación del Profesorado, Aguirre, I. (2000). Teorías y Prácticas
-en   Educación   Artística.   Servicio  de  publicaciones  de  la  Universidad  Pública  de  Navarra  →  Aguirre,
-I.   (2000).  Teorías  y  Prácticas  en  Educación  Artística  .  Servicio  de  publicaciones  de  la  Universidad
-Pública de Navarra
-
-Marín   Viadel,   R.,   Roldán,   J.   y   Caeiro  Rodríguez,  M.  (Eds.)  (2020).  Aprendiendo  a  enseñar  artes
-visuales:   un   enfoque   A/R/Tográfico.   Tirant   Humanidades   Mesías-Lema,   J.   M.   (2019).  Educación
-artística   sensible.   Cartografía   contemporánea  para  arteducadores.  Graó  Moreno  Gómez,  F.M.  (2018).
-Arte   para   maestros   del   siglo   XXI.   Torres   Editores   →   Marín   Viadel,   R.,  Roldán,  J.  y  Caeiro
-Rodríguez, M. (Eds.) (2020). Aprendiendo a enseñar artes visuales: un enfoque A/R/Tográfico . Tirant
-Humanidades
-
-✅ Recursos añadidos:
-------------------------------
 Alonso-Sanz,   A.   (2023).   Miradas   diversas  para  la  escuela  que  deseamos:  coeducación  inclusiva  con
 artes . Octaedro
 
 Ground, I. (2008). ¿Arte o chorrada? PUV
 
-Lowenfeld, V. y Brittain, L. (1980). Desarrollo de la capacidad creadora . Kapelusz
+Jenkins, H. (2009). Fans, bloggers y videojuegos: la cultura de la colaboración . Paidós
+
+Marín   Viadel,   R.   y   Roldán,   J.   (Eds).   (2017).   Ideas  visuales.  Investigación  Basada  en  Artes  e
+investigación artística . Universidad de Granada
+
+Marín   Viadel,   R.,   Roldán,   J.   y   Caeiro  Rodríguez,  M.  (Eds.)  (2020).  Aprendiendo  a  enseñar  artes
+visuales: un enfoque A/R/Tográfico . Tirant Humanidades
 
 Mesías-Lema,    J.    M.    (2019).    Educación   artística   sensible.   Cartografía   contemporánea   para
 arteducadores . Graó
 
 Moreno Gómez, F.M. (2018). Arte para maestros del siglo XXI . Torres Editores
-
-Se   aportarán  referencias  y  lecturas  complementarias  a  los  temas  a  abordar,  pero  con  la  bibliografía
-básica es más que suficiente para el desarrollo de los fundamentos de la materia
 
 Álvarez-Rodríguez,   D.,   Marfil-Carmona,  R.  y  Báez  García,  C.  (2019).  Investigación  de  impacto  sobre
 la   formación   en   mediación   y   educación  en  museos:  análisis  de  la  Web  of  Science.  REIFOP.  Revista

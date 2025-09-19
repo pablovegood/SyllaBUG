@@ -2,11 +2,21 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Paul,   J.   and   Dhiman,   R.   (2021),  "Three  decades  of  export  competitiveness  literature:  systematic
+review,   synthesis   and   future  research  agenda",  International  Marketing  Review,  Vol.  ahead-ofprint
+No.   ahead-of-print.   https://doi.org/10.1108/IMR-12-2020-0295   Perry,   A.C.   (1990),  "International
+versus Domestic Marketing: Four Conceptual Perspectives", European Journal of Marketing, Vol. 24 No.
+6, pp. 41-54
 
-📚 Recursos sin cambios:
+Rana,   S.,   Prashar,   S.,   Barai,   M.K.   and   Hamid,   A.B.A.   (2021),  "Determinants  of  international
+marketing   strategy   for  emerging  market  multinationals",  International  Journal  of  Emerging  Markets,
+Vol. 16 No. 2, pp. 154-178 Rojas, J. J. B., Rojas, J. A., & Campo, E. A. (2018). Metodología para la
+Selección   de   Mercados   Internacionales:   Un   Análisis   de   Caso   para   la   Exportación   de  Bebidas
+Carbonatadas. Dirección y Organización, (66), 5-16
+
+📚 Recursos sin cambios (19):
 ------------------------------
 Angus   A.   &   Westbrook   G.   (2022).   Las   10   principales  tendencias  globales  de  consumo  para  2022.
 Euromonitor Internacional
@@ -64,31 +74,21 @@ Contemporary Knowledge. European Journal of Marketing and Economics, 3(1), 63-71
 firms:   from   a   systematic   review  towards  a  conceptual  framework",  International  Marketing  Review,
 Vol. 38 No. 2, pp. 205-248
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Rana,   S.,   Prashar,   S.,   Barai,   M.K.   and   Hamid,   A.B.A.   (2021),  "Determinants  of  international
-marketing   strategy   for  emerging  market  multinationals",  International  Journal  of  Emerging  Markets,
-Vol. 16 No. 2, pp. 154-178 Rojas, J. J. B., Rojas, J. A., & Campo, E. A. (2018). Metodología para la
-Selección   de   Mercados   Internacionales:   Un   Análisis   de   Caso   para   la   Exportación   de  Bebidas
-Carbonatadas.   Dirección   y  Organización,  (66),  5-16  →  Rojas,  J.  J.  B.,  Rojas,  J.  A.,  &  Campo,  E.  A.
-(2018).   Metodología   para   la   Selección   de   Mercados  Internacionales:  Un  Análisis  de  Caso  para  la
-Exportación de Bebidas Carbonatadas. Dirección y Organización, (66), 5-16
-
-Paul,   J.   and   Dhiman,   R.   (2021),  "Three  decades  of  export  competitiveness  literature:  systematic
-review, synthesis and future research agenda", International Marketing Review, Vol. ahead-of- Perry,
-A.C.   (1990),   "International   versus   Domestic   Marketing:   Four  Conceptual  Perspectives",  European
-Journal   of   Marketing,   Vol.   24   No.   6,   pp.   41-54   →   Perry,  A.C.  (1990),  "International  versus
-Domestic Marketing: Four Conceptual Perspectives", European Journal of Marketing, Vol. 24 No. 6, pp.
-41-54
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Paul,   J.   and   Dhiman,   R.   (2021),  "Three  decades  of  export  competitiveness  literature:  systematic
 review,   synthesis   and  future  research  agenda",  International  Marketing  Review,  Vol.  ahead-of-print
 No. ahead-of-print. https://doi.org/10.1108/IMR-12-2020-0295
 
+Perry,   A.C.   (1990),   "International   versus   Domestic   Marketing:   Four   Conceptual  Perspectives",
+European Journal of Marketing, Vol. 24 No. 6, pp. 41-54
+
 Rana,   S.,   Prashar,   S.,   Barai,   M.K.   and   Hamid,   A.B.A.   (2021),  "Determinants  of  international
 marketing   strategy   for  emerging  market  multinationals",  International  Journal  of  Emerging  Markets,
 Vol. 16 No. 2, pp. 154-178
 
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+Rojas,   J.   J.   B.,   Rojas,   J.  A.,  &  Campo,  E.  A.  (2018).  Metodología  para  la  Selección  de  Mercados
+Internacionales:   Un   Análisis   de   Caso   para   la   Exportación  de  Bebidas  Carbonatadas.  Dirección  y
+Organización, (66), 5-16
+
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

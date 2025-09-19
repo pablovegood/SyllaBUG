@@ -2,24 +2,23 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
 Ball, S. J. & Youdell, D. (2008). Hidden privatisation in public education.Education International
 
 Ball,   S.   J.   (2012).   Global   Education   Inc.   New   policy  networks  and  the  neo-liberal  imaginary.
 Routledge
 
-Duke University Press
-
 Jessop, B. (2002). The future of the Capitalist State. Cambridge: Polity Press
 
 Jessop, B. (2008). State Power. A Strategic-Relational Approach. Cambridge: Polity Press
 
-Ong, A. (2006). Neoliberalism as Exception: Mutations in Citizenship and Sovereignty
+Ong,   A.   (2006).   Neoliberalism   as   Exception:   Mutations   in   Citizenship   and   Sovereignty.  Duke
+University Press
 
 Rose, N. (1999). Powers of freedom. Reframing political thought. Cambridge University Press
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Arendt, H. (1997): ¿Qué es la política? Paidós
 
@@ -29,8 +28,8 @@ Freire, P. (2005). Pedagogía del oprimido. Siglo XXI
 
 Harvey, D. (2007). Breve historia del neoliberalismo. Akal
 
-Hernández   García,   J.   (2010):   Ideología,   educación   y   políticas  educativas.  Revista  Española  de
-Pedagogía, 245, 133-150
+Hernández   García,   J.   (2010):   Ideología,  educación  y  políticas  educativas,  en  Revista  Española  de
+Pedagogía, nº 245, 133-150
 
 Luengo, J. J. (comp.) (2005): Paradigmas de gobernación y exclusión social en educación: fundamentos
 para el análisis de la discriminación escolar contemporánea. Pomares
@@ -53,7 +52,7 @@ Puelles, M. de (2004). Elementos de Política de la Educación. UNED
 
 Puelles, M. de (2004). Política y Educación en la España contemporánea. UNED
 
-Rizvi, F. y Lingard, B. (2013). Políticas Educativas en un Mundo Globalizado. Morata
+Rizvi, F. & Lingard, B. (2013). Políticas Educativas en un Mundo Globalizado. Morata
 
 Saura,   G.   y   Luengo,  J.  (2015).  Biopolítica  y  Educación.  Medición,  estandarización,  regularización
 poblacional. Teoría de la educación. Revista interuniversitaria, 27(2), 115-135
@@ -63,11 +62,7 @@ el régimen de estandarización (OECD). Bordón. Revista de Pedagogía, 67(1), 1
 
 Viñao, A. (2004). Escuela para todos. Educación y modernidad en la España del siglo XX. Marcial Pons
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Ancheta   Arrabal,  A.  (2011).  La  escuela  infantil  hoy  perspectivas  internacionales  de  la  educación  y
 atención a la primera infancia. Tirant humanidades

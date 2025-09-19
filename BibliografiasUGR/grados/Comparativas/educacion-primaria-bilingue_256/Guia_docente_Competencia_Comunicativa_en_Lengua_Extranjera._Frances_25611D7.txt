@@ -2,11 +2,11 @@
 Grado: educacion-primaria-bilingue (256)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 ADAM, Catherine (2014). Chouette ! Méthode de français. Santillana, Didier
 
@@ -21,15 +21,20 @@ français. Guide pédagogique et ressources pour la classe A1. Didier
 
 CONSEIL DE L'EUROPE (2001). Cadre européen commun de référence pour les langues. Didier
 
+CONSEIL    DE   L'EUROPE   (2018).   Cadre   européen   commun   de   référence   pour   les   langues.   Volume
+complémentaire   avec  de  nouveaux  descripteurs.  https://rm.coe.int/cecr-volumecomplementaire-avec-de-
+nouveaux-descripteurs/16807875d5
+
 DELBENDE,   Jean-Christophe,   &   HEUZE,   Vincent  (2004).  Le  français  en  chantant  :  Guide  pédagogique.
 Didier
 
 DUPLEIX,   Dorothée,   &  TAGLIANTE,  Christine  (2010).  Réussir  le  DELF  PRIM  A1.1  A1.  Guide  pédagogique.
 Didier
 
-GODARD, EMMANUEL., LIRIA, PHILIPPE (2009). Les clés du nouveau DELF –B1-. Difusión
+Difusión   GREGOIRE,   MAÏA.   (2003).  Grammaire  progressive  du  français.  Clé.  Niveaux  intermédiaire  et
+avancé
 
-GREGOIRE, MAÏA. (2003). Grammaire progressive du français. Clé. Niveaux intermédiaire et avancé
+GODARD, EMMANUEL., LIRIA, PHILIPPE (2009). Les clés du nouveau DELF –B1-. Difusión
 
 MIQUEL,   CLAIRE   LEROY   (1999).   Vocabulaire   progressif   du  français.  Clé.  Niveaux  intermédiaire  et
 avancé
@@ -41,18 +46,12 @@ International
 
 VANTHIER, Hélène, & SCHMITT (2018). Zig Zag+ Méthode de français. CLE International
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CONSEIL    DE    L'EUROPE    (2018).    Cadre    européen    commun    de    référence    pour   les   langues.
-volumecomplementaire-avec-de-nouveaux-descripteurs/16807875d5   CUQ,   JEAN   PIERRE   ;  GRUCA,  ISABELLE
-(2017):   Cours   de   didactique   du   français  langue  étrangère  et  seconde.  PUG  Collection  →  CUQ,  JEAN
-PIERRE   ;   GRUCA,   ISABELLE  (2017):  Cours  de  didactique  du  français  langue  étrangère  et  seconde.  PUG
-Collection
+Volume   complémentaire   avec   de  nouveaux  descripteurs.  https://rm.coe.int/cecrvolumecomplementaire-
+avec-de-nouveaux-descripteurs/16807875d5   CUQ,   JEAN   PIERRE   ;   GRUCA,   ISABELLE   (2017):   Cours  de
+didactique du français langue étrangère et seconde. PUG Collection
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
-CONSEIL    DE   L'EUROPE   (2018).   Cadre   européen   commun   de   référence   pour   les   langues.   Volume
-complémentaire   avec  de  nouveaux  descripteurs.  https://rm.coe.int/cecr-volumecomplementaire-avec-de-
-nouveaux-descripteurs/16807875d5
+No hay elementos.
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

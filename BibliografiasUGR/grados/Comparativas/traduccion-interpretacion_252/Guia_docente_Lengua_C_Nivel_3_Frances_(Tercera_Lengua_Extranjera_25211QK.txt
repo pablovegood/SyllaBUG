@@ -2,24 +2,7 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-GREVISSE, M. et al. (2008) Nouvelle grammaire française. Bruxelles, De Boeck-Duculot
-
-MIQUEL,    C.   (2009)   Communication   progressive   du   Français.   Niveau   intermédiaire.   Paris,   Clé
-International
-
-PARIZET,   M.L.  et  al.  (2009)  Activités  pour  le  cadre  européen  commun  de  référence.  Niveau  B2.  Paris,
-Clé International
-
-POISSON-QUINTON,   S.  et  al.  (2009)  Grammaire  expliquée  du  Français.  Exercices.  Niveau  intermédiaire.
-Paris, Clé International
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (3):
 ------------------------------
 BARFÉTY,   M.  (2009)  Compréhension  orale.  Compétences  B1.  Paris,  Clé  International  BARFÉTY,  M.  et  al.
 (2009)   Expression   orale.   Compétences   B1.   Paris,   Clé   International   BOULARÈS,  M.  et  al.  (2009)
@@ -33,13 +16,11 @@ Clé   International   DELATOUR,   Y.   et   al   (2005)   Nouvelle   grammaire 
 DESCOTTES,   CH.   et   al   (2005)   L’exercisier,   l’expression   française   pour   niveau  intermédiaire,
 Grenoble,   Presses   universitaires   GRÉGOIRE,   M.   et   al.  (2009)  Grammaire  progressive  du  Français.
 Niveau   intermédiaire.   Paris,   Clé   International   GREVISSE,   M.   (1989)  Le  français  correct.  Guide
-pratique.   Paris,   Duculot   →   BARFÉTY,   M.   (2009)   Compréhension  orale.  Compétences  B1.  Paris,  Clé
-International
+pratique. Paris, Duculot
 
 KANEMAN,   M.   et   al.   (1992)   Plaisir   des  sons.  Phonétique  du  français,  Alliance  française,  Paris,
 Hatier-Didier   LARGER,   N.   et   al.   (2009)   Vocabulaire  expliqué  du  Français.  Niveau  intermédiaire.
 Paris,   Clé   International   LARGER,   N.   et   al.  (2009)  Vocabulaire  expliqué  du  Français.  Exercices.
-Niveau   intermédiaire   →   LARGER,   N.   et   al.   (2009)   Vocabulaire  expliqué  du  Français.  Exercices.
 Niveau intermédiaire. Paris, Clé International
 
 Paris,   Clé   International   POISSON-QUINTON,   S.   et   al.   (2009)   Grammaire   expliquée  du  Français.
@@ -49,11 +30,30 @@ français   populaire.   Paris,   Larousse  GREVISSE,  M.  et  al.  (2008)  Le  
 Duculot   Bescherelle,   La   conjugaison   pour   tous.   Paris,   Hatier  (2008)  HANSE  &  BLAMPAIN.  Nouveau
 dictionnaire   des   difficultés   du   français.   Bruxelles,   Duculot  (2008)  Larousse  Gran  diccionario,
 Español-Francés,   Francés-Español.   Paris,   Ed.   Larousse  (2009)  Le  Petit  Robert,  dictionnaire  de  la
-langue   française.   Paris,   Ed.   Le   Robert   (2008)   →   HANSE   &   BLAMPAIN.  Nouveau  dictionnaire  des
-difficultés du français. Bruxelles, Duculot (2008)
+langue française. Paris, Ed. Le Robert (2008) http:// www. reverso.net
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (4):
 ------------------------------
+GREVISSE, M. et al. (2008) Nouvelle grammaire française. Bruxelles, De Boeck-Duculot
+
+MIQUEL,   C.   et   al.   (2009)   Vocabulaire   progressif   du  Français.  Niveau  intermédiaire.  Paris,  Clé
+International   MIQUEL,   C.   (2009)   Vocabulaire   progressif   du   Français.  Niveau  avancé.  Paris,  Clé
+International   MIQUEL,  C.  (2009)  Communication  progressive  du  Français.  Niveau  intermédiaire.  Paris,
+Clé   International  PARIZET,  M.L.  et  al.  (2009)  Activités  pour  le  cadre  européen  commun  de  référence.
+Niveau B1
+
+PARIZET,   M.L.  et  al.  (2009)  Activités  pour  le  cadre  européen  commun  de  référence.  Niveau  B2.  Paris,
+Clé International
+
+Paris,   Clé   International   POISSON-QUINTON,   S.  et  al.  (2009)  Compréhension  écrite.  Compétences  B1.
+Paris,   Clé   International  POISSON-QUINTON,  S.  et  al.  (2009)  Expression  écrite.  Compétences  B1,  B1+.
+Paris,   Clé   International  POISSON-QUINTON,  S.  et  al.  (2009)  Grammaire  expliquée  du  Français.  Niveau
+intermédiaire
+
+✅ Recursos añadidos (30):
+------------------------------
+BARFÉTY, M. (2009) Compréhension orale. Compétences B1. Paris, Clé International
+
 BARFÉTY, M. et al. (2009) Expression orale. Compétences B1. Paris, Clé International
 
 BOULARÈS, M. et al. (2009) Conjugaison progressive du Français. Paris, Clé International
@@ -89,8 +89,13 @@ GREVISSE, M. et al. (2008) Le Bon usage. Bruxelles, De Boeck-Duculot
 GRÉGOIRE,   M.   et   al.   (2009)   Grammaire   progressive  du  Français.  Niveau  intermédiaire.  Paris,  Clé
 International
 
+HANSE & BLAMPAIN. Nouveau dictionnaire des difficultés du français. Bruxelles, Duculot (2008)
+
 KANEMAN,   M.   et   al.   (1992)   Plaisir   des  sons.  Phonétique  du  français,  Alliance  française,  Paris,
 Hatier-Didier
+
+LARGER,   N.   et  al.  (2009)  Vocabulaire  expliqué  du  Français.  Exercices.  Niveau  intermédiaire.  Paris,
+Clé International
 
 LARGER,   N.   et   al.   (2009)   Vocabulaire   expliqué   du   Français.   Niveau  intermédiaire.  Paris,  Clé
 International
@@ -99,13 +104,13 @@ Larousse Gran diccionario, Español-Francés, Francés-Español. Paris, Ed. Laro
 
 Le Petit Robert, dictionnaire de la langue française. Paris, Ed. Le Robert (2008)
 
+MIQUEL,    C.   (2009)   Communication   progressive   du   Français.   Niveau   intermédiaire.   Paris,   Clé
+International
+
 MIQUEL, C. (2009) Vocabulaire progressif du Français. Niveau avancé. Paris, Clé International
 
 MIQUEL,   C.   et   al.   (2009)   Vocabulaire   progressif   du  Français.  Niveau  intermédiaire.  Paris,  Clé
 International
-
-PARIZET,   M.L.  et  al.  (2009)  Activités  pour  le  cadre  européen  commun  de  référence.  Niveau  B1.  Paris,
-Clé International
 
 POISSON-QUINTON, S. et al. (2009) Compréhension écrite. Compétences B1. Paris, Clé International
 
@@ -118,4 +123,4 @@ WEINRICH, H. (1989) Grammaire textuelle du français. Alliance Française. Paris
 
 http:// www. reverso.net
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 97% [█████████░]

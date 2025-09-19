@@ -2,34 +2,33 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Alonso, J. A. (2023): Lecciones sobre economía mundial, 11ª ed. Ed. Civitas, Madrid
 
-📚 Recursos sin cambios:
+García Delgado, J.L. y Myro R. (2023): Lecciones de Economía Española, 17ª ed. Ed. Civitas. Madrid
+
+García   Delgado,   J.L.   y   Myro,   R.   (2023):   Economía   Española.  Una  introducción,  6º  edición,  Ed.
+Thomson-Civitas, Madrid
+
+Requeijo, J. (2021): Economía Mundial, 6ª ed. Ed. Mc Graw-Hill, Madrid
+
+📚 Recursos sin cambios (2):
 ------------------------------
 González, M. (Dir.) (2013): Temas de Economía Española, 5ª ed. Ed. Tirant lo Blanc, Valencia
 
 Muñoz Cidad, C. (2020): Introducción a la economía aplicada, 6º ed. Ed. Civitas, Pamplona
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Alonso,   J.   A.   (2023):   Lecciones  sobre  economía  mundial,  11ª  ed.  Ed.  Civitas,  Madrid  →  Alonso,  J.
-A. (2025): Lecciones sobre economía mundial, 12ª ed. Ed. Civitas, Madrid
+Alonso, J. A. (2025): Lecciones sobre economía mundial, 12ª ed. Ed. Civitas, Madrid
 
-Requeijo,   J.   (2021):   Economía   Mundial,   6ª   ed.   Ed.  Mc  Graw-Hill,  Madrid  →  Requeijo,  J.  (2025):
-Economía Mundial, 7ª ed. Ed. Mc Graw-Hill, Madrid
+García   Delgado,   J.L.   y   Myro   R.   (Directores)   (2025):   Lecciones   de  Economía  Española,  18ª  ed.
+Ed.Thomson-Civitas. Madrid
 
-García   Delgado,   J.L.   y   Myro,   R.   (2023):   Economía   Española.  Una  introducción,  6º  edición,  Ed.
-Thomson-Civitas,   Madrid   →   García  Delgado,  J.L.  y  Myro,  R.  (Directores)  (2025):  Economía  Española.
-Una introducción, 7º edición, Ed. Thomson-Civitas, Madrid
+García   Delgado,   J.L.   y   Myro,   R.   (Directores)   (2025):   Economía  Española.  Una  introducción,  7º
+edición, Ed. Thomson-Civitas, Madrid
 
-García   Delgado,   J.L.   y   Myro   R.   (2023):   Lecciones   de   Economía   Española,  17ª  ed.  Ed  →  García
-Delgado,   J.L.   y   Myro   R.  (Directores)  (2025):  Lecciones  de  Economía  Española,  18ª  ed.  Ed.Thomson-
-Civitas. Madrid
+Requeijo, J. (2025): Economía Mundial, 7ª ed. Ed. Mc Graw-Hill, Madrid
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

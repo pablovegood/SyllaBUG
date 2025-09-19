@@ -2,11 +2,11 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 Amor Pulido, R. (2021). Técnicas Cuantitativas 2. Avicam Ediciones
 
@@ -24,7 +24,7 @@ Indianapolis, Indiana: Alpha, a member of Penguin Random House LLC
 Espejo   Miranda,   I.   (2016).   Inferencia   estadística  :  teoría  y  problemas  (2a.  edición  revisada.).
 Cádiz: Servicio de Publicaciones de la Universidad de Cádiz
 
-Eva   Ropero   Moriones   (coordinadora);   María   Eleftheriou   et   al.   (2009).   Manual   de  Estadística
+Fleming   Eva   Ropero  Moriones  (coordinadora);  María  Eleftheriou  et  al.  (2009).  Manual  de  Estadística
 Empresarial con ejercicios resueltos. Delta Publicaciones Universitarias, 2009
 
 García   Ramos   JA,  Ramos  González  CD,  Ruiz  Garzón  G,  (2007).  Estadística  empresarial.  Universidad  de
@@ -53,12 +53,8 @@ Utts, Jessica M. (2005) Seeing through statistics. Ed. Belmont, CA: Thomson
 Wild,   C.J.   (2000)   Chance  encounters:  a  first  course  in  data  analysis  and  inference.Ed.  John  Wiley
 and Sons. New York
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Gómez Villegas, M. (2007). Inferencia estadística. Madrid: Ediciones Díaz de Santos
+Disponibles en línea UGR
 
 📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

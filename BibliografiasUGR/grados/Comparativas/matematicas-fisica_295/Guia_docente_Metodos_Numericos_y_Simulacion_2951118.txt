@@ -2,11 +2,11 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Atkinson, K.E. An Introduction to Numerical Analysis. Wiley, London, 1988. ISBN: 0-471-62489-6
 
@@ -46,6 +46,9 @@ O-89871-355-2
 Hoffman,   J.D.   Numerical  Methods  for  Engineers  and  Scientists.  Marcel  Dekker,  New  York,  2001.  ISBN:
 0-8247-0443-6
 
+ISBN-10:   0471093971,   ISBN-13:   978-0471093978   McCracken,   D.D.,   y  Dorn,  W.S.  Métodos  Numéricos  y
+Programación Fortran con Aplicaciones en Ingeniería y Ciencias. Limusa-Weley, México, 1973
+
 Isaacson, E., and Bishop Kell, H. Analysis of Numerical Methods. Dover Publications, New York, 1994.
 ISBN: 0-486-68029-0
 
@@ -59,26 +62,20 @@ Johnston,   R.L.   Numerical   Methods.   A   Software   Approach.   John   Wile
 
 M. Gasca. Cálculo Numérico I. UNED, 1996. ISBN 84-362-2118-4
 
-McCracken,   D.D.,   y   Dorn,   W.S.   Métodos   Numéricos   y   Programación   Fortran   con  Aplicaciones  en
-Ingeniería y Ciencias. Limusa-Weley, México, 1973
-
 R.E.   Burden   y   J.D.   Faires.   Análisis   Numérico.   International   Thomson   Editores,   1998.   ISBN:
 968-7529-46-6
 
 Ralston. Introducción al Análisis Numérico. Limusa-Wesley, 1970
+
+S.C. Chapra y R.P. Canale. Métodos Numéricos para Ingenieros. McGraw-Hill, 1999. ISBN: 970-10-2008-1
 
 Vazquez,   L.,   Jiménez,   S.,   Aguirre   C.,   y   Pascual   P.   J.  Métodos  Numéricos  para  la  Física  y  la
 Ingeniería. Mc Graw Hill, Madrid, 2009. ISBN: 978-84-481-6602-1
 
 W. Allen Smith. Análisis Numérico. Prentice Hall, 1966. ISBN: 0-8359-1719-3
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-S.C.   Chapra   y   R.P.   Canale.   Métodos   Numéricos   para   Ingenieros.  McGraw-Hill,  1999.  ISBN  →  S.C.
-Chapra y R.P. Canale. Métodos Numéricos para Ingenieros. McGraw-Hill, 1999. ISBN: 970-10-2008-1
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

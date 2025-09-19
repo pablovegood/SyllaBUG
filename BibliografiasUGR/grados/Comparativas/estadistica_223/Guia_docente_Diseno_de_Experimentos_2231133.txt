@@ -2,11 +2,14 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+LARA PORRAS, A. M. Diseño Estadístico de Experimentos, Análisis de la Varianza y Temas Relacionados:
+Tratamiento   Informático   mediante   SPSS.   Proyecto   Sur,  2001  LARA  PORRAS,  A.M,  ROMÁN  MONTOYA,  Y.  y
+PÉREZ   BUENO,   F.   (2012).  "Guía  Interactiva  de  Autoaprendizaje  de  SPSS.  versión  4.1",  Formato  (CD).
+Proyecto Sur de Ediciones
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 BOX,   G.,   HUNTER,   W.   y   HUNTER,   J.  S.  Estadística  para  Investigadores.  Introducción  al  Diseño  de
 Experimentos, Análisis de Datos y Construcción de Modelos. Ed. Reverté‚ S.A., 1988
@@ -35,17 +38,12 @@ PRAT, A., et al. Métodos Estadísticos. Ediciones UPC, Barcelona, 1995
 
 SIEGEL, S. Estadística no paramétrica. Ed. Trillas, 1972
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-LARA PORRAS, A. M. Diseño Estadístico de Experimentos, Análisis de la Varianza y Temas Relacionados:
-Tratamiento   Informático   mediante   SPSS.   Proyecto   Sur,  2001  LARA  PORRAS,  A.M,  ROMÁN  MONTOYA,  Y.  y
-PÉREZ   BUENO,   F.   (2012).  "Guía  Interactiva  de  Autoaprendizaje  de  SPSS.  versión  4.1",  Formato  (CD).
-Proyecto   Sur   de   Ediciones   →   LARA  PORRAS,  A.M,  ROMÁN  MONTOYA,  Y.  y  PÉREZ  BUENO,  F.  (2012).  "Guía
-Interactiva de Autoaprendizaje de SPSS. versión 4.1", Formato (CD). Proyecto Sur de Ediciones
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 LARA PORRAS, A. M. Diseño Estadístico de Experimentos, Análisis de la Varianza y Temas Relacionados:
 Tratamiento Informático mediante SPSS. Proyecto Sur, 2001
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+LARA   PORRAS,   A.M,  ROMÁN  MONTOYA,  Y.  y  PÉREZ  BUENO,  F.  (2012).  "Guía  Interactiva  de  Autoaprendizaje
+de SPSS. versión 4.1", Formato (CD). Proyecto Sur de Ediciones
+
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

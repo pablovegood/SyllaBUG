@@ -2,28 +2,14 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
-No hay elementos.
+B.H. Bransden and C.J. Joachain. Physics of Atoms and Molecules. Segunda edición. Longmann, 2003
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Introduction   to   experiments   and   theory.   Springer,   2004.   P.   F.   Benath,   Spectra  of  atoms  and
-molecules. Oxford University Press, 1995. H. Friedrich, Theoretical Atomic Physics, Springer-Verlag,
-2006.   M.   Weissbluth,   Atoms   and   Molecules,  Academic  Press,  1978  →  P.  F.  Benath,  Spectra  of  atoms
-and molecules. Oxford University Press, 1995
-
-B.H.   Bransden   and   C.J.  Joachain.  Physics  of  Atoms  and  Molecules.  Segunda  edición.  Longmann,  2003.
-E.U.   Condon  and  H.  Odabasi,  Atomic  Structure.  Cambridge  University  Press,  1980.  H.  Haken,  H.C.  Wolf
-&   W.D.   Brewer.   Molecular   Physics   and   Elements   of   Quantum   Chemistry  →  B.H.  Bransden  and  C.J.
-Joachain. Physics of Atoms and Molecules. Segunda edición. Longmann, 2003
-
-✅ Recursos añadidos:
-------------------------------
 E.U. Condon and H. Odabasi, Atomic Structure. Cambridge University Press, 1980
 
 H. Friedrich, Theoretical Atomic Physics, Springer-Verlag, 2006
@@ -33,4 +19,10 @@ to experiments and theory. Springer, 2004
 
 M. Weissbluth, Atoms and Molecules, Academic Press, 1978
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+P. F. Benath, Spectra of atoms and molecules. Oxford University Press, 1995
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

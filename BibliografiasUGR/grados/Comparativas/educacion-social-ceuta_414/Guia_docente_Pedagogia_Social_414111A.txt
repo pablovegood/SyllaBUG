@@ -2,13 +2,16 @@
 Grado: educacion-social-ceuta (414)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Género.   Convergencia.   Revista   de  Ciencias  Sociales,  10  (33),  97-122.  los  conflictos.  Feminismo/s.
-10,   93-105   Cortés-Pérez,  S.A.  (noviembre,  2011).  El  cuidado  como  actores  de  las  políticas  sociales
-en un contexto de transformación. Red Española de Política Social, Pamplona, España
+SORIANO, A. (2001). Maltrato infantil. Ediciones Madrid: San Pablo BAUMAN, Z. (2007). Miedo líquido.
+La sociedad contemporánea y sus temores. Madrid: Paidós
 
-📚 Recursos sin cambios:
+SÁEZ,   J.  (Coor)  (2007).  Pedagogía  Social.  Madrid,  Pearson  (Prentice-Hall)  SÁEZ,  J.  (Coord.)  (2007).
+Pedagogía   Social.   Pearson:   Madrid   SÁEZ,   J.   y  GARCÍA  MOLINA,  J.  (coords.)  (2011).  Metáforas  del
+educador. Valencia: Nau Llivres
+
+📚 Recursos sin cambios (20):
 ------------------------------
 BAUMAN, Z. (2018). Modernidad líquida, trad. de Mirta Rosenberg, Jaime
 
@@ -18,6 +21,15 @@ BRONFENBRENNER, U. (1979). La ecología del desarrollo humano. Barcelona. Paidó
 
 CARIDE,   J.A.   (2005).   Las   fronteras   de  la  Pedagogía  Social.  Perspectivas  científica  e  histórica.
 Barcelona: Gedisa
+
+COMINS   MINGOL,   I.   (2003).   Del   Miedo   a   la  Diversidad  a  la  Ética  del  Cuidado:Una  Perspectiva  de
+Género. Convergencia. Revista de Ciencias Sociales, 10 (33), 97-122
+
+COMINS   MINGOL,   I.  (2007)  La  ética  del  cuidado:  contribuciones  a  una  transformación  pacífica  de  los
+conflictos.   Feminismo/s.   10,  93-105  Cortés-Pérez,  S.A.  (noviembre,  2011).  El  cuidado  como  objetivo
+político-social,una   nueva   mirada  desde  la  ética  del  cuidado.  En  III  Congreso  Anual.  Los  actores  de
+las   políticas  sociales  en  un  contexto  de  transformación.  Red  Española  de  Política  Social,  Pamplona,
+España
 
 GONZÁLEZ-GIJÓN G., JIMÉNEZ-RIOS FJ., MARTÍNEZ-HEREDIA N. Y SORIANO DÍAZ A. (2023) Study on the types
 of abuse in young couples as a function of sex. Front. Psychol. 14:1166834
@@ -33,6 +45,10 @@ en los Mercados del Sexo. Granada: Comares. Mardid: Fondo de Cultura Económica
 
 MAX-NEFF, MANFRED, ANTONIO ELIZALDE & MARTÍN OPENHAYN (1986). Desarrollo a escala humana: una opción
 para el futuro. Development Dialogue, número especial, 96 pp. CEPAUR, Fundacion Dag Hammarskjold
+
+MEDINA-VICENT,   M.   (2016).   La   ética   del   cuidado   y   Carol  Gilligan:  una  crítica  a  la  teoría  del
+desarrollo   moral   de  Kohlberg  para  la  definición  de  un  nivel  moral  postconvencional  contextualista.
+Daimon: Revista Internacional de Filosofía, (67), 97-122
 
 ORTEGA, J. (1999). Pedagogía Social Especializada. Barcelona: Ariel
 
@@ -53,31 +69,9 @@ TONUCCI, F. (1996). La ciudad de los niños. Graó: Barcelona
 
 UNESCO (2015). Replantear la educación ¿Hacia un bien común mundial? París: UNESCO
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-SÁEZ,   J.  (Coor)  (2007).  Pedagogía  Social.  Madrid,  Pearson  (Prentice-Hall)  SÁEZ,  J.  (Coord.)  (2007).
-Pedagogía   Social.   Pearson:   Madrid   SÁEZ,   J.   y  GARCÍA  MOLINA,  J.  (coords.)  (2011).  Metáforas  del
-educador.   Valencia:   Nau   Llivres   →   SÁEZ,   J.  y  GARCÍA  MOLINA,  J.  (coords.)  (2011).  Metáforas  del
-educador. Valencia: Nau Llivres
-
-SORIANO, A. (2001). Maltrato infantil. Ediciones Madrid: San Pablo BAUMAN, Z. (2007). Miedo líquido.
-La   sociedad   contemporánea   y   sus   temores.   Madrid:  Paidós  →  BAUMAN,  Z.  (2007).  Miedo  líquido.  La
-sociedad contemporánea y sus temores. Madrid: Paidós
-
-✅ Recursos añadidos:
-------------------------------
-COMINS   MINGOL,   I.   (2003).   Del   Miedo   a   la  Diversidad  a  la  Ética  del  Cuidado:Una  Perspectiva  de
-Género. Convergencia. Revista de Ciencias Sociales, 10 (33), 97-122
-
-COMINS   MINGOL,   I.  (2007)  La  ética  del  cuidado:  contribuciones  a  una  transformación  pacífica  de  los
-conflictos.   Feminismo/s.   10,  93-105  Cortés-Pérez,  S.A.  (noviembre,  2011).  El  cuidado  como  objetivo
-político-social,una   nueva   mirada  desde  la  ética  del  cuidado.  En  III  Congreso  Anual.  Los  actores  de
-las   políticas  sociales  en  un  contexto  de  transformación.  Red  Española  de  Política  Social,  Pamplona,
-España
-
-MEDINA-VICENT,   M.   (2016).   La   ética   del   cuidado   y   Carol  Gilligan:  una  crítica  a  la  teoría  del
-desarrollo   moral   de  Kohlberg  para  la  definición  de  un  nivel  moral  postconvencional  contextualista.
-Daimon: Revista Internacional de Filosofía, (67), 97-122
+BAUMAN, Z. (2007). Miedo líquido. La sociedad contemporánea y sus temores. Madrid: Paidós
 
 SORIANO, A. (2001). Maltrato infantil. Ediciones Madrid: San Pablo
 
@@ -85,4 +79,6 @@ SÁEZ, J. (Coor) (2007). Pedagogía Social. Madrid, Pearson (Prentice-Hall)
 
 SÁEZ, J. (Coord.) (2007). Pedagogía Social. Pearson: Madrid
 
-📊 Porcentaje estimado de cambio: 45% [████░░░░░░]
+SÁEZ, J. y GARCÍA MOLINA, J. (coords.) (2011). Metáforas del educador. Valencia: Nau Llivres
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

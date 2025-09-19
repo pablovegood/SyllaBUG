@@ -2,11 +2,20 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Kenett,   R.S.,   Zacks,   S.   1998   Estadística   industrial   moderna.   International   Thomson  editores
+Montgomery, D.C. 2004 Control estadístico de la calidad. Grupo Editorial Iberoamérica 3ª Ed
 
-📚 Recursos sin cambios:
+Navarrete   Álvarez   E.   1998  Control  estadístico  de  la  Calidad:  Control  estadístico  de  procesos.  Ed.
+Adhara   Peña,D.   y   Prat,A.   1986  Cómo  mejorar  la  calidad.  Instituto  de  la  Pequeña  y  Mediana  Empresa
+industrial   Pérez,  C.  1999  Control  estadístico  de  la  calidad.  Ed.  Rama  Prat,  A.;  Tort-Martorell,  X.;
+Grima,   P.;   Pozueta,   L.  1994.  Métodos  Estadísticos.  Control  y  mejora  de  la  Calidad.  Ediciones  UPC.
+Barcelona   Ross,   P.   1998   Taguchi   Techniques   for  Quality  Engineering.  MçGraw-Hill  Thomson,  J.R.,
+Koronacki 2002 Statistical process control. Chapman & Hall /CRC Wu, Y. y Wu, A. 1997 Diseño robusto.
+Utilizando los métodos de Taguchi. Díaz de Santos
+
+📚 Recursos sin cambios (4):
 ------------------------------
 Box,   G.   Hunter,   W.  y  Hunter,  J.S.  1988  Estadística  para  investigadores.  Introducción  al  diseño  de
 experimentos, análisis de datos y construcción de modelos. Ed. Reverté, S.A
@@ -18,20 +27,7 @@ Grima, P., Marco, L. y Tort-Martorell, X. 2010 Estadística con Minitab. Garceta
 
 Juran J.M. y Gryna F.M. 1995 Análisis y planificación de la calidad. McGraw Hill
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Kenett,   R.S.,   Zacks,   S.   1998   Estadística   industrial   moderna.   International   Thomson  editores
-Montgomery,   D.C.   2004  Control  estadístico  de  la  calidad.  Grupo  Editorial  Iberoamérica  3ª  Navarrete
-Álvarez   E.   1998   Control   estadístico   de   la  Calidad:  Control  estadístico  de  procesos.  Ed.  Adhara
-Peña,D. y Prat,A. 1986 Cómo mejorar la calidad. Instituto de la Pequeña y Mediana Empresa industrial
-Pérez,   C.  1999  Control  estadístico  de  la  calidad.  Ed.  Rama  Prat,  A.;  Tort-Martorell,  X.;  Grima,  P.;
-Pozueta,   L.   1994.   Métodos   Estadísticos.  Control  y  mejora  de  la  Calidad.  Ediciones  UPC.  Barcelona
-Ross,   P.  1998  Taguchi  Techniques  for  Quality  Engineering.  MçGraw-Hill  Thomson,  J.R.,  Koronacki  2002
-Statistical process control. Chapman & Hall /CRC Wu, Y. y Wu, A. 1997 Diseño robusto. Utilizando los
-métodos   de   Taguchi.   Díaz   de   Santos  →  Thomson,  J.R.,  Koronacki  2002  Statistical  process  control.
-Chapman & Hall /CRC
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 Kenett, R.S., Zacks, S. 1998 Estadística industrial moderna. International Thomson editores
 
@@ -49,6 +45,8 @@ Pérez, C. 1999 Control estadístico de la calidad. Ed. Rama
 
 Ross, P. 1998 Taguchi Techniques for Quality Engineering. MçGraw-Hill
 
+Thomson, J.R., Koronacki 2002 Statistical process control. Chapman & Hall /CRC
+
 Wu, Y. y Wu, A. 1997 Diseño robusto. Utilizando los métodos de Taguchi. Díaz de Santos
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 84% [████████░░]

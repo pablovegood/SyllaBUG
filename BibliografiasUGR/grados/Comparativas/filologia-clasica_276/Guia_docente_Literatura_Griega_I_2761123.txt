@@ -2,11 +2,11 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
 Alsina, J., Literatura griega, Barcelona, Ariel, 1967, reimpr. 1983
 
@@ -58,6 +58,9 @@ Akal Universitaria 269), 2008
 Lesky,   A.,   Historia  de  la  literatura  griega,  trad.  esp.  de  J.  M.  Díaz  Regañón  &  B.  Romero,  Madrid,
 Gredos, 1976 (orig.: Bern 1963, 2ª ed.)
 
+López   Férez,  J.  A.  (ed.),  Historia  de  la  literatura  griega,  Madrid,  Cátedra  (  Historia.  Serie  Mayor
+), 1988, reimpr. 2000
+
 Rodríguez   Somolinos,  H.,  «Literatura  arcaica»,  en  F.  Rodríguez  Adrados  et  al.(eds.),  Veinte  años  de
 Filología   Griega   (1984-2004),  Madrid,  Consejo  Superior  de  Investigaciones  Científicas  (  Manuales  y
 Anejos de Emerita 49), 2008, 447-477
@@ -73,14 +76,8 @@ Suárez   de  la  Torre,  E.,  Antología  de  la  lírica  griega  arcaica,  Ma
 
 Torres Guerra, J. B., Introducción a la literatura griega, Madrid, Síntesis, 2019
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-López   Férez,   J.   A.  (ed.),  Historia  de  la  literatura  griega,  Madrid,  Cátedra,  1988,  reimpr  →  López
-Férez,   J.   A.   (ed.),   Historia  de  la  literatura  griega,  Madrid,  Cátedra  (  Historia.  Serie  Mayor  ),
-1988, reimpr. 2000
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,19 +2,22 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (1):
 ------------------------------
 A.   Delgado,   J.   Nieto,   A.   Robles,   O.   Sánchez,   Métodos   numéricos   básicos   con   Octave,  ISBN:
 978-84-16535-79-82016      (Librería      Fleming,     Granada     2016).     Disponible     online     en:
-https://github.com/oscarsanchezromero/Calculo-Cientifico-Octave/
+https://github.com/oscarsanchezromero/Calculo-Cientifico-Octave/ M. Gasca, Cálculo Numérico I, Sexta
+Ed. Universidad Nacional de Educación a Distancia, Madrid, 1993
 
+📚 Recursos sin cambios (10):
+------------------------------
 A.   Quarteroni,   R.   Sacco,   F.   Saleri,   Numerical   mathematics,   second   edition,   Texts  inApplied
 Mathematics 37 Springer-Verlag, Berlin, 2007
 
+Disponible online en: https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991003673949704990
+L. N. Trefethen, Numerical linear algebra, Philadelphia : SIAM, 1997
+
+Disponible online en: https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991013963626804990
 D.   Kincaid,   W.   Cheney,   Análisis  Numérico:  Las  Matemáticas  del  Cálculo  Científico.  Addison-Wesley
 Iberoamericana, 1994
 
@@ -29,10 +32,6 @@ https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991003673949704990
 
 J. W. Demmel, Applied numerical linear algebra, Philadelphia : SIAM, 1997
 
-L. N. Trefethen, Numerical linear algebra, Philadelphia : SIAM, 1997
-
-M. Gasca, Cálculo Numérico I, Sexta Ed. Universidad Nacional de Educación a Distancia, Madrid, 1993
-
 M. Gasca, Cálculo Numérico: Resolución de ecuaciones y sistemas, Mira Editores, 1999
 
 R. L. Burden, J. D. Faires, Analisis Numerico (9ª Ed), Paraninfo, 2011
@@ -40,12 +39,12 @@ R. L. Burden, J. D. Faires, Analisis Numerico (9ª Ed), Paraninfo, 2011
 W.   Gautschi,   Numerical   analysis,   second  edition,  Springer,  New  York,  2012.  Disponible  online  en:
 https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991013963626804990
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+A.   Delgado,   J.   Nieto,   A.   Robles,   O.   Sánchez,   Métodos   numéricos   básicos   con   Octave,  ISBN:
+978-84-16535-79-82016      (Librería      Fleming,     Granada     2016).     Disponible     online     en:
+https://github.com/oscarsanchezromero/Calculo-Cientifico-Octave/
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+M. Gasca, Cálculo Numérico I, Sexta Ed. Universidad Nacional de Educación a Distancia, Madrid, 1993
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

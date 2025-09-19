@@ -2,11 +2,17 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+BAI SHOUYI Breve historia de China: desde la antigüedad hasta 1919. Pekin, Lenguas Extranjeras, 1984
 
-📚 Recursos sin cambios:
+DUBARBIER,   G.   La  china  del  siglo  XX.Del  Imperio  Manchú  a  la  Revoolución  Cultural.  Madrid,  Alianza,
+1967 FERNANDEZ LOMMEN, Y. (2001) China: La construcción de un Estado moderno. Madrid, Catarata
+
+ROBERTS,   J.A.G.   (2008)  Historia  de  China,  Universidad  de  Valencia  SNOW,  E.  La  china  Contemporánea.
+Méjico, Fce, 1965
+
+📚 Recursos sin cambios (24):
 ------------------------------
 AGUIRRE,   M  (2000)  China:  capitalismo  rojo,  los  desafíos  del  viaje  a  la  riqueza.  Barcelona,  Flor  del
 viento, 2000
@@ -19,8 +25,6 @@ BUCKLEY EBRERY, P. (2009: Historia de China Cambridge. La Esfera de los Libros
 
 Coordinadores:   Gabriel  Esteban  Merino,  Lourdes  Regueiro  Bello  y  Wagner  Tadeu  Iglecias.  (2022)  China
 y el nuevo mapa del orden mundial. Biblioteca Virtual de CLACSO
-
-Córdoba (Argentina), Comunicarte, 2007
 
 DOMENACH, Jean-Luc ¿A dónde va China?. Barcelona, Paidos, 2006
 
@@ -42,6 +46,9 @@ KING FAIRBANK, J. (1996) China, Una Nueva Historia
 
 LATTIMORE, O. Breve historia de China. Madrid. Espasa Calpe, 1966
 
+MEISNER,   M.   La   China  de  Mao  y  después:  una  historia  de  la  República  Popular.  Córdoba  (Argentina),
+Comunicarte, 2007
+
 MORENO GARCIA, J. (1994) La china del siglo XX. Madrid, Akal
 
 MOURELO, S. (2001) Adios a china: un viaje por el gigante asiático. Madrid, Espasa
@@ -53,7 +60,8 @@ RIOS, X. (1997) ¿China: superpotencia del siglo XXI?. Barcelona, Icaria
 
 SHAPIRO J. (2001): Mao`s War Against Nature, C.U.P
 
-TAMAMES, R. (2001) China 2001, la cuarta revolución: del asilasmiento, a superpotencia
+TAMAMES,   R.   (2001)   China   2001,   la  cuarta  revolución:  del  asilasmiento,  a  superpotencia  mundial.
+Madrid, Editora Nacional
 
 TILT,   B.   (2010)   The   Struggle   for   Sustainability  in  Rural  China.  Environmental  Values  and  Civil
 Society. Columbia University Press
@@ -63,34 +71,27 @@ The Cambridge History of China. Vol 10-15. Cambridge University Press, 1991
 WELLER   R.P.  (2006)  Discovering  Nature.  Globalization  and  Environmental  Cultura  in  China  and  Taiwan.
 C.U.P
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-DUBARBIER,   G.   La  china  del  siglo  XX.Del  Imperio  Manchú  a  la  Revoolución  Cultural.  Madrid,  Alianza,
-1967   FERNANDEZ   LOMMEN,   Y.   (2001)  China:  La  construcción  de  un  Estado  moderno.  Madrid,  Catarata  →
-DUBARBIER,   G.   La  china  del  siglo  XX.Del  Imperio  Manchú  a  la  Revoolución  Cultural.  Madrid,  Alianza,
-1967
-
-ROBERTS,   J.A.G.   (2008)  Historia  de  China,  Universidad  de  Valencia  SNOW,  E.  La  china  Contemporánea.
-Méjico,   Fce,   1965.   BAI   SHOUYI   Breve   historia   de  China:  desde  la  antigüedad  hasta  1919.  Pekin,
-Lenguas Extranjeras, 1984  →  ROBERTS, J.A.G. (2008) Historia de China, Universidad de Valencia
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (10):
 ------------------------------
 BAI SHOUYI Breve historia de China: desde la antigüedad hasta 1919. Pekin, Lenguas
 
-Breve    Historia    de   la   República   Popular   China   1949-2019.   Instituto   de   Estudios   de   China
-Contemporánea. Biblioteca Virtual de CLACSO
+Córdoba (Argentina), Comunicarte, 2007
+
+DUBARBIER,   G.   La  china  del  siglo  XX.Del  Imperio  Manchú  a  la  Revoolución  Cultural.  Madrid,  Alianza,
+1967
 
 Extranjeras, 1984
 
 FERNANDEZ LOMMEN, Y. (2001) China: La construcción de un Estado moderno. Madrid, Catarata
 
-MEISNER, M. La China de Mao y después: una historia de la República Popular
+Manuales de Referencia en Acceso Abierto
+
+ROBERTS, J.A.G. (2008) Historia de China, Universidad de Valencia
 
 SNOW, E. La china Contemporánea. Méjico, Fce, 1965
 
 Siglo XXI, 1979
 
-mundial. Madrid, Editora Nacional
+TAMAMES, R. (2001) China 2001, la cuarta revolución: del asilasmiento, a superpotencia
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

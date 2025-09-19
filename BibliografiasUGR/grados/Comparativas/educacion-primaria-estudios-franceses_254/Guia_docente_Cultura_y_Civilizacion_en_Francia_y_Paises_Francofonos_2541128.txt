@@ -2,11 +2,30 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+De   Cock,   L.  (2012).  Un  siècle  d’enseignement  du  «  fait  colonial  »  dans  le  secondaire  de  1902  à  nos
+jours.   Histoire@Politique,   18(3),  179-198.  https://doi.org/10.3917/hp.018.0179  Derrida,  J.  (1996).
+Le monolinguisme de l’autre ou la prothèse d’origine. Éditions Galilée
 
-📚 Recursos sin cambios:
+Dulucq,   S.,   &   Zytnicki,   C.   (2005).   Penser   le   passé   colonial   français.   Entre   perspectives
+historiographiques   et   résurgence   des   mémoires.  Vingtième  Siècle.  Revue  d’histoire,  86(2),  59-69.
+https://doi.org/10.3917/ving.086.0059   Hodeir,   C.,   &   Pierre,  M.  (2011).  L’Exposition  coloniale  de
+1931. A. Versaille
+
+Jahier,   B.   (2012).   L’apologie   de   la   politique   coloniale  française  dans  la  littérature  pour  la
+jeunesse   avant   1914   :   Un   soutien   sans   limites   ?   Strenæ.  Recherches  sur  les  livres  et  objets
+culturels de l’enfance, 3, Article 3. https://doi.org/10.4000/strenae.503 Jarry, G., & T, O. (2009).
+Petite histoire des colonies françaises. Tomes I-V. FLBLB EDITIONS
+
+https://www.cairn.info/europe-litteraire-et-l-ailleurs-9782130493129-p-107.htm   Platania,  M.  (2011).
+L’historiographie   du   fait   colonial   :   Enjeux   et   transformations.  Revue  d’Histoire  des  Sciences
+Humaines,    24(1),    189-207.   https://doi.org/10.3917/rhsh.024.0189   Sciardet,   H.   (2002).   De   la
+colonisation   à   la   décolonisation   :   Les  modes  de  constitution  de  la  Françafrique.Une  table  ronde
+entre      Nicolas      Bancel      et      Jean-Pierre      Dozon.     Mouvements,     21-22(3),     15-27.
+https://doi.org/10.3917/mouv.021.0015 Vadepied, M. (Réalisateur). (2023). Tirailleurs
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Bancel,   N.,   Blanchard,   P.,   &   Vergès,  F.  (2003).  La  république  coloniale  :  Essai  sur  une  utopie.
 Albin Michel
@@ -39,39 +58,24 @@ coloniales. Atlande
 
 Surun, I. (Éd.). (2020). La France et l’Afrique : 1830-1962. Atlande
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Dulucq,   S.,   &   Zytnicki,   C.   (2005).   Penser   le   passé   colonial   français.   Entre   perspectives
-historiographiques   et   résurgence   des  mémoires.  Vingtième  Siècle.  Revue  d’histoire,  86(2),  Hodeir,
-C.,   &   Pierre,  M.  (2011).  L’Exposition  coloniale  de  1931.  A.  Versaille  →  Dulucq,  S.,  &  Zytnicki,  C.
-(2005).   Penser   le  passé  colonial  français.  Entre  perspectives  historiographiques  et  résurgence  des
-mémoires. Vingtième Siècle. Revue d’histoire, 86(2), 59-69. https://doi.org/10.3917/ving.086.0059
-
-Jahier,   B.   (2012).   L’apologie   de   la   politique   coloniale  française  dans  la  littérature  pour  la
-jeunesse   avant   1914   :   Un   soutien   sans   limites   ?   Strenæ.  Recherches  sur  les  livres  et  objets
-culturels   de   Jarry,   G.,  &  T,  O.  (2009).  Petite  histoire  des  colonies  françaises.  Tomes  I-V.  FLBLB
-EDITIONS   →   Jarry,   G.,   &   T,  O.  (2009).  Petite  histoire  des  colonies  françaises.  Tomes  I-V.  FLBLB
-EDITIONS
-
-De   Cock,   L.  (2012).  Un  siècle  d’enseignement  du  «  fait  colonial  »  dans  le  secondaire  de  1902  à  nos
-Derrida,   J.   (1996).   Le   monolinguisme   de   l’autre   ou   la  prothèse  d’origine.  Éditions  Galilée  →
-Derrida, J. (1996). Le monolinguisme de l’autre ou la prothèse d’origine. Éditions Galilée
-
-Platania, M. (2011). L’historiographie du fait colonial : Enjeux et transformations. Revue Sciardet,
-H. (2002). De la colonisation à la décolonisation : Les modes de constitution de la Françafrique.Une
-table   ronde   entre   Nicolas   Bancel   et   Jean-Pierre   Dozon.   Mouvements,   21-22(3),   Vadepied,   M.
-(Réalisateur). (2023). Tirailleurs  →  Vadepied, M. (Réalisateur). (2023). Tirailleurs
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 De   Cock,   L.  (2012).  Un  siècle  d’enseignement  du  «  fait  colonial  »  dans  le  secondaire  de  1902  à  nos
 jours. Histoire@Politique, 18(3), 179-198. https://doi.org/10.3917/hp.018.0179
+
+Derrida, J. (1996). Le monolinguisme de l’autre ou la prothèse d’origine. Éditions Galilée
+
+Dulucq,   S.,   &   Zytnicki,   C.   (2005).   Penser   le   passé   colonial   français.   Entre   perspectives
+historiographiques   et   résurgence   des   mémoires.  Vingtième  Siècle.  Revue  d’histoire,  86(2),  59-69.
+https://doi.org/10.3917/ving.086.0059
 
 Hodeir, C., & Pierre, M. (2011). L’Exposition coloniale de 1931. A. Versaille
 
 Jahier,   B.   (2012).   L’apologie   de   la   politique   coloniale  française  dans  la  littérature  pour  la
 jeunesse   avant   1914   :   Un   soutien   sans   limites   ?   Strenæ.  Recherches  sur  les  livres  et  objets
 culturels de l’enfance, 3, Article 3. https://doi.org/10.4000/strenae.503
+
+Jarry, G., & T, O. (2009). Petite histoire des colonies françaises. Tomes I-V. FLBLB EDITIONS
 
 Platania,   M.   (2011).   L’historiographie   du   fait   colonial   :   Enjeux   et   transformations.  Revue
 d’Histoire des Sciences Humaines, 24(1), 189-207. https://doi.org/10.3917/rhsh.024.0189
@@ -80,4 +84,6 @@ Sciardet,   H.   (2002).   De   la   colonisation   à   la  décolonisation  : 
 Françafrique.Une table ronde entre Nicolas Bancel et Jean-Pierre Dozon. Mouvements, 21-22(3), 15-27.
 https://doi.org/10.3917/mouv.021.0015
 
-📊 Porcentaje estimado de cambio: 52% [█████░░░░░]
+Vadepied, M. (Réalisateur). (2023). Tirailleurs
+
+📊 Porcentaje estimado de cambio: 59% [█████░░░░░]

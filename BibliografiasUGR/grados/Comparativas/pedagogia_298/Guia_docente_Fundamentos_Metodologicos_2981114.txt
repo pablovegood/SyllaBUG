@@ -2,11 +2,11 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Babbie, E. (2000). Fundamentos de la Investigación Social. International Thompson Editores
 
@@ -83,11 +83,7 @@ Revista Portuguesa de Pedagogía, v. 39, pp.137-155
 Rodríguez,   G.,   Gil,   J.,   y   García,  E.  (1999).  Métodos  de  investigación  cualitativa  (2ª  edición).
 Aljibe
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (18):
 ------------------------------
 Aguilar   Gavira,   S.,   y   Barroso   Osuna,   J.   (2015).   La  triangulación  de  datos  como  estrategia  en
 investigación     educativa.     Pixel-bit.     Revista    de    medios    y    educación,    (47),    73-88.
@@ -148,4 +144,4 @@ Hernández,   M.H.F.,   y   Del   Cid   Flores,   M.A.   (2021).   Importancia  
 investigación.   Revista   Científica   del   Sistema   de  Estudios  de  Postgrado  de  la  Universidad  de  San
 Carlos de Guatemala, 4(1), 77-84. https://doi.org/10.36958/sep.v4i1.77
 
-📊 Porcentaje estimado de cambio: 69% [██████░░░░]
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

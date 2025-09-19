@@ -2,12 +2,19 @@
 Grado: farmacia-nutricion-humana-dietetica (225)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Elsevier ESPAÑA, SA (12ª ed.) Barcelona. 2016
 
-📚 Recursos sin cambios:
+Jay   y   cols.   Microbiología   moderna   de  los  alimentos.  Acribia  (5ª  ed).  Zaragoza.  2005  Bennett  JE,
+Dolin   R,   Blaser   MJ.  Enfermedades  infecciosas:  Principios  y  práctica.  Elsevier  ESPAÑA,  SA  (9ª  ed).
+2020
+
+📚 Recursos sin cambios (5):
 ------------------------------
+Fernández-Crehuet   Navajas   y   cols.   Piédrola   Gil.   Medicina   Preventiva  y  Salud  Pública.  Elsevier
+ESPAÑA, SA (12ª ed.) Barcelona. 2016
+
 Martínez González, MA. Conceptos de Salud Pública y Estrategias Preventivas. Elsevier ESPAÑA, SA (3ª
 ed). Barcelona, 2023
 
@@ -16,23 +23,17 @@ Washington. 2017
 
 Serra Majem y cols. Nutrición y Salud Pública. Elsevier ESPAÑA, SA (2ª ed). Barcelona. 2006
 
-Wild CP, Weiderpass E, Stewart BW. World Cancer Report. IARC Press. Lyon. 2020
+Wild   CP,   Weiderpass   E,   Stewart   BW.   World   Cancer   Report.   IARC  Press.  Lyon.  2020  Organizacion
+Panamericana de la Salud. El Control de las Enfermedades Transmisibles
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Elsevier   ESPAÑA,   SA   (12ª   ed.)   Barcelona.   2016  →  Serra  Majem  y  cols.  Nutrición  y  Salud  Pública.
-Elsevier ESPAÑA, SA (2ª ed). Barcelona. 2006
-
-Jay   y   cols.   Microbiología   moderna   de  los  alimentos.  Acribia  (5ª  ed).  Zaragoza.  2005  Bennett  JE,
-Dolin   R,   Blaser   MJ.  Enfermedades  infecciosas:  Principios  y  práctica.  Elsevier  ESPAÑA,  SA  (9ª  ed).
-2020  →  Jay y cols. Microbiología moderna de los alimentos. Acribia (5ª ed). Zaragoza. 2005
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Bennett JE, Dolin R, Blaser MJ. Enfermedades infecciosas: Principios y práctica. Elsevier ESPAÑA, SA
 (9ª ed). 2020
 
-Fernández-Crehuet   Navajas   y   cols.   Piédrola   Gil.   Medicina   Preventiva  y  Salud  Pública.  Elsevier
-ESPAÑA, SA (12ª ed.) Barcelona. 2016
+Bennett JE, Dolin R, Blaser MJ. Enfermedades infecciosas: Principios y práctica. Elsevier ESPAÑA, SA
+(9ª ed). 2020
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+Jay y cols. Microbiología moderna de los alimentos. Acribia (5ª ed). Zaragoza. 2005
+
+📊 Porcentaje estimado de cambio: 71% [███████░░░]

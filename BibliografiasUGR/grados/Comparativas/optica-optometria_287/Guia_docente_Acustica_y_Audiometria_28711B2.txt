@@ -2,20 +2,26 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Acoustics and Psychoacoustics. David M. Howard, Jamie A.S. Angus. Elsevier, 2009, 4th edition
 
 Acoustics.   Basic  Physics,  Theory  and  Methods.  Paul  Filippi,  Dominique  Habault,  Jean-Pierre  Lefebvre
 y Aimé Bergassoli. Elsevier, 1999
 
-Ateneo.   1994.   Artículos   de   divulgación   científica   en   revistas   como:  Ear  and  Hearing,  Hearing
-Research,   Journal   of   Hearing   Science,   Hearing   Journal,  Journal  of  Speech,  Language  and  Hearing
-Research, etc
+Artículos   de  divulgación  científica  en  revistas  como:  Ear  and  Hearing,  Hearing  Research,  Journal  of
+Hearing Science, Hearing Journal, Journal of Speech, Language and Hearing Research, etc
+
+Audioprótesis: Enfoque médico, fonoaudiológico y electroacústico. Yankel Pasik et al. Ateneo. 1994
+
+Audioprótesis:   Teoría   y   práctica.  A.  Angulo  Jerez,  J.L.  Blanco  López  de  Lerma,  F.  Mateos  Álvarez.
+Masson, 2004
+
+Hearing, Brian C.J. Moore. Elsevier, 1995
 
 Hearing:   An   Introduction  to  Psychological  and  Physiological  Acoustics.  Stanley  A.  Gelfand.  Informa
 UK, 2010. 5th edition
@@ -26,18 +32,8 @@ Room Acoustics. Heinrich Kuttruff. Spon Press, 2009, 5th edition
 
 The Master Handbook of Acoustics. F. Alton Everest. McGraw-Hill, 2001, 4th edition
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Hearing,   Brian   C.J.  Moore.  Elsevier,  1995.  Audioprótesis:  Teoría  y  práctica.  A.  Angulo  Jerez,  J.L.
-Blanco    López    de    Lerma,   F.   Mateos   Álvarez.   Masson,   2004.   Audioprótesis:   Enfoque   médico,
-fonoaudiológico    y    electroacústico.    Yankel    Pasik   et   al   →   Audioprótesis:   Enfoque   médico,
-fonoaudiológico y electroacústico. Yankel Pasik et al. Ateneo. 1994
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Audioprótesis:   Teoría   y   práctica.  A.  Angulo  Jerez,  J.L.  Blanco  López  de  Lerma,  F.  Mateos  Álvarez.
-Masson, 2004
-
-Hearing, Brian C.J. Moore. Elsevier, 1995
-
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: estudios-ingleses (285)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Bernhard and W. Wolf. Amsterdam & New York: Rodopi, 2004
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 Allen, G. Intertextuality . New York: Routledge, 2000
 
@@ -47,6 +47,8 @@ Meyer, M.J. (ed.). Literature and Music . Amsterdam & New York: Rodopi, 2002
 Scher,   S.P.   Word   and  Music  Studies.  Essays  on  Literature  and  Music  (1967-2004)  .  Eds.  W.  Bernhard
 and W. Wolf. Amsterdam & New York: Rodopi, 2004
 
+Se ofrecerá bibliografía específica para cada una de las unidades que integran el curso
+
 Stam,   R.   &   A.   Raengo   (eds.).   Literature   and   Film:  A  Guide  to  the  Theory  and  Practice  of  Film
 Adaptation . Oxford: Blackwell, 2005
 
@@ -58,14 +60,9 @@ Yale Journal of Criticism 3, 1990: 181-203
 Zivley,   S.L.   “Sylvia   Plath’s   Transformations   of   Modernist  Paintings.”  College  Literature,  29.3
 (Summer 2002): 35-56
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Bernhard   and   W.   Wolf.   Amsterdam   &   New  York:  Rodopi,  2004  →  Scher,  S.P.  Word  and  Music  Studies.
-Essays   on   Literature   and   Music  (1967-2004)  .  Eds.  W.  Bernhard  and  W.  Wolf.  Amsterdam  &  New  York:
-Rodopi, 2004
+Scher,   S.P.   Word   and  Music  Studies.  Essays  on  Literature  and  Music  (1967-2004)  .  Eds.  W.  Bernhard
+and W. Wolf. Amsterdam & New York: Rodopi, 2004
 
-✅ Recursos añadidos:
-------------------------------
-Se ofrecerá bibliografía específica para cada una de las unidades que integran el curso
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

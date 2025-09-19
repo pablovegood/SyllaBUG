@@ -2,12 +2,18 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Descartes,   R.,   Discurso   del   método,   Madrid,   Alfaguara,   1981   Freud,  S.,  Obras  completas,  XVII
+(1917-1919), Buenos Aires, Amorrortu, 1976
 
-📚 Recursos sin cambios:
+Nietzsche,   F.,   El   gay   saber  o  gaya  ciencia,  Madrid,  Espasa,  2001  Ortega  y  Gasset,  J.,  En  torno  a
+Galileo, Revista de Occidente en Alianza editorial, Madrid, 1994
+
+📚 Recursos sin cambios (13):
 ------------------------------
+AA. VV., Selección de textos fundamentales de la Historia de la Filosofía
+
 Comte-Sponville, A., La filosofía. Qué es y cómo se practica, Barcelona, Paidós, 2012
 
 Estrada,   Juan   A.,   La   pregunta  por  Dios.  Entre  la  metafísica,  el  nihilismo  y  la  religión,  Bilbao,
@@ -29,37 +35,27 @@ Marx, C., Engels, F., Manifiesto comunista, Madrid, Akal, 2001
 
 Morin, E., Los siete saberes necesarios para la educación del futuro, Madrid, Paidós, 2011
 
-🔁 Misma obra con edición/año distinto:
+Navarro Cordón, J.M., y Calvo Martínez T., Historia de la filosofía, Madrid, Anaya, 1998
+
+Sáez Rueda, L., Movimientos filosóficos actuales, Madrid, Trotta, 2003
+
+✅ Recursos añadidos (8):
 ------------------------------
-Navarro Cordón, J.M., y Calvo Martínez T., Historia de la filosofía, Madrid, Anaya, 1998 Sáez Rueda,
-L.,   Movimientos   filosóficos   actuales,   Madrid,   Trotta,   2003   →   Navarro   Cordón,   J.M.,  y  Calvo
-Martínez T., Historia de la filosofía, Madrid, Anaya, 1998
-
-Descartes,   R.,   Discurso   del   método,   Madrid,   Alfaguara,   1981   Freud,  S.,  Obras  completas,  XVII
-(1917-1919),   Buenos   Aires,   Amorrortu,  1976  →  Freud,  S.,  Obras  completas,  XVII  (1917-1919),  Buenos
-Aires, Amorrortu, 1976
-
-Nietzsche,   F.,   El   gay   saber  o  gaya  ciencia,  Madrid,  Espasa,  2001  Ortega  y  Gasset,  J.,  En  torno  a
-Galileo,   Revista   de   Occidente   en  Alianza  editorial,  Madrid,  1994  →  Nietzsche,  F.,  El  gay  saber  o
-gaya ciencia, Madrid, Espasa, 2001
-
-✅ Recursos añadidos:
-------------------------------
-AA. VV., Selección de textos fundamentales de la Historia de la Filosofía
-
 Cantón, M., La razón hechizada, Barcelona, Ariel, 2009
 
 De Pizán, C., La ciudad de las damas, Madrid, Siruela, 2020
 
 Descartes, R., Discurso del método, Madrid, Alfaguara, 1981
 
+Freud, S., Obras completas, XVII (1917-1919), Buenos Aires, Amorrortu, 1976
+
 Lyotard, J.-F., Qué es lo posmoderno, Zona erógena, nº 12, 1992
 
 Moreno   Fernández,   A.,  "Descripción  y  fases  del  mecanismo  del  chivo  expiatorio",  Éndoxa,  nº  32,  pp.
 191-206
 
+Nietzsche, F., El gay saber o gaya ciencia, Madrid, Espasa, 2001
+
 Ortega y Gasset, J., En torno a Galileo, Revista de Occidente en Alianza editorial, Madrid, 1994
 
-Sáez Rueda, L., Movimientos filosóficos actuales, Madrid, Trotta, 2003
-
-📊 Porcentaje estimado de cambio: 84% [████████░░]
+📊 Porcentaje estimado de cambio: 47% [████░░░░░░]

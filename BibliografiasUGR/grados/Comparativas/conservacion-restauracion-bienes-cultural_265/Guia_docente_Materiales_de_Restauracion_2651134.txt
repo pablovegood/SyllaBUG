@@ -2,17 +2,46 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Plenderleith,   H.   J.,   and  A.  E.  A.  Werner.  1977.  The  Conservation  of  Antiquities  and  Works  of  Art.
+Oxford   University   Press.   Calvo,   A.   (2003)   Conservación   y  restauración:  Materiales,  Técnicas  y
+Procedimientos   de   la   A   a   la   Z.   Ediciones   Serbal,   Barcelona.   Durán   Suárez  ,J.A.  Estudio  de
+consolidantes   y   protectivos   para   restauración   de   material   pétreo.   Ed.   Dpto.   Mineralogía   y
+Petrología.   Univ.   Granada.   1996.   García   Fortes,   S.   &   Flos   Travieso,  N  (2008)  Conservación  y
+Restauración    de    Bienes    Arqueológicos.    Sintesis,   Madrid.   Kumar,   R.   and   Kumar   A.   (1999)
+Biodeterioration   of  Stone  in  Tropical  Environments:  A  Review.  The  getty  Conservation  Institute,  Los
+Angeles.   Price,   C.A.   Stone   Conservation:  An  Overview  of  Current  Research.  Los  Angeles:  The  Getty
+Conservation   Institute,  1996.  Scott,  David  A.,  Jerry  Podany,  and  Brian  B.  Considine,  eds.  Ancient  &
+Historic   Metals:   Conservation   and   Scientific   Research.   Los   Angeles:   The   Getty   Conservation
+Institute,   1994   Newton,   R.,   and   S.   Davison.   2003.  Conservation  of  Glass.  2nd  ed  Butterworths,
+London.   UNESCO.   1968.   Synthetic   Material   Used   in  the  Conservation  of  Cultural  Material.  In  The
+Conservation of Cultural Property. Museum and Monuments 11:303-331. UNESCO, Paris
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
+------------------------------
+Ashley-Smith,   Jonathan,   ed.  1983.  Adhesives  and  Coatings.  Vol.  3.  Science  for  Conservators,  Crafts
+Council Conservation Teaching Series, Crafts Council, London
+
+Ashurst,   J.,  Dimes,  F.  G.  (1992)  Conservation  of  building  and  decorative  stone.  Volume  1  and  Volume
+2. Butterworth-Heinemann
+
+Gómez   M.L.,   “La   restauración.   Examen   científico   aplicado   a  la  conservación  de  obras  de  arte”,
+Cátedra, Instituto del Patrimonio Histórico Español, 2000
+
+Kühn, H. (1986) Conservation and restoration of works of art and antiquities. Volume 1. Butterworths
+series in conservation and museology Butterworths, Durban
+
+Lazzarini, L.; Laurenzi Tabasso, M. 1986. Il restuaro della pietra. Padova: CEDAM
+
+Matteini M. y Moles A., “La química en la restauración”, Ed. Nerea, 2001
+
+✅ Recursos añadidos (12):
 ------------------------------
 Calvo,   A.  (2003)  Conservación  y  restauración:  Materiales,  Técnicas  y  Procedimientos  de  la  A  a  la  Z.
 Ediciones Serbal, Barcelona
 
-Conservation   and   Scientific   Research.  Los  Angeles:  The  Getty  Conservation  Institute,  1994  Newton,
-R., and S. Davison. 2003. Conservation of Glass. 2nd ed Butterworths, London
+Conservation Institute, Los Angeles
 
 Durán   Suárez,J.A.   Estudio  de  consolidantes  y  protectivos  para  restauración  de  material  pétreo.  Ed.
 Dpto. Mineralogía y Petrología. Univ. Granada. 1996
@@ -21,50 +50,15 @@ García   Fortes,   S.   &   Flos  Travieso,  N  (2008)  Conservación  y  Resta
 Sintesis, Madrid
 
 Kumar,   R.   and   Kumar   A.   (1999)  Biodeterioration  of  Stone  in  Tropical  Environments:  A  Review.  The
-getty Conservation Institute, Los Angeles
+getty
+
+Newton, R., and S. Davison. 2003. Conservation of Glass. 2nd ed Butterworths, London
 
 Plenderleith,   H.   J.,   and  A.  E.  A.  Werner.  1977.  The  Conservation  of  Antiquities  and  Works  of  Art.
 Oxford University Press
 
 Price, C.A. Stone Conservation: An Overview of Current Research. Los Angeles: The Getty Conservation
-Institute, 1996
-
-UNESCO.   1968.  Synthetic  Material  Used  in  the  Conservation  of  Cultural  Material.  In  The  Conservation
-of Cultural
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gómez   M.L.,   “La   restauración.   Examen   científico   aplicado   a  la  conservación  de  obras  de  arte”,
-Cátedra, Instituto del Patrimonio Histórico Español, 2000. Matteini M. y Moles A., “La química en la
-restauración”,   Ed.   Nerea,   2001.  Ashley-Smith,  Jonathan,  ed.  1983.  Adhesives  and  Coatings.  Vol.  3.
-Science   for   Conservators,   Crafts   Council   Conservation   Teaching  Series,  Crafts  Council,  London.
-Ashurst,   J.,  Dimes,  F.  G.  (1992)  Conservation  of  building  and  decorative  stone.  Volume  1  and  Volume
-2.   Butterworth-Heinemann   Kühn,   H.   (1986)   Conservation   and   restoration   of   works   of   art  and
-antiquities.   Volume   1  →  Gómez  M.L.,  “La  restauración.  Examen  científico  aplicado  a  la  conservación
-de obras de arte”, Cátedra, Instituto del Patrimonio Histórico Español, 2000
-
-Butterworths   series   in   conservation   and   museology  Butterworths,  Durban.  Lazzarini,  L.;  Laurenzi
-Tabasso, M. 1986. Il restuaro della pietra. Padova: CEDAM. Plenderleith, H. J., and A. E. A. Werner.
-1977.   The   Conservation  of  Antiquities  and  Works  of  Art  →  Lazzarini,  L.;  Laurenzi  Tabasso,  M.  1986.
-Il restuaro della pietra. Padova: CEDAM
-
-✅ Recursos añadidos:
-------------------------------
-Ashley-Smith,   Jonathan,   ed.  1983.  Adhesives  and  Coatings.  Vol.  3.  Science  for  Conservators,  Crafts
-Council Conservation Teaching Series, Crafts Council, London
-
-Ashurst,   J.,  Dimes,  F.  G.  (1992)  Conservation  of  building  and  decorative  stone.  Volume  1  and  Volume
-2. Butterworth-Heinemann
-
-Kumar,   R.   and   Kumar   A.   (1999)  Biodeterioration  of  Stone  in  Tropical  Environments:  A  Review.  The
-getty
-
-Kühn, H. (1986) Conservation and restoration of works of art and antiquities. Volume 1. Butterworths
-series in conservation and museology Butterworths, Durban
-
-Matteini M. y Moles A., “La química en la restauración”, Ed. Nerea, 2001
-
-Newton, R., and S. Davison. 2003. Conservation of Glass. 2nd ed Butterworths, London
+Institute
 
 Property. Museum and Monuments 11:303-331. UNESCO, Paris
 
@@ -73,4 +67,7 @@ Research. Los Angeles: The Getty Conservation Institute, 1994
 Scott,   David  A.,  Jerry  Podany,  and  Brian  B.  Considine,  eds.  Ancient  &  Historic  Metals:  Conservation
 and Scientific
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+UNESCO.   1968.  Synthetic  Material  Used  in  the  Conservation  of  Cultural  Material.  In  The  Conservation
+of Cultural
+
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

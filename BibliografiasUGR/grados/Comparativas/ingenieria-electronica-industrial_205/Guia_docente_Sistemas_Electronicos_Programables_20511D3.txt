@@ -2,16 +2,19 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Springer 2021. personal del alumno
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
-A. Lloris, A. Prieto, L. Parrilla. "Sistemas Digitales", McGraw-Hill, 2003
+A.   Lloris,   A.   Prieto,  L.  Parrilla.  "Sistemas  Digitales",  McGraw-Hill,  2003  Steve  Kilts,  “Advanced
+FPGA Design: Architecture, Implementation, and Optimization”
 
 A.   Lloris,   E.   Castillo,   L.  Parrilla,  A.  García,  M.J.  Lloris,  “Aithmetic  and  Algebraic  Circuits”.
 Springer 2021
+
+Alex Doboli,Edward H. Currie, “Introduction to Mixed-Signal, Embedded Design”. Springer 2011
 
 Behrooz   Parhami,.   “Computer  Arithmetic:  Algorithms  and  Hardware  Designs”.  Oxford  University  Press,
 2009
@@ -31,12 +34,8 @@ Sons, 2007
 Uwe   Meyer-Baese,   “Digital   Signal   Processing   with   Field   Programmable   Gate  Arrays  (Signals  and
 Communication Technology)” Third Edition, Springer 2007
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Alex Doboli,Edward H. Currie, “Introduction to Mixed-Signal, Embedded Design”. Springer 2011
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

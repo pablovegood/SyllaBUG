@@ -2,11 +2,11 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 “Anomalías de la visión binocular. Investigación y tratamiento”. David Pickwell, Ed. Jims, Barcelona
 1996
@@ -34,6 +34,9 @@ Madrid 1997
 “Iniciación   a   la   Estrabología”.   Mercedes   Zamora   Pérez,  Ed.  Merck  Sharp  PQDohme  de  España  S.A.,
 Madrid 1998
 
+“Optometric   Management   of   Learning-Related   Vision   Problems”.  Scheiman  M,  Rouse  M.  2ª  Ed,  Mosby-
+Elsevier, 2006
+
 “Tratamiento   clínico   de   la   visión   binocular”.   Mitchell  Scheiman,  Bruce  Wick,  Ed.  Ciagami  S.L.,
 Madrid 1996
 
@@ -41,14 +44,8 @@ Madrid 1996
 
 “Visión binocular. Diagnóstico y tratamiento”. M. Rosa Borrás et al. Ed. UPC 1999
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-2ª   Ed,   Mosby-Elsevier,   2006   →   “Binocular   vision   and  ocular  motility.  Theory  and  Management  of
-strabismus”. Gunter K, Von Noorden, Mosby, Toronto 1990
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-“Optometric   Management   of   Learning-Related   Vision   Problems”.  Scheiman  M,  Rouse  M.  2ª  Ed,  Mosby-
-Elsevier, 2006
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

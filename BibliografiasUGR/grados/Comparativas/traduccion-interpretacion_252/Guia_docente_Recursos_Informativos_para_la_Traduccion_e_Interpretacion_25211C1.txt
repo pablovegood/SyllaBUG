@@ -2,11 +2,19 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Oliver   González,   A.   (2016).   Herramientas   tecnológicas   para   traductores.  Editorial  UOC  Torres-
+Salinas,   D.,   &   Arroyo-Machado,   W.   (2023).   Manual   de   ChatGPT:  aplicaciones  en  investigación  y
+educación universitaria (v1.1.) InfluScience Ediciones
 
-📚 Recursos sin cambios:
+https://doi.org/10.5281/zenodo.10025784   Torres-Salinas,   D.,  &  Arroyo-Machado,  W.  (2024).  Manual  de
+ChatGPT:       aplicaciones       en       traducción       literaria       y      datos      lingüísticos.
+https://doi.org/10.5281/zenodo.11350800   Benitez  Ortuzar,  I.,  Monje  Balmaseda,  O.,  &  Lledo  Yague,  F.
+(2021).   La   robótica   y  la  inteligencia  artificial  en  la  nueva  era  de  la  revolución  industrial  4.0:
+Los desafíos jurídicos, éticos y tecnológicos de los robots inteligentes. Dykinson
+
+📚 Recursos sin cambios (11):
 ------------------------------
 Betancourt,   A.,   Campillo,   N.,  &  Mieres,  C.  (2021).  Información  sobre  la  salud:  Una  revisión  de  la
 literatura   existente   sobre  YouTube  como  fuente  de  información  sanitaria.  Revista  de  comunicación  y
@@ -42,26 +50,18 @@ Educomunicación. McGraw-Hill
 Veroz González, M. A., & Castillo Bernal, M. P. (2022). Manual de traducción humanístico-literaria y
 especializada. Sindéresis
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Oliver   González,   A.   (2016).   Herramientas   tecnológicas   para   traductores.  Editorial  UOC  Torres-
-Salinas,   D.,   &   Arroyo-Machado,   W.   (2023).   Manual   de   ChatGPT:  aplicaciones  en  investigación  y
-educación   universitaria   (v1.1.)   InfluScience  Ediciones  →  Oliver  González,  A.  (2016).  Herramientas
-tecnológicas para traductores. Editorial UOC
+Benitez   Ortuzar,   I.,   Monje  Balmaseda,  O.,  &  Lledo  Yague,  F.  (2021).  La  robótica  y  la  inteligencia
+artificial   en   la   nueva   era   de   la   revolución   industrial  4.0:  Los  desafíos  jurídicos,  éticos  y
+tecnológicos de los robots inteligentes. Dykinson
 
-Torres-Salinas, D., & Arroyo-Machado, W. (2024). Manual de ChatGPT: aplicaciones en Benitez Ortuzar,
-I.,   Monje   Balmaseda,   O.,  &  Lledo  Yague,  F.  (2021).  La  robótica  y  la  inteligencia  artificial  en  la
-nueva   era   de   la   revolución   industrial  4.0:  Los  desafíos  jurídicos,  éticos  y  tecnológicos  de  los
-robots   inteligentes.   Dykinson   →   Benitez   Ortuzar,   I.,   Monje   Balmaseda,   O.,  &  Lledo  Yague,  F.
-(2021).   La   robótica   y  la  inteligencia  artificial  en  la  nueva  era  de  la  revolución  industrial  4.0:
-Los desafíos jurídicos, éticos y tecnológicos de los robots inteligentes. Dykinson
+Oliver González, A. (2016). Herramientas tecnológicas para traductores. Editorial UOC
 
-✅ Recursos añadidos:
-------------------------------
 Torres-Salinas,   D.,  &  Arroyo-Machado,  W.  (2023).  Manual  de  ChatGPT:  aplicaciones  en  investigación  y
 educación universitaria (v1.1.) InfluScience Ediciones. https://doi.org/10.5281/zenodo.10025784
 
 Torres-Salinas,   D.,   &   Arroyo-Machado,   W.   (2024).   Manual  de  ChatGPT:  aplicaciones  en  traducción
 literaria y datos lingüísticos. https://doi.org/10.5281/zenodo.11350800
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

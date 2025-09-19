@@ -2,11 +2,20 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+ABBAS,   A.   K.,   LICHTMAN,   A.   H.,   PILLAI,   S.   (2008)   Inmunología   Celular  y  Molecular.  (6a  ed.)
+Elservier. Barcelona BROOKER, R. J., (2009) "Genetics Analysis and Principles", Boston. Mcgraw-Hill,
+Higher education cop
 
-📚 Recursos sin cambios:
+KÜHNEL,   W.   (1997)   Atlas   de   Citología  e  Histología.  Editorial  Médica  Panamericana  PANIAGUA  GÓMEZ
+ALVAREZ,   R.   (2002)   Citología   e   Histología   vegetal   y  animal:  Biología  de  las  células  y  tejidos
+animales y vegetales. McGraw-Hill
+
+ROITT,I.   M.,   DELVES,  P.  J.  (2008)  Inmunología:  Fundamentos.  (11a  ed  Editorial  Médica  Panamericana.
+Buenos Aires STRACHAN,T.; READ,A.P. (2004). Genética Humana. (3a ed.) Mc Graw Hill
+
+📚 Recursos sin cambios (7):
 ------------------------------
 ALBERTS,   B.,   BRAY,   D.,  JOHNSON,  A.  (2006)  Introducción  a  la  Biología  Celular.  (2a  ed.).  Editorial
 Médica Panamericana. Madrid
@@ -14,39 +23,32 @@ Médica Panamericana. Madrid
 ALBERTS,   B.,   JOHNSON,   A.,   LEWIS,   J.,   RAFF,   M.  BIOLOGIA  MOLECULAR  DE  LA  CELULA  (2010)  Biología
 Molecular de la Célula. (5a ed) Ed. Omega Barcelona
 
+GRIFFITHS, A y COAUT, J. F. (2008). Genética. (9a ed.). McGraw-Hill
+
 HARVEY L (2010) Biología Celular y Molecular. (5a ed.). Editorial Médica Panamericana. Buenos Aires
 
 KARP, G. (2009) Biología Celular y Molecular: Conceptos y experimentos. (5a ed). McGraw-Hill, México
 
-ROITT,I.   M.,   DELVES,  P.  J.  (2008)  Inmunología:  Fundamentos.  (11a  ed  Editorial  Médica  Panamericana.
-Buenos Aires
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-KÜHNEL,   W.   (1997)   Atlas   de   Citología  e  Histología.  Editorial  Médica  Panamericana  PANIAGUA  GÓMEZ
-ALVAREZ,   R.   (2002)   Citología   e   Histología   vegetal   y  animal:  Biología  de  las  células  y  tejidos
-animales   y   vegetales.   McGraw-Hill   →  KÜHNEL,  W.  (1997)  Atlas  de  Citología  e  Histología.  Editorial
-Médica Panamericana
-
-ABBAS,   A.   K.,   LICHTMAN,   A.   H.,   PILLAI,   S.   (2008)   Inmunología   Celular  y  Molecular.  (6a  ed.)
-Elservier. Barcelona BROOKER, R. J., (2009) "Genetics Analysis and Principles", Boston. Mcgraw-Hill,
-Higher   education   cop   →   ABBAS,   A.   K.,   LICHTMAN,  A.  H.,  PILLAI,  S.  (2008)  Inmunología  Celular  y
-Molecular. (6a ed.) Elservier. Barcelona
-
-✅ Recursos añadidos:
-------------------------------
-BROOKER, R. J., (2009) "Genetics Analysis and Principles", Boston. Mcgraw-Hill, Higher education cop
-
-GRIFFITHS, A y COAUT, J. F. (2008). Genética. (9a ed.). McGraw-Hill
-
 KLUG,   W.   S.,   CUMMINGS,   M.   R.,   SPENCER,  C.  A.  (2008).  Conceptos  de  Genética.  (8a  Ed.)  Benjamin-
 Cummings Pub Co
+
+VISERAS ALARCÓN, E. (2008) Cuestiones y problemas resueltos de Genética. Universidad de Granada
+
+✅ Recursos añadidos (6):
+------------------------------
+ABBAS,   A.   K.,   LICHTMAN,   A.   H.,   PILLAI,   S.   (2008)   Inmunología   Celular  y  Molecular.  (6a  ed.)
+Elservier. Barcelona
+
+BROOKER, R. J., (2009) "Genetics Analysis and Principles", Boston. Mcgraw-Hill, Higher education cop
+
+KÜHNEL, W. (1997) Atlas de Citología e Histología. Editorial Médica Panamericana
 
 PANIAGUA GÓMEZ ALVAREZ, R. (2002) Citología e Histología vegetal y animal: Biología de las células y
 tejidos animales y vegetales. McGraw-Hill
 
+ROITT,I.   M.,   DELVES,  P.  J.  (2008)  Inmunología:  Fundamentos.  (11a  ed  Editorial  Médica  Panamericana.
+Buenos Aires
+
 STRACHAN,T.; READ,A.P. (2004). Genética Humana. (3a ed.) Mc Graw Hill
 
-VISERAS ALARCÓN, E. (2008) Cuestiones y problemas resueltos de Genética. Universidad de Granada
-
-📊 Porcentaje estimado de cambio: 88% [████████░░]
+📊 Porcentaje estimado de cambio: 69% [██████░░░░]

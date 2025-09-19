@@ -2,13 +2,11 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Herder. febrero 2012]
+No hay elementos.
 
-Panamericana. diciembre 2015]
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 Alcaraz   Varó,   Enrique,   José   Mateo   Martínez   y   Francisco   Yus   Ramos  (eds.)  (2007).  Las  lenguas
 profesionales y académicas. Barcelona: Ariel
@@ -18,6 +16,9 @@ terminología en la sociedad de la información. Castellón: Universitat Jaume I
 
 Cortés    Gabaudan,    Francisco    (coord.).   Dicciomed:   Diccionario   médico-biológico,   histórico   y
 etimológico. Universidad de Salamanca. < http://dicciomed.eusal.es/ >. [Consulta: 1 diciembre 2015]
+
+Cuando   lo   exijan   las   necesidades   docentes   o   lo   aconsejen   las   circunstancias   del  curso,  se
+complementará la bibliografía que antecede con las referencias pertinentes
 
 Ernst, Richard (2007). Diccionario de la técnica industrial (alemán-español). Barcelona: Herder
 
@@ -34,13 +35,15 @@ Göpferich, Susanne (1995). Textsorten in Naturwissenschaft und Technik. Tubinga
 Hoffmann,   Lothar,   Hartwig   Kalverkämper   y   Herbert  Ernst  Wiegand  (eds.)  (1998).  Fachsprachen:  Ein
 internationales Handbuch zur Fachsprachenforschung und Terminologiewissenschaft. Berlín: de Gruyter
 
+IATE [Inter-Active Terminology for Europe]. < http://iate.europa.eu > [Consulta: 15 febrero 2012]
+
 Locke, David (1997). La ciencia como escritura. Madrid: Cátedra
 
 López   Piñero,   José   María   y   María   Luz   Terrada  Ferrandis  (1990).  Introducción  a  la  terminología
 médica. Barcelona: Salvat
 
-MedlinePlus.   <   https://www.nlm.nih.gov/medlineplus/spanish/aboutmedlineplus.html   >   [Consulta:   1
-diciembre 2015]
+MedlinePlus.     <https://www.nlm.nih.gov/medlineplus/spanish/aboutmedlineplus.html>    [Consulta:    1
+diciembre 2015]. Rechtsmedizin. SpringerLink
 
 Navarro,   Fernando   A.   (1997).   Traducción  y  lenguaje  en  medicina.  Barcelona:  Fundación  Dr.  Antonio
 Esteve
@@ -50,10 +53,18 @@ Newmark, Peter (1992). Manual de traducción. Madrid: Cátedra
 Puerta   López-Cózar,   José   Luis  y  Assumpta  Mauri  Más  (1994).  Manual  para  la  redacción,  traducción  y
 publicación de textos médicos. Barcelona: Mason
 
+RECURSOS    LEXICOGRÁFICOS   Y   TERMINOGRÁFICOS:   Beckers,   Heinz   (2009).   Beckers   Abkürzungslexikon
+medizinischer Begriffe
+
 Ramón   y  Cajal,  Santiago  (2007):  Reglas  y  consejos  sobre  investigación  científica.  Los  tónicos  de  la
 voluntad. Madrid: Espasa Calpe
 
 Real Academia Nacional de Medicina (2011). Diccionario de términos médicos. Madrid: Panamericana
+
+Rechtsmedizin.   SpringerLink.  <  http://link.springer.com/journal/volumesAndIssues/194  >  [Consulta:  1
+diciembre 2015]
+
+Roche Lexikon Medizin. 5. Auflage. < https://www.tk.de/rochelexikon/ > [Consulta: 1 diciembre 2015]
 
 Snell-Hornby, Mary, et al. (eds.) (1999): Handbuch Translation. Tubinga, Stauffenburg
 
@@ -66,24 +77,12 @@ Berlín: Ullstein
 Villanueva Cañadas, Enrique (ed.) (2005). Gisbert Calabuig. Medicina legal y toxicología. Barcelona:
 Masson
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Beckers,   Heinz   (2009).   Beckers   Abkürzungslexikon  medizinischer  Begriffe  →  Beckers,  Heinz  (2009).
-Beckers   Abkürzungslexikon   medizinischer   Begriffe.   <   http://www.medizinische-abkuerzungen.de/   >
-[Consulta: 1 diciembre 2015]
+Beckers,   Heinz  (2009).  Beckers  Abkürzungslexikon  medizinischer  Begriffe.  <  http://www.medizinische-
+abkuerzungen.de/ > [Consulta: 1 diciembre 2015]
 
-✅ Recursos añadidos:
-------------------------------
-Cuando   lo   exijan   las   necesidades   docentes   o   lo   aconsejen   las   circunstancias   del  curso,  se
-complementará la bibliografía que antecede con las referencias pertinentes
-
-IATE [Inter-Active Terminology for Europe]. < http://iate.europa.eu > [Consulta: 15 febrero 2012]
-
-RECURSOS LEXICOGRÁFICOS Y TERMINOGRÁFICOS
-
-Rechtsmedizin.   SpringerLink.  <  http://link.springer.com/journal/volumesAndIssues/194  >  [Consulta:  1
+MedlinePlus.   <   https://www.nlm.nih.gov/medlineplus/spanish/aboutmedlineplus.html   >   [Consulta:   1
 diciembre 2015]
 
-Roche Lexikon Medizin. 5. Auflage. < https://www.tk.de/rochelexikon/ > [Consulta: 1 diciembre 2015]
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

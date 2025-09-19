@@ -2,13 +2,24 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-Indiana University Press, 2007. llano”. Nassarre: Revista aragonesa de musicología, 20/1 (2004), pp.
-103-156
+Bloomington: Indiana University Press, 1982
 
-📚 Recursos sin cambios:
+Bloomington: Indiana University Press, 1987
+
+HOULE, George: Meter in Music, 1600-1800: Performance, Perception, and Notation
+
+Oxford: Oxford University Press, 1990
+
+📚 Recursos sin cambios (64):
 ------------------------------
+ARNOLD,   Franck   Thomas:   The   Art  of  Accompaniment  from  a  Thorough-Bass.  Londres:  Oxford  University
+Press, 1931
+
+ASENSIO   PALACIOS,   Juan   Carlos:   El  canto  gregoriano:  historia,  liturgia,  formas.  Madrid:  Alianza,
+2008
+
 BASS, John: “Would Caccini approve?”. Early Music, 36/1 (2008), pp. 81–94
 
 BOORMAN,   Stanley   (ed):   Studies   in   the   Performance  of  Late  Medieval  Music.  Cambridge:  Cambridge
@@ -37,6 +48,9 @@ Little, Brown, 1985
 
 COLLINS,   Michael  B.:  “The  Performance  of  Sesquialtera  and  Hemiolia  in  the  16th  Century”.  Journal  of
 the American Musicological Society, 17, 1964, pp. 5-18
+
+COUSSEMAKER,   Charles  Edmond  Henri  de  (ed.):  Oeuvres  complètes  du  trouvère  Adam  de  la  Halle:  poésies
+et musique. París: A. Durand & Pédone-Lauriel, 1872
 
 CYR,   Mary:   Style   and   Performance   for  Bowed  String  Instruments  in  French  Baroque  Music.  Farnham-
 Burlington: Ashgate, 2012
@@ -90,9 +104,6 @@ Barcelona: Acantilado, 2006
 HAYNES,   Bruce:   The   End  of  Early  Music:  A  Period  Performer’s  History  of  Music  for  the  Twenty-First
 Century. Nueva York: Oxford University Press, 2007
 
-HOULE,   George:   Meter   in   Music,   1600-1800:   Performance,   Perception,  and  Notation.  Bloomington:
-Indiana University Press, 1987
-
 KELLY, Thomas Forrest: Early Music: A Very Short Introduction. Oxford: Oxford University Press, 2011
 
 KELLY,   Thomas   Forrest:   The  Practice  of  Medieval  Music:  Studies  in  Chant  and  Performance.  Farnham:
@@ -103,6 +114,12 @@ University Press, 1985
 
 KIPPENBERG,   Burkhard:   Der   Rhythmus   im  Minnesang:  eine  Kritik  der  literatur  und  musithistorischen
 Forschung mit einer Übersicht über die musikalischen Quellen. Munich: C. H. Beck, 1962
+
+KITE-POWELL,   Jeffery:   A   Performer’s   Guide   to  Renaissance  Music.  Bloomington:  Indiana  University
+Press, 2007
+
+LARA LARA, F. Javier: “Los teóricos españoles y la interpretación medida del canto llano”. Nassarre:
+Revista aragonesa de musicología, 20/1 (2004), pp. 103-156
 
 LAWSON,   Colin:   The   Early   Clarinet:  A  Practical  Guide.  Cambridge-Nueva  York:  Cambridge  University
 Press, 2000
@@ -179,38 +196,18 @@ York: Schirmer Books, 1990
 WOOLLEY,   Andrew;   KITCHEN,   John:   Interpreting   Historical   Keyboard   Music:  Sources,  Contexts  and
 Performance. Farnham: Ashgate, 2013
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Cambridge   University   Press,   2000   →   ROSEN,   Charles:  Critical  Entertainments.  Music  Old  and  New.
-Cambridge-Massachusetts: Harvard University Press, 2001
+HOULE,   George:   Meter   in   Music,   1600-1800:   Performance,   Perception,  and  Notation.  Bloomington:
+Indiana University Press, 1987
 
-Oxford   University   Press,   1931   →   ROSEN,   Charles:   Critical   Entertainments.   Music  Old  and  New.
-Cambridge-Massachusetts: Harvard University Press, 2001
+HOULE,   George:   Meter   in   Music,   1600-1800:   Performance,   Perception,  and  Notation.  Bloomington:
+Indiana University Press, 1987
 
-Cambridge   University   Press,   2015   →   ROSEN,   Charles:  Critical  Entertainments.  Music  Old  and  New.
-Cambridge-Massachusetts: Harvard University Press, 2001
+HOULE,   George:   Meter   in   Music,   1600-1800:   Performance,   Perception,  and  Notation.  Bloomington:
+Indiana University Press, 1987
 
-Cambridge   University   Press,   1983   →   ROSEN,   Charles:  Critical  Entertainments.  Music  Old  and  New.
-Cambridge-Massachusetts: Harvard University Press, 2001
+TARUSKIN,   Richard:   Text   and   Act.   Essays   on   Music   and   Performance.  Nueva  York-Oxford:  Oxford
+University Press, 1995
 
-Oxford   University   Press,   1975   →   ROSEN,   Charles:   Critical   Entertainments.   Music  Old  and  New.
-Cambridge-Massachusetts: Harvard University Press, 2001
-
-✅ Recursos añadidos:
-------------------------------
-ARNOLD,   Franck   Thomas:   The   Art  of  Accompaniment  from  a  Thorough-Bass.  Londres:  Oxford  University
-Press, 1931
-
-ASENSIO   PALACIOS,   Juan   Carlos:   El  canto  gregoriano:  historia,  liturgia,  formas.  Madrid:  Alianza,
-2008
-
-COUSSEMAKER,   Charles  Edmond  Henri  de  (ed.):  Oeuvres  complètes  du  trouvère  Adam  de  la  Halle:  poésies
-et musique. París: A. Durand & Pédone-Lauriel, 1872
-
-KITE-POWELL,   Jeffery:   A   Performer’s   Guide   to  Renaissance  Music.  Bloomington:  Indiana  University
-Press, 2007
-
-LARA LARA, F. Javier: “Los teóricos españoles y la interpretación medida del canto llano”. Nassarre:
-Revista aragonesa de musicología, 20/1 (2004), pp. 103-156
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

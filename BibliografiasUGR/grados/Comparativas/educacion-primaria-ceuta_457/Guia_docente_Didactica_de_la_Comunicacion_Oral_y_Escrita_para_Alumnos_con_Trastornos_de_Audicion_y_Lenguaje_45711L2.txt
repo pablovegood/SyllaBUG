@@ -2,12 +2,17 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
+Acosta   Rodríguez,   Víctor  Manuel  (2003).  El  tratamiento  de  las  dificultades  del  lenguaje  desde  la
+acción   educativa.   En   V.   M.   Acosta   Rodríguez   y  A.  M.  Moreno  Santana  (Eds.),  Dificultades  del
+lenguaje,   colaboración   e  inclusión  educativa.  Manual  para  logopedas,  psicopedagogos  y  profesores
+(pp.117 -138). Barcelona: Grupo Ars XXI de Comunicación, S.A
+
 Acosta-Rodríguez,   Víctor   Manuel   y  Moreno-Santana,  Ana  Mª  (2003).  Dificultades  del  lenguaje:  una
 perspectiva educativa. Bordón, 55(1), 51-60
 
@@ -28,6 +33,13 @@ de Audición y Lenguaje, 1, 1-41
 Condemarín,   Mabel   (2005).   Un   diálogo   verdadero.   Revista   aula   de  innovación  educativa,  38,
 134-188.   Condemarín,   Mabel   y   Medina,  Alejandra  (2002).  Evaluación  auténtica  del  lenguaje  y  la
 comunicación. Madrid: CEPE
+
+Dirección   General  de  Participación  e  Innovación  Educativa  de  la  Consejería  de  Educación  de  la  Junta
+de   Andalucía   (ed.)   (2008):   Manual   de   atención  al  alumnado  con  necesidades  específicas  de  apoyo
+educativo derivadas de discapacidad auditiva
+
+Ferreiro,   Emilia   (1986).   Proceso   de   alfabetización.   Alfabetización  en  proceso.  Buenos  Aires:
+Centro Editor de América Latina
 
 Galera, Francisco (2009). La enseñanza de la lectura y la escritura: Teoría y práctica. Almería:
 Grupo Editorial Universitario
@@ -72,23 +84,8 @@ fonológicas. Madrid: Pirámide
 Ygual,   Amparo   y  Cervera,  José  Francisco  (1999).  La  intervención  logopédica  en  los  trastornos  de
 la adquisición del lenguaje. Neurol, 28 (Supl 2), 109-118
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Dirección   General  de  Participación  e  Innovación  Educativa  de  la  Consejería  de  Educación  de  la  Junta
-de   Andalucía   (ed.)  (2008):  Manual  de  atención  al  alumnado  con  necesidades  Ferreiro,  Emilia  (1986).
-Proceso   de   alfabetización.   Alfabetización   en   proceso.  Buenos  Aires:  Centro  Editor  de  América
-Latina   →   Ferreiro,   Emilia   (1986).  Proceso  de  alfabetización.  Alfabetización  en  proceso.  Buenos
-Aires: Centro Editor de América Latina
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Acosta   Rodríguez,   Víctor  Manuel  (2003).  El  tratamiento  de  las  dificultades  del  lenguaje  desde  la
-acción   educativa.   En   V.   M.   Acosta   Rodríguez   y  A.  M.  Moreno  Santana  (Eds.),  Dificultades  del
-lenguaje,   colaboración   e  inclusión  educativa.  Manual  para  logopedas,  psicopedagogos  y  profesores
-(pp.117 -138). Barcelona: Grupo Ars XXI de Comunicación, S.A
-
-Dirección   General  de  Participación  e  Innovación  Educativa  de  la  Consejería  de  Educación  de  la  Junta
-de   Andalucía   (ed.)   (2008):   Manual   de   atención  al  alumnado  con  necesidades  específicas  de  apoyo
-educativo derivadas de discapacidad auditiva
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

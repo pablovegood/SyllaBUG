@@ -2,14 +2,23 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Murphy     JE,     Clinical     Pharmacokinetics,     6     Ed.    American    Society    of    Health-System
-files/p5365-frontmatter.ashx)    Puigventós    F,   Calderón   B,   Gorgas   MQ.   Posicionamiento   de   los
-Medicamentos    en    Guías    ww.elcomprimido.com/FARHSD/MP_Monografia2009_SEFH_PosicionamientoTerapeu
-tico.pdf) Wiffen P, Mitchell M, Snelling M., Stoner N. Oxford Handbook of Clinical Pharmacy, 3 Ed
+Gamundi   MC.   Farmacia   Hospitalaria,  Tomos  I  y  II.  Sociedad  Española  de  Farmacia  Hospitalaria,  2002
+Hernández   G,   Moreno   A,   Zaragoza   F,  Porras  A.  Tratado  de  Medicina  Farmacéutica.  Editorial  Médica
+Panamericana, 2010
 
-📚 Recursos sin cambios:
+Martínez C. Ensayos Clínicos en España. Astellas Pharma S.A. Master Line & Prodigio S.L, (Disponible
+en:     https://www.sefh.es/bibliotecavirtual/libroensayosclinicos/Libro_ECEspana.pdf)    Murphy    JE,
+Clinical   Pharmacokinetics,   6   Ed.  American  Society  of  Health-System  Pharmacists,  2017.  (Disponible
+en: https://www.ashp.org/-/media/storefiles/p5365-frontmatter.ashx) Puigventós F, Calderón B, Gorgas
+MQ. Posicionamiento de los Medicamentos en Guías Terapéuticas y Protocolos Clínicos. Ediciones Mayo,
+S.A.,                  2009.                  (Disponible                  en:                 https://w
+ww.elcomprimido.com/FARHSD/MP_Monografia2009_SEFH_PosicionamientoTerapeu     tico.pdf)     Wiffen    P,
+Mitchell   M,   Snelling   M.,   Stoner  N.  Oxford  Handbook  of  Clinical  Pharmacy,  3  Ed.  Oxford  University
+Press, 2017
+
+📚 Recursos sin cambios (17):
 ------------------------------
 Bauer LA. Applied Clinical Pharmacokinetics, 3 Ed. McGraw-Hill Education, 2014
 
@@ -21,17 +30,15 @@ Consejo General de Colegios Oficiales de Farmacéuticos. Catálogo de Medicament
 Dipiro   JT,   Yee  GC,  Posey  LM,  Haines  ST,  Nolin  TD,  Ellingrod  V.  Pharmacotherapy:  a  Pathophysiologic
 Approach. 11 Ed., McGraw Hill, 2020
 
+Doménech   Berrozpe   J,   Martínez   Lanao   J,   Peraire   Guitart   C.   Tratado   General  de  Biofarmacia  y
+Farmacocinética, Vols. I y II. Editorial Síntesis, S.A., 2013
+
 Flórez J, Armijo JA, Mediavilla A. Farmacología Humana, 6 Ed. Elsevier, 2014
 
 Gallardo V, Ruiz MA. Manual de Introducción a la Farmacia Clínica. Universidad de Granada, 2003
 
-Gamundi MC. Farmacia Hospitalaria, Tomos I y II. Sociedad Española de Farmacia Hospitalaria, 2002
-
 Gibaldi   M,  Lee  M,  Desai  A.  Gibaldi´s  Drug  Delivery  Systems  in  Pharmaceutical  Care.  American  Society
 of Health-System Pharmacists, 2007
-
-Hernández   G,   Moreno   A,   Zaragoza   F,  Porras  A.  Tratado  de  Medicina  Farmacéutica.  Editorial  Médica
-Panamericana, 2010
 
 Herrera J. Manual de Farmacia Clínica y Atención Farmacéutica. Elsevier, 2003
 
@@ -48,26 +55,23 @@ Ed. Editorial Médica Panamericana, 2018
 Malone   P,   Kier   K,   Stanovich   J.   Drug   Information:   a   Guide  for  Pharmacists,  4  Ed.  McGraw  Hill
 Professional, 2011
 
-Martínez   C.   Ensayos   Clínicos   en   España.   Astellas  Pharma  S.A.  Master  Line  &  Prodigio  S.L,  2010.
-(Disponible en: https://www.sefh.es/bibliotecavirtual/libroensayosclinicos/Libro_ECEspana.pdf)
-
 Westberg SM, Shannon LR, Sorensen TD. Medication Therapy Management: a Comprehensive Approach, 2 Ed.
 McGraw-Hill Education, 2018
-
-Wiffen   P,   Mitchell   M,   Snelling   M.,  Stoner  N.  Oxford  Handbook  of  Clinical  Pharmacy,  3  Ed.  Oxford
-University Press, 2017
 
 Wynn   GH,   Oesterheld   JR,   Cozza   KL,   Clinical   Manual   of  Drug  Interaction  Principles  for  Medical
 Practice. American Psychiatric Publishing, 2009
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Yadav AV, Yadan BV, Shakh TI. Hand Book of Clinical Pharmacy, 5 Ed. Pragati Books Pvt. Ltd. 2008
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
-Doménech   Berrozpe   J,   Martínez   Lanao   J,   Peraire   Guitart   C.   Tratado   General  de  Biofarmacia  y
-Farmacocinética, Vols. I y II. Editorial Síntesis, S.A., 2013
+Gamundi MC. Farmacia Hospitalaria, Tomos I y II. Sociedad Española de Farmacia Hospitalaria, 2002
+
+Hernández   G,   Moreno   A,   Zaragoza   F,  Porras  A.  Tratado  de  Medicina  Farmacéutica.  Editorial  Médica
+Panamericana, 2010
+
+Martínez   C.   Ensayos   Clínicos   en   España.   Astellas  Pharma  S.A.  Master  Line  &  Prodigio  S.L,  2010.
+(Disponible en: https://www.sefh.es/bibliotecavirtual/libroensayosclinicos/Libro_ECEspana.pdf)
 
 Murphy   JE,   Clinical   Pharmacokinetics,   6  Ed.  American  Society  of  Health-System  Pharmacists,  2017.
 (Disponible en: https://www.ashp.org/-/media/store-files/p5365-frontmatter.ashx)
@@ -76,6 +80,7 @@ Puigventós   F,   Calderón   B,   Gorgas  MQ.  Posicionamiento  de  los  Medic
 Protocolos        Clínicos.       Ediciones       Mayo,       S.A.,       2009.       (Disponible       en:
 https://www.elcomprimido.com/FARHSD/MP_Monografia2009_SEFH_PosicionamientoTerapeutico.pdf)
 
-Yadav AV, Yadan BV, Shakh TI. Hand Book of Clinical Pharmacy, 5 Ed. Pragati Books Pvt. Ltd. 2008
+Wiffen   P,   Mitchell   M,   Snelling   M.,  Stoner  N.  Oxford  Handbook  of  Clinical  Pharmacy,  3  Ed.  Oxford
+University Press, 2017
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]

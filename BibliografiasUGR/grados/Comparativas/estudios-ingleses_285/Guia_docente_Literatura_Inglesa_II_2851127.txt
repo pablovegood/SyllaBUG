@@ -2,13 +2,21 @@
 Grado: estudios-ingleses (285)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
 Greenblatt, S. & M.H. Abrams, The Norton Anthology of English Literature. Tenth edition
 
+Kermode, F. English Renaissance Literature, London: Gray-Mills, 1974. Kermode, F
+
+Shakespeare’s Language. London: Penguin, 2000
+
+Stephen, M.. English Literature: A Student Guide. Londres y Nueva York: Longman, 1994 (1986)
+
 Vol. 1. New York & London: W.W. Norton & Co., 2018
 
-📚 Recursos sin cambios:
+Whitla, W. The English Handbook. A Guide to Literary Studies. London: Wiley-Blackwell, 2009
+
+📚 Recursos sin cambios (35):
 ------------------------------
 Bates,   Catherine.  The  Cambridge  Companion  to  the  Sonnet  .  Cambridge;  New  York:  Cambridge  University
 Press, 2011
@@ -71,6 +79,9 @@ Oxford University Press, 2009
 O’Neill,   Michael,   ed.   The  Cambridge  History  of  English  Poetry.  Cambridge,  UK;  New  York:  Cambridge
 University Press, 2010
 
+Parfitt.   G.   English   Poetry   of  the  Seventeenth  Century  .  2nd  edition.  London  &  New  York:  Longman,
+1992
+
 Preminger, A. & Brogan, T.V.F. eds. The New Princeton Encyclopedia of Poetry and Poetics. Princeton,
 N.J.: Princeton University Press, 1993
 
@@ -101,39 +112,19 @@ Spiller,   Michael  R.  G.  The  Development  of  the  Sonnet:  An  Introduction
 Vendler,   H.  The  Art  of  Shakespeare’s  Sonnets  .  Cambridge,  Mass.  &  London:  Harvard  University  Press,
 1997
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Stephen,   M..   English   Literature:   A   Student   Guide.  Londres  y  Nueva  York:  Longman,  1994  (1986)  →
-Stephen, M.. English Literature: A Student Guide . Londres y Nueva York: Longman, 2013 (1986)
+Kermode,   F.   English   Renaissance   Literature,   London:  Gray-Mills,  1974.  Kermode,  F.  Shakespeare’s
+Language. London: Penguin, 2000
 
-Kermode,   F.   English   Renaissance   Literature,   London:   Gray-Mills,  1974.  Kermode,  F  →  Kermode,  F.
-English   Renaissance   Literature,   London:   Gray-Mills,   1974.   Kermode,   F.  Shakespeare’s  Language.
-London: Penguin, 2000
+Kermode,   F.   English   Renaissance   Literature,   London:  Gray-Mills,  1974.  Kermode,  F.  Shakespeare’s
+Language. London: Penguin, 2000
 
-Cambridge   University   Press,  2011  →  Vendler,  H.  The  Art  of  Shakespeare’s  Sonnets  .  Cambridge,  Mass.
-& London: Harvard University Press, 1997
-
-Cambridge   University   Press,  2010  →  Vendler,  H.  The  Art  of  Shakespeare’s  Sonnets  .  Cambridge,  Mass.
-& London: Harvard University Press, 1997
-
-Whitla,   W.   The   English   Handbook.   A   Guide   to  Literary  Studies.  London:  Wiley-Blackwell,  2009  →
-Whitla, W. The English Handbook. A Guide to Literary Studies . London: Wiley-Blackwell, 2010
-
-Cambridge   University   Press,  1993  →  Vendler,  H.  The  Art  of  Shakespeare’s  Sonnets  .  Cambridge,  Mass.
-& London: Harvard University Press, 1997
-
-Cambridge   University   Press,  2014  →  Vendler,  H.  The  Art  of  Shakespeare’s  Sonnets  .  Cambridge,  Mass.
-& London: Harvard University Press, 1997
-
-Shakespeare’s   Language.   London:   Penguin,   2000   →   Kermode,   F.   English   Renaissance  Literature,
-London: Gray-Mills, 1974. Kermode, F. Shakespeare’s Language. London: Penguin, 2000
-
-✅ Recursos añadidos:
-------------------------------
 LIBRO   DE  LA  ASIGNATURA:  Greenblatt,  S  et  al.,  The  Norton  Anthology  of  English  Literature  .  Eleventh
 edition. Vols. B & C. New York & London: W.W. Norton & Co., 2024
 
-Parfitt.   G.   English   Poetry   of  the  Seventeenth  Century  .  2nd  edition.  London  &  New  York:  Longman,
-1992
+Stephen, M.. English Literature: A Student Guide . Londres y Nueva York: Longman, 2013 (1986)
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+Whitla, W. The English Handbook. A Guide to Literary Studies . London: Wiley-Blackwell, 2010
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

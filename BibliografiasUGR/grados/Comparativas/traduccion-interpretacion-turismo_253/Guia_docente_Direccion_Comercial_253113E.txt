@@ -2,11 +2,11 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Bigné, J.E. y López, D. (2000): Planificación territorial y comercial turística. Universidad Jaume I
 
@@ -23,12 +23,6 @@ Luque, T. (1997): Investigación de marketing. Ariel Economía. Barcelona
 Maraver   Tarifa,  G.  y  López  Moreno,  L.  (2020):  Dirección  Comercial  en  Turismo.  Con  casos  prácticos  y
 preguntas de evaluación. Editorial Técnica Avicam. Granada
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Martín Armario, E. (1993): Marketing. Editorial Ariel, Madrid
 
 Martín Rojo, I. (2004): Dirección y gestión de empresas del sector turístico. Pirámide. Madrid
@@ -48,4 +42,8 @@ investigación de mercados, economía, dirección de empresas y turismo. Ed. Tho
 Vellas,   F.   y   Bécherel,   L.  (1999):  The  international  marketing  of  travel  and  tourism.  A  strategic
 approach. MacMillan Press. Londres
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,14 +2,15 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Ediciones Pirámide, 2002
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
-ALAMINOS,   J.,   APARICIO,   C.,   EXTREMERA,   J.,   MUÑOZ,   P.,   y   VILLENA,   A.  R.  Cálculo..  Ediciones
-Electrolibris. 2014
+ALAMINOS,         J.:         Cálculo,         Texto         que        puede        descargarse        en:
+https://www.ugr.es/~alaminos/resources/Apuntes/matematicas.pdf     ALAMINOS,     J.,    APARICIO,    C.,
+EXTREMERA, J., MUÑOZ, P., y VILLENA, A. R. Cálculo.. Ediciones Electrolibris. 2014
 
 LARSON,   R.,   HOSTELER   R.P.   Y   EDWARDS,   B.H.:   Cálculo(2   volúmenes).   Séptima  edición.  Ediciones
 Pirámide, 2002
@@ -18,23 +19,21 @@ M. SPIVAK. Cálculo Infinitesimal. 2ª Edición. Reverté, Barcelona 1992
 
 MIGUEL DE GUZMÁN y BALDOMERO RUBIO. Análisis Matemático 1 y 2. Ediciones Pirámide. 1990
 
-S.K. BERBERIAN. A First Course in Real Analysis. Springer-Verlag, New York, 1994
-
+PÉREZ   GONZÁLEZ,   J.:   Cálculo   Diferencial  e  Integral  de  Funciones  de  una  variable.  Texto  que  puede
+descargarse     en:    http://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf
 ZILL,   D.G.,   WRIGHT,   W.S.   y  IBARRA,  J.  Matemáticas  1.  Cálculo  Diferencial.  McGraw  Hill  Education,
 2015
 
+S.K. BERBERIAN. A First Course in Real Analysis. Springer-Verlag, New York, 1994
+
 ZILL, D.G., WRIGHT, W.S. y IBARRA, J. Matemáticas 2. Cálculo Integral. McGraw Hill Education, 2015
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 ALAMINOS, J.: Cálculo, Texto que puede descargarse en: https://analisismatematico.ugr.es/sites/dpto/
 analisismatematico/public/ficheros/Calculo_una_varias_variables_Jeronimo%20(1).pdf
 
-PÉREZ   GONZÁLEZ,   J.:   Cálculo   Diferencial  e  Integral  de  Funciones  de  una  variable.  Texto  que  puede
-descargarse en: http://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf
+ZILL,   D.G.,   WRIGHT,   W.S.   y  IBARRA,  J.  Matemáticas  1.  Cálculo  Diferencial.  McGraw  Hill  Education,
+2015
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

@@ -2,16 +2,21 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Schmidt,   R.   et   al   (2019).   Motor   Control   and  Learning.  A  behavioral  Emphasis.  Champaign:  Human
+Kinetics.   6ª   Edición   Schmidt   R.   A.   &   Lee   T.   D.  (2014).  Motor  Learning  and  Performance:  From
+Principles   to   Application.   Champaign,  IL:  Human  Kinetics  Publishers.  Fifth  Edition  With  Web  Study
+Guide
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (28):
 ------------------------------
 Adams,   J.   A.   (1952).   Warm-decrement   in   performance   on   the  pursuit  rotor.  American  Journal  of
 Psychology, 65, 404-414
 
-Adams, J. A. (1971). A close theory of motor learning. Journal of Motor Behavior. 3, 105-150
+Algunas   referencias   de   los   estudios  originales  que  han  contribuido  de  forma  decisiva  a  las  obras
+usadas   en   la   asignatura   como   bibliografía  fundamental  se  presentan  a  continuación:  Adams,  J.  A.
+(1971). A close theory of motor learning. Journal of Motor Behavior. 3, 105-150
 
 Anson,   J.   G.   (1982).   Memory-drum   theory:   Alternative   test  and  explanations  for  the  complexity
 effects on simple reaction time. Journal of Motor Behavior, 14, 228-246
@@ -49,10 +54,11 @@ being programmed. Journal of Experimental Psychology: Human Perception and Perfo
 Klapp, S. T. (1980). The memory-drum theory after twenty years: comments to Henry's note. Journal of
 Motor Behavior, 12, 169-171
 
+La   información  básica  de  todos  los  contenidos  teóricos  y  prácticos  del  temario  pueden  encontrase  en
+las siguientes 5 obras: Latash, M. L. (2012). Fundamental of Motor Control. Elsevier Inc
+
 Lai,   Q.,   Shea,   C.   H.,   Wulf,  G.  &  Wright,  D.  L.  (2000).  Optimizing  generalized  motor  program  and
 parameter learning. Research Quarterly for Exercise and Sport, 71, 10-24
-
-Latash, M. L. (2012). Fundamental of Motor Control. Elsevier Inc
 
 Magill,   R.   A.;   Anderson,   D.   (2016).   Motor  Learning  and  Control.  Concepts  and  Applications.  11ª
 Edición. New York: McGraw-Hill Education
@@ -75,14 +81,8 @@ Síntesis
 Riley, M. A. & Turvey, M. T. (2002). Variability and determinism in motor behavior. Journal of Motor
 Behavior, 34, 99-125
 
-Schmidt   R.   A.   &  Lee  T.  D.  (2014).  Motor  Learning  and  Performance:  From  Principles  to  Application.
-Champaign, IL: Human Kinetics Publishers. Fifth Edition With Web Study Guide
-
 Schmidt,   R.   A.   (2003).  Motor  schema  theory  after  27  years:  Reflections  and  implications  for  a  new
 theory. Research Quarterly for Exercise and Sport, 74, 366-375
-
-Schmidt,   R.   et   al   (2019).   Motor   Control   and  Learning.  A  behavioral  Emphasis.  Champaign:  Human
-Kinetics. 6ª Edición
 
 Sherwood, D. E. & Lee, T. D. (2003). Schema theory: Critical review and implications for the role of
 cognition in a new theory of motor learning. Research Quarterly for Exercise and Sport, 74, 376-382
@@ -96,11 +96,7 @@ task: Spatial gap acceptance. Perceptual and Motor Skills, 66, 683-702
 Young, D.E., & Schmidt, RA (1992). Augmented kinematic feedback for motor learning. Journal of Motor
 Behavior, 24,261-273
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Algunas   referencias   de  libros  y  estudios  originales  que  han  contribuido  de  forma  decisiva  al  libro
 de referencia de la asignatura se presentan a continuación
@@ -111,4 +107,10 @@ al Movimiento Humano y el Deporte
 La   información  básica  de  todos  los  contenidos  teóricos  y  prácticos  del  temario  pueden  encontrase  en
 el siguientes libro
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+Schmidt   R.   A.   &  Lee  T.  D.  (2014).  Motor  Learning  and  Performance:  From  Principles  to  Application.
+Champaign, IL: Human Kinetics Publishers. Fifth Edition With Web Study Guide
+
+Schmidt,   R.   et   al   (2019).   Motor   Control   and  Learning.  A  behavioral  Emphasis.  Champaign:  Human
+Kinetics. 6ª Edición
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

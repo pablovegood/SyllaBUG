@@ -2,11 +2,16 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+AA.VV.,   El   Retrato,   Galaxia   Gutemberg,   2004   ALBERS,   Josef.,  La  Interacción  del  Color,  Madrid,
+Alianza Editorial, 1988
 
-📚 Recursos sin cambios:
+AZARA,   Pedro.,   El   ojo  y  la  sombra.  Una  mirada  al  retrato  de  Occidente,  Gustavo  Gili,  2002  BAILLY,
+Jean   Cristophe.,   La   llamada   muda:   Los   retratos   de   “El   Fayum”,  Akal,  2001  BELL,  Julián.,  500
+Autorretratos, Phaidon, 2004
+
+📚 Recursos sin cambios (35):
 ------------------------------
 AA.VV., Diccionario del Arte y los artistas, Destino, 2002
 
@@ -81,21 +86,16 @@ ZUFFI, Stefano., El retrato. Obras maestras entre la historia y la eternidad, El
 
 ́ ́ La imagen y el ojo, Debate, 2000
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-AZARA,   Pedro.,   El   ojo  y  la  sombra.  Una  mirada  al  retrato  de  Occidente,  Gustavo  Gili,  2002  BAILLY,
-Jean   Cristophe.,   La   llamada   muda:   Los   retratos   de   “El   Fayum”,  Akal,  2001  BELL,  Julián.,  500
-Autorretratos, Phaidon, 2004  →  BELL, Julián., 500 Autorretratos, Phaidon, 2004
+AA.VV., El Retrato, Galaxia Gutemberg, 2004
 
-AA.VV.,   El   Retrato,   Galaxia   Gutemberg,   2004   ALBERS,   Josef.,  La  Interacción  del  Color,  Madrid,
-Alianza Editorial, 1988  →  AA.VV., El Retrato, Galaxia Gutemberg, 2004
-
-✅ Recursos añadidos:
-------------------------------
 ALBERS, Josef., La Interacción del Color, Madrid, Alianza Editorial, 1988
 
 AZARA, Pedro., El ojo y la sombra. Una mirada al retrato de Occidente, Gustavo Gili, 2002
 
 BAILLY, Jean Cristophe., La llamada muda: Los retratos de “El Fayum”, Akal, 2001
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+BELL, Julián., 500 Autorretratos, Phaidon, 2004
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

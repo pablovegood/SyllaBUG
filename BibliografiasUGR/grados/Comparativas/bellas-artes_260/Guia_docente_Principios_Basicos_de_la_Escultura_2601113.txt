@@ -2,13 +2,17 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 ALBRECH, H.J. Escultura en el siglo XX, Ed. Blume, Barcelona, 1981
+
+BACHELARD, J. La poética del espacio, F.C.E. México,1986
+
+COLECCIÓN ARTE HOY, Madrid: Nerea
 
 HILDEBRAND, A. VON, El problema de la forma en la obra de arte, Madrid: Visor, 1988
 
@@ -21,22 +25,14 @@ MADERUELO, Javier, La pérdida del pedestal, Cuadernos del Círculo de Bellas Ar
 
 MASÓ GUERRI, Alfonso, ¿Qué puede ser una escultura? Grupo Editorial Universitario, Granada, 1997
 
-🔁 Misma obra con edición/año distinto:
+MIDGLEY,   Barry,   Guía   completa   de  escultura,  modelado  y  cerámica,  Ediciones  Blume,  Madrid  PIRSON,
+Jean-François. La structure et l'objet: essais, expériences et rapprochements
+
+PIRSON, Jean-François. La structure et l'objet: essais, expériences et rapprochements. Mauad Editora
+Ltda, 1984. / PIRSON, Jean F. La estructura y el objeto, Barcelona: Ediciones PPU, 1988
+
+✅ Recursos añadidos (0):
 ------------------------------
-Mauad   Editora   Ltda,   1984.   /  PIRSON,  Jean  F.  La  estructura  y  el  objeto,  Barcelona  →  PIRSON,  Jean-
-François.   La  structure  et  l'objet:  essais,  expériences  et  rapprochements.  Mauad  Editora  Ltda,  1984.
-/ PIRSON, Jean F. La estructura y el objeto, Barcelona: Ediciones PPU, 1988
+No hay elementos.
 
-Ediciones   PPU,   1988   →   PIRSON,   Jean-François.   La   structure   et  l'objet:  essais,  expériences  et
-rapprochements.   Mauad   Editora   Ltda,  1984.  /  PIRSON,  Jean  F.  La  estructura  y  el  objeto,  Barcelona:
-Ediciones PPU, 1988
-
-✅ Recursos añadidos:
-------------------------------
-BACHELARD, J. La poética del espacio, F.C.E. México,1986
-
-COLECCIÓN ARTE HOY, Madrid: Nerea
-
-MIDGLEY, Barry, Guía completa de escultura, modelado y cerámica, Ediciones Blume, Madrid
-
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

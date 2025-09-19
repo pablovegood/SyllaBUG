@@ -2,11 +2,11 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 Born, M. y Wolf, E., "Principles of Optics", Pergamon Press, 6a edicióncorregida (1989)
 
@@ -58,11 +58,7 @@ Stone, J.M.,"Radiation and Optics", McGraw Hill (1977)
 
 Young, M., "Optics and Lasers", Springer Verlag, 2a edición (1984)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

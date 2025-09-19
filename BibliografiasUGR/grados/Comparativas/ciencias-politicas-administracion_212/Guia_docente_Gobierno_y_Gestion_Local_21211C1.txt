@@ -2,14 +2,15 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Advertencia   contra   el  plagio  y  copia  La  Universidad  de  Granada  fomentará  el  respeto  a  la  propiedad
-intelectual y transmitirá a los estudiantes que el plagio es una práctica contraria a los principios
-que   rigen   la  formación  universitaria.  Para  ello  procederá  a  reconocer  la  autoría  de  los  trabajos  y
-su
+BALLESTEROS FERNÁNDEZ, Ángel y otros (2004). “Modernización del Gobierno Local
 
-📚 Recursos sin cambios:
+HOFFMANN-MARTINOT,   Vincent   (2000).   “¿Hacia   una   convergencia   europea  de  los  modelos  de  gobierno
+local?”.   CUNAL.   Revista   de   Estudios  locales,  año  2000,  nº  40,  LÓPEZ  MENUDO,  F.  (2003).  “El  Pacto
+Local en la Comunidad Autónoma de Andalucía”
+
+📚 Recursos sin cambios (54):
 ------------------------------
 ALBA,   C.R.  y  VANACLOCHA,  F.  J.  (1997).  “El  sistema  político  local:  un  nuevo  escenario  de  gobierno”.
 Editorial BOE. Madrid
@@ -72,6 +73,8 @@ Gobernanza de múltiples niveles”. Bruselas
 CONSEJERÍA   DE   GOBERNACIÓN.   JUNTA  DE  ANDALUCÍA  (2002).  “Libro  Blanco  de  la  Administración  Local  en
 Andalucía”
 
+Cuadernos de Administración Local Revista de Estudios Locales. CUNAL
+
 DIOS DURÁN, Rafael (2008). “La organización del Gobierno de la Ciudad”. Consejería de Gobernación de
 la Junta de Andalucía. Sevilla
 
@@ -97,9 +100,6 @@ gobierno local en España. 1ª ed.”. Varios Autores. Barcelona
 GONZÁLEZ,   J.A.   (1996).   “Las   Diputaciones   Provinciales   en   España:   Historia   Política   de   las
 Diputaciones desde 1812 hasta 1985”. Mancomunidad General de Diputaciones de Régimen Común. Madrid
 
-HOFFMANN-MARTINOT,   Vincent   (2000).   “¿Hacia   una   convergencia   europea  de  los  modelos  de  gobierno
-local?”. CUNAL. Revista de Estudios locales, año 2000, nº 40, pág.38
-
 LÓPEZ   MENUDO,   F.   (2003).   “El   Pacto   Local   en   la  Comunidad  Autónoma  de  Andalucía”.  RAAP  número
 extraordinario. Vol. II 2003
 
@@ -109,6 +109,8 @@ Administración   Local   (reforma   e  innovación  en  la  Ley  orgánica  8/1
 
 MARQUEZ   CRUZ,   Guillermo   (2007).   “Política   y   Gobierno   Local”.   Centro   de  Estudios  Políticos  y
 Constitucionales. Madrid
+
+MARTÍN RETORTILLO. “Presente y futuro de las Diputaciones Provinciales”. RAP, nº 39
 
 MINISTERIO DE ADMINISTRACIONES PÚBLICAS (1992). “Informe sobre el Gobierno Local”. Madrid
 
@@ -120,8 +122,14 @@ doctrinal)”. Madrid
 
 MINISTERIO DE ADMINISTRACIONES PÚBLICAS (2005). “Libro Blanco del Gobierno Local”. Enero de 2005
 
+MONDRAGÓN    RUIZ    DE    LEZAMA,    Jaione.    “La    gestión    intergubernamental    de   las   relaciones
+intergubernamentales   en   España”.   Prentice   Hall.   Nueva   Línea  de  Gestión  pública,  pág.  319  y  ss.
+Madrid
+
 MONTALVO,   Viviana   (1984).   “La   participación   comunitaria   en   el  municipio”.  El  consultor  de  los
 Ayuntamientos nº 2 de 1984
+
+MORATA, Francesc (2005). “Gobernanza multinivel en la Unión Europea”. Tirant lo Blanc
 
 MÁRQUEZ   CRUZ,   Guillermo   (1997).  “El  sistema  político  local  en  España:  de  las  Cortes  de  Cádiz  a  la
 Restauración (1810-1923)”. Universidad de Santiago de Compostela
@@ -136,6 +144,13 @@ RODRÍGUEZ   ÁLVAREZ,  José  Manuel  (1997).  “Las  medidas  para  el  desar
 y   sus   implicaciones   con   la   carta   europea  de  la  autonomía  local”.  Gestión  análisis  de  políticas
 públicas, nº 10 de 1997
 
+RODRÍGUEZ   ÁLVAREZ,   José   Manuel   (2009).   “Visión  panorámica  sobre  las  competencias  municipales  en
+servicios sociales y análisis de la situación actual”. Revista de estudios locales, nº 118, marzo de
+2009
+
+Revistas:    Revista    de   Estudios   Políticos   (Editada   por   el   Centro   de   Estudios   Políticos   y
+Constitucionales) (Acceso electrónico libre hasta el nº 122)
+
 SALAZAR   BENÍTEZ,   Octavio   (2007).  “El  sistema  de  gobierno  municipal”.  Cuadernos  y  Deberes,  nº  173.
 Centro de Estudios políticos y Constitucionales. Madrid
 
@@ -149,39 +164,20 @@ VANDELLI, L. (1992). “El poder local”. MAP
 
 VV.AA. (1998). “Autonomía locales, Descentralización y Vertebración del Estado”. OICI. Madrid
 
-ZAFRA   VÍCTOR,  Manuel  (2008).  “Garantía  estatutaria  de  la  autonomía  local”,  pág.  35  y  ss.  Anuario  de
-Gobierno Local
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-BALLESTEROS   FERNÁNDEZ,   Ángel   y   otros   (2004).   “Modernización   del   Gobierno  Local  →  BALLESTEROS
-FERNÁNDEZ,   Ángel  y  otros  (2004).  “Modernización  del  Gobierno  Local.  Comentarios  a  la  Ley  57/2003  de
-16 de noviembre”. Bosch. 1º 2004
-
-MORATA,   Francesc   (2005).  “Gobernanza  multinivel  en  la  Unión  Europea”.  Tirant  lo  Blanc.  municipales
-en servicios sociales y análisis de la situación actual”. Revista de estudios locales, nº 118, marzo
-de 2009  →  MORATA, Francesc (2005). “Gobernanza multinivel en la Unión Europea”. Tirant lo Blanc
-
-✅ Recursos añadidos:
-------------------------------
-Cuadernos de Administración Local
-
-MARTÍN RETORTILLO. “Presente y futuro de las Diputaciones Provinciales”. RAP, nº 39
-
-MONDRAGÓN    RUIZ    DE    LEZAMA,    Jaione.    “La    gestión    intergubernamental    de   las   relaciones
-intergubernamentales   en   España”.   Prentice   Hall.   Nueva   Línea  de  Gestión  pública,  pág.  319  y  ss.
-Madrid
-
-RODRÍGUEZ   ÁLVAREZ,   José   Manuel   (2009).   “Visión  panorámica  sobre  las  competencias  municipales  en
-servicios sociales y análisis de la situación actual”. Revista de estudios locales, nº 118, marzo de
-2009
-
-Revista de Estudios Locales. CUNAL
-
-Revista   de   Estudios   Políticos   (Editada   por   el  Centro  de  Estudios  Políticos  y  Constitucionales)
-(Acceso electrónico libre hasta el nº 122)
-
 VV.AA.   “Las   Administraciones   Públicas   y   sus   nuevas  técnicas  de  gestión.  Especial  referencia  al
 ámbito local”. Enega
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+ZAFRA   VÍCTOR,  Manuel  (2008).  “Garantía  estatutaria  de  la  autonomía  local”,  pág.  35  y  ss.  Anuario  de
+Gobierno Local
+
+✅ Recursos añadidos (3):
+------------------------------
+BALLESTEROS FERNÁNDEZ, Ángel y otros (2004). “Modernización del Gobierno Local. Comentarios a la Ley
+57/2003 de 16 de noviembre”. Bosch. 1º 2004
+
+HOFFMANN-MARTINOT,   Vincent   (2000).   “¿Hacia   una   convergencia   europea  de  los  modelos  de  gobierno
+local?”. CUNAL. Revista de Estudios locales, año 2000, nº 40, pág.38
+
+Revista de Estudios Locales. CUNAL
+
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

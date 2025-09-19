@@ -2,11 +2,11 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 Barendregt, H.P. The Lambda Calculus. Its Syntax and Semantics. North-Holland, 1984
 
@@ -36,11 +36,7 @@ Ruiz, B.C., Gutiérrez, F. y otros. Razonando con Haskell. Thomson, 2004
 
 Sterling L.; Shapiro, E. The Art of Prolog: Advanced Programming Techniques. MIT Press, 1986
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Abdali, S. K.; A Simple Lambda-Calculus Model of Programming Languages. Sothis Press, 2023
 
@@ -53,4 +49,4 @@ Selinger, P.; Lecture Notes on the Lambda Calculus. Lulu.com, 2018
 Zerpa,   L;   The   Logic,   Philosophy,   and   History   of   the  Lambda-Calculus:  Theory  and  Applications
 (History of Analytic Philosophy). ‎ Springer-Verlag GmbH, 2025
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

@@ -2,27 +2,24 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (2):
 ------------------------------
 ELSEVIER ESPAÑA, 05/2020 Braunwald. Tratado de cardiología 12 edition. Peter Libby & Robert O. Bonow
 &   Douglas   L.   Mann   &  Gordon  F.  Tomaselli  &  Deepak  L.  Bhatt  &  Scott  D.  Solomon  &  Eugene  Braunwald.
 Fecha   de   publicación   :   10/2023   HURST.   El   Corazón.  Manual  de  Cardiología.  13ª  edición.  2016  de
 Richard   Walsh,   James   Fang,   Valentin  Fuster.  Editorial:  Mc  Graw  Hill  MARRIOTT  ELECTROCARDIOGRAFIA
-PRACTICA. WAGNER, GALEN S. LIPPINCOTT Electrocardiografia Práctica de Dubin. Mc Graw-Hill
+PRACTICA. WAGNER, GALEN S. LIPPINCOTT W&W
+
+ISBN: 9781264540259 FARRERAS: MEDICINA INTERNA, 19ª ed. 2020 Rozman Borstnar & Cardellach
+
+📚 Recursos sin cambios (2):
+------------------------------
+Electrocardiografia Práctica de Dubin. Mc Graw-Hill
 
 Harrison. Principios de Medicina Interna, 21e Joseph Loscalzo, Anthony Fauci, Dennis Kasper, Stephen
-Hauser,   Dan   Longo,   J.   Larry   Jameson.   McGraw  Hill  Education  S.A  .  ISBN:  9781264540259  FARRERAS:
-MEDICINA INTERNA, 19ª ed. 2020 Rozman Borstnar & Cardellach
+Hauser, Dan Longo, J. Larry Jameson. McGraw Hill Education S.A . ISBN: 9781264540259
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Braunwald.   Tratado   de   cardiología   12   edition.  Peter  Libby  &  Robert  O.  Bonow  &  Douglas  L.  Mann  &
 Gordon   F.  Tomaselli  &  Deepak  L.  Bhatt  &  Scott  D.  Solomon  &  Eugene  Braunwald.  Fecha  de  publicación  :

@@ -2,29 +2,25 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Chacón,   S.  et  al.  (2001).  Evaluación  de  la  calidad  universitaria:  validez  de  contenido.  Psicothema,
+13(2),   294-301   Chatterji,  M.  (2005).  Evidence  on  ‘What  works:  An  argument  for  extended-term  mixed-
+method (ETMM) Evaluation Designs. Educational Research, 34(5), 14-24
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (2):
+------------------------------
+Casanova, M. A. (2004). Evaluación y calidad de centros educativos. Síntesis
+
+Escudero,   T.   (2003).  Desde  los  tests  hasta  la  investigación  evaluativa  actual:  Un  siglo,  el  XX,  de
+intenso   desarrollo   de   la  evaluación  en  educación.  Relieve:  Revista  Electrónica  de  Investigación  y
+Evaluación Educativa, 9(1)
+
+✅ Recursos añadidos (31):
 ------------------------------
 Bisquerra. (Coord.) (2004) Metodología de la investigación educativa. La Muralla
 
-Fernández-Cano,   A.   (2010).   Drawing   some   evaluation  patterns  inferred  from  the  biblical  Gideon’s
-passage. Educational Assessment, Evaluation and Accountability, 22(4), 327-343
-
-Fernández-Cano, A. (2016). Una crítica metodológica de las evaluaciones PISA. Revista Electrónica de
-Investigación y Evaluación Educativa (RELIEVE), 22(1), e1-16, art. M15
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Bordón. Revista de Pedagogía *Evaluation and Program Planning
-
-Casanova, M. A. (2004). Evaluación y calidad de centros educativos. Síntesis
 
 Chacón,   S.  et  al.  (2001).  Evaluación  de  la  calidad  universitaria:  validez  de  contenido.  Psicothema,
 13(2), 294-301
@@ -36,14 +32,16 @@ Educational Assessment, Evaluation and Accountability
 
 Educational Evaluation and Policy Analysis
 
-Escudero,   T.   (2003).  Desde  los  tests  hasta  la  investigación  evaluativa  actual:  Un  siglo,  el  XX,  de
-intenso   desarrollo   de   la  evaluación  en  educación.  Relieve:  Revista  Electrónica  de  Investigación  y
-Evaluación Educativa, 9(1)
-
 Evaluation Quarterly *Studies in Educational Evaluation
 
 Fernández   Ballesteros,   R.   (Ed.)   (2004).   Evaluación   de   programas.  Una  guía  práctica  en  ámbitos
 sociales, educativos y de salud(2ª ed.). Síntesis
+
+Fernández-Cano,   A.   (2010).   Drawing   some   evaluation  patterns  inferred  from  the  biblical  Gideon’s
+passage. Educational Assessment, Evaluation and Accountability, 22(4), 327-343
+
+Fernández-Cano, A. (2016). Una crítica metodológica de las evaluaciones PISA. Revista Electrónica de
+Investigación y Evaluación Educativa (RELIEVE), 22(1), e1-16, art. M15
 
 Fitzpatrick,   J.L..,   Sanders,   J.   R.   y   Worthen,   B.   R.(2003).   Program   Evaluation:  Alternative
 approaches and practical guidelines(3ª ed.). Longman
@@ -102,4 +100,4 @@ Tójar, J. C. (2006). Investigación cualitativa: comprender y actuar. La Murall
 Wood,   P.   y   Smith,   J.   (2018)   Investigar   en   educación:   Conceptos   básicos   y  metodología  para
 desarrollar proyectos de investigación. Narcea
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 96% [█████████░]

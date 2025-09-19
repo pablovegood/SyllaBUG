@@ -2,27 +2,23 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
-Alfageme, I. R., Nueva gramática griega, Madrid: Coloquio, 1990
-
 Berenguer   Amenós,   J.,   Gramática   griega   +  Hélade.  Ejercicios  de  griego  I:  Morfología.  Antología,
 Barcelona: Bosch, 2005 (28ª ed.)
 
 Bergua   Cavero,   J.,   Morfología   del   verbo   griego   antiguo.   Con  un  compendio  de  sintaxis  verbal,
 Zaragoza, Prensas de la Universidade de Zaragoza, 2023
 
-Bergua Cavero, J., Pronunciación y prosodia del griego antiguo, Madrid, Ediciones Clásicas, 2015
-
 Calvo Martínez, J. L., Griego para universitarios, Granada, 2016
 
-Chantraine, P., Grammaire homérique, 2 vols., Paris, Klinksieck, 1973/1981
-
 Crespo, E. et alii, Sintaxis del griego clásico, Madrid, 2003
+
+Fernández Galiano, M., Manual práctico de morfología verbal griega, Madrid, Gredos, 1981
 
 Fleury, E., Morfología histórica de la lengua griega, Barcelona, 1971
 
@@ -30,7 +26,17 @@ Guzmán Guerra, A., Manual de métrica griega, Madrid, Ediciones Clásicas, 1997
 
 Lejeune, M., Phonétique historique du mycénien et du grec ancien, Paris, Klincksieck, 1987
 
+Lengua griega Alfageme, I. R., Nueva gramática griega, Madrid: Coloquio, 1990
+
 Maas, P., Greek metre, Oxford, Clarendon Press, 1962
+
+Manuales   de   lingüística   griega   Chantraine,   P.,  Grammaire  homérique,  2  vols.,  Paris,  Klinksieck,
+1973/1981
+
+Manuales   de   métrica   Bergua   Cavero,   J.,   Pronunciación   y   prosodia   del  griego  antiguo,  Madrid,
+Ediciones Clásicas, 2015
+
+Manuales de métrica y estilística Carrière, J., Stylistique grecque, Paris, Klincksieck, 1967
 
 Martinelli, M.Ch., Gli strumenti del poeta. Elementi di metrica greca, Bologna, Cappelli, 1995
 
@@ -45,20 +51,8 @@ Séchan, L., Essais de stylistique grecque, Paris, Ophrys, 1972
 
 West, M.L., Greek Metre, Oxford, Clarendon Press, 1982
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Manuales   de   métrica   y   estilística   Carrière,  J.,  Stylistique  grecque,  Paris,  Klincksieck,  1967  →
-Manuales   de   métrica   y   estilística   Carrière,   J.,  Stylistique  grecque,  Paris,  Klincksieck,  1967.
-Martínez   Conesa,   J.A.,  Figuras  estilísticas  aplicadas  al  griego  y  al  latín,  Valencia,  Bello,  1972.
-Muñoz   Valle,   I.,   Investigaciones   sobre   el   estilo   formular   épico  y  sobre  la  lengua  de  Homero,
-Valencia, Bello, 1974. Séchan, L., Essais de stylistique grecque, Paris, Ophrys, 1972
-
-✅ Recursos añadidos:
-------------------------------
-Carrière, J., Stylistique grecque, Paris, Klincksieck, 1967
-
-Fernández Galiano, M., Manual práctico de morfología verbal griega, Madrid, Gredos, 1981
-
 Lengua griega Alfageme, I. R., Nueva gramática griega, Madrid: Coloquio, 1990. Berenguer Amenós, J.,
 Gramática   griega   +   Hélade.   Ejercicios  de  griego  I:  Morfología.  Antología,  Barcelona:  Bosch,  2005
 (28ª   ed.).   Calvo   Martínez,   J.  L.,  Griego  para  universitarios,  Granada,  2016.  Crespo,  E.  et  alii,
@@ -77,4 +71,9 @@ Ediciones   Clásicas,   2015.  Guzmán  Guerra,  A.,  Manual  de  métrica  gri
 poeta.   Elementi   di   metrica   greca,   Bologna,   Cappelli,   1995.   West,   M.L.,  Greek  Metre,  Oxford,
 Clarendon Press, 1982
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+Manuales   de   métrica   y   estilística   Carrière,   J.,  Stylistique  grecque,  Paris,  Klincksieck,  1967.
+Martínez   Conesa,   J.A.,  Figuras  estilísticas  aplicadas  al  griego  y  al  latín,  Valencia,  Bello,  1972.
+Muñoz   Valle,   I.,   Investigaciones   sobre   el   estilo   formular   épico  y  sobre  la  lengua  de  Homero,
+Valencia, Bello, 1974. Séchan, L., Essais de stylistique grecque, Paris, Ophrys, 1972
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

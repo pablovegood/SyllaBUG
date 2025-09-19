@@ -2,14 +2,17 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Babic,   M.,  Fichtner,  J.,  Heemskerk,  E.  (2017):  “States  versus  Corporations:  Rethinking  the  Power  of
 Business in International Politics”, The International Spectator, 52, 4, pp. 20-43
+
+Baumol,   W.   (1993):   Mercados   perfectos   y   virtud   natural.   La   ética   en  los  negocios  y  la  Mano
+Invisible. Celeste, Madrid
 
 Colli,   A.,   Howorth,   C.   y   Rose,  M.  (2013):  “Long-term  perspectives  on  family  business”,  Business
 History, 55 (6), pp. 841-854
@@ -53,10 +56,11 @@ Options (julio-agosto), pp. 71-76
 Nicholls,   A.   (2008):   Social   Entrepreneurship:   New   Models  of  Sustainable  Social  Change.  Oxford,
 Oxford University Press
 
-Polanyi, K. (2011): La gran transformación. Fondo de Cultura Económica, Madrid
+Oxford,   Oxford   University   Press   Polanyi,   K.   (2011):   La   gran  transformación.  Fondo  de  Cultura
+Económica, Madrid
 
-Polanyi,   K.  (2014):  Los  límites  del  mercado.  Reflexiones  sobre  economía,  antropología  y  democracia.
-Capitán Swing, Madrid
+RBA, Barcelona Polanyi, K. (2014): Los límites del mercado. Reflexiones sobre economía, antropología
+y democracia. Capitán Swing, Madrid
 
 Rodrik,   D.   (2012):  La  paradoja  de  la  globalización.  Democracia  y  el  futuro  de  la  economía  mundial.
 Antoni Bosch, Barcelona
@@ -76,13 +80,8 @@ Valdaliso, J. y López, S. (2008): Historia económica de la empresa. Crítica, 
 Zingales,   Luigi  (2017):  “Towards  a  Political  Theory  of  the  Firm”,  Journal  of  Economic  Perspectives,
 31, 3, pp. 113-130
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Baumol,   W.   (1993):   Mercados   perfectos   y   virtud   natural.   La   ética   en  los  negocios  y  la  Mano
-Invisible. Celeste, Madrid
-
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

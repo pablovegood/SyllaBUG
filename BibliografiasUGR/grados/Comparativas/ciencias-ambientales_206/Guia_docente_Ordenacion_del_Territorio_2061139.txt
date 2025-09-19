@@ -2,12 +2,15 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (31):
 ------------------------------
+Aguiló,   M.   et   al.   (2006):   “Guía   para   la  elaboración  de  estudios  del  medio  físico:  contenido  y
+metodología”. Madrid. Ministerio de Medio Ambiente
+
 Alberti, M. (2008): “Advances in Urban Ecology: Integrating Humans and Ecological Processes in Urban
 Ecosystems. Springer. New York
 
@@ -67,24 +70,6 @@ Blanch, Tirant Humanidades . Colecciones: Crónica/Geografía
 Fernández,   A.   y   Muguruza,   C.   (2015):  “Ordenación  del  territorio:  análisis  y  diagnóstico”.  UNED.
 Madrid
 
-Gómez Orea, D. (2013): “Ordenación Territorial”.Mundi Prensa. Madrid
-
-Martínez de Anguita, P. (2006): “Planificación Física y Ordenación del Territorio”. Madrid. Dykinson
-
-McHarg, I. (2000): “Proyectar con la naturaleza”. Gustavo Gili. Barcelona
-
-Rodríguez,   M.,   Molero,   E.   y   Grindlay,   A.   (2012):   “Aplicación  de  las  TIC's  a  la  enseñanza  del
-urbanismo y la ordenación del territorio en la ingeniería civil”. Godel. Granada
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Mundi Prensa. Madrid. 2002  →  Gómez Orea, D. (2013): “Ordenación Territorial”.Mundi Prensa. Madrid
-
-✅ Recursos añadidos:
-------------------------------
-Aguiló,   M.   et   al.   (2006):   “Guía   para   la  elaboración  de  estudios  del  medio  físico:  contenido  y
-metodología”. Madrid. Ministerio de Medio Ambiente
-
 Fernández,   J.   (2009):   “La  evaluación  ambiental  estratégica  de  planes  y  programas  urbanísticos”.  :
 Aranzadi. Cizur Menor (Navarra)
 
@@ -101,6 +86,18 @@ Bilbao. 2008
 Gómez,   M.   y   Barredo,   J.I.   (2005):   “Sistemas  de  información  geográfica  y  técnicas  de  evaluación
 multicriterio en la ordenación del territorio”. Editorial RA-MA, Madrid, 2ª edición, 276 pp
 
+Martínez de Anguita, P. (2006): “Planificación Física y Ordenación del Territorio”. Madrid. Dykinson
+
+McHarg, I. (2000): “Proyectar con la naturaleza”. Gustavo Gili. Barcelona
+
+Rodríguez,   M.,   Molero,   E.   y   Grindlay,   A.   (2012):   “Aplicación  de  las  TIC's  a  la  enseñanza  del
+urbanismo y la ordenación del territorio en la ingeniería civil”. Godel. Granada
+
+Tirant   lo   Blanch,   Tirant   Humanidades.   Colecciones:   Crónica/Geografía   Gómez   Orea,   D.  (2013):
+“Ordenación Territorial”.Mundi Prensa. Madrid
+
+✅ Recursos añadidos (16):
+------------------------------
 Hewitt,   N.   (1998):   “Guía   europea  para  la  planificación  de  las  Agendas  21  Locales”.  ICLEI/BAKEAZ.
 Bilbao
 
@@ -146,4 +143,4 @@ Madrid. Cátedra
 Zoido,   F.   y   Caravaca,   I.  (coord.)  (2006):  “Informe  de  desarrollo  territorial  de  Andalucía”  (2º).
 Sevilla. Universidad de Sevilla
 
-📊 Porcentaje estimado de cambio: 96% [█████████░]
+📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]

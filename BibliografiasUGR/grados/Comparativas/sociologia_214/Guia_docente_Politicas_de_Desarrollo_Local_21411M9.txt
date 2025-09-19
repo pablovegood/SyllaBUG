@@ -2,11 +2,13 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+TAPIA-AGUIRRE,   J   (2022):  Gestión  municipal  y  desarrollo  local.  Inudi  Perú.  Instituto  Universitario
+de   Innovación   Ciencia   y   Tecnología   BECATTINI,   G.   (coord.)  (2002).  Desarrollo  local:  teorías  y
+estrategias, Madrid. Ed. Civitas
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 BARROSO   GONZÁLEZ,   M   y   FLORES   RUIZ,  D  (coord.)  (2010).  Teoría  y  estrategias  de  desarrollo  local.
 Sevilla, Universidad Internacional de Andalucía
@@ -45,15 +47,11 @@ Valencia
 R   OFMAN,   A.   y  VILLAR,  A  (compiladores)  (2006).  Desarrollo  local.  Una  revisión  crítica  del  debate.
 Buenos Aires, Espacio Editorial
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-TAPIA-AGUIRRE,   J   (2022):  Gestión  municipal  y  desarrollo  local.  Inudi  Perú.  Instituto  Universitario
-de   Innovación   Ciencia   y   Tecnología   BECATTINI,   G.   (coord.)  (2002).  Desarrollo  local:  teorías  y
-estrategias,   Madrid.   Ed.   Civitas  →  TAPIA-AGUIRRE,  J  (2022):  Gestión  municipal  y  desarrollo  local.
-Inudi Perú. Instituto Universitario de Innovación Ciencia y Tecnología
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 BECATTINI, G. (coord.) (2002). Desarrollo local: teorías y estrategias, Madrid. Ed. Civitas
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+TAPIA-AGUIRRE,   J   (2022):  Gestión  municipal  y  desarrollo  local.  Inudi  Perú.  Instituto  Universitario
+de Innovación Ciencia y Tecnología
+
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

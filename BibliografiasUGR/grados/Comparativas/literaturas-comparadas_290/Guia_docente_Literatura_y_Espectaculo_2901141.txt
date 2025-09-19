@@ -2,11 +2,11 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (27):
 ------------------------------
 ABAD CARLÉS, A.: Historia del ballet y de la danza moderna. Madrid, Alianza, 2009
 
@@ -62,22 +62,18 @@ RÍOS CARRATALÁ, J. A.: El teatro en el cine español. Alicante, Universidad de
 SANTOS   SÁNCHEZ,   D   y   MUÑOZ   CÁLIZ,  B.:  Teatro  y  artes  escénicas  en  el  ámbito  hispánico.  .  España.
 Siglo XX, Cátedra, 2023
 
+Salamanca.   Editorial   de   la   Universidad   de   Salamanca   SÁNCHEZ   NORIEGA,   José  Luis  (2000)  De  la
+literatura al cine. Teoría y análisis de la adaptación. Barcelona, Paidós
+
 SÁNCHEZ   MONTES,   M.   J.:   El   cuerpo   como   signo.  La  transformación  de  la  textualidad  en  el  teatro
 contemporáneo. Madrid, Biblioteca Nueva, 2010
 
-SÁNCHEZ   NORIEGA,   José   Luis   (2000)   De  la  literatura  al  cine.  Teoría  y  análisis  de  la  adaptación.
-Barcelona, Paidós
-
 TÓRNQVIST, E.: El teatro en otra lengua y otro medio. Madrid, Arco/Libros, 2002
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 BOBES NAVES, C.: El signo y el teatro
 
 CASSETTI, F.: Introducción a la semiótica. Barcelona, Fontanella, 1980
 
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

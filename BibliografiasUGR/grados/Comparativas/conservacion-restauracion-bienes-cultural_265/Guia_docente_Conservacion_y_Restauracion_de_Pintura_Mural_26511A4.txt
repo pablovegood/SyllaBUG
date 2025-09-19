@@ -2,31 +2,17 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+López   Martínez,   T.   (2019).  Pinturas  murales  de  Castulo.  Evolución  de  la  técnica  y  ensayos  Torres-
+González, M., Alejandre, F. J., Alducin-Ochoa, J. M., Calero-Castillo, A. I., Blasco-
 
-📚 Recursos sin cambios:
-------------------------------
-BOTTICELLI, G.; 1992; Metodologia di restauro delle pitture murali. Ed. Centro Di. Firenze.
-
-DEL PINO DÍAZ, C.; 2004. Pintura mural. Conservación y Restauración. Ed. CIE/Dossat 2000
-
-FERRER   MORALES,   A.;   1995;  La  pintura  mural.  Su  soporte,  conservación,  restauración  y  las  técnicas
-modernas.Ed. Universidad de Sevilla
-
-MORA, P.; MORA, L.; PHILIPPOT, P.; 1984. Conservation of Wall Paintings. Ed. Butterworths
-
-TURCO, T.; 1990; Il gesso. Lavorazione, trasformazione, impieghi. Ed. Hoepli
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (27):
 ------------------------------
 Aceto,   M.   (2021).  Pigments—the  palette  of  organic  colourants  in  wall  paintings.  Archaeological  and
 Anthropological Sciences, 13(10), 1-23
+
+BOTTICELLI, G.; 1992; Metodologia di restauro delle pitture murali. Ed. Centro Di. Firenze.
 
 Borgioli, L. (2006). Polimeri di sintesi per la conservazione della pietra. Padova: Ed. Il prato
 
@@ -63,6 +49,11 @@ Italian wall painting. Microchemical Journal, 141, 40-50
 Durán González, A. (2020). Estudio de estabilidad de imágenes transferidas tramadas. Aplicación a la
 reintegración cromática en pintura mural
 
+FERRER   MORALES,   A.;   1995;  La  pintura  mural.  Su  soporte,  conservación,  restauración  y  las  técnicas
+modernas.Ed. Universidad de Sevilla
+
+Firenze. • DEL PINO DÍAZ, C.; 2004. Pintura mural. Conservación y Restauración. Ed. CIE/Dossat 2000
+
 Gaetani,   C.,   &   Santamaria,   U.   (2000).  The  laser  cleaning  of  wall  paintings.  Journal  of  Cultural
 Heritage, 1, S199-S207
 
@@ -85,8 +76,7 @@ He,   D.,   Wu,   F.,  Ma,  W.,  Gu,  J.  D.,  Xu,  R.,  Hu,  J.,  ...  &  Li,  
 techniques   and   its   effectiveness   for   controlling   biodeterioration   fungi   on  wall  paintings  of
 Maijishan Grottoes. International Biodeterioration & Biodegradation, 171, 105406
 
-López   Martínez,   T.   (2019).   Pinturas   murales   de   Castulo.   Evolución  de  la  técnica  y  ensayos  de
-tratamientos. Tesis doctoral. Universidad de Granada
+MORA, P.; MORA, L.; PHILIPPOT, P.; 1984. Conservation of Wall Paintings. Ed. Butterworths
 
 Martínez-Domingo,   M.   Á.,   Calero   Castillo,   A.   I.,   Vivar   García,   E.,   &  Valero,  E.  M.  (2020).
 Evaluation   of   Cleaning  Processes  Using  Colorimetric  and  Spectral  Data  for  the  Removal  of  Layers  of
@@ -101,6 +91,8 @@ Ramos Molina, J; Durán Suárez, J., Sebastián Pardo, E., Saez Pérez M.P. (201
 conservación   de   las   yeserías   del  Oratorio  de  la  Madraza  de  Granada.  Identificación,  evaluación  y
 análisis." Informes de la Construcción 69
 
+TURCO, T.; 1990; Il gesso. Lavorazione, trasformazione, impieghi. Ed. Hoepli
+
 Torres-González,   M.,   Alejandre,  F.  J.,  Alducin-Ochoa,  J.  M.,  Calero-Castillo,  A.  I.,  Blasco-López,
 F.   J.,   Carrasco-Huertas,   A.,   &   Flores-Alés,   V.   (2022).   Methodology   to  Evaluate  the  State  of
 Conservation   of   Historical   Plasterwork   and   Its   Polychrome  to  Promote  Its  Conservation.  Applied
@@ -109,4 +101,9 @@ Sciences, 12(10), 4814
 VV.   AA.;   2003;  Metodología  de  diagnóstico  y  evaluación  de  tratamientos  para  la  conservación  de  los
 edificios históricos. Cuadernos Técnicos. Instituto Andaluz de Patrimonio Histórico
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+López   Martínez,   T.   (2019).   Pinturas   murales   de   Castulo.   Evolución  de  la  técnica  y  ensayos  de
+tratamientos. Tesis doctoral. Universidad de Granada
+
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

@@ -2,11 +2,21 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Cuenca, E. y Navarro, M. (2019): Lecciones de Economía de la Unión Europea. Ediciones Pirámide
 
-📚 Recursos sin cambios:
+McCormick,   J.   (2007):  The  European  Union:  politics  and  policies.  Westview  Press,  Molle,  W.  (1997):
+The Economic of the European Union. Edit Ashgate
+
+Neal,   L.   (2007):  The  Economics  of  Europe  and  the  European  Union.  Cambridge  University  Press  Nello,
+S.S. (2009): The European Union: Economics, Policies and History. McGraw-Hill
+
+Pelkmans,   J  (2007):  European  Integration:  Methods  and  Economic  Analysis,  3rd  edition,  Prentice  Hall
+Staab,   B.   A.   (2008):   The   European  Union  explained:  institutions,  actors,  global  impact.  Indiana
+University Press
+
+📚 Recursos sin cambios (23):
 ------------------------------
 Ahijado, M (2000): Diccionario de la Unión Europea. Pirámide
 
@@ -56,34 +66,25 @@ Myro, R (director) (2000): Economía Europea. Editorial Civitas
 Nieto,   J.A.   (2001):   La   Unión   Europea:   una   nueva   etapa  en  la  integración  económica  de  Europa.
 Pirámide
 
-Staab,   B.   A.   (2008):   The   European  Union  explained:  institutions,  actors,  global  impact.  Indiana
-University Press
-
 Tamames, R. y López, M. (2002): La Unión Europea. Alianza Editorial
 
 Vega, I. (coord.) (1998): La integración económica Europea. Lex Nova. Valladolid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Cuenca,   E.   y   Navarro,   M.  (2019):  Lecciones  de  Economía  de  la  Unión  Europea.  Ediciones  Pirámide  →
 Cuenca, E. y Navarro, M. (2024): Lecciones de Economía de la Unión Europea. Ediciones Pirámide
 
-McCormick,   J.   (2007):  The  European  Union:  politics  and  policies.  Westview  Press,  Molle,  W.  (1997):
-The   Economic   of   the   European   Union.   Edit   Ashgate   →  McCormick,  J.  (2007):  The  European  Union:
-politics and policies. Westview Press
+McCormick, J. (2007): The European Union: politics and policies. Westview Press
 
-Neal,   L.   (2007):  The  Economics  of  Europe  and  the  European  Union.  Cambridge  University  Press  Nello,
-S.S.   (2009):   The   European   Union:   Economics,   Policies   and   History.   McGraw-Hill  →  Nello,  S.S.
-(2009): The European Union: Economics, Policies and History. McGraw-Hill
-
-Pelkmans,   J  (2007):  European  Integration:  Methods  and  Economic  Analysis,  3rd  edition,  Prentice  Hall
-Staab,   B.   A.  (2008):  The  European  Union  explained:  institutions,  actors,  global  impact  →  Pelkmans,
-J (2007): European Integration: Methods and Economic Analysis, 3rd edition, Prentice Hall
-
-✅ Recursos añadidos:
-------------------------------
 Molle, W. (1997): The Economic of the European Union. Edit Ashgate
 
 Neal, L. (2007): The Economics of Europe and the European Union. Cambridge University Press
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+Nello, S.S. (2009): The European Union: Economics, Policies and History. McGraw-Hill
+
+Pelkmans, J (2007): European Integration: Methods and Economic Analysis, 3rd edition, Prentice Hall
+
+Staab,   B.   A.   (2008):   The   European  Union  explained:  institutions,  actors,  global  impact.  Indiana
+University Press
+
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

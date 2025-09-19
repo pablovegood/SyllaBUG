@@ -2,24 +2,11 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-F.   BALAGUER   (coord.),   G.   CÁMARA   VILLAR,  J.A.  MONTILLA  MARTOS:  Código  de  Derecho  Constitucional.
-Tecnos,   Madrid,  última  edición  ÁLVAREZ  CONDE,  E.  y  TUR  AUSINA,  R.:  Curso  de  Derecho  Constitucional,
-Tecnos, Madrid, última ed
-
-TORRES   DEL  MORAL,  A.:  Principios  de  Derecho  Constitucional  Español,  Servicio  de  Publicaciones  de  la
-Facultad de Derecho de la Universidad Complutense, Madrid, última ed
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (10):
 ------------------------------
 BALAGUER,   F.   (Coord.);   CÁMARA,   G.;   BALAGUER,   M.  L.;  y  MONTILLA,  J.A.:  "Introducción  al  Derecho
 Constitucional", Tecnos, Madrid, últ. ed
@@ -28,6 +15,10 @@ BALAGUER, F. (Coord.); CÁMARA, G.; LÓPEZ AGUILAR, J.F.; BALAGUER, M. L.; Y MON
 Derecho Constitucional. Tecnos, Madrid, últ. ed
 
 CASTELLÀ ANDREU, J.M. y otros: Derecho Constitucional Básico, Huygens, Barcelona, última ed
+
+F.   BALAGUER   (coord.),   G.   CÁMARA   VILLAR,  J.A.  MONTILLA  MARTOS:  Código  de  Derecho  Constitucional.
+Tecnos,   Madrid,  última  edición  ÁLVAREZ  CONDE,  E.  y  TUR  AUSINA,  R.:  Curso  de  Derecho  Constitucional,
+Tecnos, Madrid, última ed
 
 GARCÍA ROCA, J.: Lecciones de Derecho Constitucional, Civitas, Cizur Menor, última ed
 
@@ -40,6 +31,12 @@ PÉREZ ROYO, J.: Curso de Derecho Constitucional, Marcial Pons, Madrid, última 
 
 RUÍZ ROBLEDO, A: “Compendio de Derecho Constitucional”, Tirant lo Blanch, Valencia, últ. ed
 
-ÁLVAREZ CONDE, E. y TUR AUSINA, R.: Curso de Derecho Constitucional, Tecnos, Madrid, última ed
+TORRES   DEL  MORAL,  A.:  Principios  de  Derecho  Constitucional  Español,  Servicio  de  Publicaciones  de  la
+Facultad de Derecho de la Universidad Complutense, Madrid, última ed
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+F.   BALAGUER   (coord.),   G.   CÁMARA   VILLAR,  J.A.  MONTILLA  MARTOS:  Código  de  Derecho  Constitucional.
+Tecnos, Madrid, última edición
+
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

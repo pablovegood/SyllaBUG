@@ -2,20 +2,33 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Documento   interno:   Directrices   para   la   elaboración   de   documentos   durante   la  resolución  JCGM
+200:2012.   Vocabulario  Internacional  de  Metrología  –  Conceptos  Fundamentales  y  Generales,  y  Términos
+Asociados   (VIM)  IUPAC  Technical  Report  2002.  Harmonized  Guidelines  for  Single  Laboratory  Validation
+of Methods of Analysis
 
-📚 Recursos sin cambios:
+TEXTOS   ESPECÍFICOS   SOBRE   GESTIÓN   DE   LABORATORIOS:  S.  Petrozzi.  PRACTICAL  INSTRUMENTAL  ANALYSIS,
+Wiley-VCH, 2013 C.C. Chan, H. Lam, Y.C. Lee, X-M. Zhang. ANALYTICAL METHOD VALIDATION AND INSTRUMENT
+PERFORMANCE VERIFICATION, Wiley, 2004
+
+📚 Recursos sin cambios (22):
 ------------------------------
+Artículos generales y documentos que muestren información de interés relacionada con el problema
+
+Boletín Oficial de la Junta de Andalucía (B.O.J.A.) Ordenanzas municipales
+
+Boletín Oficial del Estado (B.O.E.)
+
+COMPENDIOS   DE   MÉTODOS   ANALÍTICOS   NORMALIZADOS:   Official   Methods   of   Analysis  (21st  ed.),  AOAC
+International, 2019
+
+DOCUMENTOS   TÉCNICOS:   Documento  ENV/MC/CHEM(98)17.  Principios  de  Buenas  Prácticas  de  Laboratorio  de
+la OCDE, Organización para la Cooperación y el Desarrollo Económico (OCDE), 1998
+
 Documento   ENV/JM/MONO(99)20.   Aseguramiento   de   la   Calidad   y   Buenas   Prácticas   de  Laboratorio,
-Organización   para   la   Cooperación  y  el  Desarrollo  Económico  (OCDE),  1999.  laboratorios  de  ensayo  y
-calibración.    International    Organization   of   Standardization   (ISO),   2017.   Documento   interno:
-Directrices   para   la   elaboración   de   documentos   durante   la  resolución  de  un  problema  analítico,
-Departamento de Química Analítica, Universidad de Granada
-
-Documento   ENV/MC/CHEM(98)17.  Principios  de  Buenas  Prácticas  de  Laboratorio  de  la  OCDE,  Organización
-para la Cooperación y el Desarrollo Económico (OCDE), 1998
+Organización para la Cooperación y el Desarrollo Económico (OCDE), 1999
 
 EURACHEM   /   CITAC   Guide   2019.   Metrological   Traceability   in   Chemical   Measurement  –  A  Guide  to
 Achieving Comparable Results in Chemical Measurement
@@ -32,14 +45,30 @@ M. Valcárcel. PRINCIPIOS DE QUÍMICA ANALÍTICA, Springer, 1999
 Manual   of   Analytical   Methods   (NMAM),   5th  ed.  National  Safety  for  Occupational  Safety  and  Health
 (NIOSH), 2016
 
-Official Methods of Analysis (21st ed.), AOAC International, 2019
+Norma   UNE-EN  ISO/IEC  17025:2017.  Requisitos  generales  para  la  competencia  de  laboratorios  de  ensayo
+y calibración. International Organization of Standardization (ISO), 2017
+
+Normas UNE (AENOR) y ASTM (accesible desde biblioteca electrónica de la UGR)
 
 P.   Konieczka,   J.   Namieśnik.   QUALITY   ASSURANCE   AND   QUALITY   CONTROL  IN  THE  ANALYTICAL  CHEMICAL
 LABORATORY (2nd ed.) CRC Press - Taylor & Francis, 2018
 
 R. Compañó, A. Ríos. GARANTÍA DE CALIDAD EN LOS LABORATORIOS ANALÍTICOS, Síntesis, 2002
 
+RECURSOS   EN   INTERNET:  Procedimientos  analíticos  de  diversas  organizaciones  nacionales  (españolas  o
+extranjeras) y/o internacionales, así como de particulares
+
+REVISIONES CIENTÍFICAS: Artículos editados en revistas científicas o de divulgación (accesible desde
+biblioteca   electrónica   de   la  UGR)  Actas  de  Congresos  y  Simposios  sobre  Química  Analítica  Aplicada
+LEGISLACIÓN   Y  REGULACIONES:  Disposiciones  legales  publicadas  en:  Diario  Oficial  de  la  Unión  Europea
+(D.O.U.E.)
+
 Real Farmacopea Española (5ª ed.), Ministerio de Sanidad y Política Social, 2015
+
+Regulaciones   de  organismos  nacionales  o  internacionales  de  normalización  (ISO,  CEN,  AENOR,  …)  o  con
+competencia   reconocida   en   el   ámbito   de   la   metrología   (BIMP,   CEM,   CENAM,   …),  la  gestión  de
+laboratorios   de  análisis  químico  (ILAC,  ENAC,  EURACHEM,  LGC,  OCDE,  ...)  y  la  elaboración  de  métodos
+estandarizados (Codex Alimentarius, OIV, COI, FDA, EPA, ...)
 
 S.   Sagrado,   E.   Bonet,   M.J.   Medina,   Y.   Martín.  MANUAL  PRÁCTICO  DE  CALIDAD  EN  LOS  LABORATORIOS.
 ENFOQUE ISO 17025 (2ª ed.), AENOR, 2005
@@ -47,29 +76,12 @@ ENFOQUE ISO 17025 (2ª ed.), AENOR, 2005
 W.   Funk,   V.  Dammann,  G.  Donnevert.  QUALITY  ASSURANCE  IN  ANALYTICAL  CHEMISTRY  (2nd  ed.),  Wiley-VCH,
 2007
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-S.   Petrozzi.   PRACTICAL   INSTRUMENTAL   ANALYSIS,   Wiley-VCH,  2013  C.C.  Chan,  H.  Lam,  Y.C.  Lee,  X-M.
-Zhang.   ANALYTICAL   METHOD   VALIDATION   AND   INSTRUMENT   PERFORMANCE   VERIFICATION,  Wiley,  2004  →  S.
-Petrozzi. PRACTICAL INSTRUMENTAL ANALYSIS, Wiley-VCH, 2013
-
-JCGM   200:2012.   Vocabulario   Internacional   de   Metrología  –  Conceptos  Fundamentales  y  Generales,  y
-Términos   Asociados   (VIM)   IUPAC  Technical  Report  2002.  Harmonized  Guidelines  for  Single  Laboratory
-Validation   of   Methods   of  Analysis  →  IUPAC  Technical  Report  2002.  Harmonized  Guidelines  for  Single
-Laboratory Validation of Methods of Analysis
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (15):
 ------------------------------
 Actas de Congresos y Simposios sobre Química Analítica Aplicada
 
 Artículos   editados  en  revistas  científicas  o  de  divulgación  (accesible  desde  biblioteca  electrónica
 de la UGR)
-
-Artículos generales y documentos que muestren información de interés relacionada con el problema
-
-Boletín Oficial de la Junta de Andalucía (B.O.J.A.)
-
-Boletín Oficial del Estado (B.O.E.)
 
 C.C.   Chan,   H.   Lam,   Y.C.  Lee,  X-M.  Zhang.  ANALYTICAL  METHOD  VALIDATION  AND  INSTRUMENT  PERFORMANCE
 VERIFICATION, Wiley, 2004
@@ -82,33 +94,23 @@ Diario Oficial de la Unión Europea (D.O.U.E.)
 
 Disposiciones legales publicadas en
 
-Documento   ENV/JM/MONO(99)20.   Aseguramiento   de   la   Calidad   y   Buenas   Prácticas   de  Laboratorio,
-Organización para la Cooperación y el Desarrollo Económico (OCDE), 1999
+Documento   interno:   Directrices   para   la   elaboración   de   documentos   durante  la  resolución  de  un
+problema analítico, Departamento de Química Analítica, Universidad de Granada
+
+IUPAC   Technical   Report   2002.  Harmonized  Guidelines  for  Single  Laboratory  Validation  of  Methods  of
+Analysis
 
 JCGM   200:2012.   Vocabulario   Internacional   de   Metrología  –  Conceptos  Fundamentales  y  Generales,  y
 Términos Asociados (VIM)
 
-LEGISLACIÓN Y REGULACIONES
-
-Norma   UNE-EN  ISO/IEC  17025:2017.  Requisitos  generales  para  la  competencia  de  laboratorios  de  ensayo
-y calibración. International Organization of Standardization (ISO), 2017
-
-Normas UNE (AENOR) y ASTM (accesible desde biblioteca electrónica de la UGR)
-
 Ordenanzas municipales
-
-Procedimientos   analíticos   de   diversas   organizaciones   nacionales   (españolas   o  extranjeras)  y/o
-internacionales, así como de particulares
 
 RECURSOS EN INTERNET
 
 REVISIONES CIENTÍFICAS
 
-Regulaciones   de  organismos  nacionales  o  internacionales  de  normalización  (ISO,  CEN,  AENOR,  …)  o  con
-competencia   reconocida   en   el   ámbito   de   la   metrología   (BIMP,   CEM,   CENAM,   …),  la  gestión  de
-laboratorios   de  análisis  químico  (ILAC,  ENAC,  EURACHEM,  LGC,  OCDE,  ...)  y  la  elaboración  de  métodos
-estandarizados (Codex Alimentarius, OIV, COI, FDA, EPA, ...)
+S. Petrozzi. PRACTICAL INSTRUMENTAL ANALYSIS, Wiley-VCH, 2013
 
 TEXTOS ESPECÍFICOS SOBRE GESTIÓN DE LABORATORIOS
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 45% [████░░░░░░]

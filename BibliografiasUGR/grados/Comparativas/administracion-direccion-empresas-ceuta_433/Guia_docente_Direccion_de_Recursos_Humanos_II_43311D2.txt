@@ -2,11 +2,11 @@
 Grado: administracion-direccion-empresas-ceuta (433)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 ALBIZU,   E.   y   LANDETA,  J.  (2011):  Dirección  estratégica  de  los  recursos  humanos:  teoría  y  práctica
 (2ª ed.), Pirámide, Madrid
@@ -33,11 +33,7 @@ humanos . Editorial UOC
 STOREY,   J.   (Ed.),   WRIGHT,   P.   M.   (Ed.),  ULRICH,  D.  O.  (Ed.).  (2009).  The  Routledge  Companion  to
 Strategic Human Resource Management, Routledge, Londres
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

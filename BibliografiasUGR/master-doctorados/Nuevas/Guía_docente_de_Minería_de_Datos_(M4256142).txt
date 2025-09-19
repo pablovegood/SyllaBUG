@@ -1,6 +1,0 @@
-Bramer, M (2013), Principles of data mining, Springer
-Hand, D., Mannola, H., Smyth, P. (2001) Principles of data minig. The MIT Press
-Jiawei Han& Micheline Kamber (2006), Data Mining: Concepts and Techniques. Morgan Kaufmann.
-Pang-NingTan, Michael Steinbach & Vipin Kumar (2006), Introduction to Data Mining. Addison-Wesley.
-Alpaydin, E. (2004). Introduction to Machine Learning. The MIT Press.
-Data Mining and Knowledge Discovery (DMKD)

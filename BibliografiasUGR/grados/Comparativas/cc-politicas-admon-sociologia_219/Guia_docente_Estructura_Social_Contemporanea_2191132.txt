@@ -2,14 +2,14 @@
 Grado: cc-politicas-admon-sociologia (219)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (31):
 ------------------------------
-Atzori,L., A. Lera y G. Morabito (2011) "SIoT: Giving a Social Structure to the Internet of Things",
-IEEE Communications Letters, Vol.15, nº. 11
+Atzori   ,L.,   A.   Lera   y   G.   Morabito   (2011)   "SIoT:  Giving  a  Social  Structure  to  the  Internet  of
+Things", IEEE Communications Letters, Vol.15, nº. 11
 
 Carabaña,   J.   (ed.)   (1995)   Desigualdad   y   clases   sociales.  Un  seminario  en  torno  a  E.O.  Wright.
 Fundación Argentaria, Madrid
@@ -81,11 +81,7 @@ Wright, E.O. (1994) Clases. Siglo XXI, Madrid
 
 Wright, E.O. (2018): Comprender las clases sociales, Akal. Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

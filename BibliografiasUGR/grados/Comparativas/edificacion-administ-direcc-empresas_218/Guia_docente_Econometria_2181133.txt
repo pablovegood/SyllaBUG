@@ -2,17 +2,20 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 Alonso, A.; Fernández, J. y Gallastegui, I. (2005).- Econometría. Ed. Prentice Hall
 
-Aznar, A.; García, A. y Martín, A. (1994).- Ejercicios de Econometría I. Ed. Pirámide
+Caridad, J.M. (1998). Econometría: Modelos Econométricos uniecuacionales. Ed. Reverté S.A
 
 Fernández, A.I. y otros (1995).- Ejercicios de Econometría. Ed. McGraw Hill
+
+Fernández-Sánchez,   P.;   Salmerón-Gómez   R   y  Blanco,  V.  (2016).  Prácticas  de  Econometría  con  Excel,
+Gretl y RStudio. Ed. Fleming
 
 García,   R.M.;   Herrerías,   J.M.  y  Palacios,  F.  (2017).  Econometría.  Ejercicios  resueltos.  Ediciones
 Pirámide
@@ -20,7 +23,7 @@ Pirámide
 González,   S.   (Coordinadora)   (2007).   Ejercicios   resueltos  de  Econometría.  El  modelo  de  regresión
 múltiple. Delta Publicaciones
 
-Greene, W (1999).- Análisis Econométrico. Ed. Prentice Hall
+Greene , W (1999).- Análisis Econométrico. Ed. Prentice Hall
 
 Guisan, M.C. (1997).- Econometría. Ed. McGraw Hill
 
@@ -57,17 +60,12 @@ Stock, J.H. y Watson, M.M. (2012) Introducción a la Econometría, 3ª ed. Pears
 
 Sánchez, C. (1999) Métodos Econométricos. Ariel Economía. Barcelona
 
+Thomson Aznar, A.; García, A. y Martín, A. (1994).- Ejercicios de Econometría I. Ed. Pirámide
+
 Wooldridge, J.M. (2010).- Introducción a la Econometría. Un enfoque moderno. 2ª Edic. Thomson
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Caridad,   J.M.   (1998).   Econometría:   Modelos  Econométricos  uniecuacionales.  Ed.  Reverté  Fernández-
-Sánchez,   P.;   Salmerón-Gómez   R   y   Blanco,   V.  (2016).  Prácticas  de  Econometría  con  Excel,  Gretl  y
-RStudio.   Ed.   Fleming   →   Fernández-Sánchez,  P.;  Salmerón-Gómez  R  y  Blanco,  V.  (2016).  Prácticas  de
-Econometría con Excel, Gretl y RStudio. Ed. Fleming
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Caridad, J.M. (1998). Econometría: Modelos Econométricos uniecuacionales. Ed. Reverté S.A
-
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

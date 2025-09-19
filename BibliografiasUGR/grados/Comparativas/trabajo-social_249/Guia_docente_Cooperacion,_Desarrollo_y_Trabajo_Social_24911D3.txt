@@ -2,11 +2,20 @@
 Grado: trabajo-social (249)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Latouche,   Serge   (2008).   La   apuesta   por   el  decrecimiento:  ¿Cómo  salir  del  imaginario  dominante?
+Barcelona. Icaria Maldonado, V. S. (2015).Del Desarrollo a la Participación Comunitaria: El caso del
+Valle   del   Volca.  Percepciones  del  desarrollo,  dentro  y  fuera  del  continente  africano.  Cuadernos  de
+Trabajo Social, (28), 2
 
-📚 Recursos sin cambios:
+Rahnema,   Majid   (1996).   Participación.  En  Sachs,  Wolfang,  Diccionario  del  desarrollo.  Una  Guía  del
+Conocimiento   como   poder,   PRATEC,   Proyecto   Andino   de   Tecnologías   Campesinas.   Disponible   en:
+http://www.ivanillich.org/Lidicc.htm Sánchez, V y Morales, A (2015): Trabajo Social y Cooperación al
+Desarrollo.   La  construcción  de  discursos  colectivos  mediante  herramientas  audiovisuales  en  el  Valle
+del Colca y otros lugares. Cuadernos de TS, Vol. 28-2, 269-281
+
+📚 Recursos sin cambios (20):
 ------------------------------
 Dominelli,   L.   (2021).   A  green  social  work  perspective  on  social  work  during  the  time  of  COVID.19,
 International Journal of Social Welfare, 7-16
@@ -52,8 +61,13 @@ Morin, E (2011). La vía. Para el futuro de la humanidad. Capítulo 1: ¿Cambiar
 Méndez,   I.   L.,  &  Sierra,  B.  (2001).  Integrando  el  análisis  de  género  en  el  desarrollo:  manual  para
 técnicos de la cooperación. Madrid: Universidad Complutense
 
-Pérez   de   Armiño,   K.   (dir)   et   al.  (2001).  Diccionario  de  Acción  Humanitaria  y  Cooperación  Rist,
+Pérez   de   Armiño,   K.   (dir)   et   al.   (2001).   Diccionario   de  Acción  Humanitaria  y  Cooperación  al
+desarrollo.   Icaria   Editorial   y   Hegoa.   Barcelona   y   Bilbao.  http://dicc.hegoa.efaber.net/  Rist,
 Gilbert. El desarrollo: Historia de una creencia occidental. Madrid: La Catarata
+
+Rahnema,   Majid   (1996).   Participación.  En  Sachs,  Wolfang,  Diccionario  del  desarrollo.  Una  Guía  del
+Conocimiento   como   poder,   PRATEC,   Proyecto   Andino   de   Tecnologías   Campesinas.   Disponible   en:
+http://www.ivanillich.org/Lidicc.htm
 
 Seisdedos,   S.   R.   (2009).   Las   políticas   públicas   y   las   acciones   privadas   en  cooperación  al
 desarrollo: perspectivas y propuestas para el trabajo social. Portularia: Revista de Trabajo Social,
@@ -76,30 +90,20 @@ Vieitez,   S.   (2012).   Politicas   públicas   e   igualdad   de   género   
 Mozambique.   En:   Roca   y   Alvarez   (Ed.),   Albert,   Mujeres,   Mercados   y   Desarrollo:  Perspectivas
 africanas. Barcelona: Icaria
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Rahnema,   Majid   (1996).   Participación.  En  Sachs,  Wolfang,  Diccionario  del  desarrollo.  Una  Guía  del
-Conocimiento   como   poder,   PRATEC,   Proyecto   Andino  de  Tecnologías  Sánchez,  V  y  Morales,  A  (2015):
-Trabajo   Social   y   Cooperación   al   Desarrollo.   La   construcción   de  discursos  colectivos  mediante
-herramientas   audiovisuales   en   el   Valle   del   Colca   y  otros  lugares.  Cuadernos  de  TS,  Vol.  28-2,
-269-281   →   Rahnema,  Majid  (1996).  Participación.  En  Sachs,  Wolfang,  Diccionario  del  desarrollo.  Una
-Guía   del  Conocimiento  como  poder,  PRATEC,  Proyecto  Andino  de  Tecnologías  Campesinas.  Disponible  en:
-http://www.ivanillich.org/Lidicc.htm
-
-Latouche,   Serge   (2008).   La   apuesta   por   el  decrecimiento:  ¿Cómo  salir  del  imaginario  dominante?
-Barcelona. Icaria Maldonado, V. S. (2015).Del Desarrollo a la Participación Comunitaria: El caso del
-Valle   del   Volca.  Percepciones  del  desarrollo,  dentro  y  fuera  del  continente  africano.  Cuadernos  de
-Trabajo   Social,   (28),   2   →  Maldonado,  V.  S.  (2015).Del  Desarrollo  a  la  Participación  Comunitaria:
-El   caso   del   Valle  del  Volca.  Percepciones  del  desarrollo,  dentro  y  fuera  del  continente  africano.
-Cuadernos de Trabajo Social, (28), 2
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Latouche,   Serge   (2008).   La   apuesta   por   el  decrecimiento:  ¿Cómo  salir  del  imaginario  dominante?
 Barcelona. Icaria
 
-Pérez   de   Armiño,   K.   (dir)   et   al.   (2001).   Diccionario   de  Acción  Humanitaria  y  Cooperación  al
-desarrollo. Icaria Editorial y Hegoa. Barcelona y Bilbao. http://dicc.hegoa.efaber.net/
+Maldonado,   V.  S.  (2015).Del  Desarrollo  a  la  Participación  Comunitaria:  El  caso  del  Valle  del  Volca.
+Percepciones   del   desarrollo,   dentro  y  fuera  del  continente  africano.  Cuadernos  de  Trabajo  Social,
+(28), 2
+
+Rahnema,   Majid   (1996).   Participación.  En  Sachs,  Wolfang,  Diccionario  del  desarrollo.  Una  Guía  del
+Conocimiento   como   poder,   PRATEC,   Proyecto   Andino   de   Tecnologías   Campesinas.   Disponible   en:
+http://www.ivanillich.org/Lidicc.htm
+
+Rist, Gilbert. El desarrollo: Historia de una creencia occidental. Madrid: La Catarata
 
 Sotillo, JA (2011). “La cooperación en contexto histórico. El nacimiento de la ayuda al desarrollo”,
 en   Sotillo,   JA   (Ed)   El   sistema   de   cooperación  para  el  desarrollo.  Actores,  formas  y  procesos.
@@ -109,4 +113,4 @@ Sánchez,   V   y   Morales,   A   (2015):   Trabajo  Social  y  Cooperación  a
 discursos   colectivos   mediante   herramientas   audiovisuales   en  el  Valle  del  Colca  y  otros  lugares.
 Cuadernos de TS, Vol. 28-2, 269-281
 
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 32% [███░░░░░░░]

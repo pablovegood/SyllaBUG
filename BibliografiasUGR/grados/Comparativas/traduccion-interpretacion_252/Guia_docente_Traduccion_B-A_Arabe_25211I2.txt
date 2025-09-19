@@ -2,11 +2,14 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+GUTIÉRREZ   DE   TERÁN,   IGNACIO,   Manual   de  traducción  periodística  (del  español  al  árabe):  Textos  e
+introducción   teórica,   Madrid   :  CantArabia  ,  1998  KHATTAB,  MAHGOUB  DWIDAR,  Diccionario  de  términos
+económicos   español-árabe  =  Qamus  almustalahat  al-iqtisadiyya  Isbani-'arabi  /  Mahgoub  Dwidar  Khattab
+Madrid : Instituto Egipcio de Estudios Islámicos, 2007
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 CARANDELL   ROBUSTÉ,   JUAN,  JAIME  SÁNCHEZ  RATIA  Y  AHMED  TEZITI,  Árabe  de  prensa  (I  y  II).  Método  para
 la comprensión auditiva y escrita. Escuela de Traductores de Toledo, 2008
@@ -19,9 +22,14 @@ EPALZA,   MIKEL   (COORD.),  MARÍA  JESÚS  RUBIERA  MATA  [et  al.],  Traducir
 GARCÍA   SUÁREZ,   PABLO   y  LUIS  MIGUEL  PÉREZ  CAÑADA,  Manual  de  traducción  periodística  árabe-español.
 Introducción teórica, textos y claves. Escuela de Traductores de Toledo, 2017
 
+NOTA: En clase se facilitará bibliografía adicional (diccionarios, libros de estilo y otras obras de
+referencia)
+
 RAE. 1999. Ortografía de la lengua española. Madrid: Espasa
 
 RAE. 2009. Nueva gramática de la lengua española. Madrid: Espasa
+
+RAE. Diccionario Panhispánico de dudas. http://buscon.rae.es/dpdI/
 
 ROJO   PÉREZ,   PEDRO  (ed.),  El  mundo  visto  por  los  árabes  :  Anuario  de  prensa  árabe  2006  /  Barcelona:
 Icaria, 2007
@@ -31,22 +39,13 @@ estudios aplicados al español y al árabe/ coordinador, Instituto Egipcio de Es
 
 SECO, M. 1998. Diccionario de dudas y dificultades de la lengua española. Madrid: Espasa
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Textos   e   introducción   teórica,  Madrid  :  CantArabia  ,  1998  KHATTAB,  MAHGOUB  DWIDAR,  Diccionario  de
-términos   económicos   español-árabe   =   Qamus   al-  mustalahat  al-iqtisadiyya  Isbani-'arabi  /  Mahgoub
-Dwidar   Khattab   Madrid   :   Instituto  Egipcio  de  Estudios  Islámicos,  2007  →  KHATTAB,  MAHGOUB  DWIDAR,
-Diccionario   de  términos  económicos  español-árabe  =  Qamus  al-mustalahat  al-iqtisadiyya  Isbani-'arabi
-/ Mahgoub Dwidar Khattab Madrid : Instituto Egipcio de Estudios Islámicos, 2007
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 GUTIÉRREZ   DE   TERÁN,   IGNACIO,   Manual   de  traducción  periodística  (del  español  al  árabe):  Textos  e
 introducción teórica, Madrid : CantArabia, 1998
 
-NOTA: En clase se facilitará bibliografía adicional (diccionarios, libros de estilo y otras obras de
-referencia)
+KHATTAB,   MAHGOUB  DWIDAR,  Diccionario  de  términos  económicos  español-árabe  =  Qamus  al-mustalahat  al-
+iqtisadiyya Isbani-'arabi / Mahgoub Dwidar Khattab Madrid : Instituto Egipcio de Estudios Islámicos,
+2007
 
-RAE. Diccionario Panhispánico de dudas. http://buscon.rae.es/dpdI/
-
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

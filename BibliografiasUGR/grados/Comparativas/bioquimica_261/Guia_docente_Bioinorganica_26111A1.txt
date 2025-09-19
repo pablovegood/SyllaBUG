@@ -2,34 +2,35 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
 Francis, M. Balachandran, E. C Daniel, S. G. Kunnel, MRF 2024 Iron Chemistry at the service of life,
-IUBMB Life, 2017, Vol: 69, Pages: 365–372
+IUBMB Life, 2017, Vol: 69, Pages: 365–372. Dominguez-Vera et al
 
-📚 Recursos sin cambios:
+Iron Metabolism: from Molecular Mechanisms to Clinical Consequences. R. Crichton, John Wiley & Sons,
+2016   Biological   Inorganic   Chemistry,  Structure  &  Reactivity,  I.  Bertini,  H.B.  Gray,  E.I.  Stiefel,
+J.S. Valentine, University Science Books, California 2007
+
+📚 Recursos sin cambios (5):
 ------------------------------
 Bioinorganic Medicinal Chemistry, E. Alessio, Wiley 2011
+
+Biological Inorganic Chemistry, A New Introduction to Molecular Structure and Function, R. Crichton,
+Elsevier, 2012
 
 Ferritin   iron   uptake   and   release   in   the   presence   of   metals   and   metalloproteins:   Chemical
 implications in the brain. Coordination Chemistry Reviews 2013, 257, 2752-2764. Dominguez-Vera et al
 
+Nanoparticles   in   Healthcare.  Applications  in  Therapy,  Diagnosis,  and  Drug  Delivery.  D.  Francis,  M.
+Balachandran, E. C Daniel, S. G. Kunnel, MRF 2024
+
 Varying   iron  release  from  transferrin  and  lactoferrin  proteins.  A  laboratory  experiment,  Dominguez-
 Vera et al. Biochem Mol Biol Educ. 2017, 45, 52
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Biological Inorganic Chemistry, A New Introduction to Molecular Structure and Function, R. Crichton,
-Elsevier,   2012.   Iron   Metabolism:  from  Molecular  Mechanisms  to  Clinical  Consequences.  R.  Crichton,
-John   Wiley   &   Sons,   2016  Biological  Inorganic  Chemistry,  Structure  &  Reactivity,  I.  Bertini,  H.B.
-Gray,   E.I.   Stiefel,   J.S.   Valentine,   University   Science   Books,   California   2007   →  Biological
-Inorganic   Chemistry,   Structure   &  Reactivity,  I.  Bertini,  H.B.  Gray,  E.I.  Stiefel,  J.S.  Valentine,
-University Science Books, California 2007
-
-✅ Recursos añadidos:
-------------------------------
-Biological Inorganic Chemistry, A New Introduction to Molecular Structure and Function, R. Crichton,
-Elsevier, 2012
+Biological   Inorganic   Chemistry,   Structure  &  Reactivity,  I.  Bertini,  H.B.  Gray,  E.I.  Stiefel,  J.S.
+Valentine, University Science Books, California 2007
 
 Iron   Chemistry  at  the  service  of  life,  IUBMB  Life,  2017,  Vol:  69,  Pages:  365–372.  Dominguez-Vera  et
 al
@@ -37,7 +38,4 @@ al
 Iron Metabolism: from Molecular Mechanisms to Clinical Consequences. R. Crichton, John Wiley & Sons,
 2016
 
-Nanoparticles   in   Healthcare.  Applications  in  Therapy,  Diagnosis,  and  Drug  Delivery.  D.  Francis,  M.
-Balachandran, E. C Daniel, S. G. Kunnel, MRF 2024
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

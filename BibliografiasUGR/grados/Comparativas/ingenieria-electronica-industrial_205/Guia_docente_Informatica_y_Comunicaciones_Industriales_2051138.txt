@@ -2,11 +2,11 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 Bailey, D. Practical Radio Engineering and Telemetry for Industry. Elsevier
 
@@ -27,17 +27,13 @@ Rodríguez, A. Sistemas SCADA (2a edición). Marcombo
 Stallings, W. Comunicaciones y redes de computadores. Prentice Hall
 
 Veneri,   G.,   &  Capasso,  A.  Hands-On  Industrial  Internet  of  Things:  create  a  powerful  industrial  IoT
-infrastructure using industry 4.0. Birmingham: Packt Publishing. personal del alumno
+infrastructure using industry 4.0. Birmingham: Packt Publishing
 
 Wilamowski, B., & Irwin, J. Industrial communication systems (2nd ed.). CRC Press
 
 Zurawski, R. The Industrial communication technology handbook (2nd ed.). CRC Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

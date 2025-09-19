@@ -2,11 +2,11 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 ALONSO, A.; FERNÁNDEZ, J. y GALLASTEGUI, I. (2005).- Econometría. Ed. Prentice Hall
 
@@ -25,7 +25,7 @@ Pirámide
 GONZÁLEZ,   S.   (Coordinadora)   (2007).   Ejercicios   resueltos  de  Econometría.  El  modelo  de  regresión
 múltiple. Delta Publicaciones
 
-GREENE, W (1999).- Análisis Econométrico. Ed. Prentice Hall
+GREENE , W (1999).- Análisis Econométrico. Ed. Prentice Hall
 
 GUISAN, M.C. (1997).- Econometría. Ed. McGraw Hill
 
@@ -63,11 +63,7 @@ SÁNCHEZ, C. (1999) Métodos Econométricos. Ariel Economía. Barcelona
 
 WOOLDRIDGE, J.M. (2010).- Introducción a la Econometría. Un enfoque moderno. 2ª Edic. Thomson
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 URIEL, E.,CONTRERAS, D.,MOLTÓ, M.L. y PEIRÓ, A. (1997) Econometría. El modelo lineal. Editorial AC
 

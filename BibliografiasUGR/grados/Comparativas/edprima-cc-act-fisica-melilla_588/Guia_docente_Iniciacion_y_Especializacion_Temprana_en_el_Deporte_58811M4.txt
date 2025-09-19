@@ -2,11 +2,20 @@
 Grado: edprima-cc-act-fisica-melilla (588)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Brown, J. (2001). Sports Talent. Human Kinetics. Canadá Castejón, F.J. (2003). Iniciación Deportiva:
+Enseñanza Y Aprendizaje Comprensivo En El Deporte
 
-📚 Recursos sin cambios:
+Georgea,   J.D;   Fisherpat,   G.   (2007).  Test  y  pruebas  físicas.  Paidotribo  Badalona  Hahn,  E.  (1988).
+Entrenamiento con niños. Ed. Martínez Roca. Barcelona
+
+Pancorbo,   A;   Blanco,   J.   (1990).   Consideraciones   sobre  el  entrenamiento  deportivo  en  la  niñez  y
+adolescencia.   Archivos   de   Medicina   del   Deporte.   Volumen  VII.  Numero  27.  Págs.  309-314  Roux,  K.
+(2010).   The   importance   of   sport   psychology  in  school  sport.  African  Joumal  for  Physical,  Health
+Education, Recreation and Dance (AJPHERD)Vol. 16, No. 3 (September), pp. 446-459
+
+📚 Recursos sin cambios (27):
 ------------------------------
 Antón y otros (1989). Entrenamiento deportivo en la edad escolar. UNISPORT. Málaga
 
@@ -17,38 +26,15 @@ Quindio. Colombia
 
 Blázquez y otros (1995). La iniciación deportiva y el deporte escolar. INDE. Barcelona
 
-Contreras, O; De la Torre, E. Velazquez, R. (2001). Iniciación Deportiva. Ed. Síntesis. Madrid
-
 Curbelo,   A.   (2017).   Juegos   de   iniciación  y  formación  deportiva.  De  lo  simple  a  lo  complejo.  Ed.
 Paidotribo. Barcelona
-
-García Manso, J.M. (2003). El talento Deportivo. Formación de Elites Deportivas. Gymnos. Madrid
-
-Harichausjean,   P.   (2006).   Test  de  aptitud  física  y  test  de  esfuerzo:  Rendimiento  deportivo.  Inde.
-Barcelona
-
-LLoid,   R.S;   Oliver,  J.L.  (2013).  Strength  and  Conditioning  for  Young  Athletes.  Routledge.  UK.  www.
-rotledge.com
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Brown, J. (2001). Sports Talent. Human Kinetics. Canadá Castejón, F.J. (2003). Iniciación Deportiva:
-Enseñanza   Y   Aprendizaje   Comprensivo   En  El  Deporte  →  Castejón,  F.J.  (2003).  Iniciación  Deportiva:
-Enseñanza Y Aprendizaje Comprensivo En El Deporte. Ed. Wanceulen. Sevilla
-
-Georgea,   J.D;   Fisherpat,   G.   (2007).  Test  y  pruebas  físicas.  Paidotribo  Badalona  Hahn,  E.  (1988).
-Entrenamiento   con   niños.  Ed.  Martínez  Roca.  Barcelona  →  Georgea,  J.D;  Fisherpat,  G.  (2007).  Test  y
-pruebas físicas. Paidotribo Badalona
-
-✅ Recursos añadidos:
-------------------------------
-Brown, J. (2001). Sports Talent. Human Kinetics. Canadá
 
 De   Bosscher,   V;   De   Knop,   P;   van   Bottenburg,   M.   Shibli,   S;   Binghamd,  J.  (2009).  Explaining
 international   sporting   success:  An  international  comparison  of  elite  sport  systems  and  policies  in
 six countries. Sport Management Review. Vol.12, pp 113–136
 
-Edinburgh. Ed. Sportscotland. Caledonia House. Edinburgh
+Ed. Wanceulen. Sevilla Contreras, O; De la Torre, E. Velazquez, R. (2001). Iniciación Deportiva. Ed.
+Síntesis. Madrid
 
 Fraile,   A;  De  Diego,  R.  (2006).  Motivaciones  de  los  escolares  europeos  para  la  práctica  del  deporte
 escolar.   Un   estudio   realizado   en   España,   Italia,   Francia  y  Portugal.  Revista  internacional  de
@@ -57,7 +43,8 @@ sociología (RIS). vol. lxiv, nº 44, mayo-agosto, 85-109
 González,   S;   García,   L.M;   Contreras,   O.   R;   Sánchez-Mora,  D.  (2009).  El  concepto  de  iniciación
 deportiva en la actualidad. Retos. Nº 15, 14-20
 
-Hahn, E. (1988). Entrenamiento con niños. Ed. Martínez Roca. Barcelona
+Harichausjean,   P.   (2006).   Test  de  aptitud  física  y  test  de  esfuerzo:  Rendimiento  deportivo.  Inde.
+Barcelona
 
 Junta   de   Andalucía   (2010).  Deporte  en  edad  escolar.  Manual  par  a  las  buenas  prácticas  deportivas.
 Ed.         Instituto         Andaluz         del         Deporte.        Junta        de        Andalucía.
@@ -68,6 +55,9 @@ Problems and Future Directions. QUEST, 2003, 55, 141-160
 
 Kirk,   D.   (2004).   Framing   quality   physical  education:  the  elite  sport  modelo  r  sport  Education?.
 Physical Education and sport Pedagogy. Vol. 9, 2, pp. 185-195
+
+LLoid,   R.S;   Oliver,  J.L.  (2013).  Strength  and  Conditioning  for  Young  Athletes.  Routledge.  UK.  www.
+rotledge.com
 
 Marks,   S;  Mountjoy,  M;  Marcus,  M  (2011).  Sexual  harassment  and  abuse  in  sport:  the  role  of  the  team
 doctor. Br J Sports Med;46:905–908. doi:10.1136/bjsports-2011-090345
@@ -85,11 +75,8 @@ Human Movement and exercise, 13(1), 188-204. doi:https://doi.org/10.14198/jhse.1
 Muniesa, C; Santiago, C; Gomez-Gallego, F y Lucía, A (1995). Genética y Deporte. Colección ICD. CSD.
 Madrid
 
-Pancorbo,   A;   Blanco,   J.   (1990).   Consideraciones   sobre  el  entrenamiento  deportivo  en  la  niñez  y
-adolescencia. Archivos de Medicina del Deporte. Volumen VII. Numero 27. Págs. 309-314
-
-Roux,   K.   (2010).   The  importance  of  sport  psychology  in  school  sport.  African  Joumal  for  Physical,
-Health Education, Recreation and Dance (AJPHERD)Vol. 16, No. 3 (September), pp. 446-459
+Paidotribo.   Barcelona   García   Manso,   J.M.   (2003).   El   talento   Deportivo.   Formación   de  Elites
+Deportivas. Gymnos. Madrid
 
 Ruiz,   R.J;   Castro-Piñero,  J;  España-Romero,  V;  Artero,  E.G;  Ortega,  F.B;  Cuenca,  M;  Jimenez-Pavón,
 D;   Chillón,   P;   Girela-Rejón,   Mª.J;   Mora,   J;  Gutierrez,  A;  Suni,  J;  Sjöström,  M;  Castillo,  M,J.
@@ -102,7 +89,8 @@ Sport Science S.). Karger
 Varios autores (1995). Indicadores para la detección de talentos. Consejo Superior de Deportes
 
 Varios   autores.   (2003).   Talentos   deportivos.   Detección,   entrenamiento   y   gestión.  Gobierno  de
-Canarias
+Canarias   Wolstencroff,   E.   (2002).   Talent  identification  and  Development:  An  academic  Review.  The
+University of Edinburgh. Ed. Sportscotland. Caledonia House. Edinburgh
 
 Vernetta, M., Montosa, I., Beas, J. & López- Bedoya, J. (2017). Batería funcional ARISTO en Gimnasia
 Rítmica   (BFAGR):  Protocolo  de  test  específicos  para  la  evaluación  de  jóvenes  gimnastas  en  un  ámbito
@@ -113,7 +101,27 @@ Vveinhardt   J.,  Fominiene  V.B.,  Streimikiene  D.  (2020).  A  new  tool  con
 bullying   and  harassment  in  higher  education  institutions.  Polish  journal  of  management  studies.  vol
 21. nº 22, pp 446-461. DOI: 10.17512/pjms.2020.21.2.31
 
+✅ Recursos añadidos (8):
+------------------------------
+Brown, J. (2001). Sports Talent. Human Kinetics. Canadá
+
+Castejón,   F.J.  (2003).  Iniciación  Deportiva:  Enseñanza  Y  Aprendizaje  Comprensivo  En  El  Deporte.  Ed.
+Wanceulen. Sevilla
+
+Georgea, J.D; Fisherpat, G. (2007). Test y pruebas físicas. Paidotribo Badalona
+
+Hahn, E. (1988). Entrenamiento con niños. Ed. Martínez Roca. Barcelona
+
+Pancorbo,   A;   Blanco,   J.   (1990).   Consideraciones   sobre  el  entrenamiento  deportivo  en  la  niñez  y
+adolescencia. Archivos de Medicina del Deporte. Volumen VII. Numero 27. Págs. 309-314
+
+Roux,   K.   (2010).   The  importance  of  sport  psychology  in  school  sport.  African  Joumal  for  Physical,
+Health Education, Recreation and Dance (AJPHERD)Vol. 16, No. 3 (September), pp. 446-459
+
+Varios   autores.   (2003).   Talentos   deportivos.   Detección,   entrenamiento   y   gestión.  Gobierno  de
+Canarias
+
 Wolstencroff,   E.   (2002).  Talent  identification  and  Development:  An  academic  Review.  The  University
 of
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

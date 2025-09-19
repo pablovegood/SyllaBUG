@@ -2,11 +2,19 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Olga   Pons,   Nicolás   Marín,   Juan   Miguel  Medina,  Silvia  Acid  y  Mª  Amparo  Vila:  “Introducción  a  las
+Bases   de   Datos:  El  modelo  relacional”.  Paraninfo,  2005.  ISBN  Gary  B.  Shelly  &  Harry  J.  Rosenblatt:
+“Systems   Analysis   and   Design”.   Course   Technology,  8th  edition,  2009.  ISBN  0324597665  Jeffrey  L.
+Whitten,   Lonnie   D.  Bentley  &  Kevin  C.  Dittman:  “Systems  Analysis  and  Design  Methods”.  McGraw-Hill,
+5th edition, 2000. ISBN 0072315393
 
-📚 Recursos sin cambios:
+Ramez A. Elmasri & Shamkant B. Navathe: “Fundamentos de Sistemas de Bases de Datos”, Addison-Wesley,
+2012,   ISBN   :   9788478290857   Thomas   M.   Connolly  &  Carolyn  E.  Begg:  Database  Systems:  A  Practical
+Approach to Design, Implementation, and Management, 6th Edition, Pearson, 2015
+
+📚 Recursos sin cambios (4):
 ------------------------------
 BATINI, CERI, NAVATHE. Diseño Conceptual de Bases de Datos. Addison-Wesley /Diaz de Santos. 1994
 
@@ -18,25 +26,13 @@ KORTH H.F., SILBERSCHATZ (2014). Fundamentos de Bases de datos 6ª ed. Mc Graw H
 ULLMAN   J.D.   (1989)   Principles  of  Database  and  Knowledge-Base  Systems  Computer  Science  Vol  I  y  II.
 press New York USA
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ramez A. Elmasri & Shamkant B. Navathe: “Fundamentos de Sistemas de Bases de Datos”, Addison-Wesley,
-2012,   ISBN   :   9788478290857   Thomas   M.   Connolly  &  Carolyn  E.  Begg:  Database  Systems:  A  Practical
-Approach   to   Design,   Implementation,   and   Management,   6th   Edition,   Pearson,   2015   →  Thomas  M.
-Connolly   &   Carolyn   E.  Begg:  Database  Systems:  A  Practical  Approach  to  Design,  Implementation,  and
-Management, 6th Edition, Pearson, 2015
-
-“Introducción   a  las  Bases  de  Datos:  El  modelo  relacional”.  Paraninfo,  2005.  ISBN  8497323963  Gary  B.
-Shelly   &   Harry  J.  Rosenblatt:  “Systems  Analysis  and  Design”.  Course  Technology,  8th  edition,  2009.
-ISBN   0324597665   Jeffrey   L.   Whitten,   Lonnie  D.  Bentley  &  Kevin  C.  Dittman:  “Systems  Analysis  and
-Design   Methods”.   McGraw-Hill,   5th   edition,  2000.  ISBN  0072315393  →  Jeffrey  L.  Whitten,  Lonnie  D.
-Bentley   &   Kevin  C.  Dittman:  “Systems  Analysis  and  Design  Methods”.  McGraw-Hill,  5th  edition,  2000.
-ISBN 0072315393
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Gary B. Shelly & Harry J. Rosenblatt: “Systems Analysis and Design”. Course Technology, 8th edition,
 2009. ISBN 0324597665
+
+Jeffrey   L.   Whitten,   Lonnie   D.  Bentley  &  Kevin  C.  Dittman:  “Systems  Analysis  and  Design  Methods”.
+McGraw-Hill, 5th edition, 2000. ISBN 0072315393
 
 Olga   Pons,   Nicolás   Marín,   Juan   Miguel  Medina,  Silvia  Acid  y  Mª  Amparo  Vila:  “Introducción  a  las
 Bases de Datos: El modelo relacional”. Paraninfo, 2005. ISBN 8497323963
@@ -44,4 +40,7 @@ Bases de Datos: El modelo relacional”. Paraninfo, 2005. ISBN 8497323963
 Ramez A. Elmasri & Shamkant B. Navathe: “Fundamentos de Sistemas de Bases de Datos”, Addison-Wesley,
 2012, ISBN : 9788478290857
 
-📊 Porcentaje estimado de cambio: 83% [████████░░]
+Thomas   M.   Connolly   &   Carolyn   E.   Begg:   Database   Systems:   A   Practical   Approach   to   Design,
+Implementation, and Management, 6th Edition, Pearson, 2015
+
+📊 Porcentaje estimado de cambio: 77% [███████░░░]

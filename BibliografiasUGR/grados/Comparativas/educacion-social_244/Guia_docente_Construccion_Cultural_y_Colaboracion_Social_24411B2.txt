@@ -2,11 +2,12 @@
 Grado: educacion-social (244)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Marín Viadel, R. y Roldán, J. (Eds). (2017). Ideas visuales. Investigación Basada en Artes e Mateos,
+C. y Sedeño, A. (2018). Videoartivismo: Poética del conflicto simbólico
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (42):
 ------------------------------
 Aguirre,   I.   (2000).   Teorías   y   Prácticas  en  Educación  Artística.  Servicio  de  publicaciones  de  la
 Universidad Pública de Navarra
@@ -58,6 +59,8 @@ Juliano, D. (2004). Excluidas y marginales. Una aproximación antropológica . C
 
 Lancaster, (1991). Las artes en la Educación Primaria . Morata
 
+Lowenfeld, V. y Brittain, L. (1980). Desarrollo de la capacidad creadora . Buenos Aires: Kapelusz
+
 López   Fernández  Cao,  M.,  Caeiro  Rodríguez,  M.,  Álvarez  Rodríguez,  D.,  Fontal  Merillas,  O.  y  Marfil-
 Carmona,   R.   (Eds.).   (2022).   Libro   blanco.   Especialidad   en   los  grados  de  Magisterio  y  centros
 educativos   en   Educación  Artística,  Plástica,  Visual  y  Audiovisual.  SEA.  Sociedad  para  la  Educación
@@ -77,8 +80,8 @@ Pearson
 
 Marin Viadel, R. y Roldan, J. (coord.) (2010). Infancia y Mercado . Aljibe
 
-Marín   Viadel,   R.   y   Roldán,   J.   (Eds).   (2017).   Ideas  visuales.  Investigación  Basada  en  Artes  e
-investigación artística . Granada: Universidad de Granada
+Mateos, C. y Sedeño, A. (2018). Videoartivismo: Poética del conflicto simbólico. Comunicar, 26 (57),
+49–58
 
 Mayayo, P. (2003). Historias de mujeres, historias del arte . Cátedra
 
@@ -87,11 +90,12 @@ Mesías Lema, J.M. (2019). Educación Artística Sensible . Graó
 Mesías-Lema,   J.   M.  (2018).  Artivismo  y  compromiso  social:  Transformar  la  formación  del  profesorado
 desde la sensibilidad. Comunicar, 26 (57), 19-28
 
-Read, H. (1982). Educación por el arte . Paidós
-
 Rodulfo M. (1998). El niño del dibujo . Paidós
 
 Roldán, J. y Marín Viadel, R. (2012). Metodologías artísticas de investigación en educación . Aljibe
+
+SEA.   Sociedad  para  la  Educación  Artística.  https://bit.ly/3MZblO5  Read,  H.  (1982).  Educación  por  el
+arte. Paidós
 
 Said, E. (1990). Orientalismo . Libertarias. 1ª ed. 1978
 
@@ -123,21 +127,15 @@ Infantil.   Otras   formas   de   interrelación  en  el  contexto  educativo.  
 la   formación   en   mediación   y   educación  en  museos:  análisis  de  la  Web  of  Science.  REIFOP.  Revista
 Electrónica interuniversitaria de Formación del Profesorado, 22 (1), 121-144
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Lowenfeld, V. y Brittain, L. (1980). Desarrollo de la capacidad creadora . Buenos Aires: Kapelusz
-
 Marín Viadel, R. (Ed.). (2025). Inteligencia Artificial en Educación y Creación Artística. Editorial
 Universidad de Granada. https://editorial.ugr.es/ebook/131487/free_download/
+
+Marín   Viadel,   R.   y   Roldán,   J.   (Eds).   (2017).   Ideas  visuales.  Investigación  Basada  en  Artes  e
+investigación artística . Granada: Universidad de Granada
 
 Marín Viadel, R., Roldán, J., y Cálix, L. (2021). La enseñanza de las artes visuales en contextos de
 riesgo de exclusión social . Editorial Universidad Nacional Autónoma de Honduras
 
-Mateos, C. y Sedeño, A. (2018). Videoartivismo: Poética del conflicto simbólico. Comunicar, 26 (57),
-49–58
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

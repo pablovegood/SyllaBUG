@@ -2,25 +2,25 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Jakobson,   R.  Premesse  di  Storia  Letteraria  Slava,  Mi,  Il  Saggiatore,  1975;  Lichačev  D.  Storia  della
+letteratura russa dei secoli X-XVII, Genova,1989
 
-📚 Recursos sin cambios:
+Lo   Gatto,   E.  Historia  de  la  Literatura  Rusa.  Barcelona,1952  Waegemans  E.  Historia  de  la  literatura
+rusa desde el tiempo de Pedro el Grande. Madrid, 2003
+
+📚 Recursos sin cambios (8):
 ------------------------------
-AA.VV.   El   crisol   de   las   literaturas   eslavas   (Coordinador   Elena   Mironesco  Bielova).  Granada,
-Universidad de Granada, 2012
-
-Chizevski D. Historia comparada de las literaturas eslavas. Madrid, Gredos, 1983
-
-E.   Etkind,   G.   Nivat,   I.   Serman,   V.   Strada  (a  cura  di),  Storia  della  letteratura  russa.Torino,
-Einaudi, 1989, tomo I
-
 Historia de las Literaturas Eslavas (AA.VV. Coordinador Fernando Presa González). Madrid, 1997
 
-Jakobson, R. Premesse di Storia Letteraria Slava, Mi, Il Saggiatore, 1975
+MANUALES   DE  HISTORIA  DE  LA  LITERATURA  RUSA  DE  LOS  SS.  XI  -XVIII  EN  ESPAÑOL:  AA.VV.  El  crisol  de  las
+literaturas   eslavas  (Coordinador  Elena  Mironesco  Bielova).  Granada,  Chizevski  D.  Historia  comparada
+de las literaturas eslavas. Madrid, Gredos, 1983
 
-Lichačev D. Storia della letteratura russa dei secoli X-XVII, Genova,1989
+MANUALES   Y  ESTUDIOS  DE  HISTORIA  DE  LA  LITERATURA  RUSA  EN  OTRAS  LENGUAS  EUROPEAS:  Eichhoff,  Frédéric
+Gustave. Histoire de la langue et de la littérature des Slaves,1839; E. Etkind, G. Nivat, I. Serman,
+V. Strada (a cura di), Storia della letteratura russa.Torino, Einaudi, 1989, tomo I
 
 Mirskij, D.S. Storia della Letteratura russa, Milano,1977 (et successive)
 
@@ -34,20 +34,24 @@ al siglo XXI. Granada,2020
 
 Terras (a cura), Handbook to Russian Literature, New Haven, 1985
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-Lo   Gatto,   E.  Historia  de  la  Literatura  Rusa.  Barcelona,1952  Waegemans  E.  Historia  de  la  literatura
-rusa   desde   el   tiempo   de   Pedro   el  Grande.  Madrid,  2003  →  Lo  Gatto,  E.  Historia  de  la  Literatura
-Rusa. Barcelona,1952
+AA.VV.   El   crisol   de   las   literaturas   eslavas   (Coordinador   Elena   Mironesco  Bielova).  Granada,
+Universidad de Granada, 2012
 
-✅ Recursos añadidos:
-------------------------------
+E.   Etkind,   G.   Nivat,   I.   Serman,   V.   Strada  (a  cura  di),  Storia  della  letteratura  russa.Torino,
+Einaudi, 1989, tomo I
+
 Eichhoff, Frédéric Gustave. Histoire de la langue et de la littérature des Slaves,1839
+
+Jakobson, R. Premesse di Storia Letteraria Slava, Mi, Il Saggiatore, 1975
+
+Lichačev D. Storia della letteratura russa dei secoli X-XVII, Genova,1989
+
+Lo Gatto, E. Historia de la Literatura Rusa. Barcelona,1952
 
 MANUALES DE HISTORIA DE LA LITERATURA RUSA DE LOS SS. XI -XVIII EN ESPAÑOL
 
-MANUALES Y ESTUDIOS DE HISTORIA DE LA LITERATURA RUSA EN OTRAS LENGUAS EUROPEAS
-
 Waegemans E. Historia de la literatura rusa desde el tiempo de Pedro el Grande. Madrid, 2003
 
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

@@ -2,11 +2,11 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 Barrado, D. A. y Calabuig, J. (2009): Geografía mundial del turismo. Editorial Síntesis, Madrid
 
@@ -14,6 +14,9 @@ Esteve Secall, R. (2000): Economía, historia e instituciones del turismo en Esp
 
 González   Limón,   M.   y   Aracil   Fernández,   M.   J.   (2009):  Introducción  a  la  economía  en  el  sector
 turístico. Síntesis, Madrid
+
+Mesplier,   A.   y   Bloc.Duraffour,   P.  (2000):  Geografía  del  turismo  en  el  mundo.  Editorial  Síntesis,
+Madrid
 
 Pulido   Fernández,   J.   I.   y   Cárdenas   García,   P.  J.  (2013):  Estructura  económica  de  los  mercados
 turísticos. Editorial Síntesis, Madrid
@@ -26,19 +29,15 @@ Síntesis, Madrid
 Sáez Cala, A., Martín Urbano, P. y Pulido Fernández, J. I. (2014): Estructura Económica del Turismo.
 Editorial Síntesis, Madrid
 
+Síntesis,   Madrid  Montaner  Montejano  (2002):  Política  y  relaciones  turísticas  internacionales.  Ariel
+Turismo
+
 Tamames, R. y Huerta, B. G. (2010): Estructura Económica Internacional. Alianza Editorial
 
 Vellas, F. (2004): Economía y Política del turismo internacional. Editorial Síntesis, Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Mesplier,   A.   y   Bloc.Duraffour,   P.  (2000):  Geografía  del  turismo  en  el  mundo.  Editorial  Síntesis,
-Madrid   Montaner  Montejano  (2002):  Política  y  relaciones  turísticas  internacionales.  Ariel  Turismo  →
-Montaner Montejano (2002): Política y relaciones turísticas internacionales. Ariel Turismo
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Mesplier,   A.   y   Bloc.Duraffour,   P.  (2000):  Geografía  del  turismo  en  el  mundo.  Editorial  Síntesis,
-Madrid
-
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

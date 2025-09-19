@@ -2,11 +2,13 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Apuntes   del   profesor   Lo   Gatto.   Historia   de  la  Literatura  Rusa.  Barcelona,1952  Sokolova  et  all.
+Historia   de  la  literatura  rusa  del  s.XI  al  XXI.  Granada,2021  Waegemans  E.  Historia  de  la  literatura
+rusa desde el tiempo de Pedro el Grande. Madrid, 2003
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 AA.VV. El crisol de las literaturas eslavas (Coordinador Elena Mironesco Bielova). Granada, 2012
 
@@ -16,7 +18,8 @@ Chizevski, D. Historia comparada de las literaturas eslavas. Madrid, Gredos, 198
 
 Eichhoff,   F.G.   Histoire   de   la   langue   et  de  la  littérature  des  Slaves,  Russes,  Serbes,  Bohèmes,
 Polonais   et   Lettons,   considérées  dans  leur  origine  indienne,  leurs  anciens  monuments  et  leur  état
-présent / par F.-G. Eichhoff, ...Date de l'édition originale: 1839
+présent   /   par  F.-G.  Eichhoff,  ...Date  de  l'édition  originale:  1839  Etkind,  G.  Nivat,  I.  Serman,  V.
+Strada (a cura di), Storia della letteratura russa. III. Il Novecento. 1
 
 Etkind,   G.   Nivat,   I.   Serman,   V.   Strada   (a   cura   di),  Storia  della  letteratura  russa.  III.  Il
 Novecento. 1. Dal simbolismo alle avanguardie, Torino, Einaudi, 1989, tomo I
@@ -33,14 +36,7 @@ Letteratura della Slavia Ortodossa, Bari, 1991
 
 Terras (a cura), Handbook to Russian Literature, New Haven, Yale University Press, 1985
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Apuntes   del   profesor   Lo   Gatto.   Historia   de  la  Literatura  Rusa.  Barcelona,1952  Sokolova  et  all.
-Historia   de  la  literatura  rusa  del  s.XI  al  XXI.  Granada,2021  Waegemans  E.  Historia  de  la  literatura
-rusa   desde   el   tiempo  de  Pedro  el  Grande.  Madrid,  2003  →  Lo  Gatto.  Historia  de  la  Literatura  Rusa.
-Barcelona,1952
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Apuntes del profesor
 
@@ -52,10 +48,12 @@ de Lectores, 1999
 
 En inglés, pero accesible. Antología muy útil para textos medievales con introducciones contextuales
 
+Lo Gatto. Historia de la Literatura Rusa. Barcelona,1952
+
 Sokolova et all. Historia de la literatura rusa del s.XI al XXI. Granada,2021
 
 Waegemans E. Historia de la literatura rusa desde el tiempo de Pedro el Grande. Madrid, 2003
 
 Zenkovsky, S. A. Medieval Russia’s Epics, Chronicles, and Tales. New York: Meridian Books, 1963
 
-📊 Porcentaje estimado de cambio: 72% [███████░░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

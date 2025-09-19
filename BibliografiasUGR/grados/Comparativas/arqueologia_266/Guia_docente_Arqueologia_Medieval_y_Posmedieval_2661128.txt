@@ -2,11 +2,11 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (53):
 ------------------------------
 AA.VV.   2001:   Arqueología   industrial,   patrimonio  y  turismo  cultural.  Gijón:  Incuna.  Asociación  de
 Arqueología Industrial
@@ -141,11 +141,7 @@ VALOR PIECHOTTA, M. y GUTIÉRREZ, A. 2014: The Archaeology of Medieval Spain (11
 WICKHAM, C. 2009: Una historia nueva de la Alta Edad Media. Europa y el mundo mediterráneo, 400-800,
 Barcelona, Crítica
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 SARR,   B.,   2024:   Maqbara.   Espacios,  rituales  y  ceremoniales  de  enterramientos  islámicos,  Granada,
 Alhulia, Alborão 4

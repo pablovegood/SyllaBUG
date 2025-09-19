@@ -2,27 +2,22 @@
 Grado: ingenieria-civil (237)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Iglesias,   A.,   Ortiz,   G.,   Rodríguez,   R.   y   Minga   J.C.  (2021).  Aguas  subterráneas:  Exploración,
-personal del alumno
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 Comisión   Docente   del   CIHS:   Escuder,   R.,   Fraile,  J.,  Jordana,  S.,  Ribera,  F.  Sánchez-Vila,  X.  Y
 Vázquez-Sunyé, E. (2009). Hidrogeología. Ed. Fundación CIHS. Barcelona
 
 Cruz San Julián, J. J. (2018). Hidrogeología básica e hidráulica subterránea. Ed. IGME
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Iglesias,   A.,   Ortiz,   G.,   Rodríguez,   R.   y   Minga   J.C.  (2021).  Aguas  subterráneas:  Exploración,
 Evaluación, Caracterización y Gestión. JCI Ingeniería & Servicios Ambientales S.A.C. Lima-Perú
 
+✅ Recursos añadidos (7):
+------------------------------
 López   Geta,   J.A.,  Fornés,  J.,  Ramos,  G.,  Villarroya,  F.  (2001):  Las  aguas  subterráneas:  un  recurso
 natural del subsuelo. Ed. IGME
 
@@ -43,4 +38,4 @@ de pequeñas poblaciones. IGME
 
 Sánchez San Román, F. J. (2017). Hidrología superficial y subterránea. Univ. Salamanca
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 70% [███████░░░]

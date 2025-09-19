@@ -2,11 +2,11 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 A. Graser, G. N. Peterson, G. Sherman. QGIS Map Design (Second Edition). Locate Press, 2018
 
@@ -30,6 +30,9 @@ M. Neteler, H. Mitasova. Open Source GIS a GRASS GIS Approach (Third Edition). S
 M.   Wegmann,  B.  Leutner,  S.  Dech.  Remote  Sensing  and  GIS  for  Ecologists:  Using  Open  Source  Software.
 Pelagic Publishing, 2016
 
+R.   E.   Plant.  Spatial  Data  Analysis  in  Ecology  and  Agriculture  Using  R  (Second  Edition).  CRC  Press,
+2018
+
 R. O. Obe, L. S. Hsu. PostGIS in Action (Second Edition). Manning Publications, 2021
 
 R.   S.   Bivand,   E.   J.   Pebesma,   V.   Gómez.  Applied  Spatial  Data  Analysis  with  R  (Second  Edition).
@@ -43,13 +46,8 @@ X. Zhu. GIS for Environmental Applications: A practical approach. Routledge, 201
 
 Y. Cabrero, A. García. Análisis estadístico de datos espaciales con QGIS y R. UNED, 2015
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-R.   E.   Plant.  Spatial  Data  Analysis  in  Ecology  and  Agriculture  Using  R  (Second  Edition).  CRC  Press,
-2018
-
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,14 +2,20 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Real   Decreto   1029/2022  de  20  de  diciembre,  por  el  que  se  aprueba  el  Reglamento  sobre  protección  de
+la   salud   contra   los  riesgos  derivados  de  la  exposición  a  radiaciones  ionizantes.(BOE  305  de  21  de
+diciembre   de   2022)  Reglamento  de  Instalaciones  Nucleares  y  Radiactivas  (RD:  1836/1999  BOE.  31  /  12
+/1999)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 Albrecht   T,   Blomley   MJ,   Bolondi   L,  Claudon  M,  Correas  JM,  Cosgrove  D,  et  al.  EFSUMB  Study  group
 (2004). Guidelines for the use of contrast agents in ultrasound. Ultraschall Med. 2004; 25: 249-56
+
+Bases   físicas   y   farmacéuticas   de  Medicina  Nuclear.  Protocolos  de  trabajo.  Hospital  Universitario
+Virgen de las Nieves
 
 Boote   EJ,  AAPM/RSNA  Physics  Tutorial  for  Residents:  Topics  in  US  Doppler  US  techniques:  Concepts  of
 blood flow detection and flow dynamics. RadioGraphies. 2003; 23 1315-27
@@ -63,22 +69,14 @@ Aparatos de Rayos X con fines de Diagnóstico Médico (B.O.E. de 18 de julio de 
 
 Reglamento de Protección Sanitaria frente a Radiaciones Ionizantes (RD: 783/2001: BOE-A-2001-14555)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Real   Decreto   1029/2022  de  20  de  diciembre,  por  el  que  se  aprueba  el  Reglamento  sobre  protección  de
-la   salud   contra   los  riesgos  derivados  de  la  exposición  a  radiaciones  ionizantes.(BOE  305  de  21  de
-diciembre   de   2022)  Reglamento  de  Instalaciones  Nucleares  y  Radiactivas  (RD:  1836/1999  BOE.  31  /  12
-/1999)  →  Reglamento de Instalaciones Nucleares y Radiactivas (RD: 1836/1999 BOE. 31 / 12 /1999)
-
-✅ Recursos añadidos:
-------------------------------
-Bases   físicas   y   farmacéuticas   de  Medicina  Nuclear.  Protocolos  de  trabajo.  Hospital  Universitario
-Virgen de las Nieves
-
 Hoskin, P. Clinical Oncology. Basic Principles and Practice. 5th. Edition. 2020. ISBN 9781138035553
 
 Real   Decreto   1029/2022  de  20  de  diciembre,  por  el  que  se  aprueba  el  Reglamento  sobre  protección  de
 la   salud   contra   los  riesgos  derivados  de  la  exposición  a  radiaciones  ionizantes.(BOE  305  de  21  de
 diciembre de 2022)
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+Reglamento de Instalaciones Nucleares y Radiactivas (RD: 1836/1999 BOE. 31 / 12 /1999)
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

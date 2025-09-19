@@ -2,11 +2,11 @@
 Grado: administracion-direccion-empresas-ceuta (433)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Agencia   Estatal   del   Boletín  Oficial  del  Estado  o  Colección  de  Códigos  Electrónicos  de  Legislación
 Editorial   Tirant   Lo   Blanch:   La   Ley  General  Tributaria  y  sus  Reglamentos  de  desarrollo  Editorial
@@ -24,7 +24,7 @@ Jiménez Sánchez, G. J. (coord.),Lecciones de Derecho mercantil, Tecnos, Madrid
 
 Jiménez Sánchez, G. J. (coord.),Nociones de Derecho mercantil, Marcial Pons, Madrid, última edición
 
-Menéndez,   A.,   (director)  y  otros  autores,Lecciones  de  Derecho  mercantil,  Thomson-  Cívitas,  Madrid,
+Menéndez,   A.,   (director)   y  otros  autores,Lecciones  de  Derecho  mercantil,  Thomson-Cívitas,  Madrid,
 última edición
 
 Parte   Derecho  Civil  Beltrán  Sánchez/Orduña  Moreno  (dir.)  Curso  de  Derecho  privado  Tirant  lo  Blanch.
@@ -36,15 +36,12 @@ introducción   al   Derecho   Dykinson.   Última   edición   Lasarte   Curso 
 Introducción al Derecho Tecnos. Última edición
 
 Parte Derecho Civil Moreno Quesada y otros, Derecho civil patrimonial. Conceptos y normativa básica,
-Comares.   Última   edición   Parte   Derecho   Tributario   Juan   López  Martínez,  José  Manuel  Pérez  Lara,
-Antonio   Damas   Serrano.   Tirant   Lo   Blanch.   Última  edición  Sánchez  Galiana  (dir.)  Manual  de  Parte
-General   del   Derecho   Tributario.   Ed.   Godel   Impresiones   Digitales  Granada.  Última  edición  Parte
-Derecho Mercantil Bercovitz Rodríguez-Cano, A.,Apuntes de Derecho mercantil, Thomson-Aranzadi, Cizur
-Menor (Navarra), última edición
-
-Parte   Derecho   Mercantil   Pérez-Serrabona   González,  J.L.  (dir.),  Derecho  Mercantil  para  Relaciones
-Laborales   y   Recursos   Humanos  y  para  Administración  y  Dirección  de  Empresas.  Material  de  estudio  y
-trabajo, Avicam, Granada. Última edición
+Comares.   Última   edición   Parte   Derecho   Tributario   Manual   Práctico  de  Derecho  Tributario.  Parte
+General,   Ernesto   Eseverri   Martínez,   Juan   López   Martínez,  José  Manuel  Pérez  Lara,  Antonio  Damas
+Serrano. Tirant Lo Blanch. Última edición Sánchez Galiana (dir.) Manual de Parte General del Derecho
+Tributario.   Ed.   Godel   Impresiones   Digitales   Granada.   Última   edición   Parte   Derecho  Mercantil
+Bercovitz   Rodríguez-Cano,  A.,Apuntes  de  Derecho  mercantil,  Thomson-Aranzadi,  Cizur  Menor  (Navarra),
+última edición
 
 Parte   Derecho   Tributario   Calvo   Ortega,   “Curso  de  Derecho  Financiero.  Tomo  I.  Derecho  tributario
 (Parte   general)”,   ThomsonCivitas.   Última  edición  Cazorla  Prieto,  Derecho  Financiero  y  Tributario.
@@ -70,19 +67,27 @@ Vila Tierno, Manual de Derecho del Trabajo, Comares, Granada. Última edición P
 Pérez-Serrabona   González,   J.L.   (dir.),   Derecho   Mercantil   para   Relaciones  Laborales  y  Recursos
 Humanos y para Administración y Dirección de Empresas
 
-Pérez-Serrabona   González,   J.L.  (coord.),Derecho  Mercantil  I,  Material  de  estudio  y  Sánchez  Calero,
-F.,Principios de Derecho Mercantil, Thomson-Aranzadi, Cizur Menor (Navarra), última edición
+Pérez-Serrabona   González,  J.L.  (coord.),Derecho  Mercantil  I,  Material  de  estudio  y  Cuaderno  para  el
+trabajo autónomo del alumno, Avicam, Granada, última edición
+
+Pérez-Serrabona   González,   J.L.   (dir.),   Derecho   Mercantil   para   Relaciones  Laborales  y  Recursos
+Humanos   y   para   Administración   y   Dirección   de   Empresas.  Material  de  estudio  y  trabajo,  Avicam,
+Granada. Última edición
+
+Sánchez   Calero,  F.,Principios  de  Derecho  Mercantil,  Thomson-Aranzadi,  Cizur  Menor  (Navarra),  última
+edición
 
 Uría,R.,Derecho mercantil, Marcial Pons, Madrid, última edición
 
 Vicent   Chuliá,   F.,Introducción   al   Derecho   mercantil,  tomo  I,  Tirant  lo  Blanch,  Valencia,  última
 edición
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Última   edición  Parte  Derecho  Tributario  Calvo  Ortega,  “Curso  de  Derecho  Financiero.  Tomo  I.  Derecho
+tributario   (Parte   general)”,   ThomsonCivitas.   Última  edición  Cazorla  Prieto,  Derecho  Financiero  y
+Tributario.   Parte   General.   Edt.   ThonsomAranzadi.   Última   edición   Ferreiro   Lapatza,  José  Juan,
+Instituciones de Derecho Financiero, Marcial Pons
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (28):
 ------------------------------
 Agencia Estatal del Boletín Oficial del Estado o Colección de Códigos Electrónicos de Legislación
 
@@ -107,13 +112,11 @@ Collado Yurrita, Derecho Financiero. Parte General. Ed. Atelier. Barcelona. Últ
 
 Díez Picazo y Gullón Instituciones de Derecho civil, vol. I y II Tecnos. Última edición
 
-Editorial Aranzadi: Ley General Tributaria y sus Reglamentos
-
 Editorial La Ley: Código Tributario
 
 Editorial Tecnos: Ley General Tributaria y normas complementarias
 
-Ferreiro Lapatza, José Juan, Instituciones de Derecho Financiero, Marcial Pons. Última edición
+Editorial Tirant Lo Blanch: La Ley General Tributaria y sus Reglamentos de desarrollo
 
 LEGISLACIÓN:   La   consulta  de  la  legislación  positiva  vigente  resulta  imprescindible  para  el  estudio
 de la asignatura. Existen numerosas colecciones de legislación financiera y tributaria en el mercado
@@ -144,30 +147,24 @@ Editorial: Lex Nova. Última edición
 
 Ministerio de Hacienda: Leyes Tributarias. Recopilación Normativa Normativa Básica
 
-Monereo   Pérez,  Molina  Navarrete,  Moreno  Vida  y  Vila  Tierno,  Manual  de  Derecho  del  Trabajo,  Comares,
-Granada. Última edición
-
 Moreno   Quesada   y   otros,   Derecho  civil  patrimonial.  Conceptos  y  normativa  básica,  Comares.  Última
 edición
 
 Parte Derecho Civil Moreno Quesada y otros, Derecho civil patrimonial. Conceptos y normativa básica,
 Comares. Última edición
 
-Parte   Derecho   Tributario   Manual   Práctico   de  Derecho  Tributario.  Parte  General,  Ernesto  Eseverri
-Martínez,   Juan   López   Martínez,   José   Manuel  Pérez  Lara,  Antonio  Damas  Serrano.  Tirant  Lo  Blanch.
-Última   edición   Sánchez   Galiana   (dir.)   Manual  de  Parte  General  del  Derecho  Tributario.  Ed.  Godel
-Impresiones Digitales Granada. Última edición
+Parte Derecho Mercantil
+
+Parte   Derecho   Mercantil   Pérez-Serrabona   González,  J.L.  (dir.),  Derecho  Mercantil  para  Relaciones
+Laborales   y   Recursos   Humanos  y  para  Administración  y  Dirección  de  Empresas.  Material  de  estudio  y
+trabajo, Avicam, Granada. Última edición
 
 Parte   Derecho   del   Trabajo  y  de  la  Seguridad  Social  Monereo  Pérez,  Molina  Navarrete,  Moreno  Vida  y
 Vila Tierno, Manual de Derecho del Trabajo, Comares, Granada. Última edición
 
 Pérez Royo, Derecho Financiero y Tributario. Parte General, Thomson-Civitas, Madrid. Última edición
 
-Pérez-Serrabona   González,  J.L.  (coord.),Derecho  Mercantil  I,  Material  de  estudio  y  Cuaderno  para  el
-trabajo autónomo del alumno, Avicam, Granada, última edición
+Sánchez   Galiana   (dir.)   Manual   de   Parte   General   del   Derecho  Tributario.  Ed.  Godel  Impresiones
+Digitales Granada. Última edición
 
-Pérez-Serrabona   González,   J.L.   (dir.),   Derecho   Mercantil   para   Relaciones  Laborales  y  Recursos
-Humanos   y   para   Administración   y   Dirección   de   Empresas.  Material  de  estudio  y  trabajo,  Avicam,
-Granada. Última edición
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 63% [██████░░░░]

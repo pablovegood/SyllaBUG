@@ -2,12 +2,15 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
+A.   Asor   Rosa.   Scrittori   e  popolo.  Il  populismo  nella  letteratura  italiana  contemporanea.  Torino,
+Einaudi, 1988
+
 C. Segre. Principios de análisis del texto literario. Barcelona, E. Crítica, 1985
 
 D. Bennati, P. Italia. Scrivere tesi e tesine all'università. Milano, Mondadori Education, 2013
@@ -45,15 +48,10 @@ letteratura italiana contemporanea, 2 voll. Torino, Loescher, 1985
 V.   Peña   Sánchez.   Intelectuales   y   fascismo.   La   cultura   italiana   del   Ventennio  fascista  y  su
 repercusión. Granada, EUG, 1993
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Torino, Einaudi, 1988  →  C. Segre, Tempo di bilanci. La fine del Novecento. Torino, Einaudi, 2005
-
-✅ Recursos añadidos:
-------------------------------
-A.   Asor   Rosa.   Scrittori   e  popolo.  Il  populismo  nella  letteratura  italiana  contemporanea.  Torino,
-Einaudi, 1988
-
 A. Casadei. Il Novecento. Bologna, Il Mulino, 2014
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+C. Segre, Tempo di bilanci. La fine del Novecento. Torino, Einaudi, 2005
+
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

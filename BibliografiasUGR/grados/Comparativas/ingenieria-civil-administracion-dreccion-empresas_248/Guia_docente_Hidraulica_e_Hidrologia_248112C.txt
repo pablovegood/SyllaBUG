@@ -2,11 +2,14 @@
 Grado: ingenieria-civil-administracion-dreccion-empresas (248)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Ortiz,   P.  (2019)  Lecciones  de  Hidráulica.  Teoría  y  aplicaciones.  Séptima  edición.  Editorial  Técnica
+AVICAM, Granada. ISBN: 978-84-17628-61-1
 
-📚 Recursos sin cambios:
+White, F. (2005) Mecánica de Fluidos. McGraw-Hill Liggett, J. (1994) Fluid Mechanics. McGraw-Hill
+
+📚 Recursos sin cambios (4):
 ------------------------------
 Chow, V.T. (1983) Hidráulica de Canales Abiertos. Diana
 
@@ -18,17 +21,13 @@ Granada. ISBN: 978-84-18147-31-9
 Nanía,   L.S.;   Ortiz,   P.;   Ortega,   M.   (2014)   Ingeniería  Hidráulica.  Problemas  Resueltos.  Segunda
 Edición. Editorial Técnica AVICAM, Granada. ISBN: 978-84-942242-70
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Ortiz,   P.  (2019)  Lecciones  de  Hidráulica.  Teoría  y  aplicaciones.  Séptima  edición.  Editorial  Técnica
-AVICAM,   Granada.   ISBN:   978-84-17628-61-1   →   Ortiz,   P.   (2024)  Lecciones  de  Hidráulica.  Teoría  y
-aplicaciones. Octava edición. Editorial Técnica AVICAM, Granada. ISBN: 978-84-10081-61-1
-
-White,   F.  (2005)  Mecánica  de  Fluidos.  McGraw-Hill  Liggett,  J.  (1994)  Fluid  Mechanics.  McGraw-Hill  →
 Liggett, J. (1994) Fluid Mechanics. McGraw-Hill
 
-✅ Recursos añadidos:
-------------------------------
+Ortiz,   P.   (2024)  Lecciones  de  Hidráulica.  Teoría  y  aplicaciones.  Octava  edición.  Editorial  Técnica
+AVICAM, Granada. ISBN: 978-84-10081-61-1
+
 White, F. (2005) Mecánica de Fluidos. McGraw-Hill
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 71% [███████░░░]

@@ -2,21 +2,38 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+● Chudova, Bogdan. (1980) Rusia y el Oriente de Europa. ● Данилевский, Н. Я. (1991) Россия и Европа.
+Москва
 
-📚 Recursos sin cambios:
+●   De   Segur,   Philipe.(2009)   La   derrota   de  Napoleón  en  Rusia.  Barcelona.  Duomo.  ●  Гумилев,  Л.  Н.
+(1992) От Руси к России. Москва. ● Колл. Авторов. (1998) Очерки истории и культуры славян. Москва. ●
+Колл. Авторов. (1998) Очерки славянских литератур. Москва
+
+●   Pretel,   Damián   (2005)   Civilización   de   los   pasos   perdidos.  Ediciones  de  la  Torre.  Madrid.  ●
+Семенникова,   Л.   И.  (1994)  Россия  в  мировом  сообшестве  цивилизаций.  Москва.  Интерпракс.  ●  Троицкий,
+М. (1998) Русско-славянская цивилизация. Москва
+
+●   Матвеев,   Г.   Ф.,   Ненашевая,   З.   Н.  (1998)  История  южных  и  западных  славян.  Москва.  МГУ  ●  Muñoz
+Alonso,   Alejandro.   (2007)  La  Rusia  de  los  zares.  Madrid.  Espasa.  ●  Орлова,  И.Б.  (1998)  Евразийская
+цивилизация. Москва
+
+📚 Recursos sin cambios (2):
 ------------------------------
 ● Carretero, Juan Manuel. (1985). Pedro el Grande. Cuadernos historia 16. Madrid
 
+● Zietala, Grzegorz (2009) Geografía humana y económica de Rusia en Ejercicios. Rzeszow
+
+✅ Recursos añadidos (12):
+------------------------------
 ● Chudova, Bogdan. (1980) Rusia y el Oriente de Europa
 
 ● De Segur, Philipe.(2009) La derrota de Napoleón en Rusia. Barcelona. Duomo
 
-● Pretel, Damián (2005) Civilización de los pasos perdidos. Ediciones de la Torre. Madrid
+● Muñoz Alonso, Alejandro. (2007) La Rusia de los zares. Madrid. Espasa
 
-● Zietala, Grzegorz (2009) Geografía humana y económica de Rusia en Ejercicios. Rzeszow
+● Pretel, Damián (2005) Civilización de los pasos perdidos. Ediciones de la Torre. Madrid
 
 ● Гумилев, Л. Н. (1992) От Руси к России. Москва
 
@@ -26,20 +43,12 @@ No hay elementos.
 
 ● Колл. Авторов. (1998) Очерки славянских литератур. Москва
 
+● Матвеев, Г. Ф., Ненашевая, З. Н. (1998) История южных и западных славян. Москва. МГУ
+
 ● Орлова, И.Б. (1998) Евразийская цивилизация. Москва
 
 ● Семенникова, Л. И. (1994) Россия в мировом сообшестве цивилизаций. Москва. Интерпракс
 
 ● Троицкий, М. (1998) Русско-славянская цивилизация. Москва
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-●   Матвеев,   Г.   Ф.,   Ненашевая,   З.   Н.  (1998)  История  южных  и  западных  славян.  Москва.  МГУ  ●  Muñoz
-Alonso,   Alejandro.   (2007)   La   Rusia   de   los   zares.   Madrid.  Espasa  →  ●  Muñoz  Alonso,  Alejandro.
-(2007) La Rusia de los zares. Madrid. Espasa
-
-✅ Recursos añadidos:
-------------------------------
-● Матвеев, Г. Ф., Ненашевая, З. Н. (1998) История южных и западных славян. Москва. МГУ
-
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -2,30 +2,13 @@
 Grado: fisioterapia (241)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (1):
 ------------------------------
 Enrique   Gómez   Barrena.   Tratado   SECOT   de  cirugía  ortopédica  y  traumatología.  Barcelona  (España):
-Editorial Elsevier. 2020
+Editorial   Elsevier.   2020.   MANUAL   DE   TRAUMATOLOGIA   Y   ORTOPEDIA   (8ª  ED.)  MARC  F.  SWIONTKOWSKI.
+Barcelona (España) Editorial LIPPINCOTT WILLIAMS AND WILKINS. 2021
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Panamericana.   Carranza   Bencano   A,   Carpintero   Benitez  P,  mendez  Pérez  L,  Prados  Olleta  N,  Sueiro
-Fernández   J.  Traumatología  y  Cirugía  Ortopédica.  1a  edición.  Sevilla:  Editorial  Círculo  Rojo.  2014.
-Granada:   Editorial   Avicam.   2014.   Joshua   Cleland   &   Shane   Koppenhaver   &   Jonathan  Su.  Netter.
-Exploración clínica en ortopedia 3 edition. 2018. McRae. Traumatología: tratamiento de las fracturas
-en   urgencias   (3ª  ed.)  2017.Elsevier  España  →  McRae.  Traumatología:  tratamiento  de  las  fracturas  en
-urgencias (3ª ed.) 2017.Elsevier España
-
-MANUAL   DE   TRAUMATOLOGIA   Y   ORTOPEDIA   (8ª  ED.)  MARC  F.  SWIONTKOWSKI.  Barcelona  (España)  Editorial
-LIPPINCOTT    WILLIAMS    AND    WILKINS.    2021    Seco   Calvo   J.   Afecciones   Medicoquirúrgicas   para
-Fisioterapéutas.   Médica   Panamericana;   2017  →  MANUAL  DE  TRAUMATOLOGIA  Y  ORTOPEDIA  (8ª  ED.)  MARC  F.
-SWIONTKOWSKI. Barcelona (España) Editorial LIPPINCOTT WILLIAMS AND WILKINS. 2021
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (6):
 ------------------------------
 Carranza   Bencano   A,   Carpintero   Benitez   P,   mendez  Pérez  L,  Prados  Olleta  N,  Sueiro  Fernández  J.
 Traumatología y Cirugía Ortopédica. 1a edición. Sevilla: Editorial Círculo Rojo. 2014
@@ -38,6 +21,16 @@ Editorial Avicam. 2014
 Joshua   Cleland   &   Shane   Koppenhaver   &   Jonathan   Su.   Netter.  Exploración  clínica  en  ortopedia  3
 edition. 2018
 
+McRae. Traumatología: tratamiento de las fracturas en urgencias (3ª ed.) 2017.Elsevier España
+
 Seco Calvo J. Afecciones Medicoquirúrgicas para Fisioterapéutas. Médica Panamericana; 2017
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Enrique   Gómez   Barrena.   Tratado   SECOT   de  cirugía  ortopédica  y  traumatología.  Barcelona  (España):
+Editorial Elsevier. 2020
+
+MANUAL   DE   TRAUMATOLOGIA   Y   ORTOPEDIA   (8ª  ED.)  MARC  F.  SWIONTKOWSKI.  Barcelona  (España)  Editorial
+LIPPINCOTT WILLIAMS AND WILKINS. 2021
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

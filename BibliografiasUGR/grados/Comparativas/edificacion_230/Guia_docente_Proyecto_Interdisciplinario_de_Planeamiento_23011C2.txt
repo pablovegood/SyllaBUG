@@ -2,20 +2,7 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-En   ”Organización  y  Gestión  de  Proyectos  y  Obras”  Mc  Graw  Hill  ,  pp.  133  -  164  LISTA  y  su  Reglamento
-Gómez   Delgado,   M.   y   Barredo   Cano,   J.I.   (2005):   “Sistemas   de  Información  geográfica  y  habrán
-proporcionado durante las clases presenciales
-
-Ferrando   Corell,   José   V.  (2011):  “Valoración  de  inmuebles  de  naturaleza  urbana  /  José  V.  Ferrando
-Corell”.Universidad Politécnica de Valencia, 2011
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (2):
 ------------------------------
 Ferrando   Corell”.Universidad   Politécnica   de   Valencia,   2011   Gutiérrez,   J.   y  Gould,  m.  (1994):
 “S.I.G.:   Sistemas   de   Información   Geográfica”.   Madrid,   Ed.   Síntesis  Moreno  Jiménez,  A.  (2006):
@@ -23,17 +10,23 @@ Ferrando   Corell”.Universidad   Politécnica   de   Valencia,   2011   Gutié
 práctica   del   Urbanismo”.   Ed.   Síntesis   Pérez   Igualada,   Javier   (2007):  “Elementos  del  proyecto
 urbano”.   Universidad   Politécnica  de  Valencia,  Rodríguez,  Molero,  y  Grindlay  (2012):  “Aplicación  de
 las   TICs   a   la   enseñanza   del   Urbanismo   y  la  Ordenación  del  Territorio  en  la  Ingeniería  civil”.
-Digibug.   Universidad   de   Granada  →  Rodríguez,  Molero,  y  Grindlay  (2012):  “Aplicación  de  las  TICs  a
-la   enseñanza   del   Urbanismo   y   la   Ordenación   del   Territorio   en  la  Ingeniería  civil”.  Digibug.
-Universidad de Granada
+Digibug. Universidad de Granada
+
+Madrid   :   El   Consultor   de   los  Ayuntamientos  y  de  los  Juzgados,  2012  Valenzuela,  L.,  Molero,  E.  y
+Aguilera, F. (2006): Los Sistemas de Información Geográfica
+
+📚 Recursos sin cambios (3):
+------------------------------
+En   ”Organización   y   Gestión   de   Proyectos   y   Obras”  Mc  Graw  Hill  ,  pp.  133  -  164  LOUA  LISTA  y  su
+Reglamento Gómez Delgado, M. y Barredo Cano, J.I. (2005): “Sistemas de Información geográfica y
+
+Ferrando   Corell,   José   V.  (2011):  “Valoración  de  inmuebles  de  naturaleza  urbana  /  José  V.  Ferrando
+Corell”.Universidad Politécnica de Valencia, 2011
 
 Santos   Díez,   Ricardo   (2012):   “Derecho  urbanístico:  manual  para  juristas  y  técnicos”.  Madrid  :  El
-Consultor   de   los   Ayuntamientos   y  de  los  Juzgados,  2012  Valenzuela,  L.,  Molero,  E.  y  Aguilera,  F.
-(2006):    Los    Sistemas    de   Información   Geográfica   →   Santos   Díez,   Ricardo   (2012):   “Derecho
-urbanístico:   manual   para  juristas  y  técnicos”.  Madrid  :  El  Consultor  de  los  Ayuntamientos  y  de  los
-Juzgados, 2012
+Consultor de los Ayuntamientos y de los Juzgados, 2012
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (11):
 ------------------------------
 Aplicaciones en diagnósticos territoriales y decisiones medioambientales.” Ed. Ra-Ma
 
@@ -55,7 +48,10 @@ Moya, Luis (Coord) (2011): “La práctica del Urbanismo”. Ed. Síntesis
 
 Pérez Igualada, Javier (2007): “Elementos del proyecto urbano”. Universidad Politécnica de Valencia
 
+Rodríguez,   Molero,   y   Grindlay   (2012):   “Aplicación  de  las  TICs  a  la  enseñanza  del  Urbanismo  y  la
+Ordenación del Territorio en la Ingeniería civil”. Digibug. Universidad de Granada
+
 Valenzuela,   L.,   Molero,   E.   y   Aguilera,   F.   (2006):   Los  Sistemas  de  Información  Geográfica.  En
 ”Organización y
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 92% [█████████░]

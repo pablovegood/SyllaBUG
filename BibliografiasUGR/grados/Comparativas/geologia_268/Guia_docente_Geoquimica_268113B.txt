@@ -2,14 +2,20 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Albarède, F. (1996). Introduction to geochemical modeling. Cambridge University Press Allègre, C. J.
+(2008). Isotope Geology. Cambridge University Press
 
-📚 Recursos sin cambios:
+Le   Maitre   R.   W.   (1982).Numerical   Petrology.   Statistical   Interpretation   of   Geochemical  Data.
+Developments   in   Petrology   vol   8.   Elsevier   Marshall   C.   P.   &  Fairbridge,  R.  W.  (eds.)  (1999).
+Encyclopedia of Geochemistry. Kluwer Academic Publishers
+
+Wilson,   M.   (1989).   Igneous  Petrogenesis.  Springer  Winter,  J.  D.  (2014).  Principles  of  Igneous  and
+Metamorphic Petrology. Pearson Education Limited
+
+📚 Recursos sin cambios (37):
 ------------------------------
-Albarède, F. (1996). Introduction to geochemical modeling. Cambridge University Press
-
 Albarède, F. (2009). Geochemistry: an introduction. Cambridge University Press
 
 Anderson, G. M. & D. A. Crerar (1993). Thermodynamics in Geochemistry: the Equilibrium Model. Oxford
@@ -92,28 +98,20 @@ White, W. M. (ed.) (2018). Encyclopedia of Geochemistry. Springer
 
 Zhou, H. (2007). Quantitative Geochemistry. Imperial College Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Le   Maitre   R.   W.   (1982).Numerical   Petrology.   Statistical   Interpretation   of   Geochemical  Data.
-Developments   in   Petrology   vol   8.   Elsevier   Marshall   C.   P.   &  Fairbridge,  R.  W.  (eds.)  (1999).
-Encyclopedia   of   Geochemistry.   Kluwer   Academic   Publishers   →   Le   Maitre   R.  W.  (1982).Numerical
-Petrology. Statistical Interpretation of Geochemical Data. Developments in Petrology vol 8. Elsevier
+Albarède, F. (1996). Introduction to geochemical modeling. Cambridge University Press
 
-Albarède, F. (1996). Introduction to geochemical modeling. Cambridge University Press Allègre, C. J.
-(2008).   Isotope   Geology.   Cambridge   University   Press   →   Albarède,   F.   (1996).   Introduction  to
-geochemical modeling. Cambridge University Press
-
-Wilson,   M.   (1989).   Igneous  Petrogenesis.  Springer  Winter,  J.  D.  (2014).  Principles  of  Igneous  and
-Metamorphic   Petrology.   Pearson  Education  Limited  →  Winter,  J.  D.  (2014).  Principles  of  Igneous  and
-Metamorphic Petrology. Pearson Education Limited
-
-✅ Recursos añadidos:
-------------------------------
 Allègre, C. J. (2008). Isotope Geology. Cambridge University Press
+
+Le   Maitre   R.   W.   (1982).Numerical   Petrology.   Statistical   Interpretation   of   Geochemical  Data.
+Developments in Petrology vol 8. Elsevier
 
 Marshall   C.   P.   &   Fairbridge,   R.  W.  (eds.)  (1999).  Encyclopedia  of  Geochemistry.  Kluwer  Academic
 Publishers
 
 Wilson, M. (1989). Igneous Petrogenesis. Springer
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+Winter, J. D. (2014). Principles of Igneous and Metamorphic Petrology. Pearson Education Limited
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

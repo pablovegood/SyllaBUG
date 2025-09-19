@@ -2,28 +2,18 @@
 Grado: fisioterapia-melilla (541)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Aran, 2006 MARTINEZ GIL: Poleas y suspensiones en la actividad física y la fisioterapia. Ed
 
-📚 Recursos sin cambios:
+AránEdiciones,   S.L.   España.2008   VVAA.   Kinesiterapia-Medicina   física   (4   tomos).Enciclopedia
+médico-quirúrgica. Editorial Praxis Médica. Elsevier. París. 2002
+
+📚 Recursos sin cambios (4):
 ------------------------------
 A   MELIAN.;   C.   FERNÁNDEZ   DE   LAS   PEÑAS,:   "Cinesiterapia.   Bases   fisiológicas   y  aplicación
 práctica".Ed. Elsevier. Madrid. 2013
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-AránEdiciones,   S.L.   España.2008   VVAA.   Kinesiterapia-Medicina   física   (4   tomos).Enciclopedia
-médico-quirúrgica.   Editorial   Praxis   Médica.   Elsevier.   París.   2002   →   VVAA.  Kinesiterapia-
-Medicina   física   (4   tomos).Enciclopedia   médico-quirúrgica.  Editorial  Praxis  Médica.  Elsevier.
-París. 2002
-
-Aran,   2006   MARTINEZ   GIL:   Poleas   y   suspensiones  en  la  actividad  física  y  la  fisioterapia.  Ed  →
-MARTINEZ   GIL:   Poleas  y  suspensiones  en  la  actividad  física  y  la  fisioterapia.  Ed.  AránEdiciones,
-S.L. España.2008
-
-✅ Recursos añadidos:
-------------------------------
 GENOT, C.; NEIGER, H.; LEROY, A.: Kinesioterapia (I y II). Ed. Panamericana
 
 IGUAL,   C.;   MUÑOZ,   E.   y   ARAMBURU,   C.:  Fisioterapia  General:  cinesiterapia.  Ed.  Síntesis,  S.A.
@@ -31,4 +21,12 @@ Madrid
 
 MARTÍNEZ GIL J.L., MARTÍNEZ CAÑADAS J. Tracción vertebral y fisioterapia. Madrid: Ed. Aran, 2006
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+MARTINEZ   GIL:   Poleas  y  suspensiones  en  la  actividad  física  y  la  fisioterapia.  Ed.  AránEdiciones,
+S.L. España.2008
+
+VVAA.   Kinesiterapia-Medicina   física   (4  tomos).Enciclopedia  médico-quirúrgica.  Editorial  Praxis
+Médica. Elsevier. París. 2002
+
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

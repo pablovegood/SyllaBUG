@@ -2,11 +2,11 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (39):
 ------------------------------
 ALLEN, R.C. (2013): Historia Económica Mundial: Una breve introducción. Alianza Editorial. Madrid
 
@@ -35,6 +35,10 @@ University Press. N. J
 
 COMIN,   F.:   HERNANDEZ,   M.   y   LLOPIS,   E.   (ed),   (2010):  Historia  Económica  Mundial,  siglos  X-XX,
 Barcelona. Crítica
+
+En   cada   sesión   de   clase   teórica  y/o  práctica  se  recomendarán  algunos  artículos  y/o  capítulos  de
+libros   relacionados   con   el  tema  o  caso  práctico  analizado.  Las  reseñas  de  dichas  lecturas  junto  a
+las prácticas realizadas en clase se computarán en la evaluación del componente práctico
 
 FELIU,   G.   y   SUDRIA,   C.   (2007):   Introducción   a   la   Historia  Económica  Mundial.  Universidad  de
 Valencia. Valencia
@@ -79,6 +83,10 @@ MORILLA CRITZ, J. y REYES MESA, J.M. (2021): Los fundamentos de las grandes cris
 
 NADAL, J. (1975): El fracaso de la Revolución Industrial en España, 1814-1913. Ed. Ariel. Barcelona
 
+NORTH, D. (1993): Instituciones, cambio institucional y desempeño económico. México, FCC
+
+PIKETTY, T. (2014): El capital en el siglo XXI. FCC. Madrid
+
 POLLARD,   S.   (1991):   La   conquista   pacífica.   La   industrialización  de  Europa,  1760-1970.  Prensas
 Universitarias de Zaragoza. Zaragoza
 
@@ -95,20 +103,8 @@ VILAR, P. y otros (1981): La industrialización europea. Estadios y tipos. Ed. C
 
 ZAGMANI, V. (2010): Historia Económica de la Europa contemporánea. Crítica. Barcelona
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-NORTH,   D.   (1993):   Instituciones,   cambio  institucional  y  desempeño  económico.  México,  PIKETTY,  T.
-(2014):   El   capital   en  el  siglo  XXI.  FCC.  Madrid  →  PIKETTY,  T.  (2014):  El  capital  en  el  siglo  XXI.
-FCC. Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 Bibliografía básica
 
-En   cada   sesión   de   clase   teórica  y/o  práctica  se  recomendarán  algunos  artículos  y/o  capítulos  de
-libros   relacionados   con   el  tema  o  caso  práctico  analizado.  Las  reseñas  de  dichas  lecturas  junto  a
-las prácticas realizadas en clase se computarán en la evaluación del componente práctico
-
-NORTH, D. (1993): Instituciones, cambio institucional y desempeño económico. México, FCC
-
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]

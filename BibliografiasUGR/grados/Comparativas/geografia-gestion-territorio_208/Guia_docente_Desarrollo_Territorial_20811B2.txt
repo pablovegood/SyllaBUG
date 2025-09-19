@@ -2,11 +2,18 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+MENDEZ,   R.   (2002):   “Innovación  y  desarrollo  territorial:  algunos  debates  teóricos  recientes”  EURE
+(Santiago),   vol.   28,   no.   84,   pp.   63-83.   Disponible  en:  http://www.eure.cl/  numero/innovacion-
+ydesarrolloterritorial-algunos-debates-teoricos-recientes/    MÉNDEZ,    R.    (2013):   Estrategias   de
+innovación   para   el  desarrollo  y  la  resiliencia  de  ciudades  medias.  Documents  d'anàlisi  geogràfica,
+ISSN 0212-1573, Vol. 59, Nº 3
 
-📚 Recursos sin cambios:
+SAAVEDRA,   J.,   ZAPATA,  V.  y  LEGNA,  C.  (2005),  Lecciones  para  la  actualización  técnica  en  desarrollo
+local, Sociedad de Desarrollo de Santa Cruz de Tenerife. VÁZQUEZ BARQUERO, A. (2007)
+
+📚 Recursos sin cambios (21):
 ------------------------------
 BOLETÍN DE LA ASOCIACIÓN DE GEÓGRAFOS ESPAÑOLES (2005): Desarrollo Territorial Sostenible en España:
 experiencias de cooperación, nº 39
@@ -18,6 +25,10 @@ COMISION   EUROPEA   (1999):   ETE:   Estrategia   Territorial  Europea:  hacia 
 sostenible   del   territorio   de   la   UE,   Luxemburgo,   Oficina   de   Publicaciones  de  las  Comunidades
 Europeas, 106 pp
 
+EXTEZARRETA,   M.   y   Otros   (2005):   Por  una  política  democrática  frente  al  dominio  de  los  mercados.
+Propuestas    para    una    estrategia    integrada    de    desarrollo    en    Europa.    Disponible    en:
+http://www.fpereardiaca.org/llibres/Euromemorandum_2005.pdf
+
 FARINOS,   J.  /  J.  ROMERO  /  J.  SALOM,  (Eds.)  (2009):  Cohesión  e  inteligencia  territorial.  Dinámicas  y
 procesos   para   una   mejor   planificación   y   toma  de  decisiones.  Publicaciones  de  la  Universidad  de
 Valencia
@@ -26,6 +37,9 @@ FRUTOS,   L.M.   y   RUÍZ,   E.   (Eds.)  (2006):  Estrategias  territoriales  
 Institución Fernando el Católico. Diputación de Zaragoza
 
 KRUGMAN, P. (1995): Development, Geography and Economic Theory. The MIT Press
+
+MACCALLUM, D. (ed.) (2009): Social innovation and territorial development, Ashgate Publishing Group,
+United Kingdom, Hardback, 190 pp
 
 MURGA, M.A. (2006): “Desarrollo local y Agenda 21”. Pearson Prentice Hall. Madrid
 
@@ -58,34 +72,17 @@ territorial   en   España.   Boletín   de   la   Asociación   de  Geógrafos 
 RUEDA,   S.   (2000):   “La   informació:   una   estrategia   urbana   per  competir”.  Els  Monografics  1,  de
 Barcelona Metrópolis Mediterránea, 2000 (pp.58‐71)
 
+Sociedad de Desarrollo de Santa Cruz de Tenerife. VÁZQUEZ BARQUERO, A. (2007). «Desarrollo endógeno.
+Teorías y políticas de desarrollo territorial», Investigaciones Regionales, 11, pp .183-210
+
 ZAPATA, V.M. (2001): La dimensión técnica en el desarrollo territorial: estructuras, profesionales y
 metodologías, Universitat Jaume I, Castelló
 
-🔁 Misma obra con edición/año distinto:
+en: http://www.fpereardiaca.org/llibres/Euromemorandum_2005.pdf FERIA, J.M., GARCÍA, A., OJEDA, J.F.
+(ed.) (2009): Territorios, sociedades y políticas, Universidad Pablo de Olavide-AGE, Sevilla
+
+✅ Recursos añadidos (3):
 ------------------------------
-SAAVEDRA,   J.,   ZAPATA,  V.  y  LEGNA,  C.  (2005),  Lecciones  para  la  actualización  técnica  en  desarrollo
-local,   Sociedad   de   Desarrollo   de  Santa  Cruz  de  Tenerife.  VÁZQUEZ  BARQUERO,  A.  (2007)  →  SAAVEDRA,
-J., ZAPATA, V. y LEGNA, C. (2005), Lecciones para la actualización técnica en desarrollo local
-
-MACCALLUM, D. (ed.) (2009): Social innovation and territorial development, Ashgate Publishing Group,
-United Kingdom, Hardback, 190 pp. numero/innovacion-ydesarrolloterritorial-algunos-debates-teoricos-
-recientes/   MÉNDEZ,   R.   (2013):   Estrategias   de   innovación  para  el  desarrollo  y  la  resiliencia  de
-ciudades   medias.   Documents   d'anàlisi   geogràfica,   ISSN   0212-1573,  Vol.  59,  Nº  3  →  MACCALLUM,  D.
-(ed.)   (2009):   Social   innovation   and   territorial   development,   Ashgate  Publishing  Group,  United
-Kingdom, Hardback, 190 pp
-
-EXTEZARRETA,   M.   y   Otros   (2005):   Por  una  política  democrática  frente  al  dominio  de  los  mercados.
-Propuestas   para   una   estrategia  integrada  de  desarrollo  en  Europa.  Disponible  FERIA,  J.M.,  GARCÍA,
-A., OJEDA, J.F. (ed.) (2009): Territorios, sociedades y políticas, Universidad Pablo de Olavide-AGE,
-Sevilla   →   EXTEZARRETA,   M.   y   Otros  (2005):  Por  una  política  democrática  frente  al  dominio  de  los
-mercados.   Propuestas   para   una   estrategia   integrada   de   desarrollo   en   Europa.   Disponible  en:
-http://www.fpereardiaca.org/llibres/Euromemorandum_2005.pdf
-
-✅ Recursos añadidos:
-------------------------------
-FERIA,   J.M.,  GARCÍA,  A.,  OJEDA,  J.F.  (ed.)  (2009):  Territorios,  sociedades  y  políticas,  Universidad
-Pablo de Olavide-AGE, Sevilla
-
 MENDEZ,   R.   (2002):   “Innovación  y  desarrollo  territorial:  algunos  debates  teóricos  recientes”  EURE
 (Santiago),   vol.   28,   no.   84,   pp.   63-83.   Disponible   en:  http://www.eure.cl/numero/innovacion-
 ydesarrolloterritorial-algunos-debates-teoricos-recientes/
@@ -93,7 +90,7 @@ ydesarrolloterritorial-algunos-debates-teoricos-recientes/
 MÉNDEZ, R. (2013): Estrategias de innovación para el desarrollo y la resiliencia de ciudades medias.
 Documents d'anàlisi geogràfica, ISSN 0212-1573, Vol. 59, Nº 3
 
-Sociedad de Desarrollo de Santa Cruz de Tenerife. VÁZQUEZ BARQUERO, A. (2007). «Desarrollo endógeno.
-Teorías y políticas de desarrollo territorial», Investigaciones Regionales, 11, pp .183-210
+SAAVEDRA,   J.,   ZAPATA,  V.  y  LEGNA,  C.  (2005),  Lecciones  para  la  actualización  técnica  en  desarrollo
+local
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

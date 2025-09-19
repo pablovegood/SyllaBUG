@@ -2,11 +2,25 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+AENOR. Norma UNE 50-121-91. Métodos para el análisis de documentos, la determinación de su contenido
+y   la   selección  de  términos  de  indización.  Madrid,  AENOR,  1991  (ISO  5963-1985)  Gil  Leiva,  I:  Manual
+de   indización:   teoría  y  práctica.  Gijón:  Trea,  2008  Koltay,  T.  Abstracts  and  abstracting  :  a  genre
+and   set  of  skills  for  the  twenty-first  century.  Oxford,  Chandos  Publishing,  2010  Lancaster,  F.W.  El
+control del vocabulario en la recuperación de información. Trad
 
-📚 Recursos sin cambios:
+Moreiro,   J.   A.   El   contenido   de  los  documentos  textuales.  Gijon:  Trea,  2004  Pinto,  M.  El  resumen
+documental:   Paradigmas,   modelos   y   métodos.   Madrid,  Fundación  Germán  Sánchez  Ruipérez,  2001.  (2ª
+edición)   Pinto,   M.  Documentary  abstracting:  Toward  a  methodological  model.  Journal  of  the  American
+Society for Information Science, 1995, 46, pp. 225-234
+
+Pinto,   M.   Col.:   Mitre,   M.,   Doucet,   V.,   Sánchez,   Mª   J.:   Aprendiendo  a  resumir:  prontuario  y
+resolución   de   casos.   Gijón,   Trea,  2005  Pinto,  M.  Garcia,  J.,  Agustín,  C.  Indización  y  Resumen  de
+documentos   digitales   y   multimedia.  Técnicas  y  procedimientos.  Gijón:  Trea,  2002  Pinto,  M.,  Garcia
+Marco, J., Manso, R. La lectura digital en las bibliotecas públicas. Argentina: Alfagrama, 2014
+
+📚 Recursos sin cambios (6):
 ------------------------------
 AENOR. Norma UNE 50-103-90. Documentación. Preparación de resúmenes. Madrid, AENOR, 1990
 
@@ -20,43 +34,27 @@ Lancaster, F.W., Pinto, M. Procesamiento de la información científica. Madrid:
 
 Langridge, D. W. Subject analysis: principles and procedures. London [etc.]: Bowker-Saur, 1989
 
-Portal   FOLEC  sobre  lectura.  Disponible  en:  www.fomentolectura.es  Tenopir  ,  C.,  Jacso,  P.  Quality  of
-abstracts,   Online,   mayo   1993,   pp.   44-45   Van   Slype,   G.:   Los  lenguajes  de  indización.  Madrid:
-Fundación Germán Sánchez Ruiperez
+Portal   FOLEC   sobre   lectura.   Disponible  en:  www.fomentolectura.es  Portal  ALFINEEES.  Disponible  en
+http://www.mariapinto.es/alfineees/ Tenopir , C., Jacso, P. Quality of abstracts, Online, mayo 1993,
+pp. 44-45 Van Slype, G.: Los lenguajes de indización. Madrid: Fundación Germán Sánchez Ruiperez
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Pinto,   M.   Col.:   Mitre,   M.,   Doucet,   V.,   Sánchez,   Mª   J.:   Aprendiendo  a  resumir:  prontuario  y
-resolución   de   casos.   Gijón,   Trea,  2005  Pinto,  M.  Garcia,  J.,  Agustín,  C.  Indización  y  Resumen  de
-documentos   digitales   y   multimedia.  Técnicas  y  procedimientos.  Gijón:  Trea,  2002  Pinto,  M.,  Garcia
-Marco,   J.,   Manso,   R.  La  lectura  digital  en  las  bibliotecas  públicas.  Argentina:  Alfagrama,  2014  →
-Pinto,   M.,   Garcia   Marco,  J.,  Manso,  R.  La  lectura  digital  en  las  bibliotecas  públicas.  Argentina:
-Alfagrama, 2014
-
-AENOR.   Norma   UNE   50-121-91.   Métodos   para  el  análisis  de  documentos,  la  1991  (ISO  5963-1985)  Gil
-Leiva,   I:   Manual   de   indización:   teoría   y   práctica.  Gijón:  Trea,  2008  Koltay,  T.  Abstracts  and
-abstracting   :   a   genre  and  set  of  skills  for  the  twenty-first  century.  Oxford,  Chandos  Publishing,
-2010   Lancaster,   F.W.   El  control  del  vocabulario  en  la  recuperación  de  información.  Trad  →  Koltay,
-T.   Abstracts   and   abstracting   :   a   genre  and  set  of  skills  for  the  twenty-first  century.  Oxford,
-Chandos Publishing, 2010
-
-Pinto,   M.   El   resumen   documental:  Paradigmas,  modelos  y  métodos.  Madrid,  Fundación  Germán  Sánchez
-Ruipérez,   2001.   (2ª   edición)   Pinto,   M.   Documentary  abstracting:  Toward  a  methodological  model.
-Journal   of   the   American   Society   for   Information   Science,   1995,   46,   pp.  225-234  →  Pinto,  M.
-Documentary   abstracting:   Toward   a   methodological   model.   Journal   of   the   American  Society  for
-Information Science, 1995, 46, pp. 225-234
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (12):
 ------------------------------
 AENOR. Norma UNE 50-121-91. Métodos para el análisis de documentos, la determinación de su contenido
 y la selección de términos de indización. Madrid, AENOR, 1991 (ISO 5963-1985)
 
 Gil Leiva, I: Manual de indización: teoría y práctica. Gijón: Trea, 2008
 
+Koltay,   T.   Abstracts   and   abstracting   :   a  genre  and  set  of  skills  for  the  twenty-first  century.
+Oxford, Chandos Publishing, 2010
+
 Moreiro, J. A. El contenido de los documentos textuales. Gijon: Trea, 2004
 
 Pinto,   M.   Col.:   Mitre,   M.,   Doucet,   V.,   Sánchez,   Mª   J.:   Aprendiendo  a  resumir:  prontuario  y
 resolución de casos. Gijón, Trea, 2005
+
+Pinto,   M.   Documentary   abstracting:  Toward  a  methodological  model.  Journal  of  the  American  Society
+for Information Science, 1995, 46, pp. 225-234
 
 Pinto,   M.   El   resumen   documental:  Paradigmas,  modelos  y  métodos.  Madrid,  Fundación  Germán  Sánchez
 Ruipérez, 2001. (2ª edición)
@@ -64,10 +62,13 @@ Ruipérez, 2001. (2ª edición)
 Pinto,   M.   Garcia,   J.,   Agustín,   C.   Indización   y   Resumen  de  documentos  digitales  y  multimedia.
 Técnicas y procedimientos. Gijón: Trea, 2002
 
+Pinto,   M.,   Garcia   Marco,  J.,  Manso,  R.  La  lectura  digital  en  las  bibliotecas  públicas.  Argentina:
+Alfagrama, 2014
+
 Portal ALFINEEES. Disponible en http://www.mariapinto.es/alfineees/
 
-Tenopir, C., Jacso, P. Quality of abstracts, Online, mayo 1993, pp. 44-45
+Portal FOLEC sobre lectura. Disponible en: www.fomentolectura.es
 
 Van Slype, G.: Los lenguajes de indización. Madrid: Fundación Germán Sánchez Ruiperez, 1991
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 83% [████████░░]

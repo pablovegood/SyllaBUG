@@ -2,14 +2,17 @@
 Grado: educacion-infantil-ceuta (458)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-El   sistema   de   calificaciones   se   expresará   mediante   calificación   numérica   de   acuerdo  con  lo
-establecido en el artículo 5 del Real Decreto 1125/2003, de 5 de Septiembre, por el que se establece
-el   sistema  europeo  de  créditos  y  el  sistema  de  calificaciones  en  las  titulaciones  universitarias  de
-carácter oficial y validez en todo el territorio nacional
+HERNÁNDEZ   RÍOS,  M.  L.  y  PALMA,  A.  (2008).  “El  itinerario  histórico-artístico  como  recurso  didáctico
+para   el   estudio   de   la   ciudad”,  en:  Actas  del  I  Congreso  Internacional  de  Patrimonio  y  Expresión
+Gráfica.   Granada.HERNÁNDEZ   RÍOS,   M.   L.   (2010).   “Trabajar   el   Patrimonio  Histórico-Artístico  y
+Cultural   con   maestros   en   formación   de  Educación  Infantil”,  en  CiDd:  II  Congrés  Internacional  de
+Didáctiques.   L'activitat   del   docent:   intervenció,  innovació,  investigació.  Université  de  Genéve,
+Universitat   de   Girona,   RICO   NIETO,   J.  C.  (Ed.)  (2008).  Cómo  enseñar  el  objeto  cultural.  Madrid:
+Silex
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 ALONSO,   M.,   MATILLA,   L.   y   VÁZQUEZ,   M.   (1995).  Teleniños  públicos,  teleniños  privados.  Madrid:
 Ediciones de la Torre
@@ -41,6 +44,15 @@ pedagógicos, Vol. 32, nº 2, pp. 133-145
 FONTAL   MERILLAS,   O.   (2003).   La   educación   patrimonial.  Teoría  y  práctica  en  el  aula,  el  museo  e
 internet. Gijón: Trea
 
+RIVERO GARCÍA, M. P. (Coord.) (2011). Didáctica de las Ciencias Sociales para la Educación Infantil.
+Zaragoza: Mira
+
+SANTACANA MESTRE, J. y SERRAT ANTOLÍ, N. (Eds.) (2005). Museografía didáctica. Barcelona: Ariel
+
+VV. AA. (1998). Revista Comunicar: “La familia y los medios de comunicación”, nº. 10
+
+✅ Recursos añadidos (2):
+------------------------------
 HERNÁNDEZ   RÍOS,  M.  L.  y  PALMA,  A.  (2008).  “El  itinerario  histórico-artístico  como  recurso  didáctico
 para   el   estudio   de   la   ciudad”,  en:  Actas  del  I  Congreso  Internacional  de  Patrimonio  y  Expresión
 Gráfica.   Granada.HERNÁNDEZ   RÍOS,   M.   L.   (2010).   “Trabajar   el   Patrimonio  Histórico-Artístico  y
@@ -50,19 +62,4 @@ Universitat de Girona, Universidad de Granada
 
 RICO NIETO, J. C. (Ed.) (2008). Cómo enseñar el objeto cultural. Madrid: Silex
 
-RIVERO GARCÍA, M. P. (Coord.) (2011). Didáctica de las Ciencias Sociales para la Educación Infantil.
-Zaragoza: Mira
-
-SANTACANA MESTRE, J. y SERRAT ANTOLÍ, N. (Eds.) (2005). Museografía didáctica. Barcelona: Ariel
-
-VV. AA. (1998). Revista Comunicar: “La familia y los medios de comunicación”, nº. 10
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

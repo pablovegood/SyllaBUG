@@ -2,11 +2,11 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (55):
 ------------------------------
 BAKER, Geoffrey H., Análisis de la forma. Urbanismo y arquitectura, Gustavo Gili, Barcelona, 2005
 
@@ -14,6 +14,8 @@ BAKER, Geoffrey H., Le Corbusier. Análisis de la forma, Gustavo Gili, Barcelona
 
 BALDELLOU, Miguel Ángel; CAPITEL, Antón, Arquitectura española del siglo XX, Summa Artis XL, Espasa-
 Calpe, Madrid, 1995
+
+BANHAM, Reyner, El Brutalismo en arquitectura ¿ética o estética?, Gustavo Gili, Barcelona, 1967
 
 BENEVOLO, Leonardo, Historia de la Arquitectura Moderna, Gustavo Gili, Barcelona, 1990
 
@@ -32,6 +34,8 @@ CHING, Francis D. K., Arquitectura. Forma, espacio y orden, Gustavo Gili, Barcel
 
 CLARK, Roger H.; PAUSE, Michael, Arquitectura: temas de composición, Gustavo Gili, Barcelona, 1997
 
+CURTIS, William, La arquitectura moderna desde 1900, Phaidon, 1986
+
 DAL CO, Francesco, Frank Lloyd Wright y el museo Guggenheim, Abada, Madrid, 2011
 
 DREW,   Philip,   Tercera   generación.   La   significación   cambiante  de  la  arquitectura,  Gustavo  Gili,
@@ -39,6 +43,9 @@ Barcelona, 1973
 
 FLEIG,   Karl   (ed.),   Alvar   Aalto,   complete  Works,  3  vol.,  coed.  vol.  3  Elissa  Aaalto,  Birkhäuser,
 Basilea-Boston, 1990
+
+FRAMPTON,   Kenneth,  Estudios  sobre  cultura  tectónica.  Poéticas  de  la  construcción  en  la  arquitectura
+de los siglos XIX y XX, Akal, Madrid, 1999
 
 FRAMPTON, Kenneth, Historia crítica de la arquitectura moderna, Gustavo Gili, Barcelona, 1993
 
@@ -80,6 +87,10 @@ PAULY, Danièle, Le Corbusier. La capilla de Ronchamp, Adaba, Madrid, 2005
 
 PRADA,   Manuel  de,  Arte  y  Composición.  El  problema  de  la  forma  en  el  arte  y  la  arquitectura,  Nobuko,
 Buenos Aires, 2008
+
+REVISTAS   DE   CONSULTA  RECOMENDADA:  El  Croquis  Monografías  A&V  Arquitectura  Viva  Arquitectura  (COAM)
+Márgenes   Arquitectura   ZARCH   RITA   Ra.   Revista   de   arquitectura  Cuaderno  de  Notas  PPA  (Proyecto,
+Progreso, Arquitectura) Temporánea
 
 RIGGEN, Antonio, Luis Barragán. Escritos y conversaciones, El Croquis, Madrid, 2000
 
@@ -127,23 +138,11 @@ ZEVI, Bruno, Verso una architettura orgánica, Einaudi, Torino, 1945
 ÁBALOS,   Iñaki;  HERREROS,  Juan,  Técnica  y  arquitectura  en  la  ciudad  contemporánea,  1950-2000,  Nerea,
 San Sebastián, 1992
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CURTIS, William, La arquitectura moderna desde 1900, Phaidon, 1986. arquitectura de los siglos XIX y
-XX, Akal, Madrid, 1999  →  CURTIS, William, La arquitectura moderna desde 1900, Phaidon, 1986
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 Arquitectura (COAM)
 
-Arquitectura Viva
-
-BANHAM, Reyner, El Brutalismo en arquitectura ¿ética o estética?, Gustavo Gili, Barcelona, 1967
-
 Cuaderno de Notas
-
-FRAMPTON,   Kenneth,  Estudios  sobre  cultura  tectónica.  Poéticas  de  la  construcción  en  la  arquitectura
-de los siglos XIX y XX, Akal, Madrid, 1999
 
 Monografías A&V
 
@@ -155,4 +154,4 @@ REVISTAS DE CONSULTA RECOMENDADA
 
 Ra. Revista de arquitectura
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

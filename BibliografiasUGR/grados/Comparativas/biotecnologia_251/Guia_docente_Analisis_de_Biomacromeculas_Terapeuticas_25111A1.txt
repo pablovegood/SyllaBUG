@@ -2,11 +2,17 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Biophysical   Characterization   of   Proteins   in   Developing   Biopharmaceuticals,   D.J.   Houde,   S.A.
+Berkowitz   (Eds),   Elsevier   (2014)   Biopharmaceuticals  Challenges  and  Opportunities,  Basanta  Kumara
+Behera, Published CRC Press (2020)
 
-📚 Recursos sin cambios:
+Mass Spectrometry: Principles and Applications, 3rd Edition, E. Hoffmann, V. Stroobant, Wiley (2007)
+Biotechnology   and  Biopharmaceuticals:  Transforming  Proteins  and  Genes  into  Drugs,  J.Y.  Rodney,  Milo
+Gibaldi, First edition John Wiley & Sons, Inc. (2013)
+
+📚 Recursos sin cambios (7):
 ------------------------------
 Biopharmaceuticals:   Biochemistry   and  Biotechnology,  Gary  Walsh,  Editorial  :  Wiley-Blackwell;  N.º  2
 edición (2009)
@@ -21,21 +27,13 @@ Nova Publishers (2014)
 
 Introduction to Protein Mass Spectrometry, 1st Edition, P.K. Ghosh, Elsevier (2015)
 
+Monoclonal Antibodies: Physicochemical Analysis, Editado por Harleen Kaus y Dietmar Reusch, Academic
+Press (2021)
+
 Quality by Design for Biopharmaceutical Drug Product Development, F. Jameel, S. A. Hershenson, M. A.
 Khan, S. Martin-Moe (Eds), Springer (2015)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Biophysical   Characterization   of   Proteins   in   Developing   Biopharmaceuticals,   D.J.   Houde,   S.A.
-Berkowitz   (Eds),   Elsevier   (2014)   Biopharmaceuticals  Challenges  and  Opportunities,  Basanta  Kumara
-Behera,   Published   CRC   Press   (2020).  Monoclonal  Antibodies:  Physicochemical  Analysis,  Editado  por
-Harleen    Kaus    y   Dietmar   Reusch,   Academic   Press   (2021).   Mass   Spectrometry:   Principles   and
-Applications,    3rd    Edition,    E.    Hoffmann,    V.    Stroobant,   Wiley   (2007)   Biotechnology   and
-Biopharmaceuticals:   Transforming   Proteins   and   Genes  into  Drugs,  J.Y.  Rodney,  Milo  Gibaldi,  First
-edition   John   Wiley   &   Sons,   Inc.   (2013)   →   Mass  Spectrometry:  Principles  and  Applications,  3rd
-Edition, E. Hoffmann, V. Stroobant, Wiley (2007)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Biopharmaceuticals Challenges and Opportunities, Basanta Kumara Behera, Published CRC Press (2020)
 
@@ -45,7 +43,6 @@ Berkowitz (Eds), Elsevier (2014)
 Biotechnology   and  Biopharmaceuticals:  Transforming  Proteins  and  Genes  into  Drugs,  J.Y.  Rodney,  Milo
 Gibaldi, First edition John Wiley & Sons, Inc. (2013)
 
-Monoclonal Antibodies: Physicochemical Analysis, Editado por Harleen Kaus y Dietmar Reusch, Academic
-Press (2021)
+Mass Spectrometry: Principles and Applications, 3rd Edition, E. Hoffmann, V. Stroobant, Wiley (2007)
 
-📊 Porcentaje estimado de cambio: 55% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 54% [█████░░░░░]

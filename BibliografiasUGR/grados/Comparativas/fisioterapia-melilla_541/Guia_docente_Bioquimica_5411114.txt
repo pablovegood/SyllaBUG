@@ -2,19 +2,26 @@
 Grado: fisioterapia-melilla (541)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
+BIBLIOGRAFÍA   FUNDAMENTAL   DE   BIOLOGÍA   MOLECULAR:   D.L.  NELSON  &  M.M.  COX.  LEHNINGER  PRINCIPIOS  DE
+BIOQUÍMICA. 5ª Edición, 2009. Ediciones Omega
+
 C.K. MATHEWS, K.E. Van HOLDE & K.G. AHERN. BIOQUÍMICA. 3ª Edición, 2002. Addison Wesley
+
+CRC Critical Reviews in Biochemistry and Molecular Biology
+
+Current   Biology;  Current  Opinion  in:  Biotechnology,  Cell  Biology,  Neurobiology,  Structural  Biology.
+Investigación y Ciencia. Mundo Científico. Nature. Science
 
 D. VOET, J. G. VOET & C. W. PRATT. FUNDAMENTOS DE BIOQUÍMICA. 2ª Edición, 2006. Panamericana
 
-D.L. NELSON & M.M. COX. LEHNINGER PRINCIPIOS DE BIOQUÍMICA. 5ª Edición, 2009. Ediciones Omega
-
-Gómez JA. Introducción al estudio de la Bioquímica. Panamericana 2004
+Gómez    JA.   Introducción   al   estudio   de   la   Bioquímica.   Panamericana   2004.   Annual   Review   of
+Biochemistry. Biochemical Education
 
 J. KOOLMAN & K.-H. RÖHM. BIOQUÍMICA.TEXTO Y ATLAS. 3ª Edición, 2004. Edit. Médica Panamericana
 
@@ -29,26 +36,18 @@ T. McKEE & J.R. McKEE. BIOQUÍMICA. LA BASE MOLECULAR DE LA VIDA. 5.ª Edición.
 
 T.M. DEVLIN. BIOQUÍMICA. LIBRO DE TEXTO CON APLICACIONES CLÍNICAS. 4ª Edición, 2004. Reverté
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Trends in: Biochemical Sciences, Biotechnology, Cell Biology, Genetics, Molecular Medicine
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
-Annual Review of Biochemistry
-
 BIBLIOGRAFÍA FUNDAMENTAL DE BIOLOGÍA MOLECULAR
 
 Biochemical Education
 
-CRC Critical Reviews in Biochemistry and Molecular Biology
-
 Current Biology; Current Opinion in: Biotechnology, Cell Biology, Neurobiology, Structural Biology
 
-Investigación y Ciencia
+Gómez JA. Introducción al estudio de la Bioquímica. Panamericana 2004
 
 Mundo Científico
 
-Trends in: Biochemical Sciences, Biotechnology, Cell Biology, Genetics, Molecular Medicine
-
-📊 Porcentaje estimado de cambio: 80% [████████░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

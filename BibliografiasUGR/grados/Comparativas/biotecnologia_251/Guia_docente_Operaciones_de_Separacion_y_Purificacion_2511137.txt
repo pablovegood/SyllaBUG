@@ -2,31 +2,27 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CECSA. 2006 Separation Process Principles, 3rd Ed. Henley E.J., Seader J.D., Roper D.K. John Wiley &
-Sons.   2011   →   Separation   Process   Principles,   3rd   Ed.  Henley  E.J.,  Seader  J.D.,  Roper  D.K.  John
-Wiley & Sons. 2011
-
 Bioprocess   Engineering   Principles,   2nd   Ed.  Doran  P.M.  Elsevier.  2012  Bioseparaciones.  Tejeda  A.;
 Montesinos   R.M.   y  Guzmán,  R,  2ª  Ed,  Pearson.  2011  Bioseparations  Science  and  Engineering.  Harrison
 R.G.,   Todd   P.W.,   Rudge   S.R.,  Petrides  D.P.  Oxford  Univ.  Press.  2015  Principles  of  Bioseparations
 Engineering.   Ghosh   R.   Word   Scientific.   2006  Procesos  de  separación  de  biotecnología  industrial.
 Recasens   Baxarias   F.   Ed.   Barcelona  Iniciativa  Digital  Politècnica.  2018  Procesos  de  transporte  y
-principios   de   procesos   de   separación,   4ª   Ed.   Geankoplis,   C.J   →   Bioseparaciones.  Tejeda  A.;
-Montesinos R.M. y Guzmán, R, 2ª Ed, Pearson. 2011
+principios de procesos de separación, 4ª Ed. Geankoplis, C.J
 
-✅ Recursos añadidos:
+CECSA. 2006 Separation Process Principles, 3rd Ed. Henley E.J., Seader J.D., Roper D.K. John Wiley &
+Sons. 2011
+
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (7):
 ------------------------------
 Bioprocess Engineering Principles, 2nd Ed. Doran P.M. Elsevier. 2012
+
+Bioseparaciones. Tejeda A.; Montesinos R.M. y Guzmán, R, 2ª Ed, Pearson. 2011
 
 Bioseparations   Science   and  Engineering.  Harrison  R.G.,  Todd  P.W.,  Rudge  S.R.,  Petrides  D.P.  Oxford
 Univ. Press. 2015
@@ -37,5 +33,7 @@ Procesos   de   separación   de  biotecnología  industrial.  Recasens  Baxaria
 Digital Politècnica. 2018
 
 Procesos de transporte y principios de procesos de separación, 4ª Ed. Geankoplis, C.J. CECSA. 2006
+
+Separation Process Principles, 3rd Ed. Henley E.J., Seader J.D., Roper D.K. John Wiley & Sons. 2011
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

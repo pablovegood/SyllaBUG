@@ -2,40 +2,37 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 . Aragón Fernández, Mª A., Literatura del Grial. Siglos XII y XIII, Madrid, Síntesis, 2003
 
-. Chrétien de Troyes, Li Contes del Graal. El cuento del Grial, ed. y trad. M. de Riquer, Barcelona,
-El Festín de Esopo, 1984
+. Cirlot, V., Grial. Poética y mito (siglos XII-XV), Madrid, Siruela, 2014
 
 . Cirlot, V., La novela artúrica, Barcelona, Montesinos, 1987
-
-. Gauger, H. M., Introducción a la lingüística románica, Madrid, Gredos, 1989
-
-. Riquer, M. de y J. M. Valverde, Historia de la literatura universal, Madrid, Gredos, 2007, vol. I
 
 . Riquer, M. de., Los trovadores. Historia literaria y textos, Barcelona, 1989-92, 3 vols
 
 . Riquer, Martín de, Los cantares de gesta franceses, Madrid, Gredos, 2009
 
-. Riquer, Martín de, ed. y trad., La Chanson de Roland, La Chanson de Roland, Barcelona, Acantilado,
-2003
+La   Chanson   de  Roland  .  Riquer,  Martín  de,  ed.  y  trad.,  La  Chanson  de  Roland,  La  Chanson  de  Roland,
+Barcelona, Acantilado, 2003
 
-🔁 Misma obra con edición/año distinto:
+Li   Contes   del  Graal  .  Chrétien  de  Troyes,  Li  Contes  del  Graal.  El  cuento  del  Grial,  ed.  y  trad.  M.
+de Riquer, Barcelona, El Festín de Esopo, 1984
+
+Lingüística . Gauger, H. M., Introducción a la lingüística románica, Madrid, Gredos, 1989
+
+Literatura   .   Riquer,   M.  de  y  J.  M.  Valverde,  Historia  de  la  literatura  universal,  Madrid,  Gredos,
+2007, vol. I
+
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-. Cirlot, V., Grial. Poética y mito (siglos XII-XV), Madrid, Siruela, 2014
-
 La Chanson de Roland
 
 Li Contes del Graal
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

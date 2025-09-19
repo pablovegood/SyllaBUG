@@ -2,21 +2,27 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
+MORRO   MAS,   Antoni   Miquel   y   CHORNET  ROIG,  Jaume,  “Volver  a  la  Diosa:  un  aporte  mitopoietico  a  la
+espiritualidad   feminista”,   Revista   Sonda:   Investigación  y  Docencia  en  las  Artes  y  Letras,  nº  10,
+2021,   pp.   29-42   PEDRAZA,   Pilar,   La   Bella,   enigma   y   pesadilla  (Esfinge,  Medusa,  Pantera...),
+Barcelona, Tusquets, 1991
+
 “””””””””, Breve historia de la misoginia, Lumen, 2006
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (44):
 ------------------------------
 """"""""",   "La   venas   de   los  lirios".  De  místicas,  visionarias  y  santas  vivas  en  la  literatura  de
 Granada   (siglos   VIII-XX),   Londres,   Spanish,   Portuguese  and  Latin  American  Studies  in  Humanities
 Editions, 2022
 
-""""""""", Amalia Domingo Soler y el espiritismo de fin de siglo, Madrid: Archivos Vola, 2021
-
 , "La ocultación de la propia personalidad en las escritoras del siglo XIX", en S. Neumeister (ed.),
 Actas   del   IX   Congreso   de   la  Asociación  Internacional  de  Hispanistas,  Frankfurt,  Verveut  Verlag,
 1989, II, pp. 91-97
+
+,   «La  mujer  y  la  literatura  en  la  España  del  siglo  XIX»,  en  Actas  del  III  Congreso  Internacional  de
+Hispanistas, Madrid, Istmo, 1986, II, pp. 591-596
 
 ALONSO   VALERA,   Encarna,   Machismo   y   vanguardia.  Escritoras  y  artistas  en  la  España  de  preguerra,
 Madrid, Devenir, 2016
@@ -30,10 +36,8 @@ española, Madrid, UNED, 2002
 BENEGAS, Noni, Ellas resisten. Mujeres poetas y artistas. Textos 1994-2019, Madrid, Huerga y Fierro,
 2019
 
-BLANCO,   Alda,   Escritoras  virtuosas.  Narradoras  de  la  domesticidad  en  la  España  isabelina,  Granada,
-Universidad de Granada, 2001
-
-BORNAY, Erika, La cabellera femenina, Madrid, Cátedra, 1994
+BLANCO,   Alda,   Escritoras   virtuosas.   Narradoras  de  la  domesticidad  en  la  España  BORNAY,  Erika,  La
+cabellera femenina, Madrid, Cátedra, 1994
 
 BORNAY, Erika, Las hijas de Lilith, Madrid, Cátedra, 1990
 
@@ -66,6 +70,9 @@ XX”,   en   PORRO   HERRERA,   María   José  (ed.),  La  mujer  y  la  trans
 española . Escritura. Lectura. Textos (1001-2000), Córdoba, Universidad de Córdoba, 2001, pp. 89-111
 
 FERRER, Sandra, Mujeres silenciadas en la Edad Media, Madrid, Punto de Vista Editores, 2022
+
+Figuraciones   de   Salomé   en   la   literatura   hispánica   y   en   las   artes  de  fin  de  siglo,  Granada,
+SANMARTíN, Rebeca, La mujer lectora. El mito del siglo XIX, Madrid, Archivos Vola, 2019
 
 HINTERHÄUSER,   Hans,  “Mujeres  prerrafaelitas”,  Fin  de  Siglo.  Figuras  y  mitos  (1980),  Madrid,  Taurus,
 1998, pp. 91-121
@@ -107,17 +114,15 @@ Editores, 1969
 RAMOS   PALOMO,   Dolores  (ed.),  Femenino  plural.  Palabra  y  memoria  de  mujeres,  Málaga,  Universidad  de
 Málaga, 1994
 
-SANMARTíN, Rebeca, La mujer lectora. El mito del siglo XIX, Madrid, Archivos Vola, 2019
-
 SIMÓN   PALMER,   Mª.  Carmen,  «Escritoras  españolas  del  siglo  XIX  o  el  miedo  a  la  marginación»,  Anales
-de   Literatura   Española   de   la   Universidad   de   Alicante,  2  (1983),  pp.  477-490.  ,  «La  mujer  y  la
-literatura   en   la   España   del   siglo  XIX»,  en  Actas  del  III  Congreso  Internacional  de  Hispanistas,
-Madrid,   Istmo,   1986,  II,  pp.  591-596.  ,  "La  ocultación  de  la  propia  personalidad  en  las  escritoras
-del siglo XIX", en S
+de Literatura Española de la Universidad de Alicante, 2 (1983), pp. 477-490
 
 SÁNCHEZ   MARTÍNEZ;   Andrés,  En  el  país  de  las  alegorías  Salomé  siempre  danza.  Figuraciones  de  Salomé
 en   la   literatura   hispánica   y   en   las   artes   de  fin  de  siglo,  Granada,  Editorial  Universidad  de
 Granada, 2024
+
+ZAVALA,   Iris   (coord.),   Breve   historia  femenina  de  la  literatura  española  (en  lengua  castellana).
+Tomos I-V , Barcelona, Anthropos
 
 “””””””””, Antología de escritoras del siglo XIX, Madrid, Castalia-Instituto de la Mujer, 1992
 
@@ -128,8 +133,8 @@ persona, Barcelona, Anthropos, 1988
 
 “””””””””, Mujer, modernismo y vanguardia en España (1898-1931), Madrid, Castalia, 2003
 
-“”””””””””,   Plumas   femeninas   en  la  literatura  de  Granada  (siglos  VIII-XX).  Diccionario-antología,
-Granada, Universidad de Granada/Diputación de Granada, 2002
+“”””””””””,   Plumas   femeninas   en   la  literatura  de  Granada  (siglos  VIII-XX).  Diccionario""""""""",
+Amalia Domingo Soler y el espiritismo de fin de siglo, Madrid: Archivos Vola, 2021
 
 “”””””””””,“El   poema  «Elegía»:  Una  reinterpretación  lorquiana  de  los  prototipos  femeninos  de  fin  de
 siglo”, Bulletin of Hispanic Studies, Vol. LXXVIII, nº 1, enero de 2001, pp. 47-56
@@ -138,20 +143,10 @@ siglo”, Bulletin of Hispanic Studies, Vol. LXXVIII, nº 1, enero de 2001, pp. 
 Ibáñez”,   Hacia   la   re-escritura   del   canon  finisecular.  Nuevos  estudios  sobre  las  direcciones  del
 modernismo, Granada, Universidad de Granada, 2006, pp. 201-218
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-MORRO   MAS,   Antoni   Miquel   y   CHORNET  ROIG,  Jaume,  “Volver  a  la  Diosa:  un  aporte  mitopoietico  a  la
-espiritualidad   feminista”,   Revista   Sonda:   Investigación  y  Docencia  en  las  Artes  y  Letras,  nº  10,
-2021,   pp.   29-42   PEDRAZA,   Pilar,   La   Bella,   enigma   y   pesadilla  (Esfinge,  Medusa,  Pantera...),
-Barcelona,   Tusquets,   1991   →   PEDRAZA,   Pilar,   La   Bella,   enigma   y   pesadilla  (Esfinge,  Medusa,
-Pantera...), Barcelona, Tusquets, 1991
-
-✅ Recursos añadidos:
-------------------------------
-,   «La  mujer  y  la  literatura  en  la  España  del  siglo  XIX»,  en  Actas  del  III  Congreso  Internacional  de
-Hispanistas, Madrid, Istmo, 1986, II, pp. 591-596
-
-Española de la Universidad de Alicante, 2 (1983), pp. 477-490
+BLANCO,   Alda,   Escritoras  virtuosas.  Narradoras  de  la  domesticidad  en  la  España  isabelina,  Granada,
+Universidad de Granada, 2001
 
 MARIN,   Dolors,  Visionarias,  librepensadoras  y  espiritistas.  Mujeres  pioneras  en  una  época  de  cambio
 (1830-1931), Almuzara, 2025
@@ -160,9 +155,15 @@ MORRO   MAS,   Antoni   Miquel   y   CHORNET  ROIG,  Jaume,  “Volver  a  la  D
 espiritualidad   feminista”,   Revista   Sonda:   Investigación  y  Docencia  en  las  Artes  y  Letras,  nº  10,
 2021, pp. 29-42
 
-ZAVALA,   Iris   (coord.),   Breve  historia  femenina  de  la  literatura  española  (en  lengua  castellana)  .
-Tomos I-V, Barcelona, Anthropos
+PEDRAZA,   Pilar,   La   Bella,   enigma  y  pesadilla  (Esfinge,  Medusa,  Pantera...),  Barcelona,  Tusquets,
+1991
+
+SIMÓN   PALMER,   Mª.  Carmen,  «Escritoras  españolas  del  siglo  XIX  o  el  miedo  a  la  marginación»,  Anales
+de Literatura
 
 “””””””””, Breve historia de la misoginia. Antología y crítica, Ariel, 2019
+
+“”””””””””,   Plumas   femeninas   en  la  literatura  de  Granada  (siglos  VIII-XX).  Diccionario-antología,
+Granada, Universidad de Granada/Diputación de Granada, 2002
 
 📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

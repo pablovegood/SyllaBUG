@@ -2,11 +2,13 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Archeology and society (Estocolmo 1988), ICAHM Report 1, pp. 205-212
 
-📚 Recursos sin cambios:
+DUPRÉ X. (ed) (1989): TED'A, a new approach to the rescue excavation of urban sites
+
+📚 Recursos sin cambios (22):
 ------------------------------
 AA.VV.   (1982):   Archéologie   Urbaine.  Actes  du  Colloque  International.  Tours,  1980,  Ministère  de  la
 Culture. Tours
@@ -35,9 +37,6 @@ the situation of Urban Archaeology in Europe, Council of Europe Publishing. Stra
 
 DOMÍNGUEZ ARRANZ, A. (2005): Arqueología en suelo urbano. Huesca
 
-DUPRÉ   X.  (ed)  (1989):  TED'A,  a  new  approach  to  the  rescue  excavation  of  urban  sites,  Archeology  and
-society (Estocolmo 1988), ICAHM Report 1, pp. 205-212
-
 GARCÍA FERNÁNDEZ, J. (1987): Legislación sobre Patrimonio Histórico, Tecnos, Madrid
 
 GROS P. y TORELLI, M. (1988): Storia dell'urbanistica. Il mondo romano, Laterza. Roma
@@ -60,21 +59,6 @@ RODRÍGUEZ TEMIÑO, I. (2004): Arqueología Urbana en España, Ariel, Barcelona
 RODRÍGUEZ   TEMIÑO,   I.   (2006-2007):   Pisar   la  historia,  Revista  d’Arqueologia  de  Ponent  16-17,  pp.
 293-256
 
-TABALES,   M.   A.   (2002):   Sistema   de   análisis  arqueológico  de  edificios  históricos,  Consejería  de
-Cultura de la Junta de Andalucía, Sevilla
-
-ÁLVAREZ   GRACIA,   A.;   MOSTALAC   CARRILLO,   A.;   AGUAROD   OTAL,  M.  C.;  GALVE  IZQUIERDO,  P.,  ESCUDERO
-ESCUDERO, F. (1986): Arqueología urbana en Zaragoza. 1984-1986, Excmo. Ayuntamiento Zaragoza
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-ÁLVAREZ   GRACIA,   A.;   MOSTALAC   CARRILLO,   A.;   AGUAROD   OTAL,  M.  C.;  GALVE  IZQUIERDO,  P.,  ESCUDERO
-ESCUDERO,   F.   (1986):   Arqueología   urbana  en  Zaragoza  →  ÁLVAREZ  GRACIA,  A.;  MOSTALAC  CARRILLO,  A.;
-AGUAROD   OTAL,   M.   C.;   GALVE   IZQUIERDO,   P.,   ESCUDERO  ESCUDERO,  F.  (1986):  Arqueología  urbana  en
-Zaragoza. 1984-1986, Excmo. Ayuntamiento Zaragoza
-
-✅ Recursos añadidos:
-------------------------------
 SALVATIERRA,   V.   (1994a):   El   Patrimonio   arqueológico   urbano,   M.   Martin   (coord.)  Conservación
 Arqueológica. Reflexión y debate sobre teoría y práctica. Sevilla
 
@@ -82,4 +66,18 @@ SALVATIERRA,   V.   (1994b):   Arqueología   Urbana:   Investigación  o  Inter
 Ciudad.   Reflexiones   sobre  Centros  Históricos,  Instituto  Andaluz  de  Patrimonio  Histórico.  Colección
 Cuadernos. Córdoba
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+TABALES,   M.   A.   (2002):   Sistema   de   análisis  arqueológico  de  edificios  históricos,  Consejería  de
+Cultura de la Junta de Andalucía, Sevilla
+
+ÁLVAREZ   GRACIA,   A.;   MOSTALAC   CARRILLO,   A.;   AGUAROD   OTAL,  M.  C.;  GALVE  IZQUIERDO,  P.,  ESCUDERO
+ESCUDERO, F. (1986): Arqueología urbana en Zaragoza. 1984-1986, Excmo. Ayuntamiento Zaragoza
+
+✅ Recursos añadidos (2):
+------------------------------
+DUPRÉ   X.  (ed)  (1989):  TED'A,  a  new  approach  to  the  rescue  excavation  of  urban  sites,  Archeology  and
+society (Estocolmo 1988), ICAHM Report 1, pp. 205-212
+
+DUPRÉ   X.  (ed)  (1989):  TED'A,  a  new  approach  to  the  rescue  excavation  of  urban  sites,  Archeology  and
+society (Estocolmo 1988), ICAHM Report 1, pp. 205-212
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

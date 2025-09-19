@@ -2,21 +2,12 @@
 Grado: administracion-direccion-empresas-melilla (533)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-R. Caballero. Matemáticas Aplicadas a la Economía y la Empresa. Ed. Pirámide
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 M.   Álvarez   de  Morales  Mercado  y  M.A.  Fortes  Escalona.  Matemáticas  para  Economía  y  Administración  y
-Dirección   de   Empresas.   Ed.   Godel   (2016)  →  M.  Álvarez  de  Morales  Mercado  y  M.A.  Fortes  Escalona.
-Matemáticas para Economía y Administración y Dirección de Empresas. Ed. Técnica Avicam 2023
+Dirección de Empresas. Ed. Godel (2016)
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (7):
 ------------------------------
 A. Balbás. Análisis Matemático para la Economía (I y II). Ed. AC
 
@@ -32,4 +23,11 @@ Prentice Hall
 
 P. Alegre. Matemáticas Empresariales. Ed. AC
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+R. Caballero. Matemáticas Aplicadas a la Economía y la Empresa. Ed. Pirámide
+
+✅ Recursos añadidos (1):
+------------------------------
+M.   Álvarez   de  Morales  Mercado  y  M.A.  Fortes  Escalona.  Matemáticas  para  Economía  y  Administración  y
+Dirección de Empresas. Ed. Técnica Avicam 2023
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

@@ -2,12 +2,14 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (14):
 ------------------------------
 Carreras, F. de y Vallés, J. M. (1977), Las elecciones, Blume, Barcelona
 
 Castro   Martínez,   P.  y  Jaráiz  Gulías,  E.  (2022).  La  construcción  emocional  de  la  extrema  derecha  en
 España. Madrid: CIS
+
+Elecciones generales en España (1979-2011). Madrid, CIS
 
 Escobar, M., J. Rivière y R. Cilleros (2014) Los pronósticos electorales con encuestas
 
@@ -37,7 +39,7 @@ Rae, D. W. (1967), Electoral Laws and their political consequences, Agathon Pres
 
 Villa García, R. (2016) España en las urnas. Una historia electoral (1810-2015). Madrid, Catarata
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Alaminos,   Antonio,   y   Antonio   Alaminos   Fernández.   2021.   Introducción   práctica  a  la  sociología
 electoral . Alicante: Limencop
@@ -47,7 +49,7 @@ Alaminos-Tezanos . Madrid: CIS
 
 Anduiza, E. y Bosch, A. (1994) Comportamiento político y electoral, Madrid, CIS
 
-Cazorla, Ángel. 2014. Los componentes del voto en Andalucía . Granada: Universidad de Granada
+Cazorla Martín, A. (2014) Los componentes del voto en Andalucía. Granada: Universidad de Granada
 
 Colomer,   Josep   María.   2004.   Cómo   votamos.  Los  sistemas  electorales  del  mundo:  pasado,  presente,
 futuro . Barcelona: Gedisa
@@ -67,13 +69,13 @@ de voto en tiempos de incertidumbre . Madrid: Catarata
 Fisher,   J.   et  al.  (2017).  The  Routledge  Handbook  of  Elections,  Voting  Behavior  and  Public  Opinion.
 Londres: Routledge
 
-Forsberg, Ole J. 2021. Understanding Elections through Statistics: Polling, Prediction and Testing .
+Forsberg, O. J. (2021). Understanding Elections through Statistics: Polling, Prediction and Testing.
 Boca Raton: CRC Press
 
 Goidel,   Kirby   (ed.).   2011.   Political   Polling  in  the  Digital  Age.  The  Challenge  of  Measuring  and
 Understanding Public Opinion . Baton Rouge: Louisiana State University Press
 
-Hermet, Guy. 1986. ¿Para qué sirven las elecciones? México: Fondo de Cultura Económica
+Hermet, G. (1986), ¿Para qué sirven las elecciones?, Fondo de Cultura Económica, México
 
 Issenberg,   Sasha.   2016.   The   Victory   Lab.   The  Secret  Science  of  Winning  Campaigns  .  Nueva  York:
 Broadway Books
@@ -92,8 +94,8 @@ Pitkin, Hanna F. 1985. El concepto de representación . Madrid: Centro de Estudi
 
 Rae, Douglas W. 1977. Leyes electorales y sistemas de partidos . Madrid: CITEP
 
-Ruiz,   Luis  M.,  y  Pedro  Otero.  2013.  Indicadores  de  partidos  y  sistemas  de  partidos  .  Madrid:  Centro
-de Investigaciones Sociológicas
+Ruiz   Rodríguez,   L.   M.   y   P.  Otero  Felipe  (2013),  Indicadores  de  partidos  y  sistemas  de  partidos.
+Centro de Investigaciones Sociológicas, Madrid
 
 Stonecash,   Jeffrey   M.   2008.   Political   Polling.  Strategic  Information  in  Campaigns  .  Nueva  York:
 Rowman & Littlefield
@@ -103,19 +105,16 @@ Catarata
 
 Urquizu, Ignacio. 2016. La crisis de representación en España . Madrid: Catarata
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Elecciones   generales   en  España  (1979-2011).  Madrid,  CIS  →  Escobar,  Marta,  Josep  Rivière,  y  Ricardo
-Cilleros.    2014.   Los   pronósticos   electorales   con   encuestas.   Elecciones   generales   en   España
-(1979-2011) . Madrid: CIS
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 Balaguer   de   la   Riva,   Jaime.  2022.  El  recuerdo  de  voto  en  las  encuestas.  Un  análisis  a  partir  del
 caso español . Madrid: CSIC
 
 Castro,   Paloma,   y   Erika  Jaráiz.  2022.  La  construcción  emocional  de  la  extrema  derecha  en  España  .
 Madrid: CIS
+
+Escobar,   Marta,  Josep  Rivière,  y  Ricardo  Cilleros.  2014.  Los  pronósticos  electorales  con  encuestas.
+Elecciones generales en España (1979-2011) . Madrid: CIS
 
 Fernández   Santana,   José   O.   1994.   Diseño   y   utilidad  de  las  encuestas  preelectorales  .  Vitoria-
 Gasteiz: Servicio Central de Publicaciones del Gobierno Vasco
@@ -133,4 +132,4 @@ Investigaciones Sociológicas
 Roy,   Jason,   Sona   P.   Singh,   y   Patrick   Fournier.   2021.   The   Power   of  Polls?  A  Cross-National
 Experimental Analysis of the Effects of Campaign Polls . Cambridge: Cambridge University Press
 
-📊 Porcentaje estimado de cambio: 56% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 67% [██████░░░░]

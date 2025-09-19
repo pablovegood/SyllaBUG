@@ -2,26 +2,18 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 M.   Tekalp,   Digital   Video   Processing.   Prentice   Hall,  1995  O.  Marques,  Practical  Image  and  Video
 Processing   Using   MATLAB,   Willey,  2011  A.  Bovik,  Handbook  of  Image  and  Video  Processing,  Elsevier,
-2005   R.   Gonzalez,  R.  Woods,  Digital  Image  Processing.  Prentice  Hall,  2002  →  R.  Gonzalez,  R.  Woods,
-Digital Image Processing. Prentice Hall, 2002
+2005 R. Gonzalez, R. Woods, Digital Image Processing. Prentice Hall, 2002
 
+📚 Recursos sin cambios (1):
+------------------------------
 R.   Szieliski,   Computer   Vision:   Algorithms   and   Applications,  Springer,  2nd  ed.  2022  Y.  Wang,  J.
-Ostermann,Y.Zhang,    Video    Processing    and    Communications.    Prentice    Hall    →   Y.   Wang,   J.
-Ostermann,Y.Zhang, Video Processing and Communications. Prentice Hall. 2002
+Ostermann,Y.Zhang, Video Processing and Communications. Prentice Hall
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 A. Bovik, Handbook of Image and Video Processing, Elsevier, 2005
 
@@ -29,6 +21,8 @@ M. Tekalp, Digital Video Processing. Prentice Hall, 1995
 
 O. Marques, Practical Image and Video Processing Using MATLAB, Willey, 2011
 
-R. Szieliski, Computer Vision: Algorithms and Applications, Springer, 2nd ed. 2022
+R. Gonzalez, R. Woods, Digital Image Processing. Prentice Hall, 2002
+
+Y. Wang, J. Ostermann,Y.Zhang, Video Processing and Communications. Prentice Hall. 2002
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

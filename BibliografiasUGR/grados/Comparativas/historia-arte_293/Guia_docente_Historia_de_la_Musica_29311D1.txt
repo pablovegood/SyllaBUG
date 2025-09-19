@@ -2,50 +2,59 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+AUNER,   Joseph,   La   música   en   los   siglos   XX   y   XXI,   Madrid,   Akal,   2017.   Versión   on   line:
+https://elibro.net/es/lc/ugr/titulos/105209   FASSLER;   Margot,   La   música  en  el  occidente  medieval,
+Madrid,   Akal,  2021.  Versión  on  line:  https://elibro.net/es/lc/ugr/titulos/205194  FREEDMAN,  Richard,
+La      música      en      el      Renacimiento,     Madrid,     Akal,     2018.     Versión     on     line:
+https://elibro.net/es/lc/ugr/titulos/105210 FRISCH, Walter, La música en el siglo XIX, Madrid, Akal,
+2018. Versión on line
 
-📚 Recursos sin cambios:
+GRIFFITHS,   Paul,   Breve   historia   de   la   música   occidental,  Madrid,  Akal,  2009.  Versión  on  line:
+https://elibro.net/es/lc/ugr/titulos/49619   GROUT,   Donald   J.   (et   al.),   Historia   de   la   música
+occidental, Madrid, Alianza, 2008
+
+https://elibro.net/es/lc/ugr/titulos/49852   HELLER,   Wendy,   La   música  en  el  Barroco,  Madrid,  Akal,
+2017.   Versión   on   line:  https://elibro.net/es/lc/ugr/titulos/117465  RICE,  John  A.,  La  música  en  el
+siglo   XVIII,   Madrid,  Akal,  2019.  Versión  on  line:  https://elibro.net/es/lc/ugr/titulos/122377  VELA
+DEL   CAMPO,   Juan   Ángel   (dir.),  Historia  de  la  música  en  España  e  Hispanoamérica,  Madrid,  Fondo  de
+Cultura Económica, 2012. 8 vols
+
+📚 Recursos sin cambios (3):
+------------------------------
+BENNETT, Roy, Investigando los estilos musicales, Madrid, Akal, Colección: Entorno musical, 1998
+
+MICHELS, Ulrich, Atlas de Música, 2 vols., Madrid, Alianza Editorial, 1982
+
+SADIE, Stanley (ed.), Guía Akal de la música, Madrid, Akal, 2000
+
+✅ Recursos añadidos (9):
 ------------------------------
 AUNER,   Joseph,   La   música   en   los   siglos   XX   y   XXI,   Madrid,   Akal,   2017.   Versión   on   line:
 https://elibro.net/es/lc/ugr/titulos/105209
 
-BENNETT, Roy, Investigando los estilos musicales, Madrid, Akal, Colección: Entorno musical, 1998
+FASSLER;   Margot,   La   música   en   el   occidente   medieval,   Madrid,   Akal,   2021.   Versión  on  line:
+https://elibro.net/es/lc/ugr/titulos/205194
+
+FREEDMAN,    Richard,    La    música   en   el   Renacimiento,   Madrid,   Akal,   2018.   Versión   on   line:
+https://elibro.net/es/lc/ugr/titulos/105210
 
 FRISCH,    Walter,    La    música    en    el    siglo    XIX,    Madrid,   Akal,   2018.   Versión   on   line:
 https://elibro.net/es/lc/ugr/titulos/49852
 
+GRIFFITHS,   Paul,   Breve   historia   de   la   música   occidental,  Madrid,  Akal,  2009.  Versión  on  line:
+https://elibro.net/es/lc/ugr/titulos/49619
+
+GROUT, Donald J. (et al.), Historia de la música occidental, Madrid, Alianza, 2008
+
 HELLER,    Wendy,    La    música    en    el    Barroco,    Madrid,    Akal,    2017.    Versión    on    line:
 https://elibro.net/es/lc/ugr/titulos/117465
-
-MICHELS, Ulrich, Atlas de Música, 2 vols., Madrid, Alianza Editorial, 1982
 
 RICE,    John    A.,    La    música    en    el   siglo   XVIII,   Madrid,   Akal,   2019.   Versión   on   line:
 https://elibro.net/es/lc/ugr/titulos/122377
 
-SADIE, Stanley (ed.), Guía Akal de la música, Madrid, Akal, 2000
-
 VELA   DEL   CAMPO,  Juan  Ángel  (dir.),  Historia  de  la  música  en  España  e  Hispanoamérica,  Madrid,  Fondo
 de Cultura Económica, 2012. 8 vols
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-GRIFFITHS,   Paul,   Breve   historia   de   la   música  occidental,  Madrid,  Akal,  2009.  Versión  on  GROUT,
-Donald   J.   (et  al.),  Historia  de  la  música  occidental,  Madrid,  Alianza,  2008  →  GROUT,  Donald  J.  (et
-al.), Historia de la música occidental, Madrid, Alianza, 2008
-
-FASSLER;   Margot,   La   música   en   el   occidente   medieval,  Madrid,  Akal,  2021.  Versión  on  FREEDMAN,
-Richard,   La   música   en   el  Renacimiento,  Madrid,  Akal,  2018.  Versión  on  line  →  FASSLER;  Margot,  La
-música      en     el     occidente     medieval,     Madrid,     Akal,     2021.     Versión     on     line:
-https://elibro.net/es/lc/ugr/titulos/205194
-
-✅ Recursos añadidos:
-------------------------------
-FREEDMAN,    Richard,    La    música   en   el   Renacimiento,   Madrid,   Akal,   2018.   Versión   on   line:
-https://elibro.net/es/lc/ugr/titulos/105210
-
-GRIFFITHS,   Paul,   Breve   historia   de   la   música   occidental,  Madrid,  Akal,  2009.  Versión  on  line:
-https://elibro.net/es/lc/ugr/titulos/49619
-
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

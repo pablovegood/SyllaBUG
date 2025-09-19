@@ -2,11 +2,11 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Ahrens,   C.D.,   Meteorology   Today:   an   introduction   to   weather,   climate  and  the  environment,  5ª
 edición, West, Minnesota, 1994
@@ -50,11 +50,7 @@ Salby, M., Fundamentals of Atmospheric Physics, Academic Press, San Diego, 1996
 Wallace,   J.M.   and   Hobbs,   P.V.   Atmospheric  Science.  An  Introductory  Survey,  2ª  edición,  Academic
 Press, Canadá, 2006
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

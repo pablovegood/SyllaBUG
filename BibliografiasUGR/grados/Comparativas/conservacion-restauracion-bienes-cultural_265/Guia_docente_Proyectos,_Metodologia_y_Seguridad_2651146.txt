@@ -2,15 +2,23 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
 Aportaciones   Teóricas   y   Experimentales  en  Problemas  de  Conservación.  Actas  del  II  Seminario  sobre
 Restauración   de   Bienes   Culturales.   Barbero,  J.C.  Coordina.  Edita  Fundación  Santa  María  la  Real  –
 C.E.R.,   Aguilar   de  Campoo,  2007  STOLLOW,  N.  Conservation  standards  for  Works  of  art  in  transit  and
-on exhibition. Ed
+on exhibition. Ed. UNESCO. París, 1979
 
-📚 Recursos sin cambios:
+E-RHP   REVISTA   ELECTRÓNICA   DEL  PATRIMONIO  HISTÓRICO.  Departamento  de  GE-  CONSERVACIÓN.  Publicación
+digital hispano-lusa de conservación y restauración
+
+http://www.rigatino.com
+
+📚 Recursos sin cambios (26):
 ------------------------------
+AA.VV.   Banco   de   precios  de  conservación  restauración  de  bienes  culturales  de  Andalucía.  Manual  de
+utilización y cuadro de precios. Junta de Andalucía. Consejería de Cultura. Sevilla 2010
+
 AA.VV. Diccionario Técnico AKAL de Conservación y Restauración de Bienes Culturales. Español-Alemán-
 Ingles-Italiano-Francés. Ed. AKAL, Madrid 2003
 
@@ -24,8 +32,6 @@ BALLART, J. Gestión del Patrimonio cultural, Editorial Ariel. Barcelona 2001
 
 BERMUDEZ, Alejandro / ARBELOA, Joan V. M. / GIRALT, Adelina. Intervención en el patrimonio cultural.
 Creación y gestión de proyectos. Editorial Síntesis S.A. Madrid 2004
-
-BIENES CULTURALES. Revista del Instituto del Patrimonio Cultural de España. Ministerio de Cultura
 
 CALVO,   Ana:   Conservación   y   restauración.   Materiales,  técnicas  y  procedimientos,  de  la  A  a  la  Z.
 Ediciones del Serval, Barcelona 1997
@@ -45,6 +51,11 @@ Madrid 2008
 GONZÁLEZ,   I.   El   Catálogo   General   y   el   Inventario   de   Bienes  Reconocidos  como  Instrumentos  de
 Protección   del  Patrimonio  Histórico  Andaluz.  Cuestiones  Procedimentales  y  Competencias  Municipales.
 REALA. Revista de Estudios de la Administración Local y Autonómica. Nº 317, IX-XII/2011
+
+Grupo   Español   de   Conservación.  GE-IIC.  Fundación  Duques  de  Soria.  http://revista.geiic.com  MUSEUM
+INTERNATIONAL.   Revista   editada   por   la   Organización  de  las  Naciones  Unidas  para  la  Educación,  la
+Ciencia   y   la   Cultura   -   UNESCO  R&R.  RESTAURACIÓN  Y  REHABILITACIÓN.  Instituto  de  Restauración  del
+Patrimonio
 
 GÓMEZ   GONZÁLEZ,  Mª  Luisa.  Examen  científico  aplicado  a  la  conservación  de  obras  de  arte.  Ministerio
 de Cultura, Dirección General de BBAA y Archivos. ICRBC, Madrid 1994
@@ -67,36 +78,10 @@ Tercera edición. Editorial Tecnos. Madrid 2011
 R&R.   RESTAURACIÓN   Y   REHABILITACIÓN.   Instituto   de   Restauración   del  Patrimonio.  Departamento  de
 Conservación y Restauración de Bienes Culturales. Universidad Politécnica de Valencia
 
-STOLLOW, N. Conservation standards for Works of art in transit and on exhibition. Ed. UNESCO. París,
-1979
-
-XARRIÉ   POVEDA,   Mireia.   Diccionario   de   Conservación   y   Restauración  de  Obras  de  Arte.  Editorial
-Balaam, Madrid 2008
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-AA.VV.   Banco   de   precios  de  conservación  restauración  de  bienes  culturales  de  Andalucía.  Manual  de
-utilización y cuadro de precios. Junta de Andalucía. Consejería de Cultura. Sevilla 2010
-
-E-RHP   REVISTA   ELECTRÓNICA  DEL  PATRIMONIO  HISTÓRICO.  Departamento  de  Historia  del  Arte.  Universidad
-de Granada. http://www.revistadepatrimonio.es
-
-GE-   CONSERVACIÓN.  Publicación  digital  hispano-lusa  de  conservación  y  restauración.  Grupo  Español  de
-Conservación. GE-IIC. Fundación Duques de Soria. http://revista.ge-iic.com
-
-MUSEUM   INTERNATIONAL.  Revista  editada  por  la  Organización  de  las  Naciones  Unidas  para  la  Educación,
-la Ciencia y la Cultura - UNESCO
-
 RESTAURA.NET, Weblog sobre Conservación. Restaura.net © Amaya Mendizábal. http://www.restaura.net
 
-RESTAURO.   REVISTA   INTERNACIONAL   DEL  PATRIMONIO  HISTRICO.  Edita  G7  Patrimonio  y  Gestión  Siglo  XXI,
-S.L. A Coruña
-
-REVISTAS Y BLOGS
+REVISTAS   Y   BLOGS:   BIENES   CULTURALES.   Revista   del   Instituto  del  Patrimonio  Cultural  de  España.
+Ministerio de Cultura
 
 RIGATINO.COM, Weblog sobre Conservación y Restauración de Bienes Culturales. http://www.rigatino.com
 
@@ -105,4 +90,23 @@ y   Experimentales   en  Problemas  de  Conservación.  Actas  del  II  Seminari
 Culturales. Barbero, J.C. Coordina. Edita Fundación Santa María la Real – C.E.R., Aguilar de Campoo,
 2007
 
-📊 Porcentaje estimado de cambio: 45% [████░░░░░░]
+XARRIÉ   POVEDA,   Mireia.   Diccionario   de   Conservación   y   Restauración  de  Obras  de  Arte.  Editorial
+Balaam, Madrid 2008
+
+http://www.restaura.net RESTAURO. REVISTA INTERNACIONAL DEL PATRIMONIO HISTRICO. Edita G7 Patrimonio
+y Gestión Siglo XXI, S.L. A Coruña
+
+✅ Recursos añadidos (4):
+------------------------------
+E-RHP   REVISTA   ELECTRÓNICA  DEL  PATRIMONIO  HISTÓRICO.  Departamento  de  Historia  del  Arte.  Universidad
+de Granada. http://www.revistadepatrimonio.es
+
+GE-   CONSERVACIÓN.  Publicación  digital  hispano-lusa  de  conservación  y  restauración.  Grupo  Español  de
+Conservación. GE-IIC. Fundación Duques de Soria. http://revista.ge-iic.com
+
+REVISTAS Y BLOGS
+
+STOLLOW, N. Conservation standards for Works of art in transit and on exhibition. Ed. UNESCO. París,
+1979
+
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

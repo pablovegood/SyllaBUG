@@ -2,29 +2,26 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Webster,   “Medical   Instrumentation:   Application  and  design”,  Wiley  2010  (Fourth  Edition)  J.J.  Carr
 and   J.M.  Brown,  “Introduction  to  Biomedical  Equipment  Technology”,  Pearson  2001  (Fourth  Edition)  J.
 D.   Bronzino,   “Medical   Devices   and   Systems”,  CRC  Press  2006  (Third  Edition)  J.  D.  Bronzino,  "The
 Biomedical   Engineering   Handbook",  CRC  Press  2000  J.  Proakis,  D.  Manolakis.  "Tratamiento  Digital  de
-Señales:   Principios,   algoritmos   y   aplicaciones".   Prentice   Hall   1998   personal  del  alumno  →  J.
-Proakis,   D.   Manolakis.   "Tratamiento   Digital   de  Señales:  Principios,  algoritmos  y  aplicaciones".
-Prentice Hall 1998
+Señales: Principios, algoritmos y aplicaciones". Prentice Hall 1998
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (4):
 ------------------------------
 J. D. Bronzino, "The Biomedical Engineering Handbook", CRC Press 2000
 
 J. D. Bronzino, “Medical Devices and Systems”, CRC Press 2006 (Third Edition)
+
+J.   Proakis,   D.  Manolakis.  "Tratamiento  Digital  de  Señales:  Principios,  algoritmos  y  aplicaciones".
+Prentice Hall 1998
 
 Webster,   “Medical   Instrumentation:   Application  and  design”,  Wiley  2010  (Fourth  Edition)  J.J.  Carr
 and J.M. Brown, “Introduction to Biomedical Equipment Technology”, Pearson 2001 (Fourth Edition)

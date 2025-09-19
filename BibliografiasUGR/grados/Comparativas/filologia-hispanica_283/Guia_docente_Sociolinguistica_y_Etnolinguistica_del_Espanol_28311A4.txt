@@ -2,12 +2,12 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-VIDA   CASTRO,   M.A.,   ÁVILA   MUÑOZ,   M.   y   CARRISCONDO  ESQUIVEL,  F.  (2016):  Manual  sociolingüística
-urbana, Granada, Universidad
+DÍAZ   CAMPOS,   M.   (2014):   Introducción  a  la  sociolingüística  hispánica,  Oxford,  BasilBlacwell  DÍAZ
+CAMPOS, M. (2015): The handbook of Hispanic Sociolinguistics, Oxford, BasilBlacwell
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (31):
 ------------------------------
 ALMEIDA, M. (2003): Sociolingüística, 2a ed. Corregida y aumentada, La Laguna, Universidad
 
@@ -77,22 +77,18 @@ Press
 
 TRUDGILL, P. (1986): Dialects in contact, Oxford, Basil Blackwell, 1986
 
-VILLENA PONSODA (2001): La continuidad del cambio lingüístico, Granada, Universidad de Granada
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-DÍAZ   CAMPOS,   M.  (2014):  Introducción  a  la  sociolingüística  hispánica,  Oxford,  Basil-  Blacwell  DÍAZ
-CAMPOS,   M.   (2015):   The   handbook   of   Hispanic   Sociolinguistics,   Oxford,  Basil-  Blacwell  →  DÍAZ
-CAMPOS, M. (2014): Introducción a la sociolingüística hispánica, Oxford, Basil-Blacwell
-
-✅ Recursos añadidos:
-------------------------------
-DÍAZ CAMPOS, M. (2015): The handbook of Hispanic Sociolinguistics, Oxford, Basil-Blacwell
-
 VIDA   CASTRO,   M.A.,   ÁVILA   MUÑOZ,   M.   y   CARRISCONDO   ESQUIVEL,   F.   (2016):   Manual   práctico  de
 sociolingüística, Madrid, Síntesis
 
 VILLENA   PONSODA   (1994):  La  ciudad  lingüística.  Fundamentos  teóricos  de  la  sociolingüística  urbana,
 Granada, Universidad
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+VILLENA PONSODA (2001): La continuidad del cambio lingüístico, Granada, Universidad de Granada
+
+✅ Recursos añadidos (2):
+------------------------------
+DÍAZ CAMPOS, M. (2014): Introducción a la sociolingüística hispánica, Oxford, Basil-Blacwell
+
+DÍAZ CAMPOS, M. (2015): The handbook of Hispanic Sociolinguistics, Oxford, Basil-Blacwell
+
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

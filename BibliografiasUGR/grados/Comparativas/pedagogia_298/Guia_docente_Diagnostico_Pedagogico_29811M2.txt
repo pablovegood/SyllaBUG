@@ -2,12 +2,17 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Pascual   Gómez,   I.   (2016).   Diagnóstico  pedagógico.  Editorial  UOC  Anaya,  D.  (2003).  Diagnóstico  en
+Educación. Diseño y usos de instrumentos. Ed. Sanz Casado, A.; Pérez, C y Nápoles, MD. (2010). Casos
+Prácticos de Diagnóstico Pedagógico
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
+Casado,   A.;   Pérez,   C   y  Nápoles,  MD.  (2010).  Casos  Prácticos  de  Diagnóstico  Pedagógico.  Editorial
+Universidad de Castilla la Mancha
+
 Cervera Chulvi, M. A., Climent Arbona, C. I., & Marí Mollà, R. (2009). Guía de buenas prácticas para
 el diagnóstico pedagógico (1st ed.)
 
@@ -20,20 +25,13 @@ Iglesias Cortizas, M. (2009). Diagnóstico escolar: teoría, ámbitos y técnica
 
 Marí Mollá, R. (2006). Diagnóstico pedagógico: un modelo para la intervención psicopedagógica. Ariel
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Pascual   Gómez,   I.   (2016).   Diagnóstico  pedagógico.  Editorial  UOC  Anaya,  D.  (2003).  Diagnóstico  en
-Educación.   Diseño   y   usos   de  instrumentos.  Ed.  Sanz  Editorial  Universidad  de  Castilla  la  Mancha  →
-Anaya, D. (2003). Diagnóstico en Educación. Diseño y usos de instrumentos. Ed. Sanz
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Aguaded Ramírez, E.M. (Coord.) (2023). Manual básico para incorporar la perspectiva de género en las
 guías docentes . Universidad de Granada
 
-Casado,   A.;   Pérez,   C   y  Nápoles,  MD.  (2010).  Casos  Prácticos  de  Diagnóstico  Pedagógico.  Editorial
-Universidad de Castilla la Mancha
+Anaya, D. (2003). Diagnóstico en Educación. Diseño y usos de instrumentos. Ed. Sanz
 
 Pascual Gómez, I. (2016). Diagnóstico pedagógico. Editorial UOC
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 44% [████░░░░░░]

@@ -2,11 +2,12 @@
 Grado: enfermeria (207)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+GODOY-IZQUIERDO, D. (2009). Introducción a las técnicas y terapias psicológicas para LAZARUS, R.S. y
+FOLKMAN, S. (1986). Estrés y procesos cognitivos. Barcelona: Martínez-Roca
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 BUCETA,   J.M.,   BUENO,   A.M.   y   MÁS,  B.  (2001).  Intervención  psicológica  en  trastornos  de  la  salud.
 Madrid: Dykinson
@@ -21,16 +22,11 @@ BUENDÍA, J. y RAMOS, F. (2001). Empleo, estrés y salud. Madrid: Pirámide
 FUNDACIÓN   PAIDEI   (1993).   El  malestar  en  los  profesionales  de  los  servicios  humanos  y  sociales.  La
 Coruña: Fundación Paideia
 
-GODOY-IZQUIERDO,   D.   (2009).  Introducción  a  las  técnicas  y  terapias  psicológicas  para  profesionales
-de las ciencias de la salud. Granada: Editorial Universidad de Granada
-
 JIMÉNEZ   TORRES,   M.  G.  (2023).  Estrés  y  salud.  Pautas  para  manejar  el  estrés  y  superarlo.  Editorial
 Técnica AVICAM
 
 LAZARUS,   R.S.  (2000).  Estrés  y  emoción:  Su  manejo  e  implicaciones  en  nuestra  salud.  Bilbao:  Desclée
 de Brouwer
-
-LAZARUS, R.S. y FOLKMAN, S. (1986). Estrés y procesos cognitivos. Barcelona: Martínez-Roca
 
 LOOKER y GREGSON (1998). Superar el estrés. Madrid: Pirámide
 
@@ -54,12 +50,11 @@ de Salud Pública
 
 SANDÍN, B. (2008). El estrés psicosocial (2a ed.). Madrid: Klinik
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+GODOY-IZQUIERDO,   D.   (2009).  Introducción  a  las  técnicas  y  terapias  psicológicas  para  profesionales
+de las ciencias de la salud. Granada: Editorial Universidad de Granada
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+LAZARUS, R.S. y FOLKMAN, S. (1986). Estrés y procesos cognitivos. Barcelona: Martínez-Roca
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

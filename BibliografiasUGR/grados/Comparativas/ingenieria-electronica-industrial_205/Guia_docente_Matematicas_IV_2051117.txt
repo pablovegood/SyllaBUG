@@ -2,11 +2,21 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Kessler,   M.   (2008)   Métodos   Estadísticos   de   la  Ingeniería,  Universidad  Politécnica  de  Cartagena
+Martínez,   A.,   Rodríguez,   C.,   Gutiérrez,   R.   (1993)   Inferencia  Estadística.  Un  enfoque  clásico.
+Pirámide, Madrid
 
-📚 Recursos sin cambios:
+Ramos   Ábalos,   E.M.,   Raya   Miranda,   R.   y   Romero  Molina,  D.  (2010)  Estadística.  Copicentro  Ramos
+Ábalos,   E.M.,   Raya   Miranda,  R.  y  Romero  Molina,  D.  (2010)  Problemas  de  Rohatgi,  V.K.,  Saleh,  A.K.
+(2008) An Introduction to Probability and Statistics. John Wiley and Sons, New York
+
+Ross,   S.   M.,   (2005)  Introducción  a  la  Estadísitca.  Editorial  Reverté  Sáez  Castillo,  J.  A.,  (2012)
+Apuntes de Estadística para ingenieros. Versión 1.3 Cuadras, C.M. (1995) Problemas de Probabilidad y
+Estadística. Vol. 1: Probabilidades. PPU, Barcelona
+
+📚 Recursos sin cambios (11):
 ------------------------------
 Canavos, G.C. (2003) Probabilidad y Estadística: Aplicaciones y Métodos. McGraw-Hill Interamericana,
 México
@@ -39,27 +49,11 @@ de Estadística. Editorial Síntesis
 Verdoy,   P.J.,  Mahiques,  J.M.,  Porcu,  E.  (2008)  Introducción  a  la  Estadística  y  Probabilidad:  Manual
 de Ejercicio Resueltos. Tilde, Valencia
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Kessler,   M.   (2008)   Métodos   Estadísticos   de   la  Ingeniería,  Universidad  Politécnica  de  Cartagena
-Martínez,   A.,   Rodríguez,   C.,   Gutiérrez,   R.   (1993)   Inferencia  Estadística.  Un  enfoque  clásico.
-Pirámide,    Madrid   →   Kessler,   M.   (2008)   Métodos   Estadísticos   de   la   Ingeniería,   Universidad
-Politécnica de Cartagena
-
-Ramos   Ábalos,   E.M.,  Raya  Miranda,  R.  y  Romero  Molina,  D.  (2010)  Estadística.  Copicentro  Editorial,
-Universidad   de  Granada  Ramos  Ábalos,  E.M.,  Raya  Miranda,  R.  y  Romero  Molina,  D.  (2010)  Problemas  de
-Estadística.   Copicentro   Editorial,   Universidad   de   Granada   Rohatgi,  V.K.,  Saleh,  A.K.  (2008)  An
-Introduction   to   Probability   and  Statistics.  John  Wiley  and  Sons,  New  York  →  Rohatgi,  V.K.,  Saleh,
-A.K. (2008) An Introduction to Probability and Statistics. John Wiley and Sons, New York
-
-Ross,   S.   M.,   (2005)  Introducción  a  la  Estadísitca.  Editorial  Reverté  Sáez  Castillo,  J.  A.,  (2012)
-Apuntes de Estadística para ingenieros. Versión 1.3 Cuadras, C.M. (1995) Problemas de Probabilidad y
-Estadística.   Vol.   1:   Probabilidades.   PPU,   Barcelona   →   Ross,   S.   M.,  (2005)  Introducción  a  la
-Estadísitca. Editorial Reverté
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Cuadras, C.M. (1995) Problemas de Probabilidad y Estadística. Vol. 1: Probabilidades. PPU, Barcelona
+
+Kessler, M. (2008) Métodos Estadísticos de la Ingeniería, Universidad Politécnica de Cartagena
 
 Martínez,   A.,   Rodríguez,   C.,   Gutiérrez,   R.   (1993)   Inferencia  Estadística.  Un  enfoque  clásico.
 Pirámide, Madrid
@@ -69,6 +63,11 @@ Universidad de Granada
 
 Ramos Ábalos, E.M., Raya Miranda, R. y Romero Molina, D. (2010) Problemas de Estadística. Copicentro
 Editorial, Universidad de Granada
+
+Rohatgi,   V.K.,   Saleh,   A.K.   (2008)   An  Introduction  to  Probability  and  Statistics.  John  Wiley  and
+Sons, New York
+
+Ross, S. M., (2005) Introducción a la Estadísitca. Editorial Reverté
 
 Sáez Castillo, J. A., (2012) Apuntes de Estadística para ingenieros. Versión 1.3
 

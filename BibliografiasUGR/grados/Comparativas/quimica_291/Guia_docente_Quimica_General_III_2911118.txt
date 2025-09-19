@@ -2,11 +2,11 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+EQUILIBRIOS IÓNICOS EN DISOLUCIÓN. J. C. Ávila y J. F. Fernández. Ed. Técnica AVICAM. Granada, 2015
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 CONCEPTOS DE QUÍMICA. J. Quílez, R. Muñoz, J. M. Bleda. Ediciones del Serbal. Barcelona (2003)
 
@@ -32,14 +32,11 @@ QUÍMICA. (6ª Edición) R. Chang, McGraw Hill, Madrid, 1999
 
 QUÍMICA. Un proyecto de la ACS, American Chemical Society, Reverte, Barcelona, 2005
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Pearson   Educación,   2004.   QUÍMICA:  LA  CIENCIA  BÁSICA,  M.  D.  Reboiras.  Ed.  Thomson,  2005  →  QUÍMICA:
-LA CIENCIA BÁSICA, M. D. Reboiras. Ed. Thomson, 2005
+QUÍMICA: LA CIENCIA BÁSICA, M. D. Reboiras. Ed. Thomson, 2005
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 EQUILIBRIOS IÓNICOS EN DISOLUCIÓN. J. F. Fernández Sánchez, I. M. Pérez de Vargas Sansalvador, J. C.
 Ávila Rosón. 2º Edición. Ed. Técnica AVICAM. Granada, 2025
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

@@ -2,30 +2,19 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+D.   Pozar,   Microwave   Engineering,   3rd   ed.,   Wiley,   2005.   (Líneas  de  transmisión,  parámetros  S,
+adaptación)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 D. Pozar, Microwave and RF Wireless Systems, Wiley, 2000
 
+G.   González,   Microwave   Transistor   Amplifiers:   Analysis   and   Design,   2/E,  Prentice  Hall,  1997.
+(Amplificadores)
+
 I. Bahl, P. Bhartia, Microwave solid-state circuit design, 2nd ed., Wiley, 2003
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-1.D.   Pozar,   Microwave   Engineering,   3rd   ed.,   Wiley,  2005.  (Líneas  de  transmisión,  parámetros  S,
-adaptación) 2.G. González, Microwave Transistor Amplifiers: Analysis and Design, 2/E, Prentice Hall,
-1997.   (Amplificadores)   3.R.  E.  Collin,  Foundations  of  Microwave  Engineering,  2nd  ed.,  Wiley,  2000.
-(Amplificadores,   parámetros   S,   guías)   4.P.   A.   Rizzi,   Microwave  Engineering:  Passive  Circuits,
-Prentice   Hall,  1988.  (Adaptación,  parámetros  S)  1.M.  W.  Medley,  Jr.  And  M.  W.  Medley,  Microwave  and
-RF   circuits:   Análisis,  Síntesis  and  Design,  Artech  House,  1993  →  G.  González,  Microwave  Transistor
-Amplifiers: Analysis and Design, 2/E, Prentice Hall, 1997. (Amplificadores)
-
-✅ Recursos añadidos:
-------------------------------
-D.   Pozar,   Microwave   Engineering,   4thed.,   Wiley,   2011.   (Líneas   de   transmisión,  parámetros  S,
-adaptación, amplificadores)
 
 M. W. Medley, Jr. And M. W. Medley, Microwave and RF circuits: Análisis, Síntesis and Design, Artech
 House, 1993
@@ -36,4 +25,9 @@ S)
 R.   E.   Collin,   Foundations   of   Microwave   Engineering,   2nd   ed.,   Wiley,   2000.  (Amplificadores,
 parámetros S, guías)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+D.   Pozar,   Microwave   Engineering,   4thed.,   Wiley,   2011.   (Líneas   de   transmisión,  parámetros  S,
+adaptación, amplificadores)
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

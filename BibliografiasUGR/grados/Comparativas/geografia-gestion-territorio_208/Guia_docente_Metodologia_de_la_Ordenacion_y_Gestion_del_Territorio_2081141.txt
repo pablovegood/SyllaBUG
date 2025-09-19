@@ -2,11 +2,16 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Aplicaciones en diagnósticos territoriales y decisiones geoambientales. Ra-Ma Editorial, Madrid
 
-📚 Recursos sin cambios:
+RODRÍGUEZ   MARTÍNEZ   (coord.)  Monográfico  de  Cuadernos  Geográficos  Núm.  47  (2010-2)  «El  estado  de  la
+Ordenación   del  Territorio  en  España»  TARROJA,  A.;  CAMAGNI,  R.  (Coords,  2006):  Una  nueva  cultura  del
+territorio.   Criterios  sociales  y  ambientales  en  las  políticas  y  el  gobierno  del  territorio.  CUIMPB.
+Diputació Barcelona
+
+📚 Recursos sin cambios (26):
 ------------------------------
 ACOSTA,   G.;   BURRACO,   M.  (1998):  Glosario  básico  de  la  ordenación  urbanística  y  territorial.  IAAP.
 Junta de Andalucía. Sevilla
@@ -20,24 +25,6 @@ Prensas Universitarias de Zaragoza. Zaragoza
 BUSQUETS,   J.   y   CORTINA,   A.  (coord.)  (2008):  Gestión  del  paisaje.  Manual  de  protección,  gestión  y
 ordenación del paisaje. Ariel, Barcelona
 
-GALIANA,   L.;   VINUESA,   J.   (Coords,   2010):   Teoría   y   práctica   para  una  ordenación  racional  del
-territorio. Ed. Síntesis. Madrid
-
-GÓMEZ OREA, D. (2001): Ordenación territorial. Editorial Agrícola Española/Mundi Prensa, Madrid
-
-MUGURUZA CAÑAS, C. (2015): Ordenación del territorio: análisis y diagnóstico. Ed UNED
-
-OLCINA   CANTOS,  J.  y  FARINÓS  DASI,  J.  (2022):  Ordenación  del  territorio  y  medio  ambiente.  Ed.  Tirant
-lo Blanch
-
-PUJADAS, R.; FONT, J. (1998): Ordenación y Planificación Territorial. Síntesis. Madrid
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 FARINÓS   DASÍ,   J.  (Ed.  y  Coord.)  (2011):  De  la  Evaluación  Ambiental  Estratégica  a  la  Eva­luación  de
 Impacto Territorial: reflexiones acerca de la tarea de evaluación. Universitat de Valencia
 
@@ -46,10 +33,13 @@ Políticas. Universidad Pablo Olavide- Asociación de Geógrafos Españoles. Sev
 
 FERNÁNDEZ   TABALES,  A.;  SANTOS  PAVÓN,  E.;  TORRES  GUTIÉRREZ,  F.J.  (2000):  “La  experiencia  española  de
 ordenación   del   territorio   en   el   ámbito   regional.   Análisis   metodológico   de  los  documentos  de
-planificación”, en COMITÉ ESPAÑOL DE LA UNIÓN GEOGRÁFICA
+planificación”,   en   COMITÉ   ESPAÑOL   DE   LA   UNIÓN   GEOGRÁFICA   GRUPO   ADUAR  (2000):  Diccionario  de
+geografía urbana, urbanismo y ordenación del territorio. Ariel Referencia. Barcelona
 
-GRUPO   ADUAR   (2000):   Diccionario  de  geografía  urbana,  urbanismo  y  ordenación  del  territorio.  Ariel
-Referencia. Barcelona
+GALIANA,   L.;   VINUESA,   J.   (Coords,   2010):   Teoría   y   práctica   para  una  ordenación  racional  del
+territorio. Ed. Síntesis. Madrid
+
+GÓMEZ OREA, D. (2001): Ordenación territorial. Editorial Agrícola Española/Mundi Prensa, Madrid
 
 HERBÁS,   J.  (2009):  Ordenación  del  territorio,  urbanismo  y  protección  del  paisaje.  Bosch,  Barcelona.
 La ordenación del territorio europeo, Urban, nº monográfico, Revista del Departamento de Urbanismo y
@@ -65,13 +55,17 @@ Universidad Pedagógica y Tecnológica de Colombia. Tunja
 MORENO   JIMÉNEZ,   A.   y   otros  (Coords)  (2012):  Sistemas  de  Información  Geográfica.  Aplica­ciones  en
 diagnósticos territoriales y decisiones geoambientales. Ra-Ma Editorial, Madrid
 
+MUGURUZA CAÑAS, C. (2015): Ordenación del territorio: análisis y diagnóstico. Ed UNED
+
+OLCINA   CANTOS,  J.  y  FARINÓS  DASI,  J.  (2022):  Ordenación  del  territorio  y  medio  ambiente.  Ed.  Tirant
+lo Blanch
+
+PUJADAS, R.; FONT, J. (1998): Ordenación y Planificación Territorial. Síntesis. Madrid
+
 PÉREZ   ANDRÉS,   A.A.   (1998):   La   ordenación  del  territorio  en  el  Estado  de  las  autonomías.  Marcial
 Pons, Madrid
 
 RODRÍGUEZ GONZÁLEZ, R. (Dtor, 2010): Territorio. Ordenar para competir. Netbiblo. La Coruña
-
-RODRÍGUEZ   MARTÍNEZ   (coord.)  Monográfico  de  Cuadernos  Geográficos  Núm.  47  (2010-2)  «El  estado  de  la
-Ordenación del Territorio en España»
 
 RODRÍGUEZ,    L.    C.    (2008):   El   futuro   de   la   ordenación   territorial.   Instituto   Andaluz   de
 Administraciones Públicas, Sevilla
@@ -94,13 +88,21 @@ Conclusiones del VI Congreso Internacional de Ordenación del Territorio. Fundic
 SÁNCHEZ   PÉREZ-MONEO,   L.   y  TROITIÑO  VINUESA,  M.A.  (Coords.)  (2009):  Agua,  territorio  y  paisaje.  De
 los instrumentos programados a la planificación aplicada. Fundicot. Madrid
 
-TARROJA,   A.;   CAMAGNI,   R.   (Coords,   2006):  Una  nueva  cultura  del  territorio.  Criterios  sociales  y
-ambientales en las políticas y el gobierno del territorio. CUIMPB. Diputació Barcelona
-
 TROITIÑO   VINUESA,  M  .A.  (2000):  "El  diagnóstico  y  la  valoración  del  territorio".  En:  García,  J.  L.;
 Godeneau.   D.;  Febles,  M.  F.:  Instrumentos  Para  el  Desarrollo  Local.  Ayto  de  Santa  Cruz  de  Tenerife.
 pp. 51-77
 
 ZOIDO Y VEGA (2013): “Diccionario de urbanismo, geografía urbana y OT”, Ed. Cátedra
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (3):
+------------------------------
+GRUPO   ADUAR   (2000):   Diccionario  de  geografía  urbana,  urbanismo  y  ordenación  del  territorio.  Ariel
+Referencia. Barcelona
+
+RODRÍGUEZ   MARTÍNEZ   (coord.)  Monográfico  de  Cuadernos  Geográficos  Núm.  47  (2010-2)  «El  estado  de  la
+Ordenación del Territorio en España»
+
+TARROJA,   A.;   CAMAGNI,   R.   (Coords,   2006):  Una  nueva  cultura  del  territorio.  Criterios  sociales  y
+ambientales en las políticas y el gobierno del territorio. CUIMPB. Diputació Barcelona
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

@@ -2,11 +2,15 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+ALCOBA,   S.   (coordinador)   (2000)  La  expresión  oral.  Barcelona:  Ariel  ALVAR,  M.  (coord.)  (1987):  El
+lenguaje político, Madrid, Fundación Friedrich Ebert e Instituto de Cooperación Iberoamericana
 
-📚 Recursos sin cambios:
+LAKOFF,   G.   y   Johnson,   M.   (1986)   :  Metáforas  de  la  vida  cotidiana,  Madrid,  Cátedra  LAUSBERG,  H.
+(1967): Manual de retórica literaria, Madrid, Gredos (volúmenes I y II)
+
+📚 Recursos sin cambios (33):
 ------------------------------
 ANSCOMBRE, J. C. y O. DUCROT (1994): La argumentación en la lengua, Madrid, Gredos
 
@@ -37,13 +41,21 @@ Madrid: Arco Libros
 FERNÁNDEZ   LAGUNILLA,   MARINA   (1999).  La  lengua  en  la  comunicación  política.  Madrid:  Arco  Libros  (2
 vols)
 
+GARCÍA   CARBONELL,  R  (2006)  Presentaciones  efectivas  en  público:  ideas,  proyectos,  informes,  planes,
+objetivos, ponencias, comunicaciones. Madrid: Edaf
+
 GRUPO μ (1987): Retórica general, Barcelona, Paidós
+
+GÁRZARO, R. (1997): Diccionario de política, Madrid, Tecnos
 
 LAKOFF,   G.   (2008)   No  pienses  en  un  elefante:  lenguaje  y  debate  político.  Madrid:  Ed.  Complutense,
 2008
 
 LO   CASCIO,   V.   (1998)   Gramática   de   la  argumentación:  estrategias  y  estructuras.  Madrid:  Alianza
 Editorial
+
+MONTOLIO,   E.   (coord.):   (2000):   Manual   práctico   de  la  escritura  académica,  Barcelona:  Ariel,  (3
+vols.)
 
 NÚÑEZ CABEZAS, E. A. y GUERRERO SALAZAR, S. (2002): El lenguaje político español. Madrid: Cátedra
 
@@ -57,6 +69,8 @@ lenguaje político, Madrid, Fundación Friedrich Ebert, pp. 49-58
 
 SANTIAGO   BARNÉS,   J.   (2007):   El   candidato   ante  los  medios:  Telegenia  e  imagen  política.  Madrid:
 Fragua
+
+SANTIAGO BARNÉS, J. (2007): La imagen del político. Tratado teórico –práctico. Madrid: Belgeuse
 
 SANTIAGO   BARNÉS,   J.   (2008):   Para   entender  a  los  políticos.  Cómo  piensan,  se  comportan  y  actúan.
 Salamanca: Editorial Parthenon
@@ -81,33 +95,15 @@ VAN DIJK, T. A. (2003): Ideología y discurso. Barcelona: Ariel
 
 WESTON, A. (ed. 2011): Las claves de la argumentación. Barcelona: Ariel
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-LAKOFF,   G.   y   Johnson,   M.   (1986)   :  Metáforas  de  la  vida  cotidiana,  Madrid,  Cátedra  LAUSBERG,  H.
-(1967):   Manual   de  retórica  literaria,  Madrid,  Gredos  (volúmenes  I  y  II)  →  LAKOFF,  G.  y  Johnson,  M.
-(1986) : Metáforas de la vida cotidiana, Madrid, Cátedra
-
-GARCÍA   CARBONELL,   R   (2006)   Presentaciones   efectivas   en   público:  ideas,  proyectos,  GÁRZARO,  R.
-(1997):   Diccionario   de   política,   Madrid,   Tecnos   →  GÁRZARO,  R.  (1997):  Diccionario  de  política,
-Madrid, Tecnos
-
-ALCOBA,   S.   (coordinador)   (2000)  La  expresión  oral.  Barcelona:  Ariel  ALVAR,  M.  (coord.)  (1987):  El
-lenguaje   político,   Madrid,   Fundación   Friedrich  Ebert  e  Instituto  de  Cooperación  Iberoamericana  →
 ALCOBA, S. (coordinador) (2000) La expresión oral. Barcelona: Ariel
 
-✅ Recursos añadidos:
-------------------------------
 ALVAR,   M.   (coord.)   (1987):  El  lenguaje  político,  Madrid,  Fundación  Friedrich  Ebert  e  Instituto  de
 Cooperación Iberoamericana
 
-GARCÍA   CARBONELL,  R  (2006)  Presentaciones  efectivas  en  público:  ideas,  proyectos,  informes,  planes,
-objetivos, ponencias, comunicaciones. Madrid: Edaf
+LAKOFF, G. y Johnson, M. (1986) : Metáforas de la vida cotidiana, Madrid, Cátedra
 
 LAUSBERG, H. (1967): Manual de retórica literaria, Madrid, Gredos (volúmenes I y II)
 
-MONTOLIO,   E.   (coord.):   (2000):   Manual   práctico   de  la  escritura  académica,  Barcelona:  Ariel,  (3
-vols.)
-
-SANTIAGO BARNÉS, J. (2007): La imagen del político. Tratado teórico –práctico. Madrid: Belgeuse
-
-📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

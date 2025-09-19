@@ -2,13 +2,20 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
+McGinnis, P.M. (2005) Biomechanics of Sport and Exercise. 2º Edition. Human Kinetics
+
 New   Jersey.   John   Wiley   &  son  Arteaga  Ortiz  R,  y  Victoria  Díaz  J.  (2001)  Problemas  de  biomecánica
 para estudiantes de
 
-📚 Recursos sin cambios:
+Tipler, P.A. (2001). Física para la Ciencia y la Tecnología. Cuarta Edición. Volumen I
+
+📚 Recursos sin cambios (14):
 ------------------------------
+Arteaga   Ortiz   R,  y  Victoria  Díaz  J.  (2001)  Problemas  de  biomecánica  para  estudiantes  de.  Educación
+Física. Gran Canaria. Servicio de publicaciones
+
 Barlertt, R. (2014) Introduction to Sports Biomechanics : Analysing Human Movement Patterns Taylor &
 Francis
 
@@ -16,8 +23,6 @@ Bell, J.D., Grice, T., Dowell, L.J. (2012). Sports Biomechanics. 7ª Edición. A
 
 Grimshaw,   P.,  Lees,  A.,  Fowler,  N.  y  Burden,  A.  (2006)  Sport  &  Exercise  Biomechanics.  London.Taylor
 & Francis Group
-
-Gutiérrez,M. (2015). Fundamentos de Biomecánica Deportiva. Madrid: Síntesis
 
 Hall, S.J. (2015) Basic Biomechanics. 7th Edition. New Jersey. McGraw-Hill Education
 
@@ -28,33 +33,31 @@ Hay, J.G. (1994). The biomechanics of sports.techniques. Prentice-Hall Inc. Engl
 
 Izquierdo, M. (2008). Bases Neuromusculares y Biomecánicas de la actividad física. Panamericana
 
-Knudson, D. (2007) Fundamentals of Biomechanics. New York. Springer
-
 Komi,   P.V.  (1984).  Physiological  and  biomechanical  correlates  of  muscle  function:  Effects  of  muscle
 structure and stretch-shortening cycle on force and speed. Exercise and sport sciences reviews, 12
 
 Kreighbaum,   E.y   Barthels,   K.M.   (1996).   Biomechanics:   A  Qualitative  Approach  for  Studying  Human
 Movement (4th Edition). Allyn & Bacon
 
+London.Taylor   &   Francis   Group   Gutiérrez,M.  (2015).  Fundamentos  de  Biomecánica  Deportiva.  Madrid:
+Síntesis
+
+Mecánica.   Barcelona   Reverté   Zatsiorsky   VM,  Prilutsky  BI.  (2012)  Biomechanics  of  skeletal  muscles
+[Internet]. Champaign, IL: Human Kinetics
+
+Panamericana Knudson, D. (2007) Fundamentals of Biomechanics. New York. Springer
+
 Winter,   D.   (2009)   Biomechanics   and  Motor  Control  of  Human  Movement  4th  Edition.  New  Jersey.  John
 Wiley & son
 
-Zatsiorsky   VM,   Prilutsky   BI.   (2012)   Biomechanics  of  skeletal  muscles  [Internet].  Champaign,  IL:
-Human Kinetics
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-McGinnis,   P.M.   (2005)   Biomechanics   of  Sport  and  Exercise.  2º  Edition.  Human  Kinetics  →  McGinnis,
-P.M.   (2005)   Biomechanics   of   Sport  and  Exercise.  2º  Edition.  Human  Kinetics.  Tipler,  P.A.  (2001).
-Física para la Ciencia y la Tecnología. Cuarta Edición. Volumen I. Mecánica. Barcelona Reverté
+McGinnis,   P.M.   (2005)  Biomechanics  of  Sport  and  Exercise.  2º  Edition.  Human  Kinetics.  Tipler,  P.A.
+(2001).   Física   para   la   Ciencia   y   la  Tecnología.  Cuarta  Edición.  Volumen  I.  Mecánica.  Barcelona
+Reverté
 
-Tipler,   P.A.   (2001).  Física  para  la  Ciencia  y  la  Tecnología.  Cuarta  Edición.  Volumen  I  →  McGinnis,
-P.M.   (2005)   Biomechanics   of   Sport  and  Exercise.  2º  Edition.  Human  Kinetics.  Tipler,  P.A.  (2001).
-Física para la Ciencia y la Tecnología. Cuarta Edición. Volumen I. Mecánica. Barcelona Reverté
+McGinnis,   P.M.   (2005)  Biomechanics  of  Sport  and  Exercise.  2º  Edition.  Human  Kinetics.  Tipler,  P.A.
+(2001).   Física   para   la   Ciencia   y   la  Tecnología.  Cuarta  Edición.  Volumen  I.  Mecánica.  Barcelona
+Reverté
 
-✅ Recursos añadidos:
-------------------------------
-Arteaga   Ortiz   R,  y  Victoria  Díaz  J.  (2001)  Problemas  de  biomecánica  para  estudiantes  de.  Educación
-Física. Gran Canaria. Servicio de publicaciones
-
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (39):
 ------------------------------
 ABU   LUGHOD,   Lila.  Do  Muslim  women  need  saving?.  Cambridge,  Massachusett:  Harvard  University  Press,
 2013
@@ -45,6 +45,9 @@ BODMAN,   Herbert   L.   y   TOHIRI,   Nayereh  (Eds.).  Women  in  Muslim  soci
 London-Boulder: Lynne Rienner, 1998
 
 BOUHDIBA, Abdelwahab. La sexualidad en el Islam. Caracas: Monte Avila Editores, 1980
+
+BOURQIA,   Rahma;   CHARRAD,  Mounira  y  GALLAGHER,  Nancy  (Eds.).  Femmes,  culture  et  société  au  Maghreb.
+s.l.: Afrique Orient, 20002
 
 BRAMON, Dolors. Ser mujer y musulmana. Barcelona: Bellaterra, 2009
 
@@ -108,13 +111,8 @@ YAMANI, Mai. Islam and feminism. Legal and literary perspectives. s.l.: Ithaca P
 
 __________ (Ed.). Feminismo y modernidad en Oriente Próximo. Madrid: Cátedra, 2002
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-BOURQIA,   Rahma;   CHARRAD,  Mounira  y  GALLAGHER,  Nancy  (Eds.).  Femmes,  culture  et  société  au  Maghreb.
-s.l.: Afrique Orient, 20002
-
-📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,12 +2,14 @@
 Grado: enfermeria-melilla (507)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Barcelona: Elsevier; 2010
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
+Aguilar MJ. La participación comunitaria en salud: ¿mito o realidad? Madrid: Díaz de Santos; 2008
+
 Aguilera   M,   López   JM,   Coronado   JM.   Comunicación   para   la  Salud  y  Culturas  del  Riesgo.  Málaga:
 Diputación Provincial; 2008
 
@@ -28,17 +30,32 @@ en Medicina de Familia. Barcelona: Elsevier; 2019
 Martín Zurro A, Cano Pérez JF, Gené Badia J. Problemas de salud en la consulta de medicina familiar.
 Barcelona: Elsevier; 2019
 
+Martínez   Riera   JR,   Del   Pino   Casado   R.   Manual   Práctico   de  Enfermería  Comunitaria.  Barcelona:
+Elsevier; 2021
+
 Mateo   Rodríguez   I,   García-Cubillana   de  la  Cruz  P,  Conde  Gil  de  Montes  P  (coord.).  Manual  para  el
 diseño   e   implementación   de   grupos  socieducativos  en  Atención  Primaria  (GRUSE).  Sevilla:  Junta  de
 Andalucía. Consejería de Salud: 2011
 
 Morcillo   Ródenas   C   (ed.).   Experiencias   novedosas   en  Atención  Primaria  sobre  gestión,  docencia,
-formación, investigación y clínica. Granada: Universidad de Granada; 2009
+Martín   Zurro   A,   Cano   Pérez   JF.   Atención   Primaria:  conceptos,  organización  y  práctica  clínica.
+Barcelona: Elsevier; 2010
+
+Ortega Galán, AM. Manual de bioética para los cuidados de enfermería. Almería: ASANEC; 2010
+
+Prieto   Rodríguez  MA,  Escudero  Carretero  M,  Gil  García  E  (eds.).  La  entrevista  clínica  de  valoración
+inicial. Guía para la práctica clínica. Granada: Escuela Andaluza de Salud Pública; 2006
 
 Quemada   González   C,   Vargas   Salazar   J,   García-Herrera   Pérez-Bryan   JM,   Huizing   E.   Grupo   de
 afrontamiento de la ansiedad en Atención Primaria. Sevilla: Servicio Andaluz de Salud; 2016
 
+Servicio   Andaluz  de  Salud.  Cuestionarios,  tests  e  índices  para  la  valoración  del  paciente.  Sevilla:
+Servicio Andaluz de Salud; 2004
+
 Servicio   Andaluz   de   Salud.   Guía   FASE   para   la   prevención  de  las  úlceras  por  presión.  Sevilla:
+Servicio Andaluz de Salud, Consejería de Salud, Junta de Andalucía; 2017
+
+Servicio   Andaluz   de   Salud.   Guía   FASE   para   la   prevención  y  actuación  ante  una  caída.  Sevilla:
 Servicio Andaluz de Salud, Consejería de Salud, Junta de Andalucía; 2017
 
 Servicio   Andaluz  de  Salud.  Guía  para  disminuir  el  sedentarismo.  Sevilla:  Servicio  Andaluz  de  Salud,
@@ -57,40 +74,18 @@ Granada; 2011
 Álvarez   Tello   M,  Morales  Asencio  JM  (eds.).  Guía  para  cuidadoras  de  personas  dependientes.  Málaga:
 Asociación Andaluza de Enfermería Comunitaria; 2007
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Servicio   Andaluz   de   Salud;   2004  →  Servicio  Andaluz  de  Salud.  Guía  FASE  para  la  prevención  de  las
-úlceras   por   presión.   Sevilla:  Servicio  Andaluz  de  Salud,  Consejería  de  Salud,  Junta  de  Andalucía;
-2017
-
-✅ Recursos añadidos:
-------------------------------
-Aguilar MJ. La participación comunitaria en salud: ¿mito o realidad? Madrid: Díaz de Santos; 2008
-
 Ayuso   Murillo   D,   Tejedor   Muñoz   L,   Serrano   Gil  A.  Enfermería  Familiar  y  Comunitaria:  actividad
 asistencial y aspectos ético-jurídicos. Madrid: Ediciones Díaz de Santos; 2018
-
-Martín   Zurro   A,   Cano   Pérez   JF.   Atención   Primaria:  conceptos,  organización  y  práctica  clínica.
-Barcelona: Elsevier; 2010
-
-Martínez   Riera   JR,   Del   Pino   Casado   R.   Manual   Práctico   de  Enfermería  Comunitaria.  Barcelona:
-Elsevier; 2021
 
 Ministerio   de  Sanidad.  Cuidados  paliativos.  Guía  para  Atención  Primaria.  Madrid:  Instituto  Nacional
 de Gestión Sanitaria; 2021
 
-Ortega Galán, AM. Manual de bioética para los cuidados de enfermería. Almería: ASANEC; 2010
-
-Prieto   Rodríguez  MA,  Escudero  Carretero  M,  Gil  García  E  (eds.).  La  entrevista  clínica  de  valoración
-inicial. Guía para la práctica clínica. Granada: Escuela Andaluza de Salud Pública; 2006
+Morcillo   Ródenas   C   (ed.).   Experiencias   novedosas   en  Atención  Primaria  sobre  gestión,  docencia,
+formación, investigación y clínica. Granada: Universidad de Granada; 2009
 
 Ruiz   Fernández,   MD.  Manual  de  Enfermería  Familiar  y  Comunitaria.  Almería:  Editorial  Universidad  de
 Almería. 2020
 
-Servicio   Andaluz  de  Salud.  Cuestionarios,  tests  e  índices  para  la  valoración  del  paciente.  Sevilla:
-Servicio Andaluz de Salud; 2004
-
-Servicio   Andaluz   de   Salud.   Guía   FASE   para   la   prevención  y  actuación  ante  una  caída.  Sevilla:
-Servicio Andaluz de Salud, Consejería de Salud, Junta de Andalucía; 2017
-
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

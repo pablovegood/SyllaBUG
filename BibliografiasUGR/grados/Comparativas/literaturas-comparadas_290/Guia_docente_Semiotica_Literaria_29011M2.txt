@@ -2,17 +2,14 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Comprender   el  fenómeno  literario  en  el  contexto  del  mercado,  la  producción  editorial  y  la  industria
-cultural, analizando los mecanismos que conforman dichas relaciones
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 ABLALI,   Driss   y   DUCARD,   Dominique,   Vocabulaire   des  études  sémiotiques  es  sémiologiques,  Paris-
 Besnacon, Campion-Presses Universitaires de Franche Comté, 2009
-
-BARTHES, Roland, Lecon, Paris, Seuil, 1978
 
 BERTRAND, Denis, Précis de sémiotique littéraire, Paris, Natham, 2000
 
@@ -38,9 +35,10 @@ MAESTRO,   Jesús   G.   (compilador),  Nuevas  perspectivas  en  semiología  l
 
 MARRONE, Ginfranco, Dove va la semiotica?, Palermo Circolo Semiologico Siciliano, 1986
 
-MOLINÉ, Georges, Dictionnaire de rhétorique, Paris, Librairie Générale Francaise, 1997
-
 MORTARA GARAVELLI, Bice, Manual de retórica, Madrid, Cátedra, 2015
+
+OTRA   BIBLIOGRAFÍA:   Textos   teóricos   y   de   creación   literaria  que  se  seleccionarán  para  realizar
+lecturas comentadas
 
 PAOLUCCI, Claudio (dir.), Studi di semiotica interpretativa, Milano, Bompiani, 2007
 
@@ -50,7 +48,11 @@ reimpresión)
 PROFETTI,   María   Gracia;  REIS,  Carlos;  URRUTIA,  Jorge;  YLLERA,  Alicia,  Refundación  de  la  semiótica,
 Sevilla, Editorial Don Quijote, 1993
 
-UBERSFELD, Anne, Semiótica teatral, Madrid, Cátedra, 1989
+RETÓRICA: MOLINÉ, Georges, Dictionnaire de rhétorique, Paris, Librairie Générale Francaise, 1997
+
+SEMIÓTICA TEATRAL: UBERSFELD, Anne, Semiótica teatral, Madrid, Cátedra, 1989
+
+TRATAMIENTOS GENERALES: BARTHES, Roland, Lecon, Paris, Seuil, 1978
 
 VAN DIJK, Teun A. (compilador), El discurso como estructura y proceso. Estudios Sobre el discurso I:
 una introducción multidisciplinar, Barcelona, Gedisa, 2008
@@ -60,18 +62,12 @@ una introducción multidisciplinar, Barcelona, Gedisa, 2008
 
 VARNI, Angelo (ed.), Escuola di retorica, Bologna, Bononia University Press, 2006
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-No hubo cambios de edición/año.
+BARTHES, Roland, Lecon, Paris, Seuil, 1978
 
-✅ Recursos añadidos:
-------------------------------
 OTRA BIBLIOGRAFÍA
 
-SEMIÓTICA TEATRAL
+UBERSFELD, Anne, Semiótica teatral, Madrid, Cátedra, 1989
 
-TRATAMIENTOS GENERALES
-
-Textos teóricos y de creación literaria que se seleccionarán para realizar lecturas comentadas
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

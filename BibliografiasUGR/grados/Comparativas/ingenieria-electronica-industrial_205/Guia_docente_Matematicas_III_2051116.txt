@@ -2,13 +2,15 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
+Barcelona, Addison Wesley Iberoamericana, 1999
+
 Barrera, D., González, P. et al. Cálculo numérico con Mathematica. Granada, Ariel, 2001
 
 Gasca González, M. Cálculo numérico I.. Madrid, UNED, 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Brauer,   F.   y   Nohel,   B.   Ordinary   Differential  Equations  with  applications.  Nueva  York,  Harper  y
 Row,1989
@@ -43,13 +45,9 @@ Zill, D. G. Ecuaciones diferenciales con aplicaciones. Thomson Learning, 2002
 Zill, D.G. y Culen, M. R. Ecuaciones diferenciales con problemas de valores en la frontera. Thompson
 Learning, 2001
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Barcelona,   Addison   Wesley   Iberoamericana,   1999   →   Nagle,   R.   K.   y   Saff,  E.  B.  Fundamentos  de
-ecuaciones diferenciales. Madrid, Addison-Wesley Iberoamericana, 1992
+Nagle,   R.   K.   y   Saff,   E.   B.   Fundamentos   de   ecuaciones   diferenciales.  Madrid,  Addison-Wesley
+Iberoamericana, 1992
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

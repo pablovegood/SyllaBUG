@@ -2,15 +2,18 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Barcelona: Elsevier; 2014
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
 Aránguiz   V,  Lara  JS,  Marró  ML,  O'Toole  S,  Ramírez  V,  Bartlett  D.  Recommendations  and  guidelines  for
 dentists using the basic erosive wear examination index (BEWE). Br Dent J. 2020;228(3):153-157. doi:
 10.1038/s41415-020-1246-y. PMID: 32060450; PMCID: PMC7718147
+
+Barrancos   PJ.   Barrancos   Money.  Operatoria  Dental.  Avances  clínicos,  restauraciones  y  estética.  5ª
+ed. Buenos Aires: Médica Panamericana; 2015
 
 Bartlett   D.   A   personal   perspective   and   update   on   erosive   tooth  wear  -  10  years  on:  Part  2  -
 Restorative management. Br Dent J. 2016;221(4):167-71. doi: 10.1038/sj.bdj.2016.596. PMID: 27561573
@@ -46,6 +49,9 @@ Fehrenbach MJ. Cuaderno de anatomía dental para colorear. 3ª ed. Autoedición;
 Fejerskov   O,  Nyvad  B,  Kidd  EAM  (eds).  Dental  caries  the  disease  and  its  clinical  management.  3ª  ed.
 Dinamarca: WILEY Blackwell; 2015
 
+García   Barbero  J.  Patología  y  Terapéutica  Dental.  Operatoria  Dental  y  Endodoncia.  2ª  ed.  Barcelona:
+Elsevier; 2014
+
 Grippo   JO,   Simring  M,  Coleman  TA.  Abfraction,  abrasion,  biocorrosion,  and  the  enigma  of  noncarious
 cervical    lesions:    a    20-year    perspective.    J   Esthet   Restor   Dent.   2012;24(1):10-23.   doi:
 10.1111/j.1708-8240.2011.00487.x. Epub 2011 Nov 17. PMID: 22296690
@@ -79,6 +85,11 @@ Pitts NB, Zero DT, Marsh PD, Ekstrand K, Weintraub JA, Ramos-Gomez F, Tagami J, 
 Ismail   A.   Dental   caries.   Nat   Rev   Dis   Primers.   2017;3:17030.  doi:  10.1038/nrdp.2017.30.  PMID:
 28540937
 
+Schlueter   N,   Amaechi   BT,   Bartlett  D,  Buzalaf  MAR,  Carvalho  TS,  Ganss  C,  Hara  AT,  Huysmans  MDNJM,
+Lussi   A,  Moazzez  R,  Vieira  AR,  West  NX,  Wiegand  A,  Young  A,  Lippert  F.  Terminology  of  Erosive  Tooth
+Wear:   Consensus   Report  of  a  Workshop  Organized  by  the  ORCA  and  the  Cariology  Research  Group  of  the
+IADR. Caries Res. 2020;54(1):2-6. doi: 10.1159/000503308. Epub 2019 Oct 14. PMID: 31610535
+
 Seif   RT.   Cariología:   prevención,   diagnóstico   y   tratamiento   contemporáneo  de  la  caries  dental.
 Caracas: Actualidades Médico-Odontológicas Latinoamérica; 1997
 
@@ -94,33 +105,8 @@ Wiegand   A,   Lechte   C,   Kanzow  P.  Adhesion  to  eroded  enamel  and  dent
 analysis.   Dent   Mater.   2021;37(12):1845-1853.  doi:  10.1016/j.dental.2021.09.014.  Epub  2021  Sep  27.
 PMID: 34593245
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-10.1159/000503308.   Epub   2019  Oct  14.  PMID:  31610535  →  Schlueter  N,  Amaechi  BT,  Bartlett  D,  Buzalaf
-MAR,   Carvalho  TS,  Ganss  C,  Hara  AT,  Huysmans  MDNJM,  Lussi  A,  Moazzez  R,  Vieira  AR,  West  NX,  Wiegand
-A,   Young   A,  Lippert  F.  Terminology  of  Erosive  Tooth  Wear:  Consensus  Report  of  a  Workshop  Organized
-by   the   ORCA   and   the   Cariology   Research   Group   of   the   IADR.  Caries  Res.  2020;54(1):2-6.  doi:
-10.1159/000503308. Epub 2019 Oct 14. PMID: 31610535
+No hay elementos.
 
-10.1016/j.dental.2021.09.014.   Epub   2021   Sep   27.   PMID:  34593245  →  Wiegand  A,  Lechte  C,  Kanzow  P.
-Adhesion    to    eroded    enamel   and   dentin:   systematic   review   and   meta-analysis.   Dent   Mater.
-2021;37(12):1845-1853. doi: 10.1016/j.dental.2021.09.014. Epub 2021 Sep 27. PMID: 34593245
-
-Schlueter   N,   Amaechi   BT,   Bartlett  D,  Buzalaf  MAR,  Carvalho  TS,  Ganss  C,  Hara  AT,  Huysmans  MDNJM,
-Lussi   A,  Moazzez  R,  Vieira  AR,  West  NX,  Wiegand  A,  Young  A,  Lippert  F.  Terminology  of  Erosive  Tooth
-Wear:   Consensus   Report  of  a  Workshop  Organized  by  the  ORCA  and  the  Cariology  Research  Group  of  the
-IADR.   Caries   Res.  2020;54(1):2-6.  doi  →  Schlueter  N,  Amaechi  BT,  Bartlett  D,  Buzalaf  MAR,  Carvalho
-TS,   Ganss   C,   Hara  AT,  Huysmans  MDNJM,  Lussi  A,  Moazzez  R,  Vieira  AR,  West  NX,  Wiegand  A,  Young  A,
-Lippert   F.   Terminology  of  Erosive  Tooth  Wear:  Consensus  Report  of  a  Workshop  Organized  by  the  ORCA
-and   the   Cariology   Research  Group  of  the  IADR.  Caries  Res.  2020;54(1):2-6.  doi:  10.1159/000503308.
-Epub 2019 Oct 14. PMID: 31610535
-
-✅ Recursos añadidos:
-------------------------------
-Barrancos   PJ.   Barrancos   Money.  Operatoria  Dental.  Avances  clínicos,  restauraciones  y  estética.  5ª
-ed. Buenos Aires: Médica Panamericana; 2015
-
-García   Barbero  J.  Patología  y  Terapéutica  Dental.  Operatoria  Dental  y  Endodoncia.  2ª  ed.  Barcelona:
-Elsevier; 2014
-
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

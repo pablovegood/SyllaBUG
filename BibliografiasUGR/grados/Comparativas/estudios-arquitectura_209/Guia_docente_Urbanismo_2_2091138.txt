@@ -2,11 +2,11 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 BERGER,   Alan.   Drosscape.   Wasting   land  in  Urban  America.  Princeton  Architectural  Press.  New  York.
 2006
@@ -20,7 +20,9 @@ DE SOLÀ-MORALES, Manuel. LUB. Las formas del crecimiento urbano. Ediciones UPC,
 
 Historia   “The  new  urbanism”  P.  Katz  “Los  ensanches”.  M  de  Solá  Morales  “Historia  de  la  Arquitectura
 Moderna”.   L.  Benevolo  GG  “La  metrópolis  como  ciudad  jardín  Hilberseimer  y  Mies”.  LLOBET,  X.  (2007).
-Barna
+Barna:   “The  American  City”.  A.  Garvin.  McGrawHill  “The  seduction  of  place”  J.  Rikwert  “Ciudades  del
+mañana”   Peter   Hall   “Nuevas   ciudades”   E.  Galantay  Teoría  “El  proyecto  de  la  calle  sin  nombre”.  J
+Sabaté “La urbanización marginal”. BUSQUETS, Joan (1999) Barcelona: Ed. UPC
 
 MUÑOZ,F. Urbanalización. Paisajes comunes, lugares globales, G.Gili, Barcelona, 2008
 
@@ -28,7 +30,11 @@ McLEAN, Alex S. (2003), La fotografía del territorio. Barcelona: GG
 
 QUARONI, Ludovico (1970) La torre de Babel, Barcelona: Gustavo Gili
 
-“Ciudades: X formas”, BUSQUETS, J. (2006), Rovereto: Nicolodi
+“Dbook density data diagrams dwellings” Fernández Per, Aurora Mozas, Javier y Arpa, Javier
+
+“Density projets” Fernández Per, Aurora y Arpa, Javier
+
+“El diseño de vías urbanas” Maccluskey “La calle, problemas de diseño y estructura”. Anderson
 
 “El   espacio  público:  ciudad  y  ciudadanía”.  Jordi  Borja  y  Aida  Muxí.  Electa  “Lo  urbano  en  20  autores
 contemporáneos”.   A.  Martín  Ramos.  UPC  “Acupuntura  urbana”.  J.  Lerner.  IAAC  “La  transformación  de  la
@@ -38,9 +44,7 @@ Muxi,   Zaida   “Rehacer  paisajes”  Rosell,  Quim  y  otros  “Compendio  
 AUGÉ,   Marc   (1995)   Los  no  lugares,  espacios  del  anonimato,  una  antropología  de  la  sobremodernidad,
 Barcelona: Gedisa
 
-“The American City”. A. Garvin. McGrawHill “The seduction of place” J. Rikwert “Ciudades del mañana”
-Peter   Hall   “Nuevas  ciudades”  E.  Galantay  Teoría  “El  proyecto  de  la  calle  sin  nombre”.  J  Sabaté  “La
-urbanización marginal”. BUSQUETS, Joan (1999) Barcelona: Ed. UPC
+“Streets and patterns”. S Marshall “Ciudades: X formas”, BUSQUETS, J. (2006), Rovereto: Nicolodi
 
 “¡El   tiempo   construye!”.   F.   García-Huidobro.   GG   “Atlas   of   Ducht   Urban   Block”.   AAVV.  Thoth
 “Ecourbanismo. Entornos humanos sostenibles: 60 proyectos”. M. Ruano GG “Megaestructuras”. R. Banham
@@ -48,12 +52,10 @@ GG   “Internationale   Bauausstellung  Berlin  1987.  Project  Report”.  AAV
 urbanos” Gehl, Jan y Gemzoe, Lars “S,M,L,XL”. - R. Koolhaas. Jenifer Sigler “De la gare a la ville”.
 AAVV Silvana Editorriale “El crecimiento de las ciudades” Lewis,David
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (34):
 ------------------------------
-No hubo cambios de edición/año.
+"Vinex Atlas" Mensink y Boeijenga
 
-✅ Recursos añadidos:
-------------------------------
 AUGÉ,   Marc   (1995)   Los  no  lugares,  espacios  del  anonimato,  una  antropología  de  la  sobremodernidad,
 Barcelona: Gedisa
 
@@ -67,19 +69,13 @@ Proyecto urbano
 
 “Ciudades del mañana” Peter Hall
 
-“Ciudades para un pequeño planeta”. R. Rogers. GG
-
 “Compendio de arquitectura urbana”, Spreiregen
-
-“Dbook density data diagrams dwellings” Fernández Per, Aurora Mozas, Javier y Arpa, Javier
 
 “De la gare a la ville”. AAVV Silvana Editorriale
 
-“Density projets” Fernández Per, Aurora y Arpa, Javier
-
 “Diseño de barrios residenciales”, “Vivienda y espacio público” J. C Kirschenman
 
-“Ecourbanismo. Entornos humanos sostenibles: 60 proyectos”. M. Ruano GG
+“El crecimiento de las ciudades” Lewis,David
 
 “El diseño de vías urbanas” Maccluskey
 
@@ -91,11 +87,9 @@ Proyecto urbano
 
 “Historia de la Arquitectura Moderna”. L. Benevolo GG
 
-“Housing in Europa”
-
 “Internationale Bauausstellung Berlin 1987. Project Report”. AAVV Ed. IBA 1987
 
-“La calle, problemas de diseño y estructura”. Anderson
+“La libertad de habitar”. J. Robert. Habitat Internacional Coalition
 
 “La metrópolis como ciudad jardín Hilberseimer y Mies”. LLOBET, X. (2007). Barna
 
@@ -111,6 +105,8 @@ Proyecto urbano
 
 “Megaestructuras”. R. Banham GG
 
+“Nuevas ciudades” E. Galantay
+
 “Nuevos espacios urbanos” Gehl, Jan y Gemzoe, Lars
 
 “Rehacer paisajes” Rosell, Quim y otros
@@ -119,7 +115,7 @@ Proyecto urbano
 
 “Streets and patterns”. S Marshall
 
-“The American City”. A. Garvin. McGrawHill
+“The new urbanism” P. Katz
 
 “The seduction of place” J. Rikwert
 
@@ -127,4 +123,4 @@ Proyecto urbano
 
 “¡El tiempo construye!”. F. García-Huidobro. GG
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

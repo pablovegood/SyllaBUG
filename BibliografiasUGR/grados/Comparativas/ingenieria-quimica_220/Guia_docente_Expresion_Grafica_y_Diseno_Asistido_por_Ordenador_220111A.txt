@@ -2,11 +2,11 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Curso de Geometría Métrica. Puig Adam, P
 
@@ -14,6 +14,9 @@ Dibujo Normalizado. Company, P.; Gomis, J.M.; Ferrer, I.; Contero, M
 
 Dibujo   Técnico.  Villoría  San  Miguel,  V.;  Azofra  Márquez,  A.  Editorial  Universidad  de  Granada  Dibujo
 geométrico y de croquización. Rodríguez Abajo, F.; Álvarez de Abengoa, V
+
+Fundamentos   geométricos   del   diseño  en  ingeniería.  Prieto  Alberca,  Manuel  Fundamentos  geométricos.
+Villoria San Miguel, Víctor
 
 Geometría Aplicada. Gil Saurí, M.A
 
@@ -32,22 +35,16 @@ Geometría Métrica. Blazquez García, I.; Palancar Penella, M
 
 Normalización en el dibujo técnico con aplicaciones a la ingeniería civil. Cruzado, J.M
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Temas y presentaciones confeccionados por el Prof. Jesús Mataix publicados en la plataforma PRADO
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Dibujo geométrico y de croquización. Rodríguez Abajo, F.; Álvarez de Abengoa, V
 
 Ejercicios resueltos de Geometría Descriptiva. Gómez Vargas, J.C. Editorial AVICAM
 
-Fundamentos geométricos del diseño en ingeniería. Prieto Alberca, Manuel
-
 Fundamentos geométricos. Villoria San Miguel, Víctor
 
 Representación de curvas y superficies. Villoria San Miguel, V
 
-Temas y presentaciones confeccionados por el Prof. Jesús Mataix publicados en la plataforma PRADO
-
-📊 Porcentaje estimado de cambio: 54% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

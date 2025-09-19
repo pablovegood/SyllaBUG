@@ -2,11 +2,16 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Navarro   DJ   and   Foxcroft   DR   (2019).   learning   statistics  with  jamovi:  a  tutorial  for  psychology
+students   and   other  beginners.  (Version  0.70).  DOI:  10.24384/hgc3-7p15  Pardo,  A.,  Ruiz,  M.A.,  y  San
+Martín , R. (2009). Análisis de datos en Ciencias Sociales y de la Salud I. Madrid: Síntesis
 
-📚 Recursos sin cambios:
+Seber,   G.A.   (1977)   Linear   Regression   Analysis.   John   Wiley   Siegel,   S.   (1983)  Estadística  no
+paramétrica aplicada a las ciencias de la conducta. Trillas
+
+📚 Recursos sin cambios (44):
 ------------------------------
 Amón,   J.   (2000).   Estadística   para  Psicólogos  II.  Probabilidad.  Estadística  Inferencial  (9ª  Ed.).
 Ediciones Pirámide
@@ -108,23 +113,16 @@ Wilks, S. (1962) Mathematical Statistics. John Wiley. New York
 
 Zacs, S. (1971) The Theory of Statistical Inference. John Wiley. New York
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Navarro   DJ   and   Foxcroft   DR   (2019).   learning   statistics  with  jamovi:  a  tutorial  for  psychology
-students   and   other  beginners.  (Version  0.70).  DOI:  10.24384/hgc3-7p15  Pardo,  A.,  Ruiz,  M.A.,  y  San
-Martín   ,   R.   (2009).   Análisis   de   datos  en  Ciencias  Sociales  y  de  la  Salud  I.  Madrid:  Síntesis  →
 Navarro   DJ   and   Foxcroft   DR   (2019).   learning   statistics  with  jamovi:  a  tutorial  for  psychology
 students and other beginners. (Version 0.70). DOI: 10.24384/hgc3-7p15
 
-Seber,   G.A.   (1977)   Linear   Regression   Analysis.   John   Wiley   Siegel,   S.   (1983)  Estadística  no
-paramétrica   aplicada   a   las   ciencias   de   la  conducta.  Trillas  →  Siegel,  S.  (1983)  Estadística  no
-paramétrica aplicada a las ciencias de la conducta. Trillas
-
-✅ Recursos añadidos:
-------------------------------
 Pardo, A., Ruiz, M.A., y San Martín, R. (2009). Análisis de datos en Ciencias Sociales y de la Salud
 I. Madrid: Síntesis
 
 Seber, G.A. (1977) Linear Regression Analysis. John Wiley
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+Siegel, S. (1983) Estadística no paramétrica aplicada a las ciencias de la conducta. Trillas
+
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

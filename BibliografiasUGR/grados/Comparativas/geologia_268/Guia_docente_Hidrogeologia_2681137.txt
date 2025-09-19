@@ -2,11 +2,13 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+HISCOCK,   K.   (2005).   Hydrogeology.   Blackwell   PRICE,  M.  (1996)  Introducing  Groundwater.  Chapman  &
+Hall.   (Traducido   al  castellano)  CALVACHE,  M.L.  y  DUQUE,  C.  (2010).  Prácticas  de  Hidrogeología.  Ed.
+Universidad de Granada
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 CUSTODIO, E. y LLAMAS, M.R. (1983 ). Hidrología Subterránea. Ed. Omega, 2350 pp
 
@@ -23,17 +25,12 @@ SWARTZ, F.W. y ZHANG, H. (2003). Ground Water, Wiley and Sons
 
 TODD, D.K. (1972). Groundwater Hydrology. Ed. John Wiley & Sons. (trad. Ed. Paraninfo)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-HISCOCK,   K.   (2005).   Hydrogeology.   Blackwell   PRICE,  M.  (1996)  Introducing  Groundwater.  Chapman  &
-Hall.   (Traducido   al  castellano)  CALVACHE,  M.L.  y  DUQUE,  C.  (2010).  Prácticas  de  Hidrogeología.  Ed.
-Universidad   de   Granada   →   PRICE,  M.  (1996)  Introducing  Groundwater.  Chapman  &  Hall.  (Traducido  al
-castellano)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 CALVACHE, M.L. y DUQUE, C. (2010). Prácticas de Hidrogeología. Ed. Universidad de Granada
 
 HISCOCK, K. (2005). Hydrogeology. Blackwell
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+PRICE, M. (1996) Introducing Groundwater. Chapman & Hall. (Traducido al castellano)
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

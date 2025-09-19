@@ -2,42 +2,73 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (19):
 ------------------------------
+(2020). Models of good teaching practices for mobile learning in higher education
+
 Arabit-García, J., & Prendes-Espinosa, M. P. (2020). Metodologías y tecnologías para enseñar STEM en
-educación primaria: análisis de necesidades. Pixel-Bit: Revista de Aznar-Díaz, I., Raso-Sánchez, F.,
-&   Hinojo-Lucena,   Mª.   A.   (2017).  Percepciones  de  los  futuros  docentes  respecto  al  potencial  de  la
-ludificación   y   la   inclusión   de  los  videojuegos  en  los  procesos  de  enseñanza-aprendizaje.  Educar,
-53(1), 11-28
+educación   primaria:  análisis  de  necesidades.  Pixel-Bit:  Revista  de  Medios  y  Educación,  57,  107–128.
+https://doi.org/10.12795/pixelbit.2020.i57.04 |
 
-Burgos-Videla, C. G., Castillo Rojas, W. A., López Meneses, E., & Martínez, J. (2021)
+Aznar-Díaz,   I.,   Raso-Sánchez,   F.,   &   Hinojo-Lucena,   Mª.   A.  (2017).  Percepciones  de  los  futuros
+docentes   respecto  al  potencial  de  la  ludificación  y  la  inclusión  de  los  videojuegos  en  los  procesos
+de enseñanza-aprendizaje. Educar, 53(1), 11-28
 
-Cabero-Almenara,   J.,   Barroso,   J.,   Llorente-Cejudo,  C.,  &  Palacios,  A.  (2022).  Validación  Revista
-mexicana de investigación educativa, 27(92), 185-208
+Cabero-Almenara,   J.,   Barroso,  J.,  Llorente-Cejudo,  C.,  &  Palacios,  A.  (2022).  Validación  del  marco
+europeo de competencia digital docente mediante ecuaciones estructurales
 
 De   Haro-Rodríguez,   R.,   Arnai,   P.,   &  Núñez,  C.  R.  (2020).  Teacher  competences  in  early  childhood
 education and inclusive education: Design and validation of a questionnaire
 
-Digital   competence  analysis  of  university  students  using  latent  classes.  Education  Cabero-Almenara,
-J.,   &   Llorente-Cejudo,   C.   (2020).   Covid-19:   Transformación  radical  de  la  digitalización  en  las
-instituciones universitarias. Campus Virtuales, 9(2), 25–34
+Digital   competence  analysis  of  university  students  using  latent  classes.  Education  Sciences,  11(8),
+385.   https://doi.org/10.3390/educsci11080385   Cabero-Almenara,   J.,   &   Llorente-Cejudo,  C.  (2020).
+Covid-19:   Transformación   radical   de  la  digitalización  en  las  instituciones  universitarias.  Campus
+Virtuales, 9(2), 25–34
 
-Hinojo-Lucena,   F.   J.,   Aznar-Díaz,   I.,   &   Romero-Rodríguez,  J.  M.  (2020).  Mobile  learning  en  las
-diferentes   etapas   educativas.   Una   revisión   bibliométrica   de  la  producción  científica  en  Scopus
-(2007-2017). Revista Fuentes, 22(1), 37-52
+Orden   de   29   de  marzo  de  2021,  por  la  que  se  establecen  los  marcos  de  la  Competencia  Digital  en  el
+sistema educativo no universitario de la Comunidad Autónoma de Andalucía
 
-Hinojo-Lucena,   F.   J.,   Aznar-Díaz,   I.,   Cáceres-Reche,   M.   P.,  Trujillo  Torres,  J.  M.,  &  Romero-
-Rodríguez,   J.  M.  (2020).  Sharenting:  Internet  addiction,  self-control  and  online  photos  of  underage
-children. Revista Comunicar, 64, 97-108
+Palgrave    Communications,   6(80),   1-7.   https://doi.org/10.1057/s41599-020-0468-6   Vuorikari,   R.,
+Kluzer,   S.,   &   Punie,  Y.  (2022).  DigComp  2.2:  The  Digital  Competence  Framework  for  Citizens  –  With
+new examples of knowledge, skills and attitudes
 
-Huang, R., Spector, J. M., & Yang, J. (2019). Educational Technology: A primer for the 21st century.
-Springer
+Publications Office of the European Union. https://doi.org/10.2760/490274
 
 Raposo-Rivas,   M.,   &  Cebrián-De-la-Serna,  M.  (2020).  Tecnologías  para  la  formación  de  educadores  en
-la   sociedad   del   conocimiento.   Pirámide.   las   consultas,   exposiciones  y  debates;  así  como  en  la
-elaboración de los trabajos, individuales o en equipo, y en las sesiones de puesta en común
+la sociedad del conocimiento. Pirámide
 
-📚 Recursos sin cambios:
+Resolución de 4 de mayo de 2022 de la Dirección General de Evaluación y Cooperación Territorial, por
+la   que   se   publica  el  Acuerdo  de  la  Conferencia  Sectorial  de  Educación,  sobre  la  actualización  del
+marco   de   referencia   de  la  competencia  digital  docente.  BOE  n.116  de  16  de  mayo  de  2022  Rodríguez-
+Sánchez, J., & Ruiz-Palmero, J. (2020). Recursos didácticos y tecnológicos en educación. Síntesis
+
+Revista electrónica interuniversitaria de formación del profesorado, 23(1), 1-20
+
+Revista mexicana de investigación educativa, 27(92), 185-208
+
+Romero-Rodríguez,   J.   M.   (2020).   Mobile   learning   como  innovación  metodológica  en  la  universidad
+española:   análisis   sobre   su  implementación  y  estudio  de  buenas  prácticas  Romero-Rodríguez,  J.  M.,
+Aznar-Díaz, I., Hinojo-Lucena, F. J., & Cáceres-Reche, M. P
+
+https://doi.org/10.1016/j.compedu.2020.104007   Barroso-Osuna,   J.,   Llorente-Cejudo,  C.,  &  Palacios-
+Rodríguez,   A.   (2020).   Competencia  e  identidad  digital.  Percepciones  del  profesorado  en  formación.
+AULA, Revista de Humanidades y Ciencias Sociales, 66(2), 53-64
+
+https://doi.org/10.12795/revistafuentes.2020.v22.i1.04    Hinojo-Lucena,    F.    J.,   Aznar-Díaz,   I.,
+Cáceres-Reche, M. P., Trujillo Torres, J. M., & Romero-Rodríguez, J. M. (2020). Sharenting: Internet
+addiction, self-control and online photos of underage children. Revista Comunicar, 64, 97-108
+
+https://doi.org/10.33413/aulahcs.2020.66i2.139   Burgos-Videla,   C.   G.,  Castillo  Rojas,  W.  A.,  López
+Meneses, E., & Martínez, J. (2021)
+
+https://doi.org/10.3916/c64-2020-09   Huang,   R.,   Spector,   J.   M.,   &   Yang,  J.  (2019).  Educational
+Technology: A primer for the 21st century. Springer
+
+https://doi.org/10.6018/reifop.407111   Hinojo-Lucena,   F.  J.,  Aznar-Díaz,  I.,  &  Romero-Rodríguez,  J.
+M.   (2020).   Mobile   learning   en  las  diferentes  etapas  educativas.  Una  revisión  bibliométrica  de  la
+producción científica en Scopus (2007-2017). Revista Fuentes, 22(1), 37-52
+
+📚 Recursos sin cambios (4):
 ------------------------------
 Aznar-Díaz,   I.,   Hinojo-Lucena,   F.   J.,   Cáceres-Reche,   M.   P.,  &  Romero-Rodríguez,  J.  M.  (2020).
 Analysis   of   the   determining   factors  of  good  teaching  practices  of  mobile  learning  at  the  Spanish
@@ -52,11 +83,7 @@ Tecnológicos e Innovación en Educación. Editorial Técnica AVICAM
 
 Ramírez-Montoya, M.S. (2022). Estrategias de innovación para ambientes de aprendizaje. Síntesis
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (15):
 ------------------------------
 Aznar-Díaz,   I.,   Romero-Rodríguez,   J.   M.,   Lara-Lara,   F.,  &  Berral-Ortiz,  B.  (2025).  Impact  of  a
 mobile   application   to   improve   the   reading   and   writing  skills  of  immigrant  students  in  primary

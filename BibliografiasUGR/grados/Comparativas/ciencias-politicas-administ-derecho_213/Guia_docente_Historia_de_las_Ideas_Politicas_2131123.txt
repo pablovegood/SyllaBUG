@@ -2,11 +2,15 @@
 Grado: ciencias-politicas-administ-derecho (213)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
+DELGADO,   S.,   Sobre   Política.   Ideas   Políticas   desde   la  Polis  a  la  Revolución  Inglesa,  Comares,
+Granada, 2018 GINER, S.- Historia del pensamiento social, Ariel, Barcelona, 1982.XXXX VALLESPÍN, F.-
+Historia de la teoría política, 6 vols. Alianza, Madrid, 1990
+
 PALOMO, A. Guía de estudio: Historia de las ideas. Ed. Fleming, Granada, 2023
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 CASSIRER, E.- El mito del Estado, Fondo de Cultura Económica, México, 1974
 
@@ -36,24 +40,18 @@ TOUCHARD, J.- Historia de las ideas políticas, Tecnos, Madrid, 1961
 
 VALLESPÍN, F.- Historia de la teoría política, Alianza, Madrid, 1990
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-WOLIN,   Sh.   (2001):   Política   y   perspectiva.   Continuidad   y   cambio   en   el  pensamiento  político
-occidental,   Amorrortu,   Buenos   Aires.   la  Polis  a  la  Revolución  Inglesa,  Comares,  Granada,  2018)  →
 WOLIN,   Sh.   (2001):   Política   y   perspectiva.   Continuidad   y   cambio   en   el  pensamiento  político
 occidental, Amorrortu, Buenos Aires
 
-DELGADO,   S.,   Sobre   Política.   Ideas   Políticas   desde   la  Polis  a  la  Revolución  Inglesa,  Comares,
-Granada, 2018 GINER, S.- Historia del pensamiento social, Ariel, Barcelona, 1982.XXXX VALLESPÍN, F.-
-Historia   de   la  teoría  política,  6  vols.  Alianza,  Madrid,  1990  →  DELGADO,  S.,  Sobre  Política.  Ideas
-Políticas desde la Polis a la Revolución Inglesa, Comares, Granada, 2018
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
+DELGADO,   S.,   Sobre   Política.   Ideas   Políticas   desde   la  Polis  a  la  Revolución  Inglesa,  Comares,
+Granada, 2018
+
 Estudios Políticos, Madrid, 1957
 
 GINER, S.- Historia del pensamiento social, Ariel, Barcelona, 1982.XXXX
 
 VALLESPÍN, F.- Historia de la teoría política, 6 vols. Alianza, Madrid, 1990
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

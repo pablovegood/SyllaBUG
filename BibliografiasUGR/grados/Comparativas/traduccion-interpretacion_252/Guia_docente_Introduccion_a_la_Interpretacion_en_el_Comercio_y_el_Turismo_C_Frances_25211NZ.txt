@@ -2,11 +2,14 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-Collados Aís, A. & M.ª M. Fernández Sánchez (2001). Manual de interpretación bilateral. Granada
+Collados   Aís,   A.   &   M.ª  M.  Fernández  Sánchez  (2001).  Manual  de  interpretación  bilateral.  Granada:
+Comares
 
 Gentile, A. et al. (1996). Liaison Interpreting. A Handbook. Australia: Melbourne University Press
+
+Jiménez Ivars, M. A. (2000). La traducción a la vista. Un análisis descriptivo. Tesis doctoral
 
 Martin,   A.  (1990).  "La  Traducción  a  vista:  un  híbrido".  Día  de  Traducción  e  Interpretación  en  Moscú
 (conferencia)
@@ -14,7 +17,7 @@ Martin,   A.  (1990).  "La  Traducción  a  vista:  un  híbrido".  Día  de  Tr
 Rozan,   J.   F.   (1956).   La   prise   de   notes  en  interprétation  consécutive.  Ginebra:  Universidad  de
 Ginebra
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Alexieva, Bistra. (1997). “A Typology of Interpreter‑Mediated Events.” The Translator 3 (2): 153–174
 
@@ -49,7 +52,7 @@ Miyata, C. (2006). Mi jefe es chino. Madrid: LID
 Morrison,   T.   &   Conway,   W.A.   (2006).   Kiss,   Bow   or  Shake  Hands:  The  Bestselling  Guide  to  Doing
 Business in More Than 60 Countries (Kiss, Bow, or Shake Hands)
 
-Nolan, James. (2005). Interpretation: Techniques and Exercises. Clevedon: Multilingual Matters
+Nolan, J. (2005). Interpretation. Techniques and Exercises. Clevedon : Multilingual Matters LTD
 
 Trompenaars,   F.,   Hampden   Turner,   C.   (eds.)(1998).   Riding   the   Waves  of  Culture:  Understanding
 Cultural Diversity in Business. McGraw-Hill
@@ -57,11 +60,7 @@ Cultural Diversity in Business. McGraw-Hill
 Viaggio, Sergio. (1995). “In Praise of Sight Translation (And Squeezing the Last Drop Thereof).” The
 Interpreters’ Newsletter 6: 33–42
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (18):
 ------------------------------
 Amato,   Anna,   Natalia   Spinolo,   and   Maribel   del  Mar  González  Rodríguez,  eds.  (2018).  Handbook  of
 Remote Interpreting. Bern: Peter Lang
@@ -115,4 +114,4 @@ Timothy, Dallen J. (2020). Cultural Heritage and Tourism. 2nd ed. Bristol: Chann
 Trompenaars,   Fons,   and   Charles  Hampden‑Turner.  (1998).  Riding  the  Waves  of  Culture:  Understanding
 Cultural Diversity in Business. New York: McGraw‑Hill
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 69% [██████░░░░]

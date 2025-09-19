@@ -2,12 +2,11 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Madrid,   Doce   Notas,   2009.   querella   de   los  bufones.  València:  Publicacions  de  la  Univertitat  de
-València, 2013
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (64):
 ------------------------------
 ABAD CARLÉS, Ana. Historia del ballet y de la danza moderna. Madrid: Alianza, 2017
 
@@ -62,11 +61,20 @@ DEAN, Winton. Essays of Opera. Oxford: Clarendon Press, 1993
 DI   PROFIO,   Alessandro.   La   révolution   des   bouffons:   l'opéra   italien   au   Théâtre  de  Monsieur,
 1789-1792. Paris: CNRS, 2003
 
+DONINGTON,   Robert.   Opera   and   its  symbols.  The  unity  of  words,  music  and  staging.  New  Haven:  Yale
+University Press, 1990
+
 EVERETT,   William   A.;   LAIRD,   Paul   R.   (eds.).   The  Cambridge  companion  to  the  musical.  New  York:
 Cambridge University Press, 2008
 
 FABIANO,   Andrea.   La   "Querelle   des   Bouffons"   dans  la  vie  culturelle  française  du  XVIIIe  siècle.
 Paris: CNRS, 2005
+
+FERNÁNDEZ GUERRA, Jorge. Cuestiones de ópera contemporánea. Metáforas de supervivencia. Madrid, Doce
+Notas, 2009
+
+FERRER, Anacleto (ed.). Estética, política y música en los tiempos de la “Encyclopédie”: la querella
+de los bufones. València: Publicacions de la Univertitat de València, 2013
 
 FISHER,   Burton   D.   A   history   of  opera  milestones  and  metamorphoses.  Coral  Gables:  Opera  Journeys
 Pub., 2003
@@ -121,6 +129,8 @@ PARKER, Roger. The Oxford illustrated history of opera. Oxford: Oxford Universit
 PUERTAS,   David;   RADIGALES,  Jaume.  100  cosas  que  tienes  que  saber  de  la  ópera.  Mitos  y  leyendas  del
 espectáculo más grande de todos los tiempos. Barcelona: Lectio, 2016
 
+PURVIS, Philip. Masculinity in Opera. Gender, History, and New Musicology. New York: Routledge, 2013
+
 RADIGALES,   Jaume   e   Isabel   VILLANUEVA   BENITO.   Ópera  en  pantalla.  Del  cine  al  streaming.  Madrid:
 Cátedral, 2019
 
@@ -168,28 +178,8 @@ WAGNER, Richard. Ópera y drama. Madrid: Ediciones Akal, 2013
 WATT,   Paul;   COLLINS,  Sarah;  y  ALLIS,  Michael  (eds.).  The  Oxford  Handbook  of  Music  and  Intellectual
 Culture in the Nineteenth Century. New York: Oxford University Press, 2020
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Oxford   University   Press,   2017   →   GASPAROV,   Boris.  Five  Operas  and  a  Symphony.  Word  and  music  in
-Russian culture. New Haven: Yale University Press, 2005
+No hay elementos.
 
-Yale   University   Press,   1990   →   GASPAROV,   Boris.   Five   Operas  and  a  Symphony.  Word  and  music  in
-Russian culture. New Haven: Yale University Press, 2005
-
-Cambridge   University   Press,   2008   →   THOMAS,  Downing  A.  Aesthetics  of  opera  in  the  Ancien  Régime,
-1647-1785. Cambridge: Cambridge University Press, 2002
-
-✅ Recursos añadidos:
-------------------------------
-DONINGTON,   Robert.   Opera   and   its  symbols.  The  unity  of  words,  music  and  staging.  New  Haven:  Yale
-University Press, 1990
-
-FERNÁNDEZ GUERRA, Jorge. Cuestiones de ópera contemporánea. Metáforas de supervivencia. Madrid, Doce
-Notas, 2009
-
-FERRER, Anacleto (ed.). Estética, política y música en los tiempos de la “Encyclopédie”: la querella
-de los bufones. València: Publicacions de la Univertitat de València, 2013
-
-PURVIS, Philip. Masculinity in Opera. Gender, History, and New Musicology. New York: Routledge, 2013
-
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

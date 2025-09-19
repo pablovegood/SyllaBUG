@@ -2,11 +2,11 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Arroyo   Menéndez,   Millán  y  Sádaba  Rodríguez,  Igor  (coords.)  (2012).  Metodología  de  la  investigación
 social. Técnicas innovadoras y sus aplicaciones. Madrid: Síntesis
@@ -14,20 +14,17 @@ social. Técnicas innovadoras y sus aplicaciones. Madrid: Síntesis
 Becker,   Howard   (2009).   Trucos   del   oficio.   Cómo  conducir  su  investigación  en  ciencias  sociales.
 Madrid: Siglo XXI
 
-Requena   Santos,   Félix   y   Ayuso   Sánchez,   Luis  (eds.)  (2018).  Estrategias  de  investigación  en  las
-ciencias sociales: fundamentos para la elaboración de un Trabajo de Fin de Grado o un Trabajo de Fin
-de Máster. Valencia: Tirant Lo Blanch
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Guinea   Martín   Daniel   (coord.)   (2012).   Trucos   del   oficio   de   investigador.  Casos  prácticos  de
 investigación social. Barcelona: Gedisa
 
+Requena   Santos,   Félix   y   Ayuso   Sánchez,   Luis  (eds.)  (2018).  Estrategias  de  investigación  en  las
+ciencias sociales: fundamentos para la elaboración de un Trabajo de Fin de Grado o un Trabajo de Fin
+de   Máster.   Valencia:  Tirant  Lo  Blanch  La  recomendada  por  cada  tutor/a  según  la  temática  específica
+del Trabajo Fin de Grado del estudiantado
+
+✅ Recursos añadidos (1):
+------------------------------
 La   recomendada   por   cada   tutor/a   según   la   temática   específica   del   Trabajo   Fin  de  Grado  del
 estudiantado
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

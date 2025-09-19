@@ -2,11 +2,7 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (1):
 ------------------------------
 Paul   A.   Tipler,  Gene  Mosca:  Física  para  la  ciencia  y  la  tecnología  (Vol.  I)  .  Ed.  Reverté,  Douglas
 G.   Giancoli:  Física  para  Universitarios  (Vol.  I).  Pearson  Educación  2002  Raymond  A.  Serway,  John  W.
@@ -18,11 +14,11 @@ la   Ciencia.   I   -   Ciencias   Físicas.   Editorial  Orbis,  1985  Richard 
 física.   Editorial   Orbis,   1987   Santiago   Ramón   y   Cajal,   Reglas   y  consejos  sobre  investigación
 científica (Los tónicos de la voluntad). Espasa-Calpe, 1991
 
-🔁 Misma obra con edición/año distinto:
+📚 Recursos sin cambios (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (10):
 ------------------------------
 Douglas G. Giancoli: Física para Universitarios (Vol. I). Pearson Educación 2002
 
@@ -32,6 +28,8 @@ Addison Wesley Longman. 1998
 Isaac Asimov, Introducción a la Ciencia. I - Ciencias Físicas. Editorial Orbis, 1985
 
 Paul A. Tipler, Gene Mosca: Física para la ciencia y la tecnología (Vol. I) . Ed. Reverté, 2005
+
+Quirantes Sierra, Arturo: Exámenes de Física I . Amazon
 
 Quirantes Sierra, Arturo: Prácticas de Mecánica . Amazon
 

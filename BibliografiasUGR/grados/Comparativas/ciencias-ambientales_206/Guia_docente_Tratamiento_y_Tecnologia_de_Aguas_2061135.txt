@@ -2,11 +2,13 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Asano,   T.,   Burton,   F.   Leverenz,   H.   Tsuchihashi   R.   and   Tchobanoglous  G.  Water  Reuse,  Issues,
+Technologies   and   Applications.  Mc  Graw  Hill,  New  York.  2007  Béchaux,  J.  Manual  Técnico  del  Agua  4ª
+ed. Degremont. 1979
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 American Water Works Association Research Foundation. Tratamiento del Agua por Procesos de Membrana.
 Principios, Procesos y Aplicaciones. Mc Graw Hill Interamericana. Madrid. 1998
@@ -23,6 +25,8 @@ Editorial S.L. Barcelona. (2000)
 
 Fariñas,   M.   Ósmosis   Inversa:  Fundamentos,  Tecnología  y  Aplicaciones.  Mc  Graw  Hill  Interamericana.
 Madrid. 1999
+
+Gray. Water technology and Introduction for Environmental Scientists and Engineers. Elsevier. 2005
 
 Gómez,   M.A.,  Hontoria,  E.  Técnicas  Analíticas  en  el  Control  de  la  Ingeniería  Ambiental.  Universidad
 de Granada. 2003
@@ -45,17 +49,11 @@ Vesilind, P.A. Wastewater Treatment Plant Desing. IWA Publishing. Alexandría. 2
 White,   G.C.   Handbook   of  Chlorination  and  Alternative  Disifentants.  Wiley  Inter-Science.  New  York.
 1999
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Asano,   T.,   Burton,   F.   Leverenz,   H.   Tsuchihashi   R.   and   Tchobanoglous  G.  Water  Reuse,  Issues,
-Technologies   and   Applications.  Mc  Graw  Hill,  New  York.  2007  Béchaux,  J.  Manual  Técnico  del  Agua  4ª
-ed. Degremont. 1979  →  Béchaux, J. Manual Técnico del Agua 4ª ed. Degremont. 1979
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Asano,   T.,   Burton,   F.   Leverenz,   H.   Tsuchihashi   R.   and   Tchobanoglous  G.  Water  Reuse,  Issues,
 Technologies and Applications. Mc Graw Hill, New York. 2007
 
-Gray. Water technology and Introduction for Environmental Scientists and Engineers. Elsevier. 2005
+Béchaux, J. Manual Técnico del Agua 4ª ed. Degremont. 1979
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

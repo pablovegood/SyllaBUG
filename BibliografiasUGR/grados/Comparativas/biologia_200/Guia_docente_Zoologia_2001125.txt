@@ -2,7 +2,7 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (8):
 ------------------------------
 Dawkins, R. (1993) El relojero ciego. RBA Editores, S.A., Barcelona
 
@@ -16,16 +16,21 @@ Madrid
 
 Gould, S.J. (1993) "Brontosaurus" y la nalga del ministro. Crítica, Barcelona
 
+Granada   Tudge,   C.   (2001).   La   variedad   de  la  vida.  Ed.  Crítica,  Barcelona  Tellería,  J.L.  (1987)
+Zoología evolutiva de los vertebrados. Síntesis, Madrid
+
+Pleguezuelos,   J.M.   (1997).   Distribución   y   Biogeografía   de   los  Anfibios  y  Reptiles  en  España  y
+Purroy, F.J. y Varela, J.M. (2016). Guía de los mamíferos de España. Península, Baleares y Canarias.
+Lynx Edicions. Barcelona
+
 Weismann, E. (1986) Los rituales amorosos. Salvat Editores, S.A., Barcelona
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (50):
 ------------------------------
-Arnold,   E.N.  y  J.A.  Burton.  (1982).  Guía  de  campo  de  los  reptiles  y  anfibios  de  España  y  de  Europa.
-Ed. Omega. Barcelona
-
-Arsuaga, J.L. y Martínez, I. (1998) La especie elegida. Ediciones Temas de Hoy, Madrid
-
 Askew R.R. 1988. The Dragonflies of Europe. Harley Books (B.H. y A. Harley Ltd.). England
+
+Ayala,   F.J.   (1999)   La   teoría   de   la   evolución.  De  Darwin  a  los  últimos  avances  de  la  genética.
+Ediciones Temas de Hoy, Madrid
 
 Bang, P. y Dahlström, P. (1992). Huellas y señales de los animales de Europa. Ed. Omega. Barcelona
 
@@ -68,6 +73,9 @@ Delibes de Castro, M. (2001) Vida. La Naturaleza en peligro. Ediciones Temas de 
 
 Díaz,   J.A.   &  Santos,  T.  (2000).  Zoología.  Aproximación  evolutiva  a  la  diversidad  y  organización  de
 los animales. Ed. Síntesis. Madrid
+
+GUÍAS   DE   CAMPO:   Arnold,   E.N.   y  J.A.  Burton.  (1982).  Guía  de  campo  de  los  reptiles  y  anfibios  de
+España y de Europa. Ed. Omega. Barcelona
 
 Gould,   S.J.   (1991)   La   vida   maravillosa.   Burgues  Shale  y  la  naturaleza  de  la  historia.  Crítica,
 Barcelona
@@ -129,7 +137,8 @@ Sanz, J.L. (1999) Los dinosaurios voladores. Historia evolutiva de las aves prim
 Madrid
 
 Serie FAUNA IBÉRICA. Consejo Superior de Investigaciones Científicas. Madrid. Desde 1990 (volumen 0)
-hasta 2022 (volumen 47)
+hasta   2022   (volumen   47)   DIVULGACIÓN   CIENTÍFICA:   Arsuaga,  J.L.  y  Martínez,  I.  (1998)  La  especie
+elegida. Ediciones Temas de Hoy, Madrid
 
 Shubin,   N.   (2015)   Tu   pez   interior.  3500  millones  de  años  de  historia  del  cuerpo  humano.  Capitán
 Swing. Madrid
@@ -148,30 +157,23 @@ CSIC. Madrid
 
 Wilson, E.O. (1996). La diversidad de la vida. Crítica, Barcelona
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Pleguezuelos,   J.M.   (1997).   Distribución   y   Biogeografía   de   los  Anfibios  y  Reptiles  en  España  y
-Portugal.   Ed.   Universidad   de   Granada  y  Asociación  Herpetológica  Española,  Granada  Purroy,  F.J.  y
-Varela, J.M. (2016). Guía de los mamíferos de España. Península, Baleares y Canarias. Lynx Edicions.
-Barcelona   →   Pleguezuelos,   J.M.   (1997).  Distribución  y  Biogeografía  de  los  Anfibios  y  Reptiles  en
-España y Portugal. Ed. Universidad de Granada y Asociación Herpetológica Española, Granada
-
-Granada   Tudge,   C.   (2001).   La   variedad   de  la  vida.  Ed.  Crítica,  Barcelona  Tellería,  J.L.  (1987)
-Zoología   evolutiva   de   los   vertebrados.   Síntesis,   Madrid   →  Tudge,  C.  (2001).  La  variedad  de  la
-vida. Ed. Crítica, Barcelona
-
-✅ Recursos añadidos:
-------------------------------
-Ayala,   F.J.   (1999)   La   teoría   de   la   evolución.  De  Darwin  a  los  últimos  avances  de  la  genética.
-Ediciones Temas de Hoy, Madrid
-
-DIVULGACIÓN CIENTÍFICA
+Arsuaga, J.L. y Martínez, I. (1998) La especie elegida. Ediciones Temas de Hoy, Madrid
 
 GUÍAS DE CAMPO
+
+Pleguezuelos,   J.M.   (1997).   Distribución   y   Biogeografía   de   los  Anfibios  y  Reptiles  en  España  y
+Portugal. Ed. Universidad de Granada y Asociación Herpetológica Española, Granada
 
 Purroy, F.J. y Varela, J.M. (2016). Guía de los mamíferos de España. Península, Baleares y Canarias.
 Lynx Edicions. Barcelona
 
+Serie FAUNA IBÉRICA. Consejo Superior de Investigaciones Científicas. Madrid. Desde 1990 (volumen 0)
+hasta 2022 (volumen 47)
+
 Tellería, J.L. (1987) Zoología evolutiva de los vertebrados. Síntesis, Madrid
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+Tudge, C. (2001). La variedad de la vida. Ed. Crítica, Barcelona
+
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

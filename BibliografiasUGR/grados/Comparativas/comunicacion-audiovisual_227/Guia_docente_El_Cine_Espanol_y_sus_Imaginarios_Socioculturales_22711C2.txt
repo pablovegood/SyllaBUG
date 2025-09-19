@@ -2,16 +2,19 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (4):
 ------------------------------
 A.A.V.V.   Cine   español:   situación   actual   y   perspectivas:   actas  del  I  Congreso  de  Cine  español,
-Granada   del   3   al   5   de   noviembre   de   2000   /  edición  de  Juan  Bellido,  [et  al.].  Granada:  Grupo
-editorial universitario, 2001
+Granada del 3 al 5 de noviembre de 2000 / edición de Juan Bellido, [et al.]
 
+Alvarez Monzonillo, José María. La industria cinematográfica en España (1980-1991)
+
+Granada: Grupo editorial universitario, 2001
+
+Madrid, Ministerio de Cultura, Fundesco, 1993
+
+📚 Recursos sin cambios (38):
+------------------------------
 AA.VV.: El cine y la transición política española. Valencia, Filmoteca de la Generalitat, 1989
 
 Aguilar, Carlos. Guía del cine español. Madrid: Cátedra, 2007
@@ -31,6 +34,9 @@ Universidad Complutense, 1983
 
 Borau, José Luis (coord.). Diccionario del cine español. Madrid: Alianza, 1998
 
+Bou,   Núria   y   Pérez,   Xavier   (eds.).   El   deseo   femenino  en  el  cine  español  (1939-1975).  Madrid,
+Cátedra, 2022
+
 Caparrós Lera, José María. El cine español de la democracia. Barcelona: Anthropos, 1992
 
 Castro   de   Paz,   José   Luis.   La   nueva   memoria   del   cine   español.   Historia(s)  del  cine  español
@@ -49,6 +55,8 @@ De la Madrid, Juan Carlos. Primeros tiempos del cinematógrafo en España. Ovied
 
 Del   Amo,   García;  Alfonso.  Catálogo  general  del  cine  de  la  Guerra  Civil.  Madrid:  Cátedra,  Filmoteca
 Española,1996
+
+Delgado Casado, Juan. La bibliografía cinematográfica española. Madrid: Arco libros, 1993
 
 Elsaesser,   Thomas.   El  concepto  de  cine  nacional.  El  sujeto  fantasmal  del  imaginario  de  la  Historia
 del cine. Eutopías, Documentos de Trabajo. Valencia: Ediciones Episteme, S.L., 1997
@@ -76,8 +84,15 @@ Gubern, Román. Proyector de Luna. La generación del 27 y el cine. Barcelona: A
 Heredero,   Carlos   F.   y   Rodríguez  Merchán,  Eduardo  (coords.).  Diccionario  del  Cine  Iberoamericano:
 España, Portugal y América. Madrid: SGAE, 2011
 
+Heredero,   Carlos.  Las  huellas  del  tiempo.  Cine  español  1951-1961.  Valencia,  Madrid:  Filmoteca  de  la
+Generalitat, Filmoteca Española, 1993
+
 Hernández,   Rubén.   Pere   Portabella.   Hacia  una  política  del  relato  cinematográfico.  Madrid,  Errata
 Naturae, 2008
+
+Herrera, Javier y Martínez Carazo, Cristina (eds.). Hispanismo y Cine. Madrid: Iberoamericana, 2007
+
+Hobsbawn, Eric; Ranger, Terence: La invención de la tradición. Barcelona: Crítica, 2005
 
 Hopwell, John. El cine español después de Franco. Madrid, El Arquero, 1989
 
@@ -92,41 +107,25 @@ of California Press, 1993
 
 Kinder, Marsha. Refiguring Spain. Cinema/Media/Representation. Durham, Duke University Press, 1997
 
-Viota, Paulino. La herencia del cine. Escritos escogidos. Madrid, Ediciones Asimétricas, 2019
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Iberoamericana,   2007   Hobsbawn,   Eric;   Ranger,   Terence:   La  invención  de  la  tradición.  Barcelona:
-Crítica,   2005   →  Hobsbawn,  Eric;  Ranger,  Terence:  La  invención  de  la  tradición.  Barcelona:  Crítica,
-2005
-
-Madrid,   Cátedra,   2022   →   Bou,   Núria  y  Pérez,  Xavier  (eds.).  El  deseo  femenino  en  el  cine  español
-(1939-1975). Madrid, Cátedra, 2022
-
-Bou,   Núria   y  Pérez,  Xavier  (eds.).  El  deseo  femenino  en  el  cine  español  (1939-1975)  →  Bou,  Núria  y
-Pérez, Xavier (eds.). El deseo femenino en el cine español (1939-1975). Madrid, Cátedra, 2022
-
-Filmoteca   de   la   Generalitat,  Filmoteca  Española,  1993  →  Heredero,  Carlos.  Las  huellas  del  tiempo.
-Cine español 1951-1961. Valencia, Madrid: Filmoteca de la Generalitat, Filmoteca Española, 1993
-
-Heredero,   Carlos.   Las   huellas   del   tiempo.   Cine  español  1951-1961.  Valencia,  Madrid  →  Heredero,
-Carlos.   Las   huellas   del   tiempo.   Cine   español   1951-1961.   Valencia,   Madrid:   Filmoteca   de  la
-Generalitat, Filmoteca Española, 1993
-
-Alvarez   Monzonillo,   José   María.   La   industria   cinematográfica   en   España  (1980-1991)  →  Alvarez
-Monzonillo,   José   María.   La  industria  cinematográfica  en  España  (1980-1991).  Madrid,  Ministerio  de
-Cultura, Fundesco, 1993
-
-Madrid,   Ministerio   de   Cultura,   Fundesco,   1993   →   Alvarez   Monzonillo,  José  María.  La  industria
-cinematográfica en España (1980-1991). Madrid, Ministerio de Cultura, Fundesco, 1993
-
-✅ Recursos añadidos:
-------------------------------
-Delgado Casado, Juan. La bibliografía cinematográfica española. Madrid: Arco libros, 1993
-
-Herrera, Javier y Martínez Carazo, Cristina (eds.). Hispanismo y Cine. Madrid: Iberoamericana, 2007
-
 Torre-Espinosa,   Mario   de  la.  Almodóvar  y  la  cultura.  Del  tardofranquismo  a  la  Movida.  Gijón,  Trea,
 2020
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+Viota, Paulino. La herencia del cine. Escritos escogidos. Madrid, Ediciones Asimétricas, 2019
+
+✅ Recursos añadidos (4):
+------------------------------
+A.A.V.V.   Cine   español:   situación   actual   y   perspectivas:   actas  del  I  Congreso  de  Cine  español,
+Granada   del   3   al   5   de   noviembre   de   2000   /  edición  de  Juan  Bellido,  [et  al.].  Granada:  Grupo
+editorial universitario, 2001
+
+A.A.V.V.   Cine   español:   situación   actual   y   perspectivas:   actas  del  I  Congreso  de  Cine  español,
+Granada   del   3   al   5   de   noviembre   de   2000   /  edición  de  Juan  Bellido,  [et  al.].  Granada:  Grupo
+editorial universitario, 2001
+
+Alvarez   Monzonillo,   José   María.   La   industria   cinematográfica   en   España   (1980-1991).  Madrid,
+Ministerio de Cultura, Fundesco, 1993
+
+Alvarez   Monzonillo,   José   María.   La   industria   cinematográfica   en   España   (1980-1991).  Madrid,
+Ministerio de Cultura, Fundesco, 1993
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

@@ -2,11 +2,12 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ariel,   2001   Lambert,  J.D.  (1993).  Numerical  methods  for  ordinary  differential  systems:  the  initial
+value problem, John Wiley
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 Atkinson, K., (1989). An introduction to numerical analysis. Second edition. John Wiley and Sons
 
@@ -26,14 +27,9 @@ Sauer, T. (2013). Análisis Numérico, Pearson, México
 
 Stoer, J. & Bulirsch, R (2000). Introduction to numerical analysis, 3ª Ed. Springer-Verlag
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Ariel,   2001   Lambert,  J.D.  (1993).  Numerical  methods  for  ordinary  differential  systems:  the  initial
-value   problem,   John   Wiley   →   Lambert,   J.D.   (1993).  Numerical  methods  for  ordinary  differential
-systems: the initial value problem, John Wiley
+Lambert,   J.D.   (1993).   Numerical   methods   for   ordinary   differential   systems:  the  initial  value
+problem, John Wiley
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

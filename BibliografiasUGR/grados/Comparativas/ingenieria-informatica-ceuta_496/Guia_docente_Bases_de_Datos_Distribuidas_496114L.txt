@@ -2,11 +2,13 @@
 Grado: ingenieria-informatica-ceuta (496)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Stefano   Ceri,  Giuseppe  Pelagatti:  Distributed  Database.  Principles  and  Systems.  McGrawHill  India  (2
+noviembre   2017)  Ramez  Elmasri,  Shamkant  B.  Navathe:  Fundamentals  of  Database  Systems  (7th  Edition).
+Pearson, 2015
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 A.   Silberschatz,   H.   F.   Korth,  S.  Sudarshan:  Database  System  Concepts  (7th  Edition).  McGraw-Hill,
 2019
@@ -24,15 +26,11 @@ Mathematisch Centrum, 1983
 Saeed.   K.   Rahimi,   Frank.   S.  Haug:  Distributed  Database  Management  Systems:  A  practical  approach.
 Wiley-Blackwell, 2010
 
-Stefano Ceri, Giuseppe Pelagatti: Distributed Database. Principles and Systems. McGraw-Hill India (2
-noviembre 2017)
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Ramez Elmasri, Shamkant B. Navathe: Fundamentals of Database Systems (7th Edition). Pearson, 2015
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+Stefano Ceri, Giuseppe Pelagatti: Distributed Database. Principles and Systems. McGraw-Hill India (2
+noviembre 2017)
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

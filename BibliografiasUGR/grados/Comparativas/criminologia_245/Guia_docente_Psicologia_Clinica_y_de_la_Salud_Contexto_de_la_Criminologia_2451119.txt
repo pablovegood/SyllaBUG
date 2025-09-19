@@ -2,43 +2,25 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Esbec, E. y Gómez-Jarabo, G. (2000). Psicología Forense y Tratamiento Jurídico Legal de Fuentenebro,
-F. y Vázquez, C. (1991). Psicología médica, psicopatología y psiquiatría, Vol
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (54):
 ------------------------------
 American   Psychiatric   Association.  DSM-5  (2013).  Manual  diagnóstico  y  estadístico  de  los  trastornos
 mentales. Barcelona: Masson
 
-Barlow, D. H, y Durand, V. M. (2003). Psicopatología. Madrid: Thomson
-
-Belloch,   A.,   Sandín,  B.  y  Ramos,  F.  (1995).  Manual  de  Psicopatología,  Vol.  I  y  II.  Madrid:  McGraw-
-Hill
-
-Caballo,   V.,   Salazar,   I.   C.   y   Carrobles,   J.   A.  (2011).  Manual  de  psicopatología  y  trastornos
-psicológicos. Madrid: Ed. Pirámide
-
-Cabrera,   J.   y  Fuertes,  R.  (1994).  La  enfermedad  mental  ante  la  ley:  manual  de  psiquiatría  forense.
-Comillas: Universidad Pontificia
-
-Fuentenebro,   F.   y   Vázquez,   C.   (1991).   Psicología   médica,  psicopatología  y  psiquiatría,  Vol.  2
-Madrid: Interamericana/McGraw-Hill
-
-Pozueco, J.M. (2013). Tratado de Psicopatología Criminal. Madrid: Editorial EOS
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Annual   Review  of  Legal  Psychology  2008.  Monograph  of  Legal  Psychology  in  Iberoamerica.  Madrid.  Vol.
 18, 2008. Pags. 91-97
 
 Asociación    Americana    de   Discapacidades   Intelectuales   y   del   Desarrollo   (2011)   Discapacidad
 Intelectual. Definición, clasificación y sistemas de apoyo.Madrid: Alianza Editorial
+
+Barlow, D. H, y Durand, V. M. (2003). Psicopatología. Madrid: Thomson
+
+Belloch,   A.,   Sandín,  B.  y  Ramos,  F.  (1995).  Manual  de  Psicopatología,  Vol.  I  y  II.  Madrid:  McGraw-
+Hill
 
 Bernat-N.T.   (2022).   Atlas  Forense  Gráfico-Psicómetrico:  Perspectivas  de  la  Psicopatología  Forense.
 25 casos forenses medico-psicopatologicos. Barcelona: J.M. Bosch
@@ -54,6 +36,12 @@ CIE-10   (1993).   Trastornos   Mentales  y  del  Comportamiento.  Criterios  di
 Décima Revisión de la Clasificación Internacional de las Enfermedades. Madrid: Editorial MEDITOR
 
 Caballo, V. (2004). Manual de trastornos de la personalidad. Madrid: Síntesis
+
+Caballo,   V.,   Salazar,   I.   C.   y   Carrobles,   J.   A.  (2011).  Manual  de  psicopatología  y  trastornos
+psicológicos. Madrid: Ed. Pirámide
+
+Cabrera,   J.   y  Fuertes,  R.  (1994).  La  enfermedad  mental  ante  la  ley:  manual  de  psiquiatría  forense.
+Comillas: Universidad Pontificia
 
 Cantón,   J.   y   Cortés.   M.   R.   (2003).   Guía  para  la  evaluación  del  abuso  sexual  infantil.  Madrid:
 Editorial Pirámide
@@ -93,6 +81,9 @@ casos. Madrid: Editorial Pirámide
 Freckelton   (2013).   Autism   Spectrum   Disorder:   Forensic   Issues   and  Challenges  for  Mental  Health
 Professionals and Courts. Journal of AppliedResearch in Intellectual Disabilities 26, 420–434
 
+Fuentenebro,   F.   y   Vázquez,   C.   (1991).   Psicología   médica,  psicopatología  y  psiquiatría,  Vol.  2
+Madrid: Interamericana/McGraw-Hill
+
 Garrido, E., Masip. J. y Herrero, M. C. (2006). Psicología Jurídica. Madrid: Editorial Paerson
 
 Garrido, V. (2000). El psicópata: Un camaleón en la sociedad actual. Valencia: Izira Editorial
@@ -119,6 +110,8 @@ intervenciones psicológicas. Bilbao: Desclée De Brouwer
 Mesa, P. J, y Rodríguez, J. F. (2007). Manual de psicopatología general. Madrid: Psicología Pirámide
 
 Pinto, A. G, Gutiérrez, M. y Ezcurra, J. (2009). Avances sobre el trastorno bipolar. Aula Médica
+
+Pozueco, J.M. (2013). Tratado de Psicopatología Criminal. Madrid: Editorial EOS
 
 Rodes, F. (2006). Enfermedad mental. Aspectos Médico-Forenses. Madrid: Ediciones Díaz Santos
 
@@ -161,4 +154,8 @@ Vázquez, B. (2005). Manual de Psicología Forense. Madrid: Editorial Síntesis
 
 Vázquez, B. y Catalán, M. J. (2008). Casos Prácticos en Psicología Forense. Madrid: EOS
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

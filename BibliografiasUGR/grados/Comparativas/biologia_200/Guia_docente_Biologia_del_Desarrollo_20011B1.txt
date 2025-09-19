@@ -2,37 +2,31 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-B.M. Carlson “Embriología Humana y Biología del Desarrollo” 8ª ed Elsevier, 2014
-
-Chapters 17-22 en Taiz et al “Plant Physiology and Development”, 6ª ed. Sinauer, 2018
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-S.F.   Gilbert:   “BIOLOGÍA   DEL   DESARROLLO”.   7ed  Ed.  Panamericana,  2005  (agotado)  De  este  libro  hay
-ediciones   posteriores   en   ingles:   Michael   JF  Barresi,  &  Scott  F.  Gilbert  “Developmental  Biology”
-(12th   ed)   Sinauer   Associates   Inc,   2020   →   S.F.   Gilbert:   “BIOLOGÍA   DEL   DESARROLLO”.  7ed  Ed.
-Panamericana, 2005 (agotado)
-
-T.W. Sadler “Langman Embriología Médica”. 11ª ed Ed Médica Panamericana. 2009 I.Hussain “Development
-of Plants” Global Media, 2010. Recurso electrónico en la Biblioteca de la Universidad An Overview of
-Plant   Development.   En  S.F.  Gilbert  “Developmental  Biology”  Sinauer,  2010,  chapter  20  →  An  Overview
-of Plant Development. En S.F. Gilbert “Developmental Biology” Sinauer, 2010, chapter 20
-
 Lewis   Wolpert   et   al.:   “PRINCIPIOS   DEL   DESARROLLO”   9ed   Médica  Panamericana,  De  este  libro  hay
 ediciones   posteriores   en   ingles:   L.   Wolpert   et  al.  “Principles  in  Development”  (6th  ed)  Oxford
 University   Press,  2019  J.M.W.  Slack:  “ESSENTIAL  DEVELOPMENTAL  BIOLOGY”  3ed  Wiley-Blackwell,  2012  V.
 Flores:   “Embriología   Humana”.   Ed.   Médica   Panamericana,   2015   Arteaga   Martínez,  García  Peláez:
 “Embriología   Humana   y   Biología   del  Desarrollo”.  Ed.  Médica  Panamericana,  2013  K.L.  Moore  et  al.:
-“Embriología   Clínica”,   9ª   ed  Ed.  Elsevier,  2013  →  K.L.  Moore  et  al.:  “Embriología  Clínica”,  9ª  ed
-Ed. Elsevier, 2013
+“Embriología Clínica”, 9ª ed Ed. Elsevier, 2013
 
-✅ Recursos añadidos:
+S.F.   Gilbert:   “BIOLOGÍA   DEL   DESARROLLO”.   7ed  Ed.  Panamericana,  2005  (agotado)  De  este  libro  hay
+ediciones   posteriores   en   ingles:   Michael   JF  Barresi,  &  Scott  F.  Gilbert  “Developmental  Biology”
+(12th ed) Sinauer Associates Inc, 2020
+
+T.W. Sadler “Langman Embriología Médica”. 11ª ed Ed Médica Panamericana. 2009 I.Hussain “Development
+of Plants” Global Media, 2010. Recurso electrónico en la Biblioteca de la Universidad
+
+📚 Recursos sin cambios (3):
+------------------------------
+An Overview of Plant Development. En S.F. Gilbert “Developmental Biology” Sinauer, 2010, chapter 20
+
+B.M. Carlson “Embriología Humana y Biología del Desarrollo” 8ª ed Elsevier, 2014
+
+Chapters 17-22 en Taiz et al “Plant Physiology and Development”, 6ª ed. Sinauer, 2018
+
+✅ Recursos añadidos (10):
 ------------------------------
 Arteaga   Martínez,   García   Peláez:   “Embriología   Humana   y   Biología   del   Desarrollo”.  Ed.  Médica
 Panamericana, 2013
@@ -48,7 +42,11 @@ Universidad
 
 J.M.W. Slack: “ESSENTIAL DEVELOPMENTAL BIOLOGY” 3ed Wiley-Blackwell, 2012
 
+K.L. Moore et al.: “Embriología Clínica”, 9ª ed Ed. Elsevier, 2013
+
 Lewis Wolpert et al.: “PRINCIPIOS DEL DESARROLLO” 9ed Médica Panamericana
+
+S.F. Gilbert: “BIOLOGÍA DEL DESARROLLO”. 7ed Ed. Panamericana, 2005 (agotado)
 
 T.W. Sadler “Langman Embriología Médica”. 11ª ed Ed Médica Panamericana. 2009
 

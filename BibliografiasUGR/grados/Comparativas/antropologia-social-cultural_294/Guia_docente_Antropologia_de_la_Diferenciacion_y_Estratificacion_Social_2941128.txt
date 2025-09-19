@@ -2,14 +2,16 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (7):
 ------------------------------
-Anthropos editorial
+Brubaker,   R.   y  Cooper,  F.  (2001).  Más  allá  de  identidad.  Apuntes  de  Investigación  del  CECYP,  5(7),
+30-67 Dumont, L. (1970). Homo hierarchicus: ensayo sobre el sistema de castas. Editorial Aguilar
 
 Grusky,   D.   B.   (2014).   Social  Stratification:  Class,  Race,  and  Gender  in  Sociological  Perspective
 (4th edition). Boulder: Westview Press
 
-Luhmann, N. (1998). Sistemas sociales: lineamientos para una teoría general (Vol. 15)
+Luhmann,   N.   (1998).   Sistemas   sociales:  lineamientos  para  una  teoría  general  (Vol.  15).  Anthropos
+editorial
 
 Requena, M., Salazar, L., y Radl, J. (2013). Estratificación social. McGraw-Hill
 
@@ -20,7 +22,7 @@ Santiago: Preal
 
 Wright, E. O. (1994). Clases. Siglo XXI
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (53):
 ------------------------------
 Aguirre   Baztán,   A.   (Ed.)   (1993).   Diccionario   temático   de   antropología  .  Barcelona:  Editorial
 Boixareu Universitaria
@@ -112,6 +114,9 @@ of Modernity. London: Polity Press
 Hall,   S.  y  Giraldo,  S.  (2005).  La  importancia  de  Gramsci  para  el  estudio  de  la  raza  y  la  etnicidad.
 Revista Colombiana de Antropología, 41, 219-257
 
+Henrich, J. (2015). The secret of our success: how culture is driving human evolution, domesticating
+our species, and making us smarter. Princeton University Press
+
 Hunt, P. (1980). Gender and Class Consciousness. London: Macmillan
 
 Jabardo   Velasco,   M.   (2008).   Desde   el  feminismo  negro,  una  mirada  al  género  y  la  inmigración.  En
@@ -165,21 +170,14 @@ Wright,   S.   (2004).   La   politización   de   la   cultura.   En  Boivin,  
 Constructores   de   otredad.   Una   introducción   a   la  Antropología  Social  y  Cultural  .  Buenos  Aires:
 Antropofagia
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Henrich, J. (2015). The secret of our success: how culture is driving human evolution, domesticating
-our   species,   and   making  us  smarter.  Princeton  University  Press.  hooks,  b.  (2004).  Mujeres  negras.
-Dar   forma   a   la   teoría   feminista.  En  VV.AA.  Otras  inapropiables.  Feminismos  desde  las  fronteras.
-Madrid:   Traficantes   de  Sueños  →  hooks,  b.  (2004).  Mujeres  negras.  Dar  forma  a  la  teoría  feminista.
-En VV.AA. Otras inapropiables. Feminismos desde las fronteras . Madrid: Traficantes de Sueños
+hooks,   b.   (2004).   Mujeres  negras.  Dar  forma  a  la  teoría  feminista.  En  VV.AA.  Otras  inapropiables.
+Feminismos desde las fronteras . Madrid: Traficantes de Sueños
 
-Brubaker,   R.   y  Cooper,  F.  (2001).  Más  allá  de  identidad.  Apuntes  de  Investigación  del  CECYP,  5(7),
-30-67   Dumont,   L.  (1970).  Homo  hierarchicus:  ensayo  sobre  el  sistema  de  castas.  Editorial  Aguilar  →
+✅ Recursos añadidos (9):
+------------------------------
 Brubaker,   R.   y  Cooper,  F.  (2001).  Más  allá  de  identidad.  Apuntes  de  Investigación  del  CECYP,  5(7),
 30-67
 
-✅ Recursos añadidos:
-------------------------------
 Carmichael, S. y Hamilton, C.V. (1967). Poder negro. Ciudad de México: Siglo Veintiuno
 
 Carrillo   García,   G.   (2022).   Interpretar   el   mundo.   Ensayos   sobre   la  crisis  de  las  sociedades
@@ -187,9 +185,6 @@ contemporáneas . Ed. Calblanque
 
 Hall, S. (2010). El espectáculo del ‘otro’. En F. Cruces Villalobos y B. Pérez Galán (comps.) Textos
 de Antropología Contemporánea (pp. 75-94). Madrid: UNED
-
-Henrich, J. (2015). The secret of our success: how culture is driving human evolution, domesticating
-our species, and making us smarter. Princeton University Press
 
 Hobsbawm, E. (1994/2001). Historia del siglo XX, 1914-1991. Barcelona: Crítica
 
@@ -203,4 +198,4 @@ Katz Editores
 
 Therborn, G. (2017). Dinámicas de la desigualdad. New Left Review, 103, 69-89
 
-📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

@@ -2,11 +2,12 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Gómez,   M.A.   y   Hontoria,   E.   2002  Técnicas  Analíticas  en  el  Control  de  la  Ingeniería  Judd,  S.  and
+Jefferson, B. (Ed.) Membranes for Industrial Wastewater Recovery and Reuse, Elsevier, 2003
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 AWWA,   Lyonnaise  des  Eaux,  WRCSA.  Tratamiento  del  agua  por  procesos  de  membrana,  principios  procesos
 y aplicaciones. Mc Graw Hill. Madrid. 1998
@@ -22,14 +23,8 @@ Doble, M., Kumar, A. Biotreatment of Industrial Effluents, Elsevier, 2005
 Fariñas   Iglesias,   M.  (1999)  Ósmosis  Inversa:  Fundamentos,  tecnología  y  Aplicaciones.  Mc  Graw  Hill.
 Madrid
 
-Gómez,   M.A.   y   Hontoria,  E.  2002  Técnicas  Analíticas  en  el  Control  de  la  Ingeniería  Ambiental.  Ed.
-Universidad de Granada
-
 Henze,   M.   van   Loosdrecht.   M.C.M.   Ekama,   G.A.   Brdjanovic,   D.  Biological  Wastewater  Treayment.
 Principles, Modelling and Desing. IWA Publishing. London.2008
-
-Judd,   S.  and  Jefferson,  B.  (Ed.)  Membranes  for  Industrial  Wastewater  Recovery  and  Re-use,  Elsevier,
-2003
 
 Metclaf   &  Eddy,  inc.  Ingeniería  de  aguas  residuales:  tratamiento,  vertido  y  reutilización,  Mc  Graw-
 Hill, 2000
@@ -49,12 +44,12 @@ Canaria: Universidad de Las Palmas de Gran Canarias
 White,   G.C.   Handbook   of  chlorination  and  alternative  disifectants.  Wiley  Inter-Science.  New  York.
 1999
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+Gómez,   M.A.   y   Hontoria,  E.  2002  Técnicas  Analíticas  en  el  Control  de  la  Ingeniería  Ambiental.  Ed.
+Universidad de Granada
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+Judd,   S.  and  Jefferson,  B.  (Ed.)  Membranes  for  Industrial  Wastewater  Recovery  and  Re-use,  Elsevier,
+2003
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

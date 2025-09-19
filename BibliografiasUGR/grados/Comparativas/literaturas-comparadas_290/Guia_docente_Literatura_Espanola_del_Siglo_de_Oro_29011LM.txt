@@ -2,11 +2,15 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Rico, Francisco (ed.), Historia y crítica de la literatura española. Vol. 2, Francisco López Estrada
+(editor);   Siglos   de  Oro:  Renacimiento,  Barcelona,  Crítica,  1980;  vol.  2/1,  Francisco  López  Estrada
+(ed.)   Siglos   de   Oro:   Renacimiento.   Primer   suplemento,   Barcelona,   Crítica,   Vol.   3:  Bruce  W.
+Wardropper   (editor)   Siglos   de   Oro:   Barroco,   Barcelona,   Crítica,   1983,  vol.  3/1:  Aurora  Egido
+(editora) Siglos de Oro: Barroco, Barcelona, Crítica, 1992
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (46):
 ------------------------------
 Alonso, A., La poesía italianista, Madrid, Ediciones del Laberinto, 2002
 
@@ -49,6 +53,8 @@ prosa y poesía; vol. III: E. M. Wilson y D. Moir, Siglos de Oro: teatro, 1985
 Kristeller,   P.   O.,   El  pensamiento  renacentista  y  sus  fuentes,  Madrid,  Fondo  de  Cultura  Económica,
 1993
 
+Lapesa, R., La trayectoria poética de Garcilaso, Madrid, Revista de Occidente, 1968
+
 Lara Garrido, J., Del Siglo de Oro (Métodos y relecciones), Madrid, CEES, 1997
 
 Lara   Garrido,   J.,   Relieves   poéticos   del  Siglo  de  Oro.  De  los  textos  al  contexto,  Universidad  de
@@ -61,13 +67,13 @@ de Sevilla, 2008
 
 López Bueno, B.(dir.), El canon poético en el siglo XVI, Universidad de Sevilla, 2008
 
+López Bueno, B., La poética cultista de Herrera a Góngora, Sevilla, Alfar, 2000
+
 Mainer, José-Carlos (coord.), Historia de la literatura española. Vol. 2, Jorge García López et al.,
 La   conquista   del   clasicismo   (1500-1598),   Barcelona,  Crítica,  2013;  Vol.  3,  Pedro  Ruiz  Pérez,  El
 siglo del arte nuevo (1598-1691), Barcelona, Crítica, 2015
 
 Maravall, J.A., La cultura del Barroco. Análisis de una estructura histórica, Barcelona, Ariel, 1980
-
-Martín López, N., Estudios literarios sobre el Siglo de Oro, Universidad de Granada, 1988
 
 Menéndez   Peláez,   Jesús   et   al.,   Historia   de   la   Literatura  Española.  Volumen  II-Renacimiento  y
 Barroco, Madrid, Everest, 2005
@@ -75,8 +81,6 @@ Barroco, Madrid, Everest, 2005
 Micó, J.Mª., De Góngora, Madrid, Biblioteca Nueva, 2001
 
 Navarrete, I., Los huérfanos de Petrarca, Madrid, Gredos, 1997
-
-Orozco, E., Introducción al Barroco, Granada, Universidad de Granada, 1988
 
 Pedraza   Jiménez,  Felipe  y  Rodríguez  Cáceres,  Milagros,  Manual  de  literatura  española,  tomos  II,  III
 y IV, Estella, Cenlit, 1999-2005
@@ -88,12 +92,6 @@ Rallo Gruss, A., Erasmo y la prosa renacentista española, Madrid, Ediciones del
 Rico, F. El sueño del humanismo, Madrid, Alianza, 1993
 
 Rico, F., La novela picaresca y el punto de vista, Barcelona, Seix Barral, 1973
-
-Rico, Francisco (ed.), Historia y crítica de la literatura española. Vol. 2, Francisco López Estrada
-(editor);   Siglos   de  Oro:  Renacimiento,  Barcelona,  Crítica,  1980;  vol.  2/1,  Francisco  López  Estrada
-(ed.)   Siglos   de   Oro:   Renacimiento.  Primer  suplemento,  Barcelona,  Crítica,  1991.  Vol.  3:  Bruce  W.
-Wardropper   (editor)   Siglos   de   Oro:   Barroco,   Barcelona,   Crítica,   1983,  vol.  3/1:  Aurora  Egido
-(editora) Siglos de Oro: Barroco, Barcelona, Crítica, 1992
 
 Riley, E. C., Introducción al Quijote, Barcelona, Crítica, 1989
 
@@ -121,14 +119,16 @@ Castalia, 2006
 
 Ynduráin, D., Estudios sobre Renacimiento y Barroco, Madrid, Cátedra, 2006
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-No hubo cambios de edición/año.
+Martín López, N., Estudios literarios sobre el Siglo de Oro, Universidad de Granada, 1988
 
-✅ Recursos añadidos:
-------------------------------
-Lapesa, R., La trayectoria poética de Garcilaso, Madrid, Revista de Occidente, 1968
+Orozco, E., Introducción al Barroco, Granada, Universidad de Granada, 1988
 
-López Bueno, B., La poética cultista de Herrera a Góngora, Sevilla, Alfar, 2000
+Rico, Francisco (ed.), Historia y crítica de la literatura española. Vol. 2, Francisco López Estrada
+(editor);   Siglos   de  Oro:  Renacimiento,  Barcelona,  Crítica,  1980;  vol.  2/1,  Francisco  López  Estrada
+(ed.)   Siglos   de   Oro:   Renacimiento.  Primer  suplemento,  Barcelona,  Crítica,  1991.  Vol.  3:  Bruce  W.
+Wardropper   (editor)   Siglos   de   Oro:   Barroco,   Barcelona,   Crítica,   1983,  vol.  3/1:  Aurora  Egido
+(editora) Siglos de Oro: Barroco, Barcelona, Crítica, 1992
 
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

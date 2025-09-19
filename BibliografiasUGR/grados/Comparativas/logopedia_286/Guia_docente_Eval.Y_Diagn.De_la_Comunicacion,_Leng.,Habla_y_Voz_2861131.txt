@@ -2,14 +2,23 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Brown.   H.D.   (2004):   Language  assessment.  Principles  and  classroom  practices.  N.Y.:  Longeman  Campo
+García, J. (2020). Intervención multimodal en el Trastorno por Déficit de Atención e Hiperactividad
 
-📚 Recursos sin cambios:
+Madrid:   Pirámide.   Cap.   9  Attwood,  T.  (2009).  Guía  del  Síndrome  de  Asperger.  Barcelona:  Paidós
+Carballo,   G.,   &   Fresneda,   M.   D.  (2005).  Evaluación  e  Intervención  logopédica  en  el  trastorno
+específico del lenguaje. Revista de Neurología, 41 Supl. 1, 533 S73-S82
+
+📚 Recursos sin cambios (46):
 ------------------------------
 Acosta,   V.M.   (2006):   La   evaluación   del   lenguaje   oral.   En:   J.L.  Gallego  (Com):  Enciclopedia
 temática de Logopedia (2 o vol.). Málaga: Aljibe
+
+Aguilar,   G.   (2002).  Un  programa  estructurado  para  el  tratamiento  del  tartamudeo  en  niños.  En  V.E.
+Caballo   y   M.A.   Simón  (Coord.)  Manual  de  Psicología  Clínica  Infantil  y  del  Adolescente.  Madrid:
+Pirámide. Cap. 9
 
 Baixauli-Fortea,    I.,   Roselló,   B.   y   Miranda-Casas   (2004).   Evaluación   de   las   dificultades
 pragmáticas. Estudio de casos. Revista de Neurología, 38 (Supl.1): S69-S79
@@ -32,11 +41,18 @@ Chávez, F.S., Susanibar, F. (2016). Trastornos del habla: de los fundamentos a 
 Coll-Florit,   M.,   Vila-Rovira,   J.   M.,  Aguado,  G.,  Fernández-Zúñiga,  A.,  Gambra,  S.,  &  Perelló,  E.
 (2014). Trastornos del habla y de la voz. Editorial UOC
 
-De   las   Heras,   G.   &   Rodriguez,   L.   (2015).  Guía  de  intervención  logopédica  en  las  dislalias.
-Madrid: Síntesis
+Conture,   E.   y   Curlee,   R.   (2008).   Stuttering   and  related  disorders  of  fluency.  New  York:  Georg
+Thième
 
-Dockrell,   J.E.   &   Marshall,   CR.   (2015).   Measurement   issues:  Assessing  language  skills  in  young
-children. Child and Adolescent Mental Health, 20(2), 116-125
+De   las   Heras,   G.   &   Rodriguez,   L.   (2015).  Guía  de  intervención  logopédica  en  las  dislalias.
+Madrid:   Síntesis   Dockrell,   J.E.   &   Marshall,  CR.  (2015).  Measurement  issues:  Assessing  language
+skills in young children. Child and Adolescent Mental Health, 20(2), 116-125
+
+Dwight,   D.M.   (2006).  Here’  s  how  to  do  therapy.  Hands-On  core  skills  in  Speech-language  Pathology.
+San Diego: Plural Publishing
+
+Equipo   Deletrea   (2006).   El   síndrome  de  Asperger.  Otra  forma  de  aprender.  Madrid:  Consejería  de
+Educación de la Comunidad de Madrid
 
 Fernández   Zúñiga,  A.  (2002).  Descripción  y  tratamiento  de  los  desórdenes  de  la  comunicación  y
 del lenguaje. En V.E. Caballo y M.A
@@ -50,7 +66,7 @@ Gallego,   J.  (2019).  Nuevo  Manual  de  logopedia  escolar.  Los  problemas  
 niño. Ediciones Aljibe SL Málaga, 66
 
 Garayzábal Heinze, E., Fernández Prieto, M., & Díez Itza, E. (2010). Guía de intervención logopédica
-en el síndrome de Williams. Madrid: Síntesis
+en el síndrome de Williams. Madrid: Síntesis, 2010
 
 Hegde,   M.   (2001).   Hegde’   s   Pocketguide   to   assessment  in  speech-language  pathology.  San  Diego:
 Singular Publishing Group
@@ -77,6 +93,25 @@ motor performance in children..American Journal of Speech-Language Pathology, 17
 McCauley,   R.J.   (2001).   Assessment  of  Language  Disorders  in  Children.  Mahwah,  NJ:  Lawrence  Erlbaum
 Associates
 
+Melle, N. (2007). Guia de intervención logopédica en la disartria. Madrid: Ed. Síntesis
+
+Mendoza,   E.  (2016).  Trastorno  Específico  del  Lenguaje  (TEL).  Avances  en  el  estudio  de  un  trastorno
+invisible. Madrid: Pirámide
+
+Miller,   J.F.   and  Paul,  R.  (1995):  The  clinical  assessment  of  language  comprehension.  Londres:  Paul
+Brookes
+
+Muñoz,   J.,   Freneda,   M.D.,   Mendoza,   E.,   Carballo,  G.  y  Pestum,  Magda,  S.V.  (2002):  Descripción,
+evaluación   y  tratamiento  de  los  trastornos  del  aprendizaje.  En:  V.E.Caballo  y  M.A.  Simón.  Manual  de
+Psicología clínica infantil y del adolescente. Madrid: Ediciones Pirámide
+
+Norbury,   C.F.,   Tomblin,   J.B.,   y   Bishop   D.V.  (Eds)  (2008).  Understanding  developmental  language
+disorders: from theory to practice.Nueva York: Psychology Press
+
+Paul,   R.   &   Wilson,   K.P.   (2009).  Assessing  speech,  language  and  communication  in  Autism  Spectrum
+Disorders.   En:   S.   Goldstein,   J.A  Laglieri,  &  S.  Ozonof:  Assessment  of  Autism  Spectrum  Disorders.
+N.Y.: The Guilford Press. Cap. 7
+
 Paul,   R.   (2006).  Language  disorders  from  infancy  through  adolescence:  Assessment  and  intervention.
 Londres: Elsevier
 
@@ -99,37 +134,34 @@ Síntesis
 Shipley,   K.G.   y   McAfee,   J.G.  (2009);  Assessment  in  Speech-Language  Pathology.  A  resource  manual.
 N.York: Delmar
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Conture,   E.   y   Curlee,   R.   (2008).   Stuttering   and  related  disorders  of  fluency.  New  York:  Georg
-Thième.   de   las   Heras  Mínguez,  G.,  &  García,  L.  R.  (2015).  Guía  de  intervención  logopédica  en  las
-dislalias   →   de   las   Heras  Mínguez,  G.,  &  García,  L.  R.  (2015).  Guía  de  intervención  logopédica  en
-las dislalias. Síntesis
+Susanibar,   F.,   Marchesan,   I.,  Parra,  D.,  &  Dioses,  A.  (2014).  Tratado  de  evaluación  de  motricidad
+orofacial. EOS, Madrid
 
-Norbury,   C.F.,   Tomblin,   J.B.,   y   Bishop   D.V.  (Eds)  (2008).  Understanding  developmental  language
-disorders:   from   theory   to   practice.Nueva   York:  Psychology  Press  Paul,  R.  &  Wilson,  K.P.  (2009).
-Assessing   speech,   language   and   communication  in  Autism  Spectrum  Disorders.  En:  S.  Goldstein,  J.A
-Laglieri,   &   S.  Ozonof:  Assessment  of  Autism  Spectrum  Disorders.  N.Y.:  The  Guilford  Press.  Cap.  7  →
-Norbury,   C.F.,   Tomblin,   J.B.,   y   Bishop   D.V.  (Eds)  (2008).  Understanding  developmental  language
-disorders: from theory to practice.Nueva York: Psychology Press
+Vila, I. (2009). Guia de intervención logopédica en disfonía infantil. Madrid: Ed. Síntesis
 
-Brown.   H.D.   (2004):   Language  assessment.  Principles  and  classroom  practices.  N.Y.:  Longeman  Campo
-García,   J.  (2020).  Intervención  multimodal  en  el  Trastorno  por  Déficit  de  Atención  e  Hiperactividad
-→  Brown. H.D. (2004): Language assessment. Principles and classroom practices. N.Y.: Longeman
+Vila, J. M. (2009). Guía de intervención logopédica en la disfonía infantil. Madrid: Síntesis, 2009
 
-✅ Recursos añadidos:
+Villegas   Lirola,   F.  (2010).  Materiales  de  logopedia:  Evaluación  e  intervención  de  las  dificultades
+fonológicas. Madrid: Pirámide, 2010
+
+Whitworth,   A.,   Webster,   J.,   &   Howard,   D.   (2005).   A   Cognitive  Neuropsychological  Approach  to
+Assessment and Intervention in Aphasia: A Clinician's Guide. (Essential reading). London: Psychology
+Press
+
+de   las  Heras  Mínguez,  G.,  &  García,  L.  R.  (2015).  Guía  de  intervención  logopédica  en  las  dislalias.
+Síntesis
+
+✅ Recursos añadidos (18):
 ------------------------------
 Acosta   Rodríguez,  V.  M.,  &  Ramírez  Santana,  G.  M.  (2023).  Intervención  en  lenguaje  y  alfabetización
 temprana del alumnado con trastorno del desarrollo del lenguaje. Ediciones Aljibe
-
-Aguilar,   G.   (2002).  Un  programa  estructurado  para  el  tratamiento  del  tartamudeo  en  niños.  En  V.E.
-Caballo   y   M.A.   Simón  (Coord.)  Manual  de  Psicología  Clínica  Infantil  y  del  Adolescente.  Madrid:
-Pirámide. Cap. 9
 
 Attwood, T. (2009). Guía del Síndrome de Asperger. Barcelona: Paidós
 
 Barkley,   R.   A.   (2022).  Trastorno  por  déficit  de  atención  e  hiperactividad  (TDAH):  Guía  completa  y
 actualizada para el diagnóstico y tratamiento (6.ª ed.). Editorial TEA Ediciones
+
+Brown. H.D. (2004): Language assessment. Principles and classroom practices. N.Y.: Longeman
 
 Campo   García,   J.   (2020).   Intervención   multimodal   en   el   Trastorno   por   Déficit  de  Atención  e
 Hiperactividad
@@ -137,25 +169,11 @@ Hiperactividad
 Carballo,   G.,   &   Fresneda,   M.   D.  (2005).  Evaluación  e  Intervención  logopédica  en  el  trastorno
 específico del lenguaje. Revista de Neurología, 41 Supl. 1, 533 S73-S82
 
-Conture,   E.   y   Curlee,   R.   (2008).   Stuttering   and  related  disorders  of  fluency.  New  York:  Georg
-Thième
-
-Dwight,   D.M.   (2006).  Here’  s  how  to  do  therapy.  Hands-On  core  skills  in  Speech-language  Pathology.
-San Diego: Plural Publishing
-
-Equipo   Deletrea   (2006).   El   síndrome  de  Asperger.  Otra  forma  de  aprender.  Madrid:  Consejería  de
-Educación de la Comunidad de Madrid
+Dockrell,   J.E.   &   Marshall,   CR.   (2015).   Measurement   issues:  Assessing  language  skills  in  young
+children. Child and Adolescent Mental Health, 20(2), 116-125
 
 Gómez,   M.   T.   (Coord.).   (2022).   Discapacidad   intelectual:  Conceptos,  evaluación  e  intervención.
 Editorial Síntesis
-
-Melle, N. (2007). Guia de intervención logopédica en la disartria. Madrid: Ed. Síntesis
-
-Mendoza,   E.  (2016).  Trastorno  Específico  del  Lenguaje  (TEL).  Avances  en  el  estudio  de  un  trastorno
-invisible. Madrid: Pirámide
-
-Miller,   J.F.   and  Paul,  R.  (1995):  The  clinical  assessment  of  language  comprehension.  Londres:  Paul
-Brookes
 
 Muñoz,   J.,   Carballo,   G.,   Fresneda,   M.D.   (2014).   Grammatical  comprehension  in  Spanish-speaking
 children with specific language impairment. Spanish Journal of Psychology, 17(e45), 1-12
@@ -163,16 +181,8 @@ children with specific language impairment. Spanish Journal of Psychology, 17(e4
 Muñoz,   J.,   Freneda,   M.D.,   Carballo,  G  (2006).  Dificultades  de  articulación:  disglosias.  En:  J.L.
 Gallego, (dir) Enciclopedia Temática de la Logopedia. Málaga: Aljibe
 
-Muñoz,   J.,   Freneda,   M.D.,   Mendoza,   E.,   Carballo,  G.  y  Pestum,  Magda,  S.V.  (2002):  Descripción,
-evaluación   y  tratamiento  de  los  trastornos  del  aprendizaje.  En:  V.E.Caballo  y  M.A.  Simón.  Manual  de
-Psicología clínica infantil y del adolescente. Madrid: Ediciones Pirámide
-
 Norbury,   C.F.,   Tomblin,   J.B.,   y   Bishop   D.V.  (Eds)  (2008).  Understanding  developmental  language
 disorders: from theory to practice. Nueva York: Psychology Press
-
-Paul,   R.   &   Wilson,   K.P.   (2009).  Assessing  speech,  language  and  communication  in  Autism  Spectrum
-Disorders.   En:   S.   Goldstein,   J.A  Laglieri,  &  S.  Ozonof:  Assessment  of  Autism  Spectrum  Disorders.
-N.Y.: The Guilford Press. Cap. 7
 
 Paul,   R.   (2002).   Introduction   to  clinical  methods  in  communication  disorders.  Baltimore:  Brookes
 Publishing
@@ -188,24 +198,10 @@ Journal of Speech, Language Pathology, 22, 212-226
 Schüler   Moreno,   T.,   &   Jiménez   Hernández,   S.   (2021).   Guía   de   intervención  logopédica  en  las
 disfonías. Editorial Síntesis
 
-Susanibar,   F.,   Marchesan,   I.,  Parra,  D.,  &  Dioses,  A.  (2014).  Tratado  de  evaluación  de  motricidad
-orofacial. EOS, Madrid
-
 Triadó,   C.,   y   Forns,   M.   (1992).   La   evaluación   del   lenguaje.   Una  aproximación  evolutiva.
 Barcelona: Anthropos
-
-Vila, I. (2009). Guia de intervención logopédica en disfonía infantil. Madrid: Ed. Síntesis
-
-Vila, J. M. (2009). Guía de intervención logopédica en la disfonía infantil. Madrid: Síntesis, 2009
-
-Villegas   Lirola,   F.  (2010).  Materiales  de  logopedia:  Evaluación  e  intervención  de  las  dificultades
-fonológicas. Madrid: Pirámide, 2010
-
-Whitworth,   A.,   Webster,   J.,   &   Howard,   D.   (2005).   A   Cognitive  Neuropsychological  Approach  to
-Assessment and Intervention in Aphasia: A Clinician's Guide. (Essential reading). London: Psychology
-Press
 
 Williams,   D.   (2009).   Developmental   language   disorders.  Learning,  language  and  the  brain.  Plural
 Publishing
 
-📊 Porcentaje estimado de cambio: 94% [█████████░]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

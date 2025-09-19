@@ -2,16 +2,29 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-Capdevilla S. 2006. Especies exóticas invasoras: diagnóstico y bases para la prevención y el Dudley,
-N. 2008. Guidelines for applying protected area management categories (N Dudley, Ed)
+Hayward,   M.   W.,   Kerley,  G.  I.  H.,  Somers,  M.  J.,  &  Hayward,  M.  W.  2009.  Fencing  for  conservation:
+Restriction    of    evolutionary    potential   or   a   riposte   to   threatening   processes?   Biological
+Conservation, 142(1), 1–13. https://doi.org/10.1007/978-1-4614-0902-1 Hervás, I 2006. Pasos de fauna
+para vertebrados. Minimización y seguimiento del efecto barrera de las vías de comunicación. Minist.
+Medio Ambiente
 
-Heywood,   V.   2019.   Conserving   plants   within   and   beyond  protected  areas  –  still  problematic  and
-Heywood, V. H. 2014. An overview of in situ conservation of plant species in the Mediterranean
+Heywood, V. 2019. Conserving plants within and beyond protected areas – still problematic and future
+uncertain. Plant Diversity, 41(2). https://doi.org/10.1016/j.pld.2018.10.001 Heywood, V. H. 2014. An
+overview of in situ conservation of plant species in the Mediterranean
 
-📚 Recursos sin cambios:
+Paton AJ, Brummitt N, Govaerts R, Harman K, Hinchcliffe S, Allkin B, Lughadha EN. 2008
+
+Towards   Target   1   of  the  Global  Strategy  for  Plant  Conservation:  A  working  list  of  all  known  plant
+species   -   Progress  and  prospects.  Taxon  Cabezudo,  B.  et.  al.  2005.  lista  roja  de  la  flora  vascular
+de Andalucía. Junta de Andalucía. Sevilla
+
+📚 Recursos sin cambios (37):
 ------------------------------
+(Disponible   en   la   biblioteca   de   la   Facultad   de  Ciencias)  Sutherland  W.  2004.  Bird  ecology  and
+conservation. A handbook of techniques. Oxford U.P., Reino Unido
+
 Anderson   A.   2006.   Applying   nature's   corridors   design.  Corridors  as  a  strategy  for  biodiversity
 conservation. Columbia U.P., USA
 
@@ -38,8 +51,14 @@ Bioscience 51:643–649
 
 Breton 2005. Wildlife demography. Analysis of Sex, Age, and count data. Elsevier Siencie, Amsterdam
 
+Capdevilla S. 2006. Especies exóticas invasoras: diagnóstico y bases para la prevención y el manejo.
+Organismo Autónomo Parques Nacionales, Madrid
+
 Domínguez-Lozano,   F.   2019.   ¿Qué   sabes   sobre  biodiversidad?  Preguntas  y  respuestas  en  torno  a  la
 Biología de la Conservación. Mundi-Prensa Libros
+
+Dudley, N. 2008. Guidelines for applying protected area management categories (N Dudley, Ed). Gland,
+Switzerland: IUCN
 
 Elzinga C. 2001. Monitoring Plant and Animal Populations. A handbook for field biologists. Blackwell
 Science, Oxford, Reino Unido
@@ -49,15 +68,13 @@ Groves, R.H. 2008. Biogeography of mediterranean invasions. Cambridge U. P
 Guerrant   EO,   Havens-Young   K,   Maunder   M.   2004.   Ex   situ  plant  conservation:  supporting  species
 survival in the wild. Island Press, Washington
 
-Hayward,   M.   W.,   Kerley,  G.  I.  H.,  Somers,  M.  J.,  &  Hayward,  M.  W.  2009.  Fencing  for  conservation:
-Restriction    of    evolutionary    potential   or   a   riposte   to   threatening   processes?   Biological
-Conservation, 142(1), 1–13. https://doi.org/10.1007/978-1-4614-0902-1
+Heywood,   V.   H.   2014.   An   overview  of  in  situ  conservation  of  plant  species  in  the  Mediterranean.
+Flora Mediterranea, 24: 5–24
 
-Hervás,   I   2006.   Pasos  de  fauna  para  vertebrados.  Minimización  y  seguimiento  del  efecto  barrera  de
-las vías de comunicación. Minist. Medio Ambiente
-
-Hill,   D.,   Fasham,   M.,  Tuicker,  G.,  Shewry,  M.,  &  Shaw,  P.  2005.  Handbook  of  Biodiversity  Methods.
-Cambridge University Press
+Heywood,   V.H.   &   Dulloo,   M.E.  2005.  In  Situ  Conservation  of  Wild  Plant  Species–  A  Critical  Global
+Review   of   Good   Practices,   IPGRI   Technical   Bulletin,   no  11,  FAO  and  IPGRI,  International  Plant
+Genetic   Resources   Institute   (IPGRI),  Rome,  Italy  Hill,  D.,  Fasham,  M.,  Tuicker,  G.,  Shewry,  M.,  &
+Shaw, P. 2005. Handbook of Biodiversity Methods. Cambridge University Press
 
 Hunter Jr, M. L., & Gibbs, J. P. 2021. Fundamentals of conservation biology. John Wiley & Sons
 
@@ -81,11 +98,6 @@ botanic gardens. Nature Plants 3: 795–802
 
 Orueta J.F. 2007. Vertebrados invasores. Org. Autón. Parq. Nac., Min. Medio Ambiente, Madrid
 
-Paton   AJ,   Brummitt   N,   Govaerts   R,  Harman  K,  Hinchcliffe  S,  Allkin  B,  Lughadha  EN.  2008.  Towards
-Target   1  of  the  Global  Strategy  for  Plant  Conservation:  A  working  list  of  all  known  plant  species  -
-Progress   and   prospects.   Taxon   Cabezudo,   B.   et.   al.   2005.   lista  roja  de  la  flora  vascular  de
-Andalucía. Junta de Andalucía. Sevilla
-
 Pimentel   J   2002.  Biological  invasions.  Economic  and  environmental  costs  of  alien  plant,  animal  and
 microbe species. CRC Press
 
@@ -100,6 +112,13 @@ climate: linking science and management in conservation. University of Californi
 
 Sherwood B. 2003. Wildlife and Roads. The Ecological Impact. Imperial College Press. Reino Unido
 
+Southwood, T.R.E. y Henderson, P.A. 2000. Ecological methods. Chapman and Hall. Londres. (Disponible
+en la biblioteca de la Facultad de Ciencias)
+
+Synge, H. (ed) 1981. The Biological Aspects of Rare Plant Conservation, Wiley, Chichester, UK
+
+Tellería, J.L. 1996. Manual para el censo de los vertebrados terrestres. Raices, Madrid
+
 Uriarte   Cantolla,   A.   2003.  Historia  del  Clima  de  la  Tierra.  Servicio  Central  de  Publicaciones  del
 Gobierno Vasco. (1ª Ed.)
 
@@ -111,40 +130,31 @@ Williams G. 2011. 100 ALIEN INVADERS Editorial Bradt
 Álvarez   G.   2006.  Prescripciones  técnicas  para  el  diseño  de  pasos  de  fauna  y  vallados  perimetrales.
 Organismo Autónomo Parques Nacionales, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Synge,   H.   (ed)   1981.   The   Biological   Aspects   of  Rare  Plant  Conservation,  Wiley,  Chichester,  UK
-Tellería,   J.L.   1996.   Manual   para  el  censo  de  los  vertebrados  terrestres.  Raices,  Madrid  →  Synge,
-H. (ed) 1981. The Biological Aspects of Rare Plant Conservation, Wiley, Chichester, UK
-
-Southwood, T.R.E. y Henderson, P.A. 2000. Ecological methods. Chapman and Hall. Londres. (Disponible
-en   la   biblioteca   de  la  Facultad  de  Ciencias)  Sutherland  W.  2004.  Bird  ecology  and  conservation.  A
-handbook   of   techniques.   Oxford   U.P.,   Reino   Unido   →   Southwood,  T.R.E.  y  Henderson,  P.A.  2000.
-Ecological   methods.   Chapman   and   Hall.   Londres.   (Disponible   en  la  biblioteca  de  la  Facultad  de
-Ciencias)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 A   Critical   Global   Review   of   Good   Practices,   IPGRI   Technical   Bulletin,  no  11,  FAO  and  IPGRI,
 International Plant Genetic Resources Institute (IPGRI), Rome, Italy
 
-Capdevilla S. 2006. Especies exóticas invasoras: diagnóstico y bases para la prevención y el manejo.
-Organismo Autónomo Parques Nacionales, Madrid
+Hayward,   M.   W.,   Kerley,  G.  I.  H.,  Somers,  M.  J.,  &  Hayward,  M.  W.  2009.  Fencing  for  conservation:
+Restriction    of    evolutionary    potential   or   a   riposte   to   threatening   processes?   Biological
+Conservation, 142(1), 1–13. https://doi.org/10.1007/978-1-4614-0902-1
 
-Dudley, N. 2008. Guidelines for applying protected area management categories (N Dudley, Ed). Gland,
-Switzerland: IUCN
+Hervás,   I   2006.   Pasos  de  fauna  para  vertebrados.  Minimización  y  seguimiento  del  efecto  barrera  de
+las vías de comunicación. Minist. Medio Ambiente
 
 Heywood, V. 2019. Conserving plants within and beyond protected areas – still problematic and future
 uncertain. Plant Diversity, 41(2). https://doi.org/10.1016/j.pld.2018.10.001
 
-Heywood,   V.   H.   2014.   An   overview  of  in  situ  conservation  of  plant  species  in  the  Mediterranean.
-Flora Mediterranea, 24: 5–24
-
 Heywood, V.H. & Dulloo, M.E. 2005. In Situ Conservation of Wild Plant Species–
 
-Sutherland   W.   2004.   Bird   ecology   and  conservation.  A  handbook  of  techniques.  Oxford  U.P.,  Reino
-Unido
+Paton   AJ,   Brummitt   N,   Govaerts   R,  Harman  K,  Hinchcliffe  S,  Allkin  B,  Lughadha  EN.  2008.  Towards
+Target   1  of  the  Global  Strategy  for  Plant  Conservation:  A  working  list  of  all  known  plant  species  -
+Progress   and   prospects.   Taxon   Cabezudo,   B.   et.   al.   2005.   lista  roja  de  la  flora  vascular  de
+Andalucía. Junta de Andalucía. Sevilla
 
-Tellería, J.L. 1996. Manual para el censo de los vertebrados terrestres. Raices, Madrid
+Paton   AJ,   Brummitt   N,   Govaerts   R,  Harman  K,  Hinchcliffe  S,  Allkin  B,  Lughadha  EN.  2008.  Towards
+Target   1  of  the  Global  Strategy  for  Plant  Conservation:  A  working  list  of  all  known  plant  species  -
+Progress   and   prospects.   Taxon   Cabezudo,   B.   et.   al.   2005.   lista  roja  de  la  flora  vascular  de
+Andalucía. Junta de Andalucía. Sevilla
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

@@ -2,26 +2,23 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Levenspiel   (2004).   Ingeniería   de   las   Reacciones   Químicas.   Ed.   Wiley.   BPOL/66.02   LEV   ingea
-https://granatensis.ugr.es/permalink/34CBUA_UGR/qmbd75/alma991014244730704990
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Santamaria y otros (1999). Ingeniería de Reactores. Ed. Síntesis. BPOL/66.02 SAN ing Froment y otros
-(1999).   Chemical   Reactor   Analysis   and  Design.  Ed.  Wiley.  BPOL/66  FRO  Fogler  (2001).  Elementos  de
-Ingeniería   de   las   Reacciones   Químicas.   Ed.   Prentice-Hall   →   Froment   y  otros  (1999).  Chemical
-Reactor Analysis and Design. Ed. Wiley. BPOL/66 FRO che
+(1999). Chemical Reactor Analysis and Design. Ed. Wiley. BPOL/66 FRO che Fogler (2001). Elementos de
+Ingeniería de las Reacciones Químicas. Ed. Prentice-Hall
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (1):
+------------------------------
+BPOL/66.02   FOG   ele  Levenspiel  (2004).  Ingeniería  de  las  Reacciones  Químicas.  Ed.  Wiley.  BPOL/66.02
+LEV ingea https://granatensis.ugr.es/permalink/34CBUA_UGR/qmbd75/alma99101424473070499 0
+
+✅ Recursos añadidos (3):
 ------------------------------
 Fogler (2001). Elementos de Ingeniería de las Reacciones Químicas. Ed. Prentice-Hall. BPOL/66.02 FOG
 ele
+
+Froment y otros (1999). Chemical Reactor Analysis and Design. Ed. Wiley. BPOL/66 FRO che
 
 Santamaria y otros (1999). Ingeniería de Reactores. Ed. Síntesis. BPOL/66.02 SAN ing
 

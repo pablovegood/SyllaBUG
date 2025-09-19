@@ -2,12 +2,15 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (27):
 ------------------------------
+Abuín   González,   M.   (2009).   "La   Toma   De   Notas:   El   desarrollo   de   la  habilidad  de  aprendiz  a
+intérprete."
+
 Alexieva, B. (1997). “A typology of Interpreter-Mediated Events”. The Translator 3, 2, 153-174
 
 Alonso   Araguás,   Icíar   (2005)   «Las   técnicas   de   oratoria   y   comunicación   oral   en   el  aula  de
@@ -24,12 +27,18 @@ I, 6.ª edición). Bellaterra: Servei de Publicacions de la UAB. (Materials, 188
 Collados   Aís,   A.   &   M.ª  M.  Fernández  Sánchez  (2001).  Manual  de  interpretación  bilateral.  Granada:
 Comares
 
+García-Noblejas,   Gabriel,   ed.   2012.   China.   Pasado  y  Presente  de  Una  Gran  Civilización  .  Madrid:
+Alianza Editorial
+
 Gentile, A. et al. (1996). Liaison Interpreting. A Handbook. Australia: Melbourne University Press
 
 Gernet, Jacques. 2005. El Mundo Chino . Barcelona : Crítica
 
 Gile,   D.  (2005).  Basic  Concepts  and  Models  for  Interpreter  and  Translator  Training.  Amsterdam:  John
 Benjamins
+
+Gile,    D.    (2009).    Basic    Concepts    and    Models   for   Interpreter   and   Translator   Training.
+Amsterdam/Philadelphia: John Benjamins
 
 Iglesias Fernández, E. (2007). La didáctica de la interpretación de conferencias: Teoría y Práctica.
 Granada: Comares
@@ -50,6 +59,9 @@ Moratto,   R.  &  Zhang,  I.  A.  (Eds.).  (2023).  Conference  Interpreting  in
 Research. Taylor & Francis
 
 Nolan, J. (2005). Interpretation. Techniques and Exercises. Clevedon : Multilingual Matters LTD
+
+Oramas   Torres,  Elisaliz  (2020)  Herramientas  metodológicas  para  desarrollar  la  competencia  léxica  de
+los estudiantes de interpretación. ISLAS, 62 (195): 122-131
 
 Ren,   Qiliang  (任启亮).  2004.  Common  Knowledge  about  Chinese  Culture.  Zhongguo  Wenhua  Changshi  (中国文化常识)
 . Hong Kong: Xianggang Zhongguo Lüyou Chubanshe
@@ -75,28 +87,9 @@ Interpreters’ Newsletter 6, 33-42
 Wang,   Kai   (王恺).   2004.  Common  Knowledge  about  Chinese  History.  Zhongguo  Wenhua  Changshi  (中国历史常识)  .
 Hong Kong: Xianggang Zhongguo Lüyou Chubanshe
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Abuín   González,   M.   (2009).   "La   Toma   De   Notas:   El   desarrollo   de   la  habilidad  de  aprendiz  a
-intérprete."   García-Noblejas,  Gabriel,  ed.  2012.  China.  Pasado  y  Presente  de  Una  Gran  Civilización.
-Madrid:   Alianza   Editorial   →   García-Noblejas,   Gabriel,  ed.  2012.  China.  Pasado  y  Presente  de  Una
-Gran Civilización . Madrid: Alianza Editorial
+Romana   García,   María   Luisa   [ed.]   II  AIETI.  Actas  del  II  Congreso  Internacional  de  la  Asociación
+Ibérica de Estudios de Traducción e Interpretación. Madrid: AIETI, pp. 1106-1123
 
-Gile,   D.   (2009).   Basic   Concepts   and   Models   for  Interpreter  and  Translator  Training  →  Gile,  D.
-(2005). Basic Concepts and Models for Interpreter and Translator Training. Amsterdam: John Benjamins
-
-✅ Recursos añadidos:
-------------------------------
-Abuín   González,   M.   (2009).   "La   Toma   De   Notas:   El   desarrollo   de   la  habilidad  de  aprendiz  a
-intérprete."
-
-Alonso   Araguás,   Icíar   (2005)   «Las   técnicas   de   oratoria   y   comunicación   oral   en   el  aula  de
-interpretación consecutiva. Propuesta de un módulo introductorio», en
-
-Gile,    D.    (2009).    Basic    Concepts    and    Models   for   Interpreter   and   Translator   Training.
-Amsterdam/Philadelphia: John Benjamins
-
-Oramas   Torres,  Elisaliz  (2020)  Herramientas  metodológicas  para  desarrollar  la  competencia  léxica  de
-los estudiantes de interpretación. ISLAS, 62 (195): 122-131
-
-📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]

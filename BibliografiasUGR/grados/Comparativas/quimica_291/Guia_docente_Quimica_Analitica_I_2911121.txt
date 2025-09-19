@@ -2,11 +2,12 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+“Química   Analítica   moderna”   D.   Harvey.  MacGraw-Hill,  2002  “Química  Analítica  contemporánea”  K.A.
+Rubinson y J.F. Rubinson. Pearson Educación, 2000
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 "Química Analítica" J.L. Vílchez Quero. Fleming, 2023
 
@@ -31,14 +32,10 @@ Nikolelis. Pergamon Press, 1988
 
 “Problemas de Química. Cuestiones y ejercicios” J.A. López Cancio. Prentice Hall, 2000
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-“Química   Analítica   moderna”   D.   Harvey.  MacGraw-Hill,  2002  “Química  Analítica  contemporánea”  K.A.
-Rubinson   y   J.F.   Rubinson.   Pearson   Educación,   2000   →   “Química   Analítica   moderna”  D.  Harvey.
-MacGraw-Hill, 2002
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 “Química Analítica contemporánea” K.A. Rubinson y J.F. Rubinson. Pearson Educación, 2000
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+“Química Analítica moderna” D. Harvey. MacGraw-Hill, 2002
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

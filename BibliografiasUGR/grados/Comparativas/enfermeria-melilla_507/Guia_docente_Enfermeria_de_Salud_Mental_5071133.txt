@@ -2,22 +2,26 @@
 Grado: enfermeria-melilla (507)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-En   Habilidades   de   comunicación   y   estrategias   asistenciales   en  el  ámbito  sanitario  (pp.  x-  x).
-Formación   Alcalá.  ISBN:  84-96224-69-4  5.Lorenzo-Ruiz,  N.  (2008).  Comunicación  con  otras  poblaciones
-especiales:   personas   Habilidades   psicológicas   en   profesiones  de  socorro  y  emergencia  (pp.  x-x).
-Desclee de Brouwer. ISBN: 978-84-330-2272-1
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
 American   Psychological   Association.   (2014).  Manual  de  diagnóstico  y  estadístico  de  los  trastornos
-mentales (DSM-5) . Editorial Panamericana
+mentales (DSM-5). Editorial Panamericana
+
+CIE-11.   (2023).   Clasificación   Internacional  de  Enfermedades  Para  las  Estadísticas  de  Mortalidad  y
+Morbilidad    (Guía    de    Referencia   11ª.   Revisión).   Organización   Mundial   de   la   Salud   (OMS).
+https://icd.who.int/es/docs/GuiaReferencia_CIE_11_Feb2023.pdf
 
 Cervilla, J. A. (2017). Compendio de Psiquiatría. Editorial Técnica Avicam
 
 Fornés   Vives,   J.,  &  Carballal  Balsa,  M.  C.  (2011).  Enfermería  de  Salud  Mental  y  Psiquiátrica:  Guía
 práctica de valoración y estrategias de intervención. Editorial Médica Panamericana
+
+Gabbard,    G.   (2002).   Psiquiatría   psicodinámica   en   la   práctica   clínica   (3ª   ed.).   Editorial
+Panamericana. ISBN: 9788479037796
 
 Granados, G., & Sánchez, M. (2011). Enfermería en Salud Mental. Editorial Universitaria Ramón Areces
 
@@ -30,6 +34,10 @@ Lorenzo-Ruiz, N. (2004). La comunicación con los familiares en una situación u
 de   comunicación   y   estrategias   asistenciales   en  el  ámbito  sanitario  (pp.  x-x).  Formación  Alcalá.
 ISBN: 84-96224-69-4
 
+Lorenzo-Ruiz,   N.   (2008).  Comunicación  con  otras  poblaciones  especiales:  personas  mayores,  personas
+con   discapacidad,   personas   extranjeras.   En   Psicología  y  emergencia:  Habilidades  psicológicas  en
+profesiones de socorro y emergencia (pp. x-x). Desclee de Brouwer. ISBN: 978-84-330-2272-1
+
 Lorenzo-Ruiz,   N.  (2019).  La  necesidad  de  la  intervención  psicológica  en  crisis  con  profesionales  de
 las   emergencias   tras  la  actuación  en  situaciones  críticas.  Loger,  Revista  Científica  de  Logística,
 1(1), ISNN 2452-5626
@@ -38,22 +46,29 @@ Lorenzo-Ruiz,   N.,   &   De  Manuel  Betegón,  M.  (2018).  Intervención  psi
 para profesionales de la emergencia. Colegio Oficial de Psicólogos del Principado de Asturias. Grupo
 de intervención Psicológica en Emergencias y Catástrofes
 
-McCloskey,   J.   C.,   &  Bulechek,  G.  M.  (1999).  Clasificación  de  intervenciones  de  enfermería  (CIE)  .
+McCloskey,   J.   C.,   &   Bulechek,  G.  M.  (1999).  Clasificación  de  intervenciones  de  enfermería  (CIE).
 Madrid: Sintesis
 
-Mejías, F., & Serrano, D. (2000). Enfermería en psiquiatría y salud mental . DAE
+Mejías, F., & Serrano, D. (2000). Enfermería en psiquiatría y salud mental. DAE
 
 Miranda-Páez,   J.  (2011).  Aspectos  psicológicos  en  situaciones  de  emergencias  y  crisis.  Uciencia,  7,
 42-45
 
-Morrison, M. (1999). Fundamentos de enfermería en salud mental . Madrid: Mosby
+Morrison, M. (1999). Fundamentos de enfermería en salud mental. Madrid: Mosby
 
-Pepalau, H. E. (1990). Relaciones interpersonales en enfermería . Salvat editores
+North American Nursing Diagnosis Association. (2001). Diagnósticos enfermeros, 2001-2002. Harcourt
+
+Pepalau, H. E. (1990). Relaciones interpersonales en enfermería. Salvat editores
 
 Rigol, A., & Ugalde, M. (2003). Enfermería Psiquiátrica (2ª ed.). Masson, SA
 
 Rodrigo,   M.   T.   (2013).   Los   diagnósticos   enfermeros:  revisión  crítica  y  guía  práctica  (9ª  ed.).
 Elsevier
+
+San Román-Mata, S., Puertas-Molero, P., Ubago-Jiménez, J. L., & González-Valero, G. (2020). Benefits
+of   physical  activity  and  its  associations  with  resilience,  emotional  intelligence  and  psychological
+distress in university students from Southern Spain. International Journal of Environmental Research
+and Public Health, 17(12), 1-12. https://doi.org/10.3390/ijerph17124474
 
 Stuart,   G.   W.,   &   Laraia,  M.  T.  (2006).  Enfermería  psiquiátrica:  principios  y  prácticas  (8ª  ed.).
 Elsevier España
@@ -63,26 +78,10 @@ Practitioner Guides and Handouts (HHS Pub. No. SMA-09-4462). Rockville, MD: Cent
 Services,   Substance   Abuse  and  Mental  Health  Services  Administration,  U.S.  Department  of  Health  and
 Human Services
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-10.CIE-11. (2023). Clasificación Internacional de Enfermedades Para las Estadísticas de Mortalidad y
-Morbilidad   (Guía  de  Referencia  11ª.  Revisión).  Organización  Mundial  de  la  11.North  American  Nursing
-Diagnosis   Association.   (2001).   Diagnósticos   enfermeros,   2001-2002.   Harcourt   →  CIE-11.  (2023).
-Clasificación   Internacional   de  Enfermedades  Para  las  Estadísticas  de  Mortalidad  y  Morbilidad  (Guía
-de      Referencia      11ª.      Revisión).      Organización     Mundial     de     la     Salud     (OMS).
-https://icd.who.int/es/docs/GuiaReferencia_CIE_11_Feb2023.pdf
-
-1.Gabbard,   G.   (2002).   Psiquiatría   psicodinámica   en   la   práctica   clínica   (3ª   ed.).  Editorial
-Panamericana.   ISBN:  9788479037796  2.San  Román-Mata,  S.,  Puertas-Molero,  P.,  Ubago-Jiménez,  J.  L.,  &
-González-Valero,   G.   (2020).   Benefits   of   physical  activity  and  its  associations  with  resilience,
-emotional   intelligence   and   psychological   distress   in   university  students  from  Southern  Spain  →
-Gabbard,    G.   (2002).   Psiquiatría   psicodinámica   en   la   práctica   clínica   (3ª   ed.).   Editorial
-Panamericana. ISBN: 9788479037796
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (13):
 ------------------------------
 American   Psychological   Association.   (2014).  Manual  de  diagnóstico  y  estadístico  de  los  trastornos
-mentales (DSM-5). Editorial Panamericana
+mentales (DSM-5) . Editorial Panamericana
 
 Cervilla, J. A. (2017). Compendio de Psiquiatría . Editorial Técnica Avicam
 
@@ -94,10 +93,6 @@ Areces
 
 Johnson, B. (2000). Enfermería de salud mental y psiquiatría . Interamericana McGraw-Hill
 
-Lorenzo-Ruiz,   N.   (2008).  Comunicación  con  otras  poblaciones  especiales:  personas  mayores,  personas
-con   discapacidad,   personas   extranjeras.   En   Psicología  y  emergencia:  Habilidades  psicológicas  en
-profesiones de socorro y emergencia (pp. x-x). Desclee de Brouwer. ISBN: 978-84-330-2272-1
-
 Lorenzo-Ruiz,   N.  (2019).  La  necesidad  de  la  intervención  psicológica  en  crisis  con  profesionales  de
 las emergencias tras la actuación en situaciones críticas. Loger, Revista Científica de Logística, 1
 (1), ISNN 2452-5626
@@ -106,27 +101,20 @@ Lorenzo-Ruiz,   N.,   &   De  Manuel  Betegón,  M.  (2018).  Intervención  psi
 para   profesionales   de   la   emergencia   .  Colegio  Oficial  de  Psicólogos  del  Principado  de  Asturias.
 Grupo de intervención Psicológica en Emergencias y Catástrofes
 
-McCloskey,   J.   C.,   &   Bulechek,  G.  M.  (1999).  Clasificación  de  intervenciones  de  enfermería  (CIE).
+McCloskey,   J.   C.,   &  Bulechek,  G.  M.  (1999).  Clasificación  de  intervenciones  de  enfermería  (CIE)  .
 Madrid: Sintesis
 
-Mejías, F., & Serrano, D. (2000). Enfermería en psiquiatría y salud mental. DAE
+Mejías, F., & Serrano, D. (2000). Enfermería en psiquiatría y salud mental . DAE
 
-Morrison, M. (1999). Fundamentos de enfermería en salud mental. Madrid: Mosby
+Morrison, M. (1999). Fundamentos de enfermería en salud mental . Madrid: Mosby
 
 North American Nursing Diagnosis Association. (2001). Diagnósticos enfermeros, 2001-2002 . Harcourt
 
-North American Nursing Diagnosis Association. (2001). Diagnósticos enfermeros, 2001-2002. Harcourt
-
-Pepalau, H. E. (1990). Relaciones interpersonales en enfermería. Salvat editores
+Pepalau, H. E. (1990). Relaciones interpersonales en enfermería . Salvat editores
 
 San Román-Mata, S., Puertas-Molero, P., Ubago-Jiménez, J. L., & González-Valero, G. (2020). Benefits
 of   physical  activity  and  its  associations  with  resilience,  emotional  intelligence  and  psychological
 distress in university students from Southern Spain. International Journal of Environmental Research
 and Public Health, 17 (12), 1-12. https://doi.org/10.3390/ijerph17124474
 
-San Román-Mata, S., Puertas-Molero, P., Ubago-Jiménez, J. L., & González-Valero, G. (2020). Benefits
-of   physical  activity  and  its  associations  with  resilience,  emotional  intelligence  and  psychological
-distress in university students from Southern Spain. International Journal of Environmental Research
-and Public Health, 17(12), 1-12. https://doi.org/10.3390/ijerph17124474
-
-📊 Porcentaje estimado de cambio: 82% [████████░░]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

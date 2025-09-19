@@ -2,11 +2,11 @@
 Grado: ciencias-politicas-administ-derecho (213)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
 ALEXY,   R.:   Teoría   de  los  derechos  fundamentales,  Centro  de  Estudios  Políticos  y  Constitucionales,
 Madrid, 2001
@@ -22,19 +22,40 @@ BIDART CAMPOS, G. J.: Teoría general de los derechos humanos, Astrea, Buenos Ai
 CRUZ   VILLALÓN,  P.  (coord.):  Hacia  la  europeización  de  la  Constitución  Española.  La  adaptación  de  la
 Constitución española al marco constitucional de la Unión Europea, Fundación BBVA, Madrid, 2006
 
-DÍEZ-PICAZO, L.M.: Sistema de derechos fundamentales. Civitas, Madrid, 2003
+CRUZ VILLALÓN, p. (Dir.): Legislación constitucional. Ariel, Barcelona, últ. ed
 
-F.   BALAGUER   (coord.),   G.   CÁMARA   VILLAR,  J.A.  MONTILLA  MARTOS:  Código  de  Derecho  Constitucional.
-Tecnos, Madrid, última edición
+Colecciones   legislativas:   Se   recomienda  especialmente  para  la  parte  de  Derechos  Fundamentales:  F.
+BALAGUER (coord.), G. CÁMARA VILLAR, J.A. MONTILLA MARTOS: Código de Derecho Constitucional. Tecnos,
+Madrid, última edición
+
+DE   CARRERAS   SERRA,   F.   y   GAVARA   DE   CARA,   J.C.:  Leyes  Políticas.  Thomson  Aranzadi,  Cizur  Menor
+(Navarra), últ. ed
+
+DE LUCAS MARTÍN, J. Los derechos: entre la ética, el poder y el derecho, Dykinson, Madrid, 2009
+
+DÍEZ-PICAZO, L.M.: Sistema de derechos fundamentales. Civitas, Madrid, 2003
 
 FARIÑAS DULCE, M.J.: Globalización, ciudadanía y derechos humanos, Dykinson, 2000
 
 FERRAJOLI,   L:   Los   fundamentos  de  los  derechos  fundamentales.  Edición  de  Antonio  de  Cabo  y  Gerardo
 Pisarello.Madrid, Trotta, 2001 y 2005
 
-JIMENA QUESADA, L.: Sistema europeo de derechos fundamentales.Madrid, Colex, 2006
+FIORAVANTI,   M.:   Los   derechos   fundamentales.   Apuntes   de  historia  de  las  Constituciones.  Madrid,
+Trotta, 1998
+
+GRIMM,   D.:  Constitucionalismo  y  derechos  fundamentales,  Trotta,  Madrid,  JIMENA  QUESADA,  L.:  Sistema
+europeo de derechos fundamentales.Madrid, Colex, 2006
 
 JIMÉNEZ CAMPO, J.: Derechos fundamentales. Concepto y garantías, Trotta, Madrid, 1999
+
+Jurisprudencia:   Las   sentencias   del  Tribunal  Constitucional  se  publican  en  el  BOE.  Puede  accederse
+directamente    a    la    jurisprudencia   constitucional   española   en   la   página   web   del   Tribunal
+Constitucional
+
+La recomendada por cada profesor/a
+
+Las   sentencias   del   Tribunal   Supremo   no  se  publican  en  el  BOE,  pero  son  recopiladas  por  empresas
+privadas, entre las que cabe destacar el Repertorio Cronológico de Jurisprudencia Aranzadi y La Ley
 
 LÓPEZ CALERA, N. : Introducción a los derechos humanos, Comares, Granada, 2000
 
@@ -43,8 +64,6 @@ artículo por artículo, Fundación BBVA, Madrid, 2008
 
 MEDINA   GUERRERO,   M.:   La  vinculación  negativa  del  legislador  a  los  derechos  fundamentales.  Madrid,
 McGraw Hill, 1996
-
-Madrid, Trotta, 1998
 
 Nota   importante:   No   se   incluyen  entradas  específicas  para  cada  uno  de  los  derechos  fundamentales
 porque   haría   esta   selección   bibliográfica   muy   extensa   y   prolija.   Para   ello   remitimos  a  la
@@ -59,47 +78,28 @@ PRIETO SANCHÍS, L. Estudios sobre derechos fundamentales, Debate, Madrid, 1990
 
 PRIETO SANCHÍS, L. Justicia constitucional y derechos fundamentales, Trotta, 2009
 
-QUERALT   JIMÉNEZ,   A.:   La   interpretación   de  los  derechos:  del  Tribunal  de  Estrasburgo  al  Tribunal
-Constitucional, CEPC, Madrid, 2008
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-AGUIAR DE LUQUE, L. y PÉREZ TREMPS, P.: Normas políticas. Tecnos, Madrid, últ. ed
-
-CRUZ VILLALÓN, p. (Dir.): Legislación constitucional. Ariel, Barcelona, últ. ed
-
-Colecciones legislativas
-
-DE   CARRERAS   SERRA,   F.   y   GAVARA   DE   CARA,   J.C.:  Leyes  Políticas.  Thomson  Aranzadi,  Cizur  Menor
-(Navarra), últ. ed
-
-DE LUCAS MARTÍN, J. Los derechos: entre la ética, el poder y el derecho, Dykinson, Madrid, 2009
-
-FIORAVANTI,   M.:   Los   derechos   fundamentales.   Apuntes   de  historia  de  las  Constituciones.  Madrid,
-Trotta, 1998
-
-Jurisprudencia
-
-La recomendada por cada profesor/a
-
-Las   sentencias  del  Tribunal  Constitucional  se  publican  en  el  BOE.  Puede  accederse  directamente  a  la
-jurisprudencia constitucional española en la página web del Tribunal Constitucional
-
-Las   sentencias   del   Tribunal   Supremo   no  se  publican  en  el  BOE,  pero  son  recopiladas  por  empresas
-privadas, entre las que cabe destacar el Repertorio Cronológico de Jurisprudencia Aranzadi y La Ley
-
 Para la jurisprudencia del Tribunal Europeo de Derechos Humanos
 
 Para la jurisprudencia del Tribunal de Justicia de la Unión Europea
 
 PÉREZ LUÑO, A. E. Derechos humanos, Estado de derecho y Constitución, Tecnos Madrid
 
+QUERALT   JIMÉNEZ,   A.:   La   interpretación   de  los  derechos:  del  Tribunal  de  Estrasburgo  al  Tribunal
+Constitucional, CEPC, Madrid, 2008
+
+También   se   recomiendan:   AGUIAR  DE  LUQUE,  L.  y  PÉREZ  TREMPS,  P.:  Normas  políticas.  Tecnos,  Madrid,
+últ. ed
+
+✅ Recursos añadidos (5):
+------------------------------
+Colecciones legislativas
+
+JIMENA QUESADA, L.: Sistema europeo de derechos fundamentales.Madrid, Colex, 2006
+
+Jurisprudencia
+
 Se recomienda especialmente para la parte de Derechos Fundamentales
 
 También se recomiendan
 
-📊 Porcentaje estimado de cambio: 75% [███████░░░]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

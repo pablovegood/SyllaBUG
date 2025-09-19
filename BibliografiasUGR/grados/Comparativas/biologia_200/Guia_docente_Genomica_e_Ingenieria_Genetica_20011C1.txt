@@ -2,24 +2,32 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Oxford   Univ   Press,   Oxford.   Computing   for   Comparative   Microbial   Genomics:   Bioinformatics  for
-Microbiologists
+Lewin,   B.  2008.  Genes  IX.  McGraw-Hill/Interamericana  Luque,  J.,  Herráez  A.  2001.  Texto  ilustrado  de
+Biología Molecular e Ingeniería Genética
 
-📚 Recursos sin cambios:
+Ussery,   D.   W.,   Wassenaar,   T.   M.,  Borini,  S.  (eds)  2009  Springer-Verlag  London  Limited  Microbial
+functional   genomics   Zhou,   J.,   Thompson,   D.  K.,  Xu,  Y.  and  Tiedje,  J.  M.  (eds)  2004  John  Wiley  &
+Sons, Inc Fraser C.M., Read T.D. 2004. Microbial genomes. Humana Press
+
+📚 Recursos sin cambios (10):
 ------------------------------
 Brown, T.A. 2008. Genomas. Editorial Médica Panamericana
+
+Computing   for   Comparative   Microbial   Genomics:  Bioinformatics  for  Microbiologists.  Ussery,  D.  W.,
+Wassenaar, T. M., Borini, S. (eds) 2009 Springer-Verlag London Limited
 
 Elliot, W.C. Elliot, D.C. 2005. Biochemistry and Molecular Biology, W.H. Elliot, D.C. Elliot. Oxford
 Univ Press, Oxford
 
 Gregory, T. R. Ed. 2006. The evolution of the genome. Editorial Elsevier, Holanda
 
-Jocelyn   E.   Krebs,  Elliott  S.  Goldstein  And  Stephen  T.  Kilpatrick,  Gene  Essentials  Lewin  2ª  Edicion
-Panamericana 2012
+Izquierdo,   M.   2002.   Ingeniería   genética   y  transferencia  génica.  3ª  Ed.  Ediciones  Pirámide,  S.A.
+Madrid
 
-Lewin, B. 2008. Genes IX. McGraw-Hill/Interamericana
+Luque,   J.,  Herráez  A.  2001.  Texto  ilustrado  de  Biología  Molecular  e  Ingeniería  Genética.  Conceptos,
+Técnicas y Aplicaciones en Ciencias de la Salud. Ed. Harcourt, S.A
 
 Pevsner, J. 2009. Bioinformatics and Functional Genomics, 2nd edition. John Wiley & Sons, Inc
 
@@ -28,34 +36,29 @@ Blackwell Science, Oxford, U.K
 
 Straalen, N.M., and Roelofs, D. 2006. An introduction to ecological genomics. Oxford Univ Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ussery,   D.   W.,   Wassenaar,   T.   M.,  Borini,  S.  (eds)  2009  Springer-Verlag  London  Limited  Microbial
-functional   genomics   Zhou,   J.,   Thompson,   D.  K.,  Xu,  Y.  and  Tiedje,  J.  M.  (eds)  2004  John  Wiley  &
-Sons,   Inc   Fraser   C.M.,   Read   T.D.   2004.   Microbial  genomes.  Humana  Press  →  Microbial  functional
-genomics Zhou, J., Thompson, D. K., Xu, Y. and Tiedje, J. M. (eds) 2004 John Wiley & Sons, Inc
+Ángel   Herráez   Sánchez.   Biología   Molecular  E  Ingeniería  Genética,  Elsevier,  2ª  Edición  Jocelyn  E.
+Krebs, Elliott S. Goldstein And Stephen T. Kilpatrick, Gene Essentials Lewin 2ª Edicion Panamericana
+2012   Revistas:   Cell   Nature   Science   Nature   Reviews  Microbiology  Current  Opinion  in  Microbiology
+Trends in Microbiology Trends Genetics
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
-Computing   for   Comparative   Microbial   Genomics:  Bioinformatics  for  Microbiologists.  Ussery,  D.  W.,
-Wassenaar, T. M., Borini, S. (eds) 2009 Springer-Verlag London Limited
-
 Current Opinion in Microbiology
 
 Fraser C.M., Read T.D. 2004. Microbial genomes. Humana Press
 
-Izquierdo,   M.   2002.   Ingeniería   genética   y  transferencia  génica.  3ª  Ed.  Ediciones  Pirámide,  S.A.
-Madrid
+Jocelyn   E.   Krebs,  Elliott  S.  Goldstein  And  Stephen  T.  Kilpatrick,  Gene  Essentials  Lewin  2ª  Edicion
+Panamericana 2012
 
-Luque,   J.,  Herráez  A.  2001.  Texto  ilustrado  de  Biología  Molecular  e  Ingeniería  Genética.  Conceptos,
-Técnicas y Aplicaciones en Ciencias de la Salud. Ed. Harcourt, S.A
+Lewin, B. 2008. Genes IX. McGraw-Hill/Interamericana
+
+Microbial   functional   genomics   Zhou,  J.,  Thompson,  D.  K.,  Xu,  Y.  and  Tiedje,  J.  M.  (eds)  2004  John
+Wiley & Sons, Inc
 
 Nature Reviews Microbiology
-
-Trends Genetics
 
 Trends in Microbiology
 
 Ángel Herráez Sánchez. Biología Molecular E Ingeniería Genética, Elsevier, 2ª Edición 2012
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

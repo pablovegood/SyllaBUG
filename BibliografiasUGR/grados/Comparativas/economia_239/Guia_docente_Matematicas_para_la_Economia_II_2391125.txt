@@ -2,11 +2,11 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 ALEGRE, P. Y OTROS, Ejercicios resueltos de Matemáticas Empresariales 2. Ed. AC,1993
 
@@ -16,10 +16,14 @@ y Operaciones financieras. Ed. AC, 1998
 BARBOLLA,   S.,   CERDÁ,   E.   Y   SANZ,   P.,   Optimización   (cuestiones,  ejercicios  y  aplicaciones  a  la
 economía). Ed. Prentice Hall 2000
 
+BORRELL, J., Métodos matemáticos de la Economía: Programación matemática. Ed. Pirámide, 1987
+
 CABALLERO,   R.,   CALDERON,   S.   Y   OTROS,   Matemáticas   aplicadas   a  la  economía  y  a  la  empresa.  Ed.
 Pirámide, 1993
 
 CHIANG, Métodos fundamentales en Economía Matemática. Ed. McGraw-Hill, 2006
+
+DIAZ, A., NOVO, V. Y PERÁN, J., Optimización. Casos prácticos. UNED Ediciones, 2000
 
 GANDOLFO, G., Economic Dynamics, ED. Springer, 2010
 
@@ -39,21 +43,15 @@ SOTO, M.D., Métodos de Optimización. Ed. Delta publicaciones, 2007
 
 STEWART, J. Cálculo Multivariante. Ed. Thomson, 2002
 
+SYDSATER, K Y HAMMOND, P. J., Matemáticas para el Análisis Económico. Ed. Prentice Hall
+
 ZILL, D.G. Ecuaciones diferenciales con Aplicaciones. Ed. Grupo Iberoamérica. 1988
 
 ÁLVAREZ DE MORALES, M. Y FORTES, M. A., Cálculo en varias variables para Economía y Administración y
 Dirección de Empresas. Ed. Técnica Avicam 2020
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-BORRELL, J., Métodos matemáticos de la Economía: Programación matemática. Ed. Pirámide, 1987
-
-DIAZ, A., NOVO, V. Y PERÁN, J., Optimización. Casos prácticos. UNED Ediciones, 2000
-
-SYDSATER, K Y HAMMOND, P. J., Matemáticas para el Análisis Económico. Ed. Prentice Hall
-
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,14 +2,14 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Mari   Mutt,   J.   A.   (2001).   Manual  de  redacción  científica.  (4ª  ed.)  Caribbean  Journal  of  Science,
+Special   publication  nº  3.  [Disponible  en:  http://www.caribjsci.org/epub1/]  Martín  Martín,  J.  et  al.
+(1996). Los lenguajes especiales. Granada: Comares
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
-Alcaraz Varó, E. y Hughes, B. (2002). El español jurídico . Barcelona: Ariel
-
 Feria García, M. (ed.) (1999). Traducir para la justicia . Granada: Comares
 
 Gamero Pérez, Silvia (2001). La traducción de textos técnicos . Barcelona: Ariel
@@ -29,18 +29,17 @@ Martínez de Sousa, J., (2000). Manual de estilo de la lengua española . Gijón
 Puerta López-Cózar, J.L., y Mauri Más, A. (1995). Manual para la redacción, traducción y publicación
 de textos médicos . Barcelona: Mason
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Mari   Mutt,   J.   A.   (2001).   Manual   de   redacción  científica.  (4ª  ed.)  Caribbean  Journal  of  Martín
-Martín,   J.   et   al.   (1996).   Los  lenguajes  especiales.  Granada:  Comares  →  Martín  Martín,  J.  et  al.
-(1996). Los lenguajes especiales . Granada: Comares
+TREMÉDICA.   Panace@,   Asociación   Internacional   de   Traductores  y  Redactores  de  Medicina  y  Ciencias
+Afines.   [Disponible   en   http://www.tremedica.org]  Alcaraz  Varó,  E.  y  Hughes,  B.  (2002).  El  español
+jurídico. Barcelona: Ariel
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
+Alcaraz Varó, E. y Hughes, B. (2002). El español jurídico . Barcelona: Ariel
+
 Mari   Mutt,   J.   A.   (2001).  Manual  de  redacción  científica  .  (4ª  ed.)  Caribbean  Journal  of  Science,
 Special publication nº 3. [Disponible en: http://www.caribjsci.org/epub1/ ]
 
-TREMÉDICA.   Panace@,   Asociación   Internacional   de   Traductores  y  Redactores  de  Medicina  y  Ciencias
-Afines. [Disponible en http://www.tremedica.org ]
+Martín Martín, J. et al. (1996). Los lenguajes especiales . Granada: Comares
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

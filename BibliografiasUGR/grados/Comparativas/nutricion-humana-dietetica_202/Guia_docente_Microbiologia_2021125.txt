@@ -2,35 +2,43 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Boletín   Oficial   del  Estado  (BOE).  DECRETO  2484/1967,  DE  21  DE  SEPTIEMBRE,  POR  EL  QUE  SE  APRUEBA  EL
+TEXTO   DEL  CÓDIGO  ALIMENTARIO  ESPAÑOL.  TEXTO  CONSOLIDADO  (TEXTO  CONSOLIDADO  (Última  modificación:  10
+de      diciembre      de      2020;      aparecen     modificaciones     periódicas)     (DISPONIBLE     EN
+https://www.boe.es/eli/es/d/1967/09/21/2484/con)   Sperber   WH,   Doyle   MP.   (2009)  COMPENDIUM  OF  THE
+MICROBIOLOGICAL   SPOILAGE   OF  FOODS  AND  BEVERAGES.  Springer,  New  York.  (EN  INGLÉS)  Tucker  GS.  (2011)
+FOOD   BIODETERIORATION   AND   METHODS  OF  PRESERVATION.  Coles  R,  Kirwan  M  (editors).  Food  and  Beverage
+Packaging Technology, Second Edition
 
-📚 Recursos sin cambios:
+Martín A, Béjar V, Gutiérrez JC, Llagostera M, Quesada E. (2019) MICROBIOLOGÍA ESENCIAL. Panamerica.
+Madrid   Tortora   GJ,   Funke   BR,   Case   CL   (2007)   INTRODUCCIÓN   A   LA   MICROBIOLOGÍA,   9ª  edición.
+Panamericana, Buenos Aires
+
+📚 Recursos sin cambios (8):
 ------------------------------
 AENOR   (Asociación   Española   de   Normalización  y  Certificación)  Microbiología  de  los  alimentos  para
-consumo      humano      y      animal.      Normas      UNE      (Obtener      información      para     las
+consumo    humano    y   animal.   Normas   UNE   (Obtener   información   para   las   normas   generales   en:
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&
 cd=&ved=2ahUKEwiz3KX-s67_AhX5VqQEHci4AfcQFnoECAMQAQ&url=https%3A%2F%
-2Fwww.en.aenor.com%2F_layouts%2F15%2Fr.aspx%3Fb%3D10868&usg=AOvVaw3b_e
+2Fwww.en.aenor.com%2F_layouts%2F15%2Fr.aspx%3Fb%3D10868&usg=AOvVaw3b_e E5IcEJ_UyqDQyYHbes y para las
+del               Reglamento              CE              en:              https://www.aesan.gob.es/AECO
 SAN/web/seguridad_alimentaria/detalle/criterios_microbiologicos.htm   Álvarez  M,  Buesa  J,  Castillo  J,
 Vila   J.   (2008)   DIAGNÓSTICO   MICROBIOLÓGICO   DE   LAS   INFECCIONES   GASTROINTESTINALES.   30.  Vila  J
 (coordinador).   Procedimientos   en  Microbiología  Clínica.  Cercenado  E,  Cantón  R  (editores).  Sociedad
 Española   de  Enfermedades  Infecciosas  y  Microbiología  Clínica  (SEIMC),  Madrid  (Libre  acceso  en:  http
-mc-procedimientomicrobiologia30.pdf)   Boletín   Oficial  del  Estado  (BOE).  DECRETO  2484/1967,  DE  21  DE
-SEPTIEMBRE,   POR  EL  QUE  SE  APRUEBA  EL  TEXTO  DEL  CÓDIGO  ALIMENTARIO  ESPAÑOL.  TEXTO  CONSOLIDADO  (TEXTO
-CONSOLIDADO   (Última   modificación:   10   de   diciembre   de  2020;  aparecen  modificaciones  periódicas)
-(DISPONIBLE   EN  Sperber  WH,  Doyle  MP.  (2009)  COMPENDIUM  OF  THE  MICROBIOLOGICAL  SPOILAGE  OF  FOODS  AND
-BEVERAGES.   Springer,   New   York.  (EN  INGLÉS)  Tucker  GS.  (2011)  FOOD  BIODETERIORATION  AND  METHODS  OF
-PRESERVATION. Coles R, Kirwan M (editors). Food and Beverage Packaging Technology, Second Edition
-
-Doyle MP, Diez-González F, Hill C (2019). FOOD MICROBIOLOGY: FUNDAMENTALS AND FRONTIERS, 5ª Edición.
-American Society for Microbiology Press, Washington
+://www.seimc.org/contenidos/documentoscientificos/procedimientosmicrobiologia/sei                 mc-
+procedimientomicrobiologia30.pdf)
 
 Hoorfar J (2011) RAPID DETECTION, CHARACTERIZATION, AND ENUMERATION OF FOODBORNE PATHOGENS. American
 Society for Microbiology Press, Washington
 
-Madigan   MT,   Martinko   JM,   Bender   KS,   Buckley   DH,   Stahl   DA.   (2015)   BROCK.   BIOLOGÍA   DE  LOS
-MICROORGANISMOS, 14ª edición. Pearson, Madrid
+MICROBIOLOGÍA DE ALIMENTOS Doyle MP, Diez-González F, Hill C (2019). FOOD MICROBIOLOGY: FUNDAMENTALS
+AND FRONTIERS, 5ª Edición. American Society for Microbiology Press, Washington
+
+MICROBIOLOGÍA   GENERAL   Madigan   MT,   Martinko   JM,   Bender   KS,  Buckley  DH,  Stahl  DA.  (2015)  BROCK.
+BIOLOGÍA DE LOS MICROORGANISMOS, 14ª edición. Pearson, Madrid
 
 Matthews KR, Kniel KE, Montville TJ. (2017) FOOD MICROBIOLOGY: AN INTRODUCTION. 4ª Edición. American
 Society for Microbiology Press, Washington
@@ -38,38 +46,32 @@ Society for Microbiology Press, Washington
 Mossel   DAA,   Moreno   B,   Struijk   CB   (2003)   MICROBIOLOGÍA   DE  LOS  ALIMENTOS,  2ª  edición.  Acribia,
 Zaragoza
 
+Tucker   GS.   (2011)   FOOD  BIODETERIORATION  AND  METHODS  OF  PRESERVATION.  Coles  R,  Kirwan  M  (editors).
+Food   and   Beverage   Packaging  Technology,  Second  Edition.  Blackwell  Publishing  Ltd.,  pp.  31-57.  (EN
+INGLÉS)
+
 Willey   JM,   Sherwood  LM,  Woolverton  CJ.  (2013)  PRESCOTT,  HARLEY  Y  KLEIN.  MICROBIOLOGÍA,  7ª  edición.
 McGraw-Hill Interamericana, Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Martín A, Béjar V, Gutiérrez JC, Llagostera M, Quesada E. (2019) MICROBIOLOGÍA ESENCIAL. Panamerica.
-Madrid   Tortora   GJ,   Funke   BR,  Case  CL  (2007)  INTRODUCCIÓN  A  LA  MICROBIOLOGÍA,  9ª  edición  →  Martín
-A, Béjar V, Gutiérrez JC, Llagostera M, Quesada E. (2019) MICROBIOLOGÍA ESENCIAL. Panamerica. Madrid
-
-✅ Recursos añadidos:
-------------------------------
-AENOR   (Asociación   Española   de   Normalización  y  Certificación)  Microbiología  de  los  alimentos  para
-consumo    humano    y   animal.   Normas   UNE   (Obtener   información   para   las   normas   generales   en:
-https://www.aenor.com/certificacion/alimentacion     y     para     las     del     Reglamento    CE    en:
-https://www.aesan.gob.es/AECOSAN/web/seguridad_alimentaria/detalle/criterios_microbiologicos.htm
-
 Boletín   Oficial   del  Estado  (BOE).  DECRETO  2484/1967,  DE  21  DE  SEPTIEMBRE,  POR  EL  QUE  SE  APRUEBA  EL
 TEXTO   DEL  CÓDIGO  ALIMENTARIO  ESPAÑOL.  TEXTO  CONSOLIDADO  (TEXTO  CONSOLIDADO  (Última  modificación:  10
 de      diciembre      de      2020;      aparecen     modificaciones     periódicas)     (DISPONIBLE     EN
 https://www.boe.es/eli/es/d/1967/09/21/2484/con)
 
+MICROBIOLOGÍA DE ALIMENTOS
+
 MICROBIOLOGÍA GENERAL
+
+Martín A, Béjar V, Gutiérrez JC, Llagostera M, Quesada E. (2019) MICROBIOLOGÍA ESENCIAL. Panamerica.
+Madrid
 
 Sperber   WH,   Doyle   MP.   (2009)   COMPENDIUM  OF  THE  MICROBIOLOGICAL  SPOILAGE  OF  FOODS  AND  BEVERAGES.
 Springer, New York. (EN INGLÉS)
 
 Tortora   GJ,   Funke   BR,   Case   CL  (2007)  INTRODUCCIÓN  A  LA  MICROBIOLOGÍA,  9ª  edición.  Panamericana,
 Buenos Aires
-
-Tucker   GS.   (2011)   FOOD  BIODETERIORATION  AND  METHODS  OF  PRESERVATION.  Coles  R,  Kirwan  M  (editors).
-Food   and   Beverage   Packaging  Technology,  Second  Edition.  Blackwell  Publishing  Ltd.,  pp.  31-57.  (EN
-INGLÉS)
 
 Álvarez   M,   Buesa   J,   Castillo   J,   Vila   J.   (2008)  DIAGNÓSTICO  MICROBIOLÓGICO  DE  LAS  INFECCIONES
 GASTROINTESTINALES.   30.  Vila  J  (coordinador).  Procedimientos  en  Microbiología  Clínica.  Cercenado  E,
@@ -78,4 +80,4 @@ Madrid                            (Libre                           acceso       
 http://www.seimc.org/contenidos/documentoscientificos/procedimientosmicrobiologia/seimc-
 procedimientomicrobiologia30.pdf)
 
-📊 Porcentaje estimado de cambio: 80% [████████░░]
+📊 Porcentaje estimado de cambio: 60% [██████░░░░]

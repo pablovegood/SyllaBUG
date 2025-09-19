@@ -2,11 +2,13 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Venables,   W.N.,   Smith,   D.M.   y   “the   R   Development   Core   Team”  (2011).  An  Introduction  to  R.  R
+Development   Core  Team  Escobar,  M.  y  Fernández,  E.  (2012).  Análisis  de  datos  con  STATA  (2ª  Edición).
+Ed. Centro de Investigaciones Sociológicas
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Escobar   E.L.,   Zamudio   E.B.   y  Muñoz,  J.F.  (2023).  samplingVarEst:  Sampling  Variance  Estimation.  R
 package version 1.5
@@ -32,16 +34,12 @@ Verlag, New York
 
 Valdés, T. y Pardo, L. (1987). Decisiones estratégicas. Ed. Díaz de Santos S.A
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Venables,   W.N.,   Smith,   D.M.   y   “the   R   Development   Core   Team”  (2011).  An  Introduction  to  R.  R
-Development   Core  Team  Escobar,  M.  y  Fernández,  E.  (2012).  Análisis  de  datos  con  STATA  (2ª  Edición).
-Ed.   Centro   de  Investigaciones  Sociológicas  →  Escobar,  M.  y  Fernández,  E.  (2012).  Análisis  de  datos
-con STATA (2ª Edición). Ed. Centro de Investigaciones Sociológicas
+Escobar,   M.   y   Fernández,   E.   (2012).   Análisis   de   datos   con  STATA  (2ª  Edición).  Ed.  Centro  de
+Investigaciones Sociológicas
 
-✅ Recursos añadidos:
-------------------------------
 Venables,   W.N.,   Smith,   D.M.   y   “the   R   Development   Core   Team”  (2011).  An  Introduction  to  R.  R
 Development Core Team
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

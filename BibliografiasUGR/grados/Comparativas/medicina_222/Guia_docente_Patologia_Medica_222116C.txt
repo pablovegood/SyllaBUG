@@ -2,31 +2,25 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Farreras-Rozman   Medicina  Interna.  XIX  Edición.  Barcelona:  Elsevier;  2020  Pedrosa  C.  Diagnóstico  por
-imagen.   Pedrosa   C.  MC  Graw  Hill  Interamericana.  2000  y  2003.  ISBN:  9788448602970  y  9788448601454  →
-Pedrosa   C.   Diagnóstico   por   imagen.   Pedrosa   C.   MC  Graw  Hill  Interamericana.  2000  y  2003.  ISBN:
-9788448602970 y 9788448601454
+imagen. Pedrosa C. MC Graw Hill Interamericana. 2000 y ISBN: 9788448602970 y 9788448601454
 
-Green   Boox   D.T.M.  Diagnóstico  y  tratamiento  médico  2018  Harrison.  Manual  de  medicina.  20a  Edición.
-México   D.F.   McGraw-Hill   Global.   Education   Holdings;   2019   →   Green   Boox   D.T.M.  Diagnóstico  y
-tratamiento médico. 2018
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (1):
 ------------------------------
-BIBLIOGRAFÍA RECOMENDADA
+BIBLIOGRAFÍA   RECOMENDADA:   Green  Boox  D.T.M.  Diagnóstico  y  tratamiento  médico  2018  Harrison.  Manual
+de medicina. 20a Edición. México D.F. McGraw-Hill Global. Education Holdings; 2019
 
+✅ Recursos añadidos (4):
+------------------------------
 Farreras-Rozman Medicina Interna. (20ª ed.). Barcelona: Elsevier. 2024
 
+Green Boox D.T.M. Diagnóstico y tratamiento médico. 2018
+
 Harrison. Principios de Medicina Interna. Editorial McGraw-Hill (21ª ed.). 2022
+
+Pedrosa   C.   Diagnóstico   por   imagen.   Pedrosa   C.   MC  Graw  Hill  Interamericana.  2000  y  2003.  ISBN:
+9788448602970 y 9788448601454
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

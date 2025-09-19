@@ -2,26 +2,43 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (14):
 ------------------------------
+Alcaraz Varó,E. y Hugues, B. (2002). El español jurídico. Barcelona: Ariel
+
 Aubert, J.L. (1993). Introduction au droit. Coll. Que sais-je? Paris: PUF
+
+Cabrillac, R. (2004). Dictionnaire du vocabulaire juridique, Paris: Litec
+
+Chapron, J. & Gerboin, P. (1993). Dictionnaire économique, commercial et financier
 
 Cornu, C. (Dir) (1987). Vocabulaire juridique, Paris: PUF
 
 Diccionario Jurídico Espasa(1991). Madrid: Espasa Calpe
+
+Feria García,M.C. (1999). Traducir para la justicia. Granada: Comares
 
 Guillen, R & Vincent, J. (1998). Lexique des gtermes juridiques. 11º éd. Paris: Dalloz
 
 Mayoral   Asensio,   R.   (1997).   "La  traducción  comercial".  En  La  traducción  en  un  mundo  global  (ed.)
 Fuertes, P. Valladolid: Publicaciones Universidad de Valladolid
 
+Merlin Walch, O. (1998). Dictionnaire juridique Français/Español- Español/Francais. Paris: L.G.D.J
+
+Ribó Durán,L. (1987). Diccionario de Derecho. Barcelona: BOSCH
+
 Rosenberg, J.M. (1989). Diccionario de administración y finanzas. Barcelona: Centrum
+
+Sarcevic, S. (1997). New approach to legal translation. La Haya: Klumer Law International
 
 Tamames, R,& Gallego, S (1994). Diccionario de economía y finanzas. Madrid: Alianza
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Alcaraz Varó, E. y Hugues, B. (2003) [1994]. D iccionario de términos jurídicos . Barcelona: Ariel
+
+Chapron,   J.,   Gerboin,   P.,   y   Fernández   Díaz,   A.  (2008).  Dictionnaire  économique,  commercial  et
+financier . París: Pocket Langues pour tous
 
 Cornu. G. (2005). Linguistique juridiqu e. 3º éd. París: Montchrestien
 
@@ -39,38 +56,20 @@ Puigelier, C. (1999). Dictionnaire de droit privé . París: Centre de Publicati
 Way,   C.   (2012).  "  A  discourse  Analysis  Approach  to  Legal  Translator  Training:  More  Than  Word  s"  En
 International Journal of Law, Language and Discourse 4 (2), 39-61
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (14):
 ------------------------------
-Merlin   Walch,   O.  (1998).  Dictionnaire  juridique  Français/Español-  Español/Francais.  Paris:  L.G.D.J
-→   Merlin   Walch,   O.  (2012).  Dictionnaire  juridique  Français/Español-  Español/Francais,  6e  édition.
-París: L.G.D.J
+Alcaraz Varó,E., Hugues, B. y Gómez González-Jover, A. (2014). El español jurídico. Barcelona: Ariel
 
-Cabrillac,   R.   (2004).   Dictionnaire  du  vocabulaire  juridique,  Paris:  Litec  →  Cabrillac,  R.  (2025).
-Dictionnaire du vocabulaire juridique 2026, 17e édition. París: Litec
-
-Chapron,   J.   &   Gerboin,  P.  (1993).  Dictionnaire  économique,  commercial  et  financier.  Paris:  Pocket
-Langues   pour   tous   →   Chapron,   J.,   Gerboin,   P.,   y   Fernández   Díaz,   A.   (2008).   Dictionnaire
-économique, commercial et financier . París: Pocket Langues pour tous
-
-Sarcevic,   S.   (1997).   New   approach   to   legal   translation.   La   Haya:  Klumer  Law  International  →
-Sarcevic, S. (2000). New approach to legal translation. La Haya: Klumer Law International
-
-Alcaraz   Varó,E.   y   Hugues,   B.   (2002).   El   español  jurídico.  Barcelona:  Ariel  →  Alcaraz  Varó,E.,
-Hugues, B. y Gómez González-Jover, A. (2014). El español jurídico. Barcelona: Ariel
-
-Ribó    Durán,L.   (1987).   Diccionario   de   Derecho.   Barcelona:   BOSCH   →   Ribó   Durán,   L.   (2012).
-Diccionario de Derecho, 4ª edición. Barcelona: BOSCH
-
-Feria   García,M.C.   (1999).   Traducir  para  la  justicia.  Granada:  Comares  →  Feria  García,M.C.  (2016).
-T raducir para la justicia . Granada: Comares
-
-✅ Recursos añadidos:
-------------------------------
 Banoun,   B.,   Poulin,   I.   y   Chevrel,   Y.  (2019).  Histoire  des  traductions  en  langue  française:  XXe
 siècle . París: Verdier
 
 Barceló   Martínez,   T.,   Delgado   Pugés,   I.,   y   San   Ginés   Aguilar,   P.  (2020).  Introducción  a  la
 traducción jurídica y jurada (francés-español). Granada: Comares
+
+Cabrillac, R. (2025). Dictionnaire du vocabulaire juridique 2026, 17e édition. París: Litec
+
+Chapron,   J.,   Gerboin,   P.,   y   Fernández   Díaz,   A.  (2008).  Dictionnaire  économique,  commercial  et
+financier . París: Pocket Langues pour tous
 
 Cornu, C. (2024). Vocabulaire juridique, 15e édition mise à jour . París: PUF
 
@@ -78,9 +77,18 @@ Debard, T. y Guinchar, S. (2024). Lexique des termes juridiques. 32ª edición .
 
 Fabre-Magnan, M. (2024). Introduction au droit . Coll. Que sais-je? París: PUF
 
+Feria García,M.C. (2016). T raducir para la justicia . Granada: Comares
+
 Mayoral   Asensio,   R.  (2007).  "La  traducción  comercial  ".  En  Problemas  linguísticos  en  la  traducción
 especializada (ed.) Fuertes, P. Valladolid: Publicaciones Universidad de Valladolid
 
+Merlin   Walch,   O.   (2012).   Dictionnaire   juridique  Français/Español-  Español/Francais,  6e  édition.
+París: L.G.D.J
+
 Ortiz Sánchez, M. y Pérez Pino, V. (2024) Diccionario jurídico básico, 9ª edición. Madrid: Tecnos
 
-📊 Porcentaje estimado de cambio: 95% [█████████░]
+Ribó Durán, L. (2012). Diccionario de Derecho, 4ª edición. Barcelona: BOSCH
+
+Sarcevic, S. (2000). New approach to legal translation. La Haya: Klumer Law International
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

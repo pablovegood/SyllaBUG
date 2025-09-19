@@ -2,7 +2,7 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (8):
 ------------------------------
 A. A. Sobrero, L’elegante ipotesi, in «Italiano e oltre», VII, 1992, fasc. 1, p. 18
 
@@ -15,6 +15,8 @@ cura di A. Colombo, Roma, Carocci, 2009
 G.   Salvi,  L.  Vanelli,  Grammatica  essenziale  di  riferimento  della  lingua  italiana,  Novara  -  Firenze,
 Istituto Geografico De Agostini - Le Monnier, 1992
 
+G. Salvi, L. Vanelli, Nuova grammatica italiana, Bologna, il Mulino, 2004
+
 L.   Serianni  con  la  collaborazione  di  A.  Castelvecchi,  Grammatica  italiana.  Italiano  comune  e  lingua
 letteraria. Suoni forme costrutti, Torino, UTET, 1988
 
@@ -23,20 +25,14 @@ glossario di Giuseppe Patota, Milano, Garzanti, 1997
 
 M. Dardano, P. Trifone, La nuova grammatica della lingua italiana, Bologna, Zanichelli, 1997
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (2):
 ------------------------------
-PATOTA, G. Grammatica di riferimento dell’italiano contemporaneo, Milano, Garzanti Linguistica, 2006
+G. Patota, Grammatica di riferimento dell’italiano contemporaneo, Milano, Garzanti Linguistica, 2006
 
 RENZI,   L.,   SALVI,   G.,   CARDINALETTI,   A.  (a  cura  di),  Grande  grammatica  italiana  di  consultazione
 (nuova edizione), Bologna, il Mulino, 2001, volumi 3
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-G.   Salvi,   L.   Vanelli,  Nuova  grammatica  italiana,  Bologna,  il  Mulino,  2004  →  RENZI,  L.,  SALVI,  G.,
-CARDINALETTI, A. (a cura di), Grande grammatica italiana di consultazione (nuova edizione), Bologna,
-il Mulino, 2001, volumi 3
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 ALBANO LEONI, F., MATURI, P. Manuale di fonetica, Roma, Carocci, 2018
 
@@ -49,6 +45,9 @@ LA FAUCI, N., Compendio di sintassi italiana, Bologna, il Mulino, 2009
 
 MATRACKI, I. P., Linee di tendenza nella formazione delle parole nell’italiano contemporaneo, Studia
 Romanica et Anglica Zagrabiensia, 51, pp. 103-146, 2006
+
+RENZI,   L.,   SALVI,   G.,   CARDINALETTI,   A.  (a  cura  di),  Grande  grammatica  italiana  di  consultazione
+(nuova edizione), Bologna, il Mulino, 2001, volumi 3
 
 THORNTON, A. M., Morfologia, Roma, Carocci, 2005
 

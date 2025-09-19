@@ -2,11 +2,27 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
+AA.VV. 2007,Ensayos sobre Políticas Públicas. Ed. Universidad Externado de Colombia, Bogotá Aguilar,
+L. (Ed.). 1996,El estudio de las Políticas Públicas. Miguel Ángel Porrúa. Grupo Editorial, México
 
-📚 Recursos sin cambios:
+Dye, T. R. 2002, Understanding Public Policy. Prentice Hall, New Jersey
+
+Mondragón Ruiz, J. 2006, Análisis de políticas públicas contra la pobreza y la exclusión
+
+Pérez   Sánchez,   M.   (Ed.)   2006,   El   Análisis   de   las  Políticas  Públicas.  Universidad  de  Granada,
+Granada.   (MANUAL   RECOMENDADO)   Pérez   Sánchez,   M.,   Trinidad,   A.,  Ortega,  N.  y  Saravia,  P.  2015,
+Participación   y   Negociación   Quade,   E.,   1989,  Análisis  de  formación  de  decisiones  políticas.  Ed.
+Instituto de Estudios Fiscales, Madrid
+
+Pérez   Sánchez,   M.   1997,   Formación  y  empleo  en  España:  Análisis  y  evaluación  de  la  Pressman,  J.  y
+Wikdawsky, A. 1973, Implementation. Berkeley University Press, Berkeley
+
+en   la   Comunidad   Autónoma   del   País  Vasco  (1986-2003).  Instituto  Vasco  de  Administración  Pública,
+Oñati
+
+📚 Recursos sin cambios (52):
 ------------------------------
 AA.VV.   1991,   "Políticas   públicas   y  organización  administrativa",Documentación  Administrativa,  Nª
 224-225
@@ -17,17 +33,6 @@ Aguilar, L. 1996,La implementación de las Políticas. Miguel Ángel Porrúa. Gr
 
 Aguilar,   L.   1996,Problemas   Públicos   y   Agenda  de  Gobierno.  Miguel  Ángel  Porrúa.  Grupo  Editorial,
 México
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-AA.VV. 2007,Ensayos sobre Políticas Públicas. Ed. Universidad Externado de Colombia, Bogotá Aguilar,
-L.   (Ed.).  1996,El  estudio  de  las  Políticas  Públicas.  Miguel  Ángel  Porrúa.  Grupo  Editorial,  México  →
-Aguilar,   L.  (Ed.).  1996,El  estudio  de  las  Políticas  Públicas.  Miguel  Ángel  Porrúa.  Grupo  Editorial,
-México
-
-✅ Recursos añadidos:
-------------------------------
-AA.VV. 2007,Ensayos sobre Políticas Públicas. Ed. Universidad Externado de Colombia, Bogotá
 
 Alvira,   F.  1991,  Metodología  de  la  evaluación  de  programas.  Centro  de  Investigaciones  Sociológicas,
 Madrid
@@ -60,12 +65,7 @@ Dahl, R. 1961, Who Governs?. Yale University Press, New Haven
 
 Dunn, W. 2003, Public policy analysis an introduction. Ed Prentice-Hall, Englewood Cliffs London
 
-Dye, T. R. 2017, Understanding Public Policy. Prentice Hall, New Jersey
-
 Font, J. (coord..) 2001,Ciudadanos y decisiones públicas. Ariel, Barcelona
-
-Fontaine, G. (2015). El análisis de las políticas públicas. Conceptos, teorías y métodos. Anthropos,
-Barcelona
 
 Friedman, J. 1991, Planificación en el ámbito público. Ed. M.A.P. Madrid
 
@@ -83,8 +83,6 @@ Kingdon, J. W. 1995,Agendas, alternatives and public policies. Harper Collins, N
 Lahera, E. 2008, Introducción a las políticas públicas. Ed. Fondo de Cultura Ecocómica, México D.F
 
 Laufer, R. y Burlaud, A. 1989, Dirección Pública: Gestión y Legitimidad. INAP, Madrid
-
-Lewrick, M. Link, P. Leifer, L. 2020. The Design Thinking Toolbox. Wiley, New Jersey
 
 Lindblom, C. 1991, El proceso de elaboración de políticas públicas. MAP, Madrid
 
@@ -108,9 +106,6 @@ Meny, Y. y Thoening, J.C. 1992, Las políticas públicas. Ariel, Barcelona
 Minogue,   M.  1983,  “Theory  and  Practice  in  Public  Policy  and  Administration”,  enPolicy  and  Politics,
 nº 11
 
-Mondragón   Ruiz,   J.   2006,   Análisis   de   políticas  públicas  contra  la  pobreza  y  la  exclusión  en  la
-Comunidad Autónoma del País Vasco (1986-2003). Instituto Vasco de Administración Pública, Oñati
-
 Monnier,   E.   1995,  Evaluación  de  la  acción  de  los  poderes  públicos.  Instituto  de  Estudios  Fiscales,
 Madrid
 
@@ -121,26 +116,10 @@ Lindberg et alt. (eds.),Stress and contradictions in modern capitalism. Lexingto
 
 Parsons, W. 2007, Políticas Públicas. Flacso. México
 
-Pressman, J. y Wikdawsky, A. 1973, Implementation. Berkeley University Press, Berkeley
-
-Pérez   Sánchez,   M.   (Ed.)   2006,   El   Análisis   de   las  Políticas  Públicas.  Universidad  de  Granada,
-Granada. (MANUAL RECOMENDADO)
-
-Pérez   Sánchez,   M.   1997,   Formación   y   empleo   en  España:  Análisis  y  evaluación  de  la  política  de
-formación ocupacional. Universidad de Granada, Granada
-
 Pérez Sánchez, M. 1999, "El análisis de las políticas públicas". Cuadernos de Trabajo de la Facultad
 de CC.PP. y Sociología, Universidad de Granada
 
-Pérez   Sánchez,   M.,   Trinidad,   A.,   Ortega,   N.  y  Saravia,  P.  2015,  Participación  y  Negociación  en
-Procesos Evaluativos. Ed. Universidad de Granada
-
-Quade,   E.,  1989,  Análisis  de  formación  de  decisiones  políticas.  Ed.  Instituto  de  Estudios  Fiscales,
-Madrid
-
 Rose, R. 1998, El Gran Gobierno. Un acercamiento desde los programas gubernamentales. FCE, México
-
-Sabatier, P. A. (Ed.). 2018. Theories of the Policy Process, Westview Press, New York
 
 Smith,   G.   y   May,  D.  1980,  “The  artificial  debate  between  rationalist  and  incrementalist  models  of
 decision making”, Policy and Politics, nº 8 (2)
@@ -171,16 +150,8 @@ Madrid
 Uzun,   A   &   Furat,  B.  2022,  "Public  Policy:  Concepts  and  Theory"  en  B.  Parlk  (Ed.):  The  Handbook  of
 Public Administration. Vol 1. Cap. VII. Publisher: Livre de Lyon. France. Pp.103-121
 
-Van   Buuren,   A.,  Lewis  J.  M.  &  Peters  G.  (Ed.)  2023.  Policy-Making  as  Designing.  The  Added  Value  of
-Design Thinking for Public Administration and Public Policy. Bristol University Press, Bristol
-
 Vedung,   E.   1997,   Evaluación   de   Políticas   Públicas  y  Programas.  Ministerio  de  Trabajo  y  Asuntos
 Sociales, Madrid
-
-Weible, C. M. & Workman, S. (Ed). 2022. Methods of the Policy Process. Routledge, New York
-
-Weible,   C.   M.,   Sabatier   P.   A.   &   McQuee,   K.  2009.  “Themes  and  Variations:  Taking  Stock  of  the
-Advocacy Coalition Framework”, Policy Studies Journal, Vol. 37, No 1, pp. 121-140
 
 Weiss,   C.   H.   1998,   Evaluation.   Methods  for  Studying  Programs  and  Policies.  Prentice  Hall,  Upper
 Saddle River (NY)
@@ -188,4 +159,48 @@ Saddle River (NY)
 Wildavsky,   A.   1979,   Speaking   Truth   to  Power.The  Art  and  Craft  of  Policy  Analysis.  Little  Brown,
 Boston.1
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (16):
+------------------------------
+AA.VV. 2007,Ensayos sobre Políticas Públicas. Ed. Universidad Externado de Colombia, Bogotá
+
+Aguilar,   L.  (Ed.).  1996,El  estudio  de  las  Políticas  Públicas.  Miguel  Ángel  Porrúa.  Grupo  Editorial,
+México
+
+Dye, T. R. 2017, Understanding Public Policy. Prentice Hall, New Jersey
+
+Fontaine, G. (2015). El análisis de las políticas públicas. Conceptos, teorías y métodos. Anthropos,
+Barcelona
+
+Lewrick, M. Link, P. Leifer, L. 2020. The Design Thinking Toolbox. Wiley, New Jersey
+
+Mondragón   Ruiz,   J.   2006,   Análisis   de   políticas  públicas  contra  la  pobreza  y  la  exclusión  en  la
+Comunidad Autónoma del País Vasco (1986-2003). Instituto Vasco de Administración Pública, Oñati
+
+Mondragón   Ruiz,   J.   2006,   Análisis   de   políticas  públicas  contra  la  pobreza  y  la  exclusión  en  la
+Comunidad Autónoma del País Vasco (1986-2003). Instituto Vasco de Administración Pública, Oñati
+
+Pressman, J. y Wikdawsky, A. 1973, Implementation. Berkeley University Press, Berkeley
+
+Pérez   Sánchez,   M.   (Ed.)   2006,   El   Análisis   de   las  Políticas  Públicas.  Universidad  de  Granada,
+Granada. (MANUAL RECOMENDADO)
+
+Pérez   Sánchez,   M.   1997,   Formación   y   empleo   en  España:  Análisis  y  evaluación  de  la  política  de
+formación ocupacional. Universidad de Granada, Granada
+
+Pérez   Sánchez,   M.,   Trinidad,   A.,   Ortega,   N.  y  Saravia,  P.  2015,  Participación  y  Negociación  en
+Procesos Evaluativos. Ed. Universidad de Granada
+
+Quade,   E.,  1989,  Análisis  de  formación  de  decisiones  políticas.  Ed.  Instituto  de  Estudios  Fiscales,
+Madrid
+
+Sabatier, P. A. (Ed.). 2018. Theories of the Policy Process, Westview Press, New York
+
+Van   Buuren,   A.,  Lewis  J.  M.  &  Peters  G.  (Ed.)  2023.  Policy-Making  as  Designing.  The  Added  Value  of
+Design Thinking for Public Administration and Public Policy. Bristol University Press, Bristol
+
+Weible, C. M. & Workman, S. (Ed). 2022. Methods of the Policy Process. Routledge, New York
+
+Weible,   C.   M.,   Sabatier   P.   A.   &   McQuee,   K.  2009.  “Themes  and  Variations:  Taking  Stock  of  the
+Advocacy Coalition Framework”, Policy Studies Journal, Vol. 37, No 1, pp. 121-140
+
+📊 Porcentaje estimado de cambio: 32% [███░░░░░░░]

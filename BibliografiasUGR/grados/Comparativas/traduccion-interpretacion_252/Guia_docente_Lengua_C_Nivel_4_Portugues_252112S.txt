@@ -2,11 +2,13 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+DIAS,   Ana   Cristina   (2019).  Entre  Nós  2.  Método  de  Português  para  Hispanofalantes,  Livro  do  aluno,
+Lisboa – Porto, Lidel Edições KUZKA, Robert / PASCOAL, J. (2016). Passaporte para Português 2. Livro
+do aluno. Lisboa: Lidel Edições
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 AAVV (2011). Dicionário Espanhol-Português. Porto: Porto Editora
 
@@ -46,20 +48,16 @@ Edições
 SARDINHA,   Leonor   /   OLIVEIRA,   Luísa   (2010).   Gramática  formativa  de  português.  Lisboa:  Didáctica
 Editora
 
+SILVA, Marta. Português atual 1. Lisboa: Lidel Edições
+
 TAVARES, Ana, Português XXI. 2, (2004), Livro do aluno 1. Lisboa: Lidel Edições
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 DIAS,   Ana   Cristina   (2019).  Entre  Nós  2.  Método  de  Português  para  Hispanofalantes,  Livro  do  aluno,
-Lisboa – Porto, Lidel Edições KUZKA, Robert / PASCOAL, J. (2016). Passaporte para Português 2. Livro
-do   aluno.   Lisboa:  Lidel  Edições  →  DIAS,  Ana  Cristina  (2019).  Entre  Nós  2.  Método  de  Português  para
-Hispanofalantes, Livro do aluno, Lisboa – Porto, Lidel Edições
+Lisboa – Porto, Lidel Edições
 
-✅ Recursos añadidos:
-------------------------------
 KUZKA,   Robert   /   PASCOAL,   J.   (2016).   Passaporte  para  Português  2.  Livro  do  aluno.  Lisboa:  Lidel
 Edições
 
-SILVA, Marta. Português atual 1. Lisboa: Lidel Edições
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

@@ -2,12 +2,12 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 Ocón Domingo, J. (2002). "Reflexiones en torno a la adopción por parejas homosexuales". Cuadernos de
 Trabajo Social, Vol. 15, 93-108
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 Acker, S. (1995). Género y Educación. Narcea
 
@@ -47,9 +47,11 @@ Marqués, J. V. y Osborne, R. (1991). Sexualidad y Sexismo. Fundación Universid
 
 Meil, G. (2003). Las uniones de hecho en España. CIS
 
-Miguel, A. de (1997). Manual del perfecto sociólogo. Espasa
+Miguel, Amando de (1997). Manual del perfecto sociólogo. Espasa
 
 Prior, J. (2001). La sociedad española. Comares
+
+Pérez Serrano, G. (1993). Elaboración de proyectos sociales. Casos prácticos. Narcea
 
 Requena Santos, F., y Ayuso Sánchez, L. (Eds. y coords.) (2018). Estrategias de investigación en las
 ciencias   sociales:   Fundamentos  para  para  la  elaboración  de  un  trabajo  de  fin  de  Grado  o  un  trabajo
@@ -65,11 +67,7 @@ Sierra Bravo, R. (2001). Técnicas de investigación social (14ª ed.). Teoría 
 Valles,   M.S.   (1997).   Técnicas   cualitativas   de   investigación   social.   Reflexión  metodológica  y
 práctica profesional. Síntesis
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (12):
 ------------------------------
 Corbin,   J.   y   Strauss,   A.   (2014).   Basics  of  Qualitative  Research:  Techniques  and  Procedures  for
 Developing Grounded Theory. SAGE Publications
@@ -99,12 +97,10 @@ Sociológicas: Siglo Veintiuno de España Editores
 Mingo, E. G., Rodríguez, I. S., Mingo, E. G., et al. (2023). Análisis de la realidad social digital.
 Teknokultura: Revista de Cultura Digital y Movimientos Sociales 20(2):159–164
 
-Pérez Serrano, G. (1993). Elaboración de proyectos sociales. Casos prácticos. Narcea
-
 Willemsen,   R.   F.,   Aardoom,  J.  J.,  Chavannes,  N.  H.,  et  al.  (2023).  Online  synchronous  focus  group
 interviews: Practical considerations. Qualitative Research 23(6). SAGE Publications: 1810–1820
 
 Wolcott,   H.   F.   (1994).   Transforming  Qualitative  Data:  Description,  Analysis,  and  Interpretation.
 SAGE
 
-📊 Porcentaje estimado de cambio: 58% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

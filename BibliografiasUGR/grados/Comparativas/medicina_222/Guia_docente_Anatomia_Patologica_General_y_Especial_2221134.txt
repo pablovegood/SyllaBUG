@@ -2,35 +2,36 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Robbins y Cotran. PATOLOGÍA ESTRUCTURAL Y FUNCIONAL Décima edición, 2021. Elsevier
-
 Séptima   edición.  LWW,  2016  Rosai  and  Ackerman's  Surgical  Pathology  Undécima  edición.  Elsevier,  2017
 Artículos de revista especializadas facilitadas por los profesores
 
-🔁 Misma obra con edición/año distinto:
+📚 Recursos sin cambios (4):
 ------------------------------
-Robbins. PATOLOGÍA HUMANA Undécima edición, 2023. Elsevier  →  Undécima edición. Elsevier, 2017
-
-✅ Recursos añadidos:
-------------------------------
-Décima edición, 2021. Elsevier
-
 KUMAR, ABBAS, ASTER
+
+Robbins   y   Cotran.   PATOLOGÍA  ESTRUCTURAL  Y  FUNCIONAL  Décima  edición,  2021.  Elsevier.  KUMAR,  ABBAS,
+ASTER
+
+Robbins. PATOLOGÍA HUMANA Undécima edición, 2023. Elsevier
+
+Rubin y Strayer. Patología. Fundamentos clínicopatológicos en Medicina
+
+✅ Recursos añadidos (7):
+------------------------------
+Artículos de revista especializadas facilitadas por los profesores
+
+Décima edición, 2021. Elsevier
 
 Robbins. PATOLOGÍA HUMANA
 
 Rosai and Ackerman's Surgical Pathology
 
-Rubin y Strayer. Patología. Fundamentos clínicopatológicos en Medicina
-
 Séptima edición. LWW, 2016
 
 Undécima edición, 2023. Elsevier
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Undécima edición. Elsevier, 2017
+
+📊 Porcentaje estimado de cambio: 80% [████████░░]

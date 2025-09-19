@@ -2,11 +2,18 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+MARTIN   SÁNCHEZ,   J.   (2023):  Cuando  la  singularidad  nos  alcance,  Ed.  Titanium  MINTZBERG,  H.;  QUINN,
+J.B.;    GHOSAL,   S.   (1999):   El   proceso   estratégico.   Edición   europea   revisada,   Prentice   Hall
+Iberoamericana
 
-📚 Recursos sin cambios:
+NAVAS   LÓPEZ,   E.   y   GUERRAS  MARTÍN,  L.A.  (2020):  Casos  de  Dirección  Estratégica  de  la  Empresa,  (4ª
+Edición). Ed. Cívitas, Madrid ARIAS ARANDA, D. (2023): La respuesta a todo. Ed. Titanium
+
+NAVAS LÓPEZ, E. y GUERRAS MARTÍN, L.A. (2022): La Dirección Estratégica de la Empresa
+
+📚 Recursos sin cambios (7):
 ------------------------------
 GRANT, R.M. (2002): Dirección estratégica. Conceptos, técnicas y aplicaciones, Ed. Cívitas, Madrid
 
@@ -26,26 +33,19 @@ PORTER, MICHAEL E. (1985): Estrategia Competitiva. CECSA, México
 
 PORTER, MICHAEL E. (1987): Ventaja Competitiva. CECSA, México
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MARTIN   SÁNCHEZ,   J.   (2023):  Cuando  la  singularidad  nos  alcance,  Ed.  Titanium  MINTZBERG,  H.;  QUINN,
-J.B.;    GHOSAL,   S.   (1999):   El   proceso   estratégico.   Edición   europea   revisada,   Prentice   Hall
-Iberoamericana  →  MARTIN SÁNCHEZ, J. (2023): Cuando la singularidad nos alcance, Ed. Titanium
-
-NAVAS   LÓPEZ,   E.   y   GUERRAS   MARTÍN,   L.A.   (2022):  La  Dirección  Estratégica  de  la  Empresa  →  NAVAS
-LÓPEZ, E. y GUERRAS MARTÍN, L.A. (2020): Casos de Dirección Estratégica de la Empresa, (4ª Edición).
-Ed. Cívitas, Madrid
-
-NAVAS   LÓPEZ,   E.   y   GUERRAS  MARTÍN,  L.A.  (2020):  Casos  de  Dirección  Estratégica  de  la  Empresa,  (4ª
-Edición).   Ed.   Cívitas,   Madrid   ARIAS  ARANDA,  D.  (2023):  La  respuesta  a  todo.  Ed.  Titanium  →  NAVAS
-LÓPEZ, E. y GUERRAS MARTÍN, L.A. (2020): Casos de Dirección Estratégica de la Empresa, (4ª Edición).
-Ed. Cívitas, Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 ARIAS ARANDA, D. (2023): La respuesta a todo. Ed. Titanium
+
+MARTIN SÁNCHEZ, J. (2023): Cuando la singularidad nos alcance, Ed. Titanium
 
 MINTZBERG,   H.;   QUINN,   J.B.;   GHOSAL,  S.  (1999):  El  proceso  estratégico.  Edición  europea  revisada,
 Prentice Hall Iberoamericana
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+NAVAS   LÓPEZ,   E.   y   GUERRAS  MARTÍN,  L.A.  (2020):  Casos  de  Dirección  Estratégica  de  la  Empresa,  (4ª
+Edición). Ed. Cívitas, Madrid
+
+NAVAS   LÓPEZ,   E.   y   GUERRAS  MARTÍN,  L.A.  (2020):  Casos  de  Dirección  Estratégica  de  la  Empresa,  (4ª
+Edición). Ed. Cívitas, Madrid
+
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

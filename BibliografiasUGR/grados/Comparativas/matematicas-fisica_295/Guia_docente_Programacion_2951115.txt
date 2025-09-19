@@ -2,23 +2,31 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Problemas   de   Programación   (4ª   edición).   Jose   Luis   Bernier   Villamor.  Editorial  Técnica  Avicam
+(Librería Fleming), 2023
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (2):
 ------------------------------
 Cuaderno   de   Programación  (5ª  edición).  Jose  Luis  Bernier  Villamor  y  Luis  Javier  Herrera  Maldonado.
 Editorial Técnica Avicam (Librería Fleming), 2024
 
+Fundamentos   de   la   Programación   con   la   STL.   Antonio  Garrido  Carrillo.  Editorial  Universidad  de
+Granada, 2016
+
+✅ Recursos añadidos (8):
+------------------------------
 Cálculo científico con MatLab y Octave. Alfio Qarteroni, Fausto Saleri. Springer Verlag, 2006
 
 Fortran 90/95 for Scientists and Engineers. Stephen Chapman. McGraw-Hill, 2003
 
-Fundamentos   de   la   Programación   con   la   STL.   Antonio  Garrido  Carrillo.  Editorial  Universidad  de
-Granada, 2016
-
 Introducción a la Informática (4a edición). A. Prieto, A. Lloris, J.C. Torres. McGraw-Hill, 2005
+
+Metodología de la Programación. Antonio Garrido Carrillo. Editorial Universidad de Granada, 2016
+
+Problemas   de   Programación   (5ª   edición).   Jose   Luis   Bernier   Villamor.  Editorial  Técnica  Avicam
+(Librería Fleming), 2025
 
 Problemas   resueltos  de  programación  en  lenguaje  C++.  J.D.  García  Sánchez,  J.M.  Pérez  Menor  y  otros.
 Thomson, 2004
@@ -28,14 +36,4 @@ Programación   en  C++  para  ingenieros  (2ª  edición).  Fatps  Xhafa,  P.  
 
 Programación en C++. Luis Joyanes Aguilar. McGraw- Hill Serie Schaum, 2006
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Problemas   de   Programación   (4ª   edición).   Jose   Luis   Bernier   Villamor.  Editorial  Técnica  Avicam
-(Librería   Fleming),   2023   →   Problemas   de   Programación  (5ª  edición).  Jose  Luis  Bernier  Villamor.
-Editorial Técnica Avicam (Librería Fleming), 2025
-
-✅ Recursos añadidos:
-------------------------------
-Metodología de la Programación. Antonio Garrido Carrillo. Editorial Universidad de Granada, 2016
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 90% [█████████░]

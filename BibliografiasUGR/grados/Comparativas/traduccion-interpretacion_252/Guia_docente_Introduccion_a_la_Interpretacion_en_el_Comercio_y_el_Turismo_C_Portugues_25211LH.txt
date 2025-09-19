@@ -2,11 +2,12 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Alicante:   Universidad   de   Alicante.  https://www.ebuc.com/portades/9788497170840_L33_23.pdf  Jiménez
+Ivars, M. A. (2000). La traducción a la vista. Un análisis descriptivo. Tesis doctoral
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 Alonso   Araguás,   Icíar   (2005)   «Las   técnicas   de   oratoria   y   comunicación   oral   en   el  aula  de
 interpretación   consecutiva.   Propuesta   de   un  módulo  introductorio»,  en  Romana  García,  María  Luisa
@@ -33,8 +34,11 @@ Glenk,   E.   –   Fórmulas   de   rotina:   uma   porta  de  entrada  para  p
 Germanicum,                   Nov.                  2007,                  pp.                  189-214.
 https://dlm.fflch.usp.br/sites/dlm.fflch.usp.br/files/13_EvaGlenk.pdf
 
-Iglesias Fernández, E. (2007). La didáctica de la interpretación de conferencias: Teoría y Práctica.
-Granada: Comares
+Iliescu   Gheorghiu,  C.  (2004).  Introducción  a  la  Interpretación.  La  modalidad  consecutiva.  Alicante:
+Universidad de Alicante. https://www.e-buc.com/portades/9788497170840_L33_23.pdf
+
+Jiménez   Ivars,   M.   A.   (2000).   La  traducción  a  la  vista.  Un  análisis  descriptivo.  Tesis  doctoral.
+Castelló de la Plana: Publicacions de la Universitat Jaume I
 
 Jiménez   Ivars,   M.  A.  (2008).  “Sight  Translation  and  written  translation.  A  comparative  Analysis  of
 causes   of   problems,   Strategies   and   Translation   Errors   within  the  PACTE  Translation  Competence
@@ -49,6 +53,9 @@ Editorial Atrio, pp. 53-65
 
 Montez,   M.   S.   (2010)  “Método  de  tomada  de  notas  em  três  colunas  para  interpretação  de  conferência
 consecutiva”. Babilónia: Revista Lusófona de Línguas, Culturas e Tradução, nº 8/09, pp. 163-172
+
+Oramas   Torres,  Elisaliz  (2020)  Herramientas  metodológicas  para  desarrollar  la  competencia  léxica  de
+los estudiantes de interpretación. ISLAS, 62 (195): 122-131
 
 Romão,   Tito   L.   C.   (2014)   “A  tomada  de  notas  em  interpretação  consecutiva:  algumas  considerações
 históricas”, TradTerm, São Paulo, v. 24, Dezembro/2014, pp. 281-300
@@ -70,25 +77,13 @@ propuestas didácticas”. Entreculturas, Número 5, pp. 75-91
 Vázquez   y   del  Árbol,  E.  (2005).  Estrategias  docentes  para  la  interpretación  consecutiva,  Sendebar,
 16
 
-🔁 Misma obra con edición/año distinto:
+https://dlm.fflch.usp.br/sites/dlm.fflch.usp.br/files/13_EvaGlenk.pdf Iglesias Fernández, E. (2007).
+La didáctica de la interpretación de conferencias: Teoría y Práctica. Granada: Comares
+
+n.º 2, pp. 519-532. <http://www.aieti.eu/pubs/actas/III/AIETI_3_MTI_Desarrollo.pdf>
+
+✅ Recursos añadidos (2):
 ------------------------------
-Iliescu    Gheorghiu,   C.   (2004).   Introducción   a   la   Interpretación.   La   modalidad   consecutiva.
-buc.com/portades/9788497170840_L33_23.pdf   Jiménez  Ivars,  M.  A.  (2000).  La  traducción  a  la  vista.  Un
-análisis   descriptivo.   Tesis  doctoral.  Castelló  de  la  Plana:  Publicacions  de  la  Universitat  Jaume  I
-→   Jiménez   Ivars,   M.  A.  (2000).  La  traducción  a  la  vista.  Un  análisis  descriptivo.  Tesis  doctoral.
-Castelló de la Plana: Publicacions de la Universitat Jaume I
-
-✅ Recursos añadidos:
-------------------------------
-Alonso   Araguás,   Icíar   (2005)   «Las   técnicas   de   oratoria   y   comunicación   oral   en   el  aula  de
-interpretación consecutiva. Propuesta de un módulo introductorio», en
-
-Iliescu   Gheorghiu,  C.  (2004).  Introducción  a  la  Interpretación.  La  modalidad  consecutiva.  Alicante:
-Universidad de Alicante. https://www.e-buc.com/portades/9788497170840_L33_23.pdf
-
-Oramas   Torres,  Elisaliz  (2020)  Herramientas  metodológicas  para  desarrollar  la  competencia  léxica  de
-los estudiantes de interpretación. ISLAS, 62 (195): 122-131
-
 Quero   Gervilla,   Enrique   Federico   /   Díaz   Ferrero,   Ana   María   /  Porlán  Moreno,  Rafael,  (2024).
 Pedagogical   Interpretation   for   the   Development   of   the  Phraseological  Component  of  the  Spanish-
 Speaking   Learner   of   the   Russian   Language   (Interpretación   Pedagógica   Para   El   Desarrollo  Del
@@ -96,6 +91,7 @@ Componente   Fraseológico   Del   Estudiante   De   Lengua  Rusa),  Journal  of
 Humanities     &     Social     Sciences,     17(1):    209–223.    Disponible    en:    http://journal.sfu-
 kras.ru/en/article/152494
 
-n.º 2, pp. 519-532. <http://www.aieti.eu/pubs/actas/III/AIETI_3_MTI_Desarrollo.pdf>
+Romana   García,   María   Luisa   [ed.]   II  AIETI.  Actas  del  II  Congreso  Internacional  de  la  Asociación
+Ibérica de Estudios de Traducción e Interpretación. Madrid: AIETI, pp. 1106-1123
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

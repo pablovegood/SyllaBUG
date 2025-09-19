@@ -2,17 +2,35 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Adrián,    J.A.   y   Rodríguez-Parra,   M.J.   (2015).   Evaluación   del   tratamiento   logopédico   en   la
+rehabilitación   de   la  disfonía  en  adultos:  seguimiento  de  los  efectos  grupales  y  de  las  variaciones
+individuales. Revista de Logopedia, Foniatría y Audiología, 35, 17-29
 
-📚 Recursos sin cambios:
+Casado,   J.C.   y   Adrián,   J.A.   (2002)   La   evaluación   clínica   de   la   voz.  Fundamentos  médicos  y
+logopédicos. Málaga: Aljibe Corr, Ph.J. (2008): Psicología Biológica. McGraw-Hill. Méjico
+
+DOI:10.1016/j.rlfa.2014.01.002   Buiza,   JJ,   Rodríguez-Parra,   M.J.  y  Adrián,  J.A.  (2016).  Trastorno
+específico   del   lenguaje:   subtipos   de   una   patología  compleja.  Revista  de  Logopedia,  Foniatría  y
+Audiología, 36, 36-52
+
+http://dx.doi.org/10.1016/j.ridd.2016.08.008   Fernández,   M.,   y  Morales,  S.  (2019).  "Patologías  del
+lenguaje   y   su   intervención   logopédica".  En  Intervención  Logopédica  en  Trastornos  del  Habla  y  del
+Lenguaje (pp. 123-150). Editorial Síntesis
+
+📚 Recursos sin cambios (20):
 ------------------------------
 Asociación Psiquiátrica Americana. (2014). DSM-5. Manual diagnóstico y estadístico de los trastornos
 mentales (5ª Ed.). Madrid: Panamericana
 
 Bear,   M.   F.,   Connors,   B.   W.   y  Paradiso,  M.  A  (2008):  Neurociencia.  La  exploración  del  cerebro.
 Williams and Wilkins. Baltimore
+
+Buiza,   JJ,   Rodríguez-Parra,  M.J.,  González,  M.  y  Adrián,  JA.  (2016).  Specific  Language  Impairment:
+Evaluation   and   detection  of  differential  psycholinguistic  markers  in  phonology  and  morphosyntax  in
+Spanish-speaking      children.      Research     in     Developmental     Disabilities,     58,     65-82.
+http://dx.doi.org/10.1016/j.ridd.2016.08.008
 
 Busto, M.C (2014). Manual de logopedia escolar. Madrid. Cepe
 
@@ -21,36 +39,9 @@ Aires
 
 Carlson, N. R. (2006): Fisiología de la conducta. (8.a edic.), Pearson, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Adrián,    J.A.   y   Rodríguez-Parra,   M.J.   (2015).   Evaluación   del   tratamiento   logopédico   en   la
-rehabilitación   de   la  disfonía  en  adultos:  seguimiento  de  los  efectos  grupales  y  de  las  variaciones
-individuales.      Revista      de      Logopedia,      Foniatría      y      Audiología,     35,     17-29.
-DOI:10.1016/j.rlfa.2014.01.002
-
-Buiza,   JJ,  Rodríguez-Parra,  M.J.  y  Adrián,  J.A.  (2016).  Trastorno  específico  del  lenguaje:  subtipos
-de una patología compleja. Revista de Logopedia, Foniatría y Audiología, 36, 36-52
-
-Buiza,   JJ,   Rodríguez-Parra,  M.J.,  González,  M.  y  Adrián,  JA.  (2016).  Specific  Language  Impairment:
-Evaluation   and   detection  of  differential  psycholinguistic  markers  in  phonology  and  morphosyntax  in
-Spanish-speaking      children.      Research     in     Developmental     Disabilities,     58,     65-82.
-http://dx.doi.org/10.1016/j.ridd.2016.08.008
-
-Casado,   J.C.   y   Adrián,   J.A.   (2002)   La   evaluación   clínica   de   la   voz.  Fundamentos  médicos  y
-logopédicos. Málaga: Aljibe
-
-Corr, Ph.J. (2008): Psicología Biológica. McGraw-Hill. Méjico
-
 Cuetos, F., González y De Vega. (2015). Psicología del lenguaje. Madrid. Panamericana
 
 De La Fuente et al. (2016) Una introducción a la psicología del lenguaje para logopedas. ArteCittá
-
-Fernández,   M.,   y   Morales,   S.   (2019).  "Patologías  del  lenguaje  y  su  intervención  logopédica".  En
-Intervención Logopédica en Trastornos del Habla y del Lenguaje (pp. 123-150). Editorial Síntesis
 
 González,   A.  L.,  y  Contreras,  M.  (2020).  Fundamentos  de  logopedia:  Anatomía,  fisiología  y  patología
 del lenguaje. Editorial Alianza
@@ -85,4 +76,22 @@ Síntesis
 Vallés-Arándiga,   A.   (2014).   Prueba  de  articulación  de  fonemas.  Evaluación  de  la  dislalia.  Madrid:
 CEPE
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (5):
+------------------------------
+Adrián,    J.A.   y   Rodríguez-Parra,   M.J.   (2015).   Evaluación   del   tratamiento   logopédico   en   la
+rehabilitación   de   la  disfonía  en  adultos:  seguimiento  de  los  efectos  grupales  y  de  las  variaciones
+individuales.      Revista      de      Logopedia,      Foniatría      y      Audiología,     35,     17-29.
+DOI:10.1016/j.rlfa.2014.01.002
+
+Buiza,   JJ,  Rodríguez-Parra,  M.J.  y  Adrián,  J.A.  (2016).  Trastorno  específico  del  lenguaje:  subtipos
+de una patología compleja. Revista de Logopedia, Foniatría y Audiología, 36, 36-52
+
+Casado,   J.C.   y   Adrián,   J.A.   (2002)   La   evaluación   clínica   de   la   voz.  Fundamentos  médicos  y
+logopédicos. Málaga: Aljibe
+
+Corr, Ph.J. (2008): Psicología Biológica. McGraw-Hill. Méjico
+
+Fernández,   M.,   y   Morales,   S.   (2019).  "Patologías  del  lenguaje  y  su  intervención  logopédica".  En
+Intervención Logopédica en Trastornos del Habla y del Lenguaje (pp. 123-150). Editorial Síntesis
+
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

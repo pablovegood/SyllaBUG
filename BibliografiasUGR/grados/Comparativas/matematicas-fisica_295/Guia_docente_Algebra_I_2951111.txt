@@ -2,29 +2,24 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-P. M. Cohn, Classic Algebra, Wiley and sons 2000 J. Gómez Torrecillas, Álgebra I, 2º Ed. Universidad
-de Granada, 2020  →  P. M. Cohn, Classic Algebra, Wiley and sons 2000
-
-N.   Jacobson,   Basic  Algebra  I,  Freeman  1974  D.  S.  Dummit  and  R.  M.  Foote,  Abstract  Algebra  2nd  ed.,
+P.   M.   Cohn,   Classic   Algebra,   Wiley   and   sons  2000  https://digibug.ugr.es/handle/10481/59620  N.
+Jacobson,   Basic   Algebra   I,   Freeman   1974  D.  S.  Dummit  and  R.  M.  Foote,  Abstract  Algebra  2nd  ed.,
 Prentice-Hall 1999 R. B. Allenby, Rings, Fields and Groups, Edward Arnold Pub. 1993 J. A. Beachy and
 N.   D.   Blair,   Abstract  algebra  segunda  edición,  Waveland  Press,  Inc.  1996  J.  B.  Fraileigh,  A  first
 course in Abstract Algebra, Addison-Wesley 1967 S. Lang, Algebra, Aguilar 1971 • A. del Río Mateos y
-J.J.   Simón   Pinero,   Álgebra   Básica,   Ed   →  J.  A.  Beachy  and  N.  D.  Blair,  Abstract  algebra  segunda
-edición, Waveland Press, Inc. 1996
+J.J. Simón Pinero, Álgebra Básica, Ed. Diego Marín 2001
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (8):
 ------------------------------
 D. S. Dummit and R. M. Foote, Abstract Algebra 2nd ed., Prentice-Hall 1999
+
+J. A. Beachy and N. D. Blair, Abstract algebra segunda edición, Waveland Press, Inc. 1996
 
 J. B. Fraileigh, A first course in Abstract Algebra, Addison-Wesley 1967
 
@@ -32,6 +27,8 @@ J.      Gómez     Torrecillas,     Álgebra     I,     2º     Ed.     Universi
 https://digibug.ugr.es/handle/10481/59620
 
 N. Jacobson, Basic Algebra I, Freeman 1974
+
+P. M. Cohn, Classic Algebra, Wiley and sons 2000
 
 R. B. Allenby, Rings, Fields and Groups, Edward Arnold Pub. 1993
 

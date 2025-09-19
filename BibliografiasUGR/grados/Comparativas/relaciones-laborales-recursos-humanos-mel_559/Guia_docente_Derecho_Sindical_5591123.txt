@@ -2,31 +2,26 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-MANUAL   DE  DERECHO  DEL  TRABAJO,  Monereo  Pérez,  Molina  Navarrete,  Moreno  Vida,  Vila  Tierno.  Editorial
-Comares,   Granada,   última   edición.   MANUAL   DE  DERECHO  SINDICAL,  Monereo  Pérez,  Molina  Navarrete  y
-Moreno   Vida.   Editorial   Comares,   Granada,   última   edición.   Ojeda   Avilés:   Compendio  de  Derecho
-Sindical, Tecnos, Madrid, última edición. Palomeque López: Derecho Sindical, 5ª ed., Tecnos, Madrid,
-última edición. Sala Franco: Derecho Sindical, Tirant lo Blanch, Valencia, última edición
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (5):
 ------------------------------
 MANUAL   DE  DERECHO  DEL  TRABAJO,  Monereo  Pérez,  Molina  Navarrete,  Moreno  Vida,  Vila  Tierno.  Editorial
 Comares, Granada, última edición
 
+MANUAL   DE   DERECHO   SINDICAL,   Monereo   Pérez,   Molina   Navarrete  y  Moreno  Vida.  Editorial  Comares,
+Granada, última edición
+
 Ojeda Avilés: Compendio de Derecho Sindical, Tecnos, Madrid, última edición
 
-Palomeque López: Derecho Sindical, Tecnos, Madrid, última edición
+Palomeque López: Derecho Sindical, 5ª ed., Tecnos, Madrid, última edición
 
 Sala Franco: Derecho Sindical, Tirant lo Blanch, Valencia, última edición
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

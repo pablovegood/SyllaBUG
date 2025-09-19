@@ -2,24 +2,25 @@
 Grado: educacion-infantil-ceuta (458)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Arco,   J.  L.,  y  Fernández,  A.  (2004).  Necesidades  Educativas  Especiales.  Manual  de  un  25  y  un  50%  de
-la   nota   final.   alumna   en   las   consultas,   exposiciones   y  debates  llevados  a  cabo  en  el  grupo  y
-asistencia a clase, seminarios y sesiones de grupo. Comprenderá entre un 5 y un 10% de la nota final
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Aranda, R. E. (1996). Estimulación de aprendizajes en la etapa infantil. Escuela Española
 
 Burgos,   A.,   Fernández,   M.,   Alba,  G.,  y  Justicia-Arráez,  A.  (2017)  (2º  Edición).  Optimización  del
 desarrollo y prevención de riesgos en el aula de Educación Infantil. Manual. Pirámide
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Fernández,   M.,   Burgos,   A.,   Alba,  G.,  y  Justicia-Arráez,  A.  (2014).  Optimización  del  desarrollo  y
+prevención de riesgos en el aula de Educación Infantil. Seminarios. Pirámide
 
-✅ Recursos añadidos:
+Pichardo,   M.   C.  (2004).Dificultades  ligadas  a  la  hiperactividad  y  al  déficit  de  atención.  En  J.  L.
+Arco   y   A.   Fernández.   Necesidades   Educativas   Especiales.   Manual   de   evaluación  e  intervención
+psicológica, pp. 161- 192. McGraw Hill
+
+✅ Recursos añadidos (27):
 ------------------------------
 Arco,   J.   L.,   y   Fernández,   A.   (2004).  Necesidades  Educativas  Especiales.  Manual  de  evaluación  e
 intervención psicológica. McGraw Hill
@@ -48,9 +49,6 @@ seguridad y la salud. Consejería de Empleo. Junta de Andalucía
 
 Elexpuru, I. y Garma, A.M. (1999). El autoconcepto en el aula. Recursos para el profesorado. Edebé
 
-Fernández,   M.,   Burgos,   A.,   Alba,  G.,  y  Justicia-Arráez,  A.  (2014).  Optimización  del  desarrollo  y
-prevención de riesgos en el aula de Educación Infantil. Seminarios. Pirámide
-
 Gavino,   A.   y   Berrocal,   C.   (1999).  Problemas  de  alimentación  en  el  niño:  manual  práctico  para  su
 prevención y tratamiento. Ediciones Pirámide
 
@@ -74,10 +72,6 @@ Miranda,   A.,   Soriano,  M.  y  Roselló,  M.  B.  (1998).  Estudiantes  con  
 Promolibro
 
 Moreno, J. A. (2000). Motricidad infantil. Aprendizaje y desarrollo a través del juego. DM
-
-Pichardo,   M.   C.  (2004).Dificultades  ligadas  a  la  hiperactividad  y  al  déficit  de  atención.  En  J.  L.
-Arco   y   A.   Fernández.   Necesidades   Educativas   Especiales.   Manual   de   evaluación  e  intervención
-psicológica, pp. 161- 192. McGraw Hill
 
 Pichardo,   M.   C.   y  Amezcua,  J.  A.  (2007).  Mejora  de  las  habilidades  afectivas.  En  E.  Fernández,  F.
 Justicia   y   M.   C.   Pichardo,   Enciclopedia  de  Psicología  evolutiva  y  de  la  Educación,  pp.  267-294.
@@ -105,4 +99,4 @@ Pirámide
 
 Watt, F. (2002). ¡Fuera pañales!.Usborne
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 87% [████████░░]

@@ -2,11 +2,13 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+y   el   Estrecho   de  Gibraltar:  Estado  actual  de  conocimiento  del  registro  arqueológico,  Burgos,  2014
+SALA RAMOS, R. y MARTÍNEZ NAVARRO, B. (eds.): Orce: homininos, hienas, mamuts y otras bestias, Junta
+de Andalucía, Sevilla, 2016
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 AGUSTÍ,   J.,  OMS,  O.,  BARSKY,  D.  y  JIMÉNEZ  ARENAS,  J.M.  Orce:  el  Olduvai  europeo.  Barcelona,  Salvat,
 2024
@@ -43,21 +45,15 @@ Cultura, Junta de Andalucía, Sevilla
 ROJO   GUERRA,   M.Á.,   GARRIDO  PENA,  R.  y  GARCÍA  MARTÍNEZ  DE  LAGRÁN,  Í.  (Coords.):  El  Neolítico  en  la
 Península Ibérica y su contexto europeo, Cátedra, Madrid, 2012
 
+SALA   RAMOS,   R.   (ed.):   Los   cazadores   recolectores  del  Pleistoceno  y  del  holoceno  en  Iberia  y  el
+Estrecho de Gibraltar: Estado actual de conocimiento del registro arqueológico, Burgos, 2014
+
 ÁLVAREZ,   E.,  BLANCO,  A.,  RIVERO,  O.:  Prehistoria  de  la  Península  Ibérica,  Universidad  de  Salamanca,
 Salamanca, 2020
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-SALA   RAMOS,   R.   (ed.):   Los   cazadores   recolectores  del  Pleistoceno  y  del  holoceno  en  Iberia  y  el
-Estrecho   de   Gibraltar:   Estado  actual  de  conocimiento  del  registro  arqueológico,  Burgos,  2014  SALA
-RAMOS,   R.   y  MARTÍNEZ  NAVARRO,  B.  (eds.):  Orce:  homininos,  hienas,  mamuts  y  otras  bestias,  Junta  de
-Andalucía,   Sevilla,   2016   →  SALA  RAMOS,  R.  (ed.):  Los  cazadores  recolectores  del  Pleistoceno  y  del
-holoceno   en   Iberia   y   el   Estrecho   de   Gibraltar:   Estado   actual   de   conocimiento  del  registro
-arqueológico, Burgos, 2014
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 SALA RAMOS, R. y MARTÍNEZ NAVARRO, B. (eds.): Orce: homininos, hienas, mamuts y otras bestias, Junta
 de Andalucía, Sevilla, 2016
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

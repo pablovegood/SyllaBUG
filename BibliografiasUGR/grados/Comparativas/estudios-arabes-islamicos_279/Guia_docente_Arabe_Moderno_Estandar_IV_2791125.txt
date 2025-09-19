@@ -2,11 +2,13 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+BRUSTAD,   K.,   AL-   BATAL,   M.   y   TONSI,  A.  Al-Kitab  fi  Ta`allum  al-`Arabiyya.  3ªed.  vol.  I  y  II  (3
+vols.)   Georgetown  University  Press.  Washington,  D.C.  2011  -2013  (MANUAL  DE  CLASE)  CORTÉS,  J.(1996).
+Diccionario de árabe culto moderno. Madrid: Gredos
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 ABBOUD,   P.   y   McCARUS,   E.   (1983).  Elementary  Modern  Standard  Arabic.  Part  II:  Arabic  Grammar  and
 Vocabulary. Cambridge
@@ -32,16 +34,11 @@ SCHULZ, E. (2000).A Student Grammar of Modern Standard Arabic. Cambridge: Univer
 
 YOUNES, M. et ali. (2014). `Arabiyyat al-naas (Part One). Lonodn -N.York: Routledge
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 BRUSTAD,   K.,   AL-   BATAL,   M.   y   TONSI,  A.  Al-Kitab  fi  Ta`allum  al-`Arabiyya.  3ªed.  vol.  I  y  II  (3
-vols.)   Georgetown  University  Press.  Washington,  D.C.  2011  -2013  (MANUAL  DE  CLASE)  CORTÉS,  J.(1996).
-Diccionario   de   árabe   culto   moderno.   Madrid:  Gredos  →  BRUSTAD,  K.,  AL-  BATAL,  M.  y  TONSI,  A.  Al-
-Kitab fi Ta`allum al-`Arabiyya. 3ªed. vol. I y II (3 vols.) Georgetown University Press. Washington,
-D.C. 2011 -2013 (MANUAL DE CLASE)
+vols.) Georgetown University Press. Washington, D.C. 2011 -2013 (MANUAL DE CLASE)
 
-✅ Recursos añadidos:
-------------------------------
 CORTÉS, J.(1996). Diccionario de árabe culto moderno. Madrid: Gredos
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

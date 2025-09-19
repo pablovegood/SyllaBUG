@@ -2,11 +2,11 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 BEARD, A. (2000) The Language of Politics. London/New York: Routledge
 
@@ -34,11 +34,13 @@ DICTIONARIES Collins Cobuild. Learner’s Dictionary (1996)
 JONES, L. & ALEXANDER, R. (1996) New International Business English. Cambridge: Cambridge University
 Press
 
+Lectura(s) obligatoria(s) seleccionada(s) a principio de curso
+
 Longman Dictionary of Contemporary English. New Edition (2003). Longman
 
 Macmillan English Dictionary for Advanced Learners (2002)
 
-Oxford Advanced Learner’s Dictionary (2005) 7th edition. Oxford
+Oxford Advanced Learner’s Dictionary (2005) 7th edition. Oxford. Black's Law Dictionary
 
 QUIRK,   R.,   GREENBAUM   S.,   LEECH  G.,  and  SVARTVIK  J.  (1985)  A  Comprehensive  Grammar  of  the  English
 Language. Longman, Harcourt
@@ -58,16 +60,10 @@ The New Oxford Dictionary of English (1998). Oxford
 
 WODAK, R. (1998) Language, Power and Ideology. Amsterdam: John Benjamins
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+DICTIONARIES
 
-✅ Recursos añadidos:
-------------------------------
-Black's Law Dictionary
+Oxford Advanced Learner’s Dictionary (2005) 7th edition. Oxford
 
-Collins Cobuild. Learner’s Dictionary (1996)
-
-Lectura(s) obligatoria(s) seleccionada(s) a principio de curso
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

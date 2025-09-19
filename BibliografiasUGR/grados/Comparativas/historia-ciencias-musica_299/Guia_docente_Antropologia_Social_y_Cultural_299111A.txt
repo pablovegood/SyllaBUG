@@ -2,11 +2,11 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 AAVV.   La   gestión   del   patrimonio   musical.   Situación   actual  y  perspectivas  de  futuro.  Actas  del
 Simposio;   Madrid   19-21   de   noviembre   de   2014.  Centro  de  Documentación  de  Música  y  Danza  -  INAEM
@@ -38,7 +38,8 @@ Alianza
 HARRIS, Marvin: Introducción a la antropología general, Alianza Editorial, Madrid, 2011
 
 IPCE, Instituto del Patrimonio Cultural de España (2011) Plan Nacional de Salvaguarda del Patrimonio
-Cultural Inmaterial
+Cultural Inmaterial KOTTAK, Phillip: Antropología. una exploración de la diversidad humana con temas
+de la cultura hispana, McGraw Hill, Madrid, (14 ed) 2011
 
 LISÓN,   Carmelo   (ed.).  Introducción  a  la  Antropología  Social  y  Cultural.  Teoría,  método  y  práctica.
 Madrid, Akal, 2007
@@ -72,13 +73,9 @@ culturas.Madrid Ed. Univ. Ramon Areces, 2007
 VELASCO,   Honorio.,   y.  DÍAZ  DE  RADA,  Ángel.  La  lógica  de  la  Investigación  etnográfica.  Un  modelo  de
 trabajo para etnógrafos en la escuela. Madrid, Editorial Trotta, 1999
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-KOTTAK,   Phillip:   Antropología.   una   exploración   de   la  diversidad  humana  con  temas  de  la  cultura
-hispana, McGraw Hill, Madrid, (14 ed) 2011
+IPCE, Instituto del Patrimonio Cultural de España (2011) Plan Nacional de Salvaguarda del Patrimonio
+Cultural Inmaterial
 
 📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

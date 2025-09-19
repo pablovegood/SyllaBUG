@@ -2,11 +2,13 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+MONEREO   PÉREZ,   J.   L.,  MOLINA  NAVARRETE,  C.  ,  MORENO  VIDA,  M.N.,  MALDONADO  MOLINA,  J.A.,  Manual  de
+Seguridad   Social,   Tecnos,   Madrid,  2020  MONEREO  PÉREZ,  J.L.;  MORENO  VIDA,  Mª.N.;  MALDONADO  MOLINA,
+J.A.; GONZÁLEZ DE PATTO, R.Mª: Manual de Derecho de la Dependencia, Tecnos, Madrid, 2014
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 ALEMAN   FRANCISCO   (2018).  Materiales  didácticos  del  derecho  del  trabajo  y  políticas  sociolaborales.
 España. Tecnos
@@ -37,17 +39,12 @@ SEMPERE, A. CANO, Y, CHARRO, P. y SAN MARTIN, C (2005): Políticas Sociolaborale
 ÁLVAREZ   ALCOLEA,   M.  y  DE  VAL  TENA,  A.,  Manual  de  Derecho  de  la  Protección  Social,  Laborum,  Murcia,
 2003
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MONEREO   PÉREZ,   J.   L.,  MOLINA  NAVARRETE,  C.  ,  MORENO  VIDA,  M.N.,  MALDONADO  MOLINA,  J.A.,  Manual  de
-Seguridad   Social,   Tecnos,   Madrid,  2020  MONEREO  PÉREZ,  J.L.;  MORENO  VIDA,  Mª.N.;  MALDONADO  MOLINA,
-J.A.;   GONZÁLEZ   DE  PATTO,  R.Mª:  Manual  de  Derecho  de  la  Dependencia,  Tecnos,  Madrid,  2014  →  MONEREO
-PÉREZ,   J.L.;  MORENO  VIDA,  Mª.N.;  MALDONADO  MOLINA,  J.A.;  GONZÁLEZ  DE  PATTO,  R.Mª:  Manual  de  Derecho
-de la Dependencia, Tecnos, Madrid, 2014
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 MONEREO   PÉREZ,   J.   L.,   MOLINA  NAVARRETE,  C.,  MORENO  VIDA,  M.N.,  MALDONADO  MOLINA,  J.A.,  Manual  de
 Seguridad Social, Tecnos, Madrid, 2020
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+MONEREO   PÉREZ,  J.L.;  MORENO  VIDA,  Mª.N.;  MALDONADO  MOLINA,  J.A.;  GONZÁLEZ  DE  PATTO,  R.Mª:  Manual  de
+Derecho de la Dependencia, Tecnos, Madrid, 2014
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

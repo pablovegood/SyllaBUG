@@ -2,11 +2,21 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+CORRIENTE,   F.   (2006).   Diccionario   árabe-español.   Barcelona.   AL-DAHDAH,   A.  (1993).  .ﻣﻌﺠﻢ  ﺍﻟﻠﻐﺔ
+ﺍﻟﻌﺮﺑﻴﺔBeirut
 
-📚 Recursos sin cambios:
+Georgetown   University   Press.   Washington,   D.C.   2011-2013   (MANUAL   DE   CLASE)   BUCKWALTER,  Tim  y
+PARKINSON, Dilworth. A Frequency Dictionary of Arabic. LondonNew York: Routledge, 2011
+
+PRÁCTICO   Lecturas,   audiciones,  ejercicios  orales  y  escritos  correspondientes  a  los  temas  descritos
+en el temario teórico
+
+VV.AA.   (2016).   Ar-Rafid  A2+  Lengua  Árabe.  Almería  ABD  AL-RAHMAN,  F.  (1997).  3  .ﺩﺭﻭﺱ  ﺍﻟﻠﻐﺔ  ﺍﻟﻌﺮﺑﻴّﺔ
+ﻟﻐﻴﺮ ﺍﻟﻨﺎﻃﻘﻴﻦ ﺑﻬﺎvols. Medina
+
+📚 Recursos sin cambios (18):
 ------------------------------
 ABBOUD,   P.  y  McCARUS,  E.  Elementary  Modern  Standard  Arabic.  Part  II:  Arabic  Grammar  and  Vocabulary.
 Cambridge: Cambridge University Press, 1983
@@ -17,11 +27,10 @@ ABBOUD, P. y otros.Intermediate Modern Standard Arabic. Ann Arbor, Michigan: Uni
 AGUILAR   COBOS,   J.D.   et   alt.  Ash-Shallal  B1  (Albujayra)  BARCELÓ,  Carmen  y  LABARTA,  Ana.  Gramática
 árabe básica. Córdoba: Universidad de Córdoba, 1991
 
-AL-DAHDAH, A. (1993). معجم اللغة العربية. Beirut
-
 BADAWI, S. CARTER, M. G. y GULLY, A. (2004). Modern written arabic: a comprehensive grammar. London
 
-CORRIENTE, F. (2006). Diccionario árabe-español. Barcelona
+BRUSTAD,   K.,  AL-  BATAL,  M.  y  TONSI,  A.  Al-Kitab  fi  Ta`allum  al-`Arabiyya.  vol.  II,  3ªed.  Georgetown
+University Press. Washington, D.C. 2011-2013 (MANUAL DE CLASE)
 
 CORRIENTE, F. (2006). Gramática árabe. Barcelona
 
@@ -36,36 +45,37 @@ HAYWOOD, J. y NAHMAD, H. (1992). Nueva gramática árabe (trad. F. Ruiz Girela).
 MESHRFY,   Saber   Abdelfattah   (2014).   At-Takallum:   A  Comprehensive  Modern  Arabic  Course  Innovative
 Approach A1-C1. El Cairo: Dar Al-Nile. (5 vols.)
 
+MORALES DELGADO, Antonio. Gramática árabe comentada. Almería: Albujayra, 2014
+
 PARADELA ALONSO, N. (1998). Manual de sintaxis árabe. Madrid
 
 SALEH, W. (1991). Lengua árabe: gramática y ejercicios. Madrid
 
+SALEH, W. (2002). Curso práctico de lengua árabe II. Madrid
+
+SALEH, W. (2008). Curso práctico de lengua árabe I. Madrid
+
 SCHULZ,   E.   KRAHL,   G.   y   REUSCHEL,   W.  (2000).  Standard  Arabic:  An  elementary-intermediate  course
 Cambridge
 
-SHALABI, A. (1990). تعليم اللغة العربيّة لغير العرب. 5ª ed., El Cairo
+SHALABI, A. (1990). 5 .ﺗﻌﻠﻴﻢ ﺍﻟﻠﻐﺔ ﺍﻟﻌﺮﺑﻴّﺔ ﻟﻐﻴﺮ ﺍﻟﻌﺮﺏª ed., El Cairo
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (12):
 ------------------------------
-VV.AA.   (2016).   Ar-Rafid   A2+   Lengua  Árabe.  Almería  ABD  AL-RAHMAN,  F.  (1997).  3  .ﺎﻬﺑ  ﻦﻴﻘﻃﺎﻨﻟﺍ  ﺮﻴﻐﻟ
-ﺔّﻴﺑﺮﻌﻟﺍ   ﺔﻐﻠﻟﺍ   ﺱﻭﺭﺩvols.  Medina  →  ABD  AL-RAHMAN,  F.  (1997).  دروس  اللغة  العربيّة  لغير  الناطقين  بها.
-3 vols. Medina
+ABD AL-RAHMAN, F. (1997). دروس اللغة العربيّة لغير الناطقين بها. 3 vols. Medina
 
-Georgetown   University   Press.   Washington,   D.C.   2011-2013   (MANUAL   DE   CLASE)   BUCKWALTER,  Tim  y
-PARKINSON,   Dilworth.   A   Frequency   Dictionary   of   Arabic.   London-   New   York:   Routledge,  2011  →
-BUCKWALTER, Tim y PARKINSON, Dilworth. A Frequency Dictionary of Arabic. London-New York: Routledge,
-2011
-
-✅ Recursos añadidos:
-------------------------------
 ABD AL-RAHMAN, F. (1997). دروس اللغة العربيّة لغير الناطقين بها. 3. Médine
+
+AL-DAHDAH, A. (1993). معجم اللغة العربية. Beirut
 
 BADAWI, S. CARTER, MG et GULLY, A. (2004). Arabe écrit moderne : une grammaire complète. Londres
 
 BARCELÓ, Carmen y LABARTA, Ana. Gramática árabe básica. Córdoba: Universidad de Córdoba, 1991
 
-BRUSTAD,   K.,  AL-  BATAL,  M.  y  TONSI,  A.  Al-Kitab  fi  Ta`allum  al-`Arabiyya.  vol.  II,  3ªed.  Georgetown
-University Press. Washington, D.C. 2011-2013 (MANUAL DE CLASE)
+BUCKWALTER, Tim y PARKINSON, Dilworth. A Frequency Dictionary of Arabic. London-New York: Routledge,
+2011
+
+CORRIENTE, F. (2006). Diccionario árabe-español. Barcelona
 
 COWAN, D. (2004). Grammaire de la langue arabe moderne (trad. M. Condor). Madrid
 
@@ -74,15 +84,9 @@ Beyrouth
 
 En ligne SHALABI, A. (1990). تعليم اللغة العربيّة لغير العرب. 5e éd., Le Caire
 
-MORALES DELGADO, Antonio. Gramática árabe comentada. Almería: Albujayra, 2014
-
-SALEH, W. (2002). Curso práctico de lengua árabe II. Madrid
-
-SALEH, W. (2008). Curso práctico de lengua árabe I. Madrid
-
 SCHULZ,   E.   KRAHL,   G.   &   REUSCHEL,  W.  (2000).  Arabe  standard  :  Un  cours  élémentaire-intermédiaire
 Cambridge
 
 VV.AA. (2016). Ar-Rafid A2+ Lengua Árabe. Almería
 
-📊 Porcentaje estimado de cambio: 77% [███████░░░]
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

@@ -2,11 +2,12 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Innerarity,   Daniel.   2024.   Inteligencia   Artificial   y   Democracia.  UNESCO  Ionescu,  Ghita  y  Ernest
+Gellner (comps.), 1969, Populismo. Buenos Aires, Amorrortu
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (80):
 ------------------------------
 Antón Mellón, Joan. (Ed.). 1998 (1ª ed.), 2006 (2ª ed.), 2016 (3ª ed.) y 2020 (4ª ed.). Ideologías y
 movimientos políticos contemporáneos. Tecnos
@@ -110,6 +111,10 @@ with one 18th Century Brain. New York, Viking Penguin
 
 Lansford, Tom. 2008. Communism. Tarrytown, Marshall Cavendish Corporation
 
+Larrain, Jorge. 2009. El concepto de ideología. Santiago de Chile, LOM (3 Vols.)
+
+Laski, Harold, J. 1992. El liberalismo europeo. México, F.C.E
+
 Lenk, Kurt, 1982, El concepto de ideología. Buenos Aires, Amorrortu
 
 Levitsky, Steven y Ziblatt, Daniel. 2018. ¿Cómo mueren las democracias? Ariel
@@ -189,17 +194,7 @@ Zizek, Slavoj. (Comp.). 2003. Ideología. Un mapa de la cuestión. Fondo de Cult
 
 Águila, Rafael del. 2008. Crítica de las ideologías. El peligro de los ideales. Taurus
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Larrain,   Jorge.   2009.  El  concepto  de  ideología.  Santiago  de  Chile,  LOM  (3  Vols.)  Laski,  Harold,  J.
-1992.   El   liberalismo   europeo.   México,   F.C.E   →   Laski,  Harold,  J.  1992.  El  liberalismo  europeo.
-México, F.C.E
-
-Innerarity,   Daniel.   2024.   Inteligencia   Artificial   y   Democracia.  UNESCO  Ionescu,  Ghita  y  Ernest
-Gellner    (comps.),    1969,    Populismo.    Buenos   Aires,   Amorrortu   →   Innerarity,   Daniel.   2024.
-Inteligencia Artificial y Democracia. UNESCO
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (15):
 ------------------------------
 Colmenares, Katya. (ed.) 2025. Un Marx para nuestro tiempo. Barcelona: Bellaterra ediciones
 
@@ -213,14 +208,14 @@ Frantz, Fanon. 2009 (1952). Piel negra, mascaras blancas. Madrid: Akal
 
 Frantz, Fanon. 2018. (1963). Los condenados de la tierra. México: Fondo de Cultura Económica
 
+Innerarity, Daniel. 2024. Inteligencia Artificial y Democracia. UNESCO
+
 Ionescu, Ghita y Ernest Gellner (comps.), 1969, Populismo. Buenos Aires, Amorrortu
 
 Kılınçoğlu, Deniz T. 2024. The National Mind. Emotion, Cognition, and Nationalism. Cham: Springer
 
 Lakoff,   George.   2017.   No   pienses   en   un  elefante:  Lenguaje  y  debate  político.  Madrid:  Editorial
 Península
-
-Larrain, Jorge. 2009. El concepto de ideología. Santiago de Chile, LOM (3 Vols.)
 
 Mudde, Cas. 2021. La ultraderecha hoy. Barcelona: Paidós
 
@@ -236,4 +231,4 @@ Snyder, Timothy. 2024. Sobre la libertad. Madrid: Galaxia Gutenberg
 VV.AA.   2023.   Neoliberalismo   mutante.   Gobierno   del  mercado  y  ruptura  política.  Madrid:  Lengua  de
 trapo
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

@@ -2,19 +2,19 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Editorial Paraninfo, Madrid, 1993
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
-Aguilar, J. y Casanova, J. Problemas de Física. Ed. Alhambra, Madrid, 1985
-
 Alonso, M. y Finn, E.J. Física. Ed. Addison-Wesley Iberoamericana, Delaware, 1995
 
 Alonso, M. y Finn, E.J. Física. Vols. I, II y III. Ed. Addison-Wesley Iberoamericana, México, 1985
 
 Bueche, F.J. and Hecht, E. Física General. 9ª edición. Editorial McGraw-Hill, México, 2001
+
+Burbano de Ercilla, Burbano García. Física General. Problemas, Ed. Librería General. Zaragoza, 1986
 
 Castro-Díez, Y. Problemas de Física. Mecánica, Ondas y Termodinámica. 2ª edición. Ed. Universidad de
 Granada, Granada, 2021
@@ -56,19 +56,16 @@ Vols. 1 y 2. Ed. Pearson Educación, México, 2009
 
 Serway, R.A. Física. Vols. I y II. Ed. McGraw Hill, México, sexta edición, 2005
 
+Textos   de   problemas   y   aplicaciones  Aguilar,  J.  y  Casanova,  J.  Problemas  de  Física.  Ed.  Alhambra,
+Madrid, 1985
+
 Tipler,   P.A.   y  Mosca,  G.  Física  para  la  Ciencia  y  la  Tecnología.  Vols.  I  y  II.  Quinta  edición.  Ed.
 Reverté, Barcelona, 2005
 
 Touger, J. Introductory Physics. Building Understanding. Ed. John Wiley and Sons Inc., 2006
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Burbano de Ercilla, Burbano García. Física General. Problemas, Ed. Librería General. Zaragoza, 1986
-
 Textos de problemas y aplicaciones
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

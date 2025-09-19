@@ -2,12 +2,21 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Comisión Europea (2010). Europa, primer destino turístico del mundo: un nuevo marco político para el
+turismo          europeo.         Disponible         en:         http://ec.europa.eu/enterprise/sectors/
+tourism/files/communications/communication2010_es.pdf   Figuerola   Palomo,  M.  (2000):  Introducción  al
+estudio económico del Turismo. Editorial Cívitas, Madrid
 
-📚 Recursos sin cambios:
+Torres Benier, E. y otros (2006): Estructura de mercados turísticos. Editorial UOC, España Valls, J.
+F. (2003): Las claves del Mercado turístico. Deusto, Bilbao
+
+📚 Recursos sin cambios (16):
 ------------------------------
+Asociación   Española   de   Expertos   Científicos   de   Turismo   (Serie   anual):  La  actividad  turística
+española, AECIT, Madrid
+
 Beech, J. y Chadwick, S. (2009): Modernización y calidad en la administración del turismo. Editorial
 Síntesis, Madrid
 
@@ -45,26 +54,17 @@ Síntesis, Madrid
 Vogeler   Ruiz,   C.   y   Hernández   Armand,  E.  (2003):  El  Mercado  turístico:  Estructura,  operaciones  y
 procesos de producción. Editorial Centro de Estudios Ramón Areces, S.A., Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Torres Benier, E. y otros (2006): Estructura de mercados turísticos. Editorial UOC, España Valls, J.
-F.   (2003):   Las   claves  del  Mercado  turístico.  Deusto,  Bilbao  →  Valls,  J.  F.  (2003):  Las  claves  del
-Mercado turístico. Deusto, Bilbao
-
-Comisión    Europea    (2010).    Europa,    primer    destino    turístico   del   mundo:   un   nuevo   marco
-tourism/files/communications/communication2010_es.pdf   Figuerola   Palomo,  M.  (2000):  Introducción  al
-estudio    económico    del   Turismo.   Editorial   Cívitas,   Madrid   →   Figuerola   Palomo,   M.   (2000):
-Introducción al estudio económico del Turismo. Editorial Cívitas, Madrid
-
-✅ Recursos añadidos:
-------------------------------
-Asociación   Española   de   Expertos   Científicos   de   Turismo   (Serie   anual):  La  actividad  turística
-española, AECIT, Madrid
-
 Comisión Europea (2010). Europa, primer destino turístico del mundo: un nuevo marco político para el
 turismo          europeo.         Disponible         en:         http://ec.europa.eu/enterprise/sectors/
 tourism/files/communications/communication2010_es.pdf
 
+Figuerola   Palomo,   M.   (2000):   Introducción   al   estudio  económico  del  Turismo.  Editorial  Cívitas,
+Madrid
+
 Torres Benier, E. y otros (2006): Estructura de mercados turísticos. Editorial UOC, España
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+Valls, J. F. (2003): Las claves del Mercado turístico. Deusto, Bilbao
+
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

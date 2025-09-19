@@ -2,13 +2,14 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Ed. Pearson accesible en la web de la biblioteca de la UGR)
-
 García Morales, V. (2011). La gestión de la retribución en tiempos de crisis. Impresión digital Gami
 
-📚 Recursos sin cambios:
+Marcos,   S.   y  Gismera,  V.  (2015).  Hablemos  de  retribución:  cómo  conseguir  convertir  un  coste  en  una
+gran inversión. Ed. Almuzara Milkovich, G.T. (1999). Compensation. Irwin/McGraw-Hill, Boston
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Barrenechea   y   Ferrer   López,   M.A.   (2006).   El   salario:  percepciones  salarias  y  extrasalariales,
 deducciones, pago y garantías. Ed. Deusto
@@ -29,7 +30,7 @@ Prentice Hall; Madrid
 
 Haygroup y SAP (2000). Factbook recursos humanos. E. Aranzadi
 
-Hidalgo, B. y Piasco, M.V. (2016). Mi salario: cómo calcularlo y negociarlo con éxito. Ed. Granica
+Hidalgo, B., y Piasco, M.V. (2016). Mi salario: cómo calcularlo y negociarlo con éxito. Ed. Granica
 
 Lawler,   E.E.   (1986).   La   Retribución:   su   Impacto   en   la   Eficacia   y   en   el  Desarrollo  de  las
 Organizaciones. Colección ESADE Estudios de la Empresa, Barcelona
@@ -45,17 +46,13 @@ Pearson
 Vidal   Salazar,  M.D.,  Cordón  Pozo,  E.  y  de  la  Torre  Ruiz,  J.M.  (2014).  Prácticas  empresariales  sobre
 retribución flexible en España en 2013. OHR Grupo Editorial de Conocimiento y Gestión, S.L
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Marcos,   S.   y  Gismera,  V.  (2015).  Hablemos  de  retribución:  cómo  conseguir  convertir  un  coste  en  una
-gran   inversión.   Ed.   Almuzara   Milkovich,   G.T.   (1999).  Compensation.  Irwin/McGraw-Hill,  Boston  →
-Milkovich, G.T. (1999). Compensation. Irwin/McGraw-Hill, Boston
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Levitt, S.D. y Dubner, S.J. (2006). Freakonomics. Random House, Barcelona
 
 Marcos,   S.   y  Gismera,  V.  (2015).  Hablemos  de  retribución:  cómo  conseguir  convertir  un  coste  en  una
 gran inversión. Ed. Almuzara
+
+Milkovich, G.T. (1999). Compensation. Irwin/McGraw-Hill, Boston
 
 📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

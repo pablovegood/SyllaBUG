@@ -2,68 +2,71 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (7):
 ------------------------------
+ATLAS   EN   COLOR   Y   TEXTO   DE  HISTOLOGÍA.  Gartner,  L.P.  y  Hiatt,  J.L.  8ª  ed.  2023.  EDITORIAL  MÉDICA
+PANAMERICANA
+
+ELSEVIER   ESPAÑA,   2012   GRAY.   ANATOMIA   PARA  ESTUDIANTES.  RL.  DRAKE,  A  M.W.  MITCHELL,  A.  W  VOGL  ED
+ELSEVIER. 3 EDICIÓN. MADRID 2015
+
 HISTOLOGÍA PARA ESTUDIANTES. Villaro, A.C. 1ª ed. 2021. EDITORIAL MÉDICA PANAMERICANA
 
-HISTOLOGÍA Y BIOLOGÍA CELULAR. Kierszenbaum, A.L. y Tres L.L. 5ª ed
+HISTOLOGÍA Y BIOLOGÍA CELULAR. Kierszenbaum, A.L. y Tres L.L. 5ª ed. 2020.EDITORIAL ELSERVIER
 
 ROSS. HISTOLOGÍA. TEXTO Y ATLAS. Pawlina, W. 8ª ed. 2020. EDITORIAL WOLTERS KLUWER
 
-📚 Recursos sin cambios:
-------------------------------
-ANATOMIA HUMANA: DESCRIPTIVA, TOPOGRAFICA Y FUNCIONAL. 11ª ED.H. ROUVIERE; A.DELMAS. MASSON, 2005
+STEVENS Y LOWE. HISTOLOGÍA HUMANA. Lowe, J.S., Anderson, P.G. y Anderson S.I. 5ª ed. 2020. EDITORIAL
+ELSERVIER
 
-ANATOMÍA HUMANA Textos básicos ARCHILLA, C. MELGUIZO, C. VELEZ, M. RIVERA, ED. AVICAM, 2015
+Ver bibliografía disponible electrónicamente en el apartado "Enlaces Recomendados"
+
+📚 Recursos sin cambios (12):
+------------------------------
+ANATOMÍA   HUMANA  Textos  básicos  MANUAL  DE  ANATOMÍA  HUMANA  PARA  NUTRICIÓN  Y  DIETÉTICA  (I).  J.  PRADOS,
+F
 
 ATLAS DE ANATOMÍA HUMANA 5ª ED F. H. NETTER, MASSON, 2011
 
-ATLAS DE ANATOMÍA HUMANA. SOBOTTA (PUTZ Y PABST). ED. MÉDICA PANAMERICANA. MADRID, 2000
+Atlas ATLAS DE ANATOMÍA HUMANA. SOBOTTA (PUTZ Y PABST). ED. MÉDICA PANAMERICANA. MADRID, 2000
 
-ATLAS   EN   COLOR   Y   TEXTO   DE  HISTOLOGÍA.  Gartner,  L.P.  y  Hiatt,  J.L.  6ª  ed.  2015.  EDITORIAL  MÉDICA
-PANAMERICANA
+ESTRUCTURA Y FUNCION DEL CUERPO HUMANO.14ª ED. G.A THIBODEAU, S.A. ELSEVIER ESPAÑA, 2012
 
 GENESER   HISTOLOGÍA.   Brüel,  A.,  Christensen,  E.I.,  Tranum-Jensen,  J.,  Qvortrup,  K.  y  Geneser,  F.  4ª
 ed. 2015. EDITORIAL MÉDICA PANAMERICANA
 
-HISTOLOGÍA   BÁSICA.   TEXTO   Y   ATLAS.   Junqueira,  L.C.  y  Carneiro,  J.  13ª  ed.  2022.  EDITORIAL  MÉDICA
-PANAMERICANA
+HISTOLOGÍA   HUMANA   HISTOLOGÍA   BÁSICA.   TEXTO  Y  ATLAS.  Junqueira,  L.C.  y  Carneiro,  J.  13ª  ed.  2022.
+EDITORIAL MÉDICA PANAMERICANA
+
+MANUAL   DE   ANATOMÍA   HUMANA  PARA  NUTRICIÓN  Y  DIETÉTICA  (I).  J.  PRADOS,  F.  ARCHILLA,  C.  MELGUIZO,  C.
+VELEZ, M. RIVERA, ED. AVICAM, 2015
 
 NOMENCLATURA ANATÓMICA ILUSTRADA. H. FENEIS. ED. MASSON. BARCELONA, 2006
 
-Otros textos ANATOMIA HUMANA: DESCRIPTIVA, TOPOGRAFICA Y FUNCIONAL. 11ª ED.H. ROUVIERE
+Otros   textos   ANATOMIA   HUMANA:  DESCRIPTIVA,  TOPOGRAFICA  Y  FUNCIONAL.  11ª  ED.H.  ROUVIERE;  A.DELMAS.
+MASSON, 2005
+
+PROMETHEUS, TEXTO Y ATLAS DE ANATOMÍA. SCHÜNKE, SCHULTE Y SCHUMACHER. EDIT. MEDICA, 2015
 
 SOBOTTA HISTOLOGÍA. Welsch, U. 3ª ed. 2014. EDITORIAL MÉDICA PANAMERICANA
 
 TEXTO DE HISTOLOGÍA. ATLAS A COLOR. Gartner, L.P. 5ª ed. 2021. EDITORIAL ELSEVIER
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-STEVENS Y LOWE. HISTOLOGÍA HUMANA. Lowe, J.S., Anderson, P.G. y Anderson S.I. 5ª ed. 2020. EDITORIAL
-ELSERVIER   →   STEVENS   Y   LOWE.  HISTOLOGÍA  HUMANA.  Lowe,  J.S.,  Anderson,  P.G.  y  Anderson  S.I.  6ª  ed.
-2025. EDITORIAL ELSERVIER
-
-2020.EDITORIAL   ELSERVIER   →   STEVENS   Y   LOWE.   HISTOLOGÍA   HUMANA.   Lowe,   J.S.,   Anderson,  P.G.  y
-Anderson S.I. 6ª ed. 2025. EDITORIAL ELSERVIER
-
-ELSEVIER   ESPAÑA,   2012   GRAY.   ANATOMIA   PARA  ESTUDIANTES.  RL.  DRAKE,  A  M.W.  MITCHELL,  A.  W  VOGL  ED
-ELSEVIER.   3   EDICIÓN.  MADRID  2015  →  GRAY.  ANATOMIA  PARA  ESTUDIANTES.  RL.  DRAKE,  A  M.W.  MITCHELL,  A.
-W VOGL ED ELSEVIER. 3 EDICIÓN. MADRID 2015
-
-ATLAS   EN   COLOR   Y   TEXTO  DE  HISTOLOGÍA.  Gartner,  L.P.  y  Hiatt,  J.L.  8ª  ed.  2023  →  ATLAS  EN  COLOR  Y
-TEXTO DE HISTOLOGÍA. Gartner, L.P. y Hiatt, J.L. 6ª ed. 2015. EDITORIAL MÉDICA PANAMERICANA
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 ANATOMÍA HUMANA
 
-ESTRUCTURA Y FUNCION DEL CUERPO HUMANO.14ª ED. G.A THIBODEAU, S.A. ELSEVIER ESPAÑA, 2012
+ATLAS   EN   COLOR   Y   TEXTO   DE  HISTOLOGÍA.  Gartner,  L.P.  y  Hiatt,  J.L.  6ª  ed.  2015.  EDITORIAL  MÉDICA
+PANAMERICANA
+
+GRAY.   ANATOMIA   PARA   ESTUDIANTES.   RL.   DRAKE,   A  M.W.  MITCHELL,  A.  W  VOGL  ED  ELSEVIER.  3  EDICIÓN.
+MADRID 2015
 
 HISTOLOGÍA HUMANA
 
-MANUAL   DE   ANATOMÍA   HUMANA  PARA  NUTRICIÓN  Y  DIETÉTICA  (I).  J.  PRADOS,  F.  ARCHILLA,  C.  MELGUIZO,  C.
-VELEZ, M. RIVERA, ED. AVICAM, 2015
+Otros textos
 
-PROMETHEUS, TEXTO Y ATLAS DE ANATOMÍA. SCHÜNKE, SCHULTE Y SCHUMACHER. EDIT. MEDICA, 2015
+STEVENS Y LOWE. HISTOLOGÍA HUMANA. Lowe, J.S., Anderson, P.G. y Anderson S.I. 6ª ed. 2025. EDITORIAL
+ELSERVIER
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

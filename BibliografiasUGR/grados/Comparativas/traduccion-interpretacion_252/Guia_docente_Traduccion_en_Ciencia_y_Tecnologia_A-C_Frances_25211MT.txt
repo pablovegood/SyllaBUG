@@ -2,63 +2,40 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Una   bibliografía  actualizada  se  pondrá  a  disposición  del  alumnado  cuando  se  implante  la  docencia  de
+la asignatura
 
-📚 Recursos sin cambios:
-------------------------------
-Oscar   Branstetter   Verlag.  Lerat,  Pierre  (1995).  Les  langues  spécialisées.  París:  PUF.  Locke,  David
-(1997). La ciencia como escritura. Madrid: Cátedra. Maillot, Jean (1981). La traduction scientifique
-et   technique.   París:  Technique  et  documentation.  Marimón  Llorca,  Carmen  y  Santamaría  Pérez,  Isabel
-(2007).   Los   géneros   y   las   lenguas   de  especialidad  (II):  el  contexto  científico-técnico.  En  Las
-lenguas   profesionales   y   académicas,   Alcaraz   Varó,   Enrique,   Mateo   Martínez,  José  y  Yus  Ramos,
-Francisco (eds.). 127-40. Madrid
-
-RTL Edition. Gambier, Yves (ed.) (1998). Discours professionnels en Français. Francfort: Peter Lang.
-Gamero   Pérez,   Silvia   (2001).   La  traducción  de  textos  técnicos.  Barcelona:  Ariel.  Gonzalo  García,
-Consuelo   y   García   Yebra,   Valentín   (eds.)   2004.   Manual  de  documentación  y  terminología  para  la
-traducción   especializada.   Madrid:   Arcos   Libros.   Gouadec,  Daniel  (2002).  Profession,  traducteur.
-París:   La   Maison   du   Dictionnaire.   Gouadec,   Daniel   (2004).  Faire  traduire.  París:  La  Maison  du
-Dictionnaire.   Gutierrez   Rodilla,   Bertha   (1998).   La   ciencia   empieza   en  la  palabra.  Análisis  e
-historia   del   lenguaje   científico.   Barcelona:  Ediciones  Península.  Kocourek,  Rostislav  (1991).  La
-langue française de la technique et de la science. Wiesbaden
-
-Rouleau, Maurice (1994). La traduction médicale. Montreal: Linguatech
-
-🔁 Misma obra con edición/año distinto:
+📚 Recursos sin cambios (16):
 ------------------------------
 Alcaraz   Varó,   Enrique,   Mateo   Martínez,   José   y   Yus  Ramos,  Francisco  (eds.)  (2007).  Las  lenguas
-profesionales   y   académicas.   Madrid:   Ariel   Alcina   Caudet,   Amparo  y  Silvia,  Gamero  Pérez  (eds.)
-(2002).   La   traducción   científico-técnica   y   la   terminología   en   la  sociedad  de  la  información.
-Alicante:   Publicacions   de   la  Universitat  Jaume  I.  Bédard,  Claude  (1986).  La  traduction  technique.
-Principes et pratique. Montreal: Linguatech. Binet, Jean-Paul et al. (1987). Le français, langue des
-sciences   et   des  techniques.  Luxemburgo  →  Bédard,  Claude  (1986).  La  traduction  technique.  Principes
-et pratique. Montreal: Linguatech
+profesionales y académicas. Madrid: Ariel
 
-✅ Recursos añadidos:
-------------------------------
-Alcaraz Varó, Enrique, Mateo Martínez, José y Yus Ramos, Francisco (eds.) (2007). Las lenguas
+Alcina   Caudet,   Amparo   y  Silvia,  Gamero  Pérez  (eds.)  (2002).  La  traducción  científico-técnica  y  la
+terminología en la sociedad de la información. Alicante: Publicacions de la Universitat Jaume I
 
-Alcaraz Varó, Enrique, Mateo Martínez, José y Yus Ramos, Francisco (eds.). 127-40. Madrid
+Binet,   Jean-Paul  et  al.  (1987).  Le  français,  langue  des  sciences  et  des  techniques.  Luxemburgo:  RTL
+Edition
 
-Alcina Caudet, Amparo y Silvia, Gamero Pérez (eds.) (2002). La traducción científico-técnica y
-
-Binet, Jean-Paul et al. (1987). Le français, langue des sciences et des techniques. Luxemburgo
+Bédard, Claude (1986). La traduction technique. Principes et pratique. Montreal: Linguatech
 
 Gambier, Yves (ed.) (1998). Discours professionnels en Français. Francfort: Peter Lang
 
 Gamero Pérez, Silvia (2001). La traducción de textos técnicos. Barcelona: Ariel
 
-Gonzalo García, Consuelo y García Yebra, Valentín (eds.) 2004. Manual de documentación y
+Gonzalo   García,   Consuelo   y   García   Yebra,   Valentín   (eds.)   2004.   Manual   de   documentación   y
+terminología para la traducción especializada. Madrid: Arcos Libros
 
 Gouadec, Daniel (2002). Profession, traducteur. París: La Maison du Dictionnaire
 
 Gouadec, Daniel (2004). Faire traduire. París: La Maison du Dictionnaire
 
-Gutierrez Rodilla, Bertha (1998). La ciencia empieza en la palabra. Análisis e historia del
+Gutierrez Rodilla, Bertha (1998). La ciencia empieza en la palabra. Análisis e historia del lenguaje
+científico. Barcelona: Ediciones Península
 
-Kocourek, Rostislav (1991). La langue française de la technique et de la science. Wiesbaden
+Kocourek,   Rostislav  (1991).  La  langue  française  de  la  technique  et  de  la  science.  Wiesbaden  :  Oscar
+Branstetter Verlag
 
 Lerat, Pierre (1995). Les langues spécialisées. París: PUF
 
@@ -66,14 +43,28 @@ Locke, David (1997). La ciencia como escritura. Madrid: Cátedra
 
 Maillot, Jean (1981). La traduction scientifique et technique. París: Technique et documentation
 
+Marimón   Llorca,  Carmen  y  Santamaría  Pérez,  Isabel  (2007).  Los  géneros  y  las  lenguas  de  especialidad
+(II):   el   contexto   científico-técnico.   En   Las   lenguas  profesionales  y  académicas,  Alcaraz  Varó,
+Enrique, Mateo Martínez, José y Yus Ramos, Francisco (eds.). 127-40. Madrid: Ariel
+
+Rouleau, Maurice (1994). La traduction médicale. Montreal: Linguatech
+
+✅ Recursos añadidos (8):
+------------------------------
+Alcaraz Varó, Enrique, Mateo Martínez, José y Yus Ramos, Francisco (eds.). 127-40. Madrid
+
+Alcina Caudet, Amparo y Silvia, Gamero Pérez (eds.) (2002). La traducción científico-técnica y
+
+Gutierrez Rodilla, Bertha (1998). La ciencia empieza en la palabra. Análisis e historia del
+
 Marimón Llorca, Carmen y Santamaría Pérez, Isabel (2007). Los géneros y las lenguas de
 
 Oscar Branstetter Verlag
 
-la terminología en la sociedad de la información. Alicante: Publicacions de la Universitat Jaume I
+especialidad (II): el contexto científico-técnico. En Las lenguas profesionales y académicas
 
 profesionales y académicas. Madrid: Ariel
 
 terminología para la traducción especializada. Madrid: Arcos Libros
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 39% [███░░░░░░░]

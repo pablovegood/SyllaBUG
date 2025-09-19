@@ -2,13 +2,13 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
-Color Science. G. Wyszecki, W.S. Stiles. Ed. John Wiley & Sons, Inc. (2000)
+Color Science. G. Wyszecki, W.S. Stiles. Ed. John Wiley & Sons, Inc. (2000). Óptica. J. Casas
 
 Colorimetry. 2nd Edition. Publication CIE nº 15.2 (1986)
 
@@ -17,6 +17,10 @@ Ed. Comares (1996)
 
 Discomfort Glare in the Interior Working Environment. Publication CIE nº 55 (1983)
 
+Fuentes de Luz. A. Cruz. ADAE
+
+Light Calculations and Measurements. H.A.E. Keitz. Ed. Philips Technical Library
+
 Material de clase de Radiometría, Fotometría y Color. Departamento de Óptica. Universidad de Granada
 
 Optical   Radiation   Measurements,   Vol.  1,  2  y  4.  F.  Grum  y  C.J.  Bartleson.  Ed.  Academic  Press,  Inc.
@@ -24,16 +28,8 @@ Optical   Radiation   Measurements,   Vol.  1,  2  y  4.  F.  Grum  y  C.J.  Bar
 
 Principles of Color Technology. 3rd Edition. R. S. Berns. Ed. John Wiley & Sons, Inc. (2000)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Fuentes de Luz. A. Cruz. ADAE
-
-Light Calculations and Measurements. H.A.E. Keitz. Ed. Philips Technical Library
-
 Óptica. J. Casas
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

@@ -2,21 +2,11 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Química   General.   10ª   Ed.   R.H  Petrucci,  F.  G.  Herring,  J.  D.  Madura,  C.  Bissonnette.  Ed.  Pearson.
-Prentince Hall. 2011. Varios ejemplares para préstamo disponibles en la Biblioteca de la Facultad de
-Farmacia, y acceso on-line al libro completo en ordenadores de la UGR (ver "Enlaces Recomendados")
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (9):
 ------------------------------
 Fisicoquímica.   Álvarez   Pez,  J.M.,  Talavera  Rodríguez,  E.  M.,  Crovetto,  L.,  Orte,  A.,  Ruedas-Ramas,
 M.J., Paredes, J.M. 2017. Ed. Técnica AVICAM. Granada
@@ -28,7 +18,12 @@ Principios   de   Química.  3ª-5ª  Eds.  P.  Atkins  y  L.  Jones.  Ed.  Méd
 para préstamo disponibles en la Biblioteca de la Facultad de Farmacia
 
 Química   Física.   8ª   Ed.   P.  Atkins  y  J.  de  Paula.  Ed.  Médica  Panamericana.  2008.  Varios  ejemplares
-para préstamo disponibles en la Biblioteca de la Facultad de Farmacia
+para   préstamo   disponibles   en   la   Biblioteca   de   la   Facultad  de  Farmacia  Física  y  Fisicoquímica
+aplicadas a la Farmacia. Álvarez Pez, J.M., Talavera Rodríguez, E
+
+Química   General.   10ª   Ed.   R.H  Petrucci,  F.  G.  Herring,  J.  D.  Madura,  C.  Bissonnette.  Ed.  Pearson.
+Prentince Hall. 2011. Varios ejemplares para préstamo disponibles en la Biblioteca de la Facultad de
+Farmacia, y acceso on-line al libro completo en ordenadores de la UGR (ver "Enlaces Recomendados")
 
 Química de los alimentos. E. Primo Yúfera. Ed. Síntesis. 1998
 
@@ -42,4 +37,8 @@ Resolución   de   Problemas   de   Química.  A.  Sánchez  Coronilla.  Univers
 Publicaciones.   2008.  Varios  ejemplares  para  préstamo  disponibles  en  la  Biblioteca  de  la  Facultad  de
 Farmacia
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

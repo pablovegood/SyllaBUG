@@ -2,11 +2,11 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Carrasco Macías, M. J. et al. (2013). Conocer y comprender las organizaciones educativas
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
 Ainscow, M. y West, M. (eds.) (2008). Mejorar las escuelas urbanas. Liderazgo y colaboración. Narcea
 
@@ -26,33 +26,17 @@ posibilidades y limitaciones. Psicoperspectivas, 9 (2), 9-33
 
 Bolívar, A. (2012). Políticas actuales de mejora y liderazgo educativo. Aljibe
 
-Bolívar,   A.   (2020).  Otra  gobernanza  para  dinamizar  la  organización  de  los  centros.  En  M.  Fernández
-Enguita (coord.). Cambiar la organización escolar. ANELE
-
-Carrasco Macías, M. J. et al. (2013). Conocer y comprender las organizaciones educativas. Pirámide
-
-Gil-Quintana,   J.   (Coord.).   (2022).   Organizaciones  Educativas.  Evolución  de  perspectivas  hasta  la
-sociedad postdigital. McGraw Hill
-
-González, M.T. (2003). Organización y gestión de centros escolares. Pearson
-
-Tintoré,   M.   (2010).   Manual   de  organización  de  instituciones  educativas:  un  modelo  humanista.  UIC
-Publicaciones
-
-Álvarez, M. (2010). Liderazgo compartido. Buenas prácticas de dirección escolar. Wolters Kluwer
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Bolívar,   A.   (2016)   ¿Cómo   puede   la   evaluación  institucional  contribuir  para  mejorar  la  escuela?
 Estudos em Avaliação Educacional, 47 (65), 284-313
 
 Bolívar, A. (2019). Una dirección escolar con capacidad de liderazgo pedagógico. La Muralla
 
+Bolívar,   A.   (2020).  Otra  gobernanza  para  dinamizar  la  organización  de  los  centros.  En  M.  Fernández
+Enguita (coord.). Cambiar la organización escolar. ANELE
+
 Campo, A. (2010). Herramientas para directivos escolares. Wolters Kluwer
+
+Carrasco Macías, M. J. et al. (2013). Conocer y comprender las organizaciones educativas. Pirámide
 
 Day,   C.,   Leithwood,   K.,   Sammons,   P.,   Hopkins,  D.,  Gu,  Q.,  Brown,  E.  J.  y  Ahtaridou,  E.  (2011).
 Successful School Leadership: Linking with learning and achievement. Open University Press
@@ -67,6 +51,11 @@ Fernández   Enguita,   M.  y  Terrén,  E.  (Coords.)  (2009).  Repensando  la 
 legitimidad y nuevos desarrollos. Akal
 
 Gather Thurler, M. (2004). Innovar en el seno de la institución escolar. Graó
+
+Gil-Quintana,   J.   (Coord.).   (2022).   Organizaciones  Educativas.  Evolución  de  perspectivas  hasta  la
+sociedad postdigital. McGraw Hill
+
+González, M.T. (2003). Organización y gestión de centros escolares. Pearson
 
 González,   M.T.   (Coord.),   Escudero,   J.M.,   Nieto,   J.M.   y  Portela,  A.  (2011).  Innovaciones  en  el
 gobierno y gestión de los centros escolares. Ed. Síntesis
@@ -87,7 +76,16 @@ OCDE (Pont, B. et al.) (2008). Mejorar el liderazgo escolar: Política y prácti
 
 OCDE (Stoll, L. y Temperley, J.) (2009). Mejorar el liderazgo escolar: Herramientas de trabajo.OCDE
 
+Tintoré,   M.   (2010).   Manual   de  organización  de  instituciones  educativas:  un  modelo  humanista.  UIC
+Publicaciones
+
 Villa,   A.   (ed.)   (2013).   Liderazgo   pedagógico  en  los  centros  educativos:  Competencias  de  equipos
 directivos, profesorado y orientadores. Universidad de Deusto y Ed. Mensajero
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Álvarez, M. (2010). Liderazgo compartido. Buenas prácticas de dirección escolar. Wolters Kluwer
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]

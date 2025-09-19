@@ -2,25 +2,11 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Donnelly, R., & Abdel-Raouf, F. (2016). Statistics (Third edition, First American edition)
+No hay elementos.
 
-Espejo Miranda, I. (2016). Inferencia estadística: teoría y problemas (2ª ed. revisada)
-
-García   Ramos   J.   A.,   Ramos   González   C.   D.,   y  Ruiz  Garzón  G.,  (2007).  Estadística  empresarial.
-Universidad de Cádiz
-
-Gómez Villegas, M. (2007). Inferencia estadística. Ediciones Díaz de Santos
-
-Newbold, P. (2013) Estadística para Administración y Economía. Prentice Hall
-
-Sabine, P., & Plumpton, C. (1985). Statistics
-
-Universidad   de   Cádiz   Osuna   Guerrero,   R.,   Levin,   R.,   Rubin,   D.,   y   Bohon  Devars,  J.  (2010).
-Estadística para Administración y Economía. Edición revisada (7ª ed.). Pearson
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Amor Pulido, R; Aguilar Peña, C. y Morales Luque, A. (2009). Inferencia Estadística. Grupo Editorial
 Universitario
@@ -32,6 +18,12 @@ Estudios Ramón Areces S. A
 
 Casas   J.   M.,  García  C.,  Rivera  L.  F.  y  Zamora  A.  I.  (2006).  Ejercicios  de  Inferencia  Estadística  y
 muestreo para Economía y Administración de Empresas. Ed. Pirámide
+
+En   general,   se   recordará   al   estudiante  que  todo  libro  del  catálogo  de  nuestra  biblioteca,  sobre
+inferencia   estadística,  estadística  empresarial,  estadística  para  los  negocios  y  la  economía,  es  un
+potencial   libro  complementario  para  consulta  de  diferentes  tópicos,  ejemplos  y  ejercicios  sobre  los
+contenidos   de  la  asignatura.  Dada  la  amplia  colección  de  los  mismos  se  omite  una  lista  detallada  de
+ellos
 
 García   Ramos   J.   A.,   Ramos   González   C.   D.   y   Ruiz   Garzón  G.  (2007).  Estadística  empresarial.
 Universidad de Cádiz
@@ -55,21 +47,11 @@ Utts, J. M. (2005). Seeing through statistics. Ed. Belmont, CA: Thomson
 Wild, C. J. (2000). Chance encounters: a first course in data analysis and inference. Ed. John Wiley
 and Sons. New York
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Amor Pulido, R. (2016). Técnicas Cuantitativas II. Editorial Técnica AVICAM
-
-En   general,   se   recordará   al   estudiante  que  todo  libro  del  catálogo  de  nuestra  biblioteca,  sobre
-inferencia   estadística,  estadística  empresarial,  estadística  para  los  negocios  y  la  economía,  es  un
-potencial   libro  complementario  para  consulta  de  diferentes  tópicos,  ejemplos  y  ejercicios  sobre  los
-contenidos   de  la  asignatura.  Dada  la  amplia  colección  de  los  mismos  se  omite  una  lista  detallada  de
-ellos
 
 Fernández-Sánchez.   M.P.   y  Hernández-Bastida,  A.  (2023).  Cuaderno  de  Estadística.  Editorial  Técnica
 AVICAM
 
-📊 Porcentaje estimado de cambio: 47% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

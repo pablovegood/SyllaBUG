@@ -2,11 +2,12 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Kotler,   P.   Y   Keller,   K.   (2016):  Dirección  de  Marketing.  15  Ed.  Prentice-Hall,  Madrid  López,  I.,
+López, M., Sicilia, M., y Palazón, M. (2021). Marketing en redes sociales. ESIC
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 Alard J., Monfort A. (2017). Plan de comunicación on y off en la práctica. ESIC. Madrid
 
@@ -23,6 +24,9 @@ Colbert, F (2009). Marketing de las Artes y la Cultura. Ariel. Barcelona
 
 Colbert,   F.   (2009).   Beyond   branding:   contemporary   marketing  challenges  for  arts  organizations.
 International Journal of Arts Management, 14-20
+
+Cuadrado,   M.   (2001).   La   gestión  de  marketing  en  las  entidades  escénicas.  Una  evidencia  empírica.
+Dirección y Organización, (25)
 
 Lacalle,   C.,   &   Sánchez-Ares,   M.  (2019).  Producción  de  ficción  televisiva  española  a  partir  de  la
 desregulación:   entre   la  atomización  de  las  empresas  y  la  concentración  vertical.  El  profesional  de
@@ -58,22 +62,13 @@ Ullod, A (2014). Relaciones públicas y gabinetes de comunicación. Editorial UO
 
 Vila Grifo, A. (2014). Análisis de audiencias y estrategias de visibilidad.Editorial UOC
 
-🔁 Misma obra con edición/año distinto:
+de Castro, M. G. (2018). La ficción televisiva popular: una evolución de las series de televisión en
+España. Editorial Gedisa
+
+✅ Recursos añadidos (2):
 ------------------------------
-Cuadrado,   M.   (2001).   La   gestión  de  marketing  en  las  entidades  escénicas.  Una  evidencia  empírica.
-Dirección   y   Organización,   (25).   de   Castro,   M.   G.   (2018).   La  ficción  televisiva  popular:  una
-evolución   de   las   series   de   televisión  en  España.  Editorial  Gedisa  →  de  Castro,  M.  G.  (2018).  La
-ficción televisiva popular: una evolución de las series de televisión en España. Editorial Gedisa
-
-Kotler,   P.   Y   Keller,   K.   (2016):  Dirección  de  Marketing.  15  Ed.  Prentice-Hall,  Madrid  López,  I.,
-López,   M.,   Sicilia,   M.,   y   Palazón,   M.   (2021).   Marketing  en  redes  sociales.  ESIC  →  López,  I.,
-López, M., Sicilia, M., y Palazón, M. (2021). Marketing en redes sociales. ESIC
-
-✅ Recursos añadidos:
-------------------------------
-Cuadrado,   M.   (2001).   La   gestión  de  marketing  en  las  entidades  escénicas.  Una  evidencia  empírica.
-Dirección y Organización, (25)
-
 Kotler, P. Y Keller, K. (2016): Dirección de Marketing. 15 Ed. Prentice-Hall, Madrid
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+López, I., López, M., Sicilia, M., y Palazón, M. (2021). Marketing en redes sociales. ESIC
+
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

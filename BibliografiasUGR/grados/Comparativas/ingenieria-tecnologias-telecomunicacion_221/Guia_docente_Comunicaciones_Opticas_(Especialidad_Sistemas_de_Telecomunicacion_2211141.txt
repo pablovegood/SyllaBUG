@@ -2,11 +2,11 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Editorial UPV, 2002 Rodríguez, A., Comunicaciones Ópticas. Biblioteca Técnica Universitaria. 2005
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Agrawal, G. P. Lightwave Technology. Telecommunication Systems. Wiley, 2005
 
@@ -21,13 +21,8 @@ Saleh B.E.A. Fundamentals of photonics. Wiley, 1991
 
 Senior, J.M. Optical Fiber Communications. Prentice Hall, 1992
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Editorial   UPV,  2002  Rodríguez,  A.,  Comunicaciones  Ópticas.  Biblioteca  Técnica  Universitaria.  2005  →
 Rodríguez, A., Comunicaciones Ópticas. Biblioteca Técnica Universitaria. 2005
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

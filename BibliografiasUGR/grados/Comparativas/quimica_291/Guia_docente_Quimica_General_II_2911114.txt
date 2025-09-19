@@ -2,14 +2,17 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
-Atkins,   P.,   Jones,  L.  Principios  de  Química.  Los  caminos  del  descubrimiento.  5ª  Edición.  Editorial
-Médica Panamericana. 2012
+BIBLIOGRAFIA   FUNDAMENTAL   DE   PROBLEMAS:   Lopez   Cancio,   J.   A.,   Vera  Castellano,  A.  Problemas  de
+Química. Cuestiones y Ejercícios. Editorial Pearson España. 2010
+
+BIBLIOGRAFIA   FUNDAMENTAL   DE   TEORIA:   Atkins,  P.,  Jones,  L.  Principios  de  Química.  Los  caminos  del
+descubrimiento. 5ª Edición. Editorial Médica Panamericana. 2012
 
 Chang, R., Goldsby K.A., Química. 11ª- Edicion. Editorial McGraw-Hill Educación, 2015
 
@@ -20,9 +23,6 @@ Fernández, M.R., Fidalgo, J.A. 1000 Problemas de Química General. Editorial Ev
 Levine, Ira N. Principios de Fisicoquímica. 6ª- Edición. Editorial McGraw Hill Education, 2014
 
 Levine, Ira N. Problemas de Fisicoquímica. Editorial McGraw Hill, 2005
-
-Lopez   Cancio,   J.   A.,  Vera  Castellano,  A.  Problemas  de  Química.  Cuestiones  y  Ejercícios.  Editorial
-Pearson España. 2010
 
 Peterson, W.R. Nomenclatura de las sustancias químicas. 4ª edición. Editorial Reverte, 2016
 
@@ -35,14 +35,12 @@ Reboiras, M. D. Problemas Resueltos de Química: la Ciencia Básica. Editorial T
 
 Rosenberg, J., Epstein, L., y Krieger, P. Química. Ed. McGraw Hill, 2014
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+Atkins,   P.,   Jones,  L.  Principios  de  Química.  Los  caminos  del  descubrimiento.  5ª  Edición.  Editorial
+Médica Panamericana. 2012
 
-✅ Recursos añadidos:
-------------------------------
-BIBLIOGRAFIA FUNDAMENTAL DE PROBLEMAS
-
-BIBLIOGRAFIA FUNDAMENTAL DE TEORIA
+Lopez   Cancio,   J.   A.,  Vera  Castellano,  A.  Problemas  de  Química.  Cuestiones  y  Ejercícios.  Editorial
+Pearson España. 2010
 
 📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

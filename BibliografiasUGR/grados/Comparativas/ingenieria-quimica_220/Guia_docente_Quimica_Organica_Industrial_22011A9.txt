@@ -2,11 +2,11 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 J. Clayden, N.Greeves, S. Warren, P. Wothers. “Organic Chemistry” 1st Edition. Ed. Oxford University
 Press. 2001
@@ -16,11 +16,7 @@ Organotransition Metal Chemistry”, Ed. University Science Books
 
 K. Weissermel, H. J. Arpe. “Química Orgánica Industrial” 3rd Edition. Ed. Wiley. 1997
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

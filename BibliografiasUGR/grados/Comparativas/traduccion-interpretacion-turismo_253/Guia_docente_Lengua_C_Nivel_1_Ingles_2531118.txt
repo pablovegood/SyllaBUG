@@ -2,11 +2,26 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+DICCIONARIOS   Cambridge   Idioms   Dictionary  (2006)  Cambridge  Phrasal  Verbs  Dictionary  (2006)  Collins
+Cobuild Advanced Learner’s English Dictionary. New Edition (2003) Collins Master Dictionary Español-
+Inglés, English-Spanish (2002) Gran Diccionario Oxford Español-Inglés, Inglés-Español (2003) Longman
+Dictionary of Contemporary English Oxford Advanced Learner’s Dictionary (2010)
 
-📚 Recursos sin cambios:
+Lectura obligatoria del curso. Wuthering Heights (1847), de Emily Brontë. Se especificará la edición
+al comienzo del curso
+
+McCARTHY,   M.   &   O’DELL,   F.   (2017).   English   Collocations   in   Use:  Intermediate.  Cambridge:  CUP
+McCARTHY, M. & O’DELL, F. (2017). English Vocabulary in Use: Intermediate. Cambridge: CUP MÖLLER, J.
+(2001). Necesidades Lingü.sticas de un Traductor-Intérprete. Granada, Spain: Alhuila
+
+REVELLES-BENAVENTE,   B.   (2019).   Pensamiento   crítico   afectivo:   Innovación  docente  en  la  clase  de
+traducción   a   través   de   la   literatura   contemporánea  en  habla  inglesa.  En  Sola  et  al,  Innovación
+Educativa   en   la  Sociedad  digital.  Dykinson,  1781  -  1791  ROJO,  A.  (2009).  Step  by  Step.  A  course  in
+Contrastive Linguistics and Translation. Oxford, UK: Peter Lang
+
+📚 Recursos sin cambios (6):
 ------------------------------
 Day,   J.,   Rees,   G.   (2019).   Macmillan  English  Hub  B1+/B2.  Student’s  book  and  workbook  pack.  ISBN:
 9781380034588
@@ -22,32 +37,13 @@ SWAN, M. (1995). Practical English Usage. New edition, Oxford
 
 VINCE, M. (2003). Intermediate Language Practice. English grammar and vocabulary. MacMillan
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-DICCIONARIOS   Cambridge   Idioms   Dictionary  (2006)  Cambridge  Phrasal  Verbs  Dictionary  (2006)  Collins
-Cobuild Advanced Learner’s English Dictionary. New Edition (2003) Collins Master Dictionary Español-
-Inglés, English-Spanish (2002) Gran Diccionario Oxford Español-Inglés, Inglés-Español (2003) Longman
-Dictionary   of   Contemporary   English   Oxford  Advanced  Learner’s  Dictionary  (2010)  →  Collins  Cobuild
-Advanced Learner’s English Dictionary. New Edition (2003)
-
-McCARTHY,   M.   &   O’DELL,   F.   (2017).   English   Collocations   in   Use:  Intermediate.  Cambridge:  CUP
-McCARTHY, M. & O’DELL, F. (2017). English Vocabulary in Use: Intermediate. Cambridge: CUP MÖLLER, J.
-(2001).   Necesidades   Lingü.sticas   de   un   Traductor-Intérprete.   Granada,   Spain  →  McCARTHY,  M.  &
-O’DELL, F. (2017). English Collocations in Use: Intermediate. Cambridge: CUP
-
-REVELLES-BENAVENTE,   B.   (2019).   Pensamiento   crítico   afectivo:   Innovación  docente  en  la  clase  de
-traducción   a   través   de   la   literatura   contemporánea  en  habla  inglesa.  En  Sola  et  al,  Innovación
-Educativa   en   la  Sociedad  digital.  Dykinson,  1781  -  1791  ROJO,  A.  (2009).  Step  by  Step.  A  course  in
-Contrastive   Linguistics   and   Translation.   Oxford,  UK  →  REVELLES-BENAVENTE,  B.  (2019).  Pensamiento
-crítico   afectivo:   Innovación   docente   en   la   clase   de   traducción   a   través   de   la  literatura
-contemporánea   en   habla   inglesa.   En   Sola   et   al,   Innovación   Educativa  en  la  Sociedad  digital.
-Dykinson, 1781 - 1791
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (17):
 ------------------------------
 Cambridge Idioms Dictionary (2006)
 
 Cambridge Phrasal Verbs Dictionary (2006)
+
+Collins Cobuild Advanced Learner’s English Dictionary. New Edition (2003)
 
 Collins Master Dictionary Español-Inglés, English-Spanish (2002)
 
@@ -67,6 +63,8 @@ Lectura obligatoria a especificar al comienzo del curso
 
 Longman Dictionary of Contemporary English
 
+McCARTHY, M. & O’DELL, F. (2017). English Collocations in Use: Intermediate. Cambridge: CUP
+
 McCARTHY, M. & O’DELL, F. (2017). English Vocabulary in Use: Intermediate. Cambridge: CUP
 
 MÖLLER, J. (2001). Necesidades Lingü.sticas de un Traductor-Intérprete. Granada, Spain: Alhuila
@@ -77,7 +75,11 @@ Amsterdam, Rodoppi, 1991, ISBN 90-5183-311-3
 
 Oxford Advanced Learner’s Dictionary (2010)
 
+REVELLES-BENAVENTE,   B.   (2019).   Pensamiento   crítico   afectivo:   Innovación  docente  en  la  clase  de
+traducción   a   través   de   la   literatura   contemporánea  en  habla  inglesa.  En  Sola  et  al,  Innovación
+Educativa en la Sociedad digital. Dykinson, 1781 - 1791
+
 ROJO,   A.   (2009).   Step   by   Step.  A  course  in  Contrastive  Linguistics  and  Translation.  Oxford,  UK:
 Peter Lang
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 91% [█████████░]

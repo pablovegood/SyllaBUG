@@ -2,11 +2,11 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (29):
 ------------------------------
 ALCOVER, C. Mª. (2019): Empleo sostenible, Díaz de Santos
 
@@ -55,7 +55,7 @@ Valencia
 
 MIGUELEZ, F. y PRIETO, C. (Coord.) (1999): Las relaciones de empleo en España, Siglo XXI
 
-PRIOR, J. C. y MARTÍNEZ, R. (Coord.) (2005): El trabajo en el Siglo XXI, Comares
+PRIOR, J. C. y MARTÍNEZ, R. (Coords) (2005): El trabajo en el Siglo XXI, Comares
 
 PRIOR,   J.C.  y  MARTÍNEZ,  R.  (2013):  Reflexiones  sobre  el  trabajo  en  la  sociedad  actual:  nuevos  retos
 & nuevas realidades, Cívitas, Pamplona
@@ -76,11 +76,7 @@ STANDING, G. (2014): El Precariado. Una nueva clase social, Pasado y Presente
 
 SUZMAN, J. (2020): Trabajo. Una historia de cómo empleamos el tiempo, Debate
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

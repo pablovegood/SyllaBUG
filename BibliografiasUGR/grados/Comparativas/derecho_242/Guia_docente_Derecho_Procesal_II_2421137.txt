@@ -2,17 +2,20 @@
 Grado: derecho (242)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 Asencio Mellado, J.M.(dir), Derecho Procesal penal, Tirant Lo Blanch, Valencia
 
+Asencio Mellado, JM. Derecho Procesal Civil, Tirant lo Blanch. Valencia
+
 Cortés Domínguez, V., Moreno Catena, V. Derecho Procesal Civil. Tirant Lo Blanch. Valencia
 
-Cortés Domínguez, V., Moreno Catena, V., Derecho Procesal Penal. Tirant Lo Blanch. Valencia
+Cortés   Domínguez,  V.,  Moreno  Catena,  V.,  Derecho  Procesal  Penal.  Tirant  Lo  Blanch.  Valencia;  Gimeno
+Sendra, V.: Manual de Derecho Procesal Penal. Barcelona
 
 De   la   Oliva   Santos,   A.,   Diez-Picazo   Giménez,   I.,   Vegas  Torres,  J.,  y  otros.  Curso  de  Derecho
 Procesal Civil I. Parte general, Centro de Estudios Ramón Areces, Madrid
@@ -20,13 +23,12 @@ Procesal Civil I. Parte general, Centro de Estudios Ramón Areces, Madrid
 De   la   Oliva   Santos,   A.,   Diez-Picazo   Giménez,   I.,   Vegas  Torres,  J.,  y  otros.  Curso  de  Derecho
 Procesal Civil II. Parte especial, Madrid, Centro de Estudios Ramón Areces, Madrid
 
-Derecho procesal civil Armenta Deu, T: Lecciones de Derecho Procesal Civil, Marcial Pons. Madrid
-
 Derecho procesal penal Armenta Deu, T. Lecciones de Derecho Procesal Penal. Marcial Pons, Madrid
 
-Elías Baturones, J.J. La ejecución civil (teórica y práctica). Astigi [Ed.]. Sevilla
+El   profesorado  responsable  indicará  en  su  guía  didáctica  la  bibliografía  complementaria  de  cada  uno
+de los temas de la asignatura
 
-Gimeno Sendra, V.: Manual de Derecho Procesal Penal. Barcelona
+Elías Baturones, J.J. La ejecución civil (teórica y práctica). Astigi [Ed.]. Sevilla
 
 González García, S.: Lecciones de Derecho Procesal, Comares, Granada
 
@@ -39,9 +41,11 @@ Montero   Aroca,   J.,   Gómez   Colomer,   J.L.,   Barona   Vilar,   S.,   Cal
 Jurisdiccional II, Proceso Civil. Tirant lo Blanch, Valencia
 
 Montero Aroca, J., Gómez Colomer, J.L., Esparza Leibar, Iñaki., Barona Vilar, S., Etxeberria Guridi,
-José Francisco. Derecho Jurisdiccional III, Proceso Penal
+José Francisco. Derecho Jurisdiccional III, Proceso Penal. Tirant lo Blanch. Valencia
 
 Ortells Ramos, M., y otros. Derecho Procesal Civil, Pamplona
+
+Rifá Soler, J.Mª, Richard González, M. El proceso penal práctico. Madrid
 
 Robles Garzón, J.A., y otros. Conceptos básicos de Derecho Procesal Civil, Madrid
 
@@ -49,17 +53,18 @@ Tomé García, J.. Curso de Derecho Procesal Penal. Madrid
 
 Torres Rosell, N.: Las medidas cautelares. Madrid
 
-Última edición de los siguientes manuales
+Varios, Materiales para el estudio del Derecho. “iustel.com
 
-🔁 Misma obra con edición/año distinto:
+Varios, Materiales para el estudio del Derecho. “iustel.com”
+
+Última   edición   de   los   siguientes   manuales:   Derecho  procesal  civil  Armenta  Deu,  T:  Lecciones  de
+Derecho Procesal Civil, Marcial Pons. Madrid
+
+✅ Recursos añadidos (6):
 ------------------------------
-No hubo cambios de edición/año.
+Armenta Deu, T: Lecciones de Derecho Procesal Civil, Marcial Pons. Madrid
 
-✅ Recursos añadidos:
-------------------------------
-Armenta Deu, T. Lecciones de Derecho Procesal Penal. Marcial Pons, Madrid
-
-Asencio Mellado, JM. Derecho Procesal Civil, Tirant lo Blanch. Valencia
+Cortés Domínguez, V., Moreno Catena, V., Derecho Procesal Penal. Tirant Lo Blanch. Valencia
 
 Derecho   procesal   civil   Armenta  Deu,  T:  Lecciones  de  Derecho  Procesal  Civil,  Marcial  Pons.  Madrid.
 Asencio   Mellado,   JM.   Derecho   Procesal   Civil,   Tirant  lo  Blanch.  Valencia.  Cortés  Domínguez,  V.,
@@ -86,16 +91,9 @@ Francisco.   Derecho   Jurisdiccional  III,  Proceso  Penal.  Tirant  lo  Blanch
 Curso   de   Derecho   Procesal   Penal.  Madrid.  Rifá  Soler,  J.Mª,  Richard  González,  M.  El  proceso  penal
 práctico. Madrid. Varios, Materiales para el estudio del Derecho. “iustel.com
 
-El   profesorado  responsable  indicará  en  su  guía  didáctica  la  bibliografía  complementaria  de  cada  uno
-de los temas de la asignatura
-
 Etxeberria   Guridi,   José   Francisco.   Derecho   Jurisdiccional  III,  Proceso  Penal.  Tirant  lo  Blanch.
 Valencia
 
-Rifá Soler, J.Mª, Richard González, M. El proceso penal práctico. Madrid
+Última edición de los siguientes manuales
 
-Varios, Materiales para el estudio del Derecho. “iustel.com
-
-Varios, Materiales para el estudio del Derecho. “iustel.com”
-
-📊 Porcentaje estimado de cambio: 47% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

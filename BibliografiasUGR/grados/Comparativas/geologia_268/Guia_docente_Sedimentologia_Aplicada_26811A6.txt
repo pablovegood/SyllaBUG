@@ -2,17 +2,27 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Larsen, G. y Chilingar, G.V. eds, (1983). Diagenesis in sediments and sedimentary rocks
 
-📚 Recursos sin cambios:
+Ricci-Lucchi, F. (1980).Sedimentologia. C.L.U.E.B. 3vol., 226, 222 y 545pp Scholle, P.A. y Spearing,
+D. eds. (1982). Sanstone Depositional Environments. AAPG Memoir 31, 410pp
+
+Tessier,   B.,   Renaud,   J-Y.   (2016)   Contributions   to   modern   and   ancient   tidal   sedimentology:
+proceedings   of   the   Tidalites   2012   Conference,   Special  Publication  IAS,  47,  627  pp  Tucker,  M.E.
+(1985). Sedimentary Petrology: An introduction. Blackwell, Oxford, 252pp
+
+📚 Recursos sin cambios (36):
 ------------------------------
 Allen, J.R.L. (1970). Physical processes of sedimentation. Allen and Unwin, London, 248pp
 
 Allen, J.R.L. (1985). Priciples of Physical Sedimentology. Allen and Unwin, London, 272pp
 
 Arche, A. ed. (1989). Sedimentología. C.S.I.C. Nuevas Tendencias, 2 vol., 1067pp
+
+Ashworth,   P.J.,   Best,   J.L.,   Parsons,   D.R.   (2015)   Fluvial-Tidal  Sedimentology,  Developments  in
+Sedimentology, 68. Elsevier, 634 pp
 
 Dabrio, C.J. y Hernando, S. (2003). Estratigrafía. Colección Geociencias. Univ. Complutense, Madrid,
 382pp
@@ -24,8 +34,8 @@ pp
 
 Davis, R.A., Darlrymple, R.W. (Editores) (2012) Principles of tidal Sedimentology, Springer 621 pp
 
-Doyle,    L.J.    y    Roberts,   H.H.   eds.   (1988).   Carbonate-Clastic   Transitions.   Developments   in
-Sedimentology 42, Elsevier, Ámsterdam, 304pp
+Developments   in   Sedimentology,   68.   Elsevier,   634  pp  Brencheley,  P.J.  y  Williams,  B.P.J.  (1985).
+Sedimentology. Recent Developments and Applied Aspects. Blackwell, Oxford, 342pp
 
 Einsele,   G.   (1992).   Sedimentary   basins.   Evolution,  facies  and  sediment  budget.  Springer-Verlag,
 Berlin, 628pp
@@ -36,7 +46,7 @@ Fairbridge,   R.W.   y  Bourgeois,  J.  eds.  (1978).  The  encyclopedia  of  Se
 and Ross, Strodsburg, 901pp
 
 Fisher,   J.H.   ed.   (1977).Reefs   and   Evaporites:  Concepts  and  Depositional  Models.  AAPG  Studies  in
-Geology 5
+Geology 5, Tulsa, 196pp
 
 Friedman,   G.M.  y  Sanders,  J.E.  (1978).  Principles  of  Sedimentology.  John  Willey  and  Sons,  New  York,
 792pp
@@ -82,6 +92,9 @@ Selley, R.C. (1985). Ancient Sedimentary Environments. Chapman and Hall, London,
 
 Selley, R.C. (2000). Applied Sedimentology. Academic Press, London, 523pp
 
+Springer,    621   pp   Doyle,   L.J.   y   Roberts,   H.H.   eds.   (1988).   Carbonate-Clastic   Transitions.
+Developments in Sedimentology 42, Elsevier, Ámsterdam, 304pp
+
 Tucker, M.E. (1981). Tecniques in Sedimentology. Blackwell, Oxford, 394pp
 
 Tucker, M.E. y Wright, V.P. (1990). Carbonate Sedimentology. Blackwell, Oxford, 482pp
@@ -92,37 +105,20 @@ Warren, J.K. (1989). Evaporite Sedimentology. Prentice Hall,Englewood Cliffs, 30
 
 Wilson, J.L. (1975). Carbonate Facies in Geologic History. Springer-Verlag, Berlin, 471pp
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Ashworth,   P.J.,   Best,   J.L.,   Parsons,   D.R.   (2015)   Fluvial-Tidal  Sedimentology,  Developments  in
-Sedimentology,   68.   Elsevier,   634   pp   Brencheley,   P.J.  y  Williams,  B.P.J.  (1985).  Sedimentology.
-Recent   Developments   and   Applied   Aspects.   Blackwell,  Oxford,  342pp  →  Ashworth,  P.J.,  Best,  J.L.,
-Parsons,   D.R.   (2015)  Fluvial-Tidal  Sedimentology,  Developments  in  Sedimentology,  68.  Elsevier,  634
-pp
-
-Larsen,   G.   y   Chilingar,   G.V.  eds.(1979).  Diagenesis  in  sediments  and  sedimentary  rocks  →  Larsen,
-G.   y   Chilingar,   G.V.   eds,  (1983).  Diagenesis  in  sediments  and  sedimentary  rocks.  Developments  in
-Sedimentology 25B, Elsevier, Amsterdam, 572pp
-
-Tessier,   B.,   Renaud,   J-Y.   (2016)   Contributions   to   modern   and   ancient   tidal   sedimentology:
-proceedings   of   the   Tidalites   2012   Conference,   Special  Publication  IAS,  47,  627  pp  Tucker,  M.E.
-(1985).   Sedimentary   Petrology:   An   introduction.   Blackwell,  Oxford,  252pp  →  Tessier,  B.,  Renaud,
-J-Y.   (2016)   Contributions   to  modern  and  ancient  tidal  sedimentology:  proceedings  of  the  Tidalites
-2012 Conference, Special Publication IAS, 47, 627 pp
-
-Ricci-Lucchi, F. (1980).Sedimentologia. C.L.U.E.B. 3vol., 226, 222 y 545pp Scholle, P.A. y Spearing,
-D.   eds.   (1982).   Sanstone   Depositional   Environments.   AAPG   Memoir   31,   410pp  →  Scholle,  P.A.  y
-Spearing, D. eds. (1982). Sanstone Depositional Environments. AAPG Memoir 31, 410pp
-
-✅ Recursos añadidos:
-------------------------------
-Brencheley,   P.J.  y  Williams,  B.P.J.  (1985).  Sedimentology.  Recent  Developments  and  Applied  Aspects.
-Blackwell, Oxford, 342pp
+Larsen, G. y Chilingar, G.V. eds.(1979). Diagenesis in sediments and sedimentary rocks. Developments
+in Sedimentology 25A, Elsevier, Amsterdam, 579pp
 
 Ricci-Lucchi, F. (1980).Sedimentologia. C.L.U.E.B. 3vol., 226, 222 y 545pp
+
+Scholle, P.A. y Spearing, D. eds. (1982). Sanstone Depositional Environments. AAPG Memoir 31, 410pp
+
+Tessier,   B.,   Renaud,   J-Y.   (2016)   Contributions   to   modern   and   ancient   tidal   sedimentology:
+proceedings of the Tidalites 2012 Conference, Special Publication IAS, 47, 627 pp
 
 Tucker, M.E. (1985). Sedimentary Petrology: An introduction. Blackwell, Oxford, 252pp
 
 Tulsa, 196pp
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

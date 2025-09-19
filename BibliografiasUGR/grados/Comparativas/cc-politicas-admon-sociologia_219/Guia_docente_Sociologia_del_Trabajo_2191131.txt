@@ -2,11 +2,11 @@
 Grado: cc-politicas-admon-sociologia (219)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (35):
 ------------------------------
 ALCOVER, C. M. (2019): Empleo sostenible, Ed. Díaz de Santos
 
@@ -54,8 +54,6 @@ LUCAS, A. Y P. GARCÍA (2002): Sociología de las organizaciones, Mc Graw Hill, 
 
 LÓPEZ PINTOR, R. (1995): Sociología Industrial, Alianza, Madrid
 
-MARTÍNEZ, R. (2002): La inserción laboral de los universitarios, Universidad de Granada
-
 MARTÍNEZ,   R.;   BARROS,   F.;  LOZANO,  A.M  y  RAMOS,  Mª.  M.  (2023):  Perspectivas  sobre  el  trabajo  en  la
 sociedad   actual:   mercado   laboral,   globalización   y   tecnologías   de   la   información,  Ed.  Tirant
 humanidades, Valencia
@@ -88,16 +86,14 @@ SENNETT, R. (2006): La corrosión del carácter, Anagrama
 
 ZEIGLER, K. (2024): Organizarse en el trabajo. Profit
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 ANDERSON, E. (2025): Un trabajo de hombres, Nuevos Tiempos
 
 ESTEBAN, J. (2025): Algoritmos, renuncias y otros mitos del empleo, Plataforma Editorial
 
+MARTÍNEZ, R. (2002): La inserción laboral de los universitarios, Universidad de Granada
+
 VV.AA (2025): Inteligencia artificial para optimizar procesos de trabajo, Anaya
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

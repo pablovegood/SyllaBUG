@@ -2,11 +2,62 @@
 Grado: educacion-social-ceuta (414)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (13):
 ------------------------------
-No hay elementos.
+403-422,   http://revistas.um.es/educatio/index   Venegas,   M.   y   Fernández   Palomares,  F.  (eds.).  La
+sociología    del    profesorado   hoy.   Debates   y   líneas   de   investigación   desde   una   perspectiva
+internacional,   Revista   de  la  Asociación  de  Sociología  de  la  Educación  (ASE),  Volumen:  5,  Número:  3
+(septiembre   2012),  http://www.ase.es  Venegas,  M.  (2013).  Sex  and  relationships  education  and  gender
+equality: recent experiences from Andalusia (Spain), Sex Education: Sexuality, Society and Learning,
+DOI:10.1080/14681811.2013.778823   Venegas,  M.  (2013).  Amor,  sexualidad  y  adolescencia.  Sociología  de
+las relaciones afectivosexuales. Granada: Editorial Comares
 
-📚 Recursos sin cambios:
+Casas,   F.   (2006).   Infancia   y   representaciones  sociales.  Política  y  Sociedad,  vol.  43,  nº  1  (pp.
+27-42) Connell, R.W. (1997). Escuelas y justicia social. Madrid: Morata
+
+De   Pablos  Ramírez,  J.C.  (1997).  El  papel  del  profesor  en  una  sociedad  en  cambio.  Granada:  Dubet,  F.
+(2006),   “El  declive  de  la  institución.  Profesiones,  sujetos  e  individuos  en  la  modernidad”,  Gedisa,
+Barcelona
+
+Dávila,   O.   (2004).   Adolescencia  y  juventud:  de  las  nociones  a  los  abordajes.  Última  Década,  nº  21
+(pp. 83-104) Delval, J. (2000), “Aprender en la vida y en la escuela”, Morata, Madrid
+
+Elzo,   J.   (2005)   “Un   contrato   social  para  una  familia  educadora”,  Educación  y  futuro:  revista  de
+investigación   aplicada   y  experiencias  educativas,  ISSN  1576-5199,  Nº.  12,  2005  ,  pp.  151-160  Elzo,
+J. (2008). La voz de los adolescentes. Madrid: PPC
+
+Enguita   Fernández,   M.   (2009).   El  anti-Cándido:  todo  va  mal,  pero  irá  a  peor.  Papeles  de  Economía
+Española,   nº119   (   pp.   59-68)  Fernández  Enguita,  M.  y  otros  (2010).  Fracaso  y  abandono  escolar  en
+España. Barcelona: Fundación “La Caixa”
+
+Grass,   A.   (1977).   Sociología   de  la  Educación.  Textos  fundamentales.  Madrid:  Nancea  Gil  del  Pino,
+M.C. (2005). Convivir en la diversidad. Una propuesta de integración social desde la escuela. Alcalá
+de Guadaira: Eduforma
+
+Pérez-Díaz,   V;   Rodríguez,   J.C;   Fernández,   J.J.  (2009).  Educación  y  Familia.  Papeles  de  Economía
+Española,   nº119  (pp.  36-57)  Pérez  Gómez,  A.  y  otros  (2007).  Profesorado  y  otros  profesionales  de  la
+educación. Barcelona: Octaedro
+
+Trinidad   Requena,   A.   y   Fernández   Castaño,   F.   (2016)   La   Educación.   En   La  Sociedad  desde  la
+Sociología.   Una   Introducción   a  la  Sociología  General  /  coord.  por  Iglesias  de  Ussel,  J.;  Trinidad
+Requena,   A.   y   Soriano   Miras,   R.   Madrid,   Tecnos  Van  Haecht,  A.  (1999).  La  escuela  va  a  examen.
+Preguntas a la sociología de la educación
+
+Venegas,   M.   (2010).   La  maldición  de  ser  niña.  Estructuralismo,  postestructuralismo  y  teoría  de  la
+práctica    en    género    y    sexualidad.    Papers.    Revista   de   Sociología.   95/1   139-156,   2010,
+http://www.raco.cat/index.php/Papers    Venegas,    M.    “Sociología    y   formación   del   profesorado:
+aportaciones   y   balance   en   el   nuevo   paradigma   universitario”.  Educatio  Siglo  XXI,  Volumen:  30,
+Número: 2 (2012), pp
+
+Viñao,   A.   (2002).   Sistemas  educativos,  culturas  escolares  y  reformas.  Madrid:  Morata  Whitty,  G.  y
+otros (1999). La escuela, el estado y el mercado. Madrid: Morata
+
+Willis,   P.   (1987).   Aprendiendo   a  trabajar.  Madrid:  Akal  Zeichner,  K.  M.  (2010).  La  formación  del
+profesorado y la lucha por la justicia social. Madrid: Morata
+
+https://ojs.uv.es/index.php/RASE/article/view/17246/15406
+
+📚 Recursos sin cambios (114):
 ------------------------------
 Alvarez-Uría,   F.   y  Varela,  J.  (2009).  Sociología  de  las  instituciones.  Bases  sociales  y  culturales
 de la conducta. Madrid. Morata
@@ -77,13 +128,7 @@ un Instituto de Enseñanza Secundaria. Gijón: Ayuntamiento de Gijón
 
 Coulon, A. (1995). Etnometodología y educación. Madrid: Paidós
 
-De   Pablos  Ramírez,  J.C.  (1997).  El  papel  del  profesor  en  una  sociedad  en  cambio.  Granada:  Editorial
-Universidad de Granada
-
 Dubet, F. (2005). La escuela de las oportunidades ¿Qué es una escuela justa? Barcelona: Gedisa
-
-Dubet,   F.   (2006),   “El   declive   de   la   institución.   Profesiones,   sujetos   e   individuos   en  la
-modernidad”, Gedisa, Barcelona
 
 Dubet,   F.   y   Martuccelli,   D.   (1998).  En  la  escuela.  Sociología  de  la  experiencia  escolar.  Buenos
 Aires: Losada
@@ -222,9 +267,12 @@ Martín Criado, E. (1998). Producir la Juventud. Madrid: Istmo
 Martín,   E.,   Gómez.   C.,   Fernández,   F  y  Rodríguez,  A.  (2000).  Familias  de  clase  obrera  y  escuela.
 Donosita: Iralka
 
-Martín-Lagos   López,   M.D.;   Luque   Suárez,   M.   (2018).  ¿Reparto  de  roles  de  los  progenitores  en  la
-educación   de   sus   hijos?   En   Venegas,   Chacón   y   Fernández  (dir.).  De  la  igualdad  de  género  a  la
-igualdad sexual y de género: Reflexiones educativas y sociales. Ed. Dykinson
+Martín-Lagos   López,   M.D.   (2018).  Educación  y  desigualdad.  Una  metasíntesis  tras  el  50  aniversario
+del   Informe  Coleman.  Revista  de  educación,  nº380,  pp.  186-209.  https://www  .mecd.gob.es/revista-de-
+educacion/numeros-revista-educacion/numerosanteriores/2018/380/377_7.html   Martín-Lagos  López,  M.D.;
+Luque   Suárez,   M.   (2018).   ¿Reparto   de  roles  de  los  progenitores  en  la  educación  de  sus  hijos?  En
+Venegas,   Chacón   y   Fernández   (dir.).   De   la  igualdad  de  género  a  la  igualdad  sexual  y  de  género:
+Reflexiones educativas y sociales. Ed. Dykinson
 
 Martínez,   J.S.   (2007).   Clase  social,  género  y  desigualdad  de  oportunidades  educativas.  Revista  de
 Educación, 342 (pp. 287-306)
@@ -250,6 +298,9 @@ Núñez,   L.,   Gómez,   S.   y   T.   Vázquez  (2007).  La  audiencia  infan
 Pandora Mirabilia (2011). La coeducación en la escuela del siglo XXI. Madrid: Libros de la catarata
 
 Pastor Ramos, G. (2002). La familia en España: sociología de un cambio. Salamanca: Sígueme
+
+Perrenoud,   P.   (2006),   El   oficio   de   alumno   y  el  sentido  del  trabajo  escolar,  Madrid:  Editorial
+Popular
 
 Perrenoud,   P.   (2006).   El   oficio   de   alumno   y  el  sentido  del  trabajo  escolar.  Madrid:  Editorial
 Popular
@@ -279,10 +330,6 @@ Torres, J. (1991). El currículum oculto. Madrid: Morata
 
 Torres, J. (2010). La justicia curricular. Madrid: Morata
 
-Trinidad   Requena,   A.   y   Fernández   Castaño,   F.   (2016)   La   Educación.   En   La  Sociedad  desde  la
-Sociología.   Una   Introducción   a  la  Sociología  General  /  coord.  por  Iglesias  de  Ussel,  J.;  Trinidad
-Requena, A. y Soriano Miras, R. Madrid, Tecnos
-
 Trinidad,   A.;   Fernández,   F.;   Bejarano,  J.F  y  Santiago,  M.  J.  (ed.)  (2021).  La  educación  desde  la
 sociología. Comunidad, familia y escuela. Madrid: Tecnos
 
@@ -303,70 +350,31 @@ Vygotsky, L. S. (1978). Pensamiento y lenguaje. Madrid: Paidós
 Whitty,   G.   (2001).   Teoría   social   y   política   educativa.  Ensayos  de  sociología  y  política  de  la
 educación. Barcelona: Pomares
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Grass,   A.   (1977).   Sociología   de  la  Educación.  Textos  fundamentales.  Madrid:  Nancea  Gil  del  Pino,
-M.C. (2005). Convivir en la diversidad. Una propuesta de integración social desde la escuela. Alcalá
-de   Guadaira:   Eduforma   →   Grass,   A.   (1977).   Sociología   de   la  Educación.  Textos  fundamentales.
-Madrid: Nancea
-
-Willis,   P.   (1987).   Aprendiendo   a  trabajar.  Madrid:  Akal  Zeichner,  K.  M.  (2010).  La  formación  del
-profesorado   y   la   lucha   por  la  justicia  social.  Madrid:  Morata  →  Willis,  P.  (1987).  Aprendiendo  a
-trabajar. Madrid: Akal
-
-Viñao,   A.   (2002).   Sistemas  educativos,  culturas  escolares  y  reformas.  Madrid:  Morata  Whitty,  G.  y
-otros   (1999).   La   escuela,   el   estado   y   el  mercado.  Madrid:  Morata  →  Viñao,  A.  (2002).  Sistemas
-educativos, culturas escolares y reformas. Madrid: Morata
-
-Dávila,   O.   (2004).   Adolescencia  y  juventud:  de  las  nociones  a  los  abordajes.  Última  Década,  nº  21
-(pp.   83-104)   Delval,  J.  (2000),  “Aprender  en  la  vida  y  en  la  escuela”,  Morata,  Madrid  →  Delval,  J.
-(2000), “Aprender en la vida y en la escuela”, Morata, Madrid
-
-Enguita   Fernández,   M.   (2009).   El  anti-Cándido:  todo  va  mal,  pero  irá  a  peor.  Papeles  de  Economía
-Española,   nº119   (   pp.   59-68)  Fernández  Enguita,  M.  y  otros  (2010).  Fracaso  y  abandono  escolar  en
-España.   Barcelona   →   Enguita   Fernández,  M.  (2009).  El  anti-Cándido:  todo  va  mal,  pero  irá  a  peor.
-Papeles de Economía Española, nº119 ( pp. 59-68)
-
-Casas,   F.   (2006).   Infancia   y   representaciones  sociales.  Política  y  Sociedad,  vol.  43,  nº  1  (pp.
-27-42)   Connell,   R.W.   (1997).   Escuelas   y  justicia  social.  Madrid:  Morata  →  Connell,  R.W.  (1997).
-Escuelas y justicia social. Madrid: Morata
-
-Pérez-Díaz,   V;   Rodríguez,   J.C;   Fernández,   J.J.  (2009).  Educación  y  Familia.  Papeles  de  Economía
-Española,   nº119  (pp.  36-57)  Pérez  Gómez,  A.  y  otros  (2007).  Profesorado  y  otros  profesionales  de  la
-educación.   Barcelona:   Octaedro  →  Pérez  Gómez,  A.  y  otros  (2007).  Profesorado  y  otros  profesionales
-de la educación. Barcelona: Octaedro
-
-Venegas, M. y Fernández Palomares, F. (eds.). La sociología del profesorado hoy. Debates y líneas de
-investigación   desde   una   perspectiva   internacional,   Revista  de  la  Asociación  de  Sociología  de  la
-Educación   (ASE),  Volumen:  5,  Número:  3  (septiembre  2012),  Venegas,  M.  (2013).  Sex  and  relationships
-education   and  gender  equality:  recent  experiences  from  Andalusia  (Spain),  Sex  Education:  Sexuality,
-Society   and   Learning,   DOI:10.1080/14681811.2013.778823   Venegas,   M.   (2013).   Amor,  sexualidad  y
-adolescencia.   Sociología   de  las  relaciones  afectivosexuales.  Granada:  Editorial  Comares  →  Venegas,
-M.   (2013).   Sex   and  relationships  education  and  gender  equality:  recent  experiences  from  Andalusia
-(Spain), Sex Education: Sexuality, Society and Learning, DOI:10.1080/14681811.2013.778823
-
-Elzo,   J.   (2005)   “Un   contrato   social  para  una  familia  educadora”,  Educación  y  futuro:  revista  de
-investigación   aplicada   y  experiencias  educativas,  ISSN  1576-5199,  Nº.  12,  2005  ,  pp.  151-160  Elzo,
-J.   (2008).   La   voz  de  los  adolescentes.  Madrid:  PPC  →  Elzo,  J.  (2005)  “Un  contrato  social  para  una
-familia educadora”, Educación y futuro: revista de investigación aplicada y experiencias educativas,
-ISSN 1576-5199, Nº. 12, 2005, pp. 151-160
-
-Venegas,   M.   (2010).   La  maldición  de  ser  niña.  Estructuralismo,  postestructuralismo  y  teoría  de  la
-práctica   en   género   y   sexualidad.   Papers.   Revista   de   Sociología.   95/1   139-156,   Venegas,  M.
-“Sociología    y    formación    del    profesorado:   aportaciones   y   balance   en   el   nuevo   paradigma
-universitario”.   Educatio   Siglo   XXI,  Volumen:  30,  Número:  2  (2012),  pp  →  Venegas,  M.  “Sociología  y
-formación   del   profesorado:   aportaciones   y  balance  en  el  nuevo  paradigma  universitario”.  Educatio
-Siglo XXI, Volumen: 30, Número: 2 (2012), pp. 403-422, http://revistas.um.es/educatio/index
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (25):
 ------------------------------
 Casas,   F.   (2006).   Infancia   y   representaciones  sociales.  Política  y  Sociedad,  vol.  43,  nº  1  (pp.
 27-42)
 
+Connell, R.W. (1997). Escuelas y justicia social. Madrid: Morata
+
+De   Pablos  Ramírez,  J.C.  (1997).  El  papel  del  profesor  en  una  sociedad  en  cambio.  Granada:  Editorial
+Universidad de Granada
+
+Delval, J. (2000), “Aprender en la vida y en la escuela”, Morata, Madrid
+
+Dubet,   F.   (2006),   “El   declive   de   la   institución.   Profesiones,   sujetos   e   individuos   en  la
+modernidad”, Gedisa, Barcelona
+
 Dávila,   O.   (2004).   Adolescencia  y  juventud:  de  las  nociones  a  los  abordajes.  Última  Década,  nº  21
 (pp. 83-104)
 
+Elzo,   J.   (2005)   “Un   contrato   social  para  una  familia  educadora”,  Educación  y  futuro:  revista  de
+investigación aplicada y experiencias educativas, ISSN 1576-5199, Nº. 12, 2005, pp. 151-160
+
 Elzo, J. (2008). La voz de los adolescentes. Madrid: PPC
+
+Enguita   Fernández,   M.   (2009).   El  anti-Cándido:  todo  va  mal,  pero  irá  a  peor.  Papeles  de  Economía
+Española, nº119 ( pp. 59-68)
 
 Fernández Enguita, M. y otros (2010). Fracaso y abandono escolar en España. Barcelona: Fundación “La
 Caixa”
@@ -374,15 +382,21 @@ Caixa”
 Gil   del   Pino,  M.C.  (2005).  Convivir  en  la  diversidad.  Una  propuesta  de  integración  social  desde  la
 escuela. Alcalá de Guadaira: Eduforma
 
+Grass, A. (1977). Sociología de la Educación. Textos fundamentales. Madrid: Nancea
+
 Martín-Lagos   López,   M.D.   (2018).  Educación  y  desigualdad.  Una  metasíntesis  tras  el  50  aniversario
 del   Informe   Coleman.  Revista  de  educación,  nº380,  pp.  186-209.  https://www.mecd.gob.es/revista-de-
 educacion/numeros-revista-educacion/numeros-anteriores/2018/380/377_7.html
 
-Perrenoud,   P.   (2006),   El   oficio   de   alumno   y  el  sentido  del  trabajo  escolar,  Madrid:  Editorial
-Popular
+Pérez   Gómez,   A.   y   otros   (2007).   Profesorado   y  otros  profesionales  de  la  educación.  Barcelona:
+Octaedro
 
 Pérez-Díaz,   V;   Rodríguez,   J.C;   Fernández,   J.J.  (2009).  Educación  y  Familia.  Papeles  de  Economía
 Española, nº119 (pp. 36-57)
+
+Trinidad   Requena,   A.   y   Fernández   Castaño,   F.   (2016)   La   Educación.   En   La  Sociedad  desde  la
+Sociología.   Una   Introducción   a  la  Sociología  General  /  coord.  por  Iglesias  de  Ussel,  J.;  Trinidad
+Requena, A. y Soriano Miras, R. Madrid, Tecnos
 
 Venegas,   M.   (2010).   La  maldición  de  ser  niña.  Estructuralismo,  postestructuralismo  y  teoría  de  la
 práctica    en    género    y    sexualidad.    Papers.    Revista   de   Sociología.   95/1   139-156,   2010,
@@ -391,13 +405,24 @@ http://www.raco.cat/index.php/Papers
 Venegas,   M.  (2013).  Amor,  sexualidad  y  adolescencia.  Sociología  de  las  relaciones  afectivosexuales.
 Granada: Editorial Comares
 
+Venegas,   M.   (2013).   Sex   and  relationships  education  and  gender  equality:  recent  experiences  from
+Andalusia (Spain), Sex Education: Sexuality, Society and Learning, DOI:10.1080/14681811.2013.778823
+
 Venegas, M. y Fernández Palomares, F. (eds.). La sociología del profesorado hoy. Debates y líneas de
 investigación   desde   una   perspectiva   internacional,   Revista  de  la  Asociación  de  Sociología  de  la
 Educación (ASE), Volumen: 5, Número: 3 (septiembre 2012), http://www.ase.es
 
+Venegas,   M.   “Sociología   y  formación  del  profesorado:  aportaciones  y  balance  en  el  nuevo  paradigma
+universitario”.     Educatio    Siglo    XXI,    Volumen:    30,    Número:    2    (2012),    pp.    403-422,
+http://revistas.um.es/educatio/index
+
+Viñao, A. (2002). Sistemas educativos, culturas escolares y reformas. Madrid: Morata
+
 Whitty, G. y otros (1999). La escuela, el estado y el mercado. Madrid: Morata
+
+Willis, P. (1987). Aprendiendo a trabajar. Madrid: Akal
 
 Zeichner,   K.   M.   (2010).   La   formación  del  profesorado  y  la  lucha  por  la  justicia  social.  Madrid:
 Morata
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

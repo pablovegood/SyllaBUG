@@ -2,14 +2,20 @@
 Grado: edprima-cc-act-fisica-melilla (588)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
+Aquella   que   surja   de  la  búsqueda  e  investigación  por  parte  del  profesor  y  alumnado  como  resultado
+del propio proceso de enseñanza-aprendizaje
+
 Arteaga,   M.,   Viciana,   V.   y  Conde,  J.  (1997).  Desarrollo  de  la  expresividad  corporal.  Tratamiento
 globalizador de los contenidos de representación. Barcelona. INDE
+
+Baena-Extremera, A. y Ruiz-Montero, P.J. (2015). Taxonomía de objetivos y su valor didáctico para la
+Educación Física escolar. Trances, 7(1), 113-128
 
 Baena-Extremera,    A.    y   Ruiz-Montero,   P.J.   (2016).   Adaptación   de   juegos   modificados   a   las
 características   de   la   Educación  Física  escolar.  Revista  Internacional  de  Deportes  Colectivos,  25,
@@ -38,23 +44,15 @@ Castañer, M. y Camerino, O. (1999). 1001 ejercicios y juegos de recreación. Pa
 Ortiz, M. (2000). Comunicación y Lenguaje Corporal. Ed. Proyecto Sur de Ediciones, S.L. Granada
 
 Pineda,   J.,   Pareja,   J.   y   Lanzas,   M.J   (1997).   Fichero   de   juegos  III.  El  Cuerpo:  Expresión  y
-Comunicación. Ed. Wanceulen
+Comunicación. Ed. Wanceulen. Sevilla
 
 Ruiz, F. y García Montes, E. (2001). Desarrollo de la motricidad a través del juego. Gymnos. Madrid
 
 Ruiz,   F.   y   García   Montes,  E.  (2001).  Propuestas  de  juegos  con:  pelotas,  globos,  cuerdas,  papeles
 envases y saquitos. Primaria. Gymnos. Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Aquella   que   surja   de  la  búsqueda  e  investigación  por  parte  del  profesor  y  alumnado  como  resultado
-del propio proceso de enseñanza-aprendizaje
-
-Baena-Extremera, A. y Ruiz-Montero, P.J. (2015). Taxonomía de objetivos y su valor didáctico para la
-Educación Física escolar. Trances, 7(1), 113-128
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

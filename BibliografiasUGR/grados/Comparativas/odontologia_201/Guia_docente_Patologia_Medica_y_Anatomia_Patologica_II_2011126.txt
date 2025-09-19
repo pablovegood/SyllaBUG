@@ -2,50 +2,50 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Traducción   Oficial   de   las   Recomendaciones   ERC   2021   por  el  Consejo  Español  de  RCP  BIBLIOGRAFÍA
+RECOMENDADA   ANATOMÍA   PATOLÓGICA   -KUMAR,   ABBAS,   ASTER.  ROBBINS  Y  COTRAN.  PATOLOGÍA  ESTRUCTURAL  Y
+FUNCIONAL Novena edición, 2015. Elsevier
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
-AREA   MEDICINA   ANATOMÍA   PATOLÓGICA   KUMAR,  ABBAS,  ASTER.  ROBBINS  Y  COTRAN.  PATOLOGÍA  ESTRUCTURAL  Y
-FUNCIONAL   Novena   edición,   2015.   Elsevier.  KUMAR  K,  COTRAN  R,  ROBBINS  S.  ROBBINS  PATOLOGÍA  HUMANA
-Novena edición, 2013
-
-Dental   management  of  the  medically  compromised  patient.  Little  JW,  Falace  DA,  Miller  CS,  Rhodus  NL.
-6ª ed, Mosby. St. Louis 2002
+Artículos de revista especializadas facilitadas por los profesores
 
 Gorstein   F,   Rubin   E   Patología   Estructural.   Fundamentos   clínicopatológicos   en  Medicina  Cuarta
 edición. McGraw-Hill Interamericana, 2006
 
-Guía   de  Resucitación  Cardiopulmonar  Básica.  Comité  del  Plan  Nacional  de  RCP.  A.  Lesmes.  C  Tormo.  4º
-ed. 2005
+ISBN   848086091X.   Medical   emergencias   in   dentristy.   Bennett   JD,   Rosenberg  MB.  WB  Saunders  Co.
+Philadelphia, 2002. ANATOMÍA PATOLÓGICA
 
-MEDICINA    Urgencias   médicas   en   Odontología.   Gutiérrez   Lizardi,   P.   Ed.   Interamericana.   ISBN
-9789701048092
-
-Urgencias   médicas   en   la   consulta   de   Odontología.  Malamed,  SF.  4ª  ed.  Mosby.  Madrid,  1994.  ISBN
-848086091X
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Elsevier.   (nueva   edición   en   inglés   de   2017)   →  KUMAR  K,  COTRAN  R,  ROBBINS  S.  ROBBINS  PATOLOGÍA
-HUMANA Novena edición, 2013. Elsevier. (nueva edición en inglés de 2017)
-
-✅ Recursos añadidos:
-------------------------------
-ANATOMÍA PATOLÓGICA
-
-Artículos de revista especializadas facilitadas por los profesores
-
-KUMAR,   ABBAS,   ASTER.   ROBBINS   Y   COTRAN.   PATOLOGÍA  ESTRUCTURAL  Y  FUNCIONAL  Novena  edición,  2015.
-Elsevier
+KUMAR   K,   COTRAN   R,   ROBBINS   S.   ROBBINS   PATOLOGÍA  HUMANA  Novena  edición,  2013.  Elsevier.  (nueva
+edición   en   inglés   de   2017).  MEDICINA  Urgencias  médicas  en  Odontología.  Gutiérrez  Lizardi,  P.  Ed.
+Interamericana.   ISBN   9789701048092   .   Guía  de  Resucitación  Cardiopulmonar  Básica.  Comité  del  Plan
+Nacional   de   RCP.   A.   Lesmes.  C  Tormo.  4º  ed.  2005.  Dental  management  of  the  medically  compromised
+patient. Little JW, Falace DA, Miller CS, Rhodus NL. 6ª ed, Mosby. St. Louis 2002. Urgencias médicas
+en la consulta de Odontología. Malamed, SF. 4ª ed. Mosby. Madrid
 
 Manual de Desfibrilación Externa Semiautomática del Plan Nacional de RCP
 
 Manual de Soporte Vital Básico del Plan Nacional de RCP
 
-Manual de Soporte Vital Instrumentalizado del Plan Nacional de RCP
+Manual de Soporte Vital Instrumentalizado del Plan Nacional de RCP Recomendaciones ERC 2021
+
+✅ Recursos añadidos (9):
+------------------------------
+AREA MEDICINA
+
+Dental   management  of  the  medically  compromised  patient.  Little  JW,  Falace  DA,  Miller  CS,  Rhodus  NL.
+6ª ed, Mosby. St. Louis 2002
+
+Guía   de  Resucitación  Cardiopulmonar  Básica.  Comité  del  Plan  Nacional  de  RCP.  A.  Lesmes.  C  Tormo.  4º
+ed. 2005
+
+KUMAR   K,   COTRAN   R,   ROBBINS   S.   ROBBINS   PATOLOGÍA  HUMANA  Novena  edición,  2013.  Elsevier.  (nueva
+edición en inglés de 2017)
+
+KUMAR,   ABBAS,   ASTER.   ROBBINS   Y   COTRAN.   PATOLOGÍA  ESTRUCTURAL  Y  FUNCIONAL  Novena  edición,  2015.
+Elsevier
 
 Medical emergencias in dentristy. Bennett JD, Rosenberg MB. WB Saunders Co. Philadelphia, 2002
 
@@ -54,4 +54,7 @@ Recomendaciones ERC 2021
 Traducción   Oficial   de   las   Recomendaciones   ERC   2021   por  el  Consejo  Español  de  RCP  BIBLIOGRAFÍA
 RECOMENDADA
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Urgencias   médicas   en   la   consulta   de   Odontología.  Malamed,  SF.  4ª  ed.  Mosby.  Madrid,  1994.  ISBN
+848086091X
+
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

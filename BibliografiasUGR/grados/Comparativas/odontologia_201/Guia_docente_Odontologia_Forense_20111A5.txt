@@ -2,16 +2,22 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 Adams, C., Carabott, R., Evans, S. (2014). Forensic odontology: an essential guide. Hoboken: Wiley
 
 Bowers,   C.   M.   (2010).   Forensic   dental   evidence:  an  investigator's  handbook.  Amsterdam,  Boston:
 Elsevier/Academic Press. [Disponible en línea]
+
+Disponible   en   la   Biblioteca  de  la  UGR:  Villanueva,  E.  (coord.)  (2018).  Gisbert  Calabuig,  Medicina
+Legal y Toxicología. 7ª ed. Barcelona: Elsevier
+
+Disponible   en   la   Biblioteca   de   la  UGR:  White,  T.  D.,  Black,  M.  T.,  Folkens,  P.  A.  (2012).  Human
+osteology. Amsterdam: Elsevier
 
 Dorion,   R.   B.   J.   (2011).   Bitemark   evidence   a   color   atlas   and   text.  Boca  Raton:  CRC  Press.
 [Disponible en línea]
@@ -31,16 +37,7 @@ Senn, D. V., Weems, R. A. (2013). Manual of forensic odontology. Boca Raton: Tay
 
 Silver, W.E., Souviron. R. R. (2009). Dental autopsy. Boca Raton: CRC Press/Taylor & Francis
 
-Villanueva,   E.   (coord.)   (2018).  Gisbert  Calabuig,  Medicina  Legal  y  Toxicología.  7ª  ed.  Barcelona:
-Elsevier
-
-White, T. D., Black, M. T., Folkens, P. A. (2012). Human osteology. Amsterdam: Elsevier
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 Disponible en la Biblioteca de la UGR
 

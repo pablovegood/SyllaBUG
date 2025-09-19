@@ -2,11 +2,11 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ruedas Rama y E.M. Talavera Rodríguez (2022). Fisicoquímica. 2ª edición. Editorial Técnica Avicam
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 D.W. Wall (2004) Fisicoquímica. 3ª ed. International Thomson
 
@@ -37,15 +37,10 @@ R. Chang (2008). Fisicoquímica. 3ª ed. Mc Graw Hill
 
 T. Engel, P. Reid (2006). Química Física. Pearson Educación S.A
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Ruedas   Rama  y  E.M.  Talavera  Rodríguez  (2022).  Fisicoquímica.  2ª  edición.  Editorial  Técnica  Avicam  →
 J.M.   Alvarez   Pez,   L.   Crovetto   González,   A.   Orte   Gutiérrez,   M.J.  Ruedas  Rama  y  E.M.  Talavera
 Rodríguez   (2017).   Física   y   Fisicoquímica  Aplicadas  a  la  Farmacia.  2ª  edición  revisada.  Editorial
 Técnica Avicam
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

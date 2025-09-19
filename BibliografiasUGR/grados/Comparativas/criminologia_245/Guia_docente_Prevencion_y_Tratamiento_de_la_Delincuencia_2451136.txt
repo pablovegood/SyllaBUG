@@ -2,35 +2,26 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
+(2001), “La delincuencia y su control: realidades y fantasías”, RDPC, no 8, págs. 309 a 325
 
-📚 Recursos sin cambios:
+Aebi, Marcelo F./ Berger-Kolopp, Léa/ Burkhardt, Christine/ Tiago, Mélanie M. (2018)
+
+Prisons in Europe 2005-2015, Vol. I y II, editado por Universidad de Lausanne y el Consejo de Europa
+
+Redondo, S. (1993). Evaluar e intervenir en prisiones. Madrid: PPU. Redondo Illescas, S
+
+Vozmediano   Sanz,  L.  y  San  Juan  Guillén,  C.  (2010).  Criminología  ambiental.  Ecología  del  delito  y  de
+la seguridad. Barcelona: Editorial UOC
+
+Vázquez   González,  C.  y  Soto  Urpina,  C.  (2013).  “El  análisis  geográfico  del  delito  y  los  mapas  de  la
+delincuencia”,   en  Revista  de  Derecho  Penal  y  Criminología  (UNED),  no  9,  págs.  419  a  448.  Vozmediano
+Sanz,   L.  y  San  Juan  Guillén,  C.  (2006).  “Empleo  de  Sistemas  de  Información  Geográfica  en  el  estudio
+del miedo al delito”, REIC, no 4, págs. 1 a 11
+
+📚 Recursos sin cambios (82):
 ------------------------------
-Bueno   Arús,   F.  (2008).  Nociones  de  prevención  del  delito  y  tratamiento  de  la  delincuencia.  Madrid:
-Dykinson
-
-García-Pablos   de   Molina,   A.   (edit.),   2009.   Víctima,   prevención   del   delito  y  tratamiento  del
-delincuente
-
-Medina   Ariza,   J.J.  (2013).  Políticas  y  estrategias  de  prevención  del  delito  y  seguridad  ciudadana.
-Editorial B de F. 2a edición
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-García-Pablos   de   Molina,   A.   (2013).   Criminología,   una   introducción   a  sus  fundamentos  Garrido
-Genovés,   V.   y  López  Latorre,  Ma  J.  (1995).  La  prevención  de  la  delincuencia:  el  López  Sánchez,  F.,
-Carpintero   Raimúndez,   E.,   Campo  Sánchez,  A.,  Lázaro  Visa,  S.  y  Soriano  Rubio,  S.  (2011).  Programa
-Menores   infractores.   Intervención   educativa   y  terapéutica.  Madrid:  Pirámide  →  López  Sánchez,  F.,
-Carpintero   Raimúndez,   E.,   Campo  Sánchez,  A.,  Lázaro  Visa,  S.  y  Soriano  Rubio,  S.  (2011).  Programa
-Menores infractores. Intervención educativa y terapéutica. Madrid: Pirámide
-
-✅ Recursos añadidos:
-------------------------------
-Aebi,   Marcelo   F./   Berger-Kolopp,   Léa/  Burkhardt,  Christine/  Tiago,  Mélanie  M.  (2018).  Prisons  in
-Europe 2005-2015, Vol. I y II, editado por Universidad de Lausanne y el Consejo de Europa
-
 Agustina, J.R. y Reles, F. (2013). “En la mente de un asaltante de viviendas: Estudio cualitativo de
 una muestra de autores de robo en casa habitada”, REIC, no 11, págs. 1 a 30
 
@@ -72,6 +63,9 @@ attractors.” Revista European Journal on Criminal Policy and Research, Vol. 3 
 
 Bruinsma,   G./Johnson,   S.D.,   editores   (2018).   The   Oxford  Handbook  of  Environmental  Criminology.
 Oxford University Press
+
+Bueno   Arús,   F.  (2008).  Nociones  de  prevención  del  delito  y  tratamiento  de  la  delincuencia.  Madrid:
+Dykinson
 
 Camacho-Collados,   M;   Liberatore,   F.   (2015).   “A   decision   Support   System  for  Predictive  Police
 Patrolling”. Decision Support Systems, no 75, págs. 25 a 37
@@ -129,14 +123,15 @@ García, J. y Sancha, V. (1987). Psicología Penitenciaria. Madrid: UNED
 García-Pablos   de   Molina,   A.   (2013).   Criminología,   una  introducción  a  sus  fundamentos  teóricos.
 Valencia: Tirant lo Blanch
 
+García-Pablos   de   Molina,   A.   (edit.),   2009.   Víctima,   prevención   del   delito  y  tratamiento  del
+delincuente. Granada: Comares
+
 Garrido   Genovés,   V.  y  López  Latorre,  Ma  J.  (1995).  La  prevención  de  la  delincuencia:  el  enfoque  de
 la competencia social. Valencia: Tirant lo Blanch
 
 González   Tascón,   M.   (2014).   Estudio  teórico  y  práctico  de  la  pena  de  trabajos  en  beneficio  de  la
 comunidad.   Madrid:  Secretaría  General  de  Administraciones  Penitenciarias  (Premio  Nacional  “Victoria
 Kent”)
-
-Granada: Comares
 
 Groff, E., Ratcliffe, J.H., Haberman, C.P. y otros (2014). “Does what police do at hot spots matter?
 The Philadelphia policing tactics experiment”. Revista Criminology, 2014, págs. 1 a 31
@@ -177,6 +172,9 @@ by artificial bee colony. Information Sciences, Vol. 377, enero 2017, págs. 30 
 López   Rodríguez,  A.  (2016),  “¿Desplazamiento  del  delito  o  difusión  de  beneficios?”,  revista  digital
 Criminología y Justicia
 
+López   Sánchez,  F.,  Carpintero  Raimúndez,  E.,  Campo  Sánchez,  A.,  Lázaro  Visa,  S.  y  Soriano  Rubio,  S.
+(2011). Programa Menores infractores. Intervención educativa y terapéutica. Madrid: Pirámide
+
 Malaret, J. (2001). Manual de Negociación y Mediación. Madrid: Colex
 
 Manzanero,   A.   L.   (2002).   La   negociación   como   solución   a  situaciones  conflictivas.  Anuario  de
@@ -191,13 +189,16 @@ Revista de Derecho Penal y Criminología (UNED), no 2, págs. 281 a 326
 Medina   Ariza,   J.J.   (2010),   “Políticas   de  seguridad  ciudadana  en  el  contexto  urbano  y  prevención
 comunitaria
 
+Medina   Ariza,   J.J.  (2013).  Políticas  y  estrategias  de  prevención  del  delito  y  seguridad  ciudadana.
+Editorial B de F. 2a edición
+
 Medina   García,  P.M.  (2013).  Evaluación  experimental  de  la  eficacia  de  los  programas  psicológicos  de
 tratamiento penitenciario. Madrid: Ediciones del Ministerio del Interior
 
 Medina   Sarmiento,  J.E.  (2010),  “Perfil  geográfico  de  la  conducción  influenciada.  Una  aproximación  a
 la   reducción   de   la   delincuencia  y  la  accidentalidad  a  través  del  análisis  del  delito”,  en  la  web
 Crimina,   del   Centro  de  Investigación  y  Formación  Criminológica  de  la  Universidad  Miguel  Hernández;
-descargable       en:      http://www.crimina.es/documentos/miembros/00008/articulo_de_investigacion_-
+descargable     en:     http://www.crimina.es/documentos/mie    mbros/00008/articulo_de_investigacion_-
 _reducido.pdf
 
 Miró   Llinares,  F.  (2011),  “La  oportunidad  criminal  en  el  ciberespacio  aplicación  y  desarrollo  de  la
@@ -227,9 +228,6 @@ Pirámide
 
 Redondo   Illescas,   S.  y  Garrido  Genovés,  V.  (2004).  Violencia  y  delincuencia  juvenil.  Explicación  y
 prevención. Mendoza (Argentina): Ediciones Jurídicas Cuyo
-
-Redondo, S. (1993). Evaluar e intervenir en prisiones. Madrid: PPU. Redondo Illescas, S. (2001), “La
-delincuencia y su control: realidades y fantasías”, RDPC, no 8, págs. 309 a 325
 
 Redondo, S., Martínez, A. y Pueyo, A. (2012). “Intervenciones con delincuentes juveniles en el marco
 de   la   justicia:   investigación  y  aplicaciones”,  Edupsykhé,  Revista  de  Psicología  y  Educación,  Vol.
@@ -278,12 +276,6 @@ a 22
 Tenca,   M./Méndez   Ortiz,   E.   (2018),  Manual  de  prevención  del  delito  y  seguridad  ciudadana,  Buenos
 Aires, Didot
 
-Vázquez   González,  C.  y  Soto  Urpina,  C.  (2013).  “El  análisis  geográfico  del  delito  y  los  mapas  de  la
-delincuencia”,   en  Revista  de  Derecho  Penal  y  Criminología  (UNED),  no  9,  págs.  419  a  448.  Vozmediano
-Sanz,   L.  y  San  Juan  Guillén,  C.  (2006).  “Empleo  de  Sistemas  de  Información  Geográfica  en  el  estudio
-del   miedo   al  delito”,  REIC,  no  4,  págs.  1  a  11.  Vozmediano  Sanz,  L.  y  San  Juan  Guillén,  C.  (2010).
-Criminología ambiental. Ecología del delito y de la seguridad. Barcelona: Editorial UOC
-
 Vázquez,   D.,   Fernández,  E.,  Planells-Struse,  S.  y  Belmonte,  M.  (2014).  “El  perfil  geográfico  de  la
 delincuencia   juvenil:   Un   análisis   de   las   características   espaciales   asociadas  a  la  movilidad
 delictiva de los jóvenes”. REIC, no 12, págs. 1 a 37
@@ -296,4 +288,32 @@ Wright,   J.,   Glasbeek,   A.   y   van   der  Meulen,  E.  (2015),  "Securing 
 hybridized   space   of   apartment  buildings”,  Revista  Theoretical  Criminology,  Vol.  19(1),  págs.  95  a
 111
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (7):
+------------------------------
+Aebi,   Marcelo   F./   Berger-Kolopp,   Léa/  Burkhardt,  Christine/  Tiago,  Mélanie  M.  (2018).  Prisons  in
+Europe 2005-2015, Vol. I y II, editado por Universidad de Lausanne y el Consejo de Europa
+
+Aebi,   Marcelo   F./   Berger-Kolopp,   Léa/  Burkhardt,  Christine/  Tiago,  Mélanie  M.  (2018).  Prisons  in
+Europe 2005-2015, Vol. I y II, editado por Universidad de Lausanne y el Consejo de Europa
+
+Granada: Comares
+
+Redondo, S. (1993). Evaluar e intervenir en prisiones. Madrid: PPU. Redondo Illescas, S. (2001), “La
+delincuencia y su control: realidades y fantasías”, RDPC, no 8, págs. 309 a 325
+
+Redondo, S. (1993). Evaluar e intervenir en prisiones. Madrid: PPU. Redondo Illescas, S. (2001), “La
+delincuencia y su control: realidades y fantasías”, RDPC, no 8, págs. 309 a 325
+
+Vázquez   González,  C.  y  Soto  Urpina,  C.  (2013).  “El  análisis  geográfico  del  delito  y  los  mapas  de  la
+delincuencia”,   en  Revista  de  Derecho  Penal  y  Criminología  (UNED),  no  9,  págs.  419  a  448.  Vozmediano
+Sanz,   L.  y  San  Juan  Guillén,  C.  (2006).  “Empleo  de  Sistemas  de  Información  Geográfica  en  el  estudio
+del   miedo   al  delito”,  REIC,  no  4,  págs.  1  a  11.  Vozmediano  Sanz,  L.  y  San  Juan  Guillén,  C.  (2010).
+Criminología ambiental. Ecología del delito y de la seguridad. Barcelona: Editorial UOC
+
+Vázquez   González,  C.  y  Soto  Urpina,  C.  (2013).  “El  análisis  geográfico  del  delito  y  los  mapas  de  la
+delincuencia”,   en  Revista  de  Derecho  Penal  y  Criminología  (UNED),  no  9,  págs.  419  a  448.  Vozmediano
+Sanz,   L.  y  San  Juan  Guillén,  C.  (2006).  “Empleo  de  Sistemas  de  Información  Geográfica  en  el  estudio
+del   miedo   al  delito”,  REIC,  no  4,  págs.  1  a  11.  Vozmediano  Sanz,  L.  y  San  Juan  Guillén,  C.  (2010).
+Criminología ambiental. Ecología del delito y de la seguridad. Barcelona: Editorial UOC
+
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

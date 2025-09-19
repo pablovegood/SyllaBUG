@@ -2,60 +2,58 @@
 Grado: farmacia-nutricion-humana-dietetica (225)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+HELDT, HW (2011). Plant Biochemistry (4ª edición, en inglés). Academic Press, NY, USA
 
-📚 Recursos sin cambios:
+TAIZ L y ZEIGER E (2010). Plant Physiology. Sinauer, USA (5ª edición, en inglés)
+
+TAIZ   L,   MØLLER  IM,  MURPHY  A  y  ZEIGER  E  (2022).  Plant  Physiology  and  Development,  Oxford  University
+Press   (7ª   edición,   en   inglés)   BOWSHER   C,   STEER  M,  TOBIN  A.  (2008)  Plant  Biochemistry.  Garland
+Science. NY, USA
+
+Versión   en   línea:   https://www.sciencedirect.com/book/9780123849861/plantbiochemistry  HOPKINS  WG  y
+HÜNER   NPA   (2009):  Introduction  to  Plant  Physiology.  Whiley  &  Sons,  Inc.  Hoboken,  NJ,  USA  SLATER  A,
+SCOTT   NW   y   FOWLER   MR   (2008):  Plant  Biotechnology:  The  Genetic  Manipulation  of  Plants.  (2ª  ed.).
+Oxford University Press, 2008
+
+Wiley-Blackwell    -    American    Society    of   Plant   Biologists,   Oxford,   UK   (web   con   recursos:
+https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=7583&itemId=0470870117) SALISBURY FB y ROSS CW
+(2000).   Fisiología  Vegetal.  Ed.International  Thompson  Editores  Spain  -  Paraninfo,  S.A.,  Madrid  TAIZ
+L   y   ZEIGER   E  (2006).  Fisiología  Vegetal.  Publicacions  de  la  Universitat  Jaume  I  de  Castellón  (dos
+volúmenes, traducción de la 3ª edición en inglés de 2002)
+
+📚 Recursos sin cambios (6):
 ------------------------------
 AZCÓN-BIETO   J   y   TALÓN   M.   (2ª   ed.)   (2008).   Fundamentos   de   Fisiología   Vegetal.  McGraw  Hill-
 Interamericana,    Madrid.    Disponible    versión    online    en    la   web   de   la   Biblioteca   UGR   (
-https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=5620 )
+https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193& libro=5620)
 
 BUCHANAN   BB,   GRUISSEN   W   y   JONES   RL.   (2015):   Biochemistry  and  Molecular  Biology  of  Plants  (2ª
 edición, en inglés). American Society of Plant Physiologists. Rockville, Maryland, USA
 
 ESCASO   F,  MARTÍNEZ  JL,  PLANELÓ  MR  (2010).  Fundamentos  básicos  de  Fisiología  Vegetal  y  Animal,  UNED-
 Pearson.                           Versión                           en                          línea:
-https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=1179
+https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193& libro=1179
 
 JONES   R,  OUGHAM  H,  THOMAS  H  y  WAALAND  S  (2013).  The  Molecular  Life  of  Plants.  Ed.  Wiley-Blackwell  -
 American   Society   of   Plant   Biologists,   Oxford,   UK   (web  con  recursos:  https://bcs.wiley.com/he-
 bcs/Books?action=index&bcsId=7583&itemId=0470870117 )
 
+Sinauer,    USA    (6ª    edición,   en   inglés).   Material   disponoble   en   la   web   de   la   editorial:
+https://learninglink.oup.com/access/taiz-plant-physiology-6e-studentresources#tag_chapter-01)    TAIZ
+L,   ZEIGER   E,   MØLLER   IM   y   MURPHY   A   (2018).  Fundamentals  of  Plant  Physiology,  Sinauer,  USA  (1ª
+edición, en inglés)
+
 TAIZ   L,   ZEIGER   E,  MØLLER  IM  y  MURPHY  A  (2014).  Plant  Physiology  and  Development.  Sinauer,  USA  (6ª
 edición, en inglés)
 
-TAIZ   L,   ZEIGER   E,  MØLLER  IM  y  MURPHY  A  (2018).  Fundamentals  of  Plant  Physiology,  Sinauer,  USA  (1ª
-edición, en inglés)
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-TAIZ   L   y   ZEIGER  E  (2010).  Plant  Physiology.  Sinauer,  USA  (5ª  edición,  en  inglés)  →  TAIZ  L,  ZEIGER
-E,   MØLLER   IM   y   MURPHY   A   (2014).  Plant  Physiology  and  Development.  Sinauer,  USA  (6ª  edición,  en
-inglés)
-
-HELDT,   HW  (2011).  Plant  Biochemistry  (4ª  edición,  en  inglés).  Academic  Press,  NY,  USA.  biochemistry
-HOPKINS   WG   y   HÜNER  NPA  (2009):  Introduction  to  Plant  Physiology.  Whiley  &  Sons,  Inc.  Hoboken,  NJ,
-USA   SLATER  A,  SCOTT  NW  y  FOWLER  MR  (2008):  Plant  Biotechnology:  The  Genetic  Manipulation  of  Plants.
-(2ª   ed.).   Oxford   University   Press,   2008   →   SLATER   A,   SCOTT   NW   y   FOWLER   MR   (2008):  Plant
-Biotechnology: The Genetic Manipulation of Plants. (2ª ed.). Oxford University Press, 2008
-
-TAIZ   L,   MØLLER  IM,  MURPHY  A  y  ZEIGER  E  (2022).  Plant  Physiology  and  Development,  Oxford  University
-Press   (7ª   edición,   en   inglés)   BOWSHER   C,   STEER  M,  TOBIN  A.  (2008)  Plant  Biochemistry.  Garland
-Science.   NY,   USA   →   BOWSHER   C,  STEER  M,  TOBIN  A.  (2008)  Plant  Biochemistry.  Garland  Science.  NY,
-USA
-
-SALISBURY   FB   y   ROSS   CW   (2000).   Fisiología   Vegetal.  Ed.International  Thompson  Editores  Spain  -
-Paraninfo, S.A., Madrid TAIZ L y ZEIGER E (2006). Fisiología Vegetal. Publicacions de la Universitat
-Jaume   I   de   Castellón   (dos   volúmenes,   traducción  de  la  3ª  edición  en  inglés  de  2002)  →  TAIZ  L  y
-ZEIGER   E   (2006).   Fisiología   Vegetal.   Publicacions   de   la  Universitat  Jaume  I  de  Castellón  (dos
-volúmenes, traducción de la 3ª edición en inglés de 2002)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 BHATLA   SC   y   LAL   MA  (2023).  Plant  Physiology,  Development  and  Metabolism  (2ª  edición,  en  inglés).
 Springer-Nature, Singapur. Disponible en línea: ENLACE
+
+BOWSHER C, STEER M, TOBIN A. (2008) Plant Biochemistry. Garland Science. NY, USA
 
 HELDT,   HW   (2025).   Plant  Biochemistry  (6ª  edición,  en  inglés).  Academic  Press,  NY,  USA.  Versión  en
 línea: https://www.sciencedirect.com/book/9780443266164/plant-biochemistry
@@ -63,7 +61,16 @@ línea: https://www.sciencedirect.com/book/9780443266164/plant-biochemistry
 HOPKINS   WG   y   HÜNER  NPA  (2009):  Introduction  to  Plant  Physiology.  Whiley  &  Sons,  Inc.  Hoboken,  NJ,
 USA
 
+SLATER   A,  SCOTT  NW  y  FOWLER  MR  (2008):  Plant  Biotechnology:  The  Genetic  Manipulation  of  Plants.  (2ª
+ed.). Oxford University Press, 2008
+
+TAIZ   L   y   ZEIGER  E  (2006).  Fisiología  Vegetal.  Publicacions  de  la  Universitat  Jaume  I  de  Castellón
+(dos volúmenes, traducción de la 3ª edición en inglés de 2002)
+
 TAIZ   L,   MØLLER  IM,  MURPHY  A  y  ZEIGER  E  (2022).  Plant  Physiology  and  Development,  Oxford  University
 Press (7ª edición, en inglés)
 
-📊 Porcentaje estimado de cambio: 72% [███████░░░]
+TAIZ   L,   ZEIGER   E,  MØLLER  IM  y  MURPHY  A  (2018).  Fundamentals  of  Plant  Physiology,  Sinauer,  USA  (1ª
+edición, en inglés)
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -2,55 +2,59 @@
 Grado: matematicas (270)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+PÉREZ           GONZÁLEZ,           F.           J.Curso           de          Análisis          Complejo.
+2004.http://www.ugr.es/~fjperez/textos/funciones_variable_compleja.pdf   ASH,   R.:Complex   variables.
+Academic   Press,  1971.  BURCKELL,  R.:An  introduction  to  classical  complex  analysis.Birkhauser-Verlag,
+1979   CONWAY,   J.B.:Functions   of   one  complex  variable.Springer-Verlag,  1973.  GREENE,  R.  E.  KRANTZ,
+S.G.:Function   Theory   of   One   Complex   Variable.AMS,  2002  MARKUSHEVICH,  A.:Teoría  de  las  funciones
+analísticas.   Vol.   I   y   II.Mir,   1970.   MARSDEN,   J.E.  Y  HOFFMAN,  M.J.:Basic  Complex  Analysis.W.H.
+Freeman,      1999.      MAZÓN,      J.M.      Funciones      de      Variable     Compleja.     Teoría     y
+Problemas,https://www.amazon.es/Funciones-Variable-Compleja-Teor%C3%ADaProblemas/dp/B095GDFBKB 2021,
+ISBN   979-8506409052   PALKA,   B.P.:An  introduction  to  complex  function  theory.Springer-Verlag,  1991.
+RUDIN,   W.:Análisis   Real   y   Complejo.Alhambra,   1979.   PROBLEMAS:   KRZYZ,  J.G.:Problems  in  Complex
+Variable   Theory.Elsevier,   1971.   LÓPEZ   GÓMEZ,   J.:Ecuaciones   diferenciales   y  variable  compleja.
+Problemas   y   ejercicios   resueltos.Prentice   Hall,   2001.   VOLSKOVYSKI,  L.,  LUNTS,  G.,  ARAMANOVICH,
+I.:Problemas sobre la teoría de funciones de variable compleja.Mir, 1972
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (2):
+------------------------------
+HOWIE,   J.M.Complex  analysis.  Springer-Verlag,  London.  2003.  Disponible  en  la  biblioteca  electrónica
+de la UGR
+
+PAYÁ ALBERT, R.Apuntes de Variable Compleja. Curso 2015-16. http://www.ugr.es/~rpaya
+
+✅ Recursos añadidos (13):
 ------------------------------
 ASH, R.:Complex variables. Academic Press, 1971
 
-HOWIE,   J.M.Complex  analysis.  Springer-Verlag,  London.  2003.  Disponible  en  la  biblioteca  electrónica
-de la UGR
+BURCKELL, R.:An introduction to classical complex analysis.Birkhauser-Verlag, 1979
+
+CONWAY, J.B.:Functions of one complex variable.Springer-Verlag, 1973
+
+GREENE, R. E. KRANTZ, S.G.:Function Theory of One Complex Variable.AMS, 2002
 
 KRZYZ, J.G.:Problems in Complex Variable Theory.Elsevier, 1971
 
 LÓPEZ    GÓMEZ,    J.:Ecuaciones    diferenciales    y    variable    compleja.    Problemas   y   ejercicios
 resueltos.Prentice Hall, 2001
 
+MARKUSHEVICH, A.:Teoría de las funciones analísticas. Vol. I y II.Mir, 1970
+
 MARSDEN, J.E. Y HOFFMAN, M.J.:Basic Complex Analysis.W.H. Freeman, 1999
+
+MAZÓN,   J.M.   Funciones   de   Variable  Compleja.  Teoría  y  Problemas,  https://www.amazon.es/Funciones-
+Variable-Compleja-Teor%C3%ADa-Problemas/dp/B095GDFBKB 2021, ISBN 979-8506409052
+
+PALKA, B.P.:An introduction to complex function theory.Springer-Verlag, 1991
+
+PÉREZ         GONZÁLEZ,         F.         J.Curso         de        Análisis        Complejo.        2004.
+http://www.ugr.es/~fjperez/textos/funciones_variable_compleja.pdf
 
 RUDIN, W.:Análisis Real y Complejo.Alhambra, 1979
 
 VOLSKOVYSKI,   L.,   LUNTS,   G.,   ARAMANOVICH,   I.:Problemas   sobre  la  teoría  de  funciones  de  variable
 compleja.Mir, 1972
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-BURCKELL,    R.:An    introduction   to   classical   complex   analysis.Birkhauser-Verlag,   1979   CONWAY,
-J.B.:Functions   of   one   complex   variable.Springer-Verlag,   1973   →   CONWAY,   J.B.:Functions  of  one
-complex variable.Springer-Verlag, 1973
-
-MAZÓN,    J.M.    Funciones    de   Variable   Compleja.   Teoría   y   Problemas/dp/B095GDFBKB   2021,   ISBN
-979-8506409052   PALKA,   B.P.:An   introduction   to   complex   function   theory.Springer-Verlag,  1991  →
-PALKA, B.P.:An introduction to complex function theory.Springer-Verlag, 1991
-
-GREENE, R. E. KRANTZ, S.G.:Function Theory of One Complex Variable.AMS, 2002 MARKUSHEVICH, A.:Teoría
-de   las   funciones   analísticas.   Vol.  I  y  II.Mir,  1970  →  GREENE,  R.  E.  KRANTZ,  S.G.:Function  Theory
-of One Complex Variable.AMS, 2002
-
-✅ Recursos añadidos:
-------------------------------
-BURCKELL, R.:An introduction to classical complex analysis.Birkhauser-Verlag, 1979
-
-MARKUSHEVICH, A.:Teoría de las funciones analísticas. Vol. I y II.Mir, 1970
-
-MAZÓN,   J.M.   Funciones   de   Variable  Compleja.  Teoría  y  Problemas,  https://www.amazon.es/Funciones-
-Variable-Compleja-Teor%C3%ADa-Problemas/dp/B095GDFBKB 2021, ISBN 979-8506409052
-
-PAYÁ ALBERT, R.Apuntes de Variable Compleja. Curso 2015-16. http://www.ugr.es/~rpaya
-
-PÉREZ         GONZÁLEZ,         F.         J.Curso         de        Análisis        Complejo.        2004.
-http://www.ugr.es/~fjperez/textos/funciones_variable_compleja.pdf
-
-📊 Porcentaje estimado de cambio: 80% [████████░░]
+📊 Porcentaje estimado de cambio: 93% [█████████░]

@@ -2,33 +2,13 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Pérez-Arellano JL. Sisinio de Castro: Manual de Patología General. 8ª ed. Barcelona: ElsevierMasson,
+2019.   Le   Mone   P   y  Burke  K.  Enfermería  medicoquirúrgica.  Pensamiento  crítico  en  la  asistencia  del
+paciente. Ed: Pearson- Prenctice Hall. 4ª Edición. Madrid 2009
 
-📚 Recursos sin cambios:
-------------------------------
-Le Mone P y Burke K. Enfermería medicoquirúrgica. Pensamiento crítico en la asistencia del paciente.
-Ed: Pearson- Prenctice Hall. 4ª Edición. Madrid 2009
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Webb   W,  Adler  RK.  (2010).  Neurología  para  el  logopeda.  Editorial  Elsevier-Masson.  Weiner  WJ,  Goetz
-CG,   Shin   RK,  Lewis  SL.  (2010).  Neurology  for  the  non  neurologist  6th  edition  Editorial  Lippincott.
-McGraw-Hill   Interamericana,   2003   Wiebers,   DO,   et   al.   Clínica   Mayo.   Exploración   clínica   en
-neurología.   7ª   ed.   Barcelona:   Jims,   2000.  Campbell  –  Barohn.  DeJong  Exploracion  neurologica.  8ª
-Edicion.   Editorial   Wolters   Kluwer.  Victor  M,  Ropper  AH.  Adams  y  Victor.  Principios  de  Neurología.
-10ª   ed.  México:  McGraw-Hill  Interamericana,  2017.  Zarranz  JJ.  Neurología.  6ª  ed.  Madrid.  Elservier,
-2018.   American   Psychriatric   Association   (APA).  DSM-V-TR.  Manual  Diagnóstico  y  Estadístico  de  los
-Trastornos   Mentales.   2013   Kertesz,   A.   Batería  de  Afasias  WESTERN.  2ª  ed.  Valencia:  Nau  Llibres,
-2002.   Love   RJ,   Webb  WG.  Neurología  para  los  especialistas  del  Habla  y  del  Lenguaje.  3ª  ed.  Buenos
-Aires:   Panamericana,   2001.   Manzano   S,   Fortea  J.  Grupo  de  Estudio  de  Neurología  de  la  Conducta  y
-Demencias.   Sociedad   Española  de  Neurología.  Guía  oficial  de  practica  clínica  en  demencias.  Luzán5,
-2018. Pérez-Arellano JL. Sisinio de Castro: Manual de Patología General. 8ª ed. Barcelona: Elsevier-
-Masson,   2019   →   Victor   M,   Ropper   AH.   Adams  y  Victor.  Principios  de  Neurología.  10ª  ed.  México:
-McGraw-Hill Interamericana, 2017
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (10):
 ------------------------------
 American   Psychriatric   Association   (APA).   DSM-V-TR.   Manual   Diagnóstico   y   Estadístico   de   los
 Trastornos Mentales. 2013
@@ -46,8 +26,8 @@ Neurología. Guía oficial de practica clínica en demencias. Luzán5, 2018
 McGraw-Hill   Interamericana,   2003   Wiebers,   DO,   et   al.   Clínica   Mayo.   Exploración   clínica   en
 neurología. 7ª ed. Barcelona: Jims, 2000
 
-Pérez-Arellano   JL.   Sisinio   de   Castro:   Manual   de  Patología  General.  8ª  ed.  Barcelona:  Elsevier-
-Masson, 2019
+Victor   M,   Ropper   AH.   Adams   y   Victor.   Principios   de   Neurología.   10ª  ed.  México:  McGraw-Hill
+Interamericana, 2017
 
 Webb W, Adler RK. (2010). Neurología para el logopeda. Editorial Elsevier-Masson
 
@@ -56,4 +36,12 @@ Editorial Lippincott
 
 Zarranz JJ. Neurología. 6ª ed. Madrid. Elservier, 2018
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Le Mone P y Burke K. Enfermería medicoquirúrgica. Pensamiento crítico en la asistencia del paciente.
+Ed: Pearson- Prenctice Hall. 4ª Edición. Madrid 2009
+
+Pérez-Arellano   JL.   Sisinio   de   Castro:   Manual   de  Patología  General.  8ª  ed.  Barcelona:  Elsevier-
+Masson, 2019
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

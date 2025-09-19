@@ -2,11 +2,11 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 Alonso Fernández, L. (1999). Museología y museografía, Ediciones del Serbal, Barcelona
 
@@ -15,7 +15,7 @@ Andalucía:   la   dificultad   de  resolver  una  carencia  endémica",  VI  Jo
 patrimonio   histórico   (C.  Sánchez  de  las  Heras,  coord.),  Junta  de  Andalucía,  Consejería  de  Cultura,
 Sevilla, pp. 267- 284
 
-Ariño,   A.   (2002).  "La  patrimonialización  de  la  cultura  y  sus  paradojas  en  la  sociedad  del  riesgo",
+Ariño,   A.   (2002).  "La  patrimonialización  de  la  cultura  y  sus  paradojas  en  la  sociedad  del  riesgo".
 ¿Más   allá   de   la   modernidad?   Las   dimensiones   de   la   información,  la  comunicación  y  sus  nuevas
 tecnologías (J.M. García y P. Navarro, eds.), CIS, Madrid, pp. 329-352
 
@@ -51,6 +51,12 @@ Lord, B. y Lord, G.D. (1998). Manual de gestión de museos, Editorial Ariel, Bar
 Marcos   Arévalo,   J.   (2010).  "El  patrimonio  como  representación  colectiva.  La  intangibilidad  de  los
 bienes culturales", Gaceta de Antropología, 26(1), artículo nº 19
 
+Martín Guglielmino, M. (2007). "La difusión del patrimonio. Actualización y debate", e-rph 1
+
+Morales   Miranda,  J.  (2001).  Guía  Práctica  para  la  Interpretación  del  Patrimonio.  El  arte  de  acercar
+el   legado  natural  y  cultural  al  público  visitante,  Consejería  de  Cultura  de  la  Junta  de  Andalucía  y
+TRAGSA, Sevilla
+
 Querol, M.Á. (2020). Manual de gestión del patrimonio cultural, Akal, Madrid
 
 Rivière,   G.H.   (1983).   La   Museología.   Curso  de  museología:  textos  y  testimonios,  Editorial  Akal,
@@ -73,19 +79,8 @@ procesos de ciencia comunitaria en el rural . Instituto de Arqueología, Mérida
 Zamora, E. (2011). "Sobre patrimonio y desarrollo. Aproximaciones al concepto de patrimonio cultural
 y su utilización en procesos de desarrollo territorial", Pasos, 9(1), pp. 101-113
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Martín   Guglielmino,   M.   (2007).   La  difusión  del  patrimonio.  Actualización  y  debate,  e-rph  Morales
-Miranda,   J.   (2001).   Guía   Práctica   para   la  Interpretación  del  Patrimonio.  El  arte  de  acercar  el
-legado   natural   y   cultural   al  público  visitante,  Consejería  de  Cultura  de  la  Junta  de  Andalucía  y
-TRAGSA,   Sevilla   →  Morales  Miranda,  J.  (2001).  Guía  Práctica  para  la  Interpretación  del  Patrimonio.
-El   arte   de   acercar  el  legado  natural  y  cultural  al  público  visitante,  Consejería  de  Cultura  de  la
-Junta de Andalucía y TRAGSA, Sevilla
-
-✅ Recursos añadidos:
-------------------------------
-Martín Guglielmino, M. (2007). "La difusión del patrimonio. Actualización y debate", e-rph 1
-
 Martínez   Fernández,   G.;   García  González,  J.;  Dorado  Alejos,  A.  (2024):  La  difusión  del  patrimonio
 arqueológico . Editorial Técnica Avicam, Granada
 
@@ -93,4 +88,4 @@ Pérez-Aguilar, L.G.; Castillo-González, P. (2022): "La construcción social de
 arqueológico.   El   caso  de  los  merlones  contemporáneos  del  recinto  fortificado  de  Alcalá  de  Guadaíra
 (Sevilla, España)", Memória em Rede, 14(26): 36-71
 
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

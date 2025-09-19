@@ -2,11 +2,11 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 Banfi,   F.,   Brumana,   R.,   &   Stanga,   C.   (2019).   Extended  reality  and  informative  models  for  the
 architectural   heritage:   from   scan-to-BIM   process   to   virtual   and   augmented   reality.   Virtual
@@ -34,10 +34,16 @@ Technology in Cultural Heritage Conservation. The Frontiers of Society, Science 
 Felicísimo,   Á.   M.,   &  Polo,  M.  E.  (2022).  Measurement  and  control  of  colour  fidelity  in  scanned  3D
 models for heritage conservation. Journal of Cultural Heritage, 56, 159-166
 
-Kraus, K. "Photogrammetry: Geometry from Images and Laser Scans ",Walter de Gruyter, 2007
+Kraus, K. "Photogrammetry: Geometry from Images and Laser Scans ",Walter de Gruyter , 2007
 
 Luhmann   T.,   Robson  S.,  Kyle  S.,  Harley  I.,  "Close  Range  Photogrammetry:  Principles,  Techniques  and
 Applications",Wiley, 2007
+
+Pujol,   L.;   “Archaeology,   museums   and   virtual   reality”,   Revista   digital   de  humanidades,  UOC.
+(http://www.uoc.edu/humfil/articles/eng/pujol0304/pujol0304.pdf) Tucci, G., Bonora, V., Conti, A., &
+Fiorini,   L.   (2017).   High-quality   3D   models   and   their   use  in  a  cultural  heritage  conservation
+project.   The   International   Archives   of   Photogrammetry,   Remote   Sensing  and  Spatial  Information
+Sciences, 42, 687-693
 
 Remondino,   Fabio.   2011.   "Heritage   Recording  and  3D  Modeling  with  Photogrammetry  and  3D  Scanning"
 Remote Sensing 3, no. 6: 1104-1138. https://doi.org/10.3390/rs3061104
@@ -48,18 +54,10 @@ tutorials. The Eurographics Association. ISSN 1017-4565. 2002
 Scopigno,   R.,   Callieri,  M.,  Cignoni,  P.,  Corsini,  M.,  Dellepiane,  M.,  Ponchio,  F.,  &  Ranzuglia,  G.
 (2011). 3D models for cultural heritage: Beyond plain visualization. Computer, 44(7), 48-55
 
-Tucci,   G.,   Bonora,   V.,  Conti,  A.,  &  Fiorini,  L.  (2017).  High-quality  3D  models  and  their  use  in  a
-cultural heritage conservation project. The International Archives of Photogrammetry, Remote Sensing
-and Spatial Information Sciences, 42, 687-693
-
 Varios,   Scientfic   Examination   of   Art.  Modern  Techniques  in  Conservation  and  Analysis,  NAS  Press,
 Washington
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 "Blender        4.4        Reference        Manual".        The       Blender       Foundation.       2025.
 https://docs.blender.org/manual/en/latest/
@@ -70,9 +68,10 @@ Menna,   F.,   E.   Nocerino,   F.   Remondino,   M.   Dellepiane,   M.   Callie
 digitisation of a heritage masterpiece – a critical analysis. In ISPRS-international archives of the
 photogrammetry, remote sensing and spatial information sciences, 675–683
 
-Pujol,   L.;   “Archaeology,   museums   and   virtual   reality”,   Revista   digital   de  humanidades,  UOC.
-(http://www.uoc.edu/humfil/articles/eng/pujol0304/pujol0304.pdf)
+Tucci,   G.,   Bonora,   V.,  Conti,  A.,  &  Fiorini,  L.  (2017).  High-quality  3D  models  and  their  use  in  a
+cultural heritage conservation project. The International Archives of Photogrammetry, Remote Sensing
+and Spatial Information Sciences, 42, 687-693
 
 Varios autores. Meshlab. https://www.meshlab.net/#references
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

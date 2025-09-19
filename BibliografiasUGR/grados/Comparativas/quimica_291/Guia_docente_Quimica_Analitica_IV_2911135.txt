@@ -2,13 +2,21 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+CELA,   R.,   LORENZO,  R.  y  CASAIS,  M.C.,  “TÉCNICAS  DE  SEPARACIÓN  EN  QUÍMICA  ANALÍTICA”,  Ed.  Síntesis,
+2002   VALCÁRCEL  CASES,  M.  y  GÓMEZ  HENS,  A.,  “TÉCNICAS  ANALÍTICAS  DE  SEPARACIÓN”,  Reverté,  1988  GROB,
+R.L. y BARRY, E.F., “MODERN PRACTICE OF GAS CHROMATOGRAPHY”, 4ª ed., Wiley Interscience, 2004
 
-📚 Recursos sin cambios:
+VÍLCHEZ   QUERO,   J.L.   "QUÍMICA   ANALITICA",   1ª   ed,   Editorial   Fleming,   Granada   2023   KATZ,  E.,
+“QUANTITATIVE   ANALYSIS   USING   CHROMATOGRAPHIC   TECHNIQUES”,   John  Wiley  &  Sons,  Gran  Bretaña,  1998
+CAZES, J., “HANDBOOK OF AFFINITY CHROMATOGRAPHY”, 2ª ed., Taylor and Francis, 2010
+
+📚 Recursos sin cambios (10):
 ------------------------------
 CRUCES BLANCO, C. “ELECTROFORESIS CAPILAR”, 1ª ed, Universidad de Almería, 1998
+
+ESTEBAN, L., “LA ESPECTROMETRÍA DE MASAS EN IMÁGENES”, ACK Editores. Madrid, 1993
 
 HOLLER, F.S., SKOOG, D.A. y GROUCH S.R. “PRINCIPLES OF INSTRUMENTAL ANALYSIS”, 6ª ed., Thomson, 2007
 
@@ -29,30 +37,20 @@ SNYDER, L.R., KIRKLAND, J.J. y GLAJCH, J.L., “PRACTICAL HPLC METHOD DEVELOPMEN
 VALCÁRCEL,   M.   y   CÁRDENAS,   M.S.,   “AUTOMATIZACIÓN   Y   MINIATURIZACIÓN   EN  QUÍMICA  ANALÍTICA”,  Ed.
 Springer (Barcelona) 2000
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CELA,   R.,   LORENZO,  R.  y  CASAIS,  M.C.,  “TÉCNICAS  DE  SEPARACIÓN  EN  QUÍMICA  ANALÍTICA”,  Ed.  Síntesis,
-2002   VALCÁRCEL  CASES,  M.  y  GÓMEZ  HENS,  A.,  “TÉCNICAS  ANALÍTICAS  DE  SEPARACIÓN”,  Reverté,  1988  GROB,
-R.L.   y   BARRY,   E.F.,   “MODERN   PRACTICE  OF  GAS  CHROMATOGRAPHY”,  4ª  ed.,  Wiley  Interscience,  2004  →
-GROB, R.L. y BARRY, E.F., “MODERN PRACTICE OF GAS CHROMATOGRAPHY”, 4ª ed., Wiley Interscience, 2004
-
-VÍLCHEZ   QUERO,   J.L.   "QUÍMICA   ANALITICA",   1ª   ed,   Editorial   Fleming,   Granada   2023   KATZ,  E.,
-“QUANTITATIVE   ANALYSIS   USING   CHROMATOGRAPHIC   TECHNIQUES”,   John  Wiley  &  Sons,  Gran  Bretaña,  1998
-CAZES,   J.,   “HANDBOOK   OF   AFFINITY   CHROMATOGRAPHY”,   2ª   ed.,   Taylor  and  Francis,  2010  →  VÍLCHEZ
-QUERO, J.L. "QUÍMICA ANALITICA", 1ª ed, Editorial Fleming, Granada 2023
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 CAZES, J., “HANDBOOK OF AFFINITY CHROMATOGRAPHY”, 2ª ed., Taylor and Francis, 2010
 
 CELA,   R.,   LORENZO,  R.  y  CASAIS,  M.C.,  “TÉCNICAS  DE  SEPARACIÓN  EN  QUÍMICA  ANALÍTICA”,  Ed.  Síntesis,
 2002
 
-ESTEBAN, L., “LA ESPECTROMETRÍA DE MASAS EN IMÁGENES”, ACK Editores. Madrid, 1993
+GROB, R.L. y BARRY, E.F., “MODERN PRACTICE OF GAS CHROMATOGRAPHY”, 4ª ed., Wiley Interscience, 2004
 
 KATZ, E., “QUANTITATIVE ANALYSIS USING CHROMATOGRAPHIC TECHNIQUES”, John Wiley & Sons, Gran Bretaña,
 1998
 
 VALCÁRCEL CASES, M. y GÓMEZ HENS, A., “TÉCNICAS ANALÍTICAS DE SEPARACIÓN”, Reverté, 1988
 
-📊 Porcentaje estimado de cambio: 63% [██████░░░░]
+VÍLCHEZ QUERO, J.L. "QUÍMICA ANALITICA", 1ª ed, Editorial Fleming, Granada 2023
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

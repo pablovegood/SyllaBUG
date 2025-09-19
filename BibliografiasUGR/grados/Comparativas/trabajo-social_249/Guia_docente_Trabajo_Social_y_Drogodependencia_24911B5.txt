@@ -2,11 +2,20 @@
 Grado: trabajo-social (249)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Delgado,   E.,  Sánchez,  D.,  Márquez,  M.  (1999).  Programa  de  Prevención  de  drogodependencias  (Tabaco  y
+Alcohol)   al  finalizar  la  Educación  Primaria.  Comisionado  para  la  Droga.  Junta  de  Andalucía.  Sevilla
+Escohotado,   A.  (1989).  Historia  de  las  drogas  I/II/III.  Alianza.  Madrid.  (1994).  Las  drogas:  De  los
+orígenes a la prohibición. Alianza Cien. Madrid
 
-📚 Recursos sin cambios:
+Observatorio    Español    de    las    Drogas    y   las   Adicciones   (2021).   Informe   sobre   adicciones
+comportamentales    2020.    Edita    Ministerio    de    Sanidad.    Disponible   en:   https://pnsd.sanida
+d.gob.es/profesionales/sistemasInformacion/sistemaInformacion/pdf/2020_Informe_a
+dicciones_comportamentales.pdf   Observatorio   Europeo   de   las  Drogas  (2011).  Informe  anual  2011.  El
+problema de la drogodependencia en Europa. Observatorio Europeo de las drogas. Luxemburgo
+
+📚 Recursos sin cambios (25):
 ------------------------------
 AA.VV.   (2003).   Guía   de   procedimientos   de   intervención   social   en  orientación  sociolaboral  con
 personas   en   tratamiento  por  drogodependencias.  Agencia  Antidroga  de  la  Consejería  de  Sanidad  de  la
@@ -77,31 +86,18 @@ Madrid. Madrid
 Proyecto   Hombre   (2021).   Propuesta   de   Intervención   con   adolescentes,  jóvenes  y  familias  en  los
 programas de prevención indicada de Proyecto Hombre. Edición propia
 
+Romaní,   O.   (2004):   Las   drogas.   Sueños  y  razones.  Ariel.  Barcelona  Rubio,  G.  y  Santo-Domingo,  J.
+(2004). Todo sobre las drogas. Mr. Ediciones. Madrid. Vega Fuentes, A. (1993). La acción social ante
+las drogas. Edit. Narcea. Madrid
+
 Valero   Llorca,   J.  y  Solbes  Valero,  S.  (2012).  Mediación,  justicia  restaurativa,  drogodependencias,
 prevención, conflicto, paz. En Revista Española de Drogodependencia. Vol. 37 (4), pp 465-478
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Delgado,   E.,  Sánchez,  D.,  Márquez,  M.  (1999).  Programa  de  Prevención  de  drogodependencias  (Tabaco  y
-Alcohol)   al  finalizar  la  Educación  Primaria.  Comisionado  para  la  Droga.  Junta  de  Andalucía.  Sevilla
-Escohotado,   A.   (1989).   Historia   de   las   drogas   I/II/III.  Alianza.  Madrid.  (1994).  Las  drogas  →
 Delgado,   E.,  Sánchez,  D.,  Márquez,  M.  (1999).  Programa  de  Prevención  de  drogodependencias  (Tabaco  y
 Alcohol) al finalizar la Educación Primaria. Comisionado para la Droga. Junta de Andalucía. Sevilla
 
-Romaní,   O.   (2004):   Las   drogas.   Sueños  y  razones.  Ariel.  Barcelona  Rubio,  G.  y  Santo-Domingo,  J.
-(2004). Todo sobre las drogas. Mr. Ediciones. Madrid. Vega Fuentes, A. (1993). La acción social ante
-las   drogas.   Edit.   Narcea.   Madrid   →   Romaní,   O.   (2004):   Las   drogas.  Sueños  y  razones.  Ariel.
-Barcelona
-
-Observatorio    Español    de    las    Drogas    y   las   Adicciones   (2021).   Informe   sobre   adicciones
-d.gob.es/profesionales/sistemasInformacion/sistemaInformacion/pdf/2020_Informe_a
-dicciones_comportamentales.pdf   Observatorio   Europeo   de   las  Drogas  (2011).  Informe  anual  2011.  El
-problema   de   la   drogodependencia   en   Europa.   Observatorio   Europeo   de   las  drogas.  Luxemburgo  →
-Observatorio Europeo de las Drogas (2011). Informe anual 2011. El problema de la drogodependencia en
-Europa. Observatorio Europeo de las drogas. Luxemburgo
-
-✅ Recursos añadidos:
-------------------------------
 Escohotado,   A.  (1989).  Historia  de  las  drogas  I/II/III.  Alianza.  Madrid.  (1994).  Las  drogas:  De  los
 orígenes a la prohibición. Alianza Cien. Madrid
 
@@ -109,7 +105,9 @@ Observatorio    Español    de    las    Drogas    y   las   Adicciones   (2021)
 comportamentales 2020. Edita Ministerio de Sanidad. Disponible en: https://pnsd.sanidad.gob.es/profe
 sionales/sistemasInformacion/sistemaInformacion/pdf/2020_Informe_adicciones_comportamentales.pdf
 
-Rubio, G. y Santo-Domingo, J. (2004). Todo sobre las drogas. Mr. Ediciones. Madrid. Vega Fuentes, A.
-(1993). La acción social ante las drogas. Edit. Narcea. Madrid
+Observatorio Europeo de las Drogas (2011). Informe anual 2011. El problema de la drogodependencia en
+Europa. Observatorio Europeo de las drogas. Luxemburgo
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+Romaní, O. (2004): Las drogas. Sueños y razones. Ariel. Barcelona
+
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

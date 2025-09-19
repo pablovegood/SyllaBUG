@@ -2,23 +2,28 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 AA.VV.: Comentarios al Código Penal, (Dirigidos por Cobo del Rosal) t. 5, Madrid, 2001
 
 ARANA   GARCÍA,   E.,   CASTILLO  BLANCO,  F.,  TORRES  LÓPEZ,  M.A.  y  VILLALBA  PÉREZ,  F.  (Dirs.),  Conceptos
-para   el   estudio  del  Derecho  Administrativo  II  en  el  Grado,  Tecnos,  Madrid,  última  edición.  BOLETÍN
-OFICIAL DEL ESTADO: Legislación en materia de Tráfico, Circulación y Seguridad Vial
+para el estudio del Derecho Administrativo II en el Grado, Tecnos, Madrid, última edición
+
+BOLETÍN OFICIAL DEL ESTADO: Legislación en materia de Tráfico, Circulación y Seguridad Vial
 
 MOLINA   FERNÁNDEZ,  F.  Delitos  contra  la  seguridad  vial:  su  aplicación  jurisprudencial.  Edit.  Francis
 Lefebvre. Madrid, 2014
 
 MORILLAS   CUEVA,   L.   (Coordinador).   Delincuencia   de   tráfico   y  seguridad  vial.  Aspectos  penales,
 civiles y procesales. Edit. Dykinson. Madrid, 2007
+
+MORILLAS CUEVA, L. (Coordinador). Sistema de Derecho penal español. Edit. Dykinson. Madrid, 2011
+
+OLMEDO CARDENETE, .- ARÁNGUEZ SÁNCHEZ, C. (Eds). Delitos e infracciones contra la seguridad vial
 
 QUERALT JIMÉNEZ, J.J.: Derecho Penal Español, PE, Barcelona, 2010. Edit. Atelier
 
@@ -28,17 +33,8 @@ J.M.- GARCÍA ALBERO, R.: Comentarios a la Parte Especial del Derecho Penal, 30 
 SILVA SÁNCHEZ, J. Mª (Director). Lecciones de Derecho penal. Parte especial. 3ª edic. Edit. Atelier.
 Barcelona, 2011
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-ARANA   GARCÍA,   E.,   CASTILLO  BLANCO,  F.,  TORRES  LÓPEZ,  M.A.  y  VILLALBA  PÉREZ,  F.  (Dirs.),  Conceptos
-para el estudio del Derecho Administrativo II en el Grado, Tecnos, Madrid, última edición
-
-MORILLAS CUEVA, L. (Coordinador). Sistema de Derecho penal español. Edit. Dykinson. Madrid, 2011
-
-OLMEDO CARDENETE, .- ARÁNGUEZ SÁNCHEZ, C. (Eds). Delitos e infracciones contra la seguridad vial
-
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,36 +2,33 @@
 Grado: administracion-direccion-empresas-dcho-melilla (528)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
+ARNALDO ALCUBILLA, E., Jurisdicción Contencioso-Administrativa, La Ley, última ed
+
+CORDÓN MORENO, F., El proceso contencioso-administrativo, Aranzadi, Pamplona, última ed
+
+El   profesorado   indicará,   en   su   caso,   la   bibliografía  complementaria  que  podrá  consultar  el
+alumnado para la preparación de puntos concretos del programa
+
 GIMENO SENDRA, V., MORENO CATENA, V., SALA SÁNCHEZ, P.,Derecho Procesal Administrativo, C.E. Ramón
 Areces, Madrid, última ed
 
 GONZÁLEZ GARCÍA, S., Proceso contencioso-administrativo, Editorial Avicam, Granada, última ed
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-ARNALDO ALCUBILLA, E., Jurisdicción Contencioso-Administrativa, La Ley, última ed
-
-Areces, Madrid, última ed
-
-CORDÓN MORENO, F., El proceso contencioso-administrativo, Aranzadi, Pamplona, última ed
-
+MORENO   CATENA,   V.,   ARNAIZ   SERRANO,   A.,  LÓPEZ  JIMÉNEZ,  R.,  LOREDO  COLUNGA,  M.,Derecho  Procesal
 Contencioso- Administrativo, Tirant Lo Blanch, última ed
-
-El   profesorado   indicará,   en   su   caso,   la   bibliografía  complementaria  que  podrá  consultar  el
-alumnado para la preparación de puntos concretos del programa
-
-MORENO CATENA, V., ARNAIZ SERRANO, A., LÓPEZ JIMÉNEZ, R., LOREDO COLUNGA, M., Derecho Procesal
 
 RUIZ RISUEÑO, F., El proceso contencioso-administrativo, Colex, Madrid, última ed
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Areces, Madrid, última ed
+
+MORENO CATENA, V., ARNAIZ SERRANO, A., LÓPEZ JIMÉNEZ, R., LOREDO COLUNGA, M., Derecho Procesal
+
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

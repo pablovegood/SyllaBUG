@@ -2,11 +2,11 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (31):
 ------------------------------
 Ahmed,   Leila.   Women   and  Gender  in  Islam:  Historical  Roots  of  a  Modern  Debate  .  New  Haven,  London:
 Yale University, 1992
@@ -33,12 +33,13 @@ Encyclopaedia of Islam . Segunda edición. 11 vols. Leiden: Brill, 1979-2002
 Encyclopaedia       of       Islam       .       Tercera       edición.      Leiden:      Brill,      2007-.
 https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3
 
-Esposito, John L. (ed). The Oxford History of Islam . Nueva York: Oxford University Press, 1999
-
 Gellner, Ernest. La sociedad musulmana . Trad. José Andrés. México D.F.: Fondo de Cultura Económica,
 1986
 
 Goodman, Lenn E. Islamic humanism . Nueva York: Oxford University Press, 2003
+
+Gutas, Dimitri. Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and
+Early Abbasid Society (2nd-4th/8th-10th centuries) . Londres: Routledge, 1998
 
 Guthrie, Shirley. Arab Social Life in the Middle Ages . Londres: Saqi Books, 1995
 
@@ -57,11 +58,20 @@ Lindsay, James E. The Medieval Islamic World . Westport: Greenwood Press, 2005
 Lockman,   Zachary.   Contending  Visions  of  the  Middle  East:  The  History  and  Politics  of  Orientalism  .
 Cambridge: Cambridge University Press, 2004
 
+Lévi-Provençal,   É.   La   civilización  árabe  en  España  .  Trad.  Isidro  de  las  Cagigas.  Madrid:  Espasa-
+Calpe, 1969
+
 Marín,   Manuela.   Mujeres   en   al-Andalus  .  Madrid:  Consejo  Superior  de  Investigaciones  Científicas,
 2000
 
 Mateos   Paramio,   A.   Memoria  de  los  Moriscos.  Escritos  y  relatos  de  una  diáspora  cultural  .  Madrid:
 Sociedad Estatal de Conmemoraciones Culturales (SECC), 2010
+
+Mazahéri,   Aly.   La   vie  quotidienne  des  musulmans  au  Moyen  Âge:  Xe  au  XIII  siècle  .  París:  Hachete,
+1951
+
+Meri, Josef W. (ed). Medieval Islamic Civilization: An Encyclopedia . 2 vols. Nueva York: Routledge,
+2006
 
 Mernissi, Fatima. Sexe, ideologie, Islam. Rabat: Éditions Maghrébines 1985
 
@@ -79,23 +89,11 @@ Vernet, Juan. Literatura árabe . Barcelona: Acantilado, 2002
 Von   Grunebaum,   Gustave   E.   “Muslim  Civilization  in  the  Abbasid  Period”.  En  The  Cambridge  Medieval
 History . 5 vols. Cambridge: Cambridge University Press, 1966, vol. IV, pp. 662-695
 
-🔁 Misma obra con edición/año distinto:
+https://referenceworks.brillonline.com/browse/encyclopaedia-of-islam-3   Esposito,   John  L.  (ed).  The
+Oxford History of Islam. Nueva York: Oxford University Press, 1999
+
+✅ Recursos añadidos (0):
 ------------------------------
-Cambridge   University   Press,  1983-2006  →  Holt,  P.  M.  et  alii  (eds.).  The  Cambridge  History  of  Islam
-. 4 vols. Cambridge: Cambridge University Press, 2008
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Gutas, Dimitri. Greek Thought, Arabic Culture: The Graeco-Arabic Translation Movement in Baghdad and
-Early Abbasid Society (2nd-4th/8th-10th centuries) . Londres: Routledge, 1998
-
-Lévi-Provençal,   É.   La   civilización  árabe  en  España  .  Trad.  Isidro  de  las  Cagigas.  Madrid:  Espasa-
-Calpe, 1969
-
-Mazahéri,   Aly.   La   vie  quotidienne  des  musulmans  au  Moyen  Âge:  Xe  au  XIII  siècle  .  París:  Hachete,
-1951
-
-Meri, Josef W. (ed). Medieval Islamic Civilization: An Encyclopedia . 2 vols. Nueva York: Routledge,
-2006
-
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

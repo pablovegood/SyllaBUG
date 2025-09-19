@@ -2,11 +2,11 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 AGUADO I CUDOLA, V.: Derecho de la seguridad pública y privada, Thomson Aranzadi, Navarra, 2007
 
@@ -24,6 +24,9 @@ Granada, CEMCI, Granada, 2012
 GÓMEZ-BRAVO   PALACIOS,   P.:   Seguridad   privada.   Consultas   e   informes  sobre  la  normativa  vigente,
 Ministerio del Interior-Dikinson, Madrid, 2006 (2ª ed.)
 
+IZQUIERDO CARRASCO, M.: "La seguridad privada a debate. Algunas cuestiones jurídicas esenciales", en
+Cuadernos del Instituto Universitario de Investigación sobre Seguridad Interior (IUISI), pp. 1-24
+
 IZQUIERDO CARRASCO, M.: La noción y los servicios de seguridad privada, Lex Nova, Valladolid, 2004
 
 IZQUIERDO   CARRASCO,   M.:   La  seguridad  privada:  régimen  jurídico  administrativo  (prólogo  de  Luciano
@@ -36,13 +39,8 @@ PARRADO   MORENO,  J.  A.:  La  policía  en  el  estado  autonómico:  las  com
 de las comunidades autónomas de Andalucía y País Vasco, Instituto Andaluz de Administración Pública,
 2001
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-IZQUIERDO CARRASCO, M.: "La seguridad privada a debate. Algunas cuestiones jurídicas esenciales", en
-Cuadernos del Instituto Universitario de Investigación sobre Seguridad Interior (IUISI), pp. 1-24
-
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

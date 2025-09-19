@@ -2,38 +2,18 @@
 Grado: estudios-franceses (277)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Dictionnaires   bilingues:   Gran   Diccionario   Larousse   español-francés,   francés-español,   Larousse
-editorial,   S.L.  2007  (CD  Babylon)  Dictionnaire  moderne  français-espagnol,español-francés,  R.  García
-Pelayo   et   J.   Testas,   Larousse,   Paris.   (Exercices   élémentaires).   350   exercices  de  grammaire,
-Collection   Exerçons-nous,   Hachette,   (niveau   débutant)   et   corrigés   350  exercices  de  grammaire,
-Collection Exerçons-nous, Hachette, (niveau moyen) et corrigés. (Grammaires avancées). Le Bon Usage,
-Maurice Grevisse-André Goosse, éd. Duculot. Dictionnaire des difficultés du français moderne, Joseph
-Hanse,   éd.   Duculot.   Grammaire   du  français  classique  et  moderne,  Wagner  et  Pinchon,  ed.  Hachette.
-Grammaire   du   sens   et   de   l’expression,   Patrick   Charaudeau,   Hachette.   Grammaire  méthodique  du
-français, Riegel
-
-Grammaire   expliquée  du  français,  Sylvie  Poisson  Quinton,  Reine  Mimran,  Michèle  Mahéo-Le  Coadic,  CLE
-international, 2002
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Manuels:   Avendaño   Anguita,   L.,   2008,   Le   thème   grammatical  espagnol-français  1:  morphosyntaxe,
-Comares-   Universidad   de  Granada,  Col.  Lingüística.  Avendaño  Anguita,  L  &  Bernabé  Gil,  Mª  L.,  2006,
-Le français par les textes narratifs. Niveau moyen et supérieur 1, Comares – Universidad de Granada.
-Col   Lingüística   →   Avendaño   Anguita,   L   &   Bernabé   Gil,  Mª  L.,  2006,  Le  français  par  les  textes
-narratifs. Niveau moyen et supérieur 1, Comares – Universidad de Granada. Col Lingüística
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (19):
 ------------------------------
 350   exercices   de   grammaire,  Collection  Exerçons-nous,  Hachette,  (niveau  débutant)  et  corrigés  350
 exercices   de  grammaire,  Collection  Exerçons-nous,  Hachette,  (niveau  moyen)  et  corrigés.  (Grammaires
 avancées)
+
+Avendaño   Anguita,   L   &   Bernabé   Gil,   Mª   L.,   2006,  Le  français  par  les  textes  narratifs.  Niveau
+Dictionnaire unilingue Pour le français
 
 Avendaño   Anguita,   L.,   2008,   Le   thème   grammatical   espagnol-français  1:  morphosyntaxe,  Comares-
 Universidad de Granada, Col. Lingüística
@@ -44,38 +24,48 @@ Diccionario de la Real Academia Española
 
 Diccionario de luso del español, María Moliner, ed. Gredos, Madrid, 2 vol
 
-Diccionario del español actual, Manuel Seco, Olimpia Andrés y Gabino Ramos, Aguilar, Madrid
+Diccionario   del   español   actual,   Manuel   Seco,   Olimpia   Andrés   y  Gabino  Ramos,  Aguilar,  Madrid.
+Dictionnaires bilingues
 
 Diccionario ideológico de la lengua española, Julio Casares, ed. Gustavo Gili, Barcelona
 
 Dictionnaire des difficultés du français moderne, Joseph Hanse, éd. Duculot
 
-Dictionnaire unilingue Pour le français
-
-Dictionnaires bilingues
-
-Dictionnaires unilingues pour l’espagnol
-
 Grammaire du français classique et moderne, Wagner et Pinchon, ed. Hachette
 
 Grammaire du sens et de l’expression, Patrick Charaudeau, Hachette
 
-Grammaire méthodique du français, Riegel
+Grammaire   expliquée  du  français,  Sylvie  Poisson  Quinton,  Reine  Mimran,  Michèle  Mahéo-Le  Coadic,  CLE
+international, 2002. La conjugaison
 
-Grammaires de base
+Grammaire méthodique du français, Riegel
 
 Gran   Diccionario   Larousse   español-francés,   francés-español,   Larousse   editorial,   S.L.  2007  (CD
 Babylon)   Dictionnaire   moderne   français-espagnol,español-francés,   R.   García  Pelayo  et  J.  Testas,
 Larousse, Paris. (Exercices élémentaires)
 
-La conjugaison
+Le Bon Usage, Maurice Grevisse-André Goosse, éd. Duculot
 
-Le Petit Robert I, CLE international (Version simplifiée pour débutant)
+Le Petit Robert I, CLE international (Version simplifiée pour débutant). Grammaires de base
 
 Le Petit Robert I, ed. Le Robert, Paris
 
-Le nouveau bescherelle. L’art de conjuguer. Dictionnaire de 12000 verbes, Hatier
+Le   nouveau   bescherelle.   L’art   de   conjuguer.  Dictionnaire  de  12000  verbes,  Hatier.  Dictionnaires
+unilingues pour l’espagnol
 
-Temario elaborado por los profesores en PRADO
+Temario elaborado por los profesores en PRADO. Manuels
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (5):
+------------------------------
+Avendaño   Anguita,   L  &  Bernabé  Gil,  Mª  L.,  2006,  Le  français  par  les  textes  narratifs.  Niveau  moyen
+et supérieur 1, Comares – Universidad de Granada. Col Lingüística
+
+Dictionnaires bilingues
+
+Dictionnaires unilingues pour l’espagnol
+
+Grammaires de base
+
+La conjugaison
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

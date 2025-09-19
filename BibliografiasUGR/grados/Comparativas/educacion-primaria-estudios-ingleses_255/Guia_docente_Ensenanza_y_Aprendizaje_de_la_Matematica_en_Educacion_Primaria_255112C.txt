@@ -2,25 +2,16 @@
 Grado: educacion-primaria-estudios-ingleses (255)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Fernández). Sociedad Andaluza de Educación Matemática Thales, 2003
 
-📚 Recursos sin cambios:
-------------------------------
-Burgos,   M.   (2023).  Razonamiento  algebraico  elemental.  Implicaciones  en  la  formación  de  profesores.
-Universidad de Almería
+Godino, J. D. (2004). Matemáticas para maestros. Departamento de Didáctica de la Jiménez, J. (1997).
+Evaluación en matemáticas. Una integración de perspectivas. Síntesis
 
-Consejería de Educación y Deporte. (2021). Orden de 15 de enero de 2021, por la que se desarrolla el
-currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía, se
-regulan   determinados   aspectos   de  la  atención  a  la  diversidad,  libros  de  texto  de  matemáticas  para
-Educación Primaria de diversas editoriales y sus correspondientes guías del profesor
+NCTM (2000). Principios y estándares para la educación matemática. (Traducción de M
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (22):
 ------------------------------
 Alsina, C., Burgués, C. y Fortuny, J.M. (1998). Enseñar matemáticas. Graó
 
@@ -29,6 +20,9 @@ Educación. ISBN 978-84-9980-938-0
 
 Bihsop,   A.   J   (1999).   Enculturación   matemática.   La   educación   matemática  desde  una  perspectiva
 cultural. Temas de educación. Paidós
+
+Burgos,   M.   (2023).  Razonamiento  algebraico  elemental.  Implicaciones  en  la  formación  de  profesores.
+Universidad de Almería
 
 Carrillo   Yáñez,   J.   (Coord.).   (2016).   Didáctica   de   las   matemáticas  para  maestros  de  Educación
 primaria. Paraninfo
@@ -50,16 +44,11 @@ correspondientes guías del profesor
 Flores,   P.   y   Rico,   L.   (Eds.)   (2015).   Enseñanza   y  aprendizaje  de  las  matemáticas  en  Educación
 Primaria. Pirámide
 
-Godino,   J.   D.   (2004).   Matemáticas   para   maestros.   Departamento   de  Didáctica  de  la  Matemática.
-Universidad de Granada
-
 Godino,   J.   D.  (Dir.)  (2004).  Didáctica  de  las  matemáticas  para  maestros.  Departamento  de  Didáctica
 de la Matemática. Universidad de Granada. Disponible en: http://www.ugr.es/local/jgodino/
 
 Jefatura   del  Estado.  (2020).  Ley  Orgánica  3/2020,  de  29  de  diciembre,  por  la  que  se  modifica  la  Ley
 Orgánica 2/2006, de 3 de mayo, de Educación. Madrid: Autor
-
-Jiménez, J. (1997). Evaluación en matemáticas. Una integración de perspectivas. Síntesis
 
 MECD.   (2022a).   Real   Decreto  157/2022,  de  1  de  marzo,  por  el  que  se  establecen  la  ordenación  y  las
 enseñanzas mínimas de la Educación Primaria. BOE, 52, 2 de marzo de 2022
@@ -74,13 +63,10 @@ con el método ABN. En 4º, 5º y 6º y preparación para la ESO. Wolters Kluwer
 
 Materiales y recursos para la enseñanza de las matemáticas de Educación Primaria
 
-NCTM   (2000).   Principios   y   estándares  para  la  educación  matemática.  (Traducción  de  M.  Fernández).
-Sociedad Andaluza de Educación Matemática Thales, 2003
-
 OECD     (2018).     PISA     2021     Mathematics    Framework    (Draft).    Disponible    a    través    de
 https://www.oecd.org/pisa/sitedocument/PISA-2021-mathematics-framework.pdf
 
-OTROS RECURSOS
+OTROS RECURSOS: Libros de texto de Matemáticas de Educación Primaria
 
 Resnick,   L.   y   Ford,   W.   (1990).   La  enseñanza  de  las  matemáticas  y  sus  fundamentos  psicológicos.
 Paidós-MEC
@@ -93,4 +79,19 @@ Segovia, I. y Rico, L. (Eds.) (2013). Matemáticas para maestros de Educación P
 Van   de   Walle,   J.   A.   (2009)   Elementary  and  Middle  School  Mathematics.  Teaching  Developmentally.
 Pearson
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (5):
+------------------------------
+Godino,   J.   D.   (2004).   Matemáticas   para   maestros.   Departamento   de  Didáctica  de  la  Matemática.
+Universidad de Granada
+
+Jiménez, J. (1997). Evaluación en matemáticas. Una integración de perspectivas. Síntesis
+
+NCTM   (2000).   Principios   y   estándares  para  la  educación  matemática.  (Traducción  de  M.  Fernández).
+Sociedad Andaluza de Educación Matemática Thales, 2003
+
+NCTM   (2000).   Principios   y   estándares  para  la  educación  matemática.  (Traducción  de  M.  Fernández).
+Sociedad Andaluza de Educación Matemática Thales, 2003
+
+OTROS RECURSOS
+
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

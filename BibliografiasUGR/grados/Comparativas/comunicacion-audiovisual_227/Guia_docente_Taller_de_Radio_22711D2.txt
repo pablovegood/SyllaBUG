@@ -2,11 +2,12 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Pérez,   G.   Curso  básico  de  periodismo  audiovisual.  Eunsa,  Pamplona,  2003  Prado,  E.  Estructura  de  la
+información radiofónica. Mitre, Barcelona, 1985
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Arboledas, L. El ombligo del periodista. Periodismo local en el siglo XXI. Comares, Granada, 2007
 
@@ -46,13 +47,7 @@ Sanabria, F. Información audiovisual. Bosch, Barcelona, 1994
 
 Soengas, X. Informativos radiofónicos. Cátedra, 2003
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Pérez,   G.   Curso  básico  de  periodismo  audiovisual.  Eunsa,  Pamplona,  2003  Prado,  E.  Estructura  de  la
-información    radiofónica.    Mitre,    Barcelona,   1985   →   Pérez,   G.   Curso   básico   de   periodismo
-audiovisual. Eunsa, Pamplona, 2003
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Camarero,   Emma   (coord.).   La   nueva   era   del   pódcast.   Claves   y   tendencias  de  la  industria  del
 podcasting y el arte de crear contenido en audio. Madrid: Lid Editorial Empresaria, 2023
@@ -61,7 +56,9 @@ Meca, José Antonio. La sustancia de la voz. Málaga: Ediciones Aljibe, 2014
 
 Prado, E. Estructura de la información radiofónica. Mitre, Barcelona, 1985
 
+Pérez, G. Curso básico de periodismo audiovisual. Eunsa, Pamplona, 2003
+
 Pérez,   Juan  Carlos.  Cómo  escribir  para  radio.  El  periodismo  radial  del  siglo  XXI.  Madrid:  Editorial
 Académica Española, 2017
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

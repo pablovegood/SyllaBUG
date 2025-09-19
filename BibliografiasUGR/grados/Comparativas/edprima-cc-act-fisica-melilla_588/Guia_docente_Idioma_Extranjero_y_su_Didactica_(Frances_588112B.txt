@@ -2,11 +2,13 @@
 Grado: edprima-cc-act-fisica-melilla (588)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Jeffroy, Géraldine (2015).Bulles de France A2-C1. PUG Lions-Olivieri, Marie-Laure, & Liria, Philippe
+(Coords.)   (2011).L’approche  actionnelle  dans  l’enseignement  des  langues  :  douze  articles  pour  mieux
+comprendre et faire le point(2e édition). Maison des langues
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Adam, Catherine (2014).Chouette ! Méthode de français. Santillana, Didier
 
@@ -73,16 +75,12 @@ Vantier, Hélène (2009).L'enseignement aux enfants en classe de langue. CLE Int
 
 Álimon, Gemma (2017).Francés para niños de Primaria 1. CreateSpace Independent Publishing Platform
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Jeffroy, Géraldine (2015).Bulles de France A2-C1. PUG Lions-Olivieri, Marie-Laure, & Liria, Philippe
-(Coords.)   (2011).L’approche  actionnelle  dans  l’enseignement  des  langues  :  douze  articles  pour  mieux
-comprendre   et   faire   le   point(2e   édition).   Maison   des  langues  →  Lions-Olivieri,  Marie-Laure,  &
-Liria,   Philippe   (Coords.)   (2011).L’approche   actionnelle   dans  l’enseignement  des  langues  :  douze
-articles pour mieux comprendre et faire le point(2e édition). Maison des langues
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Jeffroy, Géraldine (2015).Bulles de France A2-C1. PUG
 
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+Lions-Olivieri,    Marie-Laure,   &   Liria,   Philippe   (Coords.)   (2011).L’approche   actionnelle   dans
+l’enseignement   des   langues   :   douze  articles  pour  mieux  comprendre  et  faire  le  point(2e  édition).
+Maison des langues
+
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

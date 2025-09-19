@@ -2,11 +2,17 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Akhamanov   ,   S.A.   and   Nikitin   S.Yu.,  “Physycal  Optics”  Clarendon  Press  Oxford  (1997)  Boyd,  R.W.,
+“Nonlinear Optics”, Academic Press (2003) Senior, J.M., “Optical Fiber Communications”, John Wiley &
+Sons   (2008)  Capmany  J.  et  al.  “Fundamentos  de  comunicaciones  ópticas”,  Ed.  Síntesis(1998)  Casas,  J.
+“Óptica”. Librería Pons, Zaragoza (1983)
 
-📚 Recursos sin cambios:
+Goodman,   J.W.,   “Introduction   to  Fourier  Optics”,  Roberts  and  Company  Eds  (2005)  Díaz  Navas,  J.A.,
+Medina, J.M. “Ondas de Luz”, Copicentro Ed., (2006)
+
+📚 Recursos sin cambios (10):
 ------------------------------
 Born, M. y Wolf, E., "Principles of Optics", Pergamon Press, 6a edición corregida (1989)
 
@@ -16,7 +22,7 @@ Ghatak, A., "Optics", McGraw Hill (1977)
 
 Hecht, E. y Zajac, A., "Óptica", Addison-Wesley Iberoamericana (2000)
 
-Kenyon I.R., “The Light Fantastic”. Oxford (2008)
+Kenyon I.R. , “The Light Fantastic”. Oxford (2008)
 
 Klein, M.V., "Optics", John Wiley & Sons (1970)
 
@@ -29,28 +35,20 @@ Svelto, O. “Principles of Lasers”, Springer (2010)
 
 Young, M., "Optics and Lasers", Springer Verlag, 2a edición (1984)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Akhamanov   ,   S.A.   and   Nikitin   S.Yu.,  “Physycal  Optics”  Clarendon  Press  Oxford  (1997)  Boyd,  R.W.,
-“Nonlinear Optics”, Academic Press (2003) Senior, J.M., “Optical Fiber Communications”, John Wiley &
-Sons   (2008)  Capmany  J.  et  al.  “Fundamentos  de  comunicaciones  ópticas”,  Ed.  Síntesis(1998)  Casas,  J.
-“Óptica”.   Librería   Pons,   Zaragoza   (1983)   →   Capmany   J.   et   al.  “Fundamentos  de  comunicaciones
-ópticas”, Ed. Síntesis(1998)
-
-Goodman,   J.W.,   “Introduction   to  Fourier  Optics”,  Roberts  and  Company  Eds  (2005)  Díaz  Navas,  J.A.,
-Medina,   J.M.   “Ondas   de   Luz”,   Copicentro   Ed.,   (2006)  →  Goodman,  J.W.,  “Introduction  to  Fourier
-Optics”, Roberts and Company Eds (2005)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 Akhamanov, S.A. and Nikitin S.Yu., “Physycal Optics” Clarendon Press Oxford (1997)
 
 Boyd, R.W., “Nonlinear Optics”, Academic Press (2003)
 
+Capmany J. et al. “Fundamentos de comunicaciones ópticas”, Ed. Síntesis(1998)
+
 Casas, J. “Óptica”. Librería Pons, Zaragoza (1983)
 
 Díaz Navas, J.A., Medina, J.M. “Ondas de Luz”, Copicentro Ed., (2006)
 
+Goodman, J.W., “Introduction to Fourier Optics”, Roberts and Company Eds (2005)
+
 Senior, J.M., “Optical Fiber Communications”, John Wiley & Sons (2008)
 
-📊 Porcentaje estimado de cambio: 58% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 52% [█████░░░░░]

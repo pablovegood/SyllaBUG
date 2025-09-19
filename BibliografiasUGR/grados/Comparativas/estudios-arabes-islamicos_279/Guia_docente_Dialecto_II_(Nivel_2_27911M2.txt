@@ -2,14 +2,18 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+AGUADÉ,   Jordi,   y   SALIM,  A.  (2023),  Gramática  de  árabe  tangerino.  Cádiz,  Q-Books  Cultural  Integral
+S.L AGUADÉ, Jordi y Laila Benyahya (2005). Diccionario de árabe marroquí. Cádiz: Quórum
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (31):
 ------------------------------
 ABU-SHAMS,   Leila.   Estudio   lingüístico   y   textual   del   léxico   relativo   a   la   cocina  y  a  la
 alimentación en el dialecto árabe de Rabat (Marruecos). Zaragoza: Universidad de Zaragoza, 2002
+
+AGUADÉ,   J.   (ed.).  Estudios  de  Dialectología  Norteafricana  y  Andalusí  (EDNA).  Aragón:  Instituto
+de Estudios Islámico y del Oriente Próximo
 
 AGUADÉ,   J.  et  al.  (eds.)  (1998).  Peuplement  et  Arabisation  au  Maghreb  Occidental.  Madrid-Zaragoza:
 Casa de Velázquez-Universidad de Zaragoza
@@ -87,16 +91,9 @@ TAUZIN, A. (2008). Insultes, injures et vannes: en France et au Maghreb. Paris: 
 VICENTE    SÁNCHEZ,   Á.   (2000).   El   dialecto   árabe   de   Anjra   (Norte   de   Marruecos).   Estudio
 lingüístico y textos. Zaragoza: Universidad de Zaragoza
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-AGUADÉ,   Jordi,   y   SALIM,  A.  (2023),  Gramática  de  árabe  tangerino.  Cádiz,  Q-Books  Cultural  Integral
-S.L   AGUADÉ,   Jordi   y   Laila   Benyahya   (2005).  Diccionario  de  árabe  marroquí.  Cádiz:  Quórum  →
 AGUADÉ, Jordi y Laila Benyahya (2005). Diccionario de árabe marroquí. Cádiz: Quórum
-
-✅ Recursos añadidos:
-------------------------------
-AGUADÉ,   J.   (ed.).  Estudios  de  Dialectología  Norteafricana  y  Andalusí  (EDNA).  Aragón:  Instituto
-de Estudios Islámico y del Oriente Próximo
 
 AGUADÉ,   Jordi,   y   SALIM,  A.  (2023),  Gramática  de  árabe  tangerino.  Cádiz,  Q-Books  Cultural  Integral
 S.L

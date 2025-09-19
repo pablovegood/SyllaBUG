@@ -2,21 +2,18 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-ENCYCLOPEDIA   OF  CHEMICAL  PROCESSING  AND  DESIGN.  Mcketta  J.J.  (ed).  M.  Dekker  ULLMANN'S  ENCYCLOPEDIA
-OF   INDUSTRIAL  CHEMISTRY.  Wiley  Online  LibraryUllmann’s  Encyclopedia  of  Industrial  Chemistry  -  Wiley
-Online Library. (2014)
+No hay elementos.
 
-INTRODUCCIÓN   A   LA   INGENIERÍA  DE  LOS  ALIMENTOS  (2ª  edición).  Singh,  R.P  y  OPERACIONES  UNITARIAS  EN
-INGENIERÍA QUÍMICA (Séptima Edición). McCabe, W.L
-
-Smith,   J.C.  y  Harriot,  P.  Editorial  Mc-Graw-Hill  Interamericana  (2007).  FENÓMENOS  DE  TRANSPORTE:  UN
-ESTUDIO   SISTEMÁTICO  DE  LOS  FUNDAMENTOS  DEL  TRANSPORTE  DE  MATERIA,  ENERGÍA  Y  CANTIDAD  DE  MOVIMIENTO.
-Bird, R.B
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
+DOWNSTREAM   INDUSTRIAL   BIOTECHNOLOGY   RECOVERY   AND  PURIFICACTION.  Flickinger,  M.  John  Wiley  &  Sons
+Inc. (2013). Bibliografía en Inglés
+
+ENCYCLOPEDIA   OF   CHEMICAL   PROCESSING   AND   DESIGN.   Mcketta   J.J.   (ed).   M.  Dekker  inc.  61  tomos.
+Ordenados alfabéticamente. Diferentes años
+
 FENÓMENOS   DE   TRANSPORTE:   UN   ESTUDIO   SISTEMÁTICO   DE   LOS  FUNDAMENTOS  DEL  TRANSPORTE  DE  MATERIA,
 ENERGÍA   Y   CANTIDAD   DE   MOVIMIENTO.   Bird,  R.B.;  Stewart,  W.E.  y  Lightfoot,  E.N.  Editorial  Reverté
 (2001)
@@ -26,34 +23,26 @@ Inglés
 
 INGENIERÍA DE BIOPROCESOS. Díaz, M. Editorial Paraninfo (2012)
 
-MANUAL   DEL  INGENIERO  QUÍMICO  (Séptima  edición,  Cuarta  edición  en  español).  Perry,  R.H.;  Green,  D.W.
-y Maloney J. O. Editorial McGraw-Hill. (2001)
-
-PRINCIPIOS DE INGENIERIA DE LOS BIOPROCESOS. Doran, P.M. Editorial Acribia (1998)
-
-UPSTREAM   INDUSTRIAL   BIOTECHNOLOGY.   Flickinger,   M.  John  Wiley  &  Sons  Inc.  (2013).  Bibliografía  en
-Inglés
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-DOWNSTREAM   INDUSTRIAL   BIOTECHNOLOGY   RECOVERY   AND  PURIFICACTION.  Flickinger,  M.  John  Wiley  &  Sons
-Inc. (2013). Bibliografía en Inglés
-
-ENCYCLOPEDIA   OF   CHEMICAL   PROCESSING   AND   DESIGN.   Mcketta   J.J.   (ed).   M.  Dekker  inc.  61  tomos.
-Ordenados alfabéticamente. Diferentes años
-
 INTRODUCCIÓN   A   LA   INGENIERÍA   DE  LOS  ALIMENTOS  (2ª  edición).  Singh,  R.P  y  Heldman,  D.R.  Editorial
 Acribia (2009). Bibliografía en Inglés
 
+MANUAL   DEL  INGENIERO  QUÍMICO  (Séptima  edición,  Cuarta  edición  en  español).  Perry,  R.H.;  Green,  D.W.
+y Maloney J. O. Editorial McGraw-Hill. (2001)
+
 OPERACIONES   UNITARIAS  EN  INGENIERÍA  QUÍMICA  (Séptima  Edición).  McCabe,  W.L.;  Smith,  J.C.  y  Harriot,
 P. Editorial Mc-Graw-Hill Interamericana (2007)
+
+PRINCIPIOS DE INGENIERIA DE LOS BIOPROCESOS. Doran, P.M. Editorial Acribia (1998)
 
 ULLMANN'S   ENCYCLOPEDIA   OF   INDUSTRIAL   CHEMISTRY.   Wiley   Online   LibraryUllmann’s  Encyclopedia  of
 Industrial    Chemistry    -    Wiley    Online    Library.    (2014).    Retrieved   June   18,   2014,   from
 http://onlinelibrary.wiley.com/book/10.1002/14356007. Bibliografía en Inglés
 
-📊 Porcentaje estimado de cambio: 88% [████████░░]
+UPSTREAM   INDUSTRIAL   BIOTECHNOLOGY.   Flickinger,   M.  John  Wiley  &  Sons  Inc.  (2013).  Bibliografía  en
+Inglés
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,13 @@
 Grado: farmacia-nutricion-humana-dietetica (225)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Vargas A.M. y Sola M.M. Estructura de Biomoléculas y Biología Molecular. 500 Preguntas tipo test con
+explicación   de   todas   las   respuestas.  Ed.  Avicam,  Granada,  2019  Voet  D  y  Voet  J.  “Bioquímica”.  3ª
+edición. Panamericana, Madrid, 2006
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 Devlin TM. “Bioquímica”. 4ª Edición. Reverté, Barcelona, 2015
 
@@ -24,7 +26,7 @@ Lodish I, Harvey F, Kaiser CA. Molecular Cell Biology. 8a Ed. Palgrave Macmillan
 Luque   J,   Herráez   A.   “Texto   ilustrado   de   Biología   Molecular  e  Ingeniería  Genética.  Conceptos,
 técnicas y aplicaciones en Ciencias de la Salud”. Harcourt, Madrid, 2001
 
-Mathews CK, Van Holde KE. “Bioquímica”. Pearson, Madrid, 2013
+Mathews CK , Van Holde KE. “Bioquímica”. Pearson, Madrid, 2013
 
 Nelson   DL,   Cox   MM.   “Lehninger.   Principles   of   Biochemistry”.   8ª   Edición.  Ediciones  MacMillan
 International, Nueva York, 2021
@@ -50,16 +52,11 @@ York, 2007
 
 Wolters Kluwer “Biología Molecular y Celular” Chandar y Viselli. Lippincot Williams & Wilking. 2011
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 Vargas A.M. y Sola M.M. Estructura de Biomoléculas y Biología Molecular. 500 Preguntas tipo test con
-explicación   de   todas   las   respuestas.  Ed.  Avicam,  Granada,  2019  Voet  D  y  Voet  J.  “Bioquímica”.  3ª
-edición.   Panamericana,   Madrid,   2006   →   Vargas   A.M.   y   Sola   M.M.   Estructura  de  Biomoléculas  y
-Biología   Molecular.   500   Preguntas   tipo  test  con  explicación  de  todas  las  respuestas.  Ed.  Avicam,
-Granada, 2019
+explicación de todas las respuestas. Ed. Avicam, Granada, 2019
 
-✅ Recursos añadidos:
-------------------------------
 Voet D y Voet J. “Bioquímica”. 3ª edición. Panamericana, Madrid, 2006
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

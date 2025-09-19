@@ -2,20 +2,14 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 AENOR. Análisis sensorial. 2ª edición. AENOR. Madrid, 2010
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Anzaldua-Morales,   A.   La  evaluación  sensorial  de  los  alimentos  en  la  teoría  y  la  práctica.  Acribia.
 Zaragoza, 1994
 
@@ -38,4 +32,8 @@ Universitat de Barcelona. Barcelona, 1999
 
 Stone, H.; SIDEC, JL. Sensory evaluation practices. Academic Press. California, 1993
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

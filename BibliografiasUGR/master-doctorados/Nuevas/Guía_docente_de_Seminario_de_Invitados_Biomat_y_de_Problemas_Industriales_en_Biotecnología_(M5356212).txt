@@ -1,6 +1,0 @@
-1.- L. Edelstein-Keshet. Mathematical Models in Biology, (Random House, New York, 1988).
-2.- M.A. Herrero, Reaction-diffusion Systems: a Mathematical Biology Approach. Cancer Modelling and Simulation, (L. Preziosi, Chapman and Hall, 2003), 367-420.
-3.- J. Keener, J. Sneyd, Mathematical Physiology, Interdisciplinary Applied Mathematics Vol 8/I, (Springer, 2009).
-4.- T. Miura and P.K. Maini, Periodic pattern formation in reaction-diffusion systems: An introduction for numerical simulation, Anatomical Science International 79 (2004), 112-123.
-5(1).- J. D. Murray, Mathematical Biology I. An introduction, 3rd Edition. (Springer Verlag, New York, 2002). 5(2).- J.D. Murray, Mathematical Biology II. Spatial Models and Biomedical Applications, 3rd Edition. (Springer Verlag, New York, 2002).
-6.- B. Perthame, Transport Equations in Biology, Series Frontiers in Mathematics 8, (Birkhäuser 2007).

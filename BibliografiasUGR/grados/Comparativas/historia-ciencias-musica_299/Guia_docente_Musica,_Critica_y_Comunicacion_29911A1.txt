@@ -2,12 +2,14 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (27):
 ------------------------------
+1047-1064 ARNHEIM, Rudolf, Estética radiofónica. Barcelona: Gustavo Gili, 1980
+
 BALLESTER, Jordi and Germán GAN QUESADA (eds.), Music Criticism, 1900-1950, Turnhout, Brepols, 2018
 
 BATISTA,   Antoni,   «La   crítica   musical   en   las   modernas  ciencias  de  la  comunicación»,  Revista  de
@@ -33,6 +35,10 @@ arte, 9 (2002), págs. 113-122
 
 DAYAN, Peter, Music writing literature, from Sand via Debussy to Derrida, Farnham, UK, Ashgate, 2006
 
+ERICKSON,    Gregory,   «Speaking   of   Music:   Explorations   in   the   Language   of   Music   Criticism»,
+Enculturation,   2/2   (1999).  http://www.enculturation.net/2_2/erickson.html  [Consulta:  15  de  mayo  de
+2019]
+
 FAIRCLOUGH, Norman, Language and power, London, Longman, 1989
 
 FERRERO   BLANCO,   Susana,   La   radio   musical   como  germen  para  el  nacimiento  del  pop  español,  Tesis
@@ -44,6 +50,12 @@ No. 3 "Music and Television", 2002, pp. 277-290
 GOULD, Glenn, Escritos críticos, Barcelona, Turner, 1989
 
 GRIJELMO, Álex. El estilo del periodista, Madrid, Taurus, 2014
+
+HERBERT,   Trevor,  Music  in  words.  A  guide  to  researching  and  writing  about  music,  London,  UK,  ABRSM,
+[2010]
+
+HOLGADO,   Andrea   Ximena,   identidad   sonora   en   tiempos  de  intermedioa.  Estética,  ficción  y  nuevos
+formatos sonoros/radiofónicos, Medrano, CICCUS, 2013
 
 HOLOMAN,   Dallas   Kern,   Writing   about  music:  a  style  sheet,  Berkeley,  CA,  University  of  California
 Press, 2008
@@ -68,22 +80,8 @@ WINGELL, Richard, Writing about music: an introductory guide, New Jersey, NJ, Pe
 ÁLVAREZ   VAQUERO,   Alicia,   «Narrativa   de  los  programas  musicales  en  televisión:  evolución  y  nuevas
 estructuras», Revista Comunicación, Nº10, Vol.1, año 2012, pp. 1047-1064
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-ERICKSON,   Gregory,   «Speaking  of  Music:  Explorations  in  the  Language  of  Music  [Consulta:  15  de  mayo
-de   2019]   →   ERICKSON,   Gregory,   «Speaking   of   Music:   Explorations   in   the   Language   of   Music
-Criticism»,   Enculturation,  2/2  (1999).  http://www.enculturation.net/2_2/erickson.html  [Consulta:  15
-de mayo de 2019]
+No hay elementos.
 
-HERBERT,   Trevor,  Music  in  words.  A  guide  to  researching  and  writing  about  music,  London,  UK,  ABRSM,
-[2010].   y   nuevos   formatos  sonoros/radiofónicos,  Medrano,  CICCUS,  2013  →  HERBERT,  Trevor,  Music  in
-words. A guide to researching and writing about music, London, UK, ABRSM, [2010]
-
-✅ Recursos añadidos:
-------------------------------
-ARNHEIM, Rudolf, Estética radiofónica. Barcelona: Gustavo Gili, 1980
-
-HOLGADO,   Andrea   Ximena,   identidad   sonora   en   tiempos  de  intermedioa.  Estética,  ficción  y  nuevos
-formatos sonoros/radiofónicos, Medrano, CICCUS, 2013
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

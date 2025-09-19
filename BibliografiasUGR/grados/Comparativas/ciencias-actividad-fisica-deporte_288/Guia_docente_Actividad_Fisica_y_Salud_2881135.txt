@@ -2,43 +2,16 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Muñoz J, Delgado-Fernández M. (coord.). Carbonell-Baeza A, Aparicio VA, Ruiz JR, Ortega FB, Delgado-
-Fernández   M.   2010.   Guía  de  recomendaciones  para  la  promoción  de  2018  Physical  Activity  Guidelines
-Advisory   Committee.   2018   Physical   Activity   Guidelines   Advisory   Committee   Scientific   Report.
-Washington, DC: U.S. Department of Health and Human Services, 2018
+2018   Physical   Activity   Guidelines   Advisory  Committee.  2018  Physical  Activity  Guidelines  Advisory
+Committee Scientific Report. Washington, DC: U.S. Department of Health and Human Services, 2018
 
-los   diferentes   campos   de   la   A.F   y   D  de  la  actividad  física  y  del  deporte  entre  las  diferentes
-poblaciones   niveles   cada   tipo   de  actividad  inadecuadas  de  actividades  físico  deportivas  otras  de
-presencia científica significativa las CC del a A F y D. para la salud en función de las necesidades
-de los sujetos. abarcan el tema de la actividad física para la salud en sujetos sanos y enfermos. su
-labor   debe   fomentar  un  adecuado  estado  de  salud  de  los  sujetos;  identificar  y  prevenir  los  riesgos
-asociados   a   la   actividad   física;   y  trabajar  multidisciplinarmente  con  otros  expertos  tales  como
-profesionales   en   ciencias   de  la  salud,  psicólogos,  nutricionistas  y  dietistas,  sociólogos  y  otros
-agentes relacionados. del conocimiento, la información procederá esencialmente de fuentes primarias,
-para   lo   cual   se   deberá  acceder  con  frecuencia  tanto  a  las  bases  de  datos  científicas  como  Web  of
-Science   o   Pubmed,   así   como   a   páginas  web  de  instituciones  vinculadas  al  ámbito  de  la  actividad
-física   y   la   salud,   como  las  webs  de  World  Health  Oganization,  American/European  College  of  Sport
-Medicine,   National   Strength  and  Conditioning  Association,  entre  otras.  sobre  la  asignatura  son  las
-siguientes
-
-📚 Recursos sin cambios:
-------------------------------
-WHO   guidelines   on   physical   activity   and  sedentary  behaviour.  Geneva:  World  Health  Organization;
-2020. Licence: CC BY-NC-SA 3.0 IGO
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-ACSM´s Guidelines for exercise testing and prescription. 11ª edición. 2021. Baltimore, MD, Bouchard,
-C.;   Blair,   S.N.;  Haskell,  W.  (2012).  Physical  activity  and  health.  Second  Edition.  Champaign,  IL  :
-Human   Kinetics   →   ACSM´s   Guidelines   for   exercise   testing   and  prescription.  11ª  edición.  2021.
-Baltimore, MD, USA
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (5):
 ------------------------------
 Además,   las   referencias   bibliográficas   que   se  sugieren  para  el  estudio  y  consulta  de  contenidos
-sobre la asignatura son las siguientes
+sobre la asignatura son las siguientes: ACSM´s Guidelines for exercise testing and prescription. 11ª
+edición. 2021. Baltimore, MD, USA
 
 Bouchard,   C.;   Blair,   S.N.;   Haskell,   W.   (2012).   Physical   activity  and  health.  Second  Edition.
 Champaign, IL : Human Kinetics
@@ -54,10 +27,17 @@ Muñoz J, Delgado-Fernández M. (coord.). Carbonell-Baeza A, Aparicio VA, Ruiz J
 Fernández   M.   2010.   Guía   de   recomendaciones  para  la  promoción  de  actividad  física.  Consejería  de
 Salud, Junta de Andalucía
 
+WHO   guidelines   on   physical   activity   and  sedentary  behaviour.  Geneva:  World  Health  Organization;
+2020. Licence: CC BY-NC-SA 3.0 IGO
+
+✅ Recursos añadidos (3):
+------------------------------
+ACSM´s Guidelines for exercise testing and prescription. 11ª edición. 2021. Baltimore, MD, USA
+
 Neil   Armstrong  (Editor),  Willem  van  Mechelen  (Editor).  2018.Oxford  Textbook  of  Children's  Sport  and
 Exercise Medicine
 
 Ward,   D.S.;   Saunders,   R.P.;   Pate,   R.R.   (2007).  Physical  activity  interventions  in  children  and
 adolescents. Champaign, IL : Human Kinetics
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

@@ -2,19 +2,26 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Recensiones/Cuaderno de lecturas: (2013). “Pensamiento político en la España Contemporánea”. Madrid,
-Trotta. Este sistema de
+ROBLES   EGEA,   A.   (2023).   "A   plena  luz  del  día:  El  Golpe  de  Estado  del  General  Primo  de  STORM,  E.
+(2001).   La   perspectiva   del   progreso.   Pensamiento   Político   en   la   España   del  cambio  de  siglo
+(18901914), Biblioteca Nueva
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (34):
 ------------------------------
 ABELLÁN,   J.L.   (1979-1991).  Historia  crítica  del  pensamiento  español,  Espasa  Calpe,  Vols.  IV,  v-l  y
 vol 2
 
+ANTON,   J.   y   CAMINAL,   M.   (1992).  Pensamiento  Político  en  la  España  Contemporánea.  1800-1950,  Ed.
+Teide, Madrid
+
 ARTOLA, M. (1991). Partidos y programas políticos, 1808-1936. Alianza Editorial, 2 vols
 
 BENEYTO, J. M. (1999). Tragedia y razón. Europa en el pensamiento español del siglo XX, Taurus
+
+BÁSICA:   MENÉNDEZ   ALZAMORA,   M.   y   ROBLES   EGEA,   A.   (2013).   “Pensamiento   político  en  la  España
+Contemporánea”. Madrid, Trotta
 
 CABRERA, M. (Dir.) (1998). Con luz y taquígrafos. El parlamento en la Restauración, Taurus
 
@@ -37,11 +44,11 @@ Madrid, c.s.l.c., 1983. Ha aparecido el VII, Madrid, 2004
 ELORZA,   A.  "Las  ideas  políticas",  en  ARTOLA,  M.  (1993).  Enciclopedia  de  Historia  de  España,  Vol.  3,
 Alianza Editorial
 
+ELORZA,   A.   ,   (1990).   La   modernización   política   en  España:  Ensayos  de  historia  del  pensamiento
+político, Endymion
+
 ELORZA,   A.   y  LOPEZ  ALONSO,  C.  (1989).  Arcaísmo  y  modernidad.  Pensamiento  político  en  España,  siglo
 XIX-XX, Biblioteca Historia 16
-
-ELORZA,   A.,   (1990).   La   modernización   política   en   España:   Ensayos  de  historia  del  pensamiento
-político, Endymion
 
 FUSI, J. P. (2021). Pensar España. Arzalia edicionesd
 
@@ -74,16 +81,11 @@ Diálogo, 2 vols
 MENÉNDEZ   ALZAMORA,   M.   "Pensamiento   político   español   del  siglo  XX.  A)  La  generación  del  14",  en
 VALLESPÍN, F., (2001). Historia de la Teoría Política, cap. XII del vol. 6, Alianza Editorial
 
-MENÉNDEZ   ALZAMORA,   M.  y  ROBLES  EGEA,  A.  (2013).  “Pensamiento  político  en  la  España  Contemporánea”.
-Madrid, Trotta
+MENÉNDEZ ALZAMORA, M. (2006). La Generación del 14. Una aventura intelectual, Siglo XXI
 
 RAMIREZ, M. (1978). España, 1939-1975 (Régimen Político e ideología), Ed. Guadarrama
 
-ROBLES   EGEA,   A.   (2023).   "A   plena   luz   del   día:  El  Golpe  de  Estado  del  General  Primo  de  Rivera
-(1923)", Universidad de Granada
-
-STORM, E. (2001). La perspectiva del progreso. Pensamiento Político en la España del cambio de siglo
-(18901914), Biblioteca Nueva
+RAMIREZ, M. (1978). Las fuentes ideológicas de un régimen. España, 1939-1945, Pórtico
 
 SUÁREZ   CORTINA,   M.   (Ed.)   (1997).   La  Restauración,  entre  el  liberalismo  y  la  democracia,  Alianza
 Editorial
@@ -98,22 +100,14 @@ Sarpe, Biblioteca de la Historia de España
 
 VARELA, J. (1999). La novela de España. Los intelectuales y el problema español, Taurus
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MENÉNDEZ   ALZAMORA,   M.   (2006).   La   Generación  del  14.  Una  aventura  intelectual,  Siglo  RAMIREZ,  M.
-(1978).   Las   fuentes   ideológicas  de  un  régimen.  España,  1939-1945,  Pórtico  →  MENÉNDEZ  ALZAMORA,  M.
-(2006). La Generación del 14. Una aventura intelectual, Siglo XXI
-
-1800-1950,   Ed.   Teide,   Madrid   →  ANTON,  J.  y  CAMINAL,  M.  (1992).  Pensamiento  Político  en  la  España
-Contemporánea. 1800-1950, Ed. Teide, Madrid
-
-ANTON,   J.   y   CAMINAL,   M.   (1992).   Pensamiento   Político  en  la  España  Contemporánea  →  ANTON,  J.  y
-CAMINAL, M. (1992). Pensamiento Político en la España Contemporánea. 1800-1950, Ed. Teide, Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Acceso electrónico abierto en la Biblioteca de la UGR
 
-RAMIREZ, M. (1978). Las fuentes ideológicas de un régimen. España, 1939-1945, Pórtico
+ROBLES   EGEA,   A.   (2023).   "A   plena   luz   del   día:  El  Golpe  de  Estado  del  General  Primo  de  Rivera
+(1923)", Universidad de Granada
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+STORM, E. (2001). La perspectiva del progreso. Pensamiento Político en la España del cambio de siglo
+(18901914), Biblioteca Nueva
+
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

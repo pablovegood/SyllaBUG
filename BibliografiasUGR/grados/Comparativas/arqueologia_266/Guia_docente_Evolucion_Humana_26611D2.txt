@@ -2,14 +2,15 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
-Aiello   L,   Dean   C.   Human  Evolutionary  Anatomy.  Academic  Press  Boyd  y  Silo.  Como  evolucionaron  los
-humanos. Ariel
+Aiello L, Dean C. Human Evolutionary Anatomy. Academic Press
+
+Boyd y Silo. Como evolucionaron los humanos. Ariel
 
 Coppens, L. y Picq, P.: Los orígenes de la humanidad. EspasaForum
 
@@ -18,8 +19,11 @@ Ember, Ember y Peregrine. Antropología. Pearson
 Johanson   D.   Edgar,   B.   From   Lucy   to   Language.   Simon  and  Schuster  Jones,  Martin  y  Pilbeam.  The
 Cambridge Encyclopedia of Human Evolution. Cambridge University Press
 
-Jordan   P.   Neanderthal.   Sutton   Publishing   Lewin  R.  Human  evolution.  Oxford:  Blackwell  Mellars  P,
-Stringer C. The human revolution. Edinburgh University Press
+Jordan   P.  Neanderthal.  Sutton  Publishing  Klug  WS  y  Cummings  MR.  Conceptos  de  Genética  Prentice  Hall
+Lewin   R.   Human  evolution.  Oxford:  Blackwell  Mellars  P,  Stringer  C.  The  human  revolution.  Edinburgh
+University Press
+
+Rebato, Susanne, Chiarelli: Para comprender la Antropología Biológica. Verbo divino
 
 Relethford   J.  Genetics  and  the  search  for  Modern  Human  origins.  WileyLiss  Schwartz  J,  Tattersall  I.
 The   human   fossil   record.  WileyLiss  Stinson  S,  Bogin  B,  O’Rourke  D.  Human  Biology.  An  evolutionary
@@ -35,29 +39,11 @@ generaciones.   Península   Dunbar,   R.   La   odisea   de  la  humanidad.  Cr
 niebla.   Salvat  Goodall,  J.  En  la  senda  del  hombre.  Salvat  Hawley  y  Murillo.  Ecología  humana.  Tecnos
 Sykes.   Las   siete   hijas  de  Eva.  Debate  Tattersall,  I.  Hacia  el  ser  humano.  Península  Willis,  D.  La
 banda   de   homínidos.   Gedisa   Algunas   revistas   disponibles   en   UGR   American  Journal  of  Physical
-Anthropology   Human  Biology  Journal  of  Human  Evolution  Nature  Science  personal  del  alumno.  motivando
-al   alumnado   a   la   reflexión,   facilitándole   el   descubrimiento   de  las  relaciones  entre  diversos
-conceptos y tratando de formarle una mentalidad crítica 2) Clases de aspectos concretos relacionados
-con   la   materia.   Se   tratará   de   que  sean  participativos,  motivando  al  alumno  a  la  reflexión  y  al
-debate.   grupo:   1)  En  aula/laboratorio/aula  de  informática:  contacto  con  el  registro  arqueológico  a
-través de su conocimiento directo o bien a través de medios audiovisuales o programas materia. 2) En
-el   campo:   se   podrán   realizar   visitas   en  grupo  a  yacimientos  y  conjuntos  arqueológicos,  Museos,
-centros   de   investigación,   así  como  entrar  en  contacto  con  la  práctica  arqueológica  a  través  de  la
-prospección y la excavación con el fin de desarrollar la registro arqueológico. individualmente o en
-grupo. Los alumnos presentarán en público los resultados de algunos de estos trabajos, desarrollando
-las   habilidades  y  destrezas  propias  de  la  materia,  trabajos  no  presenciales  desarrollados  en  grupo.
-Las   exposiciones   podrán   ser:   1)   De   cuestiones   prácticas   realizadas   en  casa  o  2)  De  trabajos
-dirigidos
+Anthropology Human Biology Journal of Human Evolution Nature Science
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (24):
 ------------------------------
 Agustí, J. Antes de Lucy.Tusquets
-
-Aiello L, Dean C. Human Evolutionary Anatomy. Academic Press
 
 Algunas   revistas  disponibles  en  UGR  American  Journal  of  Physical  Anthropology  Human  Biology  Journal
 of Human Evolution Nature Science
@@ -87,15 +73,13 @@ Hawley y Murillo. Ecología humana. Tecnos
 
 Johanson D. Edgar, B. From Lucy to Language. Simon and Schuster
 
-Jordan P. Neanderthal. Sutton Publishing
-
 Journal of Human Evolution Nature
 
 Klug WS y Cummings MR. Conceptos de Genética Prentice Hall
 
-Mellars P, Stringer C. The human revolution. Edinburgh University Press
+Lewin R. Human evolution. Oxford: Blackwell
 
-Rebato, Susanne, Chiarelli: Para comprender la Antropología Biológica. Verbo divino
+Mellars P, Stringer C. The human revolution. Edinburgh University Press
 
 Relethford J. Genetics and the search for Modern Human origins. WileyLiss
 
@@ -113,4 +97,4 @@ Willis, D. La banda de homínidos. Gedisa
 
 Wood, B. WileyBlackwell. Encyclopedia of Human Evolution. WileyBlackwell
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 70% [███████░░░]

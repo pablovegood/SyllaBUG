@@ -2,11 +2,11 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Armstrong, H.A., Brasier, M.D., Microfossils. 2005. Blackwell Publishing
 
@@ -31,11 +31,7 @@ Van Morkhoven, F.P., 1962-63. Post Paleozoic Ostracoda. 2 vols., Elsevier, publ.
 
 Winter, A., Siesser, W.G., eds., 1994. Coccolithophores. Cambridge University Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

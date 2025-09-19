@@ -2,11 +2,13 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Dobrow,   R.   P.  (2016).  Introduction  to  Stochastic  Processes  with  R.  Wiley  Gámiz  Pérez,  M.L.  (2000).
+Introducción a los procesos estocásticos. Cadenas de Markov y Ochi, M. K. (1990) Applied Probability
+and Stochastic Processes. John Wiley & Sons, Inc
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Cox, D. R. y Miller, H. D. (1970). The Theory of Stochastic Processes. Methuen. London
 
@@ -28,18 +30,13 @@ Taylor, H. M. and Karlin, S. (1994) An Introduction to Stochastic Modeling. Acad
 
 Tijms, H. C. (2003) A First Course in Stochastic Models. John Wiley and Sons, Chichester
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Dobrow,   R.   P.  (2016).  Introduction  to  Stochastic  Processes  with  R.  Wiley  Gámiz  Pérez,  M.L.  (2000).
-Introducción a los procesos estocásticos. Cadenas de Markov y procesos de renovación. Universidad de
-Granada   Ochi,   M.   K.  (1990)  Applied  Probability  and  Stochastic  Processes.  John  Wiley  &  Sons,  Inc  →
 Dobrow, R. P. (2016). Introduction to Stochastic Processes with R. Wiley
 
-✅ Recursos añadidos:
-------------------------------
 Gámiz   Pérez,  M.L.  (2000).  Introducción  a  los  procesos  estocásticos.  Cadenas  de  Markov  y  procesos  de
 renovación. Universidad de Granada
 
 Ochi, M. K. (1990) Applied Probability and Stochastic Processes. John Wiley & Sons, Inc
 
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

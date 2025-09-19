@@ -2,28 +2,29 @@
 Grado: administracion-direccion-empresas-ceuta (433)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+García   Delgado,   J.L.,   &  Myro,  R.  (Directores)  (2023):  Economía  Española.  Una  introducción.  6ª  ed.
+Civitas, Madrid
 
-📚 Recursos sin cambios:
+García   Delgado,   J.L.,   &   Myro,   R.   (Directores)   (2023):  Lecciones  de  Economía  Española.  17ª  ed.
+Civitas, Madrid
+
+📚 Recursos sin cambios (2):
 ------------------------------
 Carril   Caccia,  F.,  Guerra  Hernández,  A-I  &  Ruíz  Martos,  M.  2023.  Manual  de  Actividades  Prácticas  de
 Estructura Económica de España. Editorial Técnica Avicam-Fleming, Granada
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-García   Delgado,   J.L.,   &  Myro,  R.  (Directores)  (2023):  Economía  Española.  Una  introducción.  6ª  ed.
-Civitas,   Madrid   →   García   Delgado,   J.L.,   &  Myro,  R.  (Directores)  (2025):  Economía  Española.  Una
-introducción. 7ª ed. Thomson-Civitas, Madrid
+Revista:   Papeles   de   Economía   Española.   Varios   números  Revista:  Información  Comercial  Española.
+Varios números
 
-García   Delgado,   J.L.,   &   Myro,   R.   (Directores)   (2023):  Lecciones  de  Economía  Española.  17ª  ed.
-Civitas,   Madrid   →   García   Delgado,   J.L.,   &   Myro,  R.  (Directores)  (2025):  Lecciones  de  Economía
-Española. 18ª ed. Thomson-Civitas, Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
-Revista: Información Comercial Española. Varios números
+García   Delgado,   J.L.,   &  Myro,  R.  (Directores)  (2025):  Economía  Española.  Una  introducción.  7ª  ed.
+Thomson-Civitas, Madrid
+
+García   Delgado,   J.L.,   &   Myro,   R.   (Directores)   (2025):  Lecciones  de  Economía  Española.  18ª  ed.
+Thomson-Civitas, Madrid
 
 Revista: Papeles de Economía Española. Varios números
 

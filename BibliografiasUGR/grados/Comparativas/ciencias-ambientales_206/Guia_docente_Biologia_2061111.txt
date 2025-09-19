@@ -2,11 +2,17 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-Addison Wesley Panamericana Universidad de Granada
+8ª edición. 2009. Editorial Médica Panamericana
 
-📚 Recursos sin cambios:
+Addison   Wesley  Benito,  Espino.  “Genética.  Conceptos  esenciales”.  2013.  1ª  edición.  Editorial  Médica
+Panamericana E Viseras Alarcón. “Cuestiones y problemas resueltos de Genética”. 3ª edición. 2008
+
+B   Alberts.   “Introducción   a  la  Biología  celular”.  5ª  edición.  2010.  Editorial  Omega  CK  Mathews,  KE
+Van Holde, KG Ahern. “Bioquímica”. 3ª edición. 2002. Prentice Hall
+
+📚 Recursos sin cambios (8):
 ------------------------------
 D Sadava, HC Héller, GH Orians, WH Purves, DM Hillis. ”Vida: La Ciencia de la Biología”. 8ª edición.
 2009. Editorial Médica Panamericana
@@ -27,14 +33,12 @@ S Mader. “Concepts of Biology”. 2009. McGraw-Hill
 T   Audesirk,   G   Audesirk.   “Biología.   La   Vida   en  la  Tierra”.  9ª  edición.  2015.  Editorial  Pearson
 Educación
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-B   Alberts.   “Introducción   a  la  Biología  celular”.  5ª  edición.  2010.  Editorial  Omega  CK  Mathews,  KE
-Van   Holde,   KG  Ahern.  “Bioquímica”.  3ª  edición.  2002.  Prentice  Hall  →  B  Alberts.  “Introducción  a  la
-Biología celular”. 5ª edición. 2010. Editorial Omega
+B Alberts. “Introducción a la Biología celular”. 5ª edición. 2010. Editorial Omega
 
-✅ Recursos añadidos:
-------------------------------
+Benito, Espino. “Genética. Conceptos esenciales”. 2013. 1ª edición. Editorial Médica Panamericana
+
 Benito, Espino. “Genética. Conceptos esenciales”. 2013. 1ª edición. Editorial Médica Panamericana
 
 CK Mathews, KE Van Holde, KG Ahern. “Bioquímica”. 3ª edición. 2002. Prentice Hall. Addison Wesley
@@ -42,4 +46,4 @@ CK Mathews, KE Van Holde, KG Ahern. “Bioquímica”. 3ª edición. 2002. Prent
 E   Viseras  Alarcón.  “Cuestiones  y  problemas  resueltos  de  Genética”.  3ª  edición.  2008.  Universidad  de
 Granada
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

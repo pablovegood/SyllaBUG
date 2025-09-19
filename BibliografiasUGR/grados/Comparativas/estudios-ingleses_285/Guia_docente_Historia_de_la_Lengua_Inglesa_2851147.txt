@@ -2,17 +2,58 @@
 Grado: estudios-ingleses (285)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Vol.   1.   Cambridge:  Cambridge  University  Press,  1992.  Hughes,  Geoffrey.  A  History  of  English  Words.
+Malden,   Ma:  Blackwell,  2000.  Lass,  Roger,  and  Richard  M.  Hogg.  The  Cambridge  History  of  the  English
+Language,   1476-1776.   Vol.   3.  Cambridge:  Cambridge  University  Press,  1999.  (*)  McCully,  C.  B.,  and
+Sharon   Hilles.   The   Earliest   English:   An  Introduction  to  Old  English  Language.  London;  New  York:
+Routledge,   2014.  (*)  Nevalainen,  Terttu.  Introduction  to  Early  Modern  English.  Edinburgh:  Edinburgh
+University Press, 2006. (*) Nevalainen, Terttu, and Elizabeth Closs Traugott. The Oxford Handbook of
+the   History  of  English.  New  York;  Oxford:  Oxford  University  Press,  2012.  (*)  Romaine,  Suzanne,  John
+Algeo,   and   David   Denison.   The   Cambridge   History  of  the  English  Language:  1776-1997.  Cambridge:
+Cambridge   University   Press,   1998.   (*)   Schendl,   Herbert.  Historical  Linguistics.  Oxford:  Oxford
+University   Press,   2001.   Smith,   Jeremy   J.   Essentials   of  Early  English:  An  Antroduction  to  Old,
+Middle,   and  Early  Modern  English.  London:  Routledge,  2005.  (*)  Turner,  Marion.  A  Handbook  of  Middle
+English Studies. Hoboken, N.J.: John Wiley & Sons, (*)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (1):
 ------------------------------
+Los   libros   disponibles  en  línea  a  través  de  la  Biblioteca  de  la  UGR  están  marcados  con  un  (*)  -  se
+precisa   conexión   VPN:   https://csirc.ugr.es/informatica/RedUGR/VPN/   Baugh,   Albert  C.,  and  Thomas
+Cable.   A  History  of  the  English  Language.  London:  Routledge,  2013.  Gelderen,  Elly  van.  A  History  of
+the   English   Language.   Philadelphia,   Pennsylvania:   John   Benjamins  Publishing  Company,  2014.  (*)
+Johnson,   Keith.   The  History  of  Early  English:  An  Activity-Based  Approach.  London:  Routledge,  2016.
+(*)   Aitchison,   Jean.   Language   Change:   Progress  or  Decay?  Cambridge:  Cambridge  University  Press,
+2010.   Baker,   Peter   Stuart.   Introduction   to  Old  English.  Chichester,  West  Sussex;  Hoboken,  N.J.:
+Wiley-Blackwell,   2012.   (*)   Barber,  Charles.  Early  Modern  English.  Edinburgh:  Edinburgh  University
+Press, 1997. Blake, Norman, and Richard M. Hogg. The Cambridge History of the English Language: Vol.
+2:   1066-1476.   Cambridge:   Cambridge   University   Press,  1992.  (*)  Brinton,  Laurel  J.  and  Alexander
+Bergs. Middle English. Berlin, Germany; Boston, Massachusetts: De Gruyter Mouton, 2017. (*) Fennell,
+Barbara   A.   A   History   of   English:  A  Sociolinguistic  Approach.  Oxford:  Blackwell,  2001.  Freeborn,
+Dennis.   From   Old   English   to   Standard   English:  A  Course  Book  in  Language  Variation  across  Time.
+Houndmills:   Macmillan  Press,  1994.  Fulk,  Robert  Dennis.  An  Introduction  to  Middle  English:  Grammar;
+Texts.   Peterborough,  Ont.;  London:  Broadview  Press,  2012.  Hogg,  Richard  M.  The  Cambridge  History  of
+the English Language: The Beginnings to
+
+✅ Recursos añadidos (21):
+------------------------------
+Aitchison, Jean. Language Change: Progress or Decay? Cambridge: Cambridge University Press, 2010
+
 Baker,   Peter   Stuart.   Introduction   to  Old  English.  Chichester,  West  Sussex;  Hoboken,  N.J.:  Wiley-
 Blackwell, 2012. (*)
 
+Barber, Charles. Early Modern English. Edinburgh: Edinburgh University Press, 1997
+
+Baugh, Albert C., and Thomas Cable. A History of the English Language. London: Routledge, 2013
+
 Blake,   Norman,   and   Richard   M.   Hogg.   The   Cambridge   History   of   the  English  Language:  Vol.  2:
 1066-1476. Cambridge: Cambridge University Press, 1992. (*)
+
+Brinton,   Laurel   J.  and  Alexander  Bergs.  Middle  English.  Berlin,  Germany;  Boston,  Massachusetts:  De
+Gruyter Mouton, 2017. (*)
+
+Fennell, Barbara A. A History of English: A Sociolinguistic Approach. Oxford: Blackwell, 2001
 
 Freeborn,   Dennis.   From  Old  English  to  Standard  English:  A  Course  Book  in  Language  Variation  across
 Time. Houndmills: Macmillan Press, 1994
@@ -20,61 +61,22 @@ Time. Houndmills: Macmillan Press, 1994
 Fulk,   Robert  Dennis.  An  Introduction  to  Middle  English:  Grammar;  Texts.  Peterborough,  Ont.;  London:
 Broadview Press, 2012
 
+Gelderen,   Elly   van.   A  History  of  the  English  Language.  Philadelphia,  Pennsylvania:  John  Benjamins
+Publishing Company, 2014. (*)
+
 Hogg,   Richard   M.   The   Cambridge   History  of  the  English  Language:  The  Beginnings  to  1066.  Vol.  1.
 Cambridge: Cambridge University Press, 1992
 
 Hughes, Geoffrey. A History of English Words. Malden, Ma: Blackwell, 2000
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Routledge,   2016.   (*)   Aitchison,   Jean.   Language   Change:  Progress  or  Decay?  Cambridge:  Cambridge
-University   Press,   2010  →  Aitchison,  Jean.  Language  Change:  Progress  or  Decay?  Cambridge:  Cambridge
-University Press, 2010
-
-Wiley-Blackwell,   2012.   (*)   Barber,  Charles.  Early  Modern  English.  Edinburgh:  Edinburgh  University
-Press, 1997  →  Barber, Charles. Early Modern English. Edinburgh: Edinburgh University Press, 1997
-
-Vol. 2: 1066-1476. Cambridge: Cambridge University Press, 1992. (*) Brinton, Laurel J. and Alexander
-Bergs. Middle English. Berlin, Germany; Boston, Massachusetts: De Gruyter Mouton, 2017. (*) Fennell,
-Barbara   A.   A   History   of   English:  A  Sociolinguistic  Approach.  Oxford:  Blackwell,  2001  →  Brinton,
-Laurel   J.   and   Alexander  Bergs.  Middle  English.  Berlin,  Germany;  Boston,  Massachusetts:  De  Gruyter
-Mouton, 2017. (*)
-
-Lass,   Roger,  and  Richard  M.  Hogg.  The  Cambridge  History  of  the  English  Language,  1476-1776.  Vol.  3.
-Cambridge:   Cambridge   University   Press,   1999.  (*)  McCully,  C.  B.,  and  Sharon  Hilles.  The  Earliest
-English: An Introduction to Old English Language. London; New York: Routledge, 2014. (*) Nevalainen,
-Terttu.   Introduction   to   Early   Modern   English.   Edinburgh:  Edinburgh  University  Press,  2006.  (*)
-Nevalainen, Terttu, and Elizabeth Closs Traugott. The Oxford Handbook of the History of English. New
-York;   Oxford:   Oxford   University  Press,  2012.  (*)  Romaine,  Suzanne,  John  Algeo,  and  David  Denison.
-The   Cambridge   History   of   the  English  Language:  1776-1997.  Cambridge:  Cambridge  University  Press,
-1998.   (*)   Schendl,   Herbert.   Historical   Linguistics.   Oxford:   Oxford   University   Press,  2001  →
-McCully,   C.   B.,   and  Sharon  Hilles.  The  Earliest  English:  An  Introduction  to  Old  English  Language.
-London; New York: Routledge, 2014. (*)
-
-Smith,   Jeremy   J.   Essentials   of   Early   English:  An  Antroduction  to  Old,  Middle,  and  Early  Modern
-English. London: Routledge, 2005. (*) Turner, Marion. A Handbook of Middle English Studies. Hoboken,
-N.J.:   John   Wiley   &   Sons,   2013.   (*)   →   Turner,   Marion.   A  Handbook  of  Middle  English  Studies.
-Hoboken, N.J.: John Wiley & Sons, 2013. (*)
-
-Gelderen,   Elly   van.   A  History  of  the  English  Language.  Philadelphia,  Pennsylvania:  John  Benjamins
-Publishing   Company,   2014.   (*)   Johnson,   Keith.   The   History  of  Early  English:  An  Activity-Based
-Approach.   London   →   Johnson,   Keith.   The   History   of   Early  English:  An  Activity-Based  Approach.
-London: Routledge, 2016. (*)
-
-✅ Recursos añadidos:
-------------------------------
-Baugh, Albert C., and Thomas Cable. A History of the English Language. London: Routledge, 2013
-
-Fennell, Barbara A. A History of English: A Sociolinguistic Approach. Oxford: Blackwell, 2001
-
-Gelderen,   Elly   van.   A  History  of  the  English  Language.  Philadelphia,  Pennsylvania:  John  Benjamins
-Publishing Company, 2014. (*)
+Johnson,   Keith.   The  History  of  Early  English:  An  Activity-Based  Approach.  London:  Routledge,  2016.
+(*)
 
 Lass,   Roger,  and  Richard  M.  Hogg.  The  Cambridge  History  of  the  English  Language,  1476-1776.  Vol.  3.
 Cambridge: Cambridge University Press, 1999. (*)
 
-Los   libros   disponibles  en  línea  a  través  de  la  Biblioteca  de  la  UGR  están  marcados  con  un  (*)  -  se
-precisa conexión VPN: https://csirc.ugr.es/informatica/RedUGR/VPN/
+McCully,   C.   B.,   and  Sharon  Hilles.  The  Earliest  English:  An  Introduction  to  Old  English  Language.
+London; New York: Routledge, 2014. (*)
 
 Nevalainen, Terttu, and Elizabeth Closs Traugott. The Oxford Handbook of the History of English. New
 York; Oxford: Oxford University Press, 2012. (*)
@@ -89,5 +91,7 @@ Schendl, Herbert. Historical Linguistics. Oxford: Oxford University Press, 2001
 
 Smith,   Jeremy   J.   Essentials   of   Early   English:  An  Antroduction  to  Old,  Middle,  and  Early  Modern
 English. London: Routledge, 2005. (*)
+
+Turner, Marion. A Handbook of Middle English Studies. Hoboken, N.J.: John Wiley & Sons, 2013. (*)
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

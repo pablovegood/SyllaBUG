@@ -2,18 +2,25 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Isaac   Asimov,   Introducción   a   la   Ciencia.   I   –   Ciencias  Físicas.  Editorial  Orbis,  1985  Richard
+Feynman,   El  carácter  de  la  ley  física.  Editorial  Orbis,  1987  Ramón  y  Cajal,  Reglas  y  consejos  sobre
+investigación científica (los tónicos de la voluntad)
 
-📚 Recursos sin cambios:
+http://maxwell.ugr.es/salvador/electrodinamica/librorgomez/librorgomez.htm
+
+📚 Recursos sin cambios (12):
 ------------------------------
+Electricidad   y   Magnetismo:  Estrategias  en  la  solución  de  problemas  y  aplicaciones,  Victor  Serrano.
+S.A. Alhambra Mexicana. 2001
+
 Física (Vol. I y II). Raymond A. Serway. McGraw-Hill, 1997
 
 Física (vol I y II). Resnick, Halliday, Krane. C.E.C.S.A. 2003
 
-Física   Clásica   y   Moderna   .   W.   E.   Gettys,  F.  J.  Keller,  M.  S.  Skove:  Fisica  Clasica  y  Moderna.
-McGraw-Hill, 1991
+Física Clásica y Moderna. W. E. Gettys, F. J. Keller, M. S. Skove: Fisica Clasica y Moderna. McGraw-
+Hill, 1991
 
 Física General, S. Burbano de Ercilla, E. Burbano de Ercilla y C. Gracia Muñoz. Ed.Tébar
 
@@ -34,18 +41,7 @@ Mira
 Rafael   Gómez   Martín,  Campo  Electromagnético:  Propagación  y  Radiación,  Universidad  de  Granada  1984.
 http://maxwell.ugr.es/salvador/electrodinamica/librorgomez/librorgomez.htm
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-McGraw-Hill,    1991.    Electricidad   y   Magnetismo:   Estrategias   en   la   solución   de   problemas   y
-aplicaciones,    Victor    Serrano.    S.A.   Alhambra   Mexicana.   2001   →   Electricidad   y   Magnetismo:
-Estrategias en la solución de problemas y aplicaciones, Victor Serrano. S.A. Alhambra Mexicana. 2001
-
-Isaac   Asimov,   Introducción   a   la   Ciencia.   I   –   Ciencias  Físicas.  Editorial  Orbis,  1985  Richard
-Feynman,   El  carácter  de  la  ley  física.  Editorial  Orbis,  1987  Ramón  y  Cajal,  Reglas  y  consejos  sobre
-investigación   científica   (los  tónicos  de  la  voluntad)  →  Isaac  Asimov,  Introducción  a  la  Ciencia.  I
-– Ciencias Físicas. Editorial Orbis, 1985
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (14):
 ------------------------------
 Bernardo    García    Olmedo,    Fundamentos    de    Electromagnetismo,   Universidad   de   Granada   2005.
 http://maxwell.ugr.es/bgarcia/Fundamentos-em.pdf
@@ -57,14 +53,16 @@ Física (Vol. I y II) . Raymond A. Serway. McGraw-Hill, 1997
 
 Física (vol I y II) . Resnick, Halliday, Krane. C.E.C.S.A. 2003
 
-Física Clásica y Moderna. W. E. Gettys, F. J. Keller, M. S. Skove: Fisica Clasica y Moderna. McGraw-
-Hill, 1991
+Física   Clásica   y   Moderna   .   W.   E.   Gettys,  F.  J.  Keller,  M.  S.  Skove:  Fisica  Clasica  y  Moderna.
+McGraw-Hill, 1991
 
 Física para Universitarios (Vol. I y II) . Douglas G. Giancoli, Pearson Educación 2002
 
 Física para la ciencia y la tecnología (vol I y II) . Tipler, P.A., & Mosca, G., Ed. Reverté, 2005
 
 Isaac Asimov, Introducción a la Ciencia. I – Ciencias Físicas . Editorial Orbis, 1985
+
+Isaac Asimov, Introducción a la Ciencia. I – Ciencias Físicas. Editorial Orbis, 1985
 
 Lecciones de Física . M.R. Ortega y Ortega Girón. Ed. R. Ortega. Universidad de Córdoba
 
@@ -77,4 +75,4 @@ Richard Feynman, El carácter de la ley física . Editorial Orbis, 1987
 
 Richard Feynman, El carácter de la ley física. Editorial Orbis, 1987
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 61% [██████░░░░]

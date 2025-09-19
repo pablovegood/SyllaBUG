@@ -2,12 +2,19 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+HEMSY DE GAINZA, V. (1964). La iniciación musical del niño. Buenos Aires:Ricordi
 
-📚 Recursos sin cambios:
+HEMSY   DE   GAINZA,  V.  (1997).  La  transformación  de  la  educación  musical  a  las  puertas  del  siglo  XXI.
+Buenos Aires: Ricordi
+
+📚 Recursos sin cambios (21):
 ------------------------------
+AGOSTHI-GHERBAN, y RAPP-HESS, C. (1988). El niño, el mundo sonoro y la música. Alcoy: Marfil
+
+Alcoy: Marfil ARONOFF, F.W. (1974). La música y el niño pequeño. Buenos Aires: Ricordi
+
 BACHMANN,   M.-L.   (1998).  La  rítmica  Jacques-Dalcroze.  Una  educación  por  la  música  y  para  la  música.
 Madrid: Pirámide
 
@@ -34,10 +41,6 @@ FRIDMAN, R. (1988). El nacimiento de la inteligencia musical. Buenos Aires: Guad
 
 HARGREAVES, D.J. (1998). Música y desarrollo psicológico. Barcelona: Graó
 
-HEMSY   DE  GAINZA,  V.  (1964).  La  iniciación  musical  del  niño.  Buenos  Aires:Ricordi.  •HEMSY  DE  GAINZA,
-V.   (1997).   La   transformación   de   la  educación  musical  a  las  puertas  del  siglo  XXI.  Buenos  Aires:
-Ricordi
-
 HOWARD, J. (2000). Aprendiendo a Componer. Madrid: Akal
 
 KÜNTZEL-HANSEN,   M.   (1981).   Educación   musical   precoz   y  estimulación  auditiva.  Barcelona:  Médica
@@ -59,14 +62,14 @@ VV.AA.   (2005)   “Recursos   musicales  en  la  educación  musical”  en:  
 
 WILLEMS, E. (1989). El valor humano de la educación musical. Méjico: Paidós
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-AGOSTHI-GHERBAN,   y   RAPP-HESS,   C.   (1988).   El   niño,   el   mundo  sonoro  y  la  música.  Alcoy:  Marfil
-ARONOFF,   F.W.   (1974).   La   música  y  el  niño  pequeño.  Buenos  Aires:  Ricordi  →  ARONOFF,  F.W.  (1974).
-La música y el niño pequeño. Buenos Aires: Ricordi
+HEMSY   DE  GAINZA,  V.  (1964).  La  iniciación  musical  del  niño.  Buenos  Aires:Ricordi.  •HEMSY  DE  GAINZA,
+V.   (1997).   La   transformación   de   la  educación  musical  a  las  puertas  del  siglo  XXI.  Buenos  Aires:
+Ricordi
 
-✅ Recursos añadidos:
-------------------------------
-AGOSTHI-GHERBAN, y RAPP-HESS, C. (1988). El niño, el mundo sonoro y la música. Alcoy: Marfil
+HEMSY   DE  GAINZA,  V.  (1964).  La  iniciación  musical  del  niño.  Buenos  Aires:Ricordi.  •HEMSY  DE  GAINZA,
+V.   (1997).   La   transformación   de   la  educación  musical  a  las  puertas  del  siglo  XXI.  Buenos  Aires:
+Ricordi
 
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

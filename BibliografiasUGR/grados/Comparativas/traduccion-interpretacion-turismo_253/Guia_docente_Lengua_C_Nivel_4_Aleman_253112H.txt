@@ -2,11 +2,11 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Castell, A. (2008): Gramática de la lengua alemana. Ed. Idiomas
 
@@ -18,15 +18,11 @@ actualizada). Ed. Cornelsen
 Kurs   DaF   B1.  Deutsch  für  Studium  und  Beruf  (Editorial  Klett).  Este  manual  cuenta  con  su  versión  en
 e-book
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Dreyer,    H.;    Schmitt,    R.   (2016):   Lehr-und   Übungsbuch   der   deutschen   Grammatik   -   aktuell:
 Neubearbeitung. Ed. Hueber
 
 Fandrych, Ch.; Tallowitz, U. (2014): Klipp und Klar. Gramática práctica de alemán A1-B1. Ed. Klett
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

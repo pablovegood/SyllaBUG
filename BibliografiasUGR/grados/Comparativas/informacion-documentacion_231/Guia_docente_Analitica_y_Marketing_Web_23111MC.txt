@@ -2,18 +2,29 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (6):
 ------------------------------
 Acera   García,   M.   A.   (2014).   Analítica   Web.   Editorial   Anaya   Multimedia   .  304  p  .  ISBN  -  10:
-8441531471, ISBN - 13: 978 - 8441531475
+8441531471,   ISBN   -  13:  978  -  8441531475  Alberdi,  M.J.,  &  fleming,  P.  (2000).  Hablemos  de  marketing
+interactivo - reflexiones sobre marketing digital y comercio electrónico. ESIC
 
-Alberdi, M.J., & fleming, P. (2000). Hablemos de marketing interactivo - reflexiones sobre marketing
-digital y comercio electrónico. ESIC
+Lovett,   John.   Social   media:   métricas   y   análisis.   Madrid:   Anaya   Multimedia,   D.L  2012  Moreno
+Inocencio, A., & Lecumberri Goyeneche, E. (2014). Marketing en buscadores: SEM, SEO y analítica web
 
+http://travesia.mcu.es/portalnb/jspui/bitstream     /10421/583/1/actas_congreso3bp.pdf     Gay,     R.,
+Charlesworth, A., & Esen, R. (2007). Online marketing. A customer-led approach
+
+http://www.elprofesionaldelainformacion.com/contenidos/2005/enero/2.pdf   Cutroni,   J.  (2007).  Google
+analytics. O'Reilly Media, Inc
+
+http://www.elprofesionaldelainformacion.com/contenidos/2009/enero/16.pdf   Serrano-Cobos,   J.  (2014).
+Big   data  y  analítica  web.  Estudiar  las  corrientes  y  pescar  en  un  océano  de  datos.  El  profesional  de
+la información, 23(6), 561-565
+
+https://www.upf.edu/hipertextnet/numero-8/extraccion_keywords.html
+
+📚 Recursos sin cambios (25):
+------------------------------
 Awad, E.M. (2007). Comercio electrónico. Anaya
 
 Briz, J., & Laso, I. (2001). Internet y comercio electrónico. Madrid: Esic
@@ -36,8 +47,6 @@ Cruz, A. (2009). Marketing electrónico pymes. RA-MA
 Cueto   Alvarez   De   Sotomayor,   L.,  Soler  Herreros,  C.,  &  Entremonzaga  Ayuso,  R.  (2005).  Técnicas  de
 análisis   de   posicionamiento.  El  profesional  de  la  información,  ISSN  1386  -  6710,  Vol.  14,  n.  1.  p.
 14 - 20. http://www.elprofesionaldelainformacion.com/contenidos/2005/enero/2.pdf
-
-Cutroni, J. (2007). Google analytics. O'Reilly Media, Inc
 
 De   Andrés,   S.   (2009).   Quiero   que   mi   empresa   salga   en   Google:   Secretismo   y   realidad   del
 posicionamiento en buscadores. S. de Andrés
@@ -85,22 +94,26 @@ Rodríguez-Burrel,   J.   (2009).   Google   analytics:   bueno,   bonito   y   
 información,             vol.             18,             no            1,            p.            67-71.
 http://www.elprofesionaldelainformacion.com/contenidos/2009/enero/16.pdf
 
-Serrano-Cobos, J. (2014). Big data y analítica web. Estudiar las corrientes y pescar en un océano de
-datos. El profesional de la información, 23(6), 561-565
-
 Vallez,   M.,   Rovira   Fontanals,  C.,  Codina  Bonilla,  L.  &  Pedraza-Jiménez,  R.  (2010).  Procedimientos
 para   la   extracción   de   palabras   clave   de  páginas  web  basados  en  criterios  de  posicionamiento  en
 buscadores. Hipertext. net, 8. https://www.upf.edu/hipertextnet/numero-8/extraccion_keywords.html
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Lovett,   John.   Social   media:   métricas   y   análisis.   Madrid:   Anaya   Multimedia,   D.L  2012  Moreno
-Inocencio,   A.,   &   Lecumberri   Goyeneche,  E.  (2014).  Marketing  en  buscadores  →  Lovett,  John.  Social
-media: métricas y análisis. Madrid: Anaya Multimedia, D.L 2012
+Acera   García,   M.   A.   (2014).   Analítica   Web.   Editorial   Anaya   Multimedia   .  304  p  .  ISBN  -  10:
+8441531471, ISBN - 13: 978 - 8441531475
 
-✅ Recursos añadidos:
-------------------------------
+Alberdi, M.J., & fleming, P. (2000). Hablemos de marketing interactivo - reflexiones sobre marketing
+digital y comercio electrónico. ESIC
+
+Cutroni, J. (2007). Google analytics. O'Reilly Media, Inc
+
+Lovett, John. Social media: métricas y análisis. Madrid: Anaya Multimedia, D.L 2012
+
 Moreno   Inocencio,   A.,   &   Lecumberri   Goyeneche,   E.   (2014).   Marketing  en  buscadores:  SEM,  SEO  y
 analítica web
 
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+Serrano-Cobos, J. (2014). Big data y analítica web. Estudiar las corrientes y pescar en un océano de
+datos. El profesional de la información, 23(6), 561-565
+
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

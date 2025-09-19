@@ -2,53 +2,48 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (12):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-AA.   VV.;   MARK,   R.   (Ed).  Tecnología  Arquitectónica  hasta  la  Revolución  Científica.  Ed.  Akal,  S.A.
-Madrid,   2002.   Explica  conceptos  estructurales  básicos  y  clarifica  la  tecnología  empleada  en  cierta
-arquitectura monumental
-
-AA.VV. / Architects’ Working Details, Volume 1 – 5 / Ed. The Architectural Press Ltd. London, 1977
-
-AA.VV.   /   Manual  de  Aislamiento  –  Isover  /  Publica:  Cristalería  Española,  SA.  División  Aislamiento.
-Madrid, 1987
-
-ALCALDE,   F.   /   Banco   de   Detalles   Arquitectónicos   2002   /  Marsay  Ediciones,  Sevilla  2002.  Libro
-catálogo sobre ejecución y representación de tecnología arquitectónica en detalle
-
-ALLEN,   E.   Como  funciona  un  edificio.  Ed.  Gustavo  Gili.  Barcelona,  1982.  Libro  de  fácil  lectura  que
-fundamenta cada solución técnica como respuesta habitacional en edificación
-
-BANZ,   H.  /El  Detalle  en  la  Edificación/  Ed.  Gustavo  Gili.  Barcelona,  1975.  Libro  sobre  cómo  abordar
-la representación de soluciones complejas de tecnología arquitectónica
-
-BAUD, G. / Tecnología de la Construcción / Ed. Blume. Barcelona, 1987 MITTAG, M. / Teoría y Práctica
-de   la   Construcción   de   Edificios   /   Ed.   Alhambra.   Madrid,   PETRIGNANI,   A.   /  Tecnología  de  la
-Arquitectura / Ed. G. Gili. Barcelona, 1979 Otras Normativas
+AA.VV. / Ventanas de P.V.C. / Ed. Asociación Española de Fabricantes de Fachadas Ligeras y Ventanas,
+ASEFAVE.   Madrid,   1996   BAYÓN,   R.   /   Los   Tabiques   en  el  Edificio  /  Ed.  Técnicos  Asociados,  S.A.
+Barcelona,   1982   CALAVERA  RUIZ,  J.  /  Cálculo,  Construcción  y  Patología  de  Forjados  de  Edificación  /
+Ed
 
 Barcelona,   2004   REVILLA  BLANCO,  A.  /  Prácticas  de  Dibujo  Técnico.  Acotación  /  Ed.  Donostiarra.  San
 Sebastián,   1989   RODRÍGUEZ   DE   ABAJO,   F.  J.;  ÁLVAREZ  BENGOA,  V.  /  Curso  de  Dibujo  Geométrico  y  de
-Croquización / Ed. Marfil. Alcoy, 1987 Publicaciones sobre soluciones especiales de tecnología
+Croquización   /   Ed.   Marfil.   Alcoy,   1987  Publicaciones  sobre  soluciones  especiales  de  tecnología:
+AA.VV. / Architects’ Working Details, Volume 1 – 5 / Ed. The Architectural Press Ltd
 
-CHING, F. / Manual de Dibujo Arquitectónico / Ed. Gustavo Gili. México 1992. Libro de consulta sobre
-procedimientos del dibujo de arquitectura
+CHING,   F.;  STEVEN  P.;  JUROSZEK  /  Dibujo  y  Proyecto  /  Ed.  G.  Gili.  México,  1998  DE  LAPUERTA,  J.  M.  /
+El   Croquis,   Proyecto   y  Arquitectura  /  Ed.  Celeste.  Madrid,  1997  FREDE;  ALTENIDIKER  /  El  Dibujo  en
+Proyección   Diédrica   /   Ed.   G.   Gili.   Barcelona,   1974   GONZALO  GONZALO,  J.  /  Prácticas  de  Dibujo
+Técnico.   Croquización   /   Ed.   Donostiarra.   San  Sebastián,  1992  MECA  ACOSTA,  B.;  LÓPEZ  CONTE,  E.  /
+Isometria / Ed. Universitat Politècnica de Catalunya. Barcelona, 1993 PARRAMÓN J. M. / Dibujo a Mano
+Alzada para Arquitectos / Parramón Ediciones
 
-DISEÑO INTERIOR. Mensual. Edita Globus Comunicación, S.A., Madrid
+Detalles / Ed. G. Gili. México, 1994 MANNES, W. / Diseño y Construcción de Escaleras y Barandillas /
+Ed.   G.  Gili.  Barcelona,  MANSA,  J.  M.  /  Puertas  y  Ventanas  /  Ed.  Editores  Técnicos  Asociados  McLEOD,
+V. / Detalles Constructivos de la Arquitectura Doméstica Contemporánea / Ed
 
-EL CROQUIS. Bimensual. Edita El Croquis Editorial, Madrid
+G.   Gili.   Barcelona,   2007   SMITH,   S.   /   La   Obra   de  Fábrica  de  Ladrillo  /  Ed.  Blume  SPENS,  M.  /
+Staircases   /Publica  Academy  Editions.  London,  1995  URBÁN  BROTONS,  P.  /  Construcción  de  Estructuras.
+Hormigón   Armado.  Detalles  Constructivos  y  Perspectivas  /  Editorial  Club  Universitario,  ECU.  Escuela
+Politécnica Superior de Alicante, 2004 Monografías de construcción: AA.VV. / Escaleras / CISS Praxis
+AA.VV.   /   Manual  de  Aislamiento  –  Isover  /  Publica:  Cristalería  Española,  SA.  División  Aislamiento.
+Madrid, 1987 AA.VV. (EQUIPO TÉCNICO) / Manual General “Uralita”. Tomo I, Edificación / Ed
 
-FORSETH,   K.   /   Gráficos  para  Arquitectos  /  Ed.  Gustavo  Gili.  México,  1981.  Libro  de  consulta  sobre
-sistemas de representación aplicados a la expresión gráfica de la arquitectura
+IGOA,   J.   M.  /  Escaleras:  Trazado,  Calculo  y  Construcción  /  Ed.  CEAC.  Barcelona  1990  LAWRENCE,  M.  /
+Carpintería   de   Exteriores,  Colección  Paso  a  Paso  /  Ed.  G.  Gili.  Barcelona,  MANNES,  W.  /  Escaleras,
+Diseño   y   Construcción   /  Ed.  G.  Gili.  1987  MAS  SARRIÓ,  V.  /  Cubiertas  /  Manuales  y  Monografías  del
+Instituto Eduardo Torroja
 
-LITTLEWOOD,   M.  /  Diseño  Urbano  2,  Pavimentos,  Rampas,  Escaleras  y  Márgenes.  Detalles  /  Ed.  G.  Gili.
-México, 1994
+INTEMAC.   Madrid,   1986   CASSINELLO  PÉREZ,  F.  /  Construcción  -  Carpintería  /  Ed.  Rueda.  Madrid,  1973
+CASSINELLO   PÉREZ,   F.  /  Construcción  -  Hormigonería  /  Ed.  Rueda.  Madrid  1974  CASSINELLO  PÉREZ,  F.  /
+El Ladrillo y sus Fábricas / Ed. IETCC
 
-LLORENS,   S.   /   Iniciación   al   Croquis  Arquitectónico  /  Ed.  EUAT  Madrid,  1989.  Manual  básico  sobre
-técnicas y usos del croquis arquitectónico
+INTEMAC.   Madrid,   1993   GARCÍA   RAMOS,  F.  /  Proyecto  de  Rejería  Modulada  /  Publica:  Secretariado  de
+Publicaciones - Universidad de La Laguna. 1992 HANSMANN, Ch. -R. / Las Escaleras en la Arquitectura.
+Construcción y Detalles / Ed. G
 
 London,   1977   AA.VV.   /   Barandillas,   Rejas,   Cancelas   de  Hierro.  Colección  Detalles  /  Ed.  Blume.
 Barcelona   SCHWARZE,  D.  /  Cercas  y  Vallados  /  Ed.  G.  Gili.  Barcelona  AA.VV.  /  Detail  –  Arquitectura.
@@ -57,8 +52,81 @@ Barcelona,   1991   AA.VV.  /  Trazos.  Cuadernos  Técnicos  de  Arquitectura  
 Constructivos   /  Ed.  Pershing.  Madrid,  1984  CALAVERA,  J.  /  Manual  de  Detalles  Constructivos  en  Obras
 de Hormigón Armado / Ed
 
-MINISTERIO DE TRANSPORTE, MOVILIDAD Y AGENCIA URBANA / Código Estructural / Ed. Subdirección General
-de Normativa y Estudios Técnicos, Madrid 2021
+Madrid, 1960 MENDIZÁBAL, M. / Manual de la Ventana / Ed. Ministerio de Obras Públicas y Urbanismo
+
+Madrid, 1988 MORITZ, KARL / Manual de Cubiertas Planas en la Construcción / Ed. Blume ORTEGA, J. J.;
+LÓPEZ   DE   PRADO;   FERNÁNDEZ   MARTÍN,   R.;   U.N.E.D.,  ESCUELA  DE  LA  EDIFICACIÓN  /  Cubiertas  Planas  e
+Impermeabilización.   Cubiertas   Inclinadas   /   Ed.   Colegio   Oficial   de   Aparejadores  y  Arquitectos
+Técnicos   de   Madrid.  Madrid,  1988  OWEN,  R.  E.  /  Cubiertas  /  Ed.  Blume.  Barcelona,  1978  PRACHT,  K.  /
+Escaleras   Interiores   y   Exteriores   /  Ed.  G.  Gili.  Barcelona  1991  PUNTOS,  R.  /  Tratado  Práctico  de
+Cubiertas   /   Editores   Técnicos   Asociados,   S.A.   Barcelona,   SCHILD,  OSWALD,  ROGIER,  SCHWEIKERT  /
+Estanqueidad   e   Impermeabilización   en   la  Edificación  (Tomo  1).  Prevención  de  Defectos  en  Azoteas,
+Terrazas y Balcones / Editores Técnicos Asociados, S.A. Barcelona, 1978 SERRA HAMILTON, A.; U.N.E.D.
+ESCUELA   DE   LA   EDIFICACIÓN   /   Carpintería   de   Madera   /   Ed.   Colegio   Oficial  de  Aparejadores  y
+Arquitectos Técnicos de Madrid. 1988 Tratados de tecnología de edificación: BAUD, G. / Tecnología de
+la   Construcción   /   Ed.  Blume.  Barcelona,  1987  MITTAG,  M.  /  Teoría  y  Práctica  de  la  Construcción  de
+Edificios   /   Ed.   Alhambra.   Madrid,   PETRIGNANI,  A.  /  Tecnología  de  la  Arquitectura  /  Ed.  G.  Gili.
+Barcelona,   1979   Otras   Normativas:   MINISTERIO   DE  TRANSPORTE,  MOVILIDAD  Y  AGENCIA  URBANA  /  Código
+Estructural   /   Ed.  Subdirección  General  de  Normativa  y  Estudios  Técnicos,  Madrid  2021  Publicaciones
+periódicas de interés: ARQUITECTURA Y DISEÑO. Mensual. Edita RBA Edipresse, Barcelona
+
+Paraninfo.   Madrid,   1986  AA.VV.  /  Materiales  de  Tabiques,  Particiones  y  Cerramientos.  -  Monografías
+TécnicoInformativas   de   Materiales   y   Medios   de   la   Construcción   en   España.   4  /  Ed.  Taller  de
+Arquitectos   Santos   de   Quevedo,   Centro   de   Información   de   Técnica  de  Materiales  y  Medios  de  la
+Construcción.   Madrid,   1983   AA.VV.   /   Paneles   Prefabricados  de  Fachadas  /  Publica:  Asociación  de
+Investigación de la Construcción. Ediciones del Castillo. Madrid, 1976
+
+📚 Recursos sin cambios (24):
+------------------------------
+AA.   VV.;   MARK,   R.   (Ed).  Tecnología  Arquitectónica  hasta  la  Revolución  Científica.  Ed.  Akal,  S.A.
+Madrid,   2002.   Explica  conceptos  estructurales  básicos  y  clarifica  la  tecnología  empleada  en  cierta
+arquitectura monumental
+
+ALCALDE,   F.   /   Banco   de   Detalles   Arquitectónicos   2002   /  Marsay  Ediciones,  Sevilla  2002.  Libro
+catálogo sobre ejecución y representación de tecnología arquitectónica en detalle
+
+ALLEN,   E.   Como  funciona  un  edificio.  Ed.  Gustavo  Gili.  Barcelona,  1982.  Libro  de  fácil  lectura  que
+fundamenta cada solución técnica como respuesta habitacional en edificación
+
+ARQUITECTURA   IBÉRICA.  Bimensual.  Edita  Caleidoscópio  –  Edição  e  Artes  Gráficas  S.A.  Casal  de  Cambra
+– Portugal
+
+BANZ,   H.  /El  Detalle  en  la  Edificación/  Ed.  Gustavo  Gili.  Barcelona,  1975.  Libro  sobre  cómo  abordar
+la representación de soluciones complejas de tecnología arquitectónica
+
+CASA VIVA. Mensual. Edita MC Ediciones S.A., Barcelona
+
+CASABELLA. Mensual. Edita Mondadori, Milán - Italia
+
+CHING, F. / Manual de Dibujo Arquitectónico / Ed. Gustavo Gili. México 1992. Libro de consulta sobre
+procedimientos del dibujo de arquitectura
+
+DETAIL.   Zeitschrift   für   Architektur   +   Baudetail.  Edita  Institut  für  internationale  Architektur-
+Dokumentation   GmbH   &   Co,   Munich.   Publicación   alemana   especializada   en  detalles  de  tecnología
+arquitectónica con suplemento en español
+
+DISEÑO INTERIOR. Mensual. Edita Globus Comunicación, S.A., Madrid
+
+EGA.   Periodicidad   Irregular.   Edita   Asociación   Española   de   Departamentos   de  Expresión  Gráfica
+Arquitectónica   EGE.   Periodicidad   irregular.   Edita   APEGA,   Asociación  de  Profesores  de  Expresión
+Gráfica aplicada a la Edificación. Sevilla
+
+EL CROQUIS. Bimensual. Edita El Croquis Editorial, Madrid
+
+FORSETH,   K.   /   Gráficos  para  Arquitectos  /  Ed.  Gustavo  Gili.  México,  1981.  Libro  de  consulta  sobre
+sistemas de representación aplicados a la expresión gráfica de la arquitectura
+
+Gili.   Barcelona,   1994   LITTLEWOOD,   M.   /  Diseño  Urbano  1,  Muros  y  Cerramientos.  Detalles  /  Ed.  G.
+Gili. México, LITTLEWOOD, M. / Diseño Urbano 2, Pavimentos, Rampas, Escaleras y Márgenes
+
+LLORENS,   S.   /   Iniciación   al   Croquis  Arquitectónico  /  Ed.  EUAT  Madrid,  1989.  Manual  básico  sobre
+técnicas y usos del croquis arquitectónico
+
+Lecturas   obligadas   durante   el   curso:   AA.  VV.;  MARK,  R.  (Ed).  Tecnología  Arquitectónica  hasta  la
+Revolución Científica. Ed
+
+Libros,   monografías,   tratados   y   normas   de   consulta   frecuente:  ALCALDE,  F.  /  Banco  de  Detalles
+Arquitectónicos 2002 / Marsay Ediciones, Sevilla 2002
 
 MOPTMA. Ministerio de Obras Públicas, Transportes y Medio Ambiente; / NTE. Normas Tecnológicas de la
 Edificación/   Ed.   MOPTMA.  Madrid,  1993.  Amplia  codificación  de  la  técnica  edificatoria,  de  consulta
@@ -67,76 +135,27 @@ fácil, aunque no sean de obligado cumplimiento
 MV.   Ministerio   de   la   Vivienda  /  Código  Técnico  de  la  Edificación/  Ed.  Ministerio  de  la  Vivienda.
 Madrid, 2006. Norma de obligado cumplimiento en la actividad edificatoria
 
+ON DISEÑO. Mensual. Edita On diseño, S.A
+
+Principales   publicaciones   periódicas  de  consulta:  CONSTRUCTIVA.  Edita  Píxel  Publishing,  Barcelona.
+Publicación   de   carácter  monográfico  para  la  actualización  de  profesionales  de  la  arquitectura  y  la
+construcción
+
+Procedimientos   de   dibujo   Técnico:  CHING,  F.  /  Arquitectura:  Forma,  Espacio  y  Orden  /  Ed.  G.  Gili.
+México, 1998
+
 SCHMITT,   H.   /Tratado   de   Construcción/   Ed.   Gustavo  Gili.  Barcelona  2002.  Tratado  generalista  de
 construcción aplicada a la edificación
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CHING,   F.   /  Arquitectura:  Forma,  Espacio  y  Orden  /  Ed.  G.  Gili.  México,  1998  CHING,  F.;  STEVEN  P.;
-JUROSZEK / Dibujo y Proyecto / Ed. G. Gili. México, 1998 DE LAPUERTA, J. M. / El Croquis, Proyecto y
-Arquitectura / Ed. Celeste. Madrid, 1997 FREDE; ALTENIDIKER / El Dibujo en Proyección Diédrica / Ed.
-G.   Gili.   Barcelona,   1974   GONZALO   GONZALO,   J.  /  Prácticas  de  Dibujo  Técnico.  Croquización  /  Ed.
-Donostiarra.   San   Sebastián,   1992   MECA   ACOSTA,  B.;  LÓPEZ  CONTE,  E.  /  Isometria  /  Ed.  Universitat
-Politècnica   de   Catalunya.  Barcelona,  1993  PARRAMÓN  J.  M.  /  Dibujo  a  Mano  Alzada  para  Arquitectos  /
-Parramón   Ediciones   →  MECA  ACOSTA,  B.;  LÓPEZ  CONTE,  E.  /  Isometria  /  Ed.  Universitat  Politècnica  de
-Catalunya. Barcelona, 1993
+TECTÓNICA.   Monografías   de   arquitectura,   tecnología   y  construcción.  Edita  ATC  Ediciones.  Madrid.
+Publicación de tecnología de la construcción. Periodicidad cuatrimestral
 
-IGOA,   J.   M.  /  Escaleras:  Trazado,  Calculo  y  Construcción  /  Ed.  CEAC.  Barcelona  1990  LAWRENCE,  M.  /
-Carpintería   de   Exteriores,  Colección  Paso  a  Paso  /  Ed.  G.  Gili.  Barcelona,  MANNES,  W.  /  Escaleras,
-Diseño   y   Construcción   /  Ed.  G.  Gili.  1987  MAS  SARRIÓ,  V.  /  Cubiertas  /  Manuales  y  Monografías  del
-Instituto   Eduardo   Torroja   →  LAWRENCE,  M.  /  Carpintería  de  Exteriores,  Colección  Paso  a  Paso  /  Ed.
-G. Gili. Barcelona, 1996
-
-Madrid,   1960  MENDIZÁBAL,  M.  /  Manual  de  la  Ventana  /  Ed.  Ministerio  de  Obras  Públicas  y  Urbanismo  →
-MENDIZÁBAL, M. / Manual de la Ventana / Ed. Ministerio de Obras Públicas y Urbanismo. Madrid, 1988
-
-G.   Gili.   Barcelona,   2007   SMITH,   S.   /   La   Obra   de  Fábrica  de  Ladrillo  /  Ed.  Blume  SPENS,  M.  /
-Staircases   /Publica  Academy  Editions.  London,  1995  URBÁN  BROTONS,  P.  /  Construcción  de  Estructuras.
-Hormigón   Armado.  Detalles  Constructivos  y  Perspectivas  /  Editorial  Club  Universitario,  ECU.  Escuela
-Politécnica   Superior   de   Alicante,   2004   Monografías   de   construcción   →   URBÁN   BROTONS,   P.   /
-Construcción de Estructuras. Hormigón Armado. Detalles Constructivos y Perspectivas / Editorial Club
-Universitario, ECU. Escuela Politécnica Superior de Alicante, 2004
-
-Madrid, 1988 MORITZ, KARL / Manual de Cubiertas Planas en la Construcción / Ed. Blume ORTEGA, J. J.;
-LÓPEZ   DE   PRADO;   FERNÁNDEZ   MARTÍN,   R.;   U.N.E.D.,  ESCUELA  DE  LA  EDIFICACIÓN  /  Cubiertas  Planas  e
-Impermeabilización.   Cubiertas   Inclinadas   /   Ed.   Colegio   Oficial   de   Aparejadores  y  Arquitectos
-Técnicos   de   Madrid.  Madrid,  1988  OWEN,  R.  E.  /  Cubiertas  /  Ed.  Blume.  Barcelona,  1978  PRACHT,  K.  /
-Escaleras Interiores y Exteriores / Ed. G. Gili. Barcelona 1991 SCHILD, OSWALD, ROGIER, SCHWEIKERT /
-Estanqueidad   e   Impermeabilización   en   la  Edificación  (Tomo  1).  Prevención  de  Defectos  en  Azoteas,
-Terrazas y Balcones / Editores Técnicos Asociados, S.A. Barcelona, 1978 SERRA HAMILTON, A.; U.N.E.D.
-ESCUELA   DE   LA   EDIFICACIÓN   /   Carpintería   de   Madera   /   Ed.   Colegio   Oficial  de  Aparejadores  y
-Arquitectos   Técnicos   de   Madrid.   1988   Tratados   de   tecnología   de   edificación   →  OWEN,  R.  E.  /
-Cubiertas / Ed. Blume. Barcelona, 1978
-
-INTEMAC.   Madrid,   1993   GARCÍA   RAMOS,  F.  /  Proyecto  de  Rejería  Modulada  /  Publica:  Secretariado  de
-Publicaciones - Universidad de La Laguna. 1992 HANSMANN, Ch. -R. / Las Escaleras en la Arquitectura.
-Construcción   y   Detalles   /   Ed.   G   →   GARCÍA   RAMOS,  F.  /  Proyecto  de  Rejería  Modulada  /  Publica:
-Secretariado de Publicaciones - Universidad de La Laguna. 1992
-
-Detalles / Ed. G. Gili. México, 1994 MANNES, W. / Diseño y Construcción de Escaleras y Barandillas /
-Ed.   G.  Gili.  Barcelona,  MANSA,  J.  M.  /  Puertas  y  Ventanas  /  Ed.  Editores  Técnicos  Asociados  McLEOD,
-V.   /   Detalles   Constructivos  de  la  Arquitectura  Doméstica  Contemporánea  /  Ed  →  MANNES,  W.  /  Diseño
-y Construcción de Escaleras y Barandillas / Ed. G. Gili. Barcelona, 1985
-
-Paraninfo.   Madrid,   1986  AA.VV.  /  Materiales  de  Tabiques,  Particiones  y  Cerramientos.  -  Monografías
-Técnico-   Informativas   de   Materiales   y   Medios   de   la   Construcción  en  España.  4  /  Ed.  Taller  de
-Arquitectos   Santos   de   Quevedo,   Centro   de   Información   de   Técnica  de  Materiales  y  Medios  de  la
-Construcción.   Madrid,   1983   AA.VV.   /   Paneles   Prefabricados  de  Fachadas  /  Publica:  Asociación  de
-Investigación de la Construcción. Ediciones del Castillo. Madrid, 1976 AA.VV. / Ventanas de P.V.C. /
-Ed.   Asociación  Española  de  Fabricantes  de  Fachadas  Ligeras  y  Ventanas,  ASEFAVE.  Madrid,  1996  BAYÓN,
-R.   /  Los  Tabiques  en  el  Edificio  /  Ed.  Técnicos  Asociados,  S.A.  Barcelona,  1982  CALAVERA  RUIZ,  J.  /
-Cálculo,   Construcción   y  Patología  de  Forjados  de  Edificación  /  Ed  →  BAYÓN,  R.  /  Los  Tabiques  en  el
-Edificio / Ed. Técnicos Asociados, S.A. Barcelona, 1982
-
-INTEMAC.   Madrid,   1986   CASSINELLO  PÉREZ,  F.  /  Construcción  -  Carpintería  /  Ed.  Rueda.  Madrid,  1973
-CASSINELLO   PÉREZ,   F.  /  Construcción  -  Hormigonería  /  Ed.  Rueda.  Madrid  1974  CASSINELLO  PÉREZ,  F.  /
-El   Ladrillo   y   sus   Fábricas  /  Ed.  IETCC  →  CASSINELLO  PÉREZ,  F.  /  Construcción  -  Carpintería  /  Ed.
-Rueda. Madrid, 1973
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (60):
 ------------------------------
 AA.VV.   (EQUIPO   TÉCNICO)   /   Manual  General  “Uralita”.  Tomo  I,  Edificación  /  Ed.  Paraninfo.  Madrid,
 1986
+
+AA.VV. / Architects’ Working Details, Volume 1 – 5 / Ed. The Architectural Press Ltd. London, 1977
 
 AA.VV. / Barandillas, Rejas, Cancelas de Hierro. Colección Detalles / Ed. Blume. Barcelona
 
@@ -145,6 +164,9 @@ AA.VV. / Detail – Arquitectura. Escaleras / Ed. CEAC. Barcelona, 1991
 AA.VV. / Detail – Arquitectura. Fachadas / Ed. CEAC. Barcelona, 1991
 
 AA.VV. / Escaleras / CISS Praxis
+
+AA.VV.   /   Manual  de  Aislamiento  –  Isover  /  Publica:  Cristalería  Española,  SA.  División  Aislamiento.
+Madrid, 1987
 
 AA.VV.   /   Materiales  de  Tabiques,  Particiones  y  Cerramientos.  -  Monografías  Técnico-Informativas  de
 Materiales   y   Medios  de  la  Construcción  en  España.  4  /  Ed.  Taller  de  Arquitectos  Santos  de  Quevedo,
@@ -159,12 +181,11 @@ Ed. Pershing. Madrid, 1984
 AA.VV. / Ventanas de P.V.C. / Ed. Asociación Española de Fabricantes de Fachadas Ligeras y Ventanas,
 ASEFAVE. Madrid, 1996
 
-ARQUITECTURA   IBÉRICA.  Bimensual.  Edita  Caleidoscópio  –  Edição  e  Artes  Gráficas  S.A.  Casal  de  Cambra
-– Portugal
-
 ARQUITECTURA Y DISEÑO. Mensual. Edita RBA Edipresse, Barcelona
 
 BAUD, G. / Tecnología de la Construcción / Ed. Blume. Barcelona, 1987
+
+BAYÓN, R. / Los Tabiques en el Edificio / Ed. Técnicos Asociados, S.A. Barcelona, 1982
 
 CALAVERA   RUIZ,   J.   /   Cálculo,   Construcción  y  Patología  de  Forjados  de  Edificación  /  Ed.  INTEMAC.
 Madrid, 1986
@@ -172,9 +193,7 @@ Madrid, 1986
 CALAVERA,   J.   /  Manual  de  Detalles  Constructivos  en  Obras  de  Hormigón  Armado  /  Ed.  INTEMAC.  Madrid,
 1993
 
-CASA VIVA. Mensual. Edita MC Ediciones S.A., Barcelona
-
-CASABELLA. Mensual. Edita Mondadori, Milán - Italia
+CASSINELLO PÉREZ, F. / Construcción - Carpintería / Ed. Rueda. Madrid, 1973
 
 CASSINELLO PÉREZ, F. / Construcción - Hormigonería / Ed. Rueda. Madrid 1974
 
@@ -189,17 +208,13 @@ actualización de profesionales de la arquitectura y la construcción
 
 DE LAPUERTA, J. M. / El Croquis, Proyecto y Arquitectura / Ed. Celeste. Madrid, 1997
 
-DETAIL.   Zeitschrift   für   Architektur   +   Baudetail.  Edita  Institut  für  internationale  Architektur-
-Dokumentation   GmbH   &   Co,   Munich.   Publicación   alemana   especializada   en  detalles  de  tecnología
-arquitectónica con suplemento en español
-
-EGA.   Periodicidad   Irregular.   Edita   Asociación   Española   de   Departamentos   de  Expresión  Gráfica
-Arquitectónica
-
 EGE.   Periodicidad   irregular.  Edita  APEGA,  Asociación  de  Profesores  de  Expresión  Gráfica  aplicada  a
 la Edificación. Sevilla
 
 FREDE; ALTENIDIKER / El Dibujo en Proyección Diédrica / Ed. G. Gili. Barcelona, 1974
+
+GARCÍA   RAMOS,   F.   /   Proyecto   de   Rejería   Modulada   /   Publica:   Secretariado  de  Publicaciones  -
+Universidad de La Laguna. 1992
 
 GONZALO   GONZALO,   J.   /  Prácticas  de  Dibujo  Técnico.  Croquización  /  Ed.  Donostiarra.  San  Sebastián,
 1992
@@ -209,17 +224,25 @@ Barcelona, 1994
 
 IGOA, J. M. / Escaleras: Trazado, Calculo y Construcción / Ed. CEAC. Barcelona 1990
 
+LAWRENCE, M. / Carpintería de Exteriores, Colección Paso a Paso / Ed. G. Gili. Barcelona, 1996
+
 LITTLEWOOD, M. / Diseño Urbano 1, Muros y Cerramientos. Detalles / Ed. G. Gili. México, 1994
 
-Lecturas obligadas durante el curso
-
-Libros, monografías, tratados y normas de consulta frecuente
+MANNES, W. / Diseño y Construcción de Escaleras y Barandillas / Ed. G. Gili. Barcelona, 1985
 
 MANNES, W. / Escaleras, Diseño y Construcción / Ed. G. Gili. 1987
 
 MANSA, J. M. / Puertas y Ventanas / Ed. Editores Técnicos Asociados
 
 MAS SARRIÓ, V. / Cubiertas / Manuales y Monografías del Instituto Eduardo Torroja. Madrid, 1960
+
+MECA   ACOSTA,  B.;  LÓPEZ  CONTE,  E.  /  Isometria  /  Ed.  Universitat  Politècnica  de  Catalunya.  Barcelona,
+1993
+
+MENDIZÁBAL, M. / Manual de la Ventana / Ed. Ministerio de Obras Públicas y Urbanismo. Madrid, 1988
+
+MINISTERIO DE TRANSPORTE, MOVILIDAD Y AGENCIA URBANA / Código Estructural / Ed. Subdirección General
+de Normativa y Estudios Técnicos, Madrid 2021
 
 MITTAG, M. / Teoría y Práctica de la Construcción de Edificios / Ed. Alhambra. Madrid, 1968
 
@@ -230,11 +253,13 @@ Barcelona, 2007
 
 Monografías de construcción
 
-ON DISEÑO. Mensual. Edita On diseño, S.A
-
 ORTEGA, J. J.; LÓPEZ DE PRADO; FERNÁNDEZ MARTÍN, R.; U.N.E.D., ESCUELA DE LA EDIFICACIÓN / Cubiertas
 Planas   e   Impermeabilización.   Cubiertas   Inclinadas   /   Ed.   Colegio   Oficial   de   Aparejadores   y
 Arquitectos Técnicos de Madrid. Madrid, 1988
+
+OWEN, R. E. / Cubiertas / Ed. Blume. Barcelona, 1978
+
+Otras Normativas
 
 PARRAMÓN J. M. / Dibujo a Mano Alzada para Arquitectos / Parramón Ediciones. Barcelona, 2004
 
@@ -244,11 +269,9 @@ PRACHT, K. / Escaleras Interiores y Exteriores / Ed. G. Gili. Barcelona 1991
 
 PUNTOS, R. / Tratado Práctico de Cubiertas / Editores Técnicos Asociados, S.A. Barcelona, 1982
 
-Principales publicaciones periódicas de consulta
-
-Procedimientos de dibujo Técnico
-
 Publicaciones periódicas de interés
+
+Publicaciones sobre soluciones especiales de tecnología
 
 REVILLA BLANCO, A. / Prácticas de Dibujo Técnico. Acotación / Ed. Donostiarra. San Sebastián, 1989
 
@@ -259,6 +282,8 @@ SCHILD,   OSWALD,   ROGIER,  SCHWEIKERT  /  Estanqueidad  e  Impermeabilización
 Prevención   de   Defectos   en   Azoteas,   Terrazas   y   Balcones   /   Editores   Técnicos  Asociados,  S.A.
 Barcelona, 1978
 
+SCHWARZE, D. / Cercas y Vallados / Ed. G. Gili. Barcelona
+
 SERRA HAMILTON, A.; U.N.E.D. ESCUELA DE LA EDIFICACIÓN / Carpintería de Madera / Ed. Colegio Oficial
 de Aparejadores y Arquitectos Técnicos de Madrid. 1988
 
@@ -266,9 +291,9 @@ SMITH, S. / La Obra de Fábrica de Ladrillo / Ed. Blume
 
 SPENS, M. / Staircases /Publica Academy Editions. London, 1995
 
-TECTÓNICA.   Monografías   de   arquitectura,   tecnología   y  construcción.  Edita  ATC  Ediciones.  Madrid.
-Publicación de tecnología de la construcción. Periodicidad cuatrimestral
-
 Tratados de tecnología de edificación
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+URBÁN   BROTONS,   P.   /   Construcción   de   Estructuras.   Hormigón   Armado.   Detalles   Constructivos  y
+Perspectivas / Editorial Club Universitario, ECU. Escuela Politécnica Superior de Alicante, 2004
+
+📊 Porcentaje estimado de cambio: 85% [████████░░]

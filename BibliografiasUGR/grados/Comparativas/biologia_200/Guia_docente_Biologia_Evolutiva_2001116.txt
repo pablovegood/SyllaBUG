@@ -2,15 +2,15 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Arsuaga JL, Martínez I (2006) La especie elegida. Plaza
 
-Benton MJ & Harper DAT (2009) Introduction to Paleobiology and the fossil record. Wiley-Blackwell
+Benton MJ & Harper DAT (2009) Introduction to Paleobiology and the fossil record. Wiley- Blackwell
 
 Campillo JE (2004) El mono obeso. Crítica
 
@@ -21,6 +21,10 @@ Coyne JA (2009) Por qué la teoría de la evolución es verdadera. Crítica
 Dawkins R (2000) El gen egoísta. Salvat Editores, S.A., Barcelona
 
 Dawkins R (2004) El relojero ciego. RBA Coleccionables, S.A
+
+Dawkins R (2009) Evolución. El mayor espectáculo sobre la tierra. Espasa
+
+Falconer DS y Mackay TFC (2001) Introducción a la genética cuantitativa. Editorial Acribia
 
 Fontdevila A y Moya A (2003). Evolución: origen, adaptación y divergencia de las especies. Editorial
 Síntesis, Madrid
@@ -42,16 +46,10 @@ Sanjuan J (2009) Teoría de la evolución en la medicina. Panamericana
 
 Soler M (Ed.) (2002) Evolución, la base de la Biología. Proyecto Sur de Ediciones
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Dawkins   R   (2009)  Evolución.  El  mayor  espectáculo  sobre  la  tierra.  Espasa.  de  Duve  C  (2004)  La  vida
-en   evolución.   Moléculas,   mente   y   significado.   Crítica   →   Dawkins  R  (2009)  Evolución.  El  mayor
-espectáculo sobre la tierra. Espasa
-
-✅ Recursos añadidos:
-------------------------------
-Falconer DS y Mackay TFC (2001) Introducción a la genética cuantitativa. Editorial Acribia
-
 de Duve C (2004) La vida en evolución. Moléculas, mente y significado. Crítica
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

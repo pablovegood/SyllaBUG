@@ -2,19 +2,23 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Benayas,   J.   y   Marcén,   C.  (2019).  Hacia  una  educación  para  la  Sostenibilidad.  20  años  después  del
-Libro   Blanco   de  la  Educación  Ambiental  en  España.  Centro  Nacional  de  para  la  Transición  Ecológica.
-didácticas. Andavira Editora
+Duschl, R, & Grandy, R. (Eds.) (2008). Teaching scientific inquiry: recommendations for research and
+implementation.   Sense  Publishers  Evagorou,  M.,  Nielsen,  J.  A.,  y  Dillon,  J.  (2020).  Science  Teacher
+Education   for   Responsible   Citizenship:   Towards   a  Pedagogy  for  Relevance  Through  Socioscientific
+Issues (Vol. 52). Springer Nature
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (67):
 ------------------------------
-Abril   Gallego,   A.   M.,   Blanco  López,  Á.,  Franco  Mariscal,  A.  J.  (coord.)  (2021).  Enseñanza  de  las
-ciencias   en   tiempos   de   COVID-19:  De  la  investigación  didáctica  al  aula  (Análisis  y  estudios  Vol.
-44). Grao
-
 Bayarri Dolz, J, y Seijas, D. (2015). Marie Curie, la actividad del radio. Colección de científicos
+
+Benayas,   J.   y   Marcén,   C.  (2019).  Hacia  una  educación  para  la  Sostenibilidad.  20  años  después  del
+Libro   Blanco   de  la  Educación  Ambiental  en  España.  Centro  Nacional  de  Educación  Ambiental  (CENEAM),
+Organismo Autónomo Parques Nacionales, Ministerio para la Transición Ecológica
+
+Blanco,   A.,   y   Lupión,   T.   (2015).   La   competencia   científica   en   las   aulas.  Nueve  propuestas
+didácticas. Andavira Editora
 
 Brown,   P.   (2020).   Instructional   sequence   matters,   grades  3-5:  explore  before  explain.  National
 Science Teachers Association. NSTA Press
@@ -22,10 +26,18 @@ Science Teachers Association. NSTA Press
 Buxton,   C.A.  y  Provenzo,  E.F.  (2007).  Teaching  science  in  elementary  and  middle  school:  A  cognitive
 and cultural approach. SAGE Publications
 
+Cañas   A.,  Martín-Díaz  M.J.,  Nieda  J.  (2007).  Competencia  en  el  conocimiento  y  la  interacción  con  el
+mundo físico. La competencia científica. Alianza Editorial
+
 Chalmers, A.F. (1990). ¿Qué es esa cosa llamada ciencia? Siglo XXI
 
 Cohrssen,   C.,   &   Garvis,  S.  (Eds.).  (2021).  Embedding  STEAM  in  Early  Childhood  Education  and  Care.
 Springer International Publishing
+
+Como   referencia   básica   de   consulta,   se  podrán  utilizar  libros  de  texto  de  Educación  Primaria  de
+diferentes   editoriales   (Ciencias   de   la   Naturaleza.   Ciencias   Sociales,   Conocimiento  del  Medio
+Natural,   Social   y   Cultural)   y   de  Educación  Secundaria  Obligatoria  (Física  y  Química,  Biología  y
+Ciencias de la Tierra)
 
 Couso,   D.,   Jimenez-Liso,  M.R.,  Refojo,  C.  y  Sacristán,  J.A.  (Coords)  (2020).  Enseñando  Ciencia  con
 Ciencia. FECYT & Fundacion Lilly. Penguin Random House
@@ -103,6 +115,10 @@ formative assessment probes. NSTA Press
 Lederman,   N.   G.,  y  Abell,  S.  K.  (eds.)  (2014).  Handbook  of  research  on  science  education  (Vol.  2).
 Routledge
 
+Libros   Abril  Gallego,  A.  M.,  Blanco  López,  Á.,  Franco  Mariscal,  A.  J.  (coord.)  (2021).  Enseñanza  de
+las ciencias en tiempos de COVID-19: De la investigación didáctica al aula (Análisis y estudios Vol.
+44). Grao
+
 Martí, J. (2012). Aprender ciencias en la educación primaria. Graó
 
 Martín, M.J., Gómez, M.A. y Gutiérrez, M.S. (2000). La física y la química en secundaria. Narcea
@@ -114,6 +130,9 @@ Ogborn, J. y otros (1998). Formas de explicar. Santillana-Aula XXI
 Osborne, R. y Freyberg, P. (1998). El aprendizaje de las ciencias (3ª ed.). Narcea
 
 Pedrinaci Rodríguez, E. (2001). Los procesos geológicos internos. Síntesis
+
+Pedrinaci,   E.,   Caamaño,   A.,   Cañal,   P.,   &   de   Pro,   A.  (2012).  El  desarrollo  de  la  competencia
+científica. 11 ideas clave. Graó
 
 Perales, F.J. (2000). Resolución de problemas. Síntesis Educación
 
@@ -128,6 +147,8 @@ las ciencias. Universidad de Málaga
 
 Pujol, R.M. (2003). Didáctica de las Ciencias en la Educación Primaria. Síntesis Educación
 
+Revistas impresas Alambique. Didáctica de las Ciencias Experimentales
+
 Rudolph,   J.   L.  (2019).  How  we  teach  science.  What´s  changed  and  why  it  matters.  Harvard  University
 Press
 
@@ -140,8 +161,6 @@ space science: lab investigations for grades 6-10. NSTA Press
 Schamuells   Panesso,   S.,   Geyer,   A.   Aulinas,   M.,  Dorado,  O.,  Hopfenblatt,  J.  y  Marti,  J.  (2022).
 Descubre    los    volcanes.   Acompaña   a   los   Volkis   en   su   aventura   volcánica   (v1.1.).   Zenodo.
 https://doi.org/10.5281/zenodo.6320151
-
-Schreiber, N. (2019). Science Ninjas: Big trouble with simple machines. Science Ninjas
 
 Shayer, M, y Adey, P. (1984). La ciencia de enseñar ciencias. Narcea
 
@@ -165,39 +184,17 @@ https://doi.org/10.1007/978-3-319-43319-6
 Vílchez,   J.M.   y   otros   (2021).  Didáctica  de  las  Ciencias  para  Educación  Primaria.  I.  Ciencias  del
 Espacio y de la Tierra (4ª edición). Ediciones Pirámide
 
-Zabalza, M.A. (1997). Diseño y desarrollo curricular (7ª ed.). Narcea
+Zenodo.   https://doi.org/10.5281/zenodo.6320151   Schreiber,   N.   (2019).  Science  Ninjas:  Big  trouble
+with simple machines. Science Ninjas
 
-🔁 Misma obra con edición/año distinto:
+https://doi.org/10.1007/978-3-319-43319-6   Zabalza,   M.A.  (1997).  Diseño  y  desarrollo  curricular  (7ª
+ed.). Narcea
+
+✅ Recursos añadidos (8):
 ------------------------------
-Duschl, R, & Grandy, R. (Eds.) (2008). Teaching scientific inquiry: recommendations for research and
-implementation.   Sense  Publishers  Evagorou,  M.,  Nielsen,  J.  A.,  y  Dillon,  J.  (2020).  Science  Teacher
-Education   for   Responsible   Citizenship:   Towards   a  Pedagogy  for  Relevance  Through  Socioscientific
-Issues   (Vol.   52)   →   Evagorou,   M.,  Nielsen,  J.  A.,  y  Dillon,  J.  (2020).  Science  Teacher  Education
-for   Responsible   Citizenship:  Towards  a  Pedagogy  for  Relevance  Through  Socioscientific  Issues  (Vol.
-52). Springer Nature
-
-✅ Recursos añadidos:
-------------------------------
-Alambique. Didáctica de las Ciencias Experimentales
-
 Allen, M. (2020). Misconceptions in Primary Science. McGrawHill
 
 Artículos en línea
-
-Benayas,   J.   y   Marcén,   C.  (2019).  Hacia  una  educación  para  la  Sostenibilidad.  20  años  después  del
-Libro   Blanco   de  la  Educación  Ambiental  en  España.  Centro  Nacional  de  Educación  Ambiental  (CENEAM),
-Organismo Autónomo Parques Nacionales, Ministerio para la Transición Ecológica
-
-Blanco,   A.,   y   Lupión,   T.   (2015).   La   competencia   científica   en   las   aulas.  Nueve  propuestas
-didácticas. Andavira Editora
-
-Cañas   A.,  Martín-Díaz  M.J.,  Nieda  J.  (2007).  Competencia  en  el  conocimiento  y  la  interacción  con  el
-mundo físico. La competencia científica. Alianza Editorial
-
-Como   referencia   básica   de   consulta,   se  podrán  utilizar  libros  de  texto  de  Educación  Primaria  de
-diferentes   editoriales   (Ciencias   de   la   Naturaleza.   Ciencias   Sociales,   Conocimiento  del  Medio
-Natural,   Social   y   Cultural)   y   de  Educación  Secundaria  Obligatoria  (Física  y  Química,  Biología  y
-Ciencias de la Tierra)
 
 Deehan, J., MacDonald, A., & Morris, C. (2024). A scoping review of interventions in primary science
 education. Studies in Science Education, 60 (1), 1-43. https://doi.org/10.1080/03057267.2022.2154997
@@ -205,12 +202,13 @@ education. Studies in Science Education, 60 (1), 1-43. https://doi.org/10.1080/0
 Duschl, R, & Grandy, R. (Eds.) (2008). Teaching scientific inquiry: recommendations for research and
 implementation. Sense Publishers
 
+Evagorou,   M.,   Nielsen,   J.   A.,   y   Dillon,   J.   (2020).  Science  Teacher  Education  for  Responsible
+Citizenship:   Towards   a   Pedagogy   for  Relevance  Through  Socioscientific  Issues  (Vol.  52).  Springer
+Nature
+
 Kotsis,   K.   T.   (2024).   Integration   of   artificial   intelligence   in   science  teaching  in  primary
 education:   Applications   for  teachers.  European  Journal  of  Contemporary  Education  and  E-Learning,  2
 (3), 27-43. https://doi.org/10.59324/ejceel.2024.2(3).04
-
-Pedrinaci,   E.,   Caamaño,   A.,   Cañal,   P.,   &   de   Pro,   A.  (2012).  El  desarrollo  de  la  competencia
-científica. 11 ideas clave. Graó
 
 Revistas impresas
 
@@ -218,4 +216,4 @@ Sandoval-Henríquez,   F.  J.,  Sáez-Delgado,  F.,  &  Badilla-Quintana,  M.  G
 the   integration   of   immersive   technologies   to   improve  learning  in  primary  education.  Journal  of
 Computers in Education, 1-26. https://doi.org/10.1007/s40692-024-00318-x
 
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

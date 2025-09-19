@@ -2,11 +2,15 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Motte, Diether de la. Armonía. Barcelona, Labor, 1989. -. Contrapunto. Barcelona, Labor, 1991
 
-📚 Recursos sin cambios:
+Schönberg, Arnold. Fundamentals of musical composition [1967]. London, 71987
+
+Versión castellana Fundamentos de composición musical. Madrid, Real Musical, 1994
+
+📚 Recursos sin cambios (26):
 ------------------------------
 Aizpurua,   Pedro.   Teoría   del   conjunto  coral:  nociones  elementales  de  cultura  coral  .  Madrid,  Real
 Musical, 2003
@@ -61,33 +65,28 @@ Piston, Walter. Orquestación . Traducción R. Barce y otros. Madrid, Real Music
 Robinson, Ray (coord.). Choral music. A Norton historical anthology . Nueva York, W. W. Norton & Co,
 1978
 
+Rodríguez   Palacios,   Ricardo.   Dirección   de  Coro.  La  ciencia,  la  técnica,  el  arte,  las  costumbres.
+Granada, CDMA, 2013 [acceso digital: véase Enlaces recomendados/Acceso libre]
+
+Scherchen,   Hermann.   Handbook   of   conducting   .   Oxford,   OUP,  1989.  Versión  castellana  El  arte  de
+dirigir la orquesta . Barcelona, SpanPress, 1997
+
 Szendy, Peter. Escucha: una historia del oído melómano . Barcelona, Paidós, 2003
 
 Terminorum Musicae Index Septem Linguis Redactus . Kassel, Bärenreiter, 1980
 
 Toch, Ernst. La melodía . Traducción Roberto Gerhard. Barcelona, Labor, 1985
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Versión   castellana   Fundamentos   de   composición   musical.   Madrid,  Real  Musical,  1994  →  Schönberg,
-Arnold. Fundamentals of musical composition [1967]. London, 71987. Versión castellana Fundamentos de
-composición musical . Madrid, Real Musical, 1994
+. Contrapunto . Barcelona, Labor, 1991
 
-Schönberg,   Arnold.   Fundamentals   of  musical  composition  [1967].  London,  71987  →  Schönberg,  Arnold.
-Fundamentals   of   musical   composition   [1967].   London,   71987.   Versión   castellana  Fundamentos  de
-composición musical . Madrid, Real Musical, 1994
-
-Motte,   Diether   de   la.   Armonía.  Barcelona,  Labor,  1989.  .  Contrapunto.  Barcelona,  Labor,  1991  →  .
-Contrapunto . Barcelona, Labor, 1991
-
-✅ Recursos añadidos:
-------------------------------
 Motte, Diether de la. Armonía . Barcelona, Labor, 1989
 
-Rodríguez   Palacios,   Ricardo.   Dirección  de  Coro.  La  ciencia,  la  técnica,  el  arte,  las  costumbres  .
-Granada, CDMA, 2013
+Schönberg,   Arnold.   Fundamentals   of   musical  composition  [1967].  London,  71987.  Versión  castellana
+Fundamentos de composición musical . Madrid, Real Musical, 1994
 
-Scherchen,   Hermann.   Handbook   of   conducting   .   Oxford,   OUP,  1989.  Versión  castellana  El  arte  de
-dirigir la orquesta . Barcelona, SpanPress, 1997
+Schönberg,   Arnold.   Fundamentals   of   musical  composition  [1967].  London,  71987.  Versión  castellana
+Fundamentos de composición musical . Madrid, Real Musical, 1994
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

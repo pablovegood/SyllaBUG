@@ -2,11 +2,11 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (47):
 ------------------------------
 Abrams, M. H., El espejo y la lámpara, Barcelona, Barral Editores, 1975
 
@@ -18,7 +18,12 @@ Anselmi, G. M. (ed.), Mapas de la literatura europea y mediterránea, Barcelona,
 
 Arellano, I., Historia del teatro español del Siglo de Oro, Madrid, Cátedra, 2002
 
+Balakian, A., El movimiento simbolista, Madrid, Ediciones Guadarrama, 1969
+
 Berthold, M., Historia social del teatro. Madrid, Guadarrama, 1974 (2 vols.)
+
+Bozal,   V.   (ed.),  Historia  de  las  ideas  estéticas  y  las  teorías  artísticas  contemporáneas,  2  vols.,
+Madrid, Visor, 1996
 
 Burke, P., El Renacimiento, Barcelona, Crítica, 1999
 
@@ -34,6 +39,8 @@ Domínguez Caparrós, J. Diccionario de métrica española, Madrid, Alianza, 199
 Dronke, P., La lírica en la Edad Media, Barcelona, Ariel, 1995
 
 Duby, G. El amor en la Edad Media y otros ensayos, Madrid, Alianza, 1990
+
+D´Angelo, P., La estética del romanticismo, Madrid, Visor, 1999
 
 D´Haen,   T.,   Damrosch,   D.,   Kadir,   D.,   The   Routledge  Companion  to  World  Literature,  Nueva  York,
 Routledge, 2012
@@ -106,16 +113,8 @@ _______, El romanticismo, tradición y revolución, Madrid, Visor, 1992
 _______,   Woman   as   Image   in   Medieval   Literature:   From  the  Twelfh  Century  to  Dante,  Nueva  York,
 Columbia University Press, 1975
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Balakian,   A.,   El   movimiento  simbolista,  Madrid,  Ediciones  Guadarrama,  1969.  vols.,  Madrid,  Visor,
-1996  →  Balakian, A., El movimiento simbolista, Madrid, Ediciones Guadarrama, 1969
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Bozal,   V.   (ed.),  Historia  de  las  ideas  estéticas  y  las  teorías  artísticas  contemporáneas,  2  vols.,
-Madrid, Visor, 1996
-
-D´Angelo, P., La estética del romanticismo, Madrid, Visor, 1999
-
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

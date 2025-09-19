@@ -2,11 +2,21 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Bravo,   A.;   Signes,   J.;   Rubio,   E.,   El   Imperio   Bizantino.  Historia  y  civilización.  Coordenadas
+bibliográficas,   Madrid,   Ediciones   Clásicas,1997   Connor   C.   L.,   Women  of  Byzantium,  New  Haven  &
+London, Yale University Press, 2004
 
-📚 Recursos sin cambios:
+Krumbacher,   K.,   Geschichte  der  byzantinischen  Litteratur,  Munich,  1897  [Trad.  inglés  University  of
+Notre Dame en http://www.library.nd.edu/byzantine_studies/documents/krumbacher.pdf] Ostrogorsky, G.,
+History of the Bizantine State[ingl. 1957, 1968; alem. 1940, 1952, 1963]
+
+[Historia   del   estado  bizantino,  Akal  1983]  Patlagean,  E.  et  alii,  Historia  de  Bizancio,  Barcelona,
+Crítica,   2001   Shepard,   J.   (eds.),   The   Cambridge   History   of   the  Byzantine  Empirec.  500-1492,
+Cambridge, 2009
+
+📚 Recursos sin cambios (26):
 ------------------------------
 Adrados, F.R., Historia de la lengua griega, Madrid, Gredos 1999
 
@@ -28,14 +38,17 @@ Ducellier, A., Bizancio y el Mundo Ortodoxo, trad. de Pedro Bádenas de la Peña
 Egea,   J.   M.,   La   lengua   griega   medieval,   Granada,Centro   de   Estudios  Bizantinos,  Neogriegos  y
 Chipriotas, 2017
 
+En         CEBNCh,         Granada:        http://www.centrodeestudiosbnch.com/        También        en:
+https://sourcebooks.fordham.edu/byzantium/
+
 Grabar, André, La iconoclastia bizantina, Madrid, Akal, 2000
 
 Hussey J. M., The Orthodox Church in the Byzantine Empire, Oxford, Clarendon Press, 1986
 
+Jeffreys , E., Haldon J., and Cormack, R.(eds.) Oxford Handbook of Byzantine Studies, Oxford, 2008
+
 Jeffreys,   E.,   Byzantine   Style,   Religion   and   Civilization:   In   Honour   of  Sir  Steven  Runciman,
 Cambridge 2006
-
-Jeffreys, E., Haldon J., and Cormack, R.(eds.) Oxford Handbook of Byzantine Studies, Oxford, 2008
 
 Kaldellis, A. Hellenism in Byzantium. The Transformations of Greek Identity and the Reception of the
 Classical Tradition, Cambridge, Cambridge University Press, 2008
@@ -60,39 +73,30 @@ Maguire, H., Byzantine Magic, Dumbarton Oaks, 1995
 Maltezou,   Chr.,   Arte,   fe   y   vínculos   históricos:  iconos  de  la  Virgen  María  con  historia  propia,
 Granada, Centro de Estudios Bizantinos, Neogriegos y Chipriotas, 2021
 
-Migne,   J.P.,  Patrologiae  Cursus  Completus,  Series  Graeca,  1857-  1866.  [  Corpus  Scriptorum  Historiae
-Byzantinae Corpus fontium historiae byzantinae Gredos
-
 Motos   Guirao,   E.   -   Morfakidis  Filactós,  M.,  3  vols.:  vol.  I.  Constantinopla  Bizantina  ;  Granada,
 Centro de Estudios Bizantinos, Neogriegos y Chipriotas,2006
+
+Selección   de   textos   editados   en:  Migne,  J.P.,  Patrologiae  Cursus  Completus,  Series  Graeca,  1857-
+1866.   [   https://patristica.net/graeca/]   Corpus   Scriptorum   Historiae   Byzantinae   Corpus  fontium
+historiae byzantinae Gredos
 
 Vasilev,   A.A.   Historia   de   Imperio   Bizantino,   [Traducción  de  la  edición  francesa  por  Juan  G.  de
 Luaces, revisada y anotada por Juan Ramón Masoliver], Barcelona, Iberia, 1945
 
 Wellesz, E., A History of Byzantine Music and Hymnography, Oxford, Clarendon Press, 1980
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Bravo,   A.;   Signes,   J.;   Rubio,   E.,   El   Imperio   Bizantino.  Historia  y  civilización.  Coordenadas
-bibliográficas,   Madrid,   Ediciones   Clásicas,1997   Connor   C.   L.,   Women  of  Byzantium,  New  Haven  &
-London,   Yale   University   Press,   2004  →  Connor  C.  L.,  Women  of  Byzantium,  New  Haven  &  London,  Yale
-University Press, 2004
-
-Krumbacher,   K.,   Geschichte  der  byzantinischen  Litteratur,  Munich,  1897  [Trad.  inglés  University  of
-Notre   Dame   en   Ostrogorsky,  G.,  History  of  the  Bizantine  State[ingl.  1957,  1968;  alem.  1940,  1952,
-1963]   [Historia   del   estado   bizantino,   Akal   1983]   Patlagean,  E.  et  alii,  Historia  de  Bizancio,
-Barcelona,   Crítica,   2001   Shepard,   J.   (eds.),   The   Cambridge   History  of  the  Byzantine  Empirec.
-500-1492,   Cambridge,   2009   →   Shepard,   J.  (eds.),  The  Cambridge  History  of  the  Byzantine  Empirec.
-500-1492, Cambridge, 2009
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (11):
 ------------------------------
 Bravo,   A.;  Signes,  J.;  Rubio  (1997),  E.,  El  Imperio  Bizantino.  Historia  y  civilización.  Coordenadas
 bibliográficas, Madrid, Ediciones Clásicas
 
 Cavallero, P.A., La lengua griega en Bizancio, Madrid, CSIC Nueva Roma, 2021
 
+Connor C. L., Women of Byzantium, New Haven & London, Yale University Press, 2004
+
 Corpus Scriptorum Historiae Byzantinae
+
+Corpus fontium historiae byzantinae
 
 En CEBNCh, Granada: http://www.centrodeestudiosbnch.com/
 
@@ -107,8 +111,6 @@ del estado bizantino, Akal 1983]
 
 Patlagean, E. et alii, Historia de Bizancio, Barcelona, Crítica, 2001
 
-Selección de textos editados en
+Shepard, J. (eds.), The Cambridge History of the Byzantine Empirec. 500-1492, Cambridge, 2009
 
-También en: https://sourcebooks.fordham.edu/byzantium/
-
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

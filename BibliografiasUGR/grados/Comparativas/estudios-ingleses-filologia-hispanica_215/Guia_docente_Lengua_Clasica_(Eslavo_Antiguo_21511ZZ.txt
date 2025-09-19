@@ -2,23 +2,36 @@
 Grado: estudios-ingleses-filologia-hispanica (215)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+na   tle   porownawczym.   WrocławWarszawa-Krakow-Gdańsk,   1973  Leskien  A.  Handbuch  der  altbulgarischen
+(altkirchenslavischen)   Sprache.  Heidelberg,  Lunt  H.  G.  Old  Church  Slavonic  Grammar.  Hague,  1955  Loś
+J.   Gramatyka  starosłowiańska.  Lwow-Warszawa-Krakow,  1922  Nandriş  G.  Handbook  of  Old  Church  Slavonic
+1.   Old   Church   Slavonic  Grammar.  London,  Pastrnek  F.  Tvaroslovi  jazyka  staroslověnskeho  s  uvodem  a
+ukazkami. Praha, 1912 Słoński St. Gramatyka języka starosłowiańskiego (starobułgarskiego). Warszawa,
+1950   Schmalstieg   W.   R.   An  Introduction  to  Old  Church  Slavic.  Cambridge,  Mass.,  1976  Stanislav  J.
+Starosloviensky    jazyk,    T.    1    Bratislava,    1978;   T.   2   Bratislava   1987   Trubetzkoy   N.   S.
+Altkirchenslavische   Grammatik.  Wien,  1954  Vaillant  A.  Manuel  du  vieux  slave.  Paris,  1948  Večerka  R.
+Staroslověnština.   Praha.   1984   Vondrak   V.  Altkirchenslavische  Grammatik.  Berlin,  1900  Weingart  M.
+Rukověť   jazyka   staroslověnskeho,   T.   1   Praha,   1937;  T.  2  Praha,  1938  Van  Wijk  N.  Geschichte  der
+altkirchenslavischen Sprache. Berlin; Leipzig, 1931
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
 Санкт-Петербург,   1997  Изотов,  А.И.  Старославянский  и  церковнославянский  языки.  Москва,  2007  Кривчик
 В.   Ф.,   Можейко   Н.  С.  Старославянский  язык.  Минск,  1970  Кульбакин  С.  М.  Древне-церковно-словянскій
 язык.   Харьков,   1917  Майборода  А.  В.  Старослов’аньска  мова.  Київ,  1975  Матвеева-Исаева  А.  В.  Лекции
 по   старославянскому   языку.   Ленинград,   1958   Мейе   А.  Общеславянский  язык  (перевод  с  французского
 издания).   Москва,   2000   Мирчев   К.   Старобългарски   език.   София,   1972  Мъжлекова  М.  Единството  на
-старобългарския език на лексикално равнище  →  Никифоров И. Д. Старославянский язык. Москва, 1952
+старобългарския език на лексикално равнище
 
+Таблицы,   тексты,   учебный   словарь.   Москва,   2007  Горшков  А.  И.  Старославянский  язык.  Москва,  1963
+Граматика   на   старобългарския   език.   И.   Дуриданов.  БАН,  София,  1991  Гурьева  Е.  И.  Старославянский
+язык.   Тарту,   1971   Гълъбов   И.   Старобългарски   език  с  увод  в  славянското  езикознание.  София,  1980
+Добрев   И.   Старобългарска   граматика.   София,  1982  Дъяченко,  Г.  Полный  церковно-славянский  словарь.
+Москва,   1993   Елкина   Н.   М.  Старославянский  язык.  Москва,  1960  Иванова  Т.  А.  Старославянский  язык.
+Москва, 1977 Иеромонах Алипий (Гаманович). Грамматика церковно-славянского языка
+
+📚 Recursos sin cambios (1):
+------------------------------
 София,   1994   Никифоров   И.   Д.  Старославянский  язык.  Москва,  1952  Николић,  С.  Старословенски  језик.
 Београд,   1995.  Т.  1-2  Ремнева  М.  Л.,  Савельев  В.  С.,  Филичев  И.  И.  Церковнославянский  язык.  Москва,
 Селищев   А.   М.  Старославянский  язык.  Москва,  1951-1952.  Т.  1-2  Скупский  Б.  П.  Старославянский  язык.
@@ -34,34 +47,17 @@ Cz.   Podstawowe   wiadomości   z  gramatyki  staro-cerkiewno-słowiańskiej  n
 Grammatik.   Heidelberg,   1932   Hamm   J.  Staroslavenska  gramatika.  Zagreb,  1963  Kulbakin  Št.  Mluvnice
 jazyka   staroslověnskeho.   Praha,   1948   Kurz   J.   Učebnice   jazyka  staroslověnskeho.  Praha,  1969  Le
 Guillou   J.-Y.   Grammaire   du   vieux  bulgare  (vieux  slave).  Budapest-Paris,  1984  Lehr-Spławiński  T.,
-Bartula   Cz.   Zarys   gramatyki   języka   staro-cerkiewno-słowiańskiego   na  tle  porownawczym.  Wrocław-
-Warszawa-Krakow-Gdańsk, 1973 Leskien A. Handbuch der altbulgarischen (altkirchenslavischen) Sprache.
-Heidelberg,   Lunt   H.   G.  Old  Church  Slavonic  Grammar.  Hague,  1955  Loś  J.  Gramatyka  starosłowiańska.
-Lwow-Warszawa-Krakow,   1922   Nandriş   G.   Handbook   of   Old   Church   Slavonic  1.  Old  Church  Slavonic
-Grammar.   London,   Pastrnek   F.   Tvaroslovi  jazyka  staroslověnskeho  s  uvodem  a  ukazkami.  Praha,  1912
-Słoński   St.   Gramatyka  języka  starosłowiańskiego  (starobułgarskiego).  Warszawa,  1950  Schmalstieg  W.
-R.   An  Introduction  to  Old  Church  Slavic.  Cambridge,  Mass.,  1976  Stanislav  J.  Starosloviensky  jazyk,
-T.   1   Bratislava,   1978;  T.  2  Bratislava  1987  Trubetzkoy  N.  S.  Altkirchenslavische  Grammatik.  Wien,
-1954 Vaillant A. Manuel du vieux slave. Paris, 1948 Večerka R. Staroslověnština. Praha. 1984 Vondrak
-V.   Altkirchenslavische   Grammatik.   Berlin,   1900  Weingart  M.  Rukověť  jazyka  staroslověnskeho,  T.  1
-Praha,   1937;   T.   2   Praha,   1938   Van  Wijk  N.  Geschichte  der  altkirchenslavischen  Sprache.  Berlin;
-Leipzig, 1931  →  Bielfeldt H. H. Altslavische Grammatik. Halle/Saale, 1961
+Bartula Cz. Zarys gramatyki języka staro-cerkiewno-słowiańskiego
 
-Таблицы,   тексты,   учебный   словарь.   Москва,   2007  Горшков  А.  И.  Старославянский  язык.  Москва,  1963
-Граматика   на   старобългарския   език.   И.   Дуриданов.  БАН,  София,  1991  Гурьева  Е.  И.  Старославянский
-язык.   Тарту,   1971   Гълъбов   И.   Старобългарски   език  с  увод  в  славянското  езикознание.  София,  1980
-Добрев   И.   Старобългарска   граматика.   София,  1982  Дъяченко,  Г.  Полный  церковно-славянский  словарь.
-Москва,   1993   Елкина   Н.   М.  Старославянский  язык.  Москва,  1960  Иванова  Т.  А.  Старославянский  язык.
-Москва,   1977   Иеромонах  Алипий  (Гаманович).  Грамматика  церковно-славянского  языка  →  Никифоров  И.  Д.
-Старославянский язык. Москва, 1952
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (55):
 ------------------------------
 Aitzetmuller   R.   Altbulgarische   Grammatik   als   Einfuhrung   in   die   slavische  Sprachwissenschaft.
 Freiburg, 1978
 
 Bartula   Cz.   Podstawowe   wiadomości   z   gramatyki  staro-cerkiewno-słowiańskiej  na  tle  porownawczym.
 Warszawa, 1981
+
+Bielfeldt H. H. Altslavische Grammatik. Halle/Saale, 1961
 
 Diels P. Altkirchenslavische Grammatik. Heidelberg, 1932
 
@@ -119,6 +115,8 @@ Weingart M. Rukověť jazyka staroslověnskeho, T. 1 Praha, 1937; T. 2 Praha, 19
 
 Гълъбов И. Старобългарски език с увод в славянското езикознание. София, 1980
 
+Гълъбов И. Старобългарски език с увод в славянското езикознание. София, 1980
+
 Добрев И. Старобългарска граматика. София, 1982
 
 Дъяченко, Г. Полный церковно-славянский словарь. Москва, 1993
@@ -145,6 +143,8 @@ Weingart M. Rukověť jazyka staroslověnskeho, T. 1 Praha, 1937; T. 2 Praha, 19
 
 Мъжлекова М. Единството на старобългарския език на лексикално равнище. София, 1994
 
+Никифоров И. Д. Старославянский язык. Москва, 1952
+
 Николић, С. Старословенски језик. Београд, 1995. Т. 1-2
 
 Ремнева М. Л., Савельев В. С., Филичев И. И. Церковнославянский язык. Москва, 1999
@@ -156,9 +156,6 @@ Weingart M. Rukověť jazyka staroslověnskeho, T. 1 Praha, 1937; T. 2 Praha, 19
 Скупский Б. П. Старославянский язык. Махачкала 1965-1967. Т. 1-2
 
 Старобългарски език. XII клас на националната гимназия за древни езици и култури. София, 1986
-
-Старославянский   словарь   (по   рукописям   X-XI   веков).   Р.  М.  Цейтлин,  Р.  Вечерки  и  Э.  Благовой.  АН
-Чешской
 
 Стоянов С., Янакиев, М. Старобългарски език. Текстове и речник. София, 1976
 

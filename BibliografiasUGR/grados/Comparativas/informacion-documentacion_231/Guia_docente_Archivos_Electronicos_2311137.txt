@@ -2,13 +2,25 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Amutio,   M.   A.   (2011).   El   documento   electrónico   en   el   Esquema  Nacional  de  Interoperabilidad.
+http://www.youtube.com/watch?v=57tJIcnoAEU Bearman, D. A., Hedstrom, M. (1993). Reinventing archives
+for   electronics   records:   alternative   service  delivery  options.  En:  Electronic  records  management
+program
 
-📚 Recursos sin cambios:
+Peis, E., Ruiz-Rodríguez, A. (2004). EAD (Encoded Archival Description): Desarrollo, estructura, uso
+y    aplicaciones.    Hipertext.net   2,   http://www.upf.edu/hipertextnet/numero-2/ead.html   Peis,   E.;
+Herrera-Viedma,   E.;   Morales-del-Castillo,   J.M.   (2007).   Aproximación  a  la  Web  Semántica  desde  la
+perspectiva de la Documentación. Investigación Bibliotecológica, 21 (43), 47-71
+
+📚 Recursos sin cambios (22):
 ------------------------------
 Bearman, D. A. (1995). Archival strategies. American Archivist, 58, no. 4: 380-413
+
+Bearman,   D.   A.,   Hedstrom,   M.   (1993).   Reinventing  archives  for  electronics  records:  alternative
+service   delivery   options.   En:   Electronic  records  management  program  strategies.  ed.  M.  Hedstrom.
+Pittsburgh, PA. Archives & Museum Informatics
 
 Bustos   Pretel,   G.;   Alamillo   Domingo,  N.  (2020).  La  gestión  del  documento  electrónico.  Barcelona,
 Wolters Kluwer
@@ -44,6 +56,9 @@ Archivists    Research    Forum,    30,    1-9.    http://raco.cat/index.php/Hip
 Johnston,   G.;   Bowen,   D.   (2005).  The  benefits  of  electronic  records  management  systems:  A  general
 review of published and some unpublished cases. Records Management Journal, 15, 131-140
 
+LLansó,   J.   (2009).   La   Norma   UNE-ISO   15489-1  y  2.  Análisis  y  contenido  /  Aplicación  de  la  norma
+ARCH-e. Revista Andaluza de Archivos (1), 1-17
+
 Lee,   Thomas;  Hon,  Chi  Tin;  Cheung,  David.  (2009).  XML  Schema  Design  and  Management  for  e-Government
 Data Interoperability. Electronic Journal of e-Goberment, 7 (4), 371-380
 
@@ -54,6 +69,13 @@ Peis,   E.,   Fernández-Molina,   J.C.   (1998).   Normas  tecnológicas  y  de
 gestión   de   archivos   y   documentos.   En:   6º   Congresso   Nacional.   Bibliotecários,   arquivistas  e
 documentalistas. Lisboa: Asociaçäo Portuguesa de Bibliotecários, Arquivistas e Documentalistas
 
+Peis,   E.;  Morales-del-Castillo,  J.  M.  and  Herrera-Viedam,  E.  (2011).  Tecnologías  de  Web  semántica  y
+recuperación    de    información.    In:    Recuperación    de    Información.    Un   enfoque   práctico   y
+multidisciplinar. Madrid: RA-MA. pp. 523-545
+
+Peis,   E.;   Ruiz-Rodríguez,   A.A.  (2001).  Nuevas  tendencias  en  el  tratamiento  /  gestión  de  registros
+electrónicos: el "nuevo paradigma". Boletín de la ANABAD, 51 (2), 181-201
+
 Stevenson, J.; Ruddock, B. (2010). Moving towards Interoperability: Experiences of the Archives Hub.
 ARIADNE: Web Magazine for Information Professionals. 63. http://www.ariadne.ac.uk/issue63/stevenson-
 ruddock/
@@ -61,45 +83,19 @@ ruddock/
 Upward,   F.,   Reed,   B.,   Oliver,   G.,   &   Clayton,  J.  E.  (2019).  16  Recordkeeping  Informatics  for  a
 Networked Age. The American Archivist, 82(1)
 
-Wilhem, P. (2009). An evaluation of MoReq2 in the context of national EDRMS standard developments in
-the UK and Europe, Records Management Journal, 19 (2), 117-134
+http://www.ariadne.ac.uk/issue63/stevenson-ruddock/   Wilhem,   P.   (2009).  An  evaluation  of  MoReq2  in
+the   context   of   national   EDRMS   standard   developments   in   the  UK  and  Europe,  Records  Management
+Journal, 19 (2), 117-134
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Peis,   E.;  Morales-del-Castillo,  J.  M.  and  Herrera-Viedam,  E.  (2011).  Tecnologías  de  Web  semántica  y
-recuperación   de   información.  In:  Recuperación  de  Información.  Un  enfoque  Peis,  E.;  Ruiz-Rodríguez,
-A.A.   (2001).   Nuevas   tendencias   en   el  tratamiento  /  gestión  de  registros  electrónicos:  el  "nuevo
-paradigma".   Boletín   de   la  ANABAD,  51  (2),  181-201  →  Peis,  E.;  Ruiz-Rodríguez,  A.A.  (2001).  Nuevas
-tendencias   en   el  tratamiento  /  gestión  de  registros  electrónicos:  el  "nuevo  paradigma".  Boletín  de
-la ANABAD, 51 (2), 181-201
-
-Peis, E., Ruiz-Rodríguez, A. (2004). EAD (Encoded Archival Description): Desarrollo, estructura, uso
-y   aplicaciones.   Hipertext.net   2,  Peis,  E.;  Herrera-Viedma,  E.;  Morales-del-Castillo,  J.M.  (2007).
-Aproximación    a    la   Web   Semántica   desde   la   perspectiva   de   la   Documentación.   Investigación
-Bibliotecológica,   21   (43),   47-71   →   Peis,   E.,   Ruiz-Rodríguez,  A.  (2004).  EAD  (Encoded  Archival
-Description):      Desarrollo,      estructura,      uso      y      aplicaciones.     Hipertext.net     2,
-http://www.upf.edu/hipertextnet/numero-2/ead.html
-
-Amutio,   M.   A.  (2011).  El  documento  electrónico  en  el  Esquema  Nacional  de  Bearman,  D.  A.,  Hedstrom,
-M.   (1993).   Reinventing  archives  for  electronics  records:  alternative  service  delivery  options.  En:
-Electronic records management program strategies. ed. M. Hedstrom. Pittsburgh, PA. Archives & Museum
-Informatics   →   Bearman,   D.   A.,  Hedstrom,  M.  (1993).  Reinventing  archives  for  electronics  records:
-alternative   service   delivery  options.  En:  Electronic  records  management  program  strategies.  ed.  M.
-Hedstrom. Pittsburgh, PA. Archives & Museum Informatics
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Amutio,   M.   A.   (2011).   El   documento   electrónico   en   el   Esquema  Nacional  de  Interoperabilidad.
 http://www.youtube.com/watch?v=57tJIcnoAEU
 
-LLansó,   J.   (2009).   La   Norma   UNE-ISO   15489-1  y  2.  Análisis  y  contenido  /  Aplicación  de  la  norma
-ARCH-e. Revista Andaluza de Archivos (1), 1-17
+Peis, E., Ruiz-Rodríguez, A. (2004). EAD (Encoded Archival Description): Desarrollo, estructura, uso
+y aplicaciones. Hipertext.net 2, http://www.upf.edu/hipertextnet/numero-2/ead.html
 
 Peis,   E.;   Herrera-Viedma,   E.;   Morales-del-Castillo,  J.M.  (2007).  Aproximación  a  la  Web  Semántica
 desde la perspectiva de la Documentación. Investigación Bibliotecológica, 21 (43), 47-71
 
-Peis,   E.;  Morales-del-Castillo,  J.  M.  and  Herrera-Viedam,  E.  (2011).  Tecnologías  de  Web  semántica  y
-recuperación    de    información.    In:    Recuperación    de    Información.    Un   enfoque   práctico   y
-multidisciplinar. Madrid: RA-MA. pp. 523-545
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

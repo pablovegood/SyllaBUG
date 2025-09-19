@@ -2,14 +2,28 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Adaptado al Real Decreto 602/2016, Ed. Pirámide, Madrid
 
-📚 Recursos sin cambios:
+BONED   TORRES,   J.L.   y   ANGLA  JIMÉNEZ,  J.  (2011):  Consolidación  de  estados  financieros:  adaptado  al
+Real   Decreto   1159/2010,   Profit,   Barcelona  CEA  GARCÍA,  J.L.  (1992):  “Algunas  anotaciones  sobre  la
+imagen   fiel   y   sobre   el   concepto   de   cuentas  anuales  consolidadas  de  los  grupos  de  sociedades”,
+Revista de Contabilidad y Tributación, nº 108, pp. 23-40
+
+PULIDO, A. (2017): Combinaciones de negocios y preparación de las cuentas anuales
+
+SERRA, V., LABATUT, G. et al. (2019): Consolidación Contable de los Grupos Empresariales
+
+📚 Recursos sin cambios (15):
 ------------------------------
 CÓNDOR   LÓPEZ,   V.   (1988):   Cuentas  anuales  consolidadas,  aspectos  fundamentales  en  su  elaboración.
 Instituto de Planificación Contable, Madrid
+
+DE   LAS   HERAS   MIGUEL,  L.  (2011):  Normas  de  consolidación  y  casos  prácticos,  Ed.  Centro  de  Estudios
+Financieros, Madrid
+
+Ejercicios prácticos y otra documentación disponible en PRADO
 
 FRÍAS   ACEITUNO,   JOSÉ   V.   (2005):   Técnicas   de   Consolidación   Contable.  Editorial  Universidad  de
 Granada. Granada
@@ -23,6 +37,13 @@ IGLESIAS   SÁNCHEZ,   J.   (1992):   “Utilidad,   fiabilidad   y   relevancia
 consolidados”, Partida Doble, nº 26, pp. 20-30
 
 KRIMPMANN, A. (2015). Principles of group accounting under IFRS . John Wiley & Sons, Inc
+
+LIZANDA   CUEVAS,   J.M.   CABEDO   TONEU,  M.  (2019):  Consolidación  contable  y  fiscal:  operaciones  entre
+empresas   del   grupo:  novedades  contables  y  efectos  fiscales  del  nuevo  Plan  General  de  Contabilidad:
+supuestos prácticos, Ed. Centro de Estudios Financieros, Madrid
+
+MARTÍN   RODRÍGUEZ,   J.G.,  y  AGUILERA  MEDIALDEA,  J.J.  (2016):  Manual  de  Consolidación  Contable,  CISS,
+Madrid
 
 PULIDO,   A.   (2017):   Combinaciones   de   negocios  y  preparación  de  las  cuentas  anuales  consolidadas:
 Comentarios   y   aclaraciones  sobre  el  Real  Decreto  1159/2010,  por  el  que  se  aprueban  las  normas  para
@@ -39,41 +60,24 @@ Comares, Granada
 
 ÁLVAREZ MELCÓN, S. y CORONA ROMERO, E. (2016): Cuentas Anuales Consolidadas, Ed. Pirámide, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-SERRA,   V.,   LABATUT,   G.  et  al.  (2019):  Consolidación  Contable  de  los  Grupos  Empresariales  →  SERRA,
-V.,   LABATUT,  G.  et  al.  (2019):  Consolidación  Contable  de  los  Grupos  Empresariales.  Adaptado  al  Real
-Decreto 602/2016, Ed. Pirámide, Madrid
-
-LIZANDA   CUEVAS,   J.M.   CABEDO   TONEU,  M.  (2019):  Consolidación  contable  y  fiscal:  operaciones  entre
-empresas   del   grupo:   novedades   contables   y   efectos   fiscales   del   nuevo  Plan  General  de  MARTÍN
-RODRÍGUEZ,   J.G.,   y  AGUILERA  MEDIALDEA,  J.J.  (2016):  Manual  de  Consolidación  Contable,  CISS,  Madrid
-→   MARTÍN   RODRÍGUEZ,   J.G.,   y   AGUILERA   MEDIALDEA,  J.J.  (2016):  Manual  de  Consolidación  Contable,
-CISS, Madrid
-
-BONED   TORRES,   J.L.   y   ANGLA  JIMÉNEZ,  J.  (2011):  Consolidación  de  estados  financieros:  adaptado  al
-Real   Decreto   1159/2010,   Profit,   Barcelona  CEA  GARCÍA,  J.L.  (1992):  “Algunas  anotaciones  sobre  la
-imagen   fiel   y   sobre   el   concepto   de   cuentas  anuales  consolidadas  de  los  grupos  de  sociedades”,
-Revista   de   Contabilidad   y   Tributación,   nº   108,   pp.   23-40  →  CEA  GARCÍA,  J.L.  (1992):  “Algunas
-anotaciones   sobre   la  imagen  fiel  y  sobre  el  concepto  de  cuentas  anuales  consolidadas  de  los  grupos
-de sociedades”, Revista de Contabilidad y Tributación, nº 108, pp. 23-40
-
-Adaptado   al   Real   Decreto   602/2016,   Ed.  Pirámide,  Madrid  →  SERRA,  V.,  LABATUT,  G.  et  al.  (2019):
-Consolidación Contable de los Grupos Empresariales. Adaptado al Real Decreto 602/2016, Ed. Pirámide,
-Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 BONED   TORRES,   J.L.   y   ANGLA  JIMÉNEZ,  J.  (2011):  Consolidación  de  estados  financieros:  adaptado  al
 Real Decreto 1159/2010, Profit, Barcelona
 
-DE   LAS   HERAS   MIGUEL,  L.  (2011):  Normas  de  consolidación  y  casos  prácticos,  Ed.  Centro  de  Estudios
-Financieros, Madrid
+CEA   GARCÍA,   J.L.   (1992):  “Algunas  anotaciones  sobre  la  imagen  fiel  y  sobre  el  concepto  de  cuentas
+anuales   consolidadas   de   los  grupos  de  sociedades”,  Revista  de  Contabilidad  y  Tributación,  nº  108,
+pp. 23-40
 
-Ejercicios prácticos y otra documentación disponible en PRADO
+PULIDO,   A.   (2017):   Combinaciones   de   negocios  y  preparación  de  las  cuentas  anuales  consolidadas:
+Comentarios   y   aclaraciones  sobre  el  Real  Decreto  1159/2010,  por  el  que  se  aprueban  las  normas  para
+la   formulación   de   la  Cuentas  Anuales  Consolidadas  (NOFCAC).  Actualizada  2017  (R.D.  602/2016).  Ed.
+Garceta, Madrid
 
-LIZANDA   CUEVAS,   J.M.   CABEDO   TONEU,  M.  (2019):  Consolidación  contable  y  fiscal:  operaciones  entre
-empresas   del   grupo:  novedades  contables  y  efectos  fiscales  del  nuevo  Plan  General  de  Contabilidad:
-supuestos prácticos, Ed. Centro de Estudios Financieros, Madrid
+SERRA,   V.,   LABATUT,  G.  et  al.  (2019):  Consolidación  Contable  de  los  Grupos  Empresariales.  Adaptado
+al Real Decreto 602/2016, Ed. Pirámide, Madrid
 
-📊 Porcentaje estimado de cambio: 53% [█████░░░░░]
+SERRA,   V.,   LABATUT,  G.  et  al.  (2019):  Consolidación  Contable  de  los  Grupos  Empresariales.  Adaptado
+al Real Decreto 602/2016, Ed. Pirámide, Madrid
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

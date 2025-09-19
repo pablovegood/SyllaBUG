@@ -2,11 +2,12 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Urdiales   Viedma.   M.   E.   (2007):   Geopolítica   y  desigualdades.  Granada:  Editorial  Wallerstein,  I.
+(1988): El capitalismo histórico. Madrid: Siglo XXI
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (38):
 ------------------------------
 Anderson, P. (2017): La ideología india. Madrid: Akal
 
@@ -38,6 +39,10 @@ Galeano, E. (2003): Las venas abiertas de América Latina. Madrid: Siglo XXI
 Garcés, J. E. (2013): Allende y la experiencia chilena. Las armas de la política. Madrid. Siglo XXI
 
 Guillochon, B. (2003): La globalización: ¿un futuro para todos? Barcelona: Larousse
+
+Gunder Frank. A. (1974): Capitalismo y subdesarrollo en América Latina. Madrid: Siglo XXI
+
+Harvey, D. (2007): Breve historia del neoliberalismo. Madrid: Akal
 
 Harvey, D. (2007): El nuevo imperialismo. Madrid: Akal
 
@@ -91,23 +96,15 @@ Icaria
 Uharte   Pozas,   L.   (2009):   El   Sur   en  revolución.  Una  mirada  a  la  Venezuela  Bolivariana.  Tafalla:
 Txalaparta
 
+Wallerstein, I. (2006): Análisis de Sistemas-Mundo. Una introducción. Madrid: Siglo XXI
+
+Zamora, A. (2016): Política y geopolítica para rebeldes, irreverentes y escépticos. Madrid: Foca
+
+✅ Recursos añadidos (2):
+------------------------------
 Urdiales   Viedma.   M.   E.   (2007):   Geopolítica   y   desigualdades.  Granada:  Editorial  Universidad  de
 Granada
 
 Wallerstein, I. (1988): El capitalismo histórico. Madrid: Siglo XXI
 
-Wallerstein, I. (2006): Análisis de Sistemas-Mundo. Una introducción. Madrid: Siglo XXI
-
-Zamora, A. (2016): Política y geopolítica para rebeldes, irreverentes y escépticos. Madrid: Foca
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gunder   Frank.   A.   (1974):   Capitalismo  y  subdesarrollo  en  América  Latina.  Madrid:  Siglo  Harvey,  D.
-(2007):   Breve   historia   del   neoliberalismo.   Madrid:  Akal  →  Harvey,  D.  (2007):  Breve  historia  del
-neoliberalismo. Madrid: Akal
-
-✅ Recursos añadidos:
-------------------------------
-Gunder Frank. A. (1974): Capitalismo y subdesarrollo en América Latina. Madrid: Siglo XXI
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

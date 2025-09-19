@@ -2,12 +2,20 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
+Biological Thermodynamics. Donald T. Haynie. Cambridge University Press 2001 (Inglés)
+
+Cambridge University Press 2005 (Inglés)
+
 Gale   Rhodes.   Elsevier.   2006   (Inglés)   An   introduction  to  statistical  thermodynamics.  Robert  P  H
 Gasser & W Graham Richards
 
-📚 Recursos sin cambios:
+Principles   of   Physical   Biochemistry,  Holde,  Kensal  Edward  van  ,  Johnson,  W.  Curtis,  Ho,  P.  Shing.
+Upper   Saddle   River,   New   Jersey   :   Prentice   Hall,  2006  (Inglés)  Protein  Structure  and  Function,
+Petsko, Gregory A., Ringe, Dagmar, London : New Science Press, 2004 (Inglés)
+
+📚 Recursos sin cambios (22):
 ------------------------------
 An   Introduction   to   X-Ray   Crystallography.  Second  Edition.  Michael  M  Woolfson.  Cambrige  Unversity
 Press. 1997 (Inglés)
@@ -17,6 +25,10 @@ Scientific Publishing Co. 2001 (Inglés)
 
 Biological Spectroscopy. I. D. Campbell and R.A. Dwek. Ed. The Benjamin/Cummings Publishing Company,
 Inc.1984 (Inglés)
+
+Biological   Thermodynamics.   Donald  T.  Haynie.  Cambridge  University  Press  2001  (Inglés).  Statistical
+thermodynamics.   Fundamentals   and   Applications.   Laurendeau   N.M.   Cambridge  University  Press  2005
+(Inglés)
 
 Biophysical Chemistry. A. Cooper. Royal Society of Chemistry 2004 (Inglés)
 
@@ -28,7 +40,12 @@ Bioquímica Física. K. E. Van Holde. Ed. Alhambra, colección Exedra. 1980 (Cas
 Bioquímica.   Christopher   K.   Mathews  y  K.  E.  van  Holde.  Ed.  McGraw-Hill  Interamericana.  2º  Edición.
 2003 (Castellano)
 
+Crystallography made crystal clear. A guide for users of macromolecular models. 3rd Ed. Gale Rhodes.
+Elsevier. 2006 (Inglés)
+
 Dna-Protein Interactions. Andrew ArthurT ravers. Chapman & Hall. 1993 (Inglés)
+
+Estructura de Proteínas. Carlos Gómez-Moreno y Javier Sancho (Coords.) Ariel Ciencia. 2003 (Español)
 
 Estructura del ADN. J.A. Subirana. Ed. Alhambra, colección Exedra. 1985 (Castellano)
 
@@ -54,36 +71,23 @@ Springer 1994 (Inglés)
 
 The Physical Basis of Biochemistry. Peter R Bergethon. Ed. Springer 1998 (Inglés)
 
-🔁 Misma obra con edición/año distinto:
+Understanding   DNA.   R.C.   Calladine,  Horace  R.  Drew,  Ben  F.  Luisi,  Andrew  A.  Travers.  Elsevier  2004
+(Inglés)
+
+✅ Recursos añadidos (4):
 ------------------------------
-Cambridge   University   Press   2005  (Inglés)  →  Biological  Thermodynamics.  Donald  T.  Haynie.  Cambridge
-University    Press    2001   (Inglés).   Statistical   thermodynamics.   Fundamentals   and   Applications.
-Laurendeau N.M. Cambridge University Press 2005 (Inglés)
-
-Elsevier   2004   (Inglés)   →   An   Introduction   to   X-Ray   Crystallography.  Second  Edition.  Michael  M
-Woolfson. Cambrige Unversity Press. 1997 (Inglés)
-
-Biological   Thermodynamics.   Donald  T.  Haynie.  Cambridge  University  Press  2001  (Inglés)  →  Biological
-Thermodynamics.    Donald    T.    Haynie.    Cambridge   University   Press   2001   (Inglés).   Statistical
+Biological   Thermodynamics.   Donald  T.  Haynie.  Cambridge  University  Press  2001  (Inglés).  Statistical
 thermodynamics.   Fundamentals   and   Applications.   Laurendeau   N.M.   Cambridge  University  Press  2005
 (Inglés)
 
-Principles   of   Physical   Biochemistry,  Holde,  Kensal  Edward  van  ,  Johnson,  W.  Curtis,  Ho,  P.  Shing.
-Upper   Saddle   River,   New   Jersey   :   Prentice   Hall,  2006  (Inglés)  Protein  Structure  and  Function,
-Petsko,   Gregory   A.,   Ringe,   Dagmar,  London  :  New  Science  Press,  2004  (Inglés)  →  Protein  Structure
-and Function, Petsko, Gregory A., Ringe, Dagmar, London : New Science Press, 2004 (Inglés)
-
-✅ Recursos añadidos:
-------------------------------
-Crystallography made crystal clear. A guide for users of macromolecular models. 3rd Ed. Gale Rhodes.
-Elsevier. 2006 (Inglés)
-
-Estructura de Proteínas. Carlos Gómez-Moreno y Javier Sancho (Coords.) Ariel Ciencia. 2003 (Español)
+Biological   Thermodynamics.   Donald  T.  Haynie.  Cambridge  University  Press  2001  (Inglés).  Statistical
+thermodynamics.   Fundamentals   and   Applications.   Laurendeau   N.M.   Cambridge  University  Press  2005
+(Inglés)
 
 Principles   of   Physical   Biochemistry,   Holde,  Kensal  Edward  van,  Johnson,  W.  Curtis,  Ho,  P.  Shing.
 Upper Saddle River, New Jersey : Prentice Hall, 2006 (Inglés)
 
-Understanding   DNA.   R.C.   Calladine,  Horace  R.  Drew,  Ben  F.  Luisi,  Andrew  A.  Travers.  Elsevier  2004
+Protein   Structure  and  Function,  Petsko,  Gregory  A.,  Ringe,  Dagmar,  London  :  New  Science  Press,  2004
 (Inglés)
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

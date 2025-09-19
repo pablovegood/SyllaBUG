@@ -2,11 +2,18 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Agreste,   A.   (2002)   Categorical   data   análisis.   Ed.  Wiley  and  Sons.  New  Cork  Welham,  S.L.  el  al.
+(2015)   Statistics   methods   in   biology.   CRC   Press.   Taylor   and  Francis  group  Arroyo,  A.  (2004).
+Tendencias   Demográficas   durante   el   siglo   XX   en   España.  Ed.  INE  Calot,  G.  Curso  de  estadística
+descriptiva. (1974). Ed. Paraninfo, Madrid, Peña, D.; Romo, J. (1997). Introducción a la estadística
+para las ciencias sociales. Ed. Mc. Graw Hill. Madrid
 
-📚 Recursos sin cambios:
+Pressat,   R.   (1983).   El   análisis   demográfico.  Ed.  Fondo  de  Cultura  Económica.  Madrid  Vinuesa,  J.
+Puga, D. (2007). Técnicas y ejercicios de Demografía. Ed. INE. Madrid
+
+📚 Recursos sin cambios (4):
 ------------------------------
 Abad,   F.;   Huete.  M.D.  y  Vargas,  M.  (2001).  Estadística  para  las  Ciencias  Sociales  y  Laborales.  Ed.
 Urbano. Granada
@@ -19,30 +26,21 @@ Granada
 
 Vinuesa, J . (Editor). (1997). Demografía. Análisis y Proyecciones. Ed. Síntesis. Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Agreste,   A.   (2002)   Categorical   data   análisis.   Ed.  Wiley  and  Sons.  New  Cork  Welham,  S.L.  el  al.
-(2015)   Statistics   methods   in   biology.   CRC   Press.   Taylor   and  Francis  group  Arroyo,  A.  (2004).
-Tendencias   Demográficas   durante   el   siglo   XX   en   España.  Ed.  INE  Calot,  G.  Curso  de  estadística
-descriptiva. (1974). Ed. Paraninfo, Madrid, Peña, D.; Romo, J. (1997). Introducción a la estadística
-para   las   ciencias   sociales.   Ed.   Mc   →   Calot,  G  .  Curso  de  estadística  descriptiva.  (1974).  Ed.
-Paraninfo, Madrid
-
-Pressat,   R.   (1983).   El   análisis   demográfico.  Ed.  Fondo  de  Cultura  Económica.  Madrid  Vinuesa,  J.
-Puga,   D.   (2007).   Técnicas   y   ejercicios  de  Demografía.  Ed.  INE.  Madrid  →  Pressat,  R  .  (1983).  El
-análisis demográfico. Ed. Fondo de Cultura Económica. Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 A rroyo, A. (2004) . Tendencias Demográficas durante el siglo XX en España. Ed. INE
 
 Agreste, A . (2002) Categorical data análisis. Ed. Wiley and Sons. New Cork
 
+Calot, G . Curso de estadística descriptiva. (1974). Ed. Paraninfo, Madrid
+
 Peña,   D.;   Romo,  J  .  (1997).  Introducción  a  la  estadística  para  las  ciencias  sociales.  Ed.  Mc.  Graw
 Hill. Madrid
+
+Pressat, R . (1983). El análisis demográfico. Ed. Fondo de Cultura Económica. Madrid
 
 Vinuesa, J. Puga, D. (2007). Técnicas y ejercicios de Demografía. Ed. INE. Madrid
 
 Welham, S .L. el al. (2015) Statistics methods in biology. CRC Press. Taylor and Francis group
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 81% [████████░░]

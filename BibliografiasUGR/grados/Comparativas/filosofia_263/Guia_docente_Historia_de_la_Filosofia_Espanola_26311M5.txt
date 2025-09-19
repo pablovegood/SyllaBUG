@@ -2,11 +2,27 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
+Bueno   Sánchez,   G.,   "Sobre  el  concepto  de  "Historia  de  la  filosofía  española"  y  posibilidad  de  una
+filosofía   española",   El   Basilisco,   n°   10,1991,   pp.  3-25  Bueno,  G.,  "La  esencia  del  pensamiento
+español", El Basilisco, 26, 1999, pp. 67-80
 
-📚 Recursos sin cambios:
+CCXII, 2, 1999, pp. 415-39
+
+Cervantes,   M.,   Don  Quijote  de  la  Mancha,  Akal,  Madrid,  1991,  Feijoo,  B.,  Teatro  crítico  universal,
+Cátedra,   Madrid,   2006   Gracián,   B.,   El   Criticón,   Cátedra,  Madrid,  2004,  Juan  de  la  Cruz,  Obras
+completas, BAC, Madrid, 1994
+
+Heredia, A., "Debate sobre la filosofía española. La polémica de 1857" en La Ciudad de Dios, vol
+
+Lara   Nieto,   M.   C.,   Ilustración   española   y   pensamiento   inglés:  Jovellanos,  Granada,  Editorial
+Martínez Arancón, A., Historia de la Filosofía Española,Madrid,Ed. Libertarias,1986
+
+Llull,   R.,   El   libro   del   Amigo  y  del  Amado,  Editorial  Cántico,  Córdoba,  2022  Maimonides,  Guía  de
+Perplejos, Trotta, Madrid, 2015
+
+📚 Recursos sin cambios (33):
 ------------------------------
 Abellán,   J.L,   Historia   Crítica   del   pensamiento   español,   5  v.  (7  tomos),  Madrid,  Espasa  Calpe,
 1979-1991
@@ -21,6 +37,9 @@ Bueno   Sánchez,   G.,  "Historia  de  la  "Historia  de  la  filosofía  espa�
 21-48
 
 Bueno, G., "La filosofía en España en un tiempo de silencio", El Basilisco, 20, 1996, pp. 55
+
+Cada   tema   del  programa  tendrá  su  desarrollo  bibliográfico  específico  que  se  proporcionará  conforme
+transcurra el curso
 
 Calderón de la Barca, P., La vida es sueño, Cátedra, Madrid, 1982
 
@@ -48,15 +67,10 @@ Heredia,   A.,   "La   vida   filosófica  en  la  España  actual"  en  Cuadern
 Heredia,   A.,   "Laverde   y  su  proyecto  de  reforma  filosófica  (1856)",  El  Basilisco,  n.  12,  1992,  pp.
 51-60
 
-Lara   Nieto,   M.   C.,   Ilustración   española   y   pensamiento   inglés:  Jovellanos,  Granada,  Editorial
-Universidad de Granada, 2008
-
 Macerias Fafián, M., Pensamiento filosófico español, Síntesis, Vol. I y II, Madrid, 2010
 
 Manuales   de   Historia   de   la  Filosofía  Española  Cerezo  Galán,  P.,  Claves  y  figuras  del  pensamiento
 hispánico, Escolar y mayo, Madrid, 2012
-
-Martínez Arancón, A., Historia de la Filosofía Española,Madrid,Ed. Libertarias,1986
 
 Martínez   Gómez,   L.,  "Síntesis  de  Historia  de  la  Filosofía  Española  en  Hischberger",  Historia  de  la
 Filosofia,Barcelona,Herder,1970, t 11, pp. 449-525
@@ -77,6 +91,8 @@ Novella, J., La aventura del pensamiento español, Sindéresis, Madrid, 2021
 Pintor   Ramos,   A.,   "Revistas   filosóficas  españolas  (1)",  Cuadernos  Salmantinos  de  Filosofía,  111,
 1976, pp. 443-58
 
+Referencias de las lecturas obligatorias
+
 Rodríguez Aranda, L., El desarrollo de la razón en la cultura española,Madrid, Aguijar,1962
 
 Suárez, F., Disputaciones metafísicas, Tecnos, Madrid, 2011
@@ -86,45 +102,36 @@ Vitoria,   F.,   Sobre   el   poder  civil.  Sobre  los  indios.  Sobre  el  der
 
 Vives, L., Introducción a la sabiduría, Tecnos, Madrid, 2010
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Heredia,   A.,   "Debate  sobre  la  filosofía  española.  La  polémica  de  1857"  en  La  Ciudad  de  Dios,  vol  →
-Heredia,   A.,   "Debate   sobre  la  filosofía  española.  La  polémica  de  1857"  en  La  Ciudad  de  Dios,  vol.
-CCXII, 2, 1999, pp. 415-39
-
-Llull,   R.,   El   libro   del   Amigo  y  del  Amado,  Editorial  Cántico,  Córdoba,  2022  Maimonides,  Guía  de
-Perplejos, Trotta, Madrid, 2015  →  Maimonides, Guía de Perplejos, Trotta, Madrid, 2015
-
-Cervantes,   M.,   Don  Quijote  de  la  Mancha,  Akal,  Madrid,  1991,  Feijoo,  B.,  Teatro  crítico  universal,
-Cátedra,   Madrid,   2006   Gracián,   B.,   El   Criticón,   Cátedra,  Madrid,  2004,  Juan  de  la  Cruz,  Obras
-completas, BAC, Madrid, 1994  →  Feijoo, B., Teatro crítico universal, Cátedra, Madrid, 2006
-
-Bueno   Sánchez,   G.,   "Sobre  el  concepto  de  "Historia  de  la  filosofía  española"  y  posibilidad  de  una
-filosofía   española",   El   Basilisco,   n°   10,1991,   pp.  3-25  Bueno,  G.,  "La  esencia  del  pensamiento
-español",   El   Basilisco,   26,  1999,  pp.  67-80  →  Bueno,  G.,  "La  esencia  del  pensamiento  español",  El
-Basilisco, 26, 1999, pp. 67-80
-
-CCXII,   2,   1999,   pp.   415-39   →   Heredia,   A.,  "Debate  sobre  la  filosofía  española.  La  polémica  de
-1857" en La Ciudad de Dios, vol. CCXII, 2, 1999, pp. 415-39
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (13):
 ------------------------------
 Bueno   Sánchez,   G.,   "Sobre  el  concepto  de  "Historia  de  la  filosofía  española"  y  posibilidad  de  una
 filosofía española", El Basilisco, n° 10,1991, pp. 3-25
 
-Cada   tema   del  programa  tendrá  su  desarrollo  bibliográfico  específico  que  se  proporcionará  conforme
-transcurra el curso
+Bueno, G., "La esencia del pensamiento español", El Basilisco, 26, 1999, pp. 67-80
 
 Cerezo Galán, P., Claves y figuras del pensamiento hispánico, Escolar y mayo, Madrid, 2012
 
 Cervantes, M., Don Quijote de la Mancha, Akal, Madrid, 1991
 
+Feijoo, B., Teatro crítico universal, Cátedra, Madrid, 2006
+
 Gracián, B., El Criticón, Cátedra, Madrid, 2004
+
+Heredia,   A.,   "Debate   sobre  la  filosofía  española.  La  polémica  de  1857"  en  La  Ciudad  de  Dios,  vol.
+CCXII, 2, 1999, pp. 415-39
+
+Heredia,   A.,   "Debate   sobre  la  filosofía  española.  La  polémica  de  1857"  en  La  Ciudad  de  Dios,  vol.
+CCXII, 2, 1999, pp. 415-39
 
 Juan de la Cruz, Obras completas, BAC, Madrid, 1994
 
+Lara   Nieto,   M.   C.,   Ilustración   española   y   pensamiento   inglés:  Jovellanos,  Granada,  Editorial
+Universidad de Granada, 2008
+
 Llull, R., El libro del Amigo y del Amado, Editorial Cántico, Córdoba, 2022
 
-Referencias de las lecturas obligatorias
+Maimonides, Guía de Perplejos, Trotta, Madrid, 2015
 
-📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]
+Martínez Arancón, A., Historia de la Filosofía Española,Madrid,Ed. Libertarias,1986
+
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

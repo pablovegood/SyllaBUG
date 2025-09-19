@@ -2,57 +2,58 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Alberch   Fugueras,   R.;  Cruz  Mundet,  J.R.  (1999).  ¡Archívese!.  Los  documentos  del  poder.  El  poder  de
-los documentos. Madrid: Alianza editorial
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Alberch   Fugueras,   R.;   Cruz  Mundet,  J.R.  (2009).  La  aventura  de  la  información:  de  los  manuscritos
-del   Mar   Muerto   al   imperio   Gates.   Madrid:   Alianza   Barbadillo  Alonso,  J.  (2011).  Las  normas  de
-descripción   archivística   :  qué  son  y  cómo  se  aplican.  Gijón:  Trea  →  Alberch  Fugueras,  R.;  Cruz
-Mundet,   J.R.   (2009).   La   aventura  de  la  información:  de  los  manuscritos  del  Mar  Muerto  al  imperio
-Gates. Madrid: Alianza
-
 Alberch Fugueras, R. (2003) Los archivos, entre la memoria histórica y la sociedad del conocimiento.
 Barcelona:   UOC   Couture,  C.  y  Rousseau,  J.  Y.  (1994)  Les  fondements  de  la  discipline  archivistique.
-Sainte-Foy,   Québec:   Université   du   Québec   →   Alberch   Fugueras,  R.  (2003)  Los  archivos,  entre  la
-memoria histórica y la sociedad del conocimiento. Barcelona: UOC
+Sainte-Foy, Québec: Université du Québec
+
+Alberch   Fugueras,   R.;   Cruz  Mundet,  J.R.  (2009).  La  aventura  de  la  información:  de  los  manuscritos
+del   Mar   Muerto   al   imperio   Gates.   Madrid:   Alianza   Barbadillo  Alonso,  J.  (2011).  Las  normas  de
+descripción archivística : qué son y cómo se aplican. Gijón: Trea
 
 Borràs Gómez, J. (2021). La planificación estratégica del servicio de archivo y gestión documental
 :   Qué  es  y  cómo  se  implementa.  Gijón:  Trea  Brown,  C.  (Ed.  Lit.)  (2014).  Archives  and  recordkeeping:
 theory   into   practice   .   London:   Facet  Consejo  Internacional  de  Archivos.  (2000).  ISAD  (G).  Norma
 Internacional   General   de   Descripción   Archivística.   Madrid,   Ministerio   de  Educación,  Cultura  y
-Deporte   →   Borràs   Gómez,   J.   (2021).   La   planificación   estratégica   del  servicio  de  archivo  y
-gestión documental : Qué es y cómo se implementa. Gijón: Trea
+Deporte
 
 Cruz   Mundet,   J.   R.   (ed.)   (2011)   Administración  de  documentos  y  archivos.  Textos  fundamentales,
 Madrid:   Coordinadora  de  Asociaciones  de  Archiveros,  Ministerio  de  Cultura  Cruz  Mundet,  J.  R.  (2019)
-Archivística:   gestión   de  documentos  y  administración  de  archivos.  Madrid:  Alianza  Heredia  Herrera,
-A. (2013) .Manual de Archivística Básica. Puebla : Universidad Autónoma de Puebla Ruiz Rodriguez, A.
-A.   (1995).   ed.  Manual  de  archivística.  Madrid:  Síntesis  →  Ruiz  Rodriguez,  A.  A.  (1995).  ed.  Manual
-de archivística. Madrid: Síntesis
-
-Hernández   Oliveira,  L.  y  Moro  Cabero,  M.  (2002)  Procedimientos  de  valoración  documental.  Salamanca:
-Acal InterPARES y Consejo Internacional de Archivos (2013): Los Caminos de los Documentos de Archivo
-→   Hernández   Oliveira,   L.   y   Moro   Cabero,   M.   (2002)   Procedimientos   de  valoración  documental.
-Salamanca: Acal
+Archivística: gestión de documentos y administración de archivos
 
 Desantes   Guantes,  B.  (2019)  Código  de  Archivos  y  Patrimonio  Documental.  Madrid:  BOE  Díaz  Rodríguez,
 A.   (ed.)   (2010)   Innovar  o  morir:  en  torno  a  la  clasificación.  Salamanca:  Acal  García  Ruipérez,  M.
 (2021).   La   descripción  documental  en  España  y  sus  instrumentos  de  los  inventarios  medievales  a  los
-metadatos   del   documento   electrónico   Ciudad   Real:   Universidad   de  Castilla-La  Mancha  →  Desantes
-Guantes, B. (2019) Código de Archivos y Patrimonio Documental. Madrid: BOE
+metadatos del documento electrónico Ciudad Real: Universidad de Castilla-La Mancha
 
-✅ Recursos añadidos:
+Madrid:   Alianza   Heredia   Herrera,   A.   (2013)  .Manual  de  Archivística  Básica.  Puebla  :  Universidad
+Autónoma de Puebla Ruiz Rodriguez, A. A. (1995). ed. Manual de archivística. Madrid: Síntesis
+
+📚 Recursos sin cambios (3):
 ------------------------------
+Alberch   Fugueras,   R.;  Cruz  Mundet,  J.R.  (1999).  ¡Archívese!.  Los  documentos  del  poder.  El  poder  de
+los documentos. Madrid: Alianza editorial
+
+Hernández   Oliveira,  L.  y  Moro  Cabero,  M.  (2002)  Procedimientos  de  valoración  documental.  Salamanca:
+Acal
+
+Salamanca: Acal InterPARES y Consejo Internacional de Archivos (2013): Los Caminos de los Documentos
+de Archivo
+
+✅ Recursos añadidos (14):
+------------------------------
+Alberch Fugueras, R. (2003) Los archivos, entre la memoria histórica y la sociedad del conocimiento.
+Barcelona: UOC
+
+Alberch   Fugueras,   R.;   Cruz  Mundet,  J.R.  (2009).  La  aventura  de  la  información:  de  los  manuscritos
+del Mar Muerto al imperio Gates. Madrid: Alianza
+
 Barbadillo   Alonso,   J.   (2011).   Las   normas   de   descripción   archivística  :  qué  son  y  cómo  se
 aplican. Gijón: Trea
+
+Borràs Gómez, J. (2021). La planificación estratégica del servicio de archivo y gestión documental
+: Qué es y cómo se implementa. Gijón: Trea
 
 Brown, C. (Ed. Lit.) (2014). Archives and recordkeeping: theory into practice . London: Facet
 
@@ -68,6 +69,8 @@ Alianza
 Cruz   Mundet,   J.   R.   (ed.)   (2011)   Administración  de  documentos  y  archivos.  Textos  fundamentales,
 Madrid: Coordinadora de Asociaciones de Archiveros, Ministerio de Cultura
 
+Desantes Guantes, B. (2019) Código de Archivos y Patrimonio Documental. Madrid: BOE
+
 Díaz Rodríguez, A. (ed.) (2010) Innovar o morir: en torno a la clasificación. Salamanca: Acal
 
 García   Ruipérez,   M.   (2021).   La   descripción   documental   en   España   y   sus   instrumentos  de  los
@@ -76,6 +79,6 @@ Castilla-La Mancha
 
 Heredia Herrera, A. (2013) .Manual de Archivística Básica. Puebla : Universidad Autónoma de Puebla
 
-InterPARES y Consejo Internacional de Archivos (2013): Los Caminos de los Documentos de Archivo
+Ruiz Rodriguez, A. A. (1995). ed. Manual de archivística. Madrid: Síntesis
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

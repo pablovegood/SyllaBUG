@@ -2,55 +2,19 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Barrancos Money J. Operatoria dental. Buenos Aires: Editorial Médica Panamericana, 1999
-
-Smith   BGN,   Brown   D,  Wright  PS.  Utilización  clínica  de  los  materiales  dentales.  Barcelona:  Masson,
-1996
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Barcelona:   Elsevier;   2014.   Sturdevant   CM.  Operatoria  dental.  Arte  y  Ciencia.  Madrid:  Mosby,  1996
-Bascones Martínez A. Tratado de Odontología. Madrid: SmithKline Beecham, 1998. Baum LL, Phillips RW,
-Lund   MR.   Tratado   de  operatoria  dental.  México:  Interamericana,  1996.  Craig  RG,  O’Brien  WJ,  Powers
-JM.   Materiales   dentales:   propiedades   y   manipulación.   Madrid   →   Baum  LL,  Phillips  RW,  Lund  MR.
-Tratado de operatoria dental. México: Interamericana, 1996
-
-Masson,   1996.   Toledano   Pérez   M.   Arte  y  Ciencia  de  los  materiales  odontológicos.  Madrid:  Avances
-Médico   dentales,   2003.   Vega   del   Barrio   JM.   Materiales   en  odontología:  fundamentos  biológicos
-clínicos,   biofísicos   y   fisicoquímicos.   Madrid:  Avances  Médico  Dentales,  1996.  Ward  ML,  Craig  RG.
-Materiales   de   odontología  restauradora.  Madrid:  Harcourt  Brace,  1998.  Winkler  R,  Oliveres  Folguera
-J.   Teoría   y   práctica   del   dique   de   goma.   Barcelona.   Mosby-Doyma,   1994  →  Winkler  R,  Oliveres
-Folguera J. Teoría y práctica del dique de goma. Barcelona. Mosby-Doyma, 1994
-
-Promolibro, 1996. Howard WW, Moller RC. Atlas de operatoria dental. México. El Manual Moderno. 1990.
-Mc Cabe JF, Walls AWG. Applied dental materials. Oxford: Blackwell Science, 2006. Mount GJ, Hume WR.
-Conservación   y   restauración  de  la  estructura  dental.  Madrid:  Harcourt  Brace,  1999.  Nadal  Valldaura
-A.   Patología  dentaria.  Barcelona:  Rondas,  1997.  Phillips  R,  Anusavice  KJ.  Ciencia  de  los  materiales
-dentales,   de  Phillips.  Madrid:  Elsevier,  2004.  Pickard  HM.  Pickard’s  manual  of  operative  dentistry.
-Oxford:   Oxford   University   Press,   1996.   Schwartz   RS.   Fundamentals   of   operative   dentistry:  a
-contemporary   approach.   Chicago   →   Mc   Cabe   JF,   Walls   AWG.   Applied   dental   materials.  Oxford:
-Blackwell Science, 2006
-
-Mosby, 1996. Echeverría García JJ, Cuenca Sala E. El Manual de odontología. Barcelona: Masson, 1998.
-Evans   JR,   Wilko   RA,   Wetz   JH.  Atlas  of  operative  dentistry:  preclinical  and  clinical  procedures.
-Chicago: Quintessence, 1985. Faculty of General Dental Practitioners (UK)/ Royal College of Surgeons
-of   England.   Self-   Assessment  manual  and  standards:  clinical  standards  in  general  dental  practice.
-London:   Royal   College   of  Surgeons  of  England,  1997.  Forner  Navarro  L.  Tratamiento  de  los  procesos
-odontodestructivos   amplios.   Valencia  →  Faculty  of  General  Dental  Practitioners  (UK)/  Royal  College
-of   Surgeons   of  England.  Self-Assessment  manual  and  standards:  clinical  standards  in  general  dental
-practice. London: Royal College of Surgeons of England, 1997
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (25):
 ------------------------------
 Albers HF. Odontología estética. Selección y colocación de materiales. Barcelona: Labor, 1988
 
+Barrancos Money J. Operatoria dental. Buenos Aires: Editorial Médica Panamericana, 1999
+
 Bascones Martínez A. Tratado de Odontología. Madrid: SmithKline Beecham, 1998
+
+Baum LL, Phillips RW, Lund MR. Tratado de operatoria dental. México: Interamericana, 1996
 
 Craig   RG,   O’Brien   WJ,   Powers  JM.  Materiales  dentales:  propiedades  y  manipulación.  Madrid:  Mosby,
 1996
@@ -60,6 +24,10 @@ Echeverría García JJ, Cuenca Sala E. El Manual de odontología. Barcelona: Mas
 Evans   JR,   Wilko   RA,   Wetz   JH.  Atlas  of  operative  dentistry:  preclinical  and  clinical  procedures.
 Chicago: Quintessence, 1985
 
+Faculty   of  General  Dental  Practitioners  (UK)/  Royal  College  of  Surgeons  of  England.  Self-Assessment
+manual   and   standards:   clinical   standards   in   general   dental  practice.  London:  Royal  College  of
+Surgeons of England, 1997
+
 Forner Navarro L. Tratamiento de los procesos odontodestructivos amplios. Valencia: Promolibro, 1996
 
 García   Barbero  J.  Patología  y  Terapéutica  Dental.  Operatoria  Dental  y  Endodoncia.  2ª  ed.  Barcelona:
@@ -68,6 +36,8 @@ Elsevier; 2014
 Howard WW, Moller RC. Atlas de operatoria dental. México. El Manual Moderno. 1990
 
 Jordan RE. Composites en Odontología estética. Técnicas y materiales. Barcelona: Salvat; 1989
+
+Mc Cabe JF, Walls AWG. Applied dental materials. Oxford: Blackwell Science, 2006
 
 Mount GJ, Hume WR. Conservación y restauración de la estructura dental. Madrid: Harcourt Brace, 1999
 
@@ -82,6 +52,9 @@ Schmidseder J, Allen EP. Atlas de odontología estética. Barcelona: Masson, 200
 Schwartz   RS.   Fundamentals   of  operative  dentistry:  a  contemporary  approach.  Chicago:  Quintessence,
 1996
 
+Smith   BGN,   Brown   D,  Wright  PS.  Utilización  clínica  de  los  materiales  dentales.  Barcelona:  Masson,
+1996
+
 Sturdevant CM. Operatoria dental. Arte y Ciencia. Madrid: Mosby, 1996
 
 Toledano   Pérez   M.  Arte  y  Ciencia  de  los  materiales  odontológicos.  Madrid:  Avances  Médico  dentales,
@@ -92,4 +65,10 @@ fisicoquímicos. Madrid: Avances Médico Dentales, 1996
 
 Ward ML, Craig RG. Materiales de odontología restauradora. Madrid: Harcourt Brace, 1998
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Winkler R, Oliveres Folguera J. Teoría y práctica del dique de goma. Barcelona. Mosby-Doyma, 1994
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

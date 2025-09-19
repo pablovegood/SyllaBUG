@@ -2,11 +2,21 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Olivera, A. & Olivera J. (1999). Las actividades físicas de aventura en la naturaleza. Estudio de la
+oferta   y   la   demanda  en  el  sector  empresarial  en  Cataluña.  Apunts.  Educación  Física  y  Deportes  57,
+86-94 Olivera, J. & Olivera, A. (2016). Las actividades físicas de aventura en la naturaleza (AFAN):
+revisión   de   la   taxonomía   (1995-2015)   y   tablas   de  clasificación  e  identificación  de  prácticas.
+Apunts. Educación Física y Deportes, 124, 71-88 Internacionales para Estadísticas
 
-📚 Recursos sin cambios:
+Rebollo,   S.   (1998).   Análisis   de   las  variables  que  determinan  la  situación  deportiva  del  entorno
+rural   granadino.   Tesis  doctoral  inédita.  Facultad  de  Ciencias  de  las  Actividad  Rebollo,  S.  (2000).
+Turismo y deporte como actividades de ocio destacables en las sociedades del futuro. En M. Latiesa y
+A.   Álvarez   (compiladores-editores),   El   turismo   en   la   sociedad  contemporánea:  diversificación,
+competitividad y desarrollo (pp.276-282). Granada: Urbano Delgado
+
+📚 Recursos sin cambios (33):
 ------------------------------
 Acuña, A. (1991). Manual Didáctico de Actividades en la naturaleza. Editorial Wanceulen: Sevilla
 
@@ -21,6 +31,8 @@ físicas   y   deportivas   en   el   entorno  del  municipio  y  su  implantaci
 física escolar. Retos: Nuevas tendencias de educación física, deporte y recreación, 11, 54-59
 
 Ballesteros, J. Pérez Adán, J. (1.997). Sociedad y medio ambiente. Editorial Trotta, Madrid
+
+Budworth, G.; Dalton, J. (2016). Nudos. 200 nudos prácticos. Librero IBP S.L. Madrid
 
 Burqueño,   R.,   López,   D.,  García,  A.  (2012).  La  transferencia  de  las  actividades  físicas  del  medio
 natural al medio urbano: una propuesta innovadora
@@ -41,8 +53,8 @@ Gschwendtner, S. (1986). Escalada libre: técnica y entrenamiento. Martínez Roc
 
 Guillén, R., Lapetra, S. & Casterad, J. (2000). Actividades en la naturaleza. Inde. Barcelona
 
-Ley   Orgánica   3/2020,   de   29   de  diciembre,  por  la  que  se  modifica  la  Ley  Orgánica  2/2006,  de  3  de
-mayo, de Educación
+Legislación   educativa:   Ley   Orgánica   3/2020,   de   29   de  diciembre,  por  la  que  se  modifica  la  Ley
+Orgánica 2/2006, de 3 de mayo, de Educación
 
 Martín, Q. (1997). Actividades y juegos de Educación Física en la Naturaleza. Gymnos. Madrid
 
@@ -83,13 +95,6 @@ Oficial del Estado núm. 52, 24386-24504
 Real   Decreto   217/2022,   de   29   de   marzo,   por  el  que  se  establece  la  ordenación  y  las  enseñanzas
 mínimas de la Educación Secundaria Obligatoria
 
-Rebollo,   S.   (1998).   Análisis   de   las  variables  que  determinan  la  situación  deportiva  del  entorno
-rural granadino. Tesis doctoral inédita. Facultad de Ciencias de las Actividad
-
-Rebollo,   S.   (2000).   Turismo   y  deporte  como  actividades  de  ocio  destacables  en  las  sociedades  del
-futuro. En M. Latiesa y A. Álvarez (compiladores-editores), El turismo en la sociedad contemporánea:
-diversificación, competitividad y desarrollo (pp.276-282). Granada: Urbano Delgado
-
 Rebollo,   S.   (2002a).   Deporte,   turismo   y   medio   ambiente:  características  generales  del  mercado
 actual.   En   S.   Rebollo   (compiladora),   Curso  sobre  deporte,  turismo  y  medio  ambiente  (pp.  11-29).
 Málaga: Instituto Andaluza del Deporte.452 Rebollo, S. (2002b). El turismo deportivo en el marco del
@@ -105,45 +110,42 @@ Sánchez, J. E. (2005). Actividades en el Medio Natural y Educación Física. Wa
 VVAA.   (2002).   Nuevas   tendencias   de   Práctica   Físico-Deportiva   en  el  Medio  Natural.  Reprografía
 Digital Granada S.L. Granada
 
+Varillas, B. (1986). Acampar, manual práctico. Penthalon: Madrid
+
 Wilson, N. (2003). Manual de la orientación. Libsa. Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (12):
 ------------------------------
-Olivera, A. & Olivera J. (1999). Las actividades físicas de aventura en la naturaleza. Estudio de la
-oferta   y   la   demanda  en  el  sector  empresarial  en  Cataluña.  Apunts.  Educación  Física  y  Deportes  57,
-86-94 Olivera, J. & Olivera, A. (2016). Las actividades físicas de aventura en la naturaleza (AFAN):
-revisión   de   la   taxonomía   (1995-2015)   y   tablas   de  clasificación  e  identificación  de  prácticas.
-Apunts.   Educación   Física   y  Deportes,  124,  71-88  Internacionales  para  Estadísticas  →  Olivera,  A.  &
-Olivera   J.   (1999).  Las  actividades  físicas  de  aventura  en  la  naturaleza.  Estudio  de  la  oferta  y  la
-demanda en el sector empresarial en Cataluña. Apunts. Educación Física y Deportes 57, 86-94
-
-✅ Recursos añadidos:
-------------------------------
-Budworth, G.; Dalton, J. (2016). Nudos. 200 nudos prácticos. Librero IBP S.L. Madrid
-
 Física y del Deporte, Universidad de Granada, Granada
 
 Legislación educativa
 
-Olivera,   J.  &  Olivera,  A.  (1995).  La  crisis  de  la  modernidad  y  el  advenimiento  de  la  posmodernidad:
-el deporte y las prácticas físicas alternativas en el tiempo de ocio
+Olivera, A. & Olivera J. (1999). Las actividades físicas de aventura en la naturaleza. Estudio de la
+oferta   y   la   demanda  en  el  sector  empresarial  en  Cataluña.  Apunts.  Educación  Física  y  Deportes  57,
+86-94
 
 Olivera,   J.   &   Olivera,   A.   (2016).   Las  actividades  físicas  de  aventura  en  la  naturaleza  (AFAN):
 revisión de la taxonomía (1995-2015) y tablas de clasificación e identificación de
 
+Rebollo,   S.   (1998).   Análisis   de   las  variables  que  determinan  la  situación  deportiva  del  entorno
+rural granadino. Tesis doctoral inédita. Facultad de Ciencias de las Actividad
+
 Rebollo,   S.   (2000).   Turismo   y  deporte  como  actividades  de  ocio  destacables  en  las  sociedades  del
 futuro. En M. Latiesa y A. Álvarez (compiladores-editores), El turismo
-
-Rebollo,   S.   (2002a).   Deporte,   turismo   y   medio   ambiente:  características  generales  del  mercado
-actual. En S. Rebollo (compiladora), Curso sobre deporte, turismo y medio
 
 Rebollo,   S.   (2002b).  El  turismo  deportivo  en  el  marco  del  desarrollo  de  los  pequeños  asentamientos
 en Andalucía. En S. Rebollo y M. Latiesa (editoras), Salidas
 
-Varillas, B. (1986). Acampar, manual práctico. Penthalon: Madrid
+activo. Apunts: Educación Física y Deportes, 41, 10-29
 
 ambiente (pp. 11-29). Málaga: Instituto Andaluza del Deporte.452
 
+en   la   sociedad   contemporánea:  diversificación,  competitividad  y  desarrollo  (pp.276-282).  Granada:
+Urbano Delgado
+
+profesionales   en  el  campo  del  turismo  deportivo  (pp.  87-99).  Cádiz:  Empresa  Pública  Turismo  Andaluz
+e Instituto Andaluz del Deporte
+
 prácticas. Apunts. Educación Física y Deportes, 124, 71-88 Internacionales para Estadísticas
 
-📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

@@ -2,11 +2,20 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+INIZAN,   M.-L.;   REDURON,   M.;   ROCHE,  H.  ;  TIXIER,  J.  (1999):  Technology  and  Terminology  of  Knapped
+Stone.   CREP.   Nanterre   MANNONI,   T.,   GIANNICHEDDA.   E.   (2007):   Arqueología.  Materias,  objetos  y
+producciones. Ariel. Barcelona
 
-📚 Recursos sin cambios:
+ORTON,   C.,   TYERS,   P.   y   VINCE,  A.  (1997):  La  cerámica  en  arqueología.  Crítica.  Barcelona  PASCUAL
+BENITO, J.L. (1998): Utillaje óseo, Adornos e ídolos Neolíticos Valencianos
+
+WRIGHT,   G.   R.  H.  (2009):  Ancient  Building  Technology.  Volume  3.  Construction  (part  I  y  II).  Brill.
+Leiden ADOVASIO, J.M., SOFFER, O., KLIMA, B. (1996): Upper Palaeolithic fibre technology: interlaced
+woven finds from Pavllov I, Czech Republic, c. 26,000 years ago. Antiquity 70, 526-534
+
+📚 Recursos sin cambios (42):
 ------------------------------
 AA.VV. (1989): Tissage, corderie, vannerie. Approches archéologiques, ethnologíques, technologiques.
 IXe Rencontres internationals d’Archéologie et d’Histoire d’Antibes (octobre 1988). APDCA. Juan-les-
@@ -77,10 +86,6 @@ Washington
 INIZAN,   M.-L.;   REDURON,   M.;   ROCHE,  H.  ;  TIXIER,  J.  (1995)  :  Préhistoire  de  la  pierre  taillée,  4:
 Technologie de la pierre taillée. Suivi par un vocabulaire multilingue
 
-ISAAKIDOU, V. (2011): Farming regimes in Neolithic Europe: gardening with cows and other models, in:
-Hadjikoumis,   A.,  Robinson,  E.,  Viner,  S.  (Eds.),  An  offprint  from  The  Dynamics  of  Neolithisation  in
-Europe. Studies in honour of Andrew Sherratt Oxbow, Oxford, pp. 90-112
-
 JORDAN,   P.,  ZVELBIL,  M.  (2009):  Ceramics  Before  Farming.  The  Dispersal  of  Pottery  Among  Prehistoric
 Eurasian Hunter-Gatherers Institute of Archaeology, University College London, Walnuk Creek
 
@@ -114,8 +119,15 @@ Madrid
 MURILLO-BARROSO,   M.   (2020):  La  metalurgia:  la  revolución  del  metal.  Origen:  Cuadernos  de  Atapuerca
 15, Burgos
 
+Masson.   Paris,   ISAAKIDOU,   V.  (2011):  Farming  regimes  in  Neolithic  Europe:  gardening  with  cows  and
+other   models,  in:  Hadjikoumis,  A.,  Robinson,  E.,  Viner,  S.  (Eds.),  An  offprint  from  The  Dynamics  of
+Neolithisation in Europe. Studies in honour of Andrew Sherratt Oxbow, Oxford, pp. 90-112
+
 McGRAIL,   S.   (2001):   Boats   of   the  World.  From  the  Stone  Age  to  Medieval  Times.  Oxford  University
 Press. Oxford
+
+PASCUAL   BENITO,   J.L.   (1998):   Utillaje  óseo,  Adornos  e  ídolos  Neolíticos  Valencianos.  Servicio  de
+Investigación Prehistórica. Diputación provincial de Valencia, Valencia
 
 PASCUAL   BENITO,   J.L.  (2016):  Unas  técnicas  muy  neolíticas:  ranurado  y  abrasión  para  la  elaboración
 de   punzones  a  partir  de  metapodios  de  ungulados,  Del  neolític  a  l’edat  del  bronze  en  el  Mediterrani
@@ -150,32 +162,20 @@ Prehistoria. Societat Catalana d'Arqueologia, Barcelona
 VAQUERO,   M.   (2013):  Tipología  y  tecnología  lítica.  En  M.  García-Díez  y  L.  Zapata  (eds.),  Métodos  y
 técnicas e análisis y estudio en arqueología Prehistórica. Universidad del País Vasco, pp. 453-477
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-ORTON,   C.,   TYERS,   P.   y   VINCE,  A.  (1997):  La  cerámica  en  arqueología.  Crítica.  Barcelona  PASCUAL
-BENITO,   J.L.   (1998):  Utillaje  óseo,  Adornos  e  ídolos  Neolíticos  Valencianos  →  ORTON,  C.,  TYERS,  P.
-y VINCE, A. (1997): La cerámica en arqueología. Crítica. Barcelona
+ADOVASIO,   J.M.,  SOFFER,  O.,  KLIMA,  B.  (1996):  Upper  Palaeolithic  fibre  technology:  interlaced  woven
+finds from Pavllov I, Czech Republic, c. 26,000 years ago. Antiquity 70, 526-534
 
-INIZAN,   M.-L.;   REDURON,   M.;   ROCHE,  H.  ;  TIXIER,  J.  (1999):  Technology  and  Terminology  of  Knapped
-Stone.   CREP.   Nanterre   MANNONI,   T.,   GIANNICHEDDA.   E.   (2007):   Arqueología.  Materias,  objetos  y
-producciones    →    MANNONI,    T.,    GIANNICHEDDA.    E.   (2007):   Arqueología.   Materias,   objetos   y
-producciones. Ariel. Barcelona
-
-WRIGHT,   G.   R.  H.  (2009):  Ancient  Building  Technology.  Volume  3.  Construction  (part  I  y  II).  Brill.
-Leiden ADOVASIO, J.M., SOFFER, O., KLIMA, B. (1996): Upper Palaeolithic fibre technology: interlaced
-woven   finds   from  Pavllov  I,  Czech  Republic,  c.  26,000  years  ago.  Antiquity  70,  526-534  →  ADOVASIO,
-J.M., SOFFER, O., KLIMA, B. (1996): Upper Palaeolithic fibre technology: interlaced woven finds from
-Pavllov I, Czech Republic, c. 26,000 years ago. Antiquity 70, 526-534
-
-✅ Recursos añadidos:
-------------------------------
 INIZAN,   M.-L.;   REDURON,   M.;   ROCHE,  H.  ;  TIXIER,  J.  (1999):  Technology  and  Terminology  of  Knapped
 Stone. CREP. Nanterre
 
-PASCUAL   BENITO,   J.L.   (1998):   Utillaje  óseo,  Adornos  e  ídolos  Neolíticos  Valencianos.  Servicio  de
-Investigación Prehistórica. Diputación provincial de Valencia, Valencia
+MANNONI,   T.,   GIANNICHEDDA.   E.   (2007):   Arqueología.   Materias,   objetos   y   producciones.  Ariel.
+Barcelona
+
+ORTON, C., TYERS, P. y VINCE, A. (1997): La cerámica en arqueología. Crítica. Barcelona
 
 WRIGHT,   G.   R.  H.  (2009):  Ancient  Building  Technology.  Volume  3.  Construction  (part  I  y  II).  Brill.
 Leiden
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

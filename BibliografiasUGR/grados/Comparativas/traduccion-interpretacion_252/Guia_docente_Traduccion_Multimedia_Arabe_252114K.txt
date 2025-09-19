@@ -2,12 +2,17 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
+   BONET,   A.   2000.   El  doblaje.com.  La  base  de  datos  del  doblaje  en  España.  Disponible  en  línea  en
+http://www.eldoblaje.com
+
+ CHAUME VARELA, F. 2004. Cine y traducción. Madrid: Cátedra
+
    Duro   Moreno,   Miguel   (coord.)  (2001).  La  traducción  para  el  doblaje  y  la  subtitulación.  Madrid:
 Cátedra
 
@@ -26,15 +31,8 @@ romhacking: particularidades, calidad y aspectos legales». Jostrans, pp. 80–9
     Tercedor    Sánchez,   Maribel   (ed.)   (2009).   Materiales   multimedia   para   todos.   Inclusión   y
 accesibilidad en educación. Granada: Tragacanto
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-   BONET,   A.  2000.  El  doblaje.com.  La  base  de  datos  del  doblaje  en  España.  Disponible  en  línea  en  
-CHAUME   VARELA,   F.   2004.   Cine   y   traducción.   Madrid:  Cátedra  →    CHAUME  VARELA,  F.  2004.  Cine  y
-traducción. Madrid: Cátedra
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-   BONET,   A.   2000.   El  doblaje.com.  La  base  de  datos  del  doblaje  en  España.  Disponible  en  línea  en
-http://www.eldoblaje.com
-
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

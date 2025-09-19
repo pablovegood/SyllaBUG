@@ -2,13 +2,19 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Coomaraswamy   A.K.   Sobre   la   doctrina  tradicional  del  arte,  Ed.  Tradición  unánime,  Barcelona,  1983
+Eliade, M. Lo sagrado y lo profano, Ed. Paidós., Barcelona, 1998
 
-📚 Recursos sin cambios:
+Glissant,   Edouar.   Introducción   a   una  poética  de  lo  diverso.  Ediciones  del  Bronce,  Barcelona  2002
+Jung, C. El hombre y sus símbolos, Biblioteca Universal Caralt, Barcelona, 1977
+
+📚 Recursos sin cambios (19):
 ------------------------------
 Ardenne, P. Un arte contextual, Ed CENDEAC, Murcia, 2006
+
+Bauman, Zygmunt, El arte de la vida: De la vida como obra de arte, Paidós, Barcelona, 2009
 
 Caillois, R. El hombre y lo sagrado, Ed. F.C.E., México, 1996
 
@@ -25,10 +31,17 @@ Frazer, J. F. La rama dorada, Ed. F.C.E., México, 1981
 
 Garcés, Marina, Filosofía inacabada. Galaxian Gutemberg, Barelona, 2015
 
+García   Canclini,   N.,Culturas   hibridas.   Estrategias  para  entrar  y  salir  de  la  modernidad,  Paidós,
+Buenos Aires, 2001
+
 Laplantine, F. y Nouss, A. Mestizajes De Archimboldo a Zombi, Ed, F.C.E., México, 2008
 
 Lewis-Williams,   D.  La  mente  de  la  caverna.  La  conciencia  y  los  orígenes  del  Arte.  Ed.  Akal,  Madrid,
 2005
+
+Maquet,   Jacques,   The   Aesthetic   Experience:   An   Anthropologist   Looks   at   the  Visual  Arts,  Yale
+University Press, 1986. Traducido al castellano por Javier García Bresó: La experiencia estética: La
+mirada de un antropólogo sobre el arte, Celeste, Madrid 1999
 
 Marcus,   George   E.   &   Fred   R.   Myers,  The  Traffic  in  Culture,  University  of  California  Press,  Los
 Angeles, 1995
@@ -44,31 +57,14 @@ Said, Edgard W., Orientalismo. Ed. Debolsillo, Barcelona 2009
 
 Taylor, Charles, El multiculturalismo y la política del reconocimiento, Ed. F.C.E. México, 2009
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Barcelona   2002   Jung,   C.   El  hombre  y  sus  símbolos,  Biblioteca  Universal  Caralt,  Barcelona,  1977  →
-Jung, C. El hombre y sus símbolos, Biblioteca Universal Caralt, Barcelona, 1977
-
-Coomaraswamy   A.K.   Sobre   la   doctrina  tradicional  del  arte,  Ed.  Tradición  unánime,  Barcelona,  1983
-Eliade,   M.   Lo   sagrado   y   lo   profano,   Ed.  Paidós.,  Barcelona,  1998  →  Eliade,  M.  Lo  sagrado  y  lo
-profano, Ed. Paidós., Barcelona, 1998
-
-Maquet,   Jacques,   The   Aesthetic   Experience:   An   Anthropologist   Looks   at   the  Visual  Arts,  Yale
-University   Press,   1986.   Traducido   al   castellano   por   Javier   García  Bresó:  La  García  Canclini,
-N.,Culturas   hibridas.   Estrategias  para  entrar  y  salir  de  la  modernidad,  Paidós,  Buenos  Aires,  2001
-→   García   Canclini,  N.,Culturas  hibridas.  Estrategias  para  entrar  y  salir  de  la  modernidad,  Paidós,
-Buenos Aires, 2001
-
-✅ Recursos añadidos:
-------------------------------
-Bauman, Zygmunt, El arte de la vida: De la vida como obra de arte, Paidós, Barcelona, 2009
-
 Coomaraswamy A.K. Sobre la doctrina tradicional del arte, Ed. Tradición unánime, Barcelona, 1983
+
+Eliade, M. Lo sagrado y lo profano, Ed. Paidós., Barcelona, 1998
 
 Glissant, Edouar. Introducción a una poética de lo diverso. Ediciones del Bronce, Barcelona 2002
 
-Maquet,   Jacques,   The   Aesthetic   Experience:   An   Anthropologist   Looks   at   the  Visual  Arts,  Yale
-University Press, 1986. Traducido al castellano por Javier García Bresó: La experiencia estética: La
-mirada de un antropólogo sobre el arte, Celeste, Madrid 1999
+Jung, C. El hombre y sus símbolos, Biblioteca Universal Caralt, Barcelona, 1977
 
-📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

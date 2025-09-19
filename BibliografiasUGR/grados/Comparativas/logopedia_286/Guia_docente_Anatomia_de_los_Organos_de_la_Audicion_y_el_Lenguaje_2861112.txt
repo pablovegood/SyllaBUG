@@ -2,83 +2,38 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+BOULAIZ,   H.,   MARCHAL   CORRALES,   J.A.,  CARRILLO  DELGADO,  E.,  ARCHILLA  PEÑA,  F.,  PERÁN  QUESADA,  M.,
+JIMÉNEZ GONZÁLEZ, G., LÓPEZ RUIZ, E., PICÓN RUIZ, M. 2020. Manual de Neuroanatomía y Anatomía de los
+órganos fonatorios y de los sentidos. Editorial Técnica AVICAM, Granada ISBN: 978-84-18147-50-0
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 AGUR A.M R. y MOORE, K.L. Anatomía Humana con Orientación Clínica. 2018. 8ª ed. ISBN: 9781496354044
 
-GARTNER   LP,   HIATT   JL,   STURN   JM.   Biología   Celular  e  Histología.  8a  edición.  Wolters  Kluwer.
-Lippincott Williams & Wilkins, 2023
-
-HAINES,   D.E.  2014.  Principios  de  neurociencia:  aplicaciones  básicas  y  clínicas.  4a  ed.  Barcelona:
-Elsevier. ISBN: 9788490222584
-
-KÜHNEL,   W.   Atlas  Color  de  Citología  e  Histología.  11a  edición.  Editorial  Médica  Panamericana,
-2005
-
-LATARJET,   M.   y   RUIZ   LIARD.,   A.   2019.   Anatomía   Humana.   5ª   ed.   Médica   Panamericana.   ISBN:
-9789500695855
-
-NOLTE J. El Cerebro Humano. 1994. 3ª edición. Mosby/ Doyma libros. Madrid. ISBN: 9788480860451
-
-ROSS   MH,   PAULINA   W.   Histología.   Texto   y   Atlas   Color   con  Biología  Celular  y  Molecular,  8va
-edición. Editorial Médica Panamericana, 2020
-
-RUBIN,   M.,   SAFDIEH,   J.E.   y   NETTER,  F.H.  2008.  Netter.  Neuroanatomía  esencial.  1a  ed.  Barcelona:
-Elsevier Masson. ISBN: 9788445818718
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-9788480860451   Atlas   de   Anatomía   Humana:   NETTER,   F.H.   2015.   Atlas  de  Anatomía  humana.  6a.  ed.
-Barcelona:   Elsevier-Masson.   ISBN   8445845826072.   PROMETHEUS.   Texto   y  Altas  de  Anatomía:  Cabeza,
-Cuello   y   Neuroanatomía:   3.  2013.  Michael  Schünke.  2ª  Ed.  Médica  Panamericana.  ISBN:  9788498357080
-PAULSEN,   F.,   WASCHKE,   J.   y   SOBOTTA,  J.  2018.  Sobotta:  Atlas  de  anatomía  humana.  (T.  3),  Cabeza,
-cuello   y   neuroanatomía.   24a.   ed.   Barcelona:   Elsevier.  ISBN  9788491133674.  ROHEN,  Y.2015.  Atlas
-Fotográfico   de   Anatomía   Humana.   8ª.   ed.   ISBN:   9788490229491  Welsch  U.  Sobotta  Histología.  2a
-edición.   Editorial   Médica   Panamericana,   2014   →   ROHEN,   Y.2015.  Atlas  Fotográfico  de  Anatomía
-Humana. 8ª. ed. ISBN: 9788490229491
-
-9789500695855.   RODRÍGUEZ,  S.  y  SMITH-AGREDA  J.M.  2004.  Anatomía  de  los  órganos  del  lenguaje,  visión
-y audición. Editorial Médica Panamericana. Madrid. ISBN: 84-7903-448-3 HAINES, D.E. 2014. Principios
-de   neurociencia:   aplicaciones   básicas   y   clínicas.   4a   ed.  Barcelona  →  RODRÍGUEZ,  S.  y  SMITH-
-AGREDA   J.M.   2004.   Anatomía   de   los   órganos   del   lenguaje,   visión  y  audición.  Editorial  Médica
-Panamericana. Madrid. ISBN: 84-7903-448-3
-
-BOULAIZ,   H.,   MARCHAL   CORRALES,   J.A.,  CARRILLO  DELGADO,  E.,  ARCHILLA  PEÑA,  F.,  PERÁN  QUESADA,  M.,
-JIMÉNEZ GONZÁLEZ, G., LÓPEZ RUIZ, E., PICÓN RUIZ, M. 2020. Manual de Neuroanatomía y Anatomía de los
-órganos   fonatorios   y   de   los  sentidos.  Editorial  Técnica  AVICAM,  Granada  ISBN:  978-84-18147-50-0.
-DRAKE,   R.,   MITCHELL,   A.M.W.   y   VOGL,   A.   W.  2020.  Gray.  Anatomía  para  estudiantes.  4ª  ed.  ISBN:
-9788491136088 HAINES D. E. y MIHAILOFF, G.A. 2019. Principios de Neurociencia. 5ª ed. Elseiver. ISBN
-→   HAINES   D.   E.   y   MIHAILOFF,   G.A.   2019.   Principios   de   Neurociencia.   5ª  ed.  Elseiver.  ISBN:
-9788491133421
-
-Junqueira   LC,   Carneiro  J.  Histología  Básica,13a  edición,  Editorial  Médica  Panamericana,  ROUVIÈRE,
-H.,   DELMAS,   A.,   y  DELMAS,  V.  2005.  Anatomía  Humana.  vol.  1,  11a  ed.  ISBN  →  JUNQUEIRA  LC,  CARNEIRO
-J. Histología Básica,13a edición, Editorial Médica Panamericana, 2022
-
-✅ Recursos añadidos:
-------------------------------
-Atlas de Anatomía Humana
-
-BIBLIOGRAFÍA COMPLEMENTARIA ANATOMÍA
-
-BIBLIOGRAFÍA COMPLEMENTARIA HISTOLOGÍA
-
 BIBLIOGRAFÍA FUNDAMENTAL ANATOMÍA
-
-BIBLIOGRAFÍA FUNDAMENTAL HISTOLOGÍA
-
-BOULAIZ,   H.,   MARCHAL   CORRALES,   J.A.,  CARRILLO  DELGADO,  E.,  ARCHILLA  PEÑA,  F.,  PERÁN  QUESADA,  M.,
-JIMÉNEZ   GONZÁLEZ,  G.,  LÓPEZ  RUIZ,  E.,  PICÓN  RUIZ,  M.  ZAFRA  MARTÍN,  M.  2025.  Manual  de  Neuroanatomía
-y Anatomía de los órganos fonatorios y de los sentidos. Editorial Técnica AVICAM, Granada
 
 DRAKE,   R.,   MITCHELL,   A.M.W.   y   VOGL,   A.   W.  2020.  Gray.  Anatomía  para  estudiantes.  4ª  ed.  ISBN:
 9788491136088
 
+HAINES   D.   E.   y   MIHAILOFF,   G.A.   2019.   Principios   de   Neurociencia.   5ª   ed.   Elseiver.   ISBN:
+9788491133421
+
+HAINES,   D.E.  2014.  Principios  de  neurociencia:  aplicaciones  básicas  y  clínicas.  4a  ed.  Barcelona:
+Elsevier.   ISBN:  9788490222584.  BIBLIOGRAFÍA  FUNDAMENTAL  HISTOLOGÍA:  Gartner  LP,  Hiatt  JL,  Sturn  JM.
+Biología   Celular   e  Histología.  8a  edición.  Wolters  Kluwer.  Lippincott  Williams  &  Wilkins,  2023.
+Ross   MH,   Paulina   W.   Histología.   Texto   y   Atlas   Color   con  Biología  Celular  y  Molecular,  8va
+edición.   Editorial   Médica   Panamericana,   2020.   Junqueira  LC,  Carneiro  J.  Histología  Básica,13a
+edición, Editorial Médica Panamericana, BIBLIOGRAFÍA COMPLEMENTARIA ANATOMÍA
+
+LATARJET,   M.   y   RUIZ   LIARD.,   A.   2019.   Anatomía   Humana.   5ª   ed.   Médica   Panamericana.   ISBN:
+9789500695855
+
 NETTER, F.H. 2015. Atlas de Anatomía humana. 6a. ed. Barcelona: Elsevier-Masson. ISBN 8445845826072
+
+NOLTE   J.   El  Cerebro  Humano.  1994.  3ª  edición.  Mosby/  Doyma  libros.  Madrid.  ISBN:  Atlas  de  Anatomía
+Humana
 
 PAULSEN,   F.,   WASCHKE,   J.   y   SOBOTTA,  J.  2018.  Sobotta:  Atlas  de  anatomía  humana.  (T.  3),  Cabeza,
 cuello y neuroanatomía. 24a. ed. Barcelona: Elsevier. ISBN 9788491133674
@@ -86,8 +41,45 @@ cuello y neuroanatomía. 24a. ed. Barcelona: Elsevier. ISBN 9788491133674
 PROMETHEUS.   Texto  y  Altas  de  Anatomía:  Cabeza,  Cuello  y  Neuroanatomía:  3.  2013.  Michael  Schünke.  2ª
 Ed. Médica Panamericana. ISBN: 9788498357080
 
+RODRÍGUEZ,   S.   y   SMITH-AGREDA   J.M.  2004.  Anatomía  de  los  órganos  del  lenguaje,  visión  y  audición.
+Editorial Médica Panamericana. Madrid. ISBN: 84-7903-448-3
+
+ROHEN,   Y.2015.   Atlas   Fotográfico   de   Anatomía   Humana.   8ª.  ed.  ISBN:  9788490229491  BIBLIOGRAFÍA
+COMPLEMENTARIA    HISTOLOGÍA:    Welsch    U.   Sobotta   Histología.   2a   edición.   Editorial   Médica
+Panamericana,   2014.   Kühnel   W.   Atlas   Color  de  Citología  e  Histología.  11a  edición.  Editorial
+Médica Panamericana, 2005
+
 ROUVIÈRE, H., DELMAS, A., y DELMAS, V. 2005. Anatomía Humana. vol. 1, 11a ed. ISBN: 9788445813133
+
+RUBIN,   M.,   SAFDIEH,   J.E.   y   NETTER,  F.H.  2008.  Netter.  Neuroanatomía  esencial.  1a  ed.  Barcelona:
+Elsevier Masson. ISBN: 9788445818718
+
+✅ Recursos añadidos (10):
+------------------------------
+Atlas de Anatomía Humana
+
+BIBLIOGRAFÍA COMPLEMENTARIA HISTOLOGÍA
+
+BOULAIZ,   H.,   MARCHAL   CORRALES,   J.A.,  CARRILLO  DELGADO,  E.,  ARCHILLA  PEÑA,  F.,  PERÁN  QUESADA,  M.,
+JIMÉNEZ   GONZÁLEZ,  G.,  LÓPEZ  RUIZ,  E.,  PICÓN  RUIZ,  M.  ZAFRA  MARTÍN,  M.  2025.  Manual  de  Neuroanatomía
+y Anatomía de los órganos fonatorios y de los sentidos. Editorial Técnica AVICAM, Granada
+
+GARTNER   LP,   HIATT   JL,   STURN   JM.   Biología   Celular  e  Histología.  8a  edición.  Wolters  Kluwer.
+Lippincott Williams & Wilkins, 2023
+
+HAINES,   D.E.  2014.  Principios  de  neurociencia:  aplicaciones  básicas  y  clínicas.  4a  ed.  Barcelona:
+Elsevier. ISBN: 9788490222584
+
+JUNQUEIRA LC, CARNEIRO J. Histología Básica,13a edición, Editorial Médica Panamericana, 2022
+
+KÜHNEL,   W.   Atlas  Color  de  Citología  e  Histología.  11a  edición.  Editorial  Médica  Panamericana,
+2005
+
+ROHEN, Y.2015. Atlas Fotográfico de Anatomía Humana. 8ª. ed. ISBN: 9788490229491
+
+ROSS   MH,   PAULINA   W.   Histología.   Texto   y   Atlas   Color   con  Biología  Celular  y  Molecular,  8va
+edición. Editorial Médica Panamericana, 2020
 
 WELSCH U. Sobotta Histología. 2a edición. Editorial Médica Panamericana, 2014
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 45% [████░░░░░░]

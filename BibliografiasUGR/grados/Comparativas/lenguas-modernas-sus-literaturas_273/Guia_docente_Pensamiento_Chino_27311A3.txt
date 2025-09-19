@@ -2,11 +2,24 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+CHENG,   ANNE   (2007):   La   pensée   en  Chine  aujourd’hui;  Folio  essais;  Gallimard;  Paris.    CONFUCIO;
+MENCIO (1982): Los cuatro libros; Ediciones Alfaguara; Madrid
 
-📚 Recursos sin cambios:
+HENRI BOREL (2012): Wuwei, la vía del no actuar o como seguir el ritmo natural de la vida; Ediciones
+obelisco HARVEY; PETER (1998): El budismo; Cambridge; Madrid
+
+KARYN   L.   LAI  (2008):  An  Introduction  to  Chinese  Philosophy,  Cambridge,  Cambridge  University  Press.
+(recurso electronico) LAO ZI (1978): El libro del tao; Ediciones Alfaguara; Madrid
+
+MO   TI   (1987):  Política  del  amor  universal;  Tecnos;  Madrid.    ROBINET,  ISABELLE  (1999):  Lao  Zi  y  el
+Tao; JoséJ. De Olañeta, Editor; Barcelona
+
+TOSHIHIKO,   IZUTSU   (2009):   Hacia  una  filosofía  del  budismo  zen;  Pliegos  de  oriente;  Trotta;  Madrid
+VILÀ, JORDI (2006): YiJing. El libro de los cambios. Con el comentario de Wang Bi; Atalanta; Girona
+
+📚 Recursos sin cambios (20):
 ------------------------------
 BAUER, WOLGANG (2009): Historia de la filosofía china; Herder; Barcelona
 
@@ -53,40 +66,31 @@ Buddhism, Malden, MA : Blackwel
 PREVOSTI   I   MONCLÚS,  ANTONI;  DOMÉNECH  DEL  RÍOS,  ANTONIO  JOSÉ;PRATS,  RAMÓN  N.;  (2005):  Pensamiento  y
 religión en Asia oriental; Editorial UOC; Barcelona
 
+YAO,   XINZHONG(2001):   El   confucianismo;   Cambridge;  Madrid.    ZHUANG  ZI  (1996):  Maestro  ChuangTsé;
+Kairós; Barcelona
+
+✅ Recursos añadidos (10):
+------------------------------
+CHENG, ANNE (2007): La pensée en Chine aujourd’hui; Folio essais; Gallimard; Paris. 
+
+CONFUCIO; MENCIO (1982): Los cuatro libros; Ediciones Alfaguara; Madrid
+
+HARVEY; PETER (1998): El budismo; Cambridge; Madrid
+
+HENRI BOREL (2012): Wuwei, la vía del no actuar o como seguir el ritmo natural de la vida; Ediciones
+obelisco
+
+KARYN   L.   LAI  (2008):  An  Introduction  to  Chinese  Philosophy,  Cambridge,  Cambridge  University  Press.
+(recurso electronico)
+
+LAO ZI (1978): El libro del tao; Ediciones Alfaguara; Madrid
+
+MO TI (1987): Política del amor universal; Tecnos; Madrid. 
+
+ROBINET, ISABELLE (1999): Lao Zi y el Tao; JoséJ. De Olañeta, Editor; Barcelona
+
 TOSHIHIKO, IZUTSU (2009): Hacia una filosofía del budismo zen; Pliegos de oriente; Trotta; Madrid
 
 VILÀ, JORDI (2006): YiJing. El libro de los cambios. Con el comentario de Wang Bi; Atalanta; Girona
 
-YAO,   XINZHONG(2001):   El   confucianismo;   Cambridge;  Madrid.    ZHUANG  ZI  (1996):  Maestro  ChuangTsé;
-Kairós; Barcelona
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-KARYN   L.   LAI  (2008):  An  Introduction  to  Chinese  Philosophy,  Cambridge,  Cambridge  University  Press.
-(recurso   electronico)   LAO   ZI  (1978):  El  libro  del  tao;  Ediciones  Alfaguara;  Madrid  →  KARYN  L.  LAI
-(2008):   An   Introduction   to   Chinese   Philosophy,   Cambridge,  Cambridge  University  Press.  (recurso
-electronico)
-
-MO   TI   (1987):  Política  del  amor  universal;  Tecnos;  Madrid.    ROBINET,  ISABELLE  (1999):  Lao  Zi  y  el
-Tao;   JoséJ.   De   Olañeta,   Editor;   Barcelona   →  MO  TI  (1987):  Política  del  amor  universal;  Tecnos;
-Madrid. 
-
-CHENG,   ANNE   (2007):   La   pensée   en  Chine  aujourd’hui;  Folio  essais;  Gallimard;  Paris.    CONFUCIO;
-MENCIO   (1982):   Los   cuatro   libros;   Ediciones   Alfaguara;   Madrid   →  CONFUCIO;  MENCIO  (1982):  Los
-cuatro libros; Ediciones Alfaguara; Madrid
-
-HENRI BOREL (2012): Wuwei, la vía del no actuar o como seguir el ritmo natural de la vida; Ediciones
-obelisco   HARVEY;   PETER   (1998):   El  budismo;  Cambridge;  Madrid  →  HENRI  BOREL  (2012):  Wuwei,  la  vía
-del no actuar o como seguir el ritmo natural de la vida; Ediciones obelisco
-
-✅ Recursos añadidos:
-------------------------------
-CHENG, ANNE (2007): La pensée en Chine aujourd’hui; Folio essais; Gallimard; Paris. 
-
-HARVEY; PETER (1998): El budismo; Cambridge; Madrid
-
-LAO ZI (1978): El libro del tao; Ediciones Alfaguara; Madrid
-
-ROBINET, ISABELLE (1999): Lao Zi y el Tao; JoséJ. De Olañeta, Editor; Barcelona
-
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

@@ -2,49 +2,49 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Código   Estructural   (2021)   RESISTENCIA   DE   MATERIALES,   TEORÍA  DE  ESTRUCTURAS  E  INTRODUCCIÓN  A  LA
+ELASTICIDAD.   Granados,   J.J.  Editorial  Copicentro  RESISTENCIA  DE  MATERIALES  Y  ESTRUCTURAS.  J.Miguel
+Canet. Ediciones Cimne 2012 PROBLEMAS DE ESTRUCTURAS METÁLICAS. Adaptado a nueva EAE y al Eurocódigo
+EC3
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
+Código técnico de la edificación. CTE SE-A. Acero
+
+Eurocódigo   3:   proyecto   de   estructuras   de   acero.   Parte   1-1:   reglas   generales   y  reglas  para
+edificación
+
 Instrucción de Acero Estructural EAE 2010
+
+Justo   Carretero   y  Jose  Luis  Benito.  Ed.  Vision  Libros  ESTRUCTURA  METALICA  HOY.  Argüelles.  Librería
+Téc. Bellisco, Madrid
 
 MECÁNICA   DE  MATERIALES.  Ferdinand  P.  Beer,  E.  Russell  Johnston,  John  T.  Dewolf.  5ª  Ed.  Mc  Graw-Hill
 PROBLEMAS DE ESTRUCTURAS ARQUITECTÓNICAS I-II F. Lazo Liñan y F. García Rodríguez. 2007
 
 MECÁNICA DE MATERIALES. Gere-Timoshenko. 2ª Ed. Grupo Editorial Iberoamericana
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Código   Estructural   (2021)   RESISTENCIA   DE   MATERIALES,   TEORÍA  DE  ESTRUCTURAS  E  INTRODUCCIÓN  A  LA
-ELASTICIDAD.   Granados,   J.J.  Editorial  Copicentro  RESISTENCIA  DE  MATERIALES  Y  ESTRUCTURAS.  J.Miguel
-Canet. Ediciones Cimne 2012 PROBLEMAS DE ESTRUCTURAS METÁLICAS. Adaptado a nueva EAE y al Eurocódigo
-EC3  →  RESISTENCIA DE MATERIALES Y ESTRUCTURAS. J.Miguel Canet. Ediciones Cimne 2012
+PROBLEMAS   DE   ESTRUCTURAS   METÁLICAS   ADAPTADOS   AL  CÓDIGO  TÉCNICO.  José  Monfort  Lleonard  Normativa
+Código técnico de la edificación. CTE AE. Acciones en la edificación
 
-✅ Recursos añadidos:
+RESISTENCIA DE MATERIALES. Ortiz Berrocal. ETSII de Madrid
+
+✅ Recursos añadidos (6):
 ------------------------------
 Código Estructural (2021)
 
 Código técnico de la edificación. CTE AE. Acciones en la edificación
 
-Código técnico de la edificación. CTE SE-A. Acero
-
-ESTRUCTURA METALICA HOY. Argüelles. Librería Téc. Bellisco, Madrid
-
-Eurocódigo   3:   proyecto   de   estructuras   de   acero.   Parte   1-1:   reglas   generales   y  reglas  para
-edificación
-
-PROBLEMAS DE ESTRUCTURAS ARQUITECTÓNICAS I-II F. Lazo Liñan y F. García Rodríguez. 2007
-
-PROBLEMAS DE ESTRUCTURAS METÁLICAS ADAPTADOS AL CÓDIGO TÉCNICO. José Monfort Lleonard
+MECÁNICA DE MATERIALES. Ferdinand P. Beer, E. Russell Johnston, John T. Dewolf. 5ª Ed. Mc Graw-Hill
 
 PROBLEMAS   DE   ESTRUCTURAS   METÁLICAS.   Adaptado  a  nueva  EAE  y  al  Eurocódigo  EC3  .  Justo  Carretero  y
 Jose Luis Benito. Ed. Vision Libros
 
+RESISTENCIA DE MATERIALES Y ESTRUCTURAS. J.Miguel Canet. Ediciones Cimne 2012
+
 RESISTENCIA   DE   MATERIALES,   TEORÍA   DE  ESTRUCTURAS  E  INTRODUCCIÓN  A  LA  ELASTICIDAD.  Granados,  J.J.
 Editorial Copicentro
 
-RESISTENCIA DE MATERIALES. Ortiz Berrocal. ETSII de Madrid
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

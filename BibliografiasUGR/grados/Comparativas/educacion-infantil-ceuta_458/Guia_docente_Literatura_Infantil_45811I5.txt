@@ -2,14 +2,19 @@
 Grado: educacion-infantil-ceuta (458)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Arizpe,   Evelyn   y   Morag,   Styles.   (2004):   Lectura   de   imágenes.   Los  niños  interpretan  imágenes
+visuales.   México.   Fondo   de  Cultura  Económica  Cerrillo,  Pedro  César.  (2007):  Literatura  infantil  y
+juvenil y educación literaria: hacia una nueva enseñanza de la literatura, Barcelona: Octaedro
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Amo   Sánchez  -  Fortún,  José  Manuel  de  (2002).  Literatura  infantil:  Teoría  y  práctica.  Granada:  Grupo
 Editorial Universitario
+
+Cerrillo, Pedro César y García Padrino, Jaime (coords.): Literatura infantil y su didáctica, Cuenca:
+Univ. de Castilla-La Mancha
 
 Colomer, Teresa (1999). Introducción a la literatura infantil y juvenil. Madrid: Síntesis
 
@@ -45,20 +50,12 @@ Sánchez Corral, Luis (1995). Literatura infantil y lenguaje literario. Barcelon
 
 Tejerina, Isabel (1994). Dramatización y teatro infantil. Madrid: Siglo XXI Eds
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Arizpe,   Evelyn   y   Morag,   Styles.   (2004):   Lectura   de   imágenes.   Los  niños  interpretan  imágenes
-visuales.   México.   Fondo   de  Cultura  Económica  Cerrillo,  Pedro  César.  (2007):  Literatura  infantil  y
-juvenil   y   educación   literaria:   hacia  una  nueva  enseñanza  de  la  literatura,  Barcelona:  Octaedro  →
-Cerrillo,   Pedro  César.  (2007):  Literatura  infantil  y  juvenil  y  educación  literaria:  hacia  una  nueva
-enseñanza de la literatura, Barcelona: Octaedro
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Arizpe,   Evelyn   y   Morag,   Styles.   (2004):   Lectura   de   imágenes.   Los  niños  interpretan  imágenes
 visuales. México. Fondo de Cultura Económica
 
-Cerrillo, Pedro César y García Padrino, Jaime (coords.): Literatura infantil y su didáctica, Cuenca:
-Univ. de Castilla-La Mancha
+Cerrillo,   Pedro  César.  (2007):  Literatura  infantil  y  juvenil  y  educación  literaria:  hacia  una  nueva
+enseñanza de la literatura, Barcelona: Octaedro
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

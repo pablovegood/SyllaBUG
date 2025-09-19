@@ -2,13 +2,15 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Bonsón, E. & Bednarova, M. (2021). Análisis de la información corporativa. Pirámide
+
+Ejercicios prácticos y otra documentación disponible en PRADO y en DIGIBUG
 
 González Pascual, J. (2022). Diagnóstico económico y financiero de la empresa. Pirámide
 
@@ -40,12 +42,8 @@ Somoza López, A. (2020). Análisis de la empresa a través de la información c
 Íñiguez,   R.,   &   Garrido   Miralles,   P.   (2021).   Análisis   de   estados   contables:   elaboración   e
 interpretación de la información financiera. (5a edición). Pirámide
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Ejercicios prácticos y otra documentación disponible en PRADO y en DIGIBUG
-
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

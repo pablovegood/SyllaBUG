@@ -2,11 +2,14 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Carretié,   L.   (2001).   Psicofisiología.   Madrid:   Pirámide   Carretié,   L.   e   Iglesias,   J.  (1995).
+Psicofisiología. Fundamentos metodológicos. Madrid
 
-📚 Recursos sin cambios:
+Pirámide. Puerto, A. (Ed.). (1987). Psicofisiología. Madrid, UNED
+
+📚 Recursos sin cambios (12):
 ------------------------------
 Andreasi,   J.L.   (1995).   Psychophysiology.   Human   behavior  and  physiological  response.  New  Jersey:
 Lawrence Erlbaum Associates
@@ -39,19 +42,14 @@ Simón, M.A. y Amenedo, E. (2001). Manual de psicofisiología clínica. Madrid: 
 
 Vila, J. y Guerra, P. (2009). Una introducción a la psicofisiología clínica. Madrid. Pirámide
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Carretié,   L.   (2001).   Psicofisiología.   Madrid:   Pirámide   Carretié,   L.   e   Iglesias,   J.  (1995).
-Psicofisiología.    Fundamentos    metodológicos.   Madrid   →   Carretié,   L.   e   Iglesias,   J.   (1995).
-Psicofisiología.    Fundamentos    metodológicos.    Madrid.    Pirámide.    Puerto,   A.   (Ed.).   (1987).
-Psicofisiología. Madrid, UNED
-
-Pirámide.   Puerto,   A.   (Ed.).   (1987).   Psicofisiología.  Madrid,  UNED  →  Carretié,  L.  e  Iglesias,  J.
-(1995).   Psicofisiología.   Fundamentos   metodológicos.   Madrid.   Pirámide.  Puerto,  A.  (Ed.).  (1987).
-Psicofisiología. Madrid, UNED
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Carretié, L. (2001). Psicofisiología. Madrid: Pirámide
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+Carretié,   L.   e   Iglesias,  J.  (1995).  Psicofisiología.  Fundamentos  metodológicos.  Madrid.  Pirámide.
+Puerto, A. (Ed.). (1987). Psicofisiología. Madrid, UNED
+
+Carretié,   L.   e   Iglesias,  J.  (1995).  Psicofisiología.  Fundamentos  metodológicos.  Madrid.  Pirámide.
+Puerto, A. (Ed.). (1987). Psicofisiología. Madrid, UNED
+
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

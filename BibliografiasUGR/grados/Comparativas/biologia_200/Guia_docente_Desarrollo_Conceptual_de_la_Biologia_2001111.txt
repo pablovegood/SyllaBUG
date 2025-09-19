@@ -2,11 +2,12 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Morange,   M.   1998.  A  History  of  Molecular  Biology.  Harvard  University  Press  Mayr,  E.  1997.  Historia
+do pensamento biolóxico. Diversidade, evolución, herdanza (Trad
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Acot, P. 1990. Historia de la Ecología
 
@@ -27,7 +28,16 @@ Press
 Krebs,   J.R.   y   Davies,   N.  B.  1993.  An  Introduction  to  Behavioral  Ecology,  3a  edición.  Capítulo  2:
 Testing hypotheses in behavioural ecology. Blackwell
 
+Lacadena,   J.R.   2007.   Conmemorando   los   100  años  del  término  "Genética"  (1905-2005):  Una  historia
+"nobelada" de la Genética. Universidad de León
+
+López-Caballero,   E.   J.  2008.  De  la  prehistoria  a  la  bioética.  Evolución  del  pensamiento  biológico.
+Monografías UAH
+
 Margulis, L. y Sagan, D. 1995 ¿Qué es la vida? Metatemas, Editorial Tusquets Editores S.A
+
+Mayr,   E.   1997.  Historia  do  pensamento  biolóxico.  Diversidade,  evolución,  herdanza  (Trad.  E.  Valadé
+del Río), Universidade Santiago de Compostela, Servizo de Publicacións
 
 Mayr, E. 2006. Por qué es única la biología. Katz
 
@@ -46,21 +56,8 @@ Sober, E. 1996. Filosofía de la Biología. Alianza, Madrid
 Sturtevant,   A.H.   2001.  A  History  of  Genetics,  with  an  introduction  and  afterword  by  EB  Lewis.  Cold
 Spring Harbor Laboratory Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Morange,   M.   1998.  A  History  of  Molecular  Biology.  Harvard  University  Press  Mayr,  E.  1997.  Historia
-do   pensamento   biolóxico.   Diversidade,   evolución,  herdanza  (Trad  →  Morange,  M.  1998.  A  History  of
-Molecular Biology. Harvard University Press
+Morange, M. 1998. A History of Molecular Biology. Harvard University Press
 
-✅ Recursos añadidos:
-------------------------------
-Lacadena,   J.R.   2007.   Conmemorando   los   100  años  del  término  "Genética"  (1905-2005):  Una  historia
-"nobelada" de la Genética. Universidad de León
-
-López-Caballero,   E.   J.  2008.  De  la  prehistoria  a  la  bioética.  Evolución  del  pensamiento  biológico.
-Monografías UAH
-
-Mayr,   E.   1997.  Historia  do  pensamento  biolóxico.  Diversidade,  evolución,  herdanza  (Trad.  E.  Valadé
-del Río), Universidade Santiago de Compostela, Servizo de Publicacións
-
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

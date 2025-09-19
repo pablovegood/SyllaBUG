@@ -2,23 +2,17 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Catalytic Proteins. Oxford University Press.UK. Third Edition. 1999 New York, 2004 Weinheim, 1990
+No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-CÁRDENAS J., FERNÁNDEZ E., GALVÁN F., MÁRQUEZ A.J., VEGA J.M. Problemas de Bioquímica. Ed. Alhambra,
-Madrid, 1988
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (5):
 ------------------------------
 BOMMARIUS A.S., RIEBEL B.R. (eds.) Biocatalysis: Fundamentals and Applications. Wiley-VCH, New York,
 2004
+
+CÁRDENAS J., FERNÁNDEZ E., GALVÁN F., MÁRQUEZ A.J., VEGA J.M. Problemas de Bioquímica. Ed. Alhambra,
+Madrid, 1988
 
 DEVASENA. Enzymology. Oxford University Press, UK. First Edition. 2010
 
@@ -28,4 +22,8 @@ GERHARTZ   W.   Enzymes   in   Industry.  Production  and  Applications.  VCH  V
 PRICE AND STEVENS. Fundamentals of Enzymology. The Cell and Molecular Biology of Catalytic Proteins.
 Oxford University Press.UK. Third Edition. 1999
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

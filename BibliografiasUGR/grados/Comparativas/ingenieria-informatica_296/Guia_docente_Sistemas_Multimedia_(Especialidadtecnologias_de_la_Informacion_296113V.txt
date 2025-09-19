@@ -2,15 +2,7 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Nigel Chapman and Jenny Chapman (2009). Digital multimedia. Chichester, England Vic Costello (2017).
 Multimedia   Foundations:   Core  Concepts  for  Digital  Design  Deitel,H.M.,  Deite,P.J.  (2018).  Java:  How
@@ -19,12 +11,16 @@ Multimedia   applications.   Berlin   :   Springer,   Ralf   Steinmetz,   Klara 
 systems.   Berlin  ;  New  York  :  Springer  Stephen  Weinstein  (2005).  The  multimedia  Internet.  New  York  :
 Springer   Science+Business   Media   Rafael  Moreno  (2009)  Vídeo  digital  :  edición  2009.  Madrid  :  Anaya
 multimedia   Zoe  Plasencia  López  (2009).  Fotografía  digital  :  edición  2009.  Madrid  :  Anaya  Multimedia
-Jorge   Ruiz  Cantero,  Víctor  Vergara  Luján  (2009).  Crear,  editar  y  compartir  música  digital.  Madrid  :
-Anaya   Multimedia   Richard   Mayer   (2020).   Multimedia   Learning.  Springer  →  Deitel,H.M.,  Deite,P.J.
-(2018). Java: How to program. Upper Saddle, New Jersey : Pearson Education
+Jorge Ruiz Cantero, Víctor Vergara Luján (2009). Crear, editar y compartir música digital
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (1):
 ------------------------------
+Madrid : Anaya Multimedia Richard Mayer (2020). Multimedia Learning. Springer
+
+✅ Recursos añadidos (9):
+------------------------------
+Deitel,H.M., Deite,P.J. (2018). Java: How to program. Upper Saddle, New Jersey : Pearson Education
+
 Jorge   Ruiz  Cantero,  Víctor  Vergara  Luján  (2009).  Crear,  editar  y  compartir  música  digital.  Madrid  :
 Anaya Multimedia
 
@@ -35,8 +31,6 @@ Rafael Moreno (2009) Vídeo digital : edición 2009. Madrid : Anaya multimedia
 Ralf Steinmetz, Klara Nahrstedt (2004) Multimedia systems. Berlin ; New York : Springer
 
 Ralf Steinmetz, Klara Nahrstedt(2004) Multimedia applications. Berlin : Springer
-
-Richard Mayer (2020). Multimedia Learning. Springer
 
 Stephen Weinstein (2005). The multimedia Internet. New York : Springer Science+Business Media
 

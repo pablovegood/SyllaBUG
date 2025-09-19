@@ -2,11 +2,11 @@
 Grado: educacion-infantil-ceuta (458)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 AYORA   ESTEBAN,   Mª  del  C.armen  (2010):  “Diversidad  lingüística  y  cultural  en  un  ámbito  educativo  de
 lenguas   en   contacto”,   Pragmalingüística,  18.  Cádiz:  Publicaciones  de  la  Universidad  de  Cádiz.  pp.
@@ -16,21 +16,20 @@ AYORA   ESTEBAN,  Mª  del  Carmen  (2008):  “La  situación  sociolingüísti
 contacto”,   Tonos   (Revista  Electrónica  de  Estudios  Filológicos),  nº  16,  diciembre  2008.  Universidad
 de Murcia. Disponible en: http://www.um.es/tonosdigital/znum26/seciones/estudios-06
 
+AYORA   ESTEBAN,   Mª   del  Carmen  (2017):”La  competencia  sociolingüística  y  los  componentes  culturales
+dentro   del   proceso  de  enseñanza-aprendizaje  del  español  en  un  contexto  de  submersión  lingüística”,
+Pragmalingüística, 25. Cádiz: Publicaciones de la Universidad de Cádiz. pp. 32-49
+
 LOMAS,   Carlos  (2008):  “Lengua,  cultura  y  sociedad”,  en  Cómo  enseñar  a  hacer  cosas  con  las  palabras.
 Barcelona: Paidós. pp. 159-258
 
 LÓPEZ MORALES, Humberto (1993): Sociolingüística.Madrid: Gredos
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Marco   Común   Europeo  de  Referencia  para  las  Lenguas:  aprendizaje,  enseñanza,  evaluación.  Disponible
+en http://cvc.cervantes.es/obref/marco
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (19):
 ------------------------------
-AYORA   ESTEBAN,   Mª   del  Carmen  (2017):”La  competencia  sociolingüística  y  los  componentes  culturales
-dentro   del   proceso  de  enseñanza-aprendizaje  del  español  en  un  contexto  de  submersión  lingüística”,
-Pragmalingüística, 25. Cádiz: Publicaciones de la Universidad de Cádiz. pp. 32-49
-
 BAPTISTA,    Livia   (2017):   Política   y   planificación   lingüística:   algunas   breves   aclaraciones.
 www.espaciosantillanaespanol.com.br/2017/09/
 
@@ -64,9 +63,6 @@ MORENO,   Francisco  (1994),  “Aportes  de  la  sociolingüística  a  la  ens
 
 MORENO, Francisco (1998): Principios de sociolingüística y sociología del lenguaje. Barcelona: Ariel
 
-Marco   Común   Europeo  de  Referencia  para  las  Lenguas:  aprendizaje,  enseñanza,  evaluación.  Disponible
-en http://cvc.cervantes.es/obref/marco
-
 NIETO, Silvia (2003): “Así hablamos las mujeres”. Magazine El Mundo. Domingo 11 de mayo de 2003
 
 PRADO, Josefina (2004): “Didáctica de la lengua y la literatura desde la diversidad lingüística y la
@@ -85,4 +81,4 @@ TUSÓN, Jesús (1996 ): Los prejuicios lingüísticos. Barcelona: Octaedro
 V.V.A.A. (1995): Monografía “Usos lingüísticos y diversidad sociocultural”, en Textosde Didáctica de
 la Lengua y la Literatura, nº 6. Barcelona: Graó
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 76% [███████░░░]

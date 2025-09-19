@@ -2,11 +2,11 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Attwood, Parry-Smith. Introducción a la bioinformática. Editorial Prentice Hall
 
@@ -43,6 +43,9 @@ Jomo Walla. Modern Biophysical Chemistry. Editorial Wiley
 
 Klostermeier & Rudolph. Biophysical Chemistry. Editorial CRC Press
 
+Ladbury,   Doyle.  Biocalorimetry  2.  Applications  of  Calorimetry  in  the  Biological  Sciences.  Editorial
+Wiley
+
 Serdyuk, Zaccai, Zaccai. Methods in Molecular Biophysics. Editorial Cambridge University Press
 
 Sheehan. Physical Biochemistry. Editorial Wiley
@@ -51,23 +54,16 @@ Shulz, Schirmer. Principles of Protein Structure. Editorial Springer-Verlag
 
 Subirana. Estructura del ADN. Editorial Alhambra-Exedra
 
-Sun. Physical Chemistry of Macromolecules. Basis, Principles and Issues. Editorial Wiley. van Holde,
-Johnson, Ho. Physical Biochemistry. Editorial Prentice Hall. van Holde. Bioquímica Física. Editorial
-Alhambra-Exedra
+Sun. Physical Chemistry of Macromolecules. Basis, Principles and Issues. Editorial Wiley
 
 Tanford. Physical Chemistry of Macromolecules. Editorial Wiley
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Ladbury,   Doyle.  Biocalorimetry  2.  Applications  of  Calorimetry  in  the  Biological  Sciences.  Editorial
-Wiley
-
-Sun. Physical Chemistry of Macromolecules. Basis, Principles and Issues. Editorial Wiley
+van Holde, Johnson, Ho. Physical Biochemistry. Editorial Prentice Hall
 
 van Holde. Bioquímica Física. Editorial Alhambra-Exedra
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

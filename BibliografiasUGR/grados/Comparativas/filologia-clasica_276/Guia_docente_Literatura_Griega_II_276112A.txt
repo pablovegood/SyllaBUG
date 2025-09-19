@@ -2,11 +2,11 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Martín Rodríguez, Madrid, Biblioteca de Autores Cristianos (Maior 83), 2007 (orig.: Brescia 1999)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (27):
 ------------------------------
 Aguilar,   R.   M.,  «Literatura  de  época  imperial»,  en  F.  Rodríguez  Adrados  et  al.  (eds.),  Veinte  años
 de   Filología  griega  (1984-2004),  Madrid,  Consejo  Superior  de  Investigaciones  Científicas  (  Manuales
@@ -68,6 +68,8 @@ Körte,   A.   &   Händel,  P.,  La  poesía  helenística,  Barcelona,  Labor 
 Lesky,   A.,   Historia  de  la  literatura  griega,  trad.  esp.  de  J.  M.  Díaz  Regañón  &  B.  Romero,  Madrid,
 Gredos, 1976 (orig.: Bern 1963, 2ª ed.)
 
+López Férez, J. A. (ed.), Historia de la literatura griega, Madrid, Cátedra, 1988, reimpr. 2000
+
 López   Salvá,   M.,   «Literatura  cristiana»,  en  F.  R.  Adrados  et  al.  (eds.),  Veinte  años  de  Filología
 griega   (1984-2004),   Madrid,  Consejo  Superior  de  Investigaciones  Científicas  (  Manuales  y  Anejos  de
 Emerita 49), 2008, 549-583
@@ -88,18 +90,12 @@ Settis, S. (ed.), I Greci: storia, cultura, arte, società, vols. I-IV, Torino, 
 
 Torres Guerra, J. B., Introducción a la literatura griega, Madrid, Síntesis, 2019
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-López   Férez,   J.   A.  (ed.),  Historia  de  la  literatura  griega,  Madrid,  Cátedra,  1988,  reimpr  →  López
-Férez, J. A. (ed.), Historia de la literatura griega, Madrid, Cátedra, 1988, reimpr. 2000
+Moreschini,   Cl.  &  Norelli,  E.,  Historia  de  la  literatura  cristiana  antigua  griega  y  latina,  vol.  I:
+Desde   Pablo   hasta  la  Edad  Constantiniana,  trad.  esp.  de  G.  Martín  Rodríguez,  Madrid,  Biblioteca  de
+Autores Cristianos ( Maior 83), 2006 (orig.: Brescia 1999)
 
-Martín   Rodríguez,   Madrid,   Biblioteca   de   Autores  Cristianos  (Maior  83),  2007  (orig  →  Moreschini,
-Cl.   &  Norelli,  E.,  Historia  de  la  literatura  cristiana  antigua  griega  y  latina,  vol.  I:  Desde  Pablo
-hasta   la   Edad   Constantiniana,   trad.   esp.   de  G.  Martín  Rodríguez,  Madrid,  Biblioteca  de  Autores
-Cristianos ( Maior 83), 2006 (orig.: Brescia 1999)
-
-✅ Recursos añadidos:
-------------------------------
 Nieto   Ibáñez,   J.   M.   &   Torres   Prieto,   J.   Mª  (eds.),  Historia  de  la  literatura  cristiana  en  la
 Antigüedad, Madrid, Ciudad Nueva ( Estudios Patrísticos), 2024
 

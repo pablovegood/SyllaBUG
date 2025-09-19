@@ -2,11 +2,11 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 B. Boiko. Content Management Bible, 2nd Edition, Wiley. 2004
 
@@ -22,6 +22,9 @@ K. Tatroe, P. MacIntyre. Programming PHP: Creating Dynamic Web Pages, 4th Editio
 
 Lefebvre, Y. (2022). WordPress Plugin development cookbook (3rd edition). Packt
 
+M.   V.   Zelkowitz   (Ed.).   Social  Networking  and  the  Web.  Advances  in  Computers  Volume  76.  Elsevier.
+2009
+
 Martínez   Rolán,  X.,  &  Tellado,  F.  (2019).  Diseño  de  páginas  web:  WordPress  para  todos  los  públicos.
 Barcelona: Editorial UOC
 
@@ -35,13 +38,8 @@ for your domain from scratch . Birmingham ;: Packt
 Williams,   a.   (2018).   WordPress   for   beginners   2019   :   a  visual  step-by-step  guide  to  mastering
 WordPress : update october 19th, 2018 . S. l: [Independently published]
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-M.   V.   Zelkowitz   (Ed.).   Social  Networking  and  the  Web.  Advances  in  Computers  Volume  76.  Elsevier.
-2009
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

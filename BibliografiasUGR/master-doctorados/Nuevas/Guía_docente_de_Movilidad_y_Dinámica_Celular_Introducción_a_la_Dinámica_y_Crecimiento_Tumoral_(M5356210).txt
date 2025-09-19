@@ -1,7 +1,0 @@
-1. B. Perthame, Transport Equations in Biology, Birkhäuser Verlag, Basel-Boston-Berlin, 2007.
-2. D. Bray: Cell motility, Taylor and Francis, 2001.
-3. R. Escalante, J.J. Vicente, Dictiostelium discoideum: a model system for differentiation and patterning.
-Int. J. Dev. Biol. 44 (2000), 819-835.
-4. J.D. Murray, Mathematical Biology, Springer 2002.
-5. M. Herrero, The Mathematics of chemotaxis. Handbook of Differential Equations, Evolutionary  equations, Vol. 3. Eds. C.M.Dafermos, E. Feireisl, Elsevier 2007.
-6. R. Metzler, J. Klafter, The random walk's guide to anomalous diffusion: a fractional dynamics  approach. Physics Reports 339 (2000), 1-77.

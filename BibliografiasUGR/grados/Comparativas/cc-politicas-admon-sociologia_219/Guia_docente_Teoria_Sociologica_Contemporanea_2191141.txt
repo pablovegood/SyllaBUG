@@ -2,36 +2,25 @@
 Grado: cc-politicas-admon-sociologia (219)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Ph. Corcuff. Las nuevas sociologías. Siglo XXI
 
-📚 Recursos sin cambios:
+Todas las obras originales de las/os autoras/es que figuran en el programa
+
+📚 Recursos sin cambios (13):
 ------------------------------
 A. Elliott. Contemporary Social Theory: An Introduction. Routledge
 
-C. Calhoun et al. (eds.) Contemporary Sociological Theory. Wiley-Blackwell
-
-G. Ignatow. Sociological theory in the digital age. Routledge
-
-P. Baert y F. Carreira da Silva. La teoría social contemporánea. Alianza Editorial
-
-S. Lindgreen. Data Theory. Interpretative Sociology and Computational Methods. Polity Press
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 C. Bordoni. Nuove tappe del pensiero sociologico. Odoya
 
-C.   E.   Benzecry,   M.   Krause   e   I.   A.   Reed.   La   teoría  social,  ahora.  Nuevas  corrientes,  nuevas
-discusiones. Siglo XXI
+C. Calhoun et al. (eds.) Contemporary Sociological Theory. Wiley-Blackwell
 
 F. Linares Martínez. Sociología y teoría social analíticas. Alianza
 
 F. Requena y L. Ayuso. Teoría sociológica aplicada. Ánthropos
+
+G. Ignatow. Sociological theory in the digital age. Routledge
 
 H. Becker. Trucos del oficio. Siglo XXI
 
@@ -39,9 +28,18 @@ H. Joas y W. Knöbl. Teoría social. Veinte lecciones introductorias. Akal
 
 O. Schwarz. Sociological theory for digital society. Polity
 
+P. Baert y F. Carreira da Silva. La teoría social contemporánea. Alianza Editorial
+
 R. Keucheyan y G. Bronner. La théorie sociale contemporaine. PUF
+
+S. Lindgreen. Data Theory. Interpretative Sociology and Computational Methods. Polity Press
 
 S.   Susen.   Sociology   in   the   Twenty-First   Century.   Key  Trends,  Debates  and  Challenges.  Palgrave
 Macmillan
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+C.   E.   Benzecry,   M.   Krause   e   I.   A.   Reed.   La   teoría  social,  ahora.  Nuevas  corrientes,  nuevas
+discusiones. Siglo XXI
+
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

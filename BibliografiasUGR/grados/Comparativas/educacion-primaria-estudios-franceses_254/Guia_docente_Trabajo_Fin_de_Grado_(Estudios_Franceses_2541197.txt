@@ -2,14 +2,19 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+BOUTILLIER, S. et al. (2014). Méthodologie de la thèse et du mémoire. Paris: Studyrama
 
-📚 Recursos sin cambios:
+CISLARU, G. (2011). L’écrit universitaire en pratique. Bruxelles: De Boeck
+
+DEVAUX, Gérard (1998). Se préparer à l’oral des examens et des concours. Paris: ESF éd
+
+FRAGNIERE, J.P. (1997). Comment réussir un mémoire. Paris: Dunod
+
+📚 Recursos sin cambios (4):
 ------------------------------
-Biblioteca          universitaria          de          la          Universidad         de         Granada:
-https://biblioteca.ugr.es/investigacion/herramientas-apoyo/trabajo-fin-grado-master
+Cada tutor/a la especificará en su propia guía al inicio del curso y/o la entregará a sus alumnos
 
 DESAINTGHISLAIN,   C.   (2014).   L’expression   écrite.   Retenir  l’essentiel.  Repères  pratiques.  Paris:
 Nathan
@@ -17,29 +22,25 @@ Nathan
 GARNIER,   S.   &   SAVAGE,   A.   (2018).   Rédiger   un   texte   académiquement   français:   Niveau  B2  à  C2
 (L'essentiel français). Paris: Ophrys
 
-🔁 Misma obra con edición/año distinto:
+https://biblioteca.ugr.es/pages/investigacion/tfg/     Talleres     formativos    de    la    biblioteca:
+https://formacionbiblioteca.ugr.es/course/index.php?categoryid=16;
+https://formacionbiblioteca.ugr.es/course/index.php?categoryid=50
+
+✅ Recursos añadidos (5):
 ------------------------------
-FRAGNIERE,   J.P.   (1997).   Comment  réussir  un  mémoire.  Paris:  Dunod  →  DEVAUX,  G.  (1998).  Se  préparer
-à   l’oral   des   examens   et   des  concours.  Paris:  ESF  éd.  FRAGNIERE,  J.P.  (1997).  Comment  réussir  un
-mémoire. Paris: Dunod
-
-CISLARU,   G.   (2011).  L’écrit  universitaire  en  pratique.  Bruxelles:  De  Boeck  →  BOUTILLIER,  S.  et  al.
-(2014).   Méthodologie   de   la   thèse   et   du   mémoire.  Paris:  Studyrama.  CISLARU,  G.  (2011).  L’écrit
-universitaire en pratique. Bruxelles: De Boeck
-
-DEVAUX,   Gérard   (1998).   Se   préparer  à  l’oral  des  examens  et  des  concours.  Paris:  ESF  éd  →  DEVAUX,
-G.   (1998).  Se  préparer  à  l’oral  des  examens  et  des  concours.  Paris:  ESF  éd.  FRAGNIERE,  J.P.  (1997).
-Comment réussir un mémoire. Paris: Dunod
-
-BOUTILLIER,   S.   et   al.   (2014).   Méthodologie   de   la   thèse   et   du   mémoire.   Paris:  Studyrama  →
 BOUTILLIER,   S.  et  al.  (2014).  Méthodologie  de  la  thèse  et  du  mémoire.  Paris:  Studyrama.  CISLARU,  G.
 (2011). L’écrit universitaire en pratique. Bruxelles: De Boeck
 
-✅ Recursos añadidos:
-------------------------------
-Cada tutor/a la especificará en su propia guía al inicio del curso y/o la entregará a sus alumnos
+BOUTILLIER,   S.  et  al.  (2014).  Méthodologie  de  la  thèse  et  du  mémoire.  Paris:  Studyrama.  CISLARU,  G.
+(2011). L’écrit universitaire en pratique. Bruxelles: De Boeck
 
-Talleres      formativos     de     la     biblioteca:     https://biblioteca.ugr.es/servicios/formacion;
-https://biblioteca.ugr.es/static/GestorCursos/*/cursos/bibliotecas/11234
+Biblioteca          universitaria          de          la          Universidad         de         Granada:
+https://biblioteca.ugr.es/investigacion/herramientas-apoyo/trabajo-fin-grado-master
 
-📊 Porcentaje estimado de cambio: 85% [████████░░]
+DEVAUX,   G.  (1998).  Se  préparer  à  l’oral  des  examens  et  des  concours.  Paris:  ESF  éd.  FRAGNIERE,  J.P.
+(1997). Comment réussir un mémoire. Paris: Dunod
+
+DEVAUX,   G.  (1998).  Se  préparer  à  l’oral  des  examens  et  des  concours.  Paris:  ESF  éd.  FRAGNIERE,  J.P.
+(1997). Comment réussir un mémoire. Paris: Dunod
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -2,16 +2,19 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Gimeno   Ullastre,   J.,   González   Fernández,  C.,  Guirola,  J.M.,  Ruiz-Huerta,  J.,  y  Pina  Massachs,  M.
+(2011):   Principios   de  Economía.  McGraw-Hill,  Madrid  Mochón  Morcillo,  F.  (2009):  Economía,  Teoría  y
+Política, McGraw-Hill, Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
+BIBLIOGRAFÍA   DE   PRÁCTICAS  Castejón  Montijano,  R.,  Martínez  Merino,  J.L.,  González  González,  M.J.  y
+otros   (2003):  Introducción  a  la  Economía  para  Turismo.  Casos  prácticos  y  ejercicios,  Prentice-Hall,
+Madrid
+
 Castejón Montijano, R. (coord.) (2014), Introducción a la Economía para Turismo, Pearson, Madrid
-
-Castejón   Montijano,  R.,  Martínez  Merino,  J.L.,  González  González,  M.J.  y  otros  (2003):  Introducción
-a la Economía para Turismo. Casos prácticos y ejercicios, Prentice-Hall, Madrid
 
 De Juan, R. (2006): Economía. Teoría y Política. Libro de problemas. McGraw-Hill, Madrid
 
@@ -40,17 +43,13 @@ Samuelson, P. y Nordhaus, W. (2019): Economía, McGraw-Hill, Madrid
 Sebastián, M. y García-Pardo, J. (2004): Ejercicios de Introducción a la Macroeconomía, McGraw Hill,
 Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gimeno   Ullastre,   J.,   González   Fernández,  C.,  Guirola,  J.M.,  Ruiz-Huerta,  J.,  y  Pina  Massachs,  M.
-(2011):   Principios   de  Economía.  McGraw-Hill,  Madrid  Mochón  Morcillo,  F.  (2009):  Economía,  Teoría  y
-Política,   McGraw-Hill,   Madrid   →  Gimeno  Ullastre,  J.,  González  Fernández,  C.,  Guirola,  J.M.,  Ruiz-
-Huerta, J., y Pina Massachs, M. (2011): Principios de Economía. McGraw-Hill, Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 BIBLIOGRAFÍA DE PRÁCTICAS
 
+Gimeno   Ullastre,   J.,   González   Fernández,  C.,  Guirola,  J.M.,  Ruiz-Huerta,  J.,  y  Pina  Massachs,  M.
+(2011): Principios de Economía. McGraw-Hill, Madrid
+
 Mochón Morcillo, F. (2009): Economía, Teoría y Política, McGraw-Hill, Madrid
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

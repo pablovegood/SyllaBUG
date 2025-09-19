@@ -2,17 +2,37 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-Christine   de  Pizan,  The  Selected  Writings  of  Christine  de  Pizan.Norton  &  Company,  1996.  The  Book  of
-Peace.   The  Pennsylvania  State  University,  2008.  El  tesoro  de  la  Ciudad  de  las  Damas.  Carta  a  Isabel
-de Baviera. BAC, 2020. La Ciudad de las Damas. Madrid, Ed. Siruela, 2006
+Agustín   de   Hipona,   Las   Confesiones,   (ed.   de   A.  Uña),  Madrid,  Tecnos,  2012.  Agustín  de  Hipona,
+Confesiones,   (ed.   digital  sobre  ed.  de  E.  Ceballos),  Madrid,  Espasa  Calpe,  1983,  (online  Cervantes
+virtual). Anselmo de Canterbury, Proslogion, Madrid, Tecnos, 2009. Boecio, Consuelo de la filosofía,
+(trad.   de   Eduardo   Gil  Bera),  Barcelona,  Acantilado,  2020.  Boecio,  La  consolación  de  la  filosofía,
+(trad. de Pablo Masa, prólogo de Alfonso Castaño), Ed. Perdidas, Retamar Almería, 2005. Christine de
+Pizan, The Selected Writings of Christine de Pizan.Norton & Company, 1996
 
-Juan de Salibury, Policraticus. Editora Nacional, 1983
+La   Ciudad  de  las  Damas.  Madrid,  Ed.  Siruela,  2006.  García  Estebanez,  E.,  El  Renacimiento:  humanismo
+y   sociedad,  Madrid,  Cincel,  1986.  Jaeger,  W.,  Cristianismo  primitivo  y  paideia  griega,  Madrid,  FCE,
+1965.   Juan   de   Salibury,   Policraticus.   Editora   Nacional,   1983.   Merino,   J.  A.,  Historia  de  la
+filosofía   medieval,   Madrid,   BAC,   2001   (2011).  Montaigne,  M.  de.  Ensayos.  Barcelona,  Acantilado,
+2021. Moreno Fernández, A., "¿Del Areópago a una filosofía cristiana? Algunas aproximaciones previas
+al   pensamiento   medieval",  en:  Ensayos  de  Filosofía,  nº  11,  2020,  Semestre  1,  artículo  10.  (online)
+Estrada,   J.A.,   La   pregunta   por   Dios.   Entre   la  metafísica,  el  nihilismo  y  la  religión,  Bilbao,
+Desclée,   2005.   Gilson,   E.,  La  Filosofía  en  la  Edad  Media.  Desde  los  orígenes  patrísticos  hasta  el
+fin   del   siglo   XIV,   Madrid,  Editorial  Gredos,  1976.  Hernández  Ibáñez,  J.A.,  Patrología  didáctica,
+Estella,   EVD,   2018.   Herrera   Guillén,   R.,  La  primera  filosofía  moderna:  el  Renacimiento,  Madrid,
+Tecnos,   2020.   Navarro,  J.M.,  Calvo,  T.,  Historia  de  la  Filosofía,  Madrid,  Anaya,  1998.  Reale,  G.  y
+Antiseri, D., Historia del pensamiento filosófico y científico, Barcelona, Herder, 2010 (1988), vol.
+I. Vignaux, P., El pensamiento en la Edad Media, Madrid, FCE, 1999
 
-Montaigne, M. de. Ensayos. Barcelona, Acantilado, 2021
+The   Book   of   Peace.  The  Pennsylvania  State  University,  2008.  -El  tesoro  de  la  Ciudad  de  las  Damas.
+Carta a Isabel de Baviera. BAC, 2020
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (20):
 ------------------------------
 Agustín   de  Hipona,  Confesiones,  (ed.  digital  sobre  ed.  de  E.  Ceballos),  Madrid,  Espasa  Calpe,  1983,
 (online Cervantes virtual)
@@ -26,10 +46,19 @@ Boecio, Consuelo de la filosofía, (trad. de Eduardo Gil Bera), Barcelona, Acant
 Boecio,   La   consolación   de   la   filosofía,   (trad.  de  Pablo  Masa,  prólogo  de  Alfonso  Castaño),  Ed.
 Perdidas, Retamar Almería, 2005
 
+De Libera, A., La philosophie médiévale, Paris, PUF, 1993
+
+De Pizán, C., La ciudad de las damas, Madrid, Siruela, 2006
+
+Estrada,   J.A.,   La   pregunta   por   Dios.   Entre   la  metafísica,  el  nihilismo  y  la  religión,  Bilbao,
+Desclée, 2005
+
 García Estebanez, E., El Renacimiento: humanismo y sociedad, Madrid, Cincel, 1986
 
 Gilson,   E.,   La   Filosofía   en  la  Edad  Media.  Desde  los  orígenes  patrísticos  hasta  el  fin  del  siglo
 XIV, Madrid, Editorial Gredos, 1976
+
+Hadot, P., La filosofía como forma de vida, Barcelona, Alpha Decay, 2008
 
 Hernández Ibáñez, J.A., Patrología didáctica, Estella, EVD, 2018
 
@@ -37,7 +66,12 @@ Herrera Guillén, R., La primera filosofía moderna: el Renacimiento, Madrid, Te
 
 Jaeger, W., Cristianismo primitivo y paideia griega, Madrid, FCE, 1965
 
+Maquiavelo, N., El príncipe, Madrid, Alianza editorial, 2010
+
 Merino, J. A., Historia de la filosofía medieval, Madrid, BAC, 2001 (2011)
+
+Moreno   Fernández,   A.,   "¿Del  Areópago  a  una  filosofía  cristiana?  Algunas  aproximaciones  previas  al
+pensamiento medieval", en: Ensayos de Filosofía, nº 11, 2020, Semestre 1, artículo 10. (online)
 
 Navarro, J.M., Calvo, T., Historia de la Filosofía, Madrid, Anaya, 1998
 
@@ -46,25 +80,4 @@ Reale,   G.  y  Antiseri,  D.,  Historia  del  pensamiento  filosófico  y  cien
 
 Vignaux, P., El pensamiento en la Edad Media, Madrid, FCE, 1999
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Moreno   Fernández,   A.,   "¿Del  Areópago  a  una  filosofía  cristiana?  Algunas  aproximaciones  previas  al
-pensamiento   medieval",   en:   Ensayos   de   Filosofía,  nº  11,  2020,  Semestre  1,  artículo  10.  (online)
-Estrada,   J.A.,   La   pregunta   por   Dios.   Entre   la  metafísica,  el  nihilismo  y  la  religión,  Bilbao,
-Desclée,   2005   →   Estrada,   J.A.,   La   pregunta   por   Dios.   Entre  la  metafísica,  el  nihilismo  y  la
-religión, Bilbao, Desclée, 2005
-
-✅ Recursos añadidos:
-------------------------------
-De Libera, A., La philosophie médiévale, Paris, PUF, 1993
-
-De Pizán, C., La ciudad de las damas, Madrid, Siruela, 2006
-
-Hadot, P., La filosofía como forma de vida, Barcelona, Alpha Decay, 2008
-
-Maquiavelo, N., El príncipe, Madrid, Alianza editorial, 2010
-
-Moreno   Fernández,   A.,   "¿Del  Areópago  a  una  filosofía  cristiana?  Algunas  aproximaciones  previas  al
-pensamiento medieval", en: Ensayos de Filosofía, nº 11, 2020, Semestre 1, artículo 10. (online)
-
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

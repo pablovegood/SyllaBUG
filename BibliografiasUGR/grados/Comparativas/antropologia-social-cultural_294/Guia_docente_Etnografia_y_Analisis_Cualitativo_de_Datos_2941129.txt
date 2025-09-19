@@ -2,17 +2,18 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Garson,   D.   2021.   Data   analytics   for  the  Social  Sciences.  Applications  in  R.  New  York:  Routledge
+Gibbs,   Graham.  2012  [2007].  El  análisis  de  datos  cualitativos  en  investigación  cualitativa.  Madrid:
+Morata
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (52):
 ------------------------------
-Angrosino,   Michael.   2012.   Etnografía   y   observación   participante   en  Investigación  Cualitativa.
-Madrid: Morata
-
 Atkinson,   Paul,  Coffey,  Amanda,  Delamont,  Sara  y  Lyn  Lofland  (eds.).  2010.  Handbook  of  Ethnography.
 Thousand Oaks, California: Sage
+
+Bardin, Laurence. 2002. Análisis de contenido. Madrid: Akal
 
 Bazeley,   Patricia   y   Kristi   Jackson.   2013.   Qualitative  data  analysis  with  NVivo.  Thousand  Oaks,
 California: Sage
@@ -22,9 +23,6 @@ Sage
 
 Becker, Howard A. 2011 [1986] Manual de escritura para científicos sociales: Cómo empezar y terminar
 una tesis, un libro o un artículo. Buenos Aires: Siglo XXI
-
-Bernard,   H.   Russell,   Wutich,   Amber   y  Ryan,  Gery  W.  2017.  Analyzing  qualitative  data.  Systematic
-approaches (2nd edition). Thousand Oaks, California: Sage
 
 Bernard,   H.   Russell.  1998.  Handbook  of  Methods  in  Cultural  Anthropology.  Walnut  Creek,  California:
 AltaMira Press
@@ -43,6 +41,8 @@ Lincoln, Nebraska: Nebraska University Press
 
 Cea,   M.A.   1996.   Metodología   cualitativa.  Estrategias  y  técnicas  de  investigación  social.  Madrid:
 Editorial Síntesis
+
+Cifuentes, R. 2011. Diseño de proyectos de investigación cualitativa. Buenos Aires: Noveduc
 
 Coffey,   Amanda   y   Paul   Atkinson.   2005   [1996].   Encontrar   el   sentido  a  los  datos  cualitativos.
 Estrategias   complementarias  de  investigación.  Alicante:  Servicio  de  Publicaciones  de  la  Universidad
@@ -70,12 +70,10 @@ Chicago: University of Chicago Press
 
 Flick, Uwe. 2012. Introducción a la investigación cualitativa. 3ª ed. Madrid: Morata
 
+Fradejas   Rueda,  J.M.  (2023).  Cuentapalabras.  Estilometría  y  análisis  de  texto  con  R  para  filólogos.
+https://www.aic.uva.es/cuentapalabras/
+
 Friese, S. 2019. Qualitative Data Analysis with ATLAS.ti (3rd ed.). Thousand Oaks, CA: Sage
-
-Garson, D. 2021. Data analytics for the Social Sciences. Applications in R. New York: Routledge
-
-Gibbs,   Graham.  2012  [2007].  El  análisis  de  datos  cualitativos  en  investigación  cualitativa.  Madrid:
-Morata
 
 Goetz,   J.P.   y   M.D.   Lecompte.   1988.   Etnografía  y  diseño  cualitativo  en  investigación  educativa.
 Madrid: Morata
@@ -87,6 +85,8 @@ Press
 
 King,   Gary,   Keohane,   Robert   O.   y   Sidney   Verba.  2000.  El  diseño  de  la  investigación  social:  La
 inferencia científica en los estudios cualitativos. Madrid: Alianza Editorial
+
+Krippendorff, K. 2002. Metodología de análisis de contenido. Teoría y práctica. Buenos Aires: Paidós
 
 Kvale, Stainar. 2011. Las entrevistas en Investigación Cualitativa. Madrid: Morata
 
@@ -124,11 +124,17 @@ University Press
 Schwartz, H. y Jacobs J. 1984. Sociología cualitativa. Método para la reconstrucción de la realidad.
 México: Trillas
 
+Se   utilizará   como  libro  de  texto  de  la  asignatura:  Bernard,  H.  Russell,  Wutich,  Amber  y  Ryan,  Gery
+W. 2017. Analyzing qualitative data
+
 Silverman,   David.   2009.   Interpreting   Qualitative   Data:   Methods   for   Analysing   Talk,  Text  and
 Interaction. Thousand Oaks, California: Sage
 
 Strauss,   Anselm   y   Juliet   Corbin   [1990]  2002.  Bases  de  la  investigación  cualitativa  :  técnicas  y
 procedimientos para desarrollar la teoría.Medellín, Colombia: Universidad de Antioquia
+
+Systematic   approaches   (2nd   edition).   Thousand   Oaks,   California:  Sage  Angrosino,  Michael.  2012.
+Etnografía y observación participante en Investigación Cualitativa. Madrid: Morata
 
 Taylor,   S.   J.   y  R.  Bogdan.  1992  [1984].  Introducción  a  los  métodos  cualitativos  de  investigación.
 Barcelona, Paidós
@@ -145,27 +151,20 @@ para etnógrafos de la escuela. Madrid: Editorial Trotta
 
 Wodak, R. y Meyer, M. 2003. Métodos de análisis crítico del discurso. Barcelona: Gedisa
 
-🔁 Misma obra con edición/año distinto:
+filólogos. https://www.aic.uva.es/cuentapalabras/ García Ferrando, M. et al. 1986. El análisis de la
+realidad social. Métodos y técnicas de investigación. Madrid: Alianza Universidad Textos
+
+✅ Recursos añadidos (4):
 ------------------------------
-Fradejas   Rueda,   J.M.   (2023).   Cuentapalabras.   Estilometría  y  análisis  de  texto  con  R  para  García
-Ferrando,   M.   et   al.  1986.  El  análisis  de  la  realidad  social.  Métodos  y  técnicas  de  investigación.
-Madrid:   Alianza   Universidad   Textos   →  Fradejas  Rueda,  J.M.  (2023).  Cuentapalabras.  Estilometría  y
-análisis de texto con R para filólogos. https://www.aic.uva.es/cuentapalabras/
+Bernard,   H.   Russell,   Wutich,   Amber   y  Ryan,  Gery  W.  2017.  Analyzing  qualitative  data.  Systematic
+approaches (2nd edition). Thousand Oaks, California: Sage
 
-✅ Recursos añadidos:
-------------------------------
-Bardin, Laurence. 2002. Análisis de contenido. Madrid: Akal
+Garson, D. 2021. Data analytics for the Social Sciences. Applications in R. New York: Routledge
 
-Cifuentes, R. 2011. Diseño de proyectos de investigación cualitativa. Buenos Aires: Noveduc
-
-García   Ferrando,   M.   et   al.   1986.   El   análisis   de   la   realidad   social.  Métodos  y  técnicas  de
-investigación. Madrid: Alianza Universidad Textos
+Gibbs,   Graham.  2012  [2007].  El  análisis  de  datos  cualitativos  en  investigación  cualitativa.  Madrid:
+Morata
 
 Guest,   Greg,   Kathleen   M.   MacQueen,   y   Emily   E.   Namey.   2011.   Applied  thematic  analysis.  Sage
 Publications
 
-Krippendorff, K. 2002. Metodología de análisis de contenido. Teoría y práctica. Buenos Aires: Paidós
-
-Se utilizará como libro de texto de la asignatura
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

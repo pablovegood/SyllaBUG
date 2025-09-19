@@ -2,11 +2,12 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+A.   Sharma.   Practical  Apache  Lucene  8.  Uncover  the  Search  Capabilities  of  Your  Application.  Apress,
+2020 Goker, J. Davies. Searching in the 21st century. Wiley. 2009
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 Belew   Richard   K.,   "Finding  Out  About.  A  Cognitive  perspective  on  Search  Engine  Technology  and  the
 WWW", Cambridge University Press, 2000
@@ -16,6 +17,12 @@ Addison Wesley/Prentice Hall, 2010
 
 Butcher   S,   Clarke   C.   Cornack  G  Information  Retrieval:  Implementing  and  Evaluating  Search  Engines
 (The MIT Press) 2016
+
+Cacheda   F.   Fernández-Luna,JM   and   Huete,   J.   Recuperación   de  Información:  Un  enfoque  práctico  y
+multidisciplinar. Ed. Rama 2011
+
+ChengXiang   Zhai   t   Sean   Massung.   Text   Data  Management  and  Analysis.  A  practical  introduction  to
+Information Retrieval and text mining. ACM & Morgan Claypool Pubs. 2016
 
 D. A. Grossman, O. Frieder, Information Retrieval: Algorithms and Heuristics, Springer. 2004
 
@@ -31,20 +38,11 @@ Salton, Automatic Text Processing, Addison-Wesley, 1989
 
 Van Rijsbergen, Information Retrieval, Second Edition, Butterworth, 1979
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 A.   Sharma.   Practical  Apache  Lucene  8.  Uncover  the  Search  Capabilities  of  Your  Application.  Apress,
-2020   Goker,   J.   Davies.   Searching   in  the  21st  century.  Wiley.  2009  →  A.  Sharma.  Practical  Apache
-Lucene 8. Uncover the Search Capabilities of Your Application. Apress, 2020
-
-✅ Recursos añadidos:
-------------------------------
-Cacheda   F.   Fernández-Luna,JM   and   Huete,   J.   Recuperación   de  Información:  Un  enfoque  práctico  y
-multidisciplinar. Ed. Rama 2011
-
-ChengXiang   Zhai   t   Sean   Massung.   Text   Data  Management  and  Analysis.  A  practical  introduction  to
-Information Retrieval and text mining. ACM & Morgan Claypool Pubs. 2016
+2020
 
 Goker, J. Davies. Searching in the 21st century. Wiley. 2009
 
-📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

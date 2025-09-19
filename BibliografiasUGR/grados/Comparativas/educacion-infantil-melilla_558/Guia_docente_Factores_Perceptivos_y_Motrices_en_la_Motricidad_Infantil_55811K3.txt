@@ -2,11 +2,13 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ballesteros   Jiménez,   S.   (1982).   El   Esquema  Corporal.  Madrid:  Tea,  S.A…  Bandet,  J.  y  Abbadie,  M.
+(1976).   La   Educación  Física  de  los  Niños  de  3  A  7  años.  Alcoy:  Marfil,  S.A…  Campon,  F.  y  Lieutaud,
+J. (1981). ¿Cómo? La Educación Física y Psicomotriz. Barcelona: Médica y Técnica, S.A
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (31):
 ------------------------------
 Blázquez, D. y Ortega, E. (1986). La Actividad Motriz en el Niño de 3 a 6 años. Madrid: Ed. Cincel
 
@@ -41,6 +43,9 @@ Fontanella
 Lapierre, A. (1982). El Adulto frente al Niño de 0 a 3 Años. Barcelona: Científico-Médica, S.A
 
 Lapierre, A. (1983). Educación Psicomotriz en la Escuela Maternal. Madrid: Científico-Médica
+
+Le   Boulch,   J.   (1978).   Hacia   una  Ciencia  del  Movimiento  Humano.  Introducción  a  la  Psicokinética.
+Buenos Aires: Paidós, S.A
 
 Le Boulch, J. (1981). La Educación por el Movimiento en la Edad Escolar. Barcelona: Paidós, S.A
 
@@ -79,21 +84,13 @@ Vayer, P. (1982). El Equilibrio Corporal. Barcelona: Científico-Medica
 
 Wickstrom, R. (1990). Patrones Motores Básicos. Ed. Alianza Deporte
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ballesteros   Jiménez,   S.   (1982).   El   Esquema  Corporal.  Madrid:  Tea,  S.A…  Bandet,  J.  y  Abbadie,  M.
-(1976).   La   Educación  Física  de  los  Niños  de  3  A  7  años.  Alcoy:  Marfil,  S.A…  Campon,  F.  y  Lieutaud,
-J.   (1981).   ¿Cómo?  La  Educación  Física  y  Psicomotriz.  Barcelona:  Médica  y  Técnica,  S.A  →  Bandet,  J.
-y Abbadie, M. (1976). La Educación Física de los Niños de 3 A 7 años. Alcoy: Marfil, S.A…
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Ballesteros Jiménez, S. (1982). El Esquema Corporal. Madrid: Tea, S.A…
+
+Bandet, J. y Abbadie, M. (1976). La Educación Física de los Niños de 3 A 7 años. Alcoy: Marfil, S.A…
 
 Campon,   F.   y   Lieutaud,   J.   (1981).  ¿Cómo?  La  Educación  Física  y  Psicomotriz.  Barcelona:  Médica  y
 Técnica, S.A
 
-Le   Boulch,   J.   (1978).   Hacia   una  Ciencia  del  Movimiento  Humano.  Introducción  a  la  Psicokinética.
-Buenos Aires: Paidós, S.A
-
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

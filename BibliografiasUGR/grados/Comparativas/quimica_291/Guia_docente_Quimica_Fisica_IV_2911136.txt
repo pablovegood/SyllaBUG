@@ -2,15 +2,7 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Atkins,   P.W.;   de   Paula,  J.;  Keeler,  J.,  Atkins  Physical  Chemistry,  11th,  Oxford  University  Press,
 Levine,   I.   N,  Physical  Chemistry,  6th  ed.,  McGraw  Hill,  2009  Levine,  I.  N,  Quantum  Chemistry,  7th,
@@ -19,10 +11,13 @@ Molecular Spectroscopy, 4th, McGraw-Hill, 1994 Requena, A. ; Zúñiga, J., Espec
 2004   Gil   Criado,   M.;  Núñez  Barriocanal,  J.L.,  Espectroscopía  Molecular,  1,  Garceta,  2018  Bernath,
 P.J.,   Spectra   of  Atoms  and  Molecules,  4th,  Oxford  University  Press,  2020  Atkins,  P.  W.  ;  Friedman,
 R.,   Molecular   Quantum   Mechanics,   4th   ed.,   Oxford   University   Press,  Atkins,  P.  W.,  Quanta  :  a
-handbook   of   concepts,   2nd   ed.,   Oxford   University   Press,   1991   →   Requena,   A.   ;  Zúñiga,  J.,
-Espectroscopía, 1, Pearson, 2004
+handbook of concepts, 2nd ed., Oxford University Press, 1991
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (10):
 ------------------------------
 Atkins, P. W. ; Friedman, R., Molecular Quantum Mechanics, 4th ed., Oxford University Press, 2005
 
@@ -42,5 +37,7 @@ Hollas, J.M., Modern Spectroscopy, 4th, Wiley, 2004
 Levine, I. N, Physical Chemistry, 6th ed., McGraw Hill, 2009
 
 Levine, I. N, Quantum Chemistry, 7th, Pearson, 2014
+
+Requena, A. ; Zúñiga, J., Espectroscopía, 1, Pearson, 2004
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

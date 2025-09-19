@@ -2,11 +2,13 @@
 Grado: ingenieria-civil-plan-2023 (246)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Circuitos eléctricos. J. Fraile Mora. Ed. Pearson. ISBN 978-84-832-2795-4. 2012 Máquinas eléctricas.
+J.   Fraile   Mora.   Ed.   Garceta.   ISBN   978-84-16228-133.  2015  Problemas  de  circuitos  eléctricos.  J.
+Fraile Mora. Ed. Pearson. ISBN 978-84-903-5405-6
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 Electrotecnia    básica   para   ingenieros.   F.   Aznar,   A.   Espín   y   F.   Gil.   Editorial   UGR.   ISBN
 978-84-338-5442-1. 2012
@@ -27,27 +29,22 @@ Prácticas de electrotecnia. F. Aznar, O. Rabaza, E. Molero, D. Gómez. Editoria
 
 Reglamento Electrotécnico de Baja Tensión. Ed. BOE. ISBN 978-84-340-2546-2. 2021
 
+Reglamento de centrales eléctricas, subestaciones y centros de transformación
+
+Reglamento de líneas eléctricas de alta tensión
+
 Teoría de circuitos. E. Ras. Ed. Marcombo. ISBN 978-84-267-0673-7. 1988
 
 Teoría de circuitos. V. Parra. Ed. UNED. ISBN 978-84-362-1960-0. 1991
 
 Transformadores. E. Ras. Ed. Marcombo. ISBN 978-84-267-0231-9. 1978
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Circuitos eléctricos. J. Fraile Mora. Ed. Pearson. ISBN 978-84-832-2795-4. 2012 Máquinas eléctricas.
-J.   Fraile   Mora.   Ed.   Garceta.   ISBN   978-84-16228-133.  2015  Problemas  de  circuitos  eléctricos.  J.
-Fraile   Mora.   Ed.   Pearson.   ISBN   978-84-903-5405-6   →   Máquinas   eléctricas.   J.  Fraile  Mora.  Ed.
-Garceta. ISBN 978-84-16228-133. 2015
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Circuitos eléctricos. J. Fraile Mora. Ed. Pearson. ISBN 978-84-832-2795-4. 2012
 
+Máquinas eléctricas. J. Fraile Mora. Ed. Garceta. ISBN 978-84-16228-133. 2015
+
 Problemas de circuitos eléctricos. J. Fraile Mora. Ed. Pearson. ISBN 978-84-903-5405-6. 2013
 
-Reglamento de centrales eléctricas, subestaciones y centros de transformación
-
-Reglamento de líneas eléctricas de alta tensión
-
-📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

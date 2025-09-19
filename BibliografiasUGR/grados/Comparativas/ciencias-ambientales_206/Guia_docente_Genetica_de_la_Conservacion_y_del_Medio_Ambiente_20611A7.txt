@@ -2,21 +2,15 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Edición. Pearson Educación
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
-Lewin,   B.   Genes   XII.   McGraw-Hill/Interamericana.      Brown,  T.A.  2008.  Genomas.  Editorial  Médica
-Panamericana
+BIBLIOGRAFÍA   COMPLEMENTARIA   PARA  RESOLUCIÓN  DE  PROBLEMAS:  Manual  de  Problemas  y  casos  prácticos  de
+Genética. Grado en Biología. Dpto. Genética. UGR
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Benito   Jiménez,   C.,   Espino   Nuño   F.J.   2013.   Genética:   conceptos  esenciales.  Ed.  Panamericana.
 BIBLIOGRAFÍA COMPLEMENTARIA PARA RESOLUCIÓN DE PROBLEMAS
 
@@ -26,8 +20,14 @@ Hill/Interamericana
 Klug,   W.S.,   M.R.   Cummings,   Spencer,  CA  &  Palladino  MA.  2013.  Conceptos  de  Genética.  10ª  Edición.
 Pearson Educación
 
-Manual de Problemas y casos prácticos de Genética. Grado en Biología. Dpto. Genética. UGR
+Lewin,   B.  2008.  Genes  IX.  McGraw-Hill/Interamericana.    Brown,  T.A.  2008.  Genomas.  Editorial  Médica
+Panamericana
 
+Pierce,   B.A.   2015.   Genética.   Un   enfoque   conceptual.  5ª.  Edición.  Editorial  Médica  Panamericana
 Pierce, B.A. 2015. Genética. Un enfoque conceptual. 5ª. Edición. Editorial Médica Panamericana
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

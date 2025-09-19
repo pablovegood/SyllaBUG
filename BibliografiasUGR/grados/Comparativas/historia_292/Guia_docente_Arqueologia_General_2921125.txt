@@ -2,11 +2,11 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 BROTHWELL,   D.,  POLLARD,  A.M.  (Eds.),  (2005):  Handbook  of  Archaeological  Sciences,Wiley,  Chichester,
 2005
@@ -36,11 +36,7 @@ SCHNAPP, A.: The discovery of the past, New York, 1997
 
 TRIGGER, B. G.: Historia del pensamiento arqueológico. Editorial Critica, Barcelona, 1992
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

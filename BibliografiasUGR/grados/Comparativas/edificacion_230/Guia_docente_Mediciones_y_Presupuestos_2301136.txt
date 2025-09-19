@@ -2,23 +2,41 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+BERTRÁN   MORENO,   Agustín   y   GÓMEZ  COBOS,  Emilio.  Mediciones  en  las  obras:  iniciación  a  los  precios
+(Adaptadas al RD 304/2006 CTE y RDL 3/2011 - TRLCSP)
 
-📚 Recursos sin cambios:
+ESPAÑA. Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se
+
+Granada: Proyecto Sur Industrias Gráficas [Imp.], 2012
+
+📚 Recursos sin cambios (29):
 ------------------------------
-AMSELEM   MORYOUSSEF,  Raquel  y  COLLADO  LÓPEZ,  Mª  Luisa.  Técnicas  de  gestión  presupuestaria.  Valencia:
-Universitat Politécnica de Valencia, 2010
-
 ARIZMENDI   BARNES,   Luis  Jesús.  Cálculo  y  normativa  básica  de  las  instalaciones  en  los  edificios.  6ª
 ed. Pamplona: Eunsa, 2004
+
+ASOCIACIÓN   ESPAÑOLA  DE  PROFESORES  DE  MEDICIONES,  PRESUPUESTOS  Y  VALORACIONES.  Recomendaciones  sobre
+criterios de Medición en Construcción. Madrid: Tave 82, 1994
+
+BASE DE PRECIOS DE LA CONSTRUCCIÓN DE LA JUNTA DE EXTREMADURA. Gobierno de Extremadura
+
+BCCA.   Base   de   costes   de   la   construcción   de  Andalucía.  Consejería  de  Vivienda  y  Ordenación  del
+Territorio de la Junta de Andalucía
 
 BERTRÁN   MORENO,   Agustín  y  GÓMEZ  COBOS,  Emilio  [colaborador].  Las  mediciones  en  las  obras.  Granada:
 Proyecto Sur Industrias Gráficas [Imp.], 2009
 
 BERTRÁN   MORENO,   Agustín.   Tratado   de  mediciones  de  obras.  3ª  ed.  Granada:  Proyecto  Sur  Industrias
 Gráficas [Imp.], 2008
+
+BPCCL. Base de Precios de la Construcción de Castilla y León. ICCL. Burgos
+
+Banco BEDEC. Instituto de Tecnología de la Construcción de Cataluña (ITeC)
+
+Bases de datos ACAE [CD-ROM]. Catálogo para la construcción multifabricante. ed. ACAE: Barcelona
+
+BdC. Base de Datos de la Construcción de la Comunidad de Madrid
 
 CANOSA   DE   LOS  CUETOS,  Carlos.  Presupuestos.  Madrid:  Servicio  Publicaciones  Universidad  Politécnica
 de Madrid, 1989
@@ -41,6 +59,9 @@ CYPE Ingenieros. Alicante
 
 GONZÁLEZ MARTÍN, Jesús. La pintura como recubrimiento protector. Madrid: A. Madrid Vicente, 1994
 
+General   AMSELEM   MORYOUSSEF,   Raquel  y  COLLADO  LÓPEZ,  Mª  Luisa.  Técnicas  de  gestión  presupuestaria.
+Valencia: Universitat Politécnica de Valencia, 2010
+
 GÓMEZ   COBOS,   Emilio   y   BARRÓS   LEAL,  Andrés.  Los  precios  en  las  obras:  Adaptado  a  la  LCSP  9/2017:
 Iniciación al presupuesto con metodología BIM. Granada: Editorial Técnica Avicam, 2018
 
@@ -59,6 +80,10 @@ Oficiales de Aparejadores y Arquitectos Técnicos, 2007
 MINISTERIO   DE   FOMENTO.  NTE  normas  tecnológicas  de  la  edificación.  Madrid:  Centro  de  publicaciones,
 [1973-1986]
 
+PRECIO DE LA CONSTRUCCIÓN CENTRO. Gabinete Técnico de Publicaciones COAAT Guadalajara
+
+PREOC. Precios de edificación y obra civil en España. ATAYO S.A
+
 RAMIREZ    DE    ARELLANO   AGUDO,   Antonio   [et   al.].   Retirada   selectiva   de   residuos:   modelo   de
 presupuestación. Sevilla: Fundación Aparejadores, 2002
 
@@ -71,39 +96,21 @@ los costes de construcción. Girona: La 21, 2011
 VALDERRAMA,   Fernando.   Mediciones   y  presupuestos:  para  arquitectos  e  ingenieros  de  edificación.  2ª
 ed. actualizada y ampliada. Barcelona: Reverté D.L., 2010
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Granada:   Proyecto   Sur   Industrias   Gráficas   [Imp.],  2012  →  BERTRÁN  MORENO,  Agustín  y  GÓMEZ  COBOS,
-Emilio. Mediciones en las obras: iniciación a los precios (Adaptadas al RD 304/2006 CTE y RDL 3/2011
-- TRLCSP). Granada: Proyecto Sur Industrias Gráficas [Imp.], 2012
+BERTRÁN   MORENO,   Agustín   y   GÓMEZ  COBOS,  Emilio.  Mediciones  en  las  obras:  iniciación  a  los  precios
+(Adaptadas   al   RD   304/2006   CTE   y  RDL  3/2011  -  TRLCSP).  Granada:  Proyecto  Sur  Industrias  Gráficas
+[Imp.], 2012
 
 BERTRÁN   MORENO,   Agustín   y   GÓMEZ  COBOS,  Emilio.  Mediciones  en  las  obras:  iniciación  a  los  precios
-(Adaptadas   al   RD   304/2006   CTE   y   RDL   3/2011  -  TRLCSP)  →  BERTRÁN  MORENO,  Agustín  y  GÓMEZ  COBOS,
-Emilio. Mediciones en las obras: iniciación a los precios (Adaptadas al RD 304/2006 CTE y RDL 3/2011
-- TRLCSP). Granada: Proyecto Sur Industrias Gráficas [Imp.], 2012
-
-✅ Recursos añadidos:
-------------------------------
-ACAE [CD-ROM]. Catálogo para la construcción multifabricante. ed. ACAE: Barcelona
-
-ASOCIACIÓN   ESPAÑOLA  DE  PROFESORES  DE  MEDICIONES,  PRESUPUESTOS  Y  VALORACIONES.  Recomendaciones  sobre
-criterios de Medición en Construcción. Madrid: Tave 82, 1994
-
-BASE DE PRECIOS DE LA CONSTRUCCIÓN DE LA JUNTA DE EXTREMADURA. Gobierno de Extremadura
-
-BCCA.   Base   de   costes   de   la   construcción   de  Andalucía.  Consejería  de  Vivienda  y  Ordenación  del
-Territorio de la Junta de Andalucía
-
-BPCCL. Base de Precios de la Construcción de Castilla y León. ICCL. Burgos
-
-Banco BEDEC. Instituto de Tecnología de la Construcción de Cataluña (ITeC)
+(Adaptadas   al   RD   304/2006   CTE   y  RDL  3/2011  -  TRLCSP).  Granada:  Proyecto  Sur  Industrias  Gráficas
+[Imp.], 2012
 
 Bases de datos
 
-BdC. Base de Datos de la Construcción de la Comunidad de Madrid
+ESPAÑA.   Ley  9/2017,  de  8  de  noviembre,  de  Contratos  del  Sector  Público,  por  la  que  se  transponen  al
+ordenamiento   jurídico   español   las   Directivas   del   Parlamento  Europeo  y  del  Consejo  2014/23/UE  y
+2014/24/UE,   de   26   de   febrero   de   2014.   Madrid:   Boletín   Oficial  del  Estado,  núm.  272,  de  9  de
+noviembre de 2017
 
-PRECIO DE LA CONSTRUCCIÓN CENTRO. Gabinete Técnico de Publicaciones COAAT Guadalajara
-
-PREOC. Precios de edificación y obra civil en España. ATAYO S.A
-
-📊 Porcentaje estimado de cambio: 54% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

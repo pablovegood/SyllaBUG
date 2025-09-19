@@ -2,11 +2,16 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Plan   Integral   de   Residuos   de   Andalucía.  Hacia  una  Economía  Circular  en  el  Horizonte  2030  (PIRec
+2030), La enciclopedia del medio ambiente urbano. Ed. Cerro Alto. 1997. Tomo 7: Recogida de residuos
+Guía   Técnica   para   la   Gestión   de   Residuos  Municipales  y  Limpieza  Viaria.  Federación  Española  de
+Municipios     y     Provincias    http://www.fegamp.gal/sites/default/files/documentos/guiatecnica.pdf
+Standard   Methods   for  the  Examination  of  Water  and  Wastewater.  22nd  Edition.  American  Public  Health
+Association (APHA). 2022
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Cuestiones Prácticas de la gestión de residuos. I. Aspectos generales y Conceptos básicos Montserrat
 Zamorano   Toro,   Francisco   Serrano   Bernardo,   Ángela  García  Maraver,  Jaime  Martín  Pascual,  Luis  F.
@@ -25,23 +30,17 @@ depósito en vertedero
 
 Tchobanoglous G., Theisen H., Vigil S. 1994. Gestión integral de residuos sólidos. McGraw-Hill
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Plan   Integral   de   Residuos   de   Andalucía.  Hacia  una  Economía  Circular  en  el  Horizonte  2030  (PIRec
-2030), La enciclopedia del medio ambiente urbano. Ed. Cerro Alto. 1997. Tomo 7: Recogida de residuos
-Guía   Técnica   para   la   Gestión   de   Residuos  Municipales  y  Limpieza  Viaria.  Federación  Española  de
-Municipios   y  Provincias  Standard  Methods  for  the  Examination  of  Water  and  Wastewater.  22nd  Edition.
-American   Public   Health   Association   (APHA).   2022  →  Plan  Integral  de  Residuos  de  Andalucía.  Hacia
-una Economía Circular en el Horizonte 2030 (PIRec 2030)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Guía   Técnica   para   la   Gestión   de   Residuos  Municipales  y  Limpieza  Viaria.  Federación  Española  de
 Municipios y Provincias http://www.fegamp.gal/sites/default/files/documentos/guiatecnica.pdf
 
 La enciclopedia del medio ambiente urbano. Ed. Cerro Alto. 1997. Tomo 7: Recogida de residuos
 
+Plan   Integral   de   Residuos   de   Andalucía.  Hacia  una  Economía  Circular  en  el  Horizonte  2030  (PIRec
+2030)
+
 Standard   Methods   for  the  Examination  of  Water  and  Wastewater.  22nd  Edition.  American  Public  Health
 Association (APHA). 2022
 
-📊 Porcentaje estimado de cambio: 57% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

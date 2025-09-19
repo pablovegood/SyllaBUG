@@ -2,11 +2,14 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+INCHAURRALDE,   C.   e   I.   VÁZQUEZ   (eds.)   (2000):   Una   introducción   cognitiva   al   lenguaje   y  la
+lingüística. Zaragoza: Mira Editores. (Traducción y adaptación de R. Dirven y M
 
-📚 Recursos sin cambios:
+Verspoor, Exploration of Language and Linguistics, Ámsterdam, John Benjamins, 1998.)
+
+📚 Recursos sin cambios (19):
 ------------------------------
 AKMAJIAN,   R.,   A.   DEMERS   yR.   M.   HARNISH   (1979):  Lingüística:  una  introducción  al  lenguaje  y  la
 comunicación. Madrid: Alianza, 1984
@@ -18,7 +21,15 @@ BERNÁRDEZ, E. (1999): Qué son las lenguas. Madrid: Alianza
 
 COSERIU, E. (1986): Introducción a la lingüística. Madrid: Gredos
 
+CRYSTAL, D. (1987): Enciclopedia del lenguaje de la Universidad de Cambridge. Madrid: Taurus, 1994
+
 CRYSTAL, D. (2001): A Dictionary of Language. Chicago: The University of Chicago Press
+
+DUCROT,   O.   y  J.  M.  SCHAEFFER  (1998):  Nuevo  diccionario  enciclopédico  de  las  ciencias  del  lenguaje.
+Madrid: Arrecife
+
+FERNÁNDEZ   PÉREZ,   M.   (1999):   Introducción   a   la   lingüística.  Dimensiones  del  lenguaje  y  vías  de
+estudio. Barcelona: Ariel
 
 FROMKIN, V., R. RODMAN y N. HYAMS (2003): An Introduction to Language. Boston: Thomson &Heinle
 
@@ -26,6 +37,9 @@ MOESCHLER, J. y A. AUCHLIN (1997): Introduction à la linguistique contemporaine
 
 MORENO   CABRERA,   J.   C.   (1991):   Curso   Universitario  de  lingüística  general.  Tomo  I:  Teoría  de  la
 gramática y sintaxis general. Madrid: Síntesis
+
+MORENO   CABRERA,   J.   C.   (1994):   Curso   Universitario   de  lingüística  general.  Tomo  II:  Semántica,
+pragmática, morfología y fonología. Madrid: Síntesis
 
 MORENO   CABRERA,   J.   C.   (1997):  Introducción  a  la  lingüística.  Enfoque  tipológico  y  universalista.
 Madrid: Síntesis
@@ -35,6 +49,9 @@ MORENO CABRERA, J. C. (1998): Diccionario de lingüística neológico y multilin
 NEWMEYER,   F.   J.  (ed.)  (1988):  Panorama  de  la  lingüística  moderna  de  la  Universidad  de  Cambridge  (4
 vols.). Madrid: Visor, 1990 (vol. 1), 1991 (vol. II), 1992 (vols. III y IV)
 
+O’GRADY,    W.,   J.   ARCHIBALD,   M.   ARONOFF,   J.   REES-MILLER   (2005):   Contemporary   Linguistics.An
+Introduction. Boston/Nueva York: Bedford/St. Martin’s
+
 RADFORD, A., M. ATKINSON, D. BRITAIN, H. CLAHSEN y A. SPENCER (1999): Introducción a la lingüística.
 Madrid: Cambridge University Press, 2000
 
@@ -42,45 +59,14 @@ SIMONE, R. (1990): Fundamentos de lingüística. Barcelona: Ariel, 1993
 
 YULE, G. (1985):El Lenguaje. Madrid: Cambridge UniversityPress, 1998
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-RADFORD,   A.,   M.   ATKINSON,   D.  BRITAIN,  H.  CLAHSEN  y  A.  SPENCER  (1999)  →  RADFORD,  A.,  M.  ATKINSON,
-D.   BRITAIN,   H.   CLAHSEN   y   A.   SPENCER   (1999):   Introducción  a  la  lingüística.  Madrid:  Cambridge
-University Press, 2000
+INCHAURRALDE,   C.   e   I.   VÁZQUEZ   (eds.)   (2000):   Una   introducción   cognitiva   al   lenguaje   y  la
+lingüística.   Zaragoza:   Mira   Editores.   (Traducción   y   adaptación   de   R.   Dirven   y  M.  Verspoor,
+Exploration of Language and Linguistics, Ámsterdam, John Benjamins, 1998.)
 
 INCHAURRALDE,   C.   e   I.   VÁZQUEZ   (eds.)   (2000):   Una   introducción   cognitiva   al   lenguaje   y  la
-lingüística.   Zaragoza:   Mira  Editores.  (Traducción  y  adaptación  de  R.  Dirven  y  M  →  INCHAURRALDE,  C.
-e   I.  VÁZQUEZ  (eds.)  (2000):  Una  introducción  cognitiva  al  lenguaje  y  la  lingüística.  Zaragoza:  Mira
-Editores.   (Traducción   y   adaptación   de   R.   Dirven   y   M.   Verspoor,   Exploration  of  Language  and
-Linguistics, Ámsterdam, John Benjamins, 1998.)
+lingüística.   Zaragoza:   Mira   Editores.   (Traducción   y   adaptación   de   R.   Dirven   y  M.  Verspoor,
+Exploration of Language and Linguistics, Ámsterdam, John Benjamins, 1998.)
 
-MORENO   CABRERA,   J.   C.   (1994):   Curso   Universitario   de   lingüística   general.   Tomo  II  →  MORENO
-CABRERA,   J.  C.  (1991):  Curso  Universitario  de  lingüística  general.  Tomo  I:  Teoría  de  la  gramática  y
-sintaxis general. Madrid: Síntesis
-
-Verspoor, Exploration of Language and Linguistics, Ámsterdam, John Benjamins, 1998.) O’GRADY, W., J.
-ARCHIBALD, M. ARONOFF, J. REES-MILLER (2005): Contemporary Linguistics.An Introduction. Boston/Nueva
-York:   Bedford/St.   Martin’s   →   O’GRADY,   W.,   J.   ARCHIBALD,   M.   ARONOFF,   J.  REES-MILLER  (2005):
-Contemporary Linguistics.An Introduction. Boston/Nueva York: Bedford/St. Martin’s
-
-Introducción   a   la   lingüística.   Madrid:   Cambridge   University   Press,   2000   →   RADFORD,   A.,  M.
-ATKINSON,   D.   BRITAIN,   H.   CLAHSEN   y   A.   SPENCER   (1999):  Introducción  a  la  lingüística.  Madrid:
-Cambridge University Press, 2000
-
-DUCROT,   O.   y   J.   M.   SCHAEFFER   (1998):  Nuevo  diccionario  enciclopédico  de  las  ciencias  FERNÁNDEZ
-PÉREZ,   M.   (1999):   Introducción   a   la   lingüística.   Dimensiones   del  lenguaje  y  vías  de  estudio.
-Barcelona:   Ariel   →   DUCROT,   O.   y   J.  M.  SCHAEFFER  (1998):  Nuevo  diccionario  enciclopédico  de  las
-ciencias del lenguaje. Madrid: Arrecife
-
-CRYSTAL,   D.   (1987):  Enciclopedia  del  lenguaje  de  la  Universidad  de  Cambridge.  Madrid  →  CRYSTAL,  D.
-(1987): Enciclopedia del lenguaje de la Universidad de Cambridge. Madrid: Taurus, 1994
-
-✅ Recursos añadidos:
-------------------------------
-FERNÁNDEZ   PÉREZ,   M.   (1999):   Introducción   a   la   lingüística.  Dimensiones  del  lenguaje  y  vías  de
-estudio. Barcelona: Ariel
-
-MORENO   CABRERA,   J.   C.   (1994):   Curso   Universitario   de  lingüística  general.  Tomo  II:  Semántica,
-pragmática, morfología y fonología. Madrid: Síntesis
-
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

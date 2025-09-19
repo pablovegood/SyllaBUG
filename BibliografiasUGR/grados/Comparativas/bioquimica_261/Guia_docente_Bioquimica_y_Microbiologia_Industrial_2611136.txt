@@ -2,11 +2,11 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 BIOTECHNOLOGY.   A   texbook   of   Industrail   Microbiology.   Second   Edition.   1989.  W.  Crueger  and  A.
 Crueger. Sinatter Associated, Inc
@@ -15,6 +15,11 @@ BIOTECNOLOGIA. MANUAL DE MICROBIOLOGIA INDUSTRIAL. 1993. W. Crueger and A. Crueg
 
 INDUSTRIAL   MICROBIOLOGY.   AN   INTRODUCTION.   2001.   M.   J.   Waites,   N.  L.  Morgan,  J.  S.  Rockey,  G.
 Hington. Blackwell Science, Oxford
+
+INTRODUCCION A LA BIOTECNOLOGIA DE LOS HONGOS. 1992. M. Wainwright. Acribia S.A
+
+MANUAL   OF   INDUSTRIAL  MICROBIOLOGY  AND  BIOTECHNOLOGY.  1999.  A.  L.  Demain  and  J.  E.  Davies,  eds.  ASM
+Press, Washington DC
 
 MICROBIAL BIOTECNOLOGY. FUNDAMENTALS OF APPLIED MICROBIOLOGY. Second Edition, 2007. N. Glazer and H.
 Nikaido. Cambridge University Press, New York
@@ -28,15 +33,8 @@ Jersey
 MOLECULAR   BIOTECHNOLOGY.  Principles  and  applications  of  recombinant  DNA.  Third  edition,  2003.  B.  R.
 Glick, J. J. Pasternak. ASM Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-INTRODUCCION   A   LA   BIOTECNOLOGIA   DE  LOS  HONGOS.  1992.  M.  Wainwright.  Acribia  MANUAL  OF  INDUSTRIAL
-MICROBIOLOGY   AND   BIOTECHNOLOGY.  1999.  A.  L.  Demain  and  J.  E.  Davies,  eds.  ASM  Press,  Washington  DC
-→  INTRODUCCION A LA BIOTECNOLOGIA DE LOS HONGOS. 1992. M. Wainwright. Acribia S.A
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-MANUAL   OF   INDUSTRIAL  MICROBIOLOGY  AND  BIOTECHNOLOGY.  1999.  A.  L.  Demain  and  J.  E.  Davies,  eds.  ASM
-Press, Washington DC
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

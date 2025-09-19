@@ -2,19 +2,23 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+la   licencia   Reconocimiento-No   Comercial-Compartir   Igual   4.0   Internacional  de  Creative  Commons.
+http://www.ugr.es/~fcojose/Archivos/Economia_Politica.pdf    Mankiw,    N.G.    (2016):   Principios   de
+Economía,   7ª  ed.,  Cengage.Learning  Editores  Mochón,  F.  (2009):  Economía,  Teoría  y  Política,  6ª  ed.,
+McGraw-Hill, Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
+BIBLIOGRAFÍA PRÁCTICAS: De Juan, R. (2006): Economía. Teoría y Política. Libro de problemas. McGraw-
+Hill, Madrid
+
 Barrios Martínez, S. (2016): Apuntes de Economía Política, Godel Impresiones Digitales, S. L
 
 Bernanke, B.S. y Frank, R.H. (2010): Principios de Economía. McGraw-Hill
 
 Blanco, J. M.: Economía (2014): Teoría y Práctica, McGraw-Hill, Madrid
-
-De Juan, R. (2006): Economía. Teoría y Política. Libro de problemas. McGraw-Hill, Madrid
 
 García   Pardo,   J.,   Manzón,  C.  Sebastián,  M.  (2003):  Ejercicios  de  Introducción  a  la  Microeconomía,
 McGraw- Hill, Madrid
@@ -25,7 +29,11 @@ Macro-economía, McGraw-Hill, Madrid
 Gimeno,   J.A.  y  Guirola,  J.M  (2002).:  Introducción  a  la  economía.  Libro  de  prácticas.  Microeconomía,
 McGraw-Hill, Madrid
 
-Krugman, P.,Wells, R. y Graddy, K. (2014): Fundamentos de Economía, Editorial Reverté, Barcelona
+González   Gómez,   F.,   García   Rubio,   M.A.   y   Guardiola,   J.:  Economía  Política.  Libro  sujeto  a  la
+licencia    Reconocimiento-No   Comercial-Compartir   Igual   4.0   Internacional   de   Creative   Commons.
+http://www.ugr.es/~fcojose/Archivos/Economia_Politica.pdf
+
+Krugman, P. ,Wells, R. y Graddy, K. (2014): Fundamentos de Economía, Editorial Reverté, Barcelona
 
 Lipsey, R.G., y Harbury, C. (1994): Principios de Economía. Vicens- Vives, Barcelona
 
@@ -54,22 +62,12 @@ Stiglitz, J.E.(1993): Economía, Ariel, Barcelona
 
 Wonnacott, P. y Wonnacott, R. (1981): Economía. McGraw-Hill, Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-González   Gómez,   F.,   García   Rubio,   M.A.   y   Guardiola,   J.:  Economía  Política.  Libro  sujeto  a  la
-licencia   Reconocimiento-No   Comercial-Compartir   Igual   4.0   Internacional  de  Creative  Mankiw,  N.G.
-(2016):   Principios   de   Economía,   7ª   ed.,   Cengage.Learning  Editores  Mochón,  F.  (2009):  Economía,
-Teoría   y   Política,   6ª   ed.,  McGraw-Hill,  Madrid  →  Mankiw,  N.G.  (2016):  Principios  de  Economía,  7ª
-ed., Cengage.Learning Editores
+De Juan, R. (2006): Economía. Teoría y Política. Libro de problemas. McGraw-Hill, Madrid
 
-✅ Recursos añadidos:
-------------------------------
-BIBLIOGRAFÍA PRÁCTICAS
-
-González   Gómez,   F.,   García   Rubio,   M.A.   y   Guardiola,   J.:  Economía  Política.  Libro  sujeto  a  la
-licencia    Reconocimiento-No   Comercial-Compartir   Igual   4.0   Internacional   de   Creative   Commons.
-http://www.ugr.es/~fcojose/Archivos/Economia_Politica.pdf
+Mankiw, N.G. (2016): Principios de Economía, 7ª ed., Cengage.Learning Editores
 
 Mochón, F. (2009): Economía, Teoría y Política, 6ª ed., McGraw-Hill, Madrid
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

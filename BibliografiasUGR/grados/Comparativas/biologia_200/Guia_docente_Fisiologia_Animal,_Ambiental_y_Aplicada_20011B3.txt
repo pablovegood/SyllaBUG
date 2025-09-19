@@ -2,11 +2,13 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Schmidt-Nielsen,   K.  1999.  Scaling.  Why  is  Animal  Size  so  Important?  Cambridge  University  Press.  256
+p Withers, P.C. ; Cooper, C.E. ; Maloney,S.K. ; Bozinovic, F. ; Cruz Neto, A.P. 2016. Ecological and
+Environmental Physiology of Mammals. Oxford University Press. 560 p
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 Bicudo,   J.E.;   Pearson,   J.T.;   Buttemer,   B.;   Astheimer,   L.;   Chappel,   M.   2010.  Ecological  and
 Environmental Physiology of Birds. Oxford University Press. 328 p
@@ -59,19 +61,15 @@ Science. 241 p
 Willmer P.; Stone G.; Johnston I. 2004. Environmental Physiology of Animals. Wiley-Blackwell Science
 Ltd. 644 p
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Schmidt-Nielsen,   K.  1999.  Scaling.  Why  is  Animal  Size  so  Important?  Cambridge  University  Press.  256
-p Withers, P.C. ; Cooper, C.E. ; Maloney,S.K. ; Bozinovic, F. ; Cruz Neto, A.P. 2016. Ecological and
-Environmental   Physiology   of   Mammals.   Oxford   University  Press.  560  p  →  Schmidt-Nielsen,  K.  1999.
-Scaling. Why is Animal Size so Important? Cambridge University Press. 256 p
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Madliger,   C.:   Franklin,   C.E.;  Love,  O.P.;  Cooke,  S.J.  2020.  Conservation  Physiology:  Applications
 for Wildlife Conservation and Management Oxford University Press, 352 p
 
+Schmidt-Nielsen,   K.  1999.  Scaling.  Why  is  Animal  Size  so  Important?  Cambridge  University  Press.  256
+p
+
 Withers,   P.C.   ;  Cooper,  C.E.  ;  Maloney,S.K.  ;  Bozinovic,  F.  ;  Cruz  Neto,  A.P.  2016.  Ecological  and
 Environmental Physiology of Mammals. Oxford University Press. 560 p
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

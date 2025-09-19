@@ -2,38 +2,46 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-Editorial Paraninfo
+Alonso-García, S., Romero-Rodríguez, J. M., Marín, J. A., & Sadio-Ramos, F. J. (2021)
 
-📚 Recursos sin cambios:
+Tecnología educativa para la agenda 2030: Objetivos de Desarrollo Sostenible (ODS) ante la pandemia.
+Texto Livre: Linguagem e Tecnologia, 14(2), e34883
+
+https://periodicos.ufmg.br/index.php/textolivre/article/view/34883   Alonso-García,   S.,   Aznar-Díaz,
+I., Cáceres-Reche, M. P., Trujillo-Torres, J. M., & RomeroRodríguez, J. M. (2019). Systematic Review
+of   Good   Teaching   Practices   with   ICT   in   Spanish   Higher   Education.   Trends  and  Challenges  for
+Sustainability.   Sustainability,   11(24),   7150.   https://doi.org/10.3390/su11247150  Acebedo,  M.  J.,
+Aznar-Díaz, I., & Hinojo-Lucena, F. J. (2017). Instrumentos para la
+
+📚 Recursos sin cambios (2):
 ------------------------------
+Rubio, M. C. (2015). Formación de formadores. Manual teórico. Madrid: Editorial CEP
+
 Tejada,   J.   y   Giménez,   V.   (2007).   Formación   de   formadores.   Escenario  Aula.  Madrid:  Editorial
 Paraninfo
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (15):
 ------------------------------
-Alonso-García,   S.,   Aznar-Díaz,   I.,   Cáceres-Reche,   M.   P.,   Trujillo-Torres,   J.   M.,   &  Romero-
-Rodríguez,   J.   M.   (2019).   Systematic  Review  of  Good  Teaching  Practices  with  ICT  in  Spanish  Higher
-Education. Trends and Challenges for Sustainability. Sustainability, Acebedo, M. J., Aznar-Díaz, I.,
-&   Hinojo-Lucena,  F.  J.  (2017).  Instrumentos  para  la  las  consultas,  exposiciones  y  debates;  así  como
-en   la  elaboración  de  los  trabajos,  individuales  o  en  equipo,  y  en  las  sesiones  de  puesta  en  común  →
+Acebedo,   M.   J.,  Aznar-Díaz,  I.,  &  Hinojo-Lucena,  F.  J.  (2017).  Instrumentos  para  la  evaluación  del
+aprendizaje   basado   en   competencias:   Estudio   de   caso.   Información  tecnológica,  28(3),  107-118.
+https://doi.org/10.4067/s0718-07642017000300012
+
 Alonso-García, S., Aznar-Díaz, I., Cáceres-Reche, M. P., Trujillo-Torres, J. M., & Romero-Rodríguez,
 J.   M.   (2019).   Systematic   Review  of  Good  Teaching  Practices  with  ICT  in  Spanish  Higher  Education.
 Trends       and      Challenges      for      Sustainability.      Sustainability,      11(24),      7150.
 https://doi.org/10.3390/su11247150
 
-Alonso-García,   S.,  Romero-Rodríguez,  J.  M.,  Marín,  J.  A.,  &  Sadio-Ramos,  F.  J.  (2021).  la  pandemia.
-Texto   Livre:   Linguagem   e   Tecnologia,  14(2),  e34883  →  Alonso-García,  S.,  Romero-Rodríguez,  J.  M.,
-Marín,   J.   A.,   &  Sadio-Ramos,  F.  J.  (2021).  Tecnología  educativa  para  la  agenda  2030:  Objetivos  de
-Desarrollo   Sostenible   (ODS)   ante  la  pandemia.  Texto  Livre:  Linguagem  e  Tecnologia,  14(2),  e34883.
+Alonso-García,   S.,   Romero-Rodríguez,   J.  M.,  Marín,  J.  A.,  &  Sadio-Ramos,  F.  J.  (2021).  Tecnología
+educativa   para   la   agenda   2030:   Objetivos  de  Desarrollo  Sostenible  (ODS)  ante  la  pandemia.  Texto
+Livre:             Linguagem             e             Tecnologia,             14(2),             e34883.
 https://periodicos.ufmg.br/index.php/textolivre/article/view/34883
 
-✅ Recursos añadidos:
-------------------------------
-Acebedo,   M.   J.,  Aznar-Díaz,  I.,  &  Hinojo-Lucena,  F.  J.  (2017).  Instrumentos  para  la  evaluación  del
-aprendizaje   basado   en   competencias:   Estudio   de   caso.   Información  tecnológica,  28(3),  107-118.
-https://doi.org/10.4067/s0718-07642017000300012
+Alonso-García,   S.,   Romero-Rodríguez,   J.  M.,  Marín,  J.  A.,  &  Sadio-Ramos,  F.  J.  (2021).  Tecnología
+educativa   para   la   agenda   2030:   Objetivos  de  Desarrollo  Sostenible  (ODS)  ante  la  pandemia.  Texto
+Livre:             Linguagem             e             Tecnologia,             14(2),             e34883.
+https://periodicos.ufmg.br/index.php/textolivre/article/view/34883
 
 Aznar-Díaz,   I.,   &   Hinojo-Lucena,   F.   J.   (2009).   La  integración  social  a  través  del  empleo  y  la
 formación:    origen    y   evolución   histórica   de   la   Formación   Profesional   Ocupacional.   Revista
@@ -68,8 +76,6 @@ https://doi.org/10.5944/reppp.2.2014.12055
 
 Piñeyro,   M.   L.   (2005).   Las   dinámicas  grupales  en  el  área  educativa.  Contexto  educativo:  revista
 digital de investigación y nuevas tecnologías, 36
-
-Rubio, M. C. (2015). Formación de formadores. Manual teórico. Madrid: Editorial CEP
 
 Tejada,   J.   (2013).  Profesionalización  docente  en  la  universidad:  implicaciones  desde  la  formación.
 Revista     de     Universidad     y     Sociedad     del     Conocimiento     (RUSC),     10(1),    170-184.

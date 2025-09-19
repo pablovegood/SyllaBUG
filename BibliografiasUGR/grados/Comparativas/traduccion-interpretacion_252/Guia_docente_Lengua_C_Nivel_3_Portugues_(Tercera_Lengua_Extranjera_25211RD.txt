@@ -2,23 +2,23 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-El   sistema   de   calificaciones   se   expresará   mediante   calificación   numérica   de  0  a  10  según  lo
-establecido en el RD 1125/2003, de 3 de septiembre, por el que se establece el sistema de créditos y
-sistema   de   calificaciones   en   las   titulaciones   universitarias   de  carácter  oficial  y  validez  en
-territorio nacional
+COELHO,   Luísa   /  OLIVEIRA,  Carla  (2018).  Português  em  foco  2.  Livro  do  aluno,  Lisboa:  Lidel  Edições
+COELHO,   Luísa   /  OLIVEIRA,  Carla  (2019).  Português  em  foco  3.  Livro  do  aluno,  Lisboa:  Lidel  Edições
+DIAS,   Ana   Cristina   (2019).  Entre  Nós  3.  Método  de  Português  para  Hispanofalantes,  Livro  do  aluno,
+Lisboa   –   Porto,  Lidel  Edições  TAVARES,  Ana  (2018),  Português  XXI.  3,  Livro  do  aluno,  Lisboa:  Lidel
+Edições   TAVARES,  Ana  /  TAVARES,  Marina  (2018),  Avançar  em  português,  Lisboa:  Lidel  Edições  COIMBRA,
+Isabel; MATA COIMBRA, Olga. Gramática Ativa 1.Edições LIDEL. Lisboa, 2010
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
-COELHO, Luísa / OLIVEIRA, Carla (2018). Português em foco 2. Livro do aluno, Lisboa: Lidel Edições
-
-COELHO, Luísa / OLIVEIRA, Carla (2019). Português em foco 3. Livro do aluno, Lisboa: Lidel Edições
-
 COIMBRA, Isabel; MATA COIMBRA, Olga. Gramática Ativa 2. Edições LIDEL. Lisboa, 2012
 
 CRISTINA   DIAS,   R.   BORGES  DE  SOUSA  (Dir.).  Entre  Nós  2  -  Método  de  português  para  hispanofalantes.
 Lisboa, Edições LIDEL, 2010
+
+H. MALCATA, Guia prático de fonética, acentuação e pontuação. Lisboa, Edições LIDEL, 2008
 
 L. ARRUDA, Gramática de Português para Estrangeiros. Porto, Porto Editora, 2004
 
@@ -39,23 +39,19 @@ SILVA, Mendes, Português língua viva, Lisboa, Teorema, 1989
 
 VVAA., Dicionário Moderno de Espanhol-Português / Português-Espanhol. Porto, Porto Editora, 2011
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Lidel   Edições   DIAS,   Ana   Cristina   (2019).  Entre  Nós  3.  Método  de  Português  para  Hispanofalantes,
-Livro do aluno, Lisboa – Porto, Lidel Edições TAVARES, Ana (2018), Português XXI. 3, Livro do aluno,
-Lisboa:   Lidel   Edições   TAVARES,   Ana  /  TAVARES,  Marina  (2018),  Avançar  em  português,  Lisboa:  Lidel
-Edições   COIMBRA,   Isabel;  MATA  COIMBRA,  Olga.  Gramática  Ativa  1.Edições  LIDEL.  Lisboa,  2010  →  DIAS,
-Ana Cristina (2019). Entre Nós 3. Método de Português para Hispanofalantes, Livro do aluno, Lisboa –
-Porto, Lidel Edições
+COELHO, Luísa / OLIVEIRA, Carla (2018). Português em foco 2. Livro do aluno, Lisboa: Lidel Edições
 
-✅ Recursos añadidos:
-------------------------------
+COELHO, Luísa / OLIVEIRA, Carla (2019). Português em foco 3. Livro do aluno, Lisboa: Lidel Edições
+
 COIMBRA, Isabel; MATA COIMBRA, Olga. Gramática Ativa 1.Edições LIDEL. Lisboa, 2010
 
-H. MALCATA, Guia prático de fonética, acentuação e pontuação. Lisboa, Edições LIDEL, 2008
+DIAS,   Ana   Cristina   (2019).  Entre  Nós  3.  Método  de  Português  para  Hispanofalantes,  Livro  do  aluno,
+Lisboa – Porto, Lidel Edições
 
 TAVARES, Ana (2018), Português XXI. 3, Livro do aluno, Lisboa: Lidel Edições
 
 TAVARES, Ana / TAVARES, Marina (2018), Avançar em português, Lisboa: Lidel Edições
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

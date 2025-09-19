@@ -2,11 +2,11 @@
 Grado: ciencias-politicas-administ-derecho (213)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 A.   LARA   AGUADO   y   R.   RUEDA  VALDIVIA,  Cuestionarios  de  Derecho  internacional  privado  (adaptados  a
 Grado), Atelier, Barcelona, 2021
@@ -18,6 +18,10 @@ Granada (última edición)
 
 AA.VV.:   Legislación   de   Derecho   internacional   privado,   Granada,   Comares,  última  edición.  No  se
 aconseja utilizar ediciones anteriores, que se encuentran parcialmente desfasadas
+
+Asimismo   se   recomienda   la   utilización  de  una  colección  de  textos  legislativos,  pudiendo  servirse
+el/la   alumno/a  de  cualquiera  de  las  que  hay  en  el  mercado,  si  bien  se  aconseja:  AA.VV.:  Legislación
+de Derecho internacional privado, Granada, Comares, última edición
 
 C.   ESPLUGUES   MOTA   y   J.L.   IGLESIAS   BUHIGUES,   Derecho   internacional  privado,  Tirant  lo  Blanch,
 Valencia (última edición)
@@ -31,6 +35,9 @@ edición)
 J.C.   FERNÁNDEZ   ROZAS  y  S.  SÁNCHEZ  LORENZO,  Derecho  internacional  privado,  Cívitas/Thomson  Reuters,
 Cizur Menor (última edición)
 
+L.   GARCÍA   ÁLVAREZ   y  D.  CARRIZO  AGUADO,  Derecho  internacional  privado:  casos  prácticos  resueltos  y
+razonados, Dykinson, Madrid, 2021
+
 M.   VIRGÓS   SORIANO   y   F.J.   GARCIMARTÍN   ALFÉREZ,  Derecho  procesal  civil  internacional.  Litigación
 internacional, Civitas, Madrid, 2007
 
@@ -43,11 +50,7 @@ Ratio Legis, Salamanca (última edición)
 R.   ARENAS   GARCÍA,   Casos   básicos   de   Derecho   internacional   privado.   Con   soluciones,  Atelier,
 Barcelona, 2020
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (16):
 ------------------------------
 A. LÓPEZ-TARRUELLA MARTÍNEZ, Manual de Derecho internacional privado, ECU, Alicante (última edición)
 
@@ -75,9 +78,6 @@ V, Derecho de los negocios internacionales, Edisofer (última edición)
 
 A.P. ABARCA JUNCO (dir.), Derecho internacional privado, vols. I y II, UNED, Madrid (última edición)
 
-Asimismo   se   recomienda   la   utilización  de  una  colección  de  textos  legislativos,  pudiendo  servirse
-el/la alumno/a de cualquiera de las que hay en el mercado, si bien se aconseja
-
 C.   ESPLUGUES   MOTA   y   G.   PALAO   MORENO,  Derecho  internacional  privado,  Tirant  lo  Blanch,  Valencia
 (última edición)
 
@@ -96,10 +96,7 @@ resueltos y razonados, Dykinson, Madrid, 2021
 J.C.   FERNÁNDEZ   ROZAS   y   P.  DE  MIGUEL  ASENSIO,  Derecho  internacional  privado.  Textos  y  materiales,
 Civitas, Navarra (última edición)
 
-L.   GARCÍA   ÁLVAREZ   y  D.  CARRIZO  AGUADO,  Derecho  internacional  privado:  casos  prácticos  resueltos  y
-razonados, Dykinson, Madrid, 2021
-
 M.   GUZMÁN   ZAPATER   (Dir.),   Lecciones  de  Derecho  Internacional  Privado,  Tirant  lo  Blanch,  Valencia
 (última edición)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

@@ -2,21 +2,24 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
 Alvira, F. (2004). La encuesta: una perspectiva general metodológica. Madrid: CIS
 
-Flecha, R., Gómez, J. y Puigvert, L. (2001). Teoría sociológica contemporánea. Barcelona
+Aragón,   V.   (2022).   Ecofeminismo   y   decrecimiento.   Madrid:   Catarata  Bauman,  Z.  (1994).  Pensando
+Sociológicamente. Buenos Aires: Nueva Visión
+
+Flecha, R., Gómez, J. y Puigvert, L. (2001). Teoría sociológica contemporánea. Barcelona: Paidós
 
 Requena Santos, F., y Ayuso Sánchez, L. (eds. y coords.) (2018). Estrategias de investigación en las
-ciencias   sociales:   Fundamentos  para  para  la  elaboración  de  un  trabajo  de  fin  de  Grado  o  un  trabajo
-de fin de Master. Valencia: Tirant lo Blanch
+ciencias sociales: Fundamentos para para la elaboración de un
 
-Ruiz Olabuénaga, J. I. (1996). Metodología de la investigación cualitativa. Bilbao
+Ruiz   Olabuénaga,   J.  I.  (1996).  Metodología  de  la  investigación  cualitativa.  Bilbao:  Universidad  de
+Deusto
 
-Universidad de Deusto
+trabajo de fin de Grado o un trabajo de fin de Master. Valencia: Tirant lo Blanch
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Ander-Egg, E. (2013): Técnicas de investigación social (23ª ed). Buenos Aires: Lumen Argentina
 
@@ -41,14 +44,10 @@ Paraninfo
 Tezanos   Tortajada,   J.F.   (2013).   La  explicación  sociológica:  una  introducción  a  la  sociología  (3ª
 Edición). Madrid: UNED
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Aragón,   V.   (2022).   Ecofeminismo   y   decrecimiento.   Madrid:   Catarata  Bauman,  Z.  (1994).  Pensando
-Sociológicamente.   Buenos   Aires:   Nueva   Visión   →  Aragón,  V.  (2022).  Ecofeminismo  y  decrecimiento.
-Madrid: Catarata
+Aragón, V. (2022). Ecofeminismo y decrecimiento. Madrid: Catarata
 
-✅ Recursos añadidos:
-------------------------------
 Bauman, Z. (1994). Pensando Sociológicamente. Buenos Aires: Nueva Visión
 
-📊 Porcentaje estimado de cambio: 46% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

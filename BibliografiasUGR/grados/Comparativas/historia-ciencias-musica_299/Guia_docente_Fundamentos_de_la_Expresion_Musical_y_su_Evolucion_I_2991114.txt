@@ -2,11 +2,13 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+GEORU,   Tom  y  Linda  LUSK,  Cómo  comprender  el  lenguaje  musical:  diccionario  básico,  Barcelona,  Ma  Non
+Troppo,   2011   GORROW,   Ron,   Hearing  and  Writing  Music:  Professional  Training  for  Today's  Musician,
+London, UK, September Publishing, 2000
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (28):
 ------------------------------
 ABAD,   Federico,   ¿Do,   Re,  Qué?  Guía  práctica  de  iniciación  al  lenguaje  musical,  Córdoba,  Berenice,
 2008
@@ -28,10 +30,14 @@ COLLES, Henry C., La evolución de la música, Madrid, Taurus, 1982
 COOK,   Nicholas,   De   Madonna   al   canto  gregoriano:  una  muy  breve  introducción  a  la  música,  Madrid,
 Alianza, 2001
 
+COPLAND, Aaron, Cómo escuchar la música, México, Fondo de Cultura Económica, 1999
+
 DENIZEAU,   Gérard,   Los   géneros   musicales:   una   visión   diferente   de   la   historia  de  la  música,
 Barcelona, Robinbook, 2008
 
 EVANS, Roger, Cómo leer música, Madrid, Edaf, 2004
+
+FUBINI, Enrico, La estética musical desde la Antigüedad al siglo XX, Madrid, Alianza Editorial, 1988
 
 GORROW,   Ron,   Hearing   and   Writing   Music:  Professional  Training  for  Today's  Musician,  London,  UK,
 September Publishing, 2000
@@ -68,17 +74,9 @@ STEFANI, Gino, Comprender la música, Barcelona, Paidós, 1987
 
 VALS GORINA, Manuel, Para entender la música, Madrid, Alianza, 1988
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
 GEORU,   Tom  y  Linda  LUSK,  Cómo  comprender  el  lenguaje  musical:  diccionario  básico,  Barcelona,  Ma  Non
-Troppo,   2011   GORROW,   Ron,   Hearing  and  Writing  Music:  Professional  Training  for  Today's  Musician,
-London,   UK,   September   Publishing,   2000   →   GEORU,   Tom  y  Linda  LUSK,  Cómo  comprender  el  lenguaje
-musical: diccionario básico, Barcelona, Ma Non Troppo, 2011
+Troppo, 2011
 
-✅ Recursos añadidos:
-------------------------------
-COPLAND, Aaron, Cómo escuchar la música, México, Fondo de Cultura Económica, 1999
-
-FUBINI, Enrico, La estética musical desde la Antigüedad al siglo XX, Madrid, Alianza Editorial, 1988
-
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

@@ -2,29 +2,31 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-ORTIZ BERROCAL, L. Resistencia de Materiales. 3ª edición. Mc Graw Hill
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (7):
 ------------------------------
 BRONTE ABAURREA, R y LÓPEZ MARTÍNEZ, J: Resistencia de Materiales y Cross
 
-GALLEGO, R. y RUS, G. Análisis de Estructuras de Barras. (ETSICCP, UGr)
+GALLEGO,   R.  y  RUS,  G.  Análisis  de  Estructuras  de  Barras.  (ETSICCP,  UGr)  GRANADOS  ROMERA,  JJ.  Teoría
+de Estructuras. (ETSICCP, UGr) SUAREZ, J. y RODRÍGUEZ, G. Ejercicios de FUNDAMENTOS DE ESTRUCTURAS
 
-GRANADOS ROMERA, JJ. Teoría de Estructuras. (ETSICCP, UGr)
+ORTIZ BERROCAL, L. Resistencia de Materiales. 3ª edición. Mc Graw Hill
 
-ORTIZ BERROCAL. L. Elasticidad, (UPM)
+ORTIZ    BERROCAL.   L.   Elasticidad,   (UPM)   TIMOSHENKO   Resistencia   de   Materiales.   (Espasa-Calpe)
+TIMOSHENKO Teoría de la Elasticidad
 
 RODRÍGUEZ AVIAL. Problemas de Resistencia de Materiales, (ETSII, UPM)
+
+TIMOSHENKO, S.P y YOUNG, D.H: Teoría de las Estructuras
+
+TIMOSHENKO-JAMES M. GERE Resistencia de Materiales
+
+✅ Recursos añadidos (4):
+------------------------------
+GRANADOS ROMERA, JJ. Teoría de Estructuras. (ETSICCP, UGr)
 
 SUAREZ, J. y RODRÍGUEZ, G. Ejercicios de FUNDAMENTOS DE ESTRUCTURAS
 
@@ -32,8 +34,4 @@ TIMOSHENKO Resistencia de Materiales. (Espasa-Calpe)
 
 TIMOSHENKO Teoría de la Elasticidad
 
-TIMOSHENKO, S.P y YOUNG, D.H: Teoría de las Estructuras
-
-TIMOSHENKO-JAMES M. GERE Resistencia de Materiales
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

@@ -2,19 +2,23 @@
 Grado: fisioterapia (241)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Elsevier. Madrid 2004
+No hay elementos.
 
-Elsevier. Madrid 2005
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (36):
 ------------------------------
 A.   BASAS   GARCÍA,   C.  FERNÁNDEZ  DE  LAS  PEÑAS,  J.A.  MARTÍN  URRIALDE.  Tratamiento  Fisioterápico  de  la
 Rodilla Edt. McGrw-Hill. Interamericana de España. Madrid 2003
 
+BUCKUP K. Pruebas clínicas para patología ósea, articular y muscular. Barcelona: Masson; 2000
+
 BUSQUET L. Las cadenas musculares Tomo II: Lordosis – Cifosis – Escoliosis y Deformidades Torácicas.
 Barcelona: Edt. Paidotribo; 1994
+
+BUSQUET L. Las cadenas musculares. Tomo III: La Pubalgia. Barcelona: Edt. Paidotribo; 1995
+
+BÖGER GW, HOPPE R, ROLLER F. Fisioterapia para Ortopedia y Reumatología. Barcelona: Paidotribo; 2000
 
 COMETTI. G. Los métodos modernos de musculación. Barcelona: Paidotribo; 1998
 
@@ -23,60 +27,15 @@ Introducción a la Fisioterapia del Deporte. Edt. Universidad de Granada. Granad
 
 EDUAR VILAR, SERGI SUREDA. Fisioterapia del Aparato Locomotor. Ed. McGraw Hill. Madrid 2005
 
+GAGEY P M. Posturología: regulación y alteraciones de la bipedestación. Barcelona: Masson; 2001
+
 GILLES   ORGERET.   Terapia   Manual   del   Sistema   Miofascial.   La  terapia  normotensiva  aplicada  a  las
 disfunciones del sistema musculoesquelético, Editorial Masson. Barcelona; 2002
 
-PRENTICE   WILLIAM   E.   Técnicas  de  rehabilitación  en  la  medicina  deportiva  (Medicina  deportiva).Edt.
-Paidotribo. Barcelona, 1997
-
-ROBERT   DONATELLI.   Sports  –  Specific  Rehabilitation.  Edt.  Elsevier.  printed  in  the  United  States  of
-America. 2007
-
-ROBERT   E.   MCATAE,   JEFF   CHARLAND.   Estiramientos  Facilitados.  Estiramientos  y  fortalecimiento  con
-facilitación neuromuscular propioceptiva. Editorial Médica Panamericana 3ª Edición. Madrid; 2010
-
-SCOTT   M.   LEPHART,  FREDDIE  H.  FU.  Proprioception  and  Neuromuscular  Control  in  Join  Stability.  Human
-Kinetics. 2000. USA
-
-WERNER   SCHNEIDER;   HANS  SPRING;  THOMAS  TRISCHLER.  (Movilidad.)  HANS  SPRING;  HANS-RUEDI  KUNZ;  WERNER
-SCHNEIDER;   TOMAS   TRITSCHLER;   EDITH  UNOLD.  (Fuerza,  Teoría  y  práctica)  BEATVILLIGER;  KASPAR  EGGER;
-RENÉ   LERCH;   HANSPETER   PROBST;   WERNER   SCHNEIDER;   HANS  SPRING;  THOMAS  TRITSCHLER.(  Resistencia).
-Fitnes Edt. Scriba. Barcelona 1983
-
-ÉRIC   VIEL.   La   marcha   Humana,   la   Carrera   y   el   Salto.   Biomecánica,   exploraciones,   normas  y
-alteraciones. Editorial Masson. Barcelona; 2002
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-8.GUILLÉN   GARCÍA   P.   Lesiones   deportivas.   Edt.   Fundación   Mapfre.   Madrid  1996  9.MANGINE,  R.E.:
-Fisioterapia   de   la   rodilla.   Edt   JIMS,   Barcelona.  1991  →  GUILLÉN  GARCÍA  P.  Lesiones  deportivas.
-Edt. Fundación Mapfre. Madrid 1996
-
-Paidotribo.   2004   Barcelona   →  BUSQUET  L.  Las  cadenas  musculares.  Tomo  III:  La  Pubalgia.  Barcelona:
-Edt. Paidotribo; 1995
-
-10.NEIGER   H.   Los  vendajes  funcionales.  Barcelona:  Edt.  Masson;  1990  11.NEIGER  HENRI.  Estiramientos
-analíticos.   Manuales:   técnicas  pasivas.  Edt.Panamericana  →  NEIGER  HENRI.  Estiramientos  analíticos.
-Manuales: técnicas pasivas. Edt.Panamericana. Madrid, 1998
-
-Edt. Jims. Barcelona 1996  →  MANGINE, R.E.: Fisioterapia de la rodilla. Edt JIMS, Barcelona. 1991
-
-19.THOMAS   EINSINGBACH;  ARMIN  KLÜMPER;  LUTZ  BIEDERMANN.  Fisioterapia  y  Rehabilitación  en  el  Deporte.
-Edt.   Ediciones   Scriba.   Barcelona   1998   20.V   SANCHIS   ALFONSO.   Dolor   anterior   de  la  rodilla  e
-inestabilidad   rotuliana   en   el   paciente   joven.   Editorial  Médica  Panamericana  SA.  Madrid;  2003  →
-THOMAS   EINSINGBACH,   ARMIN   KLÜMPER,   LUZT  BIEDERMANN.  Fisioterapia  y  rehabilitación  en  el  deporte.
-Ediciones Scriba, SA Barcelona 1989
-
-✅ Recursos añadidos:
-------------------------------
-BUCKUP K. Pruebas clínicas para patología ósea, articular y muscular. Barcelona: Masson; 2000
-
-BÖGER GW, HOPPE R, ROLLER F. Fisioterapia para Ortopedia y Reumatología. Barcelona: Paidotribo; 2000
-
-GAGEY P M. Posturología: regulación y alteraciones de la bipedestación. Barcelona: Masson; 2001
-
 GREGORY   S.  KOLT,  LYNN  SNYDER-MACKLER.  Fisioterapia  del  Deporte  y  el  Ejercicio.  Ed.  Elsevier.  Madrid
 2004
+
+GUILLÉN GARCÍA P. Lesiones deportivas. Edt. Fundación Mapfre. Madrid 1996
 
 JAVIER   PÉREZ   ARES,   JAVIER   SAINZ   DE   MURIETA,   ANA   BEATRIZ  VARAS  de  la  FUENTE.  Fisioterapia  del
 Complejo   articular   del   Hombro.   Evaluación  y  Tratamiento  de  los  Tejidos  Blandos.  Edtorial  Masson.
@@ -95,18 +54,37 @@ KNAPP C. El dolor de espalda: prevención y tratamiento. Madrid: Díaz de Santos
 LERUAX   J   L,   AZEMA  M  J,  BONNEL  F.  L  epaule  douloreuse  et  degenerative.  Principes  therapéutiques  et
 rééducation.Paris: Springer Verlag; 1990
 
+MANGINE, R.E.: Fisioterapia de la rodilla. Edt JIMS, Barcelona. 1991
+
 MARK   ALBERT.   Entrenamiento   Muscular   Excéntrico   en   Deportes   y  Ortopedia.  Editorial  Paidotrivo.
 Barcelona; 1999
 
 NEIGER H. Los vendajes funcionales. Barcelona: Edt. Masson; 1990
 
+NEIGER HENRI. Estiramientos analíticos. Manuales: técnicas pasivas. Edt.Panamericana. Madrid, 1998
+
 NORRIS CHRISTOPHER M. La flexibilidad. Principios y práctica. Edt. Paidotribo. Barcelona, 1996
+
+PRENTICE   WILLIAM   E.   Técnicas  de  rehabilitación  en  la  medicina  deportiva  (Medicina  deportiva).Edt.
+Paidotribo. Barcelona, 1997
+
+ROBERT   DONATELLI.   Sports  –  Specific  Rehabilitation.  Edt.  Elsevier.  printed  in  the  United  States  of
+America. 2007
+
+ROBERT   E.   MCATAE,   JEFF   CHARLAND.   Estiramientos  Facilitados.  Estiramientos  y  fortalecimiento  con
+facilitación neuromuscular propioceptiva. Editorial Médica Panamericana 3ª Edición. Madrid; 2010
 
 S.   BRENT   BROTZMAN,   KEVIN   E.  WILK.  Rehabilitación  ortopédica  clínica.  2ª  ed.  Ed.  Elsevier.  Madrid
 2005
 
+SCOTT   M.   LEPHART,  FREDDIE  H.  FU.  Proprioception  and  Neuromuscular  Control  in  Join  Stability.  Human
+Kinetics. 2000. USA
+
 SERGE   PAOLETTI.   Las   Fascias   “El  papel  de  los  tejidos  en  la  mecánica  humana”  ED.  Paidotribo.  2004
 Barcelona
+
+THOMAS   EINSINGBACH,   ARMIN   KLÜMPER,   LUZT  BIEDERMANN.  Fisioterapia  y  rehabilitación  en  el  deporte.
+Ediciones Scriba, SA Barcelona 1989
 
 THOMAS   EINSINGBACH;   ARMIN   KLÜMPER;   LUTZ  BIEDERMANN.  Fisioterapia  y  Rehabilitación  en  el  Deporte.
 Edt. Ediciones Scriba. Barcelona 1998
@@ -119,4 +97,16 @@ Barcelona 1996
 
 WALTER B GREENE. Netter Ortopédia. Editorial Elsevier. Masson. Barcelona; 2007
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+WERNER   SCHNEIDER;   HANS  SPRING;  THOMAS  TRISCHLER.  (Movilidad.)  HANS  SPRING;  HANS-RUEDI  KUNZ;  WERNER
+SCHNEIDER;   TOMAS   TRITSCHLER;   EDITH  UNOLD.  (Fuerza,  Teoría  y  práctica)  BEATVILLIGER;  KASPAR  EGGER;
+RENÉ   LERCH;   HANSPETER   PROBST;   WERNER   SCHNEIDER;   HANS  SPRING;  THOMAS  TRITSCHLER.(  Resistencia).
+Fitnes Edt. Scriba. Barcelona 1983
+
+ÉRIC   VIEL.   La   marcha   Humana,   la   Carrera   y   el   Salto.   Biomecánica,   exploraciones,   normas  y
+alteraciones. Editorial Masson. Barcelona; 2002
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

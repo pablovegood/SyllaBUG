@@ -2,11 +2,11 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Domingo,   J.   y   Pérez  Ferra,  M.  (Eds.)  (2015).  Aprendiendo  a  enseñar.  Manual  práctico  de  didáctica.
 Pirámide
@@ -19,12 +19,21 @@ Actualidad   de   su   propuesta.   En   R.   Sánchez  (Coord.),  La  construcc
 española.   Entre   la   Institución   Libre   de   Enseñanza   y  las  Escuelas  del  Ave  María.  Síntesis.  Pp.
 211-220
 
+Fernández   Almenara,   M.   G.   (2024).   Didáctica   e   intervención   curricular  en  clave  competencial.
+Editorial Técnica Avicam
+
 Imbernón,   F.   (Coord.)   (2010).   Procesos   y   contextos  educativos,  enseñar  en  las  instituciones  de
 educación secundaria. Graó
+
+Lorenzo,   M.   (Coord.)   (2011).   Didáctica   para   la   educación   infantil,   primaria   y   secundaria.
+Universitas
 
 Medina, A. & Salvador, F. (2009). Didáctica General. Pearson. Prentice Hall
 
 Moral, C. (2010). Didáctica. Teoría y práctica de la enseñanza. Pirámide
+
+Moral,   C.   (2019).   Competencias   para   el  diseño  y  desarrollo  de  experiencias  de  aprendizaje  en  la
+formación del profesorado. Síntesis
 
 PISA   OECD   (2018).  Preparing  our  Youth  for  an  Inclusive  and  Sustainable  World.  The  OECD  PISA  global
 competence framework. Paris: Directorate for Education and Skills OECD
@@ -41,20 +50,10 @@ Didáctica. Aljibe. 2vols
 
 Uruñuela, P.M. (2019). La gestión del aula. Narcea
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Fernández   Almenara,  M.  G.  (2024).  Didáctica  e  intervención  curricular  en  clave  Lorenzo,  M.  (Coord.)
-(2011).   Didáctica   para  la  educación  infantil,  primaria  y  secundaria  →  Lorenzo,  M.  (Coord.)  (2011).
-Didáctica para la educación infantil, primaria y secundaria. Universitas
-
-✅ Recursos añadidos:
-------------------------------
-Fernández   Almenara,   M.   G.   (2024).   Didáctica   e   intervención   curricular  en  clave  competencial.
-Editorial Técnica Avicam
-
-Moral,   C.   (2019).   Competencias   para   el  diseño  y  desarrollo  de  experiencias  de  aprendizaje  en  la
-formación del profesorado. Síntesis
-
 Zabala & Arnau, L. (2014). Métodos para la enseñanza de las competencias. Graó
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

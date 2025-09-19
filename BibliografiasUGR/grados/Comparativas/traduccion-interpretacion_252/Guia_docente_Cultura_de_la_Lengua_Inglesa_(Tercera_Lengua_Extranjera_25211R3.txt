@@ -2,11 +2,12 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+O’Driscoll.   2009.   Britain  for  Learners  of  English  (second  edition).Oxford:  Oxford  University  Press
+O'Rourke, Kevin H. A Short History of Brexit: From Brentry to Backstop. London: Penguin, 2018
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 Abell,   Stig.   How   Britain  Really  Works:  Understanding  the  Ideas  and  Institutions  of  a  Nation.  John
 Murray, 2018
@@ -18,11 +19,16 @@ Burton, Alan Historical Dictionary of British Cinema. Lanham, Md.: Scarecrow Pre
 Cairns,   D.,   &   Richards,   S.   Writing   Ireland:   Colonialism,  Nationalism,  and  Culture.  Manchester
 University Press. 1988
 
+Childs,   Peter,   and   Mike   Storry.   Encyclopedia  of  Contemporary  British  Culture.  London;  New  York:
+Routledge, 1999
+
 Darwin,   John.   Britain   and   Decolonisation:  The  Retreat  from  Empire  in  the  Post-War  World.  London:
 Macmillan Press, 1988
 
 Davis,   Richard,   ed.  British  Decolonisation,  1918-1984.  Newcastle  upon  Tyne,  UK:  Cambridge  Scholars
 Publishing, 2013
+
+Donnell, Alison, Companion to Contemporary Black British Culture. London; New York: Routledge, 2002
 
 Fernandez Santiago, M. and Camacho Roldán, P. Cultures in English (4th ed.), Granada: AVICAM, 2024
 
@@ -54,19 +60,10 @@ Ranelagh, John. A Short History of Ireland. Cambridge; New York: Cambridge Unive
 Whittle,   Matthew.   Post-War   British  Literature  and  the  "End  of  Empire".  London:  Palgrave  Macmillan
 UK: Imprint: Palgrave Macmillan, 2016
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-O’Driscoll.   2009.   Britain  for  Learners  of  English  (second  edition).Oxford:  Oxford  University  Press
-O'Rourke,   Kevin   H.   A   Short   History  of  Brexit:  From  Brentry  to  Backstop.  London:  Penguin,  2018  →
-O’Driscoll. 2009. Britain for Learners of English (second edition).Oxford: Oxford University Press
-
-✅ Recursos añadidos:
-------------------------------
-Childs,   Peter,   and   Mike   Storry.   Encyclopedia  of  Contemporary  British  Culture.  London;  New  York:
-Routledge, 1999
-
-Donnell, Alison, Companion to Contemporary Black British Culture. London; New York: Routledge, 2002
-
 O'Rourke, Kevin H. A Short History of Brexit: From Brentry to Backstop. London: Penguin, 2018
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+O’Driscoll. 2009. Britain for Learners of English (second edition).Oxford: Oxford University Press
+
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

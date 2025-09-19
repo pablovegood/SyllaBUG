@@ -2,99 +2,54 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (9):
 ------------------------------
-No hay elementos.
+AKMAJIAN,   R   A,  DEMERS  y  R  M.  HARNISH  1984,  [2000].:  Lingüística:  una  introducción  al  lenguaje  y
+la comunicación. Madrid, Alianza, Alianza Universidad.BENÍTEZ BURRACO, A., 2023
 
-📚 Recursos sin cambios:
+BOSQUE,   I.,   1982.   "La   morfología",   en   F.   Abad  y  A.  García  Berrio  (eds.),  Introducción  a  la
+lingüística,   Madrid,   Alhambra   (pp   115-153).HATIM,   B.   &   MASON,   I.   1990.   Discourse  and  the
+translator, New York, Longman
+
+El   origen   del   lenguaje:  De  Adán  a  Babel.  Córdoba,  Almuzara.COSERIU,  E.  [1978]  1991  El  hombre  y  su
+lenguaje. Madrid, Gredos
+
+MARTÍNEZ CELDRÁN, E. & FERNÁNDEZ PLANAS 2008: Manual de fonética española. Barcelona
+
+NEWMEYER, F. J. (ed.): 1988. Linguistics: The Cambridge Survey. Cambridge: Cambridge
+
+NORD,   Ch.   (1991.  Text  Analysis  in  Translation.  Theory,  Methodology,  and  Didactic  Application  Model
+for Translation-Oriented Text Analysis, Amsterdam: Rodopi
+
+University   Press,  (4  vols.).  (Trad.  esp.:  Panorama  de  la  Lingüística  Moderna  de  la  Universidad  de
+Cambridge. Madrid: Visor, 1990 (vol. 1), 1991 (vol. II), 1992 (vols. III y IV)
+
+WIERZBICKA, A. 1992. Semantics, Culture and Cognition. New York: Oxford University Press
+
+YULE, G.: 1998. El Lenguaje. Madrid: Cambridge University Press
+
+📚 Recursos sin cambios (11):
 ------------------------------
-CRYSTAL, D., 1987: Enciclopedia del lenguaje. [trad. esp. Madrid: Taurus]
+CRYSTAL, David 1987 :Enciclopedia del lenguaje. [trad. esp. Madrid: Taurus]
 
-FERNÁNDEZ PÉREZ, M., 1999: Introducción a la lingüística. Barcelona: Ariel
+FERNÁNDEZ PÉREZ, M. 1999.: Introducción a la lingüística. Barcelona: Ariel
 
-GUTIÉRREZ ORDÓÑEZ, S., 2002.: De pragmática y semántica. Madrid
+GUTIÉRREZ ORDÓÑEZ, Salvador 2002.: De pragmática y semántica. Madrid
 
 LÓPEZ   GARCÍA,  A.,  1997:  "La  noción  de  distancia  en  traducción",  Homenaje  al  profesor  A.  Roldán
 Pérez, t. I, Universidad de Murcia, (pp. 287-299)
 
-LUQUE   DURAN,  J.  D.,  2001:  Aspectos  universales  y  particulares  del  léxico  de  las  lenguas  del  mundo.
-Granada: Método Ediciones
-
 LUQUE   DURAN,   J.   de   D.   y   A.   PAMIES  BERTRÁN  (eds.),  1997:  Panorama  de  la  lingüística  actual.
 Granada: Método Ediciones
 
-VERSCHUEREN,   J.,  J.  ÖSTMAN  y  J.  BLOMMAERT  (eds.),  1995:  Handbook  of  Pragmatics.  Manual.  Amsterdam:
-John Benjamins
+LUQUE   DURAN,,  J.  D.  2001:  Aspectos  universales  y  particulares  del  léxico  de  las  lenguas  del  mundo.
+Método Ediciones, Granada
 
-WANDRUZKA, M., 1996: Nuestras lenguas comparables e incomparables. Madrid, Gredos
+LYONS,   J.,   1977:   Semantics.   Cambridge:   Cambridge   University   Press,   (Trad.   esp.:  Semántica.
+Barcelona: Teide, 1980)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-YULE,   G.:   1998.  El  Lenguaje.  Madrid:  Cambridge  University  Press  →  WIERZBICKA,  A.,  1992:  Semantics,
-Culture   and   Cognition.   New   York:   Oxford   University  Press.  YULE,  G.:  1998.  El  Lenguaje.  Madrid:
-Cambridge University Press
-
-University   Press,  (4  vols.).  (Trad.  esp.:  Panorama  de  la  Lingüística  Moderna  de  la  Universidad  de
-Cambridge.   Madrid:   Visor,   1990   (vol.  1),  1991  (vol.  II),  1992  (vols.  III  y  IV)  →  NEWMEYER,  F.  J.
-(ed.),   1988:   Linguistics:  The  Cambridge  Survey.  Cambridge:  Cambridge.  University  Press,  (4  vols.).
-(Trad.   esp.:   Panorama   de   la  Lingüística  Moderna  de  la  Universidad  de  Cambridge.  Madrid:  Visor,
-1990 (vol. 1), 1991 (vol. II), 1992 (vols. III y IV)
-
-El   origen   del   lenguaje:  De  Adán  a  Babel.  Córdoba,  Almuzara.COSERIU,  E.  [1978]  1991  El  hombre  y  su
-lenguaje.   Madrid,   Gredos   →   BENÍTEZ   BURRACO,   A.,  2023:  El  origen  del  lenguaje:  De  Adán  a  Babel.
-Córdoba, Almuzara.COSERIU, E. [1978] 1991 El hombre y su lenguaje. Madrid, Gredos
-
-MARTÍNEZ   CELDRÁN,   E.   &   FERNÁNDEZ   PLANAS   2008:   Manual   de   fonética  española.  Barcelona  →
-MARTÍNEZ   CELDRÁN,   E.   &  FERNÁNDEZ  PLANAS,  2008:  Manual  de  fonética  española.  Barcelona.  NORD,
-Ch.   (1991.   Text   Analysis   in  Translation.  Theory,  Methodology,  and  Didactic  Application  Model  for
-Translation-Oriented Text Analysis, Amsterdam: Rodopi
-
-NORD,   Ch.   (1991.  Text  Analysis  in  Translation.  Theory,  Methodology,  and  Didactic  Application  Model
-for   Translation-Oriented   Text   Analysis,   Amsterdam:   Rodopi  →  MARTÍNEZ  CELDRÁN,  E.  &  FERNÁNDEZ
-PLANAS,   2008:   Manual   de   fonética   española.   Barcelona.   NORD,   Ch.   (1991.   Text   Analysis  in
-Translation.   Theory,   Methodology,   and   Didactic   Application   Model  for  Translation-Oriented  Text
-Analysis, Amsterdam: Rodopi
-
-LYONS,   J.:   1977  Semantics.  Cambridge:  Cambridge  University  Press,  (Trad.  esp.:  Semántica  →  LYONS,
-J.,   1977:   Semantics.   Cambridge:   Cambridge   University  Press,  (Trad.  esp.:  Semántica.  Barcelona:
-Teide, 1980)
-
-Introducción   al   lenguaje   y   a   la   lingüística.   Barcelona,   Teide,   1984.)  →  LYONS,  J.,  1981:
-Language   and   Linguistics.   Cambridge:   Cambridge   University   Press,  (Trad.  esp.:  Introducción  al
-lenguaje y a la lingüística. Barcelona, Teide, 1984.)
-
-NEWMEYER,   F.   J.   (ed.):   1988.  Linguistics:  The  Cambridge  Survey.  Cambridge:  Cambridge  →  NEWMEYER,
-F.   J.   (ed.),   1988:   Linguistics:  The  Cambridge  Survey.  Cambridge:  Cambridge.  University  Press,  (4
-vols.).   (Trad.   esp.:   Panorama  de  la  Lingüística  Moderna  de  la  Universidad  de  Cambridge.  Madrid:
-Visor, 1990 (vol. 1), 1991 (vol. II), 1992 (vols. III y IV)
-
-LYONS,   J.:   1981.   Language   and   Linguistics.   Cambridge:  Cambridge  University  Press,  (Trad.  esp  →
-LYONS,   J.,   1981:   Language   and   Linguistics.   Cambridge:  Cambridge  University  Press,  (Trad.  esp.:
+LYONS,   J.:   1981.   Language   and   Linguistics.   Cambridge:  Cambridge  University  Press,  (Trad.  esp.:
 Introducción al lenguaje y a la lingüística. Barcelona, Teide, 1984.)
-
-Barcelona:   Teide,   1980)   →   LYONS,   J.,   1981:   Language   and   Linguistics.   Cambridge:   Cambridge
-University   Press,   (Trad.   esp.:   Introducción  al  lenguaje  y  a  la  lingüística.  Barcelona,  Teide,
-1984.)
-
-BOSQUE,   I.,   1982.   "La   morfología",   en   F.   Abad  y  A.  García  Berrio  (eds.),  Introducción  a  la
-lingüística,   Madrid,   Alhambra   (pp   115-153).HATIM,   B.   &   MASON,   I.   1990.   Discourse  and  the
-translator,   New   York,  Longman  →  BOSQUE,  I.,  1982.  "La  morfología",  en  F.  Abad  y  A.  García  Berrio
-(eds.), Introducción a la lingüística, Madrid, Alhambra (pp 115-153)
-
-AKMAJIAN,   R   A,  DEMERS  y  R  M.  HARNISH  1984,  [2000].:  Lingüística:  una  introducción  al  lenguaje  y
-la   comunicación.   Madrid,   Alianza,  Alianza  Universidad.BENÍTEZ  BURRACO,  A.,  2023  →  AKMAJIAN,  R  A,
-DEMERS    y   R   M.   HARNISH,   1984,   [2000]:   Lingüística:   una   introducción   al   lenguaje   y   la
-comunicación. Madrid, Alianza, Alianza Universidad
-
-WIERZBICKA,   A.   1992.   Semantics,   Culture   and   Cognition.   New   York:   Oxford   University  Press  →
-WIERZBICKA, A., 1992: Semantics, Culture and Cognition. New York: Oxford University Press. YULE, G.:
-1998. El Lenguaje. Madrid: Cambridge University Press
-
-✅ Recursos añadidos:
-------------------------------
-COSTA, A., 2017: El cerebro bilingüe: La neurociencia del lenguaje. Madrid (Debate)
-
-HATIM, B. & MASON, I., 1990: Discourse and the translator, New York, Longman
 
 PAMIES,   A.,   et   al.,   2022:   Dicofon  4:  Diccionario  de  fonética  en  22  lenguas.  Versión  impresa  en
 Editorial Comares (‎‎978-8413693200). Version online en abierto: DICOFON 4 Base de datos consultable
@@ -103,4 +58,46 @@ alemán,   árabe,   asturiano,   catalán,   checo,   chino,  coreano,  euskera
 húngaro,    inglés,    italiano,    japonés,    portugués,   rumano,   ruso,   serbio,   turco   y   ucraniano
 (http://www.ugr.es/~jmpazos/dicofon/)
 
-📊 Porcentaje estimado de cambio: 76% [███████░░░]
+VERSCHUEREN,   J.,  J.  ÖSTMAN  y  J.  BLOMMAERT  (eds.):  1995.  Handbook  of  Pragmatics.  Manual.  Amsterdam:
+John Benjamins
+
+WANDRUZKA, M., 1996: Nuestras lenguas comparables e incomparables. Madrid, Gredos
+
+✅ Recursos añadidos (11):
+------------------------------
+AKMAJIAN,   R   A,  DEMERS  y  R  M.  HARNISH,  1984,  [2000]:  Lingüística:  una  introducción  al  lenguaje  y
+la comunicación. Madrid, Alianza, Alianza Universidad
+
+BENÍTEZ   BURRACO,   A.,   2023:  El  origen  del  lenguaje:  De  Adán  a  Babel.  Córdoba,  Almuzara.COSERIU,  E.
+[1978] 1991 El hombre y su lenguaje. Madrid, Gredos
+
+BOSQUE,   I.,   1982.   "La   morfología",   en   F.   Abad  y  A.  García  Berrio  (eds.),  Introducción  a  la
+lingüística, Madrid, Alhambra (pp 115-153)
+
+COSTA, A., 2017: El cerebro bilingüe: La neurociencia del lenguaje. Madrid (Debate)
+
+HATIM, B. & MASON, I., 1990: Discourse and the translator, New York, Longman
+
+MARTÍNEZ   CELDRÁN,   E.   &  FERNÁNDEZ  PLANAS,  2008:  Manual  de  fonética  española.  Barcelona.  NORD,
+Ch.   (1991.   Text   Analysis   in  Translation.  Theory,  Methodology,  and  Didactic  Application  Model  for
+Translation-Oriented Text Analysis, Amsterdam: Rodopi
+
+MARTÍNEZ   CELDRÁN,   E.   &  FERNÁNDEZ  PLANAS,  2008:  Manual  de  fonética  española.  Barcelona.  NORD,
+Ch.   (1991.   Text   Analysis   in  Translation.  Theory,  Methodology,  and  Didactic  Application  Model  for
+Translation-Oriented Text Analysis, Amsterdam: Rodopi
+
+NEWMEYER,   F.   J.   (ed.),   1988:  Linguistics:  The  Cambridge  Survey.  Cambridge:  Cambridge.  University
+Press,   (4  vols.).  (Trad.  esp.:  Panorama  de  la  Lingüística  Moderna  de  la  Universidad  de  Cambridge.
+Madrid: Visor, 1990 (vol. 1), 1991 (vol. II), 1992 (vols. III y IV)
+
+NEWMEYER,   F.   J.   (ed.),   1988:  Linguistics:  The  Cambridge  Survey.  Cambridge:  Cambridge.  University
+Press,   (4  vols.).  (Trad.  esp.:  Panorama  de  la  Lingüística  Moderna  de  la  Universidad  de  Cambridge.
+Madrid: Visor, 1990 (vol. 1), 1991 (vol. II), 1992 (vols. III y IV)
+
+WIERZBICKA, A., 1992: Semantics, Culture and Cognition. New York: Oxford University Press. YULE, G.:
+1998. El Lenguaje. Madrid: Cambridge University Press
+
+WIERZBICKA, A., 1992: Semantics, Culture and Cognition. New York: Oxford University Press. YULE, G.:
+1998. El Lenguaje. Madrid: Cambridge University Press
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

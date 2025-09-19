@@ -2,14 +2,16 @@
 Grado: estudios-ingleses (285)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 Benati,   A.   G.,   &  VanPatten,  B.  (2015).  Key  Terms  in  Second  Language  Acquisition  (2nd  ed.)  London:
 Continuum
+
+Cook, V. (2008). Second Language Learning and Language Teaching (4th ed.). Hodder Arnold
 
 Doughty, C. & Long, M. (2005). The Handbook of Second Language Acquisition. Oxford: Blackwell
 
@@ -55,17 +57,11 @@ Shirai, Y. (2018). Connectionism and Second Language Acquisition. New York: Rout
 
 Skehan, P. (1998). A Cognitive Approach to Language Learning. Oxford University Press
 
+de Bot, K., Lowie, W. & Verspoor, M. (2005). Second Language Acquisition. New York: Routledge
+
+✅ Recursos añadidos (1):
+------------------------------
 VanPatten,   B.,   Smith,   M.,   &   Benati,  A.  (2019).  Key  Questions  in  Second  Language  Acquisition:  An
 Introduction. Cambridge: Cambridge University Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Cook,   V.   (2008).   Second  Language  Learning  and  Language  Teaching  (4th  ed.).  Hodder  Arnold.  de  Bot,
-K.,   Lowie,   W.  &  Verspoor,  M.  (2005).  Second  Language  Acquisition.  New  York  →  de  Bot,  K.,  Lowie,  W.
-& Verspoor, M. (2005). Second Language Acquisition. New York: Routledge
-
-✅ Recursos añadidos:
-------------------------------
-Cook, V. (2008). Second Language Learning and Language Teaching (4th ed.). Hodder Arnold
-
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

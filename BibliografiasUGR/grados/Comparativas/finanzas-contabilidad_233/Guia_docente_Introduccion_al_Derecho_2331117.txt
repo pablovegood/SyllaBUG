@@ -2,25 +2,21 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (2):
 ------------------------------
-Monereo   Pérez,  Molina  Navarrete,  Moreno  Vida  y  Vila  Tierno:  Manual  de  Derecho  del  Trabajo,  Comares,
-Granada, última edición
-
 Parte   I:   Moreno   Quesada   y   otros  Derecho  civil  patrimonial.  Conceptos  y  normativa  básica  Comares
 Beltrán   Sánchez/Orduña   Moreno   (dir.)  Curso  de  Derecho  privado  Tirant  lo  Blanch  Lacruz  Nociones  de
 Derecho   civil   patrimonial   e   introducción   al   Derecho   Dykinson,  última  edición  Lasarte  Curso  de
 Derecho civil Patrimonial. Introducción al Derecho Tecnos, última edición
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Parte II: Monereo Pérez, Molina Navarrete, Moreno Vida y Vila Tierno: Manual de Derecho del Trabajo,
+Comares, Granada, última edición
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Beltrán Sánchez/Orduña Moreno (dir.) Curso de Derecho privado Tirant lo Blanch
 
@@ -28,9 +24,9 @@ Lacruz Nociones de Derecho civil patrimonial e introducción al Derecho Dykinson
 
 Lasarte Curso de Derecho civil Patrimonial. Introducción al Derecho Tecnos, última edición
 
+Monereo   Pérez,  Molina  Navarrete,  Moreno  Vida  y  Vila  Tierno:  Manual  de  Derecho  del  Trabajo,  Comares,
+Granada, última edición
+
 Moreno Quesada y otros Derecho civil patrimonial. Conceptos y normativa básica Comares
 
-Parte II: Monereo Pérez, Molina Navarrete, Moreno Vida y Vila Tierno: Manual de Derecho del Trabajo,
-Comares, Granada, última edición
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 71% [███████░░░]

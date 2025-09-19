@@ -2,11 +2,17 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+CUNHA, I. (2020). Una herramienta TIC para la redacción del Trabajo de Fin de Grado (TFG). ELUA, 34,
+39-72.   https://doi.org/10.14198/ELUA2020.34.2   MONTERO   ALONSO,  Miguel  Ángel  y  PÉREZ  CASTRO,  Miguel
+Ángel   (2014).   Guía   para   la   elaboración   del   Trabajo   Fin   de  Grado  (TFG),  Gestión  y  Edición  de
+Publicaciones   Profesionales,   SL   MONTOLÍO,  E.  (2014).  Manual  de  escritura  académica  y  profesional.
+Ariel
 
-📚 Recursos sin cambios:
+http://hdl.handle.net/10630/11066. No procede
+
+📚 Recursos sin cambios (3):
 ------------------------------
 CLANCHY,   John   y   BALLARD,   Brigid   (1995).   Cómo   se  hace  un  trabajo  académico.  Guía  práctica  para
 estudiantes universitarios, Zaragoza, Prensas Universitarias
@@ -16,20 +22,14 @@ Fin de Grado al Trabajo Fin de Máster. Bubok
 
 VELASCO, L., MENA, E. y PARRA, J. M. (2016). Seminario sobre TFG. http://hdl.handle.net/10630/11066
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CUNHA,   I.  (2020).  Una  herramienta  TIC  para  la  redacción  del  Trabajo  de  Fin  de  Grado  MONTERO  ALONSO,
-Miguel   Ángel  y  PÉREZ  CASTRO,  Miguel  Ángel  (2014).  Guía  para  la  elaboración  del  Trabajo  Fin  de  Grado
-(TFG), Gestión y Edición de Publicaciones Profesionales, SL MONTOLÍO, E. (2014). Manual de escritura
-académica   y   profesional.  Ariel  →  MONTERO  ALONSO,  Miguel  Ángel  y  PÉREZ  CASTRO,  Miguel  Ángel  (2014).
-Guía   para   la   elaboración   del   Trabajo   Fin   de   Grado   (TFG),  Gestión  y  Edición  de  Publicaciones
-Profesionales, SL
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 CUNHA, I. (2020). Una herramienta TIC para la redacción del Trabajo de Fin de Grado (TFG). ELUA, 34,
 39-72. https://doi.org/10.14198/ELUA2020.34.2
 
+MONTERO   ALONSO,   Miguel   Ángel   y   PÉREZ   CASTRO,  Miguel  Ángel  (2014).  Guía  para  la  elaboración  del
+Trabajo Fin de Grado (TFG), Gestión y Edición de Publicaciones Profesionales, SL
+
 MONTOLÍO, E. (2014). Manual de escritura académica y profesional. Ariel
 
-📊 Porcentaje estimado de cambio: 75% [███████░░░]
+📊 Porcentaje estimado de cambio: 83% [████████░░]

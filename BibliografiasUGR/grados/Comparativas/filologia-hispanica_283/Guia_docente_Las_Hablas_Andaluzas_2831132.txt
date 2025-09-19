@@ -2,16 +2,26 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+MOYA   CORRAL,   J.   A.  y  E.  GARCÍA  WIDEMAN  (1995):  El  habla  de  Granada  y  sus  barrios,  NARBONA,  A.,  et
+alii(1998): El español hablado en Andalucía, Barcelona, Ariel
 
-📚 Recursos sin cambios:
+SALVADOR,   F.   (1978):   Neutralización   de  l/r  explosivas  agrupadas  y  su  área  andaluza,  SALVADOR,  G.
+(1957-1959):   «El  habla  de  Cúllar-Baza.  Contribución  a  la  frontera  del  dialecto  andaluz»,  Revista  de
+Filología Española, 41, págs. 161-252 y RFE, 42, págs. 37-89
+
+📚 Recursos sin cambios (37):
 ------------------------------
+ALARCOS,   E.   (1958):   «Fonología   y   fonética   (a  propósito  de  las  vocales  andaluzas)»,  AO  6,  págs.
+193-205
+
 ALONSO, A. (1969): «Historia del “ceceo” y del “seseo” españoles», en A. Alonso, De la pronunciación
 medieval a la moderna en español, II, Madrid, Gredos, págs. 47-144
 
 ALONSO, D. (1956): En la Andalucía de la E. Dialectología pintoresca, Madrid
+
+ALVAR EZQUERRA, M. (2000): Tesoro léxico de las hablas andaluzas, Madrid, Arco Libros
 
 ALVAR, M. (1964): «Estructura del léxico andaluz», Boletín de Filología de Chile, págs. 5-12
 
@@ -22,6 +32,9 @@ ALVAR, M. (2004): Estudio sobre las hablas meridionales, Granada, Ed. Universida
 
 ALVAR,   M.,   A.   LLORENTE   y   G.  SALVADOR  (1961-1973):  Atlas  lingüístico  y  etnográfico  de  Andalucía,
 Granada,Univ. de Granada/CSIC
+
+ALVAR,   M.,   A.   LLORENTE   y  G.  SALVADOR  (1995):  Textos  andaluces  en  transcripción  fonética,  Madrid,
+Gredos
 
 BUSTOS   TOVAR,   J.   J.   (1980):  «La  lengua  de  los  andaluces»,  en  Los  andaluces,  Madrid,  Istmo,  págs.
 221-235
@@ -44,9 +57,15 @@ FRAGO, J. A. (1993): Historia de las hablas andaluzas, Madrid, Arco Libros
 GONZÁLEZ   OLLÉ,   F.   (1988):   “Primeras   noticias   y   valoración  del  andaluz”,  en  Boletín  de  la  Real
 Academia Española, 67, págs. 347-387
 
+HARJUS,   JANNIS   (2018):  Sociofonética  andaluza  y  lingüística  perceptiva  de  la  variación.  El  español
+hablado en Jerez de la Frontera, Madrid-Frankfurt, Iberoamericana-Vervuert
+
 JIMÉNEZ FERNÁNDEZ, R. (1999): El andaluz, Madrid, Arco-Libros
 
 LAPESA, R. (1983): «El andaluz», en Historia de la Lengua Española, Madrid, Gredos, págs. 507-513
+
+LLORENTE,   A.   (1962):   «Fonética   y  fonología  andaluzas»,  Revista  de  Filología  Española,  XLV,  págs.
+227-40
 
 LLORENTE, A. (1997): «El andaluz occidental y el andaluz oriental», en A. NARBONA y M. ROPERO NÚÑEZ,
 El   habla   andaluza(Actas   del   Congreso  del  Habla  andaluza,  Sevilla,  4-7  marzo  1997),Sevilla,  págs.
@@ -66,6 +85,9 @@ MONDÉJAR,   J.   (1986):   «Naturaleza  y  estatus  social  de  las  hablas  a
 Lenguas   peninsulares   y   proyección   hispánica,   Fundación  Friedrich  Ebert-Instituto  de  Cooperación
 Iberoamericana, I, Madrid, 1986, págs. 143-149
 
+MONDÉJAR,   J.  (1989):  Bibliografía  sistemática  y  cronológica  de  las  hablas  andaluzas,  Granada  (2º  ed
+ampliada en Analecta Malacitana)
+
 MONDÉJAR,   J.   (1991):   «El   andaluz.   Visión  de  conjunto»  en  Dialectología  andaluza,  Granada,Ed.  D.
 Quijote (Nueva edición en lo Anejos de Analecta Malacitana, Málaga, 2000), págs. 121-145
 
@@ -75,23 +97,12 @@ págs. 149-161)
 
 MOYA CORRAL, J. A. (1979): La pronunciación del español en Jaén, Granada
 
-MOYA   CORRAL,   J.   A.   y   E.   GARCÍA   WIDEMAN   (1995):   El   habla  de  Granada  y  sus  barrios,  Granada,
-Universidad de Granada
-
 NARBONA, A. (coord.) (2009): La identidad lingüística de Andalucía, Sevilla, Junta de Andalucía
 
 NARBONA, A., R. CANO y R. MORILLO (1998): El español hablado en Andalucía,Barcelona, Ariel
 
-NARBONA, A., et alii(1998): El español hablado en Andalucía, Barcelona, Ariel
-
-SALVADOR,   F.   (1978):   Neutralización   de   l/r   explosivas   agrupadas   y  su  área  andaluza,  Granada,
-Universidad de Granada
-
 SALVADOR,   G.   (1953):  «Aragonesismos  en  el  andaluz  oriental»,  en  Archivo  de  Filología  Aragonesa,  5,
 págs. 143-165
-
-SALVADOR,   G.   (1957-1959):   «El   habla   de   Cúllar-Baza.   Contribución   a   la  frontera  del  dialecto
-andaluz», Revista de Filología Española, 41, págs. 161-252 y RFE, 42, págs. 37-89
 
 SALVADOR, G. (1977): «Unidades fonológicas vocálicas en el andaluz oriental», RSEL, 7.1, págs. 1-21
 
@@ -99,27 +110,17 @@ SALVADOR, G. (1987): Estudios dialectológicos, Madrid, Paraninfo
 
 ZAMORA VICENTE, A. (1970): «Andaluz», en Dialectología española, Madrid, Gredos, págs. 287-331
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-ALVAR,   M.,   A.   LLORENTE  y  G.  SALVADOR  (1995):  Textos  andaluces  en  transcripción  ALVAR  EZQUERRA,  M.
-(2000):   Tesoro   léxico   de   las   hablas  andaluzas,  Madrid,  Arco  Libros  →  ALVAR  EZQUERRA,  M.  (2000):
-Tesoro léxico de las hablas andaluzas, Madrid, Arco Libros
+MOYA   CORRAL,   J.   A.   y   E.   GARCÍA   WIDEMAN   (1995):   El   habla  de  Granada  y  sus  barrios,  Granada,
+Universidad de Granada
 
-✅ Recursos añadidos:
-------------------------------
-ALARCOS,   E.   (1958):   «Fonología   y   fonética   (a  propósito  de  las  vocales  andaluzas)»,  AO  6,  págs.
-193-205
+NARBONA, A., et alii(1998): El español hablado en Andalucía, Barcelona, Ariel
 
-ALVAR,   M.,   A.   LLORENTE   y  G.  SALVADOR  (1995):  Textos  andaluces  en  transcripción  fonética,  Madrid,
-Gredos
+SALVADOR,   F.   (1978):   Neutralización   de   l/r   explosivas   agrupadas   y  su  área  andaluza,  Granada,
+Universidad de Granada
 
-HARJUS,   JANNIS   (2018):  Sociofonética  andaluza  y  lingüística  perceptiva  de  la  variación.  El  español
-hablado en Jerez de la Frontera, Madrid-Frankfurt, Iberoamericana-Vervuert
+SALVADOR,   G.   (1957-1959):   «El   habla   de   Cúllar-Baza.   Contribución   a   la  frontera  del  dialecto
+andaluz», Revista de Filología Española, 41, págs. 161-252 y RFE, 42, págs. 37-89
 
-LLORENTE,   A.   (1962):   «Fonética   y  fonología  andaluzas»,  Revista  de  Filología  Española,  XLV,  págs.
-227-40
-
-MONDÉJAR,   J.  (1989):  Bibliografía  sistemática  y  cronológica  de  las  hablas  andaluzas,  Granada  (2º  ed
-ampliada en Analecta Malacitana)
-
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

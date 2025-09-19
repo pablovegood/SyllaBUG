@@ -2,14 +2,16 @@
 Grado: administracion-direccion-empresas-melilla (533)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Churchill,   G.A   Jr.   (2003).   Investigación   de  mercados.  Thompson  Florès,  L.  (2014).  How  to  Mesure
+Digital Marketing. Metrics for Assesing Impact and Designing Success. Palgrave MacMillan London, UK
 
-📚 Recursos sin cambios:
-------------------------------
+Malhotra,   N.   K.  (2016).  Investigación  de  mercados:  conceptos  esenciales.  México:  Pearson  Educación
 Aaker, D.A., Kumar, V., & Day, G.S. (2003). Investigación de Mercados. México: Limusa, Weley
 
+📚 Recursos sin cambios (10):
+------------------------------
 Alonso Dos Santos (2016). Investigación de mercados: manual universitario. Ediciones Díaz de Santos
 
 Grande, I., y Abascal, E. (2009). Fundamentos y técnicas de investigación comercial. ESIC Editorial
@@ -21,8 +23,6 @@ Lawrence   Silver,   Robert   Stevens,   Bruce   Wrenn  y  David  Loudon  (2012)
 research. Taylor and Francis Group
 
 Luque, T. (2017). Investigación de marketing 3.0. Pirámide
-
-Malhotra, N. K. (2016). Investigación de mercados: conceptos esenciales. México: Pearson Educación
 
 Marko   Sarstedt   y   Erik   Mooi   (2019).   A   Concise  Guide  to  Market  Research:  The  Process,  Data,  and
 Methods Using IBM SPSS Statistics. Alemania: Springer
@@ -37,15 +37,15 @@ empresas. Pirámide, Madrid
 
 Zikmund, W.G. (2003). Fundamentos de investigación de mercados. Thomson Editores
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Churchill,   G.A   Jr.   (2003).   Investigación   de  mercados.  Thompson  Florès,  L.  (2014).  How  to  Mesure
-Digital   Marketing.  Metrics  for  Assesing  Impact  and  Designing  Success.  Palgrave  MacMillan  London,  UK
-→  Churchill, G.A Jr. (2003). Investigación de mercados. Thompson
+Aaker, D.A., Kumar, V., & Day, G.S. (2003). Investigación de Mercados. México: Limusa, Weley
 
-✅ Recursos añadidos:
-------------------------------
+Churchill, G.A Jr. (2003). Investigación de mercados. Thompson
+
 Florès,   L.   (2014).   How   to   Mesure   Digital   Marketing.  Metrics  for  Assesing  Impact  and  Designing
 Success. Palgrave MacMillan London, UK
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+Malhotra, N. K. (2016). Investigación de mercados: conceptos esenciales. México: Pearson Educación
+
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

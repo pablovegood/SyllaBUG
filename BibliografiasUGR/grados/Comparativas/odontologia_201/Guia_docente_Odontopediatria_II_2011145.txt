@@ -2,44 +2,51 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Andreasen   JO,   Andreasen  FM,  Andersson  L,  editores.  Texto  y  atlas  a  color  de  lesiones  traumáticas  a
-las estructuras dentales. Vol. 1. 4a. ed. Caracas: Amolca; 2010
-
 Boj   JR,   Catalá  M,  Garcia-Ballesta  C,  Mendoza  A,  Planells  P.  Odontopediatría.  La  evolución  del  niño
 al   adulto   joven.   Madrid,   Ripano   2011.   ISBN   978-84-938287-0-7   Mendoza   A,   García  Ballesta  C.
-Traumatología   Oral:  Diagnóstico  y  Tratamiento  Integral  Cameron  AC,  Widmer  RP.  Manual  De  Odontologia
-Pediatrica   (3ª   ed.).  Manual  Moderno,2014.  ISBN  :  607-448-369-8  Guías  y  protocolos  American  Academy
-of     Pediatric     dentistry.     Oral     health     policies    &    Recommendations    recommendations/
-dentaltrauma.org/for-professionals.html   Revistas   nacionales   de  Odontopediatría  (disponibles  en  la
-biblioteca de la Facultad de Odontología) Odontología Pediátrica
+Traumatología   Oral:   Diagnóstico   y   Tratamiento   Integral  Soluciones  Estéticas.  2ªedición.  Madrid,
+Ergón,   2012.   ISBN:  9788484739814  Cameron  AC,  Widmer  RP.  Manual  De  Odontologia  Pediatrica  (3ª  ed.).
+Manual   Moderno,2014.   ISBN   :   607-448-369-8   Guías   y   protocolos   American   Academy   of  Pediatric
+dentistry.    Oral    health    policies    &    Recommendations    (Reference    manual).   Disponible   en:
+https://www.aapd.org/research/oral-health-policiesrecommendations/      CariesCare      International.
+Disponible    en:https://cariescareinternational.com/spanish/   International   Association   of   Dental
+Traumatology.    Disponible    en:    https://www.iadtdentaltrauma.org/for-professionals.html   Guía   de
+dosificación   en  pediatría.  Disponible  en:  http://www.guiafarmapediatrica.es/  Revistas  nacionales  de
+Odontopediatría (disponibles en la biblioteca de la Facultad de Odontología) Odontología Pediátrica
 
+ISBN:   978-849-1133-00-1   Koch   G,   Poulsen   S,  Espelid  I,  Haubek  D.  Pediatric  dentistry.  A  clinical
+approach. 3th ed., Wyley Blackwell, 2017. ISBN 978-1118913499 Boj JR, Cortés O, González P, Ferreira
+L. Odontopediatría Clínica (1ª ed.). Madrid, Axon ISBN -13: 9786079685768 Andreasen JO, Backland LK,
+Flores   MT,Andreasen   FM,   Andersson   L.   Manual   de  lesiones  traumáticas  dentarias.  Caracas,  Amolca
+2012.ISBN   9789585714144   Van  Waes  H,  Stöckli  P.  Atlas  de  Odontología  Pediátrica.  Barcelona,  Masson,
+2002
+
+📚 Recursos sin cambios (8):
+------------------------------
 Boj   JR,   Catalá   M,   Mendoza  A,  Planells  P,  Cortés  O.  Odontopediatría.  Bebés,  niños  y  adolescentes.
 Barcelona,   Atlantis   2019.  ISBN  978-607-  98336-0-2  Nowak  AJ,  Christensen  JR,  Mabry  TD,  Townsend  JA,
 Wells MH.Pediatric Dentistry
 
+ISBN-844581091X Andreasen JO, Andreasen FM, Andersson L, editores. Texto y atlas a color de lesiones
+traumáticas a las estructuras dentales. Vol. 1. 4a. ed. Caracas: Amolca; 2010
+
 Infancy   through   adolescence.   6ª   ed.,   Elsevier;  2019.ISBN  978-0-323-60826-8  McDonald  R,  Avery  D.
-Odontología pediátrica y del adolescente. Barcelona, Elselvier,2018. ISBN: 978-849-1133-00-1 Koch G,
-Poulsen   S,  Espelid  I,  Haubek  D.  Pediatric  dentistry.  A  clinical  approach.  3th  ed.,  Wyley  Blackwell,
-2017.   ISBN   978-1118913499   Boj   JR,   Cortés  O,  González  P,  Ferreira  L.  Odontopediatría  Clínica  (1ª
-ed.).   Madrid,  Axon  2018.  ISBN  -13:  9786079685768  Andreasen  JO,  Backland  LK,  Flores  MT,Andreasen  FM,
-Andersson   L.   Manual  de  lesiones  traumáticas  dentarias.  Caracas,  Amolca  2012.ISBN  9789585714144  Van
-Waes H, Stöckli P. Atlas de Odontología Pediátrica. Barcelona, Masson, 2002
+Odontología pediátrica y del adolescente. Barcelona, Elselvier,2018
 
-Revistas   Internacionales   de   Odontopediatría   (disponibles   en   la   biblioteca   de   la  Facultad  de
-Odontología   y   online   a   través   de   la   página  Web  de  la  Biblioteca  de  la  Universidad  de  Granada,
-Revistas electrónicas, acceso gratuito) Pediatric Dentistry
+International Journal of Paediatric dentistry
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Revistas Internacionales de Odontopediatría (disponibles en la biblioteca de la Facultad de Revistas
+electrónicas, acceso gratuito) Pediatric Dentistry
 
-✅ Recursos añadidos:
+SEOII, Sociedad Española de Odontología Infantil Integrada
+
+Sociedades Científicas SEOP, Sociedad Española de Odontología Pediátrica
+
+The Journal of Clinical Pediatric Dentistry European Journal of Paediatric Dentistry
+
+✅ Recursos añadidos (20):
 ------------------------------
 American   Academy  of  Pediatric  dentistry.  Oral  health  policies  &  Recommendations  (Reference  manual).
 Disponible en: https://www.aapd.org/research/oral-health-policies-recommendations/
@@ -70,8 +77,6 @@ Guías y protocolos
 International     Association     of     Dental     Traumatology.    Disponible    en:    https://www.iadt-
 dentaltrauma.org/for-professionals.html
 
-International Journal of Paediatric dentistry
-
 Koch   G,   Poulsen   S,   Espelid  I,  Haubek  D.  Pediatric  dentistry.  A  clinical  approach.  3th  ed.,  Wyley
 Blackwell, 2017. ISBN 978-1118913499
 
@@ -90,14 +95,10 @@ Revistas electrónicas, acceso gratuito)
 
 Revistas nacionales de Odontopediatría (disponibles en la biblioteca de la Facultad de Odontología)
 
-SEOII, Sociedad Española de Odontología Infantil Integrada
-
 SEOP, Sociedad Española de Odontología Pediátrica
-
-Sociedades Científicas
 
 The Journal of Clinical Pediatric Dentistry
 
 Van Waes H, Stöckli P. Atlas de Odontología Pediátrica. Barcelona, Masson, 2002. ISBN-844581091X
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 84% [████████░░]

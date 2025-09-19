@@ -2,7 +2,7 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (7):
 ------------------------------
 HILL et al., 2006. Fisiología Animal. Médica Panamericana
 
@@ -10,14 +10,16 @@ HILL et al., 2016. Animal Physiology. 4ª edición. Sinauer Associates, Inc
 
 LAMBERS, H.; STUART CHAPIN F.; PONS, T. L. 2008. Plant Physiological Ecology
 
-RANDALL   et   al.   (Eckert),   1998.   Fisiología   Animal:   Mecanismos   y   Adaptaciones.   McGraw-   Hill
+RANDALL    et    al.    (Eckert),   1998.   Fisiología   Animal:   Mecanismos   y   Adaptaciones.   McGrawHill
 Interamericana
 
 SCHMIDT-NIELSEN, 1997. Animal Physiology. Adaptation and environment. Cambridge University Press
 
 Springer, New York, 540 p
 
-📚 Recursos sin cambios:
+WILLMER et al., 2004. Environmental Physiology of Animals. Wiley-Blackwell Science Ltd
+
+📚 Recursos sin cambios (11):
 ------------------------------
 AHMAD,   P.;  PRASAD,  M.N.V.  (eds).  2013.  Abiotic  Stress  Responses  in  Plants,  Metabolism,  Productivity
 and Sustainability, Springer, New York-Berlin, 473 p
@@ -36,24 +38,20 @@ of Beneficial Elements . Current Opinion in Plant Biology 12: 267-274
 
 PUGNAIRE F.I; VALLADARES, F. (eds.). 2007. Functional Plant Ecology . CRC Press, Boca Raton, 920 p
 
+Physiological Functions of Beneficial Elements. Current Opinion in Plant Biology 12: 267-274 SUNKAR,
+R. (ed.) 2010. Plant Stress Tolerance: Methods and Protocols. Springer, New York-Berlin, 233 p
+
 RANDALL et al. (Eckert), 2002. Animal Physiology . 5ª edición. W.H: Freeman and Co
 
 REIGOSA,   M.J.;   PEDROL,   N.;   SÁNCHEZ,  A.  2004.  La  Ecofisiología  Vegetal.  Una  ciencia  de  síntesis  .
 Thomson, Madrid, 1193 p
 
-SUNKAR, R. (ed.) 2010. Plant Stress Tolerance: Methods and Protocols. Springer, New York-Berlin, 233
-p
-
 THOMPSON, J.D. 2005. Plant Evolution in the Mediterranean . Oxford University Press, Oxford 288 p
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-WILLMER   et   al.,   2004.   Environmental   Physiology   of  Animals.  Wiley-Blackwell  Science  ZHAO,  F.J.,
-MCGRATH,   S.P.   2009.   Biofortification   and   Phytoremediation.  Current  Opinion  in  Plant  Biology  12:
-373-380   →   ZHAO,   F.J.,  MCGRATH,  S.P.  2009.  Biofortification  and  Phytoremediation  .  Current  Opinion
-in Plant Biology 12: 373-380
+ZHAO,   F.J.,   MCGRATH,   S.P.   2009.  Biofortification  and  Phytoremediation  .  Current  Opinion  in  Plant
+Biology 12: 373-380
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 BUTLER,   P.;   BROWN,   A.;   STEPHENSON,   G.;   SPEAKMAN,   J.  2020.  Animal  Physiology:  an  environmental
 perspective . Oxford University Press. 1104 p
@@ -69,4 +67,4 @@ conservation and management . Oxford University Press
 WILLMER   P.;   STONE   G.;   JOHNSTON   I.   2004.   Environmental  Physiology  of  Animals  .  Wiley-Blackwell
 Science Ltd. 644 p
 
-📊 Porcentaje estimado de cambio: 70% [███████░░░]
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

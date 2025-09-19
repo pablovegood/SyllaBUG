@@ -2,11 +2,12 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+J.G.   Proakis:  "Digital  Communications",  Fourth  Edition,  McGraw-Hill,  2001.  (FCI/621  PRO  com)  Martin
+Bossert: “Channel Coding for Telecommunications”, Wiley 1999
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 A. Gersho, R.M. Gray: "Vector Quantization and Signal Compression", Kluwer Academic Press, 1992
 
@@ -26,14 +27,10 @@ S. Haykin: "Digital Communications", Fourth Edition, John Wiley, 2001
 
 Zolzer: “Digital Audio Signal Processing”, Wiley
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-J.G.   Proakis:  "Digital  Communications",  Fourth  Edition,  McGraw-Hill,  2001.  (FCI/621  PRO  com)  Martin
-Bossert:   “Channel   Coding  for  Telecommunications”,  Wiley  1999  →  Martin  Bossert:  “Channel  Coding  for
-Telecommunications”, Wiley 1999
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 J.G. Proakis: "Digital Communications", Fourth Edition, McGraw-Hill, 2001. (FCI/621 PRO com)
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+Martin Bossert: “Channel Coding for Telecommunications”, Wiley 1999
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

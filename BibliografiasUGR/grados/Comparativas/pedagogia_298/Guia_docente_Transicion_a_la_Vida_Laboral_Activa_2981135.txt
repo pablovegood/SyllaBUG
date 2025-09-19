@@ -2,11 +2,13 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Pereda,   C.   (2003).   La   inserción   laboral  de  las  personas  con  discapacidades.  Fundación  La  Caixa.
+Revisado   en:   www.estudios.lacaixa.es   Pérez,   A.,   Blasco,   P.   (2001):   Orientación   e   Inserción
+Profesional: Fundamentos y Tendencias. Nau Llibres
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 Benavent,   J.   A.,  Bayarri,  F.,  García,  J.,  Ramírez,  L.  I.,  y  Vivó,  S.  (2000).  Programa  de  autoayuda
 para la toma de decisiones al finalizar la Educación Secundaria (ESO). CESOF. IGM
@@ -22,6 +24,9 @@ para acceder al primer empleo. Pirámide
 
 Fernández,   J.   A.,   y   Lobato,   F.   (2001).   Formación   y   orientación  laboral,  Grado  medio.  Ciclos
 formativos. Edebé
+
+García,   F.   J.,   y  Aguilar,  D.  (2011).  Competencias  profesionales  del  Pedagogo.  Ámbitos  laborales  y
+nuevos yacimientos de empleo. Aljibe
 
 García, M. F. (2003): Orientación Profesional. Un proceso a lo largo de la vida. Dykinson
 
@@ -49,9 +54,6 @@ Olleros, M. (2004). ¿Cómo encontrar trabajo? Gestión
 
 Pérez, A. (2013). Te van a oír. Construye tu plataforma personal para darte a conocer. Alienta
 
-Pérez,   A.,   Blasco,   P.   (2001):  Orientación  e  Inserción  Profesional:  Fundamentos  y  Tendencias.  Nau
-Llibres
-
 REVISTA DE EDUCACIÓN, número 351 (2010). La transición a la vida activa. Ministerio de Educación
 
 Rodríguez,   R.   (2012).   Las  salidas  profesionales  de  los  Pedagogos  y  Pedagogas.  Educació  i  Xarxa,  X
@@ -77,16 +79,12 @@ Estudios
 Álvarez,    J.    (2001).   Orientación   profesional,   tránsito   a   la   vida   activa.   Grupo   Editorial
 Universitario
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-García,   F.   J.,   y  Aguilar,  D.  (2011).  Competencias  profesionales  del  Pedagogo.  Ámbitos  laborales  y
-nuevos yacimientos de empleo. Aljibe
-
 Pereda,   C.   (2003).   La   inserción   laboral  de  las  personas  con  discapacidades.  Fundación  La  Caixa.
 Revisado en: www.estudios.lacaixa.es
 
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+Pérez,   A.,   Blasco,   P.   (2001):  Orientación  e  Inserción  Profesional:  Fundamentos  y  Tendencias.  Nau
+Llibres
+
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

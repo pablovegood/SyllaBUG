@@ -2,11 +2,17 @@
 Grado: farmacia-nutricion-humana-dietetica (225)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+MADIGAN,   M.T.,   MARTINKO,   J.M.   y   PARKER,   J.  (2015).  Brock.  Biología  de  los  microorganismos.  13ª
+edición.   Pearson   Prentice   Hall.   Madrid   MARTÍN,   A.,  BÉJAR,  V.,  GUTIÉRREZ,  J.C.,  LLAGOSTERA,  M.,
+QUESADA, E. 2019
 
-📚 Recursos sin cambios:
+STRUTHERS,   J.K.   Y   WESTERN,   R.P.   (2005)   Bacteriología  clínica.  Masson,  Barcelona  TORTORA,  G.J.,
+FUNKE,   B.R.   y   CAE,   C.L.   (2007)  Introducción  a  la  Microbiología  9ª  edición.  Panamericana.  Buenos
+Aires. Argentina
+
+📚 Recursos sin cambios (5):
 ------------------------------
 INGRAHAM,   J.   L.   e   INGRAHAM,   C.A.   (1998).   Introducción   a  la  Microbiología.  Editorial  Reverté.
 Barcelona
@@ -22,20 +28,14 @@ Edición. Mosby, España
 
 PRESCOTT, L.M., HARLEY, J.P. y KLEIN, D.A. (2009). Microbiología 7ª edición. Mac Graw Hill. Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-STRUTHERS,   J.K.   Y   WESTERN,   R.P.   (2005)   Bacteriología  clínica.  Masson,  Barcelona  TORTORA,  G.J.,
-FUNKE,   B.R.   y   CAE,   C.L.   (2007)   Introducción   a  la  Microbiología  9ª  edición  →  STRUTHERS,  J.K.  Y
-WESTERN, R.P. (2005) Bacteriología clínica. Masson, Barcelona
-
 MADIGAN,   M.T.,   MARTINKO,   J.M.   y   PARKER,   J.  (2015).  Brock.  Biología  de  los  microorganismos.  13ª
-edición.   Pearson   Prentice   Hall.   Madrid   MARTÍN,   A.,  BÉJAR,  V.,  GUTIÉRREZ,  J.C.,  LLAGOSTERA,  M.,
-QUESADA,   E.   2019   →   MADIGAN,   M.T.,   MARTINKO,   J.M.   y  PARKER,  J.  (2015).  Brock.  Biología  de  los
-microorganismos. 13ª edición. Pearson Prentice Hall. Madrid
+edición. Pearson Prentice Hall. Madrid
 
-✅ Recursos añadidos:
-------------------------------
+STRUTHERS, J.K. Y WESTERN, R.P. (2005) Bacteriología clínica. Masson, Barcelona
+
 TORTORA,   G.J.,   FUNKE,   B.R.   y   CAE,   C.L.   (2007)   Introducción   a   la   Microbiología  9ª  edición.
 Panamericana. Buenos Aires. Argentina
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

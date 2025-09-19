@@ -2,19 +2,17 @@
 Grado: ingenieria-civil-plan-2023 (246)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 Monleón   (UPV)   ELASTICIDAD,   L.   Ortiz   Berrocal   (UPM)   MECÁNICA   DE   MATERIALES,  Beer,  Johnstonet
 al.(McGraw-Hill) MECÁNICA DE MATERIALES, Hibbeler, Russell Charles.(Pearson) MECÁNICA VECTORIAL PARA
 INGENIEROS,   Beer,   Johnstonet   al.(McGraw-Hill)   MECHANICS   OF  ELASTIC  STRUCTURES,  Oden  y  Ripperger
 (McGraw-Hill) PROBLEMAS DE RESISTENCIA DE MATERIALES, F. Rodríguez Avial (ETSII, UPM) RESISTENCIA DE
-MATERIALES,   A.   Samartín   (Colegio   de   Ing.   de   Caminos   C.   y   P.)  RESISTENCIA  DE  MATERIALES,  S.
-Timoshenko   (Espasa-Calpe)   TEORÍA   DE   LA   ELASTICIDAD,   Timoshenko   y  Goodier  (Urmo)  TEORÍA  DE  LAS
-ESTRUCTURAS, S. Timoshenko y Young (Urmo)
+MATERIALES, A. Samartín (Colegio de Ing. de Caminos C. y P.)
 
 PROBLEMAS   RESUELTOS  DE  RESISTENCIA  DE  MATERIALES  Y  TEORÍA  DE  ESTRUCTURAS.  J.J.  Granados,  P.  Museros
 y J.M. Soria (Garceta. 1ed)
@@ -24,14 +22,16 @@ James   M.   Gere  (Thomson)  TEORÍA  DE  LA  ELASTICIDAD,  Federico  París  (
 Elasticidad y Resistencia de Materiales) GARRIDO Y FOCES. RESISTENCIA DE MATERIALES, Garrido y Foces
 (Univ.   Valladolid)   MECÁNICA  DE  SÓLIDOS,  Egor  P.  Popov  (Pearson  Educación)  PROBLEMAS  DE  RESISTENCIA
 DE   MATERIALES,  Miroliubov  (Mir)  ANÁLISIS  DE  ESTRUCTURAS  DE  BARRAS.  FUNDAMENTOS.  R.  Gallego  y  G.  Rus
-(ETSICCP,   ANÁLISIS  DE  ESTRUCTURAS:  TEORÍA,  PROBLEMAS  Y  PROGRAMAS,  R.  Argüelles  (Fundación  Conde  del
-Valle de Salazar) ANÁLISIS DE VIGAS, ARCOS, PLACAS Y LÁMINAS: UNA PRESENTACIÓN UNIFICADA. S
+(ETSICCP, UGR) ANÁLISIS DE ESTRUCTURAS: TEORÍA, PROBLEMAS Y PROGRAMAS, R. Argüelles (Fundación Conde
+del Valle de Salazar) ANÁLISIS DE VIGAS, ARCOS, PLACAS Y LÁMINAS: UNA PRESENTACIÓN UNIFICADA. S
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+RESISTENCIA   DE   MATERIALES,   S.   Timoshenko   (Espasa-Calpe)   TEORÍA  DE  LA  ELASTICIDAD,  Timoshenko  y
+Goodier (Urmo) TEORÍA DE LAS ESTRUCTURAS, S. Timoshenko y Young (Urmo)
 
-✅ Recursos añadidos:
+RESISTENCIA DE MATERIALES, TEORÍA DE ESTRUCTURAS E INTRODUCCIÓN A LA ELASTICIDAD, Juan José Granados
+(Godel. 4ed)
+
+✅ Recursos añadidos (16):
 ------------------------------
 ANÁLISIS DE ESTRUCTURAS DE BARRAS. FUNDAMENTOS. R. Gallego y G. Rus (ETSICCP, UGR)
 
@@ -40,19 +40,19 @@ Salazar)
 
 ANÁLISIS DE VIGAS, ARCOS, PLACAS Y LÁMINAS: UNA PRESENTACIÓN UNIFICADA. S. Monleón (UPV)
 
-ELASTICIDAD, L. Ortiz Berrocal (UPM)
-
 GARRIDO Y FOCES. RESISTENCIA DE MATERIALES, Garrido y Foces (Univ. Valladolid)
+
+MECHANICS OF ELASTIC STRUCTURES, Oden y Ripperger (McGraw-Hill)
 
 MECÁNICA DE MATERIALES, Beer, Johnstonet al.(McGraw-Hill)
 
 MECÁNICA DE MATERIALES, Hibbeler, Russell Charles.(Pearson)
 
+MECÁNICA DE SÓLIDOS, Egor P. Popov (Pearson Educación)
+
 MECÁNICA VECTORIAL PARA INGENIEROS, Beer, Johnstonet al.(McGraw-Hill)
 
 PROBLEMAS DE RESISTENCIA DE MATERIALES, F. Rodríguez Avial (ETSII, UPM)
-
-PROBLEMAS DE RESISTENCIA DE MATERIALES, Miroliubov (Mir)
 
 RESISTENCIA DE MATERIALES, A. Samartín (Colegio de Ing. de Caminos C. y P.)
 
@@ -60,16 +60,11 @@ RESISTENCIA DE MATERIALES, L. Ortiz Berrocal (McGraw-Hill)
 
 RESISTENCIA DE MATERIALES, S. Timoshenko (Espasa-Calpe)
 
-RESISTENCIA DE MATERIALES, TEORÍA DE ESTRUCTURAS E INTRODUCCIÓN A LA ELASTICIDAD, Juan José Granados
-(Godel. 4ed)
-
 TEORÍA DE LA ELASTICIDAD, Federico París (Universidad de Sevilla, Grupo de Elasticidad y Resistencia
 de Materiales)
 
 TEORÍA DE LA ELASTICIDAD, Timoshenko y Goodier (Urmo)
 
-TEORÍA DE LAS ESTRUCTURAS, S. Timoshenko y Young (Urmo)
-
 TIMOSHENKO. RESISTENCIA DE MATERIALES, James M. Gere (Thomson)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 76% [███████░░░]

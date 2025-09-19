@@ -2,36 +2,33 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Barcelona   :   Paidós,   2000   Introducción  a  la  teoría  de  la  comunicación  de  masas.  /  Denis  MacQuail.
+Barcelona   :   Paidós,   1999   Teorías   de   la   comunicación  en  España:  un  mapa  sobre  el  territorio  de
+nuestra investigación (1980-2006) / Leonarda García Jiménez
 
-📚 Recursos sin cambios:
-------------------------------
-Rodrigo   Alsina,   Miquel.   2001.   Teorías   de   la   comunicación:   ámbitos,   métodos  y  perspectivas  .
-Bellaterra: Universidad Autónoma de Barcelona
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Paidós, 2005 Teoría e investigación en comunicación social / Juan José Igartua, María Luisa Humanes.
-Madrid   :   Síntesis,   2004   →  Igartua,  Juan  José  y  María  Luisa  Humanes.  2004.  Teoría  e  investigación
-en comunicación social . Madrid: Síntesis
-
-Paidós,   1999   Teorías   de   la   comunicación   en   España:   un   mapa   sobre   el  territorio  de  nuestra
-investigación   (1980-2006)   /   Leonarda   García  Jiménez  →  García  Jiménez,  Leonarda.  2007.  Teorías  de
-la   comunicación   en   España:   un   mapa   sobre   el  territorio  de  nuestra  investigación  (1980–2006)  .
-Madrid: Asociación Española de Investigación de la Comunicación (AE-IC)
+Historia   de   las   teorías  de  la  comunicación  /  Armand  y  Michèle  Mattelart.  Barcelona  :  Paidós,  2005
+Teoría   e   investigación   en   comunicación  social  /  Juan  José  Igartua,  María  Luisa  Humanes.  Madrid  :
+Síntesis, 2004
 
 Teorías   de   la   comunicación  :  investigación  sobre  medios  en  América  y  Europa  /  Miguel  Moragas  Spa.
 Barcelona   :  Gustavo  Gili,  1993  Teorías  de  la  comunicación  /  Miguel  Moragas  Spa.  Barcelona  :  Gustavo
-Gili,   1981   →   Moragas  Spa,  Miguel.  1993.  Teorías  de  la  comunicación:  investigación  sobre  medios  en
-América y Europa . Barcelona: Gustavo Gili
+Gili, 1981
 
-La   investigación   en   la   comunicación   de   masas:  Crítica  y  perspectivas  /Mauro  Wolf  .  Barcelona  :
-Paidós,   2000   Introducción   a   la  teoría  de  la  comunicación  de  masas.  /  Denis  MacQuail.  Barcelona  →
-MacQuail, Denis. 1999. Introducción a la teoría de la comunicación de masas . Barcelona: Paidós
+📚 Recursos sin cambios (3):
+------------------------------
+Introducción   a   la   investigación   en   medios   masivos  de  comunicación  /  Roger  D.  Wimmer,  Joseph  R.
+Dominick.   México   :   International   Thomson,   2001   Teorías  de  la  comunicación  :  ámbitos,  métodos  y
+perspectivas / Miquel Rodrigo Alsina
 
-✅ Recursos añadidos:
+Rodrigo   Alsina,   Miquel.   2001.   Teorías   de   la   comunicación:   ámbitos,   métodos  y  perspectivas  .
+Bellaterra: Universidad Autónoma de Barcelona
+
+Wolf, Mauro. 2000. La investigación en la comunicación de masas: crítica y perspectivas . Barcelona:
+Paidós
+
+✅ Recursos añadidos (14):
 ------------------------------
 Altés,   Elvira.   2004.   “¿Cómo   funcionan   y   para   qué   sirven   los   estereotipos   en  los  medios  de
 comunicación?”   Pp.   59–70   en   Medios  de  comunicación  y  género,  coordinado  por  Pilar  Dosal.  Bilbao:
@@ -48,14 +45,26 @@ Periodistes Valencians
 Donoso-Vázquez,   Trinidad   y  Ángeles  Rebollo-Catalán,  coords.  2018.  Violencias  de  género  en  entornos
 virtuales . Barcelona: Octaedro
 
+García Jiménez, Leonarda. 2007. Teorías de la comunicación en España: un mapa sobre el territorio de
+nuestra   investigación  (1980–2006)  .  Madrid:  Asociación  Española  de  Investigación  de  la  Comunicación
+(AE-IC)
+
 García-Mingo,   Elisa,   Silvia   Díaz   Fernández   y   Sergio   Tomás-Forte.   2022.   “(Re)configurando  el
 imaginario   sobre   la  violencia  sexual  desde  el  antifeminismo:  el  trabajo  ideológico  de  la  manosfera
 española.” Política y Sociedad 59(1): e80369. Recuperado de https://doi.org/10.5209/poso.80369
+
+Igartua,   Juan   José   y   María   Luisa  Humanes.  2004.  Teoría  e  investigación  en  comunicación  social  .
+Madrid: Síntesis
+
+MacQuail, Denis. 1999. Introducción a la teoría de la comunicación de masas . Barcelona: Paidós
 
 Mattelart, Armand y Michèle Mattelart. 2005. Historia de las teorías de la comunicación . Barcelona:
 Paidós
 
 Moragas Spa, Miguel. 1981. Teorías de la comunicación . Barcelona: Gustavo Gili
+
+Moragas   Spa,   Miguel.   1993.   Teorías   de   la  comunicación:  investigación  sobre  medios  en  América  y
+Europa . Barcelona: Gustavo Gili
 
 Mulvey,   Laura.  1988.  “Placer  visual  y  cine  narrativo.”  Pp.  1–22  en  Placer  visual  y  cine  narrativo  .
 Valencia: Fundación Instituto Shakespeare
@@ -67,11 +76,5 @@ la Comunicación 15(2): 217–248. Recuperado de http://dx.doi.org/10.56754/0718
 
 Vila De Prado, Roberto. 2018. “La posverdad y la espiral del silencio.” Aportes de la Comunicación y
 la Cultura 1(24). Recuperado de https://doi.org/10.56992/a.v1i24.66
-
-Wimmer,   Roger   D.   y  Joseph  R.  Dominick.  2001.  Introducción  a  la  investigación  en  medios  masivos  de
-comunicación . México: International Thomson
-
-Wolf, Mauro. 2000. La investigación en la comunicación de masas: crítica y perspectivas . Barcelona:
-Paidós
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

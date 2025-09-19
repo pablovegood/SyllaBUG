@@ -2,13 +2,19 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
 Diego Cantor; Brandon Jones. WebGL Beginner's Guide , Ed. Packt Publishing 2012
 
 G.M. Nielson; Volume Modelling. en: M. Chen et al. (eds.). Volume Graphics, Springer, 2000; 29-48
 
-📚 Recursos sin cambios:
+Mario   Botsch   et   al.   Polygon  Mesh  Processing,  AK  Peters  Ed.  2010  Antony  Unwin  et  al.,  Graphics  of
+large datasets. Visualizing a million, Springer 2006
+
+Peter   Shirley.   Fundamentals  of  Computer  Graphics;  AK  Peters,  2009  Foley,  et  al.  Computer  Graphics:
+Principles and Practice, Addison-Wesley 1996 (2nd ed.)
+
+📚 Recursos sin cambios (4):
 ------------------------------
 A.Telea. Data Visualization: principles and practice (2ª ed). AK Peters, 2014
 
@@ -16,21 +22,14 @@ Jos    Dirksen;   Learning   Three.js:   The   JavaScript   Library   for   WebG
 biblioteca.ugr.es Jacobo Rodríguez; GLSL Essentials; Pack Bublishing, 2013
 
 Jos   Dirksen;   Three.js   Essential;   recurso   electrónico   en   biblioteca.ugr.es   Isaac   Sukin;  Game
-Development   with   Three.js;  recurso  electrónico  en  biblioteca.ugr.es  Mäntylä  M.,  An  introduction  to
-Solid Modeling, Computer Science Press
+Development with Three.js; recurso electrónico en biblioteca.ugr.es
 
-🔁 Misma obra con edición/año distinto:
+Mäntylä M., An introduction to Solid Modeling, Computer Science Press
+
+✅ Recursos añadidos (7):
 ------------------------------
-Peter   Shirley.   Fundamentals  of  Computer  Graphics;  AK  Peters,  2009  Foley,  et  al.  Computer  Graphics:
-Principles   and   Practice,   Addison-Wesley   1996   (2nd   ed.)   →   Foley,   et   al.   Computer  Graphics:
-Principles and Practice, Addison-Wesley 2013 (3rd ed.)
+Foley, et al. Computer Graphics: Principles and Practice, Addison-Wesley 2013 (3rd ed.)
 
-Mario   Botsch   et   al.   Polygon  Mesh  Processing,  AK  Peters  Ed.  2010  Antony  Unwin  et  al.,  Graphics  of
-large   datasets.   Visualizing   a   million,   Springer   2006   →   Mario   Botsch   et   al.   Polygon   Mesh
-Processing, AK Peters Ed. 2010
-
-✅ Recursos añadidos:
-------------------------------
 Ghayour,   F.,  Cantor,  D.  Real-time  3D  graphics  with  WebGL  2.  Birmingham,  2018.  (2nd  ed.),  disponible
 en línea en biblioteca.ugr.es
 
@@ -41,7 +40,7 @@ Jacobo Rodríguez; GLSL Essentials; Pack Bublishing, 2013
 Jos   Dirksen.   Learn   Three.js:  Program  3D  Animations  and  Visualizations  for  the  Web  with  JavaScript
 and WebGL. Packt Publlishing, 2023 (4th ed.)
 
-Mäntylä M., An introduction to Solid Modeling, Computer Science Press
+Mario Botsch et al. Polygon Mesh Processing, AK Peters Ed. 2010
 
 Steve Marschner, Peter Shirley. Fundamentals of Computer Graphics; AK Peters, 2015 (4th ed.)
 

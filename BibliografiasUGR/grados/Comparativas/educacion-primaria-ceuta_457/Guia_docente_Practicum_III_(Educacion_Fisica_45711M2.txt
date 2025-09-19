@@ -2,11 +2,13 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Díez,   C.   (2011).   Los   pendientes   de   la  maestra.  Barcelona:  Graó  González,  A.  P.  (2001).  Sistema
+metodológico   en   el   proceso   de   enseñanza-aprendizaje.   En   F.   Sepúlveda   y  N.  Rjadell  (coords).
+Didáctica general para Psicopedagogos. Madrid: UNED, pp. 281-315
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 De   Pablos,   J.   (2004).   Métodos   de  enseñanza.  En  F.  Salvador,  J.L.  Rodríguez  y  A.  Bolivar  (dirs).
 Diccionario enciclopédico de Didáctica. Málaga: Aljibel, vol II, pp. 268-283
@@ -30,16 +32,11 @@ Didáctica e Organización Escolar
 Álvarez   Jiménez,   D.   &   Trujillo  Sáez,  F.  (2023).  Transformación  digital  y  plan  digital  de  centro.
 Graó
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Díez,   C.   (2011).   Los   pendientes   de   la  maestra.  Barcelona:  Graó  González,  A.  P.  (2001).  Sistema
-metodológico   en   el   proceso   de   enseñanza-aprendizaje.   En   F.   Sepúlveda   y  N.  Rjadell  (coords).
-Didáctica   general   para  Psicopedagogos.  Madrid:  UNED,  pp.  281-315  →  González,  A.  P.  (2001).  Sistema
-metodológico   en   el   proceso   de   enseñanza-aprendizaje.   En   F.   Sepúlveda   y  N.  Rjadell  (coords).
-Didáctica general para Psicopedagogos. Madrid: UNED, pp. 281-315
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Díez, C. (2011). Los pendientes de la maestra. Barcelona: Graó
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+González, A. P. (2001). Sistema metodológico en el proceso de enseñanza-aprendizaje. En F. Sepúlveda
+y N. Rjadell (coords). Didáctica general para Psicopedagogos. Madrid: UNED, pp. 281-315
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

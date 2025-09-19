@@ -2,11 +2,12 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Química   de   los  Productos  Naturales.  J.  A.  Marco,  Ed.  Síntesis,  2006  Natural  Products  Chemistry,  K.
+Nakanishi et al.,Vol.1-3. Academic Press, 1974
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 Biologically Active Natural Products: Agrochemicals. CUTTER and CUTTER. CRC Press Boca Ratón, 1999
 
@@ -16,16 +17,12 @@ Medicinal Natural Products. P.M. DEWICK, 3ª Edición, Wiley, 2009
 
 Natural Products Chemistry. K.B.G. TORSSELL, John Wiley, 1983
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Química   de   los  Productos  Naturales.  J.  A.  Marco,  Ed.  Síntesis,  2006  Natural  Products  Chemistry,  K.
-Nakanishi   et   al.,Vol.1-3.   Academic  Press,  1974  →  Química  de  los  Productos  Naturales.  J.  A.  Marco,
-Ed. Síntesis, 2006
+Natural Products from Plants. P.B. KAUFMAN et al. CRC Press Boca Ratón, 1999
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Natural Products Chemistry, K. Nakanishi et al.,Vol.1-3. Academic Press, 1974
 
-Natural Products from Plants. P.B. KAUFMAN et al. CRC Press Boca Ratón, 1999
+Química de los Productos Naturales. J. A. Marco, Ed. Síntesis, 2006
 
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

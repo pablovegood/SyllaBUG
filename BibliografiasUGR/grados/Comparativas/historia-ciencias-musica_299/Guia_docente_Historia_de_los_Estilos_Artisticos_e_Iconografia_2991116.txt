@@ -2,11 +2,11 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (28):
 ------------------------------
 AA.VV. Introducción a la Historia del Arte . Barcelona, Barcanova, 1990
 
@@ -62,18 +62,16 @@ REAU, Louis. Iconografía del arte cristiano . Barcelona, Ediciones del Serbal, 
 
 SUMMERSON, John. El lenguaje clásico de la arquitectura . Barcelona, Gustavo Gili, 2001
 
+TATARKIEWICZ,   Wladyslaw.   Historia   de   seis   ideas:   arte,   belleza,   forma,  creatividad,  mímesis,
+experiencia estética . Madrid, Tecnos, 1987
+
 URQUÍZAR   HERRERA,  Antonio-GARCÍA  MELERO,  José  E.  La  construcción  historiográfica  del  arte  .  Madrid:
 Cerasa, 2012
 
 WOLLHEIM, R. El arte y sus objetos . Barcelona, Seix Barral, 1972
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-TATARKIEWICZ,   Wladyslaw.   Historia   de   seis   ideas:   arte,   belleza,   forma,  creatividad,  mímesis,
-experiencia estética . Madrid, Tecnos, 1987
-
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,12 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+ROSAL,   Cesej,   Madrid,   2006   JORDANO   FRAGA,   Jesús:La   protección  del  derecho  a  un  medio  ambiente
+adecuado, Ed. Bosch, Barcelona, 1995
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 ALENZA   GARCIA,   José   Francisco:   Manual   de  Derecho  Ambiental,  Ed.  Universidad  Pública  de  Navarra,
 Pamplona, 2001
@@ -20,7 +21,7 @@ perspectivas, Ed. Dykinson, Madrid, 2011
 
 COBO DEL ROSAL (Coord.), Derecho Penal Español, Parte Especial, 2ª edición, Dykinson, Madrid, 2005
 
-Código de medio ambiente, Ed. Thomson-Aranzadi, Navarra, última edición
+CÓDIGOS Y LEGISLACIÓN: Código de medio ambiente, Ed. Thomson-Aranzadi, Navarra, última edición
 
 DE MIGUEL PERALES, Carlos: Derecho español del medio ambiente, Ed. Civitas, Madrid, 2000
 
@@ -29,8 +30,8 @@ ESTEVE PARDO, José: Derecho del medio ambiente, Ed. Marcial Pons, Madrid, últi
 GEIGEL   LOPE-BELLO,   Nelson:   Derecho   ambiental   internacional,   Ed.   Equinoccio,   Ediciones   de  la
 Universidad Simón Bolívar, Caracas, 1997
 
-JORDANO   FRAGA,  Jesús:  La  protección  del  derecho  a  un  medio  ambiente  adecuado,  Ed.  Bosch,  Barcelona,
-1995
+LOPEZ   BUSTOS,   Francisco   Luis:   La   organización   administrativa   del  medio  ambiente,  Ed.  Civitas,
+Madrid, 1992
 
 LOZANO   CUTANDA,   Blanca   y   ALLI   TURRILLAS,  Juan-Cruz:  Administración  y  Legislación  ambiental,  Ed.
 Dykinson, Madrid, última edición
@@ -66,16 +67,11 @@ Y REBOLLO PUIG: Derecho ambiental de Andalucía, Ed. Tecnos, Madrid, 2005
 VIZCAINO SANCHEZ-RODRIGO, Paz: Introducción al Derecho del Medio Ambiente, Ed. CTO Medicina, Madrid,
 1996
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Civitas,   Madrid,   1992   →   DE   MIGUEL   PERALES,   Carlos:   Derecho   español   del  medio  ambiente,  Ed.
-Civitas, Madrid, 2000
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 CÓDIGOS Y LEGISLACIÓN
 
-LOPEZ   BUSTOS,   Francisco   Luis:   La   organización   administrativa   del  medio  ambiente,  Ed.  Civitas,
-Madrid, 1992
+JORDANO   FRAGA,  Jesús:  La  protección  del  derecho  a  un  medio  ambiente  adecuado,  Ed.  Bosch,  Barcelona,
+1995
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

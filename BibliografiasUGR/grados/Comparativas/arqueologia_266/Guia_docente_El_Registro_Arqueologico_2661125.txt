@@ -2,11 +2,11 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Barker, Ph. 1986: Understanding Archaeological Excavation. Batsford. Londres
 
@@ -30,7 +30,7 @@ Publishing. Stroud
 
 Domingo, I., Burke, H. y Smith, C. 2007. Manual de Campo del Arqueólogo, Barcelona, Ariel
 
-Harris, E. C. 1975. The stratigraphic sequence: a question of time. World
+Harris, E. C. 1975. The stratigraphic sequence: a question of time. World Archaeology, 7, 109-121
 
 Harris, E. C. 1979. The laws of Archaeological Stratigraphy. World Archaeology, 11, 111-117
 
@@ -73,11 +73,7 @@ New Mexico Press
 
 Westman, A. (ed.) 1994: Archaeological Site Manual. Museum of London. Londres
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Archaeology, 7, 109-121
 
@@ -87,4 +83,4 @@ Traxler,   Christoph,   and   Wolfgang   Neubauer.  2008.  The  Harris  matrix  
 archaeological   stratigraphy."   Archäologie   und   Computer-Kulturelles   Erbe   und  Neue  Technologien-
 Workshop . Vol. 13. 2008
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

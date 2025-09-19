@@ -2,12 +2,11 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-VUYK-BOSDRIESZ,   J.B.   (e.a.)   Van   Dale   Pocketwoordenboek   Nederlands-Spaans  &  Spaans-  Nederlands.
-Utrecht/Antwerpen: Van Dale, 2003. (2 vols.)
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 ANÓNIMO. 99 Nederlandse uitspraakoefeningen. Wommelgem: Van In, 2009
 
@@ -20,11 +19,18 @@ spreekvaardigheid Nederlands als tweede taal. Groningen: Wolters-Noordhoff, 1994
 DEVOS,   RITA   y   H.  FRAETERS.  Vanzelfsprekend:  Nederlands  voor  Anderstaligen.  Leuven:  Acco,  1996.  (2
 DVDs)
 
+DICCIONARIOS: Diccionario electrónico: http://www.mijnwoordenboek.nl VUYK-BOSDRIESZ, J.B. (e.a.) Van
+Dale   Pocketwoordenboek   Nederlands-Spaans  &  SpaansNederlands.  Utrecht/Antwerpen:  Van  Dale,  2003.  (2
+vols.)
+
 KOSSMANN-PUTTO   (e.  a.).  Los  Países  Bajos:  Historia  de  los  Países  Bajos  del  Norte  y  del  Sur,  Rekkem:
 Stichting Ons Erfdeel vzw., 1990
 
 LEYSEN,   JAN  y  ANN  DE  SCHRIJVER  (e.  a.)  Riedel  en  ritme:  Vlaamse  Taalriedels  (Cursistenboek).  Leuven
 / Voorburg: Acco, 2005 (+ CD)
+
+Más bibliografía (comentada) en: http://neerlandesparatodos.com/bibliografia-selecta-del-neerlandes-
+comentada/
 
 PETER   SCHOENAERTS   y   HELGA  VAN  LOO  (e.a.).  Thematische  Woordenschat  Nederlands  voor  Anderstaligen.
 Amsterdam/Antwerpen: Intertaal, 2008 (2011III)
@@ -45,20 +51,12 @@ VAN SCHAIJIK, NICOLE. Taalpingpong: Vragen en antwoorden in cruciale praktijksit
 VANDEPUTTE,   O.,   J.A.S.   TROMP   y   J.I.   CADIÑANOS:   El   Neerlandés:   la   lengua   de  20  millones  de
 Neerlandeses y Flamencos, Rekkem: Stichting Ons Erfdeel vzw., 1994
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-DICCIONARIOS
-
 Diccionario electrónico: http://www.mijnwoordenboek.nl
-
-Más bibliografía (comentada) en
 
 http://neerlandesparatodos.com/bibliografia-selecta-del-neerlandes-comentada/
 
 https://context.reverso.net/traduccion/espanol-neerlandes/
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

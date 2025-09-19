@@ -2,22 +2,21 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Sanmartín,   J.   (2004).   El   laberinto   de  la  violencia.  Causa,  tipos  y  efectos.  Barcelona:  Ariel  De
+Diego Vallejo, R. y Guillen, C. (2010). Mediación, proceso, tácticas y técnicas. Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
-ASENCIO   MELLADO,   JOSÉ   MARÍA;  FERNÁNDEZ  LÓPEZ,  MERCEDES  (2017).  “Justicia  penal  y  nuevas  formas  de
-delincuencia” 2017 Editorial Tirant lo Blanch
-
 BACA   BALDOMERO,   E.   ECHEBURÚA   ODRIZOLA,  E.-  TAMARIT  SUMALLA,  J.  Mª.  Manual  de  Victimología.  Edit.
 Tiran lo Blanch. Valencia, 2006
 
-Garrido,   V.,   Stangeland,   P.  y  Redondo,  S.  (2001).  Principios  de  Criminología.  Valencia:  Tirant  lo
-Blanch
+BERISTAIN,   A.   Protagonismo   de   las  víctimas  de  hoy  y  de  mañana.  Edit.  Tirant  lo  Blanch.  Valencia,
+2004
 
-Herrero Herrero, C. (2001). Criminología., Madrid: Dykinson
+Garrido,   V.,   Stangeland,   P.  y  Redondo,  S.  (2001).  Principios  de  Criminología.  Valencia:  Tirant  lo
+Blanch Herrero Herrero, C. (2001). Criminología. , Madrid: Dykinson
 
 MORILLAS   FERNÁNDEZ,   D.-   PATRÓ   HERNÁNDEZ,   R.Mª.  AGULIAR  CÁRCELES,  M.Mª.  Victimología:  un  estudio
 sobre la víctima y los procesos de victimización. Edit. Dykinson. Madrid, (última edición 2014)
@@ -25,23 +24,22 @@ sobre la víctima y los procesos de victimización. Edit. Dykinson. Madrid, (úl
 PEREDA,   BELTRAN,   N.-   TAMARIT   SUMALLA,   J.   Mª.   Victimología   teórica  y  aplicada.  Edit.  Huygens.
 Barcelona, 2013
 
+Pirámide   ASENCIO   MELLADO,   JOSÉ   MARÍA;  FERNÁNDEZ  LÓPEZ,  MERCEDES  (2017).  “Justicia  penal  y  nuevas
+formas de delincuencia” 2017 Editorial Tirant lo Blanch
+
 RUBIO   LARA,   P.   A.   (Coordinador)   y   AAVV.   Victimología   forense  y  Derecho  penal.  Edit.  Editium.
 Valencia, 2010
 
 TAMARIT   SUMALLA,   J.   Mª-   PEREDA,   N.   La   respuesta   de  la  victimología  ante  las  nuevas  formas  de
 victimización. Edit. Edisofer. Madrid, 2014
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Sanmartín,   J.   (2004).   El   laberinto   de  la  violencia.  Causa,  tipos  y  efectos.  Barcelona:  Ariel  De
-Diego   Vallejo,   R.   y   Guillen,   C.   (2010).   Mediación,   proceso,   tácticas   y   técnicas.  Madrid  →
-Sanmartín, J. (2004). El laberinto de la violencia. Causa, tipos y efectos. Barcelona: Ariel
-
-✅ Recursos añadidos:
-------------------------------
-BERISTAIN,   A.   Protagonismo   de   las  víctimas  de  hoy  y  de  mañana.  Edit.  Tirant  lo  Blanch.  Valencia,
-2004
-
 De Diego Vallejo, R. y Guillen, C. (2010). Mediación, proceso, tácticas y técnicas. Madrid. Pirámide
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+Garrido,   V.,   Stangeland,   P.  y  Redondo,  S.  (2001).  Principios  de  Criminología.  Valencia:  Tirant  lo
+Blanch
+
+Sanmartín, J. (2004). El laberinto de la violencia. Causa, tipos y efectos. Barcelona: Ariel
+
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

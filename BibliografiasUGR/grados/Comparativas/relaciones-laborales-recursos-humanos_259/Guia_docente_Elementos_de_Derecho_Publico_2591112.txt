@@ -2,11 +2,11 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 ALZAGA VILLAAMIL, O.; GUTIÉRREZ GUTIÉRREZ, I.; RODRÍGUEZ ZAPATA, J.: Derecho Político Español (según
 la constitución de 1978), Centro de Estudios Ramón Areces, Madrid, últ. ed
@@ -17,22 +17,6 @@ APARICIO   PÉREZ,  M.  A.  (dir.)  y  otros:  Temas  de  Derecho  Constituciona
 ARANA   GARCÍA,   E.,   CASTILLO  BLANCO,  F.,  TORRES  LÓPEZ,  M.A.  y  VILLALBA  PÉREZ,  F.  (Dirs.),  Conceptos
 para el estudio del Derecho Administrativo I en el Grado, Tecnos, Madrid, última edición
 
-COSCULLUELA MONTANER, L.: Manual de Derecho Administrativo, Editorial Civitas, Madrid, últ. ed
-
-MUÑOZ MACHADO, S.: Tratado de Derecho Administrativo y Derecho Público General III, Madrid, 2008
-
-PARADA   VÁZQUEZ,  R.:  Derecho  Administrativo,  Tomo  I  (Parte  General).  Editorial  Marcial  Pons,  Madrid,
-últ. ed
-
-TORRES   DEL  MORAL,  A.:  Principios  de  Derecho  Constitucional  Español,  Servicio  de  Publicaciones  de  la
-Facultad de Derecho de la Universidad Complutense, Madrid, últ. ed
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 BALAGUER,   F.   (Coord.);   CÁMARA,   G.;   BALAGUER,   M.   L.;  y  MONTILLA,  J.A.:  Introducción  al  Derecho
 Constitucional, Tecnos, Madrid, últ. ed
 
@@ -44,6 +28,8 @@ Tecnos, Madrid, últ. ed
 
 BERMEJO VERA, J. y otros: Derecho Administrativo. Parte General, Civitas, Madrid, últ. ed
 
+COSCULLUELA MONTANER, L.: Manual de Derecho Administrativo, Editorial Civitas, Madrid, últ. ed
+
 ENTRENA CUESTA, R.: Curso de Derecho Administrativo, volumen I y II, Tecnos, Madrid, últ. ed
 
 GARCÍA DE ENTERRÍA, E. y FERNÁNDEZ RODRÍGUEZ, T.R.: Curso de Derecho Administrativo II, 11ª Civitas,
@@ -52,6 +38,11 @@ Madrid, últ. ed
 MARTÍN REBOLLO, L.: Leyes Administrativas . Aranzadi, Pamplona, últ. ed
 
 MOLAS, I.: Derecho Constitucional, Tecnos, Madrid, últ. ed
+
+MUÑOZ MACHADO, S.: Tratado de Derecho Administrativo y Derecho Público General III, Madrid, 2008
+
+PARADA   VÁZQUEZ,  R.:  Derecho  Administrativo,  Tomo  I  (Parte  General).  Editorial  Marcial  Pons,  Madrid,
+últ. ed
 
 PAREJO ALFONSO, L.: Lecciones de Derecho Administrativo, Madrid, últ. ed
 
@@ -65,6 +56,13 @@ SANTAMARÍA PASTOR, J.A.: Principios de Derecho Administrativo, Iustel, Madrid, 
 
 SÁNCHEZ MORÓN, M.: Derecho Administrativo, Tecnos, Madrid, últ. ed
 
+TORRES   DEL  MORAL,  A.:  Principios  de  Derecho  Constitucional  Español,  Servicio  de  Publicaciones  de  la
+Facultad de Derecho de la Universidad Complutense, Madrid, últ. ed
+
 ÁLVAREZ CONDE, E.: Curso de Derecho Constitucional, tecnos, Madrid, últ. ed
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

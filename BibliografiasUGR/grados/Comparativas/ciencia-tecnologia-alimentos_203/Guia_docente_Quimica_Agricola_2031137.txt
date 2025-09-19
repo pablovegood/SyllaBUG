@@ -2,15 +2,19 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Aspectos Científicos, Jurídicos y Éticos de los Transgénicos. Univ. Pont. de Comilllas Morgan R.P.C.
+(1997).   Erosión   y  Conservación  del  Suelo.  Mundi-Prensa  Plaster  E.J.  (2000).  La  Ciencia  del  Suelo  y
+su Manejo. Paraninfo
 
-📚 Recursos sin cambios:
+FAO   (2012).   El   Estado   de   los   Recursos   de   Tierras  y  Aguas  del  Mundo  para  la  Alimentación  y  la
+Agricultura.   La   gestión   de  los  Sistemas  en  Situación  de  Riesgo.  Mundi-Prensa  Fenoll  C.,  González-
+Candelas   F.   (2010).   Transgénicos.   CSIC-Press   Gafo   J.,   lacadena   J.R.,  Montoliu  L.,  Fresno  A.,
+Barahona E., Torralba F., Gracia D. (2001)
+
+📚 Recursos sin cambios (29):
 ------------------------------
-Adriano   D.C.   (2001).  Trace  Elements  in  Terrestrial  Environments.  Biochemistry,  Bioavailability  and
-Risk of Metals. Springer
-
 Auld S.J.M., Ker D.R.E. (2007). Practical Agricultural Chemistry. Biotech Books
 
 Baird C. (2001). Química Ambiental. Reverté
@@ -51,6 +55,9 @@ Essential of Medical Geology. Elsevier Academic Press
 
 Sposito B.G. (2008). The Chemistry of Soils. Oxford University Press
 
+Springer    Adriano    D.C.    (2001).    Trace   Elements   in   Terrestrial   Environments.   Biochemistry,
+Bioavailability and Risk of Metals. Springer
+
 Urbano-Terrón P. (2000). Aplicaciones Fitotécnicas. Mundi-Prensa
 
 Urbano-Terrón P. (2001). Tratado de Fitotecnia General. Mundi-Prensa
@@ -74,26 +81,18 @@ Yagüe-González   J.I.,   Yagüe  Martínez  de  Tejada  A.  (2011).  Guía  Pr
 
 Yin X., Yuan L. (2012). Phytoremediation and Biofortification: Two Sides of One Coin. Springer
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Aspectos Científicos, Jurídicos y Éticos de los Transgénicos. Univ. Pont. de Comilllas Morgan R.P.C.
-(1997).   Erosión   y  Conservación  del  Suelo.  Mundi-Prensa  Plaster  E.J.  (2000).  La  Ciencia  del  Suelo  y
-su Manejo. Paraninfo  →  Morgan R.P.C. (1997). Erosión y Conservación del Suelo. Mundi-Prensa
-
-FAO   (2012).   El   Estado   de   los   Recursos   de   Tierras  y  Aguas  del  Mundo  para  la  Alimentación  y  la
-Agricultura.   La   gestión   de  los  Sistemas  en  Situación  de  Riesgo.  Mundi-Prensa  Fenoll  C.,  González-
-Candelas   F.   (2010).   Transgénicos.   CSIC-Press   Gafo   J.,   lacadena   J.R.,  Montoliu  L.,  Fresno  A.,
-Barahona   E.,   Torralba  F.,  Gracia  D.  (2001)  →  Fenoll  C.,  González-Candelas  F.  (2010).  Transgénicos.
-CSIC-Press
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 FAO   (2012).   El   Estado   de   los   Recursos   de   Tierras  y  Aguas  del  Mundo  para  la  Alimentación  y  la
 Agricultura. La gestión de los Sistemas en Situación de Riesgo. Mundi-Prensa
 
+Fenoll C., González-Candelas F. (2010). Transgénicos. CSIC-Press
+
 Gafo J., lacadena J.R., Montoliu L., Fresno A., Barahona E., Torralba F., Gracia D. (2001). Aspectos
 Científicos, Jurídicos y Éticos de los Transgénicos. Univ. Pont. de Comilllas
 
+Morgan R.P.C. (1997). Erosión y Conservación del Suelo. Mundi-Prensa
+
 Plaster E.J. (2000). La Ciencia del Suelo y su Manejo. Paraninfo
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

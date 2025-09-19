@@ -2,30 +2,31 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
+------------------------------
+Python   for   Everyone.   C.   Horstmann,   R  Necsaise  en  Wiley  Langtangen,  H.P.,  A  Primer  on  Scientific
+Programming with Python(3ª ed), Springer, 2012
+
+Python   para  todos.  Raúl  Gonzalez  Duque.  Creative  Commons  Atribución-NoComercial  Andrés  Marzal  Varó,
+Isabel   Gracia   Luengo,   Pedro   García   Sevilla.   Introducción   a   la   Programación   con   Python   3.
+Publicacions de la Universitat Jaume I, 2014
+
+http://repositori.uji.es/xmlui/bitstream/10234/102653/1/s93.pdf Python para informáticos. Explorando
+la   información.   Charles   Severance   Curso   de   Python   para  principiantes.  Eugenia  Bahit.  Creative
+Commons AtribuciónNoComercial
+
+✅ Recursos añadidos (3):
 ------------------------------
 Andrés   Marzal   Varó,  Isabel  Gracia  Luengo,  Pedro  García  Sevilla.  Introducción  a  la  Programación  con
 Python        3.        Publicacions        de        la        Universitat       Jaume       I,       2014.
 http://repositori.uji.es/xmlui/bitstream/10234/102653/1/s93.pdf
 
-Langtangen, H.P., A Primer on Scientific Programming with Python(3ª ed), Springer, 2012
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Curso de Python para principiantes. Eugenia Bahit. Creative Commons Atribución-NoComercial
 
 Python for Everyone. C. Horstmann, R Necsaise en Wiley
 
-Python para informáticos. Explorando la información. Charles Severance
-
-Python para todos. Raúl Gonzalez Duque. Creative Commons Atribución-NoComercial
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

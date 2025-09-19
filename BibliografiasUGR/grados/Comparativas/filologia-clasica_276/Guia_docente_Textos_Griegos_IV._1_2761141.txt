@@ -2,8 +2,10 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (13):
 ------------------------------
+ALSINA CLOTA, J., Literatura griega, Barcelona, ed. Ariel, 1967
+
 BOWRA, C.M., Introducción a la literatura griega, Madrid, Ed. Guadarrama, 1968
 
 DEFORGE, B., Une vie avec Eschyle. Vérité des mythes, Paris, Les Belles Lettres, 2010
@@ -28,40 +30,32 @@ ROSSI, L.E., Letteratura Greca, Firenze, Le Monnier, 1995
 
 SCODEL, R., An Introduction to Greek Tragedy, Cambridge/New York, Cambridge University Press, 2010
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
+ALSINA CLOTA, J., Tragedia, religión y mito entre los griegos, Barcelona, ed. Labor, 1973
+
 Adrados,   F.R.   (1978),   Fiesta,   Tragedia  y  Comedia.  Sobre  los  orígenes  griegos  del  teatro,  Madrid,
 Aguilar
-
-Alsina Clota, J. (1973), Tragedia, religión y mito entre los griegos, Barcelona, Labor
 
 Easterling, P.E. (ed.) (1997), The Cambridge Companion to Greek Tragedy, Cambridge, CUP
 
 Fuentes   González,   P.P.   (2007),   “Los   elementos   estructurales   del  drama  griego  antiguo:  forma  y
 función”, Florentia Iliberritana 18, 27-67
 
-Goldhill, S. (2012), Sophocles and the Language of Tragedy, New York, OUP
+GOLDHILL, S., Sophocles and the Language of Tragedy, New York, Oxford University Press, 2012
 
-Lesky, A. (1966), La tragedia griega, Barcelona, Labor
+LESKY, A., La Tragedia Griega, Barcelona, ed. Labor, 1966
+
+Lucas De Dios, J.Mª. (1982), La estructura de la tragedia de Sófocles, Madrid, CSIC
+
+MURRAY, G., Eurípides y su época, México, F.C.E., 1949
 
 Markantonatos, A. (ed.) (2012), Bril’s Companion to Sophocles, Leiden – Boston, Brill
 
-Murray, G. (1949), Eurípides y su época, México, FCE
+QUIJADA   SAGREDO,   M.   (ed.),  Estudios  sobre  Tragedia  Griega:  Eurípides,  el  teatro  griego  de  finales
+del siglo V a. C. y su influencia posterior, Madrid, Ediciones Clásicas, 2011
 
-Quijada, M. (ed.) (2011), Estudios sobre Tragedia Griega: Eurípides, el teatro griego de finales del
-siglo V a. C. y su influencia posterior, Madrid, Ediciones Clásicas
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-ALSINA   CLOTA,   J.,  Literatura  griega,  Barcelona,  ed.  Ariel,  1967  →  Mito  y  Tragedia  Alsina  Clota,  J.
-(1973),   Tragedia,   religión   y  mito  entre  los  griegos,  Barcelona,  Labor.  Avezzú,  G.  (2003),  Il  mito
-sulla   scena,   Venezia,   Marsilio.   Buxton,   R.   (2013),   Myths  and  Tragedies  in  their  Ancient  Greek
-Contexts,   Oxford,   OUP.   López   Férez,   J.A.   (ed.)  (2002),  Mitos  en  la  literatura  griega  arcaica  y
-clásica, Madrid, Ediciones Clásicas. Vernant, J.-P. – Vidal-Naquet, P. (2002), Mito y tragedia en la
-Grecia   antigua,   2  vols.,  Barcelona,  Paidós.  Whitman,  C.H.  (1971),  Euripides  and  the  Full  Circle  of
-Myth, Cambridge Mass., Harvard University Press
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (52):
 ------------------------------
 Adrados, F.R. (1992), Nueva sintaxis del griego antiguo, Madrid, Gredos
 
@@ -146,8 +140,6 @@ grec ancien, 2ª ed. Paris, Klincksieck
 Lourenço,   L.   (2011),   The  Lyric  Metres  of  Euripidean  Drama,  Coimbra,  Centro  de  Estudos  Clássicos  e
 Humanísticos
 
-Lucas De Dios, J.Mª. (1982), La estructura de la tragedia de Sófocles, Madrid, CSIC
-
 López   Férez,   J.A.  (ed.)  (2002),  Mitos  en  la  literatura  griega  arcaica  y  clásica,  Madrid,  Ediciones
 Clásicas
 
@@ -164,6 +156,13 @@ McDonald,   M.   –   Walton,   J.M.   (ed.)   (2007),   The  Cambridge  Compan
 Cambridge, CUP
 
 McLeish, K. (2003), A Guide to Greek Theatre and Drama, London, Bloomsbury
+
+Mito   y   Tragedia   Alsina   Clota,  J.  (1973),  Tragedia,  religión  y  mito  entre  los  griegos,  Barcelona,
+Labor.   Avezzú,   G.   (2003),   Il   mito   sulla  scena,  Venezia,  Marsilio.  Buxton,  R.  (2013),  Myths  and
+Tragedies   in  their  Ancient  Greek  Contexts,  Oxford,  OUP.  López  Férez,  J.A.  (ed.)  (2002),  Mitos  en  la
+literatura   griega   arcaica  y  clásica,  Madrid,  Ediciones  Clásicas.  Vernant,  J.-P.  –  Vidal-Naquet,  P.
+(2002),   Mito   y   tragedia   en   la  Grecia  antigua,  2  vols.,  Barcelona,  Paidós.  Whitman,  C.H.  (1971),
+Euripides and the Full Circle of Myth, Cambridge Mass., Harvard University Press
 
 Moorhouse, A.C. (1982), The Syntax of Sophocles, Leiden, Brill
 

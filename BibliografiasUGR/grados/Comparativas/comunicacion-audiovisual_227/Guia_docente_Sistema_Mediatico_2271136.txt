@@ -2,21 +2,29 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Project for Excellence in Journalism (2009). "The State of the News Media 2009". PEJ
 
-📚 Recursos sin cambios:
+Publicado en internet: http://www.stateofthenewsmedia.org/2005/index.asp
+
+Reig,   R.   &   Langa   C.   La   Comunicación   en   Andalucía.  Historia,  estructura  y  nuevas  tecnologías.
+Sevilla:   Centro   de   Estudios   Andaluces,  2011  Scolari,  Carlos  A.  La  guerra  de  las  plataformas.  Del
+papiro al metaverso. Barcelona: Nuevos Cuadernos Anagrama, 2022
+
+📚 Recursos sin cambios (49):
 ------------------------------
 APM (2008). "Informe anual de la profesión periodística 2008". APM, Madrid
 
 Academia de las Artes y Ciencias de la Televisión. La industria audiovisual en España. Escenarios de
 un futuro digital. Madrid: Academia de la TV, 2010
 
+Adorno, T.W. (1973). "Crítica cultural y sociedad". Ariel
+
 Aede (2008). "Libro Blanco de la Prensa Diaria". Madrid : AEDE
 
 Alberich,   J.   &   Roig,   A.   (2005).   “Comunicación  audiovisual  digital.  Nuevos  medios,  nuevos  usos,
-nuevas formas”
+nuevas formas”. Barcelona: UOC
 
 Arnanz,   Carlos  M.  Negocios  de  televisión.  Transformación  del  valor  en  el  modelo  digital.  Barcelona,
 Gedisa, 2002
@@ -53,6 +61,8 @@ Colombo,   Furio   (1998).   "Últimas   noticias   sobre  periodismo.  Manual  
 Barcelona : Anagrama
 
 Diezhandio, Mª Pilar. (2007). "Periodismo y Poder". Pearson Educación. Madrid
+
+Egeda: Panorama audiovisual. Madrid, Egeda, edición anual
 
 Fundación   Telefónica   (2006:   "Medios   de   comunicación.  Tendencias  2006.  El  año  de  la  televisión".
 Fundación Telefónica. Madrid
@@ -94,9 +104,6 @@ Barcelona: Pablo del Río
 
 Randall, David. (1999). "El periodista universal". Madrid: Siglo Veintiuno de España Editores
 
-Reig,   R.   &   Langa   C.   La   Comunicación   en   Andalucía.  Historia,  estructura  y  nuevas  tecnologías.
-Sevilla: Centro de Estudios Andaluces, 2011
-
 Reig,   R.   (dir)   &  Langa  Nuño,  C.  (coord.)  (2011):  La  comunicación  en  Andalucía.  Sevilla:  Fundación
 Centro de Estudios Andaluces
 
@@ -105,10 +112,11 @@ Reig, Ramón (1998). "Medios de comunicación y poder en España". Barcelona: Pa
 Reig,   Ramón:   Los   dueños   del   periodismo.   Claves  de  la  estructura  mediática  mundial  y  de  España.
 Madrid: Gedisa, 2011
 
-Schiller, Herbert I. (1986). "Información y economía en tiempos de crisis". Fundesco/Tecnos. Madrid
+Reuters   Institute   for   the   Study   of  Journalism  (2024).  "Digital  News  Report  2024".  University  of
+Oxford.        https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-trends-and-
+predictions
 
-Scolari,   Carlos   A.   La   guerra   de   las   plataformas.   Del   papiro  al  metaverso.  Barcelona:  Nuevos
-Cuadernos Anagrama, 2022
+Schiller, Herbert I. (1986). "Información y economía en tiempos de crisis". Fundesco/Tecnos. Madrid
 
 Thompson,   John   B.   (1998).   "Los  media  y  la  modernidad.  Una  teoría  de  los  medios  de  comunicación".
 Barcelona: Paidós Comunicación
@@ -116,7 +124,15 @@ Barcelona: Paidós Comunicación
 Trejo   Delabre,  Raúl  (2006).  "Viviendo  en  El  Aleph.  La  sociedad  de  la  información  y  sus  laberintos".
 Barcelona: Gedisa Editorial
 
+Tubella   Casdevall,   I.   &   Alberich,   J:   Comprender   los   medios  en  la  sociedad  de  la  información.
+Barcelona: UOC, 2012
+
 Unesco (2000). Rapport Mondial sur la Communication et l'Information 1999-2000. París: Unesco
+
+University    of   Oxford.   https://reutersinstitute.politics.ox.ac.uk/journalism-media-andtechnology-
+trends-and-predictions   Rodríguez   García,   José   Antonio   (1998).   "El   control   de   los   medios  de
+comunicación.   La   participación   de   los   grupos   ideológicos   en   el   control   de   los   medios   de
+comunicación". Madrid: Dykinson
 
 Vidal   Beneyto,  José,  Coordinador  (2002).  "La  ventana  global.  Ciberespacio,  esfera  pública  mundial  y
 universo mediático". Madrid: Taurus
@@ -125,36 +141,23 @@ Wolf, Mauro (1987). "La investigación en la comunicación de masas". Paidós Ib
 
 Wolton, Dominique (2006). "Salvemos la comunicación". Barcelona: Gedisa Editorial
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Project   for   Excellence  in  Journalism  (2009).  "The  State  of  the  News  Media  2009".  PEJ  →  Project  for
-Excellence   in   Journalism   (2009).   "The  State  of  the  News  Media  2009".  PEJ.  Publicado  en  internet:
-http://www.stateofthenewsmedia.org/2005/index.asp
-
-Tubella   Casdevall,   I.   &   Alberich,   J:   Comprender   los   medios  en  la  sociedad  de  la  información.
-Barcelona:   UOC,   2012   Adorno,   T.W.   (1973).   "Crítica   cultural  y  sociedad".  Ariel  →  Adorno,  T.W.
-(1973). "Crítica cultural y sociedad". Ariel
-
-Reuters Institute for the Study of Journalism (2024). "Digital News Report 2024". technology-trends-
-and-predictions Rodríguez García, José Antonio (1998). "El control de los medios de comunicación. La
-participación   de   los   grupos   ideológicos   en   el   control  de  los  medios  de  comunicación".  Madrid:
-Dykinson   →   Reuters   Institute   for   the   Study   of   Journalism  (2024).  "Digital  News  Report  2024".
-University   of   Oxford.   https://reutersinstitute.politics.ox.ac.uk/journalism-media-and-technology-
-trends-and-predictions
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Barcelona: UOC
 
 Díaz   Nosty,   Bernardo.   Periodistas   en  el  punto  de  mira:  Medio  siglo  de  secuestros  y  asesinatos  en
 América Latina . Sevilla: Renacimiento Editorial, 2021
 
-Egeda: Panorama audiovisual. Madrid, Egeda, edición anual
+Project   for   Excellence  in  Journalism  (2009).  "The  State  of  the  News  Media  2009".  PEJ.  Publicado  en
+internet: http://www.stateofthenewsmedia.org/2005/index.asp
 
-Rodríguez   García,   José  Antonio  (1998).  "El  control  de  los  medios  de  comunicación.  La  participación
-de los grupos ideológicos en el control de los medios de comunicación". Madrid: Dykinson
+Project   for   Excellence  in  Journalism  (2009).  "The  State  of  the  News  Media  2009".  PEJ.  Publicado  en
+internet: http://www.stateofthenewsmedia.org/2005/index.asp
 
-Tubella   Casdevall,   I.   &   Alberich,   J:   Comprender   los   medios  en  la  sociedad  de  la  información.
-Barcelona: UOC, 2012
+Reig,   R.   &   Langa   C.   La   Comunicación   en   Andalucía.  Historia,  estructura  y  nuevas  tecnologías.
+Sevilla: Centro de Estudios Andaluces, 2011
+
+Scolari,   Carlos   A.   La   guerra   de   las   plataformas.   Del   papiro  al  metaverso.  Barcelona:  Nuevos
+Cuadernos Anagrama, 2022
 
 📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

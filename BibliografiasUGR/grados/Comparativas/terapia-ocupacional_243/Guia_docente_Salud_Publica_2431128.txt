@@ -2,11 +2,12 @@
 Grado: terapia-ocupacional (243)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Martínez   González  MA.  Conceptos  de  salud  pública  y  estrategias  preventivas.  Un  manual  para  ciencias
+de la salud. 2a ed. Elsevier. Barcelona, 2018
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Bes-Rastrollo,   Maira.  "Conceptos  de  salud  pública  y  estrategias  preventivas  un  manual  para  ciencias
 de la salud". Elsevier, 2013
@@ -22,16 +23,13 @@ y Salud Pública (12a ed.) Barcelona. Elsevier-Masson, 2015
 
 Piédrola Gil. "Medicina Preventiva y Salud Pública". Elsevier Masson, 2015
 
-Willard & Spackman. "Terapia Ocupacional". Editorial Medica Panamericana
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Martínez   González  MA.  Conceptos  de  salud  pública  y  estrategias  preventivas.  Un  manual  para  ciencias
-de   la   salud.  2a  ed.  Elsevier.  Barcelona,  2018  →  Martínez  González  MA.  Conceptos  de  salud  pública  y
-estrategias preventivas. Un manual para ciencias de la salud. 3a ed. Elsevier. Barcelona, 2023
-
-✅ Recursos añadidos:
-------------------------------
 Scaffa ME, Reitz SM. Occupational Therapy in Community-Based Practice Settings. F.A. Davis, 2020
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+Willard & Spackman. "Terapia Ocupacional". Editorial Medica Panamericana
+
+✅ Recursos añadidos (1):
+------------------------------
+Martínez   González  MA.  Conceptos  de  salud  pública  y  estrategias  preventivas.  Un  manual  para  ciencias
+de la salud. 3a ed. Elsevier. Barcelona, 2023
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

@@ -2,11 +2,29 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+BADAL, E.; BERNABEU, J.; MARTÍ, B. (eds.) (2002): El paisaje en el neolítico mediterráneo/ Neolithic
+Landscapes of the Mediterranean. Saguntum, Extra 5, Valencia BERNABEU, J., OROZCO, T. (eds.) (1999):
+Actes   del  II  Congrés  del  Neolític  a  la  Península  Ibérica  (Universitat  de  València,  1999).  Saguntum,
+Papeles del Laboratorio de Arqueología de Valencia Extra 2
 
-📚 Recursos sin cambios:
+BOSCH, J., MOLIST, M. (Orgs.) (1996): I Congrés del Neolític a la Península Ibérica
+
+CONLIN, E.; MARTÍNEZ SÁNCHEZ, R.; MORGADO, A. (2020): Hacia una nueva definición del Neolítico Medio
+en   el   sur   de   la   península   Ibérica:   Grañena   Baja,  Jaén.  Trabajos  de  Prehistoria  77(1):  30-47.
+https://doi.org/10.3989/tp.2020.12245   CONTRERAS   CORTÉS,   F.;   LIZCANO  PRESTEL,  R.;  AFONSO  MARRERO,
+J.A.;   PÉREZ   BAREAS,   C.;   CÁMARA   SERRANO,   J.A.   (1999):   Clasificación  cultural,  periodización  y
+problemas de compartimentación en el Neolítico de la Alta Andalucía. Saguntum, nº Extra 2: 485-492
+
+Formació   e   implantació   de   les   comunitats   agrícoles  (Gavà-Bellaterra,  1995).  Actes.  Vol.  1  &  2,
+Rubricatum 1:1-2
+
+NAVARRETE ENCISO, S. (1976): La Cultura de las Cuevas con cerámica decorada en PELLICER CATALÁN, M.,
+(1995): Las culturas del neolítico-calcolitico en Andalucía Oriental. Espacio, Tiempo y Forma. Serie
+I, Nueva Época. Prehistoria y Arqueología 8, 81-134
+
+📚 Recursos sin cambios (41):
 ------------------------------
 ACOSTA   MARTÍNEZ,   P.   (1995):   Las   culturas   del   Neolítico  y  Calcolítico  en  Andalucía  Occidental.
 Espacio, Tiempo y Forma. Serie I, Nueva Época. Prehistoria y Arqueología 8: 33-80
@@ -33,6 +51,12 @@ Xarxes   al   Neolític-   Circulació   i   intercanvi   de   matèries,   prod
 occidental   (VII-III  mil.lenni  aC).  Gavà/Bellaterra  2-4/2/201,  Rubricatum.  Revista  del  Museu  de  Gavà
 5, Gavà
 
+CARRASCO   RUS,   J.,  MORGADO  RODRÍGUEZ,  A.,  MARTÍNEZ  SEVILLA,  F.  (2016):  Implantación  y  desarrollo  de
+los   grupos   neolíticos   del   sur   de   la   península   ibérica.   Reflexiones   sobre   algunos   modelos
+interpretativos   desde  los  inicios  del  siglo  XXI.  Del  neolític  a  l’edat  del  bronze  en  el  Mediterrani
+occidental.   Estudis   en  homenatge  a  Bernat  Martí  Oliver,  Servicio  de  Investigación  Prehistórica  del
+Museo de Prehistoria de Valencia, Valencia, pp. 159-180
+
 CARRIÓN,   J.S.   (coord.)   (2010):   Paleoflora   y   paleovegetación   de   la   Península  Ibérica  e  Islas
 Baleares: Plioceno-Cuaternario. Universidad de Murcia, Murcia
 
@@ -56,7 +80,8 @@ y la innovación. Menga, 4: 103-129
 CÁMARA SERRANO, J.A.; AFONSO MARRERO, J.A.; MOLINA GONZÁLEZ, F. (2016): La ocupación prehistórica de
 las   Peñas   de  los  Gitanos  (Montefrío,  Granada).  En  R.  Pedregosa  (coord.).  Arqueología  e  historia  de
 un   paisaje   singular:   La   Peña   de   los   Gitanos,   Montefrío   (Granada).   Granada:  Ayuntamiento  de
-Montefrío. pp. 17-121
+Montefrío.   pp.   17-121   CARRASCO   RUS,   J.,   MORGADO   RODRÍGUEZ,   A.,   MARTÍNEZ  SEVILLA,  F.  (2016):
+Implantación y desarrollo de los grupos neolíticos del sur de la península ibérica
 
 DEMOULE, J.-P. (2009): La révolution néolithique dans le monde. CNRS, Paris
 
@@ -116,12 +141,6 @@ contexto europeo Cátedra, Madrid, pp. 405-462
 MONTERO   RUIZ,   i.;   RUIZ   TABOADA,  a.  (1996):  Enterramiento  colectivo  y  metalurgia  en  el  yacimiento
 neolítico de Cerro Virtud (Cueva de Almanzora, Almería). Trabajos de Prehistoria 53(2): 55-75
 
-NAVARRETE   ENCISO,   S.  (1976):  La  Cultura  de  las  Cuevas  con  cerámica  decorada  en  Andalucía  Oriental.
-Universidad de Granada, Granada
-
-PELLICER CATALÁN, M., (1995): Las culturas del neolítico-calcolitico en Andalucía Oriental. Espacio,
-Tiempo y Forma. Serie I, Nueva Época. Prehistoria y Arqueología 8, 81-134
-
 PELLICER   CATALÁN,   M.,  ACOSTA  MARTÍNEZ,  P.  (1990):  La  Cueva  de  la  Dehesilla  (Jerez  de  la  Frontera):
 las   primeras   civilizaciones   productoras   en  Andalucía  Occidental.  CSIC,  Confederación  Española  de
 Centros de Estudios Locales, Centro de Estudios Históricos Jerezanos. Jerez de la Frontera
@@ -147,46 +166,33 @@ Península Ibérica y su contexto europeo. Cátedra, Madrid
 ZILHÃO,   J.   (2014):  Early  prehistoric  navigation  in  the  western  Mediterranean:  implications  for  the
 Neolithic transition in Iberia and the Magherb. Eurasian Prehistory 11, 185-200
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-BOSCH,   J.,   MOLIST,   M.   (Orgs.)  (1996):  I  Congrés  del  Neolític  a  la  Península  Ibérica  →  BOSCH,  J.,
-MOLIST,   M.  (Orgs.)  (1996):  I  Congrés  del  Neolític  a  la  Península  Ibérica.  Formació  e  implantació  de
-les comunitats agrícoles (Gavà-Bellaterra, 1995). Actes. Vol. 1 & 2, Rubricatum 1:1-2
-
 BADAL, E.; BERNABEU, J.; MARTÍ, B. (eds.) (2002): El paisaje en el neolítico mediterráneo/ Neolithic
-Landscapes of the Mediterranean. Saguntum, Extra 5, Valencia BERNABEU, J., OROZCO, T. (eds.) (1999):
-Actes   del  II  Congrés  del  Neolític  a  la  Península  Ibérica  (Universitat  de  València,  1999).  Saguntum,
-Papeles   del   Laboratorio   de   Arqueología   de  Valencia  Extra  2  →  BADAL,  E.;  BERNABEU,  J.;  MARTÍ,  B.
-(eds.)   (2002):   El  paisaje  en  el  neolítico  mediterráneo/  Neolithic  Landscapes  of  the  Mediterranean.
-Saguntum, Extra 5, Valencia
+Landscapes of the Mediterranean. Saguntum, Extra 5, Valencia
 
-Formació   e   implantació   de   les   comunitats   agrícoles  (Gavà-Bellaterra,  1995).  Actes.  Vol.  1  &  2,
-Rubricatum   1:1-2   →   BOSCH,   J.,   MOLIST,   M.  (Orgs.)  (1996):  I  Congrés  del  Neolític  a  la  Península
-Ibérica. Formació e implantació de les comunitats agrícoles (Gavà-Bellaterra, 1995). Actes. Vol. 1 &
-2, Rubricatum 1:1-2
-
-CONLIN, E.; MARTÍNEZ SÁNCHEZ, R.; MORGADO, A. (2020): Hacia una nueva definición del Neolítico Medio
-en   el   sur   de   la  península  Ibérica:  Grañena  Baja,  Jaén.  Trabajos  de  CONTRERAS  CORTÉS,  F.;  LIZCANO
-PRESTEL,   R.;   AFONSO   MARRERO,   J.A.;   PÉREZ  BAREAS,  C.;  CÁMARA  SERRANO,  J.A.  (1999):  Clasificación
-cultural,   periodización   y   problemas   de   compartimentación   en  el  Neolítico  de  la  Alta  Andalucía.
-Saguntum,   nº   Extra   2:   485-492  →  CONTRERAS  CORTÉS,  F.;  LIZCANO  PRESTEL,  R.;  AFONSO  MARRERO,  J.A.;
-PÉREZ   BAREAS,  C.;  CÁMARA  SERRANO,  J.A.  (1999):  Clasificación  cultural,  periodización  y  problemas  de
-compartimentación en el Neolítico de la Alta Andalucía. Saguntum, nº Extra 2: 485-492
-
-✅ Recursos añadidos:
-------------------------------
 BERNABEU,   J.,   OROZCO,   T.   (eds.)  (1999):  Actes  del  II  Congrés  del  Neolític  a  la  Península  Ibérica
 (Universitat   de  València,  1999).  Saguntum,  Papeles  del  Laboratorio  de  Arqueología  de  Valencia  Extra
 2
 
-CARRASCO   RUS,   J.,  MORGADO  RODRÍGUEZ,  A.,  MARTÍNEZ  SEVILLA,  F.  (2016):  Implantación  y  desarrollo  de
-los   grupos   neolíticos   del   sur   de   la   península   ibérica.   Reflexiones   sobre   algunos   modelos
-interpretativos   desde  los  inicios  del  siglo  XXI.  Del  neolític  a  l’edat  del  bronze  en  el  Mediterrani
-occidental.   Estudis   en  homenatge  a  Bernat  Martí  Oliver,  Servicio  de  Investigación  Prehistórica  del
-Museo de Prehistoria de Valencia, Valencia, pp. 159-180
+BOSCH,   J.,   MOLIST,   M.   (Orgs.)   (1996):  I  Congrés  del  Neolític  a  la  Península  Ibérica.  Formació  e
+implantació de les comunitats agrícoles (Gavà-Bellaterra, 1995). Actes. Vol. 1 & 2, Rubricatum 1:1-2
+
+BOSCH,   J.,   MOLIST,   M.   (Orgs.)   (1996):  I  Congrés  del  Neolític  a  la  Península  Ibérica.  Formació  e
+implantació de les comunitats agrícoles (Gavà-Bellaterra, 1995). Actes. Vol. 1 & 2, Rubricatum 1:1-2
 
 CONLIN, E.; MARTÍNEZ SÁNCHEZ, R.; MORGADO, A. (2020): Hacia una nueva definición del Neolítico Medio
 en   el   sur   de   la   península   Ibérica:   Grañena   Baja,  Jaén.  Trabajos  de  Prehistoria  77(1):  30-47.
 https://doi.org/10.3989/tp.2020.12245
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+CONTRERAS   CORTÉS,   F.;  LIZCANO  PRESTEL,  R.;  AFONSO  MARRERO,  J.A.;  PÉREZ  BAREAS,  C.;  CÁMARA  SERRANO,
+J.A.   (1999):  Clasificación  cultural,  periodización  y  problemas  de  compartimentación  en  el  Neolítico
+de la Alta Andalucía. Saguntum, nº Extra 2: 485-492
+
+NAVARRETE   ENCISO,   S.  (1976):  La  Cultura  de  las  Cuevas  con  cerámica  decorada  en  Andalucía  Oriental.
+Universidad de Granada, Granada
+
+PELLICER CATALÁN, M., (1995): Las culturas del neolítico-calcolitico en Andalucía Oriental. Espacio,
+Tiempo y Forma. Serie I, Nueva Época. Prehistoria y Arqueología 8, 81-134
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

@@ -2,11 +2,14 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Díaz-Pintado   Hilario,   Ángel   Enrique   (2012),  Las  ideas  estéticas  de  Adam  Zagajewski  y  sus  fuentes
+clásicas,   tesis   doctoral   dirigida   por   la   Dra.   Concepción  López  Rodríguez,  Hutnikiewicz,  Artur
+(1994),   Młoda   Polska,  volumen  VII  de  la  Wielka  Historia  Literatury  Polskiej,  Warszawa,  Wydawnictwo
+Naukowe PWN, 1997
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Baczyńska, Beata (1998), Literatura polaca, Barcelona, Edicions Universitat de Barcelona
 
@@ -17,11 +20,14 @@ Históricas, nº 306
 Bąk,   Grzegorz  (1997),  “Historia  de  los  pueblos  eslavos”,  en  F.  Presa  González  (Coord.),  Historia  de
 las literaturas eslavas, Madrid, Cátedra, pp. 49-122
 
-Bąk,   Grzegorz,   Díaz-Pintado   Hilario,   Ángel   Enrique,  y  Ruszar,  Józef  Maria  (Eds.)  (2022),  "Noche
+Bąk,   Grzegorz,   Díaz-Pintado   Hilario,   Ángel   Enrique,  y  Ruszar,  Józef  Maria  (eds.)  (2022),  "Noche
 sobre Madrid". Józef Łobodowski y su obra literaria, Madrid, Ediciones Complutense
 
 Chizhevski,   Dmitri  (1968),  Historia  comparada  de  las  literaturas  eslavas,  trad.  del  alemán  de  Elena
 Bombín, Madrid, Gredos, 1983
+
+Davies,   Norman   (1986),   Heart   of   Europe.   A   Short   History   of   Poland,  Oxford-New  York,  Oxford
+University Press
 
 Kienewicz,        Jan        (2001),        Polônia.       Identidade       de       um       país,       en
 [http:www.tchr.org/braz/socctba/br/histpol.html]
@@ -60,21 +66,13 @@ Unión Europea, Madrid, GRAMM Ediciones
 Święch,   Jerzy   (1997),   Literatura   polska   w   latach   II   Wojny  Światowej,  volumen  IX  de  la  Wielka
 Historia Literatury Polskiej, Warszawa, Wydawnictwo Naukowe PWN, 1999
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Davies,   Norman   (1986),   Heart   of   Europe.   A   Short   History   of   Poland,  Oxford-New  York,  Oxford
-University   Press.  fuentes  clásicas,  tesis  doctoral  dirigida  por  la  Dra.  Concepción  López  Rodríguez,
-Hutnikiewicz,   Artur   (1994),   Młoda   Polska,  volumen  VII  de  la  Wielka  Historia  Literatury  Polskiej,
-Warszawa,   Wydawnictwo   Naukowe  PWN,  1997  →  Hutnikiewicz,  Artur  (1994),  Młoda  Polska,  volumen  VII  de
-la Wielka Historia Literatury Polskiej, Warszawa, Wydawnictwo Naukowe PWN, 1997
-
-✅ Recursos añadidos:
-------------------------------
-Davies,   Norman   (1986),   Heart   of   Europe.   A   Short   History   of   Poland,  Oxford-New  York,  Oxford
-University Press
-
 Díaz-Pintado   Hilario,   Ángel   Enrique   (2012),  Las  ideas  estéticas  de  Adam  Zagajewski  y  sus  fuentes
 clásicas, tesis doctoral dirigida por la Dra. Concepción López Rodríguez, Universidad de Granada, en
 [https://digibug.ugr.es/handle/10481/23281]
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+Hutnikiewicz,   Artur   (1994),   Młoda   Polska,  volumen  VII  de  la  Wielka  Historia  Literatury  Polskiej,
+Warszawa, Wydawnictwo Naukowe PWN, 1997
+
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

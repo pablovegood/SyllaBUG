@@ -2,11 +2,12 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Wolff,   J.,   Filosofía  Política,  una  introducción,  Barcelona,  Ariel,  2001  Wrigth,  E.  O.  Construyendo
+utopías reales, Madrid, Akal, 2014
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (55):
 ------------------------------
 AAVV, Estudios poscoloniales. Ensayos fundamentales, Madrid, Traficantes de Sueños, 2008
 
@@ -35,6 +36,9 @@ Gauthier, D., Individuo, moralidad y sociedad liberal, Barcelona, Paidós, 1998
 
 Goodin,   R.E.   y   Pettit,   P.   (eds.),   A   Companion   to  Contemporary  Political  Philosophy,  Londres,
 Blackwell, 2002
+
+Ha   sido   señalada   más   arriba  para  cada  caso  del  temario  teórico  y  práctico,  por  congruencia  de  la
+información
 
 Held, D., Modelos de democracia, Madrid, Alianza, 2007
 
@@ -86,6 +90,8 @@ Sen. A., Idea de la justicia, Madrid, Taurus, 2009
 
 Singer, P., Democracia y desobediencia. Barcelona, Ariel, 1985
 
+Singer, P., Un solo mundo: la ética de la globalización, Barcelona, Paidós, 2003
+
 Sousa   Santos,   B.,   Crítica  de  la  Razón  Indolente.  Contra  el  desperdicio  de  la  experiencia,  Bilbao:
 Editora Desclée, 2003
 
@@ -136,18 +142,10 @@ Young, I.M., Inclusion and Democracy, Oxford University Press, 2002
 
 Young, I.M., Responsabilidad por la justicia, Madrid, Morata 2011
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Wolff,   J.,   Filosofía  Política,  una  introducción,  Barcelona,  Ariel,  2001  Wrigth,  E.  O.  Construyendo
-utopías reales, Madrid, Akal, 2014  →  Wrigth, E. O. Construyendo utopías reales, Madrid, Akal, 2014
-
-✅ Recursos añadidos:
-------------------------------
-Ha   sido   señalada   más   arriba  para  cada  caso  del  temario  teórico  y  práctico,  por  congruencia  de  la
-información
-
-Singer, P., Un solo mundo: la ética de la globalización, Barcelona, Paidós, 2003
-
 Wolff, J., Filosofía Política, una introducción, Barcelona, Ariel, 2001
 
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+Wrigth, E. O. Construyendo utopías reales, Madrid, Akal, 2014
+
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

@@ -2,11 +2,18 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+J.A.   Ordoñez   y   col.   (1998).   Tecnología  de  los  alimentos.  Vol.  1:  Componentes  de  los  alimentos  y
+procesos.   •   Editorial   Síntesis.   •   T.P.   Coultate.  (2007).  Manual  de  química  y  bioquímica  de  los
+alimentos.   Editorial   Acribia.   •   J.G.   Brennan.   (2008).   Manual   del  procesado  de  los  alimentos.
+Editorial Acribia
 
-📚 Recursos sin cambios:
+J.A.   Ordoñez   y   col.   (1998).   Tecnología   de   los   alimentos.  Vol.  2:  Alimentos  de  origen  animal.
+Editorial   Síntesis.   •   A.H.   Varnam   y   J.P.   Sutherland   (1996).   Bebidas:   Tecnología,  química  y
+microbiología. Editorial Acribia
+
+📚 Recursos sin cambios (10):
 ------------------------------
 A.   Madrid,   I.   Cenzano,   M.   Vicente.   (2001).  Nuevo  manual  de  industrias  agroalimentarias.  A.M.V.
 Ediciones y Mundi-Prensa S.A
@@ -34,25 +41,18 @@ Acribia
 Wolfgang   Gerhartz  y  Y.  Stephen  Yamamoto  (ed.).  Ullmann's  encyclopedia  of  industrial  chemistry.  John
 Wiley and Sons, Inc
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-J.A.   Ordoñez   y   col.   (1998).   Tecnología   de   los   alimentos.  Vol.  2:  Alimentos  de  origen  animal.
-Editorial   Síntesis.   •   A.H.   Varnam   y   J.P.   Sutherland   (1996).   Bebidas:   Tecnología,  química  y
-microbiología   →   J.A.   Ordoñez   y   col.   (1998).   Tecnología  de  los  alimentos.  Vol.  2:  Alimentos  de
-origen animal. Editorial Síntesis.
-
-J.A.   Ordoñez   y   col.   (1998).   Tecnología  de  los  alimentos.  Vol.  1:  Componentes  de  los  alimentos  y
-procesos.   •   Editorial   Síntesis.   •   T.P.   Coultate.  (2007).  Manual  de  química  y  bioquímica  de  los
-alimentos.   Editorial   Acribia.   •   J.G.   Brennan.   (2008).   Manual   del  procesado  de  los  alimentos.
-Editorial   Acribia   →   J.A.   Ordoñez  y  col.  (1998).  Tecnología  de  los  alimentos.  Vol.  1:  Componentes
-de   los   alimentos   y   procesos.   •  Editorial  Síntesis.  •  T.P.  Coultate.  (2007).  Manual  de  química  y
-bioquímica de los alimentos. Editorial Acribia.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 A.H.   Varnam   y   J.P.   Sutherland   (1996).   Bebidas:   Tecnología,  química  y  microbiología.  Editorial
 Acribia
 
+J.A.   Ordoñez   y   col.   (1998).   Tecnología  de  los  alimentos.  Vol.  1:  Componentes  de  los  alimentos  y
+procesos.   •   Editorial   Síntesis.   •   T.P.   Coultate.  (2007).  Manual  de  química  y  bioquímica  de  los
+alimentos. Editorial Acribia.
+
+J.A.   Ordoñez   y   col.   (1998).   Tecnología   de   los   alimentos.  Vol.  2:  Alimentos  de  origen  animal.
+Editorial Síntesis.
+
 J.G. Brennan. (2008). Manual del procesado de los alimentos. Editorial Acribia
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

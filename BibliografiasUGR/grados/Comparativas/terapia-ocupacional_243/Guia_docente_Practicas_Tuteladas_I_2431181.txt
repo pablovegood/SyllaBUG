@@ -2,12 +2,17 @@
 Grado: terapia-ocupacional (243)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Shelley.   M.   Terapia   ocupacional  en  pediatría:  proceso  de  evaluación.  Madrid:  Médica  Panamericana;
+2006   Trombly  C.  Terapia  ocupacional  para  enfermos  incapacitados  físicamente.  México,  D.F:  La  Prensa
+Médica Mexicana; 2001
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
+Barker S. Occupational therapy models for intervention with children and families. Thorofare: Slack;
+2007
+
 Blesedell. C et al. Terapia ocupacional. 10ª ed. Buenos Aires; Madrid: Médica Panamericana; 2005
 
 Boyt    BS,    Schell    JW.    Clinical    and    professional    reasoning    in    occupational    therapy.
@@ -28,6 +33,8 @@ Crepeau EB, Cohn ES, Boyt ES. Terapia ocupacional. 10ª ed. Madrid: Médica Pana
 
 Donna   Costa.   Clinical   supervision   in   occupational   therapy:  a  guide  for  fieldwork  and  practice.
 Bethesda:Aota Press; 2007
+
+Early MB. Mental health concepts and techniques for the occupational therapy assistant
 
 Early   MB.   Mental   health   concepts   and   techniques  for  the  occupational  therapy  assistant.  4ª  ed.
 Philadelphia: Lippincott Williams and Wilkins; 2009
@@ -67,6 +74,16 @@ Polemos, 2007
 Pedretti,   LW,   Zoltan,   B.   Occupational   Therapy   practice  skills  for  Physical  Dysfunction.  3a  Ed.
 Editorial CV: Mosby; 1990
 
+REVISTAS   DE   TERAPIA   OCUPACIONAL:  American  Journal  Of  Occupational  Therapy  Australian  Occupational
+Therapy   Journal   British   Journal   Of  Occupational  Therapy  Canadian  Journal  Of  Occupational  Therapy
+Journal   Of   Occupational   Science   Mental   Health   Occupational   Therapy   New   Zealand   Journal   Of
+Occupational   Therapy   Occupational   Therapy   In   Health   Care  Occupational  Therapy  in  Mental  Health
+Occupational    Therapy    International   Occupational   Therapy   Now   OT   Practice   OTJR:   Occupation,
+Participation   And   Health  Physical  And  Occupational  Therapy  in  Geriatrics  Physical  And  Occupational
+Therapy   in   Pediatrics   Scandinavian   Journal   Of   Occupational   Therapy   Revista  Informativa  de  la
+Asociación   Profesional   Española   de   Terapeutas   Ocupacionales   Revista   TOG.   Revista   de  Terapia
+Ocupacional Galicia Revista Chilena de Terapia Ocupacional
+
 Rincón   E,   Sánchez-Ortiz   M,   Ramos   R.   Terapia  ocupacional:  intervención  en  distintas  patologías.
 Alcalá La Real (Jaén). Formación Alcalá; 2007
 
@@ -75,27 +92,20 @@ Romero A, Moruno P. Terapia ocupacional. Teoría y Técnicas. Madrid: Masson; 20
 Sánchez   L.  Manual  de  técnicas  Grupales  de  comunicación  y  Creatividad  para  terapeutas  ocupacionales.
 APETO: Madrid; 1996
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Thorofare:   Slack;   2007   →   Leonardelli,   C.   A.   The   Milwake   evaluation   of  dayly  living  skills.
-Thorofare: Slack Inc; 1988
+Turner   A,   Foster   M,   Johnson   S.  Terapia  ocupacional  y  disfunción  física  :  Principios,  Técnicas  y
+práctica. 5ª. ed. Madrid: Churchill Livingstone; 2003
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (19):
 ------------------------------
 American Journal Of Occupational Therapy
 
 Australian Occupational Therapy Journal
-
-Barker S. Occupational therapy models for intervention with children and families. Thorofare: Slack;
-2007
 
 British Journal Of Occupational Therapy
 
 Canadian Journal Of Occupational Therapy
 
 Journal Of Occupational Science
-
-Mental Health Occupational Therapy
 
 New Zealand Journal Of Occupational Therapy
 
@@ -110,8 +120,6 @@ Occupational Therapy Now
 Occupational Therapy in Mental Health
 
 Physical And Occupational Therapy in Geriatrics
-
-Physical And Occupational Therapy in Pediatrics
 
 REVISTAS DE TERAPIA OCUPACIONAL
 
@@ -129,7 +137,4 @@ Shelley.   M.   Terapia   ocupacional  en  pediatría:  proceso  de  evaluación
 Trombly   C.   Terapia   ocupacional   para   enfermos   incapacitados  físicamente.  México,  D.F:  La  Prensa
 Médica Mexicana; 2001
 
-Turner   A,   Foster   M,   Johnson   S.  Terapia  ocupacional  y  disfunción  física  :  Principios,  Técnicas  y
-práctica. 5ª. ed. Madrid: Churchill Livingstone; 2003
-
-📊 Porcentaje estimado de cambio: 85% [████████░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

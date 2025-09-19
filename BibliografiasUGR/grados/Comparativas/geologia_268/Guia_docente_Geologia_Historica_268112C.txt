@@ -2,11 +2,12 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Miall,   A.D.   (1997).   The   Geology  of  Stratigraphic  sequence.  Springer  Verlag,  Berlin  Stantey,  S.M.
+(1992). Exploring Earth and Life though time. Freeman and Company eds. New York
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Anguita Virella, F. (1988): Origen e Historia de la Tierra. Editorial Rueda, Madrid, 525 pp
 
@@ -32,14 +33,10 @@ Vera, J.A. (1994). Estratigrafía. Principios y Métodos. Ed. Rueda, 805 pp
 Wicander,   R   y   Monroe,   J.S.  (2004).  Historical  Geology.  Evolution  of  Earth  and  Life  through  Time.
 Central Michigan
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Miall,   A.D.   (1997).   The   Geology  of  Stratigraphic  sequence.  Springer  Verlag,  Berlin  Stantey,  S.M.
-(1992).   Exploring   Earth   and   Life   though  time.  Freeman  and  Company  eds  →  Miall,  A.D.  (1997).  The
-Geology of Stratigraphic sequence. Springer Verlag, Berlin
+Miall, A.D. (1997). The Geology of Stratigraphic sequence. Springer Verlag, Berlin
 
-✅ Recursos añadidos:
-------------------------------
 Stantey, S.M. (1992). Exploring Earth and Life though time. Freeman and Company eds. New York
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

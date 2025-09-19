@@ -2,19 +2,32 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (20):
 ------------------------------
 Arsuaga, J.L. y Martínez, I. (2000): La especie elegida. Madrid, Ed. Temas de Hoy, 2001
 
-Barrow, John D. (1994), Teorías del Todo: hacia una explicación fundamental del Universo
+Barrow, John D. (1994), Teorías del Todo: hacia una explicación fundamental del Universo. Barcelona,
+Crítica
 
-Battaner, E. (2012), Kepler. El movimiento Planetario. Bailando con las estrellas. RBA. Colección
+Battaner,   E.   (2012),  Kepler.  El  movimiento  Planetario.  Bailando  con  las  estrellas.  RBA.  Colección:
+Grandes Ideas de la Ciencia
 
 Battaner, E. (2015), Grandes estructuras del Universo. RBA. Colección: Un paseo por el Universo
 
-Dancy, J., Sosa, E., Steup, M. (2010). The Blackwell Companion to Epistemology. 2nd Edition
+Beeby,   Laura   (2011),   “A   Critique   of   Hermeneutical   Injustice.”  Proceedings  of  the  Aristotelian
+Society   (Hardback)   111   (3pt3):   479–86.   doi:10.1111/j.1467-9264.2011.00319.x   Bernecker,   S.  and
+Pritchard, D. H. (2010). The Routledge Companion to Epistemology. Routledge
+
+Buskes,   C.   (2013),   “Darwinism   Extended:  A  Survey  of  How  the  Idea  of  Cultural  Evolution  Evolved”.
+Philosophia, 41(3), 661–691. doi:10.1007/s11406-013-9415-8 Cavalli-Sforza, Luigi Luca (1996), Genes,
+pueblos y lenguas. Barcelona, Crítica, 1997
+
+Dancy,   J.,   Sosa,   E.,   Steup,   M.   (2010).   The   Blackwell  Companion  to  Epistemology.  2nd  Edition.
+Blackwell
 
 Greco, J. y E. Sosa (eds., 1999), The Blackwell Guide to Epistemology. Blackwell. Oxford
+
+Gutenberg. (orig.: Consilience: The Unity of Knowledge. New York, NY: Random House, 1999)
 
 Hacking,   Ian   (1991),  La  domesticación  del  azar:  La  erosión  del  determinismo  y  el  nacimiento  de  las
 ciencias del caos. Editorial Gedisa
@@ -29,21 +42,25 @@ The MIT Press
 Morin,   E.  (2001),  El  método,  5:  La  humanidad  de  la  humanidad.  La  identidad  humana.  Madrid,  Cátedra,
 2003
 
-Prigogine, Ilya (e Isabelle Stengers) (1990), Entre el tiempo y la eternidad. Madrid, Alianza (orig
+Prigogine,   Ilya   (e   Isabelle   Stengers)   (1990),   Entre   el  tiempo  y  la  eternidad.  Madrid,  Alianza
+(orig.: 1988)
 
 Prigogine,   Ilya  (e  Isabelle  Stengers)  (1990),  La  nueva  alianza.  Metamorfosis  de  la  ciencia.  Madrid,
 Alianza (orig.: 1979/1986)
 
 Secchi,   B.   (1998),  "Ciudad  moderna,  ciudad  contemporánea  y  sus  futuros",  en  Ángel  Martín  (ed.),  Lo
-urbano en 20 autores contemporáneos. Ediciones UPC. [cap. "El capitalismo y la ciudad", de R
+urbano   en   20   autores   contemporáneos.   Ediciones   UPC.   [cap.  "El  capitalismo  y  la  ciudad",  de  R.
+Sennett]
 
-Waal,   F.  d.  (2013).  The  bonobo  and  the  atheist:  in  search  of  humanism  among  the  primates.  New  entre
-los primates. Barcelona: Tusquets, 2015)
+Waal,   F.  d.  (2013).  The  bonobo  and  the  atheist:  in  search  of  humanism  among  the  primates.  New  York:
+W.W.   Norton   &   Company   (trad.:   El  bonobo  y  los  diez  mandamientos:  en  busca  de  la  ética  entre  los
+primates. Barcelona: Tusquets, 2015)
 
-Wilson,   Edward   O.   (1999),   Consilience.  La  unidad  del  conocimiento.  Barcelona,  Galaxia  Gutenberg.
-(orig.: Consilience: The Unity of Knowledge. New York, NY: Random House, 1999). calificación final)
+Wilson, Edward O. (1999), Consilience. La unidad del conocimiento. Barcelona, Galaxia
 
-📚 Recursos sin cambios:
+https://doi.org/10.1073/pnas.240788612
+
+📚 Recursos sin cambios (30):
 ------------------------------
 Beck,   U.   (2002),  La  sociedad  del  riesgo  global.  Siglo  XXI  (cap.  3,  "De  la  sociedad  industrial  a  la
 sociedad del riesgo: cuestiones de supervivencia, estructura social e ilustración ecológica")
@@ -80,6 +97,9 @@ como especie. Barcelona, Paidós
 Harari,   Yuval   y   Ros,   J.   (2014),   Sapiens,  de  animales  a  dioses:  breve  historia  de  la  humanidad.
 Barcelona, Debate. Partes I y IV
 
+Harris,   Marvin   (2000),   Teorías   sobre   la  cultura  en  la  era  posmoderna.  Barcelona,  Crítica  (orig.
+1999)
+
 Harris,   Marvin   (2011),  “El  retorno  de  las  brujas”,  en  Vacas,  cerdos,  guerras  y  brujas:  los  enigmas
 de la cultura. Madrid: Alianza Editorial, pp. 208-221
 
@@ -88,10 +108,13 @@ Hawking, Stephen W. y Mlodinow, Leonard (2005), Brevísima Historia del Tiempo. 
 Hernández-Sampieri    R,    Fernández    C,   Baptista   P   (2007),   Fundamentos   de   metodología   de   la
 investigación. Madrid: McGraw-Hill Interamericana (útil el Glosario)
 
+Kuhn,   T.S.   (1977),   “Objetividad,   juicios  de  valor  y  elección  de  teoría”,  en  La  tensión  esencial.
+México, FCE, 1982: 344-364
+
 McIntyre,   L.   C.,   &  Rosenberg,  A.  (2017).  The  Routledge  companion  to  philosophy  of  social  science.
 Routledge Philosophy Companion. Caps. 8-14, 22-32
 
-Neta, R., Pritchard, D. H. (2008). Arguing about Knowledge. Routledge
+Neta, R. and Pritchard, D. H. (2008). Arguing about Knowledge. Routledge
 
 Otero   Carvajal,   L.   E.   (2005),   "Einstein   y  la  revolución  científica  del  siglo  XX".  Cuadernos  de
 Historia Contemporánea, 27: 135-177
@@ -107,7 +130,7 @@ Pritchard, D. (2014). What is this thing called knowledge. New York: Routledge (
 Pritchard,   Duncan  (2014),  What  is  this  thing  called  knowledge.  New  York:  Routledge  (third  edition).
 Caps. 2-6, 12-13
 
-Quesada, M. (coord., 2009). Cuestiones de teoría del conocimiento. Madrid, Tecnos
+Quesada, M. (coord., 2009), Cuestiones de teoría del conocimiento. Madrid, Tecnos
 
 Rauch,   Jonathan   (2021),   The   Constitution  of  Knowledge:  A  Defense  of  Truth.  Brookings  Institution
 Press. Caps. 3-4, 5-7
@@ -127,35 +150,13 @@ caps. 7-8
 Wilson,   Edward   O.   (1999),   Consilience.  La  unidad  del  conocimiento.  Barcelona,  Galaxia  Gutenberg.
 Caps. 2, 4, 7 y 8
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Harris,   Marvin   (2000),   Teorías   sobre  la  cultura  en  la  era  posmoderna.  Barcelona,  Crítica  (orig  →
-Harris,   Marvin   (2000),   Teorías   sobre   la  cultura  en  la  era  posmoderna.  Barcelona,  Crítica  (orig.
-1999)
-
-Kuhn,   T.S.   (1977),   “Objetividad,  juicios  de  valor  y  elección  de  teoría”,  en  La  tensión  esencial  →
-Kuhn,   T.S.   (1977),   “Objetividad,   juicios  de  valor  y  elección  de  teoría”,  en  La  tensión  esencial.
-México, FCE, 1982: 344-364
-
-Beeby,   Laura   (2011),   “A   Critique   of   Hermeneutical   Injustice.”  Proceedings  of  the  Aristotelian
-Society   (Hardback)   111   (3pt3):   479–86.   doi:10.1111/j.1467-9264.2011.00319.x   Bernecker,   S.  and
-Pritchard,   D.   H.  (2010).  The  Routledge  Companion  to  Epistemology.  Routledge  →  Beeby,  Laura  (2011),
-“A   Critique   of   Hermeneutical   Injustice.”   Proceedings  of  the  Aristotelian  Society  (Hardback)  111
-(3pt3): 479–86. doi:10.1111/j.1467-9264.2011.00319.x
-
-México,   FCE,   1982:   344-364   →   Kuhn,   T.S.   (1977),   “Objetividad,  juicios  de  valor  y  elección  de
-teoría”, en La tensión esencial. México, FCE, 1982: 344-364
-
-Buskes,   C.   (2013),   “Darwinism   Extended:  A  Survey  of  How  the  Idea  of  Cultural  Evolution  Evolved”.
-Philosophia, 41(3), 661–691. doi:10.1007/s11406-013-9415-8 Cavalli-Sforza, Luigi Luca (1996), Genes,
-pueblos   y   lenguas.   Barcelona,  Crítica,  1997  →  Buskes,  C.  (2013),  “Darwinism  Extended:  A  Survey  of
-How     the     Idea     of     Cultural     Evolution     Evolved”.     Philosophia,     41(3),     661–691.
-doi:10.1007/s11406-013-9415-8
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (50):
 ------------------------------
 Astobiza,   A.   M.   (2025).   The   role  of  LLMs  in  theory  building.  Social  Sciences  &  Humanities  Open,
 11(101617), 101617. https://doi.org/10.1016/j.ssaho.2025.101617
+
+Beeby,   Laura   (2011),   “A   Critique   of   Hermeneutical   Injustice.”  Proceedings  of  the  Aristotelian
+Society (Hardback) 111 (3pt3): 479–86. doi:10.1111/j.1467-9264.2011.00319.x
 
 Bernecker, S. and Pritchard, D. H. (2010). The Routledge Companion to Epistemology. Routledge
 
@@ -171,6 +172,9 @@ https://doi.org/10.1007/s11229-022-03982-7
 
 Brodie,     M.     L.     (2024).     A     framework     for     understanding     data    science.    Arxiv.
 https://arxiv.org/abs/2403.00776
+
+Buskes,   C.   (2013),   “Darwinism   Extended:  A  Survey  of  How  the  Idea  of  Cultural  Evolution  Evolved”.
+Philosophia, 41(3), 661–691. doi:10.1007/s11406-013-9415-8
 
 Caicedo, O. D., Vargas, S., Alcocer, E., & Bustos, L. (2024). The impact of science on philosophical
 inquiry.     Vindication     of     Scientific     Philosophy.    Themata-Revista    de    Filosofía,    69.
@@ -312,4 +316,4 @@ Journal for the Philosophy of Science, 75(4), 821–841
 Zhenhua,     Y.     (2025).     Humanities     in     the     age     of     AI.     TAO,     1(1),     100003.
 https://doi.org/10.1016/j.tao.2025.100003
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 87% [████████░░]

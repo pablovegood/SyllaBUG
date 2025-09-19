@@ -2,11 +2,11 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 BROTHWELL,   D.,  POLLARD,  A.M.  (Eds.),  (2005):  Handbook  of  Archaeological  Sciences,Wiley,  Chichester,
 2005
@@ -37,11 +37,7 @@ ROSKAMS, S. (2003): Teoría y práctica de la excavación. Crítica, Barcelona
 
 SCHNAPP, A.: The discovery of the past, New York, 1997
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

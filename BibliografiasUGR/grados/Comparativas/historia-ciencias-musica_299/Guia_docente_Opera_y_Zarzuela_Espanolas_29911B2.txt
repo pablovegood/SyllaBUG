@@ -2,11 +2,14 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+MARTÍN   SÁEZ,   Daniel,   «La   leyenda   de  Farinelli  en  España:  Historiografía,  mitología  y  política»,
+Revista   de  Musicología,  n.º  51/1  (2018),  págs.  57-97  MEJÍAS  GARCÍA,  Enrique,  «Las  raíces  isabelinas
+del teatro por horas y su primer repertorio: en torno a los orígenes del género chico», Cuadernos de
+Música Iberoamericana, n.º 30 (2017), págs. 87-109
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (50):
 ------------------------------
 ALIER,   Roger,  La  historia,  los  compositores,  los  intérpretes  y  los  hitos  del  género  lírico  español,
 Barcelona, Ma Non Troppo, 2002
@@ -41,6 +44,10 @@ Madrid, ICCMU, 2002-2003
 CASARES   RODICIO,   Emilio   (dir.).   Diccionario   de   la  música  española  e  hispanoamericana,  10  vols.
 Madrid, SGAE, 1995-2002
 
+CASARES   RODICIO,   Emilio   (ed.),   Monográfico:   La   Zarzuela   en   España  e  Hispanoamérica:  Centro  y
+periferia     (1800-1950)     [en     línea],     Cuadernos    de    Música    Iberoamericana,    n.º    2-3,
+1996-1997.<https://revistas.ucm.es/index.php/CMIB/issue/view/3360> [Consultado el 13/06/2023]
+
 CASARES RODICIO, Emilio y Celsa ALONSO GONZÁLEZ, (eds.), La música española en el siglo XIX, Oviedo,
 Universidad de Oviedo, 1995
 
@@ -53,6 +60,9 @@ Madrid, ICCMU, 2018
 COTARELO   Y  MORI,  Emilio,  Historia  de  la  Zarzuela  o  sea  el  Drama  Lírico  en  España,  desde  su  origen  a
 fines   del   siglo  XIX,  Madrid,  1939  [Reimpresión  en  facsímil,  con  una  introducción  de  Emilio  Casares
 (Madrid, ICCMU, 2000)]
+
+ESPÍN TEMPLADO, Mª Pilar, Pilar de la VEGA MARTÍNEZ y Manuel LAGOS (coords.), Teatro lírico español:
+ópera, drama lírico y zarzuela grande entre 1868 y 1925, Madrid, UNED, 2017
 
 FERNÁNDEZ GUERRA, Jorge, Cuestiones de ópera contemporánea: Metáforas de supervivencia, Madrid, Doce
 Notas, 2009
@@ -88,9 +98,9 @@ LEZA, José Máximo (ed.), Historia de la música en España e Hispanoamérica: 
 el siglo XVIII, Madrid, Fondo de Cultura Económica, 2014
 
 LOLO,   Begoña   et  al.,  Paisajes  sonoros  en  el  Madrid  del  siglo  XVIII:  La  Tonadilla  Escénica  [recurso
-en línea], Madrid, Museo de San Isidro, Ayuntamiento de Madrid, 2003. <https://www.madrid.es/UnidadW
-eb/Contenidos/Publicaciones/TemaCulturaYOcio/SanIsidro/PaisajesSon/CATTONA.pdf>     [Consultado     el
-13/06/2023]
+en    línea],    Madrid,    Museo    de    San    Isidro,    Ayuntamiento    de    Madrid,    2003.    <https:/
+/www.madrid.es/UnidadWeb/Contenidos/Publicaciones/TemaCulturaYOcio/SanIsidro/Pa
+isajesSon/CATTONA.pdf> [Consultado el 13/06/2023]
 
 MARTÍN MORENO, Antonio, Historia de la música española: siglo XVIII, Madrid, Alianza Música, 2006
 
@@ -154,28 +164,12 @@ el siglo XVII, Madrid, Fondo de Cultura Económica, 2016
 YOUNG,   Clinton   D.,   Music   Theatre   and   Popular  Nationalism  in  Spain,  1880–1930,  Baton  Rouge,  LU,
 Louisiana State University, 2016
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Centro   y   periferia   (1800-1950)   [en   línea],   Cuadernos   de  Música  Iberoamericana,  n.º  2-3,  ESPÍN
-TEMPLADO,   Mª   Pilar,   Pilar   de   la   VEGA  MARTÍNEZ  y  Manuel  LAGOS  (coords.),  Teatro  lírico  español:
-ópera,   drama   lírico   y   zarzuela  grande  entre  1868  y  1925,  Madrid,  UNED,  2017  →  ESPÍN  TEMPLADO,  Mª
-Pilar,   Pilar   de   la   VEGA   MARTÍNEZ   y  Manuel  LAGOS  (coords.),  Teatro  lírico  español:  ópera,  drama
-lírico y zarzuela grande entre 1868 y 1925, Madrid, UNED, 2017
-
 MARTÍN   SÁEZ,   Daniel,   «La   leyenda   de  Farinelli  en  España:  Historiografía,  mitología  y  política»,
-Revista   de  Musicología,  n.º  51/1  (2018),  págs.  57-97  MEJÍAS  GARCÍA,  Enrique,  «Las  raíces  isabelinas
-del teatro por horas y su primer repertorio: en torno a los orígenes del género chico», Cuadernos de
-Música   Iberoamericana,   n.º  30  (2017),  págs.  87-109  →  MARTÍN  SÁEZ,  Daniel,  «La  leyenda  de  Farinelli
-en   España:   Historiografía,   mitología   y  política»,  Revista  de  Musicología,  n.º  51/1  (2018),  págs.
-57-97
-
-✅ Recursos añadidos:
-------------------------------
-CASARES   RODICIO,   Emilio   (ed.),   Monográfico:   La   Zarzuela   en   España  e  Hispanoamérica:  Centro  y
-periferia     (1800-1950)     [en     línea],     Cuadernos    de    Música    Iberoamericana,    n.º    2-3,
-1996-1997.<https://revistas.ucm.es/index.php/CMIB/issue/view/3360> [Consultado el 13/06/2023]
+Revista de Musicología, n.º 51/1 (2018), págs. 57-97
 
 MEJÍAS GARCÍA, Enrique, «Las raíces isabelinas del teatro por horas y su primer repertorio: en torno
 a los orígenes del género chico», Cuadernos de Música Iberoamericana, n.º 30 (2017), págs. 87-109
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

@@ -2,11 +2,18 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+DSP   First.   James   H.   McClellan,   Ronald   W.   Schafer,   Mark   A.  Yoder.  Pearson,  2017  Procesadores
+digitales   de   señal   de   altas   prestaciones   de   Texas   Instruments:   de  la  familia  TMS320C3x  a  la
+TMS320C6000.   Federico   J.   Barrero   García,   Sergio   L.  Toral  Marín,  Mariano  Ruiz  González,  Madrid:
+McGraw-Hill, 2005
 
-📚 Recursos sin cambios:
+DSP   Software   Development   Techniques  for  Embedded  and  Real-Time  Systems.  Robert  Oshana,  Amsterdam;
+Boston:   Elsevier/Newnes,   2006   DSP   Architecture   Design   Essentials.   Dejan   MarkoviÄј,  Robert  W.
+Brodersen and MarkoviÄј, Dejan. Springer, 2012
+
+📚 Recursos sin cambios (6):
 ------------------------------
 Digital   signal   processing   and   applications   with   the   TMS320C6713   and   TMS320C6416   DSK.  Rulph
 Chassaing, Donald Reay. Hoboken, N.J.: Wiley-Interscience, 2008
@@ -17,32 +24,26 @@ Boston: Morgan Kaufmann/Elsevier, 2008
 Embedded   System   Design:  Topics,  Techniques  and  Trends.  Edit.  A.  Rettberg,  M.  C.  Zanella,  R.  Dömer,
 A. Gerstlauer, F. J. Rammig. Boston, MA: International Federation for Information Processing, 2007
 
-Embedded systems handbook. Richard Zurawski. Boca Raton, FL: CRC Press, 2009
+Embedded systems handbook. Richard Zurawski. Boca Raton, FL: CRC Press, 2009 Embedded System Design:
+Topics, Techniques and Trends. Edit. A. Rettberg, M. C
 
 Linux   device  drivers.  Jonathan  Corbet,  Alessandro  Rubini,  and  Greg  Kroah-Hartman.  Beijing:  O'Reilly
 & Associates, Inc., 2005
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-DSP   Software   Development   Techniques  for  Embedded  and  Real-Time  Systems.  Robert  Oshana,  Amsterdam;
-Boston:   Elsevier/Newnes,   2006   DSP   Architecture   Design   Essentials.   Dejan   MarkoviÄј,  Robert  W.
-Brodersen   and   MarkoviÄј,   Dejan.  Springer,  2012  →  DSP  Software  Development  Techniques  for  Embedded
-and Real-Time Systems. Robert Oshana, Amsterdam; Boston: Elsevier/Newnes, 2006
+Linux for embedded and real-time applications. Doug Abbot. Burlington, MA: Newnes, c2006
 
-DSP   First.   James   H.   McClellan,   Ronald   W.   Schafer,   Mark   A.  Yoder.  Pearson,  2017  Procesadores
-digitales   de   señal   de   altas   prestaciones   de   Texas   Instruments:   de  la  familia  TMS320C3x  a  la
-TMS320C6000.   Federico   J.   Barrero   García,   Sergio   L.  Toral  Marín,  Mariano  Ruiz  González,  Madrid:
-McGraw-Hill,   2005   →  Procesadores  digitales  de  señal  de  altas  prestaciones  de  Texas  Instruments:  de
-la   familia   TMS320C3x   a  la  TMS320C6000.  Federico  J.  Barrero  García,  Sergio  L.  Toral  Marín,  Mariano
-Ruiz González, Madrid: McGraw-Hill, 2005
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 DSP   Architecture   Design   Essentials.   Dejan   MarkoviÄј,   Robert  W.  Brodersen  and  MarkoviÄј,  Dejan.
 Springer, 2012
 
 DSP First. James H. McClellan, Ronald W. Schafer, Mark A. Yoder. Pearson, 2017
 
-Linux for embedded and real-time applications. Doug Abbot. Burlington, MA: Newnes, c2006
+DSP   Software   Development   Techniques  for  Embedded  and  Real-Time  Systems.  Robert  Oshana,  Amsterdam;
+Boston: Elsevier/Newnes, 2006
 
-📊 Porcentaje estimado de cambio: 71% [███████░░░]
+Procesadores   digitales  de  señal  de  altas  prestaciones  de  Texas  Instruments:  de  la  familia  TMS320C3x
+a   la  TMS320C6000.  Federico  J.  Barrero  García,  Sergio  L.  Toral  Marín,  Mariano  Ruiz  González,  Madrid:
+McGraw-Hill, 2005
+
+📊 Porcentaje estimado de cambio: 60% [██████░░░░]

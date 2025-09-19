@@ -2,11 +2,20 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Estanislao    Arana    García    (dirección).   2017.   Riesgos   naturales   y   derecho:   una   perspectiva
+interdisciplinar;   coordinación,   Jesús   Conde   Antequera,   Jesús   Garrido  Manrique,  Asensio  Navarro
+Ortega; Ed. Dykinson. Madrid. ISBN: 978-84-9148-444-8 Ferrer Girón, Mercedes. [dirección del estudio
+y   supervisión  técnica].  2007.  Atlas  de  riesgos  naturales  en  la  provincia  de  Granada.  Ed.  Diputación
+Provincial de Granada
 
-📚 Recursos sin cambios:
+González   García,   José   Luís   (2009).   Mapas   de   riesgos   naturales  en  la  ordenación  territorial  y
+urbanística.   ICOG.   99   p.  ISBN:  978-84-692-2395-6  González  de  Vallejo,  L  I.  et  al.2010.  Ingeniería
+geológica. Pearson Educación. ISBN ITGE, 1999: Los Sistemas de Información Geográfica en los Riesgos
+Naturales y el Medio Ambiente, ITGE, Madrid. ISBN: 84-7840-385-X
+
+📚 Recursos sin cambios (14):
 ------------------------------
 Ayala-Carcedo,   F.   et   al.,   1987:   Impacto  Económico  y  Social  de  los  Riesgos  Geológicos  en  España.
 IGME. Servicio de publicaciones del ITGE, Madrid
@@ -50,19 +59,7 @@ Publicaciones de ICOG, Madrid
 Varnes,   D.   J.,   et   al.,   1984:   Landslide   hazard  zonation:  a  review  of  principles  and  practices.
 UNESCO, 7 Place de Fontenay, 75700 Paris, 63 p
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Estanislao    Arana    García    (dirección).   2017.   Riesgos   naturales   y   derecho:   una   perspectiva
-interdisciplinar;   coordinación,   Jesús   Conde   Antequera,   Jesús   Garrido  Manrique,  Asensio  Navarro
-Ortega; Ed. Dykinson. Madrid. ISBN: 978-84-9148-444-8 Ferrer Girón, Mercedes. [dirección del estudio
-y supervisión técnica]. 2007. Atlas de González García, José Luís (2009). Mapas de riesgos naturales
-en la ordenación territorial y urbanística. ICOG. 99 p. ISBN: 978-84-692-2395-6 González de Vallejo,
-L   I.   et   al.2010.   Ingeniería   geológica.   Pearson   Educación.   ISBN  9788420531045  ITGE,  1999:  Los
-Sistemas de Información Geográfica en los Riesgos Naturales y el Medio Ambiente, ITGE, Madrid. ISBN:
-84-7840-385-X   →   González   García,   José   Luís   (2009).  Mapas  de  riesgos  naturales  en  la  ordenación
-territorial y urbanística. ICOG. 99 p. ISBN: 978-84-692-2395-6
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Estanislao    Arana    García    (dirección).   2017.   Riesgos   naturales   y   derecho:   una   perspectiva
 interdisciplinar;   coordinación,   Jesús   Conde   Antequera,   Jesús   Garrido  Manrique,  Asensio  Navarro
@@ -71,9 +68,12 @@ Ortega; Ed. Dykinson. Madrid. ISBN: 978-84-9148-444-8
 Ferrer   Girón,   Mercedes.   [dirección   del   estudio   y   supervisión  técnica].  2007.  Atlas  de  riesgos
 naturales en la provincia de Granada. Ed. Diputación Provincial de Granada
 
+González   García,   José   Luís   (2009).   Mapas   de   riesgos   naturales  en  la  ordenación  territorial  y
+urbanística. ICOG. 99 p. ISBN: 978-84-692-2395-6
+
 González de Vallejo, L I. et al.2010. Ingeniería geológica. Pearson Educación. ISBN 9788420531045
 
 ITGE,   1999:   Los   Sistemas   de  Información  Geográfica  en  los  Riesgos  Naturales  y  el  Medio  Ambiente,
 ITGE, Madrid. ISBN: 84-7840-385-X
 
-📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

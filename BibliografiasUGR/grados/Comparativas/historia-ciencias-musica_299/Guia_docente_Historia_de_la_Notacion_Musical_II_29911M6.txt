@@ -2,11 +2,23 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Böndrum,   Lars.   “Graphic   Notation,   Indeterminacy   and  Improvisation:  Implementing  Choice  Within  a
+Compositional   Framework”,   Open  Cultural  Studies  2018;  2:  pp.  639-653  Cole,  Hugo.  Sounds  and  Signs:
+Aspects of Musical Notation. Londres: Oxford University Press, 1974
 
-📚 Recursos sin cambios:
+Grier,   James.   La   edición  crítica  de  la  música.  Madrid:  Akal,  2008  Gould,  Elaine.  Behind  Bars:  The
+Definitive Guide to Music Notation. Londres: Faber, 2011
+
+Karkoschka,   Erhard.   Notation   in  new  music.  London:  Universal  Edition,  1972  Kelly,  Thomas  Forrest.
+Capturing Music. The Story of Notation. Nueva York: W.W. Norton & Company, 2015
+
+Valle,   Andrea.   Contemporary   Music   Notation.   Semiotic  and  aesthetic  aspects.  Berlín:  Logos,  2018
+Villa-Rojo,   Jesús.   Notación   y   grafía   musical   en   el   siglo   XX.   Madrid:  Iberautor  Promociones
+Musicales, 2003
+
+📚 Recursos sin cambios (30):
 ------------------------------
 Apel,   Willi.   The   Notation   of   Polyphonic  Music  900-1600  .  Cambridge,  MA:  The  Medieval  Academy  of
 America, 1953
@@ -78,6 +90,9 @@ Rastall, Richard. The Notation of Western Music . Londres: Dent & Sons, 1983
 
 Reese, Gustave. La música en el Renacimiento . Madrid: Alianza Música, 1988
 
+Roland,   Perry,   Hankinson,  Andrew,  Pugin,  Laurent.  “Early  Music  and  the  Music  Encoding  Initiative”.
+Early Music, 42/4 (2014), pp. 605-611 https://doi.org/10.1093/em/cau098
+
 Rubio, Samuel. La polifonía clásica . Madrid: Real Musical, 1983
 
 Sabe   Andreu,  Ana  María.  Tomás  Luis  de  Victoria,  pasión  por  la  música  .  Ávila:  Diputación  Provincial
@@ -91,37 +106,25 @@ Stone, Kurt. Music Notation in the Twentieth Century . New York- Londres: WW Nor
 Treitler,   Leo.  “What  Kind  of  Thing  Is  Musical  Notation?”,  en  Reflections  on  Musical  Meaning  and  Its
 Representations (Bloomington e Indianapolis: Indiana University Press, 2011), pp. 107-160
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Grier,   James.   La   edición  crítica  de  la  música.  Madrid:  Akal,  2008  Gould,  Elaine.  Behind  Bars:  The
-Definitive   Guide   to   Music  Notation.  Londres:  Faber,  2011  →  Grier,  James.  La  edición  crítica  de  la
-música . Madrid: Akal, 2008
-
-Böndrum,   Lars.   “Graphic   Notation,   Indeterminacy   and  Improvisation:  Implementing  Choice  Within  a
-Compositional   Framework”,   Open  Cultural  Studies  2018;  2:  pp.  639-653  Cole,  Hugo.  Sounds  and  Signs:
-Aspects   of   Musical   Notation.   Londres:   Oxford   University   Press,   1974  →  Cole,  Hugo.  Sounds  and
-Signs: Aspects of Musical Notation . Londres: Oxford University Press, 1974
-
-Karkoschka,   Erhard.   Notation   in  new  music.  London:  Universal  Edition,  1972  Kelly,  Thomas  Forrest.
-Capturing   Music.   The   Story   of   Notation.  Nueva  York:  W.W.  Norton  &  Company,  2015  →  Kelly,  Thomas
-Forrest. Capturing Music. The Story of Notation . Nueva York: W.W. Norton & Company, 2015
-
-Logos,   2018   Villa-Rojo,   Jesús.   Notación   y   grafía   musical   en   el   siglo  XX.  Madrid:  Iberautor
-Promociones   Musicales,   2003   →   Villa-Rojo,   Jesús.   Notación   y   grafía   musical  en  el  siglo  XX  .
-Madrid: Iberautor Promociones Musicales, 2003
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Böndrum,   Lars.   “Graphic   Notation,   Indeterminacy   and  Improvisation:  Implementing  Choice  Within  a
 Compositional Framework”, Open Cultural Studies 2018; 2: pp. 639-653
 
+Cole, Hugo. Sounds and Signs: Aspects of Musical Notation . Londres: Oxford University Press, 1974
+
 Gould, Elaine. Behind Bars: The Definitive Guide to Music Notation . Londres: Faber, 2011
+
+Grier, James. La edición crítica de la música . Madrid: Akal, 2008
 
 Karkoschka, Erhard. Notation in new music . London: Universal Edition, 1972
 
-Roland,   Perry,   Hankinson,  Andrew,  Pugin,  Laurent.  “Early  Music  and  the  Music  Encoding  Initiative”.
-Early Music, 42/4 (2014), pp. 605-611 https://doi.org/10.1093/em/cau098
+Kelly,   Thomas   Forrest.  Capturing  Music.  The  Story  of  Notation  .  Nueva  York:  W.W.  Norton  &  Company,
+2015
 
 Valle, Andrea. Contemporary Music Notation. Semiotic and aesthetic aspects . Berlín: Logos, 2018
 
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+Villa-Rojo,   Jesús.   Notación   y   grafía   musical   en   el   siglo   XX  .  Madrid:  Iberautor  Promociones
+Musicales, 2003
+
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

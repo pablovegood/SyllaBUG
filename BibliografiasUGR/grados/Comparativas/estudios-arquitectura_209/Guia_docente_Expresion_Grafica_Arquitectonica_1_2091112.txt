@@ -2,11 +2,11 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Universitat Politècnica de València, Valencia, 2013
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 AUBERT,   J.   Dessin   d'Architecture:   a   partir   de   la  géométrie  descriptive.  Editions  La  Villette,
 Collection Savoir Faire De L'Architecture, 2003
@@ -17,6 +17,11 @@ BERTRAN   GUASP,   J.:  Sistema  diédrico  directo.  Fundamentos  y  ejercicios
 CAMPO   BAEZA,   A.   “Architectura   sine   luce   nulla   architectura   est   (Sobre   la   Luz)”  en  La  Idea
 Construida,   la   Arquitectura   a   la   luz  de  las  palabras.  Colegio  Oficial  de  Arquitectos  de  Madrid,
 Madrid, 1996
+
+DOMÉNECH ROMA, J.: Cartas solares, teoría de sombras y soleamiento, Lloréns Libros. Alcoy, 1990
+
+Dibujos   y   esquemas   facilitados   online   (durante   las  explicaciones)  en  pantalla,  o  en  documentos
+colgados en plataforma Prado
 
 GHEORGHIU, A. Y DRAGOMIR, V. Geometry of structural forms. Applied Science Publishers, London, 1978
 
@@ -31,6 +36,14 @@ comme une machine optique. Editions La Villette, Collection Savoir Faire De L'Ar
 
 KAHN, L. I. Forma y diseño. 1961
 
+Recursos   para   el   aprendizaje   y  evaluación  no  presencial  (ESCENARIO  B:  suspensión  de  la  actividad
+presencial) Explicaciones escritas y gráficas desarrolladas en las clases teóricas de todo el curso,
+insertadas en la plataforma Prado para consulta habitual del alumnado
+
+SANCHÍS   SAMPEDRO,  F.  J.  La  Geometría  de  las  Superficies  Arquitectónicas.  Análisis  Formal  Geométrico
+de   la   Ciutat   de   les  Arts  i  les  Ciències  de  Valencia  [tesis  doctoral].  Universitat  Politècnica  de
+València, Valencia, 2013
+
 SÁNCHEZ   GALLEGO,   J.   A.   Geometría   descriptiva:   sistemas  de  proyección  cilíndrica.  Ediciones  UPC
 Universitat Politécnica de Catalunya, 2009
 
@@ -39,29 +52,14 @@ Politécnica de Catalunya, 1996
 
 VÍLCHEZ LARA, M. C.: Geometría Descriptiva: Sistema Acotado, Editorial Técnica Avicam. Granada, 2013
 
-🔁 Misma obra con edición/año distinto:
+VÍLCHEZ LARA, M.C. Geometría Descriptiva: Sistema Diédrico. Editorial Técnica Avicam, 2013
+
+✅ Recursos añadidos (2):
 ------------------------------
-Universitat    Politècnica    de    València,   Valencia,   2013   →   SÁNCHEZ   GALLEGO,   J.   A.   Geometría
-descriptiva:   sistemas  de  proyección  cilíndrica.  Ediciones  UPC  Universitat  Politécnica  de  Catalunya,
-2009
-
-✅ Recursos añadidos:
-------------------------------
-DOMÉNECH ROMA, J.: Cartas solares, teoría de sombras y soleamiento, Lloréns Libros. Alcoy, 1990
-
-Dibujos   y   esquemas   facilitados   online   (durante   las  explicaciones)  en  pantalla,  o  en  documentos
-colgados en plataforma Prado
-
 Explicaciones   escritas  y  gráficas  desarrolladas  en  las  clases  teóricas  de  todo  el  curso,  insertadas
 en la plataforma Prado para consulta habitual del alumnado
 
-Recursos   para   el   aprendizaje   y  evaluación  no  presencial  (ESCENARIO  B:  suspensión  de  la  actividad
-presencial)
+SÁNCHEZ   GALLEGO,   J.   A.   Geometría   descriptiva:   sistemas  de  proyección  cilíndrica.  Ediciones  UPC
+Universitat Politécnica de Catalunya, 2009
 
-SANCHÍS   SAMPEDRO,  F.  J.  La  Geometría  de  las  Superficies  Arquitectónicas.  Análisis  Formal  Geométrico
-de   la   Ciutat   de   les  Arts  i  les  Ciències  de  Valencia  [tesis  doctoral].  Universitat  Politècnica  de
-València, Valencia, 2013
-
-VÍLCHEZ LARA, M.C. Geometría Descriptiva: Sistema Diédrico. Editorial Técnica Avicam, 2013
-
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

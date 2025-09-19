@@ -2,30 +2,36 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+222–236. Translation: 2020 https://benjamins.com/online/target/articles/target.28.2.04tay.es
 
-📚 Recursos sin cambios:
+Taylor, Christopher. 2016. El enfoque multimodal en la traducción audiovisual. Target 28:2, pp
+
+📚 Recursos sin cambios (14):
 ------------------------------
+Castro   Roig,   X.   2001.  «Reflexiones  de  un  traductor  audiovisual».  En  J.D.  Sanderson.  Doble  o  nada:
 Actas   de   las   I   y  II  Jornadas  de  doblaje  y  subtitulación  de  la  Universidad  de  Alicante.  Alicante:
 Universidad de Alicante, pp. 39-44
-
-Castro   Roig,   X.   2001.  «Reflexiones  de  un  traductor  audiovisual».  En  J.D.  Sanderson.  Doble  o  nada:
-Actas de
 
 Chaves   García,   M.   J.   2000.   La   traducción   cinematográfica:   El  doblaje.  Arias  Montano.  Huelva:
 Universidad de Huelva
 
+Corte,   N.   2002.   «Localización   e  internacionalización  de  sitios  web».  Tradumática,  1  Delabastita,
+Dirk   y   Lambert,   José.  1996.  «La  traduction  de  textes  audiovisuels:  Modes  et  enjeux  culturels.»  En
+Yves   Gambier   (ed.)  Les  transferts  linguistiques  dans  les  médias.  Paris  :  Presses,  pp.  33-58  Duran,
+J.,   y   Sánchez,   L.   2008.   Industrias   de   la   comunicación  audiovisual.  Barcelona:  Universidad  de
+Barcelona
+
 Díaz Cintas, J. 2001. La traducción audiovisual: el subtitulado. Salamanca: Almar
 
 Gouadec, D. 2009. Guide des métiers de la traduction-localisation et de la communication multilingue
-et
+et multimédia. Paris: La maison du dictionnaire
 
 Jiménez-Crespo M. A. 2013. Translation and web localization. London and New York: Routledge
 
 Jménez-Crespo M. A 2008. El proceso de localización web: estudio contrastivo de un corpus comparable
-del
+del género sitio web corporativo
 
 Lachat   Leal,   C.   2011.   «Didáctica   de  la  traducción  audiovisual:  enseñar  a  mirar».  REDIT:  Revista
 electrónica de didáctica de la traducción y la interpretación, 6, pp. 94–105
@@ -33,48 +39,46 @@ electrónica de didáctica de la traducción y la interpretación, 6, pp. 94–1
 Lachat   Leal,   C.  2012.  «Percepción  visual  y  traducción  audiovisual:  la  mirada  dirigida.»  MonTI,  pp.
 87-102
 
-Lachat-Leal, Christina. 2015. "Localización de aplicaciones Estrategias de cooperación con los
+Lachat-Leal,   Christina.   2015.   "Localización   de   aplicaciones   Estrategias  de  cooperación  con  los
+Desarrolladores." Nuevos horizontes en los Estudios de Traducción e Interpretación
 
 Mangiron   Hevia,   Carmen.  2013.  La  localización  de  videojuegos.  El  arte  de  traducir  para  entretener.
 En   Martínez   Sierra,   J.J.  (Ed.),  Reflexiones  sobre  la  traducción  audiovisual:  Tres  espectros,  tres
 momentos. València: PUV. 145-160
 
 McKee, Robert. 2009. El guion. Sustancia, estructura, estilo, principios de la escritura de guiones.
-Barcelona
+Barcelona: Alba editorial
 
 Scholand, M. 2002. «Localización de videojuegos.» Tradumàtica, 1
 
 Sánchez-Escalonilla, A. 2003. Diccionario de creación cinematográfica. Barcelona: Ariel
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Corte,   N.   2002.   «Localización   e  internacionalización  de  sitios  web».  Tradumática,  1  Delabastita,
-Dirk   y   Lambert,   José.  1996.  «La  traduction  de  textes  audiovisuels:  Modes  et  enjeux  culturels.»  En
-Yves   Gambier   (ed.)  Les  transferts  linguistiques  dans  les  médias.  Paris  :  Presses,  pp.  33-58  Duran,
-J.,   y  Sánchez,  L.  2008.  Industrias  de  la  comunicación  audiovisual.  Barcelona:  Universidad  Barcelona
-→  Corte, N. 2002. «Localización e internacionalización de sitios web». Tradumática, 1
-
-Taylor,   Christopher.   2016.   El   enfoque  multimodal  en  la  traducción  audiovisual.  Target  28:2,  pp  →
-Taylor,   Christopher.   2016.   El   enfoque   multimodal  en  la  traducción  audiovisual.  Target  28:2,  pp.
-222–236. Translation: 2020 https://benjamins.com/online/target/articles/target.28.2.04tay.es
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (13):
 ------------------------------
 Alba editorial
+
+Castro   Roig,   X.   2001.  «Reflexiones  de  un  traductor  audiovisual».  En  J.D.  Sanderson.  Doble  o  nada:
+Actas de
+
+Corte, N. 2002. «Localización e internacionalización de sitios web». Tradumática, 1
 
 Delabastita,   Dirk   y   Lambert,   José.   1996.  «La  traduction  de  textes  audiovisuels:  Modes  et  enjeux
 culturels.» En
 
-Desarrolladores." Nuevos horizontes en los Estudios de Traducción e Interpretación
-
 Duran, J., y Sánchez, L. 2008. Industrias de la comunicación audiovisual. Barcelona: Universidad de
 
-Mangiron   Hevia,   Carmen.  2013.  La  localización  de  videojuegos.  El  arte  de  traducir  para  entretener.
-En
+Lachat-Leal, Christina. 2015. "Localización de aplicaciones Estrategias de cooperación con los
+
+Martínez   Sierra,   J.J.   (Ed.),   Reflexiones   sobre   la  traducción  audiovisual:  Tres  espectros,  tres
+momentos
+
+Taylor,   Christopher.   2016.   El   enfoque   multimodal  en  la  traducción  audiovisual.  Target  28:2,  pp.
+222–236. Translation: 2020 https://benjamins.com/online/target/articles/target.28.2.04tay.es
+
+Taylor,   Christopher.   2016.   El   enfoque   multimodal  en  la  traducción  audiovisual.  Target  28:2,  pp.
+222–236. Translation: 2020 https://benjamins.com/online/target/articles/target.28.2.04tay.es
 
 València: PUV. 145-160
-
-Yves Gambier (ed.) Les transferts linguistiques dans les médias. Paris : Presses, pp. 33-58
 
 género sitio web corporativo
 
@@ -82,4 +86,4 @@ multimédia. Paris: La maison du dictionnaire
 
 pp. 39-44
 
-📊 Porcentaje estimado de cambio: 70% [███████░░░]
+📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

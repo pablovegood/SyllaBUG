@@ -2,12 +2,12 @@
 Grado: matematicas (270)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-3.T. C. Hales, Jordan's proof of the Jordan Curve Theorem, Studies in Logic, Grammar and Rhetoric 10
+T.   C.   Hales,  Jordan's  proof  of  the  Jordan  Curve  Theorem,  Studies  in  Logic,  Grammar  and  Rhetoric  10
 (23) 2007
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 D.J.   Struik,   Lectures   on   classical   differential   geometry.  Reprint  of  the  second  edition.  Dover
 Publications, Inc., New York, 1988
@@ -26,11 +26,7 @@ R. S. Millman y G. D. Parker, Elements of Differential Geometry, Prentice-Hall, 
 
 S. Montiel y A. Ros, Curves and Surfaces, AMS Graduate Studies in Mathematics, 69, 2005
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 K. Tapp, Differential Geometry of Curves and Surfaces, Undergrad. Texts Math. Springer, [Cham], 2016
 

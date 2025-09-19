@@ -2,16 +2,34 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Blázquez, D. (2010). Evaluar en Educación Física. Barcelona: INDE Publicaciones
+Blázquez,   D.   (2017).   Cómo   evaluar   bien  Educación  Física.  El  enfoque  de  la  evaluación  formativa.
+Barcelona: INDE Publicaciones
 
-El   sistema   de   calificaciones   se   expresará  de  forma  numérica  de  acuerdo  con  lo  establecido  en  el
-artículo   5.   del   R.D.  1125/2003,  de  5  de  septiembre,  por  el  que  se  establece  el  sistema  europeo  de
-créditos   y   el   sistema   de  calificaciones  en  las  titulaciones  universitarias  de  carácter  oficial  y
-validez en el territorio nacional
+📚 Recursos sin cambios (5):
+------------------------------
+Atienza,   R.,   Valencia,  A.,  &  Devís,  J.  (2018).  Experiencias  de  Evaluación  en  Educación  Física.  Una
+Aproximación desde la Formación Inicial del Profesorado. Estudios pedagógicos, 44(2), 127-147
 
-📚 Recursos sin cambios:
+Atienza,   R.,   Valencia-Peris,  A.,  Martos-García,  D.,  López-Pastor,  V.  M.,  &  Devís-Devís,  J.  (2016).
+La   percepción   del   alumnado   universitario   de   educación   física   sobre   la  evaluación  formativa:
+ventajas, dificultades y satisfacción. Movimento, 22(4), 1033-1048
+
+López   Pastor,   V.   M.   (2013).  Nuevas  perspectivas  sobre  evaluación  en  Educación  Física.  Revista  de
+educación física, 29(3), 4-13
+
+López   Pastor,   V.   M.,   Barba   Martín,   J.J.,   Monjas   Aguado,   R.,   Manrique   Arribas,  J.C.,  Heras
+Bernardino,   C.,   González   Pascual,   M.   y   Gómez   García,   J.M.   (2007).   Trece  años  de  evaluación
+compartida   en  Educación  Física.  Revista  Internacional  de  Medicina  y  Ciencias  de  la  Actividad  Física
+y el Deporte, 7(26), 69-86
+
+López   Pastor,   V.   M.,   Monjas   Aguado,   R.,  Gómez  García,  J.,  López  Pastor,  E.,  Martín  Pinela,  J.,
+González   Badiola,   J.,   …  Marugán  García,  L.  (2006).  La  evaluación  en  educación  física.  Revisión  de
+modelos   tradicionales   y   planteamiento   de   una  alternativa.  La  evaluación  formativa  y  compartida.
+Retos. Nuevas tendencias en educación física, deporte y recreación, 10, 31-41
+
+✅ Recursos añadidos (22):
 ------------------------------
 Adelantado,   V.  N.,  &  Jiménez,  F.  J.  (2011).  The  improvement  in  the  formative  assessment  on  physical
 education   teachers   through   an   instrument   for   metaevaluation.   RICYDE.  Revista  Internacional  de
@@ -20,19 +38,6 @@ Ciencias del Deporte, 8(27), 63-79
 Arslan,   Y.,   &   Ilker,   E.  (2013).  The  Impact  of  a  Developed  Measurement  and  Evaluation  Development
 Program   on   Pre-service   Physical   Education   Teachers'   Perceptions   Related   to   Measurement   and
 Evaluation. Educational Sciences: Theory and Practice, 13(2), 1119-1124
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Atienza,   R.,   Valencia,  A.,  &  Devís,  J.  (2018).  Experiencias  de  Evaluación  en  Educación  Física.  Una
-Aproximación desde la Formación Inicial del Profesorado. Estudios pedagógicos, 44(2), 127-147
-
-Atienza,   R.,   Valencia-Peris,  A.,  Martos-García,  D.,  López-Pastor,  V.  M.,  &  Devís-Devís,  J.  (2016).
-La   percepción   del   alumnado   universitario   de   educación   física   sobre   la  evaluación  formativa:
-ventajas, dificultades y satisfacción. Movimento, 22(4), 1033-1048
 
 Blázquez,   D.   (2024).   Cómo   evaluar   bien  Educación  Física.  El  enfoque  de  la  evaluación  formativa.
 Barcelona: INDE Publicaciones
@@ -69,22 +74,9 @@ López   Pastor,  V.  M.  (2006)  La  Evaluación  en  Educación  Física:  rev
 y   planteamiento  de  una  alternativa:  la  evaluación  formativa  y  compartida».  Buenos  Aires:  Ed.  Miño  y
 Dávila
 
-López   Pastor,   V.   M.   (2013).  Nuevas  perspectivas  sobre  evaluación  en  Educación  Física.  Revista  de
-educación física, 29(3), 4-13
-
-López   Pastor,   V.   M.,   Barba   Martín,   J.J.,   Monjas   Aguado,   R.,   Manrique   Arribas,  J.C.,  Heras
-Bernardino,   C.,   González   Pascual,   M.   y   Gómez   García,   J.M.   (2007).   Trece  años  de  evaluación
-compartida   en  Educación  Física.  Revista  Internacional  de  Medicina  y  Ciencias  de  la  Actividad  Física
-y el Deporte, 7(26), 69-86
-
 López   Pastor,   V.   M.,   Kirk,   D.,   Lorente   Catalán,   E.,   MacPhail,   A.,   &  Macdonald,  D.  (2013).
 Alternative assessment in physical education: a review of international literature. Sport, Education
 and Society, 18(1), 57-76
-
-López   Pastor,   V.   M.,   Monjas   Aguado,   R.,  Gómez  García,  J.,  López  Pastor,  E.,  Martín  Pinela,  J.,
-González   Badiola,   J.,   …  Marugán  García,  L.  (2006).  La  evaluación  en  educación  física.  Revisión  de
-modelos   tradicionales   y   planteamiento   de   una  alternativa.  La  evaluación  formativa  y  compartida.
-Retos. Nuevas tendencias en educación física, deporte y recreación, 10, 31-41
 
 McArthur, J. (2019). La evaluación: Una cuestión de justicia social. Perspectiva crítica y prácticas
 adecuadas. Narcea Ediciones
@@ -118,4 +110,4 @@ nivel educativo. Motricidad. European Journal of Human Movement, 17, 71-93
 Tolgfors,   B.   (2019).   Transformative  assessment  in  physical  education.  European  Physical  Education
 Review, 25(4), 1211-1225
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 85% [████████░░]

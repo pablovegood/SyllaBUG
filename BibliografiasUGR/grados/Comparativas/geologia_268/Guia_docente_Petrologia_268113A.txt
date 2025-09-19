@@ -2,12 +2,16 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
 Cambridge University Press Scarrow, J.H., Lázaro, C., Cambeses, A., García-Casco, A., Bea, F., 2014,
-e-book. Prácticas de Petrología. Universidad de Granada
+e-book.   Prácticas   Spear,   F.S.,   1993,   Metamorphic  phase  equilibria  and  pressure-temperature-time
+paths
 
-📚 Recursos sin cambios:
+Scarrow,   J.H.,   Lázaro,  C.,  Cambeses,  A.,  García-Casco,  A.,  Bea,  F.,  2014,  e-book.  Prácticas  Winter
+J.D, 2010. Principles of Igneous and Metamorphic Petrology. Prentice Hall
+
+📚 Recursos sin cambios (11):
 ------------------------------
 Bard, J.P., 1987, Microtexturas de rocas magmáticas y metamórficas. Masson
 
@@ -31,9 +35,13 @@ Barcelona
 MacKenzie, W.S., Guilford, C., Yardley, B.W.D., 1990, Atlas of metamorphic rocks and their textures.
 Longman
 
+Min. Soc. Am. Monographs Yardley, B.W.D., 1989, An Introduction to metamorphic petrology. Longman
+
 Philpotts,   A.R.,   and   Ague,  J.J.,  2009,  Principles  of  igneous  and  metamorphic  petrology.  Cambridge
 University Press
 
+✅ Recursos añadidos (3):
+------------------------------
 Scarrow,   J.H.,   Lázaro,   C.,   Cambeses,   A.,   García-Casco,  A.,  Bea,  F.,  2014,  e-book.  Prácticas  de
 Petrología. Universidad de Granada
 
@@ -42,14 +50,4 @@ Monographs
 
 Winter J.D, 2010. Principles of Igneous and Metamorphic Petrology. Prentice Hall
 
-Yardley, B.W.D., 1989, An Introduction to metamorphic petrology. Longman
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

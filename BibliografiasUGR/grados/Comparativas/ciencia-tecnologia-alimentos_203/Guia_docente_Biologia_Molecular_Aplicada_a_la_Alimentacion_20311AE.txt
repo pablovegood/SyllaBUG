@@ -2,11 +2,11 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Alberts B, Heald R, Johnson A, Morgan D, Raff M, Roberts K, Walter P. Molecular biology of the cell.
 7ª Edición. Nueva York: WW Norton & Company, Inc., 2022
@@ -15,6 +15,8 @@ Burns M, Foster L, Walker M. DNA Techniques to verify food authenticity: Applica
 RSC Pub, 2019
 
 Heller KJ. Genetically engineered food. Methods and detection. 2ª Edición. Wiley-Blackwell, 2006
+
+International Service for the Acquisition of Agri-Biotech Applications (ISAAA) http://www.isaaa.org/
 
 Krebs   JE,   Goldstein   ES,   Kilpatrick   ST.  Lewin's  Genes  XII.  12ª  Edición.  Massachusetts:  Jones  and
 Barlett Publishers, 2017
@@ -30,13 +32,8 @@ Renneberg R, Loroch V. Biotechnology for Beginners. 3ª Edición. Elsevier/Acade
 Vinderola   G,   Ouwehand   A,   Salminen   S,   von   Wright   A.  Lactic  Acid  Bacteria:  Microbiological  and
 Functional Aspects, 5ª Edición. CRC Press, Taylor & Francis Group, 2019
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Wiley   Blackwell,   2016  →  Heller  KJ.  Genetically  engineered  food.  Methods  and  detection.  2ª  Edición.
-Wiley-Blackwell, 2006
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-International Service for the Acquisition of Agri-Biotech Applications (ISAAA) http://www.isaaa.org/
-
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

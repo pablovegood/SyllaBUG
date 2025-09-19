@@ -2,14 +2,21 @@
 Grado: educacion-social-melilla (514)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Ruiz   Alonso,   G.   (1991).   Juegos   y   Deportes  Alternativos.  Editorial  Deportiva.  Lérida:  Editorial
+Agonos   Torres,   J.  y  Rivera,  E.  (1994).  Los  juegos  y  deportes  alternativos  y  adaptados  en  Educación
+Primaria. Granada: Edita Proyecto Sur-Rosillo´s
 
-📚 Recursos sin cambios:
+https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=ocio+y+recreaci%C3%B3n+a+tra
+v%C3%A9s+de+la+actividad+f%C3%ADsica&btnG=
+
+📚 Recursos sin cambios (10):
 ------------------------------
 Agudo,   D.;   Mínguez,   C.;   Ruiz,  M.;  Salvador,  R.  y  Tomás,  J.  (2002).  Juegos  de  todas  las  culturas.
 Barcelona: INDE Publicaciones
+
+Google Académico Artículos relacionados con el ocio y la recreación a través de la actividad física
 
 López Andrada B. y otros. (1986). Tiempo libre y educación. Madrid: Editorial Escuela Española
 
@@ -28,26 +35,20 @@ Rebollo, J. A. (2002). Deporte para todos. Huelva. Diputación Provincial: Servi
 Rebollo,   J.M.;   Sáenz,   P.   y   Díaz,   M.   (ed)  (2003).  Vamos  a  jugar.  El  juego  en  Primaria.  Huelva.
 Universidad de Huelva Servicio de Publicaciones
 
-Ruiz   Alonso,   G.   (1991).   Juegos   y   Deportes  Alternativos.  Editorial  Deportiva.  Lérida:  Editorial
-Agonos
-
 Torres,   J.   (2000).   Actividad   física   para   el   ocio   y  el  tiempo  libre.  Una  propuesta  didáctica.
 Granada: Proyecto Sur
+
+✅ Recursos añadidos (4):
+------------------------------
+Google Académico
+
+Ruiz   Alonso,   G.   (1991).   Juegos   y   Deportes  Alternativos.  Editorial  Deportiva.  Lérida:  Editorial
+Agonos
 
 Torres,   J.   y   Rivera,   E.   (1994).   Los   juegos   y   deportes  alternativos  y  adaptados  en  Educación
 Primaria. Granada: Edita Proyecto Sur-Rosillo´s
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Artículos relacionados con el ocio y la recreación a través de la actividad física
-
-Google Académico
-
 https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=ocio+y+recreaci%C3%B3n+a+trav%C3%A9s+de+la+a
 ctividad+f%C3%ADsica&btnG=
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

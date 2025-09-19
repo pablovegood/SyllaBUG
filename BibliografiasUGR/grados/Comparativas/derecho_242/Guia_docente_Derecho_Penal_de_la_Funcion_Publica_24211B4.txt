@@ -2,11 +2,11 @@
 Grado: derecho (242)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 ALONSO   PÉREZ,   F.:   Delitos   cometidos   por   los   funcionarios   públicos   en  el  nuevo  Código  Penal,
 Dykinson. Madrid, 2000
@@ -25,6 +25,8 @@ GONZÁLEZ CUSSAC, J. L. (Coord.): Derecho Penal. Parte Especial, 7ª edición, T
 
 GONZÁLEZ   CUSSAC,   J.   L.:   Comentarios   a   la   reforma   del  Código  Penal  de  2015,  Tirant  lo  Blanch,
 Valencia, 2015
+
+GÓMEZ TOMILLO, M.: Comentarios prácticos al Código Penal, Tomo V, Thomson Reuters Aranzadi, 2015
 
 LACRUZ   LÓPEZ,   J.M./MELENDO   PARDOS,   M.  (Coords.):  Tutela  penal  de  las  Administraciones  Públicas  .
 Madrid: Dykinson, 2013
@@ -57,12 +59,8 @@ Edersa, Madrid, 1996
 
 VILLADA, J.L., Delitos contra la Administración Pública, Abeledo Perrot, 2022
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-GÓMEZ TOMILLO, M.: Comentarios prácticos al Código Penal, Tomo V, Thomson Reuters Aranzadi, 2015
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

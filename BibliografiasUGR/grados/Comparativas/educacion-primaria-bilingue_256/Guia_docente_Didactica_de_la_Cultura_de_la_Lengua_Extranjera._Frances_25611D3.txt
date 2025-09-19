@@ -2,11 +2,16 @@
 Grado: educacion-primaria-bilingue (256)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+VELÁZQUEZ   HERRERA,  Adelina  (2015).  “Diversité  pédagogique  et  culturelle  en  classe  de  FLE  :  Vers  une
+intégration   contextualisée   de  la  compétence  interculturelle”,  Recherches  en  didactique  des  langues
+et      des      cultures      [En      ligne]      consulté      le      18     février     2020     URL     :
+http://journals.openedition.org/rdlc/407 GUIJARRO OJEDA, Juan Ramón (2005). “The role of axiological
+competence   in   EFL  teacher  training:  Opening  doors  to  otherness-friendly  pedagogies”.  International
+Journal of Learning, 12(3): 1-9
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 ABDALLAH-PREITCEILLE, Martine. (1999). L’éducation interculturelle. PUF
 
@@ -19,8 +24,16 @@ BYRAM, Michael (2003). Context and Culture in Language Teaching and Learning. Mu
 
 BYRAM, Michael. (coord., 2003). La compétence interculturelle. Conseil de l’Europe
 
-GUIJARRO   OJEDA,   Juan   Ramón   (2005).   “The  role  of  axiological  competence  in  EFL  teacher  training:
-Opening doors to otherness-friendly pedagogies”. International Journal of Learning, 12(3): 1-9
+CONSEIL   DE   L’EUROPE   (2001).   Cadre   européen   commun   de   référence   pour  les  langues.  Apprendre,
+enseigner, évaluer. Didier
+
+CONSEIL   DE   L’EUROPE   (2018).   Cadre   Européen   Commun   de   Référence   pour  le  langues  :  apprendre,
+enseigner   et   évaluer.   Volume   complémentaire   avec   de   nouveaux   descripteurs.   Disponible   en  :
+https://rm.coe.int/cecr-volume-complementaire-avec-de-nouveaux-descripteurs/16807875d5
+
+Disponible            en            :            https://rm.coe.int/cecr-volume-complementaire-avec-de-
+nouveauxdescripteurs/16807875d5   KRAMSCH,   Claire   (1994).  Context  and  Culture  in  Language  Teaching.
+Oxford University Press
 
 GUIJARRO   OJEDA,   Juan  Ramón  (2006).  “Enseñanzas  de  la  Teoría  Queer  para  la  Didáctica  de  la  Lengua  y
 la Literatura en Lengua extranjera”. Porta Linguarum, 6: 53-66
@@ -41,30 +54,14 @@ Grenoble
 
 STEELE, Ross. (2017). Civilisation progressive du français (300 activités). Clé International
 
+✅ Recursos añadidos (2):
+------------------------------
+GUIJARRO   OJEDA,   Juan   Ramón   (2005).   “The  role  of  axiological  competence  in  EFL  teacher  training:
+Opening doors to otherness-friendly pedagogies”. International Journal of Learning, 12(3): 1-9
+
 VELÁZQUEZ   HERRERA,  Adelina  (2015).  “Diversité  pédagogique  et  culturelle  en  classe  de  FLE  :  Vers  une
 intégration   contextualisée   de  la  compétence  interculturelle”,  Recherches  en  didactique  des  langues
 et      des      cultures      [En      ligne]      consulté      le      18     février     2020     URL     :
 http://journals.openedition.org/rdlc/407
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CONSEIL   DE   L’EUROPE   (2001).   Cadre   européen   commun   de   référence  pour  les  langues  →  CONSEIL  DE
-L’EUROPE   (2018).   Cadre   Européen   Commun   de   Référence   pour  le  langues  :  apprendre,  enseigner  et
-évaluer.     Volume     complémentaire     avec     de     nouveaux    descripteurs.    Disponible    en    :
-https://rm.coe.int/cecr-volume-complementaire-avec-de-nouveaux-descripteurs/16807875d5
-
-CONSEIL   DE   L’EUROPE   (2018).   Cadre   Européen   Commun   de   Référence   pour  le  langues  :  apprendre,
-enseigner   et   évaluer.  Volume  complémentaire  avec  de  nouveaux  descripteurs.  descripteurs/16807875d5
-KRAMSCH,   Claire   (1994).   Context   and   Culture   in   Language   Teaching.   Oxford  University  Press  →
-CONSEIL   DE   L’EUROPE   (2018).   Cadre   Européen   Commun   de   Référence   pour  le  langues  :  apprendre,
-enseigner   et   évaluer.   Volume   complémentaire   avec   de   nouveaux   descripteurs.   Disponible   en  :
-https://rm.coe.int/cecr-volume-complementaire-avec-de-nouveaux-descripteurs/16807875d5
-
-✅ Recursos añadidos:
-------------------------------
-CONSEIL   DE   L’EUROPE   (2001).   Cadre   européen   commun   de   référence   pour  les  langues.  Apprendre,
-enseigner, évaluer. Didier
-
-KRAMSCH, Claire (1994). Context and Culture in Language Teaching. Oxford University Press
-
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

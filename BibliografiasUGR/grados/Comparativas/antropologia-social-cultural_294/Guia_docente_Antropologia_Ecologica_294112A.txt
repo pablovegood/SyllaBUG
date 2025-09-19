@@ -2,11 +2,11 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (39):
 ------------------------------
 Arango,   Joaquín   (1980)   La  teoría  de  la  transición  demográfica  y  la  experiencia  histórica,  Revista
 Española de Investigación Sociológica, nº 10, pp. 169-198
@@ -22,6 +22,9 @@ Barcelona, Crítica
 Buxo, María Jesús (1983) Cultura y ecología de las sociedades primitivas, Barcelona, Mitre
 
 Chagnon, Napoleon (1968) Yanomamö: The fierce people, Nueva York, Holt, Rinehart and Winston
+
+Daly,    H.   (1989)   (Comp.)   Economía,   ecología,   ética.   Ensayos   hacia   una   economía   en   estado
+estacionario, México, F.C.E
 
 Dawkins, R. (1979) El gen egoísta, Barcelona, Labor
 
@@ -103,13 +106,8 @@ Sánchez Fernández, J. O. (1993) Ecología (Antropología de la), Barcelona, Ma
 White,   Lesli   A.   (1982)   La   ciencia   de  la  cultura.  Un  estudio  sobre  el  hombre  y  la  civilización,
 Barcelona, Paidós
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Daly,    H.   (1989)   (Comp.)   Economía,   ecología,   ética.   Ensayos   hacia   una   economía   en   estado
-estacionario, México, F.C.E
-
-📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

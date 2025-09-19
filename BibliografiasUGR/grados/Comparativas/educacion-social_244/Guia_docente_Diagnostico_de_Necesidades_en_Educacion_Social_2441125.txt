@@ -2,22 +2,13 @@
 Grado: educacion-social (244)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Aguilar, M.J. &Ander-Egg, E (2001). Diagnóstico social. Conceptos y metodología. México: Humanitas
-
+Aguilar,   M.J.   &Ander-Egg,  E  (2001).  Diagnóstico  social.  Conceptos  y  metodología.  México:  Humanitas
 Cembranos,     Montesinos    y    Bustelo    (2006).    La    Animación    Sociocultural:    una    propuesta
 metodológica.Madrid: E. Popular (Cap. II Pág. 23-45)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (9):
 ------------------------------
 Aguilar,   M.J.   e   Ander-Egg,  E.  (1992).  Evaluación  de  servicios  y  programas  sociales.  Madrid:  Siglo
 XXI
@@ -26,6 +17,28 @@ Anaya Nieto, D. (2002): Diagnóstico en Educación. Diseño y uso de instrumento
 
 Arnal,    J.    del    Rincón,    D.   y   Latorre,   A   (1992).   INVESTIGACIÓN   EDUCATIVA.   Fundamentos   y
 Metodología.Barcelona LABOR
+
+Hernández, S. Pozo, C. & Alonso, E. (2004). La aproximación Multimétodo en evaluación denecesidades.
+Apuntes de Psicología. 22(3). 293-308
+
+Pérez   Campanero,   M.P.  (2000)  Cómo  detectar  las  necesidades  de  intervención  socioeducativas.Madrid:
+Narcea
+
+Rubio,   Mª.   J.   y   Varas,   J.   (2004)   Análisis  de  la  realidad  en  la  intervención  social:  Métodos  y
+Técnicasde investigación. Madrid, C.C.S
+
+Ruiz,   C,  (2008).  El  enfoque  Multimétodo  en  la  investigación  social  y  educativa.  Una  mirada  desde  el
+paradigma de la complejidad. Revista de Filosofía y Socio Política de la Educación. 8, 13-28
+
+Vargas   L.   Bustillos   G   y   Marfan   M.   Técnicas   participativas  para  la  educación  Popular.  Madrid,
+EditorialPopular
+
+Witkin, B. R. &Altschuld, J. W. (1995). Planning and Conducting needs assessments. A practicalguide.
+London: SAGE
+
+✅ Recursos añadidos (41):
+------------------------------
+Aguilar, M.J. &Ander-Egg, E (2001). Diagnóstico social. Conceptos y metodología. México: Humanitas
 
 Bausela   Herreras,  E.  (2004).  Metodología  de  investigación  evaluativa.  Indivisa:  Boletín  de  estudios
 einvestigaciones. Nª 5. 183-192
@@ -40,6 +53,9 @@ EditorialUniversidad de Castilla la Mancha. Cuenca
 
 Castillo, S. y Cabrerizo, J. (2003). Evaluación de programas de intervención socioeducativa: Agentes
 yámbitos. Madrid: Prentice-Hall
+
+Cembranos,     Montesinos    y    Bustelo    (2006).    La    Animación    Sociocultural:    una    propuesta
+metodológica.Madrid: E. Popular (Cap. II Pág. 23-45)
 
 Chatterji,   M.   (2005).   Evidence  on  „What  works‟:  an  argument  for  extended-term  mixed-method  (ETMM)
 Evaluation Desings. EducationalResearch 34(5), pp. 14-24
@@ -68,9 +84,6 @@ González,   T.   (2005).   Fundamentos   científicos   para   una   metodolog�
 visióncontextualizada de la ciencia. Bordón 57(1), pp. 59-76
 
 Gómez Serra, M. (2004). Evaluación de los servicios sociales. Barcelona: Gedisa
-
-Hernández, S. Pozo, C. & Alonso, E. (2004). La aproximación Multimétodo en evaluación denecesidades.
-Apuntes de Psicología. 22(3). 293-308
 
 House, E.R. (1994). Evaluación, ética y poder. Madrid: Morata
 
@@ -101,9 +114,6 @@ Madrid:CIS
 Pozo,   M.T.   y   Salmerón,   H.   (1999)   Tendencias   conceptuales   metodológicas   en   la  evaluación  de
 lasnecesidades. IX Congreso Nacional de Modelos
 
-Pérez   Campanero,   M.P.  (2000)  Cómo  detectar  las  necesidades  de  intervención  socioeducativas.Madrid:
-Narcea
-
 Pérez Juste, R. (2006): Evaluación de programas educativos. Madrid: La Muralla
 
 Rebolloso, Fernández-Ramírez, B. e Cantón, P. (2008). Evaluación de programas de intervenciónsocial.
@@ -111,12 +121,6 @@ Madrid: Síntesis
 
 Reviere,   R.,   Berkowitz,   S.,  Carter,  C.C.  y  Ferguson,  C.G.  (1996)  Needs  assessment.  A  creative  and
 practical guide for social scientists. Washington: Taylor and Francis
-
-Rubio,   Mª.   J.   y   Varas,   J.   (2004)   Análisis  de  la  realidad  en  la  intervención  social:  Métodos  y
-Técnicasde investigación. Madrid, C.C.S
-
-Ruiz,   C,  (2008).  El  enfoque  Multimétodo  en  la  investigación  social  y  educativa.  Una  mirada  desde  el
-paradigma de la complejidad. Revista de Filosofía y Socio Política de la Educación. 8, 13-28
 
 Sanders, J.R.(ed.)(1998). Estándares para la evaluación de programas. Bilbao: ICE
 
@@ -137,15 +141,9 @@ Tejedor,   J   (1990)   Perspectiva   metodológica   de   diagnóstico   y   ev
 
 Tójar,J. C. (2006). Investigación cualitativa: comprender y actuar. Madrid: La
 
-Vargas   L.   Bustillos   G   y   Marfan   M.   Técnicas   participativas  para  la  educación  Popular.  Madrid,
-EditorialPopular
-
 Vedung,   E.   (1997).   Evaluación   de   políticas   públicas   y  programas  Madrid:  Ministerio  de  Trabajo
 yAsuntos Sociales
 
 Villa Arocena, J.L. (2002). Diagnóstico en Educación. Barcelona: UOC
 
-Witkin, B. R. &Altschuld, J. W. (1995). Planning and Conducting needs assessments. A practicalguide.
-London: SAGE
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 84% [████████░░]

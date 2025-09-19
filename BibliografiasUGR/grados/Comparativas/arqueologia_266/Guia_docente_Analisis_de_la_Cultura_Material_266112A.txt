@@ -2,11 +2,22 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Cañavate,   J.   (ed.)   (2001):   Arquitectura   y   arqueología   medieval,  Granada  Carandini,  A.  (1984):
+Arqueología   y   Cultura   Material.   Editorial  Mitre,  Barcelona  Chapa  Brunet,  T.;  Mayoral,  V.  (2007):
+Arqueología del trabajo. El ciclo de la vida en un poblado ibérico. Akal, Madrid
 
-📚 Recursos sin cambios:
+Quirós   Castillo,   J.A.  (dir.)  (2013):  La  materialidad  de  la  historia.  La  Arqueología  en  los  inicios
+del siglo XXI. Akal, Madrid Tejero, J. M. (2009): Hueso, asta y marfil. Tecnología de la explotación
+de las materias óseas en la Prehistoria. Societat Catalana d'Arqueologia, Barcelona
+
+Trigger, B. G. (1992): Historia del pensamiento arqueológico. Editorial Critica, Barcelona, Estudios
+AA.VV.   (1995):   Leer   el   documento   construido,  Informes  de  la  construcción,  435,  pp.  3-100  AA.VV.
+(2003):   Actas   del   Seminario   Internacional   de  Arqueología  de  la  Arquitectura,  “Arqueología  de  la
+Arquitectura” 1, pp. 15-210
+
+📚 Recursos sin cambios (21):
 ------------------------------
 Bianchi,   G.   (1996):   “Trasmissione   dei   saperi   tecnici   e  analisi  dei  procedimenti  costruttivi”.
 Archeologia dell’Architettura, 1, pp. 53-64
@@ -66,33 +77,19 @@ Renfrew, C.; Bahn, P. (1993): Arqueología. Teorías, métodos y práctica. Edit
 Sarmiento   Ramírez,   I.   (2007):   “Cultura   y   cultura   material:   aproximaciones   a  los  conceptos  e
 inventario epistemológico”, Anales del Museo de América 15, 217‐236
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Cañavate,   J.   (ed.)   (2001):   Arquitectura   y   arqueología   medieval,  Granada  Carandini,  A.  (1984):
-Arqueología   y   Cultura   Material.   Editorial  Mitre,  Barcelona  Chapa  Brunet,  T.;  Mayoral,  V.  (2007):
-Arqueología   del   trabajo.   El   ciclo  de  la  vida  en  un  poblado  ibérico.  Akal,  Madrid  →  Chapa  Brunet,
-T.;   Mayoral,   V.   (2007):  Arqueología  del  trabajo.  El  ciclo  de  la  vida  en  un  poblado  ibérico.  Akal,
-Madrid
-
-Quirós   Castillo,   J.A.  (dir.)  (2013):  La  materialidad  de  la  historia.  La  Arqueología  en  los  inicios
-del siglo XXI. Akal, Madrid Tejero, J. M. (2009): Hueso, asta y marfil. Tecnología de la explotación
-de   las   materias   óseas   en  la  Prehistoria.  Societat  Catalana  d'Arqueologia,  Barcelona  →  Tejero,  J.
-M.   (2009):   Hueso,   asta   y   marfil.   Tecnología   de   la   explotación   de   las  materias  óseas  en  la
-Prehistoria. Societat Catalana d'Arqueologia, Barcelona
-
-Trigger, B. G. (1992): Historia del pensamiento arqueológico. Editorial Critica, Barcelona, Estudios
-AA.VV.   (1995):   Leer   el   documento   construido,  Informes  de  la  construcción,  435,  pp.  3-100  AA.VV.
-(2003):   Actas   del   Seminario   Internacional   de  Arqueología  de  la  Arquitectura,  “Arqueología  de  la
-Arquitectura”   1,   pp.   15-210   →  AA.VV.  (2003):  Actas  del  Seminario  Internacional  de  Arqueología  de
-la Arquitectura, “Arqueología de la Arquitectura” 1, pp. 15-210
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 AA.VV. (1995): Leer el documento construido, Informes de la construcción, 435, pp. 3-100
+
+AA.VV.   (2003):  Actas  del  Seminario  Internacional  de  Arqueología  de  la  Arquitectura,  “Arqueología  de
+la Arquitectura” 1, pp. 15-210
 
 Carandini, A. (1984): Arqueología y Cultura Material. Editorial Mitre, Barcelona
 
 Cañavate, J. (ed.) (2001): Arquitectura y arqueología medieval, Granada
+
+Chapa   Brunet,   T.;   Mayoral,   V.  (2007):  Arqueología  del  trabajo.  El  ciclo  de  la  vida  en  un  poblado
+ibérico. Akal, Madrid
 
 Estudios   AA.VV.   (1995):   Leer  el  documento  construido,  Informes  de  la  construcción,  435,  pp.  3-100
 AA.VV.   (2003):  Actas  del  Seminario  Internacional  de  Arqueología  de  la  Arquitectura,  “Arqueología  de
@@ -109,6 +106,9 @@ Museo de América 15, 217‐236
 Quirós   Castillo,   J.A.  (dir.)  (2013):  La  materialidad  de  la  historia.  La  Arqueología  en  los  inicios
 del siglo XXI. Akal, Madrid
 
+Tejero, J. M. (2009): Hueso, asta y marfil. Tecnología de la explotación de las materias óseas en la
+Prehistoria. Societat Catalana d'Arqueologia, Barcelona
+
 Trigger, B. G. (1992): Historia del pensamiento arqueológico. Editorial Critica, Barcelona
 
-📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

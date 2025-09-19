@@ -2,11 +2,11 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (29):
 ------------------------------
  *** Dictionar enciclopedic: 98.000 definitii, Editura Cartier, 2001
 
@@ -89,11 +89,7 @@ Vasiliana '98, Iasi, 2003
    VRĂJITORU,   Ana,  Curs  practic  de  limba  română  pentru  străini,  vol.  III  -  Texte,  Editura  Vasiliana
 '98, Iasi, 2003
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
    Grandes   escritores   rumanos,   Edición   bilingüe,   edición  y  selección  Alba  Diz  Villanueva,  Felix
 Nicolau, Huerga y Fierro editores, Madrid, 2024

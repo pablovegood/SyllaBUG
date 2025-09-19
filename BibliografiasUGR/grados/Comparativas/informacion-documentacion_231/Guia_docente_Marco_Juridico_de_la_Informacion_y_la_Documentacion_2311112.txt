@@ -2,14 +2,16 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
+Constitución Española y Estatuto de Autonomía de Andalucía
+
 Textos jurídicos Leyes Administrativas (Martín Rebollo, L.), Aranzadi (última edición)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Alegre   Ávila,   J.M.,   Evolución   y   régimen   jurídico   del   patrimonio   histórico.  La  configuración
-dogmática   de   la   propiedad   histórica   en   la   Ley  16/1985  de  25  de  junio  del  patrimonio  histórico
+dogmática   de   la   propiedad   histórica   en   la   ley  16/1985  de  25  de  junio  del  patrimonio  histórico
 español, Ministerio de Cultura, Madrid, 1994
 
 Arana   García,   E.   y   otros   (dir.),   Materiales  para  el  estudio  del  Derecho  Administrativo  I  en  el
@@ -27,11 +29,7 @@ Parada Vázquez, R., Derecho Administrativo I. Parte General, Marcial Pons, Madr
 
 Álvarez Álvarez, J. L., Estudio sobre el patrimonio cultural de España, Marcial Pons, Madrid, 2004
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Bombillar   Sáenz,  F.M.,"Instrumentos  públicos  de  protección  ambiental  (III):  información  ambiental",
 Derecho Ambiental (Dirs. M.A. Torres López y otros), Tecnos, Madrid, última edición
@@ -49,4 +47,4 @@ naturaleza constitucional, Aranzadi, Cizur Menor (Navarra), 2023
 Rozados Oliva, M. y otros (dirs.), Elementos para el estudio del Derecho de la comunicación, Tecnos,
 Madrid, última edición
 
-📊 Porcentaje estimado de cambio: 75% [███████░░░]
+📊 Porcentaje estimado de cambio: 58% [█████░░░░░]

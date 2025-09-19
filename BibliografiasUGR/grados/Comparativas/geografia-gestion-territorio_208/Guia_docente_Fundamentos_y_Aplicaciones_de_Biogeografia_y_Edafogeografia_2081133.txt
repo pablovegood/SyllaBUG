@@ -2,15 +2,14 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+(DEMANGEOT, J. (1989). Los medios "naturales" del globo. Masson, Barcelona)
 
-📚 Recursos sin cambios:
+DEMANGEOT, J. (2009): Les milieux "naturels" du globe. Armand Colin. 364 p
+
+📚 Recursos sin cambios (22):
 ------------------------------
-ATTENBOROUGH,   D.   (1995):   La   vida   privada   de   las   plantas.  Historia  natural  del  comportamiento
-botánico. Planeta. Barcelona.320 p
-
 AUBERT, G. y BOULAINE, J. (1982): La Edafología. Barcelona Oikos-Tau
 
 BARRY,   C.   y   MOORE,   P.   (2020):   Biogeography.  An  ecological  and  evolutionary  approach.  Blackwell
@@ -29,20 +28,10 @@ valoración de la vegetación. Geoforma ediciones. Logroño, 144 p
 
 COBERTERA, E. (1993): Edafología aplicada. Cátedra. Madrid
 
-DANCHÍS,   E.,   FOS,   M.   y   BORDÓN,   Y.   (2004):   Biogeografía.  Editorial  Universidad  Politécnica  de
-Valencia
-
-DEMANGEOT,   J.   (2009):  Les  milieux  "naturels"  du  globe.  Armand  Colin.  364  p.  (DEMANGEOT,  J.  (1989).
-Los medios "naturales" del globo. Masson, Barcelona)
-
 DERRUAU,   M.   (dir.)   (1996):   Composantes  et  concepts  de  la  géographie  physique.  A.  Colin,  coll.  U,
 Paris. 254 p
 
 DUCHAFOUR, Ph. (1987): Manual de Edafología. Toray-Masson. Barcelona
-
-DÍAZ   QUIDIELLO,   J.   (dir.)  (2009):  Atlas  de  la  historia  del  territorio  de  Andalucía.  Consejería  de
-Vivienda   y   Ordenación   del   Territorio.  Instituto  de  Cartografía  de  Andalucía.  Junta  de  Andalucía.
-Sevilla
 
 FAO (1998): World reference base for soil resources. World Soil Resources Report. Roma
 
@@ -53,6 +42,51 @@ FERRERAS,   C.   y   AROZENA,   M.E.   (1987):   Guía  física  de  España.  2
 Madrid. 394 pp
 
 FERRERAS, C. y FIDALGO. C. (1991): Biogeografía y Edafogeografía. Síntesis. Madrid
+
+GÓMEZ   ZOTANO,   J.   y   RIESCO   CHUECA,   P.  (2010):  Marco  conceptual  y  metodológico  para  los  paisajes
+españoles.   Aplicación   a  tres  escalas  espaciales.  Consejería  de  Obras  Públicas  y  Vivienda.  Junta  de
+Andalucía.   Centro   de   Estudios   Paisaje   y  Territorio.  Ministerio  de  Medio  Ambiente,  Medio  Rural  y
+Marino, Sevilla. 467 p
+
+GÓMEZ   ZOTANO,  J.,  ARIAS  GARCÍA,  J.,  OLMEDO  COBO,  J.A.  y  SERRANO  MONTES,  J.L.  (eds.)  (2016):  Avances
+en   Biogeografía.  Áreas  de  distribución:  entre  puentes  y  barreras.  Editorial  Universidad  de  Granada-
+Tundra Ediciones. Granada, 631 p
+
+HUGETT, R. J. (1998): Fundamentals of biogeography. Routledge, London
+
+LOMOLINO,   M.V.,   RIDDLE,   B.T.,   WHITTAKER,   R.J.   y  BROWN,  J.H.  (2010):  Biogeography  (4ª  edición).
+Sinauer Ass. Sunderland
+
+LOZANO, P. (2000): “Métodos y técnicas en Zoogeografía”. En MEAZA, G. et al., Metodología y Práctica
+de la Biogeografía. Ed. Serbal. Barcelona, 319-374
+
+MEAZA, G. (dir.) (2000): Metodología y práctica de la Biogeografía. Ediciones El Serbal
+
+OTERO, J.C. (2020): La geografía de la vida: la biogeografía. Editorial Aula Magna
+
+OTROS   MANUALES  Y  OBRAS  GENERALES:  ATTENBOROUGH,  D.  (1995):  La  vida  privada  de  las  plantas.  Historia
+natural del comportamiento botánico. Planeta. Barcelona.320 p
+
+✅ Recursos añadidos (51):
+------------------------------
+BIBLIOGRAFÍA ESPECÍFICA DE TERRITORIOS QUE SE VISITAN CON LAS PRÁCTICAS DE CAMPO
+
+DANCHÍS,   E.,   FOS,   M.   y   BORDÓN,   Y.   (2004):   Biogeografía.  Editorial  Universidad  Politécnica  de
+Valencia
+
+DEMANGEOT,   J.   (2009):  Les  milieux  "naturels"  du  globe.  Armand  Colin.  364  p.  (DEMANGEOT,  J.  (1989).
+Los medios "naturales" del globo. Masson, Barcelona)
+
+DEMANGEOT,   J.   (2009):  Les  milieux  "naturels"  du  globe.  Armand  Colin.  364  p.  (DEMANGEOT,  J.  (1989).
+Los medios "naturales" del globo. Masson, Barcelona)
+
+DICCIONARIOS
+
+DÍAZ   QUIDIELLO,   J.   (dir.)  (2009):  Atlas  de  la  historia  del  territorio  de  Andalucía.  Consejería  de
+Vivienda   y   Ordenación   del   Territorio.  Instituto  de  Cartografía  de  Andalucía.  Junta  de  Andalucía.
+Sevilla
+
+GARCÍA CANSECO. V. (coord.) (2001): Parque Nacional de Sierra Nevada. Canseco Editores. 300 p
 
 GEORGE, P. (2004): Diccionario Akal de Geografía. Akal, Madrid, 612 p
 
@@ -81,14 +115,9 @@ GÓMEZ   ZOTANO,   J.   (dir.)   (2009):   Dunas   litorales   y   fondos   mari
 Asociación   Grupo  de  Trabajo  Valle  del  Genal  –  Servicio  de  Publicaciones  de  la  Universidad  de  Málaga
 (SPICUM). Málaga, 285 p
 
-GÓMEZ   ZOTANO,   J.   y   RIESCO   CHUECA,   P.  (2010):  Marco  conceptual  y  metodológico  para  los  paisajes
-españoles.   Aplicación   a  tres  escalas  espaciales.  Consejería  de  Obras  Públicas  y  Vivienda.  Junta  de
-Andalucía.   Centro   de   Estudios   Paisaje   y  Territorio.  Ministerio  de  Medio  Ambiente,  Medio  Rural  y
-Marino, Sevilla. 467 p
-
-GÓMEZ   ZOTANO,  J.,  ARIAS  GARCÍA,  J.,  OLMEDO  COBO,  J.A.  y  SERRANO  MONTES,  J.L.  (eds.)  (2016):  Avances
-en   Biogeografía.  Áreas  de  distribución:  entre  puentes  y  barreras.  Editorial  Universidad  de  Granada-
-Tundra Ediciones. Granada, 631 p
+GÓMEZ ZOTANO, J. y ORTEGA ALBA, F. (eds.) (2009): El Sector Central de las Béticas: una visión desde
+la   Geografía   Física.   Editorial   Universidad   de  Granada.  Asociación  de  Geógrafos  Españoles  (AGE).
+Granada, 355 p
 
 GÓMEZ   ZOTANO,   J.,   HIDALGO   TRIANA,  N.,  MARTOS  MARTÍN,  J.,  NAVARRO  LUEGO,  I.,  PÉREZ  LATORRE,  A.V.,
 ROMÁN   REQUENA,   F.   (Eds.)   (2023):   Sierra  Bermeja.  Biodiversidad  y  valores  de  conservación  de  los
@@ -111,13 +140,10 @@ GÓMEZ ZOTANO, J., ROMÁN REQUENA, F., HIDALGO TRIANA, N. y PÉREZ LATORRE, A.V.
 y   valores   de  conservación  de  los  ecosistemas  serpentínicos  en  España:  Sierra  Bermeja  (provincia  de
 Málaga)”. Boletín de la Asociación de Geógrafos Españoles 65, 187-206
 
-HUGETT, R. J. (1998): Fundamentals of biogeography. Routledge, London
-
 KOTLYAKOV,   V.   y   KOMAROVA,   A.   (2007):   Elsevier's   Dictionary  of  Geography:  in  English,  Russian,
 French, Spanish and German. Elsevier, Amsterdam, 1072 p
 
-LOMOLINO,   M.V.,   RIDDLE,   B.T.,   WHITTAKER,   R.J.   y  BROWN,  J.H.  (2010):  Biogeography  (4ª  edición).
-Sinauer Ass. Sunderland
+LITORAL MEDITERRÁNEO
 
 LOPEZ   GONZÁLEZ,   G.   (2001):   Los   árboles   y   arbustos  de  la  Península  Ibérica  e  Islas  Baleares  (2
 tomos). Mundi Prensa, Madrid
@@ -127,7 +153,7 @@ Mundi Prensa, Madrid
 
 MAYHEW, S. (2010): Oxford Dictionary of Geography. Oxford University Press, 576 p
 
-MEAZA, G. (dir.) (2000): Metodología y práctica de la Biogeografía. Ediciones El Serbal
+MERCIER, D. (dir.) (2004): Le commentaire de paysages en géographie physique. Armand Colin, París
 
 METAILIE,   J.   P.   y   BERTRAND,   G.   (2006):   Les  mots  de  l’environnement.  Presses  Universitaires  du
 Mirail. Toulouse
@@ -137,7 +163,7 @@ Paisaje, Fauna, Flora, Itinerarios. Editorial Rueda. Madrid, 520 p
 
 MÜLLER, P. (1979): Introducción a la zoogeografía. Ed. Blume, Barcelona, 232 p
 
-OTERO, J.C. (2020): La geografía de la vida: la biogeografía. Editorial Aula Magna
+OTROS MANUALES Y OBRAS GENERALES
 
 PINEDA,   F.D.,   MIGUEL,  J.M.,  CASADO,  M.A.  y  MONTALVO,  J.  (2002):  La  diversidad  biológica  de  España.
 Pearson educación, Madrid, 432 p
@@ -156,9 +182,9 @@ SERRANO   MONTES,   J.L.   y   GÓMEZ   ZOTANO,  J.  (2017):  “Propuesta  meto
 fauna   en   los  estudios  de  paisaje.  El  ejemplo  de  la  playa  de  Casasola,  Málaga  (España)”.  Boletín  de
 la Asociación de Geógrafos Españoles 73, 61-76
 
-SIERRA   NEVADA   1.GARCÍA   CANSECO.   V.   (coord.)   (2001):   Parque  Nacional  de  Sierra  Nevada.  Canseco
-Editores.   300   p.  visión  desde  la  Geografía  Física.  Editorial  Universidad  de  Granada.  Asociación  de
-Geógrafos Españoles (AGE). Granada, 355 p
+SERRANÍA DE RONDA
+
+SIERRA NEVADA
 
 SIMMONS, I.G. (1982): Biogeografía natural y cultural. Omega. Barcelona
 
@@ -187,31 +213,4 @@ WHITTOW, J.B. (2007): Diccionario de Geografía Física. Alianza Editorial, Madr
 ZUNINO,   M   y   ZULLINI,   A.   (2003):   Biogeografía.   La  dimensión  espacial  de  la  evolución.  Fondo  de
 Cultura Económica. México
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-LOZANO,   P.   (2000):   “Métodos   y  técnicas  en  Zoogeografía”.  En  MEAZA,  G.  et  al.,  MERCIER,  D.  (dir.)
-(2004):   Le   commentaire   de   paysages   en   géographie   physique.   Armand  Colin,  París  →  MERCIER,  D.
-(dir.) (2004): Le commentaire de paysages en géographie physique. Armand Colin, París
-
-✅ Recursos añadidos:
-------------------------------
-BIBLIOGRAFÍA ESPECÍFICA DE TERRITORIOS QUE SE VISITAN CON LAS PRÁCTICAS DE CAMPO
-
-DICCIONARIOS
-
-GARCÍA CANSECO. V. (coord.) (2001): Parque Nacional de Sierra Nevada. Canseco Editores. 300 p
-
-GÓMEZ ZOTANO, J. y ORTEGA ALBA, F. (eds.) (2009): El Sector Central de las Béticas: una visión desde
-la   Geografía   Física.   Editorial   Universidad   de  Granada.  Asociación  de  Geógrafos  Españoles  (AGE).
-Granada, 355 p
-
-LITORAL MEDITERRÁNEO
-
-LOZANO, P. (2000): “Métodos y técnicas en Zoogeografía”. En MEAZA, G. et al., Metodología y Práctica
-de la Biogeografía. Ed. Serbal. Barcelona, 319-374
-
-OTROS MANUALES Y OBRAS GENERALES
-
-SERRANÍA DE RONDA
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 73% [███████░░░]

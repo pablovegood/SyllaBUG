@@ -2,13 +2,17 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Bourriaud,   N.   (2004).Postproducción.  La  cultura  como  escenario:  modos  en  que  el  arte  reprograma  el
+mundo contemporáneo.Adriana Hidalgo Editora Brea, J.L. (2002).La era postmedia. Acción comunicativa,
+prácticas (post)artísticas y dispositivos neomediales. Centro de Arte de Salamanca
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Aicher, O. (1994). El mundo como proyecto. Gustavo Gili
+
+Bachelard, G. (1986). La poética del espacio. Ed. Fondo de cultura Económica
 
 Berger J. (2000). Modos de ver. Gustavo Gili
 
@@ -52,8 +56,6 @@ Jenny P. (2013). La mirada creativa. Gustavo Gili
 
 Jenny P. (2013). Técnicas de dibujo. Gustavo Gili
 
-Jódar Miñarro, A. (2007). Por dibujado y por escrito. Universidad de Granada
-
 Munari, B. (1977). ¿Cómo nacen los objetos? Gustavo Gili
 
 Tanizaki J. (2013). El elogio de la sombra. Siruela
@@ -61,22 +63,17 @@ Tanizaki J. (2013). El elogio de la sombra. Siruela
 Wilson,   B.,   Wilson,   M.   y   Hurwitz,   A.  (2004).  La  enseñanza  del  dibujo  a  partir  del  arte.  Paidós
 Ibérica
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Bourriaud,   N.   (2004).Postproducción.  La  cultura  como  escenario:  modos  en  que  el  arte  reprograma  el
-mundo contemporáneo.Adriana Hidalgo Editora Brea, J.L. (2002).La era postmedia. Acción comunicativa,
-prácticas   (post)artísticas   y  dispositivos  neomediales.  Centro  de  Arte  de  Salamanca  →  Bourriaud,  N.
-(2004).   Postproducción.   La   cultura   como   escenario:   modos   en   que   el  arte  reprograma  el  mundo
-contemporáneo.Adriana Hidalgo Editora
-
-✅ Recursos añadidos:
-------------------------------
-Bachelard, G. (1986). La poética del espacio. Ed. Fondo de cultura Económica
+Bourriaud,   N.  (2004).  Postproducción.  La  cultura  como  escenario:  modos  en  que  el  arte  reprograma  el
+mundo contemporáneo.Adriana Hidalgo Editora
 
 Brea,   J.L.  (2002).  La  era  postmedia.  Acción  comunicativa,  prácticas  (post)artísticas  y  dispositivos
 neomediales. Centro de Arte de Salamanca
 
+Jódar Miñarro, A. (2007). Por dibujado y por escrito. Universidad de Granada
+
 Trebbi,   J.-C.   (2022).   El   arte   del   libro  origami:  origami,  kirigami,  laberintos,  libros  túnel  y
 miniatura de artistas de todo el mundo. Hoaki Books
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

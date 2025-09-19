@@ -2,14 +2,19 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Análisis   Instrumental.   K.A.   Rubinson-   J.F.   Rubinson.   Editorial   Prentice   Hall.   2000   .  ISBN:
 9788420529882
+
+Análisis de alimentos. Nielsen. Editorial Acribia. 2009 . ISBN: 978-84-200-1114-1
+
+Análisis   de   los   alimentos:  fundamentos,  métodos,  aplicaciones.  Mattisek  y  col.  Editorial  Acribia.
+1998 . ISBN: 978-84-200-0850-9
 
 Fisicoquímica.   (Vol.   2).   Ira   N.   Levine.   (5ª   Edición).   Editorial   Mc.  Graw  Hill.  2004  .  ISBN:
 9788448137878
@@ -43,16 +48,8 @@ Química    Física.    P.    Atkins.(8ª    Edición).    Editorial    Médica 
 Técnicas   espectroscópicas  en  química  analítica.  Ríos  Castro  y  col.  Editorial  Síntesis.  2012  .  ISBN:
 9788499589312
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Análisis   de   alimentos.   Nielsen.  Editorial  Acribia.  2009.  ISBN:  978-84-200-1114-1.  Análisis  de  los
-alimentos:   fundamentos,   métodos,   aplicaciones.   Mattisek   y   col.   Editorial  Acribia.  1998.  ISBN:
-978-84-200-0850-9. Ingeniería de alimentos: operaciones unitarias y prácticas de laboratorio. Sharma
-→   Análisis  de  los  alimentos:  fundamentos,  métodos,  aplicaciones.  Mattisek  y  col.  Editorial  Acribia.
-1998 . ISBN: 978-84-200-0850-9
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Análisis de alimentos. Nielsen. Editorial Acribia. 2009 . ISBN: 978-84-200-1114-1
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

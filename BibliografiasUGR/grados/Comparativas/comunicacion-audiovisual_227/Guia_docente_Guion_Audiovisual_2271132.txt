@@ -2,11 +2,11 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (56):
 ------------------------------
 Alcoba, S. (1998): Léxico periodístico español, Barcelona, Ariel
 
@@ -78,9 +78,6 @@ Barcelona, Alba Editorial
 
 Mc Kee, R. (2009): El guion (Story), Barcelona, Alba Editorial
 
-Mc   Kee,   R.  (2018):  El  diálogo.  El  arte  de  hablar  en  la  página,  la  escena  y  la  pantalla.  Barcelona,
-Alba Editorial
-
 Merayo,   A.   (1992):   Para   entender   la   radio.   Estructura   del   proceso   informativo  radiofónico,
 Salamanca, Universidad Pontificia de Salamanca
 
@@ -133,11 +130,7 @@ Zúñiga, J. (2006): Realización en televisión, San Sebastián, ESCIVI
 
 Álvarez Berciano, R. (1999): La comedia enlatada, Barcelona, Gedisa
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Eiras,    F.    (2018):    Manual   del   guionista   de   televisión.   Una   guía   práctica   para   escribir
 entretenimiento audiovisual. Córdoba, Berenice
@@ -147,10 +140,13 @@ Gordillo, I. (2009): Manual de narrativa televisiva. Madrid: Síntesis
 Gómez   Martínez,   P.   y   García   García,   F.  (2011):  El  guion  en  las  series  televisivas.  Formatos  de
 ficción y presentación de proyectos. Madrid, Fragua
 
+Mc   Kee,   R.  (2018):  El  diálogo.  El  arte  de  hablar  en  la  página,  la  escena  y  la  pantalla.  Barcelona,
+Alba Editorial
+
 Mc   Kee,   R.   (2022):   El   personaje.   El   arte   de  crear  personajes  en  la  página,  el  escenario  y  la
 pantalla. Barcelona, Alba Editorial
 
 Román   San   Miguel,   A.   (2022):   Redacción   periodística   en   la  radio.  De  la  radio  conveniconal  al
 podcasting. Barcelona, Gedisa
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

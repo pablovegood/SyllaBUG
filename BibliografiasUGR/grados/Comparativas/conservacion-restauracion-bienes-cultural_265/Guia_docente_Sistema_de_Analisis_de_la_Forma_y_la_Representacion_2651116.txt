@@ -2,21 +2,21 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+BELTRÁN CHICA, Juan y BELTRA?N POLAINA, Jose? Manuel (2008). Sistema Diédrico y CABEZAS, L. (coord.)
+(2011) Dibujo y construcción de la realidad. Ed. Cátedra. Madrid
 
-📚 Recursos sin cambios:
+MARTÍNEZ-VELA, Manuel (2017). La Alhambra con regla y compás: El trazado paso a paso de alicatados y
+yeserías.   Granada:   Almizate   SALAS   ÁLVAREZ,  JESÚS.  (2010).  La  arqueología  en  Andalucía  durante  la
+Ilustración. Ed. Universidad de Sevilla. Sevilla
+
+📚 Recursos sin cambios (18):
 ------------------------------
 ALPERS, S. (1987) El arte de describir. Ed. Blume. Madrid
 
-BELTRÁN CHICA, Juan y BELTRA?N POLAINA, Jose? Manuel (2008). Sistema Diédrico y Perspectivas. Método
-en el espacio real. Universidad de Granada
-
 BONET   MINGUET,  E.  (1985)  Sistemas  de  representación  espacial.  Valencia  y  Perspectiva  axonométrica  y
 caballera. Valencia
-
-CABEZAS, L. (coord.) (2011) Dibujo y construcción de la realidad. Ed. Cátedra. Madrid
 
 CHING, F., JUROSZEC, S (1999). Dibujo y proyecto. Gustavo Gili. México
 
@@ -26,19 +26,21 @@ KEMP, M. (2000). La ciencia del arte. Ed. Akal
 
 LÓPEZ VÍLCHEZ, I. coord. (2009). Perspectiva. Ed. Parque de las Ciencias. Granada
 
+LÓPEZ   VÍLCHEZ,   I.;   FUENTES  MARTI?N,  J.;  HERNÁNDEZ  ROJO,  F.  Dibujo:  El  lenguaje  de  las  formas  y  su
+representación. Material docente
+
 MAIER,   M.   (1982)   Procesos  elementales  de  proyectación  y  configuración.  4  tomos.  Ed.  Gustavo  Gili.
 Barna
 
 MARCOLLI, A. (1978); Teoría del Campo. Curso de Educación Visual. Xarait eds. Y Alberto Corazón ed
+
+Manuales de usuario de CAD
 
 NOCITO    MARASCO,    Gustavo,   VILLANUEVA   BARTRINA,   LLuis.   (2010).   Representación   geométrica   en
 arquitectura. Dibuix Técnic i modelatge arquitectónic (Temes clau). Ed. UPC, Barcelona
 
 ORTEGA   DE   UHLER,   L.;   CABEZAS   G.,   L.   (2002).  Análisis  gráfico  y  representación  geométrica.  Ed.
 Universidad de Barcelona
-
-SALAS ÁLVAREZ, JESÚS. (2010). La arqueología en Andalucía durante la Ilustración. Ed. Universidad de
-Sevilla. Sevilla
 
 SketchUp 2020. Manual de usuario
 
@@ -54,21 +56,17 @@ Gili, Barcelona
 
 VIDAL ALAMAR, D.; GIMÉNEZ MORELL, R. (2007). Perspectiva artística. Univ. Politécnica Valencia
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-MARTÍNEZ-VELA, Manuel (2017). La Alhambra con regla y compás: El trazado paso a paso de alicatados y
-yeserías.   Granada:   Almizate   SALAS   ÁLVAREZ,  JESÚS.  (2010).  La  arqueología  en  Andalucía  durante  la
-Ilustración.    Ed    →   SALAS   ÁLVAREZ,   JESÚS.   (2010).   La   arqueología   en   Andalucía   durante   la
-Ilustración. Ed. Universidad de Sevilla. Sevilla
+BELTRÁN CHICA, Juan y BELTRA?N POLAINA, Jose? Manuel (2008). Sistema Diédrico y Perspectivas. Método
+en el espacio real. Universidad de Granada
 
-✅ Recursos añadidos:
-------------------------------
-LÓPEZ   VÍLCHEZ,   I.;   FUENTES  MARTI?N,  J.;  HERNÁNDEZ  ROJO,  F.  Dibujo:  El  lenguaje  de  las  formas  y  su
-representación. Material docente
+CABEZAS, L. (coord.) (2011) Dibujo y construcción de la realidad. Ed. Cátedra. Madrid
 
 MARTÍNEZ-VELA, Manuel (2017). La Alhambra con regla y compás: El trazado paso a paso de alicatados y
 yeserías. Granada: Almizate
 
-Manuales de usuario de CAD
+SALAS ÁLVAREZ, JESÚS. (2010). La arqueología en Andalucía durante la Ilustración. Ed. Universidad de
+Sevilla. Sevilla
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

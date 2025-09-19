@@ -2,11 +2,17 @@
 Grado: educacion-primaria-melilla (557)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Díez,   C.   (2011).   Los   pendientes   de   la  maestra.  Barcelona:  Graó  González,  A.  P.  (2001).  Sistema
+metodológico   en   el   proceso   de   enseñanza-aprendizaje.   En   F.   Sepúlveda   y  N.  Rjadell  (coords).
+Didáctica general para Psicopedagogos. Madrid: UNED, pp. 281-315
 
-📚 Recursos sin cambios:
+Sepúlveda,   M.   P.  (2005).  Las  prácticas  de  enseñanza  en  el  proceso  de  construcción  del  conocimiento
+profesional.   Educar,  36,  71-93  Shores,  E.F.  y  Grace,  C.  (2004).  El  portafolio  paso  a  paso.  Infantil
+y Primaria. Barcelona: Graó, pp. 90-103
+
+📚 Recursos sin cambios (4):
 ------------------------------
 Bondioli, A y Nigito, G. (2011). Tiempos, espacios y grupos. Barcelona: Graó
 
@@ -22,24 +28,17 @@ Diccionario enciclopédico de Didáctica. Málaga: Aljibel, vol II, pp. 268-283
 Molina-García,   M.J.   y   Rico-Martín,   A.M.   (Coords.)   (2012).   Las   prácticas   de   enseñanza   como
 instrumento de formación. Madrid: Síntesis
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Díez,   C.   (2011).   Los   pendientes   de   la  maestra.  Barcelona:  Graó  González,  A.  P.  (2001).  Sistema
-metodológico   en   el   proceso   de   enseñanza-aprendizaje.   En   F.   Sepúlveda   y  N.  Rjadell  (coords).
-Didáctica   general   para  Psicopedagogos.  Madrid:  UNED,  pp.  281-315  →  González,  A.  P.  (2001).  Sistema
-metodológico   en   el   proceso   de   enseñanza-aprendizaje.   En   F.   Sepúlveda   y  N.  Rjadell  (coords).
-Didáctica general para Psicopedagogos. Madrid: UNED, pp. 281-315
-
-Sepúlveda,   M.   P.  (2005).  Las  prácticas  de  enseñanza  en  el  proceso  de  construcción  del  conocimiento
-profesional.   Educar,  36,  71-93  Shores,  E.F.  y  Grace,  C.  (2004).  El  portafolio  paso  a  paso.  Infantil
-y   Primaria.   Barcelona   →   Sepúlveda,   M.   P.   (2005).   Las  prácticas  de  enseñanza  en  el  proceso  de
-construcción del conocimiento profesional. Educar, 36, 71-93
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Díez, C. (2011). Los pendientes de la maestra. Barcelona: Graó
+
+González, A. P. (2001). Sistema metodológico en el proceso de enseñanza-aprendizaje. En F. Sepúlveda
+y N. Rjadell (coords). Didáctica general para Psicopedagogos. Madrid: UNED, pp. 281-315
+
+Sepúlveda,   M.   P.  (2005).  Las  prácticas  de  enseñanza  en  el  proceso  de  construcción  del  conocimiento
+profesional. Educar, 36, 71-93
 
 Shores,   E.F.   y   Grace,  C.  (2004).  El  portafolio  paso  a  paso.  Infantil  y  Primaria.  Barcelona:  Graó,
 pp. 90-103
 
-📊 Porcentaje estimado de cambio: 66% [██████░░░░]
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

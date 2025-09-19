@@ -2,19 +2,21 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (40):
 ------------------------------
 ALEGRE   CARVAJAL,   Esther  y  GÓMEZ  LÓPEZ,  Consuelo.  Edificios  de  la  arquitectura  antigua.  Historia  de
 las tipologías arquitectónicas. Madrid: UNED, 2009
 
 ARMESTO SÁNCHEZ, J. Historia del arte: comentarios de obras maestras. Granada: Port Royal, 2002
 
-BERGER,   R.,   El   conocimiento   de  la  pintura.  El  arte  de  verla.  El  arte  de  comprenderla.  El  arte  de
-apreciarla. Barcelona: Noguer, 1999 (3a ed.), 3 vols
+Arquitectura: VIÑUALES, J. El comentario de la obra de arte. Madrid: UNED, 1986
+
+Artes   decorativas:   BONET   CORREA,   A.   (coord.)   Historia  de  las  artes  aplicadas  e  industriales  en
+España
 
 BONET CORREA, A. (coord.) Historia de las artes aplicadas e industriales en España. Madrid: Cátedra,
 1994 (otras ediciones)
@@ -24,6 +26,8 @@ Blume, 2013
 
 ESTEBAN    LORENTE,   J.;   BORRÁS   GUALIS,   G.;   ALVARO   ZAMORA,   I.   Introducción   general   al   Arte.
 Arquitectura, escultura, pintura, artes decorativas. Madrid: Istmo, 1980 (otras ediciones)
+
+Escultura: MARTIN GONZALEZ, J. J. Las claves de la escultura. Barcelona: Ariel, 1990
 
 FAERNA   GARCÍA-BERMEJO,   J.  M.;  GÓMEZ  CEDILLO,  A.,  Conceptos  fundamentales  de  arte.  Madrid:  Alianza,
 2000
@@ -52,8 +56,6 @@ LANEYRIE-DAGEN, N. Leer la pintura. Barcelona: Larousse, 2005
 
 MALTESSE, C. (coord.). Las técnicas artísticas. Madrid: Cátedra, 1980
 
-MARTIN GONZALEZ, J. J. Las claves de la escultura. Barcelona: Ariel, 1990
-
 MORANTE LÓPEZ, F.; RUIZ ZAPATA, A. Ma. Análisis y comentario de la obra de arte: estudio de obras de
 pintura, arquitectura y escultura. Madrid: Edinumen, 1997
 
@@ -76,6 +78,9 @@ visual de términos arquitectónicos. Madrid: Cátedra, 2008
 
 PLOWMAN, J. Enciclopedia de técnicas escultóricas. Barcelona: Acanto, 1995
 
+Pintura:   BERGER,   R.,   El  conocimiento  de  la  pintura.  El  arte  de  verla.  El  arte  de  comprenderla.  El
+arte de apreciarla. Barcelona: Noguer, 1999 (3a ed.), 3 vols
+
 RIDEAL, L. Cómo leer pinturas. Madrid: Herman Blume, 2015
 
 RIVAS CARMONA, J. PÉREZ SÁNCHEZ, M. y GARCÍA ZAPATA, I. J., Artes Decorativas. Murcia: Editum, 2019
@@ -94,14 +99,8 @@ VIÑUALES, J. El comentario de la obra de arte. Madrid: UNED, 1986
 
 WITTKOWER, R., La escultura: procesos y principios. Madrid: Alianza Forma, 1991 (otras ediciones)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Arquitectura
-
-Artes decorativas
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,14 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+CASAS,   M.   V.   (2001).   ¿Por  qué  los  niños  deben  aprender  música?.  Colombia  Médica,  32(4),  197-204.
+https://www.redalyc.org/articulo.oa?id=28332408   LINES,   D.  K.  (coord.)  (2009).  La  educación  musical
+para   el  nuevo  milenio:  el  futuro  de  la  teoría  y  la  práctica  de  la  enseñanza  y  del  aprendizaje  de  la
+música. Madrid: Morata
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 BERNAL,   J.   y   CALVO,   M.   L.   (2000).  Didáctica  de  la  Música.  La  expresión  musical  en  la  Educación
 Infantil. Archidona: Aljibe
@@ -62,20 +65,16 @@ TORRES   LUQUE,   G.   Y  HERNÁNDEZ  GARCÍA,  R.  (2019).  Etapa  infantil  y 
 desarrollo   en   Educación   Física   /   Gema   Torres   Luque,   Raquel  Hernández  García  (coordinadoras).
 Wanceulen
 
-WUYTACK,   J.   y   BOAL-PALHEIROS,   G.   (1996).  Audición  musical  activa.  Oporto:  Asociación  Wuytack  de
-Pedagogía Musical. Libro del alumno y libro del profesor + CD
+https://dialnet.unirioja.es/servlet/articulo?codigo=1032322 WUYTACK, J. y BOAL-PALHEIROS, G. (1996).
+Audición   musical   activa.  Oporto:  Asociación  Wuytack  de  Pedagogía  Musical.  Libro  del  alumno  y  libro
+del profesor + CD
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CASAS, M. V. (2001). ¿Por qué los niños deben aprender música?. Colombia Médica, 32(4), LINES, D. K.
-(coord.) (2009). La educación musical para el nuevo milenio: el futuro de la teoría y la práctica de
-la   enseñanza   y   del   aprendizaje   de   la  música.  Madrid:  Morata  →  LINES,  D.  K.  (coord.)  (2009).  La
-educación   musical  para  el  nuevo  milenio:  el  futuro  de  la  teoría  y  la  práctica  de  la  enseñanza  y  del
-aprendizaje de la música. Madrid: Morata
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 CASAS,   M.   V.   (2001).   ¿Por  qué  los  niños  deben  aprender  música?.  Colombia  Médica,  32(4),  197-204.
 https://www.redalyc.org/articulo.oa?id=28332408
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+LINES,   D.   K.  (coord.)  (2009).  La  educación  musical  para  el  nuevo  milenio:  el  futuro  de  la  teoría  y
+la práctica de la enseñanza y del aprendizaje de la música. Madrid: Morata
+
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

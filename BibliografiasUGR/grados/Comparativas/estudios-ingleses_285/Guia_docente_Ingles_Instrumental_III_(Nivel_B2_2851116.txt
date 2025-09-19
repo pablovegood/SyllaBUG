@@ -2,11 +2,32 @@
 Grado: estudios-ingleses (285)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+GOLD   FIRST   MAXIMISER   WITH   KEY.   (2018).   S.   Burgess,   &   J.   Newbrook.  Pearson  Education.  ISBN:
+978-1-292- 20224-2. Lecturas Obligatorias: El alumnado será informado sobre el número y título(s) de
+la(s)   lectura(s)  obligatoria(s)  al  comienzo  del  curso.  Cambridge  Advanced  Learner's  Dictionary  with
+CD-ROM   (2008).   Cambridge:   C.U.P.   Cambridge   English  Pronouncing  Dictionary.  (2006).  With  CD-ROM.
+Cambridge:   CUP.   Cambridge   Idioms   Dictionary.   (2006).   Cambridge:   CUP.   Cambridge  Phrasal  Verbs
+Dictionary. (2006). Cambridge: CUP. Carter, R. & M. McCarthy (2006). Cambridge Grammar of English. A
+Comprehensive   Guide.   Spoken   and   Written  English.  Grammar  and  Usage.  With  CD-ROM.  Cambridge:  CUP.
+Diccionario   Collins   Universal.   Español-Inglés.   English-Spanish   (2003).  New  York:  HarperCollins.
+Longman   Dictionary   of   Contemporary   English.   (2009).  With  CD-ROM.  London:  Longman.  Mann,  M.  &  S.
+Taylore-Knowles   (2008).   Destination   B2.   Grammar   and   Vocabulary.   With   Answer   Key.   Macmillan
+Education.   McCarthy,   M.   &   F.  O’Dell  (2003).  English  Idioms  in  Use.  Intermediate.  Cambridge:  CUP.
+McCarthy,   M.   &   F.   O’Dell   (2005).   English   Phrasal   Verbs  in  Use.  Intermediate.  Cambridge:  CUP.
+McCarthy,   M.   (2004).  English  Phrasal  Verbs  in  Use  .  Intermediate:  70  units  of  vocabulary  reference
+McCarthy,   M.   &   F.   O’Dell   (2007).  English  Vocabulary  in  Use.  Upper-intermediate.  Cambridge:  CUP.
+Murphy,   R.   (2012).   English  Grammar  in  Use.  With  Answers  and  CD-ROM.  Intermediate.  Cambridge:  CUP.
+Oxford   Advanced   Learner's   Dictionary   (2010).   Oxford:   O.U.P.  Oxford  Collocations  Dictionary  for
+Students   of   English.   (2009).   Oxford:  OUP.  Tanto  la  bibliografía  como  el  programa  serán  revisados
+anualmente según la disponibilidad y necesidad de las/los alumnas/os
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (1):
+------------------------------
+GOLD FIRST. COURSEBOOK. (2018) J. Bell, & A. Thomas. Pearson Education. ISBN: 978-1-292-20227-3
+
+✅ Recursos añadidos (19):
 ------------------------------
 Cambridge Advanced Learner's Dictionary with CD-ROM (2008). Cambridge: C.U.P
 
@@ -17,14 +38,17 @@ Cambridge Idioms Dictionary. (2006). Cambridge: CUP
 Cambridge Phrasal Verbs Dictionary. (2006). Cambridge: CUP
 
 Carter,   R.   &   M.   McCarthy  (2006).  Cambridge  Grammar  of  English.  A  Comprehensive  Guide.  Spoken  and
-Written English. Grammar and Usage. With CD-ROM. Cambridge: CUP
+Written
 
 Diccionario Collins Universal. Español-Inglés. English-Spanish (2003). New York: HarperCollins
+
+English. Grammar and Usage. With CD-ROM. Cambridge: CUP
 
 GOLD   FIRST   MAXIMISER   WITH   KEY.   (2018).   S.   Burgess,   &   J.   Newbrook.  Pearson  Education.  ISBN:
 978-1-292- 20224-2
 
-GOLD FIRST. COURSEBOOK. (2018) J. Bell, & A. Thomas. Pearson Education. ISBN: 978-1-292-20227-3
+Lecturas   Obligatorias:   El   alumnado  será  informado  sobre  el  número  y  título(s)  de  la(s)  lectura(s)
+obligatoria(s) al comienzo del curso
 
 Longman Dictionary of Contemporary English. (2009). With CD-ROM. London: Longman
 
@@ -35,29 +59,17 @@ McCarthy, M. & F. O’Dell (2003). English Idioms in Use. Intermediate. Cambridg
 
 McCarthy, M. & F. O’Dell (2005). English Phrasal Verbs in Use. Intermediate. Cambridge: CUP
 
+McCarthy, M. & F. O’Dell (2007). English Vocabulary in Use. Upper-intermediate. Cambridge: CUP
+
+McCarthy, M. (2004). English Phrasal Verbs in Use . Intermediate: 70 units of vocabulary reference
+
 Murphy, R. (2012). English Grammar in Use. With Answers and CD-ROM. Intermediate. Cambridge: CUP
 
 Oxford Advanced Learner's Dictionary (2010). Oxford: O.U.P
 
 Oxford Collocations Dictionary for Students of English. (2009). Oxford: OUP
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-McCarthy,   M.   (2004).  English  Phrasal  Verbs  in  Use  .  Intermediate:  70  units  of  vocabulary  reference
-McCarthy,   M.   &   F.   O’Dell  (2007).  English  Vocabulary  in  Use.  Upper-intermediate.  Cambridge:  CUP  →
-McCarthy, M. & F. O’Dell (2007). English Vocabulary in Use. Upper-intermediate. Cambridge: CUP
-
-✅ Recursos añadidos:
-------------------------------
-Carter,   R.   &   M.   McCarthy  (2006).  Cambridge  Grammar  of  English.  A  Comprehensive  Guide.  Spoken  and
-Written
-
-Lecturas   Obligatorias:   El   alumnado  será  informado  sobre  el  número  y  título(s)  de  la(s)  lectura(s)
-obligatoria(s) al comienzo del curso
-
-McCarthy, M. (2004). English Phrasal Verbs in Use . Intermediate: 70 units of vocabulary reference
-
 Tanto   la   bibliografía   como   el   programa   serán   revisados   anualmente   según  la  disponibilidad  y
 necesidad de las/los alumnas/os
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

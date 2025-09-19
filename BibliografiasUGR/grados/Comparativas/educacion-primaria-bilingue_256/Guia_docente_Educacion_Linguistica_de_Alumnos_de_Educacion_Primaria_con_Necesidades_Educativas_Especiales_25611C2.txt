@@ -2,11 +2,23 @@
 Grado: educacion-primaria-bilingue (256)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Alegría,   Javier   (2006).   Por   un   enfoque   psicolingüístico   del   aprendizaje   de  la  lectura  y  sus
+dificultades    20    años    después.    Infancia    y    aprendizaje,    29(1),    93-111.   Recuperado   de
+http://www.tandfonline.com/doi/abs/10.1174/021037006775380957 Álvarez, Teodoro (2005). Didáctica del
+texto en la formación del profesorado. Síntesis
 
-📚 Recursos sin cambios:
+Lomas,   Carlos   y   Andrés   Osoro   (2001).   “De   la   lingüística  aplicada  a  una  educación  lingüística
+implicada”.   Textos,27.   (versión  electrónica)  Molina,  Mercedes  (ed.)  (2005).  Necesidades  educativas
+especiales y habilidades lingüísticas. Grupo Editorial Universitario
+
+Romero   Pérez,   Juan   Francisco   y   Lavigne   Cerván,   Rocío   (2005).  Dificultades  en  el  Aprendizaje:
+Unificación    de    Criterios   Diagnósticos.   Junta   de   Andalucía,   329.   Consejería   de   Educación.
+https://www.uma.es/media/files/LIBRO_I.pdf    Rondal,    Jean    Adolph    (2001).    El   desarrollo   del
+lenguaje.ISEP
+
+📚 Recursos sin cambios (24):
 ------------------------------
 Bueno, Juan José (1991). El lenguaje de los niños con necesidades educativas especiales. Servicio de
 Publicaciones de la Universidad de Salamanca
@@ -16,6 +28,9 @@ Cassany, Daniel(2004). Construir la escritura. Paidós
 Cassany, Daniel, Luna, Marta y Gloria Sanz (2009). Enseñar lengua.Graó
 
 Comes, Gracia (2003). Lectura y libros para alumnos con necesidades especiales.CEAC
+
+Domingo,   Jesús  et  al.  (2010).  “Competencias  comunicativas  de  maestros  en  formación”.  Profesorado14,
+2
 
 Gallego,   José   Luis   y   Antonio   Rodríguez   (2011).   Bases  teóricas  y  de  investigación  en  educación
 especial. Ediciones Pirámide
@@ -32,16 +47,30 @@ perspective. Multilingual Matters
 Lomas,   Carlos  (1999).  Cómo  hacer  cosas  con  palabras.  Teoría  y  práctica  de  la  educación  lingüística.
 Paidós
 
-Martín Vegas, Rosa Ana (2009). Manual de Didáctica de la Lengua y la Literatura. Síntesis
+López   Ramos,   Cristina  (2011).  Métodos  de  lectoescritura  para  alumnos  con  discapacidad  intelectual.
+_Revista   digital   innovación   y   experiencias   educativas,   número   38,_   pp.   1-8.   Recuperado  de:
+http://www.csi-csif.es/andalucia/modules/mod_ense/revista/pdf/Numero_38/CRISTINA_LOPEZ_2.pdf
 
-Mendoza, Antonio et al. (1996). Didáctica de la lengua para la enseñanza primaria y secundaria. Akal
+Martín Vegas, Rosa Ana (2009). Manual de Didáctica de la Lengua y la Literatura. Síntesis
 
 Mroz,   Maria   (2014).   “’Off   the   Radar’:   the  Framing  of  Speech,  Language  and  Communication  in  the
 Description   of   Children   with   Special   Educational   Needs   in  Literacy”,  Journal  of  Education  and
 Training Studies, 2, 3: 88-101
 
+Núñez,   María   Pilar   y  Romero,  Antonio  (2003).  Investigación  en  didáctica  de  la  lengua  e  innovación
+curricular. Validación de un programa de intervención didáctica para el desarrollo de la competencia
+discursiva oral. Grupo Editorial Universitario
+
 Osoro,   Andrés   y   Lomas,   Carlos   (comps.)   (1997).   El   enfoque  comunicativo  en  la  enseñanza  de  la
 lengua.Paidós
+
+Pérez, Pilar y Zayas, Felipe (2007). Competencia en comunicación lingüística. Alianza Editorial
+
+Recasens, Marta (2001). Cómo estimular la expresión oral en clase. CEAC
+
+Recuperado                                                                                        de:
+http://www.csicsif.es/andalucia/modules/mod_ense/revista/pdf/Numero_38/CRISTINA_LOPEZ_2.pdf Mendoza,
+Antonio et al. (1996). Didáctica de la lengua para la enseñanza primaria y secundaria. Akal
 
 Roca,   Neus;   Simó,   Rosa;   Solsona,  Rosa;  González,  Carme  y  Rabassa,  Montserrat  (1995).  Escritura  y
 necesidades   educativas   especiales.   Teoría   y   práctica   de   un  enfoque  constructivista.  Fundación
@@ -51,9 +80,8 @@ Rondal,   Jean   Adolph   (2000):   “Bilingualism   in   Mental  Retardation: 
 Development              &              Disabilities,             XXVI,             1:             57-64.
 http://www.riverbendds.org/index.htm?page=bilingualism.html
 
-Tolbert,   Joshua,   Killu,   Kim   y   Davis,   Belinda   (2015).  A  framework  for  supporting  Students  with
-learning   disabilities   in   Spanish   courses:   Connecting  Learning  Characteristics  and  Instructional
-Methods, Theory and Practice in Language Studies, 5, 2: 225-234. https://url2.cl/eVLig
+Trujillo, Fernando et al. (2002). Nociones de fonética y fonología para la práctica educativa. Grupo
+Editorial Universitario
 
 Villanueva   Roa,   Juan   De   Dios   y  otros  (2016).  Cómo  aprende  el  cerebro  humano:  dificultades  en  la
 adquisición   del   lenguaje,   en  la  comprensión  y  la  competencia  lectoras.  Coordinadora  Elena  Jiménez
@@ -62,55 +90,29 @@ Pérez. ISBN: 978-84-9077-250-8, Editorial Síntesis. Pg. 41-58
 Vilà,   Montserrat   y   Dolors   Badia   (2009).   Juegos  de  expresión  oral  y  escrita.  Cómo  organizar  las
 actividades y la participación del alumnado.Graó
 
-🔁 Misma obra con edición/año distinto:
+http://www.riverbendds.org/index.htm?page=bilingualism.html   Tolbert,   Joshua,   Killu,   Kim  y  Davis,
+Belinda   (2015).   A  framework  for  supporting  Students  with  learning  disabilities  in  Spanish  courses:
+Connecting   Learning   Characteristics   and   Instructional   Methods,   Theory  and  Practice  in  Language
+Studies, 5, 2: 225-234
+
+✅ Recursos añadidos (6):
 ------------------------------
-Lomas,   Carlos   y   Andrés   Osoro   (2001).   “De   la   lingüística  aplicada  a  una  educación  lingüística
-implicada”.   Textos,27.   (versión  electrónica)  Molina,  Mercedes  (ed.)  (2005).  Necesidades  educativas
-especiales   y   habilidades   lingüísticas.   Grupo   Editorial   Universitario   →  Lomas,  Carlos  y  Andrés
-Osoro   (2001).   “De   la   lingüística   aplicada   a   una   educación  lingüística  implicada”.  Textos,27.
-(versión electrónica)
-
-Romero   Pérez,   Juan   Francisco   y   Lavigne   Cerván,   Rocío   (2005).  Dificultades  en  el  Aprendizaje:
-Unificación   de   Criterios   Diagnósticos.  Junta  de  Andalucía,  329.  Consejería  de  Rondal,  Jean  Adolph
-(2001).   El   desarrollo   del   lenguaje.ISEP   →   Romero  Pérez,  Juan  Francisco  y  Lavigne  Cerván,  Rocío
-(2005).   Dificultades   en  el  Aprendizaje:  Unificación  de  Criterios  Diagnósticos.  Junta  de  Andalucía,
-329. Consejería de Educación. https://www.uma.es/media/files/LIBRO_I.pdf
-
 Alegría,   Javier   (2006).   Por   un   enfoque   psicolingüístico   del   aprendizaje   de  la  lectura  y  sus
-dificultades   20  años  después.  Infancia  y  aprendizaje,  29(1),  93-111.  Recuperado  de  Álvarez,  Teodoro
-(2005).   Didáctica   del   texto   en   la  formación  del  profesorado.  Síntesis  →  Alegría,  Javier  (2006).
-Por   un   enfoque   psicolingüístico  del  aprendizaje  de  la  lectura  y  sus  dificultades  20  años  después.
-Infancia          y          aprendizaje,          29(1),          93-111.          Recuperado          de
+dificultades    20    años    después.    Infancia    y    aprendizaje,    29(1),    93-111.   Recuperado   de
 http://www.tandfonline.com/doi/abs/10.1174/021037006775380957
 
-Núñez,   María   Pilar   y  Romero,  Antonio  (2003).  Investigación  en  didáctica  de  la  lengua  e  innovación
-curricular. Validación de un programa de intervención didáctica para el Recasens, Marta (2001). Cómo
-estimular   la   expresión   oral   en  clase.  CEAC.  educativa.  Grupo  Editorial  Universitario  →  Recasens,
-Marta (2001). Cómo estimular la expresión oral en clase. CEAC
-
-✅ Recursos añadidos:
-------------------------------
-Domingo,   Jesús  et  al.  (2010).  “Competencias  comunicativas  de  maestros  en  formación”.  Profesorado14,
-2
-
-López   Ramos,   Cristina  (2011).  Métodos  de  lectoescritura  para  alumnos  con  discapacidad  intelectual.
-_Revista   digital   innovación   y   experiencias   educativas,   número   38,_   pp.   1-8.   Recuperado  de:
-http://www.csi-csif.es/andalucia/modules/mod_ense/revista/pdf/Numero_38/CRISTINA_LOPEZ_2.pdf
+Lomas,   Carlos   y   Andrés   Osoro   (2001).   “De   la   lingüística  aplicada  a  una  educación  lingüística
+implicada”. Textos,27. (versión electrónica)
 
 Molina,   Mercedes   (ed.)  (2005).  Necesidades  educativas  especiales  y  habilidades  lingüísticas.  Grupo
 Editorial Universitario
 
-Núñez,   María   Pilar   y  Romero,  Antonio  (2003).  Investigación  en  didáctica  de  la  lengua  e  innovación
-curricular. Validación de un programa de intervención didáctica para el desarrollo de la competencia
-discursiva oral. Grupo Editorial Universitario
-
-Pérez, Pilar y Zayas, Felipe (2007). Competencia en comunicación lingüística. Alianza Editorial
+Romero   Pérez,   Juan   Francisco   y   Lavigne   Cerván,   Rocío   (2005).  Dificultades  en  el  Aprendizaje:
+Unificación    de    Criterios   Diagnósticos.   Junta   de   Andalucía,   329.   Consejería   de   Educación.
+https://www.uma.es/media/files/LIBRO_I.pdf
 
 Rondal, Jean Adolph (2001). El desarrollo del lenguaje.ISEP
 
-Trujillo, Fernando et al. (2002). Nociones de fonética y fonología para la práctica educativa. Grupo
-Editorial Universitario
-
 Álvarez, Teodoro (2005). Didáctica del texto en la formación del profesorado. Síntesis
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

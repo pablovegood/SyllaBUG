@@ -2,15 +2,20 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
-Collins Cobuild Advanced Learner’s English Dictionary. New Edition (2003)
-
 Collins Master Dictionary Español-Inglés, English-Spanish (2002)
+
+DAY,   J,.   PRICE   E.,   and   K.   DONAGHY   (2021),   Macmillan  English  Hub  B1+/B2-  and  Student's  Book  &
+Workbook Lectura complementaria a especificar al comienzo del curso
+
+DICCIONARIOS Collins Cobuild Advanced Learner’s English Dictionary. New Edition (2003)
+
+EASTWOOD, J. (1990), A Basic English Grammar. New edition. Oxford
 
 EASTWOOD, J. (2005), Grammar Builder. Practice. Oxford Learner’s Grammar. Oxford
 
@@ -32,18 +37,10 @@ SWAN, M. (1995), Practical English Usage. New edition. Oxford
 
 VINCE, M. (2003), Intermediate Language Practice. English grammar and vocabulary. Macmillan
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-DAY,   J,.   PRICE   E.,   and   K.   DONAGHY   (2021),   Macmillan  English  Hub  B1+/B2-  and  Student's  Book  &
-Workbook   EASTWOOD,   J.   (1990),   A   Basic  English  Grammar.  New  edition.  Oxford  →  DAY,  J,.  PRICE  E.,
-and K. DONAGHY (2021), Macmillan English Hub B1+/B2- and Student's Book &
+DAY, J,. PRICE E., and K. DONAGHY (2021), Macmillan English Hub B1+/B2- and Student's Book &
 
-✅ Recursos añadidos:
-------------------------------
 DICCIONARIOS
 
-EASTWOOD, J. (1990), A Basic English Grammar. New edition. Oxford
-
-Lectura complementaria a especificar al comienzo del curso
-
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

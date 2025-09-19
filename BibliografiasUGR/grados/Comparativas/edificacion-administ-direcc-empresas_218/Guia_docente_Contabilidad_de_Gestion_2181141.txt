@@ -2,17 +2,34 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-MUÑOZ,   C.I.;  VEUTHEY;  E.  y  ZORNOZA,  J.  (2004):  Introducción  a  la  contabilidad  de  costes  PRIETO,  B.;
-SANTIDRIÁN, A. y AGUILAR, P. (2006): Contabilidad de costes y de gestión
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
+BLANCO,   I;   AIBAR,   B.   y   RÍOS,  S.  (2003):  Contabilidad  de  costes.  Cuestiones,  supuestos  prácticos
+resueltos y propuestos. Pearson-Educación, Madrid
+
+BUENDÍA   CARRILLO,   D   Y   GARCÍA  MECA,  E.  (coordinadores)  (2016):  Casos  prácticos  de  contabilidad  de
+gestión. Pirámide, Madrid
+
+DONOSO, R.; DONOSO, A. y RUESA, J.A. (2002): Contabilidad analítica. Cálculo de costes y análisis de
+resultados (Casos prácticos). Tirant lo Blanch, Valencia
+
+GARCÍA,   M.   (1984):   Economía  de  la  producción  y  Contabilidad  de  costes.  Instituto  de  Planificación
+Contable, Madrid
+
 HORNGREN, Ch. T. (2005): Management and cost accounting (3rd edition). Pearson Education, London
 
 HORNGREN,   Ch.T.;  FOSTER,  G.  y  DATAR,  S.M.  (2007):  Contabilidad  de  costos.  Un  enfoque  gerencial  (12ª
 edición). Prentice-Hall Hispanoamericana, México
+
+MUÑOZ,   C.I.;   VEUTHEY;   E.   y   ZORNOZA,  J.  (2004):  Introducción  a  la  contabilidad  de  costes  para  la
+gestión (2ª edición). Curso práctico. Civitas, Madrid
+
+PRIETO,   B.;   SANTIDRIÁN,   A.   y  AGUILAR,  P.  (2006):  Contabilidad  de  costes  y  de  gestión.  Un  enfoque
+práctico. Delta, Madrid
 
 REQUENA   RODRÍGUEZ,  J.  Mª.  y  VERA  RÍOS,  S.  (2008):  Contabilidad  interna  (Contabilidad  de  costes  y  de
 gestión).   Cálculo,   análisis   y   control   de   costes   y   resultados   para  la  toma  de  decisiones  (3ª
@@ -27,29 +44,8 @@ Pearson-Educación, Madrid
 
 ÁLVAREZ-DARDET ESPEJO, CONCHA (2009): Contabilidad de Gestión: Cálculo de Costes. Pirámide, Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-BLANCO,   I;   AIBAR,   B.  y  RÍOS,  S.  (2003):  Contabilidad  de  costes.  Cuestiones,  supuestos  DONOSO,  R.;
-DONOSO,   A.   y   RUESA,   J.A.   (2002):  Contabilidad  analítica.  Cálculo  de  costes  y  GARCÍA,  M.  (1984):
-Economía   de   la   producción  y  Contabilidad  de  costes.  Instituto  de  Planificación  Contable,  Madrid  →
-GARCÍA,   M.   (1984):   Economía  de  la  producción  y  Contabilidad  de  costes.  Instituto  de  Planificación
-Contable, Madrid
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-BLANCO,   I;   AIBAR,   B.   y   RÍOS,  S.  (2003):  Contabilidad  de  costes.  Cuestiones,  supuestos  prácticos
-resueltos y propuestos. Pearson-Educación, Madrid
-
-BUENDÍA   CARRILLO,   D   Y   GARCÍA  MECA,  E.  (coordinadores)  (2016):  Casos  prácticos  de  contabilidad  de
-gestión. Pirámide, Madrid
-
-DONOSO, R.; DONOSO, A. y RUESA, J.A. (2002): Contabilidad analítica. Cálculo de costes y análisis de
-resultados (Casos prácticos). Tirant lo Blanch, Valencia
-
-MUÑOZ,   C.I.;   VEUTHEY;   E.   y   ZORNOZA,  J.  (2004):  Introducción  a  la  contabilidad  de  costes  para  la
-gestión (2ª edición). Curso práctico. Civitas, Madrid
-
-PRIETO,   B.;   SANTIDRIÁN,   A.   y  AGUILAR,  P.  (2006):  Contabilidad  de  costes  y  de  gestión.  Un  enfoque
-práctico. Delta, Madrid
-
-📊 Porcentaje estimado de cambio: 77% [███████░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

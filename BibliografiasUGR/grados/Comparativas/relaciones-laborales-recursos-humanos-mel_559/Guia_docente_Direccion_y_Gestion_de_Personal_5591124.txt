@@ -2,11 +2,12 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Díaz-Bretones,   F.  y  Rodríguez,  A.  (2003).  Selección  y  formación  de  personal.  Granada:  Dolan,  S.  L.,
+Valle, R y López, A. (2014). La gestión de personas y del talento. McGrawHill. Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Armstrong, M., & BARON, A. (1995). The job evaluation. London: IPD
 
@@ -17,13 +18,8 @@ Bhattacharyya, D. K. (2009). Human resource planning. Excel Books India
 
 Chiavenato, I. (2007). Human resources management. Colombia: McGraw Hill Editorial
 
-Dolan, S. L., Valle, R y López, A. (2014). La gestión de personas y del talento. McGraw-Hill. Madrid
-
 Dolan,   S.,   Valle,   R.,   Jackson,   S.E.  y  Schuler,  R.S.  (2007).  La  gestión  de  los  Recursos  Humanos.
 Madrid: McGraw-Hill
-
-Díaz-Bretones, F. y Rodríguez, A. (2003). Selección y formación de personal. Granada: Universidad de
-Granada
 
 Fernández-Ríos,   M.   (2004).   Análisis   y   descripción   de   puestos   de   trabajo.Teoría,   métodos   y
 ejercicios. Madrid: Díaz de Santos
@@ -56,12 +52,11 @@ Ulrich, D. (1987). Strategic human resource planning: why and how?. People and S
 Van   Buren   III,  H.  J.,  Greenwood,  M.,  &  Sheehan,  C.  (2011).  Strategic  human  resource  management  and
 the decline of employee focus. Human Resource Management Review, 21(3), 209-219
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+Dolan, S. L., Valle, R y López, A. (2014). La gestión de personas y del talento. McGraw-Hill. Madrid
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+Díaz-Bretones, F. y Rodríguez, A. (2003). Selección y formación de personal. Granada: Universidad de
+Granada
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

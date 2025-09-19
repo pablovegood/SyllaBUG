@@ -2,11 +2,11 @@
 Grado: ingenieria-civil-plan-2023 (246)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Al   Sweigart.   Automate  the  Boring  Stuff  with  Python.  Practical  Programming  for  Total  Beginners  .  No
 Starch Press, 2015
@@ -17,18 +17,16 @@ Python 3 . Publicacions de la Universitat Jaume I, 2014
 David   Amos,   Dan  Bader,  Joanna  Jablonski,  Fletcher  Heisler.  Python  Basics:  A  Practical  Introduction
 to Python 3. Ed. Real Python, 2021
 
-Sandeep   Nagar.   Introduction   to   Python   for   Engineers   and  Scientists:  Open  Source  Solutions  for
-Numerical Computation. Apress, 2017
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Documentación de Python
 
 Peter   Wentworth,   Jeffrey   Elkner,   Allen  B.  Downey,  and  Chris  Meyers.  How  to  Think  Like  a  Computer
 Scientist. Learning with Python 3 (RLE)
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+Sandeep   Nagar.   Introduction   to   Python   for   Engineers   and  Scientists:  Open  Source  Solutions  for
+Numerical Computation. Apress, 2017
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

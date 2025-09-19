@@ -2,12 +2,20 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+MILLER,   S.   A.   (2010),   Medieval   monstruosity   and  the  female  body,  Nueva  York,  Routledge  PAREDES
+NÚÑEZ, J. (ed.) (1989), Literatura y fantasía en la Edad Media, Universidad de Granada
 
-📚 Recursos sin cambios:
+SILK, M., GILDENHARD, BARROW, R. (2014), The Classical Tradition, Oxford, WileyBlackwell
+
+SÁNCHEZ   RODRIGO,   L.,   NOGUERAS   VALDIVIESO,   E.  (eds.)  (2000),  Ausias  March  y  las  VARELA-PORTAS  DE
+ORDUÑA, J. (2006), Dante Alighieri, Madrid, Síntesis
+
+📚 Recursos sin cambios (95):
 ------------------------------
+(2005), Figuras del destino: mitos y símbolos de la Europa Medieval, Madrid, Siruela
+
 AGAMBEN, G. (2001), Estancias, Valencia, Pre-Textos
 
 ALSINA, J. (1991), Teoría literaria griega, Madrid, Gredos
@@ -19,6 +27,8 @@ ALVAR EZQUERRA, A. (ed.) (1993), Poesía de amor en Roma, Madrid, Akal
 ALVAR, C. (comp.) (1981), Poesía de Trovadores, Trouvères y Minnesinger, Madrid, Alianza
 
 ANSELMI, G. M. (ed.) (2000), Mapas de la literatura europea y mediterránea, Barcelona, Crítica
+
+ARISTÓTELES (2002), Poética, prólogo, traducción y notas de A. López Eire, Madrid, Itsmo
 
 AUERBACH, E., (1975), Mimesis, Méjico, Fondo de Cultura Económica
 
@@ -145,16 +155,7 @@ SANMARTÍN, J. (ed.) (2005). Gilgames, rey de Uruk. Madrid: Trotta
 
 SETTIS, S., El futuro de lo clásico, Madrid, Abada, 2004
 
-SILK, M., GILDENHARD, BARROW, R. (2014), The Classical Tradition, Oxford, Wiley-Blackwell
-
 SINOPOLI, F. (1999), Il mito della letteratura europea, Roma, Meltemi
-
-SÁNCHEZ   RODRIGO,   L.,   NOGUERAS   VALDIVIESO,  E.  (eds.)  (2000),  Ausias  March  y  las  literaturas  de  su
-época, Granada, Universidad de Granada
-
-VARELA-PORTAS DE ORDUÑA, J. (2006), Dante Alighieri, Madrid, Síntesis
-
-VARO ZAFRA, J. (2007), Alegoría y metafísica, Universidad de Granada
 
 VERNANT, P. (1999), El universo, los dioses, los hombres, Barcelona, Anagrama
 
@@ -168,10 +169,14 @@ VVAA, (1988),Historia de la literatura. El mundo antiguo. Madrid, Akal, 1988
 
 VYASA, (2014) Los Vedas, edición de J. B. Bergua, Ediciones Ibéricas
 
+____ (2007), Figuras del destino. Mitos y símbolos de la Europa medieval, Madrid, Siruela
+
 _____   (1969),Lenguaje   literario  y  público  en  la  baja  latinidad  y  en  la  Edad  Media,  Barcelona,  Seix
 Barral, 1969
 
 _____ (2003), La letteratura europea vista dagli altri, Roma, Meltemi
+
+_____ (2003b), World Literature, National Contexts, Modern Philology, vol .100-4, pp. 512-531
 
 _____ (2009b), Teaching World Literature, Nueva York, The Modern Language Association of America
 
@@ -220,24 +225,19 @@ de Huelva
 
 _______ (2010), De Catulo a Ausonio: lecturas y lecciones de poesía latina, Madrid, Liceus
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-____   (2007),   Figuras  del  destino.  Mitos  y  símbolos  de  la  Europa  medieval,  Madrid,  Siruela.  (2005),
-Figuras   del   destino:   mitos   y   símbolos   de   la   Europa   Medieval,  Madrid,  Siruela  →  ____  (2007),
-Figuras del destino. Mitos y símbolos de la Europa medieval, Madrid, Siruela
-
-MILLER,   S.   A.   (2010),   Medieval   monstruosity   and  the  female  body,  Nueva  York,  Routledge  PAREDES
-NÚÑEZ,   J.   (ed.)   (1989),   Literatura  y  fantasía  en  la  Edad  Media,  Universidad  de  Granada  →  PAREDES
-NÚÑEZ, J. (ed.) (1989), Literatura y fantasía en la Edad Media, Universidad de Granada
-
-✅ Recursos añadidos:
-------------------------------
-(2005), Figuras del destino: mitos y símbolos de la Europa Medieval, Madrid, Siruela
-
-ARISTÓTELES (2002), Poética, prólogo, traducción y notas de A. López Eire, Madrid, Itsmo
-
 MILLER, S. A. (2010), Medieval monstruosity and the female body, Nueva York, Routledge
 
-_____ (2003b), World Literature, National Contexts, Modern Philology, vol .100-4, pp. 512-531
+PAREDES NÚÑEZ, J. (ed.) (1989), Literatura y fantasía en la Edad Media, Universidad de Granada
 
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+SILK, M., GILDENHARD, BARROW, R. (2014), The Classical Tradition, Oxford, Wiley-Blackwell
+
+SÁNCHEZ   RODRIGO,   L.,   NOGUERAS   VALDIVIESO,  E.  (eds.)  (2000),  Ausias  March  y  las  literaturas  de  su
+época, Granada, Universidad de Granada
+
+VARELA-PORTAS DE ORDUÑA, J. (2006), Dante Alighieri, Madrid, Síntesis
+
+VARO ZAFRA, J. (2007), Alegoría y metafísica, Universidad de Granada
+
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

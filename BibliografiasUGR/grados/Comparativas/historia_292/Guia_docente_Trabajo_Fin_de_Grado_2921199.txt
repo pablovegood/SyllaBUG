@@ -2,34 +2,31 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Amo   Sánchez-Fortún,   José  Manuel  de  (et  al.).  La  alfabetización  académica:  cómo  escribir  un  trabajo
+fin   de   estudios.  Madrid:  Wolters  Kluwer,  2021  Baelo  Álvarez,  Manuel.  Guía  práctica  para  redactar  y
+exponer   trabajos  académicos:  TFG,  TFM  y  tesis  doctoral.  Valencia:  Tirant  humanidades,  2018  Barrios,
+Manuel, Barrientos, José (eds.). El trabajo de fin de grado: teorías y prácticas
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
+Madrid:   Vision   Libros,   2016   Cervera   Rodríguez,   Ángel.   Cómo   elaborar   trabajos   académicos   y
+científicos: TFG,TFM, tesis y artículos. Madrid: Alianza editorial, 2019
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
 Sánchez   Asín,   Antonio   (et.   al.).   Trabajos  de  fin  de  grado  y  de  postgrado:  guía  práctica  para  su
 elaboración.   Málaga:   Aljibe,  2016  Sánchez  Pérez,  José.  Cómo  hacer  el  mejor  TFG/TFM  :  consejos  para
 que   tu   trabajo   de  fin  de  grado  o  máster  resulte  exitoso.  Barcelona:  Atelier,  2021  Webgrafía  Libro
 Digital.   Blog   del   Máster   de   Edición  Digital  (UOC)  Guia  para  la  elaboración  de  un  TFG  de  la  Dra.
 Marián   Alonso.  Universidad  de  Sevilla  Cómo  elaborar  el  TFG  o  TFM.  Universidad  Autónoma  de  Barcelona
-Cómo   escribir   el   TFG   y  TFM.  Universidad  Complutense  de  Madrid  tutor/a  asignado/a  →  Sánchez  Asín,
-Antonio   (et.   al.).   Trabajos   de   fin  de  grado  y  de  postgrado:  guía  práctica  para  su  elaboración  .
-Málaga: Aljibe, 2016
+Cómo   escribir   el   TFG  y  TFM.  Universidad  Complutense  de  Madrid  Respecto  a  la  Bibliografía  temática
+específica,   cada   Trabajo   Final   de   Grado   contará   con   su  propia  bibliografía,  aportada  bajo  la
+orientación del/a tutor/a asignado/a Cada Trabajo Final de Grado contará con su propia bibliografía,
+aportada bajo la orientación del/a tutor/a asignado/a
 
-Amo   Sánchez-Fortún,   José  Manuel  de  (et  al.).  La  alfabetización  académica:  cómo  escribir  un  trabajo
-fin   de   estudios.  Madrid:  Wolters  Kluwer,  2021  Baelo  Álvarez,  Manuel.  Guía  práctica  para  redactar  y
-exponer   trabajos  académicos:  TFG,  TFM  y  tesis  doctoral.  Valencia:  Tirant  humanidades,  2018  Barrios,
-Manuel,   Barrientos,   José   (eds.).   El  trabajo  de  fin  de  grado:  teorías  y  prácticas.  Madrid:  Vision
-Libros,   2016   Cervera   Rodríguez,   Ángel.  Cómo  elaborar  trabajos  académicos  y  científicos:  TFG,TFM,
-tesis   y   artículos.   Madrid:   Alianza   editorial,   2019   →   Cervera  Rodríguez,  Ángel.  Cómo  elaborar
-trabajos académicos y científicos: TFG,TFM, tesis y artículos . Madrid: Alianza editorial, 2019
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 Amo   Sánchez-Fortún,   José  Manuel  de  (et  al.).  La  alfabetización  académica:  cómo  escribir  un  trabajo
 fin de estudios . Madrid: Wolters Kluwer, 2021
@@ -42,6 +39,12 @@ Vision Libros, 2016
 
 Cada   Trabajo   Final  de  Grado  contará  con  su  propia  bibliografía,  aportada  bajo  la  orientación  del/a
 tutor/a asignado/a
+
+Cervera   Rodríguez,   Ángel.   Cómo   elaborar   trabajos   académicos   y   científicos:   TFG,TFM,  tesis  y
+artículos . Madrid: Alianza editorial, 2019
+
+Sánchez   Asín,   Antonio   (et.   al.).   Trabajos  de  fin  de  grado  y  de  postgrado:  guía  práctica  para  su
+elaboración . Málaga: Aljibe, 2016
 
 Sánchez   Pérez,   José.   Cómo  hacer  el  mejor  TFG/TFM  :  consejos  para  que  tu  trabajo  de  fin  de  grado  o
 máster resulte exitoso . Barcelona: Atelier, 2021

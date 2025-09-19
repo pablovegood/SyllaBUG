@@ -2,11 +2,11 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Acaso, M. (2009). El lenguaje visual. Paidós
 
@@ -24,6 +24,9 @@ Dondis, D.A. (2017 [1973]). La sintaxis de la imagen: introducción al alfabeto 
 Eco, U. (1977). Tratado de semiótica general. Lumen
 
 Eco, U. (1984 [1968]). Apocalípticos e integrados. Lumen
+
+Freedman,   K.   (2006)   Enseñar   la   cultura  visual.  Currículum,  estética  y  la  vida  social  del  arte  .
+Octaedro
 
 García Canclini, N. (2001) Consumidores y ciudadanos . Grijalbo
 
@@ -61,13 +64,8 @@ Tree Press
 Weinrichter,   A.   (Dir.)   (2007).   La   forma  que  piensa.Tentativas  en  torno  al  cine-ensayo.  Fondo  de
 Publicaciones del Gobierno de Navarra
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Freedman,   K.   (2006)   Enseñar   la   cultura  visual.  Currículum,  estética  y  la  vida  social  del  arte  .
-Octaedro
-
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

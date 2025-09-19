@@ -2,14 +2,12 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Cambridge   University   Press.   sintáctica   y   morfológica.  30%  sobre  el  porcentaje  total  de  la  notal
-final.   30%   sobre   el   porcentaje   de  la  nota  final.  participación  en  las  consultas,  exposiciones  y
-debates;   así  como  en  la  elaboración  de  los  trabajos,  individuales  o  en  equipo,  y  en  las  sesiones  de
-puesta en común
+Madrid, Daniel y McLaren, Neil (eds.) (2004): TEFL in Primary Education. Granada: O’Sullivan, Barry.
+(ed.) (2011). Language Testing: Theories and Practices. Basingstoke: Palgrave Macmillan
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Council   of  Europe  (2001):  Common  European  Framework  of  Reference  for  Languages:  Learning,  Teaching,
 Assessment.       Cambridge:       Cambridge       University      Press.      Also      available      at:
@@ -20,26 +18,22 @@ University Press
 
 Lightbown, Patsy y Spada, Nina. (2013). How Languages are Learned. Oxford: Oxford University Press
 
+Tomlinson,    Brian.   (2011).   Materials   Development   in   Language   Teaching.   Cambridge:   Cambridge
+University Press
+
+✅ Recursos añadidos (4):
+------------------------------
+Bland,   J.   (Ed.).  (2015).  Teaching  English  to  young  learners  :  critical  issues  in  language  teaching
+with    3-12    year    olds    .   Bloomsbury   Academic,   an   imprint   of   Bloomsbury   Publishing,   Plc.
+https://doi.org/10.5040/9781474257145
+
 Madrid,   Daniel   y   McLaren,   Neil   (eds.)   (2004):   TEFL   in   Primary  Education.  Granada:  Editorial
 Universidad de Granada
 
 O’Sullivan,   Barry.   (ed.)   (2011).   Language  Testing:  Theories  and  Practices.  Basingstoke:  Palgrave
 Macmillan
 
-Tomlinson,    Brian.   (2011).   Materials   Development   in   Language   Teaching.   Cambridge:   Cambridge
-University Press
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Bland,   J.   (Ed.).  (2015).  Teaching  English  to  young  learners  :  critical  issues  in  language  teaching
-with    3-12    year    olds    .   Bloomsbury   Academic,   an   imprint   of   Bloomsbury   Publishing,   Plc.
-https://doi.org/10.5040/9781474257145
-
 Selvi,   A.  F.,  &  Galloway,  N.  (2024).  The  Routledge  Handbook  of  Teaching  English  As  an  International
 Language. (1st ed.). Taylor & Francis Group
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

@@ -2,15 +2,20 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 A Colour Atlas of Plant Structure. Bowes B.G., Ed. Manson Publishing, 1996
 
+Atlas color de Citología e Histología. Kühnel W., Ed. Panamericana, 11ª ed., 2005
+
 Atlas en color y Texto de Histología. Gartner L.P. y Hiatt J.L. Ed. Panamericana, 6ª ed., 2015
+
+Cell   and   tissue   ultrastructure:   a  functional  perspective.  Cross  P.C.  y  Mercer  K.L.,  Ed.  Freeman,
+1993
 
 Citología   e   Histología  Vegetal  y  Animal,  Vol.  II:  Histología  vegetal  y  animal.  Paniagua  R.,  Nistal
 M., Sesma P., Álvarez-Uría M., Fraile B., Anadón R., Sáez F.J., Ed. McGraw-Hill, 4ª ed., 2007
@@ -30,6 +35,9 @@ Eynard A.R., Valentich M.A., Rovasio R.A., Ed. Panamericana, 5ª ed., 2016
 
 Manual de Histología Vegetal. Alonso J.R., Ed. Mundi-Prensa, 2011
 
+Plant   Cell   Biology.   Structure  and  function.  Gunning  B.E.S.  and  Steer  M.W.,  Ed.  Jones  and  Bartlett
+Publishers, 96
+
 Ross.   Histología:   Texto   y   Atlas.   Correlación   con  Biología  Molecular  y  Celular.  Pawlina  W.,  Ed.
 Wolters Kluwer, 8ª ed., 2020
 
@@ -39,17 +47,8 @@ Sobotta. Histología. Welsch U., Ed. Panamericana, 3ª ed., 2014
 
 Ultrastructure Atlas of Human Tissues. Hossler F.E., Ed. Wiley-Blackwell, 2014
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Atlas   color   de  Citología  e  Histología.  Kühnel  W.,  Ed.  Panamericana,  11ª  ed.,  2005.  Cell  and  tissue
-ultrastructure:   a   functional   perspective.   Cross   P.C.   y   Mercer   K.L.,   Ed   →   Cell   and  tissue
-ultrastructure: a functional perspective. Cross P.C. y Mercer K.L., Ed. Freeman, 1993
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Atlas color de Citología e Histología. Kühnel W., Ed. Panamericana, 11ª ed., 2005
-
-Plant   Cell   Biology.   Structure  and  function.  Gunning  B.E.S.  and  Steer  M.W.,  Ed.  Jones  and  Bartlett
-Publishers, 96
-
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

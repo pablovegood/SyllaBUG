@@ -2,11 +2,18 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Hatim, Basil y Mason, Ian (1990). Discourse and the translator. Londres: Longman
 
-📚 Recursos sin cambios:
+Newmark, Paul (1988). A Textbook of translation. Londres: Prentice Hall. [Trad. española de Virgilio
+Moya (1992). Manual de Traducción. Madrid: Cátedra.] Nida, Eugene (2012). Sobre la traducción. Trad.
+E. Nida y M. Elena Fernández-MirandaNida. Madrid: Cátedra
+
+[Trad. española de S. Peña (1995). Teoría de la traducción. Barcelona: Ariel.] Hatim, Basil y Mason,
+Ian (1997). The translator as communicator. Londres: Routledge
+
+📚 Recursos sin cambios (28):
 ------------------------------
 Baker, Mona (2018). In other words: a coursebook on translation (3rd edition). Londres: Routledge
 
@@ -78,27 +85,19 @@ Torresi, Ira (2010). Translating promotional and advertising texts. Manchester: 
 Valdés   Rodríguez,   María   Cristina   (2004).   La   traducción   publicitaria:   comunicación  y  cultura.
 Universitat de Valencia: Servei de Publicacions
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
+DICCIONARIOS Y MANUALES
+
+Hatim, Basil y Mason, Ian (1990). Discourse and the translator. Londres: Longman. [Trad. española de
+S. Peña (1995). Teoría de la traducción. Barcelona: Ariel.]
+
+Hatim, Basil y Mason, Ian (1997). The translator as communicator. Londres: Routledge
+
 Newmark, Paul (1988). A Textbook of translation. Londres: Prentice Hall. [Trad. española de Virgilio
-Moya (1992). Manual de Traducción. Madrid: Cátedra.] Nida, Eugene (2012). Sobre la traducción. Trad.
-E.   Nida   y   M.  Elena  Fernández-Miranda-  Nida.  Madrid:  Cátedra  →  Newmark,  Paul  (1988).  A  Textbook  of
-translation.   Londres:  Prentice  Hall.  [Trad.  española  de  Virgilio  Moya  (1992).  Manual  de  Traducción.
-Madrid: Cátedra.]
-
-[Trad. española de S. Peña (1995). Teoría de la traducción. Barcelona: Ariel.] Hatim, Basil y Mason,
-Ian   (1997).   The  translator  as  communicator.  Londres:  Routledge  →  Hatim,  Basil  y  Mason,  Ian  (1997).
-The translator as communicator. Londres: Routledge
-
-Hatim,   Basil   y   Mason,  Ian  (1990).  Discourse  and  the  translator.  Londres:  Longman  →  Hatim,  Basil  y
-Mason,   Ian   (1990).   Discourse   and   the   translator.   Londres:  Longman.  [Trad.  española  de  S.  Peña
-(1995). Teoría de la traducción. Barcelona: Ariel.]
-
-✅ Recursos añadidos:
-------------------------------
-AA.VV. (1996). Libro de Estilo, El País. Madrid: El País
+Moya (1992). Manual de Traducción. Madrid: Cátedra.]
 
 Nida,   Eugene   (2012).  Sobre  la  traducción.  Trad.  E.  Nida  y  M.  Elena  Fernández-Miranda-Nida.  Madrid:
 Cátedra
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

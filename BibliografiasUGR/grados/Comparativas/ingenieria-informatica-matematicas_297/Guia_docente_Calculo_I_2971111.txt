@@ -2,26 +2,29 @@
 Grado: ingenieria-informatica-matematicas (297)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+C. APARICIO DEL PRADO y R. PAYÁ ALBERT. Análisis Matemático. Sec. Publ. Univ. Granada, 1986
 
-📚 Recursos sin cambios:
+D.   BRESSOUD.   A   Radical   Approach   to  Real  Analysis.  Math.  Assoc.  America,  Washington,  J.  STEWART.
+Cálculo diferencial e integral. Thomson, México 1999
+
+📚 Recursos sin cambios (3):
 ------------------------------
+J.   PÉREZ   GONZÁLEZ.   Cálculo   Diferencial   e   Integral  de  Funciones  de  una  variable.Texto  que  puede
+descargarse   en:   http://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf  R.
+PAYÁ        ALBERT.        Cálculo        I.        Texto        que        puede       descargarse       en
+https://www.ugr.es/~rpaya/cursosanteriores.htm   S.   ABBOTT.  Understanding  Analysis.  Springer-Verlag,
+New York, 2001
+
 M. SPIVAK. Cálculo Infinitesimal. 2ª Edición. Reverté, Barcelona 1992
-
-S. ABBOTT. Understanding Analysis. Springer-Verlag, New York, 2001
 
 S.K. BERBERIAN. A First Course in Real Analysis. Springer-Verlag, New York, 1994
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-D.   BRESSOUD.   A   Radical   Approach   to  Real  Analysis.  Math.  Assoc.  America,  Washington,  J.  STEWART.
-Cálculo   diferencial   e   integral.   Thomson,   México   1999  →  D.  BRESSOUD.  A  Radical  Approach  to  Real
-Analysis. Math. Assoc. America, Washington, 2007
+D. BRESSOUD. A Radical Approach to Real Analysis. Math. Assoc. America, Washington, 2007
 
-✅ Recursos añadidos:
-------------------------------
 H. AMANN, J. Escher, Analysis I, Birkhäuser, 2005
 
 J. PÉREZ GONZÁLEZ. Cálculo Diferencial e Integral de Funciones de una variable
@@ -34,4 +37,4 @@ M.H. PROTTER, C.B. MORREY, A First Course in Real Analysis, Springer-Verlag, New
 
 T. TAO, Analysis I, Springer 2015
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 90% [█████████░]

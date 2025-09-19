@@ -2,11 +2,14 @@
 Grado: educacion-primaria-melilla (557)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+PUREN,   C.  (2016).  Modelo  complejo  de  la  competencia  cultural  (componentes  históricos  trans-,  meta-,
+inter-, pluri-, co-culturales: ejemplos de validación y aplicación actuales
 
-📚 Recursos sin cambios:
+http://journals.openedition.org/rdlc/407 doi.org/10.4000/rdlc.407
+
+📚 Recursos sin cambios (10):
 ------------------------------
 ABDALLAH-PREITCEILLE, Martine (1999). L’éducation interculturelle. PUF
 
@@ -16,6 +19,10 @@ BYRAM,   Michael   (Coord.),   Neuner,   Gerhard;   Parmenter,   Lynne;  Starkey
 (2003). La compétence interculturelle. Conseil de l’Europe
 
 CHISS, Jean-Louis (dir.) (2021). Le FLE et la francophonie dans le monde. Armand Colin
+
+Disponible    en:   http://www.christianpuren.com   VELÁZQUEZ,   A.   (2015).   Diversité   pédagogique   et
+culturelle   en  classe  de  FLE  :  Vers  une  intégration  contextualisée  de  la  compétence  interculturelle,
+Recherches en didactique des langues et des cultures. Les Cahiers de l’Acedle. [En ligne]
 
 JEFFROY, Géraldine (2015). Bulles de France A2-C1 . PUG
 
@@ -29,19 +36,11 @@ ROECH, Rosalba, & ROLLE-HAROLD, Roselyne (2012). La France au quotidien (Nouvell
 
 STEELE, Ross (2017). Civilisation progressive du français (600 activités). CLE International
 
-VELÁZQUEZ,   Adelina   (2015).   Diversité   pédagogique   et   culturelle   en   classe   de   FLE  :  Vers  une
-intégration contextualisée de la compétence interculturelle, Recherches en didactique des langues et
-des cultures. Les Cahiers de l’Acedle . https://doi.org/10.4000/rdlc.407
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 PUREN,   Christian  (2022).  Modelo  complejo  de  la  competencia  cultural  (componentes  históricos  trans-,
 meta-, inter-, pluri-, co-culturales: ejemplos de validación y aplicación actuales . https://www.res
 earchgate.net/publication/364928535_Modele_complexe_de_la_competence_culturelle_composantes_historiq
 ues_trans-_meta-_inter-_pluri-_co-culturelles_exemples_de_validation_et_d'application_actuelles
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

@@ -2,11 +2,14 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Nolan, J. (2005). Interpretation Techniques and Exercises. Texas: Multilingual Matters
 
-📚 Recursos sin cambios:
+Rozan,   J.   F.   (1956).   La   prise   de   notes  en  interprétation  consécutive.  Ginebra:  Universidad  de
+Ginebra
+
+📚 Recursos sin cambios (11):
 ------------------------------
 Alexieva, B. (1997). “A typology of Interpreter-Mediated Events”. The Translator 3, 2, 153-174
 
@@ -41,19 +44,12 @@ Katan,   D.  (1999).  Translating  Cultures.  An  Introduction  for  Translators
 Maude,   Barry   (2011).   Managing   Cross-Cultural   Communication:   Principles  and  Practic  e.  Palgrave
 MacMillan
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Rozan,   J.   F.   (1956).   La   prise   de   notes  en  interprétation  consécutive.  Ginebra:  Universidad  de
-Ginebra   →   Nolan,  J.  (2005).  Interpretation  Techniques  and  Exercises  .  Texas:  Multilingual  Matters.
-Rozan,   J.   F.   (1956).   La   prise   de   notes  en  interprétation  consécutive.  Ginebra:  Universidad  de
-Ginebra
+Nolan,   J.   (2005).  Interpretation  Techniques  and  Exercises  .  Texas:  Multilingual  Matters.  Rozan,  J.
+F. (1956). La prise de notes en interprétation consécutive. Ginebra: Universidad de Ginebra
 
-Nolan,   J.   (2005).  Interpretation  Techniques  and  Exercises.  Texas:  Multilingual  Matters  →  Nolan,  J.
-(2005).   Interpretation  Techniques  and  Exercises  .  Texas:  Multilingual  Matters.  Rozan,  J.  F.  (1956).
-La prise de notes en interprétation consécutive. Ginebra: Universidad de Ginebra
+Nolan,   J.   (2005).  Interpretation  Techniques  and  Exercises  .  Texas:  Multilingual  Matters.  Rozan,  J.
+F. (1956). La prise de notes en interprétation consécutive. Ginebra: Universidad de Ginebra
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

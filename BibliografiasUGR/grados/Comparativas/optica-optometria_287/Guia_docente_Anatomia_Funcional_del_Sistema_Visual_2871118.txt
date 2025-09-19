@@ -2,47 +2,17 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-Médica   Panamericana.   Herrera,  M.,  Martínez,  F.,  Ruiz,  A.  y  Sánchez,  F.  (2005)  Anatomía  del  sistema
-visual humano I
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-🔁 Misma obra con edición/año distinto:
+📚 Recursos sin cambios (20):
 ------------------------------
-Elsevier. Feneis, H.(2006) Nomenclatura Anatómica Ilustrada. Ed Masson. García-Porrero, J.A., Hurlé,
-J.M.   (2005)   Anatomía  Humana.  1ª  ed.  Ed.  Mcgraw-Hill  –  Interamericana.  Gilroy,  A.  M.,  MacPherson  B.
-R.   and   Ross   L.   M.   (2009)   Prometheus   Atlas   de   Anatomía.   Ed   →  Feneis,  H.(2006)  Nomenclatura
-Anatómica Ilustrada. Ed Masson
+Benninghoff y Drenckhahn. (2009). Compendio de Anatomía. Ed. Médica Panamericana
 
-Aparato   visual   y   sus   anexos.   Gráfibel.  Kahle-Frotscher  (2008)  Atlas  de  Anatomía  con  correlación
-clínica   Tomo   3:   Sistema  nervioso  y  órganos  de  los  sentidos.  Ed.  Médica  Panamericana.  Latarjet  M.,
-Ruiz   A.   (2005)   Anatomía   humana.   Ed.   Panamericana  (2  tomos).  Moore,  Persaud.  (2000)  Embriología
-básica.   5ª   ed.   Ed.   McGraw-Hill   Interamericana.  Moore,  K.  L  And  Dalley  A.  F.  (2002)  Anatomía  con
-Orientación   Clínica.   Ed.   Panamericana   Morales   Hevia,   Mº   del  Mar.  “Aprendiendo  osteología”  Ed.
-Alianza Grupo Género, 2013. Netter, F. (1999) Atlas de Anatomía Humana. Ed. Masson. 2ª edición. y de
-las Vías visuales. Universidad de Murcia. Rodríguez, S., Smith- Agreda, J.M. (1999). Anatomía de los
-órganos   del   lenguaje,   visión   y   audición.   Ed.  Médica  Panamericana.  Rohen,J.  W.,  Yokochi  Ch.  And
-Lütjen-Drecoll    E.   (2007)   Anatomia   Humana.   Atlas   Fotográfico.   Ed   →   Moore,   Persaud.   (2000)
-Embriología básica. 5ª ed. Ed. McGraw-Hill Interamericana
-
-Benninghoff y Drenckhahn. (2009). Compendio de Anatomía. Ed. Médica Panamericana. Drake, R.L., Wogl,
-W.,   Mitchel,   A.W.M.   (2005).  Gray  Anatomía  para  Estudiantes.  1ª  ed.  Ed  →  Benninghoff  y  Drenckhahn.
-(2009). Compendio de Anatomía. Ed. Médica Panamericana
-
-Harcourt-Brace.   Schünke,   M.,   et   al.(2008)   .Prometheus,   Texto   y   Atlas  De  Anatomía.  Tomos  III.
-Editorial   Médica   Panamericana.   Snell,   R.S.   (2003)   Neuroanatomía   Clinica.   5ª   ed.   Ed.  Médica
-Panamericana.   Sobotta.   (2017)   Atlas   de  Anatomia  Humana.  Tomos  I  y  II.  Ed.  Panamericana.  Tortora,
-G.J. and Derickson B. (2008) Introducción al cuerpo Humano: Fundamentos de Anatomía y Fisiología. 7ª
-ed.   Ed.   Panamerícana.   Material   docente  en  la  plataforma  PRADO  →  Snell,  R.S.  (2003)  Neuroanatomía
-Clinica. 5ª ed. Ed. Médica Panamericana
-
-✅ Recursos añadidos:
-------------------------------
 Drake, R.L., Wogl, W., Mitchel, A.W.M. (2005). Gray Anatomía para Estudiantes. 1ª ed. Ed. Elsevier
+
+Feneis, H.(2006) Nomenclatura Anatómica Ilustrada. Ed Masson
 
 García-Porrero, J.A., Hurlé, J.M. (2005) Anatomía Humana. 1ª ed. Ed. Mcgraw-Hill – Interamericana
 
@@ -61,6 +31,8 @@ Material docente en la plataforma PRADO
 
 Moore, K. L And Dalley A. F. (2002) Anatomía con Orientación Clínica. Ed. Panamericana
 
+Moore, Persaud. (2000) Embriología básica. 5ª ed. Ed. McGraw-Hill Interamericana
+
 Morales Hevia, Mº del Mar. “Aprendiendo osteología” Ed. Alianza Grupo Género, 2013
 
 Netter, F. (1999) Atlas de Anatomía Humana. Ed. Masson. 2ª edición
@@ -77,9 +49,15 @@ Harcourt-Brace
 Schünke,   M.,   et   al.(2008)   .Prometheus,   Texto   y   Atlas  De  Anatomía.  Tomos  III.  Editorial  Médica
 Panamericana
 
+Snell, R.S. (2003) Neuroanatomía Clinica. 5ª ed. Ed. Médica Panamericana
+
 Sobotta. (2017) Atlas de Anatomia Humana. Tomos I y II. Ed. Panamericana
 
 Tortora,   G.J.   and   Derickson   B.   (2008)   Introducción  al  cuerpo  Humano:  Fundamentos  de  Anatomía  y
 Fisiología. 7ª ed. Ed. Panamerícana
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

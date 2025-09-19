@@ -2,11 +2,17 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Hidalgo   Goyanes,   P.   (2017).   Preservación   del  patrimonio  audiovisual  de  televisión  El  archivo  de
+Televisión   Española  (TVE):  de  los  orígenes  a  la  digitalización  Universidad  Complutense  de  Madrid  L'
+Herbier, M (1921) El dorado
 
-📚 Recursos sin cambios:
+Marcos   Recio,   J.   C.   coord.   (2013)  Gestión  del  patrimonio  audiovisual  en  medios  de  comunicación.
+Madrid: Síntesis Martín Barbero, J. (1996). De los medios a las mediaciones: comunicación, cultura y
+hegemonía. Ediciones Gustavo Gili
+
+📚 Recursos sin cambios (65):
 ------------------------------
 Aguilar-Gutiérrez, M., & López-De-Solís, I. (2010). Nuevos modos de trabajo de una redacción digital
 integrada: el caso de los servicios informativos de TVE. El profesional de la información, 19(4)
@@ -14,6 +20,13 @@ integrada: el caso de los servicios informativos de TVE. El profesional de la in
 Alvarez   Ruíz,  R.  L.,  Caso  Barreto,  A.  &  Manso  Rodríguez,  R.  A.  (2022).  La  refotografía  como  técnica
 para   la   difusión   del  patrimonio  fotográfico  local:  el  proyecto  “Santa  Clara:  Imagen  y  lugar  en  el
 tiempo”. Ibersid: revista de sistemas de información y documentación, 16(1), 75-81
+
+Alvarez, T. M. (2020). Enseñar la vida de los otros. La diversidad ética y estética en la fotografía
+social   y   humanista:   Documentación  fotográfica,  ensayo  fotográfico  y  fotografía  de  prensa.  Revista
+Panamericana de Comunicación, 2(1), 30-38
+
+Bazán   Gil,  V.  B.  (2014).  La  memoria  colectiva:  contenidos  para  el  recuerdo,  del  archivo  a  la  Web  de
+RTVE. Métodos de información, 5(8), 5-16
 
 Blázquez Ochando, M. (2010). El documento fotográfico y sus valores. Documentación Fotográfica
 
@@ -46,6 +59,11 @@ and audiovisual patrimony. Profesional De La Informacion, 18(5), 545-551
 
 Fernández   Amador,   M.   (2009).   La   Chanca:  retrato  de  un  barrio  almeriense  en  los  años  setenta.  In
 Sociedad y movimientos sociales (pp. 501-522). Instituto de Estudios Almerienses
+
+Frémaux, T. (2016) Lumière!
+
+García   Casado,   P.   (2019).  La  preservación  de  las  películas  en  la  era  del  paradigma  Netflix  .  BiD:
+textos universitaris de biblioteconomia i documentació, núm. 43 (desembre)
 
 García-Martínez,   A.   N.   (2008).   El  cine  de  no-ficción  en  Martín  Patino.  Ediciones  Internacionales
 Universitarias
@@ -82,6 +100,9 @@ Observatory, Strasbourg
 Lara   López,   E.L.  (2005).  La  representación  social  de  la  muerte  a  través  de  la  fotografía  (Murcia  y
 Jaén,   1870-1902):   una   historia   de   la   imagen   burguesa.   Revista  de  Dialectología  y  Tradiciones
 Populares, LX, 2 (129-147)
+
+Leal   Abad,   E.   (2021).   El   andaluz   en   la  publicidad:  niveles  de  lengua  y  contenido  del  mensaje.
+Pragmalingüística, (29), 227–244
 
 Ley 14/2007, de 26 de noviembre, de Patrimonio Histórico de Andalucía
 
@@ -184,40 +205,17 @@ Uranga, V. (2018). Estrategias de la UNESCO en la salvaguarda Patrimonio Audiovi
 Zabala-Vázquez,   J.,   &   Sánchez-Galán,   M.   B.   (2014).   Los   documentos   publicitarios  en  archivos
 fílmicos: importancia, escenario actual y dificultad de análisis. EPI, 23(1), 36-43
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Marcos   Recio,   J.   C.   coord.   (2013)  Gestión  del  patrimonio  audiovisual  en  medios  de  comunicación.
-Madrid: Síntesis Martín Barbero, J. (1996). De los medios a las mediaciones: comunicación, cultura y
-hegemonía.   Ediciones   Gustavo   Gili   →   Marcos   Recio,   J.   C.  coord.  (2013)  Gestión  del  patrimonio
-audiovisual en medios de comunicación. Madrid: Síntesis
-
 Hidalgo   Goyanes,   P.   (2017).   Preservación   del  patrimonio  audiovisual  de  televisión  El  archivo  de
-Televisión   Española  (TVE):  de  los  orígenes  a  la  digitalización  Universidad  Complutense  de  Madrid  L'
-Herbier,   M   (1921)   El  dorado  →  Hidalgo  Goyanes,  P.  (2017).  Preservación  del  patrimonio  audiovisual
-de   televisión   El   archivo   de   Televisión   Española   (TVE):   de   los   orígenes  a  la  digitalización
-Universidad Complutense de Madrid
-
-Frémaux, T. (2016) Lumière! García Casado, P. (2019). La preservación de las películas en la era del
-paradigma Netflix  →  Frémaux, T. (2016) Lumière!
-
-✅ Recursos añadidos:
-------------------------------
-Alvarez, T. M. (2020). Enseñar la vida de los otros. La diversidad ética y estética en la fotografía
-social   y   humanista:   Documentación  fotográfica,  ensayo  fotográfico  y  fotografía  de  prensa.  Revista
-Panamericana de Comunicación, 2(1), 30-38
-
-Bazán   Gil,  V.  B.  (2014).  La  memoria  colectiva:  contenidos  para  el  recuerdo,  del  archivo  a  la  Web  de
-RTVE. Métodos de información, 5(8), 5-16
-
-García   Casado,   P.   (2019).  La  preservación  de  las  películas  en  la  era  del  paradigma  Netflix  .  BiD:
-textos universitaris de biblioteconomia i documentació, núm. 43 (desembre)
+Televisión Española (TVE): de los orígenes a la digitalización Universidad Complutense de Madrid
 
 L' Herbier, M (1921) El dorado
 
-Leal   Abad,   E.   (2021).   El   andaluz   en   la  publicidad:  niveles  de  lengua  y  contenido  del  mensaje.
-Pragmalingüística, (29), 227–244
+Marcos   Recio,   J.   C.   coord.   (2013)  Gestión  del  patrimonio  audiovisual  en  medios  de  comunicación.
+Madrid: Síntesis
 
 Martín   Barbero,   J.   (1996).   De   los   medios  a  las  mediaciones:  comunicación,  cultura  y  hegemonía.
 Ediciones Gustavo Gili
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

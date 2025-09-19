@@ -2,21 +2,26 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+(1972). Mapa Tectónico de la Península Ibérica y Baleares 1:1.000.000. IGME
 
-📚 Recursos sin cambios:
+Bloque III Guía de campo. Trabajo de campo de Petrología. Información General. Por: F. Bea, A
+
+Capítulos   8   y  9.  Mattauer,  M.  (1976).  Las  deformaciones  de  los  materiales  de  la  corteza  terrestre.
+Editorial   Omega.   Capítulo   15.  McClay,  K.  (1995).  The  Mapping  of  Geological  Structures.  Geological
+Society of London, Handbook
+
+Fry,   N.   (1984).   The   Field   description   of   Metamorphic   Rocks.  The  Geological  Society  of  London
+Handbook Series. Julivert, M., Fontboté, J.M., Ribeiro, A. y Nabais-Conde, L.E
+
+📚 Recursos sin cambios (7):
 ------------------------------
 Barnes, J. (1981). Basic Geological Mapping. The Geological Society of London Handbook Series
 
-Fry,   N.   (1984).   The   Field   description   of   Metamorphic   Rocks.  The  Geological  Society  of  London
-Handbook   Series.   Julivert,   M.,   Fontboté,   J.M.,   Ribeiro,   A.   y  Nabais-Conde,  L.E.  (1972).  Mapa
-Tectónico de la Península Ibérica y Baleares 1:1.000.000. IGME
-
 Guía   de   Campo   de  la  Asignatura  de  Trabajo  de  Campo  II  -  Petrología  Sierra  de  Gredos  (Ávila).  Por:
-José   F.   Molina,   Concepción  Lázaro,  Antonio  García-Casco  y  Fernando  Bea  Hobbs,  B.E.,  Means,  W.D.  y
-Williams, P.F. (1981). Geología Estructural. Editorial Omega
+José F. Molina, Concepción Lázaro, Antonio García-Casco y Fernando Bea Bloque IV Hobbs, B.E., Means,
+W.D. y Williams, P.F. (1981). Geología Estructural. Editorial Omega
 
 Guía de campo. Trabajo de campo de Petrología. Información General. Por: F. Bea, A. García Casco, J.
 H. Scarrow, J. F. Molina Palma, R. L. Torres Roldán
@@ -32,17 +37,19 @@ London Handbook Series
 Vera,   J.A.   (ed.)   (2004).  Geología  de  España.  Sociedad  Geológica  de  España  e  Instituto  Geológico  y
 Minero de España
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Capítulos   8   y  9.  Mattauer,  M.  (1976).  Las  deformaciones  de  los  materiales  de  la  corteza  terrestre.
-Editorial   Omega.   Capítulo   15.  McClay,  K.  (1995).  The  Mapping  of  Geological  Structures.  Geological
-Society   of   London,   Handbook   →   Hobbs,   B.E.,   Means,   W.D.   y   Williams,   P.F.   (1981).  Geología
-Estructural.   Editorial   Omega.   Capítulos   8   y   9.   Mattauer,   M.  (1976).  Las  deformaciones  de  los
-materiales   de  la  corteza  terrestre.  Editorial  Omega.  Capítulo  15.  McClay,  K.  (1995).  The  Mapping  of
-Geological Structures. Geological Society of London, Handbook
+Fry,   N.   (1984).   The   Field   description   of   Metamorphic   Rocks.  The  Geological  Society  of  London
+Handbook   Series.   Julivert,   M.,   Fontboté,   J.M.,   Ribeiro,   A.   y  Nabais-Conde,  L.E.  (1972).  Mapa
+Tectónico de la Península Ibérica y Baleares 1:1.000.000. IGME
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+Fry,   N.   (1984).   The   Field   description   of   Metamorphic   Rocks.  The  Geological  Society  of  London
+Handbook   Series.   Julivert,   M.,   Fontboté,   J.M.,   Ribeiro,   A.   y  Nabais-Conde,  L.E.  (1972).  Mapa
+Tectónico de la Península Ibérica y Baleares 1:1.000.000. IGME
 
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+Hobbs, B.E., Means, W.D. y Williams, P.F. (1981). Geología Estructural. Editorial Omega. Capítulos 8
+y   9.   Mattauer,   M.   (1976).  Las  deformaciones  de  los  materiales  de  la  corteza  terrestre.  Editorial
+Omega.   Capítulo   15.  McClay,  K.  (1995).  The  Mapping  of  Geological  Structures.  Geological  Society  of
+London, Handbook
+
+📊 Porcentaje estimado de cambio: 77% [███████░░░]

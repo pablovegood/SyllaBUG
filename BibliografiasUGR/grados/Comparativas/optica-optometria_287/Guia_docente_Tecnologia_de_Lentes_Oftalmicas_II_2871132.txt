@@ -2,11 +2,11 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Apuntes de Tecnología de Lentes Oftálmicas II. Departamento de Óptica. Universidad de Granada
 
@@ -20,17 +20,15 @@ Prism and lens making. F. Twyman. Ed. Adam Hilger (1988)
 
 Problemas de Tecnología Óptica. C. Illueca y B. Domenech. Ed. Universidad de Alicante (1991)
 
+Tecnología Óptica. Lentes oftálmicas, diseño y adaptación. J. Salvadó y M. Fransoy. Ed. UPC (1997)
+
 The   Principles   of  Ophthalmic  Lenses.  M.  Jalie.  Ed.  The  Association  of  British  Dispensing  Opticians
 (1988)
 
 Óptica Clínica. Troy E. Fannin, Theodore Grosvener. Ed. Butterworth-Heinemann (2007)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Tecnología Óptica. Lentes oftálmicas, diseño y adaptación. J. Salvadó y M. Fransoy. Ed. UPC (1997)
-
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

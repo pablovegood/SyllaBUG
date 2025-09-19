@@ -2,13 +2,15 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Abós Santabárbara, Ángel Luis, La historia que nos enseñaron (1937-1975), Madrid, 22004
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (46):
 ------------------------------
 , La herencia del pasado. Las memorias históricas del pasado, Barcelona, 2011
+
+, Las caras de Clío. Una introducción a la historia, Madrid, 2009
 
 , Tendencias historiográficas actuales. Escribir historia hoy, Madrid, 2004
 
@@ -40,8 +42,9 @@ Cannadine, David (ed.), ¿Qué es la historia ahora?, Granada, 2005
 Cirujano   Marín,   Paloma,   Elorriaga   Planes,   Teresa  y  Pérez  Garzón,  Juan  Sisinio,  Historiografía  y
 nacionalismo español, 1834-1868, Madrid, 1985
 
-Corral,   José   Luis,   García   Herrero,   Carmen   y  Navarro,  Germán,  Taller  de  historia.  El  oficio  que
-amamos, Barcelona, 2006
+Cohen   Anselem,   Arón   y   Peinado   Santaella,   Rafael  G.  (eds.),  Historia,  historiografía  y  ciencias
+sociales   Corral,  José  Luis,  García  Herrero,  Carmen  y  Navarro,  Germán,  Taller  de  historia.  El  oficio
+que amamos, Barcelona, 2006
 
 Cruz,   Manuel   y   Brauer,   Daniel  (comp.),  La  comprensión  del  pasado.  Escritos  sobre  filosofía  de  la
 historia, Herder, 2005
@@ -75,6 +78,8 @@ Hobsbawm, Eric, Cómo cambiar el mundo. Marx y el marxismo, 1840-2011, Barcelona
 La historia de los hombres, Barcelona, 2001
 
 Lefebvre, Georges, El nacimiento de la historiografía moderna, Barcelona, 1974
+
+Moradiellos, Enrique, El oficio de historiador, Madrid, 2009
 
 Morales   Moya,   Antonio,   «Historia   de   la   historiografía   española»,   en   Miguel   Artola   (dir.),
 Enciclopedia de historia de España, vol. 7, Madrid, 1993, págs. 583-684
@@ -118,14 +123,9 @@ Vilar, Pierre, Iniciación al vocabulario del análisis histórico, Barcelona, 1
 
 White, Hayden, Metahistoria: La imaginación histórica, México, 2001
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (25):
 ------------------------------
-Abós   Santabárbara,   Ángel   Luis,   La   historia   que  nos  enseñaron  (1937-1975),  Madrid,  22004  →  Abós
-Santabárbara, Ángel Luis, La historia que nos enseñaron (1937-1975), Madrid, 2004
-
-✅ Recursos añadidos:
-------------------------------
-, Las caras de Clío. Una introducción a la historia, Madrid, 2009
+Abós Santabárbara, Ángel Luis, La historia que nos enseñaron (1937-1975), Madrid, 2004
 
 Aguirre Rojas, Carlos Antonio, Antimanual del mal historiador, México, 2002
 
@@ -140,8 +140,8 @@ Canfora, Luciano, Aproximación a la historia griega, Madrid, 2003
 
 Carr, Edward, ¿Qué es la historia?, Barcelona, 2010
 
-Cohen   Anselem,   Arón   y   Peinado   Santaella,   Rafael  G.  (eds.),  Historia,  historiografía  y  ciencias
-sociales
+Corral,   José   Luis,   García   Herrero,   Carmen   y  Navarro,  Germán,  Taller  de  historia.  El  oficio  que
+amamos, Barcelona, 2006
 
 Cruz, Manuel, Adios, historia, adiós. El abandono del pasado en el mundo actual, Oviedo, 2012
 
@@ -165,8 +165,6 @@ Momigliano, Arnaldo, Génesis y desarrollo de la biografía en Grecia, México, 
 
 Momigliano, Arnaldo, La historiografía griega, Barcelona, 1984
 
-Moradiellos, Enrique, El oficio de historiador, Madrid, 2009
-
 Redford,   D.   B.,   Pharaonic   King-List,   Annals   and   Day-Books.  A  Contribution  to  the  Study  of  the
 Egyptian sense of History, Mississauga, 1986
 
@@ -181,4 +179,4 @@ Vernant, Jean-Pierre, Los orígenes del pensamiento griego, Buenos Aires, 1965
 
 Vilar, Pierre, Memoria, historia e historiadores, Granada, 2004
 
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

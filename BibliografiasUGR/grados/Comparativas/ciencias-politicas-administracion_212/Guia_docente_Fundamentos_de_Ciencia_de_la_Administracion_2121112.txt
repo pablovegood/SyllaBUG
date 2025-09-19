@@ -2,8 +2,17 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
+BAENA   DEL   ALCÁZAR,   M.   (2005)   Manual  de  Ciencia  de  la  Administración.  Madrid,  Síntesis  BAENA  DEL
+ALCÁZAR, M. (2010) Manuel de Ciencia de la Administración. Madrid, Síntesis
+
+BALLART,   X.   y  RAMIÓ,  C.  (2000)  Ciencia  de  la  Administración.  Valencia,  Tirant  lo  Blanch  BAÑÓN  R.  y
+CARRILLO, E. (comps.) (1997) La nueva Administración Pública. Madrid, Alianza Universidad
+
+GARCÍA   SÁNCHEZ,   I.M.,   <<La   nueva   gestión  pública:  evolución  y  tendencias>>,  Presupuesto  y  gasto
+público, 47/2007, 37-64 GUERRERO, O. Introducción a la Administración Pública. México, Harper-Row
+
 MINTZBERG   et   al.,  El  proceso  estratégico,  Prentice  Hall,  Madrid,  1998  MINTZBERG,  La  estructuración
 de las organizaciones. Barcelona. Ariel. 1998 [CPS/658 MIE est]
 
@@ -12,7 +21,9 @@ en   la   gestión   pública  de  la  cooperación>>,  en  DE  CUETO  (coord.),
 relaciones   multinivel   en   materia   de   cooperación  en  la  Comunidad  Autónoma  de  Andalucía.  Granada,
 Comares, 2008
 
-📚 Recursos sin cambios:
+estratégico, Garnica, Buenos Aires, 1999 [CPS/658 MIN saf]
+
+📚 Recursos sin cambios (58):
 ------------------------------
 ALBI, E. (2000).Público y privado. Un acuerdo necesario. Barcelona, Ariel
 
@@ -41,15 +52,18 @@ Especial referencia al ámbito local. La Coruña, Escuela de Negocios de Galicia
 
 BRUGUÉ, Q. y GOMÁ, R. (1998). Gobiernos locales y políticas públicas. Barcelona, Ariel
 
+CANALES   ALIENDE,  J.M.  (1987).  Panorama  actual  de  la  Ciencia  de  la  Administración  en  España.  Madrid,
+INAP
+
 CANALES   ALIENDE,   J.M.   (2002).   Lecciones   de   Administración   y   de   Gestión   Pública.   Alicante,
 Publicaciones Universidad de Alicante
 
 CHEVALIER, J. y LOSCHAK, D. (1986). Ciencia Administrativa. Madrid, INAP
 
-CROZIER, M. (1989). Estado Modesto. México, FCE
-
 CROZIER,   M.   (1997).   La   transición  del  paradigma  burocrático  a  una  cultura  de  gestión  pública,  en
 Reforma y Democracia, Revista del CLAD nº.7, Caracas, enero: 9-18
+
+CROZIER, M. Estado Modesto, Estado Moderno. FCE: México, 1989
 
 CUENCA   CERVERA,   J.   (2010).   Manual   de   dirección   y  gestión  de  recursos  humanos  en  los  gobiernos
 locales, Madrid, INAP
@@ -58,8 +72,15 @@ D' AMICO, R. (ed.) (1992). Manuale di Scienza della Amministrazione. Roma. Edizi
 
 DEBBASCH, C. (1981). Ciencia Administrativa. Madrid, INAP
 
+DROR, Y. (1996). La capacidad de gobernar. México, Fondo de Cultura Económica
+
 D’   AMICO,   R.  (2004).  L’  analisi  della  Pubblica  Amministrazione.  Teorie,  concetti  e  metodi,  vol.  I.
 La pubblica Amministrazione e la sua scienza. Milan, Franco Angeli Editore
+
+ECHEBARRÍA,   K.   y   MENDOZA   X.   (2001).   "La   especificidad   de   la  gestión  pública:  el  concepto  de
+“management público", en Banco Interamericano de Desarrollo
+
+GARCÍA PELAYO, M. (1996). Las transformaciones del Estado contemporáneo. Alianza. Madrid
 
 JIMÉNEZ   ASENSIO,   R.   (2017).   Cómo   prevenir  la  corrupción:  integridad  y  transparencia.  Madrid,  La
 Catarata
@@ -72,7 +93,7 @@ KOONTZ-O'DONNELL. (1990). Administración. Mc. Graw Hill
 
 LANGROD, G. (1973). Tratado de Ciencia Administrativa. Madrid, ENAP
 
-LIPPI, A. y MORISI, M. (2008). Gestión y administración pública. Valencia : Tirant lo Blanch
+LIPPI, ANDREA Y MORISI, MASSIMO. Gestión y administración pública. Valencia : Tirant lo Blanch, 2008
 
 LONGO,   F.   (2001).   La   reforma   del   servicio   civil   en   las   democracias   avanzadas:   mérito  con
 flexibilidad, Banco Interamericano de Desarrollo, Washington DC
@@ -88,14 +109,17 @@ estratégico. Buenos Aires, Garnica
 
 MOORE, A. (1998). Gestión estratégica y creación de valor en el sector público. Barcelona, Paidós
 
-MOREY,   A.   (2004).   La   función   pública:   necesidad  de  un  análisis  conceptual  y  de  la  revisión  del
-sistema de libre designación. Madrid, INAP
+MOREY   JUAN,  A.  La  función  pública:  necesidad  de  un  análisis  conceptual  y  de  la  revisión  del  sistema
+de libre designación. Madrid, INAP, 2004
 
 NIETO, A. (1976). La Burocracia. Madrid, Instituto de Estudios Administrativos
 
 NIETO, A. (1996). La “nueva” organización del desgobierno. Barcelona, Ariel
 
 NIGRO-NIGRO, F.A. (1981). Administración Pública Moderna. Madrid, INAP
+
+OLMEDA,   J.   A.,   PARRADO,  S.,  COLINO,  C.  (2012).  Las  administraciones  públicas  en  España.  Valencia.
+Tirant lo Blanch
 
 OLMEDA, J.A. y PARRADO, S. (2000) Ciencia de la Administración, Vol. I. Madrid, UNED
 
@@ -110,6 +134,9 @@ empresarial en el sector público. Barcelona, Paidós
 PARRADO   DÍEZ,   S.   (2002)   Sistemas   Administrativos   en   perspectiva   comparada:   convergencias   y
 divergencias. Madrid, Tecnos-Pompeu Fabra
 
+PRATS   CATALÁ,   J.   (2005).   De  la  burocracia  al  management,  del  management  a  la  gobernanza.  Madrid,
+INAP, 2005
+
 RAMIÓ, C. (1999) Teoría de la Organización y Administración Pública. Madrid, Tecnos
 
 RAMIÓ,   C.   (2012).  La  extraña  pareja:  la  procelosa  relación  entre  políticos  y  funcionarios.  Madrid,
@@ -117,6 +144,9 @@ La Catarata
 
 RAMIÓ,   C.   (2017).   La  Administración  Pública  del  futuro  (horizonte  2050):  Instituciones  políticas,
 mercado y sociedad de la innovación. Madrid, Tecnos
+
+RODRÍGUEZ   FERNÁNDEZ,   A.   (1995).   Los   recursos   humanos  en  las  Administraciones  Públicas.  Madrid,
+Tecnos
 
 ROSE-ACKERMAN, S. (2001). La corrupción y los Gobiernos. Madrid, Siglo XXI
 
@@ -126,6 +156,9 @@ SUBIRATS, J. (1994). Análisis de políticas pública y eficacia de la Administr
 
 VILLORIA   MENDIETA,  M.  (1996).  La  modernización  de  la  Administración  como  instrumento  al  servicio  de
 la democracia. Madrid, BOE-MAP
+
+VILLORIA   MENDIETA,   M.   (2002).   Ética  pública  y  corrupción:  curso  de  ética  administrativa.  Madrid,
+Tecnos
 
 VILLORIA   MENDIETA,   M.   y   DEL  PINO  MATUTE,  E.  (2006).  Manual  de  gestión  de  recursos  humanos  en  las
 Administraciones públicas. Madrid, Tecnos
@@ -137,27 +170,7 @@ WALDO, D. (1984). Estudios de la Administración Pública. Madrid, Aguilar
 
 WEBER, M. (1979). Economía y Sociedad. México, F.C.E
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-BALLART,   X.   y  RAMIÓ,  C.  (2000)  Ciencia  de  la  Administración.  Valencia,  Tirant  lo  Blanch  BAÑÓN  R.  y
-CARRILLO,   E.   (comps.)   (1997)   La   nueva   Administración   Pública.   Madrid,   Alianza  Universidad  →
-BALLART, X. y RAMIÓ, C. (2000) Ciencia de la Administración. Valencia, Tirant lo Blanch
-
-BAENA   DEL   ALCÁZAR,   M.   (2005)   Manual  de  Ciencia  de  la  Administración.  Madrid,  Síntesis  BAENA  DEL
-ALCÁZAR,   M.   (2010)   Manuel   de  Ciencia  de  la  Administración.  Madrid,  Síntesis  →  BAENA  DEL  ALCÁZAR,
-M. (2010) Manuel de Ciencia de la Administración. Madrid, Síntesis
-
-Madrid,   Tecnos,   1995   →   JIMÉNEZ   NIETO,   A.   (1978).  Teoría  General  de  la  Administración.  Madrid,
-Tecnos
-
-Madrid,   Tecnos,   2002   →   JIMÉNEZ   NIETO,   A.   (1978).  Teoría  General  de  la  Administración.  Madrid,
-Tecnos
-
-GARCÍA   SÁNCHEZ,   I.M.,   <<La   nueva   gestión  pública:  evolución  y  tendencias>>,  Presupuesto  y  gasto
-público,   47/2007,  37-64  GUERRERO,  O.  Introducción  a  la  Administración  Pública.  México,  Harper-Row  →
-GUERRERO, O. (1985). Introducción a la Administración Pública. México, Harper-Row
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (16):
 ------------------------------
 ARENILLA,   M.   (2011)   Marco   teórico   actual   de   la   Administración   Pública   en   Arenilla,   M.  La
 Administración Pública entre dos siglos. Madrid, INAP
@@ -166,20 +179,16 @@ ARENILLA, M. (coord.) (2010) La Administración Pública entre dos siglos. Madri
 
 BAENA DEL ALCÁZAR, M. (2005) Manual de Ciencia de la Administración. Madrid, Síntesis
 
+BAENA DEL ALCÁZAR, M. (2010) Manuel de Ciencia de la Administración. Madrid, Síntesis
+
+BALLART, X. y RAMIÓ, C. (2000) Ciencia de la Administración. Valencia, Tirant lo Blanch
+
 BAÑÓN R. y CARRILLO, E. (comps.) (1997) La nueva Administración Pública. Madrid, Alianza Universidad
-
-CANALES   ALIENDE,  J.M.  (1987).  Panorama  actual  de  la  Ciencia  de  la  Administración  en  España.  Madrid,
-INAP
-
-DROR, Y. (1996). La capacidad de gobernar. México, Fondo de Cultura Económica
-
-ECHEBARRÍA,   K.   y   MENDOZA   X.   (2001).   "La   especificidad   de   la  gestión  pública:  el  concepto  de
-“management público", en Banco Interamericano de Desarrollo
-
-GARCÍA PELAYO, M. (1996). Las transformaciones del Estado contemporáneo. Alianza. Madrid
 
 GARCÍA   SÁNCHEZ,   I.M.   (2007).  "La  nueva  gestión  pública:  evolución  y  tendencias",  en  Presupuesto  y
 gasto público, 47, pp. 37-64
+
+GUERRERO, O. (1985). Introducción a la Administración Pública. México, Harper-Row
 
 GÓMEZ   CONDADO,   Mª   T.   (2024).   "El   Estado   ante   los   retos   del  Siglo  XXI:  Las  nuevas  formas  de
 colaboración   con  la  sociedad.  Desafíos  y  problemática"  en  Pajares  Montolío,  E.,  Salvador  Crespo,  M.
@@ -194,9 +203,6 @@ MINTZBERG, H. (1998). La estructuración de las organizaciones. Barcelona. Ariel
 
 MINTZBERG, H. et al., (1998). El proceso estratégico. Madrid, Prentice Hall
 
-OLMEDA,   J.   A.,   PARRADO,  S.,  COLINO,  C.  (2012).  Las  administraciones  públicas  en  España.  Valencia.
-Tirant lo Blanch
-
 PARRADO,   S.,   COLINO,   C.  y  OLMEDA,  J.A.  (2013)  Gobierno  y  Administraciones  Públicas  en  perspectiva
 comparada. Valencia, Tirant lo Blanch
 
@@ -205,17 +211,8 @@ concretada   en  los  principios  de  buen  gobierno  y  el  derecho  a  una  bu
 regulación,   en   Pajares   Montolío,   E.,   Salvador  Crespo,  M.  y  Herrera  Díaz-Aguado,  L.  (coord.)  Una
 nueva Gobernanza para el Siglo XXI. Madrid, CEPC
 
-PRATS   CATALÁ,   J.   (2005).   De  la  burocracia  al  management,  del  management  a  la  gobernanza.  Madrid,
-INAP, 2005
-
 RAMIÓ,   C.   (2024).   "La   nueva   gestión  de  recursos  humanos  resiliente  en  un  entorno  turbulento"  en
 Pajares   Montolío,   E.,   Salvador  Crespo,  M.  y  Herrera  Díaz-Aguado,  L.  (coord.)  Una  nueva  Gobernanza
 para el Siglo XXI. Madrid, CEPC
 
-RODRÍGUEZ   FERNÁNDEZ,   A.   (1995).   Los   recursos   humanos  en  las  Administraciones  Públicas.  Madrid,
-Tecnos
-
-VILLORIA   MENDIETA,   M.   (2002).   Ética  pública  y  corrupción:  curso  de  ética  administrativa.  Madrid,
-Tecnos
-
-📊 Porcentaje estimado de cambio: 49% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]

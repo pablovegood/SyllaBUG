@@ -2,11 +2,26 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Autor:   Dietrich   Marcuse   Editorial:  Academic  Press  Inc.,  1991  HANDBOOK  OF  FIBER  OPTICS.  THEORY  AND
+APPLICATIONS   Autor:   Chai   Yen   Editorial:  Academic  Press,  1990  ENGINEERING  OPTICS  Autor:  K.  Lizuka
+Editorial:   Springer-Verlag,   1986   NONLINEAR   OPTICS.   BASIC  CONCEPTS  Autor:  D.  L.  Mills  Editorial:
+Springer-Verlag,   1991   NONLINEAR  OPTICS  Autor:  Robert  W.  Boyds  Editorial:  Academic  Press  Inc.,  1992
+OPTOELECTRÓNICA   Y   COMUNICACIÓN   ÓPTICA   Autores:   J.   M.  Abella  Martín,  J.  J.  Jiménez  Lidón  y  J.M.
+Martínez   Duart  Editorial:  C.S.I.C.,  1988  NONLINEAR  FIBER  OPTICS  Autor:  Govind  P.  Agrawal  Editorial:
+Academic   Press,  1989  ELECTROOPTICS,  PHENOMENA,  MATERIALS  AND  APPLICATIONS  Autores:  Fernando  Agulló-
+López,   José   Manuel   Cabrera   and   Fernando   Agulló-Rueda   Editorial:   Academic   Press,  1994  FIBRES
+OPTIQUES.   THEORE   ET  APPLICATIONS  Autor:  S.  Ungar  Editorial:  Dunod,  1989  OPTICAL  ELECTRONICS  Autor:
+Amnon Yariv Editorial: Saunders College Publising, 1991 OPTICAL ELECTRONICS IN MODERN COMMUNICATIONS
+Autor:   Amnon   Yariv   Editorial:   Oxford  University  Press,  1997  TODO  SOBRE  LAS  FIBRAS  ÓPTICAS  Autor:
+Juan   Tur   Terrasa   Editorial:   Marcombo,   1989  TELECOMMINICATIONS  OPTIQUES.  INTRODUCTION  A  L'OPTQUE
+INTEGREE   Autor:   J.   J.   Clair   Editorial:   Masson,   1977  OPTICAL  AMPLIFIERS  AND  THEIR  APPLICATIONS
+Editorial:   postconference   Edition,   Technical   Digest   Series,   Vol   18,  1995  PRINCIPLES  OF  OPTICS
+Autores:   Max   Born   and   Emil   Wolf   Editorial:  Pergamon  Press,  1990  FUNDAMENTAL  OF  OPTICS  Autores:
+Francis A. Jenkins and Harvey E. White Editorial: MacGraw Hill, 1981
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (2):
 ------------------------------
 FIBRAS   ÓPTICAS:   ESTUDIO   GEOMÉTICO   Autores:   Francisco   Pérez   Ocón   y   José  Ramón  Jiménez  Cuesta
 Editorial: FPO
@@ -23,31 +38,13 @@ INTRODUCTION   Autores:   J.   Wilson   and  J.  F.  B.  Hawks  Editorial:  Pren
 WAVES   AND   DEVICES  Autores:  Richar  Syms  and  John  Cozens  Editorial:  MacGraw  Hill,  1992  FIBRE  OPTICS.
 THEORY   AND   APPLICATIONS   Autor:   Serge   Ungar   Editorial:   John  Wiley  &  Sons  Inc,  1990  SISTEMAS  DE
 TRANSMISIÓN   CON  TÉCNICAS  ÓPTICAS  MULTIPORTADORAS  Autor:  W.  Warzanskyj  García  Editorial:  Telefónica,
-investigación   y   desarrollo   THEORY   OF   DIELECTRIC   OPTICAL   WAVEGUIDES   Autor:   Dietrich   Marcuse
-Editorial:   Academic   Press  Inc.,  1991  HANDBOOK  OF  FIBER  OPTICS.  THEORY  AND  APPLICATIONS  Autor:  Chai
-Yen   Editorial:  Academic  Press,  1990  ENGINEERING  OPTICS  Autor:  K.  Lizuka  Editorial:  Springer-Verlag,
-1986   NONLINEAR  OPTICS.  BASIC  CONCEPTS  Autor:  D.  L.  Mills  Editorial:  Springer-Verlag,  1991  NONLINEAR
-OPTICS   Autor:   Robert   W.  Boyds  Editorial:  Academic  Press  Inc.,  1992  OPTOELECTRÓNICA  Y  COMUNICACIÓN
-ÓPTICA   Autores:  J.  M.  Abella  Martín,  J.  J.  Jiménez  Lidón  y  J.M.  Martínez  Duart  Editorial:  C.S.I.C.,
-1988   NONLINEAR  FIBER  OPTICS  Autor:  Govind  P.  Agrawal  Editorial:  Academic  Press,  1989  ELECTROOPTICS,
-PHENOMENA,   MATERIALS   AND   APPLICATIONS   Autores:   Fernando   Agulló-López,   José  Manuel  Cabrera  and
-Fernando Agulló-Rueda Editorial: Academic Press, 1994 FIBRES OPTIQUES. THEORE ET APPLICATIONS Autor:
-S.   Ungar   Editorial:  Dunod,  1989  OPTICAL  ELECTRONICS  Autor:  Amnon  Yariv  Editorial:  Saunders  College
-Publising,   1991   OPTICAL   ELECTRONICS  IN  MODERN  COMMUNICATIONS  Autor:  Amnon  Yariv  Editorial:  Oxford
-University   Press,   1997   TODO  SOBRE  LAS  FIBRAS  ÓPTICAS  Autor:  Juan  Tur  Terrasa  Editorial:  Marcombo,
-1989   TELECOMMINICATIONS   OPTIQUES.   INTRODUCTION   A  L'OPTQUE  INTEGREE  Autor:  J.  J.  Clair  Editorial:
-Masson,   1977  OPTICAL  AMPLIFIERS  AND  THEIR  APPLICATIONS  Editorial:  postconference  Edition,  Technical
-Digest Series, Vol 18, 1995 PRINCIPLES OF OPTICS Autores: Max Born and Emil Wolf Editorial: Pergamon
-Press, 1990 FUNDAMENTAL OF OPTICS Autores: Francis A. Jenkins and Harvey E. White Editorial: MacGraw
-Hill, 1981 personal del alumno
+investigación y desarrollo THEORY OF DIELECTRIC OPTICAL WAVEGUIDES
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (78):
 ------------------------------
 Autor: Amnon Yariv
+
+Autor: Chai Yen
 
 Autor: D. L. Mills
 
@@ -89,8 +86,6 @@ Autores: Ivan Andonovic and Deepak Uttamchandani
 
 Autores: J. M. Abella Martín, J. J. Jiménez Lidón y J.M. Martínez Duart
 
-Autores: J. Wilson and J. F. B. Hawks
-
 Autores: Max Born and Emil Wolf
 
 Autores: Richar Syms and John Cozens
@@ -120,6 +115,8 @@ Editorial: C.S.I.C., 1988
 Editorial: Chapman & Hall, 1995
 
 Editorial: Dunod, 1989
+
+Editorial: FPO
 
 Editorial: John Wiley & Sons Inc
 
@@ -156,8 +153,6 @@ Editorial: World Scientific, 1992
 Editorial: postconference Edition, Technical Digest Series, Vol 18, 1995
 
 FIBER OPTICS AND OPTOELECTRONIC
-
-FIBRAS ÓPTICAS: ESTUDIO GEOMÉTICO
 
 FIBRE OPTICS. THEORY AND APPLICATIONS
 
@@ -203,4 +198,4 @@ THEORY OF DIELECTRIC OPTICAL WAVEGUIDES
 
 TODO SOBRE LAS FIBRAS ÓPTICAS
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 98% [█████████░]

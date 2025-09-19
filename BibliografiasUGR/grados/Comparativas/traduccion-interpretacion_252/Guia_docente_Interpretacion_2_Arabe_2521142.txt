@@ -2,33 +2,27 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
-Al-Didawi, M. (2000). Al-tarŷama wa al-tawasul. Casablanca: Al-markaz al-taqafi al-`arabi
-
 Baigorri,   J.   (2000).  La  interpretación  de  conferencias:  el  nacimiento  de  una  profesión.  De  París  a
 Nuremberg. Comares. Granada
+
+Collados Aís, A, Pradas Macías, E. M., Stévaux, E. & García Becerra, O. (eds.) (2007). La evaluación
+de la calidad en interpretación simultánea: parámetros de incidencia. Granada: Editorial Comares
 
 Collados   Aís,   A.  &  Fernández  Sánchez,  Mª.  M.  (coords.)  (2001).  Manual  de  interpretación  bilateral.
 Granada: Comares
 
-´Aŷina, M. (1989). Nadariyat al-tarŷama. Túnez: Institut Bourguiba des Langues Vivantes
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Collados Aís, A, Pradas Macías, E. M., Stévaux, E. & García Becerra, O. (eds.) (2007). La evaluación
-de la calidad en interpretación simultánea: parámetros de incidencia. Granada: Editorial Comares
-
 Collados,   A.,   Fernández   Sánchez,   Mª   M.,   Pradas   Macías,   M.   Sánchez   Adam,   C.   &  Stévaux,  E.
 (eds.)(2003). La evaluación de la calidad en interpretación: docencia y profesión. Granada: Comares
+
+✅ Recursos añadidos (11):
+------------------------------
+Al-Didawi, M. (2000). Al-tarŷama wa al-tawasul. Casablanca: Al-markaz al-taqafi al-`arabi
 
 Gile,   D.   (1995).   Regards   sur   la   recherche   en   interprétation   de   conférence.  Lille  :  Presses
 universitaires de Lille (Presses du Septentrion)
@@ -56,4 +50,6 @@ Publications de la Sorbonne
 Seleskovitch,   D.  (1968).  L´interprète  dans  les  conférences  internationales.  Problèmes  de  langage  et
 de communication. París: Minard
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+´Aŷina, M. (1989). Nadariyat al-tarŷama. Túnez: Institut Bourguiba des Langues Vivantes
+
+📊 Porcentaje estimado de cambio: 73% [███████░░░]

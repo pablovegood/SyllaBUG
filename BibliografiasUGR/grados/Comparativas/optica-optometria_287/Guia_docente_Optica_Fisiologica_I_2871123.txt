@@ -2,11 +2,12 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+SCHWARTZ,   S.H.  “Visual  perception.  A  clinical  orientation”.  Norwalk:  Appleton  &  Lange;  TUNNACLIFFE,
+A.H., "Introduction to Visual Optics", Association of British Dispensing Opticians, 1993
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 ARTIGAS, J.M., CAPILLA, P., FELIPE, A., y PUJOL, J., "Óptica Fisiológica. Psicofísica de la Visión",
 Interamericana McGraw-Hill, 1995
@@ -32,15 +33,11 @@ TUNNACLIFFE,   A.H.,   "Introduction   to   Visual  Optics",  Association  of  B
 VIQUEIRA   PÉREZ,   V.,   MARTÍNEZ  VERDÚ,  F.M.,  de  FEZ  SAIZ,  D.,  “Óptica  Fisiológica:  modelo  paraxial  y
 compensación óptica del ojo”, Publicaciones Univ. de Alicante, 2003
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-AGUILAR,   J.M.,   y   MATEOS,   F.,   "Óptica   Fisiológica",   Tomos  1,  2  y  3,  Universidad  Politécnica  de
-Valencia, 1994
+CINTA   PUELL   MARÍN,   M.,   "Óptica   Fisiológica:   el   sistema  óptico  del  ojo  y  la  visión  binocular",
+Universidad Complutense de Madrid
 
 SCHWARTZ, S.H. “Visual perception. A clinical orientation”. Norwalk: Appleton & Lange; 1994
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

@@ -2,11 +2,12 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Best, R. J. (2007). Marketing Estratégico. Pearson. Madrid Kotler, P. y Keller, K. (2016): Dirección
+de Marketing. 15 Ed. Pearson, Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 Kotler, P. y Armstrong, G. (2017): Fundamentos de Marketing. 13ªEd. Pearson, Madrid
 
@@ -15,14 +16,10 @@ Lambin, J.J. (2003): Marketing estratégico. ESIC. Madrid
 Munuera Alemán, J.L y Rodríguez Escudero, A.I (2007): Estrategias de Marketing. Un enfoque basado en
 la dirección. Esic. Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Best, R. J. (2007). Marketing Estratégico. Pearson. Madrid Kotler, P. y Keller, K. (2016): Dirección
-de   Marketing.   15   Ed.  Pearson,  Madrid  →  Kotler,  P.  y  Keller,  K.  (2016):  Dirección  de  Marketing.  15
-Ed. Pearson, Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Best, R. J. (2007). Marketing Estratégico. Pearson. Madrid
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+Kotler, P. y Keller, K. (2016): Dirección de Marketing. 15 Ed. Pearson, Madrid
+
+📊 Porcentaje estimado de cambio: 60% [██████░░░░]

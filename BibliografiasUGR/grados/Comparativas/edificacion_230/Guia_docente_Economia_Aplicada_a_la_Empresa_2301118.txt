@@ -2,64 +2,32 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-Barrios,   S.,   Moreno,   D.   y   Rosales,   V.   (2021):   Economía   Política.   Cuestiones  para  la  habrán
-proporcionado durante las clases presenciales. cada tema
+(2013):   Economía   Básica.  Deusto,  Barcelona  Stiglitz  J.  (1993):  Economía.  Editorial  Ariel  Stiglitz,
+J.E., Torres, J (2016): Economía para no dejarse engañar por los economistas. Pirámide. Madrid
 
-El   Departamento   de  Economía  Aplicada  y  el  Departamento  de  Organización  de  Empresas,  de  específicas
-de   apoyo  educativo  aprobada  en  Consejo  de  Gobierno  de  la  UGR  el  20  de  septiembre  de  2016,  fomentará
-el   derecho   a   la   educación   en   condiciones  de  igualdad  de  oportunidades  a  los  las  actuaciones  de
-atención   necesarias  para  lograr  su  plena  y  efectiva  inclusión,  garantizando  su  derecho  de  educación
-inclusiva, conforme a los principios de no discriminación, igualdad de oportunidades y accesibilidad
-universal,   para   que   puedan   alcanzar   el   máximo   desarrollo   posible   para  todo  el  estudiantado.
-Asimismo, tal y como establece el artículo 11 de la Normativa de
+Cordón Pozo, Eulogio et al (2021): “Economía de la Empresa. Conceptos básicos”
 
-📚 Recursos sin cambios:
+Schiller   B.   (2008):   Principios   de   Economía.   McGraw-Hill   Sloman,   J.  (1997):  Introducción  a  la
+Macroeconomía. 3ª ed. Prentice Hall
+
+📚 Recursos sin cambios (33):
 ------------------------------
-Krugman,   P.,  Wells,  R.  y  Graddy,  K.  (2015):  Fundamentos  de  Economía,  Editorial  Reverté,  3ª  edición,
-Barcelona
+Berumen,   S.A.(2020).  Lecciones  de  economía,  Esic  editorial.Madrid  Blanco,  J.  M.:  Economía:  Teoría  y
+Práctica, McGraw-Hill, Madrid
 
-Mankiw, N.G. (2017): Principios de Economía. Thompson, Madrid
+Bloque   de   Economía  Aplicada  Barrios,  S.  (2022):  Apuntes  de  Economía  Política,  Ed.  Avican  Bernanke,
+B.S. y Frank, R.H. (2007): Principios de Economía. McGraw-Hill
 
-Mochón, F. (2009): Economía, Teoría y Política, 6ª ed., McGraw-Hill, Madrid
+Bloque   de  Economía  Aplicada  Teoría:  Mochón,  F.  (2009):  Economía,  Teoría  y  Política,  6ª  ed.,  McGraw-
+Hill, Madrid
 
-Samuelson, P. y Nordhaus, W. (2010): Economía. McGraw-Hill, Madrid
+Bloque   de   Empresa   Bueno   Campos,   E.   y   otros   (2002):   Economía   de  la  Empresa.  Análisis  de  las
+decisiones empresariales. Ed. Pirámide, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Agote   Martin,   A.L.   y   Ferrón   Vilchez,   V.   (coordinadores)   (2020):“Fundamentos   de   Economía   y
-Administración de Empresas”.Editorial Técnica Avicam. Granada
-
-Agote Martín, A.L.; Cordón Pozo, E.; Gómez Jiménez, E. (1996): Ejercicios de Economía de la Empresa,
-Ed. Universidad de Granada, Granada
-
-Barrios, S. (2022): Apuntes de Economía Política, Ed. Avican
-
-Barrios, S. (2024). Economía. Nociones básicas. Editorial Técnica Avicam
-
-Barrios,   S.,  Moreno,  D.  y  Rosales,  V.  (2021):  Economía  Política.  Cuestiones  para  la  Autoevaluación.
-Ed.Técnica Avicam, Granada
-
-Bernanke, B.S. y Frank, R.H. (2007): Principios de Economía. McGraw-Hill
-
-Berumen, S.A.(2020). Lecciones de economía, Esic editorial.Madrid
-
-Blanco, J. M.: Economía: Teoría y Práctica, McGraw-Hill, Madrid
-
-Bloque de Economía Aplicada
-
-Bloque de Empresa
-
-Bueno   Campos,   E.  y  otros  (2002):  Economía  de  la  Empresa.  Análisis  de  las  decisiones  empresariales.
-Ed. Pirámide, Madrid
-
-Cordón   Pozo,   Eulogio   et   al  (2021):  “Economía  de  la  Empresa.  Conceptos  básicos”.  Segunda  edición,
-revisada y ampliada. Editorial Técnica Avicam. Granada
+Bloque    de    Empresa    Teoría:    Agote    Martin,    A.L.    y    Ferrón   Vilchez,   V.   (coordinadores)
+(2020):“Fundamentos de Economía y Administración de Empresas”.Editorial Técnica Avicam. Granada
 
 Domínguez   Machuca   J.A.et   al.   (1987):El   Subsistema  de  inversión  y  financiación  en  la  empresa.Ed.
 Pirámide, Madrid
@@ -83,7 +51,12 @@ Barcelona
 
 Krugman, P. y Wells, R.: Fundamentos de Economía, Editorial Reverté, Barcelona
 
+Krugman,   P.,  Wells,  R.  y  Graddy,  K.  (2015):  Fundamentos  de  Economía,  Editorial  Reverté,  3ª  edición,
+Barcelona
+
 Lipsey, R.G., y Harbury, C.: Principios de Economía. Vicens- vives, Barcelona
+
+Mankiw, N.G. (2017): Principios de Economía. Thompson, Madrid
 
 Martín-Cobos, y Salas, M. (2008): Prácticas de Economía Positiva. Editorial Comares, Granada
 
@@ -107,19 +80,13 @@ la   Empresa,  Ed.  Universidad  de  Granada,  Granada.  Cordón  Pozo,  Eulogio
 Empresa. Conceptos básicos”. Segunda edición, revisada y ampliada. Editorial Técnica Avicam. Granada
 
 Práctica:   Barrios,   S.,   Moreno,   D.   y   Rosales,   V.  (2021):  Economía  Política.  Cuestiones  para  la
-Autoevaluación.   Ed.Técnica   Avicam,  Granada.  Gimeno,  J.A.  y  Guirola,  J.M.  (2002):  Introducción  a  la
-economía.   Libro   de   prácticas.   Microeconomía   (2ª   edición).  McGraw-Hill,  Madrid.  Martín-Cobos,  y
-Salas,   M.  (2008):  Prácticas  de  Economía  Positiva.  Editorial  Comares,  Granada.  Mochón,  A.  y  De  Juan,
-R. (2006): Principios de Economía. Libro de problemas, McGraw-Hill, Madrid
+Autoevaluación. Ed.Técnica Avicam, Granada
 
 Pérez Gorostegui, E. (1991):Economía de la Empresa Aplicada. Pirámide. Madrid
 
-Schiller B. (2008): Principios de Economía. McGraw-Hill
+Samuelson, P. y Nordhaus, W. (2010): Economía. McGraw-Hill, Madrid
 
-Sloman, J. (1997): Introducción a la Macroeconomía. 3ª ed. Prentice Hall
-
-Sloman,   J.   (1997):   Introducción   a   la   Microeconomía.   3ª   ed.  Prentice  Hall.  Sowell,  T.  (2013):
-Economía Básica. Deusto, Barcelona Stiglitz J. (1993): Economía. Editorial Ariel Stiglitz, J.E
+Sloman, J. (1997): Introducción a la Microeconomía. 3ª ed. Prentice Hall. Sowell, T
 
 Suárez Suárez, A. S. (2007): “Curso de Economía de la Empresa”. Ed. Pirámide. Madrid
 
@@ -127,6 +94,50 @@ Suárez Suárez, A.S. (1990): “Economía Financiera de la Empresa”. Ed. Pir�
 
 Suárez   Suárez,   A.S.   (1991):Decisiones   optimas   de   inversión   y   financiación   en  la  empresa.Ed.
 Pirámide, Madrid
+
+Teoría:   Agote   Martin,   A.L.  y  Ferrón  Vilchez,  V.  (coordinadores)  (2020):“Fundamentos  de  Economía  y
+Administración   de   Empresas”.Editorial   Técnica  Avicam.  Granada.  Cordón  Pozo,  Eulogio  et  al  (2021):
+“Economía de la Empresa. Conceptos básicos”. Segunda edición, revisada y ampliada. Editorial Técnica
+Avicam. Granada. Fuentes Fuentes, M. M. et al. (2015): “Fundamentos de dirección y administración de
+empresas”.   Pirámide,  Madrid.  Pérez  Gorostegui,  E.  (1991):Economía  de  la  Empresa  Aplicada.  Pirámide.
+Madrid.   Suárez   Suárez,   A.S.   (1990):   “Economía   Financiera  de  la  Empresa”.  Ed.  Pirámide.  Madrid.
+Suárez Suárez, A. S. (2007): “Curso de Economía de la Empresa”. Ed. Pirámide. Madrid
+
+“Plan   General   de  Contabilidad”.  Real  Decreto  1514/2007,  y  su  adaptación  a  Pymes  en  el  Real  Decreto
+1515/2007, de 16 de noviembre
+
+✅ Recursos añadidos (15):
+------------------------------
+Agote Martín, A.L.; Cordón Pozo, E.; Gómez Jiménez, E. (1996): Ejercicios de Economía de la Empresa,
+Ed. Universidad de Granada, Granada
+
+Barrios, S. (2022): Apuntes de Economía Política, Ed. Avican
+
+Barrios, S. (2024). Economía. Nociones básicas. Editorial Técnica Avicam
+
+Bernanke, B.S. y Frank, R.H. (2007): Principios de Economía. McGraw-Hill
+
+Blanco, J. M.: Economía: Teoría y Práctica, McGraw-Hill, Madrid
+
+Bloque de Empresa
+
+Cordón   Pozo,   Eulogio   et   al  (2021):  “Economía  de  la  Empresa.  Conceptos  básicos”.  Segunda  edición,
+revisada y ampliada. Editorial Técnica Avicam. Granada
+
+Mochón, F. (2009): Economía, Teoría y Política, 6ª ed., McGraw-Hill, Madrid
+
+Práctica:   Barrios,   S.,   Moreno,   D.   y   Rosales,   V.  (2021):  Economía  Política.  Cuestiones  para  la
+Autoevaluación.   Ed.Técnica   Avicam,  Granada.  Gimeno,  J.A.  y  Guirola,  J.M.  (2002):  Introducción  a  la
+economía.   Libro   de   prácticas.   Microeconomía   (2ª   edición).  McGraw-Hill,  Madrid.  Martín-Cobos,  y
+Salas,   M.  (2008):  Prácticas  de  Economía  Positiva.  Editorial  Comares,  Granada.  Mochón,  A.  y  De  Juan,
+R. (2006): Principios de Economía. Libro de problemas, McGraw-Hill, Madrid
+
+Schiller B. (2008): Principios de Economía. McGraw-Hill
+
+Sloman, J. (1997): Introducción a la Macroeconomía. 3ª ed. Prentice Hall
+
+Sloman,   J.   (1997):   Introducción   a   la   Microeconomía.   3ª   ed.  Prentice  Hall.  Sowell,  T.  (2013):
+Economía Básica. Deusto, Barcelona Stiglitz J. (1993): Economía. Editorial Ariel Stiglitz, J.E
 
 Teoría:   Agote   Martin,   A.L.  y  Ferrón  Vilchez,  V.  (coordinadores)  (2020):“Fundamentos  de  Economía  y
 Administración   de   Empresas”.Editorial   Técnica  Avicam.  Granada.  Cordón  Pozo,  Eulogio  et  al  (2021):
@@ -144,7 +155,4 @@ Madrid
 
 Torres, J (2016): Economía para no dejarse engañar por los economistas. Pirámide. Madrid
 
-“Plan   General   de  Contabilidad”.  Real  Decreto  1514/2007,  y  su  adaptación  a  Pymes  en  el  Real  Decreto
-1515/2007, de 16 de noviembre
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

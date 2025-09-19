@@ -2,14 +2,17 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Panamericana,   2015   Nelson   DL   and   Cox   MM:   Lehninger.Pricipios   de   Bioquímica.   7ª  Ed.,  Omega,
+Barcelona, 2018
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
-Breg J.M., Tymoczko J.L. y Stryer L. Bioquímicacon aplicaciones clínicas. 7ª Ed. Reverte, Barcelona,
-2013
+Complementaria:   Breg   J.M.,   Tymoczko   J.L.  y  Stryer  L.  Bioquímicacon  aplicaciones  clínicas.  7ª  Ed.
+Reverte, Barcelona, 2013
+
+Feduchi E, Blasco I, Romero C y Yáñez E. Bioquímica. Conceptos esenciales. Ed. Panamericana, 2015
 
 Mathews CK and van Holde KE: Bioquímica. 4ª Ed., McGraw-Hill/Interamericana, 2013
 
@@ -24,16 +27,10 @@ Aires: Médica-Panamericana, Madrid, 2016
 Wener   Müller-Esterl   W.   Bioquímica.Fundamentos   para   Medicina  y  Ciencias  de  la  vida.  Ed.  Reverté,
 Barcelona, 2008
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Panamericana,   2015   Nelson   DL   and   Cox   MM:   Lehninger.Pricipios   de   Bioquímica.   7ª  Ed.,  Omega,
-Barcelona,   2018   →   Nelson   DL   and   Cox   MM:   Lehninger.Pricipios   de   Bioquímica.   7ª  Ed.,  Omega,
-Barcelona, 2018
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Complementaria
 
-Feduchi E, Blasco I, Romero C y Yáñez E. Bioquímica. Conceptos esenciales. Ed. Panamericana, 2015
+Nelson DL and Cox MM: Lehninger.Pricipios de Bioquímica. 7ª Ed., Omega, Barcelona, 2018
 
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

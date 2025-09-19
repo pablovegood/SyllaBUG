@@ -2,11 +2,13 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+ESPUGA BELLAFONT, J. et al. "Revoques y estucados". Ed. UPC. Barcelona,1999
 
-📚 Recursos sin cambios:
+FERNÁNDEZ MUÑOZ, A.L. "El arte de la albañilería. Juan de Villanueva". 1984
+
+📚 Recursos sin cambios (20):
 ------------------------------
 AAVV..   "Revoques   y  estucados.  Teoría  y  práctica".  Aula  de  Arquitectura.  Universidad  Politécnica  de
 Cataluña, 1999
@@ -60,31 +62,27 @@ MOPU.   "Pliego   de   Prescripciones   Técnicas   Generales   para   obras   d
 Dirección   General  de  Carreteras  y  Caminos  Vecinales".  (PG-4).  Ed.  MOPU.  Madrid,  O.M.  de  21  de  Enero
 de 1988
 
-ONTIVEROS   ORTEGA,   E.   "Estudio   de   los  materiales  empleados  en  la  construcción  de  las  Murallas  de
-Granada". Tesis Doctoral. Universidad de Granada, 1995
-
-ONTIVEROS   ORTEGA,   E.  VALVERDE  ESPINOSA,  I.  y  SEBASTIÁN  PARDO  E.  'Técnicas  de  análisis  aplicadas  al
-estudio   de   los   tapiales   en   las   murallas   de  Granada".  Libro  de  comunicaciones  del  III  Congreso
-Internacional   de   Rehabilitación   del   Patrimonio   Arquitectónico   y  Edificación.  Granada,1996.  pp.
-270-273
+ONTIVEROS   ORTEGA,   E.   "Estudio   de   los   materiales   empleados  en  la  construcción  de  las  ONTIVEROS
+ORTEGA,   E.  VALVERDE  ESPINOSA,  I.  y  SEBASTIÁN  PARDO  E.  'Técnicas  de  análisis  aplicadas  al  estudio  de
+los   tapiales  en  las  murallas  de  Granada".  Libro  de  comunicaciones  del  III  Congreso  Internacional  de
+Rehabilitación del Patrimonio Arquitectónico y Edificación. Granada,1996. pp. 270-273
 
 RODRÍGUEZ ORTIZ, J.M. et al. "Curso aplicado de Cimentaciones". 7° Edición. Madrid, 1980
 
 VITRUVIO   POLIÓN,   M.  "Los  X  libros  de  arquitectura".  Traducción  castellana  de  Lázaro  Velasco.  Cicón
 Ediciones. Cáceres, 1999
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-ESPUGA   BELLAFONT,   J.  et  al.  "Revoques  y  estucados".  Ed.  UPC.  Barcelona,1999  →  ESPUGA  BELLAFONT,  J.
-et   al.   "Revoques   y   estucados".   Ed.   UPC.   Barcelona,1999.   FERNÁNDEZ  MUÑOZ,  A.L.  "El  arte  de  la
-albañilería. Juan de Villanueva". 1984
+ESPUGA   BELLAFONT,   J.  et  al.  "Revoques  y  estucados".  Ed.  UPC.  Barcelona,1999.  FERNÁNDEZ  MUÑOZ,  A.L.
+"El arte de la albañilería. Juan de Villanueva". 1984
 
-FERNÁNDEZ   MUÑOZ,   A.L.  "El  arte  de  la  albañilería.  Juan  de  Villanueva".  1984  →  ESPUGA  BELLAFONT,  J.
-et   al.   "Revoques   y   estucados".   Ed.   UPC.   Barcelona,1999.   FERNÁNDEZ  MUÑOZ,  A.L.  "El  arte  de  la
-albañilería. Juan de Villanueva". 1984
+ESPUGA   BELLAFONT,   J.  et  al.  "Revoques  y  estucados".  Ed.  UPC.  Barcelona,1999.  FERNÁNDEZ  MUÑOZ,  A.L.
+"El arte de la albañilería. Juan de Villanueva". 1984
 
-✅ Recursos añadidos:
-------------------------------
-Archivos. I.C.R.B.C. 1° Edición. Madrid, 1993
+GÁRATE ROJAS, I. "Artes de la cal". Ed. Ministerio de Cultura. Dirección General de Bellas Artes y
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+ONTIVEROS   ORTEGA,   E.   "Estudio   de   los  materiales  empleados  en  la  construcción  de  las  Murallas  de
+Granada". Tesis Doctoral. Universidad de Granada, 1995
+
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

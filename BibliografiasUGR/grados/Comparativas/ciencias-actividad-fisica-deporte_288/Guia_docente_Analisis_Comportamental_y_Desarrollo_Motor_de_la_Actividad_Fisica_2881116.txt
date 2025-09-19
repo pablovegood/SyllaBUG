@@ -2,11 +2,11 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (41):
 ------------------------------
 Adolph,   K.  E.,  y  Franchak,  J.  M.  (2017).  The  development  of  motor  behavior.  Wiley  Interdisciplinary
 Reviews: Cognitive Science, 8(1-2), e1430
@@ -23,6 +23,9 @@ Routledge: Londres
 Carron,   A.  V.,  Widmeyer,  W.  N.,  y  Brawley,  L.  R.  (1985).  The  development  of  an  instrument  to  assess
 cohesion   in   sport   teams:   The   Group   Environment   Questionnaire.   Journal   of  Sport  and  Exercise
 psychology, 7(3), 244-266
+
+Chelladurai,   P.   (1990).  Leadership  in  sports:  a  review.  International  Journal  of  Sport  Psychology,
+21(4), 328-354
 
 Díez, Á., y Márquez, S. (2005). Utilización de sociogramas para la valoración de la cohesión interna
 de los jugadores de un club de fútbol. European Journal of Human Movement, (14), 37-52
@@ -137,19 +140,12 @@ Perception, 35(3), 317-332
 Williams,   A.,  y  Jackson,  R.  (2019).  Anticipation  in  sport:  Fifty  years  on,  what  have  we  learned  and
 what research still needs to be undertaken?. Psychology of Sport and Exercise, 42, 16-24
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Chelladurai,   P.   (1990).  Leadership  in  sports:  a  review.  International  Journal  of  Sport  Psychology,
-21(4),   328-354.  de  Morree,  H.  M.,  y  Marcora,  S.  M.  (2015).  Psychobiology  of  perceived  effort  during
-physical   tasks.   En   Gendolla,   G.   H.,   Tops,  M.,  y  Koole,  S.  L.  (Eds.).  Handbook  of  biobehavioral
-approaches   to   self-regulation   (pp.   255-270).  Springer  New  York  →  de  Morree,  H.  M.,  y  Marcora,  S.
-M.   (2015).  Psychobiology  of  perceived  effort  during  physical  tasks.  En  Gendolla,  G.  H.,  Tops,  M.,  y
-Koole, S. L. (Eds.). Handbook of biobehavioral approaches to self-regulation (pp. 255-270). Springer
-New York
+de   Morree,  H.  M.,  y  Marcora,  S.  M.  (2015).  Psychobiology  of  perceived  effort  during  physical  tasks.
+En   Gendolla,   G.  H.,  Tops,  M.,  y  Koole,  S.  L.  (Eds.).  Handbook  of  biobehavioral  approaches  to  self-
+regulation (pp. 255-270). Springer New York
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
-Chelladurai,   P.   (1990).  Leadership  in  sports:  a  review.  International  Journal  of  Sport  Psychology,
-21(4), 328-354
+No hay elementos.
 
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

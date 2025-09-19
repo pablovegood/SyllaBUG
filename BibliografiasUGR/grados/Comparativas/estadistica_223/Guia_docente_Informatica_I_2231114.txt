@@ -2,31 +2,23 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Edición. Franklin, Beedle & Associates. 1999
+No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Garcia   Molina,   J.,   Montoya   Dato,   F.,   et   al.,   Una   introducción  a  la  Programación.  Un  enfoque
-algorítmico, Thompson, 2005
-
-Garrido,   A.,   Martínez-Baena,   J.,   Introducción   a   la  programación  con  C++:  ejercicios.  Editorial
-Universidad de Granada, 2016
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (11):
 ------------------------------
 Deitel, H. M., Deitel, P. J., C++ Cómo Programar. 6a Edición. Prentice Hall. 2008
 
 Eckel, B., Thinking in C++. 2a Edición. Prentice-Hall. 2000
 
+Garcia   Molina,   J.,   Montoya   Dato,   F.,   et   al.,   Una   introducción  a  la  Programación.  Un  enfoque
+algorítmico, Thompson, 2005
+
 Garrido, A., Fundamentos de Programación en C++. Delta Publicaciones, 2005
 
-Garrido, A., Fundamentos de programación con la STL. Editorial Universidad de Granada, 2016
+Garrido,   A.,   Martínez-Baena,   J.,   Introducción   a   la  programación  con  C++:  ejercicios.  Editorial
+Universidad de Granada, 2016
 
 Garrido,   A.,   Prácticas   con  C++:  metodología  de  la  programación.  Editorial  Universidad  de  Granada,
 2017
@@ -42,4 +34,8 @@ Sedgewick. R., Algorithms in C++. Addison-Wesley, 2002
 
 Stroustrup, B. “The C++ Programming Language, 4th Edition”. Addison Wesley Professional, 2013
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+Garrido, A., Fundamentos de programación con la STL. Editorial Universidad de Granada, 2016
+
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

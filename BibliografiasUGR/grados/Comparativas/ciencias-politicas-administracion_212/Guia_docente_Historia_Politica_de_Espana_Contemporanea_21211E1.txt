@@ -2,11 +2,11 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (79):
 ------------------------------
 ANGOUSTURES, Aline, Historia de España en el siglo XX, Barcelona, Ariel, 1995
 
@@ -38,10 +38,8 @@ CASALS, Xavier, La Transición española. El voto ignorado de las armas, Barcelo
 
 CASANOVA, España partida en dos, Barcelona, Crítica, 2013
 
-COBO,   Francisco,   ¿Fascismo   o   democracia?   Campesinado   y   política   en  la  crisis  del  liberalismo
-europeo, 1870-1939, Granada, Universidad de Granada, 2012
-
-CRUZ, Rafael, Una revolución elegante. España, 1931, Madrid, Alianza, 2014
+COBO,   Francisco,   ¿Fascismo  o  democracia?  Campesinado  y  política  en  la  crisis  del  CRUZ,  Rafael,  Una
+revolución elegante. España, 1931, Madrid, Alianza, 2014
 
 EALHAM,   Chris   y   RICHARDS,  Michael,  España  fragmentada.  Historia  cultural  y  Guerra  Civil  española,
 Granada, Comares, 2010
@@ -87,14 +85,11 @@ europeo, Barcelona, Crítica, 2013
 GRIMALDOS,   Alfredo:   Las   claves   de  la  Transición,  1973-1986  (para  adultos),  Barcelona,  Península,
 2013
 
-HERNÁNDEZ,   Claudio,  Franquismo  a  ras  de  suelo.  Zonas  grises,  apoyos  sociales  y  actitudes  durante  la
-dictadura (1936-1976), Granada, Universidad de Granada, 2013
+HERNÁNDEZ,   Claudio,  Franquismo  a  ras  de  suelo.  Zonas  grises,  apoyos  sociales  y  HERNÁNDEZ,  Fernando,
+Guerra o revolución. El Partido Comunista de España en la Guerra Civil, Barcelona, Crítica, 2011
 
 HERNÁNDEZ,   Claudio,   Granada   azul.   La   construcción   de   la  "Cultura  de  la  Victoria"  en  el  primer
 franquismo, Granada, Comares, 2011
-
-HERNÁNDEZ,   Fernando,   Guerra   o   revolución.   El   Partido   Comunista   de  España  en  la  Guerra  Civil,
-Barcelona, Crítica, 2011
 
 HERR, Ricard, España contemporánea, Madrid, Marcial Pons, 2004
 
@@ -111,6 +106,9 @@ JULIÁ, Santos, Vida y tiempo de Manuel Azaña, Madrid, Punto de lectura, 2015
 
 LEMUS,   Encarnación,   Estados  Unidos  y  la  Transición  española.  Entre  la  Revolución  de  los  Claveles  y
 la Marcha Verde, Cádiz, Sílex; Servicio de Publicaciones de la Universidad de Cádiz, 2011
+
+MARTIN,   José   Luis;   MARTINEZ   SHAW,  Carlos  y  TUSELL,  Javier,  Historia  de  España.  Vol.  2.  La  España
+Contemporánea. Madrid, Taurus. 2001
 
 MARTINEZ   CUADRADO,   Miguel,   La   Burguesía  Conservadora  (1874-1931).  (Historia  de  España  Alfaguara,
 vol. VI). Madrid, Alianza Editorial, 1975
@@ -198,7 +196,7 @@ THOMÀS,   Joan  Maria,  Franquistas  contra  franquistas.  Luchas  por  el  pod
 Franco, Barcelona, Debate, 2016
 
 TUÑON   DE   LARA,   M.   (Dir.),   Historia   de   España.   Vol.   VIII.   Revolución  burguesa,  oligarquía  y
-constitucionalismo   (1834-1923),  Barcelona,  Labor.  (1983),  Vol.  IX.  La  crisis  del  Estado,  Dictadura,
+constitucionalismo (1834-1923), Barcelona, Labor. (1983), Vol. IX. La crisis del Estado , Dictadura,
 República y Guerra (1923-1939). Barcelona, Labor (1983), Vol. X. España bajo la dictadura franquista
 (1939-1975). Barcelona, Labor, 1983
 
@@ -219,13 +217,12 @@ VV.   AA.,   No   sólo   miedo.   Actitudes   políticas   y   opinión   popul
 YSÀS,   Pere,   Disidencia   y   subversión.   La   lucha   del   régimen   franquista   por  su  supervivencia,
 1960-1975, Barcelona, Crítica, 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+COBO,   Francisco,   ¿Fascismo   o   democracia?   Campesinado   y   política   en  la  crisis  del  liberalismo
+europeo, 1870-1939, Granada, Universidad de Granada, 2012
 
-✅ Recursos añadidos:
-------------------------------
-MARTIN,   José   Luis;   MARTINEZ   SHAW,  Carlos  y  TUSELL,  Javier,  Historia  de  España.  Vol.  2.  La  España
-Contemporánea. Madrid, Taurus. 2001
+HERNÁNDEZ,   Claudio,  Franquismo  a  ras  de  suelo.  Zonas  grises,  apoyos  sociales  y  actitudes  durante  la
+dictadura (1936-1976), Granada, Universidad de Granada, 2013
 
-📊 Porcentaje estimado de cambio: 1% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]

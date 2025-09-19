@@ -2,11 +2,18 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-McGraw-Hill, Madrid
+DOMÍNGUEZ, DURBÁN, MARTÍN (1987): El Subsistema de Inversión y Financiación en la Empresa. Pirámide,
+Madrid   DURBÁN   OLIVA,   S.   (1993):   Introducción   a  las  Finanzas  Empresariales.  Publicaciones  de  la
+Universidad   de  Sevilla,  Sevilla  DURBÁN  OLIVA,  S.  (1983):  La  Empresa  ante  el  Riesgo.  Ibérico  Europea
+de Ediciones, Madrid
 
-📚 Recursos sin cambios:
+KEOWN,   P.   Y  SCOTT,  M.  (1999):  Introducción  a  las  Finanzas.  La  Práctica  y  la  Lógica  de  la  Dirección
+Financiera.   Prentice-Hall.   2ª   edición   MASCAREÑAS,   J.   (ed.)   (2010):   Finanzas  para  Directivos.
+Pearson, Madrid
+
+📚 Recursos sin cambios (10):
 ------------------------------
 BERK, J.; DEMARZO, P.; HARDFORD; J. (2010): Fundamentos de Finanzas Corporativas. Pearson, Madrid
 
@@ -32,25 +39,18 @@ Pirámide, Madrid
 VARIOS   AUTORES   (2009):   Gestión   del   Circulante.  Bases  Conceptuales  y  Aplicaciones  Prácticas.  Ed.
 Profit, Barcelona
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-KEOWN,   P.   Y  SCOTT,  M.  (1999):  Introducción  a  las  Finanzas.  La  Práctica  y  la  Lógica  de  la  Dirección
-Financiera.   Prentice-Hall.   2ª   edición   MASCAREÑAS,   J.   (ed.)   (2010):   Finanzas  para  Directivos.
-Pearson,   Madrid   →   KEOWN,   P.   Y   SCOTT,   M.  (1999):  Introducción  a  las  Finanzas.  La  Práctica  y  la
-Lógica de la Dirección Financiera. Prentice-Hall. 2ª edición
-
-DOMÍNGUEZ, DURBÁN, MARTÍN (1987): El Subsistema de Inversión y Financiación en la Empresa. Pirámide,
-Madrid   DURBÁN   OLIVA,   S.   (1993):   Introducción   a  las  Finanzas  Empresariales.  Publicaciones  de  la
-Universidad   de  Sevilla,  Sevilla  DURBÁN  OLIVA,  S.  (1983):  La  Empresa  ante  el  Riesgo.  Ibérico  Europea
-de   Ediciones,   Madrid   →   DURBÁN   OLIVA,   S.   (1993):   Introducción   a   las  Finanzas  Empresariales.
-Publicaciones   de   la   Universidad   de   Sevilla,  Sevilla  DURBÁN  OLIVA,  S.  (1983):  La  Empresa  ante  el
-Riesgo. Ibérico Europea de Ediciones, Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 DOMÍNGUEZ, DURBÁN, MARTÍN (1987): El Subsistema de Inversión y Financiación en la Empresa. Pirámide,
 Madrid
 
+DURBÁN   OLIVA,  S.  (1993):  Introducción  a  las  Finanzas  Empresariales.  Publicaciones  de  la  Universidad
+de   Sevilla,   Sevilla   DURBÁN   OLIVA,   S.   (1983):   La   Empresa   ante   el  Riesgo.  Ibérico  Europea  de
+Ediciones, Madrid
+
+KEOWN,   P.   Y  SCOTT,  M.  (1999):  Introducción  a  las  Finanzas.  La  Práctica  y  la  Lógica  de  la  Dirección
+Financiera. Prentice-Hall. 2ª edición
+
 MASCAREÑAS, J. (ed.) (2010): Finanzas para Directivos. Pearson, Madrid
 
-📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

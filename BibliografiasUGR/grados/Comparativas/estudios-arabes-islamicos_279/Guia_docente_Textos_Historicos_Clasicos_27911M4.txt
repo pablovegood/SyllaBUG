@@ -2,18 +2,25 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+GARCÍA   SANJUAN,   Alejandro.   “La   traducción   de  fuentes  árabes  andalusíes  al  castellano:  balance  y
+valoración”,       Medievalismo,       11       (2001),       pp.       107-122.       Texto      completo:
+http://revistas.um.es/medievalismo/article/view/51501/49641   MANZANO   MORENO,   Eduardo.  “Las  fuentes
+árabes   sobre   la  conquista  de  al-Andalus:  una  nueva  interpretación”.  Hispania,  59/2,  nº  202  (1999),
+pp.   389-432.   Texto   completo:   https://digital.csic.es/handle/10261/14014   MARTOS   QUESADA,   Juan.
+Historiografía   andalusí.   Manual   de   fuentes  árabes  para  la  historia  de  al-Andalus.  Cáceres:  SEEM-
+Universidad de Extremadura-CSIC, 2022, 2 vols
 
-📚 Recursos sin cambios:
+MOLINA, Luis. “Los Ajbar maymu‘a y la historiografía árabe sobre el período omeya en alAndalus”. Al-
+Qantara,   10,   2   (1989),   pp.   513-542.   Texto  completo:  http://digital.csic.es/handle/10261/14072ç
+SHATZMILLER, Maya. L’Historiographie mérinide. Ibn Khaldūn et ses contemporains. Leiden: Brill, 1982
+
+📚 Recursos sin cambios (27):
 ------------------------------
 BENABOUD,   M’hammad.   “L'historiographie   d'Al-Andalus  durant  la  période  des  Etats-Taifas”,  Revue  de
 l'Occident    musulman    et    de    la    Méditerranée,    40    (1985),   pp.   123-141.   Texto   completo:
 http://www.persee.fr/web/revues/home/prescript/article/remmm_0035-1474_1985_num_40_1_2098
-
-BOLOIX GALLARDO, Bárbara. “Ibn al-Jaṭīb, historiador de los Nazaríes”, en Celia del Moral y Fernando
-Velázquez Basanta (eds.), Ibn al-Jaṭīb y su tiempo. Granada: EUG, 2012, pp. 17-41
 
 CARMONA   GONZÁLEZ,   Alfonso.   “La   estructura   del  título  en  los  libros  árabes  medievales”,  Estudios
 Románicos, 4 (1987-88-89), pp. 181-187
@@ -40,10 +47,6 @@ DOZY, Reinhart. Supplément aux dictionaires árabes. Leiden-París: Brill-Maiso
 GARCÍA   SANJUAN,   Alejandro.   La   conquista  islámica  de  la  Península  Ibérica  y  la  tergiversación  del
 pasado: del catastrofismo al negacionismo. Barcelona: Marcial Pons Historia, 2013
 
-GARCÍA   SANJUAN,   Alejandro.   “La   traducción   de  fuentes  árabes  andalusíes  al  castellano:  balance  y
-valoración”,       Medievalismo,       11       (2001),       pp.       107-122.       Texto      completo:
-http://revistas.um.es/medievalismo/article/view/51501/49641
-
 Historia de España Menéndez Pidal. Volúmenes IV a VIII-4. J. Mª Jover Zamora (dir.). Madrid: Espasa-
 Calpe, 1982-2000
 
@@ -53,22 +56,17 @@ lengua árabe. París: Maisonneuve, 1960
 LIROLA   DELGADO,  Jorge  y  PUERTA  VÍLCHEZ,  José  Miguel  (dirs.).  Biblioteca  de  al-Andalus.  Enciclopedia
 de la cultura andalusí. Almería: Fundación Ibn Tufayl, 2004-2016, 7 vols. + Apéndice
 
-MANZANO   MORENO,   Eduardo.   “Las   fuentes   árabes   sobre   la   conquista   de   al-Andalus:   una   nueva
-interpretación”.     Hispania,     59/2,     nº     202     (1999),     pp.    389-432.    Texto    completo:
-https://digital.csic.es/handle/10261/14014
-
-MARTOS   QUESADA,   Juan.   Historiografía   andalusí.   Manual  de  fuentes  árabes  para  la  historia  de  al-
-Andalus. Cáceres: SEEM-Universidad de Extremadura-CSIC, 2022, 2 vols
-
 MAÍLLO SALGADO, Felipe. Vocabulario básico de Historia del Islam. Madrid: Akal, 1987
-
-MOLINA,   Luis.   “Los   Ajbar  maymu‘a  y  la  historiografía  árabe  sobre  el  período  omeya  en  al-Andalus”.
-Al-Qantara, 10, 2 (1989), pp. 513-542. Texto completo: http://digital.csic.es/handle/10261/14072ç
 
 PONS BOIGUES, Francisco. Ensayo bio-bibliográfico sobre historiadores y geógrafos arábigo-españoles.
 Madrid: Biblioteca Nacional, 1993 (facsímil de Madrid: 1898)
 
-SHATZMILLER, Maya. L’Historiographie mérinide. Ibn Khaldūn et ses contemporains. Leiden: Brill, 1982
+Texto            completo:            http://www.persee.fr/web/revues/home/prescript/article/remmm_003
+5-1474_1985_num_40_1_2098   BOLOIX  GALLARDO,  Bárbara.  “Ibn  al-Jaṭīb,  historiador  de  los  Nazaríes”,  en
+Celia   del   Moral  y  Fernando  Velázquez  Basanta  (eds.),  Ibn  al-Jaṭīb  y  su  tiempo.  Granada:  EUG,  2012,
+pp. 17-41
+
+The Encyclopaedia of Islam. 2ª y 3ª ed. Leiden: E.J. Brill
 
 UBIETO ARTETA, Agustín. Cómo se comenta un texto histórico. Valencia: Anúbar, 1978
 
@@ -102,12 +100,22 @@ VIGUERA   MOLINS,   Mª  Jesús.  “Historiografía”,  en  Mª  J.  Viguera  
 al-Andalus.   Almorávides   y   almohades.   Siglos  XI  al  XIII.  T.  VIII/2  de  Historia  de  España  Menéndez
 Pidal. Madrid: Espasa-Calpe, 1997, pp. 1-37
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-No hubo cambios de edición/año.
+GARCÍA   SANJUAN,   Alejandro.   “La   traducción   de  fuentes  árabes  andalusíes  al  castellano:  balance  y
+valoración”,       Medievalismo,       11       (2001),       pp.       107-122.       Texto      completo:
+http://revistas.um.es/medievalismo/article/view/51501/49641
 
-✅ Recursos añadidos:
-------------------------------
-The Encyclopaedia of Islam. 2ª y 3ª ed. Leiden: E.J. Brill
+MANZANO   MORENO,   Eduardo.   “Las   fuentes   árabes   sobre   la   conquista   de   al-Andalus:   una   nueva
+interpretación”.     Hispania,     59/2,     nº     202     (1999),     pp.    389-432.    Texto    completo:
+https://digital.csic.es/handle/10261/14014
 
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+MARTOS   QUESADA,   Juan.   Historiografía   andalusí.   Manual  de  fuentes  árabes  para  la  historia  de  al-
+Andalus. Cáceres: SEEM-Universidad de Extremadura-CSIC, 2022, 2 vols
+
+MOLINA,   Luis.   “Los   Ajbar  maymu‘a  y  la  historiografía  árabe  sobre  el  período  omeya  en  al-Andalus”.
+Al-Qantara, 10, 2 (1989), pp. 513-542. Texto completo: http://digital.csic.es/handle/10261/14072ç
+
+SHATZMILLER, Maya. L’Historiographie mérinide. Ibn Khaldūn et ses contemporains. Leiden: Brill, 1982
+
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

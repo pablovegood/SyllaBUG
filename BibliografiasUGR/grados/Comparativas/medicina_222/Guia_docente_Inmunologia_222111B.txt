@@ -2,60 +2,50 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+A.K.   Abbas,   A.H.   Lichtman   y   S.   Pillai.   Inmunología  Básica.  Funciones  y  trastornos  del  sistema
+inmunitario. 6ª edición. Elsevier, 2020. (***)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
+(*) (*) Recomendados (***) Altamente recomendado Libros en inglés
+
+A.K. Abbas, A.H. Lichtman y S. Pillai. Inmunología Celular y Molecular. 10ª ed. Elsevier, 2022. (*)
+
 A.K. Abbas, A.H. Lichtman, S. Pillai.Cellular and Molecular Immunology,10th ed. Elsevier, 2021(*)
 
+D. Male, R.S. Peebles, V. Male.Immunology, 9th ed.. Elsevier, 2020 (*)
+
+H. Chapel, M. Haeney, S. Misbah and N. Snowden.Essentials of Clinical Immunology,6th ed. Wiley. 2014
+
+J.   Punt,   S.  Stramford,  P.P.  Jones,  J.  A.  Owen.  Kuby  Immunología.  Edición  Online  accesible  desde  la
+Red UGR: https://accessmedicina.mhmedical.com/Book.aspx?bookid=2951
+
+J.   Punt,   S.A.   Stranford,   P.J.   Jones,  J.A.  Owen.  Kuby  Inmunología.  8ª  edición.  McGraw  Hill.  2020
+(***)
+
 J.M. Cruse and R.E. Lewis,Illustrated Dictionary of Immunology, 3rd ed. CRC Press, 2020
+
+Libros en español
 
 P. Parham. The immune system. 5ª edición. Norton, 2021. (***)
 
 P.J.   Delves,   S.   Martin,   D.   Burton   and  I.  Roitt.Roitt’s  Essential  Immunology,13th  ed.  Blackwell
 Publishing, Oxford, 2017. (*)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Garland   Science,   2017   4.H.   Chapel,   M.   Haeney,   S.  Misbah  and  N.  Snowden.Essentials  of  Clinical
-Immunology,6th   ed.   Wiley.   2014   →   H.   Chapel,   M.  Haeney,  S.  Misbah  and  N.  Snowden.Essentials  of
-Clinical Immunology,6th ed. Wiley. 2014
+R.   Geha   and   L.   Notarangelo.Case   Studies   in   Immunology:   A  Clinical  Companion,  7th  ed.  Garland
+Science, 2017
 
-Blackwell   Publishing,   Oxford,   2017.   (*)   7.D.   Male,   R.S.  Peebles,  V.  Male.Immunology,  9th  ed..
-Elsevier,   2020   (*)   8.W.   E.   Paul.Fundamental   Immunology,  6th  ed.  Lippincott  Williams  &  Wilkins,
-Philadelphia,   2008   →   W.   E.   Paul.Fundamental   Immunology,  6th  ed.  Lippincott  Williams  &  Wilkins,
-Philadelphia, 2008
+W. E. Paul.Fundamental Immunology, 6th ed. Lippincott Williams & Wilkins, Philadelphia, 2008
 
-1.A.K.   Abbas,   A.H.   Lichtman   y   S.  Pillai.  Inmunología  Básica.  Funciones  y  trastornos  del  sistema
-inmunitario.   6ª   edición.   Elsevier,   2020.  (***)  2.J.  Punt,  S.A.  Stranford,  P.J.  Jones,  J.A.  Owen.
-Kuby   Inmunología.   8ª   edición.   McGraw   Hill   →  A.K.  Abbas,  A.H.  Lichtman  y  S.  Pillai.  Inmunología
-Básica. Funciones y trastornos del sistema inmunitario. 7ª edición. Elsevier, 2024. (***)
-
-2020   (***)   3.J.   Punt,   S.   Stramford,   P.P.   Jones,   J.  A.  Owen.  Kuby  Immunología.  Edición  Online
-accesible   4.A.K.   Abbas,   A.H.   Lichtman   y   S.   Pillai.   Inmunología   Celular  y  Molecular.  10ª  ed.
-Elsevier,   2022.   (*)   (*)  Recomendados  (***)  Altamente  recomendado  Libros  en  inglés  →  J.  Punt,  S.A.
-Stranford, P.J. Jones, J.A. Owen. Kuby Inmunología. 8ª edición. McGraw Hill. 2020 (***)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 (*) Recomendados
 
 (***) Altamente recomendado
 
-A.K. Abbas, A.H. Lichtman y S. Pillai. Inmunología Celular y Molecular. 10ª ed. Elsevier, 2022. (*)
+A.K.   Abbas,   A.H.   Lichtman   y   S.   Pillai.   Inmunología  Básica.  Funciones  y  trastornos  del  sistema
+inmunitario. 7ª edición. Elsevier, 2024. (***)
 
-D. Male, R.S. Peebles, V. Male.Immunology, 9th ed.. Elsevier, 2020 (*)
-
-J.   Punt,   S.  Stramford,  P.P.  Jones,  J.  A.  Owen.  Kuby  Immunología.  Edición  Online  accesible  desde  la
-Red UGR: https://accessmedicina.mhmedical.com/Book.aspx?bookid=2951
-
-Libros en español
-
-Libros en inglés
-
-R.   Geha   and   L.   Notarangelo.Case   Studies   in   Immunology:   A  Clinical  Companion,  7th  ed.  Garland
-Science, 2017
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

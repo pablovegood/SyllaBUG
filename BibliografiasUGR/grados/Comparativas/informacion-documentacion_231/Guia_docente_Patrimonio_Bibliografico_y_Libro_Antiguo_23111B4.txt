@@ -2,11 +2,16 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Bosch,   G.,   Carswell,   J.,  Petherbridge,  G.,  Islamic  Bindings  &  Bookmaking,  The  Oriental  Institute,
+University   of   Chicago,   1981   Escolar   Sobrino,   H.  Historia  universal  del  libro,  Fundación  Germán
+Sánchez Ruipérez, Madrid,1993
 
-📚 Recursos sin cambios:
+Vives   Piqué,   R.   Guía   para   la  identificación  de  grabados.  Madrid:  Arco/Libros,  2003  Bologna,  G.,
+Manuscritos y miniaturas: el libro antes de Gutenberg. Madrid: Anaya, 1994
+
+📚 Recursos sin cambios (17):
 ------------------------------
 Asín Ramírez de Esparza, F. El comercio del libro antiguo. Madrid: Arco Libros, 2008.Checa Cremades,
 J.L. Los estilos de encuadernación. Madrid: Ollero y Ramos, 2003
@@ -23,11 +28,19 @@ estudio   y   la  salvaguarda  del  patrimonio  documental  en  el  entorno  ibe
 EDIBCIC (5º, Granada, 21-25 de febrero, 2000). Granada: Facultad de Biblioteconomía y Documentación,
 2000, p. 292-305
 
+Gaskel, P. Nueva introducción a la bibliografía material. Gijón: TREA, 1999
+
 Haebler, K. Introducción al estudio de los incunables. Madrid: Ollero y Ramos, 1995
 
 Hamel, C de. Copistas e iluminadores. Madrid: Akal, 2009
 
 Ley 16/1985 de 25 de junio de Patrimonio Histórico Español
+
+Ley   26/1972   de   21   de   junio   sobre   Defensa  del  Tesoro  Documental  y  Bibliográfico  de  la  Nación  y
+regulación del comercio de exportación de obras pertenecientes al mismo
+
+MacCleary, John M.; Crespo, Luis. El cuidado de libros y documentos: manual práctico de conservación
+y restauración. Madrid: Clan, 1997
 
 Monje Ayala, M., El arte de la encuadernación. Ed. CLAN, Madrid, 2000
 
@@ -43,32 +56,15 @@ Szirmai, J.A. The Archaeology of Medieval Bookbinding, Ashgate Pub Co. Book, 199
 
 Sánchez Hernanpérez, Arsenio. Políticas de conservación en bibliotecas. Madrid: Arco-Libros, 1999
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ley   26/1972   de   21   de   junio   sobre   Defensa  del  Tesoro  Documental  y  Bibliográfico  de  la  Nación  y
-regulación    del    comercio   de   exportación   de   obras   pertenecientes   al   mismo.   conservación   y
-restauración.   Madrid:   Clan,   1997  →  Ley  26/1972  de  21  de  junio  sobre  Defensa  del  Tesoro  Documental
-y   Bibliográfico   de   la   Nación  y  regulación  del  comercio  de  exportación  de  obras  pertenecientes  al
-mismo
-
-Vives   Piqué,   R.   Guía   para   la  identificación  de  grabados.  Madrid:  Arco/Libros,  2003  Bologna,  G.,
-Manuscritos   y   miniaturas:   el  libro  antes  de  Gutenberg.  Madrid:  Anaya,  1994  →  Vives  Piqué,  R.  Guía
-para la identificación de grabados. Madrid: Arco/Libros, 2003
-
-Bosch,   G.,   Carswell,   J.,  Petherbridge,  G.,  Islamic  Bindings  &  Bookmaking,  The  Oriental  Institute,
-University   of   Chicago,   1981   Escolar   Sobrino,   H.  Historia  universal  del  libro,  Fundación  Germán
-Sánchez   Ruipérez,   Madrid,1993   →   Bosch,   G.,   Carswell,   J.,  Petherbridge,  G.,  Islamic  Bindings  &
-Bookmaking, The Oriental Institute, University of Chicago, 1981
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Bologna, G., Manuscritos y miniaturas: el libro antes de Gutenberg. Madrid: Anaya, 1994
 
+Bosch,   G.,   Carswell,   J.,  Petherbridge,  G.,  Islamic  Bindings  &  Bookmaking,  The  Oriental  Institute,
+University of Chicago, 1981
+
 Escolar Sobrino, H. Historia universal del libro, Fundación Germán Sánchez Ruipérez, Madrid,1993
 
-Gaskel, P. Nueva introducción a la bibliografía material. Gijón: TREA, 1999
+Vives Piqué, R. Guía para la identificación de grabados. Madrid: Arco/Libros, 2003
 
-MacCleary, John M.; Crespo, Luis. El cuidado de libros y documentos: manual práctico de conservación
-y restauración. Madrid: Clan, 1997
-
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

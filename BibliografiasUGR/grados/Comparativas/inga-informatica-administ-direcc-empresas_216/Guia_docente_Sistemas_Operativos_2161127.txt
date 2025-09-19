@@ -2,11 +2,11 @@
 Grado: inga-informatica-administ-direcc-empresas (216)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 A.   J.  León,  P.  Paderewski,  J.A.  Gómez,  M.A.  Sánchez,  J.L.  Garrido  y  K.  Benghazi,  “Guía  de  Prácticas
 de Sistemas Operativos”, 2015 (Disponible en la plataforma docente)
@@ -32,7 +32,7 @@ J. Carretero y otros, Sistemas Operativos. Una Visión Aplicada (2 ed.), McGraw-
 
 M. Bach,The Design of the Unix Operating Systems, Prentice Hall, 1986
 
-M. Kerrisk, The Linux Programming Interface, No Starch Press, 2010
+M. Kerrisk, The Linux Programming Interface, No Starch Press , 2010
 
 Michael   Kerrish,   The  Linux  Programming  Interface.  A  Linux  and  Unix  System  Programming  Handbook,  No
 Starch Press, 2010
@@ -56,11 +56,7 @@ W. Stallings, Internals and Design Principles (9/e), Pearson Education, 2018
 W.   Stallings,   Sistemas   Operativos.  Aspectos  Internos  y  Principios  de  Diseño  (5/e),  Prentice  Hall,
 2005
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

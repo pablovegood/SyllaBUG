@@ -2,11 +2,12 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+SECRETARIADO   DE   LA   COMISIÓN   EPISCOPAL  DE  ENSEÑANZA  Y  CATEQUESIS  (2001-2004):  Plan  de  SICRE,  J.L.
+(2002): El Cuadrante. Introducción a los evangelios, Verbo Divino, Estella
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 AGUIRRE   MONASTERIO,   R.   –   RODRIGUEZ,   A.  (2002):  Evangelios  sinópticos  y  Hechos  de  los  Apóstoles.
 Verbo Divino, Estella
@@ -50,14 +51,10 @@ SAYES, J.A. (2006): Escatología, Palabra, Pamplona
 
 YANES ALVAREZ, E. (coord.) (2009): La Palabra de Dios EDICE, Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-SECRETARIADO   DE   LA   COMISIÓN   EPISCOPAL  DE  ENSEÑANZA  Y  CATEQUESIS  (2001-2004):  Plan  de  SICRE,  J.L.
-(2002):   El   Cuadrante.   Introducción   a   los  evangelios,  Verbo  Divino,  Estella  →  SECRETARIADO  DE  LA
-COMISIÓN EPISCOPAL DE ENSEÑANZA Y CATEQUESIS (2001-2004): Plan de
+SECRETARIADO DE LA COMISIÓN EPISCOPAL DE ENSEÑANZA Y CATEQUESIS (2001-2004): Plan de
 
-✅ Recursos añadidos:
-------------------------------
 SICRE, J.L. (2002): El Cuadrante. Introducción a los evangelios, Verbo Divino, Estella
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

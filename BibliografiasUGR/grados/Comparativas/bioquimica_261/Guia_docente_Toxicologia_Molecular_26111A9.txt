@@ -2,15 +2,15 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 BOELSTERLI UA. Mechanistic Toxicology. 2nd ed. CRC Press. Boca Ratón, 2007
 
-GISBERT CALABUIG, JA. Medicina Legal y Toxicología, 8ª ed., Elsevier, Barcelona, 2018
+GISBERT CALABUIG, JA. Medicina Legal y Toxicología, 7ª ed., Elsevier, Barcelona, 2018
 
 HAYES AW. Principles and methods of Toxicology, 5a ed., CRC Press, New­York, 2008
 
@@ -30,11 +30,7 @@ SNELL K y MULLOCK B. Biochemical Toxicology. A practical approach. IRL Press. Ox
 
 TIMBRELL JA. Principles of Biochemical Toxicology. 4th. Ed. CRC Pres. Boca Raton, 2008
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

@@ -2,13 +2,20 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+A.F.   Molisch:  “Wireless  communications”.  Ed.  John  Wiley  &  Sons,  2007  Y.  Lin,  A.  Pang:  “Wireless  and
+mobile All-IP networks”. Ed. John Wiley, 2005
 
-📚 Recursos sin cambios:
+http://standards.ieee.org/getieee802/)
+
+📚 Recursos sin cambios (10):
 ------------------------------
 B. Regis: “Wireless communications and mobile computing”. John Wiley & Sons
+
+Estándares de 3GPP (e.g. HSPA, LTE, etc.). Estándares LPWAN (e.g. LoRaWAN)
+
+Estándares de IEEE (e.g. IEEE 802.11, IEEE 802.16, etc. http://standards.ieee.org/getieee802/)
 
 H. Imai, M. Rahman, K. Kobara: “Wireless communications security”. Artech House, 2006
 
@@ -25,20 +32,12 @@ Interscience, 2007
 
 Y. Lin, I. Chlamtac: “Wireless and mobile network architectures”. Ed. John Wiley, 2001
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-A.F.   Molisch:  “Wireless  communications”.  Ed.  John  Wiley  &  Sons,  2007  Y.  Lin,  A.  Pang:  “Wireless  and
-mobile   All-IP   networks”.   Ed.   John   Wiley,   2005   →   Y.  Lin,  A.  Pang:  “Wireless  and  mobile  All-IP
-networks”. Ed. John Wiley, 2005
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 A.F. Molisch: “Wireless communications”. Ed. John Wiley & Sons, 2007
 
 Estándares LPWAN (e.g. LoRaWAN)
 
-Estándares de 3GPP (e.g. HSPA, LTE, etc.)
+Y. Lin, A. Pang: “Wireless and mobile All-IP networks”. Ed. John Wiley, 2005
 
-Estándares de IEEE (e.g. IEEE 802.11, IEEE 802.16, etc. http://standards.ieee.org/getieee802/)
-
-📊 Porcentaje estimado de cambio: 55% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

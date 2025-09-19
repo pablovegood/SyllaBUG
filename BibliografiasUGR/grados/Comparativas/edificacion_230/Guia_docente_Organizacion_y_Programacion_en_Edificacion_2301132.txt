@@ -2,7 +2,7 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (13):
 ------------------------------
 Aldo   D.   Mattos,   Fernando  Valderrama.  Métodos  de  planificación  y  control  de  obras:  del  diagrama  de
 barras al BIM. Editorial Reverté. Barcelona, 2014
@@ -24,33 +24,34 @@ Fundación Laboral de la construcción del Principado de Asturias. Ed. Lex Nova.
 Gerónimo   Lozano   Apolo.   Curso   preparación   y   presentación   de   documentos,   gráficas,   memorias,
 representaciones técnicas y patentes. Consultores técnicos de construcción, C.B. Gijón 1994
 
+Instituto   de   Estadística  de  Andalucía.  Encuestas  realizadas  sobre  la  población  de  trabajadores  del
+sector en Andalucía
+
+López Álvarez, S. y Llanes Viesca, J. Manual práctico del encargado de obra. Edificación
+
 Mateos Perera, J. La programación en la construcción. Ed. Bellisco. Madrid, 2003
 
 Merchán Gabaldón, F. Manual para la dirección de obras: jefes y responsables de obras
 
 Sevillano   Naranjo,  E.  Métodos  de  planificación  y  programación:  Roy  y  diagramas  de  precedencias.  Ed.
-@becedario. Badajoz 2010. habrán proporcionado durante las clases presenciales
+@becedario. Badajoz 2010
 
-Sevillano Naranjo, E. Planes de Obra Planificación y Programación. Ed. @becedario
+Sevillano Naranjo, E. Planes de Obra Planificación y Programación. Ed. @becedario. Badajoz 2009
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (2):
 ------------------------------
-Barco   Moreno,  D.  (2018).  Guía  para  implementar  y  gestionar  proyectos  BIM:  diario  de  un  BIM  manager.
+Barco Moreno, D. (2018). Guía para implementar y gestionar proyectos BIM: diario de un BIM manager .
 Independently published. ISBN: 978-1728923925
 
 Carrascosa   Martínez,   J.   M.,   Durán   Álvarez,   J.,   Martínez  Aires,  M.ª  D.,  Martínez  Rojas,  M.ª,  &
 Martínez   Rueda,   M.   (2014).   Organización   y   programación  en  edificación  (2ª  ed.,  rev.).  Granada:
 Editorial Técnica Avicam. ISBN: 978-84-942371-8-8
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Apuntes de los apartados que comprenden el temario teórico. Plataforma PRADO de la UGR
 
-Barco Moreno, D. (2018). Guía para implementar y gestionar proyectos BIM: diario de un BIM manager .
+Barco   Moreno,  D.  (2018).  Guía  para  implementar  y  gestionar  proyectos  BIM:  diario  de  un  BIM  manager.
 Independently published. ISBN: 978-1728923925
 
 Mattos,   A.   D.,   &   Valderrama,   F.   G.  F.  (2014).  Métodos  de  planificación  y  control  de  obras:  del

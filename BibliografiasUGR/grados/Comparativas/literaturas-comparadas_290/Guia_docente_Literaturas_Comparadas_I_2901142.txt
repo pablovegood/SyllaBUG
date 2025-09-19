@@ -2,16 +2,25 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+TSVIETÁIEVA,   Marina;   RILKE;   Rainer;   PASTERNAK,   Boris   (2012).   Cartas   del  verano  de  Barcelona:
+Editorial Minúscula
 
-📚 Recursos sin cambios:
+Temas 1-5 AMADEI-PULICE, M.A. (1990). Calderón y el barroco. Exaltación y engaño de los sentidos
+
+_______   (2014).   Contra   aquellos   que   nos   gobiernan.   Madrid:   Errata   naturae.   _______  (2008).
+Confesión. Barcelona: Acantilado. _______ (2008). Correspondencia. Barcelona: Acantilado
+
+________   (2015).   Las   flores   del   mal   [Traducción  de  Carlos  Pujol].  Barcelona:  Austral.  ________
+(2011) Delacroix. Madrid: Casimiro
+
+📚 Recursos sin cambios (78):
 ------------------------------
-ADORNO,   Theodor   W.   (2013).   “El  ensayo  como  forma”,  en  Notas  sobre  literatura.  Obra  completa,  11.
-Madrid: Akal. pp. 15-34
-
 AGAMBEN, Giorgio (2011). Infancia e historia. Buenos Aires (Argentina): Adriana Hidalgo
+
+AJMÁTOVA,   Anna;   TSVIETÁIEVA,   Marina   (2018).   El  canto  y  la  ceniza.  Antología  poética.  Barcelona:
+Galaxia de Gutenberg
 
 AMADEI-PULICE,   M.A.   (1990).  Calderón  y  el  barroco.  Exaltación  y  engaño  de  los  sentidos.  Amsterdam:
 John Benjamins Publishing Company
@@ -24,8 +33,6 @@ BARTHES,   Roland   (1989).   Sade,  Fourier,  Loyola.  Berkeley  and  Los  Ange
 Press
 
 BATAILLE, G. (1959). La literatura y el mal. Madrid: Taurus
-
-BAUDELAIRE, Charles (2021). El pintor de la vida moderna. Madrid: Alianza
 
 BAUDELAIRE,   Charles;   Flaubert,   Gustave   (2011).   El   origen   del  narrador.  Actas  completas  de  los
 juicios a Flaubert y Baudelaire. Viña del Mar (Chile): Mardulce
@@ -48,6 +55,8 @@ BUTLER,   Judith  (2012).  Sujetos  del  deseo.  Reflexiones  hegelianas  en  al
 Aires (Argentina): Amorrortu
 
 CAMPRA, R. (2008). Territorios de la ficción. Lo fantástico. Sevilla: Renacimiento
+
+CAMPS, Victoria (ed.) (2006). Historia de la ética. 2. La ética moderna. Barcelona: Crítica
 
 CARTER, Angela (1979). The Sadeian Woman. London: Virago
 
@@ -72,9 +81,19 @@ EGIDO   LÓPEZ,  T.  (2013).  “El  miedo  a  los  demonios  en  la  época  mo
 Egido   López,   T.   y   otros   (eds.).  El  miedo  en  la  historia  (pp.  49-78).  Valladolid:  Universidad  de
 Valladolid
 
-ESCOBAR, Matthew (2002). “L’Abyme différencié: vers une nouvelle approche de la
+ESCOBAR,   Matthew   (2002).   “L’Abyme   différencié:   vers   une   nouvelle  approche  de  la  mise  en  abyme
+gidienne”.   En   Robert   Kopp   et   Peter  Schynder  (dir.).  André  Gide  et  la  tentation  de  la  modernité.
+Colloque international de Mulhouse. Paris: Gallimard, p. 383-395
+
+Enciclopedia   de   la  literatura,  Barcelona,  Garzanti/Ediciones  B,  1991.  Cualquier  enciclopedia  seria
+que incluya información sobre autores, movimientos, obras, etc. además de sobre cuestiones técnicas,
+puede ser útil
 
 FOUCAULT, Michel (2006). Sobre la Ilustración. Madrid: Tecnos
+
+Francesco   Stella,   “Antigüedades   europeas”,   Armando  Gnisci  (coord.),  Introducción  a  la  literatura
+comparada,   Barcelona,  Crítica,  2002,  págs.  71-127.  (Lectura  obligatoria)  Al  final  de  este  capítulo,
+como en los del resto del libro, se encuentra una bibliografía
 
 GENETTE, Gérard (1989). Figuras III. Barcelona: Lumen
 
@@ -90,6 +109,11 @@ pp. 63-90
 HUYSSEN, Andreas (2011). Modernismo después de la Posmodernidad. Barcelona: Gedisa
 
 Jordi Llovet (ed.), Lecciones de Literatura Universal, Barcelona, Crítica, 1996
+
+José   María   Valverde   y   Martín  de  Riquer,  Historia  de  la  literatura  Universal,  diversas  ediciones.
+También   otras  posibles  historias  de  la  literatura  universal,  pero  casi  todas  ellas  están  anticuadas
+en   los   planteamientos.   Para   una  crítica  de  las  historias  de  la  literatura  universal  se  puede  ver
+Franca Sinopoli, “La historia comparada de la literatura”, en el libro de Gnisci antes citado
 
 KHAWAN, René (ed.) (2010). Las mil y una noches. Barcelona: Edhasa
 
@@ -127,8 +151,6 @@ SHENTALINSKI, Vitali (2018). La palabra arrestada. Barcelona: Galaxia Gutenberg
 
 SLONIM, Marc (2014). La literatura rusa. México D.F. (México): Fondo de Cultura Económica
 
-STEINER, George (2022). Tolstói o Dostoievski. Madrid: Ediciones Siruela
-
 TODOROV, Tzvetan (2007), Los aventureros de lo absoluto. Barcelona: Galaxia Gutenberg
 
 TOLSTOI,   Lev   (2019).   La   revolución  interior  (antología,  introducción  y  epílogo  de  Stefan  Zweig).
@@ -136,8 +158,12 @@ Madrid: Errata naturae
 
 TSVIETÁIEVA, Marina (2015). Diarios de la revolución de 1917. Barcelona: Acantilado
 
-TSVIETÁIEVA,   Marina;   RILKE;  Rainer;  PASTERNAK,  Boris  (2012).  Cartas  del  verano  de  1926.  Barcelona:
-Editorial Minúscula
+Temas 6 BAUDELAIRE, Charles (2021). El pintor de la vida moderna. Madrid: Alianza
+
+Temas 7 STEINER, George (2022). Tolstói o Dostoievski. Madrid: Ediciones Siruela
+
+Temas 8 ADORNO, Theodor W. (2013). “El ensayo como forma”, en Notas sobre literatura. Obra completa,
+11. Madrid: Akal. pp. 15-34
 
 VVAA (1983). Horror y tragedia en el teatro del Siglo de Oro, Criticón 23
 
@@ -160,10 +186,6 @@ _______ (2005). Pasiones frías. Madrid: Marcial Pons
 
 _______ (2007). Era melancólica. Figuras del imaginario barroco. Barcelona: José J. Olañeta Editor
 
-_______ (2008). Confesión. Barcelona: Acantilado
-
-_______ (2008). Correspondencia. Barcelona: Acantilado
-
 _______ (2009). Confesiones. Vivir en el fuego. Barcelona: Galaxia Gutenberg
 
 _______ (2009). Imago. La cultura visual y figurativa del Barroco. Madrid: Abada
@@ -172,50 +194,32 @@ _______ (2009). Mi Pushkin. Barcelona, Acantilado
 
 _______ (2012). Mundo simbólico. Madrid: Akal
 
-_______ (2014). Contra aquellos que nos gobiernan. Madrid: Errata naturae
+_______   (2014).   Escritores   y   problemas   de   la   literatura  soviética.  1917-1967.  Madrid:  Alianza
+Editorial
 
 _______   (2017).   El   triunfo  del  artista.  La  Revolución  y  los  artistas  rusos:  1917-1941.  Barcelona:
 Galaxia Gutenberg
+
+___________   (2001).   La   rara   invención:   estudios   sobre   Cervantes   y   su   posteridad  literaria.
+Barcelona: Crítica
+
+___________ (2005). Poética de la libertad y otras claves cervantinas. Madrid: Eneida
+
+✅ Recursos añadidos (7):
+------------------------------
+ESCOBAR, Matthew (2002). “L’Abyme différencié: vers une nouvelle approche de la
+
+TSVIETÁIEVA,   Marina;   RILKE;  Rainer;  PASTERNAK,  Boris  (2012).  Cartas  del  verano  de  1926.  Barcelona:
+Editorial Minúscula
+
+_______ (2008). Confesión. Barcelona: Acantilado
+
+_______ (2008). Correspondencia. Barcelona: Acantilado
+
+_______ (2014). Contra aquellos que nos gobiernan. Madrid: Errata naturae
 
 ________ (2011) Delacroix. Madrid: Casimiro
 
 ________ (2015). Las flores del mal [Traducción de Carlos Pujol]. Barcelona: Austral
 
-___________   (2001).   La   rara   invención:   estudios   sobre   Cervantes   y   su   posteridad  literaria.
-Barcelona: Crítica
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Francesco   Stella,   “Antigüedades   europeas”,   Armando  Gnisci  (coord.),  Introducción  a  la  literatura
-comparada, Barcelona, Crítica, 2002, págs. 71-127. (Lectura obligatoria) Al final Enciclopedia de la
-literatura,   Barcelona,   Garzanti/Ediciones   B,   1991.   Cualquier   enciclopedia   seria   que   incluya
-información   sobre   autores,  movimientos,  obras,  etc.  además  de  sobre  cuestiones  técnicas,  puede  ser
-útil    →    Enciclopedia    de    la   literatura,   Barcelona,   Garzanti/Ediciones   B,   1991.   Cualquier
-enciclopedia   seria   que  incluya  información  sobre  autores,  movimientos,  obras,  etc.  además  de  sobre
-cuestiones técnicas, puede ser útil
-
-✅ Recursos añadidos:
-------------------------------
-AJMÁTOVA,   Anna;   TSVIETÁIEVA,   Marina   (2018).   El  canto  y  la  ceniza.  Antología  poética.  Barcelona:
-Galaxia de Gutenberg
-
-CAMPS, Victoria (ed.) (2006). Historia de la ética. 2. La ética moderna. Barcelona: Crítica
-
-Francesco   Stella,   “Antigüedades   europeas”,   Armando  Gnisci  (coord.),  Introducción  a  la  literatura
-comparada,   Barcelona,  Crítica,  2002,  págs.  71-127.  (Lectura  obligatoria)  Al  final  de  este  capítulo,
-como en los del resto del libro, se encuentra una bibliografía
-
-José   María   Valverde   y   Martín  de  Riquer,  Historia  de  la  literatura  Universal,  diversas  ediciones.
-También   otras  posibles  historias  de  la  literatura  universal,  pero  casi  todas  ellas  están  anticuadas
-en   los   planteamientos.   Para   una  crítica  de  las  historias  de  la  literatura  universal  se  puede  ver
-Franca Sinopoli, “La historia comparada de la literatura”, en el libro de Gnisci antes citado
-
-_______   (2014).   Escritores   y   problemas   de   la   literatura  soviética.  1917-1967.  Madrid:  Alianza
-Editorial
-
-___________ (2005). Poética de la libertad y otras claves cervantinas. Madrid: Eneida
-
-mise   en   abyme  gidienne”.  En  Robert  Kopp  et  Peter  Schynder  (dir.).  André  Gide  et  la  tentation  de  la
-modernité. Colloque international de Mulhouse. Paris: Gallimard, p. 383-395
-
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

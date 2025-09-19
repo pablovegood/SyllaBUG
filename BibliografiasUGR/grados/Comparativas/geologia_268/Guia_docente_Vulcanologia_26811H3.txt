@@ -2,11 +2,18 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+(también   hay   una  segunda  edición  actualizada)  SCHMINCKE,  H.U.  (2004)  Volcanism.  Springer.  324  págs
+CAS, R.A.F. y WRIGHT, J.V. (1987) Volcanic Successions: Modern and Ancient. Allen & Unwin. 528 págs
 
-📚 Recursos sin cambios:
+LOCKWOOD, JP, y HAZLETT RW (2010) Volcanoes, Global Perspectives. Wiley-Blackwell. 552 págs
+
+PARFITT, E. y WILSON, L. (2008) Fundamentals of Physical Volcanology. WileyBlackwell, 256 págs
+
+SIGURDSSON, H. (Ed.) (2000) Encyclopedia of Volcanoes. Academic Press. 1417 págs
+
+📚 Recursos sin cambios (9):
 ------------------------------
 ASTIZ   M.   y   GARCIA,   A.   (2000)  Curso  Internacional  de  Volcanología  y  Geofísica  Volcánica.  Edición
 2000. Servicio de Publicaciones Cabildo Insular de Lanzarote. 458 págs
@@ -15,7 +22,7 @@ BARDINTZEFF, JM y MCBIRNEY A.R. (2000) Volcanology. 2nd edition Jones and Bartle
 
 FISHER, R.V. y SCHMINCKE, H.-U. (1984) Pyroclastic Rocks. Springer-Verlag. 472 págs
 
-FRANCIS, P.W. y OPPENHEIMER, C. (2004) Volcanoes. 2ª edic. Oxford University Press. 480 págs
+FRANCIS, P.W. y OPPENHEIMER, C. (2004) Volcanoes. (2ª edic. Oxford University Press. 480 págs.)
 
 GIACOMELLI, l. Y SCANDONE, R. (2002) Vulcani e Eruzioni. Pitagora Editore, 278 págs
 
@@ -28,22 +35,7 @@ Textures in Volcanic Rocks, Univ. of Tasmania, 198 págs
 
 SCANDONE, R. y GIACOMELLI, L. (1998) Vulcanologia. Liguori editore, Nápoles. 642 págs
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-SIGURDSSON,   H.   (Ed.)  (2000)  Encyclopedia  of  Volcanoes.  Academic  Press.  1417  págs.  (también  hay  una
-segunda   edición   actualizada)   SCHMINCKE,   H.U.   (2004)  Volcanism.  Springer.  324  págs  CAS,  R.A.F.  y
-WRIGHT,   J.V.   (1987)  Volcanic  Successions:  Modern  and  Ancient.  Allen  &  Unwin.  528  págs  →  SCHMINCKE,
-H.U. (2004) Volcanism. Springer. 324 págs
-
-LOCKWOOD,   JP,   y   HAZLETT  RW  (2010)  Volcanoes,  Global  Perspectives.  Wiley-Blackwell  →  LOCKWOOD,  JP,
-y   HAZLETT   RW  (2010)  Volcanoes,  Global  Perspectives.  Wiley-Blackwell.  552  págs.  (2ª  edic.  2022,  480
-págs.)
-
-PARFITT,   E.   y  WILSON,  L.  (2008)  Fundamentals  of  Physical  Volcanology.  Wiley-  Blackwell,  256  págs  →
-PARFITT, E. y WILSON, L. (2008) Fundamentals of Physical Volcanology. Wiley-Blackwell, 256 págs. (2ª
-edic.2025, 272 págs.)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 BOURDIER, J.L. (2021) Géologie du volcanisme.Ed. Dunod. 304 págs
 
@@ -58,7 +50,15 @@ Superieur. 368 págs
 JERRAM,   D.   (2011)  Introducing  Volcanology:  A  Guide  to  Hot  Rocks.  Dunedin  Academic  Press,  128  págs.
 (2ª edic. 2021, 152 págs.)
 
+LOCKWOOD,   JP,   y   HAZLETT   RW  (2010)  Volcanoes,  Global  Perspectives.  Wiley-Blackwell.  552  págs.  (2ª
+edic. 2022, 480 págs.)
+
+PARFITT, E. y WILSON, L. (2008) Fundamentals of Physical Volcanology. Wiley-Blackwell, 256 págs. (2ª
+edic.2025, 272 págs.)
+
+SCHMINCKE, H.U. (2004) Volcanism. Springer. 324 págs
+
 SIGURDSSON,   H.   (Ed.)  (2000)  Encyclopedia  of  Volcanoes.  Academic  Press.  1417  págs.  (segunda  edición
 actualizada, 2015, 1421 págs.)
 
-📊 Porcentaje estimado de cambio: 69% [██████░░░░]
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

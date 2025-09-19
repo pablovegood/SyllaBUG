@@ -2,12 +2,11 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-ENCYCLOPEDIA   OF   CHEMICAL   PROCESSING   AND  DESIGN.  Mcketta  J.J.  (ed).  M.  Dekker  REDES  DE  VAPOR.  Ed.
-Ente Regional de Energía de Castilla y León, 2010
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 BIOCHEMICAL ENGINEERING AND BIOTECHNOLOGY. Najafpour, G.D. Editorial Elsevier (2007)
 
@@ -19,27 +18,25 @@ Butterworth-Heinemann (2012)
 
 CONTAMINACIÓN E INGENIERÍA AMBIENTAL. J.L. Bueno, H. Sastre y A.G. Lavin. Varios tomos. Edita FICYT
 
+ENCYCLOPEDIA   OF   CHEMICAL   PROCESSING   AND   DESIGN.   Mcketta   J.J.   (ed).   M.  Dekker  inc.  61  tomos.
+Ordenados alfabéticamente. Diferentes años
+
 GESTIÓN INTEGRAL DE RESIDUOS SÓLIDOS. G. Tchobanoglous y col. Ed. McGraw Hill. 1996
 
 INGENIERÍA DE BIOPROCESOS. Díaz, M. Editorial Paraninfo (2012)
+
+MANUAL   TÉCNICO   DE  DISEÑO  Y  CÁLCULO  DE  REDES  DE  VAPOR.  EFICIENCIA  ENERGÉTICA  EN  REDES  DE  VAPOR.  Ed.
+Ente Regional de Energía de Castilla y León, 2010
 
 PRINCIPIOS DE INGENIERÍA DE LOS BIOPROCESOS. Doran, P.M. Editorial Acribia (1998)
 
 PRINCIPIOS   ELEMENTALES   DE   LOS  PROCESOS  QUÍMICOS.  (Tercera  edición).  Felder,  R.M.  y  Rousseau,  R.W.
 Editorial Limusa Wiley (2003)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-ENCYCLOPEDIA   OF   CHEMICAL   PROCESSING   AND   DESIGN.   Mcketta   J.J.   (ed).   M.  Dekker  inc.  61  tomos.
-Ordenados alfabéticamente. Diferentes años
-
-MANUAL   TÉCNICO   DE  DISEÑO  Y  CÁLCULO  DE  REDES  DE  VAPOR.  EFICIENCIA  ENERGÉTICA  EN  REDES  DE  VAPOR.  Ed.
-Ente Regional de Energía de Castilla y León, 2010
-
 TECNOLOGÍA ENERGÉTICA DE INGENIERÍA QUÍMICA. M. Alarcón García. 1ª Edición. DM, 2007
 
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

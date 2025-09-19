@@ -2,12 +2,27 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Fields   Virología,  volumen  4:  Fundamentos  (7ª  ed.)  WOLTERS  KLUWER  Howley,  P.  ,  Knipe,  D.,  Whelan,  S.
+2021.   Fields   Virología,   volumen   1:   Virus  emergentes  (7ª  ed.)  WOLTERS  KLUWER  Heldt,  S.,  Hoenigl,
+M.2017. Lateral Flow Assays for the Diagnosis of Invasive Aspergillosis: Current Status. Curr Fungal
+Infect Rep. 11:45-51
 
-📚 Recursos sin cambios:
+Howley,   P.   ,  Knipe,  D.,  Damania,  B.,  Cohen,  J.  2022.  Fields  Virología,  volumen  2:  Virus  de  ADN  (7ª
+ed.)   WOLTERS   KLUWER   Howley,   P.   ,  Knipe,  D.,  Damania,  B.,  Cohen,  J.,  Whelan,  S.,  Freed,  E.  2023.
+Fields   Virología,   volumen  3:  Virus  de  ARN  (7ª  ed.)  WOLTERS  KLUWER  Howley,  P.  ,  Knipe,  D.,  Enquist,
+L., Cohen, J., Freed, E., Damania, B., Whelan, S. 2024
+
+Levinson W, Chin-Hong P, Joyce EA, Nussbaum J, Schwartz B. 2022. Microbiología médica e inmunología.
+Una guía acerca de las enfermedades infecciosas, 17e. McGraw Hill Education Inc. ISBN: 9781264753215
+Norkin, L.C. 2010. Virology : Molecular Biology and Pathogenesis. ASM Press, Washington
+
+📚 Recursos sin cambios (21):
 ------------------------------
+20   capítulos   de  acceso  libre  en:  http://www.guia.reviberoammicol.com/  Pfaller,  M.A.,  Carroll,  K.C.
+(Eds.) Manual of Clinical Microbiology, 13th Edition. 2023. ASM Press, Washington
+
 Aguilera   A,   Álvarez   M,   García   F,   Reina   G,  Rodríguez  C.  2014.  Diagnóstico  microbiológico  de  la
 infección   por   el   VIH.   6a.   García   F.   (coordinador).   Procedimientos   en  Microbiología  Clinica.
 Cercenado   E,   Cantón   R   (editores).   Sociedad  Española  de  Enfermedades  Infecciosas  y  Microbiologia
@@ -23,7 +38,7 @@ Bonifaz, A. 2020. Micología Médica Básica, 6ª edición. McGraw-Hill, Madrid
 Boyer,   Z.,   Palmer,   S.  2018.  Targeting  immune  checkpoint  molecules  to  eliminate  latent  HIV.  Front.
 Immunol. 9:2339. doi: 10.3389/fimmu.2018.02339
 
-Calderone, R.A. y Clancy, C.J. 2012. Candida and Candidiasis (5ª edición). ASM Press, Washington
+Calderone , R.A. y Clancy, C.J. 2012. Candida and Candidiasis (5ª edición). ASM Press, Washington
 
 Campitelli,   M.,   Zeineddine,   N.,   Samaha,   G.,   Maslak,  S.  2017.  Combination  Antifungal  Therapy:  A
 Review of Current Data. J Clin Med Res. 9:451-456
@@ -56,19 +71,13 @@ Pemán,   J.,   Martín-Mazuelos,   E.   y   Rubio   Calvo,   M.C.   2007.   Gu�
 Diagnóstico   en   Micología  Clínica,  2ª  edición.  Revista  Iberoamericana  de  Micobiología.  20  capítulos
 de acceso libre en: http://www.guia.reviberoammicol.com/
 
-Pfaller,   M.A.,  Carroll,  K.C.  (Eds.)  Manual  of  Clinical  Microbiology,  13th  Edition.  2023.  ASM  Press,
-Washington
-
 Ruiz-Bravo,   A.,   Jimenez-Valera,   M.   2020.   SARS-CoV-2   y   pandemia  de  síndrome  respiratorio  agudo
 (COVID-19). Ars Pharm. 61(2): 63-79. http://dx.doi.org/10.30827/ars.v61i2.15177
 
 Shors, T. 2009. Virus. Estudio molecular con orientación clínica. Editorial Médica Panamericana
 
-Specter,   S.,   Hodinka,  R.L.,  Young,  S.A.  y  Wiedbrauk.  D.L.  2009.  Clinical  Virology  Manual  (4ª  ed.).
+Specter,   S.,  Hodinka  ,  R.L.,  Young,  S.A.  y  Wiedbrauk.  D.L.  2009.  Clinical  Virology  Manual  (4ª  ed.).
 ASM Press, Washington
-
-Ubol,   S.,   Halstead,   S.B.  2010.  How  Innate  Immune  Mechanisms  Contribute  to  Antibody-Enhanced  Viral
-Infections . Clin Vacc Immunol.17:1829–1835
 
 VHO. 2016. Consolidate guidelines on the use of antiretroviral drugs for treating and preventing HIV
 infection. World Health Organization, Geneva
@@ -76,31 +85,19 @@ infection. World Health Organization, Geneva
 Vogel,   O.A.,   Manicassamy,   B.   2020.   Broadly   protective   strategies   against   influenza  viruses:
 Universal vaccines and therapeutics. Front. Microbiol. 11:135. doi: 10.3389/fmicb.2020.00135
 
-🔁 Misma obra con edición/año distinto:
+http://dx.doi.org/10.30827/ars.v61i2.15177    Ubol,   S.,   Halstead,   S.B.   2010.   How   Innate   Immune
+Mechanisms Contribute to AntibodyEnhanced Viral Infections . Clin Vacc Immunol.17:1829–1835
+
+✅ Recursos añadidos (7):
 ------------------------------
-Fields   Virología,  volumen  4:  Fundamentos  (7ª  ed.)  WOLTERS  KLUWER  Howley,  P.  ,  Knipe,  D.,  Whelan,  S.
-2021.   Fields   Virología,   volumen   1:   Virus  emergentes  (7ª  ed.)  WOLTERS  KLUWER  Heldt,  S.,  Hoenigl,
-M.2017. Lateral Flow Assays for the Diagnosis of Invasive Aspergillosis: Current Status. Curr Fungal
-Infect   Rep.   11:45-51   →   Heldt,   S.,   Hoenigl,   M.2017.   Lateral   Flow  Assays  for  the  Diagnosis  of
-Invasive Aspergillosis: Current Status. Curr Fungal Infect Rep. 11:45-51
+Heldt, S., Hoenigl, M.2017. Lateral Flow Assays for the Diagnosis of Invasive Aspergillosis: Current
+Status. Curr Fungal Infect Rep. 11:45-51
 
-Levinson W, Chin-Hong P, Joyce EA, Nussbaum J, Schwartz B. 2022. Microbiología médica e inmunología.
-Una guía acerca de las enfermedades infecciosas, 17e. McGraw Hill Education Inc. ISBN: 9781264753215
-Norkin,   L.C.   2010.  Virology  :  Molecular  Biology  and  Pathogenesis.  ASM  Press,  Washington  →  Levinson
-W, Chin-Hong P, Joyce EA, Nussbaum J, Schwartz B. 2022. Microbiología médica e inmunología. Una guía
-acerca de las enfermedades infecciosas, 17e. McGraw Hill Education Inc. ISBN: 9781264753215
-
-Howley,   P.   ,  Knipe,  D.,  Damania,  B.,  Cohen,  J.  2022.  Fields  Virología,  volumen  2:  Virus  de  ADN  (7ª
-ed.)   WOLTERS   KLUWER   Howley,   P.   ,  Knipe,  D.,  Damania,  B.,  Cohen,  J.,  Whelan,  S.,  Freed,  E.  2023.
-Fields   Virología,   volumen  3:  Virus  de  ARN  (7ª  ed.)  WOLTERS  KLUWER  Howley,  P.  ,  Knipe,  D.,  Enquist,
-L.,   Cohen,   J.,   Freed,   E.,   Damania,   B.,   Whelan,   S.  2024  →  Howley,  P.,  Knipe,  D.,  Damania,  B.,
-Cohen,   J.,   Whelan,   S.,  Freed,  E.  2023.  Fields  Virología,  volumen  3:  Virus  de  ARN  (7ª  ed.)  WOLTERS
-KLUWER
-
-✅ Recursos añadidos:
-------------------------------
 Howley,   P.,   Knipe,   D.,  Damania,  B.,  Cohen,  J.  2022.  Fields  Virología,  volumen  2:  Virus  de  ADN  (7ª
 ed.) WOLTERS KLUWER
+
+Howley, P., Knipe, D., Damania, B., Cohen, J., Whelan, S., Freed, E. 2023. Fields Virología, volumen
+3: Virus de ARN (7ª ed.) WOLTERS KLUWER
 
 Howley,   P.,   Knipe,   D.,   Enquist,   L.,   Cohen,  J.,  Freed,  E.,  Damania,  B.,  Whelan,  S.  2024.  Fields
 Virología, volumen 4: Fundamentos (7ª ed.) WOLTERS KLUWER
@@ -108,6 +105,9 @@ Virología, volumen 4: Fundamentos (7ª ed.) WOLTERS KLUWER
 Howley,   P.,   Knipe,   D.,   Whelan,   S.   2021.  Fields  Virología,  volumen  1:  Virus  emergentes  (7ª  ed.)
 WOLTERS KLUWER
 
+Levinson W, Chin-Hong P, Joyce EA, Nussbaum J, Schwartz B. 2022. Microbiología médica e inmunología.
+Una guía acerca de las enfermedades infecciosas, 17e. McGraw Hill Education Inc. ISBN: 9781264753215
+
 Norkin, L.C. 2010. Virology : Molecular Biology and Pathogenesis. ASM Press, Washington
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

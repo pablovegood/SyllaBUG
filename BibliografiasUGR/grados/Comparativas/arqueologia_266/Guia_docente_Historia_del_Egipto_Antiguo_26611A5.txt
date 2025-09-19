@@ -2,7 +2,7 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (53):
 ------------------------------
 AAVV.: Leyendo el pasado. Antiguas escrituras del cuneiforme al alfabeto. Madrid 2003
 
@@ -42,8 +42,7 @@ Ellis, Simon P.: 1992. Graeco-Roman Egypt. Shire Egyptology 17, Aylesbury 1992
 
 Fischer, H.G.: Ancientegyptiancalligraphy. Nueva York 1988
 
-Gascou,   J.:   Les   grands   domaines,   la  cité  et  l'état  en  Egypte  byzantine,  Travaux  et  Mémoires  (9)
-1985, 1–90
+Gascou, J.: Les grands domaines, la cité et l'état en Egypte byzantine, Travaux et
 
 Harris, J.R. (ed.):The Legacy of Egypt. Oxford 1987 (1971)
 
@@ -81,10 +80,13 @@ Moreno García, J. C.:Élites et pouvoir en Égypteancienne. CRIPEL 28 (2009-201
 
 Moreno García, J.C. (ed.): Ancient Egyptian Administration. Leiden 2013
 
+Mémoires (9) 1985, 1–90
+
 Noblecourt,   Ch.   D.:  GiftsfromthePharaohs.  HowEgyptianCivilizationShapedthe  Modern  World.Flammarion
 2007
 
-Parra, J. M.: La Historia empieza en Egipto. Eso ya existía en tiempos de los faraones
+Parra,   J.   M.:   La  Historia  empieza  en  Egipto.  Eso  ya  existía  en  tiempos  de  los  faraones.  Barcelona
+2011
 
 Parsons P.: La scoperta di Ossirinco. La vita quotidiana in Egitto al tempo dei Romani, Firenze 2014
 
@@ -104,7 +106,9 @@ Rowlandson   J.   -  Bagnall  R.  S.,  Women  and  Society  in  Greek  and  Roma
 1998
 
 Sección   monográfica   Bagnall,   Roger  S.  -  Worp,  Klaas  A.:  Chronological  Systems  of  Byzantine  Egypt.
-Leiden- Boston 2004
+LeidenBoston 2004
+
+Serrano Delgado, J.M.: Textos para la historia antigua de Egipto. Madrid 1993
 
 Studi e Testi di Papirologia e Cultura Scrittoria Antica, vol. 5), Parma, 2019
 
@@ -123,11 +127,11 @@ Vercoutter, J.: L'Egypteancienne.Paris 1946
 
 Wendrich, W.: EgyptianArchaeology. Oxford 2010
 
-Wilkinson, R.H.: Cómo leer el arte egipcio. Guía de jeroglíficos del Antiguo Egipto
+Wilkinson, R.H.: Cómo leer el arte egipcio. Guía de jeroglíficos del Antiguo Egipto. Barcelona 1995
 
 Wilson, P.: Símbolos sagrados. Cómo leer los jeroglíficos egipcios. Barcelona 2004
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (151):
 ------------------------------
 AAVV.: 120 años de arqueología española en Egipto. Madrid 2009
 
@@ -138,8 +142,6 @@ AAVV.: El enigma de la momia. El rito funerario en el Antiguo Egipto. Alicante 2
 
 Aldred, C.: Akhenaton. Faraón de Egipto. Madrid 1989
 
-Allen, J. P.: The Ancient Egyptian Pyramid Texts. Atlanta 2005
-
 Allen,   J.   P.:   The   Debate   between   a   Man   and   His   Soul.   A   Masterpiece   of   Ancient  Egyptian
 Literature.Leiden-Boston 2011
 
@@ -148,14 +150,12 @@ Imagination.Cambridge 2011
 
 Assmann, J.: Death and Salvation in Ancient Egypt. Cornell 2005
 
-Assmann, J.: Egipto a la luz de una teoría pluralista de la cultura. Madrid 1995
-
 Assmann, J.: Egipto. Historia de un sentido. Madrid 2005
 
-Bagnall, R.S.: Hellenistic and Roman Egypt. Sources and Approaches.Burlington 2006
+Atlas, diccionarios, cronología: Baker, D. D.: The Encyclopaedia of the Pharaohs. Vol I. Predynastic
+to the Twentieth Dynasty 3300-1069 B.C.Londres 2008
 
-Baker,   D.   D.:   The   Encyclopaedia   of   the   Pharaohs.   Vol  I.  Predynastic  to  the  Twentieth  Dynasty
-3300-1069 B.C.Londres 2008
+Bagnall, R.S.: Hellenistic and Roman Egypt. Sources and Approaches.Burlington 2006
 
 Bard, K. A. (ed.): Encyclopedia of Archaeology of Ancient Egypt. Londres 1999
 
@@ -259,6 +259,9 @@ Hornung, E.: The Ancient Egyptian Books of the Afterlife.Cornell 1999
 
 Husson,   G.-   Valbelle,   D.:   Instituciones   de   Egipto.   De  los  primeros  faraones  a  los  emperadores
 romanos. Madrid 1998
+
+Introducciones   y   manuales:   Assmann,   J.:   Egipto  a  la  luz  de  una  teoría  pluralista  de  la  cultura.
+Madrid 1995
 
 Jacq, Ch.: Las máximas de Ptahhotep. Madrid 1998
 
@@ -422,6 +425,8 @@ Teeter, E.: Before the Pyramids. The Origins of Egyptian Civilization.Chicago 20
 
 Teeter, E.: The Presentation of Maat: Ritual and Legitimacy in Ancient Egypt.Chicago 1997
 
+Textos: Allen, J. P.: The Ancient Egyptian Pyramid Texts. Atlanta 2005
+
 Torallas Tovar, S.: Gramática del copto Sahídico. Madrid 2001
 
 Trigger, B.G. et alii: Historia del Egipto Antiguo. Barcelona, 1985
@@ -458,12 +463,7 @@ Chicago 2010
 
 Yoyotte, J.: Histoire, géographie et religión de l’Égypte ancienne. Opera Selecta. Lovaina 2013
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Serrano   Delgado,   J.M.:   Textos   para  la  historia  antigua  de  Egipto.  Madrid  1993  →  Serrano  Delgado,
-J.M.: Textos para la historia antigua de Egipto. Madrid 2021
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 Atlas, diccionarios, cronología: Baker, D. D.: The Encyclopaedia of the Pharaohs. Vol I. Predynastic
 to   the  Twentieth  Dynasty  3300-1069  B.C.Londres  2008.  Bard,  K.  A.  (ed.):  Encyclopedia  of  Archaeology
@@ -501,6 +501,8 @@ Vercoutter,   J.:   Egipto,   tras   las   huellas  de  los  faraones.  Barcelon
 caída   del   Antiguo   Egipto.   Historia   de  una  civilización  desde  el  año  3000  a.C.  hasta  la  época  de
 Cleopatra. Barcelona 2011
 
+Serrano Delgado, J.M.: Textos para la historia antigua de Egipto. Madrid 2021
+
 Textos:   Allen,   J.   P.:   The  Ancient  Egyptian  Pyramid  Texts.  Atlanta  2005.  Allen,  J.  P.:  The  Debate
 between   a   Man   and   His   Soul.   A   Masterpiece   of  Ancient  Egyptian  Literature.Leiden-Boston  2011.
 Blázquez,   J.M.-   Lara  Peinado,  F.:  El  libro  de  los  muertos.Madrid,  1984.  Brunner-Traut,  E.:  Cuentos
@@ -537,4 +539,4 @@ Wendrich, W.: Egyptian Archaeology. Oxford 2010
 
 Wilson, J. A.: La cultura egipcia. México 1953
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

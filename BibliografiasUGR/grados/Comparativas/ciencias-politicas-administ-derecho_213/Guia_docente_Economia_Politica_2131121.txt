@@ -2,14 +2,14 @@
 Grado: ciencias-politicas-administ-derecho (213)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
-Barrios,   S.,   Moreno,   D.   y   Rosales,  V.  (2014):  Economía  Política.  Cuestiones  para  la  evaluación.
-Editorial Técnica Avicam. Granada
+Bibliografía   prácticas:  Barrios,  S.,  Moreno,  D.  y  Rosales,  V.  (2014):  Economía  Política.  Cuestiones
+para la
 
 González   Gómez,   F.,   García   Rubio,   M.A.   y   Guardiola,  J.:  Economía  Política  .  Libro  sujeto  a  la
 licencia Reconocimiento-No Comercial-Compartir Igual 4.0 Internacional de Creative Commons
@@ -18,15 +18,12 @@ Mankiw, N.G. (2012): Principios de Economía, 6ª ed., Paraninfo, México
 
 Mochón, F. (2009): Economía, Teoría y Política, 6ª ed., McGraw-Hill, Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (17):
 ------------------------------
-No hubo cambios de edición/año.
+Barrios,   S.,   Moreno,   D.   y   Rosales,  V.  (2014):  Economía  Política.  Cuestiones  para  la  evaluación.
+Editorial Técnica Avicam. Granada
 
-✅ Recursos añadidos:
-------------------------------
 Bernanke, B.S. y Frank, R.H.: Principios de Economía. McGraw-Hill
-
-Bibliografía prácticas
 
 Blanco, J. M.: Economía: Teoría y Práctica, McGraw-Hill, Madrid
 
@@ -61,4 +58,4 @@ Stiglitz, J.E.: Economía, Ariel, Barcelona
 
 Wonnacott, P. y Wonnacott, R.: Economía. McGraw-Hill, Madrid
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 80% [████████░░]

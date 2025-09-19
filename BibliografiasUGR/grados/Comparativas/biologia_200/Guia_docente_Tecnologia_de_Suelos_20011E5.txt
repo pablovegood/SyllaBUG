@@ -2,19 +2,13 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-PORTA, J., et al. (2019). Edafología. Uso y protección de los suelos. Ed. Mundi-Prensa
+Porta   J.,  López-Acevedo  &  Poch  R.  M.  (2008).  Introducción  a  la  Edafología.  Uso  y  protección  del  ed.
+Mundi-Prensa   Schaetzl,   R.J.   y   Anderson,   S.   (2009).  Soils.  Genesis  and  geomorphology.  Cambridge
+University Press, Cambridge. 8817 pp
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (7):
 ------------------------------
 Aguilar, J.; Martínez, A.; Roca, A. (1996). Evaluación y manejo de suelos. Ed. Univ. Granada
 
@@ -30,16 +24,18 @@ Kirby, M.J., Morgan, R.P.C. (1984). Erosión de suelos. Ed. Limusa. México
 Pierzynsky,   G.M.,   Sims,   J.T.,  Vance,  G.F.  (2000).  Soils  and  Enviromental  Quality.  CRC  Press.  Boca
 Raton. USA
 
-Porta   J.,  López-Acevedo  &  Poch  R.  M.  (2008).  Introducción  a  la  Edafología.  Uso  y  protección  del  ed.
-Mundi-Prensa
-
 Porta   J.,  López-Acevedo  &  Roquero  C.  (2003).  Edafología  para  la  agricultura  y  el  medio  ambiente  (3ª
 edición). Mundi-prensa
-
-Schaetzl,   R.J.  y  Anderson,  S.  (2009).  Soils.  Genesis  and  geomorphology.  Cambridge  University  Press,
-Cambridge. 8817 pp
 
 Soil   Survey  Staff  (2014).  Keys  to  Soil  Taxonomy.  United  States  Department  of  Agriculture  (USDA)  and
 Natural Resources Conservation Service (NRCS). 12ª edición. Mundi-prensa
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Porta   J.,  López-Acevedo  &  Poch  R.  M.  (2008).  Introducción  a  la  Edafología.  Uso  y  protección  del  ed.
+Mundi-Prensa
+
+Schaetzl,   R.J.  y  Anderson,  S.  (2009).  Soils.  Genesis  and  geomorphology.  Cambridge  University  Press,
+Cambridge. 8817 pp
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

@@ -2,19 +2,18 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (1):
 ------------------------------
-Rehabilitación Médica. Pozuelo Calvo R. y colaboradores. Editorial Avicam. 2019
+Rehabilitación Médica. Pozuelo Calvo R. y colaboradores. Editorial Avicam. 2019 Sánchez Blanco I. et
+al.   “Manual   SERMEF  de  Rehabilitación  y  Medicina  Física”  Ed.  Médica  Panamericana  Delisa  J.A.  et  al.
+“Rehabilitation   Medicine.  Principles  and  practice”.  Ed.  Lippincott  Willianms  &  Wilkins  Enciclopedia
+Médico-Quirúrgica. Kinesiterapia y Reeducación Funcional
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Delisa   J.A.   et   al.  “Rehabilitation  Medicine.  Principles  and  practice”.  Ed.  Lippincott  Willianms  &
 Wilkins
@@ -23,4 +22,4 @@ Enciclopedia Médico-Quirúrgica. Kinesiterapia y Reeducación Funcional
 
 Sánchez Blanco I. et al. “Manual SERMEF de Rehabilitación y Medicina Física” Ed. Médica Panamericana
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

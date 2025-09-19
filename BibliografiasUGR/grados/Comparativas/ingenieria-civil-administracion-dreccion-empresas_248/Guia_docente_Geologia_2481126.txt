@@ -2,12 +2,15 @@
 Grado: ingenieria-civil-administracion-dreccion-empresas (248)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
+E.J.   Tarbuck,  F.H.  Lutgens  (2005).  Ciencias  de  la  Tierra.  Una  Introducción  a  la  Geología  Física.  8ª
+edición. Ed. Pearson, ISBN: 84-205-4400-0
+
 J.   Grotzinger,   T.   H.  Jordan  (2014).  Understanding  Earth,  seventh  edition.  Ed.  Macmillan  Learning,
 ISBN: 978-1-4641-3874-4
 
@@ -25,16 +28,11 @@ M. Gutiérrez Elorza (2008). Geomorfología. Ed. Pearson Prentice Hall, ISBN: 97
 M.   Orozco,   J.M.  Azañón,  A.  Azor,  F.M.  Alonso-Chaves  (2002).  Geología  Física.  Ed.  Paraninfo  Thomson
 Learning, ISBN: 84-9732-021-2
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-E.J.   Tarbuck,  F.H.  Lutgens  (2005).  Ciencias  de  la  Tierra.  Una  Introducción  a  la  Geología  Física.  8ª
 edición.   Ed.   Pearson,   ISBN:  84-205-4400-0  G.M.  Bennison,  K.  Moseley  (2003).  Geological  structures
-and   maps.   Ed.   Modder   Arnold,   ISBN  →  G.M.  Bennison,  K.  Moseley  (2003).  Geological  structures  and
-maps. Ed. Modder Arnold, ISBN: 9780340809563
+and maps. Ed. Modder Arnold, ISBN: 9780340809563
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
-E.J.   Tarbuck,  F.H.  Lutgens  (2005).  Ciencias  de  la  Tierra.  Una  Introducción  a  la  Geología  Física.  8ª
-edición. Ed. Pearson, ISBN: 84-205-4400-0
+No hay elementos.
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

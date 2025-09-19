@@ -2,25 +2,48 @@
 Grado: inga-informatica-administ-direcc-empresas (216)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
-Colección   de   Códigos   Electrónicos   de   Legislación.  Editorial  Tirant  Lo  Blanch:  Impuesto  sobre  la
-Renta   de   las   Personas   Físicas,   Impuesto  sobre  el  Patrimonio  e  Impuesto  sobre  la  Renta  de  los  No
-Residentes.   Normativa  Estatal  Y  Autonómica  Editorial  Tirant  Lo  Blanch:  Ley  General  Tributaria  y  sus
-reglamentos   de   desarrollo   Editorial   Tecnos:   Legislación   Básica   del  Sistema  Tributario  Español
-Editorial   Aranzadi:   Código   Tributario  Editorial  La  Ley:  Código  Tributario  Ministerio  de  Hacienda:
-Leyes   Tributarias.   Recopilación   Normativa  Normativa  Básica  Ley  35/2006,  de  28  de  noviembre,  de  la
-Ley del Impuesto sobre la Renta de las Personas Físicas
+Agencia Estatal del Boletín Oficial del Estado: Colección de Códigos Electrónicos de Legislación
 
-El   Derecho   Financiero   y  Tributario  forma  parte  del  Derecho  positivo  y  sus  normas,  por  razones  muy
-diversas,   se  modifican  con  bastante  frecuencia.  Por  ello,  se  recomienda  encarecidamente  utilizar  la
-última edición publicada
+Bibliografía   recomendada   El  Derecho  Financiero  y  Tributario  forma  parte  del  Derecho  positivo  y  sus
+normas,   por   razones   muy   diversas,   se  modifican  con  bastante  frecuencia.  Por  ello,  se  recomienda
+encarecidamente utilizar la última edición publicada
+
+Curso   de   Derecho   Tributario   Parte   Especial.  Fernando  Pérez  Royo  y  otros.  Ed.  Tecnos  GPS  Fiscal.
+Domingo Carbajo Vasco. Ed. Tirant lo Blanch
+
+Editorial   Tecnos:   Legislación   Básica   del   Sistema   Tributario  Español  Editorial  Aranzadi:  Código
+Tributario    Editorial   La   Ley:   Código   Tributario   Ministerio   de   Hacienda:   Leyes   Tributarias.
+Recopilación   Normativa   Normativa   Básica   Ley   35/2006,  de  28  de  noviembre,  de  la  Ley  del  Impuesto
+sobre la Renta de las Personas Físicas
+
+Editorial   Tirant   Lo   Blanch:   Impuesto   sobre   la  Renta  de  las  Personas  Físicas,  Impuesto  sobre  el
+Patrimonio   e  Impuesto  sobre  la  Renta  de  los  No  Residentes.  Normativa  Estatal  Y  Autonómica  Editorial
+Tirant Lo Blanch: Ley General Tributaria y sus reglamentos de desarrollo
+
+Guía Fiscal. Centro de Estudios Financieros CEF
+
+Imposición   Directa   de   las   Personas   Físicas.  IRPF,  Impuesto  sobre  el  Patrimonio  e  Impuesto  sobre
+Sucesiones.   AAVV.,   Coord.   SÁNCHEZ  GALIANA,  J.A..  ed.  Técnica  AVICAM  (Granada),  IImpuesto  sobre  la
+renta de las personas físicas e impuesto sobre el patrimonio. Casos prácticos. Ed. CEF
+
+Legislación La consulta de la legislación positiva vigente resulta imprescindible para el estudio de
+la   Asignatura.  Existen  numerosas  colecciones  de  legislación  financiera  y  tributaria  en  el  mercado  y
+cualquiera de ellas sirve para preparar la Asignatura. Ésta debe estar actualizada
 
 Ley 19/1991, de 6 de junio, del Impuesto sobre el Patrimonio
+
+Manual de Derecho Tributario Parte Especial. Álvarez Martínez y otros. Ed. Aranzadi
+
+Manual de IRPF. Manuale Moron Cabrera. Manuales prácticos. AEAT
+
+Memento   Fiscal.   Francis   Lefebvre   Memento   Práctico   IRPF.   Francis  Lefebvre  Régimen  fiscal  de  la
+empresa. Malvárez Pascual y otros. Ed. Tecnos
 
 Orden   Orden  HFP/1359/2023,  de  19  de  diciembre,  por  la  que  se  desarrollan  para  el  año  2024  el  método
 de   estimación   objetiva   del   Impuesto  sobre  la  Renta  de  las  Personas  Físicas  y  el  régimen  especial
@@ -29,14 +52,11 @@ simplificado del Impuesto Sobre el Valor Añadido
 Real   Decreto   439/2007,   de   30  de  marzo,  por  el  que  se  aprueba  el  Reglamento  del  Impuesto  sobre  la
 Renta de las Personas Físicas
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Todo   Fiscal.   Francisco   M.   Mellado   Benavente  y  otros.  Ed.  La  Ley  (CISS)  Todo  Renta.  Francisco  M.
+Mellado Benavente y otros. Ed. La Ley (CISS)
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (14):
 ------------------------------
-Agencia Estatal del Boletín Oficial del Estado: Colección de Códigos Electrónicos de Legislación
-
 Bibliografía recomendada
 
 Colección de Códigos Electrónicos de Legislación
@@ -49,43 +69,21 @@ Editorial La Ley: Código Tributario
 
 Editorial Tecnos: Legislación Básica del Sistema Tributario Español
 
-Editorial   Tirant   Lo   Blanch:   Impuesto   sobre   la  Renta  de  las  Personas  Físicas,  Impuesto  sobre  el
-Patrimonio e Impuesto sobre la Renta de los No Residentes. Normativa Estatal Y Autonómica
-
-GPS Fiscal. Domingo Carbajo Vasco. Ed. Tirant lo Blanch
-
-Guía Fiscal. Centro de Estudios Financieros CEF
+Editorial Tirant Lo Blanch: Ley General Tributaria y sus reglamentos de desarrollo
 
 IImpuesto   sobre   la   renta  de  las  personas  físicas  e  impuesto  sobre  el  patrimonio.  Casos  prácticos.
 Ed. CEF
 
-Imposición   Directa   de   las   Personas   Físicas.  IRPF,  Impuesto  sobre  el  Patrimonio  e  Impuesto  sobre
-Sucesiones. AAVV., Coord. SÁNCHEZ GALIANA, J.A.. ed. Técnica AVICAM (Granada)
-
-La   consulta   de   la   legislación   positiva   vigente   resulta   imprescindible   para  el  estudio  de  la
-Asignatura.   Existen   numerosas   colecciones   de  legislación  financiera  y  tributaria  en  el  mercado  y
-cualquiera de ellas sirve para preparar la Asignatura. Ésta debe estar actualizada
-
 Ley 35/2006, de 28 de noviembre, de la Ley del Impuesto sobre la Renta de las Personas Físicas
 
-Manual de Derecho Tributario Parte Especial. Álvarez Martínez y otros. Ed. Aranzadi
-
 Manual de IRPF. Manuale Moron Cabrera
-
-Manuales prácticos. AEAT
-
-Memento Fiscal. Francis Lefebvre
 
 Memento Práctico IRPF. Francis Lefebvre
 
 Ministerio de Hacienda: Leyes Tributarias. Recopilación Normativa
 
-Normativa Básica
-
 Régimen fiscal de la empresa. Malvárez Pascual y otros. Ed. Tecnos
 
 Todo Fiscal. Francisco M. Mellado Benavente y otros. Ed. La Ley (CISS)
 
-Todo Renta. Francisco M. Mellado Benavente y otros. Ed. La Ley (CISS)
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 48% [████░░░░░░]

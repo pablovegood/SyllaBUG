@@ -2,11 +2,12 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ernout,   A.   -   Meillet,   A.,  1979:  Dictionaire  étymologique  de  la  langue  latine,  Paris  Leumann,  M.,
+1975: Lateinische Grammatik. II.2.1 Lateinische Laut- und Formenlehre, München
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Arribas   Hernáez,   M.ª   L.   -  Mariner  Bigorra,  S.  -  Montero  Montero  M.  -  Usábel  Hernández,  P.,  1990:
 Lengua y Literatura latinas I, Madrid
@@ -14,6 +15,9 @@ Lengua y Literatura latinas I, Madrid
 Baldi, Ph., 1999: The Foundations of Latin, Berlin - New York
 
 Ballester, X., 1996: Fonemática del latín clásico. Consonantismo, Zaragoza-Barcelona
+
+Bassols   de  Climent.  M.,  1962:  Fonética  latina,  con  un  apéndice  de  Fonemática  por  Sebastián  Mariner,
+Madrid
 
 Clackson, J., 2007: Indo-European Linguistics: An Introduction, Cambridge
 
@@ -25,7 +29,13 @@ Forstson, B. W., 2010: Indo-European Language and Culture. An Introduction, Wile
 
 López de Ayala y Genovés, M.ª J., 1991: Introducción a la ortografía latina, Madrid
 
+Molina   Yévenes,   J.,   1993:   Iniciación   a   la   fonética  y  morfología  latinas,  ed.  preparada  por  E.
+Borrell Vidal, Barcelona
+
 Monteil, P., 1970: Eléments de phonétique et de morphologie du latin, Paris
+
+Monteil, P., 2003 (= 1992): Elementos de fonética y morfología del latín, actualización y traducción
+española de C. Fernández, Sevilla
 
 Niedermann, M., 1985 (= 1953): Phonétique historique du latin, Paris
 
@@ -33,23 +43,10 @@ Sihler, A. L., 1995: New Comparative Grammar of Greek and Latin, New York
 
 Weiss, M., 2009: Outline of the Historical and Comparative Grammar of Latin, Ann Arbor
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Ernout,   A.   -   Meillet,   A.,  1979:  Dictionaire  étymologique  de  la  langue  latine,  Paris  Leumann,  M.,
-1975:   Lateinische   Grammatik.   II.2.1   Lateinische   Laut-   und   Formenlehre,  München  →  Ernout,  A.  -
-Meillet, A., 1979: Dictionaire étymologique de la langue latine, Paris
-
-✅ Recursos añadidos:
-------------------------------
-Bassols   de  Climent.  M.,  1962:  Fonética  latina,  con  un  apéndice  de  Fonemática  por  Sebastián  Mariner,
-Madrid
+Ernout, A. - Meillet, A., 1979: Dictionaire étymologique de la langue latine, Paris
 
 Leumann, M., 1975: Lateinische Grammatik. II.2.1 Lateinische Laut- und Formenlehre, München
 
-Molina   Yévenes,   J.,   1993:   Iniciación   a   la   fonética  y  morfología  latinas,  ed.  preparada  por  E.
-Borrell Vidal, Barcelona
-
-Monteil, P., 2003 (= 1992): Elementos de fonética y morfología del latín, actualización y traducción
-española de C. Fernández, Sevilla
-
-📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

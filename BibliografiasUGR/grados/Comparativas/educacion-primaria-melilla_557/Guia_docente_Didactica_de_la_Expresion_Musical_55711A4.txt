@@ -2,14 +2,13 @@
 Grado: educacion-primaria-melilla (557)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-M.E.C   .D.   Orden  ECD/686/2014,  de  23  de  abril,  por  la  que  se  establece  el  currículo  de  la  Educación
-Primaria   para   el   ámbito   de  gestión  del  Ministerio  de  Educación,  Cultura  y  deporte  y  se  regula  su
-consultas,   exposiciones   y   debates,   así   como  en  la  elaboración  de  los  trabajos  individuales  o  en
-equipo, y en las sesiones de puesta en común
+M.E.C.   D.   Ley   Orgánica   8/2013   de  9  de  diciembre,  para  la  mejora  de  la  calidad  educativa  (LOMCE)
+M.E.C. D. Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la
+Educación Primaria
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (56):
 ------------------------------
 AA.VV. (1981). Educación musical en Hungría. Madrid: Real Musical
 
@@ -92,30 +91,13 @@ la práctica de la enseñanza y del aprendizaje de la música. Madrid: Morata
 
 LORENTE, R. (1980). Expresión musical en preescolar y ciclo preparatorio. Madrid: Narcea
 
-MANEVEAU, G. (1993). Música y educación. Madrid: Rialp
-
-MARTENOT, M. (1992). Principios fundamentales de la educación musical y su aplicación. Madrid: Rialp
-
-PASCUAL, P. (2002). Didáctica de la Música para Primaria. Madrid: Pearson Educación
-
-SANJOSÉ HUGUET, V. (1997). Didáctica de la educación musical para maestros. Valencia: Piles
-
-WILLEMS, E. (1981). El valor humano de la educación musical. Barcelona: Paidós
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-M.E.C.   D.   Ley   Orgánica   8/2013   de  9  de  diciembre,  para  la  mejora  de  la  calidad  educativa  (LOMCE)
-M.E.C. D. Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la
-Educación   Primaria   →  M.E.C.  D.  Real  Decreto  126/2014,  de  28  de  febrero,  por  el  que  se  establece  el
-currículo básico de la Educación Primaria
-
-✅ Recursos añadidos:
-------------------------------
 M.E.C   .D.   Orden  ECD/686/2014,  de  23  de  abril,  por  la  que  se  establece  el  currículo  de  la  Educación
 Primaria   para   el   ámbito   de  gestión  del  Ministerio  de  Educación,  Cultura  y  deporte  y  se  regula  su
 implantación, así como la evaluación y determinados aspectos organizativos de la etapa
 
-M.E.C. D. Ley Orgánica 8/2013 de 9 de diciembre, para la mejora de la calidad educativa (LOMCE)
+MANEVEAU, G. (1993). Música y educación. Madrid: Rialp
+
+MARTENOT, M. (1992). Principios fundamentales de la educación musical y su aplicación. Madrid: Rialp
 
 MORENO,   L.V.   y   MÜLLER  G.,  A.  (2000).  La  Música  en  el  Aula.  Globalización  y  Programación.  Sevilla:
 Mad
@@ -129,9 +111,11 @@ Educación Musical. Sevilla: Mad
 
 ORIOL, N. y PARRA, J.M. (1979). La expresión musical en la educación básica. Madrid: Alpuerto
 
-Revista Eufonía
+PASCUAL, P. (2002). Didáctica de la Música para Primaria. Madrid: Pearson Educación
 
-Revista Música y Educación
+Revista Eufonía Revista Música y Educación
+
+SANJOSÉ HUGUET, V. (1997). Didáctica de la educación musical para maestros. Valencia: Piles
 
 SANUY, M. (1994). Aula Sonora (hacia una educación musical en primaria). Madrid: Morata
 
@@ -145,6 +129,8 @@ WARD, J. (1964). Método Ward. Bélgica: Desclée
 
 WILLEMS, E. (1976). La preparación musical de los más pequeños. Buenos Aires: Eudeba
 
+WILLEMS, E. (1981). El valor humano de la educación musical. Barcelona: Paidós
+
 WILLEMS, E. (1984). Las bases psicológicas de la educación musical. Buenos Aires: Eudeba
 
 WILLS, P. y PETER, M. (2000). Música para todos. Madrid. Akal
@@ -152,4 +138,13 @@ WILLS, P. y PETER, M. (2000). Música para todos. Madrid. Akal
 WUYTACK,   J.   y   BOAL-PALHEIROS,   G.   (1996).  Audición  musical  activa.  Oporto:  Asociación  Wuytack  de
 Pedagogía Musical. Libro del alumno y libro del profesor + CD
 
-📊 Porcentaje estimado de cambio: 47% [████░░░░░░]
+✅ Recursos añadidos (3):
+------------------------------
+M.E.C. D. Ley Orgánica 8/2013 de 9 de diciembre, para la mejora de la calidad educativa (LOMCE)
+
+M.E.C. D. Real Decreto 126/2014, de 28 de febrero, por el que se establece el currículo básico de la
+Educación Primaria
+
+Revista Eufonía
+
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

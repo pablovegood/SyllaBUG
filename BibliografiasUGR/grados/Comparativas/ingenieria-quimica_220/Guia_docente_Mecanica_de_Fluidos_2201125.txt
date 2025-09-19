@@ -2,11 +2,16 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Darby,   R.   Chemical   Engineering   Fluid   Mechanics.   (3er   Ed).  CRC  Press,  2016.  Enlace  King,  R.  P.
+Introduction   to   Practical   Fluid  Flow.  Butterworth-Heinemann,  2003.  Enlace  Mott,  R.  L.  Mecánica  de
+fluidos.   7ª   Ed.   Pearson   Educación,  2015.  Enlace  White,  F.  M.  Mecánica  de  fluidos.  6ª  Ed.  McGraw-
+Hill,   2008.   Enlace   Green,  W.;  Perry,  R.H.  Perry's  chemical  engineer's  handbook  (9th  Ed.).  McGraw-
+Hill,   Enlace   McCabe,   W.L.,  Smith,  J.C.;  Harriott,  P.  Operaciones  Unitarias  en  Ingeniería  Química.
+(7ª Ed). McGraw-Hill, 2007
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Abulencia, J.P., Theodore, L. Fluid Flow. Ed. John Wiley & Sons, Inc, 2009
 
@@ -19,18 +24,10 @@ Processes (6th Ed). Ed. Butterworth Heinemann, 2012
 Tropea,   C.,   Foss,  J.,  Yarin,  A.  Springer  Handbook  of  Experimental  Fluid  Mechanics.  Springer,  2007.
 Enlace
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Darby,   R.   Chemical   Engineering   Fluid   Mechanics.   (3er   Ed).  CRC  Press,  2016.  Enlace  King,  R.  P.
-Introduction   to   Practical   Fluid  Flow.  Butterworth-Heinemann,  2003.  Enlace  Mott,  R.  L.  Mecánica  de
-fluidos.   7ª   Ed.   Pearson   Educación,  2015.  Enlace  White,  F.  M.  Mecánica  de  fluidos.  6ª  Ed.  McGraw-
-Hill,   2008.   Enlace   Green,  W.;  Perry,  R.H.  Perry's  chemical  engineer's  handbook  (9th  Ed.).  McGraw-
-Hill,   2019.   Enlace   McCabe,   W.L.,   Smith,   J.C.;  Harriott,  P.  Operaciones  Unitarias  en  Ingeniería
-Química.   (7ª   Ed).   McGraw-Hill,   2007   →  Darby,  R.  Chemical  Engineering  Fluid  Mechanics.  (3er  Ed).
-CRC Press, 2016. Enlace
+Darby, R. Chemical Engineering Fluid Mechanics. (3er Ed). CRC Press, 2016. Enlace
 
-✅ Recursos añadidos:
-------------------------------
 Green, W.; Perry, R.H. Perry's chemical engineer's handbook (9th Ed.). McGraw-Hill, 2019. Enlace
 
 King, R. P. Introduction to Practical Fluid Flow. Butterworth-Heinemann, 2003. Enlace
@@ -42,4 +39,4 @@ Mott, R. L. Mecánica de fluidos. 7ª Ed. Pearson Educación, 2015. Enlace
 
 White, F. M. Mecánica de fluidos. 6ª Ed. McGraw-Hill, 2008. Enlace
 
-📊 Porcentaje estimado de cambio: 85% [████████░░]
+📊 Porcentaje estimado de cambio: 70% [███████░░░]

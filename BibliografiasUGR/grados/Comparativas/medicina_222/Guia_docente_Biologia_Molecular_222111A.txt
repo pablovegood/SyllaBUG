@@ -2,12 +2,11 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Editorial   Omega.   técnicas   y   aplicaciones   en   ciencias   de   la  salud.  Ángel  Harráez,  A.  Biología
-Molecular e 1.Genetics A Conceptual Approach. Benjamin A. Pierce. 2014. 5th Edition. Editorial W. H
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Biochemestry.   Christopher   K.  Mathews,  K.  E.  Van  Holde,  Dean  R.  Appling,  Spencer  J.  Anthony-Cahill.
 2013. 5th Edition. Editorial Pearson Canada Inc
@@ -31,30 +30,28 @@ Francis Group
 
 Functional Biochemistry in Healt and disease. Newsholme, Eric. 2010. Editorial Wiley-Blackwell
 
+Genetics   A   Conceptual  Approach.  Benjamin  A.  Pierce.  2014.  5th  Edition.  Editorial  W.  H.  Freeman  and
+Company
+
+Genética Médica. Jorde, L.B., Carey, J.C. y Bamshad, M.J. 2011. 4ª Edición. Editorial Elsevier
+
 Harper's   Illustrated  Biochemistry.  Victor  W.  Rodwell,  David  A.  Bender,  Kathleen  M.  Botham,  Peter  J.
 Kennelly, P. Anthony Weil. 2018. 31st Edition. Editorial Mc Graw Hill
 
 Lehninger.   Principios   de  Bioquímica.  David  L.  Nelson  y  Michael  M.  Cox.  2018.  7ª  Edición.  Editorial
 Omega
 
-Molecular pathology. Coleman, W.B. y Tsongalis, G.J. 2009. Editorial Academic Press Elsevier. Oxford
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Anthony-Cahill.   2013.   5th  Edition.  Editorial  Pearson  Canada  Inc  5.Marks.  Bioquímica  Médica  Básica.
-Un   enfoque   clínico.   Michael   Lieberman,   Alisa  Peet,  2018.  5ª  Edición.  Editorial  Wolters  Kluwer  →
 Marks.   Bioquímica   Médica   Básica.   Un   enfoque   clínico.   Michael   Lieberman,  Alisa  Peet,  2018.  5ª
 Edición. Editorial Wolters Kluwer
 
-✅ Recursos añadidos:
-------------------------------
-Genetics   A   Conceptual  Approach.  Benjamin  A.  Pierce.  2014.  5th  Edition.  Editorial  W.  H.  Freeman  and
-Company
-
-Genética Médica. Jorde, L.B., Carey, J.C. y Bamshad, M.J. 2011. 4ª Edición. Editorial Elsevier
+Molecular pathology. Coleman, W.B. y Tsongalis, G.J. 2009. Editorial Academic Press Elsevier. Oxford
 
 Texto   ilustrado   e   interactivo   de  Biología  molecular  e  ingeniería  genética.  Conceptos,  técnicas  y
 aplicaciones   en   ciencias   de  la  salud.  Ángel  Harráez,  A.  Biología  Molecular  e  Ingeniería  Genética.
 2012. 2ª Edición. Editorial Elsevier
 
-📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

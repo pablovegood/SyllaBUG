@@ -2,25 +2,18 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Rouse,   M.   (2016).   Neuroanatomy   for   speech-language   pathology   and   audiology.  Jones  &  Bartlett
+Learning Smith, G.E. (2013). Mild cognitive impairment and dementia. OUP
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (53):
 ------------------------------
 Adams,   R.,   Victor,   M.   y  Ropper,  A.  H.  (1998).  Principios  de  neurología  (6ª  Edición).  McGraw-Hill
 Interamericana
 
 Arendó,   M.   Montoro,   Bembibre   Serrano  J.,  Triviño  Mosquera  M.  (2013).  Neuropsicología  a  través  de
 casos clínicos. Editorial Medica Panamericana
-
-Arnedo,   M.L.   Bembibre,   J.   y   Triviño,   M.   (2013).   Neuropsicología   a  través  de  casos  clínicos.
-Editorial Médica Panamericana
-
-Balconi, M (2010). Neuropsychology of communication. Springer
-
-Barroso,   J.   y   Nieto,   A.   (2009).El   lenguaje   y   sus   alteraciones:  afasias,  alexias,  agrafias  y
-aprosodias. Dentro de C. Junqué y J.Barroso (Ed.), Manual de Neuropsicología (pp. 125-135). Síntesis
 
 Batalla, K., David, P., & Mena, A. (2015). Sindrome de Landau-Kleffner. Revista Chilena de Epilepsia
 Año, 15(2)
@@ -30,6 +23,15 @@ Encyclopedia of Clinical Neuropsychology. New York: Springer
 
 Benedet,   M.   J.   (2003).   Alteraciones  de  la  comunicación  verbal  y  alteraciones  del  lenguaje  en  las
 demencias corticales (I). Estado actual de la investigación. Revista de Neurología, 10, 966-79
+
+Bibliografía complementaria por temas Barroso, J. y Nieto, A. (2009).El lenguaje y sus alteraciones:
+afasias,   alexias,   agrafias   y   aprosodias.   Dentro   de   C.   Junqué   y   J.Barroso   (Ed.),  Manual  de
+Neuropsicología (pp. 125-135). Síntesis
+
+Bibliografía en español: Arnedo, M.L. Bembibre, J. y Triviño, M. (2013). Neuropsicología a través de
+casos clínicos. Editorial Médica Panamericana
+
+Bibliografía en inglés: Balconi, M (2010). Neuropsychology of communication. Springer
 
 Boller, F., y Grafman, J. (1990). Handbook of neuropsychology. Elsevier
 
@@ -143,13 +145,7 @@ Webb, W. y Ader, R.K. (2010). Neurología para el logopeda. Elsevier
 Ziegler,   W.,   &   Ackermann,   H.   (2017).   Subcortical   contributions  to  motor  speech:  phylogenetic,
 developmental, clinical. Trends in Neurosciences, 40(8), 458-468
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Rouse,   M.   (2016).   Neuroanatomy   for   speech-language   pathology   and   audiology.  Jones  &  Bartlett
-Learning   Smith,   G.E.   (2013).   Mild   cognitive   impairment  and  dementia.  OUP  →  Smith,  G.E.  (2013).
-Mild cognitive impairment and dementia. OUP
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Bibliografía complementaria por temas
 
@@ -160,4 +156,6 @@ Bibliografía en inglés
 Rouse,   M.   (2016).   Neuroanatomy   for   speech-language   pathology   and   audiology.  Jones  &  Bartlett
 Learning
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+Smith, G.E. (2013). Mild cognitive impairment and dementia. OUP
+
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

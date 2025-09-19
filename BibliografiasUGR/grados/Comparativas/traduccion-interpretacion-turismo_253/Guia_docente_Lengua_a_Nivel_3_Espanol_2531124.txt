@@ -2,11 +2,35 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
+Company Company, C. (2016). La lengua española en América. Revista de la Universidad de México, 144,
+34-39,
+https://www.revistadelauniversidad.mx/download/6ede6a6fb7ae-4954-b9aa-97556205a196?filename=la-
+lengua-espanola-en-america   Díaz-Campos,   M.   (2014).   Introducción  a  la  sociolingüística  hispánica.
+Wiley Blackwell
 
-📚 Recursos sin cambios:
+Moreno   Fernández,   F.   (2020).   Los   «ismos»   nacionales  de  la  lengua  española.  Listado  por  países,
+Boletín   de   la   Real  Academia  Española,  tomo  C,  cuaderno  CCCXXII,  julio-diciembre  de  2020,  543-614.
+http://revistas.rae.es/brae/article/view/440   Moreno   Fernández,   F.   (2017).   Las   variedades  de  la
+lengua española y su enseñanza. Arco/Libros
+
+Narbona, A., Cano, R., y Morillo, R. (2011). El español hablado en Andalucía. Universidad de Sevilla
+
+http://www.aselered.org/Panhispanismo-y-variedades-en-la-ensenanza-del-espanolL2-LE.pdf       Baquero
+Velásquez,   J.  M.  y  Westphal  Montt,  G.  F-.  (2014).  Un  análisis  sincrónico  del  voseo  verbal  chileno  y
+rioplatense.   Forma   y   Función,   27(29),   11-40.   https://doi.org/10.15446/fyf.v27n2.47558  Briz,  A.
+(2017). El español coloquial: Situación y uso, 7.ª edición. Arco/Libros
+
+https://alojaservicios.us.es/difuseditorial/free/26-03-2020/Espa_hablado_Andalucia.pdf    Penny,    R.
+(2004). Variación y cambio en español. Gredos
+
+https://digibug.ugr.es/handle/10481/63201   Díaz-Bravo,   R.   (2018).   Las  Humanidades  Digitales  y  los
+corpus   diacrónicos   en   línea   del   español:  problemas  y  sugerencias.  En  L.  Bocanegra,  y  E.  Romero-
+Frías,   Ciencias  Sociales  y  Humanidades  Publishing.  https://digibug.ugr.es/handle/10481/63214  Donoso
+Jiménez, I. (Ed.). (2012). Historia cultural de la lengua española en Filipinas: ayer y hoy. Verbum
+
+📚 Recursos sin cambios (56):
 ------------------------------
 Aleza Izquierdo, M. (2013). La unidad de la lengua en la pluralidad de normas. En M. Aleza Izquierdo
 (Coord.), Normas y usos correctos en el español actual (pp. 56-74). Tirant Humanidades. [Capítulo 2:
@@ -16,8 +40,6 @@ Aleza Izquierdo, M. y Enguita Utrilla, J. M. (Coords.) (2010). La lengua españo
 y usos actuales. Universitat de València. https://www.uv.es/aleza/esp.am.pdf
 
 Alvar, Manuel (Dir.). (2009). Manual de dialectología hispánica. El español de España. Ariel
-
-Alvar, Manuel (Dir.). (2010) Manual de dialectología hispánica. El español de América. Ariel
 
 Balmaseda   Maestu,   E.,   F.   García   Andreva   y   M.   Martínez   López  (Eds.).  (2017).  Panhispanismo  y
 variedades   en   la   enseñanza   del   español   L2-LE.   ASELE   y   Fundación   San   Millán  de  la  Cogolla.
@@ -55,13 +77,7 @@ https://www.tandfonline.com/doi/full/10.1080/01439685.2020.1766277
 
 Félix-Brasdefer, J. C. (2019). Pragmática del español: contexto, uso y variación. Routledge
 
-García   Luque:   F.   (2020).   La   variación   dialectal   en   el   doblaje   al   español  de  la  saga  Hotel
-Transylvania. Sendebar, 31, 33-50. https://revistaseug.ugr.es/index.php/sendebar/article/view/11838
-
 Gutiérrez-Rexach, J. (2016). Enciclopedia de Lingüística Hispánica. Routledge
-
-Gómez   de   Enterría,   J.   (2009).   El   español   lengua   de   especialidad:   enseñanza   y  aprendizaje.
-Arco/Libros
 
 Hualde,   J.  I.  (2014).  Los  sonidos  del  español.  (pp.  283-300).  Cambridge  University  Press.  [Capítulo
 14 (“Variación en la pronunciación del español”])
@@ -127,9 +143,10 @@ hispánica   actual:  teoría  y  práctica.  (pp.  289-433).  Routledge.  [Cap�
 la   evolución   del   idioma)  y  capítulo  7  (“Variación:  diversidad  lingüística  y  dialectal  en  el  mundo
 hispanohablante”)]
 
-Penny, R. (2000). Variation and change in Spanish. Cambridge University Press
+Normas   y   usos   actuales.  Universitat  de  València.  https://www.uv.es/aleza/esp.am.pdf  Alvar,  Manuel
+(Dir.). (2010) Manual de dialectología hispánica. El español de América. Ariel
 
-Penny, R. (2004). Variación y cambio en español. Gredos
+Penny, R. (2000). Variation and change in Spanish. Cambridge University Press
 
 Potowski, K. y Shin, N. (2019). Gramática Española: Variación social. Routledge
 
@@ -162,66 +179,57 @@ glotopolítica del español. Lengua de trapo
 
 Zamora, J. y Guitart, J. (1988). Dialectología hispanoamericana. Almar
 
-Ávila,   R.  (2008).  Los  increíbles:  doblajes  y  subtítulos.  En  E.  Mendoza  Guerrero,  M.  López  Berrios  e
-I.   E.   Moreno   Rojas   (Eds.),   Estudios  Lingüísticos  y  Literarios  del  Noroeste,  vol.  I  (pp.  11-32).
-Universidad Autónoma de Sinaloa
+http://www.scielo.org.mx/pdf/nrfh/v64n2/2448-6558-nrfh-64-02-00495.pdf    Ávila,    R.    (2008).    Los
+increíbles:   doblajes   y   subtítulos.   En  E.  Mendoza  Guerrero,  M.  López  Berrios  e  I.  E.  Moreno  Rojas
+(Eds.), Estudios Lingüísticos y Literarios del Noroeste, vol. I (pp. 11-32). Universidad Autónoma de
+Sinaloa
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-L2-LE.pdf Baquero Velásquez, J. M. y Westphal Montt, G. F-. (2014). Un análisis sincrónico del voseo
-verbal   Briz,   A.  (2017).  El  español  coloquial:  Situación  y  uso,  7.ª  edición.  Arco/Libros  →  Briz,  A.
-(2017). El español coloquial: Situación y uso, 7.ª edición. Arco/Libros
+https://revistas.uca.es/index.php/pragma/article/view/4812
 
-Company   Company,   C.   (2016).   La   lengua   española   en   América.   Revista   de   la   Universidad   de
-b7ae-4954-b9aa-97556205a196?filename=la-lengua-espanola-en-america      Díaz-Campos,     M.     (2014).
-Introducción    a    la    sociolingüística   hispánica.   Wiley   Blackwell   →   Díaz-Campos,   M.   (2014).
-Introducción a la sociolingüística hispánica. Wiley Blackwell
+https://revistaseug.ugr.es/index.php/sendebar/article/view/11838   Gómez   de   Enterría,  J.  (2009).  El
+español lengua de especialidad: enseñanza y aprendizaje. Arco/Libros
 
-Narbona, A., Cano, R., y Morillo, R. (2011). El español hablado en Andalucía. Universidad de Sevilla
-→   Narbona,   A.,   Cano,   R.,   y   Morillo,  R.  (2011).  El  español  hablado  en  Andalucía.  Universidad  de
-Sevilla. https://alojaservicios.us.es/difuseditorial/free/26-03-2020/Espa_hablado_Andalucia.pdf
+https://www.tandfonline.com/doi/full/10.1080/01439685.2020.1766277    García   Luque:   F.   (2020).   La
+variación dialectal en el doblaje al español de la saga Hotel Transylvania. Sendebar, 31, 33-50
 
 Ávalos, F. (2019). Doblaje al español latino: una mirada glotopolítica. Revista Digital de Políticas
+Lingüísticas (RDPL), 11, 21-35. https://revistas.unc.edu.ar/index.php/RDPL/article/view/26704
+
 Ávila,   R.   (2016).   La  publicación  del  español  en  la  radio  de  veinte  países  hispánicos:  comentarios
-deportivos   espontáneos.   Nueva   Revista   de   Filología  Hispánica  (NRFH),  64(2),  495-509  →  Ávila,  R.
-(2016).   La   publicación  del  español  en  la  radio  de  veinte  países  hispánicos:  comentarios  deportivos
-espontáneos.      Nueva      Revista      de     Filología     Hispánica     (NRFH),     64(2),     495-509.
+deportivos    espontáneos.    Nueva    Revista    de    Filología    Hispánica    (NRFH),   64(2),   495-509.
 http://www.scielo.org.mx/pdf/nrfh/v64n2/2448-6558-nrfh-64-02-00495.pdf
 
-Díaz-Bravo,   R.   (2018).   Las   Humanidades   Digitales  y  los  corpus  diacrónicos  en  línea  del  español:
-problemas   y   sugerencias.   En   L.   Bocanegra,   y   E.   Romero-Frías,  Ciencias  Sociales  y  Humanidades
-Digitales   Aplicadas.   Casos   de   estudio  y  perspectivas  críticas.  Universidad  de  Granada  y  Downhill
-Donoso   Jiménez,   I.  (Ed.).  (2012).  Historia  cultural  de  la  lengua  española  en  Filipinas:  ayer  y  hoy
-→   Donoso   Jiménez,   I.   (Ed.).  (2012).  Historia  cultural  de  la  lengua  española  en  Filipinas:  ayer  y
-hoy. Verbum
-
-Moreno   Fernández,   F.   (2020).   Los   «ismos»   nacionales  de  la  lengua  española.  Listado  por  países,
-Boletín   de   la   Real   Academia   Española,  tomo  C,  cuaderno  CCCXXII,  julio-diciembre  de  2020,  Moreno
-Fernández,   F.   (2017).   Las   variedades   de  la  lengua  española  y  su  enseñanza.  Arco/Libros  →  Moreno
-Fernández,   F.   (2020).  Los  «ismos»  nacionales  de  la  lengua  española.  Listado  por  países,  Boletín  de
-la    Real    Academia    Española,   tomo   C,   cuaderno   CCCXXII,   julio-diciembre   de   2020,   543-614.
-http://revistas.rae.es/brae/article/view/440
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (10):
 ------------------------------
 Baquero   Velásquez,   J.   M.  y  Westphal  Montt,  G.  F-.  (2014).  Un  análisis  sincrónico  del  voseo  verbal
 chileno y rioplatense. Forma y Función, 27(29), 11-40. https://doi.org/10.15446/fyf.v27n2.47558
+
+Briz, A. (2017). El español coloquial: Situación y uso, 7.ª edición. Arco/Libros
 
 Company Company, C. (2016). La lengua española en América. Revista de la Universidad de México, 144,
 34-39,
 https://www.revistadelauniversidad.mx/download/6ede6a6f-b7ae-4954-b9aa-97556205a196?filename=la-
 lengua-espanola-en-america
 
+Donoso   Jiménez,  I.  (Ed.).  (2012).  Historia  cultural  de  la  lengua  española  en  Filipinas:  ayer  y  hoy.
+Verbum
+
 Díaz-Bravo,   R.   (2018).   Las   Humanidades   Digitales  y  los  corpus  diacrónicos  en  línea  del  español:
 problemas   y   sugerencias.   En   L.   Bocanegra,   y   E.   Romero-Frías,  Ciencias  Sociales  y  Humanidades
 Digitales   Aplicadas.   Casos   de   estudio  y  perspectivas  críticas.  Universidad  de  Granada  y  Downhill
 Publishing. https://digibug.ugr.es/handle/10481/63214
 
+Díaz-Campos, M. (2014). Introducción a la sociolingüística hispánica. Wiley Blackwell
+
 Moreno Fernández, F. (2017). Las variedades de la lengua española y su enseñanza. Arco/Libros
 
-https://raulavila.colmex.mx//docs/Los%20Increibles.pdf
+Moreno   Fernández,   F.   (2020).   Los   «ismos»   nacionales  de  la  lengua  española.  Listado  por  países,
+Boletín   de   la   Real  Academia  Española,  tomo  C,  cuaderno  CCCXXII,  julio-diciembre  de  2020,  543-614.
+http://revistas.rae.es/brae/article/view/440
 
-Ávalos, F. (2019). Doblaje al español latino: una mirada glotopolítica. Revista Digital de Políticas
-Lingüísticas (RDPL), 11, 21-35. https://revistas.unc.edu.ar/index.php/RDPL/article/view/26704
+Narbona,   A.,   Cano,   R.,   y   Morillo,   R.   (2011).   El  español  hablado  en  Andalucía.  Universidad  de
+Sevilla. https://alojaservicios.us.es/difuseditorial/free/26-03-2020/Espa_hablado_Andalucia.pdf
 
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+Penny, R. (2004). Variación y cambio en español. Gredos
+
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

@@ -2,12 +2,12 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 LEILA.   Casada   a   la   fuerza.   Una   mujer   nacida   en   Occidente  sometida  a  la  tradición  musulmana.
 Editorial Martínez Roca, 2005
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (54):
 ------------------------------
 AGUILERA   BARCHET,   Bruno.   Iniciación   histórica  al  Derecho  Musulmán,  seguida  de  un  ensayo  sobre  la
 historia jurídica de al-Andalus. Madrid: Dykinson, 2007
@@ -29,15 +29,23 @@ BOUSQUET, G.-H. Le Droit musulman. Argel, 1963
 
 COULSON, N.J. Historia del Derecho islámico. Barcelona: Bellaterra, 1998
 
+DICCIONARIOS   DE   TÉRMINOS   JURÍDICOS:   RAE.   Diccionario   panhispánico   del  español  jurídico.  UNED.
+Diccionario jurídico
+
+DICCIONARIOS   ESPECÍFICOS:   EL   GHAZOOUNI,   Abdellatif  Aquessim.  Diccionario  jurídico  español-árabe.
+Málaga: Comares, 2006
+
 DIEN,   Mawil   Izzi.   Islamic   Law.   From  Historical  Foundations  to  Contemporary  Practice.  Edimburgo:
 Edinburgh University Press, 2004
 
-ESPOSITO, John L. Women in Muslim Family Law. Syracuse University Press, 2001, 2ª ed
+DUPRET, Baudouin. La sharía. Orígenes, desarrollo y usos contemporáneos. Barcelona: Bellaterra, 2015
 
-El Corán. Edición y traducción de Julio Cortés. Nueva York: 1992
+ESPOSITO, John L. Women in Muslim Family Law. Syracuse University Press, 2001, 2ª ed
 
 FAHRI,   Ahmed.   Fatwas  and  court  judgments:  a  genre  analysis  of  Arabic  legal  opinion.  The  Ohio  State
 University Press, 2014
+
+FERIA GARCÍA, Manuel. Diccionario de términos jurídicos árabe-español. Barcelona: Ariel, 2006
 
 FIERRO, M. (coord.). Repertorio bibliográfico de Derecho islámico. Murcia, 1999
 
@@ -46,6 +54,8 @@ FIERRO,   M.   “Repertorio   bibliográfico  de  derecho  islámico.  1”.  C
 
 FIERRO,   Maribel   y   TOLAN,   John.   The  legal  status  of  Dimmi-s  in  the  Islamic  west:  (second/eighth-
 ninth/fifteenth centuries). Brepols, 2013
+
+FUENTES: El Corán. Edición y traducción de Julio Cortés. Nueva York: 1992
 
 GARCÍA   CRUZ,   José   Fernando.   Un   análisis  del  derecho  islámico.  La  escuela  duodecimana  o  YA`FARÎ.
 Historia   del   pensamiento   y   la   doctrina   jurídica  y  teoría  general  de  la  ley  islámica.  Cáceres  :
@@ -142,21 +152,9 @@ WAËL, Henri de. Le droit musulman: nature et évolution. París: C.H.E.A.M., 19
 YOUSSEF,   Olfa.   The   Perplexity   of   a  Muslim  Woman:  Over  Inheritance,  Marriage,  and  Homosexuality.
 Trad. Lamia Benyoussef. Lanham, md: Lexington Books/Rowman & Littlefield Publishers, 2017
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-DICCIONARIOS DE TÉRMINOS JURÍDICOS
-
 DICCIONARIOS ESPECÍFICOS
-
-DUPRET, Baudouin. La sharía. Orígenes, desarrollo y usos contemporáneos. Barcelona: Bellaterra, 2015
-
-EL GHAZOOUNI, Abdellatif Aquessim. Diccionario jurídico español-árabe. Málaga: Comares, 2006
-
-FERIA GARCÍA, Manuel. Diccionario de términos jurídicos árabe-español. Barcelona: Ariel, 2006
 
 GÓMEZ GARCÍA, Luz. Diccionario de islam e islamismo. Madrid: Espasa, 2009
 
@@ -164,4 +162,4 @@ RAE. Diccionario panhispánico del español jurídico
 
 UNED. Diccionario jurídico
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

@@ -2,11 +2,15 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Marín   Martínez,   T.   (dir):   Paleografía  y  Diplomática.  Madrid,  2002  Millares  Carlo,  A.:  Tratado  de
+Paleografía   española.   Madrid,   1983   Millares   Carlo,   A.-   Mantecón,   J.I:   Album   de  Paleografía
+Hispanoamericana.   México,   1955   Riesco   Terrero,   A.:   Introducción  a  la  Paleografía  y  Diplomática
+General.   Madrid,   1999   Romero   Tallafigo,   M.:  Historia  del  documento  en  la  Edad  Contemporánea:  la
+comunicación y la representación del poder central de la nación, Ediciones S & C, Carmona, 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 Alberch   Fugueras,  R.  y  Cruz  Mundet,  J.R.:  La  aventura  de  la  información.  De  los  manuscritos  del  Mar
 Muerto al imperio Gates, Madrid, 2004
@@ -34,18 +38,11 @@ Ruiz García, E.: Manual de Codicología. Madrid, Fundación Germán Sánchez Ru
 
 Álvarez Pinedo, F. J., y Rodríguez de Diego J.L.: Los Archivos Españoles. Simancas, Madrid, 1993
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Marín   Martínez,   T.   (dir):   Paleografía  y  Diplomática.  Madrid,  2002  Millares  Carlo,  A.:  Tratado  de
-Paleografía   española.   Madrid,   1983   Millares   Carlo,   A.-   Mantecón,   J.I:   Album   de  Paleografía
-Hispanoamericana.   México,   1955   Riesco   Terrero,   A.:   Introducción  a  la  Paleografía  y  Diplomática
-General.   Madrid,   1999   Romero   Tallafigo,   M.:  Historia  del  documento  en  la  Edad  Contemporánea:  la
-comunicación   y   la   representación  del  poder  central  de  la  nación,  Ediciones  S  &  C,  Carmona,  2002  →
-Millares Carlo, A.- Mantecón, J.I: Album de Paleografía Hispanoamericana. México, 1955
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Marín Martínez, T. (dir): Paleografía y Diplomática. Madrid, 2002
+
+Millares Carlo, A.- Mantecón, J.I: Album de Paleografía Hispanoamericana. México, 1955
 
 Millares Carlo, A.: Tratado de Paleografía española. Madrid, 1983
 
@@ -54,4 +51,4 @@ Riesco Terrero, A.: Introducción a la Paleografía y Diplomática General. Madr
 Romero   Tallafigo,   M.:   Historia   del   documento   en   la   Edad   Contemporánea:  la  comunicación  y  la
 representación del poder central de la nación, Ediciones S & C, Carmona, 2002
 
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

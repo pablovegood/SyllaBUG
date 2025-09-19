@@ -1,9 +1,0 @@
--Baker, A. Matrix groups. An introduction to Lie Group Theory, Springer, 1989.
--Hall, B. C. Lie Groups, Lie Algebras, and Representations. An elementary introduction. Springer, 2003.
--Humpreys, J. E. Introduction to Lie Algebras and Representation Theory, Springer, 1990.
--Isham, C. J. Modern Differential Geometry for Physics, World Scientific, 2001.
--Postnikov, M. Lectures in Geometry, Semester V. Lie Groups and Lie Algebras, URSS Publishers Moscow, 1986.
--Varadarajan, V. S. Lie Groups, Lie Algebras and their Representations, Springer, 1984.
--Fonda, L and Ghirardi, G. Symmetry principles in quantum physics, Marcel Dekker, New York (1970)
--Hamermesh, M. Group theory and its application to physical problems, Dover Publications (1989)
--Greiner, W. and Muller, B. Quantum Mechanics: Symmetries, Springer (1994)

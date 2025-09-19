@@ -2,11 +2,20 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Gamble,   C.   (2001):   Las   sociedades   paleolíticas   de  Europa.  Ariel.  Barcelona  Fernández  Martínez,
+Victor M. (2007): Prehistoria. El largo camino de la humanidad. Alianza Editorial, Madrid
 
-📚 Recursos sin cambios:
+Harding,   A.F.   (2003):  Sociedades  europeas  de  la  Edad  del  Bronce.  Ariel,  Barcelona  López  García,  P.
+(coord.) (2017): La Prehistoria en la península Ibérica. Istmo, Madrid
+
+Ripoll   López,   S.;Roberto  Bárcena,  J.;  Jordá  Pardo,  J.F.;  Maíllo  Fernández,  J.M.;  Muñoz  Ibáñez,  F.;
+Quesada   López,   J.M.(2014):   Prehistoria   I.   Las   primeras   etapas  de  la  Humanidad.  Uned-Editorial
+Universitaria Ramón Areces, Madrid. (2ª edición) Agustí, J.; Antón, M. (2013): La gran migración. La
+evolución humana más allá de África. Crítica, Barcelona
+
+📚 Recursos sin cambios (16):
 ------------------------------
 Carbonell,   E.   (coord.)   (2005):   Homínidos:   las   primeras   ocupaciones  de  los  continentes.  Ariel.
 Barcelona
@@ -21,9 +30,6 @@ Díez   Martín,   F.   (2005):   El   largo   viaje.   Arqueología   de   los 
 migraciones. Bellaterra. Barcelona
 
 Eiroa, J.J. (2010): Prehistoria del mundo. Sello Editorial, Madrid
-
-Fernández   Martínez,   Victor   M.   (2007):   Prehistoria.   El   largo   camino   de  la  humanidad.  Alianza
-Editorial, Madrid
 
 Fernández   Vega,   A.   (Coord);   Hernando,   A.,  Maillo  J.M.,  Muñoz,  F.J.,  Quesada,  J.M.  y  RipollL,  S.
 (2015):   Prehistoria   II.   Las   sociedades   metalúrgicas.  Editorial  Universitaria  Ramón  Areces-Uned,
@@ -53,25 +59,17 @@ Rouse, I. (2005): Introducción a la Prehistoria, Bellaterra, Barcelona
 
 Vega Toscano, G. (2003): La Prehistoria. Editorial Síntesis
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Harding,   A.F.   (2003):  Sociedades  europeas  de  la  Edad  del  Bronce.  Ariel,  Barcelona  López  García,  P.
-(coord.)   (2017):   La   Prehistoria   en   la   península  Ibérica.  Istmo,  Madrid  →  Harding,  A.F.  (2003):
-Sociedades europeas de la Edad del Bronce. Ariel, Barcelona
+Agustí,   J.;   Antón,   M.  (2013):  La  gran  migración.  La  evolución  humana  más  allá  de  África.  Crítica,
+Barcelona
 
-Gamble,   C.   (2001):   Las   sociedades   paleolíticas   de  Europa.  Ariel.  Barcelona  Fernández  Martínez,
-Victor   M.   (2007):   Prehistoria.   El   largo   camino  de  la  humanidad  →  Fernández  Martínez,  Victor  M.
-(2007): Prehistoria. El largo camino de la humanidad. Alianza Editorial, Madrid
+Fernández   Martínez,   Victor   M.   (2007):   Prehistoria.   El   largo   camino   de  la  humanidad.  Alianza
+Editorial, Madrid
 
-Ripoll   López,   S.;Roberto  Bárcena,  J.;  Jordá  Pardo,  J.F.;  Maíllo  Fernández,  J.M.;  Muñoz  Ibáñez,  F.;
-Quesada   López,   J.M.(2014):   Prehistoria   I.   Las   primeras   etapas  de  la  Humanidad.  Uned-Editorial
-Universitaria Ramón Areces, Madrid. (2ª edición) Agustí, J.; Antón, M. (2013): La gran migración. La
-evolución   humana   más   allá   de   África   →   Agustí,   J.;   Antón,   M.   (2013):  La  gran  migración.  La
-evolución humana más allá de África. Crítica, Barcelona
-
-✅ Recursos añadidos:
-------------------------------
 Gamble, C. (2001): Las sociedades paleolíticas de Europa. Ariel. Barcelona
+
+Harding, A.F. (2003): Sociedades europeas de la Edad del Bronce. Ariel, Barcelona
 
 López García, P. (coord.) (2017): La Prehistoria en la península Ibérica. Istmo, Madrid
 
@@ -79,4 +77,4 @@ Ripoll   López,   S.;Roberto  Bárcena,  J.;  Jordá  Pardo,  J.F.;  Maíllo  F
 Quesada   López,   J.M.(2014):   Prehistoria   I.   Las   primeras   etapas  de  la  Humanidad.  Uned-Editorial
 Universitaria Ramón Areces, Madrid. (2ª edición)
 
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

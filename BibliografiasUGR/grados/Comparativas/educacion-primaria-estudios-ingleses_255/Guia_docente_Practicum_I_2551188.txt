@@ -2,12 +2,20 @@
 Grado: educacion-primaria-estudios-ingleses (255)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
+Martínez-Figueira,   E.   &   Raposo-Rivas,  M.  (Eds.)  (2019).  Kit  de  supervivencia  para  el  Prácticum  de
+Educación Infantil y Primaria. Universitas
+
+Pérez-García, P., Domingo Segovia, J., Hernández Ríos, M. L., Latorre-Medina, M. J., López López, M.
+D. C., Molina Ruiz, E., y Montes Moreno, S. (2013).Tutorización académica durante el prácticum de la
+titulación      de      grado      de      educación      primaria     para     la     ética     profesional.
+https://digibug.ugr.es/handle/10481/28427
+
 Ramírez   Fernández,   S.   (coord.)   (2011).   El   prácticum   en   Educación  Infantil,  Primaria  y  Máster
 Secundaria, tendencias y buenas prácticas. EOS
 
@@ -18,20 +26,8 @@ Zabalza,   M.A.,   Montero,   L.   y   Cabreiro,   B.   (Coords)   (1995).   El 
 profesionales:   problemas   y   desafíos.   Universidades   de   Santiago   de  Compostela,  Departamento  de
 Didáctica e Organización Escolar
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Pérez-García, P., Domingo Segovia, J., Hernández Ríos, M. L., Latorre-Medina, M. J., López López, M.
-D. C., Molina Ruiz, E., y Montes Moreno, S. (2013).Tutorización académica durante el prácticum de la
-titulación   de   grado   de  educación  primaria  para  la  Martínez-Figueira,  E.  &  Raposo-Rivas,  M.  (Eds.)
-(2019).   Kit   de   supervivencia   para   el   Prácticum  de  Educación  Infantil  y  Primaria.  Universitas  →
-Martínez-Figueira,   E.   &   Raposo-Rivas,  M.  (Eds.)  (2019).  Kit  de  supervivencia  para  el  Prácticum  de
-Educación Infantil y Primaria. Universitas
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Pérez-García, P., Domingo Segovia, J., Hernández Ríos, M. L., Latorre-Medina, M. J., López López, M.
-D. C., Molina Ruiz, E., y Montes Moreno, S. (2013).Tutorización académica durante el prácticum de la
-titulación      de      grado      de      educación      primaria     para     la     ética     profesional.
-https://digibug.ugr.es/handle/10481/28427
-
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

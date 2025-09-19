@@ -2,11 +2,13 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+KELLY,   K.  (2009):  Geography.  Elt  Integrated  Learning  Series.  Macmillian  vocabulary  practice  series.
+Vocabulary Practice. Macmillan Education, LABASSE, J. (1987): La organización del espacio: elementos
+de geografía aplicada. Instituto de Estudios de Administración Local. 752 p
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
 BENAVENT   FERNÁNDEZ   DE   CÓRDOBA,   M.   (2006):   La   ordenación   del   territorio   en  España.  Sevilla.
 Universidad de Sevilla. Consejería de Obras Públicas y Transportes. 455 p
@@ -23,9 +25,6 @@ europeos. Editorial Universitaria Ramón Areces. 252 p
 COMISIÓN   EUROPEA   (1999):   Estrategia   Territorial  Europea  (ETE).  Hacia  un  desarrollo  equilibrado  y
 sostenible del territorio de la UE. Postdam
 
-Eurasian   Geography   and   Economics.   Revista   de   Bellweether   Publishing,   ISSN  1538-7216  (Print),
-1938-2863 (Online)
-
 FARINOS   DASI,   J.  (2018),  Territorio  y  estados.  Elementos  para  la  coordinación  de  las  políticas.  De
 ordenación del territorio en el siglo XXI. Valencia: Tirant lo Blanch, Colección: Crónica/Geografía,
 1ª Edición. 1286 p
@@ -33,10 +32,15 @@ ordenación del territorio en el siglo XXI. Valencia: Tirant lo Blanch, Colecci�
 FARINÓS, J., OJEDA, J.F., TRILLO, J.M. (Eds.) (2019). España: Geografías para un estado postmoderno.
 Madrid/Barcelona. AGE/Geocrítica, 293 p
 
+FREEDMAN, G. (2012). The Next Decade: Empire and Republic in a Changing World. Anchor. 272 p
+
 FREEDMAN, G. (2016). Flashpoints: The Emerging Crisis in Europe. Anchor. 288 p
 
 GRUPO   ADUAR(2000):   Diccionario   de   geografía   urbana,   urbanismo   y   ordenación   del   territorio.
 Barcelona. Ariel referencia. 406 p
+
+Geopolitics.   Revista   de   Taylor  &  Francis  Group,  ISSN:  1465-0045  Eurasian  Geography  and  Economics.
+Revista de Bellweether Publishing, ISSN 1538-7216 (Print), 1938-2863 (Online)
 
 HERCE   VALLEJO,  M.  (2013):  El  negocio  del  territorio:  evolución  y  perspectivas  de  la  ciudad  moderna.
 Alianza Editorial
@@ -67,26 +71,19 @@ SHIVA, V. (2018): Quién alimenta realmente al mundo. Capitán Swing. 316 p
 SOLANA,   M.   (coord.)   (2016):   Espacios   globales  y  lugares  próximos.  70  conceptos  para  entender  la
 organización territorial del capitalismo global. Barcelona. Icaria. 336 p
 
-SUBIRATS, J.; MARTÍ-COSTA, M.; IGLESIAS, M. y TOMÁS, M. (eds) (2012): Políticas urbanas en España
+SUBIRATS,   J.;   MARTÍ-COSTA,   M.;  IGLESIAS,  M.  y  TOMÁS,  M.  (eds)  (2012):  Políticas  urbanas  en  España
+Grandes ciudades, actores, gobiernos locales. Barcelona. Icaria. 440 p
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-FREEDMAN, G. (2012). The Next Decade: Empire and Republic in a Changing World. Anchor. 272 KELLY, K.
-(2009): Geography. Elt Integrated Learning Series. Macmillian vocabulary practice series. Vocabulary
-Practice.   Macmillan   Education,   LABASSE,   J.   (1987):   La   organización   del  espacio:  elementos  de
-geografía   aplicada.   Instituto   de   Estudios   de   Administración   Local.   752  p  →  KELLY,  K.  (2009):
-Geography.   Elt   Integrated   Learning   Series.   Macmillian   vocabulary   practice   series.  Vocabulary
-Practice. Macmillan Education
-
-✅ Recursos añadidos:
-------------------------------
-FREEDMAN, G. (2012). The Next Decade: Empire and Republic in a Changing World. Anchor. 272 p
-
 Geopolitics. Revista de Taylor & Francis Group, ISSN: 1465-0045
 
 Grandes ciudades, actores, gobiernos locales. Barcelona. Icaria. 440 p
 
+KELLY,   K.  (2009):  Geography.  Elt  Integrated  Learning  Series.  Macmillian  vocabulary  practice  series.
+Vocabulary Practice. Macmillan Education
+
 LABASSE,   J.   (1987):   La   organización   del   espacio:  elementos  de  geografía  aplicada.  Instituto  de
 Estudios de Administración Local. 752 p
 
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

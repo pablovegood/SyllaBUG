@@ -2,16 +2,11 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Thomson. Madrid, 2005
+Técnica (3ª edición). Editorial Proyecto Sur. Granada, 2000. Thomson. Madrid, 2007
 
-Thomson. Madrid, 2007
-
-Thomson.   Madrid,   2008.   las   consultas,   exposiciones  y  debates;  así  como  en  la  elaboración  de  los
-trabajos, individuales o en equipo, y en las sesiones de puesta en común
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Alsina,   C.  y  Trillas,  E.  Lecciones  de  Álgebra  y  Geometría.  Editorial  Gustavo  Gili,  S.  A.  Barcelona,
 1984
@@ -25,22 +20,18 @@ Bradley, G. y Smith, K. Cálculo de una variable (Volumen 1). Prentice Hall Iber
 Bradley,   G.   y   Smith,  K.  Cálculo  de  varias  variables  (Volumen  2).  Prentice  Hall  Iberia  Ed.  Madrid,
 1998
 
-Para   el   Tema  1:  Castellano,  J.;  Gámez,  D.  y  Pérez,  R.  Cálculo  Matemático  Aplicado  a  la  Técnica  (3ª
-edición). Editorial Proyecto Sur. Granada, 2000
-
 Tomeo,   V.;   Uña,   I.   y  San  Martín,  J.  Problemas  resueltos  de  cálculo  en  una  variable.  Ed.  Thomson.
 Madrid, 2005
 
 Tomeo, V.; Uña, I. y San Martín, J. Problemas resueltos de cálculo en varias variables. Ed. Thomson.
 Madrid, 2008
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+Para   el   Tema  1:  Castellano,  J.;  Gámez,  D.  y  Pérez,  R.  Cálculo  Matemático  Aplicado  a  la  Técnica  (3ª
+edición). Editorial Proyecto Sur. Granada, 2000
 
-✅ Recursos añadidos:
-------------------------------
 Para el Tema 2: Merino, L. y Santos, E. Álgebra lineal con métodos elementales. Ed. Thomson. Madrid,
 2007
 
-📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

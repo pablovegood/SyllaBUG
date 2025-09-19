@@ -2,15 +2,20 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Antonio   Guevara   (Coord.),   Andrés   Aguayo,   Iván  Gómez,  José  Luis  Caro,  José  Luis  Leiva,  Miguel  J.
 Hornos,   Ramón  A.  Carrasco,  Mª  del  Rosario  Caballero,  Manuel  Fernández  (2009).  Sistemas  informáticos
 aplicados al turismo. Ediciones Pirámide
+
+Christophe Aubry (2012). Cree su primer sitio web: Del diseño a la realización. Ediciones ENI
+
+Dimitrios   Buhalis   (2010).   eTourism:   Information   technology   for   strategic   tourism  management.
+Prentice-Hall. Financial Times
 
 James   Holler  (2022).  The  Microsoft  Office  365  Bible:  The  ultimate  all-in-one  guide  from  beginner  to
 advanced. Independently published
@@ -18,8 +23,8 @@ advanced. Independently published
 Marianna   Sigala,   Evangelos   Christou,   Ulrike   Gretzel  (2012).  Social  Media  in  Travel,  Tourism  and
 Hospitality: Theory, Practice and Cases (New Directions in Tourism Analysis). Ashgate
 
-Miltiadis Lytras, Patricia Ordoñez de Pablos, Ernesto Damiani, Lily Diaz (2010). Digital Culture and
-E-Tourism: Technologies, Applications and Management Approaches. IGI Global
+Miguel   J.  Hornos  Barranco,  Antonio  Fernández  Ares  (2023).  Casos  Prácticos  de  Tecnología  Informática
+para la Empresa. PRADO
 
 Richard   W.   Hallett,   Judith  Kaplan-Weinger  (2010).  Official  Tourism  Websites:  A  Discourse  Analysis
 Perspective (Tourism and Cultural Change). Short Run Press
@@ -39,6 +44,11 @@ Press
 The   Staff   of   Entrepreneur   Media,   Rich   Mintzer  (2012).  Start  Your  Own  Travel  Business  and  More:
 Cruises, Adventure Travel, Tours, Senior Travel (2nd Edition). Entrepreneur Press
 
+Tim Lellinger (2010). How important is Web 2.0 for the tourism sector and how can the industry apply
+to   this  trend?  GRIN  Verlag  Miltiadis  Lytras,  Patricia  Ordoñez  de  Pablos,  Ernesto  Damiani,  Lily  Diaz
+(2010).   Digital   Culture   and   E-Tourism:  Technologies,  Applications  and  Management  Approaches.  IGI
+Global
+
 VV.AA. (2019). Excel y Word (versiones 2019 y Office 365) - Pack 2 libros. Ediciones ENI
 
 VV.AA.   (2020).   Microsoft®  Office  (versiones  2019  y  Office  365):  Word,  Excel,  PowerPoint,  Outlook  -
@@ -47,21 +57,9 @@ Domine las funciones avanzadas de la suite Microsoft®. Ediciones ENI
 VV.AA.   (2020).   Microsoft®  Office  (versiones  2019  y  Office  365):  Word,  Excel,  PowerPoint,  Outlook  -
 Funciones básicas. Ediciones ENI
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Christophe   Aubry  (2012).  Cree  su  primer  sitio  web:  Del  diseño  a  la  realización.  Ediciones  Dimitrios
-Buhalis   (2010).   eTourism:   Information  technology  for  strategic  tourism  management.  Prentice-Hall.
-Financial   Times   →  Dimitrios  Buhalis  (2010).  eTourism:  Information  technology  for  strategic  tourism
-management. Prentice-Hall. Financial Times
-
-✅ Recursos añadidos:
-------------------------------
-Christophe Aubry (2012). Cree su primer sitio web: Del diseño a la realización. Ediciones ENI
-
-Miguel   J.  Hornos  Barranco,  Antonio  Fernández  Ares  (2023).  Casos  Prácticos  de  Tecnología  Informática
-para la Empresa. PRADO
-
 Tim Lellinger (2010). How important is Web 2.0 for the tourism sector and how can the industry apply
 to this trend? GRIN Verlag
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

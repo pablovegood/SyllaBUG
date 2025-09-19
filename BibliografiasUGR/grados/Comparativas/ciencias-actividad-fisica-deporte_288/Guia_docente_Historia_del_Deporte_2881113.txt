@@ -2,18 +2,14 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 El-Gammal,   M.  A.,  “The  ancient  Egyptian  Sports  during  the  Pharaoh  dynasties  and  its  relation  to  the
 ancient   Greek   Sports”,  en  16th  International  Seminar  on  Olympic  Studies  for  Postgraduate  Students,
 Athens, International Olympic Academy and the International Olympic Committee, 2009, pp. 79-92
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (37):
 ------------------------------
-Arrechea   Rivas,   F.   -   Sánchez   Pato,  A.  -  Molina  Morote,  J.M.,  "El  olimpismo  entre  los  JJOO  de  la
-Antigüedad   y   la   restauración   coubertiniana",  Materiales  para  la  Historia  del  Deporte,  18  (2019),
-104-114
-
 Bertman, Handbook to Life in Ancient Mesopotamia, New York, Facts on File, 2003
 
 Blanchard, K. - Taylor Cheska, A., Antropología del deporte, Barcelona, Ediciones Bellaterra, 1986
@@ -52,7 +48,7 @@ Garraus,   T.   y   Galobart,  R.,  Historia  del  deporte:  100  hitos,  mitos 
 
 Golden, M., Greek sport and social status, Austin, University of Texas, 2008
 
-Golden, M., Sport and society in Ancient Greece, Cambridge, CUP, 1998
+Golden, M., Sport and society in Ancient Greece, Cambridge, Cambridge, 1998
 
 Golden, M., Sport in the Ancient World, from A to Z, London-New York, Routledge, 2004
 
@@ -62,6 +58,10 @@ Jiménez   Sánchez,   J.A.,  Los  juegos  paganos  en  la  Roma  cristiana.  Ro
 Studi Ricerche/Viella, 2010
 
 Mandell, R.D., Historia Cultural del Deporte, Bellaterra, 1986
+
+Manuales   y   estudios   específicos   Arrechea  Rivas,  F.  -  Sánchez  Pato,  A.  -  Molina  Morote,  J.M.,  "El
+olimpismo   entre   los   JJOO   de   la   Antigüedad  y  la  restauración  coubertiniana",  Materiales  para  la
+Historia del Deporte, 18 (2019), 104-114
 
 Miller, S.G., Ancient Greek Athelitcs, New Haven – London, Yale University Press, 2004
 
@@ -73,10 +73,12 @@ University Press, 1992
 
 Nemet-Nejat, K.-R., Daily Life in Ancient Mesopotamia, London, Greenwood Press, 1998
 
-Pastor Muñoz, M., Los gladiadores. Granada, Universidad de Granada, 2019
-
 Pastor,   M.   -   Villena,   M.   -   Aguilera,   J.   L.  (eds.),  Deporte  y  Olimpismo  en  el  mundo  antiguo  y
 moderno, Granada, Universidad, 2008
+
+Revistas especializadas Citius, Altius, Fortius (uam.es) The International Journal of the History of
+Sport   |   Taylor  &  Francis  Online  (tandfonline.com)  Materiales  para  la  Historia  del  Deporte  (upm.es)
+Stadion - Journal | Nomos Verlag
 
 Rodríguez López, J., Historia del Deporte: Antología de Investigaciones y Manual didáctico. Granada,
 Fleming, 2021
@@ -100,11 +102,7 @@ Touny, A. D., Sport in Anciente Egypt. Ámsterdam, Leipzig, 1971
 VV.AA.   El   deporte  en  la  Grecia  Antigua.  La  Génesis  del  Olimpismo,  Barcelona,  Fundación  “La  Caixa”,
 1992
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 Citius, Altius, Fortius (uam.es)
 
@@ -115,10 +113,10 @@ Manuales y estudios específicos
 
 Materiales para la Historia del Deporte (upm.es)
 
-Revistas especializadas
+Pastor Muñoz, M., Los gladiadores. Granada, Universidad de Granada, 2019
 
-Stadion - Journal | Nomos Verlag
+Revistas especializadas
 
 The International Journal of the History of Sport | Taylor & Francis Online (tandfonline.com)
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

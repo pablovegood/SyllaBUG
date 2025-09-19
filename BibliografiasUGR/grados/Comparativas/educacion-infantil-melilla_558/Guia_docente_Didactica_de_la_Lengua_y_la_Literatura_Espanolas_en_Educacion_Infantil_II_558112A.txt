@@ -2,14 +2,11 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Sánchez   García,   Remedios  y  Escribano  Pueo,  M.ª  Luz  (2011).  Alforjas  para  la  poesía.  las  consultas,
-exposiciones   y   debates;  así  como  en  la  elaboración  de  los  trabajos,  individuales  o  en  equipo,  y  en
-las   sesiones   de  puesta  en  común.  las  consultas,  exposiciones  y  debates;  así  como  en  la  elaboración
-de los trabajos, individuales o en equipo, y en las sesiones de puesta en común
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 Amo   Sánchez-   Fortún,  José  Manuel  de  (2002).  Literatura  infantil:  Teoría  y  práctica.  Granada:  Grupo
 Editorial Universitario
@@ -37,9 +34,6 @@ Didáctica de la lengua en la educación infantil. Madrid: Síntesis
 Colomer,   Teresa   y   Fitippaldi,   Martina   (coords)   (2012).   La  literatura  que  acoge.  Inmigración  y
 lectura de álbumes ilustrados. Barcelona: Banco del libro Gretel
 
-Colomer,   Teresa;   Manresa,   Mireia;   Ramada,   Lucas;   Reyes,   Lara  (2018).  Narrativas  literarias  en
-educación infantil y primaria. Madrid: Síntesis
-
 Cox Gurdón, M. (2020). La magia de leer en voz alta: los beneficios emocionales de la narrativa oral
 en niños y en adultos, Madrid: Urano
 
@@ -47,6 +41,10 @@ Fons   Esteve,   Montserrat   y   Palou   Sangrà,   Juli   (coords.)   (2016). 
 literatura en educación infantil. Madrid: Síntesis
 
 García Montero, Luis (2000). Lecciones de poesía para niños y niñas inquietos. Granada: Comares
+
+Inmigración   y   lectura   de   álbumes   ilustrados.  Barcelona:  Banco  del  libro  Gretel  Colomer,  Teresa;
+Manresa,   Mireia;   Ramada,   Lucas;  Reyes,  Lara  (2018).  Narrativas  literarias  en  educación  infantil  y
+primaria. Madrid: Síntesis
 
 Maruny, Lluís; Ministral, Isabel y Miralles, Manuel (1998). Escribir y leer. Materiales curriculares
 para la enseñanza y el aprendizaje del lenguaje escrito de tres a ocho años. Zaragoza: MEC-Edelvives
@@ -58,13 +56,11 @@ Ortiz, E. (2002). Contar con los cuentos, Ciudad Real. Ñaque
 
 Rodari, Gianni (2006). Gramática de la fantasía. Barcelona: Ediciones del Bronce
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Sánchez   García,   Remedios   y   Escribano   Pueo,   M.ª   Luz  (2011).  Alforjas  para  la  poesía.  Antología
 poética para niños. Barcelona: Octaedro
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,14 +2,30 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (1):
+------------------------------
+ÁLVAREZ-GAYOU,   J.L.   (2009):   Cómo   hacer   investigación   cualitativa.   Fundamentos   y  metodología.
+Barcelona/México: Paidós
+
+✅ Recursos añadidos (39):
 ------------------------------
 ARNOLD,   D.   (2000):   La   naturaleza  como  problema  histórico.  El  medio,  la  cultura  y  la  expansión  de
 Europa. México DF: Fondo de Cultura Económica
+
+AYUNTAMIENTO    DE   ALMERÍA   (2007):   Diagnósticos   Participativos.   Proceso   participativo   para   la
+realización   de   propuestas   de   mejora   de   los   barrios   de  Almería  Enero  2006–Mayo  2007,  Almería,
+Ayuntamiento      de      Almería:      Área      de      participación      ciudadana,      t-internet.ti-
+projects.com/.../descargas/descargas/1180367113767_proyectodiagnosticos.doc –
+
+BADAL,   M.  (2018):  Vidas  a  la  intemperie.  Nostalgias  y  prejuicios  sobre  el  mundo  campesino.  Logroño:
+Pepitas de calabaza
+
+BERGUA   AMORES,   J.   A.  (2011):  Estilos  de  la  investigación  social:  técnicas,  epistemología,  algo  de
+anarquía y una pizca de sociosofía. Zaragoza. Prensas Universitarias de Zaragoza
 
 BLANCAFLORT,   J.   &   REUS,   P.   (2016):  La  participación  en  la  construcción  de  la  ciudad.  Cartagena:
 CRAI, Universidad Politécnica de Cartagena
@@ -22,9 +38,24 @@ Estudios Ramón Areces, 2010
 
 CERDÁ, P. (2017): Los últimos. Voces de la Laponia española. Logroño: Pepitas de Calabaza
 
+COMISIÓN       EUROPEA      (2014):      Desarrollo      local      participativo      (recursos      web).
+https://enrd.ec.europa.eu/enrd-static/leader/leader/leader-tool-kit/the-strategy-design-and-
+implementation/the-strategy-design/es/how-to-build-up-a-participatory-local-development-
+strategy_es.html
+
+DEL   RÍO   HERNÁNDEZ,   M.   (2005):   “El   derecho   de  participación  ciudadana  en  la  toma  de  decisiones
+públicas en el ámbito municipal” en www.guvernance.com
+
 DIAMOND, J. (2006): Armas, gérmenes y acero. Madrid: Debate
 
+D´ERAMO,   M.   (2020):   El   selfie   del   mundo.  Una  investigación  sobre  la  era  del  turismo.  Anagrama:
+Madrid
+
 EIT FOOD PROJECT (2021): The regenerative agriculture manual. Bruselas: European Comission
+
+FERNÁNDEZ   TÉLLEZ,   E.,   &   RODRÍGUEZ  BARRAZA,  A.  (2025).  Mujeres  y  medio  ambiente:  Redes  de  cuidado
+para    la    sustentabilidad.    Revista   Latinoamericana   De   Difusión   Científica,   7(12),   136-155.
+https://doi.org/10.5281/zenodo.14632561
 
 GALEANO,   E.   (1971   y   reediciones   posteriores):   Las  venas  abiertas  de  América  Latina.  México  DF-
 Madrid: Siglo XXI editores
@@ -41,9 +72,14 @@ acuicultura/gdp/paginas/gdp-estrategias-desarrollo-local.html
 
 MARTÍNEZ DE PISÓN, E. (2009): Miradas sobre el paisaje. Madrid: Biblioteca Nueva
 
+MARTÍNEZ, M., LERMA, I., GARCÍA, E. (2008): “Políticas de medio ambiente y participación ciudadana”.
+CIRIEC-España, Revista de Economía Pública, Social y Cooperativa, nº 61, agosto 2008, pp. 179-201
+
 MERCHÁN, R. (2002): "Participación Ciudadana" .Revista Perspectiva, Bogotá, Nº 2, págs. 44-47
 
 MOLINO, S. DEL (2016): La España vacía. Madrid: Turner
+
+PABLO VALENCIANO, J. et al (2018): Metodología en el desarrollo local. Madrid: Delta
 
 PILLET   CAPDEPÓN,   F.   (2008):   Espacio   y   ciencia  del  territorio:  proceso  y  relación  global-local.
 Madrid: Biblioteca Nueva
@@ -86,56 +122,4 @@ WATSUJI, T. (2006): Antropología del paisaje. Madrid: Sígueme
 
 WULF, A. (2016): La invención de la naturaleza. Madrid: Taurus
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-AYUNTAMIENTO    DE   ALMERÍA   (2007):   Diagnósticos   Participativos.   Proceso   participativo   para   la
-realización   de   propuestas   de   mejora   de   los   barrios   de  Almería  Enero  2006–Mayo  2007,  Almería,
-Ayuntamiento      de      Almería:      Área      de      participación      ciudadana,      t-internet.ti-
-projects.com/.../descargas/descargas/1180367113767_proyectodiagnosticos.doc    –   BADAL,   M.   (2018):
-Vidas   a   la   intemperie.   Nostalgias   y   prejuicios   sobre   el  mundo  campesino.  Logroño:  Pepitas  de
-calabaza   →   AYUNTAMIENTO  DE  ALMERÍA  (2007):  Diagnósticos  Participativos.  Proceso  participativo  para
-la   realización   de   propuestas   de   mejora  de  los  barrios  de  Almería  Enero  2006–Mayo  2007,  Almería,
-Ayuntamiento      de      Almería:      Área      de      participación      ciudadana,      t-internet.ti-
-projects.com/.../descargas/descargas/1180367113767_proyectodiagnosticos.doc –
-
-MARTÍNEZ, M., LERMA, I., GARCÍA, E. (2008): “Políticas de medio ambiente y participación ciudadana”.
-CIRIEC-España,   Revista   de   Economía  Pública,  Social  y  Cooperativa,  nº  61,  agosto  2008,  pp.  179-201
-PABLO   VALENCIANO,   J.   et   al   (2018):   Metodología   en   el  desarrollo  local.  Madrid:  Delta  →  PABLO
-VALENCIANO, J. et al (2018): Metodología en el desarrollo local. Madrid: Delta
-
-ÁLVAREZ-GAYOU, J.L. (2009): Cómo hacer investigación cualitativa. Fundamentos y BERGUA AMORES, J. A.
-(2011): Estilos de la investigación social: técnicas, epistemología, algo de anarquía y una pizca de
-sociosofía.   Zaragoza.   Prensas  Universitarias  de  Zaragoza  →  BERGUA  AMORES,  J.  A.  (2011):  Estilos  de
-la   investigación   social:   técnicas,   epistemología,   algo   de   anarquía  y  una  pizca  de  sociosofía.
-Zaragoza. Prensas Universitarias de Zaragoza
-
-DEL   RÍO   HERNÁNDEZ,   M.   (2005):   “El   derecho   de  participación  ciudadana  en  la  toma  de  decisiones
-públicas   en  el  ámbito  municipal”  en  www.guvernance.com  D´ERAMO,  M.  (2020):  El  selfie  del  mundo.  Una
-investigación   sobre   la   era   del   turismo.  Anagrama  →  DEL  RÍO  HERNÁNDEZ,  M.  (2005):  “El  derecho  de
-participación    ciudadana    en    la    toma   de   decisiones   públicas   en   el   ámbito   municipal”   en
-www.guvernance.com
-
-✅ Recursos añadidos:
-------------------------------
-BADAL,   M.  (2018):  Vidas  a  la  intemperie.  Nostalgias  y  prejuicios  sobre  el  mundo  campesino.  Logroño:
-Pepitas de calabaza
-
-COMISIÓN       EUROPEA      (2014):      Desarrollo      local      participativo      (recursos      web).
-https://enrd.ec.europa.eu/enrd-static/leader/leader/leader-tool-kit/the-strategy-design-and-
-implementation/the-strategy-design/es/how-to-build-up-a-participatory-local-development-
-strategy_es.html
-
-D´ERAMO,   M.   (2020):   El   selfie   del   mundo.  Una  investigación  sobre  la  era  del  turismo.  Anagrama:
-Madrid
-
-FERNÁNDEZ   TÉLLEZ,   E.,   &   RODRÍGUEZ  BARRAZA,  A.  (2025).  Mujeres  y  medio  ambiente:  Redes  de  cuidado
-para    la    sustentabilidad.    Revista   Latinoamericana   De   Difusión   Científica,   7(12),   136-155.
-https://doi.org/10.5281/zenodo.14632561
-
-MARTÍNEZ, M., LERMA, I., GARCÍA, E. (2008): “Políticas de medio ambiente y participación ciudadana”.
-CIRIEC-España, Revista de Economía Pública, Social y Cooperativa, nº 61, agosto 2008, pp. 179-201
-
-ÁLVAREZ-GAYOU,   J.L.   (2009):   Cómo   hacer   investigación   cualitativa.   Fundamentos   y  metodología.
-Barcelona/México: Paidós
-
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 97% [█████████░]

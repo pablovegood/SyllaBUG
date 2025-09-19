@@ -2,33 +2,35 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-9780124375529.   Libro   en   Open   access   disponible   en   [Proakis   2021]   Digital  signal  processing:
-Principles,   algorithms,   and   applications,   5th  edition  (2021).  Proakis  JG,  Manolakis  DG.  Pearson.
-ISBN-13: 9780137348244
-
 Johnstone   SJ,   Jiang   J,   Zhang   D,   Rogers   J,   Valderrama   JT,   Sun  L.  Development  of  frontal  EEG
 differences   between   eyes-closed   and  eyes-open  resting  conditions  in  children:  Data  from  a  single-
 channel    dry-sensor   portable   device.   Clinical   EEG   &   Neuroscience   (2021)   52,   235-245.   doi:
-10.1177/1550059420946648.   Disponible   aquí.   de   la   Torre  A,  Valderrama  JT,  Segura  JC,  Alvarez  IM.
-Matrix-based   formulation  of  the  iterative  randomized  stimulation  and  averaging  method  for  recording
-evoked potentials
+10.1177/1550059420946648. Disponible aquí
 
 [Bruce   2001]   Biomedical   signal   processing   and  signal  modeling  Eugene  N.  Bruce  Wiley,  2001  -  520
 páginas
 
+[Burkard   2012]   Auditory  Evoked  Potentials:  Basic  Principles  and  Clinical  Applications,  1st  edition
+(2006).   Burkard   R,   Don   M,   Eggermont  JJ.  Lippincott  Williams  &  Wilkins  (Baltimore,  MD,  USA),  736
+páginas. ISBN: 0781757568
+
+[Proakis   2021]   Digital   signal   processing:   Principles,  algorithms,  and  applications,  5th  edition
+(2021). Proakis JG, Manolakis DG. Pearson. ISBN-13: 9780137348244
+
 [Semmlow   2004]   Biosignal   and   Biomedical   Image  Processing  MATLAB-Based  Applications,  1st  edition
-(2004). Semmlow JL. CRC Press, 448 páginas. ISBN
+(2004). Semmlow JL. CRC Press, 448 páginas. ISBN: 0–8247-4803–4
 
 [Sornmo   2005]  Bioelectrical  Signal  Processing  in  Cardiac  and  Neurological  Applications,  1st  edition
-(2005). Sörnmo L, Laguna P. Academic Press Print Book ISBN
+(2005).   Sörnmo   L,   Laguna   P.   Academic  Press  Print  Book  ISBN  :  Libro  en  Open  access  disponible  en
+https://doi.org/10.1016/B978-0-12-437552-9.X5000-4
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
-Basic   concepts   of   clinical  electrophysiology  in  audiology,  1st  edition  (2023).  Durrant  JD,  Fowler
-CG,   Ferraro   JA,   Purdy   SC.   Plural   Publishing   (San   Diego,  California,  USA),  475  páginas.  ISBN:
-9781635501759
+Biomedical Signal and Image Processing, 2nd edition (2012). Najarian K, Splinter R. CRC Press Taylor
+&   Francis   Group   (Boca  Ratón,  Florida,  USA),  411  páginas.  eBook  ISBN:  9780429106774.  Libro  en  Open
+access disponible en https://doi.org/10.1201/b11978
 
 Tratamiento   de   señales   en   tiempo  discreto,  3rd  edition  (2012).  Oppenheim  AV,  Schafer  RW.  Pearson
 Educación S.A. (Madrid, España), 1108 páginas. ISBN: 9788483227183
@@ -43,25 +45,19 @@ on   iterative  template  matching:  Application  to  single  channel  recording
 potentials.   Journal   of   Neural   Engineering  (2018)  15,  016008,  15p.  doi:  10.1088/1741-2552/aa8d95.
 Disponible aquí
 
+[Durrant   2023]   Basic   concepts   of   clinical   electrophysiology   in  audiology,  1st  edition  (2023).
+Durrant   JD,   Fowler   CG,   Ferraro  JA,  Purdy  SC.  Plural  Publishing  (San  Diego,  California,  USA),  475
+páginas. ISBN: 9781635501759
+
 de   la   Torre   A,   Valderrama   JT,   Segura  JC,  Alvarez  IM.  Matrix-based  formulation  of  the  iterative
 randomized   stimulation   and   averaging   method   for  recording  evoked  potentials.  The  Journal  of  the
 Acoustical Society of America (2019) 146, 4545-4556. doi: 10.1121/1.5139639. Disponible aquí
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-[Najarian   2012]  Biomedical  Signal  and  Image  Processing,  2nd  edition  (2012).  Najarian  K,  Splinter  R.
-CRC Press Taylor & Francis Group (Boca Ratón, Florida, USA), 411 páginas. eBook ISBN: 9780429106774.
-Libro   en   Open  access  disponible  en  [Burkard  2012]  Auditory  Evoked  Potentials:  Basic  Principles  and
-Clinical   Applications,   1st   edition   (2006).  Burkard  R,  Don  M,  Eggermont  JJ.  Lippincott  Williams  &
-Wilkins   (Baltimore,   MD,   USA),   736   páginas.  ISBN:  0781757568  →  Auditory  Evoked  Potentials:  Basic
-Principles and Clinical Applications, 1st edition (2006). Burkard R, Don M, Eggermont JJ. Lippincott
-Williams & Wilkins (Baltimore, MD, USA), 736 páginas. ISBN: 0781757568
-
-✅ Recursos añadidos:
-------------------------------
-Biomedical Signal and Image Processing, 2nd edition (2012). Najarian K, Splinter R. CRC Press Taylor
-&   Francis   Group   (Boca  Ratón,  Florida,  USA),  411  páginas.  eBook  ISBN:  9780429106774.  Libro  en  Open
-access disponible en https://doi.org/10.1201/b11978
+Auditory   Evoked  Potentials:  Basic  Principles  and  Clinical  Applications,  1st  edition  (2006).  Burkard
+R,   Don   M,   Eggermont   JJ.   Lippincott   Williams  &  Wilkins  (Baltimore,  MD,  USA),  736  páginas.  ISBN:
+0781757568
 
 Developments and Applications for ECG Signal Processing . (2019) Do Vale Madeiro JP, César Cortez P,
 da    Silva    Monteiro    Filho   JM,   Alencar   Brayner   AR.   Elsevier   Ltd.   ISBN:   978-0-12-814035-2.
@@ -77,4 +73,4 @@ Valderrama   JT,   de   la   Torre   A,   Alvarez  IM,  Segura  JC,  Thornton  A
 Automatic   quality   assessment   and   peak  identification  of  auditory  brainstem  responses  with  fitted
 parametric peaks. Computer Methods and Programs in Biomedicine 114, 262—275. Disponible aquí
 
-📊 Porcentaje estimado de cambio: 91% [█████████░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

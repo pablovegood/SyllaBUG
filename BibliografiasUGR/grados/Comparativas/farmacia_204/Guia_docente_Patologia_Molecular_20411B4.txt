@@ -2,24 +2,21 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Essential   Concepts   in   Molecular  Pathology.  W.B.  Coleman  and  G.J.  Tsongalis.  Elsevier  Genetics  and
 Genomics   in   Medicine.   T.   Strachan,   J   Goodship,   P.   Chinnery.   Garland   Science  2015  Patología
-Molecular.   A.   Sánchez   Pozo   et   al.   Ed.   Sintesis   2022   →  Genetics  and  Genomics  in  Medicine.  T.
-Strachan, J Goodship, P. Chinnery. Garland Science 2015
+Molecular. A. Sánchez Pozo et al. Ed. Sintesis 2022
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (3):
 ------------------------------
 Essential Concepts in Molecular Pathology. W.B. Coleman and G.J. Tsongalis. Elsevier 2020
+
+Genetics and Genomics in Medicine. T. Strachan, J Goodship, P. Chinnery. Garland Science 2015
 
 Patología Molecular. A. Sánchez Pozo et al. Ed. Sintesis 2022
 

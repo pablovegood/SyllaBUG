@@ -2,11 +2,24 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Bravo   Rodríguez,   B.   (2018).   La   ciudad   doméstica.   La   construcción   de   la   primera   periferia
+https://digibug.ugr.es/handle/10481/50142   Collins,   G.   R.,   Collins,   C.   C.,   &  Sitte,  C.  (1980).
+Camillo Sitte y el nacimiento del urbanismo moderno. Gustavo Gili
 
-📚 Recursos sin cambios:
+Rivas   Navarro,   J.   L.,   Bravo   Rodríguez,  B.,  &  Curiel  Sanz,  C.  (2022).  Vinculaciones  diacrónicas.
+Resignificando   el   patrimonio   arquitectónico  para  la  regeneración  urbana  de  la  Granada  central.  I2
+Investigación      E      Innovación      En      Arquitectura     Y     Territorio,     10(1),     115–150.
+https://doi.org/10.14198/I2.20833 Rivas Navarro, J. L., & Bravo Rodríguez, B. (2017). Aproximación a
+la   primera   periferia  al  sur  de  Granada:  de  las  huertas  a  las  villas  urbanas  (1920-1951).  Ciudades,
+(19), 163–187
+
+https://doi.org/10.24197/ciudades.19.2016.163-187   Sica,  P.,  &  Hernández  Orozco,  J.  (1982).  Historia
+del   urbanismo   :  el  siglo  XVIII  /  Paolo  Sica  ;  traducción  de  Joaquín  Hernández  Orozco.  Instituto  de
+Administración Local
+
+📚 Recursos sin cambios (21):
 ------------------------------
 Appleyard, D., Lintell, M., & Gerson, M. S. (1981). Livable streets. University of California Press
 
@@ -14,10 +27,6 @@ Aymonino, C. (1981). El significado de las ciudades / Carlo Aymonino (2a ed). He
 
 Benevolo,   L.,   Longo,   T.  G.,  &  Melograni,  C.  (2000).  La  proyectación  de  la  ciudad  moderna.  Gustavo
 Gili
-
-Bravo   Rodríguez,   B.  (2018).  La  ciudad  doméstica.  La  construcción  de  la  primera  periferia  al  sur  de
-Granada.      Universidad      de     Granada.     [Tesis     doctoral,     Universidad     de     Granada].
-https://digibug.ugr.es/handle/10481/50142
 
 Buchanan, C. D. (1973). El tráfico en las ciudades . Tecnos
 
@@ -30,8 +39,8 @@ restauración de centros históricos. Gustavo Gili
 Choay,   F.,   &   Bertrand   Suazo,   M.   (2007).   Alegoría   del  patrimonio  /  Françoise  Choay  ;  [versión
 española de Maria Bertrand Suazo]. Gustavo Gili
 
-Collins,   G.   R.,   Collins,   C.   C.,  &  Sitte,  C.  (1980).  Camillo  Sitte  y  el  nacimiento  del  urbanismo
-moderno. Gustavo Gili
+Cullen,   G.   (1981).   El  paisaje  urbano:  tratado  de  estética  urbanística  /  Gordon  Cullen  (1o  ed.,  4a
+reimp.). Blume
 
 De   Carlo,  G.,  &  Steiner,  A.  (1966).  Urbino  :  la  storia  di  una  cittá  e  il  piano  della  sua  evoluzione
 urbanistica   /  Giancarlo  de  Carlo  ;  promotore  del  piano  urbanistico  l’Administrazione  Comunale  della
@@ -69,26 +78,17 @@ Gumuchdjian (2a ed.). Gustavo Gili
 Sica,   P.,   &   Hernández   Orozco,   J.   (1981).   Historia  del  urbanismo  :  el  siglo  XIX  /  Paolo  Sica  ;
 traducción de Joaquín Hernández Orozco. Instituto de Administración Local
 
-Sica,   P.,   &   Hernández   Orozco,   J.  (1982).  Historia  del  urbanismo  :  el  siglo  XVIII  /  Paolo  Sica  ;
-traducción de Joaquín Hernández Orozco. Instituto de Administración Local
-
-UR:   Urbanismo   revista   /   Laboratorio  de  Urbanismo  de  la  Escola  Técnica  Superior  d’Arquitectura  de
+UR   :   urbanismo   revista  /  Laboratorio  de  Urbanismo  de  la  Escola  Técnica  Superior  d’Arquitectura  de
 Barcelona, U.P.C. (1985). Escola Tècnica Superior d’Arquitectura
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (12):
 ------------------------------
-Rivas   Navarro,   J.   L.,   Bravo   Rodríguez,  B.,  &  Curiel  Sanz,  C.  (2022).  Vinculaciones  diacrónicas.
-Resignificando   el   patrimonio   arquitectónico  para  la  regeneración  urbana  de  la  Granada  central.  I2
-Investigación   E   Innovación   En   Arquitectura   Y   Territorio,   10(1),  Rivas  Navarro,  J.  L.,  &  Bravo
-Rodríguez,   B.   (2017).   Aproximación  a  la  primera  periferia  al  sur  de  Granada:  de  las  huertas  a  las
-villas   urbanas   (1920-1951).   Ciudades,  (19),  163–187  →  Rivas  Navarro,  J.  L.,  &  Bravo  Rodríguez,  B.
-(2017).   Aproximación   a  la  primera  periferia  al  sur  de  Granada:  de  las  huertas  a  las  villas  urbanas
-(1920-1951). Ciudades, (19), 163–187. https://doi.org/10.24197/ciudades.19.2016.163-187
+Bravo   Rodríguez,   B.  (2018).  La  ciudad  doméstica.  La  construcción  de  la  primera  periferia  al  sur  de
+Granada.      Universidad      de     Granada.     [Tesis     doctoral,     Universidad     de     Granada].
+https://digibug.ugr.es/handle/10481/50142
 
-✅ Recursos añadidos:
-------------------------------
-Cullen,   G.   (1981).   El  paisaje  urbano:  tratado  de  estética  urbanística  /  Gordon  Cullen  (1o  ed.,  4a
-reimp.). Blume
+Collins,   G.   R.,   Collins,   C.   C.,  &  Sitte,  C.  (1980).  Camillo  Sitte  y  el  nacimiento  del  urbanismo
+moderno. Gustavo Gili
 
 Gómez   Ordóñez,   J.   L.  (1999).  La  ciudad  necesita  de  todos  nuestros  cuidados:  Discurso  de  apertura,
 Curso académico 1999-2000 . Universidad de Granada
@@ -113,9 +113,16 @@ http://www.arquia.es/publicaciones/ index2.asp?coleccion=TEM
 Rasmussen,   S.   E.,   Martín   Ramos,   Á.,  &  Puente,  M.  (2010).  Londres,  ciudad  única.  In  Arquia/temas
 (Vol. 31). Fundación Caja de Arquitectos
 
+Rivas   Navarro,   J.   L.,  &  Bravo  Rodríguez,  B.  (2017).  Aproximación  a  la  primera  periferia  al  sur  de
+Granada:    de    las    huertas    a    las    villas    urbanas   (1920-1951).   Ciudades,   (19),   163–187.
+https://doi.org/10.24197/ciudades.19.2016.163-187
+
 Rivas   Navarro,   J.   L.,   Bravo   Rodríguez,  B.,  &  Curiel  Sanz,  C.  (2022).  Vinculaciones  diacrónicas.
 Resignificando   el   patrimonio   arquitectónico  para  la  regeneración  urbana  de  la  Granada  central.  I2
 Investigación      E      Innovación      En      Arquitectura     Y     Territorio,     10(1),     115–150.
 https://doi.org/10.14198/I2.20833
 
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+Sica,   P.,   &   Hernández   Orozco,   J.  (1982).  Historia  del  urbanismo  :  el  siglo  XVIII  /  Paolo  Sica  ;
+traducción de Joaquín Hernández Orozco. Instituto de Administración Local
+
+📊 Porcentaje estimado de cambio: 45% [████░░░░░░]

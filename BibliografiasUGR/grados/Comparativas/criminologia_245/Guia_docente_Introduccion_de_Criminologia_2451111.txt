@@ -2,11 +2,12 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Tirant   lo   Blanch,   2023   CAYETANO   RODRÍGUEZ,  M.:  Breve  introducción  a  las  teorías  criminológicas,
+Colección Scientia Iuridica, Zaragoza, 2013
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 CLEMENTE, M. y GORDILLO, R.: Introducción a la Criminología, Madrid: Centro de Estudios Financieros,
 2013
@@ -23,20 +24,17 @@ LARRAURI PIJOÁN, E., Introducción a la Criminología y al Sistema Penal, Trott
 
 MAQUEDA ABREU, M.L., Razones y sinrazones para una Criminología feminista, Dykinson, Madrid, 2014
 
+REDONDO   ILLESCAS,   S.,   y  GARRIDO  GENOVÉS,  V.,  Principios  de  Criminología,  5ª  Ed.  Tirant  lo  Blanch,
+2023
+
 SERRANO MAÍLLO, A.: Introducción a la Criminología, Dykinson, 6ª ed., Madrid, 2009
 
 VÁZQUEZ   GONZÁLEZ,   C.,   Delincuencia   juvenil.   Consideraciones  penales  y  criminológicas,  Dykinson,
 Madrid, 2003
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Tirant   lo   Blanch,   2023   CAYETANO   RODRÍGUEZ,  M.:  Breve  introducción  a  las  teorías  criminológicas,
-Colección   Scientia   Iuridica,   Zaragoza,   2013   →   CAYETANO  RODRÍGUEZ,  M.:  Breve  introducción  a  las
-teorías criminológicas, Colección Scientia Iuridica, Zaragoza, 2013
+CAYETANO   RODRÍGUEZ,   M.:   Breve   introducción   a   las   teorías   criminológicas,   Colección  Scientia
+Iuridica, Zaragoza, 2013
 
-✅ Recursos añadidos:
-------------------------------
-REDONDO   ILLESCAS,   S.,   y  GARRIDO  GENOVÉS,  V.,  Principios  de  Criminología,  5ª  Ed.  Tirant  lo  Blanch,
-2023
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

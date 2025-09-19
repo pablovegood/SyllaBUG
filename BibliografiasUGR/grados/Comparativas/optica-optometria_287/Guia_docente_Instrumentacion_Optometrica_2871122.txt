@@ -2,11 +2,12 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+WILEY-VCH   Verlag,   2014   Optometric   Instrumentation.   David   B.  Henson.  Butterworth-Heinemann  Ltd.
+Linacre House, Jordan Hill, Oxford OX2 8DP, 1996
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 A History of the Photographic Lens. R. Kingslake, Academic Press, Inc., 1989
 
@@ -14,6 +15,10 @@ Applied Optics and Optical Design.. A. E. Conrady, Dover Publications, Inc., New
 
 Applied Optics and Optical Engineering Vol.I, II, III, IV y V R. Kingslake, Academic Press, New York
 and London, 1965
+
+Applied Physical Techniques. R. C. Stanley
+
+Geometrical Optics. Hans-Georg Zimmer, Springer-Verlag Berlin Heidelberg New York, 1970
 
 Geometrical   Optics.   Optical   Instrumentation.   W.   T.   Welford,   North-Holland   Publishing  Company
 Amsterdam, 1962
@@ -33,25 +38,6 @@ Instrumentos Ópticos. J. Marcén, Escuela Universitaria de Óptica UCM, 1993
 Introducción   al   Estudio   de   los   Instrumentos  Ópticos.  P.  Jiménez-Landi  Martínez,  Editorial  de  la
 Universidad Complutense, Madrid, 1985
 
-Teoría de Sistemas Ópticos. B. N. Begunov y N. P. Zakaznov, Editorial MIR Moscú, 1976
-
-Óptica Instrumental. J. Antó Roca y N. Tomás Corominas, Ediciones UPC, 1996
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-WILEY-VCH   Verlag,   2014   Optometric   Instrumentation.   David   B.  Henson.  Butterworth-Heinemann  Ltd.
-Linacre   House,   Jordan   Hill,   Oxford   OX2  8DP,  1996  →  Optometric  Instrumentation.  David  B.  Henson.
-Butterworth-Heinemann Ltd. Linacre House, Jordan Hill, Oxford OX2 8DP, 1996
-
-Manual   de  Prácticas  de  Instrumentación  Optométrica.  José  Juan  Castro  Torres  y  Francisco  Pérez  Ocón.
-Copicentro   Granada:   Granada,   2015   Geometrical   Optics.  Hans-Georg  Zimmer,  Springer-Verlag  Berlin
-Heidelberg    New   York,   1970   →   Geometrical   Optics.   Hans-Georg   Zimmer,   Springer-Verlag   Berlin
-Heidelberg New York, 1970
-
-✅ Recursos añadidos:
-------------------------------
-Applied Physical Techniques. R. C. Stanley
-
 Kascheke   M,   Donnerhacke   KH,   Rill   MS.   Optical  Devices  in  Ophthalmology  and  Optometry.  WILEY-VCH
 Verlag, 2014
 
@@ -60,4 +46,13 @@ Copicentro Granada: Granada, 2015 [http://hdl.handle.net/10481/61630]
 
 Modern Optical Engineering. The Desing of Optical system. W. J. Smith
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+Teoría de Sistemas Ópticos. B. N. Begunov y N. P. Zakaznov, Editorial MIR Moscú, 1976
+
+Óptica Instrumental. J. Antó Roca y N. Tomás Corominas, Ediciones UPC, 1996
+
+✅ Recursos añadidos (1):
+------------------------------
+Optometric   Instrumentation.  David  B.  Henson.  Butterworth-Heinemann  Ltd.  Linacre  House,  Jordan  Hill,
+Oxford OX2 8DP, 1996
+
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

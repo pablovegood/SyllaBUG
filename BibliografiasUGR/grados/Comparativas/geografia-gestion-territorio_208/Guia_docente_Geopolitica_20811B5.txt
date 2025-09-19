@@ -2,19 +2,22 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-BOSQUE   MAUREL,   J.  (1992):  “La  Geografía  Política  y  la  Geopolítica  en  España.  Pasado  y  presente”  en
-Geografía y geógrafos en la España contemporánea. Universidad de Granada. pp
+BOSQUE MAUREL, J. (1992): “La Geografía Política y la Geopolítica en España. Pasado y 47-90
+
+LÓPEZ   MARTÍNEZ,   M.  (Dir.)  (2004):  Enciclopedia  de  la  Paz  y  los  Conflictos  (2  Vol.)  Granada:  MARCU,
+S. (2021): Geopolítica de Rusia y Europa Oriental. Madrid: Síntesis
 
 SANGUIN, A.L. (1981): Geografía Política. Barcelona: Oikos-Tau
 
-📚 Recursos sin cambios:
-------------------------------
-ACEMOGLU,   D.,   ROBINSON,   J.   (2014):   ¿Por   qué   fracasan   los   países?  Los  orígenes  del  poder,  la
-prosperidad y la pobreza. Barcelona: Planeta
+URDIALES VIEDMA, M.E. (2007): Geopolítica y desigualdades (Colección Periferias). Granada: ACEMOGLU,
+D.,   ROBINSON,   J.  (2014):  ¿Por  qué  fracasan  los  países?  Los  orígenes  del  poder,  la  prosperidad  y  la
+pobreza. Barcelona: Planeta
 
-AGNEW, J. A. (2005): Geopolítica: una revisión de la política mundial. Madrid: Trama editorial
+📚 Recursos sin cambios (41):
+------------------------------
+AGNEW, J. A. (2005): Geopolítica: una re-visión de la política mundial. Madrid: Trama editorial
 
 ARRIGHI, G. (2008): Adam Smith en Pekín. Barcelona: Ariel
 
@@ -62,12 +65,7 @@ LOYER, B. (2022): Introducción a la Geopolítica. Madrid: Síntesis
 LÓPEZ   CANOREA,   A.;   MARRADES,   A.   y   GONZÁLEZ   MÁRQUEZ,   J.   (2023).   La  pugna  por  el  nuevo  orden
 internacional. Claves para entender la geopolítica de las grandes potencias. Barcelona: Espasa
 
-LÓPEZ   MARTÍNEZ,   M.   (Dir.)   (2004):   Enciclopedia   de   la   Paz   y  los  Conflictos  (2  Vol.)  Granada:
-Universidad de Granada y Junta de Andalucía
-
 LÓPEZ TRIGAL, L. (2014): Diccionario de Geografía Política y Geopolítica. León: Universidad de León
-
-MARCU, S. (2021): Geopolítica de Rusia y Europa Oriental. Madrid: Síntesis
 
 MARTÍN-RODA, E. (2021). Geopolítica de los recursos energéticos. Madrid: Síntesis
 
@@ -105,9 +103,6 @@ TORRES   ALFONSEA,   F.J.  (2016):  "¿A  quién  pertenecen  los  mares?  Evolu
 lo   largo   de  la  historia".  En  VERA  REBOLLO  et  al  (Coords.).  Paisaje,  cultura  territorial  y  vivencia
 de la Geografía: Libro homenaje a Alfredo Morales Gil. Alicante: Universidad de Alicante
 
-URDIALES    VIEDMA,   M.E.   (2007):   Geopolítica   y   desigualdades   (Colección   Periferias).   Granada:
-Universidad de Granada
-
 URDIALES VIEDMA, M.E. (2021): Geopolítica del Mediterráneo. Madrid: Síntesis
 
 WELZER, H. (2010): Guerras climáticas. Por qué mataremos (y nos matarán) en el siglo XXI. Barcelona:
@@ -117,12 +112,19 @@ ZIEGLER, J. (2019): Destrucción masiva. Geopolítica del hambre. Barcelona: Pen
 
 ÁLVAREZ COBELAS, J. R. (2021): Geopolítica del África Subsahariana. Madrid: Síntesis
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-No hubo cambios de edición/año.
+ACEMOGLU,   D.,   ROBINSON,   J.   (2014):   ¿Por   qué   fracasan   los   países?  Los  orígenes  del  poder,  la
+prosperidad y la pobreza. Barcelona: Planeta
 
-✅ Recursos añadidos:
-------------------------------
 KAPLAN. R. (2025): Tierra baldía. Un mundo en crisis permanente. Barcelona: RBA
 
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+LÓPEZ   MARTÍNEZ,   M.   (Dir.)   (2004):   Enciclopedia   de   la   Paz   y  los  Conflictos  (2  Vol.)  Granada:
+Universidad de Granada y Junta de Andalucía
+
+MARCU, S. (2021): Geopolítica de Rusia y Europa Oriental. Madrid: Síntesis
+
+URDIALES    VIEDMA,   M.E.   (2007):   Geopolítica   y   desigualdades   (Colección   Periferias).   Granada:
+Universidad de Granada
+
+📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]

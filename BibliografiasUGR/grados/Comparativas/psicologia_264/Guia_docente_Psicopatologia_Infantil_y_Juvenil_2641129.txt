@@ -2,97 +2,106 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Caballo, V.E. (2006). Manual para la evaluación clínica de los trastornos psicológicos
 
-📚 Recursos sin cambios:
+Fernández-Hermida,   J.R.   y   Villamarín-Fernández,   S.   (2021)   Libro   Blanco   de  la  Salud  Mental
+Infanto-Juvenil. Volumen 1. Madrid: Consejo General de la Psicología de España Fernández Parra, A.
+(1997).   Trastornos   del   comportamiento   en  la  infancia.  Fundamentos  teóricos  y  prácticos.  Granada:
+G.E.U
+
+Fernández   Parra,   A.   (2019).   Psicopatología   Infantil   y   Juvenil.   Documento   Creative   Commons:
+Atribución-NoComercial-SinDerivadas   4.0   Internacional   (CC   BY-NC-ND   4.0)   Fernández  Parra,  A.,  y
+López-Rubio   Martínez,   S.  (2011).  Trastornos  infantiles  y  de  la  adolescencia.  En  V.E.  Caballo,  I.C.
+Salazar y J.A. Carrobles (Eds.), Manual de psicopatología y trastornos psicológicos (págs. 757-783).
+Madrid: Pirámide
+
+📚 Recursos sin cambios (22):
 ------------------------------
-American   Psychological   Association   [Task   Force   on   Evidence-Based   Practice   for   Children   and
-Adolescents].   (2008).  Disseminating  evidence-based  practice  for  children  and  adolescents:  A  systems
-approach to enhancing care. Autor
+Asociación   Americana   de   Discapacidad   Intelectual   (2011).   Discapacidad  Intelectual.  Definición,
+Clasificación y Sistemas de Apoyo Social. Alianza Editorial
 
-Barkley, R.A. (2002). Niños hiperactivos. Cómo comprender y atender sus necesidades. Paidós
+Barkley,   R.A.   (2002).   Niños   hiperactivos.   Cómo  comprender  y  atender  sus  necesidades.  Barcelona:
+Paidós
 
-Barrett,   P.M.,   y   Ollendrick   T.H.   (2004).   Handbook  of  Interventions  that  Work  with  Children  and
-Adolescents. John Wiley
+Barrett   ,   P.M.,   y   Ollendrick   T.H.  (2004).  Handbook  of  Interventions  that  Work  with  Children  and
+Adolescents. Chichester: John Wiley
 
-Bragado Álvarez, C. (2009). Enuresis infantil. Tratamientos eficaces. Pirámide
+Bragado Álvarez, C. (2009). Enuresis infantil. Tratamientos eficaces. Madrid: Pirámide
 
 Brown,   R.,   Antonuccio,   D.   O.,   DuPaul,   G.,   Fristad,   M.,   King,  C.,  Pelham,  W.,  et  al.  (2006).
 Childhood    mental    health   disorders.   Evidence   base   and   contextual   factors   for   psicosocial,
 psychopharmacological, and combined interventions. American Psychological Association
 
-Servera Barceló, M., y Bernad Martorell, M.M. (2017). Psicopatología Infantil. Editorial Síntesis
-
-Wicks-Nelson,   R.,   e   Israel,   A.  C.  (1997).  Psicopatología  del  niño  y  del  adolescente.  3ª  Edición.
-Prentice-Hall
-
-Wicks-Nelson,   R.,   e   Israel,   A.   C.   (2015).   Abnormal  Child  and  Adolescent  Psychology  with  DSM-5
-Updates, 8/e. Pearson
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Fernández-Hermida,   J.R.   y   Villamarín-Fernández,   S.   (2021)   Libro   Blanco   de  la  Salud  Mental
-Infanto-Juvenil. Volumen 1. Madrid: Consejo General de la Psicología de España Fernández Parra, A.
-(1997).   Trastornos   del   comportamiento   en   la   infancia.   Fundamentos  Fernández  Parra,  A.  (2019).
-Psicopatología   Infantil   y  Juvenil.  Documento  Creative  Commons:  Atribución-NoComercial-SinDerivadas
-4.0   Internacional   (CC   BY-NC-ND   4.0)   Fernández   Parra,   A.,   y   López-Rubio  Martínez,  S.  (2011).
-Trastornos   infantiles   y  de  la  adolescencia.  En  V.E.  Caballo,  I.C.  Salazar  y  J.A.  Carrobles  (Eds.),
-Manual   de   psicopatología   y  trastornos  psicológicos  (págs.  757-783).  Madrid:  Pirámide  →  Fernández-
-Hermida,   J.R.   y   Villamarín-Fernández,   S.  (2021)  Libro  Blanco  de  la  Salud  Mental  Infanto-Juvenil.
-Volumen 1. Consejo General de la Psicología de España
-
-✅ Recursos añadidos:
-------------------------------
-Asociación   Americana   de   Discapacidad   Intelectual   (2011).   Discapacidad  Intelectual.  Definición,
-Clasificación y Sistemas de Apoyo Social. Alianza Editorial
-
-Belloch,   A.,   Sandín,   B.,   y   Ramos,   F.  (2024).  Manual  de  psicopatología.  Volumen  II,  4ª  edición.
-McGraw Hill
-
-Caballo,   V.E.  (2005).  Manual  para  la  evaluación  clínica  de  los  trastornos  psicológicos.  Estrategias
-de evaluación, problemas infantiles y trastornos de ansiedad. Pirámide
-
 Caballo,   V.E.   (2006).  Manual  para  la  evaluación  clínica  de  los  trastornos  psicológicos.  Trastornos
 de la edad adulta e informes psicológicos. Pirámide
 
 Caballo,   V.E.,   y   Simón,   M.A.   (2001).   Manual   de  psicología  clínica  infantil  y  del  adolescente.
-Trastornos generales. Pirámide
+Trastornos generales. Madrid: Pirámide
 
 Caballo,   V.E.,   y   Simón,   M.A.   (2002).   Manual   de  psicología  clínica  infantil  y  del  adolescente.
-Trastornos específicos. Pirámide
+Trastornos específicos. Madrid: Pirámide
 
-Carr, Alan (2016). The handbook of child and adolescent clinical psychology. 3ª Edición. Routledge
+Carr,   Alan   (2016).   The  handbook  of  child  and  adolescent  clinical  psychology.  3ª  Edición.  Londres:
+Routledge
 
 Comeche,   M.I.   (2005).   Problemas   de   alimentación   en  la  infancia.  En  M.I.  Comeche  y  M.A.  Vallejo
 (Eds.), Manual de terapia de conducta de la infancia (págs., 105-140). Dykinson
 
 Comeche,   M.I.   y   Vallejo,   M.A.   (2005).   Problemas  y  trastornos  del  sueño  en  la  infancia.  En  M.I.
 Comeche   y   M.A.   Vallejo   (Eds.),   Manual   de   terapia  de  conducta  de  la  infancia  (págs.,  349-386).
-Dykinson
+Madrid: Dykinson
 
-Del Barrio, V., y Carrasco, M.A. (2013). Depresión en niños y adolescentes. Editorial Síntesis
+Definición,    Clasificación    y    Sistemas    de   Apoyo   Social.Madrid:   Alianza   Editorial   American
+Psychological   Association   [Task   Force   on   Evidence-Based  Practice  for  Children  and  Adolescents].
+(2008).   Disseminating   evidence-based   practice  for  children  and  adolescents:  A  systems  approach  to
+enhancing care. Washington, DC: Autor
 
-Eisen, A. R. (2007). Treating Childhood Behavioral and Emotional Problems. Guilford Press
+Del   Barrio,   V.,   y   Carrasco,   M.A.   (2013).   Depresión  en  niños  y  adolescentes.  Madrid,  Editorial
+Síntesis
+
+Eisen, A. R. (2007). Treating Childhood Behavioral and Emotional Problems. New York: Guilford Press
 
 Espada,   J.P.,  Pereira,  J.R.,  y  García-Fernández,  J.M.  (2008).  Influencia  de  los  modelos  sociales  en
 el consumo del alcohol de los adolescentes. Psicothema, 20, 531-537
 
-Fernández   Parra,   A.   (1997).   Trastornos  del  comportamiento  en  la  infancia.  Fundamentos  teóricos  y
-prácticos. G.E.U
-
 Fernández   Parra,   A.   (2001).   Características   clínicas  y  tratamiento  del  trastorno  de  movimientos
 estereotipados   y   autolesivos.   En   V.E.   Caballo  y  M.A.  Simón  (Eds.),  Manual  de  psicología  clínica
-infantil y del adolescente (págs. 325-354). Pirámide
+infantil y del adolescente (págs. 325-354). Madrid: Pirámide
 
 Fernández Parra, A. (2004). Déficit de atención e hiperactividad. En A. Fernández Parra (Ed.) Manual
 de   recursos   para   la   evaluación   y   tratamiento  de  niños  con  problemas  de  conducta  (págs.  33-68).
-Distribuciones Reprográficas Granada
+Granada: Distribuciones Reprográficas Granada
 
 Fernández   Parra,   A.   (2011).   Tratamiento   psicológico  basado  en  la  evidencia  de  los  trastornos  de
 niños   y   adolescentes.  En  E.  Mendoza,  A.  Román  y  R.  Verdejo  (Eds.),  Psicología,  ciencia  y  reflexión
 (págs. 113-127). Editorial Universidad de Granada
+
+Fernández Parra, A. y Muñoz Manzano, L. (2005). Evaluación de los trastornos por déficit de atención
+y   comportamiento   perturbador.   En   V.E.   Caballo   (Ed.),   Manual  para  la  evaluación  clínica  de  los
+trastornos   psicológicos.   Estrategias   de  evaluación,  problemas  infantiles  y  trastornos  de  ansiedad
+(págs. 279-311). Pirámide
+
+Servera   Barceló,   M.,   y   Bernad  Martorell,  M.M.  (2017).  Psicopatología  Infantil.  Madrid:  Editorial
+Síntesis
+
+Wicks-Nelson,   R.,   e   Israel,   A.  C.  (1997).  Psicopatología  del  niño  y  del  adolescente.  3ª  Edición.
+Madrid: Prentice-Hall
+
+Wicks-Nelson,   R.,   e   Israel,   A.   C.   (2015).   Abnormal  Child  and  Adolescent  Psychology  with  DSM-5
+Updates, 8/e. London: Pearson
+
+✅ Recursos añadidos (31):
+------------------------------
+Belloch,   A.,   Sandín,   B.,   y   Ramos,   F.  (2024).  Manual  de  psicopatología.  Volumen  II,  4ª  edición.
+McGraw Hill
+
+Caballo,   V.E.  (2005).  Manual  para  la  evaluación  clínica  de  los  trastornos  psicológicos.  Estrategias
+de evaluación, problemas infantiles y trastornos de ansiedad. Pirámide
+
+Fernández   Parra,   A.   (1997).   Trastornos  del  comportamiento  en  la  infancia.  Fundamentos  teóricos  y
+prácticos. G.E.U
 
 Fernández   Parra,   A.   (2019).   Psicopatología   Infantil   y   Juvenil.   Documento   Creative   Commons:
 Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)
@@ -105,6 +114,9 @@ trastornos   psicológicos.   Estrategias   de  evaluación,  problemas  infanti
 Fernández   Parra,  A.,  y  López-Rubio  Martínez,  S.  (2011).  Trastornos  infantiles  y  de  la  adolescencia.
 En   V.E.   Caballo,   I.C.   Salazar   y   J.A.   Carrobles   (Eds.),  Manual  de  psicopatología  y  trastornos
 psicológicos (págs. 757-783). Pirámide
+
+Fernández-Hermida,   J.R.   y  Villamarín-Fernández,  S.  (2021)  Libro  Blanco  de  la  Salud  Mental  Infanto-
+Juvenil. Volumen 1. Consejo General de la Psicología de España
 
 Fonseca-Pedrero, E. (2021). Manual de tratamientos psicológicos. Infancia y adolescencia. Pirámide
 
@@ -173,4 +185,4 @@ Wilmshurst, L. (2009). Abnormal child psychology: a developmental perspective. T
 conducta:   determinantes   del   fracaso  académico  y  social.  Una  revisión  de  la  literatura.  Revista  de
 Logopedia, Foniatría y Audiología, 30,144-150
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 65% [██████░░░░]

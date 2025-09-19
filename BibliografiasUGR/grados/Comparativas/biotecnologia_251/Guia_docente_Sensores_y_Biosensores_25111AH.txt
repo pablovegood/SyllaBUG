@@ -2,11 +2,12 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Narayanaswamy,   O.S.   Wolfbeis.   Springer.  2004  Optical  sensor  systems  in  biotechnology.  T  .  Scheper
+(ed.). Ed., Springer. 2009 Principles of Chemical Sensors, Jiri Janata. 2ª Ed., Springer. 2009
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Chemical   sensors   and   biosensors   for   medical  and  biological  applications.  U.E.  Spichiger‐Keller.
 Wiley‐VCHCRC. 1998
@@ -30,6 +31,9 @@ Flow‐through (Bio)chemical Sensors M. Valcárcel y M.D. Luque de Castro., Else
 
 Handbook of Optical Chemical Sensors. A. Lobnik, B. Mizaikoff. Springer. 2006
 
+Optical   Sensors:   Industrial,   Environmental   and   Diagnostic   Applications.  R.  Narayanaswamy,  O.S.
+Wolfbeis. Springer. 2004
+
 Sensors an Introductory Course, Kalantar‐Zadeh, Kourosh. Boston, MA, USA. Springer, 2013
 
 Sensors. A comprehensive survey. W. Göpel, J. Hesse y J.N. Zemel. VCH. 1991
@@ -37,17 +41,10 @@ Sensors. A comprehensive survey. W. Göpel, J. Hesse y J.N. Zemel. VCH. 1991
 Tomazelli   Coltro,   W.   K.;   Cheng,   C.   M.;   Carrilho,  E.;  Jesus,  D.  P.  Recent  advances  in  low‐cost
 microfluidic platforms for diagnostic applications. Electrophoresis 2014, 35 (16), 2309‐2324
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Narayanaswamy,   O.S.   Wolfbeis.   Springer.  2004  Optical  sensor  systems  in  biotechnology.  T  .  Scheper
-(ed.).   Ed.,   Springer.   2009   Principles  of  Chemical  Sensors,  Jiri  Janata.  2ª  Ed.,  Springer.  2009  →
 Optical sensor systems in biotechnology. T . Scheper (ed.). Ed., Springer. 2009
-
-✅ Recursos añadidos:
-------------------------------
-Optical   Sensors:   Industrial,   Environmental   and   Diagnostic   Applications.  R.  Narayanaswamy,  O.S.
-Wolfbeis. Springer. 2004
 
 Principles of Chemical Sensors, Jiri Janata. 2ª Ed., Springer. 2009
 
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

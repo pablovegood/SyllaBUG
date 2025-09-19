@@ -1,5 +1,0 @@
-Bonham-Carter, G.F., 1994. Geographic information systems for geoscientists: modelling with GIS (Vol. 13). Elsevier. 398 p.
-Carranza, E.J.M., 2008. Geochemical anomaly and mineral prospectivity mapping in GIS (Vol. 11). Elsevier. 351 p.
-Johnston, K., Ver Hoef, J.M., Krivoruchko, K., Lucas, N., 2001. Using ArcGIS geostatistical analyst. Redlands: Esri. 300 p.
-Olea, R.A., 2018. A practical primer on geostatistics (No. 2009-1103). US Geological Survey.
-Sarma, D.D., 2009. Geostatistics with Applications in Earth Sciences. 2ºEd. Springer. 205 p

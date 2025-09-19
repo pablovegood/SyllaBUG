@@ -2,11 +2,17 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Boivin,   M.   F.;   Rosato,   A.,   Arribas,   V.  (1998).  Constructores  de  otredad.  Una  introducción  a  la
+Antropología   Social   y   Cultural.   Buenos  Aires:  Eudeba  Douglas,  Mary.  (1991).  Pureza  y  peligro.  Un
+análisis de los conceptos de contaminación y tabú. Madrid: Siglo XXI
 
-📚 Recursos sin cambios:
+Se   utilizará  como  libro  de  texto  de  la  asignatura:  Kottak,  Conrad  P.  (2014).  Antropología  cultural.
+14ª   edición.   Barcelona:   McGraw   Hill  Barfield,  Thomas  (ed.).  (2001).  Diccionario  de  antropología.
+Barcelona: Ediciones Bellaterra
+
+📚 Recursos sin cambios (12):
 ------------------------------
 Bohannan, Paul (1998). Para raros, nosotros. Introducción a la antropología cultural. Madrid: Akal
 
@@ -37,26 +43,16 @@ culturas. Madrid: UNED
 
 Wolf, Eric R. (1987). Europa y la gente sin historia. México: Fondo de Cultura Económica
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Se   utilizará  como  libro  de  texto  de  la  asignatura:  Kottak,  Conrad  P.  (2014).  Antropología  cultural.
-14ª   edición.   Barcelona:   McGraw   Hill  Barfield,  Thomas  (ed.).  (2001).  Diccionario  de  antropología.
-Barcelona:   Ediciones   Bellaterra   →   Kottak,   Conrad  P.  (2014).  Antropología  cultural.  14ª  edición.
-Barcelona: McGraw Hill
-
-Boivin,   M.   F.;   Rosato,   A.,   Arribas,   V.  (1998).  Constructores  de  otredad.  Una  introducción  a  la
-Antropología   Social   y   Cultural.   Buenos  Aires:  Eudeba  Douglas,  Mary.  (1991).  Pureza  y  peligro.  Un
-análisis   de   los   conceptos  de  contaminación  y  tabú.  Madrid:  Siglo  XXI  →  Boivin,  M.  F.;  Rosato,  A.,
-Arribas,   V.  (1998).  Constructores  de  otredad.  Una  introducción  a  la  Antropología  Social  y  Cultural.
-Buenos Aires: Eudeba
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Barfield, Thomas (ed.). (2001). Diccionario de antropología. Barcelona: Ediciones Bellaterra
+
+Boivin,   M.   F.;   Rosato,   A.,   Arribas,   V.  (1998).  Constructores  de  otredad.  Una  introducción  a  la
+Antropología Social y Cultural. Buenos Aires: Eudeba
 
 Douglas,   Mary.   (1991).   Pureza   y   peligro.   Un  análisis  de  los  conceptos  de  contaminación  y  tabú.
 Madrid: Siglo XXI
 
-Se utilizará como libro de texto de la asignatura
+Kottak, Conrad P. (2014). Antropología cultural. 14ª edición. Barcelona: McGraw Hill
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

@@ -2,11 +2,12 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+VELTZ, P. (1999). Mundialización, ciudades y territorios. Barcelona: Ariel STIGLITZ, J. (2007). Cómo
+hacer que funcione la globalización. Madrid: Taurus
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 BAUDELLE, G. (2004). Géographie du peuplement. París: A. Colin
 
@@ -30,14 +31,10 @@ Fundación Ramón Areces
 ZARATE,   M.A,   RUBIO,   M.T.  (2005).  Sociedad,  economía  y  territorio.  Madrid:  Ed.  Universitaria  Ramón
 Areces
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-VELTZ, P. (1999). Mundialización, ciudades y territorios. Barcelona: Ariel STIGLITZ, J. (2007). Cómo
-hacer   que   funcione  la  globalización.  Madrid:  Taurus  →  VELTZ,  P.  (1999).  Mundialización,  ciudades  y
-territorios. Barcelona: Ariel
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 STIGLITZ, J. (2007). Cómo hacer que funcione la globalización. Madrid: Taurus
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+VELTZ, P. (1999). Mundialización, ciudades y territorios. Barcelona: Ariel
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

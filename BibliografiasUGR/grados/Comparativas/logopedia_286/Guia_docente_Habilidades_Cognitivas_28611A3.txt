@@ -2,11 +2,15 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Baron, J. (2008). Thinking and deciding. Cambridge University Press Bouton M.A. (2007). Learning and
+Behavior. A contemporary synthesis. Sunderland, Sinauer Associates Inc
 
-📚 Recursos sin cambios:
+Evans, J. St. B.T. (2011). Thinking Twice: two minds in one brain. Oxford University Press Kyllonen,
+Patrick C. (2006) Extending intelligence: enhancement and new constructs
+
+📚 Recursos sin cambios (16):
 ------------------------------
 Anderson, J.R. (2001). Adquisición de Habilidades. En Anderson, J.R. (Ed.) Aprendizaje y Memoria, 2ª
 Edición
@@ -20,13 +24,13 @@ Editorial
 Delgado,   M.,   Phelps,   E.   &   Robbins,   T.   (2011)   Decision   Making,   Affect,  and  Learning.  Oxford
 University Press
 
-Dreher J. & Tremblay, L. (2009).Handbook of reward and decision making. Boston: Academic Press
-
 Ericsson, K.A. (1996). The road to excellence: The acquisition of expert performance in the arts and
 sciences, sports and games. N.J. LEA
 
 Ericsson,   K.A.,   Charness,   N.,   Feltovich,   P.J.  y  Hoffman,  R.R.  (2006).  The  Cambridge  Handbook  of
 expertise and expert performance
+
+Gellatly, A. (1986). La inteligencia hábil: El desarrollo de las capacidades cognitivas. Edit: AIQUE
 
 Gluck,   M.,   Mercado,  E.  y  Myers,  C.E.  (2009).  Aprendizaje  y  memoria.  Del  cerebro  al  comportamiento.
 México, McGraw-Hill
@@ -41,6 +45,9 @@ making. New York: Psychology Press
 
 Ormrod, J.E (2008) Aprendizaje Humano (4ª Ed.). Pearson, Prentice Hall, Madrid
 
+Oxford   University   Press   Dreher   J.   &  Tremblay,  L.  (2009).Handbook  of  reward  and  decision  making.
+Boston: Academic Press
+
 Pineño, O. Vadillo y Matute. H. (Eds.) (2007). Psicología del Aprendizaje. Badajoz, Abecedario
 
 Pozo   Municio,  J.I.  (1996).  Aprendices  y  maestros.  La  nueva  cultura  del  aprendizaje.  Madrid:  Alianza
@@ -48,23 +55,15 @@ Editorial
 
 Runco, M.A. (2007). Creativity: theories and themes: research, development, and practice
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Evans, J. St. B.T. (2011). Thinking Twice: two minds in one brain. Oxford University Press Kyllonen,
-Patrick   C.   (2006)   Extending   intelligence:   enhancement   and   new  constructs  →  Evans,  J.  St.  B.T.
-(2011). Thinking Twice: two minds in one brain. Oxford University Press
+Baron, J. (2008). Thinking and deciding. Cambridge University Press
 
-Baron, J. (2008). Thinking and deciding. Cambridge University Press Bouton M.A. (2007). Learning and
-Behavior.   A   contemporary   synthesis.   Sunderland,   Sinauer   Associates   Inc   →   Baron,   J.  (2008).
-Thinking and deciding. Cambridge University Press
-
-✅ Recursos añadidos:
-------------------------------
 Bouton   M.A.  (2007).  Learning  and  Behavior.  A  contemporary  synthesis.  Sunderland,  Sinauer  Associates
 Inc
 
-Gellatly, A. (1986). La inteligencia hábil: El desarrollo de las capacidades cognitivas. Edit: AIQUE
+Evans, J. St. B.T. (2011). Thinking Twice: two minds in one brain. Oxford University Press
 
 Kyllonen, Patrick C. (2006) Extending intelligence: enhancement and new constructs
 
-📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

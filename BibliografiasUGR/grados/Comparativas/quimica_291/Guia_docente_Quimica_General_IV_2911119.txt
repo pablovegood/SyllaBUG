@@ -2,11 +2,16 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Garceta.   2012  Quiñoá,  E.;  Riguera,  R.,  “Nomenclatura  y  Representación  de  los  Compuestos  Orgánicos”,
+2ª Edición. Mc Graw Hill Interamericana de España. 2005
 
-📚 Recursos sin cambios:
+Quiñoá,   E.;   Riguera,  R.,  “Cuestiones  y  Ejercicios  de  Química  Orgánica”,  (2ª  Edición).  Mc  Graw  Hill
+Interamericana   de   España.   2004   Herranz  Santos,  M.J.,  Pérez  Pérez,  M.L.,  “Nomenclatura  de  Química
+Orgánica”. Editorial Síntesis, Madrid, 2008
+
+📚 Recursos sin cambios (7):
 ------------------------------
 Carey, F.A., Giuliano, R. M., “Química Orgánica” (9ª edición). McGraw Hill. 2017
 
@@ -21,24 +26,19 @@ Klein, D. "Organic Chemistry", 4º Ed. Ed. Wiley, 2021
 
 Solomons, T.W. Graham, “Química Orgánica”, 2ª Edición. Ed.Limusa Wiley.1999
 
-Vollhardt, K.P.C.; Schore, N.E., “Química Orgánica”, 5ª Edición. Ed. Omega, 2007
+Vollhardt, K.P.C.; Schore, N.E., “Química Orgánica”, 5ª Edición. Ed. Omega, Barcelona. 2007
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Garceta.   2012  Quiñoá,  E.;  Riguera,  R.,  “Nomenclatura  y  Representación  de  los  Compuestos  Orgánicos”,
-2ª   Edición.   Mc  Graw  Hill  Interamericana  de  España.  2005  →  Quiñoá,  E.;  Riguera,  R.,  “Nomenclatura  y
-Representación de los Compuestos Orgánicos”, 2ª Edición. Mc Graw Hill Interamericana de España. 2005
-
-Quiñoá,   E.;   Riguera,  R.,  “Cuestiones  y  Ejercicios  de  Química  Orgánica”,  (2ª  Edición).  Mc  Graw  Hill
-Interamericana   de   España.   2004   Herranz  Santos,  M.J.,  Pérez  Pérez,  M.L.,  “Nomenclatura  de  Química
-Orgánica”.    Editorial    Síntesis,    Madrid,   2008   →   Herranz   Santos,   M.J.,   Pérez   Pérez,   M.L.,
-“Nomenclatura de Química Orgánica”. Editorial Síntesis, Madrid, 2008
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Dobado, J.A., Calvo-Flores, F.G. "Problemas Resueltos de Química Orgánica" Ed. Paraninfo. 2007
+
+Herranz   Santos,   M.J.,   Pérez   Pérez,  M.L.,  “Nomenclatura  de  Química  Orgánica”.  Editorial  Síntesis,
+Madrid, 2008
 
 Quiñoá,   E.;   Riguera,  R.,  “Cuestiones  y  Ejercicios  de  Química  Orgánica”,  (2ª  Edición).  Mc  Graw  Hill
 Interamericana de España. 2004
 
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+Quiñoá, E.; Riguera, R., “Nomenclatura y Representación de los Compuestos Orgánicos”, 2ª Edición. Mc
+Graw Hill Interamericana de España. 2005
+
+📊 Porcentaje estimado de cambio: 54% [█████░░░░░]

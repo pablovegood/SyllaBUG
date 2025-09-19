@@ -2,11 +2,21 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Becker,   Howard  (2018).  Datos,  pruebas  e  ideas.  Por  qué  los  científicos  sociales  deberían  tomárselos
+más en serio y aprender de sus errores. SXXI. (Evidence) Beltrán, Miguel (2000), “Veinte tesis sobre
+la   sociología   como   ciencia   secular”,  en  Beltrán,  Perspectivas  sociales  y  conocimiento,  Anthropos
+Bourdieu, Pierre (2000), “La opinión pública no existe”, en Cuestiones de sociología, Madrid, Istmo
 
-📚 Recursos sin cambios:
+Disponible    en:    http://digibug.ugr.es/bitstream/handle/10481/49968/GomezBueno_InvestigacionSocial
+2018.pdf?sequence=1&isAllowed=y   López-Roldán,   P.   y   Fachelli,  S.  (2015).  Métodos  de  investigación
+social cuantitativa
+
+Disponible    en:    https://ddd.uab.cat/pub/caplli/2015/131468/metinvsoccuan_cap3-5a2015.pdf    Quivy,
+Raymond y Luc Van Campenhoudt. (2005). Manual de Investigación en Ciencias Sociales. Limusa
+
+📚 Recursos sin cambios (23):
 ------------------------------
 Callejo   Gallego,  J.  (coord.)  (2010):  Introducción  a  las  técnicas  de  investigación  social.  Centro  de
 Estudios Ramón Areces
@@ -51,13 +61,13 @@ sociales y del comportamiento. Pearson Educación
 Martín   Criado,   E.  y  Gómez  Bueno,  C.  (2017).  Las  expectativas  parentales  no  explican  el  rendimiento
 escolar. Revista Española de Sociología, 26 (1), 33-52
 
-Quivy, Raymond y Luc Van Campenhoudt. (2005). Manual de Investigación en Ciencias Sociales. Limusa
-
 Requena   Santos,   F.;   Ayuso   Sánchez,   L.  (Coords)  (2018):  Estrategias  de  investigación  en  ciencias
 sociales. Ed Tirant lo Blanch, Valencia
 
 Rodríguez   Monge,   A.   (1992).   Una   aproximación  a  la  teoría  de  muestras.  En  Latiesa,  El  pluralismo
 metodológico en la investigación social. UGR
+
+Rodríguez Osuna, J. (1993). Métodos de muestreo. Casos prácticos. CIS, Madrid
 
 Rubio,   Mª   J.   y   Varas   J.  (2010).  El  análisis  de  la  realidad  en  la  intervención  social.  Métodos  y
 técnicas de investigación. Madrid: Editorial CCS
@@ -68,31 +78,23 @@ Deusto, Bilbao
 Ruiz   Olabuenaga,  J.I.;  Aritegui,  I.;  Melgosa,  L.  (2002):  Cómo  elaborar  un  proyecto  de  investigación
 social.Ed Universidad de Deusto
 
+SPSS: https://www.fibao.es/media/uploads/manual_basico_spss_universidad_de_talca.pdf
+
 Sierra Bravo, R. (1992). Técnicas de investigación social.Ed Paraninfo, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Disponible   2018.pdf?sequence=1&isAllowed=y   López-Roldán,   P.   y   Fachelli,   S.   (2015).  Métodos  de
-investigación    social    cuantitativa    →   López-Roldán,   P.   y   Fachelli,   S.   (2015).   Métodos   de
-investigación               social               cuantitativa.               Disponible              en:
-https://ddd.uab.cat/pub/caplli/2015/131468/metinvsoccuan_cap3-5a2015.pdf
-
-Becker,   Howard  (2018).  Datos,  pruebas  e  ideas.  Por  qué  los  científicos  sociales  deberían  tomárselos
-más en serio y aprender de sus errores. SXXI. (Evidence) Beltrán, Miguel (2000), “Veinte tesis sobre
-la   sociología   como   ciencia   secular”,  en  Beltrán,  Perspectivas  sociales  y  conocimiento,  Anthropos
-Bourdieu,   Pierre  (2000),  “La  opinión  pública  no  existe”,  en  Cuestiones  de  sociología,  Madrid,  Istmo
-→   Beltrán,   Miguel   (2000),   “Veinte   tesis   sobre  la  sociología  como  ciencia  secular”,  en  Beltrán,
-Perspectivas sociales y conocimiento, Anthropos
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Becker,   Howard  (2018).  Datos,  pruebas  e  ideas.  Por  qué  los  científicos  sociales  deberían  tomárselos
 más en serio y aprender de sus errores. SXXI. (Evidence)
 
+Beltrán,   Miguel   (2000),   “Veinte   tesis   sobre   la   sociología   como  ciencia  secular”,  en  Beltrán,
+Perspectivas sociales y conocimiento, Anthropos
+
 Bourdieu, Pierre (2000), “La opinión pública no existe”, en Cuestiones de sociología, Madrid, Istmo
 
-Rodríguez Osuna, J. (1993). Métodos de muestreo. Casos prácticos. CIS, Madrid
+López-Roldán, P. y Fachelli, S. (2015). Métodos de investigación social cuantitativa. Disponible en:
+https://ddd.uab.cat/pub/caplli/2015/131468/metinvsoccuan_cap3-5a2015.pdf
 
-SPSS: https://www.fibao.es/media/uploads/manual_basico_spss_universidad_de_talca.pdf
+Quivy, Raymond y Luc Van Campenhoudt. (2005). Manual de Investigación en Ciencias Sociales. Limusa
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

@@ -2,17 +2,26 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Bombillar   Sáenz,   F.M.:   «Protección   y   tutela  de  los  derechos  fundamentales  del  menor  como  sujeto
+activo   y   pasivo   de   los   contenidos   audiovisuales»,   Desafíos   de  la  protección  de  menores  en  la
+sociedad   digital.  Internet,  redes  sociales  y  comunicación  (Dir.  F.J.  Durán  Ruiz),  Tirant  lo  Blanch,
+Valencia, 2018, pp. 255-307
 
-📚 Recursos sin cambios:
+Coord.   del  monográfico:  «Comunicación  y  sociedad  digital.  El  derecho  en  las  fronteras  de  la  ciencia
+y   tecnología»,   Revista   de   la   Escuela   Jacobea   de   Posgrado,   núm.   12,  2017,  online  en  la  URL:
+https://www.jacobea.edu.mx/revista/numero12.php   Carmona   Salgado,   C.:   Calumnias,  injurias  y  otros
+atentados al honor. Perspectiva doctrinal y jurisprudencial, Tirant lo Blanch, Valencia, 2012
+
+Martínez   Otero,   J.Mª:   La  protección  jurídica  de  los  menores  en  el  entorno  audiovisual:  respuestas
+desde   el   Derecho  a  los  desafíos  de  los  nuevos  medios  audiovisuales  y  digitales,  Aranzadi,  Navarra,
+2013
+
+📚 Recursos sin cambios (65):
 ------------------------------
 (Coord.): Transparencia, Acceso a la información pública y buen gobierno. Estudio de la Ley 19/2013,
 de 9 de diciembre, Tecnos, Madrid, 2014
-
-Azurmendi, A.: Derecho de la información: Guía jurídica para profesionales de la información, Eunsa,
-Pamplona, 2001
 
 Bermejo Vera, J. et al.: Derecho Administrativo. Parte General, Civitas, Madrid, última edición
 
@@ -22,31 +31,25 @@ de comunicación, Tirant lo Blanch, Valencia, 2006
 Boix   Palop,   A.   y   Vidal   Beltrán,   J.Mª  (Coords.):  La  nueva  regulación  del  audiovisual,  Aranzadi-
 Thomson Reuters, Cizur Menor (Navarra), 2014
 
-Carmona   Salgado,   C.:   Calumnias,   injurias   y   otros   atentados   al  honor.  Perspectiva  doctrinal  y
-jurisprudencial, Tirant lo Blanch, Valencia, 2012
-
 Chinchilla,   C.   y   Azpitarte,   M.   (Coord.):   Estudios   sobre   la   Ley   General   de  la  Comunicación
 Audiovisual, Garrigues/Thomson Reuters-Aranzadi, Cizur Menor (Navarra), 2011
 
 Colecciones legislativas Legislación general. Roca, E. y Roca, M.L.: Normas administrativas básicas,
 Tecnos, Madrid, 2008
 
-Conceptos   para  el  estudio  del  Derecho  Administrativo  I/II  en  el  Grado,  Tecnos,  Madrid,  2  volúmenes,
-última edición
-
-Coord.   del  monográfico:  «Comunicación  y  sociedad  digital.  El  derecho  en  las  fronteras  de  la  ciencia
-y   tecnología»,   Revista   de   la   Escuela   Jacobea   de   Posgrado,   núm.   12,  2017,  online  en  la  URL:
-https://www.jacobea.edu.mx/revista/numero12.php
-
 Cosculluela Montaner, L.: Manual de Derecho Administrativo, Thomson-Civitas, Madrid, última edición
 
 Cousido González, M P.: Derecho de la comunicación (3 vols.), Colex, Madrid, 2001
 
 Derecho Administrativo Arana García, E., Castillo Blanco, F.A., Torres López, M.A. y Villalba Pérez,
-F. (Dirs.)
+F. (Dirs.): Conceptos para el estudio del Derecho Administrativo I/II en el Grado, Tecnos, Madrid, 2
+volúmenes, última edición
 
 Derecho   Constitucional   Balaguer   Callejón,   F.   y   otros.:  Derecho  Constitucional,  Tecnos,  Madrid,
 última edición
+
+Derecho   a  la  información  Azurmendi,  A.:  Derecho  de  la  información:  Guía  jurídica  para  profesionales
+de la información, Eunsa, Pamplona, 2001
 
 Desantes   Guanter,   J.M.:   Derecho   a  la  información:  materiales  para  un  sistema  de  la  comunicación,
 Fundación COSO, Valencia, 2004
@@ -73,13 +76,7 @@ Legislación   autonómica.   Porras,   J.A.:   Legislación   de   la  Comunida
 Sevilla, 2000-4
 
 Legislación   de   Comunicación  Audiovisual.  Linde  Paniagua,  E.:  Código  Básico  de  Derecho  Audiovisual,
-Colex, Madrid, 2009. Nota: También pueden consultarse numerosos recursos en Internet. Concretamente,
-se   puede   acceder   a   una   completa   colección  de  Constituciones  hispanoamericanas  en  Andalucía,  el
-Boletín   Oficial   de   la   Junta   de  Andalucía,  en  Asimismo,  las  principales  instituciones  del  Estado
-(Gobierno,   Congreso,   Senado,   Defensor   del   Pueblo,  etc.)  tienen  también  información  relevante  en
-Internet.   Por  nuestra  parte,  debemos  destacar  la  jurisprudencia  del  Tribunal  Constitucional,  que  se
-puede   consultar   en   Normativa   básica  Parte  general  Constitución  Española  Estatuto  de  Autonomía  de
-Andalucía
+Colex, Madrid, 2009
 
 Legislación   local.  Barranco,  R.:  Régimen  jurídico  de  los  Entes  locales  de  Andalucía,  IAAP,  Sevilla,
 2002
@@ -108,6 +105,8 @@ Ley 39/2015, del Procedimiento Administrativo Común
 
 Ley 40/2015, del Régimen Jurídico de las Administraciones Públicas
 
+Ley 50/1997, de 27 de noviembre, de Organización, Competencia y Funcionamiento del Gobierno
+
 Ley 55/2007, de 28 de diciembre, del Cine
 
 Ley   62/1978,   de   26  de  diciembre,  de  protección  jurisdiccional  de  los  derechos  fundamentales  de  la
@@ -118,9 +117,6 @@ Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual
 Ley 8/2009, de 28 de agosto, de financiación de la Corporación de Radio y Televisión Española
 
 Ley 9/2014, de 9 de mayo, de Telecomunicaciones
-
-Ley   Orgánica   1/1982,   de   5   de   mayo,  sobre  protección  civil  del  derecho  al  honor,  a  la  intimidad
-personal y familiar y al a propia imagen
 
 Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional
 
@@ -146,10 +142,25 @@ Manual   recomendado  para  el  estudio  de  la  asignatura  Torres  López,  M.
 Rozados   Oliva,   M.J.   (Dirs.):   Elementos   para   el  estudio  del  Derecho  de  la  Comunicación,  Tecnos,
 Madrid, última edición
 
+Normativa básica Parte general Constitución Española Estatuto de Autonomía de Andalucía
+
+Nota:   También   pueden  consultarse  numerosos  recursos  en  Internet.  Concretamente,  se  puede  acceder  a
+una         completa         colección         de        Constituciones        hispanoamericanas        en
+http://bib.cervantesvirtual.com/portal/Constituciones/.   Por   lo   que   se   refiere  a  legislación,  la
+página   web   del   Boletín   Oficial   del   Estado   es   de   consulta  obligada:  http://www.boe.es/.  Y  en
+Andalucía,       el       Boletín       Oficial       de       la       Junta      de      Andalucía,      en
+http://www.juntadeandalucia.es/boja/boletines/. Mucha información sobre la Unión Europea, incluyendo
+su    Diario    Oficial,    puede    localizarse   en   http://www.cde.ua.es/   Asimismo,   las   principales
+instituciones   del   Estado   (Gobierno,   Congreso,   Senado,  Defensor  del  Pueblo,  etc.)  tienen  también
+información   relevante   en   Internet.   Por   nuestra   parte,   debemos   destacar  la  jurisprudencia  del
+Tribunal   Constitucional,   que   se   puede   consultar   en   http://www.tribunalconstitucional.es/  y  la
+jurisprudencia del Tribunal Supremo y la Audiencia Nacional en http://www.poderjudicial.es/
+
 Orza   Linares,  R.  M:  «Derechos  Fundamentales  e  internet:  nuevos  problemas,  nuevos  retos»,  Revista  de
-Derecho   Constitucional   Europeo,  n.º  18  (2012).  También  se  puede  «El  derecho  a  la  información  en  un
-proceso   con   todas   las   garantías»,   Los   Derechos   Humanos.   Libro-Homenaje  al  Excmo.  Sr.  D.  Luis
-Portero, editado por el Servicio de Publicaciones de la Universidad de Granada, Granada, 2001, pp
+Derecho Constitucional Europeo, n.º 18 (2012). También se puede
+
+Parte   especial  Ley  Orgánica  1/1982,  de  5  de  mayo,  sobre  protección  civil  del  derecho  al  honor,  a  la
+intimidad personal y familiar y al a propia imagen
 
 Presno   Linera,   M.Á.   y   Teruel   Lozano,   G.:   La   libertad  de  expresión  en  América  y  Europa,  Juruá
 Editora, 2017
@@ -187,6 +198,10 @@ Complutense, Madrid, última edición
 
 Urías, J.: Lecciones de Derecho de la Información, Tecnos, Madrid, 2003
 
+«El   derecho   a   la  información  en  un  proceso  con  todas  las  garantías»,  Los  Derechos  Humanos.  Libro-
+Homenaje   al   Excmo.  Sr.  D.  Luis  Portero,  editado  por  el  Servicio  de  Publicaciones  de  la  Universidad
+de Granada, Granada, 2001, pp. 743-774
+
 «El   derecho   al   olvido   en   internet:   algunos   intentos  para  su  regulación  legal»,  en  Libertad  de
 expresión   e   información   en   Internet   (Coords.   L.   Corredoira   y   L.  Cotino),  Centro  de  Estudios
 Políticos y Constitucionales, Madrid, 2013, pp. 475-500
@@ -195,54 +210,39 @@ Políticos y Constitucionales, Madrid, 2013, pp. 475-500
 ámbito   audiovisual:   Análisis   de  las  sanciones  impuestas  por  la  CNMC  en  sus  primeros  cinco  años  de
 existencia», Revista Española de Derecho Administrativo, núm. 196, 2019, pp. 223-268
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (14):
 ------------------------------
-Martínez   Otero,   J.Mª:   La  protección  jurídica  de  los  menores  en  el  entorno  audiovisual:  respuestas
-desde   el   Derecho  a  los  desafíos  de  los  nuevos  medios  audiovisuales  y  digitales,  Aranzadi,  Navarra,
-2013   →   Martínez   Otero,   J.Mª:   La   protección   jurídica  de  los  menores  en  el  entorno  audiovisual:
-respuestas desde el Derecho a los desafíos de los nuevos medios audiovisuales y digitales, Aranzadi,
-Navarra,   2013.   «El   ejercicio  de  la  potestad  sancionadora  de  la  administración  para  proteger  a  los
-menores   en   el   ámbito  audiovisual:  Análisis  de  las  sanciones  impuestas  por  la  CNMC  en  sus  primeros
-cinco   años  de  existencia»,  Revista  Española  de  Derecho  Administrativo,  núm.  196,  2019,  pp.  223-268.
-El   Ejercicio   de   la  Potestad  Sancionadora  de  la  Administración  en  el  Ámbito  Audiovisual,  Tirant  lo
-Blanch, Valencia, 2021
-
-Bombillar Sáenz, F.M.: «Protección y tutela de los derechos fundamentales del menor de menores en la
+Bombillar   Sáenz,   F.M.:   «Protección   y   tutela  de  los  derechos  fundamentales  del  menor  como  sujeto
+activo   y   pasivo   de   los   contenidos   audiovisuales»,   Desafíos   de  la  protección  de  menores  en  la
 sociedad   digital.  Internet,  redes  sociales  y  comunicación  (Dir.  F.J.  Durán  Ruiz),  Tirant  lo  Blanch,
-Valencia,   2018,   pp.   255-307   →   Bombillar   Sáenz,   F.M.:   «Protección   y   tutela   de  los  derechos
-fundamentales del menor como sujeto activo y pasivo de los contenidos audiovisuales», Desafíos de la
-protección   de   menores   en   la  sociedad  digital.  Internet,  redes  sociales  y  comunicación  (Dir.  F.J.
-Durán   Ruiz),  Tirant  lo  Blanch,  Valencia,  2018,  pp.  255-307.  Coord.  del  monográfico:  «Comunicación  y
-sociedad   digital.   El   derecho   en  las  fronteras  de  la  ciencia  y  tecnología»,  Revista  de  la  Escuela
-Jacobea        de        Posgrado,       núm.       12,       2017,       online       en       la       URL:
-https://www.jacobea.edu.mx/revista/numero12.php
+Valencia, 2018, pp. 255-307. Coord. del monográfico: «Comunicación y sociedad digital. El derecho en
+las fronteras de la ciencia y tecnología», Revista de la Escuela Jacobea de Posgrado, núm. 12, 2017,
+online en la URL: https://www.jacobea.edu.mx/revista/numero12.php
 
-✅ Recursos añadidos:
-------------------------------
-Arana   García,  E.,  Castillo  Blanco,  F.A.,  Torres  López,  M.A.  y  Villalba  Pérez,  F.  (Dirs.):  Conceptos
-para   el   estudio   del   Derecho  Administrativo  I/II  en  el  Grado,  Tecnos,  Madrid,  2  volúmenes,  última
-edición
-
-Asimismo, las principales instituciones del Estado (Gobierno, Congreso, Senado, Defensor del Pueblo,
-etc.)   tienen   también   información   relevante   en   Internet.  Por  nuestra  parte,  debemos  destacar  la
-jurisprudencia      del      Tribunal      Constitucional,      que      se      puede      consultar     en
-http://www.tribunalconstitucional.es/   y   la   jurisprudencia   del   Tribunal   Supremo   y  la  Audiencia
-Nacional en http://www.poderjudicial.es/
+Carmona   Salgado,   C.:   Calumnias,   injurias   y   otros   atentados   al  honor.  Perspectiva  doctrinal  y
+jurisprudencial, Tirant lo Blanch, Valencia, 2012
 
 Constitución Española
+
+Coord.   del  monográfico:  «Comunicación  y  sociedad  digital.  El  derecho  en  las  fronteras  de  la  ciencia
+y   tecnología»,   Revista   de   la   Escuela   Jacobea   de   Posgrado,   núm.   12,  2017,  online  en  la  URL:
+https://www.jacobea.edu.mx/revista/numero12.php
+
+Derecho Administrativo
 
 Derecho a la información
 
 Estatuto de Autonomía de Andalucía
 
-Legislación   de   Comunicación  Audiovisual.  Linde  Paniagua,  E.:  Código  Básico  de  Derecho  Audiovisual,
-Colex, Madrid, 2009
-
 Legislación general. Roca, E. y Roca, M.L.: Normas administrativas básicas, Tecnos, Madrid, 2008
 
-Ley 50/1997, de 27 de noviembre, de Organización, Competencia y Funcionamiento del Gobierno
-
-Manual recomendado para el estudio de la asignatura
+Martínez   Otero,   J.Mª:   La  protección  jurídica  de  los  menores  en  el  entorno  audiovisual:  respuestas
+desde   el   Derecho  a  los  desafíos  de  los  nuevos  medios  audiovisuales  y  digitales,  Aranzadi,  Navarra,
+2013.   «El  ejercicio  de  la  potestad  sancionadora  de  la  administración  para  proteger  a  los  menores  en
+el ámbito audiovisual: Análisis de las sanciones impuestas por la CNMC en sus primeros cinco años de
+existencia»,   Revista   Española  de  Derecho  Administrativo,  núm.  196,  2019,  pp.  223-268.  El  Ejercicio
+de   la   Potestad   Sancionadora   de   la   Administración   en   el  Ámbito  Audiovisual,  Tirant  lo  Blanch,
+Valencia, 2021
 
 Normativa básica
 
@@ -265,10 +265,7 @@ Políticos y Constitucionales, Madrid, 2013, pp. 475-500
 
 Parte especial
 
-Parte general
+Torres   López,   M.   A.,   Souvirón   Morenilla,   J.M.  y  Rozados  Oliva,  M.J.  (Dirs.):  Elementos  para  el
+estudio del Derecho de la Comunicación, Tecnos, Madrid, última edición
 
-«El   derecho   a   la  información  en  un  proceso  con  todas  las  garantías»,  Los  Derechos  Humanos.  Libro-
-Homenaje   al   Excmo.  Sr.  D.  Luis  Portero,  editado  por  el  Servicio  de  Publicaciones  de  la  Universidad
-de Granada, Granada, 2001, pp. 743-774
-
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

@@ -2,15 +2,15 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (1):
 ------------------------------
 Analytical     Chemistry     (2.0     electronic    version),    D.    Harvey,    2010.    Descargable    en:
-http://www.asdlib.org/onlineArticles/ecourseware/Analytical Chemistry 2.0/Welcome.html
+http://www.asdlib.org/onlineArticles/ecourseware/Analytical   Chemistry   2.0/Welcome.html  Problems  of
+Instrumental   Analytical  Chemistry.  A  Hands-On  Guide.  JM  Andrade-Garda  et  al.,  ed.  World  Scientific,
+2017
 
+📚 Recursos sin cambios (9):
+------------------------------
 Analytical Chemistry (7ª Edición) G.D. Christian, P. Dasgupta, K. Schug, ed. Wiley, 2013
 
 Análisis instrumental. I. Sierra, D. Pérez, S. Gómez, S. Morante, Netbiblo, 2010
@@ -27,9 +27,6 @@ Madrid 2002
 Fundamentos   de   Química  Analítica  (8ª  Edición)  D.A.  Skoog,  D.M.  West,  F.J.  Holler,  S.R.  Crouch,  ed.
 Thomson, 2005
 
-Problems   of  Instrumental  Analytical  Chemistry.  A  Hands-On  Guide.  JM  Andrade-Garda  et  al.,  ed.  World
-Scientific, 2017
-
 Química Analítica, J.L. Vílchez Quero, Ed. Fleming 2023
 
 Toma y tratamiento de muestras. C. Cámara, ed. Síntesis, Madrid 2002
@@ -37,12 +34,12 @@ Toma y tratamiento de muestras. C. Cámara, ed. Síntesis, Madrid 2002
 Técnicas   de   separación   en   Química   Analítica.   R.  Cela,  R.A.  Lorenzo,  M.C.  Casais,  ed.  Síntesis,
 Madrid 2002
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+Analytical     Chemistry     (2.0     electronic    version),    D.    Harvey,    2010.    Descargable    en:
+http://www.asdlib.org/onlineArticles/ecourseware/Analytical Chemistry 2.0/Welcome.html
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+Problems   of  Instrumental  Analytical  Chemistry.  A  Hands-On  Guide.  JM  Andrade-Garda  et  al.,  ed.  World
+Scientific, 2017
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

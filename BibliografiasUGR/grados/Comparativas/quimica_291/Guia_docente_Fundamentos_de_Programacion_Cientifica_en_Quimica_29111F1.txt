@@ -2,33 +2,30 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+American   Chemical  Society.  2022.  http://doi.org/10.1021/acsinfocus.7e5030  Python  3.  Los  fundamentos
+del lenguaje. Chazallet, Sébastien. 2020
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
-Andrés   Marzal   Varó,  Isabel  Gracia  Luengo,  Pedro  García  Sevilla.  Introducción  a  la  Programación  con
-Python 3. Publicacions de la Universitat Jaume I, 2014. http://dx.doi.org/10.6035/Sapientia93
-
 Introduction    to    Python    for    Engineers    and    Scientists.    Sandeep    Nagar.    Apress    2018.
 https://doi.org/10.1007/978-1-4842-3204-0
 
 Numerical     Python.     A     Practical     Techniques     Approach    for    Industry.    Apress.    2015.
 https://doi.org/10.1007/978-1-4842-0553-2
 
-Python 3. Los fundamentos del lenguaje. Chazallet, Sébastien. 2020
-
-Python      for      Chemists.      Christian      Hill.      Cambridge      University     Press.     2023.
-https://doi.org/10.1017/9781009106696
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Python   for  Chemists.  Kiyoto  Aramis  TanemuraDiego  Sierra-CostaKenneth  M.  Merz  Jr..  American  Chemical
 Society. 2022. http://doi.org/10.1021/acsinfocus.7e5030
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+https://doi.org/10.1007/978-1-4842-0553-2   Python  for  Chemists.  Christian  Hill.  Cambridge  University
+Press. 2023
+
+https://doi.org/10.1007/978-1-4842-3204-0   Andrés   Marzal   Varó,   Isabel  Gracia  Luengo,  Pedro  García
+Sevilla. Introducción a la Programación con Python 3. Publicacions de la Universitat Jaume I, 2014
+
+✅ Recursos añadidos (1):
+------------------------------
+Python 3. Los fundamentos del lenguaje. Chazallet, Sébastien. 2020
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

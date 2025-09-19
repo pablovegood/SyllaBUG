@@ -2,17 +2,20 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 AEBI,   M.;   CEREZO,  A.;  DE  LA  CORTE,  L.;  GIMENEZ-SALINAS,  A.,  Aspectos  esenciales  de  la  Criminología
 actual, UOC, Barcelona, 2016
 
 CID   MOLINÉ,   J.   y   LARRAURI   PIJOAN,   E.,   T  eorías  criminológicas:  explicación  y  prevención  de  la
 delincuencia, Bosch, 2001
+
+GARCÍA-PABLOS DE MOLINA, A., Criminología. Una introducción a sus fundamentos teóricos, 7.ª edición,
+Tirant lo Blanch, Valencia, 2016
 
 GARCÍA-PABLOS DE MOLINA, A., Tratado de Criminología, 5ª Edición, Tirant lo Blanch, 2014
 
@@ -48,17 +51,10 @@ Dykinson, Madrid, 2014
 
 TAMARIT SUMALLA, J.M., Criminología, Editorial UOC, Barcelona, 2014
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-GARCÍA-PABLOS DE MOLINA, A., Criminología. Una introducción a sus fundamentos teóricos, 7.ª edición,
-Tirant lo Blanch, Valencia, 2016
-
 MACÍAS    ESPEJO,    B.    Teorías   sociológicas   de   la   criminalidad.   Fundamentos   explicativos   del
 comportamiento   criminal   y  su  implementación  en  la  prevención  de  la  delincuencia  .  Aranzadi  La  Ley,
 2025
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

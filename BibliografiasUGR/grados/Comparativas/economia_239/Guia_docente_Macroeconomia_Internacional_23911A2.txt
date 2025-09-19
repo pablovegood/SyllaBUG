@@ -2,12 +2,15 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Pugel   T.A.   (2023)   Economía   Internacional   12nd   Edition,   Mc   Graw-Hill  Bengochea  A  et  al  (2002)
+Economía internacional Cuestiones y ejercicios resueltos, Prentice hall
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
+Artículos, apuntes y hojas de ejercicios entregados por los profesores
+
 Feenstra R. and Taylor A.M. (2020) Essentials of international economics. Fifth edition (October 23,
 2020)
 
@@ -18,16 +21,10 @@ Pearson educación
 
 Tugores J. (2013) Economía internacional Globalización e integración económica, Mc Graw-Hill
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Pugel   T.A.   (2023)   Economía   Internacional   12nd   Edition,   Mc   Graw-Hill  Bengochea  A  et  al  (2002)
-Economía   internacional   Cuestiones   y   ejercicios   resueltos,   Prentice   hall   →   Pugel  T.A.  (2023)
-Economía Internacional 12nd Edition, Mc Graw-Hill
-
-✅ Recursos añadidos:
-------------------------------
-Artículos, apuntes y hojas de ejercicios entregados por los profesores
-
 Bengochea A et al (2002) Economía internacional Cuestiones y ejercicios resueltos, Prentice hall
 
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+Pugel T.A. (2023) Economía Internacional 12nd Edition, Mc Graw-Hill
+
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

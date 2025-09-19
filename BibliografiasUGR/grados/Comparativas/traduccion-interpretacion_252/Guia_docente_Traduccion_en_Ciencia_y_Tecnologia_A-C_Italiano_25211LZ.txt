@@ -2,11 +2,12 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+AA.VV. (2008). Grande dizionario tecnico spagnolo. Spagnolo-italiano, italiano-spagnolo [Con CDROM].
+Hoepli Beccaria, G.L. (1987). I linguaggi settoriali in Italia. Milano: Bompiani
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 AA.VV. (1988). Il linguaggio delle scienze e il suo insegnamento. Brescia: La Scuola
 
@@ -19,7 +20,8 @@ scientifica. Roma: Bulzoni, pp.47-69
 Cernetti,   A.,   Pietrobono,   A.,   Ricci  Kholousi,  P.  (1986).  Il  linguaggio  delle  scienze  biologiche.
 Perugia: Guerra
 
-Cortelazzo, M.A. (1990). Lingue speciali. La dimensione verticale. Padova: Unipress. Página 4
+Cortelazzo,   M.A.   (1990).   Lingue   speciali.  La  dimensione  verticale.  Padova:  Unipress.  Página  4  De
+Mauro, T. Dizionario della lengua italiana (versión electrónica)
 
 Denti, R. (1991). Dizionario tecnico. Milano: Hoepli
 
@@ -34,6 +36,8 @@ contemporaneo. La variazione e gli usi. Roma-Bari: Laterza, pp.237-277
 
 Miglioli, E. (1990). Dizionario tecnico italiano-spagnolo. Milano: Tecniche Nuove
 
+NB. Se recomienda el uso de fuentes terminológicas especializadas en soporte electrónico
+
 Pellizzari Demesse, P. (1990). Dizionario tecnico-commerciale italiano-spagnolo e spagnolo-italiano,
 2 vols. Padova: Tradutec [2ª ed. 1991, Firenze: Sansoni]
 
@@ -45,21 +49,16 @@ Tam, L. (1997). Dizionario spagnolo-italiano, italiano-español. Milano: Hoepli
 
 Zingarelli, N. (2012). Vocabolario della Lingua Italiana. Bologna: Zanichelli
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
 AA.VV. (2008). Grande dizionario tecnico spagnolo. Spagnolo-italiano, italiano-spagnolo [Con CDROM].
-Hoepli   Beccaria,   G.L.   (1987).  I  linguaggi  settoriali  in  Italia.  Milano:  Bompiani  →  AA.VV.  (2008).
-Grande dizionario tecnico spagnolo. Spagnolo-italiano, italiano-spagnolo [Con CDROM]. Hoepli
+Hoepli
 
-✅ Recursos añadidos:
-------------------------------
 Beccaria, G.L. (1987). I linguaggi settoriali in Italia. Milano: Bompiani
 
-De Mauro, T. Dizionario della lengua italiana (versión electrónica)
-
-NB. Se recomienda el uso de fuentes terminológicas especializadas en soporte electrónico
+Cortelazzo, M.A. (1990). Lingue speciali. La dimensione verticale. Padova: Unipress. Página 4
 
 Sobrero,   A.A.   (1993).   “Lingue   speciali”   in   A.A.  Sobrero  (a  cura  di),  Introduzione  all’italiano
 contemporaneo. La variazione e gli usi. Roma-Bari: Laterza, pp.237-277
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

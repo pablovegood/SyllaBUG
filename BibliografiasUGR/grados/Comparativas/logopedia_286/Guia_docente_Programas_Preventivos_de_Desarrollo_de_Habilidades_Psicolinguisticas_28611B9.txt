@@ -2,11 +2,17 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Brancal,   M.   F.  (2000).  Logopedia  creativa  en  personas  con  síndrome  de  Down:  lenguaje  y  deficiencia
+intelectual.   Barcelona:   Lebón   Buela-Casal,   G.,   Fernández-Ríos,   L.   y   Carrasco,   T.  J.  (1997).
+Psicología preventiva
 
-📚 Recursos sin cambios:
+Peñafiel,   M.   (2009).   Guía   de   Intervención  Logopédica  en  la  Disgrafía.  Madrid:  Síntesis  Villegas
+Lirola,   F.   (2010).   Materiales   de   logopedia:   evaluación   e   intervención   de   las   dificultades
+fonológicas. Madrid: Pirámide
+
+📚 Recursos sin cambios (21):
 ------------------------------
 Aguado, G. (2000). Desarrollo del lenguaje de 0-3 años. Madrid: CEPE
 
@@ -52,27 +58,23 @@ Madrid: CEPE
 Moreno,   S.   (2005).   Psicología   del   desarrollo   cognitivo   y   adquisición   del   lenguaje.  Madrid:
 Biblioteca Nueva
 
-Peñafiel, M. (2009). Guía de Intervención Logopédica en la Disgrafía. Madrid: Síntesis
-
 Rondal,   J.   y   Serán,   X.   (1991).   Trastornos   del   lenguaje   I.   Lenguaje  oral,  lenguaje  escrito,
 neurolingüística. Barcelona: Paidós
 
 Serón, J. M. y Aguilar, M. (1992). Psicopedagogía de la comunicación y el lenguaje. Madrid: EOS
 
+Seviane,   M.  P.  (2002).  Ciceron:  programa  para  el  desarrollo  y  mejora  de  la  capacidad  articulatoria.
+Madrid: CEPE
+
 Veiga,   M.   P.   (2004).   Estimulación   del   lenguaje   en   Educación  Infantil.  Guía  práctica  para  los
 docentes. Vigo: Ideas propias
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
 Brancal,   M.   F.  (2000).  Logopedia  creativa  en  personas  con  síndrome  de  Down:  lenguaje  y  deficiencia
-intelectual.   Barcelona:   Lebón   Buela-Casal,   G.,   Fernández-Ríos,   L.   y   Carrasco,   T.  J.  (1997).
-Psicología   preventiva   →   Brancal,   M.   F.   (2000).   Logopedia  creativa  en  personas  con  síndrome  de
-Down: lenguaje y deficiencia intelectual. Barcelona: Lebón
+intelectual. Barcelona: Lebón
 
-✅ Recursos añadidos:
-------------------------------
-Seviane,   M.  P.  (2002).  Ciceron:  programa  para  el  desarrollo  y  mejora  de  la  capacidad  articulatoria.
-Madrid: CEPE
+Peñafiel, M. (2009). Guía de Intervención Logopédica en la Disgrafía. Madrid: Síntesis
 
 Villegas   Lirola,   F.  (2010).  Materiales  de  logopedia:  evaluación  e  intervención  de  las  dificultades
 fonológicas. Madrid: Pirámide
@@ -81,4 +83,4 @@ Zhuravlova,   L.,   Sheremet,   M.,   Suprun,   D.,   Fedorenko,   S.,  &  Dubia
 examination   of   primary  school  students  by  means  of  speech  therapy  screening.  BRAIN.  Broad  Research
 in Artificial Intelligence and Neuroscience, 12 (1), 326-342
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

@@ -2,17 +2,19 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Chris   Bowick,   RF   Circuit   Desing,  Newnes  1997  H.  L.  Krauss  et  al.,  Solid  State  Radio  Engineering,
+Wiley, 1980
 
-📚 Recursos sin cambios:
+D.   Pederson,   K.   Mayaram,  Analog  Integrated  Circuits  for  Communication:  Principles,  Simulation  and
+Design,   Kluwer   Academic   Publishers,   1991.   BIBLIOGRAFÍA   COMPLEMENTARIA:   S.  C.  Cripps,  RF  Power
+Amplifiers for Wireless Communications, Adtech Book Co., 1999
+
+📚 Recursos sin cambios (4):
 ------------------------------
 A.   B.   Carlson   et   al.,   Communication   Systems:  an  Introduction  to  Signal  and  Noise  in  Electrical
 Communications, McGraw-Hill, 2002
-
-D.   Pederson,   K.   Mayaram,  Analog  Integrated  Circuits  for  Communication:  Principles,  Simulation  and
-Design, Kluwer Academic Publishers, 1991. BIBLIOGRAFÍA COMPLEMENTARIA
 
 F. Losee, RF Systems, Components and Circuits Handbook, Adtech Book Co., 1997
 
@@ -21,15 +23,15 @@ House, 1993
 
 P. H. Young, Electronic Communication Techniques, Prentice Hall, 1994
 
-S. C. Cripps, RF Power Amplifiers for Wireless Communications, Adtech Book Co., 1999
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Chris   Bowick,   RF   Circuit   Desing,  Newnes  1997  H.  L.  Krauss  et  al.,  Solid  State  Radio  Engineering,
-Wiley, 1980  →  H. L. Krauss et al., Solid State Radio Engineering, Wiley, 1980
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Chris Bowick, RF Circuit Desing, Newnes 1997
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+D.   Pederson,   K.   Mayaram,  Analog  Integrated  Circuits  for  Communication:  Principles,  Simulation  and
+Design, Kluwer Academic Publishers, 1991. BIBLIOGRAFÍA COMPLEMENTARIA
+
+H. L. Krauss et al., Solid State Radio Engineering, Wiley, 1980
+
+S. C. Cripps, RF Power Amplifiers for Wireless Communications, Adtech Book Co., 1999
+
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

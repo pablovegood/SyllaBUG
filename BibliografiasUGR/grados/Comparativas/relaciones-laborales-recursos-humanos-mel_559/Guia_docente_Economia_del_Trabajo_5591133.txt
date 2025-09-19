@@ -2,16 +2,18 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Averett,   SL.,   Argys,  L.M.,  y  Hoffman,  S.D.  (Eds.).  (2018).  The  Oxford  Handbook  of  the  Economics  of
 Women. Oxford University Press
 
 BLANCHARD, O. (2000): Macroeconomía. Madrid, Prentice Hall
+
+Cahuc, P. y Zylberberg, A. (2021). Labor Economics. The MIT Press
 
 FINA SANGLAS, LLUIS (2001): El reto del empleo, Madrid, McGraw-Hill
 
@@ -33,6 +35,9 @@ Aires: Fondo de Cultura Económica
 NEFFA,   JC   (2006):   Teorías   Económicas   sobre   el   mercado   de   trabajo.   II,  Neoclásicos  y  nuevos
 keynesianos. Buenos Aires: Fondo de Cultura Económica
 
+PALACIO   JI   y  ALVAREZ  C  El  mercado  de  trabajo:  Análisis  y  Políticas.  Akal.  Economía  Actual:  Madrid.
+2004: 13-92
+
 RUESGA, S. (2002): Economía del trabajo y política laboral. Madrid, Ed. Pirámide
 
 Ruesga   M,   Lassierra   JM,   Pérez  L.,  Pérez  M.  y  Da  Silva  B.  (2014).  Economía  del  trabajo  y  política
@@ -40,15 +45,8 @@ laboral. Colección Economía y Empresa. Ediciones Pirámide. Madrid
 
 Ryan, M.M. (Ed.). (Publicación anual). Handbook of U.S. Labor Statistics. Bernan Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Cahuc, P. y Zylberberg, A. (2021). Labor Economics. The MIT Press. PALACIO JI y ALVAREZ C El mercado
-de   trabajo:   Análisis   y   Políticas.   Akal.   Economía   Actual:   Madrid.   2004:   13-92  →  Cahuc,  P.  y
-Zylberberg, A. (2021). Labor Economics. The MIT Press
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-PALACIO   JI   y  ALVAREZ  C  El  mercado  de  trabajo:  Análisis  y  Políticas.  Akal.  Economía  Actual:  Madrid.
-2004: 13-92
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

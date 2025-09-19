@@ -2,15 +2,24 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (10):
 ------------------------------
 Babin, C. (1991). Principes de Paléontologie. Armand Colin, Paris
+
+Benton, M.J., 1997. Vertebrate palaeontology. Cambridge Univ. Press, London
+
+Boardman   R.S.,   Cheethan   A.H.   &   Rowell   A.J.   (eds.),   (1987).   Fossil   Invertebrates.  Blackwell
+Publishing, Oxford Cowen, R. (1995). History of life. Blackwell, Oxford
 
 Carroll, R.L., 1988. Vertebrate Paleontology and evolution. W.H. Freeman and Company, New York
 
 Little, C. (1983). The Colonisation of Land. Cambridge University Press, Cambridge
 
 Margulis, L. (1981). Symbiosis in Cell Evolution. Freeman, San Francisco
+
+Martínez-Chacón,   M.L.   &   Rivas,   P.   (2009).   Paleontología  de  Invertebrados.  Sociedad  Geológico  y
+Minero   de   España,   Gijón   Armstrong,   H.   A.   &   Brasier,   M.   D.   (2004).  Microfossils.  Blackwell
+Publishing, Oxford
 
 McMenamin,   M.   A.   S.   y   McMenamin,   D.   L.   S.   (1990).   The   Emergence   of  Animals:  The  Cambrian
 Breakthrough. Columbia University Press, Nueva York
@@ -20,7 +29,7 @@ Nield, E.W. & Tucker, V.C.T. (1985): Paleontology. An Introduction. Pergamon Pre
 Nisbett,   E.  G.  (1991).  Living  Earth.  A  Short  History  of  Life  and  its  Home.  Harper  Collins  Academic,
 Londres
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Ausich, W. I. y Lane, N. G. (1999). Life of the Past. Prentice Hall, Englewood
 
@@ -50,30 +59,22 @@ University Press, Princeton
 
 Stanley, S. M. (1999). Earth System History. Freeman and Co., San Francisco
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (12):
 ------------------------------
-Benton,   M.J.,   1997.  Vertebrate  palaeontology.  Cambridge  Univ.  Press,  London  →  Benton,  M.J.  (2024).
-Vertebrate palaeontology. Cambridge Univ. Press, London
+Armstrong, H. A. & Brasier, M. D. (2004). Microfossils. Blackwell Publishing, Oxford
 
-Boardman   R.S.,   Cheethan   A.H.   &   Rowell   A.J.   (eds.),   (1987).   Fossil   Invertebrates.  Blackwell
-Publishing,   Oxford   Cowen,   R.   (1995).   History   of   life.   Blackwell,   Oxford  →  Cowen,  R.  (1995).
-History of life. Blackwell, Oxford
-
-Martínez-Chacón,   M.L.   &   Rivas,   P.   (2009).   Paleontología  de  Invertebrados.  Sociedad  Española  de
-Paleontología,   Universidad   de   Oviedo,   Universidad   de   Granada  e  Instituto  Geológico  y  Minero  de
-España,   Gijón   Armstrong,  H.  A.  &  Brasier,  M.  D.  (2004).  Microfossils.  Blackwell  Publishing,  Oxford
-→  Armstrong, H. A. & Brasier, M. D. (2004). Microfossils. Blackwell Publishing, Oxford
-
-✅ Recursos añadidos:
-------------------------------
 Benton,   M.J.   &   Harper,   D.A.T   (2009).  Introduction  to  Paleobiology  and  the  Fossil  Record.  Wiley-
 Blackwell, Oxford
+
+Benton, M.J. (2024). Vertebrate palaeontology. Cambridge Univ. Press, London
 
 Boardman   R.S.,   Cheethan   A.H.   &   Rowell   A.J.   (eds.),   (1987).   Fossil   Invertebrates.  Blackwell
 Publishing, Oxford
 
 Brunton, C.H.C., Cocks, L.R.M y Long, S.L. (2001) Brachiopods. Past and Present, Taylor and Francis.
 Londres
+
+Cowen, R. (1995). History of life. Blackwell, Oxford
 
 Gee,   C.T.,   McCoy,   V.E.   y   Sander,   P.M.   (2021).   Fossilization.   John  Hopkins  University  Press,
 Baltimore
@@ -92,4 +93,4 @@ España, Gijón
 McGowran,   B.  (2005).  Biostratigraphy.  Microfossils  and  Geological  Time.  Cambridge  University  Press.
 Cambridge
 
-📊 Porcentaje estimado de cambio: 82% [████████░░]
+📊 Porcentaje estimado de cambio: 88% [████████░░]

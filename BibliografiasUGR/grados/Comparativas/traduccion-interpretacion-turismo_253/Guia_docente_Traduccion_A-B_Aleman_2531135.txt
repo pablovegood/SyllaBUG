@@ -2,11 +2,14 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Durán   Muñoz,   Isabel   (2012).  Caracterización  de  la  traducción  turística:  problemas,  dificultades  y
+posibles    soluciones.    Revista    de    Lingüística    y   Lengua   Aplicadas   (7):   103-113[Disponible
+en:https://dialnet.unirioja.es/servlet/articulo?codigo=4778780]   Fuentes  Luque,  Adrián  (ed.)  (2005).
+La traducción en el sector turístico. Granada: Atrio
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 García   Izquierdo,   Isabel   (ed.)   (2005).  El  género  textual  y  la  traducción:  Reflexiones  teóricas  y
 aplicaciones pedagógicas. Berna: Peter Lang
@@ -35,17 +38,12 @@ Christiane Nord). Mit einem Vorwort von Georges Bastin. Berlin: Frank & Timme
 Nord,   Christiane   (2018).  Translating  as  a  Purposeful  Activity,  2nd  edition,  completely  revised  and
 updated. With a foreword by Georges Bastin. London/New York: Routledge
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Durán   Muñoz,   Isabel   (2012).  Caracterización  de  la  traducción  turística:  problemas,  dificultades  y
-posibles   soluciones.   Revista   de   Lingüística   y   Lengua  Aplicadas  (7):  103-113[Disponible  Fuentes
-Luque,   Adrián   (ed.)   (2005).  La  traducción  en  el  sector  turístico.  Granada:  Atrio  →  Fuentes  Luque,
-Adrián (ed.) (2005). La traducción en el sector turístico. Granada: Atrio
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Durán   Muñoz,   Isabel   (2012).  Caracterización  de  la  traducción  turística:  problemas,  dificultades  y
 posibles    soluciones.    Revista    de    Lingüística    y   Lengua   Aplicadas   (7):   103-113[Disponible
 en:https://dialnet.unirioja.es/servlet/articulo?codigo=4778780]
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+Fuentes Luque, Adrián (ed.) (2005). La traducción en el sector turístico. Granada: Atrio
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

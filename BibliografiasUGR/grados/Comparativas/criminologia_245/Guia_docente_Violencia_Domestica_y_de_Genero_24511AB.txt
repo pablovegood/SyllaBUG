@@ -2,11 +2,11 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 CASTILLEJO MANZANARES, R. (Dir): Violencia de género y justicia, USC, Santiago de Compostela, 2013
 
@@ -29,22 +29,20 @@ género. Noticias jurídicas.com. 2011
 
 MORILLAS CUEVA, L. (Coord.): Estudios penales sobre violencia doméstica, Dykinson, Madrid, 2002
 
-RUBIO,   A.,   &   GIL   RUIZ,   J.M.,  Dignidad  e  Igualdad  en  derechos.  El  acoso  en  el  trabajo,  Dykinson,
-Madrid, 2014
-
-Revista   Anales   de   la  Cátedra  Francisco  Suárez,  nº  48,  Violencia  Institucional  de  Género,  Granada,
-2014
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 MORILLAS   CUEVA,   L.   (Dir.):   Estudios   sobre   el   Código  Penal  reformado  (Leyes  Orgánicas  1/2015  y
 2/2015), Madrid, Dykinson, 2015
 
 Manuales   actualizados   de   Derecho   Penal.  Parte  Especial,  Derecho  Procesal  Penal,  Derecho  Procesal
 Civil y Derecho de Familia
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+RUBIO,   A.,   &   GIL   RUIZ,   J.M.,  Dignidad  e  Igualdad  en  derechos.  El  acoso  en  el  trabajo,  Dykinson,
+Madrid, 2014
+
+Revista   Anales   de   la  Cátedra  Francisco  Suárez,  nº  48,  Violencia  Institucional  de  Género,  Granada,
+2014
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,20 +2,30 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+AA.VV.,   Terra   Sigillata.   Pasado,   presente   y  futuro  cerámico,  XII  N.A.C.E.,  Navarrete,  2022  ABAD
+CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss
 
-📚 Recursos sin cambios:
+CHADZI-VALLIANOU, D., Phaistos, Athènes, 1998 CHADWICK, J., El enigma micénico, Madrid, 1973
+
+GOUDINEAU, Ch., Fouilles de l’Ecole Française de Rome à Bolsena (Poggio Moscini) 1962-1967
+
+La ceramique aretine lisse, Paris, 1968
+
+WALTER-KAPYDH,   E.  La  casa  helenística  [en  griego],  Atenas,  2000  ZAPHIROPOULOU,  Ph.,  Délos,  Athènes,
+2003
+
+📚 Recursos sin cambios (60):
 ------------------------------
 AA.VV. (DROUGOU, S. Ed.), Hellenistic pottery from Macedonia, Thessaloniki, 1991
+
+AA.VV. , La ciudad en el mundo romano, 2 vols., Tarragona, 1994
 
 AA.VV., El mundo micénico. Cinco siglos de la primera civilización europea (1600-1100 a.C.), Madrid,
 1992
 
 AA.VV., La Villa Romana del Casale di Piazza Armerina, Cronache di Archeologia, 23 1984
-
-AA.VV., La ciudad en el mundo romano, 2 vols., Tarragona, 1994
 
 AA.VV., Las peintures de Pompei, 1993
 
@@ -35,7 +45,7 @@ BARTON, J.M., (Ed.), Roman Domestic Buildings, Exeter, 1996
 
 BRUNEAU, Ph., La mosaïque antique, Paris, 1987
 
-CAHILL,   N.,   "Olynthus   and   Greek   Town   Planning",   The   Classical   World,   Vol.   93,   No.  5,  The
+CAHILL,   N.,   "Olynthus   and   Greek   Town   Planning",   The   Classical   World   ,   Vol.  93,  No.  5,  The
 Organization of Space in Antiquity (May - Jun., 2000), pp. 497-515
 
 CIARALLO, A., Verde Pompeiano, L'Erma, Roma, 2000
@@ -84,7 +94,8 @@ GROS,   P.,   L'architecture   romaine   du   debut  du  IIIe.  siècle  av.  J.
 Maisons, palais, villas et tombeaux, Ed. Picard, Paris, 2001
 
 GROS,   P.,   L’architecture   romaine  du  début  du  IIIe  siècle  av.  J.C.  à  la  fin  du  Hault-Empire  1.  Les
-monuments publics, Paris, 1996
+monuments publics, Paris, 1996 GROS, P., L'architecture romaine du debut du IIIe. siècle av. J.-C. à
+la fin du Haut-Empire. 2
 
 GROS, P., TORELLI, M., Storia dell’urbanistica. Il mondo romano, Roma-Bari, 1994
 
@@ -138,6 +149,8 @@ and Late Antique Pottery in the Mediterranean, Oxford, 2018
 
 SNODGRASS, A. M., Arqueología de Grecia, Barcelona, 1990
 
+Se facilitará una bibliografía más específica cuando se solicite
+
 VAQUERIZO   GIL   D.   (coord.):   Funus   Cordubensium.   Costumbres   funerarias   en   la   Córdoba  romana,
 Universidad de Córdoba, 2001
 
@@ -147,30 +160,15 @@ VOKOTOPOULOU, I., Thessalonique: les edifices publics romains, Thessalonique, 20
 
 ZANKER, P., Augusto y el poder de las imágenes, Madrid, 1992
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-La   ceramique   aretine   lisse,  Paris,  1968  →  GOUDINEAU,  Ch.,  Fouilles  de  l’Ecole  Française  de  Rome  à
-Bolsena (Poggio Moscini) 1962-1967. La ceramique aretine lisse, Paris, 1968
-
-AA.VV.,   Terra   Sigillata.   Pasado,   presente   y  futuro  cerámico,  XII  N.A.C.E.,  Navarrete,  2022  ABAD
-CASAL,   L.,   "Aspectos   técnicos   de   la  pintura  mural  romana",  Lucentum,  I,  1982,  pp.  135  ss  →  ABAD
-CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss
-
-CHADZI-VALLIANOU,   D.,   Phaistos,   Athènes,   1998   CHADWICK,   J.,  El  enigma  micénico,  Madrid,  1973  →
-CHADZI-VALLIANOU, D., Phaistos, Athènes, 1998
-
-GOUDINEAU,   Ch.,   Fouilles   de   l’Ecole   Française   de   Rome   à  Bolsena  (Poggio  Moscini)  1962-1967  →
-GOUDINEAU,   Ch.,   Fouilles   de   l’Ecole   Française   de  Rome  à  Bolsena  (Poggio  Moscini)  1962-1967.  La
-ceramique aretine lisse, Paris, 1968
-
-WALTER-KAPYDH,   E.  La  casa  helenística  [en  griego],  Atenas,  2000  ZAPHIROPOULOU,  Ph.,  Délos,  Athènes,
-2003  →  WALTER-KAPYDH, E. La casa helenística [en griego], Atenas, 2000
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (13):
 ------------------------------
 AA.VV., Terra Sigillata. Pasado, presente y futuro cerámico, XII N.A.C.E., Navarrete, 2022
 
+ABAD CASAL, L., "Aspectos técnicos de la pintura mural romana", Lucentum, I, 1982, pp. 135 ss
+
 CHADWICK, J., El enigma micénico, Madrid, 1973
+
+CHADZI-VALLIANOU, D., Phaistos, Athènes, 1998
 
 DALSOGLIO,   S.,   The   Amphorae   of   the   Kerameikos   Cemetery  at  Athens  from  the  Submycenaean  to  the
 Protogeometric   Period:   Pottery,   Grave   Assemblages   and   the  Rite  of  Cremation.  BAR  International
@@ -182,7 +180,13 @@ Presentación, mediante metodología de alta tecnología, de las
 FERNÁNDEZ   GARCÍA,   Mª   I.,   Breve   introducción  al  estudio  de  la  terra  sigillata.  I.  Estructuras  de
 producción y comercialización, Centros de Estudios Universidad y Progreso 1999
 
-Se facilitará una bibliografía más específica cuando se solicite
+GOUDINEAU,   Ch.,   Fouilles   de   l’Ecole   Française   de  Rome  à  Bolsena  (Poggio  Moscini)  1962-1967.  La
+ceramique aretine lisse, Paris, 1968
+
+GOUDINEAU,   Ch.,   Fouilles   de   l’Ecole   Française   de  Rome  à  Bolsena  (Poggio  Moscini)  1962-1967.  La
+ceramique aretine lisse, Paris, 1968
+
+WALTER-KAPYDH, E. La casa helenística [en griego], Atenas, 2000
 
 ZAPHIROPOULOU, Ph., Délos, Athènes, 2003
 
@@ -191,4 +195,4 @@ también en App
 
 https://play.google.com/store/apps/details?id=com.zuinqstudio.sigillahispaniae
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

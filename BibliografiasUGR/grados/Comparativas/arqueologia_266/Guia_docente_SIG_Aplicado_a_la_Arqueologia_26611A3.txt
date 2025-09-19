@@ -2,23 +2,33 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+J.   Bosque:   "Sistemas   de   Información   Geográfica".   Ed.  Rialp.  Madrid.  1992  J.  Bosque,  A.  Moreno:
+"Sistemas   de  Información  Geográfica  y  localización  de  instalaciones  y  equipamientos".  Editorial  Ra-
+Ma. Madrid. 2004
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 A. Moreno: "Sistemas y análisis de la información geográfica. Manual de autoaprendizaje con ArcGis".
 Ed. Rama. Madrid. 2005
 
-C.   Ordoñez,   R.  Martínez:  "Sistemas  de  Información  Geográfica.  Aplicaciones  prácticas  con  Idrisi  32
-al análisis de riesgos naturales y problemáticas medioambientales". Editorial Ra-Ma. Madrid. 2002
+D.   Comas,   E.   Ruiz:   "Fundamentos  de  los  Sistemas  de  Información  Geográfica".  Ed.  Ariel  Geografía.
+Barcelona. 1993
 
 J.   Conolly,   M.   Lake:   "Geographical   Information   Systems   in   Archaeology".  Cambridge  Manuals  in
 Archaeology. Cambridge University Press. 2006
 
+J.   Guimet:   "Introducción   conceptual   a   los  Sistemas  de  Información  Geográfica".  Estudio  Gráfico.
+Madrid. 1992
+
+J. Gutierrez, M. Gould: "SIG: Sistemas de información Geográfica". Ed. Síntesis. Madrid. 1994
+
 J.   Peña   Llopis:   "Sistemas   de   Información   Geográfica   aplicados   a   la  gestión  del  Territorio".
 Editorial Club Universitario. Alicante. 2006
+
+J.L.   Barredo:   "Sistemas   de  Información  Geográfica  y  Evaluación  Multicriterio  en  la  ordenación  del
+territorio". Ed. Rama. Madrid. 1996
 
 J.M. Santos: "Sistemas de Información Geográfica". UNED. Madrid. 2004
 
@@ -26,6 +36,9 @@ K.C. Clarke: “Getting Started with GIS”. Prentice Hall 2003
 
 M.   Gillings,   P.   Hacıgüzeller,   G.  Lock  (ed.).:  "Archaeological  Spatial  Analysis:  A  Methodological
 Guide". Taylor & Francis. 2020
+
+M. Neteler, H. Mitasova: “Open Source GIS: A GRASS GIS Approach”. 2008. Kluwer Academic Publisher M.
+Gould, J. Gutierrez: “SIG: sistemas de información geográfica”. Editorial Síntesis
 
 M. Workboy, M. Duckham: “GIS. A computing perspective”. CRC Press 2004
 
@@ -42,30 +55,17 @@ T. Corbin: "Learning ArcGIS Pro. Second Edition". Packt Publishing. 2015
 V.     Olaya:     "Sistemas     de     Información     Geográfica".     ISBN:    978-1-71677-766-0.    2020.
 http://volaya.github.io/libro-sig/
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+http://volaya.github.io/libro-sig/   C.   Ordoñez,   R.   Martínez:  "Sistemas  de  Información  Geográfica.
+Aplicaciones    prácticas    con    Idrisi    32   al   análisis   de   riesgos   naturales   y   problemáticas
+medioambientales". Editorial Ra-Ma. Madrid. 2002
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
-D.   Comas,   E.   Ruiz:   "Fundamentos  de  los  Sistemas  de  Información  Geográfica".  Ed.  Ariel  Geografía.
-Barcelona. 1993
-
 J.   Bosque,   A.   Moreno:   "Sistemas   de   Información   Geográfica   y   localización  de  instalaciones  y
 equipamientos". Editorial Ra-Ma. Madrid. 2004
 
 J. Bosque: "Sistemas de Información Geográfica". Ed. Rialp. Madrid. 1992
 
-J.   Guimet:   "Introducción   conceptual   a   los  Sistemas  de  Información  Geográfica".  Estudio  Gráfico.
-Madrid. 1992
-
-J. Gutierrez, M. Gould: "SIG: Sistemas de información Geográfica". Ed. Síntesis. Madrid. 1994
-
-J.L.   Barredo:   "Sistemas   de  Información  Geográfica  y  Evaluación  Multicriterio  en  la  ordenación  del
-territorio". Ed. Rama. Madrid. 1996
-
 M. Gould, J. Gutierrez: “SIG: sistemas de información geográfica”. Editorial Síntesis. 2001
 
-M. Neteler, H. Mitasova: “Open Source GIS: A GRASS GIS Approach”. 2008. Kluwer Academic Publisher
-
-📊 Porcentaje estimado de cambio: 57% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]

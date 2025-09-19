@@ -2,11 +2,11 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Isemann.   Digital   Control   Systems.   Springer   Ogata.   Designing  linear  control  systems  vía  Matlab.
 Prentice Hall
@@ -17,24 +17,21 @@ Ogata K. Ingeniería de control moderna. Pearson-Prentice Hall Ogata K. Sistemas
 discreto.   Pearson   Education   Dorf   R.C;  Bishop.  Sistemas  de  control  moderno.  Pearson-Prentice  Hall
 Valera A. Modelado y control en el espacio de estados. Editorial Universidad Politécnica de Valencia
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Dorf R.C; Bishop. Sistemas de control moderno. Pearson-Prentice Hall
-
-Gajic. Modern Control Systen Engineering. Prentice Hall
-
-Isemann. Digital Control Systems. Springer
-
-Ogata K. Sistemas de control en tiempo discreto. Pearson Education
-
 Philips. Digital Control Systems. Analysis and Design. Prentice Hall
+
+Politéc. Valencia, Shashian B. Control system design using Matlab. Prentice Hall Rugh. Linear system
+theory. Prentice Hall Gajic. Modern Control Systen Engineering. Prentice Hall
 
 Ricolfe. C; Valera. A. Actividades Prácticas de Control en El Espacio de Estados. Ed. Univ. Politéc.
 Valencia
+
+✅ Recursos añadidos (6):
+------------------------------
+Isemann. Digital Control Systems. Springer
+
+Ogata K. Ingeniería de control moderna. Pearson-Prentice Hall
+
+Ogata K. Sistemas de control en tiempo discreto. Pearson Education
 
 Rugh. Linear system theory. Prentice Hall
 
@@ -42,4 +39,4 @@ Shashian B. Control system design using Matlab. Prentice Hall
 
 Valera A. Modelado y control en el espacio de estados. Editorial Universidad Politécnica de Valencia
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

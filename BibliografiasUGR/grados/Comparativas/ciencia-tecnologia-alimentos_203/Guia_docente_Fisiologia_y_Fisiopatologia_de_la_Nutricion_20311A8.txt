@@ -2,27 +2,44 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+Editorial ERGON. Madrid, 2006 PONCE J. Tratamiento de las enfermedades gastrointestinales. Editorial
+DOYMA y Asociación Española de gastroenterología. Madrid, 2001
 
-📚 Recursos sin cambios:
+L.   Mahan,   S   Scott,   J  Raymond.  Krause  Dietoterapia  14ª  edición.  Editorial  Elsevier  Barcelona  2017
+Laso   F.J  .Introducción  a  la  Medicina  Clínica.  Fisiopatología  y  semiología  4  edición  .ElsevierMasson
+.Barcelona 2020
+
+Madrid   2015   Mataix  Verdú  J.  Nutrición  para  educadores.2ª  edición.  Editorial:  Díaz  de  Santos.Madrid
+2013
+
+RUIZ   M,   SÁNCHEZ   VALVERDE   F,   DALMAU   J.   Tratamiento   nutricional   de   los   errores   innatos  del
+metabolismo. Editorial ERGON. Madrid, 2004 TOJO R. Tratado de nutrición pediátrica. Editorial DOYMA.
+Barcelona,   2001   WILLIAMS,   R.W.  Tratado  de  Endocrinología.  13ª  edición.  México:  Ed.  Interamericana
+México. 2017
+
+Salas-Salvadó   J.   Nutrición   y   dietética   clínica,  4ª  edición.  Elsevier.Barcelona.  2019  S.  Escott.
+Nutrición,diagnostico y tratamiento. 8ª edición.Barcelona 2016 Shils, ME, Olson, JA, Shike, M. Ross,
+AC   “Nutrición   en   Salud  y  Enfermedad”  Editorial:  McGrawHill  Interamericana  Méjico.  Novena  edición.
+2002
+
+📚 Recursos sin cambios (10):
 ------------------------------
 BALLABRIGA A, CARRASCOSA A. Nutrición en la infancia y la adolescencia. 3ª edición. Editorial ERGON.
 Madrid, 2006
 
 Diccionario médico de bolsillo. Editorial Marban, 2005
 
-Diccionario médico. Editorial Marban, 2005
-
-Ed. Médica Panamericana. 2020 Diccionarios y atlas médicos
-
-Food   and   Nutrition   Board.   Dietary   reference  intakes  for  energy,  carbohydrate,  fiber,  fat,  fatty
-acids,   cholesterol,   protein   and   amino   acids.   Institute   of  Medicine  of  the  National  Academies.
-Washington: National Academy Press; 2002-2005
-
 Gil A. Bases Fisiológicas y Bioquímicas de la Nutrición. 3ª edición. Editorial Panamericana. Madrid,
 2017
+
+Libros   de   texto:   Food   and   Nutrition   Board.  Dietary  reference  intakes  for  energy,  carbohydrate,
+fiber, fat, fatty acids, cholesterol, protein and amino acids. Institute of Medicine of the National
+Academies. Washington: National Academy Press; 2002-2005
+
+MANUALES   DE   PRÁCTICAS:   Varios   autores.   Cuadernos   de   prácticas   de  Fisiología.  Departamento  de
+Fisiología, Ed. Avicam, 2023
 
 Mataix Verdú J. Nutrición y Alimentación Humana. 2ª edición.rev.Editorial: ERGON. Madrid 2015
 
@@ -31,41 +48,21 @@ Netter, F. H. Atlas de Anatomía Humana, 6ª edición. Ed. Elsevier, 2015
 Pastrana   Delgado   J.   y  García  de  Casasola  Sánchez.  Fisiopatología  y  patología  general  básicas  para
 ciencias de la salud. Editorial Elsevier, Barcelona, 2013
 
-S. Escott. Nutrición,diagnostico y tratamiento. 8ª edición.Barcelona 2016
-
-Shils,   ME,   Olson,   JA,   Shike,  M.  Ross,  AC  “Nutrición  en  Salud  y  Enfermedad”  Editorial:  McGrawHill
-Interamericana Méjico. Novena edición. 2002
-
-Stabler   T,   Peterson   G,   Smith   L,   Gibson   MC   y   Zanetti  N.  PhysioEx  6.0  para  fisiología  humana.
-Simulaciones de laboratorio de fisiología. Pearson. Addison Wesley, 2006
+SIMULACIONES   INFORMÁTICAS:  Stabler  T,  Peterson  G,  Smith  L,  Gibson  MC  y  Zanetti  N.  PhysioEx  6.0  para
+fisiología humana. Simulaciones de laboratorio de fisiología. Pearson. Addison Wesley, 2006 Mataix J
+y García Diz, 2006. Software Nutriber, S.A
 
 Tortora, G.J. and Derrickson, B. Principios de Anatomía y Fisiología. 16 edición. Méjico: Ed. Médica
-Panamericana. 2020
+Panamericana. 2020 Diccionarios y atlas médicos: Diccionario médico. Editorial Marban, 2005
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (16):
 ------------------------------
-Editorial ERGON. Madrid, 2006 PONCE J. Tratamiento de las enfermedades gastrointestinales. Editorial
-DOYMA   y   Asociación   Española   de   gastroenterología.   Madrid,   2001   →  PONCE  J.  Tratamiento  de  las
-enfermedades gastrointestinales. Editorial DOYMA y Asociación Española de gastroenterología. Madrid,
-2001
+Diccionario médico. Editorial Marban, 2005
 
-Madrid   2015   Mataix  Verdú  J.  Nutrición  para  educadores.2ª  edición.  Editorial:  Díaz  de  Santos.Madrid
-2013  →  Mataix Verdú J. Nutrición para educadores.2ª edición. Editorial: Díaz de Santos.Madrid 2013
-
-L.   Mahan,   S   Scott,   J  Raymond.  Krause  Dietoterapia  14ª  edición.  Editorial  Elsevier  Barcelona  2017
-Laso   F.J  .Introducción  a  la  Medicina  Clínica.  Fisiopatología  y  semiología  4  edición  .ElsevierMasson
-.Barcelona   2020   →   Laso   F.J   .Introducción   a   la  Medicina  Clínica.  Fisiopatología  y  semiología  4
-edición .ElsevierMasson .Barcelona 2020
-
-RUIZ   M,   SÁNCHEZ   VALVERDE   F,   DALMAU   J.   Tratamiento   nutricional   de   los   errores   innatos  del
-metabolismo. Editorial ERGON. Madrid, 2004 TOJO R. Tratado de nutrición pediátrica. Editorial DOYMA.
-Barcelona,   2001   WILLIAMS,   R.W.  Tratado  de  Endocrinología.  13ª  edición.  México:  Ed.  Interamericana
-México.   2017   →   WILLIAMS,   R.W.  Tratado  de  Endocrinología.  13ª  edición.  México:  Ed.  Interamericana
-México. 2017
-
-✅ Recursos añadidos:
-------------------------------
 L. Mahan, S Scott, J Raymond. Krause Dietoterapia 14ª edición. Editorial Elsevier Barcelona 2017
+
+Laso   F.J  .Introducción  a  la  Medicina  Clínica.  Fisiopatología  y  semiología  4  edición  .ElsevierMasson
+.Barcelona 2020
 
 Libros de texto
 
@@ -73,15 +70,28 @@ MANUALES DE PRÁCTICAS
 
 Mataix J y García Diz, 2006. Software Nutriber, S.A
 
+Mataix Verdú J. Nutrición para educadores.2ª edición. Editorial: Díaz de Santos.Madrid 2013
+
+PONCE   J.   Tratamiento  de  las  enfermedades  gastrointestinales.  Editorial  DOYMA  y  Asociación  Española
+de gastroenterología. Madrid, 2001
+
 RUIZ   M,   SÁNCHEZ   VALVERDE   F,   DALMAU   J.   Tratamiento   nutricional   de   los   errores   innatos  del
 metabolismo. Editorial ERGON. Madrid, 2004
+
+S. Escott. Nutrición,diagnostico y tratamiento. 8ª edición.Barcelona 2016
 
 SIMULACIONES INFORMÁTICAS
 
 Salas-Salvadó J. Nutrición y dietética clínica, 4ª edición. Elsevier.Barcelona. 2019
 
+Shils,   ME,   Olson,   JA,   Shike,  M.  Ross,  AC  “Nutrición  en  Salud  y  Enfermedad”  Editorial:  McGrawHill
+Interamericana Méjico. Novena edición. 2002
+
 TOJO R. Tratado de nutrición pediátrica. Editorial DOYMA. Barcelona, 2001
 
-Varios autores. Cuadernos de prácticas de Fisiología. Departamento de Fisiología, Ed. Avicam, 2023
+Tortora, G.J. and Derrickson, B. Principios de Anatomía y Fisiología. 16 edición. Méjico: Ed. Médica
+Panamericana. 2020
 
-📊 Porcentaje estimado de cambio: 76% [███████░░░]
+WILLIAMS, R.W. Tratado de Endocrinología. 13ª edición. México: Ed. Interamericana México. 2017
+
+📊 Porcentaje estimado de cambio: 80% [████████░░]

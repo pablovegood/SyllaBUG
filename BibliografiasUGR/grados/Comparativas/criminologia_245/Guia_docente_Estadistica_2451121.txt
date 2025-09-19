@@ -2,19 +2,22 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Aitken, C., Roberts, P. & Jackson, G. (2009) Fundamentals of Probability and Statistical Evidence in
-Criminal Proceedings. Guidance for Judges, Lawyers, Forensic Scientists and change/rss-fundamentals-
-probability-statisticalevidence.pdf
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Abad,   F.;   Huete.   M.D.   y   Vargas,  M.  (2016).  Estadística,  Probabilidad  e  Introducción  al  Análisis
 Demográfico: Aplicaciones con R Commander Ed. Técnica AVICAM. Granada
 
 Abad,   F.;   Vargas,   M.   (2002).   Análisis  de  datos  para  las  Ciencias  Sociales  con  SPPS.  Ed.  Urbano.
 Granada
+
+Aitken, C., Roberts, P. & Jackson, G. (2009) Fundamentals of Probability and Statistical Evidence in
+Criminal   Proceedings.   Guidance   for   Judges,   Lawyers,   Forensic   Scientists  and  Expert  Witnesses.
+Descargable    en    http://www.rss.org.uk/Images/PDF/influencing-change/rss-fundamentals-probability-
+statisticalevidence.pdf
 
 Calot, G. Curso de estadística descriptiva. (1974). Ed. Paraninfo, Madrid
 
@@ -35,15 +38,8 @@ Criminology (Second Edition), Illinois. Waveland Press
 Williams,   F.P.   (2009):   Statistical   Concepts   for   Criminal   Justice  and  Criminology,  New  Jersey.
 Pearson Prentice Hall
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Aitken, C., Roberts, P. & Jackson, G. (2009) Fundamentals of Probability and Statistical Evidence in
-Criminal   Proceedings.   Guidance   for   Judges,   Lawyers,   Forensic   Scientists  and  Expert  Witnesses.
-Descargable    en    http://www.rss.org.uk/Images/PDF/influencing-change/rss-fundamentals-probability-
-statisticalevidence.pdf
-
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

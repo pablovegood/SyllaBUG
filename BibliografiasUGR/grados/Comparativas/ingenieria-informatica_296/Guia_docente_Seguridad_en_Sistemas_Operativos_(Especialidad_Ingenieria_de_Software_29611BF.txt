@@ -2,11 +2,11 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 Andriesse,   D.,   &  Bos,  H.  (2019).  Practical  binary  analysis  :  build  your  own  Linux  tools  for  binary
 instrumentation, analysis, and disassembly (1st edition). No Starch Press
@@ -39,8 +39,19 @@ Maíllo Fernández, J. (2020). Ciberseguridad : hacking ético . Ra-Ma
 Mohanta,   A.,   &   Saldanha,   A.  (2020).  Malware  analysis  and  detection  engineering  :  a  comprehensive
 approach to detect and analyze modern malware (1st ed.). Apress
 
+Oakley, J. (2019). Professional Red Teaming Conducting Successful Cybersecurity Engagements (1st ed.
+2019.). Apress. https://doi.org/10.1007/978-1-4842-4309-1
+
+Oettinger, W. (2020). Learn Computer Forensics (1st edition). Packt Publishing
+
 Reddy,   N.   (2019).   Practical  Cyber  Forensics  An  Incident-Based  Approach  to  Forensic  Investigations
 (1st ed. 2019.). Apress. https://doi.org/10.1007.978-1-4842-4460-9
+
+Roussev,   V.   (2017).  Digital  forensic  science  :  issues,  methods,  and  challenges  .  Morgan  &  Claypool
+Publishers. https://doi.org/10.2200/S00738ED1V01Y201610SPT019
+
+Sirapat   Boonkrong.   (2021).   Authentication  and  access  control  :  practical  cryptography  methods  and
+tools (1st ed. 2021.). Apress. https://doi.org/10.1007/978-1-4842-6570-3
 
 Tarandach,   I.,   &   Coles,   M.  (2021).  Threat  modeling  :  a  practical  guide  for  developing  teams  (1st
 edition). O’Reilly
@@ -50,22 +61,8 @@ the command line (First edition.). O’Reilly
 
 Viega, J., & Messier, M. (2003). Secure programming cookbook for C and C++ / . O’Reilly
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-2.Oakley,   J.   (2019).   Professional   Red   Teaming  Conducting  Successful  Cybersecurity  3.Roussev,  V.
-(2017).   Digital   forensic   science   :   issues,   methods,   and  challenges  .  Morgan  &  4.Oettinger,  W.
-(2020).   Learn   Computer   Forensics   (1st   edition).   Packt  Publishing  →  Oettinger,  W.  (2020).  Learn
-Computer Forensics (1st edition). Packt Publishing
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Oakley, J. (2019). Professional Red Teaming Conducting Successful Cybersecurity Engagements (1st ed.
-2019.). Apress. https://doi.org/10.1007/978-1-4842-4309-1
-
-Roussev,   V.   (2017).  Digital  forensic  science  :  issues,  methods,  and  challenges  .  Morgan  &  Claypool
-Publishers. https://doi.org/10.2200/S00738ED1V01Y201610SPT019
-
-Sirapat   Boonkrong.   (2021).   Authentication  and  access  control  :  practical  cryptography  methods  and
-tools (1st ed. 2021.). Apress. https://doi.org/10.1007/978-1-4842-6570-3
-
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

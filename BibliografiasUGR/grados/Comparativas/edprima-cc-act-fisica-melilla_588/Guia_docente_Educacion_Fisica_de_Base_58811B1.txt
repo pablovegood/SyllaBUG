@@ -2,11 +2,12 @@
 Grado: edprima-cc-act-fisica-melilla (588)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+BATALLA,   A.   (2000).   Habilidades  motrices,  Barcelona,  INDE  VV.AA.  (1993).  Fundamentos  de  educación
+física para la enseñanza primaria, Barcelona, INDE,Vº 1 y 2
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 AMICALE EPS (1986). El niño y la actividad física de 2 a 10 años. Barcelona, Paidotribo
 
@@ -28,30 +29,24 @@ García, A. et. al. (1998). Los juegos en la educación física de los 6 a los 1
 Ruiz Pérez, L.M. (1994a). Desarrollo motor y actividades físicas. Madrid: Gymnos
 
 Ruiz   Pérez,   L.M.   (1994b).   Deporte   y   aprendizaje.   Procesos   de   adquisición   y   desarrollo   de
-habilidades. Madrid: Visor. en Educación Física Escolar. Madrid: Gymnos
+habilidades. Madrid: Visor
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
+Ruiz   Pérez,   L.M.   (1995).   Competencia   motriz.   Elementos  para  comprender  el  aprendizaje  motor  en
+Educación Física Escolar. Madrid: Gymnos
+
 Ruiz,   F   y   García,   M.A.   (2001).   Desarrollo   de   la   motricidad   a   través  del  juego.  Materiales
+convencionales y no convencionales como recursos metodológicos. Madrid: Gymnos
+
 convencionales y no convencionales como recursos metodológicos. Madrid: Gymnos Lleixá, T. (1991). La
-educación   física   en   preescolar   y  ciclo  inicial  –  4  a  8  años-.  Barcelona  →  Ruiz,  F  y  García,  M.A.
-(2001).    Desarrollo    de   la   motricidad   a   través   del   juego.   Materiales   convencionales   y   no
-convencionales como recursos metodológicos. Madrid: Gymnos
+educación   física   en   preescolar   y   ciclo   inicial  –  4  a  8  años-.  Barcelona:  Paidotribo  (CAMPUS  DE
+CEUTA)
 
-BATALLA,   A.   (2000).   Habilidades  motrices,  Barcelona,  INDE  VV.AA.  (1993).  Fundamentos  de  educación
-física   para   la   enseñanza   primaria,   Barcelona,   INDE,Vº   1   y   2  →  VV.AA.  (1993).  Fundamentos  de
-educación física para la enseñanza primaria, Barcelona, INDE,Vº 1 y 2
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 BATALLA, A. (2000). Habilidades motrices, Barcelona, INDE
 
 LE BOULCH, J.: (1991). La educación psicomotriz en la escuela primaria. Barcelona, Paidós Ibérica
 
-Lleixá,   T.   (1991).   La   educación   física   en  preescolar  y  ciclo  inicial  –  4  a  8  años-.  Barcelona:
-Paidotribo (CAMPUS DE CEUTA)
+VV.AA. (1993). Fundamentos de educación física para la enseñanza primaria, Barcelona, INDE,Vº 1 y 2
 
-Ruiz   Pérez,   L.M.   (1995).   Competencia   motriz.   Elementos  para  comprender  el  aprendizaje  motor  en
-Educación Física Escolar. Madrid: Gymnos
-
-📊 Porcentaje estimado de cambio: 54% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

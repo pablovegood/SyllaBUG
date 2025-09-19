@@ -2,21 +2,16 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+HUDSON,   N.   Soil   Conservation.   3nd   ed.   Bastord,   London.  1995  KHAN,  S.U.  Pesticides  in  the  soil
+environment. Elsevier. Amsterdam. 1980
 
-📚 Recursos sin cambios:
-------------------------------
-ASSINK, J.W.; BRINK, W.J. Contamined Soil. Martinus Nijhoff Publ. 1986
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (14):
 ------------------------------
 AGUILAR, J.; MARTINEZ, A.; ROCA, A. Evaluación y manejo de suelos. Univ. de Granada. 1996
+
+ASSINK, J.W.; BRINK, W.J. Contamined Soil. Martinus Nijhoff Publ. 1986
 
 C.E.O.T.M.A.   Guía   para   la   elaboración   de   estudios   del   medio  físico:  contenido  y  metodología.
 Manuales. C.E.O.T.M.A. Madrid. 1996
@@ -24,10 +19,6 @@ Manuales. C.E.O.T.M.A. Madrid. 1996
 FAO. Esquema para la evaluación de tierras. v. 32. Roma. 1976
 
 FAO. Metodología provisional para la evaluación de la degradación de los suelos Roma. 1980
-
-HUDSON, N. Soil Conservation. 3nd ed. Bastord, London. 1995
-
-KHAN, S.U. Pesticides in the soil environment. Elsevier. Amsterdam. 1980
 
 KIRBY, M. J. y MORGAN R. P. C. Erosión de suelos. Limusa. México. 1984
 
@@ -51,4 +42,10 @@ SEOANEZ, M. Contaminación del suelo. Mundi Prensa. Madrid. 1999
 
 TOHARIA, M. El desierto invade España. Inst. Estudios Financieros. Madrid. 1988
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+HUDSON, N. Soil Conservation. 3nd ed. Bastord, London. 1995
+
+KHAN, S.U. Pesticides in the soil environment. Elsevier. Amsterdam. 1980
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

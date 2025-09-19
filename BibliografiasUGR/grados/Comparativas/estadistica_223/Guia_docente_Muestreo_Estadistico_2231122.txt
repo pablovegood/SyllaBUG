@@ -2,11 +2,12 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Hedayat, A. S. y Sinha, B. K. (1991). Design and Inference in Finite Population Sampling. John Wiley
+& Sons LOHR, S. Muestreo: diseño y análisis. (2000) International Thompson Editores. Méjico
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 Azorín,   Sánchez-Crespo.  Métodos  y  aplicaciones  del  muestreo.  Alianza  Universidad  Textos.  ·  Cochran.
 Técnicas de muestreo. Editorial Cecsa
@@ -26,18 +27,14 @@ Thompson, S. (1992). Sampling. John Wiley & Sons
 
 Tillé, Y. (2020). Sampling and estimation from finite populations. John Wiley & Sons
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Hedayat, A. S. y Sinha, B. K. (1991). Design and Inference in Finite Population Sampling. John Wiley
-&   Sons   LOHR,   S.   Muestreo:   diseño   y   análisis.  (2000)  International  Thompson  Editores.  Méjico  →
 Hedayat, A. S. y Sinha, B. K. (1991). Design and Inference in Finite Population Sampling. John Wiley
 & Sons
 
-✅ Recursos añadidos:
-------------------------------
 LOHR, S. Muestreo: diseño y análisis. (2000) International Thompson Editores. Méjico
 
 Rueda,   M.;   Arcos,   A.   (1998).   Problemas   de   Muestreo   en   Poblaciones   Finitas.  Grupo  Editorial
 Universitario
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

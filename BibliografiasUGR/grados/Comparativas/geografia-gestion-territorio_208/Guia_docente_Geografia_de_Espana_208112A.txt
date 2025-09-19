@@ -2,28 +2,87 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (11):
 ------------------------------
-No hay elementos.
+Asociación   Cultural   RECREAS   (-).   Climatología   de   Canarias.   En  Gran  Enciclopedia  Virtual  Islas
+Canarias.                                         Recuperado                                        de
+https://www.gevic.net/info/contenidos/mostrar_contenidos.php?idcat=22&idcap=92&idcon=53     1    Banco
+Mundial     (2022).     Esperanza     de     vida     al     nacer,     total     (años).     Recuperado    de
+https://datos.bancomundial.org/indicador/SP.DYN.LE00.IN   Cantos,   V.  (2022).  Mapa  sobre  la  jerarquía
+urbana   de   España.   En   Aula   de  Historia.  Recuperado  de  https://auladehistoria.org/mapa-jerarquia-
+urbana-en-espana/   Capel-Molina,   J.J.   (2000).  El  clima  de  la  península  Ibérica.  Barcelona,  España:
+Ariel
 
-📚 Recursos sin cambios:
+Datos      Macro     (2023).     España.     Esperanza     de     vida     al     nacer.     Recuperado     de
+https://datosmacro.expansion.com/demografia/esperanza-vida/espana   Deltell,   A.   (2006).  El  fenómeno
+glaciar cuaternario en la península Ibérica. Enseñanza de las
+
+Martínez-Ibarra,   E.  (2016).  "Crisis  climáticas  y  espacio  litoral:  el  caso  de  Benidorm  (España)".  En
+Clima,   sociedad,   riesgos   y   ordenación   del   territorio  (545-555).  X  Congreso  Internacional  de  la
+Asociación   Española   de   Climatología.   Alicante,   5,   6,   7   &   8   octubre   de  2016.  Recuperado  de
+https://rua.ua.es/dspace/bitstream/10045/58020/1/2016_X-Congreso-AEC-Alicante_51.pdf Martín-Vide, J.
+(1996).       Iberian      pensinsula:      Climate      components      (Esquema).      Recuperado      de
+https://www.winestats.info/climate-maps-iberian-peninsula/
+
+Prieto, G. (2022). Así se ha organizado España a través de los siglos. En Blog Geografía Infinita
+
+Recuperado de http://elauladehistoria.blogspot.com/2016/04/
+
+Recuperado de https://www.geografiainfinita.com/2017/10/asi-se-ha-formado-el-mapa-de-espana/
+
+Ruesga,   S.M.  &  da  Silva-Bichara,  J.  (2008).  Deslocalización  industrial  en  la  globalización:  el  caso
+de        España.        Economía        UNAM,        5       (13),       113-127.       Recuperado       de
+https://www.redalyc.org/pdf/3635/363542894001.pdf   Sánchez,  R.  (29  DE  OCTUBRE  DE  2021).  El  exceso  de
+mortalidad   en   la   pandemia:  a  las  46.000  muertes  de  más  en  la  primera  ola  se  suman  ya  44.000  desde
+septiembre.     Eldiario.es.     Recuperado    de    https://www.eldiario.es/sociedad/muertes-esperadas-
+septiembre-evoluciona-peor-crisismortalidad-inicio-democracia-exceso-momo-29-de-
+octubre_1_6946073.html
+
+Solís-Trapero,   E.,   Ureña-Francés,   J.M.   &   Corrochano,   B.R.A.  (2012).  Transformación  del  sistema
+urbano-territorial   en   la   región   central   de   la   España   peninsular:   la  emergencia  de  la  región
+policéntrica   madrileña.   Scripta   Nova:   Revista   Electrónica  de  Geografía  y  Ciencias  Sociales,  XVI
+(420).    Recuperado    de   https://revistes.ub.edu/index.php/ScriptaNova/article/view/14782   Statista
+(2022). Porcentaje de población mayor de 65 años en la Unión Europea en 2020, por país
+
+WETTERZENTRALE   (2022).   Top   kartem  y  Archiv.  Recuperado  de  https://www.wetterzentrale.de/  Yébenes,
+A.,   Estévez,   A.,  López-Arcos,  M.  &  Alfaro,  P.  (2004).  Itinerario  geológico  litoral  entre  Benidorm,
+Altea   y   Calpe.   En   P.   Alfaro,   J.M.   Andreu,   A.  Estévez,  J.E.  Tent-Manclús  &  A.  Yébenes  (Eds.),
+Geología   de   Alicante   (pp.   89-115).   Alicante,   España:   Universidad   de   Alicante.  Recuperado  de
+https://rua.ua.es/dspace/bitstream/10045/121657/1/Geologia-de-Alicante.pdf
+
+de            https://www.researchgate.net/publication/259012387_Atlas_Climatico_Digital_de_la_Penins
+ula_Iberica_Metodologia_y_Aplicaciones_en_Bioclimatologia_y_Geobotanica
+
+doi.org/10.46272/2409-3416-2018-2-73-77
+
+📚 Recursos sin cambios (38):
 ------------------------------
 Agencia   Estatal   de   Meteorología   &   Instituto  de  Meteorología  de  Portugal  (2011).  Atlas  climático
-ibérico.   Recuperado  de  https://www.researchgate.net/publication/276059112_Atlas_Climatico_Iberico_-
+ibérico. Recuperado de https://www.researchgate.net/publication/276059112_Atlas_Climatico_ Iberico_-
 _Iberian_Climate_Atlas
 
-Amillo-Alegre,   F.   (2022).   Agua.   En   El   blog   de  la  historia  de  Benidorm.  Recuperado  de  Arbolapp
-Canarias   (-).   Paisaje   Vegetal   y  pisos  de  vegetación.  En  Arbolapp  Canarias.  Recuperado  Asociación
-Cultural   RECREAS   (-).   Climatología   de   Canarias.   En   Gran   Enciclopedia  Virtual  Islas  Canarias.
-Recuperado   de  Banco  Mundial  (2022).  Esperanza  de  vida  al  nacer,  total  (años).  Recuperado  de  Cantos,
-V.   (2022).   Mapa   sobre   la   jerarquía   urbana  de  España.  En  Aula  de  Historia.  Recuperado  de  Capel-
-Molina, J.J. (2000). El clima de la península Ibérica. Barcelona, España: Ariel
+Amillo-Alegre,    F.    (2022).    Agua.   En   El   blog   de   la   historia   de   Benidorm.   Recuperado   de
+https://histobenidorm.blogspot.com/
+
+Arbolapp   Canarias   (-).   Paisaje  Vegetal  y  pisos  de  vegetación.  En  Arbolapp  Canarias.  Recuperado  de
+https://www.arbolappcanarias.es/arboles-y-bosques/
 
 Costa,   M.,   Morla,   C.   &   Sainz,   H.  (1995).  Los  Bosques  Ibéricos.  Una  interpretación  geobotánica.
 Barcelona, España: Planeta
 
+Deltell,   A.   (2006).   El   fenómeno   glaciar   cuaternario   en  la  península  Ibérica.  Enseñanza  de  las
+Ciencias   de   la  Tierra:  Revista  para  de  la  Asociación  Española  para  la  Enseñanza  de  las  Ciencias  de
+la Tierra, 13 (3), 242-251. Recuperado de https://raco.cat/index.php/ECT/article/view/89055/133829
+
+EUMETRAIN         (2022).        Satellite        Image        Interpretation.        Recuperado        de
+https://resources.eumetrain.org/courses/satellite_image_interpretation.html      Eurostat      (2022).
+Fertility                        indicators.                        Recuperado                       de
+https://ec.europa.eu/eurostat/databrowser/view/demo_find/default/map?lang=en
+
 Farinós   Dasí,   J.   y  Olcina  Cantos,  J.  (Coord.)  (2017):  Geografía  Regional  de  España.  Valencia,  Ed.
 Tirant lo Blanch
+
+Fernández-Cuesta, G. (dir.) (2019). Atlas de Geografía Humana de España. Madrid, España: Paraninfo
 
 Fontama,   Mª.A.   &  Gisbert,  Mª.J.  (2008).  Altea-Mascarat.  En  P.  Alfaro-García,  J.M.  Andreu-Rodes,  A.
 Estévez-Rubio,   J.A.   Pina-Gosálbez   &   Yébenes-Simón,   A.   (Eds.),   Itinerarios   Geológicos   por  la
@@ -33,7 +92,35 @@ Gil Olcina, A & Gómez Mendoza, J. (Coords) (2001): Geografía de España. Ed. A
 
 Gil-Lobo (2019). La banana azul europea. Concentración de población, riqueza y oportunidades
 
-Gil-Olcina, A. & Olcina-Cantos, J. (1997). Climatología General. Barcelona, España: Ariel
+Gobierno         de         Canarias         (-).         Gran         Canaria.        Recuperado        de
+https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/files/formidable/Pi      sos-
+Gran-Canaria.pdf    INE    (2024).    Cifras    de    población.    Total    ambos    sexos.   Recuperado   de
+https://www.ine.es/jaxiT3/Tabla.htm?t=9663&L=0
+
+INE      (2024).      Cifras      de      población.      Total      ambos      sexos.      Recuperado     de
+https://www.ine.es/jaxiT3/Tabla.htm?t=9663&L=0
+
+INE   (2024).   Defunciones   por   causas   (lista   reducida)   por   sexo  y  grupos  de  edad.  Recuperado  de
+https://www.ine.es/jaxiT3/Datos.htm?t=7947#!tabs-grafico
+
+INE   (2024).   Esperanza   de   vida   al   nacimiento   por  comunidad  autónoma,  según  sexo.  Recuperado  de
+https://www.ine.es/jaxiT3/Datos.htm?t=1448#!tabs-mapa
+
+INE     (2024).    Proporción    de    mayores    de    cierta    edad    por    provincia.    Recuperado    de
+https://www.ine.es/jaxiT3/Tabla.htm?t=1488
+
+INE   (2024).   Saldo  migratorio  por  mil  habitantes  por  comunidad  autónoma  (desde  2008).  Recuperado  de
+https://www.ine.es/jaxiT3/Datos.htm?t=5228#!tabs-grafico
+
+INE (2024). Tasa de natalidad por comunidad autónoma, según nacionalidad (española/extranjera) de la
+madre. Recuperado de https://www.ine.es/jaxiT3/Datos.htm?t=1433#!tabs-grafico
+
+Loidi   et  al.  (2007).  A  survey  of  heath  vegetation  of  the  Iberian  peninsula  and  Northern  Morrocco:  a
+biogeographic            and           bioclimatic           approarch.           Recuperado           de
+https://www.researchgate.net/publication/232613291_A_survey_of_heath_vegetation_of_th
+e_Iberian_Peninsula_and_Northern_Morocco
+
+Martín-Vide, J. (2005). Los mapas de tiempo. Barcelona, España: Davinci Continental
 
 Martínez-Cortizas,   A.   &   Pérez-Alberti,   A.   (1999).   Atlas   Climático   de   Galicia.   Santiago   de
 Compostela, España: Nome
@@ -59,6 +146,15 @@ Holanda: Elsevier
 Oña,   P.   (2016).   Regiones   biogeográficas.   En  Blog  para  la  Enseñanza-Aprendizaje  de  la  Geografía.
 Recuperado de http://elauladehistoria.blogspot.com/2016/04/
 
+Pita, M.F. & Cuadrat, J.M. (2006). Climatología. Madrid, España: Cátedra
+
+Páramo      Pictures      (2017).      Alcolitos      (o      despacito      galego).      Recuperado     de
+https://www.youtube.com/watch?v=xyyFLbrdaDg
+
+Recuperado           de          https://www.eulixe.com/articulo/infografia-del-dia/zona-europa-mayor-
+concentracionpoblacion-riqueza-oportunidades/20190711010755015545.html    Gil-Olcina,   A.   &   Olcina-
+Cantos, J. (1997). Climatología General. Barcelona, España: Ariel
+
 Romero, J. (coord.). (2017): Geografía Humana de España. Valencia, Universidad de Valencia
 
 Snetkova,   M.  (2018).  Mecanismo  lingüísticos  de  humor  en  las  parodias  musicales  del  proyecto  gallego
@@ -68,8 +164,6 @@ https://doi.org/10.46272/2409-3416-2018-2-73-77
 Tapiador,    F.    J.   (2019).   The   Geography   of   Spain:   A   Complete   Synthesis.   Springer   Nature.
 https://doi.org/10.1007/978-3-030-18907-5
 
-Toro-Sánchez, F. (2017). La construcción histórica del territorio español. (Material inédito)
-
 Tullot, F. (2000). Climatología de España y Portugal. Salamanca, España: Universidad de Salamanca
 
 Unidad   de   Datos.   Agencia  EFE  (24  de  abril  de  2021).  Los  gráficos  que  explican  cómo  ha  cambiado  la
@@ -78,77 +172,18 @@ https://www.elconfidencial.com/espana/2021-04-20/poblacion-espana-un-ano-pandemi
 coronavirus_3042247/
 
 United   States   Army   Service  Forces  (1943).  Ocean  currents  and  sea  ice,  del  Atlas  of  World  Maps.  En
-Army Specialized Training Division, Atlas of World Maps
+Army Specialized Training Division , Atlas of World Maps
 
-Yébenes,   A.,   Estévez,   A.,  López-Arcos,  M.  &  Alfaro,  P.  (2004).  Itinerario  geológico  litoral  entre
-Benidorm,   Altea   y   Calpe.   En   P.   Alfaro,  J.M.  Andreu,  A.  Estévez,  J.E.  Tent-Manclús  &  A.  Yébenes
-(Eds.),   Geología  de  Alicante  (pp.  89-115).  Alicante,  España:  Universidad  de  Alicante.  Recuperado  de
-http://hdl.handle.net/10045/121657
+WEATHER ON LINE (2022). Experts charts. Recuperado de https://www.weatheronline.co.uk/
 
-🔁 Misma obra con edición/año distinto:
+https://doi.org/10.1007/978-3-030-18907-5   Toro-Sánchez,   F.   (2017).   La  construcción  histórica  del
+territorio español. (Material inédito)
+
+✅ Recursos añadidos (19):
 ------------------------------
-Gobierno   de   Canarias  (-).  Gran  Canaria.  Recuperado  de  sos-Gran-Canaria.pdf  INE  (2024).  Defunciones
-por   causas   (lista  reducida)  por  sexo  y  grupos  de  edad.  Recuperado  de  INE  (2024).  Esperanza  de  vida
-al   nacimiento   por   comunidad  autónoma,  según  sexo.  Recuperado  INE  (2024).  Proporción  de  mayores  de
-cierta   edad   por   provincia.   Recuperado   de   INE   (2024).   Saldo  migratorio  por  mil  habitantes  por
-comunidad   autónoma   (desde   2008)   →  INE  (2024).  Defunciones  por  causas  (lista  reducida)  por  sexo  y
-grupos de edad. Recuperado de https://www.ine.es/jaxiT3/Datos.htm?t=7947#!tabs-grafico
-
-Datos   Macro   (2023).   España.   Esperanza   de   vida   al   nacer.  Recuperado  de  Deltell,  A.  (2006).  El
-fenómeno   glaciar   cuaternario   en   la   península   Ibérica.   Enseñanza  de  las  Ciencias  de  la  Tierra:
-Revista   para   de   la   Asociación   Española   para  la  Enseñanza  de  las  Ciencias  de  la  Tierra,  13  (3),
-242-251.   Recuperado   de   Diaz-San-Andrés,  A.  (2020).  Tema  13.  Reinos  biogeográficos.  13.6.  División
-biogeográfica de la EUMETRAIN (2022). Satellite Image Interpretation. Recuperado de Eurostat (2022).
-Fertility indicators. Recuperado de Fernández-Cuesta, G. (dir.) (2019). Atlas de Geografía Humana de
-España.    Madrid,    España   →   EUMETRAIN   (2022).   Satellite   Image   Interpretation.   Recuperado   de
-https://resources.eumetrain.org/courses/satellite_image_interpretation.html
-
-Ruesga,   S.M.  &  da  Silva-Bichara,  J.  (2008).  Deslocalización  industrial  en  la  globalización:  el  caso
-de   España.   Economía   UNAM,   5  (13),  113-127.  Recuperado  de  Sánchez,  R.  (29  DE  OCTUBRE  DE  2021).  El
-exceso   de   mortalidad   en   la   pandemia:   a  las  46.000  muertes  de  más  en  la  primera  ola  se  suman  ya
-44.000   desde   septiembre.   Eldiario.es.   Recuperado  mortalidad-inicio-democracia-exceso-momo-29-de-
-octubre_1_6946073.html   →   Sánchez,   R.   (29   DE   OCTUBRE   DE   2021).   El  exceso  de  mortalidad  en  la
-pandemia:   a   las   46.000   muertes   de   más   en   la  primera  ola  se  suman  ya  44.000  desde  septiembre.
-Eldiario.es. Recuperado de https://www.eldiario.es/sociedad/muertes-esperadas-septiembre-evoluciona-
-peor-crisis-mortalidad-inicio-democracia-exceso-momo-29-de-octubre_1_6946073.html
-
-Páramo   Pictures   (2017).   Alcolitos   (o  despacito  galego).  Recuperado  de  Pita,  M.F.  &  Cuadrat,  J.M.
-(2006).   Climatología.   Madrid,   España:   Cátedra   →   Páramo  Pictures  (2017).  Alcolitos  (o  despacito
-galego). Recuperado de https://www.youtube.com/watch?v=xyyFLbrdaDg
-
-Martínez-Ibarra,   E.  (2016).  "Crisis  climáticas  y  espacio  litoral:  el  caso  de  Benidorm  (España)".  En
-Clima,   sociedad,   riesgos   y   ordenación   del   territorio  (545-555).  X  Congreso  Internacional  de  la
-Asociación   Española   de   Climatología.  Alicante,  5,  6,  7  &  8  octubre  de  2016.  Recuperado  de  Martín-
-Vide,   J.   (1996).   Iberian   pensinsula:  Climate  components  (Esquema).  Recuperado  de  Martín-Vide,  J.
-(2005).   Los   mapas   de  tiempo.  Barcelona,  España:  Davinci  Continental  →  Martín-Vide,  J.  (2005).  Los
-mapas de tiempo. Barcelona, España: Davinci Continental
-
-INE (2024). Tasa de natalidad por comunidad autónoma, según nacionalidad (española/extranjera) de la
-madre.   Recuperado  de  Loidi  et  al.  (2007).  A  survey  of  heath  vegetation  of  the  Iberian  peninsula  and
-Northern      Morrocco:     a     biogeographic     and     bioclimatic     approarch.     Recuperado     de
-e_Iberian_Peninsula_and_Northern_Morocco   →   INE   (2024).   Tasa  de  natalidad  por  comunidad  autónoma,
-según       nacionalidad       (española/extranjera)       de       la       madre.      Recuperado      de
-https://www.ine.es/jaxiT3/Datos.htm?t=1433#!tabs-grafico
-
-Solís-Trapero,   E.,   Ureña-Francés,   J.M.   &   Corrochano,   B.R.A.  (2012).  Transformación  del  sistema
-urbano-territorial   en   la   región   central   de   la   España   peninsular:   la  emergencia  de  la  región
-policéntrica   madrileña.   Scripta   Nova:   Revista   Electrónica  de  Geografía  y  Ciencias  Sociales,  XVI
-Statista   (2022).   Porcentaje   de  población  mayor  de  65  años  en  la  Unión  Europea  en  2020,  por  país  →
-Statista   (2022).   Porcentaje   de   población  mayor  de  65  años  en  la  Unión  Europea  en  2020,  por  país.
-Recuperado   de  https://es.statista.com/estadisticas/629396/porcentaje-de-poblacion-mayor-de-65-anos-
-en-los-paises-de-la-ue/
-
-Prieto,   G.  (2022).  Así  se  ha  organizado  España  a  través  de  los  siglos.  En  Blog  Geografía  Infinita  →
-Prieto,   G.   (2022).  Así  se  ha  organizado  España  a  través  de  los  siglos.  En  Blog  Geografía  Infinita.
-Recuperado de https://www.geografiainfinita.com/2017/10/asi-se-ha-formado-el-mapa-de-espana/
-
-✅ Recursos añadidos:
-------------------------------
-Amillo-Alegre,    F.    (2022).    Agua.   En   El   blog   de   la   historia   de   Benidorm.   Recuperado   de
-https://histobenidorm.blogspot.com/
-
-Arbolapp   Canarias   (-).   Paisaje  Vegetal  y  pisos  de  vegetación.  En  Arbolapp  Canarias.  Recuperado  de
-https://www.arbolappcanarias.es/arboles-y-bosques/
+Asociación   Cultural   RECREAS   (-).   Climatología   de   Canarias.   En  Gran  Enciclopedia  Virtual  Islas
+Canarias.                                         Recuperado                                        de
+https://www.gevic.net/info/contenidos/mostrar_contenidos.php?idcat=22&idcap=92&idcon=531
 
 Banco     Mundial    (2022).    Esperanza    de    vida    al    nacer,    total    (años).    Recuperado    de
 https://datos.bancomundial.org/indicador/SP.DYN.LE00.IN
@@ -161,17 +196,11 @@ Capel-Molina, J.J. (2000). El clima de la península Ibérica. Barcelona, Españ
 Datos      Macro     (2023).     España.     Esperanza     de     vida     al     nacer.     Recuperado     de
 https://datosmacro.expansion.com/demografia/esperanza-vida/espana
 
-Deltell,   A.   (2006).   El   fenómeno   glaciar   cuaternario   en  la  península  Ibérica.  Enseñanza  de  las
-Ciencias   de   la  Tierra:  Revista  para  de  la  Asociación  Española  para  la  Enseñanza  de  las  Ciencias  de
-la Tierra, 13 (3), 242-251. Recuperado de https://raco.cat/index.php/ECT/article/view/89055/133829
-
 Diaz-San-Andrés,   A.   (2020).   Tema   13.   Reinos   biogeográficos.  13.6.  División  biogeográfica  de  la
 Tierra. En Biogeografía. Recuperado de https://biogeografia.net/reinosbio12.html
 
-Eurostat            (2022).            Fertility            indicators.           Recuperado           de
-https://ec.europa.eu/eurostat/databrowser/view/demo_find/default/map?lang=en
-
-Fernández-Cuesta, G. (dir.) (2019). Atlas de Geografía Humana de España. Madrid, España: Paraninfo
+EUMETRAIN         (2022).        Satellite        Image        Interpretation.        Recuperado        de
+https://resources.eumetrain.org/courses/satellite_image_interpretation.html
 
 Gobierno         de         Canarias         (-).         Gran         Canaria.        Recuperado        de
 https://www3.gobiernodecanarias.org/medusa/ecoescuela/recursosdigitales/files/formidable/Pisos-Gran-
@@ -180,17 +209,8 @@ Canaria.pdf
 INE      (2024).      Cifras      de      población.      Total      ambos      sexos.      Recuperado     de
 https://www.ine.es/jaxiT3/Tabla.htm?t=9663&L=0
 
-INE   (2024).   Esperanza   de   vida   al   nacimiento   por  comunidad  autónoma,  según  sexo.  Recuperado  de
-https://www.ine.es/jaxiT3/Datos.htm?t=1448#!tabs-mapa
-
-INE (2024). Proporción de mayores de cierta edad por provincia
-
-INE   (2024).   Saldo  migratorio  por  mil  habitantes  por  comunidad  autónoma  (desde  2008).  Recuperado  de
-https://www.ine.es/jaxiT3/Datos.htm?t=5228#!tabs-grafico
-
-Loidi   et  al.  (2007).  A  survey  of  heath  vegetation  of  the  Iberian  peninsula  and  Northern  Morrocco:  a
-biogeographic and bioclimatic approarch. Recuperado de https://www.researchgate.net/publication/2326
-13291_A_survey_of_heath_vegetation_of_the_Iberian_Peninsula_and_Northern_Morocco
+INE      (2024).      Cifras      de      población.      Total      ambos      sexos.      Recuperado     de
+https://www.ine.es/jaxiT3/Tabla.htm?t=9663&L=0
 
 Martín-Vide, J. (1996). Iberian pensinsula: Climate components (Esquema)
 
@@ -199,7 +219,8 @@ Clima,   sociedad,   riesgos   y   ordenación   del   territorio  (545-555).  X
 Asociación   Española   de   Climatología.   Alicante,   5,   6,   7   &   8   octubre   de  2016.  Recuperado  de
 https://rua.ua.es/dspace/bitstream/10045/58020/1/2016_X-Congreso-AEC-Alicante_51.pdf
 
-Pita, M.F. & Cuadrat, J.M. (2006). Climatología. Madrid, España: Cátedra
+Prieto,   G.   (2022).  Así  se  ha  organizado  España  a  través  de  los  siglos.  En  Blog  Geografía  Infinita.
+Recuperado de https://www.geografiainfinita.com/2017/10/asi-se-ha-formado-el-mapa-de-espana/
 
 Ruesga,   S.M.  &  da  Silva-Bichara,  J.  (2008).  Deslocalización  industrial  en  la  globalización:  el  caso
 de        España.        Economía        UNAM,        5       (13),       113-127.       Recuperado       de
@@ -210,8 +231,20 @@ urbano-territorial   en   la   región   central   de   la   España   peninsula
 policéntrica   madrileña.   Scripta   Nova:   Revista   Electrónica  de  Geografía  y  Ciencias  Sociales,  XVI
 (420). Recuperado de https://revistes.ub.edu/index.php/ScriptaNova/article/view/14782
 
-WEATHER ON LINE (2022). Experts charts. Recuperado de https://www.weatheronline.co.uk/
+Statista   (2022).   Porcentaje   de   población  mayor  de  65  años  en  la  Unión  Europea  en  2020,  por  país.
+Recuperado   de  https://es.statista.com/estadisticas/629396/porcentaje-de-poblacion-mayor-de-65-anos-
+en-los-paises-de-la-ue/
+
+Sánchez, R. (29 DE OCTUBRE DE 2021). El exceso de mortalidad en la pandemia: a las 46.000 muertes de
+más    en    la   primera   ola   se   suman   ya   44.000   desde   septiembre.   Eldiario.es.   Recuperado   de
+https://www.eldiario.es/sociedad/muertes-esperadas-septiembre-evoluciona-peor-crisis-mortalidad-
+inicio-democracia-exceso-momo-29-de-octubre_1_6946073.html
 
 WETTERZENTRALE (2022). Top kartem y Archiv. Recuperado de https://www.wetterzentrale.de/
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Yébenes,   A.,   Estévez,   A.,  López-Arcos,  M.  &  Alfaro,  P.  (2004).  Itinerario  geológico  litoral  entre
+Benidorm,   Altea   y   Calpe.   En   P.   Alfaro,  J.M.  Andreu,  A.  Estévez,  J.E.  Tent-Manclús  &  A.  Yébenes
+(Eds.),   Geología  de  Alicante  (pp.  89-115).  Alicante,  España:  Universidad  de  Alicante.  Recuperado  de
+http://hdl.handle.net/10045/121657
+
+📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

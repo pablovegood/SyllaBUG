@@ -2,39 +2,15 @@
 Grado: derecho (242)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
-Colecciones   Legislativas:   BALAGUER   CALLEJÓN,  F.  (Coord.).;  CÁMARA  VILLAR,  G.;  MONTILLA  MARTOS,  J.
-A.: Código de Derecho Constitucional, Tecnos, Madrid, última edición. BALAGUER CALLEJÓN, F. y CÁMARA
-VILLAR, G. (ed.); Constitución española y Estatuto de Andalucía, Tecnos, Madrid, última edición
-
-·   BALAGUER   CALLEJÓN,   F.   (coord.);   CÁMARA  VILLAR,  G.;  RODRÍGUEZ,  A.;  MONTILLA  MARTOS,  J.A.;  RUIZ
-ROBLEDO, A.: El Nuevo Estatuto de Andalucía, Tecnos, Madrid, 2007
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-FRANCISCO   BALAGUER   CALLEJÓN   (Coordinador),   GREGORIO  CÁMARA  VILLAR,  JOSÉ  ANTONIO  MONTILLA  MARTOS,
-JOSÉ MARÍA PORRAS RAMÍREZ y AGUSTÍN RUIZ ROBLEDO: Manual de Derecho autonómico de Andalucía, Tecnos,
-Madrid,   última   edición.   BALAGUER   CALLEJÓN,  F.  (Coord.);  CÁMARA  VILLAR,  G.;  LÓPEZ  AGUILAR,  J.  F.;
-BALAGUER   CALLEJÓN,  M.  L.;  MONTILLA  MARTOS,  J.  A.:  Manual  de  Derecho  Constitucional,  Tecnos,  Madrid,
-últ.   ed.   AAVV,   Reformas   estatutarias   y   organización  institucional,  Francisco  Balaguer  Callejón
-(dir.),   Luis   Ortega  Alvarez,  Gregorio  Cámara  Villar  y  José  Antonio  Montilla  Martos  (coord.),  Junta
-de   Andalucía,   Instituto   Andaluz   de   Administración   Pública,  Sevilla,  2010.  AAVV,  Comentarios  al
-Estatuto   de   Autonomía   para   Andalucía,   Santiago   Muñoz   Machado   y  Manuel  Rebollo  Puig  (coord.),
-Aranzadi, Navarra, 2008. AAVV, Reformas estatutarias y declaraciones de derechos, Francisco Balaguer
-Callejón   (dir.),   Luis   Ortega   Alvarez,   Gregorio   Cámara   Villar   y   José  Antonio  Montilla  Martos
-(coord.),   Junta   de  Andalucía,  Instituto  Andaluz  de  Administración  Pública,  Sevilla,  2008  →  ·  AAVV,
-Reformas   estatutarias   y   distribución   de   competencias,   Francisco  Balaguer  Callejón  (dir.),  Luis
-Ortega   Alvarez,  Gregorio  Cámara  Villar  y  José  Antonio  Montilla  Martos  (coord.),  Junta  de  Andalucía,
-Instituto Andaluz de Administración Pública, Sevilla, 2007
-
-✅ Recursos añadidos:
-------------------------------
-(Cada profesor o profesora puede ampliar estas recomendaciones)
+BALAGUER   CALLEJÓN,   F.   (coord.);   CÁMARA   VILLAR,   G.;   RODRÍGUEZ,  A.;  MONTILLA  MARTOS,  J.A.;  RUIZ
+ROBLEDO,   A.:  El  Nuevo  Estatuto  de  Andalucía,  Tecnos,  Madrid,  2007.  (Cada  profesor  o  profesora  puede
+ampliar estas recomendaciones). Colecciones Legislativas
 
 FRANCISCO   BALAGUER   CALLEJÓN   (Coordinador),   GREGORIO  CÁMARA  VILLAR,  JOSÉ  ANTONIO  MONTILLA  MARTOS,
 JOSÉ MARÍA PORRAS RAMÍREZ y AGUSTÍN RUIZ ROBLEDO: Manual de Derecho autonómico de Andalucía, Tecnos,
@@ -46,6 +22,10 @@ Puig (coord.), Aranzadi, Navarra, 2008
 ·   AAVV,  Reformas  estatutarias  y  declaraciones  de  derechos,  Francisco  Balaguer  Callejón  (dir.),  Luis
 Ortega   Alvarez,  Gregorio  Cámara  Villar  y  José  Antonio  Montilla  Martos  (coord.),  Junta  de  Andalucía,
 Instituto Andaluz de Administración Pública, Sevilla, 2008
+
+·   AAVV,   Reformas   estatutarias  y  distribución  de  competencias,  Francisco  Balaguer  Callejón  (dir.),
+Luis   Ortega   Alvarez,   Gregorio   Cámara   Villar   y   José  Antonio  Montilla  Martos  (coord.),  Junta  de
+Andalucía, Instituto Andaluz de Administración Pública, Sevilla, 2007
 
 · AAVV, Reformas estatutarias y organización institucional, Francisco Balaguer Callejón (dir.), Luis
 Ortega   Alvarez,  Gregorio  Cámara  Villar  y  José  Antonio  Montilla  Martos  (coord.),  Junta  de  Andalucía,
@@ -60,4 +40,10 @@ MONTILLA MARTOS, J. A.: Manual de Derecho Constitucional, Tecnos, Madrid, últ. 
 ·   BALAGUER   CALLEJÓN,   F.  y  CÁMARA  VILLAR,  G.  (ed.);  Constitución  española  y  Estatuto  de  Andalucía,
 Tecnos, Madrid, última edición
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+(Cada profesor o profesora puede ampliar estas recomendaciones)
+
+Colecciones Legislativas
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

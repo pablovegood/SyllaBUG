@@ -2,15 +2,31 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Chalmers,   D.   J.  (ed.)  (2002)  Philosophy  of  Mind:  Classical  and  Contemporary  ReadingsOxford:  Oxford
+University Press Ezcurdia, M. y Hansberg, O. (comp.) (2003) La naturaleza de la experiencia. Vol. I:
+Sensaciones. México: UNAM
 
-📚 Recursos sin cambios:
+Guttenplan,   S.   (1994)   A  Companion  to  the  Philosophy  of  Mind  Oxford:  Blackwell  Hierro  Pescador,  J.
+(2005) Filosofía de la mente y de la ciencia cognitiva. Madrid: Akal
+
+Los   siguientes   son   algunos   manuales   y   textos   de   referencia   general.  A  lo  largo  del  curso  se
+proporcionarán referencias más específicas para los distintos temas: Bechtel, W. (1988) Filosofía de
+la   mente.   Madrid:   Tecnos,   1991   Bennett,   M.  Dennett,  D.  Hacker,  P.  M.  S.  y  Searle,  J.  (2008)  La
+naturaleza de la conciencia
+
+📚 Recursos sin cambios (7):
 ------------------------------
-Gallagher, S. y Zahavi. La mente fenomenológica. Madrid: Alianza Los siguientes son algunos manuales
-y   textos   de  referencia  general.  A  lo  largo  del  curso  se  proporcionarán  referencias  más  específicas
-para los distintos temas
+Barcelona: Paidós Brockman, J. (ed.) (2012) Mente. Barcelona: Crítica
+
+Gallagher,   S.   y   Zahavi.   La   mente   fenomenológica.   Madrid:  Alianza  Además,  se  proporcionará  una
+bibliografía comentada
+
+La   bibliografía  fundamental  está  constituida  por  los  textos  de  lectura  obligatoria  detallados  en  el
+temario   práctico.   Entre   los   manuales   de   filosofía   de   la   mente  disponibles  en  castellano,  se
+recomiendan   los   siguientes:   Moya,   C.   J.   (2004)  Filosofía  de  la  mente.  Valencia:  Universidad  de
+Valencia Pineda, D. (2012) La mente humana. Madrid: Cátedra
 
 Lowe, E. J. (2000) Filosofía de la mente Barcelona: Idea Books
 
@@ -20,43 +36,28 @@ Priest, S. (1991) Teorías y filosofías de la mente. Madrid: Cátedra, 1994
 
 Stich, S. P. y Warfield, T. A. (2003) Blackwell Guide to Philosophy of MindOxford: Blackwell
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (9):
 ------------------------------
-Moya,   C.   J.   (2004)   Filosofía  de  la  mente.  Valencia:  Universidad  de  Valencia  Pineda,  D.  (2012)  La
-mente   humana.   Madrid:  Cátedra  →  Moya,  C.  J.  (2004)  Filosofía  de  la  mente.  Valencia:  Universidad  de
-Valencia
-
-Guttenplan,   S.   (1994)   A  Companion  to  the  Philosophy  of  Mind  Oxford:  Blackwell  Hierro  Pescador,  J.
-(2005)   Filosofía   de   la   mente   y   de  la  ciencia  cognitiva.  Madrid:  Akal  →  Guttenplan,  S.  (1994)  A
-Companion to the Philosophy of Mind Oxford: Blackwell
-
-Chalmers,   D.   J.  (ed.)  (2002)  Philosophy  of  Mind:  Classical  and  Contemporary  ReadingsOxford:  Oxford
-University   Press  Ezcurdia,  M.  y  Hansberg,  O.  (comp.)  (2003)  La  naturaleza  de  la  experiencia.  Vol.  I
-→   Chalmers,   D.   J.   (ed.)   (2002)   Philosophy   of  Mind:  Classical  and  Contemporary  ReadingsOxford:
-Oxford University Press
-
-Bechtel, W. (1988) Filosofía de la mente. Madrid: Tecnos, 1991 Bennett, M. Dennett, D. Hacker, P. M.
-S.   y   Searle,  J.  (2008)  La  naturaleza  de  la  conciencia.  Barcelona:  Paidós  Brockman,  J.  (ed.)  (2012)
-Mente. Barcelona: Crítica  →  Bechtel, W. (1988) Filosofía de la mente. Madrid: Tecnos, 1991
-
-✅ Recursos añadidos:
-------------------------------
-Además, se proporcionará una bibliografía comentada
+Bechtel, W. (1988) Filosofía de la mente. Madrid: Tecnos, 1991
 
 Bennett,   M.   Dennett,   D.   Hacker,   P.   M.   S.   y  Searle,  J.  (2008)  La  naturaleza  de  la  conciencia.
 Barcelona: Paidós
 
-Brockman, J. (ed.) (2012) Mente. Barcelona: Crítica
+Chalmers,   D.   J.  (ed.)  (2002)  Philosophy  of  Mind:  Classical  and  Contemporary  ReadingsOxford:  Oxford
+University Press
 
 Ezcurdia,   M.   y   Hansberg,   O.  (comp.)  (2003)  La  naturaleza  de  la  experiencia.  Vol.  I:  Sensaciones.
 México: UNAM
 
 Gallagher, S. y Zahavi. La mente fenomenológica. Madrid: Alianza
 
+Guttenplan, S. (1994) A Companion to the Philosophy of Mind Oxford: Blackwell
+
 Hierro Pescador, J. (2005) Filosofía de la mente y de la ciencia cognitiva. Madrid: Akal
 
-La   bibliografía  fundamental  está  constituida  por  los  textos  de  lectura  obligatoria  detallados  en  el
-temario   práctico.   Entre   los   manuales   de   filosofía   de   la   mente  disponibles  en  castellano,  se
-recomiendan los siguientes
+Los   siguientes   son   algunos   manuales   y   textos   de   referencia   general.  A  lo  largo  del  curso  se
+proporcionarán referencias más específicas para los distintos temas
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Moya, C. J. (2004) Filosofía de la mente. Valencia: Universidad de Valencia
+
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

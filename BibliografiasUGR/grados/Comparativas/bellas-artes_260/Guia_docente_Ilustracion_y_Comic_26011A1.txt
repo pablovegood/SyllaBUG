@@ -2,11 +2,18 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+BIRCH,   Helen.   Dibujar:   trucos,   técnicas   y  recursos  para  inspiración  visual.  Barcelona,  GG.  2014
+BLACKMAN, Cally. Cien años de ilustración de moda. Barcelona, Blume. 2007
 
-📚 Recursos sin cambios:
+ROM,   Josep:   Els   fonaments   del   disseny   gràfic.   Procés   projectual  i  metodología.  Barcelona,
+Trípodos,2002 WURMAN, Richard Saul: Angustia informativa, Buenos Aires. Pearson Education, 2001
+
+TRAVADO,   José   Manuel.   Encrucijadas   gráfico   Narrativas.  Novela  Gráfica  y  Álbum  ilustrado.  Gijón,
+Trea. 2020 VILCHES, Gerardo. El guión del cómic. Barcelona, Diminuta. 2016
+
+📚 Recursos sin cambios (47):
 ------------------------------
 AICHER, Olt: Analógico y digital. Barcelona, Gustavo Gili, 2001
 
@@ -117,23 +124,11 @@ Barcelona, Acanto. 2008
 
 VILCHES, Gerardo. El guión del cómic 2. Barcelona, Diminuta. 2021
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-TRAVADO,   José   Manuel.   Encrucijadas   gráfico   Narrativas.  Novela  Gráfica  y  Álbum  ilustrado.  Gijón,
-Trea.   2020   VILCHES,   Gerardo.  El  guión  del  cómic.  Barcelona,  Diminuta.  2016  →  VILCHES,  Gerardo.  El
-guión del cómic. Barcelona, Diminuta. 2016
-
-ROM,   Josep:   Els   fonaments   del   disseny   gràfic.   Procés   projectual  i  metodología.  Barcelona,
-Trípodos,2002   WURMAN,   Richard  Saul:  Angustia  informativa,  Buenos  Aires.  Pearson  Education,  2001  →
-WURMAN, Richard Saul: Angustia informativa, Buenos Aires. Pearson Education, 2001
-
-BIRCH,   Helen.   Dibujar:   trucos,   técnicas   y  recursos  para  inspiración  visual.  Barcelona,  GG.  2014
-BLACKMAN,   Cally.   Cien   años  de  ilustración  de  moda.  Barcelona,  Blume.  2007  →  BLACKMAN,  Cally.  Cien
-años de ilustración de moda. Barcelona, Blume. 2007
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 BIRCH, Helen. Dibujar: trucos, técnicas y recursos para inspiración visual. Barcelona, GG. 2014
+
+BLACKMAN, Cally. Cien años de ilustración de moda. Barcelona, Blume. 2007
 
 ROM,   Josep:   Els   fonaments   del   disseny   gràfic.   Procés   projectual  i  metodología.  Barcelona,
 Trípodos,2002
@@ -141,4 +136,8 @@ Trípodos,2002
 TRAVADO,   José   Manuel.   Encrucijadas   gráfico   Narrativas.  Novela  Gráfica  y  Álbum  ilustrado.  Gijón,
 Trea. 2020
 
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+VILCHES, Gerardo. El guión del cómic. Barcelona, Diminuta. 2016
+
+WURMAN, Richard Saul: Angustia informativa, Buenos Aires. Pearson Education, 2001
+
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

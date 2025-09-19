@@ -2,11 +2,15 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+MAY,   E   Y   JONES,   M.   (2006).   Conservation  Science.  The  Royal  Society  of  Chemistry  PETRUCCI  R.H.,
+HARWOOD, W. S. (1998). Química General. Principios y aplicaciones modernas, 7ª ed., Prentice Hall
 
-📚 Recursos sin cambios:
+Raymond   Chang.   (2007)   Química.   9ª   ed.   Mc.  Graw  Hill  López  Román.  (1999).  Prevención  de  riesgos
+laborales en la investigación e intervención en Patrimonio Histórico. Comares
+
+📚 Recursos sin cambios (6):
 ------------------------------
 GÓMEZ, M. L. (2005). La restauración. Examen científico aplicado a la conservación de obras de arte.
 Cátedra, Grupo ANAYA
@@ -25,22 +29,16 @@ Routledge, New York
 SAN   ANDRÉS,  M.  y  DE  LA  VIÑA  FERRER,  S.  (2004).  Fundamentos  de  química  y  física  para  la  conservación
 y restauración. Síntesis
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Raymond   Chang.   (2007)   Química.   9ª   ed.   Mc.  Graw  Hill  López  Román.  (1999).  Prevención  de  riesgos
-laborales   en   la   investigación   e   intervención   en   Patrimonio   Histórico.  Comares  →  López  Román.
-(1999).   Prevención  de  riesgos  laborales  en  la  investigación  e  intervención  en  Patrimonio  Histórico.
-Comares
+López   Román.   (1999).   Prevención   de   riesgos   laborales   en   la   investigación   e  intervención  en
+Patrimonio Histórico. Comares
 
-MAY,   E   Y   JONES,   M.   (2006).   Conservation  Science.  The  Royal  Society  of  Chemistry  PETRUCCI  R.H.,
-HARWOOD,   W.  S.  (1998).  Química  General.  Principios  y  aplicaciones  modernas,  7ª  ed.,  Prentice  Hall  →
+MAY, E Y JONES, M . (2006). Conservation Science. The Royal Society of Chemistry
+
 PETRUCCI   R.H.,   HARWOOD,  W.  S.  (1998).  Química  General.  Principios  y  aplicaciones  modernas,  7ª  ed.,
 Prentice Hall
 
-✅ Recursos añadidos:
-------------------------------
-MAY, E Y JONES, M . (2006). Conservation Science. The Royal Society of Chemistry
-
 Raymond Chang. (2007) Química. 9ª ed. Mc. Graw Hill
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 60% [██████░░░░]

@@ -2,13 +2,21 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
 Alberich,   Jordi   &   Roig,  Antoni  (Coords.)  (2005).  Comunicación  audiovisual  digital.  Nuevos  medios,
 nuevos usos, nuevas formas. Barcelona: Editorial UOC
 
-📚 Recursos sin cambios:
+Casacuberta,   David   (2003).   Creación   colectiva.   En  Internet  el  creador  es  el  público.  Barcelona:
+Gedisa
+
+Csikszentmihalyi,   M.   (1998).   Creatividad:   el   fluir   y   la   psicología   del   descubrimiento  y  la
+invención. Barcelona: Paidós
+
+📚 Recursos sin cambios (30):
 ------------------------------
+Alberich Pascual (2007). Grafismo multimedia: Comunicación, diseño, estética. Barcelona: UOC
+
 Arheim Rudolf (2002). Arte y percepción visual. Madrid: Alianza
 
 Austin, T. y Doust, R. (2008). Diseño de nuevos medios de comunicación. Barcelona: Blume
@@ -21,8 +29,12 @@ animación gráfica. Barcelona: Promopress
 Cross,   N.   (2013).   Design   Thinking.   Understanding   How   Designers   Think   and   Work.  London,  New
 York:Boomsbury Academic
 
+De Bono, E. (2008). El pensamiento lateral práctico. Barcelona: Paidós Ibérica
+
 Dondis,   D.   (2017).   La   sintaxis  de  la  imagen.  Introducción  al  alfabeto  visual.  Barcelona:  Gustavo
 Gili
+
+Dorfles Gillo (1968), El diseño industrial y su estética, Barcelona: Nueva colección labor
 
 Frascara,   J.   (2009).   El  diseño  en  la  comunicación:  principios,  métodos  y  práctica.  México:  Divine
 EGG Publicaciones: Centro de Estudios en Ciencias de la Comunicación
@@ -45,6 +57,8 @@ Gustavo Gili
 
 Mattelart, A y Mattelart, M. (2005). Historia de las teorías de la comunicación. Barcelona: Paidós
 
+Meggs Philip, Historia del diseño gráfico, Madrid: RM
+
 Munari, B. (2005). El arte como oficio. Barcelona: Idea Books
 
 Newark, Q. (2002). ¿Qué es el diseño gráfico? Manual de diseño. Barcelona: Gustavo Gili
@@ -58,6 +72,9 @@ el siglo XXI. Barcelona: Gustavo Gili
 
 Ràfols, R. y Colomer, A. (2010). Diseño audiovisual. Barcelona: Gustavo Gili
 
+Satué   Enric,   El   diseño   gráfico   en   España:  Historia  de  una  forma  comunicativa  nueva.  Barcelona:
+Alianza forma
+
 Scott Robert Guillam (1985), Fundamentos del Diseño. Buenos aires; Victor Leru
 
 Sudjic, Deyan. (2009). El lenguaje de las cosas. Madrid: Turner
@@ -70,35 +87,20 @@ Creaciones Gráficas, S.A
 
 Wong, W. (2011). Fundamentos del diseño. Barcelona: Gustavo Gili
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
 Casacuberta,   David   (2003).   Creación   colectiva.   En  Internet  el  creador  es  el  público.  Barcelona:
-Gedisa   →   Casacuberta,   David   (2003).   Creación   colectiva.   En  Internet  el  creador  es  el  público.
-Barcelona:    Gedisa.Csikszentmihalyi,    M.   (1998).   Creatividad:   el   fluir   y   la   psicología   del
-descubrimiento y la invención. Barcelona: Paidós
+Gedisa.Csikszentmihalyi,   M.   (1998).   Creatividad:  el  fluir  y  la  psicología  del  descubrimiento  y  la
+invención. Barcelona: Paidós
 
-Csikszentmihalyi,   M.   (1998).   Creatividad:   el   fluir   y   la   psicología   del   descubrimiento  y  la
-invención.   Barcelona:   Paidós   →   Casacuberta,   David   (2003).   Creación   colectiva.  En  Internet  el
-creador   es   el   público.   Barcelona:  Gedisa.Csikszentmihalyi,  M.  (1998).  Creatividad:  el  fluir  y  la
-psicología del descubrimiento y la invención. Barcelona: Paidós
-
-✅ Recursos añadidos:
-------------------------------
-Alberich Pascual (2007). Grafismo multimedia: Comunicación, diseño, estética. Barcelona: UOC
-
-De Bono, E. (2008). El pensamiento lateral práctico. Barcelona: Paidós Ibérica
-
-Dorfles Gillo (1968), El diseño industrial y su estética, Barcelona: Nueva colección labor
+Casacuberta,   David   (2003).   Creación   colectiva.   En  Internet  el  creador  es  el  público.  Barcelona:
+Gedisa.Csikszentmihalyi,   M.   (1998).   Creatividad:  el  fluir  y  la  psicología  del  descubrimiento  y  la
+invención. Barcelona: Paidós
 
 Mattelart,   A.,   &   Mattelart,   M.   (2005).   Historia  de  las  teorías  de  la  Comunicación  .  Barcelona:
 Paidós
 
-Meggs Philip, Historia del diseño gráfico, Madrid: RM
-
 Saperas,   E.   (2013).   Comunicación  mediática  y  sociedad:  manual  de  teorías  de  la  comunicación  .  OMM
 Editorial
 
-Satué   Enric,   El   diseño   gráfico   en   España:  Historia  de  una  forma  comunicativa  nueva.  Barcelona:
-Alianza forma
-
-📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

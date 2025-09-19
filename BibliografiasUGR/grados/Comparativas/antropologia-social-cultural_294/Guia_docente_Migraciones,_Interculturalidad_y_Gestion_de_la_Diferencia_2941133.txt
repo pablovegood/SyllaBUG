@@ -2,11 +2,13 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+OECD.   (1997).   Trends   in  International  Migration:  Continuous  Reporting  System  on  Migration.  Annual
+Report   SOPEMI   1996.   OECD  Publishing  OECD.  (2000).  Trends  in  International  Migration:  SOPEMI  2000.
+OECD Publishing
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (86):
 ------------------------------
 AA.VV.   (Ed.).  (2009).  Migraciones  contemporáneas.  Contribución  al  debate  (p.  344).  La  Paz,  Bolivia:
 Plural editores
@@ -20,6 +22,9 @@ Appadurai,   A.   (2001).   La   modernidad   desbordada.  Dimensiones  cultural
 
 Arango Vida-Belda, J. (1885). Las “leyes de las migraciones” de E. G. Ravenstein, cien años después.
 Revista Española de Investigaciones Sociológicas, (32), 7–26
+
+Arango   Vida-Belda,   J.   (2000).  Enfoques  conceptuales  y  teóricos  para  explicar  la  migración  Joaquín
+Arango. Revista Internacional de Ciencias Sociales, (165), 33–47
 
 Arango   Vida-Belda,   J.  (2003).  La  explicación  teórica  de  las  migraciones:  luz  y  sombra.  Migración  y
 Desarrollo, (1), 2–30
@@ -61,15 +66,18 @@ globalización (p. 198). Grijalbo
 García   García,   J.   L.   y  Barañano,  A.  (2003).  Culturas  en  contacto.  Encuentros  y  desencuentros  (p.
 283). Madrid: Ministerio de Educación, Cultura y Deporte
 
-Gregorio   Gil,   C.   (1998).   Aproximaciones   teóricas  al  estudio  de  las  migraciones  femeninas.  In  C.
-Gregorio   Gil  (Ed.),  Migración  femenina:  su  impacto  en  las  relaciones  de  género  (pp.  21–39).  Madrid:
-Narcea
+Gregorio   Gil,   C.   (1998).   Aproximaciones  teóricas  al  estudio  de  las  migraciones  femeninas.  En  C.
+Gregorio   Gil   (Ed.),   Migración   femenina:   su   impacto   en  las  relaciones  de  género  (pp.  21-39).
+Madrid: Narcea
 
 Hannerz,   U.   (1992).   Cultural   Complexity.  Studies  in  the  Social  Organization  of  Meaning  (p.  347).
 Nueva York, USA: Columbia University Press
 
 Hannerz,   U.   (1996).   Transnational   Connections.   Culture,  People,  Places  (p.  201).  Londres,  Reino
 Unido: Routledge
+
+Herrera Carassou, R. (2006). La perspectiva teórica en el estudio de las migraciones. México D.F.:
+Siglo XXI [Parcial]
 
 Herrera   Carassou,   R.   (2006).   La   perspectiva   teórica  en  el  estudio  de  las  migraciones  (p.  232).
 México D.F.: Siglo XXI
@@ -111,9 +119,6 @@ Review, 19(3), 431-466
 
 Massey,   D.  S.,  Arango,  J.,  Hugo,  G.,  Kouaouci,  A.,  Pellegrino,  A.,  &  Edward,  J.  (1993).  Teorías  de
 migración internacional: una revisión y aproximación. Population and Development Review, 19(3)
-
-Massey,   D.   S.,  Arango,  J.,  Hugo,  G.,  Kouaouci,  A.,  Pellegrino,  A.,  &  Edward,  J.  (1993).  Teorías  de
-migración internacional: una revisión y aproximación. Population and Development Review, 19(3)
 
 Micolta    León,    A.   (2005).   Teorías   y   conceptos   asociados   al   estudio   de   las   migraciones
 internacionales. Revistas de Trabajo Social, (7), 59-76
@@ -241,32 +246,25 @@ World-Economy in the Sixteenth Century (p. 410). Londres, Reino Unido: Academic 
 Wallerstein,   I.   (2005).   Análisis  del  sistema-mundo:  una  introducción  (p.  156).  México  D.F.:  Siglo
 XXI
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-OECD.   (1997).   Trends   in  International  Migration:  Continuous  Reporting  System  on  Migration.  Annual
-Report   SOPEMI   1996.   OECD  Publishing  OECD.  (2000).  Trends  in  International  Migration:  SOPEMI  2000.
-OECD Publishing  →  OECD. (2000). Trends in International Migration: SOPEMI 2000. OECD Publishing
-
-✅ Recursos añadidos:
-------------------------------
-Arango   Vida-Belda,   J.   (2000).  Enfoques  conceptuales  y  teóricos  para  explicar  la  migración  Joaquín
-Arango. Revista Internacional de Ciencias Sociales, (165), 33–47
-
 Arango   Vila-Belda,  J.  (2003).  La  explicación  teórica  de  las  migraciones:  luz  y  sombra.  Migración
 y Desarrollo, (1), 2-30
 
-Gregorio   Gil,   C.   (1998).   Aproximaciones  teóricas  al  estudio  de  las  migraciones  femeninas.  En  C.
-Gregorio   Gil   (Ed.),   Migración   femenina:   su   impacto   en  las  relaciones  de  género  (pp.  21-39).
-Madrid: Narcea
-
-Herrera Carassou, R. (2006). La perspectiva teórica en el estudio de las migraciones. México D.F.:
-Siglo XXI [Parcial]
+Gregorio   Gil,   C.   (1998).   Aproximaciones   teóricas  al  estudio  de  las  migraciones  femeninas.  In  C.
+Gregorio   Gil  (Ed.),  Migración  femenina:  su  impacto  en  las  relaciones  de  género  (pp.  21–39).  Madrid:
+Narcea
 
 Massey,   D.   S.  (2009).  Principios  de  funcionamiento:  teorías  de  la  migración  internacional.  En  D.
 S.   Massey,   J.   Durand,   &   N.   J.  Malone  (Eds.),  Detrás  de  la  trama.  Políticas  migratorias  entre
 México y Estados Unidos (pp. 13-30). México D.F.: Miguel Ángel Porrua
 
+Massey,   D.   S.,  Arango,  J.,  Hugo,  G.,  Kouaouci,  A.,  Pellegrino,  A.,  &  Edward,  J.  (1993).  Teorías  de
+migración internacional: una revisión y aproximación. Population and Development Review, 19(3)
+
 OECD.   (1997).   Trends   in  International  Migration:  Continuous  Reporting  System  on  Migration.  Annual
 Report SOPEMI 1996. OECD Publishing
+
+OECD. (2000). Trends in International Migration: SOPEMI 2000. OECD Publishing
 
 📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

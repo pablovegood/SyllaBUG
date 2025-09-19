@@ -2,7 +2,7 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (14):
 ------------------------------
 BOTTOMORE, T. (1982): Sociología Política, Aguilar, Madrid
 
@@ -42,7 +42,7 @@ Marx, K. (2017). Las luchas de clases en Francia de 1848 a 1850. Xhglc Publicaci
 Verge, T., & Tormos Marín, R. (2012). La persistencia de las diferencias de género en el interés por
 la política. Revista Española de Investigaciones Sociológicas (REIS), 138(1), 89-108
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (48):
 ------------------------------
 Anduiza, E., & Bosch, A. (2004). Comportamiento político y electoral. Grupo Planeta (GBS)
 
@@ -55,6 +55,9 @@ heart: Individualism and commitment in American life. Blackstone Publishing
 Benedicto,   J.   (2006).   La   construcción   de  la  ciudadanía  democrática  en  España  (1977-2004):  de  la
 institucionalización   a   las   prácticas.   Revista   Española   de  Investigaciones  Sociológicas  (REIS),
 114(1), 103-136
+
+Bourdieu,   P.   (1982).   La   représentation   politique.  Éléments  pour  une  théorie  du  champ  politique.
+Actes de la Recherche en Sciences Sociales, 36-37, 3-24
 
 Bourdieu,   P.   (2014).   Sobre   El   Estado.   Cursos   En  El  Collège  De  France.  1989-1992  (Argumentos).
 Anagrama
@@ -83,7 +86,7 @@ Evans,   G.   (Ed.).   (1999).   The   end  of  class  politics?  Class  voting 
 University Press
 
 Evans,   G.,   &   Tilley,   J.   (2012).  How  parties  shape  class  politics:  Explaining  the  decline  of  the
-class basis of party support. British Journal of Political Science, 42(1), 137-161
+class basis of party support. British journal of political science, 42(1), 137-161
 
 Font, J. (2007). Ciudadanos y decisiones públicas. Ariel
 
@@ -91,8 +94,8 @@ Font,   J.,   Navarro,   C.,   Wojcieszak,   M.,  &  Alarcón,  P.  (2012).  ¿"
 preferencias   de   la   ciudadanía   española   sobre   las   formas   de   decisión  política  y  sus  factores
 explicativos. Centro de Investigaciones Sociológicas
 
-Funes,   M.   J.   (1994).   Procesos   de  socialización  y  participación  comunitaria:  estudio  de  un  caso.
-Revista Española de Investigaciones Sociológicas, 67, 187-205
+Funes   Rivas,   M.   J.   (1994).   Procesos  de  socialización  y  participación  comunitaria:  estudio  de  un
+caso. Revista Española de Investigaciones Sociológicas, 67, 187-205
 
 Gallego,   A.   (2007).  Unequal  political  participation  in  Europe.  International  Journal  of  Sociology,
 37(4), 10-25
@@ -171,16 +174,11 @@ University of Chicago Press
 
 Weber, M. (2012). El político y el científico. Alianza Editorial
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Weber, M. (2012). La ética protestante y el espíritu del capitalismo. Fondo de cultura económica
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (10):
 ------------------------------
 25/26: 56–80
-
-Bourdieu,   P.   (1982).   La   représentation   politique.  Éléments  pour  une  théorie  du  champ  politique.
-Actes de la Recherche en Sciences Sociales, 36-37, 3-24
 
 Fraile   Maldonado,   M.   (2018).   "Brechas   de   género   en   la  relación  con  la  política:  implicación,
 conocimiento y participación." Panorama Social, nº 27
@@ -205,7 +203,5 @@ Meiksins   Wood,   E.  (2000).  Democracia  contra  capitalismo:  la  renovació
 Siglo XXI
 
 Therborn, G. (2020) Inequality and the Labyrinths of Democracy. Verso Books
-
-Weber, M. (2012). La ética protestante y el espíritu del capitalismo. Fondo de cultura económica
 
 📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

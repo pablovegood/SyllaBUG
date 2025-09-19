@@ -2,11 +2,13 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+SANTOS SÁNCHEZ, Diego & MUÑOZ CÁLIZ, Berta, Teatro y artes escénicas en el ámbito hispánico. España.
+Siglo   XX,   Madrid,   Cátedra,   2021  SANZ  VILLANUEVA,  Santos:  Historia  de  la  literatura  española  6/2.
+Literatura actual, Barcelona, Ariel, 1984
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 BLANCO   AGUINAGA,   Carlos,   ZAVALA,   Iris   M.   &   RODRÍGUEZ   PUÉRTOLAS,  Julio:  Historia  social  de  la
 literatura española, Madrid, Akal, 2000
@@ -32,16 +34,12 @@ SOLDEVILA, Ignacio: La novela desde 1936, Madrid, Alhambra, 1980
 TRAPIELLO,   Andrés:   Las   armas   y   las   letras:   literatura   y  Guerra  Civil  (1936-1939),  Barcelona,
 Destino, 2010
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-SANTOS SÁNCHEZ, Diego & MUÑOZ CÁLIZ, Berta, Teatro y artes escénicas en el ámbito hispánico. España.
-Siglo   XX,   Madrid,   Cátedra,   2021  SANZ  VILLANUEVA,  Santos:  Historia  de  la  literatura  española  6/2.
-Literatura   actual,   Barcelona,   Ariel,   1984   →   SANZ  VILLANUEVA,  Santos:  Historia  de  la  literatura
-española 6/2. Literatura actual, Barcelona, Ariel, 1984
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 SANTOS   SÁNCHEZ,   Diego   &   MUÑOZ   CÁLIZ,   Berta,   Teatro  y  artes  escénicas  en  el  ámbito  hispánico  .
 España. Siglo XX, Madrid, Cátedra, 2021
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+SANZ   VILLANUEVA,   Santos:   Historia   de   la   literatura  española  6/2.  Literatura  actual,  Barcelona,
+Ariel, 1984
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

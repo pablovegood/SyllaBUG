@@ -2,20 +2,22 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Castillo,   R.  (2002).  Turismo  cultural.  Los  estudiantes  extranjeros  en  la  Universidad  de  Elias,  N.  &
+Dunning, E. (1992). Deporte y ocio en el proceso de la civilización. México: FCE
 
-📚 Recursos sin cambios:
+Martos,   P.   (2002).   El   sistema  turístico-deportivo  de  las  estaciones  de  esquí  y  montaña  Mazón,  T.
+(2001). Sociología del turismo. Madrid: Centro de Estudios Ramón Areces
+
+Álvarez   Sousa,   A.   (1994).  El  ocio  turístico  en  las  sociedades  avanzadas.  Barcelona:  Bosch  Álvarez
+Sousa A, Mantecón A y Puertas-Cañaveral I. (2019). Sociología del Turismo. Madrid. Editorial. CIS
+
+📚 Recursos sin cambios (23):
 ------------------------------
 Baudrillard, J. (2007). La sociedad de consumo. Madrid: Siglo XXI
 
 Caffarell Serra, C. (1992). El ocio y los medios de comunicación de masas. REIS, 57, 213-226
-
-Castillo,   R.   (2002).   Turismo   cultural.  Los  estudiantes  extranjeros  en  la  Universidad  de  Granada.
-Granada: Universidad de Granada
-
-Elias, N. & Dunning, E. (1992). Deporte y ocio en el proceso de la civilización. México: FCE
 
 Knebel,   H.   J.   (1974).   Sociología   del   turismo.   Cambios   estructurales   en   el  turismo  moderno.
 Barcelona: Ed. Hispano-Europea
@@ -23,8 +25,6 @@ Barcelona: Ed. Hispano-Europea
 Lafargue, P. (1998). El derecho a la pereza. Madrid: Fundamentos
 
 Lanquar, L. (2001). Marketing turístico. Barcelona: Ariel
-
-Latiesa, M. (2000). Granada y el turismo. Granada: Universidad de Granada
 
 Latiesa,   M.   (2001).  Evolución  y  tendencias  de  la  conexión  entre  turismo  y  deporte.  En  Latiesa,  M.,
 Martos   P.   &   Paniza,   J.  L.,  Deporte  y  cambio  social  en  el  umbral  del  siglo  XXI,  Madrid:  Librerías
@@ -40,15 +40,10 @@ Boletín del Centro de Documentación en Ocio, 23, 15-20
 
 Mantecón, A. (2008). La experiencia del turismo. Icaria: Barcelona
 
-Martos,   P.   (2002).   El  sistema  turístico-deportivo  de  las  estaciones  de  esquí  y  montaña  españolas.
-Granada: Universidad de Granada
-
 Martínez Quintana, V. (2006). Ocio y turismo en la sociedad actual. Madrid: McGraw-Hill
 
 Martínez   Quintana,   V.   (2011).  Turismo  y  Ocio  en  las  sociedades.  Dinamismo,  desarrollo  turístico  y
 riesgos. Madrid: UNED
-
-Mazón, T. (2001). Sociología del turismo. Madrid: Centro de Estudios Ramón Areces
 
 Montaner, J. (1996). Psicosociología del turismo. Madrid: Síntesis
 
@@ -73,19 +68,25 @@ Veblen, Th. (2004). Teoría de la clase ociosa. Madrid: Alianza
 Vogeler,   C.   &   E.   Hernández   (2001).   El  mercado  turístico.  Estructura,  operaciones  y  procesos  de
 producción. Madrid: Centro de Estudios Ramón Areces
 
+Álvarez Sousa, A. (2023). Turismo y desarrollo social. Madrid, Editorial Síntesis
+
+✅ Recursos añadidos (7):
+------------------------------
+Castillo,   R.   (2002).   Turismo   cultural.  Los  estudiantes  extranjeros  en  la  Universidad  de  Granada.
+Granada: Universidad de Granada
+
+Elias, N. & Dunning, E. (1992). Deporte y ocio en el proceso de la civilización. México: FCE
+
+Latiesa, M. (2000). Granada y el turismo. Granada: Universidad de Granada
+
+Martos,   P.   (2002).   El  sistema  turístico-deportivo  de  las  estaciones  de  esquí  y  montaña  españolas.
+Granada: Universidad de Granada
+
+Mazón, T. (2001). Sociología del turismo. Madrid: Centro de Estudios Ramón Areces
+
 Álvarez   Sousa   A,   Mantecón   A   y   Puertas-Cañaveral   I.   (2019).   Sociología   del  Turismo.  Madrid.
 Editorial. CIS
 
-Álvarez Sousa, A. (2023). Turismo y desarrollo social. Madrid, Editorial Síntesis
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Álvarez   Sousa,   A.   (1994).  El  ocio  turístico  en  las  sociedades  avanzadas.  Barcelona:  Bosch  Álvarez
-Sousa   A,   Mantecón   A   y   Puertas-Cañaveral   I.   (2019).   Sociología  del  Turismo  →  Álvarez  Sousa  A,
-Mantecón A y Puertas-Cañaveral I. (2019). Sociología del Turismo. Madrid. Editorial. CIS
-
-✅ Recursos añadidos:
-------------------------------
 Álvarez Sousa, A. (1994). El ocio turístico en las sociedades avanzadas. Barcelona: Bosch
 
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

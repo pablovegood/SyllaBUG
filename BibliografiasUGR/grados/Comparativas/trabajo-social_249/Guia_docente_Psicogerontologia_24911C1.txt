@@ -2,11 +2,19 @@
 Grado: trabajo-social (249)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
+Balea, F.J. (2020). Emociones en el envejecimiento: Teoría y práctica. Madrid: McGraw Hill
+
 Fernández-Ballesteros, R. (2009). Psicología de la vejez. Madrid: Ed. Pirámide
 
-📚 Recursos sin cambios:
+Lópiz,   E.   (2012).   Psicología   del   envejecimiento.   Granada:  Grupo  Editorial  Universitario  Muñoz,
+J.(2001). Psicología del envejecimiento. Madrid: Ed. Pirámide
+
+Moragas,   R.   (1989):   La   Jubilación:   un   enfoque  positivo.  Ed.  Grijalbo.  Barcelona  Morgan,  L.  A.,
+Kunkel, S., y Ebrary, I. (2016). Aging, society, and the life course (Fifth ed.)
+
+📚 Recursos sin cambios (22):
 ------------------------------
 Bensadon, B. A. (2015). Psychology and geriatrics. London; 4: Elsevier/Academic Press
 
@@ -59,23 +67,13 @@ Valencia: Ed. Alfaplus
 
 Schaie, K. W., y Willis, S. L. (2021). Handbook of the psychology of aging. London: Academic Press
 
-🔁 Misma obra con edición/año distinto:
+Sugar, J., y Ebrary, I. (2014). Introduction to aging. New York: Springer Publishing Company
+
+✅ Recursos añadidos (20):
 ------------------------------
-Moragas,   R.   (1989):   La   Jubilación:   un   enfoque  positivo.  Ed.  Grijalbo.  Barcelona  Morgan,  L.  A.,
-Kunkel, S., y Ebrary, I. (2016). Aging, society, and the life course (Fifth ed.). New York: Springer
-Publishing   Company   →   Morgan,  L.  A.,  Kunkel,  S.,  y  Ebrary,  I.  (2016).  Aging,  society,  and  the  life
-course (Fifth ed.). New York: Springer Publishing Company
-
-Lópiz,   E.   (2012).   Psicología   del   envejecimiento.   Granada:  Grupo  Editorial  Universitario  Muñoz,
-J.(2001).   Psicología   del   envejecimiento.   Madrid:  Ed.  Pirámide  →  Lópiz,  E.  (2012).  Psicología  del
-envejecimiento. Granada: Grupo Editorial Universitario
-
-Balea,   F.J.   (2020).   Emociones   en   el   envejecimiento:   Teoría   y  práctica.  Madrid:  McGraw  Hill  →
 Arteta,   A.   (2021).   A   pesar   de   los   pesares:   Cuaderno   de  la  vejez.  Taurus.Balea,  F.J.  (2020).
 Emociones en el envejecimiento: Teoría y práctica. Madrid: McGraw Hill
 
-✅ Recursos añadidos:
-------------------------------
 Fernández-Ballesteros, R. (2021). Gerontología: Envejecimiento, salud y calidad de vida. Pirámide
 
 Fry,   P.   S.,  y  Keyes,  C.  L.  M.  (Eds.).  (2010).  New  Frontiers  in  Resilient  Aging:  Life-Strengths  and
@@ -86,7 +84,12 @@ y nuevos desafíos. Universidad de Buenos Aires
 
 Karpf, A. (2014). How to Age. The School of Life / Picador
 
+Lópiz, E. (2012). Psicología del envejecimiento. Granada: Grupo Editorial Universitario
+
 Moragas, R. (1989): La Jubilación: un enfoque positivo. Ed. Grijalbo. Barcelona
+
+Morgan, L. A., Kunkel, S., y Ebrary, I. (2016). Aging, society, and the life course (Fifth ed.). New
+York: Springer Publishing Company
 
 Muñoz, J.(2001). Psicología del envejecimiento. Madrid: Ed. Pirámide
 
@@ -107,8 +110,6 @@ Rowlings, C. (2024). Social Work with Elderly People. Taylor & Francis
 
 Schaie, K. W. y Willis, S. (2015). Handbook of the Psychology of Aging. New York: Academic Press
 
-Sugar, J., y Ebrary, I. (2014). Introduction to aging. New York: Springer Publishing Company
-
 Vega, J.L. (2004). Desarrollo adulto y envejecimiento. Madrid: Ed. Síntesis
 
 Vega,   J.L.,   y   Bueno,   M.   (1996).  Pensando  en  el  Futuro:  Curso  de  preparación  para  la  Jubilación.
@@ -120,4 +121,4 @@ Age. Springer
 Yanguas,   J.,   Leturia,   F.,   y  Uriarte,  A.  (1998).  Intervención  psicosocial  en  gerontología.  Manual
 Práctico. Cáritas Española. Madrid
 
-📊 Porcentaje estimado de cambio: 88% [████████░░]
+📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

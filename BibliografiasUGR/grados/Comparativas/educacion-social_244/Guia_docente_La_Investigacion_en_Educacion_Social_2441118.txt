@@ -2,13 +2,14 @@
 Grado: educacion-social (244)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Olmos   Gómez,  Investigación  Educativa:  Análisis  de  datos  cuantitativos  y  cualitativos  en  la  Gallardo
-Vigil, M.A. & Sánchez Núñez, C. (2011). Recursos para la investigación y la innovación educativa. En
-R. López Fuentes (Coord.). Innovación Docente e Investigación Educativa(pp
+Gallardo Vigil, M.A. & Rodríguez Fernández, S. (2005). Análisis de datos cuantitativos. En S
 
-📚 Recursos sin cambios:
+Verd,   J.   y   Lozares,   C.   (2016).   Introducción   a   la  investigación  cualitativa.  Fases,  Métodos  y
+Técnicas. Síntesis Camarero, L. (2010). Estadística para la investigación social.Garceta
+
+📚 Recursos sin cambios (15):
 ------------------------------
 Arnau, J. (2003) (CD-ROM). Diseños de investigación aplicada. Edicions Universitat de Barcelona
 
@@ -48,6 +49,33 @@ Matas, A. (2011). Introducción a la investigación en Ciencias de la Educación
 
 Mc Millan, J. & Schumacher, S. (2005). Investigación socioeducativa.Pearson Educación
 
+Rodríguez   Sabiote,   C.   (2003).   Paradigmas   y   métodos   de  investigación  en  educación  y  su  posible
+integración.   En   L.   Herrera,   O.   Lorenzo,   M.C.   Mesa  &  I.  Alemany.  Actualidad  de  la  intervención
+psicoeducativa: una perspectiva multidisciplinar(pp.35-52).Grupo Editorial Universitario
+
+✅ Recursos añadidos (22):
+------------------------------
+Camarero, L. (2010). Estadística para la investigación social.Garceta
+
+Gallardo   Vigil,   M.A.   &   Rodríguez   Fernández,   S.   (2005).  Análisis  de  datos  cuantitativos.  En  S.
+Rodríguez   Fernández;   M.A.   Gallardo   Vigil;   M.C.   Olmos   Gómez   &   F.   Ruiz  Garzón,  Investigación
+Educativa: Metodología de Encuesta(pp. 71-90).GEU
+
+Gallardo   Vigil,   M.A.   &   Rodríguez   Fernández,   S.   (2008).  Primeros  pasos  en  el  análisis  de  datos
+cuantitativos   con  SPSS.  En  S.  Rodríguez  Fernández;  M.A.  Gallardo  Vigil;  F.  Ruiz  Garzón  &  M.C.  Olmos
+Gómez, Investigación Educativa: Análisis de datos cuantitativos y cualitativos en la metodología por
+encuesta(pp. 25-48).GEU
+
+Gallardo   Vigil,   M.A.   &   Sánchez   Núñez,  C.  (2011).  Recursos  para  la  investigación  y  la  innovación
+educativa.   En   R.  López  Fuentes  (Coord.).  Innovación  Docente  e  Investigación  Educativa(pp.  97-109).
+GEU
+
+Huberman,   M.   &  Miles,  M.  (1998).  Data  managament  and  analysis  methods.  En  Denzin,  N.  &  Lincoln,  Y.
+(Eds.), Collecting and interpreting qualitative materials. (pp.179-210). Sage
+
+Kelle,   U.   (2000).   Computer   assisted   analysis:   coding   and  indexing.  En  Bauer,  M.  &  Gaskell,  C.
+(Comps.), Qualitative Research with text, image and sound(pp. 282-298). Sage
+
 Medina,    I.    &    Ortiz,   P.   &   Álamos-Concha,   P.   &   Rihoux,   B.   (2017).   Análisis   Cualitativo
 Comparado(QCA).CIS
 
@@ -65,10 +93,6 @@ Síntesis
 Pozo,   M.T.,   Fernández,   A.   &   Gutiérrez,   J.   (2002).   Los   estudios   de   caso  en  la  lógica  de  la
 investigación cualitativa. Arbor: Ciencia, pensamiento y cultura, 675, 533-557
 
-Rodríguez   Sabiote,   C.   (2003).   Paradigmas   y   métodos   de  investigación  en  educación  y  su  posible
-integración.   En   L.   Herrera,   O.   Lorenzo,   M.C.   Mesa  &  I.  Alemany.  Actualidad  de  la  intervención
-psicoeducativa: una perspectiva multidisciplinar(pp.35-52).Grupo Editorial Universitario
-
 Rodríguez   Sabiote,   C.  (2011).  La  recogida  de  información  mediante  escala  de  actitud  tipo  Likert  en
 Educación   Secundaria   Obligatoria.  En  R.  López  Fuentes  (Coord.).  Innovación  Docente  e  Investigación
 Educativa(pp. 65- 76). GEU
@@ -82,6 +106,10 @@ Rodríguez,   C.,   Gallardo,   M.A.,   Pozo,   T.  &  Gutiérrez,  J.  (2006). 
 cuantitativos   en   educación.   Análisis   descriptivo   básico:  teoría  y  práctica  mediante  SPSS.  Grupo
 Editorial Universitario
 
+Rodríguez,   C.,   Gutiérrez,  J.  &  Pozo,  T.  (2007).  Fundamentos  conceptuales  y  desarrollo  práctico  con
+SPSS de las principales pruebas de significación estadística en el ámbito educativo. Grupo Editorial
+Universitario
+
 Rodríguez,   C.,   Lorenzo,   O.   &   Herrera,   L.   (2005).   Teoría   y   práctica   del   análisis  de  datos
 cualitativos.   Proceso   general   y   criterios  de  calidad.  International  Journal  of  Social  Sciences  &
 Humanities(SOCIOTAM), 15 (2) 133-155
@@ -90,45 +118,6 @@ Rodríguez,   C.,   Pozo,   T.   &   Gutiérrez,  J.  (2006).  La  triangulació
 validación   de   estudios  de  encuesta  recurrentes  e  investigaciones  de  réplica  en  Educación  Superior.
 Revista     Electrónica     de     Investigación    y    Evaluación    Educativa(RELIEVE)    12    (2).    En
 http://www.uv.es/RELIEVE/v12n2/RELIEVEv12n2_6.htm
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gallardo   Vigil,   M.A.   &   Rodríguez   Fernández,   S.  (2005).  Análisis  de  datos  cuantitativos.  En  S  →
-Gallardo   Vigil,   M.A.   &   Rodríguez   Fernández,   S.   (2008).  Primeros  pasos  en  el  análisis  de  datos
-cuantitativos   con  SPSS.  En  S.  Rodríguez  Fernández;  M.A.  Gallardo  Vigil;  F.  Ruiz  Garzón  &  M.C.  Olmos
-Gómez, Investigación Educativa: Análisis de datos cuantitativos y cualitativos en la metodología por
-encuesta(pp. 25-48).GEU
-
-Verd,   J.   y   Lozares,   C.   (2016).   Introducción   a   la  investigación  cualitativa.  Fases,  Métodos  y
-Técnicas.   Síntesis   Camarero,   L.   (2010).  Estadística  para  la  investigación  social.Garceta  →  Verd,
-J.   y   Lozares,   C.   (2016).  Introducción  a  la  investigación  cualitativa.  Fases,  Métodos  y  Técnicas.
-Síntesis
-
-Huberman,   M.   &  Miles,  M.  (1998).  Data  managament  and  analysis  methods.  En  Denzin,  N.  &  Lincoln,  Y.
-(Eds.),   Collecting   and   interpreting   qualitative  materials.  (pp.179-210).  Sage,  Kelle,  U.  (2000).
-Computer   assisted   analysis:   coding  and  indexing.  En  Bauer,  M.  &  Gaskell,  C.  (Comps.),  Qualitative
-Research   with   text,   image   and   sound(pp.   282-298).   Sage   →  Kelle,  U.  (2000).  Computer  assisted
-analysis:   coding  and  indexing.  En  Bauer,  M.  &  Gaskell,  C.  (Comps.),  Qualitative  Research  with  text,
-image and sound(pp. 282-298). Sage
-
-✅ Recursos añadidos:
-------------------------------
-Camarero, L. (2010). Estadística para la investigación social.Garceta
-
-Gallardo   Vigil,   M.A.   &   Rodríguez   Fernández,   S.   (2005).  Análisis  de  datos  cuantitativos.  En  S.
-Rodríguez   Fernández;   M.A.   Gallardo   Vigil;   M.C.   Olmos   Gómez   &   F.   Ruiz  Garzón,  Investigación
-Educativa: Metodología de Encuesta(pp. 71-90).GEU
-
-Gallardo   Vigil,   M.A.   &   Sánchez   Núñez,  C.  (2011).  Recursos  para  la  investigación  y  la  innovación
-educativa.   En   R.  López  Fuentes  (Coord.).  Innovación  Docente  e  Investigación  Educativa(pp.  97-109).
-GEU
-
-Huberman,   M.   &  Miles,  M.  (1998).  Data  managament  and  analysis  methods.  En  Denzin,  N.  &  Lincoln,  Y.
-(Eds.), Collecting and interpreting qualitative materials. (pp.179-210). Sage
-
-Rodríguez,   C.,   Gutiérrez,  J.  &  Pozo,  T.  (2007).  Fundamentos  conceptuales  y  desarrollo  práctico  con
-SPSS de las principales pruebas de significación estadística en el ámbito educativo. Grupo Editorial
-Universitario
 
 Rodríguez,   C.,   Álvarez,   J.,   López,   J.   y   Campos,   M.  (2019).  Análisis  y  establecimiento  de  una
 jerarquía   de   valores   del   alumnado   de   ciclos   formativos   de   grado  medio-superior  de  formación
@@ -139,4 +128,7 @@ Rodríguez, G., Gil, J. & García, E. (1999). Métodos de investigación cualita
 
 Tejedor, J. & Etxeberria, J. (2006). Análisis inferencial de datos en educación. La Muralla
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+Verd,   J.   y   Lozares,   C.   (2016).   Introducción   a   la  investigación  cualitativa.  Fases,  Métodos  y
+Técnicas. Síntesis
+
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

@@ -2,46 +2,39 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 ACERO ESTRUCTURAL. L.M. Gil y E. Hernández Rodríguez. 2003
 
-ESTRUCTURAS   METALICAS   PARA   EDIFICACIÓN   ADAPTADO   AL   CTE.  J.  Monfort.  Universidad  Politécnica  de
-Valencia
-
-MECANICA DE MATERIALES. Gere-Timoshenko. 2ª Ed. Grupo Editorial Iberoamericana
-
-PROBLEMAS DE ESTRUCTURAS ARQUITECTÓNICA I-II F. Lazo Liñan y F. García Rodríguez. 2007
-
-PROBLEMAS   RESUELTOS  DE  RESISTENCIA  DE  MATERIALES  Y  TEORÍA  DE  ESTRUCTURAS.  J.  J.  Granados  Romera,  P.
-Museros Romero y J. M. Soria Herrera. Garceta. 2024
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 CONSTRUCCIONES METÁLICAS. Vittorio Zignoli. Ed. Dossat, Madrid
 
 CÁLCULO DE ESTRUCTURAS DE ACERO. Cudós Samblancat. H. Blume Ediciones, Madrid
 
 Código Estructura. Estructuras de acero
 
-Código técnico de la edificación. CTE AE. Acciones en la edificación
-
 Código técnico de la edificación. CTE SE-A
 
 ESTRUCTURA METÁLICA HOY. Argüelles. Librería Téc. Bellisco, Madrid
+
+ESTRUCTURAS   METALICAS   PARA   EDIFICACIÓN   ADAPTADO   AL   CTE.  J.  Monfort.  Universidad  Politécnica  de
+Valencia
 
 Eurocódigo   3:   proyecto   de   estructuras   de   acero.   Parte   1-1:   reglas   generales   y  reglas  para
 edificación
 
 INTRODUCCIÓN A LA MECANICA DE SOLIDOS. Popov. Ed. Limusa
+
+Libros: RESISTENCIA DE MATERIALES. Ortiz Berrocal. ETSII de Madrid
+
+MECANICA DE MATERIALES. Gere-Timoshenko. 2ª Ed. Grupo Editorial Iberoamericana
+
+Normativa: Código técnico de la edificación. CTE AE. Acciones en la edificación
+
+PROBLEMAS DE ESTRUCTURAS ARQUITECTÓNICA I-II F. Lazo Liñan y F. García Rodríguez. 2007
 
 PROBLEMAS DE RESISTENCIA DE MATERIALES Y ESTRUCTURAS METÁLICAS. F. Lazo. Fotocopias CLEMOT
 
@@ -49,14 +42,19 @@ PROBLEMAS DE RESISTENCIA DE MATERIALES. Miroliubov y otros. Ed. Mir, Moscú
 
 PROBLEMAS DE RESISTENCIA DE MATERIALES. Rodríguez Avial. Ed. Dossat
 
+PROBLEMAS   RESUELTOS  DE  RESISTENCIA  DE  MATERIALES  Y  TEORÍA  DE  ESTRUCTURAS.  J.  J.  Granados  Romera,  P.
+Museros Romero y J. M. Soria Herrera. Garceta. 2024
+
 RESISTENCIA DE MATERIALES. Feodosiev. Ed. Mir, Moscú
 
 RESISTENCIA DE MATERIALES. Nash. Serie de compendios Schaum. Mc Graw-Hill
-
-RESISTENCIA DE MATERIALES. Ortiz Berrocal. ETSII de Madrid
 
 RESISTENCIA DE MATERIALES. Stiopin. Ed. Mir, Moscú
 
 RESISTENCIA DE MATERIALES. Tomo 1º. Rodríguez Avial. Ed. Dossat
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

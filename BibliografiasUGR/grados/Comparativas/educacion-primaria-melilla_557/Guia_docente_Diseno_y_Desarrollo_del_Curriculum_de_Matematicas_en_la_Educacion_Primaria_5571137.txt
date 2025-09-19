@@ -2,25 +2,40 @@
 Grado: educacion-primaria-melilla (557)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
 Blanco,   L.,   Climent,  N.,  González,  M.  T.,  Moreno,  A.,  Sánchez-Matamoros,  G.,  Castro,  C.  y  Jiménez,
-C.   (2022).  Aportaciones  al  desarrollo  del  currículo  desde  la  investigación  en  educación  matemática.
-Universidad   de   Granada.  ISBN  978-84-338-7038-4  Calvo,  C.,  Carrillo,  A.,  De  la  Fuente,  A.,  De  León,
-M., González, M. J., Gordaliza, A., Guevara, I., Lázaro, C., Monzó, O., Moreno, A. J., Rodríguez, L.
-J.,   Rodríguez,  J.  y  Serradó,  A.  (2021).  Bases  para  la  elaboración  de  un  currículo  de  Matemáticas
-en Educación no Universitaria. Comité Español de Matemáticas
+C.   (2022).   Aportaciones  al  desarrollo  del  currículo  desde  la  investigación  en  Calvo,  C.,  Carrillo,
+A.,   De   la  Fuente,  A.,  De  León,  M.,  González,  M.  J.,  Gordaliza,  A.,  Guevara,  I.,  Lázaro,  C.,  Monzó,
+O.,   Moreno,  A.  J.,  Rodríguez,  L.  J.,  Rodríguez,  J.  y  Serradó,  A.  (2021).  Bases  para  la  elaboración
+de un currículo de Matemáticas en Educación no Universitaria. Comité Español de Matemáticas
 
 Carrillo, J., Contreras, L. C., Climent, N., Montes, M. A., Escudero, D. I. y Flores, E. (2016)
 
-📚 Recursos sin cambios:
+Godino,   J.  D.  (Dir.)  (2004).  Didáctica  de  las  matemáticas  para  maestros.  Departamento  de  Godino,  J.
+D. (Dir.) (2004). Matemáticas para maestros. Granada: Departamento de Junquera, J. (1961). Didáctica
+del   cálculo.   Labor   NCTM   (2003).   Principios   y  estándares  para  la  Educación  Matemática.  Sociedad
+Andaluza de Educación Matemática THALES
+
+Pirámide Van de Walle, J. A., Karp, K. S., & Bay-William, J. M. (2020). Elementary and Middle School
+Mathematics. Teaching Developmentally (10th ed.). Pearson
+
+📚 Recursos sin cambios (10):
 ------------------------------
+Carrillo, J., Contreras, L. C., Climent, Nuria, Montes, M. A., Escudero, Dinazar Isabel y Flores, E.
+(2016). Didáctica de las Matemáticas para maestros de Educación Primaria . Paraninfo
+
 Castro, E. (Ed.) (2001). Didáctica de la matemática en Educación Primaria . Síntesis
 
 Chamorro,   María   del   Carmen   (2003).  Didáctica  de  las  matemáticas  para  Primaria  .  Pearson-Prentice
 Hall
 
 Dickson, Linda Brown, Margaret y Gibson, Olwen (1991). El aprendizaje de las matemáticas . Labor
+
+Esta   bibliografía   se   completará   con   la   legislación   vigente   para  Educación  Primaria  estatal  y
+autonómica,   documentos   y   revistas   especializadas,   así   como  libros  de  texto  de  matemáticas  para
+Educación Primaria de diversas editoriales y sus correspondientes guías del profesor. Igualmente, se
+utilizarán los textos de la colección Matemáticas: Cultura y Aprendizaje de la editorial Síntesis
 
 Flores,   P.   y   Rico,   L.  (2015).  Enseñanza  y  aprendizaje  de  las  matemáticas  en  Educación  Primaria  .
 Pirámide
@@ -29,16 +44,12 @@ Rico, L. (1997). Bases teóricas del currículo de matemáticas. Síntesis
 
 Rico, L. (1997). La enseñanza de las matemáticas en Educación Secundaria. Horsori
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Godino,   J.  D.  (Dir.)  (2004).  Didáctica  de  las  matemáticas  para  maestros.  Departamento  de  Godino,  J.
-D. (Dir.) (2004). Matemáticas para maestros. Granada: Departamento de Junquera, J. (1961). Didáctica
-del   cálculo.   Labor   NCTM   (2003).   Principios   y  estándares  para  la  Educación  Matemática.  Sociedad
-Andaluza   de   Educación   Matemática   THALES   →   Godino,   J.   D.   (Dir.)   (2004).   Didáctica   de   las
-matemáticas   para   maestros   .   Departamento   de   Didáctica  de  la  Matemática.  Universidad  de  Granada
-http://www.ugr.es/local/jgodino/
+Romberg,   T.  (1991).  Estándares  Curriculares  y  de  Evaluación  para  la  Educación  Matemática  .  Sociedad
+Andaluza de Educación Matemática Thales
 
-✅ Recursos añadidos:
+Segovia, I. y Rico, L. (Coord.) (2011): Matemáticas para maestros de Educación Primaria . Pirámide
+
+✅ Recursos añadidos (8):
 ------------------------------
 Blanco,   L.,   Climent,  Nuria,  González,  María  Teresa,  Moreno,  A.,  Sánchez-Matamoros,  Gloria,  Castro,
 C.   y   Jiménez,   Clara   (2022).   Aportaciones   al  desarrollo  del  currículo  desde  la  investigación  en
@@ -49,13 +60,8 @@ Guevara,   Iolanda,   Lázaro,   Claudia,   Monzó,   O.,   Moreno,  A.  J.,  Ro
 Serradó,   Ana   (2021).   Bases  para  la  elaboración  de  un  currículo  de  Matemáticas  en  Educación  no
 Universitaria . Comité Español de Matemáticas
 
-Carrillo, J., Contreras, L. C., Climent, Nuria, Montes, M. A., Escudero, Dinazar Isabel y Flores, E.
-(2016). Didáctica de las Matemáticas para maestros de Educación Primaria . Paraninfo
-
-Esta   bibliografía   se   completará   con   la   legislación   vigente   para  Educación  Primaria  estatal  y
-autonómica,   documentos   y   revistas   especializadas,   así   como  libros  de  texto  de  matemáticas  para
-Educación Primaria de diversas editoriales y sus correspondientes guías del profesor. Igualmente, se
-utilizarán los textos de la colección Matemáticas: Cultura y Aprendizaje de la editorial Síntesis
+Godino,   J.  D.  (Dir.)  (2004).  Didáctica  de  las  matemáticas  para  maestros  .  Departamento  de  Didáctica
+de la Matemática. Universidad de Granada http://www.ugr.es/local/jgodino/
 
 Godino,   J.   D.   (Dir.)  (2004).  Matemáticas  para  maestros  .  Granada:  Departamento  de  Didáctica  de  la
 Matemática. Universidad de Granada. http://www.ugr.es/local/jgodino
@@ -68,12 +74,7 @@ Educativa (INEE) (s.f.). Inicio . https://www.educacionfpydeportes.gob.es/inee/p
 NCTM   (2003).   Principios  y  estándares  para  la  Educación  Matemática  .  Sociedad  Andaluza  de  Educación
 Matemática THALES
 
-Romberg,   T.  (1991).  Estándares  Curriculares  y  de  Evaluación  para  la  Educación  Matemática  .  Sociedad
-Andaluza de Educación Matemática Thales
-
-Segovia, I. y Rico, L. (Coord.) (2011): Matemáticas para maestros de Educación Primaria . Pirámide
-
 Van   de  Walle,  J.  A.,  Karp,  Karen  S.  y  Bay-William,  Jennifer  M.  (2016).  Elementary  and  Middle  School
 Mathematics. Teaching Developmentally (10th ed.). Pearson
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

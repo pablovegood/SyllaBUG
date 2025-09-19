@@ -2,11 +2,24 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
+Dillard,   J.   L.   Black  English.  Its  History  and  Usage  in  the  United  States.  New  York:  Random  House,
+1972.   (FTI/M   802.0(73)-087   DIL   bla)   Hall,   Stuart.   "Representation   &   The  Media"  [PDF].  Media
+Education Foundation, 1997
 
-📚 Recursos sin cambios:
+Thoreau, Henry David. Civil Disobedience. Open Road Media Integrated Media, 2015
+
+Wolfram,   Walt.   American  English.  Chichester,  West  Sussex:  Wiley  Blackwell,  2016  (Available  online)
+Woolf, Virginia. A Room of One’s Own. London: Hogarth Press, 1931
+
+gutenberg.ca/ebooks/woolfv-aroomofonesown/woolfv-aroomofonesown-00-h.html. Accessed 24 January 2022
+
+https://bit.ly/3Vhyu2m. Accessed 24 January 2022
+
+https://openroadmedia.com/ebook/civil-disobedience/9781504013772. Accessed 24 January 2022
+
+📚 Recursos sin cambios (12):
 ------------------------------
 Baldwin, James and Raoul Peck. I am not your Negro . Penguin UK, 2017
 
@@ -37,28 +50,26 @@ Gruyter, 2004. 111-32
 Zinn,   Howard.  A  People’s  History  of  the  United  States  1492-Present  .  New  York:  HarperCollins,  1995.
 (FLA/HAM/973 ZIN peo)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Wolfram,   Walt.   American  English.  Chichester,  West  Sussex:  Wiley  Blackwell,  2016  (Available  online)
-Woolf,   Virginia.   A   Room   of   One’s   Own.  London:  Hogarth  Press,  1931.  gutenberg.ca/ebooks/woolfv-
-aroomofonesown/woolfv-aroomofonesown-00-h.html   →   Wolfram,   Walt.   American   English   .  Chichester,
-West Sussex: Wiley Blackwell, 2016 (Available online)
+Dillard,   J.   L.  Black  English.  Its  History  and  Usage  in  the  United  States  .  New  York:  Random  House,
+1972. (FTI/M 802.0(73)-087 DIL bla)
 
-Dillard,   J.   L.   Black  English.  Its  History  and  Usage  in  the  United  States.  New  York:  Random  House,
-1972.   (FTI/M   802.0(73)-087   DIL   bla)   Hall,   Stuart.   "Representation   &   The  Media"  [PDF].  Media
-Education   Foundation,   1997   →   Dillard,   J.   L.  Black  English.  Its  History  and  Usage  in  the  United
-States . New York: Random House, 1972. (FTI/M 802.0(73)-087 DIL bla)
-
-Thoreau,   Henry   David.   Civil  Disobedience.  Open  Road  Media  Integrated  Media,  2015  →  Thoreau,  Henry
-David.      Civil      Disobedience      .      Open      Road      Media     Integrated     Media,     2015.
-https://openroadmedia.com/ebook/civil-disobedience/9781504013772 . Accessed 24 January 2022
-
-Accessed   24   January   2022   →   Woolf,   Virginia.  A  Room  of  One’s  Own  .  London:  Hogarth  Press,  1931.
-gutenberg.ca/ebooks/woolfv-aroomofonesown/woolfv-aroomofonesown-00-h.html. Accessed 24 January 2022
-
-✅ Recursos añadidos:
-------------------------------
 Hall,    Stuart.    "Representation    &    The    Media"    [PDF].    Media   Education   Foundation,   1997.
 https://bit.ly/3Vhyu2m . Accessed 24 January 2022
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+Thoreau,    Henry    David.    Civil    Disobedience    .    Open    Road   Media   Integrated   Media,   2015.
+https://openroadmedia.com/ebook/civil-disobedience/9781504013772 . Accessed 24 January 2022
+
+Thoreau,    Henry    David.    Civil    Disobedience    .    Open    Road   Media   Integrated   Media,   2015.
+https://openroadmedia.com/ebook/civil-disobedience/9781504013772 . Accessed 24 January 2022
+
+Thoreau,    Henry    David.    Civil    Disobedience    .    Open    Road   Media   Integrated   Media,   2015.
+https://openroadmedia.com/ebook/civil-disobedience/9781504013772 . Accessed 24 January 2022
+
+Wolfram, Walt. American English . Chichester, West Sussex: Wiley Blackwell, 2016 (Available online)
+
+Woolf,   Virginia.   A   Room   of   One’s  Own  .  London:  Hogarth  Press,  1931.  gutenberg.ca/ebooks/woolfv-
+aroomofonesown/woolfv-aroomofonesown-00-h.html. Accessed 24 January 2022
+
+📊 Porcentaje estimado de cambio: 76% [███████░░░]

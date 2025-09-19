@@ -1,5 +1,0 @@
-F. Castella, "L^2-solutions to the Schrödinger-Poisson system: existence, uniqueness, time behavior and smoothing effects", Math. Models Meth. Appl. Sci. 7, 1051-1083, 1997.
-T. Cazenave, "An introduction to nonlinear Schrödinger equations". Textos de Métodos Matemáticos 26, Universidade Federal do Rio de Janeiro (2ª ed.), 1993.
-J. Duoandikoetxea, "Fourier analysis", Graduate Studies in Mathematics, vol. 29 (AMS), 2001
-F. Linares y G. Ponce, "Introduction to nonlinear dispersive equations", Springer 2009.
-5. A. Pazy, "Semigroups of Linear Operators and Applications to Partial Differential Equations", Springer-Verlag, Nueva York, 1983.

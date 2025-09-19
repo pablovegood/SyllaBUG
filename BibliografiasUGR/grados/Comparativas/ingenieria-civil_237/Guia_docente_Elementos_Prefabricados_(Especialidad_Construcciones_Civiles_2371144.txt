@@ -2,26 +2,20 @@
 Grado: ingenieria-civil (237)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-ELLIOT,   Precast  Concrete  Structures  VVAA,  CICCP+ACHE,  Recomendaciones  para  el  proyecto,  ejecución  y
-montaje de elementos prefabricados, 2004
-
 VV   AA,  FIP-Manual  de  Estructuras  de  Edificación  prefabricadas,  ATEP,  1996  CALAVERA,  J.  y  FERNÁNDEZ,
 J.   Prefabricación  de  edificios  y  naves  industriales  REVEL,  M.  La  prefabricación  en  la  construcción,
 Urmo,   1973  CALAVERA,  J.  Proyecto  y  cálculo  de  estructuras  de  hormigón:  en  masa,  armado,  pretensado,
 Intemac,   2008   JIMÉNEZ   MONTOYA,  P.,  GARCÍA  MESEGUER,  A.  y  MORÁN  CABRÉ,  F.  Hormigón  armado,  Gustavo
-Gili, 2009 Normativa básica relativa a estructuras
+Gili, 2009 Normativa básica relativa a estructuras: Código Estructural Eurocódigo 1 Eurocódigo 2
 
-🔁 Misma obra con edición/año distinto:
+📚 Recursos sin cambios (1):
 ------------------------------
-No hubo cambios de edición/año.
+ELLIOT,   Precast  Concrete  Structures  VVAA,  CICCP+ACHE,  Recomendaciones  para  el  proyecto,  ejecución  y
+montaje de elementos prefabricados, 2004
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (10):
 ------------------------------
 CALAVERA,   J.   Proyecto   y  cálculo  de  estructuras  de  hormigón:  en  masa,  armado,  pretensado,  Intemac,
 2008
@@ -30,17 +24,18 @@ CALAVERA, J. y FERNÁNDEZ, J. Prefabricación de edificios y naves industriales
 
 Código Estructural
 
+ELLIOT, Precast Concrete Structures
+
 Eurocódigo 1
 
 Eurocódigo 2
 
 JIMÉNEZ MONTOYA, P., GARCÍA MESEGUER, A. y MORÁN CABRÉ, F. Hormigón armado, Gustavo Gili, 2009
 
+Normativa básica relativa a estructuras
+
 REVEL, M. La prefabricación en la construcción, Urmo, 1973
 
 VV AA, FIP-Manual de Estructuras de Edificación prefabricadas, ATEP, 1996
-
-VVAA,   CICCP+ACHE,  Recomendaciones  para  el  proyecto,  ejecución  y  montaje  de  elementos  prefabricados,
-2004
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

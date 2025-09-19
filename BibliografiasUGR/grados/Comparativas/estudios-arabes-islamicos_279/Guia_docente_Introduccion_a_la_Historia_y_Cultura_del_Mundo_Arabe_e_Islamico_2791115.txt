@@ -2,11 +2,11 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (27):
 ------------------------------
 ANTAKI, I. La cultura de los árabes. México: Siglo XXI Editores, 1989
 
@@ -19,6 +19,8 @@ CAHEN,   C.  El  Islam.  I.  Desde  los  orígenes  hasta  el  comienzo  del  Im
 1972
 
 CORNU, G., Atlas du monde arabo-islamique à l'époque classique (IXe-Xe siècles), Leiden: Brill, 1985
+
+ESPOSITO, J. L. Islam. Pasado y presente de las comunidades musulmanas. Barcelona: Paidós, 2006
 
 GIBB, H.A.R. y KRAMERS, J.H. (edits.). Shorter Encyclopaedia of Islam, Leiden: E.J. Brill, 1995
 
@@ -35,6 +37,10 @@ HOURANI, A. Historia de los pueblos árabes. Barcelona: Editorial Ariel, 2005
 LÓPEZ GARCÍA, B. El mundo arabo-islámico contemporáneo. Madrid: Síntesis, 1997
 
 MACQUEEN, B. An Introduction to Middle East Politics. London: SAGE Publications, 2017
+
+MANTRAN, R. La expansión musulmana (siglos VII al XI). Barcelona: Labor, 1973 (reimp. 1982)
+
+MANZANO MORENO, E. Historia de las sociedades musulmanas en la Edad Media. Síntesis, 2016
 
 MARTÍN   MUÑOZ,   G.   El   estado   árabe.   Crisis   de   legitimidad  y  contestación  islamista.  Barcelona:
 Bellaterra, 1999
@@ -58,19 +64,12 @@ Labor, vol. I, 1976, vol. II, 1980
 
 SOURDEL, D. Historia de los árabes. Mexico: Fondo de Cultura Económica, 1989
 
-WAINES, D. El Islam. s.l.: Cambridge University Press, 1998
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MANTRAN,   R.   La  expansión  musulmana  (siglos  VII  al  XI).  Barcelona:  Labor,  1973  (reimp  →  MANTRAN,  R.
-La expansión musulmana (siglos VII al XI). Barcelona: Labor, 1973 (reimp. 1982)
-
-✅ Recursos añadidos:
-------------------------------
-ESPOSITO, J. L. Islam. Pasado y presente de las comunidades musulmanas. Barcelona: Paidós, 2006
-
-MANZANO MORENO, E. Historia de las sociedades musulmanas en la Edad Media. Síntesis, 2016
-
 The Encyclopaedia of Islam. 2ª y 3ª ed. Leiden: E.J. Brill (versión on-line)
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+WAINES, D. El Islam. s.l.: Cambridge University Press, 1998
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

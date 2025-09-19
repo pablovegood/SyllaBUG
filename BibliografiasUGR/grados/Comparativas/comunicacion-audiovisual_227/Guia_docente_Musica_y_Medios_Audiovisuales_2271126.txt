@@ -2,7 +2,7 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (35):
 ------------------------------
 Alten, Stanley R. El Manual del audio en los medios de comunicación. Andoain (Guipuzkoa): Escuela de
 cine y vídeo, 1994
@@ -43,6 +43,9 @@ University Press, 1985
 
 Kick, Ross. Digital sound processing for music and multimedia. Oxford: Focal Press, 1999
 
+Kramer,   Lawrence.   Classical   Music  and  Postmodern  Knowledge.  Berkeley  /  Los  Angeles:  University  of
+California Press, 1995
+
 Limbacher, James L.. / Wright, H. Stephen. Keeping score: film and television music, 1980-1988. With
 additional coverage of 1921-1979. Metuchen: Scarecrow Press, 1991
 
@@ -53,13 +56,21 @@ Pousseur, Henri. Música, semántica, sociedad. Madrid: Alianza, 1984
 
 Prendergast, Roy M. Film Music: a neglected art. New York: Norton and Company, 1992
 
+Rasskin,   Martin.   Música   virtual:   la   creación   musical  ante  el  reto  multimedia.  Madrid:  Sociedad
+General de Autores de España, 1995
+
+Rebollo   Ena,   Álvaro.  Distribución  de  música  en  Internet:  Análisis  tecnológico,  marco  regulatorio  y
+modelos de negocio. Madrid: Sociedad General Autores de España, 2003
+
 Recuero   López,   Manuel  (et  al.).  Técnicas  de  grabación  sonora.  Madrid:  Instituto  Oficial  de  Radio  y
 Televisión, 1988
 
+Rumsey,   Francis   /  McCormick,  Tim.  Introducción  al  sonido  y  la  grabación.  Madrid:  Instituto  Oficial
+de Radio y Televisión, 2002
+
 Russell, Mark / Young, James (Eds.). Bandas Sonoras. Cine. Barcelona: Océano, 2001
 
-Santacreu   Fernández,  Óscar  Antonio.  La  música  en  la  publicidad.  Alicante:  Biblioteca  Virtual  Miguel
-de Cervantes, 2003
+Santacreu Fernández, Óscar Antonio. La música en la publicidad. Alicante: Biblioteca
 
 Simeon,   Ennio.   Per   un   pugno   di   note:   storia,   teoria,  estetica  della  musica  per  il  cinema,  la
 televisione e il video. Milano: Rugginenti, 1995
@@ -71,8 +82,7 @@ Tagg,   Philip.  (Ed.).  Film  music,  mood  music,  and  popular  music  resear
 entretiens   sur   la   musique   de  film,  de  sonorisation  et  sur  la  recherche  dans  la  musique  des  mass-
 média. Göteborg: Göteborgs universitet, Musikvetenskapliga institutionen, 1980
 
-Traducción   Gabriel   Menéndez  Torrellas.  Madrid:  Alianza,  2008  (7ª  ed.).  Capítulos  32,  34  y  Campillo
-Garrigós, Rosa. La gestión y el gestor del patrimonio cultural. Murcia: Editorial KR, 1998
+Tagg, Philip. «Music, moving image, semiotics and the democratic right to know»
 
 Téllez,   José   Luis.   «Notas   para   una  teoría  de  la  música  dramática  I-V».  Archivos  de  la  Filmoteca
 (Valencia), 1-8 (1989-1991)
@@ -81,14 +91,21 @@ Valls Gorina, Manuel / Padrol, Joan. Música y cine. Barcelona: Ultramar, 1990
 
 Vergara Luján, Víctor. Música digital. Madrid: Anaya Multimedia, 2003
 
+Virtual Miguel de Cervantes, 2003
+
 Watkinson, John. El arte del audio digital. Madrid: Instituto Oficial de Radio y Televisión, 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (57):
 ------------------------------
+(Fla)   Rodríguez   Bravo,   Ángel   A.  La  dimensión  sonora  del  lenguaje  audiovisual.  Barcelona:  Paidós,
+1998
+
 Adorno, Theodor W. / Eisler, Hanns. El Cine y la música . Madrid: Fundamentos, 1981
 
 Aguilera   Miguel   de   (et   al.).   Comunicación   y  música  .  2  vols.  Barcelona:  Universidad  Abierta  de
 Cataluña, 2008
+
+Alcalde de Isla, Jesús. Música y comunicación: puntos de encuentro básicos . Madrid: Fragua, 2007
 
 Alsina Thevenet, Homero / Romaguera i Ramio, Joaquim (Eds). «El cine sonoro y la música en el cine».
 En: Textos y manifiestos del cine . Madrid: Cátedral, 1989
@@ -124,6 +141,9 @@ Traducción Gabriel Menéndez Torrellas. Madrid: Alianza, 2008 (7ª ed.). Capít
 
 Camarero   Izquierdo,   Carmen   /   Garrido   Samaniego,  María  José.  Marketing  del  patrimonio  cultural  .
 Madrid: Ediciones Pirámide (Grupo Anaya) y Esic Editorial, 2004, 21-22
+
+Campillo   Garrigós,   Rosa.   L   a  gestión  y  el  gestor  del  patrimonio  cultural  .  Murcia:  Editorial  KR,
+1998
 
 Chapman,   Robert.   Selling   the   sixties:   the   pirates   and   pop   music   radio  .  London  /  New  York:
 Routledge, 1992
@@ -179,6 +199,8 @@ Jullier,   Laurent.   El   sonido   en   el   cine   .   Barcelona:  Paidós,  2
 Kaplan,   E.   Ann.   Rocking  around  the  clock:  music  television,  postmodernism,  and  consumer  culture  .
 New York / London: Methuen, 1987
 
+Karlin, Fred. Listening to Movies: The Film Lover's Guide to Film Music . New York: Schirmer, 1994
+
 Lack, Russell. La música en el cine . Madrid: Cátedra, 1999
 
 Lacombe,   Alain.  Des  Compositeurs  pour  l'image:  cinéma  et  télévision  .  Neuilly-sur-Seine:  Musique  et
@@ -213,6 +235,9 @@ Olarte   Martínez,   Matilde.   La  Música  en  los  medios  audiovisuales  . 
 Olarte Martínez, Matilde. Reflexiones en torno a la música y la imagen desde la musicología española
 . Salamanca, Plaza Universitaria, 2009
 
+Pedrero,   Luis   Miguel  (et  al.).  La  radio  musical  en  España:  historia  y  análisis  .  Madrid:  Instituto
+Oficial de Radio y Televisión, 2002
+
 Porta   Navarro,   Amparo.  Músicas  públicas,  escuchas  privadas:  hacia  una  lectura  de  la  música  popular
 contemporánea . Bellaterra (etc.): Universitat Autònoma de Barcelona (etc.), 2007
 
@@ -230,39 +255,11 @@ Xalabarder, Conrado. Enciclopedia de las bandas sonoras . Barcelona: Ediciones B
 
 Xalabarder, Conrado. Música de cine. Una ilusión óptica . Libros en Red, 2006
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Rebollo   Ena,   Álvaro.  Distribución  de  música  en  Internet:  Análisis  tecnológico,  marco  regulatorio  y
-modelos   de   negocio.  Madrid:  Sociedad  General  Autores  de  España,  2003.  (Fla)  Rodríguez  Bravo,  Ángel
-A.   La   dimensión   sonora   del   lenguaje   audiovisual.   Barcelona   →   Rodríguez   Bravo,   Ángel  A.  La
-dimensión sonora del lenguaje audiovisual. Barcelona: Paidós, 1998
-
-Sociedad   General   de   Autores  de  España,  1995  →  González  Ribot,  Mª  José/  Bordas,  Cristina.  “Centros
-de   documentación   musical.   I.   España”.   En:  Diccionario  de  la  Música  Española  e  Hispanoamericana,
-Emilio Casares (director), vol. 3, Madrid, Sociedad General de Autores y Editores, 1999, pp. 473-475
-
-University   of   California   Press,   1995   →   Brown,   Royal  S.  Overtones  and  Undertones.  Reading  Film
-Music . Berkeley: University of California Press, 1994
-
-Instituto   Oficial   de   Radio   y   Televisión,   2002   →   Beltrán  Moner,  Rafael.  Ambientación  Musical:
-selección,   montaje   y   sonorización   .   Madrid:   Instituto   Oficial  de  Radio  y  Televisión,  1991  (2ª
-edición)
-
-✅ Recursos añadidos:
-------------------------------
-Alcalde de Isla, Jesús. Música y comunicación: puntos de encuentro básicos . Madrid: Fragua, 2007
-
-Campillo   Garrigós,   Rosa.   L   a  gestión  y  el  gestor  del  patrimonio  cultural  .  Murcia:  Editorial  KR,
-1998
-
 Hervás Muñoz, Marina. La escucha del ojo. Un recorrido por el sonido y el cine . Madrid: Exit, 2022
-
-Karlin, Fred. Listening to Movies: The Film Lover's Guide to Film Music . New York: Schirmer, 1994
 
 López   Cano,   Rubén.   De   los   videomemes  a  Tom  y  Jerry  .  La  música  cuenta  en  el  audiovisual  .  Jaén:
 Universidad de Jaén, UJA Editorial, 2024
 
-Pedrero,   Luis   Miguel  (et  al.).  La  radio  musical  en  España:  historia  y  análisis  .  Madrid:  Instituto
-Oficial de Radio y Televisión, 2002
-
-📊 Porcentaje estimado de cambio: 46% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

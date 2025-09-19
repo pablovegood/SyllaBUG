@@ -2,11 +2,15 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
 Croft, W.B.; Lafferty, J. Language Modeling for Information Retrieval. Berlin: Springer, 2003
 
-📚 Recursos sin cambios:
+Voorhees,   E.M.;   Harman,   D.K.  TREC:  Experiment  and  Evaluation  in  Information  Retrieval.  MIT  Press,
+2005   Croft,   B.;   Metzler,   D.;   Strohman,T.   Search   engines   :  information  retrieval  in  practice.
+Pearson, 2010
+
+📚 Recursos sin cambios (4):
 ------------------------------
 Baeza-Yates,   R.  &  Ribeiro-Neto,  B.  Modern  Information  Retrieval:  The  Concepts  and  Technology  Behind
 Search. London: Addison Wesley, 2011
@@ -18,17 +22,13 @@ Press, 2016
 
 Chaomei, C. Information Visualization: Beyond the Horizon. London: Springer-Verlag, 2006
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Voorhees,   E.M.;   Harman,   D.K.  TREC:  Experiment  and  Evaluation  in  Information  Retrieval.  MIT  Press,
-2005   Croft,   B.;   Metzler,   D.;   Strohman,T.   Search   engines  :  information  retrieval  in  practice  →
-Croft,   B.;   Metzler,   D.;   Strohman,T.  Search  engines  :  information  retrieval  in  practice.  Pearson,
-2010
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Aggarwal,   Charu   C.   Recommender  Systems:  The  Textbook.  Cham  :,  Springer  International  Publishing  ;
 Imprint Springer, 2016
+
+Croft,   B.;   Metzler,   D.;   Strohman,T.  Search  engines  :  information  retrieval  in  practice.  Pearson,
+2010
 
 Shapira,   Bracha.;   Rokach,   Lior.;   Ricci,   Francesco.,   2nd   ed.;  2nd  ed.,  New  York,  NY  :,  Imprint
 Springer; Springer US, 2015
@@ -36,4 +36,4 @@ Springer; Springer US, 2015
 Voorhees,   E.M.;   Harman,   D.K.  TREC:  Experiment  and  Evaluation  in  Information  Retrieval.  MIT  Press,
 2005
 
-📊 Porcentaje estimado de cambio: 83% [████████░░]
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

@@ -2,28 +2,22 @@
 Grado: educacion-primaria-bilingue (256)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Arco,   J.L.   y   Fernández,   A.   (2004).   Necesidades   Educativas   Especiales.   Manual   de  consultas,
-exposiciones   y   debates;  así  como  en  la  elaboración  de  los  trabajos,  individuales  o  en  equipo,  y  en
-las sesiones de puesta en común
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 Ainscow,   M.   (2002).   Desarrollo   de  las  escuelas  inclusivas.  Ideas,  propuestas  y  experiencias  para
 mejorar las instituciones escolares.Narcea
 
-Rodríguez, A. (2015). Un currículo para múltiples adaptaciones. EOS
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Arco,   J.L.   y   Fernández,   A.   (2004).   Necesidades   Educativas   Especiales.  Manual  de  evaluación  e
 intervención psicológica. McGraw Hill
 
+Rodríguez, A. (2015). Un currículo para múltiples adaptaciones. EOS
+
+✅ Recursos añadidos (14):
+------------------------------
 Bonals, J. y Sánchez-Cano, M. (Coords.). (2007). Manual de Asesoramiento psicopedagógico. Ed. Graó
 
 Fernández, A. (2002). Fundamentos psicopedagógicos de educación especial. G.E.U
@@ -60,4 +54,4 @@ Salvador Mata, F. (2005). Bases psicopedagógicas de la educación especia. Alji
 Verdugo    y    Gutiérrez    (2009).    Discapacidad   intelectual.   Adaptación   social   y   problemas   de
 comportamiento. Ed. Pirámide
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 82% [████████░░]

@@ -2,11 +2,22 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Barlow,   D.H.   y   Hersen,   M.  (1994).  Diseños  experimentales  de  caso  único.  Barcelona:  Martínez  Roca
+Benneyan,   J.   C.,   Lloyd,   R.   C.,  &  Plsek,  P.  E.  (2003).  Statistical  process  control  as  a  tool  for
+research and healthcare improvement. BMJ Quality & Safety, 12(6), 458-464
 
-📚 Recursos sin cambios:
+Carballo, G., Mendoza, E., Fresneda, M.D., y Muñoz, J. (2008). La práctica basada en la evidencia en
+la   logopedia   española:   estudio   descriptivo.  Revista  de  Logopedia,  Foniatría  y  Audiología,  28(3),
+149-165 Carr, J.E. y Bailey, J.S. (1996). A brief behavior therapy protocol for Tourette syndrome
+
+Fontes   de  Gracia,  S.,  García  Gallego,  C.,  Quintanilla  Bobián,  L.,  Rodríguez  Fernández,  R.,  Rubio  de
+Lemus,   P.   y   Sarriá   Sánchez,   E.  (2019).  Fundamentos  de  investigación  en  Psicología.  Madrid:  UNED
+Franklin,   R.D.,   Allison,   D.B.,   y   Gorman,  B.S.  (Eds.).  (2014).  Design  and  analysis  of  singlecase
+research. Psychology Press
+
+📚 Recursos sin cambios (45):
 ------------------------------
 Aguilar,   C.   y   I   Navarro,   J.   (2008).  Análisis  funcional  e  intervención  con  economía  de  fichas  y
 contrato   de   contigencias   en   tres   casos   de  conductas  disruptivas  en  el  entorno  escolar.  Revista
@@ -20,11 +31,6 @@ for managing disruptive behavior. Psychology in the Schools, 35(1), 67-79
 
 Arnau,   J.   (1995)  Análisis  estadístico  de  datos  para  los  diseños  de  sujeto  único.  En  M.T.  Anguera  y
 cols. Métodos de investigación en Psicología. Madrid: Síntesis Psicológica
-
-Barlow, D.H. y Hersen, M. (1994). Diseños experimentales de caso único. Barcelona: Martínez Roca
-
-Benneyan,   J.   C.,   Lloyd,   R.   C.,  &  Plsek,  P.  E.  (2003).  Statistical  process  control  as  a  tool  for
-research and healthcare improvement. BMJ Quality & Safety, 12(6), 458-464
 
 Bono,   R.   y   Arnau,   J.   (2014).   Diseños  de  caso  único  en  ciencias  sociales  y  de  la  salud.  Madrid:
 Síntesis
@@ -47,6 +53,9 @@ Calet,   N.,  Pérez-Morenilla,  M.C.,  y  De  los  Santos-Roig,  M.  (2019).  O
 difficulties   through   a  prosodic  reading  intervention:  A  single-case  study.  Child  Language  Teaching
 and Therapy, 35(1), 75-88
 
+Carr,   J.E.   y  Bailey,  J.S.  (1996).  A  brief  behavior  therapy  protocol  for  Tourette  syndrome.  Journal
+of behavior therapy and experimental psychiatry, 27(1), 33-40
+
 Castellanos   López,   M.A.,   Pérez   Moreno,   E.  y  Simón  López,  T.  (2018).  Métodos  de  investigación  en
 logopedia. Madrid: Editorial Síntesis
 
@@ -64,6 +73,12 @@ sesiones clínicas. Revista de Investigación en Logopedia, 2(1), 38-53
 
 Irwin,   D.L.,   Lass,   N.J.,   Pannbacker,   M.,   Koay,  M.E.T.  y  Whited,  J.S.  (2019).  Clinical  research
 methods in speech-language pathology and audiology. Plural Publishing
+
+Karimi, H., O’Brian, S., Onslow, M., Jones, M., Menzies, R., y Packman, A. (2013). Using statistical
+process control charts to study stuttering frequency variability during a single day
+
+Kazdin,   A.E.   (2019).   Single-case   experimental   designs.  Evaluating  interventions  in  research  and
+clinical practice. Behaviour research and therapy, 117, 3-17
 
 Kilgus,   S.P.,   Riley-Tillman,   T.C.   y   Kratochwill,   T.R.  (2016).  Establishing  interventions  via  a
 theory-driven single case design research cycle. School Psychology Review, 45(4), 477-498
@@ -118,6 +133,9 @@ Sanz,   J.,   y   García-Vera,   M.P.   (2015).   Técnicas  para  el  análisi
 práctica   clínica:   ejemplos   de   aplicación  en  el  tratamiento  de  víctimas  de  atentados  terroristas.
 Clínica y Salud, 26(3), 167-180
 
+Serrano,   F.D.,   Sánchez,   J.B.,   y   Olmedo,   M.G.   (2016).   Galexia:   Evidence-based   software   for
+intervention in reading fluency and comprehension. In INTED2016 Proceedings (pp. 2001-2007)
+
 Shadish,   W.R.   y   Sullivan,   K.J.   (2011).   Characteristics   of   single-case  designs  used  to  assess
 intervention effects in 2008. Behavior Research Methods, 43(4), 971-980
 
@@ -148,44 +166,23 @@ calculators for SCR analysis (Version 2.0)[Web-based application]. Texas A&M Uni
 Wright,   M.L.,   Sundar,   K.M.,   Herrick,   J.S.   et   al   (2012).   Long-Term   Treatment  Outcomes  after
 Behavioral Speech Therapy for Chronic Refractory Cough. Lung, 199, 517-525
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Carballo, G., Mendoza, E., Fresneda, M.D., y Muñoz, J. (2008). La práctica basada en la evidencia en
-la   logopedia   española:   estudio   descriptivo.  Revista  de  Logopedia,  Foniatría  y  Audiología,  28(3),
-149-165   Carr,  J.E.  y  Bailey,  J.S.  (1996).  A  brief  behavior  therapy  protocol  for  Tourette  syndrome  →
+BIBLIOGRAFÍA BÁSICA
+
+Barlow, D.H. y Hersen, M. (1994). Diseños experimentales de caso único. Barcelona: Martínez Roca
+
+Benneyan,   J.   C.,   Lloyd,   R.   C.,  &  Plsek,  P.  E.  (2003).  Statistical  process  control  as  a  tool  for
+research and healthcare improvement. BMJ Quality & Safety, 12(6), 458-464
+
 Carballo, G., Mendoza, E., Fresneda, M.D., y Muñoz, J. (2008). La práctica basada en la evidencia en
 la   logopedia   española:   estudio   descriptivo.  Revista  de  Logopedia,  Foniatría  y  Audiología,  28(3),
 149-165
 
-Serrano,   F.D.,   Sánchez,   J.B.,   y   Olmedo,   M.G.   (2016).   Galexia:   Evidence-based   software   for
-intervention   in   reading   fluency   and  comprehension.  In  INTED2016  Proceedings  (pp  →  Serrano,  F.D.,
-Sánchez,   J.B.,   y  Olmedo,  M.G.  (2016).  Galexia:  Evidence-based  software  for  intervention  in  reading
-fluency and comprehension. In INTED2016 Proceedings (pp. 2001-2007)
-
-Fontes   de  Gracia,  S.,  García  Gallego,  C.,  Quintanilla  Bobián,  L.,  Rodríguez  Fernández,  R.,  Rubio  de
-Lemus,   P.   y   Sarriá   Sánchez,   E.  (2019).  Fundamentos  de  investigación  en  Psicología.  Madrid:  UNED
-Franklin,   R.D.,   Allison,   D.B.,  y  Gorman,  B.S.  (Eds.).  (2014).  Design  and  analysis  of  single-  case
-research.   Psychology   Press   →  Franklin,  R.D.,  Allison,  D.B.,  y  Gorman,  B.S.  (Eds.).  (2014).  Design
-and analysis of single-case research. Psychology Press
-
-Karimi, H., O’Brian, S., Onslow, M., Jones, M., Menzies, R., y Packman, A. (2013). Using statistical
-process   control   charts   to   study   stuttering   frequency   variability  during  a  single  Kazdin,  A.E.
-(2019).   Single-case   experimental   designs.   Evaluating   interventions   in   research   and   clinical
-practice.    Behaviour    research    and   therapy,   117,   3-17   →   Kazdin,   A.E.   (2019).   Single-case
-experimental designs. Evaluating interventions in research and clinical practice. Behaviour research
-and therapy, 117, 3-17
-
-✅ Recursos añadidos:
-------------------------------
-BIBLIOGRAFÍA BÁSICA
-
-Carr,   J.E.   y  Bailey,  J.S.  (1996).  A  brief  behavior  therapy  protocol  for  Tourette  syndrome.  Journal
-of behavior therapy and experimental psychiatry, 27(1), 33-40
-
 Fontes   de  Gracia,  S.,  García  Gallego,  C.,  Quintanilla  Bobián,  L.,  Rodríguez  Fernández,  R.,  Rubio  de
 Lemus, P. y Sarriá Sánchez, E. (2019). Fundamentos de investigación en Psicología. Madrid: UNED
 
-Karimi, H., O’Brian, S., Onslow, M., Jones, M., Menzies, R., y Packman, A. (2013). Using statistical
-process control charts to study stuttering frequency variability during a single day
+Franklin,   R.D.,   Allison,   D.B.,   y  Gorman,  B.S.  (Eds.).  (2014).  Design  and  analysis  of  single-case
+research. Psychology Press
 
 📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

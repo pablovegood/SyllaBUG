@@ -2,11 +2,12 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+EVERITT,   B.   and   DUNN,   G.   (1998).   Applied   Multivariate   Data   Analysis,   Edward  Arnold,  London
+BISQUERRA, R. (1989). Introducción Conceptual al Análisis Multivariable. PPU
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 CRAWLEY, M. (2007). The R Book. Willey
 
@@ -38,14 +39,10 @@ WEISBERG, S. (2005). Applied Linear Regression (3 ed.). New York: Wiley
 WOLFGANG,   K.H   &   LEOPOLD,   S.   (2015),   Applied  Multivariate  Statistical  Analysis,  Fourth  Edition.
 Springer
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-EVERITT,   B.   and   DUNN,   G.   (1998).   Applied   Multivariate   Data   Analysis,   Edward  Arnold,  London
-BISQUERRA,   R.   (1989).   Introducción   Conceptual   al   Análisis  Multivariable.  PPU  →  EVERITT,  B.  and
-DUNN, G. (1998). Applied Multivariate Data Analysis, Edward Arnold, London
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 BISQUERRA, R. (1989). Introducción Conceptual al Análisis Multivariable. PPU
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+EVERITT, B. and DUNN, G. (1998). Applied Multivariate Data Analysis, Edward Arnold, London
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

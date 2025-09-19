@@ -2,13 +2,17 @@
 Grado: nutrichnay-dietet-ciencia-tecnol-alimentos (211)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+HORST   DIETER.  Fundamentos  de  Tecnología  de  los  Alimentos.  Ed.  Acribia.  2001  LINDER,  M.C.  Nutrición.
+Aspectos Bioquímicos. EUNSA. 1996
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 ASTIASARAN y MARTINEZ. Alimentos Composición y propiedades. Ed. McCraww-Hill. Interamericana. 2000
+
+BARROS,   C.   (Recopilador).   Legislación   Alimentaria.   Alimentaria.   Madrid.  1976Actualizado  con  CD
+BELITZ. Química de los Alimentos. 3ª Edición. Ed. Acribia. 2002
 
 BELLO GUTIERREZ, J. Ciencia Bromatológica. Ed. Díaz de Santos. 2000
 
@@ -17,6 +21,8 @@ BRENNAN, J. Las Operaciones de la Ingeniería de los Alimentos. 3ª Edición. Ed
 CENZANO. Nuevo Manual de Industrias Alimentarias.1993
 
 CHEFTEL, J.G. y col. Introducción a la bioquímica y tecnología de los alimentos.2000
+
+CODIGO ALIMENTARIO ESPAÑOL. Ed. Textos legales
 
 FELLOWS,   P.   Tecnología   del   Procesado   de   Los   Alimentos.   Principios   y  Prácticas.  Ed.  Acribia.
 Zaragoza. 1993
@@ -29,37 +35,28 @@ GIL, A. Tratado de Nutrición. TOMOS I y III. 2017
 
 HERNÁNDEZ, M. Tratado de Nutrición. Ed. Díaz de Santos.1999
 
-POTTER y HOTCHKISS. Ciencia de los Alimentos. Ed. Acribia. 1999
-
-PRIMO YUFERA. Química de los Alimentos. Ed. Síntesis. 1998
-
-RANGEN, M.D. Manual De Industrias De Los Alimentos. Ed. Acribia. 1993
-
-VOLLMER, G. Elementos de Bromatología descriptiva. Ed. Acribia. 1999
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-BARROS,   C.   (Recopilador).   Legislación   Alimentaria.  Alimentaria.  Madrid.  1976-  Actualizado  con  CD
-BELITZ.   Química   de   los   Alimentos.   3ª   Edición.   Ed.   Acribia.   2002   →   BELITZ.   Química  de  los
-Alimentos. 3ª Edición. Ed. Acribia. 2002
-
-HORST   DIETER.  Fundamentos  de  Tecnología  de  los  Alimentos.  Ed.  Acribia.  2001  LINDER,  M.C.  Nutrición.
-Aspectos Bioquímicos. EUNSA. 1996  →  LINDER, M.C. Nutrición. Aspectos Bioquímicos. EUNSA. 1996
-
-✅ Recursos añadidos:
-------------------------------
-BARROS, C. (Recopilador). Legislación Alimentaria. Alimentaria. Madrid. 1976- Actualizado con CD
-
-CODIGO ALIMENTARIO ESPAÑOL. Ed. Textos legales
-
-HORST DIETER. Fundamentos de Tecnología de los Alimentos. Ed. Acribia. 2001
-
 MADRID, A. Reglamentaciones técnico sanitarias del sector alimentario. Ed. Madrid. 1988
 
 MATAIX VERDU, J. Nutrición y Alimentación Humana. I. Nutrientes y Alimentos. Ed. Ergon. 2002
 
 PAMPLONA, J.D. Enciclopedia De Los Alimentos Y Su Poder Curativo. 3 Tomos
 
+POTTER y HOTCHKISS. Ciencia de los Alimentos. Ed. Acribia. 1999
+
+PRIMO YUFERA. Química de los Alimentos. Ed. Síntesis. 1998
+
+RANGEN, M.D. Manual De Industrias De Los Alimentos. Ed. Acribia. 1993
+
 RODRÍGUEZ, Fº (Editor). Ingeniería de la Industria Alimentaria. Tomo II y III. Ed. Síntesis. 2002
 
-📊 Porcentaje estimado de cambio: 56% [█████░░░░░]
+VOLLMER, G. Elementos de Bromatología descriptiva. Ed. Acribia. 1999
+
+✅ Recursos añadidos (3):
+------------------------------
+BARROS, C. (Recopilador). Legislación Alimentaria. Alimentaria. Madrid. 1976- Actualizado con CD
+
+HORST DIETER. Fundamentos de Tecnología de los Alimentos. Ed. Acribia. 2001
+
+LINDER, M.C. Nutrición. Aspectos Bioquímicos. EUNSA. 1996
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

@@ -2,16 +2,26 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 ARCHEL   DOMENCH,   P.,   LIZARRAGA   DALLO,   F.   y   SÁNCHEZ   ALEGRÍA,   S.   (2008).   Estados   contables.
 Elaboración, análisis e interpretación. Madrid: Pirámide
 
+GONZALO   ANGULO,   J.A.   y   PÉREZ   GARCÍA,  J.  (2011).  Presentación  y  análisis  de  estados  financieros.
+Madrid: Instituto de Auditores-Censores Jurados de Cuentas
+
+GONZÁLEZ   PASCUAL,   J.   (2010).   Análisis   de   la   empresa   a   través   de   su  información  económico-
+financiera. Fundamentos teóricos y aplicaciones. Madrid: Pirámide
+
+Ley de Auditoría de Cuentas y Normas Técnicas de Auditoría. Apuntes de clase
+
 MENÉNDEZ MENÉNDEZ, M. (1995). “Contabilidad General”. Civitas. Madrid
+
+MUÑÓN MERCHANTE, A. (2009). Análisis de estados financieros. Teoría y práctica. Ediciones Académicas
 
 PLAN   GENERAL   DE  CONTABILIDAD  DE  PYMES.  Real  Decreto  1515/2007  de  16  de  noviembre  (BOE  nº  279  de  21
 de noviembre de 2007)
@@ -19,30 +29,13 @@ de noviembre de 2007)
 PLAN   GENERAL   DE   CONTABILIDAD.   Real   Decreto   1514/2007   de   16  de  noviembre  (BOE  nº  278  de  20  de
 noviembre de 2007)
 
-REQUENA, J.M.; MIR, F.; VERA, S. (2002).”Contabilidad de Costes y de Gestión”. Ariel. Barcelona
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-GONZÁLEZ   PASCUAL,   J.   (2010).  Análisis  de  la  empresa  a  través  de  su  información  económico-  GONZALO
-ANGULO,   J.A.   y   PÉREZ   GARCÍA,   J.  (2011).  Presentación  y  análisis  de  estados  financieros.  Madrid:
-Instituto   de   Auditores-Censores   Jurados   de   Cuentas   →   GONZALO   ANGULO,  J.A.  y  PÉREZ  GARCÍA,  J.
-(2011).   Presentación   y   análisis   de   estados  financieros.  Madrid:  Instituto  de  Auditores-Censores
-Jurados de Cuentas
-
-MUÑÓN   MERCHANTE,   A.   (2009).   Análisis   de   estados   financieros.   Teoría   y   práctica.   Ediciones
-Académicas.   de   Contabilidad   2007”   (AUREN  2008)  →  MUÑÓN  MERCHANTE,  A.  (2009).  Análisis  de  estados
-financieros. Teoría y práctica. Ediciones Académicas
-
-✅ Recursos añadidos:
-------------------------------
-Apuntes de clase
-
-GONZÁLEZ   PASCUAL,   J.   (2010).   Análisis   de   la   empresa   a   través   de   su  información  económico-
-financiera. Fundamentos teóricos y aplicaciones. Madrid: Pirámide
-
-Ley de Auditoría de Cuentas y Normas Técnicas de Auditoría
-
 PÉREZ   GARCIA,   J.   (2008).  Las  Cuentas  anuales.  Incluido  en  el  “Manual  Práctico  del  Plan  General  de
 Contabilidad 2007” (AUREN 2008)
 
-📊 Porcentaje estimado de cambio: 85% [████████░░]
+REQUENA, J.M.; MIR, F.; VERA, S. (2002).”Contabilidad de Costes y de Gestión”. Ariel. Barcelona
+
+✅ Recursos añadidos (1):
+------------------------------
+Apuntes de clase
+
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

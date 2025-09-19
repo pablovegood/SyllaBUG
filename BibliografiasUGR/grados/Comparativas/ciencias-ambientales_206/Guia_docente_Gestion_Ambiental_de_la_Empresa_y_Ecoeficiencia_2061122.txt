@@ -2,39 +2,36 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (10):
 ------------------------------
-2005. Ed. Confemetal, Madrid
-
 Calomarde, J.V. (2000): Marketing ecológico, Pirámide – Esic, Madrid
 
-Claver   Cortes,   E.,   Molina  Azorín,  J.F.,  Tarí  Guilló,  J.J.  (2011):  Gestión  de  la  calidad  y  gestión
-medioambiental, 3ª edición, Ediciones Pirámide, Madrid
+Claver Cortes, E., Molina Azorín, J.F., Tarí Guilló, J.J. (2011): Gestión de la calidad y
 
 Del   Brío   González,   J.A.   y   Junquera   Cimadevilla,   B.   (2000):   Medio   ambiente  y  empresa:  De  la
 confrontación a la oportunidad, Cívitas, Madrid
 
-Editorial Confemetal, Madrid
-
 Fernández   de   Gatta  Sánchez,  D.  (2004).  La  responsabilidad  social  corporativa  en  materia  ambiental.
 Estado de la Cuestión, Boletín Económico de ICE, nº 2824, 27-43
+
+Fuentes   Fuentes,   M.   y   Cordón   Pozo,   E.   (coordinadores)   (2015):   Fundamentos   de   dirección   y
+Administración de Empresas, 3ºEdición Editorial Pirámide
 
 Innovación   y   Cualificación  S.L.,  Target  Asesores  S.L  (2016).  Experto  en  gestión  medioambiental.  IC
 Editorial: Antequera (Málaga)
 
-López   Gordo,   J.   F.   y   López   Gordo,   M.   G.  (2014).  Instrumentos  de  política  ambiental:  casos  de
-aplicación. España: Editorial Universidad de Granada
+López   Gordo,   J.   F.   y  López  Gordo,  M.  G.  (2014).  Instrumentos  de  política  ambiental:  casos  Martín
+Tapia,   I.   (2003):  “Los  planteamientos  medioambientales  en  la  empresa  y  la  Morrós  Ribera,  J.,  Vidal
+Martínez, I. (2005). Responsabilidad Social Corporativa (RSC). Ed. Confemetal, Madrid
 
-Martín Tapia, I. (2003): “Los planteamientos medioambientales en la empresa y la gestión de recursos
-humanos”, apuntes de clase, Universidad de Granada, Granada
-
-Morros, J. y Vidal, I. (2014), Responsabilidad Social, Sostenibilidad, GRI y ISO 26000
-
-Morrós Ribera, J., Vidal Martínez, I. (2005). Responsabilidad Social Corporativa (RSC)
+Morros,   J.   y   Vidal,  I.  (2014),  Responsabilidad  Social,  Sostenibilidad,  GRI  y  ISO  26000.  Editorial
+Confemetal, Madrid
 
 Navarro García, F. (2012). Responsabilidad social corporativa: teoría y práctica. ESIC
 
-📚 Recursos sin cambios:
+gestión medioambiental, 3ª edición, Ediciones Pirámide, Madrid
+
+📚 Recursos sin cambios (8):
 ------------------------------
 Aragón Correa, J.A. (2000): “La reforma del sistema de gestión y auditoría medioambiental en la UE”,
 Boletín ICE Económico, nº 2670, pp. 29-43
@@ -55,26 +52,18 @@ contaminación   en  la  Ley  estatal”,  Revista  Interdisciplinar  de  Gesti�
 Guerras   Martín,   L.A.   y  Navas  López,  J.E.  (2015).  La  dirección  estratégica  de  la  empresa.  Teoría  y
 aplicaciones. Thomson Civitas, 5º Edición, Pamplona
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
 Hernández   Zubizarreta,   J.   y   Ramiro,   P.   (2009).  El  negocio  de  la  responsabilidad:  crítica  de  la
-Responsabilidad   Social   Corporativa   de  las  empresas  transnacionales.  Ed.  Ícara.  Informe  2008  de  la
-Gestión   Medioambiental   en   la   empresa  española:  Informe  actualizado  de  la  Gestión  Ambiental  en  la
-industria   española   (2001),   Fundación   Entorno,  Empresa  y  Medio  Ambiente,  Madrid  →  Informe  2008  de
-la   Gestión  Medioambiental  en  la  empresa  española:  Informe  actualizado  de  la  Gestión  Ambiental  en  la
-industria española (2001), Fundación Entorno, Empresa y Medio Ambiente, Madrid
+Responsabilidad Social Corporativa de las empresas transnacionales. Ed. Ícara
 
-Fuentes   Fuentes,   M.   y   Cordón   Pozo,   E.   (coordinadores)   (2015):   Fundamentos   de   dirección   y
-Administración   de   Empresas,   3ºEdición   Editorial  Pirámide  →  Fuentes  Fuentes,  M.  y  Cordón  Pozo,  E.
-(coordinadores)   (2016):   Fundamentos  de  Dirección  y  Administración  de  Empresas,  3ºEdición  Editorial
-Pirámide
+Informe   2008  de  la  Gestión  Medioambiental  en  la  empresa  española:  Informe  actualizado  de  la  Gestión
+Ambiental en la industria española (2001), Fundación Entorno, Empresa y Medio Ambiente, Madrid
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Agote Martín, A.A.; Ferrón Vílchez, V. (Coords.) (2024). Fundamentos de Economía y Administración de
 Empresas. Edición actualizada
 
-Hernández   Zubizarreta,   J.   y   Ramiro,   P.   (2009).  El  negocio  de  la  responsabilidad:  crítica  de  la
-Responsabilidad Social Corporativa de las empresas transnacionales. Ed. Ícara
+Fuentes   Fuentes,   M.   y   Cordón   Pozo,   E.   (coordinadores)   (2016):   Fundamentos   de   Dirección   y
+Administración de Empresas, 3ºEdición Editorial Pirámide
 
-📊 Porcentaje estimado de cambio: 76% [███████░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

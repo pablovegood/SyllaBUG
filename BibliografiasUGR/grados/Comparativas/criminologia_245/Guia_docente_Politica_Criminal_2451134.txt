@@ -2,11 +2,24 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (7):
 ------------------------------
-No hay elementos.
+GOFFMAN, E., Estigma: la identidad deteriorada, Ed. Amorrortu, Buenos Aires, 2006
 
-📚 Recursos sin cambios:
+MIR PUIG, S. et al. Política criminal y reforma del Derecho Penal, Edisofer, Madrid, 2007
+
+MUÑOZ CONDE, Derecho Penal y Control Social, Ed. Temis, Bogotá, 2004
+
+RIVERA BEIRAS, I., Política Criminal y Sistema Penal, Anthropos, Barcelona 2005
+
+ROXIN, C., Política criminal y sistema de Derecho penal. Hammurabi, Buenos Aires, 2000
+
+SILVA   SÁNCHEZ,   J.   M.,   La   expansión   del   Derecho   Penal.   Aspectos   de  política  criminal  en  las
+sociedades postindustriales, Ed. B de F, Buenos Aires, 2006
+
+WACQUANT, L., Las cárceles de la miseria, Alianza Ensayo, Madrid, 2000
+
+📚 Recursos sin cambios (31):
 ------------------------------
 AA.   VV.:  Política  criminal  y  nuevo  derecho  penal.  Libro  homenaje  en  honor  de  Claus  ROXIN.  Traducido
 por SILVA SÁNCHEZ, Barcelona, 1997
@@ -35,6 +48,9 @@ Castigar a los pobres. El gobierno neoliberal de la inseguridad social, Ed. Gedi
 
 DÍEZ RIPOLLES, J. L. Política criminal y derecho penal, Tirant lo Blanch, Valencia 2003
 
+Edmund    Mezger    y    el    derecho    penal   de   su   tiempo:   estudios   sobre   Derecho   penal   en   el
+nacionalsocialismo, Tirant Lo Blanch, Valencia 2003
+
 FERRAJOLI, L., Derecho y razón: Teoría del garantismo penal, Ed. Trotta, Madrid, 2006
 
 FOUCAULT, M., Vigilar y Castigar: nacimiento de la prisión, Ed. Siglo XXI, Madrid, 1998
@@ -44,8 +60,13 @@ Barcelona, 1988
 
 GARCÍA-PABLOS DE MOLINA, Tratado de Criminología, editorial Tirant lo Blanch, Valencia 2008
 
+GARRIDO/ STANGELAND/ REDONDO, Principios de Criminología, editorial Tirant lo Blanch, Valencia 2013
+
 HASSEMER/   MUÑOZ  CONDE,  Introducción  a  la  Criminología  y  a  la  Política  criminal,  editorial  Tirant  lo
 Blanch, Valencia, 2012
+
+Internados: ensayos sobre la situación social de los enfermos mentales, Ed. Amorrortu, Buenos Aires,
+1982
 
 LARRAURI   PIJOÁN,   E.,  La  herencia  de  la  criminología  crítica,  Siglo  XXI  de  España  Editores,  Madrid,
 2000
@@ -59,11 +80,6 @@ MORILLAS CUEVA, L. (dir.): Sistema de Derecho Penal. Parte Especial, 4.ª ed., D
 
 MORILLAS CUEVA, L.: Sistema de Derecho Penal. Parte General, Dykinson, Madrid, 2021
 
-MUÑOZ   CONDE,   Derecho   Penal   y  Control  Social,  Ed.  Temis,  Bogotá,  2004.  Edmund  Mezger  y  el  derecho
-penal   de   su   tiempo:   estudios   sobre   Derecho   penal   en  el  nacionalsocialismo,  Tirant  Lo  Blanch,
-Valencia   2003.   Un   derecho   penal  comprometido:  Libro  homenaje  al  Prof.  Dr.  Gerardo  Landrove  Díaz,
-Tirant lo Blanch, Valencia 2011
-
 MUÑOZ CONDE/ GARCÍA ARÁN, Derecho Penal, Parte General, 10.ª ed., Tirant Lo Blanch, Valencia, 2019
 
 MUÑOZ   CONDE/VORBAUM   (dir.),   La   transformación   jurídica   de   las   dictaduras  en  democracias  y  la
@@ -75,48 +91,34 @@ Política criminal, Escuela Judicial/Consejo General del Poder Judicial, Madrid,
 
 SANZ MULAS, N., Política Criminal. Cuarta Edición, Ed. Ratio Legis, Salamanca, 2021
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-SILVA   SÁNCHEZ,   J.   M.,   La   expansión   del   Derecho   Penal.   Aspectos   de  política  criminal  en  las
-sociedades   postindustriales,   Ed.   B   de  F,  Buenos  Aires,  2006  →  SILVA  SÁNCHEZ,  J.  M.,  La  expansión
-del   Derecho   Penal.   Aspectos   de  política  criminal  en  las  sociedades  postindustriales,  Ed.  B  de  F,
-Buenos Aires, 2006. Política criminal y persona. Buenos Aires, 2000
-
-ROXIN,   C.,   Política   criminal   y   sistema  de  Derecho  penal.  Hammurabi,  Buenos  Aires,  2000  →  RIVERA
-BEIRAS,   I.,   Política   Criminal   y   Sistema   Penal,   Anthropos,  Barcelona  2005.  ROXIN,  C.,  Política
-criminal y sistema de Derecho penal. Hammurabi, Buenos Aires, 2000
-
-WACQUANT,   L.,   Las   cárceles   de   la   miseria,   Alianza   Ensayo,   Madrid,   2000  →  WACQUANT,  L.,  Las
-cárceles   de  la  miseria,  Alianza  Ensayo,  Madrid,  2000.  Castigar  a  los  pobres.  El  gobierno  neoliberal
-de la inseguridad social, Ed. Gedisa, Madrid, 2010
-
-GARRIDO/   STANGELAND/  REDONDO,  Principios  de  Criminología,  editorial  Tirant  lo  Blanch,  Valencia  2013
-GOFFMAN,   E.,   Estigma:   la   identidad   deteriorada,   Ed.  Amorrortu,  Buenos  Aires,  2006.  Internados:
-ensayos   sobre   la   situación   social   de   los  enfermos  mentales,  Ed  →  GARRIDO/  STANGELAND/  REDONDO,
-Principios de Criminología, editorial Tirant lo Blanch, Valencia 2013
-
-RIVERA   BEIRAS,   I.,   Política   Criminal  y  Sistema  Penal,  Anthropos,  Barcelona  2005  →  RIVERA  BEIRAS,
-I.,   Política   Criminal   y   Sistema  Penal,  Anthropos,  Barcelona  2005.  ROXIN,  C.,  Política  criminal  y
-sistema de Derecho penal. Hammurabi, Buenos Aires, 2000
-
-Amorrortu,   Buenos   Aires,   1982   →   GOFFMAN,   E.,  Estigma:  la  identidad  deteriorada,  Ed.  Amorrortu,
-Buenos   Aires,   2006.   Internados:   ensayos   sobre  la  situación  social  de  los  enfermos  mentales,  Ed.
-Amorrortu, Buenos Aires, 1982
-
-MIR   PUIG,   S.   et   al.   Política  criminal  y  reforma  del  Derecho  Penal,  Edisofer,  Madrid,  2007  →  MIR
-PUIG,   S.   et  al.  Política  criminal  y  reforma  del  Derecho  Penal,  Edisofer,  Madrid,  2007.  La  política
-criminal   en   Europa,   Atelier,  Barcelona,  2004.  Función  de  la  pena  y  teoría  del  delito  en  el  Estado
-social ydemocrático de Derecho, Ed. Bosch, Barcelona, 1988
-
-✅ Recursos añadidos:
-------------------------------
-Edmund    Mezger    y    el    derecho    penal   de   su   tiempo:   estudios   sobre   Derecho   penal   en   el
-nacionalsocialismo, Tirant Lo Blanch, Valencia 2003
-
-Internados: ensayos sobre la situación social de los enfermos mentales, Ed. Amorrortu, Buenos Aires,
-1982
-
 Un   derecho  penal  comprometido:  Libro  homenaje  al  Prof.  Dr.  Gerardo  Landrove  Díaz,  Tirant  lo  Blanch,
 Valencia 2011
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+✅ Recursos añadidos (7):
+------------------------------
+GOFFMAN,   E.,   Estigma:   la   identidad   deteriorada,   Ed.  Amorrortu,  Buenos  Aires,  2006.  Internados:
+ensayos sobre la situación social de los enfermos mentales, Ed. Amorrortu, Buenos Aires, 1982
+
+MIR   PUIG,   S.   et   al.   Política   criminal   y  reforma  del  Derecho  Penal,  Edisofer,  Madrid,  2007.  La
+política   criminal  en  Europa,  Atelier,  Barcelona,  2004.  Función  de  la  pena  y  teoría  del  delito  en  el
+Estado social ydemocrático de Derecho, Ed. Bosch, Barcelona, 1988
+
+MUÑOZ   CONDE,   Derecho   Penal   y  Control  Social,  Ed.  Temis,  Bogotá,  2004.  Edmund  Mezger  y  el  derecho
+penal   de   su   tiempo:   estudios   sobre   Derecho   penal   en  el  nacionalsocialismo,  Tirant  Lo  Blanch,
+Valencia   2003.   Un   derecho   penal  comprometido:  Libro  homenaje  al  Prof.  Dr.  Gerardo  Landrove  Díaz,
+Tirant lo Blanch, Valencia 2011
+
+RIVERA BEIRAS, I., Política Criminal y Sistema Penal, Anthropos, Barcelona 2005. ROXIN, C., Política
+criminal y sistema de Derecho penal. Hammurabi, Buenos Aires, 2000
+
+RIVERA BEIRAS, I., Política Criminal y Sistema Penal, Anthropos, Barcelona 2005. ROXIN, C., Política
+criminal y sistema de Derecho penal. Hammurabi, Buenos Aires, 2000
+
+SILVA   SÁNCHEZ,   J.   M.,   La   expansión   del   Derecho   Penal.   Aspectos   de  política  criminal  en  las
+sociedades   postindustriales,   Ed.   B   de  F,  Buenos  Aires,  2006.  Política  criminal  y  persona.  Buenos
+Aires, 2000
+
+WACQUANT,   L.,   Las   cárceles  de  la  miseria,  Alianza  Ensayo,  Madrid,  2000.  Castigar  a  los  pobres.  El
+gobierno neoliberal de la inseguridad social, Ed. Gedisa, Madrid, 2010
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

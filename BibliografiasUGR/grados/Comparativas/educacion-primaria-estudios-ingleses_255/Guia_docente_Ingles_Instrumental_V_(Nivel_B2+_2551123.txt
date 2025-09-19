@@ -2,11 +2,12 @@
 Grado: educacion-primaria-estudios-ingleses (255)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+McCarthy, Michael (2006) - English phrasal verbs in use : 70 units of vocabulary reference Cambridge
+English Pronouncing Dictionary. (1997). Con CD-ROM. Cambridge: CUP
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 Cambridge Idioms Dictionary (2006). Cambridge: CUP
 
@@ -16,6 +17,11 @@ Carter,   R.   &   M.   McCarthy  (2007).  Cambridge  Grammar  of  English.  A  
 Written English. Grammar and Usage. With CD-ROM. Cambridge: CUP
 
 Diccionario Collins Universal. Español-Inglés. English-Spanish (2003) New York: HarperCollins
+
+Libro   de   texto   English  Pronunciation  in  Use  Intermediate  Book  with  Answers  and  Downloadable  Audio
+2nd   Edition   by   Mark   Hancock   (Author),   SECOND   EDITION  ISBN-13:  978-1108403696  Paperback  –  2017
+Bibliography   and   programme   will  be  revised  annually  according  to  need  and  availability  Murphy,  R.
+(2004). English Grammar in Use with Answers and CD-ROM. Intermediate. Cambridge: CUP. Third Edition
 
 Longman Dictionary of Contemporary English. (2006). Con CD-ROM. London: Longman
 
@@ -29,23 +35,8 @@ Oxford Collocations Dictionary for Students of English. (2008) Oxford: OUP
 
 The New Oxford Dictionary of English (1998) Oxford: OUP
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Libro   de   texto   English  Pronunciation  in  Use  Intermediate  Book  with  Answers  and  Downloadable  Audio
-2nd   Edition   by   Mark   Hancock   (Author),   SECOND   EDITION  ISBN-13:  978-1108403696  Paperback  –  2017
-Bibliography   and   programme   will  be  revised  annually  according  to  need  and  availability  Murphy,  R.
-(2004).   English  Grammar  in  Use  with  Answers  and  CD-ROM.  Intermediate.  Cambridge:  CUP.  Third  Edition
-→   Murphy,   R.  (2004).  English  Grammar  in  Use  with  Answers  and  CD-ROM.  Intermediate.  Cambridge:  CUP.
-Third Edition
-
-McCarthy, Michael (2006) - English phrasal verbs in use : 70 units of vocabulary reference Cambridge
-English   Pronouncing   Dictionary.   (1997).   Con   CD-ROM.  Cambridge:  CUP  →  McCarthy,  Michael  (2006)  -
-English phrasal verbs in use : 70 units of vocabulary reference
-
-✅ Recursos añadidos:
-------------------------------
-Bibliography and programme will be revised annually according to need and availability
-
 Cambridge English Pronouncing Dictionary. (1997). Con CD-ROM. Cambridge: CUP
 
 English   Pronunciation   in   Use  Intermediate  Book  with  Answers  and  Downloadable  Audio  2nd  Edition  by
@@ -55,4 +46,9 @@ ISBN-13: 978-1108403696 Paperback – 2017
 
 Libro de texto
 
-📊 Porcentaje estimado de cambio: 58% [█████░░░░░]
+McCarthy, Michael (2006) - English phrasal verbs in use : 70 units of vocabulary reference
+
+Murphy,   R.   (2004).   English   Grammar  in  Use  with  Answers  and  CD-ROM.  Intermediate.  Cambridge:  CUP.
+Third Edition
+
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

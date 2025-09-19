@@ -2,12 +2,12 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Gallina,   A.M.   (1991).   Dizionario   Tecnico   e   commerciale   italiano-spagnolo,  spagnolo-  italiano.
+Gallina,    A.M.   (1991).   Dizionario   Tecnico   e   commerciale   italiano-spagnolo,   spagnoloitaliano.
 Terminología tecnica e guiridica. Informatica. Marketing. Firenze: Sansoni
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 AA. VV. (2004). Diccionario básico jurídico. Granada: Comares
 
@@ -31,6 +31,10 @@ Carocci
 
 Massari, R. (2010). Glossario multilingue d'italiano giuridico (EN-ES-FR-IT) online
 
+NB. Se recomienda el uso de fuentes terminológicas especializadas en soporte electrónico
+
+NOTA: En clase se facilitará bibliografía adicional
+
 Palmieri, G. (2005). Dizionario dei termini giuridici. Milano: BUR
 
 Scarpa,   F.   (2001).   La  traduzione  specializzata:  lingue  speciali  e  mediazione  linguistica.  Milano:
@@ -47,11 +51,7 @@ Milano: Hoepli
 Zingarelli,   N.   (2014).   Vocabolario   della   Lingua   Italiana.   Bologna:  Zanichelli  [se  recomiendan
 ediciones posteriores que se encuentran en soporte electrónico]
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Camilleri, A., De Mauro, T. (2014). La lingua batte dove il dente duole. Roma: Laterza
 
@@ -65,8 +65,4 @@ Eco, U. (2025). Dire quasi la stessa cosa. Esperienze di traduzione. Milano: La 
 
 Ervas, F. (2009). Uguale ma diverso. Il mito dell'equivalenza nella traduzione. Macerata: Quodilbet
 
-NB. Se recomienda el uso de fuentes terminológicas especializadas en soporte electrónico
-
-NOTA: En clase se facilitará bibliografía adicional
-
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (27):
 ------------------------------
 Aristóteles. Poética. Madrid: Editora Nacional, 1984
 
@@ -37,22 +37,32 @@ Eco, Umberto. Historia de la belleza. Barcelona: Lumen, 2010
 
 Eco, Umberto. Historia de la fealdad. Barcelona: Lumen, 2018
 
+Estrada   Herrero,   David.   Estética.   Barcelona:   Herder,  198  Platón.  El  Banquete,  Fedón  y  Fedro.
+Trad.   Luis   Gil   .Barcelona:   Labor,   1988  (cuarta  edición,  quinta  reimpresión;  primera  edición,
+1975)
+
 Freud, Sigmund. Lo siniestro. Vola ediciones, 2016
+
+Greenberg, Clement. "Vanguardia y kitsch" en Arte y Cultura: Ensayos Críticos. Paidós España: 2002
 
 May, Simon. El poder de lo cuqui. España: Alpha Decay, 2019
 
 Moles, Abraham. El kitsch. El arte de la felicidad. Paidós: 1971
 
-Olmos, Alberto. Vidas baratas: elogio de lo cutre. HarperCollins, 2021
+Molinuevo, José Luis. Estéticas de lo interesante. Salamanca: Archipiélagos, 2012
 
-Platón.   El   Banquete,   Fedón   y   Fedro.   Trad.  Luis  Gil  .Barcelona:  Labor,  1988  (cuarta  edición,
-quinta reimpresión; primera edición, 1975)
+Nota: esta bibliografía es orientativa. En cada tema quedarán fijadas las referencias bibliográficas
+concretas que serán utilizadas
+
+Olmos, Alberto. Vidas baratas: elogio de lo cutre. HarperCollins, 2021
 
 Plotino. Sobre la belleza. Barcelona: José J. de Olañeta, 2007
 
+Rosenkranz, Karl. Estética de lo feo. Athenaica, 2015
+
 Sontang, Susan. Notes on Camp. Partisan Review, Vol. 31, Núm. 4 (otoño 1964), págs. 515-530
 
-Tatarkiewicz, Wladyslaw. Historia de la estética. 3 vols. Madrid: Akal, 2004
+Tatarkiewicz, Wladyslaw. Historia de la estética. 3 vols. Madrid: Akal , 2004
 
 Trías, Eugenio. Lo bello y lo siniestro. Barcelona: Ariel, 2011
 
@@ -61,23 +71,10 @@ Cimabue a nuestros tiempos. Madrid: Cátedra, 2013
 
 Wölfflin, Heinrich. Conceptos fundamentales de la historia del arte. Madrid: Austral, 2009
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Estrada Herrero, David. Estética. Barcelona: Herder, 198
 
-Greenberg, Clement. "Vanguardia y kitsch" en Arte y Cultura: Ensayos Críticos. Paidós España: 2002
-
 Kulka, T. (1999). El kitsch y el arte. Paidós: España, 1999
 
-Molinuevo, José Luis. Estéticas de lo interesante. Salamanca: Archipiélagos, 2012
-
-Nota: esta bibliografía es orientativa. En cada tema quedarán fijadas las referencias bibliográficas
-concretas que serán utilizadas
-
-Rosenkranz, Karl. Estética de lo feo. Athenaica, 2015
-
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

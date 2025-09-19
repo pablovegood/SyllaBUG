@@ -2,54 +2,24 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Botana Lois, I., y Peralbo Uzquiano, M. (2022). Adaptación al español y propiedades psicométricas de
+la escala The Pragmatics Profile. Revista de Logopedia, Foniatría y Audiología, 42, 3-16
 
-📚 Recursos sin cambios:
+Crais,   E.   R.   (2011).  Testing  and  beyond:  strategies  and  toolsfor  evaluating  and  assessing  infants
+and toddlers. Language, Speech and Hearing Services in Schools, 42(3), 341-64
+
+📚 Recursos sin cambios (32):
 ------------------------------
 Alegre,   J.   R.   y   Pérez,   M.   (2013).   Guía  práctica  de  los  trastornos  del  lenguaje:  descripción  e
 intervención. Lebón
 
-Escobar,   R.   (2005).   Logopedia:   diagnóstico  y  tratamiento  de  las  dificultades  del  lenguaje.  Ideas
-Propias
-
-López Puga, J. (2015). Metodología de la intervención en trastornos de audición y lenguaje infantil.
-Editorial de la Universidad Católica de Murcia
-
-Mendizábal,   N.,   Santiago,  R.B.,  Jimeno,  N.,  García,  N.,  Díaz-Emparanza,  M.E.  (2013).  Guía  práctica
-para la elaboración de informes logopédicos. Médica Panamericana
-
-Peña-Casanova, J. (2004): Manual de logopedia. Masson
-
-Puyuelo,   M.,   Rondal,   J.   A.   (2005):   Manual   de  desarrollo  y  alteraciones  del  lenguaje:  aspectos
-evolutivos y patología en el niño y el adulto. Masson
-
-Pérez,   P.,   y   Salmerón,   T.   (2006).   Desarrollo   de  la  comunicación  y  el  lenguaje:  indicadores  de
-preocupación. Revista Pediátrica de Atención Primaria, 8, 679-693
-
-Schiefelbusch, R.L. (1986): Bases de la intervención del lenguaje. Alhambra Universidad
-
-Sos, A., Sos M. L. (2010). Logopedia práctica. Wolter Kluwer
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Crais,   E.   R.   (2011).  Testing  and  beyond:  strategies  and  toolsfor  evaluating  and  assessing  infants
-and   toddlers.   Language,   Speech   and   Hearing   Services   in   Schools,  42(3),  341-64  →  Crais,  E.  R.
-(2011).   Testing   and  beyond:  strategies  and  toolsfor  evaluating  and  assessing  infants  and  toddlers.
-Language,       Speech       and       Hearing       Services      in      Schools,      42(3),      341-64.
-https://doi.org/10.1044/0161-1461(2010/09-0061)
-
-Botana Lois, I., y Peralbo Uzquiano, M. (2022). Adaptación al español y propiedades psicométricas de
-la   escala   The   Pragmatics  Profile.  Revista  de  Logopedia,  Foniatría  y  Audiología,  42,  3-16  →  Botana
-Lois,   I.,   y   Peralbo   Uzquiano,  M.  (2022).  Adaptación  al  español  y  propiedades  psicométricas  de  la
-escala   The   Pragmatics   Profile.   Revista   de   Logopedia,   Foniatría   y   Audiología,   42(1),   3-16.
-https://doi.org/10.1016/j.rlfa.2020.05.004
-
-✅ Recursos añadidos:
-------------------------------
 Brancal,   M.F.   (2000).   Logopedia  creativa  en  personas  con  síndrome  de  Down:  lenguaje  y  deficiencia
 intelectual. Lebón
+
+Escobar,   R.   (2005).   Logopedia:   diagnóstico  y  tratamiento  de  las  dificultades  del  lenguaje.  Ideas
+Propias
 
 Fernández   Zúñiga,  A.,  de  León,  M.,  Caja,  R.  (2009)  Tratamiento  de  la  tartarmudez  en  niños:  programa
 de intervención para profesionales y padres. Masson
@@ -66,11 +36,17 @@ de Williams. Síntesis
 
 González-Valenzuela, M. J. (1994): Dificultades fonológicas: Evaluación y tratamiento. Promolibro
 
+López Puga, J. (2015). Metodología de la intervención en trastornos de audición y lenguaje infantil.
+Editorial de la Universidad Católica de Murcia
+
 Marrodán,   M.J.   (2009).   La  conquista  de  las  palabras:  (tratamiento  de  la  dislexia  y  los  trastornos
 lectoescritores). Icce
 
 Martos, J., y Pérez, M. (coords.) (2002). Autismo: un enfoque orientado a la formación en logopedia.
 Nau Llibres
+
+Mendizábal,   N.,   Santiago,  R.B.,  Jimeno,  N.,  García,  N.,  Díaz-Emparanza,  M.E.  (2013).  Guía  práctica
+para la elaboración de informes logopédicos. Médica Panamericana
 
 Mendoza, E. (2001). Los trastornos específicos del lenguaje (TEL). Pirámide
 
@@ -82,11 +58,19 @@ imágenes y el acto de señalar. Psylicom
 
 Palomo, R. (2017). Autismo: teorías explicativas actuales. Alianza
 
+Peña-Casanova, J. (2004): Manual de logopedia. Masson
+
 Puyuelo, M. (2004). Casos clínicos en logopedia III. Masson
 
 Puyuelo, M. (2005). Casos clínicos en logopedia II. Masson
 
 Puyuelo, M. (2007). Casos clínicos en logopedia I. Masson
+
+Puyuelo,   M.,   Rondal,   J.   A.   (2005):   Manual   de  desarrollo  y  alteraciones  del  lenguaje:  aspectos
+evolutivos y patología en el niño y el adulto. Masson
+
+Pérez,   P.,   y   Salmerón,   T.   (2006).   Desarrollo   de  la  comunicación  y  el  lenguaje:  indicadores  de
+preocupación. Revista Pediátrica de Atención Primaria, 8, 679-693
 
 Rivière,   A.,   y   Maros.   J.   (1998).   El  tratamiento  del  autismo:  nuevas  perspectivas.  Instituto  de
 Migraciones y Servicios Sociales
@@ -98,6 +82,10 @@ Ruiz, J. (2008). Tecnologías de apoyo en logopedia. Horsori
 
 Santacreu, J. y Froján, M.J. (1994): La tartamudez. Pirámide
 
+Schiefelbusch, R.L. (1986): Bases de la intervención del lenguaje. Alhambra Universidad
+
+Sos, A., Sos M. L. (2010). Logopedia práctica. Wolter Kluwer
+
 Soutullo   Esperón   C.,   Díez   Suárez   A.   (2007).   Manual   de   Diagnóstico   y   Tratamiento  del  TDAH.
 Panamericana
 
@@ -106,4 +94,14 @@ lengua oral y escrita. Gersam
 
 Triadó, C., y Forns, M. (1992). La evaluación del lenguaje. Una aproximación evolutiva. Anthropos
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Botana Lois, I., y Peralbo Uzquiano, M. (2022). Adaptación al español y propiedades psicométricas de
+la   escala   The   Pragmatics   Profile.   Revista   de   Logopedia,   Foniatría  y  Audiología,  42(1),  3-16.
+https://doi.org/10.1016/j.rlfa.2020.05.004
+
+Crais,   E.   R.   (2011).  Testing  and  beyond:  strategies  and  toolsfor  evaluating  and  assessing  infants
+and     toddlers.     Language,    Speech    and    Hearing    Services    in    Schools,    42(3),    341-64.
+https://doi.org/10.1044/0161-1461(2010/09-0061)
+
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

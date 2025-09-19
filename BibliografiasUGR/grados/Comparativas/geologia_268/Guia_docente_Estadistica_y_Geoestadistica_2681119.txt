@@ -2,11 +2,30 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+ESTADÍSTICA   Abad,   F.  y  Vargas,  M.  (1991).  “Estadística”.  Jufer  Alonso,  F.J.,  García,  P.A.,  Ollero,
+J.: Estadística para ingenieros, Colegio de I.C.C.P (1996) Davis, J.C.: Statistics and Data Analysis
+in   Geology,   John   Wiley   and   Sons  (2002)  Gutiérrez  Jaímez,  R.,  Martínez  Almécija,  M.A.,  Rodríguez
+Torreblanca, C.: Curso básico de
 
-📚 Recursos sin cambios:
+ESTADÍSTICA   Lara,   A.M.:   Estadística   para  Ciencias  Biológicas  y  Ciencias  Ambientales:  Problemas  y
+exámenes   resueltos,  Proyecto  Sur  de  Ediciones,  (Granada,  2000)  GEOSTADÍSTICA  Burrough,  P.A.  (1986).
+Principles of Geographical Information Systems for Land Resources Assesment. Clarendon Press. Oxford
+
+Samper   Calvete,   F.J.   y   Carrera   Ramírez,  J.  (1990).  Geoestadística:  Aplicaciones  a  la  Hidrología
+Subterránea. UPC. 483 pp.Barcelona Olea, R.(1999). Geoestatistics for Engineers and Earth Scientist.
+Ed. Academic Kluwer. 303 pp. London
+
+probabilidad,   Pirámide,   (Madrid,   1993)   Hermoso,   J.A.   y   Hernández,   A.  (1997).“Curso  básico  de
+Estadística   Descriptiva   y  Probabilidad”.  Némesis  Martínez  Almécija,  A.,  Rodríguez  Torreblanca,  C.,
+Gutiérrez   Jaímez,   R.:  Inferencia  Estadística:  un  enfoque  clásico,  Pirámide  (Madrid,  1993)  Quesada,
+V.,   Isidoro,  A.,  López,  L.A.  (1982)  "Curso  y  ejercicios  de  Estadística".  Alhambra  Universidad  Ramos
+Ábalos,   E.M.,   Raya   Miranda,   R.   y  Romero  Molina,  D.  (2010)  Estadística.  Copicentro  Ramos  Ábalos,
+E.M.,   Raya   Miranda,  R.  y  Romero  Molina,  D.  (2010)  Problemas  de  GEOSTADÍSTICA  Armstrong,  M.  (1998).
+Basic Linear Geostatistics. Springer-Verlag. Berlín
+
+📚 Recursos sin cambios (7):
 ------------------------------
 Chica   Olmo,   M.   (1987).   Análisis   Geoestadístico   en  el  Estudio  de  la  Explotación  de  los  Recursos
 Minerales. Ed. Univ. de Granada. Granada
@@ -27,40 +46,16 @@ principles and applications. Longman Scientific & Technical. London
 Reiment,   R.A.   y   Savazzi,   E.   (1999).   Aspects   of   Multivariate  Statistical  Analysis  in  Geology.
 Elsevier. Amsterdam
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-ESTADÍSTICA   Abad,   F.  y  Vargas,  M.  (1991).  “Estadística”.  Jufer  Alonso,  F.J.,  García,  P.A.,  Ollero,
-J.: Estadística para ingenieros, Colegio de I.C.C.P (1996) Davis, J.C.: Statistics and Data Analysis
-in   Geology,   John   Wiley   and   Sons  (2002)  Gutiérrez  Jaímez,  R.,  Martínez  Almécija,  M.A.,  Rodríguez
-Torreblanca,   C.:   Curso  básico  de  probabilidad,  Pirámide,  (Madrid,  1993)  Hermoso,  J.A.  y  Hernández,
-A.   (1997).“Curso   básico  de  Estadística  Descriptiva  y  Probabilidad”.  Némesis  Martínez  Almécija,  A.,
-Rodríguez   Torreblanca,   C.,   Gutiérrez   Jaímez,   R.:   Inferencia   Estadística:   un  enfoque  clásico,
-Pirámide   (Madrid,   1993)   Quesada,   V.,   Isidoro,   A.,   López,   L.A.   (1982)  "Curso  y  ejercicios  de
-Estadística".   Alhambra   Universidad  Ramos  Ábalos,  E.M.,  Raya  Miranda,  R.  y  Romero  Molina,  D.  (2010)
-Estadística.   Copicentro   Editorial,   Universidad   de  Granada  Ramos  Ábalos,  E.M.,  Raya  Miranda,  R.  y
-Romero   Molina,   D.   (2010)   Problemas   de  Estadística.  Copicentro  Editorial,  Universidad  de  Granada
-GEOSTADÍSTICA   Armstrong,   M.   (1998).   Basic   Linear  Geostatistics.  Springer-Verlag.  Berlín  →  Ramos
-Ábalos,   E.M.,   Raya   Miranda,   R.   y   Romero  Molina,  D.  (2010)  Problemas  de  Estadística.  Copicentro
-Editorial, Universidad de Granada
-
-ESTADÍSTICA   Lara,   A.M.:   Estadística   para  Ciencias  Biológicas  y  Ciencias  Ambientales:  Problemas  y
-exámenes   resueltos,  Proyecto  Sur  de  Ediciones,  (Granada,  2000)  GEOSTADÍSTICA  Burrough,  P.A.  (1986).
-Principles of Geographical Information Systems for Land Resources Assesment. Clarendon Press. Oxford
-→   Burrough,   P.A.   (1986).   Principles   of   Geographical   Information   Systems   for   Land  Resources
-Assesment. Clarendon Press. Oxford
-
-Samper   Calvete,   F.J.   y   Carrera   Ramírez,  J.  (1990).  Geoestadística:  Aplicaciones  a  la  Hidrología
-Subterránea. UPC. 483 pp.Barcelona Olea, R.(1999). Geoestatistics for Engineers and Earth Scientist.
-Ed.   Academic   Kluwer.   303   pp.   London   →   Olea,   R.(1999).  Geoestatistics  for  Engineers  and  Earth
-Scientist. Ed. Academic Kluwer. 303 pp. London
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (15):
 ------------------------------
 Abad, F. y Vargas, M. (1991). “Estadística”. Jufer
 
 Alonso, F.J., García, P.A., Ollero, J.: Estadística para ingenieros, Colegio de I.C.C.P (1996)
 
 Armstrong, M. (1998). Basic Linear Geostatistics. Springer-Verlag. Berlín
+
+Burrough,   P.A.  (1986).  Principles  of  Geographical  Information  Systems  for  Land  Resources  Assesment.
+Clarendon Press. Oxford
 
 Davis, J.C.: Statistics and Data Analysis in Geology, John Wiley and Sons (2002)
 
@@ -78,13 +73,19 @@ resueltos, Proyecto Sur de Ediciones, (Granada, 2000)
 Martínez   Almécija,   A.,  Rodríguez  Torreblanca,  C.,  Gutiérrez  Jaímez,  R.:  Inferencia  Estadística:  un
 enfoque clásico, Pirámide (Madrid, 1993)
 
+Olea,   R.(1999).   Geoestatistics   for   Engineers   and   Earth  Scientist.  Ed.  Academic  Kluwer.  303  pp.
+London
+
 Quesada,   V.,   Isidoro,   A.,   López,   L.A.   (1982)   "Curso   y   ejercicios   de  Estadística".  Alhambra
 Universidad
 
 Ramos   Ábalos,   E.M.,  Raya  Miranda,  R.  y  Romero  Molina,  D.  (2010)  Estadística.  Copicentro  Editorial,
 Universidad de Granada
 
+Ramos Ábalos, E.M., Raya Miranda, R. y Romero Molina, D. (2010) Problemas de Estadística. Copicentro
+Editorial, Universidad de Granada
+
 Samper   Calvete,   F.J.   y   Carrera   Ramírez,  J.  (1990).  Geoestadística:  Aplicaciones  a  la  Hidrología
 Subterránea. UPC. 483 pp.Barcelona
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 86% [████████░░]

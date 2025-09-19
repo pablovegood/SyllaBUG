@@ -2,14 +2,19 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ley   18/2007,   de  17  de  diciembre,  de  la  radio  y  televisión  de  titularidad  autonómica  gestionada  por
+la   Agencia   Pública   Empresarial   de  la  Radio  y  Televisión  de  Andalucía  (RTVA)  Ley  10/2018,  de  9  de
+octubre, audiovisual de Andalucía
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 Chinchilla   Marín,   C.   y   Azpitarte   Sánchez,   M.   (coord.),   Estudios   sobre   la  Ley  General  de  la
 Comunicación Audiovisual, Ed. Aranzadi-Thomson Reuters-Garrigues, 2011
+
+Específica   Ley  34/2002,  de  11  de  julio,  de  Servicios  de  la  Sociedad  de  la  Información  y  de  Comercio
+Electrónico
 
 Guichot Reina, E. (coord..), Derecho de la comunicación, Ed. Iustel, 2011
 
@@ -24,8 +29,6 @@ Ley 17/2006, de 5 de junio, de la radio y la televisión de titularidad estatal
 Ley 29/2005, de 29 de diciembre, de Publicidad y Comunicación Institucional
 
 Ley 34/1988, de 11 de noviembre, General de Publicidad
-
-Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico
 
 Ley 39/2015, de 1 de octubre, de Procedimiento Común de las Administraciones Públicas
 
@@ -49,6 +52,8 @@ la información
 
 Linde Paniagua, E., Derecho Audiovisual, Ed. Colex, 2013
 
+Normativa básica General Constitución Española Estatuto de Autonomía de Andalucía
+
 Quadra   –Salcedo   Fernández   del  Castillo,  T.  de  la  (dir.),  Derecho  de  la  Regulación  Económica,  Tomo
 IV. Telecomunicaciones, Ed. Iustel, 2009
 
@@ -60,22 +65,15 @@ Comares, Granada, 1999
 Torres   López,   M.A.,   Souvirón   Morenilla,   J.M.   y   Rozados  Oliva,  M.J.  (dirs.),  Elementos  para  el
 estudio del Derecho de la Comunicación, Ed. Tecnos, última edición
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Ley   18/2007,   de  17  de  diciembre,  de  la  radio  y  televisión  de  titularidad  autonómica  gestionada  por
-la   Agencia   Pública   Empresarial   de  la  Radio  y  Televisión  de  Andalucía  (RTVA)  Ley  10/2018,  de  9  de
-octubre,   audiovisual   de   Andalucía   →  Ley  18/2007,  de  17  de  diciembre,  de  la  radio  y  televisión  de
-titularidad   autonómica   gestionada   por   la  Agencia  Pública  Empresarial  de  la  Radio  y  Televisión  de
-Andalucía (RTVA)
-
-✅ Recursos añadidos:
-------------------------------
-Constitución Española
-
 Estatuto de Autonomía de Andalucía
 
 Ley 10/2018, de 9 de octubre, audiovisual de Andalucía
 
+Ley   18/2007,   de  17  de  diciembre,  de  la  radio  y  televisión  de  titularidad  autonómica  gestionada  por
+la Agencia Pública Empresarial de la Radio y Televisión de Andalucía (RTVA)
+
 Normativa básica
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

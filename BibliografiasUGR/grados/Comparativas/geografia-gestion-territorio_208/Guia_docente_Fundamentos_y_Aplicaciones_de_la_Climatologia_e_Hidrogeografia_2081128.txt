@@ -2,22 +2,18 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (57):
 ------------------------------
-Aguado, E. y Burt, J. E., Understanding Weather and Climate. 7th edition. Pearson, 2015
-
 Aguado, E. y Burt, J. E., Weather and Climate. 4th edition. Pearson Education, 2007
 
 Aguiló   Alonso,   M.,   Guía   para   la   elaboración   de  estudios  del  medio  físico.  Ministerio  de  Medio
 Ambiente, 2007
 
 Ahrens, C. D., Essentials of Meteorology. 4th edition, Thomson, 2005
-
-Aparicio Mijares, F.J., Fundamentos de hidrología de superficie. México, Limusa, Noriega, 1994
 
 Aupí, V., Guía del clima de España. Barcelona. Omega, 2004
 
@@ -39,6 +35,8 @@ Chow, V. T., Maidment, D. R., y Mays, L. W., Hidrología aplicada. McGraw Hill, 
 Cuadrat, J.M. y Pita, M. F., Climatología. 4a edición. Madrid, Cátedra, 2006
 
 Custodio, E., Llamas, M. R., Hidrología subterránea. Barcelona, Omega, 1983
+
+Davie, T., Fundamentals of Hydrology, London, Routledge, 2002
 
 Dugo Pantón, M., González García, M. A. y Cabezal Gómez, L. M., Hidrología. Mediciones Hidrológicas,
 hidrogramas y caudales máximos. Escuela Técnica Superior de Lugo, 1995
@@ -93,8 +91,14 @@ Martínez, J. y Ruano, P., Aguas subterráneas. Captación y aprovechamiento. Se
 
 McIlveen, R., Fundamentals of Weather and Climate, 2nd edition, Oxford, 2010
 
+PARTE   I.   CLIMATOLOGÍA   Aguado,   E.   y  Burt,  J.  E.,  Understanding  Weather  and  Climate.  7th  edition.
+Pearson, 2015
+
 PARTE   I.   CLIMATOLOGÍA   Barry,   R.   G.   y   Chorley,   J.   R.,  Atmósfera,  tiempo  y  clima.  7a  edición,
 Barcelona, Omega, 1999
+
+PARTE   II.   HIDROGEOGRAFÍA   Aparicio  Mijares,  F.J.,  Fundamentos  de  hidrología  de  superficie.  México,
+Limusa, Noriega, 1994
 
 PARTE   II.  HIDROGEOGRAFÍA  Ball,  P.,  H2O:  Una  biografía  del  agua.  México,  Fondo  de  Cultura  Económica,
 1999
@@ -135,20 +139,14 @@ White, R. E., Principles and practice of soil science. 4th edition, Backwell, 20
 Zúñiga   López  I.  y  Crespo  del  Arco,  E.,  Meteorología  y  Climatología.  2a  edición,  Madrid,  Universidad
 Nacional de Educación a Distancia, 2016
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Davie, T., Fundamentals of Hydrology, London, Routledge, 2002. del Pozo Gómez, M., Durán Valsero, J.
-J., Fernández Uría, A., García de la Noceda, C. y Murillo Díaz, J. M., Aguas subterráneas, paisaje y
-vida.   Acuíferos   de   España.   Instituto   Geológico   y   Minero  de  España,  2001  →  del  Pozo  Gómez,  M.,
-Durán   Valsero,   J.   J.,   Fernández   Uría,   A.,  García  de  la  Noceda,  C.  y  Murillo  Díaz,  J.  M.,  Aguas
-subterráneas, paisaje y vida. Acuíferos de España. Instituto Geológico y Minero de España, 2001
+del   Pozo   Gómez,   M.,   Durán   Valsero,  J.  J.,  Fernández  Uría,  A.,  García  de  la  Noceda,  C.  y  Murillo
+Díaz,   J.   M.,  Aguas  subterráneas,  paisaje  y  vida.  Acuíferos  de  España.  Instituto  Geológico  y  Minero
+de España, 2001
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
-Ball, P., H2O: Una biografía del agua. México, Fondo de Cultura Económica, 1999
-
 Barry, R. G. y Chorley, J. R., Atmósfera, tiempo y clima. 7a edición, Barcelona, Omega, 1999
 
-Davie, T., Fundamentals of Hydrology, London, Routledge, 2002
+PARTE II. HIDROGEOGRAFÍA
 
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]

@@ -2,12 +2,11 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-JIMÉNEZ OLIVENCIA, Y. (coordinadora) (2008). “La Convención Europea del Paisaje. Desarrollos JIMÉNEZ
-OLIVENCIA, Y. (dir) (2016). Observatorio y archivo de los paisajes de Andalucía (OAPA)
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (31):
 ------------------------------
 BERQUE,   A.   (1995).   Les   Raisons   du   paysage.  De  la  chine  antique  aux  environnements  de  synthèse.
 Paris: Hazan
@@ -35,6 +34,9 @@ FERNÁNDEZ, A, Y FERNÁNDEZ, J. Madrid (2019): Paisajes y turismo. UNED
 
 GONZÁLEZ   BERNÁLDEZ,  E.  y  GALLARDO  MARTÍN,  D.  (1988):  "Determinación  de  los  factores  que  intervienen
 en la preferencias paisajísticas". Arbor: 15-39
+
+JIMÉNEZ   OLIVENCIA,   Y.   (coordinadora)   (2008).   “La   Convención   Europea   del  Paisaje.  Desarrollos
+prácticos”. Cuadernos Geográficos, 43(2): monográfico
 
 JIMÉNEZ   OLIVENCIA,   Y.   (dir)   (2016).   Observatorio  y  archivo  de  los  paisajes  de  Andalucía  (OAPA).
 Principios y métodos”. Editorial Universidad de Granada
@@ -68,6 +70,9 @@ MÚJICA,   M.;   DE   LUCIO,   J.  V.  y  GÓMEZ-LIMÓN,  J.  (1994):  "Estudio 
 como herramienta para la planificación. El caso del Parque Regional de la Cuenca Alta del Manzanares
 (Madrid)", en // Congreso de Ciencia del Paisaje. Monografies de 1'Equip, 6, Barcelona: 379-378
 
+NOGUÉ,   J.;   PUIGBERT,   L.   y   BRETCHA,   G.(Eds.):   Ordenació   i   gestió   del  paisatge  a  Europa.  Ed.
+Observatori del paisatge, 2009
+
 NOGUÉ,   J.;   PUIGBERT,   L.;   SALA,   P.   y   BRETCHA,   G.   (Eds.):   Paisatge  i  participació  ciutadana,
 Observatori del paisatge, 2010
 
@@ -83,27 +88,17 @@ Fundación Duques de Soria
 SALA i MARTÍ, P; BRETCHA, G; PUIGBERT, L (eds) (2020): La carretera en el paisaje. Olot: Observatory
 del Paisatge de Catalunya. Generalitat de Catalunya
 
-TUDOR, CH. (2014): An approach to Landscape Character Assessment. Natural England, 2014
-
 ZOIDO,   F.  Y  VENEGAS,  C.  (coordinadores)  (2002).  Paisaje  y  ordenación  del  territorio.  Sevilla,  Junta
 de Andalucía. Consejería de Obras Públicas y Transportes y Fundación Duques de Soria
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Observatori   del   paisatge,  2009  →  NOGUÉ,  J.;  SALA,  P.;  GRAU,  J.  (2016).  Els  catàlegs  de  paisatge  de
-Catalunya: metodologia. Olot: Observatori del Paisatge de Catalunya
+http://www.catpaisatge.net/cat/documentacio_plecs_ref_7.php    TUDOR,   CH.   (2014):   An   approach   to
+Landscape Character Assessment. Natural England, 2014
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 JIMÉNEZ   OLIVENCIA,  Y  ET  AL  (2021).  Land  use  change  dynamics  in  Euro-mediterranean  mountain  regions:
 Driving forces and consequences for the landscape. Land Use Policy
 
-JIMÉNEZ   OLIVENCIA,   Y.   (coordinadora)   (2008).   “La   Convención   Europea   del  Paisaje.  Desarrollos
-prácticos”. Cuadernos Geográficos, 43(2): monográfico
-
-NOGUÉ,   J.;   PUIGBERT,   L.   y   BRETCHA,   G.(Eds.):   Ordenació   i   gestió   del  paisatge  a  Europa.  Ed.
-Observatori del paisatge, 2009
-
 http://www.catpaisatge.net/cat/documentacio_plecs_ref_7.php
 
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

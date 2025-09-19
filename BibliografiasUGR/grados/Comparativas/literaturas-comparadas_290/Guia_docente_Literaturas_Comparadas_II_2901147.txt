@@ -2,15 +2,64 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (11):
 ------------------------------
+Balibar, Étienne (2005). “Construcciones y deconstrucciones del universal”. En Universales. Santiago
+de   Chile:  Pólvora  Editorial  Baetens,  Jan  y  Sánchez-Mesa,  Domingo  (2015)  “Literature  at  the  Expanded
+Field: Interrmediality at the Crossroads of Literary Theory and Comparative Literature”
+
 Borràs,   Laura   (ed.)   (2005)   Textualidades   electrónicas.   Nuevos   escenarios   para  la  literatura.
 Barcelona, UOC
 
-📚 Recursos sin cambios:
+Cavallaro,   Dani   (2004)   “Introducción:  la  ciencia-ficción  y  el  ciberpunk”.  En  D.  SánchezMesa  (ed.)
+Literatura   y   cibercultura.   Madrid,   Arco  Libros  Conrad,  Sebastian  (2017).  Introducción  a  Historia
+global. Una nueva visión para el mundo actual. Barcelona: Crítica
+
+Friedman, Susan Stanford (2007). “Migrations, Diasporas, Borders”. En Introduction to Scholarship on
+Modern   Languages   and   Literatures,   David   Nicholds   ed.   Nueva   York:   MLA   Goldberg,   R.  (1988).
+Performance Art. Desde el futurismo hasta el presente. Barcelona: Destino
+
+Hayles,   Katherine   (2008)   Electronic   Literature.   New   Horizons   for   the   Literary.   Notre  Dame,
+University of Notre Dame, pp. 1-42. [online v1, 2007, http://eliterature.org/pad/elp.html ] Lehmann,
+H.T. (1999). Teatro posdramático. Murcia: CENDEAC
+
+Jenkins,     Henry    (2003)    “Transmedia    Storytelling”.    MIT    Technology    Review.    15.    Enero
+http://www.technologyreview.com/news/401760/transmedia-storytelling/   Juul,  Jesper  (2005)  Half-real:
+video games between real rules and fictional worlds. The MIT Press
+
+Laboria   Cuboniks   (2015)   “Xenofeminismo:   Una   política   por   la  alienación”.  Disponible  en  línea:
+https://laboriacuboniks.net/manifesto/xenofeminismo-una-   politica-por-laalienacion/  Landow  George  P
+(2008).   Hypertext   3.0.   La   teoría   crítica   y  los  nuevos  medios  en  una  poca  de  globalización.  La
+convergencia de la teoría crítica, contemporánea y la tecnología. Barcelona, Paidós
+
+Lane-Mercier,   Gillian   (2014).  “Global  and  Local  Languages”.  En  A  Companion  to  Translation  Studies,
+Bermann   &   Porter,   eds.   Oxford:   Wiley-Blackwell   Lisle,   Debbie   (2006).   The  Global  Politics  of
+Contemporary Travel Writing. Nueva York: Cambridge University Press
+
+Mánovich,   Lev  (2005)  El  lenguaje  de  los  nuevos  medios  de  comunicación.  La  imagen  en  la  era  digital.
+Barcelona,   Paidós   [trad.   de   The   Language   of   New  Media  2002]  Rettberg,  Scott  (2019)  Electronic
+Literature. Cambridge, Polity Press
+
+Sánchez-Mesa, D. y Baetens, J. (2017) “La literatura en expansión: Intermedialidad y Transmedialidad
+en   el  cruce  entre  la  Literatura  Comparada,  los  Estudios  Culturales  y  los  New  Media  Studies”.  En  Ana
+Casas   y   Teresa   López   Pellisa   (eds.)   "Narrativas   transmedia,  hipermedia  e  intermedia:  teoría  y
+crítica"   en   Tropelías.  Revista  de  Teoría  de  la  Literatura  y  Literatura  Comparada,  nº27  (2017),  pp.
+6-27    https://papiro.unizar.es/ojs/index.php/tropelias/issue/view/138   Scolari,   Carlos   A.   (2013)
+Narrativas transmedia. Cuando todos los medios cuentan. Barcelona: Ediciones Deusto (e-book)
+
+https://doi.org/10.37536/preh.2017.5.1.864   Said,   Edward   (2000).  “Reflexiones  sobre  el  exilio”.  En
+Reflexiones   sobre   el   exilio:   ensayos  literarios  y  culturales.  Barcelona:  Debate,  pp.  179-195  (17
+pp.)
+
+📚 Recursos sin cambios (62):
 ------------------------------
+Aarseth,   Espen   (1997).   Cybertext.   Perspectives   on   Ergodic  Literature  .  Baltimore/Londres,  John
+Hopkins University Press
+
 Aarseth,   Espen  (2012)  “A  Narrative  Theory  of  Games”.  En  Proceedings  of  the  International  Conference
 on the Foundations of Digital Games, Nueva York, ACM, pp. 129-133
+
+Abuín, Anxo (2008). “Teatro y nuevas tecnologías: conceptos básicos”. Signa, 17, pp. 29-56
 
 Abuín, Anxo (2012). El teatro en el cine . Madrid: Cátedra
 
@@ -37,6 +86,10 @@ hacia el postcapitalismo . Buenos Aires: Caja Negra
 Badiou,   Alain   (2006).   “Reflexiones   filosóficas  sobre  la  política  internacional”.  En  El  cine  como
 acontecimiento . México D.F: Paradiso
 
+Baetens,   Jan   y   Sánchez-Mesa,  Domingo  (2015)  “Literature  at  the  Expanded  Field:  Interrmediality  at
+the   Crossroads   of   Literary   Theory  and  Comparative  Literature”.  Interfaces.  Image-Text  Langages  .
+Vol. 36, pp.289-304
+
 Balló, J. y Pérez, X. (2005). Yo ya he estado aquí. Ficciones de la repetición . Barcelona: Anagrama
 
 Barbosa, Pedro (1996). A ciberliteratura: criaçao literária e computador . Lisboa: Cosmos
@@ -62,6 +115,9 @@ Castells, Manuel (2009). Comunicación y poder. Madrid, Alianza, pp. 87-108
 
 Cruz Sánchez, P. (2022). Arte y performance. De las vanguardias a la actualidad . Madrid: Akal
 
+Damrosch,   David   (2003)  What  is  World  Literature?  (Translation/Transnation)  .  Princeton  &  Princeton
+Univ. Press
+
 Dixon, Steve (2007). Digital Performance. A History of New Media in Theater, Dance, Performance Art,
 and Installation . Cambridge: The MIT Press
 
@@ -75,19 +131,20 @@ cibervanguardias . Barcelona: Holobionte
 Ferrando, Francesca (2013). “Posthumanismo y transhumanismo: Diferencias y relaciones”. Xenomórfica,
 1, pp. 22-31
 
+Fischer-Lichte, Erika (2004). Estética de lo performativo . Madrid: Abada
+
 Fisher, Mark (2009). Realismo capitalista: ¿No hay alternativa? Buenos Aires: Caja Negra
 
 Grande,   María   Ángeles   (2015)   “Tecnoteatros  y  performatividad”.  Caracteres.  Estudios  culturales  y
 críticos       de       la       esfera       digital       .      Vol.      4,      n      2,      Noviembre.
 http://revistacaracteres.net/revista/vol4n2noviembre2015/estudioscibercultura/
 
-Grande,   María  Ángeles  y  Sánchez  Montes,  María  José  (2016).  “Posibilidades  de  un  teatro  transmedia”.
-Artnodes, 18: 64-70. https://artnodes.uoc.edu/articles/abstract/10.7238/a.v0i18.3047/
-
-Guha, Ranajit (1998). “The migrant’s time”. Postcolonial Studies 1 (2), 155-160
-
 Hand,   B.   y   Muñoz,   A.   (2019).   El   tiempo   es   lo   único   que   tenemos:   Actualidad  de  las  artes
 performativas . Buenos Aires: Caja Negra
+
+Haraway,   Donna   (1995)   Manifiesto  Cyborg.  Ciencia,  Tecnología  y  Feminismo  Socialista  a  Finales  del
+Siglo   XX.   Eutopías,  2ª  Época,  Documentos  de  trabajo,  n.  86.  Valencia,  Centro  de  Teoría  y  Semiótica
+del Espectáculo, Universitat de Valencia. Episteme
 
 Hauskeller,   Michael;   Philbeck,   Thomas  y  Carbonell,  Curtis  (eds.)  (2015).  The  Palgrave  Handbook  of
 Posthumanism in Film and Television . Londres: Palgrave Macmillan
@@ -100,12 +157,13 @@ comunicación, Barcelona, Paidós
 
 Kelleter, F. (ed.) (2017). Media of Serial Narrative . Columbus: The Ohio State University Press
 
-Lisle,   Debbie   (2006).   The   Global  Politics  of  Contemporary  Travel  Writing  .  Nueva  York:  Cambridge
-University Press
-
 López-Pellisa,   Teresa  (2013)  “Teatro  de  robots:  actores  mecánicos  y  digitales  con  alma  de  software”
 en   Romera   Castillo   (ed.):  Teatro  e  Internet  en  la  primera  década  del  siglo  XXI,  Editorial  Verbum,
 Madrid, 2013, pp. 210-234
+
+López-Pellisa,    Teresa    (2020).    “El   paradigma   de   Hefesto.   Heterotopología:   poshumanismo(s),
+(xeno)feminismos   y   ciencia   ficción”.   En   García   Rodríguez,   J.   (ed.)   Intersecciones  .  Oviedo:
+Ediciones de la Universidad de Oviedo, pp. 247-276
 
 Mani,   B.  Venkat  (2017).  Recoding  World  Literature:  Libraries,  Print  Culture  and  Germany’s  Pact  with
 Books . Nueva York: Fordham University Press
@@ -121,6 +179,9 @@ NYU Press
 
 Mora, Vicente Luis (2011) El lectoespectador . Barcelona, Seix Barral
 
+Murray,   Janet   (1997).   Hamlet   en   la   Holocubierta.   Trad.   de   Susana   Pajares  Tosca.  Barcelona:
+Paidós,1999
+
 Olea   Romacho,   Miguel   (2021).   “El  cine  performativo:  Análisis  intermedial  de  la  teatralidad  en  la
 obra   de   John  Cassavetes”.  En  Performatividades  contemporáneas:  teatro,  cine  y  nuevos  medios  (Paulo
 A. Gatica, ed.). Madrid: Visor
@@ -133,8 +194,14 @@ Pérez Bowie, José Antonio (2010). “La teatralidad en la pantalla”. Signa, 
 Pérez Latorre, Óliver (2011), El lenguaje videolúdico. Análisis de la significación del videojuego .
 Barcelona, Laertes
 
-Said,   Edward   (2000).   “Reflexiones   sobre   el   exilio”.   En   Reflexiones   sobre  el  exilio:  ensayos
-literarios y culturales . Barcelona: Debate, pp. 179-195 (17 pp.)
+Ryan,   Marie-Laure  (2001).  La  narración  como  realidad  virtual.  La  inmersión  y  la  interactividad  en
+la   literatura   y   en  los  medios  electrónicos,  trad.  de  María  Fernández  Soto.  Barcelona:  Paidós,
+2004. 2 edición (en ingles) 2015
+
+Sánchez-Mesa Martínez, Domingo (ed.) (2004) Literatura y cibercultura . Madrid, Arco, Libros
+
+Sánchez-Mesa Martínez, Domingo (ed.) (2019) Narrativas transmediales. Las metamorfosis del relato en
+los nuevos medios digitales . Barcelona, Gedisa
 
 Talens,   Jenaro   (2000)   “El   robot   ilustrado   y  el  futuro  de  las  Humanidades”.  En  El  sujeto  vacío.
 Cultura y poesía en territorio Babel. Madrid, Cátedra/Universitat de València, pp. 394-407
@@ -158,86 +225,33 @@ World Literature . Nueva York: Columbia University Press
 Zizek,   Slavok   (2006),   Lacrimae  rerum.  Ensayos  sobre  cine  moderno  y  ciberespacio  .  Madrid,  Debate,
 2006
 
-🔁 Misma obra con edición/año distinto:
+http://revistacaracteres.net/revista/vol4n2noviembre2015/estudioscibercultura/ Grande, María Ángeles
+y Sánchez Montes, María José (2016). “Posibilidades de un teatro transmedia”. Artnodes, 18: 64-70
+
+http://revistacaracteres.net/revista/vol4n2noviembre2015/estudioscibercultura/   Torres,  Rui  &  Block,
+W. Friedrich (2007) “Poetic Transformations in(to) the Digital”
+
+https://artnodes.uoc.edu/articles/abstract/10.7238/a.v0i18.3047/     Guha,    Ranajit    (1998).    “The
+migrant’s time”. Postcolonial Studies 1 (2), 155-160
+
+✅ Recursos añadidos (24):
 ------------------------------
-Barcelona:   Paidós,1999   →   Ryan,   Marie-Laure   (2001).   La   narración   como   realidad  virtual.  La
-inmersión   y   la   interactividad   en   la   literatura  y  en  los  medios  electrónicos,  trad.  de  María
-Fernández Soto. Barcelona: Paidós, 2004. 2 edición (en ingles) 2015
-
-Jenkins,   Henry   (2003)   “Transmedia   Storytelling”.   MIT   Technology  Review.  15.  Enero  Juul,  Jesper
-(2005)   Half-real:   video   games   between   real   rules   and   fictional  worlds.  The  MIT  Press  →  Juul,
-Jesper (2005) Half-real: video games between real rules and fictional worlds . The MIT Press
-
-Murray,   Janet   (1997).   Hamlet   en   la   Holocubierta.  Trad.  de  Susana  Pajares  Tosca  →  Murray,  Janet
-(1997). Hamlet en la Holocubierta. Trad. de Susana Pajares Tosca. Barcelona: Paidós,1999
-
-Cavallaro,   Dani  (2004)  “Introducción:  la  ciencia-ficción  y  el  ciberpunk”.  En  D.  Sánchez-  Mesa  (ed.)
-Literatura   y   cibercultura.   Madrid,   Arco  Libros  Conrad,  Sebastian  (2017).  Introducción  a  Historia
-global.   Una   nueva   visión   para   el   mundo   actual.   Barcelona:   Crítica   →  Cavallaro,  Dani  (2004)
-“Introducción:    la   ciencia-ficción   y   el   ciberpunk”.   En   D.   Sánchez-Mesa   (ed.)   Literatura   y
-cibercultura. Madrid, Arco Libros
-
-Friedman, Susan Stanford (2007). “Migrations, Diasporas, Borders”. En Introduction to Scholarship on
-Modern   Languages   and   Literatures,   David   Nicholds   ed.   Nueva   York:   MLA   Goldberg,   R.  (1988).
-Performance    Art.   Desde   el   futurismo   hasta   el   presente.   Barcelona   →   Goldberg,   R.   (1988).
-Performance Art. Desde el futurismo hasta el presente . Barcelona: Destino
-
-Laboria   Cuboniks   (2015)  “Xenofeminismo:  Una  política  por  la  alienación”.  Disponible  en  alienacion/
-Landow   George   P   (2008).   Hypertext   3.0.   La   teoría   crítica   y  los  nuevos  medios  en  una  poca  de
-globalización.   La   convergencia   de   la  teoría  crítica,  contemporánea  y  la  tecnología  →  Landow
-George P (2008). Hypertext 3.0. La teoría crítica y los nuevos medios en una poca de globalización.
-La convergencia de la teoría crítica, contemporánea y la tecnología. Barcelona, Paidós
-
-Balibar, Étienne (2005). “Construcciones y deconstrucciones del universal”. En Universales. Santiago
-de   Chile:  Pólvora  Editorial  Baetens,  Jan  y  Sánchez-Mesa,  Domingo  (2015)  “Literature  at  the  Expanded
-Field   →   Balibar,  Étienne  (2005).  “Construcciones  y  deconstrucciones  del  universal”.  En  Universales
-. Santiago de Chile: Pólvora Editorial
-
-Sánchez-Mesa, D. y Baetens, J. (2017) “La literatura en expansión: Intermedialidad y Transmedialidad
-en   el  cruce  entre  la  Literatura  Comparada,  los  Estudios  Culturales  y  los  New  Media  Studies”.  En  Ana
-Casas   y   Teresa   López   Pellisa   (eds.)   "Narrativas   transmedia,  hipermedia  e  intermedia:  teoría  y
-crítica"   en   Tropelías.  Revista  de  Teoría  de  la  Literatura  y  Literatura  Comparada,  nº27  (2017),  pp.
-6-27   Scolari,   Carlos   A.  (2013)  Narrativas  transmedia.  Cuando  todos  los  medios  cuentan.  Barcelona:
-Ediciones   Deusto   (e-book)   →   Sánchez-Mesa,   D.   y  Baetens,  J.  (2017)  “La  literatura  en  expansión:
-Intermedialidad y Transmedialidad en el cruce entre la Literatura Comparada, los Estudios Culturales
-y   los   New   Media   Studies”.   En   Ana   Casas   y  Teresa  López  Pellisa  (eds.)  "Narrativas  transmedia,
-hipermedia   e   intermedia:   teoría   y   crítica"   en   Tropelías.  Revista  de  Teoría  de  la  Literatura  y
-Literatura              Comparada,              nº27             (2017),             pp.             6-27
-https://papiro.unizar.es/ojs/index.php/tropelias/issue/view/138
-
-Lane-Mercier,   Gillian   (2014).  “Global  and  Local  Languages”.  En  A  Companion  to  Translation  Studies,
-Bermann   &   Porter,   eds.   Oxford:   Wiley-Blackwell   Lisle,   Debbie   (2006).   The  Global  Politics  of
-Contemporary   Travel   Writing.   Nueva   York   →   Lane-Mercier,   Gillian   (2014).   “Global   and   Local
-Languages”. En A Companion to Translation Studies, Bermann & Porter, eds. Oxford: Wiley-Blackwell
-
-✅ Recursos añadidos:
-------------------------------
-Aarseth,   Espen   (1997).   Cybertext.   Perspectives   on   Ergodic  Literature  .  Baltimore/Londres,  John
-Hopkins University Press
-
-Abuín, Anxo (2008). “Teatro y nuevas tecnologías: conceptos básicos”. Signa, 17, pp. 29-56
-
 Baetens,   Jan   (2020)  "Medium"  En:  Baetens,  J,  De  Graef,  O.  y  Mandolesi,  S.,  Digital  Reason.  A  Guide
 to Meaning, Medium and Community in a Modern World. Leuven, KULeuven press, pp. 79-160
 
-Baetens,   Jan   y   Sánchez-Mesa,  Domingo  (2015)  “Literature  at  the  Expanded  Field:  Interrmediality  at
-the   Crossroads   of   Literary   Theory  and  Comparative  Literature”.  Interfaces.  Image-Text  Langages  .
-Vol. 36, pp.289-304
+Balibar,   Étienne   (2005).   “Construcciones   y   deconstrucciones   del   universal”.   En  Universales  .
+Santiago de Chile: Pólvora Editorial
+
+Cavallaro,   Dani   (2004)  “Introducción:  la  ciencia-ficción  y  el  ciberpunk”.  En  D.  Sánchez-Mesa  (ed.)
+Literatura y cibercultura. Madrid, Arco Libros
 
 Conrad,   Sebastian   (2017).   Introducción  a  Historia  global.  Una  nueva  visión  para  el  mundo  actual  .
 Barcelona: Crítica
 
-Damrosch,   David   (2003)  What  is  World  Literature?  (Translation/Transnation)  .  Princeton  &  Princeton
-Univ. Press
-
-Fischer-Lichte, Erika (2004). Estética de lo performativo . Madrid: Abada
-
 Friedman, Susan Stanford (2007). “Migrations, Diasporas, Borders”. En Introduction to Scholarship on
 Modern Languages and Literatures, David Nicholds ed. Nueva York: MLA
 
-Haraway,   Donna   (1995)   Manifiesto  Cyborg.  Ciencia,  Tecnología  y  Feminismo  Socialista  a  Finales  del
-Siglo   XX.   Eutopías,  2ª  Época,  Documentos  de  trabajo,  n.  86.  Valencia,  Centro  de  Teoría  y  Semiótica
-del Espectáculo, Universitat de Valencia. Episteme
+Goldberg, R. (1988). Performance Art. Desde el futurismo hasta el presente . Barcelona: Destino
 
 Hayles,   Katherine   (2008)   Electronic   Literature.   New   Horizons   for   the   Literary  .  Notre  Dame,
 University of Notre Dame, pp. 1-42. [online v1, 2007, http://eliterature.org/pad/elp.html ]
@@ -245,14 +259,22 @@ University of Notre Dame, pp. 1-42. [online v1, 2007, http://eliterature.org/pad
 Jenkins,    Henry   (2003)   “Transmedia   Storytelling”.   MIT   Technology   Review   .   15.   Enero   2003.
 http://www.technologyreview.com/news/401760/transmedia-storytelling/
 
+Juul, Jesper (2005) Half-real: video games between real rules and fictional worlds . The MIT Press
+
 Laboria   Cuboniks   (2015)   “Xenofeminismo:   Una   política   por   la  alienación”.  Disponible  en  línea:
 https://laboriacuboniks.net/manifesto/xenofeminismo-una- politica-por-la- alienacion/
 
+Landow   George   P   (2008).   Hypertext   3.0.   La   teoría   crítica   y  los  nuevos  medios  en  una  poca  de
+globalización.   La  convergencia  de  la  teoría  crítica,  contemporánea  y  la  tecnología.  Barcelona,
+Paidós
+
+Lane-Mercier,   Gillian   (2014).  “Global  and  Local  Languages”.  En  A  Companion  to  Translation  Studies,
+Bermann & Porter, eds. Oxford: Wiley-Blackwell
+
 Lehmann, H.T. (1999). Teatro posdramático . Murcia: CENDEAC
 
-López-Pellisa,    Teresa    (2020).    “El   paradigma   de   Hefesto.   Heterotopología:   poshumanismo(s),
-(xeno)feminismos   y   ciencia   ficción”.   En   García   Rodríguez,   J.   (ed.)   Intersecciones  .  Oviedo:
-Ediciones de la Universidad de Oviedo, pp. 247-276
+Lisle,   Debbie   (2006).   The   Global  Politics  of  Contemporary  Travel  Writing  .  Nueva  York:  Cambridge
+University Press
 
 Mánovich, Lev (2005) El lenguaje de los nuevos medios de comunicación. La imagen en la era digital .
 Barcelona, Paidós [trad. de The Language of New Media 2002]
@@ -271,13 +293,17 @@ https://hdl.handle.net/10481/101429
 Rosendo,   Nieves   y   Sánchez-Mesa,   Domingo   (2019).   "Adaptación   y  transmedialidad.  Crítica  de  una
 oposición agotada". Pasavento. Revista de Estudios Hispánicos, 7(2), pp.335-352
 
+Said,   Edward   (2000).   “Reflexiones   sobre   el   exilio”.   En   Reflexiones   sobre  el  exilio:  ensayos
+literarios y culturales . Barcelona: Debate, pp. 179-195 (17 pp.)
+
 Scolari,   Carlos   A.   (2013)   Narrativas   transmedia.   Cuando   todos   los  medios  cuentan.  Barcelona:
 Ediciones Deusto (e-book)
 
-Sánchez-Mesa Martínez, Domingo (ed.) (2004) Literatura y cibercultura . Madrid, Arco, Libros
-
-Sánchez-Mesa Martínez, Domingo (ed.) (2019) Narrativas transmediales. Las metamorfosis del relato en
-los nuevos medios digitales . Barcelona, Gedisa
+Sánchez-Mesa, D. y Baetens, J. (2017) “La literatura en expansión: Intermedialidad y Transmedialidad
+en   el  cruce  entre  la  Literatura  Comparada,  los  Estudios  Culturales  y  los  New  Media  Studies”.  En  Ana
+Casas   y   Teresa   López   Pellisa   (eds.)   "Narrativas   transmedia,  hipermedia  e  intermedia:  teoría  y
+crítica"   en   Tropelías.  Revista  de  Teoría  de  la  Literatura  y  Literatura  Comparada,  nº27  (2017),  pp.
+6-27 https://papiro.unizar.es/ojs/index.php/tropelias/issue/view/138
 
 Sánchez-Mesa,   D.,   &   Rosendo   Sánchez,   Nieves   (2024).   Comparatismo  intermedial  y  posthumanismo:
 transmedialización   del   mito   del   cíborg.   Compendium:  Journal  of  Comparative  Studies  |  Revista  De
@@ -287,4 +313,4 @@ Sánchez-Mesa,   Domingo   y  Alberich,  Jordi  (2022)  Transmedialización  y  
 la   intermedialidad   y   la   colaboración   en   los  relatos  de  la  cultura  digital.  Valencia,  Tirant  lo
 blanch
 
-📊 Porcentaje estimado de cambio: 51% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

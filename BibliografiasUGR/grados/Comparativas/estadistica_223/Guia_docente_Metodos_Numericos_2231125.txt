@@ -2,11 +2,13 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Editorial   Técnica   AVICAM  Serrano  Pérez,  M.C.  (2022).  Prácticas  de  Métodos  Numéricos.  Segundo  curso
+del   Grado  en  Estadística.  Editorial  Técnica  AVICAM  Burden,  R.L.,  Faires,  J.D.  y  Burden  A.M.  (2017).
+Análisis Numérico. Décima edición, Cengage Learning Editores, México
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Gasca, M. (1991). Cálculo Numérico I. Sexta edición. U.N.E.D
 
@@ -28,14 +30,7 @@ Valladolid
 Serrano   Pérez,   M.C.   (2022).   Métodos  Numéricos.  Segundo  curso  del  Grado  en  Estadística.  Editorial
 Técnica AVICAM
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Editorial   Técnica   AVICAM  Serrano  Pérez,  M.C.  (2022).  Prácticas  de  Métodos  Numéricos.  Segundo  curso
-del   Grado  en  Estadística.  Editorial  Técnica  AVICAM  Burden,  R.L.,  Faires,  J.D.  y  Burden  A.M.  (2017).
-Análisis   Numérico.   Décima  edición,  Cengage  Learning  Editores,  México  →  Serrano  Pérez,  M.C.  (2022).
-Métodos Numéricos. Segundo curso del Grado en Estadística. Editorial Técnica AVICAM
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Burden, R.L., Faires, J.D. y Burden A.M. (2017). Análisis Numérico. Décima edición, Cengage Learning
 Editores, México

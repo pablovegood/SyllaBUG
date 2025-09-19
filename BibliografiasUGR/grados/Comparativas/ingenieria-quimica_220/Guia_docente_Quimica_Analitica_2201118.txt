@@ -2,15 +2,22 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+QUÍMICA,   R.   Chang,   ,   6ª  Ed.,  McGraw  Hill,  Madrid,  1999  INTRODUCCIÓN  AL  EQUILIBRIO  QUÍMICO”,  A.M.
+García   Campaña,   L.  Cuadros  Rodriguez,  Base  Universitaria  (Iniciación  a  la  Química  Superior)  Anaya,
+Madrid, 2004
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 ANÁLISIS QUÍMICO CUANTITATIVO, D.C. Harris, 3ª ed., Reverté, Barcelona 2007
 
 CURSO EXPERIMENTAL EN QUÍMICA ANALÍTICA, J. Guiteras, R. Rubio, G. Fonrodona, Síntesis, Madrid, 2003
+
+EQUILIBRIOS IÓNICOS Y SUS APLICACIONES ANALÍTICAS, M. Silva, J. Barbosa, Síntesis, Madrid 2002
+
+EQUILIBRIOS   QUÍMICOS   EN   DISOLUCIÓN:   APLICACIONES   ANALÍTICAS,   J.A.   Ávila   Rosón,   A.  Fernández
+Gutiérrez, E.J. Alonso Hernández, J.F. Fernández Sánchez, Universidad de Granada, Granada, 2005
 
 FUNDAMENTOS   DE  QUÍMICA  ANALÍTICA,  D.A.  Skoog,  D.M.  West,  F.J.  Holler,  S.R.  Crouch,  8ª  Ed.,  Thomson,
 Madrid, 2005
@@ -33,23 +40,11 @@ QUÍMICA ANALÍTICA. Jose Luis Vilchez Quero. Editorial Fleming, Granada 2023
 
 QUÍMICA. Un proyecto de la ACS, American Chemical Society, Reverte, Barcelona, 2005
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-EQUILIBRIOS   IÓNICOS   Y   SUS   APLICACIONES   ANALÍTICAS,  M.  Silva,  J.  Barbosa,  Síntesis,  Madrid  2002.
-EQUILIBRIOS   QUÍMICOS   EN   DISOLUCIÓN:   APLICACIONES   ANALÍTICAS,   J.A.   Ávila   Rosón,   A.  Fernández
-Gutiérrez,   E.J.   Alonso   Hernández,  J.F.  Fernández  Sánchez,  Universidad  de  Granada,  Granada,  2005  →
-EQUILIBRIOS IÓNICOS Y SUS APLICACIONES ANALÍTICAS, M. Silva, J. Barbosa, Síntesis, Madrid 2002
-
-QUÍMICA,   R.   Chang,   ,   6ª  Ed.,  McGraw  Hill,  Madrid,  1999  INTRODUCCIÓN  AL  EQUILIBRIO  QUÍMICO”,  A.M.
-García   Campaña,   L.  Cuadros  Rodriguez,  Base  Universitaria  (Iniciación  a  la  Química  Superior)  Anaya,
-Madrid,   2004   →   INTRODUCCIÓN   AL   EQUILIBRIO   QUÍMICO”,  A.M.  García  Campaña,  L.  Cuadros  Rodriguez,
-Base Universitaria (Iniciación a la Química Superior) Anaya, Madrid, 2004
-
-✅ Recursos añadidos:
-------------------------------
-EQUILIBRIOS   QUÍMICOS   EN   DISOLUCIÓN:   APLICACIONES   ANALÍTICAS,   J.A.   Ávila   Rosón,   A.  Fernández
-Gutiérrez, E.J. Alonso Hernández, J.F. Fernández Sánchez, Universidad de Granada, Granada, 2005
+INTRODUCCIÓN   AL   EQUILIBRIO  QUÍMICO”,  A.M.  García  Campaña,  L.  Cuadros  Rodriguez,  Base  Universitaria
+(Iniciación a la Química Superior) Anaya, Madrid, 2004
 
 QUÍMICA, R. Chang,, 6ª Ed., McGraw Hill, Madrid, 1999
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

@@ -2,15 +2,12 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
-Bercovitz Rodríguez-Cano, A., Apuntes de Derecho Mercantil, Thomson-Aranzadi, Cizur Menor (Navarra),
-última edición
-
 Broseta   Pont,   M.   /  Martínez  Sanz,  F.,  Manual  de  Derecho  Mercantil,  tomo  I,  Tecnos,  Madrid,  última
 edición
 
@@ -23,32 +20,33 @@ Jiménez Sánchez, G. J. (coord.), Lecciones de Derecho Mercantil, Tecnos, Madri
 
 Jiménez Sánchez, G. J. (coord.), Nociones de Derecho Mercantil, Marcial Pons, Madrid, última edición
 
-Menéndez,   A.,  (director)  y  otros  autores,  Lecciones  de  Derecho  Mercantil,  Thomson-  Cívitas,  Madrid,
+Menéndez,   A.,   (director)  y  otros  autores,  Lecciones  de  Derecho  Mercantil,  Thomson-Cívitas,  Madrid,
 última edición
 
-Pérez-Serrabona   González,   J.L.   (coord.),  Derecho  Mercantil  I,  Material  de  estudio  y  Rojo  Álvarez-
-Manzaneda,   C.,   Lecciones   de   Derecho   Mercantil   aplicado  a  las  enseñanzas  del  Grado  en  Economía,
-Avicam, Granada, última edición
+Por suerte, en los estudios universitarios en España el Derecho Mercantil es una materia consolidada
+desde   hace   décadas   y,  en  consecuencia,  son  muchos  los  manuales  al  uso  sobre  la  misma.  En  clase  se
+darán más orientaciones sobre las características de cada uno, pero tenga en cuenta alguno o algunos
+de   los   siguientes:   Bercovitz   Rodríguez-Cano,  A.,  Apuntes  de  Derecho  Mercantil,  Thomson-Aranzadi,
+Cizur Menor (Navarra), última edición
+
+Pérez-Serrabona González, J.L. (coord.), Derecho Mercantil I, Material de estudio y Cuaderno para el
+trabajo autónomo del alumno, Avicam, Granada, última edición
+
+Rojo   Álvarez-Manzaneda,   C.,   Lecciones  de  Derecho  Mercantil  aplicado  a  las  enseñanzas  del  Grado  en
+Economía, Avicam, Granada, última edición
+
+Se recomienda utilizar un manual actualizado de Derecho Mercantil
 
 Sánchez Calero, F., Principios de Derecho Mercantil, Thomson-Aranzadi, Cizur Menor (Navarra), última
 edición
 
 Uría, R., Derecho Mercantil, Marcial Pons, Madrid, última edición
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 Por suerte, en los estudios universitarios en España el Derecho Mercantil es una materia consolidada
 desde   hace   décadas   y,  en  consecuencia,  son  muchos  los  manuales  al  uso  sobre  la  misma.  En  clase  se
 darán más orientaciones sobre las características de cada uno, pero tenga en cuenta alguno o algunos
 de los siguientes
 
-Pérez-Serrabona González, J.L. (coord.), Derecho Mercantil I, Material de estudio y Cuaderno para el
-trabajo autónomo del alumno, Avicam, Granada, última edición
-
-Se recomienda utilizar un manual actualizado de Derecho Mercantil
-
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

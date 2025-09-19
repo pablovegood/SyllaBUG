@@ -2,7 +2,7 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (12):
 ------------------------------
 Akdemir,   A.   S.   (2017).   eTwinning   in  Language  Learning:  The  Perspectives  of  Successful  Teachers.
 Journal   of   Education   and  Practice,  8(10),  182-19  Alkamel,  M.  A.  A.,  &  Chouthaiwale,  S.  S.  (2018).
@@ -43,15 +43,11 @@ Resources and Innovative Methodologies in the English Classroom
 Zou,   D.   (2020).   Gamified   flipped   EFL   classroom   for   primary   education:   student   and  teacher
 perceptions. Journal of Computers in Education, 1-16
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (0):
 ------------------------------
 No hay elementos.
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (20):
 ------------------------------
 Area   Moreira,   Manuel.   (2018).   Guía   para  la  producción  y  uso  de  materiales  didácticos  digitales.
 Universidad de La Laguna. https://riull.ull.es/xmlui/bitstream/handle/915/16086/Manuel%20Area%20GU%C

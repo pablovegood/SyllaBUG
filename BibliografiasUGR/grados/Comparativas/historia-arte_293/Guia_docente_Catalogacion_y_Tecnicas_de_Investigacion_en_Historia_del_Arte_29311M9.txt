@@ -2,398 +2,50 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (8):
 ------------------------------
-No hay elementos.
+BLAZWICK,   Iwona   (ed.),   ADES,   Dawn,  NASAR,  Hammad,  A  Century  of  the  Artist’s  Studio:  1920  –  2020,
+London,   Whitechapel   Gallery,  2022  ANTAL,  F.  “Comentarios  sobre  el  método  de  la  historia  del  arte”.
+En: Clasicismo y romanticismo. Madrid: Alberto Corazón, 1978
 
-📚 Recursos sin cambios:
+CARRION    GUTIEZ,    Manuel    (Coautor).   Hemerotecas:   aportaciones   al   estudio   y   tratamiento   de
+publicaciones   periódicas.   Murcia:  ANABAD  Región  de  Murcia  1995  CAPPOCK,  Margarita,  Francis  Bacon’s
+Studio.   Londres,   Merrell,   2006   CASADO  QUINTANILLA,  Blas.  Paleografía.  Nociones  básicas  para  leer
+documentos conservados en los archivos históricos. Madrid: CECEL-CSIC, 2013
+
+HOFFMANN,   Jens,   The   Studio.  Whitechapel:  Documents  of  Contemporary  Art,  Cambridge,  MA,  MIT  Press,
+2012   KUHN,   Thomas.   La   estructura   de   las   revoluciones   científicas.   México:   Fondo  de  Cultura
+Económica, 2006
+
+Jaén: Universidad de Jaén, 2019
+
+LÓPEZ   YEPES,   José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).  Manual  de  Ciencias  de  la  Información  y
+Documentación   .   Madrid:   Pirámide,   2011   MARTÍN  ABAD,  J.  Manuscritos  españoles.  Guía  de  catálogos
+impresos. Madrid, 1989
+
+Madrid: Dirección de Archivos Estatales, 1992
+
+PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,  Imagination's  Chamber:  Artist's  Studios,  London,  Gordon
+Fraser,   1983  PERÉX  AGORRETA,  María  Jesús  (coord.).  Métodos  y  Técnicas  de  Investigación  Histórica  I.
+Madrid: Universidad Nacional de Educación a Distancia, 2012
+
+Valencia: Universidad de Valencia, 2016
+
+📚 Recursos sin cambios (27):
 ------------------------------
 AA. VV. Catalogación del Patrimonio Histórico. Sevilla: IAPH, 1996
 
 AA. VV. Guía del investigador de los archivos estatales españoles. Madrid, 1984
 
-AA.VV. Guía de las bibliotecas de la Iglesia. Madrid: Conferencia Episcopal Española, 2003
-
 ALMANSA   MORENO,   José   Manuel   (coord.).   La   Literatura   como   fuente   para   la  Historia  del  Arte.
 Investigación y difusión desde una perspectiva interdisciplinar. Jaén: Universidad de Jaén, 2019
 
-BAYARRI   FERRER,   Antonio.   La   CDU   en   el   contexto  de  las  bases  de  datos  documentales:  indización
-automática con descriptores virtuales, asignados a partir del contenido del campo CDU: desarrollo de
-un   prototipo   en   el   sistema   micro-ISIS   de  UNESCO.  Madrid:  Centro  de  Información  y  Documentación
-Científica, 1996
-
-BIBLIOTECA   DE   ANDALUCÍA   (GRANADA).   Microfichas:   catálogo.   Sevilla:  Dirección  General  de  Bienes
-Culturales, 1994
-
-CASARES HERVÁS, Manuel. Memoria de los Archivos Diocesanos. Granada: Arzobispado, 1964
-
-CORTÉS   ALONSO,   Vicenta.   La   escritura   y   lo   escrito.   Paleografía   y   diplomática   de   España  e
-Hispanoamérica. Madrid, 1986
-
-CORTÉS ALONSO, Vicenta. Manual de Archivos Municipales. Madrid, ANABAD, 1982
-
-CRESPO,   Begoña,   LAREO,  Inés  y  MOSKOWICH-SPIEGEL,  Isabel  (eds.)  La  mujer  en  la  ciencia:  historia  de
-una desigualdad. Münich: LINCOM, 2011
-
-CRUZ   MUNDET,   José   Ramón.   Manual   de   archivística.   Madrid:   Fundación   Germán  Sánchez  Ruipérez;
-Pirámide, 51996
-
-CRUZ,   Manuel  (Comp.)  Hacia  dónde  va  el  pasado:  el  porvenir  de  la  memoria  en  el  mundo  contemporáneo.
-Barcelona: Paidós, 2002
-
-CRUZ,   Manuel.   Las   malas   pasadas   del   pasado.   Identidad,   responsabilidad,  historia.  Barcelona:
-Anagrama, 2005
-
-DE   SALAZAR   Y   ACHA,  Jaime.  La  genealogía.  Ciencia  instrumental  y  técnica  de  investigación.  Madrid:
-CECEL-CSIC, 2010
-
-DEGAN,   Marilyn  y  McCARTY,  Willard  (eds.)  Collaborative  Research  in  the  Digital  Humanities.  Londres:
-Ashgate, 2012
-
-DEL   BOSQUE   GONZÁLEZ,   Isabel  et  alii.  Los  sistemas  de  información  geográfica  y  la  investigación  en
-Ciencias Humanas y Sociales. Madrid: CECEL-CSIC, 2012
-
-ECO,   Umberto.   Cómo   se   hace   una   tesis:   técnicas   y   procedimientos   de  estudio  investigación  y
-escritura. Barcelona: Gedisa, 1983
-
-ECO, Umberto. Obra abierta. Barcelona: Ariel, 1979
-
-FONTANA, Josep. La historia de los hombres. Barcelona: Crítica, 2001
-
-GALLO LEÓN, J. P. Archivos españoles: Guía del usuario. Madrid, Alianza, 2002
-
-GENERELO, Juan José, MORENO LOPEZ, Angeles. Historia de los Archivos y de la Archivística en España.
-Valladolid:Universidad, 1998
-
-LAFUENTE FERRARI, E. La fundamentación y los problemas de la historia del arte. Madrid: Instituto de
-España, 1985
-
-LANDER, Edgardo. La colonialidad del saber. Eurocentrismo y ciencias sociales. Buenos Aires: CLACSO,
-2000
-
-LASSO   DE   LA   VEGA   Y   JIMÉNEZ   PLACER,   Javier.   Manual   de   documentación:   las   técnicas  para  la
-investigación y redacción de los trabajos científicos y de ingeniería. Barcelona: Labor, 1969
-
-MIRALLES   I  MONSERRAT,  Joan  La  historia  oral.  Qüestionari  i  Guia  Didàctica.  Palma  de  Mallorca:  Moll,
-1985
-
-NUNBERG,   Geoffrey   (comp.);   ECO,  Umberto  (otros).  El  futuro  del  libro  ¿Esto  matará  eso?  Barcelona:
-Paidós, 1998
-
-PLAZA   BORES,   Ángel  de  la.  Archivo  General  de  Simancas:  Guía  del  investigador.  Madrid:  Dirección  de
-Archivos Estatales, 1992
-
-PORTA,   Eduard;   MONTSERRAT,   Rosa   María;   MORRAL,   Eulalia.   Sistema  de  documentación  para  museos.
-Barcelona: Generalitat de Catalunya; International Council of Museums, 1982
-
-PRYOR, Graham (ed.) Managing Research Data. Londres: Facet, 2012
-
-RAMÍREZ, Juan Antonio. Cómo escribir sobre arte y arquitectura. Libro de estilo e Introducción a los
-géneros de la crítica y de la historia del arte. Barcelona: Serbal, 1996
-
-SÁNCHEZ MUÑOZ, David. Cómo catalogar obras de arte y otros objetos artísticos. Valencia: Universidad
-de Valencia, 2016
-
-THOMPSON, Paul. La voz del pasado. Historia Oral. Valencia: Alfons el Magnànim, 1988
-
-ÁNGULO   EGEA,   M.   y   ALVAREZ   BARRIENTOS,   J.  Guía  históricas  de  las  bibliotecas  de  Madrid.  Madrid,
-Consejería de Educación, 2002
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-LÓPEZ   YEPES,   José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).  Manual  de  Ciencias  de  la  Información  y
-Documentación   .   Madrid:   Pirámide,   2011   MARTÍN  ABAD,  J.  Manuscritos  españoles.  Guía  de  catálogos
-impresos.   Madrid,   1989   →   BIBLIOGRAFÍA  FUNDAMENTAL:  AA.  VV.  Guía  del  investigador  de  los  archivos
-estatales   españoles.   Madrid,   1984.   AA.  VV.  Catalogación  del  Patrimonio  Histórico.  Sevilla:  IAPH,
-1996.   ALMANSA   MORENO,   José   Manuel  (coord.).  La  Literatura  como  fuente  para  la  Historia  del  Arte.
-Investigación   y   difusión   desde  una  perspectiva  interdisciplinar.  Jaén:  Universidad  de  Jaén,  2019.
-BLAZWICK,   Iwona   (ed.),   ADES,   Dawn,  NASAR,  Hammad,  A  Century  of  the  Artist’s  Studio:  1920  –  2020,
-London,   Whitechapel   Gallery,  2022  ANTAL,  F.  “Comentarios  sobre  el  método  de  la  historia  del  arte”.
-En:   Clasicismo  y  romanticismo.  Madrid:  Alberto  Corazón,  1978.  CACHEDA  SEIJO,  Fidel;  FERNÁNDEZ  LUNA,
-Juan   Manuel  y  HUETE  GUADIX,  Juan  Francisco  (eds.).  Recuperación  de  información.  Un  enfoque  práctico
-y multidisciplinar. Madrid: Ra-Ma, 2011. CARRION GUTIEZ, Manuel (Coautor). Hemerotecas: aportaciones
-al   estudio  y  tratamiento  de  publicaciones  periódicas.  Murcia:  ANABAD  Región  de  Murcia  1995  CAPPOCK,
-Margarita,   Francis   Bacon’s   Studio.   Londres,  Merrell,  2006  CASADO  QUINTANILLA,  Blas.  Paleografía.
-Nociones   básicas   para   leer  documentos  conservados  en  los  archivos  históricos.  Madrid:  CECEL-CSIC,
-2013.   CORTÉS   ALONSO,  Vicenta.  Manual  de  Archivos  Municipales.  Madrid,  ANABAD,  1982.  CORTÉS  ALONSO,
-Vicenta.   La   escritura   y  lo  escrito.  Paleografía  y  diplomática  de  España  e  Hispanoamérica.  Madrid,
-1986.   CRESPO,   Begoña,   LAREO,   Inés   y   MOSKOWICH-SPIEGEL,   Isabel   (eds.)  La  mujer  en  la  ciencia:
-historia de una desigualdad. Münich: LINCOM, 2011. CRUZ, Manuel (Comp.) Hacia dónde va el pasado: el
-porvenir   de   la  memoria  en  el  mundo  contemporáneo.  Barcelona:  Paidós,  2002.  CRUZ,  Manuel.  Las  malas
-pasadas   del   pasado.   Identidad,  responsabilidad,  historia.  Barcelona:  Anagrama,  2005.  CRUZ  MUNDET,
-José   Ramón.   Manual  de  archivística.  Madrid:  Fundación  Germán  Sánchez  Ruipérez;  Pirámide,  51996.  DE
-SALAZAR   Y   ACHA,   Jaime.   La   genealogía.   Ciencia  instrumental  y  técnica  de  investigación.  Madrid:
-CECEL-CSIC,   2010.   DEGAN,   Marilyn   y  McCARTY,  Willard  (eds.)  Collaborative  Research  in  the  Digital
-Humanities. Londres: Ashgate, 2012. DEL BOSQUE GONZÁLEZ, Isabel et alii. Los sistemas de información
-geográfica   y   la   investigación   en   Ciencias   Humanas   y   Sociales.  Madrid:  CECEL-CSIC,  2012.  ECO,
-Umberto.   Cómo   se   hace   una  tesis:  técnicas  y  procedimientos  de  estudio  investigación  y  escritura.
-Barcelona:   Gedisa,   1983.   ECO,   Umberto.  Obra  abierta.  Barcelona:  Ariel,  1979.  FREIXA,  Mireia.  “La
-historia   del   arte   como  historia.  Las  técnicas  de  investigación  y  el  problema  de  las  fuentes”.  En:
-Introducción   a   la   Historia   del   Arte.   Barcelona:  Barcanova,  1991,  pp.  61-87.  FONTANA,  Josep.  La
-historia   de   los   hombres.   Barcelona:   Crítica,   2001.  GENERELO,  Juan  José,  MORENO  LOPEZ,  Angeles.
-Historia   de  los  Archivos  y  de  la  Archivística  en  España.  Valladolid:Universidad,  1998.  GENET,  Jean,
-L'atelier   d'Alberto   Giacometti,   París,   Gallimard,   2007   HEREDIA   HERRERA,  Antonia.  Archivística
-General.   Teoría   y   Práctica.  Sevilla:  Servicio  de  Publicaciones  de  la  Diputación,  71995.  HOFFMANN,
-Jens,   The   Studio.  Whitechapel:  Documents  of  Contemporary  Art,  Cambridge,  MA,  MIT  Press,  2012  KUHN,
-Thomas.   La   estructura   de   las  revoluciones  científicas.  México:  Fondo  de  Cultura  Económica,  2006.
-LAFUENTE FERRARI, E. La fundamentación y los problemas de la historia del arte. Madrid: Instituto de
-España,   1985.  LANDER,  Edgardo.  La  colonialidad  del  saber.  Eurocentrismo  y  ciencias  sociales.  Buenos
-Aires:   CLACSO,   2000.   LASSO   DE   LA   VEGA   Y   JIMÉNEZ  PLACER,  Javier.  Manual  de  documentación:  las
-técnicas   para   la  investigación  y  redacción  de  los  trabajos  científicos  y  de  ingeniería.  Barcelona:
-Labor,   1969.   LÓPEZ   YEPES,  José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).  Manual  de  Ciencias  de  la
-Información   y  Documentación  .  Madrid:  Pirámide,  2011  MARTÍN  ABAD,  J.  Manuscritos  españoles.  Guía  de
-catálogos   impresos.   Madrid,   1989.   MIRZOEFF,   Nicholas.   Una   introducción   a   la  cultura  visual.
-Barcelona:   Paidós.   PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,   Imagination's   Chamber:   Artist's
-Studios,   London,   Gordon   Fraser,   1983  PERÉX  AGORRETA,  María  Jesús  (coord.).  Métodos  y  Técnicas  de
-Investigación Histórica I. Madrid: Universidad Nacional de Educación a Distancia, 2012. PLAZA BORES,
-Ángel   de   la.   Archivo   General   de   Simancas:  Guía  del  investigador.  Madrid:  Dirección  de  Archivos
-Estatales,   1992.   PORTA,   Eduard;  MONTSERRAT,  Rosa  María;  MORRAL,  Eulalia.  Sistema  de  documentación
-para   museos.   Barcelona:   Generalitat   de  Catalunya;  International  Council  of  Museums,  1982.  PRYOR,
-Graham   (ed.)   Managing   Research   Data.   Londres:  Facet,  2012.  SÁNCHEZ  MUÑOZ,  David.  Cómo  catalogar
-obras   de   arte   y   otros  objetos  artísticos.  Valencia:  Universidad  de  Valencia,  2016.  SIERRA  BRAVO,
-Restituto.   Tesis   doctorales   y   trabajos   de   investigación   científica:  metodología  general  de  su
-elaboración y documentación. Madrid: Paraninfo, 1996
-
-Madrid,   1979.   de   Granada:   catálogo   colectivo.   Granada:   Secretariado   de   Publicaciones   de  la
-Universidad,   1972   →   MATEU  IBARS,  Josefina.  Bibliografía  de  fuentes  históricas  e  instrumentales  en
-bibliotecas    de    Granada:   catálogo   colectivo.   Granada:   Secretariado   de   Publicaciones   de   la
-Universidad, 1972
-
-Barcanova,   1991,   pp.   61-87   →   BIBLIOGRAFÍA   FUNDAMENTAL:   AA.   VV.   Guía  del  investigador  de  los
-archivos   estatales  españoles.  Madrid,  1984.  AA.  VV.  Catalogación  del  Patrimonio  Histórico.  Sevilla:
-IAPH,   1996.   ALMANSA   MORENO,   José  Manuel  (coord.).  La  Literatura  como  fuente  para  la  Historia  del
-Arte.   Investigación   y   difusión  desde  una  perspectiva  interdisciplinar.  Jaén:  Universidad  de  Jaén,
-2019.   BLAZWICK,   Iwona   (ed.),   ADES,  Dawn,  NASAR,  Hammad,  A  Century  of  the  Artist’s  Studio:  1920  –
-2020,   London,   Whitechapel   Gallery,  2022  ANTAL,  F.  “Comentarios  sobre  el  método  de  la  historia  del
-arte”. En: Clasicismo y romanticismo. Madrid: Alberto Corazón, 1978. CACHEDA SEIJO, Fidel; FERNÁNDEZ
-LUNA,   Juan   Manuel   y   HUETE  GUADIX,  Juan  Francisco  (eds.).  Recuperación  de  información.  Un  enfoque
-práctico   y   multidisciplinar.   Madrid:   Ra-Ma,  2011.  CARRION  GUTIEZ,  Manuel  (Coautor).  Hemerotecas:
-aportaciones   al   estudio  y  tratamiento  de  publicaciones  periódicas.  Murcia:  ANABAD  Región  de  Murcia
-1995   CAPPOCK,   Margarita,   Francis  Bacon’s  Studio.  Londres,  Merrell,  2006  CASADO  QUINTANILLA,  Blas.
-Paleografía.   Nociones   básicas  para  leer  documentos  conservados  en  los  archivos  históricos.  Madrid:
-CECEL-CSIC,   2013.   CORTÉS   ALONSO,   Vicenta.   Manual  de  Archivos  Municipales.  Madrid,  ANABAD,  1982.
-CORTÉS   ALONSO,   Vicenta.   La   escritura   y   lo   escrito.   Paleografía   y   diplomática   de   España  e
-Hispanoamérica.   Madrid,   1986.   CRESPO,   Begoña,   LAREO,  Inés  y  MOSKOWICH-SPIEGEL,  Isabel  (eds.)  La
-mujer   en   la  ciencia:  historia  de  una  desigualdad.  Münich:  LINCOM,  2011.  CRUZ,  Manuel  (Comp.)  Hacia
-dónde   va   el   pasado:  el  porvenir  de  la  memoria  en  el  mundo  contemporáneo.  Barcelona:  Paidós,  2002.
-CRUZ,   Manuel.   Las   malas   pasadas   del   pasado.   Identidad,   responsabilidad,  historia.  Barcelona:
-Anagrama,   2005.   CRUZ   MUNDET,  José  Ramón.  Manual  de  archivística.  Madrid:  Fundación  Germán  Sánchez
-Ruipérez;   Pirámide,   51996.  DE  SALAZAR  Y  ACHA,  Jaime.  La  genealogía.  Ciencia  instrumental  y  técnica
-de   investigación.   Madrid:  CECEL-CSIC,  2010.  DEGAN,  Marilyn  y  McCARTY,  Willard  (eds.)  Collaborative
-Research in the Digital Humanities. Londres: Ashgate, 2012. DEL BOSQUE GONZÁLEZ, Isabel et alii. Los
-sistemas de información geográfica y la investigación en Ciencias Humanas y Sociales. Madrid: CECEL-
-CSIC, 2012. ECO, Umberto. Cómo se hace una tesis: técnicas y procedimientos de estudio investigación
-y   escritura.   Barcelona:   Gedisa,  1983.  ECO,  Umberto.  Obra  abierta.  Barcelona:  Ariel,  1979.  FREIXA,
-Mireia.   “La   historia   del   arte   como  historia.  Las  técnicas  de  investigación  y  el  problema  de  las
-fuentes”.   En:   Introducción  a  la  Historia  del  Arte.  Barcelona:  Barcanova,  1991,  pp.  61-87.  FONTANA,
-Josep.   La   historia   de   los   hombres.  Barcelona:  Crítica,  2001.  GENERELO,  Juan  José,  MORENO  LOPEZ,
-Angeles.   Historia   de   los   Archivos   y  de  la  Archivística  en  España.  Valladolid:Universidad,  1998.
-GENET,   Jean,   L'atelier   d'Alberto   Giacometti,   París,   Gallimard,   2007  HEREDIA  HERRERA,  Antonia.
-Archivística General. Teoría y Práctica. Sevilla: Servicio de Publicaciones de la Diputación, 71995.
-HOFFMANN,   Jens,   The   Studio.  Whitechapel:  Documents  of  Contemporary  Art,  Cambridge,  MA,  MIT  Press,
-2012   KUHN,   Thomas.   La   estructura   de   las   revoluciones   científicas.   México:   Fondo  de  Cultura
-Económica,   2006.   LAFUENTE   FERRARI,   E.  La  fundamentación  y  los  problemas  de  la  historia  del  arte.
-Madrid:   Instituto   de   España,   1985.   LANDER,   Edgardo.  La  colonialidad  del  saber.  Eurocentrismo  y
-ciencias   sociales.  Buenos  Aires:  CLACSO,  2000.  LASSO  DE  LA  VEGA  Y  JIMÉNEZ  PLACER,  Javier.  Manual  de
-documentación:   las   técnicas   para   la   investigación   y  redacción  de  los  trabajos  científicos  y  de
-ingeniería.   Barcelona:   Labor,   1969.   LÓPEZ   YEPES,  José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).
-Manual   de   Ciencias   de   la   Información   y   Documentación  .  Madrid:  Pirámide,  2011  MARTÍN  ABAD,  J.
-Manuscritos    españoles.    Guía   de   catálogos   impresos.   Madrid,   1989.   MIRZOEFF,   Nicholas.   Una
-introducción   a   la   cultura   visual.   Barcelona:   Paidós.  PEPPIATT,  Michael,  BELLONY-REWALD,  Alice,
-Imagination's   Chamber:   Artist's   Studios,   London,  Gordon  Fraser,  1983  PERÉX  AGORRETA,  María  Jesús
-(coord.). Métodos y Técnicas de Investigación Histórica I. Madrid: Universidad Nacional de Educación
-a   Distancia,   2012.   PLAZA   BORES,  Ángel  de  la.  Archivo  General  de  Simancas:  Guía  del  investigador.
-Madrid:   Dirección   de   Archivos   Estatales,   1992.   PORTA,   Eduard;  MONTSERRAT,  Rosa  María;  MORRAL,
-Eulalia.   Sistema   de   documentación  para  museos.  Barcelona:  Generalitat  de  Catalunya;  International
-Council   of  Museums,  1982.  PRYOR,  Graham  (ed.)  Managing  Research  Data.  Londres:  Facet,  2012.  SÁNCHEZ
-MUÑOZ,   David.   Cómo   catalogar   obras   de  arte  y  otros  objetos  artísticos.  Valencia:  Universidad  de
-Valencia,   2016.   SIERRA   BRAVO,  Restituto.  Tesis  doctorales  y  trabajos  de  investigación  científica:
-metodología general de su elaboración y documentación. Madrid: Paraninfo, 1996
-
-CACHEDA SEIJO, Fidel; FERNÁNDEZ LUNA, Juan Manuel y HUETE GUADIX, Juan multidisciplinar. Madrid: Ra-
-Ma,   2011   →   BIBLIOGRAFÍA   FUNDAMENTAL:   AA.   VV.   Guía   del  investigador  de  los  archivos  estatales
-españoles. Madrid, 1984. AA. VV. Catalogación del Patrimonio Histórico. Sevilla: IAPH, 1996. ALMANSA
-MORENO,   José   Manuel  (coord.).  La  Literatura  como  fuente  para  la  Historia  del  Arte.  Investigación  y
-difusión   desde   una   perspectiva  interdisciplinar.  Jaén:  Universidad  de  Jaén,  2019.  BLAZWICK,  Iwona
-(ed.), ADES, Dawn, NASAR, Hammad, A Century of the Artist’s Studio: 1920 – 2020, London, Whitechapel
-Gallery,   2022   ANTAL,   F.   “Comentarios   sobre  el  método  de  la  historia  del  arte”.  En:  Clasicismo  y
-romanticismo.   Madrid:   Alberto   Corazón,   1978.  CACHEDA  SEIJO,  Fidel;  FERNÁNDEZ  LUNA,  Juan  Manuel  y
-HUETE    GUADIX,    Juan   Francisco   (eds.).   Recuperación   de   información.   Un   enfoque   práctico   y
-multidisciplinar.   Madrid:   Ra-Ma,  2011.  CARRION  GUTIEZ,  Manuel  (Coautor).  Hemerotecas:  aportaciones
-al   estudio  y  tratamiento  de  publicaciones  periódicas.  Murcia:  ANABAD  Región  de  Murcia  1995  CAPPOCK,
-Margarita,   Francis   Bacon’s   Studio.   Londres,  Merrell,  2006  CASADO  QUINTANILLA,  Blas.  Paleografía.
-Nociones   básicas   para   leer  documentos  conservados  en  los  archivos  históricos.  Madrid:  CECEL-CSIC,
-2013.   CORTÉS   ALONSO,  Vicenta.  Manual  de  Archivos  Municipales.  Madrid,  ANABAD,  1982.  CORTÉS  ALONSO,
-Vicenta.   La   escritura   y  lo  escrito.  Paleografía  y  diplomática  de  España  e  Hispanoamérica.  Madrid,
-1986.   CRESPO,   Begoña,   LAREO,   Inés   y   MOSKOWICH-SPIEGEL,   Isabel   (eds.)  La  mujer  en  la  ciencia:
-historia de una desigualdad. Münich: LINCOM, 2011. CRUZ, Manuel (Comp.) Hacia dónde va el pasado: el
-porvenir   de   la  memoria  en  el  mundo  contemporáneo.  Barcelona:  Paidós,  2002.  CRUZ,  Manuel.  Las  malas
-pasadas   del   pasado.   Identidad,  responsabilidad,  historia.  Barcelona:  Anagrama,  2005.  CRUZ  MUNDET,
-José   Ramón.   Manual  de  archivística.  Madrid:  Fundación  Germán  Sánchez  Ruipérez;  Pirámide,  51996.  DE
-SALAZAR   Y   ACHA,   Jaime.   La   genealogía.   Ciencia  instrumental  y  técnica  de  investigación.  Madrid:
-CECEL-CSIC,   2010.   DEGAN,   Marilyn   y  McCARTY,  Willard  (eds.)  Collaborative  Research  in  the  Digital
-Humanities. Londres: Ashgate, 2012. DEL BOSQUE GONZÁLEZ, Isabel et alii. Los sistemas de información
-geográfica   y   la   investigación   en   Ciencias   Humanas   y   Sociales.  Madrid:  CECEL-CSIC,  2012.  ECO,
-Umberto.   Cómo   se   hace   una  tesis:  técnicas  y  procedimientos  de  estudio  investigación  y  escritura.
-Barcelona:   Gedisa,   1983.   ECO,   Umberto.  Obra  abierta.  Barcelona:  Ariel,  1979.  FREIXA,  Mireia.  “La
-historia   del   arte   como  historia.  Las  técnicas  de  investigación  y  el  problema  de  las  fuentes”.  En:
-Introducción   a   la   Historia   del   Arte.   Barcelona:  Barcanova,  1991,  pp.  61-87.  FONTANA,  Josep.  La
-historia   de   los   hombres.   Barcelona:   Crítica,   2001.  GENERELO,  Juan  José,  MORENO  LOPEZ,  Angeles.
-Historia   de  los  Archivos  y  de  la  Archivística  en  España.  Valladolid:Universidad,  1998.  GENET,  Jean,
-L'atelier   d'Alberto   Giacometti,   París,   Gallimard,   2007   HEREDIA   HERRERA,  Antonia.  Archivística
-General.   Teoría   y   Práctica.  Sevilla:  Servicio  de  Publicaciones  de  la  Diputación,  71995.  HOFFMANN,
-Jens,   The   Studio.  Whitechapel:  Documents  of  Contemporary  Art,  Cambridge,  MA,  MIT  Press,  2012  KUHN,
-Thomas.   La   estructura   de   las  revoluciones  científicas.  México:  Fondo  de  Cultura  Económica,  2006.
-LAFUENTE FERRARI, E. La fundamentación y los problemas de la historia del arte. Madrid: Instituto de
-España,   1985.  LANDER,  Edgardo.  La  colonialidad  del  saber.  Eurocentrismo  y  ciencias  sociales.  Buenos
-Aires:   CLACSO,   2000.   LASSO   DE   LA   VEGA   Y   JIMÉNEZ  PLACER,  Javier.  Manual  de  documentación:  las
-técnicas   para   la  investigación  y  redacción  de  los  trabajos  científicos  y  de  ingeniería.  Barcelona:
-Labor,   1969.   LÓPEZ   YEPES,  José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).  Manual  de  Ciencias  de  la
-Información   y  Documentación  .  Madrid:  Pirámide,  2011  MARTÍN  ABAD,  J.  Manuscritos  españoles.  Guía  de
-catálogos   impresos.   Madrid,   1989.   MIRZOEFF,   Nicholas.   Una   introducción   a   la  cultura  visual.
-Barcelona:   Paidós.   PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,   Imagination's   Chamber:   Artist's
-Studios,   London,   Gordon   Fraser,   1983  PERÉX  AGORRETA,  María  Jesús  (coord.).  Métodos  y  Técnicas  de
-Investigación Histórica I. Madrid: Universidad Nacional de Educación a Distancia, 2012. PLAZA BORES,
-Ángel   de   la.   Archivo   General   de   Simancas:  Guía  del  investigador.  Madrid:  Dirección  de  Archivos
-Estatales,   1992.   PORTA,   Eduard;  MONTSERRAT,  Rosa  María;  MORRAL,  Eulalia.  Sistema  de  documentación
-para   museos.   Barcelona:   Generalitat   de  Catalunya;  International  Council  of  Museums,  1982.  PRYOR,
-Graham   (ed.)   Managing   Research   Data.   Londres:  Facet,  2012.  SÁNCHEZ  MUÑOZ,  David.  Cómo  catalogar
-obras   de   arte   y   otros  objetos  artísticos.  Valencia:  Universidad  de  Valencia,  2016.  SIERRA  BRAVO,
-Restituto.   Tesis   doctorales   y   trabajos   de   investigación   científica:  metodología  general  de  su
-elaboración y documentación. Madrid: Paraninfo, 1996
-
-BLAZWICK,   Iwona   (ed.),   ADES,   Dawn,  NASAR,  Hammad,  A  Century  of  the  Artist’s  Studio:  1920  –  2020,
-London,   Whitechapel   Gallery,  2022  ANTAL,  F.  “Comentarios  sobre  el  método  de  la  historia  del  arte”.
-En:   Clasicismo   y   romanticismo.   Madrid:   Alberto   Corazón,  1978  →  ANTAL,  F.  “Comentarios  sobre  el
-método de la historia del arte”. En: Clasicismo y romanticismo. Madrid: Alberto Corazón, 1978
-
-PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,  Imagination's  Chamber:  Artist's  Studios,  London,  Gordon
-Fraser,   1983  PERÉX  AGORRETA,  María  Jesús  (coord.).  Métodos  y  Técnicas  de  Investigación  Histórica  I.
-Madrid:   Universidad   Nacional   de   Educación   a  Distancia,  2012  →  BIBLIOGRAFÍA  FUNDAMENTAL:  AA.  VV.
-Guía   del   investigador   de  los  archivos  estatales  españoles.  Madrid,  1984.  AA.  VV.  Catalogación  del
-Patrimonio   Histórico.  Sevilla:  IAPH,  1996.  ALMANSA  MORENO,  José  Manuel  (coord.).  La  Literatura  como
-fuente   para   la  Historia  del  Arte.  Investigación  y  difusión  desde  una  perspectiva  interdisciplinar.
-Jaén:   Universidad  de  Jaén,  2019.  BLAZWICK,  Iwona  (ed.),  ADES,  Dawn,  NASAR,  Hammad,  A  Century  of  the
-Artist’s   Studio:   1920   –   2020,   London,  Whitechapel  Gallery,  2022  ANTAL,  F.  “Comentarios  sobre  el
-método   de   la   historia   del   arte”.   En:  Clasicismo  y  romanticismo.  Madrid:  Alberto  Corazón,  1978.
-CACHEDA   SEIJO,   Fidel;   FERNÁNDEZ   LUNA,   Juan   Manuel   y   HUETE   GUADIX,   Juan   Francisco   (eds.).
-Recuperación   de   información.   Un  enfoque  práctico  y  multidisciplinar.  Madrid:  Ra-Ma,  2011.  CARRION
-GUTIEZ,   Manuel   (Coautor).   Hemerotecas:   aportaciones   al   estudio   y  tratamiento  de  publicaciones
-periódicas.   Murcia:   ANABAD   Región   de   Murcia   1995   CAPPOCK,   Margarita,  Francis  Bacon’s  Studio.
-Londres,   Merrell,  2006  CASADO  QUINTANILLA,  Blas.  Paleografía.  Nociones  básicas  para  leer  documentos
-conservados   en  los  archivos  históricos.  Madrid:  CECEL-CSIC,  2013.  CORTÉS  ALONSO,  Vicenta.  Manual  de
-Archivos   Municipales.   Madrid,   ANABAD,   1982.   CORTÉS   ALONSO,  Vicenta.  La  escritura  y  lo  escrito.
-Paleografía   y   diplomática   de  España  e  Hispanoamérica.  Madrid,  1986.  CRESPO,  Begoña,  LAREO,  Inés  y
-MOSKOWICH-SPIEGEL,   Isabel   (eds.)   La   mujer   en   la   ciencia:  historia  de  una  desigualdad.  Münich:
-LINCOM,   2011.   CRUZ,  Manuel  (Comp.)  Hacia  dónde  va  el  pasado:  el  porvenir  de  la  memoria  en  el  mundo
-contemporáneo.   Barcelona:   Paidós,   2002.   CRUZ,   Manuel.   Las  malas  pasadas  del  pasado.  Identidad,
-responsabilidad,    historia.    Barcelona:   Anagrama,   2005.   CRUZ   MUNDET,   José   Ramón.   Manual   de
-archivística.   Madrid:  Fundación  Germán  Sánchez  Ruipérez;  Pirámide,  51996.  DE  SALAZAR  Y  ACHA,  Jaime.
-La   genealogía.   Ciencia   instrumental   y  técnica  de  investigación.  Madrid:  CECEL-CSIC,  2010.  DEGAN,
-Marilyn   y   McCARTY,   Willard   (eds.)   Collaborative   Research   in   the  Digital  Humanities.  Londres:
-Ashgate,   2012.   DEL   BOSQUE   GONZÁLEZ,   Isabel  et  alii.  Los  sistemas  de  información  geográfica  y  la
-investigación   en   Ciencias  Humanas  y  Sociales.  Madrid:  CECEL-CSIC,  2012.  ECO,  Umberto.  Cómo  se  hace
-una   tesis:  técnicas  y  procedimientos  de  estudio  investigación  y  escritura.  Barcelona:  Gedisa,  1983.
-ECO,   Umberto.   Obra   abierta.   Barcelona:   Ariel,   1979.  FREIXA,  Mireia.  “La  historia  del  arte  como
-historia.   Las   técnicas   de   investigación   y   el   problema   de  las  fuentes”.  En:  Introducción  a  la
-Historia   del   Arte.   Barcelona:   Barcanova,   1991,   pp.   61-87.   FONTANA,  Josep.  La  historia  de  los
-hombres.   Barcelona:   Crítica,   2001.   GENERELO,   Juan   José,  MORENO  LOPEZ,  Angeles.  Historia  de  los
-Archivos   y   de   la   Archivística   en   España.   Valladolid:Universidad,  1998.  GENET,  Jean,  L'atelier
-d'Alberto   Giacometti,  París,  Gallimard,  2007  HEREDIA  HERRERA,  Antonia.  Archivística  General.  Teoría
-y   Práctica.  Sevilla:  Servicio  de  Publicaciones  de  la  Diputación,  71995.  HOFFMANN,  Jens,  The  Studio.
-Whitechapel:   Documents   of   Contemporary   Art,   Cambridge,   MA,   MIT   Press,   2012  KUHN,  Thomas.  La
-estructura   de   las   revoluciones   científicas.   México:   Fondo  de  Cultura  Económica,  2006.  LAFUENTE
-FERRARI,   E.  La  fundamentación  y  los  problemas  de  la  historia  del  arte.  Madrid:  Instituto  de  España,
-1985.   LANDER,   Edgardo.  La  colonialidad  del  saber.  Eurocentrismo  y  ciencias  sociales.  Buenos  Aires:
-CLACSO,   2000.  LASSO  DE  LA  VEGA  Y  JIMÉNEZ  PLACER,  Javier.  Manual  de  documentación:  las  técnicas  para
-la   investigación   y   redacción  de  los  trabajos  científicos  y  de  ingeniería.  Barcelona:  Labor,  1969.
-LÓPEZ   YEPES,   José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).  Manual  de  Ciencias  de  la  Información  y
-Documentación   .   Madrid:   Pirámide,   2011   MARTÍN  ABAD,  J.  Manuscritos  españoles.  Guía  de  catálogos
-impresos. Madrid, 1989. MIRZOEFF, Nicholas. Una introducción a la cultura visual. Barcelona: Paidós.
-PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,  Imagination's  Chamber:  Artist's  Studios,  London,  Gordon
-Fraser,   1983  PERÉX  AGORRETA,  María  Jesús  (coord.).  Métodos  y  Técnicas  de  Investigación  Histórica  I.
-Madrid:   Universidad   Nacional   de   Educación   a   Distancia,  2012.  PLAZA  BORES,  Ángel  de  la.  Archivo
-General   de   Simancas:   Guía  del  investigador.  Madrid:  Dirección  de  Archivos  Estatales,  1992.  PORTA,
-Eduard;   MONTSERRAT,   Rosa   María;  MORRAL,  Eulalia.  Sistema  de  documentación  para  museos.  Barcelona:
-Generalitat   de   Catalunya;   International   Council   of   Museums,  1982.  PRYOR,  Graham  (ed.)  Managing
-Research   Data.   Londres:   Facet,   2012.   SÁNCHEZ  MUÑOZ,  David.  Cómo  catalogar  obras  de  arte  y  otros
-objetos   artísticos.   Valencia:   Universidad   de   Valencia,   2016.   SIERRA   BRAVO,   Restituto.  Tesis
-doctorales   y   trabajos   de   investigación   científica:   metodología   general   de   su   elaboración  y
-documentación. Madrid: Paraninfo, 1996
-
-FERRAROTTI,   Franco   Histoire   et   histories   de   vie.   La   méthode   biographique  dans  les  sciencies
-sociales.   París:   Librairie   de   Meridiens,   1983  GALLO  LEÓN,  J.  P.  Bibliotecas  españolas:  Guía  del
-usuario.   Madrid,   Alianza,   2002   →   GALLO   LEÓN,   J.   P.   Bibliotecas  españolas:  Guía  del  usuario.
-Madrid, Alianza, 2002
-
-HOFFMANN,   Jens,   The   Studio.  Whitechapel:  Documents  of  Contemporary  Art,  Cambridge,  MA,  MIT  Press,
-2012   KUHN,   Thomas.   La   estructura   de   las   revoluciones   científicas.   México:   Fondo  de  Cultura
-Económica,   2006   →   HOFFMANN,   Jens,   The   Studio.   Whitechapel:   Documents   of   Contemporary   Art,
-Cambridge, MA, MIT Press, 2012
-
-GENET,   Jean,   L'atelier   d'Alberto   Giacometti,   París,   Gallimard,   2007  HEREDIA  HERRERA,  Antonia.
-Archivística   General.   Teoría   y   Práctica.   Sevilla   →   BIBLIOGRAFÍA  FUNDAMENTAL:  AA.  VV.  Guía  del
-investigador   de  los  archivos  estatales  españoles.  Madrid,  1984.  AA.  VV.  Catalogación  del  Patrimonio
-Histórico. Sevilla: IAPH, 1996. ALMANSA MORENO, José Manuel (coord.). La Literatura como fuente para
-la   Historia   del   Arte.   Investigación   y   difusión   desde   una  perspectiva  interdisciplinar.  Jaén:
-Universidad   de   Jaén,   2019.   BLAZWICK,   Iwona   (ed.),   ADES,  Dawn,  NASAR,  Hammad,  A  Century  of  the
-Artist’s   Studio:   1920   –   2020,   London,  Whitechapel  Gallery,  2022  ANTAL,  F.  “Comentarios  sobre  el
-método   de   la   historia   del   arte”.   En:  Clasicismo  y  romanticismo.  Madrid:  Alberto  Corazón,  1978.
-CACHEDA   SEIJO,   Fidel;   FERNÁNDEZ   LUNA,   Juan   Manuel   y   HUETE   GUADIX,   Juan   Francisco   (eds.).
-Recuperación   de   información.   Un  enfoque  práctico  y  multidisciplinar.  Madrid:  Ra-Ma,  2011.  CARRION
-GUTIEZ,   Manuel   (Coautor).   Hemerotecas:   aportaciones   al   estudio   y  tratamiento  de  publicaciones
-periódicas.   Murcia:   ANABAD   Región   de   Murcia   1995   CAPPOCK,   Margarita,  Francis  Bacon’s  Studio.
-Londres,   Merrell,  2006  CASADO  QUINTANILLA,  Blas.  Paleografía.  Nociones  básicas  para  leer  documentos
-conservados   en  los  archivos  históricos.  Madrid:  CECEL-CSIC,  2013.  CORTÉS  ALONSO,  Vicenta.  Manual  de
-Archivos   Municipales.   Madrid,   ANABAD,   1982.   CORTÉS   ALONSO,  Vicenta.  La  escritura  y  lo  escrito.
-Paleografía   y   diplomática   de  España  e  Hispanoamérica.  Madrid,  1986.  CRESPO,  Begoña,  LAREO,  Inés  y
-MOSKOWICH-SPIEGEL,   Isabel   (eds.)   La   mujer   en   la   ciencia:  historia  de  una  desigualdad.  Münich:
-LINCOM,   2011.   CRUZ,  Manuel  (Comp.)  Hacia  dónde  va  el  pasado:  el  porvenir  de  la  memoria  en  el  mundo
-contemporáneo.   Barcelona:   Paidós,   2002.   CRUZ,   Manuel.   Las  malas  pasadas  del  pasado.  Identidad,
-responsabilidad,    historia.    Barcelona:   Anagrama,   2005.   CRUZ   MUNDET,   José   Ramón.   Manual   de
-archivística.   Madrid:  Fundación  Germán  Sánchez  Ruipérez;  Pirámide,  51996.  DE  SALAZAR  Y  ACHA,  Jaime.
-La   genealogía.   Ciencia   instrumental   y  técnica  de  investigación.  Madrid:  CECEL-CSIC,  2010.  DEGAN,
-Marilyn   y   McCARTY,   Willard   (eds.)   Collaborative   Research   in   the  Digital  Humanities.  Londres:
-Ashgate,   2012.   DEL   BOSQUE   GONZÁLEZ,   Isabel  et  alii.  Los  sistemas  de  información  geográfica  y  la
-investigación   en   Ciencias  Humanas  y  Sociales.  Madrid:  CECEL-CSIC,  2012.  ECO,  Umberto.  Cómo  se  hace
-una   tesis:  técnicas  y  procedimientos  de  estudio  investigación  y  escritura.  Barcelona:  Gedisa,  1983.
-ECO,   Umberto.   Obra   abierta.   Barcelona:   Ariel,   1979.  FREIXA,  Mireia.  “La  historia  del  arte  como
-historia.   Las   técnicas   de   investigación   y   el   problema   de  las  fuentes”.  En:  Introducción  a  la
-Historia   del   Arte.   Barcelona:   Barcanova,   1991,   pp.   61-87.   FONTANA,  Josep.  La  historia  de  los
-hombres.   Barcelona:   Crítica,   2001.   GENERELO,   Juan   José,  MORENO  LOPEZ,  Angeles.  Historia  de  los
-Archivos   y   de   la   Archivística   en   España.   Valladolid:Universidad,  1998.  GENET,  Jean,  L'atelier
-d'Alberto   Giacometti,  París,  Gallimard,  2007  HEREDIA  HERRERA,  Antonia.  Archivística  General.  Teoría
-y   Práctica.  Sevilla:  Servicio  de  Publicaciones  de  la  Diputación,  71995.  HOFFMANN,  Jens,  The  Studio.
-Whitechapel:   Documents   of   Contemporary   Art,   Cambridge,   MA,   MIT   Press,   2012  KUHN,  Thomas.  La
-estructura   de   las   revoluciones   científicas.   México:   Fondo  de  Cultura  Económica,  2006.  LAFUENTE
-FERRARI,   E.  La  fundamentación  y  los  problemas  de  la  historia  del  arte.  Madrid:  Instituto  de  España,
-1985.   LANDER,   Edgardo.  La  colonialidad  del  saber.  Eurocentrismo  y  ciencias  sociales.  Buenos  Aires:
-CLACSO,   2000.  LASSO  DE  LA  VEGA  Y  JIMÉNEZ  PLACER,  Javier.  Manual  de  documentación:  las  técnicas  para
-la   investigación   y   redacción  de  los  trabajos  científicos  y  de  ingeniería.  Barcelona:  Labor,  1969.
-LÓPEZ   YEPES,   José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).  Manual  de  Ciencias  de  la  Información  y
-Documentación   .   Madrid:   Pirámide,   2011   MARTÍN  ABAD,  J.  Manuscritos  españoles.  Guía  de  catálogos
-impresos. Madrid, 1989. MIRZOEFF, Nicholas. Una introducción a la cultura visual. Barcelona: Paidós.
-PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,  Imagination's  Chamber:  Artist's  Studios,  London,  Gordon
-Fraser,   1983  PERÉX  AGORRETA,  María  Jesús  (coord.).  Métodos  y  Técnicas  de  Investigación  Histórica  I.
-Madrid:   Universidad   Nacional   de   Educación   a   Distancia,  2012.  PLAZA  BORES,  Ángel  de  la.  Archivo
-General   de   Simancas:   Guía  del  investigador.  Madrid:  Dirección  de  Archivos  Estatales,  1992.  PORTA,
-Eduard;   MONTSERRAT,   Rosa   María;  MORRAL,  Eulalia.  Sistema  de  documentación  para  museos.  Barcelona:
-Generalitat   de   Catalunya;   International   Council   of   Museums,  1982.  PRYOR,  Graham  (ed.)  Managing
-Research   Data.   Londres:   Facet,   2012.   SÁNCHEZ  MUÑOZ,  David.  Cómo  catalogar  obras  de  arte  y  otros
-objetos   artísticos.   Valencia:   Universidad   de   Valencia,   2016.   SIERRA   BRAVO,   Restituto.  Tesis
-doctorales   y   trabajos   de   investigación   científica:   metodología   general   de   su   elaboración  y
-documentación. Madrid: Paraninfo, 1996
-
-CARRION    GUTIEZ,    Manuel    (Coautor).   Hemerotecas:   aportaciones   al   estudio   y   tratamiento   de
-publicaciones   periódicas.   Murcia:  ANABAD  Región  de  Murcia  1995  CAPPOCK,  Margarita,  Francis  Bacon’s
-Studio.   Londres,   Merrell,   2006   CASADO  QUINTANILLA,  Blas.  Paleografía.  Nociones  básicas  para  leer
-documentos   conservados   en   los   archivos   históricos.   Madrid:   CECEL-CSIC,   2013   →   BIBLIOGRAFÍA
-FUNDAMENTAL:   AA.   VV.   Guía  del  investigador  de  los  archivos  estatales  españoles.  Madrid,  1984.  AA.
-VV.   Catalogación   del   Patrimonio   Histórico.   Sevilla:   IAPH,   1996.   ALMANSA   MORENO,  José  Manuel
-(coord.).   La   Literatura   como  fuente  para  la  Historia  del  Arte.  Investigación  y  difusión  desde  una
-perspectiva   interdisciplinar.   Jaén:   Universidad  de  Jaén,  2019.  BLAZWICK,  Iwona  (ed.),  ADES,  Dawn,
-NASAR,   Hammad,   A   Century   of   the  Artist’s  Studio:  1920  –  2020,  London,  Whitechapel  Gallery,  2022
-ANTAL,   F.   “Comentarios   sobre   el   método  de  la  historia  del  arte”.  En:  Clasicismo  y  romanticismo.
+BIBLIOGRAFÍA FUNDAMENTAL: AA. VV. Guía del investigador de los archivos estatales españoles. Madrid,
+1984.   AA.   VV.   Catalogación   del   Patrimonio   Histórico.  Sevilla:  IAPH,  1996.  ALMANSA  MORENO,  José
+Manuel (coord.). La Literatura como fuente para la Historia del Arte. Investigación y difusión desde
+una   perspectiva   interdisciplinar.   Jaén:   Universidad   de  Jaén,  2019.  BLAZWICK,  Iwona  (ed.),  ADES,
+Dawn,   NASAR,   Hammad,   A   Century  of  the  Artist’s  Studio:  1920  –  2020,  London,  Whitechapel  Gallery,
+2022 ANTAL, F. “Comentarios sobre el método de la historia del arte”. En: Clasicismo y romanticismo.
 Madrid:   Alberto   Corazón,   1978.   CACHEDA  SEIJO,  Fidel;  FERNÁNDEZ  LUNA,  Juan  Manuel  y  HUETE  GUADIX,
 Juan   Francisco  (eds.).  Recuperación  de  información.  Un  enfoque  práctico  y  multidisciplinar.  Madrid:
 Ra-Ma, 2011. CARRION GUTIEZ, Manuel (Coautor). Hemerotecas: aportaciones al estudio y tratamiento de
@@ -439,13 +91,240 @@ objetos   artísticos.   Valencia:   Universidad   de   Valencia,   2016.   SIER
 doctorales   y   trabajos   de   investigación   científica:   metodología   general   de   su   elaboración  y
 documentación. Madrid: Paraninfo, 1996
 
-✅ Recursos añadidos:
-------------------------------
-BLAZWICK,   Iwona   (ed.),   ADES,   Dawn,  NASAR,  Hammad,  A  Century  of  the  Artist’s  Studio:  1920  –  2020,
-London, Whitechapel Gallery, 2022
-
 CACHEDA   SEIJO,   Fidel;   FERNÁNDEZ   LUNA,   Juan   Manuel   y   HUETE   GUADIX,   Juan   Francisco   (eds.).
 Recuperación de información. Un enfoque práctico y multidisciplinar. Madrid: Ra-Ma, 2011
+
+CORTÉS   ALONSO,   Vicenta.   La   escritura   y   lo   escrito.   Paleografía   y   diplomática   de   España  e
+Hispanoamérica. Madrid, 1986
+
+CORTÉS ALONSO, Vicenta. Manual de Archivos Municipales. Madrid, ANABAD, 1982
+
+CRESPO,   Begoña,   LAREO,  Inés  y  MOSKOWICH-SPIEGEL,  Isabel  (eds.)  La  mujer  en  la  ciencia:  historia  de
+una desigualdad. Münich: LINCOM, 2011
+
+CRUZ   MUNDET,   José   Ramón.   Manual   de   archivística.   Madrid:   Fundación   Germán  Sánchez  Ruipérez;
+Pirámide, 51996
+
+CRUZ,   Manuel  (Comp.)  Hacia  dónde  va  el  pasado:  el  porvenir  de  la  memoria  en  el  mundo  contemporáneo.
+Barcelona: Paidós, 2002
+
+CRUZ,   Manuel.   Las   malas   pasadas   del   pasado.   Identidad,   responsabilidad,  historia.  Barcelona:
+Anagrama, 2005
+
+DE   SALAZAR   Y   ACHA,  Jaime.  La  genealogía.  Ciencia  instrumental  y  técnica  de  investigación.  Madrid:
+CECEL-CSIC, 2010
+
+DEGAN,   Marilyn  y  McCARTY,  Willard  (eds.)  Collaborative  Research  in  the  Digital  Humanities.  Londres:
+Ashgate, 2012
+
+DEL   BOSQUE   GONZÁLEZ,   Isabel  et  alii.  Los  sistemas  de  información  geográfica  y  la  investigación  en
+Ciencias Humanas y Sociales. Madrid: CECEL-CSIC, 2012
+
+ECO,   Umberto.   Cómo   se   hace   una   tesis:   técnicas   y   procedimientos   de  estudio  investigación  y
+escritura. Barcelona: Gedisa, 1983
+
+ECO, Umberto. Obra abierta. Barcelona: Ariel, 1979
+
+FONTANA, Josep. La historia de los hombres. Barcelona: Crítica, 2001
+
+FREIXA,   Mireia.  “La  historia  del  arte  como  historia.  Las  técnicas  de  investigación  y  el  problema  de
+las fuentes”. En: Introducción a la Historia del Arte. Barcelona: Barcanova, 1991, pp. 61-87
+
+GENERELO, Juan José, MORENO LOPEZ, Angeles. Historia de los Archivos y de la Archivística en España.
+Valladolid:Universidad, 1998
+
+GENET,   Jean,   L'atelier   d'Alberto   Giacometti,   París,   Gallimard,   2007  HEREDIA  HERRERA,  Antonia.
+Archivística General. Teoría y Práctica. Sevilla: Servicio de Publicaciones de la Diputación, 71995
+
+LAFUENTE FERRARI, E. La fundamentación y los problemas de la historia del arte. Madrid: Instituto de
+España, 1985
+
+LANDER, Edgardo. La colonialidad del saber. Eurocentrismo y ciencias sociales. Buenos Aires: CLACSO,
+2000
+
+LASSO   DE   LA   VEGA   Y   JIMÉNEZ   PLACER,   Javier.   Manual   de   documentación:   las   técnicas  para  la
+investigación y redacción de los trabajos científicos y de ingeniería. Barcelona: Labor, 1969
+
+MIRZOEFF, Nicholas. Una introducción a la cultura visual. Barcelona: Paidós
+
+PORTA,   Eduard;   MONTSERRAT,   Rosa   María;   MORRAL,   Eulalia.   Sistema  de  documentación  para  museos.
+Barcelona: Generalitat de Catalunya; International Council of Museums, 1982
+
+PRYOR, Graham (ed.) Managing Research Data. Londres: Facet, 2012
+
+SÁNCHEZ MUÑOZ, David. Cómo catalogar obras de arte y otros objetos artísticos. Valencia: Universidad
+de Valencia, 2016
+
+✅ Recursos añadidos (32):
+------------------------------
+AA.VV. Guía de las bibliotecas de la Iglesia. Madrid: Conferencia Episcopal Española, 2003
+
+ANTAL,   F.   “Comentarios   sobre   el   método  de  la  historia  del  arte”.  En:  Clasicismo  y  romanticismo.
+Madrid: Alberto Corazón, 1978
+
+BAYARRI   FERRER,   Antonio.   La   CDU   en   el   contexto  de  las  bases  de  datos  documentales:  indización
+automática con descriptores virtuales, asignados a partir del contenido del campo CDU: desarrollo de
+un   prototipo   en   el   sistema   micro-ISIS   de  UNESCO.  Madrid:  Centro  de  Información  y  Documentación
+Científica, 1996
+
+BIBLIOGRAFÍA FUNDAMENTAL: AA. VV. Guía del investigador de los archivos estatales españoles. Madrid,
+1984.   AA.   VV.   Catalogación   del   Patrimonio   Histórico.  Sevilla:  IAPH,  1996.  ALMANSA  MORENO,  José
+Manuel (coord.). La Literatura como fuente para la Historia del Arte. Investigación y difusión desde
+una   perspectiva   interdisciplinar.   Jaén:   Universidad   de  Jaén,  2019.  BLAZWICK,  Iwona  (ed.),  ADES,
+Dawn,   NASAR,   Hammad,   A   Century  of  the  Artist’s  Studio:  1920  –  2020,  London,  Whitechapel  Gallery,
+2022 ANTAL, F. “Comentarios sobre el método de la historia del arte”. En: Clasicismo y romanticismo.
+Madrid:   Alberto   Corazón,   1978.   CACHEDA  SEIJO,  Fidel;  FERNÁNDEZ  LUNA,  Juan  Manuel  y  HUETE  GUADIX,
+Juan   Francisco  (eds.).  Recuperación  de  información.  Un  enfoque  práctico  y  multidisciplinar.  Madrid:
+Ra-Ma, 2011. CARRION GUTIEZ, Manuel (Coautor). Hemerotecas: aportaciones al estudio y tratamiento de
+publicaciones   periódicas.   Murcia:  ANABAD  Región  de  Murcia  1995  CAPPOCK,  Margarita,  Francis  Bacon’s
+Studio.   Londres,   Merrell,   2006   CASADO  QUINTANILLA,  Blas.  Paleografía.  Nociones  básicas  para  leer
+documentos conservados en los archivos históricos. Madrid: CECEL-CSIC, 2013. CORTÉS ALONSO, Vicenta.
+Manual   de   Archivos   Municipales.   Madrid,   ANABAD,  1982.  CORTÉS  ALONSO,  Vicenta.  La  escritura  y  lo
+escrito.   Paleografía  y  diplomática  de  España  e  Hispanoamérica.  Madrid,  1986.  CRESPO,  Begoña,  LAREO,
+Inés y MOSKOWICH-SPIEGEL, Isabel (eds.) La mujer en la ciencia: historia de una desigualdad. Münich:
+LINCOM,   2011.   CRUZ,  Manuel  (Comp.)  Hacia  dónde  va  el  pasado:  el  porvenir  de  la  memoria  en  el  mundo
+contemporáneo.   Barcelona:   Paidós,   2002.   CRUZ,   Manuel.   Las  malas  pasadas  del  pasado.  Identidad,
+responsabilidad,    historia.    Barcelona:   Anagrama,   2005.   CRUZ   MUNDET,   José   Ramón.   Manual   de
+archivística.   Madrid:  Fundación  Germán  Sánchez  Ruipérez;  Pirámide,  51996.  DE  SALAZAR  Y  ACHA,  Jaime.
+La   genealogía.   Ciencia   instrumental   y  técnica  de  investigación.  Madrid:  CECEL-CSIC,  2010.  DEGAN,
+Marilyn   y   McCARTY,   Willard   (eds.)   Collaborative   Research   in   the  Digital  Humanities.  Londres:
+Ashgate,   2012.   DEL   BOSQUE   GONZÁLEZ,   Isabel  et  alii.  Los  sistemas  de  información  geográfica  y  la
+investigación   en   Ciencias  Humanas  y  Sociales.  Madrid:  CECEL-CSIC,  2012.  ECO,  Umberto.  Cómo  se  hace
+una   tesis:  técnicas  y  procedimientos  de  estudio  investigación  y  escritura.  Barcelona:  Gedisa,  1983.
+ECO,   Umberto.   Obra   abierta.   Barcelona:   Ariel,   1979.  FREIXA,  Mireia.  “La  historia  del  arte  como
+historia.   Las   técnicas   de   investigación   y   el   problema   de  las  fuentes”.  En:  Introducción  a  la
+Historia   del   Arte.   Barcelona:   Barcanova,   1991,   pp.   61-87.   FONTANA,  Josep.  La  historia  de  los
+hombres.   Barcelona:   Crítica,   2001.   GENERELO,   Juan   José,  MORENO  LOPEZ,  Angeles.  Historia  de  los
+Archivos   y   de   la   Archivística   en   España.   Valladolid:Universidad,  1998.  GENET,  Jean,  L'atelier
+d'Alberto   Giacometti,  París,  Gallimard,  2007  HEREDIA  HERRERA,  Antonia.  Archivística  General.  Teoría
+y   Práctica.  Sevilla:  Servicio  de  Publicaciones  de  la  Diputación,  71995.  HOFFMANN,  Jens,  The  Studio.
+Whitechapel:   Documents   of   Contemporary   Art,   Cambridge,   MA,   MIT   Press,   2012  KUHN,  Thomas.  La
+estructura   de   las   revoluciones   científicas.   México:   Fondo  de  Cultura  Económica,  2006.  LAFUENTE
+FERRARI,   E.  La  fundamentación  y  los  problemas  de  la  historia  del  arte.  Madrid:  Instituto  de  España,
+1985.   LANDER,   Edgardo.  La  colonialidad  del  saber.  Eurocentrismo  y  ciencias  sociales.  Buenos  Aires:
+CLACSO,   2000.  LASSO  DE  LA  VEGA  Y  JIMÉNEZ  PLACER,  Javier.  Manual  de  documentación:  las  técnicas  para
+la   investigación   y   redacción  de  los  trabajos  científicos  y  de  ingeniería.  Barcelona:  Labor,  1969.
+LÓPEZ   YEPES,   José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).  Manual  de  Ciencias  de  la  Información  y
+Documentación   .   Madrid:   Pirámide,   2011   MARTÍN  ABAD,  J.  Manuscritos  españoles.  Guía  de  catálogos
+impresos. Madrid, 1989. MIRZOEFF, Nicholas. Una introducción a la cultura visual. Barcelona: Paidós.
+PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,  Imagination's  Chamber:  Artist's  Studios,  London,  Gordon
+Fraser,   1983  PERÉX  AGORRETA,  María  Jesús  (coord.).  Métodos  y  Técnicas  de  Investigación  Histórica  I.
+Madrid:   Universidad   Nacional   de   Educación   a   Distancia,  2012.  PLAZA  BORES,  Ángel  de  la.  Archivo
+General   de   Simancas:   Guía  del  investigador.  Madrid:  Dirección  de  Archivos  Estatales,  1992.  PORTA,
+Eduard;   MONTSERRAT,   Rosa   María;  MORRAL,  Eulalia.  Sistema  de  documentación  para  museos.  Barcelona:
+Generalitat   de   Catalunya;   International   Council   of   Museums,  1982.  PRYOR,  Graham  (ed.)  Managing
+Research   Data.   Londres:   Facet,   2012.   SÁNCHEZ  MUÑOZ,  David.  Cómo  catalogar  obras  de  arte  y  otros
+objetos   artísticos.   Valencia:   Universidad   de   Valencia,   2016.   SIERRA   BRAVO,   Restituto.  Tesis
+doctorales   y   trabajos   de   investigación   científica:   metodología   general   de   su   elaboración  y
+documentación. Madrid: Paraninfo, 1996
+
+BIBLIOGRAFÍA FUNDAMENTAL: AA. VV. Guía del investigador de los archivos estatales españoles. Madrid,
+1984.   AA.   VV.   Catalogación   del   Patrimonio   Histórico.  Sevilla:  IAPH,  1996.  ALMANSA  MORENO,  José
+Manuel (coord.). La Literatura como fuente para la Historia del Arte. Investigación y difusión desde
+una   perspectiva   interdisciplinar.   Jaén:   Universidad   de  Jaén,  2019.  BLAZWICK,  Iwona  (ed.),  ADES,
+Dawn,   NASAR,   Hammad,   A   Century  of  the  Artist’s  Studio:  1920  –  2020,  London,  Whitechapel  Gallery,
+2022 ANTAL, F. “Comentarios sobre el método de la historia del arte”. En: Clasicismo y romanticismo.
+Madrid:   Alberto   Corazón,   1978.   CACHEDA  SEIJO,  Fidel;  FERNÁNDEZ  LUNA,  Juan  Manuel  y  HUETE  GUADIX,
+Juan   Francisco  (eds.).  Recuperación  de  información.  Un  enfoque  práctico  y  multidisciplinar.  Madrid:
+Ra-Ma, 2011. CARRION GUTIEZ, Manuel (Coautor). Hemerotecas: aportaciones al estudio y tratamiento de
+publicaciones   periódicas.   Murcia:  ANABAD  Región  de  Murcia  1995  CAPPOCK,  Margarita,  Francis  Bacon’s
+Studio.   Londres,   Merrell,   2006   CASADO  QUINTANILLA,  Blas.  Paleografía.  Nociones  básicas  para  leer
+documentos conservados en los archivos históricos. Madrid: CECEL-CSIC, 2013. CORTÉS ALONSO, Vicenta.
+Manual   de   Archivos   Municipales.   Madrid,   ANABAD,  1982.  CORTÉS  ALONSO,  Vicenta.  La  escritura  y  lo
+escrito.   Paleografía  y  diplomática  de  España  e  Hispanoamérica.  Madrid,  1986.  CRESPO,  Begoña,  LAREO,
+Inés y MOSKOWICH-SPIEGEL, Isabel (eds.) La mujer en la ciencia: historia de una desigualdad. Münich:
+LINCOM,   2011.   CRUZ,  Manuel  (Comp.)  Hacia  dónde  va  el  pasado:  el  porvenir  de  la  memoria  en  el  mundo
+contemporáneo.   Barcelona:   Paidós,   2002.   CRUZ,   Manuel.   Las  malas  pasadas  del  pasado.  Identidad,
+responsabilidad,    historia.    Barcelona:   Anagrama,   2005.   CRUZ   MUNDET,   José   Ramón.   Manual   de
+archivística.   Madrid:  Fundación  Germán  Sánchez  Ruipérez;  Pirámide,  51996.  DE  SALAZAR  Y  ACHA,  Jaime.
+La   genealogía.   Ciencia   instrumental   y  técnica  de  investigación.  Madrid:  CECEL-CSIC,  2010.  DEGAN,
+Marilyn   y   McCARTY,   Willard   (eds.)   Collaborative   Research   in   the  Digital  Humanities.  Londres:
+Ashgate,   2012.   DEL   BOSQUE   GONZÁLEZ,   Isabel  et  alii.  Los  sistemas  de  información  geográfica  y  la
+investigación   en   Ciencias  Humanas  y  Sociales.  Madrid:  CECEL-CSIC,  2012.  ECO,  Umberto.  Cómo  se  hace
+una   tesis:  técnicas  y  procedimientos  de  estudio  investigación  y  escritura.  Barcelona:  Gedisa,  1983.
+ECO,   Umberto.   Obra   abierta.   Barcelona:   Ariel,   1979.  FREIXA,  Mireia.  “La  historia  del  arte  como
+historia.   Las   técnicas   de   investigación   y   el   problema   de  las  fuentes”.  En:  Introducción  a  la
+Historia   del   Arte.   Barcelona:   Barcanova,   1991,   pp.   61-87.   FONTANA,  Josep.  La  historia  de  los
+hombres.   Barcelona:   Crítica,   2001.   GENERELO,   Juan   José,  MORENO  LOPEZ,  Angeles.  Historia  de  los
+Archivos   y   de   la   Archivística   en   España.   Valladolid:Universidad,  1998.  GENET,  Jean,  L'atelier
+d'Alberto   Giacometti,  París,  Gallimard,  2007  HEREDIA  HERRERA,  Antonia.  Archivística  General.  Teoría
+y   Práctica.  Sevilla:  Servicio  de  Publicaciones  de  la  Diputación,  71995.  HOFFMANN,  Jens,  The  Studio.
+Whitechapel:   Documents   of   Contemporary   Art,   Cambridge,   MA,   MIT   Press,   2012  KUHN,  Thomas.  La
+estructura   de   las   revoluciones   científicas.   México:   Fondo  de  Cultura  Económica,  2006.  LAFUENTE
+FERRARI,   E.  La  fundamentación  y  los  problemas  de  la  historia  del  arte.  Madrid:  Instituto  de  España,
+1985.   LANDER,   Edgardo.  La  colonialidad  del  saber.  Eurocentrismo  y  ciencias  sociales.  Buenos  Aires:
+CLACSO,   2000.  LASSO  DE  LA  VEGA  Y  JIMÉNEZ  PLACER,  Javier.  Manual  de  documentación:  las  técnicas  para
+la   investigación   y   redacción  de  los  trabajos  científicos  y  de  ingeniería.  Barcelona:  Labor,  1969.
+LÓPEZ   YEPES,   José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).  Manual  de  Ciencias  de  la  Información  y
+Documentación   .   Madrid:   Pirámide,   2011   MARTÍN  ABAD,  J.  Manuscritos  españoles.  Guía  de  catálogos
+impresos. Madrid, 1989. MIRZOEFF, Nicholas. Una introducción a la cultura visual. Barcelona: Paidós.
+PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,  Imagination's  Chamber:  Artist's  Studios,  London,  Gordon
+Fraser,   1983  PERÉX  AGORRETA,  María  Jesús  (coord.).  Métodos  y  Técnicas  de  Investigación  Histórica  I.
+Madrid:   Universidad   Nacional   de   Educación   a   Distancia,  2012.  PLAZA  BORES,  Ángel  de  la.  Archivo
+General   de   Simancas:   Guía  del  investigador.  Madrid:  Dirección  de  Archivos  Estatales,  1992.  PORTA,
+Eduard;   MONTSERRAT,   Rosa   María;  MORRAL,  Eulalia.  Sistema  de  documentación  para  museos.  Barcelona:
+Generalitat   de   Catalunya;   International   Council   of   Museums,  1982.  PRYOR,  Graham  (ed.)  Managing
+Research   Data.   Londres:   Facet,   2012.   SÁNCHEZ  MUÑOZ,  David.  Cómo  catalogar  obras  de  arte  y  otros
+objetos   artísticos.   Valencia:   Universidad   de   Valencia,   2016.   SIERRA   BRAVO,   Restituto.  Tesis
+doctorales   y   trabajos   de   investigación   científica:   metodología   general   de   su   elaboración  y
+documentación. Madrid: Paraninfo, 1996
+
+BIBLIOGRAFÍA FUNDAMENTAL: AA. VV. Guía del investigador de los archivos estatales españoles. Madrid,
+1984.   AA.   VV.   Catalogación   del   Patrimonio   Histórico.  Sevilla:  IAPH,  1996.  ALMANSA  MORENO,  José
+Manuel (coord.). La Literatura como fuente para la Historia del Arte. Investigación y difusión desde
+una   perspectiva   interdisciplinar.   Jaén:   Universidad   de  Jaén,  2019.  BLAZWICK,  Iwona  (ed.),  ADES,
+Dawn,   NASAR,   Hammad,   A   Century  of  the  Artist’s  Studio:  1920  –  2020,  London,  Whitechapel  Gallery,
+2022 ANTAL, F. “Comentarios sobre el método de la historia del arte”. En: Clasicismo y romanticismo.
+Madrid:   Alberto   Corazón,   1978.   CACHEDA  SEIJO,  Fidel;  FERNÁNDEZ  LUNA,  Juan  Manuel  y  HUETE  GUADIX,
+Juan   Francisco  (eds.).  Recuperación  de  información.  Un  enfoque  práctico  y  multidisciplinar.  Madrid:
+Ra-Ma, 2011. CARRION GUTIEZ, Manuel (Coautor). Hemerotecas: aportaciones al estudio y tratamiento de
+publicaciones   periódicas.   Murcia:  ANABAD  Región  de  Murcia  1995  CAPPOCK,  Margarita,  Francis  Bacon’s
+Studio.   Londres,   Merrell,   2006   CASADO  QUINTANILLA,  Blas.  Paleografía.  Nociones  básicas  para  leer
+documentos conservados en los archivos históricos. Madrid: CECEL-CSIC, 2013. CORTÉS ALONSO, Vicenta.
+Manual   de   Archivos   Municipales.   Madrid,   ANABAD,  1982.  CORTÉS  ALONSO,  Vicenta.  La  escritura  y  lo
+escrito.   Paleografía  y  diplomática  de  España  e  Hispanoamérica.  Madrid,  1986.  CRESPO,  Begoña,  LAREO,
+Inés y MOSKOWICH-SPIEGEL, Isabel (eds.) La mujer en la ciencia: historia de una desigualdad. Münich:
+LINCOM,   2011.   CRUZ,  Manuel  (Comp.)  Hacia  dónde  va  el  pasado:  el  porvenir  de  la  memoria  en  el  mundo
+contemporáneo.   Barcelona:   Paidós,   2002.   CRUZ,   Manuel.   Las  malas  pasadas  del  pasado.  Identidad,
+responsabilidad,    historia.    Barcelona:   Anagrama,   2005.   CRUZ   MUNDET,   José   Ramón.   Manual   de
+archivística.   Madrid:  Fundación  Germán  Sánchez  Ruipérez;  Pirámide,  51996.  DE  SALAZAR  Y  ACHA,  Jaime.
+La   genealogía.   Ciencia   instrumental   y  técnica  de  investigación.  Madrid:  CECEL-CSIC,  2010.  DEGAN,
+Marilyn   y   McCARTY,   Willard   (eds.)   Collaborative   Research   in   the  Digital  Humanities.  Londres:
+Ashgate,   2012.   DEL   BOSQUE   GONZÁLEZ,   Isabel  et  alii.  Los  sistemas  de  información  geográfica  y  la
+investigación   en   Ciencias  Humanas  y  Sociales.  Madrid:  CECEL-CSIC,  2012.  ECO,  Umberto.  Cómo  se  hace
+una   tesis:  técnicas  y  procedimientos  de  estudio  investigación  y  escritura.  Barcelona:  Gedisa,  1983.
+ECO,   Umberto.   Obra   abierta.   Barcelona:   Ariel,   1979.  FREIXA,  Mireia.  “La  historia  del  arte  como
+historia.   Las   técnicas   de   investigación   y   el   problema   de  las  fuentes”.  En:  Introducción  a  la
+Historia   del   Arte.   Barcelona:   Barcanova,   1991,   pp.   61-87.   FONTANA,  Josep.  La  historia  de  los
+hombres.   Barcelona:   Crítica,   2001.   GENERELO,   Juan   José,  MORENO  LOPEZ,  Angeles.  Historia  de  los
+Archivos   y   de   la   Archivística   en   España.   Valladolid:Universidad,  1998.  GENET,  Jean,  L'atelier
+d'Alberto   Giacometti,  París,  Gallimard,  2007  HEREDIA  HERRERA,  Antonia.  Archivística  General.  Teoría
+y   Práctica.  Sevilla:  Servicio  de  Publicaciones  de  la  Diputación,  71995.  HOFFMANN,  Jens,  The  Studio.
+Whitechapel:   Documents   of   Contemporary   Art,   Cambridge,   MA,   MIT   Press,   2012  KUHN,  Thomas.  La
+estructura   de   las   revoluciones   científicas.   México:   Fondo  de  Cultura  Económica,  2006.  LAFUENTE
+FERRARI,   E.  La  fundamentación  y  los  problemas  de  la  historia  del  arte.  Madrid:  Instituto  de  España,
+1985.   LANDER,   Edgardo.  La  colonialidad  del  saber.  Eurocentrismo  y  ciencias  sociales.  Buenos  Aires:
+CLACSO,   2000.  LASSO  DE  LA  VEGA  Y  JIMÉNEZ  PLACER,  Javier.  Manual  de  documentación:  las  técnicas  para
+la   investigación   y   redacción  de  los  trabajos  científicos  y  de  ingeniería.  Barcelona:  Labor,  1969.
+LÓPEZ   YEPES,   José  y  OSUNA  ALARCÓN,  María  Rosario  (coords.).  Manual  de  Ciencias  de  la  Información  y
+Documentación   .   Madrid:   Pirámide,   2011   MARTÍN  ABAD,  J.  Manuscritos  españoles.  Guía  de  catálogos
+impresos. Madrid, 1989. MIRZOEFF, Nicholas. Una introducción a la cultura visual. Barcelona: Paidós.
+PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,  Imagination's  Chamber:  Artist's  Studios,  London,  Gordon
+Fraser,   1983  PERÉX  AGORRETA,  María  Jesús  (coord.).  Métodos  y  Técnicas  de  Investigación  Histórica  I.
+Madrid:   Universidad   Nacional   de   Educación   a   Distancia,  2012.  PLAZA  BORES,  Ángel  de  la.  Archivo
+General   de   Simancas:   Guía  del  investigador.  Madrid:  Dirección  de  Archivos  Estatales,  1992.  PORTA,
+Eduard;   MONTSERRAT,   Rosa   María;  MORRAL,  Eulalia.  Sistema  de  documentación  para  museos.  Barcelona:
+Generalitat   de   Catalunya;   International   Council   of   Museums,  1982.  PRYOR,  Graham  (ed.)  Managing
+Research   Data.   Londres:   Facet,   2012.   SÁNCHEZ  MUÑOZ,  David.  Cómo  catalogar  obras  de  arte  y  otros
+objetos   artísticos.   Valencia:   Universidad   de   Valencia,   2016.   SIERRA   BRAVO,   Restituto.  Tesis
+doctorales   y   trabajos   de   investigación   científica:   metodología   general   de   su   elaboración  y
+documentación. Madrid: Paraninfo, 1996
+
+BIBLIOTECA   DE   ANDALUCÍA   (GRANADA).   Microfichas:   catálogo.   Sevilla:  Dirección  General  de  Bienes
+Culturales, 1994
+
+BLAZWICK,   Iwona   (ed.),   ADES,   Dawn,  NASAR,  Hammad,  A  Century  of  the  Artist’s  Studio:  1920  –  2020,
+London, Whitechapel Gallery, 2022
 
 CAPPOCK, Margarita, Francis Bacon’s Studio. Londres, Merrell, 2006
 
@@ -455,16 +334,20 @@ publicaciones periódicas. Murcia: ANABAD Región de Murcia 1995
 CASADO   QUINTANILLA,   Blas.   Paleografía.   Nociones   básicas  para  leer  documentos  conservados  en  los
 archivos históricos. Madrid: CECEL-CSIC, 2013
 
+CASARES HERVÁS, Manuel. Memoria de los Archivos Diocesanos. Granada: Arzobispado, 1964
+
 FERRAROTTI,   Franco   Histoire   et   histories   de   vie.   La   méthode   biographique  dans  les  sciencies
 sociales. París: Librairie de Meridiens, 1983
 
-FREIXA,   Mireia.  “La  historia  del  arte  como  historia.  Las  técnicas  de  investigación  y  el  problema  de
-las fuentes”. En: Introducción a la Historia del Arte. Barcelona: Barcanova, 1991, pp. 61-87
+GALLO LEÓN, J. P. Archivos españoles: Guía del usuario. Madrid, Alianza, 2002
 
-GENET, Jean, L'atelier d'Alberto Giacometti, París, Gallimard, 2007
+GALLO LEÓN, J. P. Bibliotecas españolas: Guía del usuario. Madrid, Alianza, 2002
 
 HEREDIA    HERRERA,    Antonia.    Archivística   General.   Teoría   y   Práctica.   Sevilla:   Servicio   de
 Publicaciones de la Diputación, 71995
+
+HOFFMANN,   Jens,   The   Studio.  Whitechapel:  Documents  of  Contemporary  Art,  Cambridge,  MA,  MIT  Press,
+2012
 
 KUHN,   Thomas.   La   estructura   de  las  revoluciones  científicas.  México:  Fondo  de  Cultura  Económica,
 2006
@@ -477,7 +360,14 @@ Documentación . Madrid: Pirámide, 2011
 
 MARTÍN ABAD, J. Manuscritos españoles. Guía de catálogos impresos. Madrid, 1989
 
-MIRZOEFF, Nicholas. Una introducción a la cultura visual. Barcelona: Paidós
+MATEU   IBARS,   Josefina.   Bibliografía   de   fuentes   históricas   e   instrumentales  en  bibliotecas  de
+Granada: catálogo colectivo. Granada: Secretariado de Publicaciones de la Universidad, 1972
+
+MIRALLES   I  MONSERRAT,  Joan  La  historia  oral.  Qüestionari  i  Guia  Didàctica.  Palma  de  Mallorca:  Moll,
+1985
+
+NUNBERG,   Geoffrey   (comp.);   ECO,  Umberto  (otros).  El  futuro  del  libro  ¿Esto  matará  eso?  Barcelona:
+Paidós, 1998
 
 PEPPIATT,   Michael,   BELLONY-REWALD,   Alice,  Imagination's  Chamber:  Artist's  Studios,  London,  Gordon
 Fraser, 1983
@@ -485,7 +375,21 @@ Fraser, 1983
 PERÉX   AGORRETA,   María   Jesús   (coord.).   Métodos   y  Técnicas  de  Investigación  Histórica  I.  Madrid:
 Universidad Nacional de Educación a Distancia, 2012
 
+PERÉX   AGORRETA,   María   Jesús   (coord.).   Métodos   y  Técnicas  de  Investigación  Histórica  I.  Madrid:
+Universidad Nacional de Educación a Distancia, 2012
+
+PLAZA   BORES,   Ángel  de  la.  Archivo  General  de  Simancas:  Guía  del  investigador.  Madrid:  Dirección  de
+Archivos Estatales, 1992
+
+RAMÍREZ, Juan Antonio. Cómo escribir sobre arte y arquitectura. Libro de estilo e Introducción a los
+géneros de la crítica y de la historia del arte. Barcelona: Serbal, 1996
+
 SIERRA   BRAVO,   Restituto.   Tesis   doctorales   y   trabajos   de  investigación  científica:  metodología
 general de su elaboración y documentación. Madrid: Paraninfo, 1996
 
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+THOMPSON, Paul. La voz del pasado. Historia Oral. Valencia: Alfons el Magnànim, 1988
+
+ÁNGULO   EGEA,   M.   y   ALVAREZ   BARRIENTOS,   J.  Guía  históricas  de  las  bibliotecas  de  Madrid.  Madrid,
+Consejería de Educación, 2002
+
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

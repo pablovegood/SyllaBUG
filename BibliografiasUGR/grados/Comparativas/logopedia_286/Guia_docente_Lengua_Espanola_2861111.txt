@@ -2,11 +2,12 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+RAE.   2010.   Manual   de   la  Nueva  gramática  de  la  lengua  española.  Madrid:  Espasa  REYES,  G.  1995.  El
+abecé de la pragmática. Madrid: Arco/Libros
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 ALARCOS LLORACH, E. 1974. Fonología española. Madrid: Gredos
 
@@ -35,43 +36,35 @@ GARAYZÁBAL, ELENA (ed.). 2006. Lingüística clínica y logopedia. Madrid: A. M
 
 GARRIDO MEDINA, JOAQUÍN. 2009. Manual de Lengua Española. Madrid: Castalia
 
-MENDIZÁBAL   DE   LA   CRUZ,   NIEVES.   1999.   Introducción   a   la   semiótica   aplicada   a  la  logopedia.
-Valladolid: Universidad de Valladolid, Seminario de la Facultad de Derecho
-
-MORENO-TORRES SÁNCHEZ, IGNACIO. 2004. Lingüística para logopedas. Archidona (Málaga): Aljibe
-
-QUILIS,   A.-   HERNÁNDEZ   ALONSO,   C.   1990.  Lingüística  española  aplicada  a  la  terapia  del  lenguaje.
-Madrid: Gredos
-
-RAE. 2010. Ortografía de la lengua española. Madrid: Espasa
-
-YULE, G. 1998. El lenguaje. Madrid: Akal
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MARTÍNEZ   CELDRÁN,   Eugenio   y   FERNÁNDEZ   PLANAS,   Ana  María.  2007.  Manual  de  RAE.  2009-2011.  Nueva
-gramática   de   la   lengua   española.   Madrid:   Espasa  →  RAE.  2009-2011.  Nueva  gramática  de  la  lengua
-española. Madrid: Espasa
-
-RAE.   2010.   Manual   de   la  Nueva  gramática  de  la  lengua  española.  Madrid:  Espasa  REYES,  G.  1995.  El
-abecé   de   la   pragmática.   Madrid:   Arco/Libros   →   RAE.   2009-2011.   Nueva   gramática  de  la  lengua
-española. Madrid: Espasa
-
-✅ Recursos añadidos:
-------------------------------
 HIDALGO   NAVARRO,   A.   y   QUILIS   MERÍN,  M.  2004.  Fonética  y  fonología  española.  Valencia:  Tirant  lo
 Blanch
 
 MARTÍNEZ   CELDRÁN,   Eugenio   y   FERNÁNDEZ   PLANAS,   Ana   María.   2007.   Manual  de  Fonética  Española.
 Barcelona: Ariel
 
+MENDIZÁBAL   DE   LA   CRUZ,   NIEVES.   1999.   Introducción   a   la   semiótica   aplicada   a  la  logopedia.
+Valladolid: Universidad de Valladolid, Seminario de la Facultad de Derecho
+
+MORENO-TORRES SÁNCHEZ, IGNACIO. 2004. Lingüística para logopedas. Archidona (Málaga): Aljibe
+
 QUILIS, A. 1997. Principios de fonología y fonética españolas. Madrid: Arco/Libros
 
-RAE. 2010. Manual de la Nueva gramática de la lengua española. Madrid: Espasa
+QUILIS,   A.-   HERNÁNDEZ   ALONSO,   C.   1990.  Lingüística  española  aplicada  a  la  terapia  del  lenguaje.
+Madrid: Gredos
 
-REYES, G. 1995. El abecé de la pragmática. Madrid: Arco/Libros
+RAE. 2009-2011. Nueva gramática de la lengua española. Madrid: Espasa
+
+RAE. 2010. Ortografía de la lengua española. Madrid: Espasa
 
 VALLÉS   ARÁNDIGA,   ANTONIO.   1994.   Logopedia:   ejercicios  de  articulación  fonética.  Madrid:  Escuela
 Española
 
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+YULE, G. 1998. El lenguaje. Madrid: Akal
+
+✅ Recursos añadidos (2):
+------------------------------
+RAE. 2010. Manual de la Nueva gramática de la lengua española. Madrid: Espasa
+
+REYES, G. 1995. El abecé de la pragmática. Madrid: Arco/Libros
+
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

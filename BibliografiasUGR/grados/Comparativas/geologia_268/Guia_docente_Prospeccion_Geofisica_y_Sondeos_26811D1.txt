@@ -2,11 +2,13 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Daniels,   D.   J.   (Ed).   2004.  Ground  penetrating  radar.  Institution  of  Electrical  Engineers,  London
+Fowler,   C.M.R.,   1990.   The  solid  Earth.  An  Introduction  to  Global  Geophysics.  Cambridge  University
+Press
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Bally,   A.W.,   1984.  Seismic  Expression  of  Structural  Styles.  Studies  in  Geology  15.  Tulsa:  American
 Association of Petrological Geology
@@ -35,6 +37,10 @@ Mechler, P., 1982. Les méthodes de la geophysique. Dunod Université
 
 Meissner, R., 1986. The Continental Crust. A Geophysical Approach. Academic Press
 
+Misstear, B., Banks, D., Clark, L. (2006) Water Wells and Boreholes. Wiley Interscience
+
+Orellana, E., 1974. Prospección geoeléctrica por campos variables. Paraninfo
+
 Orellana, E., 1982. Prospección geoeléctrica en corriente continua. 2- Ed. Paraninfo
 
 Parasnis, D.S., 1970. Principios de Geofísica Aplicada. Paraninfo
@@ -62,22 +68,11 @@ Udías, A., 1997. Fundamentos de Geofísica, Alianza Universidad. 436 p
 Yilmaz,O.,   1987.   Seismic   data  processing.  Society  of  exploration  geophysicists.  Investigations  in
 Geophysics, 2
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Misstear,   B.,   Banks,   D.,  Clark,  L.  (2006)  Water  Wells  and  Boreholes.  Wiley  Interscience  Orellana,
-E.,   1974.   Prospección   geoeléctrica   por   campos   variables.   Paraninfo  →  Misstear,  B.,  Banks,  D.,
-Clark, L. (2006) Water Wells and Boreholes. Wiley Interscience
+Daniels, D. J. (Ed). 2004. Ground penetrating radar. Institution of Electrical Engineers, London
 
-Daniels,   D.   J.   (Ed).   2004.  Ground  penetrating  radar.  Institution  of  Electrical  Engineers,  London
-Fowler,   C.M.R.,   1990.   The  solid  Earth.  An  Introduction  to  Global  Geophysics.  Cambridge  University
-Press   →   Daniels,   D.  J.  (Ed).  2004.  Ground  penetrating  radar.  Institution  of  Electrical  Engineers,
-London
-
-✅ Recursos añadidos:
-------------------------------
 Fowler,   C.M.R.,   1990.   The  solid  Earth.  An  Introduction  to  Global  Geophysics.  Cambridge  University
 Press
 
-Orellana, E., 1974. Prospección geoeléctrica por campos variables. Paraninfo
-
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

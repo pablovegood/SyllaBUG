@@ -2,11 +2,12 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Almond,   G   y   Verba,   S.   (1980):   The  civic  culture  revisited.  Boston:  Litle  Brown  Andaluiza,  E.  y
+Bosch, A (2004). Comportamiento político y electoral. Barcelona. Ariel Ciencia política
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (45):
 ------------------------------
 Aarts, K. y Wessels, B. (2005), “Electoral turnout”, en Jacques Thomassen (ed.), The European voter.
 A comparative study of modern democracies, Oxford: Oxford University Press&ECPR, pp. 64-83
@@ -84,7 +85,7 @@ Hernández   Bravo   de   la   Laguna,  J.  (1997)  “La  delimitación  del  c
 Mella Márquez (ed.), Curso de partidos políticos; Madrid: Akal, págs. 13-36
 
 Holgado Sánchez, M. (2003), La financiación de los partidos políticos en España, Valencia: Tirant lo
-Blanch. Tema 10: Los sistemas de partidos
+Blanch
 
 Jaráiz, E., Lagares, N., & Pereira, M. (2020). Emociones y decisión de voto. Los componentes de voto
 en   las   elecciones   generales   de   2016   en   España.   Reis:   Revista   Española   de   Investigaciones
@@ -102,11 +103,7 @@ Science Review, 91, pp. 1-14
 Lipset,   S.   M.   y   Rokkan,  S.  (1992),”Estructuras  de  división,  sistemas  de  partidos  y  alineamientos
 electorales” en A. Battle (ed.), Diez textos básicos de Ciencia Política, Barcelona: Arial
 
-Llera,   P.,  Baras,  M.  y  Montabes,  J.  (2018).  Las  elecciones  generales  de  2015  y  2016.  Madrid:  Centro
-de Investigaciones Sociológicas
-
-Maravall,   J.M.   et   all.   (1991),   Socialist   parties   in   Europe,   Barcelona   :   ICPS.   Tema  9:  La
-financiación de los partidos políticos
+Maravall, J.M. et all. (1991), Socialist parties in Europe, Barcelona : ICPS
 
 Mella   Márquez,   M.   (1997),  “Los  sistemas  de  partidos”  en  M.  Mella  Márquez  (ed.),  Curso  de  partidos
 políticos; Madrid: Akal, pp. 197-228
@@ -114,11 +111,16 @@ políticos; Madrid: Akal, pp. 197-228
 Michels, R. (1983), Los partidos políticos: un estudio sociológico de las tendencias oligárquicas de
 la democracia moderna, Buenos Aires: Amorrortu
 
+Neumann (eds.), Teoría y Sociología críticas de los partidos Políticos, Barcelona: Anagrama
+
 Ortega   Villodres,   C.,   “Teorías   explicativas   del   comportamiento   electoral”,   material  docente.
 Disponible en fotocopiadora
 
 Ortega,   C.,   Montabes,   J.  y  Oñate,  P.  (2020).Los  sistemas  electorales  en  España.  Madrid:  Centro  de
 Investigaciones Sociológicas
+
+Otras   referencias   complementarias:   Llera,   P.,   Baras,   M.   y  Montabes,  J.  (2018).  Las  elecciones
+generales de 2015 y 2016. Madrid: Centro de Investigaciones Sociológicas
 
 Panebianco,   A.   (1990),  Modelos  de  partido:  organización  y  poder  en  los  partidos  políticos,  Madrid.
 Alianza
@@ -136,30 +138,23 @@ Villa García, R. (2016) España en las urnas. Una historia electoral (1810-2015
 Ware, A. (2004), Partidos políticos y sistemas de partidos, Madrid: Ediciones Istmo, pp. 235- 328
 
 Zeigler, H. (2004), “Interest Groups” en M. Hawkesworth y M. Kogan (es.), Encyclopedia of Government
-and   Politics,   Volumen  I,  London  :  Routledge,  pp.  377-393.  Tema  12:  Tipologías,  caracterizaciones  y
-manifestaciones
+and Politics, Volumen I, London : Routledge, pp. 377-393
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Almond,   G   y   Verba,   S.   (1980):   The  civic  culture  revisited.  Boston:  Litle  Brown  Andaluiza,  E.  y
-Bosch,   A   (2004).   Comportamiento   político   y   electoral.   Barcelona.   Ariel   Ciencia   política   →
-Andaluiza,   E.   y   Bosch,   A   (2004).   Comportamiento  político  y  electoral.  Barcelona.  Ariel  Ciencia
-política
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (15):
 ------------------------------
 Almond, G y Verba, S. (1980): The civic culture revisited. Boston: Litle Brown
 
-Holgado Sánchez, M. (2003), La financiación de los partidos políticos en España, Valencia: Tirant lo
-Blanch
+Andaluiza,   E.   y   Bosch,   A   (2004).   Comportamiento  político  y  electoral.  Barcelona.  Ariel  Ciencia
+política
 
-Maravall, J.M. et all. (1991), Socialist parties in Europe, Barcelona : ICPS
+Llera,   P.,  Baras,  M.  y  Montabes,  J.  (2018).  Las  elecciones  generales  de  2015  y  2016.  Madrid:  Centro
+de Investigaciones Sociológicas
 
-Neumann (eds.), Teoría y Sociología críticas de los partidos Políticos, Barcelona: Anagrama
-
-Otras referencias complementarias
+Tema 10: Los sistemas de partidos
 
 Tema 11: La naturaleza de los grupos de presión
+
+Tema 12: Tipologías, caracterizaciones y manifestaciones
 
 Tema 1: El análisis del comportamiento político
 
@@ -177,7 +172,6 @@ Tema 7: Modelos de partido y estructura organizativa
 
 Tema 8: Los partidos políticos y los cleavages
 
-Zeigler, H. (2004), “Interest Groups” en M. Hawkesworth y M. Kogan (es.), Encyclopedia of Government
-and Politics, Volumen I, London : Routledge, pp. 377-393
+Tema 9: La financiación de los partidos políticos
 
-📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

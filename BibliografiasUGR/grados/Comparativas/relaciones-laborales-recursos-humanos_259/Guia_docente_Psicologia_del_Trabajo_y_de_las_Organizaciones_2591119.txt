@@ -2,14 +2,21 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Martín-Quirós,   M.A.   y   Zarco,   V.   (2009).   Psicología  del  Trabajo,  de  las  Organizaciones  y  de  los
+Recursos   Humanos.   Madrid:  Pirámide  Muchinsky,  P.M.  (2001).  Psicología  aplicada  al  trabajo.  Madrid:
+Paraninfo   Munduate,   L.   (1997).   Psicología   social   de  la  organización.  Las  personas  organizando.
+Madrid: Pirámide
 
-📚 Recursos sin cambios:
+Osca,   A.,   Palací,   F.J.,   Topa,   G.,   Moriano,   J.A.   Y   Lisbona,   A.   (2012).   Psicología   de  las
+organizaciones.   Madrid:   Ed.   Sainz   y   Torres/   UNED   Rodríguez,   A.   y   Zarco,  V.  (dirs.)  (2009).
+Psicología   del  trabajo.  Madrid:  Pirámide  Zarco,  V.  y  Rodríguez,  A.  (2008).  Psicología  de  los  grupos
+y   de   las   organizaciones.   Madrid:   Pirámide   C.O.P.   (1998).  Perfiles  profesionales  de  psicólogo.
+Madrid: Colegio Oficial de Psicólogos de España
+
+📚 Recursos sin cambios (11):
 ------------------------------
-C.O.P. (1998). Perfiles profesionales de psicólogo. Madrid: Colegio Oficial de Psicólogos de España
-
 Catalá,   F.   (1995).   El   perfil   del   psicólogo   del   trabajo   y  de  las  organizaciones.  Papeles  del
 Psicólogo, Época III, 63-73
 
@@ -42,23 +49,14 @@ Rodríguez,   A.   y   Martín   Quirós,  M.A.  (2001).  Evolución  del  traba
 organizativas.   En   E.   Agulló   y   A.   Ovejero   (Coord):  Trabajo,  individuo  y  sociedad.  Perspectivas
 psicosociológicas sobre el futuro del trabajo. Madrid: Pirámide
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Martín-Quirós,   M.A.   y   Zarco,   V.   (2009).   Psicología  del  Trabajo,  de  las  Organizaciones  y  de  los
-Recursos   Humanos.   Madrid:  Pirámide  Muchinsky,  P.M.  (2001).  Psicología  aplicada  al  trabajo.  Madrid:
-Paraninfo   Munduate,   L.   (1997).   Psicología   social   de  la  organización.  Las  personas  organizando.
-Madrid: Pirámide  →  Muchinsky, P.M. (2001). Psicología aplicada al trabajo. Madrid: Paraninfo
+C.O.P. (1998). Perfiles profesionales de psicólogo. Madrid: Colegio Oficial de Psicólogos de España
 
-Osca,   A.,   Palací,   F.J.,   Topa,   G.,   Moriano,   J.A.   Y   Lisbona,   A.   (2012).   Psicología   de  las
-organizaciones.   Madrid:   Ed.   Sainz   y   Torres/   UNED   Rodríguez,   A.   y   Zarco,  V.  (dirs.)  (2009).
-Psicología   del  trabajo.  Madrid:  Pirámide  Zarco,  V.  y  Rodríguez,  A.  (2008).  Psicología  de  los  grupos
-y   de   las   organizaciones.   Madrid   →   Rodríguez,   A.   y   Zarco,   V.  (dirs.)  (2009).  Psicología  del
-trabajo. Madrid: Pirámide
-
-✅ Recursos añadidos:
-------------------------------
 Martín-Quirós,   M.A.   y   Zarco,   V.   (2009).   Psicología  del  Trabajo,  de  las  Organizaciones  y  de  los
 Recursos Humanos. Madrid: Pirámide
+
+Muchinsky, P.M. (2001). Psicología aplicada al trabajo. Madrid: Paraninfo
 
 Munduate,   L.   (1997).   Psicología   social   de   la   organización.   Las  personas  organizando.  Madrid:
 Pirámide
@@ -66,6 +64,8 @@ Pirámide
 Osca,   A.,   Palací,   F.J.,   Topa,   G.,   Moriano,   J.A.   Y   Lisbona,   A.   (2012).   Psicología   de  las
 organizaciones. Madrid: Ed. Sainz y Torres/ UNED
 
+Rodríguez, A. y Zarco, V. (dirs.) (2009). Psicología del trabajo. Madrid: Pirámide
+
 Zarco, V. y Rodríguez, A. (2008). Psicología de los grupos y de las organizaciones. Madrid: Pirámide
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

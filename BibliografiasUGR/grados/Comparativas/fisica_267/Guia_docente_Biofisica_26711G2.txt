@@ -2,46 +2,57 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
+------------------------------
+ANÁLISIS   BIOFÍSICO   DEL   TRANSPORTE   A   TRAVÉS  DE  MEMBRANAS:  TRANSPORTE  PASIVO.  Ecuación  de  Nernst-
+Planck.   Teoría   del   campo   constante.  Ecuación  GHK  en  sistemas  complejos.  Teoría  de  la  carga  fija.
+Transmisión    del    potencial    de    acción.    Análisis    del   transporte   mediante   TPI.   Fenómenos
+electrocinéticos. Problemas. Bibliografía
+
+BIOFÍSICA   DEL   POTENCIAL   DE  MEMBRANA.  Introducción.  Primera  aproximación  al  potencial  de  membrana:
+potencial de Nernst. Potenciales de Gibbs-Donnan. Potenciales superficiales. Problemas. Bibliografía
+
+CAOS   EN  SISTEMAS  BIOLÓGICOS.  Introducción.  Atractores.  Atractores  extraños  o  caóticos.  Definición  y
+propiedades   del   caos.   Ubicuidad:  caos  en  sistemas  biológicos.  Universalidad:  Rutas  hacia  el  caos.
+Estructura fractal. Fractales. Propiedades de los fractales: Dimensión fractal. Reflexiones sobre el
+caos en sistemas biológicos. Bibliografía. BIOFÍSICA CELULAR. Fenómenos de transporte y de membrana
+
+TRANSPORTE   ACTIVO:   EFECTO   DE   REACCIONES   QUÍMICAS   SOBRE   LOS  PROCESOS  DE  TRANSPORTE.  Reacciones
+químicas   y   gradientes   de   concentración   en   estado   estacionario.  Descripción  fenomenológica  del
+transporte activo. La bomba sodio-potasio. Fosforilación oxidativa. Problemas. Bibliografía PRÁCTICO
+Prácticas   de  Laboratorio:  Práctica  1.  Determinación  del  coeficiente  de  difusión  de  sales  comunes  en
+los   sistemas   biológicos.   Práctica   2.   Determinación   del  potencial  de  Nernst  para  el  ión  K+  y  su
+aplicación   en  el  estudio  de  Biomembranas.  Práctica  3.  Determinación  de  los  números  de  transporte  de
+los   iones   Cl-   y   Na+   :  implicaciones  en  los  fenómenos  de  transporte  en  biomembranas.  Práctica  4.
+Estudio   de   un   fenómeno   de   auto-organización:   Dinámica   de   la  reacción  de  BelousovZhabotinsky.
+Determinación del periodo de oscilación y análisis del comportamiento disipativo no-lineal. Práctica
+5.    Estudio    de   un   fenómeno   de   auto-organización:   Dinámica   de   la   reacción   BriggsRauscher.
+Determinación   del   periodo   de   oscilación   y   análisis   del   comportamiento   disipativo   nolineal.
+DIVULGACIÓN   Coveney,   P.,   Highfield,   R.   La   flecha  del  tiempo,  Ed.  Orbis.  1993  Heisemberg,  W.  La
+imagen   de   la  naturaleza  en  la  física  actual,  Ed.  Orbis.  1985  Prigogine,  I.  Las  leyes  del  caos,  Ed.
+Crítica,   Grakontos.   1997.  Schrödinger,  E.  ¿Qué  es  la  vida?,  Ed.  Orbis.  1984  Waddington,  C.H.  Hacia
+una biología teórica, Alianza Editorial. 1976. BIOFÍSICA GENERAL Jou, D. Llebot, J.E. Introducción a
+la   termodinámica   de  los  procesos  biológicos,  Ed.  Labor  Universitaria.  1989.  Laskowski,  W.,  Pohlit,
+W. Biofísica, Ed. Omega. 1976. Van Holde K.E., Bioquímica Física, Ed. Alhambra, Col. Exedra, Madrid,
+1979.   Vazquez,   J.   Biofísica:   Principios   fundamentales,  EYPASA.  1993.  Vicente  Córdoba,  C.,  Legaz
+González,   M.E.   Biofísica,   Ed.   Síntesis.   1992.   Volkenshtein,   M.K.   Biofísica,   Ed.   Mir.  1985.
+TEMODINÁMICA    DE    LOS    PROCESOS    IRREVERSIBLES    Katchalsky,   A.,   Curran,   P.I.   Nonequilibrium
+Thermodynamics   in   Biophysics.   Harvard   University   Press,   England,   1975.   Montero,  F.  Morán,  F.
+Biofísica.   Procesos   de   autoorganización   en   Biología.   Eudema   Universidad,   S.A.,  Madrid,  1992.
+Prigogine,   I.   Introduction   to   Thermodynamics  of  Irreversible  Processes,  Interscience  Publishers,
+N.Y.,   1967.  BIOFÍSICA  MOLECULAR  Horta  Zubiaga,  A.  Macromoléculas,  Ed.  UNED,  Madrid,  1991.  Artículos
+de investigación incluidos en el capítulo 1 actualizados cada curso
+
+TRANSPORTE    FACILITADO.    CANALES    IÓNICOS.   TRANSPORTADORES.   Introducción.   Características   del
+transporte   facilitado   mediante   transportadores  y  canales  iónicos.  Modelo  de  transporte  de  oxígeno
+mediante    hemoglobina   basado   en   la   Termodinámica   de   los   procesos   irreversibles.   Problemas.
+Bibliografía
+
+📚 Recursos sin cambios (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Horta Zubiaga, A. Macromoléculas, Ed. UNED, Madrid, 1991
-
-Jou,   D.   Llebot,   J.E.   Introducción   a   la   termodinámica   de   los   procesos  biológicos,  Ed.  Labor
-Universitaria. 1989
-
-Laskowski, W., Pohlit, W. Biofísica, Ed. Omega. 1976
-
-Montero, F. Morán, F. Biofísica. Procesos de autoorganización en Biología. Eudema Universidad, S.A.,
-Madrid, 1992
-
-Prigogine,   I.   Introduction   to   Thermodynamics  of  Irreversible  Processes,  Interscience  Publishers,
-N.Y., 1967
-
-TEMODINÁMICA    DE    LOS    PROCESOS    IRREVERSIBLES    Katchalsky,   A.,   Curran,   P.I.   Nonequilibrium
-Thermodynamics in Biophysics. Harvard University Press, England, 1975
-
-Van Holde K.E., Bioquímica Física, Ed. Alhambra, Col. Exedra, Madrid, 1979
-
-Vazquez, J. Biofísica: Principios fundamentales, EYPASA. 1993
-
-Vicente Córdoba, C., Legaz González, M.E. Biofísica, Ed. Síntesis. 1992
-
-Volkenshtein, M.K. Biofísica, Ed. Mir. 1985
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Schrödinger,   E.   ¿Qué   es   la   vida?,   Ed.  Orbis.  1984  Waddington,  C.H.  Hacia  una  biología  teórica,
-Alianza Editorial. 1976  →  Waddington, C.H. Hacia una biología teórica, Alianza Editorial. 1976
-
-DIVULGACIÓN   Coveney,   P.,   Highfield,   R.   La   flecha  del  tiempo,  Ed.  Orbis.  1993  Heisemberg,  W.  La
-imagen   de   la  naturaleza  en  la  física  actual,  Ed.  Orbis.  1985  Prigogine,  I.  Las  leyes  del  caos,  Ed.
-Crítica, Grakontos. 1997  →  Prigogine, I. Las leyes del caos, Ed. Crítica, Grakontos. 1997
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (19):
 ------------------------------
 Artículos de investigación incluidos en el capítulo 1 actualizados cada curso
 
@@ -53,9 +64,36 @@ Coveney, P., Highfield, R. La flecha del tiempo, Ed. Orbis. 1993
 
 Heisemberg, W. La imagen de la naturaleza en la física actual, Ed. Orbis. 1985
 
+Horta Zubiaga, A. Macromoléculas, Ed. UNED, Madrid, 1991
+
+Jou,   D.   Llebot,   J.E.   Introducción   a   la   termodinámica   de   los   procesos  biológicos,  Ed.  Labor
+Universitaria. 1989
+
 Katchalsky,   A.,  Curran,  P.I.  Nonequilibrium  Thermodynamics  in  Biophysics.  Harvard  University  Press,
 England, 1975
 
+Laskowski, W., Pohlit, W. Biofísica, Ed. Omega. 1976
+
+Montero, F. Morán, F. Biofísica. Procesos de autoorganización en Biología. Eudema Universidad, S.A.,
+Madrid, 1992
+
+Prigogine,   I.   Introduction   to   Thermodynamics  of  Irreversible  Processes,  Interscience  Publishers,
+N.Y., 1967
+
+Prigogine, I. Las leyes del caos, Ed. Crítica, Grakontos. 1997
+
 Schrödinger, E. ¿Qué es la vida?, Ed. Orbis. 1984
 
-📊 Porcentaje estimado de cambio: 75% [███████░░░]
+TEMODINÁMICA DE LOS PROCESOS IRREVERSIBLES
+
+Van Holde K.E., Bioquímica Física, Ed. Alhambra, Col. Exedra, Madrid, 1979
+
+Vazquez, J. Biofísica: Principios fundamentales, EYPASA. 1993
+
+Vicente Córdoba, C., Legaz González, M.E. Biofísica, Ed. Síntesis. 1992
+
+Volkenshtein, M.K. Biofísica, Ed. Mir. 1985
+
+Waddington, C.H. Hacia una biología teórica, Alianza Editorial. 1976
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

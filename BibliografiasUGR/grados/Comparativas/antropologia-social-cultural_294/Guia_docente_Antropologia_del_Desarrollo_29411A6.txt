@@ -2,11 +2,14 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+GARDNER,   Katy   y   David   LEWIS,   Antropología,   desarrollo   y   el   desafío   postmoderno.  El  Colegio
+Mexiquense   (2003)   MOHANTY,   Chandra   T.   Bajo  los  ojos  de  Occidente.  Academia  feminista  y  discurso
+colonial,   en  Suárez,  L  y  Hernández,  A.  (Ed),  Descolonizando  el  feminismo:  Teorías  y  prácticas  desde
+los márgenes. Cátedra: Madrid (2008)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
 ATKINSON, Paul (Ed.) et al. Handbook of Etnography. Sage Publications (2007)
 
@@ -55,6 +58,8 @@ Barcelona (2001)
 INDA,   Jonathan  X.  y  ROSALDO,  Renato  (Eds.)  The  Anthropology  of  Globalization.  Blackwell  Publishers.
 Oxford (2002)
 
+KEITA, L (ed) Philosophy and African Development: Theory and Practice. CODESRIA. Dakar (2011)
+
 LÓPEZ   CASTELLANO,   Fernando   (Comp.),   Desarrollo:   Crónica   de   un   desafío   permanente.  Colección
 Periferias, 3. Universidad de Granada (2007)
 
@@ -85,6 +90,9 @@ Barcelona y Bilbao (2001)
 RAMÍREZ   de   Haro,   Gonzalo,   et   al.,  Desarrollo  y  cooperación  en  zonas  rurales  de  América  Latina  y
 África. Para adentrarse en el bosque. Hegoa/ Los libros de la Catarata. Madrid (2002)
 
+RESTREPO,   Eduardo,   Etnografía.   Alcances,   técnicas   y   éticas.   Universidad  Nacional  Mayor  de  San
+Marcos, Fondo Editorial. Lima. (2018)
+
 RIST,   Gilbert,   El   desarrollo:   Historia   de   una   creencia  Occidental.  Instituto  Universitario  de
 Desarrollo y Cooperación. Los libros de la Catarata. Madrid (2002)
 
@@ -101,30 +109,13 @@ Relaciones internacionales (27), (2014)
 VIOLA   Recasens,   Andreu   (Comp.),   Antropología   del  desarrollo.  Teorías  y  estudios  etnográficos  en
 América Latina. Editorial Paidós Ibérica. Barcelona (2000)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-GARDNER,   Katy   y   David   LEWIS,   Antropología,   desarrollo   y   el   desafío   postmoderno.  El  Colegio
-Mexiquense   (2003)   MOHANTY,   Chandra   T.   Bajo  los  ojos  de  Occidente.  Academia  feminista  y  discurso
-colonial,   en  Suárez,  L  y  Hernández,  A.  (Ed),  Descolonizando  el  feminismo:  Teorías  y  prácticas  desde
-los   márgenes.   Cátedra:   Madrid   (2008)   →  MOHANTY,  Chandra  T.  Bajo  los  ojos  de  Occidente.  Academia
-feminista   y   discurso   colonial,   en   Suárez,   L  y  Hernández,  A.  (Ed),  Descolonizando  el  feminismo:
-Teorías y prácticas desde los márgenes. Cátedra: Madrid (2008)
-
-PÉREZ   de   Armiño,   Karlos   (Dir.)   et   al.,   Diccionario   de   Acción   Humanitaria   y  Cooperación  al
-Desarrollo.   Icaria   Editorial   y   Hegoa   (Instituto   de   Estudios   sobre   Desarrollo   y  Cooperación
-Internacional).   Barcelona   y  Bilbao  (2001).  de  San  Marcos,  Fondo  Editorial.  Lima.  (2018)  →  PÉREZ  de
-Armiño, Karlos (Dir.) et al., Diccionario de Acción Humanitaria y Cooperación al Desarrollo . Icaria
-Editorial   y  Hegoa  (Instituto  de  Estudios  sobre  Desarrollo  y  Cooperación  Internacional).  Barcelona  y
-Bilbao (2001)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 GARDNER,   Katy   y   David   LEWIS,   Antropología,   desarrollo   y   el   desafío   postmoderno.  El  Colegio
 Mexiquense (2003)
 
-KEITA, L (ed) Philosophy and African Development: Theory and Practice. CODESRIA. Dakar (2011)
+MOHANTY, Chandra T. Bajo los ojos de Occidente. Academia feminista y discurso colonial, en Suárez, L
+y   Hernández,  A.  (Ed),  Descolonizando  el  feminismo:  Teorías  y  prácticas  desde  los  márgenes.  Cátedra:
+Madrid (2008)
 
-RESTREPO,   Eduardo,   Etnografía.   Alcances,   técnicas   y   éticas.   Universidad  Nacional  Mayor  de  San
-Marcos, Fondo Editorial. Lima. (2018)
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

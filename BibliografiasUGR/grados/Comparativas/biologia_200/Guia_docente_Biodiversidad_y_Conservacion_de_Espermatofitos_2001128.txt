@@ -2,13 +2,13 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
 NABORDS, M. W. (2006). Introducción a la Botánica. Ed. Pearson Educación S.A., Madrid
 
 SIMPSON, M. G. (2006). Plant Systematics. Elsevier, Amsterdam
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 BAÑARES, A. (2002, coord.). Biología de la conservación de plantas amenazadas. Organismo Autónomo de
 Parques Nacionales, Ministerio de Medio Ambiente, Madrid
@@ -17,10 +17,10 @@ BAÑARES,   A.,   G.   BLANCA,  J.  GÜEMES,  J.  C.  MORENO  &  S.  ORTÍZ  (20
 Flora Vascular Amenazada de España. Dirección General para la Biodiversidad, Publicaciones del O. A.
 P. N., Madrid
 
-BLANCA   G.   (2006-2007,   coord.)   Proyecto   Andalucía   Naturaleza.   Botánica,   5  vols.  Publicaciones
+BLANCA,   G.   &   F.   VALLE   (2007,  coords.).  Proyecto  Andalucía  Naturaleza.  Botánica  V.  Publicaciones
 Comunitarias-Grupo Hércules, Sevilla
 
-BLANCA,   G.   &   F.   VALLE   (2007,  coords.).  Proyecto  Andalucía  Naturaleza.  Botánica  V.  Publicaciones
+BLANCA,   G.   (2006-2007,   coord.).   Proyecto   Andalucía   Naturaleza.  Botánica,  5  vols.  Publicaciones
 Comunitarias-Grupo Hércules, Sevilla
 
 BLANCA,   G.,   B.   CABEZUDO,   M.   CUETO,   C.   FERNÁNDEZ  LÓPEZ  &  C.  MORALES  TORRES  (2009,  eds.).  Flora
@@ -28,53 +28,49 @@ Vascular de Andalucía Oriental, 4 vols. Consejería de Medio Ambiente, Junta de
 
 BLANCO, E. & col. (1997). Los bosques ibéricos. Ed. Planeta, Barcelona
 
-BOLD H.C. & col. (1989) Morfología de las plantas y de los hongos . Ed. Omega, Barcelona
+BOLD, H.C. & col. (1989). Morfología de las plantas y de los hongos. Ed. Omega, Barcelona
 
 CASTROVIEJO, S. & col. (1987- ). Flora Iberica. CSIC, Real Jardín Botánico, Madrid
 
-DEVESA   ALCARAZ   JA,   CARRIÓN   GARCÍA   JS   (2012)   Las   plantas   con   flor.  Apuntes  sobre  su  origen,
-clasificación y diversidad . Servicio publicaciones Universidad de Córdoba. Córdoba
+DEVESA   ALCARAZ,   JA   &   JS   CARRIÓN   GARCÍA   (2012).  Las  plantas  con  flor.  Apuntes  sobre  su  origen,
+clasificación y diversidad. Servicio publicaciones Universidad de Córdoba. Córdoba
 
 DEVESA,   J.   A.   &   A.   ORTEGA   OLIVENCIA   (2004).   Especies  vegetales  protegidas  en  España:  Plantas
 vasculares. Organismo Autónomo de Parques Nacionales, Ministerio de Medio Ambiente, Madrid
 
-DÍAZ GONZÁLEZ T.E. & col. (2004). Curso de Botánica . Ed. Trea Ciencias, Oviedo
+DÍAZ GONZÁLEZ, T.E. & col. (2004). Curso de Botánica. Ed. Trea Ciencias, Asturias
 
 FONT QUER, P. (1977). Diccionario de Botánica . 6a edición. Ed. Lábor, Barcelona
 
-HEYWOOD V.H. (1985) Las Plantas con Flores . Ed. Reverté, Barcelona
+HEYWOOD, V.H. (1985). Las Plantas con Flores. Ed. Reverté, Barcelona
 
-IZCO J. & col. (2004) Botánica . 2ª edición. Ed. McGraw-Hill, Madrid
+IZCO, J. & col. (2004). Botánica. 2ª edición. Ed. McGraw-Hill, Madrid
 
-JUDD   W.S.   &   col.   (2002)   Plant   Systematics:   A   Phylogenetic  Approach  .  Ed.  Sinauer  Associates,
-Massachusetts
+JUDD,   W.   S.   &   col.   (2002).   Plant   Systematics:   A   Phylogenetic   Approach.  Sinauer  Associates,
+Massachusetts, U. S. A
 
 LOPEZ   GONZALEZ,   G.   (2004).   Guía  de  los  árboles  y  arbustos  de  la  Península  Ibérica  y  Baleares,  2ª
 edición. Ed. Mundi Prensa, Madrid
 
-LÜTTGE U., KLUGE M. & BAUER G. (1993) Botánica . Interamericana-McGraw Hill, Madrid
+LÜTTGE, U., M. KLUGE & G. BAUER (1993). Botánica. Interamericana-McGraw Hill, Madrid
 
 MORALES, C., C. QUESADA & L. BAENA (2001). Árboles y arbustos. Diputación de Granada
 
 PEINADO,   M.   &   S.   RIVAS   MARTINEZ   (1987).   La   vegetación   de  España.  Servicio  de  Publicaciones,
 Universidad de Alcalá de Henares, Madrid
 
-RAVEN P.H. & col. (1992) Biología de las plantas . Ed. Reverté, Barcelona
+RAVEN, P.H. & col. (1992). Biología de las plantas. Ed. Reverté, Barcelona
 
-SCAGEL R.F. & col. (1987) El Reino Vegetal . Ed. Omega, Barcelona
+SCAGEL, R.F. & col. (1987). El Reino Vegetal. Ed. Omega, Barcelona
 
-SPICHIGER R.-E., V.V. SAVOLAINEN, M. FIGEAT & D. JEANMONOD (2004) Botanique Systématique des plantes
-à fleurs . 3ª ed. Presses Polytechniques et Universitaires Romandes
+SPICHIGER,   R.-E.,   V.V.   SAVOLAINEN,   M.   FIGEAT   &  D.  JEANMONOD  (2004).  Botanique  Systématique  des
+plantes à fleurs. 3ª ed. Presses Polytechniques et Universitaires Romandes
 
-STRASBURGER E. & col. (2004) Tratado de Botánica . 35a edición castellana. Ed. Omega, Barcelona
+STRASBURGER, E. & col. (2004). Tratado de Botánica. 35a edición castellana. Ed. Omega, Barcelona
 
 WALTER, H. (1977). Zonas de vegetación y clima. Ed. Omega, Barcelona
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 CHRISTENHUSZ M.J.M., FAY M.F., CHASE M.W. (2017) Plants of the world: an illustrated encyclopedia of
 vascular plants . Ed. University of Chicago Press, Chicago

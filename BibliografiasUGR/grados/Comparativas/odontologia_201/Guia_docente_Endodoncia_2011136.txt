@@ -2,11 +2,11 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Barcelona: Elsevier; 2015
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (28):
 ------------------------------
 Aminoshariae   A,   Kulild   JC.   Master   apical   file  size  -  smaller  or  larger:  a  systematic  review  of
 healing outcomes. Int Endod J. 2015;48:639-47
@@ -28,6 +28,12 @@ Cohen S, Hargreaves KM. Vías de la pulpa. 11ª ed. Amsterdam; Elsevier; 2016
 Del   Fabbro   M,   Taschieri  S.  Endodontic  therapy  using  magnification  devices:  a  systematic  review.  J
 Dent. 2010;38:269-75
 
+Fleming   CH,   Litaker   MS,   Alley  LW,  Eleazer  PD.  Comparison  of  classic  endodontic  techniques  versus
+contemporary techniques on endodontic treatment success. J Endod. 2010;36:414-8
+
+García   Barbero  J.  Patología  y  Terapéutica  Dental.  Operatoria  Dental  y  Endodoncia.  2ª  ed.  Barcelona:
+Elsevier; 2015
+
 Gordon MP, Chandler NP. Electronic apex locators. Int Endod J. 2004;37:425-37. Review
 
 Gu   LS,   Kim   JR,   Ling   J,   Choi   KK,  Pashley  DH,  Tay  FR.  Review  of  contemporary  irrigant  agitation
@@ -35,6 +41,8 @@ techniques and devices. J Endod. 2009;35:791-804
 
 Haapasalo   M,   Qian   W,  Portenier  I,  Waltimo  T.  Effects  of  dentin  on  the  antimicrobial  properties  of
 endodontic medicaments. J Endod. 2007;33:917-25
+
+Haapasalo M, Shen Y, Qian W, Gao Y. Irrigation in endodontics. Dent Clin North Am. 2010;54:291-312
 
 Ingle JI, Bakland LK, Baumgartner JC. Endodontics. 6th ed. Hamilton, Ontario: BC Decker, 2008
 
@@ -67,33 +75,21 @@ Pedrazzi    V,    Oliveira-Neto    JM,   Sequeira   P,   Fedorowicz   Z,   Nasse
 instrumentation   for  orthograde  root  canal  treatment  of  permanent  teeth.  Cochrane  Database  Syst  Rev.
 2008 8;4:CD006384
 
-Zehnder M. Root canal irrigants. J Endod. 2006;32:389-98. Review
-
-Çapar   ID,   Arslan   H.   A   review   of   instrumentation   kinematics   of  engine-driven  nickel  titanium
-instruments. Int Endod J. 2016;49:119-35
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
 Urban   K,   Donnermeyer   D,   Schäfer   E,   Bürklein   S.   Canal   cleanliness  using  different  irrigation
-activation   systems:   a   SEM   evaluation.   Clin   Oral  Investig.  2017;21:2681-2687.  van  der  Sluis  LW,
-Versluis   M,   Wu   MK,  Wesselink  PR.  Passive  ultrasonic  irrigation  of  the  root  canal:  a  review  of  the
-literature.   Int   Endod   J.   2007;40:415-26   →   Urban  K,  Donnermeyer  D,  Schäfer  E,  Bürklein  S.  Canal
-cleanliness   using   different   irrigation   activation  systems:  a  SEM  evaluation.  Clin  Oral  Investig.
-2017;21:2681-2687
-
-✅ Recursos añadidos:
-------------------------------
-Fleming   CH,   Litaker   MS,   Alley  LW,  Eleazer  PD.  Comparison  of  classic  endodontic  techniques  versus
-contemporary techniques on endodontic treatment success. J Endod. 2010;36:414-8
-
-García   Barbero  J.  Patología  y  Terapéutica  Dental.  Operatoria  Dental  y  Endodoncia.  2ª  ed.  Barcelona:
-Elsevier; 2015
-
-Haapasalo M, Shen Y, Qian W, Gao Y. Irrigation in endodontics. Dent Clin North Am. 2010;54:291-312
+activation systems: a SEM evaluation. Clin Oral Investig. 2017;21:2681-2687
 
 Violich DR, Chandler NP. The smear layer in endodontics - a review. Int Endod J. 2010;43:2-15
+
+Zehnder M. Root canal irrigants. J Endod. 2006;32:389-98. Review
 
 van   der  Sluis  LW,  Versluis  M,  Wu  MK,  Wesselink  PR.  Passive  ultrasonic  irrigation  of  the  root  canal:
 a review of the literature. Int Endod J. 2007;40:415-26
 
-📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]
+Çapar   ID,   Arslan   H.   A   review   of   instrumentation   kinematics   of  engine-driven  nickel  titanium
+instruments. Int Endod J. 2016;49:119-35
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

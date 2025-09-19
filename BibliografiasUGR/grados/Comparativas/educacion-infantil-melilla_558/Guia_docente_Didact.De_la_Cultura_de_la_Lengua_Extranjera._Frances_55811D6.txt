@@ -2,11 +2,15 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+PUREN,   C.  (2016).  Modelo  complejo  de  la  competencia  cultural  (componentes  históricos  trans-,  meta-,
+inter-, pluri-, co-culturales: ejemplos de validación y aplicación actuales
 
-📚 Recursos sin cambios:
+des      langues      et      des      cultures.      Les      Cahiers     de     l’Acedle.     [En     ligne]
+http://journals.openedition.org/rdlc/407 doi.org/10.4000/rdlc.407
+
+📚 Recursos sin cambios (10):
 ------------------------------
 ABDALLAH-PREITCEILLE, Martine (1999). L’éducation interculturelle. PUF
 
@@ -33,15 +37,11 @@ VELÁZQUEZ,   Adelina   (2015).   Diversité   pédagogique   et   culturelle   
 intégration contextualisée de la compétence interculturelle, Recherches en didactique des langues et
 des cultures. Les Cahiers de l’Acedle . https://doi.org/10.4000/rdlc.407
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 PUREN,   Christian  (2022).  Modelo  complejo  de  la  competencia  cultural  (componentes  históricos  trans-,
 meta-, inter-, pluri-, co-culturales: ejemplos de validación y aplicación actuales . https://www.res
 earchgate.net/publication/364928535_Modele_complexe_de_la_competence_culturelle_composantes_historiq
 ues_trans-_meta-_inter-_pluri-_co-culturelles_exemples_de_validation_et_d'application_actuelles
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

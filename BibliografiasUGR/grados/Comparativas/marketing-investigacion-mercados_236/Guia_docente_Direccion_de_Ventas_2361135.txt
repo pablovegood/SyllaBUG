@@ -2,15 +2,20 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (3):
 ------------------------------
 ARTAL CASTELLS, M. (1999). Dirección de ventas. Organización del departamento de ventas y gestión de
-vendedores. ESIC. Madrid
+vendedores.   ESIC.   Madrid   BALLESTER   ARNAL,   R.;   GIL   LARIO,   M.D.   (2002).  Habilidades  sociales:
+Evaluación y tratamiento. Síntesis. Madrid
 
+DÍEZ DE CASTRO, E. C.; NAVARRO GARCÍA, A.; PERAL PERAL, B. (2003). Dirección de la Fuerza de Ventas,
+ESIC, Madrid DOÑA TOLEDO, L. (Coordinador). (2020). Brandísimo; diseño y marketing personal
+
+KÜSTER,   I.;   ROMÁN,   S.   (2008).  Venta  Personal  y  Dirección  de  Ventas:  La  Fidelización  del  Cliente.
+Thomson, Madrid ARTAL CASTELLS, M. (1998). El vendedor profesional. Pirámide. Madrid
+
+📚 Recursos sin cambios (14):
+------------------------------
 BRAIDOT,   N.   P.  (2004).  Venta  Inteligente:  el  método  de  la  venta  neurorrelacional.  Editorial  puerto
 Norte-Sur. Madrid
 
@@ -20,41 +25,21 @@ pospandémicos. Empresa Activa, Barcelona
 DEL   BARRIO,   S.   (2012).   Venta   personal:   una   perspectiva  integrada  y  relacional,  editorial  UOC:
 Barcelona
 
+DOÑA TOLEDO, L. (Coordinador). (2018). Brandísimo; creación de marca personal. Editorial Universidad
+de Granada
+
 FONT BARROT, A. (2007). Curso de negociación estratégica. Ed. UOC, Barcelona
+
+GREENBERG, P. (2002). CRM: Gestión de Relaciones con los Clientes. McGraw-Hill. Madrid
+
+HELLER, M.E. (1993). La venta profesional. Macchi. Buenos Aires
 
 HUNT,   C.S.;   DEITZ,  G.D.;  HANSEN,  J.D.  (2023).  Ventas  profesionales.  Porque  todos  somos  vendedores.
 Mc-Graw Hill
 
 JOBBER, D.; LANCASTER, G. (2009). Selling and Sales Management (8th edition), Prentice Hall, London
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-KÜSTER,   I.;   ROMÁN,   S.   (2008).  Venta  Personal  y  Dirección  de  Ventas:  La  Fidelización  del  Cliente.
-Thomson,   Madrid   ARTAL   CASTELLS,   M.   (1998).   El   vendedor   profesional.  Pirámide.  Madrid  →  ARTAL
-CASTELLS, M. (1998). El vendedor profesional. Pirámide. Madrid
-
-✅ Recursos añadidos:
-------------------------------
-BALLESTER   ARNAL,   R.;   GIL   LARIO,   M.D.   (2002).   Habilidades   sociales:  Evaluación  y  tratamiento.
-Síntesis. Madrid
-
-DOÑA TOLEDO, L. (Coordinador). (2018). Brandísimo; creación de marca personal. Editorial Universidad
-de Granada
-
-DOÑA    TOLEDO,   L.   (Coordinador).   (2020).   Brandísimo;   diseño   y   marketing   personal.   Editorial
-Universidad de Granada
-
-DÍEZ DE CASTRO, E. C.; NAVARRO GARCÍA, A.; PERAL PERAL, B. (2003). Dirección de la Fuerza de Ventas,
-ESIC, Madrid
-
-GREENBERG, P. (2002). CRM: Gestión de Relaciones con los Clientes. McGraw-Hill. Madrid
-
-HELLER, M.E. (1993). La venta profesional. Macchi. Buenos Aires
-
 KOTLER, P. (1985). Dirección de marketing. Ed. Prentice-Hall. Madrid
-
-KÜSTER,   I.;   ROMÁN,   S.   (2008).  Venta  Personal  y  Dirección  de  Ventas:  La  Fidelización  del  Cliente.
-Thomson, Madrid
 
 SMITH, MANUEL J. (2003). Cuando digo no, me siento culpable (2ª ed.). Mondadori. Barcelona
 
@@ -65,4 +50,23 @@ THOMPSON, J.W. (1986). La venta: análisis científico y práctico. Ed. Hispano 
 
 ZICHERMANN, G., Y CUNNINGHAM, C. (2011). Gamification by design. O’Reilly books
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (6):
+------------------------------
+ARTAL CASTELLS, M. (1998). El vendedor profesional. Pirámide. Madrid
+
+ARTAL CASTELLS, M. (1999). Dirección de ventas. Organización del departamento de ventas y gestión de
+vendedores. ESIC. Madrid
+
+BALLESTER   ARNAL,   R.;   GIL   LARIO,   M.D.   (2002).   Habilidades   sociales:  Evaluación  y  tratamiento.
+Síntesis. Madrid
+
+DOÑA    TOLEDO,   L.   (Coordinador).   (2020).   Brandísimo;   diseño   y   marketing   personal.   Editorial
+Universidad de Granada
+
+DÍEZ DE CASTRO, E. C.; NAVARRO GARCÍA, A.; PERAL PERAL, B. (2003). Dirección de la Fuerza de Ventas,
+ESIC, Madrid
+
+KÜSTER,   I.;   ROMÁN,   S.   (2008).  Venta  Personal  y  Dirección  de  Ventas:  La  Fidelización  del  Cliente.
+Thomson, Madrid
+
+📊 Porcentaje estimado de cambio: 45% [████░░░░░░]

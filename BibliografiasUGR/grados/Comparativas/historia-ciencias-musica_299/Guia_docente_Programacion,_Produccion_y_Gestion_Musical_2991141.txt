@@ -2,50 +2,29 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-AA.VV. Manual Atalaya. Apoyo a la gestión cultural, Cádiz, Universidad de Cádiz, 2014. Disponible en
-línea: http://atalayagestioncultural.es
-
-ANDER-EGG,   Ezequiel   y   AGUILAR,  Mª  José,  Cómo  elaborar  un  proyecto,  Buenos  Aires,  Lumen/Humanitas,
-2000
-
-BONET,   Lluís,   CASTAÑER,   Xavier  y  FONT,  Josep,  Gestión  de  proyectos  culturales.  Análisis  de  casos,
-Barcelona, Ariel, 1999
-
-CARAVACA,   Rubén,   La   gestión   de   las   músicas   actuales,   Madrid,  Agencia  Española  de  Cooperación
-Internacional para el Desarrollo (AECID), 2013
-
-HORINE, Gregory, Gestión de proyectos, Anaya, Madrid, 2005
-
-LÓPEZ   LIGERO,   Mar.   Producción  de  espectáculos  y  eventos.  Planificación  y  gestión.  Barcelona,  UOC,
-2024
-
-LÓPEZ   SINTAS,   Jordi   y   GARCÍA   ÁLVAREZ,  Ercilla,  El  consumo  de  las  artes  escénicas  y  musicales  en
-España:   comportamiento,   valores  y  estilos  de  vida  de  los  consumidores,  Barcelona,  Fundación  Autor,
-2002
-
-NOYA,   Javier,   del   VAL,   Fernán   y  PÉREZ,  Martín  (coords.),  MUSYCA,  Música,  sociedad  y  creatividad
-artística, Madrid, Biblioteca Nueva, 2010
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (35):
 ------------------------------
 AA.VV. Arte y parte en la sociedad del espectaculo, Deusto, Universidad de Deusto, 2005
+
+AA.VV. Manual Atalaya. Apoyo a la gestión cultural, Cádiz, Universidad de Cádiz, 2014. Disponible en
+línea: http://atalayagestioncultural.es
 
 AMORÓS,   Andrés   y   DÍEZ   BORQUE,  José  M.  (coords.),  Historia  de  los  espectáculos  en  España,  Madrid,
 Castalia, 1999
 
+BONET,   Lluís,   CASTAÑER,   Xavier  y  FONT,  Josep,  Gestión  de  proyectos  culturales.  Análisis  de  casos,
+Barcelona, Ariel, 1999
+
 BOURDIEU, Pierre, La distinción; criterio y bases sociales del gusto, Madrid, Taurus, 1988
 
 BUENO, Gustavo, El mito de la cultura, Madrid, Prensa Ibérica, 1996
+
+CARAVACA,   Rubén,   La   gestión   de   las   músicas   actuales,   Madrid,  Agencia  Española  de  Cooperación
+Internacional para el Desarrollo (AECID), 2013
 
 COOK,   Nicholas,   De   Madonna   al   canto  gregoriano:  una  muy  breve  introducción  a  la  música,  Madrid,
 Alianza Editorial, 2005
@@ -55,7 +34,12 @@ COPLAND, Aarón, Cómo escuchar la música, México, Fondo de Cultura Económica
 DRÖSSER,   Christoph,  La  seducción  de  la  música:  los  secretos  de  nuestro  instinto  musical,  Barcelona,
 Ariel, 2012
 
+Disponible   en   línea:  http://atalayagestioncultural.es  ANDER-EGG,  Ezequiel  y  AGUILAR,  Mª  José,  Cómo
+elaborar un proyecto, Buenos Aires, Lumen/Humanitas, 2000
+
 FERNÁNDEZ CID, Antonio, Granada: Historia de un Festival, Madrid, Ministerio de Cultura, 1984
+
+HORINE, Gregory, Gestión de proyectos, Anaya, Madrid, 2005
 
 IBERNI, Luis, Toda la música del mundo, Barcelona, Alba, 1997
 
@@ -64,12 +48,22 @@ Madrid, Acento Editorial, 1997
 
 LOCK, Dennis, Fundamentos de la gestión de proyectos, Madrid, AENOR, 2003
 
+LÓPEZ   LIGERO,   Mar.   Producción  de  espectáculos  y  eventos.  Planificación  y  gestión.  Barcelona,  UOC,
+2024
+
+LÓPEZ   SINTAS,   Jordi   y   GARCÍA   ÁLVAREZ,  Ercilla,  El  consumo  de  las  artes  escénicas  y  musicales  en
+España:   comportamiento,   valores  y  estilos  de  vida  de  los  consumidores,  Barcelona,  Fundación  Autor,
+2002
+
 MALARRIAGA,   Assumpció   y  NEUMAN,  Víctor,  “Taller:  Preparación  del  público”,  Papeles  del  Festival  de
 música   española  de  Cádiz,  Nº  4,  Granada,  Consejería  de  Cultura  de  la  Junta  de  Andalucía  y  Centro  de
 Documentación Musical de Andalucía, 2009, pp. 91-98
 
 NEUMAN,   Víctor,   “Los   conciertos   didácticos  para  escolares”.  Eufonía:  Didáctica  de  la  música,  32,
 2004, pp. 17-28
+
+NOYA,   Javier,   del   VAL,   Fernán   y  PÉREZ,  Martín  (coords.),  MUSYCA,  Música,  sociedad  y  creatividad
+artística, Madrid, Biblioteca Nueva, 2010
 
 OIRÉ, Gregory M., Manual Imprescindible para la Gestión de Proyectos, Madrid, Anaya Multimedia, 2005
 
@@ -102,4 +96,8 @@ Brahms, Buenos Aires, Fondo de Cultura Económica, 2011
 
 ―, ¿Quién mató a la música clásica? Madrid, Acento Editorial, 1998
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,12 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+BATICLE,   Jeaninne.  Goya.  Madrid:  Encuentro,  1995  BONET,  Juan  Manuel.  Diccionario  de  las  Vanguardias
+en España (1907-1936). Madrid: Alianza, 1995
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 AAVV. Paisaje y figura del 98. Madrid: Fundación Central Hispano, 1997
 
@@ -19,8 +20,6 @@ Granada: Aula de Cultura del Movimiento, 1974
 BALDELLOU,   Miguel  Ángel  y  CAPITEL,  Antón.  Arquitectura  española  del  siglo  XX.  Madrid:  Espasa  Calpe,
 1995
 
-BONET, Juan Manuel. Diccionario de las Vanguardias en España (1907-1936). Madrid: Alianza, 1995
-
 BOZAL FERNÁNDEZ, Valeriano. Arte español del siglo XX. Madrid: Espasa Calpe, 1995, 2 vols
 
 BRIHUEGA, Jaime. Las vanguardias artísticas en España (1909-1936). Madrid: Istmo, 1981
@@ -28,8 +27,8 @@ BRIHUEGA, Jaime. Las vanguardias artísticas en España (1909-1936). Madrid: Ist
 CABRA   LAREDO,  Mª  Dolores  (editora).  Una  puerta  abierta  al  mundo.  España  en  la  litografía  romántica.
 Madrid: Compañía Literaria, 1994
 
-CABRERA    GARCÍA,   María   Isabel.   Tradición   y   vanguardia   en   el   pensamiento   artístico   español
-(1939-1959). Granada: Universidad de Granada, 1998
+CABRERA   GARCÍA,   María   Isabel.  Tradición  y  vanguardia  en  el  pensamiento  artístico  CALVO  SERRALLER,
+Francisco (dir.). Enciclopedia del arte español del siglo XX. Madrid: Mondadori, 1991
 
 CALVO SERRALLER, Francisco.La imagen romántica de España: Arte y arquitectura del siglo XIX. Madrid:
 Alianza, 1995
@@ -39,6 +38,9 @@ grabado en España (siglos XIX y XX). Madrid: Espasa Calpe, Summa Artis, vol. XX
 
 CHÁVARRI,   Raúl.   Mito   y   realidad  de  la  Escuela  de  Vallecas.  Madrid:  Ibérico  Europea  de  Ediciones,
 1975
+
+D'ORS,   Carlos.   El   Noucentisme.  Presupuestos  ideológicos,  estéticos  y  artísticos.  Madrid:  Cátedra,
+2000
 
 D'ORS, Eugenio. Arte vivo. Los precursores del arte contemporáneo. Madrid: Espasa Calpe, 1976
 
@@ -68,22 +70,18 @@ Madrid: Edarcón, 1978
 
 MORALES MARÍN, José Luis. Pintura en España (1750-1808). Madrid: Cátedra, 1994
 
+REYERO, Carlos y FREIXA, Mireia. Pintura y escultura en España (1800-1919), Madrid: Cátedra, 1995
+
 URRUTIA URRUTIA, Ángel. Arquitectura española (siglo XX). Madrid: Cátedra, 1997
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-REYERO,   Carlos   y   FREIXA,   Mireia.   Pintura   y   escultura   en  España  (1800-1919),  Madrid  →  REYERO,
-Carlos y FREIXA, Mireia. Pintura y escultura en España (1800-1919), Madrid: Cátedra, 1995
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (12):
 ------------------------------
 BATICLE, Jeaninne. Goya. Madrid: Encuentro, 1995
 
-CALVO   SERRALLER,   Francisco   (dir.).  Enciclopedia  del  arte  español  del  siglo  XX.  Madrid:  Mondadori,
-1991
+BONET, Juan Manuel. Diccionario de las Vanguardias en España (1907-1936). Madrid: Alianza, 1995
 
-D'ORS,   Carlos.   El   Noucentisme.  Presupuestos  ideológicos,  estéticos  y  artísticos.  Madrid:  Cátedra,
-2000
+CABRERA    GARCÍA,   María   Isabel.   Tradición   y   vanguardia   en   el   pensamiento   artístico   español
+(1939-1959). Granada: Universidad de Granada, 1998
 
 MARZO,   Jorge   Luis   y   MAYAYO,   Patricia.   Arte  en  España  (1939-2015).  Ideas,  prácticas,  políticas.
 Madrid: Cátedra, 2015
@@ -105,4 +103,4 @@ TOUSSAINT, Lawrence. El Paso y el arte abstracto en España. Madrid: Cátedra, 1
 
 UREÑA, Gabriel. Las vanguardias artísticas en la posguerra española (1940-1959). Madrid: Istmo, 1995
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]

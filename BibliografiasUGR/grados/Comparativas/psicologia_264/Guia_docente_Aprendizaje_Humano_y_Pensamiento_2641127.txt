@@ -2,19 +2,18 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Baron,   J.   (2008).   Thinking   and   deciding.   Cambridge   University  Press  Delgado,  M.,  Phelps,  E.  &
+Robbins, T. (2011) Decision Making, Affect, and Learning
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Bouton   M.A.   (2017).  Learning  and  Behavior.  A  contemporary  synthesis.  (Second  Edition).  Sunderland,
 Sinauer Associates Inc
 
 Carretero,   M.   y   Asensio,  M.  (Coords.)  (2008)  Psicología  del  Pensamiento  (2ª  ed.).  Madrid:  Alianza
 Editorial
-
-Dreher J. & Tremblay, L. (2009). Handbook of reward and decision making. Boston: Academic Press
 
 Espino, O. G. (2004) Pensamiento y razonamiento. Pirámide. Madrid
 
@@ -43,18 +42,17 @@ Cambridge handbook of thinking and reasoning (pp. 321–349). Cambridge Universi
 
 Ormrod, J. E (2008) Aprendizaje Humano (4ª Ed.). Pearson, Prentice Hall, Madrid
 
+Oxford   University   Press   Dreher   J.  &  Tremblay,  L.  (2009).  Handbook  of  reward  and  decision  making.
+Boston: Academic Press
+
 Pineño, O. Vadillo y Matute. H. (Eds.) (2007). Psicología del Aprendizaje. Badajoz, Abecedario
 
 Plous, S. (1993). The psychology of judgment and decision making. New York: McGraw-Hill
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Baron,   J.   (2008).   Thinking   and   deciding.   Cambridge   University  Press  Delgado,  M.,  Phelps,  E.  &
-Robbins,   T.   (2011)   Decision   Making,   Affect,   and   Learning   →   Baron,   J.   (2008).  Thinking  and
-deciding. Cambridge University Press
+Baron, J. (2008). Thinking and deciding. Cambridge University Press
 
-✅ Recursos añadidos:
-------------------------------
 Delgado,   M.,   Phelps,   E.   &   Robbins,   T.   (2011)   Decision   Making,   Affect,  and  Learning.  Oxford
 University Press
 
@@ -65,4 +63,4 @@ Heyes, C. (2018). Cognitive gadgets: The cultural evolution of thinking. Harvard
 
 Wastell, C., & Howarth, S. (2021). Reasoning, judging, deciding: The science of thinking
 
-📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

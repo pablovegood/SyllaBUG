@@ -2,11 +2,11 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Agresti, A. (1984). Analysis of Ordinal Categorical Data. Wiley
 
@@ -14,12 +14,18 @@ Agresti, A. (1990). Categorical Data Analysis. Wiley
 
 Agresti, A. (1996). An Introduction to Categorical Data Analysis. Wiley
 
+Aguilera   del   Pino,   A.M.   (2001).   Tablas   de  Contingencia  Bidimensionales.  Colección  Cuadernos  de
+Estadística (15). La muralla- Hespérides
+
 Aguilera del Pino, A.M. (2005). Modelización de Tablas de Contingencia Multidimensionales. Colección
 Cuadernos de Estadística (33). La muralla- Hespérides
 
 Andersen, E.B. (1994). The Statistical Analysis of Categorical Data. Springer-Verlag
 
 Bilder, C.R. y Loughin, T.M. (2015). Analysis of categorical data with R. CRC Press
+
+Birkhaüser   Ruiz-Maya,   L.,   Martín   Pliego,   F.J.,   Montero,   J.M.  y  Uriz  Tomé,  P.  (1995).  Análisis
+Estadístico de Encuestas: Datos Cualitativos. Ed. AC
 
 Bishop, Y.M.M., Fienberg, S.E. y Holland, P.W. (1975). Discrete Multivariate Analysis. MIT
 
@@ -38,23 +44,15 @@ Kleinbaum, D.G. (1994). Logistic Regression. A Self-Learning Text. Springer-Verl
 
 Power, D.A. y Xie, Y. (2000). Statistical Methods for Categorical Data Análisis. Academia Press
 
-Ruiz-Maya,   L.,   Martín   Pliego,  F.J.,  Montero,  J.M.  y  Uriz  Tomé,  P.  (1995).  Análisis  Estadístico  de
-Encuestas: Datos Cualitativos. Ed. AC
-
 Selvin, S. (1996). Statistical Analysis of Epidemiological Data. Oxford University Press
 
 Silva Aycaguer, L. y Barroso Utra, I. (2004). Regresión Logística. Hespérides-La Muralla
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Thompson,   L.   (2007).  S-PLUS  (and  R)  Manual  to  Accompany  Agresti’s  (2002)  Categorical  Data  Aguilera
-del   Pino,   A.M.   (2001).  Tablas  de  Contingencia  Bidimensionales.  Colección  Cuadernos  de  Estadística
-(15).    La    muralla-    Hespérides   →   Aguilera   del   Pino,   A.M.   (2001).   Tablas   de   Contingencia
-Bidimensionales. Colección Cuadernos de Estadística (15). La muralla- Hespérides
-
-✅ Recursos añadidos:
-------------------------------
 Thompson,   L.   (2007).  S-PLUS  (and  R)  Manual  to  Accompany  Agresti’s  (2002)  Categorical  Data  Analysis
 (2ª edition) (https://home.comcast.net/~lthompson221/Splusdiscrete2.pdf)
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

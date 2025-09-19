@@ -2,11 +2,19 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+ACEBILLO,   JOSÉ;   STEEGMANN,   ENRIQUE;   Las   medidas  de  la  arquitectura.  Edit.  Riverside  Agency  2008
+CAMPO   BAEZA,   ALBERTO;   La   idea   construida.  Textos  de  Arquitectura  y  Diseño,  Edit.  universidad  de
+Palermo, 2006
 
-📚 Recursos sin cambios:
+ARGAN;   El   concepto   de   espacio   arquitectónico.   GG.   Poseidón.   Buenos   Aires   1966  BAKER,  G;  Le
+Corbusier. Análisis de la Forma. GG. Barcelona, 1992
+
+CHING,   F.K;   Arquitectura:  forma,  espacio  y  orden.  GG.  Barcelona  1998  CHING,  F.K;  Manual  del  Dibujo
+Arquitectónico. GG. Barcelona 1986
+
+📚 Recursos sin cambios (13):
 ------------------------------
 BERGER, J; Mirar. GG, 2006
 
@@ -35,23 +43,12 @@ ZUMTHOR, P: Atmósferas. GG, Barcelona, 2009
 
 ZUMTHOR, P: Pensar la arquitectura. GG, Barcelona, 2005
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-ACEBILLO,   JOSÉ;   STEEGMANN,   ENRIQUE;   Las   medidas  de  la  arquitectura.  Edit.  Riverside  Agency  2008
-CAMPO   BAEZA,   ALBERTO;   La   idea   construida.  Textos  de  Arquitectura  y  Diseño,  Edit.  universidad  de
-Palermo,   2006   →   ACEBILLO,   JOSÉ;   STEEGMANN,   ENRIQUE;   Las   medidas   de   la   arquitectura.  Edit.
-Riverside Agency 2008
+ACEBILLO, JOSÉ; STEEGMANN, ENRIQUE; Las medidas de la arquitectura. Edit. Riverside Agency 2008
 
-CHING,   F.K;   Arquitectura:  forma,  espacio  y  orden.  GG.  Barcelona  1998  CHING,  F.K;  Manual  del  Dibujo
-Arquitectónico.   GG.   Barcelona   1986   →  CHING,  F.K;  Manual  del  Dibujo  Arquitectónico.  GG.  Barcelona
-1986
+ARGAN; El concepto de espacio arquitectónico. GG. Poseidón. Buenos Aires 1966
 
-ARGAN;   El   concepto   de   espacio   arquitectónico.   GG.   Poseidón.   Buenos   Aires   1966  BAKER,  G;  Le
-Corbusier.    Análisis    de    la   Forma.   GG.   Barcelona,   1992   →   ARGAN;   El   concepto   de   espacio
-arquitectónico. GG. Poseidón. Buenos Aires 1966
-
-✅ Recursos añadidos:
-------------------------------
 BAKER, G; Le Corbusier. Análisis de la Forma. GG. Barcelona, 1992
 
 CAMPO   BAEZA,   ALBERTO;   La   idea   construida.  Textos  de  Arquitectura  y  Diseño,  Edit.  universidad  de
@@ -59,4 +56,6 @@ Palermo, 2006
 
 CHING, F.K; Arquitectura: forma, espacio y orden. GG. Barcelona 1998
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+CHING, F.K; Manual del Dibujo Arquitectónico. GG. Barcelona 1986
+
+📊 Porcentaje estimado de cambio: 47% [████░░░░░░]

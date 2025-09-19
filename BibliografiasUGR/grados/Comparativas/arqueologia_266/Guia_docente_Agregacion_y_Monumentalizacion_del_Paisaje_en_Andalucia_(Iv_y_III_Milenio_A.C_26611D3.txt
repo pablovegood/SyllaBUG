@@ -2,17 +2,38 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (7):
 ------------------------------
+CARRIÓN,   J.S.   (coord.)   (2010):   Paleoflora   y   paleovegetación   de   la   Península  Ibérica  e  Islas
+Baleares:   Plioceno-Cuaternario,   Universidad   de   Murcia,   Murcia,   CHAPMAN,   R.   (2008):  Producing
+Inequalities:   Regional   Sequences   in  Later  Prehistoric  Southern  Spain,  Journal  of  World  Prehistory
+21, pp. 195-260
+
 CINTAS-PEÑA,   M.,   GARCÍA,   L.  (2022):  Women,  residential  patterns  and  early  social  complexity.  From
-theory   to   practice  in  Copper  Age  Iberia,  Journal  of  Anthropological  CRUZ-BERROCAL,  M.,  GARCÍA,  L.,
-GILMAN, A. (Eds.) (2013): The Prehistory of Iberia
+theory   to   practice   in   Copper   Age   Iberia,   Journal   of   Anthropological   Archaeology  67:101422.
+https://doi.org/10.1016/j.jaa.2022.101422   CRUZ-BERROCAL,   M.,  GARCÍA,  L.,  GILMAN,  A.  (Eds.)  (2013):
+The Prehistory of Iberia
 
-Emphasising   the   community:   demographic  composition  of  an  exceptional  tomb—the  Chalcolithic  burial
-site   of  Camino  del  Molino,  Caravaca  de  la  Cruz,  Murcia.  Archaeological  FERNÁNDEZ  FLORES,  A.,  GARCÍA
-SANJUÁN, L., DÍAZ-ZORITA BONILLA, M. (Eds.) (2016)
+GARCÍA, L., DÍAZ DEL RÍO, P. (eds.) (2006): Social Inequality in Iberian Late Prehistory
 
-📚 Recursos sin cambios:
+GARCÍA,   L.,   SÁNCHEZ,   F.,   MORELL,   B.  (2022):  The  ‘‘Megalithisation’’  of  Iberia:  A  SpatioTemporal
+Model,   L’Anthropologie   126:5.  https://doi.org/10.1016/j.anthro.2022.103072  GARCÍA,  L.,  SCARRE,  C.,
+WHEATLEY, D. (eds.) (2011): Exploring Time and Matter in
+
+MEDEROS, A., SCHUHMACHER, T. X., FALKENSTEIN, F., OSTERMEIER, N., BASHORE, C., DANA, N., GARVÍN, L.,
+VARGAS,   J.   M.  (2023):  Valencina  de  la  Concepción  (Sevilla):  secuencia  del  poblado  calcolítico  y  de
+los   recintos   de   fosos.   Campaña   de   2019.   Cuadernos  http://dx.doi.org/10.30827/CPAG.v33i0.28338
+NOCETE,   F.   (Coord.)   (2004):   Odiel.   Proyecto   de  Investigación  Arqueológica  para  el  Análisis  del
+Origen de la Desigualdad Social en el Suroeste de la Península Ibérica, Arqueología. Monografías 19,
+Consejería de Cultura. Dirección General de Bienes Culturales. Sevilla
+
+Papers   from  the  session  ‘Social  Inequality  in  Iberian  Late  Prehistory’  presented  at  the  Congress  of
+Peninsular   Archaeology,   Faro,   2004,   British   Archaeological   Reports.  International  Series  1525,
+Oxford
+
+https://doi.org/10.1038/s41598-022-13014-6
+
+📚 Recursos sin cambios (22):
 ------------------------------
 ALMAGRO,   M.   (Ed.)   (2014):  Protohistoria  de  la  Península  Ibérica.  Del  Neolítico  a  la  Romanización,
 Burgos
@@ -42,16 +63,21 @@ demographic   composition   of   an  exceptional  tomb—the  Chalcolithic  buri
 Caravaca    de    la    Cruz,    Murcia.    Archaeological   and   Anthropological   Sciences,   15(9),   140.
 https://doi.org/10.1007/s12520-023-01844-y
 
-GARCÍA,   L.,   DÍAZ   DEL   RÍO,  P.  (eds.)  (2006):  Social  Inequality  in  Iberian  Late  Prehistory.  Papers
-from   the   session   ‘Social   Inequality   in   Iberian   Late   Prehistory’  presented  at  the  Congress  of
-Peninsular   Archaeology,   Faro,   2004,   British   Archaeological   Reports.  International  Series  1525,
-Oxford
+Emphasising   the   community:   demographic  composition  of  an  exceptional  tomb—the  Chalcolithic  burial
+site of Camino del Molino, Caravaca de la Cruz, Murcia. Archaeological and Anthropological Sciences,
+15(9),   140.   https://doi.org/10.1007/s12520-023-01844-y   FERNÁNDEZ   FLORES,  A.,  GARCÍA  SANJUÁN,  L.,
+DÍAZ-ZORITA   BONILLA,   M.   (Eds.)   (2016):   Montelirio.   Un  gran  monumento  megalítico  de  la  Edad  del
+Cobre, Arqueología Monografías, Consejería de Cultura, Sevilla
 
 GARCÍA,   L.,   RUIZ,   B.   (Coords.)   (2009):  Las  grandes  piedras  de  la  Prehistoria.  Sitios  y  Paisajes
 Megalíticos de Andalucía, Consejería de Cultura, Junta de Andalucía, Antequera
 
 GARCÍA,   L.,   RUIZ,   B.   (coords.)   (2009):  Las  grandes  piedras  de  la  Prehistoria.  Sitios  y  Paisajes
 Megalíticos de Andalucía, Consejería de Cultura, Junta de Andalucía, Antequera
+
+GARCÍA,   L.,   SCARRE,   C.,   WHEATLEY,   D.   (eds.)   (2011):   Exploring  Time  and  Matter  in  Prehistoric
+Monuments:   Absolute   Chronology  and  Rare  Rocks  in  European  Megaliths,  Menga:  Revista  de  Prehistoria
+de Andalucía, Monografía nº 1, Junta de Andalucía, Sevilla
 
 GARCÍA,   L.,   VARGAS,   J.M.,   HURTADO,   V.,   RUIZ,  T.,  CRUZ-AUÑÓN,  R.  (Eds.)  (2013):  El  asentamiento
 prehistórico   de   Valencina  de  la  Concepción  (Sevilla).  Investigación  y  Tutela  en  el  150  aniversario
@@ -71,11 +97,6 @@ MARTÍNEZ,   R.M.  (2013):  El  IV  milenio  ANE  en  el  Guadalquivir  Medio  I
 de   la   comunidad   doméstica   aldeana,   British   Archaeological   Reports.  International  Series  2563,
 Archaeopress, Oxford
 
-MEDEROS, A., SCHUHMACHER, T. X., FALKENSTEIN, F., OSTERMEIER, N., BASHORE, C., DANA, N., GARVÍN, L.,
-VARGAS,   J.   M.  (2023):  Valencina  de  la  Concepción  (Sevilla):  secuencia  del  poblado  calcolítico  y  de
-los   recintos  de  fosos.  Campaña  de  2019.  Cuadernos  de  Prehistoria  y  Arqueología  de  la  Universidad  de
-Granada 33, pp. 239-298. http://dx.doi.org/10.30827/CPAG.v33i0.28338
-
 MOLINA,   F.,   CÁMARA,   J.A.   (2005):   Los   Millares.  Guía  del  yacimiento  arqueológico,  Consejería  de
 Cultura, Junta de Andalucía, Sevilla
 
@@ -85,10 +106,6 @@ Málaga, Málaga
 
 NOCETE,    F.    (2001):    Tercer    milenio    antes   de   nuestra   era.   Relaciones   y   contradicciones
 centro/periferia en el Valle del Guadalquivir, Bellaterra Arqueología, Barcelona
-
-NOCETE,   F.   (Coord.)   (2004):   Odiel.   Proyecto   de  Investigación  Arqueológica  para  el  Análisis  del
-Origen de la Desigualdad Social en el Suroeste de la Península Ibérica, Arqueología. Monografías 19,
-Consejería de Cultura. Dirección General de Bienes Culturales. Sevilla
 
 ROJO,   M.Á.,   GARRIDO,   R.   y  GARCÍA,  Í.  (coords.)  (2012):  El  Neolítico  en  la  Península  Ibérica  y  su
 contexto europeo, Cátedra, Madrid
@@ -103,34 +120,11 @@ Scientific Reports 12, 9431 (2022). https://doi.org/10.1038/s41598-022-13014-6
 ÁLVAREZ,   E.,   BLANCO,   A.,   RIVERO,   O.  (2020):  Prehistoria  de  la  Península  Ibérica,  Universidad  de
 Salamanca, Salamnanca
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-GARCÍA, L., SÁNCHEZ, F., MORELL, B. (2022): The ‘‘Megalithisation’’ of Iberia: A Spatio- GARCÍA, L.,
-SCARRE, C., WHEATLEY, D. (eds.) (2011): Exploring Time and Matter in Prehistoric Monuments: Absolute
-Chronology   and   Rare   Rocks   in   European   Megaliths,   Menga:   Revista  de  Prehistoria  de  Andalucía,
-Monografía   nº   1,  Junta  de  Andalucía,  Sevilla  →  GARCÍA,  L.,  SCARRE,  C.,  WHEATLEY,  D.  (eds.)  (2011):
-Exploring   Time   and  Matter  in  Prehistoric  Monuments:  Absolute  Chronology  and  Rare  Rocks  in  European
-Megaliths, Menga: Revista de Prehistoria de Andalucía, Monografía nº 1, Junta de Andalucía, Sevilla
-
-Papers   from  the  session  ‘Social  Inequality  in  Iberian  Late  Prehistory’  presented  at  the  Congress  of
-Peninsular   Archaeology,   Faro,   2004,  British  Archaeological  Reports  →  GARCÍA,  L.,  DÍAZ  DEL  RÍO,  P.
-(eds.)   (2006):   Social   Inequality   in   Iberian   Late   Prehistory.   Papers  from  the  session  ‘Social
-Inequality   in   Iberian   Late  Prehistory’  presented  at  the  Congress  of  Peninsular  Archaeology,  Faro,
-2004, British Archaeological Reports. International Series 1525, Oxford
-
-GARCÍA,   L.,   DÍAZ  DEL  RÍO,  P.  (eds.)  (2006):  Social  Inequality  in  Iberian  Late  Prehistory  →  GARCÍA,
-L.,   DÍAZ   DEL   RÍO,  P.  (eds.)  (2006):  Social  Inequality  in  Iberian  Late  Prehistory.  Papers  from  the
-session   ‘Social   Inequality   in   Iberian   Late   Prehistory’  presented  at  the  Congress  of  Peninsular
-Archaeology, Faro, 2004, British Archaeological Reports. International Series 1525, Oxford
-
 CARRIÓN,   J.S.   (coord.)   (2010):   Paleoflora   y   paleovegetación   de   la   Península  Ibérica  e  Islas
-Baleares:   Plioceno-Cuaternario,   Universidad   de   Murcia,   Murcia,   CHAPMAN,   R.   (2008):  Producing
-Inequalities:   Regional   Sequences   in  Later  Prehistoric  Southern  Spain,  Journal  of  World  Prehistory
-21,   pp.   195-260   →   CARRIÓN,   J.S.   (coord.)   (2010):  Paleoflora  y  paleovegetación  de  la  Península
-Ibérica e Islas Baleares: Plioceno-Cuaternario, Universidad de Murcia, Murcia
+Baleares: Plioceno-Cuaternario, Universidad de Murcia, Murcia
 
-✅ Recursos añadidos:
-------------------------------
 CHAPMAN,   R.  (2008):  Producing  Inequalities:  Regional  Sequences  in  Later  Prehistoric  Southern  Spain,
 Journal of World Prehistory 21, pp. 195-260
 
@@ -138,10 +132,26 @@ CINTAS-PEÑA,   M.,   GARCÍA,   L.  (2022):  Women,  residential  patterns  and
 theory   to   practice   in   Copper   Age   Iberia,   Journal   of   Anthropological   Archaeology  67:101422.
 https://doi.org/10.1016/j.jaa.2022.101422
 
-FERNÁNDEZ FLORES, A., GARCÍA SANJUÁN, L., DÍAZ-ZORITA BONILLA, M. (Eds.) (2016): Montelirio. Un gran
-monumento megalítico de la Edad del Cobre, Arqueología Monografías, Consejería de Cultura, Sevilla
+GARCÍA,   L.,   DÍAZ   DEL   RÍO,  P.  (eds.)  (2006):  Social  Inequality  in  Iberian  Late  Prehistory.  Papers
+from   the   session   ‘Social   Inequality   in   Iberian   Late   Prehistory’  presented  at  the  Congress  of
+Peninsular   Archaeology,   Faro,   2004,   British   Archaeological   Reports.  International  Series  1525,
+Oxford
+
+GARCÍA,   L.,   DÍAZ   DEL   RÍO,  P.  (eds.)  (2006):  Social  Inequality  in  Iberian  Late  Prehistory.  Papers
+from   the   session   ‘Social   Inequality   in   Iberian   Late   Prehistory’  presented  at  the  Congress  of
+Peninsular   Archaeology,   Faro,   2004,   British   Archaeological   Reports.  International  Series  1525,
+Oxford
 
 GARCÍA,   L.,   SÁNCHEZ,   F.,   MORELL,  B.  (2022):  The  ‘‘Megalithisation’’  of  Iberia:  A  Spatio-Temporal
 Model, L’Anthropologie 126:5. https://doi.org/10.1016/j.anthro.2022.103072
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+MEDEROS, A., SCHUHMACHER, T. X., FALKENSTEIN, F., OSTERMEIER, N., BASHORE, C., DANA, N., GARVÍN, L.,
+VARGAS,   J.   M.  (2023):  Valencina  de  la  Concepción  (Sevilla):  secuencia  del  poblado  calcolítico  y  de
+los   recintos  de  fosos.  Campaña  de  2019.  Cuadernos  de  Prehistoria  y  Arqueología  de  la  Universidad  de
+Granada 33, pp. 239-298. http://dx.doi.org/10.30827/CPAG.v33i0.28338
+
+NOCETE,   F.   (Coord.)   (2004):   Odiel.   Proyecto   de  Investigación  Arqueológica  para  el  Análisis  del
+Origen de la Desigualdad Social en el Suroeste de la Península Ibérica, Arqueología. Monografías 19,
+Consejería de Cultura. Dirección General de Bienes Culturales. Sevilla
+
+📊 Porcentaje estimado de cambio: 51% [█████░░░░░]

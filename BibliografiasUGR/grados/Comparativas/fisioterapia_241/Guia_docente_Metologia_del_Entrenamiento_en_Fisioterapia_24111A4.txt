@@ -2,11 +2,19 @@
 Grado: fisioterapia (241)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+HEYWARD,   V.H.   (1996).  Evaluación  y  prescripción  del  ejercicio.  Ed.  Paidotribo.  Barcelona  IRIGOYEN,
+J.M. (1998). Cardiología y deporte. Ed. Gymnos. Madrid
 
-📚 Recursos sin cambios:
+JIMÉNEZ,   J.  (1998).  Columna  vertebral  y  medio  acuático.  Ed.  Gymnos.  Madrid  LLORET  RIERA,  M.  (1997).
+Natación terapeútica. Ed. Paidotribo. Barcelona
+
+PLATONOV,   V.N.   (1991).   La   adaptación   en   el  deporte.  Ed.  Paidotribo.  Barcelona  RUIZ  TENDERO,  G.
+(2012).   Manual   de   entrenamiento  deportivo  para  el  EEES:  fundamentos,  metodología  y  planificación.
+Ed. Wanceulen. Sevilla
+
+📚 Recursos sin cambios (19):
 ------------------------------
 ALTER,   M.J.   (1990).   Los  estiramientos.  Bases  científicas  y  desarrollo  de  ejercicios.  Ed.  Martínez
 Roca. Barcelona
@@ -26,10 +34,6 @@ COMETTI, G. (1998). Los métodos modernos de musculación. Ed. Paidotribo. Barce
 DELAVIER,   F.   (2004).   Guía   de   los  movimientos  de  musculación.  Descripción  anatómica.  Paidotribo.
 Barcelona
 
-GARCIA,   J.M.;  NAVARRO,  M;  RUIZ,  J.A.  (1996).  Bases  teóricas  del  Entrenamiento  Deportivo.  Principios
-y   Aplicaciones.Gymnos.   Madrid.GARCÍA  MANSO,  J.M.  ;  NAVARRO,  M.;  RUIZ,  J.A.  (1996).  Pruebas  para  la
-valoración de la capacidad motriz en el deporte. Gymnos. Madrid
-
 GROSSER,   M.,   HERMAN,   H.,   TUSKER,  C,  ZINTL,  F.  (1991)  El  movimiento  deportivo.  Bases  anatómicas  y
 biomecánicas. Ed. Martínez Roca. Barcelona
 
@@ -40,20 +44,6 @@ práctica en todas las especialidades deportivas. Ed. Martínez Roca
 
 GROTKASTEN, S. y KIENZERLE, H. (1998). Gimnasia para la columna vertebral. Ed. Paidotribo. Barcelona
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-HEYWARD, V.H. (1996). Evaluación y prescripción del ejercicio. Ed. Paidotribo. Barcelona
-
-IRIGOYEN, J.M. (1998). Cardiología y deporte. Ed. Gymnos. Madrid
-
-JIMÉNEZ, J. (1998). Columna vertebral y medio acuático. Ed. Gymnos. Madrid
-
-LLORET RIERA, M. (1997). Natación terapeútica. Ed. Paidotribo. Barcelona
-
 LLORET   RIERA,   M.   (1998).   1020   ejercicios   y  actividades  de  readaptación  motriz.  Ed.  Paidotribo.
 Barcelona
 
@@ -62,10 +52,9 @@ Barcelona
 
 MARCOS BECERRO, J.F. (1989). Salud y deporte para todos. Ed. Eudema. Madrid
 
-PLATONOV, V.N. (1991). La adaptación en el deporte. Ed. Paidotribo. Barcelona
-
-RUIZ   TENDERO,  G.  (2012).  Manual  de  entrenamiento  deportivo  para  el  EEES:  fundamentos,  metodología  y
-planificación. Ed. Wanceulen. Sevilla
+Paidotribo.   Barcelona  GARCIA,  J.M.;  NAVARRO,  M;  RUIZ,  J.A.  (1996).  Bases  teóricas  del  Entrenamiento
+Deportivo.   Principios   y   Aplicaciones.Gymnos.   Madrid.GARCÍA  MANSO,  J.M.  ;  NAVARRO,  M.;  RUIZ,  J.A.
+(1996). Pruebas para la valoración de la capacidad motriz en el deporte. Gymnos. Madrid
 
 SERRA GRIMA, J.R. (1996). Prescripción de ejercicio físico para la salud. Ed. Paidotribo.Barcelona
 
@@ -77,4 +66,19 @@ WILMORE,   J.H.;   COSTILL,   D.L.   (1999).  Physiology  of  Sport  and  Exerci
 
 ZATSIORSKY, V. (1995). Science and Practice of Strength Training. Human Kinetics. Champaign. (IL)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (6):
+------------------------------
+HEYWARD, V.H. (1996). Evaluación y prescripción del ejercicio. Ed. Paidotribo. Barcelona
+
+IRIGOYEN, J.M. (1998). Cardiología y deporte. Ed. Gymnos. Madrid
+
+JIMÉNEZ, J. (1998). Columna vertebral y medio acuático. Ed. Gymnos. Madrid
+
+LLORET RIERA, M. (1997). Natación terapeútica. Ed. Paidotribo. Barcelona
+
+PLATONOV, V.N. (1991). La adaptación en el deporte. Ed. Paidotribo. Barcelona
+
+RUIZ   TENDERO,  G.  (2012).  Manual  de  entrenamiento  deportivo  para  el  EEES:  fundamentos,  metodología  y
+planificación. Ed. Wanceulen. Sevilla
+
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

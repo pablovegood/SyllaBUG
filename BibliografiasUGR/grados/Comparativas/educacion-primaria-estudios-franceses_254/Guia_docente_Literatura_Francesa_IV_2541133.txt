@@ -2,13 +2,20 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
+BONNEFOY, Cl., La poésie en France, Paris : Seuil
+
+BRUNEL,   P.,   BELLENGER,   Y.,   et   al.,   Histoire   de  la  littérature  française.  XIXe  et  XXe,  Paris  :
+Bordas, 2001
+
 BRÉCHON, R., Le Surréalisme, Paris : Colin, 1971
+
+CORVIN, M., Dictionnaire encyclopédique du théâtre
 
 DANTZIG, Ch., Dictionnaire égoïste de la littérature française, Paris : Grasset, 2006
 
@@ -19,7 +26,11 @@ Nathan Université, 2001
 
 Histoire de la France Littéraire (3 vols.), sous la direction de M. Prigent, Paris : PUF, 2006
 
+Histoire de la Littérature Française, Paris : Bordas
+
 LAGARDE & MICHARD, Paris : Bordas, 2006
+
+LAGARDE, A., MICHARD, L. : XXe siècle. Nouvelle édition mise à jour 1900-1973, Paris : Bordas, 1983
 
 LEUWERS, D., Introduction à la poésie moderne et contemporaine, Paris : Bordas, 1990
 
@@ -37,6 +48,8 @@ Universalis, Paris : Albin Michel, 1997
 PAVIS,   P.   Dictionnaire   du   théâtre.   Termes  et  concepts  de  l’analyse  théâtrale.  Messidor  Éditions
 Sociales 1980- Dunod, 1996
 
+PICHOIS, C., Littérature française, Paris : Arthaud
+
 RICARDOU, J., Le Nouveau Roman, Paris : Seuil, 1978
 
 RYNGAERT, J.-P., Lire le théâtre contemporain, Paris : Dunod, 1993
@@ -50,22 +63,8 @@ Paris : Nathan, 1992
 
 VIART, D., ET VERCIER, B., La littérature française au présent, Paris : Bordas, 2005
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-LAGARDE,   A.,   MICHARD,   L.   :   XXe  siècle.  Nouvelle  édition  mise  à  jour  1900-1973,  Paris  →  LAGARDE,
-A., MICHARD, L. : XXe siècle. Nouvelle édition mise à jour 1900-1973, Paris : Bordas, 1983
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-BONNEFOY, Cl., La poésie en France, Paris : Seuil
-
-BRUNEL,   P.,   BELLENGER,   Y.,   et   al.,   Histoire   de  la  littérature  française.  XIXe  et  XXe,  Paris  :
-Bordas, 2001
-
-CORVIN, M., Dictionnaire encyclopédique du théâtre
-
-Histoire de la Littérature Française, Paris : Bordas
-
-PICHOIS, C., Littérature française, Paris : Arthaud
-
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

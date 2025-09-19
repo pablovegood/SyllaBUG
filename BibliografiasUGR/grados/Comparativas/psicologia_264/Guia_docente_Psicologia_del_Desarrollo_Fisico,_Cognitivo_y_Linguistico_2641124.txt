@@ -2,11 +2,12 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Biblioteca   Nueva:   Madrid  Papalia,  Martorell,  G.,  Ortiz  Salinas,  M.  E.,  y  Montes  de  Oca  Mayagoitía,
+S. I. (2017)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 Barrett, M. (1999). The Development of Language. Psychology Press. Hove
 
@@ -50,10 +51,17 @@ Routledge
 Lizaso,   I.,  Acha,  J.,  Reizabal,  L.,  &  García,  A  (2017)  Desarrollo  biológico  y  cognitivo  en  el  ciclo
 vital. Pirámide
 
+Moreno   Ríos,   S.  (2005).  Psicología  del  desarrollo  cognitivo  y  adquisición  del  lenguaje.  Biblioteca
+Nueva: Madrid
+
 Ovejero Hernández, M. (2013). Desarrollo cognitivo y motor. Macmillan Iberia
 
 Palacios   J.   Marchesi   A.   Y   Coll   C.   (Comps.)  (1999)  Desarrollo  psicologico  y  educación,  vol.  1.
 Psicología Evolutiva. Madrid, Alianza Editorial
+
+Papalia,   Martorell,   G.,  Ortiz  Salinas,  M.  E.,  y  Montes  de  Oca  Mayagoitía,  S.  I.  (2017).  Desarrollo
+humano   /   Diane  E.  Papalia,  Gabriela  Martorell  ;  revisión  técnica  María  Elena  Ortíz  Salinas,  Sandra
+Irma Montes de Oca Mayagoitia (14a ed.)
 
 Schaie, K.W. y Willis, S. L. (2003). Psicología de la edad adulta y la vejez. Madrid: Prentice Hall
 
@@ -65,17 +73,8 @@ Macmillan Higher Education: New York
 
 Tamarit Valero. (2016). Desarrollo cognitivo y motor / Amparo Tamarit Valero. Síntesis
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Moreno   Ríos,   S.  (2005).  Psicología  del  desarrollo  cognitivo  y  adquisición  del  lenguaje.  Biblioteca
-Nueva: Madrid Papalia, Martorell, G., Ortiz Salinas, M. E., y Montes de Oca Mayagoitía, S. I. (2017)
-→   Moreno   Ríos,   S.   (2005).   Psicología   del   desarrollo   cognitivo   y   adquisición   del  lenguaje.
-Biblioteca Nueva: Madrid
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Papalia,   Martorell,   G.,  Ortiz  Salinas,  M.  E.,  y  Montes  de  Oca  Mayagoitía,  S.  I.  (2017).  Desarrollo
-humano   /   Diane  E.  Papalia,  Gabriela  Martorell  ;  revisión  técnica  María  Elena  Ortíz  Salinas,  Sandra
-Irma Montes de Oca Mayagoitia (14a ed.)
-
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

@@ -2,11 +2,13 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Cervera Fernández, Isabel, Arte y cultura en China : conceptos, materiales y términos : de la A a la
+Z,   Ediciones   del   Serbal   ,1997   Chang,  Kwang-chih,  Arte,  mito  y  ritual  :  el  camino  a  la  autoridad
+política en la China antigua, Katz, 2009
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (34):
 ------------------------------
 Barnhart Richard M... [et al.]Three thousand years of Chinese painting, Yale University Press, 1997
 
@@ -34,9 +36,9 @@ Colin Mackenzie ... [et al.]The Chinese art book, Phaidon Press, 2013
 Finlay, Robert, The pilgrim art: the culture of porcelain in world history, University of California
 Press, 2010
 
-Gabriele Fahr-Becker (editor)The art of East Asia, Könemann, 1999
+Gabriele Fahr-Becker (editor)The art of East Asia, Könemann , 1999
 
-Gesterkamp, Lennert,The heavenly court: Daoist temple painting in China, 1200-1400, Brill,2011
+Gesterkamp, Lennert,The heavenly court: Daoist temple painting in China, 1200-1400, Brill ,2011
 
 Gillette, Donna L. editor, Rock Art and Sacred Landscapes, Springer
 
@@ -44,6 +46,9 @@ Guerreros de Xi'an : tesoros de las dinastías Qin y Han : [exposición],| Fóru
 
 Hay,   Jonathan,  Sensuous  surfaces:  the  decorative  object  in  early  modern  China,University  of  Hawai⁰i
 Press, 2010
+
+Jullien,   François,   Elogio   de   lo   insípido   :   a   partir  de  la  estética  y  del  pensamiento  chinos,
+Siruela, 1998
 
 Kontler, Christine, Arte chino, Libsa, 2001
 
@@ -66,7 +71,7 @@ Mezcua   López,  Antonio  José,  Estatuas  malditas,  rocas  olvidadas  :  his
 Comares, 2015
 
 Paludan,   Ann,The   Chinese   spirit   road   :   the   classical   tradition   of  stone  tomb  statuary,  Yale
-University Press,1991
+University Press ,1991
 
 Rhie, Marylin, Interrelationships between the buddhist art of China and the art of India and Central
 Asia from 618- 755 A.d, IstitutoUniversitario Orientale, 1988
@@ -78,30 +83,23 @@ Ryckmans)Discurso acerca de la pintura por el monje Calabaza Amarga, Universidad
 
 Sullivan, Michael,The arts of China, University of California Press, 2008
 
-Taoísmo y arte chino, Siruela, 1993
+Taoísmo y arte chino, Siruela , 1993
 
 Vecchia, Stefano: Arte chino y japonés, Scala, 2011
 
 Watson, William,The arts of China 900-1620, Yale University Press, 2000
 
 White,   Julia   M.   Pathways   to   the   Afterlife   :   early   Chinese  art  from  the  Sze  Hong  Collection,
-University of Hawaii Press, 1993
+University of Hawaii Press , 1993
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Cervera Fernández, Isabel, Arte y cultura en China : conceptos, materiales y términos : de la A a la
-Z,   Ediciones   del   Serbal   ,1997   Chang,  Kwang-chih,  Arte,  mito  y  ritual  :  el  camino  a  la  autoridad
-política   en   la  China  antigua,  Katz,  2009  →  Chang,  Kwang-chih,  Arte,  mito  y  ritual  :  el  camino  a  la
-autoridad política en la China antigua, Katz, 2009
+Wu Hung, The art of the Yellow Spring: understanding Chinese tombs, Reaktion Books, 2010
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Cervera Fernández, Isabel, Arte y cultura en China : conceptos, materiales y términos : de la A a la
 Z, Ediciones del Serbal,1997
 
-Jullien,   François,   Elogio   de   lo   insípido   :   a   partir  de  la  estética  y  del  pensamiento  chinos,
-Siruela, 1998
+Chang,   Kwang-chih,   Arte,   mito   y   ritual  :  el  camino  a  la  autoridad  política  en  la  China  antigua,
+Katz, 2009
 
-Wu Hung, The art of the Yellow Spring: understanding Chinese tombs, Reaktion Books, 2010
-
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

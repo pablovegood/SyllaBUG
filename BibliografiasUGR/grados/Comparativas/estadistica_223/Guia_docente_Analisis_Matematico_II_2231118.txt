@@ -2,13 +2,15 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Adams, Robert A., “Cálculo”. Pearson Educación,2009
+
+Bombal,F, Rodríguez G. Vera,L.,“Problemas de Análisis Matemático”, Tomos 1 y 2, A.C.,1987
 
 Granero, F. “Cálculo integral y aplicaciones”. Pearson Educación, 2001
 
@@ -18,14 +20,10 @@ J. de Burgos, “Cálculo infinitesimal de varias variables”. McGraw-Hill,1995
 
 Pita Ruiz, C., “Cálculo Vectorial”, Prentice-Hall Hispano Americano, S.A., 1995
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-3.Stewart,J.,   “Cálculo   Multivariable”.4   ªEd,   International   Thomson   Editores   2002   1.Bombal,F,
-Rodríguez   G.   Vera,L.,“Problemas   de   Análisis   Matemático”,   Tomos   1  y  2,  A.C.,1987  →  Stewart,J.,
-“Cálculo Multivariable”.4 ªEd, International Thomson Editores 2002
+Stewart,J., “Cálculo Multivariable”.4 ªEd, International Thomson Editores 2002
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
-Bombal,F, Rodríguez G. Vera,L.,“Problemas de Análisis Matemático”, Tomos 1 y 2, A.C.,1987
+No hay elementos.
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

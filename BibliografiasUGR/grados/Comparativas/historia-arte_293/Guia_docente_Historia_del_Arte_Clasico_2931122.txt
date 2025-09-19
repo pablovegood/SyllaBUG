@@ -2,14 +2,18 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Enciclopedia   multimedia   de   arte  universal:Arte  antiguo  y  medieval(Tomo  II).  Arte  griego  y  romano:
+las   raíces   de   occidente(Vol.   VIII).   Barcelona:  Alphabetum,  1999  [Archivo  de  ordenador]  Historia
+Universal del Arte: Grecia y Roma(Vol. II). Madrid: Espasa-Calpe, 2002
 
-📚 Recursos sin cambios:
+Enciclopedia multimedia de arte universal:Arte antiguo y medieval(Tomo II).Arte griego y romano: las
+raíces   de   occidente(Vol.   VIII).   Barcelona:   Alphabetum,   1999   [Archivo   de   ordenador]  Historia
+Universal del Arte: Grecia y Roma(Vol. II). Madrid: Espasa-Calpe, 2002
+
+📚 Recursos sin cambios (56):
 ------------------------------
-AA. VV. Hispania: El legado de Roma. Madrid: Ministerio de Educación y Cultura, 1999
-
 AA. VV. Los íberos, príncipes de Occidente. Barcelona: Fundación La Caixa, 1998
 
 AA. VV.Historia Universal del Arte, “Ars Magna”. Barcelona: Planeta, 2006
@@ -30,8 +34,6 @@ AA. VV.Historia del Arte. Madrid: Espasa-Calpe, 2001
 
 ARMESTO   SÁNCHEZ,   J.  y  otros.Historia  del  Arte.  Comentarios  de  obras  maestras.  Granada:  Port-Royal,
 1998
-
-BENDALA GALÁN, M. El arte romano. Madrid: Anaya, 1990
 
 BENDALA GALÁN, M. La Antigüedad: de la prehistoria a los visigodos. Madrid: Sílex, 1990
 
@@ -55,10 +57,14 @@ BOARDMAN, J. Escultura griega: el periodo clásico. Barcelona, Ediciones Destino
 
 BUSSAGLI, M. (ed.). Roma. Colonia: Könemann, 2000
 
+CARMONA MUELA, Juan. Iconografía clásica. Guía básica para estudiantes. Madrid: Istmo, 2005
+
 CHECA CREMADES, F, GARCÍA FELGUERA, M. S. y MORÁN TURINA, M. Guía para el estudio de la Historia del
 Arte. Madrid, Cátedra, 1980
 
 CORNELL, T. Roma: el legado de un imperio. Barcelona: Folio, 1989
+
+CUÉLLAR LÁZARO, J. España romana: arquitectura romana en España. Madrid: Agualarga, 1995
 
 ELVIRA   BARBA,   M.   A.   Arte   etrusco   y   romano.   Del  Tíber  al  Imperio  universal.  Madrid:  Guillermo
 Escolar, 2017
@@ -71,6 +77,9 @@ ELVIRA,   M.   A.  y  BLANCO  FREIJEIRO,  A.  “Etruria  y  Roma  republicana�
 
 ELVIRA,   M.   A.  “El  Arte  Griego  (III)”.  En:  Historia  del  Arte  (Historia  16),  nº.  9.  Madrid,  Historia
 16, 1989
+
+El   legado   del   mundo   clásico  en  la  Península  Ibérica  AA.  VV.  Hispania:  El  legado  de  Roma.  Madrid:
+Ministerio de Educación y Cultura, 1999
 
 FERNÁNDEZ CASTRO, Mª. C. Villas romanas en España, Madrid, 1982
 
@@ -94,7 +103,14 @@ LEVI, P. Grecia: la cuna de occidente. Madrid: Ediciones del Prado, 1992
 LEÓN   ALONSO,  P.  “El  Arte  Griego  (II)”.  En:  Historia  del  Arte  (Historia  16),  nº.  8.  Madrid,  Historia
 16, 1989
 
+Las   culturas   prehelénicas   y   el   arte   griego  BIANCHI  BANDINELLI,  R.  y  PARIBENI,  E.  El  arte  de  la
+Antigüedad clásica. Grecia. Madrid: Akal, 1998
+
+Los etruscos y el arte romano BENDALA GALÁN, M. El arte romano. Madrid: Anaya, 1990
+
 MARTIN, R. Arquitectura griega. Madrid: Aguilar, 1989
+
+MENÉNDEZ PIDAL, R. (dir.)Historia de España. Madrid: España Calpe
 
 MORANTE LÓPEZ, F. y RUIZ ZAPATA, A. Mª.Análisis y comentario de la obra de arte: estudio de obras de
 pintura, arquitectura y escultura. Madrid: Edinumen, 1997
@@ -119,32 +135,17 @@ ROBERTSON, M. El arte griego: introducción a su historia. Madrid: Alianza, 1993
 
 STACCIOLI, R. A. Cómo reconocer el arte etrusco. Barcelona: Edunsa, 1993
 
+STORCH   DE   GRACIA,   J.   “El   Arte   Griego   (I)”,   en  Historia  del  Arte  (Historia  16),  nº  7.  Madrid,
+Historia 16, 1989
+
 TARELLA, A. Cómo reconocer el arte romano. Barcelona: Edunsa, 1993
 
 WARD PERKINS, J. B. Arquitectura romana. Madrid: Aguilar, 1989
 
 ZANKER, P. Augusto y el poder de las imágenes. Madrid, Alianza, 1992
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Enciclopedia   multimedia   de   arte  universal:Arte  antiguo  y  medieval(Tomo  II).  Arte  griego  y  romano:
-las   raíces   de   occidente(Vol.   VIII).   Barcelona:  Alphabetum,  1999  [Archivo  de  ordenador]  Historia
-Universal   del   Arte:   Grecia   y   Roma(Vol.  II).  Madrid:  Espasa-Calpe,  2002  →  Historia  Universal  del
-Arte: Grecia y Roma(Vol. II). Madrid: Espasa-Calpe, 2002
-
-Enciclopedia multimedia de arte universal:Arte antiguo y medieval(Tomo II).Arte griego y romano: las
-raíces   de   occidente(Vol.   VIII).   Barcelona:   Alphabetum,   1999   [Archivo   de   ordenador]  Historia
-Universal   del   Arte:   Grecia   y   Roma(Vol.  II).  Madrid:  Espasa-Calpe,  2002  →  Historia  Universal  del
-Arte: Grecia y Roma(Vol. II). Madrid: Espasa-Calpe, 2002
-
-✅ Recursos añadidos:
-------------------------------
-BIANCHI BANDINELLI, R. y PARIBENI, E. El arte de la Antigüedad clásica. Grecia. Madrid: Akal, 1998
-
-CARMONA MUELA, Juan. Iconografía clásica. Guía básica para estudiantes. Madrid: Istmo, 2005
-
-CUÉLLAR LÁZARO, J. España romana: arquitectura romana en España. Madrid: Agualarga, 1995
-
 El legado del mundo clásico en la Península Ibérica
 
 Enciclopedia   multimedia   de   arte  universal:Arte  antiguo  y  medieval(Tomo  II).  Arte  griego  y  romano:
@@ -153,13 +154,13 @@ las raíces de occidente(Vol. VIII). Barcelona: Alphabetum, 1999 [Archivo de ord
 Enciclopedia multimedia de arte universal:Arte antiguo y medieval(Tomo II).Arte griego y romano: las
 raíces de occidente(Vol. VIII). Barcelona: Alphabetum, 1999 [Archivo de ordenador]
 
+Enciclopedia multimedia de arte universal:Arte antiguo y medieval(Tomo II).Arte griego y romano: las
+raíces de occidente(Vol. VIII). Barcelona: Alphabetum, 1999 [Archivo de ordenador]
+
+Historia Universal del Arte: Grecia y Roma(Vol. II). Madrid: Espasa-Calpe, 2002
+
 Las culturas prehelénicas y el arte griego
 
 Los etruscos y el arte romano
 
-MENÉNDEZ PIDAL, R. (dir.)Historia de España. Madrid: España Calpe
-
-STORCH   DE   GRACIA,   J.   “El   Arte   Griego   (I)”,   en  Historia  del  Arte  (Historia  16),  nº  7.  Madrid,
-Historia 16, 1989
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

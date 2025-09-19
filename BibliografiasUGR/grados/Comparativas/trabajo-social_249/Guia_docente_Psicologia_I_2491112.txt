@@ -2,11 +2,13 @@
 Grado: trabajo-social (249)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Papalia,   D.  E.,  y  Martorell,  G.  (2021).  Desarrollo  Humano.  McGraw-Hill  Interamericana  de  España  S.L
+Marchesi,   A.,   Carretero,   M.   y  Palacios,  J.  (1999).  Psicología  Evolutiva.  3  vols.  Madrid:  Alianza
+Universidad
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (49):
 ------------------------------
 Arnett,   J.J.   (2008).   Adolescencia   y   adultez   emergente.   Un   enfoque   cultural.  México:  Pearson
 Education. 3ª Edición
@@ -140,15 +142,11 @@ Vasta, R., Haití, M.M y Millar, S.A. (1996). Psicología infantil. Barcelona: A
 
 Yuste, N., Rubio, R. y Aleixandre, M. (2004). Introducción a la Psicogerontología. Madrid: Pirámide
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Papalia,   D.   E.,   y   Martorell,   G.  (2021).  Desarrollo  Humano.  McGraw-Hill  Interamericana  de  España
 Marchesi,   A.,   Carretero,   M.   y  Palacios,  J.  (1999).  Psicología  Evolutiva.  3  vols.  Madrid:  Alianza
-Universidad   →   Marchesi,   A.,   Carretero,   M.   y  Palacios,  J.  (1999).  Psicología  Evolutiva.  3  vols.
-Madrid: Alianza Universidad
+Universidad
 
-✅ Recursos añadidos:
-------------------------------
 Papalia, D. E., y Martorell, G. (2021). Desarrollo Humano. McGraw-Hill Interamericana de España S.L
 
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

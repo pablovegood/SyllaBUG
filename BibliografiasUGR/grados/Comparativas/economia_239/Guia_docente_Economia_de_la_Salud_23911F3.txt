@@ -2,11 +2,32 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
+CADTH.   Retrieved   from   https://www.cadth.ca   Fernández   Aguilar,  C.,  Martín  Martín,  J.  J.,  &  Minué
+Lorenzo,   S.   (2021).   Use   of   Heuristics   during   the   Clinical   Decision   Process  in  Primary  Care
+Physicians in Real Conditions
 
-📚 Recursos sin cambios:
+GAPS,   1(4).   https://doi.org/10.5944/gaps.2022.00004  Sullivan,  S.  D.,  Mauskopf,  J.  A.,  &  Lee,  K.  M.
+(2021). Pharmacoeconomics: Principles and Methods (3rd ed.). Springer
+
+García,   L.,   Martín,  J.  J.,  Aranda,  J.  M.,  Rivas,  F.,  &  Vas,  J.  (2015).  Cost  Effectiveness  of  Using
+Moxibustion to Correct Non-vertex Presentation. Acupuncture in Medicine, 33, 1-6
+
+Husereau,   D.,   Drummond,   M.,   Augustovski,   F.,   de   Bekker-Grob,  E.,  Briggs,  A.  H.,  Carswell,  C.,
+Caulley, L., Chaiyakunapruk, N., Greenberg, D., Loder, E., Mauskopf, J., Mullins, C. D., Petrou, S.,
+Pwu,   R.   F.,  &  Staniszewska,  S.  (2022).  Consolidated  Health  Economic  Evaluation  Reporting  Standards
+(CHEERS)   2022   Explanation   and   Elaboration:   A   Report  of  the  ISPOR  CHEERS  II  Good  Practices  Task
+Force. Value in Health, 25(1), 10-31
+
+https://doi.org/10.1016/j.jval.2021.10.008   Fornell,   B.,  Correa,  M.,  &  López  del  Amo,  M.  P.  (2018).
+Influences   of   Changes   in   the   Spanish   Labor   Market   during   the  Economic  Crisis  (2007-2011)  on
+Perceived Health. Quality of Life Research
+
+https://doi.org/10.1016/j.jval.2021.10.008   López-Bastida,   J.,   Oliva,   J.,  Antoñanzas,  F.,  García-
+Altés, A., Gisbert, R., Mar, J., et al
+
+📚 Recursos sin cambios (22):
 ------------------------------
 Arrow,   K.   (1963).  Uncertainty  and  the  Welfare  Economics  of  Medical  Care.  American  Economic  Review,
 53(5), 941-973
@@ -28,23 +49,23 @@ in Clinical Practice, 28, 135-141. https://doi.org/10.1016/j.jval.2021.10.008
 Folland, S., Goodman, A. C., Stano, M., & Danagoulian, S. (2024). The Economics of Health and Health
 Care (9th ed.). Routledge
 
-Fornell,   B.,   Correa,  M.,  &  López  del  Amo,  M.  P.  (2018).  Influences  of  Changes  in  the  Spanish  Labor
-Market during the Economic Crisis (2007-2011) on Perceived Health. Quality of Life Research
-
-Godoy   Bermúdez,   A.,   Rojo   Gallego-Burin,  A.,  Delgado  Márquez,  L.,  Martín  Martín,  J.  J.,  &  Sánchez
-Martínez,   M.  T.,  López  Del  Amo  González,  M.  P.  (2023).  Variation  in  Perceived  Health  across  Gender,
-Working   Status,   Educational  Level,  and  Regional  Health  Care  Expenditure  in  Spain  (2014–2017).  PLOS
-ONE, 1-20
-
 Jódar-Sánchez,   F.,   Malet-Larrea,   A.,   Martín,   J.   J.,   García-Mochón,   L.,  López  del  Amo,  M.  P.,
 Martínez-Martínez,   F.,   Gastelurrutia-Garralda,   M.  A.,  García-Cárdenas,  V.,  Sabater-Hernández,  D.,
 Sáez-Benito, L., & Benrimoj, S. I. (2015). Cost-Utility Analysis of a Medication Review with Follow-
 up   Service   for   Older   Adults   with   Polypharmacy   in   Community  Pharmacies  in  Spain:  The  conSIGUE
 Program. Pharmacoeconomics, 33, 599-610
 
+López   del   Amo   González,   M.   P.,   Benítez   Hidalgo,   V.,  &  Martín  Martín,  J.  J.  (2018).  Long  Term
+Unemployment,   Income,   Poverty,   and   Social   Public  Expenditure,  and  Their  Relationship  with  Self-
+perceived Health in Spain (2007-2011). BMC Public Health, 18, 133
+
 López-Bastida, J., Oliva, J., Antoñanzas, F., García-Altés, A., Gisbert, R., Mar, J., et al. (2010).
 A   proposed  guideline  for  economic  evaluation  of  health  technologies  [in  Spanish].  Gaceta  Sanitaria,
 24(2), 154-170
+
+Mann,   S.,   Berdahl,   C.,   Baker,   L.,   &  Girosi,  F.  (2023).  Artificial  Intelligence  in  the  COVID-19
+Response:   Volume   1,  Applications  Used  in  the  Clinical  and  Public  Health  Response  to  COVID-19.  RAND
+Corporation. https://www.rand.org/pubs/external_publications/EP70086.html
 
 McPake,   B.,   Normand,   C.,   Smith,   S.,   &   Nolan,   A.   (2020).   Health  Economics:  An  International
 Perspective (4th ed.). Routledge
@@ -56,63 +77,54 @@ Neumann, P. J., Cohen, J. T., & Ollendorf, D. A. (2021). Institute for Clinical 
 The     Right     Price:     A     Value-Based    Prescription    for    Drug    Costs.    Oxford    Academic.
 https://doi.org/10.1093/oso/9780197512883.003.0006
 
-Oliva,   M.,  González,  B.,  Trapero,  M.,  Hidalgo,  Á.,  &  Del  Llano,  J.  E.  (2018).  Economía  de  la  Salud.
-Pirámide
-
-Parkin,   D.,  Appleby,  J.,  &  Maynard,  A.  (2013).  Economics:  The  Biggest  Fraud  Ever  Perpetrated  on  the
-World? The Lancet, 382(9900), E11-E15. https://doi.org/10.1016/S0140-6736(13)61178-2
-
-Pérez   Romero,   C.,   Ortega   Díaz,   M.   I.,  Ocaña  Riola,  R.,  &  Martín  Martín,  J.  J.  (2019).  Análisis
-Multinivel de la Eficiencia Técnica de los Hospitales del Sistema Nacional de Salud Español por Tipo
-de Propiedad y Gestión. Gaceta Sanitaria
+Oliva   Moreno,   J.,   &   Catalá-López,   F.   (2022).   Principios   básicos   de   Evaluación  Económica  de
+Intervenciones   Sanitarias.   Revista   de   Gobierno,  Administración  y  Políticas  de  Salud.  GAPS,  1(4).
+https://doi.org/10.5944/gaps.2022.00004
 
 Romaniuc,   R.,   Li,   D.,   Alvergne,   A.,   Dubois,  D.,  Baggio,  M.,  &  Krawczyk,  M.  W.  (2023).  COVID-19
 Vaccination:   Exploring   the  Behavioural  Determinants  and  Interventions  through  a  Literature  Review.
 Publications Office of the European Union. https://doi.org/10.2760/028810
 
-Sloan, F. A., & Hsieh, C. R. (2017). Health Economics. The MIT Press
+Soto   Álvarez,  J.  (2014).  Evaluación  económica  de  medicamentos  y  tecnologías  sanitarias:  Principios,
+métodos y aplicaciones en política sanitaria. Springer Healthcare
 
-🔁 Misma obra con edición/año distinto:
+https://doi.org/10.1016/S0140-6736(13)61178-2 Pérez Romero, C., Ortega Díaz, M. I., Ocaña Riola, R.,
+&   Martín   Martín,   J.  J.  (2019).  Análisis  Multinivel  de  la  Eficiencia  Técnica  de  los  Hospitales  del
+Sistema Nacional de Salud Español por Tipo de Propiedad y Gestión. Gaceta Sanitaria
+
+https://doi.org/10.1136/acupmed-2014-010696   Godoy   Bermúdez,   A.,   Rojo   Gallego-Burin,  A.,  Delgado
+Márquez,   L.,  Martín  Martín,  J.  J.,  &  Sánchez  Martínez,  M.  T.,  López  Del  Amo  González,  M.  P.  (2023).
+Variation   in  Perceived  Health  across  Gender,  Working  Status,  Educational  Level,  and  Regional  Health
+Care Expenditure in Spain (2014–2017). PLOS ONE, 1-20
+
+https://doi.org/10.17226/26874 Oliva, M., González, B., Trapero, M., Hidalgo, Á., & Del Llano, J. E.
+(2018). Economía de la Salud. Pirámide
+
+https://doi.org/10.2760/028810 Sloan, F. A., & Hsieh, C. R. (2017). Health Economics. The MIT Press
+
+https://www.rand.org/pubs/external_publications/EP70086.html   Parkin,  D.,  Appleby,  J.,  &  Maynard,  A.
+(2013). Economics: The Biggest Fraud Ever Perpetrated on the World? The Lancet, 382(9900), E11-E15
+
+✅ Recursos añadidos (5):
 ------------------------------
+Fornell,   B.,   Correa,  M.,  &  López  del  Amo,  M.  P.  (2018).  Influences  of  Changes  in  the  Spanish  Labor
+Market during the Economic Crisis (2007-2011) on Perceived Health. Quality of Life Research
+
+García,   L.,   Martín,  J.  J.,  Aranda,  J.  M.,  Rivas,  F.,  &  Vas,  J.  (2015).  Cost  Effectiveness  of  Using
+Moxibustion     to    Correct    Non-vertex    Presentation.    Acupuncture    in    Medicine,    33,    1-6.
+https://doi.org/10.1136/acupmed-2014-010696
+
 Husereau,   D.,   Drummond,   M.,   Augustovski,   F.,   de   Bekker-Grob,  E.,  Briggs,  A.  H.,  Carswell,  C.,
 Caulley, L., Chaiyakunapruk, N., Greenberg, D., Loder, E., Mauskopf, J., Mullins, C. D., Petrou, S.,
 Pwu,   R.   F.,  &  Staniszewska,  S.  (2022).  Consolidated  Health  Economic  Evaluation  Reporting  Standards
-(CHEERS)   2022   Explanation   and   Elaboration   →   Husereau,   D.,   Drummond,   M.,  Augustovski,  F.,  de
-Bekker-Grob, E., Briggs, A. H., Carswell, C., Caulley, L., Chaiyakunapruk, N., Greenberg, D., Loder,
-E.,   Mauskopf,   J.,   Mullins,  C.  D.,  Petrou,  S.,  Pwu,  R.  F.,  &  Staniszewska,  S.  (2022).  Consolidated
-Health   Economic   Evaluation  Reporting  Standards  (CHEERS)  2022  Explanation  and  Elaboration:  A  Report
-of    the    ISPOR    CHEERS    II    Good    Practices    Task   Force.   Value   in   Health,   25(1),   10-31.
-https://doi.org/10.1016/j.jval.2021.10.008
+(CHEERS)   2022   Explanation   and   Elaboration:   A   Report  of  the  ISPOR  CHEERS  II  Good  Practices  Task
+Force. Value in Health, 25(1), 10-31. https://doi.org/10.1016/j.jval.2021.10.008
 
-López   del   Amo   González,   M.   P.,   Benítez   Hidalgo,   V.,  &  Martín  Martín,  J.  J.  (2018).  Long  Term
-Unemployment,   Income,   Poverty,   and   Social   Public  Expenditure,  and  Their  Relationship  with  Self-
-perceived   Health   in   Spain  (2007-2011).  BMC  Public  Health,  18,  Mann,  S.,  Berdahl,  C.,  Baker,  L.,  &
-Girosi,   F.  (2023).  Artificial  Intelligence  in  the  COVID-19  Response:  Volume  1,  Applications  Used  in
-the   Clinical   and   Public   Health   Response   to  COVID-19.  RAND  Corporation  →  Mann,  S.,  Berdahl,  C.,
-Baker,   L.,   &   Girosi,   F.   (2023).   Artificial   Intelligence   in   the  COVID-19  Response:  Volume  1,
-Applications   Used   in   the   Clinical   and   Public   Health   Response   to  COVID-19.  RAND  Corporation.
-https://www.rand.org/pubs/external_publications/EP70086.html
-
-García,   L.,   Martín,  J.  J.,  Aranda,  J.  M.,  Rivas,  F.,  &  Vas,  J.  (2015).  Cost  Effectiveness  of  Using
-Moxibustion   to   Correct   Non-vertex   Presentation.   Acupuncture   in  Medicine,  33,  1-6  →  García,  L.,
-Martín,   J.   J.,  Aranda,  J.  M.,  Rivas,  F.,  &  Vas,  J.  (2015).  Cost  Effectiveness  of  Using  Moxibustion
-to      Correct      Non-vertex      Presentation.      Acupuncture      in      Medicine,      33,     1-6.
-https://doi.org/10.1136/acupmed-2014-010696
-
-✅ Recursos añadidos:
-------------------------------
-López   del   Amo   González,   M.   P.,   Benítez   Hidalgo,   V.,  &  Martín  Martín,  J.  J.  (2018).  Long  Term
-Unemployment,   Income,   Poverty,   and   Social   Public  Expenditure,  and  Their  Relationship  with  Self-
-perceived Health in Spain (2007-2011). BMC Public Health, 18, 133
-
-Oliva   Moreno,   J.,   &   Catalá-López,   F.   (2022).   Principios   básicos   de   Evaluación  Económica  de
-Intervenciones   Sanitarias.   Revista   de   Gobierno,  Administración  y  Políticas  de  Salud.  GAPS,  1(4).
-https://doi.org/10.5944/gaps.2022.00004
-
-Soto   Álvarez,  J.  (2014).  Evaluación  económica  de  medicamentos  y  tecnologías  sanitarias:  Principios,
-métodos y aplicaciones en política sanitaria. Springer Healthcare
+López-Bastida, J., Oliva, J., Antoñanzas, F., García-Altés, A., Gisbert, R., Mar, J., et al. (2010).
+A   proposed  guideline  for  economic  evaluation  of  health  technologies  [in  Spanish].  Gaceta  Sanitaria,
+24(2), 154-170
 
 Sullivan,   S.   D.,   Mauskopf,   J.  A.,  &  Lee,  K.  M.  (2021).  Pharmacoeconomics:  Principles  and  Methods
 (3rd ed.). Springer
 
-📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

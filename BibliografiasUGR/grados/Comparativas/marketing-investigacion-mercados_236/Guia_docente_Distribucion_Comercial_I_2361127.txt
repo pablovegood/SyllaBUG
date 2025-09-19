@@ -2,11 +2,13 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+RODRÍGUEZ-ARDURA,   I.   (2006):   Principios   y   estrategias   de   marketing.   Editorial  UOC.  Barcelona
+RODRÍGUEZ-ARDURA,   I.   (2008):   Marketing.com.  Marketing  y  comercio  electrónico  en  la  sociedad  de  la
+información, Editorial ESIC & Pirámide
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 APARICIO, G. y ZORRILLA P. (2015) Distribución Comercial en la era omnicanal, Editorial Pirámide
 
@@ -29,30 +31,24 @@ MOLINILLO JIMÉNEZ, S. (2014): Distribución comercial aplicada. Editorial Esic,
 
 PELTON, L., et al. (1999): Canales de Marketing y distribución comercial, Editorial McGraw-Hill
 
+RODRÍGUEZ-ARDURA, I. (2018): Principios y estrategias de marketing (Volumen 2). Editorial UOC
+
 SAINZ DE VICUÑA, J. (1996): Distribución Comercial: Opciones estratégicas, ESIC Editorial
 
 SHETH, J. Y PARVATIYAR, A. (2000): Handbook of Relationship Marketing
+
+SORET LOS SANTOS, I. (2006): Logística y marketing para la distribución comercial. Editorial Esic
 
 STERN, L. W.; et al. (1999): Canales de comercialización, 5ª Edición, Prentice Hall
 
 VÁZQUEZ,   R.   Y   TRESPALACIOS,  J.  (2006):  Estrategias  de  Distribución  Comercial:  Diseño  del  canal  de
 distribución y relación entre fabricantes y detallistas, Editorial Thomson
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-RODRÍGUEZ-ARDURA,   I.   (2006):   Principios   y   estrategias   de   marketing.   Editorial  UOC.  Barcelona
-RODRÍGUEZ-ARDURA,   I.   (2008):   Marketing.com.  Marketing  y  comercio  electrónico  en  la  sociedad  de  la
-información,   Editorial   ESIC   &   Pirámide  →  RODRÍGUEZ-ARDURA,  I.  (2008):  Marketing.com.  Marketing  y
-comercio electrónico en la sociedad de la información, Editorial ESIC & Pirámide
-
-RODRÍGUEZ-ARDURA,   I.  (2018):  Principios  y  estrategias  de  marketing  (Volumen  2).  Editorial  SORET  LOS
-SANTOS,   I.   (2006):   Logística   y   marketing   para   la   distribución   comercial.   Editorial   Esic  →
-RODRÍGUEZ-ARDURA, I. (2018): Principios y estrategias de marketing (Volumen 2). Editorial UOC
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 RODRÍGUEZ-ARDURA, I. (2006): Principios y estrategias de marketing. Editorial UOC. Barcelona
 
-SORET LOS SANTOS, I. (2006): Logística y marketing para la distribución comercial. Editorial Esic
+RODRÍGUEZ-ARDURA,   I.   (2008):   Marketing.com.  Marketing  y  comercio  electrónico  en  la  sociedad  de  la
+información, Editorial ESIC & Pirámide
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

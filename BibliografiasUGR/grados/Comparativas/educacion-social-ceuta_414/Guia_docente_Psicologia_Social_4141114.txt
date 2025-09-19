@@ -2,11 +2,24 @@
 Grado: educacion-social-ceuta (414)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+(1993). Social foundations of cognition. Annual Review of Psychology, 44, 585-612
 
-📚 Recursos sin cambios:
+Clemente, M. (Coord.) (1992). Psicología Social. Métodos y técnicas de investigación
+
+Kahneman,   D.,   Slovic,   P.   y   Tversky,  A.  (Eds.)(1982).  Judgment  under  incertainty:  heuristics  and
+biases. Cambridge Univ. Press. Levine, J. M., Resnick, L. B. y Higgins, E. T
+
+Madrid:   Eudema.  Crano,  W.D.  y  Brewer,  M.B.  (2002).  Principles  and  methods  of  social  research.  (2nd.
+Ed.). Lawrence Erlbaum Associates
+
+Rodríguez-Martín,   C.   (2003).   Psicología   social.  Madrid:  Pirámide.  Zimbardo,  P.  (2008).  El  efecto
+Lucifer. Paidós Ross, L. (1977). The intuitive psychologist and his shortcomings: Distortions in the
+attribution   process.  In  L.Berkowitz  (Ed.),  Advances  in  experimental  social  psychology  (Vol.  10,  pp.
+173-220). Academic Press
+
+📚 Recursos sin cambios (43):
 ------------------------------
 Aaronson, A. (2012). El animal social. Alianza
 
@@ -60,16 +73,9 @@ Hewstone,   M.   y   Antaki,   C.   (1990)   La   teoría   de   la  atribución
 Hewstone,   W.   Stroebe,   J.P.   Codol   y   G.M.   Stephenson:   Introducción  a  la  Psicología  Social.  Una
 perspectiva europea. Ariel
 
-Huici,   C.   (1986).   Psicología   social   cognitiva:   algunas   aportaciones   europeas.   En  H.  Peraita
-(coord.). Psicología cognitiva y ciencia cognitiva, (pp. 249-296). UNED
-
 Jones, E.E. (1998). Major developments in five decades of social psychology. En D. T. Gilbert, S. T.
 Fiske   y   G.   Lindzey  (Eds.).  The  handbook  of  social  Psychology  (4th  ed.,  vol.  1,  pp.  3-57).  McGraw-
 Hill
-
-Kahneman,   D.,   Slovic,   P.   y   Tversky,  A.  (Eds.)(1982).  Judgment  under  incertainty:  heuristics  and
-biases.   Cambridge   Univ.   Press.   Levine,   J.   M.,   Resnick,   L.  B.  y  Higgins,  E.  T.  (1993).  Social
-foundations of cognition. Annual Review of Psychology, 44, 585-612
 
 Katz,   D.   (1984).   El   enfoque   funcional   en   el  estudio  de  las  actitudes.  En  J.R.  Torregrosa  y  E.
 Crespo: Estudios básicos de Psicología Social. Hora; CIS
@@ -100,6 +106,9 @@ Psicología Social, (pp.137-184). Editorial Sanz y Torres
 Páez,   D.,   Fernández,  I.,  Ubillos,  S.  y  Zubieta,  E.  (2003).  Psicología  social,  cultura  y  educación.
 Pearson Prentice Hall
 
+Pérez   de   Villar,   Mª   J.  y  Torres,  C.  (1999).  Dinámica  de  grupos  en  formación  de  formadores:  Casos
+prácticos. Herber
+
 Rodríguez-Martín, C. (2003). Psicología social. Pirámide
 
 Sutton, R. y Douglas, K. (2019). Social Psychology. Red Globe Press
@@ -107,6 +116,9 @@ Sutton, R. y Douglas, K. (2019). Social Psychology. Red Globe Press
 Sánchez, J. C. (2002). Psicología de los grupos. McGraw Hill
 
 Turner, J. C. (1990). Redescubrir el grupo social. Morata
+
+Una   perspectiva   europea.  Ariel  Huici,  C.  (1986).  Psicología  social  cognitiva:  algunas  aportaciones
+europeas. En H. Peraita (coord.). Psicología cognitiva y ciencia cognitiva, (pp. 249-296). UNED
 
 West,   S.G.,   Gun,   S.P.   y  Chernicky,  P.  (1984).  Omnipresente  Watergate:  un  análisis  atributivo.  En
 J.F. Morales y C. Huici: Lecturas de Psicología Social. UNED (lectura 3)
@@ -122,31 +134,29 @@ Psicología Social, Thomson Herder, pp. 143- 194
 
 Zebrowitz, L. A. (1990). Social perception. Brooks/Cole Pub
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Madrid:   Eudema.  Crano,  W.D.  y  Brewer,  M.B.  (2002).  Principles  and  methods  of  social  research.  (2nd.
-Ed.).   Lawrence   Erlbaum   Associates   →   Clemente,   M.  (Coord.)  (1992).  Psicología  Social.  Métodos  y
-técnicas de investigación. Madrid: Eudema. Crano, W.D. y Brewer, M.B. (2002). Principles and methods
-of social research. (2nd. Ed.). Lawrence Erlbaum Associates
+Clemente,   M.   (Coord.)   (1992).   Psicología   Social.   Métodos   y  técnicas  de  investigación.  Madrid:
+Eudema.   Crano,   W.D.   y  Brewer,  M.B.  (2002).  Principles  and  methods  of  social  research.  (2nd.  Ed.).
+Lawrence Erlbaum Associates
 
-Clemente,   M.   (Coord.)   (1992).   Psicología  Social.  Métodos  y  técnicas  de  investigación  →  Clemente,
-M.   (Coord.)   (1992).  Psicología  Social.  Métodos  y  técnicas  de  investigación.  Madrid:  Eudema.  Crano,
-W.D.   y  Brewer,  M.B.  (2002).  Principles  and  methods  of  social  research.  (2nd.  Ed.).  Lawrence  Erlbaum
-Associates
+Clemente,   M.   (Coord.)   (1992).   Psicología   Social.   Métodos   y  técnicas  de  investigación.  Madrid:
+Eudema.   Crano,   W.D.   y  Brewer,  M.B.  (2002).  Principles  and  methods  of  social  research.  (2nd.  Ed.).
+Lawrence Erlbaum Associates
 
-Pérez   de  Villar,  Mª  J.  y  Torres,  C.  (1999).  Dinámica  de  grupos  en  formación  de  Rodríguez-Martín,  C.
-(2003).   Psicología  social.  Madrid:  Pirámide.  Zimbardo,  P.  (2008).  El  Ross,  L.  (1977).  The  intuitive
-psychologist   and   his   shortcomings:   Distortions  in  the  attribution  process.  In  L.Berkowitz  (Ed.),
-Advances   in   experimental   social   psychology   (Vol.   10,   pp.   173-220).  Academic  Press  →  Ross,  L.
-(1977).   The  intuitive  psychologist  and  his  shortcomings:  Distortions  in  the  attribution  process.  In
-L.Berkowitz (Ed.), Advances in experimental social psychology (Vol. 10, pp. 173-220). Academic Press
+Kahneman,   D.,   Slovic,   P.   y   Tversky,  A.  (Eds.)(1982).  Judgment  under  incertainty:  heuristics  and
+biases.   Cambridge   Univ.   Press.   Levine,   J.   M.,   Resnick,   L.  B.  y  Higgins,  E.  T.  (1993).  Social
+foundations of cognition. Annual Review of Psychology, 44, 585-612
 
-✅ Recursos añadidos:
-------------------------------
-Pérez   de   Villar,   Mª   J.  y  Torres,  C.  (1999).  Dinámica  de  grupos  en  formación  de  formadores:  Casos
-prácticos. Herber
+Kahneman,   D.,   Slovic,   P.   y   Tversky,  A.  (Eds.)(1982).  Judgment  under  incertainty:  heuristics  and
+biases.   Cambridge   Univ.   Press.   Levine,   J.   M.,   Resnick,   L.  B.  y  Higgins,  E.  T.  (1993).  Social
+foundations of cognition. Annual Review of Psychology, 44, 585-612
 
 Rodríguez-Martín,   C.   (2003).   Psicología   social.  Madrid:  Pirámide.  Zimbardo,  P.  (2008).  El  efecto
 Lucifer. Paidós
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+Ross,   L.   (1977).   The   intuitive  psychologist  and  his  shortcomings:  Distortions  in  the  attribution
+process.   In   L.Berkowitz   (Ed.),  Advances  in  experimental  social  psychology  (Vol.  10,  pp.  173-220).
+Academic Press
+
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

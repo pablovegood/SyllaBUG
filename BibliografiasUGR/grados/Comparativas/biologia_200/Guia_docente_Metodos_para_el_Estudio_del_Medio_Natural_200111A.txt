@@ -2,16 +2,24 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+BIBLIOGRAFÍA     GENERAL:     Krebs,     C.J.     1999.     Ecological    methodology.    Second    Edition.
+Benjamin/CummingsAddison Wesley Longman, Menlo Park, California
 
-📚 Recursos sin cambios:
+Hauer,   R.   y   Lamberti   G.A.   2006.   Methods   in   stream  ecology.  2nd  Edition  Henderson,  P.A.  2003.
+Practical methods in ecology. Blackwell
+
+MANUALES   Y   GUÍAS   DE   CAMPO:   Bang,   P.  y  Dahlström,  P.  1992.  Huellas  y  señales  de  los  animales  de
+Europa. Omega, Barcelona
+
+📚 Recursos sin cambios (22):
 ------------------------------
 Aguilo   Alonso,   M.   2000.   Guía  para  la  elaboración  de  estudios  del  medio  físico.  Ed.  Ministerio  de
 Medio Ambiente. Madrid
 
-Bang, P. y Dahlström, P. 1992. Huellas y señales de los animales de Europa. Omega, Barcelona
+Barrientos,   J.A.   2004.   Curso   práctico   de  Entomología.  Asociación  española  de  Entomología-CIBIO-
+Universitat Autónoma de Barcelona, Bellaterra
 
 Cabioc´H, J. et al. (2007). Guía de las algas de los mares de Europa. Ed. Omega, Barcelona
 
@@ -26,9 +34,6 @@ Baleares. Ed. Jaguar, Madrid
 FAO 1977. Guías para la descripción de perfiles de suelos. Mundiprensa
 
 Henderson, P.A. y Southwood, T.R.E. 2016. Ecological methods. Wiley-Blackwell
-
-Krebs,   C.J.  1999.  Ecological  methodology.  Second  Edition.  Benjamin/Cummings-Addison  Wesley  Longman,
-Menlo Park, California
 
 Lincoln,   R.J.   y   Sheals,  J.G.  1989.  Invertebrados.  Guía  de  captura  y  conservación.  Interamericana-
 McGraw Hill, Madrid
@@ -81,30 +86,7 @@ Tellería, J.L. 1986. Manual para el censo de vertebrados terrestres. Raíces, M
 
 Wetzel, R.G. y Likens, G.E. 2000. Limnological Analyses. 3th Edition. Springer-Verlag
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-2000.   Guía   submarina  de  invertebrados  no  artrópodos.  2ª  Ed.  Comares,  Granada  →  MANUALES  Y  GUÍAS  DE
-CAMPO: Bang, P. y Dahlström, P. 1992. Huellas y señales de los animales de Europa. Omega, Barcelona.
-Barrientos,   J.A.   2004.   Curso   práctico   de  Entomología.  Asociación  española  de  Entomología-CIBIO-
-Universitat   Autónoma  de  Barcelona,  Bellaterra.  Cabioc´H,  J.  et  al.  (2007).  Guía  de  las  algas  de  los
-mares   de   Europa.  Ed.  Omega,  Barcelona.  Cadevall,  J.  &  Orozco,  A.  (2016).  Caracoles  y  babosas  de  la
-Península   Ibérica   y   Baleares.   Ed.   Omega.   Barcelona.   Chinery,  M.  1988.  Guía  de  los  insectos  de
-Europa.   Omega,   Barcelona.   Esteve-Raventós,   F.,   Llistosella,  J.  y  Ortega,  A.  (2007).  Setas  de  la
-Península Ibérica e Islas Baleares. Ed. Jaguar, Madrid. López González, G. 2004. Guía de los árboles
-y   arbustos   de   la  Península  Ibérica  y  Baleares,  2ª  edición.  Ed.  Mundi  Prensa,  Madrid.  Morales,  C.,
-Quesada,   C.   y  Baena,  L.  2001.  Árboles  y  arbustos.  Diputación  de  Granada.  Ocaña  Martín,  A.,  Sánchez
-Tocino,   L.,   López   González,   S.   y   Viciana  Martín,  J.F.  2000.  Guía  submarina  de  invertebrados  no
-artrópodos.   2ª   Ed.   Comares,   Granada.   Purroy,  F.J.  y  Varela,  J.M.  2003.  Guía  de  los  mamíferos  de
-España.   Península,  Baleares  y  Canarias.  Lynx  Edicions,  Barcelona.  Salvador,  A.  &  Pleguezuelos,  J.M.
-2013.   Guía   de   reptiles   de   España.  Canseco  Editores,  Talavera  de  la  Reina.  Speybroeck,  J.  et  al.
-2017.   Guía   de   campo   de   los   anfibios   y   reptiles   de  España  y  de  Europa.  Ed.  Omega,  Barcelona.
-Svensson, L. 2014. Guía de aves de España, Europa y región mediterránea. Ed. Omega, Barcelona
-
-Hauer,   R.   y   Lamberti   G.A.   2006.   Methods   in   stream  ecology.  2nd  Edition  Henderson,  P.A.  2003.
-Practical   methods   in   ecology.   Blackwell   →   Henderson,   P.A.  2003.  Practical  methods  in  ecology.
-Blackwell
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 BIBLIOGRAFÍA   GENERAL:   Krebs,  C.J.  1999.  Ecological  methodology.  Second  Edition.  Benjamin/Cummings-
 Addison    Wesley   Longman,   Menlo   Park,   California.   New,   T.R.   1998.   Invertebrate   surveys   for
@@ -114,12 +96,33 @@ Southwood,   T.R.E.   2016.   Ecological   methods.  Wiley-Blackwell.  Tellería
 censo   de   vertebrados   terrestres.   Raíces,   Madrid.  Wetzel,  R.G.  y  Likens,  G.E.  2000.  Limnological
 Analyses. 3th Edition. Springer-Verlag
 
-Barrientos,   J.A.   2004.   Curso   práctico   de  Entomología.  Asociación  española  de  Entomología-CIBIO-
-Universitat Autónoma de Barcelona, Bellaterra
+Bang, P. y Dahlström, P. 1992. Huellas y señales de los animales de Europa. Omega, Barcelona
 
 Hauer, R. y Lamberti G.A. 2006. Methods in stream ecology. 2nd Edition
+
+Henderson, P.A. 2003. Practical methods in ecology. Blackwell
+
+Krebs,   C.J.  1999.  Ecological  methodology.  Second  Edition.  Benjamin/Cummings-Addison  Wesley  Longman,
+Menlo Park, California
+
+MANUALES   Y   GUÍAS   DE   CAMPO:   Bang,   P.  y  Dahlström,  P.  1992.  Huellas  y  señales  de  los  animales  de
+Europa.   Omega,  Barcelona.  Barrientos,  J.A.  2004.  Curso  práctico  de  Entomología.  Asociación  española
+de Entomología-CIBIO-Universitat Autónoma de Barcelona, Bellaterra. Cabioc´H, J. et al. (2007). Guía
+de   las   algas   de   los   mares   de   Europa.   Ed.  Omega,  Barcelona.  Cadevall,  J.  &  Orozco,  A.  (2016).
+Caracoles y babosas de la Península Ibérica y Baleares. Ed. Omega. Barcelona. Chinery, M. 1988. Guía
+de   los   insectos   de   Europa.   Omega,   Barcelona.  Esteve-Raventós,  F.,  Llistosella,  J.  y  Ortega,  A.
+(2007). Setas de la Península Ibérica e Islas Baleares. Ed. Jaguar, Madrid. López González, G. 2004.
+Guía   de   los   árboles   y  arbustos  de  la  Península  Ibérica  y  Baleares,  2ª  edición.  Ed.  Mundi  Prensa,
+Madrid.   Morales,  C.,  Quesada,  C.  y  Baena,  L.  2001.  Árboles  y  arbustos.  Diputación  de  Granada.  Ocaña
+Martín,   A.,   Sánchez   Tocino,  L.,  López  González,  S.  y  Viciana  Martín,  J.F.  2000.  Guía  submarina  de
+invertebrados   no  artrópodos.  2ª  Ed.  Comares,  Granada.  Purroy,  F.J.  y  Varela,  J.M.  2003.  Guía  de  los
+mamíferos   de   España.   Península,   Baleares   y   Canarias.   Lynx  Edicions,  Barcelona.  Salvador,  A.  &
+Pleguezuelos,   J.M.   2013.   Guía   de   reptiles   de   España.   Canseco  Editores,  Talavera  de  la  Reina.
+Speybroeck,   J.   et   al.   2017.   Guía  de  campo  de  los  anfibios  y  reptiles  de  España  y  de  Europa.  Ed.
+Omega,   Barcelona.   Svensson,   L.   2014.   Guía   de  aves  de  España,  Europa  y  región  mediterránea.  Ed.
+Omega, Barcelona
 
 Ocaña Martín, A., Sánchez Tocino, L., López González, S. y Viciana Martín, J.F. 2000. Guía submarina
 de invertebrados no artrópodos. 2ª Ed. Comares, Granada
 
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

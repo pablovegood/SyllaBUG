@@ -2,43 +2,29 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Franch   León,  Katia  ;  Guerra  Bretaña,  Rosa.  [2016].  -  La  Norma  ISO  9000:  una  mirada  desde  la  gestión
+del   conocimiento,   la   información,   innovación   y  el  aprendizaje  organizacional.  –  Cofin,  vol.  10,
+no.2,   29-54.http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2073-60612016000200002   García,
+Rolando. [2006]. - Sistemas complejos. – Barcelona : Gesida
 
-📚 Recursos sin cambios:
+Ishikawa,   Kaoru.   [1997].  -  ¿Qué  es  el  control  total  de  calidad?  –  Madrid  :  Norma  Lázaro  Rodríguez,
+Pedro; López Gijón, Javier; Herrera Viedma, Enrique [2020]
+
+📚 Recursos sin cambios (3):
 ------------------------------
 Deming, Edwards W. [1989]. - Calidad, productividad y competitividad. – Madrid : Díaz de Santos
 
 Feigenbaum,   Armand   V.   [1994].   -   Control   total  de  la  calidad.  –  México,  df  :  Compañía  editorial
 continental
 
-ISO   (Organización   Internacional  de  Normalización).  [2015].  -  ISO  9000:2015.  Sistemas  de  gestión  de
-la calidad. Fundamentos y vocabulario. – https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:es
+Lázaro   Rodríguez,   Pedro;   López   Gijón,   Javier;   Herrera   Viedma,   Enrique  [2020].  Biblioteques  i
+eEciència   :  adaptació  de  l'indicador  de  la  potència  del  sistema  de  la  metodologia  Secaba-Rank  per  a
+noves   necessitats  al  servei  d'una  societat  canviant.  -  BiD:  textos  universitaris  de  biblioteconomia
+i documentació, no. 44,. - https://dx.doi.org/10.1344/BiD2020.44.3
 
-Liker, Jeffrey K. [2010]. - Las claves del éxito de Toyota. – Barcelona : Planeta
-
-Pirsig, Robert M. [2018]. - Zen y el arte del mantenimiento de la motocicleta. – Madrid : Sexto piso
-
-Pérez Marques, María. [2015]. - Control de calidad: Técnicas y herramientas. – Madrid : Libros RC
-
-Ríos, Sixto. [2007]. - Modelización / Modelization. – Madrid : Alianza editorial
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Franch   León,  Katia  ;  Guerra  Bretaña,  Rosa.  [2016].  -  La  Norma  ISO  9000:  una  mirada  desde  la  gestión
-del   conocimiento,   la   información,   innovación   y  el  aprendizaje  organizacional.  –  Cofin,  vol.  10,
-no.2,   29-54.-   García,   Rolando.   [2006].  -  Sistemas  complejos.  –  Barcelona  :  Gesida  →  Franch  León,
-Katia   ;   Guerra   Bretaña,   Rosa.   [2016].   -   La   Norma   ISO   9000:  una  mirada  desde  la  gestión  del
-conocimiento,   la   información,   innovación  y  el  aprendizaje  organizacional.  –  Cofin,  vol.  10,  no.2,
-29-54.- http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2073-60612016000200002
-
-Ishikawa,   Kaoru.   [1997].  -  ¿Qué  es  el  control  total  de  calidad?  –  Madrid  :  Norma  Lázaro  Rodríguez,
-Pedro;   López  Gijón,  Javier;  Herrera  Viedma,  Enrique  [2020].  Biblioteques  i  eEciència  :  adaptació  de
-l'indicador de la potència del sistema de la textos universitaris de biblioteconomia i documentació,
-no. 44  →  Ishikawa, Kaoru. [1997]. - ¿Qué es el control total de calidad? – Madrid : Norma
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (55):
 ------------------------------
 Camp,   R.   C.   (2021).   Benchmarking:   The   Search  for  Industry  Best  Practices  that  Lead  to  Superior
 Performance   .   ASQ   Quality   Press.  →  Método  paso  a  paso  para  implementar  benchmarking  y  evaluación
@@ -59,6 +45,10 @@ Complementarios y de cultura profesional
 Documentación en las empresas y sistemas de información
 
 Evaluación, calidad y sistemas de gestión
+
+Franch   León,  Katia  ;  Guerra  Bretaña,  Rosa.  [2016].  -  La  Norma  ISO  9000:  una  mirada  desde  la  gestión
+del   conocimiento,   la   información,   innovación   y  el  aprendizaje  organizacional.  –  Cofin,  vol.  10,
+no.2, 29-54.- http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2073-60612016000200002
 
 García, Rolando. [2006]. - Sistemas complejos. – Barcelona : Gesida
 
@@ -90,7 +80,12 @@ completa para aplicar y auditar sistemas ISO con ejemplos, formularios y matrice
 
 Hoyle, D. (2018). ISO 9000 Quality Systems Handbook – Updated for ISO 9001:2015. Routledge
 
+ISO   (Organización   Internacional  de  Normalización).  [2015].  -  ISO  9000:2015.  Sistemas  de  gestión  de
+la calidad. Fundamentos y vocabulario. – https://www.iso.org/obp/ui/#iso:std:iso:9000:ed-4:v1:es
+
 Indicadores, benchmarking y evaluación
+
+Ishikawa, Kaoru. [1997]. - ¿Qué es el control total de calidad? – Madrid : Norma
 
 Jones,   M.   (2022).   Power   BI   for  the  Excel  Analyst  .  Holy  Macro!  Books.  →  Introducción  práctica  a
 Power BI, útil para visualización y dashboards de indicadores
@@ -103,10 +98,7 @@ Liker, J. K. (2021). The Toyota Way: 14 Management Principles from the World's G
 Liker,   J.   K.   (2021).   The   Toyota   Way:   14   Management   Principles   from   the   World's   Greatest
 Manufacturer. McGraw-Hill
 
-Lázaro   Rodríguez,   Pedro;   López   Gijón,   Javier;   Herrera   Viedma,   Enrique  [2020].  Biblioteques  i
-eEciència   :  adaptació  de  l'indicador  de  la  potència  del  sistema  de  la  metodologia  Secaba-Rank  per  a
-noves   necessitats  al  servei  d'una  societat  canviant.  -  BiD:  textos  universitaris  de  biblioteconomia
-i documentació, no. 44,. - https://dx.doi.org/10.1344/BiD2020.44.3
+Liker, Jeffrey K. [2010]. - Las claves del éxito de Toyota. – Barcelona : Planeta
 
 López-Muñoz,   R.  (ed.)  (2022).  Evaluación  y  mejora  de  la  calidad  en  las  organizaciones:  Indicadores,
 benchmarking   y   excelencia   operativa   .   UOC.   →   Libro  práctico  adaptado  a  contextos  académicos  y
@@ -128,12 +120,18 @@ sistémico
 
 Pirsig, R. M. (reeditado 2023). Zen y el arte del mantenimiento de la motocicleta. Sexto Piso
 
+Pirsig, Robert M. [2018]. - Zen y el arte del mantenimiento de la motocicleta. – Madrid : Sexto piso
+
+Pérez Marques, María. [2015]. - Control de calidad: Técnicas y herramientas. – Madrid : Libros RC
+
 Rodríguez    Bravo,   B.   (coord.)   (2020).   Evaluación   de   servicios   de   información:   metodología,
 indicadores   y   resultados   .   Trea.   →  Texto  centrado  en  evaluación  aplicada,  con  estudios  reales  y
 ejercicios
 
 Rodríguez    Bravo,   B.   (coord.)   (2020).   Evaluación   de   servicios   de   información:   metodología,
 indicadores y resultados. Trea
+
+Ríos, Sixto. [2007]. - Modelización / Modelization. – Madrid : Alianza editorial
 
 Sullivan,   M.   (2023).   Statistics:  Informed  Decisions  Using  Data  .  Pearson.  →  Incluye  prácticas  con
 software y problemas reales de análisis estadístico empresarial
@@ -176,4 +174,4 @@ for Effective Service Delivery. Springer
 →   Útil   como  texto  transversal  para  trabajar  la  dimensión  filosófica  de  la  calidad  y  el  pensamiento
 sistémico
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 98% [█████████░]

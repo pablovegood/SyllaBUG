@@ -2,15 +2,7 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Rabaey, Chandrakasan, Nikolic: "Circuitos integrados digitales: una perspectiva de diseño", Pearson,
 2004   Kaeslin:   "Digital   Integrated   Circuit   Design",   Cambridge   University  Press,  2008  Chu:  “RTL
@@ -18,10 +10,13 @@ Hardware   Design   using   VHDL“,   IEEE   Press  2006  Wang,  Chang,  Cheng:
 Synthesis, Verification and Test”, Morgan Kauffman, 2009 Carusone, Martin, Johns: "Analog Integrated
 Circuit   Design   (2nd   Edition)",  John  Wiley,  Lloris,  Prieto,  Parrilla:  "Sistemas  digitales",  McGraw
 Hill,   2003   Short:   "VHDL   for  engineers  (New  International  Edition)",  Pearson,  2013  Lam:  "Hardware
-Design   Verification:   Simulation   and  Formal  Method-Based  Approaches",  Prentice  Hall,  2005  →  Short:
-"VHDL for engineers (New International Edition)", Pearson, 2013
+Design Verification: Simulation and Formal Method-Based Approaches", Prentice Hall, 2005
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (8):
 ------------------------------
 Carusone, Martin, Johns: "Analog Integrated Circuit Design (2nd Edition)", John Wiley, 2012
 
@@ -36,6 +31,8 @@ Lloris, Prieto, Parrilla: "Sistemas digitales", McGraw Hill, 2003
 
 Rabaey, Chandrakasan, Nikolic: "Circuitos integrados digitales: una perspectiva de diseño", Pearson,
 2004
+
+Short: "VHDL for engineers (New International Edition)", Pearson, 2013
 
 Wang,   Chang,   Cheng:   “Electronic   Design   Automation:   Synthesis,   Verification   and  Test”,  Morgan
 Kauffman, 2009

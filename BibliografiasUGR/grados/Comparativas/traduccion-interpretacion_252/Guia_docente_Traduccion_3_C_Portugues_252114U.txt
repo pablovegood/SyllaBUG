@@ -2,15 +2,18 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 BRIONES,   Ana  Isabel,  (2001).  “Dificultades  de  la  traducción  portugués-español  vistas  a  través  de  la
 lingüística   contrastiva”,   Actas   del   IX   Congreso   Brasileño  de  Profesores  de  Español.  Brasília  :
 Consejería de Educación. Embaixada da Espanha, 2001
+
+DÍAZ   Ferrero,   A.   M./SABIO   Pinilla,   J.  A.  (2024)  El  mínimo  paremiológico  portugués:  el  portugués
+europeo. Madrid: Instituto Cervantes
 
 DÍAZ   Ferrero,   A.   M./Sabio  Pinilla;  J.  A  (2017).  “Aplicaciones  a  la  enseñanza  de  la  traducción  del
 Mínimo paremiológico del portugués”, Revista Caracol, n. 14, pp. 104-129
@@ -44,21 +47,15 @@ p. 91-104. Disponible en: https://periodicos.ufrn.br/gelne/article/view/9268/662
 
 WANKE, Eno Theodoro/FILHO, Raldão Simas (1991). Dicionário Lusitano-Brasileiro. Ediouro
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-DÍAZ   Ferrero,   A.   M./SABIO   Pinilla,   J.  A.  (2024)  El  mínimo  paremiológico  portugués:  el  portugués
-europeo.   Madrid:   Instituto   Cervantes.   gz.org/modules.php?eid=3&name=Encyclopedia&op=list_content
-GARCÍA   Izquierdo,   I.   (ed.)   (2005).   El   género   textual   y  la  traducción:  Reflexiones  teóricas  y
-aplicaciones   pedagógicas.   Berna:   Peter   Lang  →  DÍAZ  Ferrero,  A.  M./SABIO  Pinilla,  J.  A.  (2024)  El
-mínimo paremiológico portugués: el portugués europeo. Madrid: Instituto Cervantes
+https://cvc.cervantes.es/lengua/biblioteca_fraseologica/m4_diaz/   Dicionário   de   fraseologia.   PGL:
+http://www.agalgz.org/modules.php?eid=3&name=Encyclopedia&op=list_content GARCÍA Izquierdo, I. (ed.)
+(2005).   El   género  textual  y  la  traducción:  Reflexiones  teóricas  y  aplicaciones  pedagógicas.  Berna:
+Peter Lang
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Dicionário               de               fraseologia.               PGL:               http://www.agal-
 gz.org/modules.php?eid=3&name=Encyclopedia&op=list_content
-
-GARCÍA   Izquierdo,   I.   (ed.)   (2005).   El   género   textual   y  la  traducción:  Reflexiones  teóricas  y
-aplicaciones pedagógicas. Berna: Peter Lang
 
 LUFT,    Celso    Pedro    (2010).    Dicionário    Prático    De    Regência    Nominal.    Disponible    en:
 https://archive.org/details/2010-luft-dicionario-pratico-de-regencia-nominal
@@ -74,4 +71,4 @@ en 2011 por la Editora Planeta)
 
 https://cvc.cervantes.es/lengua/biblioteca_fraseologica/m4_diaz/
 
-📊 Porcentaje estimado de cambio: 57% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

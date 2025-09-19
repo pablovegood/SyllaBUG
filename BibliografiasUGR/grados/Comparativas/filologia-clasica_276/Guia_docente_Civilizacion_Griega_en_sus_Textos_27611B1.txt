@@ -2,7 +2,7 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
 SETTIS,   S.   (dir.),   I   greci:   storia,  cultura,  arte,  società.  2.  Una  storia  greca.  1.  Formazione,
 Einaudi, Torino 1996
@@ -10,12 +10,15 @@ Einaudi, Torino 1996
 SETTIS,   S.   (dir.),   I   greci:  storia,  cultura,  arte,  società.  2.  Una  storia  greca.  2.  Definizione,
 Einaudi, Torino 1997
 
+SETTIS,   S.  (dir.),  I  greci:  storia,  cultura,  arte,  società.  2.  Una  storia  greca.  3.  Trasformazioni,
+Einaudi, Torino 1998
+
 SETTIS,   S.   (dir.),   I   greci:  storia,  cultura,  arte,  società.  3.  I  Greci  oltre  la  Grecia,  Einaudi,
 Torino 2001
 
-Trasformazioni, Einaudi, Torino 1998
+SETTIS, S. (dir.), I greci: storia, cultura, arte, società. 4. Atlante, Einaudi, Torino 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
 AA.VV.,   El   mundo  de  Atenas:  introducción  a  la  cultura  clásica  ateniense,  Promociones  Publicaciones
 Universitarias, Barcelona 1988
@@ -56,6 +59,8 @@ vols.)
 
 ROMILLY, J. de, ¿Por qué Grecia?, Debate, Madrid 1997
 
+SASSI, M.M., La scienza dell’uomo nella Grecia Antica, Bollati Boringhieri, Torino 1988
+
 SETTIS, S. (dir.), I greci: storia, cultura, arte, società, vols. 1-4, Einaudi, Torino 1996-2002
 
 VEGETTI, M (ed.), Il sapere degli antichi, Boringhieri, Torino 1985
@@ -66,13 +71,8 @@ VETTA, M., La civiltà dei Greci: forme, luoghi, contesti, Carocci, Roma 2001
 
 VILLAR, F., Los indoeuropeos y los orígenes de Europa, Gredos, Madrid 1996
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-SETTIS,   S.   (dir.),   I   greci:   storia,   cultura,  arte,  società.  4.  Atlante,  Einaudi,  Torino  2002  →
 SETTIS, S. (dir.), I greci: storia, cultura, arte, società, vols. 1-4, Einaudi, Torino 1996-2002
 
-✅ Recursos añadidos:
-------------------------------
-SASSI, M.M., La scienza dell’uomo nella Grecia Antica, Bollati Boringhieri, Torino 1988
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

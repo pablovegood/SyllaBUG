@@ -2,11 +2,11 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 SANCHIDRIÁN, J. L. (2001): Manual de arte prehistórico, col. Ariel Prehistoria, Ed. Ariel, Barcelona
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 AGUSTÍ, J. y ANTÓN, M. (2011): La gran migración, Ed. Crítica, Barcelona
 
@@ -45,11 +45,7 @@ Thames and Hudson, London
 URIARTE,   A.  (2003):  Historia  del  clima  de  la  Tierra,  Servicio  Central  de  publicaciones  del  Gobierno
 Vasco, Vitoria-Gasteiz
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 ARSUAGA,   J.L.   (2019).   Vida,  la  gran  historia:  Un  viaje  por  el  laberinto  de  la  evolución.  Destino,
 Barcelona
@@ -59,4 +55,4 @@ CARBONELL, E. (2007). Homínidos: las primeras ocupaciones de los continentes. A
 ROBERTS,   A.   (2018).   Evolución:   Historia   de  la  humanidad.  Akal,  MadridSANCHIDRIÁN,  J.  L.  (2001):
 Manual de arte prehistórico, col. Ariel Prehistoria, Ed. Ariel, Barcelona
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

@@ -2,32 +2,29 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+ALAN   THORN.  "Unity  4  fundamentals:get  started  at  making  games  with  Unity".1st  edition.  Focal  Press,
+2014   DANIEL  SHIFFMAN.”Learning  Processing:  A  Beginner's  Guide  to  Programming  Images,  Animation,  and
+Interaction”. Morgan Kauffman 2008
 
-📚 Recursos sin cambios:
-------------------------------
-GALER, M., Horvat, L.; “La Imagen Digital”. Anaya Multimedia. 2006
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
 JEFF   JOHNSON.”Designing   with  the  Mind  in  Mind:  Simple  Guide  to  Understanding  User  Interface  Design
 Rules”   Morgan  Kaufmann  2010  MARIO  RUBIALES  GÓMEZ.  “HTML5,  CSS3  y  Javascript”.  Anaya  Multimedia  2013
 CASEY   REAS   ,   BEN   FRY:  “Processing:  A  Programming  Handbook  for  Visual  Designers  and  Artists”.  Mit
 Press 2007 IRA GREENBERG, DIANNA XU, DEEPAK KUMAR. Processing: Creative Coding and Generative Art in
 Processing   2”.   friendsofED,   2013  ALFONSO  JIMÉNEZ  MARÍN,  FRANCISCO  MANUEL  PÉREZ  MONTES:  “Aprende  a
 programar   con   Java”.   Paraninfo   2012   FOLEY,   J.   D.   et   Al:   “Introducción  a  la  Graficación  por
-computadora”.   Addison   Wesley   →   JEFF   JOHNSON.”Designing   with   the  Mind  in  Mind:  Simple  Guide  to
-Understanding User Interface Design Rules” Morgan Kaufmann 2010
+computadora”. Addison Wesley
 
-ALAN   THORN.  "Unity  4  fundamentals:get  started  at  making  games  with  Unity".1st  edition.  Focal  Press,
-2014   DANIEL  SHIFFMAN.”Learning  Processing:  A  Beginner's  Guide  to  Programming  Images,  Animation,  and
-Interaction”.   Morgan   Kauffman  2008  →  ALAN  THORN.  "Unity  4  fundamentals:get  started  at  making  games
-with Unity".1st edition. Focal Press, 2014
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (1):
 ------------------------------
+GALER, M., Horvat, L.; “La Imagen Digital”. Anaya Multimedia. 2006
+
+✅ Recursos añadidos (11):
+------------------------------
+ALAN   THORN.  "Unity  4  fundamentals:get  started  at  making  games  with  Unity".1st  edition.  Focal  Press,
+2014
+
 ALFONSO JIMÉNEZ MARÍN, FRANCISCO MANUEL PÉREZ MONTES: “Aprende a programar con Java”. Paraninfo 2012
 
 Al     Sweigart,     "Making     Games     with     Python     &     Pygame".     Disponible    en    Internet
@@ -46,6 +43,9 @@ IRA GREENBERG, DIANNA XU, DEEPAK KUMAR. Processing: Creative Coding and Generati
 
 Ivan   Korotkin:   "Godot   4:  Introduction  to  GDScript:  A  practical  guide  to  GDScript  for  Godot  4  with
 examples and tutorials". ‎ Independently published, 2023
+
+JEFF   JOHNSON.”Designing   with  the  Mind  in  Mind:  Simple  Guide  to  Understanding  User  Interface  Design
+Rules” Morgan Kaufmann 2010
 
 MARIO RUBIALES GÓMEZ. “HTML5, CSS3 y Javascript”. Anaya Multimedia 2013
 

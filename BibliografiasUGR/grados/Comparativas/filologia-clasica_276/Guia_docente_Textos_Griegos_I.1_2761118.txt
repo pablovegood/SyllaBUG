@@ -2,15 +2,15 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
 Codoñer, C. (ed.), El comentario de textos griegos y latinos, Madrid, 1994
 
-📚 Recursos sin cambios:
-------------------------------
-Alfageme, I. R., Nueva gramática griega, Madrid, 1990
+Lengua griega: Alfageme, I. R., Nueva gramática griega, Madrid, 1990
 
-Bailly, A., Dictionnaire grec-français, Paris, 1950
+📚 Recursos sin cambios (20):
+------------------------------
+(parcialmente on line) Bergua Cavero, J., Morfología del verbo griego, Zaragoza, 2023
 
 Beekes, R., Etymological Dictionary of Greek, Leiden, 2010
 
@@ -26,7 +26,13 @@ Chantraine,   P.,   Dictionnaire  étymologique  de  la  langue  grecque:  histo
 
 Crespo, E. et al., Sintaxis del griego clásico, Madrid, 2003
 
+Diccionarios: Bailly, A., Dictionnaire grec-français, Paris, 1950
+
 Diggle, J. et al., The Cambridge Greek Lexicon. Cambridge, 2021
+
+Fernández Galiano, M., Manual práctico de morfología verbal griega, Madrid, 1981
+
+Fleury, E., Compendio de fonética griega, Barcelona, 1969
 
 Fleury, E., Morfología histórica de la lengua griega, Barcelona, 1971
 
@@ -43,17 +49,13 @@ Montanari, F., The Brill Dictionary of Ancient Greek, Leiden-Boston, 2015
 
 Morwood, J., The Oxford Grammar of Classical Greek, Oxford, 2001
 
+Rodríguez Adrados, F. et al., Diccionario Griego-Español, Madrid, 1989-. (parcialmente on line)
+
 Rojas Álvarez, L., Gramática griega, México, 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Rodríguez   Adrados,   F.   et   al.,   Diccionario  Griego-Español,  Madrid,  1989-.  (parcialmente  on  line)
-Bergua   Cavero,   J.,   Morfología   del   verbo   griego,  Zaragoza,  2023  →  Rodríguez  Adrados,  F.  et  al.,
-Diccionario Griego-Español, Madrid, 1989-. (parcialmente on line)
-
-✅ Recursos añadidos:
-------------------------------
-Bergua Cavero, J., Morfología del verbo griego, Zaragoza, 2023
+Alfageme, I. R., Nueva gramática griega, Madrid, 1990
 
 Diccionarios:   Bailly,   A.,   Dictionnaire   grec-français,   Paris,   1950.   Beekes,   R.,   Etymological
 Dictionary   of   Greek,  Leiden,  2010.  Chantraine,  P.,  Dictionnaire  étymologique  de  la  langue  grecque:
@@ -63,10 +65,6 @@ H.S.   Jones   and  R.M.  McKenzie  with  a  supplement  edited  by  E.A.  Barbe
 The   Brill   Dictionary   of   Ancient   Greek,   Leiden-Boston,   2015.   Rodríguez   Adrados,   F.   et  al.,
 Diccionario Griego-Español, Madrid, 1989-. (parcialmente on line)
 
-Fernández Galiano, M., Manual práctico de morfología verbal griega, Madrid, 1981
-
-Fleury, E., Compendio de fonética griega, Barcelona, 1969
-
 Lengua   griega   :   Alfageme,   I.   R.,   Nueva   gramática   griega,  Madrid,  1990.  Berenguer  Amenós,  J.,
 Gramática   griega   +   Hélade.   Ejercicios   de  griego  I:  Morfología.  Antología,  (28ª  ed.).  Barcelona,
 2005.   Calvo  Martínez,  J.  L.,  Griego  para  universitarios,  Granada,  2016.  Crespo,  E.  et  al.,  Sintaxis
@@ -74,4 +72,4 @@ del   griego   clásico,   Madrid,   2003.   Fernández   Galiano,   M.,  Manual
 griega, Madrid, 1981. Fleury, E., Morfología histórica de la lengua griega, Barcelona, 1971. Jiménez
 López, Mª.D., Sintaxis del griego antiguo, 2 vols., Madrid, 2020
 
-📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

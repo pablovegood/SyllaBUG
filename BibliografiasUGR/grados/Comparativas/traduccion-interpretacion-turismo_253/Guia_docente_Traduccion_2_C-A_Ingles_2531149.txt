@@ -2,11 +2,27 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-No hay elementos.
+Hatim, Basil y Mason, Ian (1990). Discourse and the translator. Londres: Longman
 
-📚 Recursos sin cambios:
+Hernández   Guerrero,  María  José  (2008).  Los  artículos  de  opinión  traducidos  en  la  prensa  escrita:  el
+trasvase transcultural de la opinión. En: María José Hernández Guerrero y Martín Salvador Peña, eds.
+La traducción, factor de cambio. Berna: Peter Lang, 93-113 Mayoral, Roberto (1999). La traducción de
+la variación lingüística, Soria, UERTERE (Monográficos de la revista Hermeneus)
+
+Moliner,   María   (2007).   Diccionario  de  uso  del  español.  Madrid:  Gredos.  [1967]  Mott,  Brian  y  Marta
+Mateo   (2009).   Diccionario-guía  de  traducción  español-inglés,  inglésespañol.  Barcelona:  Universidad
+de Barcelona
+
+Newmark, Paul (1988). A Textbook of translation. Londres: Prentice Hall. [Trad. española de Virgilio
+Moya (1992). Manual de Traducción. Madrid: Cátedra.] Nida, Eugene (2012). Sobre la traducción. Trad.
+E. Nida y M. Elena Fernández-MirandaNida. Madrid: Cátedra
+
+[Trad. española de S. Peña (1995). Teoría de la traducción. Barcelona: Ariel.] Hatim, Basil y Mason,
+Ian (1997). The translator as communicator. Londres: Routledge
+
+📚 Recursos sin cambios (25):
 ------------------------------
 Agost, Rosa (1999). Traducción y doblaje: palabras, voces e imágenes. Barcelona: Ariel
 
@@ -69,45 +85,31 @@ Torre Serrano, E. (1994) Teoría de la traducción literaria, Madrid: Síntesis
 Toury,   G.   (2000).   The   Nature   and  Role  of  Norms  in  Literary  Translation.  En  L.  Venuti  (ed.).  The
 Translation Studies Reader. Londres y Nueva York: Routledge, pp. 198-211
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (9):
 ------------------------------
-Moliner,   María   (2007).   Diccionario  de  uso  del  español.  Madrid:  Gredos.  [1967]  Mott,  Brian  y  Marta
-Mateo (2009). Diccionario-guía de traducción español-inglés, inglés- español. Barcelona: Universidad
-de   Barcelona   →   Mott,   Brian   y  Marta  Mateo  (2009).  Diccionario-guía  de  traducción  español-inglés,
-inglés-español. Barcelona: Universidad de Barcelona
+DICCIONARIOS Y MANUALES
 
-Newmark, Paul (1988). A Textbook of translation. Londres: Prentice Hall. [Trad. española de Virgilio
-Moya (1992). Manual de Traducción. Madrid: Cátedra.] Nida, Eugene (2012). Sobre la traducción. Trad.
-E.   Nida   y   M.  Elena  Fernández-Miranda-  Nida.  Madrid:  Cátedra  →  Newmark,  Paul  (1988).  A  Textbook  of
-translation.   Londres:  Prentice  Hall.  [Trad.  española  de  Virgilio  Moya  (1992).  Manual  de  Traducción.
-Madrid: Cátedra.]
+Hatim, Basil y Mason, Ian (1990). Discourse and the translator. Londres: Longman. [Trad. española de
+S. Peña (1995). Teoría de la traducción. Barcelona: Ariel.]
 
-[Trad. española de S. Peña (1995). Teoría de la traducción. Barcelona: Ariel.] Hatim, Basil y Mason,
-Ian   (1997).   The  translator  as  communicator.  Londres:  Routledge  →  Hatim,  Basil  y  Mason,  Ian  (1997).
-The translator as communicator. Londres: Routledge
-
-Hatim,   Basil   y   Mason,  Ian  (1990).  Discourse  and  the  translator.  Londres:  Longman  →  Hatim,  Basil  y
-Mason,   Ian   (1990).   Discourse   and   the   translator.   Londres:  Longman.  [Trad.  española  de  S.  Peña
-(1995). Teoría de la traducción. Barcelona: Ariel.]
+Hatim, Basil y Mason, Ian (1997). The translator as communicator. Londres: Routledge
 
 Hernández   Guerrero,  María  José  (2008).  Los  artículos  de  opinión  traducidos  en  la  prensa  escrita:  el
 trasvase transcultural de la opinión. En: María José Hernández Guerrero y Martín Salvador Peña, eds.
-La traducción, factor de cambio. Berna: Peter Lang, 93-113 Mayoral, Roberto (1999). La traducción de
-la   variación   lingüística,   Soria,   UERTERE   (Monográficos   de   la   revista   Hermeneus)  →  Hernández
-Guerrero,   María   José  (2008).  Los  artículos  de  opinión  traducidos  en  la  prensa  escrita:  el  trasvase
-transcultural   de   la   opinión.   En:   María   José  Hernández  Guerrero  y  Martín  Salvador  Peña,  eds.  La
-traducción, factor de cambio. Berna: Peter Lang, 93-113
-
-✅ Recursos añadidos:
-------------------------------
-AA.VV. (1996). Libro de Estilo, El País. Madrid: El País
+La traducción, factor de cambio. Berna: Peter Lang, 93-113
 
 Mayoral,   Roberto  (1999).  La  traducción  de  la  variación  lingüística,  Soria,  UERTERE  (Monográficos  de
 la revista Hermeneus)
 
 Moliner, María (2007). Diccionario de uso del español. Madrid: Gredos. [1967]
 
+Mott,   Brian   y   Marta   Mateo  (2009).  Diccionario-guía  de  traducción  español-inglés,  inglés-español.
+Barcelona: Universidad de Barcelona
+
+Newmark, Paul (1988). A Textbook of translation. Londres: Prentice Hall. [Trad. española de Virgilio
+Moya (1992). Manual de Traducción. Madrid: Cátedra.]
+
 Nida,   Eugene   (2012).  Sobre  la  traducción.  Trad.  E.  Nida  y  M.  Elena  Fernández-Miranda-Nida.  Madrid:
 Cátedra
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

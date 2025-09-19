@@ -2,14 +2,29 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-McGraw-Hill (3ª edición)
+Avia, M.D. (2000). Enfermos imaginarios: La hipocondría. Ed. Océano Aznar Avedaño, E. y Berlanga, A.
+(2004).   Guía   práctica   para   el   manejo  de  la  esquizofrenia  para  la  familia  y  el  cuidador.  Madrid:
+Pirámide
 
-📚 Recursos sin cambios:
+Barlow,   D.H.  &  Durand,  V.M.  (2003)  Psicopatología.  Madrid:  Thomson  Belloch,  A.,  Sandín,  B.  y  Ramos,
+F. (2020) Manual de Psicopatología (2 vols.) Madrid: McGraw-Hill (3ª edición)
+
+Caballo,   V.,   Salazar,  I.C.  y  Carrobles,  J.A.  (Dirs.)  (2024).  Manual  de  Psicopatología  y  trastornos
+psicológicos   (3ª   edición).   Madrid:   Ed.   Pirámide.   (**)   Hales,   R.F.   y   Yudofsky,   S.C.  (2005)
+Fundamentos de psiquiatría clínica. Barcelona: Masson (2ª edición)
+
+Gavino, A. (2005) Tratando….Trastorno obsesivo-compulsivo Ed. Pirámide Fuentenebro, F. y Vázquez, C.
+(1991). Psicología Médica, Psicopatología y Psiquiatría, Vols. 1 y 2. Madrid: McGraw-Hill
+
+Millon,   T.  (2010).  Trastornos  de  personalidad  en  la  vida  moderna.  Barcelona:  Masson  Ortiz-Tallo,  M.
+(2013). Psicopatología clínica: adaptado al DSM-5. Madrid: Pirámide
+
+📚 Recursos sin cambios (32):
 ------------------------------
-Aldaz,   J.A.   y  Vázquez,  C.  (Comps.)  (1996).  Esquizofrenia:  fundamentos  psicológicos  y  psiquiátricos
-de la rehabilitación. Madrid: Siglo XXI
+(**)   Libro   de   texto   Aldaz,   J.A.   y   Vázquez,   C.   (Comps.)   (1996).   Esquizofrenia:  fundamentos
+psicológicos y psiquiátricos de la rehabilitación. Madrid: Siglo XXI
 
 American   Psychiatric   Association   (2022).   Diagnostic   and  Statistical  Manual  of  Mental  Disorders,
 Fifth Edition. Text Revision. Arlington, VA, APA
@@ -18,6 +33,10 @@ Bados, A. (2015). Trastorno de ansiedad generalizada. Guía para el terapeuta. M
 
 Beck,   A.   y   Emery,   G.  (2014).  Trastornos  de  ansiedad  y  fobias:  una  perspectiva  cognitiva.  Bilbao:
 Desclee de Bruower
+
+Becoña, E. (coord.) (1993) Monográfico sobre juego patológico. Psicología Conductual, 1 (3)
+
+Caballo, V. (2004) Manual de los trastornos de personalidad. Madrid: Síntesis
 
 Calvo, R. (2002). Anorexia y Bulimia. Guía para padres y terapeutas. Ed. Planeta
 
@@ -47,54 +66,7 @@ Garrido, V. (2000). El psicópata. Valencia: Algar
 Gradillas,   Regodón,   V.   (1995)   Psicopatología   descriptiva.  Vivencias  y  comportamientos  anómalos.
 Madrid: Ed. Pirámide
 
-Millon, T. (2010). Trastornos de personalidad en la vida moderna. Barcelona: Masson
-
-Vallejo   Ruiloba,   J.   (2006)   Introducción  a  la  Psicopatología  y  Psiquiatría.  Barcelona:  Masson  (6ª
-edición)
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Caballo,   V.,   Salazar,  I.C.  y  Carrobles,  J.A.  (Dirs.)  (2024).  Manual  de  Psicopatología  y  trastornos
-psicológicos   (3ª   edición).   Madrid:   Ed.   Pirámide.   (**)   Hales,   R.F.   y   Yudofsky,   S.C.  (2005)
-Fundamentos   de   psiquiatría   clínica.   Barcelona   →   Caballo,   V.,   Salazar,  I.C.  y  Carrobles,  J.A.
-(Dirs.)   (2024).   Manual   de   Psicopatología   y   trastornos   psicológicos  (3ª  edición)  .  Madrid:  Ed.
-Pirámide. ( ** )
-
-Gavino, A. (2005) Tratando….Trastorno obsesivo-compulsivo Ed. Pirámide Fuentenebro, F. y Vázquez, C.
-(1991).   Psicología   Médica,   Psicopatología   y   Psiquiatría,   Vols.   1   y   2.  Madrid:  McGraw-Hill  →
-Gavino, A. (2005) Tratando….Trastorno obsesivo-compulsivo Ed. Pirámide
-
-Avia, M.D. (2000). Enfermos imaginarios: La hipocondría. Ed. Océano Aznar Avedaño, E. y Berlanga, A.
-(2004).   Guía   práctica   para   el   manejo  de  la  esquizofrenia  para  la  familia  y  el  cuidador.  Madrid:
-Pirámide  →  Avia, M.D. (2000). Enfermos imaginarios: La hipocondría. Ed. Océano
-
-Barlow,   D.H.  &  Durand,  V.M.  (2003)  Psicopatología.  Madrid:  Thomson  Belloch,  A.,  Sandín,  B.  y  Ramos,
-F.   (2020)   Manual   de   Psicopatología   (2   vols.)   Madrid   →   Barlow,   D.H.   &   Durand,  V.M.  (2003)
-Psicopatología. Madrid: Thomson
-
-Becoña,   E.  (coord.)  (1993)  Monográfico  sobre  juego  patológico.  Psicología  Conductual,  1  Caballo,  V.
-(2004)   Manual   de   los   trastornos   de   personalidad.  Madrid:  Síntesis  →  Becoña,  E.  (coord.)  (1993)
-Monográfico sobre juego patológico. Psicología Conductual, 1 (3)
-
-✅ Recursos añadidos:
-------------------------------
-(**) Libro de texto
-
-Aznar   Avedaño,   E.   y  Berlanga,  A.  (2004).  Guía  práctica  para  el  manejo  de  la  esquizofrenia  para  la
-familia y el cuidador. Madrid: Pirámide
-
-Belloch,   A.,   Sandín,   B.  y  Ramos,  F.  (2020)  Manual  de  Psicopatología  (2  vols.)  Madrid:  McGraw-Hill
-(3ª edición)
-
-Caballo, V. (2004) Manual de los trastornos de personalidad. Madrid: Síntesis
-
-Fuentenebro,   F.  y  Vázquez,  C.  (1991).  Psicología  Médica,  Psicopatología  y  Psiquiatría,  Vols.  1  y  2.
-Madrid: McGraw-Hill
-
 Graña Gomez, J.L. (1994). Conductas adictivas. Teoría, evaluación y tratamiento. Madrid: Debate
-
-Hales,   R.F.   y   Yudofsky,   S.C.   (2005)   Fundamentos   de  psiquiatría  clínica.  Barcelona:  Masson  (2ª
-edición)
 
 Hare,   R.   (2013).  Sin  conciencia:  el  inquietante  mundo  de  los  psicópatas  que  nos  rodean.  Barcelona:
 Paidós
@@ -110,8 +82,6 @@ Lemos, S. (2015). Esquizofrenia y otros trastornos psicóticos. Madrid: Síntesi
 
 Mesa Cid, P.J. y Rodríguez Testal, J.F. (2011). Manual de Psicopatología General. Madrid: Pirámide
 
-Ortiz-Tallo, M. (2013). Psicopatología clínica: adaptado al DSM-5. Madrid: Pirámide
-
 Perpiñá Tordera, C. (2015). Trastornos alimentarios y de la ingestión de alimentos. Madrid: Síntesis
 
 Robles García, R. (2015). Trastornos disociativos. Madrid: Síntesis
@@ -122,7 +92,39 @@ Sue, D., Sue, D. y Sue, S. (1996). Comportamiento anormal. Madrid: McGraw-Hill
 
 Toro, J. (2004). Riesgos y causas de la anorexia nerviosa. Barcelona: Ariel
 
+Vallejo   Ruiloba,   J.   (2006)   Introducción  a  la  Psicopatología  y  Psiquiatría.  Barcelona:  Masson  (6ª
+edición)
+
 Vázquez,   C.   y  Pérez-Sales,  P.  (2003)  Emociones  positivas,  trauma  y  resistencia.  Ansiedad  y  Estrés,
 9(2-3), 231-254
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (11):
+------------------------------
+(**) Libro de texto
+
+Avia, M.D. (2000). Enfermos imaginarios: La hipocondría. Ed. Océano
+
+Aznar   Avedaño,   E.   y  Berlanga,  A.  (2004).  Guía  práctica  para  el  manejo  de  la  esquizofrenia  para  la
+familia y el cuidador. Madrid: Pirámide
+
+Barlow, D.H. & Durand, V.M. (2003) Psicopatología. Madrid: Thomson
+
+Belloch,   A.,   Sandín,   B.  y  Ramos,  F.  (2020)  Manual  de  Psicopatología  (2  vols.)  Madrid:  McGraw-Hill
+(3ª edición)
+
+Caballo,   V.,   Salazar,  I.C.  y  Carrobles,  J.A.  (Dirs.)  (2024).  Manual  de  Psicopatología  y  trastornos
+psicológicos (3ª edición) . Madrid: Ed. Pirámide. ( ** )
+
+Fuentenebro,   F.  y  Vázquez,  C.  (1991).  Psicología  Médica,  Psicopatología  y  Psiquiatría,  Vols.  1  y  2.
+Madrid: McGraw-Hill
+
+Gavino, A. (2005) Tratando….Trastorno obsesivo-compulsivo Ed. Pirámide
+
+Hales,   R.F.   y   Yudofsky,   S.C.   (2005)   Fundamentos   de  psiquiatría  clínica.  Barcelona:  Masson  (2ª
+edición)
+
+Millon, T. (2010). Trastornos de personalidad en la vida moderna. Barcelona: Masson
+
+Ortiz-Tallo, M. (2013). Psicopatología clínica: adaptado al DSM-5. Madrid: Pirámide
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

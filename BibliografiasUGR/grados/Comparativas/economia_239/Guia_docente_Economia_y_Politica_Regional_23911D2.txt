@@ -2,15 +2,20 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Bibliografía   en   Inglés   (Bibliography   in  English):  Heidenreich,  M.  (2022).  Territorial  and  social
+inequalities   in   Europe:   Challenges   of   European  integration.  Springer  Nature  Capello,  R.  (2016):
+«Regional   Economics».   Second   Edition.   Routledge   Armstrong,   H.   &   Taylor,  J.  (2006):  «Regional
+Economics   and   Policy».   Third  Edition.  Blackwell  Publishing  Cuadrado,  J.R.  (ed.)  (2010):  «Regional
+Policy, Economic Growth and convergence
 
-📚 Recursos sin cambios:
+Rodríguez Pose, A., Pike, A., & Tomaney, J. (2014). Desarrollo local y regional
+
+📚 Recursos sin cambios (6):
 ------------------------------
-Argüelles, M; Benavides, C (2015) : Economía y política regional. Madrid : Delta
-
-Argüelles, M; Benavides, C. (2015): Economía y Política Regional. Madrid: Delta
+Bibliografía   en   Español:  Argüelles,  M;  Benavides,  C.  (2015):  Economía  y  Política  Regional.  Madrid:
+Delta
 
 Cuadrado,   J.R.   (ed.)   (2010):   «Regional  Policy,  Economic  Growth  and  convergence.  Lessons  from  the
 Spanish Case». Springer, Heidelberg
@@ -24,20 +29,16 @@ Junta de Andalucía, Consejería de Hacienda y Administración Pública
 
 Polèse, M; Rubiera, F (2009): Economía Urbana y Regional. Pamplona: Civitas
 
-Rodríguez   Pose,   A.,   Pike,   A.,   &  Tomaney,  J.  (2014).  Desarrollo  local  y  regional.  Universitat  de
-València. Disponible on line en http://sl.ugr.es/0dlg
+Universitat   de   València.   Disponible   on   line  en  http://sl.ugr.es/0dlg  Argüelles,  M;  Benavides,  C
+(2015) : Economía y política regional. Madrid : Delta
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Heidenreich,   M.   (2022).   Territorial   and   social   inequalities   in  Europe:  Challenges  of  European
-integration.   Springer   Nature   Capello,   R.  (2016):  «Regional  Economics».  Second  Edition.  Routledge
-Armstrong,   H.   &   Taylor,   J.   (2006):   «Regional   Economics   and  Policy».  Third  Edition.  Blackwell
-Publishing   Cuadrado,   J.R.   (ed.)   (2010):   «Regional   Policy,   Economic   Growth   and  convergence  →
+Argüelles, M; Benavides, C. (2015): Economía y Política Regional. Madrid: Delta
+
 Armstrong,   H.   &   Taylor,   J.   (2006):   «Regional   Economics   and  Policy».  Third  Edition.  Blackwell
 Publishing
 
-✅ Recursos añadidos:
-------------------------------
 Bibliografía   en   Español:  Argüelles,  M;  Benavides,  C.  (2015):  Economía  y  Política  Regional.  Madrid:
 Delta.   Rodríguez  Pose,  A.,  Pike,  A.,  &  Tomaney,  J.  (2014).  Desarrollo  local  y  regional.  Universitat
 de   València.   Disponible   on   line   en   http://sl.ugr.es/0dlg   Argüelles,   M;  Benavides,  C  (2015)  :
@@ -54,4 +55,7 @@ Capello, R. (2016): «Regional Economics». Second Edition. Routledge
 Heidenreich,   M.   (2022).   Territorial   and   social   inequalities   in  Europe:  Challenges  of  European
 integration. Springer Nature
 
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+Rodríguez   Pose,   A.,   Pike,   A.,   &  Tomaney,  J.  (2014).  Desarrollo  local  y  regional.  Universitat  de
+València. Disponible on line en http://sl.ugr.es/0dlg
+
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

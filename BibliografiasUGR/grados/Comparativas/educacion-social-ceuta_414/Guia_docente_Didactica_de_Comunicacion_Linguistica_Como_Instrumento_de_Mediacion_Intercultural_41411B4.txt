@@ -2,35 +2,31 @@
 Grado: educacion-social-ceuta (414)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 AYORA   ESTEBAN,  Mª  del  Carmen  (2008):  “La  situación  sociolingüística  de  Ceuta:  un  caso  de  lenguas  en
 contacto”,   Tonos   (Revista  Electrónica  de  Estudios  Filológicos),  nº  16,  diciembre  2008.  Universidad
 de Murcia
 
-DÍAZ-AGUADO, Mª José (2003): Educación intercultural y aprendizaje cooperativo. Madrid: Pirámide
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-AYORA   ESTEBAN,   Mª   del  Carmen  (2010):  “Diversidad  lingüística  y  cultural  en  un  ámbito  educativo  de
-lenguas   en   contacto”.   Pragmalingüística,  18.  Cádiz,  Publicaciones  de  la  Universidad  de  Cádiz.  pp.
-30-52. componentes culturales dentro del proceso de enseñanza-aprendizaje del español en un contexto
-de   submersión  lingüística”,  Pragmalingüística,  25.  Cádiz,  Publicaciones  de  la  Universidad  de  Cádiz.
-pp.   32-49   →   AYORA   ESTEBAN,   Mª   del   Carmen   (2017):   “La   competencia   sociolingüística   y   los
-componentes   culturales   dentro   del   proceso  de  enseñanza-aprendizaje  del  español  en  un  contexto  de
-submersión lingüística”, Pragmalingüística, 25. Cádiz, Publicaciones de la Universidad de Cádiz. pp.
-32-49
-
-✅ Recursos añadidos:
-------------------------------
 AYORA   ESTEBAN,   Mª   del  Carmen  (2010):  “Diversidad  lingüística  y  cultural  en  un  ámbito  educativo  de
 lenguas   en   contacto”.   Pragmalingüística,  18.  Cádiz,  Publicaciones  de  la  Universidad  de  Cádiz.  pp.
 30-52
 
+AYORA   ESTEBAN,   Mª  del  Carmen  (2017):  “La  competencia  sociolingüística  y  los  componentes  culturales
+dentro   del   proceso  de  enseñanza-aprendizaje  del  español  en  un  contexto  de  submersión  lingüística”,
+Pragmalingüística, 25. Cádiz, Publicaciones de la Universidad de Cádiz. pp. 32-49
+
+DÍAZ-AGUADO, Mª José (2003): Educación intercultural y aprendizaje cooperativo. Madrid: Pirámide
+
+Marco   Común   Europeo  de  Referencia  para  las  Lenguas:  aprendizaje,  enseñanza,  evaluación.  Disponible
+en http://cvc.cervantes.es/obref/marco
+
+✅ Recursos añadidos (12):
+------------------------------
 CASSANY,   Daniel.,   LUNA,   Marta.   y   SANZ,   Gloria.  (1994):  “Lengua  y  sociedad”,  en  Enseñar  lengua.
 Barcelona, Graó
 
@@ -50,9 +46,6 @@ MORENO   Francisco   (1994),  “Aportes  de  la  sociolingüística  a  la  ens
 
 MORENO, Francisco (1998): Principios de sociolingüística y sociología del lenguaje. Barcelona, Ariel
 
-Marco   Común   Europeo  de  Referencia  para  las  Lenguas:  aprendizaje,  enseñanza,  evaluación.  Disponible
-en http://cvc.cervantes.es/obref/marco
-
 PRADO, Josefina (2004): “Didáctica de la lengua y la literatura desde la diversidad lingüística y la
 educación   intercultural”,   en   Didáctica   de  la  lengua  y  la  literatura  para  educar  en  el  siglo  XXI.
 Madrid, La Muralla. pp. 107-140
@@ -67,4 +60,4 @@ TRUJILLO   SÁEZ,   Fernando   (2003).   «Carta   abierta   sobre   la  intercu
 TUSÓN, Amparo (2010): “Aportaciones de la Sociolingüística a la enseñanza de la Lengua”, LOMAS, C. y
 OSORO, A., El enfoque comunicativo en la enseñanza de la lengua.Barcelona, Paidós. pp. 55-68
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 70% [███████░░░]

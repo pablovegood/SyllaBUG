@@ -2,11 +2,11 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Amat, O. y Rocafort, A. (dir.) (2017). Cómo investigar: Trabajo fin de grado, tesis de máster, tesis
 doctoral y otros proyectos de investigación. Profit Editorial
@@ -22,23 +22,20 @@ Tesis Doctoral. Tirant lo Blanch
 
 Da Cunha, I. (2016). El trabajo de fin de grado y de máster. Redacción, defensa y publicación. UOC
 
-Ruiz Olabuénaga, J.I. (2012) Metodología de la investigación cualitativa. Universidad de Deusto
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-González-García,   J.M.,   León-Mejía,   A.   y   Peñalba-Sotorrío,  M.  (2014).  Cómo  escribir  un  Koval,  S.
-(2011).   Manual   para   la   elaboración   de   trabajos   académicos:  investigar  y  redactar  en  el  ámbito
-universitario.   Temas   Grupo   Editorial   →   Koval,  S.  (2011).  Manual  para  la  elaboración  de  trabajos
-académicos: investigar y redactar en el ámbito universitario. Temas Grupo Editorial
-
-✅ Recursos añadidos:
-------------------------------
-A   desarrollar  por  el  alumno  o  alumna  en  función  de  las  recomendaciones  del  profesor/a  tutor/a  según
-el área y campo de desarrollo del TFG
-
 González-García, J.M., León-Mejía, A. y Peñalba-Sotorrío, M. (2014). Cómo escribir un trabajo de fin
 de grado. Algunas experiencias y consejos prácticos. Editorial Síntesis
 
+Koval,   S.   (2011).   Manual   para  la  elaboración  de  trabajos  académicos:  investigar  y  redactar  en  el
+ámbito universitario. Temas Grupo Editorial
+
 La bibliografía complementaria será aportada por cada tutor/a
 
-📊 Porcentaje estimado de cambio: 57% [█████░░░░░]
+Ruiz   Olabuénaga,   J.I.   (2012)  Metodología  de  la  investigación  cualitativa.  Universidad  de  Deusto  A
+desarrollar por el alumno o alumna en función de las recomendaciones del profesor/a tutor/a según el
+área y campo de desarrollo del TFG
+
+✅ Recursos añadidos (1):
+------------------------------
+Ruiz Olabuénaga, J.I. (2012) Metodología de la investigación cualitativa. Universidad de Deusto
+
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

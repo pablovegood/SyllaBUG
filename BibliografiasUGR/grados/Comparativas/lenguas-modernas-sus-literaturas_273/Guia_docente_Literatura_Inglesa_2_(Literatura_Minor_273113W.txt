@@ -2,17 +2,20 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Stephen,   M..English   Literature:   A   Student   Guide.   Londres  y  Nueva  York:  Longman.  1994  (1986)  D.
+Bevington, How to Read a Shakespeare Play. Oxford: Blackwell, 2006
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 A.   Bravo.  Prose  and  Poetry  of  the  Age  of  Chaucer.  Universidad  de  Oviedo:  Servicio  de  Publicaciones,
 1998
 
 A.   Preminger  &  T.V.F.  Brogan,  eds.  The  New  Princeton  Encyclopedia  of  Poetry  and  Poetics.  Princeton,
 N.J.: Princeton University Press, 1993
+
+A. Sanders, The Short Oxford History of English Literature. 2nd ed. Oxford: O.U.P., 2004
 
 B.W. Shaffer, Reading the Novel in English 1950-2000. Oxford: Blackwell, 2006
 
@@ -30,20 +33,14 @@ New York & London: W.W. Norton & Co., 2012
 
 S. Kern, The Modernist Novel: A Critical Introduction. Cambridge: C.U.P., 2011
 
-Sanders, A. The Short Oxford History of English Literature. 2nd ed. Oxford: O.U.P., 2004
-
 T. Eagleton, The English Novel. An Introduction. Oxford: Blackwell, 2005
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Stephen,   M..English   Literature:   A   Student   Guide.   Londres  y  Nueva  York:  Longman.  1994  (1986)  D.
-Bevington,   How   to   Read   a  Shakespeare  Play.  Oxford:  Blackwell,  2006  →  D.  Bevington,  How  to  Read  a
-Shakespeare Play. Oxford: Blackwell, 2006
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Carter, R, and J. MacRae. The Penguin Guide to English Literature, London, Penguin 1995
 
+D. Bevington, How to Read a Shakespeare Play. Oxford: Blackwell, 2006
+
 Stephen, M. English Literature: A Student Guide. London & New York: Longman. 1994 (1986)
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

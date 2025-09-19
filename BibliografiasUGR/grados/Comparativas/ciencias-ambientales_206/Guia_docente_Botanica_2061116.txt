@@ -2,32 +2,78 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-DÍAZ   GONZÁLES,   T.E.   &   COL.   (2004).  Curso  de  Botánica.  Ed.  Trea  Ciencias,  Asturias  FONT  QUER,  P.
-(1977). Diccionario de Botánica, 6a edición. Ed. Lábor, Barcelona
+Guías   para   la   determinación   de   plantas  y  hongos  BLANCA,  G.,  B.  CABEZUDO,  M.  CUETO,  C.  FERNÁNDEZ
+LÓPEZ   &  C.  MORALES  TORRES  (2009,  eds.).  Flora  Vascular  de  Andalucía  Oriental,  4  vols.  Consejería  de
+Medio   Ambiente,  Junta  de  Andalucía,  Sevilla.  BON,  M.  (1988).  Guía  de  campo  de  los  hongos  de  Europa.
+Ed.   Omega,   Barcelona.   CABIOC´H,   J.   &  col.  (1995).  Guía  de  las  algas  de  los  mares  de  Europa.  Ed.
+Omega,   Barcelona.   JAHNS,   H.M.  (1982).  Guía  de  campo  de  los  helechos,  musgos  y  líquenes  de  Europa.
+Ed.   Omega,   Barcelona.   LOPEZ   GONZALEZ,   G.  (2004).  Guía  de  los  árboles  y  arbustos  de  la  Península
+Ibérica y Baleares, 2ª edición. Ed. Mundi Prensa, Madrid. MORALES, C., C. QUESADA & L. BAENA (2001).
+Árboles   y   arbustos.   Diputación   de   Granada.   ORTEGA,   A.   &   col.  (1996).  Setas.  Identificación,
+toxicidad,   gastromicología.   Proyecto   Sur,   Granada.   SALVO,   E.   (1990).   Guía   de  helechos  de  la
+Península Ibérica y Baleares. Ed. Pirámide, Madrid
 
-📚 Recursos sin cambios:
+Libros sobre vegetación y flora amenazada BAÑARES, A., G. BLANCA, J. GÜEMES, J. C. MORENO & S. ORTÍZ
+(2004, eds.). Atlas y Libro Rojo de la Flora Vascular Amenazada de España. Dirección General para la
+Biodiversidad,   Publicaciones   del   O.   A.   P.   N.,   Madrid.   BLANCO,   E.  &  col.  (1997).  Los  bosques
+ibéricos.   Ed.   Planeta,  Barcelona.  PEINADO,  M.  &  S.  RIVAS  MARTINEZ  (1987).  La  vegetación  de  España.
+Servicio   de   Publicaciones,   Universidad   de  Alcalá  de  Henares,  Madrid.  WALTER,  H.  (1977).  Zonas  de
+vegetación y clima. Ed. Omega, Barcelona
+
+Tratados   generales  BLANCA,  G.  (2006-2007,  coord.).  Proyecto  Andalucía  Naturaleza.  Botánica,  5  vols.
+Publicaciones   Comunitarias-Grupo   Hércules,   Sevilla.   BOLD,   H.C.  &  col.  (1989).  Morfología  de  las
+plantas y de los hongos. Ed. Omega, Barcelona. DÍAZ GONZÁLES, T.E. & COL. (2004). Curso de Botánica.
+Ed.   Trea   Ciencias,   Asturias  FONT  QUER,  P.  (1977).  Diccionario  de  Botánica,  6a  edición.  Ed.  Lábor,
+Barcelona.   HEYWOOD,   V.H.   (1985).   Las  Plantas  con  Flores.  Ed.  Reverté,  Barcelona.  IZCO,  J.  &  col.
+(2004).   Botánica.   Ed.   McGraw-Hill,   Madrid.   JUDD,   W.S.   &  col.  (2008)  Plant  systematics.  3ª  ed.
+Sinauer   ass.   Inc.   Massachusetts.  RAVEN,  P.H.  &  col.  (1992).  Biología  de  las  plantas.  Ed.  Reverté,
+Barcelona. SITTE, P. & col. (2004) Strasburguer. Tratado de Botánica. Ed. Omega, S.A. SCAGEL, R.F. &
+col.   (1987).  El  Reino  Vegetal.  Ed.  Omega,  Barcelona.  SPICHIGER,  R.-E.,  V.V.  SAVOLAINEN,  M.  FIGEAT  &
+D.   JEANMONOD   (2004).  Botanique  Systématique  des  plantes  à  fleurs.  3ª  ed.  Presses  Polytechniques  et
+Universitaires Romandes. ZIMMERMANN, W. (1976). Evolución Vegetal. Ed. Omega, Barcelona
+
+📚 Recursos sin cambios (0):
 ------------------------------
-A)   Tratados   generales   BLANCA,   G.  (2006-2007,  coord.).  Proyecto  Andalucía  Naturaleza.  Botánica,  5
-vols
+No hay elementos.
+
+✅ Recursos añadidos (23):
+------------------------------
+A) Tratados generales
+
+B) Guías para la determinación de plantas y hongos
 
 BAÑARES,   A.,   G.   BLANCA,  J.  GÜEMES,  J.  C.  MORENO  &  S.  ORTÍZ  (2004,  eds.).  Atlas  y  Libro  Rojo  de  la
 Flora Vascular Amenazada de España. Dirección General para la Biodiversidad, Publicaciones del O. A.
 P. N., Madrid
+
+BLANCA,   G.   (2006-2007,   coord.).   Proyecto   Andalucía   Naturaleza.  Botánica,  5  vols.  Publicaciones
+Comunitarias-Grupo Hércules, Sevilla
 
 BLANCA,   G.,   B.   CABEZUDO,   M.   CUETO,   C.   FERNÁNDEZ  LÓPEZ  &  C.  MORALES  TORRES  (2009,  eds.).  Flora
 Vascular de Andalucía Oriental, 4 vols. Consejería de Medio Ambiente, Junta de Andalucía, Sevilla
 
 BLANCO, E. & col. (1997). Los bosques ibéricos. Ed. Planeta, Barcelona
 
+BOLD,   H.C.   &   col.   (1989).   Morfología  de  las  plantas  y  de  los  hongos.  Ed.  Omega,  Barcelona.  DÍAZ
+GONZÁLES, T.E. & COL. (2004). Curso de Botánica. Ed. Trea Ciencias, Asturias
+
 BON, M. (1988). Guía de campo de los hongos de Europa. Ed. Omega, Barcelona
 
+C) Libros sobre vegetación y flora amenazada
+
 CABIOC´H, J. & col. (1995). Guía de las algas de los mares de Europa. Ed. Omega, Barcelona
+
+FONT   QUER,   P.   (1977).   Diccionario   de   Botánica,  6a  edición.  Ed.  Lábor,  Barcelona.  HEYWOOD,  V.H.
+(1985). Las Plantas con Flores. Ed. Reverté, Barcelona
 
 IZCO, J. & col. (2004). Botánica. Ed. McGraw-Hill, Madrid
 
 JAHNS, H.M. (1982). Guía de campo de los helechos, musgos y líquenes de Europa. Ed. Omega, Barcelona
+
+JUDD,   W.S.   &   col.  (2008)  Plant  systematics.  3ª  ed.  Sinauer  ass.  Inc.  Massachusetts.  RAVEN,  P.H.  &
+col. (1992). Biología de las plantas. Ed. Reverté, Barcelona
 
 LOPEZ   GONZALEZ,   G.   (2004).   Guía  de  los  árboles  y  arbustos  de  la  Península  Ibérica  y  Baleares,  2ª
 edición. Ed. Mundi Prensa, Madrid
@@ -51,31 +97,4 @@ WALTER, H. (1977). Zonas de vegetación y clima. Ed. Omega, Barcelona
 
 ZIMMERMANN, W. (1976). Evolución Vegetal. Ed. Omega, Barcelona
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-HEYWOOD,   V.H.   (1985).   Las   Plantas   con   Flores.   Ed.   Reverté,  Barcelona  →  FONT  QUER,  P.  (1977).
-Diccionario   de   Botánica,   6a   edición.  Ed.  Lábor,  Barcelona.  HEYWOOD,  V.H.  (1985).  Las  Plantas  con
-Flores. Ed. Reverté, Barcelona
-
-BOLD,   H.C.   &   col.  (1989).  Morfología  de  las  plantas  y  de  los  hongos.  Ed.  Omega,  Barcelona  →  BOLD,
-H.C.   &  col.  (1989).  Morfología  de  las  plantas  y  de  los  hongos.  Ed.  Omega,  Barcelona.  DÍAZ  GONZÁLES,
-T.E. & COL. (2004). Curso de Botánica. Ed. Trea Ciencias, Asturias
-
-JUDD,   W.S.   &   col.  (2008)  Plant  systematics.  3ª  ed.  Sinauer  ass.  Inc.  Massachusetts  →  JUDD,  W.S.  &
-col.   (2008)   Plant   systematics.  3ª  ed.  Sinauer  ass.  Inc.  Massachusetts.  RAVEN,  P.H.  &  col.  (1992).
-Biología de las plantas. Ed. Reverté, Barcelona
-
-RAVEN,   P.H.   &   col.   (1992).   Biología   de  las  plantas.  Ed.  Reverté,  Barcelona  →  JUDD,  W.S.  &  col.
-(2008)   Plant   systematics.   3ª   ed.   Sinauer   ass.   Inc.   Massachusetts.  RAVEN,  P.H.  &  col.  (1992).
-Biología de las plantas. Ed. Reverté, Barcelona
-
-✅ Recursos añadidos:
-------------------------------
-B) Guías para la determinación de plantas y hongos
-
-BLANCA,   G.   (2006-2007,   coord.).   Proyecto   Andalucía   Naturaleza.  Botánica,  5  vols.  Publicaciones
-Comunitarias-Grupo Hércules, Sevilla
-
-C) Libros sobre vegetación y flora amenazada
-
-📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

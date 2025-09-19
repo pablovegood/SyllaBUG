@@ -2,18 +2,13 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
-Avidad, R., & de Orbe, I. (2006). Análisis químico. Universidad de Granada, Granada, España
-
 Banwell, C. N. Fundamentos de espectroscopía molecular. Ediciones del Castillo, Madrid, España
-
-Bolaños   V.,   N.,   Lutz   C.,   G.,   &   Herrera   R.,   C.   H.   (2003).   Química  de  alimentos:  Manual  de
-laboratorio. Universidad de Costa Rica “Rodrigo Facio”, San José, Costa Rica
 
 Compañó,   R.,   &   Ríos,   A.   (2002).   Garantía   de  calidad  en  los  laboratorios  analíticos.  Editorial
 Síntesis, Madrid, España
@@ -39,6 +34,9 @@ Miller,   J.   N.,  &  Miller,  J.  C.  (2002).  Estadística  y  quimiometría 
 Hall, Madrid, España
 
 Morcillo Rubio, J. (2002). Química física (2ª ed.). Publicaciones UNED. Madrid, España
+
+Para   prácticas:   Bolaños   V.,   N.,   Lutz   C.,  G.,  &  Herrera  R.,  C.  H.  (2003).  Química  de  alimentos:
+Manual de laboratorio. Universidad de Costa Rica “Rodrigo Facio”, San José, Costa Rica
 
 Paré,   J.   R.   J.,   &   Bélanger,   J.   M.  R.  (1997).  Instrumental  methods  in  food  analysis.  Elsevier,
 Amsterdam, Países Bajos
@@ -78,14 +76,12 @@ Grupo Editorial Iberoamérica, México, D.F., México
 Zúñiga   Román,   J.   Espectroscopia  atómica  y  molecular.  Pearson  Educación,  Madrid,  España  Atkins,  P.
 (2008). Química física (8ª ed.). Editorial Médica Panamericana, Buenos Aires, Argentina
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Atkins, P. (2008). Química física (8ª ed.). Editorial Médica Panamericana, Buenos Aires, Argentina
 
+Avidad, R., & de Orbe, I. (2006). Análisis químico. Universidad de Granada, Granada, España
+
 Para prácticas
 
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

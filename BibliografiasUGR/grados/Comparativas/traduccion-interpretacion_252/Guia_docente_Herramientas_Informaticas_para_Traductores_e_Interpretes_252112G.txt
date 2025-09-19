@@ -2,15 +2,20 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Principalmente   se   usarán  los  manuales  de  uso  y  tutoriales  de  cada  uno  de  los  programas  estudiados,
+así   como   materiales  complementarios  elaborados  por  los  profesores  y  lecturas  específicas  para  cada
+tema   que   se  facilitarán  en  su  momento.  Además,  se  tendrán  en  cuenta  manuales  de  carácter  general  e
+introductorio   como   los   siguientes:   Forcada,  M.L.,  Sánchez-Martínez,  F.  &  Pérez-Ortiz,  J.A.  2016.
+Manual     de     informática     y     de     tecnologı́as     para    la    traducción.    Disponible    en:
+http://rua.ua.es/dspace/handle/10045/53085   Guerberof  Arenas,  A.  2019.  Pre-editing  and  post-editing.
+En E. Angelone, M
 
-📚 Recursos sin cambios:
+https://doi.org/10.4324/9781003168348
+
+📚 Recursos sin cambios (5):
 ------------------------------
-Forcada,   M.L.,   Sánchez-Martínez,   F.   &   Pérez-Ortiz,   J.A.   2016.   Manual   de   informática   y   de
-tecnologı́as para la traducción. Disponible en: http://rua.ua.es/dspace/handle/10045/53085
-
 Guerberof   Arenas,   A.  2019.  Pre-editing  and  post-editing.  En  E.  Angelone,  M.  Ehrensberger-Dow,  &  G.
 Massey (eds.), The Bloomsbury companion to language industry studies . Bloomsbury Publishing
 
@@ -25,12 +30,11 @@ artificial intelligence, 18. Language Science Press
 Sin-wai,     C.     2023.     Routledge     encyclopedia     of     translation    technology.    Routledge.
 https://doi.org/10.4324/9781003168348
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-No hubo cambios de edición/año.
+Forcada,   M.L.,   Sánchez-Martínez,   F.   &   Pérez-Ortiz,   J.A.   2016.   Manual   de   informática   y   de
+tecnologı́as para la traducción. Disponible en: http://rua.ua.es/dspace/handle/10045/53085
 
-✅ Recursos añadidos:
-------------------------------
 Principalmente   se   usarán  los  manuales  de  uso  y  tutoriales  de  cada  uno  de  los  programas  estudiados,
 así   como   materiales  complementarios  elaborados  por  los  profesores  y  lecturas  específicas  para  cada
 tema   que   se  facilitarán  en  su  momento.  Además,  se  tendrán  en  cuenta  manuales  de  carácter  general  e
@@ -39,4 +43,4 @@ introductorio como los siguientes
 Pym,   A.   &   Hao,   Y.  2025.  How  to  Augment  Language  Skills.  Generative  AI  and  Machine  Translation  in
 Language Learning and Translator Training . London & New York: Routledge
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

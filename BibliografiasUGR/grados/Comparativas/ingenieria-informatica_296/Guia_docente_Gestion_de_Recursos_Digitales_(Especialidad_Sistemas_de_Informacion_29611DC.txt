@@ -2,18 +2,18 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Aggarwal, C.C (2016). Recommender Systems: The Textbook. Springer
 
 Arias   Ordóñez,   J.   (2012).  Análisis  para  crear,  organizar  y  desarrollar  Bibliotecas  Digitales:  Las
 Biblioteca Digitales: el universo de los conocimientos a su alcance. EAE
 
-Calhoun, K. (2014). Exploring digital libraries: foundations, practice, prospects. London : Facet
+Calhoun, K. (2014). Exploring digital libraries : foundations, practice, prospects. London : Facet
 
 Lesk, M. (2005). Understanding Digital Libraries (2nd ed.). Morgan Kaufman
 
@@ -25,16 +25,12 @@ Neal-Schuman Publishers, Inc
 Tedd,   L.  A.  &  Large,  A.  (2005).  Digital  Libraries:  Principles  and  Practice  in  a  Global  Environment,
 Munchen: K. G. Saur Verlag
 
-Witten,   I.   H.,Bainbridge,   D.,  Nichols,  M.  (2012).  How  to  build  a  Digital  Library,  Second  Edition.
+Witten,   I.  H.  ,Bainbridge,  D.  ,  Nichols,  M.  (2012).  How  to  build  a  Digital  Library,  Second  Edition.
 Morgan Kaufmann
 
 Xie, I.,Matusiak, K. (2016). Discover Digital Libraries, Theory and Practice. Elsevier
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

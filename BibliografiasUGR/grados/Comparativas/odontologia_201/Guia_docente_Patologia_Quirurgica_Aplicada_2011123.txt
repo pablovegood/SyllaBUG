@@ -2,50 +2,18 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Townsend   CM,   Beauchamp   RD,   Evers,   BM,   Mattox   KL.   Sabiston.   Tratado   de  Cirugía.  Fundamentos
-biológicos   de   la   práctica   quirúrgica   moderna.   18ª   ed.   Barcelona:   Elsevier   España   SL.  ISBN
-978-84-8086-371-1. (2009)
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Editorial   Universidad   de   Granada   (EUG),   1ª   Edición,   Granada.  2014  Pérez  Cabrera,  B;  Maldonado
-Martin,   A;   Ocón   Hernández,   O.  AFECCIONES  MÉDICO-  QUIRÚRGICAS:  PATOLOGÍA  CARDIACA,  NEUROCIRUGÍA  Y
-OTROS   SISTEMAS,.   AVICAM   Editores,   2015.   ISBN  978-84-943054-6-7  Roewer,  Thiel.  Anestesia  Texto  y
-atlas. 4ª ed. Ed Panamericana. ISBN edición española 978-84-9835-280-1.(2010) Townsend CM, Beauchamp
-RD,   Evers,   BM,   Mattox   KL.  Sabiston.  Tratado  de  Cirugía  →  Roewer,  Thiel.  Anestesia  Texto  y  atlas.
-4ª ed. Ed Panamericana. ISBN edición española 978-84-9835-280-1.(2010)
-
-Townsend   CM,   Beauchamp,   RD,  Evers  BM,  Mattox  KL.  19ª  ed.  Elsevier  España  S.  L.,  Barcelona  (2013).
-Malamed SF. Manual de anestesia local. 5 ed. Elsevier-Masson: Saunder, Mosby, Harcourt Brace (2005).
-Martinez   Martinez   AA.   Anestesia   bucal.  1ª  ed  Ed  Panamericana  (2009).  Miller.  Anestesia.  Elsevier
-España,   S.L.   ISBN   edición   española:  978-84-8086-713-9.(2014).  Pérez  Cabrera  B,  Prados  Olleta  N  y
-Gómez   Jiménez   J.   AFECCIONES  MÉDICOQUIRÚRGICAS  I  →  Martinez  Martinez  AA.  Anestesia  bucal.  1ª  ed  Ed
-Panamericana (2009)
-
-ISBN 978-84-8086-371-1. (2009) Wall & Melzack. Texbook of Pain. 6th edition. McMahon & Koltzenburg &
-Tracey   &   Turk   →   Wall   &   Melzack.  Texbook  of  Pain.  6th  edition.  McMahon  &  Koltzenburg  &  Tracey  &
-Turk. Saunders (2013)
-
-Bonica   JJ.  Terapéutica  del  dolor.  3ª  ed.  2  vol.  Interamericana.  México  (2003).  Delgado  Martínez  AD.
-Cirugía    Ortopédica    y    Traumatológica.   Buenos   Aires;   Madrid:   Ed.   Médica   Panamericana   ISBN
-978-84-9835-210-8.(2008).   Doherty   GM,   Way   LW.   Diagnóstico  y  tratamiento  quirúrgicos.  9ª  ed,  Ed.
-Manual   Moderno,   México,  (2007).  Gutiérrez  Lizardi  P.  Urgencias  Médicas  en  Odontología.  Ed.  McGraw-
-Hill   Interamericana,   México   (2005),   .  Harrison.  Tratado  de  Cirugía.  Fundamentos  biológicos  de  la
-práctica   quirúrgica   moderna   →   Doherty   GM,  Way  LW.  Diagnóstico  y  tratamiento  quirúrgicos.  9ª  ed,
-Ed. Manual Moderno, México, (2007)
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (13):
 ------------------------------
 Bonica JJ. Terapéutica del dolor. 3ª ed. 2 vol. Interamericana. México (2003)
 
 Delgado   Martínez   AD.   Cirugía   Ortopédica   y   Traumatológica.   Buenos   Aires;   Madrid:   Ed.  Médica
 Panamericana ISBN 978-84-9835-210-8.(2008)
+
+Doherty GM, Way LW. Diagnóstico y tratamiento quirúrgicos. 9ª ed, Ed. Manual Moderno, México, (2007)
 
 Gutiérrez   Lizardi   P.   Urgencias   Médicas   en   Odontología.   Ed.  McGraw-Hill  Interamericana,  México
 (2005),
@@ -55,6 +23,8 @@ Beauchamp, RD, Evers BM, Mattox KL. 19ª ed. Elsevier España S. L., Barcelona (
 
 Malamed SF. Manual de anestesia local. 5 ed. Elsevier-Masson: Saunder, Mosby, Harcourt Brace (2005)
 
+Martinez Martinez AA. Anestesia bucal. 1ª ed Ed Panamericana (2009)
+
 Miller. Anestesia. Elsevier España, S.L. ISBN edición española: 978-84-8086-713-9.(2014)
 
 Pérez   Cabrera   B,   Prados   Olleta   N   y   Gómez  Jiménez  J.  AFECCIONES  MÉDICOQUIRÚRGICAS  I:  Editorial
@@ -63,4 +33,17 @@ Universidad de Granada (EUG), 1ª Edición, Granada. 2014
 Pérez   Cabrera,   B;  Maldonado  Martin,  A;  Ocón  Hernández,  O.  AFECCIONES  MÉDICO-QUIRÚRGICAS:  PATOLOGÍA
 CARDIACA, NEUROCIRUGÍA Y OTROS SISTEMAS,. AVICAM Editores, 2015. ISBN 978-84-943054-6-7
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Roewer,    Thiel.    Anestesia    Texto   y   atlas.   4ª   ed.   Ed   Panamericana.   ISBN   edición   española
+978-84-9835-280-1.(2010)
+
+Townsend   CM,   Beauchamp   RD,   Evers,   BM,   Mattox   KL.   Sabiston.   Tratado   de  Cirugía.  Fundamentos
+biológicos   de   la   práctica   quirúrgica   moderna.   18ª   ed.   Barcelona:   Elsevier   España   SL.  ISBN
+978-84-8086-371-1. (2009)
+
+Wall & Melzack. Texbook of Pain. 6th edition. McMahon & Koltzenburg & Tracey & Turk. Saunders (2013)
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

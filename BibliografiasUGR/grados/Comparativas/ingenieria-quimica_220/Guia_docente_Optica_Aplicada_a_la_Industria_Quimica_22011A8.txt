@@ -2,11 +2,12 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Handbook   of   Optics,   Volume  II  :  Devices  ,  Measurements  ,  and  Properties.  Sponsored  by  the  OPTICAL
+SOCIETY OF AMERICA. Michael BassEditor in ChieF. McGRAW-HILL , INC . 1995. 1983
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Berns,   R.S.,   Billmeyer   and  Saltzman’s,  Principles  of  Color  Technology,  3rd  Ed.,  p.  66,  Wiley,  New
 York, USA (2000)
@@ -17,8 +18,6 @@ Pub. 15.2, 1986)
 Douglas   A.   Skoog,  F.  James  Holler,  Timothy  A.  Nieman,  Principios  de  Análisis  Instrumental,  McGraw-
 Hill, 2000
 
-Enrique Hita Villaverde y colab., El láser y sus aplicaciones, Universidad de Granada, ICE, 1983
-
 Enrique   Hita   Villaverde   y   colab.,   Láser.   Fundamentos  y  experiencias  didácticas,  Universidad  de
 Granada, ICE, 1988
 
@@ -28,11 +27,8 @@ Eugene Hecht, Óptica, Addison Wesley, 2000
 
 Francis A. Jenkins, Harvey E. White, Fundamentals of Optics, McGraw-Hill, 1981
 
-Hanbook   of  Optics,  Volume  I:  Fundamentals,  Techniques,  and  Design.  Sponsored  by  the  OPTICAL  SOCIETY
-OF AMERICA. Michael BassEditor in Chief. McGRAW-HILL, INC . 1995
-
-Handbook   of   Optics,   Volume   II   :  Devices,  Measurements,  and  Properties.  Sponsored  by  the  OPTICAL
-SOCIETY OF AMERICA. Michael BassEditor in ChieF. McGRAW-HILL, INC . 1995
+Hanbook   of   Optics,   Volume   I:   Fundamentals   ,   Techniques  ,  and  Design.  Sponsored  by  the  OPTICAL
+SOCIETY OF AMERICA. Michael BassEditor in Chief. McGRAW-HILL , INC . 1995
 
 Hita   Villaverde,   E.,   “El   mundo   del   color,   desde   lo   perceptivo  y  artístico  a  lo  científico”,
 Editorial Universidad de Granada (2001)
@@ -45,12 +41,11 @@ R. McDonald. Colour physics for industry. Society of Dyers & Colourists, 1997
 
 R.W.G. Hunt. The reproduction of colour. 6th Edition. John Wiley & Sons Inc., 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+Enrique Hita Villaverde y colab., El láser y sus aplicaciones, Universidad de Granada, ICE, 1983
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+Handbook   of   Optics,   Volume   II   :  Devices,  Measurements,  and  Properties.  Sponsored  by  the  OPTICAL
+SOCIETY OF AMERICA. Michael BassEditor in ChieF. McGRAW-HILL, INC . 1995
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

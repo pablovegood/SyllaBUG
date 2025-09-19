@@ -2,11 +2,11 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 Ed. Paraninfo, Madrid. Segunda Edición
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Camisón, C. y Dalmau, J. I (2009): Introducción a los Negocios y su Gestión, Pearson, Madrid
 
@@ -23,19 +23,17 @@ Hernández Ortiz, M.J. (2014): Administración de empresas, Pirámide, Madrid
 Iborra,   M.,   Dasí,   A.,   Dolz,   C.   Y   Ferrer,  C.  (2014):  Fundamentos  de  Dirección  de  Empresas.  Ed.
 Paraninfo, Madrid. Segunda Edición
 
-Sánchez Vizcaino, G. et al. (2011), Administración de empresas. Madrid: Pirámide
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Moyano Fuentes, J. y otros (2011): Administración de empresas: Un enfoque Ries, E. (2013). El método
-Lean   Startup.   Editorial   Deusto.   decisiones.  McGraw‐Hill  Interamericana  de  España.  Madrid  →  Ries,
-E. (2013). El método Lean Startup. Editorial Deusto
-
-✅ Recursos añadidos:
-------------------------------
 Moyano Fuentes, J. y otros (2011): Administración de empresas: Un enfoque teórico‐práctica, Pearson
+
+Ries, E. (2013). El método Lean Startup. Editorial Deusto
 
 Sánchez   Gómez,  R.  y  González  Benito,  J.  (2012):  Administración  de  Empresas:  Objetivos  y  decisiones.
 McGraw‐Hill Interamericana de España. Madrid
 
-📊 Porcentaje estimado de cambio: 44% [████░░░░░░]
+Sánchez Vizcaino, G. et al. (2011), Administración de empresas. Madrid: Pirámide
+
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

@@ -2,33 +2,35 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Kierszenbaum   y   L.  Tres.  Ed.  Elsevier,  5ª  ed.,  2020.  ISBN:  9788491137733  FUNCTIONAL  HISTOLOGY.  J.B.
+Kerr. Ed. Elsevier, 2ª ed., 2010. ISBN: ‎ 9780729538374
 
-📚 Recursos sin cambios:
+W. Pawlina. Wolters Kluwer, 9ª ed., 2024. ISBN: SOBOTTA. HISTOLOGÍA. U. Welsch. Ed. Panamericana, 3ª
+ed.,   2014.ISBN:   9786077743910   HISTOLOGÍA.  ATLAS  EN  COLOR  Y  TEXTO.  GARTNER  Y  HIATT.  L.P.  Gartner  y
+L.M.J. Lee
+
+Wolters   Kluwer,   8ª   ed.,   2023.  ISBN:  9788418892851  GENESER.  HISTOLOGÍA.  Ed.  Panamericana,  4ª  ed.,
+2015. ISBN: 09788411060639 HISTOLOGÍA Y BIOLOGÍA CELULAR. INTRODUCCIÓN A LA ANATOMÍA PATOLÓGICA. A.L
+
+📚 Recursos sin cambios (1):
 ------------------------------
 HISTOLOGÍA. TEXTO Y ATLAS. CORRELACION CON BIOLOGÍA MOLECULAR Y CELULAR. W. Pawlina. Wolters Kluwer,
 9ª ed., 2024. ISBN: 9788419663924
 
-SOBOTTA. HISTOLOGÍA. U. Welsch. Ed. Panamericana, 3ª ed., 2014.ISBN: 9786077743910
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Kierszenbaum   y   L.  Tres.  Ed.  Elsevier,  5ª  ed.,  2020.  ISBN:  9788491137733  FUNCTIONAL  HISTOLOGY.  J.B.
-Kerr.   Ed.   Elsevier,   2ª   ed.,   2010.   ISBN:  ‎  9780729538374  CT8,  CT9,  CE13  →  FUNCTIONAL  HISTOLOGY.
-J.B. Kerr. Ed. Elsevier, 2ª ed., 2010. ISBN: ‎ 9780729538374
+FUNCTIONAL HISTOLOGY. J.B. Kerr. Ed. Elsevier, 2ª ed., 2010. ISBN: ‎ 9780729538374
 
-Wolters   Kluwer,   8ª   ed.,   2023.  ISBN:  9788418892851  GENESER.  HISTOLOGÍA.  Ed.  Panamericana,  4ª  ed.,
-2015. ISBN: 09788411060639 HISTOLOGÍA Y BIOLOGÍA CELULAR. INTRODUCCIÓN A LA ANATOMÍA PATOLÓGICA. A.L
-→  GENESER. HISTOLOGÍA. Ed. Panamericana, 4ª ed., 2015. ISBN: 09788411060639
+GENESER. HISTOLOGÍA. Ed. Panamericana, 4ª ed., 2015. ISBN: 09788411060639
 
-✅ Recursos añadidos:
-------------------------------
 HISTOLOGÍA   Y   BIOLOGÍA  CELULAR.  INTRODUCCIÓN  A  LA  ANATOMÍA  PATOLÓGICA.  A.L.  Kierszenbaum  y  L.  Tres.
 Ed. Elsevier, 5ª ed., 2020. ISBN: 9788491137733
 
 HISTOLOGÍA.   ATLAS   EN  COLOR  Y  TEXTO.  GARTNER  Y  HIATT.  L.P.  Gartner  y  L.M.J.  Lee.  Wolters  Kluwer,  8ª
 ed., 2023. ISBN: 9788418892851
+
+SOBOTTA. HISTOLOGÍA. U. Welsch. Ed. Panamericana, 3ª ed., 2014.ISBN: 9786077743910
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

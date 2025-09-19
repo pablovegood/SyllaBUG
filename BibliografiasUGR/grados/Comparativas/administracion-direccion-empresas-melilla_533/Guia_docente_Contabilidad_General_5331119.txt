@@ -2,11 +2,13 @@
 Grado: administracion-direccion-empresas-melilla (533)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+MIO   C   (Ed).   Integrated   Reporting:   A   New   Accounting   Disclosure,   Palgrave  McMillan,  UK,  MUÑOZ
+MERCHANTE,   A.   Fundamentos   de  Contabilidad.  Universidad  Nacional  de  Educación  a  Distancia.  Madrid,
+1997
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 AINSWORTH,   P.   Y   DEINES,  D.  Introduction  to  accounting:  An  integrated  approach.  John  Wiley  &  Sons,
 New Jersey, 2019
@@ -39,15 +41,11 @@ SÁEZ TORRECILLA, A. Contabilidad General. Volumen 1 y 2, McGraw-Hill. Madrid, 2
 VELA   PASTOR,   M.;  MONTESINOS  JULVE,  V.  Y  SERRA  SALVADOR,  V.  Manual  de  Contabilidad.  Ariel  Economía.
 Barcelona, 1996
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-MIO   C   (Ed).   Integrated   Reporting:   A   New   Accounting   Disclosure,   Palgrave  McMillan,  UK,  MUÑOZ
-MERCHANTE,   A.   Fundamentos   de  Contabilidad.  Universidad  Nacional  de  Educación  a  Distancia.  Madrid,
-1997  →  MIO C (Ed). Integrated Reporting: A New Accounting Disclosure, Palgrave McMillan, UK, 2016
+MIO C (Ed). Integrated Reporting: A New Accounting Disclosure, Palgrave McMillan, UK, 2016
 
-✅ Recursos añadidos:
-------------------------------
 MUÑOZ   MERCHANTE,   A.   Fundamentos   de   Contabilidad.  Universidad  Nacional  de  Educación  a  Distancia.
 Madrid, 1997
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

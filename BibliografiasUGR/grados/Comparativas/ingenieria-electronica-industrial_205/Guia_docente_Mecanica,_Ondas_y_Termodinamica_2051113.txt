@@ -2,14 +2,12 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
-Aguilar J, Casanova J. Problemas de Física. Saber. Valencia. 1966
-
 Aguilar J. Curso de Termodinámica. Pearson. Madrid. 2002
 
 Alonso M, Finn EJ. Física. Ed. Addison-Wesley Iberoamericana. Delaware. 1995
@@ -17,6 +15,9 @@ Alonso M, Finn EJ. Física. Ed. Addison-Wesley Iberoamericana. Delaware. 1995
 Baker, J. 50 cosas que hay que saber sobre Física. Ariel, Madrid. 2009
 
 Beer FP, Johnston Jr ER. Mecánica vectorial para ingenieros. McGraw Hill. Madrid. 1992
+
+Bibliografía   de   problemas   resueltos   Aguilar  J,  Casanova  J.  Problemas  de  Física.  Saber.  Valencia.
+1966
 
 Boeker E, van Grondelle R. Environmental Physics. Wiley. Chichester, Reino Unido. 1995
 
@@ -64,11 +65,7 @@ Van der Merwe CW. Física General. McGraw Hill. Serie Schaum. México. 1969
 
 Zemansky MW, Dittman RH. Calor y Termodinámica. 6ª edición. McGraw-Hill. Madrid 1981
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 Bibliografía de problemas resueltos
 

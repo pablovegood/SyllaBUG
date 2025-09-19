@@ -2,15 +2,28 @@
 Grado: administracion-direccion-empresas-ceuta (433)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+BREALEY,   R.   MYERS,  S.  &  ALLEN,  F.  (2015):  Principios  de  Finanzas  Corporativas.  McGrawHill,  Madrid.
+Undécima      edición.      Disponible      en      (necesario      conexión      VPN):     https://granate
+nsis.ugr.es/discovery/search?query=creator,contains,BREALEY,AND&query=titl                   e,contai
+ns,finanzas%20corporativas,AND&tab=Granada&search_scope=onlineUGR&sortby=dat                    e_d&v
+id=34CBUA_UGR:VU1&lang=es&mode=advanced&offset=0   BREALEY,   R.A.,   MYERS,   S.C.   &  ALLEN,  F.  (2020):
+Principles of Corporate Finance. McGrawHill (13th edition)
 
-📚 Recursos sin cambios:
+FERNÁNDEZ,     Pablo     (2013):     Valoración     de     empresas     y    sentido    común.    Web    SSRN:
+http://ssrn.com/abstract=2202141   FERNÁNDEZ,   Pablo   (2015):   Valoración   de  empresas  y  sensatez.  4ª
+edición.   Web   SSRN:   http://web.iese.edu/PabloFernandez/LibroVyS/valuation%20VyS.html  FERNÁNDEZ,  P.
+(2024):   Valoración   de   empresas.   Errores   y   sensatez:  Fundamentos,  complicaciones  innecesarias  y
+ficción. Ed. Gestión 2000
+
+📚 Recursos sin cambios (35):
 ------------------------------
 ADSERÀ, X. y VIÑOLAS, P. (1997): Principios de Valoración de Empresas. Ed. Deusto
 
 ALLEN SWEENY, H.W. y RACHLIN, R. (Eds.): Manual de presupuestos. Ed. McGraw Hill, México, 1984
+
+AMAT, O. (2019): Valoración y compraventa de empresas: Con casos prácticos resueltos. Ed. Profit
 
 ANSÓN   LAPEÑA,   José   A.   (1997):   Valoración   de  empresas:  análisis  de  los  métodos  utilizados  en  la
 práctica. 2ª Edición. Ediciones del Instituto de Auditores-Censores Jurados de Cuestas de España
@@ -49,15 +62,6 @@ edición. Ed. Gestión 2000
 FERNÁNDEZ,   P.   (2008):   201   Errores   en   la   Valoración  de  Empresas:  Diagnóstico  para  conocerlos  y
 prevenirlos. Ed. Deusto
 
-FERNÁNDEZ,   P.   (2024):   Valoración   de   empresas.   Errores   y  sensatez:  Fundamentos,  complicaciones
-innecesarias y ficción. Ed. Gestión 2000
-
-FERNÁNDEZ,     Pablo     (2013):     Valoración     de     empresas     y    sentido    común.    Web    SSRN:
-http://ssrn.com/abstract=2202141
-
-FERNÁNDEZ,    Pablo    (2015):    Valoración    de    empresas    y    sensatez.    4ª   edición.   Web   SSRN:
-http://web.iese.edu/PabloFernandez/LibroVyS/valuation%20VyS.html
-
 FUNDACIÓN   DE   ESTUDIOS   BURSÁTILES   Y   FINANCIEROS  (2009):  El  Arte  de  Valorar  Empresas.  Ed.  Thomson
 Reuters. Civitas. Fundación ICO. Fundación de Estudios Bursátiles y Financieros, Valencia
 
@@ -92,31 +96,32 @@ RODRÍGUEZ SANDIÁS, A. (2011): Estrategias de Planificación Financiera aplicad
 
 ROJO RAMÍREZ, A. (2007): Valoración de empresas y gestión basada en valor. Ed. Thomson. Madrid
 
+ROJO,   A.   y   LABATUT,  G.  (2018):  Aspectos  prácticos  de  la  valoración  de  empresas.  Francis  Lefebvre.
+Madrid
+
 RUIZ MARTÍNEZ, R.; GIL CORRAL, A. (2012): Principios de Gestión Financiera. Ed. Síntesis. Madrid
 
 RUIZ   MARTÍNEZ,   R.J.;   GIL   CORRAL,   A.M.  (2014):  Complementos  de  Gestión  financiera.  Ed.  Síntesis.
 Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-BREALEY,    R.    MYERS,   S.   &   ALLEN,   F.   (2015):   Principios   de   Finanzas   Corporativas.   McGraw-
-nsis.ugr.es/discovery/search?query=creator,contains,BREALEY,AND&query=titl                   e,contai
-ns,finanzas%20corporativas,AND&tab=Granada&search_scope=onlineUGR&sortby=dat                    e_d&v
-id=34CBUA_UGR:VU1&lang=es&mode=advanced&offset=0   BREALEY,   R.A.,   MYERS,   S.C.   &  ALLEN,  F.  (2020):
-Principles   of   Corporate  Finance.  McGraw-  Hill  (13th  edition)  →  BREALEY,  R.A.,  MYERS,  S.C.  &  ALLEN,
-F. (2020): Principles of Corporate Finance. McGraw-Hill (13th edition)
-
-✅ Recursos añadidos:
-------------------------------
-AMAT, O. (2019): Valoración y compraventa de empresas: Con casos prácticos resueltos. Ed. Profit
-
 BREALEY,   R.  MYERS,  S.  &  ALLEN,  F.  (2015):  Principios  de  Finanzas  Corporativas.  McGraw-Hill,  Madrid.
 Undécima          edición.         Disponible         en         (necesario         conexión         VPN):
 https://granatensis.ugr.es/discovery/search?query=creator,contains,BREALEY,AND&query=titl
 e,contains,finanzas%20corporativas,AND&tab=Granada&search_scope=onlineUGR&sortby=date_d&v
 id=34CBUA_UGR:VU1&lang=es&mode=advanced&offset=0
 
-ROJO,   A.   y   LABATUT,  G.  (2018):  Aspectos  prácticos  de  la  valoración  de  empresas.  Francis  Lefebvre.
-Madrid
+BREALEY,   R.A.,   MYERS,   S.C.  &  ALLEN,  F.  (2020):  Principles  of  Corporate  Finance.  McGraw-Hill  (13th
+edition)
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+FERNÁNDEZ,   P.   (2024):   Valoración   de   empresas.   Errores   y  sensatez:  Fundamentos,  complicaciones
+innecesarias y ficción. Ed. Gestión 2000
+
+FERNÁNDEZ,     Pablo     (2013):     Valoración     de     empresas     y    sentido    común.    Web    SSRN:
+http://ssrn.com/abstract=2202141
+
+FERNÁNDEZ,    Pablo    (2015):    Valoración    de    empresas    y    sensatez.    4ª   edición.   Web   SSRN:
+http://web.iese.edu/PabloFernandez/LibroVyS/valuation%20VyS.html
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

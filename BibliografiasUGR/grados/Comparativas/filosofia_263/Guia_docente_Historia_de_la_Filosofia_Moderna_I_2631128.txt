@@ -2,14 +2,12 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (70):
 ------------------------------
-Albiac, G., La sinagoga vacía. Madrid: Hiperión 1988
-
 Allison, H., Benedict de Spinoza: An Introduction, New Haven: Yale University Press, 1987
 
 Ayers, M., Locke. Epistemology and Ontology, London & New York: Routledge 1991
@@ -17,6 +15,8 @@ Ayers, M., Locke. Epistemology and Ontology, London & New York: Routledge 1991
 Bello, E., La aventura de la razón: el pensamiento ilustrado, Akal, Madrid 1997
 
 Berkeley, G., Tratado sobre los principios del conocimiento humano, Madrid, Alianza 1992
+
+Bibliografía específica: Albiac, G., La sinagoga vacía. Madrid: Hiperión 1988
 
 Buckle,   S.,   Hume’s   Enlightenment   Tract:   The   Unity   and  Purpose  of  “An  Enquiry  concerning  Human
 Understanding”, Oxford: Clarendon Press, 2001
@@ -62,9 +62,6 @@ Filosofía. 2022
 
 Guèroult, M., Descartes’ Philosophy Interpreted According to the Order of Reasons, trad. R. Ariew, 2
 vols., Minneapolis, University of Minessota Press 1984-85
-
-H.   Krings,   H.M.   Baumgartner,   Ch.   Wild   (eds.),   Conceptos   fundamentales   de  Filosofía,  Herder,
-Barcelona 1977
 
 Habermas, J., El discurso filosófico de la modernidad, Taurus, Madrid, 1989
 
@@ -120,9 +117,12 @@ Mackie, John Leslie, Problemas en torno a Locke. México: UNAM, 1988
 
 Malebranche, N., Acerca de la investigación de la verdad, Salamanca, Sígueme 2009
 
-Morris,   W.   E.   y   Brown,   Ch.   R.,   “David  Hume”,  Stanford  Encyclopedia  of  Philosophy,  Nadler,  S.,
-“Baruch   Spinoza”,   en  Stanford  Encyclopedia  of  Philosophy,  Norton,  D.  F.  y  Taylor,  J.  The  Cambridge
-Companion to Hume, 2ª. ed., Cambridge
+Manuales:   H.   Krings,   H.M.   Baumgartner,   Ch.   Wild   (eds.),  Conceptos  fundamentales  de  Filosofía,
+Herder, Barcelona 1977
+
+Morris,    W.    E.    y    Brown,    Ch.    R.,    “David   Hume”,   Stanford   Encyclopedia   of   Philosophy,
+https://plato.stanford.edu/entries/hume/   Nadler,   S.,  “Baruch  Spinoza”,  en  Stanford  Encyclopedia  of
+Philosophy, http://plato.stanford.edu/board.html
 
 Norton, D. F. y Taylor, J. The Cambridge Companion to Hume, 2ª. ed., Cambridge: Cambridge University
 Press, 2008
@@ -148,7 +148,17 @@ Spinoza, B., Tratado político, Madrid, Alianza 1986
 
 Spinoza, B., Tratado teológico-político, Madrid, Alianza 1986
 
-Sánchez-Rodríguez,   Manuel:   "  A  crítica  de  Leibniz  à  teoria  da  identidade  pessoal  de  Locke  ",  en  J.
+Spinoza, B., Ética demostrada según el orden geométrico, Madrid, Trotta 2009
+
+Sánchez-Rodríguez,   Manuel   &   Villanueva   Fernández,   Neftalí:   "La   estupefacción   de   Arnauld.  El
+fundamento   lógico-metafísico   de  la  identidad  personal  en  la  filosofía  de  Leibniz  en  torno  a  1686",
+en Ágora, Papeles de Filosofía 30, 11-30
+
+Sánchez-Rodríguez,   Manuel.   "La   teoría  de  los  tipos  de  representación  en  Leibniz  y  sus  principales
+influencias en la estética y la lógica de la Ilustración alemana", en Cultura. Revista de História e
+Teoria das Ideias (Universidade Nova de Lisboa) 32, 271-94
+
+Sánchez-Rodríguez,   Manuel:   "A   crítica  de  Leibniz  à  teoria  da  identidade  pessoal  de  Locke  ",  en  J.
 Nicolás   y   V.   de   Castilho   Moreira   (eds.)   (2020),  Leibniz.  Razón,  principios  y  unidad,  Granada:
 Comares 2020, 197-212
 
@@ -157,16 +167,13 @@ Tipton,   I.Ch.   (ed.):  Locke  y  el  entendimiento  humano,  Madrid  &  Méxi
 
 Urmson, J. O., Berkeley, Madrid: Alianza 1984
 
-Uzgalis,   William.   «John   Locke»,   Stanford   Encyclopedia   of   Philosophy,  Yolton,  John  W.,  A  Locke
-Dictionary. Oxford: Blackwell, 1993
+Uzgalis,       William.       «John       Locke»,       Stanford      Encyclopedia      of      Philosophy,
+https://plato.stanford.edu/entries/locke/   Yolton,   John   W.,  A  Locke  Dictionary.  Oxford:  Blackwell,
+1993
 
 Álvarez Gómez, Á. El racionalismo del s. XVII, Síntesis, Madrid 2001
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Bibliografía específica
 
@@ -181,23 +188,13 @@ Hoyos   Sánchez,   I.,   “La   ambigüedad   de   los  afectos  en  la  étic
 Hoyos   Sánchez,  I.,  “La  ontología  naturalista  de  Spinoza  como  ontología  de  la  pasión”,  Logos.  Anales
 del Seminario de Metafísica 45 (1), 2012, 95-122
 
-Morris,    W.    E.    y    Brown,    Ch.    R.,    “David   Hume”,   Stanford   Encyclopedia   of   Philosophy,
-https://plato.stanford.edu/entries/hume/
+Nadler,      S.,      “Baruch      Spinoza”,      en      Stanford      Encyclopedia      of     Philosophy,
+http://plato.stanford.edu/board.html
 
-Spinoza, B., Ética demostrada según el orden geométrico, Madrid, Trotta 2009
-
-Sánchez-Rodríguez,   Manuel   &   Villanueva   Fernández,   Neftalí:   "La   estupefacción   de   Arnauld.  El
-fundamento   lógico-metafísico   de  la  identidad  personal  en  la  filosofía  de  Leibniz  en  torno  a  1686",
-en Ágora, Papeles de Filosofía 30, 11-30
-
-Sánchez-Rodríguez,   Manuel.   "La   teoría  de  los  tipos  de  representación  en  Leibniz  y  sus  principales
-influencias en la estética y la lógica de la Ilustración alemana", en Cultura. Revista de História e
-Teoria das Ideias (Universidade Nova de Lisboa) 32, 271-94
-
-Sánchez-Rodríguez,   Manuel:   "A   crítica   de  Leibniz  à  teoria  da  identidade  pessoal  de  Locke",  en  J.
+Sánchez-Rodríguez,   Manuel:   "  A  crítica  de  Leibniz  à  teoria  da  identidade  pessoal  de  Locke  ",  en  J.
 Nicolás   y   V.   de   Castilho   Moreira   (eds.)   (2020),  Leibniz.  Razón,  principios  y  unidad,  Granada:
 Comares 2020, 197-212
 
 Yolton, John W., A Locke Dictionary. Oxford: Blackwell, 1993
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

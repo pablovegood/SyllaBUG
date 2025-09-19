@@ -2,12 +2,15 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
+Bonnie   Anderson  y  Judith  Zinsser:  Historia  de  las  mujeres.  Una  historia  propia.  Barcelona,  Crítica,
+2001, 2 vols
+
 Delgado de Cantú, Gloria M.: Historia universal: de la era de las revoluciones al mundo globalizado.
 Pearson Educación, Naucalpan de Juárez, 2010
 
@@ -15,6 +18,9 @@ Diamond,   Jared:   Armas,   gérmenes   y  acero:  breve  historia  de  la  hum
 años. Barcelona, Debate, 2020
 
 Fontana, J.: Introducción al estudio de la Historia. Barcelona, Crítica, 1999
+
+Georges   Duby   y  Michelle  Perrot:  Historia  de  las  mujeres  en  Occidente.  Madrid,  Taurus,  1991-1992,  5
+vols
 
 Gombrich, Ernst H.: Breve historia del mundo. Barcelona, Península, 2013
 
@@ -32,15 +38,8 @@ descubrimientos. Barcelona, Omega, 2010
 
 Sánchez Córdova, Humberto: Historia Universal. México DF., Pearson Educación, 2014
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Barcelona,   Crítica,   2001,   2   vols.   Georges   Duby   y   Michelle  Perrot:  Historia  de  las  mujeres  en
-Occidente.   Madrid,   Taurus,   1991-1992,   5   vols   →  Georges  Duby  y  Michelle  Perrot:  Historia  de  las
-mujeres en Occidente. Madrid, Taurus, 1991-1992, 5 vols
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Bonnie   Anderson  y  Judith  Zinsser:  Historia  de  las  mujeres.  Una  historia  propia.  Barcelona,  Crítica,
-2001, 2 vols
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

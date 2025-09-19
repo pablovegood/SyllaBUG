@@ -2,11 +2,14 @@
 Grado: educacion-primaria-bilingue (256)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Comblain, Annick (2022). Bilinguisme et apprentissage précoce des langues. Presses Universitaires de
+Liège. Disponible sur : Bilinguisme et apprentissage précoce des langues – Publication de livres en
+toute   simplicité   (uliege.be)   [   date   de   dernière  consultation  :  31/05/2023]  Conseil  de  l'Europe
+(2001). Cadre européen commun de référence pour les langues. DidierConseil de l’Europe
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (29):
 ------------------------------
 Bara, Stéphanie ; Bonvallet, Anne-Marguerite et Rodier, Christian (2011). Écritures créatives. PUG
 
@@ -27,11 +30,18 @@ Chiss, Jean Louis (2021). Le FLE et la francophonie dans le monde. Armand Colin
 
 Claeys-Bouuaert, Michel (2018). L'éducation émotionnelle de la maternelle au lycée. Le souffle d'or
 
+Conseil    de   l'Europe   (2018).   Cadre   européen   commun   de   référence   pour   les   langues.   Volume
+complémentaire avec de nouveaux descripteurs. https://rm.coe.int/cecr-volume-complementaire-avec-de-
+nouveaux-descripteurs/16807875d5
+
 Cuq,   Jean-Pierre   dir.   (2003).  Dictionnaire  de  Didactique  du  français  langue  étrangère  ou  seconde.
 CLE
 
 Defays,   Jean-Marc   (2003).   Le  français  langue  étrangère  et  seconde.  Enseignement  et  apprentissage.
 Nardaga
+
+Enfance,   éducation   et  société.  L’Harmattan  Payet,  Adrien  (2010).  Activités  théâtrales  en  classe  de
+langue. CLE international
 
 Hilton,   Heather   (2022).   Enseigner   les   langues   avec   l’apport  des  sciences  cognitives.  Hachette
 éducation
@@ -39,9 +49,10 @@ Hilton,   Heather   (2022).   Enseigner   les   langues   avec   l’apport  des
 Pascale   Leclercq,   Amanda   Edmonds,   Elisa   Sneed   German   (2021).  Introduction  à  l’acquisition  des
 langues étrangères. De boeck supérieur
 
-Payet, Adrien (2010). Activités théâtrales en classe de langue. CLE international
-
 Petitmengin, Violette et Faja Clémence (2017). La grammaire en jeux. PUG
+
+Qotb,   Hani.   Le   Manuel   numérique  de  FLE  (2023).  Spécificités,  démarches  et  perspectives.  Enfance,
+éducation et société. L’Harmattan
 
 Robert, Jean-Pierre (2002) : Dictionnaire Pratique de didactique du FLE. Ophyrs
 
@@ -69,32 +80,19 @@ Vanthier, Hélène. (2009). L’enseignement aux enfants en classe de langue. CL
 Vez,   José   Manuel,  Guillén,  Carmen  y  Alario,  Carmen  (2002).  Didáctica  de  la  Lengua  Extranjera  en  la
 Educación Infantil y Primaria. Síntesis
 
+Volume   complémentaire   avec  de  nouveaux  descripteurs.  https://rm.coe.int/cecr-volumecomplementaire-
+avec-de-nouveaux-descripteurs/16807875d5   Cuq,   Jean-Pierre   et   Gruca,   Isabelle   (2017).   Cours  de
+didactique du français langue étrangère. PUG
+
 Zamorano, Cécile (2019). Je joue et j'apprends le vocabulaire. Nathan
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Conseil   de   l'Europe   (2018).   Cadre  européen  commun  de  référence  pour  les  langues.  complementaire-
-avec-de-nouveaux-descripteurs/16807875d5   Cuq,   Jean-Pierre   et   Gruca,   Isabelle   (2017).   Cours  de
-didactique   du   français   langue   étrangère.  PUG  →  Conseil  de  l'Europe  (2018).  Cadre  européen  commun
-de    référence    pour    les    langues.    Volume    complémentaire    avec   de   nouveaux   descripteurs.
-https://rm.coe.int/cecr-volume-complementaire-avec-de-nouveaux-descripteurs/16807875d5
-
-Comblain, Annick (2022). Bilinguisme et apprentissage précoce des langues. Presses Universitaires de
-Liège. Disponible sur : Bilinguisme et apprentissage précoce des langues – Publication de livres en
-toute   simplicité   (uliege.be)   [   date   de   dernière  consultation  :  31/05/2023]  Conseil  de  l'Europe
-(2001).   Cadre   européen   commun   de   référence   pour   les   langues.   Didier-   Conseil  de  l’Europe  →
 Comblain, Annick (2022). Bilinguisme et apprentissage précoce des langues. Presses Universitaires de
 Liège. Disponible sur : Bilinguisme et apprentissage précoce des langues – Publication de livres en
 toute simplicité (uliege.be) [ date de dernière consultation : 31/05/2023]
 
-✅ Recursos añadidos:
-------------------------------
 Conseil   de   l'Europe  (2001).  Cadre  européen  commun  de  référence  pour  les  langues.  Didier-Conseil  de
 l’Europe
 
-Cuq, Jean-Pierre et Gruca, Isabelle (2017). Cours de didactique du français langue étrangère. PUG
-
-Qotb,   Hani.   Le   Manuel   numérique  de  FLE  (2023).  Spécificités,  démarches  et  perspectives.  Enfance,
-éducation et société. L’Harmattan
-
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

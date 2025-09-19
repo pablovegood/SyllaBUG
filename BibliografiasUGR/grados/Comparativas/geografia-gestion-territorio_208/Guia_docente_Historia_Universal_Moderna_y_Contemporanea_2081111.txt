@@ -2,26 +2,27 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+DUROSELLE,   J.B.   Europa   de   1815   a   nuestros   días.   Vida   política  y  relaciones  internacionales.
+Barcelona, 1981 FIELHOUSE, D. Los imperios coloniales desde el siglo XVIII. Madrid, 1984
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (44):
 ------------------------------
-AA.VV., Historia del Mundo Moderno (Cambridge). Barcelona. 1970 y ss., Tomos I-VII
-
 AROSTEGUI,   J.   BUCHRUCKER,   C.  Y  SABORIDO,  J.  (dir.).  El  Mundo  contemporáneo:  Historia  y  problemas.
 Barcelona, 2001
 
 AVILÉS FARRÉ, J. (Dir). Atlas histórico universal. Madrid, 1996
 
-BARUDIO, G. La época del absolutismo y la ilustración (1648-1779). Madrid, 1986
-
 BENNASSAR, B. (et al.). Historia Moderna. Madrid, 1994
+
+BLACK, J. Atlas Ilustrado. La Guerra: desde el Renacimiento a la Revolución, 1492-1792. Madrid, 2003
 
 BONAMUSA, F. Los Balcanes. Siglos XIX y XX. Barcelona, 1998
 
 BONNEY, R. The European Dinastic States. Oxford, 1991
+
+BRAUDEL, F. El Mediterráneo y el Mundo Mediterráneo en tiempos de Felipe II, 2 vols. Madrid, 1987
 
 BURKE, P. La cultura popular en la Europa Moderna.Madrid, 1990
 
@@ -47,8 +48,17 @@ GELLNER, E. Naciones y nacionalismo. Madrid, 1990
 
 HEFFER, S. y SERMAN, W. De las revoluciones a los imperialismos. 1815-1914. Madrid, 1989
 
+HISTORIA   UNIVERSAL   CONTEMPORÁNEA  ARACIL,  R.  et  al.  El  Mundo  Actual.  De  la  Segunda  Guerra  Mundial  a
+Nuestros días. Barcelona, 1998
+
 HISTORIA   UNIVERSAL  CONTEMPORÁNEA  BERGUERON,  L.  FURET,  F.  KOSELLECK,  R.  La  época  de  las  revoluciones
 europeas 1780-1848. Madrid, 1983
+
+HISTORIA   UNIVERSAL   MODERNA   AA.VV.,  Historia  del  Mundo  Moderno  (Cambridge).  Barcelona.  1970  y  ss.,
+Tomos I-VII
+
+HISTORIA   UNIVERSAL   MODERNA   BARUDIO,   G.   La   época   del  absolutismo  y  la  ilustración  (1648-1779).
+Madrid, 1986
 
 HOBSBAWM, E. La era de la revolución (1789-1848). Barcelona, 1991
 
@@ -91,27 +101,19 @@ VILLARES, R. y BAHAMONDE, A. El mundo contemporáneo. Siglos XIX y XX. Madrid, 2
 
 WALLERSTEIN, I.. El moderno sistema mundial. Tomos I y II. Madrid, 1984
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-DUROSELLE,   J.B.   Europa   de   1815   a   nuestros   días.   Vida   política  y  relaciones  internacionales.
-Barcelona,   1981   FIELHOUSE,   D.   Los   imperios   coloniales   desde   el   siglo   XVIII.  Madrid,  1984  →
-FIELHOUSE, D. Los imperios coloniales desde el siglo XVIII. Madrid, 1984
+YUN CASALILLA, B. Marte contra Minerva. El precio del imperio español, c. 1450-1600. Barcelona, 2004
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 ARACIL, R. et al. El Mundo Actual. De la Segunda Guerra Mundial a Nuestros días. Barcelona, 1998
 
 BERGUERON, L. FURET, F. KOSELLECK, R. La época de las revoluciones europeas 1780-1848. Madrid, 1983
 
-BLACK, J. Atlas Ilustrado. La Guerra: desde el Renacimiento a la Revolución, 1492-1792. Madrid, 2003
-
-BRAUDEL, F. El Mediterráneo y el Mundo Mediterráneo en tiempos de Felipe II, 2 vols. Madrid, 1987
-
 DUROSELLE,   J.B.   Europa   de   1815   a   nuestros   días.   Vida   política  y  relaciones  internacionales.
 Barcelona, 1981
 
+FIELHOUSE, D. Los imperios coloniales desde el siglo XVIII. Madrid, 1984
+
 HISTORIA UNIVERSAL MODERNA
 
-YUN CASALILLA, B. Marte contra Minerva. El precio del imperio español, c. 1450-1600. Barcelona, 2004
-
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

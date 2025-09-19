@@ -2,11 +2,11 @@
 Grado: ingenieria-civil-administracion-dreccion-empresas (248)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 ATTEWELL,   P.B.   &  FARMER,  I.W.  (1975).  "Principles  of  Engineering  Geology".  London.  Chapman  &  Hall.
 Halsted Press Book. John Wiley. New York. 1045 pp
@@ -59,6 +59,8 @@ New Jersey. ISBN: 0-13-822379-3
 ROCSCIENCE   (Geotechnical   Tools)   ATTEWELL,   P.B.  &  FARMER,  I.W.  (1975).  "Principles  of  Engineering
 Geology". London
 
+ROMANA, M. Clasificaciones Geomecánicas. Editores J.B. Serón y E. Montalar. STMR. Madrid, 185 pp
+
 SERRA   GESTA,   J.;   OTEO  MAZO,  C.;  GARCÍA  GAMALLO,  A.M.;  RODRÍGUEZ  ORTIZ,  J.M.  (1986).  “Mecánica  del
 Suelo y Cimentaciones”. Fundación Escuela de la Edificación. Madrid. ISBN 84-505-3681-2
 
@@ -73,14 +75,11 @@ Mexico. 722 pp
 
 TERZAGHI, K. (1943). “Theoretical soil mechanics”. John Wiley & Sons. New Cork. 510 pp
 
-🔁 Misma obra con edición/año distinto:
+Teoría   y   Problemas:   GONZÁLEZ   DE  VALLEJO  (Ed.)  (2002).  “Ingeniería  Geológica”.  Ed.  Prentice  Hall,
+Madrid
+
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-ROMANA, M. Clasificaciones Geomecánicas. Editores J.B. Serón y E. Montalar. STMR. Madrid, 185 pp
-
-Teoría y Problemas
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

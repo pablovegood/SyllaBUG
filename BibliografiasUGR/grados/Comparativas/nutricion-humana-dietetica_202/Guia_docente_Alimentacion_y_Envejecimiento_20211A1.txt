@@ -2,16 +2,29 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-Galénitas-Nigra Trea, 2007, Barcelona
-
 Junta de Andalucía. 2010, Sevilla
 
-📚 Recursos sin cambios:
+Libro Blanco del envejecimiento activo., Consejería para la Igualdad y Bienestar Social
+
+Mahan LK, Raymond JL. Krause. Dietoterápia, 14ª Ed. Elsevier España. SLU. 2017, Barcelona
+
+Millan   Calenti   J.C.   Gerontología   y  Geriatría.  Valoración  e  intervención.  Ed.  Panamericana.  2010,
+Madrid
+
+Planas M (coordinación). Documentos de consenso valoración nutricional en el anciano
+
+Recomendaciones prácticas de los expertos en geriatría y nutrición SENPE y SEGG- Ed. Galénitas-Nigra
+Trea, 2007, Barcelona
+
+📚 Recursos sin cambios (9):
 ------------------------------
-Anchón   y  Tuñón  M,  Montero  Bravo  AN.  Úbeda  Martín  N,  Varela  Moreiras  G.  Alimentación  institucional  y
-de ocio en el siglo XXI: entorno geriátrico. Instituto Tomás Pascual. 2013, Madrid
+Bibliografía   específica   Anchón   y   Tuñón   M,   Montero  Bravo  AN.  Úbeda  Martín  N,  Varela  Moreiras  G.
+Alimentación   institucional   y  de  ocio  en  el  siglo  XXI:  entorno  geriátrico.  Instituto  Tomás  Pascual.
+2013, Madrid
+
+Bibliografía general Gil A. Tratado de Nutrición (5 tomos). Ed. Panamericana. 2017, Madrid
 
 Caballero García JC, Benítez Rivero J. Manual de atención al anciano desnutrido en el nivel primario
 de salud. Grupo de Trabajo de Atención Primaria, perteneciente a la Sociedad Española de Geriatría y
@@ -29,15 +42,12 @@ geriátricos. Editores Médicos S.A. 2004, Madrid
 
 Mataix J. Nutrición y Alimentación Humana (2 tomos). Editorial Ergon, 2009, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gil   A.   Tratado   de   Nutrición   (5   tomos).   Ed.   Panamericana.   2017,   Madrid   →  Gil  A.  Tratado  de
-Nutrición (5 tomos). Editorial Médica Panamericana. 2024, Madrid
+Olveira Fuster, G. Manual de Nutrición Clínica y Dietética. (4ª ed). Ediciones Diaz de Santos. 2016.
+Madrid
 
-Mahan   LK,   Raymond   JL.  Krause.  Dietoterápia,  14ª  Ed.  Elsevier  España.  SLU.  2017,  Barcelona  →  Mahan
-LK, Raymond JL. Krause. Dietoterapia, (15ª ed). Elsevier España. SLU. 2021, Barcelona
+Salas-Salvado, J. Nutrición y Dietética Clínica. 4ª edición. Ed. Elsevier Masson. 2019, Barcelona
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 AESAN.   Informe   del   Comité   Científico  de  la  Agencia  Española  de  Seguridad  Alimentaria  y  Nutrición
 (AESAN)   sobre   recomendaciones  dietéticas  sostenibles  y  recomendaciones  de  actividad  física  para  la
@@ -49,14 +59,11 @@ https://www.aesan.gob.es/AECOSAN/web/nutricion/subseccion/recomendaciones_mayore
 
 Bibliografía específica
 
-Bibliografía general
+Gil A. Tratado de Nutrición (5 tomos). Editorial Médica Panamericana. 2024, Madrid
 
 IMSERSO.   Libro  Blanco  del  Envejecimiento  Activo.  Ministerio  de  Sanidad,  Política  Social  e  Igualdad,
 Secretaría General de Política Social y Consumo. Madrid, 2011
 
-Olveira Fuster, G. Manual de Nutrición Clínica y Dietética. (4ª ed). Ediciones Diaz de Santos. 2016.
-Madrid
+Mahan LK, Raymond JL. Krause. Dietoterapia, (15ª ed). Elsevier España. SLU. 2021, Barcelona
 
-Salas-Salvadó, J. Nutrición y Dietética Clínica. (4ª ed). Elsevier Masson. 2019, Barcelona
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 80% [████████░░]

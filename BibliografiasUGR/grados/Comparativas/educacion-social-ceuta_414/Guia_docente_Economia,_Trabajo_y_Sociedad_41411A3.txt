@@ -2,15 +2,17 @@
 Grado: educacion-social-ceuta (414)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Alonso,   J.   A.   (Director)   (2017):   Lecciones  sobre  Economía  Mundial,  8ª  ed.,  Ed.  Thomson-Cívitas,
+Alonso,   J.   A.   (Director)   (2017):   Lecciones   sobre  Economía  Mundial,  8ª  ed.,  Ed.  ThomsonCívitas,
 Madrid
 
+Chaves,   Pérez  de  Uralde  (dirs.)  (2013):  La  economía  social  y  la  cooperación  al  desarrollo,  Martínez
+Usarralde,   M.J.,  (coord.)  (2011):  Sentipensar  el  Sur:  cooperación  al  desarrollo  y  educación,  La  Nau
+solidaria, Valencia
+
+📚 Recursos sin cambios (11):
+------------------------------
 Cuenca, E. y Navarro, M. (2019): Lecciones de Economía de la Unión Europea, Pirámide, Madrid
 
 Cuenca, E. y Navarro, M. (2023). Organización Económica Internacional, Pirámide, Madrid
@@ -39,15 +41,14 @@ Estructura Económica, Delta Publicaciones, Madrid
 
 Rodrik, D. (2012): La Paradoja de la Globalización, Antoni Bosch, Barcelona
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Chaves,   Pérez  de  Uralde  (dirs.)  (2013):  La  economía  social  y  la  cooperación  al  desarrollo,  Martínez
-Usarralde,   M.J.,  (coord.)  (2011):  Sentipensar  el  Sur:  cooperación  al  desarrollo  y  educación,  La  Nau
-solidaria,   Valencia   →   Martínez   Usarralde,  M.J.,  (coord.)  (2011):  Sentipensar  el  Sur:  cooperación
-al desarrollo y educación, La Nau solidaria, Valencia
+Alonso,   J.   A.   (Director)   (2017):   Lecciones  sobre  Economía  Mundial,  8ª  ed.,  Ed.  Thomson-Cívitas,
+Madrid
 
-✅ Recursos añadidos:
-------------------------------
 Chaves, Pérez de Uralde (dirs.) (2013): La economía social y la cooperación al desarrollo
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+Martínez   Usarralde,   M.J.,   (coord.)   (2011):   Sentipensar   el   Sur:   cooperación   al   desarrollo  y
+educación, La Nau solidaria, Valencia
+
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

@@ -2,11 +2,16 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+A.   Moncho   Jordá,  111  Problemas  de  Mecánica  Analítica,  Ed.  Técnica  Avicam,  2023  (*)  F.R.  Gantmájer,
+Mecánica Analítica, Ed. URSS, 1996
 
-📚 Recursos sin cambios:
+H.   Heinbockel,   Introduction   to  Tensor  Calculus  and  Continuum  Mechanics,  Department  of  Mathematics
+and Statistics, Old Dominion University, 1996 (*) E. Levy, Elementos de Mecánica del Medio Continuo,
+Ed. Limusa-Wiley, 1971
+
+📚 Recursos sin cambios (10):
 ------------------------------
 A.   Molina  Cuevas,  Mecánica  Teórica:  Fundamentos  de  Mecánica  Analítica  y  de  los  Medios  Continuos,  2ª
 edición, Ed. Técnica Avicam, 2022 (*)
@@ -26,30 +31,25 @@ L.I. Sedov, A course in Continuum Mechanics, Ed. Walter/Noordhoff, 1971
 
 L.N. Hand, J.D. Finch, Analytical Mechanics, Ed. Cambridge University Press, 1998
 
+S.C.   Hunter,   Mechanics   of   Continuous   Media,  Ed.  Ellis  Horwood/John  Wiley,  1983  Los  dos  primeros
+libros,   marcados   con   asterisco,   se   ajustan   especialmente   al  contenido  del  curso  E.A.  Desloge,
+Classical Mechanics, Ed. Krieger Publishing Company, 1989
+
 T.J. Chung, Continuum Mechanics, Rd. Prentice-Hall Inc., 1988
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-S.C.   Hunter,   Mechanics   of   Continuous   Media,   Ed.   Ellis  Horwood/John  Wiley,  1983  del  curso  E.A.
-Desloge,   Classical   Mechanics,   Ed.   Krieger   Publishing   Company,   1989   →  E.A.  Desloge,  Classical
-Mechanics, Ed. Krieger Publishing Company, 1989
-
-A.   Moncho   Jordá,  111  Problemas  de  Mecánica  Analítica,  Ed.  Técnica  Avicam,  2023  (*)  F.R.  Gantmájer,
-Mecánica Analítica, Ed. URSS, 1996  →  F.R. Gantmájer, Mecánica Analítica, Ed. URSS, 1996
-
-H.   Heinbockel,   Introduction   to  Tensor  Calculus  and  Continuum  Mechanics,  Department  of  Mathematics
-and Statistics, Old Dominion University, 1996 (*) E. Levy, Elementos de Mecánica del Medio Continuo,
-Ed.   Limusa-Wiley,   1971   →   H.  Heinbockel,  Introduction  to  Tensor  Calculus  and  Continuum  Mechanics,
-Department of Mathematics and Statistics, Old Dominion University, 1996 (*)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 A. Moncho Jordá, 111 Problemas de Mecánica Analítica, Ed. Técnica Avicam, 2023 (*)
 
 E. Levy, Elementos de Mecánica del Medio Continuo, Ed. Limusa-Wiley, 1971
 
-Los dos primeros libros, marcados con asterisco, se ajustan especialmente al contenido del curso
+E.A. Desloge, Classical Mechanics, Ed. Krieger Publishing Company, 1989
+
+F.R. Gantmájer, Mecánica Analítica, Ed. URSS, 1996
+
+H.   Heinbockel,   Introduction   to  Tensor  Calculus  and  Continuum  Mechanics,  Department  of  Mathematics
+and Statistics, Old Dominion University, 1996 (*)
 
 S.C. Hunter, Mechanics of Continuous Media, Ed. Ellis Horwood/John Wiley, 1983
 
-📊 Porcentaje estimado de cambio: 53% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

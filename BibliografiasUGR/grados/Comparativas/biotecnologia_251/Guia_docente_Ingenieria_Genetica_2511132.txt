@@ -2,14 +2,13 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Lewin,   B.  2008.  Genes  IX.  McGraw-Hill/Interamericana  Luque,  J.,  Herráez  A.  2001.  Texto  ilustrado  de
+Biología Molecular e Ingeniería Genética
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
-Brown, T.A. 2008. Genomas. Editorial Médica Panamericana
-
 Elliot, W.C. Elliot, D.C. 2005. Biochemistry and Molecular Biology, W.H. Elliot, D.C. Elliot. Oxford
 Univ Press, Oxford
 
@@ -17,11 +16,13 @@ Fraser C.M., Read T.D. 2004. Microbial genomes. Humana Press
 
 Gregory, T. R. Ed. 2006. The evolution of the genome. Editorial Elsevier, Holanda
 
-Jocelyn   E.   Krebs,  Elliott  S.  Goldstein  And  Stephen  T.  Kilpatrick,  Gene  Essentials  Lewin  2ª  Edicion
-Panamericana 2012 Revistas Nature Science Nature Reviews Genetics Current Opinion in Genetics Trends
-in Genetics eLife
+Izquierdo,   M.   2002.   Ingeniería   genética   y  transferencia  génica.  3ª  Ed.  Ediciones  Pirámide,  S.A.
+Madrid
 
-Lewin, B. 2008. Genes IX. McGraw-Hill/Interamericana
+Libros Brown, T.A. 2008. Genomas. Editorial Médica Panamericana
+
+Luque,   J.,  Herráez  A.  2001.  Texto  ilustrado  de  Biología  Molecular  e  Ingeniería  Genética.  Conceptos,
+Técnicas y Aplicaciones en Ciencias de la Salud. Ed. Harcourt, S.A
 
 Pevsner, J. 2009. Bioinformatics and Functional Genomics, 2nd edition. John Wiley & Sons, Inc
 
@@ -30,31 +31,28 @@ Blackwell Science, Oxford, U.K
 
 Straalen, N.M., and Roelofs, D. 2006. An introduction to ecological genomics. Oxford Univ Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Ángel   Herráez   Sánchez.   Biología   Molecular  E  Ingeniería  Genética,  Elsevier,  2ª  Edición  Jocelyn  E.
+Krebs, Elliott S. Goldstein And Stephen T. Kilpatrick, Gene Essentials Lewin 2ª Edicion Panamericana
+2012   Revistas   Cell   Nature   Science   Nature  Reviews  Genetics  Current  Opinion  in  Genetics  Trends  in
+Genetics eLife
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
-Current Opinion in Genetics
-
 Doudna   J   and   Sternberg   SH.   2017.  A  Crack  in  Creation:  Gene  Editing  and  the  Unthinkable  Power  to
 Control Evolution. HOUGHTON MIFFLIN
 
 Isaacson W. 2021. The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race.
 Simon & Schuster UK
 
-Izquierdo,   M.   2002.   Ingeniería   genética   y  transferencia  génica.  3ª  Ed.  Ediciones  Pirámide,  S.A.
-Madrid
-
 Jocelyn   E.   Krebs,  Elliott  S.  Goldstein  And  Stephen  T.  Kilpatrick,  Gene  Essentials  Lewin  2ª  Edicion
 Panamericana 2012
 
-Luque,   J.,  Herráez  A.  2001.  Texto  ilustrado  de  Biología  Molecular  e  Ingeniería  Genética.  Conceptos,
-Técnicas y Aplicaciones en Ciencias de la Salud. Ed. Harcourt, S.A
+Lewin, B. 2008. Genes IX. McGraw-Hill/Interamericana
 
 Nature Reviews Genetics
 
+Trends in Genetics
+
 Ángel Herráez Sánchez. Biología Molecular E Ingeniería Genética, Elsevier, 2ª Edición 2012
 
-📊 Porcentaje estimado de cambio: 80% [████████░░]
+📊 Porcentaje estimado de cambio: 47% [████░░░░░░]

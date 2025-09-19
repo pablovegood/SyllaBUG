@@ -2,11 +2,14 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+FERNÁNDEZ,      Pablo      (2018):      Valoración      de     Empresas     y     Sensatez.     Web     SSRN:
+http://ssrn.com/abstract=2202141 FERNÁNDEZ, Pablo (2023): Valuation and Common Sense. Web SSRN. Book
+available   for  free  at  SSRN.  http://ssrn.com/abstract=2209089  ROJO  RAMÍREZ,  A.  (2007):  Valoración  de
+empresas y gestión basada en valor. Ed. Thomson. Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (36):
 ------------------------------
 ADSERÀ, X. y VIÑOLAS, P. (1997): Principios de Valoración de Empresas. Ed. Deusto
 
@@ -17,8 +20,6 @@ ALBERT   PIÑOLE,   I.   (1999):   Gestión   de  productos  y  servicios  de  l
 Areces
 
 ALLEN SWEENY, H.W. & RACHLIN, R. (Eds.): Manual de presupuestos. Ed. McGraw Hill, México, 1984
-
-AMAT SALAS, O. (1992): Contabilidad y Finanzas de Hoteles. EADA Gestión. Ed. Gestión 2000
 
 ANSÓN   LAPEÑA,   José   A.   (1997):   Valoración   de  empresas:  análisis  de  los  métodos  utilizados  en  la
 práctica. 2ª Edición. Ediciones del Instituto de Auditores-Censores Jurados de Cuestas de España
@@ -51,9 +52,6 @@ Madrid
 
 DÍAZ,   Pepe   (2023):   Finanzas  descentralizadas.  La  nueva  y  definitiva  libertad  económica.  Aranzadi.
 FEBF. Incluye libro electrónico
-
-FERNÁNDEZ,      Pablo      (2018):      Valoración      de     Empresas     y     Sensatez.     Web     SSRN:
-http://ssrn.com/abstract=2202141
 
 FIGUEROA   PALOMO,   M.   (1991):  Elementos  para  el  estudio  de  la  economía  de  la  empresa  turística.  Ed.
 Síntesis
@@ -96,19 +94,21 @@ RUIZ MARTÍNEZ, R.; GIL CORRAL, A. (2021): Principios de Gestión Financiera. Ed
 RUIZ   MARTÍNEZ,   R.J.;   GIL   CORRAL,   A.M.  (2014):  Complementos  de  Gestión  financiera.  Ed.  Síntesis.
 Madrid
 
+Ramón   Areces   AMAT   SALAS,  O.  (1992):  Contabilidad  y  Finanzas  de  Hoteles.  EADA  Gestión.  Ed.  Gestión
+2000
+
 VEGAS, Avelino A. (2006): Manual de Finanzas para empresas turísticas. Ed. Síntesis
 
 WELSCH, G.A.: Presupuestos: planificación y control de utilidades. Ed. Prentice Hall, México, 1987
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-FERNÁNDEZ,   Pablo   (2023):  Valuation  and  Common  Sense.  Web  SSRN.  Book  available  for  ROJO  RAMÍREZ,  A.
-(2007):   Valoración   de  empresas  y  gestión  basada  en  valor.  Ed  →  ROJO  RAMÍREZ,  A.  (2007):  Valoración
-de empresas y gestión basada en valor. Ed. Thomson. Madrid
+FERNÁNDEZ,      Pablo      (2018):      Valoración      de     Empresas     y     Sensatez.     Web     SSRN:
+http://ssrn.com/abstract=2202141
 
-✅ Recursos añadidos:
-------------------------------
 FERNÁNDEZ,   Pablo   (2023):   Valuation   and   Common  Sense.  Web  SSRN.  Book  available  for  free  at  SSRN.
 http://ssrn.com/abstract=2209089
 
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+ROJO RAMÍREZ, A. (2007): Valoración de empresas y gestión basada en valor. Ed. Thomson. Madrid
+
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

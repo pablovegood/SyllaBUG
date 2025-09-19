@@ -2,24 +2,15 @@
 Grado: ingenieria-informatica-ceuta (496)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 David   J.  Lilja,  Measuring  Computer  Performance:  A  Practitioner's  Guide,  Cambridge  University  Press,
 2005
 
-R.   K.   Jain,   The  Art  of  Computer  Systems  Performance  Analysis:  Techniques  for  Experimental  Design,
-Measurement, Simulation, and Modeling. Wiley Computer Publishing, John Wiley & Sons, Inc. 1991
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Gian-Paolo D. Musumeci; Mike Loukides, System Performance Tuning, 2nd Edition - O'Reilly Media, 2002
 
 Luciano A. Sequeira, LPIC-1, Linux New Media, 2015
@@ -28,6 +19,9 @@ Mastering   linux   security   and   hardening   :  a  practical  guide  to  pro
 cyber attacks / Donald A. Tevault, 2023
 
 Performance Tuning for Linux Servers, Sandra K. Johnson et al, IBM Press, 2005
+
+R.   K.   Jain,   The  Art  of  Computer  Systems  Performance  Analysis:  Techniques  for  Experimental  Design,
+Measurement, Simulation, and Modeling. Wiley Computer Publishing, John Wiley & Sons, Inc. 1991
 
 Roderick W. Smith, LPIC-1: Linux Professional Institute Certification: Guía de estudio, Wiley, 2010
 
@@ -44,4 +38,8 @@ The Official Ubuntu Server Book, Second Edition, Kyle Rankin; Benjamin Mako Hill
 Xavier   Molero   et   al,   Evaluación  y  modelado  del  rendimiento  de  los  sistemas  informáticos.  Pearson
 2004
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

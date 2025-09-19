@@ -2,12 +2,14 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
+Apuntes    del   profesor   Rafael   Payá:   https://www.ugr.es/~rpaya/cursosanteriores.htm   Apuntes   del
+profesor   Javier   Pérez:   http://www.ugr.es/~fjperez/textos/Calculo_Diferencial_Varias_Variables.pdf
 BRADLEY, G.L. Y SMITH, K. J.: Cálculo de varias variables (volumen 2). Prentice Hall, 1998
 
 CABELLO, J.C.: Métodos matemáticos. Editorial Goel, 2020
@@ -24,15 +26,10 @@ variables. Colección Paso a Paso. Thomson, 2007
 
 WEBB, J.R.L.: Functions of several real variables. Ellis Horwod, 1991
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Apuntes                   del                   profesor                  Javier                  Pérez:
-http://www.ugr.es/~fjperez/textos/Calculo_Diferencial_Varias_Variables.pdf
-
 Apuntes del profesor Rafael Payá: https://www.ugr.es/~rpaya/cursosanteriores.htm
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+BRADLEY, G.L. Y SMITH, K. J.: Cálculo de varias variables (volumen 2). Prentice Hall, 1998
+
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

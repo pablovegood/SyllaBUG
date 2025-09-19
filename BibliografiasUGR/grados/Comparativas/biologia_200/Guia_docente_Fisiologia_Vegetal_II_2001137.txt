@@ -2,11 +2,42 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (7):
 ------------------------------
-No hay elementos.
+(2005): Fisiología Vegetal Ed. Pirámide, Madrid
 
-📚 Recursos sin cambios:
+AINSWORTH,   C.   (ed.)   (2006):   Flowering   and   its   manipulation.  Oxford  :  Blackwell  ARSHAD,  M.  AND
+FRANENBERGER, W.T. (2002) Ethylene. Kluwer Ac. Pub
+
+DICKINSON,W.C.   (2000):  Integrative  Plant  Anatomy.  Academic  Press  GREGORY,  P.J.  (2006):  Plant  roots:
+growth,   activity  and  interaction  with  soils.  Oxford:  Blackwell  HOPKINS  W.G.  y  HÜNER,  N.P.A.  (2009):
+Introduction of Plant Physiology. John Wiley and Son, USA
+
+Elsevier   2019.   https://doi.org/10.1016/B978-0-12-813187-9.00016-0  Handa,  A.  K.,  Tiznado-Hernández,
+M.   E.,   &   Mattoo,   A.   K.   (2012).   Fruit  development  and  ripening:  a  molecular  perspective.  Plant
+biotechnology and agriculture (pp. 405-424)
+
+Freeman   and   Company   Worth   Pub.  New  York  RIDGE,  I.  (2003):  Plants.  Hodder  and  Stoughton.  The  Open
+University,    London    SALISBURY,    F.B.    y   ROSS,   C.W.   (2000).   Fisiología   de   las   plantas   (3
+volúmenes).Paraninfo, Madrid
+
+MADHAVA   RAO,  N.M.;  A.  RAGHAVENDRA,  Y  K.  JANARDHAN  REDDY  (2006):  Physiology  and  molecular  biology  of
+stress   tolerance   in   plants.   Dordrecht,   The  Netherlands  :  Springer,  MALHO,  R.  (2006):  The  pollen
+tube:   a   cellular   and   molecular   perspective.   Berlin   :  Springer,  OSBORNE,  D.J.  Y  MCMANUS.,  M.T.
+(2005):   Hormones,   signals   and  target  cells  in  plant  development.  Cambridge  :  Cambridge  University
+Press,   ORTOLA,   A.G.   (2000):  Apuntes  básicos  de  Fisiología  Vegetal.  Ed.  Universidad  Politécnica  de
+Valencia RAVEN, P.H., EVERT, R.F. and EICHHORN, S.E. (1999): Biology of Plants (sixth ed.). W.H
+
+VICENTE,   C.   y   LEGAZ,   M.   (2000):  Fisiología  Vegetal  Ambiental.  Pirámide,  Madrid  Lymperopoulos  P,
+Msanne   J   and  Rabara  R  (2018)  Phytochrome  and  Phytohormones:  Working  in  Tandem  for  Plant  Growth  and
+Development.   Front.   Plant   Sci.   9:1037.   doi:  10.3389/fpls.2018.01037  Quinet  M,  Angosto  T,  Yuste-
+Lisbona   FJ,   Blanchard-Gros  R,  Bigot  S,  Martinez  J-P  and  Lutt  S  (2019)  Tomato  Fruit  Development  and
+Metabolism.   Front.   Plant  Sci.  10:1554.  doi:  10.3389/fpls.2019.01554  Huang  P,  Li  Z  and  Guo  H  (2022)
+New   Advances   in   the  Regulation  of  Leaf  Senescence  by  Classical  and  Peptide  Hormones.  Front.  Plant
+Sci.   13:923136.doi:  10.3389/fpls.2022.923136  Senescence  Signalling  and  Control  in  Plants.  Edited  By
+Maryam Sarwat, Narendra Tuteja
+
+📚 Recursos sin cambios (9):
 ------------------------------
 AZCÓN-BIETO,   J.   Y   TALÓN,   M.   (2008):   Fundamentos   de   Fisiología   Vegetal.   2º   ed.  McGraw-Hill
 Interamericana. Madrid
@@ -24,11 +55,34 @@ American Society of Plant Physiologists. Wiley Blacwell
 DAVIES,   P.J.   (2004):   Plant   Hormones.   Biosynthesis,  signal  transduction  and  action.  Kluwer  Acad.
 Pub., Netherlands
 
+Handa,   A.   K.,   Tiznado-Hernández,  M.  E.,  &  Mattoo,  A.  K.  (2012).  Fruit  development  and  ripening:  a
+molecular   perspective.   Plant   biotechnology   and   agriculture   (pp.  405-424).  Academic  Press.  doi:
+10.1016/B978-0-12-381466-1.00026-2
+
+SHINA,   R.K.   (2002):   Modern   Plan  Physiology.  Intercet  Limited,  PO  Box  716,  Andover  Hampshire  SPIO
+IYG, UK
+
+TAIZ   L.,   ZEIGER,   E.,   MOLLER,   I.M.   y  MURPHY,  A.  (2015):  Plant  Physiology  and  Development.  Sixth
+edition. Sinauer Associates
+
+✅ Recursos añadidos (19):
+------------------------------
+AINSWORTH, C. (ed.) (2006): Flowering and its manipulation. Oxford : Blackwell
+
+ARSHAD, M. AND FRANENBERGER, W.T. (2002) Ethylene. Kluwer Ac. Pub
+
+DICKINSON,W.C. (2000): Integrative Plant Anatomy. Academic Press
+
+GREGORY, P.J. (2006): Plant roots: growth, activity and interaction with soils. Oxford: Blackwell
+
 HOPKINS W.G. y HÜNER, N.P.A. (2009): Introduction of Plant Physiology. John Wiley and Son, USA
 
 Handa,   A.   K.,   Tiznado-Hernández,  M.  E.,  &  Mattoo,  A.  K.  (2012).  Fruit  development  and  ripening:  a
 molecular   perspective.   Plant   biotechnology   and   agriculture   (pp.  405-424).  Academic  Press.  doi:
 10.1016/B978-0-12-381466-1.00026-2
+
+Huang   P,   Li   Z  and  Guo  H  (2022)  New  Advances  in  the  Regulation  of  Leaf  Senescence  by  Classical  and
+Peptide Hormones. Front. Plant Sci. 13:923136.doi: 10.3389/fpls.2022.923136
 
 Lymperopoulos   P,   Msanne  J  and  Rabara  R  (2018)  Phytochrome  and  Phytohormones:  Working  in  Tandem  for
 Plant Growth and Development. Front. Plant Sci. 9:1037. doi: 10.3389/fpls.2018.01037
@@ -38,63 +92,26 @@ stress tolerance in plants. Dordrecht, The Netherlands : Springer
 
 MALHO, R. (2006): The pollen tube: a cellular and molecular perspective. Berlin : Springer
 
-SHINA,   R.K.   (2002):   Modern   Plan  Physiology.  Intercet  Limited,  PO  Box  716,  Andover  Hampshire  SPIO
-IYG, UK
+ORTOLA, A.G. (2000): Apuntes básicos de Fisiología Vegetal. Ed. Universidad Politécnica de Valencia
 
-TAIZ   L.,   ZEIGER,   E.,   MOLLER,   I.M.   y  MURPHY,  A.  (2015):  Plant  Physiology  and  Development.  Sixth
-edition. Sinauer Associates
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-10.3389/fpls.2019.01554   Huang   P,   Li   Z   and   Guo   H  (2022)  New  Advances  in  the  Regulation  of  Leaf
-Senescence   by   Classical   and  Peptide  Hormones.  Front.  Plant  Sci.  13:923136.doi  →  Huang  P,  Li  Z  and
-Guo   H   (2022)   New  Advances  in  the  Regulation  of  Leaf  Senescence  by  Classical  and  Peptide  Hormones.
-Front. Plant Sci. 13:923136.doi: 10.3389/fpls.2022.923136
-
-VICENTE,   C.   y   LEGAZ,   M.   (2000):  Fisiología  Vegetal  Ambiental.  Pirámide,  Madrid  Lymperopoulos  P,
-Msanne   J   and   Rabara   R   (2018)   Phytochrome   and   Phytohormones  →  VICENTE,  C.  y  LEGAZ,  M.  (2000):
-Fisiología Vegetal Ambiental. Pirámide, Madrid
-
-10.3389/fpls.2018.01037   Quinet   M,  Angosto  T,  Yuste-Lisbona  FJ,  Blanchard-Gros  R,  Bigot  S,  Martinez
-J-P   and   Lutt   S   (2019)   Tomato  Fruit  Development  and  Metabolism.  Front.  Plant  Sci.  10:1554.  doi  →
-Quinet   M,   Angosto   T,   Yuste-Lisbona  FJ,  Blanchard-Gros  R,  Bigot  S,  Martinez  J-P  and  Lutt  S  (2019)
-Tomato Fruit Development and Metabolism. Front. Plant Sci. 10:1554. doi: 10.3389/fpls.2019.01554
-
-Springer,   OSBORNE,   D.J.   Y   MCMANUS.,   M.T.   (2005):   Hormones,   signals  and  target  cells  in  plant
-development.   Cambridge   :   Cambridge   University   Press,   ORTOLA,   A.G.   (2000):  Apuntes  básicos  de
-Fisiología   Vegetal.   Ed.  Universidad  Politécnica  de  Valencia  RAVEN,  P.H.,  EVERT,  R.F.  and  EICHHORN,
-S.E.   (1999):   Biology   of   Plants   (sixth   ed.).   W.H   →   ORTOLA,   A.G.   (2000):  Apuntes  básicos  de
-Fisiología Vegetal. Ed. Universidad Politécnica de Valencia
-
-DICKINSON,W.C.   (2000):  Integrative  Plant  Anatomy.  Academic  Press  GREGORY,  P.J.  (2006):  Plant  roots:
-growth,   activity   and   interaction   with   soils.   Oxford  →  DICKINSON,W.C.  (2000):  Integrative  Plant
-Anatomy. Academic Press
-
-10.3389/fpls.2022.923136   Senescence   Signalling   and   Control   in   Plants.  Edited  By  Maryam  Sarwat,
-Narendra   Tuteja   →   Senescence   Signalling  and  Control  in  Plants.  Edited  By  Maryam  Sarwat,  Narendra
-Tuteja. Elsevier 2019. https://doi.org/10.1016/B978-0-12-813187-9.00016-0
-
-Freeman   and   Company   Worth   Pub.  New  York  RIDGE,  I.  (2003):  Plants.  Hodder  and  Stoughton.  The  Open
-University,    London    SALISBURY,    F.B.    y   ROSS,   C.W.   (2000).   Fisiología   de   las   plantas   (3
-volúmenes).Paraninfo,   Madrid   →   SALISBURY,   F.B.  y  ROSS,  C.W.  (2000).  Fisiología  de  las  plantas  (3
-volúmenes).Paraninfo, Madrid
-
-AINSWORTH,   C.   (ed.)   (2006):   Flowering   and   its   manipulation.  Oxford  :  Blackwell  ARSHAD,  M.  AND
-FRANENBERGER,   W.T.   (2002)   Ethylene.   Kluwer   Ac.   Pub   →  ARSHAD,  M.  AND  FRANENBERGER,  W.T.  (2002)
-Ethylene. Kluwer Ac. Pub
-
-✅ Recursos añadidos:
-------------------------------
-AINSWORTH, C. (ed.) (2006): Flowering and its manipulation. Oxford : Blackwell
-
-GREGORY, P.J. (2006): Plant roots: growth, activity and interaction with soils. Oxford: Blackwell
+ORTOLA, A.G. (2000): Apuntes básicos de Fisiología Vegetal. Ed. Universidad Politécnica de Valencia
 
 OSBORNE,   D.J.   Y   MCMANUS.,   M.T.   (2005):  Hormones,  signals  and  target  cells  in  plant  development.
 Cambridge : Cambridge University Press
+
+Quinet   M,   Angosto   T,   Yuste-Lisbona  FJ,  Blanchard-Gros  R,  Bigot  S,  Martinez  J-P  and  Lutt  S  (2019)
+Tomato Fruit Development and Metabolism. Front. Plant Sci. 10:1554. doi: 10.3389/fpls.2019.01554
 
 RAVEN,   P.H.,  EVERT,  R.F.  and  EICHHORN,  S.E.  (1999):  Biology  of  Plants  (sixth  ed.).  W.H.  Freeman  and
 Company Worth Pub. New York
 
 RIDGE, I. (2003): Plants. Hodder and Stoughton. The Open University, London
 
-📊 Porcentaje estimado de cambio: 59% [█████░░░░░]
+SALISBURY, F.B. y ROSS, C.W. (2000). Fisiología de las plantas (3 volúmenes).Paraninfo, Madrid
+
+Senescence   Signalling   and   Control   in   Plants.  Edited  By  Maryam  Sarwat,  Narendra  Tuteja.  Elsevier
+2019. https://doi.org/10.1016/B978-0-12-813187-9.00016-0
+
+VICENTE, C. y LEGAZ, M. (2000): Fisiología Vegetal Ambiental. Pirámide, Madrid
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

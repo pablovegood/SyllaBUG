@@ -2,15 +2,7 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (2):
 ------------------------------
 Electrotecnia   básica  para  ingenieros.  F.  Aznar,  A.  Espín  y  F.  Gil.  Ed.  Universidad  de  Granada.  ISBN
 978-84-338-5442-1.   2005  Problemas  de  ingeniería  eléctrica.  O.  Rabaza,  F.  Aznar.  Ed.  Técnica  AVICAM.
@@ -19,16 +11,18 @@ ISBN   978-84-169-9274-4.   2018   Problemas   de  exámenes  de  electrotecnia.
 Espín.   Ed.   Universidad   de   Granada   ISBN   978-84-338-2683-2.   2000  Prácticas  de  Electrotecnia.  O.
 Rabaza,   F.  Aznar,  E.  Molero.  Ed.  Técnica  AVICAM.  ISBN  978-84-176-2810-9.  2018  Circuitos  eléctricos.
 J.   Fraile   Mora.   Ed.   Pearson.   ISBN  978-84-832-2795-4.  2012  Problemas  de  circuitos  eléctricos.  J.
-Fraile   Mora.   Ed.   Pearson.   ISBN   978-84-903-5405-6   →   Prácticas   de  Electrotecnia.  O.  Rabaza,  F.
-Aznar, E. Molero. Ed. Técnica AVICAM. ISBN 978-84-176-2810-9. 2018
+Fraile Mora. Ed. Pearson. ISBN 978-84-903-5405-6
 
 Teoría   de   circuitos.   E.   Ras.   Ed.  Marcombo.  ISBN  978-84-267-0673-7.  1988  Teoría  de  circuitos.  V.
 Parra. Ed. UNED. ISBN 978-84-362-1950-0. 1991 Problemas de electrotecnia. X. Alabern. Ed. Paraninfo.
 ISBN    978-84-283-2023-8.    1994    Reglamento    Electrotécnico    de   Baja   Tensión.   Ed.   BOE.   ISBN
-978-84-340-2546-2.   2021   personal   del   alumno   →   Teoría   de   circuitos.   V.  Parra.  Ed.  UNED.  ISBN
-978-84-362-1950-0. 1991
+978-84-340-2546-2. 2021
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (11):
 ------------------------------
 Circuitos eléctricos. J. Fraile Mora. Ed. Pearson. ISBN 978-84-832-2795-4. 2012
 
@@ -47,8 +41,13 @@ Granada ISBN 978-84-338-2683-2. 2000
 Problemas   de  ingeniería  eléctrica.  O.  Rabaza,  F.  Aznar.  Ed.  Técnica  AVICAM.  ISBN  978-84-18792-60-1.
 2022
 
+Prácticas    de    Electrotecnia.    O.    Rabaza,   F.   Aznar,   E.   Molero.   Ed.   Técnica   AVICAM.   ISBN
+978-84-176-2810-9. 2018
+
 Reglamento Electrotécnico de Baja Tensión. Ed. BOE. ISBN 978-84-340-2546-2. 2021
 
 Teoría de circuitos. E. Ras. Ed. Marcombo. ISBN 978-84-267-0673-7. 1988
+
+Teoría de circuitos. V. Parra. Ed. UNED. ISBN 978-84-362-1950-0. 1991
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

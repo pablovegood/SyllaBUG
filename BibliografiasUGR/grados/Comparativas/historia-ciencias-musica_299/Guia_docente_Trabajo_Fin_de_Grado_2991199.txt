@@ -2,18 +2,19 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-BELLMAN, Jonathan, A Short guide to writing about music, New York, NY, Longman, 2009
+<http://www.enculturation.net/2_2/erickson.html> [Consultado el 21/06/2021]
 
 CLANCHY,   John   y  BALLARD,  Brigid,  Cómo  se  hace  un  trabajo  académico.  Guía  práctica  para  estudiantes
-universitarios, Zaragoza, Prensas Universitarias, 1995
+universitarios, Zaragoza, Prensas Universitarias, 1995. Granada, 2007
 
-EDITORIAL UNIVERSIDAD DE GRANADA, Guía de estilo, Granada, Universidad de Granada, 2007
+ERICKSON,   Gregory,  «Speaking  of  Music:  Explorations  in  the  Language  of  Music  Criticism»  [en  línea],
+Enculturation, n.º 2/2 (1999)
+
+📚 Recursos sin cambios (4):
+------------------------------
+BELLMAN, Jonathan, A Short guide to writing about music, New York, NY, Longman, 2009
 
 HERBERT,   Trevor,  Music  in  words.  A  guide  to  researching  and  writing  about  music,  London,  UK,  ABRSM,
 2010
@@ -24,15 +25,19 @@ métodos, experiencias y modelos, Barcelona, ESMUC, 2014
 WINGELL, Richard, Writing about music: An introductory guide, New Jersey, NJ, Pearson Prentice Hall,
 2009
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
+CLANCHY,   John   y  BALLARD,  Brigid,  Cómo  se  hace  un  trabajo  académico.  Guía  práctica  para  estudiantes
+universitarios, Zaragoza, Prensas Universitarias, 1995
+
+EDITORIAL UNIVERSIDAD DE GRANADA, Guía de estilo, Granada, Universidad de Granada, 2007
+
 ERICKSON,   Gregory,  «Speaking  of  Music:  Explorations  in  the  Language  of  Music  Criticism»  [en  línea],
-Enculturation,   n.º   2/2   (1999)   →   ERICKSON,   Gregory,   «Speaking   of   Music:   Explorations  in  the
-Language      of      Music     Criticism»     [en     línea],     Enculturation,     n.º     2/2     (1999).
-<http://www.enculturation.net/2_2/erickson.html> [Consultado el 21/06/2025]
+Enculturation,   n.º   2/2   (1999).   <http://www.enculturation.net/2_2/erickson.html>   [Consultado   el
+21/06/2025]
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+ERICKSON,   Gregory,  «Speaking  of  Music:  Explorations  in  the  Language  of  Music  Criticism»  [en  línea],
+Enculturation,   n.º   2/2   (1999).   <http://www.enculturation.net/2_2/erickson.html>   [Consultado   el
+21/06/2025]
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

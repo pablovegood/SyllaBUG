@@ -2,11 +2,11 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Antonio   Félix   Vallejos   Izquierdo,   Yolanda   Agudo   Arroyo   et   al.   Investigación  social  mediante
 encuestas. Centro de estudios Ramón Areces, 2011
@@ -14,7 +14,12 @@ encuestas. Centro de estudios Ramón Areces, 2011
 Antonio   Pardo   Merino,   Miguel   Ángel   Ruiz  Díaz.  Análisis  de  datos  con  SPSS  13  Base.  Mc  Graw  Hill,
 2013.Bernardo Cascales Salinas. El libro de Latex. Pearson Educación, 2011
 
+César Pérez López. IBM SPSS estadística aplicada: conceptos y ejercicios resueltos. Ibergaceta, 2013
+
 César Pérez López. Técnicas estadísticas multivariantes con SPSS. Garceta, 2009
+
+Díaz   de   Rada   Igúzquiza,   Vidal.   Técnicas   de   Análisis  Multivariante  para  Investigación  Social  y
+Comercial: ejemplos prácticos utilizando SPSS versión 11. Ra-Ma, 2002
 
 Francisco   Javier   Murillo  Torrecilla,  Cynthia  Martínez-Garrido.  Análisis  de  datos  cuantitativos  con
 SPSS en investigación socioeducativa. Universidad Autónoma de Madrid, 2012
@@ -45,15 +50,8 @@ Stefan Kottwitz. LaTeX beginner's guide. Birmingham, UK. 2011
 Vidal   Díaz   de   Rada.   Análisis   de   datos   de   encuesta:   desarrollo  de  una  investigación  completa
 utilizando SPSS. Universidad Abierta de Cataluña, 2009
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-César Pérez López. IBM SPSS estadística aplicada: conceptos y ejercicios resueltos. Ibergaceta, 2013
-
-Díaz   de   Rada   Igúzquiza,   Vidal.   Técnicas   de   Análisis  Multivariante  para  Investigación  Social  y
-Comercial: ejemplos prácticos utilizando SPSS versión 11. Ra-Ma, 2002
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

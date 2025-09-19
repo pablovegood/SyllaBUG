@@ -2,11 +2,11 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Aruga,   M.   C.(2020).  La  transformación  digital  en  las  relaciones  laborales  y  en  la  organización  del
 trabajo. Madrid. Wolters Kluwer
@@ -18,6 +18,9 @@ Giner, F.; Gil M.A. (2014). La organización de empresas: hacia un modelo de fut
 
 Handy, C. (2005). La organización por dentro: por qué las personas y las organizaciones se comportan
 como lo hacen. Deusto S.A. Ediciones
+
+Hernández,   M.   J.   (coord.)   (2008).   Casos  prácticos  de  administración  y  organización  de  empresas.
+Madrid: Editorial Pirámide
 
 Laloux,   F.   (2016).   Reinventar   las   organizaciones:   cómo   crear   organizaciones  inspiradas  en  el
 siguiente estadio de la conciencia humana. Arpa Editores
@@ -44,13 +47,8 @@ Prentice-Hall
 
 Tamayo, J. A. (2000). Organización. Sevilla: Edición digital @ tres
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Hernández,   M.   J.   (coord.)   (2008).   Casos  prácticos  de  administración  y  organización  de  empresas.
-Madrid: Editorial Pirámide
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

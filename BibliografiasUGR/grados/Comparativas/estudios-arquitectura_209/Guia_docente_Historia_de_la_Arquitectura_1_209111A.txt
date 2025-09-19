@@ -2,11 +2,11 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (90):
 ------------------------------
 Ackeerman, J. S.: La Arquitectura de Miguel Ángel, Madrid, Celeste, 1997
 
@@ -21,23 +21,19 @@ Argan, G. C.: Brunelleschi, Madrid, Xarait, 1987
 
 Argan, G. C.: Renacimiento y barroco, (2vols.), Madrid, Akal, 1987
 
-Argan, G.C.: Borromini, Bilbao, Xarait, 1987
-
 Bardeschi, M. D. & otros: León Battista Alberti, Barcelona, Stylos, 1988
 
 Bayón, D. & Marx, M.: Historia del arte colonial sudamericano, Barcelona, Ediciones Poligrafa, 1989
 
-Bayón,   Damián,   Mecenazgo   y  arquitectura  en  el  dominio  castellano  (1475-1621),  Granada,  Diputación
+Bayón,   Damián,   Mecenazgo  y  arquitectura  en  el  dominio  castellano  (1475-1621)  ,  Granada,  Diputación
 Provincial, 1991
 
 Benévolo, l.: Historia de la arquitectura del Renacimiento, Madrid, Taurus, 1988
 
-Bernales,   J.;   Galera,  P.  A.  &  otros.:  El  arte  del  Renacimiento.  Urbanismo  y  arquitectura,  Sevilla,
+Bernales,   J.;  Galera,  P.  A.  &  otros.:  El  arte  del  Renacimiento.  Urbanismo  y  arquitectura  ,  Sevilla,
 Gever, 1990 (Historia del Arte en Andalucía, vol. IV)
 
 Bietoletti, S. et al.: Florencia, Arte y Arquitectura, Barcelona, Könemann, 2005
-
-Blair, S. S. & Bloom, J. M., (1999), Arte y arquitectura del Islam, 1250-1800, Madrid, Cátedra
 
 Blunt, A.: Arte y arquitectura en Francia, 1500-1700, Madrid, Cátedra, 1983
 
@@ -62,7 +58,7 @@ Checa G.: Fernando y Morán Turina, J. M., El barroco, Madrid, Istmo, 1994
 
 Checa, F.: Felipe II, mecenas de las artes, Madrid, Nerea, 1992
 
-Chueca, F.: Arquitectura del siglo XVI, Madrid, Plus Ultra, 1953 (Ars Hispaiae, vol. XI)
+Chueca, F.: Arquitectura del siglo XVI , Madrid, Plus Ultra, 1953 (Ars Hispaiae, vol. XI)
 
 Chueca,   F.:   Barroco   en   España,  Madrid,  Dossat,  1985  (Historia  de  la  Arquitectura  Occidental,  vol
 VII)
@@ -71,7 +67,7 @@ Chueca, F.: Barroco en Europa, Madrid, Dossat, 1990 (Historia de la Arquitectura
 
 Chueca, F.: Barroco en hispanoamérica, Portugal y Brasil, Madrid, Dossat, 1985
 
-Cresti, C. y Rendina, C.: Villas y palacios de Roma, Barcelona, Könemann, 1999
+Cresti, C. y Rendina, C.: Villas y palacios de Roma, Barcelona, Könemann , 1999
 
 Cruz,   J.M.:   Valdivieso   González,   Enrique,   Rincón   García,   Wilfredo,  y  Chueca  Goitia,  Fernando,
 Arquitectura   barroca   de   los   siglos   XVII   y   XVIII,   arquitectura   de  los  Borbones  y  neoclásica,
@@ -112,6 +108,10 @@ Kubler, G.: Arquitectura de los siglos XVII y XVIII, Madrid, Plus Ultra, 1957 (A
 
 Kuran, A., (1997), Sinán. El maestro de la arquitectura otomana, Granada, Universidad
 
+La   siguiente   bibliografía   no   incluye   obras   generales   sobre  arte  y  arquitectura,  metodología  y
+diccionarios,   que  están  recogidos  en  la  guía  docente  de  Introducción  a  la  Historia  del  Arte  y  de  la
+Arquitectura
+
 Lotz, W.: La arquitectura del Renacimiento en Italia. Estudios, Madrid, Blume, 1985
 
 Marías, F.: El largo siglo XVI: los usos artísticos del Renacimiento español, Madrid, Taurus, 1989
@@ -121,6 +121,13 @@ Marías, F.: El monasterio de El Escorial, Madrid, Anaya, 1990
 Millon,   H.   A.:   The   Triumph   of   the   Baroque.   Architecture   in   Europe,  1600-1750,  (catálogo  de
 exposición), London, Thames & Hudson, 1999
 
+Monografías sobre la arquitectura del Barroco Argan, G.C.: Borromini, Bilbao, Xarait, 1987
+
+Monografías sobre la arquitectura del Renacimiento
+
+Monografías   sobre   la   arquitectura  islámica,  china  y  japonesa  Blair,  S.  S.  &  Bloom,  J.  M.,  (1999),
+Arte y arquitectura del Islam, 1250-1800, Madrid, Cátedra
+
 Nakagawa, T., (2016), La casa japonesa: Espacio, memoria y lenguaje, Barcelona, Reverté
 
 Nieto,   V.;   Morales,   A.J.  &  Checa,  F.:  Arquitectura  del  renacimiento  en  España,  1488-1599,  Madrid,
@@ -129,6 +136,8 @@ Cátedra, 1989
 Norberg-Schulz, C.: Arquitectura barroca, Madrid, Aguilar, 1989
 
 Norberg-Schulz, C.: Kilian Ignaz Dientzenhofer y el barroco bohemio, Barcelona, Oikos-tau, 1993
+
+Obras generales sobre el Renacimiento y el Barroco
 
 Okakura, K., (1996), El Libro del Té, Madrid, Miraguano
 
@@ -146,8 +155,6 @@ Provincial, 1994
 Rodríguez, A.: El retablo barroco, Madrid, Historia 16, 1992 (Cuadernos de Arte español, vol. 72)
 
 Rosenthal, E.E.: El palacio de Carlos V en Granada, Madrid, Alianza Editorial, 1988
-
-Rosenthal, E.E.: La Catedral de Granada, Granada, Universidad de Granada, 1990
 
 Sedlmayr, H.: Johann Bernhard Fischer von Erlach architetto, Milano, Electa, 1996
 
@@ -208,12 +215,10 @@ Berlin, Taschen, 1990
 
 Ávila, A. & otros: El siglo del Renacimiento, Madrid, Akal, 1998
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-No hubo cambios de edición/año.
+Blair, S. S. & Bloom, J. M., (1999), Arte y arquitectura del Islam, 1250-1800, Madrid, Cátedra
 
-✅ Recursos añadidos:
-------------------------------
 Calatrava, Juan et al: Historia del arte, Madrid, Akal, 2009
 
 Dickie, James, Oleg Grabar, Ernst J. Grube, y George Michell: La arquitectura del mundo islámico: Su
@@ -223,19 +228,11 @@ Gombrich, E.H.: Historia del arte, Madrid, Debate, 1997
 
 Kostof, Spiro: Historia de la Arquitectura II. Madrid, Alianza Editorial, 1995
 
-La   siguiente   bibliografía   no   incluye   obras   generales   sobre  arte  y  arquitectura,  metodología  y
-diccionarios,   que  están  recogidos  en  la  guía  docente  de  Introducción  a  la  Historia  del  Arte  y  de  la
-Arquitectura
-
 Monografías sobre la arquitectura del Barroco
 
-Monografías sobre la arquitectura del Renacimiento
-
-Monografías sobre la arquitectura islámica, china y japonesa
-
-Obras generales sobre el Renacimiento y el Barroco
+Rosenthal, E.E.: La Catedral de Granada, Granada, Universidad de Granada, 1990
 
 Tratchtenberg, Marvin; Hyman, Isabelle: Arquitectura. De la prehistoria a la postmodernidad, Madrid,
 Akal, 2004
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

@@ -2,17 +2,16 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Universidad   de   Granada  Buys,  S.  y  Oakley,  V.  (1993).  The  conservation  and  restoration  of  ceramics.
-Ed
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
-AAVV   (2024):   BARRO.   La  cerámica  en  el  patrimonio  de  la  universidad  de  Granada.  Ed.  Universidad  de
-Granada
-
 Birks, T. (1997). The Complete Potter's Companion. New edition. Bulfinch Press. Paperback, 192 pages
+
+Buys,   S.   y   Oakley,   V.   (1993).   The   conservation   and  restoration  of  ceramics.  Ed.  Butterworth-
+Heinemann. 243 p
 
 Connel, J. (2005). Potter's Guide to Ceramic Surfaces. Apple Press. Hardcover, 160 pages
 
@@ -34,12 +33,23 @@ Secretariado de publicaciones de la Universidad de Sevilla. 354 p
 
 Hooson, D. Queen, A. (2012). The Workshop Guide to Ceramics. Thames & Hudson. 320 pages
 
+Manual   del   estudiante   de   escultura   y   tecnología  cerámica.  Técnicas  y  procesos  de  Enseñanzas  de
+alfareros   toconceños:   tradición   y   tecnología   en   la   cerámica.   (2005).  Red  Chungara  Revista  de
+Antropología Chilena. En línea (https://elibro.net/es/lc/ugr/titulos/11928)
+
+Mattison, S. (2004): Guía completa del ceramista. Herramientas, materiales y técnicas. Ed. Blume
+
 Monrós,   G.   J.;   Badenes,   A.;   García,   A.   M.   y  Tena,  A.  (2003).  El  color  de  la  cerámica:  nuevos
 mecanismos   en   pigmentos   para  los  nuevos  procesados  de  la  industria  cerámica.  Universitat  Jaume  I.
 186 p
 
 Morales Güeto, J. (2005). Tecnología de los materiales cerámicos. Consejería de Educación. Comunidad
 de Madrid. 370 p
+
+Morales   Güeto,   J.   (2012).   Vidriado   y   decoración   cerámica.   Ediciones  Díaz  de  Santos.  En  Línea
+(https://elibro.net/es/lc/ugr/titulos/32245)
+
+Norton, M.; Carter, C. (2007). Ceramic Materials - Science and Engineering. Springer Ed., 716 pages
 
 Peterson, S.; Peterson, J. (2003). The Craft and Art of Clay: A Complete Potter's Handbook. Laurence
 King Publishing. 432 pages
@@ -51,26 +61,9 @@ Sentance, B. (2005). Ceramics: A World Guide to Traditional Techniques. Thames &
 Villaverde.   (2014).   Arte   cerámico   en   Argentina:   un   panorama  del  siglo  XX  /  Vilma  Villaverde.
 Editorial Maipue. 193 p
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Morales   Güeto,   J.  (2012).  Vidriado  y  decoración  cerámica.  Ediciones  Díaz  de  Santos.  En  Norton,  M.;
-Carter,   C.   (2007).   Ceramic  Materials  -  Science  and  Engineering.  Springer  Ed.,  716  pages  →  Morales
-Güeto,    J.    (2012).    Vidriado    y   decoración   cerámica.   Ediciones   Díaz   de   Santos.   En   Línea
-(https://elibro.net/es/lc/ugr/titulos/32245)
+AAVV   (2024):   BARRO.   La  cerámica  en  el  patrimonio  de  la  universidad  de  Granada.  Ed.  Universidad  de
+Granada
 
-Enseñanzas   de   alfareros   toconceños:   tradición   y  tecnología  en  la  cerámica.  (2005).  Red  Chungara
-Revista   de   Antropología   Chilena.   En   línea   Mattison,   S.   (2004):   Guía  completa  del  ceramista.
-Herramientas,    materiales    y   técnicas   →   Mattison,   S.   (2004):   Guía   completa   del   ceramista.
-Herramientas, materiales y técnicas. Ed. Blume
-
-✅ Recursos añadidos:
-------------------------------
-Buys,   S.   y   Oakley,   V.   (1993).   The   conservation   and  restoration  of  ceramics.  Ed.  Butterworth-
-Heinemann. 243 p
-
-Enseñanzas   de   alfareros   toconceños:   tradición   y  tecnología  en  la  cerámica.  (2005).  Red  Chungara
-Revista de Antropología Chilena. En línea (https://elibro.net/es/lc/ugr/titulos/11928)
-
-Norton, M.; Carter, C. (2007). Ceramic Materials - Science and Engineering. Springer Ed., 716 pages
-
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

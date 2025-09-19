@@ -2,11 +2,20 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+GOGA,   Mircea,   La   Roumanie:   culture   et   civilization,  Paris,  PUPS,  2007  GOGA,  Mircea,  Une  île  de
+latinité: Culture, civilization, langue et littérature roumaines, Paris, PUPS, 2004
 
-📚 Recursos sin cambios:
+SEBASTIAN,   Mihail,   El   accidente.   Traducción  de  Joaquín  Garrigós.  Barcelona,  Destino,  2003  MANEA,
+Norman, Felicidad obligatoria. Traducción de Joaquín Garrigós. Barcelona, Tusquets, ISTRATI, Panait,
+Kyra   Kyralina,   Tio   Anghel.   Traducción  de  Marián  Ochoa  de  Eribe.  Valencia,  PreTextos,  2008  HORIA,
+Vintila,   Dios   ha   nacido   en   exilio.   Diario   de   Ovidio   en   Tomis.  Traducción  de  Rafael  Vázquez
+Zamtrducción   de   Enrique   Nogueras   ora.   Barcelona,   Planeta,   1999  CARAGIALE,  Ion  Luca,  Una  carta
+perdida.   Traducción   de   Hector   P   Agosti.   Buenos   Aires,  Lautaro,  1953  EMINESCU,  Mihai,  Poesías.
+Traducción de Dana Giurcă y José Manuel Lucía Megías. Madrid, Cátedra, 2004
+
+📚 Recursos sin cambios (4):
 ------------------------------
 EMINESCU,   Mihai,   Narraciones,  tradución  de  Enrique  Nogueras,Granada,  Traspiés,  2016.  RUSTI,  Doina,
 Eliza   a   los   Doce   años,   Traducción   de  Enrique  Nogueras  y  Oana  Ursache,  Granada,  Traspiés,  2011,
@@ -18,25 +27,12 @@ NOVACEANU, Darie, Antoloía de la poesía Rumana contemporánea, Barcelona, Seix
 
 SALA, Marius, Del latín al rumano, Ed. Univers Enciclopedic, Bucuresti, 2008
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-SEBASTIAN,   Mihail,   El   accidente.   Traducción  de  Joaquín  Garrigós.  Barcelona,  Destino,  2003  MANEA,
-Norman, Felicidad obligatoria. Traducción de Joaquín Garrigós. Barcelona, Tusquets, ISTRATI, Panait,
-Kyra   Kyralina,   Tio   Anghel.   Traducción  de  Marián  Ochoa  de  Eribe.  Valencia,  PreTextos,  2008  HORIA,
-Vintila,   Dios   ha   nacido   en   exilio.   Diario   de   Ovidio   en   Tomis.  Traducción  de  Rafael  Vázquez
-Zamtrducción   de   Enrique   Nogueras   ora.   Barcelona,   Planeta,   1999  CARAGIALE,  Ion  Luca,  Una  carta
-perdida.   Traducción   de   Hector   P   Agosti.   Buenos   Aires,  Lautaro,  1953  EMINESCU,  Mihai,  Poesías.
-Traducción   de   Dana   Giurcă   y  José  Manuel  Lucía  Megías.  Madrid,  Cátedra,  2004  →  SEBASTIAN,  Mihail,
-El accidente. Traducción de Joaquín Garrigós. Barcelona, Destino, 2003
-
-GOGA,   Mircea,   La   Roumanie:   culture   et   civilization,  Paris,  PUPS,  2007  GOGA,  Mircea,  Une  île  de
-latinité:   Culture,   civilization,   langue   et   littérature   roumaines,   Paris,   PUPS,   2004  →  GOGA,
-Mircea, La Roumanie: culture et civilization, Paris, PUPS, 2007
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 EMINESCU,   Mihai,   Poesías.   Traducción   de  Dana  Giurcă  y  José  Manuel  Lucía  Megías.  Madrid,  Cátedra,
 2004
+
+GOGA, Mircea, La Roumanie: culture et civilization, Paris, PUPS, 2007
 
 GOGA,   Mircea,   Une   île  de  latinité:  Culture,  civilization,  langue  et  littérature  roumaines,  Paris,
 PUPS, 2004
@@ -56,4 +52,6 @@ PreTextos, 2008
 
 MANEA, Norman, Felicidad obligatoria. Traducción de Joaquín Garrigós. Barcelona, Tusquets, 2007
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+SEBASTIAN, Mihail, El accidente. Traducción de Joaquín Garrigós. Barcelona, Destino, 2003
+
+📊 Porcentaje estimado de cambio: 84% [████████░░]

@@ -2,20 +2,21 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Cuadernos   de   Almenara-2.   CantArabia,   1988.   .“La   prensa  del  Mahyar  en  Chile:  la  revista  Laíazul
-(1945)”. En MEAH, 47 (1998), pp
+MARTÍNEZ   MONTÁVEZ,   P.  Introducción  a  la  literatura  árabe  moderna.  Granada:  Universidad/CantArabia,
+1994. (2ª ed., corregida y ampliada) . Poesía árabe contemporánea. Madrid: Escelicer,1958
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (36):
 ------------------------------
 . “El espíritu de la Universidad Egipcia en el relato de Mayy Ziyâda”. Revista del Instituto Egipcio
 de Estudios Islámicos, 35 (2003), pp. 181-186 (Homenaje al Profesor Don Pedro Martínez Montávez)
 
+. “Novela, ideología e historia en Egipto (1913-2013)”. MEAH, 63 (2014), pp. 265-277
+
 .“La modernidad en femenino: Mayy Ziyâda desde la actualidad”. MEAH, 51 (2002), pp. 53-66
 
-AL-MUWAYLIHI,   Muhammad.   Lo   que   nos   contó   Isa   ibn  Hisham.  Trad  de  Jaime  Sánchez  Ratia.  Madrid:
-Verbum, 2018
+.“La prensa del Mahyar en Chile: la revista Laíazul (1945)”. En MEAH, 47 (1998), pp. 187-208
 
 ALLAN,   Michael.   “How   Adab   Became   Literary:  Formalism,  Orientalism  and  the  Institutions  of  World
 Literature”. Journal of Arabic Literature. 43 (2012): 172-196
@@ -38,6 +39,8 @@ Continents Press, 1980
 CAMERA   D'AFFLITTO,   I.   Breve   historia   de   la   Literatura  Árabe  Contemporánea:  de  la  Nahda  a  hoy.
 Madrid: Verbum, 2020
 
+DEL AMO, Mercedes. “El nacimiento de la novela egipcia: antecedentes”. MEAH, 31 (1982), pp. 61-78
+
 FERNÁNDEZ   PARRILLA,   Gonzalo.   “Indagaciones   en  el  proceso  de  formación  del  canon  de  la  literatura
 árabe:   las   historias   de   la   literatura   árabe”   Maria   Avino,  Ada  Barbaro,  Monica  Ruocco  (eds.).
 Qamariyyat:   Oltre   Ogni   Frontiera  tra  Letteratura  e  Traduzione.  Roma:  Istituto  per  l’Oriente  C.  A.
@@ -52,8 +55,11 @@ HUSSEIN, Taha. Los Días. Trad. Emilio García Gómez. Madrid: Ediciones del Vie
 
 JAYYUSI. S. Kh.:Trends and Movements in Modern Arabic Poetry. 2 vols. Leiden: Brill, 1977
 
-LIROLA   DELGADO,   Pilar.   Aproximación   al   teatro   egipcio  moderno.  Granada:  Grupo  de  Investigación
-Estudios Árabes Contemporáneos, Universidad de Granada, 1990
+LIROLA   DELGADO,   Pilar.   Aproximación   al   teatro   egipcio  moderno.  Granada:  Grupo  de  AL-MUWAYLIHI,
+Muhammad. Lo que nos contó Isa ibn Hisham. Trad de Jaime Sánchez Ratia. Madrid: Verbum, 2018
+
+LÁZARO   DURÁN,   M.   “La   formación   de  los  intelectuales  sirio-libaneses  en  el  s.  XIX”.  Cuadernos  de
+Almenara-2. CantArabia, 1988
 
 LÁZARO   DURÁN,   Mª  Isabel  (1985-86).  “La  lengua  árabe  y  su  reforma.  La  visión  de  Buṭrus  al-Bustānī  y
 su labor lingüística lexicográfica”. Miscelánea de Estudios Árabes y Hebráicos. 34-35: 247-269
@@ -70,6 +76,8 @@ MOOSA, Matti. The Origins of Modern Arabic Fiction. Boulder: Lynne Rienner, 1997
 
 MOREH,   Shmuel.   Modern   Arabic   Poetry  1870-1970:  the  development  of  its  forms  and  themes  under  the
 influence of Western literature. Leiden, Brill, 1970
+
+OSTLE, Robin. Modern Literature in the Near and Middle East, 1850-1970. London: Routledge, 1991
 
 PARADELA   ALONSO,  N.  El  otro  laberinto  español:  viajeros  árabes  a  España  entre  el  siglo  XVII  y  1936.
 Madrid: Siglo XXI, 2005
@@ -98,28 +106,14 @@ VERNET, Juan. Literatura árabe. Barcelona. Labor, 1966
 __.   “Rewriting   Literary   History:   The  Case  of  the  Arabic  Novel”.  Journal  of  Arabic  Literature.  38
 (2007), 247-260
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Universidad/CantArabia,   1994.   (2ª  ed.,  corregida  y  ampliada)  .  Poesía  árabe  contemporánea.  Madrid:
-Escelicer,1958  →  . Poesía árabe contemporánea. Madrid: Escelicer,1958
+. Poesía árabe contemporánea. Madrid: Escelicer,1958
 
-DEL AMO, Mercedes. “El nacimiento de la novela egipcia: antecedentes”. MEAH, 31 (1982), pp. 61-78. .
-“Novela,   ideología   e   historia   en   Egipto  (1913-2013)”.  MEAH,  63  (2014),  pp.  265-277  →  .  “Novela,
-ideología e historia en Egipto (1913-2013)”. MEAH, 63 (2014), pp. 265-277
-
-OSTLE,   Robin.   Modern   Literature   in   the   Near  and  Middle  East,  1850-1970.  London  →  OSTLE,  Robin.
-Modern Literature in the Near and Middle East, 1850-1970. London: Routledge, 1991
-
-✅ Recursos añadidos:
-------------------------------
-.“La prensa del Mahyar en Chile: la revista Laíazul (1945)”. En MEAH, 47 (1998), pp. 187-208
-
-DEL AMO, Mercedes. “El nacimiento de la novela egipcia: antecedentes”. MEAH, 31 (1982), pp. 61-78
-
-LÁZARO   DURÁN,   M.   “La   formación   de  los  intelectuales  sirio-libaneses  en  el  s.  XIX”.  Cuadernos  de
-Almenara-2. CantArabia, 1988
+LIROLA   DELGADO,   Pilar.   Aproximación   al   teatro   egipcio  moderno.  Granada:  Grupo  de  Investigación
+Estudios Árabes Contemporáneos, Universidad de Granada, 1990
 
 MARTÍNEZ   MONTÁVEZ,   P.  Introducción  a  la  literatura  árabe  moderna.  Granada:  Universidad/CantArabia,
 1994. (2ª ed., corregida y ampliada)
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

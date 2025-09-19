@@ -2,11 +2,12 @@
 Grado: educacion-social (244)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Santrock,   J.W.   (2003).   Psicología   del   desarrollo   en   la  adolescencia.  McGraw  Hill  Triadó,  C.  y
+Villar, F.(Coords.). (2006). Psicología de la vejez. Alianza
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Berger, K. y Thompson, R. (2001). Psicología del desarrollo: adultez y vejez. Panamericana
 
@@ -30,14 +31,10 @@ Papalia, D.E. y 0lds. S.W. (2001). Desarrollo humano . McGraw Hill
 
 Santrock, J.W. (2006). Psicología del desarrollo: el ciclo vital . McGraw Hill
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Santrock,   J.W.   (2003).   Psicología   del   desarrollo   en   la  adolescencia.  McGraw  Hill  Triadó,  C.  y
-Villar,   F.(Coords.).   (2006).   Psicología   de  la  vejez.  Alianza  →  Triadó,  C.  y  Villar,  F.(Coords.).
-(2006). Psicología de la vejez . Alianza
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Santrock, J.W. (2003). Psicología del desarrollo en la adolescencia. McGraw Hill
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+Triadó, C. y Villar, F.(Coords.). (2006). Psicología de la vejez . Alianza
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

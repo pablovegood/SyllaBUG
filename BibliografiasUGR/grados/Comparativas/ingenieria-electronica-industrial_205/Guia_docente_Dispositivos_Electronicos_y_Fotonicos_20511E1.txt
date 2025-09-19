@@ -2,29 +2,26 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Sze, S.M., Semiconductor devices: physics and technology., John wiley & sons, 2008
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Sima   Dimitrijev,   “Understanding  semiconductor  devices”,  Oxford  University  Press  ,  B.  G.  Streetman,
 S.   Banerjee,   “Solid   State   Electronic   Devices  (6ª  edición),  Prentice  Hall  ,  J.B.Roldán,  F.  Gamiz
-“Dispositivos   electrónicos  :  problemas  resueltos  (2ª  Edición)  RA-  MA  ,  2010  S.L.Chuang,  “Physics  of
+“Dispositivos   electrónicos   :   problemas  resueltos  (2ª  Edición)  RAMA  ,  2010  S.L.Chuang,  “Physics  of
 Photonic   Devices   2nd   edition”,   Wiley,  2009  C.  Papadopoulos,  “Solid  State  Electronics  Devices.  An
 Introduction”, Springer, 2014 A.S. Sedra, K.C.Smith, “Microelectronic Circuits”, Oxford University ,
-2004   personal   del   alumno   →   C.  Papadopoulos,  “Solid  State  Electronics  Devices.  An  Introduction”,
-Springer, 2014
+2004
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (1):
+------------------------------
+Sze, S.M., Semiconductor devices: physics and technology., John wiley & sons, 2008
+
+✅ Recursos añadidos (6):
 ------------------------------
 A.S. Sedra, K.C.Smith, “Microelectronic Circuits”, Oxford University, 2004
 
 B. G. Streetman, S. Banerjee, “Solid State Electronic Devices (6ª edición), Prentice Hall, 2007
+
+C. Papadopoulos, “Solid State Electronics Devices. An Introduction”, Springer, 2014
 
 J.B.Roldán, F. Gamiz “Dispositivos electrónicos : problemas resueltos (2ª Edición) RA-MA, 2010
 

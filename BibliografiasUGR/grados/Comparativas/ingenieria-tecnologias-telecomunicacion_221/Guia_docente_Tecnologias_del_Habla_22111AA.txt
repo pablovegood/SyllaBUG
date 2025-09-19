@@ -2,25 +2,33 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-"Speech Communications: Human and Machine", de D. O'Shaughnessy, IEEE Press 2002
-
 Cambridge   University   Press   Zeiler,   M.   D.,   &   Fergus,   R.  (2014).  Visualizing  and  understanding
 convolutional networks
 
-📚 Recursos sin cambios:
+STATISTICAL   PATTERN  RECOGNITION,  Andrew  R.  WebbKeith  D.  Copsey,  WILEY,  2011  Jurafsky,  D.,  &  Martin,
+J.   H.   (2020).   Speech   and   Language   Processing:   An  Introduction  to  Natural  Language  Processing,
+Computational Linguistics, and Speech Recognition. Cambridge University Press
+
+📚 Recursos sin cambios (10):
 ------------------------------
+"Speech   Communications:   Human   and   Machine",   de   D.   O'Shaughnessy,   IEEE  Press  2002.  Speech  and
+Language Processing
+
 Hasegawa-Johnson,   M.,  He,  L.,  Liu,  R.,  &  Verhelst,  W.  (2019).  Speech  analysis  for  voice  biometrics:
 Fundamentals and challenges. IEEE Signal Processing Magazine, 36(3)
+
+Hinton,   G.,   Deng,  L.,  Yu,  D.,  Dahl,  G.  E.,  Mohamed,  A.  R.,  Jaitly,  N.,  ...  &  Kingsbury,  B.  (2012).
+Deep   neural  networks  for  acoustic  modeling  in  speech  recognition:  The  shared  views  of  four  research
+groups. IEEE Signal Processing Magazine, 29(6), 82-97
 
 Huang,   X.,   Acero,   A.,  &  Hon,  H.  (2001).  Spoken  language  processing:  A  guide  to  theory,  algorithm,
 and system development. Prentice Hall PTR
 
-Jurafsky,   D.,   &   Martin,   J.  H.  (2020).  Speech  and  Language  Processing:  An  Introduction  to  Natural
-Language Processing, Computational Linguistics, and Speech Recognition. Cambridge University Press
-
 Lee, K.-F., & Hon, H.-W. (2015). Speaker recognition: Fundamentals and features. Springer
+
+Rabiner, L. R., & Juang, B. H. (1993). Fundamentals of speech recognition. Prentice Hall PTR
 
 Renals,   S.   (2020).  Neural  network  methods  for  speech  and  language  processing.  Cambridge  University
 Press
@@ -33,20 +41,7 @@ European conference on computer vision (pp. 818-833). Springer
 “Introduction   to  DigitalSpeech  Processing”.  L.  Rabiner,  R.  Shafer.  Foundations  and  Trends  on  Signal
 Processing. 2 "Spoken language processing" de X. Huang, A. Acero y H. Hon, Prentice-Hall 2
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-STATISTICAL   PATTERN  RECOGNITION,  Andrew  R.  WebbKeith  D.  Copsey,  WILEY,  2011  Jurafsky,  D.,  &  Martin,
-J.   H.   (2020).   Speech   and   Language   Processing:   An  Introduction  to  Natural  Language  Processing,
-Computational   Linguistics,   and   Speech   Recognition   →   STATISTICAL  PATTERN  RECOGNITION,  Andrew  R.
-WebbKeith D. Copsey, WILEY, 2011
-
-Rabiner, L. R., & Juang, B. H. (1993). Fundamentals of speech recognition. Prentice Hall Hinton, G.,
-Deng,   L.,   Yu,  D.,  Dahl,  G.  E.,  Mohamed,  A.  R.,  Jaitly,  N.,  ...  &  Kingsbury,  B.  (2012).  Deep  neural
-networks for acoustic modeling in speech recognition: The shared views of four research groups. IEEE
-Signal   Processing   Magazine,   29(6),  82-97  →  Rabiner,  L.  R.,  &  Juang,  B.  H.  (1993).  Fundamentals  of
-speech recognition. Prentice Hall PTR
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 "Automatic   Speech   Recognition,   A   Deep   Learning   Approach",   Dong   Yu   and   Li   Deng,  Signal  and
 Communication Tecnology
@@ -60,10 +55,9 @@ K E . SpringerBriefs in Speech Technology
 
 "Spoken language processing" de X. Huang, A. Acero y H. Hon, Prentice-Hall 2
 
-Hinton,   G.,   Deng,  L.,  Yu,  D.,  Dahl,  G.  E.,  Mohamed,  A.  R.,  Jaitly,  N.,  ...  &  Kingsbury,  B.  (2012).
-Deep   neural  networks  for  acoustic  modeling  in  speech  recognition:  The  shared  views  of  four  research
-groups. IEEE Signal Processing Magazine, 29(6), 82-97
+Jurafsky,   D.,   &   Martin,   J.  H.  (2020).  Speech  and  Language  Processing:  An  Introduction  to  Natural
+Language Processing, Computational Linguistics, and Speech Recognition. Cambridge University Press
 
-Speech and Language Processing
+STATISTICAL PATTERN RECOGNITION, Andrew R. WebbKeith D. Copsey, WILEY, 2011
 
-📊 Porcentaje estimado de cambio: 91% [█████████░]
+📊 Porcentaje estimado de cambio: 52% [█████░░░░░]

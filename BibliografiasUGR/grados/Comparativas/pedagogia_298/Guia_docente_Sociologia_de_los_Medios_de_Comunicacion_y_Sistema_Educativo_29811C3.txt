@@ -2,17 +2,21 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Bauman,   Zygmunt.,   &   Nuñez,   V.   (2008).   Los   retos  de  la  educación  en  la  modernidad  líquida  .
 Editorial Gedisa
 
 Bauman,   Zygmunt‏,   Rosenberg,   M.,   &   Arrambide   Squirru,  J.  (2017).  Modernidad  líquida  .  Fondo  de
 Cultura Económica de España
+
+Beck, U., & Alborés Rey, J. (2009). La sociedad del riesgo global (2a ed., 2a imp.). Siglo XXI
+
+Berger, P. L., & Luckmann, T. (2015). La construcción social de la realidad . Amorrortu
 
 Bourdieu, P., & Kauf, T. (2007). Sobre la televisión (2a ed. en "Compactos"). Anagrama
 
@@ -21,8 +25,6 @@ Paidós
 
 Castells,       M.       (2013).       Communication       Power.       Oxford       University      Press.
 https://www.worldcat.org/title/communication-power/oclc/855022865
-
-Durkheim, É., & Ferrer y Robert, A. (1997). Las reglas del método sociológico . AKAL
 
 Fernández Enguita, M. (2018). Más escuela y menos aula. La innovación en la perspectiva de un cambio
 de época. (1.a ed.). Morata
@@ -37,18 +39,13 @@ Macionis, J. J., & Plummer, K. (2011). Sociología; (4a ed.). Pearson Educación
 Wajcman,   J.,   &   Dodd,   N.   (2017).   The   Sociology   of   Speed:  Digital,  Organizational,  and  Social
 Temporalities (J. Wajcman & N. Dodd (eds.)). Oxford University Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Beck,   U.,   &  Alborés  Rey,  J.  (2009).  La  sociedad  del  riesgo  global  (2a  ed.,  2a  imp.).  Siglo  Berger,
-P.   L.,   &   Luckmann,   T.   (2015).   La   construcción  social  de  la  realidad  .  Amorrortu  →  Beck,  U.,  &
-Alborés Rey, J. (2009). La sociedad del riesgo global (2a ed., 2a imp.). Siglo XXI
+https://www.worldcat.org/title/communication-power/oclc/855022865   Durkheim,   É.,  &  Ferrer  y  Robert,
+A. (1997). Las reglas del método sociológico . AKAL
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
-Berger, P. L., & Luckmann, T. (2015). La construcción social de la realidad . Amorrortu
-
 hooks, b. (2021). Enseñar a transgredir. La educación como práctica de la libertad. Capitan Swing
 
 hooks, b. (2022). Enseñar pensamiento crítico. Rayo verde editorial
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

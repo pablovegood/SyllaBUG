@@ -2,11 +2,11 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (32):
 ------------------------------
 Arenas   Cabello,   J.M.,   2003.   Situación  actual  y  propuestas  para  la  mejora  de  la  funcionalidad  del
 corredor   fluvial   del   Guadiamar.  En:  García  Mora,  M.R.  (Coord.),  Conectividad  ambiental:  las  áreas
@@ -74,16 +74,6 @@ Islas Baleares. ICONA, Serie Técnica. Madrid
 Gómez-Limón García, J. y M. Múgica de la Guerra (Editores). 2000. Actas del 5º Congreso de EUROPARC-
 España. ESPARC‘99. Evaluación de la gestión de los espacios naturales protegidos
 
-Múgica   de   la  Guerra  M.,  Martínez  Alandi  J  C.,  Puertas  Blázquez  J.,  García  Ventura  D.,  Muñoz  Santos
-M.,   Gómez-Limón   García   J.,   Atauri   Mezquida   J.A.   2021.   Anuario   2020   del  estado  de  las  áreas
-protegidas en España, EUROPARC-España. Ed. Fundación Fernando González Bernáldez. Madrid
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Gómez-Limón   García,  J.,  J.V.  de  Lucio  Fernández  y  M.  Múgica  de  la  Guerra.  2000.  De  la  declaración  a
 la   gestión  activa.  Los  espacios  naturales  protegidos  del  Estado  español  en  el  umbral  del  siglo  XXI.
 Fundación   Fernando   González   Bernáldez,   Madrid,  94  pp.  Herrero,  C.  y  A.  Miguélez  (Coordinadores).
@@ -110,10 +100,18 @@ Meaza, G. (coord) (2000): Metodología y práctica de la Biogeografía. El Serba
 Montero,   J.   A.  2000.  Faltan  mil  espacios  naturales  en  la  lista  española  para  Natura  2000.  Quercus,
 174: 48-49
 
+Múgica   de   la  Guerra  M.,  Martínez  Alandi  J  C.,  Puertas  Blázquez  J.,  García  Ventura  D.,  Muñoz  Santos
+M.,   Gómez-Limón   García   J.,   Atauri   Mezquida   J.A.   2021.   Anuario   2020   del  estado  de  las  áreas
+protegidas en España, EUROPARC-España. Ed. Fundación Fernando González Bernáldez. Madrid
+
 Shafer,C.L.   1990.  Nature  Reserves:  Island  Theory  and  Conservation  Practice.  Smithsonian  Institution
 Press. Washington
 
 Soulé,   M.   Ed.   1986.   Conservation   Biology:   The   Science   of   Scarcity   and   Diversity.  Sinauer.
 Sunderland, Mass. USA
 
-📊 Porcentaje estimado de cambio: 43% [████░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

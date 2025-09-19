@@ -2,11 +2,11 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
 BLANCA,   G.   (2006-2007,   coord.).   Proyecto   Andalucía   Naturaleza.  Botánica,  5  vols.  Publicaciones
 Comunitarias-Grupo Hércules, Sevilla
@@ -59,11 +59,7 @@ WIRTH, V. & col. (2004). Guía de campo de los líquenes, musgos y hepáticas. O
 
 ZIMMERMANN, W. (1976). Evolución Vegetal. Ed. Omega, Barcelona
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

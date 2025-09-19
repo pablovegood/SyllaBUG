@@ -2,12 +2,14 @@
 Grado: optica-optometria (287)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
+BARDINI R. La función visual en el análisis optométrico. Gráficas Valencia SA, Madrid 1983
+
 BIRNBAUM M.: Optometric Management of Nearpoint Vision Disorders. Butterworth-Heinemann, 1993
 
 BORRÁS   MR.   CASTAÑÉ   M,  ONDATEGUI  JC,  PACHECO  M,  PERÍS  E,  SÁNCHEZ  E,  VARÓN  C.  Optometría.  Manual  de
@@ -23,6 +25,8 @@ GILMAN, G.: Optometría de la conducta. Artes Gráficas Lozano. Ciudad Real 1991
 GOSS DA.: Ocular Accommodation, Convergence, and Fixation Disparity. Butterworths-Heinemann 1995
 
 HOWARD IP, ROGERS BJ. Binocular Vision and Stereopsis. Oxford University Press, Clarendon Press 1995
+
+HUGONNIER, R. Estrabismos. Heteroforias y parálisis oculomotrices. Ed. Toray Masson. Barcelona 1973
 
 KANSKI, J. J. Oftalmología clínica. Ed. Doyma. Barcelona. 1994
 
@@ -51,23 +55,16 @@ RUTSTEIN RP, DAUM KM. Anomalies of Binocular Vision: Diagnosis & Management. Mos
 
 SCHEIMAN MH, ROUSE M. Optometric Management of Learning Related Vision Problems. Mosby 1994
 
+SCHEIMAN   MH,   WICK   B.  Clinical  management  of  binocular  vision.  Heterophoric,  accommodative  and  eye
+movement disorders. Lippincott Williams & Wilkins, 2002, 2008 (2ª y 3ª ed.)
+
 SCHEIMAN   MH,   WICK   B.   Tratamiento   Clínico   de   la   Visión  Binocular,  Disfunciones  Heterofóricas,
 Acomodativas y Oculomotoras. Ciagami, Madrid 1996
 
 SKEFFINGTON, A.M. Clinical Applied Optometry, OEPF Papers. Santa Ana. California 1973
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-SCHEIMAN   MH,   WICK   B.  Clinical  management  of  binocular  vision.  Heterophoric,  accommodative  and  eye
-movement   disorders.   Lippincott   Williams  &  Wilkins,  2002,  2008  (2ª  y  3ª  ed.)  BARDINI  R.  La  función
-visual   en   el   análisis   optométrico.   Gráficas   Valencia   SA,   Madrid  1983  →  BARDINI  R.  La  función
-visual en el análisis optométrico. Gráficas Valencia SA, Madrid 1983
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-HUGONNIER, R. Estrabismos. Heteroforias y parálisis oculomotrices. Ed. Toray Masson. Barcelona 1973
-
-SCHEIMAN   MH,   WICK   B.  Clinical  management  of  binocular  vision.  Heterophoric,  accommodative  and  eye
-movement disorders. Lippincott Williams & Wilkins, 2002, 2008 (2ª y 3ª ed.)
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

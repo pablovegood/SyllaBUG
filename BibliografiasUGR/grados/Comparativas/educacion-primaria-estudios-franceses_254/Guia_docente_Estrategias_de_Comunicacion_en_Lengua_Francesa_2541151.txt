@@ -2,16 +2,13 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
 Arenilla-Beros, A. (2001) Améliorer votre style. L’expression écrite et orale. Paris : Hatier
-
-Arrivé,    M.,    Blanche-Benveniste,   C.,   Chevalier,   J.-C.,   Peytard,   J.,   Grammaire   du   français
-contemporain, Paris, Larousse, coll. Références, 2002
 
 Bled,   E.,   et   Bled,   O.,   Le   Bled.   Ortographe,   grammaire,  conjugaison.  Pour  résoudre  toutes  les
 difficultés de la langue française, Paris, Hachette, 2004
@@ -22,17 +19,28 @@ Paris, Clé International, 2006
 Bérard,   E.   et   Lavenne,   Chr.,   Grammaire   utile   du   français,   exercices  pour  l’apprentissage  du
 français, Paris, Hatier/Didier, 2004
 
+CD-Rom,   Grammaire.   450   nouveaux   exercices.   Niveau   avancé,   Clé   International,  coll.  Le  nouvel
+entraînez- vous
+
 Charnet, Cl. (1997) Rédiger un résumé, un compte-rendu, une synthèse. Paris : Hachette
 
 Chollet, I. et Robert, J.-M., Précis de conjugaison, Paris, Clé International
 
 Colin, J.P., et alii, Dictionnaire de l’argot français et de ses origines, Paris, Larousse, 2001
 
+Conjugaison et autres Consultez les manuels de conjugaison de Hatier, Larousse ou Robert Nathan
+
+Elle   sera   offerte   par   les  professeurs  lors  du  développement  de  chaque  partie  de  la  matière.  Elle
+comportera des références aux grammaires d’exercices, aux dictionnaires, à la conjugaison, etc
+
 Enckell, P. et Rézeau, P., Dictionnaire des onomatopées, Paris, PUF, 2003
 
 Genouvrier, E., et alii, Dictionnaire des synonymes, Paris, Larousse, 2003
 
 Goosse, A., Grevisse. Le Bon Usage, Paris, DeBoeck/Duculot, 1994
+
+Grammaires et exercices Arrivé, M., Blanche-Benveniste, C., Chevalier, J.-C., Peytard, J., Grammaire
+du français contemporain, Paris, Larousse, coll. Références, 2002
 
 Grand dictionnaire. Synonymes & Contraires, Paris, Larousse, 2004
 
@@ -63,49 +71,35 @@ Robert, 2006
 
 Rougerie, A. (1995) Trouver le mot juste. Expression orale et écrite. Paris : Hatier
 
+Révisions. 450 nouveaux exercices. Niveau avancé, Clé International, coll. Le nouvel entraînez-vous
+
+Selección de artículos sobre técnicas de traducción y sobre comparación de los sistemas lingüísticos
+del español y del francés (se actualiza cada año)
+
 Siréjols,   E.,   Tempesta,   G.,   Renaud,   D.,   Claude,   P.,  Grammaire.  450  nouveaux  exercices,  Niveau
 avancé, (livre et cd-rom), Paris, Clé International, 2006
+
+Une lecture assidue de publications quotidiennes et hebdomadaires sera de même conseillée (Le monde,
+Le nouvel observateur, l’Express...)
 
 Wagner,   L.R.   et   Pinchon,   J.,  Grammaire  du  français  classique  et  moderne,  Paris,  Hachette,  Paris,
 2000
 
 Weinrich, H., Grammaire textuelle du français, Paris, Didier/Hatier, 1985
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-CD-Rom,   Grammaire.   450   nouveaux   exercices.   Niveau   avancé,   Clé   International,  coll.  Le  nouvel
-entraînez- vous
-
-Conjugaison et autres Consultez les manuels de conjugaison de Hatier, Larousse ou Robert Nathan
-
-Elle   sera   offerte   par   les  professeurs  lors  du  développement  de  chaque  partie  de  la  matière.  Elle
-comportera des références aux grammaires d’exercices, aux dictionnaires, à la conjugaison, etc
-
 Grammaires et exercices
 
 International, 1997
-
-Lectures   attentives,  dictionnaire  et  crayon  en  mains,  des  oeuvres  littéraires  mises  au  programme  et
-de toute autre oeuvre qui soulèverait l’intérêt et la
 
 Lectures conseillées
 
 Publications   quotidiennes   et  hebdomadaires  :  Le  Monde,  Marianne,  Le  Nouvel  Observateur,  L’Express,
 Le Figaro Magazine…
 
-Rey-Debove, J., Dictionnaire du français, Le Robert & CLE International. Cf. les activités gratuites
-du site www.dicofle.net permettant de se perfectionner en
+curiosité de l’étudiant
 
-Révisions. 450 nouveaux exercices. Niveau avancé, Clé International, coll. Le nouvel entraînez-vous
+français autour des contenus du Robert-Clé International
 
-Selección de artículos sobre técnicas de traducción y sobre comparación de los sistemas lingüísticos
-del español y del francés (se actualiza cada año)
-
-Une lecture assidue de publications quotidiennes et hebdomadaires sera de même conseillée (Le monde,
-Le nouvel observateur, l’Express...)
-
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

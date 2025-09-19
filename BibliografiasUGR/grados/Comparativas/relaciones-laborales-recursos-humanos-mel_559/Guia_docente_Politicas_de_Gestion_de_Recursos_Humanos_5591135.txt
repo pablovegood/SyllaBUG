@@ -2,31 +2,20 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Gagné,   M.  (2014).  The  Oxford  handbook  of  work  engagement,  motivation,  and  selfdetermination  theory.
+Oxford   University   Press   Harzing,   A.W.   &   Pinnington,   A.   (2011).   International  Human  Resource
+Management. Sage
 
-📚 Recursos sin cambios:
-------------------------------
-Martín-Quirós,   M.,   Díaz,   P.   y   Ortega,   V.  (2008).  Evaluación  del  desempeño.  En  M.  A.  Mañas  y  A.
-Delgado, Psicología de los Recursos Humanos. Madrid: Pirámide. Capítulo 5 pp: 135-167
+Washington   DC:   American   Psychology   Association   Armstrong,   M.,  &  Taylor,  S.  (2014):  Armstrong's
+handbook   of   human  resource  management  practice.  Kogan  Page  Publishers  Aswathappa,  K.  (2013).  Human
+resource management: Text and cases. Tata McGraw-Hill Education
 
-Tema 1. Modelos de gestión de recursos humanos Pulido, M., Luque, P. y Palomo, A. (2008). Modelos de
-gestión de Recursos Humanos. En M. A
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (14):
 ------------------------------
 American   Psychology   Association   (2018).   Thesaurus   of   Psychological  Index  Terms.  Washington  DC:
 American Psychology Association
-
-Armstrong,   M.,   &   Taylor,   S.   (2014):  Armstrong's  handbook  of  human  resource  management  practice.
-Kogan Page Publishers
-
-Aswathappa, K. (2013). Human resource management: Text and cases. Tata McGraw-Hill Education
 
 Bretones,   F.   D.   y   González,   J.   M.   (2009).   Absentismo  y  rotación  laboral.  En  V.  Zarco  y  J.  M.
 González, Psicología del Trabajo. Madrid: Pirámide. Capítulo 4 pp: 91-113
@@ -44,27 +33,44 @@ Pearson
 
 Edwards, T. & Rees, C. (2006). International Human Resource Management. Prentice Hall, 1st edition
 
-Gagné, M. (2014). The Oxford handbook of work engagement, motivation, and self-determination theory.
-Oxford University Press
-
-Harzing, A.W. & Pinnington, A. (2011). International Human Resource Management. Sage
-
 Hollinshead,   G.   (2010).   International  and  Comparative  Human  Resource  Management.  McGraw  Hill,  1st
 edition
 
 Manuti A. & de Palma D. (2014). Why human capital is important for organizations: People come first.
 London: Palgrave McMillan
 
-Mañas,   M.   A.   y   Salvador,   C.   M.   (2008).   La  comunicación  en  las  organizaciones.  En  Zarco,  V,  y
-Rodríguez,   A.   (dirs.)  y.  A.  Martín,  M.  A.  y  F.  D.  Bretones  (coords.)  Psicología  de  los  grupos  y  de
-las organizaciones. Madrid: Pirámide. Capítulo 4 pp. 93-116
+Martín-Quirós,   M.,   Díaz,   P.   y   Ortega,   V.  (2008).  Evaluación  del  desempeño.  En  M.  A.  Mañas  y  A.
+Delgado, Psicología de los Recursos Humanos. Madrid: Pirámide. Capítulo 5 pp: 135-167
 
 Palomo, A., Pulido, M. y Luque, P. (2008). Procesos de cambio y desarrollo en las Organizaciones. En
 Zarco,   V,   y  Rodríguez,  A.  (dirs.)  y.  A.  Martín,  M.  A.  y  F.  D.  Bretones  (coords.)  Psicología  de  los
 grupos y de las organizaciones. Madrid: Pirámide. Capítulo 2 pp. 43-67
 
+Pearson   Educación   Mañas,  M.  A.  y  Salvador,  C.  M.  (2008).  La  comunicación  en  las  organizaciones.  En
+Zarco,   V,   y  Rodríguez,  A.  (dirs.)  y.  A.  Martín,  M.  A.  y  F.  D.  Bretones  (coords.)  Psicología  de  los
+grupos y de las organizaciones. Madrid: Pirámide. Capítulo 4 pp. 93-116
+
 Pulido,   M.,  Luque,  P.  y  Palomo,  A.  (2008).  Modelos  de  gestión  de  Recursos  Humanos.  En  M.  A.  Mañas  y
 A. Delgado, Psicología de los Recursos Humanos. Madrid: Pirámide. Capítulo 2 pp: 43-70
+
+Thomas, J. & Herson, M. (2002). Handbook of Mental Health in the Workplace. Sage
+
+de   la   Calle   Durán,   M.C.,  de  Urbina  Criado,  M.O.  (2018).  Fundamentos  de  recursos  humanos.  Pearson
+Educación
+
+✅ Recursos añadidos (10):
+------------------------------
+Armstrong,   M.,   &   Taylor,   S.   (2014):  Armstrong's  handbook  of  human  resource  management  practice.
+Kogan Page Publishers
+
+Aswathappa, K. (2013). Human resource management: Text and cases. Tata McGraw-Hill Education
+
+Gagné, M. (2014). The Oxford handbook of work engagement, motivation, and self-determination theory.
+Oxford University Press
+
+Harzing, A.W. & Pinnington, A. (2011). International Human Resource Management. Sage
+
+Tema 1. Modelos de gestión de recursos humanos
 
 Tema 2. Políticas de evaluación del desempeño y carrera profesional
 
@@ -76,9 +82,4 @@ Tema 5. Políticas de gestión de recursos humanos saludables
 
 Tema 6. Procesos de desvinculación laboral: Absentismo y rotación
 
-Thomas, J. & Herson, M. (2002). Handbook of Mental Health in the Workplace. Sage
-
-de   la   Calle   Durán,   M.C.,  de  Urbina  Criado,  M.O.  (2018).  Fundamentos  de  recursos  humanos.  Pearson
-Educación
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

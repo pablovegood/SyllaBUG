@@ -2,11 +2,12 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+CANO   GARCÍA,   G.   (Dir.)   (2000).   Conocer   Andalucía.   Gran  Enciclopedia  del  siglo  XXI,  2001  LÓPEZ
+ONTIVEROS, A. (Coord.) (2003): Geografía de Andalucía. Barcelona, Ariel, 2003
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 AJA, E (2003): El Estado autonómico. Madrid, Alianza editorial
 
@@ -22,14 +23,10 @@ XIX. Instituto de cartografía de Andalucía. Consejería de Obras públicas y V
 ZOIDO   NARANJO,   F.  y  CARAVACA  BARROSO  (Coords)  (2006).  Segundo  Informe  de  desarrollo  territorial  de
 Andalucía, Sevilla, Universidad de Sevilla
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CANO   GARCÍA,   G.   (Dir.)   (2000).   Conocer   Andalucía.   Gran  Enciclopedia  del  siglo  XXI,  2001  LÓPEZ
-ONTIVEROS,   A.   (Coord.)   (2003):   Geografía  de  Andalucía.  Barcelona,  Ariel,  2003  →  LÓPEZ  ONTIVEROS,
-A. (Coord.) (2003): Geografía de Andalucía. Barcelona, Ariel, 2003
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 CANO GARCÍA, G. (Dir.) (2000). Conocer Andalucía. Gran Enciclopedia del siglo XXI, 2001
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+LÓPEZ ONTIVEROS, A. (Coord.) (2003): Geografía de Andalucía. Barcelona, Ariel, 2003
+
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

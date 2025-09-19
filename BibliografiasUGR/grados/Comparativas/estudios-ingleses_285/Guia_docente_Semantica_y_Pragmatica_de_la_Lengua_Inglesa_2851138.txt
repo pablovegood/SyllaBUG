@@ -2,16 +2,21 @@
 Grado: estudios-ingleses (285)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
+(Chapter   2)   Chierchia,   G.   &   S.   McConnell-Ginet   (2000)  Meaning  and  grammar.  An  introduction  to
+semantics, 2nd ed. Cambridge, MA: MIT Press
+
 Bach, K. (2003) “Speech acts”, Routledge Encyclopedia of Philosophy. London: Routledge
 
 Bach,   K.   and  R.  M.  Harnish  (1979),  Linguistic  Communication  and  Speech  Acts,  Cambridge,  Mass.:  MIT
 Press
+
+Bauer, L. (1983) English word-formation. Cambridge: Cambridge University Press. (Chapter 2)
 
 Carston,   R.   (2002)   Thoughts   and   utterances:   The   pragmatics  of  explicit  communication.  Oxford:
 Blackwell
@@ -52,15 +57,8 @@ Sperber, D. & D. Wilson (1986/1995): Relevance. Communication and cognition. Oxf
 Sperber,   D.   &  D.  Wilson  (2004):  “Relevance  Theory”  In  Horn,  L.R.  &  Ward,  G.  (eds.)  The  Handbook  of
 Pragmatics. Oxford: Blackwell; 607-632
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Bauer,   L.   (1983)   English   word-formation.   Cambridge:   Cambridge   University   Press.   (Chapter  2)
-Chierchia, G. & S. McConnell-Ginet (2000) Meaning and grammar. An introduction to semantics, 2nd ed.
-Cambridge,   MA:   MIT   Press   →   Chierchia,   G.   &   S.  McConnell-Ginet  (2000)  Meaning  and  grammar.  An
-introduction to semantics, 2nd ed. Cambridge, MA: MIT Press
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Bauer, L. (1983) English word-formation. Cambridge: Cambridge University Press. (Chapter 2)
-
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

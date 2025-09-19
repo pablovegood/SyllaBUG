@@ -2,24 +2,37 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Principles   of   Gene   Manipulation.  8ª  edition.  SB  Primrose,  R  Twyman.  (2016)  Wiley-  Blackwell,  ISBN
-978-1405156660.   Libro   que   recoge   las   técnicas   básicas   de   manipulación   Elsevier,  2012.  ISBN:
-9788480866477   Libro   de   Biología   Molecular   con   excelentes  ilustraciones  que  incluye  un  capítulo
-excelente sobre DNA recombinante y sus aplicaciones
+Chem.   2018;29(8):2561-2575   Salto   R,  Manzano  M,  Girón  MD,  Cano  A,  Castro  A,  Vílchez  JD,  Cabrera  E,
+López-Pedrosa   JM.   A   Slow-Digesting  Carbohydrate  Diet  during  Rat  Pregnancy  Protects  Offspring  from
+Non-Alcoholic   Fatty   Liver   Disease  Risk  through  the  Modulation  of  the  CarbohydrateResponse  Element
+and Sterol Regulatory Element Binding Proteins. Nutrients. 2019 Apr 14;11(4). pii: E844
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 Biología   Molecular   del   Gen.   7ª   Edición,   Watson,   JD,   Baker,  TA  et  al.  (2016)  Editorial  Médica
 Panamericana,   ISBN:   9786079356897.   Libro   de   texto  de  referencia  para  consulta  del  alumno  de  los
 procesos básicos de transmisión de la información génica
+
+Biopharmaceutical Drug Design and Development, Second Edition, edited by Susanna Wu-Pong and Yongyut
+Rojanasakul.   (2008)   Humana   Press,   ISBN:   978-1-58829716-7.   Libro  específicamente  orientado  a  la
+asignatura   en  la  que  se  aborda  desde  el  punto  de  vista  de  la  ingeniería  genética  y  la  Biotecnología
+el diseño y caracterización de fármacos
+
+De   Los  Reyes-Berbel  E,  Salto-Gonzalez  R,  Ortega-Muñoz  M,  Reche-Perez  FJ,  Jodar-Reyes  AB,  Hernandez-
+Mateo   F,   Giron-Gonzalez   MD,  Santoyo-Gonzalez  F.  PEI-NIR  Heptamethine  Cyanine  Nanotheranostics  for
+Tumor Targeted Gene Delivery. Bioconjug Chem. 2018;29(8):2561-2575
 
 Delgado   A,   Salto   R,   S.  Marqués  S  and  Ramos  JL  “Single  Amino  Acids  Changes  in  the  Signal  Receptor
 Domain   of   XylR   Resulted   in   Mutants   that   Stimulate  Transcription  in  the  Absence  of  Effectors”.
 Journal   of  Biological  Chemistry  270  (1995):  5144-5150.  Ejemplo  de  estudio  de  la  relación  estructura
 función   utilizando   métodos   químicos   de   mutagénesis   al   azar  en  un  regulador  transcripcional  de
 interés biotecnológico
+
+Genetic   engineering:  Manipulating  the  Mechanisms  of  Life,  First  Edition,  Russ  Hodge  R.  (2009)  Facts
+On   File,   Inc.   ISBN:  978-0-8160-6681-0.  Libro  introductorio  muy  sencillo  de  las  aplicaciones  de  la
+ingeniería genética en el campo de la biomedicina
 
 Girón   MD,   Sevillano   N,   Salto   R,   Haidour  A,  Manzano  M,  Jiménez  ML,  Rueda  R  and  López-Pedrosa  JM
 “Salacia oblonga extract increases glucose transporter 4-mediated glucose uptake in L6 rat myotubes:
@@ -45,6 +58,15 @@ Molecular   Cell   Biology.   8ª   Edition,   Lodish   I,   Berk  A,  et  al.  
 978-1464183393.   Libro   generalista   de   Biología   Molecular  y  Celular,  útil  al  alumno  para  recordar
 conceptos básicos de transducción de señales y regulación de la expresión génica en eucariotas
 
+Pharmaceutical   Biotechnology,  Fundamentals  and  Applications,  4th  Edition,  Edited  by  Crommelin,  Daan
+J.   A.,   Sindelar,   Robert   D.,  Meibohm,  Bernd  (2013)  Springer  ISBN:  978-1-4614-6486-0.  Compendio  de
+técnicas   de   Biotecnología  e  ingeniería  genética  aplicadas  al  diseño  y  caracterización  de  fármacos.
+Incluye aspectos de regulación, ética e industrias basadas en la biotecnología
+
+Principles   of   Gene   Manipulation.   8ª  edition.  SB  Primrose,  R  Twyman.  (2016)  Wiley-Blackwell,  ISBN
+978-1405156660.   Libro   que   recoge   las   técnicas   básicas  de  manipulación  de  ácidos  nucleicos,  DNA
+recombinante e ingeniería genética
+
 Puente-Muñoz   V,   Paredes   JM,  Resa  S,  Vílchez  JD,  Zitnan  M,  Miguel  D,  Girón  MD,  Cuerva  JM,  Salto  R,
 Crovetto L. New Thiol-Sensitive Dye Application for Measuring Oxidative Stress in Cell Cultures. Sci
 Rep. 2019; 9(1):1659
@@ -57,6 +79,11 @@ aplicaciones muy variadas incluyendo las aplicaciones al diseño de fármacos
 Ribozymes   and   siRNA   protocols,  Sioud,  Mouldy  (Ed.)  (2004)  Methods  in  Molecular  Biology,  Vol.  252.
 Springler,   ISBN:   978-1-58829-226-1.   Métodos   más   communes   utilizados   para  el  estudio  de  iRNA  y
 silenciamiento
+
+Rosé   JR,   Salto  R  and  Craik  CS  “Regulation  of  Autoproteolysis  of  the  HIV-1  and  HIV-2  Proteases  with
+Engineered   Amino   Acid   Substitutions”.   Journal   of   Biological  Chemistry  268  (1993):  11939-11945.
+Artículo   clásico  de  modificación  mediante  ingeniería  genética  de  una  diana  molecular  para  facilitar
+su uso en el diseño de fármacos
 
 Salto   R,   Babé   LM,   Li  J,  Rosé  JR,  Yu  Z,  Burlingame  A,  De  Voss  J,  Sui  Z,  Ortiz  de  Motellano  PR  and
 Crack   CS  “In  vitro  Characterization  of  Nonpeptide  Irreversible  Inhibitors  of  HIV  Proteases”  Journal
@@ -74,59 +101,6 @@ Structure   and   Mechanism  in  Protein  Science.  A  Guide  to  Enzyme  Cataly
 Edition,   Fersht,   A.  (1999)  W.  H.  Freeman  &  Co,  ISBN:  0-7167-3268-8.  Reedición  de  un  libro  clásico,
 fundamental para la comprensión de la relación estructura función en proteínas
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-De Los Reyes-Berbel E, Salto-Gonzalez R, Ortega-Muñoz M, Reche-Perez FJ, Jodar- Reyes AB, Hernandez-
-Mateo   F,   Giron-Gonzalez   MD,  Santoyo-Gonzalez  F.  PEI-NIR  Heptamethine  Cyanine  Nanotheranostics  for
-Tumor   Targeted   Gene   Delivery.   Bioconjug  Chem.  2018;29(8):2561-2575  Salto  R,  Manzano  M,  Girón  MD,
-Cano A, Castro A, Vílchez JD, Cabrera E, López-Pedrosa JM. A Slow-Digesting Carbohydrate Diet during
-Rat   Pregnancy  Protects  Offspring  from  Non-Alcoholic  Fatty  Liver  Disease  Risk  through  the  Modulation
-of   the   Carbohydrate-   Response   Element  and  Sterol  Regulatory  Element  Binding  Proteins.  Nutrients.
-2019   Apr   14;11(4).   pii:   E844   →   De  Los  Reyes-Berbel  E,  Salto-Gonzalez  R,  Ortega-Muñoz  M,  Reche-
-Perez   FJ,   Jodar-Reyes   AB,   Hernandez-Mateo   F,   Giron-Gonzalez   MD,   Santoyo-Gonzalez   F.  PEI-NIR
-Heptamethine    Cyanine    Nanotheranostics    for    Tumor   Targeted   Gene   Delivery.   Bioconjug   Chem.
-2018;29(8):2561-2575
-
-Biopharmaceutical   Drug   Design   and   Development,   Second   Edition,   edited  by  Susanna  Wu-  Pong  and
-Yongyut   Rojanasakul.  (2008)  Humana  Press,  ISBN:  978-1-58829716-7.  Libro  específicamente  orientado  a
-la   asignatura   en   la   que   se   aborda   desde  el  punto  de  vista  de  la  Pharmaceutical  Biotechnology,
-Fundamentals   and   Applications,   4th  Edition,  Edited  by  Crommelin,  Daan  J.  A.,  Sindelar,  Robert  D.,
-Meibohm,   Bernd   (2013)   Springer  ISBN:  industrias  basadas  en  la  biotecnología.  Genetic  engineering:
-Manipulating   the   Mechanisms  of  Life,  First  Edition,  Russ  Hodge  R.  (2009)  Facts  On  File,  Inc.  ISBN:
-978-0-8160-6681-0. Libro introductorio muy sencillo Walsh G. “Second-generation biopharmaceuticals”.
-European   Journal  of  Pharmaceutics  and  Biopharmaceutics  58  (2004):  185–196.  Revisión  de  medicamentos
-producidos   por   Rosé  JR,  Salto  R  and  Craik  CS  “Regulation  of  Autoproteolysis  of  the  HIV-1  and  HIV-2
-Proteases   with   Engineered   Amino  Acid  Substitutions”.  Journal  of  Biological  Chemistry  de  una  diana
-molecular   para   facilitar   su   uso   en   el   diseño   de  fármacos  →  Biopharmaceutical  Drug  Design  and
-Development, Second Edition, edited by Susanna Wu-Pong and Yongyut Rojanasakul. (2008) Humana Press,
-ISBN: 978-1-58829716-7. Libro específicamente orientado a la asignatura en la que se aborda desde el
-punto de vista de la ingeniería genética y la Biotecnología el diseño y caracterización de fármacos
-
-✅ Recursos añadidos:
-------------------------------
-Genetic   engineering:  Manipulating  the  Mechanisms  of  Life,  First  Edition,  Russ  Hodge  R.  (2009)  Facts
-On   File,   Inc.   ISBN:  978-0-8160-6681-0.  Libro  introductorio  muy  sencillo  de  las  aplicaciones  de  la
-ingeniería genética en el campo de la biomedicina
-
-Pharmaceutical   Biotechnology,  Fundamentals  and  Applications,  4th  Edition,  Edited  by  Crommelin,  Daan
-J.   A.,   Sindelar,   Robert   D.,  Meibohm,  Bernd  (2013)  Springer  ISBN:  978-1-4614-6486-0.  Compendio  de
-técnicas   de   Biotecnología  e  ingeniería  genética  aplicadas  al  diseño  y  caracterización  de  fármacos.
-Incluye aspectos de regulación, ética e industrias basadas en la biotecnología
-
-Principles   of   Gene   Manipulation.   8ª  edition.  SB  Primrose,  R  Twyman.  (2016)  Wiley-Blackwell,  ISBN
-978-1405156660.   Libro   que   recoge   las   técnicas   básicas  de  manipulación  de  ácidos  nucleicos,  DNA
-recombinante e ingeniería genética
-
-Rosé   JR,   Salto  R  and  Craik  CS  “Regulation  of  Autoproteolysis  of  the  HIV-1  and  HIV-2  Proteases  with
-Engineered   Amino   Acid   Substitutions”.   Journal   of   Biological  Chemistry  268  (1993):  11939-11945.
-Artículo   clásico  de  modificación  mediante  ingeniería  genética  de  una  diana  molecular  para  facilitar
-su uso en el diseño de fármacos
-
-Salto   R,   Manzano   M,   Girón  MD,  Cano  A,  Castro  A,  Vílchez  JD,  Cabrera  E,  López-Pedrosa  JM.  A  Slow-
-Digesting   Carbohydrate   Diet  during  Rat  Pregnancy  Protects  Offspring  from  Non-Alcoholic  Fatty  Liver
-Disease   Risk   through   the   Modulation   of   the  Carbohydrate-Response  Element  and  Sterol  Regulatory
-Element Binding Proteins. Nutrients. 2019 Apr 14;11(4). pii: E844
-
 Texto   ilustrado   e   interactivo   de   biología  molecular  e  ingeniería  genética.  Herráez  A,  Elsevier,
 2012.   ISBN:   9788480866477   Libro  de  Biología  Molecular  con  excelentes  ilustraciones  que  incluye  un
 capítulo excelente sobre DNA recombinante y sus aplicaciones
@@ -135,4 +109,11 @@ Walsh    G.    “Second-generation    biopharmaceuticals”.    European    Jou
 Biopharmaceutics   58  (2004):  185–196.  Revisión  de  medicamentos  producidos  por  técnicas  de  ingeniería
 genética de primera y segunda generación
 
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+✅ Recursos añadidos (1):
+------------------------------
+Salto   R,   Manzano   M,   Girón  MD,  Cano  A,  Castro  A,  Vílchez  JD,  Cabrera  E,  López-Pedrosa  JM.  A  Slow-
+Digesting   Carbohydrate   Diet  during  Rat  Pregnancy  Protects  Offspring  from  Non-Alcoholic  Fatty  Liver
+Disease   Risk   through   the   Modulation   of   the  Carbohydrate-Response  Element  and  Sterol  Regulatory
+Element Binding Proteins. Nutrients. 2019 Apr 14;11(4). pii: E844
+
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

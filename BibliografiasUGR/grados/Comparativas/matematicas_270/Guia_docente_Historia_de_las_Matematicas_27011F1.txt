@@ -2,16 +2,18 @@
 Grado: matematicas (270)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (28):
 ------------------------------
 A.   Romero,   Geometría  y  Relatividad:  una  introducción  a  la  geometría  básica  de  la  teoría,  Rev.  Mat.
 Epsilon, 14 (1998), 305-320
 
 B.L. van der Waerden, A History of Algebra, Springer-Verlag, 1985
+
+B.L. van der Waerden, Hamilton’s Discovery of Quaternions, Math. Mag. 49, 227-234. 1976
 
 C. B. Boyer, Historia de la matemática, Alianza Universidad Textos, 1986
 
@@ -26,6 +28,8 @@ E. T. Bell, Men of mathematics, Pelican books, 1953
 
 F.   Brauer   y   C.   Castillo-Chávez,   Mathematical   Models   in   Population   Biology  and  Epidemiology,
 SpringerVerlag, 2001
+
+F. Klein, Erlangen Program, http://math.ucr.edu/home/baez/erlangen/
 
 F.N. David, Games, Gods and Gambling: A history of Probability and Statistical Ideas, Dover, 1998
 
@@ -69,14 +73,8 @@ T. Mitchell, Machine Learning, McGraw Hill, 1997
 
 W. R. Knorr, The Ancient Tradition of Geometric Problems, Dover, 1993
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-B.L. van der Waerden, Hamilton’s Discovery of Quaternions, Math. Mag. 49, 227-234. 1976
-
-F. Klein, Erlangen Program, http://math.ucr.edu/home/baez/erlangen/
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

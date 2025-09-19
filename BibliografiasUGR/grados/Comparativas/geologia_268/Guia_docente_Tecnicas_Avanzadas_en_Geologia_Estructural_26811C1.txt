@@ -2,11 +2,13 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Twiss,   R.J.  y  Moores,  E.M.  (2007,  2ª  ed.)  Structural  Geology,  Freeman,  cap  15  Ramsay,  J.G.  y  Huber,
+M.   (1987-Vol  2),  The  Techniques  of  Modern  Structural  Geology,  Academic  Press,  sesión  23  Twiss,  R.J.
+y Moores, E.M. (2007, 2ª ed.), caps. 4, 5, 6
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Angelier, J. (1994), en P.L. Hancock (ed.) Continental Deformation, Pergamon Press
 
@@ -17,18 +19,11 @@ Ramsay, J.G. y Huber, M. (1987-Vol 2), sesión 22
 Temas   1   y   3   Twiss,   R.J.  y  Moores,  E.M.  (2007,  2ª  ed.)  Sructural  Geology,  Freeman,  caps.  7,  8,  9
 Fossen, H. (2016, 2ª ed.) Structural Geology, Pergamon, caps. 4, 5, 7, 8, 9, 10
 
-Temas   7   y   9   Suppe,  J.  (1985),  Principles  of  Structural  Geology,  Prentice  Hall,  caps  2,  9  Ramsay,
+Temas   8   y   10  Suppe,  J.  (1985),  Principles  of  Structural  Geology,  Prentice  Hall,  caps  2,  9  Ramsay,
 J.G. y Huber, M. (1987-Vol 2), sesiones 23, 24 Marshak, S. y Woodward, N. (1988), en S. Marshak y G.
 Mitra (eds.) Basic Methods of Structural Geology, Prentice Hall
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Twiss,   R.J.  y  Moores,  E.M.  (2007,  2ª  ed.)  Structural  Geology,  Freeman,  cap  15  Tema  9  Ramsay,  J.G.  y
-Huber,   M.   (1987-Vol   2),   The   Techniques   of  Modern  Structural  Geology,  Academic  Press,  sesión  23
-Twiss,   R.J.   y   Moores,  E.M.  (2007,  2ª  ed.),  caps.  4,  5,  6  →  Ramsay,  J.G.  y  Huber,  M.  (1987-Vol  2),
-sesión 22
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (13):
 ------------------------------
 Fossen, H. (2016, 2ª ed.) Structural Geology, Pergamon, caps. 4, 5, 7, 8, 9, 10
 
@@ -45,6 +40,8 @@ sesión 23
 
 Ramsay, J.G. y Huber, M. (1987-Vol 2), sesiones 23, 24
 
+Ramsay, J.G. y Huber, M. (1987-Vol 2), sesión 22
+
 Suppe, J. (1985), Principles of Structural Geology, Prentice Hall, caps 2, 9
 
 Tema   5   Angelier,   J.  (1994),  en  P.L.  Hancock  (ed.)  Continental  Deformation,  Pergamon  Press.  Twiss,
@@ -59,4 +56,4 @@ Twiss, R.J. y Moores, E.M. (2007, 2ª ed.) Structural Geology, Freeman, cap 15
 
 Twiss, R.J. y Moores, E.M. (2007, 2ª ed.), caps. 4, 5, 6
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 82% [████████░░]

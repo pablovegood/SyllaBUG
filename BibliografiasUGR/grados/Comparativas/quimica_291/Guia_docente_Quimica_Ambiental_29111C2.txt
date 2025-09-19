@@ -2,15 +2,7 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Understanding   the   Chemistry  of  the  environment.  A  texbook  or  Environmental  Chemistry.  Francisco  G.
 Calvo-Flores.   Wiley-VCH.   ISBN  978-1119568636.  2024  E  nvironmental  Chemistry:  Eleventh  Edition  11th
@@ -18,12 +10,15 @@ Edition. Stanley E Manahan. CRC Press ISBN 978-0367558871 2022 Environmental Che
 by Colin Baird , Michael Cann, W. H. Freeman, 2012, ISBN 978-1429277044 Emerging Pollutants: Origin,
 Structure,   and   Properties   1st   Edition,   Francisco   G.  Calvo-Flores  ,  Joaquin  Isac-Garcia  Jose  A.
 Dobado   Wiley-VCH   ISBN978-35273387,  2017  Joaquín  Isac-García,  José  A.  Dobado,  Henar  Martínez-García
-(2016).   Experimental   organic   chemistry   :   laboratory   manual   .   Academic   Press.   Environmental
-Chemistry:    Undergraduate    and   Graduate   Classroom,   Laboratory,   and   Local   Community   Learning
-Experiences   (ACS   Symposium   Series)   by  Elizabeth  S.  Roberts-Kirchhoff  (Editor),  Mark  A.  Benvenuto
-(Editor) 2019  →  by Elizabeth S. Roberts-Kirchhoff (Editor), Mark A. Benvenuto (Editor) 2019
+(2016). Experimental organic chemistry : laboratory manual . Academic Press
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (1):
+------------------------------
+Environmental   Chemistry:   Undergraduate   and   Graduate   Classroom,   Laboratory,  and  Local  Community
+Learning   Experiences   (ACS   Symposium   Series)   by  Elizabeth  S.  Roberts-Kirchhoff  (Editor),  Mark  A.
+Benvenuto (Editor) 2019
+
+✅ Recursos añadidos (8):
 ------------------------------
 Emerging   Pollutants:   Origin,   Structure,   and  Properties  1st  Edition,  Francisco  G.  Calvo  -  Flores,
 Joaquin Isac - Garcia Jose A . Dobado Wiley-VCH ISBN978-35273387, 2017
@@ -40,14 +35,12 @@ Environmental   Chemistry:   Eleventh   Edition   11th   Edition.   Stanley   E 
 Environmental   Chemistry:   Undergraduate   and   Graduate   Classroom,   Laboratory,  and  Local  Community
 Learning Experiences (ACS Symposium Series)
 
-Environmental   Chemistry:   Undergraduate   and   Graduate   Classroom,   Laboratory,  and  Local  Community
-Learning   Experiences   (ACS   Symposium   Series)   by  Elizabeth  S.  Roberts-Kirchhoff  (Editor),  Mark  A.
-Benvenuto (Editor) 2019
-
 Joaquín   Isac-García,  José  A.  Dobado,  Henar  Martínez-García  (2016).  Experimental  organic  chemistry  :
 laboratory manual . Academic Press
 
 Understanding   the   Chemistry  of  the  environment.  A  texbook  or  Environmental  Chemistry.  Francisco  G.
 Calvo-Flores. Wiley-VCH. ISBN 978-1119568636. 2024
+
+by Elizabeth S. Roberts-Kirchhoff (Editor), Mark A. Benvenuto (Editor) 2019
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

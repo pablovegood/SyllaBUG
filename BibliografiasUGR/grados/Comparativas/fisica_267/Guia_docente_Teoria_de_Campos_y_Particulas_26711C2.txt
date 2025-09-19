@@ -2,30 +2,28 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
-M. Maggiore, A Modern Introduction to Quantum Field Theory, Oxford University Press, 2005
-
-M. Srednicki, Quantum Field Theory, Cambridge University Press, 2007
-
-M.D. Schwartz, Quantum Field Theory and the Standard Model, Cambridge University Press, 2014
-
-M.E. Peskin, D.V. Schroeder, An Introduction to Quantum Field Theory, Addison-Wesley, 1995
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-D. Tong, Lectures on Quantum Field Theory: http://www.damtp.cam.ac.uk/user/tong/qft.html
+D.    Tong,   Lectures   on   Quantum   Field   Theory:   http://www.damtp.cam.ac.uk/user/tong/qft.html   M.
+Srednicki, Quantum Field Theory, Cambridge University Press, 2007
 
 J.I. Illana, Notas de Teoría Cuántica de Campos: https://www.ugr.es/~jillana/Docencia/TQC/tqc.pdf
 
-S. Weinberg, The quantum theory of fields (I and II), Cambridge University Press, 1995
+M. Maggiore, A Modern Introduction to Quantum Field Theory, Oxford University Press, 2005
 
-📊 Porcentaje estimado de cambio: 75% [███████░░░]
+M.D. Schwartz, Quantum Field Theory and the Standard Model, Cambridge University Press, 2014
+
+M.E.   Peskin,   D.V.  Schroeder,  An  Introduction  to  Quantum  Field  Theory,  Addison-Wesley,  S.  Weinberg,
+The quantum theory of fields (I and II), Cambridge University Press, 1995
+
+✅ Recursos añadidos (2):
+------------------------------
+D. Tong, Lectures on Quantum Field Theory: http://www.damtp.cam.ac.uk/user/tong/qft.html
+
+M.E. Peskin, D.V. Schroeder, An Introduction to Quantum Field Theory, Addison-Wesley, 1995
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

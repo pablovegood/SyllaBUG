@@ -2,27 +2,50 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 Classical Dynamics Cambridge. J. V. José and E. J. Saletan
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Classical Mechanics with Maple [Recurso electrónico] / by Ronald L. Greene
 
-✅ Recursos añadidos:
+Classical   dynamics   of   particles   and   systems   /   Stephen   T.  Thornton,  Jerry  B.  Marion  Classical
+mechanics   /   Herbert   Goldstein,   Charles   Poole,   John   Safko   Mecánica   y   ondas  para  fisicxs  sin
+pretensiones / Miguel Ángel Rodríguez Valverde Dinámica clásica / Antonio Fernández Rañada Classical
+mechanics   /  John  R.  Taylor  Schaum's  outline  of  theory  and  problems  of  theoretical  mechanics  with  an
+introduction   to   Lagrange's   equations  and  Hamiltonian  theory  /  by  Murray  R.  Spiegel  The  physics  of
+vibrations and waves / H. J. Pain Ondas : teoría y problemas / Eugenio Gaite Domínguez 101 problemas
+de mecánica teórica / Arturo Moncho Jordá Mechanics / Keith R. Symon
+
+Classical mechanics simulations : the consortium for upper level physics software
+
+Mechanics   [electronic  resource]  /  by  L.D.  Landau  and  E.M.  Lifshitz  ;  translated  from  the  Russian  by
+J.B. Sykes and J.S. Bell
+
+Mecánica newtoniana / A. P. French
+
+Physics / Marcelo Alonso, Edward J. Finn
+
+The Feynman lectures on physics / Feynman, Leighton, Sands
+
+The   classical   theory   of  fields  /  L.  D.  Landau  and  E.  M.  Lifshitz  ;  translated  from  the  Russian  by
+Morton Hamermesh
+
+VIBRACIONES   Y   ONDAS:   Curso   de   física  del  M.I.T/  A.  P.  French  Teoría  y  problemas  de  dinámica  de
+Lagrange   :  con  un  estudio  de  ecuaciones  del  movimiento  de  Euler,  principio  y  ecuaciones  de  Hamilton
+/   por  dare  A.  Wells;  traducción  y  adaptación  Francisco  Gnecco  Calvo  Problemas  resueltos  de  mecánica
+del   punto   y   de   sistemas   de   puntos   /   Hubert   Lumbroso  Problemas  de  física  /  Enrique  Gullón  de
+Senespleda,   Manuel   López   Rodríguez   Teoría   y   problemas  de  física  moderna  /  por  Ronald  Gautreau,
+William Savin Special relativity / A. P. French
+
+✅ Recursos añadidos (14):
 ------------------------------
 101 problemas de mecánica teórica. Arturo Moncho Jordá
 
-Classical Mechanics with Maple [Recurso electrónico]. Ronald L. Greene
-
 Classical dynamics of particles and systems. Stephen T. Thornton, Jerry B. Marion
-
-Classical mechanics simulations : the consortium for upper level physics software
 
 Classical mechanics. Herbert Goldstein, Charles Poole, John Safko
 
@@ -30,18 +53,9 @@ Classical mechanics. John R. Taylor
 
 Dinámica clásica. Antonio Fernández Rañada
 
-Mechanics [electronic resource]. L.D. Landau and E.M. Lifshitz ; translated from the Russian by J.B.
-Sykes and J.S. Bell
-
 Mechanics. Keith R. Symon
 
-Mecánica newtoniana. A. P. French
-
 Mecánica y ondas para fisicxs sin pretensiones. Miguel Ángel Rodríguez Valverde
-
-Ondas : teoría y problemas. Eugenio Gaite Domínguez
-
-Physics. Marcelo Alonso, Edward J. Finn
 
 Problemas de física. Enrique Gullón de Senespleda, Manuel López Rodríguez
 
@@ -55,15 +69,8 @@ Special relativity. A. P. French
 Teoría   y   problemas  de  dinámica  de  Lagrange  :  con  un  estudio  de  ecuaciones  del  movimiento  de  Euler,
 principio y ecuaciones de Hamilton- Dare A. Wells; traducción y adaptación Francisco Gnecco Calvo
 
-Teoría y problemas de física moderna. Ronald Gautreau, William Savin
-
-The Feynman lectures on physics. Feynman, Leighton, Sands
-
-The   classical   theory   of   fields.  L.  D.  Landau  and  E.  M.  Lifshitz  ;  translated  from  the  Russian  by
-Morton Hamermesh
-
 The physics of vibrations and waves. H. J. Pain
 
 VIBRACIONES Y ONDAS: Curso de física del M.I.T. A. P. French
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 58% [█████░░░░░]

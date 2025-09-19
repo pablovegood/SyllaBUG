@@ -2,11 +2,12 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+CAMPANINI,   Máximo.  Il  pensiero  islamico  contemporaneo.  Bologna:  Il  Mulino,  2009  CORM,  Georges.  Arab
+Political Thought: past and present. Londres: Hurst, 2019
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 ABU-RABI’,   Ibrahim   M.   Contemporary   Arab  Thought:  Studies  in  post-1967  Arab  Intellectual  History.
 Londres: Pluto Press, 2004
@@ -71,17 +72,13 @@ l-‘Arabī, 2003
 ‘ARWĪ,   ‘Abd   Allāh   al-.   Al-Idiyuluyiyya  al-‘arabiyya  al-mu‘asira.  Casablanca:  Al-Markaz  al-Taqafi
 l-‘Arabi, 1999
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-CAMPANINI,   Máximo.  Il  pensiero  islamico  contemporaneo.  Bologna:  Il  Mulino,  2009  CORM,  Georges.  Arab
-Political   Thought:   past   and   present.   Londres:   Hurst,   2019   →   CAMPANINI,   Máximo.  Il  pensiero
-islamico contemporaneo. Bologna: Il Mulino, 2009
+CAMPANINI, Máximo. Il pensiero islamico contemporaneo. Bologna: Il Mulino, 2009
 
-✅ Recursos añadidos:
-------------------------------
 CORM, Georges. Arab Political Thought: past and present. Londres: Hurst, 2019
 
 HASHAS,   Mohammed   (ed.).   Contemporary   Moroccan   Thought.   On   Philosophy,   Theology,  Society,  and
 Culture. Leiden: Brill, 2025
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

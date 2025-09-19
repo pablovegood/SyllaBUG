@@ -2,12 +2,16 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
+Abranovic,   W.   A.  (1997):  Statistical  Thinking  and  Data  Analysis  Methods  for  Managers.  Ed.  Addison-
+Wesley.   Aguarón  J.  y  otros  (1993):  Simulación.  Colección  Textos  Docentes,  Servicio  de  Publicaciones
+de la Universidad de Zaragoza
+
 BORG, I., GROENEN, P (2005). Modern Multidimensional Scaling. Second Edition. Springer
 
 Carrie, A. (1988): Simulation of Manufacturing Systems. Ed. John Wiley & Sons
@@ -61,20 +65,11 @@ Waters, D.(1998): Essential Quantitative Methods. Ed. Addison Wesley Longman
 
 Winston W.(2000): Financial Models using Simulation and Optimization. Ed. Palisade
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-8.YOUNG,   F.   W.   VALERO-MORA,   P.   and   FRIENDLY  M.  (2006)  Visual  Statistics:  Seeing  your  data  with
-Dynamic   Interactive   Graphics.   Wiley   1.Abranovic,   W.   A.   (1997):   Statistical  Thinking  and  Data
-Analysis   Methods   for   Managers   →   YOUNG,   F.   W.   VALERO-MORA,   P.   and  FRIENDLY  M.  (2006)  Visual
-Statistics: Seeing your data with Dynamic Interactive Graphics . Wiley
+YOUNG, F. W. VALERO-MORA, P. and FRIENDLY M. (2006) Visual Statistics: Seeing your data with Dynamic
+Interactive Graphics . Wiley
 
-Ed.   Addison-Wesley.   Aguarón   J.  y  otros  (1993):  Simulación.  Colección  Textos  Docentes,  Servicio  de
-Publicaciones   de   la   Universidad   de   Zaragoza  →  Abranovic,  W.  A.  (1997):  Statistical  Thinking  and
-Data   Analysis   Methods   for   Managers.   Ed.   Addison-Wesley.  Aguarón  J.  y  otros  (1993):  Simulación.
-Colección Textos Docentes, Servicio de Publicaciones de la Universidad de Zaragoza
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

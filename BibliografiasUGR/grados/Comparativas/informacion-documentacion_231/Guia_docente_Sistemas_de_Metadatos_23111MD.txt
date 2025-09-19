@@ -2,7 +2,7 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (26):
 ------------------------------
 3ª ed. Madrid : Fundación Germán Sánchez Ruipérez, 1992
 
@@ -11,15 +11,17 @@ de televisión. Bilbao : Universidad del País Vasco, 1997
 
 Anglo-American cataloguing rules. 2nd ed. Rev. Ottawa: Canadian Library Association, 1988
 
-Ariza Chicharro, Rosa María. El archivo sonoro de Radio Nacional de España, S.A..Madrid
+Ariza   Chicharro,  Rosa  María.  El  archivo  sonoro  de  Radio  Nacional  de  España,  S.A..Madrid  :  Instituto
+Oficial de Radio y Televisión , 1990
 
-Boletín Oficial del Estado, 2003
+Clausó   García,   Adelina.  Manual  de  análisis  documental:  descripción  bibliográfica.  Pamplona,  EUNSA,
+2005
 
 Descripción   Bibliográfica   Internacional   Normalizada   (ISBD).   Edición  preliminar  consolidada.  [En
 línea]
 
-Federación   Internacional   de   Asociaciones  de  Bibliotecarios  y  Bibliotecas.  ISBD  (PM)  :  descripción
-bibliográfica internacional para música impresa. Madrid : ANABAD , 1994
+Federación   Internacional   de   Asociaciones   de  Bibliotecarios  y  Bibliotecas.  ISBD  (CM)  :Descripción
+bibliográfica internacional normalizada para material cartográfico. Madrid : ANABAD , 1993
 
 Federación   Internacional   de  Asociaciones  de  Bibliotecarios  y  de  Bibliotecas  Sección  de  Bibliotecas
 Públicas. ISBD (ER): descripció bibliogràfica normalitzada internacional per a recursos electrònics:
@@ -27,59 +29,14 @@ traducció   de   la  ISBD  (E  International  Standard  Bibliographic  Descript
 revised   from  the  ISBD  (CF)  /  recomanada  pel  ISBD  (CF)  Review  Group;  [traducció,  Maria  Rosa  Escayola
 Ritter]. Barcelona : Biblioteca de Catalunya , 1999
 
-García Abella, Fernando. Materiales bibliográficos especiales: manual de ejercicios de catalogación.
-Gijón, Ediciones Trea, 1993
+Fothergill, Richard, Butchart, Ian. Materiales no librarios en las bibliotecas: guía práctica
+
+Full ISBD examples. Preliminary Edition. [En línea]
+
+Garnier, François. Thesaurus iconographique: système descriptif des représentations
 
 Hsieh-Yee, Ingrid. Cómo organizar recursos electrónicos y audiovisuales para su acceso: guía para la
 catalogación. Buenos Aires: GRBYD, 2002
-
-Instituto Oficial de Radio y Televisión , 1990
-
-Instituto Oficial de Radio y Televisión, 1992 Madrid : Arco/Libros, 2012. Principios de catalogación
-de IFLA: pasos hacia un código internacional de catalogación. Madrid : Ministerio de Cultura, 2005
-
-La   catalogación  de  los  materiales  especiales  /  coordinado  y  dirigido  por  Carmen  Díaz  Carrera.  Gijón
-: Trea, 2005
-
-Los materiales especiales en las bibliotecas / coordinado y dirigido por Carmen Díaz Carrera. Gijón:
-Trea, 1998
-
-Pamplona, EUNSA, 2005
-
-Paris , Lé Opard d’Or, 1984
-
-Reglas de catalogación. Edición nuevamente revisada. [En línea]
-
-Resource   Description   and   Acess  (RDA).  Information  and  Resources  in  Preparation  for  RDA:  recursos,
-descripción y acceso. Bogotá D.C.: Rojas Eberhard, 2016
-
-Valle Gastaminza, Félix del. Documentación fotográfica. Madrid : Síntesis, 1999
-
-📚 Recursos sin cambios:
-------------------------------
-La documentación cartográfica: tratamiento, gestión y uso. Huelva : Universidad, 2001
-
-Welsh, Anne. Practical cataloguing : AACR, RDA and Marc21. London : Facet, 2012
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Andrew, Paige G., Moore, Susan M. y Larsgaard, Mary Lynette. RDA and cartographic Resource. London :
-Facet   Publishing,   2015.   Le   catalogage  :  méthode  et  pratique.  II,  Multimedie.  Paris,  Cercle  de  la
-Librairie,   1992   →   Andrew,   Paige   G.,   Moore,   Susan   M.   y   Larsgaard,   Mary   Lynette.   RDA   and
-cartographic Resource. London : Facet Publishing, 2015
-
-Reglas   de  catalogación  angloamericanas.  2ª  ed.  Rev.  1988,  enmiendas  1993  y  1997.  Santa  Fe  de  Bogotá
-:   Rejas   Eberhard   Editores,   1998   Reglas   de  catalogación  de  IASA  :  manual  para  la  descripción  de
-registros   sonoros   y   documentos   audiovisuales   relacionados  /  recopiladas  y  editadas  por  el  Grupo
-Redactor   de   IASA  ;  bajo  la  dirección  de  Mary  Milano  ;  traducidas  al  español  y  adaptadas  con  nuevos
-ejemplos   por   María   del   Pilar  Gallego  Cuadrado.  Madrid:  Anabad,  2005.  catalográfica.  Gijón:  TREA,
-2020   Rodrigo  Echalecu,  Ana  María.  Curso  de  catalogación  de  materiales  especiales  en  formatos  ISBD  e
-IBERMARC   :   grabaciones   sonoras,   videograbaciones,   Recursos  electrónicos  en  soporte  óptico  /  Ana
-María   Rodrigo   Echalecu.  Madrid:  Estudio  de  Técnicas  Documentales,  2005  →  Reglas  de  catalogación  de
-IASA   :   manual   para   la  descripción  de  registros  sonoros  y  documentos  audiovisuales  relacionados  /
-recopiladas y editadas por el Grupo Redactor de IASA ; bajo la dirección de Mary Milano ; traducidas
-al   español   y   adaptadas   con  nuevos  ejemplos  por  María  del  Pilar  Gallego  Cuadrado.  Madrid:  Anabad,
-2005
 
 ISAAR   (CPF):   norma   internacional   sobre   encabezamientos   autorizados   archivísticos   relativos  a
 entidades,   personas   y   familias   /   [versión   española   de   M.  Elena  Cortés  Ruiz  y  Blanca  Desantes
@@ -88,12 +45,73 @@ Bibliográfica   Internacional   Normalizada   para  Publicaciones  Seriadas  y 
 revisión de ISBD(S): Descripción Bibliográfica Internacional Normalizada para Publicaciones Seriadas
 / recomendada por el Grupo de Trabajo de ISBD(S); aprobada por los Comités Permanentes de la Sección
 de   Catalogación   de   la   IFLA   y  por  la  Sección  de  Publicaciones  Seriadas  de  la  IFLA;  traducción  de
-Elena   García-Puente   Lillo   y   Consuelo  López  Provencio.  Madrid  :  ANABAD,  2004  →  ISAAR  (CPF):  norma
-internacional   sobre   encabezamientos   autorizados   archivísticos   relativos  a  entidades,  personas  y
-familias   /   [versión   española   de   M.   Elena   Cortés   Ruiz   y  Blanca  Desantes  Fernández].  Madrid  :
-Dirección General del Libro Archivos y Bibliotecas, 2005
+Elena García-Puente Lillo y Consuelo López Provencio. Madrid : ANABAD, 2004
 
-✅ Recursos añadidos:
+La   catalogación  de  los  materiales  especiales  /  coordinado  y  dirigido  por  Carmen  Díaz  Carrera.  Gijón
+: Trea, 2005
+
+Le catalogage : méthode et pratique. II, Multimedie. Paris, Cercle de la Librairie, 1992
+
+Madrid : Ministerio de Cultura, 2005
+
+Normas de catalogación del archivo sonoro de Radio Nacional de España. Madrid : Instituto Oficial de
+Radio   y   Televisión,   1992   Olarán   Mújica,  María.  ISBD  consolidada  y  MARC  21:  manual  práctico  para
+catalogadores. Madrid : Arco/Libros, 2012
+
+Paris , Lé Opard d’Or, 1984
+
+Principios de catalogación de IFLA: pasos hacia un código internacional de catalogación
+
+Reglas de catalogación. Edición nuevamente revisada. [En línea]
+
+Reglas de catalogación. Madrid: Dirección General del Libro, Archivos y Bibliotecas: Boletín Oficial
+del Estado, 2003
+
+Resource   Description   and  Acess  (RDA).  Information  and  Resources  in  Preparation  for  RDA  [En  línea].
+https://www.loc.gov/aba/rda/?&loclr=reclnk   RDA:   recursos,  descripción  y  acceso.  Bogotá  D.C.:  Rojas
+Eberhard, 2016
+
+Ríos   Hilario,   Ana   B.   RDA.   Análisis   teórico   y   aplicación   práctica   de   la   actual   normativa
+catalográfica.   Gijón:   TREA,   2020  Rodrigo  Echalecu,  Ana  María.  Curso  de  catalogación  de  materiales
+especiales    en    formatos   ISBD   e   IBERMARC   :   grabaciones   sonoras,   videograbaciones,   Recursos
+electrónicos   en   soporte   óptico   /   Ana   María   Rodrigo   Echalecu.   Madrid:   Estudio   de   Técnicas
+Documentales, 2005
+
+Valle Gastaminza, Félix del. Documentación fotográfica. Madrid : Síntesis, 1999
+
+http://www.bne.es/media/Perfiles/Bibliotecarios/reglas-catalogacion.pdf    Reglas    de    catalogación
+angloamericanas.   2ª   ed.   Rev.   1988,   enmiendas   1993   y  1997.  Santa  Fe  de  Bogotá  :  Rejas  Eberhard
+Editores,   1998   Reglas   de  catalogación  de  IASA  :  manual  para  la  descripción  de  registros  sonoros  y
+documentos   audiovisuales  relacionados  /  recopiladas  y  editadas  por  el  Grupo  Redactor  de  IASA  ;  bajo
+la   dirección   de   Mary  Milano  ;  traducidas  al  español  y  adaptadas  con  nuevos  ejemplos  por  María  del
+Pilar Gallego Cuadrado. Madrid: Anabad, 2005
+
+http://www.bne.es/webdocs/Inicio/Perfiles/Bibliotecarios/EJemplos_SDB.pdf   García   Abella,  Fernando.
+Materiales   bibliográficos   especiales:  manual  de  ejercicios  de  catalogación.  Gijón,  Ediciones  Trea,
+1993
+
+📚 Recursos sin cambios (6):
+------------------------------
+Andrew, Paige G., Moore, Susan M. y Larsgaard, Mary Lynette. RDA and cartographic Resource. London :
+Facet Publishing, 2015
+
+Dublin   Core   Metadata   Initiative.   [En   línea]   http://dublincore.org/  Federación  Internacional  de
+Asociaciones   de   Bibliotecarios   y  Bibliotecas.  ISBD  (PM)  :  descripción  bibliográfica  internacional
+para música impresa. Madrid : ANABAD , 1994
+
+Lazarinis,   Fotis.   Cataloguing   and   classification:  an  introduction  AACR2,  RDA,  DDC,  LCC,  LCSH  and
+Marc21 standards [en linea]. MARC 21. [En línea]
+
+Welsh, Anne. Practical cataloguing : AACR, RDA and Marc21. London : Facet, 2012
+
+http://www.bne.es/es/Micrositios/Guias/Marc21/resources/Docs/Marc21.pdf     MARCXML     [En     línea].
+http://www.loc.gov/standards/marcxml/   Los   materiales   especiales  en  las  bibliotecas  /  coordinado  y
+dirigido por Carmen Díaz Carrera. Gijón: Trea, 1998
+
+http://www.ifla.org/files/assets/hq/publications/series/44-es.pdf    La   documentación   cartográfica:
+tratamiento, gestión y uso. Huelva : Universidad, 2001
+
+✅ Recursos añadidos (18):
 ------------------------------
 Biblioteca   Nacional   de   España   .   Perfil   de   aplicación   de   RDA   para  grabaciones  sonoras  en  la
 Biblioteca Nacional de España Madrid: Biblioteca Nacional, 2022
@@ -112,23 +130,20 @@ Nacional de España Madrid: Biblioteca Nacional, 2023
 
 Diez Carrera, C. (coord) La catalogación de los materiales especiales Gijón : Trea, 2005
 
-Dublin Core Metadata Initiative. [En línea] http://dublincore.org/
-
 España   Subdirección   General   de  Coordinación  Bibliotecaria.  Reglas  de  catalogación  (Ed.  nuevamente
 rev.,   7a   reimp.).   Ministerio   de   Cultura,   Subdirección   General  de  Publicaciones,  Información  y
 Documentación, 2010
+
+ISAAR   (CPF):   norma   internacional   sobre   encabezamientos   autorizados   archivísticos   relativos  a
+entidades,   personas   y   familias   /   [versión   española   de   M.  Elena  Cortés  Ruiz  y  Blanca  Desantes
+Fernández]. Madrid : Dirección General del Libro Archivos y Bibliotecas, 2005
 
 ISBD   Descripción   Bibliográfica  Internacional  Normalizada,  actualización  de  2021  de  la  ed.  cons.  de
 2011,.   ISBD   Consolidated  edition  Joint  Steering  Committee  for  Revision  of  AACR,  &  American  Library
 Association.   (2004).   Reglas   de   catalogación   angloamericanas.   traducción   y   revisión   general,
 Margarita Amaya de Heredia .2ª ed. rev. Rojas Eberhard, 2004
 
-Lazarinis,   Fotis.   Cataloguing   and   classification:  an  introduction  AACR2,  RDA,  DDC,  LCC,  LCSH  and
-Marc21 standars
-
 MARC standards: MARC 21 . Washington: The Library of Congress, 1999-. . Ultima actualización 2025
-
-MARCXML [En línea]. http://www.loc.gov/standards/marcxml/
 
 Olarán   Mújica,   María.   ISBD   consolidada   y   MARC  21:  manual  práctico  para  catalogadores.  Madrid  :
 Arco/Libros, 2012
@@ -142,6 +157,11 @@ Madrid: Estudio de Técnicas Documentales, 2022
 
 RDA   :   resource   description   &  access  toolkit  .  Chicago,  IL  :  American  Library  Association,,2013  -
 https://www.loc.gov/aba/rda/?&loclr=reclnk
+
+Reglas   de   catalogación   de   IASA   :   manual   para  la  descripción  de  registros  sonoros  y  documentos
+audiovisuales   relacionados   /   recopiladas   y   editadas   por   el   Grupo   Redactor  de  IASA  ;  bajo  la
+dirección de Mary Milano ; traducidas al español y adaptadas con nuevos ejemplos por María del Pilar
+Gallego Cuadrado. Madrid: Anabad, 2005
 
 Ríos   Hilario,   Ana   B.   RDA.   Análisis   teórico   y   aplicación   práctica   de   la   actual   normativa
 catalográfica. Gijón: TREA, 2020

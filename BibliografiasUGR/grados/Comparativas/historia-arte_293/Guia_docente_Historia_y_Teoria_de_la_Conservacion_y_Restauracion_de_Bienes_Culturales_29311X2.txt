@@ -2,11 +2,13 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Madrid: Ministerio de Cultura, 1995
 
-📚 Recursos sin cambios:
+ORDIÉREZ DÍEZ, Isabel. Historia de la restauración monumental en España (1835-1936)
+
+📚 Recursos sin cambios (39):
 ------------------------------
 AA.   VV.  Historia,  restauración  y  reconstrucción  monumental  en  la  posguerra  española.  Madrid:  Abada,
 2012
@@ -34,13 +36,21 @@ CALAMA   RODRÍGUEZ,   José   María   y  GRACIANI  GARCÍA,  Amparo.  La  rest
 CALVO MANUEL, Ana María. Conservación y restauración: materiales, técnicas y procedimientos: de la A
 a la Z. Barcelona: Serbal, 1997
 
+CAPITEL, Antón. Metamorfosis de Monumentos y teorías de la Restauración. Madrid: Alianza, 20092
+
+CARBONARA, Giovanni. Avvicinamento al restauro. Teoria, storia, monumenti. Nápoles: Liguori, 1997
+
 CASAR   PINAZO,   José   Ignacio   y   ESTEBAN  CHAPAPARÍA,  Julián  (ed.).  Bajo  el  signo  de  la  victoria.  La
 conservación del patrimonio durante el primer franquismo (1936-1958). Valencia: Pentagraf, 2008
+
+CONTI, Alessandro. Storia del restauro e della conservazione delle opere d’arte. Milán: Electa, 1988
 
 FERNÁNDEZ ALBA, Antonio (et al.). Teoría e Historia de la Restauración. Madrid: Munilla-Lería, 1997
 
 GARCÍA   CUETOS,   Mª   Pilar.   El   prerrománico   asturiano.  Historia  de  la  arquitectura  y  restauración
 (1844-1976). Oviedo: Sueve, 1999
+
+GARCÍA FERNÁNDEZ, Isabel. La conservación preventiva de bienes culturales. Madrid: Alianza, 2013
 
 GONZÁLEZ   MORENO-NAVARRO,  Antoni.  La  restauración  objetiva  (método  SCCM  de  restauración  monumental).
 Barcelona: Diputación, 1999
@@ -66,6 +76,9 @@ Madrid: Tecnos, 1998
 
 MARCONI, Paolo. Il recupero della bellezza. Milán: Skira, 2005
 
+MARTÍNEZ   JUSTICIA,   Mª  José  y  otros.  Historia  y  teoría  de  la  conservación  y  restauración  artística.
+Madrid: Tecnos, 20083
+
 MARTÍNEZ   JUSTICIA,  Mª  José.  La  restauración  de  Bienes  Culturales  en  los  textos  normativos.  Granada:
 Comares, 2008
 
@@ -74,9 +87,6 @@ español. W.R. Hearst: el gran acaparador. Madrid: Cátedra, 2012
 
 MUÑOZ   COSME,   Alfonso.  La  conservación  del  patrimonio  arquitectónico  español.  Madrid:  Ministerio  de
 Cultura, 1989
-
-ORDIÉREZ   DÍEZ,   Isabel.   Historia   de   la   restauración   monumental   en  España  (1835-1936).  Madrid:
-Ministerio de Cultura, 1995
 
 RIEGL, Aloïs. El culto moderno a los monumentos. Madrid: Visor, 1987
 
@@ -105,21 +115,12 @@ Jokilehto. Roma: ICCROM, 2009
 TORRES   BALBÁS,  Leopoldo.  Sobre  monumentos  y  otros  escritos.  Madrid:  Colegio  Oficial  de  Arquitectos,
 1996
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+MUÑOZ   COSME,   Alfonso.  La  conservación  del  patrimonio  arquitectónico  español.  Madrid:  Ministerio  de
+Cultura, 1989
 
-✅ Recursos añadidos:
-------------------------------
-CAPITEL, Antón. Metamorfosis de Monumentos y teorías de la Restauración. Madrid: Alianza, 20092
+ORDIÉREZ   DÍEZ,   Isabel.   Historia   de   la   restauración   monumental   en  España  (1835-1936).  Madrid:
+Ministerio de Cultura, 1995
 
-CARBONARA, Giovanni. Avvicinamento al restauro. Teoria, storia, monumenti. Nápoles: Liguori, 1997
-
-CONTI, Alessandro. Storia del restauro e della conservazione delle opere d’arte. Milán: Electa, 1988
-
-GARCÍA FERNÁNDEZ, Isabel. La conservación preventiva de bienes culturales. Madrid: Alianza, 2013
-
-MARTÍNEZ   JUSTICIA,   Mª  José  y  otros.  Historia  y  teoría  de  la  conservación  y  restauración  artística.
-Madrid: Tecnos, 20083
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

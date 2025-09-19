@@ -2,11 +2,13 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+The   Prokaryotes.   A  Hand  book  of  the  biology  of  bacteria.  Vol  1-7.  Martin  Dworkin,  3ª  ed.,  Springer
+Microbial   Life   2ª   ed.   Staley,   J.T.,   Gunsalus,   R.P,   Lory,   S.   and   Perry,  J.J.  2007.  Sinauer
+Associated, Ltd. Sundderland MA. EEUU
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 Brock,   Biology   of   microorganisms.   Madigan,   Martinko,   Bender,   Buckley   and  Stahl.  16ª  edición.
 Pearson, 2020
@@ -15,33 +17,30 @@ Essential Microbiology. Stuart Hogg, Wiley. 2005
 
 Laboratory exercises in Microbiology. 5ª ed., Harley Prescott. 2002. The McGraw Hill
 
+Microbiology: and Introduction. Tortora, Funke and Case. Pearson. 2020
+
 Microbiología    Esencial.    Martín.    Béjar.    Gutiérrez.   LLagostera.   Quesada.   1ª   ed.   Editorial
 Panamericana. 2019
 
+Microbiología. Cuestiones y casos prácticos resueltos. Pearson. 2014
+
 Prescott´s Microbiology. J. Willey, K. M. Sandman, and D. Wood. 11/ed. Mac Graw Hill, 2020
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-The   Prokaryotes.   A   Hand   book   of  the  biology  of  bacteria.  Vol  1-7.  Martin  Dworkin,  3ª  ed.,  2006.
-Springer   Microbial   Life  2ª  ed.  Staley,  J.T.,  Gunsalus,  R.P,  Lory,  S.  and  Perry,  J.J.  2007.  Sinauer
-Associated,   Ltd.   Sundderland   MA.   EEUU  →  The  Prokaryotes.  A  Hand  book  of  the  biology  of  bacteria.
-Vol 1-7. Martin Dworkin, 3ª ed., 2006. Springer
+REVISTAS   Nature   Science   Nature   Reviews  Microbiology  FEMS  Microbiology  Rewiews  Current  Opinion  in
+Microbiology Trends in Microbiology
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
-Current Opinion in Microbiology
-
 FEMS Microbiology Rewiews
 
 Microbial   Life   2ª   ed.   Staley,   J.T.,   Gunsalus,   R.P,   Lory,   S.   and   Perry,  J.J.  2007.  Sinauer
 Associated, Ltd. Sundderland MA. EEUU
 
-Microbiology: and Introduction. Tortora, Funke and Case. Pearson. 2020
-
-Microbiología. Cuestiones y casos prácticos resueltos. Pearson. 2014
-
 Nature Reviews Microbiology
+
+The   Prokaryotes.   A   Hand   book   of  the  biology  of  bacteria.  Vol  1-7.  Martin  Dworkin,  3ª  ed.,  2006.
+Springer
 
 Trends in Microbiology
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 46% [████░░░░░░]

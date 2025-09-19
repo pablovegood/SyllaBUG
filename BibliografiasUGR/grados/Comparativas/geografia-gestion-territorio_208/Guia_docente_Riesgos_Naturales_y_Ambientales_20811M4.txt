@@ -2,12 +2,25 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+(http://age.ieg.csic.es/boletin/30/02.pdf)
 
-📚 Recursos sin cambios:
+(http://www.ub.edu/geocrit/sn-39.htm )
+
+ESTRELA, T. (2006): Uso sostenible del agua en Europa: fenómenos hidrológicos extremos: inundaciones
+y   sequías.  Madrid:  Ministerio  de  Medio  Ambiente,  2006  GALINDO  JIMÉNEZ,  L.,  LAÍN  HUERTA,  M.  LLORENTE
+I.,   (eds.)  (2008):  El  estudio  y  la  gestión  de  los  riesgos  geológicos.  Madrid:  Instituto  Geológico  y
+Minero de España
+
+📚 Recursos sin cambios (35):
 ------------------------------
+ANEAS   DE   CASTRO,   S.D.   (2000):  "Riesgos  y  peligros:  una  visión  desde  la  Geografía".  Scripta  Nova,
+Revista Electrónica de Geografía y Ciencias Sociales, nº 60.477. ISBN: 978-84-9148-444-8
+
+ARANA,   E.,   CONDE,   J.,   GARRIDO,   J.   y   NAVARRO,   A.   (2017):   "Riesgos   naturales  y  derecho:  una
+perspectiva interdisciplinar". Ed. Dyckinson. Madrid. pág
+
 AYALA CARCEDO y OLCINA CANTOS (coord.), (2002): Riesgos Naturales. Barcelona. Ariel
 
 BELL,   F.   G.   (2003):   Geological   Hazards:   Their   Assessment,   Avoidance   And  Mitigation.  London:
@@ -17,51 +30,6 @@ BENITO,   G.,  DÍEZ  HERRERO,  A.  (ed.)  (2004):  Riesgos  naturales  y  antr�
 Nacional   de   Geomorfología   (8ª.   Toledo):  libro  de  actas  de  los  simposios  desarrollados  durante  la
 VIII   Reunión   Nacional   de   Geomorfología,  celebrada  en  Toledo,  2225  de  septiembre  de  2004.  Madrid:
 Sociedad Española de Geomorfología
-
-CALVO, F. (2001): Sociedades y territorios en riesgo. Barcelona, Ed. Del Serbal
-
-DÍEZ   HERRERO,   A.,   LAÍN   HUERTA,   L.   y   LLORENTE,  I.  (2008):  Mapas  de  peligrosidad  por  avenidas  e
-inundaciones: guía metodológica para su elaboración. Madrid : Instituto Geológico y Minero de España
-
-EMDAD   HAQUE,   C.   (ed.)   (2005):   Mitigation   Of   Natural   Hazards   And   Disasters   :  International
-Perspectives. Dordrecht, The Netherlands: Springer
-
-ENCYCLOPEDIA OF NATURAL HAZARDS (2013). 1st ed. 2013. Dordrecht: Springer Netherlands
-
-GONZÁLEZ   GARCÍA,   J.   L.   (edit.)  (2009):  Mapas  de  riesgos  naturales  en  la  ordenación  territorial  y
-urbanística. Madrid: Colegio Oficial de Geólogos
-
-HALLAM,   A.   (2004):   Catastrophes   And   Lesser   Calamities:  The  Causes  Of  Mass  Extinctions.  Oxford.
-Oxford University Press
-
-KELLER,   Edward  A.,  ROBERT  H.  BLODGET  (2007):  Riesgos  naturales:  procesos  de  la  tierra  como  riesgos,
-desastres   y  catástrofes  /  Edward  A.  Keller,  Robert  H.  Blodget  ;  traducción  Pilar  Gil  Ruiz,  Madrid  :
-Pearson Educación
-
-LARIO, J. (2017): Introducción a los riesgos geológicos. Madrid: UNED
-
-OLCINA CANTOS, J. (2006): ¿Riesgos naturales? Barcelona: Davinci
-
-PITA   LÓPEZ,   M.  F.  (coord.),  Inmaculada  Caravaca  Barroso,  (1999)  Riesgos  catastróficos  y  ordenación
-del territorio en Andalucía. Sevilla: Dirección General de Ordenación del Territorio y Urbanismo
-
-RÍOS, D. (2022): Análisis de riesgos. Madrid: Los Libros de la Catarata
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-ESTRELA, T. (2006): Uso sostenible del agua en Europa: fenómenos hidrológicos extremos: inundaciones
-y   sequías.  Madrid:  Ministerio  de  Medio  Ambiente,  2006  GALINDO  JIMÉNEZ,  L.,  LAÍN  HUERTA,  M.  LLORENTE
-I.,   (eds.)  (2008):  El  estudio  y  la  gestión  de  los  riesgos  geológicos.  Madrid:  Instituto  Geológico  y
-Minero   de   España   →   GALINDO  JIMÉNEZ,  L.,  LAÍN  HUERTA,  M.  LLORENTE  I.,  (eds.)  (2008):  El  estudio  y
-la gestión de los riesgos geológicos. Madrid: Instituto Geológico y Minero de España
-
-✅ Recursos añadidos:
-------------------------------
-ANEAS   DE   CASTRO,   S.D.   (2000):  "Riesgos  y  peligros:  una  visión  desde  la  Geografía".  Scripta  Nova,
-Revista Electrónica de Geografía y Ciencias Sociales, nº 60.477. ISBN: 978-84-9148-444-8
-
-ARANA,   E.,   CONDE,   J.,   GARRIDO,   J.   y   NAVARRO,   A.   (2017):   "Riesgos   naturales  y  derecho:  una
-perspectiva interdisciplinar". Ed. Dyckinson. Madrid. pág
 
 BERNARD,   E.  N.  (ed.),  (2005):  Developing  Tsunami  resilient  Communities:  The  National  Tsunami  Hazard
 Mitigation Program. Dordrech, The Netherlands: Springer
@@ -76,6 +44,8 @@ CALVO, F. (1984): "La geografía de los riesgos". Geocrítica, nº 54
 
 CALVO,   F.   (2000):   "Panorama   de   los   estudios  sobre  riesgos  naturales  en  la  Geografía  española".
 Boletín de la Asociación de Geógrafos Españoles, nº 30. (http://age.ieg.csic.es/boletin/30/02.pdf)
+
+CALVO, F. (2001): Sociedades y territorios en riesgo. Barcelona, Ed. Del Serbal
 
 CANALES,   G.   (1984):   "El   nuevo   urbanismo   del  Bajo  Segura  a  consecuencia  del  terremoto  de  1829".
 Investigaciones                     Geográficas,                     nº2,                     Alicante.
@@ -92,14 +62,31 @@ Métodos Cuantitativos, SIG y Teledetección (11º. Murcia) Murcia: Universidad 
 CONSEJERÍA DE OBRAS PÚBLICAS Y TRANSPORTES (1999): Riesgos catastróficos y ordenación del territorio
 en Andalucía. Sevilla: Direccion General de Ordenación del Territorio y Urbanismo
 
-ESTRELA, T. (2006): Uso sostenible del agua en Europa: fenómenos hidrológicos extremos: inundaciones
-y sequías. Madrid: Ministerio de Medio Ambiente, 2006
+DÍEZ   HERRERO,   A.,   LAÍN   HUERTA,   L.   y   LLORENTE,  I.  (2008):  Mapas  de  peligrosidad  por  avenidas  e
+inundaciones: guía metodológica para su elaboración. Madrid : Instituto Geológico y Minero de España
 
-FERRER   GIRÓN,   M.   (dir.   y   superv.  técnica)  (2007):  Atlas  de  riesgos  naturales  de  la  provincia  de
+EMDAD   HAQUE,   C.   (ed.)   (2005):   Mitigation   Of   Natural   Hazards   And   Disasters   :  International
+Perspectives. Dordrecht, The Netherlands: Springer
+
+ENCYCLOPEDIA OF NATURAL HAZARDS (2013). 1st ed. 2013. Dordrecht: Springer Netherlands
+
+FERRER   GIRÓN,   M.   (dir.   y   superv.  técnica)  (2007):  Atlas  de  riesgos  naturales  en  la  provincia  de
 Granada. Madrid: Instituto Geológico y Minero; Granada: Diputación Provincial de Granada
+
+GONZÁLEZ   GARCÍA,   J.   L.   (edit.)  (2009):  Mapas  de  riesgos  naturales  en  la  ordenación  territorial  y
+urbanística. Madrid: Colegio Oficial de Geólogos
+
+HALLAM,   A.   (2004):   Catastrophes   And   Lesser   Calamities:  The  Causes  Of  Mass  Extinctions.  Oxford.
+Oxford University Press
+
+KELLER,   Edward  A.,  ROBERT  H.  BLODGET  (2007):  Riesgos  naturales:  procesos  de  la  tierra  como  riesgos,
+desastres   y  catástrofes  /  Edward  A.  Keller,  Robert  H.  Blodget  ;  traducción  Pilar  Gil  Ruiz,  Madrid  :
+Pearson Educación
 
 KYOJI,   S.   (2013):   Landslides:   Global   Risk   Preparedness.   1st  ed.  2013.  Berlin:  Springer  Berlin
 Heidelberg
+
+LARIO, J. (2017): Introducción a los riesgos geológicos. Madrid: UNED
 
 LE   TRÉHONDAT,   P.,   SILBERSTEIN,   P.   (2005):   Katrina:  un  desastre  anunciado.  Traducción  de  Miguel
 Candel. Barcelona: El Viejo Topo
@@ -111,6 +98,11 @@ LLORENTE, M. (2015): Riesgos naturales: la ciencia para evitar los desastres. Ma
 MARTEAU,   D.   (et   alt.),   (2004):   La   gestion  du  risque  climatique.  Préface  de  Jean  Pierre  Beysson
 Paris: Económica
 
+OLCINA CANTOS, J. (2006): ¿Riesgos naturales? Barcelona: Davinci
+
+PITA   LÓPEZ,   M.  F.  (coord.),  Inmaculada  Caravaca  Barroso,  (1999)  Riesgos  catastróficos  y  ordenación
+del territorio en Andalucía. Sevilla: Dirección General de Ordenación del Territorio y Urbanismo
+
 RUBIO, J.L.; ANDREU, V. (Coords) (2009): Human and socieconomic consequences of desertification. Las
 Palmas de Gran Canaria: Universidad de Las Palmas de Gran Canaria. Servicio de Publicaciones
 
@@ -118,10 +110,20 @@ RUIZ   PÉREZ,   M.   (2011):   Vulnerabilidad   territorial  y  evaluación  de
 electrónico]:   una   aproximación   desde  la  geografía  del  riesgo.  Dirección,  Javier  Gutiérrez  Puebla,
 Miquel Grimalt Gelabert. Madrid: Universidad Complutense de Madrid
 
+RÍOS, D. (2022): Análisis de riesgos. Madrid: Los Libros de la Catarata
+
 TOSCANA,   A.;   MONROY,   J.F.   (2012):   Riesgos   y   desastres:  aproximaciones  teóricas  y  empíricas.
 México D.F.: Plaza y Valdés, S.A
 
 URIARTE,   A.   (2010):   Historia  del  clima  de  la  Tierra.  Biblioteca  electrónica  de  Geminis  Papeles  de
 Salud
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+ESTRELA, T. (2006): Uso sostenible del agua en Europa: fenómenos hidrológicos extremos: inundaciones
+y sequías. Madrid: Ministerio de Medio Ambiente, 2006
+
+GALINDO   JIMÉNEZ,   L.,   LAÍN   HUERTA,   M.  LLORENTE  I.,  (eds.)  (2008):  El  estudio  y  la  gestión  de  los
+riesgos geológicos. Madrid: Instituto Geológico y Minero de España
+
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

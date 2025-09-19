@@ -2,36 +2,16 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Francisco de Quevedo Quevedo, Francisco de (2005), Poesía varia, (ed. James O. Crosby), Madrid
+Francisco   de   Quevedo   Quevedo,   Francisco   de  (2005),  Poesía  varia,  (ed.  James  O.  Crosby),  Madrid:
+Cátedra
 
 Quevedo,   Francisco   de  (2011),  La  vida  del  Buscón  (ed.  Fernando  Cabo  Aseguinolaza),  Madrid:  Galaxia
 Gutenberg
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (44):
 ------------------------------
-(1969). En torno a las "Soledades" de Góngora. Granada: Universidad de Granada
-
-(1982). Estudios y ensayos gongorinos. Madrid: Gredos
-
-(1994). Soledades. Edición de Robert Jammes. Madrid: Castalia
-
-(2001). La literatura del pobre. Segunda edición corregida y aumentada, Granada, Comares
-
-(2002).   Los   sonetos  de  Góngora  (antología  comentada),  edición  e  introducción  de  José  Lara  Garrido.
-Córdoba: Diputación de Córdoba
-
-(2005). Pasiones frías, Madrid, Marcial Pons
-
-(2006). Francisco de Quevedo. Madrid: Síntesis
-
-(2010). Fábula de Polifemo y Galatea. Edición de Jesús Ponce Cárdenas. Madrid: Cátedra
-
-(2012), Obras completas en prosa V. Edición de Antonio Rey. Madrid: Castalia
-
-(2015). Para entender a Góngora. Barcelona: Acantilado
-
 ALONSO, Dámaso (1980). Góngora y el Polifemo. Madrid: Gredos
 
 ARELLANO, Ignacio (1984). Poesía satírico-burlesca de Quevedo. Pamplona: EUNSA
@@ -45,8 +25,8 @@ Estudios Europa Hispánica
 CABO   ASEGUINOLAZA,   Fernando   (1992).   El  concepto  de  género  y  la  literatura  picaresca.  Santiago  de
 Compostela: Universidad
 
-CACHO   CASAL,   Rodrigo   (2012),   La   esfera   del   ingenio.   Las   silvas   de   Quevedo   y  la  tradición
-europea,Madrid, Biblioteca Nueva
+CACHO   CASAL,   Rodrigo   (2012),   La  esfera  del  ingenio.  Las  silvas  de  Quevedo  y  la  tradición  europea
+,Madrid, Biblioteca Nueva
 
 CHEVALIER, Maxime (1992). Quevedo y su tiempo: La agudeza verbal. Barcelona: Crítica
 
@@ -62,12 +42,21 @@ Salamanca, Universidad
 
 GÓNGORA, Luis de (1980). Letrillas. Edición de Robert Jammes. Madrid: Castalia
 
+JAMMES, ROBERT (1987). La obra poética de don Luis de Góngora y Argote. Madrid: Castalia
+
 JAURALDE POU, Pablo (1998). Francisco de Quevedo (1580-1645). Madrid: Castalia
+
+Luis   de   Góngora  Góngora,  Luis  de  (2015),  Antología  poética  (ed.  Antonio  Carreira),  Madrid:  Espasa-
+Calpe
+
+LÓPEZ BUENO, Begoña (2000). La poética cultista de Herrera a Góngora. Sevilla: Alfar
 
 MARAVALL,   José   Antonio   (1980).   La   cultura   del   Barroco.   Análisis  de  una  estructura  histórica.
 Barcelona: Ariel
 
 MICÓ, José María (2001). De Góngora. Madrid: Biblioteca Nueva
+
+MOLHO, Mauricio (1977). Semántica y poética (Góngora, Quevedo). Barcelona: Crítica
 
 OROZCO, Emilio (1984). Introducción a Góngora. Barcelona: Crítica
 
@@ -92,7 +81,7 @@ literaturas burguesas. Madrid: Akal
 RUIZ   PÉREZ,   Pedro   (2010).   Historia   de  la  literatura  española.  3.  El  siglo  del  arte  nuevo  1598  -
 1691. Barcelona: Crítica
 
-SCHWARTZ,   Lía  y  CARREIRA,  Antonio  (eds.),  (1997)  Quevedo  a  nueva  luz:  escritura  y  política,  Málaga,
+SCHWARTZ , Lía y CARREIRA, Antonio (eds.), (1997) Quevedo a nueva luz: escritura y política, Málaga,
 Universidad
 
 SOBEJANO, Gonzalo (ed.) (1978) Francisco de Quevedo. El escritor y la crítica, Madrid, Taurus
@@ -105,22 +94,38 @@ Gendreaux-Massaloux,   Agustín   de   la  Granja,  Antonio  Pérez  Lasheras,  
 Roses,   Andrés   Sánchez   Robayna,   Alan  S.  Trueblood  y  Rafael  Vázquez  Lesmes]  (1996).  Estudios  sobre
 Góngora. Córdoba: Ayuntamiento-Real Academia de Córdoba
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-JÁUREGUI,   Juan   de   (2002).   Antídoto   contra   la   pestilente   poesía   de  las  Soledades  por  Juan  de
-Jáuregui.   Estudio   y   edición   crítica   de  José  Manuel  Rico  García.  Sevilla:  Universidad  de  Sevilla
-LIDA,   Raimundo   (1980)   Prosas   de  Quevedo,  Barcelona,  Crítica  →  JÁUREGUI,  Juan  de  (2002).  Antídoto
-contra la pestilente poesía de las Soledades por Juan de Jáuregui. Estudio y edición crítica de José
-Manuel Rico García. Sevilla: Universidad de Sevilla
+——    "Francisco    de    Quevedo"    (Biografía    de    la    Real    Academia    de    la    Historia).   En:
+http://dbe.rah.es/biografias/10543/francisco-de-quevedo-y-villegas    JÁUREGUI,    Juan    de    (2002).
+Antídoto   contra   la   pestilente   poesía   de   las   Soledades  por  Juan  de  Jáuregui.  Estudio  y  edición
+crítica   de  José  Manuel  Rico  García.  Sevilla:  Universidad  de  Sevilla  LIDA,  Raimundo  (1980)  Prosas  de
+Quevedo, Barcelona, Crítica
 
-✅ Recursos añadidos:
+—— (1982). Estudios y ensayos gongorinos. Madrid: Gredos
+
+—— (1994). Soledades. Edición de Robert Jammes. Madrid: Castalia
+
+—— (2001) La literatura del pobre. Segunda edición corregida y aumentada, Granada, Comares
+
+——   (2002).   Los   sonetos   de   Góngora   (antología   comentada),   edición  e  introducción  de  José  Lara
+Garrido. Córdoba: Diputación de Córdoba
+
+—— (2005). Pasiones frías, Madrid, Marcial Pons
+
+—— (2006). Francisco de Quevedo. Madrid: Síntesis
+
+—— (2010). Fábula de Polifemo y Galatea. Edición de Jesús Ponce Cárdenas. Madrid: Cátedra
+
+—— (2012), Obras completas en prosa V. Edición de Antonio Rey. Madrid: Castalia
+
+—— (2015). Para entender a Góngora. Barcelona: Acantilado
+
+—— (coord.) (2006). La renovación poética del Renacimiento al Barroco. Madrid: Síntesis
+
+✅ Recursos añadidos (7):
 ------------------------------
-"Francisco     de     Quevedo"     (Biografía     de    la    Real    Academia    de    la    Historia).    En:
-http://dbe.rah.es/biografias/10543/francisco-de-quevedo-y-villegas
+(1969). En torno a las "Soledades" de Góngora. Granada: Universidad de Granada
 
 (2025). La literatura en la sociedad (de)sacralizada, Madrid, Akal
-
-(coord.) (2006). La renovación poética del Renacimiento al Barroco. Madrid: Síntesis
 
 Francisco   de   Quevedo  Quevedo,  Francisco  de  (2025),  Huye  la  hora.  Antología  poética,  (eds.  Fernando
 Plata.   y   Adrián   J.   Sáez),   Madrid:   Cátedra.   Quevedo,   Francisco  de  (2020),  Sueños  (ed.  Ignacio
@@ -128,18 +133,12 @@ Arellano), Madrid: Cátedra
 
 Góngora, Luis de (2015), Antología poética (ed. Antonio Carreira), Madrid: Espasa-Calpe
 
-JAMMES, ROBERT (1987). La obra poética de don Luis de Góngora y Argote. Madrid: Castalia
+JÁUREGUI,   Juan   de   (2002).   Antídoto   contra   la   pestilente   poesía   de  las  Soledades  por  Juan  de
+Jáuregui. Estudio y edición crítica de José Manuel Rico García. Sevilla: Universidad de Sevilla
 
 LIDA, Raimundo (1980) Prosas de Quevedo, Barcelona, Crítica
-
-Luis   de   Góngora  Góngora,  Luis  de  (2015),  Antología  poética  (ed.  Antonio  Carreira),  Madrid:  Espasa-
-Calpe
-
-LÓPEZ BUENO, Begoña (2000). La poética cultista de Herrera a Góngora. Sevilla: Alfar
-
-MOLHO, Mauricio (1977). Semántica y poética (Góngora, Quevedo). Barcelona: Crítica
 
 Quevedo,   Francisco   de   (2025),   Huye  la  hora.  Antología  poética,  (eds.  Fernando  Plata.  y  Adrián  J.
 Sáez), Madrid: Cátedra
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

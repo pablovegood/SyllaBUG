@@ -2,11 +2,15 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Encyclopedia   of   Pharmaceutical   Technology.   1ª   Ed.  Vol.:  1-  20.  Marcel  Dekker,  Inc.  New  York  and
+Basel, 1988-2005
 
-📚 Recursos sin cambios:
+SALAZAR,   R.   Calificación  y  Validación.  Elementos  Básicos  de  la  Calidad  y  Productividad  Industrial.
+Romagraf S.A. Barcelona, 2007. SWARBRICK, L. and BOYLAN, J.C
+
+📚 Recursos sin cambios (25):
 ------------------------------
 ANSEL   H.C.,   POPOVICH  N.G.  and  ALLEN  L.V.  Pharmaceutical  Dosage  Forms  and  Drug  Delivery  Systems.  6ª
 Ed. Williams & Wilkins. London, 2005
@@ -19,6 +23,8 @@ Churchill Livingstone. Elsevier. Philadelphia, 2007 and 2013
 
 Am   ENDE,  D.J.  Ed.  Chemical  Engineering  in  the  Pharmaceutical  Industry.  R&D  Manufacturing.  Wiley  and
 Suns Inc. Publication. New Jersey, 2011
+
+BANKER G.S. and RHODES C.T. Modern Pharmaceutics, 4ª ed. Ed. Marcel & Dekker, Inc. New York, 2002
 
 COLOMBO,   P.,   CATELLANI,   P.L.,   GAZZANIGA,   A.,   MENEGATTI,   E.,  VIDALE,  E.  Principi  di  Tecnologie
 Pharmaceutiche. Casa Editrice Ambrosiana. Bologna, 2004
@@ -46,6 +52,10 @@ Editorial Síntesis, 2017
 
 NIAZI   S.K.   Handbook  of  Pharmaceutical  Manufacturing  Formulations.  Vol.  1-5.  CRC  Press.  Boca  Raton,
 2001
+
+NOGUEIRA,   L.   CORREIA,   A.,  MORGADO,  R.  y  SOUSA,  J.  Tecnología  Farmacéutica.  Vol.  1,2  y  3.  Fundaçao
+Calouste Gulbenkian. Lisboa, 2011, 2011 y 2012. OSOL, A. (Ed.). Remington, Farmacia. 21ª ed. Vol. 1,
+2. Ed. Médica Panamericana. Buenos Aires, 2005
 
 Normas   de   Correcta   Fabricación   de  medicamentos  de  uso  humano  y  medicamentos  veterinarios.  3ª  Ed.
 Editorial BOE, 2008
@@ -78,27 +88,14 @@ SALAZAR, R. Análisis y Control de Medicamentos. Romagraf S.A. Barcelona, 2005
 SWARBRICK, L. Encyclopedia of Pharmaceutical Technology. 3ª Ed. Vol 1-6. Ed. Informa Healthcare, USA
 Inc., 2007
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 SALAZAR,   R.   Calificación  y  Validación.  Elementos  Básicos  de  la  Calidad  y  Productividad  Industrial.
-Romagraf   S.A.   Barcelona,   2007.   SWARBRICK,   L.   and   BOYLAN,   J.C   →   SALAZAR,   R.  Calificación  y
-Validación.   Elementos   Básicos   de   la  Calidad  y  Productividad  Industrial.  Romagraf  S.A.  Barcelona,
-2007.   SWARBRICK,  L.  and  BOYLAN,  J.C.  Encyclopedia  of  Pharmaceutical  Technology.  1ª  Ed.  Vol.:  1-  20.
-Marcel Dekker, Inc. New York and Basel, 1988-2005
+Romagraf   S.A.   Barcelona,   2007.   SWARBRICK,   L.   and   BOYLAN,   J.C.  Encyclopedia  of  Pharmaceutical
+Technology. 1ª Ed. Vol.: 1- 20. Marcel Dekker, Inc. New York and Basel, 1988-2005
 
-Encyclopedia   of   Pharmaceutical   Technology.   1ª   Ed.  Vol.:  1-  20.  Marcel  Dekker,  Inc.  New  York  and
-Basel,   1988-2005   →   SALAZAR,   R.   Calificación   y   Validación.   Elementos   Básicos  de  la  Calidad  y
-Productividad Industrial. Romagraf S.A. Barcelona, 2007. SWARBRICK, L. and BOYLAN, J.C. Encyclopedia
-of Pharmaceutical Technology. 1ª Ed. Vol.: 1- 20. Marcel Dekker, Inc. New York and Basel, 1988-2005
-
-NOGUEIRA,   L.  CORREIA,  A.,  MORGADO,  R.  y  SOUSA,  J.  Tecnología  Farmacéutica.  Vol.  1,2  y  Farmacia.  21ª
-ed.   Vol.   1,  2.  Ed.  Médica  Panamericana.  Buenos  Aires,  2005  →  NOGUEIRA,  L.  CORREIA,  A.,  MORGADO,  R.
-y   SOUSA,  J.  Tecnología  Farmacéutica.  Vol.  1,2  y  3.  Fundaçao  Calouste  Gulbenkian.  Lisboa,  2011,  2011
-y   2012.   OSOL,   A.   (Ed.).   Remington,  Farmacia.  21ª  ed.  Vol.  1,  2.  Ed.  Médica  Panamericana.  Buenos
-Aires, 2005
-
-✅ Recursos añadidos:
-------------------------------
-BANKER G.S. and RHODES C.T. Modern Pharmaceutics, 4ª ed. Ed. Marcel & Dekker, Inc. New York, 2002
+SALAZAR,   R.   Calificación  y  Validación.  Elementos  Básicos  de  la  Calidad  y  Productividad  Industrial.
+Romagraf   S.A.   Barcelona,   2007.   SWARBRICK,   L.   and   BOYLAN,   J.C.  Encyclopedia  of  Pharmaceutical
+Technology. 1ª Ed. Vol.: 1- 20. Marcel Dekker, Inc. New York and Basel, 1988-2005
 
 📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

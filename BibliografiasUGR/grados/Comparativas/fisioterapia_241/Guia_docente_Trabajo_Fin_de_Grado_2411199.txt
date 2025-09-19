@@ -2,25 +2,11 @@
 Grado: fisioterapia (241)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-La   memoria   incluirá:  Portada:  En  la  portada  deberá  figurar  el  escudo  de  la  Universidad  de  Granada,
-el   nombre   de  la  Titulación,  el  título  del  trabajo,  el  nombre  del  estudiante,  la  convocatoria  en  la
-que   se  presenta  (Junio  o  Julio)  y  el  curso  académico  en  vigor.  Índice:  Se  incluirá  justo  después  de
-la   portada   y   se   indicarán   los  principales  epígrafes  del  trabajo.  Resumen:  Se  añadirá  después  el
-índice, un resumen con un máximo de 250 palabras. Abstract: Traducción del resumen a inglés Palabras
-clave:   Inmediatamente   después   del   resumen   se  añadirán  6  palabras  clave  en  castellano  según  DeCS
-(Descriptores en Ciencias de la Salud) Comisión de Docencia de la Facultad de Ciencias de la Salud
-
-📚 Recursos sin cambios:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (6):
 ------------------------------
 Cuidando   .   Entre   sus   objetivos   está   la  difusión  de  recursos  y  documentos  de  interés,  prestando
 especial atención a la práctica clínica basada en pruebas
@@ -37,11 +23,16 @@ JBI   COnNECT+   (Red   Clínica   de   Evidencia   online   sobre   Cuidados). 
 diversos   recursos   que   ayudan   a  encontrar  y  utilizar  la  evidencia  para  fundamentar  las  decisiones
 clínicas
 
-La   Biblioteca   de   la  UGR,  a  través  de  su  espacio  Biblioteca  electrónica,  ofrece  acceso  a  numerosas
-bases de datos y a numerosas revistas digitalizadas
+NICE   (National   Institute   for   Health   and   Care   Excellence   –   NHS).   Proporciona   orientación  y
+recomendaciones   para   mejorar  la  asistencia  sanitaria,  a  través  de  diferentes  recursos.  De  especial
+interés   es  su  plataforma  de  búsqueda  de  evidencias  *La  Biblioteca  de  la  UGR,  a  través  de  su  espacio
+Biblioteca    electrónica,   ofrece   acceso   a   numerosas   bases   de   datos   y   a   numerosas   revistas
+digitalizadas
 
+✅ Recursos añadidos (1):
+------------------------------
 NICE   (National   Institute   for   Health   and   Care   Excellence   –   NHS).   Proporciona   orientación  y
 recomendaciones   para   mejorar  la  asistencia  sanitaria,  a  través  de  diferentes  recursos.  De  especial
 interés es su plataforma de búsqueda de evidencias
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

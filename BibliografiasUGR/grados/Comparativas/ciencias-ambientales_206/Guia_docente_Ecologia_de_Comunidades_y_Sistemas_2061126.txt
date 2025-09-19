@@ -2,30 +2,14 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
-No hay elementos.
+Begon M, Townsend CR, Colin R (2021). Ecology: from individuals to ecosystems, 5a ed. Wiley
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Addison Wesley. Molles M (2006). Ecología. Conceptos y aplicaciones. McGraw-Hill. Piñol J, Martínez-
-Vilalta   J   (2006)   Ecología  con  Números.  Lynx  ediciones.  Ricklefs  RE,  Relyea  R  (2014).  Ecology:  the
-economy of nature. 7a ed. Freeman. Rodríguez J (2010). Ecología. 2a Ed. Pirámide. Smith TM, Smith RL
-(2015).   Elements   of  Ecology,  9a  ed.,  Pearson  Education.  Stiling  PD  (2012).  Ecology.  Global  insight
-and   investigations.McGraw-Hill.   Terradas   J  (2001).  Ecología  de  la  vegetación.  Omega.  Townsend  CR,
-Howarth   RW,   Begon  M.(2012).  Essentials  of  Ecology.  4ª  ed.  Blackwell  Science.  de  libro,  entradas  de
-blog, vídeos, etc  →  Smith TM, Smith RL (2015). Elements of Ecology, 9a ed., Pearson Education
-
-Begon   M,   Townsend  CR,  Colin  R  (2021).  Ecology:  from  individuals  to  ecosystems,  5a  ed.  Wiley.  Krebs
-CJ   (2009).   Ecology:   The   experimental   analysis   of   distribution  and  abundance,  6a  ed  →  Begon  M,
-Townsend CR, Colin R (2021). Ecology: from individuals to ecosystems, 5a ed. Wiley
-
-✅ Recursos añadidos:
-------------------------------
 Krebs   CJ   (2009).   Ecology:  The  experimental  analysis  of  distribution  and  abundance,  6a  ed.  Addison
 Wesley
 
@@ -37,13 +21,18 @@ Ricklefs RE, Relyea R (2014). Ecology: the economy of nature. 7a ed. Freeman
 
 Rodríguez J (2010). Ecología. 2a Ed. Pirámide
 
-Se indicará bibliografía adicional a lo largo del curso, incluyendo artículos científicos, capítulos
-de libro, entradas de blog, vídeos, etc
+Smith TM, Smith RL (2015). Elements of Ecology, 9a ed., Pearson Education
 
 Stiling PD (2012). Ecology. Global insight and investigations.McGraw-Hill
 
 Terradas J (2001). Ecología de la vegetación. Omega
 
+Townsend   CR,   Howarth   RW,   Begon   M.(2012).   Essentials   of   Ecology.  4ª  ed.  Blackwell  Science.  Se
+indicará bibliografía adicional a lo largo del curso, incluyendo artículos científicos, capítulos de
+libro, entradas de blog, vídeos, etc
+
+✅ Recursos añadidos (1):
+------------------------------
 Townsend CR, Howarth RW, Begon M.(2012). Essentials of Ecology. 4ª ed. Blackwell Science
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

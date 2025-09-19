@@ -2,50 +2,45 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
 McGraw Hill (1995) Cuestiones Prácticas de la gestión de residuos. I. Aspectos generales y Conceptos
 básicos   Montserrat   Zamorano   Toro,  Francisco  Serrano  Bernardo,  Ángela  García  Maraver,  Jaime  Martín
 Pascual, Luis F. Díaz, 2015
 
-📚 Recursos sin cambios:
+Tortora,   G.J.;   Funke,   B.R.   y   Case,   C.L.   1995.   Microbiology.   An   Introduction.   5ª   Ed.   The
+Benjamin/Cummings   Publishing   Company,   Inc   Métodos   normalizados   de  análisis  de  aguas  potables  y
+residuales.   Diaz   de   Santos   Madrid   Degremont.   Water   treatment   handbook,   vols  1-2.  Lavoissier
+publishing   (1991)   Ramalho   RS:   Tratamiento   de   aguas  residuales.  Reverté  S.A.  (1991)  Ronzano  E  y
+Dapena   JL:   Tratamiento  biológico  de  las  aguas  residuales.  Díaz  de  Santos  (1995)  Hernández  Muñoz  A:
+Depuración   de  aguas  residuales.  Servicio  de  publicaciones  de  la  Escuela  de  Ingenieros  de  Caminos  de
+Madrid (1990) Fundamentos del manejo de los residuos urbanos. E. Hontoria García y M. Zamorano Toro.
+2001. Colección Seinor. Colegio de Ingenieros de Caminos, Canales y Puertos
+
+📚 Recursos sin cambios (8):
 ------------------------------
+Atlas. R.M. y Bartha, R. 2001. Ecología microbiana y Ecología ambiental. Prentice Hall. 4ª Ed
+
 Madigan, M.T., Martinko, J.M., Dunlap, P.V., y Clark, D. 2015. Brock Biología de los Microorganismos
 (14ª Edición). Pearson Prentice-Hall
 
-Marín, I., Sanz, J.L. y Amils, R. 2005. Biotecnología y medioambiente. Ed. Ephemera
+Marín, I., Sanz, J.L. y Amils, R. (eds). 2005. Biotecnología y medioambiente. Ed. Ephemera
 
-Metcalf and Eddy. 1998. Ingeniería de aguas residuales: tratamiento, vertido y reutilización. McGraw
-Hill
+Metcalf   and   Eddy:  Ingeniería  de  aguas  residuales:  tratamiento,  vertido  y  reutilización  McGraw  Hill
+(1998) Metcalf and Eddy: Ingeniería de aguas residuales: Redes de alcantarillado y bombeo
 
 Pepper, I.L. y Gerba, C.P., Gentry. 2014. Environmental Microbiology. 4ª Edición. Academic Press
 
-Standard   Methods   for   the   Examination  of  Water  and  Wastewater  22nd  Edition.  2022.  American  Public
-Health Association (APHA)
+Standard   Methods   for  the  Examination  of  Water  and  Wastewater.  22nd  Edition.  American  Public  Health
+Association (APHA). 2022
 
 Tchobanoglous G., Theisen H., Vigil S. 1994. Gestión integral de residuos sólidos. McGraw-Hill
 
 Willey, J., Sherwood, L., Wolverton, C. 2014. Microbiología de Prescott, Harley y Klein. 9ª Edición.
 McGraw Hill. Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-Atlas.   R.M.  y  Bartha,  R.  2001.  Ecología  microbiana  y  Ecología  ambiental.  Prentice  Hall.  4ª  Tortora,
-G.J.;   Funke,   B.R.   y   Case,  C.L.  1995.  Microbiology.  An  Introduction.  5ª  Ed.  The  Benjamin/Cummings
-Publishing   Company,   Inc   Métodos   normalizados  de  análisis  de  aguas  potables  y  residuales.  Diaz  de
-Santos   Madrid   Degremont.   Water  treatment  handbook,  vols  1-2.  Lavoissier  publishing  (1991)  Ramalho
-RS:   Tratamiento   de   aguas   residuales.   Reverté   S.A.   (1991)   Ronzano   E  y  Dapena  JL:  Tratamiento
-biológico   de   las   aguas   residuales.   Díaz  de  Santos  (1995)  Hernández  Muñoz  A:  Depuración  de  aguas
-residuales.   Servicio   de   publicaciones   de   la   Escuela   de  Ingenieros  de  Caminos  de  Madrid  (1990)
-Fundamentos   del   manejo   de   los   residuos   urbanos.   E.   Hontoria  García  y  M.  Zamorano  Toro.  2001.
-Colección   Seinor.   Colegio  de  Ingenieros  de  Caminos,  Canales  y  Puertos  →  Tortora,  G.J.;  Funke,  B.R.
-y   Case,   C.L.  1995.  Microbiology.  An  Introduction.  5ª  Ed.  The  Benjamin/Cummings  Publishing  Company,
-Inc
-
-✅ Recursos añadidos:
-------------------------------
-Atlas. R.M. y Bartha, R. 2001. Ecología microbiana y Ecología ambiental. Prentice Hall. 4ª Ed
-
 Brown,   R.C.  2011.  Thermochemical  Processing  of  Biomass:  Conversion  into  Fuels,  Chemicals  and  Power.
 WILEY
 
@@ -62,8 +57,11 @@ formation and control. CRC Press
 
 Ronzano E y Dapena JL. 1995. Tratamiento biológico de las aguas residuales. Ed. Díaz de Santos
 
+Tortora,   G.J.;   Funke,   B.R.   y   Case,   C.L.   1995.   Microbiology.   An   Introduction.   5ª   Ed.   The
+Benjamin/Cummings Publishing Company, Inc
+
 Zamorano   Toro,   M.,   Serrano   Bernardo,   F.,   García   Maraver,   A.,  Martín  Pascual,  J.,  F.  Díaz,  L.
 2015.Cuestiones   Prácticas   de   la   gestión   de  residuos.  I.  Aspectos  generales  y  Conceptos  básicos.
 Godel Impresiones Digitales S.L
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

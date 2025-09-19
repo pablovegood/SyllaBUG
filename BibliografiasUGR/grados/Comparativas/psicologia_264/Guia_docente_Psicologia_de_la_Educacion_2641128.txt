@@ -2,11 +2,11 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 Alexander,   P.A,   y   Winne,   P.H.   (eds.)  (2006).  Handbook  of  Educational  Psychology.  Hillsdale,  NJ:
 Lawrence Erlbaum Assoc Inc
@@ -29,6 +29,9 @@ Escudero,   I.   y  León,  J.  A.  (2011).  Hitos  y  Retos  del  Psicólogo  E
 
 Fernández   Barroso,   A.  (2001).  Evolución  y  Desarrollo  de  los  Modelos  de  Intervención  Psicoeducativa
 en España. Psicología Educativa, 17 (1), 27-37
+
+Fernández,   J.   (2011).   La   especificidad   del   psicólogo   educativo.  Papeles  del  Psicólogo,  32(3),
+247-253
 
 González-Pienda,   J.A.,   González,   R.,   Núñez,  J.C.,  Y  Valle,  A.  (2008).  Manual  de  Psicología  de  la
 Educación. Madrid: Pirámide
@@ -57,13 +60,8 @@ Vergara, J.J. (2021) Un aula, un proyecto. Madrid: Narcea
 
 Woolfolk, A.E. (2010). Psicología Educativa. México: Pearson
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Fernández,   J.   (2011).   La   especificidad   del   psicólogo   educativo.  Papeles  del  Psicólogo,  32(3),
-247-253
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 A.K. Abbas, A.H. Lichtman and S. Pillai. Cellular and Molecular Immunology, Updated Edition, 9th ed.
 Saunders, 2015
@@ -32,17 +32,15 @@ de salud y enfermedad. Masson, Barcelona, 7ª edición en castellano, 2009
 Peter   Parham.   The   Immune   system.   5th   Edition.   International   Students  Edition.  W.W.  Northon  &
 Company. 2021
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Revistas   internacionales   con   revisiones   en  Inmunología:  Current  Opinion  in  Immunology  Immunology
+Immunological   Reviews   Nature   Immunology  The  Journal  of  Immunology  Trends  in  Immunology  Immunology
+Today
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Current Opinion in Immunology
 
 Immunological Reviews
-
-Immunology Today
 
 Nature Immunology
 
@@ -52,4 +50,4 @@ The Journal of Immunology
 
 Trends in Immunology
 
-📊 Porcentaje estimado de cambio: 77% [███████░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

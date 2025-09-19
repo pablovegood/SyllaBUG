@@ -2,11 +2,11 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 A. Kelly. Mobile Robotics: Mathematics, Models, and Methods. Cambridge University Press, 2013
 
@@ -23,12 +23,21 @@ Differential   Drive   Steering   +   Kalman   Filter  Basics  Hugh  Durrant-Why
 Localisation   and  Mapping  (SLAM):  Part  I  The  Essential  Algorithms.  Robotics  and  Automation  Magazine,
 June, 2006
 
+Fuzzy   Logic.   VideoLectures   L.-X.   Wang   y   J.M.   Mendel.   Generating  fuzzy  rules  by  learning  from
+examples. IEEE Transactions on Systems, Man, and Cybernetics 22:6 (1992) 1414-1427
+
 G. Klir y B. Yuan. Fuzzy sets and fuzzy logic. Theory and applications. Prentice-Hall, 1995
 
 H.   Ishibuchi,   T.   Nakashima   y   M.   Nii.   Classification   and  Modeling  with  Linguistic  Information
 Granules: Advanced Approaches to Linguistic Data Mining. Springer, 2004
 
+How   do   the   state-of-the-art   pathfinding   algorithms  for  changing  graphs  (D*,  D*-Lite,  LPA*,  etc)
+differ?
+
 J. Aracil y F. Gordillo (Eds.). Stability Issues in Fuzzy Control. Physica-Verlag, 2000
+
+J. Valente de Oliveira. Semantic constraints for membership function optimization. IEEE Transactions
+on Systems, Man, and Cybernetics - Part A: Systems and Humans, 29 (1999) 128-138
 
 J. Yan, M. Ryan y J. Power. Using Fuzzy Logic. Towards Intelligent Systems. Prentice Hall, 1994
 
@@ -38,8 +47,8 @@ Man, and Cybernetics 23:3 (1993) 665-685
 John   Wiley,   1994.   C.C.  Lee.  Fuzzy  Logic  in  Control  Systems:  Fuzzy  Logic  Controller,  Part  I  y  Part
 II. IEEE Transactions on Systems, Man and Cybernetics. Vol. 20 (2), 1990, págs. 404-418, 419-435
 
-L.-X.   Wang   y   J.M.   Mendel.  Generating  fuzzy  rules  by  learning  from  examples.  IEEE  Transactions  on
-Systems, Man, and Cybernetics 22:6 (1992) 1414-1427
+L.A.   Zadeh,   R.R.   Yager,   A  meeting  between  two  giants  of  Artificial  Intelligence,  Mathware  &  Soft
+Computing Magazine 18:1 (2011) 4-14
 
 O.   Cordón,   F.   Herrera,  F.  Hoffmann  y  L.  Magdalena.  Genetic  Fuzzy  Systems.  Evolutionary  Tuning  and
 Learning of Fuzzy Knowledge Bases. World Scientific, 2001
@@ -65,19 +74,13 @@ S.S. Farinwata, D. Filev y R. Langari. Fuzzy Control. Synthesis and Analysis. Wi
 Tim   Bailey,   Hugh  Durrant-Whyte.  Simultaneous  Localisation  and  Mapping  (SLAM):  Part  II  State  of  the
 Art. Robotics and Automation Magazine, Sept., 2006
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-L.A.   Zadeh,   R.R.   Yager,   A  meeting  between  two  giants  of  Artificial  Intelligence,  Mathware  &  Soft
-Computing   Magazine   18:1   (2011)   4-14   J.  Valente  de  Oliveira.  Semantic  constraints  for  membership
-function   optimization.   IEEE   Transactions   on   Systems,  Man,  and  Cybernetics  -  Part  A:  Systems  and
-Humans,   29   (1999)   128-138   →   L.A.   Zadeh,  R.R.  Yager,  A  meeting  between  two  giants  of  Artificial
-Intelligence, Mathware & Soft Computing Magazine 18:1 (2011) 4-14
+An Introduction To Fuzzy Control Systems
 
-✅ Recursos añadidos:
-------------------------------
 Autonomous Robots Blog
 
-FAQ: Fuzzy Logic and Fuzzy Expert Systems
+Differential Drive Steering + Kalman Filter Basics
 
 Fuzzy Logic. VideoLectures
 
@@ -87,13 +90,4 @@ Fuzzy Systems 14:5 (2006) 676-697
 Greg   Welch,   Gary   Bishop.   An   Introduction  to  the  Kalman  Filter  .  University  of  North  Carolina  at
 Chapel Hill, Dept. Computer Science. TR 95-041, July 2006
 
-How   do   the   state-of-the-art   pathfinding   algorithms  for  changing  graphs  (D*,  D*-Lite,  LPA*,  etc)
-differ?
-
-Hugh   Durrant-Whyte,   Tim  Bailey.  Simultaneous  Localisation  and  Mapping  (SLAM):  Part  I  The  Essential
-Algorithms. Robotics and Automation Magazine, June, 2006
-
-J. Valente de Oliveira. Semantic constraints for membership function optimization. IEEE Transactions
-on Systems, Man, and Cybernetics - Part A: Systems and Humans, 29 (1999) 128-138
-
-📊 Porcentaje estimado de cambio: 39% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (36):
 ------------------------------
 A.   Mozayani,   C.  Noziglia,  THE  FORENSIC  LABORATORY  HANDBOOK:  PROCEDURES  AND  PRACTICE.  Humana  Press,
 2006
@@ -16,6 +16,16 @@ Press), 2013
 
 A.R.   Fernández-Alba,   CHROMATOGRAPHIC-MASS   SPECTROMETRIC   FOOD  ANALYSIS  FOR  TRACE  DETERMINATION  OF
 PESTICIDE RESIDUES. Elsevier 2005
+
+Análisis   Alimentario   J.R.J.  Paré,  J.M.R.  Bélanger,  INSTRUMENTAL  METHODS  IN  FOOD  ANALYSIS.  Elsevier
+Science, 1997
+
+Análisis   Alimentario:   C.J.   Ducauze,   FRAUDES   ALIMENTARIOS.   LEGISLACIÓN  Y  METODOLOGÍA  ANALÍTICA.
+Acribia., 2006
+
+Análisis Forense J.I. Khan, T.J. Kennedy. BASIC PRINCIPLES OF FORENSIC CHEMISTRY, Humana Press, 2012
+
+Análisis Forense: F. Antón Barbera, POLICIA CIENTÍFICA (2 vol), 4ª ed. Tirant lo Blanch, 2004
 
 B.A.J. Fisher, TECHNIQUES OF CRIME SCENE INVESTIGATION, 7th ed. CRC Press, 2004
 
@@ -29,22 +39,16 @@ Wiley, 1997
 
 Eckert, INTRODUCTION TO FORENSIC SCIENCES, 2ed. CRC, 1997
 
-F. Antón Barbera, POLICIA CIENTÍFICA (2 vol), 4ª ed. Tirant lo Blanch, 2004
-
 J W.M. Dabrowski, Z. E. Sikorski, TOXINS IN FOOD. CRC Pres, 2005
 
 J. Whitaker, CURRENT PROTOCOLS IN FOOD ANALYTICAL CHEMISTRY. John Wiley & Sons, 2001
 
-J.I. Khan, T.J. Kennedy. BASIC PRINCIPLES OF FORENSIC CHEMISTRY, Humana Press, 2012
-
 J.I. Khan, T.J. Kennedy. D.R. Christian, BASIC PRINCIPLES OF FORENSIC CHEMISTRY. Humana Press, 2009
-
-J.R.J. Paré, J.M.R. Bélanger, INSTRUMENTAL METHODS IN FOOD ANALYSIS. Elsevier Science, 1997
 
 J.j.   Khum,   T.J.  Kennedy,  D.R.  Christian,  Jr.  BASIC  PRINCIPLES  OF  FORENSIC  CHEMISTRY,  Humana  Press,
 2012
 
-L. Tadeo, ANALYSIS OF PESTICIDES IN FOOD AND ENVIRONMENTAL SAMPLES. CRC Press, 2008
+L. Tadeo, ANALYSIS OF PESTICIDES IN FOOD AND ENVIRONMENTAL SAMPLES. CRC Press , 2008
 
 M. Lees, FOOD AUTHENTICITY AND TRACEABILITY. Woodhead Publishing Limited / CRC Press, 2003
 
@@ -88,18 +92,12 @@ T. Shibamoto, L.F. Bjeldanes, INTRODUCTION TO FOOD TOXICOLOGY, 2nd ed. Academic 
 
 W.J. Hurst, METHODS OF ANALYSIS FOR FUNCTIONAL FOODS AND NUTRACEUTICALS, 2nd ed. CRC Press, 2008
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Y. Picó, FOOD TOXICANT ANALYSIS: TECHNIQUES, STRATEGIES AND DEVELOPMENTS. Elsevier, 2007
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Análisis Alimentario
 
 Análisis Forense
 
-C.J. Ducauze, FRAUDES ALIMENTARIOS. LEGISLACIÓN Y METODOLOGÍA ANALÍTICA. Acribia., 2006
-
-Y. Picó, FOOD TOXICANT ANALYSIS: TECHNIQUES, STRATEGIES AND DEVELOPMENTS. Elsevier, 2007
-
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

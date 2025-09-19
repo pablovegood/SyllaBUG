@@ -2,17 +2,27 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 ABU CHAKRA, F. Arabic: An Essential Grammar. New York: Routledge, 2007
 
+AGUILAR COBOS, J. D. et alii. Al-birka A1: iniciación a la escritura árabe. Almería: Albujayra, 2012
+
+AGUILAR   COBOS,   J.   D.   et  alii.  As-saqiya  A1:  lengua  árabe  (Libro  del  alumno).  Almería:  Albujayra,
+2015
+
 AGUILAR COBOS, J. D. et alii. As-saqiya A1: lengua árabe (guía). Almería: Albujayra, 2015
 
+AGUILAR,    V.    et    alii.   Paso   a   paso.   Blog   dedicado   a   la   enseñanza   de   la   lengua   árabe:
+http://www.arabele.org/paso-a-paso/
+
 AGUILAR, V. et alii. ¡Alatul!: iniciación a la lengua árabe. Barcelona: Herder, 2010
+
+BADAWI, E. et alii. Modern Written Arabic: A Comprehensive Grammar. New York: Routledge, 2004
 
 BRUSTAD,   K.   et   alii.   Al-Kitaab   fii   Ta`allum   al-`Arabiyya   (Part  One).  3a  ed.  Washington  D.C.:
 Georgetown University Press, 2011
@@ -42,20 +52,8 @@ SCHULZ, E. A Student Grammar of Modern Standard Arabic. Cambridge: Cambridge Uni
 
 WEBER, N. La escritura árabe es fácil. Barcelona: Sirpus, 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-AGUILAR COBOS, J. D. et alii. Al-birka A1: iniciación a la escritura árabe. Almería: Albujayra, 2012
-
-AGUILAR   COBOS,   J.   D.   et  alii.  As-saqiya  A1:  lengua  árabe  (Libro  del  alumno).  Almería:  Albujayra,
-2015
-
-AGUILAR,    V.    et    alii.   Paso   a   paso.   Blog   dedicado   a   la   enseñanza   de   la   lengua   árabe:
-http://www.arabele.org/paso-a-paso/
-
-BADAWI, E. et alii. Modern Written Arabic: A Comprehensive Grammar. New York: Routledge, 2004
-
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

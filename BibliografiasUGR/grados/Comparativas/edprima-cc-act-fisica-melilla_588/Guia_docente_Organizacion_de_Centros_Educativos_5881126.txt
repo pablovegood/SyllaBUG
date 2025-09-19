@@ -2,11 +2,11 @@
 Grado: edprima-cc-act-fisica-melilla (588)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (37):
 ------------------------------
 Antúnez, S. (1993). Claves Para la Organización de Centros Docentes.Horsori
 
@@ -31,24 +31,6 @@ Cardona, J. (2001). Elementos de Teoría Organizativa del Centro Escolar.Sanz y 
 Cardá,    M.R.    y    Larrosa,    F.    (2012):   La   Organización   del   Centro   Educativo:   Manual   Para
 Maestros.Editorial Club Universitario
 
-Gil-Quintana,   J.   (Coord.).   (2022).   Organizaciones  Educativas.  Evolución  de  perspectivas  hasta  la
-sociedad postdigital. McGraw Hill. UNED
-
-González, M.T. (2003). Organización y Gestión de Centros Escolares: Dimensiones y Procesos.Pearson
-
-Lorenzo, M. (2011). Organización y Gestión de Centros y Contextos Educativos.Universitas
-
-Martín   -   Moreno,   Q.  (2006).  Organización  y  Dirección  de  Centros  Educativos  Innovadores:  El  Centro
-Educativo Versátil. McGraw Hill
-
-Santamaría, R. M. (2015). Organización de Centros Escolares.Síntesis
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Casanova, M. A. (2004). Evaluación y Calidad de Centros Educativos.La Muralla
 
 Corchón, E. (2005). La Escuela en el Medio Rural: Modelos Organizativos.DaVinci Continental
@@ -65,7 +47,12 @@ Legitimidad y Nuevos Desarrollos.Akal
 Gairín,   J.   et   al.   (Coords.)  (1996).  Manual  de  Organización  de  Investigaciones  Educativas.Escuela
 Española
 
+Gil-Quintana,   J.   (Coord.).   (2022).   Organizaciones  Educativas.  Evolución  de  perspectivas  hasta  la
+sociedad postdigital. McGraw Hill. UNED
+
 Gimeno, J. (1995). La Dirección de Centros: Análisis de Tareas.MEC
+
+González, M.T. (2003). Organización y Gestión de Centros Escolares: Dimensiones y Procesos.Pearson
 
 Heras, L. (1997). Comprender el Espacio Educativo.Aljibe
 
@@ -77,6 +64,8 @@ Mayo, de Educación. B.O.E. 340, de 30 de Diciembre de 2020
 Lorenzo,   M.   (1996).   Organización  Escolar:  La  Construcción  de  la  Escuela  Como  Ecosistema.Ediciones
 Pedagógicas
 
+Lorenzo, M. (2011). Organización y Gestión de Centros y Contextos Educativos.Universitas
+
 Lorenzo,   M.   (Coord.)   (1995).   La   Organización   y  Gestión  del  Centro  Educativo:  Análisis  de  Casos
 Prácticos.Universitas
 
@@ -85,9 +74,14 @@ Lorenzo, M. y Gairín, J. (2001). Organización Escolar Diferenciada. Síntesis
 Martín - Moreno, Q. (1996). La Organización de Centros Educativos en una Perspectiva de Cambio. Sanz
 y Torres
 
+Martín   -   Moreno,   Q.  (2006).  Organización  y  Dirección  de  Centros  Educativos  Innovadores:  El  Centro
+Educativo Versátil. McGraw Hill
+
 Mañú, J. M. (1999). Equipos Directivos Para Centros Educativos de Calidad.Rialp
 
 Romero, C. (2000). El Conocimiento del Tiempo Educativo.Laertes
+
+Santamaría, R. M. (2015). Organización de Centros Escolares.Síntesis
 
 Santos, M. A. (1994). Entre Bastidores: El Lado Oculto de la Organización Escolar.Aljibe
 
@@ -99,4 +93,8 @@ Santos, M. A. (Coord.) (2003a). Aprender a Convivir en la Escuela.Akal
 
 Santos, M. A. (Coord.) (2003b). Trampas en Educación: El Discurso Sobre la Calidad.La Muralla
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

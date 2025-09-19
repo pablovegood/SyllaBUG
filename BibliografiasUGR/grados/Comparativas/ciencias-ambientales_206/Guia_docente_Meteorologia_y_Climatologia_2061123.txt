@@ -2,11 +2,11 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (29):
 ------------------------------
 Aguado, E y Burt J.E. Understanding weather and climate, Prentice Hall, New Jersey, 2010
 
@@ -35,7 +35,7 @@ Houghton, J.T. Global Warming. Lion Publishing, Oxford, 1994
 
 IPCC, 2013. Climate Change 2013. The Physical Scientific Basis
 
-Iribarne, J.V. y Godson, W.L., Termodinámica de la atmósfera, 1996, INM, 1996
+Iribarne , J.V. y Godson, W.L., Termodinámica de la atmósfera, 1996, INM, 1996
 
 Ledesma Jimeno, M. Principios de Meteorología y Climatología. Paraninfo, Madrid, 2011
 
@@ -69,11 +69,7 @@ Zúñiga López, I. Meteorología y Climatología, UNED, Madrid, 2010
 
 Zúñiga López, I. Problemas de Meteorología y Climatología, UNED, Madrid, 2016
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

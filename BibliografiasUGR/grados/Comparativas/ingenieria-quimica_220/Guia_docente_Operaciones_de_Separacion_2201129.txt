@@ -2,52 +2,51 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Pearson.   2004.   ISBN   84-205-4250-4  Fouad  M.  Khoury.:  Multistage  Separation  Processes.  4th  Edition.
-Taylor & Francis. 2015. origsite=primo&docID=1591578 Kister, H.Z.: Distillation design. McGraw-Hill.
-1992   Holland,   C.D.   Fundamentos   y   modelos   de   procesos   de   separación:  Absorción,  Destilación,
-Evaporación   y   Extracción.  Prentice  Hall.  1981  →  Fouad  M.  Khoury.:  Multistage  Separation  Processes.
-4th         Edition.         Taylor        &        Francis.        2015.        ISBN        9781482230574.
-https://ebookcentral.proquest.com/lib/ugr/detail.action?pq-origsite=primo&docID=1591578
+Henley,E.J y Seader,J.D..: Operaciones de Separación por etapas de equilibrio en Ingeniería Química,
+Reverté.    1988.    ISBN   84-291-7908-9   King,C.J.:   Procesos   de   Separación,   Reverté.   1980.   ISBN
+84-291-7301-1 Seader,J. y Henley,E.J.: Separation process principles, 2ªEd, John Wiley & Sons. 2006
 
 ISBN   978-0-471-46480-8   Wankat,   P.C.:   Ingeniería   de  procesos  de  separación.  Pearson  Educación  de
 México.   2008   Wankat,   P.C.:   Separation   Process  Engineering:  Includes  Mass  Transfer  Analysis.  5th
 Edition.   Pearson  Higher  Education.  2022  McCabe,  W.L..:  Operaciones  unitarias  en  ingeniería  química.
 McGraw-Hill   Interamericana.   2007   Martínez,  P.J.:  Operaciones  de  separación  en  ingeniería  química:
-métodos   de   cálculo   →   McCabe,   W.L..:   Operaciones   unitarias   en  ingeniería  química.  McGraw-Hill
-Interamericana. 2007
+métodos de cálculo
 
-Henley,E.J,   Seader,J.D.,  y  Roper  D.K.:  Separation  process  principles,  ISV,  3ºEd,  John  Wiley  &  Sons.
-2011.   ISBN   978-0-470-64611-3   Henley,E.J   y   Seader,J.D..:  Operaciones  de  Separación  por  etapas  de
-equilibrio   en   Ingeniería   Química,   Reverté.   1988.   ISBN   84-291-7908-9   King,C.J.:   Procesos   de
-Separación,    Reverté.    1980.   ISBN   84-291-7301-1   Seader,J.   y   Henley,E.J.:   Separation   process
-principles,   2ªEd,   John  Wiley  &  Sons.  2006  →  King,C.J.:  Procesos  de  Separación,  Reverté.  1980.  ISBN
-84-291-7301-1
+ISBN                                                                                   9781482230574.
+https://ebookcentral.proquest.com/lib/ugr/detail.action?pqorigsite=primo&docID=1591578 Kister, H.Z.:
+Distillation   design.   McGraw-Hill.   1992   Holland,   C.D.   Fundamentos   y   modelos   de   procesos   de
+separación: Absorción, Destilación, Evaporación y Extracción. Prentice Hall. 1981
 
-✅ Recursos añadidos:
+Pearson.   2004.   ISBN   84-205-4250-4  Fouad  M.  Khoury.:  Multistage  Separation  Processes.  4th  Edition.
+Taylor & Francis. 2015
+
+📚 Recursos sin cambios (1):
 ------------------------------
-Henley,E.J y Seader,J.D..: Operaciones de Separación por etapas de equilibrio en Ingeniería Química,
-Reverté. 1988. ISBN 84-291-7908-9
-
 Henley,E.J,   Seader,J.D.   and   Roper  D.K.:  Separation  process  principles,  ISV,  3rd  Ed.,  John  Wiley  &
 Sons. 2011. ISBN 978-0-470-64611-3
 
+✅ Recursos añadidos (11):
+------------------------------
+Fouad   M.   Khoury.:   Multistage   Separation   Processes.   4th   Edition.   Taylor  &  Francis.  2015.  ISBN
+9781482230574.                            https://ebookcentral.proquest.com/lib/ugr/detail.action?pq-
+origsite=primo&docID=1591578
+
+Henley,E.J y Seader,J.D..: Operaciones de Separación por etapas de equilibrio en Ingeniería Química,
+Reverté. 1988. ISBN 84-291-7908-9
+
 Holland, C.D. Fundamentos y modelos de procesos de separación: Absorción, Destilación, Evaporación y
 Extracción. Prentice Hall. 1981
+
+King,C.J.: Procesos de Separación, Reverté. 1980. ISBN 84-291-7301-1
 
 Kister, H.Z.: Distillation design. McGraw-Hill. 1992
 
 Martínez,   P.J.:  Operaciones  de  separación  en  ingeniería  química:  métodos  de  cálculo.  Pearson.  2004.
 ISBN 84-205-4250-4
+
+McCabe, W.L..: Operaciones unitarias en ingeniería química. McGraw-Hill Interamericana. 2007
 
 Seader,J.   y   Henley,E.J.:   Separation   process   principles,   2ªEd,   John   Wiley   &  Sons.  2006.  ISBN
 978-0-471-46480-8

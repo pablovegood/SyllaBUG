@@ -2,11 +2,11 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (31):
 ------------------------------
 ARMSTRONG,   G.,   KOTLER,   P.,   &   OPRESNIK,   M.  (2019).  Marketing  :  an  introduction  (14th  ed.  global
 edition). Pearson
@@ -48,6 +48,8 @@ Madrid
 
 LAMBIN, J-J. (2003a): Marketing estratégico. Ed. McGraw Hill, Madrid
 
+LAMBIN, J-J.(2003b): Casos prácticos de marketing. McGraw Hill, Madrid
+
 MARTÍN ARMARIO, E. (1993): Marketing. Ed. Ariel Economía, Barcelona
 
 MIQUEL, S.; MOLLÁ, A. Y BIGNÉ, E. (1994): Introducción al marketing. Ed. McGrawHill, Madrid
@@ -80,12 +82,8 @@ Ed. Civitas, Madrid
 VÁZQUEZ.   R.;   TRESPALACIOS,   J.A.   y   RODRIGUEZ   DEL   BOSQUE,  I.A.  (2005):  Marketing:  estrategias  y
 aplicaciones sectoriales., 4ª Ed. Civitas, Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-LAMBIN, J-J.(2003b): Casos prácticos de marketing. McGraw Hill, Madrid
-
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

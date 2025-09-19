@@ -2,28 +2,32 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
+Boyd y Silk: Como evolucionaron los humanos. Ariel
+
 Byers, S.N.: Introduction to Forensic Anthropology. Allyn and Bacon
 
 Campillo,   D.   Introducción   a  la  Paleopatología.  Bellaterra  Cartmill  M,  Smith  F.  The  human  lineage.
 Wiley-Blackwell   Cela  Conde  C,  Ayala  F.  Senderos  de  la  evolución  humana.  Alianza  Coppens,  L.  y  Picq,
 P.: Los orígenes de la humanidad. Espasa-Forum
 
-Chaline,   J.   Un   millón   de   generaciones.   Península  Dunbar,  R.  La  odisea  de  la  humanidad.  Crítica
-Fossey, D. Gorilas en la niebla. Salvat Goodall, J. En la senda del hombre. Salvat Hawley y Murillo.
-Ecología   humana.   Tecnos   Pääbo   S.   El   hombre   de  Neandertal.  En  busca  de  genomas  perdidos.  Ariel
-Tattersall, I. Hacia el ser humano. Península Algunas revistas disponibles en Ugr
-
 Ember, Ember y Peregrine: Antropología. Pearson
+
+Hadingham   E.  Discovering  us.  Fifty  great  discoveries  in  human  origins.  The  Leakey  Foundation  Larsen
+CS (ed). A companion to Biological Anthropology. Hoboken: WileyBlackwell
 
 Jones, Martin y Pilbeam: The Cambridge Encyclopedia of Human Evolution. Cambridge University Press
 
+Lewis, Jurmain, Kilgore: Understanding Humans. Wadsworth
+
 Ramey Burns, K.: Introducción a la Antropología forense. Bellaterra
+
+Rebato, Susanne, Chiarelli: Para comprender la Antropología Biológica. Verbo divino
 
 Relethford, J.: The human species. An introduction to Biological Anthropology. Mayfield
 
@@ -33,31 +37,28 @@ evolución humana. Ariel
 
 Van   Schaik,  CP.  2016.  The  primate  origins  oh  human  nature.  Hoboken:  Wiley-Blackwell  Arsuaga,  JL.  El
 enigma   de   la   esfinge.   Plaza   y   Janés   Carbonell   E.   Homínidos.  Las  primeras  ocupaciones  de  los
-Continentes. Barcelona
+Continentes.   Barcelona:  Chaline,  J.  Un  millón  de  generaciones.  Península  Dunbar,  R.  La  odisea  de  la
+humanidad.   Crítica   Fossey,   D.   Gorilas   en   la  niebla.  Salvat  Goodall,  J.  En  la  senda  del  hombre.
+Salvat   Hawley   y   Murillo.   Ecología   humana.   Tecnos  Pääbo  S.  El  hombre  de  Neandertal.  En  busca  de
+genomas   perdidos.   Ariel  Tattersall,  I.  Hacia  el  ser  humano.  Península  Algunas  revistas  disponibles
+en   Ugr:   Journal   of   Human   Evolution   American   Journal  of  Biological  Anthropology  Science  Nature
+PlosOne
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (17):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Algunas revistas disponibles en Ugr
-
 American Journal of Biological Anthropology
 
-Boyd y Silk: Como evolucionaron los humanos. Ariel
+Arsuaga, JL. El enigma de la esfinge. Plaza y Janés
 
 Campillo, D. Introducción a la Paleopatología. Bellaterra
 
 Carbonell E. Homínidos. Las primeras ocupaciones de los Continentes. Barcelona
 
-Cela Conde C, Ayala F. Senderos de la evolución humana. Alianza
+Cartmill M, Smith F. The human lineage. Wiley-Blackwell
 
 Chaline, J. Un millón de generaciones. Península
 
 Coppens, L. y Picq, P.: Los orígenes de la humanidad. Espasa-Forum
-
-Dunbar, R. La odisea de la humanidad. Crítica
 
 Fossey, D. Gorilas en la niebla. Salvat
 
@@ -69,11 +70,7 @@ Hawley y Murillo. Ecología humana. Tecnos
 
 Journal of Human Evolution
 
-Larsen CS (ed). A companion to Biological Anthropology. Hoboken: WileyBlackwell
-
-Lewis, Jurmain, Kilgore: Understanding Humans. Wadsworth
-
-Rebato, Susanne, Chiarelli: Para comprender la Antropología Biológica. Verbo divino
+Pääbo S. El hombre de Neandertal. En busca de genomas perdidos. Ariel
 
 Tattersall I, Understanding human evolution. Cambridge University Press
 
@@ -83,4 +80,4 @@ Turbón, D.: La evolución humana. Ariel
 
 Van Schaik, CP. 2016. The primate origins oh human nature. Hoboken: Wiley-Blackwell
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 58% [█████░░░░░]

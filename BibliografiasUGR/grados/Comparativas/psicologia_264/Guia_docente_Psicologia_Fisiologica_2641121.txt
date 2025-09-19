@@ -2,20 +2,14 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-B)Técnicas   de   Neuroimagen:   El   alumno/a   deberá   estudiar  y  conocer  estas  técnicas  a  través  de  la
-alumno   deberá   entrar   en   “Biblioteca   Electrónica”   de   la   página  de  la  Universidad  de  Granada  y
-seleccionar, a continuación, la opción de “Libros, Diccionarios y Enciclopedias electrónicas”
+Carlson,   NR.,   Birkett,   MA.,   Fisiología  de  la  Conducta.  12ª  edición,  Pearson,  2018,  Disponible  en
+Línea       en      la      Biblioteca      de      la      UGR:      https://www.ingebook.com/ib/NPcd/IB_E
+scritorio_Visualizar?cod_primaria=1000193&libro=7811   Carlson,   NR.,   Birkett,   MA.,   Physiology   of
+Behavior, 13ª ed., Pearson, 2021
 
-Sinauer,   2012.   artículos,  de  los  cuales  uno  de  ellos  será  en  lengua  inglesa.  básica  necesaria  para
-la   adecuada   comprensión  de  la  práctica  con  antelación  suficiente.  Una  vez  explicada  la  práctica  en
-la   correspondiente  sesión  o  sesiones  de  clase,  ésta  será  evaluada  una  de  ellas  podrá  ser  calificada
-hasta   0.5   puntos.   El  profesor  anunciará  y  organizará  con  la  antelación  suficiente  estas  prácticas
-para   que   los   alumnos/as   puedan  optar  por  horas  y  fechas  compatibles  con  el  resto  de  su  actividad
-académica
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (28):
 ------------------------------
 Barnes, J. Essential Biological Psychology. Sage, 2013
 
@@ -58,6 +52,9 @@ Kandel, ER., et al. Neurociencias y Conducta. Prentice-Hall, 1996
 
 Kolb, B., & Whishaw, IQ. Brain and Behavior. 3ª edt. Worth Publ. 2011
 
+LECTURAS   OBLIGATORIAS   procedimientos   de   investigación,   pp.  153-170.  196-217.  del  movimiento,pp.
+269-303. ritmos biológicos, pp. 322-334. memoria, pp.469-479
+
 Morgado, I. Materia gris. Ariel, 2021
 
 Pinel, JPJ. Biopsicología, Pearson, 2007
@@ -72,6 +69,22 @@ Rosenzweig, M., et al. Psicobiología, 2ª edición, Ariel, 2005
 
 Squire, L. et al. Fundamental Neuroscience. 4th Ed. Academic Press, 2012 Spafford, CS. Physiological
 Psychology Dictionary, McGraw-Hill
+
+Watson, N. & Breedlove, M. The mind's machine. Foundations of brain and behaviour. Sinauer, 2012
+
+✅ Recursos añadidos (12):
+------------------------------
+Carlson,   NR.,   Birkett,   MA.,   Fisiología  de  la  Conducta.  12ª  edición,  Pearson,  2018,  Disponible  en
+Línea              en             la             Biblioteca             de             la             UGR:
+https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=7811
+
+Carlson, NR., Birkett, MA., Physiology of Behavior, 13ª ed., Pearson, 2021
+
+Encyclopedia of Behavioral Neuroscience (on-line, UGR)
+
+Encyclopedia of Neuroscience (on-line, UGR)
+
+Squire, L. et al. Fundamental Neuroscience. 4th Ed. Academic Press, 2012
 
 TEMA   1.   N.   R.   Carlson.   Fisiología   de  la  conducta.  11ª  edición.  Pearson,  2014.Cap.  5.  Métodos  y
 procedimientos de investigación, pp. 153-170
@@ -92,28 +105,4 @@ biológicos, pp. 322-334
 TEMA   7.  N.  R.  Carlson.  Fisiología  de  la  conducta.  11ª  edición.  Pearson,  2014.Cap.  13.  Aprendizaje  y
 memoria, pp.469-479
 
-Watson, N. & Breedlove, M. The mind's machine. Foundations of brain and behaviour. Sinauer, 2012
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Carlson,    NR.,    Birkett,    MA.,    Fisiología    de    la    Conducta.   12ª   edición,   Pearson,   2018,
-scritorio_Visualizar?cod_primaria=1000193&libro=7811   Carlson,   NR.,   Birkett,   MA.,   Physiology   of
-Behavior,   13ª   ed.,   Pearson,   2021   →  Carlson,  NR.,  Birkett,  MA.,  Physiology  of  Behavior,  13ª  ed.,
-Pearson, 2021
-
-✅ Recursos añadidos:
-------------------------------
-Carlson,   NR.,   Birkett,   MA.,   Fisiología  de  la  Conducta.  12ª  edición,  Pearson,  2018,  Disponible  en
-Línea              en             la             Biblioteca             de             la             UGR:
-https://www.ingebook.com/ib/NPcd/IB_Escritorio_Visualizar?cod_primaria=1000193&libro=7811
-
-Encyclopedia of Neuroscience (on-line, UGR)
-
-Freberg,   L.   Discovering  Behavioral  Neuroscience:  An  introduction  to  Biological  Psychology,  4ª  ed.,
-Cengage, 2018
-
-LECTURAS OBLIGATORIAS
-
-Squire, L. et al. Fundamental Neuroscience. 4th Ed. Academic Press, 2012
-
-📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 32% [███░░░░░░░]

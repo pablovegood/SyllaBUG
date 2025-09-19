@@ -2,12 +2,25 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Hume, D., La norma del gusto y otros ensayos, Península, Barcelona, 1987 Nietzsche, F. El nacimiento
+de la tragedia. Obras completas. Vol. IV. Tecnos, Madrid, 2016
 
-📚 Recursos sin cambios:
+Ortega   y   Gasset,  J.,  La  deshumanización  del  arte.  Espasa-Calpe,  Madrid,  2004  Platón.  Diálogos  III.
+Fedón, Banquete y Fedro. Gredos, Madrid, 1988
+
+Serrano   de   Haro,  A.  “Un  pensamiento  lúcido  en  tiempos  de  oscuridad:  Hannah  Arendt”,  en  M.  Garrido,
+L.   M.  Valdés  y  L.  Arenas  (coord.),  El  legado  filosófico  y  científico  del  siglo  XX.  Madrid,  Cátedra,
+2007, pp. 432-437 Spinoza, B., Ética. Alianza Editorial, Madrid, 1987
+
+Sánchez   Meca,   D.  Historia  de  la  filosofía  antigua  y  medieval.  Dykinson,  Madrid,  2013  Sánchez  Meca,
+D. Historia de la filosofía moderna y contemporánea. Dykinson, Madrid,2010
+
+📚 Recursos sin cambios (25):
 ------------------------------
+Aristóteles, Poética. Gredos, Madrid, 2007
+
 Copleston, F., Historia de la Filosofía, 9 vols., Ariel,Barcelona, 2001
 
 Danto, A. Después del fin del arte. Paidós, Barcelona. 1999
@@ -26,6 +39,9 @@ Heidegger, M. El origen de la obra de arte en M. Heidegger, Caminos de bosque. A
 
 Hoyos Sánchez, I. Sobre el amor y el miedo. Tópicos antiguos y enfoques modernos. Avarigani, Madrid,
 2016
+
+Kant,   I.   ¿Qué   es   la  ilustración?  y  otros  escritos  de  ética,  política  y  filosofía  de  la  historia.
+Alianza, Madrid, 2004
 
 Nietzsche, F. El caso Wagner, en F. Nietzsche, Obras completas. Vol. IV. Tecnos, Madrid, 2016
 
@@ -48,49 +64,34 @@ Platón, República. Gredos. Madrid, 1988
 
 Sánchez Meca, D. Diccionario esencial de filosofía. Dykinson, Madrid, 2012
 
-Vallejo Campos, A. Adonde nos lleve el logos. Para leer la República de Platón. Trotta, Madrid, 2018
-
-Ávila Crespo, R. Las pasiones trágicas. Tragedia y filosofía de vida. Trotta, Madrid, 2019
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ortega   y   Gasset,  J.,  La  deshumanización  del  arte.  Espasa-Calpe,  Madrid,  2004  Platón.  Diálogos  III.
-Fedón,   Banquete   y   Fedro.  Gredos,  Madrid,  1988  →  Ortega  y  Gasset,  J.,  La  deshumanización  del  arte.
-Espasa-Calpe, Madrid, 2004
-
-Hume, D., La norma del gusto y otros ensayos, Península, Barcelona, 1987 Nietzsche, F. El nacimiento
-de   la   tragedia.  Obras  completas.  Vol.  IV.  Tecnos,  Madrid,  2016  →  Nietzsche,  F.  El  nacimiento  de  la
-tragedia. Obras completas. Vol. IV. Tecnos, Madrid, 2016
-
-Alianza, Madrid, 2004  →  Spinoza, B., Ética. Alianza Editorial, Madrid, 1987
-
-Serrano   de   Haro,  A.  “Un  pensamiento  lúcido  en  tiempos  de  oscuridad:  Hannah  Arendt”,  en  M.  Garrido,
-L.   M.  Valdés  y  L.  Arenas  (coord.),  El  legado  filosófico  y  científico  del  siglo  XX.  Madrid,  Cátedra,
-2007,   pp.   432-437   Tatarkiewciz,   W.  Historia  de  seis  ideas.  Akal,  Madrid,  2002  →  Serrano  de  Haro,
-A.   “Un  pensamiento  lúcido  en  tiempos  de  oscuridad:  Hannah  Arendt”,  en  M.  Garrido,  L.  M.  Valdés  y  L.
-Arenas (coord.), El legado filosófico y científico del siglo XX. Madrid, Cátedra, 2007, pp. 432-437
-
-Sánchez   Meca,   D.  Historia  de  la  filosofía  antigua  y  medieval.  Dykinson,  Madrid,  2013  Sánchez  Meca,
-D.   Historia   de   la   filosofía   moderna   y   contemporánea.  Dykinson,  Madrid,2010  →  Sánchez  Meca,  D.
-Historia de la filosofía antigua y medieval. Dykinson, Madrid, 2013
-
-✅ Recursos añadidos:
-------------------------------
-Aristóteles, Poética. Gredos, Madrid, 2007
-
-Hume, D., La norma del gusto y otros ensayos, Península, Barcelona, 1987
-
-Kant,   I.   ¿Qué   es   la  ilustración?  y  otros  escritos  de  ética,  política  y  filosofía  de  la  historia.
-Alianza, Madrid, 2004
-
-Platón. Diálogos III. Fedón, Banquete y Fedro. Gredos, Madrid, 1988
-
-Sánchez Meca, D. Historia de la filosofía moderna y contemporánea. Dykinson, Madrid,2010
-
 Tatarkiewciz, W. Historia de seis ideas. Akal, Madrid, 2002
 
-Tatarkiewicz, W. Historia de la estética. 3 vol. Akal, Madrid, 1991, 2000 y 2002
+Tatarkiewicz, W. Historia de la estética. 3 vol. Akal, Madrid, 1991, 2000 y 2002.
+
+Vallejo Campos, A. Adonde nos lleve el logos. Para leer la República de Platón. Trotta, Madrid, 2018
 
 Valverde, J.M. Breve historia y antología de la estética, Ariel, Barcelona, 2009
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+Ávila Crespo, R. Las pasiones trágicas. Tragedia y filosofía de vida. Trotta, Madrid, 2019
+
+✅ Recursos añadidos (8):
+------------------------------
+Hume, D., La norma del gusto y otros ensayos, Península, Barcelona, 1987
+
+Nietzsche, F. El nacimiento de la tragedia. Obras completas. Vol. IV. Tecnos, Madrid, 2016
+
+Ortega y Gasset, J., La deshumanización del arte. Espasa-Calpe, Madrid, 2004
+
+Platón. Diálogos III. Fedón, Banquete y Fedro. Gredos, Madrid, 1988
+
+Serrano   de   Haro,  A.  “Un  pensamiento  lúcido  en  tiempos  de  oscuridad:  Hannah  Arendt”,  en  M.  Garrido,
+L.   M.  Valdés  y  L.  Arenas  (coord.),  El  legado  filosófico  y  científico  del  siglo  XX.  Madrid,  Cátedra,
+2007, pp. 432-437
+
+Spinoza, B., Ética. Alianza Editorial, Madrid, 1987
+
+Sánchez Meca, D. Historia de la filosofía antigua y medieval. Dykinson, Madrid, 2013
+
+Sánchez Meca, D. Historia de la filosofía moderna y contemporánea. Dykinson, Madrid,2010
+
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

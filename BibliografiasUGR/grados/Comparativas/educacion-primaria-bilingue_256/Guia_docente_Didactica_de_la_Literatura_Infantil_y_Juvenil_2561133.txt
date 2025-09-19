@@ -2,17 +2,15 @@
 Grado: educacion-primaria-bilingue (256)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (7):
 ------------------------------
-Albanell, P.; Alonso, F.; Cansino, E.; Docampo, Xabier P.; Farias, J.; Fernández Paz, A
-
-Arizpe, E. & Styles, M. (2014). Lectura de imágenes. Los niños interpretan textos visuales
+Albanell, P.; Alonso, F.; Cansino, E.; Docampo, Xabier P.; Farias, J.; Fernández Paz, A.; Landa, M.;
+Gisbert, J. M.; Muñoz Puelles, V. & Zubizarreta, P. (2002). Hablemos de leer.Anaya
 
 Baró, M., Mañá, T. y Vellosillo, I. (2001). Bibliotecas escolares, ¿para qué? Anaya
 
-Cerrillo, P. y García Padrino, J., coords. (1996). Hábitos lectores y animación a la lectura
-
-Landa, M.; Gisbert, J. M.; Muñoz Puelles, V. & Zubizarreta, P. (2002). Hablemos de leer.Anaya
+Gómez-Villalba   Ballesteros,   E.&   Pérez   González,   J.  (2003).  Lectura  recreativa  y  González,  L.  D.
+(2000). Bienvenidos a la fiesta. CIE/Dossat
 
 Morales Lomas, F. (2012) Sociología de la literatura infantil y juvenil. Zumaya
 
@@ -24,8 +22,11 @@ Angela (Coords.) Leitura e Educaçao Literária (pp. 75-86), PACTOR
 Villanueva-Roa,    J.    D.    (2018).   Bibliotecas   y   LIJ,   en   La   literatura   infantil   y   juvenil:
 investigaciones, Elena Jiménez y Santiago Fabregat (Coords). Octaedro, pp. 51-65
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (53):
 ------------------------------
+Arizpe,   Evelyn   &  Styles,  Morag  (2014).  Lectura  de  imágenes.  Los  niños  interpretan  textos  visuales.
+Fondo de Cultura Económica
+
 Bermúdez Martínez, María & Núñez Delgado, Pilar (eds.) (2012). Canon y educación literaria. Octaedro
 
 Borda   Crespo,   María   Isabel   (2017).   El   cuento   infantil  y  otros  géneros  literarios  infantiles  y
@@ -37,6 +38,9 @@ lecturas para niños. Síntesis
 Calvo, Mercedes (2015). Tomar la palabra. La poesía en la escuela. Fondo de Cultura Económica
 
 Castán, Guillermo (2002). Las bibliotecas escolares. Soñar, pensar, hacer. Díada
+
+Cerrillo,   Pedro  y  García  Padrino,  Jaime,  coords.  (1996).  Hábitos  lectores  y  animación  a  la  lectura.
+Universidad de Castilla-La Mancha
 
 Chambers, Aidan (2007). Dime. Fondo de Cultura Económica
 
@@ -50,6 +54,9 @@ Colomer, Teresa (2010). Introducción a la literatura infantil y juvenil actual 
 
 Coronas,   Mariano   (2000).   La   biblioteca   escolar:   un   espacio   para   leer,   escribir  y  aprender.
 Departamento de Educación
+
+De   Amo,   José   Manuel   (2003).   Literatura   infantil:   claves   para   la  formación  de  la  competencia
+literaria. Aljibe
 
 Durán, Teresa (2002). Leer antes de leer. Anaya
 
@@ -67,11 +74,6 @@ Garralón,   Ana   (2017).   Historia   portátil   de   la   literatura   infan
 Universidad de Zaragoza
 
 Garralón, Ana (2024). Las incursoras. Mujeres, libros, infancia. Las Afueras
-
-González, Luis Daniel (2000). Bienvenidos a la fiesta. CIE/Dossat
-
-Gómez-Villalba   Ballesteros,   Elena  &  Pérez  González,  Jesús  (2003).  Lectura  recreativa  y  aprendizaje
-de habilidades lingüísticas básicas. Universidad de Granada
 
 Jean, Georges (1996) La poesía en la escuela. Ediciones de la Torre
 
@@ -143,25 +145,17 @@ Warner, Marina (2019). Cuentos de hadas: una introducción. Larrad
 Zipes,   Jack  (2014).  El  irresistible  cuento  de  hadas.  Historia  cultural  y  social  de  un  género.  Fondo
 de Cultura Económica
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Albanell,   Pep;  Alonso,  Fernando;  Cansino,  Eliacer;  Docampo,  Xabier  P.;  Farias,  Juan;  Fernández  Paz,
 Agustín;   Landa,  Mariasun;  Gisbert,  Joan  Manuel;  Muñoz  Puelles,  Vicente  &  Zubizarreta,  Patxi  (2002).
 Hablemos de leer. Anaya
 
-Arizpe,   Evelyn   &  Styles,  Morag  (2014).  Lectura  de  imágenes.  Los  niños  interpretan  textos  visuales.
-Fondo de Cultura Económica
-
 Baró, Mónica, Mañá, Teresa y Vellosillo, Inmaculada (2001). Bibliotecas escolares, ¿para qué? Anaya
 
-Cerrillo,   Pedro  y  García  Padrino,  Jaime,  coords.  (1996).  Hábitos  lectores  y  animación  a  la  lectura.
-Universidad de Castilla-La Mancha
+González, Luis Daniel (2000). Bienvenidos a la fiesta. CIE/Dossat
 
-De   Amo,   José   Manuel   (2003).   Literatura   infantil:   claves   para   la  formación  de  la  competencia
-literaria. Aljibe
+Gómez-Villalba   Ballesteros,   Elena  &  Pérez  González,  Jesús  (2003).  Lectura  recreativa  y  aprendizaje
+de habilidades lingüísticas básicas. Universidad de Granada
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]

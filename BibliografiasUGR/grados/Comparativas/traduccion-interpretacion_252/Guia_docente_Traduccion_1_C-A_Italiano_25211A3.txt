@@ -2,13 +2,19 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+RAE.   Diccionario   Panhispánico  de  dudas.  http://buscon.rae.es/dpdI/  RAE.  (2009).  Nueva  gramática  de
+la lengua española. Madrid: Espasa SECO, M. (2000). Diccionario de dudas y dificultades de la lengua
+española. Madrid: Espasa
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 BUENO GARCÍA, A. (2001). Publicidad y Traducción. Soria: Diputación Provincial de Soria
+
+CALVI,   Mª   V.   (2010).   Los   géneros   discursivos   en   la   lengua   del   turismo:   una   propuesta  de
+clasificación.              file:///C:/Users/Usuario/Downloads/HispadocosGenerosDiscursivosEnLaLengua
+DelTurismo3185284.pdf
 
 D'ACHILLE, P. (2016). L'Italiano Contemporaneo. Bologna: Il Mulino
 
@@ -29,6 +35,9 @@ MOLINER, M. (2007). Diccionario de uso del español. Madrid: Gredos
 NIDA,   Eugene   (2012).   Sobre   la   traducción.   Cátedra:  Madrid.  Trad.  E.  NIDA  y  M.  Elena  Fernández-
 Miranda-Nida
 
+NOTA:   En   clase   se   facilitará   bibliografía   adicional   DE   BENEDETTI,   A.  (2004).  L'informazione
+liofilizzata. Franco Cesati Editore
+
 OSIMO, B. (1998). Manuale del traduttore. Guida pratica con glossario. Milano: Hoepli
 
 RAE. (1999). Ortografía de la lengua española. Madrid: Espasa
@@ -39,40 +48,26 @@ de Vigo
 SOBRERO,   A.A.   (2007).   Introduzione   all’italiano   contemporaneo.   La   variazione  e  gli  usi.  Roma:
 Laterza
 
+SOTO   ALMELA,   J.   (2019).   La   traducción   de   la   cultura   en  el  sector  turístico:  una  cuestión  de
+aceptabilidad. Bern: Peter Lang
+
 TAM,     L.     (2011).     Dizionario     spagnolo-italiano,     italiano-español.     Milano:     Hoepli.
 http://dizionari.hoepli.it/
 
-ZINGARELLI,   N.   (2013).   Vocabolario   della   Lingua  Italiana.  Bologna:  Zanichelli  [se  recomienda  la
-utilización de las ediciones más actualizadas en soporte electrónico]
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-RAE.   (2009).   Nueva  gramática  de  la  lengua  española.  Madrid:  Espasa  SECO,  M.  (2000).  Diccionario  de
-dudas   y   dificultades   de   la   lengua   española.   Madrid   →  SECO,  M.  (2000).  Diccionario  de  dudas  y
-dificultades de la lengua española. Madrid: Espasa
-
-CALVI,   Mª   V.   (2010).   Los   géneros   discursivos   en   la   lengua   del   turismo:   una   propuesta  de
-clasificación.              file:///C:/Users/Usuario/Downloads/HispadocosGenerosDiscursivosEnLaLengua
-DelTurismo3185284.pdf   CALVI,  Mª  V.  (2006).  Lengua  y  comunicación  en  el  español  del  turismo.  Madrid:
-Arcos   Libros   S.L   →   CALVI,   Mª   V.   (2010).  Los  géneros  discursivos  en  la  lengua  del  turismo:  una
-propuesta                                       de                                      clasificación.
-file:///C:/Users/Usuario/Downloads/HispadocosGenerosDiscursivosEnLaLengua DelTurismo3185284.pdf
-
-SOTO   ALMELA,   J.   (2019).   La   traducción   de   la   cultura   en  el  sector  turístico:  una  cuestión  de
-aceptabilidad.   Bern:  Peter  Lang  DE  BENEDETTI,  A.  (2004).  L'informazione  liofilizzata.  Franco  Cesati
-Editore  →  DE BENEDETTI, A. (2004). L'informazione liofilizzata. Franco Cesati Editore
-
-✅ Recursos añadidos:
-------------------------------
+file:///C:/Users/Usuario/Downloads/HispadocosGenerosDiscursivosEnLaLengua       DelTurismo3185284.pdf
 CALVI, Mª V. (2006). Lengua y comunicación en el español del turismo. Madrid: Arcos Libros S.L
 
+http://dizionari.hoepli.it/   ZINGARELLI,   N.   (2013).   Vocabolario   della   Lingua  Italiana.  Bologna:
+Zanichelli [se recomienda la utilización de las ediciones más actualizadas en soporte electrónico]
+
+✅ Recursos añadidos (4):
+------------------------------
 NOTA: En clase se facilitará bibliografía adicional
 
 RAE. (2009). Nueva gramática de la lengua española. Madrid: Espasa
 
 RAE. Diccionario Panhispánico de dudas. http://buscon.rae.es/dpdI/
 
-SOTO   ALMELA,   J.   (2019).   La   traducción   de   la   cultura   en  el  sector  turístico:  una  cuestión  de
-aceptabilidad. Bern: Peter Lang
+SECO, M. (2000). Diccionario de dudas y dificultades de la lengua española. Madrid: Espasa
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

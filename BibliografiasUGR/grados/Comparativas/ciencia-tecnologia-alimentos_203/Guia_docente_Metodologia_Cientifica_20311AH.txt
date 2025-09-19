@@ -2,11 +2,14 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Hernández-Sampieri,   R.,   Fernández-Collado,   C.,   Baptista-Lucio,   M.P.   (2014).   Metodología  de  la
+Investigación,   sexta   edición.  Mc  Graw  Hill  Educación,  México  Insight  Media  (2010).  How  to  Read  and
+Understand   a  Research  Study;  Research  Design:  The  Experiment;  Research  Design:  The  Survey;  Research
+Ethics. DVDs of Science. Insight Media, New York, US
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 Bernabeu,   J.,   Wanden-Berghe,   C.,   Sanz,   J.,   Castiel,   L.D.,   landaeta,  M.,  Anderson,  H.  (1997).
 Investigación   e  Innovación  Tecnológica  en  la  Ciencia  de  la  Nutrición.  Editorial  Club  Universitario,
@@ -64,18 +67,12 @@ Tamayo, M. (2005). Metodología formal de la investigación científica. Editori
 
 Wilson, E.B. (1991). An introduction to scientific research. McGraw-Hill, New York
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 Hernández-Sampieri,   R.,   Fernández-Collado,   C.,   Baptista-Lucio,   M.P.   (2014).   Metodología  de  la
-Investigación,   sexta   edición.  Mc  Graw  Hill  Educación,  México  Insight  Media  (2010).  How  to  Read  and
-Understand   a  Research  Study;  Research  Design:  The  Experiment;  Research  Design:  The  Survey;  Research
-Ethics.   DVDs   of   Science.  Insight  Media,  New  York,  US  →  Hernández-Sampieri,  R.,  Fernández-Collado,
-C.,   Baptista-Lucio,   M.P.   (2014).   Metodología   de   la   Investigación,  sexta  edición.  Mc  Graw  Hill
-Educación, México
+Investigación, sexta edición. Mc Graw Hill Educación, México
 
-✅ Recursos añadidos:
-------------------------------
 Insight   Media  (2010).  How  to  Read  and  Understand  a  Research  Study;  Research  Design:  The  Experiment;
 Research Design: The Survey; Research Ethics. DVDs of Science. Insight Media, New York, US
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

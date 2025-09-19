@@ -2,11 +2,11 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (42):
 ------------------------------
 AA.VV. Introducción a la Historia del Arte. Barcelona, Barcanova, 1990
 
@@ -49,6 +49,8 @@ GOMBRICH,   E.   Ideales   e   ídolos:  ensayo  sobre  los  valores  en  la  Hi
 
 GOMBRICH, E. et al. Arte, percepción y realidad. Barcelona, Paidós, 2007
 
+GONZÁLEZ GARCÍA, J.L. Imágenes sagradas y predicación visual en el Siglo de Oro. Madrid, Akal, 2015
+
 GOODMAN, N. Los lenguajes del arte. Barcelona, Seix Barral, 1976
 
 GREENHALGH, M. La tradición clásica en el arte. Madrid, Hermann Blume, 1987
@@ -73,6 +75,12 @@ PLAZA ESCUDERO, L. et al. Diccionario visual de términos de arte. Madrid, Cáte
 PLAZA   ESCUDERO,   L.  et  al.  Guía  para  identificar  las  escenas  y  los  personajes  de  la  Biblia.  Madrid,
 Cátedra, 2021
 
+PLAZA   ESCUDERO,   L.   et   al.   Guía  para  identificar  los  personajes  de  la  mitología  clásica.  Madrid,
+Cátedra, 2016
+
+PLAZA   ESCUDERO,   L.   et   al.   Guía  para  identificar  los  santos  de  la  iconografía  cristiana.  Madrid,
+Cátedra, 2018
+
 RAMIREZ, J.A. (dir.). Historia del Arte. Madrid, Alianza, 1996-1997
 
 REAU, L. Iconografía del arte cristiano. Barcelona, Ediciones del Serbal, 2000
@@ -90,30 +98,14 @@ URQUÍZAR HERRERA, A. y GARCÍA MELERO, J.E. La construcción historiográfica d
 
 VORÁGINE, S. La leyenda dorada. Madrid, Alianza, 2016
 
-WITTKOWER, R. La alegoría y migración de los símbolos. Madrid, Siruela, 2006
+WITTKOWER, R. La alegoría y migración de los símbolos. Madrid, Siruela, 2006 (lectura obligatoria)
 
 WOLLHEIM, R. El arte y sus objetos. Barcelona, Seix Barral, 1972
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Madrid,   Cátedra,   2018   →   PLAZA   ESCUDERO,   L.   et   al.   Guía   para   identificar  las  escenas  y  los
-personajes de la Biblia. Madrid, Cátedra, 2021
-
-Madrid,   Cátedra,   2016   →   PLAZA   ESCUDERO,   L.   et   al.   Guía   para   identificar  las  escenas  y  los
-personajes de la Biblia. Madrid, Cátedra, 2021
-
-✅ Recursos añadidos:
-------------------------------
-GONZÁLEZ GARCÍA, J.L. Imágenes sagradas y predicación visual en el Siglo de Oro. Madrid, Akal, 2015
-
 PANOFSKY, E. El significado en las Artes visuales. Madrid, Alianza, 1987 [lectura obligatoria]
-
-PLAZA   ESCUDERO,   L.   et   al.   Guía  para  identificar  los  personajes  de  la  mitología  clásica.  Madrid,
-Cátedra, 2016
-
-PLAZA   ESCUDERO,   L.   et   al.   Guía  para  identificar  los  santos  de  la  iconografía  cristiana.  Madrid,
-Cátedra, 2018
 
 SAXL, F. La vida de las imágenes. Madrid, Alianza, 1993
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

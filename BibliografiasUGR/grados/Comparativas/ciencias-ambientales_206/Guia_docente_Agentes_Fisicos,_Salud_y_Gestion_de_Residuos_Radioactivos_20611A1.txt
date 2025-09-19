@@ -2,12 +2,17 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Radiobiology   for   the  Radiologist.  7Th  edition.  Philadelphia,  PA  :  Wolters  Kluwer  Health/Lippincott
+Williams   &   Wilkins,   [2012]   Radiochemistry  and  Nuclear  Methods  of  Analysis.  William  D.  Ehmann  and
+Diane E. Vance Ed. John Wiley & Sons, Inc. New York. 1991
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
+Artículos científicos de revistas disponibles en la UGR o vía electrónica: Epidemiología ambiental y
+cáncer. Environmental health perspectives. Occupational and environnmental medicine
+
 Atoms, Radiation, and Radiation Protection. James E. Turner, Second Edition. John Wiley & Sons, Inc.
 New York. 1995
 
@@ -26,19 +31,12 @@ Library Cataloguing in Publication Data. 1996
 
 Residuos radiactivos y su percepción pública. Ed. Colegio Oficial de Físicos. 2000
 
+Revistas especializadas: Nuclear España (Sociedad Nuclear Española)
+
 VI Plan General de Residuos Radiactivos. ENRESA. 2009
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Radiobiology   for   the  Radiologist.  7Th  edition.  Philadelphia,  PA  :  Wolters  Kluwer  Health/Lippincott
-Williams   &   Wilkins,   [2012]   Radiochemistry  and  Nuclear  Methods  of  Analysis.  William  D.  Ehmann  and
-Diane   E.   Vance   Ed.  John  Wiley  &  Sons,  Inc.  New  York.  1991  →  Radiochemistry  and  Nuclear  Methods  of
-Analysis. William D. Ehmann and Diane E. Vance Ed. John Wiley & Sons, Inc. New York. 1991
-
-✅ Recursos añadidos:
-------------------------------
-Artículos científicos de revistas disponibles en la UGR o vía electrónica
-
 Environmental health perspectives
 
 Epidemiología ambiental y cáncer
@@ -55,6 +53,7 @@ Depósito Legal: pendiente tramitación
 Radiobiology   for   the  Radiologist.  7Th  edition.  Philadelphia,  PA  :  Wolters  Kluwer  Health/Lippincott
 Williams & Wilkins, [2012]
 
-Revistas especializadas: Nuclear España (Sociedad Nuclear Española)
+Radiochemistry   and  Nuclear  Methods  of  Analysis.  William  D.  Ehmann  and  Diane  E.  Vance  Ed.  John  Wiley
+& Sons, Inc. New York. 1991
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

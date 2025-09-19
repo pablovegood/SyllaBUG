@@ -2,18 +2,19 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
-Castell, A.: Gramática de la lengua alemana, Ed. Idiomas, 1997
-
 Corcoll,   B.   y   R.:   Programm.   Alemán   para   hispanohablantes.   Ejercicios   /Übungen,   Soluciones/
 Lösungsschlüssel. Ed. Herder, Barcelona, 1994
 
 Corcoll, B. y R.: Programm. Alemán para hispanohablantes. Gramática. Ed. Herder, Barcelona, 1994
+
+DaF   kompakt   neu   B1   (Ed.   Ernst   Klett  Sprachen)  Castell,  A.:  Gramática  de  la  lengua  alemana,  Ed.
+Idiomas, 1997
 
 Götz,   D.,   Haensch,   G.,   Wellmann,   H.   :   Langenscheidts  Großwörterbuch  Deutsch  als  Fremdsprache.
 Langenscheidt: Vocabulario fundamental del alemán. Langenscheidt: Diccionario Moderno Alemán
@@ -34,14 +35,10 @@ Vilar Sánchez, K.: “Diccionario de sinónimos funcionales”, en Faber, Pamel
 Wotjak   (eds.)   Léxico   especializado   y  comunicación  interlingüisitca.  Granada:  Granada  Lingvistica
 2004, 297-322
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 DaF kompakt neu B1 (Ed. Ernst Klett Sprachen)
 
 Langenscheidt: Diccionario Moderno Alemán
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

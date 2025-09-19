@@ -2,29 +2,30 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Editorial   Médica  Panamericana.2009  -Nield-Gehrig  JS,  Houseman  GA.  Fundamentos  de  la  Instrumentación
+periodontal. Masson 1998
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
-No hay elementos.
+Clinical   Periodontology  and  Implant  Dentistry.  Lindhe  J.  and  Lang  NP.  Sixth  Edition.  John  Wiley  and
+Son. 2015 Gómez de Ferraris ME, Campos A. Histología, Embriología e ingeniería tisular bucodental
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Masson,   2005.   Periodontología   clínica.   Carranza  FA,  Newman  MG,  Takei  HH..  10ª  ed.  México:  McGraw
-Hill   Interamericana;   2010.   Clinical   Periodontology  and  Implant  Dentistry.  Lindhe  J.  and  Lang  NP.
-Sixth   Edition.   John   Wiley  and  Son.  2015  Gómez  de  Ferraris  ME,  Campos  A.  Histología,  Embriología  e
-ingeniería   tisular   bucodental   →   Periodontología   clínica.  Carranza  FA,  Newman  MG,  Takei  HH..  10ª
-ed. México: McGraw Hill Interamericana; 2010
-
-Editorial   Médica   Panamericana.2009  Nield-Gehrig  JS,  Houseman  GA.  Fundamentos  de  la  Instrumentación
-periodontal.    Masson    1998.    Schoen    D,   Dean   MC.   Instrumentación   Periodontal.   Masson   1999.
 Instrumentación    en    Periodoncia.    Orientación    clínica.    Pattison-Pattison.   Editorial   Médica
-Panamericana.   Buenos   Aires.  1985.  Monografías  específicas  dadas  al  final  de  cada  clase  →  Schoen  D,
-Dean MC. Instrumentación Periodontal. Masson 1999
+Panamericana. Buenos Aires. 1985
 
-✅ Recursos añadidos:
+Monografías específicas dadas al final de cada clase
+
+Periodoncia   /   Herbert   F.  Wolf,  Edith  M.  &  Klaus  H.  Rateitschak  Editor/impresor  Barcelona:  Masson,
+2005
+
+Periodontología    clínica.   Carranza   FA,   Newman   MG,   Takei   HH..   10ª   ed.   México:   McGraw   Hill
+Interamericana; 2010
+
+Schoen D, Dean MC. Instrumentación Periodontal. Masson 1999
+
+✅ Recursos añadidos (6):
 ------------------------------
 1- Identificación borde cortante curetas Gracey. https://www.youtube.com/watch?v=uNuanUB8VlA
 
@@ -32,16 +33,8 @@ Dean MC. Instrumentación Periodontal. Masson 1999
 
 3-Afilado mecánico de curetas Gracey. PerioStar 3000. https://www.youtube.com/watch?v=-KW-ffDvjDI
 
-Clinical   Periodontology  and  Implant  Dentistry.  Lindhe  J.  and  Lang  NP.  Sixth  Edition.  John  Wiley  and
-Son. 2015
-
 Gómez   de   Ferraris  ME,  Campos  A.  Histología,  Embriología  e  ingeniería  tisular  bucodental.  Editorial
 Médica Panamericana.2009
-
-Instrumentación    en    Periodoncia.    Orientación    clínica.    Pattison-Pattison.   Editorial   Médica
-Panamericana. Buenos Aires. 1985
-
-Monografías específicas dadas al final de cada clase
 
 Nield-Gehrig JS, Houseman GA. Fundamentos de la Instrumentación periodontal. Masson 1998
 
@@ -49,7 +42,4 @@ Para   el   conocimiento   de   las  curetas  y  su  afilado,  los  alumnos  dis
 elaborados   por   el   profesor   Mesa,   dentro   de   un   programa   de   ayuda   a  la  Docencia  práctica  en
 Periodoncia
 
-Periodoncia   /   Herbert   F.  Wolf,  Edith  M.  &  Klaus  H.  Rateitschak  Editor/impresor  Barcelona:  Masson,
-2005
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 58% [█████░░░░░]

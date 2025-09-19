@@ -2,15 +2,12 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
-Albrecht,   M.   von  (1997-1999):  Historia  de  la  literatura  romana  desde  Andronico  hasta  Boecio,  trad.
-esp. de D. Estefanía y A. Pociña, 2 vols. (Barcelona: Herder)
-
 Bayet, J. (1972): Literatura latina, trad. esp. de Andrés Espinosa, 3ª ed. (Barcelona: Ariel)
 
 Bickel,   E.   (1982):   Historia   de   la  literatura  romana,  versión  esp.  de  José  Mª  Díaz-Regañón  López
@@ -24,8 +21,8 @@ Gredos)
 
 Codoñer, C., ed. (1997): Historia de la Literatura Latina (Madrid: Cátedra)
 
-Conte,   G.   B.,   ed.   (2009):   P.   VERGILIVS  MARO,  Aeneis,  Bibliotheca  Teubneriana  (Berolini  et  Novi
-Eboraci: De Gruyter)
+EDICIONES   Y   TRADUCCIONES   DE   VIRGILIO   Conte,   G.   B.,   ed.   (2009):   P.   VERGILIVS  MARO,  Aeneis,
+Bibliotheca Teubneriana (Berolini et Novi Eboraci: De Gruyter)
 
 Echave-Sustaeta,   J.,   ed.   (1992):  VIRGILIO,  Eneida,  Introd.  de  Vicente  Cristóbal,  trad.  y  notas  de
 Javier Echave-Sustaeta (Madrid: Gredos) [Introducción: pp. 11-130]
@@ -53,6 +50,9 @@ Horsfall, N. (2001): A companion to the study of Virgil (Leiden: Brill)
 Kenney,   E.   J.   –   Clausen,   W.  v.  (1989):  Historia  de  la  literatura  clásica.  II  Literatura  latina,
 trad. esp. Elena Bombín (Madrid: Gredos)
 
+MANUALES   DE   LITERATURA  LATINA  Albrecht,  M.  von  (1997-1999):  Historia  de  la  literatura  romana  desde
+Andronico hasta Boecio, trad. esp. de D. Estefanía y A. Pociña, 2 vols. (Barcelona: Herder)
+
 Mynors, R. A. B., ed. (1969): P. VERGILI MARONIS, Opera (Oxonii: e typographeo Clarendoniano)
 
 Perutelli, A. (2000) La poesia epica latina: dalle origini all'età dei Flavi (Roma: Carocci)
@@ -63,14 +63,10 @@ Rivero García, L. [et alii], eds. (2009-2011): PUBLIO VIRGILIO MARÓN, Eneida, 
 trad.   y  notas  (Madrid:  Consejo  Superior  de  Investigaciones  Científicas)  [2009  (vol.  I),  2011  (vols.
 II, III, IV)] [Introducción: vol. I, pp. XIII-CCXVI]
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 EDICIONES Y TRADUCCIONES DE VIRGILIO
 
 MANUALES DE LITERATURA LATINA
 
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

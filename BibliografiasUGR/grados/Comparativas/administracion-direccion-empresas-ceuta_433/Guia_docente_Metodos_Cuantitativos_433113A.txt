@@ -2,11 +2,16 @@
 Grado: administracion-direccion-empresas-ceuta (433)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Aguado Franco, J.C. (2007). Teoría de la decisión y de los juegos. Madrid: Delta, 2007 Barba-Romero,
+S.   (1997).  Decisiones  multicriterio:  fundamentos  teóricos  y  utilización  práctica  Pérez  Navarro,  J.,
+Jimeno Pastor, J.L., Cerdá Tena, E. (2005). Teoría de juegos. Madrid: Pearson Educación
 
-📚 Recursos sin cambios:
+Dordrecht   :   Kluwer  Academic,  2002  Ehrgott,  M.  (2005).  Multicriteria  Optimization.  Springer  Berlin,
+Heidelberg
+
+📚 Recursos sin cambios (17):
 ------------------------------
 Barbolla,   R.,   Cerdá,   E.,   Sanz,   P.,   Optimización.   Cuestiones,   ejercicios   y  aplicaciones  a  la
 economía. Prentice Hall, 2001
@@ -17,6 +22,14 @@ Programming: Theoretical Results and Practical Applications. Springer Berlin Hei
 Bazaraa, M., Jarvis, J., Sherali,H., Programación y Flujo de Redes. Limusa, 1998
 
 Bierman, H.S. (1993). Game theory with economic applications, Addison Wesley
+
+Doumpos,   M.  y  Zopounidis,  C.  (2002).  Multicriteria  decision  aid  classification  methods.  Dordrecht  :
+Kluwer Academic, 2002
+
+En   general,   se   recordará   al   alumno   que   todo   libro   del  catálogo  de  nuestra  biblioteca,  sobre
+Optimización,   Decisión   Multicriterio   y  Teoría  de  Juegos  es  un  potencial  libro  complementario  para
+consulta de diferentes tópicos, ejemplos y ejercicios sobre los contenidos de la asignatura. Dada la
+amplia colección de los mismos se omite una lista detallada de ellos
 
 Friedman, J.W. (1991). Game theory with applications to economics, Oxford University Press
 
@@ -44,28 +57,15 @@ determinísticos y estocásticos. Centro de Estudios Ramón Areces, 2004
 
 Taha, H. A., Investigación de Operaciones. Prentice Hall, 2004
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Doumpos,   M.  y  Zopounidis,  C.  (2002).  Multicriteria  decision  aid  classification  methods.  Dordrecht  :
-Kluwer   Academic,  2002  Ehrgott,  M.  (2005).  Multicriteria  Optimization.  Springer  Berlin,  Heidelberg  →
-Ehrgott, M. (2005). Multicriteria Optimization. Springer Berlin, Heidelberg
-
-Aguado   Franco,   J.C.   (2007).   Teoría   de  la  decisión  y  de  los  juegos.  Madrid:  Delta,  2007  práctica
-Pérez   Navarro,   J.,   Jimeno   Pastor,   J.L.,  Cerdá  Tena,  E.  (2005).  Teoría  de  juegos.  Madrid  →  Pérez
-Navarro, J., Jimeno Pastor, J.L., Cerdá Tena, E. (2005). Teoría de juegos. Madrid: Pearson Educación
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Aguado Franco, J.C. (2007). Teoría de la decisión y de los juegos. Madrid: Delta, 2007
 
 Barba-Romero, S. (1997). Decisiones multicriterio: fundamentos teóricos y utilización práctica
 
-Doumpos,   M.  y  Zopounidis,  C.  (2002).  Multicriteria  decision  aid  classification  methods.  Dordrecht  :
-Kluwer Academic, 2002
+Ehrgott, M. (2005). Multicriteria Optimization. Springer Berlin, Heidelberg
 
-En   general,   se   recordará   al   alumno   que   todo   libro   del  catálogo  de  nuestra  biblioteca,  sobre
-Optimización,   Decisión   Multicriterio   y  Teoría  de  Juegos  es  un  potencial  libro  complementario  para
-consulta de diferentes tópicos, ejemplos y ejercicios sobre los contenidos de la asignatura. Dada la
-amplia colección de los mismos se omite una lista detallada de ellos
+Pérez   Navarro,   J.,   Jimeno   Pastor,  J.L.,  Cerdá  Tena,  E.  (2005).  Teoría  de  juegos.  Madrid:  Pearson
+Educación
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

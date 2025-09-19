@@ -2,14 +2,11 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Narbona   García,   J.,  &  Chevrie-Muller,  C.  (2003).  El  lenguaje  del  niño:  Desarrollo  normal,  Grado  de
-implicación   y  actitud  del  alumnado  manifestada  en  su  participación  en  las  consultas,  exposiciones  y
-debates;   así  como  en  la  elaboración  de  los  trabajos,  individuales  o  en  equipo,  y  en  las  sesiones  de
-puesta en común
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Angiono,   V.   A.,   Fernández  Reuter,  M.  C.,  Mercado,  L.  B.,  Angiono,  V.  A.,  Fernández  Reuter,  M.  C.,
 Mercado,   L.   B.,   Angiono,   V.   A.,  Fernández  Reuter,  M.  C.,  &  Mercado,  L.  B.  (2019).  Manual  de  los
@@ -23,11 +20,10 @@ Educación Preescolar y Especial
 Damico,   J.,   Mèuller,   N.,   Ball,   M.   J.,  &  ebrary,  I.  (2010).  The  handbook  of  language  and  speech
 disorders. Chichester, U.K.; Malden, Mass.: Wiley-Blackwell
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Narbona García, J., & Chevrie-Muller, C. (2003). El lenguaje del niño: Desarrollo normal, evaluación
+y trastornos (2ª, reimpr ed.). Barcelona: Masson
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (30):
 ------------------------------
 Berens,   M.   S.,   Kovelman,  I.,  &  Petitto,  L.  (2013).  Should  bilingual  children  learn  reading  in  two
 languages    at    the    same    time   or   in   sequence?   Bilingual   Research   Journal,   36(1),   35-60.
@@ -113,9 +109,6 @@ trastorno invisible. Madrid: Pirámide
 Namasivayam,   A.   K.,  Coleman,  D.,  O’Dwyer,  A.,  &  Van  Lieshout,  P.  (2020).  Speech  sound  disorders  in
 children: An articulatory phonology perspective. Frontiers in psychology, 10, 468516
 
-Narbona García, J., & Chevrie-Muller, C. (2003). El lenguaje del niño: Desarrollo normal, evaluación
-y trastornos (2ª, reimpr ed.). Barcelona: Masson
-
 Peña-Casanova, J. (2014). Manual de logopedia (4ª ed.). Barcelona: Masson
 
 Preston, J. L., Frost, S. J., Mencl, W. E., Fulbright, R. K., Landi, N., Grigorenko, E., . . . Pugh,
@@ -145,4 +138,4 @@ Waring,   R.,  Rickard  Liow,  S.,  Dodd,  B.,  &  Eadie,  P.  (2022).  Differen
 phonological   disorder:   executive   function   performance   in  preschoolers.  International  Journal  of
 Language & Communication Disorders, 57(2), 288-302
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 88% [████████░░]

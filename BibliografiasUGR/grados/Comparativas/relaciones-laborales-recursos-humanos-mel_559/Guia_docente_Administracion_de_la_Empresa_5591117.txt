@@ -2,11 +2,11 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (29):
 ------------------------------
 Bateman,   T.  S.  y  Snell,  S.  A.  (2005),  Administración:  un  nuevo  panorama  competitivo.  6ª  ed.  México:
 McGraw-Hill
@@ -45,6 +45,11 @@ Gutiérrez Aragón, O. (2013). Fundamentos de administración de empresas. Pirá
 
 Gómez Mejía, L. R. y Balkin, D. B. (2003), Administración. Madrid: McGraw-Hill
 
+Hellriegel,   D.;   Jackson,   S.   E.   y   Slocum,   J.   W.   (2005),  Administración:  un  enfoque  basado  en
+competencias. 10ª ed. Madrid: Thomson
+
+Hitt, M. A, Black, J. S. y Porter, L. W. (2006), Administración. México: Pearson Educación
+
 Koontz,   H.   y   Weihrich,  H.  (2004),  Administración:  una  perspectiva  global.  12ª  ed.  México:  McGraw-
 Hill
 
@@ -74,15 +79,8 @@ competitiva. 4ª ed. Madrid: Thomson
 
 Yukl. G. (1998), Liderazgo en las organizaciones. 6ª ed. Madrid: Pearson Educación
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Hellriegel, D.; Jackson, S. E. y Slocum, J. W. (2005), Administración: un enfoque basado en Hitt, M.
-A,   Black,   J.   S.   y   Porter,  L.  W.  (2006),  Administración.  México:  Pearson  Educación  →  Hellriegel,
-D.;   Jackson,   S.   E.  y  Slocum,  J.  W.  (2005),  Administración:  un  enfoque  basado  en  competencias.  10ª
-ed. Madrid: Thomson
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Hitt, M. A, Black, J. S. y Porter, L. W. (2006), Administración. México: Pearson Educación
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

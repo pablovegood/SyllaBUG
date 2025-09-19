@@ -2,24 +2,25 @@
 Grado: ingenieria-tecnologias-telecomunicacion (221)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-A.S. Tanenbaum, Computer Networks, 4ª ed., Prentice Hall, 2003. ISBN: 970-26-01622
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 A.   León-García,   I.   Widjaja:   “Redes   de   Comunicación.   Conceptos   Fundamentales   y  Arquitecturas
 Básicas”.   McGraw  Hill,  2002.  ISBN:  8448131975  P.  García,  J.  Díaz,  J.  López:  “Transmisión  de  datos  y
-redes   de   computadores”.   Prentice-  Hall,  2003.  ISBN:  84-205-3919-8  W.  Stallings:  “Comunicaciones  y
-redes   de   computadores”.   Prentice-Hall,   2007.   ISBN   →   A.   León-García,   I.   Widjaja:   “Redes  de
-Comunicación. Conceptos Fundamentales y Arquitecturas Básicas”. McGraw Hill, 2002. ISBN: 8448131975
+redes   de   computadores”.   PrenticeHall,   2003.   ISBN:  84-205-3919-8  W.  Stallings:  “Comunicaciones  y
+redes   de  computadores”.  Prentice-Hall,  2007.  ISBN:  84-205-4110-9  A.S.  Tanenbaum,  Computer  Networks,
+4ª ed., Prentice Hall, 2003. ISBN: 970-26-01622
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
 ------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (4):
+------------------------------
+A.   León-García,   I.   Widjaja:   “Redes   de   Comunicación.   Conceptos   Fundamentales   y  Arquitecturas
+Básicas”. McGraw Hill, 2002. ISBN: 8448131975
+
+A.S. Tanenbaum, Computer Networks, 4ª ed., Prentice Hall, 2003. ISBN: 970-26-01622
+
 P.   García,   J.  Díaz,  J.  López:  “Transmisión  de  datos  y  redes  de  computadores”.  Prentice-Hall,  2003.
 ISBN: 84-205-3919-8
 

@@ -2,18 +2,19 @@
 Grado: educacion-primaria (257)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+DIAGRAM   Group  (1986).  Cómo  conocer  los  instrumentos  de  orquesta.  EDAF  GIRALDEZ,  A.  (2005).  Internet
+y educación musical. Graó
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 AAVV (1996). La audición musical. Eufonía. No 2. Graó
 
 ALSINA,   P.   (1994).   La  música  y  su  evolución.  Historia  de  la  música  con  propuestas  didácticas  y  49
-audiciones. Graó
+audiciones. Barcelona: Graó
 
-ARTIGUES, M., BARJAU, I. y BONAL, M. (1989). 51 audiciones. Teide
+ARTIGUES, M.; BARJAU, I. y BONAL, M. (1989). 51 audiciones. Teide
 
 ARÓSTEGUI,   J.   L.   (2002).   Una   educación   musical   postmoderna:   los  conciertos  didácticos.  En  LI
 Festival   Internacional   de   Música   y  Danza  de  Granada.  Festival  Internacional  de  Música  y  Danza  de
@@ -22,9 +23,9 @@ Granada
 BLASER,   A.,   FROSETH,   J.   O.   y  WIKART,  P.  (2001).  Música  y  movimiento.  Actividades  rítmicas  en  el
 aula. Graó
 
-CHAPUIS, J. (1993). Los ejercicios de audición. Música y Educación, 4(16)
+CHAPUIS, J. (1993). “Los ejercicios de audición”. Música y Educación. Año VI, 4. No 16
 
-CLEMENS, H. (1988). La formación musical del oído. Lábor
+CLEMENS, H. (1988). La formación musical del oído. Labor
 
 COPLAND, A. (1994). Cómo escuchar la música. FCE
 
@@ -34,8 +35,8 @@ musical. Ricordi
 GAULT,   B.M.(2016)   Listen   up!  :  fostering  musicianship  through  active  listening.  Oxford  University
 Press
 
-HEMSY   DE   GAINZA,   V.   (1989).   La   iniciación   musical  del  niño  y  el  desarrollo  del  oído.  Música  y
-Educación, 2(4)
+HEMSY   DE   GAINZA,   V.   (1989).   “La  iniciación  musical  del  niño  y  el  desarrollo  del  oído”.  Música  y
+Educación. Año II, 2. No 4
 
 HOLDER,   N.   y   MCGREGOR,   H.  (2022).  Listen  &  Celebrate:  Activities  to  enrich  and  diversify  primary
 music. Collins Music
@@ -61,12 +62,7 @@ WILLEMS, E. (2001). El oído musical. La preparación auditiva del niño. Paidó
 
 WUYTACK, J. y BOAL, G. (1998). Audición musical activa. Asociación Wuytack de Pedagogía musical
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-DIAGRAM   Group  (1986).  Cómo  conocer  los  instrumentos  de  orquesta.  EDAF  GIRALDEZ,  A.  (2005).  Internet
-y educación musical. Graó  →  GIRALDEZ, A. (2005). Internet y educación musical. Graó
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (23):
 ------------------------------
 AA.VV. (2013). Arte sonoro. Eufonía, nº 58
 
@@ -85,6 +81,8 @@ creación sonora. Red Planea
 CARABETTA,   S.   (2020).   Las   músicas   que   habitamos.   Aportes   para  una  justicia  curricular.  En  S.
 Carabetta   y   D.   Duarte   (Comp.).   Tramas   lationamericanas   para  una  educación  musical  plural  (pp.
 11-20). Facultad de Artes. Universidad Nacional de La Plata
+
+GIRALDEZ, A. (2005). Internet y educación musical. Graó
 
 GODOY,   J.  D.  L.  C.  (2005).  La  canción  popular  en  la  música  académica:  un  recurso  para  la  iniciación
 a la audición musical. Música y educación 18(61), 27-46
@@ -128,4 +126,4 @@ TOOP, D. (2016). Resonancia siniestra: El oyente como médium. Caja Negra
 
 WUYTACK, J. y BOAL, G. (2009). Audición musical activa con el musicograma. Eufonía, 47, 43-55
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

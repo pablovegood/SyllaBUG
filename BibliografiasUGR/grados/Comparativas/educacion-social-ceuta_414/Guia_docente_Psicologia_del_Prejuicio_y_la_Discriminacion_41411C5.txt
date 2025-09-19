@@ -2,11 +2,13 @@
 Grado: educacion-social-ceuta (414)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Fanon,   Frantz.   (2009).   Piel  negra,  máscaras  blancas.  Akal.  Madrid  Fierro,  M.  y  García  Sanjuán,  A.
+(2020).   Hispania,   al-Ándalus  y  España.  Identidad  y  nacionalismo  en  la  historia  peninsular.  Marcial
+Pons Historia. Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 Allport, G.W. (1971). La naturaleza del prejuicio. Buenos Aires: Eudeba
 
@@ -20,6 +22,9 @@ García Camarero, J. (2010). El decrecimiento feliz y el desarrollo humano. Madr
 
 Hayner,   P.   B.   (1994).   Fifteen   truth   commissions   1974  to  1994:  comparative  study.  Human  Rights
 Quarterly, 16(4), 597-655
+
+Kamin,   L.J.,   Lewontin,  R.C.,  Rose,  S.  (2009).  No  está  en  los  genes:  Racismo,  genética  e  ideología.
+Barcelona. Crítica
 
 Mandela, N. (2013). El largo camino hacia la libertad. Madrid. Aguilar
 
@@ -45,19 +50,11 @@ Urbano Ed). pp 147-175. Universidad de Alcalá
 
 Wieviorka, M. (2009). El racismo: Una introducción. Barcelona. Gedisa
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Fanon,   Frantz.   (2009).   Piel  negra,  máscaras  blancas.  Akal.  Madrid  Fierro,  M.  y  García  Sanjuán,  A.
-(2020).   Hispania,   al-Ándalus  y  España.  Identidad  y  nacionalismo  en  la  historia  peninsular.  Marcial
-Pons   Historia.   Madrid.   ideología.   Barcelona.   Crítica   →  Fierro,  M.  y  García  Sanjuán,  A.  (2020).
-Hispania,   al-Ándalus   y   España.   Identidad   y  nacionalismo  en  la  historia  peninsular.  Marcial  Pons
-Historia. Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Fanon, Frantz. (2009). Piel negra, máscaras blancas. Akal. Madrid
 
-Kamin,   L.J.,   Lewontin,  R.C.,  Rose,  S.  (2009).  No  está  en  los  genes:  Racismo,  genética  e  ideología.
-Barcelona. Crítica
+Fierro,   M.   y  García  Sanjuán,  A.  (2020).  Hispania,  al-Ándalus  y  España.  Identidad  y  nacionalismo  en
+la historia peninsular. Marcial Pons Historia. Madrid
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

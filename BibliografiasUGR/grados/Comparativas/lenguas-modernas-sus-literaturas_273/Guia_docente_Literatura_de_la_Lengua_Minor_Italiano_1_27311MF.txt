@@ -2,11 +2,12 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+MAQUIAVELO,   N.,   El   príncipe,   edición   de  Helena  Puigdoménech,  Madrid,  Cátedra,  1985  PETRARCA  F.,
+Cancionero, edición de Jacobo Cortines, Madrid, Cátedra, 2006
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 BOCCACCIO G., Decamerón, edición de Daniel Sarasola, Madrid, Cátedra, 2021
 
@@ -19,14 +20,10 @@ MALATO, E., Storia della letteratura italiana, vols. VI- VIII. Roma: Salerno, 19
 
 PETRONIO, G., Historia de la Literatura Italiana, Madrid, Cátedra, 1990
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MAQUIAVELO,   N.,   El   príncipe,   edición   de  Helena  Puigdoménech,  Madrid,  Cátedra,  1985  PETRARCA  F.,
-Cancionero,   edición   de  Jacobo  Cortines,  Madrid,  Cátedra,  2006.  el  seguimiento  del  trabajo  personal
-del alumno  →  PETRARCA F., Cancionero, edición de Jacobo Cortines, Madrid, Cátedra, 2006
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 MAQUIAVELO, N., El príncipe, edición de Helena Puigdoménech, Madrid, Cátedra, 1985
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+PETRARCA F., Cancionero, edición de Jacobo Cortines, Madrid, Cátedra, 2006
+
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

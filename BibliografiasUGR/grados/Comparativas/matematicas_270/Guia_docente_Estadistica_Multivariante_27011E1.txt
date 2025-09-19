@@ -2,12 +2,15 @@
 Grado: matematicas (270)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Härdle, W.K. y Simar, L. (2015, 4ª ed.). Applied Multivariate Statistical Analysis. Springer
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
+(http://www.et.bs.ehu.es/~etptupaf/nuevo/ficheros/estad4/multi.pdf)   Zelterman,   D.   (2015).  Applied
+Multivariate Statistics with R. Springer
+
 Anderson,   T.W.   (2003,   3ª  ed.).  An  Introduction  to  Multivariate  Statistical  Analysis.  John  Wiley  &
 Sons
 
@@ -37,16 +40,9 @@ Tong, Y.L. (1990). The Multivariate Normal Distribution. Springer
 Tusell,                 F.                 (2016).                Análisis                Multivariante.
 (http://www.et.bs.ehu.es/~etptupaf/nuevo/ficheros/estad4/multi.pdf)
 
-Zelterman, D. (2015). Applied Multivariate Statistics with R. Springer
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Härdle,   W.K.   y   Simar,   L.   (2015,   4ª  ed.).  Applied  Multivariate  Statistical  Analysis.  Springer  →
 Härdle,   W.K.,   Simar,  L.  y  Fengler,  M.R.  (2024,  6ª  ed.).  Applied  Multivariate  Statistical  Analysis.
 Springer
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

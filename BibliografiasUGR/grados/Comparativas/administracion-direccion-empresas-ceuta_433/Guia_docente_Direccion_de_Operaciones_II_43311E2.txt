@@ -2,16 +2,24 @@
 Grado: administracion-direccion-empresas-ceuta (433)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+ARIAS ARANDA D., MIGUELA RATA, B. Dirección de la producción y operaciones: Decisiones estratégicas.
+Editorial Pirámide. 2018
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
+ARIAS   ARANDA   D.,   MIGUELA   RATA,  B.  Dirección  de  la  producción  y  operaciones:  Decisiones  tácticas.
+Editorial Pirámide. 2018
+
 BROWN, S.; BESSANT, J.; LAMMING, R. Strategic operations management. 3Ed. Routledge. New York, 2013
 
 CHASE,   R.;   JACOBS,   F.R.   Administración   de  operaciones:  Producción  y  cadena  de  suministro.  13Ed.
 McGraw–Hill, 2014
+
+DOMÍNGUEZ   MACHUCA,   J.   A.;  GARCÍA  GONZÁLEZ,  S.;  DOMÍNGUEZ  MACHUCA,  M.A.;  RUÍZ  JIMÉNEZ,  A.;  ALVAREZ
+GIL,   Mª.   J.   Dirección   de  operaciones:  Aspectos  estratégicos  en  la  producción  y  en  los  servicios.
+McGraw Hill. Madrid. 2001
 
 DOMÍNGUEZ   MACHUCA,   J.   A.;  GARCÍA  GONZÁLEZ,  S.;  DOMÍNGUEZ  MACHUCA,  M.A.;  RUÍZ  JIMÉNEZ,  A.;  ALVAREZ
 GIL,   Mª.   J.   Dirección   de   operaciones:   Aspectos  tácticos  y  operativos  en  la  producción  y  en  los
@@ -48,29 +56,14 @@ operaciones. Casos prácticos y recursos didácticos. Parainfo. Madrid, 2014
 
 NAHMIAS, S. Análisis de la producción y las operaciones. 5ºEd. McGraw–Hill 2007
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-RUÍZ   JIMÉNEZ,   A.;   ALVAREZ   GIL,   Mª.   J.   Dirección   de   operaciones:  Aspectos  estratégicos  en  la
-producción   y   en   los   servicios.   McGraw   Hill.   Madrid.   2001   →  DOMÍNGUEZ  MACHUCA,  J.  A.;  GARCÍA
-GONZÁLEZ,   S.;   DOMÍNGUEZ   MACHUCA,   M.A.;   RUÍZ   JIMÉNEZ,   A.;   ALVAREZ   GIL,   Mª.   J.  Dirección  de
-operaciones:   Aspectos   tácticos   y   operativos   en   la   producción  y  en  los  servicios.  McGraw  Hill.
-Madrid. 2003
+ARIAS   ARANDA   D.,   MIGUELA   RATA,   B.   Decisiones   estratégicas   de  la  dirección  de  la  producción  y
+operaciones. Editorial Pirámide. 2024
 
-Decisiones   estratégicas.   Editorial   Pirámide.   2018  →  ARIAS  ARANDA  D.,  MIGUELA  RATA,  B.  Decisiones
-estratégicas de la dirección de la producción y operaciones. Editorial Pirámide. 2024
-
-Decisiones   tácticas.   Editorial   Pirámide.   2018   →   ARIAS   ARANDA   D.,  MIGUELA  RATA,  B.  Decisiones
-tácticas y operativas de la dirección de la producción y las operaciones. Editorial Pirámide. 2025
-
-✅ Recursos añadidos:
-------------------------------
-ARIAS   ARANDA   D.,   MIGUELA   RATA,  B.  Dirección  de  la  producción  y  operaciones:  Decisiones  tácticas.
-Editorial Pirámide. 2018
-
-DOMÍNGUEZ   MACHUCA,   J.   A.;  GARCÍA  GONZÁLEZ,  S.;  DOMÍNGUEZ  MACHUCA,  M.A.;  RUÍZ  JIMÉNEZ,  A.;  ALVAREZ
-GIL,   Mª.   J.   Dirección   de  operaciones:  Aspectos  estratégicos  en  la  producción  y  en  los  servicios.
-McGraw Hill. Madrid. 2001
+ARIAS   ARANDA  D.,  MIGUELA  RATA,  B.  Decisiones  tácticas  y  operativas  de  la  dirección  de  la  producción
+y las operaciones. Editorial Pirámide. 2025
 
 Otros recursos didácticos
 
-📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

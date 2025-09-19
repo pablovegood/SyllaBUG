@@ -2,11 +2,17 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Du   Chazaud,   Henri   Bertaud   (1993).   Dictionnaire   des   synonymes.   Paris:  Dictionnaires  Le  Robert
+Echeverría Pereda, Elena (2007). Manual de gramática francesa. Barcelona: Ariel. 2a ed
 
-📚 Recursos sin cambios:
+Hatim, Basil y Ian Mason. (1990) Discourse and the translator. Londres: Longman. [Trad
+
+española de S. Peña (1995). Teoría de la traducción. Barcelona: Ariel.] _____ (1997) The translator
+as communicator. Londres: Routledge
+
+📚 Recursos sin cambios (35):
 ------------------------------
 AA.VV. (1996). Libro de Estilo El País. Madrid: El País
 
@@ -15,6 +21,8 @@ Agencia Efe (1985). Manual del español urgente. Madrid: Cátedra
 CAMPOS, N. Y E. ORTEGA. 2005. Panorama de lingüística y traductología. Aplicaciones a los ámbitos de
 la enseñanza del francés/ lengua extranjera y de la traducción (francés-español). Granada: Ediciones
 de la Universidad de Castilla-la Mancha y Atrio
+
+Colin, Jean-Paul. Dictionnaire des difficultés du français. Paris: Dictionnaires Le Robert
 
 DELISLE, J. (1980). L’analyse du discours comme méthode de traduction. Ottawa: University of Ottawa
 
@@ -40,7 +48,7 @@ JIMÉNEZ   HURTADO,   C.   2000.   La   estructura  del  significado  en  el  te
 traducción.Granada: Comares
 
 Kelly,   Dorothy   (ed.)   (2000).   La   Traducción   y   la   Interpretación   en   España  hoy:  perspectivas
-profesionales
+profesionales, Granada: Comares
 
 Le nouveau Petit Robert de la Langue Française. Paris: Dictionnaires Le Robert. Edición actualizada
 
@@ -67,10 +75,16 @@ Alicante: Editorial Club Universitario
 NOBS,   M-L.  2006.  La  traducción  de  folletos  turísticos.  ¿Qué  calidad  demandan  los  turistas?  Granada:
 Comares
 
+NOTA: En clase se facilitará bibliografía adicional (diccionarios, libros de estilo y otras obras de
+referencia)
+
 Newmark,   Peter  (1988)  A  Textbook  of  translation.  Londres:  Prentice  Hall.  [Trad.  española  de  V.  Moya
 (1992)
 
-RAE (2009). Nueva gramática de la lengua española. Madrid: Espasa
+RAE. Diccionario Panhispánico de dudas. http://buscon.rae.es/dpdI/ RAE (2009). Nueva gramática de la
+lengua española. Madrid: Espasa
+
+RAE. Ortografía de la lengua española. Madrid: Espasa
 
 Seco, Manuel (1998). Diccionario de dudas y dificultades de la lengua española. Madrid: Espasa
 
@@ -86,37 +100,23 @@ _____ (1991) Gramática esencial del español. Madrid: Espasa Calpe
 _____   (1997)   Translating  as  a  purposeful  activity.  Functionalist  approaches  explained.  Manchester:
 St. Jerome
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-Du   Chazaud,   Henri   Bertaud   (1993).   Dictionnaire   des   synonymes.   Paris:  Dictionnaires  Le  Robert
-Echeverría   Pereda,   Elena   (2007).   Manual   de   gramática   francesa.   Barcelona:   Ariel.   2a   ed   →
-Echeverría Pereda, Elena (2007). Manual de gramática francesa. Barcelona: Ariel. 2a ed
-
-Hatim,   Basil  y  Ian  Mason.  (1990)  Discourse  and  the  translator.  Londres:  Longman.  [Trad.  española  de
-S.   Peña   (1995).   Teoría   de   la   traducción.   Barcelona:   Ariel.]   _____  (1997)  The  translator  as
-communicator.   Londres:   Routledge   →  Hatim,  Basil  y  Ian  Mason.  (1990)  Discourse  and  the  translator.
-Londres: Longman. [Trad. española de S. Peña (1995). Teoría de la traducción. Barcelona: Ariel.]
-
-✅ Recursos añadidos:
-------------------------------
-Colin, Jean-Paul. Dictionnaire des difficultés du français. Paris: Dictionnaires Le Robert
-
 Du Chazaud, Henri Bertaud (1993). Dictionnaire des synonymes. Paris: Dictionnaires Le Robert
+
+Echeverría Pereda, Elena (2007). Manual de gramática francesa. Barcelona: Ariel. 2a ed
 
 Granada: Comares
 
+Hatim,   Basil  y  Ian  Mason.  (1990)  Discourse  and  the  translator.  Londres:  Longman.  [Trad.  española  de
+S. Peña (1995). Teoría de la traducción. Barcelona: Ariel.]
+
+Manual de Traducción. Madrid: Cátedra.]
+
 Model for Translation Oriented Text Analysis. Amsterdam: Rodopi
-
-NORD,   Christiane   (1991)  Text  Analysis  in  Translation:  Theory,  Methodology  and  Didactic  Application
-of a
-
-NOTA: En clase se facilitará bibliografía adicional (diccionarios, libros de estilo y otras obras de
-referencia)
 
 RAE. Diccionario Panhispánico de dudas. http://buscon.rae.es/dpdI/
 
-RAE. Ortografía de la lengua española. Madrid: Espasa
-
 _____ (1997) The translator as communicator. Londres: Routledge
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

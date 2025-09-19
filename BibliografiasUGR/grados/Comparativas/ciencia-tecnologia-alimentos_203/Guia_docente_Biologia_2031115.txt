@@ -2,11 +2,13 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+TAIZ,   L.   y   ZEIGER,  E.  (2006).  Plant  Physiology  (4a  Ed.).  Sinauer  Associates,  Sunderland,  MA,  USA.
+Material   adicional   consultable   en   http://www.plantphys.net   TAIZ,   L.  y  ZEIGER,  E.  (2010).  Plant
+Physiology (5a Ed.). Sinauer Associates, Sunderland, MA, USA
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 ABBAS, A. K., LICHTMAN, A. H., PILLAI, S. (2008) Inmunología Celular y Molecular. (6a ed.) Elsevier.
 Barcelona
@@ -28,9 +30,14 @@ BROOKER, R. J., (2009) Genetics Analysis and Principles. Mcgraw-Hill, Higher edu
 GARCÍA,   F.J.;   ROSELLO,   J.   y   SANTAMARÍA,  M.P.  (2001).  Iniciación  a  la  Fisiología  de  las  Plantas.
 Editorial Foro Europa
 
+GRIFFITHS, A y COAUT, J. F. (2008). Genética. (9a ed.). McGraw-Hill
+
 HARVEY L (2010) Biología Celular y Molecular. (5a ed.). Editorial Médica Panamericana. Buenos Aires
 
 KARP, G. (2009) Biología Celular y Molecular: Conceptos y experimentos. (5a ed). McGraw-Hill, México
+
+KLUG,   W.   S.,   CUMMINGS,   M.   R.,   SPENCER,  C.  A.  (2008).  Conceptos  de  Genética.  (8a  Ed.)  Benjamin-
+Cummings Pub Co
 
 KÜHNEL, W. (1997) Atlas de Citología e Histología. Editorial Médica Panamericana
 
@@ -43,27 +50,18 @@ Panamericana. Buenos Aires
 SALISBURY,   F.B.   y   ROSS,   C.W.   (2000).  Fisiología  de  las  Plantas.  International  Thompson  Editores
 Spain - Paraninfo, S.A., Madrid
 
+STRACHAN, T.; READ, A.P. (2004). Genética Humana. (3a ed.) Mc Graw Hill
+
 TAIZ,   L.   y  ZEIGER,  E.  (2006).  Fisiología  Vegetal  2  volúmenes  (Traducción  de  la  3a  Ed)  (Universidad
 Jaume I. Servicio de Comunicación y Publicaciones)
 
-🔁 Misma obra con edición/año distinto:
+VISERAS ALARCÓN, E. (2008) Cuestiones y problemas resueltos de Genética. Universidad de Granada
+
+✅ Recursos añadidos (2):
 ------------------------------
-TAIZ,   L.  y  ZEIGER,  E.  (2006).  Plant  Physiology  (4a  Ed.).  Sinauer  Associates,  Sunderland,  TAIZ,  L.  y
-ZEIGER,   E.  (2010).  Plant  Physiology  (5a  Ed.).  Sinauer  Associates,  Sunderland,  MA,  USA.  de  Granada  →
 TAIZ,   L.   y   ZEIGER,  E.  (2006).  Plant  Physiology  (4a  Ed.).  Sinauer  Associates,  Sunderland,  MA,  USA.
 Material adicional consultable en http://www.plantphys.net
 
-✅ Recursos añadidos:
-------------------------------
-GRIFFITHS, A y COAUT, J. F. (2008). Genética. (9a ed.). McGraw-Hill
-
-KLUG,   W.   S.,   CUMMINGS,   M.   R.,   SPENCER,  C.  A.  (2008).  Conceptos  de  Genética.  (8a  Ed.)  Benjamin-
-Cummings Pub Co
-
-STRACHAN, T.; READ, A.P. (2004). Genética Humana. (3a ed.) Mc Graw Hill
-
 TAIZ, L. y ZEIGER, E. (2010). Plant Physiology (5a Ed.). Sinauer Associates, Sunderland, MA, USA
 
-VISERAS ALARCÓN, E. (2008) Cuestiones y problemas resueltos de Genética. Universidad de Granada
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

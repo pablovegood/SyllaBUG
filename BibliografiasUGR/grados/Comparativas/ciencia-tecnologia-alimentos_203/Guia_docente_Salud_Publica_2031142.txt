@@ -2,11 +2,11 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Celentano DD, Szklo M. Gordis. Epidemiología (6ª edición). Elsevier ES. 2019
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Argimón   Pallas   JM,   Jiménez  Villa  J.Métodos  de  investigación  clínica  y  epidemiológica.  5ª  edición.
 Ed. Elsevier ES. 2019
@@ -23,15 +23,10 @@ Ciencias Médicas. 2008
 Organizacion   Panamericana   de   la  Salud  .El  Control  de  las  Enfermedades  Transmisibles.  20ª  ed.  OPS.
 Washington. 2017
 
-Wild CP, Weiderpass E, Stewart BW. World Cancer Report. IARC Press. Lyon. 2020
+Wild CP, Weiderpass E, Stewart BW. World Cancer Report .IARC Press. Lyon. 2020
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Celentano   DD,   Szklo  M.  Gordis.  Epidemiología  (6ª  edición).  Elsevier  ES.  2019  →  Celentano  DD,  Szklo
-M. Gordis. Epidemiología (7ª edición). Elsevier ES. 2025
+Celentano DD, Szklo M. Gordis. Epidemiología (7ª edición). Elsevier ES. 2025
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

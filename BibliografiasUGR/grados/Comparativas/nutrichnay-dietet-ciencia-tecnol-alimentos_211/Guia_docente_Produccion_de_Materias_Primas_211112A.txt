@@ -2,11 +2,25 @@
 Grado: nutrichnay-dietet-ciencia-tecnol-alimentos (211)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Caravaca   Rodríguez,   F.P.,   Castel   Genís,   J.M.,  Guzmán  Guerrero,  J.L.,  Delgado  Pertíñez,  M.,  Mena
+Guerrero, Y., Alcalde Castelló, J. A., Cole, V. (1986). Manual práctico de avicultura
 
-📚 Recursos sin cambios:
+López   Bellido,   L.   (1991).   Cereales.   Mundi-Prensa,   539   pp   López   Bellido,  L.  (2003).  Cultivos
+industriales.   Mundi-Prensa,   1071   pp  Luquet,  F.M.  (1991).  Leche  y  productos  lácteos.  Vaca,  oveja  y
+cabra 1.- La leche: de la mama a la lechería. Acribia. Zaragoza
+
+Muslera Pardo, E. (1991). Praderas y Forrajes: producción y aprovechamiento. Ed. MundiPrensa, Madrid
+Nadal   Moyano,   S.,   Moreno  Yagüela,  M.T.,  Cubero  Salmerón,  J.I.  (2004).  Las  leguminosas  grano  en  la
+agricultura moderna. Ed. Mundi-Prensa, Madrid
+
+Robledo   de   Pedro,   F.   y  Martín  Vicente,  L.  (1988).  Aplicación  de  los  plásticos  en  la  agricultura.
+Mundi- Prensa. 566 pp Rodríguez, J.M. (1990). Morfología y desarrollo del animal en crecimiento. Ed.
+ETSIAUPM.   Madrid   Sotillo,   J.L.,   Quiles,   A.   y  Ramírez,  A.R.  (1996).  Producción  Animal  e  Higiene
+Veterinaria
+
+📚 Recursos sin cambios (14):
 ------------------------------
 Buxadé,   C.   (Ed.).  (1995).  Zootecnia.  Bases  de  Producción  Animal.  Colección  de  20  Tomos.  Ed.  Mundi-
 Prensa. Madrid
@@ -17,8 +31,6 @@ Alimentación. Madrid
 Caravaca   Rodríguez,   F.P.,   Castel   Genís,   J.M.,  Guzmán  Guerrero,  J.L.,  Delgado  Pertíñez,  M.,  Mena
 Guerrero,   Y.,   Alcalde   Castelló,  J.  A.,  González  Redondo  P.  (2016).  Bases  de  la  Producción  animal.
 UCOPress. Editorial Universidad de Córdoba
-
-FAO (2007). Estado mundial de la acuicultura 2006. FAO Documento técnico de pesca 500. FAO Roma
 
 Girard, J.P. (1990). Tecnología de la carne y los productos cárnicos. Ed. Acribia. Zaragoza
 
@@ -33,6 +45,12 @@ Maroto, J.V. (1992). Horticultura herbácea especial. Mundi-Prensa, 568 pp
 
 Mateo Box, J.M. (2005). Prontuario de Agricultura. Cultivos Agrícolas. Ed. Mundi-Prensa, Madrid
 
+Real   Escuela   Oficial   y   Superior   de   Avicultura.   Barcelona   FAO   (2007).   Estado   mundial  de  la
+acuicultura 2006. FAO Documento técnico de pesca FAO Roma
+
+Sotillo,   J.L.,  Quiles,  A.  y  Ramírez,  A.R.  (1996).  Producción  Animal  e  Higiene  Veterinaria.  Vol.  I  y
+II. Ed. ICE-Un. Murcia
+
 Urbano Terrón, P. (1989). Tratado de Fitotecnia General. Mundi-Prensa, 836 pp
 
 Villalobos   F.J.,   Mateos   L.,   Orgaz   F.,   Ferres   E.  (2002).  Fitotecnia:  bases  y  tecnologías  de  la
@@ -40,26 +58,7 @@ producción agrícola. Ed. Mundi-Prensa, Madrid
 
 Welch, D.J.W. (1996). Milk composition, production and biotechnology. Ed. CAB Int. Oxon
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-López   Bellido,   L.   (1991).   Cereales.   Mundi-Prensa,   539   pp   López   Bellido,  L.  (2003).  Cultivos
-industriales.   Mundi-Prensa,   1071   pp  Luquet,  F.M.  (1991).  Leche  y  productos  lácteos.  Vaca,  oveja  y
-cabra   1.-   La   leche:   de   la   mama   a   la   lechería.  Acribia.  Zaragoza  →  López  Bellido,  L.  (1991).
-Cereales. Mundi-Prensa, 539 pp
-
-Muslera   Pardo,   E.   (1991).   Praderas   y  Forrajes:  producción  y  aprovechamiento.  Ed.  Mundi-  Prensa,
-Madrid   Nadal   Moyano,  S.,  Moreno  Yagüela,  M.T.,  Cubero  Salmerón,  J.I.  (2004).  Las  leguminosas  grano
-en   la   agricultura   moderna.   Ed.   Mundi-Prensa,   Madrid   →  Nadal  Moyano,  S.,  Moreno  Yagüela,  M.T.,
-Cubero   Salmerón,   J.I.   (2004).   Las  leguminosas  grano  en  la  agricultura  moderna.  Ed.  Mundi-Prensa,
-Madrid
-
-Robledo   de   Pedro,   F.   y  Martín  Vicente,  L.  (1988).  Aplicación  de  los  plásticos  en  la  agricultura.
-Mundi- Prensa. 566 pp Rodríguez, J.M. (1990). Morfología y desarrollo del animal en crecimiento. Ed.
-ETSIA-   UPM.   Madrid   Sotillo,   J.L.,  Quiles,  A.  y  Ramírez,  A.R.  (1996).  Producción  Animal  e  Higiene
-Veterinaria   →   Rodríguez,   J.M.   (1990).   Morfología   y   desarrollo   del  animal  en  crecimiento.  Ed.
-ETSIA-UPM. Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Cole,   V.   (1986).   Manual   práctico   de   avicultura.  Real  Escuela  Oficial  y  Superior  de  Avicultura.
 Barcelona
@@ -67,15 +66,19 @@ Barcelona
 Luquet,   F.M.   (1991).   Leche  y  productos  lácteos.  Vaca,  oveja  y  cabra  1.-  La  leche:  de  la  mama  a  la
 lechería. Acribia. Zaragoza
 
+López Bellido, L. (1991). Cereales. Mundi-Prensa, 539 pp
+
 López Bellido, L. (2003). Cultivos industriales. Mundi-Prensa, 1071 pp
 
 Muslera   Pardo,   E.   (1991).   Praderas   y   Forrajes:  producción  y  aprovechamiento.  Ed.  Mundi-Prensa,
 Madrid
 
+Nadal   Moyano,   S.,   Moreno  Yagüela,  M.T.,  Cubero  Salmerón,  J.I.  (2004).  Las  leguminosas  grano  en  la
+agricultura moderna. Ed. Mundi-Prensa, Madrid
+
 Robledo   de   Pedro,   F.   y  Martín  Vicente,  L.  (1988).  Aplicación  de  los  plásticos  en  la  agricultura.
 Mundi- Prensa. 566 pp
 
-Sotillo,   J.L.,  Quiles,  A.  y  Ramírez,  A.R.  (1996).  Producción  Animal  e  Higiene  Veterinaria.  Vol.  I  y
-II. Ed. ICE-Un. Murcia
+Rodríguez, J.M. (1990). Morfología y desarrollo del animal en crecimiento. Ed. ETSIA-UPM. Madrid
 
-📊 Porcentaje estimado de cambio: 52% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 54% [█████░░░░░]

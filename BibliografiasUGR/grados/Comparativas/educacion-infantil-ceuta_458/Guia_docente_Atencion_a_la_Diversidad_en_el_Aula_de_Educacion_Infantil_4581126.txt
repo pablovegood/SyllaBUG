@@ -2,11 +2,31 @@
 Grado: educacion-infantil-ceuta (458)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
+Booth, T y Ainscow, M (2000). Guía para la evaluación y mejora de la educación inclusiva (Index para
+l   inclusión)  Centre  for  Studies  on  Inclusive  Education  (CSIE),  Bristol  UK  2000  CARDONA  MOLTÓ,  M.  C.
+(2005).   Diversidad   y   educación  inclusiva:  enfoques  metodológicos  y  estrategias  para  una  enseñanza
+colaborativa. Madrid: Pearson Educación
 
-📚 Recursos sin cambios:
+GARCÍA   GUZMÁN,   A.   (2021).   Las   Aulas  Abiertas  Especializadas  destinadas  al  Alumnado  con  TEA.  Una
+puerta   hacia   su   inclusión.   Madrid:   Editorial  Pirámide  GARCÍA  PASTOR,  C.  (2000).  La  necesidad  de
+reestructuración   del   currículum   en  la  escuela  inclusiva.  En  M.  Codina  Vañero.  Alas  para  volar.  La
+Educación como marco para el respeto y la atención a las diferencias (205 – 277). Granada: Adharán
+
+MIÑÁN   ESPÍGARES,   A.   (2018).   Atención   a  la  diversidad  en  el  Aula  de  Educación  Infantil.  Granada:
+Fleming
+
+SOLA, T., LÓPEZ URQUIZAR, N. Y CÁCERES RECHE, M.ª P. (2009). Perspectivas didácticas y organizativas
+de   la   educación   especial.  Granada:  G.E.U  TOMLINSON,  C.A.  (2005).  Estrategias  para  trabajar  con  la
+diversidad en el aula. Buenos Aires: Paidós
+
+SÁNCHEZ CANO, M., BONALS, J. (2005). La evaluación psicopedagógica. Barcelona: Graó
+
+TINAJAS,   A.   (2009).  La  formación  de  grupos  y  la  atención  a  la  diversidad  en  un  centro  de  enseñanza
+secundaria. Un estudio de casos. Revista Iberoamericana de Educación, 50 (3), 1 – 9
+
+📚 Recursos sin cambios (36):
 ------------------------------
 AINSCOW,   M.   (2002).   Desarrollo   de  las  escuelas  inclusivas.  Ideas,  propuestas  y  experiencias  para
 mejorar las instituciones escolares. Madrid: Nancea
@@ -28,6 +48,13 @@ Hiperactividad. Un manual de trabajo clínico. New York: Guilford Press
 BETBESÉ,   E.   y   DÍAZ,   M.   (2014).   Buenas   prácticas   en   Inclusión   Educativa.   Las   adaptaciones
 curriculares. Madrid: Down España
 
+DE   LUCAS  MARTÍN,  F.  J.(2006):  La  integración  de  los  inmigrantes:  la  integración  política,  condición
+del modelo de integración. Centro de Estudios Políticos y Constitucionales
+
+FABÁ GRIÑÁN, L. (2001). Evaluación psicopedagógica: sus desafíos. Educación. n. 103; p. 23-25
+
+FERNÁNDEZ BATANERO, J. M. (2009). Un currículo para la diversidad. Madrid: Síntesis
+
 FERNÁNDEZ   BATANERO,  J.M.  (2015).  Atención  a  la  DIVERSIDAD  EN  EL  AULA  DE  EDUCACIÓN  INFANTIL.  Madrid:
 Paraninfo
 
@@ -37,45 +64,11 @@ Madrid: Pirámide
 GALLEGO,   J.L.   y   RODRÍGUEZ   FUENTES,  A.  (2016).  La  alteridad  en  educación.  Teoría  e  Investigación.
 Madrid: Pirámide
 
-LEÓN   GUERRERO,   M.J,   CRISOL   MOYA,   E.  Y  ESTÉVEZ,  B.  (2016).  Atención  a  la  diversidad  en  Educación
-Primaria. Granada: Técnica Avicam
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MIÑÁN   ESPÍGARES,   A.   (2018).   Atención   a  la  diversidad  en  el  Aula  de  Educación  Infantil.  Granada:
-Fleming   →   MIÑÁN,   A.   (2025)   2ª   Ed.   Atención   a  la  diversidad  en  el  aula  de  Educación  Infantil.
-Granada: Avicam
-
-✅ Recursos añadidos:
-------------------------------
-Booth, T y Ainscow, M (2000). Guía para la evaluación y mejora de la educación inclusiva (Index para
-l inclusión) Centre for Studies on Inclusive Education (CSIE), Bristol UK 2000
-
-CARDONA   MOLTÓ,  M.  C.  (2005).  Diversidad  y  educación  inclusiva:  enfoques  metodológicos  y  estrategias
-para una enseñanza colaborativa. Madrid: Pearson Educación
-
-DE   LUCAS  MARTÍN,  F.  J.(2006):  La  integración  de  los  inmigrantes:  la  integración  política,  condición
-del modelo de integración. Centro de Estudios Políticos y Constitucionales
-
-ELIZONDO,   C.  (2023).  Neuroeducación  y  diseño  universal  para  el  aprendizaje  :  una  propuesta  práctica
-para el aula inclusiva . Barcelona: Octaedro
-
-FABÁ GRIÑÁN, L. (2001). Evaluación psicopedagógica: sus desafíos. Educación. n. 103; p. 23-25
-
-FERNÁNDEZ BATANERO, J. M. (2009). Un currículo para la diversidad. Madrid: Síntesis
-
 GALOFRE,   R  y  LIZÁN,  N.  (2005)  Una  escuela  para  todos:  La  integración  educativa  veinte  años  después,
 Ediciones de la Torre
 
 GALVE   MANZANO,   J.   L.   (coord.)   (2008).   Evaluación   e   intervención  psicopedagógica  en  contextos
 educativos. Madrid: EOS
-
-GARCÍA   GUZMÁN,   A.   (2021).   Las   Aulas  Abiertas  Especializadas  destinadas  al  Alumnado  con  TEA.  Una
-puerta hacia su inclusión. Madrid: Editorial Pirámide
-
-GARCÍA   PASTOR,   C.  (2000).  La  necesidad  de  reestructuración  del  currículum  en  la  escuela  inclusiva.
-En   M.   Codina   Vañero.  Alas  para  volar.  La  Educación  como  marco  para  el  respeto  y  la  atención  a  las
-diferencias (205 – 277). Granada: Adharán
 
 GARRIDO,   J.   (2005).   Programación   de   actividades  para  educación  especial.  Madrid:  Ciencias  de  la
 Educación Preescolar y Especial
@@ -86,6 +79,9 @@ GROS, J. (2004) Necesidades educativas especiales en educación primaria. Morata
 
 GÓMEZ   DOMÍNGUEZ,   Mª.T.   (2021).   Atención   a   la   Diversidad.  Conceptualización  y  su  aplicación  en
 Educación Infantil. Revista de Recursos para la Inclusión Educativa,1, 37-48
+
+LEÓN   GUERRERO,   M.J,   CRISOL   MOYA,   E.  Y  ESTÉVEZ,  B.  (2016).  Atención  a  la  diversidad  en  Educación
+Primaria. Granada: Técnica Avicam
 
 LÓPEZ   MARÍ,   M.,  Sánchez  Cruz,  M.  y  Peirats  Chacón,  J.  (2021).  Los  recursos  educativos  digitales  en
 la   atención   a   la  diversidad  en  Educación  Infantil.  Innoeduca:  international  journal  of  technology
@@ -118,9 +114,6 @@ con déficit de atención con hiperactividad. Madrid: CEPE
 Ortiz,   L.  y  Carrión,  J.J.  (Coords)  (2020).  Educación  Inclusiva:  Abriendo  puertas  al  futuro.  Madrid,
 España: Dikynson
 
-PEZZICA,   S.   (2025).   Hiperactividad,   impulsividad   y   déficit   de  atención  en  Educación  Infantil.
-Madrid: CCS
-
 ROVIRA   NAVARRO,   L.   M.   (2004).  Cuestionario  de  autoevaluación  de  la  práctica  docente.  Perspectiva
 Cep. n. 7; p. 107-119
 
@@ -130,14 +123,43 @@ evaluar necesidades. Madrid: EOS
 SABORIT   MALLOL,   C.   (2002).   Adaptación   curricular:   aplicación   informática   NAC-ACS.  Castellón:
 Universidad Jaume I
 
+Salvador   Mata,   F.   (Coord.)(2005):   Bases   Psicopedagógicas   de   la   Educación  Especial.  Archidona
+(Málaga). Aljibe
+
+TORRES, J. A. (2004). La evaluación en contextos de diversidad. Madrid: Pearson Prestice Hall
+
+✅ Recursos añadidos (12):
+------------------------------
+Booth, T y Ainscow, M (2000). Guía para la evaluación y mejora de la educación inclusiva (Index para
+l inclusión) Centre for Studies on Inclusive Education (CSIE), Bristol UK 2000
+
+CARDONA   MOLTÓ,  M.  C.  (2005).  Diversidad  y  educación  inclusiva:  enfoques  metodológicos  y  estrategias
+para una enseñanza colaborativa. Madrid: Pearson Educación
+
+ELIZONDO,   C.  (2023).  Neuroeducación  y  diseño  universal  para  el  aprendizaje  :  una  propuesta  práctica
+para el aula inclusiva . Barcelona: Octaedro
+
+GARCÍA   GUZMÁN,   A.   (2021).   Las   Aulas  Abiertas  Especializadas  destinadas  al  Alumnado  con  TEA.  Una
+puerta hacia su inclusión. Madrid: Editorial Pirámide
+
+GARCÍA   PASTOR,   C.  (2000).  La  necesidad  de  reestructuración  del  currículum  en  la  escuela  inclusiva.
+En   M.   Codina   Vañero.  Alas  para  volar.  La  Educación  como  marco  para  el  respeto  y  la  atención  a  las
+diferencias (205 – 277). Granada: Adharán
+
+MIÑÁN, A. (2025) 2ª Ed. Atención a la diversidad en el aula de Educación Infantil. Granada: Avicam
+
+PEZZICA,   S.   (2025).   Hiperactividad,   impulsividad   y   déficit   de  atención  en  Educación  Infantil.
+Madrid: CCS
+
 SOLA, T., LÓPEZ URQUIZAR, N. Y CÁCERES RECHE, M.ª P. (2009). Perspectivas didácticas y organizativas
 de la educación especial. Granada: G.E.U
 
 SUSINOS,   T.,   y   ROJAS,   S.   (coords.).   (2024)   Mapa   para  no  perderse  en  la  Inclusión  Educativa  :
 prioridades emergentes según sus protagonistas . Barcelona : Octaedro
 
-Salvador   Mata,   F.   (Coord.)(2005):   Bases   Psicopedagógicas   de   la   Educación  Especial.  Archidona
-(Málaga). Aljibe
+SÁNCHEZ   CANO,   M.,   BONALS,   J.  (2005).  La  evaluación  psicopedagógica.  Barcelona:  Graó.  TINAJAS,  A.
+(2009).   La   formación  de  grupos  y  la  atención  a  la  diversidad  en  un  centro  de  enseñanza  secundaria.
+Un estudio de casos. Revista Iberoamericana de Educación, 50 (3), 1 – 9
 
 SÁNCHEZ   CANO,   M.,   BONALS,   J.  (2005).  La  evaluación  psicopedagógica.  Barcelona:  Graó.  TINAJAS,  A.
 (2009).   La   formación  de  grupos  y  la  atención  a  la  diversidad  en  un  centro  de  enseñanza  secundaria.
@@ -145,6 +167,4 @@ Un estudio de casos. Revista Iberoamericana de Educación, 50 (3), 1 – 9
 
 TOMLINSON, C.A. (2005). Estrategias para trabajar con la diversidad en el aula. Buenos Aires: Paidós
 
-TORRES, J. A. (2004). La evaluación en contextos de diversidad. Madrid: Pearson Prestice Hall
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

@@ -2,16 +2,35 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-Beas Miranda, M. y Montes Moreno, S. (2003). Las miradas y la cultura empírica escolar. En
+Beas   Miranda,   M.  y  Montes  Moreno,  S.  (2003).  Las  miradas  y  la  cultura  empírica  escolar.  En:  AA.VV.
+Etnohistoria   de   la   escuela.   XII   Coloquio   nacional   de   Historia  de  la  Educación  (pp.  103-122).
+Universidad de Burgos
+
+Carrasco,   C.  (2009).  Mujeres,  sostenibilidad  y  deuda  social.  Revista  de  Educación,  1,  169-191.  http
+s://www.educacionyfp.gob.es/revista-de-educacion/numeros-revista-
+educacion/numerosanteriores/2009/re2009.html Cereceda, P. M. (2014). El derecho a la educación en el
+sistema internacional y europeo. Tirant Lo Blanch
 
 Escolano,   A   (dir.)   (1997-1998).   Historia  ilustrada  del  libro  escolar  en  España.  Fundación  Germán
 Sánchez Ruipérez, 1997-98
 
-Universidad de Burgos
+Goodson, I. (2015). Exploring history and memory through autobiographical memory, Historia y Memoria
+de   la   Educación,   1,   263-285.   https://doi.org/10.5944/hme.1.2015.13350  Guichot  Reina,  V.  (2003).
+Democracia,   ciudadanía   y   educación.   Una   mirada   crítica  sobre  la  obra  pedagógica  de  John  Dewey.
+Editorial   Biblioteca   Nueva   Meda,   Juri   Y   Badanelli,  A.  Mª  (a  cura  di)  (2013).  La  historia  de  la
+cultura escolar en Italia y España: balance y perspectivas. Edizioni Universit`di Macerata (EUM)
 
-📚 Recursos sin cambios:
+Número   231-232   (2012),  de  la  Revista  de  Ciencias  de  la  Educación.  Órgano  del  Instituto  Calasanz  de
+Ciencias   de   la   Educación   Oncina   Coves,   F   (ed.).  (2013).  Tradición  e  innovación  en  la  historia
+intelectual. Métodos historiográficos. Biblioteca Nueva
+
+Paedagogica   Historica,   Volume   50,  Issue  6,  December,  2014  Popkewitz,  T.  S.  (2013).  Rethinking  the
+History   of  Education.  Transnational  Perspectives  on  its  Questions,  Methods,  and  Knowledge.  Palgrave
+McMillan
+
+📚 Recursos sin cambios (28):
 ------------------------------
 Aguirre   Lora,   M   E.   (coord.).  (2013).  Lecturas  in-apropiadas  desde  la  historia,  la  educación  y  la
 cultura. Ediciones Díaz de Santos y Universidad Nacional Autónoma de México
@@ -24,9 +43,6 @@ http://www.hecl.it/
 
 Beas,   M.   (ed.).   (2013).   Ciudadanías   e   identidades  en  los  manuales  escolares  (1970-2012).  Díada
 Editora
-
-Braster,   Sjaak,  Simon,  Frank  &  Grosvenor,  Ian  (2013).  A  History  of  Popular  Education.  Educating  the
-People of the World. Routledge
 
 Bruno-Jofré, R., & Tröhler, D. (2014). The historian’s métier: A critical engagement with history of
 education. Encounters in Theory and History of Education
@@ -46,8 +62,8 @@ escolarización y culturas pedagógicas. Biblioteca Nueva
 Escolano,   A.   y   Hernández,  J.  M.  (coords.).  (2002).  La  memoria  y  el  deseo:  cultura  de  la  escuela  y
 educación deseada. Tirant lo Blanch
 
-Ferraz   Lorenzo,   M.   (Ed.)   (2005).   Repensar   la  historia  de  la  educación.  Nuevos  desafíos,  nuevas
-propuestas. Biblioteca Nueva
+Espacio,   Tiempo   y   Educación   (www.espaciotiempoyeducacion.com)   Ferraz   Lorenzo,  M.  (Ed.)  (2005).
+Repensar la historia de la educación. Nuevos desafíos, nuevas propuestas. Biblioteca Nueva
 
 Gabriel,   N.  De  y  Viñao  Frago,  A.  (1997).  La  investigación  histórico-educativa.  Tendencias  actuales.
 Ronsel
@@ -79,6 +95,12 @@ Prellezo, J M. Y García, J M. (2004). Investigar: metodología y técnicas del 
 Puelles   Benítez,   M   de   y   Menor  Curras,  M.  (2018).  El  artículo  27  de  la  Constitución,  cuaderno  de
 quejas. Morata
 
+Puelles Benítez, M de. (2010). Educación e ideología en la España contemporánea. Tecnos
+
+Revista Historia y Memoria de la educación. http://sedhe.es/publicaciones/revista-historia-ymemoria-
+de-la-educacion/   Tamar,   G.   (2014).  “Teachers  and  the  struggle  for  democracy  in  Spain,  1970-1985”,
+Palgrave Studies in the History of Social Movements. Palgrave Macmillan
+
 Tiana   Ferrer,   A;   Somoza   Rodríguez,   M   y   Badanelli   Rubio,  A.  M.  (eds.).  (2014).  Historia  de  la
 Educación Social. UNED (Colección GRADO)
 
@@ -90,38 +112,15 @@ Marcial Pons, Ediciones de Historia
 
 Viñao Frago, A. (2014). Religión en las aulas. Una materia controvertida. Morata
 
-🔁 Misma obra con edición/año distinto:
+http://www.hecl.it/   Braster,   Sjaak,   Simon,   Frank   &   Grosvenor,  Ian  (2013).  A  History  of  Popular
+Education. Educating the People of the World. Routledge
+
+✅ Recursos añadidos (18):
 ------------------------------
-Número   231-232   (2012),  de  la  Revista  de  Ciencias  de  la  Educación.  Órgano  del  Instituto  Calasanz  de
-Ciencias   de   la   Educación   Oncina   Coves,   F   (ed.).  (2013).  Tradición  e  innovación  en  la  historia
-intelectual.   Métodos   historiográficos.  Biblioteca  Nueva  →  Oncina  Coves,  F  (ed.).  (2013).  Tradición
-e innovación en la historia intelectual. Métodos historiográficos. Biblioteca Nueva
+Carrasco,   C.   (2009).   Mujeres,   sostenibilidad   y   deuda  social.  Revista  de  Educación,  1,  169-191.
+https://www.educacionyfp.gob.es/revista-de-educacion/numeros-revista-educacion/numeros-
+anteriores/2009/re2009.html
 
-Carrasco,   C.  (2009).  Mujeres,  sostenibilidad  y  deuda  social.  Revista  de  Educación,  1,  169-191.  http
-s://www.educacionyfp.gob.es/revista-de-educacion/numeros-revista-educacion/numeros-
-anteriores/2009/re2009.html   Cereceda,   P.   M.   (2014).   El   derecho   a   la   educación  en  el  sistema
-internacional   y   europeo.   Tirant   Lo  Blanch  →  Carrasco,  C.  (2009).  Mujeres,  sostenibilidad  y  deuda
-social.     Revista     de     Educación,    1,    169-191.    https://www.educacionyfp.gob.es/revista-de-
-educacion/numeros-revista-educacion/numeros-anteriores/2009/re2009.html
-
-Paedagogica   Historica,   Volume   50,  Issue  6,  December,  2014  Popkewitz,  T.  S.  (2013).  Rethinking  the
-History   of  Education.  Transnational  Perspectives  on  its  Questions,  Methods,  and  Knowledge.  Palgrave
-McMillan  →  Paedagogica Historica, Volume 50, Issue 6, December, 2014
-
-Puelles Benítez, M de. (2010). Educación e ideología en la España contemporánea. Tecnos. memoria-de-
-la-educacion/   Tamar,   G.   (2014).   “Teachers   and   the  struggle  for  democracy  in  Spain,  1970-1985”,
-Palgrave   Studies   in   the   History  of  Social  Movements.  Palgrave  Macmillan  →  Puelles  Benítez,  M  de.
-(2010). Educación e ideología en la España contemporánea. Tecnos
-
-Goodson, I. (2015). Exploring history and memory through autobiographical memory, Historia y Guichot
-Reina, V. (2003). Democracia, ciudadanía y educación. Una mirada crítica sobre la obra pedagógica de
-John Dewey. Editorial Biblioteca Nueva Meda, Juri Y Badanelli, A. Mª (a cura di) (2013). La historia
-de   la   cultura   escolar   en  Italia  y  España:  balance  y  perspectivas.  Edizioni  Universit`di  Macerata
-(EUM)   →   Guichot   Reina,  V.  (2003).  Democracia,  ciudadanía  y  educación.  Una  mirada  crítica  sobre  la
-obra pedagógica de John Dewey. Editorial Biblioteca Nueva
-
-✅ Recursos añadidos:
-------------------------------
 Cereceda,   P.   M.  (2014).  El  derecho  a  la  educación  en  el  sistema  internacional  y  europeo.  Tirant  Lo
 Blanch
 
@@ -129,6 +128,9 @@ Espacio, Tiempo y Educación (www.espaciotiempoyeducacion.com)
 
 Goodson, I. (2015). Exploring history and memory through autobiographical memory, Historia y Memoria
 de la Educación, 1, 263-285. https://doi.org/10.5944/hme.1.2015.13350
+
+Guichot   Reina,   V.   (2003).   Democracia,   ciudadanía   y  educación.  Una  mirada  crítica  sobre  la  obra
+pedagógica de John Dewey. Editorial Biblioteca Nueva
 
 Heredia-Carroza, J., Díaz-Reyes, L., Agheorghiesei, D.-T., & Stoica, R. (2025). Cultural heritage in
 education:     Flamenco    as    a    pedagogical    tool    for    future    teachers    in    Spain.    MDPI.
@@ -147,6 +149,11 @@ valor cultural y científico. Historia y Espacio, 16(54), 27–46
 Número   231-232   (2012),  de  la  Revista  de  Ciencias  de  la  Educación.  Órgano  del  Instituto  Calasanz  de
 Ciencias de la Educación
 
+Oncina   Coves,   F   (ed.).   (2013).   Tradición   e   innovación   en   la   historia   intelectual.  Métodos
+historiográficos. Biblioteca Nueva
+
+Paedagogica Historica, Volume 50, Issue 6, December, 2014
+
 Ramírez   Molina,   R.   I.,   Lay,   N.,   &  Vergara  Ramos,  L.  A.  (2023).  Socio  Antropología:  Condiciones
 científico    disciplinares.    Revista    Latinoamericana    de    Difusión    Científica,    5,   254–275.
 https://doi.org/10.38186/difcie.59.15
@@ -162,9 +169,6 @@ Sánchez,   L.,   Villanueva   Baselga,   S.,  &  Faure-Carvallo,  A.  (2024).  
 alfabetización   informacional   y   pensamiento   crítico:  desafíos  para  el  futuro  profesorado.  Revista
 Latina de Comunicación Social, 82, 1–20. https://doi.org/10.4185/rlcs-2024-2268
 
-Tamar, G. (2014). “Teachers and the struggle for democracy in Spain, 1970-1985”, Palgrave Studies in
-the History of Social Movements. Palgrave Macmillan
-
 Vega    y   Ortega   Baez,   R.   A.   (Coord.).   (2020).   Ciencia,   cultura   y   sociedad:   Aproximaciones
 metodológicas   para   el   análisis   histórico   de  las  fuentes  hemerográficas.  México  y  América  Latina
 1820–1930. Universidad Nacional Autónoma de México
@@ -172,4 +176,4 @@ metodológicas   para   el   análisis   histórico   de  las  fuentes  hemerogr
 Wand,   T.,   &   Hoyer,   D.   (2022).   The   characteristic   time   scale   of   cultural  evolution.  arXiv.
 https://arxiv.org/abs/2212.00563
 
-📊 Porcentaje estimado de cambio: 67% [██████░░░░]
+📊 Porcentaje estimado de cambio: 52% [█████░░░░░]

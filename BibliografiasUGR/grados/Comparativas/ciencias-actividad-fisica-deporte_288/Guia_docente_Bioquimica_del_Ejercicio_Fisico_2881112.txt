@@ -2,39 +2,31 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+FEDUCHI,   E.   Bioquímica:   Conceptos   esenciales  -  Editorial  Médica  Panamericana.  D.L.  NELSON  &  M.M.
+COX.   LEHNINGER   PRINCIPIOS   DE  BIOQUÍMICA.  5ª  Edición,  2009.  Ediciones  Omega  L.  STRYER,  J.M.  Berg  &
+J.L.   Tymoczko.   BIOQUÍMICA.   6ª  Edicion,  2007.  Reverté.  T.M.  DEVLIN.  BIOQUÍMICA.  LIBRO  DE  TEXTO  CON
+APLICACIONES CLÍNICAS. 4ª Edición
 
-📚 Recursos sin cambios:
+Reverté D. VOET, J. G. VOET & C. W. PRATT. FUNDAMENTOS DE BIOQUÍMICA. 2ª Edición, 2006. Panamericana
+C.K.   MATHEWS,   K.E.  Van  HOLDE  &  K.G.  AHERN.  BIOQUÍMICA.  3ª  Edición,  2002.  Addison  Wesley  T.  McKEE  &
+J.R. McKEE. BIOQUÍMICA. LA BASE MOLECULAR DE LA VIDA. 3ª Edición
+
+📚 Recursos sin cambios (1):
 ------------------------------
-D.L. NELSON & M.M. COX. LEHNINGER PRINCIPIOS DE BIOQUÍMICA. 5ª Edición, 2009. Ediciones Omega
-
-FEDUCHI, E. Bioquímica: Conceptos esenciales - Editorial Médica Panamericana
-
-L. STRYER, J.M. Berg & J.L. Tymoczko. BIOQUÍMICA. 6ª Edicion, 2007. Reverté
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Panamericana C.K. MATHEWS, K.E. Van HOLDE & K.G. AHERN. BIOQUÍMICA. 3ª Edición, 2002. Addison Wesley
-T.   McKEE   &   J.R.   McKEE.   BIOQUÍMICA.   LA   BASE   MOLECULAR   DE   LA  VIDA.  3ª  Edición,  2003.  McGraw-
-Hill/Interamericana   J.W.   BAYNES  &  M.H.  DOMINICZAK.  BIOQUÍMICA  MÉDICA.  3ª  Edición,  2011.  Elsevier  →
-J.W. BAYNES & M.H. DOMINICZAK. BIOQUÍMICA MÉDICA. 3ª Edición, 2011. Elsevier
-
-D.   VOET,   J.   &   G.   VOET.   BIOQUÍMICA.   3ª   Edición,   2006.   Panamericana  J.  KOOLMAN  &  K.-H.  RÖHM.
+McGraw-Hill/Interamericana   J.W.   BAYNES   &   M.H.   DOMINICZAK.   BIOQUÍMICA  MÉDICA.  3ª  Edición,  2011.
+Elsevier. D. VOET, J. & G. VOET. BIOQUÍMICA. 3ª Edición, 2006. Panamericana J. KOOLMAN & K.-H. RÖHM.
 BIOQUÍMICA.TEXTO   Y   ATLAS.   3ª   Edición,   2004.  Edit.  Médica  Panamericana  Gómez  JA.  Introducción  al
-estudio   de   la  Bioquímica.  Panamericana  2004  →  D.  VOET,  J.  &  G.  VOET.  BIOQUÍMICA.  3ª  Edición,  2006.
-Panamericana
+estudio   de   la  Bioquímica.  Panamericana  2004.  Annual  Review  of  Biochemistry.  Biochemical  Education.
+CRC   Critical   Reviews   in   Biochemistry  and  Molecular  Biology.  Current  Biology;  Current  Opinion  in:
+Biotechnology,   Cell   Biology,   Neurobiology,   Structural   Biology.  Investigación  y  Ciencia.  Nature.
+Science. Trends in: Biochemical Sciences, Biotechnology, Cell Biology, Genetics, Molecular Medicine,
+Neurosciences
 
-T.M.   DEVLIN.   BIOQUÍMICA.   LIBRO   DE   TEXTO  CON  APLICACIONES  CLÍNICAS.  4ª  Edición,  2004.  Reverté  D.
-VOET,   J.   G.   VOET   &   C.   W.   PRATT.   FUNDAMENTOS   DE   BIOQUÍMICA.  2ª  Edición,  2006  →  T.M.  DEVLIN.
-BIOQUÍMICA. LIBRO DE TEXTO CON APLICACIONES CLÍNICAS. 4ª Edición, 2004. Reverté
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (17):
 ------------------------------
 Annual Review of Biochemistry
-
-Biochemical Education
 
 C.K. MATHEWS, K.E. Van HOLDE & K.G. AHERN. BIOQUÍMICA. 3ª Edición, 2002. Addison Wesley
 
@@ -42,7 +34,13 @@ CRC Critical Reviews in Biochemistry and Molecular Biology
 
 Current Biology; Current Opinion in: Biotechnology, Cell Biology, Neurobiology, Structural Biology
 
+D. VOET, J. & G. VOET. BIOQUÍMICA. 3ª Edición, 2006. Panamericana
+
 D. VOET, J. G. VOET & C. W. PRATT. FUNDAMENTOS DE BIOQUÍMICA. 2ª Edición, 2006. Panamericana
+
+D.L. NELSON & M.M. COX. LEHNINGER PRINCIPIOS DE BIOQUÍMICA. 5ª Edición, 2009. Ediciones Omega
+
+FEDUCHI, E. Bioquímica: Conceptos esenciales - Editorial Médica Panamericana
 
 Gómez JA. Introducción al estudio de la Bioquímica. Panamericana 2004
 
@@ -50,10 +48,16 @@ Investigación y Ciencia
 
 J. KOOLMAN & K.-H. RÖHM. BIOQUÍMICA.TEXTO Y ATLAS. 3ª Edición, 2004. Edit. Médica Panamericana
 
+J.W. BAYNES & M.H. DOMINICZAK. BIOQUÍMICA MÉDICA. 3ª Edición, 2011. Elsevier
+
+L. STRYER, J.M. Berg & J.L. Tymoczko. BIOQUÍMICA. 6ª Edicion, 2007. Reverté
+
 Neurosciences
 
 T.   McKEE   &   J.R.   McKEE.   BIOQUÍMICA.   LA   BASE   MOLECULAR   DE   LA  VIDA.  3ª  Edición,  2003.  McGraw-
 Hill/Interamericana
+
+T.M. DEVLIN. BIOQUÍMICA. LIBRO DE TEXTO CON APLICACIONES CLÍNICAS. 4ª Edición, 2004. Reverté
 
 Trends in: Biochemical Sciences, Biotechnology, Cell Biology, Genetics, Molecular Medicine
 

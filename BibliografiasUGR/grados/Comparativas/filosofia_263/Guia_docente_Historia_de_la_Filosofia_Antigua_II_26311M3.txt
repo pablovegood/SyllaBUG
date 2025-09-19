@@ -2,12 +2,16 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (54):
 ------------------------------
+, Aristotele, dalla dialettica alla filosofia prima con saggi integrativi, ed.Bompiani, Milán, 2004
+
+Aristóteles, Obras en Biblioteca Clásica de Gredos
+
 Arrighetti,   G.,  "Epicuro  y  su  Escuela",  en  A.A.V.V.  (siglo  XXI  editores),  Historia  de  la  Filosofía,
 vol.I, págs.297-314
 
@@ -27,6 +31,8 @@ D. J. Allan, The Philosophy of Aristotle, Oxford, 1978
 
 D.Ross, Aristóteles, ed.Sudamericana, Buenos Aires, 1957
 
+E. Berti, La Filosofia del Primo Aristotele, Padua, 1962
+
 Elorduy, E., El estoicismo, 2 vols., Madrid, 1972
 
 Festugière, A.J. Epicuro y sus dioses, Buenos Aires, 1979 (1946)
@@ -38,6 +44,8 @@ G.Reale, Guía de Lectura de la Metafísica de Aristóteles, ed. Herder, Barcelo
 G.Reale, Introducción a Aristóteles, ed. Herder, Barcelona, 1985
 
 García Gual, C. : Epicuro, Alianza Editorial, Madrid, 1981
+
+García Gual, C., Acosta Mendez, E., Ética de Epicuro, (texto bilingüe), Barcelona, 1974
 
 García Gual, C., Diógenes Laercio, Vidas y opiniones de los filósofos ilustres, Madrid, 2008
 
@@ -56,11 +64,14 @@ Sócrates", págs.461-477
 Hoyos Sánchez, I. Sobre el amor y el miedo. Tópicos antiguos y enfoques modernos. Avarigani, Madrid,
 2016
 
+I   W.K.C.   Guthrie,  Introducción  a  Aristóteles,  Historia  de  la  Filosofía  Griega,  vol.VI,  ed.  Gredos,
+Madrid, 1994
+
 I.Düring, Aristóteles. Exposición e interpretación de su Pensamiento, ed. U.N.A.M., México, 1990
 
-J.L.Calvo Martínez, Aristóteles, Física, ed. Alma mater, Madrid, 1996
+II LONG, A.: La filosofía helenística, Alianza Editorial, Madrid, 1997. I. Aristóteles
 
-LONG, A.: La filosofía helenística, Alianza Editorial, Madrid, 1997
+J.L.Calvo Martínez, Aristóteles, Física, ed. Alma mater, Madrid, 1996
 
 Lledó,   E.,   El   Epicureísmo,   Una   sabiduría   del  cuerpo,  del  gozo  y  de  la  amistad,  Barcelona,  1987
 (1984)
@@ -110,30 +121,15 @@ Vara, J., Epicuro, Obras completas, Madrid, 1995
 
 Vigo, A., Guía Comares de Aristóteles, ed. Comares, Granada, 2024
 
-W.Jaeger, Aristóteles. Bases de su desarrollo intelectual, ed. F.C.E., México, 1980
+Vigo, A., Guía Comares de Aristóteles, ed. Comares, Granada, 2024. II Filosofía Helenística
 
-W.K.C.   Guthrie,   Introducción   a   Aristóteles,  Historia  de  la  Filosofía  Griega,  vol.VI,  ed.  Gredos,
-Madrid, 1994
+W.Jaeger, Aristóteles. Bases de su desarrollo intelectual, ed. F.C.E., México, 1980
 
 W.K.C.   Guthrie,   Introducción   a   Aristóteles,  Historia  de  la  filosofía  griega,  vol.VI,  ed.  Gredos,
 Madrid, 1994
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-E.   Berti,   La   Filosofia   del   Primo   Aristotele,   Padua,  1962.  ,  Aristotele,  dalla  dialettica  alla
-filosofia   prima   con  saggi  integrativi,  ed.Bompiani,  Milán,  2004  →  E.  Berti,  La  Filosofia  del  Primo
-Aristotele, Padua, 1962
-
-✅ Recursos añadidos:
-------------------------------
-, Aristotele, dalla dialettica alla filosofia prima con saggi integrativi, ed.Bompiani, Milán, 2004
-
-Aristóteles, Obras en Biblioteca Clásica de Gredos
-
-García Gual, C., Acosta Mendez, E., Ética de Epicuro, (texto bilingüe), Barcelona, 1974
-
 I. Aristóteles
 
-II Filosofía Helenística
-
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 1% [░░░░░░░░░░]

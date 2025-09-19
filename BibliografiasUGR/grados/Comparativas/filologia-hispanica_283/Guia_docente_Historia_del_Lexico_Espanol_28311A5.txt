@@ -2,11 +2,11 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 Alatorre, Antonio (2002). Los 1001 años de la lengua española, México, Fondo de Cultura Económica
 
@@ -47,6 +47,9 @@ Dworkin,   Gloria   Clavería   Nadal   and   Álvaro   S.   Octavio   de   Tole
 histórica   del   español.   The   Routledge  Handbook  of  Spanish  Historical  Linguistics.  London  and  Nuew
 York, Routledge, 291-303
 
+Núñez-Méndez,   Eva   (2012).   Fundamentos  teóricos  y  prácticos  de  historia  de  la  lengua  española,  New
+Haven: Yale University Press
+
 Núñez-Méndez,   Eva   (2017).  "Historia  del  español:  periodización"  en  Gutiérrez-Rexach,  Javier  (ed.),
 Enciclopedia de lingüística hispánica, vol. 2, London, Routledge, 576-589
 
@@ -59,29 +62,22 @@ Madrid: Gredos
 Pharies,   David   A.  (2014).  Breve  historia  de  la  lengua  española,  Chicago,  The  University  of  Chicago
 Press
 
+Pons   Rodríguez,   Lola   (2010).   La  lengua  de  ayer.  Manual  práctico  de  historia  del  español,  Madrid,
+Arco / Libros
+
 Pountain, Christopher J. (2001). A History of the Spanish Language through texts, London & New York,
 Routledge
 
 Rojo,   Guillermo   (2021):   Introducción   a   la   lingüística  de  corpus  en  español.  Oxford  &  New  York:
 Routledge
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Torrens Álvarez, Mª. Jesús (22018). Evolución e historia de la lengua española, Madrid, Arco/Libros
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 García-Godoy,   María  Teresa  y  Miguel  Calderón  Campos  (2024):  "  Cabalito:  un  adverbio  dieciochesco  en
 la   historia   del  español  europeo"  en  David  Prieto  García-Seco  y  Elenna  Varela  (eds.):  Miscelánea  de
 Estudios   Filológicos.  Homenaje  a  Pedro  Álvarez  de  Miranda  .  Murcia,  Universidad  de  Murcia,  313-344.
 https://hdl.handle.net/10481/98019
 
-Núñez-Méndez,   Eva   (2012).   Fundamentos  teóricos  y  prácticos  de  historia  de  la  lengua  española,  New
-Haven: Yale University Press
-
-Pons   Rodríguez,   Lola   (2010).   La  lengua  de  ayer.  Manual  práctico  de  historia  del  español,  Madrid,
-Arco / Libros
-
-Torrens Álvarez, Mª. Jesús (22018). Evolución e historia de la lengua española, Madrid, Arco/Libros
-
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

@@ -2,19 +2,24 @@
 Grado: ingenieria-civil-administracion-dreccion-empresas (248)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 A.   ALAMÁN:  Materiales  metálicos  de  construcción.  Servicio  de  Publicaciones.  Revista  Obras  Públicas.
 Madrid (1990)
 
 A.M. NEVILLE: Properties of concrete. Fourth ed. Prentice Hall. Edinburgh (2000)
 
+A.P.   GULIÁEV:   Metalografía.   Tomos  1  y  2.  Traducción  al  español  revisada  y  ampliada.  Ed.  Mir.Moscú
+(1983)
+
 C.   KRAMER:   Firmes.   Servicio   de   Publicaciones.   E.T.S.I.C.C.P.   Madrid  (1990).  Normas  UNE  de  los
 distintos materiales y ensayos
+
+CTE, Código Técnico de la Edificación
 
 E.   TORROJA:   Razón  y  ser  de  los  tipos  estructurales.  7ª  edición.  Ed.  I.C.C.  Eduardo  Torroja.  Madrid
 (1991)
@@ -25,6 +30,9 @@ J.E. GORDON: La mueva ciencia de los materiales. Ed. Celeste. Madrid (2002)
 
 M.   FERNÁNDEZ   CÁNOVAS:   Hormigón.   Servicio   de   publicaciones   CICC   y   P.   Madrid   (2007).  RC-16,
 Instrucción para la Recepción de Cementos
+
+M.   FERNÁNDEZ   CÁNOVAS:   Materiales   bituminosos.   Servicio   de  Publicaciones.  E.T.S.I.C.C.P.  Madrid
+(1990)
 
 M.F. ASHBY y D.R.H. JONES: Engineering materials. Ed. Butterworth Heinemann. Oxford (1995)
 
@@ -41,18 +49,8 @@ S.H. AVNER: Introducción a la metalurgia física. 2ª edición. McGraw-Hill. M�
 
 W.F. SMITH: Fundamentos de la Ciencia e Ingeniería de Materiales. Ed. McGraw-Hill. Madrid (1992)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-A.P.   GULIÁEV:   Metalografía.   Tomos  1  y  2.  Traducción  al  español  revisada  y  ampliada.  Ed.  Mir.Moscú
-(1983)
-
-CTE, Código Técnico de la Edificación
-
-M.   FERNÁNDEZ   CÁNOVAS:   Materiales   bituminosos.   Servicio   de  Publicaciones.  E.T.S.I.C.C.P.  Madrid
-(1990)
-
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

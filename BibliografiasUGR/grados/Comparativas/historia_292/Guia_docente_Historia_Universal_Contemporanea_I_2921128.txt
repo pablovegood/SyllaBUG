@@ -2,11 +2,11 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 AROSTEGUI,   J.   BUCHRUCKER,   C.   Y   SABORIDO,   J.   (dir.)   (2001),El  Mundo  contemporáneo:  Historia  y
 problemas, Barcelona, Crítica
@@ -42,7 +42,7 @@ La Piqueta
 POLLARD,   S.   ([1981]   1991),La   conquista   pacífica.   La   industrialización   de   Europa,  1760-1970,
 Universidad de Zaragoza
 
-SCOTT, J. C. (1990),Los dominados y el arte de la resistencia, Tafalla, Editorial Txalaparta
+SCOTT, J. C. (1990) ,Los dominados y el arte de la resistencia, Tafalla, Editorial Txalaparta
 
 THOMPSON, E. P. (1963 [1980]),La formación de la clase obrera en Inglaterra, Madrid, Capitán Swing
 
@@ -50,11 +50,7 @@ VILLARES, R. y BAHAMONDE, A. (2001),El mundo contemporáneo. Siglos XIX y XX, Ma
 
 WOLF, E. R. (1982),Europa y la gente sin historia, México, Fondo de Cultura Económica
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 MÁIZ,   R.   (2018),   Nacionalismo   y   federalismo.  Una  aproximación  desde  la  teoría  política,  Madrid,
 Siglo XXI

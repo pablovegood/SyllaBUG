@@ -2,11 +2,20 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Arroyo, A. (2004). Tendencias Demográficas durante el siglo XX en España. Ed. INE Calot, G. Curso de
+estadística descriptiva. (1974). Ed. Paraninfo, Madrid, Peña, D.; Romo, J. (1997). Introducción a la
+estadística para las ciencias sociales. Ed. Mc Graw Hill. Madrid
 
-📚 Recursos sin cambios:
+Pressat,   R.   (1983).   El   análisis   demográfico.  Ed.  Fondo  de  Cultura  Económica.  Madrid  Vinuesa,  J.
+Puga, D. (2007). Técnicas y ejercicios de Demografía. Ed. INE. Madrid
+
+Theodore   W.   Anderson,   An   Introduction   to   Multivariate   Statistical   Analysis,   3rd  ed.,  Wiley-
+Interscience,   2003  Weisburd,  D.,  Britt,  C.,  Wilson,  D.  B.,  Wooditch,  A.  (2021).  Basic  Statistics  in
+Criminology and Criminal Justice. Springer Nature
+
+📚 Recursos sin cambios (6):
 ------------------------------
 Abad,   F.;   Huete.  M.D.  y  Vargas,  M.  (2001).  Estadística  para  las  Ciencias  Sociales  y  Laborales.  Ed.
 Urbano. Granada
@@ -24,32 +33,23 @@ Vinuesa, J. (Editor). (1997). Demografía. Análisis y Proyecciones. Ed. Síntes
 Weisburd,   D.,   Wilson,  D.  B.,  Wooditch,  A.,  Britt,  C.  L.  (2022).  Advanced  statistics  in  criminology
 and criminal justice. Springer
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Arroyo, A. (2004). Tendencias Demográficas durante el siglo XX en España. Ed. INE Calot, G. Curso de
-estadística descriptiva. (1974). Ed. Paraninfo, Madrid, Peña, D.; Romo, J. (1997). Introducción a la
-estadística   para   las   ciencias   sociales.  Ed.  Mc  Graw  Hill.  Madrid  →  Arroyo,  A.  (2004).  Tendencias
-Demográficas durante el siglo XX en España. Ed. INE
+Arroyo, A. (2004). Tendencias Demográficas durante el siglo XX en España. Ed. INE
 
-Theodore   W.   Anderson,   An   Introduction   to   Multivariate   Statistical   Analysis,   3rd  ed.,  Wiley-
-Interscience,   2003  Weisburd,  D.,  Britt,  C.,  Wilson,  D.  B.,  Wooditch,  A.  (2021).  Basic  Statistics  in
-Criminology   and   Criminal   Justice.   Springer   Nature   →   Theodore   W.  Anderson,  An  Introduction  to
-Multivariate Statistical Analysis, 3rd ed., Wiley-Interscience, 2003
-
-Pressat,   R.   (1983).   El   análisis   demográfico.  Ed.  Fondo  de  Cultura  Económica.  Madrid  Vinuesa,  J.
-Puga,   D.   (2007).   Técnicas   y   ejercicios   de  Demografía.  Ed.  INE.  Madrid  →  Pressat,  R.  (1983).  El
-análisis demográfico. Ed. Fondo de Cultura Económica. Madrid
-
-✅ Recursos añadidos:
-------------------------------
 Calot, G. Curso de estadística descriptiva. (1974). Ed. Paraninfo, Madrid
 
 Peña,   D.;   Romo,   J.   (1997).  Introducción  a  la  estadística  para  las  ciencias  sociales.  Ed.  Mc  Graw
 Hill. Madrid
+
+Pressat, R. (1983). El análisis demográfico. Ed. Fondo de Cultura Económica. Madrid
+
+Theodore   W.   Anderson,   An   Introduction   to   Multivariate   Statistical   Analysis,   3rd  ed.,  Wiley-
+Interscience, 2003
 
 Vinuesa, J. Puga, D. (2007). Técnicas y ejercicios de Demografía. Ed. INE. Madrid
 
 Weisburd,   D.,   Britt,   C.,   Wilson,  D.  B.,  Wooditch,  A.  (2021).  Basic  Statistics  in  Criminology  and
 Criminal Justice. Springer Nature
 
-📊 Porcentaje estimado de cambio: 77% [███████░░░]
+📊 Porcentaje estimado de cambio: 76% [███████░░░]

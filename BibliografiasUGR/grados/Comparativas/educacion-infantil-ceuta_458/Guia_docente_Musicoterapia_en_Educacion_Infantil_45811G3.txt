@@ -2,11 +2,21 @@
 Grado: educacion-infantil-ceuta (458)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+MAESO   RUBIO.F.   (2003)   Todo   el  mundo  es  un  artista.  Creatividad,  imaginación,  percepción  visual  y
+otras   conductas   artísticas.   En   :  V.R.  (coord.)  Didáctica  de  la  Educación  Artística  para  Primaria
+(pp.321-345)   Ed.   Pearson   Educación.   Madrid   MATEOS   HERNÁNDEZ,   Luis   Alberto.   (2011)   Terapias
+artístico- creativas. Salamanca, Amarú
 
-📚 Recursos sin cambios:
+NORDOFF,   P.   &   ROBBINS,   C.  (1983)  Music  Therapy  in  Special  Education.  St.Louis:  MMB  OLDFIELD,  A.,
+FLOWER,   C.   (2008).  Music  therapy  with  children  and  their  families.  LondonPhiladelphia:  J.  Kingsley
+Publishers
+
+PEREYRA,   G.   (2013).   Musicoterapia:   Iniciación,   técnicas  y  ejercicios.  Barcelona:  Robinbook  POCH
+BLASCO, S. (2011) Compendio de Musicoterapia, Barcelona, Herder, (2 vols.)
+
+📚 Recursos sin cambios (23):
 ------------------------------
 ALDRDIGE, D. (2001) Music Therapy in Europe. Roma, ISMEZ Publications
 
@@ -60,33 +70,26 @@ LUCAS, M. (2013) Introducción a la musicoterapia. Madrid. Síntesis
 
 PELLIZZARI .P.,RODRÍGUEZ. R. (2005): Salud, escucha y creatividad. Ed Universidad del Salvador
 
-PEREYRA, G. (2013). Musicoterapia: Iniciación, técnicas y ejercicios. Barcelona: Robinbook
-
-POCH BLASCO, S. (2011) Compendio de Musicoterapia, Barcelona, Herder, (2 vols.)
-
 RODRIGO, Mª S. (2000) Musicoterapia. Terapia de música y sonido. Madrid: Musicalis
 
 VAILLANCOURT,   G.   (2009)   Música  y  musicoterapia:  Su  importancia  en  el  desarrollo  infantil.  Madrid:
 Narcea
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
 MAESO   RUBIO.F.   (2003)   Todo   el  mundo  es  un  artista.  Creatividad,  imaginación,  percepción  visual  y
 otras   conductas   artísticas.   En   :  V.R.  (coord.)  Didáctica  de  la  Educación  Artística  para  Primaria
-(pp.321-345)   Ed.   Pearson   Educación.   Madrid   MATEOS   HERNÁNDEZ,   Luis   Alberto.   (2011)   Terapias
-artístico-   creativas.   Salamanca,   Amarú   →   MAESO   RUBIO.F.   (2003)   Todo   el  mundo  es  un  artista.
-Creatividad,   imaginación,   percepción   visual   y   otras   conductas   artísticas.   En  :  V.R.  (coord.)
-Didáctica de la Educación Artística para Primaria (pp.321-345) Ed. Pearson Educación. Madrid
+(pp.321-345) Ed. Pearson Educación. Madrid
 
-NORDOFF,   P.   &   ROBBINS,   C.  (1983)  Music  Therapy  in  Special  Education.  St.Louis:  MMB  OLDFIELD,  A.,
-FLOWER,   C.   (2008).  Music  therapy  with  children  and  their  families.  LondonPhiladelphia:  J.  Kingsley
-Publishers  →  NORDOFF, P. & ROBBINS, C. (1983) Music Therapy in Special Education. St.Louis: MMB
-
-✅ Recursos añadidos:
-------------------------------
 MATEOS HERNÁNDEZ, Luis Alberto. (2011) Terapias artístico- creativas. Salamanca, Amarú
+
+NORDOFF, P. & ROBBINS, C. (1983) Music Therapy in Special Education. St.Louis: MMB
 
 OLDFIELD, A., FLOWER, C. (2008). Music therapy with children and their families. LondonPhiladelphia:
 J. Kingsley Publishers
 
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+PEREYRA, G. (2013). Musicoterapia: Iniciación, técnicas y ejercicios. Barcelona: Robinbook
+
+POCH BLASCO, S. (2011) Compendio de Musicoterapia, Barcelona, Herder, (2 vols.)
+
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

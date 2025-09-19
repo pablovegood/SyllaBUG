@@ -2,11 +2,12 @@
 Grado: estudios-franceses (277)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+RODRÍGUEZ   RAMALLE,   T.M.,  Manual  de  sintaxis  del  español,  Madrid,  Editorial  Castalia,  GERBOIN  P.  et
+LEROY, C., Grammaire d’usage de l’espagnol contemporain, Paris, Hachette, 1992
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (42):
 ------------------------------
 ALARCOS LLORACH, E., Gramática de la lengua española, Madrid, Espasa Calpe, 1999
 
@@ -15,19 +16,17 @@ ALCINA FRANCH, J. et BLECUA, J.M., Gramática española, Barcelona, Ariel, 1982
 ARRIVE,   M.   ;   BLANCHE-BENVENISTE,   C.   ;   CHEVALIER,   J-C.   ;   PEYTARD,   J.,  Grammaire  du  français
 contemporain, Paris, Larousse, Collection « Références », 2002
 
-ASLANIDES, S., Grammaire du français. Du mot au texte, Paris, Honoré Champion, 2001
-
 BEAUJEU,   C.-M.,   ET   ALII,   350   exercices.   Niveau   supérieur  II  (Grammaire.  Cours  de  Civilisation
 française de la Sorbonne), Paris, Hachette, Collection « Exerçons-nous », 1991. (nivel C1/C2)
 
 BEDEL, J-M., Grammaire de l’espagnol moderne, Paris, PUF, 2004
 
-BELOT, A., Dictionnaire d’usage d’espagnol contemporain. Français-Espagnol, Paris, Ellipses, 1996
-
 BONNARD, H., Code du français courant, Paris, Magnard, 1981
 
 BOULARES,   M.;   FREROT,   J.-L.,   Grammaire   progressive   du   français  avec  400  exercices,  Paris,  CLE
 International, 1997 (nivel C1/C2)
+
+CASARES, J., Diccionario ideológico de la lengua española, Barcelona, Gustavo Gili, 1959
 
 CHARAUDEAU, P., Grammaire du sens et de l’expression, Paris, Hachette, Collection « Communication »,
 1993
@@ -48,6 +47,18 @@ Masson, 1986
 
 DENIS, D. et SANCIER-CHATEAU, A., Grammaire du français, Paris, Librairie Générale Française, 1997
 
+Diccionario   de   la   lengua   española,   Real   Academia   Española,   Madrid,  Espasa  Calpe,  (Rééditions
+fréquentes). (2 vol.)
+
+Dictionnaire bilingues : BELOT, A., Dictionnaire d’usage d’espagnol contemporain. Français-Espagnol,
+Paris, Ellipses, 1996
+
+Dictionnaires   unilingues   espagnols   :   SECO,   M.;   ANDRÉS,   O.;  RAMOS,  G.,  Diccionario  del  español
+actual, Madrid, Aguilar, 1999. (2 vol.)
+
+Dictionnaires unilingues français : Petit Robert, Dictionnaire de la langue française, directeurs A.
+REY et J. REY-DEBOVE, Paris, Dictionnaires Le Robert (Rééditions fréquentes)
+
 FRONTIER, A., La grammaire du français, Paris, Belin, Collection « Sujets », 1997
 
 GARDES-TAMINE, J., La Grammaire I, II, Paris, Armand Colin, Collection « Cursus », 1990
@@ -56,6 +67,9 @@ GREVISSSE, M. et GOOSSE, A., Le bon usage, 14e édition, Bruxelles, De Boeck & L
 
 GUIJARRO   GARCIA,   R.,   Le   thème  grammatical  espagnol-français  III.  Les  circonstancielles,  Granada,
 Editorial Comares, 2008
+
+Grammaires   françaises   :   ASLANIDES,   S.,   Grammaire   du   français.   Du  mot  au  texte,  Paris,  Honoré
+Champion, 2001
 
 Gramática   descriptiva  de  la  lengua  española,  dirigida  por  Ignacio  Bosque  y  Violeta  Demonte,  Madrid,
 Editorial Espasa Calpe, 1999, 3 volúmenes
@@ -76,6 +90,10 @@ LESCURE, R., ET ALII, DALF C1/C2. 250 activités, Paris, CLE International, 2007
 Le   Grand   Robert  de  la  langue  française,  directeur  A.  REY,  Paris,  Dictionnaires  Le  Robert,  2001,  2e
 édition. (6 vol.)
 
+MIQUEL, C. Vocabulaire progressif du français. Niveau avancé . Clé International
+
+MOLINER, M., Diccionario del uso del español, Madrid, Gredos, 1983. (2 vol.)
+
 Nueva   gramática  de  la  lengua  española,  Real  Academia  Española,  Asociación  de  Academias  de  la  Lengua
 Española, Madrid, Espasa, 2009
 
@@ -88,7 +106,10 @@ Collection « Quadrige», nº337, 2004
 SIREJOLS,    É.    ;   CLAUDE,   P.,   Grammaire   niveau   avancé.   450   nouveaux   exercices,   Paris,   CLE
 International, 2002. (nivel C1/C2)
 
-VIDAL, J-P., Hispano-Bordas-Dictionnaire. Français-Espagnol /Espagnol-Français, Paris, Bordas, 1989
+SIRÉJOLS, E. et CLAUDE, P. Grammaire. Niveaux avancé. 450 nouveaux exercices. Clé interational
+
+VIDAL, J-P., Hispano-Bordas-Dictionnaire. Français-Espagnol /Espagnol-Français, Paris, Bordas, 1989.
+Grammaires espagnoles
 
 WAGNER, R.L. et PINCHON, J., Grammaire du français classique et moderne, Paris, Hachette, 1999
 
@@ -96,27 +117,9 @@ WEINRICH, H., Grammaire textuelle du français, Paris, Didier/Hatier, 1989
 
 WILMET, M., Grammaire critique du français, Paris / Louvain-la-Neuve, Hachette / Duculot, 1997
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-SECO,   M.;   ANDRÉS,   O.;   RAMOS,  G.,  Diccionario  del  español  actual,  Madrid,  Aguilar,  1999.  (2  vol.)
-MOLINER,   M.,   Diccionario   del   uso   del   español,   Madrid,   Gredos,   1983.   (2   vol.)  CASARES,  J.,
-Diccionario   ideológico   de   la   lengua   española,  Barcelona,  Gustavo  Gili,  1959  →  SECO,  M.;  ANDRÉS,
-O.; RAMOS, G., Diccionario del español actual, Madrid, Aguilar, 1999. (2 vol.)
-
-RODRÍGUEZ   RAMALLE,   T.M.,  Manual  de  sintaxis  del  español,  Madrid,  Editorial  Castalia,  GERBOIN  P.  et
-LEROY,   C.,   Grammaire   d’usage   de   l’espagnol   contemporain,   Paris,   Hachette,   1992   →  RODRÍGUEZ
-RAMALLE, T.M., Manual de sintaxis del español, Madrid, Editorial Castalia, 2005
-
-✅ Recursos añadidos:
-------------------------------
-CASARES, J., Diccionario ideológico de la lengua española, Barcelona, Gustavo Gili, 1959
-
-Diccionario   de   la   lengua   española,   Real   Academia   Española,   Madrid,  Espasa  Calpe,  (Rééditions
-fréquentes). (2 vol.)
-
 Dictionnaire bilingues
-
-Dictionnaires unilingues espagnols
 
 Dictionnaires unilingues français
 
@@ -128,13 +131,8 @@ Grammaires espagnoles
 
 Grammaires françaises
 
-MIQUEL, C. Vocabulaire progressif du français. Niveau avancé . Clé International
+RODRÍGUEZ RAMALLE, T.M., Manual de sintaxis del español, Madrid, Editorial Castalia, 2005
 
-MOLINER, M., Diccionario del uso del español, Madrid, Gredos, 1983. (2 vol.)
+SECO, M.; ANDRÉS, O.; RAMOS, G., Diccionario del español actual, Madrid, Aguilar, 1999. (2 vol.)
 
-Petit   Robert,   Dictionnaire   de   la   langue   française,   directeurs  A.  REY  et  J.  REY-DEBOVE,  Paris,
-Dictionnaires Le Robert (Rééditions fréquentes)
-
-SIRÉJOLS, E. et CLAUDE, P. Grammaire. Niveaux avancé. 450 nouveaux exercices. Clé interational
-
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

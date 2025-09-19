@@ -2,11 +2,11 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Abad   Montes,  F.  y  Vargas  Jiménez,  M.  (2002).  Análisis  de  Datos  para  las  Ciencias  Sociales  con  SPSS.
 Urbano
@@ -23,26 +23,24 @@ Estadística (15). La muralla- Hespérides
 Aguilera del Pino, A.M. (2005). Modelización de Tablas de Contingencia Multidimensionales. Colección
 Cuadernos de Estadística (33). La muralla- Hespérides
 
+Birkhaüser Thompson, L. (2007). S-PLUS (and R) Manual to Accompany Agresti’s (2002) Categorical Data
+Analysis (2ª edition) (https://home.comcast.net/~lthompson221/Splusdiscrete2.pdf)
+
 Everitt, B.S. (1992). The Analysis of Contingency Tables. Chapman-Hall
 
 Kateri, M. (2014). Contingency Table Analysis. Methods and Implementation Using R. Ed. Birkhaüser
 
 Power, D.A. y Xie, Y. (2000). Statistical Methods for Categorical Data Análisis. Academia Press
 
+Pérez, C. (2008). Técnicas Estadísticas con SPSS. Pearson Educación
+
 Ruiz-Maya,   L.,   Martín   Pliego,  F.J.,  Montero,  J.M.  y  Uriz  Tomé,  P.  (1995).  Análisis  Estadístico  de
 Encuestas: Datos Cualitativos. Ed. AC
 
 Selvin, S. (1996). Statistical Analysis of Epidemiological Data. Oxford University Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-Birkhaüser Thompson, L. (2007). S-PLUS (and R) Manual to Accompany Agresti’s (2002) Categorical Data
-Analysis   (2ª   edition)  Pérez,  C.  (2008).  Técnicas  Estadísticas  con  SPSS.  Pearson  Educación  →  Pérez,
-C. (2008). Técnicas Estadísticas con SPSS. Pearson Educación
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Thompson,   L.   (2007).  S-PLUS  (and  R)  Manual  to  Accompany  Agresti’s  (2002)  Categorical  Data  Analysis
-(2ª edition) (https://home.comcast.net/~lthompson221/Splusdiscrete2.pdf)
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,14 @@
 Grado: estudios-ingleses (285)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Dillard,   J.   L.   Black  English.  Its  History  and  Usage  in  the  United  States.  New  York:  Random  House,
+1972. (FTI/M 802.0(73)-087 DIL bla) [BIBLIOTECA TRAD. E INTER.] Levine, Fred Lawrence. Black Culture
+and   Black  Consciousness:  Afro-American  Thought  from  Slavery  to  Freedom.  New  York:  Oxford  University
+Press, 1978 (FLA/HAM/973 LEV bla)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 Campbell,   Neil   and   Alisdair  Kean.  American  Cultural  Studies.  An  Introduction  to  American  Culture.
 London and New York: Routledge, 1997
@@ -31,18 +34,12 @@ Zinn,   Howard  .  A  People’s  History  of  the  United  States  1492-Present
 Zinn, Howard and Anthony Arnove. Voices of a People’s History of the United States . New York: Seven
 Stories Press, 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Dillard,   J.   L.   Black  English.  Its  History  and  Usage  in  the  United  States.  New  York:  Random  House,
-1972. (FTI/M 802.0(73)-087 DIL bla) [BIBLIOTECA TRAD. E INTER.] Levine, Fred Lawrence. Black Culture
-and   Black  Consciousness:  Afro-American  Thought  from  Slavery  to  Freedom.  New  York:  Oxford  University
-Press,   1978   (FLA/HAM/973   LEV   bla)   →   Dillard,  J.  L.  Black  English.  Its  History  and  Usage  in  the
-United   States   .   New   York:   Random  House,  1972.  (FTI/M  802.0(73)-087  DIL  bla)  [BIBLIOTECA  TRAD.  E
-INTER.]
+Dillard,   J.   L.  Black  English.  Its  History  and  Usage  in  the  United  States  .  New  York:  Random  House,
+1972. (FTI/M 802.0(73)-087 DIL bla) [BIBLIOTECA TRAD. E INTER.]
 
-✅ Recursos añadidos:
-------------------------------
 Levine,   Fred  Lawrence.  Black  Culture  and  Black  Consciousness:  Afro-American  Thought  from  Slavery  to
 Freedom . New York: Oxford University Press, 1978 (FLA/HAM/973 LEV bla)
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

@@ -2,11 +2,13 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Pascual,   J.,  García,  J.F.  y  Frías,  M.D.  (1995).  El  diseño  y  la  investigación  experimental  en  Ramos,
+M.M., Catena, A., y Trujillo, H.M. (2004). Manual de métodos y técnicas de investigación en ciencias
+del comportamiento. Madrid: Biblioteca Nueva
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (31):
 ------------------------------
 Anguera, M.T. (1991). Metodología observacional en la investigación psicológica. Barcelona: PPU
 
@@ -28,9 +30,6 @@ Ato, M. y Vallejo, G. (2007). Diseños experimentales en Psicología. Madrid: Pi
 
 Barlow, D.H. y Jersen, M. (1988). Diseños experimentales de caso único. Barcelona: Martínez Roca
 
-Blanco,   A.   (1989).   Interpretación   de  la  normativa  internacional  para  la  presentación  de  trabajos
-científicos. Anuario de psicología, 157-177
-
 Brown, H.I. (1983). La nueva filosofía de la ciencia. Madrid: Técnos
 
 Campbell,   D.T.   y   Stanley,   J.C.   (1988).   Diseños   experimentales   y   cuasi-experimentales   en  la
@@ -45,15 +44,10 @@ Chalmers, J. (1982). ¿Qué es esa cosa llamada ciencia?Madrid: Siglo XXI
 
 Cohen, L. y Manion, L. (1994). Research methods in education. London: Rutledge
 
-Day, R.A. (1989). How to write and publish a scientific paper. New york: Cambridge University Press
-
 Fontes, S., et al. (2010). Fundamentos de investigación en Psicología.Madrid: UNED
 
 Gómez, J. (1990). Metodología de encuesta por muestreo. En J. Arnau et al. (Eds.), Metodología de la
 investigación en ciencias del comportamiento. Murcia: Universidad de Murcia
-
-Hair,   J.F.,   Anderson,   R.E.,   Tatham,   R.L.   y  Black,  W.C.  (1999).  Análisis  multivariante.  Madrid:
-Prentice Hall
 
 Keppel,   G.   (1982).   Desing   and   análisis.   A   researcher`s   handbook.  Englewood  Cliffs,  New  Cork:
 Prentice Hall Inc
@@ -66,9 +60,6 @@ investigación en psicología y educación. Madrid: McGraw Hill
 León, O.G. y Montero, I. (2015). Métodos de investigación en Psicología y Educación. Las tradiciones
 cuantitativa y cualitativa (4ª Edición).Madrid: McGraw Hill
 
-Martínez,   R.   (1995).  El  método  de  encuesta  por  muestreo.  Conceptos  básicos.  En  M.T.  Anguera  et  al.
-(Eds.), Métodos de investigación en Psicología(pp. 385-424). Madrid: Síntesis
-
 Meltzoff,   J.   (2000).   Crítica   a   la   investigación:   psicología   y  campos  afines.  Madrid:  Alianza
 editorial
 
@@ -77,13 +68,7 @@ afines. Madrid: Pirámide
 
 Navas, M.J. (2001). Métodos, Diseños y Técnicas de Investigación en Psicología. Madrid: UNED
 
-Pascual,   J.,   García,   J.F.   y   Frías,   M.D.   (1995).   El  diseño  y  la  investigación  experimental  en
-Psicología. Valencia: CSV
-
 Pereda, S. (1987). Psicología experimental, I. Madrid: Pirámide
-
-Ramos,   M.M.,   Catena,  A.,  y  Trujillo,  H.M.  (2004).  Manual  de  métodos  y  técnicas  de  investigación  en
-ciencias del comportamiento. Madrid: Biblioteca Nueva
 
 San   Martín,   R.   y   Pardo,   A.  (1989).  Psicoestadística.  Contrastes  paramétricos  y  no  paramétricos.
 Madrid: Pirámide
@@ -92,17 +77,30 @@ Scheaffer, R.L., Mendenhall, W. y Lyman, R. (2006). Elementos de muestreo. Madri
 
 Trujillo, H.M. (1999). Métodos y técnicas de investigación en psicología. Teoría. Granada: RDG
 
+Trujillo, H.M. (2018). Métodos y diseños de investigación en psicología (apuntes teóricos de clase).
+Plataforma Docente PRADO de la Universidad de Granada. Universidad de Granada
+
 Yela, M. (1994). El problema del método científico en psicología. Anuario de Psicología, 60, 3-12
 
 Ziman, J. (1993). ¿Qué es la ciencia?Madrid: Cambridge University Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-No hubo cambios de edición/año.
+Blanco,   A.   (1989).   Interpretación   de  la  normativa  internacional  para  la  presentación  de  trabajos
+científicos. Anuario de psicología, 157-177
 
-✅ Recursos añadidos:
-------------------------------
-Trujillo, H.M. (2018). Métodos y diseños de investigación en psicología (apuntes teóricos de clase).
-Plataforma Docente PRADO de la Universidad de Granada. Universidad de Granada
+Day, R.A. (1989). How to write and publish a scientific paper. New york: Cambridge University Press
 
-📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]
+Hair,   J.F.,   Anderson,   R.E.,   Tatham,   R.L.   y  Black,  W.C.  (1999).  Análisis  multivariante.  Madrid:
+Prentice Hall
+
+Martínez,   R.   (1995).  El  método  de  encuesta  por  muestreo.  Conceptos  básicos.  En  M.T.  Anguera  et  al.
+(Eds.), Métodos de investigación en Psicología(pp. 385-424). Madrid: Síntesis
+
+Pascual,   J.,   García,   J.F.   y   Frías,   M.D.   (1995).   El  diseño  y  la  investigación  experimental  en
+Psicología. Valencia: CSV
+
+Ramos,   M.M.,   Catena,  A.,  y  Trujillo,  H.M.  (2004).  Manual  de  métodos  y  técnicas  de  investigación  en
+ciencias del comportamiento. Madrid: Biblioteca Nueva
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

@@ -2,19 +2,26 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Blanc, J., Cartier, J-.M. et P. Lederlin, Scénarios professionnels Niveau 1, CLE International, 1994
+Blanc, J., Cartier, J-.M. et P. Lederlin, Scénarios professionnels Niveau 2, CLE International, 1995
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
 Bourniquel,   J.P.,   Maingret,   S.   CAP   Restaurant.   Technologie   des  services,  Paris  :  Foucher  (Les
 métiers de la restauration et de l’hôtellerie), 2010
+
+Carras, C., Kohler, P., Sjilagyi, E. et J. TOLAS, Le français sur Objectifs spécifiques et la classe
+de langue, Paris, CLE international, 2007
 
 Cloose, E. Le Français du monde de travail, Grenoble : PUG, 2014 (nouvelle édition)
 
 Corbeau,    S.,    Dubois,    Ch.    et   J.-L.   Penfornis,   Tourisme.com.   Français   professionnel,   CLE
 International, 2013. (2e édit.)
+
+Corbeau,    S.,    Dubois,    Ch.,    et   Penformis,   J.-L.,   Hôtellerie,   restauration.   com.   Français
+professionnel, CLE International, 2013 (2e édit.)
 
 Damette, A., Dargirolle, F. Méthode de français juridique, Paris: Dalloz, 2012
 
@@ -38,6 +45,13 @@ Lamoureux, J., Les Combines du téléphone, Grenoble : PUG, 2009
 
 Latifi,M., L’hôtellerie en français, Niveau intermédiaire, Didier FLE, 1989
 
+Le   Français   du   tourisme.   Hôtellerie,   restauration,   voyages   .  Paris:  Hachette  (Français  langue
+étrangère), 2012
+
+Lehmann D., Objectifs Spécifiques en langues étrangères, Hachette, Paris, 1993
+
+Mangiante J.-M. & Parpette C., Le Français sur Objectifs Spécifiques, Hachette, 2004
+
 Montoro Araque, M. (coord.) Lenguas extranjeras aplicadas: el mundo profesional y académico (inglés,
 francés, árabe), cd-rom. Granada: Comares, 2009
 
@@ -55,32 +69,10 @@ Soignet, M., Le français juridique : Droit, administration, affaires, Hachette 
 
 Tolas, J., Le français pour les sciences, PUG, 2004
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-CLE   International,   2003   →   Blanc,   J.,   Cartier,   J-.M.   et  P.  Lederlin,  Scénarios  professionnels
-Niveau 1, CLE International, 1994
-
-Le   Français   du   tourisme.   Hôtellerie,   restauration,   voyages.   Paris:   Hachette  (Français  langue
-étrangère),   2012.   classe   de   langue,   Paris,   CLE   international,  2007  →  Le  Français  du  tourisme.
-Hôtellerie, restauration, voyages . Paris: Hachette (Français langue étrangère), 2012
-
 Blanc, J., Cartier, J-.M. et P. Lederlin, Scénarios professionnels Niveau 1, CLE International, 1994
-Blanc, J., Cartier, J-.M. et P. Lederlin, Scénarios professionnels Niveau 2, CLE International, 1995
-→   Blanc,   J.,   Cartier,  J-.M.  et  P.  Lederlin,  Scénarios  professionnels  Niveau  1,  CLE  International,
-1994
 
-✅ Recursos añadidos:
-------------------------------
 Blanc, J., Cartier, J-.M. et P. Lederlin, Scénarios professionnels Niveau 2, CLE International, 1995
 
-Carras, C., Kohler, P., Sjilagyi, E. et J. TOLAS, Le français sur Objectifs spécifiques et la classe
-de langue, Paris, CLE international, 2007
-
-Corbeau,    S.,    Dubois,    Ch.,    et   Penformis,   J.-L.,   Hôtellerie,   restauration.   com.   Français
-professionnel, CLE International, 2013 (2e édit.)
-
-Lehmann D., Objectifs Spécifiques en langues étrangères, Hachette, Paris, 1993
-
-Mangiante J.-M. & Parpette C., Le Français sur Objectifs Spécifiques, Hachette, 2004
-
-📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

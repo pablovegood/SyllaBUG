@@ -2,18 +2,18 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 ARANA   GARCÍA,   E.,   et   al.,   Conceptos   para  el  estudio  del  Derecho  Administrativo  II  en  el  Grado,
 Tecnos, Madrid, (última edición)
 
 BERMEJO VERA, J. : Derecho Administrativo (Parte Especial), Ed. Civitas, Madrid (última edición)
 
-COSCULLUELA   MONTANER,   L.,  Manual  de  Derecho  Administrativo.  Edit.  Civitas-  Thomson  Reuters,  Madrid
+COSCULLUELA   MONTANER,   L.,  Manual  de  Derecho  Administrativo  .  Edit.  Civitas-Thomson  Reuters,  Madrid
 (última edición)
 
 GALLARDO   CASTILLO,   Mª  J.,  Casos  prácticos  de  derecho  administrativo  adaptados  al  EEES,  Ed.  La  Ley,
@@ -30,7 +30,7 @@ Thomson-Civitas, Madrid, (última edición)
 
 GARRIDO FALLA, F., Tratado de Derecho Administrativo, Tecnos, Madrid, (última edición)
 
-MARTIN   MATEO,  R.:  El  Marco  Público  de  la  Economía  de  Mercado,  Editorial  Thompson-  Aranzadi,  Navarra
+MARTIN   MATEO,  R.  :  El  Marco  Público  de  la  Economía  de  Mercado,  Editorial  Thompson-Aranzadi,  Navarra
 (última edición)
 
 MARTIN   RETORTILLO,  S.  y  otros  :  Derecho  Administrativo  Económico,  2  vols,  Editorial  La  Ley,  Madrid,
@@ -56,13 +56,9 @@ administrativo. Ed. Iustel, Madrid (última edición)
 
 SÁNCHEZ MORÓN, M., Derecho administrativ o, Tecnos, Madrid, (última edición)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-CANO   CAMPOS,   T.  (Coordinador),  Lecciones  y  materiales  para  el  estudio  del  Derecho  administrativo  .
-Ed. Iustel, Madrid (última edición)
+SANTAMARÍA   PASTOR,   J.A.,   Los   Principios   Jurídicos   del   Derecho  Administrativo,  La  Ley,  Madrid,
+(última edición
 
 📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

@@ -2,27 +2,24 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Booth,   T.   y  Ainscow,  M.  (2000).  Guía  para  la  evaluación  y  mejora  de  la  educación  inclusiva:  (Index
+for   inclusion).   Madrid:   Consorcio   Universitario  para  la  Educación  Inclusiva  Cardona  Moltó,  M.  C.
+(2005).   Diversidad   y   educación  inclusiva:  enfoques  metodológicos  y  estrategias  para  una  enseñanza
+colaborativa. Madrid: Pearson Educación
 
-📚 Recursos sin cambios:
-------------------------------
-Angulo,   M.C.,   Luna,   M.,   Prieto,   I.,  Rodríguez,  L.  y  Salvador,  M.L.  (2008).  Manual  de  servicios,
-prestaciones   y   recursos   para  el  alumnado  con  Necesidades  Específicas  de  Apoyo  Educativo.  Sevilla:
-Junta de Andalucía
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (19):
 ------------------------------
 Ainscow,   M.   (2002).   Desarrollo   de  las  escuelas  inclusivas.  Ideas,  propuestas  y  experiencias  para
 mejorar las instituciones escolares. Madrid: Nancea
 
 Aldámiz-Echevarría,    M.M.    Y    Otros.    (2000).   ¿Cómo   hacerlo?   Propuestas   para   educar   en   la
 diversidad.Barcelona: Graó
+
+Angulo,   M.C.,   Luna,   M.,   Prieto,   I.,  Rodríguez,  L.  y  Salvador,  M.L.  (2008).  Manual  de  servicios,
+prestaciones   y   recursos   para  el  alumnado  con  Necesidades  Específicas  de  Apoyo  Educativo.  Sevilla:
+Junta de Andalucía
 
 Ardanaz, L. (2004). La escuela inclusiva: prácticas y reflexiones. Barcelona: Graó
 
@@ -34,12 +31,6 @@ Hiperactividad. Un manual de trabajo clínico. New York: Guilford Press
 
 Betbesé,   E.   y   Díaz,   M.   (2014).   Buenas   prácticas   en   Inclusión   Educativa.   Las   adaptaciones
 curriculares. Madrid: Down España
-
-Booth,   T.   y  Ainscow,  M.  (2000).  Guía  para  la  evaluación  y  mejora  de  la  educación  inclusiva:  (Index
-for inclusion). Madrid: Consorcio Universitario para la Educación Inclusiva
-
-Cardona   Moltó,  M.  C.  (2005).  Diversidad  y  educación  inclusiva:  enfoques  metodológicos  y  estrategias
-para una enseñanza colaborativa. Madrid: Pearson Educación
 
 De Lucas Martín, F. J. (2006). La integración de los inmigrantes: la integración política, condición
 del modelo de integración. Centro de Estudios Políticos y Constitucionales
@@ -78,4 +69,12 @@ Rodríguez    Fuentes,    A.   (Coord).   (2015).   Un   currículo   para   ada
 intervenciones    tras    evaluar    necesidades.    Madrid:    Editorial    EOS    (colección   fundamentos
 psicopedagógicos)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Booth,   T.   y  Ainscow,  M.  (2000).  Guía  para  la  evaluación  y  mejora  de  la  educación  inclusiva:  (Index
+for inclusion). Madrid: Consorcio Universitario para la Educación Inclusiva
+
+Cardona   Moltó,  M.  C.  (2005).  Diversidad  y  educación  inclusiva:  enfoques  metodológicos  y  estrategias
+para una enseñanza colaborativa. Madrid: Pearson Educación
+
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

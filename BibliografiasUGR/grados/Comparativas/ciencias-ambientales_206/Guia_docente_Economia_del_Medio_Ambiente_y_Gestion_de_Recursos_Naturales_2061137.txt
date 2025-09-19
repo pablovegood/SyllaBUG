@@ -2,11 +2,11 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 AGUILERA   KLINK,   F.   (ed)   (1995),   Economía   de   los  recursos  naturales:  un  enfoque  institucional,
 Fundación Argentaria, Madrid
@@ -51,11 +51,7 @@ TIETENBERG, T. (2006). Environmental and Natural Resource Economics. Seventh Edi
 ÁLVAREZ   CANTALAPIEDRA,   S.   Y   CARPINTERO,   O.   (eds.)   (2009).   Economía   ecológica:  reflexiones  y
 perspectivas. Círculo de Bellas Artes, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

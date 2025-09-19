@@ -2,11 +2,19 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+(Third   edition).   John   Wiley   and   Sons,   Inc.,   2006.   ·  Hambley,  A.R.  "Electrónica",  2ª  Edición,
+Prentice   Hall,   2001.   ·   Pereza,   M.A.,   Álvarez,   J.C.,   Campo,  J.C.,  Ferrero,  F.J.,  Grillo,  G.J.
+Instrumentación Electrónica. Thomson, 2003
 
-📚 Recursos sin cambios:
+Creus   Solé,   A.   Instrumentación   Industrial.   Marcombo,  S.A.  7ª  Ed.  2005.  ·  López  Villanueva,  J.A;
+Jiménez   Tejada,   J.A.   Fundamentos   de  teoría  de  circuitos  para  Franco  S.,  "Design  with  operational
+amplifiers   and   analog   integrated   circuits"   3ª   Ed.,   McGraw-Hill,   2002   García   Gutiérrez,   L.
+Instrumentación   básica   de  medida  y  control.  Editorial  AENOR  Asociación  Española  de  Normalización  y
+Certificación, 2014
+
+📚 Recursos sin cambios (5):
 ------------------------------
 Baena,   C.,   Bellido,   M.J.,   Molina,   A.J.,   Parra,   M.P.   y  Valencia,  M.  “Problemas  de  circuitos  y
 sistemas digitales”, McGraw-Hill, 2001
@@ -16,29 +24,23 @@ Campo López, A. Válvulas de control: selección y cálculo. Ed. Díaz de Santo
 Ollero   de   Castro,   P.;   Fernández   Camacho,   E.   Control   e   Instrumentación  de  Procesos  Químicos.
 Síntesis. 1997
 
+Smith,   Carlos   A.;   Corripio,   A.   B.   Principles  and  Practice  of  Automatic  Process  Control.  (Third
+edition). John Wiley and Sons, Inc., 2006.
+
 Velasco   Aparicio,   F.  Analizadores  de  proceso  en  línea:  introducción  a  sus  técnicas  analíticas.  Ed.
 Díaz de Santos, 2015
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Smith,   Carlos   A.;   Corripio,   A.   B.   Principles  and  Practice  of  Automatic  Process  Control.  (Third
-edition). John Wiley and Sons, Inc., 2006. · Hambley, A.R. "Electrónica", 2ª Edición, Prentice Hall,
-2001.   ·   Pereza,   M.A.,   Álvarez,   J.C.,   Campo,   J.C.,  Ferrero,  F.J.,  Grillo,  G.J.  Instrumentación
-Electrónica. Thomson, 2003  →  Hambley, A.R. "Electrónica", 2ª Edición, Prentice Hall, 2001.
+Creus Solé, A. Instrumentación Industrial. Marcombo, S.A. 7ª Ed. 2005.
 
-Creus   Solé,   A.   Instrumentación   Industrial.   Marcombo,  S.A.  7ª  Ed.  2005.  ·  López  Villanueva,  J.A;
-Jiménez   Tejada,   J.A.   Fundamentos   de  teoría  de  circuitos  para  Franco  S.,  "Design  with  operational
-amplifiers   and   analog   integrated   circuits"   3ª   Ed.,   McGraw-Hill,   2002   García   Gutiérrez,   L.
-Instrumentación básica de medida y control. Editorial AENOR - Asociación Española de Normalización y
-Certificación, 2014  →  Creus Solé, A. Instrumentación Industrial. Marcombo, S.A. 7ª Ed. 2005.
-
-✅ Recursos añadidos:
-------------------------------
 Franco   S.,  "Design  with  operational  amplifiers  and  analog  integrated  circuits"  3ª  Ed.,  McGraw-Hill,
 2002
 
 García   Gutiérrez,   L.   Instrumentación   básica   de   medida   y  control.  Editorial  AENOR  -  Asociación
 Española de Normalización y Certificación, 2014
+
+Hambley, A.R. "Electrónica", 2ª Edición, Prentice Hall, 2001.
 
 López   Villanueva,   J.A;   Jiménez   Tejada,  J.A.  Fundamentos  de  teoría  de  circuitos  para  electrónica.
 Granada: Universidad de Granada, 2008. [http://hdl.handle.net/10481/14700]
@@ -46,7 +48,4 @@ Granada: Universidad de Granada, 2008. [http://hdl.handle.net/10481/14700]
 Pereza,   M.A.,   Álvarez,  J.C.,  Campo,  J.C.,  Ferrero,  F.J.,  Grillo,  G.J.  Instrumentación  Electrónica.
 Thomson, 2003
 
-Smith,   Carlos   A.;   Corripio,   A.   B.   Principles  and  Practice  of  Automatic  Process  Control.  (Third
-edition). John Wiley and Sons, Inc., 2006.
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

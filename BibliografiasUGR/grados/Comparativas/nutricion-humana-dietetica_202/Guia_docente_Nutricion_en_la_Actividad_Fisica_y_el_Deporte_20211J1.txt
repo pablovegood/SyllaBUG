@@ -2,11 +2,15 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Alimentación   sana   para   el   deportista  /  Olga  López  Torres.  Alcobendas:  Libsa,  2012  Alimentación  y
+deporte / Javier Ibañez Santos, Icíar Astiasarán Anchía Barañáin: EUNSA, 2010
 
-📚 Recursos sin cambios:
+Manual   Practico   de  Nutrición  y  Dietética  Deportiva.  Rosario  Pastor.  Avila.  2018  La  Alimentación  en
+la Actividad Fisica y el Deporte. Anna Bach-Faig, Laura Esquius de la Zarza. UOC. 2019
+
+📚 Recursos sin cambios (19):
 ------------------------------
 Alimentación para el deporte y la salud / Joan Ramón Barbany. Barcelona: Martinez Roca, 2012
 
@@ -14,7 +18,10 @@ Alimentación   y   nutrición  del  deportista:  con  regímenes  adaptados  a 
 Pascal Craplet, Josette Craplet-Meunier; Barcelona: Hispano Europea, 2000
 
 Alimentación y nutrición en la vida activa: ejercicio físico y deporte / Pedro José Benito Reinado y
-col. 2013
+col.   2013   Nutrición   y   dietética   para  la  actividad  física  y  el  deporte:  manual  práctico  /  Víctor
+Manuel Rodríguez Rivera, Aritz Urdampilleta Otegui (coordinadores). NetBiblo, 2013
+
+Burke L. Nutrición en el deporte. Un enfoque práctico. Madrid. Ed. Panamericana. 2010
 
 Calderón J. Fisiología aplicada al deporte. Ed. Tebar Flores. 2007
 
@@ -24,9 +31,6 @@ Fundamentos de Nutrición en el Deporte / Marcia Onzari; Buenos aires: El Ateneo
 
 González   Gallego   J.   Fisiología   de  la  actividad  física  y  el  deporte.  Interamericana-Mc  Graw  Hill,
 Madrid, 1992
-
-La Alimentación en la Actividad Fisica y el Deporte. Anna Bach-Faig, Laura Esquius de la Zarza. UOC.
-2019
 
 La guía completa de la nutrición del deportista / Anita Bean. Paidotribo, 2014
 
@@ -38,37 +42,11 @@ Interamericana, 2004
 Nutrición   en   el   deporte:   ayudas   ergogénicas   y   dopaje  /  Javier  González  Gallego,  Pilar  Sánchez
 Collado, José Mataix Verdú. Madrid: Díaz de Santos: Fundación Universitaria Iberoamericana, 2011
 
-Nutrición y deporte / Odriozola, José María; Madrid: Eudema, 1994
-
-Nutrición y deporte / Wootton, Steve: Zaragoza: Acribia, 1990
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Paidotribo,   2015.  Rendimiento  deportivo  máximo:  estrategias  para  el  entrenamiento  y  la  nutrición  en
-el   deporte   /   John   Hawley,   Louise   Burke;   Barcelona:   Paidotribo,   2000  →  Rendimiento  deportivo
-máximo:   estrategias  para  el  entrenamiento  y  la  nutrición  en  el  deporte  /  John  Hawley,  Louise  Burke;
-Barcelona: Paidotribo, 2000
-
-Alimentación   sana   para   el   deportista  /  Olga  López  Torres.  Alcobendas:  Libsa,  2012  Alimentación  y
-deporte   /   Javier   Ibañez  Santos,  Icíar  Astiasarán  Anchía  Barañáin:  EUNSA,  2010  →  Alimentación  sana
-para el deportista / Olga López Torres. Alcobendas: Libsa, 2012
-
-Nutrición   y   ayudas   ergogénicas   en   el   deporte  /  Javier  González  Gallego,  José  G.  Villa  Vicente;
-Buenos   Aires:  Síntesis,  1998.  Nutrición  para  deportistas  de  alto  nivel:  guía  de  alimentos,  líquidos
-y   suplementos   para   el   entrenamiento   y   la   competición.   Planes   adaptados  a  cada  deporte  /  Dan
-Benardot;   Barcelona:   Hispano   Europea,   2001   →   Nutrición  para  deportistas  de  alto  nivel:  guía  de
-alimentos,   líquidos   y   suplementos  para  el  entrenamiento  y  la  competición.  Planes  adaptados  a  cada
-deporte / Dan Benardot; Barcelona: Hispano Europea, 2001
-
-✅ Recursos añadidos:
-------------------------------
-Alimentación y deporte / Javier Ibañez Santos, Icíar Astiasarán Anchía Barañáin: EUNSA, 2010
-
-Burke L. Nutrición en el deporte. Un enfoque práctico. Madrid. Ed. Panamericana. 2010
-
-Manual Practico de Nutrición y Dietética Deportiva. Rosario Pastor. Avila. 2018
-
 Nutrición en el deporte: un enfoque práctico: Madrid: Médica Panamericana: 2009
+
+Nutrición   para   deportistas   de   alto   nivel:   guía   de   alimentos,   líquidos  y  suplementos  para  el
+entrenamiento   y   la  competición.  Planes  adaptados  a  cada  deporte  /  Dan  Benardot;  Barcelona:  Hispano
+Europea, 2001
 
 Nutrición   para   la   salud,   la   condición   física   y   el   deporte   /  Melvin  H.  Williams;  Barcelona:
 Paidotribo, 2015
@@ -76,7 +54,25 @@ Paidotribo, 2015
 Nutrición   y   ayudas   ergogénicas   en   el   deporte  /  Javier  González  Gallego,  José  G.  Villa  Vicente;
 Buenos Aires: Síntesis, 1998
 
-Nutrición   y   dietética   para   la   actividad   física   y   el  deporte:  manual  práctico  /  Víctor  Manuel
-Rodríguez Rivera, Aritz Urdampilleta Otegui (coordinadores). NetBiblo, 2013
+Nutrición y deporte / Odriozola, José María; Madrid: Eudema, 1994
 
-📊 Porcentaje estimado de cambio: 55% [█████░░░░░]
+Nutrición y deporte / Wootton, Steve: Zaragoza: Acribia , 1990
+
+Rendimiento   deportivo  máximo:  estrategias  para  el  entrenamiento  y  la  nutrición  en  el  deporte  /  John
+Hawley, Louise Burke; Barcelona: Paidotribo, 2000
+
+✅ Recursos añadidos (5):
+------------------------------
+Alimentación sana para el deportista / Olga López Torres. Alcobendas: Libsa, 2012
+
+Alimentación y deporte / Javier Ibañez Santos, Icíar Astiasarán Anchía Barañáin: EUNSA, 2010
+
+Alimentación y nutrición en la vida activa: ejercicio físico y deporte / Pedro José Benito Reinado y
+col. 2013
+
+La Alimentación en la Actividad Fisica y el Deporte. Anna Bach-Faig, Laura Esquius de la Zarza. UOC.
+2019
+
+Manual Practico de Nutrición y Dietética Deportiva. Rosario Pastor. Avila. 2018
+
+📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]

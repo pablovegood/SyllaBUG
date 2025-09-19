@@ -2,12 +2,15 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
+AZQUETA,   D.  (1994).  Valoración  económica  de  la  calidad  ambiental.  Ed.  McGraw  Hill  Interamericana  de
+España. Madrid
+
 BEDATE,   A.,   HERRERO,   L.   C.,   &   SANZ,  J.  Á.  (2004).  Economic  valuation  of  the  cultural  heritage:
 application to four case studies in Spain. Journal of cultural heritage, 5(1), 101-111
 
@@ -26,8 +29,9 @@ http://hdl.handle.net/10020/gci_pubs/values_cultural_heritage
 DEL   POZO,  P.  B.  (2002).  Patrimonio  industrial  y  cultura  del  territorio.  Boletín  de  la  Asociación  de
 Geógrafos Españoles
 
-FARINÓS   DASI,   J;   OLCINA   CANTOS,   J.  (Edits.  y  Coords.)  (2022):  Ordenación  del  Territorio  y  Medio
-Ambiente. Tirant Humanidades, Valencia. 811 págs
+DOI:   http://dx.doi.org/10.30827/cuadgeo.v58i2.7799   LÓPEZ  OLIVARES,  D.  (2003):  La  evaluación  de  los
+recursos   territoriales   turísticos   de   carácter   básico:   el   caso   de   las  playas  del  Norte  de  la
+Comunidad Valenciana
 
 FROLOVA   IGNATIEVA,   M.;   JIMENEZ   OLIVENCIA,  Y.;  SANCHEZ  DEL  ARBOL,  MA.;  A.  REQUENA-GALIPIENSO,  A.;
 PEREZ   PEREZ,   B.   (2015):  "The  Evolution  of  Renewable  Landscapes  in  Sierra  Nevada  (Southern  Spain).
@@ -35,41 +39,26 @@ From   Small   Hydro-to   a   Wind-Power   Landscape".  En  M.  Frolova  et  al 
 European     Landscapes.     Ed.     Springer     Science+Business     Media     Dordrecht     2015.     DOI
 10.1007/978-94-017-9843-3_7
 
+GARCÍA LEYTON, L.A. (2004): “Valoración del medio natural”, en Aplicación del análisis multicriterio
+en               la               evaluación              de              impacto              ambiental.
+https://www.tesisenred.net/bitstream/handle/10803/6830/05Lagl05de09.pdf?sequence=5
+
 GARRIDO   CLAVERO,   J.   y  SÁNCHEZ  DEL  ÁRBOL,  M.A.  (2019):  "El  Plan  de  Ordenación  del  Territorio  de  la
 Aglomeración   Urbana   de   Granada   (POTAUG).   Fundamentos   para   su   necesaria   revisión".  Cuadernos
 Geográficos,      58      (2),      pp.1-19.      Editorial      Universidad      de      Granada.      DOI:
 http://dx.doi.org/10.30827/cuadgeo.v58i2.7799
 
-Springer Science+Business Media Dordrecht 2015. DOI 10.1007/978-94-017-9843-3_7
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-GARCÍA   LEYTON,   L.A.  (2004):  “Valoración  del  medio  natural”,  en  Aplicación  del  análisis  AZQUETA,  D.
-(1994).   Valoración   económica   de   la   calidad  ambiental.  Ed.  McGraw  Hill  Interamericana  de  España.
-Madrid   →   AZQUETA,   D.   (1994).   Valoración   económica   de   la   calidad   ambiental.  Ed.  McGraw  Hill
-Interamericana de España. Madrid
-
-✅ Recursos añadidos:
-------------------------------
-GARCÍA LEYTON, L.A. (2004): “Valoración del medio natural”, en Aplicación del análisis multicriterio
-en               la               evaluación              de              impacto              ambiental.
-https://www.tesisenred.net/bitstream/handle/10803/6830/05Lagl05de09.pdf?sequence=5
-
 GRACIA,   A.,   PÉREZ  Y  PÉREZ,  L.,  SANJUÁN,  A.I.,  BARREIRO  HURLÉ,  J.  (2004):  “Análisis  hedónico  de  los
 precios   de   la   tierra  en  la  provincia  de  Zaragoza”.  Estudios  Agrosociales  y  Pesqueros,  nº  202,  pp.
 51-69
-
-GÓMEZ   ZOTANO,   J.   y   RIESCO   CHUECA,   P.  (2010):  Marco  conceptual  y  metodológico  para  los  paisajes
-españoles.   Aplicación   a  tres  escalas  espaciales.  Consejería  de  Obras  Públicas  y  Vivienda.  Junta  de
-Andalucía.   Centro   de   Estudios   Paisaje   y  Territorio.  Ministerio  de  Medio  Ambiente,  Medio  Rural  y
-Marino, Sevilla. 467 págs
 
 LÓPEZ   OLIVARES,   D.   (2003):   La   evaluación   de   los  recursos  territoriales  turísticos  de  carácter
 básico:   el  caso  de  las  playas  del  Norte  de  la  Comunidad  Valenciana.  Investigaciones  geográficas,  nº
 32, pp. 111-135
 
 MALLARACH,   J.   M.,   COMAS,  E.  Y  DE  ARMAS,  A.  (2012).  El  patrimonio  inmaterial:  valores  culturales  y
-espirituales. Manual para su incorporación
+espirituales.   Manual  para  su  incorporación  en  las  áreas  protegidas.  Ed.  Fundación  Fernando  González
+Bernáldez. Madrid. 146 p
 
 MINISTERIO   DE   AMBIENTE,   VIVIENDA  Y  DESARROLLO  TERRITORIAL  (2003):  Metodologías  para  la  valoración
 económica de bienes, servicios ambientales y recursos naturales, 52 págs
@@ -90,6 +79,8 @@ SANZ,   J.   A.,   &   HERRERO,   L.   C.   (2006).   Valoración   de  bienes  
 cultural.   Aplicación   comparada   de   métodos   de   estimación  y  análisis  de  segmentación  de  demanda.
 Hacienda Pública Española/Revista de Economía Pública, 178(3), 113-133
 
+Springer Science+Business Media Dordrecht 2015. DOI 10.1007/978-94-017-9843-3_7
+
 TOURKOLIAS,   C.,  SKIADA,  T.,  MIRASGEDIS,  S.,  &  DIAKOULAKI,  D.  (2015).  Application  of  the  travel  cost
 method   for   the   valuation   of  the  Poseidon  temple  in  Sounio,  Greece.  Journal  of  Cultural  Heritage,
 16(4), 567-574
@@ -99,6 +90,17 @@ ZOIDO   NARANJO,   F.;   CUELLO   GIJÓN,   A.;  DOMÍNGUEZ  VELA,  J.J.;  RODR�
 Estudios   Paisaje   y   Territorio;  Dirección  General  de  Planificación  y  Sostenibilidad;  y  Servicio  de
 Publicaciones (Consejería de Obras Públicas y Transportes, Junta de Andalucía), Sevilla. 424 págs
 
+http://hdl.handle.net/10020/gci_pubs/values_cultural_heritage   FARINÓS   DASI,   J;   OLCINA  CANTOS,  J.
+(Edits. y Coords.) (2022): Ordenación del Territorio y Medio Ambiente. Tirant Humanidades, Valencia.
+811 págs
+
+https://www.tesisenred.net/bitstream/handle/10803/6830/05Lagl05de09.pdf?sequence =5 GÓMEZ ZOTANO, J.
+y   RIESCO  CHUECA,  P.  (2010):  Marco  conceptual  y  metodológico  para  los  paisajes  españoles.  Aplicación
+a   tres   escalas   espaciales.  Consejería  de  Obras  Públicas  y  Vivienda.  Junta  de  Andalucía.  Centro  de
+Estudios Paisaje y Territorio. Ministerio de Medio Ambiente, Medio Rural y Marino, Sevilla. 467 págs
+
+✅ Recursos añadidos (1):
+------------------------------
 en las áreas protegidas. Ed. Fundación Fernando González Bernáldez. Madrid. 146 p
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

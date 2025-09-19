@@ -2,11 +2,15 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+J.   Audretsch,   Entangled   Systems:   New  Directions  in  Quantum  Physics  (Wiley-VCH,  2007)  D.  McMahon,
+Quantum Computing Explained (Wiley, 2008)
 
-📚 Recursos sin cambios:
+R.   P.  Feynman,  Lectures  on  Computation  (Addison-Wesley,  1996)  L.  Brillouin,  Science  and  Information
+Theory (Academic Press, 1962)
+
+📚 Recursos sin cambios (22):
 ------------------------------
 A.   Albert  et  al,  Quantum  Information.  An  Introduction  to  Basic  Theoretical  Concepts  and  Experiments
 (Springer, 2001)
@@ -37,10 +41,10 @@ I.   Bengtsson   &   C.  Zyczkowski,  Geometry  of  Quantum  States:  An  Introd
 J.   A.   Bergou  &  M.  Hillery,  Introduction  to  the  Theory  of  Quantum  Information  Processing  (Springer,
 2013)
 
-J.   A.   Bergou,   M.   Hillery  &  M.  Saffman,  Quantum  Information  Processing.  Theory  and  Implementation
-(Springer, 2021)
-
 J. A. Jones & D. Jaksch, Quantum Information, Computation and Communication (Cambridge UP, 2012)
+
+J.   Preskill,  Notas  del  curso  (https://theory.caltech.edu/~preskill/ph229/)  J.  A.  Bergou,  M.  Hillery
+& M. Saffman, Quantum Information Processing. Theory and Implementation (Springer, 2021)
 
 M. M. Wilde, Quantum Information Theory (Cambridge UP, 2013)
 
@@ -59,24 +63,18 @@ V. Vedral, Introduction to Quantum Information Science (Oxford UP, 2006)
 W.   H.   Steeb,   Problems   &   Solutions  in  Quantum  Computing  &  Quantum  Information  (World  Scientific,
 2004)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-J.   Audretsch,   Entangled   Systems:   New  Directions  in  Quantum  Physics  (Wiley-VCH,  2007)  D.  McMahon,
-Quantum   Computing   Explained   (Wiley,   2008)   →   J.  Audretsch,  Entangled  Systems:  New  Directions  in
-Quantum Physics (Wiley-VCH, 2007)
-
-R.   P.  Feynman,  Lectures  on  Computation  (Addison-Wesley,  1996)  L.  Brillouin,  Science  and  Information
-Theory   (Academic   Press,   1962)   →   L.   Brillouin,   Science  and  Information  Theory  (Academic  Press,
-1962)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 D. McMahon, Quantum Computing Explained (Wiley, 2008)
+
+J. Audretsch, Entangled Systems: New Directions in Quantum Physics (Wiley-VCH, 2007)
 
 J. Preskill, Notas del curso ( https://preskill.caltech.edu/ph229/)
 
 J. Preskill, Notas del curso (https://preskill.caltech.edu/ph229/)
 
+L. Brillouin, Science and Information Theory (Academic Press, 1962)
+
 R. P. Feynman, Lectures on Computation (Addison-Wesley, 1996)
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

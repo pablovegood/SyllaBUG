@@ -2,28 +2,23 @@
 Grado: educacion-primaria-melilla (557)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Ruiz   Domínguez,   M.   Mar.  (2000).  Cómo  analizar  la  expresión  oral  de  niños  y  niñas.  Aljibe  Villegas
+Lirola,   Francisco.   (2010).   Manual   de   logopedia:   evaluación   e  intervención  de  las  dificultades
+fonológicas. Pirámide
 
-📚 Recursos sin cambios:
-------------------------------
-Busto   Barcos,   M.   Carmen   y   Martínez  Guijarro,  M.  Prudencia.  (2007).  Manual  de  logopedia  escolar:
-Niños con alteraciones del lenguaje oral en Educación Infantil y Primaria (4.ª ed.). CEPE
+https://doi.org/10.5093/psed2020a4
 
-García   Sánchez,   Jesús   Nicasio.   (2014).   Manual   de  dificultades  de  aprendizaje.  Lenguaje,  Lecto-
-Escritura y Matemáticas (3.ª ed.). NARCEA
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (25):
 ------------------------------
 Acosta, Víctor M. (Dir.) (1996). La evaluación del lenguaje. Algibe
 
 Asociación Psiquiátrica Americana. (2018). DSM-5. Manual diagnóstico y estadístico de los trastornos
 mentales (5ª Ed.). Médica Panamericana
+
+Busto   Barcos,   M.   Carmen   y   Martínez  Guijarro,  M.  Prudencia.  (2007).  Manual  de  logopedia  escolar:
+Niños con alteraciones del lenguaje oral en Educación Infantil y Primaria (4.ª ed.). CEPE
 
 Busto Barcos, M. Carmen. (2014). Manual de logopedia escolar. Cepe
 
@@ -40,6 +35,9 @@ Gallardo, José Ramón y Gallego, José Luis. (2019). Manual de Logopedia escola
 Aljibe
 
 Gallego Ortega, José Luis. (1999). Calidad en la intervención logopédica. Estudio de casos. Aljibe
+
+García   Sánchez,   Jesús   Nicasio.   (2014).   Manual   de  dificultades  de  aprendizaje.  Lenguaje,  Lecto-
+Escritura y Matemáticas (3.ª ed.). NARCEA
 
 Gil Ferrera, Antonio L. (2011). Manual de logopedia y foniatría. Cepe
 
@@ -66,8 +64,6 @@ Puyuelo, Miguel. (1997, 1999, 2001). Casos clínicos en logopedia. Masson
 
 Puyuelo, Miguel; Rondal, Jean-Adolphe y Wiig, Elisabeth. (2000). Evaluación del lenguaje. Masson
 
-Ruiz Domínguez, M. Mar. (2000). Cómo analizar la expresión oral de niños y niñas. Aljibe
-
 Salvador   Mata,   Francisco.   (1997).   Dificultades   en   el   aprendizaje  de  la  expresión  escrita:  una
 perspectiva didáctica. Aljibe
 
@@ -76,11 +72,15 @@ editorial universitario
 
 Sos Abad, Antonio M. y Sos Lansac, M. Luz. (2002). Logopedia práctica. Cisspraxis. Educación
 
-Villegas   Lirola,   Francisco.   (2010).   Manual   de   logopedia:   evaluación   e   intervención   de   las
-dificultades fonológicas. Pirámide
-
 Zuppardo,   Linda,   Rodríguez   Fuentes,   Antonio,  Pirrone,  Concetta  y  Serrano,  Francisca.  (2020).  Las
 repercusiones   de  la  dislexia  en  la  autoestima,  en  el  comportamiento  socioemocional  y  en  la  ansiedad
 en escolares. Psicología Educativa, 26(2), 175-183. https://doi.org/10.5093/psed2020a4
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+Ruiz Domínguez, M. Mar. (2000). Cómo analizar la expresión oral de niños y niñas. Aljibe
+
+Villegas   Lirola,   Francisco.   (2010).   Manual   de   logopedia:   evaluación   e   intervención   de   las
+dificultades fonológicas. Pirámide
+
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

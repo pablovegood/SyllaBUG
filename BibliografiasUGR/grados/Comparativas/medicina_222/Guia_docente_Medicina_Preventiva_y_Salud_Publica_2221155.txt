@@ -2,29 +2,39 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-Gordis L. (2020): Epidemiología. 6ª edición. Ed. Elsevier-Saunders. Barcelona
+De   Epidemiología   General:  Fernández-Crehuet,  J.  y  cols.  (2016).  Piédrola  Gil  Medicina  Preventiva  y
+Salud   Pública.   12ª   edición.   Ed.   Elsevier-Masson.  Barcelona.  Gordis  L.  (2020):  Epidemiología.  6ª
+edición.   Ed.   Elsevier-Saunders.  Barcelona.  De  Irala  J,  Martínez-González  MA,  Seguí-Gómez  M  (2016).
+Epidemiología Aplicada. 2ª edición actualizada. Ariel, Ciencias Médicas, Barcelona
 
-📚 Recursos sin cambios:
+De   Medicina  Preventiva  y  Salud  Pública:  Fernández-Crehuet,  J.  y  cols.  (2016).  Piédrola  Gil  Medicina
+Preventiva   y   Salud   Pública.   12ª   edición.   Ed.   Elsevier-Masson.  Barcelona.  Martínez  González  MA
+(2023).   Conceptos   de   Salud  Pública  y  estrategias  preventivas.  3ª  edición.  Ed.  Elsevier.  Barcelona
+Detels   R   et   al   (2021).   Oxford   Textbook   of  Global  Public  Health.  7th  edition.  Oxford  Textbook.
+Oxford.   Mandell,  Douglas,  and  Bennett's  (2019).  Principles  and  Practice  of  Infectious  Diseases,  9th
+edition. Elsevier. New York
+
+Presentaciones   de   las  clases:  Las  presentaciones  de  Power  Point  empleadas  en  las  clases  también  se
+subirán   a   la   plataforma   docente   PRADO,   antes   o   una   vez  impartida  la  sesión  correspondiente,
+dependiendo del tema
+
+📚 Recursos sin cambios (3):
 ------------------------------
-De   Irala   J,   Martínez-González   MA,   Seguí-Gómez   M   (2016).   Epidemiología   Aplicada.   2ª  edición
-actualizada. Ariel, Ciencias Médicas, Barcelona
+Clases   grabadas:   Para   algunos  de  los  temas  se  dispondrá  de  un  resumen  grabado  del  contenido  de  la
+clase. No se realizarán grabaciones de las clases impartidas presencialmente
 
-Fernández-Crehuet, J. y cols. (2016). Piédrola Gil Medicina Preventiva y Salud Pública. 12ª edición.
-Ed. Elsevier-Masson. Barcelona
+Documentos específicos de cada tema: Con antelación a la impartición de cada tema teórico se subirán
+a PRADO documentos de interés (noticias, editoriales, revisiones actualizadas, guías, páginas web de
+referencia,   etc.)   relacionados   con   los   contenidos   de   ese   tema.  Para  consulta  y  ampliación  de
+contenidos se recomiendan los siguientes libros, todos disponibles en la biblioteca del Departamento
+de Medicina Preventiva y Salud Pública
 
-Mandell, Douglas, and Bennett's (2019). Principles and Practice of Infectious Diseases, 9th edition.
-Elsevier. New York
+Texto del tema: Para cada uno de los temas teóricos se subirá un esquema o resumen de los contenidos
+a la plataforma docente de la asignatura en PRADO, con antelación a su impartición en clase
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Martínez   González   MA  (2023).  Conceptos  de  Salud  Pública  y  estrategias  preventivas.  3ª  edición.  Ed.
-Elsevier.   Barcelona   Detels   R   et  al  (2021).  Oxford  Textbook  of  Global  Public  Health.  7th  edition.
-Oxford   Textbook.   Oxford   →   Martínez   González  MA  (2023).  Conceptos  de  Salud  Pública  y  estrategias
-preventivas. 3ª edición. Ed. Elsevier. Barcelona
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (11):
 ------------------------------
 A) De Medicina Preventiva y Salud Pública
 
@@ -33,15 +43,20 @@ B) De Epidemiología General
 Celentano   D,   Szklo   M   y   Farag  MK  (2025)  Gordis  Epidemiología.  7ª  edición.  Ed.  Elsevier-Saunders.
 Barcelona
 
-Clases   grabadas:   Para   algunos  de  los  temas  se  dispondrá  de  un  resumen  grabado  del  contenido  de  la
-clase. No se realizarán grabaciones de las clases impartidas presencialmente
+De   Irala   J,   Martínez-González   MA,   Seguí-Gómez   M   (2016).   Epidemiología   Aplicada.   2ª  edición
+actualizada. Ariel, Ciencias Médicas, Barcelona
 
 Detels   R   et   al   (2021).   Oxford   Textbook  of  Global  Public  Health.  7th  edition.  Oxford  Textbook  .
 Oxford
 
-Documentos específicos de cada tema: Con antelación a la impartición de cada tema teórico se subirán
-a PRADO documentos de interés (noticias, editoriales, revisiones actualizadas, guías, páginas web de
-referencia, etc.) relacionados con los contenidos de ese tema
+Fernández-Crehuet, J. y cols. (2016). Piédrola Gil Medicina Preventiva y Salud Pública. 12ª edición.
+Ed. Elsevier-Masson. Barcelona
+
+Mandell, Douglas, and Bennett's (2019). Principles and Practice of Infectious Diseases, 9th edition.
+Elsevier. New York
+
+Martínez   González   MA  (2023).  Conceptos  de  Salud  Pública  y  estrategias  preventivas.  3ª  edición.  Ed.
+Elsevier. Barcelona
 
 Para   consulta  y  ampliación  de  contenidos  se  recomiendan  los  siguientes  libros,  todos  disponibles  en
 la biblioteca del Departamento de Medicina Preventiva y Salud Pública
@@ -52,8 +67,5 @@ sesión correspondiente, dependiendo del tema
 
 Rothman   KJ,   Huybrechts   KF,   Murray   EJ.   Epidemiology:  An  Introduction  .  3rd  ed.  New  York:  Oxford
 University Press; 2024
-
-Texto   del   tema:   Para   cada   uno   de  los  temas  teóricos  se  subirá  un  texto  con  sus  contenidos  a  la
-plataforma docente de la asignatura en PRADO, con antelación a su impartición en clase
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

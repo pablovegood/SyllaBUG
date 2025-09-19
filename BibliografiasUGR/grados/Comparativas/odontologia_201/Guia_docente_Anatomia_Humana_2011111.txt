@@ -2,11 +2,20 @@
 Grado: odontologia (201)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Fernández-Barbero,   J.E   y  cols  (2021):  Anatomía  Humana  General:  Principios  Básicos  para  Odontología
+(I).   Ed.   Editorial   Técnica   AVICAM  (Fleming)  Abrahamns,  P.H.  et  al.,(2006):  Gran  Atlas  Mc  Minn  de
+Anatomía Humana. Ed. Océano/Centrum
 
-📚 Recursos sin cambios:
+García-Porrero, J.A. et al. (2005): Anatomía Humana. 1ª ed. Ed. Mcgraw-Hill-Interamericana
+
+Gaudy J.F (2007): Atlas de Anatomía implantológica. 1ª ed. Elsevier-Masson
+
+Gray,   R   (2010):  Anatomía  para  estudiantes.  2ª  ed.  Ed.  Elsevier.  Churchil-Livinston  Latarjet  M.,  et
+al. (2005) Anatomía Humana, Ed. Panamericana (2 tomos)
+
+📚 Recursos sin cambios (19):
 ------------------------------
 Craig. A.C., (2007): Anatomía basada en la resolución de problemas. Ed. Elsevier-Masson
 
@@ -28,7 +37,7 @@ Gilroy, A.M. et al. (2009): Prometheus Atlas de Anatomía. Ed. Médica Panameric
 Moore, K.l., et al.(2002): Anatomía con orientación clínica. Ed. Panamericana
 
 Neil,   S.   Norton   et   al.   (2017):  Anatomía  de  cabeza  y  cuello  para  odontólogos  (Netter  F.).  3ª  Ed.
-Elsevier-
+ElsevierMasson
 
 Netter, F. (2007): Atlas de Anatomía Humana. 4º ed. Ed. Elsevier-Masson
 
@@ -51,29 +60,21 @@ Panamericana
 
 Wilson-Pauvels, L. et al (2003): Nervios craneales en la salud y la enfermedad. Ed. Panamericana
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gaudy   J.F   (2007):   Atlas  de  Anatomía  implantológica.  1ª  ed.  Elsevier-Masson  →  García-Porrero,  J.A.
-et   al.   (2005):   Anatomía  Humana.  1ª  ed.  Ed.  Mcgraw-Hill-Interamericana.  Gaudy  J.F  (2007):  Atlas  de
-Anatomía implantológica. 1ª ed. Elsevier-Masson
-
-Fernández-Barbero,   J.E   y  cols  (2021):  Anatomía  Humana  General:  Principios  Básicos  para  Odontología
-(I).   Ed.   Editorial   Técnica   AVICAM  (Fleming)  Abrahamns,  P.H.  et  al.,(2006):  Gran  Atlas  Mc  Minn  de
-Anatomía   Humana.   Ed.   Océano/Centrum   →   Fernández-Barbero,   J.E   y   cols   (2025):  Anatomía  Humana
-General: Principios Básicos para Odontología (I). Ed. Editorial Técnica AVICAM (Fleming)
-
-Gray,   R   (2010):  Anatomía  para  estudiantes.  2ª  ed.  Ed.  Elsevier.  Churchil-Livinston  Latarjet  M.,  et
-al.   (2005)   Anatomía   Humana,   Ed.   Panamericana   (2   tomos)   →  Latarjet  M.,  et  al.  (2005)  Anatomía
-Humana, Ed. Panamericana (2 tomos)
-
-García-Porrero,   J.A.   et   al.   (2005):   Anatomía   Humana.   1ª   ed.  Ed.  Mcgraw-Hill-Interamericana  →
-García-Porrero,   J.A.   et   al.  (2005):  Anatomía  Humana.  1ª  ed.  Ed.  Mcgraw-Hill-Interamericana.  Gaudy
-J.F (2007): Atlas de Anatomía implantológica. 1ª ed. Elsevier-Masson
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Abrahamns, P.H. et al.,(2006): Gran Atlas Mc Minn de Anatomía Humana. Ed. Océano/Centrum
 
+Fernández-Barbero,   J.E   y  cols  (2025):  Anatomía  Humana  General:  Principios  Básicos  para  Odontología
+(I). Ed. Editorial Técnica AVICAM (Fleming)
+
+García-Porrero,   J.A.   et   al.  (2005):  Anatomía  Humana.  1ª  ed.  Ed.  Mcgraw-Hill-Interamericana.  Gaudy
+J.F (2007): Atlas de Anatomía implantológica. 1ª ed. Elsevier-Masson
+
+García-Porrero,   J.A.   et   al.  (2005):  Anatomía  Humana.  1ª  ed.  Ed.  Mcgraw-Hill-Interamericana.  Gaudy
+J.F (2007): Atlas de Anatomía implantológica. 1ª ed. Elsevier-Masson
+
 Gray, R (2010): Anatomía para estudiantes. 2ª ed. Ed. Elsevier. Churchil-Livinston
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+Latarjet M., et al. (2005) Anatomía Humana, Ed. Panamericana (2 tomos)
+
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

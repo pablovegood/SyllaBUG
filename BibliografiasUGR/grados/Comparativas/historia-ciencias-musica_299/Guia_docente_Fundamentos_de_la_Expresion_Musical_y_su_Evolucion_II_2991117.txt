@@ -2,11 +2,11 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (47):
 ------------------------------
 AAVV. La audición musical, Barcelona, Graó, 1996
 
@@ -101,6 +101,8 @@ STEFANI, Gino. Comprender la música, Barcelona, Paidós Ibérica, 1987
 STORE,   Anthony.  La  música  y  la  mente.  El  fenómeno  auditivo  y  el  por  qué  de  las  pasiones,  Barcelona,
 Paidós, 2002
 
+STRAVINSKY, Igor. Poética musical en forma de seis lecciones, Barcelona, Acantilado, 2006
+
 TOCH, Ernst. Elementos constitutivos de la música. Armonía, melodía, contrapunto y forma, Barcelona,
 Idea Books, 2001
 
@@ -114,12 +116,8 @@ ______. El ruido eterno. Escuchar al siglo XX a través de su música, Barcelona
 
 ______. Los instrumentos de la orquesta, Madrid, Akal, 1999
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-STRAVINSKY, Igor. Poética musical en forma de seis lecciones, Barcelona, Acantilado, 2006
-
-📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,9 +2,9 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (25):
 ------------------------------
-Bucksch, H. (1976). Dictionary of Architecture and Building Construction. Baverlag
+Bucksch, H. (1976). Dictionary of Architecture and Building Construction. Baverlag: Wiesbaden
 
 Cambridge Advanced Learner’s Dictionary with CD-Rom. (2008). Cambridge: CUP
 
@@ -29,20 +29,10 @@ Comfort, Jeremy. (2001). Effective presentations: teacher´s book. Oxford: OUP
 Day, Robert A. How to write and publish a scientific paper. Cambridge: CUP
 
 Défourneaux,   Marc.   (1980).   Do  you  speak  science?  Madrid:  AC  Donovan,  Peter.  (2000).  Basic  English
-for science. Oxford: OUP
-
-Fortanet   Gómez,  Inmaculada  (coord..).  (2002).  Cómo  escribir  un  artículo  de  investigación  en  inglés.
-Madrid: Alianza
+for science. Oxford: OUP: Fortanet Gómez, Inmaculada (coord..). (2002). Cómo escribir un artículo de
+investigación en inglés. Madrid: Alianza
 
 García Díaz, Rafael. (1988). Diccionario técnico inglés-español. México, D.F.: Limusa
-
-LENGUA   INGLESA   (50%).   La   entrega   del   trabajo   y   su   defensa   se   realizará  en  la  fecha  y  hora
-establecidas    por   la   universidad/centro   para   la   realización   del   examen   de   la   convocatoria
-extraordinaria   de   la  asignatura  de  Inglés  Aplicado  a  la  Ingeniería  de  Edificación.  La  defensa  oral
-no excederá de 15 minutos de exposición. El trabajo individual estará basado en uno de estos tres a.
-Glosario/vocabulario   técnico   de  Edificación  en  Lengua  inglesa  b.  Comunicación  oral  y  escrita  en  un
-entorno    técnico    y    profesional    c.   Presentaciones   científicas-técnicas   en   lengua   inglesa.
-Aplicaciones, posibilidades
 
 Malgorn, Guy. (2000). Diccionario técnico inglés-español. Madrid: Paraninfo
 
@@ -51,7 +41,7 @@ Cambridge: CUP
 
 McCarthy, M. and F. O’Dell. (2005). English Phrasal Verbs in Use. Intermediate. Cambridge: CUP
 
-Norman, Guy. (1999). Cómo escribir un artículo de investigación en inglés. Madrid
+Norman, Guy. (1999). Cómo escribir un artículo de investigación en inglés. Madrid: Hélice
 
 Oxford Advanced Learner’s Dictionary. (2010). Oxford: OUP
 
@@ -59,20 +49,23 @@ Oxford Collocations Dictionary for Students of English. (2009). Oxford: OUP
 
 Pearsall, Thomas E. (1997). The elements of technical writing. Boston: Allyn and Bacon
 
-Sides, Charles H. (1992). How to write and present technical information. Cambridge
+Putnam   &   Carlson   (1988)   Diccionario   de   Arquitectura,   Construcción   y   Obras  Públicas.  Madrid.
+Paraninfo
 
-Universidad de Granada. habrán proporcionado durante las clases presenciales
+Sides, Charles H. (1992). How to write and present technical information. Cambridge: CUP
+
+Swales, John M. (1994). Academic writing for graduate students: essential tasks and skills: a course
+for nonnative speakers of English. Michigan; Ann Arbor, University of Michigan
 
 Vanderbergue, J.P. (1983) Elsewier´s dictionary of Architecture. Amsterdam
 
 Weissberg, Robert. (1990). Writing up research: experimental research report writing for students of
 English. Englewood Cliffs, New Jersey: Prentice-Hall
 
-Writing and speaking in the technology professions: a practical guide. (1992) New York
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
-Aguado Piñero, Rociío. (1992). English in technical engineering . Zaragoza: Universidad de Zaragoza
+Beigbeder    Atienza,   F.   (2006).   Diccionario   técnico   Inglés-Español,   Español-Inglés.   Technical
+dictionary English-Spanish, Spanish-English . Madrid: Diaz de Santos
 
 Booth,   Vernon.   (1995).   Communicating   in   science:   writing   a   scientific   paper  and  speaking  at
 scientific meetings . Cambridge: CUP
@@ -103,7 +96,7 @@ Cambridge University Press
 Murphy,   R.   (2012).   English   Grammar   in   Use.   With  Answers  and  CD_ROM  .  Intermediate.  Cambridge:
 Cambridge University Press
 
-Oshima, A. (1999). Writing academic English . New York: Pearson Education
+Oshima, Alice. (1999). Writing academic English. New York: Pearson Education
 
 Paniagua Soto, J. R. (2019). Vocabulario básico de arquitectura (14a ed.). Cátedra
 
@@ -113,24 +106,17 @@ Larousse
 Pfeiffer, William S. (1994). Technical writing: a practical approach . Englewood Cliffs, New Jersey:
 Prentice Hall
 
+Toda   la   bibliografía   recomendada   se   encuentra   disponible   en   las  diferentes  bibliotecas  de  la
+Universidad de Granada
+
 Wallnig, Günter. (1976). El inglés en la construcción . Barcelona: Editores Técnicos Asociados
 
-🔁 Misma obra con edición/año distinto:
+Writing   and   speaking   in   the   technology   professions:   a   practical  guide.  (1992)  New  York:  IEEE
+Engineering   Aguado   Piñero,  Rociío.  (1992).  English  in  technical  engineering.  Zaragoza:  Universidad
+de Zaragoza
+
+✅ Recursos añadidos (25):
 ------------------------------
-Putnam   &   Carlson  (1988)  Diccionario  de  Arquitectura,  Construcción  y  Obras  Públicas  →  Putnam,  R.  E.
-and   Carlson,   G.   E.   (1998).   Diccionario  de  Arquitectura,  construcción  y  obras  públicas  (2a  ed.).
-Paraninfo
-
-Swales, John M. (1994). Academic writing for graduate students: essential tasks and skills: a course
-for   nonnative   speakers  of  English.  Michigan;  Ann  Arbor,  University  of  Michigan  →  Swales,  J.  M.  and
-Feak,   C.   B.   (2012).  Academic  writing  for  graduate  students  :  essential  tasks  and  skills:  a  course
-for nonnative speakers of English (3rd. ed.). University of Michigan
-
-✅ Recursos añadidos:
-------------------------------
-Beigbeder    Atienza,   F.   (2006).   Diccionario   técnico   Inglés-Español,   Español-Inglés.   Technical
-dictionary English-Spanish, Spanish-English . Madrid: Diaz de Santos
-
 Cambridge Idioms Dictionary. (2006). Cambridge: Cambridge University Press
 
 Cambridge Phrasal Verbs Dictionary. (2006). Cambridge: Cambridge University Press
@@ -178,6 +164,9 @@ Pearsall, T. E., & Cook, K. C. (2009). The elements of technical writing (3rd ed
 Peck,    M.    (2006).    Concrete    :    design,    construction,    examples    (1st   ed.).   Birkhäuser.
 https://doi.org/10.11129/detail.9783034614740
 
+Putnam,   R.  E.  and  Carlson,  G.  E.  (1998).  Diccionario  de  Arquitectura,  construcción  y  obras  públicas
+(2a ed.). Paraninfo
+
 Sides, C. H. (2017). How to write and present technical information (4th ed). Greenwood
 
 Snuviskiene, G. (2012). English for construction management . Vilnius: VGTU
@@ -185,8 +174,8 @@ Snuviskiene, G. (2012). English for construction management . Vilnius: VGTU
 Soneira,   B.   (2015).   A   lexical  description  of  English  for  architecture:  a  corpus-based  approach  .
 Peter Lang AG, International Academic Publishers. https://doi.org/10.3726/978-3-0351-0827-9
 
-Toda   la   bibliografía   recomendada   se   encuentra   disponible   en   las  diferentes  bibliotecas  de  la
-Universidad de Granada
+Swales,   J.   M.  and  Feak,  C.  B.  (2012).  Academic  writing  for  graduate  students  :  essential  tasks  and
+skills: a course for nonnative speakers of English (3rd. ed.). University of Michigan
 
 Vandenberghe, J.P. (1988). Elsevier’s dictionary of architecture in five languages: English, French,
 Spanish, German and Dutch . Elsevier

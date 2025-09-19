@@ -2,32 +2,70 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (25):
 ------------------------------
-Colección de Códigos Electrónicos de Legislación. Editorial Tirant Lo Blanch: Ley General Tributaria
-y   sus  reglamentos  de  desarrollo  Editorial  Tecnos:  Legislación  Básica  del  Sistema  Tributario  Español
-Editorial   Aranzadi:   Código   Tributario  Editorial  La  Ley:  Código  Tributario  Ministerio  de  Hacienda:
-Leyes Tributarias. Recopilación Normativa Normativa Básica Constitución Española
+Agencia Estatal del Boletín Oficial del Estado: Colección de Códigos Electrónicos de Legislación
 
-El   Derecho   Financiero   y  Tributario  forma  parte  del  Derecho  positivo  y  sus  normas,  por  razones  muy
-diversas,   se  modifican  con  bastante  frecuencia.  Por  ello,  se  recomienda  encarecidamente  utilizar  la
-última edición publicada
+Bibliografía   recomendada   El  Derecho  Financiero  y  Tributario  forma  parte  del  Derecho  positivo  y  sus
+normas,   por   razones   muy   diversas,   se  modifican  con  bastante  frecuencia.  Por  ello,  se  recomienda
+encarecidamente utilizar la última edición publicada
+
+Curso   de   Derecho  Financiero  y  Tributario.  Juan  Martin  Queralt.  Tecnos  Curso  de  Derecho  Financiero.
+I. Derecho Tributario. Parte General y Parte Especial. II
+
+Curso   de   Derecho   Tributario   Parte   Especial.  Fernando  Pérez  Royo.  Tecnos  El  nuevo  Impuesto  sobre
+Sociedades: aplicación práctica. Manuel Gutierrez Viguera. CISS · GPS Fiscal. Domingo Carbajo Vasco.
+Tirant lo Blanch · Guía del Impuesto sobre Sociedades. Francisco Mellado Benavente. CISS Guía fiscal
+.   CEF   ·   Manual   de   Derecho   Tributario.  Parte  Especial.  Juan  Martin  Queralt.  Aranzadi  .  Manuales
+prácticos. AEAT
+
+Derecho Financiero y Tributario. Parte General. Fernando Pérez Royo. Civitas
+
+Derecho Financiero y Tributario. Parte general. Lecciones de Cátedra. Alejandro Menéndez Moreno. Lex
+Nova
+
+Derecho   Tributario   parte   general.   Ernesto   Eseverri.   Tirant   lo   Blanch   Derecho   tributario   y
+procedimientos   de   desarrollo.   Comentarios   y   casos   prácticos   (2  volúmenes).  Jose  Mª  Díez  Ochoa
+Azagra. Centro de Estudios Financieros
+
+Derecho Tributario. Juan Martin Queralt. Aranzadi
+
+Derecho   financiero   y   tributario   Parte   general.   Lecciones  adaptadas  al  EEES.  Isaac  Merino  Jara.
+Tecnos Derecho Financiero y Tributario Parte General. Luis María Cazorla Prieto. Aranzadi
+
+Derecho   presupuestario.   Rafael   Calvo   Ortega.  Civitas  Curso  de  Derecho  Tributario.  Fernando  Pérez
+Royo. Tecnos Derecho Financiero y Tributario. Parte General. Miguel Ángel Collado Yurrita. Atelier
+
+Editorial Tirant Lo Blanch: Ley General Tributaria y sus reglamentos de desarrollo Editorial Tecnos:
+Legislación Básica del Sistema Tributario Español Editorial Aranzadi: Código Tributario Editorial La
+Ley:   Código   Tributario  Ministerio  de  Hacienda:  Leyes  Tributarias.  Recopilación  Normativa  Normativa
+Básica Constitución Española
+
+Estudio   concordado  y  sistemático  de  la  Ley  General  Tributaria  y  su  normativa  de  desarrollo  2  tomos.
+Andrés Sánchez Pedroche. Tirant lo Blanch
+
+Lecciones   de   Derecho   Financiero   y   Tributario.   Miguel   Ángel   Martínez   Lago   Manual  de  Derecho
+Financiero y Tributario Parte General. Amparo Navarro Faure. Tirant lo Blanch Memento Procedimientos
+Tributarios. Francis Lefebvre
 
 Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido
 
 Ley 58/2003, de 17 de diciembre, General Tributaria
 
-Memento   Fiscal.   Francis   Lefebvre   Régimen  fiscal  de  la  empresa.  Malvárez  Pascual,  Luis  /  Martínez
-Gálvez,   J.   Pablo   /   Ramírez  Gómez,  Salvador  .  Tecnos  TODO  Fiscal.  Francisco  M.  Mellado  Benavente.
-CISS   ·   Todo   IVA.   José   Manuel  Cabrera  Fernández.  CISS  ·  TODO  Transmisiones.  Javier  Máximo  Juárez
-González.   CISS   Legislación   La   consulta  de  la  legislación  positiva  vigente  resulta  imprescindible
-para   el   estudio   de   la   Asignatura.   Existen   numerosas   colecciones   de  legislación  financiera  y
-tributaria   en   el   mercado  y  cualquiera  de  ellas  sirve  para  preparar  la  Asignatura.  Ésta  debe  estar
-actualizada
+Manual   Práctico   de   Derecho   Tributario.   Parte   General,   Ernesto   Eseverri   Martínez,  Juan  López
+Martínez, José Manuel Pérez Lara, Antonio Damas Serrano. Tirant Lo Blanch
+
+Memento   Fiscal.   Francis   Lefebvre  Memento  Práctico  IVA.  Varios  Autores.  Francis  Lefebvre  ·  Régimen
+fiscal de la empresa. Malvárez Pascual, Luis / Martínez Gálvez, J. Pablo / Ramírez Gómez, Salvador .
+Tecnos   TODO  Fiscal.  Francisco  M.  Mellado  Benavente.  CISS  ·  Todo  IVA.  José  Manuel  Cabrera  Fernández.
+CISS   ·   TODO   Transmisiones.   Javier   Máximo   Juárez   González.   CISS  Legislación  La  consulta  de  la
+legislación   positiva   vigente   resulta   imprescindible   para   el   estudio  de  la  Asignatura.  Existen
+numerosas   colecciones   de   legislación   financiera  y  tributaria  en  el  mercado  y  cualquiera  de  ellas
+sirve para preparar la Asignatura. Ésta debe estar actualizada
 
 Orden   HAC/1155/2020,   de  25  de  noviembre,  por  la  que  se  desarrollan,  para  el  año  2021,  el  método  de
 estimación   objetiva   del   Impuesto   sobre   la   Renta   de  las  Personas  Físicas  y  el  régimen  especial
@@ -51,47 +89,25 @@ la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión 
 
 Real Decreto 939/2005, de 29 de julio, por el que se aprueba el reglamento general de recaudación
 
-🔁 Misma obra con edición/año distinto:
+Todo Procedimiento Tributario. José María Peláez Martos. CISS
+
+✅ Recursos añadidos (27):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Agencia Estatal del Boletín Oficial del Estado: Colección de Códigos Electrónicos de Legislación
-
-Bibliografía recomendada
-
 Colección de Códigos Electrónicos de Legislación
 
 Constitución Española
 
-Curso de Derecho Financiero y Tributario. Juan Martin Queralt. Tecnos
-
 Curso   de   Derecho   Financiero.   I.   Derecho  Tributario.  Parte  General  y  Parte  Especial.  II.  Derecho
 presupuestario. Rafael Calvo Ortega. Civitas
 
-Curso de Derecho Tributario Parte Especial. Fernando Pérez Royo. Tecnos
-
 Curso de Derecho Tributario. Fernando Pérez Royo. Tecnos
-
-Derecho Financiero y Tributario Parte General. Luis María Cazorla Prieto. Aranzadi
-
-Derecho Financiero y Tributario. Parte General. Fernando Pérez Royo. Civitas
 
 Derecho Financiero y Tributario. Parte General. Miguel Ángel Collado Yurrita. Atelier
 
-Derecho Financiero y Tributario. Parte general. Lecciones de Cátedra. Alejandro Menéndez Moreno. Lex
-Nova
-
 Derecho Tributario parte general. Ernesto Eseverri. Tirant lo Blanch
-
-Derecho Tributario. Juan Martin Queralt. Aranzadi
 
 Derecho   financiero   y   tributario   Parte   general.   Lecciones  adaptadas  al  EEES.  Isaac  Merino  Jara.
 Tecnos
-
-Derecho tributario y procedimientos de desarrollo. Comentarios y casos prácticos (2 volúmenes). Jose
-Mª Díez Ochoa Azagra. Centro de Estudios Financieros
 
 Editorial Aranzadi: Código Tributario
 
@@ -99,10 +115,11 @@ Editorial La Ley: Código Tributario
 
 Editorial Tecnos: Legislación Básica del Sistema Tributario Español
 
-El nuevo Impuesto sobre Sociedades: aplicación práctica. Manuel Gutierrez Viguera. CISS
+El   Derecho   Financiero   y  Tributario  forma  parte  del  Derecho  positivo  y  sus  normas,  por  razones  muy
+diversas,   se  modifican  con  bastante  frecuencia.  Por  ello,  se  recomienda  encarecidamente  utilizar  la
+última edición publicada
 
-Estudio   concordado  y  sistemático  de  la  Ley  General  Tributaria  y  su  normativa  de  desarrollo  2  tomos.
-Andrés Sánchez Pedroche. Tirant lo Blanch
+El nuevo Impuesto sobre Sociedades: aplicación práctica. Manuel Gutierrez Viguera. CISS
 
 GPS Fiscal. Domingo Carbajo Vasco. Tirant lo Blanch
 
@@ -116,9 +133,6 @@ cualquiera de ellas sirve para preparar la Asignatura. Ésta debe estar actualiz
 
 Lecciones de Derecho Financiero y Tributario. Miguel Ángel Martínez Lago
 
-Manual   Práctico   de   Derecho   Tributario.   Parte   General,   Ernesto   Eseverri   Martínez,  Juan  López
-Martínez, José Manuel Pérez Lara, Antonio Damas Serrano. Tirant Lo Blanch
-
 Manual de Derecho Financiero y Tributario Parte General. Amparo Navarro Faure. Tirant lo Blanch
 
 Manual de Derecho Tributario. Parte Especial. Juan Martin Queralt. Aranzadi
@@ -127,20 +141,17 @@ Manuales prácticos. AEAT
 
 Memento Fiscal. Francis Lefebvre
 
-Memento Procedimientos Tributarios. Francis Lefebvre
-
 Memento Práctico IVA. Varios Autores. Francis Lefebvre
 
 Ministerio de Hacienda: Leyes Tributarias. Recopilación Normativa
 
 Normativa Básica
 
+Régimen   fiscal   de   la  empresa.  Malvárez  Pascual,  Luis  /  Martínez  Gálvez,  J.  Pablo  /  Ramírez  Gómez,
+Salvador . Tecnos
+
 TODO Fiscal. Francisco M. Mellado Benavente. CISS
 
 TODO Transmisiones. Javier Máximo Juárez González. CISS
 
-Todo IVA. José Manuel Cabrera Fernández. CISS
-
-Todo Procedimiento Tributario. José María Peláez Martos. CISS
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 52% [█████░░░░░]

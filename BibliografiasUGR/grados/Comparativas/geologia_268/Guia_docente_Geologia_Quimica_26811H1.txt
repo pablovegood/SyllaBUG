@@ -2,38 +2,45 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-0-521-43151-4 EHLERS, E. (1972). The interpretation og geological phase diagrams. W.H. Freeman & Co
+ISBN-10:   019504534   BOWEN,   R.  (1988).  Isotopes  in  the  Herat  sciences.  Elsevier,  London  &  New  Cork.
+ISBN:   1-85166-145-X   DALRYMPLE,   G.B.   (1991).   The   age   of   the  earth.  Stanford  University  Press.
+California
 
-📚 Recursos sin cambios:
+ISBN:   0-7167-0254-1   ELSDEN.   J.   (2009).   Principles   of   Chemical   Geology.   Bibliolife.  ISBN-10:
+1103285734 FAURE, G. (2001). Origin of igneous rocks. The isotopic evidence. Springer-Verlag, Berlín
+New Cork
+
+ISBN:   0-8047-2331-1   DICKIN,   A.P.   (1995).  Radiogenic  isotope  geology.  Cambridge  University  press.
+ISBN: 0-521-43151-4 EHLERS, E. (1972). The interpretation og geological phase diagrams. W.H. Freeman
+& Co. San Francisco
+
+📚 Recursos sin cambios (6):
 ------------------------------
+FAURE,   G.   (1986).   Principles   of   Isotope   Geology,   (2ª   Ed.).  John  Wiley  &  Sons,  N.  Cork.  ISBN:
+0-471-86412-9
+
+GILL, R. (1989). Chemical Fundamentals of Geology (2ª Ed.) Unwin Hyman, London. ISBN: 0-04-551123-3
+
+ISBN:   0-04-551123-3   RAGLAND,   P.C.   (1989).   Basic   Analytical  Petrology.  Oxford  University  Press,
+Oxford
+
+ISBN:   0-471-38437-2   HENDERSON,   P.  (1982)  Inorganic  Geochemistry.  Pergamon  Press,  Oxford.  ISBN-10:
+MAALOE, S. (1985). Principles of igneous petrology. Springer –Verlag, Berlín, New Cork
+
+ISBN:3-540-67772-0   FAURE,   G.   &   MNESING,   T.M.  (2005).  Isotopes  principles  and  applications.  John
+Wiley & Sons, New Jersey
+
 MAALOE,   S.   (1985).   Principles   of   igneous   petrology.   Springer  –Verlag,  Berlín,  New  Cork.  ISBN:
 0-387-13520-0
 
-San   Francisco.   ISBN:   0-7167-0254-1  ELSDEN.  J.  (2009).  Principles  of  Chemical  Geology.  Bibliolife.
-ISBN-10:   1103285734   FAURE,   G.   (2001).   Origin  of  igneous  rocks.  The  isotopic  evidence.  Springer-
-Verlag,   Berlín   New   Cork.  ISBN:3-540-67772-0  FAURE,  G.  &  MNESING,  T.M.  (2005).  Isotopes  principles
-and   applications.  John  Wiley  &  Sons,  New  Jersey.  ISBN:  0-471-38437-2  HENDERSON,  P.  (1982)  Inorganic
-Geochemistry. Pergamon Press, Oxford. ISBN-10
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-FAURE,   G.   (1986).   Principles   of   Isotope   Geology,   (2ª   Ed.).  John  Wiley  &  Sons,  N.  Cork.  ISBN:
-0-471-86412-9   GILL,  R.  (1989).  Chemical  Fundamentals  of  Geology  (2ª  Ed.)  Unwin  Hyman,  London.  ISBN:
-0-04-551123-3   RAGLAND,   P.C.   (1989).   Basic  Analytical  Petrology.  Oxford  University  Press,  Oxford.
-ISBN-10:   019504534   BOWEN,   R.  (1988).  Isotopes  in  the  Herat  sciences.  Elsevier,  London  &  New  Cork.
-ISBN   →   GILL,   R.   (1989).   Chemical   Fundamentals   of   Geology  (2ª  Ed.)  Unwin  Hyman,  London.  ISBN:
-0-04-551123-3
-
-1-85166-145-X   DALRYMPLE,   G.B.  (1991).  The  age  of  the  earth.  Stanford  University  Press.  California.
-ISBN:   0-8047-2331-1   DICKIN,   A.P.   (1995).  Radiogenic  isotope  geology.  Cambridge  University  press.
-ISBN   →   DALRYMPLE,   G.B.  (1991).  The  age  of  the  earth.  Stanford  University  Press.  California.  ISBN:
-0-8047-2331-1
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 BOWEN, R. (1988). Isotopes in the Herat sciences. Elsevier, London & New Cork. ISBN: 1-85166-145-X
+
+DALRYMPLE,   G.B.   (1991).   The   age   of   the   earth.   Stanford   University   Press.  California.  ISBN:
+0-8047-2331-1
 
 DICKIN, A.P. (1995). Radiogenic isotope geology. Cambridge University press. ISBN: 0-521-43151-4
 
@@ -41,21 +48,12 @@ EHLERS, E. (1972). The interpretation og geological phase diagrams. W.H. Freeman
 
 ELSDEN. J. (2009). Principles of Chemical Geology. Bibliolife. ISBN-10: 1103285734
 
-FAURE,   G.   &   MNESING,   T.M.   (2005).   Isotopes  principles  and  applications.  John  Wiley  &  Sons,  New
-Jersey
-
-FAURE,   G.   (1986).   Principles   of   Isotope   Geology,   (2ª   Ed.).  John  Wiley  &  Sons,  N.  Cork.  ISBN:
-0-471-86412-9
-
 FAURE, G. (2001). Origin of igneous rocks. The isotopic evidence. Springer-Verlag, Berlín New Cork
 
 HENDERSON, P. (1982) Inorganic Geochemistry. Pergamon Press, Oxford. ISBN-10: 0080204473
 
-ISBN: 0-471-38437-2
+ISBN: 0-7167-0254-1
 
 ISBN:3-540-67772-0
 
-RAGLAND,   P.C.   (1989).   Basic   Analytical   Petrology.   Oxford   University   Press,   Oxford.  ISBN-10:
-019504534
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 80% [████████░░]

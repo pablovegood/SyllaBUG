@@ -2,11 +2,12 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Sniedovich,   M.   (2010)   Dynamic   Programming:  Foundations  and  Principles,  Second  Edition.  CRC  Press
+Tijms, H.C. (2003) A First Course in Stochastic Models. John Wiley and Sons, Chichester
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Cao Abad, R. (2002) Introducción a la simulación y a la teoría de colas. A Coruña: Netbiblo
 
@@ -23,14 +24,10 @@ Ríos Insúa, S. (1993) Investigación Operativa: optimización. Centro de Estud
 Ríos   Insúa,   S.;   Ríos   Insúa,   D.;   Mateos   Caballero,   A.;  Martín  Jiménez,  J.  (2006)  Problemas  de
 Investigación Operativa. Ra-ma
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Sniedovich,   M.   (2010)   Dynamic   Programming:  Foundations  and  Principles,  Second  Edition.  CRC  Press
-Tijms,   H.C.   (2003)   A   First  Course  in  Stochastic  Models.  John  Wiley  and  Sons,  Chichester  →  Tijms,
-H.C. (2003) A First Course in Stochastic Models. John Wiley and Sons, Chichester
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Sniedovich, M. (2010) Dynamic Programming: Foundations and Principles, Second Edition. CRC Press
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+Tijms, H.C. (2003) A First Course in Stochastic Models. John Wiley and Sons, Chichester
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

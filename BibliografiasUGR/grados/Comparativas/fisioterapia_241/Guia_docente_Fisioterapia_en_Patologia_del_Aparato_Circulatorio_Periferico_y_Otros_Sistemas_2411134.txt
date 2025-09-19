@@ -2,11 +2,11 @@
 Grado: fisioterapia (241)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 Calais B. El perine femenino y el parto. Barcelona: Los Libros de la Liebre de Marzo, 1998
 
@@ -14,39 +14,6 @@ Castro D, Postius J, editores. Urología en Atención Primaria. Barcelona: Pulso
 
 Cleland    J.   Netter.   Exploración   clínica   en   ortopedia.   Un   enfoque   basado   en   la   evidencia.
 Barcelona:Masson-Elsevier; 2006
-
-Ferrandez   JC,  Theys  S,  Bouchet  JY.  Reeducación  de  los  edemas  de  los  miembros  inferiores.  Barcelona:
-Elsevier-Masson; 2002
-
-Leduc A, Leduc O. Drenaje linfático. Teoría y práctica. Barcelona: Elsevier-Masson; 2003
-
-Viladot   R,   Cohi  O,  Clavell  S.  Ortesis  y  prótesis  del  aparato  locomotor.  Tomo  1.  Columna  vertebral.
-Barcelona: ElsevierMasson; 1985
-
-Viladot   R,   Cohi   O,   Clavell   S.   Ortesis   y   prótesis   del  aparato  locomotor.  Tomo  2.1.Extremidad
-superior. Barcelona: ElsevierMasson;1992
-
-Viladot   R,   Cohi   O,   Clavell   S.   Ortesis   y   prótesis   del  aparato  locomotor.  Tomo  2.2.Extremidad
-inferior. Barcelona: ElsevierMasson; 1989
-
-Walker C. Fisioterapia en obstetricia y uroginecología. Barcelona: Elsevier-Masson; 2006
-
-Wittlinger   H,   Wittlinger   D,Wittlinger   A,   Wittlinger   M.   Drenaje  Manual  según  el  Método  del  Dr.
-Vodder. Madrid:Editorial Médica Panamericana; 2012
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Aguilar-Ferrándiz   ME,  Castro-Sánchez  AM,  Fernández-Fernández  MJ.  Métodos  para  la  facilitación  de  la
-función    linfática.   Sistema   Cardiovascular:   Métodos   de   intervención,   fisioterapia   clínica   y
-afecciones para Fisioterapeutas, editorial Médica Panamericana, 2017
-
-Aguilar-Ferrándiz   ME,   Moreno   Lorenzo   C.  Métodos  para  la  facilitación  del  retorno  venoso.  Sistema
-Cardiovascular:   Métodos   de   intervención,   fisioterapia  clínica  y  afecciones  para  Fisioterapeutas,
-editorial Médica Panamericana, 2017
 
 Cohí O, Ximeno Ll C, editores. Actualizaciones en técnica ortopédica. Barcelona: Masson; 2001
 
@@ -61,17 +28,18 @@ Uriach; 1992
 
 Estevan JM editor. Qué hacer ante un problema vascular: Flebopatías. Barcelona: Uriach; 1993
 
+Ferrandez   JC,  Theys  S,  Bouchet  JY.  Reeducación  de  los  edemas  de  los  miembros  inferiores.  Barcelona:
+Elsevier-Masson; 2002
+
 Ferrández JC. El Sistema Linfático. Historia, iconografía e implicaciones fisioterapéuticas. Madrid:
 Panamericana; 2006
 
 Greene WB, editor. Netter .Ortopedia. Barcelona: Elsevier-Masson. Barcelona; 2007
 
+Leduc A, Leduc O. Drenaje linfático. Teoría y práctica. Barcelona: Elsevier-Masson; 2003
+
 Martínez   E,   Albert   R,  Bernabé  B.  Incontinencia  urinaria:  Conceptos  útiles  para  atención  primaria.
 Madrid: Indas; 1998
-
-Moreno   Lorenzo   C,  Aguilar-Ferrándiz  ME,  Castro-Sánchez  MA.  Métodos  para  la  facilitación  del  aporte
-arterial   periférico.   Sistema   Cardiovascular:   Métodos   de   intervención,   fisioterapia   clínica  y
-afecciones para Fisioterapeutas, editorial Médica Panamericana, 2017
 
 Moreno   Lorenzo   C,  Castro  Sánchez  Adelaida  Mª,  Bezos  Cuaresma  A.  Lesiones  óseas  de  origen  vascular.
 En   Seco   J.   [Dir.]   .Afecciones   médico-quirúrgicas   para   fisioterapeutas.  Serie  Sistema  Músculo-
@@ -89,9 +57,37 @@ Serra MR, editor. El paciente amputado. Labor de equipo. Barcelona: Springer Ver
 Stephenson    RG,    O´Connor    LJ.    Fisioterapia   en   Obstetricia   y   Ginecología.   2ª   ed.   Madrid:
 McGrawHillInteramericana; 2003
 
+Viladot   R,   Cohi  O,  Clavell  S.  Ortesis  y  prótesis  del  aparato  locomotor.  Tomo  1.  Columna  vertebral.
+Barcelona: ElsevierMasson; 1985
+
+Viladot   R,   Cohi   O,   Clavell   S.   Ortesis   y   prótesis   del  aparato  locomotor.  Tomo  2.1.Extremidad
+superior. Barcelona: ElsevierMasson;1992
+
+Viladot   R,   Cohi   O,   Clavell   S.   Ortesis   y   prótesis   del  aparato  locomotor.  Tomo  2.2.Extremidad
+inferior. Barcelona: ElsevierMasson; 1989
+
 Vinyes F. La linfa y su drenaje manual. Barcelona: Integral, 2003
+
+Walker C. Fisioterapia en obstetricia y uroginecología. Barcelona: Elsevier-Masson; 2006
 
 Weiss   HR,   Rigo  M.  Fisioterapia  para  la  Escoliosis  Basada  en  el  Diagnóstico.  Barcelona:  Paidotribo;
 2004
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Wittlinger   H,   Wittlinger   D,Wittlinger   A   ,   Wittlinger  M.  Drenaje  Manual  según  el  Método  del  Dr.
+Vodder. Madrid:Editorial Médica Panamericana; 2012
+
+✅ Recursos añadidos (3):
+------------------------------
+Aguilar-Ferrándiz   ME,  Castro-Sánchez  AM,  Fernández-Fernández  MJ.  Métodos  para  la  facilitación  de  la
+función    linfática.   Sistema   Cardiovascular:   Métodos   de   intervención,   fisioterapia   clínica   y
+afecciones para Fisioterapeutas, editorial Médica Panamericana, 2017
+
+Aguilar-Ferrándiz   ME,   Moreno   Lorenzo   C.  Métodos  para  la  facilitación  del  retorno  venoso.  Sistema
+Cardiovascular:   Métodos   de   intervención,   fisioterapia  clínica  y  afecciones  para  Fisioterapeutas,
+editorial Médica Panamericana, 2017
+
+Moreno   Lorenzo   C,  Aguilar-Ferrándiz  ME,  Castro-Sánchez  MA.  Métodos  para  la  facilitación  del  aporte
+arterial   periférico.   Sistema   Cardiovascular:   Métodos   de   intervención,   fisioterapia   clínica  y
+afecciones para Fisioterapeutas, editorial Médica Panamericana, 2017
+
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

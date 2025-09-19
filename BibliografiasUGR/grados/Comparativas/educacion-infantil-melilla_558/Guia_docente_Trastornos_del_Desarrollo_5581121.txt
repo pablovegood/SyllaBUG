@@ -2,11 +2,11 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 American   Psychiatric   Association.   (2013).   Diagnostic  and  Statistical  Manual  of  Mental  Disorders,
 FifthEdition, (DSM-5). American Psychiatric Publishing
@@ -24,6 +24,8 @@ Pirámide
 Martos,   J.,  y  Llorente,  M.  (2018).  El  niño  al  que  se  le  olvidó  cómo  mirar.  Comprender  y  afrontar  el
 autismo. La esfera de los libros
 
+Nieto, S. (2016). Competencia del profesional docente. Dykinson
+
 Orjales Villar, I. (2009). Déficit de atención con hiperactividad. CEPE
 
 Peñafiel,   F.,   Fernández,   J.D.,   Domingo,   J.   y   Navas,  J.L.  (Coords.)  (2006).  La  intervención  en
@@ -39,15 +41,11 @@ evaluar necesidades. Fundamentos Psicopedagógicos
 
 VV.AA. (2019). Lengua de signos española para dummies. Fundación CNSE
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Nieto, S. (2016). Competencia del profesional docente. Dykinson
-
 Verdugo,   M.A.   (2009).   Discapacidad   intelectual:  adaptación  social  y  problemas  de  comportamiento.
 Pirámide
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

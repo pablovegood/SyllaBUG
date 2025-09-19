@@ -2,11 +2,13 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+BRUSTAD,   K.,   AL-   BATAL,   M.   y   TONSI,  A.  Al-Kitab  fi  Ta`allum  al-`Arabiyya.  3ªed.  vol.  I  y  II  (3
+vols.)   Georgetown  University  Press.  Washington,  D.C.  2011-2013  (MANUAL  DE  CLASE)  CORTÉS,  J.  (2008).
+Diccionario de árabe culto moderno: árabe-español. Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 ABBOUD, P. et al. (2002). Intermediate Modern Standard Arabic. Ann Arbor, Michigan
 
@@ -45,16 +47,11 @@ Cambridge
 
 SHALABI, A. (1990). Ta`lim al-luga al-`arabiyya li-gayr al-`arab. 5ª ed., El Cairo
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-BRUSTAD,   K.,   AL-   BATAL,   M.   y   TONSI,  A.  Al-Kitab  fi  Ta`allum  al-`Arabiyya.  3ªed.  vol.  I  y  II  (3
-vols.)   Georgetown  University  Press.  Washington,  D.C.  2011-2013  (MANUAL  DE  CLASE)  CORTÉS,  J.  (2008).
-Diccionario   de   árabe   culto   moderno:   árabe-español.   Madrid   →  CORTÉS,  J.  (2008).  Diccionario  de
-árabe culto moderno: árabe-español. Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 BRUSTAD,   K.,   AL-   BATAL,   M.   y   TONSI,  A.  Al-Kitab  fi  Ta`allum  al-`Arabiyya.  3ªed.  vol.  I  y  II  (3
 vols.) Georgetown University Press. Washington, D.C. 2011-2013 (MANUAL DE CLASE)
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+CORTÉS, J. (2008). Diccionario de árabe culto moderno: árabe-español. Madrid
+
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

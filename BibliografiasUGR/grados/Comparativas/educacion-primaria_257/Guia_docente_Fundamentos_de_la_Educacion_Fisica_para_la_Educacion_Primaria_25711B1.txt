@@ -2,22 +2,12 @@
 Grado: educacion-primaria (257)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-El   sistema   de   calificaciones   se   expresará  de  forma  numérica  de  acuerdo  con  lo  establecido  en  el
-artículo   5.   del   R.D.  1125/2003,  de  5  de  septiembre,  por  el  que  se  establece  el  sistema  europeo  de
-créditos   y   el   sistema   de  calificaciones  en  las  titulaciones  universitarias  de  carácter  oficial  y
-validez en el territorio nacional
+RESUPERES    MANUAL.   (2024).   Resiliencia   en   la   Educación   Superior.   https://resuperes.eu/   RIOS
+HERNÁNDEZ, M. (2007). Actividad física adaptada: el juego y los alumnos con discapacidad. Paidotribo
 
-RIOS   HERNÁNDEZ,   M.   (2007).   Actividad   física   adaptada:   el  juego  y  los  alumnos  con  ROMERO,  C.  y
-CEPERO,   M.   (2002).   Bases  teóricas  para  la  formación  del  maestro  especialista  en  educación  Física.
-Grupo editorial Universitario
-
-ZAGALAZ,   M.L.,  LARA.  A.,  y  CACHÓN,  J.  (2014).  FUNDAMENTOS  DE  LA  PROGRAMACIÓN  DE  EDUCACIÓN  FÍSICA  EN
-PRIMARIA.   Síntesis.   participación   en   las   consultas,   exposiciones   y   debates;   así   como  en  la
-elaboración de los trabajos, individuales o en equipo, y en las sesiones de puesta en común
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 BATALLA, A. (2000). Habilidades motrices. Barcelona: INDE
 
@@ -29,6 +19,10 @@ Educación Física (I) y (II). Ediciones Aljibe
 CEPERO, MAR. (2000). Las Habilidades Motrices y su Desarrollo . En: Comunicación y lenguaje corporal
 : bases y fundamentos aplicados al ámbito educativo ( Ortiz, M.M.) ISBN 84-8254-311-3, págs. 171-206
 
+COMELLAS, MONTSERRAT y ESTRANY, CARLES. (2006). Discapacidades motoras y sensoriales en primaria: la
+inclusión   del   alumnado   en   Educación   física.   181   juegos   adaptados   (unidad  didactica:  deporte
+adaptado). INDE
+
 DELGADO, MANUEL y PÉREZ, ISAAC. (2004). La salud en secundaria desde la Educación Física. Barcelona:
 INDE
 
@@ -36,6 +30,8 @@ DELGADO,   MANUEL   y   TERCEDOR,  PABLO.  (2002).  Estrategias  de  intervenci�
 desde la Educación Física. INDE
 
 DÍAZ, JORDI. (1999). Enseñanza y aprendizaje de las habilidades y destrezas motrices básicas. INDE
+
+GAREL, JEAN PIERRE. (2007). Educación física y discapacidades motrices. INDE
 
 GONZÁLEZ, CARLES. y SEBASTIANI, ENRIC.M. (2000). Cualidades físicas. INDE
 
@@ -45,24 +41,20 @@ MARTÍNEZ, EMILIO, (2007). Pruebas de aptitud física. Paidotribo
 
 MARTÍNEZ, MANUEL y RUIZ PÉREZ, LUIS MIGUEL. (1999). Control y aprendizaje motor. Síntesis
 
-SÁNCHEZ, JUAN. (2008). Recursos y estrategias en psicomotricidad. Ediciones Aljibe
+ROMERO, CIPRIANO y CEPERO, MAR. (2002). Bases teóricas para la formación del maestro especialista en
+educación Física. Grupo editorial Universitario
+
+SÁNCHEZ RODRÍGUEZ, J. (2008). Recursos y estrategias en psicomotricidad. Ediciones Aljibe
 
 TRIGUEROS, CARMEN. (1994). Educación Física de Base. 978-84-604-8972-6
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+ZAGALAZ,   MARÍA   LUISA,   LARA.   AMADOR   y   CACHÓN,  JAVIER.  (2014).  Fundamentos  de  la  Programación  de
+Educación Física en Primaria. Síntesis
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 CAROLINA   CASTAÑEDA,   Mª  CARMEN  CAMPOS  y  GLORIA  GONZÁLEZ  (2022).  Fundamentos  y  Currículo  de  la  EF  en
 Primaria. UAS. (Universidad Sevilla)
-
-COMELLAS, MONTSERRAT y ESTRANY, CARLES. (2006). Discapacidades motoras y sensoriales en primaria: la
-inclusión   del   alumnado   en   Educación   física.   181   juegos   adaptados   (unidad  didactica:  deporte
-adaptado). INDE
-
-GAREL, JEAN PIERRE. (2007). Educación física y discapacidades motrices. INDE
 
 RESUPERES   MANUAL.   (2024).   Resiliencia  en  la  Educación  Superior.  https://resuperes.eu/  RESUPERES  -
 Manual
@@ -74,10 +66,4 @@ ROJAS   CEPERO,  IAGO;  DE  LA  CRUZ  CAMPOS,  JUAN  CARLOS,  DE  LA  CRUZ  MÁR
 (2025).   “Strengthen   Your-Self":   Motor   Development   and   Strength   in   School-Age  Children.  ACTAS
 RESUPERES CONGRESS, 2025 Faro, Portugal
 
-ROMERO, CIPRIANO y CEPERO, MAR. (2002). Bases teóricas para la formación del maestro especialista en
-educación Física. Grupo editorial Universitario
-
-ZAGALAZ,   MARÍA   LUISA,   LARA.   AMADOR   y   CACHÓN,  JAVIER.  (2014).  Fundamentos  de  la  Programación  de
-Educación Física en Primaria. Síntesis
-
-📊 Porcentaje estimado de cambio: 68% [██████░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

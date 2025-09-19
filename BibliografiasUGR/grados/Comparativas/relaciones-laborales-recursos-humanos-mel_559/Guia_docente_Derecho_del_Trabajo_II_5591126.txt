@@ -2,11 +2,11 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 ALONSO OLEA y CASAS BAAMONDE: Derecho del Trabajo (Ed. Civitas, Madrid, 2024)
 
@@ -15,6 +15,8 @@ CRUZ VILLALÓN: Compendio de Derecho del Trabajo (Ed. Tecnos, Madrid, 2024)
 GARCIA NINET y VICENTE PALACIO: Derecho del Trabajo (Ed. Aranzadi, Pamplona, 2024)
 
 GOERLICH PESET (Dir.): Derecho del Trabajo (Ed. Tirant lo Blanch, Valencia, 2024)
+
+MARTÍN VALVERDE, RODRIGUEZ SAÑUDO y GARCÍA MURCIA: Derecho del Trabajo (Ed. Tecnos, Madrid, 2024)
 
 MERCADER UGUINA: Lecciones de Derecho del Trabajo (Ed. Tirant lo Blanch, Valencia, 2024)
 
@@ -25,15 +27,9 @@ MONTOYA MELGAR: Derecho del Trabajo (Ed. Tecnos, Madrid, 2024)
 
 PALOMEQUE LOPEZ y ÁLVAREZ DE LA ROSA: Derecho del Trabajo (Ed. CEURA, Madrid, 2024)
 
-Tecnos, Madrid, 2024)
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 OLARTE   ENCABO   y  ALMENDROS  GONZÁLES:  Nociones  básicas  de  Derecho  del  Trabajo  (Ed.  Comares,  Granada,
 última edición)
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

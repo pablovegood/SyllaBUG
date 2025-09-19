@@ -2,11 +2,11 @@
 Grado: estudios-ingleses (285)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Aitchison, J. (2004). The Articulate Mammal: An Introduction to Psycholinguistics (4th ed.). London:
 Routledge
@@ -45,6 +45,10 @@ Juffs, A., & Rodríguez, G. A. (2014). Second Language Sentence Processing. New 
 Kroll,   J.   F.,   &  Groot,  A.  M.  B.  D.  (2005).  Handbook  of  Bilingualism:  Psycholinguistic  Approaches.
 Oxford: OUP
 
+Lecturas específicas para clase: Habrá una serie de lecturas para debatir en clase como parte de las
+tareas   académicamente  dirigidas.  El  profesor  proporcionará  detalles  de  dichas  lecturas  (y  las  guías
+de lectura) en la plataforma PRADO
+
 Montrul, S. (2013). El bilingüismo en el mundo hispanohablante. Malden, MA: Wiley-Blackwell
 
 Nicol, J. (Ed.). (2001). One Mind, Two Languages: Bilingual Language Processing. London: Blackwell
@@ -58,14 +62,8 @@ Methods in Second Language Psycholinguistics (pp. 1–19). Routledge
 de   Bot,   K.,   &   Kroll,   J.   F.   (2002).  Psycholinguistics.  In  N.  Schmitt  (Ed.),  An  Introduction  to
 Applied Linguistics (pp. 133–149). London: Arnold
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Lecturas específicas para clase: Habrá una serie de lecturas para debatir en clase como parte de las
-tareas   académicamente  dirigidas.  El  profesor  proporcionará  detalles  de  dichas  lecturas  (y  las  guías
-de lectura) en la plataforma PRADO
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

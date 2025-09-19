@@ -2,20 +2,25 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
-BANGSBO,J. y LARSEN,H.B. (2000). Running & Science. Ed. University of Compenhagen. Dinamarca
-
 Blazevich,A.J.   (2010).   Sports   Biomechanics:  The  Basics:  Optimising  Human  Performance.  A  &  C  Black
 Publishers Ltd
 
 CARR,G. (1997). Mechanics of sport. Ed. Human Kinetics, Champaign, EEUU
 
 CAVANAGH,P.R. (1996). Biomechanics of distance running. Ed. Human Kinetics
+
+Esta   asignatura   no   dispone   de   un   libro  de  texto  de  referencia  que  integre  todos  los  contenidos
+desarrollados   por   el   profesor.   Cada   tema   y   bloque   temático   de  la  asignatura  tiene  su  propia
+documentación    bibliográfica,    específica   para   ese   contenido.   El   profesor   irá   indicando   la
+bibliografía   básica   de  cada  tema  cuando  se  imparta  éste.  Podemos  emplear  algunos  de  los  siguientes
+libros   como   documentos   generales   en   donde  poder  localizar  información  del  temario:  BANGSBO,J.  y
+LARSEN,H.B. (2000). Running & Science. Ed. University of Compenhagen. Dinamarca
 
 GORDON,D. et al (2014). Research methods in biomechanics. Ed. Human Kinetics, Champaign, EEUU
 
@@ -42,16 +47,8 @@ course. Ed. Churchill Livingstone
 SOTO,V.M.   (1995).   Desarrollo  de  un  sistema  para  el  análisis  biomecánico  del  movimiento  deportivo  y
 la representación gráfica realista del movimiento humano. Ed. Servicio publicaciones de UGR, España
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Esta   asignatura   no   dispone   de   un   libro  de  texto  de  referencia  que  integre  todos  los  contenidos
-desarrollados   por   el   profesor.   Cada   tema   y   bloque   temático   de  la  asignatura  tiene  su  propia
-documentación    bibliográfica,    específica   para   ese   contenido.   El   profesor   irá   indicando   la
-bibliografía   básica   de  cada  tema  cuando  se  imparta  éste.  Podemos  emplear  algunos  de  los  siguientes
-libros como documentos generales en donde poder localizar información del temario
+BANGSBO,J. y LARSEN,H.B. (2000). Running & Science. Ed. University of Compenhagen. Dinamarca
 
 📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

@@ -2,9 +2,13 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (8):
 ------------------------------
 C.C.W. Taylor, Plato: Protagoras, Oxford, Clarendon, 1976
+
+Ediciones y traducciones J. Burnet, Platonis Opera, vol. II, Oxford, Oxford University Press, 1901
+
+J. Burnet, Platonis Opera, vol. III, Oxford, Oxford University Press, 1903
 
 J. Calonge Ruiz, E. Lledó y C. García Gual, Platón. Diálogos I, Madrid, Gredos, 1985
 
@@ -16,7 +20,7 @@ L. Gernet y M. Bizos, Lisias, vol. II, París, Les Belles Lettres, 2003
 
 L. Gil, Platón. Banquete. Fedro. Fedón, Madrid, Guadarrama, 1968
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 C. García Gual, M. Martínez Hernández, E. Lledó, Platón. Diálogos III, Madrid, Gredos, 1988
 
@@ -32,36 +36,22 @@ F. Rodríguez Adrados, Historia de la lengua griega: de los orígenes a nuestros
 
 H.G. Liddell y R. Scott, A Greek English Lexicon, Oxford, 1968
 
+Instrumentos   filológicos:   J.   L.  Calvo  Martínez,  Griego  para  universitarios:  fonética  y  fonología,
+morfología y sintaxis del griego antiguo, Granada, 2016
+
 J.M. Pabón S. de Urbina, Diccionario manual griego-español, Barcelona, 2018
 
 L. Robin y P. Vicaire, Platon. Œuvres complètes, vol. IV.2, París, Les Belles Lettres, 1989
 
 M. Croiset, Platon. Œuvres complètes, vol. III.1, París, Les Belles Lettres, 1923
 
+M. Fernández Galiano, Manual práctico de morfología verbal griega, Madrid, 1968
+
 Mª.D. Jiménez (ed.), Sintaxis del griego antiguo, Madrid, 2021
 
 P. Chantraine, Morfología histórica del griego (trad. esp.), Reus, 1983
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ediciones   y   traducciones  J.  Burnet,  Platonis  Opera,  vol.  II,  Oxford,  Oxford  University  Press,  1901
-→  J. Burnet, Platonis Opera, vol. II, Oxford, Oxford University Press, 1901-1903
-
-J.   Burnet,   Platonis   Opera,   vol.  III,  Oxford,  Oxford  University  Press,  1903  →  J.  Burnet,  Platonis
-Opera, vol. II, Oxford, Oxford University Press, 1901-1903
-
-Instrumentos   filológicos:   y  sintaxis  del  griego  antiguo,  Granada,  2016  →  Instrumentos  filológicos:
-J.   L.   Calvo   Martínez,  Griego  para  universitarios:  fonética  y  fonología,  morfología  y  sintaxis  del
-griego   antiguo,   Granada,   2016.  P.  Chantraine,  Morfología  histórica  del  griego  (trad.  esp.),  Reus,
-1983.   E.   Crespo,   L.  Conti  y  H.  Maquieira,  Sintaxis  del  griego  clásico,  Madrid,  2003.  M.  Fernández
-Galiano,   Manual   práctico   de  morfología  verbal  griega,  Madrid,  1968.  Mª.D.  Jiménez  (ed.),  Sintaxis
-del griego antiguo, Madrid, 2021. H.G. Liddell y R. Scott, A Greek English Lexicon, Oxford, 1968. F.
-Montanari,   M.  Goh  y  C.  Schoeder,  The  Brill  Dictionary  of  Ancient  Greek,  Leiden,  2015.  J.M.  Pabón  S.
-de   Urbina,   Diccionario   manual   griego-español,   Barcelona,   2018.   F.  Rodríguez  Adrados  (coord.),
-Diccionario   Griego-Español   (vol.   I-VII),   Madrid,  1980-2009.  F.  Rodríguez  Adrados,  Historia  de  la
-lengua griega: de los orígenes a nuestros días, Madrid, 1999
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Ediciones   y   traducciones   J.   Burnet,   Platonis   Opera,   vol.  II,  Oxford,  Oxford  University  Press,
 1901-1903.   M.   Croiset,   Platon.   Œuvres  complètes,  vol.  III.1,  París,  Les  Belles  Lettres,  1923.  C.
@@ -70,11 +60,20 @@ Romero   et   al.,   Platón.  Mitos,  Madrid,  Alianza,  2018.  W.  Rennie,  De
 Oxford,   Oxford   Clarendon   Press,  1931.  L.  Robin  y  P.  Vicaire,  Platon.  Œuvres  complètes,  vol.  IV.2,
 París, Les Belles Lettres, 1989
 
-J.   L.   Calvo   Martínez,  Griego  para  universitarios:  fonética  y  fonología,  morfología  y  sintaxis  del
-griego antiguo, Granada, 2016
+Instrumentos   filológicos:   J.   L.  Calvo  Martínez,  Griego  para  universitarios:  fonética  y  fonología,
+morfología   y   sintaxis   del   griego  antiguo,  Granada,  2016.  P.  Chantraine,  Morfología  histórica  del
+griego   (trad.   esp.),   Reus,  1983.  E.  Crespo,  L.  Conti  y  H.  Maquieira,  Sintaxis  del  griego  clásico,
+Madrid, 2003. M. Fernández Galiano, Manual práctico de morfología verbal griega, Madrid, 1968. Mª.D.
+Jiménez   (ed.),   Sintaxis  del  griego  antiguo,  Madrid,  2021.  H.G.  Liddell  y  R.  Scott,  A  Greek  English
+Lexicon,   Oxford,   1968.   F.  Montanari,  M.  Goh  y  C.  Schoeder,  The  Brill  Dictionary  of  Ancient  Greek,
+Leiden,   2015.   J.M.   Pabón   S.   de   Urbina,   Diccionario  manual  griego-español,  Barcelona,  2018.  F.
+Rodríguez Adrados (coord.), Diccionario Griego-Español (vol. I-VII), Madrid, 1980-2009. F. Rodríguez
+Adrados, Historia de la lengua griega: de los orígenes a nuestros días, Madrid, 1999
 
-M. Fernández Galiano, Manual práctico de morfología verbal griega, Madrid, 1968
+J. Burnet, Platonis Opera, vol. II, Oxford, Oxford University Press, 1901-1903
+
+J. Burnet, Platonis Opera, vol. II, Oxford, Oxford University Press, 1901-1903
 
 W. Rennie, Demosthenis Orationes. Tomus III, Oxford, Oxford Clarendon Press, 1931
 
-📊 Porcentaje estimado de cambio: 61% [██████░░░░]
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

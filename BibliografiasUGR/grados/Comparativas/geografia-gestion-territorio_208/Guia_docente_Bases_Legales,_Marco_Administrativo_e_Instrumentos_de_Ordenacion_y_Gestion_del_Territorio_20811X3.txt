@@ -2,12 +2,45 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (7):
 ------------------------------
+ALONSO   TIMÓN,   A.   J.  (2012):  Urbanismo  y  ordenación  del  territorio;  presentación  de  Julio  Castelao
+Rodríguez. Madrid: El Consultor de los Ayuntamientos, 2012 ALLENDE LANDA, J. (2000): Medio ambiente,
+ordenación   del   territorio   y   sostenibilidad   /Bilbao:  Universidad  del  País  Vasco,  2000  ANDALUCÍA.
+CENTRO   DE   ESTUDIOS   TERRITORIALES   Y   URBANOS   (1990):   Bases  para  la  ordenación  del  territorio  de
+Andalucía   /   Junta   de   Andalucía.   Consejería   de  Obras  Públicas  y  Transportes.  Centro  de  Estudios
+Territoriales y Urbanos. Sevilla: Junta de Andalucía, Consejería de Obras Públicas y Transportes
+
+Decreto-ley   5/2012,   de   27   de   noviembre,   de   medidas   urgentes  en  materia  urbanística  y  para  la
+protección    del    litoral    de    Andalucía:   https://www.boe.es/buscar/act.php?id=BOJA-b-2012-90047
+DOMÍNGUEZ,   A.   C.,   &   PAVÓN,   E.   L.   S.  (1999):  Entendimiento  del  espacio  geográfico  en  las  leyes
+autonómicas de ordenación del territorio. Rev. Ería, (49), 159-176
+
+GONZÁLEZ-VARAS   IBÁÑEZ,   S.   (2005):  “La  gestión  territorial”,  Revista  de  Administración  Pública  166
+(Enero-Abril   2005),  páginas  257-279  GÓRGOLAS,  P.  (2018):  "La  regulación  de  los  campos  de  golf  en  la
+comunidad autónoma de Andalucía: ¿Interés turístico o interés inmobiliario?". Cuadernos Geográficos,
+57 (1), páginas 283-304
+
 HILDENBRAND SCHEID, A. (1996): Política de ordenación del territorio en Europa / Andreas Hildenbrand
 Scheid. Sevilla. Universidad de Sevilla
 
-📚 Recursos sin cambios:
+LÓPEZ   RAMÓN,   F.   (1987):   “Planificación   territorial”,   Revista   de  Administración  Pública  nº  114
+(Septiembre-Diciembre 1987), páginas 127-177 MENÉNDEZ REXACH, A. (1999): “Planteamiento, contenido y
+alcance   de   la   legislación   estatal  y  su  incidencia  en  la  estructura  y  desarrollo  de  la  ordenación
+territorial y urbanística”, Documentación Administrativa núm., 252‑253 (Septiembre 1998-Abril 1999),
+monográfico sobre “El nuevo marco legal del urbanismo. La Ley 6/1998, de 13 de abril, de Régimen del
+Suelo y Valoraciones”, páginas 173-193
+
+VILLARINO,   A.   G.,   &   OREA,  D.  G.  (2013):  Ordenación  territorial.  Mundi-Prensa  Libros  VVAA  (2018):
+Riesgos   naturales   y   Derecho:   una   perspectiva  interdisciplinar,  Dir.  ARANA  GARCÍA,  E.,  Dykinson,
+Madrid
+
+WATERHOUT,   B.   (2008).   The  Institutionalisation  of  European  Spatial  Planning.  Amsterdam:  IOS  Press
+ZAMORANO   WISNES,   J.   (2013):   "Comentarios  al  Decreto-Ley  5/2012  de  medidas  urgentes  en  materia  de
+urbanística   y   para   la   protección   del   litoral",  Revista  Andaluza  de  Administración  Pública,  85,
+149-186
+
+📚 Recursos sin cambios (28):
 ------------------------------
 ANDALUCIA.   CONSEJERIA   DE  OBRAS  PUBLICAS  Y  TRANSPORTES  (2000):  Plan  de  Ordenación  del  Territorio  de
 la   aglomeración   urbana   de   Granada:   Junio   1999   /   Consejería   de  Obras  Públicas  y  Transportes,
@@ -64,6 +97,9 @@ López Benítez. Madrid: Iustel
 JURADO ALMONTE, J.M. (2010): “El vilipendiado urbanismo. Una visión desde la experiencia”. Cuadernos
 geográficos, Nº47, pp. 275-295
 
+OLMEDO   PÉREZ,  S.  (2017):  "El  desarrollo  autonómico  de  la  competencia  de  Ordenación  del  Territorio  y
+sus relaciones con el urbanismo. Balance de la experiencia andaluza", Práctica Urbanística, 147, 1-8
+
 PARLAMENTO   DE   ANDALUCÍA   (2021):   Ley   de  Impulso  para  la  Sostenibilidad  Territorial  de  Andalucía.
 Boletín Oficial de la Junta de Andalucía, 233, 1-135
 
@@ -96,46 +132,37 @@ territorio:   seguimiento,  evaluación  y  enseñanzas  en  el  marco  ibérico
 la     Asociación     Española     de     Geografía     (BAGE),     Nº100,     2024.     Pp.     1-43.    DOI:
 https://doi.org/10.21138/bage.3401
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Decreto-ley   5/2012,   de   27   de   noviembre,   de   medidas   urgentes  en  materia  urbanística  y  para  la
-DOMÍNGUEZ,   A.   C.,   &   PAVÓN,   E.   L.   S.  (1999):  Entendimiento  del  espacio  geográfico  en  las  leyes
-autonómicas   de   ordenación  del  territorio.  Rev.  Ería,  (49),  159-176  →  DOMÍNGUEZ,  A.  C.,  &  PAVÓN,  E.
-L.   S.   (1999):   Entendimiento   del   espacio   geográfico   en  las  leyes  autonómicas  de  ordenación  del
-territorio. Rev. Ería, (49), 159-176
+SEVILLA   BUITRAGO,   A.   (2015):   “Urbanismo,   crisis   y   austeridad”.   Revista   Ciudades,   Instituto
+Interuniversitario de Urbanística. Nº38, pp. 31-48
 
-LÓPEZ   RAMÓN,   F.   (1987):   “Planificación   territorial”,   Revista   de  Administración  Pública  nº  114
-(Septiembre-Diciembre   1987),   páginas   127-177   su   incidencia   en  la  estructura  y  desarrollo  de  la
-ordenación   territorial   y   urbanística”,   Documentación   Administrativa   núm.,   252‑253  (Septiembre
-1998-Abril   1999),   monográfico   sobre   “El  nuevo  marco  legal  del  urbanismo.  La  Ley  6/1998,  de  13  de
-abril,    de   Régimen   del   Suelo   y   Valoraciones”,   páginas   173-193   →   LÓPEZ   RAMÓN,   F.   (1987):
-“Planificación   territorial”,   Revista  de  Administración  Pública  nº  114  (Septiembre-Diciembre  1987),
-páginas 127-177
+VENEGAS MORENO, C. y RODRIGUEZ RODRÍGUEZ, J. (2002): “Paisaje y planeamiento urbanístico”. En -JUNTA
+DE ANDALUCIA (C.O.P.T) (2002) Paisaje y ordenación del territorio. Edita C.O.P.T Junta de Andalucía.
+Sevilla
 
-ALONSO   TIMÓN,   A.   J.  (2012):  Urbanismo  y  ordenación  del  territorio;  presentación  de  Julio  Castelao
-Rodríguez. Madrid: El Consultor de los Ayuntamientos, 2012 ALLENDE LANDA, J. (2000): Medio ambiente,
-ordenación   del   territorio   y   sostenibilidad   /Bilbao   →   ALONSO   TIMÓN,  A.  J.  (2012):  Urbanismo  y
-ordenación   del   territorio;   presentación   de  Julio  Castelao  Rodríguez.  Madrid:  El  Consultor  de  los
-Ayuntamientos, 2012
+ZAMORANO   WISNES,   J.  (2022):  "La  ley  de  Impulso  para  la  Sostenibilidad  del  Territorio  de  Andalucía:
+las   clases   de  suelo  y  las  actuaciones  de  transformación  urbanística".  Administración  de  Andalucía:
+revista andaluza de administración pública, ISSN 1130-376X, Nº. 112, 2022, págs. 19-5
 
-Universidad del País Vasco, 2000 ANDALUCÍA. CENTRO DE ESTUDIOS TERRITORIALES Y URBANOS (1990): Bases
-para   la  ordenación  del  territorio  de  Andalucía  /  Junta  de  Andalucía.  Consejería  de  Obras  Públicas  y
-Transportes.   Centro  de  Estudios  Territoriales  y  Urbanos.  Sevilla:  Junta  de  Andalucía,  Consejería  de
-Obras   Públicas   y  Transportes  →  ANDALUCÍA.  CENTRO  DE  ESTUDIOS  TERRITORIALES  Y  URBANOS  (1990):  Bases
-para   la  ordenación  del  territorio  de  Andalucía  /  Junta  de  Andalucía.  Consejería  de  Obras  Públicas  y
-Transportes.   Centro  de  Estudios  Territoriales  y  Urbanos.  Sevilla:  Junta  de  Andalucía,  Consejería  de
-Obras Públicas y Transportes
+https://doi.org/10.21138/bage.3401   SÁNCHEZ   ESCOLANO,   L.M.   (2018):   "Ciudades  medias  y  desarrollo
+regional en Andalucía en el siglo XXI". En Jordá Borrel, R. y Márquez Domínguez, J. (Coord.) Ciencia
+regional   y  Andalucía  a  partir  de  la  visión  del  geógrafo  Gabriel  Marco  Cano  García.  Un  homenaje  a  su
+vida y su obra, Sevilla, Universidad de Sevilla, 179-192
 
-GONZÁLEZ-VARAS   IBÁÑEZ,   S.   (2005):  “La  gestión  territorial”,  Revista  de  Administración  Pública  166
-(Enero-Abril   2005),  páginas  257-279  GÓRGOLAS,  P.  (2018):  "La  regulación  de  los  campos  de  golf  en  la
-comunidad autónoma de Andalucía: ¿Interés turístico o interés inmobiliario?". Cuadernos Geográficos,
-57   (1),   páginas   283-304   →  GONZÁLEZ-VARAS  IBÁÑEZ,  S.  (2005):  “La  gestión  territorial”,  Revista  de
-Administración Pública 166 (Enero-Abril 2005), páginas 257-279
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (17):
 ------------------------------
 ALLENDE   LANDA,   J.   (2000):   Medio   ambiente,   ordenación   del  territorio  y  sostenibilidad  /Bilbao:
 Universidad del País Vasco, 2000
+
+ALONSO   TIMÓN,   A.   J.  (2012):  Urbanismo  y  ordenación  del  territorio;  presentación  de  Julio  Castelao
+Rodríguez. Madrid: El Consultor de los Ayuntamientos, 2012
+
+ANDALUCÍA.   CENTRO   DE   ESTUDIOS   TERRITORIALES   Y   URBANOS   (1990):   Bases   para   la  ordenación  del
+territorio   de  Andalucía  /  Junta  de  Andalucía.  Consejería  de  Obras  Públicas  y  Transportes.  Centro  de
+Estudios   Territoriales   y   Urbanos.   Sevilla:   Junta   de   Andalucía,  Consejería  de  Obras  Públicas  y
+Transportes
+
+DOMÍNGUEZ,   A.   C.,   &   PAVÓN,   E.   L.   S.  (1999):  Entendimiento  del  espacio  geográfico  en  las  leyes
+autonómicas de ordenación del territorio. Rev. Ería, (49), 159-176
 
 Decreto-ley   5/2012,   de   27   de   noviembre,   de   medidas   urgentes  en  materia  urbanística  y  para  la
 protección del litoral de Andalucía: https://www.boe.es/buscar/act.php?id=BOJA-b-2012-90047
@@ -154,28 +181,19 @@ GARCÍA   LOZANO,   L.  M.  La  noción  de  bosque  en  la  regulación  españ
 un   concepto  jurídico,  en  Revista  Digital  de  Derecho  Administrativo,  ISSN-e  2145-2946,  Nº.  26,  2021,
 págs. 229-261
 
+GONZÁLEZ-VARAS   IBÁÑEZ,   S.   (2005):  “La  gestión  territorial”,  Revista  de  Administración  Pública  166
+(Enero-Abril 2005), páginas 257-279
+
 GÓRGOLAS,   P.   (2018):   "La   regulación  de  los  campos  de  golf  en  la  comunidad  autónoma  de  Andalucía:
 ¿Interés turístico o interés inmobiliario?". Cuadernos Geográficos, 57 (1), páginas 283-304
+
+LÓPEZ   RAMÓN,   F.   (1987):   “Planificación   territorial”,   Revista   de  Administración  Pública  nº  114
+(Septiembre-Diciembre 1987), páginas 127-177
 
 MENÉNDEZ   REXACH,   A.   (1999):   “Planteamiento,   contenido   y  alcance  de  la  legislación  estatal  y  su
 incidencia   en  la  estructura  y  desarrollo  de  la  ordenación  territorial  y  urbanística”,  Documentación
 Administrativa   núm.,   252‑253  (Septiembre  1998-Abril  1999),  monográfico  sobre  “El  nuevo  marco  legal
 del urbanismo. La Ley 6/1998, de 13 de abril, de Régimen del Suelo y Valoraciones”, páginas 173-193
-
-OLMEDO   PÉREZ,  S.  (2017):  "El  desarrollo  autonómico  de  la  competencia  de  Ordenación  del  Territorio  y
-sus relaciones con el urbanismo. Balance de la experiencia andaluza", Práctica Urbanística, 147, 1-8
-
-SEVILLA   BUITRAGO,   A.   (2015):   “Urbanismo,   crisis   y   austeridad”.   Revista   Ciudades,   Instituto
-Interuniversitario de Urbanística. Nº38, pp. 31-48
-
-SÁNCHEZ ESCOLANO, L.M. (2018): "Ciudades medias y desarrollo regional en Andalucía en el siglo XXI".
-En   Jordá   Borrel,   R.   y  Márquez  Domínguez,  J.  (Coord.)  Ciencia  regional  y  Andalucía  a  partir  de  la
-visión del geógrafo Gabriel Marco Cano García. Un homenaje a su vida y su obra, Sevilla, Universidad
-de Sevilla, 179-192
-
-VENEGAS MORENO, C. y RODRIGUEZ RODRÍGUEZ, J. (2002): “Paisaje y planeamiento urbanístico”. En -JUNTA
-DE ANDALUCIA (C.O.P.T) (2002) Paisaje y ordenación del territorio. Edita C.O.P.T Junta de Andalucía.
-Sevilla
 
 VILLARINO, A. G., & OREA, D. G. (2013): Ordenación territorial. Mundi-Prensa Libros
 
@@ -188,8 +206,4 @@ ZAMORANO   WISNES,   J.   (2013):   "Comentarios  al  Decreto-Ley  5/2012  de  m
 urbanística   y   para   la   protección   del   litoral",  Revista  Andaluza  de  Administración  Pública,  85,
 149-186
 
-ZAMORANO   WISNES,   J.  (2022):  "La  ley  de  Impulso  para  la  Sostenibilidad  del  Territorio  de  Andalucía:
-las   clases   de  suelo  y  las  actuaciones  de  transformación  urbanística".  Administración  de  Andalucía:
-revista andaluza de administración pública, ISSN 1130-376X, Nº. 112, 2022, págs. 19-5
-
-📊 Porcentaje estimado de cambio: 74% [███████░░░]
+📊 Porcentaje estimado de cambio: 53% [█████░░░░░]

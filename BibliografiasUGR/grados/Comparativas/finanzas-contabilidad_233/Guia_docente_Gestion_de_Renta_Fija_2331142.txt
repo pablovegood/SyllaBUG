@@ -2,12 +2,16 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+MASCAREÑAS,   Juan   (2018):   Monografías   de   Juan   Mascareñas   sobre   finanzas   corporativas.   ISSN:
+1988-1878.   Disponible   en   http://www.juanmascarenas.eu/monograf.htm   SUNDARESAN   S.   Fixed   Income
+Markets and Their Derivatives, Academic Press, 2009
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
+BAJO, M y RODRIGUEZ, E. Gestión activa de carteras de renta fija, un enfoque práctico; BME, 2013
+
 BOLDER, D. J. Fixed-Income Portfolio Analytics, Springer, 2015
 
 DOUGLAS, L. G. Bond Risk Analysis. A guide to duration and convexity, New York Institute of Finance,
@@ -17,19 +21,14 @@ FABOZZI, F.J. Bond markets, analysis and strategies, Prentice Hall International
 
 FABOZZI, F.J. Fixed Income Mathematics: analytical and statistical techniques, Mc-Graw Hill, 1993
 
-SUNDARESAN S. Fixed Income Markets and Their Derivatives, Academic Press, 2009
-
 VERONESI,   P.  Fixed  Income  Securities:  Valuation,  Risk,  and  Risk  Management,  John  Wiley  &  Sons,  INC,
 2010
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-MASCAREÑAS,   Juan   (2018):   Monografías   de   Juan   Mascareñas   sobre   finanzas   corporativas.  ISSN  →
 MASCAREÑAS,   Juan   (2018):   Monografías   de   Juan   Mascareñas   sobre   finanzas   corporativas.   ISSN:
 1988-1878. Disponible en http://www.juanmascarenas.eu/monograf.htm
 
-✅ Recursos añadidos:
-------------------------------
-BAJO, M y RODRIGUEZ, E. Gestión activa de carteras de renta fija, un enfoque práctico; BME, 2013
+SUNDARESAN S. Fixed Income Markets and Their Derivatives, Academic Press, 2009
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

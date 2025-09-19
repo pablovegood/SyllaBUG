@@ -2,15 +2,12 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
-Alcañiz   Monge,   J.  Manual  de  Síntesis  de  Compuestos  Inorgánicos  en  el  Laboratorio,  Publicaciones  de
-la Universidad de Alicante, 2007
-
 Beyer, L.; Fernández Herrero, V. Química Inorgánica, Ariel Ciencia, última edición
 
 Brauer, G. Química Inorgánica Preparativa, Editorial Reverté, S.A., 1958
@@ -37,6 +34,9 @@ Housecroft, C.E.; Sharpe, A.G. Inorganic Chemistry, Pearson-Prentice Hall, últi
 Libros   de  Consulta  General  Atkins,  P.;  Overton,  T.;  Rourke,  J.;  Weller,  M.;  Armstrong,  F.  Shriver  &
 Atkins. Química Inorgánica, 4ªEd. McGraw-Hill, última edición
 
+Libros de Síntesis Química Inorgánica Alcañiz Monge, J. Manual de Síntesis de Compuestos Inorgánicos
+en el Laboratorio, Publicaciones de la Universidad de Alicante, 2007
+
 López   González,  J.D.;  Ortega  Cantero,  E.  Prácticas  de  Química  Inorgánica.  Publicaciones  de  la  UNED,
 1998
 
@@ -53,14 +53,10 @@ Wells, A.F. Química Inorgánica Estructural, Reverté, última edición
 
 Woollins, J.D. (Ed). Inorganic Experiments, Wiley-VCH, 2006
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Libros de Consulta General
 
 Libros de Síntesis Química Inorgánica
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

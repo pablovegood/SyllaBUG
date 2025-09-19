@@ -2,11 +2,22 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+APARICIO,   L.J.,   SÁNCHEZ,   J.L.,   ALONSO,   J.L.   (2004):   Recursos   territoriales  y  geografía  de  la
+innovación industrial en España. Salamanca: Ediciones de la USAL BARNES, T. & GERTLER, M. S. (Eds.).
+(2002): The new industrial geography: regions, regulation and institutions. London: Routledge
 
-📚 Recursos sin cambios:
+ECONOMIC GEOGRAPHY (journal): http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1944-8287 HARVEY,
+D. (2007): Espacios del capital: Hacia una geografía crítica. Madrid: Akal
+
+PRECEDO, A. i VILLARIÑO, M. (1992): La localización industrial. Madrid: Síntesis ROMERO, J. (Coord.)
+(2017):   Geografía   humana   de   España.   Valencia:   Tirant  Lo  Blanch  VERA,  A.,  PALLARES-BARBERA,  M.,
+ALONSO   LOGROÑO,   M.   P.   (Coord.),   (2023)   Cadenas   globales   de   producción  y  espacios  económicos
+relacionales en contextos urbanos y regionales. Asociación Española de Geografía, Grupo de Geografía
+Económica: Bellaterra, Facultad de Filosofía y Letras. Barcelona: Universitat Autònoma de Barcelona
+
+📚 Recursos sin cambios (23):
 ------------------------------
 ACEMOGLU,   D.,   ROBINSON,   J.   (2014):   ¿Por   qué   fracasan   los   países?  Los  orígenes  del  poder,  la
 prosperidad y la pobreza. Barcelona: Booket Planeta
@@ -19,13 +30,13 @@ BENITO, P. (Coord.) (2022): Resiliencia en espacios desindustrializados. Valenci
 BENITO,   P.,   SÁNCHEZ,   J.L.,   PALLARÉS,   M.,  ALONSO,  M.P.  (2022):  Geografía  Económica.  Fundamentos,
 agentes y procesos. Valencia: Tirant lo Blanch. Crónica Geografía
 
-BOSQUE   MAUREL,   J.,   MÉNDEZ,   R.   (eds.)  (1995):  Cambio  industrial  y  desarrollo  regional  en  España.
-Barcelona: Oikos-Tau
-
 CASTELLS, M. & HALL, P. (1994): Las tecnópolis del mundo. La formación de los complejos industriales
 del siglo XXI. Madrid: Alianza
 
 D’ENTREMONT, A. (1998): Geografía Económica. Madrid: Cátedra
+
+Fundamentos,   agentes   y   procesos.  Valencia:  Tirant  lo  Blanch.  Crónica  Geografía  BOSQUE  MAUREL,  J.,
+MÉNDEZ, R. (eds.) (1995): Cambio industrial y desarrollo regional en España. Barcelona: Oikos-Tau
 
 GAGO GARCÍA, C., CÓRDOBA ORDÓÑEZ, J., ALONSO LOGROÑO, M.P., JORDÁ BORRELL, R., VENTURA FERNÁNDEZ, J.
 (Coords.)   (2022):   Territorios   comunes,   miradas   compartidas.   Aproximaciones  desde  la  geografía.
@@ -33,8 +44,6 @@ Valencia: Publicacions Universitat de València
 
 HARRINGTON, J. W. & WARF, B. (1995): Industrial location: Principles, practice, and policy. Taylor &
 Francis US
-
-HARVEY, D. (2007): Espacios del capital: Hacia una geografía crítica. Madrid: Akal
 
 IAMMARINO,   S.,  &  MCCANN,  P.  (2013):  Multinationals  and  economic  geography:  Location,  technology  and
 innovation. New York: Edward Elgar Publishing
@@ -77,22 +86,7 @@ Ariel
 ZARATE,   M.   A.   &   RUBIO,   M.  T.  (2005):  Sociedad,  economía  y  territorio.  Madrid:  Ed.  Universitaria
 Ramón Areces
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-PRECEDO, A. i VILLARIÑO, M. (1992): La localización industrial. Madrid: Síntesis ROMERO, J. (Coord.)
-(2017):   Geografía   humana   de   España.   Valencia:   Tirant  Lo  Blanch  VERA,  A.,  PALLARES-BARBERA,  M.,
-ALONSO   LOGROÑO,   M.   P.   (Coord.),   (2023)   Cadenas   globales   de   producción  y  espacios  económicos
-relacionales en contextos urbanos y regionales. Asociación Española de Geografía, Grupo de Geografía
-Económica:   Bellaterra,  Facultad  de  Filosofía  y  Letras.  Barcelona:  Universitat  Autònoma  de  Barcelona
-→  PRECEDO, A. i VILLARIÑO, M. (1992): La localización industrial. Madrid: Síntesis
-
-APARICIO,   L.J.,   SÁNCHEZ,   J.L.,   ALONSO,   J.L.   (2004):   Recursos   territoriales  y  geografía  de  la
-innovación industrial en España. Salamanca: Ediciones de la USAL BARNES, T. & GERTLER, M. S. (Eds.).
-(2002):   The   new   industrial   geography:   regions,  regulation  and  institutions.  London:  Routledge  →
-APARICIO,   L.J.,   SÁNCHEZ,   J.L.,   ALONSO,   J.L.   (2004):   Recursos   territoriales  y  geografía  de  la
-innovación industrial en España. Salamanca: Ediciones de la USAL
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (16):
 ------------------------------
 AA.VV.   (2016):   Plan   Nacional  de  Patrimonio  Industrial.  Madrid:  Ministerio  de  Educación,  Cultura  y
 Deportes
@@ -106,6 +100,9 @@ AMDRÉS   LÓPEZ,   A.,   SORIA   CÁCERES,   C.H.   (2023):   El  estudio  del 
 cincuenta   años   de   análisis   sobre   el   legado   de  la  industrialización  contemporánea  (1972-2022).
 Cuadernos Geográficos 62(1), 208-232. https://orcid.org/0000-0001-9377-8695
 
+APARICIO,   L.J.,   SÁNCHEZ,   J.L.,   ALONSO,   J.L.   (2004):   Recursos   territoriales  y  geografía  de  la
+innovación industrial en España. Salamanca: Ediciones de la USAL
+
 BARNES,   T.   &   GERTLER,  M.  S.  (Eds.).  (2002):  The  new  industrial  geography:  regions,  regulation  and
 institutions. London: Routledge
 
@@ -117,9 +114,13 @@ Madrid: Paraninfo
 FERNÁNDEZ CUESTA, G., QUIRÓS LINARES, F. (Coords.) (2010): Atlas Temático de España (Vol. 4: Minería
 y energía. Industria. Comercio y turismo). Madrid: Nobel
 
+HARVEY, D. (2007): Espacios del capital: Hacia una geografía crítica. Madrid: Akal
+
 NADAL, J. (1981). El fracaso de la revolución industrial en España 1814-1913. Barcelona: Ariel
 
 NADAL, J. (2003): Atlas de la industrialización de España 1750-2000. Barcelona: Crítica
+
+PRECEDO, A. i VILLARIÑO, M. (1992): La localización industrial. Madrid: Síntesis
 
 ROMERO, J. (Coord.) (2017): Geografía humana de España. Valencia: Tirant Lo Blanch
 
@@ -131,4 +132,4 @@ producción y espacios económicos relacionales en contextos urbanos y regionale
 de   Geografía,   Grupo  de  Geografía  Económica:  Bellaterra,  Facultad  de  Filosofía  y  Letras.  Barcelona:
 Universitat Autònoma de Barcelona
 
-📊 Porcentaje estimado de cambio: 55% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 48% [████░░░░░░]

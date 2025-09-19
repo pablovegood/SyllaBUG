@@ -2,24 +2,13 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Bioquímica:   curso   básico.   Tymoczko   J.L.,   Berg  J.M.  y  Stryer  L.  Ed.  Reverté,  2014  Fundamentos  de
+Bioquímica.   La   vida   a   nivel  molecular.  D.  Voet,  J.  G.  Voet,  C.  W.  Pratt.  4ª  ed.  Editorial  Médica
+Panamericana. 2016 Nelson DL and Cox MM. Lehninger. Principios de Bioquímica. 5ª ed. Ed. Omega. 2009
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Médica   Panamericana.   2015.   Bioquímica.   Fundamentos   para  Medicina  y  Ciencias  de  la  vida.  Müller-
-Esterl   W.  Ed.  Reverté,  Barcelona,  2008.  Bioquímica:  curso  básico.  Tymoczko  J.L.,  Berg  J.M.  y  Stryer
-L.   Ed.   Reverté,  2014  Fundamentos  de  Bioquímica.  La  vida  a  nivel  molecular.  D.  Voet,  J.  G.  Voet,  C.
-W.   Pratt.  4ª  ed.  Editorial  Médica  Panamericana.  2016  Nelson  DL  and  Cox  MM.  Lehninger.  Principios  de
-Bioquímica.   5ª   ed.   Ed.   Omega.   2009   →   Fundamentos  de  Bioquímica.  La  vida  a  nivel  molecular.  D.
-Voet, J. G. Voet, C. W. Pratt. 4ª ed. Editorial Médica Panamericana. 2016
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (2):
 ------------------------------
 Bioquímica.   Conceptos   esenciales.   Feduchi   E.,   Romero  C.,  Yáñez  E.,  Blasco  I.,  García-Hoz  C.  Ed.
 Médica Panamericana. 2015
@@ -27,8 +16,13 @@ Médica Panamericana. 2015
 Bioquímica.   Fundamentos   para   Medicina   y   Ciencias   de   la   vida.   Müller-Esterl   W.  Ed.  Reverté,
 Barcelona, 2008
 
+✅ Recursos añadidos (3):
+------------------------------
 Bioquímica: curso básico. Tymoczko J.L., Berg J.M. y Stryer L. Ed. Reverté, 2014
+
+Fundamentos   de   Bioquímica.   La   vida   a   nivel  molecular.  D.  Voet,  J.  G.  Voet,  C.  W.  Pratt.  4ª  ed.
+Editorial Médica Panamericana. 2016
 
 Nelson DL and Cox MM. Lehninger. Principios de Bioquímica. 5ª ed. Ed. Omega. 2009
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 80% [████████░░]

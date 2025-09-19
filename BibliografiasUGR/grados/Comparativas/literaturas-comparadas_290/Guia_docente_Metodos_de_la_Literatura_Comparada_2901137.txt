@@ -2,11 +2,13 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Cattrysse, Patrick (1992) “Film (Adaptation) as Translation: Some Methodological Proposals”, Target,
+4(1):53-70.   DOI:   10.1075/target.4.1.05cat   Cattrysse,   Patrick  (1997)  “The  Unbearable  Lightness  of
+Being Adaptation seen from a different perspective”, Literature-Film Quarterly, 25(3):222-230
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (43):
 ------------------------------
 Ashcroft,   Bill,   Griffiths,   Gareth   y   Tiffin,   Helen   (1989)   The  Empires  Writes  Back.  Theory  and
 Practice in Post-colonial Literatures, Londres/Nueva York, Routledge
@@ -17,10 +19,27 @@ Londres/Nueva York, Routledge
 Ashcroft,   Bill,   Griffiths,   Gareth   y   Tiffin,  Helen  (1998)  Key  Concepts  in  Post-Colonial  Studies,
 Londres/Nueva York, Routledge
 
+Bernheimer,   Charles   (ed.)  (1995)  Comparative  Literature  in  the  Age  of  Multiculturalism,  Baltimore,
+John Hopkins University
+
 Bhabha, Homi K. (1990) Nation and Narration, Londres/Nueva York, Routledge
+
+Bhabha, Homi K. (1994) The Location of Culture, Londres/Nueva York, Routledge
+
+Bluestone, George (2003) Novels into film, Baltimore, John Hopkins University Press
+
+Carmona, Ramón (1993) Cómo se comenta un texto fílmico, Madrid, Cátedra
 
 Chatman, Seymour (1978) Historia y discurso. La estructura narrativa en la novela y el cine, Madrid,
 Taurus, 1990
+
+Chillón,   Albert   (2014)   La   palabra   facticia.   Literatura,   periodismo  y  comunicación,  Barcelona,
+Universitat Autònoma de Barcelona
+
+Domínguez,   César,   Saussy,   Haun   y   Villanueva,   Darío   (2016)   Lo   que  Borges  enseñó  a  Cervantes.
+Introducción a la Literatura comparada, Madrid, Taurus
+
+During, Simon (2005) Cultural Studies, New York, Routledge
 
 During, Simon (ed.) (1980) The Cultural Studies Reader, London/New York, Routledge
 
@@ -39,54 +58,9 @@ intermedial, Orbis Tertius, Villeurbanne
 García,   Santiago   (2013)   Supercómic:  mutaciones  de  la  novela  gráfica  contemporánea,  Madrid,  Errata
 Naturae
 
-Ngugi   Wa   Thiong’o   (1986)   Decolonising   the  Mind:  The  Politics  of  Language  in  African  Literature,
-Londres, J. Currey
-
-Rebollo, Félix (2011) Literatura y periodismo en el siglo XXI, Fragua, Madrid
-
-Stam,   Robert   &   Raengo,   Aleksandra   (2005   )   Literature   and  Film.  A  Guide  to  the  Theory  of  Film
-Adaptation, Oxford, Blackwell
-
-Sánchez   Noriega,   José   Luis   (2000)   De  la  literatura  al  cine.  Teoría  y  análisis  de  la  adaptación,
-Barcelona, Paidós
-
-Trabado,   José   Manuel   (ed.)   (2020).   Encrucijadas   gráfico   narrativas:   novela   gráfica   y  álbum
-ilustrado, Gijón, TREA
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Bernheimer,   Charles   (ed.)  (1995)  Comparative  Literature  in  the  Age  of  Multiculturalism,  Baltimore,
-John Hopkins University
-
-Bhabha, Homi K. (1994) The Location of Culture, Londres/Nueva York, Routledge
-
-Bluestone, George (2003) Novels into film, Baltimore, John Hopkins University Press
-
-Carmona, Ramón (1993) Cómo se comenta un texto fílmico, Madrid, Cátedra
-
-Cattrysse, Patrick (1992) “Film (Adaptation) as Translation: Some Methodological Proposals”, Target,
-4(1):53-70. DOI: 10.1075/target.4.1.05cat
-
-Cattrysse,   Patrick   (1997)   “The   Unbearable   Lightness   of   Being  Adaptation  seen  from  a  different
-perspective”, Literature-Film Quarterly, 25(3):222-230
-
-Chillón,   Albert   (2014)   La   palabra   facticia.   Literatura,   periodismo  y  comunicación,  Barcelona,
-Universitat Autònoma de Barcelona
-
-Domínguez,   César,   Saussy,   Haun   y   Villanueva,   Darío   (2016)   Lo   que  Borges  enseñó  a  Cervantes.
-Introducción a la Literatura comparada, Madrid, Taurus
-
-During, Simon (2005) Cultural Studies, New York, Routledge
-
 Gimferrer, Pere (1985) Cine y literatura, Barcelona, Seix Barral, 2005
 
 Gnisci, Armando ed. (2002) Introducción a la Literatura comparada, Barcelona, Crítica
-
-McCloud, Scott (2014) Entender el cómic: el arte invisible . Bilbao, Astiberri
 
 Mitchell, W. J. T. (1986) Iconology. Image, Text, Ideology, Chicago, University of Chicago Press
 
@@ -96,6 +70,9 @@ Monegal, Antonio (1998) Literatura y pintura, Madrid, Arco Libros
 
 Monegal,   Antonio   (ed.)   (2008)   El   reto   de  la  literatura  comparada.  In  memoriam  Claudio  Guillén,
 Insula: revista de Letras y Ciencias Humanas, nº 733-734
+
+Ngugi   Wa   Thiong’o   (1986)   Decolonising   the  Mind:  The  Politics  of  Language  in  African  Literature,
+Londres, J. Currey
 
 Peña-Ardid, Carmen (1992) Literatura y cine, Madrid, Cátedra
 
@@ -108,6 +85,8 @@ Salamanca, ediciones de la Universidad de Salamanca
 Rajewsky,   Irina  O.  (2005)  "Intermediality,  Intertextuality,  and  Remediation:  A  Literary  Perspective
 on   Intermediality",   Intermédialités:  histoire  et  théorie  des  arts,  des  lettres  et  des  techniques  /
 Intermediality: History and Theory of the Arts, Literature and Technologies, n° 6, pp 43-64
+
+Rebollo, Félix (2011) Literatura y periodismo en el siglo XXI, Fragua, Madrid
 
 Said, Edward (1978) Orientalismo, Barcelona, Debolsillo, 2002
 
@@ -126,9 +105,28 @@ Spivak, Gayatri Ch. (1987) In Other Worlds. Essays in Cultural Politics, Nueva Y
 Spivak,   Gayatri   Ch.   (1999)   Crítica   de   la   razón   poscolonial.   Hacia   una  critica  del  presente
 evanescente, Madrid, Akal, 2010
 
+Stam,   Robert   &   Raengo,   Aleksandra   (2005   )   Literature   and  Film.  A  Guide  to  the  Theory  of  Film
+Adaptation, Oxford, Blackwell
+
+Sánchez   Noriega,   José   Luis   (2000)   De  la  literatura  al  cine.  Teoría  y  análisis  de  la  adaptación,
+Barcelona, Paidós
+
 Trabado,   José   Manuel  (comp.)  (2013)  La  novela  gráfica.  Poéticas  y  modelos  narrativos,  Madrid,  Arco
 Libros
 
+Trabado,   José   Manuel   (ed.)   (2020).   Encrucijadas   gráfico   narrativas:   novela   gráfica   y  álbum
+ilustrado, Gijón, TREA
+
 Vega, M.ª José (2003) Imperios de papel. Introducción a la crítica postcolonial, Barcelona, Crítica
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (3):
+------------------------------
+Cattrysse, Patrick (1992) “Film (Adaptation) as Translation: Some Methodological Proposals”, Target,
+4(1):53-70. DOI: 10.1075/target.4.1.05cat
+
+Cattrysse,   Patrick   (1997)   “The   Unbearable   Lightness   of   Being  Adaptation  seen  from  a  different
+perspective”, Literature-Film Quarterly, 25(3):222-230
+
+McCloud, Scott (2014) Entender el cómic: el arte invisible . Bilbao, Astiberri
+
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

@@ -2,11 +2,11 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 Aber, J.D. y J.M. Melillo. 2001. Terrestrial Ecosystems, 2nd edition. Academic Press
 
@@ -14,6 +14,10 @@ Begon, M, J.L. Harper, y C.R. Townsend. Ecología, 3ª edición. 1999. Omega
 
 Chapin, F.S., P.A. Matson y H.A. Money. 2002. Principles of Terrestrial Ecosystems Ecology. Springer
 Verlag
+
+Editorial   Parques  UICN  (2020).  Estándar  Global  de  la  UICN  para  soluciones  basadas  en  la  naturaleza.
+Un   marco   sencillo   para   la  verificación,  el  diseño  y  la  extensión  de  SbN.  Primera  edición.  Gland,
+Suiza: UICN
 
 Freedman, B. 1995. Environmental Ecology, 2nd edition. Academic Press
 
@@ -45,16 +49,9 @@ Primack, R.B. y J.D. Ros. 2002. Introducción a la biología de la conservación
 
 Smith, R.L. y T.M. Smith. 2000. Ecología, 4ª ed. Addison Wesley
 
-UICN   (2020).  Estándar  Global  de  la  UICN  para  soluciones  basadas  en  la  naturaleza.  Un  marco  sencillo
-para la verificación, el diseño y la extensión de SbN. Primera edición. Gland, Suiza: UICN
-
 Valladares, F. (ed.) 2005. Ecología del bosque Mediterráneo en un mundo cambiante. Editorial Parques
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

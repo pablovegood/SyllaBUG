@@ -2,11 +2,31 @@
 Grado: nutrichnay-dietet-ciencia-tecnol-alimentos (211)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Berk   Z.   Food   Process   Engineering  and  Technology.  Ed.  Academic  Press,  2018.  Disponible  en  formato
+electrónico   en   la   biblioteca   de   la  UGR:  https://www.sciencedirect.com/book/9  780124159235/food-
+process-engineering-and-technology.   Brennan  J.G.  y  cols.  Food  Processing  Handbook.  Ed.  Wiley,  2012.
+Disponible       en       formato       electrónico      en      la      biblioteca      de      la      UGR:
+https://ebookcentral.proquest.com/lib/ugr/detail.action?docID=693851   Chhabra   R.  and  Basavaraj  M.G.
+Coulson   and   Richardson's   Chemical   Engineering.   Volume   2a:   Particulate   Systems   and   Particle
+Technology.   Ed.   ELSEVIER,   2019.   Disponible   en   formato   electrónico   en   la   biblioteca   de   la
+UGR:https://www.sciencedirect.com/book/9780               081010983/coulson-and-richardsons-chemical-
+engineering#book-description   Fellows,   P.   Tecnología   del  Procesado  de  los  Alimentos:  Principios  y
+Prácticas, Ed. Acribia
 
-📚 Recursos sin cambios:
+Disponible en Biblioteca de la Facultad de Ciencias FCI/664 MCC foo. Ordóñez J.A. y cols. Tecnología
+de   los  Alimentos.  Vol  I.  Componentes  de  los  Alimentos  y  Procesos.  Ed.  Síntesis,  1998.  Disponible  en
+Biblioteca   de   la   Facultad   de   Farmacia   FFA/664   TEC  tec1.  Rodríguez  F.  y  cols.  Ingeniería  de  la
+Industria   Alimentaria.   Vol.   II.   Operaciones   de   Procesado   de   Alimentos.   Ed.   Síntesis,  2002.
+Disponible en Biblioteca de la Facultad de Farmacia FFA/664 ING ing 2
+
+📚 Recursos sin cambios (1):
+------------------------------
+McClements D.J. Food Emulsions: Principles, Practice and Techniques. Ed. CRC Press, 2016. Disponible
+en Biblioteca de la Facultad de Ciencias FCI/664 MCC foo
+
+✅ Recursos añadidos (6):
 ------------------------------
 Berk   Z.   Food   Process   Engineering  and  Technology.  Ed.  Academic  Press,  2018.  Disponible  en  formato
 electrónico   en   la   biblioteca   de   la   UGR:  https://www.sciencedirect.com/book/9780124159235/food-
@@ -15,8 +35,13 @@ process-engineering-and-technology
 Brennan J.G. y cols. Food Processing Handbook. Ed. Wiley, 2012. Disponible en formato electrónico en
 la biblioteca de la UGR: https://ebookcentral.proquest.com/lib/ugr/detail.action?docID=693851
 
-McClements D.J. Food Emulsions: Principles, Practice and Techniques. Ed. CRC Press, 2016. Disponible
-en Biblioteca de la Facultad de Ciencias FCI/664 MCC foo
+Chhabra   R.  and  Basavaraj  M.G.  Coulson  and  Richardson's  Chemical  Engineering.  Volume  2a:  Particulate
+Systems   and   Particle   Technology.   Ed.   ELSEVIER,   2019.   Disponible   en  formato  electrónico  en  la
+biblioteca    de    la    UGR:https://www.sciencedirect.com/book/9780081010983/coulson-and-richardsons-
+chemical-engineering#book-description
+
+Fellows,   P.   Tecnología   del  Procesado  de  los  Alimentos:  Principios  y  Prácticas,  Ed.  Acribia,  2018.
+Disponible en Biblioteca de la Facultad de Farmacia FFA/664 FEL tec
 
 Ordóñez   J.A.   y   cols.  Tecnología  de  los  Alimentos.  Vol  I.  Componentes  de  los  Alimentos  y  Procesos.
 Ed. Síntesis, 1998. Disponible en Biblioteca de la Facultad de Farmacia FFA/664 TEC tec1
@@ -24,20 +49,4 @@ Ed. Síntesis, 1998. Disponible en Biblioteca de la Facultad de Farmacia FFA/664
 Rodríguez   F.   y   cols.  Ingeniería  de  la  Industria  Alimentaria.  Vol.  II.  Operaciones  de  Procesado  de
 Alimentos. Ed. Síntesis, 2002. Disponible en Biblioteca de la Facultad de Farmacia FFA/664 ING ing 2
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Chhabra   R.  and  Basavaraj  M.G.  Coulson  and  Richardson's  Chemical  Engineering.  Volume  2a:  Particulate
-Systems    and    Particle   Technology.   Ed.   ELSEVIER,   2019.   Disponible   en   081010983/coulson-and-
-richardsons-chemical-engineering#book-description   Fellows,   P.   Tecnología   del   Procesado   de   los
-Alimentos:   Principios   y   Prácticas,   Ed.  Acribia,  2018.  Disponible  en  Biblioteca  de  la  Facultad  de
-Farmacia   FFA/664   FEL   tec   →   Fellows,   P.  Tecnología  del  Procesado  de  los  Alimentos:  Principios  y
-Prácticas, Ed. Acribia, 2018. Disponible en Biblioteca de la Facultad de Farmacia FFA/664 FEL tec
-
-✅ Recursos añadidos:
-------------------------------
-Chhabra   R.  and  Basavaraj  M.G.  Coulson  and  Richardson's  Chemical  Engineering.  Volume  2a:  Particulate
-Systems   and   Particle   Technology.   Ed.   ELSEVIER,   2019.   Disponible   en  formato  electrónico  en  la
-biblioteca    de    la    UGR:https://www.sciencedirect.com/book/9780081010983/coulson-and-richardsons-
-chemical-engineering#book-description
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

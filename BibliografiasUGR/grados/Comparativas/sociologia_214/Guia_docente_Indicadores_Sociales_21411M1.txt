@@ -2,11 +2,22 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+EUROPEAN   COMMISSION,   Directorate-General   for   Research   and   Innovation,  Flecha,  R.,  Radauer,  A.,
+Besselaar,   P.,   Monitoring   the   impact   of   EU   Framework  Programmes  :  expert  report,  Publications
+Office, 2018, https://data.europa.eu/doi/10.2777/518781 GÓMEZ, Aitor; SILES, Gregor; TEJEDOR, María.
+Contribuyendo   a   la  transformación  social  a  través  de  la  metodología  comunicativa  de  investigación.
+Qualitative Research in Education, 2012, vol. 1, no 1, p. 36-57
 
-📚 Recursos sin cambios:
+MOSER,   C.   :  «  The  mesure  de  la  qualite  de  la  vie  »,  in  Analyse  et  prevision,  T.  XI,  2,  Paris,  MTSS
+(Ministerio de Trabajo y Seguridad Social) : Indicadores sociales lista OCDE, Madrid, MTAS, 1985
+
+STIGLITZ,   Joseph;   SEN,   Amartya   &   FITOUSSI,  Jean.  Report  of  the  Commission  on  the  Measurement  of
+Economic   Performance   and   Social   Progress   (CMEPSP).   2009   BAUER,   R.   (ed):   Social  Indicators,
+Cambridge, MTI Press, 1966
+
+📚 Recursos sin cambios (19):
 ------------------------------
 BELTRÁN,   M.   :   “Cinco   vías   de  acceso  a  la  realidad  social”,  en  GARCIA,  M.  IBÁÑEZ,  J.  y  F.  ALVIRA
 (comp.): Análisis de la realidad social, Madrid, Alianza, 1992, pp.19-50
@@ -35,18 +46,10 @@ GREFFE, X. : La politique sociale, París, PUF, 1975
 
 GROSS, B.M. : The socialstate of the nation, in Trans Action, 30, Washington, 1965
 
-GÓMEZ, Aitor; SILES, Gregor; TEJEDOR, María. Contribuyendo a la transformación social a través de la
-metodología   comunicativa   de  investigación  .  Qualitative  Research  in  Education,  2012,  vol.  1,  no  1,
-p. 36-57
-
 LAND, Kenneth C. Social indicators . Annual review of sociology, 1983, vol. 9, no 1, p. 1-26
 
 MAS   (Ministerio   de  Asuntos  Sociales)  :  Indicadores  sociales  para  la  mujer,  Madrid,  Instituto  de  la
 Mujer, 1989
-
-MOSER,   C.  :  «  The  mesure  de  la  qualite  de  la  vie  »,  in  Analyse  et  prevision,  T.  XI,  2,  Paris,  1971.
-MTSS   (Ministerio   de   Trabajo   y  Seguridad  Social)  :  Indicadores  sociales  lista  OCDE,  Madrid,  MTAS,
-1985
 
 OCDE   (Organización   para   la   Cooperación   y  el  Desarrollo  Económico)  :  Mesure  du  bien  etre  social,
 Paris, 1976. PASK, G. : “Relativism”, The cybernetics of human learning and performance, Hutchinson,
@@ -59,6 +62,8 @@ REALE,   Emanuela,   et   al.  A  review  of  literature  on  evaluating  the  s
 impact   of   social   sciences   and  humanities  research  .  Research  Evaluation,  2018,  vol.  27,  no  4,  p.
 298-308
 
+RUSSET, B.M. : Análisis comparado de indicadores sociales y políticos,Madrid, Ed. Católica, 1968
+
 SETIEN, Mª.L. : Indicadores sociales de calidad de vida, Madrid, CIS, 1993
 
 STAFFORD,   J.   :Historie,   analyse   et   critique   des   paradigmes   des   theories   et   de  methodes  de
@@ -67,21 +72,23 @@ París, EHSS, 1978
 
 ZETTERGERG, H. : Teoría y verificación en sociología, Buenos Aires, Nueva Visión, 1965
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-STIGLITZ,   Joseph;   SEN,   Amartya   &   FITOUSSI,  Jean.  Report  of  the  Commission  on  the  Measurement  of
-Economic   Performance   and   Social   Progress   (CMEPSP).   2009   BAUER,   R.   (ed):   Social  Indicators,
-Cambridge, MTI Press, 1966  →  BAUER, R. (ed): Social Indicators, Cambridge, MTI Press, 1966
+BAUER, R. (ed): Social Indicators, Cambridge, MTI Press, 1966
 
-✅ Recursos añadidos:
-------------------------------
 EUROPEAN   COMMISSION,   Directorate-General   for   Research   and   Innovation,  Flecha,  R.,  Radauer,  A.,
 Besselaar,   P.,   Monitoring   the   impact   of   EU   Framework  Programmes  :  expert  report,  Publications
 Office, 2018, https://data.europa.eu/doi/10.2777/518781
 
-RUSSET, B.M. : Análisis comparado de indicadores sociales y políticos,Madrid, Ed. Católica, 1968
+GÓMEZ, Aitor; SILES, Gregor; TEJEDOR, María. Contribuyendo a la transformación social a través de la
+metodología   comunicativa   de  investigación  .  Qualitative  Research  in  Education,  2012,  vol.  1,  no  1,
+p. 36-57
+
+MOSER,   C.  :  «  The  mesure  de  la  qualite  de  la  vie  »,  in  Analyse  et  prevision,  T.  XI,  2,  Paris,  1971.
+MTSS   (Ministerio   de   Trabajo   y  Seguridad  Social)  :  Indicadores  sociales  lista  OCDE,  Madrid,  MTAS,
+1985
 
 STIGLITZ,   Joseph;   SEN,   Amartya   &   FITOUSSI,  Jean.  Report  of  the  Commission  on  the  Measurement  of
 Economic Performance and Social Progress (CMEPSP). 2009
 
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

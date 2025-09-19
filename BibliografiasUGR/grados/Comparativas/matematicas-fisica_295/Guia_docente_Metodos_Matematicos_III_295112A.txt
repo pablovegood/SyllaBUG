@@ -2,33 +2,27 @@
 Grado: matematicas-fisica (295)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-E.   Romera   Gutiérrez,  M.  C.  Boscá  Díaz-Pintado,  F.  Arias  de  Saavedra  Alías,  F.  J.  Gálvez  Cifuentes,
-J.   I.   Porras  Sánchez,  Métodos  Matemáticos:  Problemas  de  Espacios  de  Hilbert,  Operadores  lineales  y
-Espectros, Paraninfo, 2013
-
-P.   García   González,  J.  E.  Alvarellos  Bermejo  y  J.  J.  García  Sanz,  Introducción  al  formalismo  de  la
-mecánica cuántica, U.N.E.D., Madrid, 2001
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (10):
 ------------------------------
 A. N. Kolmogórov y S.V. Fomín, Elementos de la teoría de funciones y del análisis funcional, M.I.R.,
 1975
 
 A. Vera López y P. Alegría Ezquerra, Un curso de Análisis Funcional. Teoría y problemas, AVL, 1997
 
+E.   Romera   Gutiérrez,  M.  C.  Boscá  Díaz-Pintado,  F.  Arias  de  Saavedra  Alías,  F.  J.  Gálvez  Cifuentes,
+J.   I.   Porras  Sánchez,  Métodos  Matemáticos:  Problemas  de  Espacios  de  Hilbert,  Operadores  lineales  y
+Espectros, Paraninfo, 2013
+
 G. Helmberg, Introduction to spectral theory in Hilbert space, North Holland, 1969
 
 L. Abellanas y A. Galindo, Espacios de Hilbert, Eudema, 1987
+
+P.   García   González,  J.  E.  Alvarellos  Bermejo  y  J.  J.  García  Sanz,  Introducción  al  formalismo  de  la
+mecánica cuántica, U.N.E.D., Madrid, 2001
 
 P. Roman, Some modern mathematics for physicists and other outsiders, vol. 2, Pergamon, 1975
 
@@ -38,4 +32,8 @@ R.D. Richtmyer, Principles of Advanced Mathematical Physics, vol. 1, Springer-Ve
 
 S. K. Berberian, Introducción al espacio de Hilbert, Teide, 1977
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

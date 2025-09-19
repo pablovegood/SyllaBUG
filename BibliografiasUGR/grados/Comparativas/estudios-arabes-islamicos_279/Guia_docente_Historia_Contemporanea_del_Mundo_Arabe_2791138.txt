@@ -2,11 +2,12 @@
 Grado: estudios-arabes-islamicos (279)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Discursos e imaginarios en un contexto de cambios. Granada: Editorial Comares, 2015 MADARIAGA, María
+Rosa de. Historia de Marruecos. Madrid: Catarata: 2017
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (46):
 ------------------------------
 AYEB,   Habib.   Agua   y  poder.  Geopolítica  de  los  recursos  hidráulicos  en  Oriente  Próximo.  Barcelona:
 Bellaterra, 2001
@@ -29,6 +30,9 @@ Fondo de Cultura Económica, 1989
 
 CORM, Georges. El Líbano contemporáneo. Barcelona: Bellaterra, 2006
 
+CORM,   Georges.   Historia   de  Oriente  Medio:  De  la  Antigüedad  a  nuestros  días.  Barcelona:  Península,
+2009
+
 CORM,   Georges.   Pensamiento   y   política   en   el  mundo  árabe.  Contextos  históricos  y  problemáticas,
 siglos XIX-XXI. Barcelona: Bellaterra, 2016
 
@@ -41,6 +45,8 @@ Barcelona: Círculo de Lectores, 2006
 FLORY, Maurice (Ed.). Les régimes politiques arabes. Paris: PUF, 1990
 
 GELVIN, James L. The modern Middle East. A history. New York: Oxford University Press, 2005
+
+GHALIOUN, Burhan. Islam y política. Las traiciones de la modernidad. Barcelona: Bellaterra, 1999
 
 GUAZZONE,   Laura.   Storia  contemporanea  del  mondo  arabo:  I  paesi  arabi  dall'impero  ottomano  ad  oggi.
 Milano: Mondadori Università, 2016
@@ -57,6 +63,9 @@ Africa. Florida: Florida International University Press, 1991
 IZQUIERDO   BRICHS,  Ferran  (Ed.).  El  islam  político  en  el  Mediterráneo.  Radiografía  de  una  evolución.
 Ed. Barcelona: CIDOB, 2013
 
+KHURI, Fuad I. Imames y emires. Ortodoxia y disidencias en la sociedad árabe. Barcelona: Bellaterra,
+2000
+
 KORANY,   Bahgat;   BRYNEN,   Rex  y  NOBLE,  Paul  (Eds.).  Political  liberalization  and  democratization  in
 the Arab world. Boulder: Lynne Rienner Publishers, 1998
 
@@ -67,6 +76,9 @@ Madrid: UAM, 2011
 
 LÓPEZ   GARCÍA,   Bernabé.   El   mundo   arabo-islámico   contemporáneo.   Una   historia  política.  Madrid:
 Síntesis, 1997
+
+MACÍAS   AMORETTI,   Juan   A.   y   ARIGITA   MAZA,   Elena  (Eds.).  (Dis)continuidades  árabes.  Discursos  e
+imaginarios en un contexto de cambios. Granada: Editorial Comares, 2015
 
 MARTÍN   MUÑOZ,   Gema.   El   Estado   Árabe.  Crisis  de  legitimidad  y  contestación  islamista.  Barcelona:
 Bellaterra, 1999
@@ -85,8 +97,12 @@ MÉNORET, Pascal. The Saudi enigma. A history. London-New York: Zed Books, 2005
 ORTEGA   RODRIGO,  Rafael.  El  movimiento  islamista  sudanés.  Discursos,  estrategias  y  transformaciones.
 Alcalá la Real: Alcalá Grupo Editorial, 2010
 
+PAPPÉ, Ilan. The Modern Middle East. A Social and cultural history. 3ª ed. Londres: Routledge, 2014
+
 PLANHOL,   Xavier   de.   Las   naciones  del  Profeta.  Manual  de  geografía  política  musulmana.  Barcelona:
 Bellaterra, 1998
+
+PLANHOL, Xavier de. Minoría en el Islam. Una geografía de la pluralidad. Barcelona: Bellaterra, 2002
 
 SADIKI, Larbi. The search for Arab democracy. Discourses and counter-discourses. London: Hurst, 2004
 
@@ -116,27 +132,8 @@ Madrid: La Catarata, 2001
 ‘AṬĀLLĀH,   Šawqī.   Tārīj   al-‘ālam   al-‘arabī   l-ḥadīt  wa-l-mu’āṣir  min  al-fatḥ  al-‘utmānī  li-l’ālam
 al-‘arabī ilà l-waqt al-ḥāḍir. El Cairo: al-Maktab al-miṣrī li-tawzī‘ al-maṭbū’āt, 2007
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Discursos e imaginarios en un contexto de cambios. Granada: Editorial Comares, 2015 MADARIAGA, María
-Rosa   de.   Historia   de   Marruecos.   Madrid:   Catarata:  2017  →  MADARIAGA,  María  Rosa  de.  Historia  de
-Marruecos. Madrid: Catarata: 2017
+MADARIAGA, María Rosa de. Historia de Marruecos. Madrid: Catarata: 2017
 
-✅ Recursos añadidos:
-------------------------------
-CORM,   Georges.   Historia   de  Oriente  Medio:  De  la  Antigüedad  a  nuestros  días.  Barcelona:  Península,
-2009
-
-GHALIOUN, Burhan. Islam y política. Las traiciones de la modernidad. Barcelona: Bellaterra, 1999
-
-KHURI, Fuad I. Imames y emires. Ortodoxia y disidencias en la sociedad árabe. Barcelona: Bellaterra,
-2000
-
-MACÍAS   AMORETTI,   Juan   A.   y   ARIGITA   MAZA,   Elena  (Eds.).  (Dis)continuidades  árabes.  Discursos  e
-imaginarios en un contexto de cambios. Granada: Editorial Comares, 2015
-
-PAPPÉ, Ilan. The Modern Middle East. A Social and cultural history. 3ª ed. Londres: Routledge, 2014
-
-PLANHOL, Xavier de. Minoría en el Islam. Una geografía de la pluralidad. Barcelona: Bellaterra, 2002
-
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

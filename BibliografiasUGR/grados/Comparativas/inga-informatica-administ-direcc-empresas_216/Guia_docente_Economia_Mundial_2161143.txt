@@ -2,11 +2,13 @@
 Grado: inga-informatica-administ-direcc-empresas (216)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Requeijo,   J.  2021.  Economía  Mundial,  6ª  ed.  revisada,  Ed.  Mc  Graw-Hill,  Madrid.  Acceso  a  la  edición
+online (2014) en https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014243248004990 Sáez
+Lozano, J. L (coord.). 2010. La Primera Crisis en la Economía Global. Thomson Reuters Civitas
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (42):
 ------------------------------
 Allen, Robert. C. 2013. Historia Económica Mundial: Una breve introducción. Alianza Editorial Madrid
 
@@ -112,16 +114,11 @@ Vidal, J. Mª y Martínez, J. (coord.) 2000. Economía Mundial. 2ª edición, Mc
 Wallerstein,   I.  1979.  El  moderno  sistema  mundial  I,  la  agricultura  capitalista  y  los  orígenes  de  la
 economía-mundo europea en el siglo XVI
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Requeijo,   J.  2021.  Economía  Mundial,  6ª  ed.  revisada,  Ed.  Mc  Graw-Hill,  Madrid.  Acceso  a  la  edición
-online   (2014)  en  Sáez  Lozano,  J.  L  (coord.).  2010.  La  Primera  Crisis  en  la  Economía  Global.  Thomson
-Reuters   Civitas   →   Sáez   Lozano,   J.   L   (coord.).   2010.  La  Primera  Crisis  en  la  Economía  Global.
-Thomson Reuters Civitas
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Requeijo,   J.  2021.  Economía  Mundial,  6ª  ed.  revisada,  Ed.  Mc  Graw-Hill,  Madrid.  Acceso  a  la  edición
 online (2014) en https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014243248004990
 
-📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
+Sáez Lozano, J. L (coord.). 2010. La Primera Crisis en la Economía Global. Thomson Reuters Civitas
+
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

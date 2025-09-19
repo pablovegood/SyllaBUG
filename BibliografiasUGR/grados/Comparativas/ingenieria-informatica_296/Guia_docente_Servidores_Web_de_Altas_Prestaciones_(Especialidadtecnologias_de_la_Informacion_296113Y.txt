@@ -2,11 +2,22 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+ISBN:   978-0-596-00529-0.   2003   Jeremy   D.   Zawodny,   Derek   J.   Balling.   High   Performance  MySQL.
+Optimization,   Backups,  Replication,  Load  Balancing  &  More.  O'Reilly  Media.  ISBN:  978-0-596-00306-7.
+2004   MySQL  Clustering.  MySQL  Press;  1  edition.  ISBN-13:  978-0672328558.  2006  Abbott,  Martin  L.,  and
+Fisher,   Michael  T..  The  Art  of  Scalability:  Scalable  Web  Architecture,  Processes,  and  Organizations
+for the Modern Enterprise. Reino Unido, Pearson Education, 2015
 
-📚 Recursos sin cambios:
+O'Reilly   Media,   1   edition,   2007  Richard  D.  Hackathorn,  Morgan  Kaufmann.  Web  Farming  for  the  Data
+Warehouse.   Series   in   Data   Management  Systems,  ISBN-13:  9781558605039.  1998  Jon  Orwant.  Linux  Web
+Server CD Bookshelf, Version 2.0, Second Edition. O'Reilly Media
+
+Prentice   Hall   PTR.   ISBN-13:  978-0130962881.  2000  Reliable  Linux:  Assuring  High  Availability.  Iain
+Campbell. John Wiley & Sons; 1st edition
+
+📚 Recursos sin cambios (10):
 ------------------------------
 Blueprints for High Availability. Marcus, Evan, and Stern, Hal. Alemania, Wiley, 2003
 
@@ -23,40 +34,29 @@ Deploying   and   Managing   Microsoft  .NET  Web  Farms.  Pearson  Temp  Net  S
 James   Sonderegger,   Orin   Blomberg,  Kieran  Milne,  Senad  Palislamovic.  JUNOS  High  Availability:  Best
 Practices for High Network Uptime. O'Reilly Media, Inc., 2009
 
+Pedro    A.    Castillo    Valdivieso.    Diseño    de    Servidores   Web   de   Altas   Prestaciones.   ISBN:
+978-84-16535-30-9.   Depósito   Legal:   GR   68-2016.  Editorial  Técnica  Avicam  -  Librería  Fleming.  2016
 Pedro   A.   Castillo   Valdivieso.   Material   Didáctico   para   el   Diseño   de   Servidores  Web  de  Altas
 Prestaciones.   ISBN:   978-84-16535-33-0.   Depósito   Legal:   GR   86-2016.   Editorial  Técnica  Avicam  -
-Librería Fleming. 2016
+Librería   Fleming.   2016   S.   Souders.  High  Performance  Web  Sites:  Essential  Knowledge  for  Front-End
+Engineers
 
 Plugge,   Eelco,   et   al.  Practical  Load  Balancing:  Ride  the  Performance  Tiger.  Países  Bajos,  Apress,
 2012
 
+Reliable   Linux:  Assuring  High  Availability.  Iain  Campbell.  John  Wiley  &  Sons;  1st  edition.  ISBN-13:
+9780471070405. 2001
+
 Richard   Fox,   Wei   Hao.  Internet  Infrastructure:  Networking,  Web  Services,  and  Cloud  Computing.  CRC
 Press, 2017
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Prentice   Hall   PTR.   ISBN-13:  978-0130962881.  2000  Reliable  Linux:  Assuring  High  Availability.  Iain
-Campbell.   John   Wiley   &  Sons;  1st  edition.  ISBN-13:  9780471070405.  2001  →  Reliable  Linux:  Assuring
-High Availability. Iain Campbell. John Wiley & Sons; 1st edition. ISBN-13: 9780471070405. 2001
-
-9780672320576.   2001   High   Availability:  Design,  Techniques  and  Processes.  Floyd  Piedad,  Michael  W.
-Hawkins   →   High   Availability:   Design,  Techniques  and  Processes.  Floyd  Piedad,  Michael  W.  Hawkins.
-Prentice Hall PTR. ISBN-13: 978-0130962881. 2000
-
-O'Reilly   Media,   1   edition,   2007  Richard  D.  Hackathorn,  Morgan  Kaufmann.  Web  Farming  for  the  Data
-Warehouse.   Series   in   Data   Management  Systems,  ISBN-13:  9781558605039.  1998  Jon  Orwant.  Linux  Web
-Server   CD   Bookshelf,   Version   2.0,   Second  Edition.  O'Reilly  Media.  ISBN:  978-0-596-00529-0.  2003
-Jeremy   D.   Zawodny,   Derek   J.  Balling.  High  Performance  MySQL.  Optimization,  Backups,  Replication,
-Load   Balancing  &  More.  O'Reilly  Media.  ISBN:  978-0-596-00306-7.  2004  MySQL  Clustering.  MySQL  Press;
-1   edition.   ISBN-13:   978-0672328558.   2006   Abbott,   Martin  L.,  and  Fisher,  Michael  T..  The  Art  of
-Scalability:   Scalable   Web   Architecture,   Processes,   and  Organizations  for  the  Modern  Enterprise.
-Reino   Unido,   Pearson  Education,  2015  →  Richard  D.  Hackathorn,  Morgan  Kaufmann.  Web  Farming  for  the
-Data Warehouse. Series in Data Management Systems, ISBN-13: 9781558605039. 1998
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 Abbott,   Martin   L.,   and   Fisher,   Michael   T..   The  Art  of  Scalability:  Scalable  Web  Architecture,
 Processes, and Organizations for the Modern Enterprise. Reino Unido, Pearson Education, 2015
+
+High Availability: Design, Techniques and Processes. Floyd Piedad, Michael W. Hawkins. Prentice Hall
+PTR. ISBN-13: 978-0130962881. 2000
 
 Jeremy   D.   Zawodny,   Derek   J.  Balling.  High  Performance  MySQL.  Optimization,  Backups,  Replication,
 Load Balancing & More. O'Reilly Media. ISBN: 978-0-596-00306-7. 2004
@@ -66,10 +66,17 @@ Jon   Orwant.   Linux   Web   Server   CD   Bookshelf,   Version  2.0,  Second  
 
 MySQL Clustering. MySQL Press; 1 edition. ISBN-13: 978-0672328558. 2006
 
-Pedro    A.    Castillo    Valdivieso.    Diseño    de    Servidores   Web   de   Altas   Prestaciones.   ISBN:
-978-84-16535-30-9. Depósito Legal: GR 68-2016. Editorial Técnica Avicam - Librería Fleming. 2016
+Pedro   A.   Castillo   Valdivieso.   Material   Didáctico   para   el   Diseño   de   Servidores  Web  de  Altas
+Prestaciones.   ISBN:   978-84-16535-33-0.   Depósito   Legal:   GR   86-2016.   Editorial  Técnica  Avicam  -
+Librería Fleming. 2016
+
+Reliable   Linux:  Assuring  High  Availability.  Iain  Campbell.  John  Wiley  &  Sons;  1st  edition.  ISBN-13:
+9780471070405. 2001
+
+Richard   D.   Hackathorn,   Morgan   Kaufmann.   Web   Farming   for   the   Data   Warehouse.  Series  in  Data
+Management Systems, ISBN-13: 9781558605039. 1998
 
 S. Souders. High Performance Web Sites: Essential Knowledge for Front-End Engineers. O'Reilly Media,
 1 edition, 2007
 
-📊 Porcentaje estimado de cambio: 69% [██████░░░░]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

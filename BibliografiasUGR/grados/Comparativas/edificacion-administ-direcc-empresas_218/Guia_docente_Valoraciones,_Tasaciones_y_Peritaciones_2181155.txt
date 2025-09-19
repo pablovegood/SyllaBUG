@@ -2,12 +2,32 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+LEY 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario LEY 50/1980, de 8 de
+octubre, de contrato de seguro
 
-📚 Recursos sin cambios:
+LEY   6/1998,  de  13  de  abril,  sobre  régimen  del  suelo  y  valoraciones.  (Vigente  hasta  el  1  de  julio  de
+2007)   LEY   7/2002,   de  17  de  diciembre,  de  Ordenación  Urbanística  de  Andalucía  LEY  8/2007,  de  28  de
+mayo   de  suelo.  BOE  29  de  mayo  de  2007  LEY  8/2013,  de  26  de  junio,  de  rehabilitación,  regeneración  y
+renovación urbanas
+
+REAL   DECRETO   1629/1991,   de  8  de  noviembre,  por  el  que  se  aprueba  el  Reglamento  del  Impuesto  sobre
+Sucesiones y Donaciones
+
+REAL   DECRETO   LEGISLATIVO   7/2015,  de  30  de  octubre,  por  el  que  se  aprueba  el  texto  refundido  de  la
+Ley   de   Suelo   y   Rehabilitación   Urbana   REAL   DECRETO-LEY  6/2010  de  9  de  abril  de  medidas  para  el
+impulso de la recuperación económica y el empleo
+
+📚 Recursos sin cambios (26):
 ------------------------------
+Debido   a   la  extensión  y  variedad  de  la  temática  tratada,  la  bibliografía  complementaria  se  incluye
+en la plataforma de apoyo a la docencia utilizada durante el curso, y se verá ampliada según proceda
+
+Debido   a   la  extensión  y  variedad  de  la  temática  tratada,  la  bibliografía  completa  se  incluye  en  la
+plataforma    de    apoyo   a   la   docencia   utilizada   durante   el   curso,   figurando   a   continuación
+exclusivamente la normativa específica de aplicación
+
 LEY 1/2000, de 7 de enero, de Enjuiciamiento Civil
 
 LEY 13/2005, de 11 de noviembre, de medidas para la vivienda protegida (VPO) y el suelo
@@ -37,6 +57,10 @@ ORDEN   EHA/564/2008,  de  28  de  febrero,  por  la  que  se  modifica  la  Ord
 sobre   normas   de  valoración  de  bienes  inmuebles  y  de  determinados  derechos  para  ciertas  finalidades
 financieras
 
+REAL   DECRETO   1020/93,  de  25  de  junio,  por  el  que  se  aprueban  las  Normas  Técnicas  y  el  Cuadro  Marco
+de   Valores  de  Suelo  y  de  las  Construcciones,  para  determinar  el  Valor  Catastral  de  los  Inmuebles  de
+naturaleza urbana
+
 REAL   DECRETO  1464/2007,  de  2  de  noviembre,  por  el  que  se  aprueban  las  normas  técnicas  de  valoración
 catastral de los bienes inmuebles de características especiales
 
@@ -58,7 +82,8 @@ de suelo
 
 REAL   DECRETO-LEY   6/2023,   de   19   de   diciembre,   por   el  que  se  aprueban  medidas  urgentes  para  la
 ejecución   del   Plan  de  Recuperación,  Transformación  y  Resiliencia  en  materia  de  servicio  público  de
-justicia, función pública, régimen local y mecenazgo
+justicia,   función   pública,   régimen  local  y  mecenazgo  REAL  DECRETO  1020/93,  de  25  de  junio,  por  el
+que se aprueban las Normas Técnicas y el
 
 REAL   DECRETO-LEY  8/2011,  de  1  de  julio,  de  medidas  de  apoyo  a  los  deudores  hipotecarios,  de  control
 del   gasto   público   y   cancelación   de  deudas  con  empresas  y  autónomos  contraídas  por  las  entidades
@@ -74,35 +99,9 @@ UNE-EN 16775-2016, Servicios periciales. Requisitos generales para los servicios
 
 UNE-EN ISO 9000-2015, Sistemas de gestión de la calidad. Fundamentos y vocabulario
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (11):
 ------------------------------
-REAL   DECRETO   LEGISLATIVO   7/2015,  de  30  de  octubre,  por  el  que  se  aprueba  el  texto  refundido  de  la
-Ley   de   Suelo   y   Rehabilitación   Urbana   REAL   DECRETO-LEY  6/2010  de  9  de  abril  de  medidas  para  el
-impulso   de   la   recuperación   económica   y   el   empleo   →  REAL  DECRETO  LEGISLATIVO  7/2015,  de  30  de
-octubre, por el que se aprueba el texto refundido de la Ley de Suelo y Rehabilitación Urbana
-
-LEY 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario LEY 50/1980, de 8 de
-octubre,   de   contrato  de  seguro  →  LEY  5/2019  de  15  de  marzo,  reguladora  de  los  contratos  de  crédito
-inmobiliario
-
-REAL   DECRETO   1629/1991,   de  8  de  noviembre,  por  el  que  se  aprueba  el  Reglamento  del  Impuesto  sobre
-Sucesiones   y   Donaciones   →   REAL   DECRETO   775/1997,   de   30   de  mayo  sobre  el  régimen  jurídico  de
-homologación   de   los  servicios  y  sociedades  de  tasación.  REAL  DECRETO  1629/1991,  de  8  de  noviembre,
-por el que se aprueba el Reglamento del Impuesto sobre Sucesiones y Donaciones
-
-LEY   6/1998,  de  13  de  abril,  sobre  régimen  del  suelo  y  valoraciones.  (Vigente  hasta  el  1  de  julio  de
-2007)   LEY   7/2002,   de  17  de  diciembre,  de  Ordenación  Urbanística  de  Andalucía  LEY  8/2007,  de  28  de
-mayo   de  suelo.  BOE  29  de  mayo  de  2007  LEY  8/2013,  de  26  de  junio,  de  rehabilitación,  regeneración  y
-renovación urbanas  →  LEY 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía
-
-✅ Recursos añadidos:
-------------------------------
-Debido   a   la  extensión  y  variedad  de  la  temática  tratada,  la  bibliografía  complementaria  se  incluye
-en la plataforma de apoyo a la docencia utilizada durante el curso, y se verá ampliada según proceda
-
-Debido   a   la  extensión  y  variedad  de  la  temática  tratada,  la  bibliografía  completa  se  incluye  en  la
-plataforma    de    apoyo   a   la   docencia   utilizada   durante   el   curso,   figurando   a   continuación
-exclusivamente la normativa específica de aplicación
+LEY 5/2019 de 15 de marzo, reguladora de los contratos de crédito inmobiliario
 
 LEY 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario
 
@@ -111,18 +110,23 @@ LEY 50/1980, de 8 de octubre, de contrato de seguro
 LEY   6/1998,  de  13  de  abril,  sobre  régimen  del  suelo  y  valoraciones.  (Vigente  hasta  el  1  de  julio  de
 2007)
 
+LEY 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía
+
 LEY 8/2007, de 28 de mayo de suelo. BOE 29 de mayo de 2007
 
 LEY 8/2013, de 26 de junio, de rehabilitación, regeneración y renovación urbanas
 
-REAL   DECRETO   1020/93,  de  25  de  junio,  por  el  que  se  aprueban  las  Normas  Técnicas  y  el  Cuadro  Marco
-de   Valores  de  Suelo  y  de  las  Construcciones,  para  determinar  el  Valor  Catastral  de  los  Inmuebles  de
-naturaleza urbana
-
 REAL   DECRETO   775/1997,   de  30  de  mayo  sobre  el  régimen  jurídico  de  homologación  de  los  servicios  y
 sociedades de tasación
+
+REAL   DECRETO   775/1997,   de  30  de  mayo  sobre  el  régimen  jurídico  de  homologación  de  los  servicios  y
+sociedades   de   tasación.   REAL   DECRETO   1629/1991,   de   8   de   noviembre,  por  el  que  se  aprueba  el
+Reglamento del Impuesto sobre Sucesiones y Donaciones
+
+REAL   DECRETO   LEGISLATIVO   7/2015,  de  30  de  octubre,  por  el  que  se  aprueba  el  texto  refundido  de  la
+Ley de Suelo y Rehabilitación Urbana
 
 REAL   DECRETO-LEY   6/2010  de  9  de  abril  de  medidas  para  el  impulso  de  la  recuperación  económica  y  el
 empleo
 
-📊 Porcentaje estimado de cambio: 51% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

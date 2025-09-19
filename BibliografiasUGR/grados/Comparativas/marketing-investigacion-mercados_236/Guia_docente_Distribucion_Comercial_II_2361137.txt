@@ -2,11 +2,16 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+DUNE,   P.,   LUSCH,   R.   Y  CARVER,  J.  (2010):  Retailing.  South  Western  Educational  Publishing;  N.º:  7
+edición.   ISB-13:   978-1439040812   MARAVER   TARIFA,   G.   (Coord.)   (2005):   Distribución   Comercial,
+Editorial UOC
 
-📚 Recursos sin cambios:
+LÓPEZ   QUESADA,  A.  (2017):  Distribución  y  Trade  Marketing,  Agustín  ,  ESIC  PELTON,  L.,  STRUTTON,  D.  Y
+LUMPKIN, J. (1999): Canales de Marketing y distribución comercial, Editorial McGraw-Hill
+
+📚 Recursos sin cambios (21):
 ------------------------------
 AMAGO, F. (2000): Logística y Marketing Geográfico. Geomarketing, para tomar decisiones visualmente,
 Editan   Centro   Intermodal   de  Logística,  S.A.,  Instituto  de  Logística  Iberoamericano  y  Marge  Design
@@ -45,7 +50,7 @@ RODRÍGUEZ ARDURA, I. (2018): Principios y Estrategias de Marketing, Editorial U
 
 SAINZ DE VICUÑA, J. (1996): Distribución Comercial: Opciones estratégicas, ESIC Editorial
 
-SAINZ DE VICUÑA, J. M. (2010): La Distribución Comercial : Opciones estratégicas, 2ª Ed. ESIC
+SAINZ DE VICUÑA, J. M. (2010): La Distribución Comercial : Opciones estratégicas , 2ª Ed. ESIC
 
 SHETH, J. Y PARVATIYAR, A. (2000): Handbook of Relationship Marketing
 
@@ -61,22 +66,16 @@ distribución y relación entre fabricantes y detallistas, Ed. Thomson, Madrid
 WELLHOFF,   A.;   MASSON,   J.E.  (1997):  El  Merchandising.  Rentabilidad  y  Gestión  en  el  punto  de  venta.
 Bilbao: Ed. Deusto
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-DUNE,   P.,   LUSCH,   R.   Y  CARVER,  J.  (2010):  Retailing.  South  Western  Educational  Publishing;  N.º:  7
-edición.   ISB-13:   978-1439040812   MARAVER   TARIFA,   G.   (Coord.)   (2005):   Distribución   Comercial,
-Editorial UOC  →  MARAVER TARIFA, G. (Coord.) (2005): Distribución Comercial, Editorial UOC
-
-LÓPEZ   QUESADA,  A.  (2017):  Distribución  y  Trade  Marketing,  Agustín  ,  ESIC  PELTON,  L.,  STRUTTON,  D.  Y
-LUMPKIN,   J.   (1999):   Canales   de  Marketing  y  distribución  comercial,  Editorial  McGraw-Hill  →  LÓPEZ
-QUESADA, A. (2017): Distribución y Trade Marketing, Agustín, ESIC
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 DUNE,   P.,   LUSCH,   R.   Y  CARVER,  J.  (2010):  Retailing.  South  Western  Educational  Publishing;  N.º:  7
 edición. ISB-13: 978-1439040812
 
+LÓPEZ QUESADA, A. (2017): Distribución y Trade Marketing, Agustín, ESIC
+
+MARAVER TARIFA, G. (Coord.) (2005): Distribución Comercial, Editorial UOC
+
 PELTON,   L.,   STRUTTON,   D.   Y   LUMPKIN,   J.   (1999):  Canales  de  Marketing  y  distribución  comercial,
 Editorial McGraw-Hill
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

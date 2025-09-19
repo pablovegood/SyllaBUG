@@ -2,15 +2,17 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Kakac   S.,   Liu   H.   Heat   Exchangers.   Selection,   Rating  and  Thermal  Design.  CRC  PRESS,  Llopis  R.,
+Cabello R., Sánchez D. Torrella, E. Problemas resueltos de producción de frio y sicometría. Tablas y
+diagramas. A Madrid Vicente Ediciones. 2010
 
-📚 Recursos sin cambios:
+Prieve D.C. Advanced Fluid Mechanics with Vector Field Theory. 2016 González J. Energías renovables.
+Reverté. 2009
+
+📚 Recursos sin cambios (17):
 ------------------------------
-Bailón-Moreno,   R.   y   Bailón-Ruiz,   R.   Transmisión   de   calor   en  Electrónica.  Teoría  y  problemas.
-Fleming. 2022
-
 Banderas A. V. Problemas de flujo de fluidos. Limusa. 1998
 
 Bejan A., Kraus A. D. Heat transfer handbook. John Wiley and Sons Inc. 2003
@@ -32,37 +34,35 @@ Incropera   F.   P.,  De  Witt  D.P.,  Bergman  T.  L.,  Lavine  A.  S.  Fundame
 
 Llorens M., Miranda A.L. Ingeniería Térmica. Marcombo. 2009
 
-Mott, R. L. Mecánica de fluidos. 6ª Ed. Pearson Educación. 2006
+Mecánica   de   fluidos   Ortega,   M.   R.   Lecciones  de  Física.  Mecánica.  Vol.  3  (Mecánica  de  Fluidos).
+Edición del autor. 1992
 
-Ortega, M. R. Lecciones de Física. Mecánica. Vol. 3 (Mecánica de Fluidos). Edición del autor. 1992
+Morán M. J., Shapiro H.N. Fundamentos de termodinámica técnica. Reverté. Barcelona. 2008
+
+Mott, R. L. Mecánica de fluidos. 6ª Ed. Pearson Educación. 2006
 
 Perry R.H., Green, D.H. Manual del Ingeniero Químico, Mac Graw- Hill España. 2001
 
+Termotecnia   Bailón-Moreno,   R.   y   Bailón-Ruiz,   R.   Transmisión   de  calor  en  Electrónica.  Teoría  y
+problemas. Fleming. 2022
+
 White F. M. Mecánica de fluidos. McGraw-Hill. 2008
+
+Çengel Y. A. Transferencia de calor y masa. Un enfoque práctico. McGraw-Hill. 2007
 
 Çengel Y. A. y Boles M. A. Termodinámica. McGraw-Hill. 2009
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Kakac   S.,   Liu   H.   Heat   Exchangers.   Selection,   Rating  and  Thermal  Design.  CRC  PRESS,  Llopis  R.,
-Cabello R., Sánchez D. Torrella, E. Problemas resueltos de producción de frio y sicometría. Tablas y
-diagramas.   A   Madrid   Vicente  Ediciones.  2010  →  Kakac  S.,  Liu  H.  Heat  Exchangers.  Selection,  Rating
-and Thermal Design. CRC PRESS, 2002
+González J. Energías renovables. Reverté. 2009
 
-Prieve D.C. Advanced Fluid Mechanics with Vector Field Theory. 2016 González J. Energías renovables.
-Reverté. 2009  →  González J. Energías renovables. Reverté. 2009
+Kakac S., Liu H. Heat Exchangers. Selection, Rating and Thermal Design. CRC PRESS, 2002
 
-✅ Recursos añadidos:
-------------------------------
 Llopis   R.,   Cabello   R.,   Sánchez   D.   Torrella,   E.   Problemas   resueltos   de  producción  de  frio  y
 sicometría. Tablas y diagramas. A Madrid Vicente Ediciones. 2010
 
 Mecánica de fluidos
 
-Morán M. J., Shapiro H.N. Fundamentos de termodinámica técnica. Reverté. Barcelona. 2008
-
 Prieve D.C. Advanced Fluid Mechanics with Vector Field Theory. 2016
 
-Çengel Y. A. Transferencia de calor y masa. Un enfoque práctico. McGraw-Hill. 2007
-
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

@@ -2,11 +2,15 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+CENTRO   NACIONAL   DE   INFORMACIÓN   GEOGRÁFICA   (CNIG)   (Ed.)   (2019):   España  en  mapas.  Una  síntesis
+Geográfica.        Madrid,        Instituto        Geográfico        Nacional        [Disponible       en:
+http://www.ign.es/web/ign/portal/libros-digitales/espana-en-mapas]    FARINÓS    DASÍ,   J.,   &   OLCINA
+CANTOS,   J.  (Eds.  y  Coords.)  (2017):  Geografía  regional  de  España:  espacio  y  comunidades.  Bases  para
+una regionalización renovada del territorio español. Valencia: Tirant Humanidades
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 ALONSO   SANTOS,   J.L.,   APARICIO   AMADOR,   L.J.   y   SÁNCHEZ   HERNÁNDEZ,  J.L.  (Eds.)  (2004):  Recursos
 territoriales y geografía de la innovación industrial en España. Colección Aquilafuente (Universidad
@@ -26,13 +30,6 @@ Editorial
 
 CALABUIG   TOMÁS,  J.  y  MINISTRAL  MASGRAU,  M.  (2003):  Manual  de  Geografía  turística  de  España.  Madrid,
 Editorial Síntesis, Colección Gestión Turística. 493 pp
-
-CENTRO   NACIONAL   DE   INFORMACIÓN   GEOGRÁFICA   (CNIG)   (Ed.)   (2019):   España  en  mapas.  Una  síntesis
-Geográfica. Madrid, Instituto Geográfico Nacional
-
-FARINÓS DASÍ, J., & OLCINA CANTOS, J. (Eds. y Coords.) (2017): Geografía regional de España: espacio
-y   comunidades.   Bases   para   una   regionalización  renovada  del  territorio  español.  Valencia:  Tirant
-Humanidades
 
 FERNÁNDEZ CUESTA, G. (Dir.) (2019): Atlas de Geografía Humana de España. Madrid, Editorial Paraninfo
 
@@ -61,10 +58,12 @@ MOLINERO, F. y ALARIO, M. (2022): Una mirada geográfica a la España rural. Mad
 PUEBLA,   A.   y  SÁNCHEZ  HERNÁNDEZ,  J.L.  (2014):  Geografía  de  la  crisis  económica  de  España.  Valencia,
 Publications de la Universitat de Valencia. 770 pp
 
+PUYOL ANTOLÍN, R. (Dir.) (1.987 y ss.): Geografía de España. Madrid, Síntesis, 18 vols
+
 ROMERO,   J.   (2017)   (Ed.):   Geografía   humana  de  España.  Curso  de  introducción.  Valencia,  Editorial
 Tirant Humanidades. 633 pp
 
-TAPIADOR, F. (2020). The Geography of Spain. A Complete Synthesis (1st ed. 2020)
+TAPIADOR, F. (2020). The Geography of Spain. A Complete Synthesis (1st ed. 2020.)
 
 TERÁN,   M,   SOLÉ   SAFARIS,   L.   y   VILÁ   VALENTÍ,   J.  (1986,  2ª  edic.):  Geografía  General  de  España.
 Barcelona. Ariel Geografía
@@ -74,15 +73,16 @@ presentes en la gestión del patrimonio cultural. Editorial Universidad de Grana
 
 VILÁ VALENTÍ, J. (1968 y ss. reed.): La Península Ibérica. Barcelona, Ariel
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 BURGUEÑO,   J.   (2024):   España  dividida  según  acostumbran  los  geógrafos.  Origen  y  evolución  del  mapa
 regional (1456-1850). Universitat de Lleida
 
-PUYOL ANTOLÍN, R. (Dir.) (1.987 y ss.): Geografía de España. Madrid, Síntesis, 18 vols
+CENTRO   NACIONAL   DE   INFORMACIÓN   GEOGRÁFICA   (CNIG)   (Ed.)   (2019):   España  en  mapas.  Una  síntesis
+Geográfica. Madrid, Instituto Geográfico Nacional
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+FARINÓS DASÍ, J., & OLCINA CANTOS, J. (Eds. y Coords.) (2017): Geografía regional de España: espacio
+y   comunidades.   Bases   para   una   regionalización  renovada  del  territorio  español.  Valencia:  Tirant
+Humanidades
+
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

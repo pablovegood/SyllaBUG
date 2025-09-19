@@ -2,32 +2,31 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
-Fuentes,   F.,   Navarro,   M.,   Agnani,   B.,   Casado   M.,  Holgado,  M.  López,  L.,  López,  M.  y  Zafra,  J.
-(2018). 3ª Edición, Guía para la elaboración del Portafolio de Competencias del Estudiante. Granada,
-España: Ed. Godel, S.A
+Cada   estudiante   atenderá   a   las   indicaciones   de   sus   tutores  para  la  búsqueda  de  información  y
+documentación, atendiendo a rama de conocimiento específica del TFG. Puede consultar: Sánchez Pérez,
+J.   (2021).   Cómo   hacer   el   mejor   TFM/TFG.   Consejos  para  que  tu  trabajo  de  fin  de  grado  o  máster
+resulte exitoso. Ed. Atelier
+
+En el caso de la opción de portafolio, puede consultar: Fuentes, F., Navarro, M., Agnani, B., Casado
+M.,   Holgado,   M.   López,  L.,  López,  M.  y  Zafra,  J.  (2018).  3ª  Edición,  Guía  para  la  elaboración  del
+Portafolio de Competencias del Estudiante. Granada, España: Ed. Godel, S.A
+
+https://docencia.ugr.es/estudios/grado/tfg-evaluacion     https://docencia.ugr.es/estudios/grado/tfg-
+evaluacion/plantillas   https://www.ugr.es/~vicedoc2/INFORME_TFG/VD_01.htm   Será  recomendada  por  cada
+tutor atendiendo al área sobre la que se realice el TFG y el tipo de TFG realizado
+
+✅ Recursos añadidos (7):
+------------------------------
+En el caso de la opción de portafolio, puede consultar
 
 Sánchez   Pérez,  J.  (2021).  Cómo  hacer  el  mejor  TFM/TFG.  Consejos  para  que  tu  trabajo  de  fin  de  grado
 o máster resulte exitoso. Ed. Atelier
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Cada   estudiante   atenderá   a   las   indicaciones   de   sus   tutores  para  la  búsqueda  de  información  y
-documentación, atendiendo a rama de conocimiento específica del TFG. Puede consultar
-
-En el caso de la opción de portafolio, puede consultar
-
-Será   recomendada   por  cada  tutor  atendiendo  al  área  sobre  la  que  se  realice  el  TFG  y  el  tipo  de  TFG
-realizado
 
 así como la evaluación de competencias y rúbricas que publica la Universidad de Granada
 
@@ -39,4 +38,4 @@ https://www.ugr.es/~vicedoc2/INFORME_TFG/VD_01.htm
 
 o la guía de buenas prácticas en TFG de la Universidad de Granada
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 70% [███████░░░]

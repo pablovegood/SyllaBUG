@@ -2,7 +2,7 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
 Artola, Miguel y Pérez, Manuel, Contemporánea. La historia desde 1776, Madrid, Alianza Editorial
 
@@ -17,7 +17,7 @@ vols
 
 Villares, Ramón y Bahamonde, Ángel, El mundo contemporáneo. Siglos XIX y XX, Madrid, Taurus, 2001
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 Arostegui, J., et alii., El mundo contemporáneo, historia y problemas, Barcelona, Crítica, 2001
 
@@ -34,12 +34,13 @@ Boorman, Neil (2008). No marcas: diario de un anticonsumista. Madrid, Temas de H
 
 Casanova, Julián, (2020). Una violencia indómita. El siglo XX europeo. Barcelona, Crítica
 
-Escohotado, A. (2013). Los enemigos del comercio: una historia moral de la propiedad. Madrid, Espasa
+Escohotado,   A.  (2013).  Los  enemigos  del  comercio  :  una  historia  moral  de  la  propiedad  III  .  Madrid,
+Espasa
 
 Fernandez, Antonio, Historia Universal. Edad contemporánea. Barcelona, Vicens Vives, 2000
 
-George, Susan. (2015). Los usurpadores: Como las Empresas transnacionales toman el poder. Barcelona,
-Editorial Icaria
+George,   Susan.   (2015)   “Los   usurpadores:   Como   las   Empresas   transnacionales   toman   el  poder”.
+Barcelona, Editorial Icaria
 
 Hobsbawn, Eric, Historia del siglo XX, Barcelona, Crítica, 2003
 
@@ -47,14 +48,15 @@ Klein,   Naomi   (2015).   Esto   lo   cambia   todo.  El  capitalismo  contra  
 Planeta
 
 Lalieu,   Grégoire   (2016).   Yihad   made   in   USA.   De   cómo  Estados  Unidos  utiliza  el  islamismo  para
-remodelar el Gran Oriente Medio. Barcelona, Investig’Action-El Viejo Topo
+remodelar   el   Gran   Oriente   Medio.   Barcelona,  Investig’Action-El  Viejo  Topo  López  Martínez,  Mario
+“¿Noviolencia o barbarie? El arte de no dejarse deshumanizar” Madrid, Editorial DYKINSON, S.L
 
 Mamarella, Giuseppe, Historia de Europa contemporánea. Desde 1945 hasta hoy, Barcelona, Ariel, 1996
 
 Mazower,   Mark.   La   Europa   negra.   Desde   la   Gran  Guerra  hasta  la  caída  del  comunismo,  Barcelona,
 Ediciones B, 2001
 
-Osnos, Evan (2017). China: la edad de la ambición. Malpaso Ediciones
+Osnos, Evan (2017) China: la edad de la ambición (trad. Luis Murillo Fort). Malpaso Ediciones
 
 O´Neil,   Cathy   (2017).  Armasde  destrucción  matemática.  Cómo  el  big  data  aumenta  las  desigualdades  y
 amenaza la democracia. Madrid, Capitán Swing
@@ -87,11 +89,7 @@ frente a las nuevas fronteras del poder. Barcelona, Paidós
 Álvarez   Cobelas,   Juan   (2015).   África   saqueada:   La   occidentalización   y  sus  trampas.  Móstoles,
 Queimada
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (10):
 ------------------------------
 Basallote   Marín   et   alii.   (2017).   Existir   es   resistir.   Pasado  y  presente  de  Palestina-Israel.
 Granada, Comares
@@ -120,4 +118,4 @@ Moreno   Juste,   Antonio.   y   Núñez  Peñaz,  Vanessa.  (2017).  Historia  
 
 Villani, Pasquale, La Edad Contemporánea, 1945 hasta hoy, Barcelona, Ariel, 1997. vol. 3
 
-📊 Porcentaje estimado de cambio: 48% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

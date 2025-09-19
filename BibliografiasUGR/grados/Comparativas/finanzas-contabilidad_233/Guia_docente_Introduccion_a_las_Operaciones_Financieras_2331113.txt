@@ -2,11 +2,12 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+FRÍAS   ACEITUNO,   J.V.  (2024):  Apuntes  de  clase:  Introducción  a  las  operaciones  financieras.  Técnica
+Avicam
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 ALEGRE   ESCOLANO,   P.   y   otros.   (1989):   Ejercicios   resueltos   de   matemática   de  las  operaciones
 financieras. Ediciones AC
@@ -34,6 +35,12 @@ GIL PELAEZ, L. (1987): Matemática de las Operaciones Financieras: problemas res
 GONZÁLEZ   CATALÁ,   V.   (1992):   Análisis   de   las   Operaciones   Financieras,  Bancarias  y  Bursátiles.
 Ciencias Sociales, Madrid
 
+GONZÁLEZ   CATALÁ,   V.   (1999):   Operaciones   Financieras,   Bancarias   y   Bursátiles.  Curso  práctico.
+Ciencias Sociales, Madrid
+
+LOVELOCK,   D.;   MENDEL,  M.;  WRIGHT,  A.L.  (2007).  An  introduction  of  the  Mathematics  of  money.  Saving
+and Investing (1st ed. 2000). Springer New York
+
 MENEU,   V.M.;   JORDÁ,   M.P.;   BARREIRA,   M.T.  (1994):  Operaciones  Financieras  en  el  Mercado  Español.
 Editorial Ariel Economía
 
@@ -47,22 +54,10 @@ RODRIGUEZ RODRÍGUEZ, A. (1984): Matemática de la financiación. Romagraf. S.A
 TOVAR   JIMENÉZ,   JOSÉ  (2ªedición):  Operaciones  Financieras  (Teoría  y  Problemas  Resueltos).  Editorial
 CEF
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-FRÍAS   ACEITUNO,   J.V.  (2024):  Apuntes  de  clase:  Introducción  a  las  operaciones  financieras.  Técnica
-Avicam   →   FRÍAS   ACEITUNO,   J.V.   (2025).   Introducción  Operaciones  Financieras.  Editorial:  Técnica
-Avicam
+FRÍAS ACEITUNO, J.V. (2025). Introducción Operaciones Financieras. Editorial: Técnica Avicam
 
-GONZÁLEZ   CATALÁ,   V.   (1999):   Operaciones  Financieras,  Bancarias  y  Bursátiles.  Curso  LOVELOCK,  D.;
-MENDEL,   M.;   WRIGHT,  A.L.  (2007).  An  introduction  of  the  Mathematics  of  money.  Saving  and  Investing
-(1st   ed.   2000).  Springer  New  York  →  LOVELOCK,  D.;  MENDEL,  M.;  WRIGHT,  A.L.  (2007).  An  introduction
-of the Mathematics of money. Saving and Investing (1st ed. 2000). Springer New York
-
-✅ Recursos añadidos:
-------------------------------
 FRÍAS ACEITUNO, J.V. (2025). Introduction Financial Operations. Editorial: Técnica Avicam
 
-GONZÁLEZ   CATALÁ,   V.   (1999):   Operaciones   Financieras,   Bancarias   y   Bursátiles.  Curso  práctico.
-Ciencias Sociales, Madrid
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

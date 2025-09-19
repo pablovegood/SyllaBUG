@@ -2,23 +2,8 @@
 Grado: terapia-ocupacional (243)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Kapandji Y. Cuadernos de Fisiología articular. Barcelona: Toray-Masson; 2012
-
-Springer;    2001    Neumann.    Fundamentos    de    Rehabilitacion   fisica.   Cinesiologia   del   sistema
-musculoesqueletico
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Nordin, M. Biomecánica Básica del Sistema Musculoesquelético. 2004 Dufour, M. Biomecánica funcional.
-Masson   Octubre   2006   Calais-Germain,   B.   Anatomía   para   el   movimiento.  Girona:  Curbet  y  Marques
-Impressors  →  Dufour, M. Biomecánica funcional. Masson Octubre 2006
-
 Campignion, Philippe “ Respir-acciones. Las cadenas musculares y articulares G.D.S.” Alicante, 2000,
 Lencina-Verdú   editores   independientes   Campignion,   Philippe   “Cadenas   musculares   y  articulares.
 Concepto   G.D.S.   Aspectos   biomecánicos.   Nociones   de  base”.  Alicante,  2001,  Lencia-Verdú  editores
@@ -27,12 +12,23 @@ Antero-Laterales”.    Alicante,   2005,   Lencia-Verdú   editores   independi
 “Cadenas   musculares   y   articulares.   Concepto   G.D.S.   Cadenas   PosteroLaterales”.  Alicante,  2007,
 Lencia-Verdú   editores   independientes   Campignion,   Philippe   “Cadenas   musculares   y   articulares.
 Concepto   G.D.S.   Cadenas   Antero-Medianas”.   Alicante,   2010,   Lencia-Verdú  editores  independientes
-Campignion,   Philippe   “Cadenas   musculares  y  articulares.  Concepto  G.D.S.  Cadenas  PosteroMedianas”.
-Alicante,   2013,   Lencia-Verdú  editores  independientes  Miralles  Marrero  R.C.  Biomecánica  clínica  del
-aparato   locomotor.   Barcelona:   Masson   →   Campignion,   Philippe  “Cadenas  musculares  y  articulares.
-Concepto G.D.S. Cadenas Antero-Medianas”. Alicante, 2010, Lencia-Verdú editores independientes
+Campignion, Philippe “Cadenas musculares y articulares. Concepto G.D.S. Cadenas
 
-✅ Recursos añadidos:
+Nordin, M. Biomecánica Básica del Sistema Musculoesquelético. 2004 Dufour, M. Biomecánica funcional.
+Masson   Octubre   2006   Calais-Germain,   B.   Anatomía   para   el   movimiento.  Girona:  Curbet  y  Marques
+Impressors; 1992
+
+PosteroMedianas”.   Alicante,   2013,   Lencia-Verdú   editores   independientes   Miralles   Marrero   R.C.
+Biomecánica clínica del aparato locomotor. Barcelona: Masson; 1998
+
+📚 Recursos sin cambios (2):
+------------------------------
+Kapandji Y. Cuadernos de Fisiología articular. Barcelona: Toray-Masson; 2012
+
+Viladot   Voegeli.   Lecciones  Básicas  de  Biomecánica  del  Aparato  Locomotor.  Barcelona:  Springer;  2001
+Neumann. Fundamentos de Rehabilitacion fisica. Cinesiologia del sistema musculoesqueletico
+
+✅ Recursos añadidos (11):
 ------------------------------
 Calais-Germain, B. Anatomía para el movimiento. Girona: Curbet y Marques Impressors; 1992
 
@@ -45,11 +41,16 @@ Nociones de base”. Alicante, 2001, Lencia-Verdú editores independientes
 Campignion,   Philippe   “Cadenas  musculares  y  articulares.  Concepto  G.D.S.  Cadenas  Antero-Laterales”.
 Alicante, 2005, Lencia-Verdú editores independientes
 
+Campignion,   Philippe   “Cadenas   musculares  y  articulares.  Concepto  G.D.S.  Cadenas  Antero-Medianas”.
+Alicante, 2010, Lencia-Verdú editores independientes
+
 Campignion,   Philippe   “Cadenas  musculares  y  articulares.  Concepto  G.D.S.  Cadenas  PosteroLaterales”.
 Alicante, 2007, Lencia-Verdú editores independientes
 
 Campignion,   Philippe   “Cadenas   musculares  y  articulares.  Concepto  G.D.S.  Cadenas  PosteroMedianas”.
 Alicante, 2013, Lencia-Verdú editores independientes
+
+Dufour, M. Biomecánica funcional. Masson Octubre 2006
 
 Miralles Marrero R.C. Biomecánica clínica del aparato locomotor. Barcelona: Masson; 1998
 

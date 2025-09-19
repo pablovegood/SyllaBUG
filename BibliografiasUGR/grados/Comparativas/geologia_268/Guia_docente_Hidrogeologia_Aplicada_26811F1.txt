@@ -2,25 +2,18 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+WANG,   F.   Y   ANDERSON   M.P.  (1982).  Introduction  to  Groundwater  modeling.  Academic  Press,  San  Diego
+ANDERSON, M.P. Y WOESSNER, W.W. (2002). Applied Groundwater Modeling. Academic Press, San Diego
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 COMISIÓN   DOCENTE   DEL   CIHS:   ESCUDER,   R.,   FRAILE,  J.,  JORDANA,  S.,  RIBERA,  F.  SÁNCHEZ-VILA,  X.  y
 VÁZQUEZ-SUNYÉ, E. (2009). Hidrogeología. Ed. Fundación CIHS. Barcelona
 
 IGLESIAS,   A.,   ORTIZ,   G.,   RODRÍGUEZ,   R.   Y   MINGA   J.C.  (2021).  Aguas  subterráneas:  Exploración,
 Evaluación, Caracterización y Gestión. JCI Ingeniería & Servicios Ambientales S.A.C. Lima-Perú
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-ANDERSON, M.P. Y WOESSNER, W.W. (2002). Applied Groundwater Modeling. Academic Press, San Diego
 
 MARTOS,   S.,   BARÓN,   A.   Y   GUARDIOLA,   C.   (eds.)  (2022).  Guía  de  buenas  prácticas  para  el  diseño,
 sellado y clausura de pozos de captación de agua subterránea. AIH-GE
@@ -40,8 +33,12 @@ SÁNCHEZ SAN ROMÁN, F. J. (2017). Hidrología superficial y subterránea (2017)
 
 VILLANUEVA, M. e IGLESIAS, A. (1984). Pozos y acuíferos. IGME
 
-WANG, F. Y ANDERSON M.P. (1982). Introduction to Groundwater modeling. Academic Press, San Diego
-
 WEIGHT, W.D. and SONDEREGGER, J.J. (2000).- Manual of Applied Field Hydrogeology.- McGraw-Hill Ed
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+ANDERSON, M.P. Y WOESSNER, W.W. (2002). Applied Groundwater Modeling. Academic Press, San Diego
+
+WANG, F. Y ANDERSON M.P. (1982). Introduction to Groundwater modeling. Academic Press, San Diego
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

@@ -2,11 +2,22 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+L.   Heydenreich   et   alii,   Arquitectura   en   Italia,   1400-1600.  Madrid,  Cátedra,  1991  J,  Hernando,
+Arquitectura en España, 1770-1900, Madrid, Cátedra, 1989
 
-📚 Recursos sin cambios:
+Madrid:   Istmo,   1980   E.   Panofsky,   Renacimiento   y   renacimientos   en  el  arte  occidental.  Madrid,
+Alianza, 1975
+
+S.   Marchán   Fiz.   Las  vanguardias  históricas  y  sus  sombras  (1917-1930).  Madrid,  Summa  Artis;  Espasa
+Calpe, 39, 1995 M. De Micheli, Las Vanguardias artísticas del siglo XX, Madrid, Alianza Forma, 1979
+
+V.   Bozal,   Pintura  y  escultura  en  España,  1900-1939,  Madrid,  Summa  Artis,  Espasa  Calpe,  36,  1991  V.
+Bozal,   Pintura   y   escultura  españolas  del  siglo  XX  (1939-1990),  Madrid,  Summa  Artis,  Espasa  Calpe,
+37, 1992
+
+📚 Recursos sin cambios (44):
 ------------------------------
 A.   Aracil   y   D.   Rodríguez,  El  siglo  XX  entre  la  muerte  del  arte  y  el  arte  moderno,  Madrid,  Istmo,
 1982
@@ -95,42 +106,30 @@ T. Madsen, Art Nouveau, Barcelona, Labor, 1978-1980
 
 V. Aguilera Cerni, Diccionario del arte moderno, Valencia, Fernando Torres, 1979
 
+V.   Nieto   Alcaide   y   F.   Checa   Cremades.   El  Renacimiento.  Formación  y  crisis  del  modelo  clásico.
+Madrid: Istmo, 1980
+
 V. Tovar Martín y J.J. Martín González, Elarte del barroco. Arquitectura y escultura.Madrid, Taurus,
 1990
 
 W. Hofmann, Los fundamentos del arte moderno, Barcelona, Península, 1992
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-V.   Bozal,   Pintura  y  escultura  en  España,  1900-1939,  Madrid,  Summa  Artis,  Espasa  Calpe,  36,  1991  V.
-Bozal,   Pintura   y   escultura  españolas  del  siglo  XX  (1939-1990),  Madrid,  Summa  Artis,  Espasa  Calpe,
-37,   1992   →   V.  Bozal,  Pintura  y  escultura  en  España,  1900-1939,  Madrid,  Summa  Artis,  Espasa  Calpe,
-36, 1991
+E. Panofsky, Renacimiento y renacimientos en el arte occidental. Madrid, Alianza, 1975
 
-Espasa   Calpe,   39,   1995   M.   De   Micheli,  Las  Vanguardias  artísticas  del  siglo  XX,  Madrid,  Alianza
-Forma, 1979  →  M. De Micheli, Las Vanguardias artísticas del siglo XX, Madrid, Alianza Forma, 1979
+J, Hernando, Arquitectura en España, 1770-1900, Madrid, Cátedra, 1989
 
-S.   Marchán   Fiz.   Las   vanguardias   históricas   y  sus  sombras  (1917-1930).  Madrid,  Summa  Artis  →  S.
-Marchán   Fiz.   Las   vanguardias   históricas   y   sus  sombras  (1917-1930).  Madrid,  Summa  Artis;  Espasa
+L. Heydenreich et alii, Arquitectura en Italia, 1400-1600. Madrid, Cátedra, 1991
+
+M. De Micheli, Las Vanguardias artísticas del siglo XX, Madrid, Alianza Forma, 1979
+
+S.   Marchán   Fiz.   Las  vanguardias  históricas  y  sus  sombras  (1917-1930).  Madrid,  Summa  Artis;  Espasa
 Calpe, 39, 1995
 
-L.   Heydenreich   et   alii,   Arquitectura   en   Italia,   1400-1600.  Madrid,  Cátedra,  1991  J,  Hernando,
-Arquitectura   en   España,   1770-1900,   Madrid,   Cátedra,  1989  →  J,  Hernando,  Arquitectura  en  España,
-1770-1900, Madrid, Cátedra, 1989
-
-V.   Nieto   Alcaide   y   F.   Checa   Cremades.   El  Renacimiento.  Formación  y  crisis  del  modelo  clásico.
-Madrid:   Istmo,   1980   E.   Panofsky,   Renacimiento   y   renacimientos   en  el  arte  occidental.  Madrid,
-Alianza,   1975   →   E.  Panofsky,  Renacimiento  y  renacimientos  en  el  arte  occidental.  Madrid,  Alianza,
-1975
-
-✅ Recursos añadidos:
-------------------------------
-L. Heydenreich et alii, Arquitectura en Italia, 1400-1600. Madrid, Cátedra, 1991
+V. Bozal, Pintura y escultura en España, 1900-1939, Madrid, Summa Artis, Espasa Calpe, 36, 1991
 
 V. Bozal, Pintura y escultura españolas del siglo XX (1939-1990), Madrid, Summa Artis, Espasa Calpe,
 37, 1992
 
-V.   Nieto   Alcaide   y   F.   Checa   Cremades.   El  Renacimiento.  Formación  y  crisis  del  modelo  clásico.
-Madrid: Istmo, 1980
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

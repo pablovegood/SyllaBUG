@@ -2,11 +2,13 @@
 Grado: trabajo-social (249)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+González,   M.,   Blanco,   P.,  Martis,  C.,  Fernández,  M.  y  Álvarez,  P.  (2016).  La  relación  de  ayuda  en
+Trabajo   Social.  Propuestas  para  un  desarrollo  de  calidad.  Revista  Trabajo  Social,  90,  3-13  Howe,  D.
+(1999). Dando sentido a la práctica. Una introducción a la teoría del Trabajo Social. Ed. Maristán
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (44):
 ------------------------------
 Alayón,   N.   y  Molina,  L.  (2007).  La  desigualdad  social:  desarrollo  y  desafíos  del  Trabajo  social  en
 América Latina. Revista textos & Contextos Porto Alegre, 6(1), 34-68
@@ -66,6 +68,8 @@ Jehu, D. (1979). Modificación de la conducta en Trabajo Social. Ed. Limusa
 Kondrat,   C.  (2014).  Person-centred  approach.  En  B.  Teater  (Ed.),  An  introduction  to  Applying  Social
 Work Theories and Methods (pp. 102-116). Mc Graw Hill Education
 
+Martínez Martínez, Mª J. (2005). Modelos teóricos del Trabajo Social. Ed. Diego Marin
+
 Mata,   E.   y   Rubiol,   G.   (1992).   El  trabajo  social  feminista,  una  metodología  para  la  igualdad  de
 oportunidades de la mujer desde los servicios sociales. Revista de Treball Social, nº 125, 84-106
 
@@ -80,10 +84,10 @@ Freire   para   la   formación   académica,   la   producción   de   conocimi
 profesional.    Margen:    Revista    de   trabajo   social   y   ciencias   sociales,   51.   Recuperado   de:
 https://www.margen.org/suscri/margen51/negri.html
 
-Payne,   M.   (1995)   Teorías   contemporáneas   en  Trabajo  Social:  Una  introducción  crítica.  Barcelona:
-Paidós
-
 Perlman, H. (1980). El Trabajo Social individualizado. Ed. Rialp
+
+Recuperado    de:    https://www.margen.org/suscri/margen51/negri.html    Payne,    M.    (1995)   Teorías
+contemporáneas en Trabajo Social: Una introducción crítica. Barcelona: Paidós
 
 Richmond, M. (1995). El caso social individual. Talasa
 
@@ -117,19 +121,12 @@ Contemporáneas. Espacio Editorial
 Zamanillo   Peral,   T.   (2018).   Epistemología   del   trabajo   social.   De   la  evidencia  empírica  a  la
 exigencia teórica. Ediciones Complutense
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-González,   M.,   Blanco,   P.,  Martis,  C.,  Fernández,  M.  y  Álvarez,  P.  (2016).  La  relación  de  ayuda  en
-Trabajo   Social.  Propuestas  para  un  desarrollo  de  calidad.  Revista  Trabajo  Social,  90,  3-13  Howe,  D.
-(1999).   Dando   sentido  a  la  práctica.  Una  introducción  a  la  teoría  del  Trabajo  Social.  Ed.  Maristán
-→   Howe,   D.   (1999).   Dando  sentido  a  la  práctica.  Una  introducción  a  la  teoría  del  Trabajo  Social.
-Ed. Maristán
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 González,   M.,   Blanco,   P.,  Martis,  C.,  Fernández,  M.  y  Álvarez,  P.  (2016).  La  relación  de  ayuda  en
 Trabajo Social. Propuestas para un desarrollo de calidad. Revista Trabajo Social, 90, 3-13
 
-Martínez Martínez, Mª J. (2005). Modelos teóricos del Trabajo Social. Ed. Diego Marin
+Howe,   D.   (1999).  Dando  sentido  a  la  práctica.  Una  introducción  a  la  teoría  del  Trabajo  Social.  Ed.
+Maristán
 
 📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

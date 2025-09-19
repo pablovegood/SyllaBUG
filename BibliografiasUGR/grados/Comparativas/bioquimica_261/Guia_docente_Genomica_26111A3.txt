@@ -2,16 +2,19 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
+Acceso a revistas electrónicas de la UGR: http://dn3nh3eq7d.search.serialssolutions.com/ NCBI books:
+https://www.ncbi.nlm.nih.gov/books/browse/#W3sic3ViamVjdFtdIjoiR2VuZXRpY3
+MifSx7InR5cGVbXSI6IkJvb2sifSx7InNvcnQiOiJwdWJkYXRlIn0seyJzb3J0X2RpcmVjdGlvbiI6InJld       mVyc2UifV0=
+Brown, T.A. 2008. Genomas. Editorial Médica Panamericana
+
 Barnes,   MR.  (Ed.)  2007.  Bioinformatics  for  Geneticists:  A  Bioinformatics  Primer  for  the  Analysis  of
 Genetic Data, 2nd ed. John Wiley and Sons Ltd
-
-Brown, T.A. 2008. Genomas. Editorial Médica Panamericana
 
 Caetano-Anollés, G. 2010. Evolutionary Genomics and Systems Biology. Wiley-Blackwell
 
@@ -29,15 +32,11 @@ Saitou, N. 2013. Introduction to Evolutionary Genomics. Computational Biology, V
 
 Strachan, T. (1992). The Human Genome. Bios S.P
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Acceso a revistas electrónicas de la UGR: http://dn3nh3eq7d.search.serialssolutions.com/
 
 NCBI books: https://www.ncbi.nlm.nih.gov/books/browse/#W3sic3ViamVjdFtdIjoiR2VuZXRpY3MifSx7InR5cGVbX
 SI6IkJvb2sifSx7InNvcnQiOiJwdWJkYXRlIn0seyJzb3J0X2RpcmVjdGlvbiI6InJldmVyc2UifV0=
 
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

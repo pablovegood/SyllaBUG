@@ -2,27 +2,36 @@
 Grado: nutrichnay-dietet-ciencia-tecnol-alimentos (211)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Heller KJ. Genetically engineered food. Methods and detection. 2ª edición. Wiley- Blackwell, 2006
+Heller KJ. Genetically engineered food. Methods and detection. 2ª edición. WileyBlackwell, 2006
 
 Old   RW   y   Primrose   SB.   Principles   of   Gene   Manipulation.   6   ª   edición.   Blackwell  Scientific
 Publications. 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
-Biotechnology for Beginners.Renneberg, Loroch. 2ª Ed. Elsevier/Academic Press. 2016
+Biotechnology for Beginners.Renneberg , Loroch. 2ª Ed. Elsevier/Academic Press. 2016
+
+Burgeois y Larpent. Microbiología alimentaria. Volumen 2: Fermentaciones alimentarias. Acribia. 1995
 
 Burns M, Foster L, Walker M. DNA Techniques to verify food authenticity: Applications in food fraud.
 RSC Pub, 2019
+
+Crueguer y Crueger Biotecnología: Manual de Microbiología Industrial. Acribia.1993
 
 Delgado, Rocha Biotecnología alimentaria. Madrid Síntesis. 2017
 
 Demain and Davies. Microbiology and Technology. ASM Press. 2010
 
-Genetically engineered Food. Heller KJ. 2nd Ed.Willey-VCH, 2006
+García-Garibay, Quintero–Ramírez, López-Mungía. Biotecnología alimentaria. Limusa. 2002
+
+Glazer and Nikaido Microbial Biotechnology. Fundamentals of applied Microbiology.. Freeman. 2007
 
 Hough. Biotecnología de la cerveza y la malta. Acribia. 2003
+
+International Service for the Acquisition of Agri-biotech Applications (ISAAA) http://www.isaaa.org/
+Genetically engineered Food. Heller KJ. 2nd Ed.Willey-VCH, 2006
 
 Krebs   JE,   Goldstein   ES,   Kilpatrick   ST.  Lewin's  Genes  XII.  12ª  edición.  Massachusetts:  Jones  and
 Barlett Publishers, 2017
@@ -33,6 +42,8 @@ CrCPress Taylor and Francis. 2012
 Lodish   H,   Berk   A,   Kaiser  CA,  Amon  A,  Ploegh  H,  Bretscher  A,  Krieger  M,  Martin  KC.  Molecular  cell
 biology, 8ª edición. New York: WH Freeman-Macmillan Learning, 2016
 
+Martín, Béjar, Gutiérrez, Llagostera, Quesada. Microbiología esencial. Panamerica. Madrid. 2019
+
 Primrose   SB   y   Twyman   RM.   Principles   of   Gene   Manipulation.   7ª   edición.  Blackwell  Scientific
 Publications, 2007
 
@@ -41,12 +52,7 @@ Renneberg R, Loroch V. Biotechnology for Beginners. 2ª edición. Elsevier/Acade
 Vinderola   G,   Ouwehand   A,   Salminen   S,   von   Wright   A.  Lactic  Acid  Bacteria:  Microbiological  and
 Functional Aspects, 5ª edición. CRC Press, Taylor & Francis Group, 2019
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-2002.   Crueguer   y   Crueger   Biotecnología:   Manual   de   Microbiología   Industrial.   Acribia.1993   →
-Crueguer y Crueger Biotecnología: Manual de Microbiología Industrial. Acribia.1993
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 AENOR   (Asociación   Española   de   Normalización  y  Certificación)  Microbiología  de  los  alimentos  para
 consumo    humano    y   animal.   Normas   UNE   (Obtener   información   para   las   normas   generales   en:
@@ -58,14 +64,6 @@ TEXTO   DEL  CÓDIGO  ALIMENTARIO  ESPAÑOL.  TEXTO  CONSOLIDADO  (TEXTO  CONSOL
 de      diciembre      de      2020;      aparecen     modificaciones     periódicas)     (DISPONIBLE     EN
 https://www.boe.es/eli/es/d/1967/09/21/2484/con)
 
-Burgeois y Larpent. Microbiología alimentaria. Volumen 2: Fermentaciones alimentarias. Acribia. 1995
-
-García-Garibay, Quintero–Ramírez, López-Mungía. Biotecnología alimentaria. Limusa. 2002
-
-Glazer and Nikaido Microbial Biotechnology. Fundamentals of applied Microbiology.. Freeman. 2007
-
 International Service for the Acquisition of Agri-biotech Applications (ISAAA) http://www.isaaa.org/
 
-Martín, Béjar, Gutiérrez, Llagostera, Quesada. Microbiología esencial. Panamerica. Madrid. 2019
-
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

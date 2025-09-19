@@ -2,11 +2,11 @@
 Grado: educacion-infantil (258)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (50):
 ------------------------------
 Acevedo-Díaz,   J.  A.,  García-Carmona,  A.  y  Aragón,  M.  M.  (2017).  Historia  de  la  ciencia  para  enseñar
 naturaleza   de   la   ciencia:   una   estrategia   para  la  formación  inicial  del  profesorado  de  ciencia.
@@ -16,8 +16,11 @@ Aguilera,   D.   y   Perales,   J.  (2017).  ¿Qué  implicaciones  educativas  
 sobre   actitud   hacia  la  ciencia?  Enseñanza  de  las  ciencias:  revista  de  investigación  y  experiencias
 didácticas, (Extra), 3901-3906
 
+Alsina,   Á.  (2020).  Más  allá  de  los  contenidos,  los  procesos  matemáticos  en  Educación  Infantil.  Edma
+0-6: Educación Matemática en la infancia, 1(1), 1-14
+
 Archer,   L.,   DeWitt,   J.,   Osborne,   J.,  Dillon,  J.,  Willis,  B.,  &  Wong,  B.  (2010).  “Doing”  science
-versus   “being”   a   scientist:   Examining   10/11-year-old   schoolchildren's  constructions  of  science
+versus   “being”   a   scientist:   Examining   10/11‐year‐old   schoolchildren's  constructions  of  science
 through the lens of identity. Science Education, 94(4), 617-639
 
 Bergen, D. (2009). Play as the Learning Medium for Future Scientists, Mathematicians, and Engineers.
@@ -35,6 +38,11 @@ Cruz-Guzmán, M., Puig Gutiérrez, M. y García-Carmona, A. (2020). ¿Qué tipos
 implementan   en   el   aula   futuros   docentes   de   Educación  Infantil  cuando  enseñan  ciencia  mediante
 rincones de trabajo?. Enseñanza de las ciencias, 38(1), 0027-45
 
+De Borja i Solé, M. (1980). El juego infantil: Organización de ludotecas. Barcelona: Oikos tau
+
+De   Borja   i   Solé,   M.   (1984).   Instruir  deleitando:  el  juego  como  actividad  educativa.  Barcelona:
+Universidad de Barcelona
+
 De   Borja   i   Solé,   M.   (1994).   Los   juguetes  en  el  marco  de  las  ludotecas:  elementos  de  juego,  de
 transmisión   de  valores  y  desarrollo  de  la  personalidad.  Revista  Interuniversitaria  de  formación  del
 profesorado, (19), 43-64
@@ -46,6 +54,9 @@ escolares: estímulo para el desarrollo de las inteligencias múltiples y de los
 Barcelona: Octaedro
 
 Decroly, O. (1965). La Fonction de Globalisation et l'Enseignement. Brussels: Editions Desoer
+
+Domènech-Casal,   J.   (2019).  Aprendizaje  basado  en  proyectos,  trabajos  prácticos  y  controversias.  28
+propuestas y reflexiones para enseñar. Barcelona: Ediciones Octaedro
 
 Fernández,   J.  L.  y  Salgado,  J.  A.  (2011).  Ludotecas.  Conceptos  y  claves  para  su  creación  y  gestión.
 Madrid: Aenor
@@ -72,16 +83,9 @@ Didática das Ciências e Matemática, e021012, 1-25
 Huizinga,   J.   (1972).  Esencia  y  significación  del  juego  como  fenómeno  cultural.  En  Homo  ludens  (pp.
 11 - 44). España: Alianza Editorial
 
-International   Journal  of  Play  International  Journal  of  Game-Based  Learning  American  Journal  of  Play
-Journal   of   Adventure   Education   and  Outdoor  Learning  Journal  of  Museum  Education  Aula  de  Infantil
-Infancia.   Educar   de   0   a   6   años   Infancia   y   aprendizaje  Science  and  Children  Journal  of  Early
-Childhood   Teacher   Education   Early   Childhood  Education  Journal  European  Early  Childhood  Education
-Research   Journal   ReiDoCrea,   Revista   electrónica   de   investigación   y   Docencia   Creativa   de  la
-Universidad de Granada Revista Eureka sobre enseñanza y divulgación de las Ciencias Enseñanza de las
-Ciencias.   Revista   de   investigación  y  experiencias  didácticas  Alambique.  Didáctica  de  las  Ciencias
-Experimentales   Revista   Electrónica   de   Enseñanza  de  las  Ciencias  (REEC)  Didáctica  de  las  Ciencias
-Experimentales   y   Sociales   Góndola,   Enseñanza   y   Aprendizaje  de  las  Ciencias  Edma  0-6.  Educación
-Matemática en la infancia
+Journal    of    Research   in   Science   Teaching   Science   Education   Research   in   Science   Education
+International Journal of Science Education Studies in Science Education Journal of Science Education
+and Technology Science & Education International Journal of Science and Mathematics Education
 
 Kapp,   K.  M.  (2012).  The  gamification  of  learning  and  instruction:  game-based  methods  and  strategies
 for training and education. San Francisco: John Wiley & Sons
@@ -118,6 +122,20 @@ Process Evidence. Education Sciences, 10(9), 213
 
 Resnick, L. B. (1983). Mathematics and Science Learning: A New Conception. Science, 220, 477-478
 
+Revistas:   International   Journal   of   Play   International   Journal   of  Game-Based  Learning  American
+Journal of Play Journal of Adventure Education and Outdoor Learning Journal of Museum Education Aula
+de   Infantil   Infancia.   Educar  de  0  a  6  años  Infancia  y  aprendizaje  Science  and  Children  Journal  of
+Early   Childhood   Teacher   Education   Early   Childhood   Education   Journal   European  Early  Childhood
+Education Research Journal ReiDoCrea, Revista electrónica de investigación y Docencia Creativa de la
+Universidad de Granada Revista Eureka sobre enseñanza y divulgación de las Ciencias Enseñanza de las
+Ciencias.   Revista   de   investigación  y  experiencias  didácticas  Alambique.  Didáctica  de  las  Ciencias
+Experimentales   Revista   Electrónica   de   Enseñanza  de  las  Ciencias  (REEC)  Didáctica  de  las  Ciencias
+Experimentales   y   Sociales   Góndola,   Enseñanza   y   Aprendizaje  de  las  Ciencias  Edma  0-6.  Educación
+Matemática en la infancia
+
+Rodríguez,   F.   P.   (2007).   Competencias   comunicativas,   aprendizaje   y   enseñanza  de  las  Ciencias
+Naturales: un enfoque lúdico. Revista Electrónica de Enseñanza de las Ciencias, 6(2), 275-298
+
 Rousseau, J. J. (1985). Emilio o de la Educación. Madrid: Edaf
 
 Saá,   M.   D.   (2000).   Los   cuentos   y   las  canciones:  un  recurso  para  la  matemática  en  la  educación
@@ -150,30 +168,15 @@ Vázquez-Alonso,   Á.   y  Manassero-Mas,  M.  A.  (2018).  Más  allá  de  la
 científica para desarrollar el pensamiento. Revista Electrónica de Enseñanza de Las Ciencias, 17(2),
 309–336
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-De   Borja  i  Solé,  M.  (1980).  El  juego  infantil:  Organización  de  ludotecas.  Barcelona:  Oikos  De  Borja
-i Solé, M. (1984). Instruir deleitando: el juego como actividad educativa. Barcelona: Universidad de
-Barcelona   →   De   Borja   i   Solé,  M.  (1984).  Instruir  deleitando:  el  juego  como  actividad  educativa.
-Barcelona: Universidad de Barcelona
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (26):
 ------------------------------
 Alambique. Didáctica de las Ciencias Experimentales
-
-Alsina,   Á.  (2020).  Más  allá  de  los  contenidos,  los  procesos  matemáticos  en  Educación  Infantil.  Edma
-0-6: Educación Matemática en la infancia, 1(1), 1-14
 
 American Journal of Play
 
 Aula de Infantil
 
-De Borja i Solé, M. (1980). El juego infantil: Organización de ludotecas. Barcelona: Oikos tau
-
 Didáctica de las Ciencias Experimentales y Sociales
-
-Domènech-Casal,   J.   (2019).  Aprendizaje  basado  en  proyectos,  trabajos  prácticos  y  controversias.  28
-propuestas y reflexiones para enseñar. Barcelona: Ediciones Octaedro
 
 Early Childhood Education Journal
 
@@ -191,8 +194,6 @@ Infancia. Educar de 0 a 6 años
 
 International Journal of Game-Based Learning
 
-International Journal of Play
-
 International Journal of Science Education
 
 International Journal of Science and Mathematics Education
@@ -201,9 +202,9 @@ Journal of Adventure Education and Outdoor Learning
 
 Journal of Early Childhood Teacher Education
 
-Journal of Research in Science Teaching
+Journal of Museum Education
 
-Journal of Science Education and Technology
+Journal of Research in Science Teaching
 
 ReiDoCrea, Revista electrónica de investigación y Docencia Creativa de la Universidad de Granada
 
@@ -213,9 +214,6 @@ Revista Electrónica de Enseñanza de las Ciencias (REEC)
 
 Revista Eureka sobre enseñanza y divulgación de las Ciencias
 
-Rodríguez,   F.   P.   (2007).   Competencias   comunicativas,   aprendizaje   y   enseñanza  de  las  Ciencias
-Naturales: un enfoque lúdico. Revista Electrónica de Enseñanza de las Ciencias, 6(2), 275-298
-
 Science & Education
 
 Science Education
@@ -224,4 +222,4 @@ Science and Children
 
 Studies in Science Education
 
-📊 Porcentaje estimado de cambio: 69% [██████░░░░]
+📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]

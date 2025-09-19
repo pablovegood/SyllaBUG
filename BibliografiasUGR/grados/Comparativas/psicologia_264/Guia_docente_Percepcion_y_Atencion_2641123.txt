@@ -2,8 +2,12 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (9):
 ------------------------------
+Bajo,   María   Teresa   et  al  (2016).  Mente  y  Cerebro.  Caps.  13  y  15,  pp.  381-405  y  pp.  443-478  Cohen,
+Micahel   A.,   Cavanagh,  Patrick,  Chun,  Marvin  M,  &  Ken  Nakayama  (2012).  The  attentional  requirements
+of consciousness. Trends in cognitive sciences 16, 411-417
+
 Bajo, María Teresa et al (2016). Mente y Cerebro. Caps. 5, 13 y 15, pp. 147-181, pp. 381-405 y pp
 
 Goldstein,   E.   Bruce   (2017).   Sensation   and   Perception.  Thompson  Eds.  (10th  Edition)  Bajo,  María
@@ -16,7 +20,16 @@ Luna, María Dolores y Tudela, Pío (2006). Percepción visual. Madrid: Trotta
 
 Patel, Neepa, Jankovic, Joseph, & Hallett, Mark (2014). Sensory aspects of movement disorders
 
-📚 Recursos sin cambios:
+Ponce,   Carlos   R.,   Born,  Richard  T.  (2008).  Stereopsis.  Current  Biology,  18,  845-850  Sacks,  Oliver
+(2006). Stereo Sue. The New Yorker, 19 Junio
+
+Rueda,   Charo   (2021).   Educar   la   Atención  con  cerebro,  Alianza  editorial  Land,  Edwin.  (1977).  The
+Retinex   Theory   of   Color   Vision.   Scientific   American,   237,  108-128  Neitz,  Jay  y  Neitz,  Maureen
+(2009). The genetics of normal and defective color vision. Vision Research, 51, 633-651
+
+www.newyorker.com/archive/2006/06/19/060619fa_fact_sacks
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Chica,   A.   B.,   &   Checa,  P.  (2013).  Atención,  procesamiento  de  la  información  sensorial  y  sistemas
 atencionales. En D. Redolar (Ed.), Neurociencia cognitiva. Editorial Panamericana
@@ -34,51 +47,42 @@ Cognitive Sciences, 17(1), 26–49
 
 Fawcett, J., Risko, E., & Kingston, A. (Eds.). (2015). The handbook of attention. MIT Press
 
-Fuentes,   L.   J.   (2008).   Manual   de   psicología   de   la  atención:  Una  perspectiva  neurocientífica.
-Síntesis
+Fuentes,   Luis   J.   (2008).   Manual   de   Psicología  de  la  Atención:  Una  Perspectiva  Neurocientífica.
+Madrid: Síntesis
 
-Ochsner,   K.,  &  Kosslyn,  S.  (Eds.).  (2013).  The  Oxford  handbook  of  cognitive  neuroscience,  Volume  1:
-Core topics. Oxford University Press
+Fuentes,   Luis   J.   (2008).  Manual  de  Psicología  de  la  Atención:  Una  perspectiva  neurocientífica  (2ª
+Ed). Madrid: Síntesis
+
+Ochsner,   Kevin   &   Kosslyn,   Stephen   (Eds)   (2013).  The  Oxford  Handbook  of  Cognitive  Neuroscience,
+Volume 1: Core Topics. Oxford: Oxford University Press
+
+Patel,   N.,   Jankovic,   J.,   &  Hallett,  M.  (2014).  Sensory  aspects  of  movement  disorders.  The  Lancet
+Neurology, 13(1), 100–112
 
 Petersen,   S.   E.,   &  Posner,  M.  I.  (2012).  The  attention  system  of  the  human  brain:  20  years  after.
 Annual Review of Neuroscience, 35, 73–89
 
-Rock, I., & Palmer, S. (1991). El legado de la Psicología de la Forma. Investigación y Ciencia, 173,
-50–57
+Rock,   Irvin,   &   Palmer,   Stephen   (1991).   El  legado  de  la  Psicología  de  la  Forma.  Investigación  y
+Ciencia, 173, 50-57
 
-Stein, B. E. (Ed.). (2012). The new handbook of multisensory processing. MIT Press
+Stein, Barry E. (Ed.) (2012). The New Handbook of Multisensory Processing. MIT Press
 
-Zachariou, V., Klatzky, R., & Behrmann, M. (2014). Ventral and dorsal visual stream contributions to
-the   perception   of   object   shape   and   object   location.  Journal  of  Cognitive  Neuroscience,  26(1),
-189–209
+Zachariou, Valentinos, Klatzky, Roberta, &Behrmann, Marlene (2014). Ventral and dorsal visual stream
+contributions    to    the    perception    of    object    shape    and    object    location.    Journal   of
+CognitiveNeuroscience, 26(1), 189-209
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Bajo,   María   Teresa   et  al  (2016).  Mente  y  Cerebro.  Caps.  13  y  15,  pp.  381-405  y  pp.  443-478  Cohen,
-Micahel   A.,   Cavanagh,  Patrick,  Chun,  Marvin  M,  &  Ken  Nakayama  (2012).  The  attentional  requirements
-of   consciousness.   Trends   in  cognitive  sciences  16,  411-417  →  Cohen,  M.  A.,  Cavanagh,  P.,  Chun,  M.
-M.,   &   Nakayama,   K.   (2012).   The   attentional   requirements  of  consciousness.  Trends  in  Cognitive
-Sciences, 16, 411–417
-
-Rueda,   Charo   (2021).   Educar   la   Atención  con  cerebro,  Alianza  editorial  Land,  Edwin.  (1977).  The
-Retinex   Theory   of   Color   Vision.   Scientific   American,   237,  108-128  Neitz,  Jay  y  Neitz,  Maureen
-(2009).   The   genetics  of  normal  and  defective  color  vision.  Vision  Research,  51,  633-651  →  Land,  E.
-(1977). The Retinex theory of color vision. Scientific American, 237, 108–128
-
-Ponce,   Carlos   R.,   Born,  Richard  T.  (2008).  Stereopsis.  Current  Biology,  18,  845-850  Sacks,  Oliver
-(2006).          Stereo          Sue.          The          New          Yorker,          19         Junio.
-www.newyorker.com/archive/2006/06/19/060619fa_fact_sacks   →   Ponce,   C.   R.,   &   Born,  R.  T.  (2008).
-Stereopsis. Current Biology, 18, 845–850
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (13):
 ------------------------------
 Bajo,   M.   T.,   et   al.   (2016).   Mente  y  cerebro  (Caps.  5,  13  y  15,  pp.  147–181,  pp.  381–405,  y  pp.
 443–478). Alianza
 
 Bajo, M. T., et al. (2016). Mente y cerebro. Alianza
 
-Fuentes,   L.   J.   (2008).   Manual   de  psicología  de  la  atención:  Una  perspectiva  neurocientífica  (2ª
-ed.). Síntesis
+Cohen,   M.   A.,   Cavanagh,   P.,   Chun,  M.  M.,  &  Nakayama,  K.  (2012).  The  attentional  requirements  of
+consciousness. Trends in Cognitive Sciences, 16, 411–417
+
+Fuentes,   L.   J.   (2008).   Manual   de   psicología   de   la  atención:  Una  perspectiva  neurocientífica.
+Síntesis
 
 Goldstein, E. B. (2017). Sensation and perception (10th ed.). Thompson Eds
 
@@ -88,17 +92,18 @@ cognitive neuroscience: Volume 1 – Core topics (pp. 32–47). Oxford Universit
 Johnson,   A.,   &   Proctor,   R.  W.  (2015).  Atención:  Teoría  y  práctica.  Editorial  Universitaria  Ramón
 Areces
 
+Land, E. (1977). The Retinex theory of color vision. Scientific American, 237, 108–128
+
 Luna, M. D., & Tudela, P. (2006). Percepción visual. Trotta
 
 Neitz,   J.,   &  Neitz,  M.  (2009).  The  genetics  of  normal  and  defective  color  vision.  Vision  Research,
 51, 633–651
 
-Patel,   N.,   Jankovic,   J.,   &  Hallett,  M.  (2014).  Sensory  aspects  of  movement  disorders.  The  Lancet
-Neurology, 13(1), 100–112
+Ponce, C. R., & Born, R. T. (2008). Stereopsis. Current Biology, 18, 845–850
 
 Rueda, C. (2021). Educar la atención con cerebro. Alianza Editorial
 
 Sacks,       O.       (2006,       junio       19).       Stereo       Sue.       The       New       Yorker.
 https://www.newyorker.com/archive/2006/06/19/060619fa_fact_sacks
 
-📊 Porcentaje estimado de cambio: 95% [█████████░]
+📊 Porcentaje estimado de cambio: 88% [████████░░]

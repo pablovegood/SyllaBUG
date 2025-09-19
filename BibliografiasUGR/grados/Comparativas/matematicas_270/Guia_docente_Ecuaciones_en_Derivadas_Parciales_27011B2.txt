@@ -2,11 +2,13 @@
 Grado: matematicas (270)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Peral,   I.:   Primer  curso  de  Ecuaciones  en  derivadas  parciales.  Addison-Wesley,  1995.  La  2ª  edición,
+de   2004,  está  disponible  (libre)  en  http://matematicas.uam.es/~ireneo.peral/libro.pdf  Evans,  L.  C.:
+Partial Differential Equations, AMS, 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 Budak,   B.M.;   Samarski,   A.A.  y  Tijonov,  A.N.:  Problemas  de  la  Física  Matemática.  Volúmenes  I  y  II.
 Mir, 1984
@@ -20,17 +22,13 @@ Strauss W.A: Partial differential equations an introduction. New York: John Wile
 
 Tijonov, A.N. y Samarsky, A.A. Ecuaciones de la Física Matemática. Mir, 1980
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Peral,   I.:   Primer  curso  de  Ecuaciones  en  derivadas  parciales.  Addison-Wesley,  1995.  La  2ª  edición,
-de   2004,   está   disponible   (libre)   en   Evans,   L.  C.:  Partial  Differential  Equations,  AMS,  2002  →
-Peral,   I.:   Primer  curso  de  Ecuaciones  en  derivadas  parciales.  Addison-Wesley,  1995.  La  2ª  edición,
-de 2004, está disponible (libre) en http://matematicas.uam.es/~ireneo.peral/libro.pdf
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 BIBLIOGRAFÍA BÁSICA
 
 Evans, L. C.: Partial Differential Equations, AMS, 2002
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+Peral,   I.:   Primer  curso  de  Ecuaciones  en  derivadas  parciales.  Addison-Wesley,  1995.  La  2ª  edición,
+de 2004, está disponible (libre) en http://matematicas.uam.es/~ireneo.peral/libro.pdf
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

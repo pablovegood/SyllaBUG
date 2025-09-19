@@ -2,17 +2,15 @@
 Grado: enfermeria-melilla (507)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 BOE. “Código Laboral y de la Seguridad Social”. 2015
 
-GESTAL OTERO, J.J. “Riesgos laborales del personal sanitario”. Madrid. 3ª Edición
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 Boletín   Oficial   del   Estado.   Resolución  de  26  de  marzo  de  2018,  del  Instituto  Nacional  de  Gestión
 Sanitaria,   por   la   que   se  aprueba  y  publica  el  Protocolo  de  actuación  frente  a  la  violencia  en  el
-trabajo en los centros dependientes del INGESA. Madrid, 2018
+trabajo en los centros dependientes del INGESA . Madrid, 2018
 
 Carlos   Andrés   García   Cano.   Legislación   para   oposiciones   sanitarias   .   1.ª  ed.  Madrid:  Torres
 Editores, 2022
@@ -21,11 +19,14 @@ Francisco   Cebrián   Picazo  y  José  Joaquín  Fernández  Requena.  Guía  
 riesgos   biológicos   en   trabajadores   sanitarios.   Islas  Baleares:  Institut  de  Salut  Laboral  de  les
 Illes Balears, 2004
 
-José   Manuel   García   Martín.  Enfermería  del  Trabajo  .  Manual  CTO  de  Enfermería,  6.ª  ed.  Madrid:  CTO
+GESTAL   OTERO,   J.J.   “Riesgos   laborales   del  personal  sanitario”.  Madrid.  3ª  Edición.  McGraw-Hill.
+Interamericana, 2003
+
+José   Manuel   García   Martín.   Enfermería  del  Trabajo.  Manual  CTO  de  Enfermería,  6.ª  ed.  Madrid:  CTO
 Editorial, 2013
 
-Juan   José   Gestal   Otero.   Riesgos   laborales   del   personal  sanitario.  3.ª  ed.  Madrid:  McGraw-Hill
-Interamericana, 2003
+Ministerio   de   Sanidad.   Actualización   n.º   604.  Enfermedad  por  el  coronavirus  (COVID-19).  Madrid:
+Centro de Coordinación de Alertas y Emergencias Sanitarias, s.f
 
 Ministerio   de   Sanidad.   Orden   SAS/1348/2009,   de   6   de   mayo,  por  la  que  se  aprueba  y  publica  el
 programa formativo de la especialidad de Enfermería del Trabajo
@@ -33,7 +34,7 @@ programa formativo de la especialidad de Enfermería del Trabajo
 Rafael   Jesús   López  Suárez.  Manual  didáctico  de  Salud  Laboral  para  Enfermería.  Andalucía:  Sindicato
 de Enfermería, 2008
 
-Teresa   Sánchez  Moñino  et  al.  Guía  para  la  prevención  de  las  agresiones  a  profesionales  sanitarios  .
+Teresa   Sánchez   Moñino  et  al.  Guía  para  la  prevención  de  las  agresiones  a  profesionales  sanitarios.
 Murcia: Sindicato de Enfermería, 2009
 
 Teresa   Sánchez   Moñino   et   al.   Guía   sobre  consecuencias  del  trabajo  nocturno  y  a  turnos  sobre  la
@@ -42,11 +43,7 @@ salud, el bienestar y la actividad laboral . Murcia: Sindicato de Enfermería, 2
 ​​​​José   Antonio   Peña  Bayo  y  María  Sanz  Laina.  Manual  de  salud  laboral  .  Madrid:  Fundación  para  el
 Desarrollo de la Enfermería; Olalla Ediciones S.L., 1996
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (11):
 ------------------------------
 Boletín Oficial del Estado. Código Laboral y de la Seguridad Social . Madrid, 2015
 
@@ -54,7 +51,7 @@ Boletín Oficial del Estado. Código Laboral y de la Seguridad Social. Madrid, 2
 
 Boletín   Oficial   del   Estado.   Resolución  de  26  de  marzo  de  2018,  del  Instituto  Nacional  de  Gestión
 Sanitaria,   por   la   que   se  aprueba  y  publica  el  Protocolo  de  actuación  frente  a  la  violencia  en  el
-trabajo en los centros dependientes del INGESA . Madrid, 2018
+trabajo en los centros dependientes del INGESA. Madrid, 2018
 
 Carlos Andrés García Cano. Legislación para oposiciones sanitarias. 1.ª ed. Madrid: Torres Editores,
 2022
@@ -63,25 +60,22 @@ Francisco   Cebrián   Picazo  y  José  Joaquín  Fernández  Requena.  Guía  
 riesgos   biológicos   en   trabajadores   sanitarios  .  Islas  Baleares:  Institut  de  Salut  Laboral  de  les
 Illes Balears, 2004
 
-José   Manuel   García   Martín.   Enfermería  del  Trabajo.  Manual  CTO  de  Enfermería,  6.ª  ed.  Madrid:  CTO
+José   Manuel   García   Martín.  Enfermería  del  Trabajo  .  Manual  CTO  de  Enfermería,  6.ª  ed.  Madrid:  CTO
 Editorial, 2013
 
-Juan   José   Gestal   Otero.   Riesgos   laborales   del  personal  sanitario  .  3.ª  ed.  Madrid:  McGraw-Hill
+Juan   José   Gestal   Otero.   Riesgos   laborales   del   personal  sanitario.  3.ª  ed.  Madrid:  McGraw-Hill
 Interamericana, 2003
 
 Ministerio   de   Sanidad.   Actualización   n.º  604.  Enfermedad  por  el  coronavirus  (COVID-19)  .  Madrid:
 Centro de Coordinación de Alertas y Emergencias Sanitarias, s.f
 
-Ministerio   de   Sanidad.   Actualización   n.º   604.  Enfermedad  por  el  coronavirus  (COVID-19).  Madrid:
-Centro de Coordinación de Alertas y Emergencias Sanitarias, s.f
-
 Rafael   Jesús  López  Suárez.  Manual  didáctico  de  Salud  Laboral  para  Enfermería  .  Andalucía:  Sindicato
 de Enfermería, 2008
 
-Teresa   Sánchez   Moñino  et  al.  Guía  para  la  prevención  de  las  agresiones  a  profesionales  sanitarios.
+Teresa   Sánchez  Moñino  et  al.  Guía  para  la  prevención  de  las  agresiones  a  profesionales  sanitarios  .
 Murcia: Sindicato de Enfermería, 2009
 
 Teresa   Sánchez   Moñino   et   al.   Guía   sobre  consecuencias  del  trabajo  nocturno  y  a  turnos  sobre  la
 salud, el bienestar y la actividad laboral. Murcia: Sindicato de Enfermería, 2010
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 54% [█████░░░░░]

@@ -2,20 +2,27 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
 Angrosino,    M.V.,   Amo,   T.,   y   Blanco,   C.   (2012).   Etnografía   y   observación   participante   en
 investigación cualitativa. Morata
+
+Bakeman,   R.   y   Quera,   V.  (2011).  Sequential  analysis  and  observational  methods  for  the  behavioral
+sciences.   Cambridge  University  Press  Banks,  M.,  Blanco  Castellano,  C.,  &  Amo  Martin,  T.  (2010).  Los
+datos   visuales   en   investigación   cualitativa.   Morata   Buendía,   L.   y   Berrocal,   E.   (2010).  La
+observación   en  Nieto,  S.  Principios,  Métodos  y  Técnicas  esenciales  para  la  investigación  educativa.
+(pp. 129-144). Dykinson
 
 Hintze,   J.   M.   y   Matthews,   W.   J.  (2004).  The  Generalizability  of  systematic  direct  observations
 across   time  and  setting:  a  preliminary  investigation  of  the  psycometrics  of  behavioral  onservation.
 School Psychology Review, 33(2), 258-270
 
-📚 Recursos sin cambios:
-------------------------------
-Anguera,   M.   T.  (2010).  Posibilidades  y  relevancia  de  la  observación  sistemática  por  el  profesional
-de la psicología. Papeles del Psicólogo, 31(1), 122-130
+Tomé,   M.   (coord).   (2019)   Observación   Sistemática   y   análisis  de  contextos  para  la  innovación  y
+mejora.   Paraninfo   Yoder,   P.   J.   y   Simmons,   F.   (2010).  Observational  measurement  of  behaviour.
+Springer
 
+📚 Recursos sin cambios (4):
+------------------------------
 Anguera, M.T. (1982). Metodología de la observación de las ciencias humanas. Cátedra
 
 Anguera,   M.T.   (1990).  Metodología  observacional.  En  J.  Arnau,  M.T.  Anguera  y  J.  Gómez.  Metodología
@@ -23,14 +30,49 @@ de la investigación en Ciencias del Comportamiento. (pp. 134-151). Universidad 
 
 Anguera, M.T. (1991). Observación en la escuela. Grao
 
+Takala,   E.   P.,   Pehkonen,   I.,   Forsman,   M.,   Hansson,  G.  A.,  Mathiassen,  S.  E.,  Neumann,  W.  P.  y
+Winkel,   J.  (2010).  Systematic  evaluation  of  observational  methods  assessing  biomechanical  exposures
+at work. Scandinavian Journal of Work, Environment & Health, 36(1), 3–24
+
+✅ Recursos añadidos (21):
+------------------------------
+Anguera,   M.   T.   (2003).   Observational   Methods   (General).   En   Fernández-Ballesteros,   R.  (Ed.),
+Encyclopedia of Psychological Assessment, Vol. 2. 632-637. Sage
+
+Anguera,   M.   T.  (2010).  Posibilidades  y  relevancia  de  la  observación  sistemática  por  el  profesional
+de la psicología. Papeles del Psicólogo, 31(1), 122-130
+
+Anguera, M.T. (1991). Proceso de categorización. En M.T. Anguera (Ed.). Metodología observacional en
+la investigación psicológica.115-157. PPU
+
 Bakeman,   R.   y   Gottman,   J.M.   (1989).   Observación  de  la  interacción:  Introducción  al  análisis  de
 secuencias. Morata
+
+Bakeman,   R.   y   Quera,   V.  (2011).  Sequential  analysis  and  observational  methods  for  the  behavioral
+sciences. Cambridge University Press
+
+Banks,   M.,   Blanco   Castellano,   C.,   &   Amo  Martin,  T.  (2010).  Los  datos  visuales  en  investigación
+cualitativa. Morata
+
+Berrocal,   E.   y   Sánchez-Núñez,   C.   (2019).   Técnicas   e   instrumentos   para  observar  en  Educación
+Infantil. en Tomé, M. (Coord.). Observación Sistemática y análisis de contextos para la innovación y
+mejora. 71-94. Paraninfo
+
+Berrocal, E., Curiel-Marín, E. y Pegalajar, M. (2019). El proceso de investigación observacional, en
+Tomé,   M.   (Coord.).   Observación   Sistemática   y  análisis  de  contextos  para  la  innovación  y  mejora.
+Paraninfo
+
+Blanco,   A.   y   Anguera,   M.T.  (1991).  Sistemas  de  codificación.  En  Anguera,  M.T.  (Ed.).  Metodología
+observacional en la investigación psicológica, vol 1. 127-145. PPU
 
 Buendia,   L.   (1997).   La   investigación   observacional.   En   Buendia,  L.;  Colas,  P.  y  Hernandez,  F.
 (1997). Métodos de Investigación en Psicopedagogía, (pp. 157- 206). McGraw-Hill
 
 Buendia,   L.,   (1992).  Fiabilidad  de  los  datos  obtenidos  con  la  observación.  Revista  de  Educación  de
 la Universidad de Granada, 6, 98 -112
+
+Buendía,   L.   y   Berrocal,   E.   (2010).   La   observación  en  Nieto,  S.  Principios,  Métodos  y  Técnicas
+esenciales para la investigación educativa. (pp. 129-144). Dykinson
 
 Fernández,   M.,   Sánchez,   C.   R.,   Jiménez,   F.,   Navarro,   V.   y  Anguera,  M.  T.  (2012).  Sistema  de
 codificación   y  análisis  de  la  calidad  del  dato  para  una  intervención  inclusiva  en  Educación  Física.
@@ -46,73 +88,17 @@ observational files. Behavior Research Methods, Instruments & Computers, 32 (3),
 
 León, O. y Montero, I. (1998). Diseño de investigaciones. McGraw-Hill
 
-Takala,   E.   P.,   Pehkonen,   I.,   Forsman,   M.,   Hansson,  G.  A.,  Mathiassen,  S.  E.,  Neumann,  W.  P.  y
-Winkel,   J.  (2010).  Systematic  evaluation  of  observational  methods  assessing  biomechanical  exposures
-at work. Scandinavian Journal of Work, Environment & Health, 36(1), 3–24
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
 Parra-González, E. y Berrocal, E. (2019). Análisis de datos de la observación, en Tomé, M. (Coord.).
 Observación   Sistemática   y   análisis   de   contextos   para   la  innovación  y  mejora.  (pp.  145  -  165).
-Paraninfo   Sánchez-Algarra,   P.  y  Anguera,  M.  T.  (2013).  Qualitative/quantitative  integration  in  the
-inductive observational study of interactive behaviour: Impact of recording and coding predominating
-perspectives.   Quality   &   Quantity,  47(2),  1237-1257  →  Sánchez-Algarra,  P.  y  Anguera,  M.  T.  (2013).
-Qualitative/quantitative   integration  in  the  inductive  observational  study  of  interactive  behaviour:
-Impact of recording and coding predominating perspectives. Quality & Quantity, 47(2), 1237-1257
+Paraninfo
 
-Bakeman,   R.   y   Quera,   V.  (2011).  Sequential  analysis  and  observational  methods  for  the  behavioral
-sciences.   Cambridge  University  Press  Banks,  M.,  Blanco  Castellano,  C.,  &  Amo  Martin,  T.  (2010).  Los
-datos   visuales   en   investigación   cualitativa.   Morata   Buendía,   L.   y   Berrocal,   E.   (2010).  La
-observación   en  Nieto,  S.  Principios,  Métodos  y  Técnicas  esenciales  para  la  investigación  educativa.
-(pp.   129-144).   Dykinson   →   Banks,   M.,   Blanco  Castellano,  C.,  &  Amo  Martin,  T.  (2010).  Los  datos
-visuales en investigación cualitativa. Morata
-
-Anguera,   M.   T.   (2003).   Observational   Methods   (General).   En   Fernández-Ballesteros,   R.  (Ed.),
-Encyclopedia   of   Psychological   Assessment,   Vol.  2.  632-637.  Sage  Anguera,  M.T.  (1991).  Proceso  de
-categorización.    En    M.T.    Anguera    (Ed.).    Metodología    observacional    en   la   investigación
-psicológica.115-157.   PPU   →  Anguera,  M.T.  (1991).  Proceso  de  categorización.  En  M.T.  Anguera  (Ed.).
-Metodología observacional en la investigación psicológica.115-157. PPU
-
-Berrocal,   E.   y   Sánchez-Núñez,   C.   (2019).   Técnicas   e   instrumentos   para  observar  en  Educación
-Infantil. en Tomé, M. (Coord.). Observación Sistemática y análisis de contextos para la innovación y
-mejora.   71-94.   Paraninfo   Berrocal,   E.,   Curiel-Marín,   E.   y  Pegalajar,  M.  (2019).  El  proceso  de
-investigación   observacional,   en  Tomé,  M.  (Coord.).  Observación  Sistemática  y  análisis  de  contextos
-para   la  innovación  y  mejora.  Paraninfo  Blanco,  A.  y  Anguera,  M.T.  (1991).  Sistemas  de  codificación.
-En   Anguera,   M.T.  (Ed.).  Metodología  observacional  en  la  investigación  psicológica,  vol  1.  127-145.
-PPU   →   Tomé,   M.  (coord).  (2019)  Observación  Sistemática  y  análisis  de  contextos  para  la  innovación
-y mejora. Paraninfo
+Sánchez-Algarra,   P.   y  Anguera,  M.  T.  (2013).  Qualitative/quantitative  integration  in  the  inductive
+observational   study   of   interactive   behaviour:   Impact   of   recording   and   coding   predominating
+perspectives. Quality & Quantity, 47(2), 1237-1257
 
 Tomé,   M.   (coord).   (2019)   Observación   Sistemática   y   análisis  de  contextos  para  la  innovación  y
-mejora.   Paraninfo   Yoder,   P.   J.   y   Simmons,   F.   (2010).  Observational  measurement  of  behaviour.
-Springer   →   Tomé,   M.   (coord).   (2019)   Observación   Sistemática   y   análisis  de  contextos  para  la
-innovación y mejora. Paraninfo
-
-✅ Recursos añadidos:
-------------------------------
-Anguera,   M.   T.   (2003).   Observational   Methods   (General).   En   Fernández-Ballesteros,   R.  (Ed.),
-Encyclopedia of Psychological Assessment, Vol. 2. 632-637. Sage
-
-Bakeman,   R.   y   Quera,   V.  (2011).  Sequential  analysis  and  observational  methods  for  the  behavioral
-sciences. Cambridge University Press
-
-Berrocal,   E.   y   Sánchez-Núñez,   C.   (2019).   Técnicas   e   instrumentos   para  observar  en  Educación
-Infantil. en Tomé, M. (Coord.). Observación Sistemática y análisis de contextos para la innovación y
-mejora. 71-94. Paraninfo
-
-Berrocal, E., Curiel-Marín, E. y Pegalajar, M. (2019). El proceso de investigación observacional, en
-Tomé,   M.   (Coord.).   Observación   Sistemática   y  análisis  de  contextos  para  la  innovación  y  mejora.
-Paraninfo
-
-Blanco,   A.   y   Anguera,   M.T.  (1991).  Sistemas  de  codificación.  En  Anguera,  M.T.  (Ed.).  Metodología
-observacional en la investigación psicológica, vol 1. 127-145. PPU
-
-Buendía,   L.   y   Berrocal,   E.   (2010).   La   observación  en  Nieto,  S.  Principios,  Métodos  y  Técnicas
-esenciales para la investigación educativa. (pp. 129-144). Dykinson
-
-Parra-González, E. y Berrocal, E. (2019). Análisis de datos de la observación, en Tomé, M. (Coord.).
-Observación   Sistemática   y   análisis   de   contextos   para   la  innovación  y  mejora.  (pp.  145  -  165).
-Paraninfo
+mejora. Paraninfo
 
 Yoder, P. J. y Simmons, F. (2010). Observational measurement of behaviour. Springer
 
-📊 Porcentaje estimado de cambio: 75% [███████░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

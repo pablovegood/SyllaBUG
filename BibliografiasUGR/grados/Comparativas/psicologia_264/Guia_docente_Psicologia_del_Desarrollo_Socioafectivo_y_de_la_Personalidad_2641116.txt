@@ -2,11 +2,15 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Lansford,   Santrock,   J.   W.   &   Deater-Deckard,   K.   (2022).   Children.   McGraw-Hill   Papalia,  D.  &
+Martorell, G. (2024). Experience Human Development. McGraw-Hill
 
-📚 Recursos sin cambios:
+Shaffer,   D.   R.   (2004).   Desarrollo   social   y   de   la  personalidad.  Thomson  Berger,  K.  S.  (2006).
+Psicología del desarrollo: infancia y adolescencia. Panamericana
+
+📚 Recursos sin cambios (20):
 ------------------------------
 Berger, K. S. (2009). Psicología del desarrollo: adultez y vejez. Panamericana
 
@@ -56,20 +60,14 @@ Strock, J. (2003). Infancia, Psicología del desarrollo. McGraw Hill
 
 Vasta, R., Miller, S. A. y Ellis, S. (2004). Child Psychology. Wiley
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Shaffer,   D.   R.   (2004).   Desarrollo   social   y   de   la  personalidad.  Thomson  Berger,  K.  S.  (2006).
-Psicología    del   desarrollo:   infancia   y   adolescencia.   Panamericana   →   Berger,   K.   S.   (2006).
-Psicología del desarrollo: infancia y adolescencia. Panamericana
+Berger, K. S. (2006). Psicología del desarrollo: infancia y adolescencia. Panamericana
 
-Lansford,   Santrock,   J.   W.   &   Deater-Deckard,   K.   (2022).   Children.   McGraw-Hill   Papalia,  D.  &
-Martorell,   G.   (2024).   Experience   Human   Development.   McGraw-Hill   →  Lansford,  Santrock,  J.  W.  &
-Deater-Deckard, K. (2022). Children. McGraw-Hill
+Lansford, Santrock, J. W. & Deater-Deckard, K. (2022). Children. McGraw-Hill
 
-✅ Recursos añadidos:
-------------------------------
 Papalia, D. & Martorell, G. (2024). Experience Human Development. McGraw-Hill
 
 Shaffer, D. R. (2004). Desarrollo social y de la personalidad. Thomson
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

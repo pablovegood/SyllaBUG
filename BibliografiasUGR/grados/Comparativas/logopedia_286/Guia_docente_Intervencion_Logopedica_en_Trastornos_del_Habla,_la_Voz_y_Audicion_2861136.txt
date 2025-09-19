@@ -2,11 +2,13 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Puyuelo, M., y Rondal, J.A. (2003). Manual de desarrollo y alteraciones del lenguaje. Masson Torres,
+S.,   Rodríguez,   J.   M.,   Santana,   R.,   y   González,   A.   (1995).   Deficiencia   auditiva:   aspectos
+psicoevolutivos y educativos. Aljibe
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (28):
 ------------------------------
 Bartuilli,   M.,   Cabrera,   P.   J.   y  Periñan,  M.  C.  (2007).  Guía  técnica  de  intervención  logopédica.
 Terapia Miofuncional. Síntesis
@@ -48,19 +50,6 @@ Martínez, E. (1998). Logopedia. Lingüística: Teoría y aplicaciones. Barcelon
 
 Melle, N. (2007). Guía de intervención logopédica en la disartria. Síntesis
 
-Peña-Casanova, J. (2001). Manual de Logopedia. Masson
-
-Robb, M. P. (2010). INTRO. A guide for Communication Sciences and Disorders. Plural Publishing
-
-Williams,   D.   (2009).   Developmental   language   disorders.  Learning,  language  and  the  brain.  Plural
-Publishing
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Mendoza, E. (2001). Trastorno Específico del Lenguaje. Pirámide
 
 Monsalve, G. (2011). Guías de intervención logopédica en deficiencias auditivas. Síntesis
@@ -69,6 +58,8 @@ Narbona,   J.,   y   Chevrie-Muller,   C.   (1997):  El  lenguaje  del  niño:  
 trastornos. Masson
 
 Perelló, J. (1996). Evaluación de la voz, lenguaje y audición. Lebón
+
+Peña-Casanova, J. (2001). Manual de Logopedia. Masson
 
 Puga,   J.   L.   (2015).  Metodología  de  la  intervención  en  trastornos  de  audición  y  lenguaje  infantil.
 UCAM Universidad Católica de Murcia
@@ -79,11 +70,18 @@ tratamiento. Masson
 Puyuelo,   M.,   Póo,   P.,   Basisl,   C.,   y  Le  Métayer,  M.  (1996).  Logopedia  en  la  Parálisis  Cerebral.
 Masson
 
+Robb, M. P. (2010). INTRO. A guide for Communication Sciences and Disorders. Plural Publishing
+
+Vila, J.M. (2009). Guía de intervención logopédica en la disfonía infantil. Síntesis
+
+Williams,   D.   (2009).   Developmental   language   disorders.  Learning,  language  and  the  brain.  Plural
+Publishing
+
+✅ Recursos añadidos (2):
+------------------------------
 Puyuelo, M., y Rondal, J.A. (2003). Manual de desarrollo y alteraciones del lenguaje. Masson
 
 Torres,   S.,   Rodríguez,   J.   M.,  Santana,  R.,  y  González,  A.  (1995).  Deficiencia  auditiva:  aspectos
 psicoevolutivos y educativos. Aljibe
 
-Vila, J.M. (2009). Guía de intervención logopédica en la disfonía infantil. Síntesis
-
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

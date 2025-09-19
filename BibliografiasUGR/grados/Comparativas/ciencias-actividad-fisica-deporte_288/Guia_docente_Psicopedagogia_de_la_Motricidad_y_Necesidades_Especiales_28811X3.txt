@@ -2,11 +2,11 @@
 Grado: ciencias-actividad-fisica-deporte (288)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (45):
 ------------------------------
 Araujo,   K.  L.  de,  Gomes,  N.  M.,  Villaverde,  C.,  Botella,  M.,  Linares,  P.  L.,  Dantas,  G.,  Duarto,  J.
 y Avelar, J. (2015). Aspectos sociodemográficos en pacientes con accidente vascular encefálico en el
@@ -15,14 +15,6 @@ y Avelar, J. (2015). Aspectos sociodemográficos en pacientes con accidente vasc
 Bernal,   J.   (2002).   Juegos   y   actividades   adaptadas.  Todo  lo  que  debemos  saber  para  facilitar  la
 integración. Gymnos
 
-Linares, P. L. (2015). Psicopedagogía de la Motricidad y Necesidades Especiales. CopiDeporte
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Bernaldo de Quirós, M. (2012). Psicomotricidad: Guía de evaluación e intervención. Pirámide
 
 Casado,   D.   (2001).   Conceptos   sobre   la   discapacidad.   Apuntes.  Boletín  del  Real  Patronato  sobre
@@ -64,6 +56,11 @@ del alumnado con capacidades diferentes. INDE
 Kupfer,   D.   J.   &   Regier,   D.   A.   (Coords.)   (2013).   Diagnostic  and  Statistical  Manual  of  Mental
 Disorders (DSM-5). American Psychiatric Association (APA)
 
+Linares, P. L. (2015). Psicopedagogía de la Motricidad y Necesidades Especiales. CopiDeporte
+
+Linares,   P.   L.,   Arenas,   J.  J.,  Castaño,  M.,  Domingo,  R.,  Herrera,  I.,  Navas,  M.  C.  y  Roselló,  A.
+(2012)
+
 Linares,   P.   L.,   Arenas,   J.  J.,  Castaño,  M.,  Domingo,  R.,  Herrera,  I.,  Navas,  M.  C.  y  Roselló,  A.
 (2012). Autismo y musicoterapia (I): Características generales. Polibea, 105, 4-11
 
@@ -92,10 +89,8 @@ Linares,   P.   L.,   Ramírez,   P.   y  Rodríguez,  A.  E.  (2018a).  Proyect
 alumnado con síndrome de Down (I). Polibea, 126, 4-11
 
 Linares,   P.   L.,   Ramírez,   P.   y  Rodríguez,  A.  E.  (2018b).  Proyecto  de  intervención  psicomotriz  en
-alumnado con síndrome de Down (II). Polibea, 127 (En prensa)
-
-Linares,   P.   L.,   y   Sánchez,   M.   J.   (2010a).   Discapacidad   Intelectual,  relajación  y  cognición:
-Discusión de resultados. Polibea, 94, 4-9
+alumnado   con   síndrome   de   Down   (II).   Polibea,   127  (En  prensa)  Linares,  P.  L.,  y  Sánchez,  M.  J.
+(2010a). Discapacidad Intelectual, relajación y cognición: Discusión de resultados. Polibea, 94, 4-9
 
 Linares,   P.   L.,   y  Sánchez,  M.  J.  (2010b).  Resultados  y  su  discusión  acerca  de  la  relajación  en  el
 ámbito de la discapacidad intelectual. Polibea, 95, 4-9
@@ -115,9 +110,9 @@ para favorecer el desarrollo físico y psíquico. Narcea
 Pereira,   M.   (2009).   Alumnos   con   discapacidad   sensorial  en  el  área  de  educación  física.  Revista
 Digital de Innovación y Experiencias Educativas, 21
 
-Plaza, M.I. (2009). Deporte y Discapacidad. Ediciones Didácticas y Pedagógicas
+Plaza, M. I. (2009). Deporte y Discapacidad. Ediciones Didácticas y Pedagógicas
 
-Pérez.   J.  y  Sampedro,  J.  (2009).  Discapacidad,  actividad  física  y  deporte:  Clave  para  la  calidad  de
+Pérez,   J.  y  Sampedro,  J.  (2009).  Discapacidad,  actividad  física  y  deporte:  Clave  para  la  calidad  de
 vida. Universidad Politécnica de Madrid
 
 Ríos, M. (2007). Manual de educación física adaptada al alumno con discapacidad. Aula Magna
@@ -147,4 +142,9 @@ de la Educación Especial. Polibea, 102, 4-11
 Sánchez,   M.   J.,   y   Linares,  P.  L.  (2011b).  Alumnado  con  pluridiscapacidad  en  Centros  de  Educación
 Especial. Polibea, 101, 4-14
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+Linares,   P.   L.,   Ramírez,   P.   y  Rodríguez,  A.  E.  (2018b).  Proyecto  de  intervención  psicomotriz  en
+alumnado con síndrome de Down (II). Polibea, 127 (En prensa)
+
+📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]

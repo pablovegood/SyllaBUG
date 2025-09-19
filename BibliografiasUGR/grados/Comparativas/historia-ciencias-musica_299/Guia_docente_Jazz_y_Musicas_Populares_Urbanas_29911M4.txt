@@ -2,11 +2,12 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+FERNÁNDEZ,   Lluis.   Guateques,   tocatas   y   discos:   una  historia  de  la  música  pop  de  1954  a  Madrid:
+Aguilar, 2004
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (86):
 ------------------------------
 ADELL, Joan Elies. La música en la era digital: la cultura de masas como simulacro. Lleida: Milenio,
 1998
@@ -26,9 +27,16 @@ BENNETT, Andy y WAKSMAN, Steve, eds. The SAGE handbook of popular music. London:
 BERENDT,   Joachim  Ernst.  El  Jazz:  de  Nueva  Orleáns  al  Jazz  Rock.  Madrid:  Fondo  de  Cultura  Económica,
 1988
 
+BERGAMINI, Andrea. El rock y su historia. Traducción de Virginia Pére. Barcelona: Malsinet, 2006
+
 BIANCIOTTO, Jordi. Guía universal del rock: de 1970 a 1990. Barcelona: RobinBook, 2009
 
 BOECKMAN, Charles. Breve Historia del Jazz. Buenos Aires: Victor Leru, 1979
+
+CHEDIAK, Nat. Diccionario de jazz latino. Madrid: Fundacion Autor, 1998
+
+CLAYTON,   Peter.   Jazz  A-Z:  guía  alfabética  de  los  nombres,  los  lugares  y  la  gente  del  jazz.  Madrid:
+Taurus, 1990
 
 COKER, J. Improvising Jazz. New York, Siimon & Schuster, 1964
 
@@ -52,9 +60,6 @@ DEVEAUX, Scott / GIDDINS, Gary. Jazz. New York, Norton, 2009
 DURÁ,   Raúl.   Los   video-clips.   Precedentes,   orígenes   y   características.   Valencia:   Servicio  de
 publicaciones de la Universidad Politécnica de Valencia, 1988
 
-FERNÁNDEZ, Lluis. Guateques, tocatas y discos: una historia de la música pop de 1954 a 1970. Madrid:
-Aguilar, 2004
-
 FOUCE   RODRIGUEZ,   Hector.   El   futuro  ya  esta  aquí:  Música  pop  y  cambio  cultural  en  España:  Madrid,
 1978-1985. Madrid: Universidad Complutense de Madrid, 2002
 
@@ -73,6 +78,11 @@ Musical, 7 (2019), pp. 45-55
 GILLETT, Charlie. Historia del rock: el sonido de la ciudad. Barcelona: Ma Non Troppo, 2003
 
 GIOIA, Ted. Historia del Jazz. Madrid, Turner, 1997
+
+GONZÁLEZ,   Juan   Pablo.  “Los  estudios  de  música  popular  y  la  renovación  de  la  musicología  en  América
+Latina:    ¿el    gallina    o    el    huevo?”.   Trans:   Revista   Transcultural   de   Música,   12   (2008)
+http://www.sibetrans.com/trans/articulo/100/los-estudios-de-music    a-popular-y-la-renovacion-de-la-
+musi-cologia-en-america-latina-la-gallina-o-elhuevo [Consulta: 13/08/2015]
 
 GONZÁLEZ, Manu. Conversaciones de pop & rock. Málaga: Sepha, 2009
 
@@ -133,7 +143,11 @@ MIDDLETON, Richard. Studying popular music. Milton Keynes: Open University Press
 
 MOORE, Allan F. (Ed.). Analyzing popular music. Cambridge: Cambridge University Press, 2003
 
+MOORE, Allan F. Song Means: Analysing and Interpreting Recorded Popular Song. Surrey: Ashgate, 2012
+
 MORRISON, Toni. Jazz. Traducción, Jordi Gubert. Barcelona: Ediciones B, 1993
+
+NEGUS, Keith. Los géneros musicales y la cultura de las multinacionales. Barcelona: Paidós, 2005
 
 OLIVER, Paul. Gospel, blues & jazz. Barcelona: Muchnik, 1990
 
@@ -213,31 +227,9 @@ ZAMORA   PÉREZ,   Elisa  Constanza.  Juglares  del  siglo  XX,  la  canción  a
 ZEBADÚA   CARBONELL,   Juan  Pablo.  Rock  y  contracultura:  la  apropiación  cultural  del  rock  por  parte  de
 la juventud contemporánea. Veracruz, México : Instituto Veracruzano de Cultura, 2002
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-GONZÁLEZ,   Juan   Pablo.  “Los  estudios  de  música  popular  y  la  renovación  de  la  musicología  en  América
-Latina:   ¿el   gallina  o  el  huevo?”.  Trans:  Revista  Transcultural  de  a-popular-y-la-renovacion-de-la-
-musi-cologia-en-america-latina-la-gallina-o-el-    huevo   [Consulta:   13/08/2015]   →   GONZÁLEZ,   Juan
-Pablo.   “Los   estudios   de   música   popular  y  la  renovación  de  la  musicología  en  América  Latina:  ¿el
-gallina     o     el     huevo?”.     Trans:     Revista     Transcultural     de     Música,     12    (2008)
-http://www.sibetrans.com/trans/articulo/100/los-estudios-de-musica-popular-y-la-renovacion-de-la-
-musi-cologia-en-america-latina-la-gallina-o-el-huevo [Consulta: 13/08/2015]
+FERNÁNDEZ, Lluis. Guateques, tocatas y discos: una historia de la música pop de 1954 a 1970. Madrid:
+Aguilar, 2004
 
-Cambridge   University   Press,   2014  →  COOKE,  Mervyn  /  HORN,  David  (Eds.).  The  Cambridge  companion  to
-jazz. Cambridge: Cambridge University Press, 2002
-
-CHEDIAK,   Nat.   Diccionario   de   jazz   latino.  Madrid:  Fundacion  Autor,  1998.  Madrid:  Taurus,  1990  →
-CHEDIAK, Nat. Diccionario de jazz latino. Madrid: Fundacion Autor, 1998
-
-✅ Recursos añadidos:
-------------------------------
-BERGAMINI, Andrea. El rock y su historia. Traducción de Virginia Pére. Barcelona: Malsinet, 2006
-
-CLAYTON,   Peter.   Jazz  A-Z:  guía  alfabética  de  los  nombres,  los  lugares  y  la  gente  del  jazz.  Madrid:
-Taurus, 1990
-
-MOORE, Allan F. Song Means: Analysing and Interpreting Recorded Popular Song. Surrey: Ashgate, 2012
-
-NEGUS, Keith. Los géneros musicales y la cultura de las multinacionales. Barcelona: Paidós, 2005
-
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]

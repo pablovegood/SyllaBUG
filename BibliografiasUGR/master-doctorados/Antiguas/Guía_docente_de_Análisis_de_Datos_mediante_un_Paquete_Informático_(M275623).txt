@@ -1,7 +1,0 @@
-Martín Andrés, A. y Luna del Castillo, J.D. (1995). 50±10 horas de Bioestadística. Ed Norma.
-Martín Andrés, A. y Luna del Castillo, J.D. (2013). 40±10 horas de Bioestadística. Ed Norma.
-Martín Andrés, A. y Luna del Castillo, J.D. (2004). "Bioestadística (+) para las Ciencias de la Salud". Ed. Norma-Capitel.
-Crawley, M.J. (2012). The R Book, 2nd Edition. ISBN: 978-1-118-44896-0.
-Peña Sánchez de Rivera, D. (1998). Estadística: fundamentos y métodos. (2 vols.). Alianza Universidad.
-Colton, T. (1979). Estadística en Medicina. Ed. Salvat.
-Lepš, J., & Šmilauer, P. (2020).Biostatistics with R: An Introductory Guide for Field Biologists. Cambridge: Cambridge University Press. doi:10.1017/9781108616041

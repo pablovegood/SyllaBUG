@@ -2,31 +2,32 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+AA.VV. 2007,Ensayos sobre Políticas Públicas. Ed. Universidad Externado de Colombia, Bogotá Aguilar,
+L. (Ed.). 1996,El estudio de las Políticas Públicas. Miguel Ángel Porrúa. Grupo Editorial, México
 
-📚 Recursos sin cambios:
+Pérez   Sánchez,   M.   1997,Formación   y   empleo  en  España:  Análisis  y  evaluación  de  la  Pressman,  J.  y
+Wikdawsky, A. 1973,Implementation. Berkeley University Press, Berkeley
+
+Pérez   Sánchez,   M.   1999,  "El  análisis  de  las  políticas  públicas".  Cuadernos  de  Trabajo  de  la  Pérez
+Sánchez,   M.   (Ed.)   2006,El   Análisis   de   las  Políticas  Públicas.  Universidad  de  Granada,  Granada.
+(MANUAL   RECOMENDADO)  Pérez  Sánchez,  M.,  Trinidad,  A.,  Ortega,  N.  y  Saravia,  P.  2015,Participación  y
+Negociación Quade, E., 1989,Análisis de formación de decisiones políticas. Ed. Instituto de Estudios
+Fiscales, Madrid
+
+📚 Recursos sin cambios (53):
 ------------------------------
 AA.VV.   1991,   "Políticas   públicas   y  organización  administrativa",Documentación  Administrativa,  Nª
 224-225
+
+AA.VV. 2007,Ensayos sobre Políticas Públicas. Ed. Universidad Externado de Colombia, Bogotá
 
 Aguilar, L. 1996,La Hechurade las Políticas Públicas. Miguel Ángel Porrúa. Grupo Editorial, México
 
 Aguilar, L. 1996,La implementación de las Políticas. Miguel Ángel Porrúa. Grupo Editorial, México
 
 Aguilar,   L.   1996,Problemas   Públicos   y   Agenda  de  Gobierno.  Miguel  Ángel  Porrúa.  Grupo  Editorial,
-México
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-AA.VV. 2007,Ensayos sobre Políticas Públicas. Ed. Universidad Externado de Colombia, Bogotá Aguilar,
-L.   (Ed.).  1996,El  estudio  de  las  Políticas  Públicas.  Miguel  Ángel  Porrúa.  Grupo  Editorial,  México  →
-AA.VV. 2007,Ensayos sobre Políticas Públicas. Ed. Universidad Externado de Colombia, Bogotá
-
-✅ Recursos añadidos:
-------------------------------
-Aguilar,   L.  (Ed.).  1996,El  estudio  de  las  Políticas  Públicas.  Miguel  Ángel  Porrúa.  Grupo  Editorial,
 México
 
 Alvira,   F.   1991,Metodología  de  la  evaluación  de  programas.  Centro  de  Investigaciones  Sociológicas,
@@ -116,23 +117,6 @@ Lindberg et alt. (eds.),Stress and contradictions in modern capitalism. Lexingto
 
 Parsons, W. 2007,Políticas Públicas. Flacso. México
 
-Pressman, J. y Wikdawsky, A. 1973,Implementation. Berkeley University Press, Berkeley
-
-Pérez Sánchez, M. (Ed.) 2006,El Análisis de las Políticas Públicas. Universidad de Granada, Granada.
-(MANUAL RECOMENDADO)
-
-Pérez   Sánchez,   M.   1997,Formación   y   empleo   en   España:   Análisis  y  evaluación  de  la  política  de
-formación ocupacional. Universidad de Granada, Granada
-
-Pérez Sánchez, M. 1999, "El análisis de las políticas públicas". Cuadernos de Trabajo de la Facultad
-de CC.PP. y Sociología, Universidad de Granada
-
-Pérez   Sánchez,   M.,   Trinidad,   A.,   Ortega,   N.   y  Saravia,  P.  2015,Participación  y  Negociación  en
-Procesos Evaluativos.Ed. Universidad de Granada
-
-Quade,   E.,   1989,Análisis  de  formación  de  decisiones  políticas.  Ed.  Instituto  de  Estudios  Fiscales,
-Madrid
-
 Rose, R. 1998,El Gran Gobierno. Un acercamiento desde los programas gubernamentales. FCE, México
 
 Smith,   G.   y   May,  D.  1980,  “The  artificial  debate  between  rationalist  and  incrementalist  models  of
@@ -169,4 +153,28 @@ Saddle River (NY)
 Wildavsky,   A.   1979,Speaking   Truth   to   Power.The   Art  and  Craft  of  Policy  Analysis.  Little  Brown,
 Boston
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (8):
+------------------------------
+AA.VV. 2007,Ensayos sobre Políticas Públicas. Ed. Universidad Externado de Colombia, Bogotá
+
+Aguilar,   L.  (Ed.).  1996,El  estudio  de  las  Políticas  Públicas.  Miguel  Ángel  Porrúa.  Grupo  Editorial,
+México
+
+Pressman, J. y Wikdawsky, A. 1973,Implementation. Berkeley University Press, Berkeley
+
+Pérez Sánchez, M. (Ed.) 2006,El Análisis de las Políticas Públicas. Universidad de Granada, Granada.
+(MANUAL RECOMENDADO)
+
+Pérez   Sánchez,   M.   1997,Formación   y   empleo   en   España:   Análisis  y  evaluación  de  la  política  de
+formación ocupacional. Universidad de Granada, Granada
+
+Pérez Sánchez, M. 1999, "El análisis de las políticas públicas". Cuadernos de Trabajo de la Facultad
+de CC.PP. y Sociología, Universidad de Granada
+
+Pérez   Sánchez,   M.,   Trinidad,   A.,   Ortega,   N.   y  Saravia,  P.  2015,Participación  y  Negociación  en
+Procesos Evaluativos.Ed. Universidad de Granada
+
+Quade,   E.,   1989,Análisis  de  formación  de  decisiones  políticas.  Ed.  Instituto  de  Estudios  Fiscales,
+Madrid
+
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

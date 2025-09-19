@@ -2,36 +2,37 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
-No hay elementos.
+Abbas AK, Lichtman AH, y Pober JS. Inmunología Celular y Molecular. McGraw-HillInteramericana
 
-📚 Recursos sin cambios:
+Kindt TJ, Goldsby RA and Osborne BA. Kuby Immunology, W.H. Freeman and Co
+
+Mak TW, Saunders ME and Jett BD. Primer to the Immune Response. Elsevier
+
+Murphy K, Janeway CA, Travers P and Walport M. Janeway’s Immunobiology,Garland Science
+
+Parham P. The Immune System, Garland Science
+
+Rosen, FS y Geha, RS. Estudio de casos clínicos en Inmunología. Masson. Barcelona
+
+📚 Recursos sin cambios (3):
 ------------------------------
-Abbas   AK,   Lichtman   AH,   y  Pober  JS.  Inmunología  Celular  y  Molecular.  McGraw-Hill-  Interamericana.
-Kindt   TJ,   Goldsby  RA  and  Osborne  BA.  Kuby  Immunology,  W.H.  Freeman  and  Co.  Mak  TW,  Saunders  ME  and
-Jett   BD.   Primer   to   the   Immune   Response.   Elsevier.   Male   D,   Brostoff   J,   Roth  DB  y  Roitt  I.
-Inmunología,    Elsevier.    Murphy    K,    Janeway    CA,    Travers    P    and    Walport    M.   Janeway’s
-Immunobiology,Garland   Science.   Parham  P.  The  Immune  System,  Garland  Science.  Rosen,  FS  y  Geha,  RS.
-Estudio   de  casos  clínicos  en  Inmunología.  Masson.  Barcelona.  Peakman  M  y  Vergani  Diego.  Inmunología
-Básica   y  Clínica.  Elsevier  Delves  PJ,  Martin  S,  Burton  D  and  Roitt  I.  Roitt’s  Essential  Immunology,
-Wiley-Blackwell Paul WE. Fundamental Immunology, Lippincott Williams & Wilkins, Philadelphia
+Male D, Brostoff J, Roth DB y Roitt I. Inmunología, Elsevier
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Peakman M y Vergani Diego. Inmunología Básica y Clínica. Elsevier -Delves PJ, Martin S, Burton D and
+Roitt   I.  Roitt’s  Essential  Immunology,  Wiley-Blackwell  -Paul  WE.  Fundamental  Immunology,  Lippincott
+Williams & Wilkins, Philadelphia
 
-✅ Recursos añadidos:
+REVISTAS: -Trends in Immunology -Current Opinions in Immunology -Nature Reviews in Immunology
+
+✅ Recursos añadidos (5):
 ------------------------------
 Abbas AK, Lichtman AH, y Shiv Pillai. Inmunología básica. Editoral Elsevier. Sexta edición
 
 Current Opinions in Immunology
 
 Delves PJ, Martin S, Burton D and Roitt I. Roitt’s Essential Immunology, Wiley-Blackwell
-
-Nature Reviews in Immunology
-
-Paul WE. Fundamental Immunology, Lippincott Williams & Wilkins, Philadelphia
 
 Robert   R.   Rich;  Thomas  A.  Fleisher;  William  T.  Shearer;  Harry  Schroeder;  Anthony  J.  Frew;  Cornelia
 M. Clinical Immunology. Editoral Elsevier. Quinta edición. 2019

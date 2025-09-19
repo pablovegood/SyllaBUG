@@ -2,12 +2,21 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Heidrich,   Franziska;  Klaus  Schubert  (Hg.)  (2020):  Fachkommunikation  –  gelenkt,  geregelt,  optimiert.
+(Fach – Sprache – Kommunikation 1.) Hildesheim: Universitätsverlag – https://dx.doi.org/10.18442/087
+(20.03.2020) Kalverkämper, Hartwig; Klaus-Dieter Baumann (Hg.) (2019): Fachtextsorten-in-Vernetzung
 
-📚 Recursos sin cambios:
+Stolze,   R.   (2013).   Fachübersetzen   –  Ein  Lehrbuch  für  Theorie  und  Praxis  (Forum  für  Fachsprachen-
+Forschung   89.).   Berlin:  Frank  &  Timme.  ISBN  978-3-86596-257-7  Arntz,  Reiner.  (2010).  “Juristisches
+Übersetzen zwischen Sprachvergleich und Rechtsvergleich”
+
+📚 Recursos sin cambios (13):
 ------------------------------
+Arntz,   Reiner.   (2010).   “Juristisches  Übersetzen  zwischen  Sprachvergleich  und  Rechtsvergleich”.  En
+Lebende Sprachen, 55 (1), 17-30
+
 Borja   Albi.   A.   y  Prieto  Ramos,  F.  (eds)  (2013).  Legal  Translation  in  Context.  Professional  Issues
 and Prospects. Serie New Trends in Translation Studies (Vol.4). Oxford/Bern: Peter Lang
 
@@ -23,6 +32,9 @@ y Valentín García Yebra (eds.), 275-308. Madrid: Arcos Libros
 Grauwinkel,   Gabriele   y   Neunzig,   Wilhelm   (2004).   El   uso   inteligente   de  las  tecnologías  de  la
 información:   un   reto   para   la   traducción   especializada  inversa.  En  Insights  into  Scientific  and
 Technical Translation. Rolf Gazer, Cristina Guirado y Joelle Rey (eds.) 175-186. Barcelona: PPU
+
+Kalverkämper,   Hartwig;   Klaus-Dieter  Baumann  (Hg.)  (2019):  Fachtextsorten-in-Vernetzung.  (Forum  für
+Fachsprachen-Forschung 80.) Berlin: Frank & Timme
 
 López-Rodríguez,   C.   I.   (2023).   Localización   para   lingüistas   y  traductores.  Granada:  Editorial
 Comares
@@ -50,27 +62,13 @@ Tübingen: Stauffenburg
 Way,   C.   (2012).   “A  Discourse  Analysis  Approach  to  Legal  Translator  Training:  More  than  words”.  En
 International Journal of Law, Language and Discourse 4 (2), 39-61
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Stolze,   R.   (2013).   Fachübersetzen   –  Ein  Lehrbuch  für  Theorie  und  Praxis  (Forum  für  Fachsprachen-
-Forschung   89.).   Berlin:  Frank  &  Timme.  ISBN  978-3-86596-257-7  Arntz,  Reiner.  (2010).  “Juristisches
-Übersetzen   zwischen   Sprachvergleich  und  Rechtsvergleich”  →  Stolze,  R.  (2013).  Fachübersetzen  –  Ein
-Lehrbuch   für  Theorie  und  Praxis  (Forum  für  Fachsprachen-Forschung  89.).  Berlin:  Frank  &  Timme.  ISBN
-978-3-86596-257-7
-
-Heidrich,   Franziska;  Klaus  Schubert  (Hg.)  (2020):  Fachkommunikation  –  gelenkt,  geregelt,  optimiert.
-(Fach   –   Sprache  –  Kommunikation  1.)  Hildesheim:  Universitätsverlag  –  Kalverkämper,  Hartwig;  Klaus-
-Dieter   Baumann   (Hg.)   (2019):  Fachtextsorten-in-Vernetzung.  (Forum  für  Fachsprachen-Forschung  80.)
-Berlin:   Frank   &   Timme  →  Kalverkämper,  Hartwig;  Klaus-Dieter  Baumann  (Hg.)  (2019):  Fachtextsorten-
-in-Vernetzung. (Forum für Fachsprachen-Forschung 80.) Berlin: Frank & Timme
-
-✅ Recursos añadidos:
-------------------------------
-Arntz,   Reiner.   (2010).   “Juristisches  Übersetzen  zwischen  Sprachvergleich  und  Rechtsvergleich”.  En
-Lebende Sprachen, 55 (1), 17-30
-
 Heidrich,   Franziska;  Klaus  Schubert  (Hg.)  (2020):  Fachkommunikation  –  gelenkt,  geregelt,  optimiert.
 (Fach – Sprache – Kommunikation 1.) Hildesheim: Universitätsverlag – https://dx.doi.org/10.18442/087
 (20.03.2020)
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+Stolze,   R.   (2013).   Fachübersetzen   –  Ein  Lehrbuch  für  Theorie  und  Praxis  (Forum  für  Fachsprachen-
+Forschung 89.). Berlin: Frank & Timme. ISBN 978-3-86596-257-7
+
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

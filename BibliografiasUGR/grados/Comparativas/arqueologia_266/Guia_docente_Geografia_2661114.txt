@@ -2,14 +2,18 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+HIERNAUX,   D.   &   LINDÓN,  A.  (2006):  Tratado  de  Geografía  Humana.  Anthropos  Editorial  JELLICOE,  G.  &
+JELLICOE,   S.   (2004):  El  paisaje  del  hombre.  La  conformación  del  entorno  desde  la  prehistoria  hasta
+nuestros días. Editorial Gustavo Gili
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (36):
 ------------------------------
 AGUILERA,   M.J.,   BORDERÍAS,   M.P.,  GONZÁLEZ-YANCI,  M.P.  &  SANTOS,  J.M.  (2009):  Geografía  General  I:
 Geografía Física. UNED
+
+AGUILERA-ARILLA et al. (1997): Ejercicios prácticos de Geografía Física. UNED
 
 ALONSO-OTERO, F. et al. (1980): Prácticas de Geografía Física. Oikos-Tau
 
@@ -33,7 +37,7 @@ CUADRAT, J.M. & PITA, M.F. (2006): Climatología. Cátedra (cuarta edición)
 
 DEMANGEOT, J. (1989): Los medios “naturales” del globo. Masson
 
-GEORGE, P. (2004): Diccionario Akal de Geografía. Akal
+DICCIONARIOS Y ATLAS: GEORGE, P. (2004): Diccionario Akal de Geografía. Akal
 
 GOUDIE, A. (2013): Encyclopedia of geomorphology. Routledge
 
@@ -89,18 +93,11 @@ ZÁRATE, M. & RUBIO, M.T. (2006). Glosario y prácticas de Geografía Humana. Fu
 ZÚÑIGA-LÓPEZ   I.   &  CRESPO  DEL  ARCO,  E.  (2016).  Meteorología  y  Climatología.  Universidad  Nacional  de
 Educación a Distancia (segunda edición)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-HIERNAUX,   D.   &   LINDÓN,  A.  (2006):  Tratado  de  Geografía  Humana.  Anthropos  Editorial  JELLICOE,  G.  &
-JELLICOE,   S.   (2004):  El  paisaje  del  hombre.  La  conformación  del  entorno  desde  la  prehistoria  hasta
-nuestros   días.   Editorial   Gustavo   Gili   →   HIERNAUX,  D.  &  LINDÓN,  A.  (2006):  Tratado  de  Geografía
-Humana. Anthropos Editorial
+GEORGE, P. (2004): Diccionario Akal de Geografía. Akal
 
-✅ Recursos añadidos:
-------------------------------
-AGUILERA-ARILLA et al. (1997): Ejercicios prácticos de Geografía Física. UNED
-
-DICCIONARIOS Y ATLAS
+HIERNAUX, D. & LINDÓN, A. (2006): Tratado de Geografía Humana. Anthropos Editorial
 
 JELLICOE,   G.   &   JELLICOE,   S.   (2004):  El  paisaje  del  hombre.  La  conformación  del  entorno  desde  la
 prehistoria hasta nuestros días. Editorial Gustavo Gili

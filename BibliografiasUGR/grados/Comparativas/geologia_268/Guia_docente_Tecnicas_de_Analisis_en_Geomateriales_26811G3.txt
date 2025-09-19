@@ -2,26 +2,15 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Potts,   P.   J.   (1992).   A   Handbook  of  Silicate  Rock  Analysis.  Blackie  and  Sons.  Putnis,  A.  (1992).
-Introduction   to   Mineral   Sciences.   Cambridge  Univ.  Press.  Zussman,  J.  (1977).  Physical  methods  in
-determinative   Mineralogy.   Academic  Press.  Rodríguez  Gallego,  M.  (1982).  La  difracción  de  los  rayos
-X.   Alhambra.   Scott,   V.   D.,   Love,   G.,   Reed   S.J.B.   ed.   (1995).   Quantitative   electron-probe
-microanalysis.   Ellis   Horwood   →   Putnis,   A.   (1992).   Introduction  to  Mineral  Sciences.  Cambridge
-Univ. Press
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (5):
 ------------------------------
 Potts, P. J. (1992). A Handbook of Silicate Rock Analysis. Blackie and Sons
+
+Putnis, A. (1992). Introduction to Mineral Sciences. Cambridge Univ. Press
 
 Rodríguez Gallego, M. (1982). La difracción de los rayos X. Alhambra
 
@@ -30,4 +19,8 @@ Horwood
 
 Zussman, J. (1977). Physical methods in determinative Mineralogy. Academic Press
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

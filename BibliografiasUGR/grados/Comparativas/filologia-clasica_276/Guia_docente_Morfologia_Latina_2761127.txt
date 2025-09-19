@@ -2,11 +2,15 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ernout,   A.   (1953):Morphologie  historique  du  latin,  3ª  ed.,  Paris,  ed.  Klincksieck.  [existe  versión
+de la primera edición francesa realizada por Rufo Mendizábal, Madrid, editorial El Mensajero, 1924].
+URL:                   https://kupdf.net/download/morfolog-iacute-a-hist-oacuterica-latina-de-alfred-
+ernout_58ffd87fdc0d60527d959eea_pdf#   Leumann,   M.   (1977):Lateinische   Grammatik.  II.2.1Lateinische
+Laut- und Formenlehre, München
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 Cauquil, G. – Guillaumin, J. (1992):Vocabulaire essentiel de latin, Paris
 
@@ -16,6 +20,12 @@ Del Castillo Herrera, M. (2014):Vocabulario Latino. Ascendencia, frecuencia, tra
 
 Ernout,   A.   –   Meillet,  A.  (2001):Dictionnaire  étymologique  de  la  langue  latine:  histoire  des  mots,
 Paris [1932]
+
+Molina   Yévenes,   J.   (1993):Iniciación  a  la  fonética  y  morfología  latinas,  edición  preparada  por  E.
+Borrell Vidal, Barcelona
+
+Monteil,   P.  (1992):Elementos  de  fonética  y  morfología  del  latín,actualización  y  traducción  española
+de C. Fernández, Sevilla [Paris 1970]
 
 Segura Munguía, S. (2007):Diccionario por raíces del latín y las voces derivadas, Bilbao
 
@@ -27,26 +37,13 @@ Walde, A. – Hofmann, J. B. (1965):Lateinisches Etymologisches Wörterbuch(3 vo
 
 Weiss, M. (2009):Outline of the Historical and Comparative Grammar of Latin, Ann Arbor
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ernout,   A.   (1953):Morphologie  historique  du  latin,  3ª  ed.,  Paris,  ed.  Klincksieck.  [existe  versión
-de   la   primera   edición   francesa   realizada  por  Rufo  Mendizábal,  Madrid,  editorial  rica-latina-de-
-alfred-ernout_58ffd87fdc0d60527d959eea_pdf#      Leumann,      M.      (1977):Lateinische     Grammatik.
-II.2.1Lateinische   Laut-   und   Formenlehre,   München.   por   E.   Borrell  Vidal,  Barcelona.  traducción
-española   de   C.   Fernández,   Sevilla   [Paris   1970]   →   Leumann,   M.   (1977):Lateinische  Grammatik.
-II.2.1Lateinische Laut- und Formenlehre, München
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Ernout,   A.   (1953):Morphologie  historique  du  latin,  3ª  ed.,  Paris,  ed.  Klincksieck.  [existe  versión
 de la primera edición francesa realizada por Rufo Mendizábal, Madrid, editorial El Mensajero, 1924].
 URL:                  https://kupdf.net/download/morfolog-iacute-a-hist-oacute-rica-latina-de-alfred-
 ernout_58ffd87fdc0d60527d959eea_pdf#
 
-Molina   Yévenes,   J.   (1993):Iniciación  a  la  fonética  y  morfología  latinas,  edición  preparada  por  E.
-Borrell Vidal, Barcelona
+Leumann, M. (1977):Lateinische Grammatik. II.2.1Lateinische Laut- und Formenlehre, München
 
-Monteil,   P.  (1992):Elementos  de  fonética  y  morfología  del  latín,actualización  y  traducción  española
-de C. Fernández, Sevilla [Paris 1970]
-
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

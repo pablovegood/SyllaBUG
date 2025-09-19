@@ -2,7 +2,7 @@
 Grado: fisioterapia-melilla (541)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (6):
 ------------------------------
 A.   M.   Requejo,   R.   M.   Ortega:   “NUTRIGUÍA:   MANUAL   DE   NUTRICIÓN  CLÍNICA  EN  ATENCIÓN  PRIMARIA”.
 Complutense. Madrid, 2003
@@ -10,27 +10,25 @@ Complutense. Madrid, 2003
 E.   Casanueva,   M.  Kaufer-Hortwitz,  A.  B.  Pérez-Lizauz,  P.  Arroyo:  “NUTRIOLOGÍA  MÉDICA,  2ª  edición”.
 Panamericana Medica. Buenos Aires, 2001
 
-L. K. Mahan, S. Scott-Stump: “NUTRICIÓN Y DIETOTERAPIA DE KRAUSE, 10ª edición”
+J. Mataix Vedú : “NUTRICIÓN Y ALIMENTACIÓN HUMANA”. Ergon. Madrid, 2002
+
+L.   K.   Mahan,   S.   Scott-Stump:   “NUTRICIÓN   Y   DIETOTERAPIA   DE   KRAUSE,  10ª  edición”.  McGraw-Hill
+Interamericana. México, 2001
 
 M. E. Shills, J. A. Olson, M. Shike, C. Ross: “NUTRICIÓN EN SALUD Y ENFERMEDAD, 9ª edición”. McGraw-
-Hill Interamericana. México, 2002. de los bloques
+Hill Interamericana. México, 2002
 
-McGraw-Hill Interamericana. México, 2001
+Á. Gil Hernández: “TRATADO DE NUTRICIÓN”. Editorial Médica Panamericana, Madrid, 2017
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (1):
 ------------------------------
-No hay elementos.
+Se   proporcionará   a   los   estudiantes   bibliografía  complementaria  y  actualizada  en  cada  uno  de  los
+bloques
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-J.   Mataix   Vedú   :   “NUTRICIÓN   Y   ALIMENTACIÓN   HUMANA”.  Ergon.  Madrid,  2002  →  F.  J.  Mataix  Verdú:
-Nutrición y alimentación humana, 2ª edición revisada. Ergon, Madrid, 2015
+F. J. Mataix Verdú: Nutrición y alimentación humana, 2ª edición revisada. Ergon, Madrid, 2015
 
-Á.   Gil   Hernández:   “TRATADO   DE   NUTRICIÓN”.   Editorial  Médica  Panamericana,  Madrid,  2017  →  Á.  Gil
-Hernández et al.: Tratado de nutrición, 4ª edición. Editorial Médica Panamericana, Madrid, 2024
-
-✅ Recursos añadidos:
-------------------------------
 J. L. M. Raymond: Krause. Mahan. Dietoterapia, 16ª edición. Elsevier, 2025
 
 M.   Kaufer-Horwitz,   L.   M.  Gutiérrez  Robledo,  A.  B.  Pérez-Lizaur,  V.  E.  Ramos  Barragán:  Nutriología
@@ -42,7 +40,7 @@ revisada. Pirámide, Madrid, 2022
 R.   M.   Ortega   Anta,   A.   M.   Requejo   Marcos:   Nutriguía:  manual  de  nutrición  clínica,  3ª  edición.
 Panamericana, Buenos Aires, 2024
 
-Se   proporcionará   al   estudiantado   bibliografía   complementaria   y   actualizada  en  cada  uno  de  los
-bloques
+Á.   Gil   Hernández   et  al.:  Tratado  de  nutrición,  4ª  edición.  Editorial  Médica  Panamericana,  Madrid,
+2024
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -2,11 +2,12 @@
 Grado: terapia-ocupacional (243)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+HUERTAS,   Rafael.   Otra  historia  para  otra  psiquiatría.  Barcelona,  Xoroi  Edicions,  2017  PORTER,  Roy.
+Breve historia de la locura. Madrid, Turner, 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 BARONA-VILAR, Josep L. Manual de historia de la medicina. Valencia, Tirant, 2023
 
@@ -20,14 +21,10 @@ de   las   mujeres  y  de  género  en  ciencias  de  la  salud.  Santander,  Ed
 PORTER,   Roy.   Breve  historia  de  la  medicina.  Las  personas,  la  enfermedad  y  la  asistencia  sanitaria,
 Madrid, Taurus, 2003
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-HUERTAS,   Rafael.   Otra  historia  para  otra  psiquiatría.  Barcelona,  Xoroi  Edicions,  2017  PORTER,  Roy.
-Breve   historia   de   la   locura.   Madrid,   Turner,   2002  →  PORTER,  Roy.  Breve  historia  de  la  locura.
-Madrid, Turner, 2002
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 HUERTAS, Rafael. Otra historia para otra psiquiatría. Barcelona, Xoroi Edicions, 2017
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+PORTER, Roy. Breve historia de la locura. Madrid, Turner, 2002
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

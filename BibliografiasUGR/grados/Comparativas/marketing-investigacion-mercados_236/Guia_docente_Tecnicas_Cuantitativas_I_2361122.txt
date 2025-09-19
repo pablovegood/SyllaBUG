@@ -2,15 +2,16 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Abad Montes F. y Vargas Jiménez M. (1991). Estadística
 
-Amor Pulido, R. (2016) Técnicas Cuantitativas I. Editorial Técnica AVICAM. Fleming
+Amor   Pulido,   R.   (2016)   Técnicas   Cuantitativas  I.  Editorial  Técnica  AVICAM.  Fleming  Black,K.  and
+Eldredge, D. (200). Bussiness and economic statistics using microsoft excel. South-Western
 
 Amor   Pulido,   R;   Aguilar   Peña,   C.  y  Morales  Luque,  A  (2011):Estadística  Descriptiva  y  Cálculo  de
 Probabilidades. Grupo Editorial Universitario
@@ -44,18 +45,13 @@ Ed. Copicentro Granada
 
 Lind, Marchal y Wathen (2008) Estadística aplicada a los negocios y la economía. McGraw-Hill
 
-Martín   Pliego.   F.   J.   (2004)   Introducción   a   la  estadística  económica  y  empresarial.3ª  edición,
-Editorial Thomson
+McGraw-Hill   Martín   Pliego.   F.   J.  (2004)  Introducción  a  la  estadística  económica  y  empresarial.3ª
+edición, Editorial Thomson
 
 Newbold, P. (1997). Estadística para los negocios y la economía. Prentice-Hall
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-No hubo cambios de edición/año.
+Amor Pulido, R. (2016) Técnicas Cuantitativas I. Editorial Técnica AVICAM. Fleming
 
-✅ Recursos añadidos:
-------------------------------
-Black,K.   and   Eldredge,   D.   (200).  Bussiness  and  economic  statistics  using  microsoft  excel.  South-
-Western
-
-📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

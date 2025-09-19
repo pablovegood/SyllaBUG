@@ -2,16 +2,34 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Drew Provan & Trevor Baglin & Inderjeet Dokal & Johannes de Vos (2017) Manual de Hematología Clínica
+San Miguel JF (2020) Hematología. Manual básico razonado. Elsevier 5ª ed
 
-📚 Recursos sin cambios:
+Fernandez   Fau   L.   Freixinet   Gilart   J.   Edit.   Tratado  de  Cirugia  Toracica.  SEPAR/EDIMSA  Editores
+Medicos.   Alsasua   16,-28023   Madrid.   ISBN:   987-84-7714-3413-3   Pearson’s   Thoracic  and  esophageal
+surgery.   3rd   ed.   Edited   by  Patterson  A.  et  al.  Churchill  Livingstone  Elsevier  Philadelphia  2008.
+ISBN   978-0-443-06861-4   Guijarro   Jorge   R.   Llobregat   Poyan   N.   Rojo   Marcos  R.  Edit.  Tratado  de
+traumatismos    torácicos.   SECT.   CGA.   SL.   Leon   2012   ISBN:   978-84-695-5398-5   Hoffman,A   (2018)
+Hematology.   Basic   principles   and   practice.  Elserve  (7ª  ed)  Lichtman  MA  (2016)  Williams  Manual  de
+Hematología.(8ªEd)
+
+http://www.thoracic.org/education/education-programs.php
+
+📚 Recursos sin cambios (13):
 ------------------------------
+ATLS Advanced Trauma Life Support for Doctors. Student Course Manual. 8th Edition. 2008
+
+Alvarez-Sala JL, Casan Clara P, Rodríguez de Castro F, Rodríguez Hermosa (2016). Neumología Clínica
+
 Farreras Valentí P, Rozman Brostnar C (2020). Madrid. Elsevier España (19ª Ed)
 
 Fishman   AP,  Fishman  JA,  Elias  JA.  (2018).  Fishman’s  Pulmonary  diseases  and  disorders  .  New  York.  Mc
 Graw-Hill Companies, The
+
+Formación    médica    continuada.   Sociedad   Española   de   Neumología   y   Cirugía   Torácica   (SEPAR).
+http://fmc.separ.es/ Education programs. American Thoracic Society
 
 JL, Villena Garrido V. (2010). Neumología clínica. Barcelona, Elsevier
 
@@ -21,49 +39,26 @@ Medicina Interna. (20ª ed.) McGraw-Hill Interamericana
 Pearson FG, Patterson AG. Pearson’s Thoracic & Esophageal Surgery. Ed.Churchill Livingstone Elsevier
 2008
 
+Sanz   M,   Carreras   E  (2019)  Manual  Práctico  de  Hematología  Clínica  (6ª  ed)  Griffin  R,  Neal  Y  (2019)
+Manual de Hematología Clínica Bethesda (2019) Manual de Hematología clínica. Wolters Kluwer (4ª ed.)
+
 Soto   Campos,   José   Gregorio,   Ed.  Manual  de  diagnóstico  y  terapéutica  en  neumología.  Sevilla  2016.
 Ergon (3ª Ed)
+
+Urgencias   en  Cirugía  Torácica  2ª  edición.  Bravo,  Quero  y  Moreno.  Ed.  Panamericana  2016  BIBLIOGRAFÍA
+COMPLEMENTARIA y OTRAS REFERENCIAS DE CONSULTA: Dacie y Levis.(2018). Hematología práctica. Elsevier
+(12º ed)
 
 Varela   de   Ugarte   A,   Gómez   de   Antonio  D,  eds.  Manual  de  Cirugía  Torácica.  Facultad  de  Medicina.
 Universidad Autónoma de Madrid. Madrid, Universia Libros, 2012
 
 Villasante C. Enfermedades respiratorias. 2ª edición. Madrid, Editorial Aula Médica, 2009
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (16):
 ------------------------------
-Griffin   R,   Neal   Y   (2019)   Manual   de   Hematología   Clínica  Bethesda  (2019)  Manual  de  Hematología
-clínica.   Wolters   Kluwer   (4ª  ed.)  Alvarez-Sala  JL,  Casan  Clara  P,  Rodríguez  de  Castro  F,  Rodríguez
-Hermosa (2016)  →  Bethesda (2019) Manual de Hematología clínica. Wolters Kluwer (4ª ed.)
+Dacie y Levis.(2018). Hematología práctica. Elsevier (12º ed)
 
 Drew Provan & Trevor Baglin & Inderjeet Dokal & Johannes de Vos (2017) Manual de Hematología Clínica
-San   Miguel   JF   (2020)   Hematología.   Manual  básico  razonado.  Elsevier  5ª  ed  →  San  Miguel  JF  (2020)
-Hematología. Manual básico razonado. Elsevier 5ª ed
-
-Urgencias   en   Cirugía   Torácica   2ª   edición.   Bravo,  Quero  y  Moreno.  Ed.  Panamericana  2016  Dacie  y
-Levis.(2018).    Hematología   práctica.   Elsevier   (12º   ed)   →   Dacie   y   Levis.(2018).   Hematología
-práctica. Elsevier (12º ed)
-
-Fernandez   Fau  L.  Freixinet  Gilart  J.  Edit.  Tratado  de  Cirugia  Toracica.  SEPAR/EDIMSA  2010.  Editores
-Medicos.   Alsasua   16,-28023   Madrid.   ISBN:   987-84-7714-3413-3   Pearson’s   Thoracic  and  esophageal
-surgery.   3rd   ed.   Edited   by  Patterson  A.  et  al.  Churchill  Livingstone  Elsevier  Philadelphia  2008.
-ISBN   978-0-443-06861-4   Guijarro   Jorge   R.   Llobregat   Poyan   N.   Rojo   Marcos  R.  Edit.  Tratado  de
-traumatismos    torácicos.   SECT.   CGA.   SL.   Leon   2012   ISBN:   978-84-695-5398-5   Hoffman,A   (2018)
-Hematology.   Basic   principles   and   practice.  Elserve  (7ª  ed)  Lichtman  MA  (2016)  Williams  Manual  de
-Hematología.(8ªEd)   →   Guijarro   Jorge   R.   Llobregat   Poyan   N.   Rojo   Marcos   R.   Edit.  Tratado  de
-traumatismos torácicos. SECT. CGA. SL. Leon 2012 ISBN: 978-84-695-5398-5
-
-✅ Recursos añadidos:
-------------------------------
-ATLS Advanced Trauma Life Support for Doctors. Student Course Manual. 8th Edition. 2008
-
-Alvarez-Sala JL, Casan Clara P, Rodríguez de Castro F, Rodríguez Hermosa (2016). Neumología Clínica
-
-BIBLIOGRAFÍA COMPLEMENTARIA y OTRAS REFERENCIAS DE CONSULTA
-
-Drew Provan & Trevor Baglin & Inderjeet Dokal & Johannes de Vos (2017) Manual de Hematología Clínica
-
-Education    programs.    American    Thoracic    Society.   http://www.thoracic.org/education/education-
-programs.ph
 
 Fernandez   Fau  L.  Freixinet  Gilart  J.  Edit.  Tratado  de  Cirugia  Toracica.  SEPAR/EDIMSA  2010.  Editores
 Medicos. Alsasua 16,-28023 Madrid. ISBN: 987-84-7714-3413-3
@@ -72,6 +67,9 @@ Formación    médica    continuada.   Sociedad   Española   de   Neumología  
 http://fmc.separ.es/
 
 Griffin R, Neal Y (2019) Manual de Hematología Clínica
+
+Guijarro   Jorge   R.  Llobregat  Poyan  N.  Rojo  Marcos  R.  Edit.  Tratado  de  traumatismos  torácicos.  SECT.
+CGA. SL. Leon 2012 ISBN: 978-84-695-5398-5
 
 Hematología Manual Básico Razonado (6ªed.) J.F. San Miguel. Elsevier España s.a
 
@@ -86,10 +84,12 @@ Livingstone Elsevier Philadelphia 2008. ISBN 978-0-443-06861-4
 
 Pregrado de hematología (5ª ed.) Dr. José M. Moraleda Jimén
 
+San Miguel JF (2020) Hematología. Manual básico razonado. Elsevier 5ª ed
+
 Sanz M, Carreras E (2019) Manual Práctico de Hematología Clínica (6ª ed)
 
 Trasplante Hematopoyético (app gratuita)
 
 Urgencias en Cirugía Torácica 2ª edición. M.Bravo, F.Quero y . Moreno. Ed. Panamericana 2016
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 65% [██████░░░░]

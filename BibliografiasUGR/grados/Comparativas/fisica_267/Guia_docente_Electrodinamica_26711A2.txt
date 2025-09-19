@@ -2,28 +2,21 @@
 Grado: fisica (267)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 R.   Gómez   Martín:   Campos   electromagnéticos   para   físicos   e  ingenieros:  Propagación  y  radiación,
 Editorial   UGR,   2021   M.   A.   Heald  and  J.  B.  Marion,  Classical  Electromagnetic  Radiation,  Saunders
-College   publishing,   1995   D.  J.  Griffiths,  Introducction  to  Electrodynamics,  Prentice  Hall,  1999  →
-D. J. Griffiths, Introducction to Electrodynamics, Prentice Hall, 1999
+College publishing, 1995 D. J. Griffiths, Introducction to Electrodynamics, Prentice Hall, 1999
 
-Balanis,   Antenna   Theory,   Wiley,   1982   B.   García   Olmedo,  Electromagnetismo,  Publicaciones  de  la
-Universidad    de    Granada,   2006   →   B.   García   Olmedo,   Electromagnetismo,   Publicaciones   de   la
-Universidad de Granada, 2006
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (1):
 ------------------------------
 Balanis, Antenna Theory, Wiley, 1982
+
+✅ Recursos añadidos (4):
+------------------------------
+B. García Olmedo, Electromagnetismo, Publicaciones de la Universidad de Granada, 2006
+
+D. J. Griffiths, Introducction to Electrodynamics, Prentice Hall, 1999
 
 M. A. Heald and J. B. Marion, Classical Electromagnetic Radiation, Saunders College publishing, 1995
 

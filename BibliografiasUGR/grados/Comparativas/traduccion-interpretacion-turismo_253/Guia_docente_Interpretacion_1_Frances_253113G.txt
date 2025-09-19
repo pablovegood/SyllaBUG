@@ -2,11 +2,17 @@
 Grado: traduccion-interpretacion-turismo (253)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Alban       Alentar,       Alexander      (2007).      Manual      de      oratoria.      Disponible      en
+http://www.eumed.net/libros/2007b/302/indice.htm Alexieva, Bistra (1997). A typology of Interpreter-
+Mediated Events. The Translator 3 (2), 153-174
 
-📚 Recursos sin cambios:
+Collados   Aís,   Ángela   y   Fernández   Sánchez,  María  Manuela  (eds.)  (2001).  Manual  de  Interpretación
+Bilateral. Granada: Comares Delatour, Ivonne y Jennepin, Dominique y Léon-Dutour, Maylis y Teyssier,
+Brigitte (1991). Grammaire du Français. Paris: Hachette
+
+📚 Recursos sin cambios (14):
 ------------------------------
 Abbadie,   Christian   y   Chovelon,   Bernadette   y  Morsel,  Marie-Hélène  (2003).  L’expression  française
 écrite et orale. Grenoble : Presses Universitaires de Grenoble
@@ -43,25 +49,20 @@ Ginebra
 
 Walter, Henriette (1998). Le français dans tous les sens. Paris: Laffont
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Collados   Aís,   Ángela   y   Fernández   Sánchez,  María  Manuela  (eds.)  (2001).  Manual  de  Interpretación
-Bilateral. Granada: Comares Delatour, Ivonne y Jennepin, Dominique y Léon-Dutour, Maylis y Teyssier,
-Brigitte   (1991).   Grammaire   du   Français.   Paris:   Hachette   →   Collados   Aís,   Ángela  y  Fernández
-Sánchez, María Manuela (eds.) (2001). Manual de Interpretación Bilateral. Granada: Comares
+Alban       Alentar,       Alexander      (2007).      Manual      de      oratoria.      Disponible      en
+http://www.eumed.net/libros/2007b/302/indice.htm
 
-Alban   Alentar,   Alexander   (2007).   Manual   de   oratoria.   Disponible  en  Alexieva,  Bistra  (1997).  A
-typology   of   Interpreter-Mediated   Events.  The  Translator  3  (2),  153-174  →  Alban  Alentar,  Alexander
-(2007). Manual de oratoria. Disponible en http://www.eumed.net/libros/2007b/302/indice.htm
-
-✅ Recursos añadidos:
-------------------------------
 Alexieva, Bistra (1997). A typology of Interpreter-Mediated Events. The Translator 3 (2), 153-174
 
 Bosch   March,   Clara  (2012).  Técnicas  de  interpretación  consecutiva  :  la  toma  de  notas  :  manual  para
 el estudiante. Granada: Comares
 
+Collados   Aís,   Ángela   y   Fernández   Sánchez,  María  Manuela  (eds.)  (2001).  Manual  de  Interpretación
+Bilateral. Granada: Comares
+
 Delatour,   Ivonne  y  Jennepin,  Dominique  y  Léon-Dutour,  Maylis  y  Teyssier,  Brigitte  (1991).  Grammaire
 du Français. Paris: Hachette
 
-📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

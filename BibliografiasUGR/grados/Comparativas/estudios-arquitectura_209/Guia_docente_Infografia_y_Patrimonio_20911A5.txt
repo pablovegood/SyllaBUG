@@ -2,46 +2,43 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+ISBN:   9788469196199   Texto  en  PDF  ALMAGRO,  A.,  RODRÍGUEZ,  C.,  GONZÁLEZ,  M.,  ZÚÑIGA,  I.:”The  Alcazar
+of    Seville    in    the   14th   century.   An   integrated   Project   of   docummentation,   research   and
+dissemination”.   En   The   e-volution   of   information  communication  technology  in  cultural  heritage.
+EPOCH publication. Budapest, 2006, 15-22. Texto de la Ponencia en PDF RODRIGUEZ, C (2014): El acceso
+al   Alcázar  de  Sevilla  en  el  siglo  XIV:  Análisis  espacial  y  perceptivo  a  través  de  la  reconstrucción
+infográfica. EGA. Revista de Expresión Gráfica Arquitectónica. 19(23):194-203. Texto del artículo en
+PDF
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
 Virtual   archeological   review   (Revista   de   la   Sociedad  Española  de  Arqueología  Virtual)  Carta  de
 Londres Principios de Sevilla FERNANDEZ, J.A.: La representación Gráfica de las ciudades del pasado.
 en   VIII   Congreso   Ibero-   Americano   de   Grafica  Digital.  (SIGRADI  UNISINOS  2004).(  Meaning  of  the
-Digital   Universe)10-11   y   12   de   Noviembre  de  2004.  Porto  Alegre.  Brasil.  Texto  de  la  ponencia  en
+Digital   Universe)10-11  y  12  de  Noviembre  de  2004.  Porto  Alegre.  Brasil.  Texto  de  la  ponencia  en  PDF
 FERNANDEZ,   J.A.:   Madinat   al-Zahara:   Investigación   y   representación,   en   VIII   Congreso  Ibero-
 Americano   de   Grafica  Digital.  (SIGRADI  UNISINOS  2004).(  Meaning  of  the  Digital  Universe)10-11  y  12
-de   Noviembre   de   2004.  Porto  Alegre.  Brasil.  Texto  de  la  Ponencia  en  FERNANDEZ,  J.A.:  Infografía  y
-Patrimonio   Arquitectónico.   en   Aprendre  en  el  ciberespai:  nous  mitjans  per  a  la  interpretació  i  la
+de   Noviembre  de  2004.  Porto  Alegre.  Brasil.  Texto  de  la  Ponencia  en  PDF  FERNANDEZ,  J.A.:  Infografía
+y   Patrimonio  Arquitectónico.  en  Aprendre  en  el  ciberespai:  nous  mitjans  per  a  la  interpretació  i  la
 didàctica   del   patrimoni.   Actas   del  VIè  Seminari  d’Arqeologia  i  Ensenyement.  Barcelona  26  y  27  de
 Octubre   de   2006.   Ed.   Paloma   González   Marcén   y  Laia  Pujol  Tost  (Centre  d’Estudis  del  Patrimoni
-Arquèologic   de   la  prehistòria).  pp.  23-34  y  156-162.  .  ISSN.  134-9263.  Texto  de  la  Ponencia  en  PDF
-GOMEZ,   L.,   FERNANDEZ,   J.A.,  TORICES,  N.,:  The  tourist  in  Granada:  La  ciudad  de  1830  vista  por  los
-viajeros.   Ed.   Fundación   Albaicín.   Financiación:   Fondos  Urban.  Granada  2009.  ISBN:  9788469196199
-Texto   en   PDF   ALMAGRO,   A.,  RODRÍGUEZ,  C.,  GONZÁLEZ,  M.,  ZÚÑIGA,  I.:”The  Alcazar  of  Seville  in  the
-14th   century.   An   integrated   Project   of   docummentation,   research   and   dissemination”.   En  The
-e-volution   of   information   communication   technology   in   cultural   heritage.   EPOCH   publication.
-Budapest,   2006,   15-22.   Texto   de   la  Ponencia  en  PDF  RODRIGUEZ,  C  (2014):  El  acceso  al  Alcázar  de
-Sevilla   en   el  siglo  XIV:  Análisis  espacial  y  perceptivo  a  través  de  la  reconstrucción  infográfica.
-EGA.   Revista   de   Expresión   Gráfica   Arquitectónica.   19(23):194-203.   Texto   del   artículo  en  PDF
+Arquèologic de la prehistòria)
+
+📚 Recursos sin cambios (2):
+------------------------------
 RODRIGUEZ,   C.   et   al.   (2016):   From  point  cloud  to  BIM:  an  integrated  workflow  for  documentation,
 research   and   modelling   of   architectural  heritage,  Survey  Review,  Survey  Review,  50:360,  212-231.
 Texto   del   artículo   en   PDF   RODRIGUEZ,   C.:"Recreaciones   virtuales   de   la  Granada  desaparecida:
 investigar, representar y divulgar la arquitectura del pasado con herramientas del siglo XXI”. En El
 arquitecto,    de   la   tradición   al   siglo   XXI:   docencia   e   investigación   en   expresión   gráfica
 arquitectónica   /   Ernesto  Echeverría  Valiente  (ed.  lit.),  Enrique  Castaño-Perea  (ed.  lit.),  Vol.  2,
-2016,   959-968.   Acceso   a  PDF  del  libro  completo  →  RODRIGUEZ,  C.  et  al.  (2016):  From  point  cloud  to
-BIM:   an   integrated   workflow   for  documentation,  research  and  modelling  of  architectural  heritage,
-Survey Review, Survey Review, 50:360, 212-231. Texto del artículo en PDF
+2016, 959-968. Acceso a PDF del libro completo
 
-✅ Recursos añadidos:
+pp.   23-34   y   156-162.   .   ISSN.   134-9263.  Texto  de  la  Ponencia  en  PDF  GOMEZ,  L.,  FERNANDEZ,  J.A.,
+TORICES,   N.,:   The   tourist   in   Granada:   La   ciudad  de  1830  vista  por  los  viajeros.  Ed.  Fundación
+Albaicín. Financiación: Fondos Urban. Granada 2009
+
+✅ Recursos añadidos (9):
 ------------------------------
 ALMAGRO, A., RODRÍGUEZ, C., GONZÁLEZ, M., ZÚÑIGA, I.:”The Alcazar of Seville in the 14th century. An
 integrated   Project  of  docummentation,  research  and  dissemination”.  En  The  e-volution  of  information
@@ -63,10 +60,6 @@ de Noviembre de 2004. Porto Alegre. Brasil. Texto de la ponencia en PDF
 FERNANDEZ,   J.A.:   Madinat   al-Zahara:   Investigación   y   representación,   en   VIII   Congreso  Ibero-
 Americano   de   Grafica  Digital.  (SIGRADI  UNISINOS  2004).(  Meaning  of  the  Digital  Universe)10-11  y  12
 de Noviembre de 2004. Porto Alegre. Brasil. Texto de la Ponencia en PDF
-
-GOMEZ,   L.,   FERNANDEZ,   J.A.,  TORICES,  N.,:  The  tourist  in  Granada:  La  ciudad  de  1830  vista  por  los
-viajeros.   Ed.   Fundación   Albaicín.   Financiación:   Fondos  Urban.  Granada  2009.  ISBN:  9788469196199
-Texto en PDF
 
 Principios de Sevilla
 

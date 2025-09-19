@@ -2,15 +2,12 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (42):
 ------------------------------
-Amitrano   R,  Tortora  G.  "Anatomy  &  Physiology  Laboratory  Manual".  8ª  ed.  revisada.  Cengage  Learning,
-2013
-
 Ayús   JC,   Caramelo   C,  Tejedor  A.  "Agua,  electrolitos  y  equilibrio  ácido-base.  Aprendizaje  mediante
 casos clínicos". Editorial Médica Panamericana, 2006
 
@@ -19,11 +16,7 @@ Barrett KE y otros. "Ganong Fisiología médica". 26ª ed. McGraw-Hill, 2020
 Casas    A,    Salve    ML,    Amich   S,   Prieto   S.   "Laboratorio   clínico.   Hematología".   McGraw-Hill
 Interamericana, 1994
 
-Cordova A. "Fisiología dinámica". Masson, 2014
-
 Costanzo, L. S. "Fisiología". 6ª edición. Elsevier Saunders, 2018
-
-Cursos CRASH. "Lo esencial en Cardiología". 5ª ed. Elsevier, 2020
 
 Cursos CRASH. "Lo esencial en Hematología e inmunología". 4ª ed. Elsevier, 2013
 
@@ -32,6 +25,8 @@ Cursos CRASH. "Lo esencial en Neumología". 5ª ed. Elsevier, 2020
 Cursos CRASH. "Lo esencial en Sistema músculo-esquelético y piel". 2ª ed. Elsevier, 2004
 
 Cursos CRASH. "Lo esencial en Sistema renal y urinario". 4ª ed. Elsevier, 2013
+
+Diccionarios y atlas médicos Harper Collins Diccionario médico ilustrado de bolsillo. Marban, 2015
 
 Drucker Colin R. "Fisiología médica". El Manual Moderno, 2006
 
@@ -50,8 +45,6 @@ Hall JE. "Guyton & Hall Tratado de Fisiología médica". 14ª ed. Elsevier, 2021
 
 Hall S, Stephen J. Cursos CRASH. "Lo esencial en Anatomía y Fisiología". 5ª ed. Elsevier, 2020
 
-Harper Collins Diccionario médico ilustrado de bolsillo. Marban, 2015
-
 IUPS   (International   Union   of  Physiological  Sciences.  Commission  on  Teaching  Physiology).  A  source
 book of practical experiments in physiology requiring minimal equipment. World Scientific, 1991
 
@@ -60,9 +53,18 @@ Junqueira   LC,  Cameiro  J.  "Histología  básica.  Texto  y  atlas".  12ª  e
 
 Koeppen BM, Stanton BA. "Berne y Levy Fisiología". 7ª ed. Elsevier-Mosby, 2018
 
+Libros   de   texto   (bibliografía   específica)   Cursos   CRASH.   "Lo   esencial  en  Cardiología".  5ª  ed.
+Elsevier, 2020
+
+Libros de texto Cordova A. "Fisiología dinámica". Masson, 2014
+
+Marieb EN, Smith LA. "Human Anatomy and Physiology Laboratory Manual", 12ª ed. Pearson, 2019
+
 Martín Cuenca E. "Fundamentos de Fisiología". Thompson, 2006
 
 Netter, FH. "Atlas de Anatomía Humana". 7ª ed. Masson, 2019
+
+Ortiz JM. "Casos prácticos y problemas de Fisiología". Síntesis, 2000
 
 Patton KT. "Estructura y función del cuerpo humano". 16ª ed. Elsevier, 2021
 
@@ -71,11 +73,19 @@ Pocock G, Richards CD. "Fisiología humana. La base de la Medicina". 2ª ed. Mas
 Preston   R.R.,   Wilson   T.E.   "Fisiología".  2ª  ed.  Lippincott's  Illustrated  Reviews.  Wolters  Kluwer,
 2020
 
+Publicaciones   periódicas  Annual  Review  of  Physiology-  https://www.annualreviews.org/journal/physiol
+Physiological   Reviews-   https://journals.physiology.org/journal/physrev   The  Journal  of  Physiology-
+https://physoc.onlinelibrary.wiley.com/journal/14697793 Manuales de prácticas Amitrano R, Tortora G.
+"Anatomy & Physiology Laboratory Manual". 8ª ed. revisada. Cengage Learning, 2013
+
 Rhoades RA, Bell DR. "Fisiología Médica". 5ª ed. Wolters Kluwer, 2018
 
 Silbernagl S, Despopoulos A. "Fisiología. Texto y atlas". 7ª ed. Editorial Médica Panamericana, 2009
 
 Silverthorn DU. "Fisiología humana", 8ª ed. Editorial Médica Panamericana, 2019
+
+Simulaciones   informáticas   Zao  P.  y  otros.  PhysioEx  9.0:  Simulaciones  de  laboratorio  de  Fisiología.
+Pearson, 2012
 
 Stanfield CL. "Principios de Fisiología Humana", 4ª ed. Pearson, 2011
 
@@ -96,27 +106,20 @@ West JB. "Fisiología respiratoria: fundamentos". 10ª ed. Lippincott Williams &
 
 Williams WJ. "Hematología". Marban, 2007
 
-Zao P. y otros. PhysioEx 9.0: Simulaciones de laboratorio de Fisiología. Pearson, 2012
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (10):
 ------------------------------
-No hubo cambios de edición/año.
+Amitrano   R,  Tortora  G.  "Anatomy  &  Physiology  Laboratory  Manual".  8ª  ed.  revisada.  Cengage  Learning,
+2013
 
-✅ Recursos añadidos:
-------------------------------
 Annual Review of Physiology- https://www.annualreviews.org/journal/physiol
 
-Diccionarios y atlas médicos
+Cordova A. "Fisiología dinámica". Masson, 2014
 
-Libros de texto
+Cursos CRASH. "Lo esencial en Cardiología". 5ª ed. Elsevier, 2020
+
+Harper Collins Diccionario médico ilustrado de bolsillo. Marban, 2015
 
 Libros de texto (bibliografía específica)
-
-Manuales de prácticas
-
-Marieb EN, Smith LA. "Human Anatomy and Physiology Laboratory Manual", 12ª ed. Pearson, 2019
-
-Ortiz JM. "Casos prácticos y problemas de Fisiología". Síntesis, 2000
 
 Physiological Reviews- https://journals.physiology.org/journal/physrev
 
@@ -126,4 +129,4 @@ Simulaciones informáticas
 
 The Journal of Physiology- https://physoc.onlinelibrary.wiley.com/journal/14697793
 
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]

@@ -2,13 +2,21 @@
 Grado: educacion-primaria-ceuta (457)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Downing,   Angela   y   Locke,   Philip   (2006).  English  grammar.  A  University  course.  London:  Routledge
+Gómez   González,   M.   A.,  &  Sánchez  Roura.  T.  (2016).  English  pronunciation  for  speakers  of  Spanish:
+From theory to practice. Boston: de Gruyter
 
-📚 Recursos sin cambios:
+Martínez-Cabeza,   M.A.  (2017)  English  grammar  in  focus:  Text  linguistics.  Granada:  Santana  Lario,  J.
+(ed.) (2015). English Grammar in focus. Words and morphemes
+
+📚 Recursos sin cambios (10):
 ------------------------------
 Baugh, Albert C., and Thomas Cable. (2014) A History of the English Language. London: Routledge
+
+Berlin:   Walter   de  Gruyter  Anderson,  W.  &  J.  Corbett  (2009).  Exploring  English  with  online  corpora:
+An introduction. Basingtoke: Palgrave Macmillan
 
 Biber,   Douglas;   Conrad,   Susan   y   Leech,   Geoffrey   (2004).  Longman  grammar  of  spoken  and  written
 English. Workbook. Harlow: Pearson Education
@@ -21,12 +29,7 @@ Collins, Peter y Hollo, Carmella (2010). English grammar. An introduction. Londo
 Cummings,   L.  (2018).  Working  with  English  Grammar.  An  Introduction.  Cambridge:  Cambridge  University
 Press
 
-Downing, Angela y Locke, Philip (2006). English grammar. A University course. London: Routledge
-
 Greenbaum, Sidney y Nelson, Gerald (2002). An introduction to English grammar. London: Longman
-
-Gómez   González,   M.   A.,  &  Sánchez  Roura.  T.  (2016).  English  pronunciation  for  speakers  of  Spanish:
-From theory to practice. Boston: de Gruyter
 
 Huddleston,   Rodney   y   Pullum,   Geoffrey   (2002).   The   Cambridge   grammar  of  the  English  language.
 Cambridge: Cambridge University Press
@@ -34,22 +37,20 @@ Cambridge: Cambridge University Press
 Leech,   Geoffrey,   Deuchar,   Margaret   y  Hoogenraad,  Robert  (2005).  English  grammar  for  today.  A  new
 introduction. Houndmills: Palgrave Macmillan
 
+Plag,   I.,   M.   Braun,   S.   Lappe   &  M.  Schramm  (2007).  Introduction  to  English  linguistics.  Berlin:
+Walter de Gruyter
+
+✅ Recursos añadidos (4):
+------------------------------
+Downing, Angela y Locke, Philip (2006). English grammar. A University course. London: Routledge
+
+Gómez   González,   M.   A.,  &  Sánchez  Roura.  T.  (2016).  English  pronunciation  for  speakers  of  Spanish:
+From theory to practice. Boston: de Gruyter
+
 Martínez-Cabeza,   M.A.   (2017)   English   grammar  in  focus:  Text  linguistics.  Granada:  Universidad  de
 Granada
 
 Santana   Lario,   J.   (ed.)  (2015).  English  Grammar  in  focus.  Words  and  morphemes.  Granada:  Editorial
 Universidad de Granada
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Plag,   I.,   M.   Braun,   S.   Lappe   &  M.  Schramm  (2007).  Introduction  to  English  linguistics.  Berlin:
-Walter   de   Gruyter   Anderson,   W.   &   J.   Corbett  (2009).  Exploring  English  with  online  corpora:  An
-introduction.   Basingtoke:   Palgrave  Macmillan  →  Anderson,  W.  &  J.  Corbett  (2009).  Exploring  English
-with online corpora: An introduction. Basingtoke: Palgrave Macmillan
-
-✅ Recursos añadidos:
-------------------------------
-Plag,   I.,   M.   Braun,   S.   Lappe   &  M.  Schramm  (2007).  Introduction  to  English  linguistics.  Berlin:
-Walter de Gruyter
-
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

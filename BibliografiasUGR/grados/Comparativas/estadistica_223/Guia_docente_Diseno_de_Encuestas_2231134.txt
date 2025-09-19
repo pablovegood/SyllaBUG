@@ -2,11 +2,13 @@
 Grado: estadistica (223)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Robert   M.   Groves,   Floyd   J.   Fowler,  Jr.,  Mick  P.  Couper,  James  M.  Lepkowski,  Eleanor  Singer,  and
+Roger   Tourangeau.  Survey  Methodology  (2004)  Wiley  Azofra,  M.J.(1999).  Cuestionarios.  Madrid:  Centro
+de Investigaciones Sociológicas, Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Babbie, E. (2000). Fundamentos de la investigación social. Thompson
 
@@ -28,15 +30,11 @@ Villán, I. Y Bravo, M.S. (1998). Procedimientos de Depuración de Datos Estadí
 
 Visauta, B. Técnicas de Investigación Social: Recogida de Datos. (1989) P.P.U
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Robert   M.   Groves,   Floyd   J.   Fowler,  Jr.,  Mick  P.  Couper,  James  M.  Lepkowski,  Eleanor  Singer,  and
-Roger   Tourangeau.  Survey  Methodology  (2004)  Wiley  Azofra,  M.J.(1999).  Cuestionarios.  Madrid:  Centro
-de   Investigaciones   Sociológicas,   Madrid  →  Robert  M.  Groves,  Floyd  J.  Fowler,  Jr.,  Mick  P.  Couper,
-James M. Lepkowski, Eleanor Singer, and Roger Tourangeau. Survey Methodology (2004) Wiley
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Azofra, M.J.(1999). Cuestionarios. Madrid: Centro de Investigaciones Sociológicas, Madrid
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+Robert   M.   Groves,   Floyd   J.   Fowler,  Jr.,  Mick  P.  Couper,  James  M.  Lepkowski,  Eleanor  Singer,  and
+Roger Tourangeau. Survey Methodology (2004) Wiley
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

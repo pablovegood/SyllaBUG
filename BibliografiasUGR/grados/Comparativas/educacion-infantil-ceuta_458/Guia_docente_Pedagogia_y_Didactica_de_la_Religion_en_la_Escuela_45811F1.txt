@@ -2,16 +2,25 @@
 Grado: educacion-infantil-ceuta (458)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+ANTÚNEZ, S. y otros (1992): Del Proyecto Educativo a la Programación de Aula
 
-📚 Recursos sin cambios:
+Barcelona. BARTOLOME, J.J.; CTIAVEZ, P. y BISSOLI, C. (1996): Iniciación a la Biblia
+
+📚 Recursos sin cambios (15):
 ------------------------------
 ACUERDO   ENTRE   EL   ESTADO   ESPAÑOL   Y   LA  SANTA  SEDE  SOBRE  ENSEÑANZA  RELIGIOSA  Y  ASUNTOS  CULTURALES
 (1979), en Actae Apostolicae Sedis, 72: Cittá del Vaticano, 1980
 
+ANTÚNEZ,   S.  y  otros  (1992):  Del  Proyecto  Educativo  a  la  Programación  de  Aula.  Barcelona.  BARTOLOME,
+J.J.;   CTIAVEZ,   P.  y  BISSOLI,  C.  (1996):  Iniciación  a  la  Biblia.  Didáctica  de  la  Biblia.  Barcelona:
+Edebé
+
 CAMPS, V. (1994): Los valores en la educación. Madrid
+
+COLL,   C.   y   otros   (1992):   Los   contenidos   en   la  Reforma,  enseñanza  y  aprendizaje  de  conceptos,
+procedimientos y actitudes. Barcelona
 
 COMISIÓN   EPISCOPAL   DE   ENSEÑANZA  Y  CATEQUESIS  (1980):  Documentos  colectivos  del  episcopado  español
 sobre, formación religiosa y educación 1969-1980. Madrid: Edice
@@ -44,24 +53,20 @@ Vols.   LEY   ORGÁNICA  111990,  de  3  de  Octubre  (BOE  de  4),  de  Ordenac
 MARTÍNEZ BONAFE, J. (1991): Proyectos curriculares y Práctica Docente. Barcelona. MEC (1993): Ternas
 transversales y desarrollo curricular. Madrid
 
-SECRETARIADO DE LA COMISIÓN EPISCOPAL DE ENSEÑANZA Y CATEQUESIS (2001-2004): Plan de
+SECRETARIADO   DE   LA   COMISIÓN   EPISCOPAL   DE   ENSEÑANZA  Y  CATEQUESIS  (2001-2004):  Plan  de  Formación
+Sistemática Complementaria para el Profesorado de Religión y Moral Católica. Madrid: Edice
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (9):
 ------------------------------
-Barcelona.   BARTOLOME,   J.J.;  CTIAVEZ,  P.  y  BISSOLI,  C.  (1996):  Iniciación  a  la  Biblia  →  ANTÚNEZ,  S.
-y   otros   (1992):   Del   Proyecto   Educativo   a   la  Programación  de  Aula.  Barcelona.  BARTOLOME,  J.J.;
-CTIAVEZ, P. y BISSOLI, C. (1996): Iniciación a la Biblia. Didáctica de la Biblia. Barcelona: Edebé
+ACUERDO ENTRE EL ESTADO ESPAÑOL Y LA SANTA SEDE SOBRE ENSEÑANZA RELIGIOSA Y
 
-ANTÚNEZ,   S.   y  otros  (1992):  Del  Proyecto  Educativo  a  la  Programación  de  Aula  →  ANTÚNEZ,  S.  y  otros
-(1992):   Del  Proyecto  Educativo  a  la  Programación  de  Aula.  Barcelona.  BARTOLOME,  J.J.;  CTIAVEZ,  P.  y
-BISSOLI, C. (1996): Iniciación a la Biblia. Didáctica de la Biblia. Barcelona: Edebé
+ANTÚNEZ,   S.  y  otros  (1992):  Del  Proyecto  Educativo  a  la  Programación  de  Aula.  Barcelona.  BARTOLOME,
+J.J.;   CTIAVEZ,   P.  y  BISSOLI,  C.  (1996):  Iniciación  a  la  Biblia.  Didáctica  de  la  Biblia.  Barcelona:
+Edebé
 
-✅ Recursos añadidos:
-------------------------------
-ASUNTOS CULTURALES (1979), en Actae Apostolicae Sedis, 72: Cittá del Vaticano, 1980
-
-COLL,   C.   y   otros   (1992):   Los   contenidos   en   la  Reforma,  enseñanza  y  aprendizaje  de  conceptos,
-procedimientos y
+ANTÚNEZ,   S.  y  otros  (1992):  Del  Proyecto  Educativo  a  la  Programación  de  Aula.  Barcelona.  BARTOLOME,
+J.J.;   CTIAVEZ,   P.  y  BISSOLI,  C.  (1996):  Iniciación  a  la  Biblia.  Didáctica  de  la  Biblia.  Barcelona:
+Edebé
 
 Evaluación por los docentes. Madrid: Dykinson
 
@@ -79,4 +84,4 @@ TORRES MERCEIÁN, M. A. (1999): Actividades para motivar en la clase de religió
 
 actitudes. Barcelona
 
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

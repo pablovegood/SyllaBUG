@@ -2,40 +2,39 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Manuales:   Corbeau,   S.   Dubois,   C;  Penfornis,  J.-L.  (2004)  Tourisme.com,  Paris  :  Clé  International
+Corbeau,    S.    Dubois,    C;   Penfornis,   J.-L.   (2006)   Hôtellerie-restauration.com,   Paris   :   Clé
+International   Calmy,   Anne   M   (2004)   Le   français  du  tourisme,  Paris  :  Hachette  Chanteleuve,  O  et
+al.(1991) Les métiers du tourisme, Paris, Hachette
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
-Bernabé   Gil,   M.   L.   (2013),   Vocabulaire   du   Français   du   tourisme,   de   l’Hôtellerie   et  de  la
-Restauration, Granada : Comares
-
 Diccionario   bilingue   français-espagnol   et   espagnol-français,  Larousse  Chapron,  J.  et  J.  Berboin,
 Dictionnaire économique, commercial et financier, Presses-Pocket
 
-Grégoire, M., Thiévenaz, O. (1995), Grammaire progressive du français, Paris : Clé International
+Diccionarios:   Bernabé  Gil,  M.  L.  (2013),  Vocabulaire  du  Français  du  tourisme,  de  l’Hôtellerie  et  de
+la Restauration, Granada : Comares
+
+Gramáticas   :   Grégoire,   M.,   Thiévenaz,   O.  (1995),  Grammaire  progressive  du  français,  Paris  :  Clé
+International
 
 Latifi, M. L’hôtellerie en français (1993), Paris :Didier/Hatier
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Corbeau,   S.   Dubois,  C;  Penfornis,  J.-L.  (2004)  Tourisme.com,  Paris  :  Clé  International  Corbeau,  S.
-Dubois,   C;   Penfornis,   J.-L.   (2006)  Hôtellerie-restauration.com,  Paris  :  Clé  International  Calmy,
-Anne   M   (2004)  Le  français  du  tourisme,  Paris  :  Hachette  Chanteleuve,  O  et  al.(1991)  Les  métiers  du
-tourisme, Paris, Hachette  →  Calmy, Anne M (2004) Le français du tourisme, Paris : Hachette
+Calmy, Anne M (2004) Le français du tourisme, Paris : Hachette
 
-✅ Recursos añadidos:
-------------------------------
 Chanteleuve, O et al.(1991) Les métiers du tourisme, Paris, Hachette
+
+Chapron, J. et J. Berboin, Dictionnaire économique, commercial et financier, Presses-Pocket
 
 Corbeau, S. Dubois, C; Penfornis, J.-L. (2004) Tourisme.com, Paris : Clé International
 
 Corbeau,    S.    Dubois,    C;   Penfornis,   J.-L.   (2006)   Hôtellerie-restauration.com,   Paris   :   Clé
 International
 
-Diccionario bilingue français-espagnol et espagnol-français, Larousse
-
 Diccionarios
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 70% [███████░░░]

@@ -2,14 +2,11 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-JIMÉNEZ,   J.  E.  Y  ORTIZ,  R.  (2001).  Conciencia  fonológica  y  aprendizaje  de  la  lectura.  Teoría,  Grado
-de implicación y actitud del alumnado manifestada en su participación en las consultas, exposiciones
-y   debates;   así  como  en  la  elaboración  de  los  trabajos,  individuales  y  en  las  sesiones  de  puesta  en
-común
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 BAYÉS,   A.   (2003)   Rehabilitación   integral   en   la  enfermedad  de  Parkinson  y  otros  parkinsonismos.
 Barcelona: Ars médica
@@ -28,11 +25,10 @@ DINVILLE, C. (1982). La tartamudez. Barcelona: Científico-médica
 HELM-ESTABROOKS,   N.   Y  ALBERT,  M.  L.  (2005).  Manual  de  la  afasia  y  de  terapia  de  la  afasia.  Madrid:
 Panamericana
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+JIMÉNEZ,   J.   E.   Y   ORTIZ,   R.   (2001).   Conciencia  fonológica  y  aprendizaje  de  la  lectura.  Teoría,
+evaluación e intervención. Madrid: Síntesis
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (21):
 ------------------------------
 AGUADO, G. (1999). Trastorno Específico del Lenguaje. Retraso de Lenguaje y Disfasia. Málaga: Aljibe
 
@@ -54,9 +50,6 @@ Médica y Técnica
 
 GARCÍA MADRUGA, J.A. y CARRIEDO, N. (1997). La adquisición del lenguaje (pp. 237-267). En Psicología
 Evolutiva I. Madrid: UNED
-
-JIMÉNEZ,   J.   E.   Y   ORTIZ,   R.   (2001).   Conciencia  fonológica  y  aprendizaje  de  la  lectura.  Teoría,
-evaluación e intervención. Madrid: Síntesis
 
 JIMÉNEZ,   J.E.   Y   ORTIZ,   R.   (2001).   Conciencia   fonológica   y  aprendizaje  de  la  lectura.  Teoría,
 evaluación e intervención. Madrid: Síntesis
@@ -97,4 +90,4 @@ PÉREZ E. Y SERRA, M. (1998). Análisis del retraso del lenguaje. Barcelona: Ari
 ZURITA,   A.   (2005).   Guía  técnica  de  intervención  logopédica  en  la  enfermedad  de  Parkinson.  Madrid:
 Síntesis
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 72% [███████░░░]

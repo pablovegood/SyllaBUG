@@ -2,12 +2,14 @@
 Grado: ciencias-politicas-administracion (212)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (44):
 ------------------------------
+(2003): Métodos de muestreo. Casos prácticos. Centro de Investigaciones Sociológicas. Madrid
+
 Anduiza,   E.;   Crespo,   I.;   y  Méndez  Lago,  M.  (1999),  Metodología  de  la  Ciencia  Política,  Centro  de
 Investigaciones Sociológicas, Madrid
 
@@ -41,6 +43,8 @@ Investigaciones Sociológicas, 74: 269-289
 Díez   Nicolás,   J.   (2005),   “La  solvencia  de  los  sondeos  electorales”,  Cuadernos  de  periodistas,  4:
 79-91
 
+En este caso en el primer apartado viene toda la bibliografía
+
 Esteban, J. y otros (1977), El proceso electoral, Labor, Barcelona
 
 Farrell,   David   M.   (2001),   Electoral  systems:  a  comparative  introduction,  Basingstoke,  Hampshire:
@@ -62,6 +66,12 @@ Hermet, G. (1986), ¿Para qué sirven las elecciones?, Fondo de Cultura Económi
 
 Katz, R.S,. (1980), A Theory of Parties and Electoral systems, Johns Hopkins University, Baltimore
 
+La   mayoría   de   los   libros   citados   se  encuentran  a  disposición  del  alumno  en  la  biblioteca  de  la
+Facultad   de   Ciencias   Políticas   y  Sociología  (las  signaturas  que  empiezan  con  las  letras  CPS).  Se
+trata   normalmente   de   obras   generalistas  e  introductorias.  No  dude  en  consultar  con  el  profesor  a
+cerca   del   contenido   de   los   mismos   o   para   solicitar   orientación   bibliográfica   sobre   temas
+específicos. Sobre la representación política
+
 Lijphart,   A.   (1995),   Sistemas   electorales   y   sistemas   de   partidos:   un  estudio  de  veintisiete
 democracias (1945-1990), Centro de Estudios Constitucionales, Madrid
 
@@ -77,8 +87,8 @@ Nohlen, D. (1981), Sistemas electorales del mundo, Centro de Estudios Constituci
 Ortega   Villodres,   C.   (2004),   Los   sistemas   de   voto  preferencial.  Un  estudio  de  16  democracias,
 Madrid, Centro de Investigaciones Sociológicas
 
-Oñate,   P   y   Ocaña,   F.A.   (1999),  Análisis  de  datos  electorales,  Madrid:  Centro  de  Investigaciones
-Sociológicas
+Para   el   cálculo  de  los  distintos  indicadores  electorales  puede  consultarse:  Oñate,  P  y  Ocaña,  F.A.
+(1999), Análisis de datos electorales, Madrid: Centro de Investigaciones Sociológicas
 
 Pitkin, H.F. (1985), El concepto de representación, Centro de Estudios Constitucionales, Madrid
 
@@ -101,34 +111,21 @@ Rodríguez Osuna, J. (2001), Métodos de muestreo, Centro de Investigaciones Soc
 
 Sartori, G. (1999), “En defensa de la representación política”, Claves, 91, pp. 2-7
 
-VVAA   (1998),   “Estimación  de  la  respuesta  de  los  ‘no  sabe/no  contesta’  en  los  estudios  de  intención
-de voto”, Revista Española de Investigaciones Sociológicas, 89: 269-287
-
-Vallés, J.M. y Bosch, A. (1997), Sistemas electorales y gobierno representativo, Ariel, Barcelona
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-(2003): Métodos de muestreo. Casos prácticos. Centro de Investigaciones Sociológicas. Madrid
-
-En este caso en el primer apartado viene toda la bibliografía
-
-La   mayoría   de   los   libros   citados   se  encuentran  a  disposición  del  alumno  en  la  biblioteca  de  la
-Facultad   de   Ciencias   Políticas   y  Sociología  (las  signaturas  que  empiezan  con  las  letras  CPS).  Se
-trata   normalmente   de   obras   generalistas  e  introductorias.  No  dude  en  consultar  con  el  profesor  a
-cerca del contenido de los mismos o para solicitar orientación bibliográfica sobre temas específicos
-
-Para el cálculo de los distintos indicadores electorales puede consultarse
-
 Sobre diseño y análisis de estudios electorales
-
-Sobre la representación política
 
 Sobre las elecciones y proceso electoral
 
 Sobre los sistemas electorales y sus consecuencias políticas
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+VVAA   (1998),   “Estimación  de  la  respuesta  de  los  ‘no  sabe/no  contesta’  en  los  estudios  de  intención
+de voto”, Revista Española de Investigaciones Sociológicas, 89: 269-287
+
+Vallés, J.M. y Bosch, A. (1997), Sistemas electorales y gobierno representativo, Ariel, Barcelona
+
+✅ Recursos añadidos (2):
+------------------------------
+Para el cálculo de los distintos indicadores electorales puede consultarse
+
+Sobre la representación política
+
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

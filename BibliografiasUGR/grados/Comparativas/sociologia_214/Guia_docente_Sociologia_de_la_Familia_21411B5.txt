@@ -2,11 +2,27 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+De   Singly,  G.  (2023).  Sociologie  des  familles  contemporaines.  Armand  Flaquer,  L.  y  Cano,  T.  (2020).
+La paternidad en España: la implicación paterna en el cuidado de los hijos, Editorial CSIC, Madrid
 
-📚 Recursos sin cambios:
+García   Pereiro,   T.   y   Solsona,   M.   (2011)   El   divorcio  como  nudo  biográfico.  Una  revisión  de  la
+literatura   reciente   desde   la   perspectiva   de   vulnerabilidad   postdivorcio,   Documents  d`analisi
+geográfica   57(1):   105-126   Giddens,  A.  (1992).  The  Transformation  of  Intimacy:  Sexuality,  Love  and
+Eroticism in Modern Societies, Cambridge, Polity
+
+Meil   Landwerlin,   G.   (1999).   La  postmodernización  de  la  familia  española.  Acento  Editorial  Moreno
+Mínguez,   A.   (2018).   The   youth  emancipation  in  Spain:  a  socio-demographic  analysis,  International
+Journal   of   Adolescence   and   Youth   23(4),   496-510  Pérez  Sánchez,  C.N.,  Betancort  Montesino,  M.  y
+Cabrera   Rodríguez,   L.   (2013).   Family   influences   in  academic  achievement.  A  study  of  the  Canary
+Islands. RIS 71(1),169-187
+
+Pérez   Díaz,   M.T.   (2021)   Informe   Juventud   en   España   2020,   INJUVE,   Madrid   Schneider,  N.F.  &
+Kreyendfeld,   M.   (2021).  Research  Handbook  on  the  Sociology  of  the  Family.  Eldward  Elgar  Publiching
+Limited Segalen, M. et Martial, A. (2019). Sociologie de la famille. Armand Colin
+
+📚 Recursos sin cambios (24):
 ------------------------------
 Adler, M.A. & Lenz, K. (2023). The changing faces of families. Routledge
 
@@ -79,41 +95,26 @@ Van   de   Kaa,   D.   (2001).  The  second  demographic  transition:  concepts,
 EURESCO   Conference  The  Second  Demographic  Transition  in  Europe,  Bad  Herrenalb,  Alemania,  23-28  June
 2001
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (10):
 ------------------------------
-Meil   Landwerlin,   G.   (1999).   La  postmodernización  de  la  familia  española.  Acento  Editorial  Moreno
-Mínguez,   A.   (2018).   The   youth  emancipation  in  Spain:  a  socio-demographic  analysis,  International
-Journal   of   Adolescence   and   Youth   23(4),   496-510  Pérez  Sánchez,  C.N.,  Betancort  Montesino,  M.  y
-Cabrera   Rodríguez,   L.   (2013).   Family   influences   in  academic  achievement.  A  study  of  the  Canary
-Islands.   RIS   71(1),169-187   →   Meil   Landwerlin,   G.   (1999).   La   postmodernización  de  la  familia
-española. Acento Editorial
+De Singly, G. (2023). Sociologie des familles contemporaines. Armand
+
+Flaquer,   L.  y  Cano,  T.  (2020).  La  paternidad  en  España:  la  implicación  paterna  en  el  cuidado  de  los
+hijos, Editorial CSIC, Madrid
 
 García   Pereiro,   T.   y   Solsona,   M.   (2011)   El   divorcio  como  nudo  biográfico.  Una  revisión  de  la
 literatura   reciente   desde   la   perspectiva   de   vulnerabilidad   postdivorcio,   Documents  d`analisi
-geográfica   57(1):   105-126   Giddens,  A.  (1992).  The  Transformation  of  Intimacy:  Sexuality,  Love  and
-Eroticism   in   Modern   Societies,   Cambridge,   Polity   →   García  Pereiro,  T.  y  Solsona,  M.  (2011)  El
-divorcio   como   nudo   biográfico.   Una   revisión   de   la  literatura  reciente  desde  la  perspectiva  de
-vulnerabilidad postdivorcio, Documents d`analisi geográfica 57(1): 105-126
-
-Pérez   Díaz,   M.T.   (2021)   Informe   Juventud   en   España   2020,   INJUVE,   Madrid   Schneider,  N.F.  &
-Kreyendfeld,   M.   (2021).  Research  Handbook  on  the  Sociology  of  the  Family.  Eldward  Elgar  Publiching
-Limited   Segalen,   M.   et   Martial,   A.  (2019).  Sociologie  de  la  famille.  Armand  Colin  →  Pérez  Díaz,
-M.T. (2021) Informe Juventud en España 2020, INJUVE, Madrid
-
-De   Singly,  G.  (2023).  Sociologie  des  familles  contemporaines.  Armand  Flaquer,  L.  y  Cano,  T.  (2020).
-La   paternidad   en  España:  la  implicación  paterna  en  el  cuidado  de  los  hijos,  Editorial  CSIC,  Madrid
-→   Flaquer,   L.   y  Cano,  T.  (2020).  La  paternidad  en  España:  la  implicación  paterna  en  el  cuidado  de
-los hijos, Editorial CSIC, Madrid
-
-✅ Recursos añadidos:
-------------------------------
-De Singly, G. (2023). Sociologie des familles contemporaines. Armand
+geográfica 57(1): 105-126
 
 Giddens,   A.   (1992).   The   Transformation   of   Intimacy:   Sexuality,   Love   and  Eroticism  in  Modern
 Societies, Cambridge, Polity
 
+Meil Landwerlin, G. (1999). La postmodernización de la familia española. Acento Editorial
+
 Moreno   Mínguez,   A.   (2018).   The   youth   emancipation   in   Spain:   a   socio-demographic   analysis,
 International Journal of Adolescence and Youth 23(4), 496-510
+
+Pérez Díaz, M.T. (2021) Informe Juventud en España 2020, INJUVE, Madrid
 
 Pérez   Sánchez,   C.N.,   Betancort  Montesino,  M.  y  Cabrera  Rodríguez,  L.  (2013).  Family  influences  in
 academic achievement. A study of the Canary Islands. RIS 71(1),169-187
@@ -123,4 +124,4 @@ Elgar Publiching Limited
 
 Segalen, M. et Martial, A. (2019). Sociologie de la famille. Armand Colin
 
-📊 Porcentaje estimado de cambio: 34% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

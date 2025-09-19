@@ -2,11 +2,11 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 Brioschi,   Franco   y   Constanzo   di   Girolamo,   Introducción  al  estudio  de  la  literatura,  Barcelona,
 Ariel, 1988
@@ -44,6 +44,8 @@ Macé, Marielle, (ed.), Le genre litteraire, Paris, Flammarion, 2004
 
 Mortier, Daniel (dir.), Les grands genres littéraires, Paris, Champion, 2001
 
+Obras teóricas y de creación literaria que se seleccionarán para realizar lecturas comentadas
+
 Pozuelo Ivancos, José María, “Teoría de la narración”, Darío Villanueva (ed.), Curso de teoría de la
 literatura, Madrid, Taurus, 1994, págs. 219-240
 
@@ -56,12 +58,8 @@ Spang, Kurt, Géneros literarios, Madrid, Síntesis, 1993
 
 Varios autores, Dictionnaire des termes litteraires, Paris, Champion, 2005
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-Obras teóricas y de creación literaria que se seleccionarán para realizar lecturas comentadas
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

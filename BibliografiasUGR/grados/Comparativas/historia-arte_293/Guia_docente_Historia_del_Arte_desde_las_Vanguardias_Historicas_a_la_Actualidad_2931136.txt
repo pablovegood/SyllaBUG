@@ -2,29 +2,75 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (12):
 ------------------------------
-No hay elementos.
+AA.VV.,   Arte   de  Acción,  Hondarribia  (Guipúzcoa),  Nerea,  2000  ARGAN,  G.C.  El  arte  moderno.Valencia,
+Fernando Torres Editor, 1977
 
-📚 Recursos sin cambios:
+AUMONT,   J.   La   estética   hoy,Madrid,   Cátedra.2001   GIEDION,  S.  Espacio,  tiempo  y  arquitectura.  El
+futuro de una nueva tradición. Barcelona, Reverté, 2009
+
+CHIPP,   H.   B.   Teorías   del   arte  contemporáneo.  Madrid:  Akal,  1995  CURTIS,  W.  J.  R.La  arquitectura
+moderna desde 1900. Londres, Phaidon, 2007
+
+FOSTER,   H.   et   al.   Arte   desde   1900.   Madrid:   Akal,   2006   FRAMPTON,   K.  Historia  crítica  de  la
+arquitectura moderna. Barcelona, Gustavo Gili, 2010
+
+GROSENICK,   U.  y  REIMSCHNEIDER,  B.  (eds.),  Arte  de  Hoy,  Köln,  Taschen,  2001  HAMILTON,  G.H.  Pintura  y
+escultura en Europa, 1880-1940.Madrid, Cátedra, 1987
+
+GUASCH,   A.   M.,   (Ed),  Los  manifiestos  del  arte  posmoderno.  Textos  de  exposiciones,  1980-1995,  Tres
+Cantos,   Akal,   2000   GROSENICK,  U.  y  REIMSCHNEIDER,  B.  (eds.)  Arte  para  el  siglo  XXI¸Köln,  Taschen,
+1999
+
+HITCHCOCK,   H.R.Arquitectura  de  los  siglos  XIX  y  XX.  Madrid,  Cátedra,  1981  JENCKS,  CH.El  lenguaje  de
+la   arquitectura   postmoderna.Barcelona,   Gustavo  Gili,  LUCIE-SMITH,  E.  Movimientos  en  el  arte  desde
+1945. Thames and Hudson, 1991
+
+MARCHAN   FIZ,   S.   Fin  de  Siglo  y  los  primeros  “ismos”  del  siglo  XX  (1890-1917).Summa  Artis,  XXXVIII
+MARCHAN   FIZ,   S   Las   vanguardias   artísticas  y  sus  sombras.  Summa  Artis,  XXXIX  MICHELI,  M.  de.  Las
+vanguardias artísticas del siglo XX. Madrid, Alianza, 1979
+
+Madrid: Akal, 1999 HARRISON, C. et al. Primitivismo, Cubismo y Abstracción. Los primeros años del
+
+RUBERT   DE  VENTOS,  X.  El  arte  ensimismado,  Barcelona,  Anagrama,  1963  CALINESCU,  M.  Cinco  caras  de  la
+Modernidad,   Madrid,   Tecnos.2002   ECO,   U.   Apocalípticos   e  integrados.  Madrid,  Espasa-Calpe,  1995
+BENJAMÍN,   W.   “La   obra   de   arte   en   la   época   de   la   reproductibilidad   técnica”,  en  Discursos
+Interrumpidos,Madrid, Taurus.1989 ORTEGA Y GASSET, La deshumanización del arte,Madrid, Espasa-Calpe,
+1989
+
+RUHRBERG,   K.,   SCHNEKENBURGER,   M.,   FRICKE,  CH.,  HONNEF,  K.,Arte  del  siglo  XX:  pintura,  escultura,
+nuevos   medios,   fotografía,   2   v.,   Colonia  Taschen,  1999  RUSSOLI,  F.L'art  moderna.Milan,  Fratelli
+Fabbri, 1975. Varios volúmenes
+
+siglo   XX.Madrid:   Akal,   1998   KRAUSS,  R.,  La  originalidad  de  la  vanguardia  y  otros  mitos  modernos,
+Madrid, Alianza Forma, 1996 RAMÍREZ, J.A.Arte y medios de masas,Madrid, Cátedra.2004
+
+📚 Recursos sin cambios (29):
 ------------------------------
 AAVV Los espectáculos del arte, Barcelona, Tusquets, 1997
 
 AAVV. La Postmodernidad,Barcelona, Kairos, 1985
 
-AGUILERA CERNI y otros, Diccionario del Arte Moderno. Concepto. Ideas. Tendencias.Valencia, 1979
-
 BENEVOLO, L.Historia de la arquitectura moderna. Barcelona, Gustavo Gili, 2010
 
 BLOK, C. Historia del arte abstracto. 1900-1960. Madrid, Cátedra, 1982
 
+CAPITEL, A. Arquitectura europea y americana después de las vanguardias. Madrid, Espasa-Calpe, 1996
+
 CIRLOT, J.E. El arte del siglo XX.2 vols. Barcelona, Labor, 1972
 
-CONNOR, S. Cultura postmoderna,Madrid, Akal, 1996
+CONNOR,   S.   Cultura   postmoderna,Madrid,  Akal,  1996  DE  LA  VILLA  R.  Guia  del  usuario  de  arte  actual,
+Madrid, Tecnos
 
 DE FUSCO, R. Historia de la Arquitectura Contemporánea. Madrid, Celeste, 1992
 
+DICCIONARIOS    AGUILERA    CERNI    y    otros,    Diccionario    del    Arte   Moderno.   Concepto.   Ideas.
+Tendencias.Valencia, 1979
+
 DORFLES, G. Ultimas tendencias del arte de hoy.Barcelona, Labor, 1973
+
+FER, H. et al. Realismo, Racionalismo, Surrealismo. El arte de entreguerras. Madrid: Akal, 1999
 
 FRANCASTEL, P. Pintura y sociedad. Madrid, Cátedra, 1984
 
@@ -35,6 +81,9 @@ GUASCH,A,M. El arte último del siglo XX.Del posminimalismo a lo multicultural.M
 GÖSSEL, P. y LAUTHÄUSER, G. Arquitectura del siglo XX.Colonia, Taschen, 1991
 
 LUCIE-SMITH, E. El arte hoy. Del expresionismo abstracto al nuevo realismo.Madrid, Cátedra, 1983
+
+MARCHAN   FIZ,   S.   Del   arte  objetual  al  arte  del  concepto  (1960-1974).Epílogo  sobre  la  sensibilidad
+«postmoderna»: antología de escritos y manifiestos. Madrid, Akal, 1986
 
 MARCHÁN FIZ, S. La arquitectura del siglo XX ―Textos―. Madrid, Alberto Corazón, 1974
 
@@ -63,109 +112,37 @@ Arte del siglo XX. Madrid, Akal, 2007
 
 WOOD, P. et al. La modernidad a debate. El arte a partir de los años cuarenta.Madrid: Akal, 1999
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (34):
 ------------------------------
-MARCHAN   FIZ,   S.   Fin  de  Siglo  y  los  primeros  “ismos”  del  siglo  XX  (1890-1917).Summa  Artis,  XXXVIII
-MARCHAN   FIZ,   S   Las   vanguardias   artísticas  y  sus  sombras.  Summa  Artis,  XXXIX  MICHELI,  M.  de.  Las
-vanguardias   artísticas   del   siglo   XX.   Madrid,  Alianza,  1979  →  MARCHAN  FIZ,  S.  Fin  de  Siglo  y  los
-primeros “ismos” del siglo XX (1890-1917).Summa Artis, XXXVIII
+AA.VV., Arte de Acción, Hondarribia (Guipúzcoa), Nerea, 2000
 
-AA.VV.,   Arte   de  Acción,  Hondarribia  (Guipúzcoa),  Nerea,  2000  ARGAN,  G.C.  El  arte  moderno.Valencia,
-Fernando Torres Editor, 1977  →  AA.VV., Arte de Acción, Hondarribia (Guipúzcoa), Nerea, 2000
-
-RUHRBERG,   K.,   SCHNEKENBURGER,   M.,   FRICKE,  CH.,  HONNEF,  K.,Arte  del  siglo  XX:  pintura,  escultura,
-nuevos   medios,   fotografía,   2   v.,   Colonia  Taschen,  1999  RUSSOLI,  F.L'art  moderna.Milan,  Fratelli
-Fabbri,   1975.   Varios   volúmenes   →   RUSSOLI,   F.L'art  moderna.Milan,  Fratelli  Fabbri,  1975.  Varios
-volúmenes
-
-HITCHCOCK,   H.R.Arquitectura  de  los  siglos  XIX  y  XX.  Madrid,  Cátedra,  1981  JENCKS,  CH.El  lenguaje  de
-la   arquitectura   postmoderna.Barcelona,   Gustavo  Gili,  LUCIE-SMITH,  E.  Movimientos  en  el  arte  desde
-1945.   Thames   and   Hudson,   1991   →   HITCHCOCK,   H.R.Arquitectura   de   los  siglos  XIX  y  XX.  Madrid,
-Cátedra, 1981
-
-RUBERT   DE  VENTOS,  X.  El  arte  ensimismado,  Barcelona,  Anagrama,  1963  CALINESCU,  M.  Cinco  caras  de  la
-Modernidad,   Madrid,   Tecnos.2002   ECO,   U.   Apocalípticos   e  integrados.  Madrid,  Espasa-Calpe,  1995
-BENJAMÍN,   W.   “La   obra   de   arte   en   la   época   de   la   reproductibilidad   técnica”,  en  Discursos
-Interrumpidos,Madrid, Taurus.1989 ORTEGA Y GASSET, La deshumanización del arte,Madrid, Espasa-Calpe,
-1989  →  CALINESCU, M. Cinco caras de la Modernidad, Madrid, Tecnos.2002
-
-Barcelona,   Reverté,   2009   →  BIBLIOGRAFÍA  COMPLEMENTARIA  AAVV.  La  Postmodernidad,Barcelona,  Kairos,
-1985.    AAVV    Los    espectáculos    del    arte,    Barcelona,   Tusquets,   1997.   CONNOR,   S.   Cultura
-postmoderna,Madrid,   Akal,  1996  DE  LA  VILLA  R.  Guia  del  usuario  de  arte  actual,  Madrid,  Tecnos.  FER,
-H. et al. Realismo, Racionalismo, Surrealismo. El arte de entreguerras. Madrid: Akal, 1999 HARRISON,
-C.   et   al.   Primitivismo,   Cubismo  y  Abstracción.  Los  primeros  años  del  siglo  XX.Madrid:  Akal,  1998
-KRAUSS,   R.,   La   originalidad   de  la  vanguardia  y  otros  mitos  modernos,  Madrid,  Alianza  Forma,  1996
-RAMÍREZ,   J.A.Arte   y   medios   de  masas,Madrid,  Cátedra.2004.  RAMÍREZ,  J.A.Arte  y  arquitectura  en  la
-época   del   capitalismo   triunfante,   Madrid,  Visor,  1992.  RUBERT  DE  VENTOS,  X.  El  arte  ensimismado,
-Barcelona,   Anagrama,   1963   CALINESCU,  M.  Cinco  caras  de  la  Modernidad,  Madrid,  Tecnos.2002  ECO,  U.
-Apocalípticos   e  integrados.  Madrid,  Espasa-Calpe,  1995  BENJAMÍN,  W.  “La  obra  de  arte  en  la  época  de
-la   reproductibilidad   técnica”,   en  Discursos  Interrumpidos,Madrid,  Taurus.1989  ORTEGA  Y  GASSET,  La
-deshumanización del arte,Madrid, Espasa-Calpe, 1989. AUMONT, J. La estética hoy,Madrid, Cátedra.2001
-GIEDION,   S.   Espacio,   tiempo  y  arquitectura.  El  futuro  de  una  nueva  tradición.  Barcelona,  Reverté,
-2009.   GÖSSEL,  P.  y  LAUTHÄUSER,  G.  Arquitectura  del  siglo  XX.Colonia,  Taschen,  1991.  MARCHÁN  FIZ,  S.
-La   arquitectura   del   siglo   XX  ―Textos―.  Madrid,  Alberto  Corazón,  1974.  MIDDLETON,  D.  y  WATKIN,  D.
-Arquitectura   Contemporánea.   Madrid,  Aguilar,  1980.  MONTANER,  J.  M.  Después  del  Movimiento  Moderno.
-Arquitectura   de  la  segunda  mitad  del  siglo  XX.  Barcelona,  Gustavo  Gili,  1999.  RODRÍGUEZ  RUIZ,  D.  La
-arquitectura   del   siglo   XX.   Madrid,   Historia   16,   1989.   TAFURI,   M.   y  DAL  CO,  F.  Arquitectura
-contemporánea.   Madrid,   Aguilar,   1978.  WOOD,  P.  et  al.  La  modernidad  a  debate.  El  arte  a  partir  de
-los años cuarenta.Madrid: Akal, 1999
-
-Madrid,    Espasa-Calpe,   1996   →   BIBLIOGRAFÍA   COMPLEMENTARIA   AAVV.   La   Postmodernidad,Barcelona,
-Kairos,   1985.   AAVV   Los   espectáculos   del   arte,   Barcelona,   Tusquets,   1997.  CONNOR,  S.  Cultura
-postmoderna,Madrid,   Akal,  1996  DE  LA  VILLA  R.  Guia  del  usuario  de  arte  actual,  Madrid,  Tecnos.  FER,
-H. et al. Realismo, Racionalismo, Surrealismo. El arte de entreguerras. Madrid: Akal, 1999 HARRISON,
-C.   et   al.   Primitivismo,   Cubismo  y  Abstracción.  Los  primeros  años  del  siglo  XX.Madrid:  Akal,  1998
-KRAUSS,   R.,   La   originalidad   de  la  vanguardia  y  otros  mitos  modernos,  Madrid,  Alianza  Forma,  1996
-RAMÍREZ,   J.A.Arte   y   medios   de  masas,Madrid,  Cátedra.2004.  RAMÍREZ,  J.A.Arte  y  arquitectura  en  la
-época   del   capitalismo   triunfante,   Madrid,  Visor,  1992.  RUBERT  DE  VENTOS,  X.  El  arte  ensimismado,
-Barcelona,   Anagrama,   1963   CALINESCU,  M.  Cinco  caras  de  la  Modernidad,  Madrid,  Tecnos.2002  ECO,  U.
-Apocalípticos   e  integrados.  Madrid,  Espasa-Calpe,  1995  BENJAMÍN,  W.  “La  obra  de  arte  en  la  época  de
-la   reproductibilidad   técnica”,   en  Discursos  Interrumpidos,Madrid,  Taurus.1989  ORTEGA  Y  GASSET,  La
-deshumanización del arte,Madrid, Espasa-Calpe, 1989. AUMONT, J. La estética hoy,Madrid, Cátedra.2001
-GIEDION,   S.   Espacio,   tiempo  y  arquitectura.  El  futuro  de  una  nueva  tradición.  Barcelona,  Reverté,
-2009.   GÖSSEL,  P.  y  LAUTHÄUSER,  G.  Arquitectura  del  siglo  XX.Colonia,  Taschen,  1991.  MARCHÁN  FIZ,  S.
-La   arquitectura   del   siglo   XX  ―Textos―.  Madrid,  Alberto  Corazón,  1974.  MIDDLETON,  D.  y  WATKIN,  D.
-Arquitectura   Contemporánea.   Madrid,  Aguilar,  1980.  MONTANER,  J.  M.  Después  del  Movimiento  Moderno.
-Arquitectura   de  la  segunda  mitad  del  siglo  XX.  Barcelona,  Gustavo  Gili,  1999.  RODRÍGUEZ  RUIZ,  D.  La
-arquitectura   del   siglo   XX.   Madrid,   Historia   16,   1989.   TAFURI,   M.   y  DAL  CO,  F.  Arquitectura
-contemporánea.   Madrid,   Aguilar,   1978.  WOOD,  P.  et  al.  La  modernidad  a  debate.  El  arte  a  partir  de
-los años cuarenta.Madrid: Akal, 1999
-
-GUASCH,   A.   M.,   (Ed),  Los  manifiestos  del  arte  posmoderno.  Textos  de  exposiciones,  1980-1995,  Tres
-Cantos,   Akal,   2000   GROSENICK,  U.  y  REIMSCHNEIDER,  B.  (eds.)  Arte  para  el  siglo  XXI¸Köln,  Taschen,
-1999  →  GROSENICK, U. y REIMSCHNEIDER, B. (eds.) Arte para el siglo XXI¸Köln, Taschen, 1999
-
-CHIPP,   H.   B.   Teorías   del   arte  contemporáneo.  Madrid:  Akal,  1995  CURTIS,  W.  J.  R.La  arquitectura
-moderna   desde   1900.   Londres,  Phaidon,  2007  →  CHIPP,  H.  B.  Teorías  del  arte  contemporáneo.  Madrid:
-Akal, 1995
-
-MARCHAN   FIZ,   S.   Del   arte  objetual  al  arte  del  concepto  (1960-1974).Epílogo  sobre  la  sensibilidad
-«postmoderna»:   antología   de  escritos  y  manifiestos  →  MARCHAN  FIZ,  S.  Del  arte  objetual  al  arte  del
-concepto    (1960-1974).Epílogo    sobre   la   sensibilidad   «postmoderna»:   antología   de   escritos   y
-manifiestos. Madrid, Akal, 1986
-
-GROSENICK,   U.  y  REIMSCHNEIDER,  B.  (eds.),  Arte  de  Hoy,  Köln,  Taschen,  2001  HAMILTON,  G.H.  Pintura  y
-escultura   en   Europa,   1880-1940.Madrid,   Cátedra,  1987  →  GROSENICK,  U.  y  REIMSCHNEIDER,  B.  (eds.),
-Arte de Hoy, Köln, Taschen, 2001
-
-FOSTER,   H.   et   al.   Arte   desde   1900.   Madrid:   Akal,   2006   FRAMPTON,   K.  Historia  crítica  de  la
-arquitectura   moderna.   Barcelona,   Gustavo   Gili,   2010   →   FRAMPTON,   K.   Historia   crítica   de  la
-arquitectura moderna. Barcelona, Gustavo Gili, 2010
-
-FER,   H.   et   al.   Realismo,   Racionalismo,  Surrealismo.  El  arte  de  entreguerras.  Madrid:  Akal,  1999
-HARRISON,   C.   et   al.   Primitivismo,   Cubismo  y  Abstracción.  Los  primeros  años  del  siglo  XX.Madrid:
-Akal,   1998   KRAUSS,   R.,   La   originalidad  de  la  vanguardia  y  otros  mitos  modernos,  Madrid,  Alianza
-Forma,   1996   RAMÍREZ,   J.A.Arte  y  medios  de  masas,Madrid,  Cátedra.2004  →  RAMÍREZ,  J.A.Arte  y  medios
-de masas,Madrid, Cátedra.2004
-
-✅ Recursos añadidos:
-------------------------------
 ARGAN, G.C. El arte moderno.Valencia, Fernando Torres Editor, 1977
 
 AUMONT, J. La estética hoy,Madrid, Cátedra.2001
 
 BENJAMÍN,   W.   “La   obra   de   arte   en   la   época   de   la   reproductibilidad   técnica”,  en  Discursos
 Interrumpidos,Madrid, Taurus.1989
+
+BIBLIOGRAFÍA   COMPLEMENTARIA   AAVV.  La  Postmodernidad,Barcelona,  Kairos,  1985.  AAVV  Los  espectáculos
+del   arte,   Barcelona,  Tusquets,  1997.  CONNOR,  S.  Cultura  postmoderna,Madrid,  Akal,  1996  DE  LA  VILLA
+R.   Guia   del   usuario   de   arte   actual,   Madrid,   Tecnos.   FER,   H.  et  al.  Realismo,  Racionalismo,
+Surrealismo. El arte de entreguerras. Madrid: Akal, 1999 HARRISON, C. et al. Primitivismo, Cubismo y
+Abstracción.   Los   primeros   años   del  siglo  XX.Madrid:  Akal,  1998  KRAUSS,  R.,  La  originalidad  de  la
+vanguardia   y   otros   mitos   modernos,   Madrid,   Alianza   Forma,   1996  RAMÍREZ,  J.A.Arte  y  medios  de
+masas,Madrid, Cátedra.2004. RAMÍREZ, J.A.Arte y arquitectura en la época del capitalismo triunfante,
+Madrid,   Visor,  1992.  RUBERT  DE  VENTOS,  X.  El  arte  ensimismado,  Barcelona,  Anagrama,  1963  CALINESCU,
+M.   Cinco   caras   de   la  Modernidad,  Madrid,  Tecnos.2002  ECO,  U.  Apocalípticos  e  integrados.  Madrid,
+Espasa-Calpe,   1995   BENJAMÍN,   W.  “La  obra  de  arte  en  la  época  de  la  reproductibilidad  técnica”,  en
+Discursos   Interrumpidos,Madrid,   Taurus.1989   ORTEGA   Y  GASSET,  La  deshumanización  del  arte,Madrid,
+Espasa-Calpe,   1989.   AUMONT,   J.  La  estética  hoy,Madrid,  Cátedra.2001  GIEDION,  S.  Espacio,  tiempo  y
+arquitectura.   El   futuro  de  una  nueva  tradición.  Barcelona,  Reverté,  2009.  GÖSSEL,  P.  y  LAUTHÄUSER,
+G.   Arquitectura   del   siglo  XX.Colonia,  Taschen,  1991.  MARCHÁN  FIZ,  S.  La  arquitectura  del  siglo  XX
+―Textos―.   Madrid,   Alberto   Corazón,   1974.   MIDDLETON,  D.  y  WATKIN,  D.  Arquitectura  Contemporánea.
+Madrid,   Aguilar,   1980.   MONTANER,  J.  M.  Después  del  Movimiento  Moderno.  Arquitectura  de  la  segunda
+mitad   del  siglo  XX.  Barcelona,  Gustavo  Gili,  1999.  RODRÍGUEZ  RUIZ,  D.  La  arquitectura  del  siglo  XX.
+Madrid,   Historia   16,   1989.   TAFURI,   M.  y  DAL  CO,  F.  Arquitectura  contemporánea.  Madrid,  Aguilar,
+1978.   WOOD,   P.   et  al.  La  modernidad  a  debate.  El  arte  a  partir  de  los  años  cuarenta.Madrid:  Akal,
+1999
 
 BIBLIOGRAFÍA FUNDAMENTAL AA.VV., Arte de Acción, Hondarribia (Guipúzcoa), Nerea, 2000 ARGAN, G.C. El
 arte   moderno.Valencia,   Fernando   Torres   Editor,   1977.   BENEVOLO,   L.Historia   de  la  arquitectura
@@ -198,7 +175,71 @@ SCHNEKENBURGER,   M.,   FRICKE,   CH.,  HONNEF,  K.,Arte  del  siglo  XX:  pintu
 fotografía,   2   v.,   Colonia   Taschen,   1999   RUSSOLI,  F.L'art  moderna.Milan,  Fratelli  Fabbri,  1975.
 Varios volúmenes
 
-CAPITEL, A. Arquitectura europea y americana después de las vanguardias. Madrid, Espasa-Calpe, 1996
+BIBLIOGRAFÍA FUNDAMENTAL AA.VV., Arte de Acción, Hondarribia (Guipúzcoa), Nerea, 2000 ARGAN, G.C. El
+arte   moderno.Valencia,   Fernando   Torres   Editor,   1977.   BENEVOLO,   L.Historia   de  la  arquitectura
+moderna.   Barcelona,   Gustavo   Gili,   2010.  BLOK,  C.  Historia  del  arte  abstracto.  1900-1960.  Madrid,
+Cátedra,   1982.   DORFLES,   G.  Ultimas  tendencias  del  arte  de  hoy.Barcelona,  Labor,  1973.  CAPITEL,  A.
+Arquitectura   europea   y   americana   después  de  las  vanguardias.  Madrid,  Espasa-Calpe,  1996.  CIRLOT,
+J.E.   El   arte   del   siglo   XX.2   vols.   Barcelona,   Labor,   1972.   CHIPP,   H.   B.   Teorías  del  arte
+contemporáneo.   Madrid:   Akal,   1995   CURTIS,   W.   J.  R.La  arquitectura  moderna  desde  1900.  Londres,
+Phaidon,   2007.   DE   FUSCO,   R.   Historia   de   la  Arquitectura  Contemporánea.  Madrid,  Celeste,  1992.
+FOSTER,   H.   et   al.   Arte   desde   1900.   Madrid:   Akal,   2006   FRAMPTON,   K.  Historia  crítica  de  la
+arquitectura   moderna.   Barcelona,   Gustavo   Gili,   2010.  FRANCASTEL,  P.  Pintura  y  sociedad.  Madrid,
+Cátedra, 1984. GUASCH,A,M. El arte último del siglo XX.Del posminimalismo a lo multicultural.Madrid,
+Alianza,   2000.  GUASCH,  A.  M.,El  arte  del  siglo  XX  en  sus  exposiciones,  1945-1995,Barcelona,  Ed.  del
+Serbal,   1997.   GUASCH,   A.   M.,   (Ed),  Los  manifiestos  del  arte  posmoderno.  Textos  de  exposiciones,
+1980-1995,   Tres   Cantos,   Akal,   2000   GROSENICK,   U.  y  REIMSCHNEIDER,  B.  (eds.)  Arte  para  el  siglo
+XXI¸Köln,   Taschen,  1999.  GROSENICK,  U.  y  REIMSCHNEIDER,  B.  (eds.),  Arte  de  Hoy,  Köln,  Taschen,  2001
+HAMILTON,    G.H.   Pintura   y   escultura   en   Europa,   1880-1940.Madrid,   Cátedra,   1987.   HITCHCOCK,
+H.R.Arquitectura   de   los   siglos   XIX   y   XX.   Madrid,   Cátedra,   1981  JENCKS,  CH.El  lenguaje  de  la
+arquitectura   postmoderna.Barcelona,  Gustavo  Gili,  1980  LUCIE-SMITH,  E.  Movimientos  en  el  arte  desde
+1945.   Thames   and   Hudson,   1991.  LUCIE-SMITH,  E.  El  arte  hoy.  Del  expresionismo  abstracto  al  nuevo
+realismo.Madrid,    Cátedra,    1983.   MARCHAN   FIZ,   S.   Del   arte   objetual   al   arte   del   concepto
+(1960-1974).Epílogo   sobre   la   sensibilidad   «postmoderna»:   antología   de   escritos  y  manifiestos.
+Madrid,    Akal,   1986.   MARCHAN   FIZ,   S.   Fin   de   Siglo   y   los   primeros   “ismos”   del   siglo   XX
+(1890-1917).Summa   Artis,   XXXVIII   MARCHAN   FIZ,   S  Las  vanguardias  artísticas  y  sus  sombras.  Summa
+Artis,   XXXIX   MICHELI,   M.   de.   Las   vanguardias   artísticas   del  siglo  XX.  Madrid,  Alianza,  1979.
+MOSQUERA,   G.   Beyond   the   Fantastic.   Crítica  de  arte  contemporánea  desde  América  Latina.  Granada,
+Editorial   Universitaria  de  Granada,  2022.  RAMÍREZ,  J.  A.  Historia  del  Arte.  El  mundo  contemporáneo.
+Madrid,   Alianza,   1997.  STANGOS,  N.  Conceptos  de  arte  moderno.  Madrid,  Alianza,  1986.  RUHRBERG,  K.,
+SCHNEKENBURGER,   M.,   FRICKE,   CH.,  HONNEF,  K.,Arte  del  siglo  XX:  pintura,  escultura,  nuevos  medios,
+fotografía,   2   v.,   Colonia   Taschen,   1999   RUSSOLI,  F.L'art  moderna.Milan,  Fratelli  Fabbri,  1975.
+Varios volúmenes
+
+BIBLIOGRAFÍA FUNDAMENTAL AA.VV., Arte de Acción, Hondarribia (Guipúzcoa), Nerea, 2000 ARGAN, G.C. El
+arte   moderno.Valencia,   Fernando   Torres   Editor,   1977.   BENEVOLO,   L.Historia   de  la  arquitectura
+moderna.   Barcelona,   Gustavo   Gili,   2010.  BLOK,  C.  Historia  del  arte  abstracto.  1900-1960.  Madrid,
+Cátedra,   1982.   DORFLES,   G.  Ultimas  tendencias  del  arte  de  hoy.Barcelona,  Labor,  1973.  CAPITEL,  A.
+Arquitectura   europea   y   americana   después  de  las  vanguardias.  Madrid,  Espasa-Calpe,  1996.  CIRLOT,
+J.E.   El   arte   del   siglo   XX.2   vols.   Barcelona,   Labor,   1972.   CHIPP,   H.   B.   Teorías  del  arte
+contemporáneo.   Madrid:   Akal,   1995   CURTIS,   W.   J.  R.La  arquitectura  moderna  desde  1900.  Londres,
+Phaidon,   2007.   DE   FUSCO,   R.   Historia   de   la  Arquitectura  Contemporánea.  Madrid,  Celeste,  1992.
+FOSTER,   H.   et   al.   Arte   desde   1900.   Madrid:   Akal,   2006   FRAMPTON,   K.  Historia  crítica  de  la
+arquitectura   moderna.   Barcelona,   Gustavo   Gili,   2010.  FRANCASTEL,  P.  Pintura  y  sociedad.  Madrid,
+Cátedra, 1984. GUASCH,A,M. El arte último del siglo XX.Del posminimalismo a lo multicultural.Madrid,
+Alianza,   2000.  GUASCH,  A.  M.,El  arte  del  siglo  XX  en  sus  exposiciones,  1945-1995,Barcelona,  Ed.  del
+Serbal,   1997.   GUASCH,   A.   M.,   (Ed),  Los  manifiestos  del  arte  posmoderno.  Textos  de  exposiciones,
+1980-1995,   Tres   Cantos,   Akal,   2000   GROSENICK,   U.  y  REIMSCHNEIDER,  B.  (eds.)  Arte  para  el  siglo
+XXI¸Köln,   Taschen,  1999.  GROSENICK,  U.  y  REIMSCHNEIDER,  B.  (eds.),  Arte  de  Hoy,  Köln,  Taschen,  2001
+HAMILTON,    G.H.   Pintura   y   escultura   en   Europa,   1880-1940.Madrid,   Cátedra,   1987.   HITCHCOCK,
+H.R.Arquitectura   de   los   siglos   XIX   y   XX.   Madrid,   Cátedra,   1981  JENCKS,  CH.El  lenguaje  de  la
+arquitectura   postmoderna.Barcelona,  Gustavo  Gili,  1980  LUCIE-SMITH,  E.  Movimientos  en  el  arte  desde
+1945.   Thames   and   Hudson,   1991.  LUCIE-SMITH,  E.  El  arte  hoy.  Del  expresionismo  abstracto  al  nuevo
+realismo.Madrid,    Cátedra,    1983.   MARCHAN   FIZ,   S.   Del   arte   objetual   al   arte   del   concepto
+(1960-1974).Epílogo   sobre   la   sensibilidad   «postmoderna»:   antología   de   escritos  y  manifiestos.
+Madrid,    Akal,   1986.   MARCHAN   FIZ,   S.   Fin   de   Siglo   y   los   primeros   “ismos”   del   siglo   XX
+(1890-1917).Summa   Artis,   XXXVIII   MARCHAN   FIZ,   S  Las  vanguardias  artísticas  y  sus  sombras.  Summa
+Artis,   XXXIX   MICHELI,   M.   de.   Las   vanguardias   artísticas   del  siglo  XX.  Madrid,  Alianza,  1979.
+MOSQUERA,   G.   Beyond   the   Fantastic.   Crítica  de  arte  contemporánea  desde  América  Latina.  Granada,
+Editorial   Universitaria  de  Granada,  2022.  RAMÍREZ,  J.  A.  Historia  del  Arte.  El  mundo  contemporáneo.
+Madrid,   Alianza,   1997.  STANGOS,  N.  Conceptos  de  arte  moderno.  Madrid,  Alianza,  1986.  RUHRBERG,  K.,
+SCHNEKENBURGER,   M.,   FRICKE,   CH.,  HONNEF,  K.,Arte  del  siglo  XX:  pintura,  escultura,  nuevos  medios,
+fotografía,   2   v.,   Colonia   Taschen,   1999   RUSSOLI,  F.L'art  moderna.Milan,  Fratelli  Fabbri,  1975.
+Varios volúmenes
+
+CALINESCU, M. Cinco caras de la Modernidad, Madrid, Tecnos.2002
+
+CHIPP, H. B. Teorías del arte contemporáneo. Madrid: Akal, 1995
 
 CURTIS, W. J. R.La arquitectura moderna desde 1900. Londres, Phaidon, 2007
 
@@ -211,12 +252,16 @@ DUROZOI, Gerard (dir) Diccionario Akal de Arte del siglo XX. Madrid, Akal, 2007
 
 ECO, U. Apocalípticos e integrados. Madrid, Espasa-Calpe, 1995
 
-FER, H. et al. Realismo, Racionalismo, Surrealismo. El arte de entreguerras. Madrid: Akal, 1999
-
 FOSTER, H. et al. Arte desde 1900. Madrid: Akal, 2006
+
+FRAMPTON, K. Historia crítica de la arquitectura moderna. Barcelona, Gustavo Gili, 2010
 
 GIEDION,   S.   Espacio,   tiempo  y  arquitectura.  El  futuro  de  una  nueva  tradición.  Barcelona,  Reverté,
 2009
+
+GROSENICK, U. y REIMSCHNEIDER, B. (eds.) Arte para el siglo XXI¸Köln, Taschen, 1999
+
+GROSENICK, U. y REIMSCHNEIDER, B. (eds.), Arte de Hoy, Köln, Taschen, 2001
 
 GUASCH,   A.   M.,   (Ed),  Los  manifiestos  del  arte  posmoderno.  Textos  de  exposiciones,  1980-1995,  Tres
 Cantos, Akal, 2000
@@ -226,6 +271,8 @@ HAMILTON, G.H. Pintura y escultura en Europa, 1880-1940.Madrid, Cátedra, 1987
 HARRISON,   C.   et   al.   Primitivismo,   Cubismo  y  Abstracción.  Los  primeros  años  del  siglo  XX.Madrid:
 Akal, 1998
 
+HITCHCOCK, H.R.Arquitectura de los siglos XIX y XX. Madrid, Cátedra, 1981
+
 JENCKS, CH.El lenguaje de la arquitectura postmoderna.Barcelona, Gustavo Gili, 1980
 
 KRAUSS, R., La originalidad de la vanguardia y otros mitos modernos, Madrid, Alianza Forma, 1996
@@ -234,13 +281,19 @@ LUCIE-SMITH, E. Movimientos en el arte desde 1945. Thames and Hudson, 1991
 
 MARCHAN FIZ, S Las vanguardias artísticas y sus sombras. Summa Artis, XXXIX
 
+MARCHAN FIZ, S. Fin de Siglo y los primeros “ismos” del siglo XX (1890-1917).Summa Artis, XXXVIII
+
 MICHELI, M. de. Las vanguardias artísticas del siglo XX. Madrid, Alianza, 1979
 
 ORTEGA Y GASSET, La deshumanización del arte,Madrid, Espasa-Calpe, 1989
+
+RAMÍREZ, J.A.Arte y medios de masas,Madrid, Cátedra.2004
 
 RUBERT DE VENTOS, X. El arte ensimismado, Barcelona, Anagrama, 1963
 
 RUHRBERG,   K.,   SCHNEKENBURGER,   M.,   FRICKE,  CH.,  HONNEF,  K.,Arte  del  siglo  XX:  pintura,  escultura,
 nuevos medios, fotografía, 2 v., Colonia Taschen, 1999
 
-📊 Porcentaje estimado de cambio: 92% [█████████░]
+RUSSOLI, F.L'art moderna.Milan, Fratelli Fabbri, 1975. Varios volúmenes
+
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

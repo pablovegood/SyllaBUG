@@ -2,15 +2,24 @@
 Grado: farmacia-nutricion-humana-dietetica (225)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-Brunton, L.L. Goodman and Gilman. Las bases farmacológicas de la terapéutica (13ª ed)
+Brunton,   L.L.   Goodman  and  Gilman.  Las  bases  farmacológicas  de  la  terapéutica  (13ª  ed).  McGraw-Hill
+Publishing Company, 2019
 
-McGraw-Hill Publishing Company, 2019
+Flórez, J., Armijo, J.A., Mediavilla, A. Farmacología Humana. (6ª ed). Elsevier-Masson, 2014
 
-📚 Recursos sin cambios:
+Lorenzo,   P.,   Moreno,   A.,   Leza,   J.C.,  Lizasoain,  I.,  Moro,  M.A.  Velázquez.  Farmacología  Básica  y
+Clínica   (19ª   ed.)   Editorial   Médica  Panamericana,  2018  Katzung,  BG.  Farmacología  básica  y  clínica
+(15ª   ed.).   McGraw   Hill,   2022  Rang,  H.P.,  Dale,  M.M.  Ritter,  J.M.  Farmacología  (10ª  ed).  Elsevier
+España, 2024
+
+📚 Recursos sin cambios (4):
 ------------------------------
 Dipiro JT et al. Pharmacotherapy. A pathophysiologic approach (11th) Ed. McGraw-Hill, 2020
+
+Durante el desarrollo del programa teórico se le suministrará al alumno diverso material, que deberá
+leer y que le servirá como complemento de la materia explicada en clase
 
 Golan,   D.E.,   Tashjian,   A.H.,   Armstrong,   E.J.,  Armstrong,  A.W.  Principios  de  Farmacología.  Bases
 fisiopatológicas del tratamiento farmacológico (4ª ed.) Lippincott Williams & Wilkins, 2017
@@ -18,25 +27,15 @@ fisiopatológicas del tratamiento farmacológico (4ª ed.) Lippincott Williams &
 Goodman   and  Gilman.  Las  bases  farmacológicas  de  la  terapéutica  (14ª  ed).  McGraw-Hill  Interamericana
 Editores, 2023
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Lorenzo,   P.,   Moreno,   A.,   Leza,   J.C.,  Lizasoain,  I.,  Moro,  M.A.  Velázquez.  Farmacología  Básica  y
-Clínica   (19ª   ed.)   Editorial   Médica  Panamericana,  2018  Katzung,  BG.  Farmacología  básica  y  clínica
-(15ª   ed.).   McGraw   Hill,   2022  Rang,  H.P.,  Dale,  M.M.  Ritter,  J.M.  Farmacología  (10ª  ed).  Elsevier
-España,   2024.   deberá   leer   y   que   le  servirá  como  complemento  de  la  materia  explicada  en  clase  →
-Rang, H.P., Dale, M.M. Ritter, J.M. Farmacología (10ª ed). Elsevier España, 2024
-
-Flórez,   J.,   Armijo,   J.A.,   Mediavilla,   A.   Farmacología  Humana.  (6ª  ed).  Elsevier-Masson,  2014  →
 Flórez, J., Armijo, J.A., Mediavilla, A. Farmacología Humana. (7ª ed). Elsevier, 2025
-
-✅ Recursos añadidos:
-------------------------------
-Durante el desarrollo del programa teórico se le suministrará al alumno diverso material, que deberá
-leer y que le servirá como complemento de la materia explicada en clase
 
 Katzung, BG. Farmacología básica y clínica (15ª ed.). McGraw Hill, 2022
 
 Lorenzo,   P.,   Moreno,   A.,   Leza,   J.C.,  Lizasoain,  I.,  Moro,  M.A.  Velázquez.  Farmacología  Básica  y
 Clínica (19ª ed.) Editorial Médica Panamericana, 2018
+
+Rang, H.P., Dale, M.M. Ritter, J.M. Farmacología (10ª ed). Elsevier España, 2024
 
 📊 Porcentaje estimado de cambio: 87% [████████░░]

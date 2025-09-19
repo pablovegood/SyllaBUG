@@ -2,7 +2,7 @@
 Grado: ingenieria-informatica-ceuta (496)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
 A.   Gómez   Vieites,   C.   Suárez  Rey.  Sistemas  de  información.  Herramientas  prácticas  para  la  gestión
 empresarial. RAMA, 2008
@@ -12,7 +12,7 @@ Pearson, 2011
 
 E. Bendoly, F. Jacobs. Strategic ERP extension and use. Stanford Business Books, 2005
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 B.   Inmon,   R.   H.  Terdeman,  J.  Norris-Montanari,  D.  Meers.  Data  Warehousing  for  E-Business.  Willey,
 2001
@@ -22,11 +22,7 @@ E. Harold, W. Means. XML in a Nutshell. O'Reilly 2004
 T.   Boronczyk,   E.  Naramore,  J.  Gerner,  Y.  Scouarnec,  J.  Stolz,  M.  Glass.  Fundamentos  desarrollo  Web
 con PHP 6, Apache y MySQL. Anaya Multimedia, 2009
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 Apress. Beginning Spring Boot 3: Build Dynamic Cloud Native Java Applications and Microservices. New
 York: Apress, 2024

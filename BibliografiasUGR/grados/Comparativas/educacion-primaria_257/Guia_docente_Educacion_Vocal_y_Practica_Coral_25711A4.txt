@@ -2,11 +2,21 @@
 Grado: educacion-primaria (257)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+HEYNING,   L.  (2011).  “I  can’t  sing!”  The  concept  of  teacher  confidence  in  singing  and  the  use  within
+their   classroom.   International   Journal   of  Education  &  the  Arts,  12  (13).  Recuperado  a  partir  de:
+http://www.ijea.org/v12n13/v12n13.pdf   JACKSON,   L.  &  KREMER,  B.  (2018).  The  Singing  Teacher's  Guide
+to Trasgender Voices. Plural Publishing
 
-📚 Recursos sin cambios:
+MONIR,   R.,   KOSTRZEWA,   D.,   MROZEK,   D.   (2022)   Singing   Voice   Detection:  A  Survey.  Entropy,  24,
+https://doi.org/10.3390/e24010114   MOTA  IBÁÑEZ,  N.  (2018).  El  juego  vocal  en  la  educación  infantil  y
+primaria.    Tabanque:   revista   pedagógica,   31,   59-78.   https://doi.org/10.24197/trp.31.2018.59-78
+PAPAGEORGI   I,   SAUNDERS   J,   HIMONIDES  E  &  WELCH,  G.  F.  (2022)  Singing  and  Social  Identity  in  Young
+Children.   Frontiers   in   Psychology,   13.  https://doi.org/10.3389/fpsyg.2022.823229  SATALOFF,  R.  T.
+(Ed.) (2006).Vocal Health and Pedagogy: Science and Assessment. Plural Publishing
+
+📚 Recursos sin cambios (38):
 ------------------------------
 BLASCO, V. (2003). Manual de técnica vocal. Ñaque
 
@@ -26,20 +36,11 @@ CASAL,   L.   (2021).   Extensión,  rango,  tesitura,  registro  y  ámbito  vo
 Chao   et   al.  [Eds.]  Actas  del  III  Congreso  Internacional  de  Música  y  Cultura  para  la  Inclusión  y  la
 Innovación (pp. 224-228). Universidade da Coruña. https://doi.org/10.17979/spudc.9788497498050
 
-CASAL,   L.,   &  GILLANDERS,  C.  (2022).  Songs  and  singing  songs  in  early  childhood  education:  A  review
-of      Spanish      curriculum      policy.      The      Curriculum      Journal,      33(3),     478-494.
-https://doi.org/10.1002/curj.134
-
-DEMOREST,   S.  M.  (2001).  Building  Choral  Excellence:  Teaching  Sight-Singing  in  the  Choral  Rehearsal.
-Oxford University Press
-
 DINGLE,   G.   A.,   CLIFT,   S.,   FINN,   S.,  GILBERT,  R.,  GROARKE,  J.  M.,  IRONS,  J.  Y.,  BARTOLI,  A.  J.,
 LAMONT,   A.,   LAUNAY,   J.,   MARTIN,   E.   S.,   MOSS,  H.,  SANFILIPPO,  K.  R.,  SHIPTON,  M.,  STEWART,  L.,
 TALBOT,   S.,   TARRANT,  M.,  TIP,  L.  &  WILLIAMS,  E.  J.  (2019).  An  Agenda  for  Best  Practice  Research  on
 Group      Singing,      Health,      and      Well-Being.      Music      and      Science,     2,     1-15.
 https://doi.org/10.1177/2059204319861719
-
-DURRANT, C. (2017). Choral Conducting. Philosophy and Practice. Routledge
 
 ELORRIAGA, A. (2008). El sonido se comparte. Canto colectivo y educación musical. UAM Ediciones
 
@@ -62,20 +63,14 @@ HALL, C. (2005). Gender and boys’ singing in early childhood. British Journal 
 (1),                5–20.               Recuperado               a               partir               de:
 https://www.mv.helsinki.fi/home/hruismak/materiaalipankki/33400593.pdf
 
-HARRISON, S. D. & O´BRYAN, J. (Eds.) (2014). Teaching singing in the 21st Century. Springer
-
 HEIZMANN, K. (2011). 200 ejercicios de vocalización para solistas y coros. Schott
 
 HENDRY,   N.,   LYNAM,   D.   S.,   &   LAFARGE,  C.  (2022).  Singing  for  wellbeing:  formulating  a  model  for
 community    group    singing    interventions.   Qualitative   Health   Research,   32   (8-9),   1399-1414.
 https://doi.org/10.1177/10497323221104718
 
-HOCH, M. (2014). A Dictionary for the Modern Singer. Rowman & Littlefield Publishers
-
 JANSSON,   D.,   ELSTAD,   B.,   &   DØVING,   E.   (2021).   Choral  conducting  competences:  Perceptions  and
 priorities. Research Studies in Music Education, 43 (1), 3-21. https://doi.org/10.1177/1321103X19843
-
-KARPINSKI, G. S. (2021). Manual for Ear Training and Sight Singing. Norton
 
 LICOR, M. (2018). Cuando de cantar se trata: Técnica vocal ampliada. CreateSpace
 
@@ -108,22 +103,26 @@ Music
 
 _____. (2013). Choral Pedagogy (3rd ed.). Plural Publishing
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MONIR,   R.,   KOSTRZEWA,   D.,   MROZEK,  D.  (2022)  Singing  Voice  Detection:  A  Survey.  Entropy,  24,  MOTA
-IBÁÑEZ,   N.  (2018).  El  juego  vocal  en  la  educación  infantil  y  primaria.  Tabanque:  revista  PAPAGEORGI
-I,   SAUNDERS   J,   HIMONIDES   E   &  WELCH,  G.  F.  (2022)  Singing  and  Social  Identity  in  SATALOFF,  R.  T.
-(Ed.)   (2006).Vocal   Health   and   Pedagogy:  Science  and  Assessment.  Plural  Publishing  →  SATALOFF,  R.
-T. (Ed.) (2006).Vocal Health and Pedagogy: Science and Assessment. Plural Publishing
+https://doi.org/10.1002/curj.134 DEMOREST, S. M. (2001). Building Choral Excellence: Teaching Sight-
+Singing in the Choral Rehearsal. Oxford University Press
 
-HEYNING,   L.  (2011).  “I  can’t  sing!”  The  concept  of  teacher  confidence  in  singing  and  the  use  within
-their   classroom.   International   Journal   of   Education   &   the   Arts,  12  (13).  Recuperado  a  partir
-JACKSON, L. & KREMER, B. (2018). The Singing Teacher's Guide to Trasgender Voices. Plural Publishing
-→   HEYNING,   L.   (2011).   “I   can’t   sing!”  The  concept  of  teacher  confidence  in  singing  and  the  use
-within   their  classroom.  International  Journal  of  Education  &  the  Arts,  12  (13).  Recuperado  a  partir
-de: http://www.ijea.org/v12n13/v12n13.pdf
+https://doi.org/10.1177/10497323221104718   HOCH,   M.   (2014).   A   Dictionary   for  the  Modern  Singer.
+Rowman & Littlefield Publishers
 
-✅ Recursos añadidos:
+https://doi.org/10.1177/1321103X198431   KARPINSKI,   G.   S.  (2021).  Manual  for  Ear  Training  and  Sight
+Singing. Norton
+
+https://doi.org/10.1177/2059204319861719   DURRANT,   C.   (2017).   Choral   Conducting.   Philosophy  and
+Practice. Routledge
+
+https://doi.org/10.17979/spudc.9788497498050   CASAL,   L.,  &  GILLANDERS,  C.  (2022).  Songs  and  singing
+songs   in   early  childhood  education:  A  review  of  Spanish  curriculum  policy.  The  Curriculum  Journal,
+33(3), 478-494
+
+https://www.mv.helsinki.fi/home/hruismak/materiaalipankki/33400593.pdf HARRISON, S. D. & O´BRYAN, J.
+(Eds.) (2014). Teaching singing in the 21st Century. Springer
+
+✅ Recursos añadidos (10):
 ------------------------------
 DA SILVA, N. (2024). 70 preguntas sobre canto resueltas desde la ciencia vocal. Círculo Rojo
 
@@ -132,6 +131,10 @@ Books
 
 FISHER,   J.,   KAYES,   G.   &  MATTHEWS,  C.  (2018).  This  is  a  voice:  99  exercises  to  train,  project  and
 harness the power of your voice. Wellcome Collection
+
+HEYNING,   L.  (2011).  “I  can’t  sing!”  The  concept  of  teacher  confidence  in  singing  and  the  use  within
+their   classroom.   International   Journal   of  Education  &  the  Arts,  12  (13).  Recuperado  a  partir  de:
+http://www.ijea.org/v12n13/v12n13.pdf
 
 JACKSON, L. & KREMER, B. (2018). The Singing Teacher's Guide to Trasgender Voices. Plural Publishing
 
@@ -147,5 +150,7 @@ pedagógica, 31, 59-78. https://doi.org/10.24197/trp.31.2018.59-78
 
 PAPAGEORGI   I,   SAUNDERS   J,   HIMONIDES  E  &  WELCH,  G.  F.  (2022)  Singing  and  Social  Identity  in  Young
 Children. Frontiers in Psychology, 13. https://doi.org/10.3389/fpsyg.2022.823229
+
+SATALOFF, R. T. (Ed.) (2006).Vocal Health and Pedagogy: Science and Assessment. Plural Publishing
 
 📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

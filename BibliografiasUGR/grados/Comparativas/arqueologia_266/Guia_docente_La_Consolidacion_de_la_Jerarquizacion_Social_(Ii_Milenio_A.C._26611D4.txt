@@ -2,11 +2,31 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+CARRIÓN,   J.S.   (coord.)   (2010):   Paleoflora   y   paleovegetación   de   la   Península  Ibérica  e  Islas
+Baleares:   Plioceno-Cuaternario,   Universidad   de   Murcia,   Murcia,   CHAPMAN,   R.   (2008):  Producing
+Inequalities:   Regional   Sequences   in  Later  Prehistoric  Southern  Spain,  Journal  of  World  Prehistory
+21, pp. 195-260
 
-📚 Recursos sin cambios:
+LULL,   V.,   MICÓ,   R.,   RIHUETE,   C.,   RISCH,  R.  (2010):  Las  relaciones  políticas  y  económicas  de  El
+Argar,   Menga.   Revista   de   Prehistoria   de  Andalucía  1,  pp.  11-36  LULL,  V.,  MICÓ,  R.,  RIHUETE,  C.,
+RISCH, R. (2013): Funerary practices and kinship in an Early Bronze Age society: a Bayesian approach
+applied to the radiocarbon dating of Argaric double tombs, Journal of Archaeological Science 40, pp.
+4626-4634
+
+PERES, M., RSCH, R. (2023): Fuerzas productivas y relaciones de producción en el centro y el este de
+la    península    ibérica    entre   2200   y   1550   a.   n.   e.   Trabajos   de   Prehistoria   80(2),   e20.
+https://doi.org/10.3989/tp.2023.12334    VILLALBA-MOUCO,    V.,    OLIART,    C.,   RIHUETE-HERRADA,   C.,
+CHILDEBAYEVA,   A.,   ROHRLACH,  A.  B.,  FREGEIRO,  M.  I.,  CELDRÁN  BELTRÁN,  E.,  VELASCO-FELIPE,  C.,  ARON,
+F.,   HIMMEL,   M.,  FREUND,  C.,  ALT,  K.  W.,  SALAZAR-GARCÍA,  D.  C.,  GARCÍA  ATIÉNZAR,  G.,  MIGUEL  IBÁÑEZ,
+M.   P.   DE,   HERNÁNDEZ   PÉREZ,   M.  S.,  BARCIELA,  V.,  ROMERO,  A.,  PONCE,  J.,  MARTÍNEZ,  A.,  LOMBA,  J.,
+SOLER, J., PUJANTE MARTÍNEZ, A., AVILÉS FERNÁNDEZ, A., HABER-URIARTE, M., ROCA DE TOGORES MUÑOZ, C.,
+OLALDE,   Í.,   LALUEZA-FOX,  C.,  REICH,  D.,  KRAUSE,  J.,  GARCÍA  SANJUÁN,  L.,  LULL,  V.,  MICÓ,  R.,  RISCH,
+R., HAAK, W. (2021): Genomic transformation and social organization during the Copper Age–Bronze Age
+transition in southern Iberia, Science Advances 7:47
+
+📚 Recursos sin cambios (23):
 ------------------------------
 ALMAGRO   GORBEA,   M.,   (ed.)   (2014):   Protohistoria   de   la   Península   Ibérica:  del  neolítico  a  la
 romanización, Burgos
@@ -49,7 +69,7 @@ LILLIOS,   K.   (Ed.)   (2011):  Comparative  Archaeologies.  The  American  Sou
 Iberian Peninsula (3000–1500 BC), Oxbow Books, Oxford & Oakville
 
 LULL,   V.,   MICÓ,  R.,  RIHUETE  HERRADA,  C.  y  RISCH,  R.  (2015):  La  Bastida  y  Tira  del  Lienzo  (Totana  -
-Murcia), Ruta Argárica. Guías Arqueológicas 1, Integral, Sociedad para el Desarrollo Rural, Murcia
+Murcia), Ruta Argárica. Guías Arqueológicas 1, Integral, Sociedad para el Desarrollo Rural , Murcia
 
 LULL, V., MICÓ, R., RIHUETE HERRADA, C., RISCH, R. (2013): Bronze Age Iberia, The Oxford Handbook of
 The European Bronze Age (H. Fokkens, A. Harding, Eds.), Oxford University Press, Oxford, pp. 594-616
@@ -86,42 +106,11 @@ Padilla, Eds.), Museo Arqueológico y Fundación MARQ, Alicante, pp. 196-223
 ÁLVAREZ,   E.,   BLANCO,   A.,   RIVERO,   O.  (2020):  Prehistoria  de  la  Península  Ibérica,  Universidad  de
 Salamanca, Salamnanca
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-PERES, M., RSCH, R. (2023): Fuerzas productivas y relaciones de producción en el centro y el este de
-la   península   ibérica  entre  2200  y  1550  a.  n.  e.  Trabajos  de  Prehistoria  80(2),  VILLALBA-MOUCO,  V.,
-OLIART,   C.,   RIHUETE-HERRADA,   C.,   CHILDEBAYEVA,   A.,   ROHRLACH,   A.   B.,  FREGEIRO,  M.  I.,  CELDRÁN
-BELTRÁN,   E.,   VELASCO-FELIPE,   C.,  ARON,  F.,  HIMMEL,  M.,  FREUND,  C.,  ALT,  K.  W.,  SALAZAR-GARCÍA,  D.
-C.,   GARCÍA  ATIÉNZAR,  G.,  MIGUEL  IBÁÑEZ,  M.  P.  DE,  HERNÁNDEZ  PÉREZ,  M.  S.,  BARCIELA,  V.,  ROMERO,  A.,
-PONCE,   J.,   MARTÍNEZ,   A.,  LOMBA,  J.,  SOLER,  J.,  PUJANTE  MARTÍNEZ,  A.,  AVILÉS  FERNÁNDEZ,  A.,  HABER-
-URIARTE,   M.,   ROCA  DE  TOGORES  MUÑOZ,  C.,  OLALDE,  Í.,  LALUEZA-FOX,  C.,  REICH,  D.,  KRAUSE,  J.,  GARCÍA
-SANJUÁN,   L.,   LULL,   V.,   MICÓ,   R.,   RISCH,  R.,  HAAK,  W.  (2021):  Genomic  transformation  and  social
-organization   during   the  Copper  Age–Bronze  Age  transition  in  southern  Iberia,  Science  Advances  7:47
-→   VILLALBA-MOUCO,  V.,  OLIART,  C.,  RIHUETE-HERRADA,  C.,  CHILDEBAYEVA,  A.,  ROHRLACH,  A.  B.,  FREGEIRO,
-M.   I.,   CELDRÁN   BELTRÁN,   E.,   VELASCO-FELIPE,   C.,   ARON,  F.,  HIMMEL,  M.,  FREUND,  C.,  ALT,  K.  W.,
-SALAZAR-GARCÍA,   D.   C.,   GARCÍA   ATIÉNZAR,   G.,   MIGUEL   IBÁÑEZ,   M.  P.  DE,  HERNÁNDEZ  PÉREZ,  M.  S.,
-BARCIELA,   V.,   ROMERO,   A.,   PONCE,   J.,   MARTÍNEZ,  A.,  LOMBA,  J.,  SOLER,  J.,  PUJANTE  MARTÍNEZ,  A.,
-AVILÉS   FERNÁNDEZ,   A.,   HABER-URIARTE,   M.,  ROCA  DE  TOGORES  MUÑOZ,  C.,  OLALDE,  Í.,  LALUEZA-FOX,  C.,
-REICH,   D.,   KRAUSE,  J.,  GARCÍA  SANJUÁN,  L.,  LULL,  V.,  MICÓ,  R.,  RISCH,  R.,  HAAK,  W.  (2021):  Genomic
-transformation   and   social   organization   during   the   Copper  Age–Bronze  Age  transition  in  southern
-Iberia, Science Advances 7:47
-
-LULL,   V.,   MICÓ,   R.,   RIHUETE,   C.,   RISCH,  R.  (2010):  Las  relaciones  políticas  y  económicas  de  El
-Argar,   Menga.   Revista   de   Prehistoria   de  Andalucía  1,  pp.  11-36  LULL,  V.,  MICÓ,  R.,  RIHUETE,  C.,
-RISCH, R. (2013): Funerary practices and kinship in an Early Bronze Age society: a Bayesian approach
-applied to the radiocarbon dating of Argaric double tombs, Journal of Archaeological Science 40, pp.
-4626-4634   →   LULL,   V.,   MICÓ,  R.,  RIHUETE,  C.,  RISCH,  R.  (2013):  Funerary  practices  and  kinship  in
-an Early Bronze Age society: a Bayesian approach applied to the radiocarbon dating of Argaric double
-tombs, Journal of Archaeological Science 40, pp. 4626-4634
-
 CARRIÓN,   J.S.   (coord.)   (2010):   Paleoflora   y   paleovegetación   de   la   Península  Ibérica  e  Islas
-Baleares:   Plioceno-Cuaternario,   Universidad   de   Murcia,   Murcia,   CHAPMAN,   R.   (2008):  Producing
-Inequalities:   Regional   Sequences   in  Later  Prehistoric  Southern  Spain,  Journal  of  World  Prehistory
-21,   pp.   195-260   →   CARRIÓN,   J.S.   (coord.)   (2010):  Paleoflora  y  paleovegetación  de  la  Península
-Ibérica e Islas Baleares: Plioceno-Cuaternario, Universidad de Murcia, Murcia
+Baleares: Plioceno-Cuaternario, Universidad de Murcia, Murcia
 
-✅ Recursos añadidos:
-------------------------------
 CHAPMAN,   R.  (2008):  Producing  Inequalities:  Regional  Sequences  in  Later  Prehistoric  Southern  Spain,
 Journal of World Prehistory 21, pp. 195-260
 
@@ -132,8 +121,21 @@ Universidad de Granada
 LULL,   V.,   MICÓ,   R.,   RIHUETE,   C.,   RISCH,  R.  (2010):  Las  relaciones  políticas  y  económicas  de  El
 Argar, Menga. Revista de Prehistoria de Andalucía 1, pp. 11-36
 
+LULL, V., MICÓ, R., RIHUETE, C., RISCH, R. (2013): Funerary practices and kinship in an Early Bronze
+Age   society:  a  Bayesian  approach  applied  to  the  radiocarbon  dating  of  Argaric  double  tombs,  Journal
+of Archaeological Science 40, pp. 4626-4634
+
 PERES, M., RSCH, R. (2023): Fuerzas productivas y relaciones de producción en el centro y el este de
 la    península    ibérica    entre   2200   y   1550   a.   n.   e.   Trabajos   de   Prehistoria   80(2),   e20.
 https://doi.org/10.3989/tp.2023.12334
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+VILLALBA-MOUCO, V., OLIART, C., RIHUETE-HERRADA, C., CHILDEBAYEVA, A., ROHRLACH, A. B., FREGEIRO, M.
+I.,   CELDRÁN  BELTRÁN,  E.,  VELASCO-FELIPE,  C.,  ARON,  F.,  HIMMEL,  M.,  FREUND,  C.,  ALT,  K.  W.,  SALAZAR-
+GARCÍA,   D.   C.,  GARCÍA  ATIÉNZAR,  G.,  MIGUEL  IBÁÑEZ,  M.  P.  DE,  HERNÁNDEZ  PÉREZ,  M.  S.,  BARCIELA,  V.,
+ROMERO,   A.,   PONCE,  J.,  MARTÍNEZ,  A.,  LOMBA,  J.,  SOLER,  J.,  PUJANTE  MARTÍNEZ,  A.,  AVILÉS  FERNÁNDEZ,
+A.,   HABER-URIARTE,   M.,   ROCA  DE  TOGORES  MUÑOZ,  C.,  OLALDE,  Í.,  LALUEZA-FOX,  C.,  REICH,  D.,  KRAUSE,
+J.,   GARCÍA   SANJUÁN,  L.,  LULL,  V.,  MICÓ,  R.,  RISCH,  R.,  HAAK,  W.  (2021):  Genomic  transformation  and
+social organization during the Copper Age–Bronze Age transition in southern Iberia, Science Advances
+7:47
+
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

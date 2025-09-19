@@ -2,7 +2,7 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (13):
 ------------------------------
 COTTE, O. (2009) Los Óscar de dibujos animados. Ed. Omega
 
@@ -36,24 +36,21 @@ WELLs,   Paul  y  HARDSTAFF,  Johnny.  Re-Imagining  animation.  The  changing  
 Publishing, 2008
 
 WHITAKER, Harold y HALAS, John. Timing for animation. Focal Press.1981 ALDEN, Andrew. Time-Iapse and
-Stopmotion   animation   using   the   Bolex   H16.   www.bolex.co.uk   BRIERTON,   Tom.  Stopmotion  armature
-machining.   A   construction   manual.   McFarland   &   Company.   2002   CORSARO,  S  y  PARROTT,  C.  (2004).
-Hollywood   2D   digital  animation.  Thomson  Course  Technology  DÍAZ  MAROTO,  Carlos.  Ray  Harryhausen.  El
-mago del stop-motion. Calamar Ediciones
+Stopmotion animation using the Bolex H16
 
 WIGAN,   Mark.  (2008)  Imágenes  en  secuencia.  Animación,  storyboards,  videojuegos,  títulos  de  crédito,
 cinematografía,   mash-ups...  Gustavo  Gili.  Barcelona  WYATT,  A.  (2010)  The  complete  digital  animation
 course: The principles, practice and techniques of successful digital animation. Thames & Hudson
 
-📚 Recursos sin cambios:
+www.bolex.co.uk   BRIERTON,   Tom.   Stopmotion   armature  machining.  A  construction  manual.  McFarland  &
+Company.   2002   CORSARO,   S   y   PARROTT,   C.   (2004).  Hollywood  2D  digital  animation.  Thomson  Course
+Technology DÍAZ MAROTO, Carlos. Ray Harryhausen. El mago del stop-motion. Calamar Ediciones
+
+📚 Recursos sin cambios (0):
 ------------------------------
 No hay elementos.
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (26):
 ------------------------------
 Beane,   A.   (2012).   3D   animation  essentials  .  Wiley.  Introducción  clara  a  todos  los  aspectos  de  la
 animación 3D: modelado, texturizado, iluminación, rigging, animación y render

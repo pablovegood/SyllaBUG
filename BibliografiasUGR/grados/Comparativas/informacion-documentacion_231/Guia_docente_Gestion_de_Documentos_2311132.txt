@@ -2,31 +2,24 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Wolters Kluwer. activos de información. Barcelona: Editorial UOC
+http://link.springer.com/978-3-642-39715-8
 
-📚 Recursos sin cambios:
+http://site.ebrary.com/lib/univgranada/Doc?id=10902916   García-Morales,   Elisa   (2013).   Gestión   de
+documentos         en         la         e-administración.         Barcelona:        Editorial        UOC.
+http://site.ebrary.com/lib/univgranada/Doc?id=10751108    Tramullas,    Jesús    (2015).    Gestión    de
+contenidos,        2005-2015:       una       revisión.       En:       Hipertext.net,       núm.       13.
+http://www.raco.cat/index.php/Hipertext/article/view/294025   Cameron,   Stephen  A.  (2011).  Enterprise
+content           management:          a          business          and          technical          guide.
+http://site.ebrary.com/lib/univgranada/Doc?id=10481076   Escalona,   M.   J.;   Domínguez-Mayo,   F.   J.;
+García-García, J. A.; Sánchez, N.; Ponce, J (2015)
+
+📚 Recursos sin cambios (4):
 ------------------------------
 Bustos   Pretel,   Gerardo   (Coord.)   (2020).   La   gestión  del  documento  electrónico  (2ª  ed.).  Wolters
 Kluwer
 
-García-Morales,   Elisa   (2013).   Gestión   de  documentos  en  la  e-administración.  Barcelona:  Editorial
-UOC. http://site.ebrary.com/lib/univgranada/Doc?id=10751108
-
-vom   Brocke,   Jan;   Simons,   Alexander   (2014).  Enterprise  Content  Management  in  Information  Systems
-Research        Foundations,        Methods        and       Cases.       Nueva       York:       Springer.
-http://link.springer.com/978-3-642-39715-8
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Cameron, Stephen A. (2011). Enterprise content management: a business and technical Escalona, M. J.;
-Domínguez-Mayo,   F.   J.;   García-García,   J.   A.;  Sánchez,  N.;  Ponce,  J  (2015)  →  Cameron,  Stephen  A.
-(2011).      Enterprise      content      management:      a      business      and     technical     guide.
-http://site.ebrary.com/lib/univgranada/Doc?id=10481076
-
-✅ Recursos añadidos:
-------------------------------
 Escalona,   M.   J.;   Domínguez-Mayo,   F.   J.;   García-García,   J.   A.;   Sánchez,  N.;  Ponce,  J  (2015).
 Evaluating   Enterprise   Content   Management   Tools   in   a   Real   Context.   En:   Journal   of  Software
 Engineering and Applications, vol. 8, n. 8. http://file.scirp.org/pdf/JSEA_2015082814315038.pdf
@@ -34,7 +27,19 @@ Engineering and Applications, vol. 8, n. 8. http://file.scirp.org/pdf/JSEA_20150
 Eíto   Brun,   Ricardo  (2013).  Gestión  de  contenidos:  procesos  y  tecnologías  para  gestionar  activos  de
 información. Barcelona: Editorial UOC. http://site.ebrary.com/lib/univgranada/Doc?id=10902916
 
+http://file.scirp.org/pdf/JSEA_2015082814315038.pdf   vom   Brocke,   Jan;   Simons,   Alexander   (2014).
+Enterprise   Content  Management  in  Information  Systems  Research  Foundations,  Methods  and  Cases.  Nueva
+York: Springer
+
+✅ Recursos añadidos (3):
+------------------------------
+Cameron,   Stephen   A.   (2011).   Enterprise   content   management:   a   business   and   technical  guide.
+http://site.ebrary.com/lib/univgranada/Doc?id=10481076
+
+García-Morales,   Elisa   (2013).   Gestión   de  documentos  en  la  e-administración.  Barcelona:  Editorial
+UOC. http://site.ebrary.com/lib/univgranada/Doc?id=10751108
+
 Tramullas, Jesús (2015). Gestión de contenidos, 2005-2015: una revisión. En: Hipertext.net, núm. 13.
 http://www.raco.cat/index.php/Hipertext/article/view/294025
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 71% [███████░░░]

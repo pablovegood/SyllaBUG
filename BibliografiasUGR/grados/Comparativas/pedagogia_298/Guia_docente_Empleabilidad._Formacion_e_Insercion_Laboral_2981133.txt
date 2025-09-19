@@ -2,40 +2,30 @@
 Grado: pedagogia (298)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
-------------------------------
-Castells,   M.   (1996).   La   era   de   la   información.  Economía,  Sociedad  y  Cultura.  La  Sociedad  Red.
-Alianza Editorial
-
-Collins,   R.   (1989).   La   sociedad   credencialista.   Sociología   histórica   de  la  educación  y  de  la
-estratificación. Akal
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Los   materiales   básicos  de  la  asignatura  serán  proporcionados  por  los  profesores  responsables  de  la
-misma.   Arrow,   K.   (1972).   Higher   education   as  a  filter.  Technological  report.  Journal  of  Public
-Economic,   2,   193-216.   Becker,  G.  (1983).  El  capital  humano.  Alianza  Universidad  Textos.  Blaug,  M.
-(1976).   La   teoría   del   Capital   Humano   versus   el   credencialismo.   Introducción   y  selección  de
-artículos.   Revista   Española   de   Economía,   6(2),   223-230.   Blaug,  M.  (1981).  Educación  y  empleo.
-Instituto   de   Estudios   Económicos.   Bowles,  S.  &  Gintis,  H.  (1975).  The  problem  with  human  capital
-theory.    A   marxian   critique   →   Blaug,   M.   (1976).   La   teoría   del   Capital   Humano   versus   el
-credencialismo. Introducción y selección de artículos. Revista Española de Economía, 6(2), 223-230
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (22):
 ------------------------------
 Arrow, K. (1972). Higher education as a filter. Technological report. Journal of Public Economic, 2,
 193-216
 
 Becker, G. (1983). El capital humano. Alianza Universidad Textos
 
+Blaug, M. (1976). La teoría del Capital Humano versus el credencialismo. Introducción y selección de
+artículos. Revista Española de Economía, 6(2), 223-230
+
 Blaug, M. (1981). Educación y empleo. Instituto de Estudios Económicos
 
 Bowles,   S.  &  Gintis,  H.  (1975).  The  problem  with  human  capital  theory.  A  marxian  critique.  American
 Economic Review, 65(2), 74-82
+
+Castells,   M.   (1996).   La   era   de   la   información.  Economía,  Sociedad  y  Cultura.  La  Sociedad  Red.
+Alianza Editorial
+
+Collins,   R.   (1989).   La   sociedad   credencialista.   Sociología   histórica   de  la  educación  y  de  la
+estratificación. Akal
 
 Cuello,   R.   y   Salomón,   L.   (2005).   Competencias  y  diseño  de  la  evaluación  continua  y  final  en  el
 Espacio   Europeo   de   Educación   Superior.   Programa   de   estudios   y  análisis.  Dirección  General  de
@@ -79,4 +69,8 @@ Thurow, L. (1996). El Futuro del Capitalismo. Editorial Javier Vergara
 
 Toharia, L. (1983). El mercado de trabajo. Teoría y aplicaciones. Alianza editorial
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

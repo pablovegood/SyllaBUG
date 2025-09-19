@@ -2,29 +2,25 @@
 Grado: trabajo-social (249)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Federación   Internacional  del  Trabajadores  Sociales.  Declaración  Global  de  los  Principios  Éticos  del
+Trabajo   Social.  https://www.ifsw.org/declaracion-global-de-los-principioseticos-del-trabajo-social/
+Consejo   General   del   Trabajo   Social.   Código  Deontológico  de  la  Profesión  de  Diplomado  en  Trabajo
+Social.       https://www.ifsw.org/codigo-deontologico-de-la-profesion-dediplomado-en-trabajo-social/
+Rodríguez   Alcázar,   J.   “Por  la  reflexión  moral,  contra  los  códigos  de  ética  en  el  Trabajo  Social”.
+Cuadernos           de           Trabajo           Social           30(1),           2017,          97-108
+https://revistas.ucm.es/index.php/CUTS/article/view/52435   Salcedo,   D.,   Autonomía   y  bienestar.  La
+ética del trabajo social, Granada, Comares, 2001, cap. 1
 
-📚 Recursos sin cambios:
+https://www.ifsw.org/what-is-social-work/global-definition-of-socialwork/definicion-global-del-
+trabajo-social/
+
+https://www.juntadeandalucia.es/organismos/transparencia/planificacion-
+evaluacionestadistica/planes/detalle/209248.html
+
+📚 Recursos sin cambios (4):
 ------------------------------
-Federación    Internacional    del   Trabajadores   Sociales.   Definición   Global   del   Trabajo   Social.
-work/definicion-global-del-trabajo-social/    Federación   Internacional   del   Trabajadores   Sociales.
-Declaración   Global  de  los  Principios  eticos-del-trabajo-social/  Consejo  General  del  Trabajo  Social.
-Código   Deontológico  de  la  Profesión  de  Diplomado  diplomado-en-trabajo-social/  Social”.  Cuadernos  de
-Trabajo Social 30(1), 2017, 97-108 cap. 1
-
-Singer, P. Salvar una vida: cómo terminar con la pobreza. Madrid: Katz ed., 2012, caps. 1, 2, 3 y 8
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Federación Internacional del Trabajadores Sociales . Declaración Global de los Principios Éticos del
-Trabajo Social. https://www.ifsw.org/declaracion-global-de-los-principios-eticos-del-trabajo-social/
-
 Federación   Internacional   del   Trabajadores   Sociales   .   Definición   Global   del   Trabajo   Social.
 https://www.ifsw.org/what-is-social-work/global-definition-of-social-work/definicion-global-del-
 trabajo-social/
@@ -36,10 +32,20 @@ estadistica/planes/detalle/209248.html
 National       Association      of      Social      Workers      (N.A.S.W.),      Código      de      ética.
 https://www.socialworkers.org/About/Ethics/Code-of-Ethics/Code-of-Ethics-Spanish
 
+Singer, P. Salvar una vida: cómo terminar con la pobreza. Madrid: Katz ed., 2012, caps. 1, 2, 3 y 8
+
+✅ Recursos añadidos (4):
+------------------------------
+Consejo   General   del   Trabajo   Social  .  Código  Deontológico  de  la  Profesión  de  Diplomado  en  Trabajo
+Social. https://www.ifsw.org/codigo-deontologico-de-la-profesion-de-diplomado-en-trabajo-social/
+
+Federación Internacional del Trabajadores Sociales . Declaración Global de los Principios Éticos del
+Trabajo Social. https://www.ifsw.org/declaracion-global-de-los-principios-eticos-del-trabajo-social/
+
 Rodríguez   Alcázar,   J  .  “Por  la  reflexión  moral,  contra  los  códigos  de  ética  en  el  Trabajo  Social”.
 Cuadernos           de           Trabajo           Social           30(1),           2017,          97-108
 https://revistas.ucm.es/index.php/CUTS/article/view/52435
 
 Salcedo, D., Autonomía y bienestar. La ética del trabajo social, Granada, Comares, 2001, cap. 1
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 87% [████████░░]

@@ -2,33 +2,68 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Edición del Patronato de la Alhambra. Granada, 1975
 
-📚 Recursos sin cambios:
+París, Könëmann, 1998
+
+📚 Recursos sin cambios (36):
 ------------------------------
+AZCARATE RISTORI, J.M.Arte gótico en España. Manuales de Arte Cátedra. Madrid, 1990
+
 BANGO TORVISO, I. G. El Prerrománico en Europa.Madrid, 1989. Historia 16
 
 BANGO TORVISO, I. La Edad Media. Vol., II de la Historia del Arte de Alianza Editorial. Madrid, 1996
 
 BARRAL I ALTET, X. El románico. Ciudades, catedrales y monasterios. Madrid, Taschen, 1999
 
+BARRAL I ALTET, X. La Alta Edad Media. De la Antigüedad tardía al año mil. Madrid, Taschen, 1998
+
 BRAUNFELS, W. La arquitectura monacal en occidente. Edit. Barral. Barcelona, 1974
+
+Bibliografía   fundamental   AZCARATE   RISTORI,   J.M.Arte   gótico  en  España.  Manuales  de  Arte  Cátedra.
+Madrid,   1990.   BANGO   TORVISO,   I.   La   Edad   Media.   Vol.,   II   de  la  Historia  del  Arte  de  Alianza
+Editorial.   Madrid,  1996.  BARRAL  I  ALTET,  X.  La  Alta  Edad  Media.  De  la  Antigüedad  tardía  al  año  mil.
+Madrid,   Taschen,   1998.   FERNANDEZ   ARENAS,   J.   La   arquitectura  mozárabe.  Ediciones  la  Polígrafa.
+Barcelona,   1985.   GOMEZ-MORENO,  M.  Iglesias  mozárabes.  Arte  español  de  los  siglos  IX  al  XI.  Edición
+del   Patronato   de   la   Alhambra.   Granada,   1975.   GRABAR,  A.  Los  orígenes  de  la  estética  medieval.
+Madrid,   2007.   JANTZEN,   H.   La   arquitectura   gótica.   Edit.   Nueva   Visión.   Buenos   Aires,  1970.
+KRAUTHEIMER,   R.   Arquitectura   paleocristiana   y   bizantina.   Madrid,   1988.   -Introducción   a   una
+iconografía   de   la   arquitectura   medieval.   Vitoria,  2018.  KUBACH,  H.  Arquitectura  románica.  Edit.
+Aguilar.   Madrid,  1980.  LAHOZ,  L.  La  imagen  y  su  contexto  cultural.  La  iconografía  medieval.  Madrid,
+2022.   PALOL,   P.   Arte   hispánico   de   la   época  visigoda.  Ediciones  la  Polígrafa.  Barcelona,  1968.
+SCHAPIRO,   M.   Estudios   sobre   el   románico.   Alianza  Editorial.  Col  'Alianza  Forma'.  Madrid,  1984.
+SIMSON,   O.  La  catedral  gótica.  Alianza  Editorial.  Col.  'Alianza  Forma'.  Madrid.  1980.  SUREDA,  J.  La
+Baja   Edad   Media:   Románico  y  gótico.  Vol.,  IV  de  la  Historia  General  del  Arte  de  la  Edit.  Planeta.
+Barcelona, 1992. SUREDA, J. y BARRAL i ALTET. La Alta Edad Media. Vol., III de la Historia Universal
+del   Arte   de   la   Edit.   Planeta.   Barcelona.   1992.   TOMAN,  R.  et  alii.  El  románico.  Arquitectura,
+escultura   y  pintura.  Könemann.  Colonia,  1996.  TOMAN,  R.  et  alii.  El  gótico.  Arquitectura,  escultura
+y pintura. Köneman, Colonia, 1998
 
 CAMILLE, M. Arte gótico, visiones gloriosas.Madrid, 2005
 
+DUBY, G. San Bernardo y el arte cisterciense: El nacimiento del gótico. Edit. Taurus. Madrid, 1981
+
 DURLIAT, M. Introducción al arte medieval en occidente. Cátedra. Madrid, 1980
+
+FERNANDEZ ARENAS, J. La arquitectura mozárabe. Ediciones la Polígrafa. Barcelona, 1985
 
 FOCILLON, H. La vida de las formas y elogio de la mano. Ediciones Xarait. Madrid, 1983
 
 GARIN, E. Medioevo y Renacimiento. Edit. Taurus. Madrid. 1981
 
+GRABAR, A. Los orígenes de la estética medieval. Madrid, 2007
+
 GRIMBERG, C. Los siglos del gótico. Daimón, Barcelona, 1966
 
 HUIZINGA. J. El otoño de la Edad Media. Madrid, 1973
 
+Introducción a una iconografía de la arquitectura medieval. Vitoria, 2018
+
 JANTZEN, H. La arquitectura gótica. Edit. Nueva Visión. Buenos Aires, 1970
+
+KRAUTHEIMER, R. Arquitectura paleocristiana y bizantina. Madrid, 1988
 
 KUBACH, H. Arquitectura románica. Edit. Aguilar. Madrid, 1980
 
@@ -60,36 +95,37 @@ Edit. Planeta. Barcelona. 1992
 
 TOMAN, R. et alii. El gótico. Arquitectura, escultura y pintura. Köneman, Colonia, 1998
 
+TOMAN, R. et alii. El románico. Arquitectura, escultura y pintura. Könemann. Colonia, 1996
+
 WEISCH,   W.   Reforma   religiosa   y   arte  medieval.  La  influencia  de  Cluny  en  el  románico  occidental.
 Espasa Calpe. Madrid, 1949
 
 WORRINGER, W. La esencia del estilo gótico. Nueva visión. Buenos Aires, 1973
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Taurus.   Madrid,   1981   →   Bibliografía   complementaria   BANGO   TORVISO,   I.   G.   El  Prerrománico  en
-Europa.Madrid,   1989.   Historia   16.   BARRAL   I   ALTET,   X.   El   románico.   Ciudades,   catedrales   y
-monasterios.   Madrid,   Taschen,   1999.   BRAUNFELS,   W.   La   arquitectura  monacal  en  occidente.  Edit.
-Barral.   Barcelona,   1974.   CAMILLE,   M.   Arte  gótico,  visiones  gloriosas.Madrid,  2005.  DUBY,  G.  San
-Bernardo   y   el  arte  cisterciense:  El  nacimiento  del  gótico.  Edit.  Taurus.  Madrid,  1981.  DURLIAT,  M.
-Introducción   al   arte   medieval   en   occidente.   Cátedra.  Madrid,  1980.  FOCILLON,  H.  La  vida  de  las
-formas y elogio de la mano. Ediciones Xarait. Madrid, 1983. GARIN, E. Medioevo y Renacimiento. Edit.
-Taurus.   Madrid.   1981.  GRIMBERG,  C.  Los  siglos  del  gótico.  Daimón,  Barcelona,  1966.  HUIZINGA.  J.  El
-otoño   de   la   Edad  Media.  Madrid,  1973.  LEROUX-DHUYS,  J-F.  Historia  de  la  arquitectura:  Las  abadías
-cistercienses.   París,  Könëmann,  1998.  MARTINDALE,  A.  El  arte  gótico.  Barcelona,  2002.  PÉREZ  MONZÓN,
-O. Catedrales góticas. Madrid, 2003. PEVSNER, N. Diccionario de arquitectura. Alianza, Madrid, 1992.
-RECHT,   R.   El   gótico.  Madrid,  1985.  REVILLA,  F.  Diccionario  de  iconografía.  Cátedra,  Madrid.  1990.
-WEISCH,   W.   Reforma   religiosa   y   arte  medieval.  La  influencia  de  Cluny  en  el  románico  occidental.
-Espasa   Calpe.  Madrid,  1949.  WORRINGER,  W.  La  esencia  del  estilo  gótico.  Nueva  visión.  Buenos  Aires,
-1973
+Bibliografía   complementaria   BANGO   TORVISO,  I.  G.  El  Prerrománico  en  Europa.Madrid,  1989.  Historia
+16.   BARRAL   I   ALTET,   X.   El   románico.  Ciudades,  catedrales  y  monasterios.  Madrid,  Taschen,  1999.
+BRAUNFELS,   W.  La  arquitectura  monacal  en  occidente.  Edit.  Barral.  Barcelona,  1974.  CAMILLE,  M.  Arte
+gótico, visiones gloriosas.Madrid, 2005. DUBY, G. San Bernardo y el arte cisterciense: El nacimiento
+del   gótico.   Edit.   Taurus.   Madrid,   1981.  DURLIAT,  M.  Introducción  al  arte  medieval  en  occidente.
+Cátedra.   Madrid,   1980.   FOCILLON,   H.  La  vida  de  las  formas  y  elogio  de  la  mano.  Ediciones  Xarait.
+Madrid, 1983. GARIN, E. Medioevo y Renacimiento. Edit. Taurus. Madrid. 1981. GRIMBERG, C. Los siglos
+del   gótico.   Daimón,  Barcelona,  1966.  HUIZINGA.  J.  El  otoño  de  la  Edad  Media.  Madrid,  1973.  LEROUX-
+DHUYS,   J-F.   Historia   de   la   arquitectura:   Las   abadías   cistercienses.   París,   Könëmann,  1998.
+MARTINDALE,   A.   El  arte  gótico.  Barcelona,  2002.  PÉREZ  MONZÓN,  O.  Catedrales  góticas.  Madrid,  2003.
+PEVSNER,   N.   Diccionario  de  arquitectura.  Alianza,  Madrid,  1992.  RECHT,  R.  El  gótico.  Madrid,  1985.
+REVILLA,   F.   Diccionario  de  iconografía.  Cátedra,  Madrid.  1990.  WEISCH,  W.  Reforma  religiosa  y  arte
+medieval.   La   influencia  de  Cluny  en  el  románico  occidental.  Espasa  Calpe.  Madrid,  1949.  WORRINGER,
+W. La esencia del estilo gótico. Nueva visión. Buenos Aires, 1973
 
-Madrid,   Taschen,   1998   →   Bibliografía   fundamental   AZCARATE   RISTORI,  J.M.Arte  gótico  en  España.
-Manuales de Arte Cátedra. Madrid, 1990. BANGO TORVISO, I. La Edad Media. Vol., II de la Historia del
-Arte   de   Alianza   Editorial.   Madrid,  1996.  BARRAL  I  ALTET,  X.  La  Alta  Edad  Media.  De  la  Antigüedad
-tardía   al   año  mil.  Madrid,  Taschen,  1998.  FERNANDEZ  ARENAS,  J.  La  arquitectura  mozárabe.  Ediciones
-la Polígrafa. Barcelona, 1985. GOMEZ-MORENO, M. Iglesias mozárabes. Arte español de los siglos IX al
-XI.   Edición   del   Patronato   de   la  Alhambra.  Granada,  1975.  GRABAR,  A.  Los  orígenes  de  la  estética
-medieval.   Madrid,  2007.  JANTZEN,  H.  La  arquitectura  gótica.  Edit.  Nueva  Visión.  Buenos  Aires,  1970.
+Bibliografía   fundamental   AZCARATE   RISTORI,   J.M.Arte   gótico  en  España.  Manuales  de  Arte  Cátedra.
+Madrid,   1990.   BANGO   TORVISO,   I.   La   Edad   Media.   Vol.,   II   de  la  Historia  del  Arte  de  Alianza
+Editorial.   Madrid,  1996.  BARRAL  I  ALTET,  X.  La  Alta  Edad  Media.  De  la  Antigüedad  tardía  al  año  mil.
+Madrid,   Taschen,   1998.   FERNANDEZ   ARENAS,   J.   La   arquitectura  mozárabe.  Ediciones  la  Polígrafa.
+Barcelona,   1985.   GOMEZ-MORENO,  M.  Iglesias  mozárabes.  Arte  español  de  los  siglos  IX  al  XI.  Edición
+del   Patronato   de   la   Alhambra.   Granada,   1975.   GRABAR,  A.  Los  orígenes  de  la  estética  medieval.
+Madrid,   2007.   JANTZEN,   H.   La   arquitectura   gótica.   Edit.   Nueva   Visión.   Buenos   Aires,  1970.
 KRAUTHEIMER,   R.   Arquitectura   paleocristiana   y   bizantina.   Madrid,   1988.   -Introducción   a   una
 iconografía   de   la   arquitectura   medieval.   Vitoria,  2018.  KUBACH,  H.  Arquitectura  románica.  Edit.
 Aguilar.   Madrid,  1980.  LAHOZ,  L.  La  imagen  y  su  contexto  cultural.  La  iconografía  medieval.  Madrid,
@@ -102,46 +138,7 @@ del   Arte   de   la   Edit.   Planeta.   Barcelona.   1992.   TOMAN,  R.  et  a
 escultura   y  pintura.  Könemann.  Colonia,  1996.  TOMAN,  R.  et  alii.  El  gótico.  Arquitectura,  escultura
 y pintura. Köneman, Colonia, 1998
 
-Edición   del   Patronato   de   la  Alhambra.  Granada,  1975  →  Bibliografía  fundamental  AZCARATE  RISTORI,
-J.M.Arte   gótico  en  España.  Manuales  de  Arte  Cátedra.  Madrid,  1990.  BANGO  TORVISO,  I.  La  Edad  Media.
-Vol., II de la Historia del Arte de Alianza Editorial. Madrid, 1996. BARRAL I ALTET, X. La Alta Edad
-Media.   De   la   Antigüedad   tardía   al   año   mil.   Madrid,   Taschen,   1998.   FERNANDEZ  ARENAS,  J.  La
-arquitectura mozárabe. Ediciones la Polígrafa. Barcelona, 1985. GOMEZ-MORENO, M. Iglesias mozárabes.
-Arte español de los siglos IX al XI. Edición del Patronato de la Alhambra. Granada, 1975. GRABAR, A.
-Los   orígenes  de  la  estética  medieval.  Madrid,  2007.  JANTZEN,  H.  La  arquitectura  gótica.  Edit.  Nueva
-Visión.   Buenos   Aires,  1970.  KRAUTHEIMER,  R.  Arquitectura  paleocristiana  y  bizantina.  Madrid,  1988.
--Introducción   a  una  iconografía  de  la  arquitectura  medieval.  Vitoria,  2018.  KUBACH,  H.  Arquitectura
-románica.   Edit.   Aguilar.   Madrid,  1980.  LAHOZ,  L.  La  imagen  y  su  contexto  cultural.  La  iconografía
-medieval.   Madrid,   2022.   PALOL,   P.   Arte   hispánico  de  la  época  visigoda.  Ediciones  la  Polígrafa.
-Barcelona,   1968.   SCHAPIRO,   M.  Estudios  sobre  el  románico.  Alianza  Editorial.  Col  'Alianza  Forma'.
-Madrid,   1984.  SIMSON,  O.  La  catedral  gótica.  Alianza  Editorial.  Col.  'Alianza  Forma'.  Madrid.  1980.
-SUREDA,   J.   La   Baja   Edad  Media:  Románico  y  gótico.  Vol.,  IV  de  la  Historia  General  del  Arte  de  la
-Edit.   Planeta.   Barcelona,   1992.   SUREDA,  J.  y  BARRAL  i  ALTET.  La  Alta  Edad  Media.  Vol.,  III  de  la
-Historia   Universal   del   Arte  de  la  Edit.  Planeta.  Barcelona.  1992.  TOMAN,  R.  et  alii.  El  románico.
-Arquitectura,   escultura   y   pintura.   Könemann.   Colonia,   1996.   TOMAN,   R.   et   alii.   El  gótico.
-Arquitectura, escultura y pintura. Köneman, Colonia, 1998
-
-KRAUTHEIMER,    R.   Arquitectura   paleocristiana   y   bizantina.   Madrid,   1988.   Introducción   a   una
-iconografía    de    la    arquitectura    medieval.    Vitoria,   2018   →   KRAUTHEIMER,   R.   Arquitectura
-paleocristiana y bizantina. Madrid, 1988
-
-✅ Recursos añadidos:
-------------------------------
-AZCARATE RISTORI, J.M.Arte gótico en España. Manuales de Arte Cátedra. Madrid, 1990
-
-BARRAL I ALTET, X. La Alta Edad Media. De la Antigüedad tardía al año mil. Madrid, Taschen, 1998
-
-DUBY, G. San Bernardo y el arte cisterciense: El nacimiento del gótico. Edit. Taurus. Madrid, 1981
-
-FERNANDEZ ARENAS, J. La arquitectura mozárabe. Ediciones la Polígrafa. Barcelona, 1985
-
 GOMEZ-MORENO,   M.   Iglesias  mozárabes.  Arte  español  de  los  siglos  IX  al  XI.  Edición  del  Patronato  de
 la Alhambra. Granada, 1975
 
-GRABAR, A. Los orígenes de la estética medieval. Madrid, 2007
-
-Introducción a una iconografía de la arquitectura medieval. Vitoria, 2018
-
-TOMAN, R. et alii. El románico. Arquitectura, escultura y pintura. Könemann. Colonia, 1996
-
-📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

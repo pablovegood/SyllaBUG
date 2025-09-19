@@ -2,12 +2,48 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
+------------------------------
+CAMERA   D’AFFLITTO,   Isabella.   Breve  historia  de  la  literatura  árabe  contemporánea:  (De  la  Nahdah  a
+hoy). Trad. Mª Luz Comendador. Madrid: Verbum, 2020. GABRIELI, F. La Literatura árabe. Trad. de Rosa
+M.   Pentimalli,  Buenos  Aires:  Losada,  1971.  MARTÍNEZ  MONTÁVEZ,  P.  Introducción  a  la  literatura  árabe
+moderna.   Granada:   Universidad   /   CantArabia,   1994.   MEISAMI,  Julie  Scott  y  STARKEY,  Paul  (eds.).
+Encyclopedia   of   Arabic   Literature.   London   [etc.]:   Routledge,   1998.  2  vols.  RUBIERA  MATA,  M.J.
+Literatura Hispanoárabe. Madrid, Mapfre, 1992
+
+La   literatura   árabe  clásica:  Desde  la  época  pre-islámica  al  Imperio  Otomano.  Alicante:  Universidad
+de   Alicante,   1999.   SOBH,  M.  Historia  de  la  literatura  árabe.  Madrid:  Cátedra,  2002.  THE  CAMBRIDGE
+HISTORY   OF   ARABIC   LITERATURE  (6  vols.).  Cambridge:  University  Press,  1983-2006.  VEGLISON  ELÍAS  DE
+MOLINS,   J.   La   poesía   árabe  clásica.  Antología  presentada,  seleccionada  y  traducida  por-,  Madrid:
+Poesía Hiperión, 1997. VERNET, J. Literatura árabe, Barcelona: El Acantilado, 2002. ADONIS. Poesía y
+poética   árabes.   Trad.   C.  RUIZ  BRAVO-VILLASANTE.  Madrid:  Ediciones  del  Oriente  y  del  Mediterráneo,
+1997.   CORRIENTE  CÓRDOBA,  F.  Y  MONFERRER  SALA,  J.P.  Las  diez  Mu’allaqat.  Poesía  y  panorama  de  Arabia
+en vísperas del Islam. Trad. literal y completa de los diez poemas originales anotada y comentada en
+los aspectos literarios e históricos. Madrid: Hiperión, 2005. EL CORÁN. Ed. Y trad. preparada por J.
+Cortés.   Barcelona:   Herder,   1999.   GARCÍA  GÓMEZ,  E.  Poemas  arábigoandaluces.  Madrid:  Espasa-Calpe,
+col. Austral, 1940. -La poesía arábigoandaluza. Breve síntesis histórica. Madrid, 1952
+
+Las   jarchas   romances  de  la  serie  árabe  en  su  marco.  Barcelona,  Seix  Barral,  1975.  GARULO,  T.  Diwan
+de   las   poetisas   de   al-Andalus.   Madrid:   Poesía  Hiperión,  1986.  GELDER,  Geert  Jan  van.  Classical
+Arabic   Literature.   A   Library  of  Arabic  Literature  Anthology.  New  York:  New  York  University  Press,
+2013.   IBN   HAZM   DE   CÓRDOBA,   El   Collar  de  la  paloma.  Versión  de  E.  García  Gómez.  Madrid:  Alianza
+Editorial,   1971.  MARTÍNEZ  MARTÍN,  L.  Antología  de  poesía  árabe  contemporánea.  Madrid:  Espasa  Calpe,
+1972.   MARTÍNEZ   MONTÁVEZ,   Pedro   (selec.   y   trad.).   Poesía  árabe  clásica  oriental:  (antología  de
+poemas).   Málaga:   Litoral,   1988.   PÉRÈS,   H.   Esplendor   de  al-Andalus  La  poesía  andaluza  en  árabe
+clásico   en  el  siglo  XI.  Trad.  de  M.  García  Arenal.  Madrid:  Hiperión,  1983.  SADOUN,  Abdul  Hadi  (ed.,
+coord.   e   introd.).   Las  Muallaqat  para  Millennials.  Casidas  árabes  preislámicas.  Edición  bilingüe.
+Madrid:   Sial  Pigmalión,  [2022].  SÁNCHEZ  RATIA,  Jaime.  Treinta  poemas  árabes  en  su  contexto.  Madrid:
+Hiperión, 1998
+
+📚 Recursos sin cambios (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+✅ Recursos añadidos (24):
 ------------------------------
+ADONIS. Poesía y poética árabes. Trad. C. RUIZ BRAVO-VILLASANTE. Madrid: Ediciones del Oriente y del
+Mediterráneo, 1997
+
 CAMERA   D’AFFLITTO,   Isabella.   Breve  historia  de  la  literatura  árabe  contemporánea:  (De  la  Nahdah  a
 hoy). Trad. Mª Luz Comendador. Madrid: Verbum, 2020
 
@@ -19,6 +55,8 @@ EL CORÁN. Ed. Y trad. preparada por J. Cortés. Barcelona: Herder, 1999
 
 GABRIELI, F. La Literatura árabe. Trad. de Rosa M. Pentimalli, Buenos Aires: Losada, 1971
 
+GARCÍA GÓMEZ, E. Poemas arábigoandaluces. Madrid: Espasa-Calpe, col. Austral, 1940
+
 GARULO, T. Diwan de las poetisas de al-Andalus. Madrid: Poesía Hiperión, 1986
 
 GELDER,   Geert   Jan   van.  Classical  Arabic  Literature.  A  Library  of  Arabic  Literature  Anthology.  New
@@ -29,6 +67,10 @@ IBN   HAZM  DE  CÓRDOBA,  El  Collar  de  la  paloma.  Versión  de  E.  Garcí
 
 La   literatura   árabe  clásica:  Desde  la  época  pre-islámica  al  Imperio  Otomano.  Alicante:  Universidad
 de Alicante, 1999
+
+La poesía arábigoandaluza. Breve síntesis histórica. Madrid, 1952
+
+Las jarchas romances de la serie árabe en su marco. Barcelona, Seix Barral, 1975
 
 MARTÍNEZ MARTÍN, L. Antología de poesía árabe contemporánea. Madrid: Espasa Calpe, 1972
 
@@ -58,23 +100,6 @@ THE CAMBRIDGE HISTORY OF ARABIC LITERATURE (6 vols.). Cambridge: University Pres
 VEGLISON ELÍAS DE MOLINS, J. La poesía árabe clásica. Antología presentada, seleccionada y traducida
 por-, Madrid: Poesía Hiperión, 1997
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-VERNET,   J.  Literatura  árabe,  Barcelona:  El  Acantilado,  2002.  del  Oriente  y  del  Mediterráneo,  1997  →
 VERNET, J. Literatura árabe, Barcelona: El Acantilado, 2002
 
-GARCÍA   GÓMEZ,   E.   Poemas   arábigoandaluces.   Madrid:   Espasa-Calpe,   col.  Austral,  1940.  La  poesía
-arábigoandaluza.   Breve   síntesis  histórica.  Madrid,  1952.  Las  jarchas  romances  de  la  serie  árabe  en
-su   marco.   Barcelona,  Seix  Barral,  1975  →  GARCÍA  GÓMEZ,  E.  Poemas  arábigoandaluces.  Madrid:  Espasa-
-Calpe, col. Austral, 1940
-
-✅ Recursos añadidos:
-------------------------------
-ADONIS. Poesía y poética árabes. Trad. C. RUIZ BRAVO-VILLASANTE. Madrid: Ediciones del Oriente y del
-Mediterráneo, 1997
-
-La poesía arábigoandaluza. Breve síntesis histórica. Madrid, 1952
-
-Las jarchas romances de la serie árabe en su marco. Barcelona, Seix Barral, 1975
-
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

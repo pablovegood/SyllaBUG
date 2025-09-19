@@ -2,35 +2,32 @@
 Grado: fisioterapia-melilla (541)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-Ed    Panamericana.2004    Madrid   2004   Gaskell/Webber:   Fisioterapia   Respiratoria.   (Guía   hospital
-Brompton). Ed Eunsa
+Bruselas   1990   Gimenez,   Servera,   Vergara.   Prevención   y  rehabilitación  en  patología  respiratoria
+Crónica
 
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
 Mercado   Rus,   M:   Manual   de   fisioterapia  respiratoria.  2ª  ed.  Ed.  Ergon.  Madrid  2002  Postiaux  G.:
-Fisioterapia   respiratoria   en   el   niño.   Ed   McGRAW-Hill.   Madrid   2000  Página  5  Prior,JA.  Webber:
-Cuidados respiratorios. Ed Masson. Madrid 1997 Ruben Rebelatto J.Da Silva Morelli J. G.:Fisioterapia
-geriatrica.Ed.Mac   Graw-Hill   Madrid   200   Valenza/Gonzalez:   Manual   de  fisioterapia  respiratoria  y
-cardiaca.   Ed   Síntesis.   Madrid   Best   y   Taylor:   Bases   fisiológicas   de   la   práctica  médica.  Ed
-Panamericana.   Madrid   2004   Cristancho,W.Inhaloterapia   Manual   moderno.   2011   Guyton:   Tratado  de
-fisiologia   médica.   Ed.   McGRAW-HILL-Interamericana.  Madrid  2006  Departamento  de  Fisioterapia  Curso
+Fisioterapia respiratoria en el niño. Ed McGRAW-Hill. Madrid 2000 Página 5 Prior,JA
+
+Webber:   Cuidados   respiratorios.   Ed   Masson.   Madrid   1997   Ruben   Rebelatto  J.Da  Silva  Morelli  J.
+G.:Fisioterapia   geriatrica.Ed.Mac   Graw-Hill   Madrid   200   Valenza/Gonzalez:  Manual  de  fisioterapia
+respiratoria   y   cardiaca.   Ed   Síntesis.   Madrid   Best   y  Taylor:  Bases  fisiológicas  de  la  práctica
+médica. Ed Panamericana. Madrid 2004 Cristancho,W.Inhaloterapia Manual moderno. 2011 Guyton: Tratado
+de fisiologia médica. Ed. McGRAW-HILL-Interamericana. Madrid 2006 Departamento de Fisioterapia Curso
 Académico   2016-2017   Página   6   Farreras-Rozman:   Medicina   Interna  Ed  Marín.  Barcelona  2004  Hansen
 J:Pulmonary   function   testing   and  interpretation(Clinical  focus  series)Jaype  2011  West:  Fisiología
 pulmonar.   Ed   Panamericana  Buenos  Aires  2004  A  GN  Agustí:  Función  pulmonar  aplicada  Ed  Mosby/Doyma.
-Madrid   1995   Postiaux   G.  Fisioterapia  respiratoria  en  el  adulto  (En  francés).  Ed  De  Boex&Larcier  →
-West: Fisiología pulmonar. Ed Panamericana Buenos Aires 2004
+Madrid 1995 Postiaux G. Fisioterapia respiratoria en el adulto (En francés). Ed De Boex&Larcier
 
-Bruselas   1990   Gimenez,   Servera,   Vergara.   Prevención   y  rehabilitación  en  patología  respiratoria
-Crónica   →   Gimenez,   Servera,   Vergara.   Prevención   y   rehabilitación   en   patología   respiratoria
-Crónica. Ed Panamericana.2004 Madrid 2004
+📚 Recursos sin cambios (2):
+------------------------------
+Ed    Panamericana.2004    Madrid   2004   Gaskell/Webber:   Fisioterapia   Respiratoria.   (Guía   hospital
+Brompton). Ed Eunsa. Barcelona1998
 
-✅ Recursos añadidos:
+Güell,R: Rehabilitación respiratoria. Barcelona. Ed. Medical & Marketing comunications. 2005
+
+✅ Recursos añadidos (14):
 ------------------------------
 A GN Agustí: Función pulmonar aplicada Ed Mosby/Doyma. Madrid 1995
 
@@ -42,11 +39,10 @@ Departamento de Fisioterapia Curso Académico 2016-2017 Página 6
 
 Farreras-Rozman: Medicina Interna Ed Marín. Barcelona 2004
 
-Gaskell/Webber: Fisioterapia Respiratoria. (Guía hospital Brompton). Ed Eunsa. Barcelona1998
+Gimenez,   Servera,   Vergara.   Prevención   y   rehabilitación   en   patología   respiratoria  Crónica.  Ed
+Panamericana.2004 Madrid 2004
 
 Guyton: Tratado de fisiologia médica. Ed. McGRAW-HILL-Interamericana. Madrid 2006
-
-Güell,R: Rehabilitación respiratoria. Barcelona. Ed. Medical & Marketing comunications. 2005
 
 Hansen J:Pulmonary function testing and interpretation(Clinical focus series)Jaype 2011
 
@@ -60,5 +56,7 @@ Ruben   Rebelatto   J.Da   Silva   Morelli   J.   G.:Fisioterapia   geriatrica.E
 Valenza/Gonzalez: Manual de fisioterapia respiratoria y cardiaca. Ed Síntesis. Madrid 2005
 
 Webber: Cuidados respiratorios. Ed Masson. Madrid 1997
+
+West: Fisiología pulmonar. Ed Panamericana Buenos Aires 2004
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

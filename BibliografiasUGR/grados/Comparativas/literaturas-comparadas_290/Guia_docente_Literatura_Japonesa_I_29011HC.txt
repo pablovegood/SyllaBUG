@@ -2,19 +2,24 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Heike   Monogatari   (2005).   Trad.   Carlos   Rubio   y   Rumi  Tani.  Madrid:  Gredos.  Hume,  Nancy  G.  (ed.)
 (1995). Japanese Aesthetics and Culture. A Reader. Albany (NY): State University of New York Press
 
+Heike Monogatari (2005). Trad. Carlos Rubio y Rumi Tani. Madrid: Gredos. Hume, Nancy G. (ed.)
+
+Rubio,   Carlos   (2007).  Claves  y  textos  de  la  literatura  japonesa.  Una  introducción.  Madrid:  Cátedra
+Chikamatsu, Monzaemon (2000). Los amantes suicidas de Amijima. Trad. Jaime Fernández. Madrid: Trotta
+
+📚 Recursos sin cambios (8):
+------------------------------
 Kamo   no   Chomei   (1998).   Un   relato   desde  mi  choza  (Houjouki).  Trad.  Jesús  Carlos  Álvarez  Crespo.
 Madrid: Hiperión
 
 Kato, Shuichi (1997). A History of Japanese Literature. Surrey: Japan Library
+
+Kojiki. Crónicas de antiguos hechos de Japón. (2008) Trad. Carlos Rubio y Rumi Tani. Madrid: Trotta.
+Man’youshuu (1980). Trad. Antonio Cabezas. Madrid: Hiperión
 
 Matsuo, Bashou (1981). Sendas de Oku. Trad. Octavio Paz y Eikichi Hayashiya. Barcelona: Seix Barral
 
@@ -27,25 +32,18 @@ Sei, Shounagon.(2004). El libro de la almohada. Trad. María Kodama. Madrid: Ali
 Zeami   (1999).  Fūshikaden:  Tratado  sobre  la  práctica  del  teatro  Noh  y  cuatro  dramas  Noh.Trad.  Javier
 Rubiera y Hidehito Higashitani. Madrid: Trotta
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Kojiki.   Crónicas   de   antiguos   hechos   de   Japón.   (2008)  Trad.  Carlos  Rubio  y  Rumi  Tani.  Madrid  →
-Kojiki. Crónicas de antiguos hechos de Japón. (2008) Trad. Carlos Rubio y Rumi Tani. Madrid: Trotta.
-Man’youshuu (1980). Trad. Antonio Cabezas. Madrid: Hiperión
-
-Rubio,   Carlos   (2007).  Claves  y  textos  de  la  literatura  japonesa.  Una  introducción.  Madrid:  Cátedra
-Chikamatsu, Monzaemon (2000). Los amantes suicidas de Amijima. Trad. Jaime Fernández. Madrid: Trotta
-→   Rubio,   Carlos   (2007).   Claves   y   textos   de   la  literatura  japonesa.  Una  introducción.  Madrid:
-Cátedra
-
-Trotta.   Man’youshuu   (1980).  Trad.  Antonio  Cabezas.  Madrid:  Hiperión  →  Kojiki.  Crónicas  de  antiguos
-hechos   de   Japón.   (2008)  Trad.  Carlos  Rubio  y  Rumi  Tani.  Madrid:  Trotta.  Man’youshuu  (1980).  Trad.
-Antonio Cabezas. Madrid: Hiperión
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Carlos Rubio (2021). Mil años de literatura femenina en Japón, Gijón, Satori
 
 Chikamatsu, Monzaemon (2000). Los amantes suicidas de Amijima. Trad. Jaime Fernández. Madrid: Trotta
 
-📊 Porcentaje estimado de cambio: 45% [████░░░░░░]
+Heike   Monogatari   (2005).   Trad.   Carlos   Rubio   y   Rumi  Tani.  Madrid:  Gredos.  Hume,  Nancy  G.  (ed.)
+(1995). Japanese Aesthetics and Culture. A Reader. Albany (NY): State University of New York Press
+
+Heike   Monogatari   (2005).   Trad.   Carlos   Rubio   y   Rumi  Tani.  Madrid:  Gredos.  Hume,  Nancy  G.  (ed.)
+(1995). Japanese Aesthetics and Culture. A Reader. Albany (NY): State University of New York Press
+
+Rubio, Carlos (2007). Claves y textos de la literatura japonesa. Una introducción. Madrid: Cátedra
+
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

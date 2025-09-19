@@ -2,19 +2,40 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (23):
 ------------------------------
 Anales   del  Seminario  de  Metafísica.  45,  2012,  pp.  95-122  Hoyos  Sánchez,  I.  "Conflictos  religiosos  y
 políticas   afectivas   en  la  filosofía  de  Spinoza”  en  Ávila,  R.,  Ruiz  Callejón,  E.,  Castillo  Hermoso,
 J. M. (eds.) Miradas a los otros. Dioses, culturas y civilizaciones. Arena Libros, Madrid, 2011, pp.
 47-62 Horkheimer, M., Anhelo de justicia, teoría crítica y religión. Trotta, Madrid, 2000
 
+Andrade, G., Breve introducción a la filosofía de la religión. Universidad de Cádiz, 2011 Armstrong,
+K.,   La   gran  transformación:  el  mundo  en  la  época  de  Buda,  Sócrates,  Confucio  y  Jeremías:  el  origen
+de las tradiciones religiosas. Paidós, 2007 Ávila Crespo, R., “Nietzsche: psicólogo de la religión”.
+Pensamiento. 69 (259), 2013, pp. 257-274
+
+Feurbach, L. La esencia del cristianismo. Trotta, Madrid, 2002
+
+Fraijó,   M.  ,Filosofía  de  la  Religión.  Estudios  y  Textos.  Trotta,  Madrid,  1994  Freud,  S.  El  porvenir
+de una ilusión; El malestar en la cultura y otras obras. Amorrotu, Buenos Aires, 1979
+
 García   Valdecasas,   J.   I  &  Belmonte  García,  O,  “La  religión  del  amor.  Feuerbach  y  lo  filósofos  del
 diálogo”.   Anales   del   seminario   de   historia   de   la   filosofía.   5   (2),  2018,  pp.  395-413  Ginzo
 Fernández,   A.   “La  filosofía  de  la  religión  en  Hegel  y  Schleiermacher”.  Logos.  Anales  del  Seminario
 de Metafísica. Nº16. 1981, pp. 89- 118
 
+Grondin,   J.,   Filosofía   de   la   religión.   Herder,  Barcelona,  2010  Hoyos  Sánchez,  I.,  "Naturalismo
+antropológico y religión natural en Spinoza", Gazeta de Antropología, 31(2), 2015, artículo 06 Hoyos
+Sánchez, I. "La ontología naturalista de Spinoza como ontología de la pasión”. Logos
+
+Habermas   J.,   Taylor   Ch.,  Butler  J.,  West  C.  El  poder  de  la  religión  en  la  esfera  pública.  Trotta,
+Madrid, 2011 Hegel, G. W. F., Filosofía de la religión. Trotta, Madrid, 2018
+
 Hume, D. Diálogos sobre la religión natural. Tecnos, Madrid, 2011
+
+James,   W.   Las   variedades  de  la  experiencia  religiosa.  Estudio  de  la  naturaleza  humana.  Península,
+Barcelona,   2ª   ed.   1994   Kant,   I.   La   religión   dentro   de  los  límites  de  la  mera  razón.  Alianza
+Editorial, Madrid, 2009
 
 Jaspers, K. Los grandes maestros espirituales de oriente y occidente. Tecnos, Madrid, 2012
 
@@ -28,14 +49,30 @@ inseguridad. Paidós, Barcelona, 2013
 Nussbaum,    M.    Libertad    de    conciencia.    Contra   los   fanatismos.   Tusquets,   Barcelona,   2009
 Schleiermacher, F. Sobre la religión. Tecnos, Madrid, 1990
 
-Poupard, P. (coord.), Diccionario de las religiones. Herder, 1987Sánchez Meca, D., “Sobre la Sánchez
-Meca, D. Diccionario esencial de filosofía, Dykinson, Madrid, 2012
+Paidós, Barcelona, 1992 Zambrano, M., El hombre y lo divino. FCE, México, 2007
+
+Poupard,   P.   (coord.),   Diccionario   de   las   religiones.   Herder,   1987Sánchez  Meca,  D.,  “Sobre  la
+especificidad   del  ateísmo  moderno”.  Éndoxa.  Series  filosóficas,  38,  2006,  pp.  297-309  Sánchez  Meca,
+D. "Sobre la especificidad del ateísmo moderno". Endoxa, 38, 2016, pp. 297-310
+
+Spinoza, B., Ética. Alianza, Madrid, 1987
+
+Sánchez Meca, D. Diccionario esencial de filosofía, Dykinson, Madrid, 2012
+
+Trotta,   2010  Estrada  Díaz,  J.  A.  Por  una  ética  sin  teología:  Habermas  como  filósofo  de  la  religión.
+Trotta,   2004   Estrada   Díaz,   J.   A.   La   pregunta  por  Dios:  entre  la  metafísica,  el  nihilismo  y  la
+religión. Desclée De Brouwer, 2005
 
 Trías, E., La edad del espíritu. Destino, Barcelona, 2011
 
 Weil S., A la espera de Dios. Trotta, Madrid, 1993
 
-📚 Recursos sin cambios:
+Wittgenstein, L., Lecciones y conversaciones sobre estética, psicología y creencia religiosa
+
+Ávila Crespo, R. “El delirio del superhombre: ¿una nueva estación de lo sagrado?”. Aurora, 10, 2019,
+pp. 6-18 Carrette, J. (ed.). Foucault, M. Religion and Culture. Routledge, New York, 1999
+
+📚 Recursos sin cambios (6):
 ------------------------------
 Estrada Díaz, J. A. Dios en las tradiciones filosóficas. Trotta, 1996
 
@@ -51,47 +88,11 @@ Nietzsche, F. Obras completas. Vol. I-IV. Tecnos, Madrid, 2011-2016
 
 Spinoza, B. Tratado teológico-político. Alianza, Madrid, 1986
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-James,   W.   Las   variedades  de  la  experiencia  religiosa.  Estudio  de  la  naturaleza  humana.  Península,
-Barcelona,   2ª   ed.   1994   Kant,   I.   La   religión   dentro   de  los  límites  de  la  mera  razón.  Alianza
-Editorial,   Madrid,   2009   →   Kant,   I.   La  religión  dentro  de  los  límites  de  la  mera  razón.  Alianza
-Editorial, Madrid, 2009
-
-Grondin,   J.,   Filosofía   de   la   religión.   Herder,  Barcelona,  2010  Hoyos  Sánchez,  I.,  "Naturalismo
-antropológico y religión natural en Spinoza", Gazeta de Antropología, 31(2), 2015, artículo 06 Hoyos
-Sánchez,   I.   "La   ontología   naturalista   de  Spinoza  como  ontología  de  la  pasión”.  Logos  →  Grondin,
-J., Filosofía de la religión. Herder, Barcelona, 2010
-
-Trotta,   2010   Estrada   Díaz,   J.   A.   La   pregunta  por  Dios:  entre  la  metafísica,  el  nihilismo  y  la
-religión.   Desclée   De   Brouwer,   2005   →   Estrada   Díaz,   J.   A.   La   pregunta   por   Dios:  entre  la
-metafísica, el nihilismo y la religión. Desclée De Brouwer, 2005
-
-Fraijó,   M.  ,Filosofía  de  la  Religión.  Estudios  y  Textos.  Trotta,  Madrid,  1994  Freud,  S.  El  porvenir
-de   una   ilusión;  El  malestar  en  la  cultura  y  otras  obras.  Amorrotu,  Buenos  Aires,  1979  →  Fraijó,  M.
-Filosofía de la Religión. Estudios y Textos. Trotta, Madrid, 1994
-
-Paidós,   Barcelona,   1992   Zambrano,  M.,  El  hombre  y  lo  divino.  FCE,  México,  2007  →  Zambrano,  M.,  El
-hombre y lo divino. FCE, México, 2007
-
-Feurbach,   L.   La   esencia   del   cristianismo.   Trotta,   Madrid,  2002  →  Feuerbach,  L.  La  esencia  del
-cristianismo. Madrid, Trotta, 2009
-
-Andrade, G., Breve introducción a la filosofía de la religión. Universidad de Cádiz, 2011 Armstrong,
-K.,   La   gran  transformación:  el  mundo  en  la  época  de  Buda,  Sócrates,  Confucio  y  Jeremías:  el  origen
-de las tradiciones religiosas. Paidós, 2007 Ávila Crespo, R., “Nietzsche: psicólogo de la religión”.
-Pensamiento.   69   (259),   2013,  pp.  257-274  Ávila  Crespo,  R.  “El  delirio  del  superhombre:  ¿una  nueva
-estación   de   lo  sagrado?”.  Aurora,  10,  2019,  pp.  6-18  Carrette,  J.  (ed.).  Foucault,  M.  Religion  and
-Culture.   Routledge,   New   York,   1999   →   Andrade,   G.,   Breve   introducción   a   la  filosofía  de  la
-religión. Universidad de Cádiz, 2011
-
-Habermas   J.,   Taylor   Ch.,  Butler  J.,  West  C.  El  poder  de  la  religión  en  la  esfera  pública.  Trotta,
-Madrid,   2011   Hegel,   G.   W.   F.,   Filosofía  de  la  religión.  Trotta,  Madrid,  2018  →  Hegel,  G.  W.  F.
-Filosofía de la religión. Trotta, Madrid, 2018
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (32):
 ------------------------------
 (Bibliografía específica por temas: PRADO)
+
+Andrade, G., Breve introducción a la filosofía de la religión. Universidad de Cádiz, 2011
 
 Armstrong,   K.,  La  gran  transformación:  el  mundo  en  la  época  de  Buda,  Sócrates,  Confucio  y  Jeremías:
 el origen de las tradiciones religiosas. Paidós, 2007
@@ -103,6 +104,9 @@ Copan,   Paul.;   Meister,  Chad  V.  The  Routledge  companion  to  philosophy 
 New York : Routledge, 2013
 
 Copan, Paul.; Meister, Chad V. The Routledge companion to philosophy of religion. Routledge, 2013
+
+Estrada   Díaz,   J.  A.  La  pregunta  por  Dios:  entre  la  metafísica,  el  nihilismo  y  la  religión.  Desclée
+De Brouwer, 2005
 
 Estrada Díaz, J. A. Por una ética sin teología: Habermas como filósofo de la religión. Trotta, 2004
 
@@ -117,6 +121,8 @@ juventud. Granada, Comares, 1995
 
 Feuerbach, L. Feuerbach, L. La esencia de la religión. Madrid, Páginas de Espuma, 2008
 
+Feuerbach, L. La esencia del cristianismo. Madrid, Trotta, 2009
+
 Feuerbach, L. Lecciones sobre la esencia de la religión. Buenos Aires, Prometeo Libros, 2009
 
 Feuerbach, L. Pensamientos sobre muerte e inmortalidad. Madrid, Alianza Editorial, 1993
@@ -128,7 +134,15 @@ Feuerbach, L. Tesis provisionales para una reforma de la filosofía. Barcelona, 
 Feuerbach,   L.   Xenien   (Epigramas   teológico-satíricos),   en  Abelardo  y  Heloísa  y  otros  escritos  de
 juventud. Granada, Comares, 1995
 
+Fraijó, M. Filosofía de la Religión. Estudios y Textos. Trotta, Madrid, 1994
+
 Goetz, S., Harrison, V., Taliaferro, C. The Routledge companion to theism. New York: Routledge, 2013
+
+Grondin, J., Filosofía de la religión. Herder, Barcelona, 2010
+
+Hegel, G. W. F. Filosofía de la religión. Trotta, Madrid, 2018
+
+Kant, I. La religión dentro de los límites de la mera razón. Alianza Editorial, Madrid, 2009
 
 Nietzsche, F. Obras completas. Tecnos, Madrid, 2016
 
@@ -142,6 +156,8 @@ Tamayo, J. J. Hacia una espiritualidad liberadora. Barcelona: Herder, 2024
 
 Wainwright,   W.   J.   (ed.).   The  Oxford  Handbook  of  Philosophy  of  Religion.  Oxford  University  Press,
 2007
+
+Zambrano, M., El hombre y lo divino. FCE, México, 2007
 
 Zambrano. M. Obras completas. Galaxia Gutenberg
 

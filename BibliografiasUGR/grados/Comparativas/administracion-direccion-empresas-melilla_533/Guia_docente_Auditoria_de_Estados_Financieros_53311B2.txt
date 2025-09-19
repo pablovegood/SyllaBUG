@@ -2,40 +2,23 @@
 Grado: administracion-direccion-empresas-melilla (533)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (45):
 ------------------------------
 INTERNATIONAL   AUDITING   AND   ASSURANCE  STANDARDS  BOARD  (IAASB)  (Ed.2018):  Handbook  of  international
-quality control, auditing, review, other assurance, and related services pronouncements. Vol.I
-
-Ley 22/2015, de 20 de julio, de Auditoría de Cuentas
-
-Real   Decreto   2/2021,   de   12  de  enero,  por  el  que  se  aprueba  el  Reglamento  de  desarrollo  de  la  Ley
-22/2015, de 20 de julio, de Auditoría de Cuentas
-
-Resolución   de   15   de  octubre  de  2013,  del  Instituto  de  Contabilidad  y  Auditoría  de  Cuentas,  por  la
-que   se   publican   las  nuevas  Normas  Técnicas  de  Auditoría,  resultado  de  la  adaptación  de  las  Normas
-Internacionales de Auditoría para su aplicación en España (NIA-ES)
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Glosario de términos
-
+quality   control,   auditing,   review,   other   assurance,   and  related  services  pronouncements.  Vol.I
 INTERNATIONAL   AUDITING   AND   ASSURANCE  STANDARDS  BOARD  (IAASB)  (Ed.2018):  Handbook  of  international
-quality control, auditing, review, other assurance, and related services pronouncements. Vol.II
+quality   control,   auditing,   review,   other   assurance,  and  related  services  pronouncements.  Vol.II
+LÓPEZ GORDO, M.G.: Auditoría de Estados Financieros. Fleming. Granada
 
 INTERNATIONAL   AUDITING   AND  ASSURANCE  STANDARDS  BOARD  (IAASB)  (Ed.2018):  Supplement  to  the  Handbook
 of    international   quality   control,   auditing,   review,   other   assurance,   and   related   services
 pronouncements. Vol.III
 
-LÓPEZ GORDO, M.G.: Auditoría de Estados Financieros. Fleming. Granada
+Ley 22/2015, de 20 de julio, de Auditoría de Cuentas
 
 NIA-ES   200.   Objetivos   globales   del   auditor   independiente   y   realización   de   la   Auditoría  de
 conformidad con las Normas Internacionales de Auditoría
@@ -75,30 +58,24 @@ NIA-ES 450. Evaluación de las incorrecciones identificadas durante la realizaci
 
 NIA-ES 500. Evidencia de Auditoría
 
-NIA-ES 501. Evidencia de Auditoría – Consideraciones específicas para determinadas Áreas
-
-NIA-ES 505. Confirmaciones Externas
+NIA-ES   501.   Evidencia   de   Auditoría  –  Consideraciones  específicas  para  determinadas  Áreas.  NIA-ES
+505. Confirmaciones Externas
 
 NIA-ES 510 (revisada). Encargos iniciales de auditoría – saldos de apertura
 
-NIA-ES 510. Encargos iniciales de Auditoría – Saldos de Apertura
-
-NIA-ES 520. Procedimientos Analíticos
+NIA-ES   510.   Encargos   iniciales   de   Auditoría   –   Saldos   de  Apertura.  NIA-ES  520.  Procedimientos
+Analíticos
 
 NIA-ES 530. Muestreo de Auditoría
 
 NIA-ES   540.   Auditoría   de   estimaciones   contables,   incluidas   las   de   Valor   Razonable,  y  de  la
-información relacionada a revelar
-
-NIA-ES 550. Partes Vinculadas
+información relacionada a revelar. NIA-ES 550. Partes Vinculadas
 
 NIA-ES 560. Hechos posteriores al cierre
 
 NIA-ES 570 (revisada). Empresa en funcionamiento
 
-NIA-ES 570. Empresa en Funcionamiento
-
-NIA-ES 580. Manifestaciones escritas
+NIA-ES 570. Empresa en Funcionamiento. NIA-ES 580. Manifestaciones escritas
 
 NIA-ES   600.   Consideraciones   Especiales  –  Auditorías  de  Estados  Financieros  de  Grupos  (Incluido  el
 Trabajo de los Auditores de los Componentes)
@@ -140,8 +117,32 @@ NIA-ES   805.  Norma  Técnica  de  Auditoría  sobre  “Auditoría  de  un  so
 la adaptación de la Norma Internacional de Auditoría 805 para su aplicación en España, publicada por
 Resolución de 20 de marzo de 2014 del Instituto de Contabilidad y Auditoría de Cuentas
 
+Real   Decreto   2/2021,   de   12  de  enero,  por  el  que  se  aprueba  el  Reglamento  de  desarrollo  de  la  Ley
+22/2015, de 20 de julio, de Auditoría de Cuentas
+
+Resolución   de   15   de  octubre  de  2013,  del  Instituto  de  Contabilidad  y  Auditoría  de  Cuentas,  por  la
+que   se   publican   las  nuevas  Normas  Técnicas  de  Auditoría,  resultado  de  la  adaptación  de  las  Normas
+Internacionales de Auditoría para su aplicación en España (NIA-ES)
+
 Resolución   de  23  de  diciembre  de  2016,  del  Instituto  de  Contabilidad  y  Auditoría  de  Cuentas,  por  la
 que   se   publica   la   modificación   de   determinadas   Normas  Técnicas  de  Auditoría  y  del  Glosario  de
-Términos
+Términos. Glosario de términos
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (7):
+------------------------------
+Glosario de términos
+
+INTERNATIONAL   AUDITING   AND   ASSURANCE  STANDARDS  BOARD  (IAASB)  (Ed.2018):  Handbook  of  international
+quality control, auditing, review, other assurance, and related services pronouncements. Vol.II
+
+LÓPEZ GORDO, M.G.: Auditoría de Estados Financieros. Fleming. Granada
+
+NIA-ES 505. Confirmaciones Externas
+
+NIA-ES 510. Encargos iniciales de Auditoría – Saldos de Apertura
+
+NIA-ES 550. Partes Vinculadas
+
+NIA-ES 570. Empresa en Funcionamiento
+
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

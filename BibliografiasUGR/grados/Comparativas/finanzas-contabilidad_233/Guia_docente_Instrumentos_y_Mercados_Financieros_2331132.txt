@@ -2,11 +2,13 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Pirámide. Madrid. 22ª Edición
+MARTÍN   MARÍN,   José   L.;  RUIZ  MARTÍNEZ,  Ramón  J.(1999):  El  inversor  y  los  mercados  financieros.  Ed.
+Ariel   Economía,   Barcelona  MENEU,  V.M.;  JORDÁ,  M.P.;  BARREIRA,  M.T.  (1994):  Operaciones  Financieras
+en el Mercado Español. Editorial Ariel Economía
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 BONILLA,   M.;   IVARS,   A.;   MOYA,   I.   (2006):   Matemática   de  las  Operaciones  Financieras:  teoría  y
 práctica. Editorial Thomson
@@ -37,15 +39,11 @@ de seguro de cartera”. Revista Española de Financiación y Contabilidad, nº 
 SUÁREZ   SUÁREZ,   A.S.   (2014):  Decisiones  Óptimas  de  Inversión  y  Financiación.  Ed.  Pirámide.  Madrid.
 22ª Edición
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 MARTÍN   MARÍN,   José   L.;  RUIZ  MARTÍNEZ,  Ramón  J.(1999):  El  inversor  y  los  mercados  financieros.  Ed.
-Ariel   Economía,   Barcelona  MENEU,  V.M.;  JORDÁ,  M.P.;  BARREIRA,  M.T.  (1994):  Operaciones  Financieras
-en   el   Mercado   Español.   Editorial   Ariel   Economía   →  MARTÍN  MARÍN,  José  L.;  RUIZ  MARTÍNEZ,  Ramón
-J.(1999): El inversor y los mercados financieros. Ed. Ariel Economía, Barcelona
+Ariel Economía, Barcelona
 
-✅ Recursos añadidos:
-------------------------------
 MENEU,   V.M.;   JORDÁ,   M.P.;   BARREIRA,   M.T.  (1994):  Operaciones  Financieras  en  el  Mercado  Español.
 Editorial Ariel Economía
 

@@ -2,11 +2,17 @@
 Grado: bioquimica (261)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+GELVIN,   S.B.,  SCILPEROORT,  R.  (EDS).  2000.  Plant  Molecular  Biology  Manual.  2nd  ed.,  Kluwer  Academic
+Pub., Dordrecht, The Hague GARCIA DEL MORAL GARRIDO, L.F. 2021. Biotecnología Vegetal. Fundamentos y
+aplicaciones
 
-📚 Recursos sin cambios:
+RANABHATT,   H.,   KAPOR,   R.  2018.  Plant  Biotechnology  ,WPI  Publishing,  India,  526  p  TAIZ  L.,  ZEIGER,
+E.,   MOLLER,   I.M.;MURPHY,   A.   (2015):   Plant   Physiology   and   Development.  Sixth  edition.  Sinauer
+Associates., New York
+
+📚 Recursos sin cambios (17):
 ------------------------------
 ALTMAN,   A.,   HASEGAWA,   P.M.   (eds.).   2012.   Plant   Biotechnology   and   Agriculture,  Elsevier  Inc,
 Netherlands
@@ -32,9 +38,6 @@ Berlin-New York
 ECHENIKE,   V.;   RUBISTEIN,   C.;   MROGINSKI,   L.   (eds.).  2004.  Biotecnología  y  Mejoramiento  Vegetal.
 Instituto Nacional de Tecnología Agropecuaria, BUENOS Aires, Argentina
 
-GARCIA   DEL   MORAL   GARRIDO,  L.F.  2021.  Biotecnología  Vegetal.  Fundamentos  y  aplicaciones.  Editorial
-Universidad de Granada, 400 p
-
 GARCIA   DEL   MORAL   GARRIDO,   L.F.;   BOUJENNA,   A.   2021.   Prácticas   de  cultivo  in  vitro  de  tejidos
 vegetales. Godel Impresiones Digitales, Granada, ed. revisada 2024
 
@@ -51,24 +54,19 @@ KIRAKOSYAN, A, KAUFMAN, P. B. 2009. Recent Advances in Plant Biotechnology, Spri
 
 RAVI, I.; BAUNTHIYAL, M.; SAXENA, J. (eds.). 2014. Advances in Biotechnology, Springer, India,264 p
 
-WANG,   A.;   MA,   S.  (eds.).  2012.  Molecular  Farming  in  Plants:  Recent  Advances  and  Future  Prospects,
-Springer Science+Business Media B.V., 284 p
+RICROCH, A., CHOPRA, S., FLEISCHER, S.J. (eds.), 2014. Plant Biotechnology, Springer, New York
 
-🔁 Misma obra con edición/año distinto:
+WANG,   A.;   MA,   S.  (eds.).  2012.  Molecular  Farming  in  Plants:  Recent  Advances  and  Future  Prospects,
+Springer Science+Business Media B.V. , 284 p
+
+✅ Recursos añadidos (5):
 ------------------------------
-RICROCH,   A.,   CHOPRA,   S.,   FLEISCHER,   S.J.   (eds.),  2014.  Plant  Biotechnology,  Springer,  New  York
-RANABHATT,   H.,   KAPOR,   R.  2018.  Plant  Biotechnology  ,WPI  Publishing,  India,  526  p  TAIZ  L.,  ZEIGER,
-E.,   MOLLER,   I.M.;MURPHY,   A.   (2015):   Plant   Physiology   and   Development.  Sixth  edition.  Sinauer
-Associates.,    New    York    →    RICROCH,   A.,   CHOPRA,   S.,   FLEISCHER,   S.J.   (eds.),   2014.   Plant
-Biotechnology, Springer, New York
+GARCIA   DEL   MORAL   GARRIDO,  L.F.  2021.  Biotecnología  Vegetal.  Fundamentos  y  aplicaciones.  Editorial
+Universidad de Granada, 400 p
 
 GELVIN,   S.B.,  SCILPEROORT,  R.  (EDS).  2000.  Plant  Molecular  Biology  Manual.  2nd  ed.,  Kluwer  Academic
-Pub., Dordrecht, The Hague GARCIA DEL MORAL GARRIDO, L.F. 2021. Biotecnología Vegetal. Fundamentos y
-aplicaciones   →   GELVIN,  S.B.,  SCILPEROORT,  R.  (EDS).  2000.  Plant  Molecular  Biology  Manual.  2nd  ed.,
-Kluwer Academic Pub., Dordrecht, The Hague
+Pub., Dordrecht, The Hague
 
-✅ Recursos añadidos:
-------------------------------
 JAMILENA, M.; DÍEZ, M. J.; PICÓ, M. B.; MARTÍNEZ-MORENO, F. 2024. Mejora genética vegetal. Editorial
 Síntesis, Madrid
 
@@ -77,4 +75,4 @@ RANABHATT, H., KAPOR, R. 2018. Plant Biotechnology,WPI Publishing, India, 526 p
 TAIZ   L.,   ZEIGER,   E.,   MOLLER,   I.M.;MURPHY,   A.   (2015):   Plant  Physiology  and  Development.  Sixth
 edition. Sinauer Associates., New York
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

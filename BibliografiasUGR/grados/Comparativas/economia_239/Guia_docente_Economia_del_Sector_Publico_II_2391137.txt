@@ -2,11 +2,11 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 Albi,   E.   García   Ariznavarreta,   J.L.   (2007).   Sistema  fiscal  español.  Barcelona.  Editorial  Ariel
 Economía
@@ -20,11 +20,7 @@ Bustos, A. (2010). Lecciones de Hacienda Pública. Colex. Madrid
 Montero   Granados,   Roberto.   (2019).   Economía   del   Sector   Público   II:   Análisis  económico  de  la
 recaudación de impuestos. Ed. Técnica Avicam. Granada
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

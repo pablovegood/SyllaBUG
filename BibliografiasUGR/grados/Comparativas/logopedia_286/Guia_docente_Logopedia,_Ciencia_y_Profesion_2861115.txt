@@ -2,40 +2,34 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Organización   Mundial   de   la   Salud   (2001).   Clasificación   Internacional   del   Funcionamiento,  la
+Discapacidad   y   la   Salud.  IMSERSO  Peña  Casanova,  J.  (2014).  Manual  de  Logopedia.  Barcelona:  Masson
+(4ª ed.)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
-Gallego, J. L. (2006) (Comp): Enciclopedia temática de Logopedia (2 Vols.). Málaga: Aljibe
-
-Gutiérrez Zuloaga, I (1997). Introducción a la historia de la logopedia. Madrid: Narcea
-
-Hegde, N.M. y Davis, M.A. (1995). Clinical Methods and Practicum in Speech-Language Pathology. Sing.
-Publishing Group, Inc
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-DOCUMENTOS Y TEXTOS LEGALES
+DOCUMENTOS Y TEXTOS LEGALES Ley 14/1986, General de Sanidad
 
 Dwight,   D.M.   (2006).   Here’s  how  to  do  therapy.  Hands-on  core  skills  in  Speech-Language  Pathology.
 San Diego: Plural Publishing
 
+Gallego, J. L. (2006) (Comp): Enciclopedia temática de Logopedia (2 Vols.). Málaga: Aljibe
+
+Gutiérrez Zuloaga, I (1997). Introducción a la historia de la logopedia. Madrid: Narcea
+
 Hegde,   M.N.,   y   Maul   Ch.   (2006).   Language   disorders  in  children.  An  Evidence-Based  Approach  yo
 assessment and Treatment. Boston: Pearson
+
+Hegde, N.M. y Davis, M.A. (1995). Clinical Methods and Practicum in Speech-Language Pathology. Sing.
+Publishing Group, Inc
 
 Hulme,   Ch.,   y   Snowling,   M.J.  (2009).  Developmental  disorders  of  Language  Learning  and  Cognition.
 Wiley-Blackwell
 
 Irwin,   D.L.,   Panbacker,   M.,   Lass,   N.J.   (2008).   Clinical   research   methods  in  Speech-Language
 Pathology and Audiology. San Diego: Plural Publishing
-
-Ley 14/1986, General de Sanidad
 
 Ley   39/2006,  de  14  de  diciembre,  de  Promoción  de  la  Autonomía  Personal  y  Atención  a  las  personas  en
 situación dedependencia (BOE del 15 de diciembre de 2006
@@ -61,15 +55,10 @@ disorders: from theory to practice. Nueva York: Psychology Press
 Observatorio   estatal   de  la  discapacidad  (2019)  Informe  Olivenza  2019  sobre  la  situación  general  de
 la discapacidad en España
 
-Organización   Mundial   de   la   Salud   (2001).   Clasificación   Internacional   del   Funcionamiento,  la
-Discapacidad y la Salud. IMSERSO
-
 Paul,   R.   (2002).   Introducing   to   clinical  methods  in  communication  disorders.  Baltimore:  Brookes
 Publishing
 
 Perelló, J. (2008). Diccionario de Logopedia, Foniatría y Audiología. Barcelona: Lebon. (3ª ed.)
-
-Peña Casanova, J. (2014). Manual de Logopedia. Barcelona: Masson (4ª ed.)
 
 Puyuelo,   M.   y   Rondal,   J.A.  (2003).  Manual  del  desarrollo  y  alteraciones  del  lenguaje.  Barcelona:
 Masson
@@ -82,4 +71,13 @@ rehabilitadotas. Madrid: Siglo XXI
 Williams,   D.   (2009).   Developmental   language   disorders.  Learning,  language  and  the  brain.  Plural
 Publishing
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (3):
+------------------------------
+Ley 14/1986, General de Sanidad
+
+Organización   Mundial   de   la   Salud   (2001).   Clasificación   Internacional   del   Funcionamiento,  la
+Discapacidad y la Salud. IMSERSO
+
+Peña Casanova, J. (2014). Manual de Logopedia. Barcelona: Masson (4ª ed.)
+
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

@@ -2,11 +2,12 @@
 Grado: edprima-cc-act-fisica-melilla (588)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Delgado,   M.   A.,   Lopez,   P.,  Medina,  J.  Y  Viciana,  J.  (1999).  Investigaciones  en  la  práctica  de  la
+Díez, C. (2011). Los pendientes de la maestra. Barcelona: Graó
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 Bondioli, A y Nigito, G. (2011). Tiempos, espacios y grupos. Barcelona: Graó
 
@@ -24,11 +25,6 @@ Diccionario enciclopédico de Didáctica. Málaga: Aljibel, vol II, pp. 268-283
 
 Delgado,   M.  A.  (Coord.)  (1997).  Formación  y  Actualización  del  Profesorado  de  Educación  Física  y  del
 Entrenador Deportivo. Ed. Wanceulen. Sevilla
-
-Delgado,   M.   A.,   Lopez,   P.,  Medina,  J.  Y  Viciana,  J.  (1999).  Investigaciones  en  la  práctica  de  la
-enseñanza de la Educación Física. Ed. Universidad de Granada
-
-Díez, C. (2011). Los pendientes de la maestra. Barcelona: Graó
 
 González, A. P. (2001). Sistema metodológico en el proceso de enseñanza-aprendizaje. En F. Sepúlveda
 y N. Rjadell (Coords). Didáctica general para Psicopedagogos. Madrid: UNED, pp.281-315
@@ -48,12 +44,11 @@ Física en Secundaria basada en competencias. Proyecto curricular y Programació
 
 Vaillant, D. y Marcelo, C. (2015). El ABC y D de la Formación Docente. Madrid: Editorial Narcea
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-No hubo cambios de edición/año.
+Delgado,   M.   A.,   Lopez,   P.,  Medina,  J.  Y  Viciana,  J.  (1999).  Investigaciones  en  la  práctica  de  la
+enseñanza de la Educación Física. Ed. Universidad de Granada
 
-✅ Recursos añadidos:
-------------------------------
-No hay elementos.
+Díez, C. (2011). Los pendientes de la maestra. Barcelona: Graó
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

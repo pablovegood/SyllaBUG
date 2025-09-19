@@ -2,11 +2,11 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
 Cano Mohamed, T. (2009). El maestro de audición y lenguaje en los centros T.I.C. Ada Book
 
@@ -18,13 +18,11 @@ Universidad Nacional de Educación a Distancia
 
 Monfort, M. (2020). Ser logopeda. Ciencias de la Educación Preescolar y Especial
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Monroy   Pajares,   R.   (2020).   Manual   práctico   de   logopedia   II:  por  la  importancia  del  logopeda.
 Psylicom
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

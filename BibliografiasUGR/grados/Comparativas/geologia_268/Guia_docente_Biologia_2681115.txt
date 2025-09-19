@@ -2,11 +2,12 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Burlinski, D., 2006. On the Origins of Life. http://www.discovery.org/a/3209 Erwin, D.H. and Anstey,
+R.L. 1995. New Approaches to Speciation in the Fossil Record, Columbia University Press
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Allison,   P.A.   and   Bottjer,   D.J.  (eds.)  2013.  Taphonomy:  Process  and  Bias  Through  Time.  Topics  in
 Geobiology 32 (2nd ed.), Springer Netherlands
@@ -30,9 +31,6 @@ Chapman and Hall, London
 
 Briggs, D.E.G. and Crowther, P.R. 2003. Palaeobiology II. Blackwell Science Ltd, United Kingdom
 
-Erwin,   D.H.   and   Anstey,   R.L.   1995.   New  Approaches  to  Speciation  in  the  Fossil  Record,  Columbia
-University Press
-
 Fernández-López,   S.   2000.   La   naturaleza   del   registro   fósil   y  el  análisis  de  las  extinciones.
 Coloquios de Paleontología, 51: 267-280
 
@@ -53,12 +51,11 @@ Freeman, N.Y
 
 Prothero, D.R. and Dott, R.H. 2009. Evolution of the Earth (8th. Ed.). McGraw-Hill, N.Y
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Burlinski, D., 2006. On the Origins of Life. http://www.discovery.org/a/3209
 
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+Erwin,   D.H.   and   Anstey,   R.L.   1995.   New  Approaches  to  Speciation  in  the  Fossil  Record,  Columbia
+University Press
+
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

@@ -2,36 +2,27 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 Haensch,    Günther    y    Heinz    Müller   (1998):   Langenscheidts   Handwörterbuch   Spanisch.   Berlín:
 Langenscheidt
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
-Fandrych,   Christian   y  Ulrike  Tallowitz  (2013):  Klipp  und  Klar.  Übungsgrammatik  Grundstufe  Deutsch.
-Stuttgart: Klett
+Das   Leben   –   Deutsch   als   Fremdsprache   A1  (Ed.  Cornelsen)  Kurs-  und  Übungsbuch.  Inkl.  E-Book  und PagePlayer-App   ISBN:   978-3-06-122089-1
 
-Fandrych,   Christian   y  Ulrike  Tallowitz  (2014):  Klipp  und  Klar.  Gramática  práctica  de  alemán  A1-B1.
-München: Klett
+Fandrych,   Christian   y  Ulrike  Tallowitz  (2013):  Klipp  und Klar. Übungsgrammatik Grundstufe Deutsch. Stuttgart: Klett
+
+Fandrych,   Christian   y  Ulrike  Tallowitz  (2014):  Klipp  und  Klar.  Gramática  práctica  de  alemán  A1-B1. München: Klett
 
 Luscher, Renate (2002): Deutsch als Fremdsprache. Übungsgrammatik für Anfänger. Ismaning: Hueber
 
 Reimann, Monika (2016): Gramática esencial del alemán. Ismaning: Hueber
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-No hubo cambios de edición/año.
+Das Leben – Deutsch als Fremdsprache A1 (Ed. Cornelsen) Fandrych,   Christian   y  Ulrike  Tallowitz  (2013):  Klipp  und  Klar.  Übungsgrammatik  Grundstufe  Deutsch. Stuttgart: Klett ISBN: 978-3-06-122089-1
 
-✅ Recursos añadidos:
-------------------------------
-Das Leben – Deutsch als Fremdsprache A1 (Ed. Cornelsen)
+Jin,   Friederike   y   Ute   Voß   (2023):   Grammatik  aktiv  -  Deutsch  als  Fremdsprache.  2.  aktualisierte Ausgabe. A1-B1. Verstehen, Üben, Sprechen. Übungsgrammatik. Berlín: Cornelsen
 
-ISBN: 978-3-06-122089-1
-
-Jin,   Friederike   y   Ute   Voß   (2023):   Grammatik  aktiv  -  Deutsch  als  Fremdsprache.  2.  aktualisierte
-Ausgabe. A1-B1. Verstehen, Üben, Sprechen. Übungsgrammatik. Berlín: Cornelsen
-
-Kurs- und Übungsbuch. Inkl. E-Book und PagePlayer-App
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

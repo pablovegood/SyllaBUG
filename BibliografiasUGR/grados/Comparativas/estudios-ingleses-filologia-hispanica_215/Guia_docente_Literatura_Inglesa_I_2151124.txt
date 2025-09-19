@@ -2,11 +2,15 @@
 Grado: estudios-ingleses-filologia-hispanica (215)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
+Cambridge: C.U.P., 2003 J.A.W. Bennett, Middle English Literature. Oxford: Clarendon Press, 1990
+
+Fernández-Santiago, Miriam; Margarita Carretero and Pilar Villar. Literatura Inglesa I
+
 Student Guide, 2018.Librería Fleming
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (18):
 ------------------------------
 A.   Bravo.  Prose  and  Poetry  of  the  Age  of  Chaucer.  Universidad  de  Oviedo:  Servicio  de  Publicaciones,
 1998
@@ -17,6 +21,9 @@ D. Bevington, How to Read a Shakespeare Play. Oxford: Blackwell, 2006
 
 D.M. Zesmer, Guide to English Literature: From Beowulf through Chaucer and Medieval Drama. Westport,
 Conn.: Greenwood, 1982
+
+Esta   bibliografía   será   actualizada   periódicamente   según  la  disponibilidad  y  las  necesidades  del
+alumnado
 
 Greenblatt,   S.   and  M.H.  Abrams,  The  Norton  Anthology  of  English  Literature  .  (9th  edition)  Vol.  1.
 New York & London: W.W. Norton & Co., 2012
@@ -38,6 +45,8 @@ C.U.P., 1998
 
 P. Brown, A Companion to Chaucer. Oxford: Blackwell, 2000
 
+R. Edwards, Chaucer and Boccaccio: Antiquity and Modernity. Basingstoke & New York: Palgrave, 2002
+
 R.M. Liuzza (ed.). Old English Literature: Critical Essays. New Haven: Yale University Press, 2002
 
 S.G.   Putt,  The  Golden  Age  of  English  Drama:  Enjoyment  of  Elizabethan  and  Jacobean  Plays.  Cambridge:
@@ -45,23 +54,14 @@ Brewer, 1981
 
 Sanders, A. T he Short Oxford History of English Literature . 2nded. Oxford: O.U.P., 2004
 
+Shakespeare, W. Hamlet, Prince of Denmark (The New Cambridge Shakespeare). Cambridge: C.U.P., 2003
+
 W.A. Davenport, Chaucer and His English Contemporaries. Basingstoke: Macmillan Press, 1998
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Shakespeare,   W.   Hamlet,  Prince  of  Denmark  (The  New  Cambridge  Shakespeare).  Cambridge:  C.U.P.,  2003
-J.A.W.   Bennett,   Middle   English  Literature.  Oxford:  Clarendon  Press,  1990  →  J.A.W.  Bennett,  Middle
-English Literature. Oxford: Clarendon Press, 1990
-
-✅ Recursos añadidos:
-------------------------------
-Esta   bibliografía   será   actualizada   periódicamente   según  la  disponibilidad  y  las  necesidades  del
-alumnado
-
-R. Edwards, Chaucer and Boccaccio: Antiquity and Modernity. Basingstoke & New York: Palgrave, 2002
+J.A.W. Bennett, Middle English Literature. Oxford: Clarendon Press, 1990
 
 Ruiz Mas, José. Literatura Inglesa I . Granada: Fleming, 2023
 
-Shakespeare, W. Hamlet, Prince of Denmark (The New Cambridge Shakespeare). Cambridge: C.U.P., 2003
-
-📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

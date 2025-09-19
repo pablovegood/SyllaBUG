@@ -2,11 +2,22 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Moreno-Jiménez,   B.y   Garrosa  Hernández,  E.  (2013).  Salud  laboral.  Riesgos  laborales  psicosociales  y
+bienestar   laboral.   Pirámide  Buttrick,  N.  R.,  &  Oishi,  S.  (2017).  The  psychological  consequences  of
+income inequality.Social and Personality Psychology Compass,11(3), e12304 Eschleman, K. J., Bowling,
+N.   A.,   &   Alarcon,  G.  M.  (2010).  A  meta-analytic  examination  of  hardiness.International  Journal  of
+Stress Management,17(4), 277
 
-📚 Recursos sin cambios:
+UGT          (2018).Patologias          por          Riesgos          Psicosociales.Disponible         en
+http://www.observatorioriesgospsicosociales.com/publicaciones/guias-y-manuales UGT (2018).Protocolos
+de        Actuación        frente        al        Acoso       en       el       Trabajo.Disponible       en
+http://www.observatorioriesgospsicosociales.com/publicaciones/guias-y-manuales    Webster,    J.    R.,
+Beehr, T. A., & Love, K. (2011). Extending the challenge–hindrance model of occupational stress: The
+role of appraisal.Journal of Vocational Behavior, 79, 505–516
+
+📚 Recursos sin cambios (12):
 ------------------------------
 Declòs,   G.,   Ronda   Perézcase,  E,  García  García,  A.  M.  y  García  Benavides,  F.  (2022).  Salud  Laboral
 (5ta edición). Elsevier
@@ -25,26 +36,6 @@ process:   Advancing   conservation   of   resources  theory.Applied  Psychology
 Kalliath,   T.,   &   Brough   P.   (2008).   Work-life   balance:   A   review  of  the  meaning  of  the  balance
 construct.Journal of Management and Organization, 14,323-327
 
-Paul,   K.   I.,   &   Moser,   K.   (2009).   Unemployment  impairs  mental  health:  Meta-analyses.Journal  of
-Vocational Behavior,74(3), 264-282
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Moreno-Jiménez,   B.y   Garrosa  Hernández,  E.  (2013).  Salud  laboral.  Riesgos  laborales  psicosociales  y
-bienestar   laboral.   Pirámide  Buttrick,  N.  R.,  &  Oishi,  S.  (2017).  The  psychological  consequences  of
-income inequality.Social and Personality Psychology Compass,11(3), e12304 Eschleman, K. J., Bowling,
-N.   A.,   &   Alarcon,  G.  M.  (2010).  A  meta-analytic  examination  of  hardiness.International  Journal  of
-Stress   Management,17(4),   277  →  Buttrick,  N.  R.,  &  Oishi,  S.  (2017).  The  psychological  consequences
-of income inequality.Social and Personality Psychology Compass,11(3), e12304
-
-✅ Recursos añadidos:
-------------------------------
-Eschleman,   K.   J.,   Bowling,   N.   A.,   &   Alarcon,   G.   M.   (2010).   A  meta-analytic  examination  of
-hardiness.International Journal of Stress Management,17(4), 277
-
-Moreno-Jiménez,   B.y   Garrosa  Hernández,  E.  (2013).  Salud  laboral.  Riesgos  laborales  psicosociales  y
-bienestar laboral. Pirámide
-
 Nogareda, C. y Almodóvar, A. (2000).El proceso de evaluación de los factores psicosociales.Editorial
 Instituto Nacional de Seguridad e Higiene en el Trabajo. Disponible en www.insht.es
 
@@ -56,17 +47,32 @@ Panagioti,   M.,   Panagopoulou,   E.,  Bower,  P.,  Lewith,  G.,  Kontopantelis
 Esmail, A. (2017). Controlled interventions to reduce burnout in physicians: a systematic review and
 meta-analysis.JAMA internal medicine,177(2), 195-205
 
+Paul,   K.   I.,   &   Moser,   K.   (2009).   Unemployment  impairs  mental  health:  Meta-analyses.Journal  of
+Vocational Behavior,74(3), 264-282
+
 Peiró, J. M. (2000).Desencadenantes del estrés laboral. Madrid: Pirámide
+
+Salanova, M. (2008).Psicología de la Salud Ocupacional.Madrid: Síntesis Sapolsky, R. (2008).¿Por qué
+las cebras no tienen úlceras?Madrid: Alianza Editorial
+
+Sonnentag,   S.,   &   Fritz,   C.  (2014).  Recovery  from  job  stress:  The  stressor‐detachment  model  as  an
+integrative framework.Journal of Organizational Behavior, 36, 72-103
+
+✅ Recursos añadidos (9):
+------------------------------
+Buttrick,   N.  R.,  &  Oishi,  S.  (2017).  The  psychological  consequences  of  income  inequality.Social  and
+Personality Psychology Compass,11(3), e12304
+
+Eschleman,   K.   J.,   Bowling,   N.   A.,   &   Alarcon,   G.   M.   (2010).   A  meta-analytic  examination  of
+hardiness.International Journal of Stress Management,17(4), 277
+
+Moreno-Jiménez,   B.y   Garrosa  Hernández,  E.  (2013).  Salud  laboral.  Riesgos  laborales  psicosociales  y
+bienestar laboral. Pirámide
 
 Peiró,   J.   M.   (2024).   The  Oxford  encyclopedia  of  industrial,  work,  and  organizational  psychology.
 Oxford University Press
 
 Salanova, M. (2008).Psicología de la Salud Ocupacional.Madrid: Síntesis
-
-Sapolsky, R. (2008).¿Por qué las cebras no tienen úlceras?Madrid: Alianza Editorial
-
-Sonnentag,   S.,   &   Fritz,   C.  (2014).  Recovery  from  job  stress:  The  stressor‐detachment  model  as  an
-integrative framework.Journal of Organizational Behavior, 36, 72-103
 
 UGT          (2018).Patologias          por          Riesgos          Psicosociales.Disponible         en
 http://www.observatorioriesgospsicosociales.com/publicaciones/guias-y-manuales
@@ -80,4 +86,4 @@ Sage Publications Ltd
 Webster,   J.   R.,   Beehr,   T.   A.,   &   Love,   K.   (2011).  Extending  the  challenge–hindrance  model  of
 occupational stress: The role of appraisal.Journal of Vocational Behavior, 79, 505–516
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 52% [█████░░░░░]

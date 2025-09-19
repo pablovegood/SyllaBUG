@@ -2,11 +2,18 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+GELVIN,   S.B.,  SCILPEROORT,  R.  (EDS).  2000.  Plant  Molecular  Biology  Manual.  2nd  ed.,  Kluwer  Academic
+Pub.,   Dordrecht,  The  Hague  KARL-HERMANN,  N,  ASHWANI,  K.,  JAFARGHOLI,  I.  2009.  Plant  Cell  and  Tissue
+Culture - A Tool in Biotechnology: Basics and Application, Springer, Berlin
 
-📚 Recursos sin cambios:
+RICROCH,   A.,   CHOPRA,   S.,   FLEISCHER,   S.J.   (eds.),  2014.  Plant  Biotechnology,  Springer,  New  York
+RANABHATT,   H.,   KAPOR,  R.  2018.  Plant  Biotechnology  ,WPI  Publishing,  India,  526  p  VENKATARAMAN,  S.,
+HEFFERON, K. 2023. Agricultural Biotechnology. Genetic Engineering for a food cause. Academic Press,
+Elsevier, London
+
+📚 Recursos sin cambios (17):
 ------------------------------
 ALTMAN,   A.,   HASEGAWA,   P.M.   (eds.).   2012.   Plant   Biotechnology   and   Agriculture,  Elsevier  Inc,
 Netherlands
@@ -51,30 +58,21 @@ MARTOS, V., GARCIA DEL MORAL, L.F. 2004. Prácticas de Biotecnología Vegetal, U
 RAVI, I.; BAUNTHIYAL, M.; SAXENA, J. (eds.). 2014. Advances in Biotechnology, Springer, India,264 p
 
 WANG,   A.;   MA,   S.  (eds.).  2012.  Molecular  Farming  in  Plants:  Recent  Advances  and  Future  Prospects,
-Springer Science+Business Media B.V., 284 p
+Springer Science+Business Media B.V. , 284 p
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-GELVIN,   S.B.,  SCILPEROORT,  R.  (EDS).  2000.  Plant  Molecular  Biology  Manual.  2nd  ed.,  Kluwer  Academic
-Pub.,   Dordrecht,  The  Hague  KARL-HERMANN,  N,  ASHWANI,  K.,  JAFARGHOLI,  I.  2009.  Plant  Cell  and  Tissue
-Culture   -   A   Tool   in   Biotechnology:   Basics  and  Application,  Springer,  Berlin  →  KARL-HERMANN,  N,
-ASHWANI,   K.,   JAFARGHOLI,   I.  2009.  Plant  Cell  and  Tissue  Culture  -  A  Tool  in  Biotechnology:  Basics
-and Application, Springer, Berlin
-
-RICROCH,   A.,   CHOPRA,   S.,   FLEISCHER,   S.J.   (eds.),  2014.  Plant  Biotechnology,  Springer,  New  York
-RANABHATT,   H.,   KAPOR,  R.  2018.  Plant  Biotechnology  ,WPI  Publishing,  India,  526  p  VENKATARAMAN,  S.,
-HEFFERON, K. 2023. Agricultural Biotechnology. Genetic Engineering for a food cause. Academic Press,
-Elsevier,   London   →   RICROCH,   A.,   CHOPRA,   S.,  FLEISCHER,  S.J.  (eds.),  2014.  Plant  Biotechnology,
-Springer, New York
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 GELVIN,   S.B.,  SCILPEROORT,  R.  (EDS).  2000.  Plant  Molecular  Biology  Manual.  2nd  ed.,  Kluwer  Academic
 Pub., Dordrecht, The Hague
 
+KARL-HERMANN,   N,   ASHWANI,   K.,   JAFARGHOLI,   I.   2009.   Plant   Cell  and  Tissue  Culture  -  A  Tool  in
+Biotechnology: Basics and Application, Springer, Berlin
+
 RANABHATT, H., KAPOR, R. 2018. Plant Biotechnology,WPI Publishing, India, 526 p
+
+RICROCH, A., CHOPRA, S., FLEISCHER, S.J. (eds.), 2014. Plant Biotechnology, Springer, New York
 
 VENKATARAMAN,   S.,   HEFFERON,   K.   2023.   Agricultural  Biotechnology.  Genetic  Engineering  for  a  food
 cause. Academic Press, Elsevier, London
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

@@ -2,11 +2,14 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ferdig,   E.   Design,  Utilization,  and  Analysis  of  Simulations  and  Game-Based  Educational  Worlds.  IGI
+Global.   2013   Georgios   Styliaras,  Dimitrios  Koukopoulos  and  FotisLazarinis  Handbook  of  Research  on
+Technologies   and   Cultural   Heritage:  Applications  and  Environments,  Information  Science  Reference;
+201 Drennan, R.D. Statistics for Archaeologists. A Commonsense Approach. Springer US, 2009
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Barceló, J.A. Arqueología y Estadística 1, Editorial Univ. Autónoma Barcelona, 2007
 
@@ -22,16 +25,10 @@ Springer; 2012
 Víctor   M.   Fernández   Martínez,   Arqueo-Estadística:   Métodos  Cuantitativos  en  Arqueología,  Alianza
 Editorial, 2015
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-Ferdig,   E.   Design,  Utilization,  and  Analysis  of  Simulations  and  Game-Based  Educational  Worlds.  IGI
-Global.   2013   Georgios   Styliaras,  Dimitrios  Koukopoulos  and  FotisLazarinis  Handbook  of  Research  on
-Technologies   and   Cultural   Heritage:  Applications  and  Environments,  Information  Science  Reference;
-201   Drennan,   R.D.   Statistics   for   Archaeologists.   A   Commonsense   Approach.  Springer  US,  2009  →
 Drennan, R.D. Statistics for Archaeologists. A Commonsense Approach. Springer US, 2009
 
-✅ Recursos añadidos:
-------------------------------
 Ferdig,   E.   Design,  Utilization,  and  Analysis  of  Simulations  and  Game-Based  Educational  Worlds.  IGI
 Global. 2013
 
@@ -53,4 +50,4 @@ Inkscape and upgrade your skills. Packt Publishing
 Whitt,   P.   (2023).   Beginning   Photo   Retouching   and  Restoration  Using  GIMP  :  Learn  to  Retouch  and
 Restore Your Photos like a Pro (2nd ed. 2023.). Apress. https://doi.org/10.1007/978-1-4842-9265-5
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 64% [██████░░░░]

@@ -2,11 +2,17 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Bowlby,   J.   (  1989).  Vínculos  afectivos:  formación,  desarrollo  y  pérdida,  Madrid:  Morata  Bruner,  J.
+(1986).   El   habla   del   niño.   Barcelona:  Paidós  Bruner,  J.  (1984).  Acción,  pensamiento  y  lenguaje.
+Madrid: Alianza
 
-📚 Recursos sin cambios:
+Jiménez,   J.   (2010).   Adquisición   y   desarrollo   del  lenguaje.  En  A.  Muñoz  (Coord.)  Psicología  del
+desarrollo en la etapa de educación infantil(pp. 101-120). Madrid: Pirámide Johansson, S. (2020). En
+busca del origen del lenguaje. Barcelona: Planeta
+
+📚 Recursos sin cambios (19):
 ------------------------------
 Aguado, G. (1995). El desarrollo del lenguaje de 0 a 3 años. Madrid: CEPE
 
@@ -49,24 +55,17 @@ Vygotsky, L.V. (1964). Pensamiento y Lenguaje. Buenos Aires: La Pléyade
 
 Vygotsky, L.V. (1979). El desarrollo de los procesos psicológicos superiores. B: Grijalbo
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Jiménez,   J.   (2010).   Adquisición   y   desarrollo   del  lenguaje.  En  A.  Muñoz  (Coord.)  Psicología  del
-desarrollo en la etapa de educación infantil(pp. 101-120). Madrid: Pirámide Johansson, S. (2020). En
-busca   del   origen   del   lenguaje.  Barcelona:  Planeta  →  Jiménez,  J.  (2010).  Adquisición  y  desarrollo
-del   lenguaje.   En  A.  Muñoz  (Coord.)  Psicología  del  desarrollo  en  la  etapa  de  educación  infantil(pp.
-101-120). Madrid: Pirámide
-
-Bowlby,   J.   (  1989).  Vínculos  afectivos:  formación,  desarrollo  y  pérdida,  Madrid:  Morata  Bruner,  J.
-(1986).   El   habla   del   niño.   Barcelona:  Paidós  Bruner,  J.  (1984).  Acción,  pensamiento  y  lenguaje.
-Madrid: Alianza  →  Bruner, J. (1984). Acción, pensamiento y lenguaje. Madrid: Alianza
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Bowlby, J. ( 1989). Vínculos afectivos: formación, desarrollo y pérdida, Madrid: Morata
 
+Bruner, J. (1984). Acción, pensamiento y lenguaje. Madrid: Alianza
+
 Bruner, J. (1986). El habla del niño. Barcelona: Paidós
+
+Jiménez,   J.   (2010).   Adquisición   y   desarrollo   del  lenguaje.  En  A.  Muñoz  (Coord.)  Psicología  del
+desarrollo en la etapa de educación infantil(pp. 101-120). Madrid: Pirámide
 
 Johansson, S. (2020). En busca del origen del lenguaje. Barcelona: Planeta
 
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 29% [██░░░░░░░░]

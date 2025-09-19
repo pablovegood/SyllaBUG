@@ -2,11 +2,14 @@
 Grado: arqueologia (266)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+RUIZ-GÁLVEZ PRIEGO, M. (2013): Con el fenicio tras los talones: Los inicios de la Edad del Hierro en
+la   cuenca   Mediterránea,   Bellaterra-Arqueología   Ediciones,   Barcelona   AA.   VV.  (2006):  Celtes  et
+Gaulois:   l’archéologie   face   à   l’histoire.  Les  civilisés  et  les  barbares.  Actes  de  la  table  ronde
+internationale de Budapest (2005), Glux-en-Glenne.XXXX
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (29):
 ------------------------------
 A.A.V.V. (1991): I Celti, Ed. Bompiani, Milán
 
@@ -61,6 +64,9 @@ GREEN, M. (2004): Guía completa del mundo celta, Grupo Anaya, Oberon (Thames an
 HODOS,   T.   (2006):  Local  responses  to  colonization  in  the  Iron  Age  mediterranean,  Routledge,  London
 and New York
 
+KEAY,   S.   J.   The   Archaeology   of   Iberia:   The   Dynamics   of  Change,  Archaeology  Group  (England).
+Conference,1997
+
 KNAPP,   K.   &   VAN   DOMMELEM,   P.   (eds.)   (2014):   Cambridge   Handbook   for   Bronze   and   Iron   Age
 Mediterranean, Archaeology, Cambridge University Press
 
@@ -84,21 +90,12 @@ Europa occidental, Ed. Crítica, Barcelona
 VAN   DOMMELEM,   P.  and  KNAPP,  A.B.  (eds.)  (2010):  Material  Connections  in  the  Ancient  Mediterranean:
 Mobility, Materiality and Mediterranean Identities, Routledge, London
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-RUIZ-GÁLVEZ PRIEGO, M. (2013): Con el fenicio tras los talones: Los inicios de la Edad del Hierro en
-la   cuenca   Mediterránea,   Bellaterra-Arqueología   Ediciones,   Barcelona   AA.   VV.  (2006):  Celtes  et
-Gaulois:   l’archéologie   face   à   l’histoire.  Les  civilisés  et  les  barbares.  Actes  de  la  table  ronde
-internationale   de   Budapest   (2005),   Glux-en-Glenne.XXXX   →   RUIZ-GÁLVEZ  PRIEGO,  M.  (2013):  Con  el
-fenicio   tras   los  talones:  Los  inicios  de  la  Edad  del  Hierro  en  la  cuenca  Mediterránea,  Bellaterra-
-Arqueología Ediciones, Barcelona
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 AA.   VV.   (2006):  Celtes  et  Gaulois:  l’archéologie  face  à  l’histoire.  Les  civilisés  et  les  barbares.
 Actes de la table ronde internationale de Budapest (2005), Glux-en-Glenne.XXXX
 
-KEAY,   S.   J.   The   Archaeology   of   Iberia:   The   Dynamics   of  Change,  Archaeology  Group  (England).
-Conference,1997
+RUIZ-GÁLVEZ PRIEGO, M. (2013): Con el fenicio tras los talones: Los inicios de la Edad del Hierro en
+la cuenca Mediterránea, Bellaterra-Arqueología Ediciones, Barcelona
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

@@ -2,11 +2,13 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+BRUSTAD,   K.   et   alii.   Al-Kitab  fi  Ta'allum  al-'Arabiyya  (vol.  I).  3  vols.  3a  ed.  Washington  D.C.:
+Georgetown   University  Press,  2014.  (MANUAL  DE  CLASE)  CORTÉS,  J.  Diccionario  de  árabe  culto  moderno.
+Madrid: Gredos, 1996
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (10):
 ------------------------------
 ABBOUD,   P.  y  McCARUS,  E.  Elementary  Modern  Standard  Arabic.  Part  II:  Arabic  Grammar  and  Vocabulary.
 Cambridge: Cambridge University Press, 1983
@@ -17,6 +19,8 @@ AGUILAR, V. et alii. Alatul: iniciacion a la lengua arabe. Madrid: Herder, 2010
 
 ATTAR,   S.   Modern   Arabic:   An  Introductory  Course  for  Foreign  Students.  Beirut:  Librarie  du  Liban,
 1996
+
+BADAWI, E. et alii. Modern Written Arabic: A Comprehensive Grammar. Londres: Routledge, 2004
 
 CORRIENTE, F. Diccionario árabe-español. Barcelona: Herder, 2006
 
@@ -30,17 +34,11 @@ SHULZ, E. A Student Grammar of Modern Standard Arabic. Cambridge: Cambridge Univ
 
 YOUNES, M. et alii. 'Arabiyyat al-naas (Part One). Londres-Nueva York: Routledge, 2014
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 BRUSTAD,   K.   et   alii.   Al-Kitab  fi  Ta'allum  al-'Arabiyya  (vol.  I).  3  vols.  3a  ed.  Washington  D.C.:
-Georgetown   University  Press,  2014.  (MANUAL  DE  CLASE)  CORTÉS,  J.  Diccionario  de  árabe  culto  moderno.
-Madrid:   Gredos,   1996  →  BRUSTAD,  K.  et  alii.  Al-Kitab  fi  Ta'allum  al-'Arabiyya  (vol.  I).  3  vols.  3a
-ed. Washington D.C.: Georgetown University Press, 2014. (MANUAL DE CLASE)
-
-✅ Recursos añadidos:
-------------------------------
-BADAWI, E. et alii. Modern Written Arabic: A Comprehensive Grammar. Londres: Routledge, 2004
+Georgetown University Press, 2014. (MANUAL DE CLASE)
 
 CORTÉS, J. Diccionario de árabe culto moderno. Madrid: Gredos, 1996
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

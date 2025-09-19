@@ -2,11 +2,16 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Introductory   Biostatistics.   Le,  C.T.  Hoboken:  John  Wiley  &  Sons.(2016)  R  for  Data  Science:  Import,
+Tidy,   Transform,   Visualize,   and   Model  Data.  Hadley  Wickham  and  Garrett  Grolemund.  2017.  O'Reilly
+Media, Inc
 
-📚 Recursos sin cambios:
+The   Epidemiologist   R   Handbook.   Batra,   Neale,   et   al.  (2021),  ggplot:  Elegant  Graphics  for  Data
+Analysis. Hadley Wickham. . Springer, 2009. ISBN 978-0-98140-6
+
+📚 Recursos sin cambios (10):
 ------------------------------
 40   ±  10  horas  de  Bioestadística  .  Martín  Andrés,  A.  y  Luna  del  Castillo,  J.D.  Ed.  Norma-Capitel  (1ª
 Edición, 2013)
@@ -26,29 +31,22 @@ Estadística para Biología y Ciencias de la Salud. Milton, J.S. McGraw-Hill (20
 
 Fundamentals of Biostatistics . Rosner, B. Boston: Brooks/Cole, 2011, 7th ed. (2011)
 
+Introducción a la Estadística: Aplicación a la Odontología. Requena, F. Editorial Técnica AVICAM (2ª
+Edición., 2013)
+
 Principles of Biostatistics. Pagano, M. and Gauvreau, K. Belmont, CA: Wadsworth (2000)
 
 The R Book, 2nd Edition.Crawley, M.J., 2012. ISBN: 978-1-118-44896-0
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Introductory   Biostatistics.   Le,  C.T.  Hoboken:  John  Wiley  &  Sons.(2016)  R  for  Data  Science:  Import,
-Tidy,   Transform,   Visualize,   and   Model  Data.  Hadley  Wickham  and  Garrett  Grolemund.  2017.  O'Reilly
-Media,   Inc.   Introducción   a   la   Estadística:   Aplicación   a  la  Odontología.  Requena,  F.  Editorial
-Técnica   AVICAM   (2ª   Edición.,   2013)  →  R  for  Data  Science:  Import,  Tidy,  Transform,  Visualize,  and
-Model Data. Hadley Wickham and Garrett Grolemund. 2017 . O'Reilly Media, Inc
-
-The   Epidemiologist   R   Handbook.   Batra,   Neale,   et   al.  (2021),  ggplot:  Elegant  Graphics  for  Data
-Analysis.   Hadley   Wickham.   .   Springer,  2009.  ISBN  978-0-98140-6  →  The  Epidemiologist  R  Handbook  .
-Batra, Neale, et al. (2021)
-
-✅ Recursos añadidos:
-------------------------------
-Introducción a la Estadística: Aplicación a la Odontología. Requena, F. Editorial Técnica AVICAM (2ª
-Edición, 2013)
-
 Introductory Biostatistics. Le, C.T. Hoboken: John Wiley & Sons.(2016)
+
+R   for   Data  Science:  Import,  Tidy,  Transform,  Visualize,  and  Model  Data.  Hadley  Wickham  and  Garrett
+Grolemund. 2017 . O'Reilly Media, Inc
+
+The Epidemiologist R Handbook . Batra, Neale, et al. (2021)
 
 ggplot: Elegant Graphics for Data Analysis . Hadley Wickham. . Springer, 2009. ISBN 978-0-98140-6
 
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 42% [████░░░░░░]

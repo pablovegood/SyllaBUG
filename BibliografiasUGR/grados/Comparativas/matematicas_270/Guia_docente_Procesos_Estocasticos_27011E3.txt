@@ -2,11 +2,18 @@
 Grado: matematicas (270)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Cox,   D.  R.  y  Miller,  H.  D.  (1990).  The  Theory  of  Stochastic  Processes.  Chapman  and  Hall  Durrett,  R.
+(2016).   Essentials   of  Stochastic  Processes.  Springer  Texts  in  Statistics  Gan,  G.,  Ma,  C.  y  Xie,  H.
+(2014).   Measure,   Probability,   and   Mathematical   Finance.   Wiley  Grimmett,  G.R.  y  Stirzaker,  D.R.
+(2005). Probability and Random Processes. Oxford University Press
 
-📚 Recursos sin cambios:
+Privault,   N.   (2018)   Understanding  Markov  Chains.  Examples  and  Applications  Springer  Undergraduate
+Mathematics   Series   Serfozo,   R.   (2009).   Basics  of  Applied  Stochastic  Processes.  Springer-Verlag,
+Berlin Stirzaker, D.R. (2005). Stochastic processes and models. Oxford University Press
+
+📚 Recursos sin cambios (5):
 ------------------------------
 Baldi,   P.,   Mazliak,L.   y  Priouret,  P  .  (2002).  Martingales  and  Markov  chains:  solved  exercises  and
 elements of theory. Boca Raton: Chapman & Hall/CRC
@@ -21,21 +28,10 @@ Ibe, O.C. (2013). Markov Processes for Stochastic Modeling (Second Edition). Els
 Todorovic,   P.   (1992).   An   Introduction   to  Stochastic  Processes  and  their  applications.  Springer-
 Verlag. New York
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (10):
 ------------------------------
-Privault,   N.   (2018)   Understanding  Markov  Chains.  Examples  and  Applications  Springer  Undergraduate
-Mathematics   Series   Serfozo,   R.   (2009).   Basics  of  Applied  Stochastic  Processes.  Springer-Verlag,
-Berlin   Stirzaker,   D.R.   (2005).   Stochastic   processes   and   models.   Oxford   University   Press   →
-Stirzaker, D.R. (2005). Stochastic processes and models. Oxford University Press
+Cox, D. R. y Miller, H. D. (1990). The Theory of Stochastic Processes. Chapman and Hall
 
-Cox,   D.  R.  y  Miller,  H.  D.  (1990).  The  Theory  of  Stochastic  Processes.  Chapman  and  Hall  Durrett,  R.
-(2016).   Essentials   of  Stochastic  Processes.  Springer  Texts  in  Statistics  Gan,  G.,  Ma,  C.  y  Xie,  H.
-(2014).   Measure,   Probability,   and   Mathematical   Finance.   Wiley  Grimmett,  G.R.  y  Stirzaker,  D.R.
-(2005).   Probability   and   Random   Processes.   Oxford   University  Press  →  Cox,  D.  R.  y  Miller,  H.  D.
-(1990). The Theory of Stochastic Processes. Chapman and Hall
-
-✅ Recursos añadidos:
-------------------------------
 Durrett, R. (2016). Essentials of Stochastic Processes. Springer Texts in Statistics
 
 Gan, G., Ma, C. y Xie, H. (2014). Measure, Probability, and Mathematical Finance. Wiley
@@ -51,7 +47,9 @@ Mathematics Series
 
 Serfozo, R. (2009). Basics of Applied Stochastic Processes. Springer-Verlag, Berlin
 
+Stirzaker, D.R. (2005). Stochastic processes and models. Oxford University Press
+
 Williams,   C.  K.,  &  Rasmussen,  C.  E.  (2006).  Gaussian  processes  for  machine  learning  (Vol.  2,  No.  3,
 p. 4). Cambridge, MA: MIT press
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 80% [████████░░]

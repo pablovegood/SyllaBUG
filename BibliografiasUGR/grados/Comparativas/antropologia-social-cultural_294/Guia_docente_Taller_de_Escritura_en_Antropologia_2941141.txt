@@ -2,11 +2,18 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Geertz,   Clifford.   1989.   El   antropólogo   como   autor.   Barcelona.  Paidós  Marcus,  George  E.  y  Dick
+Cushman.   1998.   Las   etnografías   como   textos.   En   El   Surgimiento  de  la  antropología  posmoderna.
+Barcelona: Gedisa
 
-📚 Recursos sin cambios:
+Pink,   S.   2015.   Doing  sensory  ethnography.  London.  Sage  Pitt-Rivers,  Julian.  1990.  Un  pueblo  de  la
+sierra: Grazalema. Madrid: Alianza
+
+pp. 426–42 Taussig, M. (2011). I Swear I Saw This: Drawing in Fieldwork Notebooks, Namely My Own
+
+📚 Recursos sin cambios (48):
 ------------------------------
 Anderson,   Leon.   2006.   "Analytic  autoethnography".  Journal  of  Contemporary  Ethnography.  Vol  35  (4)
 373-395
@@ -115,10 +122,16 @@ Roth-Seneff,   Andrew.   2007.   Occidentalism   and  the  Realism  of  Empire. 
 Sanmartín   Arce,  R.  (2003).  “La  escritura  antropológica”.  En  Observar,  escuchar,  comparar,  escribir,
 pp. 131-149. Ariel
 
+Skeggs,   Beverly.  2001.  ´Feminist  Ethnography´.  En  Paul  Atkinson,  Amanda  Coffey,  Sara  Delamont,  John
+Lofland, y Lyn Lofland (Eds) Handbook of Ethnography. Londres: SAGE. pp. 426–42
+
 Smartt Gullion, J. (2016). Writing Ethnography. Sense Publishers
 
 Sánchez   Carretero,   Cristina.  2003.  "  Voces  y  escritura:  La  reflexividad  en  el  texto  etnográfico  ".
 Consejo Superior de Investigaciones Científicas
+
+Taussig,   M.   (2011).   I   Swear   I  Saw  This:  Drawing  in  Fieldwork  Notebooks,  Namely  My  Own.  Chicago:
+University of Chicago Press
 
 Taylor   Steven   J.   y   Robert   Bogdan.   1987.  "El  trabajo  con  los  datos.  Análisis  de  los  datos  en  la
 investigación cualitativa"(Cap. 6) y "La presentación de los hallazgos´" (Cap. 7) "El que es juzgado
@@ -143,27 +156,12 @@ Wolcott,   Harry   W.   2007.   "Etnografía  sin  remordimientos".  Revista  de
 Wright Mills, C. 1961. ´ Sobre artesanía intelectual ´. La imaginación sociológica. México: Fondo de
 Cultura Económica
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Skeggs,   Beverly.  2001.  ´Feminist  Ethnography´.  En  Paul  Atkinson,  Amanda  Coffey,  Sara  Delamont,  John
-Lofland,   y  Lyn  Lofland  (Eds)  Handbook  of  Ethnography.  Londres:  SAGE.  pp.  426–42  Taussig,  M.  (2011).
-I   Swear   I   Saw  This:  Drawing  in  Fieldwork  Notebooks,  Namely  My  Own.  Chicago:  University  of  Chicago
-Press   →   Skeggs,   Beverly.   2001.   ´Feminist   Ethnography´.   En   Paul  Atkinson,  Amanda  Coffey,  Sara
-Delamont, John Lofland, y Lyn Lofland (Eds) Handbook of Ethnography. Londres: SAGE. pp. 426–42
+Geertz, Clifford. 1989. El antropólogo como autor. Barcelona. Paidós
 
-Pink,   S.   2015.   Doing  sensory  ethnography.  London.  Sage  Pitt-Rivers,  Julian.  1990.  Un  pueblo  de  la
-sierra:   Grazalema.   Madrid:  Alianza  →  Pitt-Rivers,  Julian.  1990.  Un  pueblo  de  la  sierra:  Grazalema.
-Madrid: Alianza
-
-Geertz,   Clifford.   1989.   El   antropólogo   como   autor.   Barcelona.  Paidós  Marcus,  George  E.  y  Dick
-Cushman.   1998.   Las   etnografías   como   textos.   En   El   Surgimiento  de  la  antropología  posmoderna.
-Barcelona: Gedisa  →  Geertz, Clifford. 1989. El antropólogo como autor. Barcelona. Paidós
-
-✅ Recursos añadidos:
-------------------------------
 Pink, S. 2015. Doing sensory ethnography. London. Sage
 
-Taussig,   M.   (2011).   I   Swear   I  Saw  This:  Drawing  in  Fieldwork  Notebooks,  Namely  My  Own.  Chicago:
-University of Chicago Press
+Pitt-Rivers, Julian. 1990. Un pueblo de la sierra: Grazalema. Madrid: Alianza
 
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

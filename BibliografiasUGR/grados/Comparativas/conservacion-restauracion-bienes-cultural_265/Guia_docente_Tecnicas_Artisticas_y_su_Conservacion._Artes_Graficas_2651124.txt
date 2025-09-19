@@ -2,12 +2,14 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
+BLOQUE TEMÁTICO 1
+
 CABO   de   la   SIERRA,  Gonzalo.  Grabados,  litografías  y  serigrafías.  Técnicas/procedimientos.  Madrid:
 EstiArte Ediciones S.A., 1981
 
@@ -33,21 +35,25 @@ original. Madrid: Editorial Libsa, 1990
 LAVÉDRINE,   Bertrand.   (Re)Conocer  y  conservar  las  fotografías  antiguas.  Francia:  Éditions  du  Comité
 des travaux historiques el scientifiques, 2010
 
-LEYMARIE, J.; MONNIER, G.; ROSE, B. El Dibujo. Barcelona: Skira, Carroggio Ediciones. 1979
+LEYMARIE,   J.;   MONNIER,  G.;  ROSE,  B.  El  Dibujo.  Barcelona:  Skira,  Carroggio  Ediciones.  1979.  BLOQUE
+TEMÁTICO 3
 
 MALTESE,   C.,   et   al,   I   supporti   nelle   arti  pittoriche,  Storia,  tecnica  e  restauro.  Milano:  Ed.
-Mursia, 1990
+Mursia, 1990. BLOQUE TEMÁTICO 2
 
 PARRAMÓN, J. M. El Gran Libro del Dibujo. Barcelona: Parramón Ediciones, 2003
 
 PAVÃO,   L.   Conservación   de   colecciones   de   fotografía-  Cuadernos  técnicos,  Instituto  Andaluz  del
 Patrimonio Histórico y Centro Andaluz de la Fotografía. Granada: Ed. Consejería de Cultura, Junta de
-Andalucía y Editorial Comares, 2001
+Andalucía y Editorial Comares, 2001. BLOQUE TEMÁTICO 1
 
 PIQUER, Alfredo. Litografía. Historia y técnica. Ed. Asociación Cultural y Científica Iberoamericana
 (ACCI), 2019
 
-PÄT, O. L´enluminure médiévale, Ed. Macula. Paris, 1997
+PÄT, O. L´enluminure médiévale, Ed. Macula. Paris, 1997. BLOQUE TEMÁTICO 2
+
+REILLY,   James   M.   Care  and  Identification  of  19th-  Century  Photographic  Prints.  Nueva  York:  Kodak,
+2009
 
 RODRÍGUEZ   LASO,   Mª   Dolores.   Conservación  y  restauración  de  la  obra  gráfica,  libros  y  documentos.
 Bilbao: Universidad del País Vasco, 2005
@@ -56,27 +62,21 @@ RODRÍGUEZ   LASO,   Mª   Dolores.   El   soporte   de   papel   y   sus   téc
 preventiva. Bilbao: Universidad del País Vasco, 1999
 
 RUBIO   MARTINEZ   M.   Ayer   y   hoy   del   Grabado   y  Sistemas  de  Estampación.  Conceptos  fundamentales,
-historia y técnica. Tarragona: Ediciones Tarraco, 1979
+historia y técnica. Tarragona: Ediciones Tarraco, 1979. BLOQUE TEMÁTICO 4
 
 SOUGEZ, M-L. Historia de la Fotografía. Cuadernos Artes Cátedra. Madrid: Cátedra, 1994
 
-VIVES, R. Guía para la identificación de grabados. Barcelona: Ed. Arco Libros, 2003
+VIVES, R. Guía para la identificación de grabados. Barcelona: Ed. Arco Libros, 2003. BLOQUE TEMÁTICO
+4
 
-🔁 Misma obra con edición/año distinto:
+preventiva. Bilbao: Universidad del País Vasco, 1999. BLOQUE TEMÁTICO 3
+
+✅ Recursos añadidos (3):
 ------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-BLOQUE TEMÁTICO 1
-
 BLOQUE TEMÁTICO 2
-
-BLOQUE TEMÁTICO 3
 
 BLOQUE TEMÁTICO 4
 
-REILLY,   James   M.   Care  and  Identification  of  19th-  Century  Photographic  Prints.  Nueva  York:  Kodak,
-2009
+LEYMARIE, J.; MONNIER, G.; ROSE, B. El Dibujo. Barcelona: Skira, Carroggio Ediciones. 1979
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

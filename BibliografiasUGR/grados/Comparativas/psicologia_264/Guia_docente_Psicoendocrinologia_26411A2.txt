@@ -2,12 +2,17 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
 Abril, A., Ambrosio, E., Blas, M.R., Caminero, A.A., García, C. y de Pablo, J.M. (2016)
 
-📚 Recursos sin cambios:
+Valls,   C.   (2021).   Mujeres   invisibles   para   la   Medicina.  Madrid:  Capitan  Swing  Wass,  J.,  et  al.
+(2014). Oxford handbook of endocrinology. Oxford University Press
+
+📚 Recursos sin cambios (22):
 ------------------------------
+Abril, A., y cols. (2017). Fundamentos de Psicobiología. Madrid: Sanz y Torres
+
 Amstrong, W. E., y cols. (2014). Neurophysiology of neuroendocrine neurons. Wiley
 
 Delhauty PJD. (2014). How gut and brain control metabolism. Kerger
@@ -40,12 +45,12 @@ University press: Oxford
 
 Norman, A. W., y cols. (2014). Hormones. 3rd Edition, Academic Press
 
-Rubin,   RH.  (2009).  Hormone/behavior  relations  of  clinical  importance:  endocrine  systems  interacting
-with brain and behavior. Elsevier
+Pfaff, D. (2009). Hormones, brain and behavior. (5 vol).Elsevier Rubin, RH. (2009). Hormone/behavior
+relations of clinical importance: endocrine systems interacting with brain and behavior. Elsevier
 
 Segerstrom, S. (2012). The Oxford Handbook of Psychoneuroimmunology. Oxford University Press
 
-Simpson, EH (2016). Behavioral Neuroscience of Motivation. Springer
+Simpson, EH (2016). Behavioral Neuroscience of Motivation. Springer, 2016
 
 Sweatt, y cols. (2013). Epigenetic regulation in the Nervous System. Academic Press
 
@@ -55,20 +60,14 @@ Martin Ltd
 Welling,   L.   (2019).   The   Oxford  Handbook  of  Evolutionary  Psychology  and  Behavioral  Endocrinology.
 Oxford University Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Valls,   C.   (2021).   Mujeres   invisibles   para   la   Medicina.  Madrid:  Capitan  Swing  Wass,  J.,  et  al.
-(2014).   Oxford   handbook   of   endocrinology.   Oxford   University   Press  →  Valls,  C.  (2021).  Mujeres
-invisibles para la Medicina. Madrid: Capitan Swing
-
-✅ Recursos añadidos:
-------------------------------
-Abril, A., y cols. (2017). Fundamentos de Psicobiología. Madrid: Sanz y Torres
-
 Belfiore, A. y LeRoith, D. (2018). Principles of endocrinology and hormone action. Springer
 
 Pfaff, D. y Joel, M. (2016). Hormones, brain and behavior. Academic Press
 
+Valls, C. (2021). Mujeres invisibles para la Medicina. Madrid: Capitan Swing
+
 Wass, J., y cols. (2014). Oxford handbook of endocrinology. Oxford University Press
 
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

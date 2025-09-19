@@ -2,11 +2,11 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 J. Pearl, Heuristics, Addison-Wesley, 1985
 
@@ -19,18 +19,14 @@ Millington, Ian, John Funge, y John Funge. Artificial Intelligence for Games, CR
 
 N. Nilsson, Inteligencia Artificial: una nueva síntesis, McGraw-Hill Interamericana de España, 2005
 
-Robin R. Murphy, Introduction to AI Robotics, The MIT Press 2000
+Robin R. Murphi, Introduction to AI Robotics, The MIT Press 2000
 
 S.   Russell,   P.  Norvig,  Artificial  intelligence:  a  modern  approach,  Fourth  Edition,  Pearson  Series,
 2022
 
 Yannakakis, Georgios N., y Julian Togelius. Artificial Intelligence and Games. Cham, Springer, 2018
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

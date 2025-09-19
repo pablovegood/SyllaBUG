@@ -2,12 +2,24 @@
 Grado: educacion-infantil (258)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Padial,   R.   (2015).   Ferias   temáticas:   juego,  espacios  y  materiales  como  recursos  de  motivación  y
+globalización de los contenidos curriculares en la etapa de infantil. BIG BANG FAUSTINIANO - Revista
+Indizada           de           Investigación          Científica,          4(2).          https://www.re
+searchgate.net/publication/348395721_Ferias_tematicas_juego_espacios_y_material
+es_como_recursos_de_motivacion_y_globalizacion_de_los_contenidos_curriculare
+s_en_la_etapa_de_infantil   Viciana,   V.   y  Arteaga,  M.  (2004).  Las  actividades  creativas  en  el  aula:
+Danzas, Bailes, Funky,Gimnasia-Jazz. Inde
 
-📚 Recursos sin cambios:
+Ureña,   N.  y  Cifo,  M.  I.  (2023).  La  alfabetización  física  en  Infantil:  el  ABCDmotriz.  INDE  Trigo,  E.
+(1992). Juegos motores y creatividad.. Paidotribo
+
+📚 Recursos sin cambios (15):
 ------------------------------
+Alzina,   R.B.   (2003).   Educación   emocional   y   competencias   básicas   para   la   vida.   Revista   de
+investigación educativa, 21 (1), 7-43
+
 Conde, J. L. (2001). Juegos para el desarrollo de habilidades motrices en Educación Infantil. Aljibe
 
 Conde,   J.   L.,   Martín,   C.   y   Viciana,   V.   (1999).   Las   canciones  motrices.  Metodología  para  el
@@ -36,34 +48,26 @@ psicomotor en el 2º ciclo de educación infantil. Adhara
 Ruiz,   J.V.   (2011).   El   cuento   motor   en   la  educación  infantil  y  en  la  educación  física  escolar.
 Wanceulen
 
-Sher, B. (1997). Juegos estupendos con juguetes improvisados. Librería Pedagógica
-
 Torres,   G.   y   Hernández,  R.  (2019).  Etapa  Infantil  y  Motricidad:  Estrategias  para  su  desarrollo  en
 Educación Física. Wanceulen
 
-Trigo, E. (1992). Juegos motores y creatividad.. Paidotribo
+Wanceulen Sher, B. (1997). Juegos estupendos con juguetes improvisados. Librería Pedagógica
 
 Zamora, A. (2005). Danzas del Mundo. CCS, Editorial
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Padial,    R.    (2015).    Ferias    temáticas:    juego,    espacios    y   materiales   como   recursos   de
-searchgate.net/publication/348395721_Ferias_tematicas_juego_espacios_y_material
-s_en_la_etapa_de_infantil   Viciana,   V.   y  Arteaga,  M.  (2004).  Las  actividades  creativas  en  el  aula:
-Danzas,   Bailes,   Funky,Gimnasia-Jazz.   Inde.   investigación  educativa,  21  (1),  7-43  →  Viciana,  V.  y
-Arteaga, M. (2004). Las actividades creativas en el aula: Danzas, Bailes, Funky,Gimnasia-Jazz. Inde
-
-✅ Recursos añadidos:
-------------------------------
-Alzina,   R.B.   (2003).   Educación   emocional   y   competencias   básicas   para   la   vida.   Revista   de
-investigación educativa, 21 (1), 7-43
-
 Padial,   R.   (2015).   Ferias   temáticas:   juego,  espacios  y  materiales  como  recursos  de  motivación  y
 globalización de los contenidos curriculares en la etapa de infantil. BIG BANG FAUSTINIANO - Revista
 Indizada de Investigación Científica, 4(2). https://www.researchgate.net/publication/348395721_Feria
 s_tematicas_juego_espacios_y_materiales_como_recursos_de_motivacion_y_globalizacion_de_los_contenido
 s_curriculares_en_la_etapa_de_infantil
 
+Trigo, E. (1992). Juegos motores y creatividad.. Paidotribo
+
 Ureña, N. y Cifo, M. I. (2023). La alfabetización física en Infantil: el ABCDmotriz. INDE
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+Viciana,   V.   y   Arteaga,   M.   (2004).   Las   actividades   creativas   en   el   aula:   Danzas,   Bailes,
+Funky,Gimnasia-Jazz. Inde
+
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

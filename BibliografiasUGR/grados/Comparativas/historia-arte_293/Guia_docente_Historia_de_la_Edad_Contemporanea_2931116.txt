@@ -2,11 +2,13 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+CALVOCORESSI, Peter, Historia política del Mundo Contemporáneo, Madrid, Akal, 1987
 
-📚 Recursos sin cambios:
+CARR, Raymond, España, 1808-1975, Barcelona, Ariel, 1998 (5ª edición)
+
+📚 Recursos sin cambios (14):
 ------------------------------
 ARACIL,   R.   et  alii:  El  Mundo  Actual.  De  la  Segunda  Guerra  Mundial  a  nuestros  días,  Ediciones  de  la
 Universidad Autónoma de Barcelona, 1998
@@ -42,20 +44,16 @@ Ariel, 1999, 2 tomos
 PEREIRA,   Juan   Carlos   (Coordinador),   Historia   de   las  relaciones  internacionales  contemporáneas,
 Barcelona, Ariel, 2001
 
-VILLARES, Ramón y BAHAMONDE, Ángel, El mundo contemporáneo. Siglos XIX y XX, Madrid, Taurus, 2001
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-CARR,   Raymond,   España,   1808-1975,   Barcelona,   Ariel,   1998   (5ª   edición)  →  CALVOCORESSI,  Peter,
-Historia   política   del   Mundo   Contemporáneo,  Madrid,  Akal,  1987.  CARR,  Raymond,  España,  1808-1975,
-Barcelona, Ariel, 1998 (5ª edición)
-
-CALVOCORESSI,   Peter,   Historia  política  del  Mundo  Contemporáneo,  Madrid,  Akal,  1987  →  CALVOCORESSI,
-Peter,   Historia   política   del   Mundo   Contemporáneo,   Madrid,   Akal,   1987.  CARR,  Raymond,  España,
-1808-1975, Barcelona, Ariel, 1998 (5ª edición)
-
-✅ Recursos añadidos:
-------------------------------
 TUSELL, Javier, Historia de España. Vol. 2. La España Contemporánea. Madrid, Taurus. 2001
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+VILLARES, Ramón y BAHAMONDE, Ángel, El mundo contemporáneo. Siglos XIX y XX, Madrid, Taurus, 2001
+
+✅ Recursos añadidos (2):
+------------------------------
+CALVOCORESSI,   Peter,   Historia  política  del  Mundo  Contemporáneo,  Madrid,  Akal,  1987.  CARR,  Raymond,
+España, 1808-1975, Barcelona, Ariel, 1998 (5ª edición)
+
+CALVOCORESSI,   Peter,   Historia  política  del  Mundo  Contemporáneo,  Madrid,  Akal,  1987.  CARR,  Raymond,
+España, 1808-1975, Barcelona, Ariel, 1998 (5ª edición)
+
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

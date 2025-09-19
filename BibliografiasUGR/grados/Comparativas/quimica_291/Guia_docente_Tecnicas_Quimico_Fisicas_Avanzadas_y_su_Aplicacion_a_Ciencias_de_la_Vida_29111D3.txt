@@ -2,12 +2,15 @@
 Grado: quimica (291)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Gross,   J.H.   (2011)   Mass   Spectrometry.   A  Text  Book.  Springer  Lakowicz,  J.R.  (2006)  Principles  of
+Fluorescence Spectroscopy. Springer
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
+Baró, A.M., Reifenberger, R. G. (2002) Atomic Force Microscopy in Liquid. Wiley-WCH
+
 Buchner, J., Kiefhaber, T. (2005) Protein Folding Handbook. Wiley-WCH
 
 Canales, A. (2017) Biophysical Techniques in Drug Discovery. Royal Society of Chemistry
@@ -31,19 +34,12 @@ Walla, P.J. (2014) Modern Biophysical Chemistry. Wiley-WCH
 
 Watson, J.T., Sparkman, O.D. (2007) Introduction to Mass Spectrometry. John Wiley & Sons
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gross,   J.H.   (2011)   Mass   Spectrometry.   A  Text  Book.  Springer  Lakowicz,  J.R.  (2006)  Principles  of
-Fluorescence Spectroscopy. Springer  →  Gross, J.H. (2011) Mass Spectrometry. A Text Book. Springer
-
-Baró,   A.M.,   Reifenberger,   R.   G.   (2002)  Atomic  Force  Microscopy  in  Liquid.  Wiley-WCH.  van  Holde,
-K.E.,   Curtis   Johnson,   W.,   Shing  Ho,  P.  (1998)  Physical  biochemistry.  Prentice  Hall  →  Baró,  A.M.,
-Reifenberger, R. G. (2002) Atomic Force Microscopy in Liquid. Wiley-WCH
-
-✅ Recursos añadidos:
-------------------------------
-Lakowicz, J.R. (2006) Principles of Fluorescence Spectroscopy. Springer
-
 van Holde, K.E., Curtis Johnson, W., Shing Ho, P. (1998) Physical biochemistry. Prentice Hall
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+✅ Recursos añadidos (2):
+------------------------------
+Gross, J.H. (2011) Mass Spectrometry. A Text Book. Springer
+
+Lakowicz, J.R. (2006) Principles of Fluorescence Spectroscopy. Springer
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

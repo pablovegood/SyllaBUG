@@ -2,12 +2,25 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+BERMÚDEZ   SÁNCHEZ,   C.   (2016):   Modelos   clínicos   de   cera.   Proceso  de  restauración.  En:  BERMÚDEZ
+SÁNCHEZ, C. (2020): Guía de Conservación de Patrimonio Cofrade. Consejos Elementales de conservación
+preventiva, mantenimiento, cuidado y almacenamiento de Bienes y Enseres. Ed. Técnica AVICAM. Granada
 
-📚 Recursos sin cambios:
+CALVO, A.(1997): Conservación y restauración. Materiales, técnicas y procedimientos. De la A a la Z.
+Ed.   Serbal   CANEVA,   G.;  NUGARI,  M.P.;  SALVADORI,  O.  (1994):  La  Biología  nel  Restauro.  Ed.  Nardini.
+Firenze
+
+CONSEJERÍA DE OBRAS PÚBLICAS Y TRANSPORTES (1992): Normas para la realización de proyectos. Junta de
+Andalucía.   Sevilla   FRANCO   LAMANNA,   L.  (1996):  Strutture  in  legno.  Le  resine  per  il  recupero  e  il
+consolidamento. Ed. Gangemi. Roma
+
+📚 Recursos sin cambios (37):
 ------------------------------
+AA.   VV.:  Técnicas  de  diagnóstico  aplicadas  a  la  conservación  de  Bienes  Muebles.  Gráficas  Lino  s.  l.
+Granada, 1996
+
 ALTHÖFER, H. (1991): Il restauro delle opere d’arte moderne e contemporanée. Ed. Nardini. Firenze
 
 AMADOR   MARRERO,   P.F.  (2002):  Traza  española,  ropaje  indiano.  El  Cristo  de  Telde  y  la  imaginería  en
@@ -27,16 +40,14 @@ BERMÚDEZ   SÁNCHEZ,   C.   (2001):   La   escultura   en  madera  policromada.
 inadecuada   ejecución   de  la  técnica,  defectos  e  incompatibilidad  de  materiales.  Ed.  Departamento  de
 Escultura, Universidad de Granada. Granada
 
-BERMÚDEZ SÁNCHEZ, C. (2016): Modelos clínicos de cera. Proceso de restauración. En: Restauración del
-Patrimonio   de   la   Universidad   de   Granada   (1).   Granada:  Universidad  de  Granada,  2016.  (Cuaderno
-técnico; 3). pp. 63-73. Universidad de Granada
-
-BERMÚDEZ   SÁNCHEZ,   C.   (2020):   Guía  de  Conservación  de  Patrimonio  Cofrade.  Consejos  Elementales  de
-conservación   preventiva,   mantenimiento,   cuidado  y  almacenamiento  de  Bienes  y  Enseres.  Ed.  Técnica
-AVICAM. Granada
+BERMÚDEZ   SÁNCHEZ,  C.:  Incidencia  del  medio  en  la  escultura  en  madera  policromada.  Fenómenos  físico-
+químicos. Patologías. Tesis Doctoral, s/ed. Departamento de Escultura. Universidad de Granada. 1999
 
 BERMÚDEZ,   A.;VIANNEY,   J;   GIRALT,A.   (2004):   Intervención   en   el  patrimonio  cultural.  Creación  y
 gestión de proyectos. Ed. Síntesis, col. Patrimonio cultural. Madrid
+
+BOUZAS   ABAD,   A.   Y  LABORDE  MARQUEZE,  A.:  La  degradación  del  hueso  y  el  marfil.  Monte  Buceiro  9,  la
+conservación del material subacuático. Págs.268-275
 
 CERDÁ   DURÁ,   E.   (2012):   La   conservación  preventiva  durante  la  exposición  de  material  textil.  Ed.
 Trea. Asturias, 2012
@@ -72,6 +83,12 @@ Madrid
 GONZALEZ   MARTINEZ,   E.   (2023):   Bases   científicas   para   la   autentificación   de  obra  pictórica  y
 escultórica. Ed. UPV. Valencia
 
+JUNTA   DE   ANDALUCÍA  (1993):  Clasificación  sistemática  para  la  Conservación  y  Restauración  de  Bienes
+Muebles.   Departamento   de   Bienes   Muebles   del   Servicio   de  Conservación  y  Restauración  de  Bienes
+Culturales.   Sevilla   LIOTTA,  G.:  Gli  nsetti  e  i  danni  del  legno:  Problemi  di  restauro.  Ed.  Nardini.
+Firenze,   1993.LORUSSO,   S.;   MARABELLI,   M.;  VIVIANO,  G.  (1995):  La  contaminazione  ambientale  ed  il
+degrado dei materiali di interesse storico-artistico. Ed.. Bulzoni. Roma
+
 MACARRÓN   MIGUEL,   A.M.  Y  GONZÁLEZ  MOZO,  A.  (1998):La  conservación  y  la  restauración  en  el  siglo  XX.
 Ed. Tecnos. Madrid
 
@@ -103,66 +120,45 @@ Poligrafo. Italia
 
 TAMPONE, G.: Il restauro del legno. 2 vols. Ed. Nardini. Firenze, 1989 y 1990
 
+THOMSON, G. (1998): El museo y su entorno. Ed. Akal. Col. Arte y Estética. Madrid
+
 TONINI,   F.   (2015):   La   scultura   lignea,   tecniche   e   restauro.  Manuale  per  allievi  restauratori
 (Lineamenti restauro conservaz. beni cult.). Ed. Il Prato. Saonara (Italia)
 
 Trea.   Asturias,   2012  CIGNI,  B.:  Nouve  tecnique  per  il  concolidamento  di  travi  in  legno.  Ed.  Kappa.
 Roma
 
-UNESCO (VV.AA.) (1979): La conservación de los bienes culturales. Unesco. Paris
+UNESCO   (VV.AA.)   (1979):  La  conservación  de  los  bienes  culturales.  Unesco.  Paris  TODA  LA  DISPONIBLE
+EN LA PLATAFORMA PRADO BAJO EL EPIGRAFE DE BIBLIOTECA
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (9):
 ------------------------------
-CALVO, A.(1997): Conservación y restauración. Materiales, técnicas y procedimientos. De la A a la Z.
-Ed.   Serbal   CANEVA,   G.;  NUGARI,  M.P.;  SALVADORI,  O.  (1994):  La  Biología  nel  Restauro.  Ed.  Nardini.
-Firenze   →   CALVO,   A.(1997):  Conservación  y  restauración.  Materiales,  técnicas  y  procedimientos.  De
-la A a la Z. Ed. Serbal
-
-Universidad   de   Granada.   1999   BERMÚDEZ   SÁNCHEZ,   C.   (2001):  La  escultura  en  madera  policromada.
-Degradaciones   causadas   por   la   inadecuada  ejecución  de  la  técnica,  defectos  e  incompatibilidad  de
-materiales.   Ed   →   BERMÚDEZ   SÁNCHEZ,   C.  (2001):  La  escultura  en  madera  policromada.  Degradaciones
-causadas   por   la  inadecuada  ejecución  de  la  técnica,  defectos  e  incompatibilidad  de  materiales.  Ed.
-Departamento de Escultura, Universidad de Granada. Granada
-
-CONSEJERÍA DE OBRAS PÚBLICAS Y TRANSPORTES (1992): Normas para la realización de proyectos. Junta de
-Andalucía.   Sevilla   FRANCO   LAMANNA,   L.  (1996):  Strutture  in  legno.  Le  resine  per  il  recupero  e  il
-consolidamento   →   CONSEJERÍA   DE  OBRAS  PÚBLICAS  Y  TRANSPORTES  (1992):  Normas  para  la  realización  de
-proyectos. Junta de Andalucía. Sevilla
-
-JUNTA   DE   ANDALUCÍA  (1993):  Clasificación  sistemática  para  la  Conservación  y  Restauración  de  Bienes
-Muebles.   Departamento   de   Bienes   Muebles   del   Servicio   de  Conservación  y  Restauración  de  Bienes
-Culturales.   Sevilla   LIOTTA,  G.:  Gli  nsetti  e  i  danni  del  legno:  Problemi  di  restauro.  Ed.  Nardini.
-Firenze,   1993.LORUSSO,   S.;   MARABELLI,   M.;  VIVIANO,  G.  (1995):  La  contaminazione  ambientale  ed  il
-degrado   dei   materiali   di   interesse   storico-artistico.   Ed..   Bulzoni.  Roma  →  JUNTA  DE  ANDALUCÍA
-(1993):    Clasificación    sistemática   para   la   Conservación   y   Restauración   de   Bienes   Muebles.
-Departamento   de   Bienes   Muebles   del  Servicio  de  Conservación  y  Restauración  de  Bienes  Culturales.
-Sevilla
-
-✅ Recursos añadidos:
-------------------------------
-AA.   VV.:  Técnicas  de  diagnóstico  aplicadas  a  la  conservación  de  Bienes  Muebles.  Gráficas  Lino  s.  l.
-Granada, 1996
-
 AMEZAGA RAMOS, M. (2006):Restauración de plumería sobre tejido en el Museo de América: aplicación de
 nuevas tecnologías. Anales del Museo de América, 14 (2006), págs. 381-406
 
-BERMÚDEZ   SÁNCHEZ,  C.:  Incidencia  del  medio  en  la  escultura  en  madera  policromada.  Fenómenos  físico-
-químicos. Patologías. Tesis Doctoral, s/ed. Departamento de Escultura. Universidad de Granada. 1999
+BERMÚDEZ SÁNCHEZ, C. (2016): Modelos clínicos de cera. Proceso de restauración. En: Restauración del
+Patrimonio   de   la   Universidad   de   Granada   (1).   Granada:  Universidad  de  Granada,  2016.  (Cuaderno
+técnico; 3). pp. 63-73. Universidad de Granada
 
-BOUZAS   ABAD,   A.   Y  LABORDE  MARQUEZE,  A.:  La  degradación  del  hueso  y  el  marfil.  Monte  Buceiro  9,  la
-conservación del material subacuático. Págs.268-275
+BERMÚDEZ   SÁNCHEZ,   C.   (2020):   Guía  de  Conservación  de  Patrimonio  Cofrade.  Consejos  Elementales  de
+conservación   preventiva,   mantenimiento,   cuidado  y  almacenamiento  de  Bienes  y  Enseres.  Ed.  Técnica
+AVICAM. Granada
+
+CALVO, A.(1997): Conservación y restauración. Materiales, técnicas y procedimientos. De la A a la Z.
+Ed. Serbal
 
 CANEVA, G.; NUGARI, M.P.; SALVADORI, O. (1994): La Biología nel Restauro. Ed. Nardini. Firenze
+
+CONSEJERÍA DE OBRAS PÚBLICAS Y TRANSPORTES (1992): Normas para la realización de proyectos. Junta de
+Andalucía. Sevilla
 
 FRANCO   LAMANNA,   L.   (1996):  Strutture  in  legno.  Le  resine  per  il  recupero  e  il  consolidamento.  Ed.
 Gangemi. Roma
 
-LIOTTA,   G.:   Gli   nsetti   e   i   danni   del   legno:   Problemi   di   restauro.   Ed.   Nardini.  Firenze,
-1993.LORUSSO,   S.;  MARABELLI,  M.;  VIVIANO,  G.  (1995):  La  contaminazione  ambientale  ed  il  degrado  dei
-materiali di interesse storico-artistico. Ed.. Bulzoni. Roma
+JUNTA   DE   ANDALUCÍA  (1993):  Clasificación  sistemática  para  la  Conservación  y  Restauración  de  Bienes
+Muebles.   Departamento   de   Bienes   Muebles   del   Servicio   de  Conservación  y  Restauración  de  Bienes
+Culturales. Sevilla
 
-THOMSON, G. (1998): El museo y su entorno. Ed. Akal. Col. Arte y Estética. Madrid
+UNESCO (VV.AA.) (1979): La conservación de los bienes culturales. Unesco. Paris
 
-TODA LA DISPONIBLE EN LA PLATAFORMA PRADO BAJO EL EPIGRAFE DE BIBLIOTECA
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

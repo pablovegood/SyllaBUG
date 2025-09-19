@@ -2,11 +2,11 @@
 Grado: matematicas (270)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 A.   Delgado,  J.J.  Nieto,  A.  M.  Robles,  O.  Sánchez,  Métodos  Numéricos  básicos  con  Octave,  Ed.  Técnica
 AVICAM (Fleming), Granada 2016
@@ -17,6 +17,8 @@ A. Quarteroni, Numerical Models for Differential Problems, Series: MSA, Vol 2, 2
 
 A.   Quarteroni,   R.   Sacco,   F.   Saleri,   Numerical  Mathematics,  Text  in  Applied  Mathematics,  V.  37,
 Springer-Verlag, New-York, 2007
+
+B. Lucquin, O. Pironneau, Introduction au calcul scientifique, Masson, París, 1996
 
 C.   Johnson,   Numerical   solutions   of   partial  differential  equations  by  the  finite  element  method,
 Cambridge University Press, 1987
@@ -37,19 +39,15 @@ Partielles, Masson, París, 1988
 R.   J.   Leveque,   Finite   Difference   Methods  for  Ordinary  and  Partial  Differential  Equations,  SIAM,
 Philadelphia, 2007
 
+S.   Brenner,   R.   Scott,   The   mathematical  theory  of  Finite  Element  Methods,  Springer  New  York,  New
+York, 2008
+
 The Octave Project Developers, GNU Octave (version 7.1.0), consultado en Mayo 2022
 
 W. Gautschi, Numerical Analysis, Birkhäuser-Boston, 2012
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-6.S.   Brenner,   R.   Scott,  The  mathematical  theory  of  Finite  Element  Methods,  Springer  New  York,  New
-York,   2008   7.B.   Lucquin,  O.  Pironneau,  Introduction  au  calcul  scientifique,  Masson,  París,  1996  →
-S.   Brenner,   R.   Scott,   The   mathematical  theory  of  Finite  Element  Methods,  Springer  New  York,  New
-York, 2008
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-B. Lucquin, O. Pironneau, Introduction au calcul scientifique, Masson, París, 1996
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,70 +2,42 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
-GEOMETRÍA   MÉTRICA   Curso   de  Geometría  Métrica.  Puig  Adam,  P.  Fundamentos  geométricos.  Villoria  San
-Miguel, Víctor. Geometría Aplicada. Gil Sauri, M.A. Geometría Métrica. Blázquez García, l.; Palancar
-Penella,   M.   Dibujo  Técnico.  Villoría  San  Miguel,  V.;  Azofra  Márquez,  A.  Ed.  Universidad  de  Granada
-Geometría Métrica y Descriptiva. Nagore, F
+Dibujo Normalizado. Company, P.; Gomis, J.M.; Ferrer, l.; Contero, M. DISEÑO ASISTIDO POR ORDENADOR
 
-GEOMETRÍA   MÉTRICA   Fundamentos  geométricos  del  diseño  en  ingeniería.  Prieto  Alberca,  Manuel.  Dibujo
-geométrico y de croquización. Rodríguez Abajo, F.; Álvarez de Abengoa, V
+Dibujo geométrico y de croquización. Rodríguez Abajo, F.; Álvarez de Abengoa, V. SISTEMA DIÉDRICO
 
-NORMALIZACIÓN   Normalización   en   el  dibujo  técnico  con  aplicaciones  a  la  ingeniería  civil.  Cruzado,
-J.M
+Geometría Descriptiva superior y aplicada. Izquierdo Asensi, F. NORMALIZACIÓN
 
-SISTEMA   DIÉDRICO  Geometría  Descriptiva.  Izquierdo  Asensi,  F.  Geometría  Descriptiva.  Tomo  1.  Sistema
-Diédrico. Rodríguez Abajo, F
+Geometría Descriptiva. Tomo 1. Sistema Diédrico. Rodríguez Abajo, F. NORMALIZACIÓN
 
-SISTEMA DIÉDRICO Geometría Descriptiva. Proyección Diédrica. Palencia Rodríguez, Joaquín Sistemas de
-representación   y   dibujo   técnico.   Gancedo,   Enrique;   Suárez,   Jesús.   Representación  de  curvas  y
-superficies. Villoria San Miguel, V. Sistema diédrico. Raya Moral, B. Geometría Descriptiva superior
-y   aplicada.   Izquierdo   Asensi,   F.  Dibujo  Técnico.  Villoría  San  Miguel,  V.;  Azofra  Márquez,  A.  Ed.
-Universidad   de   Granada   NORMALIZACIÓN   Dibujo   geométrico   y  de  croquización.  Rodríguez  Abajo,  F.;
-Álvarez   de   Abengoa,  V.  Normas  básicas  de  dibujo  técnico.  Leiceaga,  X.  Dibujo  Técnico.  Villoría  San
-Miguel,   V.;   Azofra   Márquez,  A.  Ed.  Universidad  de  Granada  Dibujo  Normalizado.  Company,  P.;  Gomis,
-J.M.; Ferrer, l.; Contero, M
+Geometría Métrica y Descriptiva. Nagore, F. SISTEMA DIÉDRICO
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Libros a determinar por el profesor de CAD. GEOMETRÍA MÉTRICA
 
-✅ Recursos añadidos:
-------------------------------
-DISEÑO ASISTIDO POR ORDENADOR
-
-GEOMETRÍA MÉTRICA
-
-NORMALIZACIÓN
-
-SISTEMA DIÉDRICO
+Normalización   en   el   dibujo   técnico   con  aplicaciones  a  la  ingeniería  civil.  Cruzado,  J.M.  DISEÑO
+ASISTIDO POR ORDENADOR
 
 · Curso de Geometría Métrica. Puig Adam, P
 
-· Dibujo Normalizado. Company, P.; Gomis, J.M.; Ferrer, l.; Contero, M
-
-· Dibujo Técnico. Villoría San Miguel, V.; Azofra Márquez, A. Ed. Universidad de Granada
+· Dibujo geométrico y de croquización. Rodríguez Abajo, F.; Álvarez de Abengoa, V
 
 · Fundamentos geométricos del diseño en ingeniería. Prieto Alberca, Manuel
 
 · Fundamentos geométricos. Villoria San Miguel, Víctor
 
-· Geometría Descriptiva superior y aplicada. Izquierdo Asensi, F
+· Geometría Aplicada. Gil Sauri, M.A
 
 · Geometría Descriptiva. Izquierdo Asensi, F
 
 · Geometría Descriptiva. Proyección Diédrica. Palencia Rodríguez, Joaquín
 
-· Geometría Métrica y Descriptiva. Nagore, F
-
 · Geometría Métrica. Blázquez García, l.; Palancar Penella, M
-
-· Libros a determinar por el profesor de CAD
 
 · Normas básicas de dibujo técnico. Leiceaga, X
 
@@ -77,4 +49,16 @@ SISTEMA DIÉDRICO
 
 · Tutoriales de los propios programas utilizados
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (5):
+------------------------------
+GEOMETRÍA MÉTRICA
+
+SISTEMA DIÉDRICO
+
+· Dibujo Normalizado. Company, P.; Gomis, J.M.; Ferrer, l.; Contero, M
+
+· Dibujo Técnico. Villoría San Miguel, V.; Azofra Márquez, A. Ed. Universidad de Granada
+
+· Normalización en el dibujo técnico con aplicaciones a la ingeniería civil. Cruzado, J.M
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

@@ -2,17 +2,12 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Carlson, N.Fisiología de la conducta. Madrid: Pearson/Addison Wesley, 2018. Capítulos: 4 y 18
+Panamericana,   2023.   [FSI/3240   DRO  dro]  Anderson,  I.M.  &  McAllister-Williams,  R.H.  Fundamentals  of
+clinical Psychopharmacology. CRC Press, 2016
 
-Kuhn,   C.,   Swartzwelder,   S.   &   Wilson,   W.Colocados.Lo   que   hay   que   saber  sobre  las  drogas  más
-consumidas, desde el alcohol hasta el éxtasis. Barcelona: Debate, 2011. Capítulos: 1, 5, 8, 9, 10
-
-Stahl,   S.M.Psicofarmacología   esencial   de   Stahl.  Bases  neurocientíficas  y  aplicaciones  prácticas.
-Madrid: Aula Médica, 2023. Capítulo: 13 Temas 5-8
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (38):
 ------------------------------
 Ansari,   A.  &  Osser,  D.  Psychopharmacology:  A  Concise  Overview  (English  Edition)  3rd  Edición,  Oxford
 University Press, 2020
@@ -95,7 +90,8 @@ Schatzberg, A.F. & Nemeroff, Ch. B. Tratado de Psicofarmacología. Barcelona: Ma
 Singh, A.K. Neurobiology of alcohol and the brain. Academic Press, 2020
 
 Stahl, S.M. Psicofarmacología Esencial de Stahl: Bases Neurocientíficas y Aplicaciones Prácticas, 5ª
-Ed. Aula Médica, 2023. [FSI FSI/2580 STA psi]
+Ed.   Aula   Médica,   2023.  [FSI  FSI/2580  STA  psi]  Colado,  M.I.,  Farré,  M.,  Leza,  J.C.  y  Lizasoain,  I.
+(Eds). Drogodependencias. 4ª Ed
 
 Stahl,   S.M.   Stah's  essential  pscyhopharmacology:  neuroscientific  basis  and  practical  applications,
 5nd ed. Cambridge University Press, 2021
@@ -105,15 +101,12 @@ Elsevier, 2016
 
 Stoehr, J.D. The neurobiology of addiction. Chelsea House Publishers, 2006
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Panamericana,   2023.   [FSI/3240   DRO  dro]  Anderson,  I.M.  &  McAllister-Williams,  R.H.  Fundamentals  of
-clinical    Psychopharmacology.   CRC   Press,   2016   →   Anderson,   I.M.   &   McAllister-Williams,   R.H.
-Fundamentals of clinical Psychopharmacology. CRC Press, 2016
+Anderson,   I.M.   &  McAllister-Williams,  R.H.  Fundamentals  of  clinical  Psychopharmacology.  CRC  Press,
+2016
 
-✅ Recursos añadidos:
-------------------------------
 Colado,   M.I.,   Farré,  M.,  Leza,  J.C.  y  Lizasoain,  I.  (Eds).  Drogodependencias.  4ª  Ed.  Panamericana,
 2023. [FSI/3240 DRO dro]
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

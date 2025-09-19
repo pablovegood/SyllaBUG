@@ -2,33 +2,32 @@
 Grado: ingenieria-civil (237)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
+------------------------------
+Martínez,   G   (2002)   “Guías   metodológicas  para  la  elaboración  de  Estudios  de  Alternativas  Granada,
+2002
+
+Martínez, G et al (2007). “Organización y Gestión de Proyectos y Obras”. McGraw-Hill Interamericana.
+Madrid   Apuntes   de  los  apartados  que  comprenden  el  temario  teórico.  Plataforma  PRADO  2  de  la  UGR  De
+Cos, M. (2003) “Teoría general del proyecto”. 3ª Edición. Editorial Síntesis, Madrid
+
+UNE   15701-2002.   “Criterios   generales   para   la   elaboración   de   Proyectos”.  AENOR,  Madrid  García
+Meseguer,   A.   (2001):   “Fundamentos   de   calidad   en   construcción”.  Fundación  Cultural  del  Colegio
+Oficial de Aparejadores y Arquitectos Técnicos de Sevilla. Sevilla
+
+📚 Recursos sin cambios (3):
 ------------------------------
 Ley   9/2017,   de   8   de   noviembre,   de   Contratos   del   Sector  Público,  por  la  que  se  transponen  al
-ordenamiento   jurídico   español   las   Directivas   del   Parlamento  Europeo  y  del  Consejo  Soler,  M.  J.
-(2022) Manual para la Dirección Integrada de Proyectos de Construcción
+ordenamiento   jurídico   español   las   Directivas   del   Parlamento  Europeo  y  del  Consejo  2014/23/UE  y
+2014/24/UE, de 26 de febrero de 2014
 
-Martínez,   G  (2002)  “Guías  metodológicas  para  la  elaboración  de  Estudios  de  Alternativas  Viabilidad.
-Guía I: Depuración de Aguas Residuales Urbanas”. Universidad de Granada
-
-📚 Recursos sin cambios:
-------------------------------
 Morilla,   I   (2014)   “Proyectos.   Guía   metodológica   y   práctica  para  la  realización  de  proyectos”.
 Garceta Grupo Editorial. Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-UNE   15701-2002.   “Criterios   generales   para   la   elaboración   de   Proyectos”.  AENOR,  Madrid  García
-Meseguer,   A.   (2001):   “Fundamentos   de   calidad   en   construcción”.  Fundación  Cultural  del  Colegio
-Oficial   de   Aparejadores   y   Arquitectos   Técnicos  de  Sevilla.  Sevilla  →  UNE  15701-2002.  “Criterios
-generales para la elaboración de Proyectos”. AENOR, Madrid
+Soler,   M.   J.   (2022)   Manual   para   la  Dirección  Integrada  de  Proyectos  de  Construcción.  Project  &
+Construction Management Handbook (3ª Ed.). Bellisco Ediciones. Madrid
 
-Manejar   la   herramienta   Internet   para   la   búsqueda  de  información  y  su  captura  Martínez,  G  et  al
-(2007). “Organización y Gestión de Proyectos y Obras”. McGraw-Hill Interamericana. Madrid De Cos, M.
-(2003)   “Teoría   general   del   proyecto”.  3ª  Edición.  Editorial  Síntesis,  Madrid  →  Martínez,  G  et  al
-(2007). “Organización y Gestión de Proyectos y Obras”. McGraw-Hill Interamericana. Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 ACEX   Asociación  de  Empresas  de  Conservación  y  Explotación  de  Infraestructuras  (2009)  Libro  Verde  de
 la Conservación de Infraestructuras en España. Madrid
@@ -43,9 +42,8 @@ Domingo Ajenjo, A.(2005).Dirección y gestión de proyectos, un enfoque práctic
 González   Marcos,   A.;   Alba   Elías,  F.  y  Ordieres  Meré,  J.  (2014)  Ingeniería  de  Proyectos.  Servicio
 Publicaciones Universidad Politécnica. Madrid
 
-Ley   9/2017,   de   8   de   noviembre,   de   Contratos   del   Sector  Público,  por  la  que  se  transponen  al
-ordenamiento   jurídico   español   las   Directivas   del   Parlamento  Europeo  y  del  Consejo  2014/23/UE  y
-2014/24/UE, de 26 de febrero de 2014
+Martínez, G et al (2007). “Organización y Gestión de Proyectos y Obras”. McGraw-Hill Interamericana.
+Madrid
 
 Martínez,   G;   Pellicer,   E.   (2007).   Organización   y   Gestión   de   Proyectos   y  Obras.  McGraw-Hill
 Interamericana. Madrid
@@ -53,7 +51,6 @@ Interamericana. Madrid
 Real   Decreto   1098/2001,  de  12  de  octubre,  por  el  que  se  aprueba  el  Reglamento  General  de  la  Ley  de
 Contratos de las Administraciones Públicas
 
-Soler,   M.   J.   (2022)   Manual   para   la  Dirección  Integrada  de  Proyectos  de  Construcción.  Project  &
-Construction Management Handbook (3ª Ed.). Bellisco Ediciones. Madrid
+UNE 15701-2002. “Criterios generales para la elaboración de Proyectos”. AENOR, Madrid
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -2,13 +2,28 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Chapin   III,  P.;  Matson,  PA;  Mooney,  HA  (2002)  Principles  of  Terrestrial  Ecosystem  Ecology.  Springer
+disponible   en   línea   en  Biblioteca  UGR  Krebs,  C.  (2001-2009)  Ecology:  The  experimental  analysis  of
+distribution and abundance, Addison Wesley Longman
 
-📚 Recursos sin cambios:
+disponible   en   línea   en   Biblioteca   UGR   Cain,  M.,  Bowman,  W.,  Hacker,  S.,  Allen,  J.,  Pizer,  M.  y
+Kohorn, L. (2008) Ecology
+
+📚 Recursos sin cambios (18):
 ------------------------------
-Colinvaux, P. (1993) Ecology 2. Wiley & Sons, Inc
+Allaby, M. (2010). A dictionary of ecology (4th ed.). Oxford University Press, Oxford. disponible en
+línea en Biblioteca UGR
+
+Calow,   P.   (1999)  Blackwell’s  Concise  Encyclopedia  of  Ecology.  Blackwell  Science  Ltd.  disponible  en
+línea en Biblioteca UGR
+
+Collin,   P.  (2011).  Dictionary  of  environment  y  ecology  (5th  ed.).  Bloomsbury,  London.  disponible  en
+línea en Biblioteca UGR
+
+Mackenzie F.T. Our changing planet: An introduction to Earth System Science and Global Environmental
+Change. Prentice Hall
 
 Molles, M. (2006) Ecología. Conceptos y aplicaciones. McGraw-Hill, Interamericana
 
@@ -33,46 +48,28 @@ Stiling P- D. (2012) Ecology. Global Insights & Investigations. Mc. Graw Hill
 
 Stiling, P.D. (1992) Introductory Ecology. Prentice Hall, Inc., New Jersey
 
+Sunderland, Mass: Sinauer Associates Colinvaux, P. (1993) Ecology 2. Wiley & Sons, Inc
+
 Townsend,   C.,   Harper,   J.   L.   and   M.  Begon  (2002-2009)  Essentials  of  Ecology.  Blackwell  Science.
 Oxford
 
 Weathers,   K.C.,  Strayer,  D.L.  y  Likens,  G.E.  (2013)  Fundamentals  of  Ecosystem  Science.  Elsevier/AP,
 Amsterdam
 
-🔁 Misma obra con edición/año distinto:
+disponible   en   línea   en   Biblioteca   UGR  Jørgensen,  S.E.  (2009)  Ecosystem  Ecology.  Academic  Press-
+Elsevier. Addison Wesley Longman
+
+✅ Recursos añadidos (4):
 ------------------------------
-Chapin   III,  P.;  Matson,  PA;  Mooney,  HA  (2002)  Principles  of  Terrestrial  Ecosystem  Ecology.  Springer
-disponible   en   línea   en  Biblioteca  UGR  Krebs,  C.  (2001-2009)  Ecology:  The  experimental  analysis  of
-distribution   and   abundance,  Addison  Wesley  Longman  →  Chapin  III,  P.;  Matson,  PA;  Mooney,  HA  (2002)
-Principles of Terrestrial Ecosystem Ecology. Springer disponible en línea en Biblioteca UGR
-
-Collin,   P.  (2011).  Dictionary  of  environment  y  ecology  (5th  ed.).  Bloomsbury,  London.  disponible  en
-línea   en   Biblioteca   UGR   Calow,   P.  (1999)  Blackwell’s  Concise  Encyclopedia  of  Ecology.  Blackwell
-Science   Ltd.   disponible   en   línea   en   Biblioteca   UGR   Jørgensen,  S.E.  (2009)  Ecosystem  Ecology.
-Academic   Press-Elsevier   →   Calow,  P.  (1999)  Blackwell’s  Concise  Encyclopedia  of  Ecology.  Blackwell
-Science Ltd. disponible en línea en Biblioteca UGR
-
-Allaby, M. (2010). A dictionary of ecology (4th ed.). Oxford University Press, Oxford. disponible en
-línea   en   Biblioteca  UGR  Cain,  M.,  Bowman,  W.,  Hacker,  S.,  Allen,  J.,  Pizer,  M.  y  Kohorn,  L.  (2008)
-Ecology   →   Allaby,   M.   (2010).  A  dictionary  of  ecology  (4th  ed.).  Oxford  University  Press,  Oxford.
-disponible en línea en Biblioteca UGR
-
-✅ Recursos añadidos:
-------------------------------
-Addison Wesley Longman
-
 Cain,   M.,   Bowman,   W.,   Hacker,   S.,  Allen,  J.,  Pizer,  M.  y  Kohorn,  L.  (2008)  Ecology.  Sunderland,
 Mass: Sinauer Associates
 
-Collin,   P.  (2011).  Dictionary  of  environment  y  ecology  (5th  ed.).  Bloomsbury,  London.  disponible  en
-línea en Biblioteca UGR
+Chapin   III,  P.;  Matson,  PA;  Mooney,  HA  (2002)  Principles  of  Terrestrial  Ecosystem  Ecology.  Springer
+disponible en línea en Biblioteca UGR
 
 Jørgensen, S.E. (2009) Ecosystem Ecology. Academic Press-Elsevier
 
 Krebs,   C.   (2001-2009)   Ecology:   The   experimental  analysis  of  distribution  and  abundance,  Addison
 Wesley Longman
 
-Mackenzie F.T. Our changing planet: An introduction to Earth System Science and Global Environmental
-Change. Prentice Hall
-
-📊 Porcentaje estimado de cambio: 45% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

@@ -2,45 +2,7 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Fuller,   Michael   A.   An   Introduction  to  Literary  Chinese.  Cambridge  Mass.:  Harvard  University  Asia
-Center, 1999
-
-Gudai hanyu xuci tongshi 古代漢語虛詞通釋, Beijing: Beijing chuban she, 1985
-
-Hanyu da cidian 漢語大詞典, 12 vols., Hong Kong: Sanlian, 1987
-
-Institute of East Asian Studies, 1993
-
-La linterna roja (2005), trad. Inma González, Edinexus, Málaga
-
-Lewis, Mark E. Writing and Authority in Early China . Albany: SUNY, 1999
-
-Pulleyblank,   Edwin   G.   Outline   of   Classical   Chinese   Grammar.   Vancouver:  University  of  British
-Columbia Press, 1995
-
-Relinque, Vilaür, Atalanta Li Yu (1992) La alfombrilla de los goces y los rezos, Barcelona, Tusquets
-Pu   Songling   (1985)   Cuentos   de  Liaozhai,  trad.  L.  Ramírez  y  L.  Rovetta,  Madrid,  Alianza  Las  siete
-víctimas   de   un   pájaro.   Cuentos   policiacos  chinos,  trad.  del  francés  A.  Garzón,  México,  Fondo  de
-Cultura   Económica   Viaje  al  Oeste.  Las  aventuras  del  Rey  Mono  (1992)  (3  vol),  trad.  E.P.  Gatón  e  I.
-Huang-   Wang,   Madrid,  Siruela  Wu  Jingzi  (1991)  Los  mandarines.  Historia  del  bosque  de  los  letrados,
-trad.   L.   Ramírez,   Barcelona,   Seix   Barral   “Yuan   Zhen:   La   historia   de  Ying-ying”  en  Estudios
-Orientales, v:1, 1970, trad. F. Botton Beja (59-75) el seguimiento del trabajo personal del alumno
-
-Tang   Xianzu,  El  pabellón  de  las  peonías  o  Historia  del  alma  que  regresó,  (2016),  trad.  A.  Relinque,
-Madrid, Trotta
-
-Tres   dramas   chinos.  La  injusticia  contra  Dou  E,  El  huérfano  del  clan  de  los  Zhao,  Historia  del  Ala
-oeste (2002) trad. A. Relinque, Madrid, Gredos
-
-Writing about Reading Texts from Early China . Berkeley: University of California Press, 2000
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (3):
 ------------------------------
 Clásicos,   Historia   y  Filosofía  Confucio  (1997)  Lunyu.  Reflexiones  y  enseñanzas,  trad.  A.H.  Suárez,
 Barcelona, Kairós Lao zi (1978) El libro del tao, trad. I. Preciado, Madrid, Alfaguara Lao zi (1998)
@@ -56,16 +18,52 @@ la poesía china (1992), trad. Chen Guojian, Madrid, Cátedra, Poesía clásica 
 Guojian,   Madrid,   Cátedra   Romancero   chino  (1984),  trad.  C.  Elorduy,  Madrid,  Editora  Nacional  Wang
 Wei,   (2000)   99   cuartetos   de   Wang   Wei   y   su   círculo,  trad.  A.H.  Suárez,  Madrid,  Buenos  Aires,
 Valencia,   Pre-textos   Su   Dongpo   (1990)  Recordando  el  pasado  en  el  acantilado  rojo  y  otros  poemas,
-trad.   A   →   Du   Fu   (2000)   El  vuelo  oblicuo  de  las  golondrinas,  trad.  I.  Preciado,  Madrid,  eds  del
-oriente y del mediterráneo
+trad. A
 
-“Bo   Xing-jian:   La   historia   de   Li   Wa”   en   Estudios  Orientales,  v:3,  1970,  trad.  F.  Botton  Beja
-(261-277)   Cao   Xueqin   (2009),   Sueño   en  el  Pabellón  Rojo  (2  vol)  trad.  Zhao  Zhenjiang  y  J.  García
-Sánchez,   Barcelona,   Círculo   de   Lectores   Erudito  de  las  Carcajadas  (2010,  2011),  Jin  Ping  Mei  en
-verso   y   en  prosa  (2.  Vol.),  trad.  A  →  “Bo  Xing-jian:  La  historia  de  Li  Wa”  en  Estudios  Orientales,
-v:3, 1970, trad. F. Botton Beja (261-277)
+Relinque,   Madrid,   Trotta   Zhang   Xie  (20014)  El  licenciado  número  uno.  Trad.  R.  Llamas.  Barcelona:
+Bellaterra   Narrativa:  “Bo  Xing-jian:  La  historia  de  Li  Wa”  en  Estudios  Orientales,  v:3,  1970,  trad.
+F. Botton Beja (261-277) Cao Xueqin (2009), Sueño en el Pabellón Rojo (2 vol) trad. Zhao Zhenjiang y
+J.   García   Sánchez,  Barcelona,  Círculo  de  Lectores  Erudito  de  las  Carcajadas  (2010,  2011),  Jin  Ping
+Mei en verso y en prosa (2. Vol.), trad. A
 
-✅ Recursos añadidos:
+Relinque, Vilaür, Atalanta Li Yu (1992) La alfombrilla de los goces y los rezos, Barcelona, Tusquets
+Pu   Songling   (1985)   Cuentos   de  Liaozhai,  trad.  L.  Ramírez  y  L.  Rovetta,  Madrid,  Alianza  Las  siete
+víctimas   de   un   pájaro.   Cuentos   policiacos  chinos,  trad.  del  francés  A.  Garzón,  México,  Fondo  de
+Cultura   Económica   Viaje  al  Oeste.  Las  aventuras  del  Rey  Mono  (1992)  (3  vol),  trad.  E.P.  Gatón  e  I.
+HuangWang,   Madrid,   Siruela   Wu   Jingzi  (1991)  Los  mandarines.  Historia  del  bosque  de  los  letrados,
+trad.   L.   Ramírez,   Barcelona,   Seix   Barral   “Yuan   Zhen:   La   historia   de  Ying-ying”  en  Estudios
+Orientales, v:1, 1970, trad. F. Botton Beja (59-75)
+
+📚 Recursos sin cambios (10):
+------------------------------
+Fuller,   Michael   A.   An   Introduction  to  Literary  Chinese.  Cambridge  Mass.:  Harvard  University  Asia
+Center, 1999
+
+Gudai hanyu xuci tongshi 古代漢語虛詞通釋, Beijing: Beijing chuban she, 1985
+
+Hanyu da cidian 漢語大詞典, 12 vols., Hong Kong: Sanlian, 1987
+
+Lewis, Mark E. Writing and Authority in Early China . Albany: SUNY, 1999
+
+Loewe,   Michael,   ed.   Early   Chinese   Texts:  A  Bibliographical  Guide.  Early  China  Special  Monograph
+Series   No.   2.   Berkeley:   The  Society  for  the  Study  of  Early  China  and  the  Institute  of  East  Asian
+Studies, 1993
+
+Pauline   Yu,   Peter   Bol,   Stephen  Owen,  y  Willard  Peterson,  eds.,  The  Way  with  Words:  Writing  about
+Reading Texts from Early China. Berkeley: University of California Press, 2000
+
+Pulleyblank,   Edwin   G.   Outline   of   Classical   Chinese   Grammar.   Vancouver:  University  of  British
+Columbia Press, 1995
+
+Suárez, Madrid, Hiperión Teatro: La linterna roja (2005), trad. Inma González, Edinexus, Málaga
+
+Tang   Xianzu,  El  pabellón  de  las  peonías  o  Historia  del  alma  que  regresó,  (2016),  trad.  A.  Relinque,
+Madrid, Trotta
+
+Tres   dramas   chinos.  La  injusticia  contra  Dou  E,  El  huérfano  del  clan  de  los  Zhao,  Historia  del  Ala
+oeste (2002) trad. A. Relinque, Madrid, Gredos
+
+✅ Recursos añadidos (32):
 ------------------------------
 Antología de poesía china (2003), trad. J.I Preciado, Madrid, Gredos
 
@@ -83,12 +81,18 @@ Confucio (1997) Lunyu. Reflexiones y enseñanzas, trad. A.H. Suárez, Barcelona,
 
 Du Fu (1990) Siete poemas de melancolía, trad. J. Pérez Arroyo, Málaga, Newman
 
+Du   Fu   (2000)  El  vuelo  oblicuo  de  las  golondrinas,  trad.  I.  Preciado,  Madrid,  eds  del  oriente  y  del
+mediterráneo
+
 Erudito   de   las   Carcajadas   (2010,   2011),   Jin   Ping   Mei  en  verso  y  en  prosa  (2.  Vol.),  trad.  A.
 Relinque, Vilaür, Atalanta
 
 Lao zi (1978) El libro del tao, trad. I. Preciado, Madrid, Alfaguara
 
 Lao zi (1998) Libro del curso y de la virtud, trad. A.H. Suárez, Barcelona, Siruela
+
+Las   siete   víctimas   de   un  pájaro.  Cuentos  policiacos  chinos,  trad.  del  francés  A.  Garzón,  México,
+Fondo de Cultura Económica
 
 Li   Bai   (2005)  A  punto  de  partir.  100  poemas  de  Li  Bai,  ed.  y  trad.  A-H  Suárez  Girard,  Madrid,  Pre-
 textos
@@ -132,7 +136,10 @@ Zhang Xie (20014) El licenciado número uno . Trad. R. Llamas. Barcelona: Bellat
 
 Zhuang zi (1996) trad. I. Preciado, Barcelona, Kairós
 
+“Bo   Xing-jian:   La   historia   de   Li   Wa”   en   Estudios  Orientales,  v:3,  1970,  trad.  F.  Botton  Beja
+(261-277)
+
 “Yuan   Zhen:   La   historia   de   Ying-ying”   en   Estudios  Orientales,  v:1,  1970,  trad.  F.  Botton  Beja
 (59-75)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 83% [████████░░]

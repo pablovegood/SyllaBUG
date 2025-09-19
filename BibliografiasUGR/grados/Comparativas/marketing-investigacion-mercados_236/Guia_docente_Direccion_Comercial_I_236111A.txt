@@ -2,11 +2,13 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+SÁNCHEZ   GUZMÁN,   J.R.   (1995):   Marketing.   Conceptos   básicos  y  consideraciones  fundamentales.  Ed.
+McGraw-Hill,   Madrid.   Página   4   SANTESMASES,   M.  (2007):  Marketing.  Conceptos  y  estrategias.  5ªed.
+Pirámide, Madrid
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (23):
 ------------------------------
 BARROSO, C. Y MARTÍN ARMARIO, E. (1999): Marketing relacional. Esic Editorial, Madrid
 
@@ -29,6 +31,10 @@ Introducción al Marketing. Ed. Prentice-Hall, 2a Ed. Europa, Madrid
 
 KOTLER,   P.,   LANE,   K.,  CÁMARA,  D,  y  MOLLÁ,  A.  (2006):  Dirección  de  Marketing.  12Ed.  Prentice-Hall,
 Madrid
+
+LAMBIN, J-J. (2003a): Marketing estratégico. Ed. McGrawHill, Madrid
+
+LAMBIN, J-J. (2003b): Casos prácticos de marketing. McGrawHill, Madrid
 
 LAMBIN,   J.J.,   GALLUCCI,   C.   SICURELLO,   C.   (2009):  Dirección  de  marketing:  Gestión  estratégica  y
 operativa del mercado, 2ª edición, McGraw Hill
@@ -60,19 +66,11 @@ Ed. Civitas, Madrid
 VÁZQUEZ.   R.;   TRESPALACIOS,   J.A.   y   RODRIGUEZ   DEL   BOSQUE,  I.A.  (2005):  Marketing:  estrategias  y
 aplicaciones sectoriales., 4ª Ed. Civitas, Madrid
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-SÁNCHEZ   GUZMÁN,   J.R.   (1995):   Marketing.   Conceptos   básicos  y  consideraciones  fundamentales.  Ed.
-McGraw-Hill,   Madrid.   Página   4   SANTESMASES,   M.  (2007):  Marketing.  Conceptos  y  estrategias.  5ªed.
-Pirámide,   Madrid   →   SÁNCHEZ   GUZMÁN,   J.R.   (1995):  Marketing.  Conceptos  básicos  y  consideraciones
-fundamentales. Ed. McGraw-Hill, Madrid. Página 4
-
-✅ Recursos añadidos:
-------------------------------
-LAMBIN, J-J. (2003a): Marketing estratégico. Ed. McGrawHill, Madrid
-
-LAMBIN, J-J. (2003b): Casos prácticos de marketing. McGrawHill, Madrid
-
 SANTESMASES, M. (2007): Marketing. Conceptos y estrategias. 5ªed. Pirámide, Madrid
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+SÁNCHEZ   GUZMÁN,   J.R.   (1995):   Marketing.   Conceptos   básicos  y  consideraciones  fundamentales.  Ed.
+McGraw-Hill, Madrid. Página 4
+
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

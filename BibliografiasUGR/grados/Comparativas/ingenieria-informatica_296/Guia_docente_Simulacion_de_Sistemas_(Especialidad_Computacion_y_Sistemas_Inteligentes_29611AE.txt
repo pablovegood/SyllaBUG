@@ -2,11 +2,11 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 D.   Matko,   R.   Karba,   B.   Zupancic,   Simulation  and  Modelling  of  Continuous  Systems,  Prentice-Hall
 (1992)
@@ -31,11 +31,7 @@ S.V. Hoover y R.F. Perry, Simulation. A Problem Solving Approach, Addison-Wesley
 
 W. Kreutzer, System Simulation, Programming Styles and Languages, Addison-Wesley (1986)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

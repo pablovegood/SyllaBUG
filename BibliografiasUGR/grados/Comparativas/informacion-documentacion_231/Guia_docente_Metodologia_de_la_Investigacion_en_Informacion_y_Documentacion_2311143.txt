@@ -2,11 +2,19 @@
 Grado: informacion-documentacion (231)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Bunge,   M.   La   investigación   científica.   8ª  ed.  Barcelona:  Ariel,  1981  Busha,  Ch.H.;  Harter,  S.P.
+Métodos de investigación en Bibliotecología. Técnicas e interpretación. México: UNAM, 1990
 
-📚 Recursos sin cambios:
+Powel,   R.R.  Basic  research  methods  for  librarians.  2ª  ed.  Norword,  NJ:  Ablex,  1991  Ruiz  Olabuénaga,
+J.I. Metodología de la investigación cualitativa. Bilbao: Universidad de Deusto, 1996
+
+Slater,   M.  (ed.).  Research  methods  in  Library  and  Information  Studies.  London:  Library  Association,
+1990. ISBN 0-85365-908-7 Visauta, R. (1989). Técnicas de investigación social. I: recogida de datos.
+Barcelona: PPU
+
+📚 Recursos sin cambios (12):
 ------------------------------
 Ander Egg, e. (1997). Técnicas de investigación social. México: El Ateneo
 
@@ -37,27 +45,17 @@ López Yepes, J.: La aventura de la investigación científica. Madrid, Síntesi
 Martyn,   J.;   Lancaster,   F.   W.:   Investigative   methods   in   library   and   information  science:  an
 introduction. Arlington, VI., Information Resources Press, 1981
 
+Sarabia   Sanchez,   FJ.   (coord.).  Métodos  de  investigación  social  y  de  la  empresa.  Madrid:  Pirámide,
 Sierra Bravo, R. (1998). Técnicas de investigación social. Teoría y ejercicios. Madrid: Paraninfo
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Powel,   R.R.  Basic  research  methods  for  librarians.  2ª  ed.  Norword,  NJ:  Ablex,  1991  Ruiz  Olabuénaga,
-J.I.   Metodología   de   la   investigación   cualitativa.   Bilbao:  Universidad  de  Deusto,  1996  →  Powel,
-R.R. Basic research methods for librarians. 2ª ed. Norword, NJ: Ablex, 1991
-
-Slater,   M.  (ed.).  Research  methods  in  Library  and  Information  Studies.  London:  Library  Association,
-1990. ISBN 0-85365-908-7 Visauta, R. (1989). Técnicas de investigación social. I: recogida de datos.
-Barcelona:   PPU   →   Slater,   M.   (ed.).  Research  methods  in  Library  and  Information  Studies.  London:
-Library Association, 1990. ISBN 0-85365-908-7
-
-Bunge,   M.   La   investigación   científica.   8ª  ed.  Barcelona:  Ariel,  1981  Busha,  Ch.H.;  Harter,  S.P.
-Métodos   de   investigación   en   Bibliotecología.   Técnicas   e   interpretación.   México:  UNAM,  1990  →
 Bunge, M. La investigación científica. 8ª ed. Barcelona: Ariel, 1981
 
-✅ Recursos añadidos:
-------------------------------
 Busha,   Ch.H.;   Harter,  S.P.  Métodos  de  investigación  en  Bibliotecología.  Técnicas  e  interpretación.
 México: UNAM, 1990
+
+Powel, R.R. Basic research methods for librarians. 2ª ed. Norword, NJ: Ablex, 1991
 
 Ruiz   Olabuénaga,   J.I.   Metodología  de  la  investigación  cualitativa.  Bilbao:  Universidad  de  Deusto,
 1996
@@ -65,6 +63,9 @@ Ruiz   Olabuénaga,   J.I.   Metodología  de  la  investigación  cualitativa. 
 Sarabia   Sanchez,   FJ.   (coord.).  Métodos  de  investigación  social  y  de  la  empresa.  Madrid:  Pirámide,
 2013
 
+Slater,   M.  (ed.).  Research  methods  in  Library  and  Information  Studies.  London:  Library  Association,
+1990. ISBN 0-85365-908-7
+
 Visauta, R. (1989). Técnicas de investigación social. I: recogida de datos. Barcelona: PPU
 
-📊 Porcentaje estimado de cambio: 46% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 52% [█████░░░░░]

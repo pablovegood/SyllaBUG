@@ -2,14 +2,17 @@
 Grado: ingenieria-electronica-industrial (205)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
+H.   Berger:   “Automating   with   SIMATIC:   Hardware  and  Software,  Configuration  and  Programming,  Data
+Communication, Operator Control and Process Monitoriong”
+
 M.A.   Ridao:   “Introducción   a   la  programación  de  Autómatas  Programables  usando  CoDeSys”.  Editorial
 Universidad de Sevilla, Escuela Técnica Superior de Ingeniería, 2016
 
 Publicis Publishing, 6th edition, 2016
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 A.   Barrientos,   L.F.   Peñin,  C.  Balaguer,  R.  Aracil:  “Fundamentos  de  robótica“.  2a  edición,  McGraw-
 Hill, 2007
@@ -20,6 +23,8 @@ y autómatas programables”. Marcombo, 2a edición, 2018
 J.A. Mercado: “Sistemas programables avanzados”. Paraninfo, 2019
 
 J.L. Sánchez: “Fundamentos de robótica“. IC Editorial, ECOE ediciones, 2021
+
+J.M. Guerrero: “Programación Estructurada de Autómatas Programables con GRAFCET”. Paraninfo, 2019
 
 L.   Bee:   "PLC   and   HMI   development   with   Siemens   TIA  Portal:  develop  PLC  and  HMI  programs  using
 standard   methods   and  structured  approaches  with  TIA  Portal  V17".  Birmingham,  UK:  Packt  Publishing,
@@ -32,17 +37,11 @@ L. Peciña: “Comunicaciones industriales y WinCC”, Marcombo, 2018
 
 S.B. Niku: “Introduction to Robotics: Analysis, Control, Applications“. 3o edition, Wiley, 2019
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 J.   Cerro,   A.   Barrientos:   “Diseño   de   automatismos   con  GRAFCET:  Teoría  y  ejemplos”.  Ibergarceta
 Publicaciones S.L., 2022
 
-J.M. Guerrero: “Programación Estructurada de Autómatas Programables con GRAFCET”. Paraninfo, 2019
-
 JJ. Cabo: "Sistemas secuenciales programables". Sintesis, 2022
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 45% [████░░░░░░]

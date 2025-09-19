@@ -2,12 +2,17 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+CRESSWELL,   Tim  (2013).  Geographic  thought.  A  critical  introduction.  Malden-OxfordChichester.  Wiley-
+Blackwell GÓMEZ MENDOZA, Josefina; MUÑOZ JIMÉNEZ, Julio; ORTEGA CANTERO, Nicolás (2002)
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
+Además,   se   utilizarán   y   recomendarán   diversas   lecturas   de  libros  y  artículos  que  versen  sobre
+aspectos como la filosofía la ciencia, corrientes científicas y filosóficas, autores y pensadores de
+la ciencia y, en particular, de la Geografía
+
 BOSQUE   MAUREL,  Joaquín;  ORTEGA  ALBA,  Francisco  (1995).  Comentario  de  textos  geográficos  (Historia  y
 crítica del pensamiento geográfico). Barcelona: Oikos-tau
 
@@ -25,20 +30,12 @@ Ariel
 
 UNWIN, Tim (1995). El lugar de la Geografía. Madrid: Cátedra
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (11):
 ------------------------------
-CRESSWELL,   Tim   (2013).   Geographic   thought.   A   critical  introduction.  Malden-Oxford-  Chichester.
-Wiley-Blackwell   GÓMEZ   MENDOZA,   Josefina;   MUÑOZ   JIMÉNEZ,  Julio;  ORTEGA  CANTERO,  Nicolás  (2002)  →
+BUNGE, W. (2017). Las expediciones geográficas urbanas. Barcelona: Icaria
+
 CRESSWELL, Tim (2013). Geographic thought. A critical introduction. Malden-Oxford-Chichester. Wiley-
 Blackwell
-
-✅ Recursos añadidos:
-------------------------------
-Además,   se   utilizarán   y   recomendarán   diversas   lecturas   de  libros  y  artículos  que  versen  sobre
-aspectos como la filosofía la ciencia, corrientes científicas y filosóficas, autores y pensadores de
-la ciencia y, en particular, de la Geografía
-
-BUNGE, W. (2017). Las expediciones geográficas urbanas. Barcelona: Icaria
 
 FROLOVA,   M.   (ed.)   (2016).  Relación  entre  la  sociedad  y  el  medio  ambiente  en  la  Geografía  Moderna.
 Granada: Editorial Universidad de Granada
@@ -60,4 +57,4 @@ TUAN, Y-F. (2018). El arte de la geografía. Barcelona: Icaria
 WULF,   A.   (2017).   La  invención  de  la  naturaleza:  El  Nuevo  Mundo  de  Alexander  von  Humboldt.  Madrid:
 Taurus
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

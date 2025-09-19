@@ -2,11 +2,11 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (13):
 ------------------------------
 Ardila, A., & Roselli, M. (2019). Neuropsicología Clínica. Manual Moderno
 
@@ -19,7 +19,7 @@ tests. Applied Neuropsychology: Adult, 24(1), 16-22
 
 Frias, C. F. (2020). Manual de neuropsicología. Ediciones Pirámide
 
-Junqué, C. y Barroso, J. (2009). Manual de Neuropsicología. Madrid: Síntesis
+Junqué , C. y Barroso, J. (2009). Manual de Neuropsicología. Madrid: Síntesis
 
 Lezak,   M.D.  et  al.  (2012).  Neuropsychological  assessment  (Forth  edition).  London:  Oxford  University
 Press
@@ -46,11 +46,7 @@ neuropsychology. Majwah, NJ: Lawrence Erlbaum
 Wilson, B. A., Winegardner, J., & Van Heugten, C. M. (2019). Rehabilitación neuropsicológica: Manual
 internacional. Editorial El Manual Moderno
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

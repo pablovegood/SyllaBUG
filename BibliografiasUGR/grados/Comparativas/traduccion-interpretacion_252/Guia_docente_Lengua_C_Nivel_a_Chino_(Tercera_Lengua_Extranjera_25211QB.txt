@@ -2,17 +2,20 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
 Laureano   Ramírez   Bellerín,   Manual   de  traducción  chino  /  castellano,  Barcelona,  Editorial  Gedisa,
 2004
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
-Jin Shaozhi. (1988), An introduction to modern Chinese vocabulary. Sinolingua
+Jin Shaozhi, An introduction to modern Chinese vocabulary, Beijing, Sinolingua, 1988
 
-Li   Dejin   y   Cheng  Meizhen.  (1990).  A  practical  Chinese  grammar  for  foreigners.  Sinolingua,  segunda
-impresión, 1990
+Li   Dejin   y  Cheng  Meizhen,  A  practical  Chinese  grammar  for  foreigners,  Beijing,  Sinolingua,  segunda
+impresión, 1990
+
+Liu, Xun. El Nuevo Libro de Chino Práctico 1 . Pekín, Beijing Language and Culture University Press.
+(Libro + cuaderno de ejercicios), 2008
 
 Liu, Xun. El Nuevo Libro de Chino Práctico 2 . Pekín, Beijing Language and Culture University Press.
 (Libro + cuaderno de ejercicios), 2009
@@ -22,15 +25,9 @@ Sun Yizhen, Nuevo diccionario chino-español, Beijing, Shangwu Yinshuguan, 2000
 Xu   Zenghui  y  Minkang  Zhou.  (1997).  Gramática  china,  Barcelona,  Servei  de  Publicacions,  Universitat
 Autònoma de Barcelona
 
-Zhao Yongxin (1992). Essentials of Chinese grammar. Beijing Yuyan Xueyuan Chubanshe
+Zhao Yongxin, Essentials of Chinese grammar, Beijing, Beijing Yuyan Xueyuan Chubanshe, 1992
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-University   Press.   (Libro   +   cuaderno   de   ejercicios),   2008   →  Liu,  Xun.  El  Nuevo  Libro  de  Chino
-Práctico 2 . Pekín, Beijing Language and Culture University Press. (Libro + cuaderno de ejercicios),
-2009
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (17):
 ------------------------------
 Brook, T. (2021). El gran estado . Alianza
 
@@ -50,9 +47,6 @@ ciencia, artes marciales ... ; las claves para comprender «el fenómeno chino �
 Gernet, J. (1991). El mundo chino (traducción al español de D. Folch). Crítica
 
 Hessler, P. (2006). Oracle Bones. A Journey between China and the West . John Murray Publishers
-
-Liu, Xun. El Nuevo Libro de Chino Práctico 1 . Pekín, Beijing Language and Culture University Press.
-(Libro + cuaderno de ejercicios), 2008
 
 Norman, J. (1988). Chinese . Cambridge University Press
 
@@ -75,4 +69,4 @@ Taylor & Francis Group
 
 Yip, P.-C., & Rimmington, D. (2015). Gramática intermedia del chino: Teoría y práctic a. Adeli
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

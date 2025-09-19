@@ -2,11 +2,11 @@
 Grado: ciencias-ambientales (206)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 Barragán,   J.M.   (2014):   “Política,   gestión   y  litoral:  una  nueva  visión  de  la  gestión  integral  de
 áreas litorales”. Tébar. Madrid
@@ -20,11 +20,19 @@ infraestructura". México, D.F. Fondo de Cultura Económica
 Farinós,   J   y   Olcina,  J.  (coords.)  (2022):  "Ordenación  del  territorio  y  medio  ambiente".  Tirant  lo
 Blanch, Tirant Humanidades. Colecciones: Crónica/Geografía
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Gaffron,   P.   (2008):   “Proyecto   ECOCITY:   manual  para  el  diseño  de  ecociudades  en  Europa”.  Bakeaz.
+Bilbao. 2008
 
-✅ Recursos añadidos:
+Gaston, F. J. (ed.) (2010): "Urban Ecology". New York. Cambridge University Press
+
+Gómez,   M.   y   Barredo,   J.I.   (2005):   “Sistemas  de  información  geográfica  y  técnicas  de  evaluación
+multicriterio en la ordenación del territorio”. Editorial RA-MA, Madrid, 2ª edición, 276 pp
+
+Tirant   lo   Blanch,   Tirant   Humanidades.   Colecciones:   Crónica/Geografía  Fernández,  J.  (2009):  “La
+evaluación   ambiental   estratégica   de   planes   y   programas   urbanísticos”.   Aranzadi.   Cizur  Menor
+(Navarra)
+
+✅ Recursos añadidos (42):
 ------------------------------
 AA.   VV   (2006):   “Cuadernos   de   movilidad   y   ecología   ciudadana:   especial  dedicado  a  la  Vega  de
 Granada”. Granada al Pedal. Granada
@@ -78,9 +86,6 @@ Electa. Diputació de Barcelona
 Fernández   Güell,   J.M.   (2006):   “Planificación   estratégica   de   ciudades:   nuevos   instrumentos  y
 procesos”. Reverté. Barcelona
 
-Fernández,   J.   (2009):   “La   evaluación   ambiental  estratégica  de  planes  y  programas  urbanísticos”.
-Aranzadi. Cizur Menor (Navarra)
-
 Firehock,   k.   et   al.   (2015):   "Strategic   green  infrastructure  planning:  a  multi-scale  approach".
 Washington: Island Presss
 
@@ -91,18 +96,10 @@ Press. Cambridge
 
 Friedmann, J. y Weaver, C. (1981): “Territorio y Función”. IEAL. Madrid
 
-Gaffron,   P.   (2008):   “Proyecto   ECOCITY:   manual  para  el  diseño  de  ecociudades  en  Europa”.  Bakeaz.
-Bilbao. 2008
-
-Gaston, F. J. (ed.) (2010): "Urban Ecology". New York. Cambridge University Press
-
 Gómez Orea, D. (2002): “Ordenación Territorial”.Mundi Prensa. Madrid
 
 Gómez   Orea,   D.   et   al.  (2014):  “Evaluación  ambiental  estratégica:  un  instrumento  para  integrar  el
 medio ambiente en la elaboración de planes y programas”. Mundi Prensa. Madrid
-
-Gómez,   M.   y   Barredo,   J.I.   (2005):   “Sistemas  de  información  geográfica  y  técnicas  de  evaluación
-multicriterio en la ordenación del territorio”. Editorial RA-MA, Madrid, 2ª edición, 276 pp
 
 Hernández,   R.   (2003):   “Plan   de   acción  de  la  Agenda  21  Local  de  Granada”.  Granada:  Ayuntamiento,
 Delegación de Medio Ambiente, Salud y Consumo
@@ -157,4 +154,4 @@ métodos". Granada. Universidad de Granada
 
 Terradas, J. (2001): “Ecología urbana”. Barcelona. Rubes
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 84% [████████░░]

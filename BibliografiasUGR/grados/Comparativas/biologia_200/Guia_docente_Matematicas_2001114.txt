@@ -2,17 +2,21 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (11):
 ------------------------------
 D.G.   Zill.   Ecuaciones   diferenciales   con  aplicaciones  de  modelado  (11ª  edición).  Cengage  Learning
 Editores, 2019
 
 F.   Brauer,   C.   Castillo-Chávez.  Mathematical  Models  in  Population  Biology  and  Epidemiology,  Second
 Edition. Springer-Verlag, New York, 2012
+
+H.   Anton,   C.   Rorres.   Introducción   al   álgebra   lineal   (con  aplicaciones  en  negocios,  economía,
+ingeniería,   física,   ciencias   de   la   computación,   teoría   de  aproximación,  ecología,  sociología,
+demografía y genética), 5ª edición. Editorial Limusa Wiley, 2013
 
 H.   Caswell.   Matrix   Population   Models:   Construction,   Analysis  and  Interpretation  (2nd  edition).
 Sinauer Associates, Inc., 2006
@@ -32,14 +36,8 @@ M. Kot. Elements of Mathematical Ecology. Cambridge University Press, 2001
 
 S.P. Ellner, J. Guckenheimer. Dynamic Models in Biology. Princeton University Press, 2006
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-H.   Anton,   C.   Rorres.   Introducción   al   álgebra   lineal   (con  aplicaciones  en  negocios,  economía,
-ingeniería,   física,   ciencias   de   la   computación,   teoría   de  aproximación,  ecología,  sociología,
-demografía y genética), 5ª edición. Editorial Limusa Wiley, 2013
-
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

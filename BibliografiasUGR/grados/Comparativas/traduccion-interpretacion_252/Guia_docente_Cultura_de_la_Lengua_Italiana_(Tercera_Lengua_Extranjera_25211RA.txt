@@ -2,17 +2,12 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-6.Historia   del   cine:   El   Neorealismo   7.Historia  e  ideología  3.  (1950-1963).  El  milagro  económico
-8.Historia   e  ideología  4.  (años  70  y  80)  Crisis,  compromiso  y  terrorismo:  Anni  di  piombo  9.Historia
-e   ideología   5.   Situación  sociopolítica  actual.  Corrupción  y  mafia  10.Sistema  educativo  11.Sistema
-administrativo   y   político   12.Artes   escénicas   y   otras   manifestaciones  culturales  Las  clases  se
-impartirán   en  italiano.  Los  estudiantes  podrán  intervenir  y  contestar  en  italiano  o  en  español.  Las
-exposiciones   orales  se  harán  en  italiano,  se  subirán  a  la  plataforma  PRADO  y  podrán  ser  pregunta  de
-examen. No se tendrán en cuenta las entregas fuera de plazo sin una justificación adecuada
+MONTANELLI   I.,   L’Italia   dell’Ulivo   (1995-1997),   Milano,   Economici  Rizzoli,  2001  MONTANELLI  I.,
+L’Italia di Berlusconi (1993-1995), Milano, Economici Rizzoli, 2001
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 BOLELLI, T., L'italiano e gli italiani. Cento stravaganze linguistiche, Vicenza, Neri Pozza, 1993
 
@@ -34,14 +29,10 @@ PASQUINO, G., 1946 – 1995. Profilo della politica in Italia, Roma-Bari, Editor
 
 RUSSO P., Breve storia del cinema italiano, Collana Strumenti, Lindau, 2002
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MONTANELLI   I.,   L’Italia   dell’Ulivo   (1995-1997),   Milano,   Economici  Rizzoli,  2001  MONTANELLI  I.,
-L’Italia   di   Berlusconi   (1993-1995),   Milano,  Economici  Rizzoli,  2001  →  MONTANELLI  I.,  L’Italia  di
-Berlusconi (1993-1995), Milano, Economici Rizzoli, 2001
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 MONTANELLI I., L’Italia dell’Ulivo (1995-1997), Milano, Economici Rizzoli, 2001
+
+MONTANELLI I., L’Italia di Berlusconi (1993-1995), Milano, Economici Rizzoli, 2001
 
 📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

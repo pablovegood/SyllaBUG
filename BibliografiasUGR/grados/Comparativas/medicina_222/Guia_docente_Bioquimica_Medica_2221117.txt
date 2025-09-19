@@ -2,16 +2,21 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 Baynes, J.W. y Dominiczak, M.H. Bioquímica Médica. 3ª edición, 2015. Ed. Elsevier
 
+CRC Critical Reviews in Biochemistry and Molecular Biology
+
 Campbell,   P.N.;  Peters,  T.J.  y  Smith,  A.D.  Bioquímica  ilustrada.  Bioquímica  y  biología  molecular  en
 la era posgenómica. 2009. Ed. Elsevier
+
+Current   Biology;  Current  Opinion  in:  Biotechnology,  Cell  Biology,  Neurobiology,  Structural  Biology.
+Investigación y Ciencia. Mundo Científico. Nature. Science
 
 Devlin, T.M. Bioquímica: Libro de texto con aplicaciones clínicas. 2005. Ed. Reverté
 
@@ -20,6 +25,10 @@ Ed. Ergón
 
 Feduchi,   E.;   Blasco,   I.;   Romero,   C.   y   Yáñez,   E.   Bioquímica.  Conceptos  esenciales.  2011.  Ed.
 Panamericana
+
+Herrera, E. Ramos, M.P., Roca, P. y Viana, M. Bioquímica Básica. 2014. Ed. Elsevier España S.L
+
+Lozano. Bioquímica para ciencias de la salud. 2005. Ed. Mc Graw-Hill
 
 Muller-Esterl, W. Bioquímica. Fundamentos para Medicina y Ciencias de la Vida. 2008. Ed. Reverte
 
@@ -34,34 +43,24 @@ Stryer, L.; Berg. J.M. y Tymoczko, J.L. Bioquímica. Con aplicaciones clínicas.
 Teijón   Rivera,   M.J.   y  Blanco  Gaitán,  M.D.  Fundamentos  de  Bioquímica  Metabólica.  2017.  Madrid.  Ed.
 Tébar Flores
 
+Trends   in:   Biochemical   Sciences,   Biotechnology,   Cell   Biology,   Genetics,   Molecular   Medicine,
+Neurosciences
+
 Voet   D,   Voet   JG.   Fundamentos   de   la   bioquímica:   La   vida   a  nivel  molecular.  2007.  Ed.  Médica
-Panamericana
+Panamericana.    Publicaciones    periódicas   de   interés   en   Bioquímica   Médica.   Annual   Review   of
+Biochemistry. Biochemical Education
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-6.Herrera,   E.   Ramos,   M.P.,   Roca,   P.   y   Viana,   M.  Bioquímica  Básica.  2014.  Ed.  Elsevier  España
-7.Lozano.   Bioquímica   para   ciencias   de  la  salud.  2005.  Ed.  Mc  Graw-Hill  →  Lozano.  Bioquímica  para
-ciencias de la salud. 2005. Ed. Mc Graw-Hill
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Annual Review of Biochemistry
 
 Biochemical Education
 
-CRC Critical Reviews in Biochemistry and Molecular Biology
-
-Current Biology; Current Opinion in: Biotechnology, Cell Biology, Neurobiology, Structural Biology
-
-Herrera, E. Ramos, M.P., Roca, P. y Viana, M. Bioquímica Básica. 2014. Ed. Elsevier España S.L
-
 Investigación y Ciencia
 
 Mundo Científico
 
-Publicaciones periódicas de interés en Bioquímica Médica
+Voet   D,   Voet   JG.   Fundamentos   de   la   bioquímica:   La   vida   a  nivel  molecular.  2007.  Ed.  Médica
+Panamericana
 
-Trends   in:   Biochemical   Sciences,   Biotechnology,   Cell   Biology,   Genetics,   Molecular   Medicine,
-Neurosciences
-
-📊 Porcentaje estimado de cambio: 71% [███████░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

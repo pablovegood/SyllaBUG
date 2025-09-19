@@ -2,11 +2,11 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 Carretero MI y Pozo M (2007). Mineralogía aplicada. Salud y Medio Ambiente. Thomson, Madrid
 
@@ -57,11 +57,7 @@ Press
 
 Zoltai T y Stout JH (1984). Mineralogy: Concepts and principles. Burgess Pub. Minneapolis
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

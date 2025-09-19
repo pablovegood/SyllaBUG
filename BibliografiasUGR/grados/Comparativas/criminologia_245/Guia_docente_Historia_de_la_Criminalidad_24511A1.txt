@@ -2,11 +2,14 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Barcelona, Ariel, 1987
+GUEREÑA, Jean Louis, Prostitución, Estado y Sociedad en España: La reglamentación de la prostitución
+bajo la monarquía de Isabel II (1854-1868), Asclepio: Revista de historia
 
-📚 Recursos sin cambios:
+de la medicina y de la ciencia, Vol. 49, Fasc. 2, 1997, pp.. 101-132
+
+📚 Recursos sin cambios (166):
 ------------------------------
 ALEJANDRE   GARCÍA,   José  Antonio,  La  Inquisición,  política  del  Antiguo  Régimen,  en  La  Aventura  de  la
 Historia, nº 5 (marzo, 1999), pp. 70-75
@@ -188,10 +191,6 @@ en la crisis de la Restauración (1917-1931), CSIC, Madrid, 1999
 
 GUEREÑA, Jean Louis, La prostitución en la España contemporánea, Madrid, Marcial Pons, 2003
 
-GUEREÑA, Jean Louis, Prostitución, Estado y Sociedad en España: La reglamentación de la prostitución
-bajo   la   monarquía   de   Isabel  II  (1854-1868),  Asclepio:  Revista  de  historia  de  la  medicina  y  de  la
-ciencia, Vol. 49, Fasc. 2, 1997, pp.. 101-132
-
 GUEREÑA,   Jean   Louis,   Una   aproximación  sociológica  a  la  prostitución,  Historiar,  nº  2,  1999.  Pp..
 12-23
 
@@ -253,8 +252,12 @@ LAMO   DE   ESPINOSA,  Emilio,  Delitos  sin  víctima:  orden  social  y  ambiv
 LANERO   TÁBOAS,   Mónica,   Una   milicia   de   la   justicia.  La  política  judicial  del  primer  franquismo
 (1936-1945), Centro de Estudios Constitucionales, Madrid, 1996
 
-LARA   RAMOS,   Antonio,   Granada  durante  el  reinado  de  Alfonso  XII,  Granada,  Memoria  de  Licenciatura,
-Universidad de Granada, 1986
+LARA   RAMOS,   Antonio,   Granada   durante   el  reinado  de  Alfonso  XII,  Granada,  Memoria  de  LARA  RAMOS,
+Antonio, La vida política granadina durante el reinado de Alfonso XII, Anuario de Historia Moderna y
+Contemporánea, nº 14, pp. 67-86
+
+LOPEZ   GARRIDO,   Diego,   El  aparato  policial  en  España.  Historia,  sociología  e  ideología.  Barcelona,
+Ariel, 1987
 
 LOPEZ GARRIDO, Diego, Terrorismo, política y derecho: la legislación antiterrorista en España. Reino
 Unido, República Federal de Alemania, Italia y Francia. Madrid, Alianza Editorial, 1987
@@ -396,6 +399,10 @@ en   la   época   de   Felipe   el   Hermoso,   Espacio,  tiempo  y  forma.  Se
 PÉREZ   GARCÍA,   Pablo,   "Una   reflexión   en   torno   a   la   historia   de  la  criminalidad",  en  Revista
 d'Historia Medieval, nº. 1 (1990) Valencia, pp. 11-37
 
+QUESADA MORILLAS, Yolanda, “El delito de rapto en el Primer Proyecto de Código Penal al amparo de la
+Constitución   de   1812”,   enRevista   de   Ciencias   Sociales   y   Jurídicas   de   la  Universidad  Miguel
+Hernández, Volumen I – Número Especial – Julio de 2009 (ISSN: 1866-6611), págs. 129-143
+
 QUESADA   MORILLAS,   Yolanda,   “La   individualización   judicial   de   la  pena  en  la  reforma  penal”,  en
 Cuadernos de Política Criminal, segunda época, Vol. 88, Edita CESEJ, Madrid, 2006, pp. 225-260
 
@@ -528,21 +535,17 @@ ZUGASTI Y SAENZ, Julian de, El bandolerismo, Madrid, Alianza Universidad, 1982
 de Responsabilidades Políticas (1939-1945), Madrid, Centro de Estudios Políticos y Constitucionales,
 2006
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-QUESADA MORILLAS, Yolanda, “El delito de rapto en el Primer Proyecto de Código Penal al amparo de la
-Constitución   de   1812”,   enRevista   de   Ciencias   Sociales   y   Jurídicas   de   la  Universidad  Miguel
-Hernández,   Volumen   I   –   Número   Especial   –   Julio  de  2009  (ISSN  →  QUESADA  MORILLAS,  Yolanda,  “El
-delito   de   rapto   en   el   Primer   Proyecto   de   Código  Penal  al  amparo  de  la  Constitución  de  1812”,
-enRevista   de   Ciencias   Sociales  y  Jurídicas  de  la  Universidad  Miguel  Hernández,  Volumen  I  –  Número
-Especial – Julio de 2009 (ISSN: 1866-6611), págs. 129-143
+GUEREÑA, Jean Louis, Prostitución, Estado y Sociedad en España: La reglamentación de la prostitución
+bajo   la   monarquía   de   Isabel  II  (1854-1868),  Asclepio:  Revista  de  historia  de  la  medicina  y  de  la
+ciencia, Vol. 49, Fasc. 2, 1997, pp.. 101-132
 
-✅ Recursos añadidos:
-------------------------------
-LARA   RAMOS,   Antonio,   La   vida   política   granadina   durante  el  reinado  de  Alfonso  XII,  Anuario  de
-Historia Moderna y Contemporánea, nº 14, pp. 67-86
+GUEREÑA, Jean Louis, Prostitución, Estado y Sociedad en España: La reglamentación de la prostitución
+bajo   la   monarquía   de   Isabel  II  (1854-1868),  Asclepio:  Revista  de  historia  de  la  medicina  y  de  la
+ciencia, Vol. 49, Fasc. 2, 1997, pp.. 101-132
 
-LOPEZ   GARRIDO,   Diego,   El  aparato  policial  en  España.  Historia,  sociología  e  ideología.  Barcelona,
-Ariel, 1987
+LARA   RAMOS,   Antonio,   Granada  durante  el  reinado  de  Alfonso  XII,  Granada,  Memoria  de  Licenciatura,
+Universidad de Granada, 1986
 
 📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]

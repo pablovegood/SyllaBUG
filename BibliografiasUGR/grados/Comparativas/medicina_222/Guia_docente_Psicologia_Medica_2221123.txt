@@ -2,50 +2,48 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-978-8491105190    TEXTOS    CLÁSICOS    RECOMENDADOS   Ruíz-Ogara   C.   MANUAL   DE   PSICOLOGÍA   MÉDICA   Y
-PSICOPATOLOGÍA. Barcelona: Toray, 1976
-
-Lahera,   G;  Gili  M;  Roca  M  (Eds).  MANUAL  DE  PSICOLOGÍA  MÉDICA.  Madrid:  Ed.  Panamericana,  2024.  ISBN:
-978-8411062060
-
-López-Sánchez   JM,   Higueras   A,   Jiménez   R.  COMPENDIO  DE  PSICOPATOLOGÍA  (2ª  ed.).  Jaén:  Círculo  de
-Estudios Psicopatológicos, 1980
-
 MANUAL   DE   REFERENCIA   DE   PSICOPATOLOGÍA   Oyebode,   F   (Ed.).   SIMS.   SÍNTOMAS  MENTALES.  MANUAL  DE
 PSICOPATOLOGÍA DESCRIPTIVA (7ª ed.). Barcelona: Elsevier, 2024. ISBN: 978-8413825250 OTROS TEXTOS DE
-REFERENCIA   Díaz   Méndez   D,  Latorre  Postigo  JM  (Eds).  PSICOLOGÍA  MÉDICA.  Barcelona:  Elsevier,  2021.
-ISBN:   978-8491136675   Eguíluz   I,   Segarra   R   (Eds.).  INTRODUCCIÓN  A  LA  PSICOPATOLOGÍA.  UNA  VISIÓN
-ACTUALIZADA (3ª ed.). Madrid: Editorial Médica Panamericana, 2021. ISBN
+REFERENCIA   Díaz   Méndez   D,  Latorre  Postigo  JM  (Eds).  PSICOLOGÍA  MÉDICA.  Barcelona:  Elsevier,  ISBN:
+978-8491136675 Eguíluz I, Segarra R (Eds.). INTRODUCCIÓN A LA PSICOPATOLOGÍA. UNA VISIÓN ACTUALIZADA
+(3ª   ed.).   Madrid:   Editorial   Médica   Panamericana,   2021.   ISBN:   978-8491105190   TEXTOS  CLÁSICOS
+RECOMENDADOS Ruíz-Ogara C. MANUAL DE PSICOLOGÍA MÉDICA Y PSICOPATOLOGÍA. Barcelona: Toray, 1976
 
 Seva   Díaz,  A.  PSICOLOGÍA  MÉDICA.  BASES  PSICOLÓGICAS  DE  LOS  ESTADOS  DE  SALUD  Y  ENFERMEDAD.  Zaragoza:
-INO Reproducciones, 1994. ISBN: 84-605-1172-3
+INO   Reproducciones,   1994.   ISBN:   84-605-1172-3  Ridruejo  Alonso  P,  Medina  León  A,  RubioSánchez  JL.
+PSICOLOGÍA   MÉDICA.   Madrid:   McGarw-Hill,   1996.  ISBN:  84-486-0143-2  López  Ibor  JJ,  Ortiz  Alonso  T,
+López-Ibor Alcocer MI. LECCIONES DE PSICOLOGÍA MÉDICA. Barcelona: Masson, 1999
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-McGarw-Hill,   1996.   ISBN:   84-486-0143-2   López   Ibor   JJ,   Ortiz   Alonso  T,  López-Ibor  Alcocer  MI.
-LECCIONES   DE   PSICOLOGÍA   MÉDICA.   Barcelona:   Masson,  1999  →  López  Ibor  JJ,  Ortiz  Alonso  T,  López-
-Ibor Alcocer MI. LECCIONES DE PSICOLOGÍA MÉDICA. Barcelona: Masson, 1999
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (3):
 ------------------------------
 Adicionalmente,   los  profesores  podrán  recomendar  otra  bibliografía  complementaria  en  el  contexto  de
 sus clases tanto teóricas como prácticas
 
+López-Sánchez   JM,   Higueras   A,   Jiménez   R.  COMPENDIO  DE  PSICOPATOLOGÍA  (2ª  ed.).  Jaén:  Círculo  de
+Estudios Psicopatológicos, 1980
+
+MANUAL   DE   REFERENCIA   DE   PSICOLOGÍA   MÉDICA  Lahera,  G;  Gili  M;  Roca  M  (Eds).  MANUAL  DE  PSICOLOGÍA
+MÉDICA. Madrid: Ed. Panamericana, 2024. ISBN: 978-8411062060
+
+✅ Recursos añadidos (11):
+------------------------------
 Díaz   Méndez   D,   Latorre   Postigo   JM   (Eds).   PSICOLOGÍA   MÉDICA.  Barcelona:  Elsevier,  2021.  ISBN:
 978-8491136675
 
 Eguíluz   I,   Segarra   R   (Eds.).   INTRODUCCIÓN  A  LA  PSICOPATOLOGÍA.  UNA  VISIÓN  ACTUALIZADA  (3ª  ed.).
 Madrid: Editorial Médica Panamericana, 2021. ISBN: 978-8491105190
 
-MANUAL DE REFERENCIA DE PSICOLOGÍA MÉDICA
+Lahera,   G;  Gili  M;  Roca  M  (Eds).  MANUAL  DE  PSICOLOGÍA  MÉDICA.  Madrid:  Ed.  Panamericana,  2024.  ISBN:
+978-8411062060
+
+López   Ibor   JJ,   Ortiz   Alonso  T,  López-Ibor  Alcocer  MI.  LECCIONES  DE  PSICOLOGÍA  MÉDICA.  Barcelona:
+Masson, 1999
 
 MANUAL DE REFERENCIA DE PSICOPATOLOGÍA
+
+OTROS TEXTOS DE REFERENCIA
 
 Oyebode, F (Ed.). SIMS. SÍNTOMAS MENTALES. MANUAL DE PSICOPATOLOGÍA DESCRIPTIVA (7ª ed.). Barcelona:
 Elsevier, 2024. ISBN: 978-8413825250
@@ -55,4 +53,9 @@ ISBN: 84-486-0143-2
 
 Ruíz-Ogara C. MANUAL DE PSICOLOGÍA MÉDICA Y PSICOPATOLOGÍA. Barcelona: Toray, 1976
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Seva   Díaz,  A.  PSICOLOGÍA  MÉDICA.  BASES  PSICOLÓGICAS  DE  LOS  ESTADOS  DE  SALUD  Y  ENFERMEDAD.  Zaragoza:
+INO Reproducciones, 1994. ISBN: 84-605-1172-3
+
+TEXTOS CLÁSICOS RECOMENDADOS
+
+📊 Porcentaje estimado de cambio: 92% [█████████░]

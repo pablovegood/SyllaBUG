@@ -2,11 +2,13 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Heidrich,   Franziska;  Klaus  Schubert  (Hg.)  (2020):  Fachkommunikation  –  gelenkt,  geregelt,  optimiert.
+(Fach – Sprache – Kommunikation 1.) Hildesheim: Universitätsverlag – https://dx.doi.org/10.18442/087
+(20.03.2020) Kalverkämper, Hartwig; Klaus-Dieter Baumann (Hg.) (2019): Fachtextsorten-in-Vernetzung
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (9):
 ------------------------------
 Alcaraz   Varó,   Enrique,   Mateo   Martínez,   José   y   Yus  Ramos,  Francisco  (eds.)  (2007).  Las  lenguas
 profesionales y académicas. Madrid: Ariel
@@ -15,6 +17,9 @@ Alcina   Caudet,   Amparo   y  Gamero  Pérez,  Silvia  (eds.)  (2002).  La  tra
 terminología en la sociedad de la información. Alicante: Publicacions de la Universitat Jaume I
 
 Fluck, H.-R. (1996). Fachsprachen. Tübingen: Francke
+
+Kalverkämper,   Hartwig;   Klaus-Dieter  Baumann  (Hg.)  (2019):  Fachtextsorten-in-Vernetzung.  (Forum  für
+Fachsprachen-Forschung 80.) Berlin: Frank & Timme
 
 López-Rodríguez,   C.   I.   (2023).   Localización   para   lingüistas  y  traductores/.  Granada:  Editorial
 Comares
@@ -29,23 +34,16 @@ O'Hagan,   Minako   (2020).   The   Routledge   Handbook   of  Translation  and 
 Routledge
 
 Stolze,   R.   (2013).   Fachübersetzen   –  Ein  Lehrbuch  für  Theorie  und  Praxis  (Forum  für  Fachsprachen-
-Forschung 89.). Berlin: Frank & Timme. ISBN 978-3-86596-257-7
+Forschung 89.). Berlin: Frank & Timme. ISBN 978-3-86596-257-7 Una bibliografía actualizada se pondrá
+a disposición del alumnado cuando se implante la docencia de la asignatura
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Heidrich,   Franziska;  Klaus  Schubert  (Hg.)  (2020):  Fachkommunikation  –  gelenkt,  geregelt,  optimiert.
-(Fach   –   Sprache  –  Kommunikation  1.)  Hildesheim:  Universitätsverlag  –  Kalverkämper,  Hartwig;  Klaus-
-Dieter   Baumann   (Hg.)   (2019):  Fachtextsorten-in-Vernetzung.  (Forum  für  Fachsprachen-Forschung  80.)
-Berlin:   Frank   &   Timme  →  Kalverkämper,  Hartwig;  Klaus-Dieter  Baumann  (Hg.)  (2019):  Fachtextsorten-
-in-Vernetzung. (Forum für Fachsprachen-Forschung 80.) Berlin: Frank & Timme
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Heidrich,   Franziska;  Klaus  Schubert  (Hg.)  (2020):  Fachkommunikation  –  gelenkt,  geregelt,  optimiert.
 (Fach – Sprache – Kommunikation 1.) Hildesheim: Universitätsverlag – https://dx.doi.org/10.18442/087
 (20.03.2020)
 
-Una   bibliografía  actualizada  se  pondrá  a  disposición  del  alumnado  cuando  se  implante  la  docencia  de
-la asignatura
+Stolze,   R.   (2013).   Fachübersetzen   –  Ein  Lehrbuch  für  Theorie  und  Praxis  (Forum  für  Fachsprachen-
+Forschung 89.). Berlin: Frank & Timme. ISBN 978-3-86596-257-7
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

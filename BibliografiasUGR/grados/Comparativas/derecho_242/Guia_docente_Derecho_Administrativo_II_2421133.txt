@@ -2,19 +2,23 @@
 Grado: derecho (242)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 ARANA   GARCÍA,   E.,   CASTILLO  BLANCO,  F.,  TORRES  LÓPEZ,  M.A.  Y  VILLALBA  PÉREZ,  F.  (Dirs.),  Conceptos
 para el estudio del Derecho Administrativo II en el Grado, Tecnos, Madrid, última edición
+
+BOE. Código de Derecho administrativo
 
 CANO   CAMPOS,   T.  (Coordinador),  Lecciones  y  materiales  para  el  estudio  del  Derecho  administrativo  .
 Edit. Iustel, Madrid 2009
 
 COSCULLUELA MONTANER, L., Manual de Derecho Administrativo . Edit. Cívitas, Madrid 2016
+
+Códigos: MARTÍN REBOLLO, L.,Leyes administrativas, Edit. Thomson Aranzadi, Pamplona (última edición)
 
 GALLARDO CASTILLO, Mª J., Materiales ECTS de Derecho administrativo, Edit. Tecnos, Madrid 2011
 
@@ -32,8 +36,6 @@ MARTIN   MATEO,  R.:  El  Marco  Público  de  la  Economía  de  Mercado,  Edit
 
 MARTIN   RETORTILLO,   S.   y   otros:  Derecho  Administrativo  Económico  (2  volúmenes),  Editorial  La  Ley,
 Madrid, 1988-1991
-
-MARTÍN REBOLLO, L., Leyes administrativas, Edit. Thomson Aranzadi, Pamplona (última edición)
 
 MUÑOZ MACHADO, S. (Director), Diccionario de Derecho Administrativo, Iustel, Madrid, 2006
 
@@ -56,12 +58,8 @@ SÁNCHEZ MORÓN, M., Derecho administrativo. Parte General . Edit. Tecnos., Madr
 
 VVAA. Normas administrativas básicas, Tecnos (última edición)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-BOE. Código de Derecho administrativo
-
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

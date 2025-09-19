@@ -2,17 +2,19 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Dasilva,   Xosé   Manuel   (2008).   Babel   ibérico.   Antologia   de   textos   críticos  sobre  a  literatura
+espanhola   traduzida   em   Portugal.  Vigo:  Universidade  de  Vigo  Dias,  Eduardo  Mayone,  (1991).  De  como
+Eça foi assassinado em Espanha as primeiras traduções queirosianas, Colóquio: Letras, nº 121-122
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (21):
 ------------------------------
 Coelho,   Jacinto   do   Prado   (1983).   Originalidade   da   literatura  portuguesa.  Lisboa:  Instituto  de
 Cultura e Língua Portuguesa
 
 Coelho,   Jacinto   do   Prado   (dir.)   (1997-2003).   Dicionário   de  Literatura:  Literatura  Portuguesa,
-Literatura Brasileira
+Literatura Brasileira, Literatura Galega, Estilística Literária. Oporto: Mário Figueirinhas Editor
 
 Dasilva,   Xosé   Manuel   (2006).   Babel   ibérico.   Antología   de   textos  críticos  sobre  la  literatura
 portuguesa traducida en España. Vigo: Universidade de Vigo
@@ -30,10 +32,6 @@ Madrid: Gredos
 Lafarga,   Francisco,   Pegenaute,   Luis   y   Gallén,   Enric   (eds.)   (2010).   Interacciones   entre  las
 literaturas   ibéricas.   Berna:   Peter   Lang   (Col.   Relaciones   literarias   en   el  ámbito  hispánico.
 Traducción, Literatura y Cultura, 3)
-
-Lafarga,   Francisco,  Pegenaute,  Luis  y  Gallén,  Enric  (eds.)  (2010).  Relaciones  entre  las  literaturas
-ibéricas   y   las  literaturas  extranjeras.  Berna:  Peter  Lang  (Col.  Relaciones  literarias  en  el  ámbito
-hispánico. Traducción, Literatura y Cultura, 4)
 
 Lafarga,   Francisco,   Pegenaute,   Luis  y  Gallén,  Enric  (eds.)  (2010).  Traducción  y  autotraducción  en
 las   literaturas   ibéricas.   Berna:   Peter   Lang  (Col.  Relaciones  literarias  en  el  ámbito  hispánico.
@@ -77,19 +75,18 @@ durante o Estado Novo. Lisboa: Universidade Católica Editora
 Steenmeijer, Maarten (2016). Sobre la traducción literaria y la identidad del traductor, Pasavento .
 Revista de estudios hispánicos, Vol. IV, n.º 2, pp. 281-292
 
-🔁 Misma obra con edición/año distinto:
+Traducción,   Literatura   y   Cultura,   3)   Lafarga,  Francisco,  Pegenaute,  Luis  y  Gallén,  Enric  (eds.)
+(2010).   Relaciones   entre  las  literaturas  ibéricas  y  las  literaturas  extranjeras.  Berna:  Peter  Lang
+(Col. Relaciones literarias en el ámbito hispánico. Traducción, Literatura y Cultura, 4)
+
+✅ Recursos añadidos (3):
 ------------------------------
-Dasilva,   Xosé   Manuel   (2008).   Babel   ibérico.   Antologia   de   textos   críticos  sobre  a  literatura
-espanhola   traduzida   em   Portugal.  Vigo:  Universidade  de  Vigo  Dias,  Eduardo  Mayone,  (1991).  De  como
-Eça   foi   assassinado  em  Espanha  as  primeiras  traduções  queirosianas,  Colóquio:  Letras,  nº  121-122  →
 Dasilva,   Xosé   Manuel   (2008).   Babel   ibérico.   Antologia   de   textos   críticos  sobre  a  literatura
 espanhola traduzida em Portugal. Vigo: Universidade de Vigo
 
-✅ Recursos añadidos:
-------------------------------
 Dias,   Eduardo   Mayone,   (1991).   De   como   Eça   foi   assassinado   em  Espanha  as  primeiras  traduções
 queirosianas, Colóquio: Letras, nº 121-122
 
 Literatura Galega, Estilística Literária. Oporto: Mário Figueirinhas Editor
 
-📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

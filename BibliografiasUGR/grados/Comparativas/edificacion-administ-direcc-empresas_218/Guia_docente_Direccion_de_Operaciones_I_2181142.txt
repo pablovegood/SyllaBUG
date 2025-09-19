@@ -2,11 +2,12 @@
 Grado: edificacion-administ-direcc-empresas (218)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+HEIZER   J.,   RENDER  B.  (2012).  Dirección  de  la  producción  y  de  operaciones.  Decisiones  estratégicas.
+Madrid: Pearson-Prentice Hall
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 ARIAS   ARANDA,   D.   y   MINGUELA   RATA,   B.   (Coords.)   (2018).   Dirección   de  la  producción  y  de  las
 operaciones. Decisiones estratégicas. Madrid: Ed. Pirámide
@@ -32,7 +33,8 @@ FITZSIMMONS, J.A., & FITZSIMMONS, M.J. (2014). Service Management. McGraw-Hill, 
 
 GOLD, S.; WIELAND, A. (2024). The Supply Chain: A System in Crisis. Edward Elgar Publishing
 
-HEIZER J., RENDER B. (2015). Dirección de la producción. Decisiones tácticas. México: Pearson
+HEIZER   J.,  RENDER  B.  (2015).  Dirección  de  la  producción.  Decisiones  Tácticas.  Madrid:  Prentice  Hall
+Iberia
 
 LEE   J.  KRAJEWSKI,  LARRY  P.  RITZMAN.  (2004).  Administración  De  Operaciones.  Madrid:  Pearson  Prentice
 Hall
@@ -40,31 +42,25 @@ Hall
 MARTÍN   PEÑA,  M.L.,  Coord.  (2003).  Dirección  de  la  producción.  Problemas  y  ejercicios  resueltos.  Ed.
 Pearson Educación, Madrid
 
+MIRANDA   GONZALEZ,  F.J.,  RUBIO  LACOBA,  S.,  CHAMORRO  MERA,  A.  (2015).  Dirección  de  operaciones.  Casos
+prácticos y recursos didácticos. Ediciones Paraninfo, Madrid
+
 MIRANDA GONZÁLEZ, F.J.; RUBIO LACOBA, S.; CHAMORRO MERA, A.; BAÑEGIL PALACIOS, T.M. (2004) Manual de
 Dirección de Operaciones. Madrid: Thomson
 
 NAHMIAS, S. (2000). Análisis De La Producción Y Las Operaciones., Mcgraw – Hill
 
-🔁 Misma obra con edición/año distinto:
+OTROS   RECURSOS   DIDÁCTICOS:   Leo   Gutiérrez,  Ana  Castillo  y  Mati  Ruiz:  LA  FÁBRICA.  Juego  de  mesa  de
+estrategia empresarial y gestión de operaciones. https://www.instagram.com/lafabrica_juego/?hl=es
+
+SANTOS ÁLVAREZ, M.V., MARTÍN PÉREZ, VÍCTOR (2020). La dirección de operaciones desde una perspectiva
+práctica. Ejercicios Resueltos. Madrid: ESIC Editorial
+
+✅ Recursos añadidos (2):
 ------------------------------
-MIRANDA   GONZALEZ,   F.J.,   RUBIO   LACOBA,  S.,  CHAMORRO  MERA,  A.  (2015).  Dirección  de  SANTOS  ÁLVAREZ,
-M.V.,   MARTÍN   PÉREZ,   VÍCTOR   (2020).   La   dirección  de  operaciones  desde  una  perspectiva  práctica.
-Ejercicios   Resueltos.   Madrid:   ESIC  Editorial  →  SANTOS  ÁLVAREZ,  M.V.,  MARTÍN  PÉREZ,  VÍCTOR  (2020).
-La   dirección   de   operaciones   desde   una   perspectiva  práctica.  Ejercicios  Resueltos.  Madrid:  ESIC
-Editorial
-
-HEIZER   J.,   RENDER  B.  (2012).  Dirección  de  la  producción  y  de  operaciones.  Decisiones  estratégicas.
-Madrid:   Pearson-Prentice   Hall   →   HEIZER   J.,   RENDER   B.   (2015).  Dirección  de  la  producción  y  de
-operaciones. Decisiones estratégicas. México: Pearson
-
-✅ Recursos añadidos:
-------------------------------
-Leo   Gutiérrez,   Ana   Castillo   y   Mati   Ruiz:  LA  FÁBRICA.  Juego  de  mesa  de  estrategia  empresarial  y
-gestión de operaciones. https://octaedro.com/libro/la-fabrica/
-
-MIRANDA   GONZALEZ,  F.J.,  RUBIO  LACOBA,  S.,  CHAMORRO  MERA,  A.  (2015).  Dirección  de  operaciones.  Casos
-prácticos y recursos didácticos. Ediciones Paraninfo, Madrid
+HEIZER   J.,   RENDER  B.  (2015).  Dirección  de  la  producción  y  de  operaciones.  Decisiones  estratégicas.
+México: Pearson
 
 OTROS RECURSOS DIDÁCTICOS
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

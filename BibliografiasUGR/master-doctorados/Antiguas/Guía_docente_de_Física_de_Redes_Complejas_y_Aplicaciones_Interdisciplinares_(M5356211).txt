@@ -1,7 +1,0 @@
-The structure and function of complex networks, M. E. J. Newman, SIAM Review 45, 167-256 (2003).
-Statistical mechanics of complex networks R. Albert and A.L. Barabási Reviews of modern physics 74, 47-97 (2002).
-Complex networks: Structure and dynamics, Boccaletti, S.; Latora, V.; Moreno, Y.; Chavez, M.; Hwang, D.-U. Physics Reports, 424(4-5), 175-308 (2006).
-Multilayer Networks Structure and Function, Ginestra Bianconi. Oxford University Press (2018).
-Modelling Brain Function D. J. Amit. Cambridge University Press (1989).
-An introduction to the modelling of neural networks P. Peretto. Cambridge University Press (1992)
-Trophic coherence determines food-web stability, S Johnson, V Domínguez-García, L Donetti, MA Munoz, Proceedings of the National Academy of Sciences 111 (50), 17923-17928

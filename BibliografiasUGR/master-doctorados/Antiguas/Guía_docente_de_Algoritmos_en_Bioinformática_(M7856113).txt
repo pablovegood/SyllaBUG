@@ -1,8 +1,0 @@
-Garret Grolemund. Hands-On Programming With R. O'Reilly Media, Inc. 2016
-Michael J. Crawley. Statistics: An Introduction using R. Wiley. 2005.
-Torsten Hothorn and Brian S. Everitt. A Handbook of Statistical Analyses Using R. Chapman and Hall. 2009.
-Norman Matloff. The Art of R Programming. No Starch Press. 2011Mark Ptashne, Alexander Gann. Genes and Signals. Memorial Sloan-Kettering Cancer Center. Cold Spring Harbor Laboratory (2001) ISBN  978-087969633-7
-Uri Alon. An Introduction to Systems Biology: Design Principles of Biological Circuits, Second Edition. Chapman & Hall/CRC Mathematical & Computational Biology. (2007)
-Harari O, Park SY, Huang H, Groisman EA, Zwir I. Defining the plasticity of transcription factor binding sites by Deconstructing DNA consensus sequences: the PhoP-binding sites among gamma/enterobacteria. PLoS Comput Biol. 2010 Jul 22;6(7):e1000862. doi: 10.1371/journal.pcbi.1000862.
-Zwir I, Shin D, Kato A, Nishino K, Latifi T, Solomon F, Hare JM, Huang H, Groisman EA. Dissecting the PhoP regulatory network of Escherichia coli and Salmonella enterica. Proc Natl Acad Sci U S A. 2005 Feb 22;102(8):2862-7. Epub 2005 Feb 9.
-De Smet R1, Marchal K. Advantages and limitations of current network inference methods. Nat Rev Microbiol. 2010 Oct;8(10):717-29. doi: 10.1038/nrmicro2419. Epub 2010 Aug 31.

@@ -2,42 +2,53 @@
 Grado: ciencias-politicas-administ-derecho (213)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (14):
 ------------------------------
-AA.   VV.   (2015):  Les  Amériques,  des  constitutions  aux  démocraties.  París:  Éditions  de  la  Maison  des
-sciences de l’homme
-
 BADIE,   B.   y   LAVAU,   G.   (1988):   Le  développement  politique.  París:  Presses  Universitaires  d'Aix-
 Marseille
 
-MÉNY, Y. (1988): Politique comparée. Les démocraties : Etats-Unis, France, Grande- Bretagne, Italie,
+BOIX,   C.   y   STOKES,   S.   C.   (2007):   The   Oxford   Handbook  of  Comparative  Politcs.  Oxford:  Oxford
+University Press
+
+DETH, J. W. (Ed.) (2013): Comparative politics: the problem of equivalence. Colchester: ECPR
+
+DOGAN,   M.   y   PÉLASSY,   D.   (1981):   Sociologie   politique   comparative.   París:  Económica.  Alianza
+editorial
+
+Francés:   AA.   VV.   (2015):   Les  Amériques,  des  constitutions  aux  démocraties.  París:  Éditions  de  la
+Maison des sciences de l’homme
+
+HAGUE,   R.,   HARROP,   M.  y  BRESLIN,  S.  (2004):  Comparative  government  and  politics:  an  introduction.
+Hampshire: McMillan
+
+MÉNY,   Y.   (1988):  Politique  comparée.  Les  démocraties  :  Etats-Unis,  France,  GrandeBretagne,  Italie,
 RFA. París: Montchrestien
 
 MÉNY,   Y.   y   SUREL,   Y.   (2009):   Politique  comparée.  Les  démocraties  :  Etats-Unis,  France,  Grande-
 Bretagne, Italie, RFA. París: Montchrestien
 
+NOHLEN,   D.   (2013)   Ciencia   Política  Comparada.  En  enfoque  histórico-empírico.  Granada:  SANCHEZ  DE
+DIOS, M. (2012): Política comparada. Madrid: Síntesis
+
+POWELL,   G.B.,   DALTON,  R.J.  y  STROM,  K.  (2012):  Comparative  politics  today:  a  world  view.  New  York:
+Pearson/Longman
+
 SEILER, D. L. (1982): La politique comparée. París: Armand Colin
 
 SEILER, D. L.(1986): De la comparaison des partis politiques. Paris: Economica
 
-VAN BEEK, U. (Ed.) (2019): Democracy under threat: a crisis of legitimacy?. Cham
+SZMOLKA VIDA, I. y DE CUETO, C. (2011): Objeto y método de la Política Comparada
 
-📚 Recursos sin cambios:
+VAN BEEK, U. (Ed.) (2019): Democracy under threat: a crisis of legitimacy?. Cham: Palgrave Macmillan
+
+📚 Recursos sin cambios (32):
 ------------------------------
 ACHIN,   C.  y  BERENI,  L.  (2013):  Dictionnaire  genre  &  science  politique:  concepts,  objets,  problèmes.
 Paris: Presses de Sciences Po
 
-ALMOND, G. A. (2004): Comparative politics today: a world view. New York: Pearson/Longman
-
-ALMOND,   G.   A.   y  POWELL,  G.  B.  (1978):  Política  comparada:  una  concepción  evolutiva.  Buenos  Aires:
-Paidós
-
 BADIE, B. (1986): Culture et politique. Paris: Presses Universitaires d'Aix-Marseille
 
 BADIE, B. y HERMET, G. (1993): Política comparada. Méjico: Fondo de Cultura Económica
-
-BOIX,   C.   y   STOKES,   S.   C.   (2009):   The   Oxford   Handbook  of  Comparative  Politcs.  Oxford:  Oxford
-University Press
 
 CARAMANI. D. (2023): Comparative Politics. Oxford: Oxford University Press
 
@@ -46,6 +57,11 @@ autoritaires au XXIe siècle : convergences Nord/Sud. París: La Découverte
 
 DURAN   CENIT,   M.  y  SZMOLKA  VIDA,  I.  (Ed.)  (2015):  Política  Comparada  y  Sistemas  Políticos:  operando
 con datos e indicadores. Granada: Editorial de la Universidad de Granada
+
+En   las   respectivas   Guías   Didácticas   de  cada  grupo  se  concretan  las  lecturas  específicas  para  el
+seguimiento   de   cada   tema.   Así   mismo,   todo  el  alumnado  podrá  utilizar  los  siguientes  manuales  y
+revistas   especializadas:   Manuales   recomendados:   ALMOND,   G.   A.  y  POWELL,  G.  B.  (1978):  Política
+comparada: una concepción evolutiva. Buenos Aires: Paidós
 
 GAZIBO,   M.   y   J.   JENSON,   J.   (2004):   La   politique   comparée   fondements,   enjeux  et  approches
 théoriques. Montréal: Presses de l'Université de Montréal
@@ -97,9 +113,6 @@ University Press
 NOHLEN,   D.   (2007):   Ciencia   Política.   Teoría   institucional   y   relevancia  del  contexto.  Bogotá:
 Editorial de la Universidad del Rosario
 
-NOHLEN, D. (2013) Ciencia Política Comparada. En enfoque histórico-empírico. Granada: Universidad de
-Granada
-
 ROHLFING,   I.   (2012):  Case  Studies  and  Causal  Inference.  An  Integrative  Framework.  London:  Palgrave
 Macmillan
 
@@ -109,8 +122,13 @@ SODARO, M. (2006): Política y Ciencia Política. Una introducción. Madrid: Mc 
 
 STEPAN, A. (2001): Arguing comparative politics. Oxford: Oxford University Press
 
-SZMOLKA   VIDA,   I.   (Ed.)   (2012):   Elementos   para  el  análisis  comparado  de  los  sistemas  y  procesos
-políticos. Granada: Editorial de la Universidad de Granada
+SZMOLKA   VIDA,   I.   (Ed.)   (2012):   Elementos   para  el  análisis  comparado  de  los  sistemas  y  Revistas
+especializadas:   Comparative   Politics   Comparative   European  Politics  Comparative  Political  Studies
+Comparative   Studies   of   South   Asia,   Africa   and   the   Middle  East  Democratization  Government  and
+Opposition   Journal   of   Democracy   L'Année   du   Magreb  Mediterranean  Politics  Revista  Cidob  d’Afers
+Internacionals Revista de Estudios Internacionales Mediterráneos Revista Latinoamericana de Política
+Comparada   Revue   Internationale   de   Politique  Comparé  World  Politics  Inglés:  ALMOND,  G.  A.  (2004):
+Comparative politics today: a world view. New York: Pearson/Longman
 
 THIRIOT,   C.,   MARTY,   M.   y   NADAL,   E.   (2004):   Penser  la  politique  comparée.  Un  état  des  savoirs
 théoriques et méthodologiques. París: Karthala
@@ -118,43 +136,32 @@ théoriques et méthodologiques. París: Karthala
 ZUCKERMAN,   A.   S.  (2008):  Comparative  Political  Science.  Vm.  1,  2,  3  y  4.  Los  Angeles/Londres/Nueva
 Delhi, Singapore: Sage Library of Political Science
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (27):
 ------------------------------
-HAGUE,   R.,   HARROP,   M.  y  BRESLIN,  S.  (2004):  Comparative  government  and  politics:  an  introduction.
-Hampshire:   McMillan   →  DICKOVICK,  J.T.,  EASTWOOD,  J.,  LeBLANC,  R.M.  y  PONCE  DE  LEÓN,  Z.  (2023)  (4th
-ed.):   Comparative   Politics.   Integrating   Theories,  Methods,  and  Cases  .  Oxford:  Oxford  University
-Press.   HAGUE,   R.,   HARROP,   M.   y   BRESLIN,   S.   (2004):   Comparative   government  and  politics:  an
-introduction. Hampshire: McMillan
+ALMOND, G. A. (2004): Comparative politics today: a world view. New York: Pearson/Longman
 
-POWELL,   G.B.,   DALTON,  R.J.  y  STROM,  K.  (2012):  Comparative  politics  today:  a  world  view.  New  York:
-Pearson/Longman   →   POWELL,   G.B.,   DALTON,   R.J.   y  STROM,  K.  (2018):  Comparative  politics  today:  a
-world view . (11th ed.). New York: Pearson/Longman
+ALMOND,   G.   A.   y  POWELL,  G.  B.  (1978):  Política  comparada:  una  concepción  evolutiva.  Buenos  Aires:
+Paidós
 
-SANCHEZ    DE   DIOS,   M.   (2012):   Política   comparada.   Madrid:   Síntesis   →   O’NEIL,   P.H.   (2022):
-Fundamentos   de  Política  Comparada.  (7ª  ed.).  Madrid:  Alianza  Editorial.  SANCHEZ  DE  DIOS,  M.  (2012):
-Política comparada. Madrid: Síntesis
+BOIX,   C.   y   STOKES,   S.   C.   (2009):   The   Oxford   Handbook  of  Comparative  Politcs.  Oxford:  Oxford
+University Press
 
-DETH,   J.   W.   (Ed.)   (2013):   Comparative  politics:  the  problem  of  equivalence.  Colchester  →  CLARK,
-R.M.   y   Golder,   S.   2018.   Principles  of  Comparative  Politics.  CQ  Press.  DETH,  J.  W.  (Ed.)  (2013):
-Comparative politics: the problem of equivalence. Colchester: ECPR
+CLARK,   R.M.   y   Golder,   S.   2018.   Principles  of  Comparative  Politics.  CQ  Press.  DETH,  J.  W.  (Ed.)
+(2013): Comparative politics: the problem of equivalence. Colchester: ECPR
 
-BOIX,   C.   y   STOKES,   S.  C.  (2007):  The  Oxford  Handbook  of  Comparative  Politcs.  Oxford  →  BOIX,  C.  y
-STOKES, S. C. (2009): The Oxford Handbook of Comparative Politcs. Oxford: Oxford University Press
-
-DOGAN,   M.   y   PÉLASSY,   D.  (1981):  Sociologie  politique  comparative.  París:  Económica  →  DOGAN,  M.  y
-PÉLASSY, D. (1984): Sociologie politique comparative. París: Económica. Alianza editorial
-
-SZMOLKA VIDA, I. y DE CUETO, C. (2011): Objeto y método de la Política Comparada. Granada: Editorial
-de   la   Universidad   de   Granada   →   SZMOLKA  VIDA,  I.  y  DE  CUETO,  C.  (2025):  Fundamentos  de  Política
-Comparada. Granada: Editorial de la Universidad de Granada
-
-✅ Recursos añadidos:
-------------------------------
 Comparative European Politics
 
 Comparative Political Studies
 
 Comparative Studies of South Asia, Africa and the Middle East
+
+DICKOVICK,   J.T.,   EASTWOOD,   J.,   LeBLANC,   R.M.   y  PONCE  DE  LEÓN,  Z.  (2023)  (4th  ed.):  Comparative
+Politics.   Integrating   Theories,   Methods,   and  Cases  .  Oxford:  Oxford  University  Press.  HAGUE,  R.,
+HARROP,   M.   y   BRESLIN,  S.  (2004):  Comparative  government  and  politics:  an  introduction.  Hampshire:
+McMillan
+
+DOGAN,   M.   y   PÉLASSY,   D.   (1984):   Sociologie   politique   comparative.   París:  Económica.  Alianza
+editorial
 
 Democratization
 
@@ -168,13 +175,20 @@ Journal of Democracy
 
 L'Année du Magreb
 
-Manuales recomendados
-
 Mediterranean Politics
+
+NOHLEN, D. (2013) Ciencia Política Comparada. En enfoque histórico-empírico. Granada: Universidad de
+Granada
 
 O’NEIL,   P.   (2021):   Essentials   of   Comparative   Politics   (7th   ed.).   New   York:   W.W.   Norton  y
 Company.POWELL, G.B., DALTON, R.J. y STROM, K. (2012): Comparative politics today: a world view. New
 York: Pearson/Longman
+
+O’NEIL, P.H. (2022): Fundamentos de Política Comparada. (7ª ed.). Madrid: Alianza Editorial. SANCHEZ
+DE DIOS, M. (2012): Política comparada. Madrid: Síntesis
+
+POWELL,   G.B.,   DALTON,   R.J.   y   STROM,  K.  (2018):  Comparative  politics  today:  a  world  view  .  (11th
+ed.). New York: Pearson/Longman
 
 Revista Cidob d’Afers Internacionals
 
@@ -184,10 +198,14 @@ Revista de Estudios Internacionales Mediterráneos
 
 Revistas especializadas
 
-Revue Internationale de Politique Comparé
+SZMOLKA   VIDA,   I.   (Ed.)   (2012):   Elementos   para  el  análisis  comparado  de  los  sistemas  y  procesos
+políticos. Granada: Editorial de la Universidad de Granada
+
+SZMOLKA   VIDA,  I.  y  DE  CUETO,  C.  (2025):  Fundamentos  de  Política  Comparada.  Granada:  Editorial  de  la
+Universidad de Granada
 
 VIGOUR, C. (2016). La comparaison dans les sciences sociales . La Découverte
 
 World Politics
 
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+📊 Porcentaje estimado de cambio: 69% [██████░░░░]

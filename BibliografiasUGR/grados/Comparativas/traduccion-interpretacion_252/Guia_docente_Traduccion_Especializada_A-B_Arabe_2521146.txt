@@ -2,13 +2,17 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
-Cabré Castellví, M. Teresa (2002). “Análisis textual y terminología, factores de activación de la La
-traducción científico-técnica y la terminología en la sociedad de la información. Castellón
+No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
+Aguessim El Ghazouani, A.(2004).“Traducción Social e Inmigración”. Trujumán nº 2, volume 13. Tánger:
+Imprimerie Altopress, 59-74
+
+Aguessim El Ghazouani, A.(2006).Diccionario jurídico español-árabe. Granada: Comares
+
 Aguessim El Ghazouani, A.(2007).“El diccionario jurídico español-árabe como herramienta útil para la
 traducción   en   el  ámbito  del  Derecho  y  la  mediación  intercultural”.  Translation  Journal.  Volume  11,
 nº 4 (Octubre)
@@ -25,6 +29,9 @@ and Prospects. Serie New Trends in Translation Studies (Vol.4). Oxford/Bern: Pet
 
 Byrne,    Jody    (2006).   Technical   Translation.   Usability   strategies   for   Translating   Technical
 Documentation. Dordrecht: Springer
+
+Cabré   Castellví,   M.   Teresa  (2002).  “Análisis  textual  y  terminología,  factores  de  activación  de  la
+competencia cognitiva en la traducción”. Alcina Caudet, A. y Gomero Pérez, S. (eds.)
 
 Faruqi, H. S. (1983). Faruqi's Law Dictionary: Arabic-English. Beirut: Library du Liban
 
@@ -51,25 +58,14 @@ traducción especializada. Castellón de la Plana: Universidad Jaime I
 Najjar,   I.   et   al.   (3ª  ed.)  (1991).  Dictionnaire  juridique  français-arabe.  Beirouth:  Librairie  du
 Liban Publishers
 
-Ribo Duran, L. (1987).Diccionario de Derecho.Barcelona : Bosch
+Ribo   Duran,   L.  (1987).Diccionario  de  Derecho.Barcelona  :  Bosch.  9789953613656  ﺃﻃﻠﺲ  ﺟﺴﻢ  ﺍﻹﻧﺴﺎﻥ،  ﺩﺍﺭ
+ﺍﻟﺸﺮﻕ ﺍﻟﻌﺮﺑﻲ، ﺑﻴﺮﻭﺕ ﻟﺒﻨﺎﻥ، ﺍﻟﺮﻗﻢ ﺍﻟﺪﻭﻟﻲ ﺍﻟﻤﻮﺣﺪ ﻟﻠﻜﺘﺎﺏ
 
 Sager,   Juan  Carlos  (2012).  La  traducción  especializada:  teoría  y  práctica  profesional[traducción  de
 Manuela Escobar Montero]. Córdoba: Universidad de Córdoba
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Aguessim El Ghazouani, A.(2004).“Traducción Social e Inmigración”. Trujumán nº 2, volume Aguessim El
-Ghazouani,   A.(2006).Diccionario   jurídico   español-árabe.  Granada:  Comares  →  Aguessim  El  Ghazouani,
-A.(2006).Diccionario jurídico español-árabe. Granada: Comares
-
-✅ Recursos añadidos:
-------------------------------
-Aguessim El Ghazouani, A.(2004).“Traducción Social e Inmigración”. Trujumán nº 2, volume 13. Tánger:
-Imprimerie Altopress, 59-74
-
-Cabré   Castellví,   M.   Teresa  (2002).  “Análisis  textual  y  terminología,  factores  de  activación  de  la
-competencia cognitiva en la traducción”. Alcina Caudet, A. y Gomero Pérez, S. (eds.)
-
 أطلس جسم الإنسان، دار الشرق العربي، بيروت لبنان، الرقم الدولي الموحد للكتاب 9789953613656
 
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

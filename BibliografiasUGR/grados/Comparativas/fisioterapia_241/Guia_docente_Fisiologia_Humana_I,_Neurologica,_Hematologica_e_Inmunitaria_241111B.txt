@@ -2,11 +2,15 @@
 Grado: fisioterapia (241)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
+McGraw-Hill, 1985 Ojeda JL, Icardo JM. “Neuroanatomia Humana”. Masson, 2004
+
+Pocock G, Richards CD. “Fisiología humana. La base de la Medicina”. 2ª ed. Masson, 2005. 2021
+
 VVAA. “Inmunología Básica”. 5ª ed. Elsevier, 2017
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (30):
 ------------------------------
 Atlas médicos Netter FH. "Atlas de Neurociencia". Elservier, 4ª Ed. 2022
 
@@ -43,9 +47,13 @@ Koeppen BM, Stanton BA. “Berne y Levy Fisiología”. 8ª ed. Elsevier-Mosby, 
 
 Libros de texto Barrett KE. “Ganong Fisiología Médica”. 26ª ed. McGraw-Hill, 2020
 
+Libros de texto Bear MF, Connors BW, Paradiso MA. “Neurociencia. Exploración del cerebro”. 4ª ed
+
 Lichtman MA y otros. “Manual de Hematología”. 10ª ed. Interamericana-McGraw-Hill, 2023
 
 Netter, FH. “Atlas de Anatomía Humana”. 8ª ed. Masson, 2023
+
+Noback CR, Demarest RJ. “Sistema Nervioso Humano. Fundamentos de Neurobiología”. McGraw-Hill, 1985
 
 Nolte J, Angevine JB Jr. “El encéfalo humano en fotografías y esquemas”, 3ª ed. Elsevier, 2009
 
@@ -53,11 +61,7 @@ PHTLS. “Soporte vital básico y avanzado en el trauma prehospitalario”, 7ª 
 
 Parham P. “Inmunología”, 2ª ed. Panamericana, 2006
 
-Pocock G, Richards CD. “Fisiología humana. La base de la Medicina”. 2ª ed. Masson, 2005
-
 RodaK BF, Carr JH. “Atlas de Hematología Clínica”. 6ª ed. Editorial Médica Panamericana, 2023
-
-Rodríguez Ferrer JM. “Neurofisiología esencial”. 2ª ed. Editorial Universidad de Granada, 2021
 
 Ruiz Argüelles GJ. “Fundamentos de Hematología”. 6ª ed. Editorial Médica Panamericana, 2021
 
@@ -73,23 +77,20 @@ Panamericana, 2018
 
 Tresguerres JAF y otros. "Fisiología humana". 5ª ed. Interamericana-McGraw-Hill, 2020
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-McGraw-Hill,   1985   Ojeda  JL,  Icardo  JM.  “Neuroanatomia  Humana”.  Masson,  2004  →  Ojeda  JL,  Icardo  JM.
-“Neuroanatomia Humana”. Masson, 2004
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 Abbas Abul K. “Inmunología Básica”. 5ª ed. Elsevier, 2017
+
+Atlas médicos
 
 Barrett KE. “Ganong Fisiología Médica”. 26ª ed. McGraw-Hill, 2020
 
 Diccionario médico. Marban, 2005
 
-Diccionarios y atlas médicos
+Ojeda JL, Icardo JM. “Neuroanatomia Humana”. Masson, 2004
 
-Netter FH. "Atlas de Neurociencia". Elservier, 4ª Ed. 2022
+Pocock G, Richards CD. “Fisiología humana. La base de la Medicina”. 2ª ed. Masson, 2005
 
-Noback CR, Demarest RJ. “Sistema Nervioso Humano. Fundamentos de Neurobiología”. McGraw-Hill, 1985
+Rodríguez Ferrer JM. “Neurofisiología esencial”. 2ª ed. Editorial Universidad de Granada, 2021
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

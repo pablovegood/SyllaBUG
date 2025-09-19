@@ -2,14 +2,19 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 BLASCO   LAHOZ,   LOPEZ   GANDIA   y  MOMPARLER  CARRASCO:  «Curso  de  Seguridad  Social  (I):  Parte  General»,
 Tirant Lo Blanch, Valencia. Última edición
+
+En   cada   tema,  se  contiene  una  (elemental  en  este  caso)  referencia  a  textos  normativos  que  resultan
+de   aplicación.   La   referencia  se  limita  por  razones  pedagógicas  a  los  artículos  correspondientes  a
+textos   de   Ley  o  normas  con  fuerza  de  Ley.  Durante  las  explicaciones  se  usarán  y  se  hará  referencia
+expresa a los textos reglamentarios que sean de necesaria utilización
 
 HERNANDEZ,   VILCHEZ   PORRAS,   ÁLVAREZ  ALCOLEA,  DE  VAL  TENA,  GUTIÉRREZ  PÉREZ:  «Lecciones  de  Seguridad
 Social», edit. Tecnos, Madrid. Última edición
@@ -18,15 +23,8 @@ MONEREO   PÉREZ,   MOLINA   NAVARRETE,   QUESADA   SEGURA,  MORENO  VIDA,  MÁR
 MANUAL   DE  SEGURIDAD  SOCIAL,  Editorial  Tecnos,  Madrid  -última  edición-  (los  autores  han  elaborado  el
 Manual siguiendo la sistemática del Programa del Departamento)
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-No hubo cambios de edición/año.
+No hay elementos.
 
-✅ Recursos añadidos:
-------------------------------
-En   cada   tema,  se  contiene  una  (elemental  en  este  caso)  referencia  a  textos  normativos  que  resultan
-de   aplicación.   La   referencia  se  limita  por  razones  pedagógicas  a  los  artículos  correspondientes  a
-textos   de   Ley  o  normas  con  fuerza  de  Ley.  Durante  las  explicaciones  se  usarán  y  se  hará  referencia
-expresa a los textos reglamentarios que sean de necesaria utilización
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -2,11 +2,46 @@
 Grado: psicologia (264)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (10):
 ------------------------------
-No hay elementos.
+Gaviria   Stewart,   E.,   López  Sáez,  M.  y  Cuadrado,  I.  (Coords.)  (2013).  Introducción  a  la  Psicología
+Social.   Madrid:   Ed.   Sanz   y   Torres   Gil,   F.   y   Alcover  de  la  Hera,  C.  (1999)  Introducción  a  la
+psicología de los grupos. Madrid: Pirámide
 
-📚 Recursos sin cambios:
+Huici,   A.   Gómez   y   E.   Gaviria   (Coords.),   Método,   teoría   e  investigación  en  psicología  social
+(pp.263-279).   Madrid:  Pearson  Gómez-Berrocal,  C.  y  Huici,  C.  (2004).  La  comunicación  en  los  grupos.
+En C. Huici y J.F
+
+Huici,   C.  (Dir)  (1985)  Estructura  y  Procesos  de  Grupo.  Madrid:  UNED  Vol  I  y  II  Huici,  C.  y  Morales,
+J. F. (Dir.) (2004): Psicología de grupos I. Estructura y procesos. Madrid: UNED
+
+Lois,   D.,  Huici,  C.  y  Gómez-Berrocal,  C.  (2017).  Relaciones  intergrupales:  fundamentos  teóricos.  En
+F.   Molero,   D.   Lois,   C.   García-Ael  y  A.  Gómez  (Coords.).  Psicología  de  los  grupos,  (pp.277-313).
+Madrid:   UNED   Martín-Baró,   I.   (2004)  Sistema  grupo  y  poder.  Psicología  social  desde  Centroamérica
+(II). San Salvador: UCA Editores
+
+López Sáez, M., Gaviria Stewart, E., Bustillos, A. y Fernández, S. (2013). Cuaderno de investigación
+en   Psicología   Social.   Madrid:   Ed.  Sanz  y  Torres  Molero,  F.,  Lois,  D.,  García-Ael,  C.  y  Gómez,  A.
+(Coords.) (2017). Psicología de los Grupos
+
+López-Sáez,   M.   (2007).   Principios   básicos   de   influencia   social.  En  .F.  Morales,  M.C.  Moya,  E.
+Gaviria e I. Cuadrado (Coords.), Psicología Social (3ª ed.). Madrid: McGraw-Hill Milgram, S. (1974).
+Obedience   to   authority:   An   experimental  view.  Nueva  York:  Harper  and  Row.  (v.c.:  Obediencia  a  la
+autoridad, Bilbao, Desclée de Brower, 1989)
+
+Tajfel, H. & Turner, J. C. (1986). The social identitiy theory of intergroup behavior. En S
+
+Tajfel, H. y Turner, J. C. (1986). The social identity theory of intergroup behavior. En S
+
+Worchel   y  W.  Austin  (Eds.),  Psychology  of  intergroup  relations  (2ª  ed.,  pp.  7-24),  Chicago:  Nelson-
+Hall   (version   en  castellano:  La  teoría  de  la  identidad  social  de  la  conducta  intergrupal.  En  J.  F.
+Morales y C. Huici (comps.), Lecturas de Psicología Social (pp.225-259). Madrid: UNED, 1989)
+
+Yela,   C.   (2000).   El   amor   desde   la   Psicología  Social.  Ni  tan  libres  ni  tan  racionales.  Madrid:
+Pirámide   Asch,   S.E.   (1952).   Social   Psychology.   Englewood   Cliffs:  PrenticeHall  (existe  versión
+castellana en Eudeba, Buenos Aires)
+
+📚 Recursos sin cambios (95):
 ------------------------------
 Allport, F. H. (1923). La falacia del grupo en relación con la ciencia social. Revista de Psicología
 Social, 0, 71-81, 1985
@@ -24,12 +59,12 @@ Aggression. Personality and Social Psychology Review, 9 (3), 212-230
 Arias,   A.   (2007).   Psicología   social   de  la  agresión.  En  J.F.  Morales,  M.C.  Moya,  E.  Gaviria  e  I.
 Cuadrado (Coords.), Psicología Social (3ª ed.). Madrid: McGraw-Hill
 
-Asch,   S.E.   (1952).  Social  Psychology.  Englewood  Cliffs:  PrenticeHall  (existe  versión  castellana  en
-Eudeba, Buenos Aires)
-
 Ayestarán, S. (1996). El grupo como construcción social. Barcelona: Plural
 
 Baron, R. A., y Richardson, D. R. (1994). Human aggression (2nd ed.). New York: Plenum Press
+
+Baumeister,   R.  F.  (1998).  The  Self.  En  D.  T.  Gilbert,  S.  T.  Fiske,  y  G.  Lindzey,  (Eds.)  Handbook  of
+Social Psychology (4ª ed.) (pp. 680-740). Boston: McGraw-Hill
 
 Beal,   D.J.,  Cohen,  R.R.,  Burke,  M.J.  y  McLendon,  C.L.  (2003).  Cohesion  and  performance  in  groups:  a
 meta-analytic clarification of construct relations. Journal of Applied Psychology, 6, 989-1.004
@@ -53,6 +88,12 @@ Buss,   D.M.   (1994/1996).   La   evolución   del   deseo:  Estrategias  del  
 Alianza
 
 Canto, J. M. (1998). Psicología de los grupos. Estructura y procesos. Málaga: Aljibe
+
+Canto,   J.   M.   (2000).  Dinámica  de  grupos.  Aspectos  técnicos,  ámbitos  de  intervención  y  fundamentos
+teóricos. Málaga: Aljibe
+
+Canto,   J.   M.   (2011).   Psicología   social   de  los  grupos.  En  M.  Moya  y  R.  Rodríguez-Bailón  (Eds.),
+Fundamentos de Psicología Social (pp. 341-368). Madrid: Pirámide
 
 Canto,   J.M.   (1994).   Psicología   social   e   influencia.  Estrategias  de  poder  y  procesos  de  cambio.
 Málaga: Aljibe
@@ -104,6 +145,8 @@ Forsyth, D. (2006). Group Dynamics. Nueva York: Thompson
 Gaviria   Stewart,   E.,   López  Sáez,  M.  y  Cuadrado,  I.  (Coords.)  (2013).  Introducción  a  la  Psicología
 Social. Madrid: Ed. Sanz y Torres
 
+Geen, R. G. (1990). Human aggression. Pacific Grove, CA: Brooks/Cole
+
 Gil,   F.  (2003).  Dirección  y  liderazgo.  En  Gil,  F.  y  Alcover,  C.  Mª.  (Coords..)  (2003).  Introducción
 a la Psicología de las organizaciones. 285-318. Madrid: Alianza Editorial
 
@@ -131,6 +174,9 @@ Gómez-Berrocal, C. (2008). Psicología social, lenguaje y comunicación. En J.F
 Gómez   y   E.   Gaviria   (Coords.),   Método,  teoría  e  investigación  en  psicología  social  (pp.263-279).
 Madrid: Pearson
 
+Gómez-Berrocal,   C.   y   Huici,   C.  (2004).  La  comunicación  en  los  grupos.  En  C.  Huici  y  J.F.  Morales
+(Dirs.): Psicología de grupos I. Estructura y procesos (pp.199-227). Madrid: UNED
+
 Hewstone,   M.   y   otros   (1990).   Introducción   a   la   Psicología   Social:   una  perspectiva  europea.
 Barcelona, Ariel
 
@@ -151,8 +197,8 @@ decisión social. En C. Huici y J. F. Morales, Psicología de los grupos (pp. 28
 Huici,   C.   (2004b).   Decisión   en   grupo   II:  El  pensamiento  de  grupo.  En  C.  Huici  y  J.  F.  Morales,
 Psicología de los grupos (pp. 325-342). Madrid: UNED
 
-Huici,   C.   y   Morales,   J.  F.  (Dir.)  (2004):  Psicología  de  grupos  I.  Estructura  y  procesos.  Madrid:
-UNED
+Huici,   C.   y   Gómez   Berrocal,   C.  (2004).  Las  relaciones  intergrupales.  En  C.  Huici  y  J.F.  Morales
+(Dir.): Psicología de grupos I. Estructura y procesos (pp. 369-407). Madrid: UNED
 
 Huici,   C.   y   Morales,   J.   F.   (Dirs.)   (2004):   Psicología   de   grupos   II.   Métodos,   técnicas  y
 aplicaciones. Madrid: UNED
@@ -175,11 +221,20 @@ en 1963)
 
 Mackal, P. K. (1983). Teorías psicológicas de la agresión. Madrid: Pirámide
 
+Madrid: UNED Morales, J.F. (Coord.) (2007). Psicología Social (3ª Ed.). Madrid: McGraw-Hill
+
 Markus,   H.,   &   Kitayama,   S.  (1991).  Culture  and  the  self:  Implications  for  cognition,  emotion  and
 motivational. Psychological Review, 98, 224-253
 
 Martínez,   M.   y   García,   M.   (1995).   La  perspectiva  psicosocial  en  la  conceptualización  del  apoyo
 social. Revista de Psicología Social, 10(1), 61-74
+
+Molero,   F.   (2004).   Cohesión   grupal.   En  C.  Huici  y  J.F.  Morales  (Dirs.):  Psicología  de  grupos  I.
+Estructura   y   procesos   (229-252).  Madrid:  UNED  Molero,  F.  (2004).  El  liderazgo.  En  C.  Huici  y  J.F.
+Morales (Dir.): Psicología de grupos I
+
+Molero,   F.   (2004).   El   liderazgo.   En   C.   Huici   y   J.F.  Morales  (Dir.):  Psicología  de  grupos  I.
+Estructura y procesos (pp.141-169). Madrid: UNED
 
 Morales, J.F. y Huici, C. (Dirs.) (2003) Estudios de Psicología Social. Madrid: UNED
 
@@ -230,10 +285,14 @@ Ruiz,   J.   y  Herrera,  A.  (2011).  Toma  de  decisiones  grupal.  En  M.  Mo
 Fundamentos de Psicología Social (pp. 369-391). Madrid: Pirámide
 
 Schroeder,   D.A.,  Penner,  L.A.,  Dovidio,  J.F.  y  Piliavin,  J.A.  (1995).  The  psychology  of  helping  and
-altruism. Problems and puzzles. Nueva York: McGraw-Hill
+altruism. Problems and puzzles. Nueva York: McGraw-Hill Baumeister, R. F. y Leary, M. R. (1995). The
+need    to    belong:   Desire   for   interpersonal   attachments   as   a   fundamental   human   motivation.
+Psychological Bulletin, 117, 497-529
 
 Sedikides,   C.   &   Brewer,   M.   B.   (2002).   Individual   self,   relational   self,   collective   self.
 Philadelphia, PA: Psychology Press
+
+Shaw, M. E. (1994) Dinámica de Grupos. Barcelona: Herder (5ª Edic.)
 
 Sidanius,   J.   y   Pratto,   F.   (1999).   The   dinamics   of   social  dominance  and  the  inevitability  of
 oppression.   En   P.   Sniderman   y  P.E.  Tetlock  (Eds.),  Prejudice,  politics  and  race  in  America  today
@@ -246,128 +305,67 @@ Sternberg, R. (1989). El triángulo del amor: intimidad, pasión y compromiso. B
 Swann,   W.B.,   &   Bosson,  J.  K.  (2010).  Self  and  identity.  En  S.  T.  Fiske,  T.  Gilbert,  y  G.  Lindzey,
 Handbook of Social Psychology (5ª ed.) (pp. 589-628). Nueva York: Wiley
 
-TEMA   5.  AUTOCONCEPTO  E  IDENTIDAD  SOCIAL  Baumeister,  R.  F.  (1998).  The  Self.  En  D.  T.  Gilbert,  S.  T.
-Fiske,   y   G.   Lindzey,  (Eds.)  Handbook  of  Social  Psychology  (4ª  ed.)  (pp.  680-740).  Boston:  McGraw-
-Hill
+Tajfel, H. & Turner, J. C. (1986). The social identitiy theory of intergroup behavior. En S. Worchel
+y   W.   Austin   (Eds.),   Psychology   of  intergroup  relations  (2ª  ed.,  pp.  7-24),  Chicago:  Nelson-Hall
+(version   en   castellano:   La   teoría   de   la   identidad  social  de  la  conducta  intergrupal.  En  J.  F.
+Morales y C. Huici (comps.), Lecturas de Psicología Social (pp.225-259). Madrid: UNED, 1989)
 
 Tajfel, H. (1984). Grupos humanos y categorías sociales. Barcelona: Hérder, 1981
 
 Tedeschi, J. T., y Felson, R. B. (1994). Violence, aggression, and coercive actions. Washington, DC:
 American Psychological Association
 
-Yela,   C.   (2000).   El   amor   desde   la   Psicología  Social.  Ni  tan  libres  ni  tan  racionales.  Madrid:
-Pirámide
+Worchel, S. y otros (2003). Psicología Social. Madrid, Thomson
 
 Yukl,   G.(1999):   An   evaluation   of   conceptual   weaknesses   in   transformational   and   charismatic
 leadership theories, Leadership Quarterly, 10, (2), 285-305
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (28):
 ------------------------------
-Worchel   y  W.  Austin  (Eds.),  Psychology  of  intergroup  relations  (2ª  ed.,  pp.  7-24),  Chicago:  Nelson-
-Hall   (version   en  castellano:  La  teoría  de  la  identidad  social  de  la  conducta  intergrupal.  En  J.  F.
-Morales   y   C.   Huici   (comps.),   Lecturas   de  Psicología  Social  (pp.225-259).  Madrid:  UNED,  1989)  →
-Tajfel, H. & Turner, J. C. (1986). The social identitiy theory of intergroup behavior. En S. Worchel
-y   W.   Austin   (Eds.),   Psychology   of  intergroup  relations  (2ª  ed.,  pp.  7-24),  Chicago:  Nelson-Hall
-(version   en   castellano:   La   teoría   de   la   identidad  social  de  la  conducta  intergrupal.  En  J.  F.
-Morales y C. Huici (comps.), Lecturas de Psicología Social (pp.225-259). Madrid: UNED, 1989)
-
-Huici,   C.  (Dir)  (1985)  Estructura  y  Procesos  de  Grupo.  Madrid:  UNED  Vol  I  y  II  Huici,  C.  y  Morales,
-J.   F.   (Dir.)   (2004):   Psicología   de   grupos  I.  Estructura  y  procesos.  Madrid:  UNED  →  Huici,  C.  y
-Morales, J. F. (Dir.) (2004): Psicología de grupos I. Estructura y procesos. Madrid: UNED
-
-López Sáez, M., Gaviria Stewart, E., Bustillos, A. y Fernández, S. (2013). Cuaderno de investigación
-en   Psicología   Social.   Madrid:   Ed.  Sanz  y  Torres  Molero,  F.,  Lois,  D.,  García-Ael,  C.  y  Gómez,  A.
-(Coords.)   (2017).   Psicología  de  los  Grupos.  Madrid:  UNED  Morales,  J.F.  (Coord.)  (2007).  Psicología
-Social   (3ª   Ed.).   Madrid:   McGraw-Hill   →   López   Sáez,   M.,   Gaviria  Stewart,  E.,  Bustillos,  A.  y
-Fernández, S. (2013). Cuaderno de investigación en Psicología Social. Madrid: Ed. Sanz y Torres
-
-Shaw,   M.   E.   (1994)   Dinámica   de  Grupos.  Barcelona:  Herder  (5ª  Edic.)  Worchel,  S.  y  otros  (2003).
-Psicología   Social.   Madrid,   Thomson   →   Worchel,   S.   y   otros   (2003).  Psicología  Social.  Madrid,
-Thomson
-
-Tajfel,   H.   y   Turner,   J.   C.   (1986).   The   social  identity  theory  of  intergroup  behavior.  En  S  →
-Tajfel, H. & Turner, J. C. (1986). The social identitiy theory of intergroup behavior. En S. Worchel
-y   W.   Austin   (Eds.),   Psychology   of  intergroup  relations  (2ª  ed.,  pp.  7-24),  Chicago:  Nelson-Hall
-(version   en   castellano:   La   teoría   de   la   identidad  social  de  la  conducta  intergrupal.  En  J.  F.
-Morales y C. Huici (comps.), Lecturas de Psicología Social (pp.225-259). Madrid: UNED, 1989)
-
-Tajfel,   H.   &   Turner,   J.   C.   (1986).   The  social  identitiy  theory  of  intergroup  behavior.  En  S  →
-Tajfel, H. & Turner, J. C. (1986). The social identitiy theory of intergroup behavior. En S. Worchel
-y   W.   Austin   (Eds.),   Psychology   of  intergroup  relations  (2ª  ed.,  pp.  7-24),  Chicago:  Nelson-Hall
-(version   en   castellano:   La   teoría   de   la   identidad  social  de  la  conducta  intergrupal.  En  J.  F.
-Morales y C. Huici (comps.), Lecturas de Psicología Social (pp.225-259). Madrid: UNED, 1989)
-
-Huici,   A.   Gómez   y   E.   Gaviria   (Coords.),   Método,   teoría   e  investigación  en  psicología  social
-(pp.263-279).   Madrid:  Pearson  Gómez-Berrocal,  C.  y  Huici,  C.  (2004).  La  comunicación  en  los  grupos.
-En   C.   Huici  y  J.F  →  Gómez-Berrocal,  C.  (2008).  Psicología  social,  lenguaje  y  comunicación.  En  J.F.
-Morales,   C.   Huici,   A.   Gómez  y  E.  Gaviria  (Coords.),  Método,  teoría  e  investigación  en  psicología
-social (pp.263-279). Madrid: Pearson
-
-Canto,   J.   M.  (2000).  Dinámica  de  grupos.  Aspectos  técnicos,  ámbitos  de  intervención  y  Canto,  J.  M.
-(2011).   Psicología   social   de   los  grupos.  En  M.  Moya  y  R.  Rodríguez-Bailón  (Eds.),  Fundamentos  de
-Psicología   Social   (pp.   341-368).  Madrid:  Pirámide  →  Canto,  J.  M.  (2011).  Psicología  social  de  los
-grupos.   En   M.   Moya   y  R.  Rodríguez-Bailón  (Eds.),  Fundamentos  de  Psicología  Social  (pp.  341-368).
-Madrid: Pirámide
-
-Lois,   D.,   Huici,   C.   y   Gómez-Berrocal,   C.  (2017).  Relaciones  intergrupales:  fundamentos  grupos,
-(pp.277-313).   Madrid:   UNED   Martín-Baró,   I.  (2004)  Sistema  grupo  y  poder.  Psicología  social  desde
-Centroamérica   (II).   San   Salvador:   UCA   Editores   →  Martín-Baró,  I.  (2004)  Sistema  grupo  y  poder.
-Psicología social desde Centroamérica (II). San Salvador: UCA Editores
-
-López-Sáez,   M.   (2007).   Principios   básicos   de   influencia   social.  En  .F.  Morales,  M.C.  Moya,  E.
-Gaviria e I. Cuadrado (Coords.), Psicología Social (3ª ed.). Madrid: McGraw-Hill Milgram, S. (1974).
-Obedience   to   authority:   An   experimental  view.  Nueva  York:  Harper  and  Row.  (v.c.:  Obediencia  a  la
-autoridad,   Bilbao,   Desclée   de   Brower,   1989)   →   Milgram,   S.  (1974).  Obedience  to  authority:  An
-experimental   view.  Nueva  York:  Harper  and  Row.  (v.c.:  Obediencia  a  la  autoridad,  Bilbao,  Desclée  de
-Brower, 1989)
+Asch,   S.E.   (1952).  Social  Psychology.  Englewood  Cliffs:  PrenticeHall  (existe  versión  castellana  en
+Eudeba, Buenos Aires)
 
 Gaviria   Stewart,   E.,   López  Sáez,  M.  y  Cuadrado,  I.  (Coords.)  (2013).  Introducción  a  la  Psicología
-Social.   Madrid:   Ed.   Sanz   y   Torres   Gil,   F.   y   Alcover  de  la  Hera,  C.  (1999)  Introducción  a  la
-psicología   de   los   grupos.   Madrid  →  Gil,  F.  y  Alcover,  C.  M.  (1999).  Introducción  a  la  psicología
-de los grupos. Madrid: Pirámide
-
-✅ Recursos añadidos:
-------------------------------
-Baumeister,   R.  F.  (1998).  The  Self.  En  D.  T.  Gilbert,  S.  T.  Fiske,  y  G.  Lindzey,  (Eds.)  Handbook  of
-Social Psychology (4ª ed.) (pp. 680-740). Boston: McGraw-Hill
-
-Baumeister, R. F. y Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as
-a fundamental human motivation. Psychological Bulletin, 117, 497-529
-
-Canto,   J.   M.   (2000).  Dinámica  de  grupos.  Aspectos  técnicos,  ámbitos  de  intervención  y  fundamentos
-teóricos. Málaga: Aljibe
-
-Geen, R. G. (1990). Human aggression. Pacific Grove, CA: Brooks/Cole
+Social. Madrid: Ed. Sanz y Torres
 
 Gil, F. y Alcover de la Hera, C. (1999) Introducción a la psicología de los grupos. Madrid: Pirámide
 
-Gómez-Berrocal,   C.   y   Huici,   C.  (2004).  La  comunicación  en  los  grupos.  En  C.  Huici  y  J.F.  Morales
-(Dirs.): Psicología de grupos I. Estructura y procesos (pp.199-227). Madrid: UNED
+Gómez-Berrocal, C. (2008). Psicología social, lenguaje y comunicación. En J.F. Morales, C. Huici, A.
+Gómez   y   E.   Gaviria   (Coords.),   Método,  teoría  e  investigación  en  psicología  social  (pp.263-279).
+Madrid: Pearson
 
 Huici, C. (Dir) (1985) Estructura y Procesos de Grupo. Madrid: UNED Vol I y II
 
-Huici,   C.   y   Gómez   Berrocal,   C.  (2004).  Las  relaciones  intergrupales.  En  C.  Huici  y  J.F.  Morales
-(Dir.): Psicología de grupos I. Estructura y procesos (pp. 369-407). Madrid: UNED
+Huici,   C.   y   Morales,   J.  F.  (Dir.)  (2004):  Psicología  de  grupos  I.  Estructura  y  procesos.  Madrid:
+UNED
 
 Lois,   D.,  Huici,  C.  y  Gómez-Berrocal,  C.  (2017).  Relaciones  intergrupales:  fundamentos  teóricos.  En
 F.   Molero,   D.   Lois,   C.   García-Ael  y  A.  Gómez  (Coords.).  Psicología  de  los  grupos,  (pp.277-313).
 Madrid: UNED
 
+López Sáez, M., Gaviria Stewart, E., Bustillos, A. y Fernández, S. (2013). Cuaderno de investigación
+en Psicología Social. Madrid: Ed. Sanz y Torres
+
 López-Sáez,   M.   (2007).   Principios   básicos   de   influencia   social.  En  .F.  Morales,  M.C.  Moya,  E.
 Gaviria e I. Cuadrado (Coords.), Psicología Social (3ª ed.). Madrid: McGraw-Hill
+
+Martín-Baró,   I.   (2004)   Sistema   grupo   y   poder.   Psicología  social  desde  Centroamérica  (II).  San
+Salvador: UCA Editores
+
+Milgram, S. (1974). Obedience to authority: An experimental view. Nueva York: Harper and Row. (v.c.:
+Obediencia a la autoridad, Bilbao, Desclée de Brower, 1989)
 
 Molero,   F.   (2004).   Cohesión   grupal.   En  C.  Huici  y  J.F.  Morales  (Dirs.):  Psicología  de  grupos  I.
 Estructura y procesos (229-252). Madrid: UNED
 
-Molero,   F.   (2004).   El   liderazgo.   En   C.   Huici   y   J.F.  Morales  (Dir.):  Psicología  de  grupos  I.
-Estructura y procesos (pp.141-169). Madrid: UNED
+Molero, F., Lois, D., García-Ael, C. y Gómez, A. (Coords.) (2017). Psicología de los Grupos. Madrid:
+UNED
 
 Molero, F., Lois, D., García-Ael, C. y Gómez, A. (Coords.) (2017). Psicología de los Grupos. Madrid:
 UNED
 
-Morales, J.F. (Coord.) (2007). Psicología Social (3ª Ed.). Madrid: McGraw-Hill
-
-Shaw, M. E. (1994) Dinámica de Grupos. Barcelona: Herder (5ª Edic.)
+Schroeder,   D.A.,  Penner,  L.A.,  Dovidio,  J.F.  y  Piliavin,  J.A.  (1995).  The  psychology  of  helping  and
+altruism. Problems and puzzles. Nueva York: McGraw-Hill
 
 TEMA 1. AGRESIÓN
 
@@ -377,14 +375,34 @@ TEMA 3. ATRACCIÓN, AMOR Y RELACIONES INTERPERSONALES
 
 TEMA 4. INFLUENCIA SOCIAL
 
+TEMA 5. AUTOCONCEPTO E IDENTIDAD SOCIAL
+
 TEMA 6. CONCEPTO DE GRUPO. FORMACIÓN, ESTRUCTURA Y TIPOS DE GRUPO
 
 TEMA 7. RELACIONES DENTRO DE LOS GRUPOS
 
 TEMA 8.- RELACIONES INTERGRUPALES. EL PREJUICIO. EL CONFLICTO
 
+Tajfel, H. & Turner, J. C. (1986). The social identitiy theory of intergroup behavior. En S. Worchel
+y   W.   Austin   (Eds.),   Psychology   of  intergroup  relations  (2ª  ed.,  pp.  7-24),  Chicago:  Nelson-Hall
+(version   en   castellano:   La   teoría   de   la   identidad  social  de  la  conducta  intergrupal.  En  J.  F.
+Morales y C. Huici (comps.), Lecturas de Psicología Social (pp.225-259). Madrid: UNED, 1989)
+
+Tajfel, H. & Turner, J. C. (1986). The social identitiy theory of intergroup behavior. En S. Worchel
+y   W.   Austin   (Eds.),   Psychology   of  intergroup  relations  (2ª  ed.,  pp.  7-24),  Chicago:  Nelson-Hall
+(version   en   castellano:   La   teoría   de   la   identidad  social  de  la  conducta  intergrupal.  En  J.  F.
+Morales y C. Huici (comps.), Lecturas de Psicología Social (pp.225-259). Madrid: UNED, 1989)
+
+Tajfel, H. & Turner, J. C. (1986). The social identitiy theory of intergroup behavior. En S. Worchel
+y   W.   Austin   (Eds.),   Psychology   of  intergroup  relations  (2ª  ed.,  pp.  7-24),  Chicago:  Nelson-Hall
+(version   en   castellano:   La   teoría   de   la   identidad  social  de  la  conducta  intergrupal.  En  J.  F.
+Morales y C. Huici (comps.), Lecturas de Psicología Social (pp.225-259). Madrid: UNED, 1989)
+
 Tajfel,   H.  y  Turner,  J.  C.  (1986).  The  social  identity  theory  of  intergroup  behavior.  En  S.  Worchel
 y   W.G.   Austin   (Eds.),   The  social  psychology  of  intergroup  relations  (2ª  ed.,  pp.  7-24).  Chicago:
 Nelson
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+Yela,   C.   (2000).   El   amor   desde   la   Psicología  Social.  Ni  tan  libres  ni  tan  racionales.  Madrid:
+Pirámide
+
+📊 Porcentaje estimado de cambio: 32% [███░░░░░░░]

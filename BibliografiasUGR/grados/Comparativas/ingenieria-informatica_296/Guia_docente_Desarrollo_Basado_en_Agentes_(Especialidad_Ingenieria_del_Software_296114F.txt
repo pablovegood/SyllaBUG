@@ -2,30 +2,41 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-An Introduction to Multiagent System. sMichael Wooldridge. Published by John Wiley & Sons, 2011
+Dignum. 2004 Intelligent Information Agents. Agent-Based Information Discovery and Management on the
+Internet. Matthias Klusch. Springer, 1999
 
 The use of SCRUM for laboratory sessions monitoring and evaluation in a university course. Enforcing
 transverse   competencies.   L.  Castillo.  SIIE  2014  (PDF)  A  virtual  laboratory  for  multiagent  systems:
-Joining efficacy, learning analytics and student satisfaction. L. Castillo. SIIE 2016 (PDF) Nominado
-a mejor paper
+Joining   efficacy,   learning   analytics   and   student   satisfaction.   L.   Castillo.   SIIE  2016  (PDF)
+Resultados preliminares más significativos tras cuatro años de aplicación de la
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
+"Agent-Based   Software   Development".   Michael   Luck,  Ronald  Ashri  and  Mark  d'Inverno.  Artech  House,
+2004
+
+A Model for Organizational Interaction: Based on Agents, Founded in Logic . V. Dignum. 2004
+
 Agent Technology. Foundations, Applications, and Markets . Edited by N.R. Jennings, M.J. Wooldridge.
 Springer, 1998
 
 Agentes software y sistemas multiagente . Juan Pavón y José L. Pérez. Pearson Educación, 2004
 
-Agentes software y sistemas multiagente : conceptos, arquitecturas y aplicaciones / Ana Mas. Pearson
-2005. Buscar copias en Biblioteca UGR
+An   Introduction   to   Multiagent  Systems  .  Michael  Wooldridge.  Published  by  John  Wiley  &  Sons,  2011.
+Buscar copias en Biblioteca UG R
+
+Buscar   copias   en  Biblioteca  UGR  Libro  en  línea  Multi-Agent  Systems.  An  Introduction  to  Distributed
+Artificial Intelligence. J. Ferber. Addison-Wesley, 1999
+
+Buscar copias en Biblioteca UGR ��Agentes software y sistemas multiagente : conceptos, arquitecturas
+y aplicaciones / Ana Mas. Pearson 2005
 
 Developing   multi-agent  systems  with  JADE  /  Fabio  Bellifemine,  Giovanni  Caire,  Dominic  Greenwood.  Ed
 John Wiley 2007. Buscar copias en Biblioteca UGR
 
-Multi-Agent   Systems.   An   Introduction  to  Distributed  Artificial  Intelligence  .  J.  Ferber.  Addison-
-Wesley, 1999
+Inteligencia Artificial: Un enfoque moderno . S. Russell, P. Norvig. Prentice Hall, 1996 (capítulo2)
 
 Multiagent   System:   A   Modern  Approach  to  Distributed  Artificial  Intelligence  .  Edited  by  G.  Weiss,
 MIT Press, 1999 (capítulo1, capítulo2). Buscar copias en Biblioteca UGR Libro en línea
@@ -34,36 +45,20 @@ Reading in Agents . M.N. Huhns, M.P. Singh. Morgan Kaufmann Publishers, Inc. 200
 
 Software Agents . Bradshaw, Jeffrey M. (Editor). MIT Press, 1997. Buscar copias en Biblioteca UGR
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (10):
 ------------------------------
-Dignum. 2004 Intelligent Information Agents. Agent-Based Information Discovery and Management on the
-Internet.   Matthias  Klusch.  Springer,  1999.  Inteligencia  Artificial:  Un  enfoque  moderno.  S.  Russell,
-P.    Norvig.    Prentice   Hall,   1996   (capítulo2)   →   Intelligent   Information   Agents.   Agent-Based
-Information Discovery and Management on the Internet. Matthias Klusch. Springer, 1999
-
-✅ Recursos añadidos:
-------------------------------
-"Agent-Based   Software   Development".   Michael   Luck,  Ronald  Ashri  and  Mark  d'Inverno.  Artech  House,
-2004
-
-A Model for Organizational Interaction: Based on Agents, Founded in Logic . V. Dignum. 2004
-
 A Model for Organizational Interaction: Based on Agents, Founded in Logic. V. Dignum. 2004
 
 Alan   H.   Bond  and  Les  Gasser.  A  survey  of  distributed  artificial  intelligence  .  In  Alan  H.  Bond  and
 Les   Gasser,  Readings  in  Distributed  Artificial  Intelligence,  Morgan  Kaufmann  Publishers,  San  Mateo,
 CA, 1988
 
-An   Introduction   to   Multiagent  Systems  .  Michael  Wooldridge.  Published  by  John  Wiley  &  Sons,  2011.
 Buscar copias en Biblioteca UG R
-
-Buscar copias en Biblioteca UG R
-
-Buscar copias en Biblioteca UGR
-
-Inteligencia Artificial: Un enfoque moderno . S. Russell, P. Norvig. Prentice Hall, 1996 (capítulo2)
 
 Intelligent   Information   Agents.  Agent-Based  Information  Discovery  and  Management  on  the  Internet  .
+Matthias Klusch. Springer, 1999
+
+Intelligent   Information   Agents.   Agent-Based  Information  Discovery  and  Management  on  the  Internet.
 Matthias Klusch. Springer, 1999
 
 JADE Agent Platform
@@ -72,6 +67,9 @@ Libro en línea
 
 Magentix Agent Platform
 
+Multi-Agent   Systems.   An   Introduction  to  Distributed  Artificial  Intelligence  .  J.  Ferber.  Addison-
+Wesley, 1999
+
 Yoav Shoham: Agent Oriented Programming. Logic at Work 1992: 123-129
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 54% [█████░░░░░]

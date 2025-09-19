@@ -2,11 +2,15 @@
 Grado: educacion-primaria-bilingue (256)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+DIEZ   DE   VELASCO,F   (2012):Religiones  en  España..Historia  y  presente.Madrid  –AKAL  DIEZ  DE  VELASCO,F
+(2014):Breve historia de las Religiones.AKAL
 
-📚 Recursos sin cambios:
+LAUREN,   B.  Y  REFOULE,  F.  (1985).  Iniciación  a  la  práctica  de  la  Teología,  5vol.  Madrid,  Cristiandad
+LLANO, A. (2007): En busca de la trascendencia. Encontrar a Dios en el mundo actual. Ariel. Madrid
+
+📚 Recursos sin cambios (14):
 ------------------------------
 BALLESTEROS ALARCON,V (2019): Religión y cultura. Granada.AVICAM
 
@@ -17,10 +21,14 @@ Asociación de editores del Catecismo
 
 COMBY, J (1991): Para leer la historia de la Iglesia I y II. Pamplona, Verbo Divino
 
+DE   CARDEDAL,   O.   GONZALEZ   FAUS   J.   Y   RATZINGER,   J.   (1997):   Salvador   del   Mundo.  Cristología
+fundamental. Salamanca, Secretariado Trinitario
+
 DIAZ, C. (1997): Manual de Historia de las Religiones. Bilbao, Desclée
 
 FERNÁNDEZ,   M.  (2002):  Conocer  a  Jesucristo  en  el  ámbito  escolar.  Granada  EU.  FLECHA,  J.  R.,  (1997):
-Teología moral fundamental. Madrid, BAC. GONZALEZ
+Teología   moral   fundamental.  Madrid,  BAC.  GONZALEZ  DE  CARDEDAL,  O.  GONZALEZ  FAUS  J.  Y  RATZINGER,  J.
+(1997): Salvador del Mundo
 
 GONZÁLEZ   DE   CARVAJAL,   L.   (2005):   Esta   es  nuestra  Fe.  Teología  para  universitarios,  Sal  Terrae,
 Santander
@@ -37,22 +45,13 @@ RATZINGER, J. (2006): Introducción al Cristianismo, Ed Sígueme, Salamanca
 
 RATZINGER, J. (2007): Jesús de Nazaret Iglesia. Madrid, La Esfera de los Libros
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-DIEZ   DE   VELASCO,F   (2012):Religiones  en  España..Historia  y  presente.Madrid  –AKAL  DIEZ  DE  VELASCO,F
-(2014):Breve   historia   de   las   Religiones.AKAL   →   DIEZ   DE  VELASCO,F  (2014):Breve  historia  de  las
-Religiones.AKAL
-
-LAUREN,   B.  Y  REFOULE,  F.  (1985).  Iniciación  a  la  práctica  de  la  Teología,  5vol.  Madrid,  Cristiandad
-LLANO,   A.   (2007):  En  busca  de  la  trascendencia.  Encontrar  a  Dios  en  el  mundo  actual  →  LAUREN,  B.  Y
-REFOULE, F. (1985). Iniciación a la práctica de la Teología, 5vol. Madrid, Cristiandad
-
-✅ Recursos añadidos:
-------------------------------
-DE   CARDEDAL,   O.   GONZALEZ   FAUS   J.   Y   RATZINGER,   J.   (1997):   Salvador   del   Mundo.  Cristología
-fundamental. Salamanca, Secretariado Trinitario
-
 DIEZ DE VELASCO,F (2012):Religiones en España..Historia y presente.Madrid –AKAL
+
+DIEZ DE VELASCO,F (2014):Breve historia de las Religiones.AKAL
+
+LAUREN, B. Y REFOULE, F. (1985). Iniciación a la práctica de la Teología, 5vol. Madrid, Cristiandad
 
 LLANO, A. (2007): En busca de la trascendencia. Encontrar a Dios en el mundo actual. Ariel. Madrid
 

@@ -2,11 +2,16 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Bartol,   C.   (1999).   Criminal   Behavior:   A   psychosocial   approach.  NY:  Prentice  Hall  Blaxter,  L.,
+Hughes, C., & Tight, M. (2000). Cómo se hace una investigación. Barcelona: Gedisa
 
-📚 Recursos sin cambios:
+León,   O.   G.   &   Montero,   I.  (2015).  Métodos  de  investigación  en  psicología  y  educación.  (4ª  Ed.).
+Madrid:   McGraw-Hill.   (en   su   defecto,  la  edición  de  2006  o  2004  también  valdrían)  Losada,  J.  L.  &
+López-Feal, R. (2003). Métodos de investigación en ciencias humanas y sociales. Madrid: Thomson
+
+📚 Recursos sin cambios (27):
 ------------------------------
 Anguera,   M.   T.,   Arnau,   J.,  Ato,  G.  M.,  Martínez,  A.  R.,  Pascual,  Ll.  J.  y  Vallejo,  S.  G.  (1995).
 Métodos de Investigación en Psicología.Madrid: Síntesis Psicología
@@ -70,32 +75,26 @@ objetivista. Revista de Filosofía, 27(1), 161-190
 Ordine, N. (2013). La utilidad de lo inútil. Barcelona: Acantilado
 
 Ramos,   M.,   Catena,   A.,   &   Trujillo,   H.  (2004).  Manual  de  métodos  y  técnicas  de  investigación  en
-Ciencias del Comportamiento. Madrid: Biblioteca Nueva
+Ciencias   del   Comportamiento.   Madrid:  Biblioteca  Nueva  Stangeland,  P.,  Garrido,  M.  (2004):  El  mapa
+del crimen. Herramientas geográficas para policías y criminólogos. Valencia: Tirant lo Blanch
 
 Walker, M. (1997). Cómo escribir trabajos de investigación. Barcelona: Gedisa
 
 Wartofsky, M. W. (1976). Introducción a la filosofía de la ciencia. Madrid: Alianza
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-León,   O.   G.   &   Montero,   I.  (2015).  Métodos  de  investigación  en  psicología  y  educación.  (4ª  Ed.).
-Madrid:   McGraw-Hill.   (en   su   defecto,  la  edición  de  2006  o  2004  también  valdrían)  Losada,  J.  L.  &
-López-Feal,   R.   (2003).   Métodos  de  investigación  en  ciencias  humanas  y  sociales.  Madrid:  Thomson  →
-León,   O.   G.   &   Montero,   I.  (2015).  Métodos  de  investigación  en  psicología  y  educación.  (4ª  Ed.).
-Madrid: McGraw-Hill. (en su defecto, la edición de 2006 o 2004 también valdrían)
-
-Bartol,   C.   (1999).   Criminal   Behavior:   A   psychosocial   approach.  NY:  Prentice  Hall  Blaxter,  L.,
-Hughes,   C.,   &   Tight,   M.  (2000).  Cómo  se  hace  una  investigación.  Barcelona  →  Blaxter,  L.,  Hughes,
-C., & Tight, M. (2000). Cómo se hace una investigación. Barcelona: Gedisa
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Bartol, C. (1999). Criminal Behavior: A psychosocial approach. NY: Prentice Hall
+
+Blaxter, L., Hughes, C., & Tight, M. (2000). Cómo se hace una investigación. Barcelona: Gedisa
+
+León,   O.   G.   &   Montero,   I.  (2015).  Métodos  de  investigación  en  psicología  y  educación.  (4ª  Ed.).
+Madrid: McGraw-Hill. (en su defecto, la edición de 2006 o 2004 también valdrían)
 
 Losada,   J.   L.   &   López-Feal,   R.  (2003).  Métodos  de  investigación  en  ciencias  humanas  y  sociales.
 Madrid: Thomson
 
-Stangeland,   P.,   Garrido,   M.   (2004):  El  mapa  del  crimen.  Herramientas  geográficas  para  policías  y
-criminólogos. Valencia: Tirant lo Blanch
+Ramos,   M.,   Catena,   A.,   &   Trujillo,   H.  (2004).  Manual  de  métodos  y  técnicas  de  investigación  en
+Ciencias del Comportamiento. Madrid: Biblioteca Nueva
 
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

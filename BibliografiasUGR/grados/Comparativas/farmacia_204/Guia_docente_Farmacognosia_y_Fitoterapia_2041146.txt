@@ -2,17 +2,17 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+ESCOP   Monographs.  The  Scientific  Foundation  for  Herbal  Medicinal  Plants.  2ª  ed.,  Thieme,  Sttutgart,
+2003,   supl.   2009   Vanaclocha   B.   Cañigueral   S.   Fitoterapia.   Vademécum   de  prescripción.  5ª  ed.
+Barcelona:   Masson;   2019   Bruneton   J.   Pharmacognosie.   Phytochimie.   Plantes   Médicinales.  5ª  ed.
+Lavoisier; 2016
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Castillo   García,   E.,   Martínez   Solís,  I,  (Eds).  Manual  de  Fitoterapia.  3ªed.  Elsevier,  Barcelona,
 2021
-
-ESCOP   Monographs.  The  Scientific  Foundation  for  Herbal  Medicinal  Plants.  2ª  ed.,  Thieme,  Sttutgart,
-2003, supl. 2009
 
 Schulz,   V.,   Hänsel,  R.,  Blumenthal,  M.,  Tyler,  V.E.RationalPhytotherapy.  5ª  ed.,  Springer,  Berlin,
 2004
@@ -22,13 +22,13 @@ Elsevier, St. Louis, Missouri, 2010
 
 Villar, A.M. (ed.) Farmacognosia general. Síntesis, Madrid, 1999
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Masson;   2019  Bruneton  J.  Pharmacognosie.  Phytochimie.  Plantes  Médicinales.  5ª  ed.  Lavoisier;  2016  →
 Bruneton J. Pharmacognosie. Phytochimie. Plantes Médicinales. 5ª ed. Lavoisier; 2016
 
-✅ Recursos añadidos:
-------------------------------
+ESCOP   Monographs.  The  Scientific  Foundation  for  Herbal  Medicinal  Plants.  2ª  ed.,  Thieme,  Sttutgart,
+2003, supl. 2009
+
 Vanaclocha B. Cañigueral S. Fitoterapia. Vademécum de prescripción. 5ª ed. Barcelona: Masson; 2019
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

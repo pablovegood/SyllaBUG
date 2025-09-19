@@ -2,11 +2,11 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (74):
 ------------------------------
 Alonso-Quecuty,   M.L.   (1993):   Interrogando   a   testigos,   víctimas   y  sospechosos:  La  obtención  de
 información   exacta.  En  M.  Diges  y  M.L.  Alonso-Quecuty.  Psicología  forense  experimental  (pp.  85-98).
@@ -28,33 +28,13 @@ Mentales. Panamericana
 Arce,   R.,   y  Fariña,  F.  (2005).  Peritación  psicológica  de  la  credibilidad  del  testimonio,  la  huella
 psíquica y la simulación: El Sistema de Evaluación Global (SEG). Papeles del Psicólogo, 26, 59-77
 
-Clemente   y   Espinosa  (2001).  La  mente  criminal.  Teorías  explicativas  del  delito  desde  la  Psicología
-Jurídica. Madrid: Dykinson
-
-Manzanero,   A.  (2010).  Memoria  de  testigos  :  obtención  y  valoración  de  la  prueba  testifical.  Madrid:
-Pirámide
-
-Ovejero,   A.   (2009).   Fundamentos   de   Psicología  jurídica  e  investigación  criminal.  Salamanca:  Ed.
-Univ. Salamanca
-
-San Juan, C. y Vozmediano, L. (2018). Psicología Criminal. Madrid: Síntesis
-
-Soria, M.A (2005). Manual de Psicología jurídica e investigación criminal. Madrid: Pirámide
-
-Soria, M.A. y Sáiz, D. (Coords.) (2006): Psicología Criminal. Madrid: Pearson Educación
-
-Soto, J. E. (2017). Manual de Investigación Psicológica del Delito: el método VERA. Madrid: Pirámide
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Cantón, J y Cortés. M.R. (2003). Guía para la evaluación del abuso sexual infantil. Madrid: Pirámide
 
 Casullo,   M.   M.   (Comp.)  (1999).  Aplicaciones  del  MMPI-2  en  los  ámbitos  clínico,  forense  y  laboral.
 Barcelona: Paidós
+
+Clemente   y   Espinosa  (2001).  La  mente  criminal.  Teorías  explicativas  del  delito  desde  la  Psicología
+Jurídica. Madrid: Dykinson
 
 Clemente, M. (Corrd.) (1995). Fundamentos de Psicología Jurídica. Madrid: Pirámide
 
@@ -128,6 +108,9 @@ presentación de los hechos. Anuario de Psicología Jurídica, 12, 87-114
 López, M.J. y Núñez, M.C. (2009). Psicopatía versus trastorno antisocial de la personalidad. Revista
 Española de Investigación Criminológica, 7, 1-17
 
+Manzanero,   A.  (2010).  Memoria  de  testigos  :  obtención  y  valoración  de  la  prueba  testifical.  Madrid:
+Pirámide
+
 Manzanero,   A.   L.   y  Diges,  M.  (1993).  Evaluación  subjetiva  de  la  exactitud  de  las  declaraciones  de
 los testigos: La Credibilidad. Anuario de Psicología Jurídica, 3, 7-28
 
@@ -151,6 +134,9 @@ Psicología Jurídica, 10, 11-24
 Otín   del   Castillo,   J.M.   (2013).   Psicología   criminal   :   técnicas   aplicadas   de  intervención  e
 investigación policial. Valladolid: Lex Nova
 
+Ovejero,   A.   (2009).   Fundamentos   de   Psicología  jurídica  e  investigación  criminal.  Salamanca:  Ed.
+Univ. Salamanca
+
 Quecuty,   M.   (1991).   Mentira   y   Testimonio:   El   peritaje   forense  de  la  credibilidad.  Anuario  de
 Psicología Jurídica, 1, 55-67
 
@@ -173,6 +159,8 @@ sociedad. Granada: Grupo Editorial Universitario
 
 Rutter, M. y Giller, H. (1988). Delincuencia Juvenil. Barcelona: Martínez Roca
 
+San Juan, C. y Vozmediano, L. (2018). Psicología Criminal. Madrid: Síntesis
+
 Sanmartín, J. (Coord) (2004) El laberinto de la violencia: causas, tipos y efectos. Barcelona: Ariel
 
 Segura,   A.   (1998).   El   imputado  y  el  testigo  ante  el  Juez.  Psicología  del  Interrogatorio.  Madrid:
@@ -183,10 +171,14 @@ Serrano Maillo, A. (2004). Introducción a la criminología. Madrid: Dykinson
 Sobral,   J.   y   Arce,   R.   (1990).   La   Psicología   Social   en   la   Sala  de  Justicia.  El  jurado  y  el
 testimonio. Barcelona: Paidós
 
+Soria, M.A (2005). Manual de Psicología jurídica e investigación criminal. Madrid: Pirámide
+
 Soria, M.A (2021). Manual de Psicología jurídica, penal e investigación criminal. Madrid: Pirámide
 
 Soria,   M.A.   Y   Romo,   J.   (2016).   Manual  de  perfilación  criminal  y  análisis  de  conducta  criminal.
 Madrid: Pearson
+
+Soria, M.A. y Sáiz, D. (Coords.) (2006): Psicología Criminal. Madrid: Pearson Educación
 
 Soria-Verde, M. A. (1998). Psicología y práctica jurídica. Barcelona: Arial Derecho
 
@@ -197,6 +189,8 @@ Soria-Verde, M.A. (1998). Psicología y práctica jurídica. Barcelona: Ariel
 
 Soria-Verde,   M.A.   (Coord.)  (2005):  Manual  de  Psicología  Jurídica  e  investigación  criminal.  Madrid:
 Pirámide
+
+Soto, J. E. (2017). Manual de Investigación Psicológica del Delito: el método VERA. Madrid: Pirámide
 
 Soto, J.E. (2014). Manual de investigación psicológica del delito. El método Vera. Madrid: Pirámide
 
@@ -209,4 +203,8 @@ Urra, J. (Comp.) (2002). Tratado de Psicología Forense. Madrid: Siglo XXI
 
 Vázquez, B. (2005). Manual de psicología forense. Madrid: Síntesis
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

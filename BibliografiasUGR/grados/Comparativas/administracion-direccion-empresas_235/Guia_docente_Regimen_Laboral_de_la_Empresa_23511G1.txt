@@ -2,11 +2,11 @@
 Grado: administracion-direccion-empresas (235)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 MANUAL   BÁSICO   DE   PREVENCIÓN   DE   RIESGOS   LABORALES,   Vida   Soria   J.  (Dir.),  Editorial  Lex  Nova,
 Valladolid, última edición
@@ -17,11 +17,7 @@ Comares. Granada, última edición
 MANUAL   DE   SEGURIDAD   SOCIAL,  Monereo  Pérez,  Molina  Navarrete,  Quesada  Segura,  Moreno  Vida,  Márquez
 Prieto, Maldonado Molina., Editorial Tecnos, Madrid, última edición
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

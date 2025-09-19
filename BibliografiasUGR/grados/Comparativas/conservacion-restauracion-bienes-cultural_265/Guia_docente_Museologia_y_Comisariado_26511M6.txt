@@ -2,18 +2,25 @@
 Grado: conservacion-restauracion-bienes-cultural (265)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Barcelona. Ariel, 2005
+GUTIÉRREZ   USILLOS,   Andrés:   Manual   Práctico   de   Museos.   Gijón,   Trea,  2012  HERNÁNDEZ  HERNÁNDEZ,
+Francisca. Planteamientos teóricos de la museología. Gijón, Trea, 2006
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 ALONSO FERNÁNDEZ, Luis. Museología y Museografía. Barcelona, Ediciones del Serbal, 1999
+
+BELCHER, Michael. Organización y diseño de exposiciones. Su relación con el museo. Gijón, Trea, 1997
+
+BELLIDO GANT, Mª Luisa. Aprendiendo de Latinoamérica. El museo como protagonista. Gijón, Trea, 2007
 
 BELLIDO   GANT,   Mª   Luisa.   Arte   y  museos  del  siglo  XXI.  Entre  los  nuevos  ámbitos  y  las  inserciones
 tecnológicas. Barcelona, UOC, 2013
 
 BELLIDO GANT, Mª Luisa. Arte, museos y nuevas tecnologías. Gijón, Trea, 2001
+
+BOLAÑOS, María (ed.). La memoria del mundo. Cien años de museología 1900-2000. Gijón, Trea, 2002
 
 BOLAÑOS, María. Historia de los museos en España: memoria, cultura, sociedad. Gijón, Trea, 1997
 
@@ -35,11 +42,16 @@ arquitectura como arte. Gijón, Trea, 2004
 LORENTE,   Jesús   Pedro.  Los  museos  de  arte  contemporáneo.  Noción  y  desarrollo  histórico.  Gijón,Trea,
 2008
 
+LORENTE,   Jesús  Pedro:  Manual  de  Historia  de  la  Museología.  Gijón,  Trea,  2012  MINISTERIO  DE  CULTURA:
+Criterios generales para la elaboración del plan museológico
+
 MARÍN   TORRES,   Mª   Teresa.   Historia   de   la   documentación   museológica:   la  gestión  de  la  memoria
 artística. Gijón, Trea, 2002
 
 MUÑOZ COSME, Alfonso. Los espacios de la mirada. Historia de la arquitectura de museos. Gijón, Trea,
 2007
+
+SANTACANA MESTRE, Joan y SERRAT ANTOLÍ, N. (coords.). Museografía Didáctica. Barcelona. Ariel, 2005
 
 SCHUBERT,   Karsten.   El   museo.   Historia   de   una   idea.   De  la  Revolución  Francesa  a  hoy.  Granada,
 Turpiana, 2008
@@ -49,22 +61,12 @@ público. Gijón, Trea, 1999
 
 ZUBIAUR CARREÑO, Francisco Javier. Curso de Museología. Gijón, Trea, 2004
 
-🔁 Misma obra con edición/año distinto:
+https://www.libreria.cultura.gob.es/libro/criterios-para-la-elaboracion-del-
+planmuseologico_5461/edicion/ebook-9529/   MORE,   Kevin   (coord.).  La  gestión  del  museo.  Gijón,  Trea,
+1998
+
+✅ Recursos añadidos (15):
 ------------------------------
-BOLAÑOS,   María   (ed.).   La   memoria   del   mundo.  Cien  años  de  museología  1900-2000  →  BOLAÑOS,  María
-(ed.). La memoria del mundo. Cien años de museología 1900-2000. Gijón, Trea, 2002
-
-LORENTE,   Jesús  Pedro:  Manual  de  Historia  de  la  Museología.  Gijón,  Trea,  2012  MINISTERIO  DE  CULTURA:
-Criterios   generales   para  la  elaboración  del  plan  museológico.  museologico_5461/edicion/ebook-9529/
-MORE,   Kevin   (coord.).   La   gestión   del  museo.  Gijón,  Trea,  1998  →  LORENTE,  Jesús  Pedro:  Manual  de
-Historia de la Museología. Gijón, Trea, 2012
-
-✅ Recursos añadidos:
-------------------------------
-BELCHER, Michael. Organización y diseño de exposiciones. Su relación con el museo. Gijón, Trea, 1997
-
-BELLIDO GANT, Mª Luisa. Aprendiendo de Latinoamérica. El museo como protagonista. Gijón, Trea, 2007
-
 CAEROLS-MATEO,   Raquel,  VIÑARÁS-ABAD,  Mónica  y  GONZÁLVEZ-VALLÉS,  Juan  Enrique  (2017).  Redes  sociales
 y   museos:   análisis  de  la  campaña  en  Twitter  para  el  Día  Internacional  de  los  Museos  y  Noche  de  los
 Museos. Revista Latina De Comunicación Social, (72), 220–234. https://doi.org/10.4185/RLCS-2017-1162
@@ -86,6 +88,8 @@ LLOCH   MOLINA,   Nayra   y   SANTACANA  MESTRE,  Joan.  «El  museo:  ¿edifici
 Museography     :     Vol.    9:    (enero-febrero    2012).    Museos    y    arquitectura,    pp.    16-19,.
 https://raco.cat/index.php/Hermus/article/view/313541/403659
 
+LORENTE, Jesús Pedro: Manual de Historia de la Museología. Gijón, Trea, 2012
+
 LÓPEZ BENITO, Victoria y LLOCH MOLINA, Nayra. «Una panorámica de los museos de mujeres en el mundo».
 Her&Mus.        Heritage        &        Museography,       2010,       vol.       3,       pp.       12-18,
 https://raco.cat/index.php/Hermus/article/view/313723
@@ -99,18 +103,10 @@ aplicaciones móviles en el contexto español», Her&Mus. Heritage & Museography
 octubre        2013).        Didáctica        del        patrimonio        &        tecnología       móvil.
 https://raco.cat/index.php/Hermus/article/view/313408
 
-MINISTERIO    DE    CULTURA:    Criterios    generales    para    la   elaboración   del   plan   museológico.
-https://www.libreria.cultura.gob.es/libro/criterios-para-la-elaboracion-del-plan-
-museologico_5461/edicion/ebook-9529/
-
-MORE, Kevin (coord.). La gestión del museo. Gijón, Trea, 1998
-
 RICO, Juan Carlos. Montaje de exposiciones: Museos. Arquitectura. Arte. Sílex, 2006
 
 SANTACANA   MESTRE,   Joan   y  MARTÍN  PIÑOL,  Carolina.  Manual  de  museografía  interactiva.  Gijón,  Trea,
 2010
-
-SANTACANA MESTRE, Joan y SERRAT ANTOLÍ, N. (coords.). Museografía Didáctica. Barcelona. Ariel, 2005
 
 STOFFEL   FERNÁNEZ,   Ana   María.   De  qué  hablamos  cuando  hablamos  de  Sociomuseología.  RdM.  Revista  de
 Museología: Publicación científica al servicio de la comunidad museológica, 53, 2012, pp. 8-14
@@ -118,4 +114,4 @@ Museología: Publicación científica al servicio de la comunidad museológica, 
 SÁEZ   LARA,   Fernando.   «Una   herramienta  llamada  plan  museológico»,  Museo:  Revista  de  la  Asociación
 Profesional de Museólogos de España, 13, pp. 37-87
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 43% [████░░░░░░]

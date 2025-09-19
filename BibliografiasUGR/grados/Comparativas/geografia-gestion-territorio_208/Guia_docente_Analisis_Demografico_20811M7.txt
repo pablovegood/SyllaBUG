@@ -2,11 +2,11 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (16):
 ------------------------------
 Desrosières,   Alain   (2004).La   política   de   los  grandes  números:  historia  de  la  razón  estadística.
 Barcelona: Melusina
@@ -53,11 +53,7 @@ de las poblaciones. Madrid: Espasa-Calpe
 Vinuesa,   Julio;   Zamora,  Francisco;  Serrano,  Pedro  y  Recaño.  Joaquín.  (1994).Demografía.  Análisis  y
 proyecciones.Madrid: Edt. Síntesis
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

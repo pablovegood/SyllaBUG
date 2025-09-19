@@ -2,11 +2,20 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Hurlbut,   C.S.   y   Klein,  C.  (1980).  Manual  of  Mineralogy  (3ª  Ed.)  John  Wiley.  New  York  Ineson,  P.R.
+(1989). Introduction to practical ore microscopy. Longman Scientific and Technical, UK Ltd. 181p
 
-📚 Recursos sin cambios:
+La   bibliografía   se   completa   con  la  recomendación  de  artículos,  documentos  científicos-técnicos  o
+webgrafía para algunos temas del programa
+
+Raith,   M.   M.,   Raase,   P.y   Reinhard,  J.  (2012).  Guide  to  Thin  Section  Microscopy.  Open  Book,  ISBN
+978-3-00-037671-9                                   (http://www.minsocam.org/msa/OpenAccess_publicati
+ons/Guide_Thin_Sctn_Mcrscpy/Thin_Sctn_Mcrscpy_2_rdcd_eng.pdf)   Gribble,   D.D.  y  Hall,  A.J.  (1985).  A
+practical introduction to optical mineralogy. George Allen & Unwin, London. 261
+
+📚 Recursos sin cambios (18):
 ------------------------------
 Berry, L.G., Mason, B. y Dietrich, R.V. (1983). Mineralogy (2ª Ed.). Freeman and Co. New York
 
@@ -53,23 +62,17 @@ Wenk, H.-R. y Bulakh, A. (2016). Minerals: Their Constitution and Origin. Cambri
 
 Zussman, J. (1977). Physical methods in determinative Mineralogy. Acad.Press. London
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-Hurlbut,   C.S.   y   Klein,  C.  (1980).  Manual  of  Mineralogy  (3ª  Ed.)  John  Wiley.  New  York  Ineson,  P.R.
-(1989).   Introduction   to  practical  ore  microscopy.  Longman  Scientific  and  Technical,  UK  Ltd.  181p  →
+Gribble,   D.D.   y   Hall,  A.J.  (1985).  A  practical  introduction  to  optical  mineralogy.  George  Allen  &
+Unwin, London. 261
+
+Hurlbut, C.S. y Klein, C. (1980). Manual of Mineralogy (3ª Ed.) John Wiley. New York
+
 Ineson,   P.R.  (1989).  Introduction  to  practical  ore  microscopy.  Longman  Scientific  and  Technical,  UK
 Ltd. 181p
-
-Raith,    M.    M.,    Raase,   P.y   Reinhard,   J.   (2012).   Guide   to   Thin   Section   Microscopy.   Open
-ons/Guide_Thin_Sctn_Mcrscpy/Thin_Sctn_Mcrscpy_2_rdcd_eng.pdf)   Gribble,   D.D.  y  Hall,  A.J.  (1985).  A
-practical   introduction   to   optical  mineralogy.  George  Allen  &  Unwin,  London.  261  →  Gribble,  D.D.  y
-Hall, A.J. (1985). A practical introduction to optical mineralogy. George Allen & Unwin, London. 261
-
-✅ Recursos añadidos:
-------------------------------
-Hurlbut, C.S. y Klein, C. (1980). Manual of Mineralogy (3ª Ed.) John Wiley. New York
 
 Raith,   M.M.,   Raase,   P.   y   Reinhardt,   J.  (2012).  Guía  para  la  microscopía  de  minerales  en  lámina
 delgada. Mineralogical Society of America
 
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]

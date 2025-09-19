@@ -2,29 +2,35 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
-Apuntes   de   la  asignaturaMatemáticas  Aplicadas  a  la  Biologíade  la  Universidad  de  Solá  Conde,  L.  E.,
+Apuntes     de    la    asignaturaMatemáticas    Aplicadas    a    la    Biologíade    la    Universidad    de
+Sevilla:http://departamento.us.es/edan/php/asig/GRABIO/GBM/ApuntesBIOMAB.pdf    Solá   Conde,   L.   E.,
 Introducción a los métodos matemáticos en Biología y Ciencias Ambientales, Paraninfo, 2016
 
-Cabello Píñar, J. C., Métodos Matemáticos. Editorial Godel, 2016
+Apuntes    de    la    asignaturaModelos    Matemáticos    en    Biologíadel    Prof.    Juan   Navas   Ureña:
+http://ucua.ujaen.es/jnavas/web_modelos/pdf_mmb08_09/texto%20completo.pdf    Cabello   Píñar,   J.   C.,
+Métodos Matemáticos. Editorial Godel, 2016
 
-Kuttler,   C.Mathematical   Models   in  Biology,  Springer  Mulero  Díaz,  A.  y  Ojeda  Martínez  de  Castilla,
-I.Matemáticas   para   Primero   de   Ciencias:   encias.pdf  J.D.  Murray,Mathematical  Biology  I.  An  Pérez
-González, F.J.Cálculo Diferencial e Integral de Funciones de Una Variable
+Kuttler,            C.Mathematical            Models            in            Biology,           Springer
+2015,https://link.springer.com/book/10.1007/978-3-642-27251-6   Mulero   Díaz,   A.  y  Ojeda  Martínez  de
+Castilla,             I.Matemáticas            para            Primero            de            Ciencias:
+http://matematicas.unex.es/~ojedamc/doc/500219/matematicas_para_primero_de_ci      encias.pdf     J.D.
+Murray,Mathematical   Biology   I.   An  Introduction:http://www.ift.unesp.br/users/mmenezes/mathbio.pdf
+Pérez    González,    F.J.Cálculo    Diferencial    e    Integral    de    Funciones    de    Una    Variable:
+http://www.ugr.es/~fjperez/textos/calculo_diferencial_integral_func_una_var.pdf
 
 Stewart,Cálculo diferencial e integral. Internacional Thomson Editores, 1998
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-No hubo cambios de edición/año.
+Apuntes    de   la   asignaturaMatemáticas   Aplicadas   a   la   Biologíade   la   Universidad   de   Sevilla:
+http://departamento.us.es/edan/php/asig/GRABIO/GBM/ApuntesBIOMAB.pdf
 
-✅ Recursos añadidos:
-------------------------------
 Apuntes    de    la    asignaturaModelos    Matemáticos    en    Biologíadel    Prof.    Juan   Navas   Ureña:
 http://ucua.ujaen.es/jnavas/web_modelos/pdf_mmb08_09/texto%20completo.pdf
 
@@ -37,7 +43,4 @@ https://link.springer.com/book/10.1007/978-3-642-27251-6
 Mulero    Díaz,    A.    y   Ojeda   Martínez   de   Castilla,   I.Matemáticas   para   Primero   de   Ciencias:
 http://matematicas.unex.es/~ojedamc/doc/500219/matematicas_para_primero_de_ciencias.pdf
 
-Solá   Conde,   L.   E.,   Introducción   a   los   métodos  matemáticos  en  Biología  y  Ciencias  Ambientales,
-Paraninfo, 2016
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

@@ -2,11 +2,15 @@
 Grado: antropologia-social-cultural (294)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Agreste,   A.   (2002)   Categorical   data   análisis.   Ed.  Wiley  and  Sons.  New  Cork  Welham,  S.L.  el  al.
+(2015) Statistics methods in biology. CRC Press. Taylor and Francis group
 
-📚 Recursos sin cambios:
+Martín   Andrés,  A.  y  Luna,  J.  D.  (1994)  Bioestadística  para  las  Ciencias  de  la  Salud  Pérez  López,  C.
+(2002) Estadística aplicada a través de Excel. Prentice Hall. Madrid
+
+📚 Recursos sin cambios (9):
 ------------------------------
 Abad,   F.;   Huete.  M.D.  y  Vargas,  M.  (2001).  Estadística  para  las  Ciencias  Sociales  y  Laborales.  Ed.
 Urbano. Granada
@@ -31,20 +35,14 @@ Editorial Tecnos. Madrid
 
 Sarrión Gavilán, Mª D. (coord.) (2013) Estadística Descriptiva. Mc Graw-Hill. Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Agreste,   A.   (2002)   Categorical   data   análisis.   Ed.  Wiley  and  Sons.  New  Cork  Welham,  S.L.  el  al.
-(2015)   Statistics   methods   in   biology.   CRC  Press.  Taylor  and  Francis  group  →  Welham,  S.L.  el  al.
-(2015) Statistics methods in biology. CRC Press. Taylor and Francis group
-
-Martín   Andrés,  A.  y  Luna,  J.  D.  (1994)  Bioestadística  para  las  Ciencias  de  la  Salud  Pérez  López,  C.
-(2002)   Estadística   aplicada   a   través  de  Excel.  Prentice  Hall.  Madrid  →  Martín  Andrés,  A.  y  Luna,
-J. D. (1994) Bioestadística para las Ciencias de la Salud
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Agreste, A. (2002) Categorical data análisis. Ed. Wiley and Sons. New Cork
 
+Martín Andrés, A. y Luna, J. D. (1994) Bioestadística para las Ciencias de la Salud
+
 Pérez López, C. (2002) Estadística aplicada a través de Excel. Prentice Hall. Madrid
 
-📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]
+Welham, S.L. el al. (2015) Statistics methods in biology. CRC Press. Taylor and Francis group
+
+📊 Porcentaje estimado de cambio: 46% [████░░░░░░]

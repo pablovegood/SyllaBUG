@@ -2,17 +2,29 @@
 Grado: ciencia-tecnologia-alimentos (203)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+ALONSO SEBASTIAN, R. y SERRANO BERMEJO, A. (2008): Economía de la empresa agroalimentaria. Ediciones
+Mundi-Prensa   BALLESTERO,   E.   (2000):   Economía   de   la   empresa   agraria   y  alimentaria.  Ediciones
+MundiPrensa [FFA/338.43 BAL eco] BUENO CAMPOS, E. (2010): Curso Básico de Economía de la Empresa. Un
+enfoque de
 
-📚 Recursos sin cambios:
+Pirámide   [FEG/602  01  GON]  Hoffman  A.  y  Mendoza,  M.  (2007):  De  cómo  margarita  Flores  puede  cuidar  su
+salud   y   ayudar  a  salvar  el  planeta.  8ª  edición.  Casa  de  la  Paz  Oyarzún,  L.  (1994):  Todos  queríamos
+ser verdes. Editorial Planeta
+
+Pérez   Gorostegui,  E.  (2007).  Introducción  a  la  economía  de  la  empresa.  Ed.  Centro  de  Estudios  Ramón
+Areces,   [FEG/602   01   PER]   Suárez,  A.S.  (2006):  Curso  de  economía  de  la  empresa,  Pirámide,  Madrid,
+[BPOL/658 SUA cur]
+
+📚 Recursos sin cambios (17):
 ------------------------------
+Bibliografía básica recomendada bloque II
+
+Bradford, M. (2013): La alimentación natural y energética. 16ª edición. Océano Editorial
+
 Caldentey,   P.;   Haro,   T.  de.;  Titos,  A.  y  Briz,  J.  (1994):  Marketing  Agrario.  Mundi-Prensa.  Madrid
 [FEG/603 04 MAR]
-
-Corcuera,   E.   y   Vhieghntart,   A.M.   (1982):   Ecología,  conservación,  desarrollo  y  calidad  de  vida.
-Caracas
 
 De   Miguel,   B.   y   Baixauli,  J.J.  (Coords.)  (2010):  Empresa  y  Economía  Industrial,  Ed.  McGraw  Hill,
 Madrid [FEG/602 01 EMP]
@@ -43,33 +55,23 @@ Introducción al marketing. Ed. Prentice-Hall, Madrid. 2ª Edición europea
 KOTLER,   P.,   CÁMARA,  D.,  GRANDE,  I.  Y  CRUZ,  I.  (2000).  Dirección  de  marketing.  Edición  del  Milenio.
 Ed. Prentice-Hall, Madrid
 
+Madrid   [FEG/603  04  MAR]  Corcuera,  E.  y  Vhieghntart,  A.M.  (1982):  Ecología,  conservación,  desarrollo
+y calidad de vida. Caracas
+
 SUÁREZ, A.S. (2003). Curso de Economía de la Empresa. Ed. Pirámide, Madrid. 7ª Edición
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Pirámide   [FEG/602  01  GON]  Hoffman  A.  y  Mendoza,  M.  (2007):  De  cómo  margarita  Flores  puede  cuidar  su
-salud   y   ayudar  a  salvar  el  planeta.  8ª  edición.  Casa  de  la  Paz  Oyarzún,  L.  (1994):  Todos  queríamos
-ser   verdes.   Editorial   Planeta   →   Hoffman  A.  y  Mendoza,  M.  (2007):  De  cómo  margarita  Flores  puede
-cuidar su salud y ayudar a salvar el planeta. 8ª edición. Casa de la Paz
+organización,   Pirámide,Madrid   [FEG/602  BUE  FUENTES,  M.M.  y  CORDON,  E.  (Coords.)  (2014):Fundamentos
+de   Dirección   y   Administración   de   Empresas,   Ed.  Pirámide,  Madrid  [FFA/658  FUN  fun]  Bibliografía
+básica   recomendada   bloque   I:   ARMSTRONG,   G.,   KOTLER,   P.,  &  OPRESNIK,  M.  (2019).  Marketing  :  an
+introduction (14th ed. global edition). Pearson
 
-ALONSO SEBASTIAN, R. y SERRANO BERMEJO, A. (2008): Economía de la empresa agroalimentaria. Ediciones
-Mundi-Prensa   BALLESTERO,   E.  (2000):  Economía  de  la  empresa  agraria  y  alimentaria.  Ediciones  Mundi-
-Prensa   [FFA/338.43   BAL   eco]   BUENO   CAMPOS,  E.  (2010):  Curso  Básico  de  Economía  de  la  Empresa.  Un
-enfoque   de   organización,   Pirámide,Madrid   [FEG/602   BUE   FUENTES,   M.M.   y   CORDON,   E.  (Coords.)
-(2014):Fundamentos de Dirección y Administración de Empresas, Ed. Pirámide, Madrid [FFA/658 FUN fun]
-ARMSTRONG,   G.,   KOTLER,   P.,   &   OPRESNIK,   M.  (2019).  Marketing  :  an  introduction  (14th  ed.  global
-edition).   Pearson   →   ARMSTRONG,  G.,  KOTLER,  P.,  &  OPRESNIK,  M.  (2019).  Marketing  :  an  introduction
-(14th ed. global edition). Pearson
-
-Pérez   Gorostegui,  E.  (2007).  Introducción  a  la  economía  de  la  empresa.  Ed.  Centro  de  Estudios  Ramón
-Areces,   [FEG/602   01   PER]   Suárez,  A.S.  (2006):  Curso  de  economía  de  la  empresa,  Pirámide,  Madrid,
-[BPOL/658   SUA   →   Suárez,  A.S.  (2006):  Curso  de  economía  de  la  empresa,  Pirámide,  Madrid,  [BPOL/658
-SUA cur]
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (9):
 ------------------------------
 ALONSO SEBASTIAN, R. y SERRANO BERMEJO, A. (2008): Economía de la empresa agroalimentaria. Ediciones
 Mundi-Prensa
+
+ARMSTRONG,   G.,   KOTLER,   P.,   &   OPRESNIK,   M.  (2019).  Marketing  :  an  introduction  (14th  ed.  global
+edition). Pearson
 
 BALLESTERO,   E.   (2000):   Economía   de   la   empresa   agraria   y   alimentaria.  Ediciones  Mundi-Prensa
 [FFA/338.43 BAL eco]
@@ -77,18 +79,17 @@ BALLESTERO,   E.   (2000):   Economía   de   la   empresa   agraria   y   alime
 BUENO   CAMPOS,   E.   (2010):   Curso   Básico   de   Economía   de  la  Empresa.  Un  enfoque  de  organización,
 Pirámide,Madrid [FEG/602 BUE
 
-Bibliografía básica recomendada bloque I
-
-Bibliografía básica recomendada bloque II
-
-Bradford, M. (2013): La alimentación natural y energética. 16ª edición. Océano Editorial
-
 FUENTES,   M.M.   y  CORDON,  E.  (Coords.)  (2014):Fundamentos  de  Dirección  y  Administración  de  Empresas,
 Ed. Pirámide, Madrid [FFA/658 FUN fun]
+
+Hoffman A. y Mendoza, M. (2007): De cómo margarita Flores puede cuidar su salud y ayudar a salvar el
+planeta. 8ª edición. Casa de la Paz
 
 Oyarzún, L. (1994): Todos queríamos ser verdes. Editorial Planeta
 
 Pérez   Gorostegui,  E.  (2007).  Introducción  a  la  economía  de  la  empresa.  Ed.  Centro  de  Estudios  Ramón
 Areces, [FEG/602 01 PER]
 
-📊 Porcentaje estimado de cambio: 63% [██████░░░░]
+Suárez, A.S. (2006): Curso de economía de la empresa, Pirámide, Madrid, [BPOL/658 SUA cur]
+
+📊 Porcentaje estimado de cambio: 46% [████░░░░░░]

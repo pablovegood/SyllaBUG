@@ -2,12 +2,15 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
 Catulo,   Poesías,   texto   latino,   intr.  y  trad.  de  J.  C.  Fernández  Corte  y  J.  A.  González  Iglesias,
 Madrid, Cátedra, 2006
 
-📚 Recursos sin cambios:
+Rosario   Moreno,  Madrid,  2004  CSIC  (Col.  Alma  Mater)  Ovidio,  Obras  completas,  ed.  bilingüe,  trad.  de
+A. Ramírez de Verger, Madrid, Espasa, 2005
+
+📚 Recursos sin cambios (14):
 ------------------------------
 Arribas   Hernández,   Mª.   L.   -   Mariner   Bigorra,  S.  -  Montero  Montero,  M.,  -  Usábel  Hernández,  P.,
 Lengua y Literatura latinas I y II, Madrid, UNED, 1990
@@ -27,7 +30,11 @@ Echave-Sustaeta, J., Vocabulario básico, Barcelona, Cefiso, 1975
 Fedro, Fábulas esópicas, Madrid, CSIC, 2011
 
 Marcial,   Epigramas   de   Marco   Valerio   Marcial,  texto  latino,  introducción.  traducción  y  notas,  J.
-Guillén, Zaragpza. Institución Fernando El Católico, 1986 (revisión de F. Argudo)
+Guillén,    Zaragpza.    Institución    Fernando    El    Católico,    1986    (revisión    de    F.   Argudo,
+http/www.dpz.es/ifz/libros/ebook2388.pdf)
+
+Marcial,   Epigramas   vol.   I   y   II,  Trad-  de  E.  Montero  y  J.  Fernández  Valverde;  introd.  de  Rosario
+Moreno, Madrid, 2004 CSIC (Col. Alma Mater)
 
 Miniconi, P.-J., Les Métamorphoses d´Ovide, París, Hachette, 1953
 
@@ -39,14 +46,7 @@ Segura Munguía, S., Método de Latín I y II, Bilbao, Deusto, 2012
 
 Valentí Fiol, E., Sintaxis latina, Barcelona, Bosch, 1987
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Marcial,   Epigramas   vol.   I   y   II,  Trad-  de  E.  Montero  y  J.  Fernández  Valverde;  introd.  de  Rosario
-Moreno,   Madrid,   2004   CSIC   (Col.   Alma   Mater)  Ovidio,  Obras  completas,  ed.  bilingüe,  trad.  de  A.
-Ramírez   de   Verger,  Madrid,  Espasa,  2005  →  Marcial,  Epigramas  vol.  I  y  II,  Trad-  de  E.  Montero  y  J.
-Fernández Valverde; introd. de Rosario Moreno, Madrid, 2004 CSIC (Col. Alma Mater)
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 Ovidio, Obras completas, ed. bilingüe, trad. de A. Ramírez de Verger, Madrid, Espasa, 2005
 

@@ -2,11 +2,13 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+LUEHRMAN,   Timothy   A.:   Capital   Projects  as  Real  Options:  An  Introduction,  Harvard  Business  School
+9-295-074   (Rev.   March   22,  1995)  LORING,  Jaime  (2000):  Opciones  y  futuros.  Ed.  Desclée  de  Brouwer,
+Bilbao
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
 BACCINI   D.R.  y  OTROS,  (2004):  Ingeniería  financiera:  Futuros  y  opciones  utilizando  Microsoft  Excel.
 Ed. Omicron System. Buenos Aires, 1ª edición
@@ -41,15 +43,11 @@ SUÁREZ SUÁREZ, A.S. (1993/6): Decisiones Óptimas de Inversión y Financiació
 TRIGEORIGIS,   L.:   Managerial   Flexibility   and   Strategy   in   Resource   Allocation.   The  MIT  Press,
 Cambrigde, 1996
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-LUEHRMAN,   Timothy   A.:   Capital   Projects  as  Real  Options:  An  Introduction,  Harvard  Business  School
-9-295-074   (Rev.   March   22,  1995)  LORING,  Jaime  (2000):  Opciones  y  futuros.  Ed.  Desclée  de  Brouwer,
-Bilbao  →  LORING, Jaime (2000): Opciones y futuros. Ed. Desclée de Brouwer, Bilbao
+LORING, Jaime (2000): Opciones y futuros. Ed. Desclée de Brouwer, Bilbao
 
-✅ Recursos añadidos:
-------------------------------
 LUEHRMAN,   Timothy   A.:   Capital   Projects  as  Real  Options:  An  Introduction,  Harvard  Business  School
 9-295-074 (Rev. March 22, 1995)
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

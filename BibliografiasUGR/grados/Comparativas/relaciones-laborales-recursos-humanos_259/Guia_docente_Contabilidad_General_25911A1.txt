@@ -2,11 +2,13 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-Pirámide, Madrid, 2008
+ARQUERO MONTAÑO, J.L: “Introducción a la contabilidad financiera”. Pirámide, Madrid, 2008
 
-📚 Recursos sin cambios:
+GALLEGO DIEZ, E.: “Manual práctico de contabilidad financiera”. Pirámide, Madrid, 2008
+
+📚 Recursos sin cambios (7):
 ------------------------------
 ALCARAZ QUILES, F. Y OTROS: “Supuestos de contabilidad para PYMES”, Pearson, Madrid, 2009
 
@@ -18,28 +20,31 @@ DIEZ,   E.:  “Manual  práctico  de  contabilidad  financiera”.  Pirámide, 
 “Contabilidad General”. Gestión 2000, Barcelona, 2008
 
 PLAN   GENERAL   DE   CONTABILIDAD.   Real   Decreto   1514/2007   de   16  de  noviembre  (BOE  nº  278  de  20  de
-noviembre de 2007)
+noviembre   de  2007)  PLAN  GENERAL  DE  CONTABILIDAD  DE  PYMES.  Real  Decreto  1515/2007  de  16  de  noviembre
+(BOE nº 279 de 21 de noviembre de 2007). Apuntes de clase
+
+SOCÍAS SALVA, A.: “Contabilidad financiera. El modelo contable básico.Teoría y supuestos”. Pirámide,
+Madrid, 2008
 
 SÁNCHEZ FERNÁNDEZ DE VALDERRAMA, J.L: “Teoría y práctica de la contabilidad”. Pirámide, Madrid, 2008
 
 WANDEN-BERGHE   LOZANO,   J.L  (Coord.):  "Contabilidad  Financiera.  Nuevo  Plan  General  de  Contabilidad  y
 de PYMES”, Pirámide, Madrid, 2008
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (4):
 ------------------------------
-ARQUERO   MONTAÑO,   J.L:   “Introducción   a   la   contabilidad   financiera”.   Pirámide,   Madrid,  2008  →
 ARQUERO   MONTAÑO,   J.L:  “Introducción  a  la  contabilidad  financiera”.  Pirámide,  Madrid,  2008.  GALLEGO
 DIEZ,   E.:  “Manual  práctico  de  contabilidad  financiera”.  Pirámide,  Madrid,  2008.  OMEÑACA  GARCÍA,  J.:
 “Contabilidad General”. Gestión 2000, Barcelona, 2008
 
-✅ Recursos añadidos:
-------------------------------
-Apuntes de clase
+ARQUERO   MONTAÑO,   J.L:  “Introducción  a  la  contabilidad  financiera”.  Pirámide,  Madrid,  2008.  GALLEGO
+DIEZ,   E.:  “Manual  práctico  de  contabilidad  financiera”.  Pirámide,  Madrid,  2008.  OMEÑACA  GARCÍA,  J.:
+“Contabilidad General”. Gestión 2000, Barcelona, 2008
 
 PLAN   GENERAL   DE  CONTABILIDAD  DE  PYMES.  Real  Decreto  1515/2007  de  16  de  noviembre  (BOE  nº  279  de  21
 de noviembre de 2007)
 
-SOCÍAS SALVA, A.: “Contabilidad financiera. El modelo contable básico.Teoría y supuestos”. Pirámide,
-Madrid, 2008
+PLAN   GENERAL   DE   CONTABILIDAD.   Real   Decreto   1514/2007   de   16  de  noviembre  (BOE  nº  278  de  20  de
+noviembre de 2007)
 
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

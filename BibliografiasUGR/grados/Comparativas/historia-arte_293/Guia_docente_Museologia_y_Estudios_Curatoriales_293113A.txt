@@ -2,11 +2,11 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+LAYUNO ROSAS, Mª Ángeles (2004): Museos de arte contemporáneo en España
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (24):
 ------------------------------
 ALONSO   FERNÁNDEZ,   Luís   (1995):   Museología:  introducción  a  la  teoría  y  práctica  del  museo.  Istmo.
 Madrid
@@ -20,6 +20,21 @@ BELLIDO GANT, Mª Luisa (2001): Arte, museos y nuevas tecnologías. Trea, Gijón
 
 BELLIDO GANT, Mª Luisa (2007): Aprendiendo de Latinoamérica. El museo como protagonista. Trea. Gijón
 
+BIBLIOGRAFÍA COMPLEMENTARIA: BELLIDO GANT, Mª Luisa (2001): Arte, museos y nuevas tecnologías. Trea,
+Gijón.   BELLIDO   GANT,   Mª   Luisa   (2007):  Aprendiendo  de  Latinoamérica.  El  museo  como  protagonista.
+Trea.   Gijón.   DÍAZ   BALERDI,   Iñaki  (2008):  La  memoria  fragmentada:  el  museo  y  sus  paradojas.  Trea.
+Gijón.   GÓMEZ   MARTÍNEZ,  Javier  (2006):  Dos  museologías.  Las  tradiciones  anglosajona  y  mediterránea:
+diferencias   y  contactos.  Trea.  Gijón.  HOOPER-GREENHILL,  Eilean  (1998):  Los  museos  y  sus  visitantes.
+Trea.   Gijón.   LAYUNO  ROSAS,  Mª  Ángeles  (2004):  Museos  de  arte  contemporáneo  en  España.  Del  "palacio
+de   las  artes"  a  la  arquitectura  como  arte.  Trea.  Gijón.  MARÍN  TORRES,  Mª  Teresa  (2002):  Historia  de
+la documentación museológica: la gestión de la memoria artística. Trea. Gijón. MONTANER, Josep María
+(2003):   Museos   para  el  siglo  XXI.  Gustavo  Gili.  Barcelona.  MORE,  Kevin  (coord.)  (1998):  La  gestión
+del   museo.   Trea.   Gijón.   MUÑOZ   COSME,   Alfonso  (2007):  Los  espacios  de  la  mirada.  Historia  de  la
+arquitectura   de   museos.   Trea.   Gijón.   SANTACANA   MESTRE,  J.,  SERRAT  ANTOLÍ,  N.  (coords.)  (2005):
+Museografía   Didáctica.   Ariel.  Barcelona.  SCHUBERT,  Karsten  (2008):  El  museo.  Historia  de  una  idea.
+De la Revolución Francesa a hoy. Turpiana. Granada. VALDÉS SAGÜÉS, Mª del Carmen (1999): La difusión
+cultural en el museo: servicios destinados al gran público. Trea Gijón
+
 BOLAÑOS, María (1997): Historia de los museos en España: memoria, cultura, sociedad. Trea. Gijón
 
 BOLAÑOS, María (ed.) (2002): La memoria del mundo. Cien años de museología 1900-2000. Trea. Gijón
@@ -30,6 +45,8 @@ GÓMEZ   MARTÍNEZ,   Javier   (2006):   Dos   museologías.   Las   tradiciones
 diferencias y contactos. Trea. Gijón
 
 HERNÁNDEZ HERNÁNDEZ, Francisca (1998): El museo como espacio de comunicación. Trea. Gijón
+
+HERNÁNDEZ HERNÁNDEZ, Francisca (2006): Planteamientos teóricos de la museología. Trea. Gijón
 
 HERNÁNDEZ HERNÁNDEZ, Francisca. Manual de Museología. Madrid, Síntesis, 2001
 
@@ -61,13 +78,12 @@ público. Trea Gijón
 
 ZUBIAUR CARREÑO, Francisco Javier (2004): Curso de Museología. Trea. Gijón
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-LAYUNO    ROSAS,    Mª   Ángeles   (2004):   Museos   de   arte   contemporáneo   en   España   →   BIBLIOGRAFÍA
-COMPLEMENTARIA:   BELLIDO   GANT,   Mª   Luisa   (2001):   Arte,  museos  y  nuevas  tecnologías.  Trea,  Gijón.
-BELLIDO   GANT,   Mª   Luisa   (2007):   Aprendiendo   de  Latinoamérica.  El  museo  como  protagonista.  Trea.
-Gijón.   DÍAZ   BALERDI,   Iñaki  (2008):  La  memoria  fragmentada:  el  museo  y  sus  paradojas.  Trea.  Gijón.
-GÓMEZ   MARTÍNEZ,   Javier   (2006):   Dos   museologías.   Las   tradiciones   anglosajona   y  mediterránea:
+BIBLIOGRAFÍA COMPLEMENTARIA: BELLIDO GANT, Mª Luisa (2001): Arte, museos y nuevas tecnologías. Trea,
+Gijón.   BELLIDO   GANT,   Mª   Luisa   (2007):  Aprendiendo  de  Latinoamérica.  El  museo  como  protagonista.
+Trea.   Gijón.   DÍAZ   BALERDI,   Iñaki  (2008):  La  memoria  fragmentada:  el  museo  y  sus  paradojas.  Trea.
+Gijón.   GÓMEZ   MARTÍNEZ,  Javier  (2006):  Dos  museologías.  Las  tradiciones  anglosajona  y  mediterránea:
 diferencias   y  contactos.  Trea.  Gijón.  HOOPER-GREENHILL,  Eilean  (1998):  Los  museos  y  sus  visitantes.
 Trea.   Gijón.   LAYUNO  ROSAS,  Mª  Ángeles  (2004):  Museos  de  arte  contemporáneo  en  España.  Del  "palacio
 de   las  artes"  a  la  arquitectura  como  arte.  Trea.  Gijón.  MARÍN  TORRES,  Mª  Teresa  (2002):  Historia  de
@@ -79,40 +95,6 @@ Museografía   Didáctica.   Ariel.  Barcelona.  SCHUBERT,  Karsten  (2008):  El
 De la Revolución Francesa a hoy. Turpiana. Granada. VALDÉS SAGÜÉS, Mª del Carmen (1999): La difusión
 cultural en el museo: servicios destinados al gran público. Trea Gijón
 
-SANTACANA   MESTRE,   J.,   SERRAT   ANTOLÍ,   N.   (coords.)  (2005):  Museografía  Didáctica  →  BIBLIOGRAFÍA
-COMPLEMENTARIA:   BELLIDO   GANT,   Mª   Luisa   (2001):   Arte,  museos  y  nuevas  tecnologías.  Trea,  Gijón.
-BELLIDO   GANT,   Mª   Luisa   (2007):   Aprendiendo   de  Latinoamérica.  El  museo  como  protagonista.  Trea.
-Gijón.   DÍAZ   BALERDI,   Iñaki  (2008):  La  memoria  fragmentada:  el  museo  y  sus  paradojas.  Trea.  Gijón.
-GÓMEZ   MARTÍNEZ,   Javier   (2006):   Dos   museologías.   Las   tradiciones   anglosajona   y  mediterránea:
-diferencias   y  contactos.  Trea.  Gijón.  HOOPER-GREENHILL,  Eilean  (1998):  Los  museos  y  sus  visitantes.
-Trea.   Gijón.   LAYUNO  ROSAS,  Mª  Ángeles  (2004):  Museos  de  arte  contemporáneo  en  España.  Del  "palacio
-de   las  artes"  a  la  arquitectura  como  arte.  Trea.  Gijón.  MARÍN  TORRES,  Mª  Teresa  (2002):  Historia  de
-la documentación museológica: la gestión de la memoria artística. Trea. Gijón. MONTANER, Josep María
-(2003):   Museos   para  el  siglo  XXI.  Gustavo  Gili.  Barcelona.  MORE,  Kevin  (coord.)  (1998):  La  gestión
-del   museo.   Trea.   Gijón.   MUÑOZ   COSME,   Alfonso  (2007):  Los  espacios  de  la  mirada.  Historia  de  la
-arquitectura   de   museos.   Trea.   Gijón.   SANTACANA   MESTRE,  J.,  SERRAT  ANTOLÍ,  N.  (coords.)  (2005):
-Museografía   Didáctica.   Ariel.  Barcelona.  SCHUBERT,  Karsten  (2008):  El  museo.  Historia  de  una  idea.
-De la Revolución Francesa a hoy. Turpiana. Granada. VALDÉS SAGÜÉS, Mª del Carmen (1999): La difusión
-cultural en el museo: servicios destinados al gran público. Trea Gijón
-
-MONTANER,    Josep    María    (2003):    Museos    para   el   siglo   XXI.   Gustavo   Gili   →   BIBLIOGRAFÍA
-COMPLEMENTARIA:   BELLIDO   GANT,   Mª   Luisa   (2001):   Arte,  museos  y  nuevas  tecnologías.  Trea,  Gijón.
-BELLIDO   GANT,   Mª   Luisa   (2007):   Aprendiendo   de  Latinoamérica.  El  museo  como  protagonista.  Trea.
-Gijón.   DÍAZ   BALERDI,   Iñaki  (2008):  La  memoria  fragmentada:  el  museo  y  sus  paradojas.  Trea.  Gijón.
-GÓMEZ   MARTÍNEZ,   Javier   (2006):   Dos   museologías.   Las   tradiciones   anglosajona   y  mediterránea:
-diferencias   y  contactos.  Trea.  Gijón.  HOOPER-GREENHILL,  Eilean  (1998):  Los  museos  y  sus  visitantes.
-Trea.   Gijón.   LAYUNO  ROSAS,  Mª  Ángeles  (2004):  Museos  de  arte  contemporáneo  en  España.  Del  "palacio
-de   las  artes"  a  la  arquitectura  como  arte.  Trea.  Gijón.  MARÍN  TORRES,  Mª  Teresa  (2002):  Historia  de
-la documentación museológica: la gestión de la memoria artística. Trea. Gijón. MONTANER, Josep María
-(2003):   Museos   para  el  siglo  XXI.  Gustavo  Gili.  Barcelona.  MORE,  Kevin  (coord.)  (1998):  La  gestión
-del   museo.   Trea.   Gijón.   MUÑOZ   COSME,   Alfonso  (2007):  Los  espacios  de  la  mirada.  Historia  de  la
-arquitectura   de   museos.   Trea.   Gijón.   SANTACANA   MESTRE,  J.,  SERRAT  ANTOLÍ,  N.  (coords.)  (2005):
-Museografía   Didáctica.   Ariel.  Barcelona.  SCHUBERT,  Karsten  (2008):  El  museo.  Historia  de  una  idea.
-De la Revolución Francesa a hoy. Turpiana. Granada. VALDÉS SAGÜÉS, Mª del Carmen (1999): La difusión
-cultural en el museo: servicios destinados al gran público. Trea Gijón
-
-✅ Recursos añadidos:
-------------------------------
 BIBLIOGRAFÍA   FUNDAMENTAL:   ALONSO   FERNÁNDEZ,   Luís   (1995):  Museología:  introducción  a  la  teoría  y
 práctica   del   museo.   Istmo.   Madrid.   ALONSO   FERNÁNDEZ,   Luís   (1999):   Museología  y  Museografía.
 Ediciones   del  Serbal.  Barcelona.  BELCHER,  Michael  (1997):  Organización  y  diseño  de  exposiciones.  Su
@@ -125,6 +107,4 @@ museología.   Trea.   Gijón.   LORENTE,   Jesús  Pedro  (2008):  Los  museos 
 desarrollo   histórico.   Trea.   Gijón.  ZUBIAUR  CARREÑO,  Francisco  Javier  (2004):  Curso  de  Museología.
 Trea. Gijón
 
-HERNÁNDEZ HERNÁNDEZ, Francisca (2006): Planteamientos teóricos de la museología. Trea. Gijón
-
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

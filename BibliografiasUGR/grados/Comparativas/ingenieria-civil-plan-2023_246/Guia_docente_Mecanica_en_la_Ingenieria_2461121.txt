@@ -2,26 +2,37 @@
 Grado: ingenieria-civil-plan-2023 (246)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 A.   M.   Sørenssen.   Elementary   Mechanics   Using   Python:   A   Modern  Course  Combining  Analytical  and
 Numerical Techniques. Springer
 
+C. Lanczos. The variational principles of mechanics. Dover Publications
+
 Copicentro.   Granada   F.P.   Beer,   E.R.   Johnston,   D.   Mazurek,   P.  J.  Cornwell,  B.  P.  Self.  Vector
 Mechanics for Engineers (11 ed.) McGraw-Hill. (Traducciones en castellano por McGraw-Hill)
 
-J. L. Meriam, L. G. Kaige. Engineering Mechanics. Statics and Dynamics. John Wiley & Sons
+J.   L.   Meriam,   L.  G.  Kaige.  Engineering  Mechanics.  Statics  and  Dynamics.  John  Wiley  &  Sons.  Libros
+sobre mecánica
+
+J. P. Den Hartog. Mechanical Vibrations. Dover Publications
+
+J. P. Den Hartog. Mechanics. Dover Publications
 
 John V. Guttag. Introduction to Computation and Programming Using Python. The MIT Press
 
-P.   Museros   Romero.   Mecánica:   estática   y  cálculo  vectorial.  Editorial  Universidad  Politécnica  de
-Valencia
+Libros sobre Python para ingeniería y mecánica
 
 Prieto Alberca M. Curso de Mecánica Racional. Editorial Prefijo Editorial Común
+
+Publicación   abierta   (http://w3.mecanica.upm.es/~goico/mecanica/libro   P.  Museros  Romero.  Mecánica:
+estática y cálculo vectorial. Editorial Universidad Politécnica de Valencia
+
+R. C. Hibbeler. Engineering Mechanics. Statics & Dynamics. Ed. Prentice Hall
 
 R.   Muñoz   Beltran.   Mecánica   Básica   Universitaria   para   Ingeniería  Civil.  Editorial.  Copicentro.
 Granada
@@ -35,33 +46,19 @@ de Mecánica. Colegio de Ingenieros de Caminos, Canales y Puertos
 Vázquez   M.,   López   E.  Mecánica  para  Ingenieros:  Estática  y  Dinámica.  Editorial  Noela  Bastero  J.M.,
 Casellas J. Curso de Mecánica. Editorial EUNSA
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Bastero J.M., Casellas J. Curso de Mecánica. Editorial EUNSA
-
-C. Lanczos. The variational principles of mechanics. Dover Publications
 
 J.   M.  Goicolea.  Curso  de  Mecánica.  Colegio  de  Ingenieros  de  Caminos,  Canales  y  Puertos.  Publicación
 abierta (http://w3.mecanica.upm.es/~goico/mecanica/libro
 
-J. P. Den Hartog. Mechanical Vibrations. Dover Publications
-
-J. P. Den Hartog. Mechanics. Dover Publications
-
-Libros sobre Python para ingeniería y mecánica
-
 Libros sobre mecánica
 
-R. C. Hibbeler. Engineering Mechanics. Statics & Dynamics. Ed. Prentice Hall
+Mecánica   I   y  II.  Díaz  de  la  Cruz  J.M.,  Sánchez  Pérez  A.M.  Publicaciones  de  la  ETSI  Industriales  de
+la Universidad Politécnica de Madrid
 
 Scala   JJ.  Análisis  Vectorial.  Volumen  1:  Vectores.  Sociedad  de  Amigos  de  la  ETSI  Industriales  de  la
 Universidad Politécnica de Madrid
 
-Scala   JJ.   Física   I   y   II.  Publicaciones  de  la  ETSI  Industriales  de  la  Universidad  Politécnica  de
-Madrid
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

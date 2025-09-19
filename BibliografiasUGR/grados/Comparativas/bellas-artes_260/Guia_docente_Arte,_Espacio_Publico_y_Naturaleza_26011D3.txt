@@ -2,14 +2,36 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (7):
 ------------------------------
-No hay elementos.
+ARDANNE,   P.   Un   Art   contextuel,  Flammarion,  2002  [Trad.  Un  arte  contextual:  Creación  artística  en
+medio urbano, en situación, de intervención, de participación, Murcia: Azarbe, 2006.] BLANCO, P. [et
+al.]   (ed.).   Modos  de  hacer:  arte  crítico,  esfera  pública  y  acción  directa.  Salamanca:  Universidad,
+2001
 
-📚 Recursos sin cambios:
+CRUZ   SANCHEZ,   P.   A.   Arte   y  performance.  Una  historia  desde  las  vanguardias  hasta  la  actualidad.
+Madrid:   Akal.  2022  GARCIA  CANCLINI,  Néstor.  Cultura  híbridas.  Estrategias  para  entrar  y  salir  de  la
+modernidad, Buenos Aires: Paidós, 2001
+
+FOSTER,   H.  The  Return  of  the  Real:  Avant-garde  at  the  End  of  the  Century.  MIT  Press.1996.  [Trad.  El
+retorno   de   lo   real.   La   vanguardia   a   finales  de  siglo,  Madrid:  Akal,  2001]  GARCIA  CANCLINI,  N.
+Imaginarios urbanos. Buenos Aires. Eudeba, 1997
+
+GILLES, C. Manifeste pour le Tiers-paysage, ed. Sujet Objet, mayo de 2004 [Trad
+
+KESSLER,   M,   The   Landscape   and  its  Shadow.  1999.  [Trad.  El  paisaje  y  su  sombra,  Madrid:  Colección
+Universitaria IDEA Books, 2000.] MADERUELO, J. El espacio raptado. Interferencias entre arquitectura
+y escultura. Madrid: Mondadori, 1990
+
+MARTIN MARTINEZ, J. V. (Ed.).El retorno de lo nuevo. Arqueología de los medios y práctica artística.
+Madrid: Abada Editores. 2022 RAQUEJO, T. Land Art, Madrid: Nerea, 1998
+
+Manifiesto del Tercer Paisaje. Barcelona: Gustavo Gili, 2007
+
+📚 Recursos sin cambios (14):
 ------------------------------
 BONET,   P.  Naturalezas.  Una  travesía  por  el  arte  contemporáneo.  Barcelona:  Libros  de  Recerca.  MACBA.
-2000
+2000 COLLADOS, A. y RODRIGO, J.(eds.). Transductores 3. Prácticas artísticas en contexto
 
 BROWN, H. C. (Ed.). Relatos Lumbung. Bilbao: Consonni. 2022
 
@@ -17,7 +39,9 @@ COLLADOS,   A.   y   RODRIGO,  J.(eds.).  Transductores  3.  Prácticas  artíst
 útiles y estrategias. Granada: Centro José Guerrero, 2015
 
 DEWEY, J. Art as experience. Perigee Books,U.S. 2005. [Trad. El arte como experiencia, Madrid: Akal,
-2008]
+2008] DELGADO, M. El animal público. Barcelona: Anagrama, 2008
+
+HARAWAY. D. Seguir con el problema. Generar parentesco en el Chthuluceno. Bilbao: Consonni. 2019
 
 LACY, Su. (ed.), Mapping the Terrain: New Genre Public Art, Bay Press, 1994
 
@@ -39,60 +63,42 @@ NOGUE, J. (Ed). La construcción social del paisaje. Madrid: Biblioteca Nueva. 2
 TRUJILLO,   D.  y  LOZANO,  J.L.  (eds.).  La  academia  global.  Perspectivas  contemporáneas  sobre  docencia,
 investigación y creación en arte. Altea: Universidad Miguel Hernández de Elche, 2021
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (13):
 ------------------------------
-Manifiesto   del   Tercer  Paisaje.  Barcelona:  Gustavo  Gili,  2007  →  GILLES,  C.  Manifeste  pour  le  Tiers-
-paysage,   ed.   Sujet   Objet,   mayo   de  2004  [Trad.  Manifiesto  del  Tercer  Paisaje.  Barcelona:  Gustavo
-Gili, 2007
+ARDANNE,   P.   Un   Art   contextuel,  Flammarion,  2002  [Trad.  Un  arte  contextual:  Creación  artística  en
+medio urbano, en situación, de intervención, de participación, Murcia: Azarbe, 2006.]
 
-Colección   Universitaria   IDEA   Books,  2000.]  MADERUELO,  J.  El  espacio  raptado.  Interferencias  entre
-arquitectura   y   escultura.   Madrid   →   MADERUELO,   J.   El   espacio   raptado.   Interferencias   entre
-arquitectura y escultura. Madrid: Mondadori, 1990
-
-MARTIN MARTINEZ, J. V. (Ed.).El retorno de lo nuevo. Arqueología de los medios y práctica artística.
-Madrid:   Abada   Editores.   2022   RAQUEJO,   T.  Land  Art,  Madrid:  Nerea,  1998  →  MARTIN  MARTINEZ,  J.  V.
-(Ed.).El   retorno   de   lo   nuevo.   Arqueología   de   los   medios   y  práctica  artística.  Madrid:  Abada
-Editores. 2022
-
-KESSLER,   M,   The   Landscape   and  its  Shadow.  1999.  [Trad.  El  paisaje  y  su  sombra,  Madrid  →  KESSLER,
-M,   The   Landscape   and   its   Shadow.   1999.   [Trad.   El   paisaje   y   su   sombra,   Madrid:  Colección
-Universitaria IDEA Books, 2000.]
+BLANCO, P. [et al.] (ed.). Modos de hacer: arte crítico, esfera pública y acción directa. Salamanca:
+Universidad, 2001
 
 CRUZ   SANCHEZ,   P.   A.   Arte   y  performance.  Una  historia  desde  las  vanguardias  hasta  la  actualidad.
-Madrid:   Akal.  2022  GARCIA  CANCLINI,  Néstor.  Cultura  híbridas.  Estrategias  para  entrar  y  salir  de  la
-modernidad,   Buenos   Aires:   Paidós,   2001   →   CRUZ   SANCHEZ,  P.  A.  Arte  y  performance.  Una  historia
-desde las vanguardias hasta la actualidad. Madrid: Akal. 2022
+Madrid: Akal. 2022
 
-Azarbe,   2006.]   BLANCO,   P.   [et   al.]  (ed.).  Modos  de  hacer:  arte  crítico,  esfera  pública  y  acción
-directa.   Salamanca:   Universidad,   2001   →  BLANCO,  P.  [et  al.]  (ed.).  Modos  de  hacer:  arte  crítico,
-esfera pública y acción directa. Salamanca: Universidad, 2001
-
-ARDANNE,   P.   Un   Art   contextuel,  Flammarion,  2002  [Trad.  Un  arte  contextual:  Creación  artística  en
-medio   urbano,   en   situación,   de   intervención,   de   participación,   Murcia   →   ARDANNE,  P.  Un  Art
-contextuel,   Flammarion,   2002   [Trad.   Un   arte   contextual:  Creación  artística  en  medio  urbano,  en
-situación, de intervención, de participación, Murcia: Azarbe, 2006.]
-
-FOSTER,   H.  The  Return  of  the  Real:  Avant-garde  at  the  End  of  the  Century.  MIT  Press.1996.  [Trad.  El
-retorno   de   lo   real.   La   vanguardia   a   finales  de  siglo,  Madrid:  Akal,  2001]  GARCIA  CANCLINI,  N.
-Imaginarios   urbanos.   Buenos   Aires.  Eudeba,  1997  →  GARCIA  CANCLINI,  N.  Imaginarios  urbanos.  Buenos
-Aires. Eudeba, 1997
-
-GILLES,   C.   Manifeste   pour   le   Tiers-paysage,   ed.   Sujet   Objet,  mayo  de  2004  [Trad  →  GILLES,  C.
-Manifeste pour le Tiers-paysage, ed. Sujet Objet, mayo de 2004 [Trad. Manifiesto del Tercer Paisaje.
-Barcelona: Gustavo Gili, 2007
-
-✅ Recursos añadidos:
-------------------------------
 DELGADO, M. El animal público. Barcelona: Anagrama, 2008
 
 FOSTER,   H.  The  Return  of  the  Real:  Avant-garde  at  the  End  of  the  Century.  MIT  Press.1996.  [Trad.  El
 retorno de lo real. La vanguardia a finales de siglo, Madrid: Akal, 2001]
 
+GARCIA CANCLINI, N. Imaginarios urbanos. Buenos Aires. Eudeba, 1997
+
 GARCIA   CANCLINI,  Néstor.  Cultura  híbridas.  Estrategias  para  entrar  y  salir  de  la  modernidad,  Buenos
 Aires: Paidós, 2001
 
-HARAWAY. D. Seguir con el problema. Generar parentesco en el Chthuluceno. Bilbao: Consonni. 2019
+GILLES,   C.   Manifeste   pour   le   Tiers-paysage,  ed.  Sujet  Objet,  mayo  de  2004  [Trad.  Manifiesto  del
+Tercer Paisaje. Barcelona: Gustavo Gili, 2007
+
+GILLES,   C.   Manifeste   pour   le   Tiers-paysage,  ed.  Sujet  Objet,  mayo  de  2004  [Trad.  Manifiesto  del
+Tercer Paisaje. Barcelona: Gustavo Gili, 2007
+
+KESSLER,   M,   The   Landscape   and  its  Shadow.  1999.  [Trad.  El  paisaje  y  su  sombra,  Madrid:  Colección
+Universitaria IDEA Books, 2000.]
+
+MADERUELO,   J.  El  espacio  raptado.  Interferencias  entre  arquitectura  y  escultura.  Madrid:  Mondadori,
+1990
+
+MARTIN MARTINEZ, J. V. (Ed.).El retorno de lo nuevo. Arqueología de los medios y práctica artística.
+Madrid: Abada Editores. 2022
 
 RAQUEJO, T. Land Art, Madrid: Nerea, 1998
 
-📊 Porcentaje estimado de cambio: 63% [██████░░░░]
+📊 Porcentaje estimado de cambio: 76% [███████░░░]

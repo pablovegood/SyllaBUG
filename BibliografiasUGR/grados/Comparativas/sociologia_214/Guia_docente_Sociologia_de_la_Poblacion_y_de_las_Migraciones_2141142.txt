@@ -2,12 +2,21 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
+Adveev, A., Eremenko, T., Festy, P., Gaymu, J., Le Bouteillec, N. y Springer, S. (2011)
+
+Populations et tendances démographiques des pays européens (1980-2010). Population, 66(1), 9-133
+
 Weeks,   J.R.   (1984).  Sociología  de  la  población.  Introducción  a  los  conceptos  y  cuestiones  básicas.
 Madrid: Alianza
 
-📚 Recursos sin cambios:
+de   Haas,   H.  (2010)  The  Internal  Dynamics  of  Migration  Processes:  A  Theoretical  Inquiry,  Journal  of
+Ethnic   and   Migration  Studies,  36(10),  1587-1617,  DOI:  10.1080/1369183X.2010.489361  Eremenko,  T.,  &
+González‐Ferrer, A. (2018). Transnational families and child migration to France and Spain. The role
+of family type and immigration policies. Population, Space and Place, 24(7), e2163
+
+📚 Recursos sin cambios (45):
 ------------------------------
 Abellán   García,   A.   y   Puga   González,   Mª  D.  (2005).  Una  España  que  envejece.  Papeles  de  Economía
 Española, 104
@@ -30,6 +39,9 @@ Castles,   S.  y  Miller  (2004):  La  era  de  la  migración:  Movimientos  in
 mundo moderno. México D.F.: Universidad Autónoma de Zacatecas
 
 Colectivo IOÉ (2002). Inmigración, escuela y mercado de trabajo. Barcelona: Fundación La Caixa
+
+Cárdenas   Pérez,   J.   R.   (2009).   Reflexiones   generales   de   carácter  teórico  e  histórico  sobre  la
+transición demográfica. Papeles de Población
 
 Delgado   Pérez,   M.  (2004).  La  evolución  demográfica  de  España  en  el  contexto  internacional,  trabajo
 presentado en ICE Consecuencias de la Evolución Demográfica en la Economía, mayo-junio 2004, nº 15
@@ -115,6 +127,13 @@ Susino,   J.  (2005).  La  población  y  el  proceso  de  urbanización.  En  J
 Requena   (Comps.),   Leer  la  sociedad.  Una  introducción  a  la  sociología  general  (pp.545-587).  Madrid:
 Tecnos
 
+Susino,   J.   (2006).   Entre   el   análisis   demográfico   y   la   teoría   de  la  población:  bases  de  una
+experiencia   docente.   En   M.   Sánchez   Martínez   y  C.  Hita  Alonso,  La  enseñanza  universitaria  de  la
+sociología, (pp.97-121). Granada: Universidad de Granada
+
+Sánchez    Barricarte,    J.   J.   (2008).   El   crecimiento   de   la   población   mundial:   Implicaciones
+socioeconómicas, ecológicas y éticas. Valencia: Tirant lo Blanch
+
 Tapinos, G. (1988). Elementos de Demografía. Madrid: Espasa Calpe
 
 Van   Bavel,  J.  &  Reher,  D.  S.  (2013).  The  baby  boom  and  its  causes:  What  we  know  and  what  we  need  to
@@ -126,36 +145,16 @@ Economía, 104
 Wilson,   C.   (2011).   Understanding   global   demographic   convergence   since   1950.   Population   and
 Development Review, 37(2), 375-388
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Adveev,   A.,   Eremenko,   T.,  Festy,  P.,  Gaymu,  J.,  Le  Bouteillec,  N.  y  Springer,  S.  (2011)  →  Adveev,
-A.,   Eremenko,   T.,   Festy,   P.,   Gaymu,  J.,  Le  Bouteillec,  N.  y  Springer,  S.  (2011).  Populations  et
-tendances démographiques des pays européens (1980-2010). Population, 66(1), 9-133
-
-Populations   et   tendances  démographiques  des  pays  européens  (1980-2010).  Population,  66(1),  9-133  →
 Adveev, A., Eremenko, T., Festy, P., Gaymu, J., Le Bouteillec, N. y Springer, S. (2011). Populations
 et tendances démographiques des pays européens (1980-2010). Population, 66(1), 9-133
 
-Sánchez   Barricarte,   J.  J.  (2008).  El  crecimiento  de  la  población  mundial:  Implicaciones  Susino,  J.
-(2006). Entre el análisis demográfico y la teoría de la población: bases de una experiencia docente.
-En   M.   Sánchez  Martínez  y  C.  Hita  Alonso,  La  enseñanza  universitaria  de  la  sociología,  (pp.97-121).
-Granada:   Universidad   de   Granada  →  Susino,  J.  (2006).  Entre  el  análisis  demográfico  y  la  teoría  de
-la   población:   bases   de   una   experiencia   docente.   En   M.   Sánchez  Martínez  y  C.  Hita  Alonso,  La
-enseñanza universitaria de la sociología, (pp.97-121). Granada: Universidad de Granada
+Adveev, A., Eremenko, T., Festy, P., Gaymu, J., Le Bouteillec, N. y Springer, S. (2011). Populations
+et tendances démographiques des pays européens (1980-2010). Population, 66(1), 9-133
 
-10.1080/1369183X.2010.489361   Eremenko,  T.,  &  González‐Ferrer,  A.  (2018).  Transnational  families  and
-child   migration   to  France  and  Spain.  The  role  of  family  type  and  immigration  policies.  Population,
-Space   and   Place,  24(7),  e2163  →  Eremenko,  T.,  &  González  Ferrer,  A.  (2018).  Transnational  families
-and   child   migration   to   France   and   Spain.   The   role   of   family  type  and  immigration  policies.
-Population, Space and Place, 24(7), e2163
-
-✅ Recursos añadidos:
-------------------------------
-Cárdenas   Pérez,   J.   R.   (2009).   Reflexiones   generales   de   carácter  teórico  e  histórico  sobre  la
-transición demográfica. Papeles de Población
-
-Sánchez    Barricarte,    J.   J.   (2008).   El   crecimiento   de   la   población   mundial:   Implicaciones
-socioeconómicas, ecológicas y éticas. Valencia: Tirant lo Blanch
+Eremenko, T., & González Ferrer, A. (2018). Transnational families and child migration to France and
+Spain. The role of family type and immigration policies. Population, Space and Place, 24(7), e2163
 
 Weeks, J.R. (2020). Population: An introduction to concepts and issues. Boston: Cengage
 

@@ -2,11 +2,20 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-TEMA 8 BERTRAND, C. y BERTRAND, G. (2006): Geografía del Medio Ambiente. El Sistema GTP
+(2018):   “The   landscape   taxonomic   pyramid   (LTP):  a  multi-scale  classification  adapted  to  spatial
+planning”.   Landscape   Research   43   (7),   984-999.   DOI:  10.1080/01426397.2017.1404021  HOWARD,  P.J.
+(2011): An Introduction to Landscape. Ashgate, 322 p
 
-📚 Recursos sin cambios:
+200 p, (édition originale de 1952)
+
+BERTRAND,   C.   y   BERTRAND,   G.   (2006):   Geografía   del  Medio  Ambiente.  El  Sistema  GTP:  FROLOVA,  M.
+(2016): Relación entre la sociedad y el medio ambiente en la geografía moderna
+
+DARDEL, E. (1990): L'homme et la terre: nature de la réalité géographique, Editions du CTHS
+
+📚 Recursos sin cambios (41):
 ------------------------------
 ALOMAR GARAU, G., GÓMEZ ZOTANO, J., FERNÁNDEZ SALINAS, V., MÉRIDA RODRÍGUEZ, M. y SILVA PÉREZ (eds.)
 (2019):   Paisaje   e   identidad.   Memoria   de   las   III  Jornadas  de  Trabajo  de  Paisaje  2019.  Grupo  de
@@ -19,9 +28,6 @@ AZCÁRATE   LUXÁN,  B.,  AZCÁRATE  LUXÁN,  M.V.  y  SÁNCHEZ  SÁNCHEZ,  J.  
 universitario. UNED. 426 págs
 
 BERQUE, A. (2009): Ecoumène. Introduction à l'étude des milieux humains. Belin. 445 p
-
-BERTRAND,   C.   y   BERTRAND,   G.   (2006):   Geografía   del  Medio  Ambiente.  El  Sistema  GTP:  Geosistema,
-Territorio y Paisaje. Universidad de Granada, Granada. 403 p
 
 BERTRAND,   G.   (2008):   “Un   paisaje   más   profundo”.   De   la   epistemología   al   Método,   Cuadernos
 Geográficos, nº 43, pp. 17-27
@@ -51,9 +57,6 @@ biosfera. Libros en acción. Virus Editorial, Barcelona, 105 p
 FERNÁNDEZ-ARMESTO,   F.   (2002):   Civilizaciones.   La   lucha   del  hombre  por  controlar  la  naturaleza.
 Taurus, Madrid, 685 p
 
-FROLOVA,   M.   (2016):   Relación   entre   la   sociedad   y   el   medio  ambiente  en  la  geografía  moderna.
-Editorial Universidad de Granada, 270 págs
-
 FROLOVA,   M.   y   BERTRAND,   G.  (2006):  “Geografía  y  paisaje”.  En:  Hiernaux  D.  y  Lindón,  A.  (coord.):
 Tratado   de   Geografía   Humana,  Barcelona:  Anthropos,  Universidad  Autónoma  Metropolitana  Iztapalapa,
 pp. 254-272
@@ -73,6 +76,10 @@ GÓMEZ   ZOTANO,   J.   y   RIESCO   CHUECA,   P.  (2010):  Marco  conceptual  y
 españoles.   Aplicación   a  tres  escalas  espaciales.  Consejería  de  Obras  Públicas  y  Vivienda.  Junta  de
 Andalucía.   Centro   de   Estudios   Paisaje   y  Territorio.  Ministerio  de  Medio  Ambiente,  Medio  Rural  y
 Marino, Sevilla. 467 p
+
+GÓMEZ   ZOTANO,   J.,   RIESCO  CHUECA,  P.,  FROLOVA  IGNATIEVA,  M.  y  RODRÍGUEZ  RODRÍGUEZ,  J.  (2018):  “The
+landscape   taxonomic   pyramid   (LTP):   a   multi-scale   classification   adapted  to  spatial  planning”.
+Landscape Research 43 (7), 984-999. DOI: 10.1080/01426397.2017.1404021
 
 HESSEL,   S.   (2011):   ¡Indignaos!Un   alegato   contra   la   indiferencia   y  a  favor  de  la  insurrección
 pacífica. Ediciones Destino, 64 p
@@ -127,25 +134,20 @@ ZOIDO   NARANJO,   F.   y   VENEGAS   MORENO,   C.   (eds.)  (2002):  Paisaje  y
 Fundación   Duques   de   Soria   y   Consejería  de  Obras  Públicas  y  Transporte  de  la  Junta  de  Andalucía,
 Sevilla
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-GÓMEZ   ZOTANO,   J.,   RIESCO  CHUECA,  P.,  FROLOVA  IGNATIEVA,  M.  y  RODRÍGUEZ  RODRÍGUEZ,  J.  (2018):  “The
-landscape   taxonomic   pyramid   (LTP):   a   multi-scale   classification   adapted  to  spatial  planning”.
-Landscape   Research   43   (7),   984-999.   DOI:   10.1080/01426397.2017.1404021  HOWARD,  P.J.  (2011):  An
-Introduction   to   Landscape.   Ashgate,   322   p   →   GÓMEZ   ZOTANO,   J.,   RIESCO   CHUECA,   P.,  FROLOVA
-IGNATIEVA,   M.   y   RODRÍGUEZ   RODRÍGUEZ,  J.  (2018):  “The  landscape  taxonomic  pyramid  (LTP):  a  multi-
-scale   classification   adapted   to   spatial   planning”.   Landscape   Research   43   (7),  984-999.  DOI:
-10.1080/01426397.2017.1404021
+BERTRAND,   C.   y   BERTRAND,   G.   (2006):   Geografía   del  Medio  Ambiente.  El  Sistema  GTP:  Geosistema,
+Territorio y Paisaje. Universidad de Granada, Granada. 403 p
 
-DARDEL,   E.   (1990):   L'homme   et   la   terre:   nature  de  la  réalité  géographique,  Editions  du  CTHS  →
 DARDEL,   E.  (1990):  L'homme  et  la  terre:  nature  de  la  réalité  géographique,  Editions  du  CTHS.  200  p,
 (édition originale de 1952)
 
-200   p,   (édition   originale  de  1952)  →  DARDEL,  E.  (1990):  L'homme  et  la  terre:  nature  de  la  réalité
-géographique, Editions du CTHS. 200 p, (édition originale de 1952)
+DARDEL,   E.  (1990):  L'homme  et  la  terre:  nature  de  la  réalité  géographique,  Editions  du  CTHS.  200  p,
+(édition originale de 1952)
 
-✅ Recursos añadidos:
-------------------------------
+FROLOVA,   M.   (2016):   Relación   entre   la   sociedad   y   el   medio  ambiente  en  la  geografía  moderna.
+Editorial Universidad de Granada, 270 págs
+
 HOWARD, P.J. (2011): An Introduction to Landscape. Ashgate, 322 p
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

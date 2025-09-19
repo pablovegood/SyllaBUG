@@ -2,43 +2,20 @@
 Grado: administracion-direccion-empresas-dcho-melilla (528)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Barcelona,   2018.   “Derecho  Penal.  Parte  Especial”.  Muñoz  Conde.  Tirant  lo  Blanch.  25ª  ed.  Valencia,
-2023.   Quintero   Olivares:   Comentarios   a   la   Parte   Especial  del  Derecho  Penal.  Aranzadi.  11ª  ed.
-Madrid,   2016.  González  Cussac,  José  Luis:  Comentarios  a  la  reforma  del  Código  Penal  de  2015.  Tirant
-lo   Blanch.   Valencia,   2015.   Vallejo   Jaén,   Manuel:   La   reforma   penal   de   2015:  Análisis  de  la
-principales   reformas   introducidas.   Dykinson.   Madrid,   2015.  Galán  Muñoz  A.,  y  Nuñez  Castaño,  E.,
-Manual   de   Derecho   Penal   Económico   y   de  la  Empresa,  5ª  ed.,  (actualizada  y  revisada),  Tirant  Lo
-Blanch,   Valencia,   2023.   Zugaldía   Espinar,   José   Miguel:   La   responsabilidad  penal  de  empresas,
-fundaciones   y   asociaciones".   Tirant  Lo  Blanch.  Valencia,  2008.  Zugaldía  Espinar,  José  Miguel:  "La
-responsabilidad   criminal   de   las   personas   jurídicas,   de   los   entes   sin   personalidad  y  de  sus
-directivos".   Tirant  Lo  Blanch.  Valencia,  2013.  Zugaldía  Espinar,  José  Miguel  (Dir.):  "Derecho  Penal
-económico   y   de   la   empresa".   Ediciones   Olejnik.   Santiago  de  Chile,  2018.  Martínez-Buján  Pérez,
-Carlos: "Derecho Penal económico y de la empresa. Parte Especial"
-
+Silva   Sánchez,  Jesús  María  (Dir.):  Criminalidad  de  empresa  y  Compliance".  Atelier.  Barcelona,  2013.
 Terradillos Basoco, J.M., Derecho Penal de la Empresa, Trotta, Madrid, 1995
 
 “Lecciones   de   Derecho   Penal.   Parte   Especial".   Marín   de   Espinosa   Ceballos   (Dir.).  Tirant  lo
-Blanch.Valencia, 2022
+Blanch.Valencia,   2022.   -"Lecciones   de   Derecho  Penal:  Parte  Especial".  Jesús  María  Silva  Sánchez.
+Atelier Libros. 5ª ed. Barcelona, 2018
 
-🔁 Misma obra con edición/año distinto:
+📚 Recursos sin cambios (10):
 ------------------------------
-Tirant   Lo   Blanch.   Valencia,   2019.   Silva   Sánchez,  Jesús  María  (Dir.):  Criminalidad  de  empresa  y
-Compliance".   Atelier.   Barcelona,  2013  →  Silva  Sánchez,  Jesús  María  (Dir.):  Criminalidad  de  empresa
-y Compliance". Atelier. Barcelona, 2013
-
-✅ Recursos añadidos:
-------------------------------
-"Lecciones   de   Derecho   Penal:   Parte   Especial".  Jesús  María  Silva  Sánchez.  Atelier  Libros.  5ª  ed.
-Barcelona, 2018
-
-Galán   Muñoz   A.,   y   Núñez   Castaño,  E.,  Manual  de  Derecho  Penal  Económico  y  de  la  Empresa,  5ª  ed.,
-(actualizada y revisada), Tirant Lo Blanch, Valencia, 2023
+Derecho   Penal   de   la   Empresa   y   de  las  Personas  Jurídicas:  -Galán  Muñoz  A.,  y  Nuñez  Castaño,  E.,
+Manual   de   Derecho   Penal   Económico   y   de  la  Empresa,  5ª  ed.,  (actualizada  y  revisada),  Tirant  Lo
+Blanch, Valencia, 2023
 
 González   Cussac,   José   Luis:   Comentarios  a  la  reforma  del  Código  Penal  de  2015.  Tirant  lo  Blanch.
 Valencia, 2015
@@ -64,4 +41,18 @@ Tirant Lo Blanch. Valencia, 2008
 
 “Derecho Penal. Parte Especial”. Muñoz Conde. Tirant lo Blanch. 25ª ed. Valencia, 2023
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (5):
+------------------------------
+"Lecciones   de   Derecho   Penal:   Parte   Especial".  Jesús  María  Silva  Sánchez.  Atelier  Libros.  5ª  ed.
+Barcelona, 2018
+
+Derecho Penal de la Empresa y de las Personas Jurídicas
+
+Silva Sánchez, Jesús María (Dir.): Criminalidad de empresa y Compliance". Atelier. Barcelona, 2013
+
+Terradillos Basoco, J.M., Derecho Penal de la Empresa, Trotta, Madrid, 1995
+
+“Lecciones   de   Derecho   Penal.   Parte   Especial".   Marín   de   Espinosa   Ceballos   (Dir.).  Tirant  lo
+Blanch.Valencia, 2022
+
+📊 Porcentaje estimado de cambio: 46% [████░░░░░░]

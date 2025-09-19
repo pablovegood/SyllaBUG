@@ -2,11 +2,15 @@
 Grado: literaturas-comparadas (290)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Mishima,   Yukio(1979).   Confesiones   de   una  máscara.Trad.  J.  Escobar.  Barcelona:  Planeta  Mori,  Ogai
+(2011). La bailarina. Trad. Yoko Ogihara y Fernando Cordobés González. Madrid: Impedimenta
 
-📚 Recursos sin cambios:
+Rubio,   Carlos   (2007).  Claves  y  textos  de  la  literatura  japonesa.  Una  introducción.  Madrid:  Cátedra
+Abe, Kobo(1994). El rostro ajeno. Trad. F. Rodríguez-Izquierdo, Madrid: Siruela
+
+📚 Recursos sin cambios (13):
 ------------------------------
 Akutagawa Ryunosuke (1998). Rashomon y otros cuentos. Trad. J. Kozer. Madrid: Miraguano
 
@@ -41,22 +45,17 @@ Thomas   Rimer,  J.  &  C.  Van  Gessel  (2007).  The  Columbia  Anthology  of  
 Thomas   Rimer,  J.  &  C.  Van  Gessel  (2007).  The  Columbia  Anthology  of  Modern  Japanese  Literature:  From
 Restoration to Occupation, 1868-1945: vol. 1. New York: Columbia University Press
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Rubio,   Carlos   (2007).  Claves  y  textos  de  la  literatura  japonesa.  Una  introducción.  Madrid:  Cátedra
-Abe,   Kobo(1994).   El   rostro   ajeno.   Trad.  F.  Rodríguez-Izquierdo,  Madrid:  Siruela  →  Rubio,  Carlos
-(2007). Claves y textos de la literatura japonesa. Una introducción. Madrid: Cátedra
-
-Mishima,   Yukio(1979).   Confesiones   de   una  máscara.Trad.  J.  Escobar.  Barcelona:  Planeta  Mori,  Ogai
-(2011).   La   bailarina.  Trad.  Yoko  Ogihara  y  Fernando  Cordobés  González.  Madrid  →  Mori,  Ogai  (2011).
-La bailarina. Trad. Yoko Ogihara y Fernando Cordobés González. Madrid: Impedimenta
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (5):
 ------------------------------
 Abe, Kobo(1994). El rostro ajeno. Trad. F. Rodríguez-Izquierdo, Madrid: Siruela
 
 Mishima, Yukio(1979). Confesiones de una máscara.Trad. J. Escobar. Barcelona: Planeta
 
+Mori,   Ogai   (2011).   La   bailarina.   Trad.   Yoko   Ogihara   y   Fernando   Cordobés   González.  Madrid:
+Impedimenta
+
+Rubio, Carlos (2007). Claves y textos de la literatura japonesa. Una introducción. Madrid: Cátedra
+
 Rubio, Carlos (2021), Mil años de literatura femenina en Japón, Gijón, Satori
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

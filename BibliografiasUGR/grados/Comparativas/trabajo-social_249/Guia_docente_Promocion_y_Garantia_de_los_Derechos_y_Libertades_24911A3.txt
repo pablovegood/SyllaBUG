@@ -2,25 +2,17 @@
 Grado: trabajo-social (249)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
+A   determinar   en   guía   didáctica   Colecciones   Legislatívas   BALAGUER  CALLEJÓN,F.(Coord.).;  CÁMARA
+VILLAR, G.; MONTILLA MARTOS, J. A.: Código de Derecho Constitucional, Tecnos, Madrid, última ed
+
 BALAGUER   CALLEJÓN,   F.  (Coord.);  CÁMARA  VILLAR,  G.,  BALAGUER  CALLEJÓN,  M.  L.,  y  MONTILLA  MARTOS,  J.
 A.: Introducción al Derecho Constitucional, Tecnos, Madrid, última edición
-
-BALAGUER, F. (Coord.); CÁMARA, G.; LÓPEZ AGUILAR, J.F.; BALAGUER, M. L.; Y MONTILLA, J.A.: Manual de
-Derecho Constitucional. Tecnos, Madrid, última edición
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-A determinar en guía didáctica
 
 BALAGUER   CALLEJÓN,   F.   y   CÁMARA   VILLAR,  G.  (ed.);  Constitución  española  y  Estatuto  de  Andalucía,
 Tecnos, Madrid, última ed
@@ -28,9 +20,14 @@ Tecnos, Madrid, última ed
 BALAGUER   CALLEJÓN,F.(Coord.).;   CÁMARA   VILLAR,   G.;   MEDINA   REY,  J.  A.:  La  Nueva  Ley  Orgánica  del
 Tribunal Constitucional, Ed. Tecnos, Madrid, última ed
 
+BALAGUER, F. (Coord.); CÁMARA, G.; LÓPEZ AGUILAR, J.F.; BALAGUER, M. L.; Y MONTILLA, J.A.: Manual de
+Derecho Constitucional. Tecnos, Madrid, última edición
+
+✅ Recursos añadidos (2):
+------------------------------
 BALAGUER   CALLEJÓN,F.(Coord.).;   CÁMARA   VILLAR,   G.;   MONTILLA   MARTOS,   J.   A.:   Código  de  Derecho
 Constitucional, Tecnos, Madrid, última ed
 
 Colecciones Legislatívas
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

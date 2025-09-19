@@ -2,12 +2,16 @@
 Grado: terapia-ocupacional (243)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
+Angrosino   M.   Etnografía  y  observación  participante  en  investigación  cualitativa.  Ediciones  Morata.
+2012 Barbour R. Los grupos de discusión en investigación cualitativa. Ediciones Morata. 2013
+
+📚 Recursos sin cambios (11):
+------------------------------
+Argimon   Pallás   JM,   Jiménez   Villa   J.   Métodos   de  investigación  clínica  y  epidemiológica.  5ª  ed.
 Madrid. Elsevier, 2019
 
-📚 Recursos sin cambios:
-------------------------------
 Carpenter   C   y   Suto   M.  Qualitative  Research  for  Occupational  and  Physical  Therapists:  A  Practical
 Guide. Oxford: Wiley Blackwell, 2008
 
@@ -34,21 +38,14 @@ Kvale S. Las entrevistas en investigación cualitativa. Ediciones Morata 2011
 
 Rothman KJ. Epidemiology: An introduction. OUP USA, 2012
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Angrosino   M.   Etnografía  y  observación  participante  en  investigación  cualitativa.  Ediciones  Morata.
-2012   Barbour   R.   Los   grupos   de   discusión  en  investigación  cualitativa.  Ediciones  Morata.  2013  →
-Barbour R. Los grupos de discusión en investigación cualitativa. Ediciones Morata. 2013
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Angrosino   M.   Etnografía  y  observación  participante  en  investigación  cualitativa.  Ediciones  Morata.
 2012
 
-Argimon   Pallás   JM,   Jiménez   Villa   J.   Métodos   de  investigación  clínica  y  epidemiológica.  5ª  ed.
-Madrid. Elsevier, 2019
+Barbour R. Los grupos de discusión en investigación cualitativa. Ediciones Morata. 2013
 
 Romero-Ayuso   DM   &   Triviño-Juárez   M.   La   investigación   cuantitativa   y  la  práctica  basada  en  la
 evidencia en terapia ocupacional. Síntesis, 2018
 
-📊 Porcentaje estimado de cambio: 41% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

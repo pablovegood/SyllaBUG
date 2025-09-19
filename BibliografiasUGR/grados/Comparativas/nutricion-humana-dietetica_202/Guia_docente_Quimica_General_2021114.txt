@@ -2,21 +2,11 @@
 Grado: nutricion-humana-dietetica (202)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Riguera (2ª Ed.) Ed. Mc Graw Hill 2004
 
-📚 Recursos sin cambios:
-------------------------------
-Química   General.   10ª   Ed.   R.H  Petrucci,  F.  G.  Herring,  J.  D.  Madura,  C.  Bissonnette.  Ed.  Pearson.
-Prentince Hall. 2011. Varios ejemplares para préstamo disponibles en la Biblioteca de la Facultad de
-Farmacia, y acceso on-line al libro completo en ordenadores de la UGR (ver "Enlaces Recomendados")
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+📚 Recursos sin cambios (10):
 ------------------------------
 Cuestiones   y  ejercicios  de  Química  Orgánica.  Una  guía  de  autoevaluación.  E.  Quiñoá  y  R.  Riguera  (2ª
 Ed.) Ed. Mc Graw Hill 2004
@@ -26,6 +16,10 @@ Quiñoá y R. Riguera. Ed. Mc Graw Hill 2005
 
 Principios   de  Química.  Ediciones  3ª,  4ª  o  5ª.  P.  Atkins  y  L.  Jones.  Ed.  Médica  Panamericana.  Varios
 ejemplares para préstamo disponibles en la Biblioteca de la Facultad de Farmacia
+
+Química   General.   10ª   Ed.   R.H  Petrucci,  F.  G.  Herring,  J.  D.  Madura,  C.  Bissonnette.  Ed.  Pearson.
+Prentince Hall. 2011. Varios ejemplares para préstamo disponibles en la Biblioteca de la Facultad de
+Farmacia, y acceso on-line al libro completo en ordenadores de la UGR (ver "Enlaces Recomendados")
 
 Química   General.   J.   L.   Rosenberg   y  L.  M.  Epstein.  Ed.  McGraw-Hill.  1991.  Varios  ejemplares  para
 préstamo disponibles en la Biblioteca de la Facultad de Farmacia
@@ -45,4 +39,9 @@ Resolución   de   Problemas   de   Química.  A.  Sánchez  Coronilla.  Univers
 Publicaciones.   2008.  Varios  ejemplares  para  préstamo  disponibles  en  la  Biblioteca  de  la  Facultad  de
 Farmacia
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+Nomenclatura y representación de los compuestos orgánicos (Una guía de estudio y autoevaluación). E.
+Quiñoá y R. Riguera. Ed. Mc Graw Hill 2005
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

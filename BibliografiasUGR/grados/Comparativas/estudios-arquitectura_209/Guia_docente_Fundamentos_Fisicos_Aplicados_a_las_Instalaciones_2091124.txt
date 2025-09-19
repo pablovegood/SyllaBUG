@@ -2,11 +2,12 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-Editorial Paraninfo, Madrid, 1993
+Albacete 1978 “Problemas de Física” E. Gullón de Senespeneda y M. López Rodríguez. Ed. Romo, Madrid,
+1984 “Problemas de electrotecnia: teoría de circuitos", X. Alabern, L. Humet, J. M. Nadal, A. L
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (28):
 ------------------------------
 "Acústica   arquitectónica   y   urbanística",   J.   Llinares,   A.   Llopis   y   J.   Sancho.   Servicio   de
 publicaciones de la Universidad Politécnica de Valencia, 1991
@@ -19,6 +20,9 @@ USA, 2014
 "Mecánica vectorial para ingenieros. Dinámica", F.B. Beer y E.R. Johnston. Edt. McGraw Hill, Madrid,
 2013
 
+Textos   de   problemas  y  aplicaciones:  “Problemas  de  Física”.  J.  Aguilar  y  J.  Casanova,  Ed.  Alhambra,
+Madrid, 1985
+
 “Electromagnetismo   y   circuitos   eléctricos”.   J.   Fraile   Mora.   Servicio   de   publicaciones  de  la
 Universidad politécnica de Madrid, Madrid, 1990
 
@@ -28,6 +32,9 @@ Iberoamericana,USA, 1995
 “Fundamentos físicos de las construcciones arquitectónicas. Volumen II. Mecánica de fluidos. Calor y
 termodinámica.   Electromagnetismo”.   A.   Durá   Doménech,   C.   Neipp  López,  J.J.  Rodes  Roza,  A.  Marco
 Tobara y J. Vera Guarinos. Publicación de la Universidad de Alicante, 2004
+
+“Física   General.   Problemas.   Burbano   de  Ercilla,  Burbano  Garcia.,  Ed.  Librería  General.  Zaragoza,
+1986
 
 “Física General”. F.J. Bueche y E. Hecht. Editorial McGraw-Hill, México, 2001
 
@@ -52,42 +59,31 @@ Barcelona, 1987
 
 “Mecánica de fluidos”. I. Shames, Ed. McGraw Hill, Colombia, 1995
 
+“Mecánica.   Problemas   de   exámenes  resueltos”.  J.M.  de  Juana  Sardón  y  .A.  Herrero  García.  Editorial
+Paraninfo, Madrid, 1993
+
 “Physics for Scientists & Engineers, Vol. I”. D. Giancoli. Ed. Pearson, 2021
 
 “Problemas de Física (Resueltos)”. M.R. Ortega. Editor: M.R. Ortega Girón, Córdoba, 2008
 
-“Problemas de Física”. J. Aguilar y J. Casanova, Ed. Alhambra, Madrid, 1985
+“Problemas de Física general”. F.A. González y M. Martínez Hernández. Tebar Flores. Albacete 1978
 
 “Problemas   de  electrotecnia:  teoría  de  circuitos",  X.  Alabern,  L.  Humet,  J.  M.  Nadal,  A.  L.  Orille,
 J. A. Serrano, Ed. Paraninfo, Madrid, 1991
 
 “Problemas resueltos de teoría de circuitos”, A. Gómez, J. A. Olivera, Ed. Paraninfo, Madrid, 1990
 
+“Problemas y Cuestiones de Física”. A. Lleó, B. Betete, J. Galeano, L Lleó y I. Ruiz-Tapiador. Mundi
+Prensa Madrid 2002
+
 “Transferencia de calor aplicada a la ingeniera”, J. R. Welty, Ed. Limusa, México, 1992
 
 “Óptica”. J. Casas. Editor: J. Casas. Zaragoza, 1994
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Albacete 1978 “Problemas de Física” E. Gullón de Senespeneda y M. López Rodríguez. Ed. Romo, Madrid,
-1984   “Problemas   de   electrotecnia:  teoría  de  circuitos",  X.  Alabern,  L.  Humet,  J.  M.  Nadal,  A.  L  →
-“Problemas de Física” E. Gullón de Senespeneda y M. López Rodríguez. Ed. Romo, Madrid, 1984
-
-“Problemas   y   Cuestiones   de   Física”.   A.  Lleó,  B.  Betete,  J.  Galeano,  L  Lleó  y  I.  Ruiz-  Tapiador.
-Mundi   Prensa   Madrid   2002   “Mecánica.  Problemas  de  exámenes  resueltos”.  J.M.  de  Juana  Sardón  y  .A.
-Herrero   García   →   “Mecánica.   Problemas  de  exámenes  resueltos”.  J.M.  de  Juana  Sardón  y  .A.  Herrero
-García. Editorial Paraninfo, Madrid, 1993
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (2):
 ------------------------------
 Textos de problemas y aplicaciones
 
-“Física   General.   Problemas.   Burbano   de  Ercilla,  Burbano  Garcia.,  Ed.  Librería  General.  Zaragoza,
-1986
+“Problemas de Física” E. Gullón de Senespeneda y M. López Rodríguez. Ed. Romo, Madrid, 1984
 
-“Problemas de Física general”. F.A. González y M. Martínez Hernández. Tebar Flores. Albacete 1978
-
-“Problemas y Cuestiones de Física”. A. Lleó, B. Betete, J. Galeano, L Lleó y I. Ruiz-Tapiador. Mundi
-Prensa Madrid 2002
-
-📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

@@ -2,15 +2,7 @@
 Grado: traduccion-interpretacion (252)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 DE   SAVORGNANI,   G.,   CARRARA,   E.,   PIOTTI,   D.   Universitalia   2.0,  A1/A2.  Firenze,  Alma  Edizioni,
 TARTAGLIONE,   R.,  BENINCASA,  A.  Grammatica  della  lingua  italiana  per  stranieri,  A1/A2.  Firenze,  Alma
@@ -18,10 +10,13 @@ Edizioni,   2015  M.  CARRERA  DÍAZ.  Manual  de  gramática  italiana,  Barcel
 TRIFONE.   Grammatica   italiana,   Milano,   Zanichelli,   1999   F.   DÍAZ   PADILLA.   Gramática  analítico
 descriptiva   de   la   lengua   italiana,   Oviedo,  Universidad  de  Oviedo,  1999  G.  PATOTA.  Grammatica  di
 riferimento   della   lingua  italiana  per  stranieri,  Firenze,  Le  Monnier,  2003  L.  SERIANNI.  Grammatica
-italiana,   Torino,   Utet,  1997  →  TARTAGLIONE,  R.,  BENINCASA,  A.  Grammatica  della  lingua  italiana  per
-stranieri, A1/A2. Firenze, Alma Edizioni, 2015
+italiana, Torino, Utet, 1997
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
+------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (8):
 ------------------------------
 ALBANO LEONI, F., MATURI, P. Manuale di fonetica, Roma, Carocci, 2018
 
@@ -37,5 +32,8 @@ RENZI,   L.,   SALVI,   G.,   CARDINALETTI,   A.  (a  cura  di),  Grande  gramma
 (nuova edizione), Bologna, il Mulino, 2001, volumi 3
 
 TAM L. Dizionario spagnolo-italiano, italiano-spagnolo, Milano, Hoepli, 2017
+
+TARTAGLIONE,   R.,  BENINCASA,  A.  Grammatica  della  lingua  italiana  per  stranieri,  A1/A2.  Firenze,  Alma
+Edizioni, 2015
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

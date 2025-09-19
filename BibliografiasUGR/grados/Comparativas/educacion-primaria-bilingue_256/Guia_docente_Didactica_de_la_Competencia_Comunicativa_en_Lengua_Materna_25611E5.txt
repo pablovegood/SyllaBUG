@@ -2,11 +2,11 @@
 Grado: educacion-primaria-bilingue (256)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (22):
 ------------------------------
 Baker, Colin (1993). Fundamentos de educación bilingüe y bilingüismo. Ediciones Cátedra, 1997
 
@@ -18,6 +18,10 @@ http://cvc.cervantes.es/obref/marco
 
 Cortés   Moreno,  Maximiano  (2000).  Guía  para  el  profesor  de  idiomas:  didáctica  del  español  y  segundas
 lenguas. Octaedro
+
+Disponible   en   http://cvc.cervantes.es/obref/marco   Instituto  Cervantes.  CVC  (2009).  Diccionario  de
+términos               clave               de               ELE.               Disponible              en
+http://cvc.cervantes.es/ensenanza/biblioteca_ele/diccio_ele/diccionario/compintercult
 
 Estaire,   Sheila   (2009).   El   aprendizaje   de   lenguas  mediante  tareas:  de  la  programación  al  aula.
 Edinumen
@@ -33,8 +37,13 @@ García Santa-Cecilia, Álvaro (1995). El currículo de español como lengua ext
 Gelabert,   María   José;   Bueso,   Isabel   y   Benítez,   Pedro  (2002).  Producción  de  materiales  para  la
 enseñanza del español. Arco-Libros
 
+González Bertolín, Aurelio y otros (2011). El aprendizaje por competencias. Brief
+
 Níkleva,   Dimitrinka   (2017).   La  formación  de  los  docentes  de  español  para  inmigrantes  en  distintos
 contextos educativos. Peter Lang
+
+Pérez   Esteve,   Pilar   y   Zayas,   Felipe   (2007).   Competencia   en  comunicación  lingüística.  Alianza
+Editorial
 
 Real Academia Española (2005). Diccionario panhispánico de dudas. Santillana Ediciones Generales
 
@@ -43,7 +52,8 @@ Real Academia Española (2009). Nueva gramática de la lengua española (2 volú
 Real Academia Española (2010). Ortografía de la lengua española. Espasa Libros
 
 Richards,   Jack   C.   y   Rodgers,   Theodore  S.  (1986).  Enfoques  y  métodos  en  la  enseñanza  de  idiomas.
-Cambridge University Press
+Cambridge    University   Press,   Siguán,   Miguel   y   Mackey,   William   Francis   (1986).   Educación   y
+bilingüismo. Santillana/Unesco
 
 Soriano Ayala, Encarnación (coord.) (2004). La práctica educativa intercultural. La Muralla
 
@@ -52,24 +62,12 @@ Enseñar español como segunda lengua (L2)/lengua extranjera (LE). SGEL
 
 Zanón, Javier (Comp.) (1999). La enseñanza de E/LE mediante tareas. Edinumen
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Instituto   Cervantes.   CVC   (2009).   Diccionario   de   términos  clave  de  ELE.  Disponible  en  Instituto
-Cervantes   (2007).   Plan   Curricular  del  Instituto  Cervantes.  Biblioteca  Nueva  →  Instituto  Cervantes
-(2007). Plan Curricular del Instituto Cervantes. Biblioteca Nueva
-
-✅ Recursos añadidos:
-------------------------------
-González Bertolín, Aurelio y otros (2011). El aprendizaje por competencias. Brief
-
-Instituto    Cervantes.    CVC    (2009).    Diccionario    de   términos   clave   de   ELE.   Disponible   en
-http://cvc.cervantes.es/ensenanza/biblioteca_ele/diccio_ele/diccionario/compintercult.htm
-
-Pérez   Esteve,   Pilar   y   Zayas,   Felipe   (2007).   Competencia   en  comunicación  lingüística.  Alianza
-Editorial
-
-Siguán, Miguel y Mackey, William Francis (1986). Educación y bilingüismo. Santillana/Unesco
+htm Instituto Cervantes (2007). Plan Curricular del Instituto Cervantes. Biblioteca Nueva
 
 Álvarez, Teodoro (2007). La competencia en comunicación lingüística en las áreas del currículo. MEC
 
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+✅ Recursos añadidos (1):
+------------------------------
+Siguán, Miguel y Mackey, William Francis (1986). Educación y bilingüismo. Santillana/Unesco
+
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

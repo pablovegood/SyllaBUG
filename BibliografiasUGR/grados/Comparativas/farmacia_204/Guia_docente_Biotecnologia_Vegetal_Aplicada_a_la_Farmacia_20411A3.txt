@@ -2,22 +2,36 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+Dunwell   J.M.  y  Wetten  A..  (2012)  Transgenic  Plants:  Methods  and  Protocols.  Ed.  Humana  Press.  (link)
+Faye L. y Gomord V. (2009) Recombinant Proteins from Plants. Ed. Humana Press
 
-📚 Recursos sin cambios:
+Fett-Neto   A.G.   (2010)   Plant  Secondary  Metabolism  Engineering.  Ed.  Humana  Press.  (link)  García  del
+Moral L.F. (2021) Biotecnología vegetal. Fundamentos y Aplicaciones. Ed. EUG
+
+Hall   R.D.   (1999)   Plant   Cell   Culture   Protocols.   Ed.   Humana   Press.  (link)  Izquierdo  M.  (2001)
+Ingeniería Genética y Transferencia Génica. Ed. Pirámide
+
+Kole   Ch.,   Michler   Ch.H.,   Abbott   A.G.   y  Hall  T.C.  (2010)  Transgenic  Crop  Plants  (Principles  and
+Development).   Ed.   Springer.   (link)  Kumar  S,  Barone  P  y  Smith  M.  (2019)  Transgenic  Plants:  Methods
+and   Protocols.   Springer   New   York.  (link)  Neumann  K.H.,  Kumar  A.  e  Imani  J.  (2009)  Plant  Cell  and
+Tissue   Culture,   a   Tool   in   Biotechnology.  Ed.  Springer.  (link)  Oksman-Caldentey  K.M.  y  Barz  W.H.
+(2002) Plant Biotechnology and Transgenic Plants. Ed. Marcel Dekker, Inc
+
+📚 Recursos sin cambios (7):
 ------------------------------
 Azcón-Bieto   J.   y  Talón  M.  (2008)  Fundamentos  De  Fisiología  Vegetal  (2ª  Ed).  Interamericana-McGraw-
 Hill, UBe, Madrid. Disponible versión online en la web de la Biblioteca UGR. ( link )
-
-Buchanan   B.B.,   Gruissen   W.   y   Jones  R.L.  (2015)  Biochemistry  and  Molecular  Biology  of  Plants  (2ª
-edición, en inglés). American Society of Plant Physiologists. Rockville, Maryland, USA
 
 Caballero   J.L.,   Valpuesta   V.   y   Muñoz   Blanco  J.  (2001)  Introducción  a  la  Biotecnología  Vegetal:
 Métodos y Aplicaciones. Ed. Publicaciones Obra Social y Cultural CajaSur
 
 Chawla H.S. (2009) Introduction to Plant Biotechnology. Ed. Science Publisher
+
+Interamericana-McGraw-Hill,   UBe,   Madrid.  Disponible  versión  online  en  la  web  de  la  Biblioteca  UGR.
+(link)   Buchanan   B.B.,  Gruissen  W.  y  Jones  R.L.  (2015)  Biochemistry  and  Molecular  Biology  of  Plants
+(2ª edición, en inglés). American Society of Plant Physiologists. Rockville, Maryland, USA
 
 Seguí   J.M.   (2016)   Biotecnología  Vegetal.  La  ciencia  que  revoluciona  el  futuro  de  las  plantas.  Ed.
 Guadalmazán
@@ -28,29 +42,16 @@ Slater   A.,   Scot  N.W.  y  Fowler  M.R.  (2008)  Plant  Biotechnology:  The  
 Taiz L. et al. (2015) Plant Physiology and Development (6ª ed.). Ed. Sinauer Associates, Sunderland,
 MA, USA. ( link )
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (10):
 ------------------------------
-Dunwell   J.M.  y  Wetten  A..  (2012)  Transgenic  Plants:  Methods  and  Protocols.  Ed.  Humana  Press.  (link)
-Faye   L.   y   Gomord   V.   (2009)   Recombinant  Proteins  from  Plants.  Ed.  Humana  Press  →  Dunwell  J.M.  y
-Wetten A.. (2012) Transgenic Plants: Methods and Protocols. Ed. Humana Press. ( link )
+Dunwell   J.M.  y  Wetten  A..  (2012)  Transgenic  Plants:  Methods  and  Protocols.  Ed.  Humana  Press.  (  link
+)
 
-Hall   R.D.   (1999)   Plant   Cell  Culture  Protocols.  Ed.  Humana  Press.  (link)  Kole  Ch.,  Michler  Ch.H.,
-Abbott   A.G.   y   Hall  T.C.  (2010)  Transgenic  Crop  Plants  (Principles  and  Development).  Ed.  Springer.
-(link)   Kumar   S,   Barone  P  y  Smith  M.  (2019)  Transgenic  Plants:  Methods  and  Protocols.  Springer  New
-York.   (link)   Neumann   K.H.,   Kumar   A.   e  Imani  J.  (2009)  Plant  Cell  and  Tissue  Culture,  a  Tool  in
-Biotechnology. Ed. Springer. (link) Oksman-Caldentey K.M. y Barz W.H. (2002) Plant Biotechnology and
-Transgenic   Plants   →   Kumar  S,  Barone  P  y  Smith  M.  (2019)  Transgenic  Plants:  Methods  and  Protocols.
-Springer New York. ( link )
-
-Fett-Neto   A.G.   (2010)   Plant  Secondary  Metabolism  Engineering.  Ed.  Humana  Press.  (link)  García  del
-Moral   L.F.   (2021)   Biotecnología   vegetal.   Fundamentos  y  Aplicaciones.  Ed.  EUG  →  García  del  Moral
-L.F. (2021) Biotecnología vegetal. Fundamentos y Aplicaciones. Ed. EUG
-
-✅ Recursos añadidos:
-------------------------------
 Faye L. y Gomord V. (2009) Recombinant Proteins from Plants. Ed. Humana Press
 
 Fett-Neto A.G. (2010) Plant Secondary Metabolism Engineering. Ed. Humana Press. ( link )
+
+García del Moral L.F. (2021) Biotecnología vegetal. Fundamentos y Aplicaciones. Ed. EUG
 
 Hall R.D. (1999) Plant Cell Culture Protocols. Ed. Humana Press. ( link )
 
@@ -59,10 +60,13 @@ Izquierdo M. (2001) Ingeniería Genética y Transferencia Génica. Ed. Pirámide
 Kole   Ch.,   Michler   Ch.H.,   Abbott   A.G.   y  Hall  T.C.  (2010)  Transgenic  Crop  Plants  (Principles  and
 Development). Ed. Springer. ( link )
 
+Kumar   S,   Barone  P  y  Smith  M.  (2019)  Transgenic  Plants:  Methods  and  Protocols.  Springer  New  York.  (
+link )
+
 Neumann K.H., Kumar A. e Imani J. (2009) Plant Cell and Tissue Culture, a Tool in Biotechnology. Ed.
 Springer. ( link )
 
 Oksman-Caldentey   K.M.   y   Barz   W.H.   (2002)   Plant  Biotechnology  and  Transgenic  Plants.  Ed.  Marcel
 Dekker, Inc
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 82% [████████░░]

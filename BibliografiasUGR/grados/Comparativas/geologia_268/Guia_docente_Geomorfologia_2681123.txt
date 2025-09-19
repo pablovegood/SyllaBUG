@@ -2,19 +2,26 @@
 Grado: geologia (268)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+GUTIÉRREZ   ELORZA,   M.  (2008).  “Geomorfología”.  Ed.  Pearson  GUTIÉRREZ,  F.,  &  GUTIÉRREZ,  M.  (2016).
+“Landforms of the earth: an illustrated guide”. Springer
 
-📚 Recursos sin cambios:
+GUTIÉRREZ   ELORZA,   M.   (ed.)  (1994).  “Geomorfología  de  España”.  Ed.  Rueda  HAILS,  J.R.  (ed.)  (1977).
+“Applied Geomorphology”. Elsevier
+
+STRAHLER,   A.  (1951).  “Physical  Geography”.  John  Wiley  and  Sons  (traducción  en  castellano  Ed.  Omega)
+SUMMERFIELD, M.A. (1991). “Global Geomorphology”, Ed. Prentice Hill
+
+📚 Recursos sin cambios (33):
 ------------------------------
 ALLEN, P.A. (1997). “Earth Surface Processes”. Ed Blackwell Science Ltd
 
 ANDERSON,   R.   S.,   &   ANDERSON,   S.   P.   (2010).   “Geomorphology:   the   mechanics   and  chemistry  of
 landscapes”. Cambridge University Press
 
-BENNETT,   M.,   &  GLASSER,  N.  F.  (2009).  “Glacial  geology:  ice  sheets  and  landforms”.  Chichester,  UK,
-Wiley- Blackwell
+BIBLIOGRAFÍA   ESPECÍFICA:   BENNETT,   M.,   &   GLASSER,  N.  F.  (2009).  “Glacial  geology:  ice  sheets  and
+landforms”. Chichester, UK, Wiley- Blackwell
 
 BIERMAN,   P.   R.,   &   MONTGOMERY,   D.   R.  (2014).  “Key  concepts  in  geomorphology”.  W.  H.  Freeman  and
 Company Publishers
@@ -36,11 +43,11 @@ CUADRAT, J.M. y PITA, M.F. (1997). “Climatología”. Cátedra
 DERRUAU,   M.   (1959).   “   Précis  de  Geomorphologie”  Ed.  Masson  (traducción  en  castellano.  Ed.  Ariel.
 “Geomorfología”)
 
+Ed. Ariel. “Geomorfología”) GIL, A. Y OLCINA, J. (1997). “Climatología General”. Ariel Geografía
+
 FORD, D. C., & WILLIAMS, P. (2013). “Karst hydrogeology and geomorphology”. Hoboken, N.J., Wiley
 
 FRENCH, H. M. (2018). “The periglacial environment”. John Wiley & Sons
-
-GIL, A. Y OLCINA, J. (1997). “Climatología General”. Ariel Geografía
 
 GLADE,   T.,   ANDERSON,  M.  G.,  &  CROZIER,  M.  J.  (2007).  “Landslide  hazard  and  risk”.  Chichester,  West
 Sussex, England, J. Wiley
@@ -81,27 +88,22 @@ TWIDALE, C.R. (1976). “Analysis of Landforms”. Ed. John Wiley and Sons
 
 VIERS, G. (1974). “Geomorfología”. Ed. Oikos-Tau
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-GUTIÉRREZ   ELORZA,   M.  (2008).  “Geomorfología”.  Ed.  Pearson  GUTIÉRREZ,  F.,  &  GUTIÉRREZ,  M.  (2016).
-“Landforms   of   the   earth:   an   illustrated   guide”   →   GUTIÉRREZ,   F.,   &   GUTIÉRREZ,  M.  (2016).
-“Landforms of the earth: an illustrated guide”. Springer
-
-STRAHLER,   A.  (1951).  “Physical  Geography”.  John  Wiley  and  Sons  (traducción  en  castellano  Ed.  Omega)
-SUMMERFIELD,   M.A.   (1991).   “Global   Geomorphology”,   Ed.  Prentice  Hill  →  SUMMERFIELD,  M.A.  (1991).
-“Global Geomorphology”, Ed. Prentice Hill
-
-GUTIÉRREZ   ELORZA,   M.   (ed.)  (1994).  “Geomorfología  de  España”.  Ed.  Rueda  HAILS,  J.R.  (ed.)  (1977).
-“Applied Geomorphology”. Elsevier  →  HAILS, J.R. (ed.) (1977). “Applied Geomorphology”. Elsevier
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (8):
 ------------------------------
 BIBLIOGRAFÍA ESPECÍFICA
+
+GUTIÉRREZ, F., & GUTIÉRREZ, M. (2016). “Landforms of the earth: an illustrated guide”. Springer
+
+GUTIÉRREZ ELORZA, M. (2008). “Geomorfología”. Ed. Pearson
 
 GUTIÉRREZ ELORZA, M. (2008). “Geomorfología”. Ed. Pearson
 
 GUTIÉRREZ ELORZA, M. (ed.) (1994). “Geomorfología de España”. Ed. Rueda
 
+HAILS, J.R. (ed.) (1977). “Applied Geomorphology”. Elsevier
+
 STRAHLER, A. (1951). “Physical Geography”. John Wiley and Sons (traducción en castellano Ed. Omega)
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+SUMMERFIELD, M.A. (1991). “Global Geomorphology”, Ed. Prentice Hill
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

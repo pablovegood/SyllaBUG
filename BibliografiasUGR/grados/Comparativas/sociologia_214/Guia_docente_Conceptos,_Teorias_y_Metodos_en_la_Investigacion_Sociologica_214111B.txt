@@ -2,11 +2,19 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Disponible   en:   https://fgbueno.es/bas/pdf/bas10202.pdf   Bueno,   G.   (1984).   Ensayo   de  una  teoría
+antropológicas   de   las   ceremonias,   El   Basilisco,   Nº16,   septiembre,   pp.   8-37.   Disponible  en:
+https://www.filosofia.org/rev/bas/bas11602.htm   Bueno,   G.  (1993)  Teoría  del  cierre  categorial  (Tomo
+1). Oviedo: Pentalfa
 
-📚 Recursos sin cambios:
+Valdera   Gil,   J.   M.   (2011).   Las   partes   formales   de   la   sociología  desde  la  Teoría  del  Cierre
+Categorial: una aproximación analítica, El Catoblepas, Revista Crítica del Presente, Nº 114, Agosto.
+Disponible   en:   http://www.nodulo.org/ec/2011/n114p09.htm  Veltri,  Giuseppe  A.  (2020).Digital  Social
+Research. Cambridge: Polity Press
+
+📚 Recursos sin cambios (48):
 ------------------------------
 Alston, William P. (1980, 2º ed.). Filosofía del lenguaje . Madrid: Alianza Editorial
 
@@ -37,14 +45,13 @@ Bueno,   Gustavo.   (1978).   "En   torno   al   concepto   de   'Ciencias   Hum
 metodologías α-operatorias y β-operatorias", El Basilisco, Nº2, mayo-junio, pp-12-46. Disponible en:
 https://fgbueno.es/bas/pdf/bas10202.pdf
 
-Bueno,   Gustavo.   (1984).  Ensayo  de  una  teoría  antropológicas  de  las  ceremonias,  El  Basilisco,  Nº16,
-septiembre, pp. 8-37. Disponible en: https://www.filosofia.org/rev/bas/bas11602.htm
-
-Bueno, Gustavo. (1993). Teoría del cierre categorial (Tomo 1). Oviedo: Pentalfa
-
 Bunge, Mario. (1999). Buscar la filosofía en las ciencias sociales . Madrid: Siglo XXI
 
 Bunge, Mario. (2000). La relación entre la sociología y la filosofía . Madrid: EDAF
+
+Chalmers, Alan. (2010). ¿Qué es esa cosa llamada ciencia?. Madrid: Siglo XXI
+
+Copi, Irving. M y Cohen, Carl. (2013). Introducción a la lógica . Buenos Aires: Eudeba
 
 De Francisco, Andrés. (1997). Sociología y cambio social . Madrid: Ariel
 
@@ -76,10 +83,19 @@ Goldthorpe, John H. (2017). La sociología como ciencia de la población . Madri
 Goldthorpe,   John   H.   (2021).  Pioneers  of  the  Sociological  Science:  Statistical  Foundations  and  the
 Theory of Action . Cambridge: Cambridge University Press
 
+Gordon, Scott. (1995). Historia y filosofía de las ciencias sociales . Barcelona: Ariel
+
 Gómez   Rodríguez,  Amparo.  (2003).  Filosofía  y  metodología  de  las  ciencias  sociales  .  Madrid:  Alianza
 Editorial
 
+Harding, Sandra G. (1993). Ciencia y Feminismo . Madrid: Ediciones Morata
+
+Hollis, Martin. (1988). Filosofía de las ciencias sociales . Barcelona: Ariel
+
 Hospers, John. (1984). Introducción al análisis filosófico . Madrid: Alianza Editorial
+
+Hughes,   John.   A.   y   Wes.  W.  Sharrock.  (2007).  Theory  and  Methods  in  Sociology.  An  Introduction  to
+Sociological Thinking and Practice . New York: Palgrave Macmillan
 
 Joly,   Marc.   (2020).  A  près  la  philosophie:  histoire  et  epistemologie  de  la  sociologie  européenne  .
 París: CNRS Éditions
@@ -87,6 +103,9 @@ París: CNRS Éditions
 Levitin, Daniel. (2018). A Field Guide to Lies and Statistics . Londres: Penguin
 
 Linares Martínez, Francisco. (2018). Sociología y teoría social analíticas . Madrid: Alianza
+
+Mardones,   José   María.   (1994).   (ed.).   Filosofía   de  las  ciencias  humanas  y  sociales  .  Barcelona:
+Anthropos
 
 Martineau, Harriet. (2022). Cómo observar la moral y las costumbres . Madrid: CIS
 
@@ -115,39 +134,21 @@ Whorf, Benjamin Lee. (1999). Lenguaje, pensamiento y realidad . Barcelona: Círc
 
 Wright. Erik. Olin. (2018). Comprender las clases sociales . Madrid: Ediciones Akal
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-Valdera   Gil,   J.   M.   (2011).   Las   partes   formales   de   la   sociología  desde  la  Teoría  del  Cierre
-Categorial:   una   aproximación   analítica,   El   Catoblepas,  Revista  Crítica  del  Presente,  Nº  Veltri,
-Giuseppe   A.   (2020).Digital   Social  Research.  Cambridge:  Polity  Press  →  Veltri,  Giuseppe  A.  (2020).
-Digital Social Research . Cambridge: Polity Press
+Bueno,   Gustavo.   (1984).  Ensayo  de  una  teoría  antropológicas  de  las  ceremonias,  El  Basilisco,  Nº16,
+septiembre, pp. 8-37. Disponible en: https://www.filosofia.org/rev/bas/bas11602.htm
 
-✅ Recursos añadidos:
-------------------------------
+Bueno, Gustavo. (1993). Teoría del cierre categorial (Tomo 1). Oviedo: Pentalfa
+
 Cataño,    Gonzalo.    (2008).    Orlando   Fals   Borda,   Sociólogo   del   compromiso.   Espacio   Abierto,
 17(4),549-567    [fecha    de    Consulta   2   de   Junio   de   2025].   ISSN:   1315-0006.   Recuperado   de:
 https://www.redalyc.org/articulo.oa?id=12217401
-
-Chalmers, Alan. (2010). ¿Qué es esa cosa llamada ciencia?. Madrid: Siglo XXI
-
-Copi, Irving. M y Cohen, Carl. (2013). Introducción a la lógica . Buenos Aires: Eudeba
-
-Gordon, Scott. (1995). Historia y filosofía de las ciencias sociales . Barcelona: Ariel
-
-Harding, Sandra G. (1993). Ciencia y Feminismo . Madrid: Ediciones Morata
-
-Hollis, Martin. (1988). Filosofía de las ciencias sociales . Barcelona: Ariel
-
-Hughes,   John.   A.   y   Wes.  W.  Sharrock.  (2007).  Theory  and  Methods  in  Sociology.  An  Introduction  to
-Sociological Thinking and Practice . New York: Palgrave Macmillan
 
 Lopes, Carlos. (2009). Sociología e historia africanas. Reflexiones metodológicas a propósito de una
 investigación (investigaciones en curso). En Saavedra C., José Arturo. África: Perspectivas sobre su
 cultura     e     historia.     Tomo     1.     El     Colegio     de     México,     2009.    Project    MUSE.
 https://muse.jhu.edu/book/74690
-
-Mardones,   José   María.   (1994).   (ed.).   Filosofía   de  las  ciencias  humanas  y  sociales  .  Barcelona:
-Anthropos
 
 Otras   lecturas   que  pudiesen  recomendarse  por  parte  del  profesorado  en  la  guía  didáctica  específica
 del grupo
@@ -156,4 +157,6 @@ Valdera   Gil,   Juan   Miguel.  (2011).  Las  partes  formales  de  la  sociolo
 Categorial: una aproximación analítica, El Catoblepas, Revista Crítica del Presente, Nº 114, Agosto.
 Disponible en: http://www.nodulo.org/ec/2011/n114p09.htm
 
-📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
+Veltri, Giuseppe A. (2020). Digital Social Research . Cambridge: Polity Press
+
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

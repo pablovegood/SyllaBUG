@@ -2,37 +2,21 @@
 Grado: geografia-gestion-territorio (208)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-Clanchy,   John   y  Ballard,  Brigid:  Cómo  se  hace  un  trabajo  académico.  Guía  práctica  para  estudiantes
-universitarios, Zaragoza, Prensas Universitarias, 1995
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Montero   Alonso,  Miguel  Ángel  y  Pérez  Castro,  Miguel  Ángel:  Guía  para  la  elaboración  del  Trabajo  Fin
-de   Grado   (TFG).   Gestión   y  Edición  de  Publicaciones  Profesionales,  2014.  Editorial  Universidad  de
-Granada:   Guía   de   estilo,   Granada,   Universidad  de  Granada,  2007  →  Montero  Alonso,  Miguel  Ángel  y
-Pérez   Castro,   Miguel   Ángel:   Guía   para   la  elaboración  del  Trabajo  Fin  de  Grado  (TFG).  Gestión  y
-Edición de Publicaciones Profesionales, 2014
-
 Novelle   López,   Laura:  Sobrevivir  al  Trabajo  Fin  de  Grado  en  Humanidades  y  Ciencias  Sociales:  todo
 lo   que  necesitas  saber.  Amazon  KDP,  2022  Delgado  López-Cózar,  Emilio:  ¿Cómo  redactar  un  Trabajo  Fin
 de   Grado?   Reglas  y  consejos  sobre  redacción  académica.  En:  Plan  de  Acción  Tutorial  "Prepárate  para
-el   Trabajo   Fin   de   Grado".   Universidad   de   Granada,  2016  →  Novelle  López,  Laura:  Sobrevivir  al
-Trabajo   Fin   de   Grado  en  Humanidades  y  Ciencias  Sociales:  todo  lo  que  necesitas  saber.  Amazon  KDP,
-2022
+el   Montero   Alonso,  Miguel  Ángel  y  Pérez  Castro,  Miguel  Ángel:  Guía  para  la  elaboración  del  Trabajo
+Fin de Grado (TFG). Gestión y Edición de Publicaciones Profesionales, 2014
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (3):
 ------------------------------
-Además,   aunque   otra   bibliografía   básica   para   la  realización  del  Trabajo  fin  de  Grado  pueda  ser
-facilitada   por   el   tutor   o  la  tutora  asignado  al  estudiante  en  función  del  tema  seleccionado  para
-desarrollar   su   trabajo,   éste   deberá   hacer  la  correspondiente  búsqueda  y  selección  de  fuentes  de
-referencia a partir de las indicaciones del tutor o de la tutora y en función de las necesidades que
-se le planteen para el desarrollo del mismo
+Además,   aunque   otra   bibliografía   básica   para  la  realización  del  TFG  pueda  ser  facilitada  por  el
+tutor   asignado   al   estudiante   en   función   del   tema  seleccionado  para  desarrollar  su  trabajo,  el
+estudiante deberá hacer la correspondiente búsqueda y selección de fuentes de referencia a partir de
+las indicaciones del tutor y en función de las necesidades que se le planteen para el desarrollo del
+TFG
 
 Aunque   la   bibliografía   complementaria   para   la   realización   del   Trabajo  fin  de  Grado  pueda  ser
 facilitada   por   el   tutor   o  la  tutora  asignado  al  estudiante  en  función  del  tema  seleccionado  para
@@ -40,7 +24,16 @@ desarrollar   su   trabajo,   éste   deberá   hacer  la  correspondiente  bús
 referencia a partir de las indicaciones del tutor o de la tutora y en función de las necesidades que
 se le planteen para el desarrollo del mismo
 
-BIBLIOGRAFÍA BÁSICA
+Clanchy,   John   y  Ballard,  Brigid:  Cómo  se  hace  un  trabajo  académico.  Guía  práctica  para  estudiantes
+universitarios, Zaragoza, Prensas Universitarias, 1995. -
+
+✅ Recursos añadidos (5):
+------------------------------
+Además,   aunque   otra   bibliografía   básica   para   la  realización  del  Trabajo  fin  de  Grado  pueda  ser
+facilitada   por   el   tutor   o  la  tutora  asignado  al  estudiante  en  función  del  tema  seleccionado  para
+desarrollar   su   trabajo,   éste   deberá   hacer  la  correspondiente  búsqueda  y  selección  de  fuentes  de
+referencia a partir de las indicaciones del tutor o de la tutora y en función de las necesidades que
+se le planteen para el desarrollo del mismo
 
 Delgado   López-Cózar,   Emilio:   ¿Cómo   redactar   un   Trabajo   Fin   de  Grado?  Reglas  y  consejos  sobre
 redacción   académica.   En:   Plan   de   Acción   Tutorial   "Prepárate   para   el   Trabajo  Fin  de  Grado".
@@ -48,4 +41,10 @@ Universidad de Granada, 2016
 
 Editorial Universidad de Granada: Guía de estilo, Granada, Universidad de Granada, 2007
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Montero   Alonso,  Miguel  Ángel  y  Pérez  Castro,  Miguel  Ángel:  Guía  para  la  elaboración  del  Trabajo  Fin
+de Grado (TFG). Gestión y Edición de Publicaciones Profesionales, 2014
+
+Novelle   López,   Laura:  Sobrevivir  al  Trabajo  Fin  de  Grado  en  Humanidades  y  Ciencias  Sociales:  todo
+lo que necesitas saber. Amazon KDP, 2022
+
+📊 Porcentaje estimado de cambio: 75% [███████░░░]

@@ -2,11 +2,21 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+CULLEN,   G,   El   paisaje   urbano,  Labor,  Barcelona,  1984.  Edición  en  castellano:  Arquitectura:  forma
+espacio   y   orden,  Editorial  Gustavo  Gili,  S.A.  13a  edic,  Barcelona,  Edición  en  castellano:  Dibujo  y
+proyecto, Editorial Gustavo Gili, S.A. Barcelona, 1999
 
-📚 Recursos sin cambios:
+GARCIA   BUENO,   Antonio.   Dibujo:   memoria   gráfica,   curso   2008-2009:   dibujos   realizados  Gráfica
+Arquitectónica y en la Ingeniería, Granada, 2010
+
+GOMEZ-BLANCO   PONTES,  A.J.,Un  análisis  sistémico  de  la  imagen  fotográfica  de  GÓMEZ-BLANCO  PONTES,  A.
+J.,   Dibujar   Granada.  La  Gran  Vía  de  Colón,  Editorial  de  la  GOMEZ-BLANCO  PONTES,  A.J.,  Propedéutica
+para   un   análisis  documental  del  dibujo  de  HOLL,  Steven,  Cuestiones  de  percepción.  Fenomenología  de
+la arquitectura, Editorial Gustavo Gili, Barcelona, 2011
+
+📚 Recursos sin cambios (36):
 ------------------------------
 BAKER, G, Le Corbusier, Análisis de la forma, Gustavo Gili, Barcelona, 1992
 
@@ -26,10 +36,6 @@ CHING,   Francis   D.K.,   Architecture:   forms,  space  and  order,  Edit  Joh
 
 CHING,   Francis   D.K.,   Manual  de  dibujo  arquitectónico,  Editorial  Gustavo  Gili,  3a  edic,  Barcelona,
 1996
-
-CULLEN,   G,   El   paisaje   urbano,  Labor,  Barcelona,  1984.  Edición  en  castellano:  Arquitectura:  forma
-espacio   y   orden,   Editorial   Gustavo   Gili,  S.A.  13a  edic,  Barcelona,  2002.  Edición  en  castellano:
-Dibujo y proyecto, Editorial Gustavo Gili, S.A. Barcelona, 1999
 
 DELGADO   YANES,   M.   y   REDONDO   DOMINGUEZ,   E.,   Dibujo   a   mano  alzada  para  arquitectos,  Parramón.
 Ediciones, Barcelona, 2004
@@ -55,30 +61,14 @@ GARCIA   BUENO,   Antonio.  Dibujo:  memoria  gráfica,  curso  2007-2008:  dibu
 E.T.S.A.   Granada.   Universidad  de  Granada,  Departamento  de  Expresión  Gráfica  Arquitectónica  y  en  la
 Ingeniería, Granada, 2010
 
-GARCIA   BUENO,   Antonio.  Dibujo:  memoria  gráfica,  curso  2008-2009:  dibujos  realizados  por  alumnos  de
-E.T.S.A.   Granada.   Universidad  de  Granada,  Departamento  de  Expresión  Gráfica  Arquitectónica  y  en  la
-Ingeniería, Granada, 2010
-
 GARCIA   BUENO,   Antonio.   Palacio   de   Santa   Inés,  Sede  de  la  Fundación  Albaicín  -  Granada:  dibujos
 realizados   por   los   alumnos  de  E.T.S.A.  Granada.  Universidad  de  Granada,  Departamento  de  Expresión
 Gráfica Arquitectónica y en la Ingeniería, Granada, 2010
 
 GIEDION, S, Espacio, tiempo y arquitectura, Hoepli, Buenos Aires, 1975
 
-GOMEZ-BLANCO   PONTES,   A.J.,   Propedéutica   para   un  análisis  documental  del  dibujo  de  arquitectura,
-Editorial de la Universidad de Granada, Granada, 2008
-
-GOMEZ-BLANCO   PONTES,  A.J.,Un  análisis  sistémico  de  la  imagen  fotográfica  de  arquitectura,  Editorial
-de la Universidad de Granada, 2003
-
 GREGOTTI,   Vittorio,   Desde   el   Interior  de  la  Arquitectura.  Un  ensayo  de  interpretación,  Ediciones
 Península / Ideas. Barcelona, 1991
-
-GÓMEZ-BLANCO   PONTES,   A.   J.,  Dibujar  Granada.  La  Gran  Vía  de  Colón,  Editorial  de  la  Universidad  de
-Granada, 2004
-
-HOLL,   Steven,   Cuestiones   de  percepción.  Fenomenología  de  la  arquitectura,  Editorial  Gustavo  Gili,
-Barcelona, 2011
 
 HOLL, Steven, Parallax, Princenton Architectural Press, New York, 2000
 
@@ -124,14 +114,34 @@ ZUMTHOR, Peter, Atmósferas, Editorial Gustavo Gili, Barcelona, 2006
 
 ZUMTHOR, Peter, Pensar la arquitectura, Editorial Gustavo Gili, Barcelona, 2009
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (8):
 ------------------------------
-No hubo cambios de edición/año.
+CULLEN,   G,   El   paisaje   urbano,  Labor,  Barcelona,  1984.  Edición  en  castellano:  Arquitectura:  forma
+espacio   y   orden,   Editorial   Gustavo   Gili,  S.A.  13a  edic,  Barcelona,  2002.  Edición  en  castellano:
+Dibujo y proyecto, Editorial Gustavo Gili, S.A. Barcelona, 1999
 
-✅ Recursos añadidos:
-------------------------------
 GARCIA   BUENO,   Antonio,   Dibujando  en  Granada,  la  ciudad  baja:  dibujos  realizados  por  alumnos  de  la
 Escuela   Técnica   Superior   de   Arquitectura   de   la  Universidad  de  Granada.  Universidad  de  Granada,
 Departamento de Expresión Gráfica Arquitectónica y en la Ingeniería, Granada, 2008
 
-📊 Porcentaje estimado de cambio: 2% [░░░░░░░░░░]
+GARCIA   BUENO,   Antonio.  Dibujo:  memoria  gráfica,  curso  2007-2008:  dibujos  realizados  por  alumnos  de
+E.T.S.A.   Granada.   Universidad  de  Granada,  Departamento  de  Expresión  Gráfica  Arquitectónica  y  en  la
+Ingeniería, Granada, 2010
+
+GARCIA   BUENO,   Antonio.  Dibujo:  memoria  gráfica,  curso  2008-2009:  dibujos  realizados  por  alumnos  de
+E.T.S.A.   Granada.   Universidad  de  Granada,  Departamento  de  Expresión  Gráfica  Arquitectónica  y  en  la
+Ingeniería, Granada, 2010
+
+GOMEZ-BLANCO   PONTES,   A.J.,   Propedéutica   para   un  análisis  documental  del  dibujo  de  arquitectura,
+Editorial de la Universidad de Granada, Granada, 2008
+
+GOMEZ-BLANCO   PONTES,  A.J.,Un  análisis  sistémico  de  la  imagen  fotográfica  de  arquitectura,  Editorial
+de la Universidad de Granada, 2003
+
+GÓMEZ-BLANCO   PONTES,   A.   J.,  Dibujar  Granada.  La  Gran  Vía  de  Colón,  Editorial  de  la  Universidad  de
+Granada, 2004
+
+HOLL,   Steven,   Cuestiones   de  percepción.  Fenomenología  de  la  arquitectura,  Editorial  Gustavo  Gili,
+Barcelona, 2011
+
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

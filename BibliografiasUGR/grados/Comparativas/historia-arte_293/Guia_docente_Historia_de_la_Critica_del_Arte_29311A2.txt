@@ -2,12 +2,18 @@
 Grado: historia-arte (293)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Barcelona:   Península,   2000  LORENTE,  Jesús  Pedro.Historia  de  la  crítica  de  arte.  Textos  escogidos  y
+comentados. Zaragoza: Prensas universitarias, 2006
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
+BENJAMIN,   Walter.El   concepto   de   crítica  de  arte  en  el  Romanticismo  alemán.  Barcelona:  Península,
+2000
+
+BIBLIOGRAFÍA FUNDAMENTAL DISTRIBUIDA POR TEMAS
+
 CALLE,   Román   de   la.A   propósito   de   la   crítica   de  arte.  Teoría  y  práctica,  cultura  y  política.
 Valencia: Universidad de Valencia, 2012
 
@@ -17,63 +23,32 @@ de San Fernando, 2001
 CIRLOT,   Juan   Eduardo.De   la   crítica  de  arte  a  la  filosofía  del  arte:  correspondencia  con  Canogar,
 Cela, Cuixart. Barcelona: Quaderns Crema, 1997
 
-DÍAZ SÁNCHEZ, Julián.La crítica de arte en España (1936-1976). Madrid: Istmo, 2004
+D’ORS, Eugenio.Tres lecciones de crítica de arte en el Museo del Prado. Madrid: Tecnos, 1998
+
+GAYA   NUÑO,   Juan   Antonio.Historia   de   la   crítica   de   arte  en  España.  Madrid:  Ibérico  Europea  de
+Ediciones, 1975
 
 GUASCH, Anna María (coord.)La crítica de arte: historia, teoría y praxis. Barcelona: Serbal, 2003
 
-HENARES   CUÉLLAR,   Ignacio  y  CAPARRÓS  MASEGOSA,  Lola  (eds.)La  crítica  de  arte  en  España  (1830-1936).
-Granada: Universidad de Granada, 2008
+HENARES   CUÉLLAR,   Ignacio   y  CAPARRÓS  MASEGOSA,  Lola  (eds.)La  crítica  de  RAMÍREZ,  Juan  Antonio.Cómo
+escribir sobre arte y arquitectura. Barcelona: Serbal, 1996
 
 LORENTE,   Jesús   Pedro.Historia   de   la   crítica   de   arte.  Textos  escogidos  y  comentados.  Zaragoza:
 Prensas universitarias, 2006
 
 SCIOLLA, Gian Carlo.La critica d’arte nel Novecento. Turín: UTET, 1995
 
+SOLANA,   Guillermo   (ed.)El   impresionismo,   la   visión   original.   Antología   de  la  crítica  de  arte
+(1867-1895). Madrid: Siruela, 1997.http://grados.ugr.es/arte/pages/infoacademica/profesorado/*/14
+
+Temas 7 y 8 DÍAZ SÁNCHEZ, Julián.La crítica de arte en España (1936-1976). Madrid: Istmo, 2004
+
 VENTURI, Lionello.Historia de la crítica de arte. Barcelona: Gustavo Gili, 1982
 
 VENTURI, Lionello.Historia de la crítica de arte.Barcelona: Gustavo Gili, 1982
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (9):
 ------------------------------
-Tema   3   BENJAMIN,   Walter.El   concepto   de   crítica   de   arte  en  el  Romanticismo  alemán.  Barcelona:
-Península,   2000  LORENTE,  Jesús  Pedro.Historia  de  la  crítica  de  arte.  Textos  escogidos  y  comentados.
-Zaragoza:   Prensas   universitarias,  2006  →  Tema  3  BENJAMIN,  Walter.El  concepto  de  crítica  de  arte  en
-el   Romanticismo   alemán.   Barcelona:  Península,  2000  LORENTE,  Jesús  Pedro.Historia  de  la  crítica  de
-arte.    Textos    escogidos    y    comentados.    Zaragoza:    Prensas   universitarias,   2006.   VENTURI,
-Lionello.Historia de la crítica de arte. Barcelona: Gustavo Gili, 1982
-
-Ibérico   Europea   de  Ediciones,  1975  →  Temas  7  y  8  DÍAZ  SÁNCHEZ,  Julián.La  crítica  de  arte  en  España
-(1936-1976).   Madrid:  Istmo,  2004.  GAYA  NUÑO,  Juan  Antonio.Historia  de  la  crítica  de  arte  en  España.
-Madrid: Ibérico Europea de Ediciones, 1975
-
-Tema   2  GUASCH,  Anna  María  (coord.)La  crítica  de  arte:  historia,  teoría  y  praxis.  Barcelona:  Serbal,
-2003   →   Tema   1   CALLE,  Román  de  la.A  propósito  de  la  crítica  de  arte.  Teoría  y  práctica,  cultura  y
-política. Valencia: Universidad de Valencia, 2012. CALVO SERRALLER, Francisco.Naturaleza y misión de
-la   crítica   de   arte.   Madrid:   Real   Academia   de   BBAA   de  San  Fernando,  2001.  GUASCH,  Anna  María
-(coord.)La crítica de arte: historia, teoría y praxis. Barcelona: Serbal, 2003
-
-Tema 5 LORENTE, Jesús Pedro.Historia de la crítica de arte. Textos escogidos y comentados. Zaragoza:
-Prensas   universitarias,   2006   →  Tema  5  LORENTE,  Jesús  Pedro.Historia  de  la  crítica  de  arte.  Textos
-escogidos   y   comentados.   Zaragoza:   Prensas  universitarias,  2006.  VENTURI,  Lionello.Historia  de  la
-crítica de arte. Barcelona: Gustavo Gili, 1982
-
-Tema   6  GUASCH,  Anna  María  (coord.)La  crítica  de  arte:  historia,  teoría  y  praxis.  Barcelona:  Serbal,
-2003   →   Tema   1   CALLE,  Román  de  la.A  propósito  de  la  crítica  de  arte.  Teoría  y  práctica,  cultura  y
-política. Valencia: Universidad de Valencia, 2012. CALVO SERRALLER, Francisco.Naturaleza y misión de
-la   crítica   de   arte.   Madrid:   Real   Academia   de   BBAA   de  San  Fernando,  2001.  GUASCH,  Anna  María
-(coord.)La crítica de arte: historia, teoría y praxis. Barcelona: Serbal, 2003
-
-Tema   4  GUASCH,  Anna  María  (coord.)La  crítica  de  arte:  historia,  teoría  y  praxis.  Barcelona:  Serbal,
-2003   →   Tema   1   CALLE,  Román  de  la.A  propósito  de  la  crítica  de  arte.  Teoría  y  práctica,  cultura  y
-política. Valencia: Universidad de Valencia, 2012. CALVO SERRALLER, Francisco.Naturaleza y misión de
-la   crítica   de   arte.   Madrid:   Real   Academia   de   BBAA   de  San  Fernando,  2001.  GUASCH,  Anna  María
-(coord.)La crítica de arte: historia, teoría y praxis. Barcelona: Serbal, 2003
-
-✅ Recursos añadidos:
-------------------------------
-BENJAMIN,   Walter.El   concepto   de   crítica  de  arte  en  el  Romanticismo  alemán.  Barcelona:  Península,
-2000
-
 BIBLIOGRAFÍA   COMPLEMENTARIA:   CIRLOT,   Juan   Eduardo.De  la  crítica  de  arte  a  la  filosofía  del  arte:
 correspondencia   con   Canogar,   Cela,   Cuixart.  Barcelona:  Quaderns  Crema,  1997.  D’ORS,  Eugenio.Tres
 lecciones de crítica de arte en el Museo del Prado. Madrid: Tecnos, 1998. HENARES CUÉLLAR, Ignacio y
@@ -83,25 +58,30 @@ Granada,   2008.   RAMÍREZ,   Juan   Antonio.Cómo  escribir  sobre  arte  y  a
 (ed.)El   impresionismo,   la   visión   original.   Antología  de  la  crítica  de  arte  (1867-1895).  Madrid:
 Siruela, 1997.http://grados.ugr.es/arte/pages/infoacademica/profesorado/*/14
 
-BIBLIOGRAFÍA FUNDAMENTAL DISTRIBUIDA POR TEMAS
+HENARES   CUÉLLAR,   Ignacio  y  CAPARRÓS  MASEGOSA,  Lola  (eds.)La  crítica  de  arte  en  España  (1830-1936).
+Granada: Universidad de Granada, 2008
 
-D’ORS, Eugenio.Tres lecciones de crítica de arte en el Museo del Prado. Madrid: Tecnos, 1998
-
-GAYA   NUÑO,   Juan   Antonio.Historia   de   la   crítica   de   arte  en  España.  Madrid:  Ibérico  Europea  de
-Ediciones, 1975
-
-RAMÍREZ, Juan Antonio.Cómo escribir sobre arte y arquitectura. Barcelona: Serbal, 1996
-
-SOLANA,   Guillermo   (ed.)El   impresionismo,   la   visión   original.   Antología   de  la  crítica  de  arte
-(1867-1895). Madrid: Siruela, 1997.http://grados.ugr.es/arte/pages/infoacademica/profesorado/*/14
+Tema   1  CALLE,  Román  de  la.A  propósito  de  la  crítica  de  arte.  Teoría  y  práctica,  cultura  y  política.
+Valencia:   Universidad   de   Valencia,   2012.   CALVO   SERRALLER,   Francisco.Naturaleza  y  misión  de  la
+crítica   de  arte.  Madrid:  Real  Academia  de  BBAA  de  San  Fernando,  2001.  GUASCH,  Anna  María  (coord.)La
+crítica de arte: historia, teoría y praxis. Barcelona: Serbal, 2003
 
 Tema   2  GUASCH,  Anna  María  (coord.)La  crítica  de  arte:  historia,  teoría  y  praxis.  Barcelona:  Serbal,
 2003.   LORENTE,  Jesús  Pedro.Historia  de  la  crítica  de  arte.  Textos  escogidos  y  comentados.  Zaragoza:
 Prensas   universitarias,   2006.   VENTURI,  Lionello.Historia  de  la  crítica  de  arte.Barcelona:  Gustavo
 Gili, 1982
 
+Tema   3   BENJAMIN,   Walter.El   concepto   de   crítica   de   arte  en  el  Romanticismo  alemán.  Barcelona:
+Península,   2000  LORENTE,  Jesús  Pedro.Historia  de  la  crítica  de  arte.  Textos  escogidos  y  comentados.
+Zaragoza: Prensas universitarias, 2006. VENTURI, Lionello.Historia de la crítica de arte. Barcelona:
+Gustavo Gili, 1982
+
 Tema   4  GUASCH,  Anna  María  (coord.)La  crítica  de  arte:  historia,  teoría  y  praxis.  Barcelona:  Serbal,
 2003.   LORENTE,  Jesús  Pedro.Historia  de  la  crítica  de  arte.  Textos  escogidos  y  comentados.  Zaragoza:
+Prensas   universitarias,   2006.  VENTURI,  Lionello.Historia  de  la  crítica  de  arte.  Barcelona:  Gustavo
+Gili, 1982
+
+Tema 5 LORENTE, Jesús Pedro.Historia de la crítica de arte. Textos escogidos y comentados. Zaragoza:
 Prensas   universitarias,   2006.  VENTURI,  Lionello.Historia  de  la  crítica  de  arte.  Barcelona:  Gustavo
 Gili, 1982
 
@@ -110,4 +90,8 @@ Tema   6  GUASCH,  Anna  María  (coord.)La  crítica  de  arte:  historia,  teo
 Prensas   universitarias,   2006.  VENTURI,  Lionello.Historia  de  la  crítica  de  arte.  Barcelona:  Gustavo
 Gili, 1982
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+Temas 7 y 8 DÍAZ SÁNCHEZ, Julián.La crítica de arte en España (1936-1976). Madrid: Istmo, 2004. GAYA
+NUÑO,   Juan   Antonio.Historia  de  la  crítica  de  arte  en  España.  Madrid:  Ibérico  Europea  de  Ediciones,
+1975
+
+📊 Porcentaje estimado de cambio: 41% [████░░░░░░]

@@ -2,11 +2,11 @@
 Grado: filologia-clasica (276)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (33):
 ------------------------------
 AA. VV.,1996: Oxford Classical Dictionnary, ed. Hornblower, S. - Spawforth, A., London
 
@@ -36,7 +36,7 @@ DAREMBERG,   C.   -   SAGLIO,   E.   1877-1919:   Dictionnaire   des  antiquité
 DONATI,   N.   -   Stefanetti,   P.,  2006:  Dies  natalis:  i  calendari  romani  e  gli  anniversari  dei  culti,
 Roma
 
-FERNÁNDEZ VEGA, R. M., 1999: La casa romana, León
+FERNÁNDEZ VEGA, R. M., La casa romana, León, 1999
 
 GARCÍA MORENO, L. [et al.], 1999: Historia del mundo clásico a través de sus textos, Madrid
 
@@ -79,11 +79,7 @@ VEYNE, P., 2005: Sexo y poder en Roma, Madrid
 
 WISEMAN, T. P., 2004: The Myths of Rome, Exeter
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 

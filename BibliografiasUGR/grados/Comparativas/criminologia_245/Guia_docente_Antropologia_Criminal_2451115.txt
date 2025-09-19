@@ -2,15 +2,44 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (8):
 ------------------------------
-No hay elementos.
+Adams,    B.,    Byrd,    J.   (2014).Commingled   Human   Remains.   Methods   in   Recovery,   Analysis   and
+Identification.   1ª   Ed.   Academic   Press  Black,  S.;  Sunderland,  G.;  Hackman,  L.;  Mallet,  X.  (2011):
+Disaster Victim
 
-📚 Recursos sin cambios:
+Buikstra,   J.   (2019).  Ortner’s  Identification  of  Pathological  Conditions  in  Human  Skeletal  Remains.
+3ª Ed. Academic Press Carlsen, O. (1988): Morfología dentaria. Ediciones Doyma: Barcelona
+
+Byers,   S.N.   (2008):  Forensic  Anthropology.  Pearson:  Boston  Canci  A,  Minozzi  S.  (2005):  Archeologia
+dei resti umani. Dallo scavo al laboratorio. Carocci: Roma
+
+Castex   D,   Courtaud   P,   Sellier   P,   Duday  H  y  Bruzek  J  (eds)  (1996)  :  Les  ensembles  funéraires  du
+terrain   à   l’interpretation.   Bull   et   Mém   Soc  d’Anthop  Paris.  8(3-4)  George,  R.M.  (2007):  Facial
+Geometry. Graphic Facial Análisis for Forensic Artists. Charles C. Thomas: Springfield
+
+Killan,   EW.   (2004)  :The  Detection  of  Human  Remains.  Charles  C.  Thomas.  Springfield  Krogman,  W.M.  e
+Iscan, M.Y. (1986): The human skeleton in forensic medicine.Charles C
+
+Springer   International   Publishing   Renfrew,   C.   y   Bahn,  P.  (1998).  Arqueología:  Teoría,  método  y
+práctica.   Akal:  Madrid  Roskams,  S.  (2003):  Teoría  y  práctica  de  la  excavación  arqueológica.Crítica:
+Barcelona
+
+Stojanowski,   CM  y  Seidel,  AC.  (2023):  Forensic  Anthropology.  An  Introductory  Lab  Manual.  University
+of Florida Press Ubelaker, D.H. (1989): Human skeletal remains. Excavation, analysis, interpretation
+
+Thomas: Springfield Mann, RW. (2017): The bone books. A Photographic Lab Manueal for Identifying and
+Siding   Human   Bones.  Charles  C.  Thomas:  Springfield3  Martin,  R.  Y  Knusmann,  R.  (1988):  Lehrbuch  der
+Anthropologie und Humangenetik
+
+📚 Recursos sin cambios (25):
 ------------------------------
 Bass, W.M. (1987): Human osteology. A Laboratory and field Manual. Missouri Arqueological Society
 
 Black, S. y Ferguson, E. (2011): Forensic Anthropology. 2000 a 2010. CRC Press: Boca Raton
+
+Black, S.; Sunderland, G.; Hackman, L.; Mallet, X. (2011): Disaster Victim Identification.Experience
+and Practice. CRC Press: Boca Raton
 
 Blau   S,   Ubelaker   D   (eds.)   (2009):   Handbook  of  Forensic  Anthropology  andArchaeology.  Left  Coast
 Press: Walnut Creek
@@ -46,6 +75,9 @@ Reconstruction and Identification. Wiley- Liss: New York
 Jones,   P.   (2011):  Practical  Forensic  Digital  Imaging.  Applications  and  Techniques.  CRC  Press:  Boca
 Raton
 
+Martin, R. Y Knusmann, R. (1988): Lehrbuch der Anthropologie und Humangenetik. Gustav Fischer (ed.):
+Stuttgart, New York
+
 Mays S. (1998): The Archaeology of human bones. Routledge: London
 
 Moran,   K.S.,  Gold,  C.  (2019).  Forensic  Archaeology.  Multidisciplinary  Perspectives.  1ª  Ed.  Springer
@@ -67,45 +99,10 @@ analysis. Oxford University Press: Oxford
 Skinner,   M.;  Alempijevic,  D.  &  Djuric-Srejic,  M.  (2003):  Guidelines  for  International  Forensic  Bio-
 archaeology Monitors of Mass Grave Exhumations. Forensic Science international 134: 81-92
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Stojanowski,   CM  y  Seidel,  AC.  (2023):  Forensic  Anthropology.  An  Introductory  Lab  Manual.  University
-of Florida Press Ubelaker, D.H. (1989): Human skeletal remains. Excavation, analysis, interpretation
-→   Stojanowski,   CM   y   Seidel,   AC.   (2023):   Forensic   Anthropology.   An   Introductory  Lab  Manual.
-University of Florida Press
+Ubelaker,   D.H.   (1989):   Human   skeletal   remains.  Excavation,  analysis,  interpretation.  Manuals  on
+Archeology 2. Taraxacum: Washington
 
-Byers,   S.N.   (2008):  Forensic  Anthropology.  Pearson:  Boston  Canci  A,  Minozzi  S.  (2005):  Archeologia
-dei   resti   umani.   Dallo   scavo   al   laboratorio.   Carocci:   Roma   →   Byers,   S.N.  (2008):  Forensic
-Anthropology. Pearson: Boston
-
-Adams,    B.,    Byrd,    J.   (2014).Commingled   Human   Remains.   Methods   in   Recovery,   Analysis   and
-Identification.   1ª   Ed.   Academic   Press  Black,  S.;  Sunderland,  G.;  Hackman,  L.;  Mallet,  X.  (2011):
-Disaster   Victim   Identification.Experience   and   Practice.   CRC   Press:   Boca   Raton   →   Black,  S.;
-Sunderland,   G.;   Hackman,   L.;   Mallet,   X.   (2011):   Disaster  Victim  Identification.Experience  and
-Practice. CRC Press: Boca Raton
-
-Springer   International   Publishing   Renfrew,   C.   y   Bahn,  P.  (1998).  Arqueología:  Teoría,  método  y
-práctica.   Akal:  Madrid  Roskams,  S.  (2003):  Teoría  y  práctica  de  la  excavación  arqueológica.Crítica:
-Barcelona  →  Roskams, S. (2003): Teoría y práctica de la excavación arqueológica.Crítica: Barcelona
-
-Buikstra,   J.   (2019).  Ortner’s  Identification  of  Pathological  Conditions  in  Human  Skeletal  Remains.
-3ª   Ed.   Academic   Press   Carlsen,   O.   (1988):   Morfología   dentaria.   Ediciones  Doyma:  Barcelona  →
-Carlsen, O. (1988): Morfología dentaria. Ediciones Doyma: Barcelona
-
-Castex   D,   Courtaud   P,   Sellier   P,   Duday  H  y  Bruzek  J  (eds)  (1996)  :  Les  ensembles  funéraires  du
-terrain   à   l’interpretation.   Bull   et   Mém   Soc  d’Anthop  Paris.  8(3-4)  George,  R.M.  (2007):  Facial
-Geometry.   Graphic   Facial   Análisis  for  Forensic  Artists  →  Castex  D,  Courtaud  P,  Sellier  P,  Duday  H
-y   Bruzek   J   (eds)  (1996)  :  Les  ensembles  funéraires  du  terrain  à  l’interpretation.  Bull  et  Mém  Soc
-d’Anthop Paris. 8(3-4)
-
-Killan,   EW.   (2004)  :The  Detection  of  Human  Remains.  Charles  C.  Thomas.  Springfield  Krogman,  W.M.  e
-Iscan, M.Y. (1986): The human skeleton in forensic medicine.Charles C. Thomas: Springfield Mann, RW.
-(2017):   The   bone  books.  A  Photographic  Lab  Manueal  for  Identifying  and  Siding  Human  Bones.  Charles
-C.   Thomas:   Springfield3   Martin,   R.   Y   Knusmann,   R.   (1988):   Lehrbuch   der   Anthropologie   und
-Humangenetik   →   Krogman,  W.M.  e  Iscan,  M.Y.  (1986):  The  human  skeleton  in  forensic  medicine.Charles
-C. Thomas: Springfield
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (13):
 ------------------------------
 Adams,    B.,    Byrd,    J.   (2014).Commingled   Human   Remains.   Methods   in   Recovery,   Analysis   and
 Identification. 1ª Ed. Academic Press
@@ -113,22 +110,31 @@ Identification. 1ª Ed. Academic Press
 Buikstra,   J.   (2019).  Ortner’s  Identification  of  Pathological  Conditions  in  Human  Skeletal  Remains.
 3ª Ed. Academic Press
 
+Byers, S.N. (2008): Forensic Anthropology. Pearson: Boston
+
 Canci A, Minozzi S. (2005): Archeologia dei resti umani. Dallo scavo al laboratorio. Carocci: Roma
+
+Carlsen, O. (1988): Morfología dentaria. Ediciones Doyma: Barcelona
+
+Castex   D,   Courtaud   P,   Sellier   P,   Duday  H  y  Bruzek  J  (eds)  (1996)  :  Les  ensembles  funéraires  du
+terrain à l’interpretation. Bull et Mém Soc d’Anthop Paris. 8(3-4)
 
 George,   R.M.   (2007):   Facial   Geometry.   Graphic   Facial  Análisis  for  Forensic  Artists.  Charles  C.
 Thomas: Springfield
 
 Killan, EW. (2004) :The Detection of Human Remains. Charles C. Thomas. Springfield
 
+Krogman,   W.M.   e   Iscan,   M.Y.   (1986):   The  human  skeleton  in  forensic  medicine.Charles  C.  Thomas:
+Springfield
+
 Mann, RW. (2017): The bone books. A Photographic Lab Manueal for Identifying and Siding Human Bones.
 Charles C. Thomas: Springfield3
 
-Martin, R. Y Knusmann, R. (1988): Lehrbuch der Anthropologie und Humangenetik. Gustav Fischer (ed.):
-Stuttgart, New York
-
 Renfrew, C. y Bahn, P. (1998). Arqueología: Teoría, método y práctica. Akal: Madrid
 
-Ubelaker,   D.H.   (1989):   Human   skeletal   remains.  Excavation,  analysis,  interpretation.  Manuals  on
-Archeology 2. Taraxacum: Washington
+Roskams, S. (2003): Teoría y práctica de la excavación arqueológica.Crítica: Barcelona
 
-📊 Porcentaje estimado de cambio: 53% [█████░░░░░]
+Stojanowski,   CM  y  Seidel,  AC.  (2023):  Forensic  Anthropology.  An  Introductory  Lab  Manual.  University
+of Florida Press
+
+📊 Porcentaje estimado de cambio: 55% [█████░░░░░]

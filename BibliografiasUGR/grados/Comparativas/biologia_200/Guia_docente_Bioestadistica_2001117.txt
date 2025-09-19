@@ -2,12 +2,30 @@
 Grado: biologia (200)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (5):
 ------------------------------
-Principles   and   Applications  for  Engineering  and  the  Computing  Sciences.  Ed.  McGraw-  MONTGOMERY,  D.
-C. (2002). Diseño y Análisis de Experimentos. Segunda Edición. Ed
+GÓMEZ   VILLEGAS,   M.A.   (2005).   Inferencia  Estadística.  Ediciones  Días  de  Santos  GONZÁLEZ  MANTEIGA,
+M.T.   (2021).   400   Problemas   resueltos   de   Estadística  Multidisciplinar.  Ediciones  Días  de  Santos
+MARTÍNEZ   ÁLVAREZ,   F.   y   MARTÍNEZ   ÁLVAREZ  M.C.  (2013).  Problemas  de  Estadística  para  Ingeniería  y
+Ciencias. Ed. Godel Impresiones Digitales S.L
 
-📚 Recursos sin cambios:
+MARTÍNEZ-GONZÁLEZ,   M.A.   et   al   (2014).   Bioestadística  Amigable.  Ed.  Elsevier  MILTON  J.S.  (2007).
+Estadística para Biología y Ciencias de la Salud. Ed. McGraw-Hill
+
+MILTON,   J.   S.   and   ARNOLD,   J.  (1990).  Introduction  to  Probability  and  Statistics:  Principles  and
+Applications   for   Engineering   and  the  Computing  Sciences.  Ed.  McGrawHill  MONTGOMERY,  D.  C.  (2002).
+Diseño y Análisis de Experimentos. Segunda Edición. Ed. Limusa Wiley
+
+MURRAY,   R.  SPIEGEL,  LARRY  J.  STEPHENS  (2008)  Estadística.  México,  D.F.  :  McGrawHill/Intermaericana,
+2008   QUESADA,   V.,   GARCÍA,   A.   (1985).   Curso  básico  de  Cálculo  de  Probabilidades.  Ediciones  ICE,
+Madrid
+
+MUÑOR   IBÁÑEZ,   R.   (2017)  Estadística  básica  I.  Introducción  a  la  estadística  Ed.  Univ.  de  Alicante
+MUÑOR IBÁÑEZ, R. (2017) II. Probabilidad: variables aleatorias . Ed. Univ. de Alicante RIUS DÍAZ, F.
+(2014).   Bioestadística.   Ed.   Paraninfo   SPIEGEL,   M.R.   y   STEPHENS,  L.J.  (2009).  Estadística.  Ed.
+McGraw-Hill. Interamericana editores, S.A. de C.V
+
+📚 Recursos sin cambios (10):
 ------------------------------
 AGRESTI, A. (2002). Categorical Data Analysis. 2ª Edición. Ed. John Wiley and Sons, Nueva York
 
@@ -30,46 +48,32 @@ Salud. Ed. Capitel. Madrid
 MILTON    J.S.    (2007).   Estadística   para   Biología   y   Ciencias   de   la   Salud.   Ed.   McGraw-Hill.
 Interamericana de España, S.A.U
 
-MILTON,   J.   S.   and   ARNOLD,   J.  (1990).  Introduction  to  Probability  and  Statistics:  Principles  and
-Applications for Engineering and the Computing Sciences. Ed. McGraw-Hill
-
 MONTERO,   J.,   PARDO,   L.,   MORALES,   D.   y  QUESADA,  V.  (1988).  Ejercicios  y  Problemas  de  Cálculo  de
 Probabilidades. Ed. Díaz de Santos
 
 RIUS DÍAZ, F. y BARÓN LÓPEZ, F.J. (2005). Bioestadística. Ed. Thomson. Paraninfo S.L
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-MUÑOR   IBÁÑEZ,   R.   (2017)  Estadística  básica  I.  Introducción  a  la  estadística  Ed.  Univ.  de  Alicante
-MUÑOR IBÁÑEZ, R. (2017) II. Probabilidad: variables aleatorias . Ed. Univ. de Alicante RIUS DÍAZ, F.
-(2014).   Bioestadística.   Ed.   Paraninfo   SPIEGEL,   M.R.   y   STEPHENS,  L.J.  (2009).  Estadística.  Ed.
-McGraw-Hill.   Interamericana   editores,   S.A.  de  C.V  →  MUÑOR  IBÁÑEZ,  R.  (2017)  Estadística  básica  I.
-Introducción a la estadística Ed. Univ. de Alicante
-
-MARTÍNEZ-GONZÁLEZ,   M.A.   et   al   (2014).   Bioestadística  Amigable.  Ed.  Elsevier  MILTON  J.S.  (2007).
-Estadística   para   Biología   y  Ciencias  de  la  Salud.  Ed.  McGraw-Hill  →  MARTÍNEZ-GONZÁLEZ,  M.A.  et  al
-(2014). Bioestadística Amigable. Ed. Elsevier
-
-GÓMEZ   VILLEGAS,   M.A.   (2005).   Inferencia  Estadística.  Ediciones  Días  de  Santos  GONZÁLEZ  MANTEIGA,
-M.T.   (2021).   400   Problemas   resueltos   de   Estadística  Multidisciplinar.  Ediciones  Días  de  Santos
-MARTÍNEZ   ÁLVAREZ,   F.   y   MARTÍNEZ   ÁLVAREZ  M.C.  (2013).  Problemas  de  Estadística  para  Ingeniería  y
-Ciencias.    Ed.    Godel   Impresiones   Digitales   S.L   →   GÓMEZ   VILLEGAS,   M.A.   (2005).   Inferencia
-Estadística. Ediciones Días de Santos
-
-MURRAY,    R.    SPIEGEL,    LARRY    J.    STEPHENS    (2008)    Estadística.    México,    D.F.   :   McGraw-
-Hill/Intermaericana, 2008 QUESADA, V., GARCÍA, A. (1985). Curso básico de Cálculo de Probabilidades.
-Ediciones   ICE,   Madrid   →   MURRAY,  R.  SPIEGEL,  LARRY  J.  STEPHENS  (2008)  Estadística.  México,  D.F.  :
-McGraw-Hill/Intermaericana, 2008
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (13):
 ------------------------------
 GONZÁLEZ   MANTEIGA,   M.T.  (2021).  400  Problemas  resueltos  de  Estadística  Multidisciplinar.  Ediciones
 Días de Santos
 
+GÓMEZ VILLEGAS, M.A. (2005). Inferencia Estadística. Ediciones Días de Santos
+
 MARTÍNEZ   ÁLVAREZ,   F.   y   MARTÍNEZ   ÁLVAREZ  M.C.  (2013).  Problemas  de  Estadística  para  Ingeniería  y
 Ciencias. Ed. Godel Impresiones Digitales S.L
 
+MARTÍNEZ-GONZÁLEZ, M.A. et al (2014). Bioestadística Amigable. Ed. Elsevier
+
+MILTON,   J.   S.   and   ARNOLD,   J.  (1990).  Introduction  to  Probability  and  Statistics:  Principles  and
+Applications for Engineering and the Computing Sciences. Ed. McGraw-Hill
+
 MONTGOMERY, D. C. (2002). Diseño y Análisis de Experimentos. Segunda Edición. Ed. Limusa Wiley
+
+MURRAY, R. SPIEGEL, LARRY J. STEPHENS (2008) Estadística. México, D.F. : McGraw-Hill/Intermaericana,
+2008
+
+MUÑOR IBÁÑEZ, R. (2017) Estadística básica I. Introducción a la estadística Ed. Univ. de Alicante
 
 MUÑOR IBÁÑEZ, R. (2017) II. Probabilidad: variables aleatorias . Ed. Univ. de Alicante
 
@@ -82,4 +86,4 @@ RIUS DÍAZ, F. (2014). Bioestadística. Ed. Paraninfo
 SPIEGEL,   M.R.   y  STEPHENS,  L.J.  (2009).  Estadística.  Ed.  McGraw-Hill.  Interamericana  editores,  S.A.
 de C.V
 
-📊 Porcentaje estimado de cambio: 81% [████████░░]
+📊 Porcentaje estimado de cambio: 78% [███████░░░]

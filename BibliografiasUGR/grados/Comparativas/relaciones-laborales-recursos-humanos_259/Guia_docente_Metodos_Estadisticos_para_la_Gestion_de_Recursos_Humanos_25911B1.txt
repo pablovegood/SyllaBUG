@@ -2,11 +2,12 @@
 Grado: relaciones-laborales-recursos-humanos (259)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Paladino, M. (2018). "R para Ciencias Sociales" en https://martinpaladino.github.io/rsociales/ Pérez
+López, C. (2024). “Análisis Multivariante de Datos. Aplicaciones con R”. Garceta, Grupo Editorial
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 Abad,   F.;   Huete.   M.D.   y  Vargas,  M.  (2016).  Estadística,  Probabilidad  en  Introducción  al  Análisis
 Demográfico. Ed. Avicam. Granada
@@ -17,20 +18,21 @@ Granada
 Aldas   Manzano,   J.;   Uriel   Jiménez,   E.   (2017).  Análisis  multivariante  aplicado  con  R.  2ª  ed.  Ed.
 Paraninfo
 
-Ed.   Paraninfo   Lara   Porras,   Ana.  Guía  interactiva  de  Autoaprendizaje  de  SPSS  en  Martín  Martín,  Q.
-(2007).   Tratamiento   estadístico   de   datos   con   SPSS.  Prácticas  resueltas  y  comentadas.  Ediciones
-Paraninfo
+Ed.    Paraninfo    Lara    Porras,    Ana.    Guía    interactiva    de    Autoaprendizaje    de    SPSS    en
+https://www.ugr.es/~bioestad/guiaspss/   Martín   Martín,   Q.  (2007).  Tratamiento  estadístico  de  datos
+con SPSS. Prácticas resueltas y comentadas. Ediciones Paraninfo
 
-Manuales   online   del   software   utilizado   (SPSS,   JASP,   R,   etc.)   Visauta,   B.   (2003).  Análisis
-estadístico con SPSS para Windows, vol. II (Ebook) Ed. Mc Graw Hill Interamericana S.L
+Manuales   de   software  https://www.ugr.es/~bioestad/guiaspss/  (Lara  Porras,  Ana.  Guía  interactiva  de
+Autoaprendizaje de SPSS) http://static.jasp-stats.org/JASPGuideEspanol.pdf (Análisis estadístico con
+JASP:   una   guía   para   estudiantes)  https://knuth.uca.es/moodle/course/view.php?id=37  (Libro  Libre:
+Estadística Básica con R y R-Commander)
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Paladino,   M.   (2018).  "R  para  Ciencias  Sociales"  en  Pérez  López,  C.  (2024).  “Análisis  Multivariante
-de   Datos.   Aplicaciones   con   R”.   Garceta,  Grupo  Editorial  →  Paladino,  M.  (2018).  "R  para  Ciencias
-Sociales" en https://martinpaladino.github.io/rsociales/
+Manuales online del software utilizado (SPSS, JASP, R, etc.)
 
-✅ Recursos añadidos:
+Visauta,   B.   (2003).   Análisis   estadístico  con  SPSS  para  Windows,  vol.  II  (Ebook)  Ed.  Mc  Graw  Hill
+Interamericana S.L
+
+✅ Recursos añadidos (7):
 ------------------------------
 Lara      Porras,      Ana.      Guía      interactiva      de      Autoaprendizaje      de      SPSS      en
 https://www.ugr.es/~bioestad/guiaspss/
@@ -40,11 +42,10 @@ Manuales de software
 Martín   Martín,   Q.   (2007).   Tratamiento   estadístico   de   datos   con   SPSS.   Prácticas  resueltas  y
 comentadas. Ediciones Paraninfo
 
+Paladino, M. (2018). "R para Ciencias Sociales" en https://martinpaladino.github.io/rsociales/
+
 Pérez   López,   C.   (2024).   “Análisis   Multivariante   de   Datos.  Aplicaciones  con  R”.  Garceta,  Grupo
 Editorial
-
-Visauta,   B.   (2003).   Análisis   estadístico  con  SPSS  para  Windows,  vol.  II  (Ebook)  Ed.  Mc  Graw  Hill
-Interamericana S.L
 
 http://static.jasp-stats.org/JASPGuideEspanol.pdf   (Análisis   estadístico   con   JASP:   una  guía  para
 estudiantes)
@@ -52,4 +53,4 @@ estudiantes)
 https://knuth.uca.es/moodle/course/view.php?id=37    (Libro    Libre:    Estadística   Básica   con   R   y
 R-Commander)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 61% [██████░░░░]

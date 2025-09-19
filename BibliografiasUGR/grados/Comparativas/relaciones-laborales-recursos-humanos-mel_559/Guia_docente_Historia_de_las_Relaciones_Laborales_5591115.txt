@@ -2,12 +2,20 @@
 Grado: relaciones-laborales-recursos-humanos-mel (559)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Arenas   Posadas,   Carlos.  Historia  económica  del  trabajo.  Madrid:  Tecnos;  2003  Feliu,  G.,  Sudrià,  C.
+Introducción   a   la   historia   económica   mundial.   Valencia:   PUV;  2007  Kranzberg,  Melvin  and  Gies,
+Joseph.   Breve   storia   del   lavoro.   L'organizzazione   del  lavoro  umano  nel  suo  processo  evolutivo.
+Milano: Mondadori; 1991
 
-📚 Recursos sin cambios:
+Piore,   Michael,  J.  y  Sabel,  Charles.  La  segunda  ruptura  industrial.  Madrid:  Alianza  Editorial;  1990
+Rodríguez Labandeira, J. El trabajo rural en España (1876-1936). Madrid; 1991
+
+📚 Recursos sin cambios (30):
 ------------------------------
+Aizpuru, Mikel y Rivera, Antonio. Manual de historia social del trabajo. Madrid: Siglo XXI; 1994
+
 Alonso   Benito,   Luís  Enrique;  Miguélez,  Faustino,  and  Prieto,  Carlos,  Eds.  Las  relaciones  laborales
 en España. Madrid: Siglo XXI; 1991
 
@@ -17,6 +25,11 @@ New York Press; 1992
 Arenas   Posadas,   Carlos;   Florencio   Puntas,  Antonio,  Pons  Pons,  Jerónia,  Eds.  Trabajo  y  relaciones
 laborales en la España contemporánea. Sevilla: Mergablum; 2001
 
+Ashenfelter, Orley and Layard, Richard, Eds. Manual de economía del trabajo. Madrid: M.T.S.S.; 1991
+
+Babiano   Mora,   José.   Emigrantes,   cronómetros   y   huelgas.   Un   estudio   sobre   el   trabajo   y  los
+trabajadores durante el franquismo, 1951-1977. Madrid: Fundación Primero de Mayo; 1995
+
 Baldwin, P. The Politics of Social Solidarity. Class Bases of the European Welfare State, 1857-1975.
 Cambridge; 1990
 
@@ -25,11 +38,19 @@ Barrio,   Ángeles.   Por   la   razón   y   el   derecho.   Historia   de   la
 
 Benoist, Luc. Le compagnonnage et les métiers. Paris: PUF; 1966
 
+Brundage, Anthony. The English Poor Laws, 1700-1930. Basingtoke / New York: Palgrave; 2002
+
 Calle   Velasco,   María   de   la.   La   Comisión   de   Reformas   Sociales,   1883-1903:  Política  social  y
 conflictos   de   intereses  en  la  Espańa  de  la  Restauración.  Madrid:  Ministerio  de  Trabajo  y  Seguridad
 Social; 1989
 
+Capel,   Rosa   María.  EL  trabajo  y  la  educación  de  la  mujer  en  España  (1900-1930).  Madrid:  Ministerio
+de Cultura, Instituto de la Mujer; 1986
+
 Capel, Rosa María. Mujer y trabajo en el siglo XX. Madrid: Arco Libros; 1999
+
+Corfield,   Penelope   J.   and   Keene,   Derek,   Eds.   Work   in   Towns,   850-1850.  Leicester:  Leicester
+University Press;1990
 
 De   la   beneficencia   al   Estado   del  Bienestar,  pasando  por  los  seguros  sociales,  monográfico  de  la
 Revista de la Historia de la Economía y de la Empresa, nº4, 2010
@@ -48,19 +69,22 @@ Manzanares Martínez, D. temas de Historia Social del Trabajo. Barcelona: DM; 19
 
 Martinet,   Gilles.  Siete  sindicalismos.  Gran  Bretaña,  República  Federal  de  Alemania,  Suecia,  Italia,
 Francia.   Madrid:   Ministerio   de   Trabajo   y   Seguridad   Social   Monteleone,   Renato.  La  storia  dei
-mestieri. Dal lavoro nei campi alla fabbrica robotizzata
+mestieri. Dal lavoro nei campi alla fabbrica robotizzata. Torino: Paravia; 1996
 
 Martín Valverde, A. et alii. La legislación social en la historia de España. Madrid; Congreso de los
 Diputados; 1987
-
-Monteleone,   Renato.  La  storia  dei  mestieri.  Dal  lavoro  nei  campi  alla  fabbrica  robotizzata.  Torino:
-Paravia; 1996
 
 Núñez   Romero-Balmas,  Clara-Eugenia.  Within  the  European  Periphery:  Education  and  Labour  Mobility  in
 Twentieth-Century   Spain.   Paedagogica  Historica.  International  Journal  of  the  History  of  Education.
 2003; XXXIX(V):621-650
 
+Pinto, Antonio. Una breve historia social del trabajo. Madrid; Ediciones Complutense; 2023
+
 Rule, J. Clase obrera e industrialización. Barcelona: Crítica; 1990
+
+Salort, Salvador. Revoluciones industriales, trabajo y Estado del Bienestar. Madrid; Sílex; 2012
+
+Soto Carmona, A. El trabajo industrial en la España contemporánea, 1874-1936. Barcelona; 1989
 
 Stephen,   Frank   H.,   Ed.   Firms,   Organization   and   Labour.   Approaches   to   the  Economics  of  Work
 Organization. New York: St. Martin Press; 1984
@@ -70,54 +94,20 @@ Thompson, E.P. La formación de la clase obra en Inglaterra. Barcelona: Crítica
 Yeo, E. and Yeo, S., Eds. Popular Culture and Class Conflict, 1590-1914. Explorations in the History
 of Labour and Leisure. Brighton-Atlantic Highlands (NJ): Harvester Press - Humanities Press; 1981
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (6):
 ------------------------------
-Arenas   Posadas,   Carlos.  Historia  económica  del  trabajo.  Madrid:  Tecnos;  2003  Feliu,  G.,  Sudrià,  C.
-Introducción   a   la   historia   económica   mundial.   Valencia:   PUV;  2007  Kranzberg,  Melvin  and  Gies,
-Joseph.   Breve   storia   del   lavoro.   L'organizzazione   del  lavoro  umano  nel  suo  processo  evolutivo.
-Milano:   Mondadori;   1991   →  Arenas  Posadas,  Carlos.  Historia  económica  del  trabajo.  Madrid:  Tecnos;
-2003
-
-Soto   Carmona,   A.  El  trabajo  industrial  en  la  España  contemporánea,  1874-1936  →  Soto  Carmona,  A.  El
-trabajo industrial en la España contemporánea, 1874-1936. Barcelona; 1989
-
-Piore,   Michael,  J.  y  Sabel,  Charles.  La  segunda  ruptura  industrial.  Madrid:  Alianza  Editorial;  1990
-Rodríguez   Labandeira,   J.  El  trabajo  rural  en  España  (1876-1936).  Madrid;  1991  →  Piore,  Michael,  J.
-y Sabel, Charles. La segunda ruptura industrial. Madrid: Alianza Editorial; 1990
-
-Leicester   University   Press;1990   →   Corfield,   Penelope   J.   and  Keene,  Derek,  Eds.  Work  in  Towns,
-850-1850. Leicester: Leicester University Press;1990
-
-Ministerio   de   Cultura,   Instituto  de  la  Mujer;  1986  →  Capel,  Rosa  María.  EL  trabajo  y  la  educación
-de la mujer en España (1900-1930). Madrid: Ministerio de Cultura, Instituto de la Mujer; 1986
-
-Brundage,   Anthony.   The   English   Poor  Laws,  1700-1930.  Basingtoke  /  New  York:  Palgrave  →  Brundage,
-Anthony. The English Poor Laws, 1700-1930. Basingtoke / New York: Palgrave; 2002
-
-Babiano   Mora,   José.   Emigrantes,   cronómetros   y   huelgas.   Un   estudio   sobre   el   trabajo   y  los
-trabajadores   durante   el   franquismo,   1951-1977.  Madrid:  Fundación  Primero  de  Mayo  →  Babiano  Mora,
-José.   Emigrantes,   cronómetros  y  huelgas.  Un  estudio  sobre  el  trabajo  y  los  trabajadores  durante  el
-franquismo, 1951-1977. Madrid: Fundación Primero de Mayo; 1995
-
-Capel,   Rosa   María.   EL   trabajo   y  la  educación  de  la  mujer  en  España  (1900-1930).  Madrid  →  Capel,
-Rosa   María.   EL   trabajo   y   la   educación  de  la  mujer  en  España  (1900-1930).  Madrid:  Ministerio  de
-Cultura, Instituto de la Mujer; 1986
-
-✅ Recursos añadidos:
-------------------------------
-Aizpuru, Mikel y Rivera, Antonio. Manual de historia social del trabajo. Madrid: Siglo XXI; 1994
-
-Ashenfelter, Orley and Layard, Richard, Eds. Manual de economía del trabajo. Madrid: M.T.S.S.; 1991
+Arenas Posadas, Carlos. Historia económica del trabajo. Madrid: Tecnos; 2003
 
 Feliu, G., Sudrià, C. Introducción a la historia económica mundial. Valencia: PUV; 2007
 
 Kranzberg,   Melvin   and  Gies,  Joseph.  Breve  storia  del  lavoro.  L'organizzazione  del  lavoro  umano  nel
 suo processo evolutivo. Milano: Mondadori; 1991
 
-Pinto, Antonio. Una breve historia social del trabajo. Madrid; Ediciones Complutense; 2023
+Monteleone,   Renato.  La  storia  dei  mestieri.  Dal  lavoro  nei  campi  alla  fabbrica  robotizzata.  Torino:
+Paravia; 1996
+
+Piore, Michael, J. y Sabel, Charles. La segunda ruptura industrial. Madrid: Alianza Editorial; 1990
 
 Rodríguez Labandeira, J. El trabajo rural en España (1876-1936). Madrid; 1991
 
-Salort, Salvador. Revoluciones industriales, trabajo y Estado del Bienestar. Madrid; Sílex; 2012
-
-📊 Porcentaje estimado de cambio: 48% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

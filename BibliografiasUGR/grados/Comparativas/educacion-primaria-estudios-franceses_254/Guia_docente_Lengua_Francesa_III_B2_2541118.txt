@@ -2,11 +2,29 @@
 Grado: educacion-primaria-estudios-franceses (254)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Avendaño   Anguita,   L.,   2008,   Le   thème   grammatical   espagnol-français  1:  morphosyntaxe,  Avendaño
+Anguita, L & Bernabé Gil, Mª L., 2006, Le français par les textes narratifs. Niveau
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
+------------------------------
+Dictionnaire   unilingue   pour  le  français  Le  Petit  Robert  I,  ed.  Le  Robert,  Paris  Version  simplifiée
+pour débutant Le Petit Robert I, CLE international
+
+Exercices   élémentaires   350   exercices   de   grammaire,   Collection  Exerçons-nous,  Hachette,  (niveau
+débutant) et corrigés 350 exercices de grammaire, Collection Exerçons-nous, Hachette, (niveau moyen)
+et corrigés
+
+Grammaires   de   base   Poisson   Quinton   S.,   Mimran   R.,   Mahéo-Le   Coadic  M.  Grammaire  expliquée  du
+français, CLE international, 2002
+
+La   conjugaison   Michèle   Boularès  et  alii,  Conjugaison  progressive  du  français  (400  exercices),  CLE
+international
+
+Le nouveau bescherelle. L’art de conjuguer. Dictionnaire de 12000 verbes, Hatier
+
+✅ Recursos añadidos (5):
 ------------------------------
 Avendaño   Anguita,   L  &  Bernabé  Gil,  Mª  L.,  2006,  Le  français  par  les  textes  narratifs.  Niveau  moyen
 et supérieur 1, Comares – Universidad de Granada. Col Lingüística
@@ -14,30 +32,10 @@ et supérieur 1, Comares – Universidad de Granada. Col Lingüística
 Avendaño   Anguita,   L.,   2008,   Le   thème   grammatical   espagnol-français  1:  morphosyntaxe,  Comares-
 Universidad de Granada, Col. Lingüística
 
-Poisson    Quinton    S.,   Mimran   R.,   Mahéo-Le   Coadic   M.   Grammaire   expliquée   du   français,   CLE
-international, 2002
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Dictionnaire unilingue pour le français
-
-Exercices   élémentaires   350   exercices   de   grammaire,   Collection  Exerçons-nous,  Hachette,  (niveau
-débutant) et corrigés 350 exercices de grammaire, Collection Exerçons-nous, Hachette, (niveau moyen)
-et corrigés
 
 Grammaires de base
 
 La conjugaison
 
-Le   Petit   Robert   I,   ed.   Le  Robert,  Paris  Version  simplifiée  pour  débutant  Le  Petit  Robert  I,  CLE
-international
-
-Le nouveau bescherelle. L’art de conjuguer. Dictionnaire de 12000 verbes, Hatier
-
-Michèle Boularès et alii, Conjugaison progressive du français (400 exercices), CLE international
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 60% [██████░░░░]

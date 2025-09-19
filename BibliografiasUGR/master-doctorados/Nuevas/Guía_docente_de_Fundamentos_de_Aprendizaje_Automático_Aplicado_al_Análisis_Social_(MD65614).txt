@@ -1,8 +1,0 @@
-P. Norvig, S. Russell. Inteligencia Artificial: Un enfoque moderno. Pearson, 2004.
-J. Gironés, J. Casas, J. Minguillón, R. Caihuelas. Minería de Datos: Modelos y Algoritmos. Editorial UOC, 2017.
-A. Geron. Aprende Machine Learning con Scikit-Learn, Keras y Tensorflow. O’Reilly-Anaya, 2020.
-H. Han, M. Kamber, J. Pei. Data Mining: Concepts and techniques. Morgan Kaufmann, 2012.
-Z.H. Zhou. Machine Learning. Springer, 2021.
-M. Kuhn, K. Johnson. Applied Predictive Modeling. Springer, 2013.
-P. Tang, M. Steinbach, A. Karpatne, V. Kumar. Data Mining. Pearson, 2019.
-T. Hastie, R. Tibshirani, J. Friedman. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer, 2009.

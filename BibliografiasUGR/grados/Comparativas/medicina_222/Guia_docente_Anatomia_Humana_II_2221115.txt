@@ -2,11 +2,11 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
 Anatomía   Humana   de   Rouvière  y  Delmas  (4  tomos)  Anatomía  Humana  de  Latarjet  y  Ruíz  Liard  (2  tomos)
 Texto   y   Altas   de  Anatomía.  PROMETHEUS.  Schünke  (3  tomos)  Anatomía  para  estudiantes.  Gray  Anatomía
@@ -15,17 +15,22 @@ Snell (1 tomo) Neuroanatomía Clínica de Snell (1 tomo) Principios de Neurocien
 El   Cerebro   Humano   de  Nolte  (1  tomo)  Anatomía  de  la  consciencia.  Neuropsicoanatomía.  Guirao  Pérez,
 M., Guirao Piñeyro, M., Morales, Mª Mar
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
+Atlas   de   Anatomía   Humana:   Atlas  Fotográfico  de  Anatomía  Humana  de  RohenYokochi  Atlas  de  Anatomía
+Humana   de   Netter  Atlas  de  Anatomía  Humana  de  Sobotta  Atlas  de  Anatomía  de  Wolf-Heideger’s  Atlas  de
+Anatomía   con   correlación   clínica.  Platzer  Atlas  de  Anatomía  Radiológica  de  Weir  y  Abrahams  Cortes
+Anatómicos   correlacionados   con  Rm  y  TC  de  Han  y  Kim  Bases  Anatómicas  del  Diagnóstico  por  Imagen  de
+Fleckenstein   y   Tranum-Jensen   Principios   de   Neurociencia  de  Kandell,  Schwartz  y  Jessell  (1  tomo)
+Terminología Anatómica de la S.A.E
 
-✅ Recursos añadidos:
+Nomenclatura Anatómica Ilustrada de Feneis y Dauber
+
+✅ Recursos añadidos (21):
 ------------------------------
 Anatomía Clínica de Snell (1 tomo)
 
 Anatomía Humana con Orientación Clínica de Moore (1 tomo)
 
-Anatomía Humana de Rouvière y Delmas (4 tomos)
+Anatomía Humana de Latarjet y Ruíz Liard (2 tomos)
 
 Anatomía   de   la   consciencia.  Neuropsicoanatomía.  Guirao  Pérez,  M.,  Guirao  Piñeyro,  M.,  Morales,  Mª
 Mar
@@ -58,14 +63,10 @@ Neuroanatomía Clínica de Snell (1 tomo)
 
 Neuroanatomía esencial. Netter
 
-Nomenclatura Anatómica Ilustrada de Feneis y Dauber
-
 Principios de Neurociencia de Haines (1 tomo)
 
 Principios de Neurociencia de Kandell, Schwartz y Jessell (1 tomo)
 
-Terminología Anatómica de la S.A.E
-
 Texto y Altas de Anatomía. PROMETHEUS. Schünke (3 tomos)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 87% [████████░░]

@@ -2,11 +2,18 @@
 Grado: logopedia (286)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+BADIA, D. (2002). Juegos de expresión oral y escrita. Graó
 
-📚 Recursos sin cambios:
+BUSTO,   M   C.   (1995).   Manual   de   logopedia   escolar:   niños  con  alteraciones  del  lenguaje  oral  en
+educación infantil y primaria. Ciencias de la Educación Preescolar y Especial
+
+SALVADOR,   F   .   (1997).   Dificultades   en   el   aprendizaje  de  la  expresión  escrita:  una  perspectiva
+didáctica.   Aljibe   SALVADOR,   F   .   (2006).   Enciclopedia  psicopedagógica  de  necesidades  educativas
+especiales. Aljibe
+
+📚 Recursos sin cambios (10):
 ------------------------------
 FERNANDEZ   SARMIENTO,   C.   (2009).  La  logopedia  en  la  escuela.  Propuestas  desde  la  práctica  para  una
 educación más inclusiva. Universidad de las Palmas de Gran Canarias
@@ -35,26 +42,17 @@ escritura. Aljibe
 TOMÁS,   J.   (Ed.)   (2006).  Cuadernos  de  reeducación  de  la  lecto-escritura:  programa  de  estimulación,
 rehabilitación, desarrollo y potenciación de procesos neuropsicológicos básicos. Laertes
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-BADIA,   D.   (2002).   Juegos   de   expresión   oral   y   escrita.  Graó  →  ACOSTA  RODRÍGUEZ,  V.  M.  (2003).
-Dificultades   en   la   comunicación   oral   en  alumnado  con  NEE.  Desarrollo,  evaluación  e  intervención
-desde   la   colaboración   educativa.   En   V.   M.   Acosta   Rodríguez   &   A.   M.  Moreno  Santana  (Eds.),
-Dificultades del lenguaje, colaboración e inclusión educativa: Manual para logopedas, psicopedagogos
-y profesores (pp. 117–138). Ars Médica.BADIA, D. (2002). Juegos de expresión oral y escrita. Graó
+ACOSTA   RODRÍGUEZ,   V.   M.   (2003).   Dificultades   en   la   comunicación   oral   en   alumnado  con  NEE.
+Desarrollo,   evaluación   e  intervención  desde  la  colaboración  educativa.  En  V.  M.  Acosta  Rodríguez  &
+A.   M.   Moreno  Santana  (Eds.),  Dificultades  del  lenguaje,  colaboración  e  inclusión  educativa:  Manual
+para   logopedas,   psicopedagogos   y  profesores  (pp.  117–138).  Ars  Médica.BADIA,  D.  (2002).  Juegos  de
+expresión oral y escrita. Graó
 
-SALVADOR,   F   .   (1997).   Dificultades   en   el   aprendizaje  de  la  expresión  escrita:  una  perspectiva
-didáctica.   Aljibe   SALVADOR,   F   .   (2006).   Enciclopedia  psicopedagógica  de  necesidades  educativas
-especiales.   Aljibe   →   SALVADOR,  F  .  (2006).  Enciclopedia  psicopedagógica  de  necesidades  educativas
-especiales. Aljibe
+BUSTO,   M.   del   C.  (2020).  Manual  de  logopedia  escolar:  Niños  con  alteraciones  del  lenguaje  oral  en
+Educación Infantil y Primaria (5.ª ed.). CEPE
 
-BUSTO,   M   C.   (1995).   Manual   de   logopedia   escolar:   niños  con  alteraciones  del  lenguaje  oral  en
-educación   infantil   y   primaria.   Ciencias  de  la  Educación  Preescolar  y  Especial  →  BUSTO,  M.  del  C.
-(2020).   Manual  de  logopedia  escolar:  Niños  con  alteraciones  del  lenguaje  oral  en  Educación  Infantil
-y Primaria (5.ª ed.). CEPE
-
-✅ Recursos añadidos:
-------------------------------
 Junta   de   Andalucía.   (2023a).   Orden   de  30  de  mayo  de  2023,  por  la  que  se  desarrolla  el  currículo
 correspondiente   a   la   etapa   de   Educación   Secundaria   Obligatoria   en   la   Comunidad  Autónoma  de
 Andalucía,   se   regulan   determinados   aspectos   de   la  atención  a  la  diversidad  y  a  las  diferencias
@@ -73,4 +71,6 @@ Oficial de la Junta de Andalucía, (90), 2. https://www.juntadeandalucia.es/boja
 SALVADOR,   F   .   (1997).   Dificultades   en   el   aprendizaje  de  la  expresión  escrita:  una  perspectiva
 didáctica. Aljibe
 
-📊 Porcentaje estimado de cambio: 53% [█████░░░░░]
+SALVADOR, F . (2006). Enciclopedia psicopedagógica de necesidades educativas especiales. Aljibe
+
+📊 Porcentaje estimado de cambio: 58% [█████░░░░░]

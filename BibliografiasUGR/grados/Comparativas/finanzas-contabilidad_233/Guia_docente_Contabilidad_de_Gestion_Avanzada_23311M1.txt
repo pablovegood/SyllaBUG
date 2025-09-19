@@ -2,15 +2,18 @@
 Grado: finanzas-contabilidad (233)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 ALVAREZ-DARDET, C. (1993): Análisis estratégico del coste: estudio de un caso. ICAC, Madrid
 
 BRIMSON, J.A. (1995): Contabilidad por actividades. Marcombo, Barcelona
+
+BUENDÍA   CARRILLO,   D   Y   GARCÍA  MECA,  E.  (coordinadores)  (2016):  Casos  prácticos  de  contabilidad  de
+gestión. Pirámide, Madrid
 
 CAMPANELLA, J. (1992): Principios de los costes de la calidad. Ediciones Díaz de Santos, Madrid
 
@@ -64,6 +67,9 @@ REQUENA   RODRÍGUEZ,  J.  Mª.  y  VERA  RÍOS,  S.  (2008):  Contabilidad  int
 gestión). Cálculo, análisis y control de costes y resultados para la toma de decisiones(3ª edición).
 Ariel Economía, Barcelona
 
+RIPOLL,   V.M.  y  BALADA,  T.J.  (2004):  Información  de  costes  para  la  toma  de  decisiones.  Gestión  2000,
+Madrid
+
 SÁEZ,   A.;  FERNÁNDEZ,  A.  y  GUTIÉRREZ,  G.  (2004):  Contabilidad  de  Costes  y  Contabilidad  de  Gestión.(2
 vol.), 2ª Edición. McGraw-Hill, Madrid
 
@@ -73,16 +79,8 @@ Santos, Madrid
 ÁLVAREZ-DARDET   ESPEJO,   C.   y   GUTIÉRREZ   HIDALGO,   F.   (coord.)   (2010):   Contabilidad  de  Gestión:
 Profundización en el cálculo del coste y proceso de planificación y control. Pirámide, Madrid
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gestión   2000,   Madrid   →   BUENDÍA   CARRILLO,   D   Y   GARCÍA   MECA,   E.  (coordinadores)  (2016):  Casos
-prácticos de contabilidad de gestión. Pirámide, Madrid
-
-RIPOLL,   V.M.   y   BALADA,   T.J.   (2004):   Información  de  costes  para  la  toma  de  decisiones  →  RIPOLL,
-V.M. y BALADA, T.J. (2004): Información de costes para la toma de decisiones. Gestión 2000, Madrid
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 
-📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

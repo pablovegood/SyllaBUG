@@ -2,13 +2,16 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (19):
 ------------------------------
 Baños   Diez   J.E.,   Ferré   Albadalejo  M.  Principios  de  Farmacología  Clínica:  Bases  científicas  de  la
 utilización de medicamentos. Masson, 2002
 
 Cheymol G. Effects of obesity on pharmacokinetics implications for drug therapy. Clin Pharmacokinet.
 2000 Sep;39(3):215-31
+
+Dipiro   JT   et   al.  Dipiro´s  Pharmacotherapy.  A  pathophysiologic  approach.  12th  Ed.  McGrawHill,  2023
+Flórez J, Armijo JA, Mediavilla A. Farmacología Humana (6ª ed.). Elsevier, 2014
 
 Drug induced liver injury: an update. Arch Toxicol. 2020 Oct;94(10):3381-3407
 
@@ -17,10 +20,12 @@ EMEA. Guideline On The Investigation Of Bioequivalence. 2010
 Edit. Médica Panamericana. Madrid, 2010
 
 Eke    A.   An   update   on   the   physiologic   changes   during   pregnancy   and   their   impact   on   drug
-pharmacokinetics and pharmacogenomics. J Basic Clin Physiol Pharmacol. 2022;33(5)
+pharmacokinetics and pharmacogenomics. J Basic Clin Physiol Pharmacol. 2022;33(5): 581-598
 
 Enck   P,   Bingel   U,   Schedlowski  M,  Rief  W.  The  placebo  response  in  medicine:  minimize,  maximize  or
 personalize? Nat Rev Drug Discov. 2013; 12(3):191-204
+
+Garcia-Cortes M, Robles-Diaz M, Stephens C, Ortega-Alonso A, Lucena MI, Andrade RJ
 
 Gámez-Belmonte   R,   Hernández-Chirlaque   C,   Arredondo-Amador   M,   Aranda   CJ,  González  R,  Martínez-
 Augustin   O,   Sánchez   de   Medina   F.   Biosimilars:   Concepts  and  controversies.  Pharmacol  Res.  2018
@@ -35,10 +40,22 @@ Laporte J.R. Principios básicos de investigación clínica, 2º ed. Barcelona, 
 Lea-Henry   TN,   Carland   JE,  Stocker  SL,  Sevastos  J,  Roberts  DM.  Clinical  Pharmacokinetics  in  Kidney
 Disease: Fundamental Principles. Clin J Am Soc Nephrol. 2018 Jul 6;13(7):1085-1095
 
+Lorenzo   P,   Moreno   A,  Leza  JC,  Lizasoain  I,  Moro  MA.  Velázquez  -  Farmacología  Básica  y  Clínica,  19
+Ed. Editorial Médica Panamericana, 2018
+
+Mangoni   AA,   Jackson   SHD.   Age-related   changes   in   phamacokinetics   and   pharmacodynamics:  Basic
+principles and practical applications. Br J Clin Pharmacol. 2003; 57 (1): 6-14
+
+Murphy   JE,   Clinical   Pharmacokinetics,   6  Ed.  American  Society  of  Health-System  Pharmacists,  2017.
+(Disponible en: https://www.ashp.org/-/media/storefiles/p5365-frontmatter.ashx)
+
 Ruggiero   A,   Ariano   A,   Triarico   S,   Capozza   MA,   Ferrara  P,  Attinà  G.  Neonatal  pharmacology  and
 clinical implications. Drugs Context. 2019;8:212608
 
-📚 Recursos sin cambios:
+Verbeeck   RK   and   Horsmans   Y.  Effect  of  hepatic  insufficiency  on  pharmacokinetics  and  drug  dosing.
+Pharm World Sci 998;20(5): 183-192
+
+📚 Recursos sin cambios (5):
 ------------------------------
 Bauer LA. Applied Clinical Pharmacokinetics, 3 Ed. McGraw-Hill Education, 2014
 
@@ -55,19 +72,14 @@ medicamentos de uso humano
 Real   Decreto  Legislativo  1/2015,  de  24  de  julio,  por  el  que  se  aprueba  el  texto  refundido  de  la  Ley
 de garantías y uso racional de los medicamentos y productos sanitarios
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Lorenzo   P,   Moreno   A,  Leza  JC,  Lizasoain  I,  Moro  MA.  Velázquez  -  Farmacología  Básica  y  Clínica,  19
-Ed.   Editorial   Médica   Panamericana,   2018   →   Lorenzo   P,  Moreno  A,  Leza  JC,  Lizasoain  I,  Moro  MA.
-Velázquez – Farmacología Básica y Clínica (20ª ed.). Editorial Médica Panamericana, 2025
-
-Dipiro   JT  et  al.  Dipiro´s  Pharmacotherapy.  A  pathophysiologic  approach.  12th  Ed.  McGraw-  Hill,  2023
-Flórez   J,   Armijo  JA,  Mediavilla  A.  Farmacología  Humana  (6ª  ed.).  Elsevier,  2014  →  Flórez  J,  Armijo
-JA, Mediavilla A. Farmacología Humana (7ª ed.), 2025
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (7):
 ------------------------------
 Dipiro JT et al. Dipiro´s Pharmacotherapy. A pathophysiologic approach. 12th Ed. McGraw-Hill, 2023
+
+Flórez J, Armijo JA, Mediavilla A. Farmacología Humana (7ª ed.), 2025
+
+Lorenzo   P,   Moreno  A,  Leza  JC,  Lizasoain  I,  Moro  MA.  Velázquez  –  Farmacología  Básica  y  Clínica  (20ª
+ed.). Editorial Médica Panamericana, 2025
 
 Murphy JE. Clinical Pharmacokinetics (7ª ed.). American Society of Health‑System Pharmacists, 2021
 

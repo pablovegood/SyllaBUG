@@ -2,11 +2,14 @@
 Grado: enfermeria-melilla (507)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Flórez J, Armijo JA, Mediavilla A. Farmacología Humana (6ª edición). Masson, 2015
 
-📚 Recursos sin cambios:
+Rang   HP,   Ritter   JM,   Flower   RJ,   Henderson   G.   Rang  y  Dale:  Farmacología  (9ª  edición).  Elsevier
+Churchil & Livingstone, 2020
+
+📚 Recursos sin cambios (2):
 ------------------------------
 Farmacología   ilustrada   Netter.  Edit.  R.  Raffa,  S.Rawls  y  E.  Portyansky.  Elsevier  Masson.  Barcelona
 2008
@@ -14,17 +17,13 @@ Farmacología   ilustrada   Netter.  Edit.  R.  Raffa,  S.Rawls  y  E.  Portyans
 Lorenzo   P,   Moreno   A,   Leza  JC,  Lizasoain  I,  Moro  MA,  Portolés  A.  Velázquez:  Farmacología  Básica  y
 Clínica (19ª ed.). Editorial Médica Panamericana, 2018
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-Flórez   J,   Armijo   JA,   Mediavilla   A.   Farmacología   Humana  (6ª  edición).  Masson,  2015  →  Flórez  J,
-Armijo JA, Mediavilla A. Farmacología Humana (7ª edición). Masson, 2025
+Flórez J, Armijo JA, Mediavilla A. Farmacología Humana (7ª edición). Masson, 2025
 
-Rang   HP,   Ritter   JM,   Flower   RJ,   Henderson   G.   Rang  y  Dale:  Farmacología  (9ª  edición).  Elsevier
-Churchil   &   Livingstone,   2020   →   Rang   HP,   Ritter   JM,   Flower   RJ,   Henderson   G.   Rang  y  Dale:
-Farmacología (10ª edición). Elsevier Churchil & Livingstone, 2024
-
-✅ Recursos añadidos:
-------------------------------
 Médica Panamericana, 2025
 
-📊 Porcentaje estimado de cambio: 75% [███████░░░]
+Rang   HP,   Ritter   JM,   Flower   RJ,   Henderson   G.  Rang  y  Dale:  Farmacología  (10ª  edición).  Elsevier
+Churchil & Livingstone, 2024
+
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -2,11 +2,11 @@
 Grado: administracion-direccion-empresas-melilla (533)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (38):
 ------------------------------
 ALLEN, R.C. (2013): Historia económica Mundial: Una breve introducción. Alianza Editorial, Madrid
 
@@ -74,7 +74,14 @@ LANDES, D. S. (1979): Progreso tecnológico y revolución industrial. Ed. Tecnos
 LLOPIS,   E.,   COMÍN,  F.  y  HERNÁNDEZ  (2003):  Historia  Económica  de  España  (Siglos  X-XX).  Ed.  Crítica.
 Barcelona
 
+MORILLA,   J.   &   REYES,   J.M.   (2021):  Los  fundamentos  de  las  grandes  crisis  económicas:  1873,  1929,
+1973, 2008. Editorial Sintesis. Madrid
+
 NADAL, J. (1975): El fracaso de la Revolución Industrial en España, 1814-1913. Ed. Ariel. Barcelona
+
+NORTH, D. (1993): Instituciones, cambio institucional y desempeño económico. México, FCC
+
+PIKETTY, T. (2014): El capital en el siglo XXI. FCC, Madrid
 
 POLLARD,   S.   (1991):   La   conquista   pacífica.   La   industrialización  de  Europa,  1760-1970.  Prensas
 Universitarias de Zaragoza. Zaragoza
@@ -92,21 +99,8 @@ VILAR, P. y otros (1981): La industrialización europea. Estadios y tipos. Ed. C
 
 ZAGMANI, V. (2010); Historia Económica de la Europa contemporánea. Crítica, Barcelona
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (0):
 ------------------------------
-NORTH,   D.   (1993):   Instituciones,   cambio  institucional  y  desempeño  económico.  México,  PIKETTY,  T.
-(2014):   El   capital   en   el   siglo   XXI.   FCC,   Madrid   →   NORTH,   D.  (1993):  Instituciones,  cambio
-institucional y desempeño económico. México, FCC
+No hay elementos.
 
-1873,   1929,   1973,   2008.   Editorial   Sintesis.   Madrid   →   MORILLA,   J.   &  REYES,  J.M.  (2021):  Los
-fundamentos de las grandes crisis económicas: 1873, 1929, 1973, 2008. Editorial Sintesis. Madrid
-
-MORILLA,   J.   &  REYES,  J.M.  (2021):  Los  fundamentos  de  las  grandes  crisis  económicas  →  MORILLA,  J.  &
-REYES,   J.M.   (2021):   Los   fundamentos   de   las   grandes  crisis  económicas:  1873,  1929,  1973,  2008.
-Editorial Sintesis. Madrid
-
-✅ Recursos añadidos:
-------------------------------
-PIKETTY, T. (2014): El capital en el siglo XXI. FCC, Madrid
-
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

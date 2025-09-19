@@ -2,11 +2,13 @@
 Grado: lenguas-modernas-sus-literaturas (273)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+CINEL, Dino, The National Integration of Italian Return Migration, 1870-1929
 
-📚 Recursos sin cambios:
+Cambridge, Cambridge University Press, 1991
+
+📚 Recursos sin cambios (60):
 ------------------------------
 AQUARONE, Alberto, L'Italia giolittiana: 1896-1915. Bolonia, Il Mulino, 1981
 
@@ -72,6 +74,9 @@ GIL PECHARROMÁN, Julio. Así nació Italia. Madrid, Historia 16, 1985
 
 GINSBORG, Paul, Storia d’Italia dal dopoguerra a oggi, Einaudi, 2006
 
+GINSBORG,   Paul.   L’Italia   del   tempo   presente:  famiglia  societè  civile,  Stato:  1980-1996.  Torino,
+Einaudi, 1998
+
 GIULIETTI, Fabrizio, Storia degli anarchici italiana in età giolittiana. Milano, Angeli, 2012
 
 GRAMSCI,   Antonio,   Antología.  Selección,  traducción  y  notas  de  Manuel  Sacristán.  Madrid,  Siglo  XXI,
@@ -108,6 +113,9 @@ PALA, Giaime, La fuerza y el consenso. Ensayo sobre Gramsci como historiador. Gr
 
 PELI, Santo. Storia Della resistenza in Italia. Torino, Einaudi, 2008
 
+RE,   Matteo.   La   Italia   actual:   evolución   histórica   y  cultural  de  1945  a  nuestros  días.  Madrid,
+Universitas, 2007
+
 RIDOLFI,    Maurizio,    Las    fiestas   nacionales   en   la   Italia   contemporánea.   Zaragoza,   Prensas
 Universitarias de Zaragoza, 2020
 
@@ -115,6 +123,9 @@ SABBATUCCI,   Giovanni   y   VIDOTTO,  Vittorio,  Storia  contemporanea.  Il  no
 2003
 
 SABBATUCCI, Giovanni y VIDOTTO, Vittorio, Storia d’Italia. (6 vols.). Roma-Bari, Laterza, 1998
+
+SALVADORI,   Massimo,   Storia   d’Italia:   il   camino   tormentato   di   una  nazione,  1861-2016.  Torino,
+Einaudi, 2018
 
 SASSOON, Donald. Mussolini y el ascenso del fascismo. Barcelona, Crítica, 2008
 
@@ -131,46 +142,25 @@ Mulino, 1981
 
 VV.AA. Storia d’Italia. (14 vols.) Torino, Einaudi, 1998
 
+ZAMAGNI, V. Dalla periferia al centro. La seconda rinascita económica del-l’Italia. Bolonia, 1990
+
 ZANGHERI, Renato, Storia del socialismo italiano. 2 vols. Milán, Einaudi, 1993 y 1997
 
 ZUNINO,   Pier   Giorgio.   L'ideologia  del  fascismo.  Miti,  credenze  e  valori  nella  stabilizzazione  del
 regime. Bologna, Il Mulino, 1985
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Cambridge,   Cambridge   University   Press,   1991   →   CINEL,  Dino,  The  National  Integration  of  Italian
-Return Migration, 1870-1929. Cambridge, Cambridge University Press, 1991
-
-Torino,   Einaudi,   1998   →   GINSBORG,   Paul.   L’Italia   del  tempo  presente:  famiglia  societè  civile,
-Stato: 1980-1996. Torino, Einaudi, 1998
-
-RE,   Matteo.   La  Italia  actual:  evolución  histórica  y  cultural  de  1945  a  nuestros  días  →  RE,  Matteo.
-La Italia actual: evolución histórica y cultural de 1945 a nuestros días. Madrid, Universitas, 2007
-
-CINEL,   Dino,   The   National   Integration   of  Italian  Return  Migration,  1870-1929  →  CINEL,  Dino,  The
-National   Integration  of  Italian  Return  Migration,  1870-1929.  Cambridge,  Cambridge  University  Press,
-1991
-
-GINSBORG,   Paul.   L’Italia  del  tempo  presente:  famiglia  societè  civile,  Stato:  1980-1996  →  GINSBORG,
-Paul. L’Italia del tempo presente: famiglia societè civile, Stato: 1980-1996. Torino, Einaudi, 1998
-
-Torino,   Einaudi,   2018   →   GINSBORG,   Paul.   L’Italia   del  tempo  presente:  famiglia  societè  civile,
-Stato: 1980-1996. Torino, Einaudi, 1998
-
-SALVADORI,   Massimo,   Storia   d’Italia:   il  camino  tormentato  di  una  nazione,  1861-2016  →  SALVADORI,
-Massimo, Storia d’Italia: il camino tormentato di una nazione, 1861-2016. Torino, Einaudi, 2018
-
-Madrid,   Universitas,   2007  →  RE,  Matteo.  La  Italia  actual:  evolución  histórica  y  cultural  de  1945  a
-nuestros días. Madrid, Universitas, 2007
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 CARRONE,   Ilenia.,  Le  donne  della  resistenza.  La  trasmissione  della  memoria  nel  racconto  dei  figli  e
 delle figlie delle partigiane. Infinito Edizioni, 2014
 
+CINEL,   Dino,   The  National  Integration  of  Italian  Return  Migration,  1870-1929.  Cambridge,  Cambridge
+University Press, 1991
+
+CINEL,   Dino,   The  National  Integration  of  Italian  Return  Migration,  1870-1929.  Cambridge,  Cambridge
+University Press, 1991
+
 OSTI   GUERRAZZI,   Amedeo.,   The   Italian   Army   in   Slovenia.  Strategies  of  antipartisan  Repression,
 1941-1943. Palgrave Macmillan, 2013
 
-ZAMAGNI, V. Dalla periferia al centro. La seconda rinascita económica del-l’Italia. Bolonia, 1990
-
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

@@ -2,15 +2,40 @@
 Grado: edificacion (230)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (16):
 ------------------------------
+3/2011,   de   14   de   noviembre,   por  el  que  se  aprueba  el  texto  refundido  de  la  Ley  de  Contratos  del
+Sector Público. ESPAÑA
+
 Alarcón,   L.F.;   Pellicer,  E.  (2009)  “Un  nuevo  enfoque  en  la  gestión:  la  construcción  sin  pérdidas”.
 Revista de Obras Públicas, 3496, 45-52
 
-Ballard, H.G. (2000) “The last planner system of production control”. Tesis Doctoral
+Caamaño,   J.   Eduardo.   (2012)   “Project   management  práctico:  técnicas,  herramientas  y  documentos”.
+Málaga: Vértice, D.L. 2012
 
 De   Cos,   M.,   (1995)   “Teoría   General   del   Proyecto.   Dirección  de  Proyectos/Project  Management”.
 Síntesis, Madrid
+
+García   Valcarce,   A.,   Sánchez-Ostiz   Gutiérrez,  A.,  González  Martínez,  P.,  Conradi  Galnares,  E.,  &
+López Martínez, J. (2004). Manual de Dirección y Organización de Obras
+
+Holweg,   M.  (2007)  “The  genealogy  of  lean  production”.  Journal  of  Operations  Management,  25,  420–437
+−   Howell,   G.   (1999)  “What  is  Lean  Construction”.  7th  Annual  Conference  of  the  International  Group
+for   Lean  Construction,  Berkeley,  California  Koskela,  L.  (1992)  “Application  of  the  new  pro-  duction
+philosophy to construction”
+
+Koskela, L. (2000) “An Exploration Towards a Production Theory and its Application to Construction”.
+Tesis   Doctoral,   Technical   Research   Centre   of   Finland,  Espoo  Levy,  S.  (2002).  Administración  de
+proyectos de construcción. McGraw-Hill Interamericana Editores
+
+Madrid: CIE Inversiones Editoriales - DOSSAT 2000
+
+Martínez Almela, Jesús. Bases para la competencia en dirección de proyectos. Valencia: Editorial UPV
+D.L
+
+Merchán Gabaldón, F. (1999). Manual para la Dirección Integrada de Proyectos y Obras
+
+Ministerio de Economía y Hacienda. Gobierno de España. (2014). Real Decreto Legislativo
 
 Pellicer,   E.,   &  Yepes,  V.  (2004).  Consideraciones  generales  sobre  la  función  de  control  aplicada  a
 la   gestión  de  proyectos  de  construcción.  Valencia:  Dpto.:  Ingeniería  de  la  Construcción  y  Proyectos
@@ -21,59 +46,36 @@ Pennsylvania: Newtown Square : Project Management Institute, cop. 2008
 
 Rodríguez,   A.,   Alarcon,   L,   Pellicer,   E.   La   gestión  de  la  obra  desde  la  perspectiva  del  Último
 Planificador.   Revista   de  Obras  Públicas.  Feb  2011,  nº  3518.  pp  35-44.  −  Trueba,  I.,  Cazorla,  A.,  &
-De Gracia, J.J. (1995). Proyectos empresariales. Formulación y evolución. Madrid: Ed
+De Gracia, J.J. (1995). Proyectos empresariales. Formulación y evolución. Madrid: Ed. MundiPrensa
 
-Sayer, N.J.; Williams, B. (2007) “Lean for Dummies”. Wiley, Hoboken, NJ habrán proporcionado durante
-las clases presenciales
+Sayer, N.J.; Williams, B. (2007) “Lean for Dummies”. Wiley, Hoboken, NJ
 
-Technical Report #72. Center for Integrated Facility Engi- neering, Stanford University
+Technical Report #72. Center for Integrated Facility Engi- neering, Stanford University. Stanford
 
-University of − Birmingham, Birmingham. documentos”. Málaga: Vértice, D.L. 2012
-
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (5):
 ------------------------------
-Carro Paz, R., & Gónzalez Gómez, Daniel. (s.f.). El sistema de producción y operaciones. Madrid: RA-
-MA editorial
+Ballard,   H.   G.   (2000).   The   last   planner   system   of   production   control   [D_ph,  University  of
+Birmingham]. https://etheses.bham.ac.uk/id/eprint/4789/
+
+Carro Paz, R., & Gónzalez Gómez, Daniel. (s.f.). El sistema de producción y operaciones
+
+Domingo   Ajenjo,   A.   (2000).   Dirección   y  Gestión  de  Proyectos.  Un  enfoque  práctico.  Madrid:  RA-MA
+editorial
 
 García   Valcarce,   A.,   Sánchez-Ostiz   Gutiérrez,  A.,  González  Martínez,  P.,  Conradi  Galnares,  E.,  &
 López Martínez, J. (2004). Manual de Dirección y Organización de Obras. Madrid: 2004 Cie Inversiones
 Editoriales Dossat 2000
 
-Merchán   Gabaldón,   F.   (1999).  Manual  para  la  Dirección  Integrada  de  Proyectos  y  Obras.  Madrid:  CIE
-Inversiones Editoriales - DOSSAT 2000
-
 Ministerio   de   Vivienda.   Gobierno  de  España.  (2006).  REAL  DECRETO  314/2006,  de  17  de  marzo,  por  el
 que se aprueba el Código Técnico de la Edificación. ESPAÑA
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Ministerio   de   Economía   y  Hacienda.  Gobierno  de  España.  (2014).  Real  Decreto  Legislativo  Contratos
-del   Sector   Público.   ESPAÑA   →  Ministerio  de  Economía  y  Hacienda.  Gobierno  de  España.  (2014).  Real
-Decreto   Legislativo   3/2011,  de  14  de  noviembre,  por  el  que  se  aprueba  el  texto  refundido  de  la  Ley
-de Contratos del Sector Público. ESPAÑA
-
-Holweg,   M.  (2007)  “The  genealogy  of  lean  production”.  Journal  of  Operations  Management,  25,  420–437
-−   Howell,   G.   (1999)  “What  is  Lean  Construction”.  7th  Annual  Conference  of  the  International  Group
-for   Lean  Construction,  Berkeley,  California  Koskela,  L.  (1992)  “Application  of  the  new  pro-  duction
-philosophy   to   construction”   →   Holweg,   M.   (2007).   The  genealogy  of  lean  production.  Journal  of
-Operations Management, 25 (2), 420-437. https://doi.org/10.1016/j.jom.2006.04.001
-
-Koskela, L. (2000) “An Exploration Towards a Production Theory and its Application to Construction”.
-Tesis   Doctoral,   Technical   Research   Centre   of   Finland,  Espoo  Levy,  S.  (2002).  Administración  de
-proyectos    de    construcción.    McGraw-Hill   Interamericana   Editores   →   Koskela,   L.   (2000).   An
-exploration   towards   a   production   theory   and  its  application  to  construction:  Dissertation  .  VTT
-Technical Research Centre of Finland
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (55):
 ------------------------------
 Aidico   Instituto   Tecnológico   de  la  Construcción.  (2009).  Guía  de  sostenibilidad  en  la  edificación
 residencial.   CAI/   Calidad   del   ambiente   interior.  Paterna  (Valencia):  Instituto  Valenciano  de  la
 Edificación
 
 Ajenjo, A. D., & TOME, A. G. (2000). Dirección y Gestión de Proyectos: Un enfoque práctico
-
-Ballard,   H.   G.   (2000).   The   last   planner   system   of   production   control   [D_ph,  University  of
-Birmingham]. https://etheses.bham.ac.uk/id/eprint/4789/
 
 Caamaño,   J.   Eduardo.   (2013).   Project   Management  Práctico:  Técnicas,  Herramientas  y  Documentos  .
 Círculo Rojo-Docencia
@@ -92,9 +94,6 @@ sostenible. CEMCI (17)
 
 Defensor del Pueblo. (2015). Tramitación de licencias urbanísticas: procedimientos y duración de los
 trámites. Madrid: Defensor del Pueblo
-
-Domingo   Ajenjo,   A.   (2000).   Dirección   y  Gestión  de  Proyectos.  Un  enfoque  práctico.  Madrid:  RA-MA
-editorial
 
 Escuela   Politécnica   Superior   de   Edificación   de   Barcelona.   (2010).  Mantenimiento  de  Edificios.
 Barcelona
@@ -126,6 +125,14 @@ García   Valcarce,   A.,   López   Martínez,  J.  A.,  Conradi  Galnares,  E.
 González   Martínez,   P.   (2004).   Manual   de   dirección   y   organización   de  obras  .  Cie  Inversiones
 Editoriales Dossat. https://dialnet.unirioja.es/servlet/libro?codigo=771349
 
+García   Valcarce,   A.,   Sánchez-Ostiz   Gutiérrez,  A.,  González  Martínez,  P.,  Conradi  Galnares,  E.,  &
+López Martínez, J. (2004). Manual de Dirección y Organización de Obras. Madrid: 2004 Cie Inversiones
+Editoriales Dossat 2000
+
+García   Valcarce,   A.,   Sánchez-Ostiz   Gutiérrez,  A.,  González  Martínez,  P.,  Conradi  Galnares,  E.,  &
+López Martínez, J. (2004). Manual de Dirección y Organización de Obras. Madrid: 2004 Cie Inversiones
+Editoriales Dossat 2000
+
 Gibert   Armengol,  V.  (2010).  El  Ingeniero  de  Edifcación,  un  nuevo  activo  pra  el  mantenimiento.  En  E.
 E. Barcelona, Mantenimiento de edificios (págs. 120-129)
 
@@ -136,6 +143,9 @@ Guerra Peña, L. (2002). Gestión integral de proyectos. Madrid: Fundación Conf
 Haskell,   America´s   Desing-Build   Leader.  (2012).  La  ingeniería  de  valor  en  un  contexto  de  Diseño  y
 Construcción,   asigna   el   trabajo  de  definir  lo  que  se  entiende  por  “valor”  a  la  parte  adecuada:  el
 propietario
+
+Holweg,   M.   (2007).   The   genealogy   of   lean  production.  Journal  of  Operations  Management,  25  (2),
+420-437. https://doi.org/10.1016/j.jom.2006.04.001
 
 Housers     smart     investment.    (2022).    Housers    smart    investment.    Blog    .    Obtenido    de
 https://www.housers.com/blog/es/la-demora-en-la-concesion-de-licencia/
@@ -160,6 +170,9 @@ rehabilitación y de la simplificación administrativa. Revisión 2014. BOE
 
 Koskela, L. (1992). Application of the new production philosophy to construction
 
+Koskela,   L.  (2000).  An  exploration  towards  a  production  theory  and  its  application  to  construction:
+Dissertation . VTT Technical Research Centre of Finland
+
 Laboratorio   Nacional   de   Calidad   del   Software   de  INTECO.  (2009).  Guía  práctica  de  la  gestión  de
 proyectos. Madrid. Project Management Institute. (2021). PMBOX Guide. 7th Edition
 
@@ -173,6 +186,17 @@ Martínez   Almela,  J.  (2006).  Bases  para  la  competencia  en  dirección  
 Asociación Española de Ingeniería de Proyectos, & Universidad Politécnica de Valencia
 
 Mattos, A., & Valderrama, F. (2014). Métodos de planificación y control de obras. Editorial Reverte
+
+Merchán   Gabaldón,   F.   (1999).  Manual  para  la  Dirección  Integrada  de  Proyectos  y  Obras.  Madrid:  CIE
+Inversiones Editoriales - DOSSAT 2000
+
+Ministerio   de   Economía  y  Hacienda.  Gobierno  de  España.  (2014).  Real  Decreto  Legislativo  3/2011,  de
+14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público.
+ESPAÑA
+
+Ministerio   de   Economía  y  Hacienda.  Gobierno  de  España.  (2014).  Real  Decreto  Legislativo  3/2011,  de
+14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público.
+ESPAÑA
 
 Ministerio   de   Economía.   Gobierno   de   España.   (9  de  Abril  de  2003).  Orden  ECO/805/2003,  de  27  de
 marzo,   sobre   normas   de   valoración   de   bienes   inmuebles  y  de  determinados  derechos  para  ciertas

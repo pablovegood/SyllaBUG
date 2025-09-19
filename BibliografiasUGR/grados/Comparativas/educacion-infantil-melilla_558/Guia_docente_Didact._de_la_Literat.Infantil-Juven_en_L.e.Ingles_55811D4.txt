@@ -2,11 +2,21 @@
 Grado: educacion-infantil-melilla (558)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (3):
 ------------------------------
-No hay elementos.
+Hayes,   Carol   (2016).   Language,   literacy   &  communication  in  the  early  years.  Northwich:  Critical
+Publishing   Hunt,   Peter  (1994).  An  Introduction  to  Children’s  Literature.  Oxford:  Oxford  University
+Press. Pearson Education Limited
 
-📚 Recursos sin cambios:
+Pérez   Valverde,   Cristina   (2009).   “Magic   women   on   the   margins:   from  Mary  Poppins  to  Ms  Wiz”,
+Children’s   Literature  in  Education,  Vol.  40,  4,  263-274  Sipe,  Lawrence  R.  and  Sylvia  Pantaleo,  eds.
+(2008). Postmodern Picturebooks. Play, Parody and Self-Referentiality, New York: Routledge
+
+Wright,   Andrew   (1995).   Storytelling   with   children,   Oxford:   Oxford  University  Anstey,  Michele,
+(2002).   It’s   not   all   black   and   white’:  Postmodern  picture  books  and  new  literacies,  Journal  of
+Adolescent & Adult Literacy 45, 6, 444-458
+
+📚 Recursos sin cambios (9):
 ------------------------------
 Aryzpe,   Evelyn  &  Morag  Styles  (2003).  Children  Reading  Pictures:  Interpreting  Visual  Texts,  London:
 RoutledgeFalmer
@@ -16,12 +26,6 @@ Teachers
 
 Evans,   Janet   (2009).   Talking   beyond   the   page:   Reading  and  responding  to  picturebooks,  London:
 Routledge
-
-Hayes,   Carol   (2016).   Language,   literacy   &  communication  in  the  early  years.  Northwich:  Critical
-Publishing
-
-Hunt,   Peter   (1994).   An   Introduction  to  Children’s  Literature.  Oxford:  Oxford  University  Press.  P
-earson Education Limited
 
 Kress,   Gunther   R.  (2010).  Multimodality:  A  Social  Semiotic  Approach  to  Contemporary  Communication,
 New York: Routledge
@@ -39,27 +43,23 @@ Pérez   Valverde,   Cristina   (2002).   Didáctica   de  la  Literatura  en  L
 
 Tartar, María. (2002). The Annotated Classic Fairy Tales. London: W.W. Norton & Co
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Wright,   Andrew   (1995).   Storytelling   with   children,   Oxford:   Oxford  University  Anstey,  Michele,
-(2002).   It’s   not   all   black   and   white’:  Postmodern  picture  books  and  new  literacies,  Journal  of
-Adolescent   &   Adult   Literacy   45,   6,  444-458  →  Wright,  Andrew  (1995).  Storytelling  with  children,
-Oxford: Oxford University
-
-Pérez   Valverde,   Cristina   (2009).   “Magic   women   on   the   margins:   from  Mary  Poppins  to  Ms  Wiz”,
-Children’s   Literature  in  Education,  Vol.  40,  4,  263-274  Sipe,  Lawrence  R.  and  Sylvia  Pantaleo,  eds.
-(2008).   Postmodern   Picturebooks.   Play,  Parody  and  Self-Referentiality,  New  York:  Routledge.  de  la
-lengua   extranjera  consultas,  exposiciones  y  debates;  así  como  en  la  elaboración  y  exposición  de  los
-trabajos,   individuales   o   en   equipo,   y   en   las   sesiones   de   puesta  en  común  →  Pérez  Valverde,
-Cristina (2009). “Magic women on the margins: from Mary Poppins to Ms Wiz”, Children’s Literature in
-Education, Vol. 40, 4, 263-274
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (6):
 ------------------------------
 Anstey, Michele, (2002). It’s not all black and white’: Postmodern picture books and new literacies,
 Journal of Adolescent & Adult Literacy 45, 6, 444-458
 
+Hayes,   Carol   (2016).   Language,   literacy   &  communication  in  the  early  years.  Northwich:  Critical
+Publishing
+
+Hunt,   Peter   (1994).   An   Introduction  to  Children’s  Literature.  Oxford:  Oxford  University  Press.  P
+earson Education Limited
+
+Pérez   Valverde,   Cristina   (2009).   “Magic   women   on   the   margins:   from  Mary  Poppins  to  Ms  Wiz”,
+Children’s Literature in Education, Vol. 40, 4, 263-274
+
 Sipe,   Lawrence  R.  and  Sylvia  Pantaleo,  eds.  (2008).  Postmodern  Picturebooks.  Play,  Parody  and  Self-
 Referentiality, New York: Routledge
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+Wright, Andrew (1995). Storytelling with children, Oxford: Oxford University
+
+📊 Porcentaje estimado de cambio: 60% [██████░░░░]

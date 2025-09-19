@@ -2,14 +2,36 @@
 Grado: historia-ciencias-musica (299)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (11):
 ------------------------------
+<http://www.imagenesmusica.es/inicio_imagenesmusica/recursos> [Consulta: 23/05/2022]
+
+<http://www.oxfordmusiconline.com/subscriber/article/grove/music/20441> [Consulta: 23/05/2022]
+
+<http://www.oxfordmusiconline.com:80/subscriber/article/grove/music/13698> [Consulta: 23/05/2022]
+
+<https://halshs.archives-ouvertes.fr/halshs-00009496> [Consulta: 23/05/2022]
+
+<https://museo-etnografico.com/pdf/etno_praxis2008.pdf> [Consulta: 23/05/2022]
+
 <t.ly/oBEH> [Consulta: 8 de junio de 2015]
+
+BORDAS   IBÁÑEZ,   Cristina   (en   colaboración  con  Alfonso  de  Vicente),  «Recopilación  bibliográfica  de
+Iconografía musical española», Music in Art. International Journal for Music Iconography, n.º 30/1-2
+(2005), págs. 205-227
+
+Castilla y León, 2008, págs. 95-102
+
+GÉTREAU,   Florence,   «L’iconographie   musicale   :   définition,   constitution   de   corpus   et   outils
+d’exploitation» [Comunicación en un congreso, 2003]
 
 PÉREZ   SÁNCHEZ,   Alfonso,  «Iberia  de  Isaac  Albéniz:  La  dificultad  como  tema  iconográfico  presente  en
 varias portadas de discos», Celaya Academia Journals, n.º 6/5 (2014)
 
-📚 Recursos sin cambios:
+Recursos   para   la  catalogación  y  estudio  de  fuentes  de  Iconografía  Musical  en  España  y  Portugal  [en
+línea], Madrid, AEDOM, 2012
+
+📚 Recursos sin cambios (35):
 ------------------------------
 ANDRÉS, Ramón, Diccionario de instrumentos musicales, Barcelona, Bibliograf, 2000
 
@@ -21,6 +43,10 @@ BENITO OLMOS, Aurora, Arte y música en el Museo del Prado, Madrid, Fundación A
 BLANCO   PÉREZ,   Miguel,   «Aproximación   a  la  iconografía  de  la  zarzuela  a  través  de  las  cubiertas  de
 partituras    1874-1900»,    Revista    de    musicología,    n.º    27/2   (2004),   págs.   999-1038.   DOI:
 https://doi.org/10.2307/20798013
+
+BORDAS   IBÁÑEZ,   Cristina   e   Isabel   RODRÍGUEZ   LÓPEZ   (eds.),   IMAGENesMUSICA.   Recursos   para   la
+catalogación   y   estudio  de  fuentes  de  Iconografía  Musical  en  España  y  Portuga  l  [en  línea],  Madrid,
+AEDOM, 2012. < http://www.imagenesmusica.es/inicio_imagenesmusica/recursos > [Consulta: 23/05/2022]
 
 BORDAS IBÁÑEZ, Cristina, Instrumentos musicales en colecciones españolas, 2 vols., Madrid, Centro de
 Documentación de Música y Danza, ICCMU, 1999-2008
@@ -37,6 +63,12 @@ Middelton   (eds.),   The   cultural   study   of  music,  a  critical  introduc
 
 DUNLAP,   Susanne,  «Susanna  and  the  male  gaze:  The  musical  iconography  of  a  Baroque  heroine»,  Women  &
 music: A journal of gender and culture, n.º 5 (2001), págs. 40-98
+
+ESCALAS   LLIMONA,   Romà,   «El   Museo   de  la  Música  de  Barcelona.  Encuentro  entre  la  Organología  y  la
+Museología»,   en   José   Luis   Alonso   Ponga,  Joaquín  Díaz  González  y  Carlos  Piñel  Sánchez  (coords.),
+Teoría   y   praxis  de  la  museografía  etnográfica.  Actas  del  1.º  Congreso  Internacional  de  Museografía
+Etnográfica,   Zamora,   Museo   Etnográfico   de   Castilla  y  León,  2008,  págs.  95-102.  <  https://museo-
+etnografico.com/pdf/etno_praxis2008.pdf > [Consulta: 23/05/2022]
 
 FORD,   Terence,   Lista   de   instrumentos   de   música   occidentales   anotada   desde  un  punto  de  vista
 iconográfico [versión española de Koldo Ríos Álvaro], Madrid, AEDOM, 1999
@@ -60,12 +92,18 @@ LIBIN,   Laurence,   «Musical   Instruments  in  Cultural  Context»,  en  Luce
 Mundi:   los   instrumentos  sonoros  en  Iberoamérica,  siglo  XVI  al  XIX,  México,  Universidad  Autónoma  de
 México, 2009, págs. 17-33
 
+LIBIN,   Laurence.  «Organology»  [en  línea],  en  Stanley  Sadie  (ed.),  New  Grove  Dictionary  of  Music  and
+Musicians, Second revised edition . DOI
+
 MAERSCH,   Klaus,  Ulrich  ROHDE  y  Otto  SEIFFERT,  Atlas  de  los  instrumentos  musicales,  Madrid,  Alianza,
 2005
 
 PANOFSKY, Erwin, El significado en las artes visuales, Madrid, Alianza, 1979
 
-PANOFSKY, Erwin, Estudios sobre iconología, Madrid, Alianza, 1972
+PANOFSKY, Erwin, Estudios sobre iconología. Madrid, Alianza, 1972
+
+PIQUER,   Ruth,   «Aquello   que   se   escucha  con  el  ojo:  La  iconografía  musical  en  la  encrucijada»  [en
+línea], Síneris, n.º 9 (2013). < http://www.sineris.es/iconografia.pdf > [Consulta: 23/05/2022]
 
 ROSELLÓ   BORDOY,   Guillem,  «Música  y  arqueología:  Organología  musical  y  hallazgos  arqueológicos»,  en
 Reynaldo   Fernández  Manzano  y  Emilio  de  Santiago  Simón  (eds.),  Música  y  poesía  al  Sur  de  al-Andalus,
@@ -76,9 +114,17 @@ SACHS, Curt, The history of Musical Instruments, New York, NY, Dover, 2012
 SADIE,   Stanley   (ed.).   The   New   Grove   Dictionary   of   Musical   Instruments,  3  vols.,  London,  UK,
 Macmillan, 1984
 
+SEEBASS, Tilman, «Iconography», en Stanley Sadie (ed.), New Grove Dictionary of Music and Musicians,
+second revised edition . DOI
+
 STEFANIAK,   Regina,   «Raphael's  Santa  Cecilia:  A  fine  and  private  vision  of  virginity»,  Art  history:
 Journal    of    the    Association    of    Art    Historians,   n.º   14/3   (1991),   págs.   345-371.   DOI:
 https://doi.org/10.1111/j.1467-8365.1991.tb00443.x
+
+SÁNCHEZ   LÓPEZ,  Juan  Antonio,  «Cuando  la  música  dejó  de  estar  ciega.  Posibilidades  y  perspectivas  de
+investigación   iconográfica   en   torno   a  la  transvanguardia  y  un  género  mediático»,  en  Juan  Antonio
+Sánchez   López   Francisco   García   Gómez   (coords.),   Historia,  estética  e  iconografía  del  videoclip
+musical, Málaga, Universidad de Málaga, 2009, págs. 179-223
 
 TRANCHEFORT, François René, Los instrumentos musicales en el mundo, Madrid, Alianza, 1985
 
@@ -98,52 +144,48 @@ Musicología, n.º 20/2 (1997), págs. 767-782. DOI: https://doi.org/10.2307/207
 uso,   su   origen.   Algunos   problemas  iconográficos»,  Revista  de  Musicología,  n.º  10/1  (1987),  págs.
 67-95. DOI: https://doi.org/10.2307/20795084
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (17):
 ------------------------------
+BORDAS   IBÁÑEZ,   Cristina   (en   colaboración  con  Alfonso  de  Vicente),  «Recopilación  bibliográfica  de
+Iconografía musical española», Music in Art. International Journal for Music Iconography, n.º 30/1-2
+(2005), págs. 205-227. < https://www.jstor.org/stable/41818786 > [Consultado el 17-06-2025]
+
+BORDAS   IBÁÑEZ,   Cristina   e   Isabel   RODRÍGUEZ   LÓPEZ   (eds.),   IMAGENesMUSICA.   Recursos   para   la
+catalogación   y   estudio  de  fuentes  de  Iconografía  Musical  en  España  y  Portuga  l  [en  línea],  Madrid,
+AEDOM, 2012. < http://www.imagenesmusica.es/inicio_imagenesmusica/recursos > [Consulta: 23/05/2022]
+
 ESCALAS   LLIMONA,   Romà,   «El   Museo   de  la  Música  de  Barcelona.  Encuentro  entre  la  Organología  y  la
 Museología»,   en   José   Luis   Alonso   Ponga,  Joaquín  Díaz  González  y  Carlos  Piñel  Sánchez  (coords.),
 Teoría   y   praxis  de  la  museografía  etnográfica.  Actas  del  1.º  Congreso  Internacional  de  Museografía
-Etnográfica,   Zamora,   Museo   Etnográfico   de  Castilla  y  León,  2008,  págs.  95-102  →  ESCALAS  LLIMONA,
-Romà,   «El  Museo  de  la  Música  de  Barcelona.  Encuentro  entre  la  Organología  y  la  Museología»,  en  José
-Luis   Alonso   Ponga,   Joaquín   Díaz  González  y  Carlos  Piñel  Sánchez  (coords.),  Teoría  y  praxis  de  la
-museografía   etnográfica.   Actas   del  1.º  Congreso  Internacional  de  Museografía  Etnográfica,  Zamora,
-Museo     Etnográfico     de     Castilla     y     León,     2008,    págs.    95-102.    <    https://museo-
+Etnográfica,   Zamora,   Museo   Etnográfico   de   Castilla  y  León,  2008,  págs.  95-102.  <  https://museo-
 etnografico.com/pdf/etno_praxis2008.pdf > [Consulta: 23/05/2022]
 
-BORDAS   IBÁÑEZ,   Cristina   (en   colaboración  con  Alfonso  de  Vicente),  «Recopilación  bibliográfica  de
-Iconografía musical española», Music in Art. International Journal for Music Iconography, n.º 30/1-2
-(2005),   págs.   205-227   →   BORDAS   IBÁÑEZ,   Cristina   (en   colaboración   con   Alfonso   de  Vicente),
-«Recopilación   bibliográfica   de   Iconografía  musical  española»,  Music  in  Art.  International  Journal
-for   Music   Iconography,  n.º  30/1-2  (2005),  págs.  205-227.  <  https://www.jstor.org/stable/41818786  >
-[Consultado el 17-06-2025]
-
-[Consulta:   23/05/2022]   →  GÉTREAU,  Florence,  «L’iconographie  musicale  :  définition,  constitution  de
-corpus   et   outils   d’exploitation»   [Comunicación   en   congreso,   2003].  <  https://halshs.archives-
-ouvertes.fr/halshs-00009496 > [Consulta: 23/05/2022]
-
-GÉTREAU,   Florence,   «L’iconographie   musicale   :   définition,   constitution   de   corpus   et   outils
-d’exploitation»   [Comunicación   en   un  congreso,  2003]  →  GÉTREAU,  Florence,  «L’iconographie  musicale
-:   définition,   constitution  de  corpus  et  outils  d’exploitation»  [Comunicación  en  congreso,  2003].  <
-https://halshs.archives-ouvertes.fr/halshs-00009496 > [Consulta: 23/05/2022]
-
-Recursos   para   la  catalogación  y  estudio  de  fuentes  de  Iconografía  Musical  en  España  y  Portugal  [en
-línea],    Madrid,    AEDOM,   2012   →   BORDAS   IBÁÑEZ,   Cristina   e   Isabel   RODRÍGUEZ   LÓPEZ   (eds.),
-IMAGENesMUSICA.   Recursos  para  la  catalogación  y  estudio  de  fuentes  de  Iconografía  Musical  en  España
-y         Portuga         l         [en         línea],         Madrid,         AEDOM,        2012.        <
-http://www.imagenesmusica.es/inicio_imagenesmusica/recursos > [Consulta: 23/05/2022]
-
-PIQUER,   Ruth,   «Aquello   que   se   escucha   con   el   ojo:   La   iconografía   musical  en  la  [Consulta:
-23/05/2022]   →   PIQUER,   Ruth,   «Aquello   que   se   escucha   con  el  ojo:  La  iconografía  musical  en  la
-encrucijada» [en línea], Síneris, n.º 9 (2013). < http://www.sineris.es/iconografia.pdf > [Consulta:
-23/05/2022]
-
-✅ Recursos añadidos:
-------------------------------
 GUZMÁN   ANAYA,  Cristina,  «On  the  Organological  potential  of  Video  Games»,  Journal  of  Sound  and  Music
 Games, n.º 4/3 (2023), págs. 53-86. DOI: https://doi.org/10.1525/jsmg.2023.4.3.53
 
-LIBIN,   Laurence.  «Organology»  [en  línea],  en  Stanley  Sadie  (ed.),  New  Grove  Dictionary  of  Music  and
-Musicians, Second revised edition . DOI
+GÉTREAU,   Florence,   «L’iconographie   musicale   :   définition,   constitution   de   corpus   et   outils
+d’exploitation»      [Comunicación      en      congreso,      2003].      <      https://halshs.archives-
+ouvertes.fr/halshs-00009496 > [Consulta: 23/05/2022]
+
+GÉTREAU,   Florence,   «L’iconographie   musicale   :   définition,   constitution   de   corpus   et   outils
+d’exploitation»      [Comunicación      en      congreso,      2003].      <      https://halshs.archives-
+ouvertes.fr/halshs-00009496 > [Consulta: 23/05/2022]
+
+GÉTREAU,   Florence,   «L’iconographie   musicale   :   définition,   constitution   de   corpus   et   outils
+d’exploitation»      [Comunicación      en      congreso,      2003].      <      https://halshs.archives-
+ouvertes.fr/halshs-00009496 > [Consulta: 23/05/2022]
+
+GÉTREAU,   Florence,   «L’iconographie   musicale   :   définition,   constitution   de   corpus   et   outils
+d’exploitation»      [Comunicación      en      congreso,      2003].      <      https://halshs.archives-
+ouvertes.fr/halshs-00009496 > [Consulta: 23/05/2022]
+
+GÉTREAU,   Florence,   «L’iconographie   musicale   :   définition,   constitution   de   corpus   et   outils
+d’exploitation»      [Comunicación      en      congreso,      2003].      <      https://halshs.archives-
+ouvertes.fr/halshs-00009496 > [Consulta: 23/05/2022]
+
+GÉTREAU,   Florence,   «L’iconographie   musicale   :   définition,   constitution   de   corpus   et   outils
+d’exploitation»      [Comunicación      en      congreso,      2003].      <      https://halshs.archives-
+ouvertes.fr/halshs-00009496 > [Consulta: 23/05/2022]
 
 MARTÍN   MORENO,  Antonio  y  Mercedes  PALAU-RIBES  O'CALLAGHAN,  «Santiago  Rusiñol  y  Granada,  la  música  y
 los   músicos»,  en  Rusiñol  y  la  Alhambra.  El  despertar  de  un  poeta  [Catálogo  de  exposición],  Granada,
@@ -161,14 +203,6 @@ PÉREZ-COLODRERO,   Consuelo,   «‘¡No   sé   qué   me   pasa!’   La   re
 española   en   Toy   Story  3:  un  estudio  audiovisual  sobre  Spanish  Buzz»,  Bulletin  of  Spanish  Studies,
 n.º 95/6 (2018), págs. 663-678. DOI: https://doi.org/10.1080/14753820.2018.1465276
 
-SEEBASS, Tilman, «Iconography», en Stanley Sadie (ed.), New Grove Dictionary of Music and Musicians,
-second revised edition . DOI
-
-SÁNCHEZ   LÓPEZ,  Juan  Antonio,  «Cuando  la  música  dejó  de  estar  ciega.  Posibilidades  y  perspectivas  de
-investigación   iconográfica   en   torno   a  la  transvanguardia  y  un  género  mediático»,  en  Juan  Antonio
-Sánchez   López   Francisco   García   Gómez   (coords.),   Historia,  estética  e  iconografía  del  videoclip
-musical, Málaga, Universidad de Málaga, 2009, págs. 179-223
-
 ZAVALA   ARNAL,  Carmen,  «Iconografía  musical  en  los  libros  de  texto  de  Música  en  la  ESO:  una  revisión
 crítica», ArtsEduca, n.º 26 (2020), págs. 138-151. DOI: 10.6035/Artseduca.2020.26.11
 
@@ -176,4 +210,4 @@ https://doi.org/10.1093/gmo/9781561592630.article.13698
 
 https://doi.org/10.1093/gmo/9781561592630.article.20441
 
-📊 Porcentaje estimado de cambio: 51% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

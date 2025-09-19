@@ -2,11 +2,11 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (17):
 ------------------------------
 Bateman,   T.  S.  y  Snell,  S.  A.  (2005),  Administración:  un  nuevo  panorama  competitivo.  6a  ed.  México:
 McGraw-Hill
@@ -23,6 +23,11 @@ Dubrin, A. J. (2003), Fundamentos de comportamiento organizacional. 2a ed. Méxi
 Fernández Gago, R. (2006), Administración de la responsabilidad social corporativa. Madrid: Thomson
 
 Gómez Mejía, L. R. y Balkin, D. B. (2003), Administración. Madrid: McGraw-Hill
+
+Hellriegel,   D.;   Jackson,   S.   E.   y   Slocum,   J.   W.   (2005),  Administración:  un  enfoque  basado  en
+competencias. 10a ed. Madrid: Thomson
+
+Hitt, M. A, Black, J. S. y Porter, L. W. (2006), Administración. México: Pearson Educación
 
 Koontz,   H.   y   Weihrich,  H.  (2004),  Administración:  una  perspectiva  global.  12a  ed.  México:  McGraw-
 Hill
@@ -43,18 +48,9 @@ Sánchez Vizcaíno y otros (2011), Dirección y administración de empresas, Mad
 
 Trigo Aranda, V. (2002), Escribir y presentar trabajos en clase. Madrid: Prentice Hall
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (1):
 ------------------------------
-Hellriegel, D.; Jackson, S. E. y Slocum, J. W. (2005), Administración: un enfoque basado en Hitt, M.
-A,   Black,   J.   S.   y   Porter,  L.  W.  (2006),  Administración.  México:  Pearson  Educación  →  Hellriegel,
-D.;   Jackson,   S.   E.  y  Slocum,  J.  W.  (2005),  Administración:  un  enfoque  basado  en  competencias.  10a
-ed. Madrid: Thomson
-
-✅ Recursos añadidos:
-------------------------------
-Hitt, M. A, Black, J. S. y Porter, L. W. (2006), Administración. México: Pearson Educación
-
 Meyer,   E.   y   Jiménez,  N.  (2022),  El  mapa  cultural:  las  8  escalas  de  nuestras  barreras  culturales  y
 cómo sortearlas. Barcelona: Peninsula
 
-📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

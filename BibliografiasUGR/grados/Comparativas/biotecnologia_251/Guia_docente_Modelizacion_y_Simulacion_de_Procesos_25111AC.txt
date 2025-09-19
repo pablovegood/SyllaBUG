@@ -2,15 +2,7 @@
 Grado: biotecnologia (251)
 ==================================================
 
-❌ Recursos eliminados:
-------------------------------
-No hay elementos.
-
-📚 Recursos sin cambios:
-------------------------------
-No hay elementos.
-
-🔁 Misma obra con edición/año distinto:
+❌ Recursos eliminados (1):
 ------------------------------
 Intelligen, Inc, SuperPro Designer®. User Guide Intelligen, Inc Disponible en web Gil Chaves, I.D. y
 col.,   Process   Analysis  and  Simulation  in  Chemical  Engineering,  Springer,  2016,  Biblioteca  Ciencias
@@ -21,12 +13,18 @@ Electrónico).    Ver    capítulo    13   (Synthesis   of   a   Process   Using
 Troubleshooting)    Franks,    R.G.E.,    Modeling   and   Simulation   in   Chemical   Engineering,   Wiley-
 Interscience,   1972,  Despacho  del  Profesor  Doran,  P.M.,  Principios  de  Ingeniería  de  los  Bioprocesos,
 Acribia,   1998,   Biblioteca   Ciencias   (FCI/66   DOR   pri)   Dunn,   I.J.   y   col.,  Biological  Reaction
-Engineering,   Wiley-VCH,   2003,   Biblioteca   Ciencias   (FCI/D   55   132)   →   Bailie,   R.C.,  Analysis,
-Synthesis,   and   Design  of  Chemical  Processes,  Pearson,  2018,  Biblioteca  Ciencias  (  Doc.  Electrónico
-). Ver capítulo 13 (Synthesis of a Process Using a Simulator and Simulator Troubleshooting)
+Engineering, Wiley-VCH, 2003, Biblioteca Ciencias (FCI/D 55 132)
 
-✅ Recursos añadidos:
+📚 Recursos sin cambios (0):
 ------------------------------
+No hay elementos.
+
+✅ Recursos añadidos (7):
+------------------------------
+Bailie,   R.C.,   Analysis,   Synthesis,   and   Design   of  Chemical  Processes,  Pearson,  2018,  Biblioteca
+Ciencias   (   Doc.   Electrónico   ).   Ver   capítulo   13   (Synthesis  of  a  Process  Using  a  Simulator  and
+Simulator Troubleshooting)
+
 Doran, P.M., Principios de Ingeniería de los Bioprocesos, Acribia, 1998, Biblioteca Ciencias (FCI/66
 DOR pri)
 

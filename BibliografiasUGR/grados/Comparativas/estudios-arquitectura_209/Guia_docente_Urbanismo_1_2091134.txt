@@ -2,20 +2,27 @@
 Grado: estudios-arquitectura (209)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
-No hay elementos.
+ALEXANDER, C. (1980), Un lenguaje de patrones. Ciudades, edificios, construcciones
 
-📚 Recursos sin cambios:
+AYMONINO, C. (1976). La vivienda racional: ponencias de los congresos CIAM 1929-1930
+
+Barcelona:   Gustavo   Gili,   (Edición   original   en   inglés:   1977);   -(2002)   The   nature   of  order,
+California: The center for environmental structure
+
+Barcelona: Gustavo Gili. (1983) El significado de las ciudades. Madrid: Hermann Blume
+
+📚 Recursos sin cambios (38):
 ------------------------------
 AMENDOLA, G. (2000): La ciudad postmoderna. Madrid: Celeste ediciones
 
 ASCHER,   F.   (2004),   Los  nuevos  principios  del  urbanismo:  el  fin  de  las  ciudades  no  está  a  la  orden
 del día. Versión española de María Hernández Díaz. Madrid: Alianza
 
-BACON, E. N. (1978), Design of cities, Londres: Thames and Hudson
+Artículos y otros BARBA CASANOVA, R. “Los ejes en el Proyecto de la Ciudad”
 
-BENEVOLO, L. (1982) Colección El diseño de la ciudad, 5 vols. Barcelona: Gustavo Gili
+BACON, E. N. (1978), Design of cities, Londres: Thames and Hudson
 
 BENÉVOLO, L. (1978). “La proyectación de la ciudad moderna”. Barcelona: Gustavo Gili
 
@@ -32,6 +39,11 @@ DELFANTE, C. (2006). Gran Historia de la Ciudad. De Mesopotamia a Estados Unidos
 
 De SOLÁ-MORALES, M. (2008) De cosas urbanas. Barcelona: Gustavo Gili
 
+De   SOLÁ-MORALES,   M.   “la   piel   de   las  ciudades”,  “la  urbanidad  de  la  arquitectura”,  “el  proyecto
+Imposible del espacio público”
+
+GEDDES, P. “La sección del valle”
+
 GEHL, J. (2009). La humanización del espacio público. Barcelona: Reverté
 
 GRAVAGNOLO, B. (1998). Historia del urbanismo en Europa. 1750-1960. Madrid: Akal
@@ -47,7 +59,10 @@ civil para el arquitecto Barcelona: Fundación Caja de Arquitectos, 1992) (1ª e
 
 HILBERSAIMER, L. (1979). La arquitectura de la gran ciudad. Barcelona: Gustavo Gili
 
-JEREZ MIR, C. (2011). ¿Qué es el urbanismo? Granada: Ed. Universidad de Granada
+Historia   del   urbanismo   BENEVOLO,   L.   (1982)  Colección  El  diseño  de  la  ciudad,  5  vols.  Barcelona:
+Gustavo Gili
+
+KOOLHAAS, R. “¿Qué fue del Urbanismo?”
 
 KOSTOF, S. (1992). The City Shaped. Urban Patterns and Meanings Through History. Londres: Thames and
 Hudson
@@ -70,7 +85,11 @@ PANERAI, P. (2002). Proyectar la ciudad. Madrid: Celeste
 PARCERISA,   J.   y   RUBERT,   M.   (2000).   La   ciudad   no  es  una  hoja  en  blanco.  Hechos  del  urbanismo.
 Santiago de Chile: Ediciones ARQ
 
+PEREC, G. “Especies de espacios”
+
 POËTE, M. (2011). “Introducción al urbanismo”. Barcelona: Fundación Caja de Arquitectos
+
+RASMUSSEN, S. E. “Londres: Ciudad única”. Barcelona: Fundación caja de Arquitectos
 
 ROSSI, A. (1970). La arquitectura de la ciudad. Barcelona: Gustavo Gili
 
@@ -88,43 +107,26 @@ Barcelona: Gustavo Gili
 ZARDINI,   M.  (ed.).  (2005).  Sense  of  the  city.  An  alternative  approach  to  urbanism.  Quebec:  Canadian
 Centre for Architecture
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (7):
 ------------------------------
-AYMONINO,   C.   (1976).   La   vivienda  racional:  ponencias  de  los  congresos  CIAM  1929-1930  →  AYMONINO,
-C. (1976). La vivienda racional: ponencias de los congresos CIAM 1929-1930. Barcelona: Gustavo Gili.
-(1983) El significado de las ciudades. Madrid: Hermann Blume
+ALEXANDER,   C.   (1980),   Un   lenguaje   de   patrones.  Ciudades,  edificios,  construcciones.  Barcelona:
+Gustavo   Gili,   (Edición   original   en   inglés:   1977);  -(2002)  The  nature  of  order,  California:  The
+center for environmental structure
 
-Barcelona:   Gustavo   Gili.   (1983)  El  significado  de  las  ciudades.  Madrid:  Hermann  Blume  →  AYMONINO,
-C. (1976). La vivienda racional: ponencias de los congresos CIAM 1929-1930. Barcelona: Gustavo Gili.
-(1983) El significado de las ciudades. Madrid: Hermann Blume
+ALEXANDER,   C.   (1980),   Un   lenguaje   de   patrones.  Ciudades,  edificios,  construcciones.  Barcelona:
+Gustavo   Gili,   (Edición   original   en   inglés:   1977);  -(2002)  The  nature  of  order,  California:  The
+center for environmental structure
 
-ALEXANDER,   C.   (1980),  Un  lenguaje  de  patrones.  Ciudades,  edificios,  construcciones  →  ALEXANDER,  C.
-(1980),   Un   lenguaje   de   patrones.   Ciudades,   edificios,  construcciones.  Barcelona:  Gustavo  Gili,
-(Edición   original   en   inglés:   1977);   -(2002)   The   nature   of   order,  California:  The  center  for
-environmental structure
+AYMONINO,   C.   (1976).   La   vivienda  racional:  ponencias  de  los  congresos  CIAM  1929-1930.  Barcelona:
+Gustavo Gili. (1983) El significado de las ciudades. Madrid: Hermann Blume
 
-Barcelona:   Gustavo   Gili,   (Edición   original   en   inglés:   1977);   -(2002)   The   nature   of  order,
-California:   The   center   for   environmental   structure   →   ALEXANDER,   C.   (1980),   Un   lenguaje  de
-patrones. Ciudades, edificios, construcciones. Barcelona: Gustavo Gili, (Edición original en inglés:
-1977); -(2002) The nature of order, California: The center for environmental structure
+AYMONINO,   C.   (1976).   La   vivienda  racional:  ponencias  de  los  congresos  CIAM  1929-1930.  Barcelona:
+Gustavo Gili. (1983) El significado de las ciudades. Madrid: Hermann Blume
 
-✅ Recursos añadidos:
-------------------------------
 Artículos y otros
 
-BARBA CASANOVA, R. “Los ejes en el Proyecto de la Ciudad”
+BENEVOLO, L. (1982) Colección El diseño de la ciudad, 5 vols. Barcelona: Gustavo Gili
 
-De   SOLÁ-MORALES,   M.   “la   piel   de   las  ciudades”,  “la  urbanidad  de  la  arquitectura”,  “el  proyecto
-Imposible del espacio público”
+JEREZ MIR, C. (2011). ¿Qué es el urbanismo? Granada: Ed. Universidad de Granada
 
-GEDDES, P. “La sección del valle”
-
-Historia del urbanismo
-
-KOOLHAAS, R. “¿Qué fue del Urbanismo?”
-
-PEREC, G. “Especies de espacios”
-
-RASMUSSEN, S. E. “Londres: Ciudad única”. Barcelona: Fundación caja de Arquitectos
-
-📊 Porcentaje estimado de cambio: 32% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

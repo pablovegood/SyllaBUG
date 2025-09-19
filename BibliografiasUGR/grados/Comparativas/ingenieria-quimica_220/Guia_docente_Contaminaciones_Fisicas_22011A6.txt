@@ -2,11 +2,11 @@
 Grado: ingenieria-quimica (220)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Ministerio de Obras Públicas, Transportes y Medio Ambiente. Calidad del Aire en España Madrid. 1993
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (26):
 ------------------------------
 Aguilar, J. Curso de Termodinámica. Alhambra Universidad. Madrid. 1981
 
@@ -16,6 +16,8 @@ Baró Casanovas, J. y otros. Origen y gestión de residuos radiactivos. Edita: I
 de Físicos. Patrocina esta edición: ENRESA. Madrid. 2000. 215 páginas
 
 Boeker E.; R. van Grondelle. Enviromental Science. Wiley. Chichester, Reino Unido. 2001
+
+Boeker, E.; R. van Grondelle. Environmental Physics. Wiley. Chichester, Reino Unido. 1995
 
 Boeker, E.; R. van Grondelle. Environmental Physics. Wiley. Chichester, Reino Unido. 2011
 
@@ -46,32 +48,26 @@ Kinsler, L.; A. R. Frey; A. B. Coppens; J. V. Sanders. Fundamentos de Acústica.
 
 Knoll, G. F. Radiation detection and measurement. Wiley. Nueva York. 1989
 
-Ristinen, R. A.; J. J. Kraushaar. Energy and the Environment. Wiley. Nueva York. 1998
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
-Boeker, E.; R. van Grondelle. Environmental Physics. Wiley. Chichester, Reino Unido. 1995
-
 Ministerio   Agricultura  Y  Pesca,  Alimentación  y  Medio  Ambiente.  Evaluación  de  la  Calidad  del  Aire  en
 España 2016
 
 Ministerio   de   Fomento.   Norma  básica  de  edificación  CA-88.  Condiciones  acústicas  en  los  edificios.
 1998
 
-Ministerio de Obras Públicas, Transportes y Medio Ambiente. Calidad del Aire en España 1990. Madrid.
-1993
-
 Recuero, M. Acústica arquitectónica aplicada. Paraninfo. Madrid. 1999
 
 Rejano, M. Ruido Industrial y Urbano. Paraninfo. Madrid. 2000
+
+Ristinen, R. A.; J. J. Kraushaar. Energy and the Environment. Wiley. Nueva York. 1998
 
 Spiro,   T.   G.;   W.  M.  Stigliani.  Química  Medioambiental.  2ª  Edición.  Pearson  Prentice  Hall.  Madrid.
 2004
 
 Turner, J.; E. Atoms, Radiation, and Radiation Protection. Wiley. Nueva York. 1995
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+✅ Recursos añadidos (1):
+------------------------------
+Ministerio de Obras Públicas, Transportes y Medio Ambiente. Calidad del Aire en España 1990. Madrid.
+1993
+
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

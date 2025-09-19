@@ -2,13 +2,18 @@
 Grado: criminologia (245)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+CASTILLO   BLANCO,  F.  /  QUESADA  LUMBRERAS,  J.  “Administración  penitenciaria,  potestad  disciplinaria”,
+Diccionario   de   sanciones   administrativas   (Dir.  Blanca  Lozano  Cutanda),  Ed.  Iustel,  Madrid,  2010,
+págs. 50-82 CONDE, M. Derecho penitenciario vivido. Edit. Comares. Granada, 2006
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (8):
 ------------------------------
 CERVELLÓ DONDERIS, V: Derecho penitenciario . Edit. Tirant lo Blanch. Valencia, 2016
+
+DE   VICENTE   MARTÍNEZ,  R.  (Dir.),  Derecho  penitenciario.  Enseñanza  y  aprendizaje,.  Tirant  lo  Blanch.
+Valencia, 2015
 
 FERNÁNDEZ ARÉVALO / NISTAL BURÓN. Manual de Derecho Penitenciario . Aranzadi. 2ª ed. Pamplona, 2012
 
@@ -17,32 +22,21 @@ JUANATEY DORADO, C.: Manual de Derecho Penitenciario . Iustel. 2ª ed. Madrid, 2
 MIR PUIG, C. Derecho penitenciario. El cumplimiento de la pena privativa de libertad . Edit. Atelier
 Barcelona, 2015
 
+RIOS   MARTÍN,   J.C.:   Manual   de   ejecución   penitenciaria.   Defenderse   en   la  cárcel,  edit.  Colex,
+Madrid,1998
+
 RODRÍGUEZ   ALONSO,   A.  /  RODRÍGUEZ  AVILÉS,  J.  A.  Lecciones  de  Derecho  Penitenciario  .  Edit.  Comares,
 Granada, 2011
 
 TAMARIT   SUMALLA   /   GARCÍA   ALBERO  /  SAPENA  GRAU/RODRÍGUEZ  PUERTA.  Curso  de  Derecho  Penitenciario  .
 Edit. Tirant Lo Blanch. Valencia, 2001
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
 CASTILLO   BLANCO,  F.  /  QUESADA  LUMBRERAS,  J.  “Administración  penitenciaria,  potestad  disciplinaria”,
 Diccionario   de   sanciones   administrativas   (Dir.  Blanca  Lozano  Cutanda),  Ed.  Iustel,  Madrid,  2010,
-págs.   50-82   CONDE,   M.   Derecho   penitenciario   vivido.   Edit.   Comares.   Granada,  2006  →  CASTILLO
-BLANCO,    F.   /   QUESADA   LUMBRERAS,   J.   “Administración   penitenciaria,   potestad   disciplinaria”,
-Diccionario   de   sanciones   administrativas   (Dir.  Blanca  Lozano  Cutanda),  Ed.  Iustel,  Madrid,  2010,
 págs. 50-82
 
-Tirant   lo   Blanch.   Valencia,   2015  →  CERVELLÓ  DONDERIS,  V:  Derecho  penitenciario  .  Edit.  Tirant  lo
-Blanch. Valencia, 2016
-
-✅ Recursos añadidos:
-------------------------------
 CONDE, M. Derecho penitenciario vivido . Edit. Comares. Granada, 2006
 
-DE   VICENTE   MARTÍNEZ,  R.  (Dir.),  Derecho  penitenciario.  Enseñanza  y  aprendizaje,.  Tirant  lo  Blanch.
-Valencia, 2015
-
-RIOS   MARTÍN,   J.C.:   Manual   de   ejecución   penitenciaria.   Defenderse   en   la  cárcel,  edit.  Colex,
-Madrid,1998
-
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

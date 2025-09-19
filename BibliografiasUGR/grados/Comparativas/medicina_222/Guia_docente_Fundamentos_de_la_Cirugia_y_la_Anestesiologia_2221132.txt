@@ -2,27 +2,25 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (4):
 ------------------------------
 Arcelus   Martínez  JI  y  Gálvez  Mateos  R  (eds):  Fundamentos  de  Cirugía  y  Anestesiología.  Granada  2023.
 Editorial Técnica Avicam. ISBN-13: 978-8419494726
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Barcelona, 2022, Elsevier España SL. ISBN 978-0-323-64062-6 Miller. Anestesia. Elsevier España, S.L.
-ISBN   edición   española:   ISBN   978-84-8086-2014   →   Miller.   Anestesia.   Elsevier  España,  S.L.  ISBN
-edición española: ISBN 978-84-8086-2014
+Miller. Anestesia. Elsevier España, S.L. ISBN edición española: ISBN 978-84-8086-2014
 
-✅ Recursos añadidos:
-------------------------------
 Se intentará suministrar bibliografía adicional, en formato PDF o material similar para complementar
 la bibliografía básica
 
 Townsend   CM,   Beauchamp   RD,  Evers,  BM,  Mattox  KL.  Sabiston.  Tratado  de  Cirugía.  21ª  ed.  Barcelona,
 2022, Elsevier España SL. ISBN 978-0-323-64062-6
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

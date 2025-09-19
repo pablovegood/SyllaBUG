@@ -2,19 +2,25 @@
 Grado: turismo (238)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (4):
 ------------------------------
 Coursebook (Units 7-12). Editorial UGR
 
 Cuaderno de trabajo (Units 7-12). Editorial UGR
 
-📚 Recursos sin cambios:
-------------------------------
-Martínez-Cabeza,   M.   A.   y   Espínola   Rosillo   M.   C.,   (2024)  English  for  Tourism  Studies  2nd  Ed..
-Cuaderno de trabajo (Units 13-18). Editorial UGR
+Manuales   del   curso:   Martínez-Cabeza,   M.   A.  y  Espínola  Rosillo,  M.  C.  (2024)  English  for  Tourism
+Studies
 
-Mascull,   B.   (2017).   Business   Vocabulary   in  Use.  Intermediate,  3rd.  ed.  (Units  21-26).  Cambridge
-University Press
+Pearson   Beaver,   A.   (2012).   A   dictionary   of  travel  and  tourism.  Oxford:  Oxford  University  Press
+Firth, M. (2020). Employability and skills handbook for tourism, hospitality and events. Routledge
+
+📚 Recursos sin cambios (5):
+------------------------------
+Lozano,   A.   Diccionario   inglés-español   en   línea   https://lexis.ugr.es/   Martínez-Cabeza,  M.  A.  y
+Espínola Rosillo M. C., (2024) English for Tourism Studies 2nd Ed
+
+Mascull,   B.  (2017).  Business  Vocabulary  in  Use.  Intermediate,  3rd.  ed.  (Units  9,  12,  21-26,  27-35).
+Cambridge University Press
 
 Robinson, P., Heitmann, S. & Dieke, P. U. C. (2010). Research themes for tourism. CABI
 
@@ -22,21 +28,18 @@ Strutt, P. (2013). English for International Tourism. Upper Intermediate. (Units
 
 Weissman, J. (2011). How to make your presentation right, tight, and of value. FT Press
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (5):
 ------------------------------
-Pearson   Beaver,   A.   (2012).   A   dictionary   of  travel  and  tourism.  Oxford:  Oxford  University  Press
-Firth,   M.   (2020).   Employability  and  skills  handbook  for  tourism,  hospitality  and  events  →  Beaver,
-A. (2012). A dictionary of travel and tourism. Oxford: Oxford University Press
+Beaver, A. (2012). A dictionary of travel and tourism. Oxford: Oxford University Press
 
-✅ Recursos añadidos:
-------------------------------
 Firth, M. (2020). Employability and skills handbook for tourism, hospitality and events. Routledge
 
 Jones, L. (2005). Welcome!. English for the travel and tourism industry. Cambridge University Press
 
-Lozano, A. Diccionario inglés-español en línea https://lexis.ugr.es/
+Martínez-Cabeza,   M.   A.   y   Espínola   Rosillo   M.   C.,   (2024)  English  for  Tourism  Studies  2nd  Ed..
+Cuaderno de trabajo (Units 13-18). Editorial UGR
 
 Martínez-Cabeza,   M.   A.   y   Espínola   Rosillo,  M.  C.  (2024)  English  for  Tourism  Studies.  Coursebook
 (Units 13-18). Editorial UGR
 
-📊 Porcentaje estimado de cambio: 77% [███████░░░]
+📊 Porcentaje estimado de cambio: 90% [█████████░]

@@ -2,32 +2,27 @@
 Grado: medicina (222)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Mendoza N. Manual de Ginecología 4ª edición. Editorial Técnica Avicam. Granada, 2024
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (3):
 ------------------------------
-No hay elementos.
+Esta bibliografía podrá complementarse o actualizarse en temas concretos que proponga el profesorado
+de   la   asignatura   Otra   bibliografía   recomendable:   Nuccio   Ordine.   La   utilidad   de   lo  inútil.
+Manifiesto. Editorial Acantilado 2013
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Mendoza   N.   Manual   de  Ginecología  4ª  edición.  Editorial  Técnica  Avicam.  Granada,  2024  →  Mendoza  N.
-Manual de Ginecología 4ª edición. Editorial Técnica Avicam. Granada, 2025
+Motos MA. Lecciones de Genética. Editorial Técnica Avicam. Granada, 2018
 
-Mozas J. Manual de Obstetricia. 3ª Ed. Editorial Técnica Avicam. Granada, 2024. el profesorado de la
-asignatura   Nuccio   Ordine.   La  utilidad  de  lo  inútil.  Manifiesto.  Editorial  Acantilado  2013  →  Mozas
-J. Manual de Obstetricia. 3ª Ed. Editorial Técnica Avicam. Granada, 2024
+Mozas J. Manual de Obstetricia. 3ª Ed. Editorial Técnica Avicam. Granada, 2024
 
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Esta bibliografía podrá complementarse o actualizarse en temas concretos que proponga el profesorado
 de la asignatura
 
-Motos MA. Lecciones de Genética. Editorial Técnica Avicam. Granada, 2018
-
-Nuccio Ordine. La utilidad de lo inútil. Manifiesto. Editorial Acantilado 2013
+Mendoza N. Manual de Ginecología 4ª edición. Editorial Técnica Avicam. Granada, 2025
 
 Otra bibliografía recomendable
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

@@ -2,11 +2,12 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Castillo,   J.   M.   (2005).  Televisión  y  lenguaje  Audiovisual.  IORTV,  2005  Cury,  I.  (2007).  Directing
+and producing for television. Focal Press
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (6):
 ------------------------------
 Barroso, J. (1996). Realización de los géneros televisivos. Sintesis
 
@@ -20,14 +21,10 @@ Singleton-Turner, R. (2011). Cue & Cut. Manchester University Press
 
 Zettl, H. (2000). Manual de Producción de Televisión. Thompson Paraninfo
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (2):
 ------------------------------
-Castillo,   J.   M.   (2005).  Televisión  y  lenguaje  Audiovisual.  IORTV,  2005  Cury,  I.  (2007).  Directing
-and   producing   for   television.   Focal   Press   →   Castillo,   J.   M.   (2005).   Televisión  y  lenguaje
-Audiovisual. IORTV, 2005
+Castillo, J. M. (2005). Televisión y lenguaje Audiovisual. IORTV, 2005
 
-✅ Recursos añadidos:
-------------------------------
 Cury, I. (2007). Directing and producing for television. Focal Press
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

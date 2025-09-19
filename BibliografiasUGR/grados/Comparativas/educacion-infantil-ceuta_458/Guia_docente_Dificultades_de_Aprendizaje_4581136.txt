@@ -2,33 +2,23 @@
 Grado: educacion-infantil-ceuta (458)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (20):
 ------------------------------
 Aguilera, A. (Coord.) (2003). Introducción a las Dificultades de Aprendizaje. McGraw-Hill
 
-Castejón,   J.   L.   y  Navas,  L.  (2011).  Dificultades  y  trastornos  del  aprendizaje  y  del  desarrollo  en
-infantil y primaria. Club Universitario
-
-Defior, S., Serrano, F., y Gutiérrez, N. (2015). Dificultades específicas de aprendizaje. Síntesis
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
-------------------------------
 Barca,   A.   (2002).   Dificultades   de   aprendizaje:   Contenidos   teóricos   y  actividades  prácticas‎.
 Edicions Universitat Barcelona
 
 Bravo, L. (2009). Psicología de las Dificultades del Aprendizaje Escolar. Editorial Universitaria
 
-Galve,    J.    L.    (2014).    Evaluación    psicopedagógica    de   las   dificultades   del   aprendizaje:
-consideraciones,   procedimientos,   instrumentos   de   evaluación   y  elaboración  de  informes.  Vol.  I.:
-Conceptualización, procedimientos e instrumentos de evaluación. Ciencias de la Educación
+Castejón,   J.   L.   y  Navas,  L.  (2011).  Dificultades  y  trastornos  del  aprendizaje  y  del  desarrollo  en
+infantil y primaria. Club Universitario
+
+Defior, S., Serrano, F., y Gutiérrez, N. (2015). Dificultades específicas de aprendizaje. Síntesis
 
 Galve,    J.    L.    (2014).    Evaluación    psicopedagógica    de   las   dificultades   del   aprendizaje:
 consideraciones,   procedimientos,   instrumentos   de   evaluación  y  elaboración  de  informes.  Vol.  II.:
@@ -72,4 +62,10 @@ de Barcelona
 Wong,   L.,   Graham,   M.,   Hoskyn   &   Berman,   J.  (2008).  The  ABCs  of  learning  disabilities.  Elsevier
 Academic Press
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+Galve,    J.    L.    (2014).    Evaluación    psicopedagógica    de   las   dificultades   del   aprendizaje:
+consideraciones,   procedimientos,   instrumentos   de   evaluación   y  elaboración  de  informes.  Vol.  I.:
+Conceptualización, procedimientos e instrumentos de evaluación. Ciencias de la Educación
+
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

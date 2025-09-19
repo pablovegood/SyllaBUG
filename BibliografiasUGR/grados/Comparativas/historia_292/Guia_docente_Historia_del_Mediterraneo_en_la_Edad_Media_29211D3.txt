@@ -2,7 +2,7 @@
 Grado: historia (292)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (22):
 ------------------------------
 BARLETT,   R.:  La  formación  de  Europa:  conquista,  civilización  y  cambio  cultural,  950-1350.  Valencia-
 Granada, 2003
@@ -27,6 +27,8 @@ KALISKY, R.: L'Islam origine et essor du Monde arabe. Verviers, 1980
 
 LEMERLE, P.: Histoire de Byzance. Paris. 1969 (6a edic.)
 
+LEVERING, D.: El crisol de Dios. El islam y el nacimiento de Europa (570-1215). Barcelona, 2009
+
 MAALOUF, A.: Las cruzadas vistas por los árabes. Madrid, 1989
 
 MANTRAN, R.: La expansión musulmana (s. VII al XI). Barcelona, 1973
@@ -34,6 +36,9 @@ MANTRAN, R.: La expansión musulmana (s. VII al XI). Barcelona, 1973
 MANZANO, E.: Historia de las sociedades musulmanas en la Edad Media, Madrid, 1992
 
 OSTROGORSKY, O.: Pour l'histoire de la féodalité byzantine. Bruse!as, 1954
+
+PATLAGEAN,   E.:   Structures   sociales,   famille,   chrétienté   a   Byzance   (IV-XI   siècles).   Londres
+(Variorum), 1981
 
 RUNCIMAN, S.: La civilización bizantina. Madrid, 1942
 
@@ -47,15 +52,21 @@ TALBOT RICE, D.: The Byzantines. Londres, 1962
 
 VERNET, J.: El Islam y Europa. Barcelona, 1982
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (54):
 ------------------------------
+AHRWEILER, H.: Études sur les structures administratives et sociales de Byzance . Londres, 1971
+
 BABINGER, F.: L'idéologie politique de l'Empire byzantin . París, 1975
 
 BRAVO, A.: Bizancio. Perfiles de un Imperio . Madrid, 1997
 
+BRAVO, A.: SIGNES, J. Y RUBIO, E.: El Imperio Bizantino. Historia y civilización . Madrid, 1997
+
 BROWN, P.: El primer milenio de la cristiandad . Barcelona, 1997
 
 CABRERA MUÑOZ, E.: Historia de Bizancio . Barcelona, 1998
+
+CABRERA, E.; SEGURA, C.: Historia de la Edad Media. II. Bizancio. EI Islam . Madrid, 1987
 
 CAHEM,   C.:   El   Islam   I.   Desde  los  orígenes  hasta  el  comienzo  del  Imperio  Otomano  .  Madrid,  1972.
 (Historia Universal Siglo XXI)
@@ -64,9 +75,13 @@ CAVALLO, O. y otros: El hombre bizantino . Madrid, 1994
 
 CLOT, A.: Mehmed II, el conquistador de Bizancio . Barcelona, 1993
 
+CRUZ HERNÁNDEZ, M.: Historia del pensamiento en el mundo islámico . 2 vols. Madrid, 1981
+
 DANIEL, N.: The arabs and Mediaeval Europe . Londres, 1975
 
 DUCELLIER, A.: Bizancio y el mundo ortodoxo . Madrid, 1992
+
+ECHEVARRÍA ARZUAGA, A. y RODRÍGUEZ, J.M.: Atlas histórico de la Edad Media. Madrid, 2003
 
 FACI LACASTA, J.: Introducción al mundo bizantino . Madrid, 1996
 
@@ -105,6 +120,11 @@ LEMERLE, P.: Le monde de Byzance. Histoire et institutions . Londres, 1978
 
 LEMERLE, P.: Le premier humanisme byzantin. Notes et remarques sur enseignement et culture a Byzance
 des origines au X siècle . Paris, 1971
+
+LEWIS, A. R.: Naval Power and Trade in the Mediterranean AD 500-1100 . Princeton, 1951
+
+Londres, 1971a 4 CHARANIS, P.: Social, Economic and Political Life in the Byzantine Empire. Londres,
+1973
 
 MACKAY, A./ DITCHBURN, D. (eds.), Atlas de Europa Medieval, Madrid, 1999
 
@@ -160,19 +180,12 @@ WATT, W. M.: The influence of Islam on Medieval Europe . Edimburgo, 1972
 WICKHAM,   C.:   Una   historia   nueva  de  la  Alta  Edad  Media.  Europa  y  el  mundo  mediterráneo,  400-800  .
 Barcelona, 2008
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Londres   (Variorum),   1981   →   OIKONOMIDES,   N.:  Documents  et  etudes  sur  les  institutions  de  Byzance
-(VII-XV s.) . Londres (Variorum), 1976
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (54):
 ------------------------------
 ABULAFIA, D. The Mediterranean in History . Phoenix Press, 2003
 
 ABULAFIA,   D.   The   Western   Mediterranean   Kingdoms:  The  Struggle  for  Dominion,  1200–1500  .  London:
 Longman, 1997
-
-AHRWEILER, H.: Études sur les structures administratives et sociales de Byzance . Londres, 1971
 
 ALBARRÁN, J, El Sueño de al-Quds: los musulmanes frente a la conquista cruzada de Jerusalén, Madrid:
 La Ergástula, 2017
@@ -290,8 +303,6 @@ Barcelona,   2008.   WICKHAM,   C.   The   Donkey  and  the  Boat:  Reinterpreti
 BONNER, M. Jihad in Islamic History. Doctrines and Practices, Princeton: Princeton University Press,
 2006
 
-BRAVO, A.: SIGNES, J. Y RUBIO, E.: El Imperio Bizantino. Historia y civilización . Madrid, 1997
-
 BRETT, M. The Fatimid Empire, Edimburgo, 2017
 
 BROWN, P. El mundo de la Antigüedad tardía, Taurus, 1991
@@ -304,17 +315,11 @@ Mediterranean World, 650–1650 . Berkeley: University of California Press, 2022
 BURMAN,   T.   E.;   CATLOS,   B.   A.;   MEYERSON,  M.  D.  (eds.).  The  Sea  in  the  Middle:  The  Mediterranean
 World, 650–1650 . Berkeley: University of California Press, 2022
 
-CABRERA, E.; SEGURA, C.: Historia de la Edad Media. II. Bizancio. EI Islam . Madrid, 1987
-
-CHARANIS, P.: Social, Economic and Political Life in the Byzantine Empire . Londres, 1973
-
 CHRISTIE,   N,   Muslims   and   crusaders.  Christianity’s  wars  in  the  Middle  East,  1095-1382,  Londres  y
 Nueva York: Routledge, 2014
 
 COBB,   P.   M.   (2014):   The   Race   for   Paradise:   a  Islamic  History  of  the  Crusades,  Oxford:  Oxford
 University Press, 2014
-
-CRUZ HERNÁNDEZ, M.: Historia del pensamiento en el mundo islámico . 2 vols. Madrid, 1981
 
 DAFTARY,   F.   Breve  historia  de  los  ismailíes.  Tradiciones  de  una  comunidad  musulmana,  Madrid:  Akal,
 2015
@@ -325,8 +330,6 @@ Cornell University Press, 2017
 DONNER, F. Muhammad and the Believers: At the Origins of Islam, Harvard: The Belknap Press, 2010
 
 DONNER, F. The Early Islamic Conquests, Princeton: Princeton University Press, 1981
-
-ECHEVARRÍA ARZUAGA, A. y RODRÍGUEZ, J.M.: Atlas histórico de la Edad Media. Madrid, 2003
 
 EDDÉ, A-M. Saladin, Cambridge y Londres: The Belknap Press of Harvard University Press, 2011
 
@@ -389,8 +392,6 @@ KENNEDY, H. Las grandes conquistas árabes, Barcelona: Crítica, 2007
 
 KENNEDY, H. The Prophet and the Age of the Caliphates . Longman, 1986
 
-LEWIS, A. R.: Naval Power and Trade in the Mediterranean AD 500-1100 . Princeton, 1951
-
 LOPEZ,   R.   S.,   y   RAYMOND,   I.   Medieval   Trade   in   the   Mediterranean  World  .  New  York:  Columbia
 University Press, 1955
 
@@ -418,4 +419,4 @@ TZVI, L. The Cairo Geniza and Medieval Jewish History . Cambridge: Cambridge Uni
 WICKHAM,   C.   The   Donkey  and  the  Boat:  Reinterpreting  the  Mediterranean  Economy,  950–1180  .  Oxford:
 Oxford University Press, 2023
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 70% [███████░░░]

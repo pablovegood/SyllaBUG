@@ -2,14 +2,23 @@
 Grado: marketing-investigacion-mercados (236)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+PLAN   GENERAL   DE   CONTABILIDAD.   Real   Decreto   1514/2007   de   16  de  noviembre  (BOE  nº  278  de  20  de
+noviembre   de  2007)  PLAN  GENERAL  DE  CONTABILIDAD  DE  PYMES.  Real  Decreto  1515/2007  de  16  de  noviembre
+(BOE   nº  279  de  21  de  noviembre  de  2007)  RUIZ  MARTÍNEZ,  R.  J.  y  GIL  CORRAL,  A.  M.  (2012).  Principios
+de Gestión Financiera (Diagnóstico, Inversión y Financiación). Madrid: Editorial Síntesis
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (7):
 ------------------------------
 ARCHEL   DOMENCH,   P.,   LIZARRAGA   DALLO,   F.   y   SÁNCHEZ   ALEGRÍA,   S.   (2008).   Estados   contables.
 Elaboración, análisis e interpretación. Madrid: Pirámide
+
+GONZALO   ANGULO,   J.A.   y   PÉREZ   GARCÍA,  J.  (2011).  Presentación  y  análisis  de  estados  financieros.
+Madrid: Instituto de Auditores-Censores Jurados de Cuentas
+
+GONZÁLEZ   PASCUAL,  J.  (2016):  Análisis  de  la  empresa  a  través  de  su  información  económico-financiera
+Fundamentos teóricos y aplicaciones. Ed. Pirámide, Madrid
 
 MUÑÓN MERCHANTE, A. (2009). Análisis de estados financieros. Teoría y práctica. Ediciones Académicas
 
@@ -21,30 +30,15 @@ Contabilidad 2007” (AUREN 2008)
 
 RODRIGUEZ ARIZA, LÁZARO (Coordinador) (2013). Análisis Contable. Granada. Edita Godel SL
 
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (3):
 ------------------------------
-GONZÁLEZ   PASCUAL,  J.  (2016):  Análisis  de  la  empresa  a  través  de  su  información  GONZALO  ANGULO,  J.A.
-y   PÉREZ   GARCÍA,   J.   (2011).   Presentación  y  análisis  de  estados  financieros.  Madrid:  Instituto  de
-Auditores-Censores    Jurados   de   Cuentas   →   GONZALO   ANGULO,   J.A.   y   PÉREZ   GARCÍA,   J.   (2011).
-Presentación   y   análisis  de  estados  financieros.  Madrid:  Instituto  de  Auditores-Censores  Jurados  de
-Cuentas
-
-PLAN   GENERAL   DE   CONTABILIDAD.   Real   Decreto   1514/2007   de   16  de  noviembre  (BOE  nº  278  de  20  de
-noviembre   de  2007)  PLAN  GENERAL  DE  CONTABILIDAD  DE  PYMES.  Real  Decreto  1515/2007  de  16  de  noviembre
-(BOE   nº  279  de  21  de  noviembre  de  2007)  RUIZ  MARTÍNEZ,  R.  J.  y  GIL  CORRAL,  A.  M.  (2012).  Principios
-de   Gestión   Financiera   (Diagnóstico,   Inversión  y  Financiación).  Madrid:  Editorial  Síntesis  →  RUIZ
-MARTÍNEZ, R. J. y GIL CORRAL, A. M. (2012). Principios de Gestión Financiera (Diagnóstico, Inversión
-y Financiación). Madrid: Editorial Síntesis
-
-✅ Recursos añadidos:
-------------------------------
-GONZÁLEZ   PASCUAL,  J.  (2016):  Análisis  de  la  empresa  a  través  de  su  información  económico-financiera
-Fundamentos teóricos y aplicaciones. Ed. Pirámide, Madrid
-
 PLAN   GENERAL   DE  CONTABILIDAD  DE  PYMES.  Real  Decreto  1515/2007  de  16  de  noviembre  (BOE  nº  279  de  21
 de noviembre de 2007)
 
 PLAN   GENERAL   DE   CONTABILIDAD.   Real   Decreto   1514/2007   de   16  de  noviembre  (BOE  nº  278  de  20  de
 noviembre de 2007)
 
-📊 Porcentaje estimado de cambio: 71% [███████░░░]
+RUIZ   MARTÍNEZ,   R.   J.   y   GIL  CORRAL,  A.  M.  (2012).  Principios  de  Gestión  Financiera  (Diagnóstico,
+Inversión y Financiación). Madrid: Editorial Síntesis
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

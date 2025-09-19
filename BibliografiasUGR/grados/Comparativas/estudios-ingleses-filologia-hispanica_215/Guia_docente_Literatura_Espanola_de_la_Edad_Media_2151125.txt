@@ -2,11 +2,12 @@
 Grado: estudios-ingleses-filologia-hispanica (215)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981 Gómez Redondo, F., Historia de
+la prosa medieval, 4 vols., Madrid, Cátedra, 2002
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (32):
 ------------------------------
 Antonio   Bosch,   Barcelona,  1980.  López  Estrada,  F.,  Introducción  a  la  literatura  medieval  española,
 Gredos, Madrid, 1974
@@ -82,16 +83,12 @@ ________,   Texto   y   contextos.   Estudios  sobre  la  poesía  española  de
 
 _________, El Cantar de Mío Cid y la épica medieval española, Barcelona, Simio, 1987
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981 Gómez Redondo, F., Historia de
-la   prosa   medieval,   4   vols.,   Madrid,   Cátedra,   2002   →   Gómez  Redondo,  F.,  Historia  de  la  prosa
-medieval, 4 vols., Madrid, Cátedra, 2002
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (3):
 ------------------------------
 Curtius, E. R., Literatura europea y Edad media latina, 2 vols., FCE, Madrid, 1976
 
 Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981
 
-📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]
+Gómez Redondo, F., Historia de la prosa medieval, 4 vols., Madrid, Cátedra, 2002
+
+📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]

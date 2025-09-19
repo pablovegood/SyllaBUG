@@ -2,29 +2,37 @@
 Grado: derecho (242)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (12):
 ------------------------------
-Aspectos   jurídico-dogmáticos   y   jurisprudenciales   en  torno  a  la  responsabilidad  civil  ex  delicto.
-Rodríguez Almirón, F. Dykinson, 2022
-
-Conocer   los   supuestos   que   generan  una  responsabilidad  ex  delicto,  así  como  las  normas  aplicables
 AUTOR/ES TÍTULO DATOS DE LA EDICIÓN REGLERO CAMPOS Lecciones de responsabilidad civil Aranzadi DÍEZ-
 PICAZO   Derecho   de   Daños   Civitas   DIÉZ-PICAZO   y  GIMÉNEZ  ARANA  DE  LA  FUENTE  El  desbordamiento  del
 Derecho de Daños Civitas ROCA TRIAS Derecho de Daños Tirant lo Blanch
 
+Aspectos   jurídico-dogmáticos   y   jurisprudenciales   en  torno  a  la  responsabilidad  civil  ex  delicto.
+Rodríguez Almirón, F. Dykinson, 2022
+
 Curso de Derecho civil II Ed. Edisofer, Madrid BERCOVITZ Comentarios al Código Civil, art. 1902 y ss
 Aranzadi
 
+DIÉZ-PICAZO y GULLÓN Sistema de Derecho civil (vol. II)
+
 Derecho de Daños. Textos y materiales. Roca Trias, E / Navarro Michel, M. Tirant, 2020
+
+Ed. Tecnos LASARTE ÁLVAREZ, C
+
+Martínez de Aguirre Curso de Derecho civil II Colex
 
 Morillas Cueva, Lorenzo, Sistema de Derecho Penal. Parte General, Dykinson, Madrid, 2021
 
-OSSORIO   SERRANO   Lecciones   de  Derecho  de  daños  La  ley  “Lecciones  de  Derecho  Penal.  Parte  General”.
-Moreno-Torres Herrera (Dir.). Tirant lo Blanch. 6ª edición. Valencia, 2022
+OSSORIO   SERRANO   Lecciones   de  Derecho  de  daños  La  ley  BIBLIOGRAFÍA  RECOMENDADA  PARA  LA  PARTE  PENAL
+“Lecciones   de   Derecho   Penal.   Parte   General”.  Moreno-Torres  Herrera  (Dir.).  Tirant  lo  Blanch.  6ª
+edición. Valencia, 2022
+
+Principios de Derecho civil II Ed. Marcial Pons ALABALADEJO GARCÍA, M
 
 Rodríguez Almirón, F. " Debate actual en torno a la participación a título lucrativo y el decomiso a
 terceros ". En Cuadernos de Política Criminal, Dykinson, 2022
@@ -32,11 +40,7 @@ terceros ". En Cuadernos de Política Criminal, Dykinson, 2022
 Rodríguez   Almirón,   F.   "La   determinación  y  cuantificación  del  daño  moral  dentro  del  procedimiento
 penal". En Estudios en homenaje al Prof. Dr. D. Jesús Martínez Ruiz. Dykinson, 2022
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (16):
 ------------------------------
 ALABALADEJO GARCÍA, M
 
@@ -46,10 +50,6 @@ Comentarios al Código Civil, art. 1902 y ss
 
 DATOS DE LA EDICIÓN
 
-DIÉZ-PICAZO y GIMÉNEZ ARANA DE LA FUENTE
-
-DIÉZ-PICAZO y GULLÓN
-
 Derecho de Daños
 
 DÍEZ- PICAZO
@@ -57,8 +57,6 @@ DÍEZ- PICAZO
 Ed. Edisofer, Madrid
 
 Ed. Marcial Pons
-
-Ed. Tecnos
 
 El desbordamiento del Derecho de Daños
 
@@ -68,17 +66,13 @@ Lecciones de Derecho de daños
 
 Lecciones de responsabilidad civil
 
-Martínez de Aguirre
-
-OSSORIO SERRANO
-
-Principios de Derecho civil II
-
 REGLERO CAMPOS
 
 Sistema de Derecho civil (vol. II)
 
+Tirant lo Blanch
+
 “Lecciones   de   Derecho   Penal.   Parte   General”.  Moreno-Torres  Herrera  (Dir.).  Tirant  lo  Blanch.  6ª
 edición. Valencia, 2022
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

@@ -2,11 +2,13 @@
 Grado: economia (239)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+RAMOS_GOROSTIZA,   J.L.   (2000),   Economía,  marco  institucional  y  medio  ambiente  :  La  economía  de  los
+recursos   naturales  desde  la  perspectiva  institucional,  Editorial  Complutense,  Madrid  TIETENBERG,  T.
+(2006). Environmental and Natural Resource Economics. Seventh Edition. Pearson
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (14):
 ------------------------------
 AGUILERA   KLINK,   F.   (ed)   (1995),   Economía   de   los  recursos  naturales:  un  enfoque  institucional,
 Fundación Argentaria, Madrid
@@ -41,20 +43,16 @@ Thomson, Madrid
 RIERA,   P.;   GARCIA,  D.;  KRISTRÖM,  B.,  &  BRÄNNLUND,  R.  (2016).  Manual  de  economía  ambiental  y  de  los
 recursos naturales. 3ª Ed. Paraninfo Educación
 
-ÁLVAREZ CANTALAPIEDRA, S. Y CARPINTERO, O. (eds.) (2009). Economía ecológica: reflexiones y
-
-🔁 Misma obra con edición/año distinto:
-------------------------------
-RAMOS_GOROSTIZA,   J.L.   (2000),   Economía,  marco  institucional  y  medio  ambiente  :  La  economía  de  los
-recursos   naturales  desde  la  perspectiva  institucional,  Editorial  Complutense,  Madrid  TIETENBERG,  T.
-(2006).   Environmental   and   Natural  Resource  Economics.  Seventh  Edition.  Pearson  →  RAMOS_GOROSTIZA,
-J.L.   (2000),  Economía,  marco  institucional  y  medio  ambiente  :  La  economía  de  los  recursos  naturales
-desde la perspectiva institucional, Editorial Complutense, Madrid
-
-✅ Recursos añadidos:
-------------------------------
-TIETENBERG, T. (2006). Environmental and Natural Resource Economics. Seventh Edition. Pearson
-
+ÁLVAREZ   CANTALAPIEDRA,   S.   Y   CARPINTERO,   O.   (eds.)   (2009).   Economía   ecológica:  reflexiones  y
 perspectivas. Círculo de Bellas Artes, Madrid
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+✅ Recursos añadidos (3):
+------------------------------
+RAMOS_GOROSTIZA,   J.L.   (2000),   Economía,  marco  institucional  y  medio  ambiente  :  La  economía  de  los
+recursos naturales desde la perspectiva institucional, Editorial Complutense, Madrid
+
+TIETENBERG, T. (2006). Environmental and Natural Resource Economics. Seventh Edition. Pearson
+
+ÁLVAREZ CANTALAPIEDRA, S. Y CARPINTERO, O. (eds.) (2009). Economía ecológica: reflexiones y
+
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

@@ -2,11 +2,14 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Rodrigo   Alsina,   Miquel,   Teorías   de   la  comunicación.  Ámbitos,  métodos  y  perspectivas,  Barcelona:
+Universitat   Autònoma   de   Barcelona,   2001   Checa   Godoy,  Antonio.Historia  de  la  Radio  en  Andalucía
+(1917-1978).   Málaga.   Fundación   Unicaja.2000   Imbert   Gerard.  El  zoo  visual.  Gedisa  2003  Ballesta,
+Javier. Medios de Comunicación y Nuevas Tecnologías. Murcia: Diego Marín, 1997
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (15):
 ------------------------------
 Biagi,   Shirley.   Impacto   de   los   Medios:   Una   Introducción  a  los  Medios  Masivos  de  Comunicación.
 México: International Thompson Editores, 1999
@@ -21,7 +24,8 @@ Plaza & Janés - Areté, 2001
 
 Cueto, Juan (1996). Pasión Catódica. Madrid. El País-Aguilar
 
-Díaz, Lorenzo (1993). La Radio en España (1923-1993) Madrid
+Díaz,   Lorenzo   (1993).   La   Radio   en   España   (1923-1993)   Madrid   Fernández   Collado,   Carlos.  La
+Comunicación Humana en el Mundo Contemporáneo. 2da
 
 Fernández   Collado,   Carlos.   La  Comunicación  Humana  en  el  Mundo  Contemporáneo.  2da.  Edición.  McGraw
 Hill Interamericana, 2000
@@ -34,6 +38,9 @@ Editorial Gustavo Gili, 2001
 Kagelmann   H,   Jurgen.   Psicología   de   los   Medios   de   Comunicación:   manual  de  Conceptos  Básicos.
 Barcelona: Herder, 1986
 
+Manovich,   Lev.  El  lenguaje  de  los  nuevos  medios  de  comunicación.  Barcelona:  Editorial  Paidós,  2005.
+McLuhan, Marshall. Comprender los Medios de Comunicación. Barcelona: Paidós, 1990
+
 Masegosa   Requena   José   L.   (2007).   Voces   para  la  Historia.  (Rev.  Andalucía  en  la  Historia.  Nª17.
 Centro de Estudios Andaluces
 
@@ -43,26 +50,15 @@ Torres Flores, Antonio (2004) Soñar la Radio. Centro Andaluz del Libro
 
 Torres Flores, Antonio (2011) Mujeres de palabra. Instituto de Estudios Almerienses. Almería
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-Rodrigo   Alsina,   Miquel,   Teorías   de   la  comunicación.  Ámbitos,  métodos  y  perspectivas,  Barcelona:
-Universitat   Autònoma   de   Barcelona,   2001   Checa   Godoy,  Antonio.Historia  de  la  Radio  en  Andalucía
-(1917-1978).   Málaga.   Fundación   Unicaja.2000   Imbert   Gerard.  El  zoo  visual.  Gedisa  2003  Ballesta,
-Javier.   Medios   de  Comunicación  y  Nuevas  Tecnologías.  Murcia:  Diego  Marín,  1997  →  Imbert  Gerard.  El
-zoo visual. Gedisa 2003
-
-Manovich,   Lev.  El  lenguaje  de  los  nuevos  medios  de  comunicación.  Barcelona:  Editorial  Paidós,  2005.
-McLuhan,   Marshall.   Comprender   los   Medios  de  Comunicación.  Barcelona  →  Manovich,  Lev.  El  lenguaje
-de   los   nuevos   medios   de   comunicación.   Barcelona:   Editorial   Paidós,   2005.  McLuhan,  Marshall.
-Comprender los Medios de Comunicación. Barcelona: Paidós, 1990
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (4):
 ------------------------------
 Ballesta, Javier. Medios de Comunicación y Nuevas Tecnologías. Murcia: Diego Marín, 1997
 
 Checa Godoy, Antonio.Historia de la Radio en Andalucía (1917-1978). Málaga. Fundación Unicaja.2000
 
+Imbert Gerard. El zoo visual. Gedisa 2003
+
 Rodrigo   Alsina,   Miquel,   Teorías   de   la  comunicación.  Ámbitos,  métodos  y  perspectivas,  Barcelona:
 Universitat Autònoma de Barcelona, 2001
 
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]

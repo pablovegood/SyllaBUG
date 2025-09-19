@@ -2,11 +2,11 @@
 Grado: comunicacion-audiovisual (227)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios:
+📚 Recursos sin cambios (19):
 ------------------------------
 Arnheim, Rudolf. (1998). El cine como arte. Barcelona: Editorial Paidós
 
@@ -46,18 +46,14 @@ Barcelona: Editorial Paidós
 Romaguera, Joaquim & Alsina, Homero (Eds.). (1998) Textos y manifiestos del cine. Editorial Cátedra:
 Madrid
 
+Virilio, Paul. (1991). Estética de la desaparición. Barcelona: Editorial Anagrama
+
 Zizek,   Slavoj.  (2006).  Lacrimae  rerum.  Ensayos  sobre  cine  moderno  y  ciberespacio.  Madrid:  Editorial
 Debate
 
-🔁 Misma obra con edición/año distinto:
-------------------------------
-No hubo cambios de edición/año.
-
-✅ Recursos añadidos:
+✅ Recursos añadidos (1):
 ------------------------------
 Peralta   García,   Lidia   (2022).  Narrativas  cinematográficas  ante  la  Transición  Ecosocial.  Del  cine-
 diagnóstico al cine-antídoto
 
-Virilio, Paul. (1991). Estética de la desaparición. Barcelona: Editorial Anagrama
-
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

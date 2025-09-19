@@ -2,11 +2,67 @@
 Grado: sociologia (214)
 ==================================================
 
-❌ Recursos eliminados:
+❌ Recursos eliminados (13):
 ------------------------------
-No hay elementos.
+(CPS/2   REL   rel)   EUROSTAT   (2008)   http://epp.eurostat.ec.europa.eu/   ENTRENA   DURÁN,   F.   (2006),
+Diversificación   de   las   desigualdades   y  estabilización  social  GARDE,J.A.  (ed.),  (1999),  Políticas
+sociales   y   Estado   de  Bienestar  en  España.  Fundación  Hogar  del  Empleado  y  Trotta,  Madrid.  (ETS/304
+POL.pol.)
 
-📚 Recursos sin cambios:
+(CPS/316.4   IGL   fam)   INE,  (2008)  http://www.ine.es/  JUAREZ,  M.  (Dir.)  (1994)  V  Informe  Sociológico
+sobre   la  situación  social  en  España,  2  vols.,  Fundación  FOESSA,  Madrid.  (CPS/308  FUN  inf)  LANGLOIS,
+S.   y  DEL  CAMPO,  S.  (1995)  ¿Convergencia  o  Divergencia?  Comparación  de  tendencias  sociales  recientes
+en las sociedades industrializadas, Fundación BBV, Madrid
+
+(CPS/338   ZAL   esp)   ANDRES   ORIZO,   F.   (1991)  Los  nuevos  valores  de  los  españoles,  Fundación  Santa
+María,   Madrid   1991.   (CPS/17  AND  nue)  ANDRES  ORIZO,  F.  (2000)  España  2000,  entre  el  localismo  y  la
+pluralidad. SM. Madrid
+
+CPS/316.4   ESP   esp   ESPECÍFICA   (teoría):   Beltrán,   M.   (2003).  La  realidad  social.  Madrid:  Tecnos
+Beltrán,   M.   (2004).   La  estructura  social.  Barcelona:  Ariel  Beltran,  M.  (2012).  Conocimiento  de  la
+realidad y transformación social. Rev
+
+CPS/316.4 TEZ cam Torres Albero, C. (ed.)(2015). España 2015. Situación social. Madrid: CIS
+
+DIAZ   NOSTY,B.  (2002),  Informe  anual  de  la  comunicación  2000-2002.  Estado  y  tendencias  de  los  medios
+en España, Zeta, Barcelona. (CPS/316.77 DIA inf) DIAZ SALAZAR, R. y GINER, S. (Eds.) (1993) Religión
+y sociedad en España, CIS, Madrid
+
+GINER,   S.   (Dir.)   (1990)   España.   I:  Sociedad  y  política,  Espasa-Calpe,  Madrid.  (CPS/308  SOC  soc)
+IGLESIAS DE USSEL, J. (1998) Familia y cambio político en España, Tecnos, Madrid
+
+Giner,   S,   Lamo   de   Espinosa,   E   y   Torres,   C.   (eds)   (1998),  Estructura  Social,  Diccionario  de
+Sociología.   Madrid:   Alianza   Editorial   González,   J.   J.   (1992).  La  construcción  empírica  de  las
+clases. Revista Política y Sociedad, 11, pp. 92-122
+
+MIGUEL,   J.   de   (1998)   Estructura   y  cambio  social  en  España,  Alianza,  Madrid.  (CPS/316.4  MIG  est)
+MIGUEL, A., (1993) La sociedad española 1992-93, Complutense. Alianza. (CPS/308 SOC soc) MIGUEL, A.,
+(1997)   La   sociedad   española   1996-97,   Complutense.   (ETS/308   SOC  soc)  MINISTERIO  DE  EDUCACIÓN  Y
+CIENCIA   (2007)   Pisa  2006.  Programa  para  la  Evaluación  Internacional  de  Alumnos  de  la  OCDE.  Informe
+Español, Ministerio de Ecuación y Ciencia, Madrid
+
+Madrid:   CIS.   CPS/316.34   SAL   per  Santiago,  J.  (2015).  La  estructura  social  a  la  luz  de  las  nuevas
+sociologías   del  individuo.  Reis  149,  pp.  131-150  ALONSO  ZALDIVAR,  C.,  y  CASTELLS,  M.  (1992)  España,
+fin de siglo, Alianza, Madrid
+
+OBLIGATORIA:   Del   Campo,   S.   y  Tezanos,  J.  F.  (eds.)(2008).  España  siglo  XXI.  La  sociedad.  Madrid:
+Biblioteca   Nueva.   CPS/308  CAM  esp  González  Rodríguez,  J.  J.  (2020).  Cambio  social  en  la  España  del
+siglo   XXI.  Madrid:  Alianza  Editorial.  CPS/316.4  GON  cam  González,  J.  J.  y  Requena,  M.  (eds.)(2014).
+Tres   décadas   de   cambio   social   en   España.   Madrid:   Alianza.   CPS/316.4  GON  tre  Lucas  Marín,  A.
+(ed.)(2010).   La   realidad   social:  transformaciones  recientes  en  España.  Pamplona:  EUNSA.  CPS/316.4
+LUC   rea  Salido,  O.  y  Massó,  M.  (eds.)(2021).  Sociología  en  tiempos  de  pandemia.  Impactos  y  desafíos
+sociales   de   la   crisis   del   Covid-19.   Madrid:   FES-Marcial  Pons.  CPS/316.7  SAL  soc  Tezanos,  J.F.
+(ed.)(2022). Cambios sociales en tiempos de pandemia. Madrid: CIS
+
+Papers   97/2,   pp.  291-310  Bretones,  M.  T,  (2001)  Sociedades  avanzadas.  Manual  de  estructura  social,
+Barcelona Giner, S. (1983). Sociología. Barcelona: Ediciones de Bolsillo
+
+VIDAL-BENEYTO,   J.   (Ed.)   (1991)   España  a  debate,  I  :La  política;  II:  La  sociedad,  Tecnos,  Madrid.
+(CPS/32   ESP   esp)  VILLAVERDE  CASTRO,  J.(1992)  Los  desequilibrios  regionales  en  España,  Instituto  de
+Estudios   Económicos,   Madrid.   (IN  DE  REG/  OT-2)  VV.AA.  (1997)  Indicadores  Sociales  de  España  1997.
+INE. Madrid. (CPS/311 IND ind)
+
+📚 Recursos sin cambios (15):
 ------------------------------
 AA.VV., (2007), Informe España 2007, Fundación Encuentro, Madrid
 
@@ -27,9 +83,6 @@ Madrid
 
 CIRES (1997) La realidad social en España (1995-1996), Fundación BBV y Caja Madrid, Bilbao
 
-Del   Campo,   S.   y   Tezanos,   J.   F.  (eds.)(2008).  España  siglo  XXI.  La  sociedad.  Madrid:  Biblioteca
-Nueva. CPS/308 CAM esp
-
 González,   J.   J.   y   Salido,  O.  (2007).  Desigualdad,  estratificación  y  clases  sociales.  En  M.  Pérez
 Yruela (Comp.) La sociología en España, pp. 167-188. Madrid: CIS
 
@@ -47,83 +100,10 @@ Requena, M., Salazar, L. y Radl, J. (2013). Estratificación social. Madrid: UNE
 Salido,   O.   y   Facheli,   S.   (eds.)(2020).  Perspectivas  y  fronteras  en  el  estudio  de  la  desigualdad
 social: movilidad social y clases sociales en tiempos de cambio. Madrid: CIS. CPS/316.34 SAL per
 
-Torres Albero, C. (ed.)(2015). España 2015. Situación social. Madrid: CIS. CPS/316.4 ESP esp
-
-🔁 Misma obra con edición/año distinto:
+✅ Recursos añadidos (38):
 ------------------------------
-DIAZ   NOSTY,B.  (2002),  Informe  anual  de  la  comunicación  2000-2002.  Estado  y  tendencias  de  los  medios
-en España, Zeta, Barcelona. (CPS/316.77 DIA inf) DIAZ SALAZAR, R. y GINER, S. (Eds.) (1993) Religión
-y   sociedad  en  España,  CIS,  Madrid.  (CPS/2  REL  rel)  ENTRENA  DURÁN,  F.  (2006),  Diversificación  de  las
-desigualdades   y   estabilización   social   en   Andalucía,   Editorial   Universidad  de  Granada.  Granada
-GARDE,J.A.   (ed.),   (1999),   Políticas  sociales  y  Estado  de  Bienestar  en  España.  Fundación  Hogar  del
-Empleado   y   Trotta,   Madrid.   (ETS/304   POL.pol.)   GINER,   S.   (Dir.)   (1990)  España.  I:  Sociedad  y
-política,   Espasa-Calpe,   Madrid.   (CPS/308   SOC   soc)  IGLESIAS  DE  USSEL,  J.  (1998)  Familia  y  cambio
-político   en   España,   Tecnos,   Madrid.   (CPS/316.4   IGL   fam)   JUAREZ,   M.   (Dir.)  (1994)  V  Informe
-Sociológico   sobre   la   situación   social  en  España,  2  vols.,  Fundación  FOESSA,  Madrid.  (CPS/308  FUN
-inf)   LANGLOIS,   S.   y   DEL   CAMPO,  S.  (1995)  ¿Convergencia  o  Divergencia?  Comparación  de  tendencias
-sociales   recientes   en   las   sociedades  industrializadas,  Fundación  BBV,  Madrid  →  GARDE,J.A.  (ed.),
-(1999),   Políticas   sociales  y  Estado  de  Bienestar  en  España.  Fundación  Hogar  del  Empleado  y  Trotta,
-Madrid. (ETS/304 POL.pol.)
+ALONSO ZALDIVAR, C., y CASTELLS, M. (1992) España, fin de siglo, Alianza, Madrid. (CPS/338 ZAL esp)
 
-Beltrán,   M.   (2003).   La   realidad  social.  Madrid:  Tecnos  Beltrán,  M.  (2004).  La  estructura  social.
-Barcelona:   Ariel   Beltran,   M.   (2012).   Conocimiento  de  la  realidad  y  transformación  social.  Rev  →
-Beltrán, M. (2004). La estructura social. Barcelona: Ariel
-
-Giner,   S,   Lamo   de   Espinosa,   E   y   Torres,   C.   (eds)   (1998),  Estructura  Social,  Diccionario  de
-Sociología.   Madrid:   Alianza   Editorial   González,   J.   J.   (1992).  La  construcción  empírica  de  las
-clases.   Revista   Política   y   Sociedad,  11,  pp.  92-122  →  Giner,  S,  Lamo  de  Espinosa,  E  y  Torres,  C.
-(eds) (1998), Estructura Social, Diccionario de Sociología. Madrid: Alianza Editorial
-
-Papers   97/2,   pp.  291-310  Bretones,  M.  T,  (2001)  Sociedades  avanzadas.  Manual  de  estructura  social,
-Barcelona   Giner,   S.   (1983).   Sociología.   Barcelona:  Ediciones  de  Bolsillo  →  ESPECÍFICA  (teoría):
-Beltrán,   M.   (2003).   La   realidad  social.  Madrid:  Tecnos  Beltrán,  M.  (2004).  La  estructura  social.
-Barcelona:   Ariel   Beltran,   M.   (2012).   Conocimiento   de  la  realidad  y  transformación  social.  Rev.
-Papers   97/2,   pp.  291-310  Bretones,  M.  T,  (2001)  Sociedades  avanzadas.  Manual  de  estructura  social,
-Barcelona   Giner,   S.   (1983).   Sociología.   Barcelona:   Ediciones   de   Bolsillo.   Giner,  S,  Lamo  de
-Espinosa, E y Torres, C. (eds) (1998), Estructura Social, Diccionario de Sociología. Madrid: Alianza
-Editorial   González,   J.   J.   (1992).   La   construcción   empírica   de  las  clases.  Revista  Política  y
-Sociedad, 11, pp. 92-122. González, J. J. y Salido, O. (2007). Desigualdad, estratificación y clases
-sociales.   En   M.   Pérez   Yruela   (Comp.)  La  sociología  en  España,  pp.  167-188.  Madrid:  CIS.  Marqués
-Perales,   I.  (2015).  La  movilidad  social  en  España.  Madrid:  Catarata.  Martínez  García,  J.  S.  (2013).
-Estructura   social   y   desigualdad   en  España.  Madrid:  Catarata.  Requena,  M.,  Salazar,  L.  y  Radl,  J.
-(2013).   Estratificación   social.   Madrid:   UNED-McGrawHill.   Salido,  O.  y  Facheli,  S.  (eds.)(2020).
-Perspectivas   y  fronteras  en  el  estudio  de  la  desigualdad  social:  movilidad  social  y  clases  sociales
-en tiempos de cambio. Madrid: CIS. CPS/316.34 SAL per Santiago, J. (2015). La estructura social a la
-luz de las nuevas sociologías del individuo. Reis 149, pp. 131-150
-
-MIGUEL,   J.   de   (1998)   Estructura   y  cambio  social  en  España,  Alianza,  Madrid.  (CPS/316.4  MIG  est)
-MIGUEL,   A.,   (1993)   La   sociedad   española  1992-93,  Complutense.  Alianza.  (CPS/308  SOC  MIGUEL,  A.,
-(1997)   La   sociedad   española   1996-97,   Complutense.   (ETS/308   SOC   soc)   →  MIGUEL,  A.,  (1993)  La
-sociedad española 1992-93, Complutense. Alianza. (CPS/308 SOC soc)
-
-Alianza   Editorial.   CPS/316.4   GON   cam  González,  J.  J.  y  Requena,  M.  (eds.)(2014).  Tres  décadas  de
-cambio social en España. Madrid: Alianza. CPS/316.4 GON tre Lucas Marín, A. (ed.)(2010). La realidad
-social: transformaciones recientes en España. Pamplona: EUNSA. CPS/316.4 LUC rea Salido, O. y Massó,
-M.   (eds.)(2021).   Sociología   en  tiempos  de  pandemia.  Impactos  y  desafíos  sociales  de  la  crisis  del
-Covid-19. Madrid: FES-Marcial Pons. CPS/316.7 SAL soc Tezanos, J.F. (ed.)(2022). Cambios sociales en
-tiempos   de   pandemia.   Madrid:   CIS   →   Tezanos,   J.F.   (ed.)(2022).  Cambios  sociales  en  tiempos  de
-pandemia. Madrid: CIS. CPS/316.4 TEZ cam
-
-Madrid:   CIS.   CPS/316.34   SAL   per  Santiago,  J.  (2015).  La  estructura  social  a  la  luz  de  las  nuevas
-sociologías   del  individuo.  Reis  149,  pp.  131-150  ALONSO  ZALDIVAR,  C.,  y  CASTELLS,  M.  (1992)  España,
-fin   de   siglo,  Alianza,  Madrid.  (CPS/338  ZAL  esp)  ANDRES  ORIZO,  F.  (1991)  Los  nuevos  valores  de  los
-españoles, Fundación Santa María, Madrid 1991. (CPS/17 AND nue) ANDRES ORIZO, F. (2000) España 2000,
-entre   el   localismo   y   la   pluralidad.   SM.   Madrid   →   ALONSO  ZALDIVAR,  C.,  y  CASTELLS,  M.  (1992)
-España, fin de siglo, Alianza, Madrid. (CPS/338 ZAL esp)
-
-Biblioteca   Nueva.   CPS/308  CAM  esp  González  Rodríguez,  J.  J.  (2020).  Cambio  social  en  la  España  del
-siglo   XXI.   Madrid  →  OBLIGATORIA:  Del  Campo,  S.  y  Tezanos,  J.  F.  (eds.)(2008).  España  siglo  XXI.  La
-sociedad.   Madrid:  Biblioteca  Nueva.  CPS/308  CAM  esp  González  Rodríguez,  J.  J.  (2020).  Cambio  social
-en   la  España  del  siglo  XXI.  Madrid:  Alianza  Editorial.  CPS/316.4  GON  cam  González,  J.  J.  y  Requena,
-M.   (eds.)(2014).   Tres  décadas  de  cambio  social  en  España.  Madrid:  Alianza.  CPS/316.4  GON  tre  Lucas
-Marín,   A.   (ed.)(2010).   La  realidad  social:  transformaciones  recientes  en  España.  Pamplona:  EUNSA.
-CPS/316.4 LUC rea Salido, O. y Massó, M. (eds.)(2021). Sociología en tiempos de pandemia. Impactos y
-desafíos   sociales   de   la  crisis  del  Covid-19.  Madrid:  FES-Marcial  Pons.  CPS/316.7  SAL  soc  Tezanos,
-J.F.   (ed.)(2022).   Cambios   sociales   en  tiempos  de  pandemia.  Madrid:  CIS.  CPS/316.4  TEZ  cam  Torres
-Albero, C. (ed.)(2015). España 2015. Situación social. Madrid: CIS. CPS/316.4 ESP esp
-
-✅ Recursos añadidos:
-------------------------------
 ANDRES   ORIZO,   F.   (1991)   Los  nuevos  valores  de  los  españoles,  Fundación  Santa  María,  Madrid  1991.
 (CPS/17 AND nue)
 
@@ -134,6 +114,8 @@ Beltran,   M.   (2012).   Conocimiento   de   la   realidad  y  transformación 
 
 Beltrán, M. (2003). La realidad social. Madrid: Tecnos
 
+Beltrán, M. (2004). La estructura social. Barcelona: Ariel
+
 Bretones, M. T, (2001) Sociedades avanzadas. Manual de estructura social, Barcelona
 
 DIAZ   NOSTY,B.  (2002),  Informe  anual  de  la  comunicación  2000-2002.  Estado  y  tendencias  de  los  medios
@@ -142,12 +124,36 @@ en España, Zeta, Barcelona. (CPS/316.77 DIA inf)
 DIAZ   SALAZAR,   R.   y  GINER,  S.  (Eds.)  (1993)  Religión  y  sociedad  en  España,  CIS,  Madrid.  (CPS/2  REL
 rel)
 
+Del   Campo,   S.   y   Tezanos,   J.   F.  (eds.)(2008).  España  siglo  XXI.  La  sociedad.  Madrid:  Biblioteca
+Nueva. CPS/308 CAM esp
+
 ENTRENA DURÁN, F. (2006), Diversificación de las desigualdades y estabilización social en Andalucía,
 Editorial Universidad de Granada. Granada
 
+ESPECÍFICA   (teoría):   Beltrán,  M.  (2003).  La  realidad  social.  Madrid:  Tecnos  Beltrán,  M.  (2004).  La
+estructura social. Barcelona: Ariel Beltran, M. (2012). Conocimiento de la realidad y transformación
+social.   Rev.   Papers   97/2,   pp.   291-310   Bretones,   M.   T,  (2001)  Sociedades  avanzadas.  Manual  de
+estructura   social,  Barcelona  Giner,  S.  (1983).  Sociología.  Barcelona:  Ediciones  de  Bolsillo.  Giner,
+S,   Lamo   de   Espinosa,   E   y  Torres,  C.  (eds)  (1998),  Estructura  Social,  Diccionario  de  Sociología.
+Madrid:   Alianza   Editorial   González,  J.  J.  (1992).  La  construcción  empírica  de  las  clases.  Revista
+Política    y   Sociedad,   11,   pp.   92-122.   González,   J.   J.   y   Salido,   O.   (2007).   Desigualdad,
+estratificación   y  clases  sociales.  En  M.  Pérez  Yruela  (Comp.)  La  sociología  en  España,  pp.  167-188.
+Madrid:   CIS.   Marqués  Perales,  I.  (2015).  La  movilidad  social  en  España.  Madrid:  Catarata.  Martínez
+García,   J.   S.   (2013).   Estructura   social  y  desigualdad  en  España.  Madrid:  Catarata.  Requena,  M.,
+Salazar,   L.   y   Radl,   J.   (2013).   Estratificación   social.   Madrid:  UNED-McGrawHill.  Salido,  O.  y
+Facheli, S. (eds.)(2020). Perspectivas y fronteras en el estudio de la desigualdad social: movilidad
+social   y  clases  sociales  en  tiempos  de  cambio.  Madrid:  CIS.  CPS/316.34  SAL  per  Santiago,  J.  (2015).
+La estructura social a la luz de las nuevas sociologías del individuo. Reis 149, pp. 131-150
+
 EUROSTAT (2008) http://epp.eurostat.ec.europa.eu/
 
+GARDE,J.A.   (ed.),   (1999),   Políticas  sociales  y  Estado  de  Bienestar  en  España.  Fundación  Hogar  del
+Empleado y Trotta, Madrid. (ETS/304 POL.pol.)
+
 GINER, S. (Dir.) (1990) España. I: Sociedad y política, Espasa-Calpe, Madrid. (CPS/308 SOC soc)
+
+Giner,   S,   Lamo   de   Espinosa,   E   y   Torres,   C.   (eds)   (1998),  Estructura  Social,  Diccionario  de
+Sociología. Madrid: Alianza Editorial
 
 Giner, S. (1983). Sociología. Barcelona: Ediciones de Bolsillo
 
@@ -174,6 +180,8 @@ recientes en las sociedades industrializadas, Fundación BBV, Madrid
 Lucas   Marín,   A.   (ed.)(2010).   La  realidad  social:  transformaciones  recientes  en  España.  Pamplona:
 EUNSA. CPS/316.4 LUC rea
 
+MIGUEL, A., (1993) La sociedad española 1992-93, Complutense. Alianza. (CPS/308 SOC soc)
+
 MIGUEL, A., (1997) La sociedad española 1996-97, Complutense. (ETS/308 SOC soc)
 
 MIGUEL, J. de (1998) Estructura y cambio social en España, Alianza, Madrid. (CPS/316.4 MIG est)
@@ -181,11 +189,35 @@ MIGUEL, J. de (1998) Estructura y cambio social en España, Alianza, Madrid. (CP
 MINISTERIO   DE   EDUCACIÓN   Y   CIENCIA  (2007)  Pisa  2006.  Programa  para  la  Evaluación  Internacional  de
 Alumnos de la OCDE. Informe Español, Ministerio de Ecuación y Ciencia, Madrid
 
+OBLIGATORIA:   Del   Campo,   S.   y  Tezanos,  J.  F.  (eds.)(2008).  España  siglo  XXI.  La  sociedad.  Madrid:
+Biblioteca   Nueva.   CPS/308  CAM  esp  González  Rodríguez,  J.  J.  (2020).  Cambio  social  en  la  España  del
+siglo   XXI.  Madrid:  Alianza  Editorial.  CPS/316.4  GON  cam  González,  J.  J.  y  Requena,  M.  (eds.)(2014).
+Tres   décadas   de   cambio   social   en   España.   Madrid:   Alianza.   CPS/316.4  GON  tre  Lucas  Marín,  A.
+(ed.)(2010).   La   realidad   social:  transformaciones  recientes  en  España.  Pamplona:  EUNSA.  CPS/316.4
+LUC   rea  Salido,  O.  y  Massó,  M.  (eds.)(2021).  Sociología  en  tiempos  de  pandemia.  Impactos  y  desafíos
+sociales   de   la   crisis   del   Covid-19.   Madrid:   FES-Marcial  Pons.  CPS/316.7  SAL  soc  Tezanos,  J.F.
+(ed.)(2022).   Cambios  sociales  en  tiempos  de  pandemia.  Madrid:  CIS.  CPS/316.4  TEZ  cam  Torres  Albero,
+C. (ed.)(2015). España 2015. Situación social. Madrid: CIS. CPS/316.4 ESP esp
+
+OBLIGATORIA:   Del   Campo,   S.   y  Tezanos,  J.  F.  (eds.)(2008).  España  siglo  XXI.  La  sociedad.  Madrid:
+Biblioteca   Nueva.   CPS/308  CAM  esp  González  Rodríguez,  J.  J.  (2020).  Cambio  social  en  la  España  del
+siglo   XXI.  Madrid:  Alianza  Editorial.  CPS/316.4  GON  cam  González,  J.  J.  y  Requena,  M.  (eds.)(2014).
+Tres   décadas   de   cambio   social   en   España.   Madrid:   Alianza.   CPS/316.4  GON  tre  Lucas  Marín,  A.
+(ed.)(2010).   La   realidad   social:  transformaciones  recientes  en  España.  Pamplona:  EUNSA.  CPS/316.4
+LUC   rea  Salido,  O.  y  Massó,  M.  (eds.)(2021).  Sociología  en  tiempos  de  pandemia.  Impactos  y  desafíos
+sociales   de   la   crisis   del   Covid-19.   Madrid:   FES-Marcial  Pons.  CPS/316.7  SAL  soc  Tezanos,  J.F.
+(ed.)(2022).   Cambios  sociales  en  tiempos  de  pandemia.  Madrid:  CIS.  CPS/316.4  TEZ  cam  Torres  Albero,
+C. (ed.)(2015). España 2015. Situación social. Madrid: CIS. CPS/316.4 ESP esp
+
 Salido, O. y Massó, M. (eds.)(2021). Sociología en tiempos de pandemia. Impactos y desafíos sociales
 de la crisis del Covid-19. Madrid: FES-Marcial Pons. CPS/316.7 SAL soc
 
 Santiago,   J.   (2015).   La   estructura  social  a  la  luz  de  las  nuevas  sociologías  del  individuo.  Reis
 149, pp. 131-150
+
+Tezanos, J.F. (ed.)(2022). Cambios sociales en tiempos de pandemia. Madrid: CIS. CPS/316.4 TEZ cam
+
+Torres Albero, C. (ed.)(2015). España 2015. Situación social. Madrid: CIS. CPS/316.4 ESP esp
 
 VIDAL-BENEYTO,   J.   (Ed.)   (1991)   España  a  debate,  I  :La  política;  II:  La  sociedad,  Tecnos,  Madrid.
 (CPS/32 ESP esp)
@@ -195,4 +227,4 @@ Económicos, Madrid. (IN DE REG/ OT-2)
 
 VV.AA. (1997) Indicadores Sociales de España 1997. INE. Madrid. (CPS/311 IND ind)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 98% [█████████░]
