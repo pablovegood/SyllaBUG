@@ -12,7 +12,7 @@ BASE_PATH = os.path.join("BibliografiasUGR", "grados", "Comparativas")
 bibliotecas = [
     "B. Filosofía y Letras A", "B. Informática y Telecom.",
     "B. Melilla", "B. PTS", "B. Políticas y Sociolog.", "B. Politécnica",
-    "B. Psicología y Letras B", "B. S. Jerónimo", "B. Traductores e Intérpretes",
+    "B. Filosofía y Letras B", "B. S. Jerónimo", "B. Traductores e Intérpretes",
     "B. Arquitectura", "B. Bellas Artes", "B. Ceuta",
     "B. Ciencias", "B. Colegio Máximo", "B. Deporte", "B. Derecho",
     "B. Económicas y Empres.", "B. Educación", "B. Farmacia"
@@ -298,4 +298,4 @@ def index():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=10000, debug=True)
+    app.run(host="127.0.0.1", port=10000, debug=False)
