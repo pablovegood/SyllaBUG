@@ -2,18 +2,18 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados (3):
+❌ Recursos eliminados (2):
 ------------------------------
 1ª Edición. Editorial Médica Panamericana, 2013
-
-FOX, S. I. Fisiología Humana. 14ª edición. Aravaca (Madrid): Ed. Mc Graw-HillInteramericana, 2017
 
 PRESTON   R.B.,   WILSON   T.E.   Fisiología.   Series  Editor:  Harvey  Richard  A.  Lippincott’s  Illustrated
 Reviews. Barcelona: Lippincott Williams & Wilkins. 2013 RHOADES, R. and ROTNY, A. Fisiología Médica.
 5ª edición. Méjico DF Ed. Wolters Kluwer, 2018. 2018
 
-📚 Recursos sin cambios (24):
+📚 Recursos sin cambios (28):
 ------------------------------
+Bibliografía específica
+
 Bibliografía específica: ALBERTS B. Introducción a la Biología Celular. 3ª Edición. Editorial Médica
 Panamericana, 2011
 
@@ -31,6 +31,8 @@ DVORKIN,   M.A.   and   CARDINALI,   D.P.   Best   &  Taylor:  Bases  Fisiológi
 edición. Ed. Médica Panamericana, 2010
 
 Donelli, A. Laboratory manual for anatomy and physiology. Harper Collins Academic. Londres, 1990
+
+FOX, S. I. Fisiología Humana. 14ª edición. Aravaca (Madrid): Ed. Mc Graw-Hill-Interamericana, 2017
 
 Fernández, G.N. Manual de laboratorio de Fisiología. 5ª ed. McGraw-Hill Interamericana. Madrid, 2011
 
@@ -51,7 +53,11 @@ Manuales de prácticas Backer, J. The laboratory rat. Academic Press. Nueva York
 PATTON,   H.D.;   FUCHS,   A.F.;   HILLE,   B.;   SCHER,  A.M.;  STEINER,  R.  Textbook  of  Physiology,  vol.  1,
 Excitable cells and Neurophysiology. 21st ed., Saunders, Philadelphia, 1989
 
+Publicaciones periódicas
+
 Publicaciones periódicas: News in Physiological Sciences Physiological Review
+
+RHOADES, R. and ROTNY, A. Fisiología Médica. 5ª edición. Méjico DF Ed. Wolters Kluwer, 2018
 
 SILBERNAGL, S. " Fisiología. Texto y Atlas". 7ª edición. Ed. Médica Panamericana, 2019
 
@@ -74,22 +80,13 @@ Facultad de Farmacia. Universidad de Granada.2021
 
 WILLIAMS, R.W. Tratado de Endocrinología. 12ª edición. México: Ed. Interamericana México. 2011
 
-✅ Recursos añadidos (7):
+✅ Recursos añadidos (3):
 ------------------------------
-Bibliografía específica
-
-FOX, S. I. Fisiología Humana. 14ª edición. Aravaca (Madrid): Ed. Mc Graw-Hill-Interamericana, 2017
+ALBERTS B. Introducción a la Biología Celular. 3ª Edición. Editorial Médica Panamericana, 2011
 
 PRESTON   R.B.,   WILSON   T.E.   Fisiología.   Series  Editor:  Harvey  Richard  A.  Lippincott’s  Illustrated
 Reviews. Barcelona: Lippincott Williams & Wilkins. 2013
 
-Publicaciones periódicas
-
-RHOADES, R. and ROTNY, A. Fisiología Médica. 5ª edición. Méjico DF Ed. Wolters Kluwer, 2018
-
 RODRÍGUEZ FERRER JM. “Neurofisiología esencial”. Editorial Universidad de Granada, 2018
 
-TÓRTORA,   G.J.   and   DERRICKSON,   B.   Principios   de  Anatomía  y  Fisiología.  15ª  edición.  Méjico:  Ed.
-Médica Panamericana. 2018
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

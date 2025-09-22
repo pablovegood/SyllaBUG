@@ -14,7 +14,7 @@ Clínica   (19ª   ed.)   Editorial   Médica  Panamericana,  2018  Katzung,  BG
 (15ª   ed.).   McGraw   Hill,   2022  Rang,  H.P.,  Dale,  M.M.  Ritter,  J.M.  Farmacología  (10ª  ed).  Elsevier
 España, 2024
 
-📚 Recursos sin cambios (4):
+📚 Recursos sin cambios (6):
 ------------------------------
 Dipiro JT et al. Pharmacotherapy. A pathophysiologic approach (11th) Ed. McGraw-Hill, 2020
 
@@ -27,15 +27,15 @@ fisiopatológicas del tratamiento farmacológico (4ª ed.) Lippincott Williams &
 Goodman   and  Gilman.  Las  bases  farmacológicas  de  la  terapéutica  (14ª  ed).  McGraw-Hill  Interamericana
 Editores, 2023
 
-✅ Recursos añadidos (4):
+Katzung, BG. Farmacología básica y clínica (15ª ed.). McGraw Hill, 2022
+
+Rang, H.P., Dale, M.M. Ritter, J.M. Farmacología (10ª ed). Elsevier España, 2024
+
+✅ Recursos añadidos (2):
 ------------------------------
 Flórez, J., Armijo, J.A., Mediavilla, A. Farmacología Humana. (7ª ed). Elsevier, 2025
-
-Katzung, BG. Farmacología básica y clínica (15ª ed.). McGraw Hill, 2022
 
 Lorenzo,   P.,   Moreno,   A.,   Leza,   J.C.,  Lizasoain,  I.,  Moro,  M.A.  Velázquez.  Farmacología  Básica  y
 Clínica (19ª ed.) Editorial Médica Panamericana, 2018
 
-Rang, H.P., Dale, M.M. Ritter, J.M. Farmacología (10ª ed). Elsevier España, 2024
-
-📊 Porcentaje estimado de cambio: 87% [████████░░]
+📊 Porcentaje estimado de cambio: 62% [██████░░░░]

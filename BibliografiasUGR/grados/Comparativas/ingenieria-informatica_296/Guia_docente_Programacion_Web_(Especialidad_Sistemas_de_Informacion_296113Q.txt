@@ -26,6 +26,8 @@ B.P. Hogan et al. “Web Development Recipes”, Pragmatic Programmers, 2012
 
 D. Flanagan, “JavaScript: The Definitive Guide”, 7th Ed. O’Reilly, 2020
 
+E. Brown, "Learning JavaScript", O'Reilly, 2016
+
 E. Cerami, “Web Services Essentials” O’Reilly, 2002
 
 E. Newcomer, “Understanding Web Services”, Addison-Wesley Professional, 2002
@@ -35,8 +37,6 @@ J N. Robbins. “Web Design in a nutshell”, 3a Ed., O ́Reilly, 2006
 J.N. Robbins, “Learning Web Design”, 4th Edition, O’Reilly, 2012
 
 L. Richardson, M. Amundsen, "RESTful Web APIs", O'Reilly, 2013
-
-L.J. Mitchell, "PHP Web Services", O'Reilly, 2016
 
 P. Hudson, “PHP in a Nutshell”, O’Reilly, 2006
 
@@ -50,6 +50,6 @@ T. Wright, “Learning JavaScript”, Addison-Wesley, 2013
 
 ✅ Recursos añadidos (1):
 ------------------------------
-E. Brown, "Learning JavaScript", O'Reilly, 2016
+L.J. Mitchell, "PHP Web Services", O'Reilly, 2016
 
 📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

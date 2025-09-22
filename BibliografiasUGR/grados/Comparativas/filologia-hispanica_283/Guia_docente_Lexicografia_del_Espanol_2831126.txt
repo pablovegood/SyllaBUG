@@ -2,12 +2,19 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados (1):
+❌ Recursos eliminados (2):
 ------------------------------
+HAUSMANN,   F.   J.;   REICHMANN,   O.;   WIEGAND,  H.  E.;  ZGUSTA,  L.  Wörterbücher  :  Ein  internationales
+Handbuch   zur   Lexikographie   =   Dictionaries   :   An   International   Encyclopedia   of  Lexicography  =
+Dictionnaires : Encyclopédie internationale de lexicographie. Berlin : Walter de Gruyter, 1989-1991
+(reprint:   2017).   3   vols.   +   1   Suplementary   volumen   (cf.   GOWS   2013)  HERNÁNDEZ,  H.  (1989)  Los
+diccionarios   de   orientación   escolar:   contribución   al   estudio   de   la   lexicografía  monolingüe,
+Tübingen, Niemeyer
+
 SECO,   M.   (2003)   Estudios  de  lexicografía  española,  Madrid,  Gredos  TEUBERT,  W.  (2007)  Text  corpora
 and multilingual lexicography, Amsterdam, John Benjamins
 
-📚 Recursos sin cambios (39):
+📚 Recursos sin cambios (41):
 ------------------------------
 AHUMADA,   I.   (dir.)   DBME:   Diccionario   bibliográfico   de   la   metalexicografía  del  español,  Jaén,
 Universidad.   3  vols.:  vol.  1:  orígenes-año  2000  (2001);  vol.  2:  2001-2005  (2006);  vol.  3:  2006-2010
@@ -43,6 +50,8 @@ University Press
 
 DUBOIS, J. y DUBOIS, C. (1971) Introduction à la Lexicographie : Le dictionnaire, Paris, Larousse
 
+Diccionarios (selección)
+
 Diccionarios   (selección)   RAE   (2014)   Diccionario   de  la  lengua  española,  23.ª  ed.,  Madrid,  Espasa
 Calpe
 
@@ -61,9 +70,7 @@ Madrid, Gredos
 HAUSMANN,   F.   J.;   REICHMANN,   O.;   WIEGAND,  H.  E.;  ZGUSTA,  L.  Wörterbücher  :  Ein  internationales
 Handbuch   zur   Lexikographie   =   Dictionaries   :   An   International   Encyclopedia   of  Lexicography  =
 Dictionnaires : Encyclopédie internationale de lexicographie. Berlin : Walter de Gruyter, 1989-1991
-(reprint:   2017).   3   vols.   +   1   Suplementary   volumen   (cf.   GOWS   2013)  HERNÁNDEZ,  H.  (1989)  Los
-diccionarios   de   orientación   escolar:   contribución   al   estudio   de   la   lexicografía  monolingüe,
-Tübingen, Niemeyer
+(reprint: 2017). 3 vols. + 1 Suplementary volumen (cf. GOWS 2013)
 
 LAPESA, R. (1992) Léxico e historia. Vol.II, Diccionarios, Madrid, Istmo
 
@@ -97,6 +104,8 @@ RAE/ASALE (2005): Diccionario panhispánico de dudas, Madrid, Santillana
 
 RODRÍGUEZ Barcia, S. (2016) Introducción a la Lexicografía, Madrid, Síntesis
 
+SECO, M. (2003) Estudios de lexicografía española, Madrid, Gredos
+
 SECO, M., O. ANDRÉS y G. RAMOS (1999; 2.ª ed. act.: 2011; 3.ª ed. en línea): Diccionario del español
 actual, Madrid, Aguilar. https://www.fbbva.es/diccionario/info/el-diccionario/
 
@@ -113,15 +122,11 @@ español, Jaén, Universidad
 ÁVILA MARTÍN, M.ª C. (2000) El diccionario en el aula: sobre los diccionarios escolares destinados a
 la enseñanza y aprendizaje del español como lengua materna, Granada, Universidad
 
-✅ Recursos añadidos (4):
+✅ Recursos añadidos (2):
 ------------------------------
 HERNÁNDEZ,   H.   (1989)   Los   diccionarios   de   orientación   escolar:   contribución   al  estudio  de  la
 lexicografía monolingüe, Tübingen, Niemeyer
 
-RAE (2014) Diccionario de la lengua española, 23.ª ed., Madrid, Espasa Calpe
-
-SECO, M. (2003) Estudios de lexicografía española, Madrid, Gredos
-
 TEUBERT, W. (2007) Text corpora and multilingual lexicography, Amsterdam, John Benjamins
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

@@ -34,8 +34,8 @@ Barcelona
 
 De la Horra Navarro, J. (2003) Estadística Aplicada. Díaz de Santos
 
-Fox   J,   Marquez   MM,   Bouchet-Valat   M   (2024).   Rcmdr:   R   Commander.   R   package   version   2.9-2,
-https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/
+Devore,   Jey  L.  Probabilidad  y  Estadística  para  Ingeniería  y  Ciencias.  (2008)  California  Polytechnic
+State University, San Luis Obispo. México
 
 Gutiérrez, R., Martínez, A., Rodríguez, C. (1993) Curso básico de Probabilidad. Pirámide, Madrid
 
@@ -63,18 +63,18 @@ de Estadística. Editorial Síntesis
 
 Sáez, AJ. Métodos Estadísticos con R y R–Commander (2010) Universidad de Jaén
 
-Walpole   RE,  Myers  RH,  Myers  SL,  Ye  K.  (2012)  Probabilidad  y  Estadística  para  Ingeniería  y  Ciencias.
-Pearson Educación, México
+Verdoy,   P.J.,  Mahiques,  J.M.,  Porcu,  E.  (2008)  Introducción  a  la  Estadística  y  Probabilidad:  Manual
+de Ejercicios Resueltos. Tilde, Valencia
 
 ✅ Recursos añadidos (3):
 ------------------------------
-Devore,   Jey  L.  Probabilidad  y  Estadística  para  Ingeniería  y  Ciencias.  (2008)  California  Polytechnic
-State University, San Luis Obispo. México
+Fox   J,   Marquez   MM,   Bouchet-Valat   M   (2024).   Rcmdr:   R   Commander.   R   package   version   2.9-2,
+https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/
 
 Martínez,   F.;  Martínez,  C.  (2013).  Problemas  de  Estadística  para  Ingeniería  y  Ciencias.  Copicentro,
 España
 
-Verdoy,   P.J.,  Mahiques,  J.M.,  Porcu,  E.  (2008)  Introducción  a  la  Estadística  y  Probabilidad:  Manual
-de Ejercicios Resueltos. Tilde, Valencia
+Walpole   RE,  Myers  RH,  Myers  SL,  Ye  K.  (2012)  Probabilidad  y  Estadística  para  Ingeniería  y  Ciencias.
+Pearson Educación, México
 
 📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

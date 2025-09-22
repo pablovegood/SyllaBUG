@@ -7,13 +7,15 @@ Grado: filologia-hispanica (283)
 Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981 Gómez Redondo, F., Historia de
 la prosa medieval, 4 vols., Madrid, Cátedra, 2002
 
-📚 Recursos sin cambios (32):
+📚 Recursos sin cambios (34):
 ------------------------------
 Antonio   Bosch,   Barcelona,  1980.  López  Estrada,  F.,  Introducción  a  la  literatura  medieval  española,
 Gredos, Madrid, 1974
 
 Auerbach,   E.  ,Figura,  Trotta,  Madrid,  11988  Curtius,  E.  R.,  Literatura  europea  y  Edad  media  latina,
 2 vols., FCE, Madrid, 1976
+
+Auerbach, E.,Figura, Trotta, Madrid, 11988
 
 Boletín   Bibliográfico   de  la  Asociación  Hispánica  de  Literatura  Medieval.  Crespillo,  M.  (Ed).,  Lara
 Garrido, J. (comp.)
@@ -31,6 +33,8 @@ García Montero, L, El teatro medieval: polémica de una inexistencia, Granada, 
 García Única, J., Cuando los libros eran libros, Granada, Comares, 2011
 
 Gargano, A., La literatura en tiempos de los Reyes Católicos, Madrid, Gredos, 2012
+
+Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981
 
 Huizinga, J., El otoño de la Edad Media, Alianza, Madrid, 1988
 
@@ -83,12 +87,8 @@ ________,   Texto   y   contextos.   Estudios  sobre  la  poesía  española  de
 
 _________, El Cantar de Mío Cid y la épica medieval española, Barcelona, Simio, 1987
 
-✅ Recursos añadidos (3):
+✅ Recursos añadidos (1):
 ------------------------------
-Curtius, E. R., Literatura europea y Edad media latina, 2 vols., FCE, Madrid, 1976
-
-Gilson, E., El espíritu de la filosofía medieval, Rialp, Madrid, 1981
-
 Gómez Redondo, F., Historia de la prosa medieval, 4 vols., Madrid, Cátedra, 2002
 
-📊 Porcentaje estimado de cambio: 11% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

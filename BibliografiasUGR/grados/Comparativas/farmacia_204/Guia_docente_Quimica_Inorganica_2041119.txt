@@ -7,7 +7,7 @@ Grado: farmacia (204)
 of   Chemistry,   2000   C.   Valenzuela   Calahorro,   “Química   General  e  Inorgánica  para  estudiantes  de
 Farmacia”, W. R. Peterson, “Nomenclatura de las sustancias químicas” (4ª Edición), Ed. Reverté, 2016
 
-📚 Recursos sin cambios (11):
+📚 Recursos sin cambios (12):
 ------------------------------
 B. W. Pfennig, “Principles of Inorganic Chemistry” (1st Edition), Ed. John Wiley & Sons, 2015
 
@@ -38,11 +38,11 @@ R.   H.   Petrucci,   W.  S.  Harwood,  F.  G.  Herring,  “Química  General�
 W.   Henderson,  “Main  Group  Chemistry”,  Tutorial  Chemistry  Texts,  Vol.  3,  Royal  Society  of  Chemistry,
 2000
 
-✅ Recursos añadidos (2):
+W. R. Peterson, “Nomenclatura de las sustancias químicas” (4ª Edición), Ed. Reverté, 2016
+
+✅ Recursos añadidos (1):
 ------------------------------
 C.   Valenzuela   Calahorro,   “Química   General   e   Inorgánica   para   estudiantes   de   Farmacia”,   Ed.
 Universidad de Granada, 2002
 
-W. R. Peterson, “Nomenclatura de las sustancias químicas” (4ª Edición), Ed. Reverté, 2016
-
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

@@ -2,7 +2,7 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados (6):
+❌ Recursos eliminados (7):
 ------------------------------
 (2019).   Las   novelas   argentinas  del  siglo  21.  Nuevos  modos  de  producción,  circulación  y  recepción,
 New   York,   Peter   Lang.   Gide,  André  (1980).  Los  monederos  falsos.  Barcelona:  Poseidón.  Goux,  Jean-
@@ -51,7 +51,14 @@ Número   dedica   a   “Mercado,   editoriales   y   diffusion   de  discursos
 Woodmansee,   Martha  (1994).  The  Author,  Art  and  the  Market.  Rereading  the  History  of  Aesthetics.  New
 York: Columbia University Press
 
-📚 Recursos sin cambios (11):
+“Unas   monedas”   /   “La   moneda   de   hierro”.  La  moneda  de  hierro.  Obras  completas  (III).  Barcelona:
+Emecé.   Bourdieu,   Pierre   (2002).   Las   reglas   del  arte.  Génesis  y  estructura  del  campo  literario.
+Barcelona:   Anagrama.   Calvino,   Ítalo   (2005).   Seis   propuestas   para   el  próximo  milenio.  Madrid:
+Siruela.   Cárcamo   Huechante,   Luis   E   (2007).   Tramas   del  mercado:  imaginación  económica,  cultura
+pública   y   literatura   en   el   Chile  de  fines  del  siglo  veinte.  Santiago  de  Chile:  Editorial  Cuarto
+Propio
+
+📚 Recursos sin cambios (44):
 ------------------------------
 (2006). El último lector. Barcelona: Anagrama
 
@@ -74,25 +81,11 @@ Libertella/Lamborghini, Buenos Aires, Ediciones Corregidor, 151-161
 Fuguet”.   En   Pablo  Brescia  y  Oswaldo  Estrada  (eds.),  McCrack:  McOndo,  el  Crack  y  los  destinos  de  la
 literatura latinoamericana, Valencia, Editorial Albatros, 235-252
 
-(2019).   “Poéticas   del   mercado   global   en   América   Latina”.  En  Eva  Valero  Juan  y  Oswaldo  Estrada
-(eds.), Literatura y globalización. Latinoamérica en el nuevo milenio, Barcelona, Anthropos
-
-y Martínez, Erika (2017). A pulmón (o sobre cómo editar de forma independiente en español), Granada,
-Esdrújula
-
-“El otro”. El libro de arena. Obras completas (II). Barcelona: Emecé
-
-“Unas   monedas”   /   “La   moneda   de   hierro”.  La  moneda  de  hierro.  Obras  completas  (III).  Barcelona:
-Emecé.   Bourdieu,   Pierre   (2002).   Las   reglas   del  arte.  Génesis  y  estructura  del  campo  literario.
-Barcelona:   Anagrama.   Calvino,   Ítalo   (2005).   Seis   propuestas   para   el  próximo  milenio.  Madrid:
-Siruela.   Cárcamo   Huechante,   Luis   E   (2007).   Tramas   del  mercado:  imaginación  económica,  cultura
-pública   y   literatura   en   el   Chile  de  fines  del  siglo  veinte.  Santiago  de  Chile:  Editorial  Cuarto
-Propio
-
-✅ Recursos añadidos (42):
-------------------------------
 (2019).   Las   novelas   argentinas  del  siglo  21.  Nuevos  modos  de  producción,  circulación  y  recepción,
 New York, Peter Lang
+
+(2019).   “Poéticas   del   mercado   global   en   América   Latina”.  En  Eva  Valero  Juan  y  Oswaldo  Estrada
+(eds.), Literatura y globalización. Latinoamérica en el nuevo milenio, Barcelona, Anthropos
 
 Aira, César (2002). Varamo. Barcelona: Mondadori
 
@@ -101,12 +94,8 @@ Althusser, Louis y Étienne Balibar (2010). Para leer El capital. Madrid: Siglo 
 Arfuch,   Leonor   (2010).   El   espacio   biográfico.   Dilemas  de  la  subjetividad  contemporánea.  Buenos
 Aires: Fondo de Cultura Económica
 
-Arlt, Roberto (2004). Prueba de amor. Buenos Aires: Losada
-
 Barthes,   Roland   (1973).   “Saussure,   the   sign,   democracy”.   The  semiotic  challence.  Los  Ángeles:
 University of California Press
-
-Baudelaire, Charles. “La moneda falsa”. París: Le Soleen de Paris. 1962
 
 Beltrán, Rosa (2012). Efectos secundarios. Madrid: 451 Editores
 
@@ -117,13 +106,6 @@ Borges, Jorge Luis (2004). “El Zahir”. El aleph. Obras completas (I). Barcel
 
 Bourdieu,   Pierre   (2002).  Las  reglas  del  arte.  Génesis  y  estructura  del  campo  literario.  Barcelona:
 Anagrama
-
-Calvino, Ítalo (2005). Seis propuestas para el próximo milenio. Madrid: Siruela
-
-Consultar a la profesora para acceder a bibliografía específica
-
-Cortázar,   Julio   (2003).   Obras   completas   I   (Cuentos).   Barcelona:   Galaxia  Gutenberg-Círculo  de
-Lectores
 
 Cárcamo   Huechante,   Luis   E   (2007).   Tramas   del  mercado:  imaginación  económica,  cultura  pública  y
 literatura en el Chile de fines del siglo veinte. Santiago de Chile: Editorial Cuarto Propio
@@ -139,9 +121,6 @@ Goux, Jean-Joseph (1984). The Coiners of Language. Norman: University of Oklahom
 Hayes, Aden W (1982). Roberto Arlt: la estrategia de su ficción. Londres: Tamesis Books Limited
 
 Hernández, Felisberto (2012). La casa inundada. Girona: Atalanta
-
-Herrnstein   Smith,   Barbara   (1991).   Contingencies   of  Value.  Alternative  Perspectives  for  Critical
-Theory. Harvard: Harvard University Press
 
 Klossowski, Pierre (1997). La monnaie vivante. Paris: Éditions Payot & Rivages
 
@@ -169,14 +148,44 @@ Simmel, Georg (2008). The Philosophy of Money. New York: Routledge
 
 Tratner, Michel (2004). “Derrida’s Debt to Milton Friedman”. New Literary History, no 34: 791–806
 
-VV.AA.   Revista   Iberoamericana,  no.  197,  2001.  Número  dedica  a  “Mercado,  editoriales  y  diffusion  de
-discursos culturales en América Latina”
-
 Woodmansee,   Martha  (1994).  The  Author,  Art  and  the  Market.  Rereading  the  History  of  Aesthetics.  New
 York: Columbia University Press
 
 Zelizer,   Viviana   A   (2011).   El   significado   social   del   dinero.   Buenos  Aires:  Fondo  de  Cultura
 Económica
+
+y Martínez, Erika (2017). A pulmón (o sobre cómo editar de forma independiente en español), Granada,
+Esdrújula
+
+Ávila,   Patricia   (2007).   Y  tú  también  te  vas.  Argentina  y  el  dinero.  Buenos  Aires:  Adriana  Hidalgo
+Editora
+
+“El otro”. El libro de arena. Obras completas (II). Barcelona: Emecé
+
+“Escritor fracasado”. El jorobadito. Cuentos completos. Buenos Aires: Losada
+
+“Roberto Arlt: la ficción del dinero”. Hispamérica, no 7: 25-28 (1974)
+
+“Unas monedas” / “La moneda de hierro”. La moneda de hierro. Obras completas (III). Barcelona: Emecé
+
+✅ Recursos añadidos (9):
+------------------------------
+Arlt, Roberto (2004). Prueba de amor. Buenos Aires: Losada
+
+Baudelaire, Charles. “La moneda falsa”. París: Le Soleen de Paris. 1962
+
+Calvino, Ítalo (2005). Seis propuestas para el próximo milenio. Madrid: Siruela
+
+Consultar a la profesora para acceder a bibliografía específica
+
+Cortázar,   Julio   (2003).   Obras   completas   I   (Cuentos).   Barcelona:   Galaxia  Gutenberg-Círculo  de
+Lectores
+
+Herrnstein   Smith,   Barbara   (1991).   Contingencies   of  Value.  Alternative  Perspectives  for  Critical
+Theory. Harvard: Harvard University Press
+
+VV.AA.   Revista   Iberoamericana,  no.  197,  2001.  Número  dedica  a  “Mercado,  editoriales  y  diffusion  de
+discursos culturales en América Latina”
 
 et   alt.   (2007).   El   valor   de   la  cultura.  Arte,  literatura  y  mercado  en  América  Latina.  Rosario:
 Beatriz Viterbo
@@ -184,11 +193,4 @@ Beatriz Viterbo
 y   Mark   Osteen   (1999).   The   New  Economic  Criticism.  Studies  at  the  intersection  of  Literature  and
 Economics. New York: Routledge
 
-Ávila,   Patricia   (2007).   Y  tú  también  te  vas.  Argentina  y  el  dinero.  Buenos  Aires:  Adriana  Hidalgo
-Editora
-
-“Escritor fracasado”. El jorobadito. Cuentos completos. Buenos Aires: Losada
-
-“Roberto Arlt: la ficción del dinero”. Hispamérica, no 7: 25-28 (1974)
-
-📊 Porcentaje estimado de cambio: 90% [█████████░]
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

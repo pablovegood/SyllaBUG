@@ -17,12 +17,15 @@ Casais.   Ed.   Síntesis,   2003  “Análisis  instrumental”  Kenneth  A.  R
 Pearson   Educación   Process  Analytical  Technology:  Spectroscopic  Tools  and  Implementation  Strategies
 for the Chemical and Pharmaceutical Industries. Ed. Katherine A. Bakeev. John Wiley & Sons, 2010
 
-📚 Recursos sin cambios (22):
+📚 Recursos sin cambios (29):
 ------------------------------
 Análisis Instrumental. K.A. Rubinson- J.F. Rubinson. Editorial Prentice Hall
 
 Análisis   químico   e   instrumental   moderno.  Frederic  Walton  Harnold;  Jorge  Reyes.  Ed.  Reverté  2005.
 ISBN: 8429175199 ISBN-13: 9788429175196
+
+Aplicación   de  las  Nuevas  Tecnologías  a  la  Enseñanza  Práctica  de  Técnicas  Instrumentales  (2ª  parte).
+Proyecto de Innovación Docente con Código Nº 08-22 subvencionado por la UGR Ref. MVG/PI2008
 
 Aplicación de las Nuevas Tecnologías a la Enseñanza Práctica de Técnicas Instrumentales. Proyecto de
 Innovación   Docente   07-02-08   subvencionado   por   la   UGR   Ref.   MVGPI2007  Aplicación  de  las  Nuevas
@@ -36,6 +39,8 @@ Cromatografía en papel y placa delgada, J.A. Domínguez, OEA
 Espectroscopia de Resonancia Magnética. F. J. López. Addison Wesley Iberoamericana S.A
 
 Espectroscopia ultravioleta y visible. C.N. Rao. Ed. Alambra
+
+Espectroscopía Infrarroja. Robert Conley. Editorial Alambra
 
 Fisicoquímica. (Vol. 2). Ira N. Levine. 5ª Ed. Editorial Mc. Graw Hill
 
@@ -53,8 +58,16 @@ Métodos Instrumentales de Análisis. H.H. Willard y col. Grupo Editorial Iberoa
 
 Métodos Ópticos de Análisis. E. Olsen. Editorial Reverté, 1995
 
+Pharmaceutical   and   Medical   Applications   of   Near-Infrared   Spectroscopy,  Second  Edition.  Emil  W.
+Ciurczak, Benoit Igne. CRC Press, 2014
+
 Principios   de   Análisis   Instrumental.  (7ª  Edición)  Skoog-Holler-Crouch  .  Cengage  Learning  Técnico.
 2019
+
+Process   Analytical   Technology:   Spectroscopic  Tools  and  Implementation  Strategies  for  the  Chemical
+and Pharmaceutical Industries. Ed. Katherine A. Bakeev. John Wiley & Sons, 2010
+
+Química Física (Vol. 1). M. Díaz Peña, A. Roig Muntaner. Editorial Alhambra
 
 Química Física. A. Requena. Prentice Hall. Prentice Hall
 
@@ -71,32 +84,19 @@ Díaz Peña, A. Roig Muntaner. Editorial Alhambra
 Técnicas   Instrumentales   de   Análisis   en   Bioquímica.   Gavilanes   Franco,  José  Gregorio.  Editorial
 Síntesis.1999
 
-✅ Recursos añadidos (10):
-------------------------------
-Aplicación de las Nuevas Tecnologías a la Enseñanza Práctica de Técnicas Instrumentales. Proyecto de
-Innovación Docente 07-02-08 subvencionado por la UGR Ref. MVGPI2007
-
-Espectroscopia. Requena, Federico M. Pearson Publications Company (2005)
-
-Espectroscopía Infrarroja. Robert Conley. Editorial Alambra
-
-Métodos   espectroscópicos   en   Química   Orgánica  Hesse,  Manfred  ·  Meier,  Herbert  ·  Zeeh,  Bernd.ISBN:
-9788477385226. Ed. Síntesis 2005
-
-Pharmaceutical   and   Medical   Applications   of   Near-Infrared   Spectroscopy,  Second  Edition.  Emil  W.
-Ciurczak, Benoit Igne. CRC Press, 2014
-
-Process   Analytical   Technology:   Spectroscopic  Tools  and  Implementation  Strategies  for  the  Chemical
-and Pharmaceutical Industries. Ed. Katherine A. Bakeev. John Wiley & Sons, 2010
-
-Química Física (Vol. 1). M. Díaz Peña, A. Roig Muntaner. Editorial Alhambra
-
 Técnicas   de   separación   en   química   analítica.   Rafael   Cela,  Rosa  Antonia  Lorenzo,  Ma  del  Carmen
 Casais. Ed. Síntesis, 2003
 
 Técnicas   espectroscópicas   en   química   analítica   .  Ríos  Castro,  Ángel  ;  Cruz  Moreno  Bondi,  María,
 Simonet Suau, Bartolomé M. (coords.) Ed. Síntesis 2012
 
+✅ Recursos añadidos (3):
+------------------------------
+Espectroscopia. Requena, Federico M. Pearson Publications Company (2005)
+
+Métodos   espectroscópicos   en   Química   Orgánica  Hesse,  Manfred  ·  Meier,  Herbert  ·  Zeeh,  Bernd.ISBN:
+9788477385226. Ed. Síntesis 2005
+
 “Análisis instrumental” Kenneth A. Rubinson, Judith F. Rubinson - 2001 Pearson Educación
 
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

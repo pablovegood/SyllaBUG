@@ -6,8 +6,12 @@ Grado: bellas-artes (260)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (34):
+📚 Recursos sin cambios (39):
 ------------------------------
+A.A.V.V. Fundamentals of Character Design. 3dtotal Publishing. Worcester. 2020
+
+A.A.V.V. Sketching from the Imagination: Characters. 3dtotal Publishing. Worcester. 2021
+
 AAVV, Dopress Book. CG Characterss From sketch to finish. CYPI PRESS. Middlesex, UK. 2014
 
 AAVV, Dopress Book. CG Scenes From sketch to finish. CYPI PRESS. Middlesex, UK. 2014
@@ -60,6 +64,8 @@ FEGHALI, Walid. Concept Art Accelerator 5 pillars of the artist´s pathway to su
 ISBISTER,   Katherine.   Better   game  characters  by  design:  a  psychological  approach.  Morgan  Kaufmann,
 2006
 
+Ilustraciones de las colecciones: Spectrum y sketching from the imagination, etc
+
 KENNEDY, Sam R. How to Become a Video Game Artist. New Riders. Berkeley, CA. 2012
 
 MATEU-MESTRE, Marcos. Framed Ink. Drawing Techniques. Design Studio Press. Culver City, CA. 2019
@@ -81,6 +87,11 @@ Korea. 2020
 
 SHAW, Susanna. Stop Motion. Craft and Skills for Model Animation. Focal Press. Elsevier. UK. 2004
 
+SHAW,   Susanna.   Stop   Motion.   Craft   and  Skills  for  Model  Animation.  Focal  Press.  Elsevier.  UK.  Se
+recomiendan   todos  los  libros  de  arte  de  películas  y  videojuegos  Blizzard  Blue  Sky  Disney  Dreamworks
+Laika Marvel/DC Pixar Star Wars Weta workshop Ilustraciones de las colecciones: Spectrum y sketching
+from the imagination, etc
+
 SILVER,   Stephen.   The   Silver   Way.   Techniques,  tips  and  tutorials  for  effective  Character  design.
 Design Studio Press. Culver City, CA. 2017
 
@@ -93,23 +104,15 @@ Gili, 2007
 WITHROW,   Steven   y   DANNER,  Alexander.  Diseño  de  personajes  para  novela  gráfica.  Barcelona:  Gustavo
 Gili. 2008
 
-✅ Recursos añadidos (8):
+Weta workshop
+
+✅ Recursos añadidos (3):
 ------------------------------
 A.A.V.V. Character Design Collection: Heroines. 3dtotal Publishing. Worcester. 2021
 
 A.A.V.V. Creating Stylized Animals. 3dtotal Publishing. Worcester. 2021
 
-A.A.V.V. Fundamentals of Character Design. 3dtotal Publishing. Worcester. 2020
-
-A.A.V.V. Sketching from the Imagination: Characters. 3dtotal Publishing. Worcester. 2021
-
-Ilustraciones de las colecciones: Spectrum y sketching from the imagination, etc
-
 SUH,   H.   Stylized   Character   Design   Handbook:   Principles,   Styles,   and   Case   Studies.   3dTotal
 Publishing. 2023
 
-Se recomiendan todos los libros de arte de películas y videojuegos
-
-Weta workshop
-
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 7% [░░░░░░░░░░]

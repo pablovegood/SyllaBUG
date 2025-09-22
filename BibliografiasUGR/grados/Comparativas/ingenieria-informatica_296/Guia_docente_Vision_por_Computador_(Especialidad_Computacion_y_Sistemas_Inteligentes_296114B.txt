@@ -10,8 +10,6 @@ No hay elementos.
 ------------------------------
 Bishop, C.M. & Bishop, H. (2024). Deep Learning. Foundations and Concepts. Springer
 
-Deep Learning for Computer Vision ( http://cs231n.stanford.edu/ )
-
 Deep Learning for Computer Vision (http://cs231n.stanford.edu/) Hartley, R., & Zisserman, A. (2011).
 Multiple view geometry in computer vision. 2nd Edition. Cambridge university press
 
@@ -20,6 +18,9 @@ Forsyth, D. A., & Ponce, J. (2012). Computer vision: a modern approach. 2nd Edit
 Gonzalez, R.C. & Woods, R.E. (2018). Digital Image Processing. Global Edition. 4th Edition. Pearson
 
 Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT press
+
+Hartley,   R.,   &   Zisserman,   A.   (2011).   Multiple   view   geometry  in  computer  vision.  2nd  Edition.
+Cambridge university press
 
 Molnar,   C.  (2022).  Interpretable  Machine  Learning:  A  Guide  for  Making  Black  Box  Models  Explainable.
 2nd Edition

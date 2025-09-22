@@ -8,6 +8,8 @@ No hay elementos.
 
 📚 Recursos sin cambios (25):
 ------------------------------
+Bibliografía relacionada con los contenidos de los temas 1 y 2
+
 Bibliografía   relacionada  con  los  contenidos  de  los  temas  1  y  2:  [HAM03]  Hamacher,  C.,  Vranesic,  S.,
 Zaky, S.. Organización de computadores. McGrawHill, 5ª Edición, 2003
 
@@ -32,9 +34,6 @@ Computadores. Teoría y problemas. McGraw-Hill, 2009
 [GAR04] García, J.. Problemas resueltos de electrónica digital. Thomson, 2004
 
 [GRE92] Green, D.. Modern Logic Design. Addison Wesley, 1992
-
-[HAM03]   Hamacher,   C.,   Vranesic,   S.,   Zaky,   S..   Organización   de  computadores  .  McGraw-Hill,  5ª
-Edición, 2003
 
 [HAYE96] Hayes, J.P.. Introducción al Diseño Lógico Digital. Addison-Wesley Iberoamericana, 1996
 

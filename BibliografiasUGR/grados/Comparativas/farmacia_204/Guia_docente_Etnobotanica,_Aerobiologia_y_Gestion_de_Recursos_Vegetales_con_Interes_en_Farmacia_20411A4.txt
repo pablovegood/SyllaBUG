@@ -45,11 +45,7 @@ Ethnobotany:   A   Reader.   University   of   Oklahoma   Press:  Norman.  SCHUL
 M.;   CALVO,   C.;   GÓMEZ,   D.;  MONSERRAT,  G.  (1992).  Plantas  medicinales  del  Pirineo  Aragonés  y  demás
 tierras oscenses. Diputación Provincial de Huesca
 
-📚 Recursos sin cambios (0):
-------------------------------
-No hay elementos.
-
-✅ Recursos añadidos (28):
+📚 Recursos sin cambios (21):
 ------------------------------
 ARTECHE,   A.,   VANACLOCHA,   B,   et   al.   (2003).   Fitoterapia.   Vademécum   de   prescripción.  Plantas
 medicinales. Editorial Masson, s.a. Barcelona
@@ -61,9 +57,6 @@ BOLD, H.C. et al. (1989). Morfología de las plantas y de los hongos. Ed. Omega,
 
 BRUNETON, J. 2004. Fitoterapia. Editorial Acribia
 
-Benítez,   G.,   Molero-Mesa,   J.,   &   González-Tejero,  M.  R.  (2023).  Wild  edible  plants  of  andalusia:
-traditional uses and potential of eating wild in a highly diverse region. Plants, 12 (6), 1218
-
 COTTON, C. (1996). Ethnobotany. Principles and Applications. Chichester, UK, Wiley & Sons
 
 CUNNINGHAM, C. (2001). Applied ethnobotany. People, wild plant use & conservation. People and plants
@@ -71,8 +64,6 @@ conservation manual, WWF. Earthscan publications, U.K
 
 DEVESA   ALCARAZ,  J.A.,  ORTEGA  OLIVENCIA,  A.  (2004).  Especies  vegetales  protegidas  en  España:  plantas
 vasculares. Ministerio de Medio Ambiente. Organismo Autónomo de Parques Nacionales
-
-DÍAZ GONZÁLEZ, T.E. et al. (2004). Curso de Botánica. Ed. Trea Ciencias, Asturias
 
 FONT QUER, P. (1961). Plantas Medicinales. El Dioscórides Renovado. Editorial Península, Barcelona
 
@@ -87,8 +78,6 @@ Española de Aerobiología. Servicio de Publicaciones, Universidad de Córdoba
 GIVEN,   D.R.   &   W.   HARRIS   (1994).   Techniques  and  Methods  of  Ethnobotany:  As  an  aid  to  the  study,
 evaluation, conservation and sustainable use of Biodiversity. London: Commonwealth Secretariat
 
-Giesecke, A. (Ed.). (2023). A cultural history of plants . Bloomsbury Publishing. 6 Vols
-
 IZCO, J. et al. (2004). Botánica. Ed. McGraw-Hill, Madrid
 
 MARTÍNEZ   LIROLA,  M.J.;  GONZÁLEZ-TEJERO,  M.R.;  MOLERO  MESA,  J.  (1997).  Investigaciones  etnobotánicas
@@ -97,23 +86,11 @@ Conserjería de Medio Ambiente de la Junta de Andalucía
 
 MINNIS, P. E. (2000). Ethnobotany: A Reader. University of Oklahoma Press: Norman
 
-Mateo‐Martín,   J.,   Benítez,   G.,   Gras,   A.,   Molina,   M.,   Reyes‐García,   V.,   Tardío,   J.,   ...  &
-Pardo‐de‐Santayana,   M.  (2023).  Cultural  importance,  availability  and  conservation  status  of  Spanish
-wild medicinal plants: Implications for sustainability. People and Nature, 5 (5), 1512-1525
-
 PARDO   DE   SANTAYANA,   M.   et   al.  (editores).  Inventario  español  de  los  conocimientos  tradicionales
 relativos   a   la   biodiversidad.   Fase   II.   Ministerio  de  Agricultura  y  Pesca,  Alimentación  y  Medio
 Ambiente.        3        Volúmenes.        ISBN:        978-84-491-1472-4.        Descargables        en:
 https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-espanol-de-los-
 conocimientos-tradicionales/inventario_esp_conocimientos_tradicionales.aspx
-
-PARDO   DE   SANTAYANA,  M.,  MORALES,  R.,  ACEITUNO-MATA,  L.,  MOLINA,  M.  (Eds).  2014.  Inventario  Español
-de   los   Conocimientos   Tradicionales   relativos   a   la   Biodiversidad.   Ministerio   de  Agricultura,
-Alimentación       y       Medio       Ambiente.       Madrid.       411       pp.      Descargable      en:
-https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-
-nacionales/pbl_iect_tcm30-164090.pdf
-
-Prance, G., & Nesbitt, M. (Eds.). (2012). The cultural history of plants . Routledge
 
 SCHULTES, R. E. & REIS, S. (Eds.) (1995). Ethnobotany. Evolution of discipline. Ed. Chapman et Hall.
 New York
@@ -135,7 +112,28 @@ https://www.mapa.gob.es/images/fr/tardio_etal2022_iectbavol2_tcm36-640207.pdf
 TRIGO,   M.M.,   JATO,   V.,   FERNÁNDEZ,  D.,  GALÁN,  C.  (Eds.)  (2008).  Atlas  Aeropalinológico  de  España.
 Servicio de Publicaciones de la Universidad de León
 
+✅ Recursos añadidos (7):
+------------------------------
+Benítez,   G.,   Molero-Mesa,   J.,   &   González-Tejero,  M.  R.  (2023).  Wild  edible  plants  of  andalusia:
+traditional uses and potential of eating wild in a highly diverse region. Plants, 12 (6), 1218
+
+DÍAZ GONZÁLEZ, T.E. et al. (2004). Curso de Botánica. Ed. Trea Ciencias, Asturias
+
+Giesecke, A. (Ed.). (2023). A cultural history of plants . Bloomsbury Publishing. 6 Vols
+
+Mateo‐Martín,   J.,   Benítez,   G.,   Gras,   A.,   Molina,   M.,   Reyes‐García,   V.,   Tardío,   J.,   ...  &
+Pardo‐de‐Santayana,   M.  (2023).  Cultural  importance,  availability  and  conservation  status  of  Spanish
+wild medicinal plants: Implications for sustainability. People and Nature, 5 (5), 1512-1525
+
+PARDO   DE   SANTAYANA,  M.,  MORALES,  R.,  ACEITUNO-MATA,  L.,  MOLINA,  M.  (Eds).  2014.  Inventario  Español
+de   los   Conocimientos   Tradicionales   relativos   a   la   Biodiversidad.   Ministerio   de  Agricultura,
+Alimentación       y       Medio       Ambiente.       Madrid.       411       pp.      Descargable      en:
+https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/inventarios-
+nacionales/pbl_iect_tcm30-164090.pdf
+
+Prance, G., & Nesbitt, M. (Eds.). (2012). The cultural history of plants . Routledge
+
 VILLAR,   L;   PALACIN,   J.   M.;   CALVO,   C.;  GÓMEZ,  D.;  MONSERRAT,  G.  (1992).  Plantas  medicinales  del
 Pirineo Aragonés y demás tierras oscenses. Diputación Provincial de Huesca
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

@@ -18,7 +18,7 @@ Ediciones Académicas
 Rojo,   Guillermo   (2021):   Introducción   a   la   lingüística  de  corpus  en  español.  Londres:  Routledge
 Saeed, John I. (2009): Semantics. Oxford: Blackwell
 
-📚 Recursos sin cambios (24):
+📚 Recursos sin cambios (29):
 ------------------------------
 Battaner   Arias,   Paz  y  López  Ferrero,  Carmen  (2019):  Introducción  al  léxico,  componente  transversal
 de la lengua. Madrid: Cátedra
@@ -49,6 +49,10 @@ Lingüística Hispánica. Londres: Routledge
 
 Escandell Vidal, Mª Victoria (2007): Apuntes de semántica léxica. Madrid: UNED
 
+García Murga, Fernando (2014): Semántica. Madrid: Síntesis
+
+Goded Rambaud, Margarita (2012): Basic Semantics. Madrid: UNED
+
 Gutiérrez Odóñez, S. (1989): Introducción a la semántica funcional. Madrid: Síntesis
 
 Heusinger,   Klaus   von;   Claudia   Maienborn;  Paul  Portner  (eds.)  (2011).  Semantics.  An  International
@@ -66,13 +70,19 @@ Language Science Press
 Londres:   Routledge   De   Miguel  Aparicio,  Elena  (ed.)  (2009):  Panorama  de  la  lexicología.  Barcelona:
 Ariel
 
+Lyons, John (1980): Semántica. Barcelona: Teide
+
 López   Palma,  Helena  (2016):  "Semántica".  En  J.  Gutiérrez-Rexach  (dir.):  Enciclopedia  de  Lingüística
 Hispánica. Londres y Nueva York: Routledge
 
 Maienborn,   Claudia;   Klaus   von   Heusinger;  Paul  Portner  (eds.)  (2011).  Semantics.  An  International
 Handbook of Natural Language Meaning. Volume I. Berlin: De Gruyter
 
+Murphy, M. Lynne (2010): Lexical meaning. Cambridge: Cambridge University Press
+
 Riemer, Nick (ed)(2015): The Routledge Handbook of Semantics. London: Routledge
+
+Rojo, Guillermo (2021): Introducción a la lingüística de corpus en español. Londres: Routledge
 
 Storjoham,   Petra   (2010):   Lexical-Semantic   Relations.   Theoretical   and   practical   perspectives.
 Amsterdam: John Benjamins
@@ -81,25 +91,15 @@ Szudarski, Pawel (2018): Corpus Linguistics for Vocabulary.London: Routledge
 
 Ullmann, Stephan (1962): Semantics. An introduction to the science of meaning. Oxford: Blackwell
 
-✅ Recursos añadidos (9):
+✅ Recursos añadidos (4):
 ------------------------------
 Del Teso Martín, Enrique (2002): Compendio y ejercicios de semántica. Madrid: Arco Libros
 
-García Murga, Fernando (2014): Semántica. Madrid: Síntesis
-
-Goded Rambaud, Margarita (2012): Basic Semantics. Madrid: UNED
-
-Lyons, John (1980): Semántica. Barcelona: Teide
-
 Löbner, Sebastian (2002): Understanding Semantics. London: Routledge
-
-Murphy, M. Lynne (2010): Lexical meaning. Cambridge: Cambridge University Press
 
 Otaola   Olano,   Concepción   (2004):   Lexicología  y  semántica  léxica.  Teoría  y  aplicación  a  la  lengua
 española. Madrid: Ediciones Académicas
 
-Rojo, Guillermo (2021): Introducción a la lingüística de corpus en español. Londres: Routledge
-
 Saeed, John I. (2009): Semantics. Oxford: Blackwell
 
-📊 Porcentaje estimado de cambio: 39% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

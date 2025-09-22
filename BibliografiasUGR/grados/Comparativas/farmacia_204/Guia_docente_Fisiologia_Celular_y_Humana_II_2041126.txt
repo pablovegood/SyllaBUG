@@ -13,23 +13,31 @@ PRESTON   R.B.,   WILSON   T.E.   Fisiología.   Series  Editor:  Harvey  Richar
 Reviews.   Barcelona:   Lippincott   Williams   &   Wilkins.   2013   RHOADES,  R.  and  BELL,  D.R.  Fisiología
 Médica. 5ª Ed. Wolters-Kluwer, 2018. 2018
 
-📚 Recursos sin cambios (22):
+📚 Recursos sin cambios (31):
 ------------------------------
 ALBERTS B. Introducción a la Biología Celular. 5a Edición. Editorial Médica Panamericana, 2021
 
 BERNE, R.M. and LEVY, M.N. Cardiovascular Physiology. 8th. edition, Mosby Year Book, 2001
 
+Backer, J. The laboratory rat. Academic Press. Nueva York, 1980
+
 CORDOBA, A. "Fisiología Dinámica". Barcelona: Ed. Masson, 2003
 
 COSTANZO, L. S. “Fisiología”. 7ª edición. Barcelona: Elsevier, 2023
 
+Current Advances in Physiology
+
 DVORKIN,   M.A.   and   CARDINALI,   D.P.   Best   &  Taylor:  Bases  Fisiológicas  de  la  Práctica  Médica.  14ª
 edición. Ed. Médica Panamericana, 2010
+
+Diccionarios y Atlas médicos
 
 Diccionarios y Atlas médicos Diccionario médico ilustrado. Editorial Marban, 2015
 
 Donelli,   A.   Laboratory   manual  for  anatomy  and  physiology.  Harper  Collins  Academic.  Londres,  1990.
 Fernández, G.N. Manual de laboratorio de Fisiología. 5a ed. McGraw-Hill Interamericana. Madrid, 2011
+
+GANONG Fisiología médica. 26ª edición. México: Ed. Mc Graw-Hill, 2020
 
 GUYTON, A.C. and HALL, J.E. Tratado de Fisiología Médica. 14ª edición. Madrid: Ed. Elsevier, 2021
 
@@ -41,7 +49,18 @@ function, 3th. edition, Little-Brown, 1995
 
 LEVY B. KOEPPEN M, STANTON BA. Berne Levy Fisiología. 7ª edición. Madrid: Ed. Elsevier Mosby; 2018
 
+Manuales de prácticas
+
 NETTER, F. H. Atlas de Anatomía Humana, 8ª edición. Ed. Elsevier, 2023
+
+News in Physiological Sciences
+
+PRESTON   R.B.,   WILSON   T.E.   Fisiología.   Series  Editor:  Harvey  Richard  A.  Lippincott’s  Illustrated
+Reviews. Barcelona: Lippincott Williams & Wilkins. 2013
+
+Physiological Review
+
+Publicaciones periódicas
 
 Publicaciones   periódicas   News   in   Physiological  Sciences  Physiological  Review  Current  Advances  in
 Physiology Annual Review of Physiology Manuales de prácticas Backer, J. The laboratory rat. Academic
@@ -70,28 +89,9 @@ WEST, J.B. Respiratory Physiology, 9th. edition, Lippincott Williams and Wilkins
 
 WILLIAMS Manual de Hematología. 8ª edición. McGraw-Hill 2013
 
-✅ Recursos añadidos (13):
+✅ Recursos añadidos (4):
 ------------------------------
-Annual Review of Physiology
-
-Backer, J. The laboratory rat. Academic Press. Nueva York, 1980
-
-Current Advances in Physiology
-
-Diccionarios y Atlas médicos
-
 FOX, S. I. Fisiología Humana. 14ª edición. Ed. McGraw-Hill 2017
-
-GANONG Fisiología médica. 26ª edición. México: Ed. Mc Graw-Hill, 2020
-
-Manuales de prácticas
-
-PRESTON   R.B.,   WILSON   T.E.   Fisiología.   Series  Editor:  Harvey  Richard  A.  Lippincott’s  Illustrated
-Reviews. Barcelona: Lippincott Williams & Wilkins. 2013
-
-Physiological Review
-
-Publicaciones periódicas
 
 RHOADES, R. and BELL, D.R. Fisiología Médica. 5ª Ed. Wolters-Kluwer, 2018
 
@@ -100,4 +100,4 @@ RODRÍGUEZ FERRER JM. “Neurofisiología esencial”. Editorial Universidad de 
 TORTORA,   G.J.   and   DERRICKSON,   B.   Principios   de  Anatomía  y  Fisiología.  15ª  edición.  Méjico:  Ed.
 Médica Panamericana. 2018
 
-📊 Porcentaje estimado de cambio: 47% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

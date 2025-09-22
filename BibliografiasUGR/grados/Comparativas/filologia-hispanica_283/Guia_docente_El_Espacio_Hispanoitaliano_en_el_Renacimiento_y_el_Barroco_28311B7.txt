@@ -2,7 +2,7 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados (7):
+❌ Recursos eliminados (6):
 ------------------------------
 El   Renacimiento   europeo,   Barcelona,   Crítica,   2000.   Cacciari   Massimo  La  mente  inquieta.  Saggio
 sull´umanesimo,   Turín,   Einaudi,  2019..  Cappelli,  Guido  M.  El  humanismo  italiano.  Un  capítulo  de  la
@@ -74,19 +74,6 @@ Petrarca   y   petrarquismo   Dolce   stil   novo.   Selección,   traducción, 
 Masoliver.   Edición   bilingüe,Barcelona,   Seix   Barral,   1983.  Francesco  Petrarca  Obras  I.  Prosa.  Al
 cuidado de Francisco Rico, Madrid, Alfaguara, 1978
 
-Teorías   poéticas   del   Manierismo   y   Barroco   en   España,   Barcelona,  Puvill,  1989  Quondam,  Amedeo
-Problemi del manierismo, Napoli, Guida, 1975. Barroco Anceschi, Luciano La idea del Barroco, Madrid,
-Tecnos,   1996.   Battistini,   Andrea   "La  cultura  del  Barocco",  en  Storia  della  letteratura  italiana,
-diretta   daEnrico   Malato,   Roma,   Salerno  Editrice,  1997,  vol.V,  pp.  463-559.  Blanco,  Mercedes,  Les
-Rhétoriques   de   la   Pointe.   Baltasar   Gracián  et  le  conceptisme  enEurope,  Ginebra,  Slatkine,  1992.
-Egido, Aurora, Fronteras de la poesía en el Barroco, Barcelona, Crítica, 1990.García Berrio, Antonio
-España   e   Italia   ante   el   conceptismo,  Madrid,  CSIC,  1968.  Jover,  José  María  (editor)  Historia  de
-España Menéndez Pidal, XXVI y XXVII:El siglo del “Quijote,Madrid, Espasa-Calpe, 1986. Maravall, José
-Antonio   La   cultura   del   Barroco,   Barcelona,   Ariel,  1980.Morpurgo  Tagliabue,  Guido,  Anatomia  del
-barocco,   Palermo,   Aesthetica,   1987.  Orozco  Díaz,  Emilio,  Temas  del  Barroco  (en  poesía  y  pintura),
-Granada,   Universidad,  1947  (reim.  Con  prólogo  de  Antonio  Sánchez  Trigueros  en  Granada,  Universidad,
-Col. “Archivum”)
-
 The   Body   Hispanic.   Gender   and   Sexuality   in   Spanish   and   Spanish  American  Literature,  Oxford,
 Clarendon   Press,   1989.  Soria  Olmedo,  Andrés  Siete  estudios  sobre  la  Edad  de  Oro,  Granada,  Alhulia,
 2008. Renacimiento. Doce consideraciones sobre el mundo hispano-italiano en tiempo de Alfonso y Juan
@@ -119,23 +106,7 @@ Forster,   Leonard   The   Icy   Fire.  Five  Studies  in  European  Petrarchism
 XXVII    (1930),    pp.   277-295.   Guglielminetti,   Marziano   (editor)   Petrarca   e   il   petrarchismo.
 Un´ideologia della letteratura, Turín, Paravia, 1977
 
-📚 Recursos sin cambios (5):
-------------------------------
-Cancionero, ed. bilingüe de Jacobo Cortines, Madrid, Cátedra
-
-Canzoniere.    Testo    critico    e    introduzione   di   Gianfranco   Contini.   annotazione   di   Daniele
-Ponchiroli,Turín, Einaudi, 1979
-
-El   teatro   y   la   teatralidad   del  Barroco,  Barcelona,  Planeta,  1972  (traducción  italiana  de  Renata
-Londero, prólogo de Giuseppe Mazzocchi, Ibis, como-Pavia, 1995)
-
-Los   avatares   de  ´El  Cortesano´.  Lecturas  e  interpretaciones  de  uno  de  los  libros  más  populares  del
-Renacimiento.Barcelona, Gedisa, 1997
-
-“Saber   de   amores”   Edad  de  Oro  Terry,  Arthur,  “Lectures  in  Love´s  philosophy:  A.A.  Parker  on  Human
-and Divine Love in Golden Age Literature”, BHS,LXV (1988), pp. 169-174
-
-✅ Recursos añadidos (97):
+📚 Recursos sin cambios (95):
 ------------------------------
 Alcina, Juan Francisco, “Humanismo y petrarquismo”, en Nebrija [1983], pp. 145-156
 
@@ -147,9 +118,6 @@ Arce, Joaquín, Literatura española e italiana frente a frente, Madrid, Espasa,
 
 Ariani,   Marco,   Imago   fabulosa.   Mito   e   allegoria   nei   “Dialoghi  d´amore”  di  Leone  Ebreo,  Roma,
 Bulzoni, 1984
-
-Asensio,   Eugenio,  “Dámaso  de  Frías  y  su  Dórida,  diálogo  de  amor.  El  italianismo  en  Valladolid”Nueva
-Revista de Filología Hispánica, XXIV (1975), pp.219-234
 
 Baltasar    Castiglione,    El    Cortesano.   Edición   de   Mario   Pozzi.   Traducción   de   Juan   Boscán.
 Madrid,Cátedra, 1994
@@ -192,6 +160,11 @@ Burke, Peter El Renacimiento, Barcelona, Crítica, 1999
 
 Cacciari Massimo La mente inquieta. Saggio sull´umanesimo, Turín, Einaudi, 2019
 
+Cancionero, ed. bilingüe de Jacobo Cortines, Madrid, Cátedra
+
+Canzoniere.    Testo    critico    e    introduzione   di   Gianfranco   Contini.   annotazione   di   Daniele
+Ponchiroli,Turín, Einaudi, 1979
+
 Cappelli, Guido M. El humanismo italiano. Un capítulo de la historia europea entre Petrarca y Valla,
 Madrid, Alianza, 2007
 
@@ -203,9 +176,6 @@ Taurus, 1998
 
 Croce,   Alda,   “Relazioni   della   letteratura   italiana   con   la   letteratura  spagnuola”,  Problemi  e
 orientamenti critici di lingua eletteratura italiana. VI. Letterature comparate, Milán. 1959
-
-Croce,   Benedetto   La   Spagna   nella   vita  italiana  durante  la  Rinascenza,  Bari,  Laterza,  1941.  (hay
-trad. Esp. de José Sánchez Rojas, Madrid, s.a. y de
 
 Dalla   Valle,   Daniela   (edit.)  Manierismo  e  letteratura.  Atti  del  Congresso  Internzazionale  (1983),
 Turín, Albert Meyner, 1986
@@ -223,6 +193,9 @@ Egido, Aurora, Fronteras de la poesía en el Barroco, Barcelona, Crítica, 1990.
 España e Italia ante el conceptismo, Madrid, CSIC, 1968
 
 El Renacimiento europeo, Barcelona, Crítica, 2000
+
+El   teatro   y   la   teatralidad   del  Barroco,  Barcelona,  Planeta,  1972  (traducción  italiana  de  Renata
+Londero, prólogo de Giuseppe Mazzocchi, Ibis, como-Pavia, 1995)
 
 Estudios   Generales   Arce,   Joaquín,  Literatura  española  e  italiana  frente  a  frente,  Madrid,  Espasa,
 1982.   Cavallo,   Guglielmo-   Roger   Chartier   (eds.)   Historia  de  la  lectura  en  el  mundo  occidental,
@@ -270,20 +243,12 @@ Scuola, 1991
 Ficino,   De  Amore.  Comentario  a  “El  Banquete”  de  Platón.  Traducción  y  estudio  preliminar  por  Rocíode
 la Villa Ardura, Madrid, Tecnos, 1986
 
-Forster,   Leonard   The   Icy   Fire.  Five  Studies  in  European  Petrarchism,  Cambridge  University  Press,
-1978
-
-Francesco Petrarca Obras I. Prosa. Al cuidado de Francisco Rico, Madrid, Alfaguara, 1978
-
 Francisco González Ríos, Sevilla, Renacimiento)
 
 Fucilla, Joseph. Relaciones Hispano-italianas,,Madrid, CSIC, 1953
 
 García Berrio, Antonio Formación de la teoría literaria moderna. I. Madrid, Cupsa, 1977; II, Murcia,
 Universidad,1980
-
-García   de   la   Concha,   Víctor   (editor)   Nebrija   y   la   introducción   del  Renacimiento  en  España,
-Salamanca,Universidad, 1983
 
 Garin, Eugenio La revolución cultural del Renacimiento, Barcelona, Crítica, 1981
 
@@ -334,11 +299,11 @@ Lewis, C.S. L´allegoria d´amore. Saggio sulla tradizione medievale, [1936] Tur
 León    Hebreo,    Diálogos   de   amor,   traducción   de   Carlos   Mazo,   edición   de   José   María   Reyes
 Cano,Barcelona, PPU, 1986
 
+Los   avatares   de  ´El  Cortesano´.  Lecturas  e  interpretaciones  de  uno  de  los  libros  más  populares  del
+Renacimiento.Barcelona, Gedisa, 1997
+
 Manero    Sorolla,    Pilar    Imágenes    petrarquistas    en    la   lírica   española   del   Renacimiento.
 Repertorio,Barcelona, PPU, 1990
-
-Manero   Sorolla,   Pilar   Introducción   al   estudio  del  petrarquismo  en  España,  Barcelona,  PPU,  1987.
-Navarrete, Ignacio Huérfanos de Petrarca: Poesía y teoría en el Renacimiento, Madrid, Gredos, 1997
 
 Manero   Sorolla,Pilar   Imágenes   petrarquistas   en   la  lírica  española  del  Renacimiento.  Repertorio,
 Barcelona, PPU, 1990
@@ -459,8 +424,6 @@ cosas, Barcelona, Destino, 2002
 
 Rico, Francisco, Nebrija contra los bárbaros, Salamanca, Universidad, 1978
 
-Rodríguez, Juan Carlos, La literatura en la sociedad (de)sacralizada, Madrid, Akal, 2025
-
 Rodríguez,   Juan   Carlos,  Teoría  e  historia  de  la  producción  ideológica,  I.  Las  primeras  literaturas
 burguesas, Madrid, Akal, 1974
 
@@ -482,14 +445,25 @@ Granada, Universidad, 1984
 
 Teorías poéticas del Manierismo y Barroco en España, Barcelona, Puvill, 1989
 
+Teorías   poéticas   del   Manierismo   y   Barroco   en   España,   Barcelona,  Puvill,  1989  Quondam,  Amedeo
+Problemi del manierismo, Napoli, Guida, 1975. Barroco Anceschi, Luciano La idea del Barroco, Madrid,
+Tecnos,   1996.   Battistini,   Andrea   "La  cultura  del  Barocco",  en  Storia  della  letteratura  italiana,
+diretta   daEnrico   Malato,   Roma,   Salerno  Editrice,  1997,  vol.V,  pp.  463-559.  Blanco,  Mercedes,  Les
+Rhétoriques   de   la   Pointe.   Baltasar   Gracián  et  le  conceptisme  enEurope,  Ginebra,  Slatkine,  1992.
+Egido, Aurora, Fronteras de la poesía en el Barroco, Barcelona, Crítica, 1990.García Berrio, Antonio
+España   e   Italia   ante   el   conceptismo,  Madrid,  CSIC,  1968.  Jover,  José  María  (editor)  Historia  de
+España Menéndez Pidal, XXVI y XXVII:El siglo del “Quijote,Madrid, Espasa-Calpe, 1986. Maravall, José
+Antonio   La   cultura   del   Barroco,   Barcelona,   Ariel,  1980.Morpurgo  Tagliabue,  Guido,  Anatomia  del
+barocco,   Palermo,   Aesthetica,   1987.  Orozco  Díaz,  Emilio,  Temas  del  Barroco  (en  poesía  y  pintura),
+Granada,   Universidad,  1947  (reim.  Con  prólogo  de  Antonio  Sánchez  Trigueros  en  Granada,  Universidad,
+Col. “Archivum”)
+
 The   Body   Hispanic.   Gender   and   Sexuality   in   Spanish   and   Spanish  American  Literature,  Oxford,
 Clarendon Press, 1989
 
 Trattati d´amore del Cinquecento, edición de Mario Pozzi, Bari, Laterza, 1980
 
 Triunfos. Edición preparada por Jacobo Cortines y Manuel Carrera, Madrid, Editora Nacional, 1983
-
-Universidad, Col. “Archivum”)
 
 Wellek,   René   Historia   literaria.   Problemas   y   conceptos,  Barcelona,  Laia,  1983  (  "El  conceptode
 Barroco en la investigación literaria")
@@ -498,4 +472,28 @@ Ynduráin, Domingo Humanismo y Renacimiento en España, Madrid, Cátedra, 1994
 
 “Saber de amores” Edad de Oro
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+“Saber   de   amores”   Edad  de  Oro  Terry,  Arthur,  “Lectures  in  Love´s  philosophy:  A.A.  Parker  on  Human
+and Divine Love in Golden Age Literature”, BHS,LXV (1988), pp. 169-174
+
+✅ Recursos añadidos (7):
+------------------------------
+Asensio,   Eugenio,  “Dámaso  de  Frías  y  su  Dórida,  diálogo  de  amor.  El  italianismo  en  Valladolid”Nueva
+Revista de Filología Hispánica, XXIV (1975), pp.219-234
+
+Croce,   Benedetto   La   Spagna   nella   vita  italiana  durante  la  Rinascenza,  Bari,  Laterza,  1941.  (hay
+trad. Esp. de José Sánchez Rojas, Madrid, s.a. y de
+
+Forster,   Leonard   The   Icy   Fire.  Five  Studies  in  European  Petrarchism,  Cambridge  University  Press,
+1978
+
+Francesco Petrarca Obras I. Prosa. Al cuidado de Francisco Rico, Madrid, Alfaguara, 1978
+
+García   de   la   Concha,   Víctor   (editor)   Nebrija   y   la   introducción   del  Renacimiento  en  España,
+Salamanca,Universidad, 1983
+
+Manero   Sorolla,   Pilar   Introducción   al   estudio  del  petrarquismo  en  España,  Barcelona,  PPU,  1987.
+Navarrete, Ignacio Huérfanos de Petrarca: Poesía y teoría en el Renacimiento, Madrid, Gredos, 1997
+
+Rodríguez, Juan Carlos, La literatura en la sociedad (de)sacralizada, Madrid, Akal, 2025
+
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

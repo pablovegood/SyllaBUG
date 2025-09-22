@@ -26,17 +26,17 @@ Langtangen, H.P., Python Scripting for Computational Science, Springer, 2009
 
 Martelli, A., Martelli, A., Ascher, D., Python Cookbook, O'Really, 2013
 
+Martelli, A., Python in a nutshell. A desktop quick reference (4ªed), O'Really, 2023
+
 Press,   W.H.,   Teukolsky,   S.A.,   Vetterling,   W.T.   y  Flannery,  B.P.,  Numerical  Recipes:  The  Art  of
 Scientific Computing, Cambridge University Press, 2007
-
-Rossant,   C.,   Learning  IPython  for  interactive  computing  and  data  visualization  :  learn  IPython  for
-interactive   Python  programming,  high-performance  numerical  computing,  and  data  visualization,  Packt
-Publishing, 2013
 
 Strang, G., Computational Science and Engineering, Wellesley-Cambridge Press, 2007
 
 ✅ Recursos añadidos (1):
 ------------------------------
-Martelli, A., Python in a nutshell. A desktop quick reference (4ªed), O'Really, 2023
+Rossant,   C.,   Learning  IPython  for  interactive  computing  and  data  visualization  :  learn  IPython  for
+interactive   Python  programming,  high-performance  numerical  computing,  and  data  visualization,  Packt
+Publishing, 2013
 
 📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

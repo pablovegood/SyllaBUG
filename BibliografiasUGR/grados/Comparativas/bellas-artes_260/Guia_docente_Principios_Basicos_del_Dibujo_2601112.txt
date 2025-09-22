@@ -2,11 +2,16 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados (0):
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Madrid:   Akal.   CIVARDI,   G.  (2017):  Drawing  Statues.  The  Art  of  Drawing.  Search  Press.  DA  VINCI,  L.
+(1986): Tratado de Pintura
 
-📚 Recursos sin cambios (23):
+UG.   BLAS   BENITO,   J.   (1996):   Diccionario   del  dibujo  y  la  estampa.  Madrid,  Calcografía  Nacional.
+BORDES, J.; CABEZAS, L.; GÓMEZ, J. J. (2001): El manual de dibujo. Estrategias de su enseñanza en el
+siglo XX
+
+📚 Recursos sin cambios (24):
 ------------------------------
 ARNHEIM, R. (1984): Arte y Percepción visual. Madrid: Alianza Forma
 
@@ -21,27 +26,28 @@ disponible por internet en el repositorio de la UGR: DIGIBUG
 
 BLAS BENITO, J. (1996): Diccionario del dibujo y la estampa. Madrid, Calcografía Nacional
 
-BORDES, J.; CABEZAS, L.; GÓMEZ, J. J. (2001): El manual de dibujo. Estrategias de su enseñanza en el
-siglo XX. Madrid: Cátedra
+Barcelona:   Gustavo   Gili.   EDWARDS,   B.   (1994):   Nuevo   aprender  a  dibujar  con  el  lado  derecho  del
+cerebro
+
+Barcelona:   Urano.   GARCÍA   PEDRAZA,  J.  (2011):  El  dibujo  de  estatua.  Materiales,  proceso  y  técnica.
+Granada: G
 
 CENNINI, C. (1988): El libro del arte. Madrid: Akal
 
 CHING, Francis D. K. (1996): Dibujo y proyecto. Barcelona: Gustavo Gili
 
-CIVARDI, G. (2017): Drawing Statues. The Art of Drawing. Search Press
-
 DA VINCI, L. (1986): Tratado de Pintura. Madrid: Akal
 
-DÍAZ   PADILLA,  R.  (2007):  El  dibujo  del  natural  en  la  época  de  la  postacademia.  Tres  Cantos,  Madrid:
-Akal
-
-EDWARDS, B. (1994): Nuevo aprender a dibujar con el lado derecho del cerebro. Barcelona: Urano
-
-GARCÍA PEDRAZA, J. (2011): El dibujo de estatua. Materiales, proceso y técnica. Granada: GEU
+Feet:   Techniques   form   mastering   realistic   hands  and  feet  in  graphite,  charcoal,  and  Conte  -  50+
+Professional   Artist   Tips   and   Techniques.   Walter   Foster  Publishing.  GÓMEZ  MOLINA,  J.  J.  (2002):
+Máquinas y herramientas de dibujo
 
 GOLDMAN,   K.  (2020):  Success  in  Art:  Drawing  Hands  &  Feet:  Techniques  form  mastering  realistic  hands
 and   feet   in   graphite,   charcoal,   and  Conte  -  50+  Professional  Artist  Tips  and  Techniques.  Walter
 Foster Publishing
+
+Granada:   Godel.   DVD,  recurso  audiovisual  también  disponible  por  internet  en  el  repositorio  de  la  U
+GR: D I G I B
 
 GÓMEZ MOLINA, J. J. (1995): Las lecciones del Dibujo. Madrid: Cátedra
 
@@ -62,12 +68,21 @@ Hermann Blume
 MEZCUA LÓPEZ, A. J. (2014): La experiencia del paisaje en China: "Shanshui" o cultura del paisaje en
 la dinastía Song. Abada Editores
 
+Madrid:   Akal.   DÍAZ   PADILLA,  R.  (2007):  El  dibujo  del  natural  en  la  época  de  la  postacademia.  Tres
+Cantos
+
 PEREZ SANCHEZ, A. (1986): Historia del dibujo en España: de la Edad Media a Goya. Madrid: Cátedra
 
 PIGNATTI, T. (1982): El dibujo, de Altamira a Picasso. Madrid: Alianza
 
-✅ Recursos añadidos (0):
-------------------------------
-No hay elementos.
+Techniques:   A   Shading   Guide   for   Teachers   and   Students  (How  to  Draw  Cool  Stuff).  Library  Tales
+Publishing. MEZCUA LÓPEZ, A. J. (2014): La experiencia del paisaje en
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+✅ Recursos añadidos (2):
+------------------------------
+BORDES, J.; CABEZAS, L.; GÓMEZ, J. J. (2001): El manual de dibujo. Estrategias de su enseñanza en el
+siglo XX. Madrid: Cátedra
+
+CIVARDI, G. (2017): Drawing Statues. The Art of Drawing. Search Press
+
+📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]

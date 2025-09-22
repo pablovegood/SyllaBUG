@@ -21,13 +21,13 @@ BATINI, CERI, NAVATHE. Diseño Conceptual de Bases de Datos. Addison-Wesley /Dia
 C.J.   Date:   “Introducción   a  los  sistemas  de  bases  de  datos”.Prentice  Hall,  2001  [7ª  edición].  ISBN
 968-444-419-2
 
+Gary B. Shelly & Harry J. Rosenblatt: “Systems Analysis and Design”. Course Technology, 8th edition,
+2009. ISBN 0324597665
+
 Jeffrey   L.   Whitten,   Lonnie   D.  Bentley  &  Kevin  C.  Dittman:  “Systems  Analysis  and  Design  Methods”.
 McGraw-Hill, 5th edition, 2000. ISBN 0072315393
 
 KORTH H.F., SILBERSCHATZ (2014). Fundamentos de Bases de datos 6ª ed. Mc Graw Hill
-
-Olga   Pons,   Nicolás   Marín,   Juan   Miguel  Medina,  Silvia  Acid  y  Mª  Amparo  Vila:  “Introducción  a  las
-Bases de Datos: El modelo relacional”. Paraninfo, 2005. ISBN 8497323963
 
 Ramez A. Elmasri & Shamkant B. Navathe: “Fundamentos de Sistemas de Bases de Datos”, Addison-Wesley,
 2012, ISBN : 9788478290857
@@ -37,8 +37,8 @@ press New York USA
 
 ✅ Recursos añadidos (2):
 ------------------------------
-Gary B. Shelly & Harry J. Rosenblatt: “Systems Analysis and Design”. Course Technology, 8th edition,
-2009. ISBN 0324597665
+Olga   Pons,   Nicolás   Marín,   Juan   Miguel  Medina,  Silvia  Acid  y  Mª  Amparo  Vila:  “Introducción  a  las
+Bases de Datos: El modelo relacional”. Paraninfo, 2005. ISBN 8497323963
 
 Thomas   M.   Connolly   &   Carolyn   E.   Begg:   Database   Systems:   A   Practical   Approach   to   Design,
 Implementation, and Management, 6th Edition, Pearson, 2015

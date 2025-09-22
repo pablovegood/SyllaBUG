@@ -6,7 +6,7 @@ Grado: farmacia (204)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (29):
+📚 Recursos sin cambios (30):
 ------------------------------
 Barnum, S.R. Biotechnology. An introduction. Thomson Brooks/Cole. Belmont. USA. 2005
 
@@ -50,6 +50,8 @@ Herráez,   A.   Texto   Ilustrado  de  Biología  Molecular  e  Ingeniería  Ge
 2012
 
 Kayser, O. y Müller, R.H. (Eds). Pharmaceutical Biotechnology. Wiley Interscience. 2004
+
+LEGISLACIÓN RELEVANTE SOBRE ORGANISMOS MODIFICADOS GENÉTICAMENTE
 
 LEGISLACIÓN   RELEVANTE  SOBRE  ORGANISMOS  MODIFICADOS  GENÉTICAMENTE  Directiva  90/220/CE  del  Consejo  de
 23   de   abril  de  1990  sobre  la  liberación  intencional  en  el  medio  ambiente  de  organismos  modificados
@@ -113,10 +115,8 @@ York. 2003
 
 Walsh, G. Pharmaceutical Biotechnology: Concepts and Applications. Wiley. 2007
 
-✅ Recursos añadidos (1):
+✅ Recursos añadidos (0):
 ------------------------------
-Directiva   90/220/CE   del  Consejo  de  23  de  abril  de  1990  sobre  la  liberación  intencional  en  el  medio
-ambiente de organismos modificados genéticamente. Diario Oficial de las Comunidades Europeas (DOCE).
-08-05-1990
+No hay elementos.
 
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -74,20 +74,19 @@ Ken Schawber. Agile, Project Management with SCRUM. Microsoft Press, 2009
 Kent    Beck.   Una   explicación   de   la   Programación   Extrema:   Aceptar   el   Cambio.   Addison-Wesley
 Iberoamericana España, 2002
 
+Kieran Healy and Alan Schussman. The ecology of open source software development, 2003
+
 Mike   Cohn,   Succeeding   with   Agile:  Software  Development  Using  Scrum,  Addison-Wesley  Professional,
 2009
 
+Mike Cohn. Agile Estimating and Planning. Prentice Hall, 2006
+
 Mike Cohn. User Stories Applied. For Agile Software Development. Addison- Wesley, 2013
 
-Rober C. Martin.Desarrollo ágil esencial. Vuelta a las raíces. Anaya, 2020
+Ryan   Ripley,   Todd   Miller.   Fixing   your   Scrum:  Practical  solutions  to  common  Scrum  problems.  The
+Pragmatic Programmers, 2020
 
 Sommerville, I. Sawyer, P. Requirements Engineering. A good practice guide. Wiley, 2004
-
-Stephen   R.   Palmer,   John   Felsing,  A  Practical  Guide  to  Feature-Driven  Development,  Prentice  Hall,
-2002
-
-Susheela   Hooda   (Ed).   Agile   software  development:  trends,  changeless  and  applications.  John  Wiley
-&Sons, 2023
 
 Sutcliffe, A. User-Centred Requirements Engineering. Theory and Practice., Springer, 2002
 
@@ -103,11 +102,12 @@ Fowler, M. et al. Refactoring: Improving the Design of Existing Code. Addison-We
 GojKo   Adzir.   Specification   by   Example:   How  Successful  Teams  Deliver  the  Right  Software.  Manning
 Publications Co, 2011
 
-Kieran Healy and Alan Schussman. The ecology of open source software development, 2003
+Rober C. Martin.Desarrollo ágil esencial. Vuelta a las raíces. Anaya, 2020
 
-Mike Cohn. Agile Estimating and Planning. Prentice Hall, 2006
+Stephen   R.   Palmer,   John   Felsing,  A  Practical  Guide  to  Feature-Driven  Development,  Prentice  Hall,
+2002
 
-Ryan   Ripley,   Todd   Miller.   Fixing   your   Scrum:  Practical  solutions  to  common  Scrum  problems.  The
-Pragmatic Programmers, 2020
+Susheela   Hooda   (Ed).   Agile   software  development:  trends,  changeless  and  applications.  John  Wiley
+&Sons, 2023
 
 📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

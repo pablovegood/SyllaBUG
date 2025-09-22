@@ -8,7 +8,7 @@ Hilder,   RC.   Barlow,  D.  Polypeptide  and  protein  drugs:  production,  cha
 Ellis   Horwood,   New  York,  1991.    Mutshler,  E.  and  Derendorf,  H.  Drug  actions.  Basic  Principles  and
 Therapeutic Aspects. Ed. Medpharm, London,1995
 
-📚 Recursos sin cambios (12):
+📚 Recursos sin cambios (14):
 ------------------------------
 Aulton, M.E.Farmacia. La ciencia del diseño de las formas farmacéuticas. Elsevier. Madrid, 2006
 
@@ -28,6 +28,9 @@ Hickey,   J.   Inhalation  aerosol.  Physical  and  biological  basis  for  ther
 
 Hickey, J. Pharmaceutical inhalation aerosol technology Marcel Dekker, New York, 1992
 
+Mutshler, E. and Derendorf, H. Drug actions. Basic Principles and Therapeutic Aspects. Ed. Medpharm,
+London,1995
+
 Osol,   A.   (Ed.)   Remington,   Farmacia,   21ª   ed.  Vol.  1  y  2.  Editoriale  Medica  Panamericana.  Buenos
 Aires, 2005
 
@@ -36,19 +39,16 @@ Real Farmacopea Española, 5ª ed. Ministerio de Sanidad y Consumo. Madrid, 2015
 Swarbrick,   J.   y   Boyland,   J.C.  Encyclopedia  of  Pharmaceutical  Technology.  Vol.1-20  Marcel  Dekker,
 Inc. New York, 1988-2001
 
+Swetman. Martindale. Guía Completa de Consulta Farmaco-Terapéutica. 30ª Ed. Pharma editores. 2009
+
 Swetman.   Martindale.   Guía  Completa  de  Consulta  Farmaco-Terapéutica.  30ª  Ed.  Pharma  editores.  2009.
 Catálogo de especialidades farmacéuticas. Revistas
 
-✅ Recursos añadidos (4):
+✅ Recursos añadidos (2):
 ------------------------------
 Hilder,   RC.   Barlow,  D.  Polypeptide  and  protein  drugs:  production,  characterization  and  formulation
 Ellis Horwood, New York, 1991. 
 
-Mutshler, E. and Derendorf, H. Drug actions. Basic Principles and Therapeutic Aspects. Ed. Medpharm,
-London,1995
-
 Ruiz, Mª A. Manual de farmacia práctica. Edit. Universidad de Granada. Granada. 2003
 
-Swetman. Martindale. Guía Completa de Consulta Farmaco-Terapéutica. 30ª Ed. Pharma editores. 2009
-
-📊 Porcentaje estimado de cambio: 31% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 18% [█░░░░░░░░░]

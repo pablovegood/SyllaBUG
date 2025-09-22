@@ -13,11 +13,7 @@ principiantes.   Madrid:   Espasa-Calpe,  1972  HAYWOOD-NAHMAD.  Nueva  gramáti
 GAUDEFROY-DEMOMBINES,   M.   Grammaire   de   l'arabe   classique.   Paris:   Maisonneuve   et   Larose,  1952
 CORRIENTE CÓRDOBA, F. Gramática árabe. Barcelona: Herder, 1988
 
-📚 Recursos sin cambios (0):
-------------------------------
-No hay elementos.
-
-✅ Recursos añadidos (9):
+📚 Recursos sin cambios (8):
 ------------------------------
 ASÍN   PALACIOS,   M.   Crestomatía   de   árabe   literal   con  glosario  y  elementos  de  gramática,  Madrid:
 Maestre, 1959
@@ -31,12 +27,14 @@ CORRIENTE CÓRDOBA, F. Gramática árabe. Barcelona: Herder, 1988
 
 CORRIENTE, F. Gramática y textos árabes elementales. Madrid: Hiperión, 1990
 
-CORRIENTE, F. Introducción a la gramática y textos árabes. Madrid: Coloquio, 1986
-
 GARCÍA GÓMEZ, E. Antología árabe para principiantes. Madrid: Espasa-Calpe, 1972
 
 HAYWOOD-NAHMAD. Nueva gramática árabe. Madrid: Coloquio, 1992
 
 MORALES DELGADO, Antonio. Gramática árabe comentada. Almería: Albujayra, 2014
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+CORRIENTE, F. Introducción a la gramática y textos árabes. Madrid: Coloquio, 1986
+
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

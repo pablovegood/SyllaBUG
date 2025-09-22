@@ -9,7 +9,7 @@ dietética.   Ed.  Panamericana.  Madrid  MINISTERIO  DE  SANIDAD  Y  CONSUMO  (
 alimentos   españoles.   Ed.   Ministerio   de   Sanidad  y  Consumo.  Secretaría  General  Técnica.  Centro  de
 Publicaciones, Madrid
 
-📚 Recursos sin cambios (13):
+📚 Recursos sin cambios (14):
 ------------------------------
 BELLIDO   GUERRERO   D,  DE  LUÍS  ROMÁN  DA  (2006).  Manual  de  nutrición  y  metabolismo.  Ed.Díaz  de  Santos,
 Madrid
@@ -30,6 +30,9 @@ ergogénicas y dopaje (2011) Díaz de Santos: Fundación Universitaria Iberoamer
 
 MAHAN L K. Y ARLIN M. (2009). Nutrición y dietética de Krauser. 12ª ed.Elsevier Masson, Barcelona
 
+MARTINEZ   HERNÁNDEZ  A,PORTILLO  BAQUEDANO  M  DEL  P  (2011).  Fundamentos  teóricoprácticos  de  nutrición  y
+dietética. Ed. Panamericana. Madrid
+
 MELVIN H. W (2005).Nutrición para la salud, la condición física y el deporte. McGraw-Hill. México
 
 MUÑOZ   M.   ARANCETA   J.   GARCÍA   JALON   I.   (2004)   Nutrición   y   dietoterapia.  Ed.  EUNSA.  Ediciones
@@ -45,12 +48,9 @@ SENC (2001).Guías alimentarias para la población española. IM y C, S.A. Madri
 VAZQUEZ   C,   DE  COS  AI,  LOPEZ  NOMDEDEU  C  (2005).Alimentación  y  nutrición.  Manual  teóricopráctico,  2ª
 ed. Díaz de Santos, Madrid
 
-✅ Recursos añadidos (2):
+✅ Recursos añadidos (1):
 ------------------------------
-MARTINEZ   HERNÁNDEZ  A,PORTILLO  BAQUEDANO  M  DEL  P  (2011).  Fundamentos  teóricoprácticos  de  nutrición  y
-dietética. Ed. Panamericana. Madrid
-
 MINISTERIO   DE  SANIDAD  Y  CONSUMO  (1995).Tablas  de  composición  de  alimentos  españoles.  Ed.  Ministerio
 de Sanidad y Consumo. Secretaría General Técnica. Centro de Publicaciones, Madrid
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

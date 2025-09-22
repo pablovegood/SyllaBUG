@@ -11,8 +11,11 @@ STRUTHERS,   J.K.   Y   WESTERN,   R.P.   (2005)   Bacteriología  clínica.  Ma
 FUNKE,   B.R.   y   CAE,   C.L.   (2007)  Introducción  a  la  Microbiología  9ª  edición.  Panamericana.  Buenos
 Aires. Argentina
 
-📚 Recursos sin cambios (6):
+📚 Recursos sin cambios (8):
 ------------------------------
+GILGERT, D.N., MOLLERING, R.C., ELIOPOLUS,G.M., CHAMBERS, H.F. y SAAG, M. 2013. La guía Sanford para
+el tratamiento antimicrobiano 43 Edición (http://webedition.sanfordguide.com)
+
 La   guía   Sanford  para  el  tratamiento  antimicrobiano  43  Edición  (http://webedition.sanfordguide.com)
 MIMS,   C.,   DOCKRELL,   H.M.,   ROITT,  I.  WALKELIN,  D.,  ZUCKERMAN,  M.  (2004).  Medical  Microbiology  3rd
 edition. Elsevier Mosby. Spain
@@ -33,17 +36,14 @@ Mosby, España
 Madrid   PRESCOTT,   L.M.,  HARLEY,  J.P.  y  KLEIN,  D.A.  (2009).  Microbiología  7ª  edición.  Mac  Graw  Hill.
 Madrid
 
-✅ Recursos añadidos (4):
-------------------------------
-GILGERT, D.N., MOLLERING, R.C., ELIOPOLUS,G.M., CHAMBERS, H.F. y SAAG, M. 2013. La guía Sanford para
-el tratamiento antimicrobiano 43 Edición (http://webedition.sanfordguide.com)
+STRUTHERS, J.K. Y WESTERN, R.P. (2005) Bacteriología clínica. Masson, Barcelona
 
+✅ Recursos añadidos (2):
+------------------------------
 SHORS,   T.   2010.   Virus.   Estudio  molecular  con  orientación  clínica.  Editorial  Médica  Panamericana.
 Madrid
-
-STRUTHERS, J.K. Y WESTERN, R.P. (2005) Bacteriología clínica. Masson, Barcelona
 
 TORTORA,   G.J.,   FUNKE,   B.R.   y   CAE,   C.L.   (2007)   Introducción   a   la   Microbiología  9ª  edición.
 Panamericana. Buenos Aires. Argentina
 
-📊 Porcentaje estimado de cambio: 60% [██████░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

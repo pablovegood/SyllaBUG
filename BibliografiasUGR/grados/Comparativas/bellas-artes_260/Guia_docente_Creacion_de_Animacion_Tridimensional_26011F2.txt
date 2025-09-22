@@ -2,32 +2,49 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados (13):
+❌ Recursos eliminados (24):
 ------------------------------
+ALDEN, Andrew. Time-Iapse and Stopmotion animation using the Bolex H16. www.bolex.co.uk
+
+BRIERTON, Tom. Stopmotion armature machining. A construction manual. McFarland & Company. 2002
+
+CORSARO, S y PARROTT, C. (2004). Hollywood 2D digital animation. Thomson Course Technology
+
 COTTE, O. (2009) Los Óscar de dibujos animados. Ed. Omega
 
 CUETO,   R   (2013).   Animatropía.  Los  nuevos  caminos  del  cine  de  animación.  Festival  Internacional  de
 Cine de Donostia
 
+DÍAZ MAROTO, Carlos. Ray Harryhausen. El mago del stop-motion. Calamar Ediciones
+
 GASEK, T. (2012) Frame-to-Frame stop motion.The guide to non-traditional animation techniques. Focal
-Press-Elsevier   HESS,   R.   (2012)  Blender  production.  Creating  shot  animations  from  start  to  finish.
-Focal Press-Elsevier MENDOZA, E. (2020) Modeling and Animation using blender. Standard Apress
+Press-Elsevier
 
-HARRYHAUSEN,   Ray.   Film   Fantasy   Scrapbook.  Titan  books,  1989  LORD,  Peter  y  SIBLEY,  Brian.  Craking
-animation. Thames & Hudson. 1998
+HARRYHAUSEN, Ray. Film Fantasy Scrapbook. Titan books, 1989
 
-Maia   Ediciones.   2009  RAY  HARRYHAUSEN,  Creador  de  monstruos.  Catálogo  de  exposición  en  la  Fundación
-Luis Seoane
+HESS,   R.   (2012)   Blender   production.   Creating  shot  animations  from  start  to  finish.  Focal  Press-
+Elsevier
+
+LORD, Peter y SIBLEY, Brian. Craking animation. Thames & Hudson. 1998
+
+MENDOZA, E. (2020) Modeling and Animation using blender. Standard Apress
 
 PERTÍÑEZ, J. (2010) Técnicas básicas de stopmotion. Ed. Godel
 
 PETTIGREW,   Neil.   The   Stopmotion   filmography.   A   critical   guide   to   297   features  using  puppet
-animatíon.    McFarland   &   Company.   2008   PURVES,   Barry   J.C.   Stopmotion.   Passion,   process   and
-performance.   Focal   Press.2008  PURVES,  Barry.  Stop  motion.  Blume  Animación.  2011  RAMOS,  Miguel  A.  y
-RUIZ DE SAMANIEGO, A. Ray Harryhausen, Creador de Monstruos
+animatíon. McFarland & Company. 2008
 
-SAN,   H.   Eevee   rendering   engine.   Blender   SHAW,   S.   (2005).   Stopmotion.  Craft  skills  for  model
-animation. Focal Press
+PURVES, Barry J.C. Stopmotion. Passion, process and performance. Focal Press.2008
+
+PURVES, Barry. Stop motion. Blume Animación. 2011
+
+RAMOS, Miguel A. y RUIZ DE SAMANIEGO, A. Ray Harryhausen, Creador de Monstruos. Maia Ediciones. 2009
+
+RAY HARRYHAUSEN, Creador de monstruos. Catálogo de exposición en la Fundación Luis Seoane
+
+SAN, H. Eevee rendering engine. Blender
+
+SHAW, S. (2005). Stopmotion. Craft skills for model animation. Focal Press
 
 THOMPSON,   frank.   Tim   Burton's   Nightmare   before  Christmas:  the  film.  the  art,  the  vision.  Disney
 Press. 2002
@@ -35,16 +52,13 @@ Press. 2002
 WELLs,   Paul  y  HARDSTAFF,  Johnny.  Re-Imagining  animation.  The  changing  face  of  the  moving  image.  AVA
 Publishing, 2008
 
-WHITAKER, Harold y HALAS, John. Timing for animation. Focal Press.1981 ALDEN, Andrew. Time-Iapse and
-Stopmotion animation using the Bolex H16
+WHITAKER, Harold y HALAS, John. Timing for animation. Focal Press.1981
 
 WIGAN,   Mark.  (2008)  Imágenes  en  secuencia.  Animación,  storyboards,  videojuegos,  títulos  de  crédito,
-cinematografía,   mash-ups...  Gustavo  Gili.  Barcelona  WYATT,  A.  (2010)  The  complete  digital  animation
-course: The principles, practice and techniques of successful digital animation. Thames & Hudson
+cinematografía, mash-ups... Gustavo Gili. Barcelona
 
-www.bolex.co.uk   BRIERTON,   Tom.   Stopmotion   armature  machining.  A  construction  manual.  McFarland  &
-Company.   2002   CORSARO,   S   y   PARROTT,   C.   (2004).  Hollywood  2D  digital  animation.  Thomson  Course
-Technology DÍAZ MAROTO, Carlos. Ray Harryhausen. El mago del stop-motion. Calamar Ediciones
+WYATT,   A.   (2010)  The  complete  digital  animation  course:  The  principles,  practice  and  techniques  of
+successful digital animation. Thames & Hudson
 
 📚 Recursos sin cambios (0):
 ------------------------------

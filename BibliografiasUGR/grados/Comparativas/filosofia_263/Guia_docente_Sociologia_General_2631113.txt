@@ -2,13 +2,8 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados (10):
+❌ Recursos eliminados (9):
 ------------------------------
-Antologías   de   textos   BERIAIN,   J.   &   J.   L.   ITURRATE   (eds.)   (2008)Para   comprender   la  teoría
-sociológica. EVD. CALHOUN, C. et al. (eds.) (2012)Contemporary Sociological Theory. Wiley-Blackwell.
-IGLESIAS, M. C., J. RODRÍGUEZ ARAMBERRI & L. RODRÍGUEZ ZÚÑIGA (eds.) (2006)Los orígenes de la teoría
-sociológica. Akal
-
 BOURDIEU, P. (2020 [2015])Curso de sociología general I. Conceptos fundamentales. Siglo XXI
 
 Diccionarios   GINER,   S.,   E.   LAMO   DE   ESPINOSA   &   C.   TORRES   ALBERO  (eds.)  (2013)Diccionario  de
@@ -33,8 +28,12 @@ T.   &   R.  NISBET  (eds.)  (1988  [1979])Historia  del  análisis  sociológic
 Cambridge University Press. LENGERMANN, P. & G. NIEBRUGGE (eds.) (2019)Fundadoras de la sociología y
 la teoría social 1830-1930. CIS
 
-Introducciones   BERGER,   Peter  L.  (2013  [1963])Introducción  a  la  sociología.  Limusa.  ELIAS,  N.  (2008
-[1970])Sociología fundamental. Gedisa. WRIGHT MILLS, C. (1993 [1959])La imaginación sociológica. FCE
+Investigación   social   BECKER,   H.   (2011   [1998])Trucos   del   oficio.   Siglo   XXI.  BOUSO  FREIJO,  J.
+(2016)Análisis   online   del   Banco   de   Datos   del   CIS.   CIS.   BUENO   DE   MESQUITA,   E.  &  A.  FOWLER
+(2021)Thinking   Clearly   with   Data.   A   Guide   to   Quantitative   Reasoning   and  Analysis.  Princeton
+University   Press.   MARTÍNEZ   PASTOR,  J.  I.  (2019)Los  datos  sin  tapujos.  Cómo  interpretar  y  difundir
+las   estadísticas   sociales.   Catarata.   QUIVY,   R.   &   L.   VAN   CAMPENHOUDT   (2009  [1988])Manual  de
+investigación en ciencias sociales. Limusa
 
 Manuales   GIDDENS,   A.   &  Ph.  W.  SUTTON  (2014)Sociología.  Alianza.  IGLESIAS,  J.,  A.  TRINIDAD  &  R.  M.
 SORIANO   (coords.)   (2016)La   sociedad   desde   la   sociología.   Tecnos.  MACIONIS,  J.  J.  &  K.  PLUMMER
@@ -45,28 +44,85 @@ SORIANO   (coords.)   (2016)La   sociedad   desde   la   sociología.   Tecnos. 
 ARAMBERRI   &   L.   RODRÍGUEZ   ZÚÑIGA   (eds.)   (2006)Los   orígenes  de  la  teoría  sociológica.  Akal,  pp.
 192-198. -El espíritu corporativo, G. PALANTE (2014 [1899]). Piedra Papel Libros, pp. 9-19
 
-📚 Recursos sin cambios (21):
+📚 Recursos sin cambios (48):
 ------------------------------
 ARON, R. (2015 [1967])Las etapas del pensamiento sociológico. Tecnos
+
+Además, el estudiantado elegirá para las sesiones prácticas una opción entre las siguientes
+
+Antologías   de   textos   BERIAIN,   J.   &   J.   L.   ITURRATE   (eds.)   (2008)Para   comprender   la  teoría
+sociológica. EVD. CALHOUN, C. et al. (eds.) (2012)Contemporary Sociological Theory. Wiley-Blackwell.
+IGLESIAS, M. C., J. RODRÍGUEZ ARAMBERRI & L. RODRÍGUEZ ZÚÑIGA (eds.) (2006)Los orígenes de la teoría
+sociológica. Akal
+
+BECKER, H. (2011 [1998])Trucos del oficio. Siglo XXI
+
+BELTRÁN, M. (2001 [1979])Ciencia y sociología. Siglo XXI
+
+BERGER, Peter L. (2013 [1963])Introducción a la sociología. Limusa
+
+BERIAIN, J. & J. L. ITURRATE (eds.) (2008)Para comprender la teoría sociológica. EVD
+
+BOTTOMORE, T. & R. NISBET (eds.) (1988 [1979])Historia del análisis sociológico. Amorrortu
+
+BUENO   DE   MESQUITA,   E.   &   A.   FOWLER   (2021)Thinking   Clearly   with  Data.  A  Guide  to  Quantitative
+Reasoning and Analysis. Princeton University Press
+
+CALHOUN, C. et al. (eds.) (2012)Contemporary Sociological Theory. Wiley-Blackwell
+
+DE   LA   GARZA,   E.   &   G.   LEYVA   (eds.)   (2012)Tratado   de   metodología   de   las  ciencias  sociales:
+perspectivas actuales. FCE
+
+ELIAS, N. (2008 [1970])Sociología fundamental. Gedisa
 
 ELSTER,   J.   (2010)   La   explicación   del   comportamiento   social.   Más  tuercas  y  tornillos  para  las
 ciencias sociales. Gedisa
 
+Filosofía y metodología
+
+GIDDENS, A. & Ph. W. SUTTON (2014)Sociología. Alianza
+
+GINER, S., E. LAMO DE ESPINOSA & C. TORRES ALBERO (eds.) (2013)Diccionario de sociología. Alianza
+
 GOLDTHORPE, J. H. (2017) La sociología como ciencia de la población. Alianza
 
-Investigación   social   BECKER,   H.   (2011   [1998])Trucos   del   oficio.   Siglo   XXI.  BOUSO  FREIJO,  J.
-(2016)Análisis   online   del   Banco   de   Datos   del   CIS.   CIS.   BUENO   DE   MESQUITA,   E.  &  A.  FOWLER
-(2021)Thinking   Clearly   with   Data.   A   Guide   to   Quantitative   Reasoning   and  Analysis.  Princeton
-University   Press.   MARTÍNEZ   PASTOR,  J.  I.  (2019)Los  datos  sin  tapujos.  Cómo  interpretar  y  difundir
-las   estadísticas   sociales.   Catarata.   QUIVY,   R.   &   L.   VAN   CAMPENHOUDT   (2009  [1988])Manual  de
-investigación en ciencias sociales. Limusa
+GOLDTHORPE, J. H. (2021)Pioneers of the Sociological Science. Statistical Foundations and the Theory
+of Action. Cambridge University Press
+
+HILLMANN, K-H. (2005)Diccionario enciclopédico de sociología. Herder
+
+IGLESIAS, J., A. TRINIDAD & R. M. SORIANO (coords.) (2016)La sociedad desde la sociología. Tecnos
+
+IGLESIAS, M. C., J. RODRÍGUEZ ARAMBERRI & L. RODRÍGUEZ ZÚÑIGA (eds.) (2006)Los orígenes de la teoría
+sociológica. Akal
+
+Introducciones   BERGER,   Peter  L.  (2013  [1963])Introducción  a  la  sociología.  Limusa.  ELIAS,  N.  (2008
+[1970])Sociología fundamental. Gedisa. WRIGHT MILLS, C. (1993 [1959])La imaginación sociológica. FCE
+
+Investigación social
 
 JOAS, H. & W. KNÖBL (2016)Teoría social: veinte lecciones introductorias. Akal
+
+LENGERMANN, P. & G. NIEBRUGGE (eds.) (2019)Fundadoras de la sociología y la teoría social 1830-1930.
+CIS
+
+MARDONES, J. M. (1994)Filosofía de las ciencias humanas y sociales. Anthropos
+
+MARTÍNEZ   PASTOR,   J.   I.   (2019)Los  datos  sin  tapujos.  Cómo  interpretar  y  difundir  las  estadísticas
+sociales. Catarata
 
 PABLOS   RAMÍREZ,   J.   C.   de  (2022)  Un  mapa  de  la  realidad  social.  Categorías  centrales  de  la  teoría
 sociológica. Centro de Estudios Andaluces
 
-Se emplearán como referencias básicas
+POTTER, G. (2016)The Philosophy of Social Science: New Perspectives. 2ª edición. Routledge
+
+REYES, R. (ed.) (2008)Diccionario crítico de ciencias sociales. Plaza y Valdés
+
+ROCHER, G. (2006 [1969])Introducción a la sociología general. Herder
+
+WINCH, P. (1990 )Ciencia social y filosofía. Amorrortu
+
+WRIGHT MILLS, C. (1993 [1959])La imaginación sociológica. FCE
 
 ZEITLIN,   I.  (2006  [1968)]Ideología  y  teoría  sociológica.  Amorrortu.  Además,  el  estudiantado  elegirá
 para las sesiones prácticas una opción entre las siguientes
@@ -106,94 +162,36 @@ PESTAÑA (2013)La norma de la filosofía. Siglo XXI, pp. 17-44
 “Towards   a   revival   of   the   normative   in   the  sociology  of  knowledge”,  en  S.  FULLER  (2002)Social
 Epistemology, pp. 263-275
 
-✅ Recursos añadidos (39):
-------------------------------
-AZOFRA, M. J. (2000) Cuestionarios. CIS
-
-Antologías de textos
-
-BAERT, P. & F. CARREIRA DA SILVA (2011)La teoría social contemporánea. Alianza
-
-BECKER, H. (2011 [1998])Trucos del oficio. Siglo XXI
-
-BELTRÁN, M. (2001 [1979])Ciencia y sociología. Siglo XXI
-
-BENZECRY,   C.   E.,   M.   KRAUSE  &  I.  A.  REED  (2019)La  teoría  social,  ahora.  Nuevas  corrientes,  nuevas
-discusiones. Siglo XXI
-
-BERGER, Peter L. (2013 [1963])Introducción a la sociología. Limusa
-
-BERIAIN, J. & J. L. ITURRATE (eds.) (2008)Para comprender la teoría sociológica. EVD
-
-BOTTOMORE, T. & R. NISBET (eds.) (1988 [1979])Historia del análisis sociológico. Amorrortu
-
-BUENO   DE   MESQUITA,   E.   &   A.   FOWLER   (2021)Thinking   Clearly   with  Data.  A  Guide  to  Quantitative
-Reasoning and Analysis. Princeton University Press
-
-CALHOUN, C. et al. (eds.) (2012)Contemporary Sociological Theory. Wiley-Blackwell
-
-DE   LA   GARZA,   E.   &   G.   LEYVA   (eds.)   (2012)Tratado   de   metodología   de   las  ciencias  sociales:
-perspectivas actuales. FCE
-
-Diccionarios
-
-ELIAS, N. (2008 [1970])Sociología fundamental. Gedisa
-
-El espíritu corporativo, G. PALANTE (2014 [1899]). Piedra Papel Libros, pp. 9-19
-
-Filosofía y metodología
-
-GIDDENS, A. & Ph. W. SUTTON (2014)Sociología. Alianza
-
-GINER, S., E. LAMO DE ESPINOSA & C. TORRES ALBERO (eds.) (2013)Diccionario de sociología. Alianza
-
-GOLDTHORPE, J. H. (2021)Pioneers of the Sociological Science. Statistical Foundations and the Theory
-of Action. Cambridge University Press
-
-HILLMANN, K-H. (2005)Diccionario enciclopédico de sociología. Herder
-
-HOLLIS, M. (1998)Filosofía de las ciencias sociales. Ariel
-
-IGLESIAS, J., A. TRINIDAD & R. M. SORIANO (coords.) (2016)La sociedad desde la sociología. Tecnos
-
-IGLESIAS, M. C., J. RODRÍGUEZ ARAMBERRI & L. RODRÍGUEZ ZÚÑIGA (eds.) (2006)Los orígenes de la teoría
-sociológica. Akal
-
-Introducciones
-
-LENGERMANN, P. & G. NIEBRUGGE (eds.) (2019)Fundadoras de la sociología y la teoría social 1830-1930.
-CIS
-
-MACIONIS, J. J. & K. PLUMMER (2011)Sociología. Pearson
-
-MARDONES, J. M. (1994)Filosofía de las ciencias humanas y sociales. Anthropos
-
-MARTÍNEZ   PASTOR,   J.   I.   (2019)Los  datos  sin  tapujos.  Cómo  interpretar  y  difundir  las  estadísticas
-sociales. Catarata
-
-OUTHWAITE, W. (ed.) (2003)The Blackwell Dictionary of Modern Social Thought. Blackwell
-
-POTTER, G. (2016)The Philosophy of Social Science: New Perspectives. 2ª edición. Routledge
-
-QUIVY, R. & L. VAN CAMPENHOUDT (2009 [1988])Manual de investigación en ciencias sociales. Limusa
-
-REYES, R. (ed.) (2008)Diccionario crítico de ciencias sociales. Plaza y Valdés
-
-ROCHER, G. (2006 [1969])Introducción a la sociología general. Herder
-
-WINCH, P. (1990 )Ciencia social y filosofía. Amorrortu
-
-WRIGHT MILLS, C. (1993 [1959])La imaginación sociológica. FCE
-
-ZEITLIN, I. (2006 [1968)] Ideología y teoría sociológica. Amorrortu
-
-b) NASSEHI, A. (2024) Patterns: theory of the digital society. Polity Press
-
-f) BECKER, HOWARD (2013) Outsiders: hacia una sociología de la desviación. Siglo XXI
-
 “¿Qué es un hecho social?”, en E. DURKHEIM (1997 [1895])Las reglas del método sociológico. Akal, pp.
 56-68,   y  “La  obligación  social”  (Hegel,Fenomenología  del  Espíritu),  en  M.  C.  IGLESIAS,  J.  RODRÍGUEZ
 ARAMBERRI   &   L.   RODRÍGUEZ   ZÚÑIGA   (eds.)   (2006)Los   orígenes  de  la  teoría  sociológica.  Akal,  pp.
 192-198
 
-📊 Porcentaje estimado de cambio: 81% [████████░░]
+✅ Recursos añadidos (12):
+------------------------------
+AZOFRA, M. J. (2000) Cuestionarios. CIS
+
+BAERT, P. & F. CARREIRA DA SILVA (2011)La teoría social contemporánea. Alianza
+
+BENZECRY,   C.   E.,   M.   KRAUSE  &  I.  A.  REED  (2019)La  teoría  social,  ahora.  Nuevas  corrientes,  nuevas
+discusiones. Siglo XXI
+
+Diccionarios
+
+El espíritu corporativo, G. PALANTE (2014 [1899]). Piedra Papel Libros, pp. 9-19
+
+HOLLIS, M. (1998)Filosofía de las ciencias sociales. Ariel
+
+MACIONIS, J. J. & K. PLUMMER (2011)Sociología. Pearson
+
+OUTHWAITE, W. (ed.) (2003)The Blackwell Dictionary of Modern Social Thought. Blackwell
+
+QUIVY, R. & L. VAN CAMPENHOUDT (2009 [1988])Manual de investigación en ciencias sociales. Limusa
+
+Se emplearán como referencias básicas
+
+b) NASSEHI, A. (2024) Patterns: theory of the digital society. Polity Press
+
+f) BECKER, HOWARD (2013) Outsiders: hacia una sociología de la desviación. Siglo XXI
+
+📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]

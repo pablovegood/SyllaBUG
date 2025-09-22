@@ -2,63 +2,39 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados (2):
+❌ Recursos eliminados (3):
 ------------------------------
-Galván,   G.,   Guilles   Deleuze:   ontología,   pensamiento   y   lenguaje,   editorial  Zourabichvili,  F.,
-Deleuze. Una filosofía del acontecimiento, Buenos Aires, Amorrortu, 2004
+Deleuze,   G.   Diferencia  y  repetición,  Buenos  Aires,  Amorrortu,  2002.  Lógica  del  sentido,  Barcelona,
+Paidós,   1994.   (con   F.   Guattari),   ¿Qué   es   la   filosofía?,   Barcelona,   Anagrama,  1993.  (con  F.
+Guattari), Mil Mesetas. Capitalismo y esquizofrenia, Valencia, Pre-textos, 1988. El pliegue: Leibniz
+y el barroco, Barcelona, Paidós, 1989. Sobre H. Bergson
 
-Sobre H. Bergson Deleuze, G., El bergsonismo, Buenos Aires, Cactus, 2017
+Deleuze, G., El bergsonismo, Buenos Aires, Cactus, 2017. Ruiz Jiménez, J.M./
 
-📚 Recursos sin cambios (18):
+Zourabichvili,   F.,   Deleuze.   Una  filosofía  del  acontecimiento,  Buenos  Aires,  Amorrortu,  2004.  Sáez
+Rueda,   L,   «Ser,   nada   y   diferencia.   El   nihilismo  nómada  de  G.  Deleuze,  más  allá  de  Nietzsche  y
+Heidegger», en Sáez Rueda/De la Higuera (eds.), Pensar la nada. Ensayos sobre filosofía y nihilismo,
+Madrid, Biblioteca Nueva, 2007 [http://www.ugr.es/~lsaez/cv/Deleuze_Pensarlanada.pdf]
+
+📚 Recursos sin cambios (24):
 ------------------------------
 (con F. Guattari), Mil Mesetas. Capitalismo y esquizofrenia, Valencia, Pre-textos, 1988
 
 (con F. Guattari), ¿Qué es la filosofía?, Barcelona, Anagrama, 1993
 
-Badiou, A., Deleuze, Deleuze. El clamor del ser, Buenos Aires, Manantial, 2002
+Aragüés, J.M. (coord.), Gilles Deleuze, un pensamiento nómada, Zaragoza, Mira Editores, 1997
 
-Canales,   J.,  El  físico  y  el  filósofo.  Albert  Einstein,  Henri  Bergson  y  el  debate  que  cambió  nuestra
-comprensión del tiempo, Barcelona, ed. Arpa, 2020
+Badiou, A., Deleuze, Deleuze. El clamor del ser, Buenos Aires, Manantial, 2002. Galván, G., Guilles
 
-De   acuerdo  con  el  hilo  conductor  del  aprendizaje,  el  profesor  irá  aconsejando  capítulos  específicos
-o páginas selectas de los textos siguientes: Bergson, H
-
-Diferencia y repetición, Buenos Aires, Amorrortu, 2002
-
-El modo de existencia de los objetos técnicos, Buenos Aires, Prometeo, 2018. Deleuze, G
-
-El pliegue: Leibniz y el barroco, Barcelona, Paidós, 1989
-
-Ensayo sobre los datos inmediatos de la conciencia, Salamanca, Sígueme, 2006
-
-La individuación a la luz de las nociones de forma y de información, Buenos Aires, Cactus, 2025
-
-Las dos fuentes de la moral y de la religión, Madrid, Trotta, 2020. Simondon, G
-
-Lógica del sentido, Barcelona, Paidós, 1994
-
-Materia y Memoria, Salamanca, Sígueme, 2021
-
-Montoya   Santamaría,   J.W.,   La   individuación   y  la  técnica  en  la  obra  de  Simondon,  Bogotá,  Aula  de
-Humanidades, 2019
-
-Ruiz Jiménez, J.M./Andrade, J.J., Pensar con Bergson, Colombia, Universidad del Norte, 2021
-
-Sobre   G.   Deleuze   Aragüés,   J.M.   (coord.),   Gilles  Deleuze,  un  pensamiento  nómada,  Zaragoza,  Mira
-Editores, 1997
-
-Sobre   G.   Simondon  Rodríguez  Alonso,  G.,  La  hipótesis  allagmática.  Ontología  de  la  individuación  en
-el pensamiento de Gilbert Simondon, Universidad de Santiago de Compostela, 2023
-
-Sáez   Rueda,   L,  «Ser,  nada  y  diferencia.  El  nihilismo  nómada  de  G.  Deleuze,  más  allá  de  Nietzsche  y
-Heidegger», en Sáez Rueda/De la Higuera (eds.), Pensar la nada. Ensayos sobre filosofía y nihilismo,
-Madrid, Biblioteca Nueva, 2007 [http://www.ugr.es/~lsaez/cv/Deleuze_Pensarlanada.pdf]
-
-✅ Recursos añadidos (9):
-------------------------------
 Bergson,   H.  Ensayo  sobre  los  datos  inmediatos  de  la  conciencia,  Salamanca,  Sígueme,  2006.  Materia  y
 Memoria,   Salamanca,   Sígueme,   2021.   Las  dos  fuentes  de  la  moral  y  de  la  religión,  Madrid,  Trotta,
 2020
+
+Canales,   J.,  El  físico  y  el  filósofo.  Albert  Einstein,  Henri  Bergson  y  el  debate  que  cambió  nuestra
+comprensión del tiempo, Barcelona, ed. Arpa, 2020. Sobre G. Simondon Rodríguez
+
+De   acuerdo  con  el  hilo  conductor  del  aprendizaje,  el  profesor  irá  aconsejando  capítulos  específicos
+o páginas selectas de los textos siguientes
 
 Deleuze,   G.   Diferencia  y  repetición,  Buenos  Aires,  Amorrortu,  2002.  Lógica  del  sentido,  Barcelona,
 Paidós,   1994.   (con   F.   Guattari),   ¿Qué   es   la   filosofía?,   Barcelona,   Anagrama,  1993.  (con  F.
@@ -67,11 +43,47 @@ y el barroco, Barcelona, Paidós, 1989
 
 Deleuze, G., El bergsonismo, Buenos Aires, Cactus, 2017
 
+El modo de existencia de los objetos técnicos, Buenos Aires, Prometeo, 2018
+
+El pliegue: Leibniz y el barroco, Barcelona, Paidós, 1989
+
+Ensayo sobre los datos inmediatos de la conciencia, Salamanca, Sígueme, 2006
+
 Galván,   G.,   Guilles   Deleuze:  ontología,  pensamiento  y  lenguaje,  editorial  Universidad  de  Granada,
 2007
 
+La individuación a la luz de las nociones de forma y de información, Buenos Aires, Cactus, 2025
+
+Las dos fuentes de la moral y de la religión, Madrid, Trotta, 2020
+
+Lógica del sentido, Barcelona, Paidós, 1994
+
+Materia y Memoria, Salamanca, Sígueme, 2021
+
+Rodríguez   Alonso,   G.,  La  hipótesis  allagmática.  Ontología  de  la  individuación  en  el  pensamiento  de
+Gilbert Simondon, Universidad de Santiago de Compostela, 2023
+
+Ruiz Jiménez, J.M./Andrade, J.J., Pensar con Bergson, Colombia, Universidad del Norte, 2021
+
+Santamaría, J.W., La individuación y la técnica en la obra de Simondon, Bogotá, Aula de Humanidades,
+2019. Sobre G. Deleuze
+
 Simondon,   G.   La   individuación   a   la  luz  de  las  nociones  de  forma  y  de  información,  Buenos  Aires,
 Cactus, 2025. El modo de existencia de los objetos técnicos, Buenos Aires, Prometeo, 2018
+
+Sobre   G.   Simondon  Rodríguez  Alonso,  G.,  La  hipótesis  allagmática.  Ontología  de  la  individuación  en
+el pensamiento de Gilbert Simondon, Universidad de Santiago de Compostela, 2023. Montoya Santamaría,
+J.W., La individuación y la técnica en la obra de Simondon, Bogotá, Aula de Humanidades, 2019
+
+Sáez   Rueda,   L,  «Ser,  nada  y  diferencia.  El  nihilismo  nómada  de  G.  Deleuze,  más  allá  de  Nietzsche  y
+Heidegger», en Sáez Rueda/De la Higuera (eds.), Pensar la nada. Ensayos sobre filosofía y nihilismo,
+Madrid, Biblioteca Nueva, 2007 [http://www.ugr.es/~lsaez/cv/Deleuze_Pensarlanada.pdf]
+
+Zourabichvili, F., Deleuze. Una filosofía del acontecimiento, Buenos Aires, Amorrortu, 2004
+
+✅ Recursos añadidos (3):
+------------------------------
+Diferencia y repetición, Buenos Aires, Amorrortu, 2002
 
 Sobre   G.   Deleuze   Aragüés,   J.M.   (coord.),   Gilles  Deleuze,  un  pensamiento  nómada,  Zaragoza,  Mira
 Editores,   1997.   Badiou,   A.,   Deleuze,   Deleuze.  El  clamor  del  ser,  Buenos  Aires,  Manantial,  2002.
@@ -81,15 +93,9 @@ Sáez   Rueda,   L,  «Ser,  nada  y  diferencia.  El  nihilismo  nómada  de  G
 Heidegger», en Sáez Rueda/De la Higuera (eds.), Pensar la nada. Ensayos sobre filosofía y nihilismo,
 Madrid, Biblioteca Nueva, 2007 [http://www.ugr.es/~lsaez/cv/Deleuze_Pensarlanada.pdf]
 
-Sobre   G.   Simondon  Rodríguez  Alonso,  G.,  La  hipótesis  allagmática.  Ontología  de  la  individuación  en
-el pensamiento de Gilbert Simondon, Universidad de Santiago de Compostela, 2023. Montoya Santamaría,
-J.W., La individuación y la técnica en la obra de Simondon, Bogotá, Aula de Humanidades, 2019
-
 Sobre    H.   Bergson   Deleuze,   G.,   El   bergsonismo,   Buenos   Aires,   Cactus,   2017.   Ruiz   Jiménez,
 J.M./Andrade,   J.J.,   Pensar   con   Bergson,   Colombia,   Universidad  del  Norte,  2021.  Canales,  J.,  El
 físico   y  el  filósofo.  Albert  Einstein,  Henri  Bergson  y  el  debate  que  cambió  nuestra  comprensión  del
 tiempo, Barcelona, ed. Arpa, 2020
 
-Zourabichvili, F., Deleuze. Una filosofía del acontecimiento, Buenos Aires, Amorrortu, 2004
-
-📊 Porcentaje estimado de cambio: 40% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

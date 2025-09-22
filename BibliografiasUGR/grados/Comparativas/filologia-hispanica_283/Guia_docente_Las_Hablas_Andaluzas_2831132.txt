@@ -11,7 +11,7 @@ SALVADOR,   F.   (1978):   Neutralización   de  l/r  explosivas  agrupadas  y  
 (1957-1959):   «El  habla  de  Cúllar-Baza.  Contribución  a  la  frontera  del  dialecto  andaluz»,  Revista  de
 Filología Española, 41, págs. 161-252 y RFE, 42, págs. 37-89
 
-📚 Recursos sin cambios (37):
+📚 Recursos sin cambios (39):
 ------------------------------
 ALARCOS,   E.   (1958):   «Fonología   y   fonética   (a  propósito  de  las  vocales  andaluzas)»,  AO  6,  págs.
 193-205
@@ -101,8 +101,13 @@ NARBONA, A. (coord.) (2009): La identidad lingüística de Andalucía, Sevilla, 
 
 NARBONA, A., R. CANO y R. MORILLO (1998): El español hablado en Andalucía,Barcelona, Ariel
 
+NARBONA, A., et alii(1998): El español hablado en Andalucía, Barcelona, Ariel
+
 SALVADOR,   G.   (1953):  «Aragonesismos  en  el  andaluz  oriental»,  en  Archivo  de  Filología  Aragonesa,  5,
 págs. 143-165
+
+SALVADOR,   G.   (1957-1959):   «El   habla   de   Cúllar-Baza.   Contribución   a   la  frontera  del  dialecto
+andaluz», Revista de Filología Española, 41, págs. 161-252 y RFE, 42, págs. 37-89
 
 SALVADOR, G. (1977): «Unidades fonológicas vocálicas en el andaluz oriental», RSEL, 7.1, págs. 1-21
 
@@ -110,17 +115,12 @@ SALVADOR, G. (1987): Estudios dialectológicos, Madrid, Paraninfo
 
 ZAMORA VICENTE, A. (1970): «Andaluz», en Dialectología española, Madrid, Gredos, págs. 287-331
 
-✅ Recursos añadidos (4):
+✅ Recursos añadidos (2):
 ------------------------------
 MOYA   CORRAL,   J.   A.   y   E.   GARCÍA   WIDEMAN   (1995):   El   habla  de  Granada  y  sus  barrios,  Granada,
 Universidad de Granada
 
-NARBONA, A., et alii(1998): El español hablado en Andalucía, Barcelona, Ariel
-
 SALVADOR,   F.   (1978):   Neutralización   de   l/r   explosivas   agrupadas   y  su  área  andaluza,  Granada,
 Universidad de Granada
 
-SALVADOR,   G.   (1957-1959):   «El   habla   de   Cúllar-Baza.   Contribución   a   la  frontera  del  dialecto
-andaluz», Revista de Filología Española, 41, págs. 161-252 y RFE, 42, págs. 37-89
-
-📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

@@ -2,35 +2,35 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (1):
+❌ Recursos eliminados (0):
 ------------------------------
-Pearson,   2019   A.Garrido.   "Prácticas   con  C++:  metodología  de  la  programación  (2ª  ed.)".  Editorial
-Deitel & Deitel. "C++: How to Program (10th Edition)”. Pearson, 2017 A. Garrido y J. Martínez-Baena.
-"Introducción a la programación con C++: ejercicios"
+No hay elementos.
 
-📚 Recursos sin cambios (5):
+📚 Recursos sin cambios (8):
 ------------------------------
+A.   Garrido   y   J.   Martínez-Baena.   "Introducción  a  la  programación  con  C++:  ejercicios".  Editorial
+Universidad de Granada, 2016. Edición electrónica. ISBN 978-84-338-5924-2
+
 A.   Garrido.   "Fundamentos  de  programación  con  la  STL".  Editorial  Universidad  de  Granada,  2016.  ISBN
 978-84-338-5917-4
 
 A.   Garrido.   "Metodología  de  la  programación:  de  bits  a  objetos".  Editorial  Universidad  de  Granada,
 2016. ISBN 978-84-338-5868-9
 
+A.Garrido.   "Prácticas   con   C++:  metodología  de  la  programación  (2ª  ed.)".  Editorial  Universidad  de
+Granada, 2017. Edición electrónica. ISBN 978-84-338-6032-3
+
 Bjarne Stroustrup. “Programming: Principles and Practice Using C++" Addison-Wesley, 2014
 
 Bjarne Stroustrup. “The C++ Programming Language, 4th Edition”. Addison Wesley Professional, 2013
 
+Deitel & Deitel. "C++: How to Program (10th Edition)”. Pearson, 2017
+
 T.   Gaddis,   J.  Walters,  G.  Muganda.  “Starting  Out  with  C++:  Early  Objects  (10th  Edition)”.  Pearson,
 2019
 
-✅ Recursos añadidos (3):
+✅ Recursos añadidos (0):
 ------------------------------
-A.   Garrido   y   J.   Martínez-Baena.   "Introducción  a  la  programación  con  C++:  ejercicios".  Editorial
-Universidad de Granada, 2016. Edición electrónica. ISBN 978-84-338-5924-2
+No hay elementos.
 
-A.Garrido.   "Prácticas   con   C++:  metodología  de  la  programación  (2ª  ed.)".  Editorial  Universidad  de
-Granada, 2017. Edición electrónica. ISBN 978-84-338-6032-3
-
-Deitel & Deitel. "C++: How to Program (10th Edition)”. Pearson, 2017
-
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

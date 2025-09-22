@@ -6,37 +6,36 @@ Grado: filosofia (263)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (5):
+📚 Recursos sin cambios (10):
 ------------------------------
+Aguiar, F., Gaitán, A., & Viciana, H. (2020). Una introducción a la ética experimental, Cátedra
+
 Awad,   E.,   Dsouza,  S.,  Shariff,  A.,  Rahwan,  I.,  &  Bonnefon,  J.  F.  (2020).  Universals  and  variations
 in   moral  decisions  made  in  42  countries  by  70,000  participants.  Proceedings  of  the  National  Academy
 of Sciences, 117(5), 2332-2337
 
-Cognición   moral:   diversidad   y  universalidad  Rozin,  P.,  Lowery,  L.,  Imada,  S.,  &  Haidt,  J.  (1999).
-The   CAD   triad   hypothesis:   a   mapping  between  three  moral  emotions  (contempt,  anger,  disgust)  and
-three   moral   codes   (community,   autonomy,  divinity).  Journal  of  personality  and  social  psychology,
-76(4), 574
+Introducción a la Metaética Miller, A. An introduction to contemporary Metaethics
 
-Introducción a la Metaética Miller, A. An introduction to contemporary Metaethics. Oxford: Blackwell
-(2003)   Introducción   a   la  filosofía  experimental  Aguiar,  F.,  Gaitán,  A.,  &  Viciana,  H.  (2020).  Una
-introducción a la ética experimental, Cátedra
+Metaética experimental
+
+Miller, A. An introduction to contemporary Metaethics. Oxford: Blackwell (2003)
+
+Oxford: Blackwell (2003) Introducción a la filosofía experimental Aguiar, F., Gaitán, A., &
 
 Pölzler,   T.,   &   Wright,   J.   C.   (2019).   Empirical  research  on  folk  moral  objectivism.  Philosophy
 Compass, 14(5), e12589
 
+Rozin,   P.,   Lowery,   L.,  Imada,  S.,  &  Haidt,  J.  (1999).  The  CAD  triad  hypothesis:  a  mapping  between
+three   moral   emotions   (contempt,   anger,   disgust)   and   three   moral   codes  (community,  autonomy,
+divinity). Journal of personality and social psychology, 76(4), 574
+
 Se ofrecerá con la impartición de cada tema
 
-✅ Recursos añadidos (8):
+Ética experimental y cognición moral
+
+✅ Recursos añadidos (3):
 ------------------------------
-Aguiar, F., Gaitán, A., & Viciana, H. (2020). Una introducción a la ética experimental, Cátedra
-
-Introducción a la filosofía experimental
-
-Metaética experimental
-
 Metodología de la filosofía experimental
-
-Miller, A. An introduction to contemporary Metaethics. Oxford: Blackwell (2003)
 
 Sytsma,   J.,   &  Livengood,  J.  (2015).  The  theory  and  practice  of  experimental  philosophy  .  Broadview
 Press
@@ -44,6 +43,4 @@ Press
 Sytsma,   J.,   &   Livengood,  J.  (2015).  The  theory  and  practice  of  experimental  philosophy.  Broadview
 Press
 
-Ética experimental y cognición moral
-
-📊 Porcentaje estimado de cambio: 61% [██████░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

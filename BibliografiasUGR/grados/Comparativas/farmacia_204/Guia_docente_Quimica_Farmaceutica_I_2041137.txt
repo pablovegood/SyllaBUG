@@ -6,7 +6,7 @@ Grado: farmacia (204)
 ------------------------------
 P. Camps García. Fundamentos de síntesis de fármacos. Ed. Universidad de Barcelona. 2005
 
-📚 Recursos sin cambios (10):
+📚 Recursos sin cambios (11):
 ------------------------------
 A. Delgado y col. Introducción a la Química Terapéutica. Ed. Díaz de Santos. (2ª Ed.) Barcelona 2008
 
@@ -24,6 +24,8 @@ fármacos. Ed. Universidad de Santiago de Compostela. 2008
 
 G. L. Patrick. An Introduction to Medicinal Chemistry. Ed. Oxford University Press. Oxford, 2017
 
+J. Campos y E. Camacho. Química Farmacéutica I. Ed Universidad de Granada, 2013
+
 J. M Campos y M. E. Camacho. Fundamentos de Química Farmacéutica I: Teoría y Ejercicios. Ed. Técnica
 Avicam, 2019
 
@@ -33,12 +35,10 @@ Oxford 2005
 W. O. Foye. Principios de Química Farmacéutica. Ed. Reverté. Barcelona. 1988. (7ª Ed. en inglés: Lea
 and Febiger. Filadelfia. 2013)
 
-✅ Recursos añadidos (4):
+✅ Recursos añadidos (3):
 ------------------------------
 A.   Delgado,   M.C.   Escolano,  C.  Miguillón,  D.  Muñoz  Torrero,  M.D.  Pujol,  J.  Quirante,  G.  Rosell,  S.
 Vázquez. Ejercicios de Química Farmacéutica II. Ed. Universidad de Barcelona. 2016
-
-J. Campos y E. Camacho. Química Farmacéutica I. Ed Universidad de Granada, 2013
 
 P.   Camps   García,   S.   Vázquez   Cruz,   C.  Escolano  Mirón.  Ejercicios  de  Química  Farmacéutica  I.  Ed.
 Universidad de Barcelona. 2015
@@ -46,4 +46,4 @@ Universidad de Barcelona. 2015
 P.   Camps   García,   S.Vázquez   Cruz,   C.Escolano   Mirón.   Fundamentos  de  Química  Farmacéutica  I.  Ed.
 Universidad de Barcelona. 2017
 
-📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

@@ -14,8 +14,11 @@ Farmacéuticos Asistenciales en la Farmacia Comunitaria
 Barcelona.      2013      Goodman      &      Gilman.      Las      bases      farmacológicas      de      la
 terapéutica.(14ªed).BruntonL.L.,LazoJ.S.,ParkerK.Ed. Mc Graw Hill Interamericana. 2023
 
-📚 Recursos sin cambios (7):
+📚 Recursos sin cambios (8):
 ------------------------------
+Atención   farmacéutica:   Servicios   Farmacéuticos   orientados   al   Paciente.   MJ  Faus,  P  Amariles,  F
+Martinez-Martinez. Ed. Avicam. 2023
+
 Basic & Clinical Pharmacology. (15ª ed). Katzung, B.G. Ed. McGraw-Hill. 2022
 
 Dispensación   de   medicamentos.   García   P,  Martinez  F,  Gastelurrutia  MA,  Faus  MJ.  Ergon  SA.  Madrid.
@@ -37,11 +40,8 @@ Rang   &   Dale   Farmacología.   (10ª  ed).  Rang,  H.P.,  Dale,  M.M.  Ed.  
 Velázquez.   Farmacología   Básica   y  Clínica.  (19ªed).Lorenzo,P.,MorenoA.,et  al.Ed.Interamericana-  Mc
 Graw-Hill. Madrid.2022
 
-✅ Recursos añadidos (3):
+✅ Recursos añadidos (2):
 ------------------------------
-Atención   farmacéutica:   Servicios   Farmacéuticos   orientados   al   Paciente.   MJ  Faus,  P  Amariles,  F
-Martinez-Martinez. Ed. Avicam. 2023
-
 Goodman          &          Gilman.          Las         bases         farmacológicas         de         la
 terapéutica.(14ªed).BruntonL.L.,LazoJ.S.,ParkerK.Ed. Mc Graw Hill Interamericana. 2023
 
@@ -49,4 +49,4 @@ Protocolos   de   Indicación   Farmacéutica   y   Criterios   de  Derivación 
 Editores:   María   José   Faus   Dáder,   Jesús  C  Gómez  Martínez  y  Fernando  Martínez-Martínez.  Editorial
 Técnica Aviam ISBN: 978-84-16992-88-1. 2018
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

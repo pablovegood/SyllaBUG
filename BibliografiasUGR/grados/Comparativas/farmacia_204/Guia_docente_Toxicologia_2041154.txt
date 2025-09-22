@@ -2,7 +2,7 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados (3):
+❌ Recursos eliminados (2):
 ------------------------------
 KLAASSEN CD y WATKINS JB. Casarett y Doull. Fundamentos de Toxicología. McGraw Hill. Interamericana.
 Madrid, 2005 NOGUÉ S (Ed.). Toxicología clínica.Elsevier. Barcelona, 2019
@@ -11,10 +11,7 @@ KOLLURU   R,   BARTELL   S,   PITBLADO  R  Y  STRICOFF  S.  Manual  de  Evaluaci
 McGraw Hill, México. 1998 LAUWERYS R. Toxicología industrial e intoxicaciones profesionales. 3ª ed.,
 Masson, 1994
 
-Pharmaceutical   Press,   London,   2004   OMS.   Principles   and   methods  for  evaluating  the  toxicity  of
-chemicals. Part I
-
-📚 Recursos sin cambios (10):
+📚 Recursos sin cambios (13):
 ------------------------------
 ELLENHORN MJ, BARCELOUX DG. Medical Toxicology, 2ª ed.. Williams & Wilkins, Baltimore, 1997
 
@@ -22,8 +19,14 @@ GISBERT CALABUIG, JA. Medicina Legal y Toxicología, 7ª ed., Elsevier, Barcelon
 
 HAYES AW. Principles and methods of Toxicology, 5a ed., CRC Press, New­York, 2008
 
+KLAASSEN CD y WATKINS JB. Casarett y Doull. Fundamentos de Toxicología. McGraw Hill. Interamericana.
+Madrid, 2005
+
 KLAASSEN CD. Casarett and Doull's Toxicology. The basic science of poisons,9ª ed., MacGraw Hill, New
 York, 2019
+
+KOLLURU   R,   BARTELL   S,   PITBLADO  R  Y  STRICOFF  S.  Manual  de  Evaluación  y  Administración  de  Riesgos.
+McGraw Hill, México. 1998
 
 MOFFAT,   OSSELTON   Y   WIDDOP.   Clarke’s   Analysis  of  Drugs  and  Poisons.  3ª  ed.  Pharmaceutical  Press,
 London, 2004
@@ -37,19 +40,16 @@ Criteria, 6. Geneve, 1978
 PLA   A,   HERNÁNDEZ   AF,   GIL   F.   Manual   de   Toxicología.  2ª  ed.  Editorial  Técnica  Avicam.  Fleming.
 Granada, 2019
 
+Pharmaceutical   Press,   London,   2004   OMS.   Principles   and   methods  for  evaluating  the  toxicity  of
+chemicals. Part I
+
 REPETTO JIMENEZ,M REPETTO KUHN, G. Toxicología fundamental, 5ª ed. Díaz de Santos, Madrid, 2024
 
 REPETTO   M.   Toxicología   avanzada.   Díaz   de   Santos,   Madrid,  1995  REPETTO  G,  GOTELLI  C,  RODRÍGUEZ
 VICENTE MC, DEL PESO A, GASCÓ P. Tendencias en
 
-✅ Recursos añadidos (6):
+✅ Recursos añadidos (4):
 ------------------------------
-KLAASSEN CD y WATKINS JB. Casarett y Doull. Fundamentos de Toxicología. McGraw Hill. Interamericana.
-Madrid, 2005
-
-KOLLURU   R,   BARTELL   S,   PITBLADO  R  Y  STRICOFF  S.  Manual  de  Evaluación  y  Administración  de  Riesgos.
-McGraw Hill, México. 1998
-
 LAUWERYS R. Toxicología industrial e intoxicaciones profesionales. 3ª ed., Masson, 1994
 
 NOGUÉ S (Ed.). Toxicología clínica.Elsevier. Barcelona, 2019
@@ -61,4 +61,4 @@ REPETTO G, GOTELLI C, RODRÍGUEZ VICENTE MC, DEL PESO A, GASCÓ P. Tendencias en
 Tóxico.   En:  Toxicología  de  Postgrado.  Repetto  M  y  col.  Área  de  Toxicología,  Universidad  de  Sevilla,
 2004
 
-📊 Porcentaje estimado de cambio: 56% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

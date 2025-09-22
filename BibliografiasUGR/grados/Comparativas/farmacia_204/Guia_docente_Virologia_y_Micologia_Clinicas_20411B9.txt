@@ -18,7 +18,7 @@ Levinson W, Chin-Hong P, Joyce EA, Nussbaum J, Schwartz B. 2022. Microbiología 
 Una guía acerca de las enfermedades infecciosas, 17e. McGraw Hill Education Inc. ISBN: 9781264753215
 Norkin, L.C. 2010. Virology : Molecular Biology and Pathogenesis. ASM Press, Washington
 
-📚 Recursos sin cambios (21):
+📚 Recursos sin cambios (25):
 ------------------------------
 20   capítulos   de  acceso  libre  en:  http://www.guia.reviberoammicol.com/  Pfaller,  M.A.,  Carroll,  K.C.
 (Eds.) Manual of Clinical Microbiology, 13th Edition. 2023. ASM Press, Washington
@@ -61,8 +61,20 @@ Sanidad, Consumo y Bienestar Social
 Hatziioannou,   T.,   Flint,   J.,   Racaniello,   V.R.,   Rall,   G.F.,   Skalka,   A.M.  2020.  Principles  of
 Virology, 5th Edition. ASM Press, Washington
 
+Heldt, S., Hoenigl, M.2017. Lateral Flow Assays for the Diagnosis of Invasive Aspergillosis: Current
+Status. Curr Fungal Infect Rep. 11:45-51
+
+Howley, P., Knipe, D., Damania, B., Cohen, J., Whelan, S., Freed, E. 2023. Fields Virología, volumen
+3: Virus de ARN (7ª ed.) WOLTERS KLUWER
+
+Howley,   P.,   Knipe,   D.,   Enquist,   L.,   Cohen,  J.,  Freed,  E.,  Damania,  B.,  Whelan,  S.  2024.  Fields
+Virología, volumen 4: Fundamentos (7ª ed.) WOLTERS KLUWER
+
 Larone,   D.H.   2011.   Medically   Important   Fungi:  A  Guide  to  Identification  (5ª  edición)  ASM  Press,
 Washington
+
+Levinson W, Chin-Hong P, Joyce EA, Nussbaum J, Schwartz B. 2022. Microbiología médica e inmunología.
+Una guía acerca de las enfermedades infecciosas, 17e. McGraw Hill Education Inc. ISBN: 9781264753215
 
 Lou,   Z.,   Sun,   Y.,   Rao,   Z.  2014.  Current  progress  in  antiviral  strategies.  Trends  Pharmacol  Sci.
 35:86-102
@@ -88,26 +100,14 @@ Universal vaccines and therapeutics. Front. Microbiol. 11:135. doi: 10.3389/fmic
 http://dx.doi.org/10.30827/ars.v61i2.15177    Ubol,   S.,   Halstead,   S.B.   2010.   How   Innate   Immune
 Mechanisms Contribute to AntibodyEnhanced Viral Infections . Clin Vacc Immunol.17:1829–1835
 
-✅ Recursos añadidos (7):
+✅ Recursos añadidos (3):
 ------------------------------
-Heldt, S., Hoenigl, M.2017. Lateral Flow Assays for the Diagnosis of Invasive Aspergillosis: Current
-Status. Curr Fungal Infect Rep. 11:45-51
-
 Howley,   P.,   Knipe,   D.,  Damania,  B.,  Cohen,  J.  2022.  Fields  Virología,  volumen  2:  Virus  de  ADN  (7ª
 ed.) WOLTERS KLUWER
-
-Howley, P., Knipe, D., Damania, B., Cohen, J., Whelan, S., Freed, E. 2023. Fields Virología, volumen
-3: Virus de ARN (7ª ed.) WOLTERS KLUWER
-
-Howley,   P.,   Knipe,   D.,   Enquist,   L.,   Cohen,  J.,  Freed,  E.,  Damania,  B.,  Whelan,  S.  2024.  Fields
-Virología, volumen 4: Fundamentos (7ª ed.) WOLTERS KLUWER
 
 Howley,   P.,   Knipe,   D.,   Whelan,   S.   2021.  Fields  Virología,  volumen  1:  Virus  emergentes  (7ª  ed.)
 WOLTERS KLUWER
 
-Levinson W, Chin-Hong P, Joyce EA, Nussbaum J, Schwartz B. 2022. Microbiología médica e inmunología.
-Una guía acerca de las enfermedades infecciosas, 17e. McGraw Hill Education Inc. ISBN: 9781264753215
-
 Norkin, L.C. 2010. Virology : Molecular Biology and Pathogenesis. ASM Press, Washington
 
-📊 Porcentaje estimado de cambio: 35% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 21% [██░░░░░░░░]

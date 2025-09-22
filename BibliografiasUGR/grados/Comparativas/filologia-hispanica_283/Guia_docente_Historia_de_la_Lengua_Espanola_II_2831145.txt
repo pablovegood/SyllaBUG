@@ -8,13 +8,15 @@ BUENAFUENTES   DE   LA   MATA,   E.,  M.  PRAT  SABATER  y  C.  SÁNCHEZ  LANCIS
 español   (morfología   flexiva).   Bellaterra:   Servei   de   Publicacions  de  la  Universitat  Autònoma  de
 Barcelona, 2015 CANO AGUILAR, R. (coord.) (2004): Historia de la lengua española, Barcelona, Ariel
 
-📚 Recursos sin cambios (18):
+📚 Recursos sin cambios (19):
 ------------------------------
 ALVAR, M. y POTTIER, B. (1993): Morfología histórica del español, Madrid. Gredos
 
 AZOFRA, E. (2009): Morfosintaxis histórica del español: de la teoría a la práctica, Madrid, UNED
 
 CANO AGUILAR, R. (1988): El español a través de los tiempos, Madrid, Arco Libros
+
+CANO AGUILAR, R. (coord.) (2004): Historia de la lengua española, Barcelona, Ariel
 
 COMPANY,   C.  (dir).  (2006):  Sintaxis  histórica  de  la  lengua  española.  Primera  Parte:  La  frase  verbal
 (2 vols.), México, UNAM-Fondo de Cultura Económica
@@ -51,12 +53,10 @@ RAE (2009): Nueva gramática de la lengua española, Madrid, Espasa
 
 TORRENS, Mª J. (2018): Evolución e historia de la lengua española, Madrid, Arco Libros
 
-✅ Recursos añadidos (2):
+✅ Recursos añadidos (1):
 ------------------------------
 BUENAFUENTES   DE   LA   MATA,   E.,  M.  PRAT  SABATER  y  C.  SÁNCHEZ  LANCIS  (2015):  Gramática  histórica  del
 español   (morfología   flexiva).   Bellaterra:   Servei   de   Publicacions  de  la  Universitat  Autònoma  de
 Barcelona, 2015
 
-CANO AGUILAR, R. (coord.) (2004): Historia de la lengua española, Barcelona, Ariel
-
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

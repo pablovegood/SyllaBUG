@@ -48,18 +48,12 @@ Historia y guía de los Museos de España, Madrid 1969 Revista electrónica de P
 
 VISITA GUIADA AL MUSEO DE HISTORIA DE LA FARMACIA
 
-📚 Recursos sin cambios (0):
-------------------------------
-No hay elementos.
-
-✅ Recursos añadidos (7):
+📚 Recursos sin cambios (6):
 ------------------------------
 Folch   Jou   G;   Suñé   JM;   Valverde  JL.  Historia  General  de  la  Farmacia.  El  medicamento  a  través  del
 tiempo. Madrid: Sol S.A. 2 vols. 1989
 
 Gaya Muño J A. Historia y guía de los Museos de España, Madrid 1969
-
-Laín Entralgo P (Dir.). Historia Universal de la Medicina. Barcelona: Salvat, 7 vols. 1978
 
 Montañés C et al. El Museo, un espacio didáctico y social. Huesca 2001
 
@@ -70,4 +64,8 @@ Madrid: DOCE CALLES,1997
 
 Revista electrónica de Patrimonio histórico
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+Laín Entralgo P (Dir.). Historia Universal de la Medicina. Barcelona: Salvat, 7 vols. 1978
+
+📊 Porcentaje estimado de cambio: 71% [███████░░░]

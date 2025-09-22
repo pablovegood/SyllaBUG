@@ -25,6 +25,9 @@ https://learnopengl.com/book/book_pdf.pdf
 
 E. Angel: “ Interactive Computer Graphics. A top down approach with OpenGL”.2E..Addison-Wesley 1999
 
+Eric   Lengyel,   "Mathematics   for   3D   Game   Programming  and  Computer  Graphics  (third  edition)",  Ed.
+Cengage Learning, 2011
+
 Hearn, D.D.; Baker, M.P.: “Gráficos por Computadora con OpenGL”. 3a edición, Pearson Educación, 2006
 
 Hughes,   J.F.;   Van   Dam,   A.;   McGuire,   M.;   Sklar,   D.F.;   Foley,  J.D.;  Feiner,  S.K.;  Akeley,  K.:
@@ -32,9 +35,6 @@ Hughes,   J.F.;   Van   Dam,   A.;   McGuire,   M.;   Sklar,   D.F.;   Foley,  J
 
 Michael   E.   Mortenson,   "Mathematics   for   Computer   Graphics   Applications   (second   edition)".Ed.
 Industrial Press, 1999
-
-Mike   Bailey,   Steve   Cunningham;   ”Graphics   shaders   :  theory  and  practice  “.  Boca  Raton,  FL  :  CRC
-Press, 2012
 
 OpenGL   Architecture  Review  Board:  “OpenGL  programming  guide,  version  2,  5ª  edicion”  Adisson-Wesley,
 2006
@@ -48,11 +48,11 @@ Press, 2018
 
 ✅ Recursos añadidos (3):
 ------------------------------
-Eric   Lengyel,   "Mathematics   for   3D   Game   Programming  and  Computer  Graphics  (third  edition)",  Ed.
-Cengage Learning, 2011
-
 Ivan   Korotkin:   "Godot   4:  Introduction  to  GDScript:  A  practical  guide  to  GDScript  for  Godot  4  with
 examples and tutorials". ‎ Independently published, 2023
+
+Mike   Bailey,   Steve   Cunningham;   ”Graphics   shaders   :  theory  and  practice  “.  Boca  Raton,  FL  :  CRC
+Press, 2012
 
 Sander   Vanhove:   "Learning   GDScript   by   Developing   a   Game   with   Godot  4:  A  fun  introduction  to
 programming in GDScript 2.0 and game development using the Godot Engine" ‎ Packt Publishing, 2024

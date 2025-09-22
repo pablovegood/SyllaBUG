@@ -2,33 +2,26 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados (4):
+❌ Recursos eliminados (5):
 ------------------------------
-C.   Miller   (ed.)   The   Continuum   Companion  to  Ethics,  Londres,  Continuum,  2011  K.  Binmore:  Natural
-Justice, Cambridge U.P., 2005
+Binmore:   Natural   Justice,   Cambridge   U.P.,   2005.  R.  Joyce,  The  Myth  of  Morality,  Cambridge  U.P.,
+2001. J. Mackie
 
 Camps,   V.   (ed.)   Historia  de  la  ética,  Barcelona,  Crítica,  1989  Camps,  Guariglia  y  Salmerón  (eds.)
-Concepciones   de  la  ética,  Madrid,  Trotta,  1992  Gauthier,  D.,  Egoísmo,  moralidad  y  sociedad  liberal,
-Barcelona, Paidós, 1998
+Concepciones de la ética, Madrid, Trotta, 1992
 
+Gauthier,   D.,   Egoísmo,  moralidad  y  sociedad  liberal,  Barcelona,  Paidós,  1998.  C.  Gómez  (ed.),  Doce
+textos fundamentales de la ética del siglo XX, Madrid, Alianza, 2007 (4ª reimpresión)
+
+R.   M.   Hare,   Ordenando   la  ética.  Una  clasificación  de  las  teorías  éticas,  Barcelona,  Ariel,  1999.
 McIntyre,   A.,   Historia   de   la   Ética,   Barcelona,   Paidós,   1994   (2ª   reimpresión)  A.  Miller,  An
-Introduction to Contemporary Metaethics. Oxford, Blackwell, 2003
+Introduction   to   Contemporary   Metaethics.   Oxford,   Blackwell,  2003.  C.  Miller  (ed.)  The  Continuum
+Companion to Ethics, Londres, Continuum, 2011 K
 
-R.   Rorty:   Contingencia,   ironía  y  solidaridad.  Paidós,  1989  R.  Sugden,  The  Community  of  Advantage,
+Rorty:   Contingencia,   ironía   y   solidaridad.   Paidós,   1989  R.  Sugden,  The  Community  of  Advantage,
 Oxford U.P., 2018
 
-📚 Recursos sin cambios (4):
-------------------------------
-C.   Gómez   (ed.),   Doce   textos   fundamentales   de   la  ética  del  siglo  XX,  Madrid,  Alianza,  2007  (4ª
-reimpresión)
-
-J. Mackie, Ethics: Inventing Right and Wrong, Viking Press, 1977
-
-R. Joyce, The Myth of Morality, Cambridge U.P., 2001
-
-R. M. Hare, Ordenando la ética. Una clasificación de las teorías éticas, Barcelona, Ariel, 1999
-
-✅ Recursos añadidos (9):
+📚 Recursos sin cambios (8):
 ------------------------------
 A. Miller, An Introduction to Contemporary Metaethics. Oxford, Blackwell, 2003
 
@@ -36,16 +29,27 @@ C. Miller (ed.) The Continuum Companion to Ethics, Londres, Continuum, 2011
 
 Camps, Guariglia y Salmerón (eds.) Concepciones de la ética, Madrid, Trotta, 1992
 
-Camps, V. (ed.) Historia de la ética, Barcelona, Crítica, 1989
-
 Gauthier, D., Egoísmo, moralidad y sociedad liberal, Barcelona, Paidós, 1998
+
+J. Mackie, Ethics: Inventing Right and Wrong, Viking Press, 1977
 
 K. Binmore: Natural Justice, Cambridge U.P., 2005
 
-McIntyre, A., Historia de la Ética, Barcelona, Paidós, 1994 (2ª reimpresión)
+R. M. Hare, Ordenando la ética. Una clasificación de las teorías éticas, Barcelona, Ariel, 1999
 
 R. Rorty: Contingencia, ironía y solidaridad. Paidós, 1989
 
+✅ Recursos añadidos (5):
+------------------------------
+C.   Gómez   (ed.),   Doce   textos   fundamentales   de   la  ética  del  siglo  XX,  Madrid,  Alianza,  2007  (4ª
+reimpresión)
+
+Camps, V. (ed.) Historia de la ética, Barcelona, Crítica, 1989
+
+McIntyre, A., Historia de la Ética, Barcelona, Paidós, 1994 (2ª reimpresión)
+
+R. Joyce, The Myth of Morality, Cambridge U.P., 2001
+
 R. Sugden, The Community of Advantage, Oxford U.P., 2018
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 76% [███████░░░]

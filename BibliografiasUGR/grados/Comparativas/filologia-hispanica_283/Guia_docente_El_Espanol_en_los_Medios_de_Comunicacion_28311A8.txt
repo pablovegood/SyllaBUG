@@ -2,21 +2,15 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados (4):
+❌ Recursos eliminados (2):
 ------------------------------
-Converging   media  :  an  introduction  to  mass  communication  and  digital  innovation  (Seventh  edition.).
-Oxford   University  Press.so  político.  Consideraciones  acerca  de  los  debates  en  torno  al  estado  de  la
-nación. Almería: Universidad de Almería
-
-Cortés Rodríguez, L. (2015): Análisis del discurPavlik, J. V. (John V., & McIntosh, S. (2024)
-
 Grieve,   J.,   &   Woodfield,  H.  (2023).  The  Language  of  Fake  News  (Elements  in  Forensic  Linguistics).
 Cambridge:   Cambridge  University  Press.  doi:10.1017/9781009349161  Gómez  Torrego,  L.,  y  Robles  Ávila,
 S. (2014): Transgresiones idiomáticas en el lenguaje de la publicidad. Madrid: Cátedra
 
 https://doi.org/10.25267
 
-📚 Recursos sin cambios (31):
+📚 Recursos sin cambios (34):
 ------------------------------
 Blanco   Alfonso,   I.   y   Fernández   Martínez,   P.   (coords.)   (2004):   El   lenguaje   radiofónico:  la
 comunicación oral, Madrid: Fragua
@@ -36,8 +30,15 @@ Ariel
 Casetti,   F.,   y  Di  Chio,  F.  (1999):  Análisis  de  la  televisión:  Instrumentos,  métodos  y  prácticas  de
 investigación. Barcelona: Paidós
 
+Converging   media  :  an  introduction  to  mass  communication  and  digital  innovation  (Seventh  edition.).
+Oxford   University  Press.so  político.  Consideraciones  acerca  de  los  debates  en  torno  al  estado  de  la
+nación. Almería: Universidad de Almería
+
 Cortés   Rodríguez,   L.   (   2009).   Comentario   pragmático   de  comunicación  oral.  II.  Dos  entrevistas
 informativas. Madrid: Arco Libros
+
+Cortés   Rodríguez,   L.  (2015):  Análisis  del  discurso  político.  Consideraciones  acerca  de  los  debates
+en torno al estado de la nación. Almería: Universidad de Almería
 
 Crystal, D. (2007): Language and the Internet, Cambridge University Press
 
@@ -54,6 +55,9 @@ Libros
 
 Gómez   Font,   A.   (2003):   Los   manuales   de   estilo   y   el  'español  internacional'  en  los  medios  de
 comunicación. Español Actual: Revista De Español Vivo, 79, 35-44
+
+Gómez   Torrego,   L.,   y   Robles   Ávila,   S.   (2014):  Transgresiones  idiomáticas  en  el  lenguaje  de  la
+publicidad. Madrid: Cátedra
 
 Maingueneau, D. (2009): Analyser les textes de communication, Armand Colin: Paris
 
@@ -105,15 +109,9 @@ corpus de prensa digital. Pragmalingüística, (21), 26–40. https://doi.org/10
 2017.   En  Aportaciones  de  vanguardia  en  al  investigación  actual,  Coord.  Almudena  García  Manso,  págs.
 31-40
 
-✅ Recursos añadidos (3):
+✅ Recursos añadidos (1):
 ------------------------------
-Cortés   Rodríguez,   L.  (2015):  Análisis  del  discurso  político.  Consideraciones  acerca  de  los  debates
-en torno al estado de la nación. Almería: Universidad de Almería
-
 Grieve,   J.,   &   Woodfield,  H.  (2023).  The  Language  of  Fake  News  (Elements  in  Forensic  Linguistics).
 Cambridge: Cambridge University Press. doi:10.1017/9781009349161
 
-Gómez   Torrego,   L.,   y   Robles   Ávila,   S.   (2014):  Transgresiones  idiomáticas  en  el  lenguaje  de  la
-publicidad. Madrid: Cátedra
-
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

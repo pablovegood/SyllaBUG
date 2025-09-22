@@ -9,10 +9,13 @@ ESCOP   Monographs.  The  Scientific  Foundation  for  Herbal  Medicinal  Plants
 Barcelona:   Masson;   2019   Bruneton   J.   Pharmacognosie.   Phytochimie.   Plantes   Médicinales.  5ª  ed.
 Lavoisier; 2016
 
-📚 Recursos sin cambios (4):
+📚 Recursos sin cambios (6):
 ------------------------------
 Castillo   García,   E.,   Martínez   Solís,  I,  (Eds).  Manual  de  Fitoterapia.  3ªed.  Elsevier,  Barcelona,
 2021
+
+ESCOP   Monographs.  The  Scientific  Foundation  for  Herbal  Medicinal  Plants.  2ª  ed.,  Thieme,  Sttutgart,
+2003, supl. 2009
 
 Schulz,   V.,   Hänsel,  R.,  Blumenthal,  M.,  Tyler,  V.E.RationalPhytotherapy.  5ª  ed.,  Springer,  Berlin,
 2004
@@ -20,15 +23,12 @@ Schulz,   V.,   Hänsel,  R.,  Blumenthal,  M.,  Tyler,  V.E.RationalPhytotherap
 Ulbricht   C.,   Seamon   E.  Natural  Standard  Herbal  Pharmacotherapy.  An  Evidence-Based  Approach.  Mosby
 Elsevier, St. Louis, Missouri, 2010
 
+Vanaclocha B. Cañigueral S. Fitoterapia. Vademécum de prescripción. 5ª ed. Barcelona: Masson; 2019
+
 Villar, A.M. (ed.) Farmacognosia general. Síntesis, Madrid, 1999
 
-✅ Recursos añadidos (3):
+✅ Recursos añadidos (1):
 ------------------------------
 Bruneton J. Pharmacognosie. Phytochimie. Plantes Médicinales. 5ª ed. Lavoisier; 2016
 
-ESCOP   Monographs.  The  Scientific  Foundation  for  Herbal  Medicinal  Plants.  2ª  ed.,  Thieme,  Sttutgart,
-2003, supl. 2009
-
-Vanaclocha B. Cañigueral S. Fitoterapia. Vademécum de prescripción. 5ª ed. Barcelona: Masson; 2019
-
-📊 Porcentaje estimado de cambio: 57% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

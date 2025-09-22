@@ -2,21 +2,24 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados (0):
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Barcelona:   Paidós,   1999.   HILDEBRAND,   A.  VON,  El  problema  de  la  forma  en  la  obra  de  arte,  Madrid:
+Visor, 1988
 
-📚 Recursos sin cambios (10):
+📚 Recursos sin cambios (2):
+------------------------------
+COLECCIÓN ARTE HOY, Madrid: Nerea
+
+KANDINSKY, Vasililï, De lo espiritual en el arte, Barcelona: Paidós, 1999
+
+✅ Recursos añadidos (8):
 ------------------------------
 ALBRECH, H.J. Escultura en el siglo XX, Ed. Blume, Barcelona, 1981
 
 BACHELARD, J. La poética del espacio, F.C.E. México,1986
 
-COLECCIÓN ARTE HOY, Madrid: Nerea
-
 HILDEBRAND, A. VON, El problema de la forma en la obra de arte, Madrid: Visor, 1988
-
-KANDINSKY, Vasililï, De lo espiritual en el arte, Barcelona: Paidós, 1999
 
 KRAUSS,   R.   E.   Passages   in   modern  sculpture.  Mit  press,  1981  /KRAUSS,  R.  Pasajes  de  la  escultura
 moderna, Akal, Madrid, 2002
@@ -25,14 +28,9 @@ MADERUELO, Javier, La pérdida del pedestal, Cuadernos del Círculo de Bellas Ar
 
 MASÓ GUERRI, Alfonso, ¿Qué puede ser una escultura? Grupo Editorial Universitario, Granada, 1997
 
-MIDGLEY,   Barry,   Guía   completa   de  escultura,  modelado  y  cerámica,  Ediciones  Blume,  Madrid  PIRSON,
-Jean-François. La structure et l'objet: essais, expériences et rapprochements
+MIDGLEY, Barry, Guía completa de escultura, modelado y cerámica, Ediciones Blume, Madrid
 
 PIRSON, Jean-François. La structure et l'objet: essais, expériences et rapprochements. Mauad Editora
 Ltda, 1984. / PIRSON, Jean F. La estructura y el objeto, Barcelona: Ediciones PPU, 1988
 
-✅ Recursos añadidos (0):
-------------------------------
-No hay elementos.
-
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 90% [█████████░]

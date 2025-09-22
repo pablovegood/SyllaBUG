@@ -2,21 +2,41 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados (0):
+❌ Recursos eliminados (7):
 ------------------------------
-No hay elementos.
+Cambridge:   Cambridge  University  Press  2009.  Kuhn,  Th.,  La  revolución  copernicana,  Ariel,  Barcelona,
+1978. De
+
+Cambridge: Cambridge University Press, 2008
+
+Descartes, R., Meditaciones metafísicas, Oviedo, KRK 2005. Hobbes, Th., Leviatán o la materia, forma
+y poder de un Estado eclesiástico, Madrid, FCE 1987
+
+Krings,   H.M.   Baumgartner,  Ch.  Wild  (eds.),  Conceptos  fundamentales  de  Filosofía,  Herder,  Barcelona
+1977.   J.   Pérez  de  Tudela,  Historia  de  la  Filosofía  Moderna.  De  Cusa  a  Rousseau,  Akal,  Madrid  1998.
+D.   Rutherford,   The   Cambridge   Companion   to   Early   Modern  Philosophy,  2007,  Cambridge,  Cambridge
+University Press 2007. E. Severino, La filosofía moderna, Ariel, Barcelona 1986. J. Echeverría
+
+Lorenzo,   J.,  El  racionalismo  y  los  problemas  del  método,  Cincel,  Madrid,  1985.  Mackie,  John  Leslie,
+Problemas en torno a Locke. México: UNAM, 1988
+
+Madrid: Alianza Editorial, 1979. Ortega y
+
+Oxford: Oxford University Press 1999. Jolley, Nicholas. Leibniz. Londres: Routledge. 2005
 
 📚 Recursos sin cambios (70):
 ------------------------------
+Albiac,   G.,   La   sinagoga   vacía.   Madrid:   Hiperión   1988.   Allison,   H.,   Benedict  de  Spinoza:  An
+Introduction, New
+
 Allison, H., Benedict de Spinoza: An Introduction, New Haven: Yale University Press, 1987
 
 Ayers, M., Locke. Epistemology and Ontology, London & New York: Routledge 1991
 
-Bello, E., La aventura de la razón: el pensamiento ilustrado, Akal, Madrid 1997
+Bello,   E.,  La  aventura  de  la  razón:  el  pensamiento  ilustrado,  Akal,  Madrid  1997.  Buckle,  S.,  Hume’s
+Enlightenment
 
 Berkeley, G., Tratado sobre los principios del conocimiento humano, Madrid, Alianza 1992
-
-Bibliografía específica: Albiac, G., La sinagoga vacía. Madrid: Hiperión 1988
 
 Buckle,   S.,   Hume’s   Enlightenment   Tract:   The   Unity   and  Purpose  of  “An  Enquiry  concerning  Human
 Understanding”, Oxford: Clarendon Press, 2001
@@ -27,7 +47,7 @@ Cassirer, E., El problema del conocimiento, F.C.E., México, 1974 (vol. I, 276-4
 
 Cassirer, E., La filosofía de la Ilustración, FCE, Madrid & México, 2013
 
-Cook, J. Th., Spinoza’s Ethics. A Reader’s Guide, London & New York: Continuum 2007
+Cook, J. Th., Spinoza’s Ethics. A Reader’s Guide, London & New York: Continuum 2007. Della
 
 Crombie,   A.   C.,   Historia  de  la  Ciencia.  De  San  Agustín  a  Galileo,  Alianza,  Madrid,  5a  reimp.  1987
 (vol. II, págs. 113-198 y 253-268)
@@ -44,11 +64,7 @@ Alianza, 2018
 
 Descartes, R., Discurso del método, Madrid, Tecnos 2006
 
-Descartes, R., Meditaciones metafísicas, Oviedo, KRK 2005
-
 Domínguez, A., Baruch de Spinoza (1632-1677), Madrid: Ediciones del Orto 1995
-
-E. Severino, La filosofía moderna, Ariel, Barcelona 1986
 
 Finkielkraut, A., Nosotros los modernos, Ed. Encuentro, Madrid, 2006
 
@@ -56,14 +72,21 @@ Garber, D., Descartes’ Metaphysical Physics, Chicago: University of Chicago Pr
 
 García Borrón, J. C., Empirismo e Ilustración inglesa: de Hobbes a Hume, Cincel, Madrid 1985
 
+Gasset, J., En torno a Galileo, Alianza, Madrid, 1982. Pitcher, G., Berkeley
+
 Gutiérrez-García,   José   Antonio.  “El  concepto  de  principio  y  la  visión  orgánica  de  la  razón”,  en  G.
 W.   Leibniz:   Una   filosofía   de   principios   (monográfico),   vol.   16,   19-40.  Ápeiron,  Estudios  de
 Filosofía. 2022
 
 Guèroult, M., Descartes’ Philosophy Interpreted According to the Order of Reasons, trad. R. Ariew, 2
-vols., Minneapolis, University of Minessota Press 1984-85
+vols.,   Minneapolis,   University   of   Minessota   Press   1984-85.  Gutiérrez-García,  José  Antonio.  “El
+concepto de principio y la visión orgánica de la razón”, en G. W
 
-Habermas, J., El discurso filosófico de la modernidad, Taurus, Madrid, 1989
+H.   Krings,   H.M.   Baumgartner,   Ch.   Wild   (eds.),   Conceptos   fundamentales   de  Filosofía,  Herder,
+Barcelona 1977
+
+Habermas,   J.,   El   discurso   filosófico   de   la  modernidad,  Taurus,  Madrid,  1989.  Jolley,  Nicholas.
+Locke, His Philosophical Thought
 
 Habermas, J., “La modernidad: un proyecto inacabado”, Ensayos políticos, Península, Barcelona, 1988,
 265-283
@@ -88,14 +111,10 @@ J. Echeverría, Leibniz: El Archifilósofo, Madrid, Plaza y Valdés 2023
 
 J. Pérez de Tudela, Historia de la Filosofía Moderna. De Cusa a Rousseau, Akal, Madrid 1998
 
-Jolley, Nicholas. Leibniz. Londres: Routledge. 2005
-
 Jolley, Nicholas. Locke, His Philosophical Thought. Oxford: Oxford University Press 1999
 
 Koistinen,   O.,   The   Cambridge  Companion  to  Spinoza’s  Ethics,  Cambridge:  Cambridge  University  Press
 2009
-
-Kuhn, Th., La revolución copernicana, Ariel, Barcelona, 1978
 
 Leibniz, G. W., Escritos filosóficos, Madrid, Mínimo Tránsito 2003
 
@@ -103,6 +122,8 @@ Leibniz,   G.  W.,  Nuevos  ensayos  sobre  el  entendimiento  humano,  ed.  de 
 1992
 
 Leibniz, G. W., Obras filosóficas y científicas, Granada, Comares 2007ss
+
+Leibniz: El Archifilósofo, Madrid, Plaza y Valdés 2023. Bibliografía específica
 
 Locke, J. Compendio del Ensayo sobre el entendimiento humano, Madrid, Tecnos 1998
 
@@ -113,25 +134,31 @@ Locke, J., Ensayo sobre el entendimiento humano, México, Fondo de Cultura Econ�
 
 Locke, J., Ensayo y carta sobre la tolerancia, Madrid, Alianza 1999
 
-Mackie, John Leslie, Problemas en torno a Locke. México: UNAM, 1988
+Madrid:   Alianza   1984.   Uzgalis,   William.   «John   Locke»,   Stanford   Encyclopedia   of   Philosophy,
+https://plato.stanford.edu/entries/locke/   Yolton,   John   W.,  A  Locke  Dictionary.  Oxford:  Blackwell,
+1993
+
+Madrid:   Trotta,   2006.   Sánchez-Rodríguez,   Manuel.   "La   teoría   de  los  tipos  de  representación  en
+Leibniz   y   sus   principales   influencias   en  la  estética  y  la  lógica  de  la  Ilustración  alemana",  en
+Cultura.   Revista  de  História  e  Teoria  das  Ideias  (Universidade  Nova  de  Lisboa)  32,  271-94.  Sánchez-
+Rodríguez, Manuel & Villanueva Fernández
 
 Malebranche, N., Acerca de la investigación de la verdad, Salamanca, Sígueme 2009
 
-Manuales:   H.   Krings,   H.M.   Baumgartner,   Ch.   Wild   (eds.),  Conceptos  fundamentales  de  Filosofía,
-Herder, Barcelona 1977
+Miguel, B., Crítica de la razón simbólica, Granada, Comares 2011. Ortega y
 
 Morris,    W.    E.    y    Brown,    Ch.    R.,    “David   Hume”,   Stanford   Encyclopedia   of   Philosophy,
-https://plato.stanford.edu/entries/hume/   Nadler,   S.,  “Baruch  Spinoza”,  en  Stanford  Encyclopedia  of
-Philosophy, http://plato.stanford.edu/board.html
+https://plato.stanford.edu/entries/hume/
+
+México: Fondo de Cultura Económica, 1983. Rescher, Nicholas. On Leibniz
+
+Nadler,      S.,      “Baruch      Spinoza”,      en      Stanford      Encyclopedia      of     Philosophy,
+http://plato.stanford.edu/board.html. Norton, D. F. y
 
 Norton, D. F. y Taylor, J. The Cambridge Companion to Hume, 2ª. ed., Cambridge: Cambridge University
 Press, 2008
 
-Noxon, J., La evolución de la filosofía de Hume, Revista de Occidente, Madrid, 1974
-
-Orio de Miguel, B., Crítica de la razón simbólica, Granada, Comares 2011
-
-Ortega y Gasset, J., En torno a Galileo, Alianza, Madrid, 1982
+Noxon, J., La evolución de la filosofía de Hume, Revista de Occidente, Madrid, 1974. Orio de
 
 Ortega   y  Gasset,  J.,  La  idea  de  principio  en  Leibniz  y  la  evolución  de  la  teoría  deductiva.  Madrid:
 Alianza Editorial, 1979
@@ -146,7 +173,7 @@ Spinoza, B., Tratado de la reforma del entendimiento,Madrid, Tecnos 1989
 
 Spinoza, B., Tratado político, Madrid, Alianza 1986
 
-Spinoza, B., Tratado teológico-político, Madrid, Alianza 1986
+Spinoza, B., Tratado teológico-político, Madrid, Alianza 1986. Manuales: H
 
 Spinoza, B., Ética demostrada según el orden geométrico, Madrid, Trotta 2009
 
@@ -154,11 +181,11 @@ Sánchez-Rodríguez,   Manuel   &   Villanueva   Fernández,   Neftalí:   "La  
 fundamento   lógico-metafísico   de  la  identidad  personal  en  la  filosofía  de  Leibniz  en  torno  a  1686",
 en Ágora, Papeles de Filosofía 30, 11-30
 
-Sánchez-Rodríguez,   Manuel.   "La   teoría  de  los  tipos  de  representación  en  Leibniz  y  sus  principales
-influencias en la estética y la lógica de la Ilustración alemana", en Cultura. Revista de História e
-Teoria das Ideias (Universidade Nova de Lisboa) 32, 271-94
+Sánchez-Rodríguez,   Manuel:   "  A  crítica  de  Leibniz  à  teoria  da  identidade  pessoal  de  Locke  ",  en  J.
+Nicolás   y   V.   de   Castilho   Moreira   (eds.)   (2020),  Leibniz.  Razón,  principios  y  unidad,  Granada:
+Comares 2020, 197-212
 
-Sánchez-Rodríguez,   Manuel:   "A   crítica  de  Leibniz  à  teoria  da  identidade  pessoal  de  Locke  ",  en  J.
+Sánchez-Rodríguez,   Manuel:   "A   crítica   de  Leibniz  à  teoria  da  identidade  pessoal  de  Locke",  en  J.
 Nicolás   y   V.   de   Castilho   Moreira   (eds.)   (2020),  Leibniz.  Razón,  principios  y  unidad,  Granada:
 Comares 2020, 197-212
 
@@ -167,17 +194,17 @@ Tipton,   I.Ch.   (ed.):  Locke  y  el  entendimiento  humano,  Madrid  &  Méxi
 
 Urmson, J. O., Berkeley, Madrid: Alianza 1984
 
-Uzgalis,       William.       «John       Locke»,       Stanford      Encyclopedia      of      Philosophy,
-https://plato.stanford.edu/entries/locke/   Yolton,   John   W.,  A  Locke  Dictionary.  Oxford:  Blackwell,
-1993
+Yolton, John W., A Locke Dictionary. Oxford: Blackwell, 1993
 
 Álvarez Gómez, Á. El racionalismo del s. XVII, Síntesis, Madrid 2001
 
-✅ Recursos añadidos (8):
+✅ Recursos añadidos (11):
 ------------------------------
-Bibliografía específica
-
 D. Sánchez Meca. Historia de la filosofía moderna y contemporánea. Dykinson, Madrid, 2010
+
+Descartes, R., Meditaciones metafísicas, Oviedo, KRK 2005
+
+E. Severino, La filosofía moderna, Ariel, Barcelona 1986
 
 Hoyos   Sánchez,   I.,   “Deseo   y   bien.   Fundamentos   y  consecuencias  de  la  revolución  copernicana  de
 Spinoza”, Teoria. Rivista di Filosofia, 32 (2) 2012, 45-70
@@ -188,13 +215,15 @@ Hoyos   Sánchez,   I.,   “La   ambigüedad   de   los  afectos  en  la  étic
 Hoyos   Sánchez,  I.,  “La  ontología  naturalista  de  Spinoza  como  ontología  de  la  pasión”,  Logos.  Anales
 del Seminario de Metafísica 45 (1), 2012, 95-122
 
-Nadler,      S.,      “Baruch      Spinoza”,      en      Stanford      Encyclopedia      of     Philosophy,
-http://plato.stanford.edu/board.html
+Jolley, Nicholas. Leibniz. Londres: Routledge. 2005
 
-Sánchez-Rodríguez,   Manuel:   "  A  crítica  de  Leibniz  à  teoria  da  identidade  pessoal  de  Locke  ",  en  J.
-Nicolás   y   V.   de   Castilho   Moreira   (eds.)   (2020),  Leibniz.  Razón,  principios  y  unidad,  Granada:
-Comares 2020, 197-212
+Koistinen,   O.,   The   Cambridge  Companion  to  Spinoza’s  Ethics,  Cambridge:  Cambridge  University  Press
+2009
 
-Yolton, John W., A Locke Dictionary. Oxford: Blackwell, 1993
+Kuhn, Th., La revolución copernicana, Ariel, Barcelona, 1978
 
-📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]
+Mackie, John Leslie, Problemas en torno a Locke. México: UNAM, 1988
+
+Ortega y Gasset, J., En torno a Galileo, Alianza, Madrid, 1982
+
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

@@ -2,39 +2,25 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados (7):
+❌ Recursos eliminados (1):
 ------------------------------
-2019   (selección)   Ciudadanía,   Adriana   Hidalgo,   2013  (selección)  Esta  bibliografía,  u  otra  que  se
-considere necesario, podrá ser utilizada en talleres prácticos o
+CC.OO/FiloLabUGR,   2020.   Iris   Marion  Young,  Responsabilidad  por  la  justicia,  Morata,  2011.  Erik  O.
+Wright, Construyendo utopías reales, Akal, 2014 Erik O. Wright, Cómo ser anticapitalista en el siglo
+X XI
 
-2019 (selección) hombre unidimensional, Austral, 2016 (selección)
-
-Cornelius Castoriadis, Escritos políticos, La Catarata, 2005. Edición de Xavier Pedrol
-
-Friedrich    A.    von   Hayek,   “El   uso   del   conocimiento   en   la   sociedad”,   Revista   Española   de
-Investigaciones Sociológicas, Nº 80, 1997, pp. 215-228
-
-Iris Marion Young, Responsabilidad por la justicia, Morata, 2011
-
-José   Luis   Moreno   Pestaña,   Informe  sobre  discriminación  corporal  en  el  trabajo,  CC.OO/FiloLabUGR,
-2020
-
-Karl Marx, El capital (III vols.), Madrid, Siglo XXI, 2017 (selección)
-
-📚 Recursos sin cambios (3):
-------------------------------
-Erik   O.  Wright,  Construyendo  utopías  reales,  Akal,  2014  Erik  O.  Wright,  Cómo  ser  anticapitalista  en
-el siglo XXI
-
-TEMARIO TEÓRICO civilidad", Violencia, identidades, civilidad, Gedisa, 2005. John Rawls, La justicia
-como equidad, Paidós, 2012 (selección)
-
-incluso en el temario teórico
-
-✅ Recursos añadidos (10):
+📚 Recursos sin cambios (2):
 ------------------------------
 Esta   bibliografía,   u   otra  que  se  considere  necesaria,  podrá  ser  utilizada  en  talleres  prácticos  o
 incluso en el temario teórico
+
+TEMARIO TEÓRICO civilidad", Violencia, identidades, civilidad, Gedisa, 2005. John Rawls, La justicia
+como   equidad,   Paidós,   2012   (selección).   2019   (selección)   hombre  unidimensional,  Austral,  2016
+(selección).   2019   (selección)   Ciudadanía,   Adriana  Hidalgo,  2013  (selección)  Esta  bibliografía,  u
+otra que se considere necesario, podrá ser utilizada en talleres prácticos o
+
+✅ Recursos añadidos (10):
+------------------------------
+Erik O. Wright, Construyendo utopías reales, Akal, 2014
 
 José Ortega y Gasset, Misión de la Universidad
 
@@ -60,4 +46,4 @@ Tema   4.   Wendy   Brown,   En   las   ruinas   del   neoliberalism   o,  Madri
 Tema   5.   Étienne   Balibar,   La  igualibertad,  Herder,  2017  (selección).  Étienne  Balibar,  Ciudadanía,
 Adriana Hidalgo, 2013 (selección)
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 91% [█████████░]

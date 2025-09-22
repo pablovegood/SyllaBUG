@@ -14,11 +14,9 @@ G.M. Nielson; Volume Modelling. en: M. Chen et al. (eds.). Volume Graphics, Spri
 
 Peter Shirley. Fundamentals of Computer Graphics; AK Peters, 2009
 
-📚 Recursos sin cambios (7):
+📚 Recursos sin cambios (6):
 ------------------------------
 A.Telea. Data Visualization: principles and practice (2ª ed). AK Peters, 2014
-
-Isaac Sukin; Game Development with Three.js; recurso electrónico en biblioteca.ugr.es
 
 Jacobo Rodríguez; GLSL Essentials; Pack Bublishing, 2013
 

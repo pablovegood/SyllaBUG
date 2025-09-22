@@ -18,14 +18,16 @@ Lorenzo,   P.,   Moreno,   A.,   Leza,   J.C.,  Lizasoain,  I.,  Moro,  M.A.  Ve
 Clínica.   19ª   Ed.   Editorial   Médica  Panamericana.  Madrid.  2017  Rang,  H.P.,  Dale,  M.M.  Ritter,  J.M.
 Pharmacology. (9ª ed). Churchill Livingstone
 
-📚 Recursos sin cambios (2):
+📚 Recursos sin cambios (3):
 ------------------------------
 Catálogo de medicamentos. Consejo General de Colegios de Farmaceúticos
 
 Koda-Kimble, M.A.; Young, L.Y. Applied Therapeutics. The clinical use of drugs. Editorial Lippincott
 Williams and Wilkins. Philadelphia
 
-✅ Recursos añadidos (7):
+Rang, H.P., Dale, M.M. Ritter, J.M. Pharmacology. (10ª ed). Churchill Livingstone. Edinburgh. 2024
+
+✅ Recursos añadidos (6):
 ------------------------------
 Brunton,   L.L.,   Hilal-Dandan   R.,   Kollmann,   B.C.   Goodman  and  Gilman’s  The  Pharmacologic  Basis  of
 Therapeutics. 14ª Ed. McGraw-Hill Publishing Company, 2023
@@ -41,7 +43,5 @@ Katzung. Farmacología básica y clínica, 16.a Edición. McGraw Hill, 2024
 
 Lorenzo,   P.,   Moreno,  A.,  Leza,  J.C.,  Lizasoain,  I.,  Moro,  M.A.  Pórtoles  A.  Velázquez.  Farmacología
 Básica y Clínica. 20ª Ed. Editorial Médica Panamericana. Madrid. 2025
-
-Rang, H.P., Dale, M.M. Ritter, J.M. Pharmacology. (10ª ed). Churchill Livingstone. Edinburgh. 2024
 
 📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -6,13 +6,17 @@ Grado: farmacia (204)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (17):
+📚 Recursos sin cambios (19):
 ------------------------------
 A. RANDAZZO. Guía Práctica para la Interpretación de Espectros de RMN. Ed. Loghîa, 1ª Ed. 2018
+
+Advanced Organic Chemistry, Part A: Structure and Mechanisms
 
 Advanced   Organic   Chemistry,   Part   A:  Structure  and  Mechanisms  Advanced  Organic  Chemistry:  Part  B:
 Reaction   and   Synthesis   PROBLEMAS   F.   GARCIA   CALVO-FLORES,   J.  A.  DOBADO,  Problemas  Resueltos  de
 Química Orgánica, Ed. Thomson, 1ªEd, 2007
+
+Advanced Organic Chemistry: Part B: Reaction and Synthesis
 
 C. VOLLHARDT, N.E. SCHORE. Química Orgánica: Estructura y Función. Ed. Omega. 3ª Ed., 2008
 
@@ -49,13 +53,8 @@ NOMENCLATURA W.R. PETERSON. Formulación y Nomenclatura. Química Orgánica. EUN
 
 T. W. GRAHAM SOLOMONS. Organic Chemistry. Ed. Wiley. 12ª Ed., 2017
 
-✅ Recursos añadidos (3):
+✅ Recursos añadidos (1):
 ------------------------------
-Advanced Organic Chemistry, Part A: Structure and Mechanisms
-
-F.   GARCIA   CALVO-FLORES,   J.  A.  DOBADO,  Problemas  Resueltos  de  Química  Orgánica,  Ed.  Thomson,  1ªEd,
-2007
-
 NOMENCLATURA
 
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]

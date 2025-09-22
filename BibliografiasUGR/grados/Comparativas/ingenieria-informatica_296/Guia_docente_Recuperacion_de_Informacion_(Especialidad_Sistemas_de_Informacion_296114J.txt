@@ -9,9 +9,6 @@ A.   Sharma.   Practical  Apache  Lucene  8.  Uncover  the  Search  Capabilities
 
 📚 Recursos sin cambios (12):
 ------------------------------
-A.   Sharma.   Practical  Apache  Lucene  8.  Uncover  the  Search  Capabilities  of  Your  Application.  Apress,
-2020
-
 Belew   Richard   K.,   "Finding  Out  About.  A  Cognitive  perspective  on  Search  Engine  Technology  and  the
 WWW", Cambridge University Press, 2000
 
@@ -32,6 +29,8 @@ D. A. Grossman, O. Frieder, Information Retrieval: Algorithms and Heuristics, Sp
 Feldman,   R.   and  Sanger,  J.  The  Text  Mining  Handbook:  Advanced  Approaches  in  Analyzing  Unstructured
 Data.Cambridge U. Press, 2006
 
+Goker, J. Davies. Searching in the 21st century. Wiley. 2009
+
 M. McCandless, E. Hatcher and O. Gospodnetic. Lucene in Action (2d Edition) Manning 2011
 
 Manning, P. Raghavan, and H. Schütze. Introduction to Information Retrieval, C. Cambridge University
@@ -43,6 +42,7 @@ Van Rijsbergen, Information Retrieval, Second Edition, Butterworth, 1979
 
 ✅ Recursos añadidos (1):
 ------------------------------
-Goker, J. Davies. Searching in the 21st century. Wiley. 2009
+A.   Sharma.   Practical  Apache  Lucene  8.  Uncover  the  Search  Capabilities  of  Your  Application.  Apress,
+2020
 
 📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

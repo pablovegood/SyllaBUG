@@ -2,18 +2,20 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (1):
+❌ Recursos eliminados (2):
 ------------------------------
+A.   Wiliams.   C++   Concurrency   in   Action,   2nd   Edition.   Manning   Publications.   2019   M.   Capel.
+Programación Concurrente y en Tiempo Real. Fundamentos y aplicaciones
+
 Garceta   grupo   editorial,   2022   C.   Breshears.   The  Art  of  Concurrency:  A  Thread  Monkey's  Guide  to
 Writing Parallel Applications. O'Reilly Media. 2009
 
-📚 Recursos sin cambios (9):
+📚 Recursos sin cambios (8):
 ------------------------------
 A.   Burns,   A.   Wellings.   Sistemas  de  Tiempo  Real  y  Lenguajes  de  Programación  (3ª  Edición).  Addison
 Wesley, 2003
 
-A.   Wiliams.   C++   Concurrency   in   Action,   2nd   Edition.   Manning   Publications.   2019   M.   Capel.
-Programación Concurrente y en Tiempo Real. Fundamentos y aplicaciones
+A. Wiliams. C++ Concurrency in Action, 2nd Edition. Manning Publications. 2019
 
 F.   Almeida,   D.   Gimenez,   J.   M.   Mantas,   A.M.   Vidal   .  Introduccion  a  la  Programacion  Paralela.
 Paraninfo Cengage Learning, 2008
@@ -26,17 +28,17 @@ Design (5ª Edición). Addison-Wesley, 2011
 
 J. T. Palma, C. Garrido, F. Sánchez, A. Quesada. Programación Concurrente. Thomson-Paranifo. 2003
 
-M.   Capel.   Programación   Concurrente   y   en   Tiempo  Real.  Fundamentos  y  aplicaciones.  Garceta  grupo
-editorial, 2022
-
 N.A. Lynch. Distributed Algorithms. Morgan Kaufmann. 1996
 
 V.   Kumar,   A.   Grama,   A.   Gupta,  G.  Karypis.  Introduction  to  Parallel  Computing.  Benjamin/Cummings
 Publishing Company, 2003
 
-✅ Recursos añadidos (1):
+✅ Recursos añadidos (2):
 ------------------------------
 C.   Breshears.   The   Art   of   Concurrency:  A  Thread  Monkey's  Guide  to  Writing  Parallel  Applications.
 O'Reilly Media. 2009
 
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+M.   Capel.   Programación   Concurrente   y   en   Tiempo  Real.  Fundamentos  y  aplicaciones.  Garceta  grupo
+editorial, 2022
+
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

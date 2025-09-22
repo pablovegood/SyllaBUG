@@ -19,6 +19,8 @@ Press
 ------------------------------
 C.H. Papadimitriou. Computational Complexity. Addison Wesley (1995)
 
+G. Ausiello, P. Creszendi et al. Complexity and Approximation. Springer-Verlag, Berlin (1999)
+
 J.   MacCormick,   What   can   be   computed?.  A  Practical  Guide  to  the  Theory  of  Computation.  Princeton
 University Press (2018)
 
@@ -38,12 +40,10 @@ Freeman (1979)
 R.   Greenlaw,   H.J.  Hoover,  W.L.  Ruzzo.  Limits  to  Parallel  Computation:  P-Completeness  Theory  (1995)
 Oxford University Press
 
-S. Arora, B. Barak. Computational Complexity: A Modern Approach.Cambridge University Press (2009)
-
 ✅ Recursos añadidos (2):
 ------------------------------
 C. Moore, M. Stephan. The Nature of Computation. Oxford University Press (2011)
 
-G. Ausiello, P. Creszendi et al. Complexity and Approximation. Springer-Verlag, Berlin (1999)
+S. Arora, B. Barak. Computational Complexity: A Modern Approach.Cambridge University Press (2009)
 
 📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

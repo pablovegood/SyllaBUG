@@ -2,11 +2,19 @@
 Grado: filosofia (263)
 ==================================================
 
-❌ Recursos eliminados (0):
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+CLANCHY,   John   y   BALLARD,   Brigid   (1995)   Cómo   se   hace  un  trabajo  académico.  Guía  práctica  para
+estudiantes    universitarios,    Zaragoza,    Prensas   Universitarias.   DEVER,   J.   (2016):   "What   is
+Philosophical   Methodology?",   The   Oxford   Handbook   of  Philosophical  Methodology.  Edited  by  Herman
+Cappelen,           Tamar           Szabó          Gendler,          and          John          Hawthorne.
+https://doi.org/10.1093/oxfordhb/9780199668779.013.34 Granada. No se aplica
 
-📚 Recursos sin cambios (3):
+📚 Recursos sin cambios (1):
+------------------------------
+No se aplica
+
+✅ Recursos añadidos (3):
 ------------------------------
 CLANCHY,   John   y   BALLARD,   Brigid   (1995)   Cómo   se   hace  un  trabajo  académico.  Guía  práctica  para
 estudiantes universitarios, Zaragoza, Prensas Universitarias
@@ -15,10 +23,6 @@ DEVER,   J.   (2016):   "What   is   Philosophical   Methodology?",   The   Oxfo
 Methodology.   Edited   by   Herman  Cappelen,  Tamar  Szabó  Gendler,  and  John  Hawthorne.  https://doi.org/
 10.1093/oxfordhb/9780199668779.013.34
 
-https://doi.org/10.1093/oxfordhb/9780199668779.013.34 Granada. No se aplica
-
-✅ Recursos añadidos (1):
-------------------------------
 EDITORIAL UNIVERSIDAD DE GRANADA (2007) Guía de estilo, Granada, Universidad de Granada
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]

@@ -8,16 +8,14 @@ Essential   Concepts   in   Molecular  Pathology.  W.B.  Coleman  and  G.J.  Tso
 Genomics   in   Medicine.   T.   Strachan,   J   Goodship,   P.   Chinnery.   Garland   Science  2015  Patología
 Molecular. A. Sánchez Pozo et al. Ed. Sintesis 2022
 
-📚 Recursos sin cambios (0):
-------------------------------
-No hay elementos.
-
-✅ Recursos añadidos (3):
+📚 Recursos sin cambios (2):
 ------------------------------
 Essential Concepts in Molecular Pathology. W.B. Coleman and G.J. Tsongalis. Elsevier 2020
 
-Genetics and Genomics in Medicine. T. Strachan, J Goodship, P. Chinnery. Garland Science 2015
-
 Patología Molecular. A. Sánchez Pozo et al. Ed. Sintesis 2022
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+Genetics and Genomics in Medicine. T. Strachan, J Goodship, P. Chinnery. Garland Science 2015
+
+📊 Porcentaje estimado de cambio: 66% [██████░░░░]

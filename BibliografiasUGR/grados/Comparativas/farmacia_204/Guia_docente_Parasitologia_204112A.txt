@@ -7,7 +7,7 @@ Grado: farmacia (204)
 Neva, F.A.; Brown, H.W.; 1994. Basic Clinical Parasitology. 6ª edn. Prentice Hall International, 356
 pp Peters, W. 1992. A colour atlas of arthropods in Clinical Medicine. Wolfe Publishing Ltd. 308 pp
 
-📚 Recursos sin cambios (15):
+📚 Recursos sin cambios (17):
 ------------------------------
 Adroher,   F.J.;   Campos,   M.;   Hueli,  L.  (coord.).  2004.  Guía  Práctica  de  Parasitología.  Facultad  de
 Farmacia. Universidad de Granada. 175 pp
@@ -39,7 +39,13 @@ Guerrant, D. et al. (eds). 2002. Enfermedades infecciosas tropicales. Elsevier S
 Markell, E.K.; John, D.T.; Voge, M., 1994. Parasitología Médica 6ª edn. Interamericana. McGraw-Hill,
 395 pp
 
+Neva, F.A.; Brown, H.W.; 1994. Basic Clinical Parasitology. 6ª edn. Prentice Hall International, 356
+pp
+
 Roberts, L.S.; Janovy, J. 2000. Foundations of Parasitology. 5ª edn. WCB, 659 pp
+
+Rojo   Vázquez,   F.   A.,   &   Del   Campillo,   M.   C.   (2010).   Parasitología   general   .   McGraw-Hill.
+https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014246336204990
 
 Se recomendará a los alumnos según el trabajo autónomo que tengan que desarrollar
 
@@ -51,7 +57,7 @@ identificarse en la biblioteca de la UGR
 Zaman,   V.   1998.   Atlas   color   de   Parasitología   clínica:   un   atlas  de  protozoarios,  helmintos  y
 artrópodos. 2ª edn. Panamericana, 335 pp
 
-✅ Recursos añadidos (11):
+✅ Recursos añadidos (9):
 ------------------------------
 Apt       Baruch,       W.       L.       (2015).       Parasitología       humana       .      McGraw-Hill.
 https://granatensis.ugr.es/permalink/34CBUA_UGR/1egp27c/alma991008221659704990
@@ -78,15 +84,9 @@ López   Páez,   M.   C.,  Knudson  Ospina,  A.,  &  Ortiz  Pineda,  C.  (202
 diagnósticas    en    parasitología    (1ª    edn.).    Editorial   Universidad   Nacional   de   Colombia.
 https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014460367204990
 
-Neva, F.A.; Brown, H.W.; 1994. Basic Clinical Parasitology. 6ª edn. Prentice Hall International, 356
-pp
-
 Peters, W. 1992. A colour atlas of arthropods in Clinical Medicine. Wolfe Publishing Ltd. 308 pp
 
 Rodríguez    Pérez,    E.    G.   (2013).   Parasitología   médica   .   Editorial   El   Manual   Moderno.
 https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014246284804990
 
-Rojo   Vázquez,   F.   A.,   &   Del   Campillo,   M.   C.   (2010).   Parasitología   general   .   McGraw-Hill.
-https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014246336204990
-
-📊 Porcentaje estimado de cambio: 46% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 38% [███░░░░░░░]

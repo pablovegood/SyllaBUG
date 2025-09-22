@@ -26,7 +26,9 @@ Beale R.: Human-Computer Interaction, 3ª ed. Prentice Hall, 2003
 
 📚 Recursos sin cambios (11):
 ------------------------------
-D. Norman: The Design of Everyday Things. Basicbooks, 1990
+C. Peterson. Learning Responsive Web Design. A beginner guide. O’Reilly, 2017
+
+Dix A., Finlay J., Abowd G., Beale R.: Human-Computer Interaction, 3ª ed. Prentice Hall, 2003
 
 F.   Staiano:   Designing   and   Prototyping   Interfaces   with   Figma   :   Learn   Essential  UX/UI  Design
 Principles   by   Creating   Interactive   Prototypes  for  Mobile,  Tablet,  and  Desktop,  Packt  Publishing,
@@ -34,8 +36,8 @@ Principles   by   Creating   Interactive   Prototypes  for  Mobile,  Tablet,  an
 
 H. Thimbleby: User Interface Design. ACM Press. Addison Wesley 1990
 
-J.   Levy.   C.   Calacanis,:   UX  strategy:  how  to  devise  innovative  digital  products  that  people  want.
-O’Reilly, 2015
+J.   Allen,   J.   Chudley,  A.  Maier,  M.  Kammerer:  Smashing  UX  Design:  Foundations  for  Designing  Online
+User Experiences. John Wiley & Sons 2012
 
 K. Goodwin. Designing for the Digital Age: How to Create Human-Centered Products and Services, Wiley
 Publishing, 2009
@@ -52,20 +54,18 @@ New Riders, 2014
 Sharp,   H,   Rogers,  Y:  Preece,  J:  Interaction  Design:  Beyond  Human  Computer  interaction,  6ª  ed.  John
 Wiley & Sons, 2023
 
-Shneiderman B., Plaisant, C.: Diseño de Interfaces de Usuario (4ª ed.) Addison Wesley, 2006
-
 Tidwell, J.: Designing Interfaces: Patterns for Effective Interaction Design. O'Reilly, 2020
 
 ✅ Recursos añadidos (4):
 ------------------------------
-C. Peterson. Learning Responsive Web Design. A beginner guide. O’Reilly, 2017
+D. Norman: The Design of Everyday Things. Basicbooks, 1990
 
-Dix A., Finlay J., Abowd G., Beale R.: Human-Computer Interaction, 3ª ed. Prentice Hall, 2003
-
-J.   Allen,   J.   Chudley,  A.  Maier,  M.  Kammerer:  Smashing  UX  Design:  Foundations  for  Designing  Online
-User Experiences. John Wiley & Sons 2012
+J.   Levy.   C.   Calacanis,:   UX  strategy:  how  to  devise  innovative  digital  products  that  people  want.
+O’Reilly, 2015
 
 R.   Lanciaux:   Modern   front-end  architecture  :  optimize  your  front-end  development  with  components,
 storybook, and mise en place philosophy, 1ªed. Apress, 2021
+
+Shneiderman B., Plaisant, C.: Diseño de Interfaces de Usuario (4ª ed.) Addison Wesley, 2006
 
 📊 Porcentaje estimado de cambio: 46% [████░░░░░░]

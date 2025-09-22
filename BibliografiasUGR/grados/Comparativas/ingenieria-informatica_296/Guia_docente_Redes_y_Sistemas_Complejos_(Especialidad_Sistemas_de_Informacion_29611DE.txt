@@ -37,13 +37,13 @@ John   R.   Clymer:   “Simulation-Based  Engineering  of  Complex  Systems”,
 Mark   Newman,   Albert-Laszlo   Barabasi   &   Duncan   J.   Watts   (Eds.):  “The  Structure  and  Dynamics  of
 Networks”, Princeton University Press, 2006. ISBN 9780691113579
 
-Ted G. Lewis: “Network Science: Theory and Applications”, Wiley, 2009. ISBN 9780470331880
+Mark Newman: “Networks: An introduction”, Second Edition. Oxford, 2018. ISBN 9780198805090
 
 ✅ Recursos añadidos (2):
 ------------------------------
-Mark Newman: “Networks: An introduction”, Second Edition. Oxford, 2018. ISBN 9780198805090
-
 Stanley   Wasserman  &  Katherine  Faust:  “Social  Network  Analysis.  Methods  and  Applications”,  Cambridge
 University Press, 1994. ISBN 9780521387071. Edición online de 2012. ISBN: 9780511815478
+
+Ted G. Lewis: “Network Science: Theory and Applications”, Wiley, 2009. ISBN 9780470331880
 
 📊 Porcentaje estimado de cambio: 44% [████░░░░░░]

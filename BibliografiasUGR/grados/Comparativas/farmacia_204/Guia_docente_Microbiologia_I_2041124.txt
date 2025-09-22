@@ -12,7 +12,7 @@ STRUTHERS,   J.K.   Y   WESTERN,   R.P.   (2005)   Bacteriología  clínica.  Ma
 FUNKE,   B.R.   y   CAE,   C.L.   (2007)  Introducción  a  la  Microbiología  9ª  edición.  Panamericana.  Buenos
 Aires. Argentina
 
-📚 Recursos sin cambios (5):
+📚 Recursos sin cambios (6):
 ------------------------------
 INGRAHAM,   J.   L.   e   INGRAHAM,   C.A.   (1998).   Introducción   a  la  Microbiología.  Editorial  Reverté.
 Barcelona
@@ -28,14 +28,14 @@ Edición. Mosby, España
 
 PRESCOTT, L.M., HARLEY, J.P. y KLEIN, D.A. (2009). Microbiología 7ª edición. Mac Graw Hill. Madrid
 
-✅ Recursos añadidos (3):
+TORTORA,   G.J.,   FUNKE,   B.R.   y   CAE,   C.L.   (2007)   Introducción   a   la   Microbiología  9ª  edición.
+Panamericana. Buenos Aires. Argentina
+
+✅ Recursos añadidos (2):
 ------------------------------
 MADIGAN,   M.T.,   MARTINKO,   J.M.   y   PARKER,   J.  (2015).  Brock.  Biología  de  los  microorganismos.  13ª
 edición. Pearson Prentice Hall. Madrid
 
 STRUTHERS, J.K. Y WESTERN, R.P. (2005) Bacteriología clínica. Masson, Barcelona
 
-TORTORA,   G.J.,   FUNKE,   B.R.   y   CAE,   C.L.   (2007)   Introducción   a   la   Microbiología  9ª  edición.
-Panamericana. Buenos Aires. Argentina
-
-📊 Porcentaje estimado de cambio: 62% [██████░░░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

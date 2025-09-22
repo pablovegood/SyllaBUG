@@ -10,7 +10,7 @@ Lorenzo,   P.,   Moreno,   A.,   Leza,   J.C.,   Lizasoain,  I.,  Moro,  M.A.Vel
 Clínica(19ª ed.) Editorial Médica Panamericana, 2018 Katzung, BG. Farmacología básica y clínica (15ª
 ed.) E McGraw Hill, 2021
 
-📚 Recursos sin cambios (4):
+📚 Recursos sin cambios (5):
 ------------------------------
 Brunton,   Laurence  L.,  Hilal-Dandan,  Randa  and  Knollmann,  Björn  C.,  editores.Goodman  and  Gilman.  Las
 bases farmacológicas de la terapéutica.(14ª ed). McGraw-Hill Publishing Company, 2023
@@ -22,15 +22,15 @@ Golan,D.E.,   Tashjian,   A.H.,   Armstrong,   E.J.,   Armstrong,   A.W.  Princi
 fisiopatológicas   del   tratamiento   farmacológico.(4ª  ed.)  Lippincott  Williams  &  Wilkins.  Barcelona.
 2016
 
+Lorenzo,   P.,   Moreno,   A.,   Leza,   J.C.,   Lizasoain,  I.,  Moro,  M.A.Velázquez.  Farmacología  Básica  y
+Clínica(20ª ed.) Editorial Médica Panamericana, 2025
+
 Rang, H.P., Dale, M.M. Ritter, J.M.Farmacología. (10ª ed). Elsevier España. Barcelona. 2024
 
-✅ Recursos añadidos (3):
+✅ Recursos añadidos (2):
 ------------------------------
 Flórez, J., Avendaño, C.; Mediavilla, A. Farmacología Humana.(7ª ed). Elsevier, 2025
 
 Katzung, BG. Farmacología básica y clínica (15ª ed.) E McGraw Hill, 2021
 
-Lorenzo,   P.,   Moreno,   A.,   Leza,   J.C.,   Lizasoain,  I.,  Moro,  M.A.Velázquez.  Farmacología  Básica  y
-Clínica(20ª ed.) Editorial Médica Panamericana, 2025
-
-📊 Porcentaje estimado de cambio: 71% [███████░░░]
+📊 Porcentaje estimado de cambio: 57% [█████░░░░░]

@@ -2,12 +2,17 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados (1):
+❌ Recursos eliminados (3):
 ------------------------------
-CORAZON   Alberto:   El   mapa   no   es   el   territorio.   Lanzarote:   Fundación  Cesar  Manrique,  KRAUSS,
-Rosalind. La originalidad de la vanguardia y otros mitos modernos. Madrid: Alianza Forma. 1996
+Barcelona:   Anagrama,   2003.   GROYS,  Boris.Politics  of  installation.  na,  2009.  GROYS,  Boris.  Museums
+for Contemporary Art Installations.Hermes, La Revue, 2011, no 3, p. 69-75. MOLES
 
-📚 Recursos sin cambios (16):
+Berlin:   Sternberg   Press,   2012.   TRIBE,   M/JANA,  R.  :  Arte  y  nuevas  tecnologías,  Madrid.  Taschen,
+2006. C A T A L O G
+
+Madrid: Pearson, 2005. REBENTISCH, Juliane; HENDRICKSON, Daniel.Aesthetics of installation art
+
+📚 Recursos sin cambios (20):
 ------------------------------
 AUGE, Marc: El tiempo en ruinas. Barcelona: Gedisa 2003
 
@@ -23,13 +28,21 @@ BOURDIEU, P.: Contrafuegos, Barcelona: Anagrama, 2003
 CATALOGOS:   Documenta  de  Kassel,  Bienal  de  Venecia,  Proyecto  Escultórico  de  Müster,  Bienal  de  Arte
 Contemporáneo de Sevilla, etc
 
-DELGADO, Manuel: El animal público. Barcelona: Anagrama, 2008
+CORAZON Alberto: El mapa no es el territorio. Lanzarote: Fundación Cesar Manrique, 1997
 
-GROYS, Boris. Museums for Contemporary Art Installations. Hermes, La Revue, 2011, no 3, p. 69-75
+DELGADO, Manuel: El animal público. Barcelona: Anagrama, 2008
 
 GROYS, Boris. Politics of installation . na, 2009
 
+KRAUSS,   Rosalind.   La   originalidad  de  la  vanguardia  y  otros  mitos  modernos.  Madrid:  Alianza  Forma.
+1996
+
 LARRAÑAGA, Josu: Instalaciones. Guipúzcoa: Nerea, 2001
+
+Lanzarote:   Fundación   Cesar   Manrique,   KRAUSS,  Rosalind.  La  originalidad  de  la  vanguardia  y  otros
+mitos modernos
+
+Londres: Thames & Hudson, 1993. DELGADO
 
 MADERUELO, Javier: El espacio raptado. Madrid: Mondaroni.1990
 
@@ -38,18 +51,21 @@ MOLES, Abraham: Psicología del espacio. Madrid: Ricardo Aguilera. 1972
 MUÑOZ,   Blanca:   La   cultura   global.   Medios  de  comunicación,  cultura  e  ideología  en  la  sociedad
 globalizada. Madrid: Pearson, 2005
 
-REBENTISCH,   Juliane;  HENDRICKSON,  Daniel.  Aesthetics  of  installation  art  .  Berlin:  Sternberg  Press,
-2012
+Madrid: Alianza Editorial. 2009. AUGE
+
+Madrid: Fondo de Cultura Económica. 2004. BOURDIEU, P.: Contrafuegos
+
+Madrid: Ricardo Aguilera. 1972. MUÑOZ
 
 SÁNCHEZ, Mónica. La instalación en España. 1970-2000. Madrid: Alianza Editorial. 2009
 
+✅ Recursos añadidos (3):
+------------------------------
+GROYS, Boris. Museums for Contemporary Art Installations. Hermes, La Revue, 2011, no 3, p. 69-75
+
+REBENTISCH,   Juliane;  HENDRICKSON,  Daniel.  Aesthetics  of  installation  art  .  Berlin:  Sternberg  Press,
+2012
+
 TRIBE, M/JANA, R. : Arte y nuevas tecnologías, Madrid. Taschen, 2006
 
-✅ Recursos añadidos (2):
-------------------------------
-CORAZON Alberto: El mapa no es el territorio. Lanzarote: Fundación Cesar Manrique, 1997
-
-KRAUSS,   Rosalind.   La   originalidad  de  la  vanguardia  y  otros  mitos  modernos.  Madrid:  Alianza  Forma.
-1996
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]

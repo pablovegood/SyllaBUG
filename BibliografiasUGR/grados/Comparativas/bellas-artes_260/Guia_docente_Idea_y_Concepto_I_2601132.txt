@@ -59,15 +59,7 @@ Ramírez,   Juan   Antonio;   Ecosistema   y   explosión  de  las  artes,  Barc
 Viktor   L.   La   invención   del   cuadro:   arte,   artífices  y  artificios  en  los  orígenes  de  la  pintura
 europea ; traducción de Anna Maria Coderch . Catedra, Madrid
 
-📚 Recursos sin cambios (1):
-------------------------------
-Danto, A. C.; Después del fin del arte. El arte contemporáneo y el linde de la historia . Traducción
-de After the End of Art. Contemporary Art and the Pale of History (New Jersey 1997) realizada por E.
-Neerman   y   revisada   por   R.   Molina.   Paidós,  Barcelona  2001  (1999)  —  caps.  “Moderno,  Posmoderno  y
-Contemporáneo”;   “Tres   décadas   después   del   fin   del   arte”  y  “Relatos  legitimadores  y  principios
-críticos”
-
-✅ Recursos añadidos (25):
+📚 Recursos sin cambios (22):
 ------------------------------
 Barro,   David;   Antes   de  ayer  y  pasado  mañana  o  lo  que  puede  ser  la  pintura  hoy  .  Macuf,  La  Coruña,
 2009
@@ -96,12 +88,6 @@ Collingwood,   Robin   George;   Los  principios  del  arte  .  Traducción  de 
 como   diversión”,  “El  arte  propiamente  dicho:  (1)  como  expresión”,  y  “El  arte  propiamente  dicho:  (2)
 el arte como imaginación”
 
-Danto, A. C.; Después del fin del arte. El arte contemporáneo y el linde de la historia . Traducción
-de After the End of Art. Contemporary Art and the Pale of History (New Jersey 1997) realizada por E.
-Neerman   y   revisada   por   R.   Molina.   Paidós,  Barcelona  2001  (1999)  —  caps.  “Moderno,  Posmoderno  y
-Contemporáneo”;   “Tres   décadas   después   del   fin   del   arte”  y  “Relatos  legitimadores  y  principios
-críticos”
-
 Danto,   A.   C.;   Qué  es  el  arte  .  Traducción  de  What  Art  Is,  2013,  realizada  por  Iñigo  García  Ureta.
 Paidós, Barcelona, 2013
 
@@ -109,10 +95,6 @@ Danto,   Arthur   C.;   El   abuso  de  la  belleza.  La  estética  y  el  conc
 Abuse of Beauty (Illinois 2003) de C. Roche. Paidós, Barcelona 2005
 
 Danto, Arthur C.; “El mundo del Arte” (traducción de “The Artworld” (1964)
-
-Dickie, G.; El círculo del arte. Una teoría del arte . Traducción de The Art Circle. A Theory of Art
-(Kentucky,1997)   realizada   por   Sixto   J.   Castro,   Paidós,  Barcelona  2005  —  “Introducción”,  cap.  2
-“Danto y el renacimiento de la teoría” y cap. 4 “La naturaleza institucional del arte”
 
 Eco,   Umberto;   La   definición   de   arte.   Lo   que   hoy  llamamos  arte,  ¿ha  sido  y  será  siempre  arte?
 Traducción   de   La   definizione   dell'arte  (Milán,  1968).  Martínez  Roca,  Valencia  1985  (1970)  —  cap.
@@ -130,11 +112,6 @@ la definición del arte”
 
 Goodman,   Nelson;   Maneras   de  hacer  mundos  .  Traducción  de  Ways  of  Worldmaking  (1978)  realizada  por
 Carlos Thiebaut. Visor. Barcelona 1990 — “Introducción” y cap.“¿Cuándo hay arte?”
-
-Greenberg,   Clement;   La   pintura   moderna  y  otros  ensayos  .  Traducción  de  "Avant-Garde  and  Kitsch",
-"The   Crisis   of   the   Eassel   Picture",   "Cézanne   and   the   Unity   of   Modern  Art",  "American-Type
-Payinting",   "Sculpture   in   Our  Time",  "The  Passed-Paper  Revolution"  y  "Modern  Painting",  realizada
-por Fèlix Fanés. Siruela, Madrid, 2006 — caps. “Vanguardia y Kitsch” y “La pintura moderna”
 
 Jiménez,   José;   Teoría  del  arte.  Tecnos-Alianza,  Madrid,  2002  —  caps.  “Introducción”,  “La  invención
 del arte”, “Transformaciones históricas” y “Componentes”
@@ -158,4 +135,21 @@ Rodríguez   Martín.   Tecnos,   Madrid  1987  2001  —cap.  1  “El  arte:  
 arte:   Historia   de   una   clasificación”   y  cap.  3  “El  arte:  Historia  de  la  relación  del  arte  con  la
 poesía”
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (3):
+------------------------------
+Danto, A. C.; Después del fin del arte. El arte contemporáneo y el linde de la historia . Traducción
+de After the End of Art. Contemporary Art and the Pale of History (New Jersey 1997) realizada por E.
+Neerman   y   revisada   por   R.   Molina.   Paidós,  Barcelona  2001  (1999)  —  caps.  “Moderno,  Posmoderno  y
+Contemporáneo”;   “Tres   décadas   después   del   fin   del   arte”  y  “Relatos  legitimadores  y  principios
+críticos”
+
+Dickie, G.; El círculo del arte. Una teoría del arte . Traducción de The Art Circle. A Theory of Art
+(Kentucky,1997)   realizada   por   Sixto   J.   Castro,   Paidós,  Barcelona  2005  —  “Introducción”,  cap.  2
+“Danto y el renacimiento de la teoría” y cap. 4 “La naturaleza institucional del arte”
+
+Greenberg,   Clement;   La   pintura   moderna  y  otros  ensayos  .  Traducción  de  "Avant-Garde  and  Kitsch",
+"The   Crisis   of   the   Eassel   Picture",   "Cézanne   and   the   Unity   of   Modern  Art",  "American-Type
+Payinting",   "Sculpture   in   Our  Time",  "The  Passed-Paper  Revolution"  y  "Modern  Painting",  realizada
+por Fèlix Fanés. Siruela, Madrid, 2006 — caps. “Vanguardia y Kitsch” y “La pintura moderna”
+
+📊 Porcentaje estimado de cambio: 24% [██░░░░░░░░]

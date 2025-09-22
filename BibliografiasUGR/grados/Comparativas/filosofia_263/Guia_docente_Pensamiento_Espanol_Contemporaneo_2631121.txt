@@ -89,42 +89,12 @@ pp.   1115-1154;   en  Cátedra,  Madrid,  2006;  en  Obras  Completas,  Turner,
 agonía   del   cristianismo   (1931),   en   Obras  Completas,  vol.  VII,  Escélicer,  Madrid,  1966-1971,  pp.
 305-385. José Ortega y Gasset
 
-📚 Recursos sin cambios (13):
-------------------------------
-Abellán, J.L., Historia crítica de la filosofía española, Madrid, Alianza, 1979-89
-
-Ferrater Mora, J ., Diccionario de Filosofía, Alianza, Madrid, 1979
-
-Fornet   Betancourt,   R.,   Beorlegui,  C  .  (eds.),  Guía  Comares  de  filosofía  latinoamericana,  Granada,
-Comares, 2014
-
-Fraile, G ., Historia de la filosofía española, Madrid, 1971
-
-Garagorri, P., La filosofía española en el siglo XX, Madrid, 1985
-
-Guy, A., Historia de la filosofía española, Barcelona, Anthropos, 1985
-
-I. Fuentes Miguel de Unamuno
-
-Krings,   H.,   Baumgartner,   H.M.,   Wild,   Ch.   (eds.),  Conceptos  fundamentales  de  Filosofía,  Herder,
-Barcelona, 1977
-
-Marías,   J.,   La   filosofía  española  actual.  Unamuno,  Ortega,  Morente,  Zubiri,  Madrid,  Espasa-Calpe,
-1973
-
-Mora,   J.L.,  Heredia,  A.  (eds.)  Guía  Comares  de  historia  de  la  filosofía  española,  Granada,  Comares,
-2022
-
-Nicolás, J. A . (ed.), Guía Comares de Zubiri, Comares, Granada, 2011
-
-Savignano, A., Panorama de la filosofía española del s. XX, Granada, Comares, 2008
-
-Zamora Bonilla, J., Guía Comares de Ortega y Gasset, Ed. Comares, Granada, 2013
-
-✅ Recursos añadidos (90):
+📚 Recursos sin cambios (99):
 ------------------------------
 Abel   Sánchez   (1917),   en   Obras   Completas,  vol.  II,  Escélicer,  Madrid,  1966-1971,  pp.  685-759;  en
 Cátedra, Madrid, 1995
+
+Abellán, J.L., Historia crítica de la filosofía española, Madrid, Alianza, 1979-89
 
 Brito, M ., Ignacio Ellacuría. Fraternidad solidaria, Barcelona, Herder, 2023
 
@@ -141,9 +111,6 @@ Cerezo, P., Ortega y Gasset. Voluntad de aventura, Barcelona, Ariel, 1984
 Cerezo, P., Unamuno. Las máscaras de lo trágico, Madrid, Trotta, 1996
 
 Claros del bosque, Cátedra, Madrid, 2011
-
-Conill,   J   .,   Intimidad  corporal  y  persona  humana:  de  Nietzsche  a  Ortega  y  Zubiri,  Madrid,  Tecnos,
-2019
 
 Conill,   J   .,   “Ortega   y   Zubiri”,  Nicolás,  J.  A.  (ed.),  Guía  Comares  de  Zubiri,  Granada,  Comares,
 2011, pp. 215-227
@@ -181,14 +148,21 @@ En   torno   al   casticismo   (1902),   en   Obras   Completas,   vol.  I,  Esc
 
 España invertebrada, en Obras Completas, III, Taurus, Madrid, 2005
 
+Ferrater Mora, J ., Diccionario de Filosofía, Alianza, Madrid, 1979
+
 Ferrater Mora, J ., Unamuno. Bosquejo de una filosofía, Madrid, Alianza, 1985
 
 Filosofía hispano-americana
 
 Filosofía y poesía, FCE, México, 2005
 
+Fornet   Betancourt,   R.,   Beorlegui,  C  .  (eds.),  Guía  Comares  de  filosofía  latinoamericana,  Granada,
+Comares, 2014
+
 Fornet-Betancourt,   R   .,   Crítica   intercultural   de   la   filosofía  latinoamericana  actual.  Madrid:
 Trotta, 2004
+
+Fraile, G ., Historia de la filosofía española, Madrid, 1971
 
 Gaos,   J   .,   El   pensamiento   hispanoamericano,   Ciudad  de  México,  Universidad  Nacional  Autónoma  de
 México, 1993
@@ -196,6 +170,8 @@ México, 1993
 Gaos, J ., Filosofía de la técnica, Ciudad de México, Herder, 2022
 
 Gaos, J., Historia de nuestra idea del mundo, Ciudad de México: Fondo de Cultura Económica, 1992
+
+Garagorri, P., La filosofía española en el siglo XX, Madrid, 1985
 
 González,   A.,   “Aproximación   a   la  filosofía  zubiriana  de  la  religión”,  Nicolás,  J.  A.  (ed.),  Guía
 Comares de Zubiri, Granada, Comares, 2011, pp. 503-518
@@ -209,6 +185,8 @@ Gracia, D., Voluntad de verdad. Para leer a Zubiri, Barcelona, Labor, 1986
 Gracia,   D.,   “Un   siglo   de  filosofía  española:  Unamuno,  Ortega,  Zubiri”,  Nicolás,  J.A.,  Samour,  H.
 (eds.),   Historia,   ética  y  ciencia.  El  impulso  crítico  de  la  filosofía  de  Zubiri,  Granada,  Comares,
 2007, 3–67
+
+Guy, A., Historia de la filosofía española, Barcelona, Anthropos, 1985
 
 Hacia un saber sobre el alma, Alianza, Madrid, 2000
 
@@ -230,8 +208,8 @@ J. Ortega y Gasset, Obras completas, Ed. Taurus, Madrid, 2004-2010
 
 José Ortega y Gasset
 
-La   agonía   del  cristianismo  (1931),  en  Obras  Completas,  vol.  VII,  Escélicer,  Madrid,  1966-1971,  pp.
-305-385
+Krings,   H.,   Baumgartner,   H.M.,   Wild,   Ch.   (eds.),  Conceptos  fundamentales  de  Filosofía,  Herder,
+Barcelona, 1977
 
 La deshumanización del arte, en Obras Completas, III, Taurus, Madrid, 2005
 
@@ -251,6 +229,9 @@ M. de Unamuno, Obras completas, Madrid, Biblioteca Castro, 1990ss
 
 María Zambrano
 
+Marías,   J.,   La   filosofía  española  actual.  Unamuno,  Ortega,  Morente,  Zubiri,  Madrid,  Espasa-Calpe,
+1973
+
 Marías, J., Miguel de Unamuno, Buenos Aires, Emecé, 1953
 
 Marías, J., Ortega, Madrid, Alianza, 1983
@@ -262,12 +243,17 @@ Princeton University Press, 2000
 
 Miguel de Unamuno
 
+Mora,   J.L.,  Heredia,  A.  (eds.)  Guía  Comares  de  historia  de  la  filosofía  española,  Granada,  Comares,
+2022
+
 Naturaleza, historia, Dios, Alianza, Madrid, 2006
 
 Nicol,   E  .,  El  problema  de  la  filosofía  hispana,  Ciudad  de  México,  Fondo  de  Cultura  Económica,  1998
 (1961)
 
 Nicol, E ., La idea del hombre, Ciudad de México, Fondo de Cultura Económica, 2003
+
+Nicolás, J. A . (ed.), Guía Comares de Zubiri, Comares, Granada, 2011
 
 Nicolás,   J.A   .,  “Alternativas  actuales  a  la  crisis  de  la  metafísica  moderna”,  Realidad,  96  (2003),
 765-788
@@ -299,6 +285,8 @@ Rabaté, C. y Rabaté, J.C., Miguel de Unamuno. Biografía, Madrid, Taurus, 2011
 San   Manuel   Bueno,   mártir   (1931),   en  Obras  Completas,  vol.  II,  Escélicer,  Madrid,  1966-1971,  pp.
 1115-1154; en Cátedra, Madrid, 2006; en Obras Completas, Turner, Madrid, 1995, pp. 293-447
 
+Savignano, A., Panorama de la filosofía española del s. XX, Granada, Comares, 2008
+
 Sobre el hombre, Alianza, Madrid, 1998
 
 Sobre la esencia, Alianza, Madrid, 2008
@@ -326,10 +314,22 @@ Zacarés   Pamblanco,   A.,   Mascarell  Dauder,  R.  (eds.),  María  Zambrano.
 
 Zamora Bonilla, J. Ortega y Gasset. La aventura de la verdad, Barcelona, Shackleton Books, 2022
 
-Zamora Bonilla, J., Ortega, Barcelona, Plaza & Janés, 2002
+Zamora Bonilla, J., Guía Comares de Ortega y Gasset, Ed. Comares, Granada, 2013
 
-¿Qué es conocimiento?, Revista de Occidente en Alianza Editorial, Madrid, 1984
+Zamora Bonilla, J., Ortega, Barcelona, Plaza & Janés, 2002
 
 ¿Qué es filosofía?, en Obras Completas, VIII, Taurus, Madrid, 2008
 
-📊 Porcentaje estimado de cambio: 90% [█████████░]
+✅ Recursos añadidos (4):
+------------------------------
+Conill,   J   .,   Intimidad  corporal  y  persona  humana:  de  Nietzsche  a  Ortega  y  Zubiri,  Madrid,  Tecnos,
+2019
+
+I. Fuentes
+
+La   agonía   del  cristianismo  (1931),  en  Obras  Completas,  vol.  VII,  Escélicer,  Madrid,  1966-1971,  pp.
+305-385
+
+¿Qué es conocimiento?, Revista de Occidente en Alianza Editorial, Madrid, 1984
+
+📊 Porcentaje estimado de cambio: 6% [░░░░░░░░░░]

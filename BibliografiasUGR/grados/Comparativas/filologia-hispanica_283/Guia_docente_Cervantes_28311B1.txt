@@ -17,7 +17,7 @@ la libertad, Madrid: Sociedad de Estudios y Publicaciones, 1960
 
 ________. ed. A. Hermenegildo, M., Madrid: Castalia
 
-📚 Recursos sin cambios (64):
+📚 Recursos sin cambios (70):
 ------------------------------
 ALVAR, Carlos (dir.). Gran Enciclopedia Cervantina . Madrid: Castalia, 2005
 
@@ -84,6 +84,8 @@ NAVARRO DURÁN, Rosa. Cervantes, Madrid: Síntesis, 2003
 PEÑA MARTÍN, J. Francisco. Cervantes y la libertad de las mujeres. Alcalá de Henares: Universidad de
 Alcalá, 2017
 
+REY HAZAS, Antonio. Cervantes: literatura y vida . Madrid: Alianza Editorial, 2005
+
 REY   HAZAS,  Antonio.  Cervantes:  literatura  y  vida.  Madrid:  Alianza  Editorial,  2005  ________.  Poética
 de la libertad y otras claves cervantinas. Madrid: Eneida, 2005
 
@@ -93,8 +95,12 @@ RILEY, Edward, Teoría de la novela de Cervantes, Madrid: Taurus, 1966
 
 RILEY, Edward. Introducción al Quijote, Barcelona: Crítica, 1991
 
+RIQUER, Martín de. Aproximación al Quijote, Barcelona: Salvat, 1970
+
 RODRÍGUEZ,   Juan   Carlos.   El   escritor   que   compró  su  propio  libro:  para  leer  el  Quijote.  Granada:
 Comares, 2013
+
+RODRÍGUEZ, Juan Carlos. La literatura del pobre . Granada, Comares, 1994
 
 RUBIO,   Fanny   (coord.).  El  Quijote  en  clave  de  mujer/es.  Madrid:  Universidad  Complutense  de  Madrid,
 2005
@@ -127,6 +133,8 @@ ________. Ed. de Alfredo Baras Escolá. Madrid: Galaxia Gutenberg. 2013
 
 ________. Entremeses. Edición de Micholas Spadaccini. Madrid: Cátedra. 1998
 
+________. La Galatea, ed. F. Sevilla y A. Rey Hazas, Alianza
+
 ________.   La   Galatea,   ed.   F.   Sevilla   y   A.  Rey  Hazas,  Alianza  ________.  ed.  de  Francisco  López
 Estrada y M.ª Teresa López García-Berdoy. Madrid: Cátedra. 1999
 
@@ -135,6 +143,9 @@ ________. La rara invención: estudios sobre Cervantes y su posteridad literaria
 
 ________.   Los  trabajos  de  Persiles  y  Sigismunda  .  Edición  de  Carlos  Romero  Muñoz.  Madrid:  Cátedra.,
 1997
+
+________.   Novelas  ejemplares  .  Selección,  edición  de  Florencio  Sevilla  y  Antonio  Rey  Hazas.  Madrid:
+Espasa Calpe, 2011
 
 ________.   Novelas   ejemplares,   ed.   de   Jorge   García   López.  Estudio  Preliminar  de  Javier  Blasco.
 Barcelona: Crítica. 2001
@@ -170,6 +181,9 @@ ________. ed. Martín de Riquer, Barcelona: Planeta, 1962
 ________. ed. de Carlos Romero Muñoz. Madrid: Cátedra. 2002
 
 ________.   ed.   de   Florencio  Sevilla.  Introducción  de  Antonio  Rey  Hazas.  Madrid:  Alianza  Editorial,
+2008
+
+________.   ed.   de   Florencio  Sevilla.  Introducción  de  Antonio  Rey  Hazas.  Madrid:  Alianza  Editorial,
 2008 ________. Don Quijote de la Mancha. Índice. Edición crítica y anotada. Centro Virtual Cervantes
 (http://cvc.cervantes.es/obref/quijote/indice.htm)
 
@@ -178,27 +192,15 @@ ________. ed., notas y anexos de Francisco Rico, Madrid: Punto de lectura, 2007
 «Bibliografía   y  abreviaturas»  pp.  997-1212  en  Volumen  complementario  de  Don  Quijote  de  la  Mancha,  2
 vols. ed. Francisco Rico, Barcelona, Instituto Cervantes – Crítica, 1998
 
-✅ Recursos añadidos (10):
+✅ Recursos añadidos (4):
 ------------------------------
-BLASCO, Javier. Cervantes, raro invento r. Alcalá de Henares: Centro de Estudios Cervantinos, 2005
+CERVANTES,   Miguel  de.  Obras  completas  .  Edición  de  Florencio  Sevilla  y  Antonio  Rey  Hazas,  Alcalá  de
+Henares: Centro de Estudios Cervantinos, 1993-1995
 
 FOUCAULT, Michel. Las palabras y las cosas . México: Siglo Veintiuno, 1968
 
-REY HAZAS, Antonio. Cervantes: literatura y vida . Madrid: Alianza Editorial, 2005
-
-RIQUER, Martín de. Aproximación al Quijote, Barcelona: Salvat, 1970
-
-RODRÍGUEZ, Juan Carlos. La literatura del pobre . Granada, Comares, 1994
-
 ROSALES, Luis. Cervantes y la libertad, Madrid: Sociedad de Estudios y Publicaciones, 1960
-
-________. 2 vols. ed. de Florencio Sevilla y Antonio Rey Hazas. Madrid: Espasa Calpe
 
 ________. Cervantes en Barcelona, Barcelona: Acantilado, 2005
 
-________.   ed.   de   Florencio  Sevilla.  Introducción  de  Antonio  Rey  Hazas.  Madrid:  Alianza  Editorial,
-2008
-
-________. ed. de Francisco López Estrada y M.ª Teresa López García-Berdoy. Madrid: Cátedra. 1999
-
-📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

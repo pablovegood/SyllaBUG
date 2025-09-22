@@ -2,16 +2,16 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados (1):
-------------------------------
-No procede. No procede
-
-📚 Recursos sin cambios (0):
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
+
+📚 Recursos sin cambios (1):
+------------------------------
+No procede. No procede
 
 ✅ Recursos añadidos (0):
 ------------------------------
 No hay elementos.
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

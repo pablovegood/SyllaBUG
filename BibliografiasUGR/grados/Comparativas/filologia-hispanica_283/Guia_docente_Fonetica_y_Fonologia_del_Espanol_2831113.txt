@@ -2,11 +2,11 @@
 Grado: filologia-hispanica (283)
 ==================================================
 
-❌ Recursos eliminados (1):
+❌ Recursos eliminados (0):
 ------------------------------
-HIDALGO, A. y M. QUILIS MERÍN (2002): Fonética y fonología españolas, Tirant Lo Blanch, Valencia
+No hay elementos.
 
-📚 Recursos sin cambios (23):
+📚 Recursos sin cambios (24):
 ------------------------------
 ALARCOS LLORACH, E. (1986 [1950]): Fonología Española, Madrid, Gredos [4ª edición, 1965]
 
@@ -27,6 +27,9 @@ Arco/Libros
 
 HIDALGO   NAVARRO,   A.   et   al.   (eds.)  (2014):  La  fonética  como  ámbito  interdisciplinar:  estudios  de
 fonopragmática, fonética aplicada y otras interfaces, Valencia: Universidad de Valencia
+
+HIDALGO,   A.   y   M.   QUILIS   MERÍN   (2012):   La  voz  del  Lenguaje:  Fonética  y  Fonología  del  Español  .
+Valencia: Tirant
 
 HUALDE, J.I. (2005). Los Sonidos Del Español, Cambridge: Cambridge University Press
 
@@ -63,12 +66,9 @@ Madrid: Cátedra
 TRUBETZKOY,   N.  S.  (1976  [1939]):  Principios  de  fonología,  ed.  de  D.  García  Giordano  y  L.  J.  Prieto,
 Madrid, Cincel
 
-✅ Recursos añadidos (2):
+✅ Recursos añadidos (1):
 ------------------------------
 GIL   FERNÁNDEZ,   J.   y   Llisterri,   J.  (Eds.)  (2024).  Fonética  y  fonología  descriptivas  de  la  lengua
 española . Georgetown University Press
 
-HIDALGO,   A.   y   M.   QUILIS   MERÍN   (2012):   La  voz  del  Lenguaje:  Fonética  y  Fonología  del  Español  .
-Valencia: Tirant
-
-📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]

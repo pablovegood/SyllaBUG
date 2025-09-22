@@ -2,9 +2,9 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados (0):
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Cloud, S. Entender el comic. Astiberri
 
 📚 Recursos sin cambios (18):
 ------------------------------
@@ -28,13 +28,12 @@ Jiménez, J. Teoría del arte. Alianza
 
 Knobler, N. El diálogo visual. Aguilar
 
-Krauss, R. E. Pasajes de la escultura moderna. Akal
+Krauss, R. E. Pasajes de la escultura moderna. Akal. Marchán
 
 Marchán   Fiz,  S.  Del  arte  objetual  al  arte  de  concepto.  Epílogo  sobre  la  sensibilidad  «postmoderna».
 Akal
 
-McCloud, S. Entender el comic. Astiberri Ramírez, J. A. Historia del arte 4. El mundo contemporáneo.
-Alianza
+Ramírez, J. A. Historia del arte 4. El mundo contemporáneo. Alianza. Sánchez
 
 Satué, FJ. El Diseño gráfico. Alianza
 
@@ -45,10 +44,10 @@ Tribe, M. Arte y nuevas tecnologías. Taschen
 
 Villa, R. de la. Guía del arte hoy. Tecnos
 
-Zunzunegui, S. Pensar la imagen. Cátedra, UPV
+Zunzunegui, S. Pensar la imagen. Cátedra, U PV
 
 ✅ Recursos añadidos (1):
 ------------------------------
 McCloud, S. Entender el comic. Astiberri
 
-📊 Porcentaje estimado de cambio: 5% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

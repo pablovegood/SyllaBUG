@@ -8,7 +8,7 @@ Principios   de  Análisis  Instrumental,  D.A.  Skoog,  F.J.  Holler,  T.A.,  S
 Graw   Hill,   2007   Técnicas   instrumentales   en   Farmacia   y  Ciencias  de  la  Salud,  O.  Valls  y  B.  Del
 Castillo, 4ª Edición, Ed. Piros, Barcelona, 1998
 
-📚 Recursos sin cambios (12):
+📚 Recursos sin cambios (13):
 ------------------------------
 Análisis Químico Cuantitativo, Daniel C. Harris, 3ª Edición, Ed. Reverté, 2007
 
@@ -38,14 +38,14 @@ Química Analítica, José Luís Vilchez Quero. Ed. Fleming. Granada 2023
 Toma   y   tratamiento   de   muestra,   C.   Cámara,  P.  Fernández,  A.  Martín-Esteban,  C.  Pérez-Conde  y  M.
 Vidal, Ed. Síntesis, Madrid 2004
 
-✅ Recursos añadidos (3):
+Técnicas   instrumentales  en  Farmacia  y  Ciencias  de  la  Salud,  O.  Valls  y  B.  Del  Castillo,  4ª  Edición,
+Ed. Piros, Barcelona, 1998
+
+✅ Recursos añadidos (2):
 ------------------------------
 Análisis Químico, Ramiro Avidad, Ignacio de Orbe. Universidad de Granada 2006
 
 Principios   de  Análisis  Instrumental,  D.A.  Skoog,  F.J.  Holler,  T.A.,  S.  R.  Crouch  6ª  Edición,  Ed.  Mc
 Graw Hill, 2007
 
-Técnicas   instrumentales  en  Farmacia  y  Ciencias  de  la  Salud,  O.  Valls  y  B.  Del  Castillo,  4ª  Edición,
-Ed. Piros, Barcelona, 1998
-
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

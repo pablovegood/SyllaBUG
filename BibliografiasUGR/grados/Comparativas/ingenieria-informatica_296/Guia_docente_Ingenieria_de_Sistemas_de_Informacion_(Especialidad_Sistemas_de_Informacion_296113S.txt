@@ -2,7 +2,7 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (3):
+❌ Recursos eliminados (2):
 ------------------------------
 ISBN   013670722X   Charles   P.   Pfleeger  &  Shari  Lawrence  Pfleeger:  "Security  in  Computing",  Prentice
 Hall   PTR,   5th   edition,   2015.   ISBN  0134085043  Sean  Smith  &  John  Marchesini:  "The  Craft  of  System
@@ -28,6 +28,26 @@ Valduriez:   "Principles   of   Distributed   Database   Systems",   Springer,  
 3030262529   Andreas  Meier  &  Michael  Kaufmann:  "SQL  &  NoSQL  Databases:  Models,  Languages,  Consistency
 Options and Architectures for Big Data Management", Springer Vieweg
 
+📚 Recursos sin cambios (29):
+------------------------------
+AnHai   Doan,  Alon  Halevy,  and  Zachary  Ives:  "  Principles  of  Data  Integration  ",  Morgan  Kaufmann,  1st
+edition, 2012. ISBN 0124160441
+
+Andreas Meier & Michael Kaufmann: "SQL & NoSQL Databases: Models, Languages, Consistency Options and
+Architectures for Big Data Management", Springer Vieweg, 2019. ISBN 3658245484
+
+Bases de datos
+
+Charles   P.   Pfleeger   &   Shari   Lawrence   Pfleeger:  "Security  in  Computing",  Prentice  Hall  PTR,  5th
+edition, 2015. ISBN 0134085043
+
+Chellammal   Surianarayanan   &   Pethuru   Raj   Chelliah:   "Essentials   of   Cloud  Computing:  A  Holistic
+Perspective ", Springer, 2019. ISBN 3030131335
+
+David C. Hay: "Data Model Patterns: A Metadata Map", Morgan Kaufmann, 2006. ISBN 0120887983
+
+Gregor Hohpe & Bobby Woolf: "Enterprise Integration Patterns", Addison-Wesley, 2003. ISBN 0321200683
+
 ISBN   3658245484   Ralph   Kimball   &  Margy  Ross:  "The  Data  Warehouse  Toolkit:  The  Definitive  Guide  to
 Dimensional   Modeling",   Wiley,  3rd  edition,  2013.  ISBN  1118530802  Ralph  Kimball  &  Joe  Caserta:  "The
 Data   Warehouse   ETL   Toolkit",   Wiley,   2004.   ISBN   Scott   W.   Ambler   &   Pramodkumar  J.  Sadalage:
@@ -38,22 +58,7 @@ Chapman   &  Hall  /  CRC  Press,  2017.  ISBN  1498754074  Chellammal  Surianar
 "Essentials   of  Cloud  Computing:  A  Holistic  Perspective  ",  Springer,  2019.  ISBN  3030131335  Seguridad
 William Stallings: "Cryptography and Network Security", Prentice Hall, 8th edition
 
-📚 Recursos sin cambios (28):
-------------------------------
-Andreas Meier & Michael Kaufmann: "SQL & NoSQL Databases: Models, Languages, Consistency Options and
-Architectures for Big Data Management", Springer Vieweg, 2019. ISBN 3658245484
-
-Bases de datos
-
-Clifton Nock: "Data Access Patterns", Addison-Wesley, 2003. ISBN 0321555627
-
-David C. Hay: "Data Model Patterns: A Metadata Map", Morgan Kaufmann, 2006. ISBN 0120887983
-
-Gregor Hohpe & Bobby Woolf: "Enterprise Integration Patterns", Addison-Wesley, 2003. ISBN 0321200683
-
 Integración de datos
-
-John E. Canavan: "Fundamentals of Network Security", Artech House, 2000. ISBN 1580531768
 
 John R. Talburt: "Entity Resolution and Information Quality", Morgan Kaufmann, 2010. ISBN 0123819725
 
@@ -93,8 +98,6 @@ Scott W. Ambler: "Agile Database Techniques", Wiley, 2003. ISBN 0471202835
 Sean   Smith   &   John   Marchesini:  "The  Craft  of  System  Security",  Addison-Wesley  Professional,  2007.
 ISBN 0321434838
 
-Sistemas distribuidos
-
 Thomas   N.   Herzog,   Fritz   J.   Scheuren   &   William   E.   Winkler:   "Data  Quality  and  Record  Linkage
 Techniques", Springer, 2007. ISBN 0387695028
 
@@ -111,16 +114,11 @@ Volume 5: On Patterns and Pattern Languages, 2007. ISBN 0471486485
 William   Stallings:   "Cryptography   and   Network   Security",   Prentice  Hall,  8th  edition,  2020.  ISBN
 013670722X
 
-✅ Recursos añadidos (7):
+✅ Recursos añadidos (6):
 ------------------------------
-AnHai   Doan,  Alon  Halevy,  and  Zachary  Ives:  "  Principles  of  Data  Integration  ",  Morgan  Kaufmann,  1st
-edition, 2012. ISBN 0124160441
+Clifton Nock: "Data Access Patterns", Addison-Wesley, 2003. ISBN 0321555627
 
-Charles   P.   Pfleeger   &   Shari   Lawrence   Pfleeger:  "Security  in  Computing",  Prentice  Hall  PTR,  5th
-edition, 2015. ISBN 0134085043
-
-Chellammal   Surianarayanan   &   Pethuru   Raj   Chelliah:   "Essentials   of   Cloud  Computing:  A  Holistic
-Perspective ", Springer, 2019. ISBN 3030131335
+John E. Canavan: "Fundamentals of Network Security", Artech House, 2000. ISBN 1580531768
 
 Len   Bass,   Paul  Clements  &  Rick  Kazman:  "Software  Architecture  in  Practice",  SEI  Series  in  Software
 Engineering, Addison-Wesley Professional, 4th edition, 2021, ISBN 0136886094
@@ -134,4 +132,4 @@ Architectural Thinking". O'Reilly, 2024. ISBN 1098134354
 Robert   C.   Martin:   "Clean   Architecture:   A   Craftsman's   Guide  to  Software  Structure  and  Design",
 Pearson, 2017. ISBN 0134494164
 
-📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

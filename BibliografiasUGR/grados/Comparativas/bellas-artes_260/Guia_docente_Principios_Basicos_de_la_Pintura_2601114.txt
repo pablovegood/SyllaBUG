@@ -2,11 +2,12 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados (0):
+❌ Recursos eliminados (1):
 ------------------------------
-No hay elementos.
+Moreno,   T.   (1996),   El   color:   Historia,   teoría  y  aplicaciones,  Barcelona,  Ariel.  Nieto  Alcaide,
+Víctor (2000), El simbolismo de los colores,Barcelona, Sophia Perennis. Pivasena, S
 
-📚 Recursos sin cambios (32):
+📚 Recursos sin cambios (31):
 ------------------------------
 AAVV (2017), Aprender e Investigar en Pintura 1, Barcelona, La Puerta del Libro & Desclosa
 
@@ -21,7 +22,7 @@ Ball, P. (2003), La invención del color, Madrid, Turner
 
 Beljon, J.J. (1993), Gramática del arte, Madrid, Celeste
 
-Berger, R. (2002), El conocimiento de la pintura (Vols. 1-3),Barcelona, Noguer
+Berger, R. (2002), El conocimiento de la pintura (Vols. 1-3),Barcelona, Noguer. De
 
 Birren, F. (1987), Principles of color, Pennsylvania, Schiffer Publishers
 
@@ -31,7 +32,7 @@ Dondis,   D.A.   (1990),  La  sintaxis  de  la  imagen.  Introducción  al  alfa
 Gili
 
 Edwards,   B.   (2004),   Color.   A   course   in   mastering  the  art  of  mixing  colors,  Nueva  York,  Jeremy
-Tharcher/Penguin
+Tharcher/Penguin. Gallego, R
 
 Gallego, R., Sanz, J.C. (2006), Armonía Cromática, Madrid, H. Blume
 
@@ -42,7 +43,8 @@ comunicación visual, Barcelona, Debate
 
 Gombrich, E.H. (1979), Arte e ilusión, Barcelona, Gustavo Gili
 
-Gompertz, W. (2015), Think Like an Artist, Londres, Penguin Books
+Gompertz,   W.   (2015),  Think  Like  an  Artist,  Londres,  Penguin  Books.  González  Cuasante,  J.M.,  Cuevas
+Riaño, M.M., Fernández
 
 González   Cuasante,   J.M.,   Cuevas  Riaño,  M.M.,  Fernández  Quesada,  B.  (2005),  Introducción  al  color,
 Tres Cantos, Akal
@@ -67,15 +69,13 @@ Malins, F. (1988), Para entender la pintura: los elementos de la composición, M
 
 Moreno, T. (1996), El color: Historia, teoría y aplicaciones, Barcelona, Ariel
 
-Nieto Alcaide, Víctor (2000), El simbolismo de los colores,Barcelona, Sophia Perennis
-
 Pivasena,   S.,   Philp,   B.  (2015),  Explorar  la  pintura:  un  curso  de  pintura  entretenido,  ágil  y  apto
 para cualquier persona,Barcelona, Gustavo Gili
 
 Puttfarken,   T.   (2000),   The   discovery   of   pictorical   composition:   theories   of  visual  order  in
 painting, 1400-1800, New Haven, Yale University Press
 
-Tornquist, J. (2008), Color y Luz. Teoría y Práctica, Barcelona, Gustavo Gili
+Tornquist, J. (2008), Color y Luz. Teoría y Práctica, Barcelona, Gustavo Gili. Truan
 
 Truan   Laka,   M.   (2013),  Introducción  a  la  pintura  a  través  del  color,  Bilbao,  Universidad  del  País
 Vasco
@@ -83,8 +83,10 @@ Vasco
 Yot,   R.   (2011),   Guía   para   usar  la  luz:  para  ilustradores,  dibujantes,  pintores,  interioristas  y
 artistas, Barceolona, Blume
 
-✅ Recursos añadidos (1):
+✅ Recursos añadidos (2):
 ------------------------------
 Finlay, V. (2023), Color. Historia de la paleta cromática. Madrid, Capitán Swing Libros
 
-📊 Porcentaje estimado de cambio: 3% [░░░░░░░░░░]
+Nieto Alcaide, Víctor (2000), El simbolismo de los colores,Barcelona, Sophia Perennis
+
+📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

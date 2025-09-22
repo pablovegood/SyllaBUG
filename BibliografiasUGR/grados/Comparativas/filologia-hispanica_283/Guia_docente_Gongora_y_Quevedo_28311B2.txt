@@ -4,14 +4,22 @@ Grado: filologia-hispanica (283)
 
 ❌ Recursos eliminados (2):
 ------------------------------
-Francisco   de   Quevedo   Quevedo,   Francisco   de  (2005),  Poesía  varia,  (ed.  James  O.  Crosby),  Madrid:
-Cátedra
-
 Quevedo,   Francisco   de  (2011),  La  vida  del  Buscón  (ed.  Fernando  Cabo  Aseguinolaza),  Madrid:  Galaxia
 Gutenberg
 
-📚 Recursos sin cambios (44):
+——    "Francisco    de    Quevedo"    (Biografía    de    la    Real    Academia    de    la    Historia).   En:
+http://dbe.rah.es/biografias/10543/francisco-de-quevedo-y-villegas    JÁUREGUI,    Juan    de    (2002).
+Antídoto   contra   la   pestilente   poesía   de   las   Soledades  por  Juan  de  Jáuregui.  Estudio  y  edición
+crítica   de  José  Manuel  Rico  García.  Sevilla:  Universidad  de  Sevilla  LIDA,  Raimundo  (1980)  Prosas  de
+Quevedo, Barcelona, Crítica
+
+📚 Recursos sin cambios (47):
 ------------------------------
+"Francisco     de     Quevedo"     (Biografía     de    la    Real    Academia    de    la    Historia).    En:
+http://dbe.rah.es/biografias/10543/francisco-de-quevedo-y-villegas
+
+(1969). En torno a las "Soledades" de Góngora. Granada: Universidad de Granada
+
 ALONSO, Dámaso (1980). Góngora y el Polifemo. Madrid: Gredos
 
 ARELLANO, Ignacio (1984). Poesía satírico-burlesca de Quevedo. Pamplona: EUNSA
@@ -37,6 +45,9 @@ EGIDO, Aurora (1990). Fronteras de la poesía del Barroco. Barcelona: Crítica
 ESPINOSA, Pedro (2005). Flores de poetas ilustres. Edición de Belén Molina Huete. Sevilla: Fundación
 José Manuel Lara
 
+Francisco   de   Quevedo   Quevedo,   Francisco   de  (2005),  Poesía  varia,  (ed.  James  O.  Crosby),  Madrid:
+Cátedra
+
 GARCÍA   DE   LA   CONCHA,   Víctor   (ed.)   (1982)   Homenaje  a  Quevedo  (Academia  Literaria  Renacentista)
 Salamanca, Universidad
 
@@ -45,6 +56,9 @@ GÓNGORA, Luis de (1980). Letrillas. Edición de Robert Jammes. Madrid: Castalia
 JAMMES, ROBERT (1987). La obra poética de don Luis de Góngora y Argote. Madrid: Castalia
 
 JAURALDE POU, Pablo (1998). Francisco de Quevedo (1580-1645). Madrid: Castalia
+
+JÁUREGUI,   Juan   de   (2002).   Antídoto   contra   la   pestilente   poesía   de  las  Soledades  por  Juan  de
+Jáuregui. Estudio y edición crítica de José Manuel Rico García. Sevilla: Universidad de Sevilla
 
 Luis   de   Góngora  Góngora,  Luis  de  (2015),  Antología  poética  (ed.  Antonio  Carreira),  Madrid:  Espasa-
 Calpe
@@ -94,12 +108,6 @@ Gendreaux-Massaloux,   Agustín   de   la  Granja,  Antonio  Pérez  Lasheras,  
 Roses,   Andrés   Sánchez   Robayna,   Alan  S.  Trueblood  y  Rafael  Vázquez  Lesmes]  (1996).  Estudios  sobre
 Góngora. Córdoba: Ayuntamiento-Real Academia de Córdoba
 
-——    "Francisco    de    Quevedo"    (Biografía    de    la    Real    Academia    de    la    Historia).   En:
-http://dbe.rah.es/biografias/10543/francisco-de-quevedo-y-villegas    JÁUREGUI,    Juan    de    (2002).
-Antídoto   contra   la   pestilente   poesía   de   las   Soledades  por  Juan  de  Jáuregui.  Estudio  y  edición
-crítica   de  José  Manuel  Rico  García.  Sevilla:  Universidad  de  Sevilla  LIDA,  Raimundo  (1980)  Prosas  de
-Quevedo, Barcelona, Crítica
-
 —— (1982). Estudios y ensayos gongorinos. Madrid: Gredos
 
 —— (1994). Soledades. Edición de Robert Jammes. Madrid: Castalia
@@ -121,10 +129,8 @@ Garrido. Córdoba: Diputación de Córdoba
 
 —— (coord.) (2006). La renovación poética del Renacimiento al Barroco. Madrid: Síntesis
 
-✅ Recursos añadidos (7):
+✅ Recursos añadidos (5):
 ------------------------------
-(1969). En torno a las "Soledades" de Góngora. Granada: Universidad de Granada
-
 (2025). La literatura en la sociedad (de)sacralizada, Madrid, Akal
 
 Francisco   de   Quevedo  Quevedo,  Francisco  de  (2025),  Huye  la  hora.  Antología  poética,  (eds.  Fernando
@@ -133,12 +139,9 @@ Arellano), Madrid: Cátedra
 
 Góngora, Luis de (2015), Antología poética (ed. Antonio Carreira), Madrid: Espasa-Calpe
 
-JÁUREGUI,   Juan   de   (2002).   Antídoto   contra   la   pestilente   poesía   de  las  Soledades  por  Juan  de
-Jáuregui. Estudio y edición crítica de José Manuel Rico García. Sevilla: Universidad de Sevilla
-
 LIDA, Raimundo (1980) Prosas de Quevedo, Barcelona, Crítica
 
 Quevedo,   Francisco   de   (2025),   Huye  la  hora.  Antología  poética,  (eds.  Fernando  Plata.  y  Adrián  J.
 Sáez), Madrid: Cátedra
 
-📊 Porcentaje estimado de cambio: 17% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

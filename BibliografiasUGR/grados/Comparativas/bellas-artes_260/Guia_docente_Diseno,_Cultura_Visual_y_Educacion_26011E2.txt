@@ -2,19 +2,26 @@
 Grado: bellas-artes (260)
 ==================================================
 
-❌ Recursos eliminados (0):
+❌ Recursos eliminados (2):
 ------------------------------
-No hay elementos.
+Mitchell, W. J. T. (2009). Teoría de la imagen. Akal. Marín Viadel, Ricardo (2011) Infancia, mercado
+y educación artística. Aljibe. Marín Viadel, R., Roldán, J. y Caeiro
 
-📚 Recursos sin cambios (25):
+Rodríguez,   M.  (Eds.)  (2020).  Aprendiendo  a  enseñar  artes  visuales:  un  enfoque  A/R/Tográfico.  Tirant
+Lo   Blanch.  Munari,  Bruno  (1993).  ¿Cómo  nacen  los  objetos?  Gustavo  Gili.  Norman,  Donald  A.  (1990)  La
+psicología   de   los  objetos  cotidianos.  Nerea.  Norman,  Donald  A.  (2005)  El  diseño  emocional.  Por  qué
+nos   gustan   (o   no)   los   objetos  cotidianos.  Paidós.  Spirn,  Anne  Whiston  (2014)  The  eye  is  a  door.
+Landscape, photography and the art of discovery. Wolf Tree Press
+
+📚 Recursos sin cambios (23):
 ------------------------------
 Acaso, M. (2009). El lenguaje visual. Paidós
 
-Barthes, R. (2010) Mitologías. Siglo XXI
+Barthes, R. (2010) Mitologías. Siglo X XI
 
 Baudrillard, J. (1978). Cultura y simulacro . Editorial kairós
 
-Baudrillard, J. (2010 [1968]). El sistema de los objetos . Siglo XXI
+Baudrillard, J. (2010 [1968]). El sistema de los objetos. Siglo X XI
 
 Brea,   J.   (Ed.).   (2005)   Estudios   visuales.   La   epistemología   de   la  visualidad  en  la  era  de  la
 globalización . Akal
@@ -25,8 +32,8 @@ Eco, U. (1977). Tratado de semiótica general. Lumen
 
 Eco, U. (1984 [1968]). Apocalípticos e integrados. Lumen
 
-Freedman,   K.   (2006)   Enseñar   la   cultura  visual.  Currículum,  estética  y  la  vida  social  del  arte  .
-Octaedro
+Freedman,   K.   (2006)   Enseñar   la   cultura   visual.  Currículum,  estética  y  la  vida  social  del  arte.
+Octaedro. García
 
 García Canclini, N. (2001) Consumidores y ciudadanos . Grijalbo
 
@@ -34,7 +41,8 @@ Hernández, F. (2007). Espigador@s de la cultura visual . Octaedro
 
 Julier, G. (2010) La cultura del diseño . Gustavo Gili
 
-Lidwell, W.; Holden, K & Butler, J (2005). Principios Universales de diseño. Blume
+Lidwell,   W.;   Holden,   K   &  Butler,  J  (2005).  Principios  Universales  de  diseño.  Blume.  Roldán,  J.  y
+Marín
 
 Lipovetsky, G. (2007) La felicidad paradójica: ensayo sobre la sociedad de hiperconsumo . Anagrama
 
@@ -44,8 +52,6 @@ visuales: un enfoque A/R/Tográfico . Tirant Lo Blanch
 Marín Viadel, Ricardo (2011) Infancia, mercado y educación artística . Aljibe
 
 Mirzoeff, N. 82003). Una introducción a la cultura visual . Paidós
-
-Mitchell, W. J. T. (2009). Teoría de la imagen . Akal
 
 Morris, W. (1977 [1882-1889]) Arte y sociedad industrial . Fernando Torres
 
@@ -58,14 +64,14 @@ Paidós
 
 Roldán, J. y Marín Viadel, R. (2012) Metodologías artísticas de investigación en educación . Aljibe
 
-Spirn,   Anne  Whiston  (2014)  The  eye  is  a  door.  Landscape,  photography  and  the  art  of  discovery.  Wolf
-Tree Press
-
 Weinrichter,   A.   (Dir.)   (2007).   La   forma  que  piensa.Tentativas  en  torno  al  cine-ensayo.  Fondo  de
 Publicaciones del Gobierno de Navarra
 
-✅ Recursos añadidos (0):
+✅ Recursos añadidos (2):
 ------------------------------
-No hay elementos.
+Mitchell, W. J. T. (2009). Teoría de la imagen . Akal
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+Spirn,   Anne  Whiston  (2014)  The  eye  is  a  door.  Landscape,  photography  and  the  art  of  discovery.  Wolf
+Tree Press
+
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

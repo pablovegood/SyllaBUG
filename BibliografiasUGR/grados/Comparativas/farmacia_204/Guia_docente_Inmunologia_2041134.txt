@@ -2,7 +2,7 @@
 Grado: farmacia (204)
 ==================================================
 
-❌ Recursos eliminados (1):
+❌ Recursos eliminados (2):
 ------------------------------
 (*)   A.   Abbas,   A.   Lichtman   y   S.   Pillai.  Inmunología  Básica.  Funciones  y  trastornos  del  Sistema
 Inmunitario.   7ª   ed.  Elsevier,  2024.  (*)  A.  Campos  Ferrer,  C.  Muñoz  Ruiz  y  G.  Rubio  Pedraza.  Manual
@@ -12,8 +12,6 @@ Introducción   a   la  Inmunología  Humana,  6ª  ed.  Editorial  Médica  Pan
 JR.S.   Peebles   and   V.   Male.   Inmunología,   9ª   ed.   Elsevier,   2021   (*)   K.P.  Murphy,  C.  Weaver.
 Inmunobiología de Janeway. MANUAL MODERNO, 9ª edición
 
-📚 Recursos sin cambios (2):
-------------------------------
 (*)   J.   Punt,   S.   Stranford,   P.   Jones   and   J.A.   Owen.   Inmunología  de  Kuby,  8ª  ed.  McGraw-Hill
 Interamericana   de   España,  2020.  (*)  J.  Peña.  Inmunología.  Editorial  Pirámide.  Madrid.  2ª  ed.  1998.
 J.   Peña   Martínez.   Inmunología   clínica:   bases   moleculares   y  celulares.  2ª  ed.  Arán,  2001.  J.R.
@@ -38,17 +36,10 @@ Laboratory   Medicine.   W.B.   Saunders   Co,   Philadelphia,   2001.   (*)   R
 Molecular   Immunology  Current  Opinion  in  Immunology  Immunity  Immunological  Reviews  Nature  Immunology
 Nature Reviews Immunology The Journal of Immunology Trends in Immunology
 
-A.K. Abbas, A.H. Lichtman y S. Pillai. Inmunología Celular y Molecular. 10ª ed. Elsevier, 2022. (*)
-
-✅ Recursos añadidos (32):
+📚 Recursos sin cambios (31):
 ------------------------------
-(*) Recomendados
-
 A.   Abbas,   A.   Lichtman   y   S.   Pillai.   Inmunología   Básica.   Funciones   y   trastornos  del  Sistema
 Inmunitario. 7ª ed. Elsevier, 2024. (*)
-
-A.   Campos   Ferrer,   C.   Muñoz   Ruiz   y  G.  Rubio  Pedraza.  Manual  de  prácticas  de  Inmunología,  1ª  ed.
-Masson, Barcelona, 2004
 
 A.   Rabson,   I.   Roitt   and   P.   Delves.   Really   Essential   Medical   Immunology,   2nd  ed.  Blackwell
 Publishing, Oxford, 2004
@@ -61,9 +52,13 @@ System, 7th ed. Elsevier, 2023. (*)
 A.K. Abbas, A.H. Lichtman and S. Pillai. Cellular and Molecular Immunology, 10th ed. Elsevier, 2021.
 (*)
 
+A.K. Abbas, A.H. Lichtman y S. Pillai. Inmunología Celular y Molecular. 10ª ed. Elsevier, 2022. (*)
+
 Cellular & Molecular Immunology
 
 Coligan J.E., Bierer B.E. Current Protocols in Immunology. Wiley, 2016
+
+Current Opinion in Immunology
 
 D. Male, JR.S. Peebles and V. Male. Inmunología, 9ª ed. Elsevier, 2021 (*)
 
@@ -85,8 +80,6 @@ J.   Punt,   S.   Stranford,   P.   Jones   and   J.A.   Owen.   Inmunología   
 Interamericana de España, 2020. (*)
 
 J. Punt, S. Stranford, P. Jones and J.A. Owen. Kuby Immunology, 8th ed. Freeman 2019. (*)
-
-J.M. Cruse and R.E. Lewis, Illustrated Dictionary of Immunology, 3rd ed. CRC Press, 2009
 
 J.R.   Regueiro   González,   E.   Martínez   Naves,   C.   López  Larrea,  S.  González  Rodríguez  y  A.  Corell
 Almuzara.   Inmunología:   Biología   y  Patología  del  Sistema  Inmunitario,  5ª  edición.  Editorial  Médica
@@ -121,4 +114,13 @@ Trends in Immunology
 
 W. E. Paul. Fundamental Immunology, 7th ed. Lippincott Williams & Wilkins, Philadelphia, 2012
 
-📊 Porcentaje estimado de cambio: 97% [█████████░]
+✅ Recursos añadidos (3):
+------------------------------
+(*) Recomendados
+
+A.   Campos   Ferrer,   C.   Muñoz   Ruiz   y  G.  Rubio  Pedraza.  Manual  de  prácticas  de  Inmunología,  1ª  ed.
+Masson, Barcelona, 2004
+
+J.M. Cruse and R.E. Lewis, Illustrated Dictionary of Immunology, 3rd ed. CRC Press, 2009
+
+📊 Porcentaje estimado de cambio: 14% [█░░░░░░░░░]

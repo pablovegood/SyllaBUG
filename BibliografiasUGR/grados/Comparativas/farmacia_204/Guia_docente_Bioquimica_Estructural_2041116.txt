@@ -8,7 +8,7 @@ Vargas A.M. y Sola M.M. Estructura de Biomoléculas y Biología Molecular. 500 P
 explicación   de   todas   las   respuestas.  Ed.  Avicam,  Granada,  2019  Voet  D  y  Voet  J.  “Bioquímica”.  3ª
 edición. Panamericana, Madrid, 2006
 
-📚 Recursos sin cambios (18):
+📚 Recursos sin cambios (19):
 ------------------------------
 Devlin TM. “Bioquímica”. 4ª Edición. Reverté, Barcelona, 2015
 
@@ -45,6 +45,8 @@ Tymoczko JL, Berg JM, Stryer L. “Bioquímica. Curso básico”. Reverté, Barc
 
 Vargas AM. “Bioquímica Estructural y Biología Molecular”. Ed. Avicam, Granada, 2020
 
+Voet D y Voet J. “Bioquímica”. 3ª edición. Panamericana, Madrid, 2006
+
 Voet D, Voet J y Pratt CW. “Fundamentos de Bioquímica”. 4ª edición. Panamericana, Madrid, 2016
 
 Watson   JD,   Caudy   AA,   Myers   R,  Witkowski  JA.  Recombinant  DNA.  3a  Ed.  W.H.  Freeman  &  Co  Ltd.,  New
@@ -52,11 +54,9 @@ York, 2007
 
 Wolters Kluwer “Biología Molecular y Celular” Chandar y Viselli. Lippincot Williams & Wilking. 2011
 
-✅ Recursos añadidos (2):
+✅ Recursos añadidos (1):
 ------------------------------
 Vargas A.M. y Sola M.M. Estructura de Biomoléculas y Biología Molecular. 500 Preguntas tipo test con
 explicación de todas las respuestas. Ed. Avicam, Granada, 2019
 
-Voet D y Voet J. “Bioquímica”. 3ª edición. Panamericana, Madrid, 2006
-
-📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

@@ -10,10 +10,16 @@ Academia    Española,    2018.    Diccionario    de    la    Lengua   Española
 http://lema.rae.es/drae/   Roberts,  L.S.,  Janovy,  J.,  Jr.,  Nadler,  S.  2012.  Gerald  D.  Schmidt  &  Larry
 Roberts’ Foundations of Parasitology. 9th ed. McGraw-Hill Education
 
-📚 Recursos sin cambios (35):
+📚 Recursos sin cambios (38):
 ------------------------------
+Ausina,   V.,  Moreno,  S.  2010.  Tratado  SEIMC  de  Enfermedades  Infecciosas  y  Microbiología  Clínica,  (2ª
+ed.). Editorial Médica Panamericana, Buenos Aires
+
 Becerril   Flores,   M.A.,   Romero   Cabello,   R.   2004.   Parasitología   médica.   De  las  moléculas  a  la
 enfermedad. McGraw-Hill, México
+
+Bogitsh,   B.J.,   Carter,   C.E.,  Oeltmann,  T.N.  2019.  Human  Parasitology.  5th  ed.  San  Diego,  Academic
+Press. En: https://doi.org/10.1016/B978-0-12-813712-3.00019-9
 
 Bogitsh,   B.J.,   Carter,   C.E.,  Oeltmann,  T.N.  2019.  Human  Parasitology.  5th  ed.  San  Diego,  Academic
 Press.    En:   https://doi.org/10.1016/B978-0-12-813712-3.00019-9   Cordero   Del   Campillo,   M.,   Rojo
@@ -22,8 +28,6 @@ Vázquez, F.A. (y cols.) 2007.- Parasitología General. Edit. MacGraw Hill-Inter
 Carroll,   K.C.,   Pfaller,   M.A.,   Karlowksy,   J.,   Landry,   M.L.,  McAdam,  A.J.,  Patel,  R.,  Pritt,  B.
 (Eds.). 2023. Manual of Clinical Microbiology (13ª ed.). ASM Press, Washington
 
-De La Rosa, M., Prieto, J., Navarro, J.M. (Eds). 2011. Microbiología en Ciencias de la Salud
-
 De   La   Rosa,   M.,   Prieto,   J.,   Navarro,   J.M.  (Eds).  2011.  Microbiología  en  Ciencias  de  la  Salud.
 Concepto y Aplicaciones, (3ª ed.). Elsevier España, Barcelona
 
@@ -31,9 +35,6 @@ Diccionario   de   Términos   Médicos  (RANM  Real  Academia  Nacional  de  Me
 Médica Panamericana
 
 Forbes   ,   B.A.,   Sahm,  D.F.,  Weissfeld,  A.S.  2009.  Bailey  &  Scott.  Diagnostico  Microbiológico,  (12ª
-ed.) Editorial Médica Panamericana, Buenos Aires
-
-Forbes,   B.A.,   Sahm,   D.F.,   Weissfeld,  A.S.  2009.  Bailey  &  Scott.  Diagnostico  Microbiológico,  (12ª
 ed.) Editorial Médica Panamericana, Buenos Aires
 
 Garcia,   L.S.,   Arrowood,   M.,   Kokoskin,  E.,  Paltridge,  G.P.,  Pillai,  D.R.,  Procop,  G.W.,  Ryan,  N.,
@@ -62,6 +63,9 @@ ElsevierMasson, Madrid
 MacFaddin,   J.F.   2003.   Pruebas   Bioquímicas   para   la   Identificación   de  Bacterias  de  Importancia
 Clínica. Editorial Médica Panamericana, Buenos Aires
 
+Mehlhorn,   Heinz   (Ed.)   2016.   Encyclopedia   of   Parasitology.   Springer-Verlag   Berlin  Heidelberg.
+Enciclopedia online. En: https://link.springer.com/referencework/10.1007/978-3-662-43978-4/
+
 Mims,   C.,   Playfair,  J.,  Roitt,  I.,  Wakelin,  D.,  Williams,  R.  1999.  Microbiología  Médica.  Editorial
 Harcourt Brace, Madrid
 
@@ -88,11 +92,17 @@ Prats, G. ,Pumarola, T. , Mirelies, B. 2022. Microbiología y Parasitología Mé
 
 Prats, G. 2013. Microbiología clínica. Editorial Médica Panamericana, Buenos Aires
 
+Prats,   G.,Pumarola,   T.,   Mirelies,   B.   2022.   Microbiología   y   Parasitología   Médicas,  (2ª  ed.).
+Editorial Médica Panamericana, Buenos Aires
+
 Price, D.L. 1994. Procedure Manual for the Diagnosis of Intestinal Parasites. CRC Press, Inc
 
 Procop,   G.,   Churchill,   D.,  Hall,  G.,  Janda,  W.,  Koneman,  E.,  Schreckenberger,  P.,  Woods,  G.  2017.
 Koneman-Diagnóstico Microbiológico. Textos y atlas en color, (7ª ed.). Wolters Kluwer, Hospitalet de
 Llobregat, Barcelona
+
+Real   Academia   Española,   2018.   Diccionario   de   la   Lengua   Española.   23.2   edición   online.   En
+http://lema.rae.es/drae/
 
 Romero,   R.   2024.   Microbiología   y   Parasitología   Humana.   Bases   etiológicas  de  las  enfermedades
 infecciosas y parasitarias, (5ª ed.). Editorial Médica Panamericana, Buenos Aires
@@ -107,16 +117,13 @@ Struthers, J.K., Westran, R.P. 2003. Clinical Bacteriology. ASM Press, Washingto
 
 WHO, 1991. Basic Laboratory Methods in Medical Parasitology. World Health Organization, Geneva
 
-✅ Recursos añadidos (13):
+✅ Recursos añadidos (10):
 ------------------------------
 Apt        Baruch,        W.        L.       (2015).       PARASITOLOGÍA       HUMANA.       McGraw-Hill,.
 https://granatensis.ugr.es/permalink/34CBUA_UGR/1egp27c/alma991008221659704990
 
 Bennett,   J.E.,   Dolin,  R.,  Blaser,  M.J.  2020.  Mandell,  Douglas  y  Bennett.  Enfermedades  infecciosas.
 Principios y práctica, (9ª ed.). Elsevier, Barcelona
-
-Bogitsh,   B.J.,   Carter,   C.E.,  Oeltmann,  T.N.  2019.  Human  Parasitology.  5th  ed.  San  Diego,  Academic
-Press. En: https://doi.org/10.1016/B978-0-12-813712-3.00019-9
 
 Casado   Escribano,  N.,  &  e-libro,  C.  (2009).  Introducción  a  la  parasitología  aplicada.  Universidad
 de                            Alcalá                            de                            Henares.
@@ -138,14 +145,7 @@ López   Páez,   M.   C.,  Knudson  Ospina,  A.,  &  Ortiz  Pineda,  C.  (202
 diagnósticas    en    parasitología    (1st    ed.).    Editorial   Universidad   Nacional   de   Colombia.
 https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014460367204990
 
-Mehlhorn,   Heinz   (Ed.)   2016.   Encyclopedia   of   Parasitology.   Springer-Verlag   Berlin  Heidelberg.
-Enciclopedia online. En: https://link.springer.com/referencework/10.1007/978-3-662-43978-4/
-
-Prats,   G.,Pumarola,   T.,   Mirelies,   B.   2022.   Microbiología   y   Parasitología   Médicas,  (2ª  ed.).
-Editorial Médica Panamericana, Buenos Aires
-
-Real   Academia   Española,   2018.   Diccionario   de   la   Lengua   Española.   23.2   edición   online.   En
-http://lema.rae.es/drae/
+MICROBIOLOGÍA
 
 Roberts,   L.S.,   Janovy,  J.,  Jr.,  Nadler,  S.  2012.  Gerald  D.  Schmidt  &  Larry  Roberts’  Foundations  of
 Parasitology. 9th ed. McGraw-Hill Education
@@ -153,4 +153,4 @@ Parasitology. 9th ed. McGraw-Hill Education
 Rodríguez    Pérez,    E.    G.    (2013).    Parasitología   médica.   Editorial   El   Manual   Moderno.
 https://granatensis.ugr.es/permalink/34CBUA_UGR/1p2iirq/alma991014246284804990
 
-📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]

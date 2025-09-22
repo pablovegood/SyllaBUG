@@ -29,8 +29,6 @@ C.Keith, “Agile game development with SCRUM”, Addison-Wesley 2010
 
 D.Bourg, “AI for game developers”, O’reilly 2004
 
-D.Sánchez-Crespo, “Core techniques and algorithms in game programming”, New Riders 2003
-
 G.Armitage, “Networking and online games: understanding and engineering multiplayer internet games”,
 Wiley 2006
 
@@ -46,6 +44,8 @@ J.Juul, “Half-Real: Video games between real rules and fictional worlds”, MI
 
 J.Schell, “The Art of Game Design: A book of lenses”.Morgan Kaufmann 2019
 
+J.Smed, “Algorithms and networking for computer games”, Wiley 2006
+
 M.McShaffry, “Game Coding Complete”, Course Technology PTR 2013
 
 S.Egenfeldt, “Understanding Video Games: the essential introduction”, Rouledge 2016
@@ -60,7 +60,7 @@ T.Fullerton,   “Game  design  Workshop:  a  playcentric  approach  to  creatin
 
 ✅ Recursos añadidos (2):
 ------------------------------
-J.Smed, “Algorithms and networking for computer games”, Wiley 2006
+D.Sánchez-Crespo, “Core techniques and algorithms in game programming”, New Riders 2003
 
 R.Nystrom, “Game programming patterns”, Genever Benning 2014
 

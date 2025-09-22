@@ -16,13 +16,17 @@ art of drug synthesis. Editorial Wiley, 2007
 Vardanyan,   R.   S.;   Hruby,   V.   J.  Synthesis  of  essential  drugs.  Editorial  Elsevier,  2006  Ganapathy
 Subramanian. Chiral separation techniques. Wiley-VCH 2007
 
-📚 Recursos sin cambios (7):
+📚 Recursos sin cambios (11):
 ------------------------------
 Agranat,   H.   Caner,  J.  Caldwell.  Putting  chirality  to  work:  the  strategy  of  chiral  switches.  Nature
 Reviews/Drug Discovery 2002, 1, 753-768
 
+Johnson, D. S.; Li, J. J. The art of drug synthesis. Editorial Wiley, 2007
+
 Kurt   Faber.   Biotransformations   in   Organic   Chemistry:   A  Textbook  Springer  Agranat,  H.  Caner,  J.
 Caldwell. Putting chirality to work: the strategy of chiral switches
+
+Lednicer, D. The organic chemistry of drug synthesis (Vol. 7). Editorial John Wiley & Sons, 2008
 
 Lin, G.; You, Q.; Cheng, J. Chiral drugs: Chemistry and Biological action. Editorial Wiley, 2011
 
@@ -35,7 +39,11 @@ S. Warren, P. Wyatt. Organic Synthesis. The disconnection Approach. 2ª Ed. Edit
 
 Steven A. Kates, Fernando Albericio. Solid-Phase Synthesis: A practical guide. Dekker, 2000
 
-✅ Recursos añadidos (9):
+Vardanyan, R. S.; Hruby, V. J. Synthesis of essential drugs. Editorial Elsevier, 2006
+
+Wyatt, P.; Warren, S. Organic synthesis: strategy and control. John Wiley & Sons, 2007
+
+✅ Recursos añadidos (5):
 ------------------------------
 A.   Delgado,   C.   Minguillón,  J.  Joglar.  Introducción  a  la  Síntesis  de  Fármacos.  Editorial  Síntesis,
 2003
@@ -46,14 +54,6 @@ E. Camacho y J.M. Campos. Química Fina Farmacéutica. Editorial Universidad de 
 
 Ganapathy Subramanian. Chiral separation techniques. Wiley-VCH 2007
 
-Johnson, D. S.; Li, J. J. The art of drug synthesis. Editorial Wiley, 2007
-
-Lednicer, D. The organic chemistry of drug synthesis (Vol. 7). Editorial John Wiley & Sons, 2008
-
 Li, J. J.; Johnson, D. S. Modern drug synthesis. Editorial Wiley, 2010
 
-Vardanyan, R. S.; Hruby, V. J. Synthesis of essential drugs. Editorial Elsevier, 2006
-
-Wyatt, P.; Warren, S. Organic synthesis: strategy and control. John Wiley & Sons, 2007
-
-📊 Porcentaje estimado de cambio: 81% [████████░░]
+📊 Porcentaje estimado de cambio: 56% [█████░░░░░]
