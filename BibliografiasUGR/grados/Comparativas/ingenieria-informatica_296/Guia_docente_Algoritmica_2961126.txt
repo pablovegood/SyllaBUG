@@ -2,28 +2,14 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (2):
+❌ Recursos eliminados (0):
 ------------------------------
-G.   Brassard   y   P.   Bratley:   Fundamentos   de   Algoritmia.   Prentice   Hall,   1997  T.H.  Cormen,  C.E.
-Leiserson, R. L. Rivest y C. Stein: Introduction to Algorithms. Fourth Edition. MIT Press, 2022
+No hay elementos.
 
-G.   Heineman,  G  Pollice,  S.  Selkow.  Algorithms  in  a  Nutshell:  A  Practical  Guide.  O'Reilly  Media  2016
-R.   Sedgewick.   Algorithms   in   C.   Addison-Wesley,   3rd  edition,  2001  J.  Erickson.  Algorithms  Univ.
-Illinois   (2019)  https://jeffe.cs.illinois.edu/teaching/algorithms/  (pdf)  T.  Roughgarden.  Algorithms
-Illuminated: Omnibus edition. Soundlikeyourself Publishing LLC 2022
-
-📚 Recursos sin cambios (4):
+📚 Recursos sin cambios (10):
 ------------------------------
 E. Horowitz, S. Sahni, S. Rajasekaran: Computer Algorithms. Comp Science Press, 2007
 
-J. Kleinberg, E. Tardos. Algorithm Design. Addison-Wesley, 2005
-
-J.L. Verdegay: Lecciones de Algorítmica. Editorial Técnica AVICAM, 2017
-
-S. Skiena. The Algorithm Design Manual. Springer, 2020 (3 edición)
-
-✅ Recursos añadidos (6):
-------------------------------
 G. Brassard y P. Bratley: Fundamentos de Algoritmia. Prentice Hall, 1997
 
 G. Heineman, G Pollice, S. Selkow. Algorithms in a Nutshell: A Practical Guide. O'Reilly Media 2016
@@ -31,11 +17,21 @@ G. Heineman, G Pollice, S. Selkow. Algorithms in a Nutshell: A Practical Guide. 
 J.   Erickson.   Algorithms   Univ.   Illinois  (2019)  https://jeffe.cs.illinois.edu/teaching/algorithms/
 (pdf)
 
+J. Kleinberg, E. Tardos. Algorithm Design. Addison-Wesley, 2005
+
+J.L. Verdegay: Lecciones de Algorítmica. Editorial Técnica AVICAM, 2017
+
 R. Sedgewick. Algorithms in C. Addison-Wesley, 3rd edition, 2001
+
+S. Skiena. The Algorithm Design Manual. Springer, 2020 (3 edición)
 
 T . Roughgarden. Algorithms Illuminated: Omnibus edition. Soundlikeyourself Publishing LLC 2022
 
 T.H.   Cormen,   C.E.   Leiserson,  R.  L.  Rivest  y  C.  Stein:  Introduction  to  Algorithms.  Fourth  Edition.
 MIT Press, 2022
 
-📊 Porcentaje estimado de cambio: 80% [████████░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

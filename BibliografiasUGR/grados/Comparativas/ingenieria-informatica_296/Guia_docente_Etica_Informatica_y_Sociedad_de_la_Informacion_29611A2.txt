@@ -6,7 +6,7 @@ Grado: ingenieria-informatica (296)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (14):
+📚 Recursos sin cambios (18):
 ------------------------------
 A. Hortal, X. Etxeberria (eds.). Profesionales y vida pública, ed. Desclée – Unijes, 2011
 
@@ -23,11 +23,20 @@ D. G. Johnson, Ética Informática y Ética e Internet, Ed. EdibesaEducation. 4�
 G. Bilbao, J. Fuertes y J. M. Guibert. Ética para ingenieros, Ed. Desclée – Unijes, 2006
 
 H. T. Tavani. Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing.
+Wiley. 3ª edición. 2010
+
+H. T. Tavani. Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing.
 Wiley. 3ª edición. 2010. «Analectas» de Confucio. Elejandria
+
+Habermas, Jürgen «Aclaraciones a la ética del discurso»
 
 I. Sepúlveda (de.) Humanismo y ética básica, ed. Desclée – Unijes, 2017
 
 K. E. Himma,; H. T. Tavani. (eds.) The Handbook of Information and Computer Ethics. Wiley. 2008
+
+Kant «Fundamentación de la metafísica de las costumbres»
+
+Kant. «Crítica de la razón práctica»
 
 Martínez,   SJ,  Julio.  «Antropología  y  moral:  claves  desde  la  perspectiva  ignaciana».  En  El  sujeto:
 reflexiones   para   una   antropología  ignaciana,  editado  por  Rufino  J.  Meana  Peón,  José  García  de
@@ -41,15 +50,8 @@ T. W. Bynum, S. Rogerson. Computer Ethics and Professional Responsibility. Wiley
 
 X. Etxeberría. Temas basicos de ética, ed. Desclée – Unijes, 3ª edición, 2008
 
-✅ Recursos añadidos (4):
+✅ Recursos añadidos (0):
 ------------------------------
-H. T. Tavani. Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing.
-Wiley. 3ª edición. 2010
+No hay elementos.
 
-Habermas, Jürgen «Aclaraciones a la ética del discurso»
-
-Kant «Fundamentación de la metafísica de las costumbres»
-
-Kant. «Crítica de la razón práctica»
-
-📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

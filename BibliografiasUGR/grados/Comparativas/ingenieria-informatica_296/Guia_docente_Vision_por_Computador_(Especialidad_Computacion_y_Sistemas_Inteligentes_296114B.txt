@@ -6,9 +6,11 @@ Grado: ingenieria-informatica (296)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (10):
+📚 Recursos sin cambios (11):
 ------------------------------
 Bishop, C.M. & Bishop, H. (2024). Deep Learning. Foundations and Concepts. Springer
+
+Deep Learning for Computer Vision ( http://cs231n.stanford.edu/ )
 
 Deep Learning for Computer Vision (http://cs231n.stanford.edu/) Hartley, R., & Zisserman, A. (2011).
 Multiple view geometry in computer vision. 2nd Edition. Cambridge university press
@@ -32,10 +34,8 @@ Torralba, A., Isola, P., & Freeman, W.T. (2024). Foundations of Computer Vision.
 Zhang,   A.,   Lipton,   Z.   C.,   Li,   M.,   &   Smola,   A.  J.  (2023).  Dive  into  deep  learning.  Cambridge
 University Press
 
-✅ Recursos añadidos (2):
+✅ Recursos añadidos (1):
 ------------------------------
 Birchfield, S. (2018). Image processing and analysis. Cengage Learning
 
-Deep Learning for Computer Vision ( http://cs231n.stanford.edu/ )
-
-📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]

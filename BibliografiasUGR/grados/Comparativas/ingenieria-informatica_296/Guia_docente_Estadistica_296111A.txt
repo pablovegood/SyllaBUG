@@ -16,7 +16,7 @@ Verdoy,   P.J.,  Mahiques,  J.M.,  Porcu,  E.  (2008)  Introducción  a  la  Est
 de Ejercicios Resueltos. Tilde, Valencia Walpole RE, Myers RH, Myers SL, Ye K. (2012) Probabilidad y
 Estadística para Ingeniería y Ciencias. Pearson Educación, México
 
-📚 Recursos sin cambios (15):
+📚 Recursos sin cambios (18):
 ------------------------------
 Abad,   F.,   Huete,   M.D.,   Vargas,   M.   (2016)   Estadística,  Probabilidad  e  introducción  al  Análisis
 Demográfico (con aplicaciones en R-commander). Avicam, Granada
@@ -34,9 +34,15 @@ Barcelona
 
 De la Horra Navarro, J. (2003) Estadística Aplicada. Díaz de Santos
 
+Fox   J,   Marquez   MM,   Bouchet-Valat   M   (2024).   Rcmdr:   R   Commander.   R   package   version   2.9-2,
+https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/
+
 Gutiérrez, R., Martínez, A., Rodríguez, C. (1993) Curso básico de Probabilidad. Pirámide, Madrid
 
 Martín Martín Q. (2003) Investigación Operativa. Prentice Hall
+
+Martínez,   A.,   Rodríguez,   C.,   Gutiérrez,   R.   (1993)   Inferencia  Estadística.  Un  enfoque  clásico.
+Pirámide, Madrid
 
 Milton,   J.S.,   Arnold,   J.C.   (2004)  Probabilidad  y  Estadística  (con  aplicaciones  para  Ingeniería  y
 Ciencias Computacionales). McGraw-Hill Interamericana, México
@@ -57,16 +63,13 @@ de Estadística. Editorial Síntesis
 
 Sáez, AJ. Métodos Estadísticos con R y R–Commander (2010) Universidad de Jaén
 
-✅ Recursos añadidos (6):
+Walpole   RE,  Myers  RH,  Myers  SL,  Ye  K.  (2012)  Probabilidad  y  Estadística  para  Ingeniería  y  Ciencias.
+Pearson Educación, México
+
+✅ Recursos añadidos (3):
 ------------------------------
 Devore,   Jey  L.  Probabilidad  y  Estadística  para  Ingeniería  y  Ciencias.  (2008)  California  Polytechnic
 State University, San Luis Obispo. México
-
-Fox   J,   Marquez   MM,   Bouchet-Valat   M   (2024).   Rcmdr:   R   Commander.   R   package   version   2.9-2,
-https://socialsciences.mcmaster.ca/jfox/Misc/Rcmdr/
-
-Martínez,   A.,   Rodríguez,   C.,   Gutiérrez,   R.   (1993)   Inferencia  Estadística.  Un  enfoque  clásico.
-Pirámide, Madrid
 
 Martínez,   F.;  Martínez,  C.  (2013).  Problemas  de  Estadística  para  Ingeniería  y  Ciencias.  Copicentro,
 España
@@ -74,7 +77,4 @@ España
 Verdoy,   P.J.,  Mahiques,  J.M.,  Porcu,  E.  (2008)  Introducción  a  la  Estadística  y  Probabilidad:  Manual
 de Ejercicios Resueltos. Tilde, Valencia
 
-Walpole   RE,  Myers  RH,  Myers  SL,  Ye  K.  (2012)  Probabilidad  y  Estadística  para  Ingeniería  y  Ciencias.
-Pearson Educación, México
-
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

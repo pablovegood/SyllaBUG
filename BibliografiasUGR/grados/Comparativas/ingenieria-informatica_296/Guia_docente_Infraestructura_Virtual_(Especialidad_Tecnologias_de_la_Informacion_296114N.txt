@@ -8,23 +8,23 @@ Recursive   Press,   2013   Edition   Infrastructure  as  Code  (IAC)  Cookbook,
 Pomes,   Packt,   2017   Cloud   Computing,   A   Practical   Approach,   Toby   Velte,  Anthony  Velte,  Robert
 Elsenpeter
 
-📚 Recursos sin cambios (2):
-------------------------------
-Cloud   Computing,   A   Practical   Approach,  Toby  Velte,  Anthony  Velte,  Robert  Elsenpeter.  McGraw-Hill
-Osborne Media; 1 edition (September 22, 2009)
-
-Temario   de   la   asignatura   Aprende   a   programar   la  nube,  Amazon,  2015  Cloud  Computing  Explained:
-Implementation Handbook for Enterprises, de John Rhoton
-
-✅ Recursos añadidos (4):
+📚 Recursos sin cambios (4):
 ------------------------------
 Cloud   Computing   Explained   :   Implementation   Handbook   for  Enterprises,  de  John  Rhoton.  Recursive
 Press, 2013 Edition
 
-Infrastructure as Code (IAC) Cookbook, Stephane Jourdan and Pierre Pomes, Packt, 2017
+Cloud   Computing,   A   Practical   Approach,  Toby  Velte,  Anthony  Velte,  Robert  Elsenpeter.  McGraw-Hill
+Osborne Media; 1 edition (September 22, 2009)
 
 Temario de la asignatura
 
+Temario   de   la   asignatura   Aprende   a   programar   la  nube,  Amazon,  2015  Cloud  Computing  Explained:
+Implementation Handbook for Enterprises, de John Rhoton
+
+✅ Recursos añadidos (2):
+------------------------------
+Infrastructure as Code (IAC) Cookbook, Stephane Jourdan and Pierre Pomes, Packt, 2017
+
 What is Domain Driven Design, Vladik Khononov, O'Reilly, 2019
 
-📊 Porcentaje estimado de cambio: 83% [████████░░]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

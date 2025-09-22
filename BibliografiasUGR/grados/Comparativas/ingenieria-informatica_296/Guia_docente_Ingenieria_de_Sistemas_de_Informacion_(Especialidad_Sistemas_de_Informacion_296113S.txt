@@ -38,26 +38,12 @@ Chapman   &  Hall  /  CRC  Press,  2017.  ISBN  1498754074  Chellammal  Surianar
 "Essentials   of  Cloud  Computing:  A  Holistic  Perspective  ",  Springer,  2019.  ISBN  3030131335  Seguridad
 William Stallings: "Cryptography and Network Security", Prentice Hall, 8th edition
 
-📚 Recursos sin cambios (1):
+📚 Recursos sin cambios (28):
 ------------------------------
-Martin   Fowler:   "   Patterns   of   Enterprise   Application  Architecture  ",  Addison-Wesley,  2003.  ISBN
-0321127420
-
-✅ Recursos añadidos (34):
-------------------------------
-AnHai   Doan,  Alon  Halevy,  and  Zachary  Ives:  "  Principles  of  Data  Integration  ",  Morgan  Kaufmann,  1st
-edition, 2012. ISBN 0124160441
-
 Andreas Meier & Michael Kaufmann: "SQL & NoSQL Databases: Models, Languages, Consistency Options and
 Architectures for Big Data Management", Springer Vieweg, 2019. ISBN 3658245484
 
 Bases de datos
-
-Charles   P.   Pfleeger   &   Shari   Lawrence   Pfleeger:  "Security  in  Computing",  Prentice  Hall  PTR,  5th
-edition, 2015. ISBN 0134085043
-
-Chellammal   Surianarayanan   &   Pethuru   Raj   Chelliah:   "Essentials   of   Cloud  Computing:  A  Holistic
-Perspective ", Springer, 2019. ISBN 3030131335
 
 Clifton Nock: "Data Access Patterns", Addison-Wesley, 2003. ISBN 0321555627
 
@@ -71,17 +57,14 @@ John E. Canavan: "Fundamentals of Network Security", Artech House, 2000. ISBN 15
 
 John R. Talburt: "Entity Resolution and Information Quality", Morgan Kaufmann, 2010. ISBN 0123819725
 
-Len   Bass,   Paul  Clements  &  Rick  Kazman:  "Software  Architecture  in  Practice",  SEI  Series  in  Software
-Engineering, Addison-Wesley Professional, 4th edition, 2021, ISBN 0136886094
-
 Letha   Hughes   Etzkorn:   "Introduction   to   Middleware:   Web   Services,  Object  Components,  and  Cloud
 Computing", Chapman & Hall / CRC Press, 2017. ISBN 1498754074
 
 M.   Tamer   Özsu   &   Patrick   Valduriez:   "Principles  of  Distributed  Database  Systems",  Springer,  4th
 edition, 2020. ISBN 3030262529
 
-Mark   Richards   &   Neil   Ford:   "Fundamentals   of   Software   Architecture:  An  Engineering  Approach",
-O'Reilly, 2020. ISBN 1492043451
+Martin   Fowler:   "   Patterns   of   Enterprise   Application  Architecture  ",  Addison-Wesley,  2003.  ISBN
+0321127420
 
 POSA   [Pattern-Oriented   Software   Architecture],   Wiley,  1996-2007:  Volume  1:  A  System  of  Patterns,
 1996.   ISBN   0471958697.   Volume   2:   Patterns   for   Concurrent   and   Networked   Objects,  2000.  ISBN
@@ -97,16 +80,10 @@ Internet-based Systems", Wiley, 2004. ISBN 0470856122
 Peter   Christen:   "Data  Matching:  Concepts  and  Techniques  for  Record  Linkage,  Entity  Resolution,  and
 Duplicate Detection", Springer, 2012. ISBN 3642311636
 
-Raju   Gandhi,   Mark   Richards   &   Neal  Ford:  "Head  First  Software  Architecture:  A  Learner's  Guide  to
-Architectural Thinking". O'Reilly, 2024. ISBN 1098134354
-
 Ralph Kimball & Joe Caserta: "The Data Warehouse ETL Toolkit", Wiley, 2004. ISBN 0764567578
 
 Ralph   Kimball   &   Margy   Ross:   "The   Data   Warehouse   Toolkit:  The  Definitive  Guide  to  Dimensional
 Modeling", Wiley, 3rd edition, 2013. ISBN 1118530802
-
-Robert   C.   Martin:   "Clean   Architecture:   A   Craftsman's   Guide  to  Software  Structure  and  Design",
-Pearson, 2017. ISBN 0134494164
 
 Scott   W.   Ambler   &  Pramodkumar  J.  Sadalage:  "Refactoring  Databases:  Evolutionary  Database  Design",
 Addison-Wesley, 2006. ISBN 0321293533
@@ -134,4 +111,27 @@ Volume 5: On Patterns and Pattern Languages, 2007. ISBN 0471486485
 William   Stallings:   "Cryptography   and   Network   Security",   Prentice  Hall,  8th  edition,  2020.  ISBN
 013670722X
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (7):
+------------------------------
+AnHai   Doan,  Alon  Halevy,  and  Zachary  Ives:  "  Principles  of  Data  Integration  ",  Morgan  Kaufmann,  1st
+edition, 2012. ISBN 0124160441
+
+Charles   P.   Pfleeger   &   Shari   Lawrence   Pfleeger:  "Security  in  Computing",  Prentice  Hall  PTR,  5th
+edition, 2015. ISBN 0134085043
+
+Chellammal   Surianarayanan   &   Pethuru   Raj   Chelliah:   "Essentials   of   Cloud  Computing:  A  Holistic
+Perspective ", Springer, 2019. ISBN 3030131335
+
+Len   Bass,   Paul  Clements  &  Rick  Kazman:  "Software  Architecture  in  Practice",  SEI  Series  in  Software
+Engineering, Addison-Wesley Professional, 4th edition, 2021, ISBN 0136886094
+
+Mark   Richards   &   Neil   Ford:   "Fundamentals   of   Software   Architecture:  An  Engineering  Approach",
+O'Reilly, 2020. ISBN 1492043451
+
+Raju   Gandhi,   Mark   Richards   &   Neal  Ford:  "Head  First  Software  Architecture:  A  Learner's  Guide  to
+Architectural Thinking". O'Reilly, 2024. ISBN 1098134354
+
+Robert   C.   Martin:   "Clean   Architecture:   A   Craftsman's   Guide  to  Software  Structure  and  Design",
+Pearson, 2017. ISBN 0134494164
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

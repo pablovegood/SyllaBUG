@@ -7,7 +7,7 @@ Grado: ingenieria-informatica (296)
 J.   Craig.   "Robótica".   Pearson   Educación,   2006  P.  Corke.  "Robotics,  vision  and  control".  Berlin:
 Springer, 2013
 
-📚 Recursos sin cambios (7):
+📚 Recursos sin cambios (8):
 ------------------------------
 A. Barrientos, L.I. Peñin, C. Balaguer y R. Aracil. "Fundamentos de Robótica". McGraw Hill, 1997
 
@@ -25,10 +25,10 @@ K. M. Lynch, y F. C. Park, F. C. "Modern robotics". Cambridge University Press, 
 K.S.   Fu,  R.C.  González  y  C.S.G.  Lee.  "Robótica,  Control,  Detección,  Visión  e  Inteligencia".  McGraw-
 Hill Interamericana, 1994
 
-✅ Recursos añadidos (2):
+P. Corke. "Robotics, vision and control". Berlin: Springer, 2013
+
+✅ Recursos añadidos (1):
 ------------------------------
 J. Craig. "Robótica". Pearson Educación, 2006
 
-P. Corke. "Robotics, vision and control". Berlin: Springer, 2013
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

@@ -11,8 +11,11 @@ high-performance   numerical   computing,   and  data  visualization,  Packt  Pu
 Joly,   P.,   Kaber,   S.M.  y  Postel,  M.,  An  Introduction  to  Scientific  Computing:  Twelve  Computational
 Projects Solved with MATLAB, Springer, 2006
 
-📚 Recursos sin cambios (6):
+📚 Recursos sin cambios (9):
 ------------------------------
+Danaila,   I.,   Joly,   P.,   Kaber,  S.M.  y  Postel,  M.,  An  Introduction  to  Scientific  Computing:  Twelve
+Computational Projects Solved with MATLAB, Springer, 2006
+
 Kaplan, D., Introduction to Scientific Computation and Programming, CL-Engineering, 2004
 
 Kiusalaas, J., Numerical Methods in Engineering with Python, Cambridge University Press, 2013
@@ -21,22 +24,19 @@ Langtangen, H.P., A Primer on Scientific Programming with Python(3ª ed), Spring
 
 Langtangen, H.P., Python Scripting for Computational Science, Springer, 2009
 
-Press,   W.H.,   Teukolsky,   S.A.,   Vetterling,   W.T.   y  Flannery,  B.P.,  Numerical  Recipes:  The  Art  of
-Scientific Computing, Cambridge University Press, 2007
-
-Strang, G., Computational Science and Engineering, Wellesley-Cambridge Press, 2007
-
-✅ Recursos añadidos (4):
-------------------------------
-Danaila,   I.,   Joly,   P.,   Kaber,  S.M.  y  Postel,  M.,  An  Introduction  to  Scientific  Computing:  Twelve
-Computational Projects Solved with MATLAB, Springer, 2006
-
 Martelli, A., Martelli, A., Ascher, D., Python Cookbook, O'Really, 2013
 
-Martelli, A., Python in a nutshell. A desktop quick reference (4ªed), O'Really, 2023
+Press,   W.H.,   Teukolsky,   S.A.,   Vetterling,   W.T.   y  Flannery,  B.P.,  Numerical  Recipes:  The  Art  of
+Scientific Computing, Cambridge University Press, 2007
 
 Rossant,   C.,   Learning  IPython  for  interactive  computing  and  data  visualization  :  learn  IPython  for
 interactive   Python  programming,  high-performance  numerical  computing,  and  data  visualization,  Packt
 Publishing, 2013
 
-📊 Porcentaje estimado de cambio: 50% [█████░░░░░]
+Strang, G., Computational Science and Engineering, Wellesley-Cambridge Press, 2007
+
+✅ Recursos añadidos (1):
+------------------------------
+Martelli, A., Python in a nutshell. A desktop quick reference (4ªed), O'Really, 2023
+
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

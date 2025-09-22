@@ -6,10 +6,12 @@ Grado: ingenieria-informatica (296)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (23):
+📚 Recursos sin cambios (25):
 ------------------------------
 Bibliografía   relacionada  con  los  contenidos  de  los  temas  1  y  2:  [HAM03]  Hamacher,  C.,  Vranesic,  S.,
 Zaky, S.. Organización de computadores. McGrawHill, 5ª Edición, 2003
+
+Bibliografía relacionada con los contenidos de los temas 3, 4 y 5
 
 Bibliografía   relacionada   con   los  contenidos  de  los  temas  3,  4  y  5:  [ANG07]  Angulo,  J.  M.,  Angulo,
 I., García-Zubia, I., Sistemas digitales y tecnología de computadores. 2ª Edición, Thomson, 2007
@@ -30,6 +32,9 @@ Computadores. Teoría y problemas. McGraw-Hill, 2009
 [GAR04] García, J.. Problemas resueltos de electrónica digital. Thomson, 2004
 
 [GRE92] Green, D.. Modern Logic Design. Addison Wesley, 1992
+
+[HAM03]   Hamacher,   C.,   Vranesic,   S.,   Zaky,   S..   Organización   de  computadores  .  McGraw-Hill,  5ª
+Edición, 2003
 
 [HAYE96] Hayes, J.P.. Introducción al Diseño Lógico Digital. Addison-Wesley Iberoamericana, 1996
 
@@ -65,10 +70,8 @@ Prentice-Hall. 2000
 [WAK06]   Wakerly,   J.F..   Digital  Design:  Principles  and  Practices,  4ª  Edición,  Prentice-Hall,  Upper
 Saddle River, N.J., U.S.A., 2006
 
-✅ Recursos añadidos (2):
+✅ Recursos añadidos (0):
 ------------------------------
-Bibliografía relacionada con los contenidos de los temas 1 y 2
+No hay elementos.
 
-Bibliografía relacionada con los contenidos de los temas 3, 4 y 5
-
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

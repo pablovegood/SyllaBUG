@@ -38,28 +38,17 @@ y   modelado   de   circuitos,  Ra-Ma,  Pedroni,  V.A.,  Digital  electronics  a
 Morgan   Kaufmann   Publishers,   2008  Perry,  D.L.,  VHDL  programming  by  example,  McGraw-Hill,  2002  Ruz,
 J.L., VHDL: De la tecnología a la arquitectura de computadores, Editorial síntesis, 1997
 
-📚 Recursos sin cambios (2):
+📚 Recursos sin cambios (24):
 ------------------------------
+Ashenden, P.J., Lewis, J., VHDL-2008: just the new stuff, Elsevier/Morgan Kaufmann, c2008
+
 Ashenden,   P.J.,   The   designer’s   guide  to  VHDL,  Morgan  Kaufmann  Publishers,  c2008  Chu,  P.  P.,  FPGA
 prototyping by VHDL examples : Xilinx Spartan-3 version , WileyInterscience, c2008
-
-Sass,   R,   Schmidt,   A.   G.,   Embedded  Systems  Design  with  Platform  FPGAs:  Principles  and  Practices.
-Elsevier 2010 (Recurso electrónico)
-
-✅ Recursos añadidos (30):
-------------------------------
-Ashenden, P. J., Digital Design: An Embedded Systems Approach Using VHDL, Elseiver 2008
-
-Ashenden, P.J., Lewis, J., VHDL-2008: just the new stuff, Elsevier/Morgan Kaufmann, c2008
 
 Bergeron,   J.,   Writing  Testbenches:  Functional  Verification  of  HDL  Models,  Second  Edition,  Springer
 2003   •  Brown,  S.  y  Vranesic,  Z.,  Fundamentals  of  digital  logic  with  VHDL  design,  McGraw-Hill,  2009,
 3rd ed (Traducida al castellano la edición anterior: Brown, S. y Vranesic, Z., Fundamentos de lógica
 digital con diseño VHDL, McGraw-Hill, 2006, 2ª ed)
-
-Bruno,   F.   and   Eschemann,  G.,  The  FPGA  Programming  Handbook:  An  essential  guide  to  FPGA  design  for
-transforming   ideas   into   hardware   using  SystemVerilog  and  VHDL  2nd  ed.  Edition,  Packt  Publishing,
-2024
 
 Cayssials, R, Sistemas embebidos en FPGA, Marcombo, 2014
 
@@ -69,11 +58,6 @@ Chu, P.P., Embedded SoPC design with NIOS II processor and Verilog examples, Wil
 
 Chu,   P.P.,   RTL   Hardware   Design   Using  VHDL:  Coding  for  Efficiency,  Portability,  and  Scalability,
 Wiley-IEEE Press, 2006
-
-Dally, W.J., et al, Digital Design Using VHDL: A Systems Approach, Cambridge University Press, 2015
-
-Grout,   I.  Digital  systems  design  with  FPGAs  and  CPLDs.  Elsevier,  c2008  •  Hwang,  E.D.,  Digital  Logic
-and Microprocessor Design with VHDL, Thomson, 2006
 
 Hamblen,   J.O.,   Hall   T.S.,   Furman,   M.D.:   Rapid   Prototyping   of  Digital  Systems  :  SOPC  Edition,
 Springer 2008
@@ -89,9 +73,6 @@ Maxfield, C., FPGAs: Instant Access, Newnes 2008
 
 Maxfield, C., The design warrior’s guide to FPGAs: devices, tools and flows, Elsevier, c2004
 
-Meyer-Baese,   U.,   Digital   Signal   Processing   with   Field   Programmable   Gate   Arrays  (Signals  and
-Communication Technology), Springer; 3rd edition, 2007
-
 Navaby, Z., VHDL: Modular Desing and Synthesis of Cores and Systems, McGraw-Hill, 2007
 
 Pardo, F. Y Boluda, J.A., VHDL: lenguaje para síntesis y modelado de circuitos, Ra-Ma, 2011
@@ -104,19 +85,38 @@ Rushton, A., VHDL for Logic Synthesis, John Wiley and Sons, 2011
 
 Ruz, J.L., VHDL: De la tecnología a la arquitectura de computadores, Editorial síntesis, 1997
 
+Sass,   R,   Schmidt,   A.   G.,   Embedded  Systems  Design  with  Platform  FPGAs:  Principles  and  Practices.
+Elsevier 2010 (Recurso electrónico)
+
 Schaumont, P.R., Hardware/Software Codesign: A Practical Introduction, Springer 2013
 
 Short, K.L., VHDL for Engineers, Prentice Hall, 2008
 
-Taraate, V., PLD Based Design with VHDL: RTL Design, Synthesis and Implementation Springer, 2017
-
 Terés, Ll. et al, VHDL, Lenguaje estándar de diseño electrónico, McGraw Hill, 1997
+
+Wilson, P.R., Design recipes for FPGAs, Newnes, 2007
+
+✅ Recursos añadidos (8):
+------------------------------
+Ashenden, P. J., Digital Design: An Embedded Systems Approach Using VHDL, Elseiver 2008
+
+Bruno,   F.   and   Eschemann,  G.,  The  FPGA  Programming  Handbook:  An  essential  guide  to  FPGA  design  for
+transforming   ideas   into   hardware   using  SystemVerilog  and  VHDL  2nd  ed.  Edition,  Packt  Publishing,
+2024
+
+Dally, W.J., et al, Digital Design Using VHDL: A Systems Approach, Cambridge University Press, 2015
+
+Grout,   I.  Digital  systems  design  with  FPGAs  and  CPLDs.  Elsevier,  c2008  •  Hwang,  E.D.,  Digital  Logic
+and Microprocessor Design with VHDL, Thomson, 2006
+
+Meyer-Baese,   U.,   Digital   Signal   Processing   with   Field   Programmable   Gate   Arrays  (Signals  and
+Communication Technology), Springer; 3rd edition, 2007
+
+Taraate, V., PLD Based Design with VHDL: RTL Design, Synthesis and Implementation Springer, 2017
 
 Unsalan,   C.   and   Tar   B.,   Digital  System  Design  with  FPGA:  Implementation  Using  Verilog  and  VHDL,
 McGrawHill, 2017
 
 Vahid, F., Embedded System Design: A Unified Hardware/Software Introduction, Wiley; 2001
 
-Wilson, P.R., Design recipes for FPGAs, Newnes, 2007
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 40% [████░░░░░░]

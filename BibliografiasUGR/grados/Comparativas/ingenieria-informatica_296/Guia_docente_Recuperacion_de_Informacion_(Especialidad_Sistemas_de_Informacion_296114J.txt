@@ -7,8 +7,11 @@ Grado: ingenieria-informatica (296)
 A.   Sharma.   Practical  Apache  Lucene  8.  Uncover  the  Search  Capabilities  of  Your  Application.  Apress,
 2020 Goker, J. Davies. Searching in the 21st century. Wiley. 2009
 
-📚 Recursos sin cambios (11):
+📚 Recursos sin cambios (12):
 ------------------------------
+A.   Sharma.   Practical  Apache  Lucene  8.  Uncover  the  Search  Capabilities  of  Your  Application.  Apress,
+2020
+
 Belew   Richard   K.,   "Finding  Out  About.  A  Cognitive  perspective  on  Search  Engine  Technology  and  the
 WWW", Cambridge University Press, 2000
 
@@ -38,11 +41,8 @@ Salton, Automatic Text Processing, Addison-Wesley, 1989
 
 Van Rijsbergen, Information Retrieval, Second Edition, Butterworth, 1979
 
-✅ Recursos añadidos (2):
+✅ Recursos añadidos (1):
 ------------------------------
-A.   Sharma.   Practical  Apache  Lucene  8.  Uncover  the  Search  Capabilities  of  Your  Application.  Apress,
-2020
-
 Goker, J. Davies. Searching in the 21st century. Wiley. 2009
 
-📊 Porcentaje estimado de cambio: 23% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 15% [█░░░░░░░░░]

@@ -2,23 +2,11 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (1):
+❌ Recursos eliminados (0):
 ------------------------------
-Georg   Hager,   Gerhard   Wellein.   Introduction   to   High   Performance   Computing  for  Scientistis  and
-Engineers.   CRC   Press,   A   Chapman   &   Hall  Book.  ISBN:  978-1-4398-1192-4,  2011  Timothy  G.  Mattson,
-Beverly   A.   Sanders,   Berna  L.  Massingill.  Patterns  For  Parallel  Programming.  Addison-Wesley.  ISBN:
-0-321-22811-1,   June   2010   John   Levesque,   High   Performance  Computing.  Ahapman  &  Hall  /CRC.  ISBN:
-978-1-4200-7705.   2011   Jason   Sanders   and   Edward   Kandrot,   CUDA   by   Example   An  Introduction  to
-GeneralPurpose   GPU   Programming.  Addison-Wesley  ISBN-13:  978-0-13-138768-3  P.  Pacheco,  M.  Malensek.
-An Introduction to Parallel Programming (Second Edition). Morgan Kaufmann. 2018
+No hay elementos.
 
-📚 Recursos sin cambios (1):
-------------------------------
-Ortega,   M.   Anguita,   A.   Prieto.   Arquitectura   de   Computadores.  Thomson,  2005.  ESIIT/C.1  ORT  arq
-Laurence   T.   Yang,   Minyi   Guo.   High-Performance   Computing:   Paradigm   and  Infrastructure.  Wiley-
-Interscience, 2005
-
-✅ Recursos añadidos (5):
+📚 Recursos sin cambios (7):
 ------------------------------
 Georg   Hager,   Gerhard   Wellein.   Introduction   to   High   Performance   Computing  for  Scientistis  and
 Engineers. CRC Press, A Chapman & Hall Book. ISBN: 978-1-4398-1192-4, 2011
@@ -28,10 +16,19 @@ Programming. Addison-Wesley ISBN-13: 978-0-13-138768-3
 
 John Levesque, High Performance Computing. Ahapman & Hall /CRC. ISBN: 978-1-4200-7705. 2011
 
+Laurence   T.   Yang,   Minyi   Guo.   High-Performance   Computing:   Paradigm   and  Infrastructure.  Wiley-
+Interscience, 2005
+
+Ortega, M. Anguita, A. Prieto. Arquitectura de Computadores. Thomson, 2005. ESIIT/C.1 ORT arq
+
 P.   Pacheco,  M.  Malensek.  An  Introduction  to  Parallel  Programming  (Second  Edition).  Morgan  Kaufmann.
 2018
 
 Timothy   G.   Mattson,   Beverly   A.   Sanders,  Berna  L.  Massingill.  Patterns  For  Parallel  Programming.
 Addison-Wesley. ISBN: 0-321-22811-1, June 2010
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

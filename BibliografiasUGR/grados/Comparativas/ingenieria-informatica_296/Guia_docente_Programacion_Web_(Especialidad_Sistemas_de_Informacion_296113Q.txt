@@ -16,11 +16,7 @@ J N. Robbins. “Web Design in a nutshell”, 3a Ed., O ́Reilly, 2006 A. Scott,
 "JavaScript   Cookbook",   O'Reillly,  2021  S.  Steintmetz,  B.  Ward,  “Wicked  Cool  PHP”,  No  Starch  Press,
 2008
 
-📚 Recursos sin cambios (0):
-------------------------------
-No hay elementos.
-
-✅ Recursos añadidos (16):
+📚 Recursos sin cambios (15):
 ------------------------------
 A. Scott, M. MacDonald, S. Powers, "JavaScript Cookbook", O'Reillly, 2021
 
@@ -29,8 +25,6 @@ A.T. Holdener III, “AJAX: The Definitive Guide”, O’Reilly, 2008
 B.P. Hogan et al. “Web Development Recipes”, Pragmatic Programmers, 2012
 
 D. Flanagan, “JavaScript: The Definitive Guide”, 7th Ed. O’Reilly, 2020
-
-E. Brown, "Learning JavaScript", O'Reilly, 2016
 
 E. Cerami, “Web Services Essentials” O’Reilly, 2002
 
@@ -54,4 +48,8 @@ S. Steintmetz, B. Ward, “Wicked Cool PHP”, No Starch Press, 2008
 
 T. Wright, “Learning JavaScript”, Addison-Wesley, 2013
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+E. Brown, "Learning JavaScript", O'Reilly, 2016
+
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

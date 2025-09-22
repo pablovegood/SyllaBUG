@@ -2,35 +2,18 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (2):
+❌ Recursos eliminados (0):
 ------------------------------
-R.   Baeza-Yates,   B.   Ribeiro-Neto   Modern  Information  Retrieval:  The  Concepts  and  Technology  behind
-Search   (2nd   Edition)   (ACM   Press   Books),   2011  M.  Nelson  and  J.-L.  Gailly,  "The  Data  Compression
-Book", 2ª Edicion, M&T Books, New York, NY 1995 I. E.G. Richardson, “Video Codec Design”, John Wiley
-&   Sons,   2002   A.H.  Sadka,  “Compressed  Video  Communications”,  John  Wiley  &  Sons,  2002  M.Kr.  Mandal,
-“Multimedia Signal and Systems”, Kluwer Academic Press, 2003 B. S. Manjunath, P Salembier, T. Sikora
-(Editores)   “Introduction   to   MPEG-7:   Multimedia   Content   Description   Interface”,  Wiley,  2002  J.
-Watknson,   “The   MPEG   Handbook,   Second   Edition”.   Focal   Press   2004   S.  Rueger,  F.  Marchionini  ,
-“Multimedia Information Retrieval”, Morgan & Claypool 2010 M. Lew, et al., “Content-based Multimedia
-Information   Retrieval:   State  of  the  Art  and  Challenges”,  ACM  Transactions  on  Multimedia  Computing,
-Communications, and Applications, pp. 1-19, 2006
+No hay elementos.
 
-Z.N   Li,   M.S.   Drew   y  J.  Liu  Fundamentals  of  Multimedia,  Springer  2014  K.  Sayood,  “Introduction  to
-Data Compression”, 5ª Edición, Morgan and Kaufmann, 2018
-
-📚 Recursos sin cambios (2):
-------------------------------
-D. Salomon, "Data Compression: The Complete Reference", 4ª Edición, Springer, 2006
-
-Yun-Qing   Shi   y   Huifang   Sun  Image  and  Video  Compression  for  Multimedia  Engineering:  Fundamentals,
-Algorithms, and Standards, CRC Press 2019
-
-✅ Recursos añadidos (11):
+📚 Recursos sin cambios (13):
 ------------------------------
 A.H. Sadka, “Compressed Video Communications”, John Wiley & Sons, 2002
 
 B.   S.   Manjunath,   P   Salembier,   T.   Sikora  (Editores)  “Introduction  to  MPEG-7:  Multimedia  Content
 Description Interface”, Wiley, 2002
+
+D. Salomon, "Data Compression: The Complete Reference", 4ª Edición, Springer, 2006
 
 I. E.G. Richardson, “Video Codec Design”, John Wiley & Sons, 2002
 
@@ -48,8 +31,15 @@ M.Kr. Mandal, “Multimedia Signal and Systems”, Kluwer Academic Press, 2003
 R.   Baeza-Yates,   B.   Ribeiro-Neto   Modern  Information  Retrieval:  The  Concepts  and  Technology  behind
 Search (2nd Edition) (ACM Press Books), 2011
 
-S. Rueger, F. Marchionini, “Multimedia Information Retrieval”, Morgan & Claypool 2010
+S. Rueger, F. Marchionini , “Multimedia Information Retrieval”, Morgan & Claypool 2010
+
+Yun-Qing   Shi   y   Huifang   Sun  Image  and  Video  Compression  for  Multimedia  Engineering:  Fundamentals,
+Algorithms, and Standards, CRC Press 2019
 
 Z.N Li, M.S. Drew y J. Liu Fundamentals of Multimedia, Springer 2014
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

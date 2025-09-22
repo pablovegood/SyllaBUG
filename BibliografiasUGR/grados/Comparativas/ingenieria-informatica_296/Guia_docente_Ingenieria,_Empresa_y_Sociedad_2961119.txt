@@ -6,7 +6,7 @@ Grado: ingenieria-informatica (296)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (34):
+📚 Recursos sin cambios (35):
 ------------------------------
 Brown,   T.  (2020).  Diseñar  El  Cambio:  Cómo  el  design  thinking  transforma  organizaciones  e  inspira  la
 innovación. Empresa Activa
@@ -85,6 +85,9 @@ Ries, E. (2013). El método Lean Startup. Editorial Deusto
 
 Schilling, M. A. (2012). Gestión estratégica de la innovación tecnológica. Editorial McGrawHill
 
+Sánchez   Gómez,  R.  y  González  Benito,  J.  (2012).  Administración  de  Empresas:  objetivos  y  decisiones.
+MCGraw Hill
+
 Sánchez   Gómez,  R.  y  González  Benito,  J.  (2012):  Administración  de  Empresas:  Objetivos  y  decisiones.
 McGraw-Hill Interamericana de España. Madrid
 
@@ -94,7 +97,7 @@ Tidd, B. y Bessant, J. (2013). Gestión de la innovación. Editorial Wiley and S
 
 Walter I. (2014): Steve Jobs: Lecciones De Liderazgo. Ed. Debate
 
-✅ Recursos añadidos (8):
+✅ Recursos añadidos (7):
 ------------------------------
 Agote    Martín,   A.L.,   Ferrón   Vílchez,   V.   (Coordinadores)   (2024).   Fundamentos   de   Economía   y
 Administración de Empresas (3ª edición). Editorial Técnica Avicam. Granada
@@ -112,10 +115,7 @@ advantage. Pearson
 Rodríguez   Márquez,   A.,   Nieto,  María  Jesús,  Fernández,  Z.  y  Revilla  Castejón,  A.  (2014).  Manual  de
 creación de empresas. De la oportunidad a la puesta en marcha. Thompson Reuters
 
-Sánchez   Gómez,  R.  y  González  Benito,  J.  (2012).  Administración  de  Empresas:  objetivos  y  decisiones.
-MCGraw Hill
-
 Sánchez   Vizcaíno,   G.,   Casado   Mateos,   M.A.,   De   La   Torre  Ruiz,  J.M.  y  Martín  Rojas,  R.  (2025):
 Organización de empresas (4ª edición), Granada: Fleming
 
-📊 Porcentaje estimado de cambio: 19% [█░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

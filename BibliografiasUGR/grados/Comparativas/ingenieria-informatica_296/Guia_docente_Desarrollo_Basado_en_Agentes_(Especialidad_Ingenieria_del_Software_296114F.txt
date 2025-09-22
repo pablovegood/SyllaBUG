@@ -2,58 +2,61 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (2):
+❌ Recursos eliminados (8):
 ------------------------------
-Dignum. 2004 Intelligent Information Agents. Agent-Based Information Discovery and Management on the
-Internet. Matthias Klusch. Springer, 1999
+A   virtual   laboratory   for   multiagent   systems:   Joining   efficacy,  learning  analytics  and  student
+satisfaction. L. Castillo. SIIE 2016 (PDF)
+
+Análisis   cualitativo   y   cuantitativo  del  impacto  de  una  herramienta  de  análisis  del  aprendizaje  en
+tiempo real. L. Castillo, Francisca Sáchez-Carrascosa. JENUI 2020 (PDF)
+
+Discovering   the   Dinosaur   Best   paper   award.   L.  Castillo,  Francisca  SáchezCarrascosa,  Juan  Fdez-
+Olivares SIIE 2021
+
+LARVA,   a  multiagent  system  to  collect  learning  analytics  and  provide  immediate  feedback  to  students
+during   laboratory   assignments.   L.   Castillo,   Francisca   SáchezCarrascosa   (Por   aparecer   en   IE
+Comunicaciones -borrador-)
+
+LARVA:   Learning   Analytics   Recollection   and   Visualization  Agents.  L.  Castillo,  Francisca  Sáchez-
+Carrascosa SIIE 2022
+
+Resultados preliminares más significativos tras cuatro años de aplicación de la metodología SCRUM en
+las prácticas de laboratorio. L. Castillo. JENUI 2017 (PDF) Nominado a mejor paper
 
 The use of SCRUM for laboratory sessions monitoring and evaluation in a university course. Enforcing
-transverse   competencies.   L.  Castillo.  SIIE  2014  (PDF)  A  virtual  laboratory  for  multiagent  systems:
-Joining   efficacy,   learning   analytics   and   student   satisfaction.   L.   Castillo.   SIIE  2016  (PDF)
-Resultados preliminares más significativos tras cuatro años de aplicación de la
+transverse competencies. L. Castillo. SIIE 2014 (PDF)
 
-📚 Recursos sin cambios (12):
+Trabajo en equipo y liderazgo: una propuesta funcional de evaluación de dinámicas internas de grupo.
+L. Castillo, Francisca Sáchez-Carrascosa. JENUI 2019 (PDF)
+
+📚 Recursos sin cambios (19):
 ------------------------------
 "Agent-Based   Software   Development".   Michael   Luck,  Ronald  Ashri  and  Mark  d'Inverno.  Artech  House,
 2004
 
 A Model for Organizational Interaction: Based on Agents, Founded in Logic . V. Dignum. 2004
 
+A Model for Organizational Interaction: Based on Agents, Founded in Logic. V. Dignum. 2004
+
 Agent Technology. Foundations, Applications, and Markets . Edited by N.R. Jennings, M.J. Wooldridge.
 Springer, 1998
 
 Agentes software y sistemas multiagente . Juan Pavón y José L. Pérez. Pearson Educación, 2004
 
-An   Introduction   to   Multiagent  Systems  .  Michael  Wooldridge.  Published  by  John  Wiley  &  Sons,  2011.
-Buscar copias en Biblioteca UG R
-
-Buscar   copias   en  Biblioteca  UGR  Libro  en  línea  Multi-Agent  Systems.  An  Introduction  to  Distributed
-Artificial Intelligence. J. Ferber. Addison-Wesley, 1999
-
-Buscar copias en Biblioteca UGR ��Agentes software y sistemas multiagente : conceptos, arquitecturas
-y aplicaciones / Ana Mas. Pearson 2005
-
-Developing   multi-agent  systems  with  JADE  /  Fabio  Bellifemine,  Giovanni  Caire,  Dominic  Greenwood.  Ed
-John Wiley 2007. Buscar copias en Biblioteca UGR
-
-Inteligencia Artificial: Un enfoque moderno . S. Russell, P. Norvig. Prentice Hall, 1996 (capítulo2)
-
-Multiagent   System:   A   Modern  Approach  to  Distributed  Artificial  Intelligence  .  Edited  by  G.  Weiss,
-MIT Press, 1999 (capítulo1, capítulo2). Buscar copias en Biblioteca UGR Libro en línea
-
-Reading in Agents . M.N. Huhns, M.P. Singh. Morgan Kaufmann Publishers, Inc. 2000
-
-Software Agents . Bradshaw, Jeffrey M. (Editor). MIT Press, 1997. Buscar copias en Biblioteca UGR
-
-✅ Recursos añadidos (10):
-------------------------------
-A Model for Organizational Interaction: Based on Agents, Founded in Logic. V. Dignum. 2004
+Agentes software y sistemas multiagente : conceptos, arquitecturas y aplicaciones / Ana Mas. Pearson
+2005. Buscar copias en Biblioteca UGR
 
 Alan   H.   Bond  and  Les  Gasser.  A  survey  of  distributed  artificial  intelligence  .  In  Alan  H.  Bond  and
 Les   Gasser,  Readings  in  Distributed  Artificial  Intelligence,  Morgan  Kaufmann  Publishers,  San  Mateo,
 CA, 1988
 
+An   Introduction   to   Multiagent  Systems  .  Michael  Wooldridge.  Published  by  John  Wiley  &  Sons,  2011.
 Buscar copias en Biblioteca UG R
+
+Developing   multi-agent  systems  with  JADE  /  Fabio  Bellifemine,  Giovanni  Caire,  Dominic  Greenwood.  Ed
+John Wiley 2007. Buscar copias en Biblioteca UGR
+
+Inteligencia Artificial: Un enfoque moderno . S. Russell, P. Norvig. Prentice Hall, 1996 (capítulo2)
 
 Intelligent   Information   Agents.  Agent-Based  Information  Discovery  and  Management  on  the  Internet  .
 Matthias Klusch. Springer, 1999
@@ -63,13 +66,26 @@ Matthias Klusch. Springer, 1999
 
 JADE Agent Platform
 
-Libro en línea
-
 Magentix Agent Platform
 
 Multi-Agent   Systems.   An   Introduction  to  Distributed  Artificial  Intelligence  .  J.  Ferber.  Addison-
 Wesley, 1999
 
+Multiagent   System:   A   Modern  Approach  to  Distributed  Artificial  Intelligence  .  Edited  by  G.  Weiss,
+MIT Press, 1999 (capítulo1, capítulo2). Buscar copias en Biblioteca UGR Libro en línea
+
+Reading in Agents . M.N. Huhns, M.P. Singh. Morgan Kaufmann Publishers, Inc. 2000
+
+Software Agents . Bradshaw, Jeffrey M. (Editor). MIT Press, 1997. Buscar copias en Biblioteca UGR
+
 Yoav Shoham: Agent Oriented Programming. Logic at Work 1992: 123-129
 
-📊 Porcentaje estimado de cambio: 54% [█████░░░░░]
+✅ Recursos añadidos (3):
+------------------------------
+Buscar copias en Biblioteca UG R
+
+Buscar copias en Biblioteca UGR
+
+Libro en línea
+
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

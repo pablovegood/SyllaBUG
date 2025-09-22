@@ -2,13 +2,11 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (1):
+❌ Recursos eliminados (0):
 ------------------------------
-Stefano   Ceri,  Giuseppe  Pelagatti:  Distributed  Database.  Principles  and  Systems.  McGrawHill  India  (2
-noviembre   2017)  Ramez  Elmasri,  Shamkant  B.  Navathe:  Fundamentals  of  Database  Systems  (7th  Edition).
-Pearson, 2015
+No hay elementos.
 
-📚 Recursos sin cambios (6):
+📚 Recursos sin cambios (8):
 ------------------------------
 A.   Silberschatz,   H.   F.   Korth,  S.  Sudarshan:  Database  System  Concepts  (7th  Edition).  McGraw-Hill,
 2019
@@ -23,14 +21,16 @@ Springer, 2020
 P.   M.   G.   Appers:  Query  Processing  and  Data  Allocation  in  Distributed  Database  Systems.  Amsterdan:
 Mathematisch Centrum, 1983
 
+Ramez Elmasri, Shamkant B. Navathe: Fundamentals of Database Systems (7th Edition). Pearson, 2015
+
 Saeed.   K.   Rahimi,   Frank.   S.  Haug:  Distributed  Database  Management  Systems:  A  practical  approach.
 Wiley-Blackwell, 2010
-
-✅ Recursos añadidos (2):
-------------------------------
-Ramez Elmasri, Shamkant B. Navathe: Fundamentals of Database Systems (7th Edition). Pearson, 2015
 
 Stefano Ceri, Giuseppe Pelagatti: Distributed Database. Principles and Systems. McGraw-Hill India (2
 noviembre 2017)
 
-📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -6,7 +6,7 @@ Grado: ingenieria-informatica (296)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (11):
+📚 Recursos sin cambios (12):
 ------------------------------
 Andrews,   G.A.:   Concurrent   Programming  -  Principles  and  Practice.  The  Benjamin/Cummings  Publishing
 Company, 1991
@@ -28,6 +28,8 @@ Liu, M.L.: Computación Distribuida: Fundamentos y Aplicaciones. Pearson, 2004
 
 N.A. Lynch. Distributed Algorithms. Morgan Kaufmann. 1996
 
+Oracle and/or its affiliates. An Overview of RMI Applications
+
 Oracle   and/or   its   affiliates.  An  Overview  of  RMI  Applications  H.  Balakrishnan,  M.  F.  Kaashoek,  D.
 Karger,   R.   Morris,   I.  Stoica:  Looking  up  data  in  P2P  systems.  Communications  of  the  ACM,  Vol.  46,
 No. 2, Feb 2003, pp. 43-48
@@ -35,9 +37,8 @@ No. 2, Feb 2003, pp. 43-48
 Tanenbaum,   A.   S.,   van   Steen,   M.:   Distributed   Systems:  Principles  and  Paradigms  (2nd  Edition),
 Prentice-Hall, 2014
 
-✅ Recursos añadidos (1):
+✅ Recursos añadidos (0):
 ------------------------------
-H.   Balakrishnan,   M.   F.  Kaashoek,  D.  Karger,  R.  Morris,  I.  Stoica:  Looking  up  data  in  P2P  systems.
-Communications of the ACM, Vol. 46, No. 2, Feb 2003, pp. 43-48
+No hay elementos.
 
-📊 Porcentaje estimado de cambio: 8% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

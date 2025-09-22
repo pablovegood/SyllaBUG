@@ -10,20 +10,18 @@ redes   de   computadores”.   PrenticeHall,   2003.   ISBN:  84-205-3919-8  W.
 redes   de  computadores”.  Prentice-Hall,  2007.  ISBN:  84-205-4110-9  A.S.  Tanenbaum,  Computer  Networks,
 4ª ed., Prentice Hall, 2003. ISBN: 970-26-01622
 
-📚 Recursos sin cambios (0):
-------------------------------
-No hay elementos.
-
-✅ Recursos añadidos (4):
+📚 Recursos sin cambios (3):
 ------------------------------
 A.   León-García,   I.   Widjaja:   “Redes   de   Comunicación.   Conceptos   Fundamentales   y  Arquitecturas
 Básicas”. McGraw Hill, 2002. ISBN: 8448131975
 
 A.S. Tanenbaum, Computer Networks, 4ª ed., Prentice Hall, 2003. ISBN: 970-26-01622
 
+W. Stallings: “Comunicaciones y redes de computadores”. Prentice-Hall, 2007. ISBN: 84-205-4110-9
+
+✅ Recursos añadidos (1):
+------------------------------
 P.   García,   J.  Díaz,  J.  López:  “Transmisión  de  datos  y  redes  de  computadores”.  Prentice-Hall,  2003.
 ISBN: 84-205-3919-8
 
-W. Stallings: “Comunicaciones y redes de computadores”. Prentice-Hall, 2007. ISBN: 84-205-4110-9
-
-📊 Porcentaje estimado de cambio: 100% [██████████]
+📊 Porcentaje estimado de cambio: 50% [█████░░░░░]

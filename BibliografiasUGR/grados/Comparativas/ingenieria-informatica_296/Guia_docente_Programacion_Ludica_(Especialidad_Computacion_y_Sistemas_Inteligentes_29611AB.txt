@@ -21,11 +21,7 @@ MIT   press   2005   D.Sánchez-Crespo,  “Core  techniques  and  algorithms  i
 collision   detection”,   Elsevier   2005   D.Bourg,  “AI  for  game  developers”,  O’reilly  2004  G.Armitage,
 “Networking and online games: understanding and engineering multiplayer internet games”, Wiley 2006
 
-📚 Recursos sin cambios (0):
-------------------------------
-No hay elementos.
-
-✅ Recursos añadidos (18):
+📚 Recursos sin cambios (16):
 ------------------------------
 C.Ericson, “Real-time collision detection”, Elsevier 2005
 
@@ -50,11 +46,7 @@ J.Juul, “Half-Real: Video games between real rules and fictional worlds”, MI
 
 J.Schell, “The Art of Game Design: A book of lenses”.Morgan Kaufmann 2019
 
-J.Smed, “Algorithms and networking for computer games”, Wiley 2006
-
 M.McShaffry, “Game Coding Complete”, Course Technology PTR 2013
-
-R.Nystrom, “Game programming patterns”, Genever Benning 2014
 
 S.Egenfeldt, “Understanding Video Games: the essential introduction”, Rouledge 2016
 
@@ -66,4 +58,10 @@ S.Rogers, “Level Up!: the guide to great video game design”, Wiley 2014
 T.Fullerton,   “Game  design  Workshop:  a  playcentric  approach  to  creating  innovative  games”,  CRC  Press
 2014
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+J.Smed, “Algorithms and networking for computer games”, Wiley 2006
+
+R.Nystrom, “Game programming patterns”, Genever Benning 2014
+
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

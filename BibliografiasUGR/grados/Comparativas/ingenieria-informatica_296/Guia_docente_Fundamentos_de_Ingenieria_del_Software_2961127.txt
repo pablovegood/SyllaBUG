@@ -8,10 +8,13 @@ S.   Sanchez,   M.   Sicilia,   D.   Rodriguez,   Ingeniería  del  Sofware.  Un
 Garceta, 2011 C. Larman. UML y patrones: una introducción al análisis y diseño orientado a objetos y
 al proceso unificado. Pearson, 2006
 
-📚 Recursos sin cambios (10):
+📚 Recursos sin cambios (11):
 ------------------------------
 B.   Bruegge,   A.   H.   Dutoit.   Object-Oriented   Software   Engineering  Using  UML,  Patterns,  and  Java.
 Pearson, 2014
+
+C.   Larman.   UML   y  patrones:  una  introducción  al  análisis  y  diseño  orientado  a  objetos  y  al  proceso
+unificado. Pearson, 2006
 
 Carmen   Lasa   Gómez,   Alonso   Álvarez   García,   Rafael  de  las  Heras  del  Dedo.  Métodos  Ágiles.  Scrum,
 Kanban, Lean. Anaya Multimedia, 2017
@@ -35,12 +38,9 @@ S. L. Pfleeger. Ingeniería de Software: teoría y práctica. Prentice Hall, 200
 T. C. Lethbridge, R. Laganière. Object-Oriented Software Engineering. Practical Software Development
 using UML and Java. Mc Graw Hill, 2005
 
-✅ Recursos añadidos (2):
+✅ Recursos añadidos (1):
 ------------------------------
-C.   Larman.   UML   y  patrones:  una  introducción  al  análisis  y  diseño  orientado  a  objetos  y  al  proceso
-unificado. Pearson, 2006
-
 S.   Sanchez,   M.   Sicilia,   D.   Rodriguez,   Ingeniería  del  Sofware.  Un  enfoque  desde  la  guía  SWEBOK.
 Garceta, 2011
 
-📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 16% [█░░░░░░░░░]

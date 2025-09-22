@@ -2,21 +2,19 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (1):
-------------------------------
-Beginning   Django:  Web  Application  Development  and  Deployment  with  Python.Daniel  Rubio.  Apress.  2017
-Learn   Web   Development   with   Python.   Fabrizio   Romano,   Gaston   C.   Hillar,  Arun  Ravindran.  Packt
-Publishing, 2018
-
-📚 Recursos sin cambios (0):
+❌ Recursos eliminados (0):
 ------------------------------
 No hay elementos.
 
-✅ Recursos añadidos (2):
+📚 Recursos sin cambios (2):
 ------------------------------
 Beginning Django: Web Application Development and Deployment with Python.Daniel Rubio. Apress. 2017
 
 Learn   Web   Development   with   Python.   Fabrizio   Romano,   Gaston   C.   Hillar,  Arun  Ravindran.  Packt
 Publishing, 2018
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (0):
+------------------------------
+No hay elementos.
+
+📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

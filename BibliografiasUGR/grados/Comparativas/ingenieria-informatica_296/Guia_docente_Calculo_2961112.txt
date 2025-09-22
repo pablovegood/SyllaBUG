@@ -6,11 +6,8 @@ Grado: ingenieria-informatica (296)
 ------------------------------
 No hay elementos.
 
-📚 Recursos sin cambios (5):
+📚 Recursos sin cambios (4):
 ------------------------------
-El   material   necesario  para  el  desarrollo  de  la  asignatura  estará  disponible  en  la  plataforma  PRADO
-de la UGR
-
 James   Stewart.   Cálculo   de  una  variable  (Trascendentes  tempranas).  International  Thomson  Editores,
 2001
 
@@ -21,8 +18,9 @@ Richard Burden, J. Douglas Faires. Análisis Numérico. Thomson-Learning, 2004
 Versión   PDF   corregida   de   J.  Alaminos,  C.  Aparicio,  J.  Extremera,  P.  Muñoz  y  A.  Villena.  Cálculo.
 Ediciones E-LectoLibris, 2019 (disponible en PRADO)
 
-✅ Recursos añadidos (0):
+✅ Recursos añadidos (1):
 ------------------------------
-No hay elementos.
+El   material   necesario  para  el  desarrollo  de  la  asignatura  estará  disponible  en  la  plataforma  PRADO
+de la UGR
 
-📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

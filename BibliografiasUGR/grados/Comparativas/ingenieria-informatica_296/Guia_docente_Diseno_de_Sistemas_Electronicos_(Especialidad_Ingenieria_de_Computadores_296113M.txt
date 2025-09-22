@@ -2,39 +2,36 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (2):
+❌ Recursos eliminados (1):
 ------------------------------
 Pearson,   2005   Wang,  Chang,  Cheng.  Electronic  Design  Automation:  Synthesis,  Verification,  and  Test,
 Morgan   Kauffman,   2009   Lam.   Hardware   Design   Verification:   Simulation   and   Formal  Method-Based
 Approaches, Prentice Hall, 2005 Kaeslin. Digital Integrated Circuit Design : From VLSI Architectures
 to CMOS Fabrication, CUP, 2008
 
-Pérez,   M.A.,   Álvarez   Antón,   J.C.,   Campo   Rodriguez,   JC.,  y  otros.  Instrumentación  Electrónica,
-Thomson   Editores   Spain   -  Paraninfo  S.A.,  2004  Rabaey,  Chandrakasan,  Nikolic.  Circuitos  integrados
-digitales:   una   perspectiva   de   diseño,  Pearson,  2004  Weste,  Eshragian,  Smith.  CMOS  VLSI  Design:  a
-Circuits and Systems Perspective
-
-📚 Recursos sin cambios (1):
+📚 Recursos sin cambios (6):
 ------------------------------
-Padilla   de   la  Torre,  José  Luis,  Medina  Bailón,  Cristina.  Fundamentos  de  electrónica  para  diseño  de
-sistemas electrónicos, Ed. Técnica Avicam, 2021
-
-✅ Recursos añadidos (6):
-------------------------------
-Kaeslin. Digital Integrated Circuit Design : From VLSI Architectures to CMOS Fabrication, CUP, 2008
-
 Lam.   Hardware   Design   Verification:   Simulation  and  Formal  Method-Based  Approaches,  Prentice  Hall,
 2005
+
+Padilla   de   la  Torre,  José  Luis,  Medina  Bailón,  Cristina.  Fundamentos  de  electrónica  para  diseño  de
+sistemas electrónicos, Ed. Técnica Avicam, 2021
 
 Pérez,   M.A.,   Álvarez   Antón,   J.C.,   Campo   Rodriguez,   JC.,  y  otros.  Instrumentación  Electrónica,
 Thomson Editores Spain - Paraninfo S.A., 2004
 
-Rabaey,   Chandrakasan,   Nikolic.  Circuitos  integrados  digitales:  una  perspectiva  de  diseño,  Pearson,
-2004
+Pérez,   M.A.,   Álvarez   Antón,   J.C.,   Campo   Rodriguez,   JC.,  y  otros.  Instrumentación  Electrónica,
+Thomson   Editores   Spain   -  Paraninfo  S.A.,  2004  Rabaey,  Chandrakasan,  Nikolic.  Circuitos  integrados
+digitales:   una   perspectiva   de   diseño,  Pearson,  2004  Weste,  Eshragian,  Smith.  CMOS  VLSI  Design:  a
+Circuits and Systems Perspective
 
 Wang,   Chang,   Cheng.   Electronic   Design   Automation:   Synthesis,   Verification,   and   Test,  Morgan
 Kauffman, 2009
 
 Weste, Eshragian, Smith. CMOS VLSI Design: a Circuits and Systems Perspective. Pearson, 2005
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+------------------------------
+Kaeslin. Digital Integrated Circuit Design : From VLSI Architectures to CMOS Fabrication, CUP, 2008
+
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

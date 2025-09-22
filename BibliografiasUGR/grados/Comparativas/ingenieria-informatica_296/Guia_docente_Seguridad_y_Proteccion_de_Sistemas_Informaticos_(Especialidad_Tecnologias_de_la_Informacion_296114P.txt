@@ -9,7 +9,7 @@ Infrastructure   Certificate   and   Certificate  Revocation  List  (CRL)  Profi
 Delac   and   Mislav  Grgic.  A  survey  of  biometric  recognition  methods.  In  46th  International  Symposium
 Electronics in Marine, ELMAR-2004, pages 184–193, 2004
 
-📚 Recursos sin cambios (7):
+📚 Recursos sin cambios (8):
 ------------------------------
 C. Adams, P. Cain, D. Pinkas, and R. Zuccherato. Internet X.509 Public Key Infrastructure Time-Stamp
 Protocol (TSP). IETF, August 2001
@@ -27,18 +27,18 @@ Josef   Pieprzyk,  Thomas  Hardjono,  and  Jennifer  Seberry.  Fundamentals  of 
 Joseph   Migga   Kizza.   Guide   to   Computer   Network   Security.  Computer  Communications  and  Networks.
 Springer, 5th. edition, 2015
 
+Kresimir   Delac   and   Mislav  Grgic.  A  survey  of  biometric  recognition  methods.  In  46th  International
+Symposium Electronics in Marine, ELMAR-2004, pages 184–193, 2004
+
 Satoshi   Nakamoto.   Bitcoin:   un   sistema   de  dinero  en  efectivo  electrónico  peer-to-peer.  Technical
 report, bitcoin.org. Traducido por @breathingdog
 
 T.   Dierks   and   E.   Rescorla.  The  Transport  Layer  Security  (TLS)  Protocol  Version  1.2.  IETF,  August
 2008 Satoshi Nakamoto. Bitcoin: un sistema de dinero en efectivo electrónico peer-to-peer
 
-✅ Recursos añadidos (2):
+✅ Recursos añadidos (1):
 ------------------------------
 D.   Cooper,   S.  Santesson,  S.  Farrell,  S.  Boeyen,  R.  Housley,  and  W.  Polk.  Internet  X.509  Public  Key
 Infrastructure Certificate and Certificate Revocation List (CRL) Profile. IETF, May 2008
 
-Kresimir   Delac   and   Mislav  Grgic.  A  survey  of  biometric  recognition  methods.  In  46th  International
-Symposium Electronics in Marine, ELMAR-2004, pages 184–193, 2004
-
-📊 Porcentaje estimado de cambio: 33% [███░░░░░░░]
+📊 Porcentaje estimado de cambio: 22% [██░░░░░░░░]

@@ -40,11 +40,7 @@ common Scrum problems. The Pragmatic Programmers, 2020 Jeff Gothelf, Josh Seiden
 great   products   with   agile   teams.   O´Reilly   Media,   2016   Susheela   Hooda   (Ed).   Agile  software
 development: trends, changeless and applications. John Wiley &Sons, 2023
 
-📚 Recursos sin cambios (0):
-------------------------------
-No hay elementos.
-
-✅ Recursos añadidos (27):
+📚 Recursos sin cambios (22):
 ------------------------------
 Alistair Cockburn. Agile Software Development. Addison-Wesley Professional, 2001
 
@@ -62,11 +58,6 @@ David, J. Anderson. Kanban, Cambio Evolutivo Exitoso para su Negocio de Tecnolog
 Eric   S.   Raymond.   The   Cathedral  and  the  Bazaar,  Musings  on  Linux  and  Open  Source  by  an  Accidental
 Revolutionary. O'Reilly & Associates, 2001
 
-Fowler, M. et al. Refactoring: Improving the Design of Existing Code. Addison-Wesley, 2018
-
-GojKo   Adzir.   Specification   by   Example:   How  Successful  Teams  Deliver  the  Right  Software.  Manning
-Publications Co, 2011
-
 Ian Sommerville. Ingeniería del Software. Editorial Addison Wesley, 2016
 
 Jeff Gothelf, Josh Seiden. Lean UX: designing great products with agile teams. O´Reilly Media, 2016
@@ -83,19 +74,12 @@ Ken Schawber. Agile, Project Management with SCRUM. Microsoft Press, 2009
 Kent    Beck.   Una   explicación   de   la   Programación   Extrema:   Aceptar   el   Cambio.   Addison-Wesley
 Iberoamericana España, 2002
 
-Kieran Healy and Alan Schussman. The ecology of open source software development, 2003
-
 Mike   Cohn,   Succeeding   with   Agile:  Software  Development  Using  Scrum,  Addison-Wesley  Professional,
 2009
-
-Mike Cohn. Agile Estimating and Planning. Prentice Hall, 2006
 
 Mike Cohn. User Stories Applied. For Agile Software Development. Addison- Wesley, 2013
 
 Rober C. Martin.Desarrollo ágil esencial. Vuelta a las raíces. Anaya, 2020
-
-Ryan   Ripley,   Todd   Miller.   Fixing   your   Scrum:  Practical  solutions  to  common  Scrum  problems.  The
-Pragmatic Programmers, 2020
 
 Sommerville, I. Sawyer, P. Requirements Engineering. A good practice guide. Wiley, 2004
 
@@ -112,4 +96,18 @@ Computing, 2014
 
 William C Wake. Extreme Programming Explored. Addison Wesley, 2002
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (5):
+------------------------------
+Fowler, M. et al. Refactoring: Improving the Design of Existing Code. Addison-Wesley, 2018
+
+GojKo   Adzir.   Specification   by   Example:   How  Successful  Teams  Deliver  the  Right  Software.  Manning
+Publications Co, 2011
+
+Kieran Healy and Alan Schussman. The ecology of open source software development, 2003
+
+Mike Cohn. Agile Estimating and Planning. Prentice Hall, 2006
+
+Ryan   Ripley,   Todd   Miller.   Fixing   your   Scrum:  Practical  solutions  to  common  Scrum  problems.  The
+Pragmatic Programmers, 2020
+
+📊 Porcentaje estimado de cambio: 37% [███░░░░░░░]

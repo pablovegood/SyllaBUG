@@ -4,11 +4,9 @@ Grado: ingenieria-informatica (296)
 
 ❌ Recursos eliminados (1):
 ------------------------------
-Varios   Autores:   Cultura   Libre   Digital.   Icaria,   2012  Varios  Autores:  Derecho  y  Cloud  Computing.
-Civitas   Ediciones,   S.L.,   2012   Miguel  Ángel  Davara  Rodríguez:  Manual  De  Derecho  Informático  -  Ed.
-Aranzadi, 2015
+Miguel Ángel Davara Rodríguez: Manual De Derecho Informático - Ed. Aranzadi, 2015
 
-📚 Recursos sin cambios (6):
+📚 Recursos sin cambios (8):
 ------------------------------
 Luis M. González De La Garza: Comunicación Pública en Internet. Creaciones Copyright, 2004
 
@@ -23,7 +21,11 @@ Ramón J. Moles: Derecho y Control en Internet, 2003
 Sánchez   Bravo,   Álvaro  A.:  La  Protección  del  Derecho  a  La  Libertad  Informática  en  La  Unión  Europea.
 Universidad de Sevilla. Servicio de Publicaciones, 1998
 
-✅ Recursos añadidos (5):
+Varios Autores: Cultura Libre Digital. Icaria, 2012
+
+Varios Autores: Derecho y Cloud Computing. Civitas Ediciones, S.L., 2012
+
+✅ Recursos añadidos (3):
 ------------------------------
 Barrio Andrés, Moisés, Manual de Derecho Digital, editorial Dykinson, 2024
 
@@ -33,8 +35,4 @@ Navarra, 2020
 Ortego Ruiz, Miguel, Manuel de privacidad, protección de datos y ciberseguridad, editorial Dykinson,
 2024
 
-Varios Autores: Cultura Libre Digital. Icaria, 2012
-
-Varios Autores: Derecho y Cloud Computing. Civitas Ediciones, S.L., 2012
-
-📊 Porcentaje estimado de cambio: 54% [█████░░░░░]
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

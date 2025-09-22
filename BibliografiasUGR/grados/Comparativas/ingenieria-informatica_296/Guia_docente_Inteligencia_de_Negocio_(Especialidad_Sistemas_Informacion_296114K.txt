@@ -12,7 +12,7 @@ Ian   H.   Witten,   Eibe   Frank,   Mark   A.Hall.   Data   Mining:   Practical
 Techniques.   Morgan   Kaufmann,   2016   José   Hernández   Orallo,  M.  José  Ramírez  Quintana,  Cèsar  Ferri
 Ramírez. Introducción a la Minería de Datos. Pearson Educación, 2004
 
-📚 Recursos sin cambios (10):
+📚 Recursos sin cambios (12):
 ------------------------------
 Charu C. Aggarwal. Data Mining: The Textbook. Springer, 2015
 
@@ -25,8 +25,14 @@ Jake VanderPlas. Python Data Science Handbook: Essential Tools for Working with 
 
 Jiawei Han, Micheline Kamber, Jian Pei. Data Mining: Concepts and Techniques. Morgan Kaufmann, 2012
 
+José   Hernández   Orallo,  M.  José  Ramírez  Quintana,  Cèsar  Ferri  Ramírez.  Introducción  a  la  Minería  de
+Datos. Pearson Educación, 2004
+
 Larissa   T.   Moss,   Saku   Atre.   Business   Intelligence   Roadmap:  The  Complete  Project  Lifecycle  for
 Decision-Support Application. Addison-Wesley Professional, 2003
+
+Michael   Minelli,   Michele   Chambers,   Ambiga   Dhiraj.   Big   Data,   Big  Analytics:  Emerging  Business
+Intelligence and Analytic Trends for Today's Businesses. John Wiley & Sons, 2013
 
 Nathan Yau. Data Points: Visualization that Means Something. Wiley, 2013
 
@@ -38,7 +44,7 @@ Salvador García, Julián Luengo, Francisco Herrera. Data Preprocessing in Data 
 Wayne W. Eckerson. Performance Dashboards: Measuring, Monitoring, and Managing Your Business. Wiley,
 2011
 
-✅ Recursos añadidos (4):
+✅ Recursos añadidos (2):
 ------------------------------
 Albert   Bifet,  Ricard  Gavaldà,  Geoff  Holmes,  Bernhard  Pfahringer.  Machine  Learning  for  Data  Streams.
 MIT Press, 2018
@@ -46,10 +52,4 @@ MIT Press, 2018
 Ian   H.   Witten,   Eibe   Frank,   Mark   A.Hall.   Data   Mining:   Practical   Machine   Learning  Tools  and
 Techniques. Morgan Kaufmann, 2016
 
-José   Hernández   Orallo,  M.  José  Ramírez  Quintana,  Cèsar  Ferri  Ramírez.  Introducción  a  la  Minería  de
-Datos. Pearson Educación, 2004
-
-Michael   Minelli,   Michele   Chambers,   Ambiga   Dhiraj.   Big   Data,   Big  Analytics:  Emerging  Business
-Intelligence and Analytic Trends for Today's Businesses. John Wiley & Sons, 2013
-
-📊 Porcentaje estimado de cambio: 42% [████░░░░░░]
+📊 Porcentaje estimado de cambio: 28% [██░░░░░░░░]

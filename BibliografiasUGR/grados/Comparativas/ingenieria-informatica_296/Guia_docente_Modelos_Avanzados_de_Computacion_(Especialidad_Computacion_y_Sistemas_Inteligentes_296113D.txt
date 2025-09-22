@@ -15,25 +15,19 @@ Creszendi   et   al.   Complexity   and   Approximation.  Springer-Verlag,  Berl
 Hoover,   W.L.   Ruzzo.  Limits  to  Parallel  Computation:  P-Completeness  Theory  (1995)  Oxford  University
 Press
 
-📚 Recursos sin cambios (2):
+📚 Recursos sin cambios (9):
 ------------------------------
-J. MacCormick. What Can Be Computed (2018) Princeton University Press
-
-M. Sipser. Introduction to the Theory of Computation, 2nd Ed. (2005) Course Technology
-
-✅ Recursos añadidos (9):
-------------------------------
-C. Moore, M. Stephan. The Nature of Computation. Oxford University Press (2011)
-
 C.H. Papadimitriou. Computational Complexity. Addison Wesley (1995)
-
-G. Ausiello, P. Creszendi et al. Complexity and Approximation. Springer-Verlag, Berlin (1999)
 
 J.   MacCormick,   What   can   be   computed?.  A  Practical  Guide  to  the  Theory  of  Computation.  Princeton
 University Press (2018)
 
+J. MacCormick. What Can Be Computed (2018) Princeton University Press
+
 J.E.   Hopcroft,   R.   Motwani,   J.D.   Ullman.   Introducción   a   la   Teoría   de  Autómatas,  Lenguajes  y
 Programación, 3ª Ed. Addison Wesley (2010)
+
+M. Sipser. Introduction to the Theory of Computation, 2nd Ed. (2005) Course Technology
 
 M.D.    Davis,   R.   Sigal,   E.J.   Weyujer.   Computability,   Complexity,   and   Languages   (2nd.   Ed.):
 Fundamentals of theoretical Computer Science. Academic Press (1994)
@@ -46,4 +40,10 @@ Oxford University Press
 
 S. Arora, B. Barak. Computational Complexity: A Modern Approach.Cambridge University Press (2009)
 
-📊 Porcentaje estimado de cambio: 90% [█████████░]
+✅ Recursos añadidos (2):
+------------------------------
+C. Moore, M. Stephan. The Nature of Computation. Oxford University Press (2011)
+
+G. Ausiello, P. Creszendi et al. Complexity and Approximation. Springer-Verlag, Berlin (1999)
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]

@@ -18,31 +18,45 @@ bibliotecas = [
     "B. Económicas y Empres.", "B. Educación", "B. Farmacia"
 ]
 
-df = pd.read_excel("Grados_UGR_Centros.xlsx")
-df.columns = df.columns.str.strip()
+# ---- Carga segura del Excel (no romper en Render si falta el archivo o el engine) ----
+_DF_PATH = "Grados_UGR_Centros.xlsx"
+def _cargar_df():
+    if not os.path.exists(_DF_PATH):
+        return pd.DataFrame()
+    try:
+        # requiere openpyxl en requirements.txt
+        df_ = pd.read_excel(_DF_PATH, engine="openpyxl")
+    except Exception:
+        # último recurso: intenta sin engine (por si el entorno ya decide uno)
+        try:
+            df_ = pd.read_excel(_DF_PATH)
+        except Exception:
+            return pd.DataFrame()
+    df_.columns = df_.columns.str.strip()
+    return df_
 
+df = _cargar_df()
 
 def extraer_porcentaje_y_ordenar(archivos, ruta):
-    """Devuelve [(nombre_archivo, porcentaje, contenido)] ordenado desc por porcentaje."""
     archivos_con_porcentaje = []
     for archivo in archivos:
         if archivo.endswith(".txt"):
             ruta_completa = os.path.join(ruta, archivo)
-            with open(ruta_completa, "r", encoding="utf-8", errors="ignore") as f:
-                contenido = f.read()
+            try:
+                with open(ruta_completa, "r", encoding="utf-8", errors="ignore") as f:
+                    contenido = f.read()
+            except Exception:
+                contenido = ""
             match = re.search(r"Porcentaje estimado de cambio: (\d+)%", contenido)
             porcentaje = int(match.group(1)) if match else 0
             archivos_con_porcentaje.append((archivo, porcentaje, contenido))
     return sorted(archivos_con_porcentaje, key=lambda x: x[1], reverse=True)
 
-
 def nombre_amigable_carpeta(slug: str) -> str:
-    """'historia-arte_293' -> 'Historia Arte' (aprox.)."""
     base = os.path.splitext(slug)[0]
     base = re.sub(r"[_-]\d{3,}$", "", base)
     base = base.replace("_", " ").replace("-", " ").replace("–", " ")
     base = re.sub(r"\s+", " ", base).strip().lower()
-
     accent_map = {
         "grado": "Grado", "arqueologia": "Arqueología", "psicologia": "Psicología",
         "sociologia": "Sociología", "biologia": "Biología", "geologia": "Geología",
@@ -57,7 +71,6 @@ def nombre_amigable_carpeta(slug: str) -> str:
         "traduccion e interpretacion": "Traducción e Interpretación",
     }
     preps = {"de","del","la","las","el","los","y","e","o","u","en","por","para","con","a"}
-
     palabras = base.split(" ")
     bonito, i = [], 0
     while i < len(palabras):
@@ -77,60 +90,36 @@ def nombre_amigable_carpeta(slug: str) -> str:
         else:
             bonito.append(p.capitalize())
         i += 1
-
     if bonito and bonito[0].lower() == "grado":
         bonito[0] = "Grado"
     return " ".join(bonito)
 
-
-# ---------- Parseo del título de archivo: devuelve (titulo, codigo_asignatura) ----------
 def parsear_titulo_y_codigo(nombre_archivo: str):
-    """
-    Extrae el código de asignatura del nombre del archivo.
-    Acepta cualquier bloque alfanumérico >=5 caracteres que contenga dígitos,
-    en cualquier posición del nombre.
-    Devuelve (titulo_limpio, codigo).
-    """
     base = os.path.splitext(nombre_archivo)[0]
-
-    # patrón: cualquier bloque alfanumérico de ≥5 que tenga al menos un dígito
     code_pat = r"[A-Za-z0-9]{5,}"
-
-    # 1) Intentar como sufijo tras '_' o '-'
     m_suf = re.search(rf"[_-]({code_pat})$", base)
     codigo = ""
     if m_suf and any(ch.isdigit() for ch in m_suf.group(1)):
         codigo = m_suf.group(1)
         base = base[:m_suf.start()]
-
-    # 2) Limpiar título
     base = base.replace("_", " ").replace("–", " ").replace("-", " ")
     base = re.sub(r"\s+", " ", base).strip()
-    base = re.sub(r"^(gu[ií]a\s+docente|guia\s+docente|guia_docente)\s*", "",
-                  base, flags=re.IGNORECASE)
+    base = re.sub(r"^(gu[ií]a\s+docente|guia\s+docente|guia_docente)\s*", "", base, flags=re.IGNORECASE)
     base = re.sub(r"\(pdf\)", "", base, flags=re.IGNORECASE).strip()
-
-    # 3) Fallback: buscar bloque alfanumérico en cualquier parte si no hay sufijo claro
     if not codigo:
         for m in re.finditer(code_pat, base):
             bloque = m.group(0)
-            if any(ch.isdigit() for ch in bloque):  # aseguramos que tiene números
+            if any(ch.isdigit() for ch in bloque):
                 codigo = bloque
                 base = (base[:m.start()] + base[m.end():]).strip()
                 break
-
-    # 4) Capitalización del título
     preps = {"de","del","la","las","el","los","y","e","o","u","en","por","para","con","a"}
     palabras = [p for p in base.split(" ") if p]
-    palabras_fmt = [
-        (p.capitalize() if (i == 0 or p.lower() not in preps) else p.lower())
-        for i, p in enumerate(palabras)
-    ]
+    palabras_fmt = [(p.capitalize() if (i == 0 or p.lower() not in preps) else p.lower())
+                    for i, p in enumerate(palabras)]
     titulo = " ".join(palabras_fmt)
-
     return titulo, codigo
 
-# ---------- Resolver carpeta real en Comparativas (acepta URL / slug / nombre bonito) ----------
 STOP_SEGMENTS = {
     "docencia","plan-estudios","guia-docente","presentacion","informacion",
     "movilidad","practicas","profesorado","itinerarios","salidas-profesionales",
@@ -161,7 +150,6 @@ def _match_slug_en_dirs(slug_base: str, dirs: list[str]) -> str | None:
     s = re.sub(r"[-_]\d{3,}$", "", s)
     hy = s.replace("_", "-")
     us = s.replace("-", "_")
-
     candidates = [
         d for d in dirs
         if d == s or d == hy or d == us
@@ -199,17 +187,13 @@ def resolver_carpeta(entrada: str) -> str:
             if found:
                 return found
         return _clean_segment(segs[-1]) if segs else s
-    # nombre bonito
     bonito_key = s.lower()
     for d in dirs:
         if nombre_amigable_carpeta(d).lower() == bonito_key:
             return d
-    # slug sin código
     found = _match_slug_en_dirs(s, dirs)
     return found or s
 
-
-# ----- helpers para columna CÓDIGO (grados) -----
 def _detectar_columna_entrada(df_: pd.DataFrame) -> str | None:
     candidates = ["URL", "Url", "Enlace", "Link", "Slug", "Carpeta", "Grado URL"]
     for c in candidates:
@@ -224,7 +208,6 @@ def _extraer_codigo_desde_entrada(valor: str) -> str:
     carpeta = resolver_carpeta(valor)
     m = re.search(r"(\d{3,})$", carpeta or "")
     return m.group(1) if m else ""
-
 
 @app.route("/", methods=["GET", "POST"])
 def index():
@@ -242,15 +225,16 @@ def index():
             entradas = request.form.getlist("grados_seleccionados")
             nombres_carpetas = [resolver_carpeta(x) for x in entradas]
 
-            # Construimos el HTML de comparativas aquí (lógica en app.py)
             secciones = []
             for carpeta in nombres_carpetas:
                 ruta = os.path.join(BASE_PATH, carpeta)
                 if os.path.exists(ruta):
                     titulo_grado = nombre_amigable_carpeta(carpeta)
                     secciones.append(f"<h2>{titulo_grado}</h2>")
-
-                    archivos = sorted(os.listdir(ruta))
+                    try:
+                        archivos = sorted(os.listdir(ruta))
+                    except Exception:
+                        archivos = []
                     archivos_ordenados = extraer_porcentaje_y_ordenar(archivos, ruta)
                     for archivo, porcentaje, contenido_txt in archivos_ordenados:
                         titulo, codigo = parsear_titulo_y_codigo(archivo)
@@ -275,16 +259,17 @@ def index():
 
         elif seleccion:
             mensaje = f"📚 Has seleccionado: {seleccion}"
-            grados_filtrados = df[
-                df['Biblioteca'].fillna('').str.split(r'\s*\+\s*').apply(lambda bibl_list: seleccion in bibl_list)
-            ].copy()
-
-            # Añadir columna CÓDIGO (de la carpeta real)
-            col_entrada = _detectar_columna_entrada(grados_filtrados)
-            if col_entrada:
-                grados_filtrados["CÓDIGO"] = grados_filtrados[col_entrada].apply(_extraer_codigo_desde_entrada)
+            if not df.empty and "Biblioteca" in df.columns:
+                grados_filtrados = df[
+                    df['Biblioteca'].fillna('').str.split(r'\s*\+\s*').apply(lambda bibl_list: seleccion in bibl_list)
+                ].copy()
+                col_entrada = _detectar_columna_entrada(grados_filtrados)
+                if col_entrada:
+                    grados_filtrados["CÓDIGO"] = grados_filtrados[col_entrada].apply(_extraer_codigo_desde_entrada)
+                else:
+                    grados_filtrados["CÓDIGO"] = ""
             else:
-                grados_filtrados["CÓDIGO"] = ""
+                grados_filtrados = pd.DataFrame()
 
     return render_template(
         "index.html",
@@ -296,6 +281,7 @@ def index():
         contenido=contenido
     )
 
-
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=10000, debug=False)
+    # Render: usar 0.0.0.0 y PORT del entorno
+    port = int(os.environ.get("PORT", "10000"))
+    app.run(host="0.0.0.0", port=port, debug=False)

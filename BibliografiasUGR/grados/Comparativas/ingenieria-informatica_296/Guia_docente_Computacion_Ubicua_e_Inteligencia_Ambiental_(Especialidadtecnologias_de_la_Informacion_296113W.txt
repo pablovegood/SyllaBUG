@@ -2,28 +2,14 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (2):
+❌ Recursos eliminados (0):
 ------------------------------
-Everyware:   The   Dawning   Age   of  Ubiquitous  Computing.  Adam  Greenfield.  Peachpit  Press  Publications
-2006 Think Python. Allen B. Downey. O’Reilly 2015
+No hay elementos.
 
-Wiley 2009 Pervasive systems and ubiquitous computing. A. Genco, S. Sorce. WIT Press 2010 Ubiquitous
-computing   fundamentals.   John   Krumm  (ed.)  CRC  Press  2010  Paolo  Remagnino,  Ambient  Intelligence  :  A
-Novel   Paradigm,   Springer;2004  W.  Weber,  J.M.  Rabaey,  E.  Aarts,  Ambient  Intelligence,  Springer  2005
-Security for Ubiquitous Computing. Frank Stajano. Wiley 2002
-
-📚 Recursos sin cambios (1):
+📚 Recursos sin cambios (9):
 ------------------------------
-Ubiquitous Computing: Smart Devices, Environments and Interactions. Stefan Posland. Wiley 2009
-
-✅ Recursos añadidos (12):
-------------------------------
-Computer Science and Ambient Intelligence. Wiley 2013
-
 Everyware:   The   Dawning   Age   of  Ubiquitous  Computing.  Adam  Greenfield.  Peachpit  Press  Publications
 2006
-
-Learning OpenCV 4 Computer Vision with Python 3. Packt 2020
 
 Paolo Remagnino, Ambient Intelligence : A Novel Paradigm, Springer;2004
 
@@ -33,15 +19,23 @@ Security for Ubiquitous Computing. Frank Stajano. Wiley 2002
 
 Security of Ubiquitous Computing Systems. Springer 2021
 
-The   Internet  of  Things:  Foundation  for  Smart  Cities,  eHealth,  and  Ubiquitous  Computing.  Chapman  and
-Hall/CRC 2017
-
-The Wiley Handbook of Human Computer Interaction. Wiley 2018
-
 Think Python. Allen B. Downey. O’Reilly 2015
+
+Ubiquitous Computing: Smart Devices, Environments and Interactions. Stefan Posland. Wiley 2009
 
 Ubiquitous computing fundamentals. John Krumm (ed.) CRC Press 2010
 
 W. Weber, J.M. Rabaey, E. Aarts, Ambient Intelligence, Springer 2005
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (4):
+------------------------------
+Computer Science and Ambient Intelligence. Wiley 2013
+
+Learning OpenCV 4 Computer Vision with Python 3. Packt 2020
+
+The   Internet  of  Things:  Foundation  for  Smart  Cities,  eHealth,  and  Ubiquitous  Computing.  Chapman  and
+Hall/CRC 2017
+
+The Wiley Handbook of Human Computer Interaction. Wiley 2018
+
+📊 Porcentaje estimado de cambio: 30% [███░░░░░░░]

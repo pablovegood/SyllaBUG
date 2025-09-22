@@ -2,12 +2,8 @@
 Grado: ingenieria-informatica (296)
 ==================================================
 
-❌ Recursos eliminados (2):
+❌ Recursos eliminados (1):
 ------------------------------
-ESIIT/C.1   PRO   pro   A.S.   Tanenbaum.   Structured  Computer  Organization.  5th  ed.  Upper  Saddle  River,
-Pearson Education, 2006. ESIIT/C.1 TAN str M.I. García, et al, Estructura de Computadores: problemas
-resueltos. Madrid, Ra-Ma
-
 W.   Stalllings.   Computer   Organization  and  Architecture:  Designing  for  Performance.  11th  ed.  Global
 ed.   New   York,   Pearson,   2022.  ESIIT/C1.  STA  com  R.E.  Bryant,  D.R.  O'Hallaron:  Computer  systems:  a
 programmer's   perspective.   3rd  ed.  Global  ed.  Boston,  Pearson,  2016.  ESIIT/C.1  BRY  com  C.  Hamacher,
@@ -20,21 +16,17 @@ Computadores.   Madrid,   Paraninfo,   2006.   ESIIT/C.1  ORT  arq  J.L.  Hennes
 architecture:   a   quantitative  approach.  6th  ed.  Boston,  Morgan  Kaufmann,  2019.  ESIIT/C.1  HEN  com  F.
 García, et al, Problemas resueltos de Estructura de Computadores. Madrid, Paraninfo
 
-📚 Recursos sin cambios (1):
+📚 Recursos sin cambios (9):
 ------------------------------
-ESIIT/C.1   EST  est  N.  Carter.  Arquitectura  de  Computadores.  Madrid,  McGraw-Hill,  2004.  ESIIT/C.1  CAR
-arq
-
-✅ Recursos añadidos (10):
-------------------------------
-A.S.   Tanenbaum.   Structured   Computer   Organization.  5th  ed.  Upper  Saddle  River,  Pearson  Education,
-2006. ESIIT/C.1 TAN str
-
 C. Hamacher, Z. Vranesic, S. Zaky, N. Manjikian. Computer Organization and Embedded Systems. 6th ed.
 New York, McGraw-Hill, 2012. ESIIT/C.1 COM com
 
-D.A.   Patterson,   J.L.   Hennessy,  Computer  Organization  and  design:  the  hardware-software  interface.
-6th ed. Amsterdam, Elsevier, 2021. ESIIT/C.1 PAT com
+ESIIT/C.1   EST  est  N.  Carter.  Arquitectura  de  Computadores.  Madrid,  McGraw-Hill,  2004.  ESIIT/C.1  CAR
+arq
+
+ESIIT/C.1   PRO   pro   A.S.   Tanenbaum.   Structured  Computer  Organization.  5th  ed.  Upper  Saddle  River,
+Pearson Education, 2006. ESIIT/C.1 TAN str M.I. García, et al, Estructura de Computadores: problemas
+resueltos. Madrid, Ra-Ma
 
 F.   García,   et   al,   Problemas   resueltos   de   Estructura  de  Computadores.  Madrid,  Paraninfo,  2015.
 ESIIT/C.1 PRO pro
@@ -51,10 +43,15 @@ Bartlett Learning, 2024. ESIIT/C.1 NUL ess
 M.I.   García,  et  al,  Estructura  de  Computadores:  problemas  resueltos.  Madrid,  Ra-Ma,  2006.  ESIIT/C.1
 EST est
 
-R.E.   Bryant,   D.R.   O'Hallaron:   Computer   systems:   a  programmer's  perspective.  3rd  ed.  Global  ed.
-Boston, Pearson, 2016. ESIIT/C.1 BRY com
-
 W.   Stalllings.   Computer   Organization  and  Architecture:  Designing  for  Performance.  11th  ed.  Global
 ed. New York, Pearson, 2022. ESIIT/C1. STA com
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (2):
+------------------------------
+D.A.   Patterson,   J.L.   Hennessy,  Computer  Organization  and  design:  the  hardware-software  interface.
+6th ed. Amsterdam, Elsevier, 2021. ESIIT/C.1 PAT com
+
+R.E.   Bryant,   D.R.   O'Hallaron:   Computer   systems:   a  programmer's  perspective.  3rd  ed.  Global  ed.
+Boston, Pearson, 2016. ESIIT/C.1 BRY com
+
+📊 Porcentaje estimado de cambio: 27% [██░░░░░░░░]
