@@ -3,7 +3,7 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
-    <title>SyllaBUG: Comparador de Guías Docentes</title>
+    <title>Comparador de Guías Docentes</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
@@ -120,14 +120,14 @@
                 <li>Seleccione la biblioteca en la que trabaja.</li>
                 <li>El programa desplegará todos los grados impartidos en la facultad en la que se encuentra la biblioteca seleccionada.</li>
                 <li>Seleccione el grado o los grados de los que desee actualizar las guías docentes y haga click en “Mostrar contenidos”.</li>
-                <li>El programa mostrará una comparativa entre la guía docente del curso actual 2025-2026 y el anterior 2024-2025.</li>
+                <li>Se mostrará una pestaña desplegable por cada asignatura del grado que cuente con una bibliografía.</li>
+                <li>Si hace click en la pestaña desplegable de alguna asignatura, el programa mostrará una comparativa entre la guía docente del curso actual 2025-2026 y el anterior 2024-2025.</li>
             </ol>
 
             <h3>Qué muestran las comparativas</h3>
             <ul>
                 <li>Recursos eliminados respecto al año anterior.</li>
                 <li>Recursos que siguen igual.</li>
-                <li>Recursos iguales con nueva edición.</li>
                 <li>Recursos añadidos respecto al año anterior.</li>
             </ul>
 
@@ -193,31 +193,38 @@
         try { localStorage.setItem(STORAGE_KEY, size); } catch (e) {}
     });
 
-    // --- Normalización de saltos de línea en comparativas ---
-    // Mantiene líneas en blanco (separadores de recursos) como \n\n,
-    // pero elimina saltos manuales dentro de un recurso (convirtiéndolos en espacios).
-    function normalizeComparatives() {
+    // --- Normalización de saltos de línea en comparativas (preservando <a>) ---
+    function normalizeTextValue(s) {
         const PRESERVE = '<<PARA_BREAK>>';
-        const pres = document.querySelectorAll('.contenido-comparativo pre');
+        if (!s) return s;
+        let t = s.replace(/\r\n/g, '\n');     // 1) normalizar CRLF
+        t = t.replace(/\n{2,}/g, PRESERVE);   // 2) preservar \n\n como separadores
+        t = t.replace(/\n/g, ' ');            // 3) convertir \n simple en espacio
+        t = t.replace(new RegExp(PRESERVE, 'g'), '\n\n'); // 4) restaurar separadores
+        return t;
+    }
 
-        pres.forEach(el => {
-            // 1) Tomamos el texto llano del <pre>
-            let t = el.textContent;
+    function normalizeTextNodes(root) {
+        const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+            acceptNode(node) {
+                if (!node.nodeValue || !node.nodeValue.match(/\S/)) return NodeFilter.FILTER_REJECT;
+                return NodeFilter.FILTER_ACCEPT;
+            }
+        });
 
-            // 2) Normalizamos saltos tipo Windows
-            t = t.replace(/\r\n/g, '\n');
+        const textNodes = [];
+        while (walker.nextNode()) {
+            // No tocar el contenido dentro de <a> para no romper enlaces
+            if (walker.currentNode.parentElement && walker.currentNode.parentElement.tagName === 'A') continue;
+            textNodes.push(walker.currentNode);
+        }
 
-            // 3) Preservamos bloques de 2+ saltos como marcador
-            t = t.replace(/\n{2,}/g, PRESERVE);
+        textNodes.forEach(n => { n.nodeValue = normalizeTextValue(n.nodeValue); });
+    }
 
-            // 4) Convertimos los saltos simples en espacios
-            t = t.replace(/\n/g, ' ');
-
-            // 5) Restauramos los separadores como doble salto de línea
-            t = t.replace(new RegExp(PRESERVE, 'g'), '\n\n');
-
-            // 6) Asignamos el texto normalizado de vuelta
-            el.textContent = t;
+    function normalizeComparatives() {
+        document.querySelectorAll('.contenido-comparativo pre').forEach(pre => {
+            normalizeTextNodes(pre);
         });
     }
 
