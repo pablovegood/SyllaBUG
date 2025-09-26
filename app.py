@@ -12,10 +12,10 @@ BASE_PATH = os.path.join("BibliografiasUGR", "grados", "Comparativas")
 bibliotecas = [
     "B. Filosofía y Letras A", "B. Informática y Telecom.",
     "B. Melilla", "B. PTS", "B. Políticas y Sociolog.", "B. Politécnica",
-    "B. Filosofía y Letras B", "B. S. Jerónimo", "B. Traductores e Intérpretes",
+    "B. Psicología y Letras B", "B. S. Jerónimo", "B. Traductores e Intérpretes",
     "B. Arquitectura", "B. Bellas Artes", "B. Ceuta",
     "B. Ciencias", "B. Colegio Máximo", "B. Deporte", "B. Derecho",
-    "B. Económicas y Empres.", "B. Educación", "B. Farmacia"
+    "B. Económicas y Empres  .", "B. Educación", "B. Farmacia"
 ]
 
 # ---- Carga segura del Excel (no romper en Render si falta el archivo o el engine) ----
@@ -27,7 +27,6 @@ def _cargar_df():
         # requiere openpyxl en requirements.txt
         df_ = pd.read_excel(_DF_PATH, engine="openpyxl")
     except Exception:
-        # último recurso: intenta sin engine (por si el entorno ya decide uno)
         try:
             df_ = pd.read_excel(_DF_PATH)
         except Exception:
@@ -37,20 +36,107 @@ def _cargar_df():
 
 df = _cargar_df()
 
-def extraer_porcentaje_y_ordenar(archivos, ruta):
-    archivos_con_porcentaje = []
+# ---------- Utilidades para limpiar cabecera y hacer enlaces clicables ----------
+
+CABECERA_RE = re.compile(
+    r"^\s*(?:🆚\s*)?Comparativa de bibliograf[íi]a:.*?\n\s*Grado:.*?\n=+\s*\n*",
+    flags=re.IGNORECASE | re.DOTALL,
+)
+
+URL_RE = re.compile(r"https?://[^\s<>'\"\]\)]+", flags=re.IGNORECASE)
+
+def _strip_cabecera_antigua(texto: str) -> str:
+    return CABECERA_RE.sub("", texto, count=1)
+
+def _strip_cabeceras_genericas(texto: str) -> str:
+    t = (texto or "").lstrip("\ufeff \t\r\n")
+    lines = t.splitlines()
+    idx = 0
+    if lines:
+        if re.search(r"gu[ií]a[ _-]?docente", lines[0], re.IGNORECASE) or re.search(r"\([\w\-]+\)\s*$", lines[0]):
+            idx = 1
+    if idx < len(lines) and re.match(r"\s*Grado\s*:", lines[idx], re.IGNORECASE):
+        idx += 1
+    if idx < len(lines) and re.match(r"\s*=+\s*$", lines[idx]):
+        idx += 1
+    while idx < len(lines) and not lines[idx].strip():
+        idx += 1
+    return "\n".join(lines[idx:])
+
+def _linkify(texto: str) -> str:
+    def repl(m):
+        url = m.group(0)
+        trail = ""
+        while url and url[-1] in ".,;:!?)”’'\"»":
+            trail = url[-1] + trail
+            url = url[:-1]
+        return f'<a href="{url}" target="_blank" rel="noopener noreferrer">{url}</a>{trail}'
+    return URL_RE.sub(repl, texto)
+
+def _preparar_contenido(contenido_txt: str) -> str:
+    x = _strip_cabecera_antigua(contenido_txt or "")
+    x = _strip_cabeceras_genericas(x)
+    return _linkify(x)
+
+# ---------- Leer totales en encabezados y sumar ----------
+
+def _extraer_total_por_encabezado(texto: str, encabezado_pat: str) -> int:
+    """
+    Extrae el número del MISMO renglón del encabezado.
+    Soporta:
+      - Prefijos (emojis, -, •, #, >, espacios, etc.)
+      - "(12)" con o sin texto/":" después del paréntesis
+      - Alternativa ": 12" sin paréntesis
+    """
+    if not texto:
+        return 0
+    t = texto.replace("\r\n", "\n").replace("\r", "\n")
+
+    # 1) Con paréntesis, permitiendo lo que venga detrás (p. ej., "):")
+    pat1 = rf"(?mi)^[^\n]*?{encabezado_pat}[^\n]*\((\d+)\)[^\n]*$"
+    m = re.search(pat1, t)
+    if m:
+        try:
+            return int(m.group(1))
+        except Exception:
+            return 0
+
+    # 2) Sin paréntesis: con dos puntos al final de la línea
+    pat2 = rf"(?mi)^[^\n]*?{encabezado_pat}[^\n]*?:\s*(\d+)\s*$"
+    m = re.search(pat2, t)
+    if m:
+        try:
+            return int(m.group(1))
+        except Exception:
+            return 0
+
+    return 0
+
+
+def _contar_cambios_por_parentesis(texto: str) -> tuple[int, int, int]:
+    # cubrir "añadidos" y "anadidos"
+    pat_eliminados = r"Recursos\s+eliminados"
+    pat_anadidos   = r"Recursos\s+a(?:ñ|n)adidos"
+    eliminados = _extraer_total_por_encabezado(texto, pat_eliminados)
+    anadidos   = _extraer_total_por_encabezado(texto, pat_anadidos)
+    return (eliminados, anadidos, eliminados + anadidos)
+
+def extraer_cambios_y_ordenar(archivos, ruta):
+    resultado = []
     for archivo in archivos:
-        if archivo.endswith(".txt"):
-            ruta_completa = os.path.join(ruta, archivo)
-            try:
-                with open(ruta_completa, "r", encoding="utf-8", errors="ignore") as f:
-                    contenido = f.read()
-            except Exception:
-                contenido = ""
-            match = re.search(r"Porcentaje estimado de cambio: (\d+)%", contenido)
-            porcentaje = int(match.group(1)) if match else 0
-            archivos_con_porcentaje.append((archivo, porcentaje, contenido))
-    return sorted(archivos_con_porcentaje, key=lambda x: x[1], reverse=True)
+        if not archivo.endswith(".txt"):
+            continue
+        ruta_completa = os.path.join(ruta, archivo)
+        try:
+            with open(ruta_completa, "r", encoding="utf-8", errors="ignore") as f:
+                contenido = f.read()
+        except Exception:
+            contenido = ""
+        eliminados, anadidos, total = _contar_cambios_por_parentesis(contenido)
+        resultado.append((archivo, total, contenido))
+    return sorted(resultado, key=lambda x: (-x[1], x[0].lower()))
+
+# ---------- Naming helpers y resolución de carpetas ----------
 
 def nombre_amigable_carpeta(slug: str) -> str:
     base = os.path.splitext(slug)[0]
@@ -209,6 +295,8 @@ def _extraer_codigo_desde_entrada(valor: str) -> str:
     m = re.search(r"(\d{3,})$", carpeta or "")
     return m.group(1) if m else ""
 
+# ---------- Rutas ----------
+
 @app.route("/", methods=["GET", "POST"])
 def index():
     mensaje = ""
@@ -235,19 +323,20 @@ def index():
                         archivos = sorted(os.listdir(ruta))
                     except Exception:
                         archivos = []
-                    archivos_ordenados = extraer_porcentaje_y_ordenar(archivos, ruta)
-                    for archivo, porcentaje, contenido_txt in archivos_ordenados:
+                    archivos_ordenados = extraer_cambios_y_ordenar(archivos, ruta)
+                    for archivo, cambios, contenido_txt in archivos_ordenados:
                         titulo, codigo = parsear_titulo_y_codigo(archivo)
                         izquierda = f"{titulo} ({codigo})" if codigo else titulo
+                        contenido_html = _preparar_contenido(contenido_txt)
                         secciones.append(
                             f"""
 <details class="cmp">
   <summary class="toc">
     <span class="cmp-left">{izquierda}</span>
     <span class="toc-leader" aria-hidden="true"></span>
-    <span class="cmp-pct">{porcentaje}%</span>
+    <span class="cmp-changes">nº cambios {cambios}</span>
   </summary>
-  <pre>{contenido_txt}</pre>
+  <pre>{contenido_html}</pre>
 </details>
 """.strip()
                         )
@@ -282,6 +371,5 @@ def index():
     )
 
 if __name__ == "__main__":
-    # Render: usar 0.0.0.0 y PORT del entorno
     port = int(os.environ.get("PORT", "10000"))
     app.run(host="0.0.0.0", port=port, debug=False)

@@ -418,3 +418,9 @@ body.modal-open { overflow: hidden; }
     border-radius: 12px;
   }
 }
+
+.cmp-changes {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  opacity: 0.8;
+}
