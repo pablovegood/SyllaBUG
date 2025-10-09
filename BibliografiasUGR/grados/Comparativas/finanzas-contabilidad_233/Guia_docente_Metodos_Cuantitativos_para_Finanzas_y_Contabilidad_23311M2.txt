@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Métodos_Cuantitativos_para_Finanzas_y_Contabilidad (23311M2)
+Guia_docente_Métodos_Cuantitativos_para_Finanzas_y_Contabilidad (23311M2)
 Grado: finanzas-contabilidad (233)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (4):
-------------------------------
+
 Berger,   J.   (1985).   “Statistical   Decision   Theory   and   Bayesian   Analysis”.   Springer   Series  in
 Statistics. Second Edition
 
@@ -20,7 +20,7 @@ Sarabia, J.M:, Gómez, E. y Vázquez, F.J. (2007). “Estadística actuarial. Te
 Pearson Prentice Hall
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

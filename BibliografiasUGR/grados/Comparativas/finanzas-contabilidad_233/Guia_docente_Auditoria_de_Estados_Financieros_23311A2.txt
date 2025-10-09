@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Auditoría_de_Estados_Financieros (23311A2)
+Guia_docente_Auditoría_de_Estados_Financieros (23311A2)
 Grado: finanzas-contabilidad (233)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (45):
-------------------------------
+
 INTERNATIONAL   AUDITING   AND   ASSURANCE  STANDARDS  BOARD  (IAASB)  (Ed.2018):  Handbook  of  international
 quality   control,   auditing,   review,   other   assurance,   and  related  services  pronouncements.  Vol.I
 INTERNATIONAL   AUDITING   AND   ASSURANCE  STANDARDS  BOARD  (IAASB)  (Ed.2018):  Handbook  of  international
@@ -129,13 +129,14 @@ que   se   publica   la   modificación   de   determinadas   Normas  Técnicas 
 Términos. Glosario de términos
 
 ✅ Recursos añadidos (7):
-------------------------------
+
 Glosario de términos
 
 INTERNATIONAL   AUDITING   AND   ASSURANCE  STANDARDS  BOARD  (IAASB)  (Ed.2018):  Handbook  of  international
 quality control, auditing, review, other assurance, and related services pronouncements. Vol.I
 
-LÓPEZ GORDO, M.G.: Auditoría de Estados Financieros. Fleming. Granada
+INTERNATIONAL   AUDITING   AND   ASSURANCE  STANDARDS  BOARD  (IAASB)  (Ed.2018):  Handbook  of  international
+quality control, auditing, review, other assurance, and related services pronouncements. Vol.II
 
 NIA-ES 505. Confirmaciones Externas
 
@@ -143,6 +144,6 @@ NIA-ES 520. Procedimientos Analíticos
 
 NIA-ES 550. Partes Vinculadas
 
-NIA-ES 580. Manifestaciones escritas
+NIA-ES 570. Empresa en Funcionamiento
 
 📊 Porcentaje estimado de cambio: 13% [█░░░░░░░░░]

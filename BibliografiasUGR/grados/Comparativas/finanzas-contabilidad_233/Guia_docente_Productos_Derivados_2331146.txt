@@ -1,15 +1,15 @@
-🆚 Comparativa de bibliografía: Guia_docente_Productos_Derivados (2331146)
+Guia_docente_Productos_Derivados (2331146)
 Grado: finanzas-contabilidad (233)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 LUEHRMAN,   Timothy   A.:   Capital   Projects  as  Real  Options:  An  Introduction,  Harvard  Business  School
 9-295-074   (Rev.   March   22,  1995)  LORING,  Jaime  (2000):  Opciones  y  futuros.  Ed.  Desclée  de  Brouwer,
 Bilbao
 
 📚 Recursos sin cambios (12):
-------------------------------
+
 BACCINI   D.R.  y  OTROS,  (2004):  Ingeniería  financiera:  Futuros  y  opciones  utilizando  Microsoft  Excel.
 Ed. Omicron System. Buenos Aires, 1ª edición
 
@@ -44,7 +44,7 @@ TRIGEORIGIS,   L.:   Managerial   Flexibility   and   Strategy   in   Resource  
 Cambrigde, 1996
 
 ✅ Recursos añadidos (2):
-------------------------------
+
 LORING, Jaime (2000): Opciones y futuros. Ed. Desclée de Brouwer, Bilbao
 
 LUEHRMAN,   Timothy   A.:   Capital   Projects  as  Real  Options:  An  Introduction,  Harvard  Business  School

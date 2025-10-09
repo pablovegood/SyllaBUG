@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Informática_Aplicada_a_la_Gestión_Empresarial (23311G1)
+Guia_docente_Informática_Aplicada_a_la_Gestión_Empresarial (23311G1)
 Grado: finanzas-contabilidad (233)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (17):
-------------------------------
+
 Analítica Web para empresas: Arte, ingenio y anticipación. Maribel Morales Martínez. Editorial UOC
 
 Arjonilla   Domínguez,   S.   J.;  Medina  Garrido,  J.  A.  La  gestión  de  los  sistemas  de  información  en  la
@@ -55,7 +55,7 @@ Sistemas   de   información:  herramientas  prácticas  para  la  gestión  emp
 Carlos Suárez Rey. Editorial Ra-Ma
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

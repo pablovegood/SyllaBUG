@@ -1,29 +1,21 @@
-🆚 Comparativa de bibliografía: Guia_docente_Economía_Política (2331115)
+Guia_docente_Economía_Política (2331115)
 Grado: finanzas-contabilidad (233)
-==================================================
 
-❌ Recursos eliminados (3):
-------------------------------
-Hall, R. y Lieberman M. (2003): Economía, Principios y aplicaciones. 2ªed., Thomson, Lipsey, R.G., y
-Harbury, C. (1993): Principios de Economía. Vicens-Vives, Barcelona
 
-Schiller   B.   (2008):   Principios   de   Economía.   McGraw-Hill   Sloman,   J.  (1997):  Introducción  a  la
-Macroeconomía. 3ª ed. Prentice Hall
+❌ Recursos eliminados (0):
 
-Sowell,   T.  (2013):  Economía  Básica.  Deusto,  Barcelona  Stiglitz  J.  (1993):  Economía.  Editorial  Ariel
-Stiglitz,   J.E.,   Rosengard,   J.K.   (2016):   La   Economía  del  Sector  Público.  Antoni  Bosch  editor,
-Barcelona
+No hay elementos.
 
-📚 Recursos sin cambios (37):
-------------------------------
+📚 Recursos sin cambios (44):
+
 Acemoglu, D.; Laibson, D.y List, J. A. (2017). Economía. Un primer curso inspirado en el mundo real.
 Antoni Bosh, Barcelona. 1ª Ed
 
-BIBLIOGRAFÍA   DE   PRÁCTICAS:   Barrios,   S.,   Moreno,   D.   y   Rosales,   V.  (2021):  Economía  Política.
-Cuestiones para la Autoevaluación. Ed. Técnica Avicam, Granada
-
 Barnejee,   Abhijit   V.,   Duflo,   Esther,   (2020):   Buena   economía   para   tiempos  difíciles.  Taurus,
 Barcelona
+
+Barrios,   S.,  Moreno,  D.  y  Rosales,  V.  (2021):  Economía  Política.  Cuestiones  para  la  Autoevaluación.
+Ed. Técnica Avicam, Granada
 
 Begg, D., Fischer, S., Dornbusch, R. & Fernández, A. (2006): Economía. 8ª ed., McGraw-Hill
 
@@ -61,6 +53,8 @@ Gimeno, J.A. y otros (2005): Principios de Economía. Libro de ejercicios. McGra
 
 Guerrero, D. (2016). Economía básica. MAIA, Madrid
 
+Hall, R. y Lieberman M. (2003): Economía, Principios y aplicaciones. 2ªed., Thomson
+
 Jiménez   Aguilera   J.D.   y  Sánchez  Campillo,  J.  (1993):  Cuestiones  y  ejercicios  de  Teoría  Económica.
 Pirámide, Madrid
 
@@ -68,6 +62,8 @@ Kishtainy, Niall (2019): Breve historia de la Economía. Biblioteca Nueva
 
 Krugman,   P.,   Wells,   R.   y   Graddy,  K.  (2015):  Fundamentos  de  Economía.  3ª  ed.,  Editorial  Reverté,
 Barcelona
+
+Lipsey, R.G., y Harbury, C. (1993): Principios de Economía. Vicens-Vives, Barcelona
 
 Mankiw, N.G. y Taylor, M.P. (2017): Economía. Paraninfo, Madrid
 
@@ -97,14 +93,25 @@ Salas, M. (2014): Economía Política. Teoría y aplicaciones. Ed. Comares, Gran
 
 Samuelson, P. y Nordhaus, W. (2010): Economía. 19ª ed., McGraw-Hill, Madrid
 
+Schiller B. (2008): Principios de Economía. McGraw-Hill
+
+Sloman, J. (1997): Introducción a la Macroeconomía. 3ª ed. Prentice Hall
+
 Sloman, J. (1997): Introducción a la Microeconomía. 3ª ed. Prentice Hall
+
+Sowell, T. (2013): Economía Básica. Deusto, Barcelona
+
+Stiglitz J. (1993): Economía. Editorial Ariel
+
+Stiglitz,   J.E.,   Rosengard,   J.K.   (2016):   La   Economía  del  Sector  Público.  Antoni  Bosch  editor,
+Barcelona
 
 Torres, J (2017): Introducción a la Economía. Pirámide. Madrid
 
 Torres, J. (2015): Economía Política, 3ª ed., Pirámide
 
-✅ Recursos añadidos (9):
-------------------------------
+✅ Recursos añadidos (2):
+
 BIBLIOGRAFÍA   COMPLEMENTARIA:   Barnejee,   Abhijit   V.,   Duflo,   Esther,   (2020):  Buena  economía  para
 tiempos   difíciles.   Taurus,  Barcelona.  Begg,  D.,  Fischer,  S.,  Dornbusch,  R.  &  Fernández,  A.  (2006):
 Economía.   8ª  ed.,  McGraw-Hill.  Bernanke,  B.S.  y  Frank,  R.H.  (2007):  Principios  de  Economía.  McGraw-
@@ -143,19 +150,4 @@ Mochón, F. y otros (1994): Economía. Teoría y Política. Libro de problemas. 
 (2005):   Economía.   McGraw-Hill.   Salas,   M.   (2014):   Economía  Política.  Teoría  y  aplicaciones.  Ed.
 Comares, Granada
 
-Hall, R. y Lieberman M. (2003): Economía, Principios y aplicaciones. 2ªed., Thomson
-
-Lipsey, R.G., y Harbury, C. (1993): Principios de Economía. Vicens-Vives, Barcelona
-
-Schiller B. (2008): Principios de Economía. McGraw-Hill
-
-Sloman, J. (1997): Introducción a la Macroeconomía. 3ª ed. Prentice Hall
-
-Sowell, T. (2013): Economía Básica. Deusto, Barcelona
-
-Stiglitz J. (1993): Economía. Editorial Ariel
-
-Stiglitz,   J.E.,   Rosengard,   J.K.   (2016):   La   Economía  del  Sector  Público.  Antoni  Bosch  editor,
-Barcelona
-
-📊 Porcentaje estimado de cambio: 26% [██░░░░░░░░]
+📊 Porcentaje estimado de cambio: 4% [░░░░░░░░░░]
