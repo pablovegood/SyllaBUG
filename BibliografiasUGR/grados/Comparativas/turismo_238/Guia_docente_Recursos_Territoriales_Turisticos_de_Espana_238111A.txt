@@ -1,9 +1,9 @@
-🆚 Comparativa de bibliografía: Guia_docente_Recursos_Territoriales_Turísticos_de_España (238111A)
+Guia_docente_Recursos_Territoriales_Turísticos_de_España (238111A)
 Grado: turismo (238)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 CENTRO   NACIONAL   DE   INFORMACIÓN   GEOGRÁFICA   (CNIG)   (Ed.)   (2018):   España  en  mapas.  Una  síntesis
 Geográfica.        Madrid,        Instituto        Geográfico        Nacional.        Disponible       en:
 http://www.ign.es/web/ign/portal/publicaciones-boletines-y-libros-digitales]    FRANCO    ALIAGA,    T.
@@ -11,7 +11,7 @@ http://www.ign.es/web/ign/portal/publicaciones-boletines-y-libros-digitales]    
 454 pp
 
 📚 Recursos sin cambios (21):
-------------------------------
+
 AECIT:   La   actividad   turística   española.   Madrid,   Asociación  Española  de  Expertos  Científicos  en
 Turismo.   (Balance   anual   del   turismo   en   España,  con  participación  de  numerosos  expertos,  que  se
 realiza desde 1994)
@@ -71,7 +71,7 @@ VERA,   J.F.   (coord.)   (1997):   Análisis   Territorial   del  Turismo.  Una
 Ariel, Barcelona
 
 ✅ Recursos añadidos (5):
-------------------------------
+
 BLANCO   ROMERO,   A.,   BLÁZQUEZ   SALOM,  M.,  DE  LA  CALLE  VAQUERO,  M.,  FERNÁNDEZ  TABALES,  A.,  HERNÁNDEZ
 GARCÍA, M., LOIS GONZÁLEZ, R.,MÍNGUEZ GARCÍA, M.C., NAVALÓN GARCÍA, R., NAVARRO JURADO, E., TROITIÑO
 TORRALBA, L. (2021). Diccionario de turismo. Ediciones Cátedra (Grupo Anaya, S.A.)

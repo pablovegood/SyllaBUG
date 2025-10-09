@@ -1,27 +1,21 @@
-🆚 Comparativa de bibliografía: Guia_docente_Economía_del_Transporte (2381143)
+Guia_docente_Economía_del_Transporte (2381143)
 Grado: turismo (238)
-==================================================
+
 
 ❌ Recursos eliminados (3):
-------------------------------
+
 BUTTON, K. (2010). Transport economics. Edward Elgar Publishing
 
-GOMEZ-IBANEZ,   JOSE  A.;  WILLIAM  B.  TYE,  CLIFFORD  WINSTON,  (1999),  Essays  in  Transportation  Economics
-and   Policy:   A  Handbook  in  Honor  of  John  R.  Meyer,  Brookings  Institution  Press,  London  QUINET,  E.  Y
-VICKERMAN, R. (2004) Principles of Transport Economics. Edward Elgar, Massachussets RUS, G.; CAMPOS,
-J. y NOMBELA, G. (2003), Economía del transporte, Antoni-Bosch
+QUINET, E. Y VICKERMAN, R. (2004) Principles of Transport Economics. Edward Elgar, Massachussets
 
-RIETVELD,   P.   Y   STOUGH,   R   (Eds.)   (2004),   Barriers  to  Sustainable  Transport,  Spon  Press,  London
-VOGELER,   C.   Y   HERNANDEZ,   E.  (1996),  El  mercado  turístico.  Estructuras,  operaciones  y  procesos  de
-producción, Centro de Estudios Ramón Areces
+RUS, G.; CAMPOS, J. y NOMBELA, G. (2003), Economía del transporte, Antoni-Bosch
 
-📚 Recursos sin cambios (12):
-------------------------------
-BIBLIOGRAFÍA COMPLEMENTARIA Y DE PRÁCTICAS: BUTTON, K.J. Y VERHOEF, E.T., (Eds.), 1998 Road Pricing,
-Traffic   Congestion   and  the  Environment:  Issues  of  Efficiency  and  Social  Feasibility,  Edward  Elgar,
-Cheltenham
+📚 Recursos sin cambios (15):
 
 BLAUWENS, G., DE BAERE, P., & VAN DE VOORDE, E. (2009). Transport economics. De Boeck Hoger
+
+BUTTON,   K.J.   Y   VERHOEF,   E.T.,  (Eds.),  1998  Road  Pricing,  Traffic  Congestion  and  the  Environment:
+Issues of Efficiency and Social Feasibility, Edward Elgar, Cheltenham
 
 CASO, E. et al (2000), Informática para profesionales del turismo, Anaya, Madrid
 
@@ -31,8 +25,8 @@ Official Publications of the European Communities, Luxemburgo
 ESTEVAN, A. (2011). Modelos de transporte y emisiones de CO2 en España. Revista de Economía Crítica,
 4, 67-87
 
-Fundación SEGUI PONS, J.M. Y MARTINEZ REYNES, M.R. (2004), Geografía de los transportes, Universitat
-de les Illes Balears
+GOMEZ-IBANEZ,   JOSE  A.;  WILLIAM  B.  TYE,  CLIFFORD  WINSTON,  (1999),  Essays  in  Transportation  Economics
+and Policy: A Handbook in Honor of John R. Meyer, Brookings Institution Press, London
 
 LIZARRAGA,   C.   (2006),   “Movilidad   urbana   sostenible:   un   reto   para  las  ciudades  del  siglo  XXI”
 Economía, Sociedad y Territorio, Vol. V, no22
@@ -52,21 +46,22 @@ LIZARRAGA,    C.,   JARAMILLO,   C.,   &   GRINDLAY,   A.   L.   (2011).   Urban
 disadvantage:   Methodology   to   evaluate   social   transport   needs  in  Latin  American  cities.  In  ERSA
 conference papers (No. ersa11p. 936). European Regional Science Association
 
-✅ Recursos añadidos (7):
-------------------------------
-BIBLIOGRAFÍA COMPLEMENTARIA Y DE PRÁCTICAS
-
-BUTTON, K. (2022). Transport economics. Edward Elgar Publishing
-
-GOMEZ-IBANEZ, JOSE A.; WILLIAM B. TYE, CLIFFORD WINSTON, (1999), Essays in Transportation
-
-QUINET, E. Y VICKERMAN, R. (2005) Principles of Transport Economics. Edward Elgar, Massachussets
-
 RIETVELD, P. Y STOUGH, R (Eds.) (2004), Barriers to Sustainable Transport, Spon Press, London
 
-RUS, G.; CAMPOS, J. y NOMBELA, G. (2022), Economía del transporte, Antoni-Bosch
+SEGUI   PONS,   J.M.   Y  MARTINEZ  REYNES,  M.R.  (2004),  Geografía  de  los  transportes,  Universitat  de  les
+Illes Balears
 
 VOGELER,   C.   Y   HERNANDEZ,   E.  (1996),  El  mercado  turístico.  Estructuras,  operaciones  y  procesos  de
 producción, Centro de Estudios Ramón Areces
 
-📊 Porcentaje estimado de cambio: 52% [█████░░░░░]
+✅ Recursos añadidos (4):
+
+BIBLIOGRAFÍA COMPLEMENTARIA Y DE PRÁCTICAS
+
+BUTTON, K. (2022). Transport economics. Edward Elgar Publishing
+
+QUINET, E. Y VICKERMAN, R. (2005) Principles of Transport Economics. Edward Elgar, Massachussets
+
+RUS, G.; CAMPOS, J. y NOMBELA, G. (2022), Economía del transporte, Antoni-Bosch
+
+📊 Porcentaje estimado de cambio: 36% [███░░░░░░░]

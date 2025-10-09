@@ -1,13 +1,9 @@
-🆚 Comparativa de bibliografía: Guia_docente_Inglés_Turístico_Avanzado (2381117)
+Guia_docente_Inglés_Turístico_Avanzado (2381117)
 Grado: turismo (238)
-==================================================
 
-❌ Recursos eliminados (1):
-------------------------------
-Murphy, R. (2012). English Grammar in Use. Cambridge: Cambridge University Press
 
-📚 Recursos sin cambios (2):
-------------------------------
+❌ Recursos eliminados (2):
+
 Martínez-Cabeza,   M.A.   &   Espínola   Rosillo,   M.   C.   (2024).  English  for  Tourism  Studies.  Cuaderno
 Diccionarios:   Alcaraz,   E.,   Hughes,   B.,   Campos,  M.,  Pina,  V.  &  Alesón,  A.  (2006).  Diccionario  de
 términos de turismo y de ocio. Inglés-Español/Spanish-English. Barcelona: Ariel Beaver, A. (2012). A
@@ -15,11 +11,15 @@ dictionary   of   travel   and   tourism.  Oxford:  Oxford  University  Press  L
 español en línea https://lexis.ugr.es/ Gramáticas: Carter, R., McCarthy, M., Mark, G.,& O'Keeffe, A.
 (2011). English Grammar Today. Cambridge: Cambridge University Press
 
+Murphy, R. (2012). English Grammar in Use. Cambridge: Cambridge University Press
+
+📚 Recursos sin cambios (1):
+
 Strutt,   P.   (2013).   English   for   International  Tourism  (Intermediate  Coursebook).  Pearson.  (Units
 6-10)
 
-✅ Recursos añadidos (6):
-------------------------------
+✅ Recursos añadidos (7):
+
 Alcaraz,   E.,   Hughes,   B.,   Campos,   M.,   Pina,   V.  &  Alesón,  A.  (2006).  Diccionario  de  términos  de
 turismo y de ocio. Inglés-Español/Spanish-English. Barcelona: Ariel
 
@@ -28,6 +28,8 @@ Beaver, A. (2012). A dictionary of travel and tourism. Oxford: Oxford University
 Carter,   R.,   McCarthy,   M.,   Mark,   G.,&   O'Keeffe,   A.   (2011).   English  Grammar  Today.  Cambridge:
 Cambridge University Press
 
+Diccionarios
+
 Lozano, A. Diccionario inglés-español en línea https://lexis.ugr.es/
 
 Martínez-Cabeza,   M.A.   &   Espínola   Rosillo,  M.  C.  (2024).  English  for  Tourism  Studies.  Coursebook.
@@ -35,4 +37,4 @@ Editorial Universidad de Granada. (Units 7, 8, 9, 10, 11, 12)
 
 Murphy, R. (2019). English Grammar in Use (5th ed.). Cambridge: Cambridge University Press
 
-📊 Porcentaje estimado de cambio: 87% [████████░░]
+📊 Porcentaje estimado de cambio: 100% [██████████]
