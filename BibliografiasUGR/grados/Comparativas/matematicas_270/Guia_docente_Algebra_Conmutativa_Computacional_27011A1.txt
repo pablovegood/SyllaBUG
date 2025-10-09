@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Álgebra_Conmutativa_Computacional (27011A1)
+Guia_docente_Álgebra_Conmutativa_Computacional (27011A1)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (7):
-------------------------------
+
 D.   A.   Cox,   J.   B.   Little,   D.   O'Shea,   Ideals,   Varieties   and   Algorithms.   An  introduction  to
 Computational Algebraic Geometry and Commutative Algebra. UTM Springer, 1996-2007
 
@@ -25,7 +25,7 @@ M.   Reid,  Undergraduate  Commutative  Algebra,  London  Mathematical  Society 
 University Press, 1995
 
 ✅ Recursos añadidos (1):
-------------------------------
+
 D. Perrin, Algebraic geometry: An introduction. (Universitext) Springer 2008th Edition
 
 📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

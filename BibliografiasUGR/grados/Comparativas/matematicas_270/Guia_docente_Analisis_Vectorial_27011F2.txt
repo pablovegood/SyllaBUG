@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Análisis_Vectorial (27011F2)
+Guia_docente_Análisis_Vectorial (27011F2)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (4):
-------------------------------
+
 Lang, Serge. Calculus of Several Variables, Third edition, Springer, 1987
 
 Marsden, J. E. y Tromba, A. J., Cálculo Vectorial, Pearson Educación, 2004
@@ -17,7 +17,7 @@ Pita Ruiz, Claudio. Cálculo Vectorial . Prentice-Hall Hispanoamericana, 1995
 Stewart, J. Multivariable Calculus . Brooks/Cole, Cengage Learning, 2012
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

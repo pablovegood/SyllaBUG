@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Ecuaciones_Diferenciales_II (2701136)
+Guia_docente_Ecuaciones_Diferenciales_II (2701136)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (6):
-------------------------------
+
 C.   Fernández   Pérez,   Ecuaciones   diferenciales-I.  Ecuaciones  lineales.  Ediciones  Pirámide,  Madrid,
 1992
 
@@ -24,7 +24,7 @@ M. Hirsch, S. Smale, Ecuaciones diferenciales, sistemas dinámicos y álgebra li
 1983
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

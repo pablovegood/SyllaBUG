@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Análisis_Matemático_II (2701126)
+Guia_docente_Análisis_Matemático_II (2701126)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (10):
-------------------------------
+
 BERBERIAN, S.K.: Fundamentals of Real Analysis. Springer, 1998
 
 BRUCKNER,   A.   M.,   BRUCKNER,  J.  B.,  THOMSON,  B.S.:  Real  analysis,  Prentice-Hall  International,  Inc.
@@ -30,7 +30,7 @@ STROMBERG, K.R.: An Introduction to Classical Real Analysis. American Mathematic
 WHEEDEN R. L., ZYGMUND A., Measure and Integral. An Introduction to Real Analysis. CRC Press, 2015
 
 ✅ Recursos añadidos (1):
-------------------------------
+
 CABELLO, J.C.: Integral de Lebesgue, Godel, 2025
 
 📊 Porcentaje estimado de cambio: 9% [░░░░░░░░░░]

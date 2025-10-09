@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Física_General (2701117)
+Guia_docente_Física_General (2701117)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (9):
-------------------------------
+
 A. Hobson, “Physics. Concepts and connections.”; Addison-Wesley, 2010
 
 D. Haliday, R. Resnick y J. Walker, “Fundamentos de física”; Compañía Editorial Continental, 2001
@@ -27,7 +27,7 @@ R.P. Feynman, “Física”; Fondo Educativo Interamericano, 1987
 S. Burbano de Ercilla y cols., “Física General”; Tébar, 2003
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

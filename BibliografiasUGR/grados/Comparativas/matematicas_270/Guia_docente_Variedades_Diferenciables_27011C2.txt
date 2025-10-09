@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Variedades_Diferenciables (27011C2)
+Guia_docente_Variedades_Diferenciables (27011C2)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (8):
-------------------------------
+
 AMORES, A.M.: Integración y formas diferenciales: un curso de análisis vectorial, Ed. Sanz y Torres,
 Madrid, 2001
 
@@ -31,7 +31,7 @@ SPIVAK   M.:   A  comprehensive  introduction  to  Differential  Geometry,  Vol.
 WARNER, F.: Foundations of differential manifolds and Lie groups, Scott Foresman and Co 1971
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Ecuaciones_Diferenciales_en_Mecánica_y_Biología (27011D1)
+Guia_docente_Ecuaciones_Diferenciales_en_Mecánica_y_Biología (27011D1)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (8):
-------------------------------
+
 A. L. Bertozzi, A. J. Majda, Vorticity and incompressible flow. Cambridge University Press 2010
 
 B. Perthame, Transport equations in biology. Springer (Series: Frontiers in Mathematics), 2007
@@ -26,7 +26,7 @@ L. Edelstein-Keshet, Mathematical models in Biology. SIAM 46, 2005
 R. J. LeVeque, Numerical methods for conservation laws. Birkhäuser, 1990
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

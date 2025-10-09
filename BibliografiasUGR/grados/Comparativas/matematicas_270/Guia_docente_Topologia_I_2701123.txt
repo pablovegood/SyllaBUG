@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Topología_I (2701123)
+Guia_docente_Topología_I (2701123)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (11):
-------------------------------
+
 E. BUJALANCE, J. TARRÉS. Problemas de Topología. UNED, 1989
 
 F.J. DÍAZ y J.M. CALCINES. Curso de Topología General. Editorial Vision Net, 2009
@@ -31,7 +31,7 @@ R. LOPEZ. Topología. Editorial Técnica Avicam, Granada 2023
 S. WILLARD. General Topology. Addison-Wesley, 1970
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

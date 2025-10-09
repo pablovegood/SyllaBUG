@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Estadística_Multivariante (27011E1)
+Guia_docente_Estadística_Multivariante (27011E1)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 Härdle, W.K. y Simar, L. (2015, 4ª ed.). Applied Multivariate Statistical Analysis. Springer
 
 📚 Recursos sin cambios (12):
-------------------------------
+
 (http://www.et.bs.ehu.es/~etptupaf/nuevo/ficheros/estad4/multi.pdf)   Zelterman,   D.   (2015).  Applied
 Multivariate Statistics with R. Springer
 
@@ -41,7 +41,7 @@ Tusell,                 F.                 (2016).                Análisis     
 (http://www.et.bs.ehu.es/~etptupaf/nuevo/ficheros/estad4/multi.pdf)
 
 ✅ Recursos añadidos (1):
-------------------------------
+
 Härdle,   W.K.,   Simar,  L.  y  Fengler,  M.R.  (2024,  6ª  ed.).  Applied  Multivariate  Statistical  Analysis.
 Springer
 

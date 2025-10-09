@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Álgebra_Moderna (27011A3)
+Guia_docente_Álgebra_Moderna (27011A3)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (9):
-------------------------------
+
 F. Anderson, K. R. Fuller, Rings and categories of Modules, 2nd Ed. Springer, New York, 1992
 
 F. Kasch, Modules and Rings, Academic Press, London, 1982
@@ -33,7 +33,7 @@ Society, Providence, Rhode Island, 1948
 T. Y. Lam, A first course in Noncommutative Rings, Springer, New York, 1991
 
 ✅ Recursos añadidos (1):
-------------------------------
+
 J.   Gómez   Torrecillas,   Álgebras,   Grupos   y   Representaciones,   Universidad   de   Granada,   http://
 hdl.handle.net/10481/62890
 

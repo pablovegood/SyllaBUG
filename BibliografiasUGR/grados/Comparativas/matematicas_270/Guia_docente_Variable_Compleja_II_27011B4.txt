@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Variable_Compleja_II (27011B4)
+Guia_docente_Variable_Compleja_II (27011B4)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (7):
-------------------------------
+
 Burckell, R., An introduction to classical complex analysis. Birkhauser-Verlag, 1979
 
 Conway, J. B., Functions of one complex variable I. Springer-Verlag, 1973
@@ -23,7 +23,7 @@ Rudin, W., Real and complex analysis. McGraw-Hill, 1970
 Stein, E. M., Shakarchi, R., Complex analysis. Princeton University Press, 2003
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Análisis_Funcional (270113B)
+Guia_docente_Análisis_Funcional (270113B)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (9):
-------------------------------
+
 Apuntes   del   Prof.   Rafael   Payá:   https://www.ugr.es/~rpaya/cursosanteriores.htm  Apuntes  del  Prof.
 Javier Pérez: https://www.ugr.es/~fjperez/apuntes.html RINNE, P.R.; YOUNGSON,M.A.: Linear Functional
 Analysis. 2nd ed. Springer, 2008
@@ -29,7 +29,7 @@ RUDIN, W.: Functional Analysis. McGraw-Hill, New York, 1973
 WILLEM, M.: Functional Analysis. Fundamentals and Applications. Birkhäuser, 2010
 
 ✅ Recursos añadidos (2):
-------------------------------
+
 Apuntes del Prof. Rafael Payá: https://www.ugr.es/~rpaya/cursosanteriores.htm
 
 RINNE, P.R.; YOUNGSON,M.A.: Linear Functional Analysis. 2nd ed. Springer, 2008

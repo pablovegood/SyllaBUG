@@ -1,15 +1,15 @@
-🆚 Comparativa de bibliografía: Guia_docente_Probabilidad (270112A)
+Guia_docente_Probabilidad (270112A)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 García-Ligero,   M.J.,   Hermoso   Carazo,  A.,  Maldonado  Jurado,  J.A.,  Román  Román,  P.,  Torres  Ruíz,  F.
 (2007).   Curso   Básico   de   Probabilidad   con   CDPYE   (CD).  Copicentro  Haigh,  J.  (2002).  Probability
 Models. Springer-Verlag, London
 
 📚 Recursos sin cambios (17):
-------------------------------
+
 Ash, R.B. (2008). Basic Probability Theory. Dover Publications Inc., New York
 
 Canavos,   G.  (2003).  Probabilidad  y  Estadística:  Aplicaciones  y  Métodos.  McGraw-Hill  Interamericana,
@@ -54,7 +54,7 @@ Vélez, R., Hernández, V. (1995). Cálculo de Probabilidades 1. UNED, Madrid
 Zolotariéskaia, D.I. (2006). Teoría de Probabilidades (problemas resueltos). URSS, Moscú
 
 ✅ Recursos añadidos (2):
-------------------------------
+
 García-Ligero,   M.J.,   Hermoso   Carazo,  A.,  Maldonado  Jurado,  J.A.,  Román  Román,  P.,  Torres  Ruíz,  F.
 (2007). Curso Básico de Probabilidad con CDPYE (CD). Copicentro Editorial, Universidad de Granada
 

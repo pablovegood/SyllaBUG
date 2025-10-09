@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Análisis_de_Fourier (27011B1)
+Guia_docente_Análisis_de_Fourier (27011B1)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (8):
-------------------------------
+
 Dym, H, McKean, H. P., Fourier series and integrals. Academic Press, 1972
 
 Edwards, R. E., Fourier series. A modern introduction. Volume 1. Springer, 2003
@@ -25,7 +25,7 @@ Stein, E. M., Shakarchi, M., Fourier analysis: an introduction. Princeton Univer
 Zygmund, A., Trigonometric series. Cambridge University Press, 2003
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

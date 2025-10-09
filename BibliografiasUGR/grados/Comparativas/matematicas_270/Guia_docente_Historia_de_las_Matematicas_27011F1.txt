@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Historia_de_las_Matemáticas (27011F1)
+Guia_docente_Historia_de_las_Matemáticas (27011F1)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (28):
-------------------------------
+
 A.   Romero,   Geometría  y  Relatividad:  una  introducción  a  la  geometría  básica  de  la  teoría,  Rev.  Mat.
 Epsilon, 14 (1998), 305-320
 
@@ -74,7 +74,7 @@ T. Mitchell, Machine Learning, McGraw Hill, 1997
 W. R. Knorr, The Ancient Tradition of Geometric Problems, Dover, 1993
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

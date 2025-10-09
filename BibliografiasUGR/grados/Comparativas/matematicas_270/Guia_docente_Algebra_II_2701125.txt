@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Álgebra_II (2701125)
+Guia_docente_Álgebra_II (2701125)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (9):
-------------------------------
+
 A.I. Kostrikin, Introducción al algebra. McGraw-Hill, 1992
 
 D.S. Dummit, R.M. Foote, Abstract algebra . JohnWiley, 1999
@@ -27,7 +27,7 @@ P.M. Cohn, Classic Algebra. Wiley and sons, 2000
 T.W. Hungerford. Algebra. Grad. Texts in Math. 73. Springer-Verlag NY, Inc. 1974
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

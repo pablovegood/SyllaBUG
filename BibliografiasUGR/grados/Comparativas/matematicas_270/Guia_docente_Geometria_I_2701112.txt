@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Geometría_I (2701112)
+Guia_docente_Geometría_I (2701112)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (14):
-------------------------------
+
 Arvesú, J., Álvarez, R. y Marcellán, F.: Problemas resueltos de Álgebra lineal. Ed. Thomson, 2004
 
 Arvesú, J., Álvarez, R. y Marcellán, F.: Álgebra lineal y aplicaciones. Ed. Síntesis, 1999
@@ -37,7 +37,7 @@ Romero, A.: Álgebra lineal y Geometría I. Ed. La Madraza, 1991
 Wolfram, S.: Mathematica, a system for doing Mathematics by computer. Addison-Wesley, 1991
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

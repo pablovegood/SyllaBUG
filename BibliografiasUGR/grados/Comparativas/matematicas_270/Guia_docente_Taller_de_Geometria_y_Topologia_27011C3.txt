@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Taller_de_Geometría_y_Topología (27011C3)
+Guia_docente_Taller_de_Geometría_y_Topología (27011C3)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (18):
-------------------------------
+
 C. ALSINA, R. PEREZ y C. RUIZ, Simetría Dinámica, Síntesis 1989
 
 D.   HILBERT   y  S.  COHN-VOSSEN,  Geometry  and  the  imagination,  Nueva  York:  Chelsea  Publishing  Co.  1952
@@ -54,7 +54,7 @@ W. BARKER, H. ROGER. Continuous Symmetry. American Mathematical Society, Provide
 W. P. THURSTON. “The Geometry and Topology of Three-Manifolds.” Princeton, N.J. 1980
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

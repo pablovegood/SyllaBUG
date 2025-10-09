@@ -1,14 +1,14 @@
-🆚 Comparativa de bibliografía: Guia_docente_Modelos_Matemáticos_II (2701139)
+Guia_docente_Modelos_Matemáticos_II (2701139)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 J.   L.   López,   J.   Soler,   Modelos  Matemáticos  II:  Cálculo  de  variaciones  y  ecuaciones  en  derivadas
 parciales con aplicaciones en Mecánica y Biología. AVICAM, 2023
 
 📚 Recursos sin cambios (10):
-------------------------------
+
 A. Tijonov, A. Samarsky, Ecuaciones de la Física Matemática. Mir, 1980
 
 B. Perthame, Transport equations in Biology. Springer (Series: Frontiers in Mathematics), 2007
@@ -32,7 +32,7 @@ New York, 1987
 V. Brunt, The Calculus of variations. Springer, 2004
 
 ✅ Recursos añadidos (1):
-------------------------------
+
 J.   L.   López,   J.   Soler,   Modelos  Matemáticos  II:  Cálculo  de  variaciones  y  ecuaciones  en  derivadas
 parciales con aplicaciones en Mecánica y Biología (2ª ed). AVICAM, 2025
 

@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Mecánica (2701129)
+Guia_docente_Mecánica (2701129)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (15):
-------------------------------
+
 A. Fernández-Rañada, Mecánica Clásica, Alhambra Universidad, 1995
 
 D. A. Wells, Dinámica de Lagrange, McGraw-Hill
@@ -41,7 +41,7 @@ T. W. Kibble and F. H. Berkshire, Classical Mechanics, Imperial College Press, 2
 V. I. Arnold, Mathematica methods of Classical Mechanics, Springer-Verlag, 1989
 
 ✅ Recursos añadidos (3):
-------------------------------
+
 A. P. French, Vibraciones y Ondas, Reverté
 
 E. Levy, Elementos de mecánica del medio continuo, Ed. Limusa-Wiley, 1971

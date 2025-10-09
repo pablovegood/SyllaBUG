@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Topología_II (2701138)
+Guia_docente_Topología_II (2701138)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (9):
-------------------------------
+
 A.   Katok   y  V.  Climenhaga,  Lectures  on  Surfaces:  (Almost)  Everything  You  Wanted  to  Know  about  Them.
 AMS, Mathematics Advances Study Semesters, 2008
 
@@ -29,7 +29,7 @@ M. W. Hirsch, Differential Topology. Graduate Texts in Mathematics 33, Springer-
 W. S. Massey, Introducción a la Topología Algebraica. Reverté, Barcelona, 1972
 
 ✅ Recursos añadidos (1):
-------------------------------
+
 R. López Camino, Topología. Editorial Universidad de Granada, 2014
 
 📊 Porcentaje estimado de cambio: 10% [█░░░░░░░░░]

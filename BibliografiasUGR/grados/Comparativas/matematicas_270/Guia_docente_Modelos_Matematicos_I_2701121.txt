@@ -1,22 +1,22 @@
-🆚 Comparativa de bibliografía: Guia_docente_Modelos_Matemáticos_I (2701121)
+Guia_docente_Modelos_Matemáticos_I (2701121)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 E.    Salinelli,    F.    Tomarelli,   Discrete   Dynamical   Models,   Springer   International   Publishing
 Switzerland,   2014   F.   Brauer,   C.   Castillo-Chávez,   Mathematical  Models  in  Population  Biology  and
 Epidemiology, Second Ed., Springer-Verlag, New York, 2012
 
 📚 Recursos sin cambios (2):
-------------------------------
+
 P.   Cull,  M.  Flahive,  R.  Robson,  Difference  Equations:  From  Rabbits  to  Chaos,  Undergraduate  Texts  in
 Mathematics, Springer Verlag, New York, 2005
 
 S. Elaydi, An Introduction to Difference Equations, Springer-Verlag, New York, 2005
 
 ✅ Recursos añadidos (3):
-------------------------------
+
 E.    Salinelli,    F.    Tomarelli,   Discrete   Dynamical   Models,   Springer   International   Publishing
 Switzerland, 2014
 

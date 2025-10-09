@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Geometría_III (2701122)
+Guia_docente_Geometría_III (2701122)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (13):
-------------------------------
+
 A. REVENTOS, Affine maps, Euclidean motions and Quadrics. Springer, 2011
 
 C. ALSINA, R. PEREZ, C. RUIZ. Simetría Dinámica. Síntesis, 1989
@@ -36,7 +36,7 @@ M.   ORTEGA,   M.   RITORÉ,  Geometría  afín  y  proyectiva,  Ed.  Godel  Imp
 W. GREUB. Linear Algebra. Springer-Verlag, 1981
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

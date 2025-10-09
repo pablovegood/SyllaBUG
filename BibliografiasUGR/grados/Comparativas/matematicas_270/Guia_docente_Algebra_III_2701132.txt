@@ -1,22 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Álgebra_III (2701132)
+Guia_docente_Álgebra_III (2701132)
 Grado: matematicas (270)
-==================================================
 
-❌ Recursos eliminados (1):
-------------------------------
-Bastida,   J.,   Field  extensions  and  Galois  theory,  Addison–Wesley,  (1984)  Cohn,  P.  M.,  Algebra,  vol.
-2, Wiley 2nd Edition (1989) Cohn, P. M., Classic Algebra, Wiley (2000) Dummit, D. S. y Foote, R. M.,
-Abstract   Algebra,   Prentice-Hall   (1991)   Fraleigh  J.  B.,  First  Course  in  Abstract  Algebra  7th  ed.,
-Addison   Wesley   (en   español:   Álgebra   abstracta,   3ª   ed.,  (1987))  Jacobson,  N.,  Basic  Algebra  I,
-Freeman   (1985)   Lang,   S.,  Algebra,  Addison-Wesley  3rd  Edition  (1993),  Springer  (2002)  (en  español:
-Algebra 1ª edición, Aguilar (1971))
 
-📚 Recursos sin cambios (0):
-------------------------------
+❌ Recursos eliminados (0):
+
 No hay elementos.
 
-✅ Recursos añadidos (8):
-------------------------------
+📚 Recursos sin cambios (7):
+
 Bastida, J., Field extensions and Galois theory, Addison–Wesley, (1984)
 
 Cohn, P. M., Algebra, vol. 2, Wiley 2nd Edition (1989)
@@ -28,11 +19,13 @@ Dummit, D. S. y Foote, R. M., Abstract Algebra, Prentice-Hall (1991)
 Fraleigh   J.   B.,   First   Course   in   Abstract   Algebra  7th  ed.,  Addison  Wesley  (en  español:  Álgebra
 abstracta, 3ª ed., (1987))
 
-Gómez-Torrecillas, J., Álgebra III, disponible en https://digibug.ugr.es
-
 Jacobson, N., Basic Algebra I, Freeman (1985)
 
 Lang,   S.,   Algebra,   Addison-Wesley   3rd   Edition   (1993),   Springer  (2002)  (en  español:  Algebra  1ª
 edición, Aguilar (1971))
 
-📊 Porcentaje estimado de cambio: 100% [██████████]
+✅ Recursos añadidos (1):
+
+Gómez-Torrecillas, J., Álgebra III, disponible en https://digibug.ugr.es
+
+📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

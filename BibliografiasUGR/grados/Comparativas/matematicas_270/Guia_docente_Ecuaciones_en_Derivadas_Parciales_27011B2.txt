@@ -1,15 +1,15 @@
-🆚 Comparativa de bibliografía: Guia_docente_Ecuaciones_en_Derivadas_Parciales (27011B2)
+Guia_docente_Ecuaciones_en_Derivadas_Parciales (27011B2)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 Peral,   I.:   Primer  curso  de  Ecuaciones  en  derivadas  parciales.  Addison-Wesley,  1995.  La  2ª  edición,
 de   2004,  está  disponible  (libre)  en  http://matematicas.uam.es/~ireneo.peral/libro.pdf  Evans,  L.  C.:
 Partial Differential Equations, AMS, 2002
 
 📚 Recursos sin cambios (5):
-------------------------------
+
 Budak,   B.M.;   Samarski,   A.A.  y  Tijonov,  A.N.:  Problemas  de  la  Física  Matemática.  Volúmenes  I  y  II.
 Mir, 1984
 
@@ -23,7 +23,7 @@ Strauss W.A: Partial differential equations an introduction. New York: John Wile
 Tijonov, A.N. y Samarsky, A.A. Ecuaciones de la Física Matemática. Mir, 1980
 
 ✅ Recursos añadidos (3):
-------------------------------
+
 BIBLIOGRAFÍA BÁSICA
 
 Evans, L. C.: Partial Differential Equations, AMS, 2002

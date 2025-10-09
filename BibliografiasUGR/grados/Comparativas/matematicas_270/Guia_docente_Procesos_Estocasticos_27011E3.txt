@@ -1,20 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Procesos_Estocásticos (27011E3)
+Guia_docente_Procesos_Estocásticos (27011E3)
 Grado: matematicas (270)
-==================================================
 
-❌ Recursos eliminados (2):
-------------------------------
-Cox,   D.  R.  y  Miller,  H.  D.  (1990).  The  Theory  of  Stochastic  Processes.  Chapman  and  Hall  Durrett,  R.
-(2016).   Essentials   of  Stochastic  Processes.  Springer  Texts  in  Statistics  Gan,  G.,  Ma,  C.  y  Xie,  H.
-(2014).   Measure,   Probability,   and   Mathematical   Finance.   Wiley  Grimmett,  G.R.  y  Stirzaker,  D.R.
-(2005). Probability and Random Processes. Oxford University Press
 
-Privault,   N.   (2018)   Understanding  Markov  Chains.  Examples  and  Applications  Springer  Undergraduate
-Mathematics   Series   Serfozo,   R.   (2009).   Basics  of  Applied  Stochastic  Processes.  Springer-Verlag,
-Berlin Stirzaker, D.R. (2005). Stochastic processes and models. Oxford University Press
+❌ Recursos eliminados (0):
 
-📚 Recursos sin cambios (5):
-------------------------------
+No hay elementos.
+
+📚 Recursos sin cambios (12):
+
 Baldi,   P.,   Mazliak,L.   y  Priouret,  P  .  (2002).  Martingales  and  Markov  chains:  solved  exercises  and
 elements of theory. Boca Raton: Chapman & Hall/CRC
 
@@ -23,13 +16,6 @@ Springer-Verlag
 
 Cohen, J. W. (1992) The single server queue. Elsevier Science Publishers B.V
 
-Ibe, O.C. (2013). Markov Processes for Stochastic Modeling (Second Edition). Elsevier Inc
-
-Todorovic,   P.   (1992).   An   Introduction   to  Stochastic  Processes  and  their  applications.  Springer-
-Verlag. New York
-
-✅ Recursos añadidos (10):
-------------------------------
 Cox, D. R. y Miller, H. D. (1990). The Theory of Stochastic Processes. Chapman and Hall
 
 Durrett, R. (2016). Essentials of Stochastic Processes. Springer Texts in Statistics
@@ -38,9 +24,7 @@ Gan, G., Ma, C. y Xie, H. (2014). Measure, Probability, and Mathematical Finance
 
 Grimmett, G.R. y Stirzaker, D.R. (2005). Probability and Random Processes. Oxford University Press
 
-Murphy, K. P. (2012). Machine learning: a probabilistic perspective . MIT press
-
-Pavliotis, G. A. (2014). Stochastic processes and applications. Texts in applied mathematics, 60
+Ibe, O.C. (2013). Markov Processes for Stochastic Modeling (Second Edition). Elsevier Inc
 
 Privault,   N.   (2018)   Understanding  Markov  Chains.  Examples  and  Applications  Springer  Undergraduate
 Mathematics Series
@@ -49,7 +33,16 @@ Serfozo, R. (2009). Basics of Applied Stochastic Processes. Springer-Verlag, Ber
 
 Stirzaker, D.R. (2005). Stochastic processes and models. Oxford University Press
 
+Todorovic,   P.   (1992).   An   Introduction   to  Stochastic  Processes  and  their  applications.  Springer-
+Verlag. New York
+
+✅ Recursos añadidos (3):
+
+Murphy, K. P. (2012). Machine learning: a probabilistic perspective . MIT press
+
+Pavliotis, G. A. (2014). Stochastic processes and applications. Texts in applied mathematics, 60
+
 Williams,   C.  K.,  &  Rasmussen,  C.  E.  (2006).  Gaussian  processes  for  machine  learning  (Vol.  2,  No.  3,
 p. 4). Cambridge, MA: MIT press
 
-📊 Porcentaje estimado de cambio: 80% [████████░░]
+📊 Porcentaje estimado de cambio: 20% [██░░░░░░░░]

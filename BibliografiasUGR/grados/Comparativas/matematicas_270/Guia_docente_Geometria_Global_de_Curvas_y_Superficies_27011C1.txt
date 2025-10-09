@@ -1,14 +1,14 @@
-🆚 Comparativa de bibliografía: Guia_docente_Geometría_Global_de_Curvas_y_Superficies (27011C1)
+Guia_docente_Geometría_Global_de_Curvas_y_Superficies (27011C1)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 T.   C.   Hales,  Jordan's  proof  of  the  Jordan  Curve  Theorem,  Studies  in  Logic,  Grammar  and  Rhetoric  10
 (23) 2007
 
 📚 Recursos sin cambios (7):
-------------------------------
+
 D.J.   Struik,   Lectures   on   classical   differential   geometry.  Reprint  of  the  second  edition.  Dover
 Publications, Inc., New York, 1988
 
@@ -27,7 +27,7 @@ R. S. Millman y G. D. Parker, Elements of Differential Geometry, Prentice-Hall, 
 S. Montiel y A. Ros, Curves and Surfaces, AMS Graduate Studies in Mathematics, 69, 2005
 
 ✅ Recursos añadidos (1):
-------------------------------
+
 K. Tapp, Differential Geometry of Curves and Surfaces, Undergrad. Texts Math. Springer, [Cham], 2016
 
 📊 Porcentaje estimado de cambio: 25% [██░░░░░░░░]

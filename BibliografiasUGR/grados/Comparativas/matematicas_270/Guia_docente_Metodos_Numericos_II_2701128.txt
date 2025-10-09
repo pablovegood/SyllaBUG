@@ -1,14 +1,14 @@
-🆚 Comparativa de bibliografía: Guia_docente_Métodos_Numéricos_II (2701128)
+Guia_docente_Métodos_Numéricos_II (2701128)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 Ariel,   2001   Lambert,  J.D.  (1993).  Numerical  methods  for  ordinary  differential  systems:  the  initial
 value problem, John Wiley
 
 📚 Recursos sin cambios (8):
-------------------------------
+
 Atkinson, K., (1989). An introduction to numerical analysis. Second edition. John Wiley and Sons
 
 Burden,   R.L.   y   Faires,  J.D.  (2011).  Análisis  Numérico.  Novena  edición,  Cengage  Learning  Editores,
@@ -28,7 +28,7 @@ Sauer, T. (2013). Análisis Numérico, Pearson, México
 Stoer, J. & Bulirsch, R (2000). Introduction to numerical analysis, 3ª Ed. Springer-Verlag
 
 ✅ Recursos añadidos (1):
-------------------------------
+
 Lambert,   J.D.   (1993).   Numerical   methods   for   ordinary   differential   systems:  the  initial  value
 problem, John Wiley
 

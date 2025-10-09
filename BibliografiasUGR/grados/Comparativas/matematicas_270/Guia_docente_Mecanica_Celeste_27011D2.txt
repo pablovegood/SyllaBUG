@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Mecánica_Celeste (27011D2)
+Guia_docente_Mecánica_Celeste (27011D2)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (4):
-------------------------------
+
 H. Pollard, Mathematical Introduction to Celestial Mechanics, Prentice-Hall Inc., 1966
 
 K.R.   Meyer,   D.   Offin,  Introduction  to  Hamiltonian  Dynamical  Systems  and  the  N-Body  Problem,  third
@@ -19,7 +19,7 @@ V.I. Arnold, V.V. Kozlov, A.I. Neishtadt, Mathematical Aspects of Classical and 
 Dynamical Systems III, Springer- Verlag 1998
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

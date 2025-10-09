@@ -1,15 +1,15 @@
-🆚 Comparativa de bibliografía: Guia_docente_Curvas_y_Superficies (2701131)
+Guia_docente_Curvas_y_Superficies (2701131)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (1):
-------------------------------
+
 J.       Pérez:       Curvas       y       superficies.       Granada,       2014.       Disponible       en
 https://wpd.ugr.es/~jperez/wordpress/wp-content/uploads/raizCyS.pdf   A.   F.  Costa,  M.  Gamboa  y  A.  M.
 Porto: Notas de geometría diferencial de curvas y superficies. Editorial Sanz y Torres, Madrid, 1977
 
 📚 Recursos sin cambios (6):
-------------------------------
+
 A. M. Amores Lázaro: Curso básico de curvas y superficies. Editorial Sanz y Torres, Madrid, 2001
 
 D. J. Struik: Geometría diferencial clásica. Aguilar, Madrid, 1973
@@ -27,7 +27,7 @@ Mathematics,   69  (2005).  Versión  en  inglés  de  la  edición  en  castell
 Ediciones, Granada, 1997
 
 ✅ Recursos añadidos (3):
-------------------------------
+
 A.   F.   Costa,   M.   Gamboa   y   A.   M.  Porto:  Notas  de  geometría  diferencial  de  curvas  y  superficies.
 Editorial Sanz y Torres, Madrid, 1977
 

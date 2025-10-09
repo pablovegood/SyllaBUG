@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Análisis_Numérico_de_Ecuaciones_en_Derivadas_Parciales (27011D3)
+Guia_docente_Análisis_Numérico_de_Ecuaciones_en_Derivadas_Parciales (27011D3)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (15):
-------------------------------
+
 A.   Delgado,  J.J.  Nieto,  A.  M.  Robles,  O.  Sánchez,  Métodos  Numéricos  básicos  con  Octave,  Ed.  Técnica
 AVICAM (Fleming), Granada 2016
 
@@ -47,7 +47,7 @@ The Octave Project Developers, GNU Octave (version 7.1.0), consultado en Mayo 20
 W. Gautschi, Numerical Analysis, Birkhäuser-Boston, 2012
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

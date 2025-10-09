@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Teoría_de_Números_y_Criptografía (27011A4)
+Guia_docente_Teoría_de_Números_y_Criptografía (27011A4)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (7):
-------------------------------
+
 A.   Enge.   Elliptic   curves  and  their  applications  to  cryptography.  An  introduction.  Kluwer  Academic
 Publishers. 1999
 
@@ -29,7 +29,7 @@ Yu.   I.   Manin   and   A.A.   Panchishkin.   Introduction   to   modern   numb
 Encyclopaedia of mathematical Sciences, Vol. 49. Springer-Verlag, Berlin Heidelberg, 2005
 
 ✅ Recursos añadidos (1):
-------------------------------
+
 L. EL Kaoutit, Teoría elemental de números. UGR, 2003 (disponible en Prado)
 
 📊 Porcentaje estimado de cambio: 12% [█░░░░░░░░░]

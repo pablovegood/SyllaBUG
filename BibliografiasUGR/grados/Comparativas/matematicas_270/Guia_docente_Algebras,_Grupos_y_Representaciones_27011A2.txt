@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Álgebras,_Grupos_y_Representaciones (27011A2)
+Guia_docente_Álgebras,_Grupos_y_Representaciones (27011A2)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (11):
-------------------------------
+
 B. Steinberg. Representation theory of finite groups. Springer, 2012
 
 J. P. Serre. Linear representations of finite groups. Springer, 1977
@@ -35,7 +35,7 @@ http://hdl.handle.net/10481/62890 I. M. Isaacs. Character theory of finite group
 http://hdl.handle.net/10481/62890
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

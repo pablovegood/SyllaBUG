@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Cálculo_II (2701116)
+Guia_docente_Cálculo_II (2701116)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (7):
-------------------------------
+
 C. APARICIO DEL PRADO y R. PAYÁ ALBERT. Análisis Matemático. Sec. Publ. Univ. Granada, 1986
 
 D. BRESSOUD. A Radical Approach to Real Analysis. Math. Assoc. America, Washington, 2007
@@ -24,7 +24,7 @@ S.K. BERBERIAN. A First Course in Real Analysis. Springer-Verlag, New York, 1994
 STEWART, J.: Cálculo diferencial e integral. Thomson, México 1999
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

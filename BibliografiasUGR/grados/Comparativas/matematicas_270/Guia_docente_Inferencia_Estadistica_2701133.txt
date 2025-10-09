@@ -1,13 +1,13 @@
-🆚 Comparativa de bibliografía: Guia_docente_Inferencia_Estadística (2701133)
+Guia_docente_Inferencia_Estadística (2701133)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (0):
-------------------------------
+
 No hay elementos.
 
 📚 Recursos sin cambios (19):
-------------------------------
+
 Canavos,   G.  (2003).  Probabilidad  y  Estadística:  Aplicaciones  y  Métodos.  McGraw-Hill  Interamericana,
 México
 
@@ -56,7 +56,7 @@ de Ejercicios Resueltos. Tilde, Valencia
 Vélez, R. y García, A. (1993). Principios de Inferencia Estadística. UNED, Madrid
 
 ✅ Recursos añadidos (0):
-------------------------------
+
 No hay elementos.
 
 📊 Porcentaje estimado de cambio: 0% [░░░░░░░░░░]

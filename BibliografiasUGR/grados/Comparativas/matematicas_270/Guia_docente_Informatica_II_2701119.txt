@@ -1,9 +1,9 @@
-🆚 Comparativa de bibliografía: Guia_docente_Informática_II (2701119)
+Guia_docente_Informática_II (2701119)
 Grado: matematicas (270)
-==================================================
+
 
 ❌ Recursos eliminados (2):
-------------------------------
+
 Eckel,   B.,   Thinking   in  C++.  2ª  Edición.  Prentice-Hall.  2000.  Disponible  en  versión  electrónica  en
 http://www.bruceeckel.com/   Garrido,   A.,   Fdez-Valdivia,   J.,  Abstracción  y  Estructuras  de  datos  en
 C++. Delta publicaciones, 2006
@@ -11,17 +11,17 @@ C++. Delta publicaciones, 2006
 Savich, W., Resolución de problemas en C++, 2ª Edición, Prentice may, 2000
 
 📚 Recursos sin cambios (7):
-------------------------------
+
 A.   Garrido   Metodología   de   la  Programación:  de  bits  a  objetos  .  Editorial  Universidad  de  Granada.
 2016
+
+A.   Garrido   y   J.   Martínez-Baena,   Introducción   a   la  Programación  con  C++.  Ejercicios.  Editorial
+Universidad   de   Granada,  2016.  Contiene  ejercicios  y  explicaciones  sobre  todos  los  temas  del  curso.
+Es un libro digital que se ofrece gratuitamente a los estudiantes de la UGR
 
 Deitel, H. M., Deitel, P. J., C++ How to Program . 4ª Edición. Prentice Hall. 2003
 
 Mercer, R., Computing Fundamentals with C++ . 2ª Edición. Franklin, Beedle & Associates. 1999
-
-Prácticas:   A.   Garrido   y   J.   Martínez-Baena,   Introducción  a  la  Programación  con  C++.  Ejercicios.
-Editorial   Universidad   de   Granada,  2016.  Contiene  ejercicios  y  explicaciones  sobre  todos  los  temas
-del curso. Es un libro digital que se ofrece gratuitamente a los estudiantes de la UGR
 
 Sedgewick. R., Algorithms in C++ . Addison-Wesley, 2002
 
@@ -30,16 +30,16 @@ Stroustrup, B., El lenguaje de Programación C++, 3ª Edición (Especial), Addis
 Teoría: A. Garrido, Fundamentos de programación con la STL. Editorial Universidad de Granada, 2016
 
 ✅ Recursos añadidos (5):
-------------------------------
-A.   Garrido   y   J.   Martínez-Baena,   Introducción   a   la  Programación  con  C++.  Ejercicios.  Editorial
-Universidad   de   Granada,  2016.  Contiene  ejercicios  y  explicaciones  sobre  todos  los  temas  del  curso.
-Es un libro digital que se ofrece gratuitamente a los estudiantes de la UGR
 
 Eckel,   B.,   Thinking  in  C++  .  2ª  Edición.  Prentice-Hall.  2000.  Disponible  en  versión  electrónica  en
 http://www.bruceeckel.com/
 
 Garrido,   A.,   Fdez-Valdivia,   J.,   Abstracción  y  Estructuras  de  datos  en  C++  .  Delta  publicaciones,
 2006
+
+Prácticas:   A.   Garrido   y   J.   Martínez-Baena,   Introducción  a  la  Programación  con  C++.  Ejercicios.
+Editorial   Universidad   de   Granada,  2016.  Contiene  ejercicios  y  explicaciones  sobre  todos  los  temas
+del curso. Es un libro digital que se ofrece gratuitamente a los estudiantes de la UGR
 
 Savich, W., R esolución de problemas en C++, 2ª Edición, Prentice may, 2000
 
