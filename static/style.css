@@ -424,3 +424,10 @@ body.modal-open { overflow: hidden; }
   white-space: nowrap;
   opacity: 0.8;
 }
+
+/* Justificar texto dentro de la ventana emergente */
+.modal-body {
+  text-align: justify;
+  text-justify: inter-word; /* mejora la distribución del espaciado */
+  line-height: 1.6; /* mejora la legibilidad */
+}
