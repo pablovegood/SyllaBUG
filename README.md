@@ -2,7 +2,6 @@
 
 SyllaBUG es una herramienta de control de versiones de bibliografías de guías docentes de la Universidad de Granada (UGR). Su objetivo es detectar cambios en la bibliografía de una asignatura entre el curso académico anterior y el actual para facilitar tareas de revisión y actualización.
 
----
 
 ## Fuentes de datos
 
@@ -16,7 +15,6 @@ La herramienta trabaja con dos fuentes principales:
    - Se extraen desde las páginas web oficiales de las guías.
    - Ejemplo: https://derecho.ugr.es/docencia/grados/graduadoa-derecho/derechos-humanosigualdad-y-sistemas-proteccion/11/guia-docente
 
----
 
 ## ¿Qué hace el proyecto?
 
@@ -34,7 +32,6 @@ La herramienta trabaja con dos fuentes principales:
      * Un porcentaje estimado de cambio
    - La comparación intenta ser robusta ante pequeñas variaciones (ediciones, años, editoriales, etc.) usando normalización y similitud de texto (fuzzy matching).
 
----
 
 ## Interfaz Web
 
@@ -42,7 +39,6 @@ El repositorio incluye una pequeña app web (Flask) para visualizar comparativas
 
 El programa se encuentra desplegado en la nube con Render y se puede consultar en el siguiente enlace: https://syllabug.onrender.com/
 
----
 
 ## Estructura de Salida
 
@@ -51,7 +47,6 @@ Las bibliografías y comparativas se guardan en una estructura tipo:
 - BibliografiasUGR/grados/<curso>/...              (TXT por asignatura)
 - BibliografiasUGR/grados/Comparativas/<grado>/... (comparativas generadas)
 
----
 
 ## Scripts Principales
 
@@ -60,7 +55,6 @@ Las bibliografías y comparativas se guardan en una estructura tipo:
 - comparar.py                  : genera comparativas (añadidos/eliminados/iguales) y métricas
 - app.py                       : interfaz web Flask para explorar resultados
 
----
 
 ## Mantenimiento
 
