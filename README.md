@@ -4,7 +4,7 @@ SyllaBUG es una herramienta de control de versiones de bibliografías de guías 
 
 ---
 
-### FUENTES DE DATOS
+## Fuentes de datos
 
 La herramienta trabaja con dos fuentes principales:
 
@@ -18,7 +18,7 @@ La herramienta trabaja con dos fuentes principales:
 
 ---
 
-### ¿QUÉ HACE EL PROYECTO?
+## ¿Qué hace el proyecto?
 
 1) Extracción de bibliografías del año anterior (PDF)
    - Descarga las guías firmadas y extrae el bloque de bibliografía aplicando filtros para reducir “ruido” típico del PDF (cabeceras, secciones no relevantes, etc.).
@@ -36,7 +36,7 @@ La herramienta trabaja con dos fuentes principales:
 
 ---
 
-### INTERFAZ WEB
+## Interfaz Web
 
 El repositorio incluye una pequeña app web (Flask) para visualizar comparativas de forma cómoda, filtrando por biblioteca y grados (a partir de un Excel de mapeo) y mostrando las comparativas ordenadas por número de cambios.
 
@@ -44,7 +44,7 @@ El programa se encuentra desplegado en la nube con Render y se puede consultar e
 
 ---
 
-### ESTRUCTURA DE SALIDA 
+## Estructura de Salida
 
 Las bibliografías y comparativas se guardan en una estructura tipo:
 
@@ -53,9 +53,15 @@ Las bibliografías y comparativas se guardan en una estructura tipo:
 
 ---
 
-### SCRIPTS PRINCIPALES
+## Scripts Principales
 
 - extraer_bibiografias_2425.py : extracción desde PDFs firmados (año anterior)
 - extraer_bibliografias_2526.py: extracción desde HTML (año actual)
 - comparar.py                  : genera comparativas (añadidos/eliminados/iguales) y métricas
 - app.py                       : interfaz web Flask para explorar resultados
+
+---
+
+## Mantenimiento
+
+La intención es que para el año que viene solo se use el extractor de bibliografías del curso actual en formato HTML ya que las del año anterior están ya guardadas al ser las actuales de este año. De esta forma cualquier tipo de error por diferencia de formatos desaparecerá.
